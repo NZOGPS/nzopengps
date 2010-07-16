@@ -1,0 +1,224 @@
+1030000001144	Old Pigeon Bay Road	Okains Bay
+1030000001218	Eyre Main Drain Road	Wilsons Siding-Clarkville	14/04/2010 9:01p.m.
+1030000001389	Gloucester Arcade	Christchurch Central
+1030000001390	High Street Arcade	Christchurch Central
+1030000001640	BOULDER RD	Glentui (Canterbury, NZ)	8/05/2010 11:39p.m.
+1030000003141	Cottons Road	Okains Bay
+1030000003854	Saddle Road	Teddington
+1030000017623	Old German Bay Road	Akaroa
+1030000025396	Hobson Street	Kurow
+1030000025422	Stanley Street	Livingstone
+1030000025449	Princes Street	Ngapara
+1030000025451	Queen Street	Ngapara	28/04/2010 12:08p.m.
+1030000025475	Webster Street	Windsor
+1030000025562	Smith Street	Duntroon
+1030000025569	South Street	Waitaki Bridge
+1030000025623	Dee Street	Georgetown
+1030000025640	Cairns Road	Maerewhenua
+1030000025678	Kildrummy Street	Georgetown
+1030000025768	Moffat Street	Livingstone
+1030000025827	Grant Street	Duntroon
+1030000025881	Don Street	Georgetown
+1030000025888	MacLean Street	Waitaki Bridge
+1030000025896	Lowe Street	Waitaki Bridge
+1030000025919	Blantyre Street	Livingstone
+1030000025923	Bogie Street	Georgetown
+1030000026148	Strangford Street	Naseby	14/04/2010 8:14p.m.
+1030000026184	Enwright Road	Saint Bathans
+1030000026211	CALDER ST	Wedderburn
+1030000026212	Cambrian Settlement Road	Cambrians	28/04/2010 8:54a.m.
+1030000026219	Holywood Street	Naseby
+1030000026228	BROWN ST	Wedderburn
+1030000026251	Annalee Street	Naseby
+1030000026257	MIDDLE ST	Hills Creek	28/04/2010 10:59a.m.
+1030000026280	Webb Road	Saint Bathans
+1030000026317	Lewis Road	Oturehua
+1030000026329	HAWKDUN STATION RD	Saint Bathans (Otago, NZ)	17/06/2010 10:14a.m.
+1030000026343	Belfast Street	Naseby
+1030000026367	Owel Street	Naseby
+1030000026674	Derby Street	Arrowtown	16/04/2010 5:38p.m.
+1030000026677	Flint Street	Arrowtown
+1030000026733	Kilmuir Street	Kinloch
+1030000026752	CECIL RD	Queenstown (Otago, NZ)	23/06/2010 2:24p.m.
+1030000026771	Corry Street	Kinloch
+1030000026877	Nevis Street	Kinloch
+1030000026880	Tallisker Street	Kinloch
+1030000026914	Skye Street	Kinloch
+1030000026984	Waitiri Road	Roaring Meg
+1030000027085	Dublin Street	Hawea Flat	28/04/2010 10:54a.m.
+1030000027088	Charles Street	Gladstone
+1030000027089	Cork Street	Gladstone
+1030000027096	Seven Street	Gladstone
+1030000027098	Carnsore Street	Hawea Flat
+1030000027119	Kinsale Street	Gladstone
+1030000027130	Fort Street	Gladstone
+1030000027136	Baltimore Street	Gladstone
+1030000027137	Barry Street	Gladstone
+1030000027148	Waterford Terrace	Hawea Flat
+1030000027156	Tuscar Street	Hawea Flat
+1030000034710	Gold Spur Road	Duvauchelle
+1030000034860	Malmanche Road	Long Bay
+1030000034902	SHAWS RD	Little Akaloa	28/04/2010 8:42p.m.
+1030000034937	Ridge Road	Pigeon Bay
+1030000035038	Spur Road	Barrys Bay
+1030000035127	RUE CHARBONNIER	Akaroa 
+1030000039345	DERBY ST	Okarito
+1030000039352	QUEEN ST	Okarito
+1030000039357	JUAN RD	Ruatapu (West Coast, NZ)	1/07/2010 9:56a.m.
+1030000039363	Town Belt	Ross
+1030000039379	H N LINE RD	Totara River	16/04/2010 3:26p.m.
+1030000039382	H F LINE RD	Ruatapu
+1030000039384	HAMPTON ST	Ross
+1030000039385	H G LINE RD	
+1030000039403	Lang Road	Kokatahi
+1030000039408	LEOPOLD ST	Okarito
+1030000039417	FLAGSTAFF RD	Paringa (West Coast, NZ)	23/06/2010 3:34p.m.
+1030000039440	ALBION ST	Okarito
+1030000039460	Fitzgerald Street	Jackson Bay
+1030000039463	FERRY RD	Ruatapu (West Coast, NZ)	1/07/2010 9:58a.m.
+1030000039464	Waipara Street	Jackson Bay
+1030000039468	Ward Road	Paringa
+1030000039470	Walsh Road	Gillespies Beach
+1030000039471	WALLACE RD	Westland National Park (West Coast, NZ)	22/06/2010 3:44p.m.
+1030000039516	ARTHUR ST	Okarito
+1030000039522	Roto Road	Okarito
+1030000039531	Bay Road	Jackson Bay
+1030000039554	MCGLOIN RD	Bruce Bay (West Coast, NZ)	23/06/2010 3:33p.m.
+1030000039560	Glass Road	Kokatahi
+1030000039566	OMOEROA RD	Waiho (West Coast, NZ)	22/06/2010 3:45p.m.
+1030000039568	Ollivier Street	Jackson Bay
+1030000039576	Mt Tuhua Track	Kokatahi
+1030000039580	MUNROE RD	Westland National Park (West Coast, NZ)	22/06/2010 3:46p.m.
+1030000039584	MacFarlane Road	Jackson Bay
+1030000039589	MacLean Road	Jackson Bay
+1030000039602	Cliff Road	Jackson Bay
+1030000039603	COCHRANE RD	Ruatapu
+1030000039619	DUFF ST	Ross
+1030000039626	Ryan Road	Fox Glacier
+1030000039627	Scott Road	Karangarua
+1030000039633	Point Road	Jackson Bay
+1030000039635	Pine Road	Paringa
+1030000039638	PRATT RD	Franz Josef Glacier (West Coast, NZ)	22/06/2010 3:40p.m.
+1030000039876	Atkinson Street	Cheviot
+1030000039900	Fitzherbert Street	Cheviot
+1030000039963	Church Street	Waikari
+1030000040008	Queen Street	Waikari	28/04/2010 2:56p.m.
+1030000040023	Canterbury Terrace	Leithfield
+1030000040221	Hawkhurst Lane	Lyttelton
+1030000040235	Old Sumner Lyttelton Road	Lyttelton
+1030000040259	CASTLE PEAK RD	Diamond Harbour (Canterbury, NZ)	1/07/2010 5:09p.m.
+1030000040264	Kaituna Bush Road	Teddington
+1030000040268	Klondyke Road	Coalgate
+1030000040296	CHURCH GULLY RD	Diamond Harbour (Canterbury, NZ)	1/07/2010 5:10p.m.
+1030000040316	Bush Road	Taitapu
+1030000040340	Fleet Street	Little River
+1030000040359	Valley Road	Little River
+1030000040377	MacAulay Street	Dunsandel
+1030000040400	Gammacks Road	Motukarara
+1030000040407	Erskine Street	Dunsandel
+1030000040408	Efforts Road	Dunsandel
+1030000040414	Eldon Street	Dunsandel
+1030000040415	Fergusson Street	Southbridge
+1030000040425	Railway Terrace East	Dunsandel
+1030000040437	Taumutu Rakaia Road	Southbridge
+1030000040565	Market Place	Dunsandel
+1030000040567	Mansfield Street	Dunsandel
+1030000040570	Campbell Street	Dunsandel
+1030000040573	Bulwer Street	Dunsandel
+1030000040637	Victoria Square	Dunsandel
+1030000040658	St Leonard Street	Dunsandel
+1030000040671	Park Street	Dunsandel	28/04/2010 9:44a.m.
+1030000040703	George Square	Coalgate
+1030000040762	Wing Street	Coalgate
+1030000040791	Bluff Street	Coalgate
+1030000040810	Princes Street	Springfield
+1030000040811	Princes Street	Sheffield	28/04/2010 2:25p.m.
+1030000040825	High Street	Coalgate
+1030000040857	Regent Street	Springfield
+1030000040858	Kowai River Road	Springfield
+1030000040863	Riversdale Road	Arthurs Pass
+1030000040866	Bank Street	Coalgate
+1030000040883	John Street	Coalgate
+1030000040942	Old Coach Road	Arthurs Pass National Park
+1030000040967	Upper High Street	Coalgate
+1030000040973	Lyndon Stock Road	Snowdon
+1030000040980	Charles Street	Coalgate
+1030000041058	Burkes Bush Road	Taitapu
+1030000041295	Russell Street	Eiffelton
+1030000041414	Jollie Street	Eiffelton
+1030000041525	BRUCES RD	Ashburton Forks (Canterbury, NZ)	1/07/2010 9:02p.m.
+1030000041568	Church Street	Eiffelton
+1030000041584	Old Main South Road	Rakaia
+1030000041699	Henley Street	Eiffelton
+1030000041738	MAYORS RD	Staveley	6/04/2010 6:37p.m.
+1030000041767	Lowerys Road	Winslow
+1030000041837	Lushman Road	Beautiful Valley
+1030000041850	Stevenson Road	Kakahu
+1030000041856	STONELEIGH ST	Woodbury (Canterbury, NZ)	1/07/2010 3:53p.m.
+1030000041861	Sugarloaf Road	Kakahu
+1030000041876	Waller Road	Geraldine Downs
+1030000041928	Jollie Street	Rangitata
+1030000041931	Jonsen Road	Four Peaks
+1030000041960	Cox Street	Rangitata
+1030000041962	Cooper Street	Rangitata
+1030000041973	Bary Road	Rangitata Island
+1030000041997	Uprichard Road	Peel Forest
+1030000042007	McBeth Road	Kakahu
+1030000042010	Martin Road	Geraldine Downs
+1030000042041	Manuka Street	Pleasant Point
+1030000042081	McKie Road	Kakahu
+1030000042090	Borrell Road	Kakahu	30/04/2010 12:25a.m.
+1030000042093	Boundary Road	Peel Forest	28/04/2010 12:50p.m.
+1030000042097	Bissett Road	Temuka
+1030000042099	AUSTIN LANE	Orari	5/04/2010 12:39a.m.
+1030000042159	Burma Road	Orari Gorge
+1030000042177	Garforth Road	Kakahu
+1030000042228	Ford Road	Kakahu
+1030000042278	Rata Street	Pleasant Point
+1030000042285	Slip Panel Road	Orari Gorge
+1030000042287	Smith Road	Kakahu	28/04/2010 11:33a.m.
+1030000042333	Edward Street	Rangitata
+1030000042823	MILL RD	Fairlie (Canterbury, NZ)	28/05/2010 5:44p.m.
+1030000052352	Atom Lane	Woolston
+1030000052547	Cuba Street	Linwood
+1030000053323	Stowells Road	St Andrews
+1030000053913	National Mutual Arcade	Christchurch Central
+1030000054060	Grace Track	Eyrewell Forest
+1030000054068	Headquarters Drive	Eyrewell Forest
+1030000054272	Clarksons Road	Mcleans Island
+1030000054369	Cox's Road	Mcleans Island
+1030000054919	Kennedy Road	Eyrewell Forest
+1030000055593	Cornwall Track	Eyrewell Forest
+1030000055601	Driscolls Road	Swannanoa
+1030000055616	Princes Street	Loburn
+1030000055620	JACKS RD
+1030000055620	Jacks Road	Loburn
+1030000055630	Queen Street	Loburn
+1030000055642	Calthorpe Street	Loburn
+1030000055663	Norfolk Street	Loburn
+1030000055674	BRADYS RD
+1030000055676	Bromsgrove Street	Loburn
+1030000055686	River Road	Loburn
+1030000055709	Westall Street	Loburn
+1030000055725	Worcester Street	Loburn
+1030000055770	Boys Street	Kaiapoi
+1030000055838	BASSETTS RD
+1030000055838	Bassetts Road	View Hill
+1030000055846	McCandlishs Road	Coopers Creek	28/04/2010 9:26a.m.
+1030000055856	TRIG RD
+1030000055910	Clifford Road	Camside
+1030000056764	DEMON TRAIL
+1030000182264	F F Road	Kokatahi
+1030000184893	Paparua Drive	Templeton
+1030000184895	The Crescent	Templeton
+1030000184897	Tahi Rua	Templeton
+1030000193307	CAPLES ST
+1030000193309	NORTH ST
+1030000193311	JOHN ST
+1030000193313	BAY ST
+1030000193315	CAMP ST
+1030000193317	DORNA ST
+1030000193319	DILLA ST
+1030000193321	SOUTH ST
+1030000193443	LAKE ST
+2030000004957	KAIPO BAY WLK

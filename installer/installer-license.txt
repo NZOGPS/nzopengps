@@ -1,0 +1,63 @@
+UMP License v1.0
+
+0. Preamble
+
+To goal of UMP (Unofficial Map Project) movement is a creation of Free vector 
+Maps. The Maps distributed under this concept are free to obtain, modify and use 
+for personal purposes. They are also free to modify and redistribute as far as 
+Authors' credits and Freedom of the Map are not violated.
+
+1. Acceptance of terms
+
+By using the Maps (any maps contained in this package or any accompanying data 
+or software), you accept the terms of this License. Do not install or use the 
+Maps if you do not agree with any of the License terms.
+
+2. Free availability
+
+Any Maps covered by the License have to be distributed or redistributed free of 
+charge. Only pure media costs may be charged under the condition that the 
+channel free of media costs (like the Internet) is made available in parallel or 
+is referred to. In such case the information about free distribution channel has 
+to be visible before purchasing the media.
+
+3. Freedom of use
+
+Any Map covered by the License may be used for any personal or educational 
+purposes without limitations, including decompilation, modification, conversion 
+and recompilation. Any professional use (including but not limited to 
+commercial, governmental or military use) may require separate agreement with 
+Authors if not stated otherwise.
+
+4. Freedom of development
+
+The Maps covered by the License are free to modify and redistribute by anyone 
+under the condition that Authors' credits are preserved and the modifications 
+are distributed under the same or compatible license. Same rules apply to all 
+works based on the Maps.
+
+The Maps covered by the License may be incorporated and shipped together with 
+differently licensed works under the condition that the Maps are well separated 
+and this License (which may not be violated) is clearly stated for that part. 
+Additionally all competing or similar data contained in such product has to be 
+released under the same or compatible license.
+
+5. Open development
+
+If the Maps are distributed in the binary form, the source format has to be made 
+available at the same time. As an alternative, source package my be referred to 
+in case it is available through a channel free of media costs.
+
+Authors (or recent maintainer of the Maps) should be notified about any released 
+modifications to their work. If this is not possible, modifications should be 
+announced through community channels like map-authoring focused newsgroups, 
+forums or webpages.
+
+6. Disclaimer of warranties
+
+Authors take no responsibility for any direct or indirect damage resulting from 
+the use of the Maps. All the data and software is provided "as is", the Maps 
+shall be used at the sole responsibility of the user.
+
+Special care should be taken when using the data as navigation aid, as mapping 
+data may be misleading, incomplete or incorrect.

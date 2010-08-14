@@ -112,6 +112,7 @@
 1030000057255		MEDEA ST			Lumsden (Southland, NZ)
 1030000057321		CRINO ST			Lumsden (Southland, NZ)
 1030000057375		RIVER ST		Waikawa (Southland, NZ)	11/07/2010 1:41:56 p.m.
+1030000057401		BRIGHTON ST		Riversdale (Southland, NZ)	14/08/2010 9:44:24 p.m.
 1030000057451		MILL ST			Waikawa (Southland, NZ)	11/07/2010 1:43:50 p.m.
 1030000057536		IRA ST				Lumsden (Southland, NZ)
 1030000057537		JUNO ST				Lumsden (Southland, NZ)

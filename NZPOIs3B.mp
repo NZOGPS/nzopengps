@@ -6602,9 +6602,9 @@ Data0=(-43.56608,172.63672)
 [POI]
 Type=0x2c05
 Label=TIMARU CHRISTIAN SCHOOL
-StreetDesc=91 A North St, Parkside, Timaru/ State Integrated Co-Ed Primary, Intermediate Sc
+StreetDesc=10 Quarry Rd, Watlington, Timaru/ State Integrated Co-Ed Primary, Intermediate S
 Phone=+6436881422
-Data0=(-44.40036,171.24497)
+Data0=(-44.40312,171.22855)
 [END]
 
 ;1022806
@@ -9003,7 +9003,7 @@ Data0=(-41.51387,173.95351)
 ;1029372
 [POI]
 Type=0x2e02
-Label=TIMARU WOOLWORTHS
+Label=TIMARU COUNTDOWN
 StreetDesc=Church St, Timaru/ supermarket
 Phone=+6436883136
 zip=Mon - Sun, 8am - 9pm
@@ -28267,7 +28267,7 @@ Data0=(-44.29970,171.20094)
 [POI]
 Type=0x2c08
 Label=RUAPUNA RACEWAY
-StreetDesc=Hasketts Rd Templeton/ 
+StreetDesc=Hasketts Rd Templeton/ Motorsport, Drag Racing
 Data0=(-43.53212,172.48574)
 [END]
 
@@ -34452,20 +34452,20 @@ Data0=(-41.76460,171.61142)
 [POI]
 Type=0x2e
 Label=BBQ FACTORY CHRISTCHURCH
-StreetDesc=Cnr Troup Dr and Clarence Streets, Addington/ Barbecues, spa pools, outdoor furn
-Phone=+6433418700
-zip=Monday to Friday 9am to 5.30pm, Thursday
-Data0=(-43.53928,172.60496)
+StreetDesc=950 Ferry Rd, Woolston, Chc/ Barbecues, spa pools, outdoor furniture, indoor hea
+Phone=+6433846285
+zip=Monday to Friday 9am to 5.00pm, Saturday
+Data0=(-43.55710,172.69706)
 [END]
 
 ;1095524
 [POI]
 Type=0x2e
 Label=BBQ FACTORY DUNEDIN
-StreetDesc=166 Crawford St, Dud/ Barbecues, spa pools, outdoor furniture, indoor heating, s
-Phone=+6434777315
-zip=Monday to Friday 9.00am to 5.30pm, Satur
-Data0=(-45.88368,170.49963)
+StreetDesc=252 Cumberland St, Dud/ Barbecues, spa pools, outdoor furniture, indoor heating,
+Phone=+6434772728
+zip=Monday to Friday 9.00am to 5.00pm, Satur
+Data0=(-45.87556,170.50633)
 [END]
 
 ;1095531
@@ -71759,9 +71759,9 @@ Data0=(-45.67135,167.93001)
 ;1116724
 [POI]
 Type=0x2f
-Label=?APARIMA HUT (MAIN HUT)
+Label=APARIMA HUT (MAIN HUT)
 StreetDesc=Takitimu Conservation Area, Murihiku/ DOC Backcountry hut
-Data0=(-45.70708,167.99890)
+Data0=(-45.70734,167.99973)
 [END]
 
 ;1116726
@@ -77826,10 +77826,10 @@ Data0=(-41.51343,173.96742)
 ;1118254
 [POI]
 Type=0x2a
-Label=LE MONDE
+Label=FUSION
 StreetDesc=64 The Bay Hill, Timaru/ Restaurant, cafe, food
 Phone=+6436888550
-zip=Tue - Sun
+zip=Mon-Sun: 11am to 2pm and 5pm to 10pm
 Data0=(-44.39184,171.24731)
 [END]
 
@@ -98843,8 +98843,9 @@ Data0=(-43.64031,172.48474)
 [POI]
 Type=0x2a
 Label=FELIX THE CAFE
-StreetDesc=Gerald St, Lincoln/ Cafe, Restaurant
+StreetDesc=9 Gerald St, Lincoln/ Cafe, Restaurant
 Phone=+6433253228
+zip=Mon -Sat 10am-9pm
 Data0=(-43.64051,172.48376)
 [END]
 
@@ -101858,7 +101859,7 @@ Data0=(-43.53279,172.63948)
 [POI]
 Type=0x2f
 Label=RUAPUNA SPEEDWAY, CHRISTCHURH
-StreetDesc=79 Hasketts Rd, Chc/ SNZ racing track
+StreetDesc=79 Hasketts Rd, Chc/ SNZ racing track, Motorsport
 Data0=(-43.53627,172.48368)
 [END]
 
@@ -105968,6 +105969,7 @@ Data0=(-43.52904,172.63987)
 Type=0x2f
 Label=MEMORIES
 StreetDesc=509 Papanui Rd, Chc/ 
+Phone=+6433520049
 Data0=(-43.49723,172.60774)
 [END]
 
@@ -129734,7 +129736,7 @@ Data0=(-41.33828,173.15931)
 ;1141558
 [POI]
 Type=0x2f
-Label=TUATAUPERE SAUSAGES
+Label=TUATAPERE SAUSAGES
 StreetDesc=75 Main St, Tuatapere/ Sausage Capital, Famous Handmade Sausages
 Phone=+6432266596
 Data0=(-46.13509,167.68898)
@@ -132379,15 +132381,6 @@ Label=PAYPHONE
 StreetDesc=120 Manchester St New Excelsior Backpackers City Chc/ Telecom, payphone, public 
 Phone=+6433661520
 Data0=(-43.53507,172.63911)
-[END]
-
-;1141903
-[POI]
-Type=0x2f15
-Label=PAYPHONE
-StreetDesc=120 Manchester St New Excelsior Backpackers Flr 2 City Chc/ Telecom, payphone, p
-Phone=+6433663584
-Data0=(-43.53472,172.71402)
 [END]
 
 ;1141904
@@ -138725,14 +138718,6 @@ Type=0x2f
 Label=THE SUNROOM FOR HAIR
 StreetDesc=109 Bay Rd, Oxford/ Hairdresser
 Data0=(-43.29080,172.18621)
-[END]
-
-;1144896
-[POI]
-Type=0x2a
-Label=THREE COWS RESTAURANT AND BAR
-StreetDesc=194C Williams St, Kaiapoi/ restaurant, bar
-Data0=(-43.38156,172.65946)
 [END]
 
 ;1144897
@@ -153052,6 +153037,7 @@ Type=0x2e05
 Label=WAVERLEY PHARMACY
 StreetDesc=146 Larnach Rd, Waverley, Dud/ Pharmacy
 Phone=+6434543838
+zip=9am to 6pm monday to friday
 Data0=(-45.88476,170.53155)
 [END]
 
@@ -163867,9 +163853,10 @@ Data0=(-42.71827,170.96140)
 ;1159909
 [POI]
 Type=0x2b02
-Label=TEKAPO HEIGHTS B&B
-StreetDesc=2 Sams Place, Mackenzie, Lake Tekapo/ B&B Accommodation
-Data0=(-44.00769,170.47344)
+Label=TEKAPO HEIGHTS
+StreetDesc=2 Sams Place, Lake Tekapo, South Canterbury/ Looking for accommodation near Lake
+Phone=+6436806528
+Data0=(-44.00751,170.47338)
 [END]
 
 ;1159910
@@ -177814,8 +177801,9 @@ Data0=(-45.88476,170.53155)
 ;1167899
 [POI]
 Type=0x2f
-Label=LAURA FERGUSSON TRUST HOME - CHRISTCHURCH
+Label=THE LAURA FERGUSSON TRUST CENTRE
 StreetDesc=279 Ilam Rd, Ilam, Chc, Canterbury/ 
+Phone=+6433516047
 Data0=(-43.51093,172.58234)
 [END]
 
@@ -183153,8 +183141,8 @@ Data0=(-44.95757,168.84699)
 ;1170774
 [POI]
 Type=0x2f
-Label=ON YER BIKE
-StreetDesc=511 State Highway 6, Coal Creek/ Off Road adventures. Quad bikes, lots of mud, H
+Label=ON YER BIKE ADVENTURES
+StreetDesc=511 State Highway 6, Coal Creek/ Off Road adventures. Quad bikes, lots of mud, 4
 Phone=+6437627438
 Data0=(-42.41794,171.24458)
 [END]
@@ -190935,7 +190923,7 @@ Type=0x2a
 Label=KRAUT'S GERMAN EATERY
 StreetDesc=20Tahunanui Dr, Nelson 7011/ German. Bar. Restaurant. Beer garden. Nelson
 Phone=+6435464787
-zip=Tue-Fri: 4pm till late; Sat+Sun: 11am ti
+zip=Tue-Sun: 4pm till late
 Data0=(-41.28184,173.24898)
 [END]
 
@@ -193320,10 +193308,10 @@ Data0=(-43.52955,172.63645)
 [POI]
 Type=0x2b02
 Label=TRESILLIAN ESTATE
-StreetDesc=45 Johnson Rd, West Melton, Canterbury/ A family owned boutique vineyard, and lu
+StreetDesc=45 Johnson Rd, West Melton, Canterbury/ A family owned boutique vineyard. Cellar
 Phone=+6433474103
-zip=Open by appointment
-Data0=(-43.54066,172.39493)
+zip=10am-5pm 7 days. Please phone first.
+Data0=(-43.53803,172.39510)
 [END]
 
 ;1174216
@@ -195197,8 +195185,8 @@ Data0=(-43.52065,172.62913)
 [POI]
 Type=0x2f
 Label=A1 SCREENPRINT
-StreetDesc=2/28 Tayna St/ Specialist Industrial Screen Printers. mousepads nz, drink coaste
-Phone=+6421848212
+StreetDesc=2/28 Tanya St, Bromley, Chc/ Specialist Industrial Screen Printers. mousepads nz
+Phone=+6433841553
 zip=8am-5pm
 Data0=(-43.54003,172.69570)
 [END]
@@ -198767,7 +198755,7 @@ Data0=(-43.53968,172.59948)
 [POI]
 Type=0x2f01
 Label=BP SOCKBURN
-StreetDesc=222 Main South Rd, Sockburn, Chc/ Fuel, Oil, Lubricants, Accessories, Snacks, Fo
+StreetDesc=222 Main South Rd, Sockburn, Chc/ Service station, Petrol, Fuel, Oil, Lubricants
 Data0=(-43.54301,172.54613)
 [END]
 
@@ -198854,7 +198842,7 @@ Data0=(-44.39708,171.25028)
 [POI]
 Type=0x2e08
 Label=MITRE 10 MEGA TIMARU (OPENING DEC 2010)
-StreetDesc=Bank St, Timaru/ hardware
+StreetDesc=Bank St, Timaru/ Hardware, Building Supplies, Plumbing, Gardening, Power Tools, 
 Data0=(-44.39825,171.25051)
 [END]
 
@@ -198902,5 +198890,220 @@ Label=DOONE COTTAGE BED & BREAKFAST
 StreetDesc=2281 Motueka Valley Highway/ Charming 100 year old home secluded in 4 acres of g
 Phone=+35268740
 Data0=(-41.23739,172.82679)
+[END]
+
+;1177412
+[POI]
+Type=0x2f
+Label=DOUGLAS FURNITURE
+StreetDesc=25 horatio st Chc/ office furniture manufacture
+Phone=+6433661257
+zip=7:30-4:30
+Data0=(-43.53905,172.62626)
+[END]
+
+;1177413
+[POI]
+Type=0x2f
+Label=TOTALLY WIRED LTD
+StreetDesc=217 Stuart St, Dud 9016/ home music systems, radios, televisions, home theatre, 
+Phone=+6434790444
+zip=Mon - Fri 10am-5pm, Sat 10am-1pm
+Data0=(-45.87383,170.50202)
+[END]
+
+;1177418
+[POI]
+Type=0x2f
+Label=MEET NEW ZEALAND VACATIONS
+StreetDesc=25 Revelation Dr, Sumner, Chc/ Personally planned New Zealand self drive holiday
+Phone=+21790054
+Data0=(-43.57388,172.74439)
+[END]
+
+;1177426
+[POI]
+Type=0x2a
+Label=3 COWS BAR & RESTAURANT
+StreetDesc=194 C Williams St Kaiapoi/ Restaurant
+Phone=+6433275009
+Data0=(-43.38156,172.65946)
+[END]
+
+;1177430
+[POI]
+Type=0x2f
+Label=KITCHEN APPLIANCE SPECIALISTS
+StreetDesc=320 Manchester St/ Kitchen Appliance Specialists are the experts in kitchen appl
+Phone=+6433790360
+Data0=(-43.52311,172.63966)
+[END]
+
+;1177437
+[POI]
+Type=0x2f
+Label=FISHER & PAYKEL APPLIANCES
+StreetDesc=L 2, Wall St Mall/ Whiteware, Product Development Centre
+Phone=+6434677600
+Data0=(-45.87132,170.50508)
+[END]
+
+;1177438
+[POI]
+Type=0x2b00
+Label=SMOOTHWATER HAVEN LUXURY BED AND BREAKFAST
+StreetDesc=68 Gilmore Rd, Cromwell, Central Otago/ Accommodation, Homestay
+Phone=+34453231
+Data0=(-44.92983,169.27935)
+[END]
+
+;1177442
+[POI]
+Type=0x2f
+Label=QUEENSTOWN WINE TRAIL WINE TOURS
+StreetDesc=160 Gorge Rd, Queenstown/ Queenstown's original wine tour visiting boutique wine
+Phone=+34413990
+Data0=(-45.01822,168.66329)
+[END]
+
+;1177443
+[POI]
+Type=0x2f
+Label=?REMARKABLE ADVENTURES NEW ZEALAND
+StreetDesc=29 Iverson Tce, Waltham/ Small group, guided multi activity adventure tours for 
+Phone=+39421222
+Data0=(-43.53792,172.60851)
+[END]
+
+;1177446
+[POI]
+Type=0x2F07
+Label=MCIVER & VEITCH
+StreetDesc=112 Crawford St, Dud/ motorcycle, motorbike, dealer, servicing, KTM, Triumph, Ha
+Phone=+6434770236
+Data0=(-45.88152,170.50087)
+[END]
+
+;1177451
+[POI]
+Type=0x2b00
+Label=?GLACIER COUNTRY GUIDE WESTLAND NEW ZEALAND
+StreetDesc=32 Cron St, Franz Josef Glacier/ Travel guide to Franz Josef & Fox Glaciers and 
+Phone=+6437520008
+Data0=(-43.38631,170.18345)
+[END]
+
+;1177456
+[POI]
+Type=0x2f
+Label=?MARINE PROTECTION SYSTEMS
+StreetDesc=Chc/ Marine Protection Systems (MPS) is a Christchurch based foundry specialisin
+Phone=+6421022876
+Data0=(-43.53164,172.63664)
+[END]
+
+;1177472
+[POI]
+Type=0x2f
+Label=FERRYMEAD GOLF
+StreetDesc=50 Ferrymead Park Dr, Chc/ 9 hole golf course Par Pro Shop Taylormade Callaway D
+Phone=+6433765350
+zip=8am - late
+Data0=(-43.56494,172.70113)
+[END]
+
+;1177479
+[POI]
+Type=0x2f
+Label=RACECOURSE VEHICLE SERVICES
+StreetDesc=252A Annex Rd, Middleton, Chc 8024, New Zealand/ WOF, Car repairs, motor mechani
+Phone=+6433416762
+zip=Monday - Friday 8.30am -4.30pm
+Data0=(-43.54171,172.57942)
+[END]
+
+;1177481
+[POI]
+Type=0x2f
+Label=KAYE LE FLEUR 24HR
+StreetDesc=Chc/ Wedding Photographer Christchurch
+Phone=+6427354844
+zip=24 x 7
+Data0=(-43.50461,172.72834)
+[END]
+
+;1177484
+[POI]
+Type=0x2f
+Label=G-TECH BELLMOR
+StreetDesc=21 Empire Rd, Belfast, Chc 8083, New Zealand/ Separation equipment, rendering eq
+Phone=+33236150
+Data0=(-43.41909,172.65043)
+[END]
+
+;1177485
+[POI]
+Type=0x2f11
+Label=TRAVEL SMART GARDEN CITY
+StreetDesc=3 Birmingham Dr, Chc 8024/ Travel Tours, Cruise Deals International Travel from 
+Phone=+39610630
+zip=9am - 5pm Monday to Friday
+Data0=(-43.54458,172.59425)
+[END]
+
+;1177486
+[POI]
+Type=0x2f
+Label=ALPINE SELF STORAGE
+StreetDesc=5 Jock Boyd Place, Queenstown/ Self Storage
+Phone=+6434414407
+zip=By Appointment
+Data0=(-45.00646,168.74998)
+[END]
+
+;1177487
+[POI]
+Type=0x2f
+Label=QUEENSTOWN COMMERCIAL VEHICLE SERVICES
+StreetDesc=131 Gorge Rd, Queenstown/ Vehicle Repairs
+Phone=+6434428203
+zip=8am - 5pm Weekdays - After Hours / Call 
+Data0=(-45.02079,168.66270)
+[END]
+
+;1177500
+[POI]
+Type=0x2f
+Label=AFFORDABLE MORORHOMES
+StreetDesc=159 Waterloo Rd, Chc/ Motor Home, Camper Van
+Phone=+33440519
+Data0=(-43.53865,172.52954)
+[END]
+
+;1177506
+[POI]
+Type=0x2a05
+Label=TEAROOMS & BAKERY
+StreetDesc=31 Broadway, Reefton/ Cafe, bakery
+Phone=+6437328497
+Data0=(-42.11988,171.86734)
+[END]
+
+;1177509
+[POI]
+Type=0x2f
+Label=CHRISTCHURCH ARCHERY CLUB
+StreetDesc=Rawhiti Domain, New Brighton, Chc/ Outdoor Target Archery Range
+zip=10am - 3pm Saturdays
+Data0=(-43.50464,172.72171)
+[END]
+
+;1177510
+[POI]
+Type=0x2b00
+Label=KIMBERLEY HOUSE
+StreetDesc=25 Victoria Rd, Stepneyville, Nelson 7010/ Apartment self-contained accommodatio
+Phone=+6435468965
+Data0=(-41.26831,173.26534)
 [END]
 

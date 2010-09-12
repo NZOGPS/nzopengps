@@ -181,14 +181,14 @@ begin
 
     if nocloseit and CheckFIDDuplicate(FID,False) then
     begin
- //     if MsgBox('You currently have an installed map with the same Family ID in MapSource (FID: ' + IntToStr(FID) + ')'+ #13 + #13 +
- //               'Do you want to remove existing map and install this new map?', mbConfirmation, MB_YESNO) = idYes then
- //       begin
-          //remove existing map!
+      if MsgBox('NZ Open GPS Maps are already installed in MapSource (FID: ' + IntToStr(FID) + ')'+ #13 + #13 +
+               'Do you want to remove existing map and install this version?', mbConfirmation, MB_YESNO) = idYes then
+       begin
+          // remove existing map!
           CheckFIDDuplicate(FID,True);
- //       end
- //       else
-//          nocloseit := False;
+       end
+       else
+          nocloseit := False;
     end;
     Result := nocloseit;
 end;

@@ -148,4 +148,6 @@
 1030000025518		LONG ST				Reidston (Otago, NZ)
 1030000036870		LEADER ST			Heriot (Otago, NZ)
 1030000036920		ANNAN ST			Heriot (Otago, NZ)
+1030000036092		YORK ST				Taieri Mouth (Otago, NZ)
+1030000035978		LEED ST				Taieri Mouth (Otago, NZ)
 

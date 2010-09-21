@@ -1,3 +1,6 @@
+1177570	Mobile Speed Camera Wellington Rd@50		http://www.police.govt.nz/	Marton			175.380249	-40.086921	manual	1	2010-08-22T22:22:09+12:00	2010-08-22T22:22:09+12:00	frankv	1
+1177571	Mobile Speed Camera Turakina@70		http://www.police.govt.nz/	turakina			175.212364	-40.043551	manual	1	2010-08-22T22:24:39+12:00	2010-08-22T22:24:39+12:00	frankv	1
+1177572	Mobile Speed Camera Turakina2 @70	Blue Hyundai van	http://www.police.govt.nz/	turakina			175.214907	-40.04732	manual	1	2010-08-22T22:26:48+12:00	2010-08-22T22:26:48+12:00	frankv	1
 1177555	Redlight Camera	Redlight Camera		Cnr Bealey Ave & Colombo Street			172.636802	-43.521004	manual	1	2010-08-20T21:28:33+12:00	2010-08-20T21:28:33+12:00	astrae	1
 1177590	00 Not For Maps	Mobile Speed Camera New Brighton Road@50	Mobile Speed Camera New Brighton Road - 50km/h	http://www.police.govt.nz	New Brighton Road, Christchurch			172.696109	-43.500752	manual	1	2010-08-24T23:45:46+12:00	2010-08-24T23:45:46+12:00	Oblivian	1
 1177591	00 Not For Maps	Mobile Speed Camera Wairakei Road@50	Mobile Speed Camera Wairakei Road - 50kph	http://www.police.govt.nz	Wairakei Road, Christchurch			172.575967	-43.494674	manual	1	2010-08-24T23:48:15+12:00	2010-08-24T23:48:15+12:00	Oblivian	1

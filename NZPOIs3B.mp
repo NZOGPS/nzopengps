@@ -422,7 +422,7 @@ Data0=(-43.53062,172.60063)
 [POI]
 Type=0x2a07
 Label=KFC - CHRISTCHURCH CBD
-StreetDesc=285 High St, Chc CBD/ Fast food restaurant, chicken, burgers, takeaways
+StreetDesc=285 High St, Chc/ Fast food restaurant, chicken, burgers, takeaways
 Phone=+6433650685
 Data0=(-43.53248,172.63705)
 [END]
@@ -15503,8 +15503,8 @@ Data0=(-42.44891,171.21082)
 ;1050141
 [POI]
 Type=0x2f06
-Label=NATIONAL BANK HOKITIKA (B)
-StreetDesc=14 Weld St, Hokitika/ bank branch
+Label=NATIONAL BANK HOKITIKA AND AGENCY FOR ANZ BANK (B)
+StreetDesc=14 Weld St, Hokitika/ bank branch and bank agency
 Phone=0800181818
 zip=Mon-Fri 9am-4.30pm
 Data0=(-42.71753,170.96295)
@@ -23111,8 +23111,8 @@ Data0=(-43.53105,172.64704)
 [POI]
 Type=0x2b00
 Label=CHARLIE B'S BACKPACKERS
-StreetDesc=268 Madras St, Chc/ Backpacker accommodation
-Phone=+6433798429
+StreetDesc=268 Madras St, Chc/ Centrally located Christchurch backpacker hostel offering co
+Phone=+33798429
 Data0=(-43.52941,172.64285)
 [END]
 
@@ -30858,7 +30858,7 @@ Data0=(-45.04891,169.20547)
 [POI]
 Type=0x2b01
 Label=VULCAN HOTEL
-StreetDesc=1670 Loop Rd, St Bathans/ hotel
+StreetDesc=1670 Loop Rd, St Bathans/ Historic Place: Category 1, Hotel
 Phone=+6434473629
 Data0=(-44.87102,169.81106)
 [END]
@@ -33621,10 +33621,11 @@ Data0=(-41.34218,173.18594)
 ;1094673
 [POI]
 Type=0x2f
-Label=PAPPRILL HADFIELD ALDOUS
-StreetDesc=L 5 GRE House, 79-83 Hereford St, Chc/ Lawyers
+Label=PAPPRILLS LAWYERS
+StreetDesc=Craigs Investment Partners House, 6th Fl, 90 Armagh St, Chc/ Lawyers
 Phone=+6433792800
-Data0=(-43.53191,172.63434)
+zip=8.30am - 5.00pm Monday to Friday
+Data0=(-43.52896,172.63521)
 [END]
 
 ;1094674
@@ -40275,16 +40276,6 @@ zip=7 days 11am-late
 Data0=(-43.53323,172.63986)
 [END]
 
-;1099307
-[POI]
-Type=0x2a
-Label=?THE LOADED HOG QUEENSTOWN
-StreetDesc=Steamer Wharf Blg, Beach St, Queenstown/ Restaurant & bar, functions
-Phone=+6434412969
-zip=7 days 9am-late
-Data0=(-45.03302,168.65784)
-[END]
-
 ;1099329
 [POI]
 Type=0x2a02
@@ -43417,9 +43408,10 @@ Data0=(-43.52865,172.63825)
 ;1101501
 [POI]
 Type=0x2f
-Label=ASIA-PACIFIC IMPORTERS & EXPORTERS LTD
-StreetDesc=565 Sawyers Arms Rd, Harewood, Chc/ 
+Label=BAIER GROUP LTD
+StreetDesc=565 Sawyers Arms Rd, Harewood, Chc/ Laminated Timber Panel Baierboard Gypsum Pla
 Phone=+6433598849
+zip=0700 - 1530 Weekdays
 Data0=(-43.46787,172.56809)
 [END]
 
@@ -46359,8 +46351,8 @@ Data0=(-45.87367,170.50417)
 [POI]
 Type=0x2b01
 Label=CHATEAU BLANC SUITES
-StreetDesc=Corner Kilmore & Montreal Streets, Chc/ Apartment Hotel. A Clarion Collection Ho
-Phone=+6433651600
+StreetDesc=Corner Kilmore & Montreal Streets, Chc/ This boutique hotel provides spacious fu
+Phone=+33651600
 Data0=(-43.52623,172.63030)
 [END]
 
@@ -54871,9 +54863,9 @@ Data0=(-44.93852,168.83176)
 [POI]
 Type=0x2f
 Label=JADE CREATIVE LTD
-StreetDesc=68 A McCormacks Bay Rd, Mount Pleasant, Chc/ 
+StreetDesc=L 2, 225 High St, Chc/ eCommerce website design and marketing
 Phone=+6433848352
-Data0=(-43.55846,172.72385)
+Data0=(-43.53385,172.63894)
 [END]
 
 ;1107738
@@ -62567,15 +62559,6 @@ Phone=+6434530041
 Data0=(-45.87315,170.47244)
 [END]
 
-;1112030
-[POI]
-Type=0x2f
-Label=PROVINCIAL FINANCE LTD
-StreetDesc=L 7 Landsborough House, 287 Durham St, Chc/ 
-Phone=+6433631699
-Data0=(-43.53466,172.63342)
-[END]
-
 ;1112033
 [POI]
 Type=0x2f
@@ -65094,7 +65077,7 @@ Data0=(-41.25669,173.28351)
 [POI]
 Type=0x2f
 Label=SOLID ENERGY NEW ZEALAND LTD
-StreetDesc=2 Show Place, Chc/ 
+StreetDesc=15 Show Place, Chc/ 
 Phone=+6433456000
 zip=Mon-Fri 0800-1700
 Data0=(-43.54162,172.60408)
@@ -66834,15 +66817,6 @@ StreetDesc=280 Queen St, Richmond/ Public Library, Books, Internet, WiFi
 Phone=+6435438500
 zip=Monday-Wednesday, Friday: 9:30am - 6:00p
 Data0=(-41.33829,173.18395)
-[END]
-
-;1114305
-[POI]
-Type=0x2f
-Label=TASMAN PACIFIC INSURANCE
-StreetDesc=L 7, 287 Durham St, Chc/ 
-Phone=+6433631666
-Data0=(-43.53466,172.63342)
 [END]
 
 ;1114314
@@ -79613,9 +79587,9 @@ Data0=(-43.48666,172.55076)
 [POI]
 Type=0x2b00
 Label=MINARET LODGE
-StreetDesc=34 Eely Point Rd, Wanaka/ Luxury boutique accommodation
-Phone=+6434431856
-Data0=(-44.68199,169.12697)
+StreetDesc=34 Eely Point Rd Wanaka/ A 5 star boutique retreat set in 2 acres of park-like g
+Phone=+34431856
+Data0=(-44.68189,169.12698)
 [END]
 
 ;1118991
@@ -82150,7 +82124,7 @@ Data0=(-43.53313,172.65040)
 ;1119771
 [POI]
 Type=0x2f
-Label=JADE STADIUM TAB AGENCY
+Label=AMI STADIUM TAB AGENCY
 StreetDesc=First Fl Concourse, 30 Stevens St, Phillipstown, Chc/ TAB Agency
 Data0=(-43.54096,172.65268)
 [END]
@@ -84650,9 +84624,9 @@ Data0=(-41.34205,173.17347)
 [POI]
 Type=0x2e
 Label=SUE TODD ANTIQUES & COLLECTABLES
-StreetDesc=401 Princes St, Dud, Otago/ Antiques, Antique Shop
+StreetDesc=122 Stuart St, Dud/ Antiques, Antique Shop
 Phone=+6434777547
-Data0=(-45.88032,170.50046)
+Data0=(-45.87443,170.50514)
 [END]
 
 ;1120491
@@ -84730,9 +84704,8 @@ Data0=(-44.73237,171.04851)
 ;1120501
 [POI]
 Type=0x2e
-Label=WAYNE WRIGHT ANTIQUES
-StreetDesc=88 Victoria Sreet, Chc, Canterbury/ Antiques, Antique Shop
-Phone=+6433661116
+Label=GORDON'S QUALITY PRODUCE
+StreetDesc=88 Victoria Sreet, Chc, Canterbury/ Fruit, Vegetables, Produce , Grocers
 Data0=(-43.52386,172.63038)
 [END]
 
@@ -117224,9 +117197,9 @@ Data0=(-41.31224,173.23360)
 ;1135006
 [POI]
 Type=0x2a0e
-Label=DELICIOUS DELI
-StreetDesc=5 Church St, Nelson/ Cafe, Delicatessen, Catering, private functions
-Phone=+6435467064
+Label=KUSH COFFEE
+StreetDesc=5 Church St, Nelson/ Cafe, Coffee Roaster
+Phone=+6435394793
 zip=Mon-Fri 7.30am-5pm, Sat 7.30am-3pm
 Data0=(-41.27465,173.28305)
 [END]
@@ -128692,9 +128665,9 @@ Data0=(-42.87891,172.75823)
 ;1141185
 [POI]
 Type=0x2a
-Label=MONTEITHS BREWERY BAR
-StreetDesc=47 Amuri Ave , Hanmer Springs/ Bar, restaurant
-Phone=+6433155133
+Label=MONTEITH'S BREWERY BAR HANMER
+StreetDesc=47 Amuri Ave, Hanmer Springs/ Monteith's bar, restaurant, pub
+Phone=+03315513
 Data0=(-42.52267,172.83003)
 [END]
 
@@ -129100,7 +129073,7 @@ Data0=(-42.65625,173.04062)
 [POI]
 Type=0x2b00
 Label=WAIAU MOTOR CAMP & HOLIDAY PARK
-StreetDesc=9 Highfield St, Waiau, North Canterbury 7223/ Holiday park accommodation, campin
+StreetDesc=9 Highfield St, Waiau, North Canterbury 7223/ Accommodation, backpackers, campin
 Phone=+6433156672
 Data0=(-42.65298,173.04050)
 [END]
@@ -138201,9 +138174,10 @@ Data0=(-43.30370,172.59187)
 ;1144833
 [POI]
 Type=0x2f
-Label=MONTEITH'S RANGIORA
-StreetDesc=75 Victoria St, Rangiora/ 
-Data0=(-43.30422,172.59515)
+Label=MONTEITH'S BREWERY BAR RANGIORA
+StreetDesc=75 Victoria St, Rangiora/ Monteith's bar, restaurant, pub
+Phone=+03313292
+Data0=(-43.30423,172.59515)
 [END]
 
 ;1144834
@@ -151707,15 +151681,6 @@ Phone=+6433583300
 Data0=(-43.51291,172.55517)
 [END]
 
-;1153210
-[POI]
-Type=0x2d02
-Label=MONTEITHS BREWERY BAR
-StreetDesc=75 Victoria St, Rangiora/ 
-Phone=+6433132929
-Data0=(-43.30426,172.59495)
-[END]
-
 ;1153211
 [POI]
 Type=0x2f
@@ -153379,9 +153344,9 @@ Data0=(-43.30586,171.21783)
 [POI]
 Type=0x2F02
 Label=OMEGA RENTAL CARS NELSON
-StreetDesc=Trent Dr, Tahunanui, Nelson, 7011/ Nelson Car Rental
-Phone=+6435440062
-zip=Mon - Sun
+StreetDesc=Trent Dr, Tahunanui, Nelson, 7011/ Nelson Car Rental, Nelson Car Hire
+Phone=+6435467780
+zip=8:00am - 5:00pm Mon - Fri, 8:30am - 4:00
 Data0=(-41.30007,173.22477)
 [END]
 
@@ -153389,9 +153354,9 @@ Data0=(-41.30007,173.22477)
 [POI]
 Type=0x2F02
 Label=OMEGA RENTAL CARS CHRISTCHURCH
-StreetDesc=20 Lichfield St, Chc, Canterbury 8011/ Christchurch Car Rental
+StreetDesc=20 Lichfield St, Chc, Canterbury 8011/ Christchurch Car Rental, Christchurch Car
 Phone=+6433774558
-zip=Mon - Sun
+zip=8:00am - 5:30pm Mon - Fri, 8:00am - 5:00
 Data0=(-43.53424,172.63400)
 [END]
 
@@ -153399,9 +153364,9 @@ Data0=(-43.53424,172.63400)
 [POI]
 Type=0x2F02
 Label=OMEGA RENTAL CARS CHRISTCHURCH AIRPORT
-StreetDesc=2 Export Ave, Harewood, Chc, Canterbury 8051/ Christchurch Airport Car Rental
+StreetDesc=2 Export Ave, Harewood, Chc, Canterbury 8051/ Christchurch Airport Car Rental, C
 Phone=+6433602885
-zip=7:30am - 5:00pm, Mon - Sun
+zip=7:30am - 5:00pm Mon - Sun
 Data0=(-43.47207,172.55862)
 [END]
 
@@ -153409,7 +153374,7 @@ Data0=(-43.47207,172.55862)
 [POI]
 Type=0x2F02
 Label=OMEGA RENTAL CARS PICTON
-StreetDesc=1 Lagoon Rd, Picton, Marlborough/ Picton Car Rental
+StreetDesc=1 Lagoon Rd, Picton, Marlborough/ Picton Car Rental, Picton Car Hire
 Phone=+6435735580
 zip=8:00am - 5:30pm Mon - Fri, 8:00am - 5:00
 Data0=(-41.29043,174.00047)
@@ -153419,7 +153384,7 @@ Data0=(-41.29043,174.00047)
 [POI]
 Type=0x2F02
 Label=OMEGA RENTAL CARS QUEENSTOWN
-StreetDesc=20 Shotover St, Queenstown/ Queenstown Car Rental
+StreetDesc=20 Shotover St, Queenstown/ Queenstown Car Rental, Queenstown Car Hire
 Phone=+6434425224
 zip=8:00am - 5:30pm Mon - Fri, 8:00am - 5:00
 Data0=(-45.03079,168.66064)
@@ -161039,8 +161004,9 @@ Data0=(-44.67675,169.14583)
 [POI]
 Type=0x2b02
 Label=DESIGNER COTTAGE B&B
-StreetDesc=53 Hastings St West, Sydenham, Chc City/ B&B Accommodation
-Data0=(-43.54855,172.64046)
+StreetDesc=53 Hastings St West, Sydenham, Chc 8023, Canterbury/ Bed and Breakfast Accommoda
+Phone=+6433778088
+Data0=(-43.54856,172.64046)
 [END]
 
 ;1159077
@@ -161568,7 +161534,7 @@ Data0=(-42.52434,172.83146)
 ;1159229
 [POI]
 Type=0x2b00
-Label=HAULASHORE VIEWS, LUXURY HOLIDAY HOME ACCOMMODATION, PORT HILLS, NELSON
+Label=HAULASHORE VIEWS
 StreetDesc=22 Richardson St, Britannia Heights, Nelson/ Holiday house accommodation
 Phone=+6435485822
 Data0=(-41.27209,173.26268)
@@ -167129,9 +167095,9 @@ Data0=(-43.38879,172.65083)
 [POI]
 Type=0x2f
 Label=KIDSTART BLENHEIM
-StreetDesc=18 Henry St, Blenheim/ 
+StreetDesc=31 George St Blenheim/ 
 Phone=+6435777450
-Data0=(-41.51393,173.95283)
+Data0=(-41.51456,173.95361)
 [END]
 
 ;1161681
@@ -179490,9 +179456,11 @@ Data0=(-43.47990,172.69540)
 ;1168798
 [POI]
 Type=0x2f
-Label=PARKWOOD RESTHOME & HOSPITAL
-StreetDesc=62 - 72 Aldwins Rd, Chc/ 
-Data0=(-43.53891,172.66860)
+Label=VISIQUE FOATE OPTOMETRISTS - FERRYMEAD
+StreetDesc=1025 Ferry Rd Ferrymead Chc 8023/ Optometrists, Eye Care, Spectacles, Contact Le
+Phone=+6433842224
+zip=Mon - Fri: 8:30am to 5:30pm, Sat: 9:00am
+Data0=(-43.55713,172.70366)
 [END]
 
 ;1168808
@@ -194612,7 +194580,7 @@ Data0=(-46.31547,168.88190)
 ;1174654
 [POI]
 Type=0x2f
-Label=JANE ROBERTS - INDEPENDENT STAMPIN' UP DEMONSTRATOR
+Label=CARDS WITH JANE
 StreetDesc=17A Elisha Dr, Witherlea, Blenheim/ Card Making Supplies Hobbies Independent Sta
 Phone=+6427464726
 Data0=(-41.53967,173.96542)
@@ -195503,7 +195471,7 @@ Data0=(-43.90752,171.74983)
 ;1175685
 [POI]
 Type=0x2b01
-Label=RACECOURSE HOSTEL RICCARTON CHRISTCHURCH
+Label=RACECOURSE BACKPACKERS HOSTEL RICCARTON CHRISTCHURCH
 StreetDesc=130 Racecourse Rd, Riccarton, Chc 8042/ Budget Hotel, Hostel, Backpacker accommo
 Phone=+6439608018
 Data0=(-43.53296,172.54973)
@@ -198220,7 +198188,7 @@ Data0=(-45.87682,170.50413)
 [POI]
 Type=0x2e
 Label=BASE ULTIMATE RENTALS
-StreetDesc=39 Helwick st, Wanaka, New Zealand/ Ski, snowboard rental, hire shop
+StreetDesc=39 Helwick st, Wanaka, New Zealand/ Ski Hire, Snowboard Rental, Wanaka
 Phone=+6434432290
 zip=7am - 7pm
 Data0=(-44.69613,169.13574)
@@ -198230,7 +198198,7 @@ Data0=(-44.69613,169.13574)
 [POI]
 Type=0x2f
 Label=ROCKET RENTALS
-StreetDesc=Cnr Helwick & Brownston Sts, Wanaka/ Budget ski, snowboard rental, cheap hire ge
+StreetDesc=Cnr Helwick & Brownston Sts, Wanaka/ Cheap skis hire, Cheap snowboard rental, Wa
 Phone=+6434437625
 zip=7.30am - 7pm, 7 days
 Data0=(-44.69643,169.13641)
@@ -199447,7 +199415,7 @@ Data0=(-43.53692,172.55778)
 ;1177717
 [POI]
 Type=0x2b00
-Label=SEASIDE LUXURY - SPATIOUS 3 BEDROOM WATERFRONT APARTMENT IN NELSON
+Label=SEASIDE LUXURY
 StreetDesc=34/265 Wakefield Qy, Stepneyville, Nelson 7010/ Apartment holiday home accommoda
 Phone=+6435485822
 Data0=(-41.26344,173.26998)
@@ -199456,7 +199424,7 @@ Data0=(-41.26344,173.26998)
 ;1177718
 [POI]
 Type=0x2b00
-Label=FRANKLYN HOUSE - CHARMING CHARACTER HOLIDAY HOME, NELSON CITY
+Label=FRANKLYN HOUSE
 StreetDesc=35 Franklyn St, Nelson South, Nelson 7010/ Holiday home accommodation
 Phone=+6435485822
 Data0=(-41.28542,173.27256)
@@ -199465,7 +199433,7 @@ Data0=(-41.28542,173.27256)
 ;1177719
 [POI]
 Type=0x2b00
-Label=TAHUNA VIEWS - HOLIDAY HOME ACCOMMODATION WITH SEA VIEWS ON THE TAHUNA HILLS, NE
+Label=TAHUNA VIEWS
 StreetDesc=59 Chamberlain St, Tahunanui, Nelson 7010/ Holiday home accommodation
 Phone=+6435485822
 Data0=(-41.29213,173.24927)
@@ -199474,7 +199442,7 @@ Data0=(-41.29213,173.24927)
 ;1177720
 [POI]
 Type=0x2b00
-Label=WAIKAWA VIEWS - LUXURY HOLIDAY HOME ACCOMMODATION IN WAIKAWA BAY, PICTON
+Label=WAIKAWA VIEWS
 StreetDesc=312A Waikawa Rd, Picton 7220/ Holiday home accommodation
 Phone=+6435485822
 Data0=(-41.27114,174.04327)
@@ -199483,9 +199451,774 @@ Data0=(-41.27114,174.04327)
 ;1177721
 [POI]
 Type=0x2b00
-Label=HOMEBUSH - THE QUINTESSENTIAL KIWI BACH GETAWAY! ARAPAWA ISLAND, QUEEN CHARLOTTE
+Label=HOMEBUSH
 StreetDesc=Sams Bay, Arapawa Island, Queen Charlotte Sound, Marlborough/ Holiday home accom
 Phone=+6435485822
 Data0=(-41.18314,174.27402)
+[END]
+
+;1177723
+[POI]
+Type=0x2f
+Label=ZORSTS
+StreetDesc=Engineers Camp, Lewis Pass/ Great sounding - Motorcycle Exhaust manufacturer. Ha
+Phone=+6433157988
+zip=9 to 5 mon thru to Sat.
+Data0=(-42.56606,172.35678)
+[END]
+
+;1177727
+[POI]
+Type=0x2f
+Label=BASE
+StreetDesc=Corner of Helwick & Dunmore St/ retail shop, skis, snowboards, outerwear, street
+Phone=+6434436699
+zip=Open Daily 9-6pm (hours change in season
+Data0=(-44.69583,169.13593)
+[END]
+
+;1177737
+[POI]
+Type=0x2b01
+Label=CARDNO'S ACCOMMODATION
+StreetDesc=8 Marine Terrace, Kaka Point, Balclutha 9271, The Catlins, Southland/ Motel. Zen
+Phone=+6434128181
+Data0=(-46.38555,169.78176)
+[END]
+
+;1177745
+[POI]
+Type=0x2e07
+Label=THE WAREHOUSE ROLLESTON
+StreetDesc=70 Rolleston Dr, Rolleston 7614, New Zealand/ Household, clothing, general merch
+zip=8:30am - 8:00pm, 7 days per week
+Data0=(-43.59503,172.38616)
+[END]
+
+;1177746
+[POI]
+Type=0x2f
+Label=?LORD OF THE RINGS TOUR TWIZEL
+StreetDesc=1 benmore Place Twizel 7901/ Lord of the Rings Twizel location tour.
+Phone=+6434350114
+Data0=(-44.26363,170.10021)
+[END]
+
+;1177752
+[POI]
+Type=0x2a0e
+Label=THE SALAD BOWL
+StreetDesc=41A Bridge St, Nelson/ Salad Cafe In The Nelson Town Centre
+Phone=+6435457500
+zip=7 a.m. to 3 p.m.
+Data0=(-41.27242,173.28259)
+[END]
+
+;1177754
+[POI]
+Type=0x2f
+Label=LOCK STOCK MEDIA
+StreetDesc=31a Dampier St, Woolston 8023/ Lock Stock Media is a digital video production co
+Phone=+6439818667
+Data0=(-43.54544,172.66946)
+[END]
+
+;1177755
+[POI]
+Type=0x2b03
+Label=BIVOUAC OUTDOOR TOWER JUNCTION
+StreetDesc=Unit 3, 81 Clarence St, Tower Junction, Chc/ Outdoor Adventure clothing & suppli
+Phone=+6433418062
+zip=Mon-Fri 9am-6pm, Sat-Sun 10am-5pm
+Data0=(-43.53903,172.60488)
+[END]
+
+;1177758
+[POI]
+Type=0x2f
+Label=DR FOBBY'S SAMOAN CUISINE
+StreetDesc=317 pages Rd Chc/ Samoan Cuisine
+Phone=+6433888518
+zip=Weds/Sat/Sun 11am - 4pm Thur/Fri 11am - 
+Data0=(-43.51781,172.70054)
+[END]
+
+;1177760
+[POI]
+Type=0x2f
+Label=KITESURF NELSON
+StreetDesc=623 Rocks Rd Moana Nelson 7011/ Kite, Kitesurf, kiteboard, kiteschool, surf, adv
+Phone=03548598
+zip=Mon-Fri: 10am to 5pm, Sat: 10am to 3pm.
+Data0=(-41.28010,173.25079)
+[END]
+
+;1177776
+[POI]
+Type=0x2f
+Label=VALLEY OF PEACE WEDDING VENUE
+StreetDesc=80 Hoon Hay Valley Rd Kennedys Bush Chc 8025/ Venue, wedding, events, corporate 
+Phone=+6433225130
+zip=Open for events Fri-Sat-Sun 10am to 11pm
+Data0=(-43.59450,172.60430)
+[END]
+
+;1177784
+[POI]
+Type=0x2f
+Label=VALLEY OF PEACE ALPACA STUD
+StreetDesc=80 Hoon Hay Valley Rd/ Quality Alpaca huacaya & Suri in all colors , Stud series
+Phone=PhoneGregRachaelon033225130or0274935264
+zip=Mon to Friday 9am to 5pm. Sat & Sun: by 
+Data0=(-43.59443,172.60414)
+[END]
+
+;1177785
+[POI]
+Type=0x2f
+Label=VALLEY OF PEACE INTERNATIONAL QUARANTINE SERVICE
+StreetDesc=94 Hoon Hay Valley Rd Kennedys Bush Chc 8025/ Importing & Exporting of live anim
+Phone=PhoneGregorRachaelon033225130
+zip=Mon to Fri: 9am to 5pm
+Data0=(-43.59789,172.60497)
+[END]
+
+;1177786
+[POI]
+Type=0x2f
+Label=DEEP BLUE SOLUTIONS
+StreetDesc=Suite 1, 58 Buxton Sq Nelson 7010/ Software development, document management, sc
+Phone=0800deepblue
+Data0=(-41.27313,173.28495)
+[END]
+
+;1177798
+[POI]
+Type=0x2F02
+Label=OMEGA RENTAL CARS QUEENSTOWN AIRPORT
+StreetDesc=20 Shotover St, Queenstown, New Zealand/ Queenstown Airport Car Rental, Queensto
+Phone=+6434425224
+zip=8:00am - 5:30pm Mon - Fri, 8:00am - 5:00
+Data0=(-45.03086,168.66074)
+[END]
+
+;1177830
+[POI]
+Type=0x2a
+Label=PUB ON WHARF
+StreetDesc=88 Beach St, steamer wharf, queenstown/ Pub, restaurant, bar, live music,
+Phone=+6434412155
+zip=10am to late
+Data0=(-45.03313,168.65800)
+[END]
+
+;1177831
+[POI]
+Type=0x2F02
+Label=ALLWAYS CAR RENTAL CHRISTCHURCH AIRPORT
+StreetDesc=11 Holt Place, Burnside/ Christchurch Airport Car Rental, Christchurch Airport C
+Phone=+6433582829
+zip=8am - 6pm Mon - Sun
+Data0=(-43.48742,172.56204)
+[END]
+
+;1177833
+[POI]
+Type=0x2f
+Label=GNOMES SNOW SPORTS DAREFIELD
+StreetDesc=57 South Terrace darfield/ Gnomes snow sports
+Phone=+6433188433
+zip=7am - 6.30pm, 7 days a week.
+Data0=(-43.48960,172.10997)
+[END]
+
+;1177834
+[POI]
+Type=0x2f
+Label=GNOMES SNOW SPORTS YALDHURST
+StreetDesc=39 West Coast Rd Yaldhurst Chc/ Gnomes snow sports
+Phone=+6433425757
+zip=7am - 6.30pm, 7 days a week.
+Data0=(-43.51226,172.50391)
+[END]
+
+;1177848
+[POI]
+Type=0x2f
+Label=DR PETER RIPLEY, REGISTERED MEDICAL PRACTITIONER
+StreetDesc=Gardens Medical, 26 Bank St, Dud 9010/ General Practice, including Minor/Skin Su
+Phone=+6434730144
+zip=08:30 a.m. to 5:30 p.m. Monday to Friday
+Data0=(-45.85463,170.51772)
+[END]
+
+;1177849
+[POI]
+Type=0x2f
+Label=ONSEN HOT POOLS
+StreetDesc=160 Arthurs Point Rd, Arthurs Point, Queenstown,/ Hot Pools
+Phone=+6434425707
+zip=10am - 10pm
+Data0=(-44.98026,168.68594)
+[END]
+
+;1177852
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Lillburn Valley Rd, Fiordland Ntl Park/ Boat Ramp
+Data0=(-45.99018,167.38203)
+[END]
+
+;1177853
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Tuatapere/ Boat Ramp
+Data0=(-45.52775,167.60248)
+[END]
+
+;1177854
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Waiau St, Manapouri/ Boat Ramp
+Data0=(-45.56944,167.60874)
+[END]
+
+;1177855
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Fishing Camp Rd, Te Waewae/ Boat Ramp
+Data0=(-46.20551,167.63537)
+[END]
+
+;1177856
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Manapouri Te Anau Hwy, Southland/ Boat Ramp
+Data0=(-45.42504,167.71827)
+[END]
+
+;1177857
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Te Anau Milford Hwy, Southland/ Boat Ramp
+Data0=(-45.19268,167.82706)
+[END]
+
+;1177858
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Te Anau Downs/ Boat Ramp
+Data0=(-45.27606,168.17033)
+[END]
+
+;1177859
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Greenstone Station Rd, Kinloch, Glenorchy/ Boat Ramp
+Data0=(-44.92461,168.35935)
+[END]
+
+;1177860
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Bay View Rd, Kelvin Heights, Queenstown/ Boat Ramp
+Data0=(-45.03934,168.69142)
+[END]
+
+;1177861
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Moray Terrace, Fortrose, Invercargill/ Boat Ramp
+Data0=(-46.57590,168.79529)
+[END]
+
+;1177862
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Moray Terrace, Fortrose, Invercargill/ Boat Ramp
+Data0=(-46.57528,168.79717)
+[END]
+
+;1177863
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Makarora Lake Hawea Rd, Lake Hawea/ Boat Ramp
+Data0=(-44.39849,169.18718)
+[END]
+
+;1177864
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Makarora Lake Hawea Rd, Makarora/ Boat Ramp
+Data0=(-44.32069,169.18773)
+[END]
+
+;1177865
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Meads Rd, Lake Hawea/ Boat Ramp
+Data0=(-44.43881,169.20127)
+[END]
+
+;1177866
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Hawea Boat Ramp Access, Lake Hawea/ Boat Ramp
+Data0=(-44.60762,169.24781)
+[END]
+
+;1177867
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Clyde/ Boat Ramp
+Data0=(-45.17504,169.30240)
+[END]
+
+;1177868
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Clyde/ Boat Ramp
+Data0=(-45.17650,169.30274)
+[END]
+
+;1177869
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Cromwell Clyde Rd, Clyde/ Boat Ramp
+Data0=(-45.17078,169.30933)
+[END]
+
+;1177870
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Conroys Dam Rd, Conroys Gully/ Boat Ramp
+Data0=(-45.28398,169.31791)
+[END]
+
+;1177871
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Dunorling St, Alexandra/ Boat Ramp
+Data0=(-45.25753,169.38920)
+[END]
+
+;1177872
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Teviot/ Boat Ramp
+Data0=(-45.55407,169.59955)
+[END]
+
+;1177873
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Lake Ohau/ Boat Ramp
+Data0=(-44.20903,169.81882)
+[END]
+
+;1177874
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Lake Ohau Rd, Lake Ohau/ Boat Ramp
+Data0=(-44.28102,169.85115)
+[END]
+
+;1177875
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Glen Lyon Rd, Twizel/ Boat Ramp
+Data0=(-44.26985,169.92805)
+[END]
+
+;1177876
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Lake Ohau/ Boat Ramp
+Data0=(-44.28391,169.93838)
+[END]
+
+;1177877
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Twizel/ Boat Ramp
+Data0=(-44.27230,170.04526)
+[END]
+
+;1177878
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Twizel/ Boat Ramp
+Data0=(-44.27291,170.04714)
+[END]
+
+;1177879
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Loch Laird Rd, Benmore/ Boat Ramp
+Data0=(-44.56861,170.18197)
+[END]
+
+;1177880
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Benmore/ Boat Ramp
+Data0=(-44.56116,170.19479)
+[END]
+
+;1177881
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Falston Rd, Omarama/ Boat Ramp
+Data0=(-44.38635,170.19835)
+[END]
+
+;1177882
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Haldon/ Boat Ramp
+Data0=(-44.34651,170.22425)
+[END]
+
+;1177883
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Te Akatarawa Rd, Lake Waitaki/ Boat Ramp
+Data0=(-44.60332,170.30288)
+[END]
+
+;1177884
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Lake Waitaki/ Boat Ramp
+Data0=(-44.66065,170.35914)
+[END]
+
+;1177885
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Canterbury/ Boat Ramp
+Data0=(-44.66559,170.37119)
+[END]
+
+;1177886
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Lakeside Dr, Lake Tekapo/ Boat Ramp
+Data0=(-43.99797,170.46350)
+[END]
+
+;1177887
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Pioneer Dr, Lake Tekapo/ Boat Ramp
+Data0=(-44.00347,170.48039)
+[END]
+
+;1177888
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Shore St, Sunshine, Dud/ Boat Ramp
+Data0=(-45.89389,170.52148)
+[END]
+
+;1177889
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Magnet St, Dud/ Boat Ramp
+Data0=(-45.87158,170.52602)
+[END]
+
+;1177890
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Magnet St, Dud/ Boat Ramp
+Data0=(-45.87134,170.52855)
+[END]
+
+;1177891
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Sherwood Downs/ Boat Ramp
+Data0=(-43.97722,170.86516)
+[END]
+
+;1177892
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Ashwick Flat/ Boat Ramp
+Data0=(-44.00532,170.86737)
+[END]
+
+;1177893
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Cattle Valley/ Boat Ramp
+Data0=(-44.00034,170.88972)
+[END]
+
+;1177894
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Hakatere Potts Rd, Hakatere/ Boat Ramp
+Data0=(-43.61181,171.04910)
+[END]
+
+;1177895
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Sunny Bight Rd Waiano, Kaniere/ Boat Ramp
+Data0=(-42.80463,171.12889)
+[END]
+
+;1177896
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Hans Bay Rd Arahutika, Lake Kaniere/ Boat Ramp
+Data0=(-42.80626,171.15479)
+[END]
+
+;1177897
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Hans Bay Rd Arahutika, Lake Kaniere/ Boat Ramp
+Data0=(-42.81278,171.15486)
+[END]
+
+;1177898
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Inchbonnie/ Boat Ramp
+Data0=(-42.63512,171.39878)
+[END]
+
+;1177899
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Lake Brunner Rd, Inchbonnie/ Boat Ramp
+Data0=(-42.71369,171.48994)
+[END]
+
+;1177900
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Cashmere Bay Rd, Lake Brunner/ Boat Ramp
+Data0=(-42.61033,171.50154)
+[END]
+
+;1177901
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Haupiri Rd, Haupiri/ Boat Ramp
+Data0=(-42.56506,171.69758)
+[END]
+
+;1177902
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Pacific Dr, Leeston/ Boat Ramp
+Data0=(-43.88906,172.24043)
+[END]
+
+;1177903
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Hurst Rd, Springston/ Boat Ramp
+Data0=(-43.74017,172.44342)
+[END]
+
+;1177904
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Porika Rd, Rotoroa/ Boat Ramp
+Data0=(-41.79630,172.59753)
+[END]
+
+;1177905
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Abel Tasman Dr, Pohara/ Boat Ramp
+Data0=(-40.83090,172.89191)
+[END]
+
+;1177906
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Tarakohe/ Boat Ramp
+Data0=(-40.82336,172.89419)
+[END]
+
+;1177907
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Tata Beach Esplanade, Tarakohe/ Boat Ramp
+Data0=(-40.81153,172.91477)
+[END]
+
+;1177911
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Totaranui/ Boat Ramp
+Data0=(-40.81818,173.00634)
+[END]
+
+;1177912
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Sandy Bay Marahau Rd, Marahau/ Boat Ramp
+Data0=(-41.00930,173.00676)
+[END]
+
+;1177913
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Green Tree Rd/ Boat Ramp
+Data0=(-41.07187,173.00705)
+[END]
+
+;1177914
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Kaiteriteri Sandy Bay Rd, Kaiteriteri/ Boat Ramp
+Data0=(-41.03551,173.01948)
+[END]
+
+;1177915
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=George Qy, Motueka/ Boat Ramp
+Data0=(-41.13805,173.02434)
+[END]
+
+;1177916
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Tahi St, Mapua/ Boat Ramp
+Data0=(-41.26154,173.10064)
+[END]
+
+;1177920
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Richmond/ Boat Ramp
+Data0=(-41.28340,173.15111)
+[END]
+
+;1177921
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Point Rd, Monaco/ Boat Ramp
+Data0=(-41.30772,173.20619)
+[END]
+
+;1177927
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Esplanade, Okiwi Bay, French Pass/ Boat Ramp
+Data0=(-41.11095,173.65927)
+[END]
+
+;1177932
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Nydia Track, Nydia Bay/ Boat Ramp
+Data0=(-41.11486,173.76408)
+[END]
+
+;1177937
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Queen Charlotte Dr, Ngakuta Bay, Picton/ Boat Ramp
+Data0=(-41.27248,173.96009)
+[END]
+
+;1177941
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Kenepuru Rd, Portage, Picton/ Boat Ramp
+Data0=(-41.19812,174.03528)
+[END]
+
+;1177943
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Port Underwood Rd, Waikawa, Picton/ Boat Ramp
+Data0=(-41.26617,174.04750)
+[END]
+
+;1177945
+[POI]
+Type=0x4700
+Label=BOAT RAMP
+StreetDesc=Oyster Bay Rd, Waikawa/ Boat Ramp
+Data0=(-41.30176,174.11498)
 [END]
 

@@ -136,6 +136,7 @@
 1030000040703	George Square	Coalgate
 1030000040762	Wing Street	Coalgate
 1030000040791	Bluff Street	Coalgate
+1030000040805	POLE RD	Darfield (Canterbury, NZ)	16/10/2010 9:21:38 p.m.
 1030000040810	Princes Street	Springfield
 1030000040811	Princes Street	Sheffield	28/04/2010 2:25p.m.
 1030000040825	High Street	Coalgate

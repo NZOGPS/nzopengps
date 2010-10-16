@@ -40,15 +40,6 @@ Name: {group}\NZ Open GPS Project Forum; Filename: http://gwprojects.org/forum/
 
 
 [Files]
-;Check function will create all registry entries
-;Parameters are:
-;MDXfile: String;
-;MDRfile: String;
-;LOC: String;
-;TDBfile: String;
-;BMAPfile: String;
-;ProductCode: String
-
 Source: tmp/64000012.img; DestDir: {app}; Flags: promptifolder
 Source: tmp/64000013.img; DestDir: {app}; Flags: promptifolder
 Source: tmp/64000014.img; DestDir: {app}; Flags: promptifolder

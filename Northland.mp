@@ -54148,7 +54148,7 @@ Numbers3=4,E,74,20,O,83,7
 
 ;sufi=1030000016385
 [POLYLINE]
-Type=0x6
+Type=0xa
 Label=RIPONUI RD
 EndLevel=1
 CityIdx=81
@@ -54162,7 +54162,7 @@ Numbers1=0,O,1059,1085,E,1042,1232
 
 ;sufi=1030000016385
 [POLYLINE]
-Type=0x6
+Type=0xa
 Label=RIPONUI RD
 EndLevel=1
 CityIdx=81

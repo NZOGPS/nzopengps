@@ -8425,10 +8425,10 @@ Data0=(-43.53930,172.63839)
 [POI]
 Type=0x2e02
 Label=PAK 'N SAVE DUNEDIN
-StreetDesc=86 Hillside Rd, Dud/ supermarket, Lotto
+StreetDesc=86 Hillside Rd, Dud/ supermarket, Lotto, groceries
 Phone=+6434555129
-zip=8am - 10pm, 7 days a week
-Data0=(-45.89244,170.49986)
+zip=7am-10pm 7 days
+Data0=(-45.89238,170.49941)
 [END]
 
 ;1028728
@@ -9129,16 +9129,6 @@ StreetDesc=346-360 Halswell Rd, Chc/ supermarket, Lotto
 Phone=+6433229991
 zip=Mon-Fri 8am-9pm, Sat & Sun 8am-8pm
 Data0=(-43.58027,172.56579)
-[END]
-
-;1030541
-[POI]
-Type=0x2e02
-Label=NEW WORLD KAIAPOI
-StreetDesc=56-58 Charles St, Kaiapoi/ supermarket, Lotto
-Phone=+6433276026
-zip=Mon-Fri 8am-9pm, Sat & Sun 8am-8pm
-Data0=(-43.38260,172.65938)
 [END]
 
 ;1030548
@@ -22707,9 +22697,9 @@ Data0=(-43.56927,172.75836)
 [POI]
 Type=0x2b00
 Label=THE PALACE BACKPACKERS
-StreetDesc=114 Rutherford St, Nelson/ Backpacker accommodation
+StreetDesc=114 Rutherford St, Nelson 7010, Marlborough/ Accommodation. Real beds, not bunks
 Phone=+6435484691
-Data0=(-41.27505,173.28034)
+Data0=(-41.27506,173.28033)
 [END]
 
 ;1074060
@@ -124348,9 +124338,11 @@ Data0=(-42.71866,170.96423)
 ;1138583
 [POI]
 Type=0x2a
-Label=?PUKEKO TEAROOMS AND STORE
-StreetDesc=Main Rd, Hari Hari/ General store, cafe, restaurant
-Data0=(-43.15010,170.56200)
+Label=PUKEKO TEAROOMS AND STORE
+StreetDesc=33 Main Rd, Hari Hari/ General store, cafe, restaurant
+Phone=+6437533192
+zip=Hours Sun - Sat 8:00am - 5:00pm
+Data0=(-43.15078,170.56500)
 [END]
 
 ;1138584
@@ -124414,8 +124406,8 @@ Data0=(-42.73062,171.00941)
 ;1138591
 [POI]
 Type=0x2b01
-Label=TERRACE MOTELS
-StreetDesc=Cowan St, Franz Josef/ Motel accommodation
+Label=TERRACE MOTEL
+StreetDesc=Cowan St, Franz Josef, South Westland, West Coast/ Accommodation. Zenbu Wi-Fi wi
 Phone=+6437520130
 Data0=(-43.38732,170.18371)
 [END]
@@ -124503,9 +124495,10 @@ Data0=(-43.26258,170.36409)
 ;1138602
 [POI]
 Type=0x2a
-Label=?WHITE HERON STORE AND TEAROOMS
-StreetDesc=Main Rd, Whataroa/ General store, cafe, restaurant
-Data0=(-43.26256,170.36373)
+Label=WHITE HERON STORE AND TEAROOMS
+StreetDesc=69 Main Rd, Whataroa/ General store, cafe, restaurant
+Phone=+6437534142
+Data0=(-43.26195,170.36073)
 [END]
 
 ;1138732
@@ -150410,10 +150403,9 @@ Data0=(-45.09831,170.97256)
 ;1152598
 [POI]
 Type=0x2d09
-Label=SHEARINGS
-StreetDesc=210 Main South Rd, Sockburn, Chc/ Earthmoving contractors, Civil works, Driveway
+Label=RA SHEARINGS, SWIMMING POOLS CHRISTCHURCH,
+StreetDesc=210 Main South Rd, Sockburn, Chc/ Swimming Pools Christchurch, Mayfair Pools Chr
 Phone=+6433485420
-zip=8am to 5pm
 Data0=(-43.54245,172.54726)
 [END]
 
@@ -153684,9 +153676,9 @@ Data0=(-41.32546,173.21194)
 [POI]
 Type=0x2F07
 Label=CARS 2 GO
-StreetDesc=260 Ferry Rd, Phillipstown/ Car dealer
+StreetDesc=200 Ferry Rd, Waltham, Chc 8011, New Zealand/ Car dealer
 Phone=+6433663370
-Data0=(-43.54057,172.65917)
+Data0=(-43.53958,172.65520)
 [END]
 
 ;1154666
@@ -155922,7 +155914,8 @@ Data0=(-43.98109,171.68304)
 [POI]
 Type=0x2f
 Label=WINGATUI HALL
-StreetDesc=270 Gladstone Rd North, Wingatui/ 
+StreetDesc=270 Gladstone Rd North, Wingatui/ Venue for hire for wedding receptions, birthda
+Phone=+6434894278
 Data0=(-45.87688,170.38732)
 [END]
 
@@ -175694,14 +175687,6 @@ StreetDesc=3A Normans Rd, Chc/ Dentist
 Data0=(-43.50979,172.60672)
 [END]
 
-;1166917
-[POI]
-Type=0x2f
-Label=EMER O'DONNELL
-StreetDesc=22 Bayne Terrace, Macandrew Bay, Dud/ 
-Data0=(-45.86043,170.59806)
-[END]
-
 ;1166921
 [POI]
 Type=0x2f
@@ -177303,8 +177288,10 @@ Data0=(-43.50752,172.72788)
 ;1167739
 [POI]
 Type=0x2f
-Label=KATE SHEPPARD LIFECARE CENTRE 2005 LTD
-StreetDesc=417 New Brighton Rd, Chc/ 
+Label=KATE SHEPPARD LIFECARE CENTRE 2005 LTD 24HR
+StreetDesc=417 New Brighton Rd, Chc/ Rest home, hospital, retirement village
+Phone=+6433739001
+zip=24 hours
 Data0=(-43.50094,172.70357)
 [END]
 
@@ -187388,6 +187375,14 @@ StreetDesc=138 Main North Rd, Amberley/ Historic Place: Category 1
 Data0=(-43.39954,172.64857)
 [END]
 
+;1172491
+[POI]
+Type=0x2c04
+Label=HOMEBUSH STATION WOOLSHED
+StreetDesc=2142 Homebush Rd, Homebush Station, Darfield/ Historic Place: Category 1
+Data0=(-43.47634,172.00923)
+[END]
+
 ;1172493
 [POI]
 Type=0x2c04
@@ -188298,6 +188293,14 @@ Type=0x2c04
 Label=DONAGHY'S ROPE WALK
 StreetDesc=186 Macandrew Rd, Dud/ Historic Place: Category 1
 Data0=(-45.89893,170.49433)
+[END]
+
+;1172671
+[POI]
+Type=0x2c04
+Label=?HOMEBUSH STATION STABLES, WATER TOWER, TURBINE AND GRAIN STORE
+StreetDesc=2142 Homebush Rd, Homebush Station, Darfield/ Historic Place: Category 1
+Data0=(-43.47279,171.99565)
 [END]
 
 ;1172672
@@ -193274,16 +193277,6 @@ zip=Mon-Fri: 8.30am-5.30pm, Sat: 9am-12pm
 Data0=(-43.54729,172.63979)
 [END]
 
-;1174302
-[POI]
-Type=0x2f
-Label=KATE SHEPPRD LIFECARE 24HR
-StreetDesc=417 New Brighton Rd New Brighton Chc 8083/ Rest home, hospital, retirement villa
-Phone=+6433739001
-zip=24 hours
-Data0=(-43.50095,172.70357)
-[END]
-
 ;1174305
 [POI]
 Type=0x2c06
@@ -194739,9 +194732,9 @@ Data0=(-45.87109,170.50512)
 [POI]
 Type=0x2f
 Label=CARAVAN, CAMPING & MARINE LTD
-StreetDesc=188 Manchester St, Chc/ CCM, Caravan, Mobile Home Sales Repairs & Accessories. O
+StreetDesc=95 Manchester St, Chc/ CCM, Caravan, Mobile Home Sales Repairs & Accessories. Ou
 Phone=+6433660726
-Data0=(-43.53072,172.63982)
+Data0=(-43.53609,172.63949)
 [END]
 
 ;1174743
@@ -199347,8 +199340,8 @@ Data0=(-43.59450,172.60430)
 [POI]
 Type=0x2f
 Label=VALLEY OF PEACE ALPACA STUD
-StreetDesc=80 Hoon Hay Valley Rd/ Quality Alpaca huacaya & Suri in all colors , Stud series
-Phone=PhoneGregRachaelon033225130or0274935264
+StreetDesc=80 Hoon Hay Valley Rd, Kennedys Bush, Chc 8025/ Quality Alpaca huacaya & Suri in
+Phone=+6433225130
 zip=Mon to Friday 9am to 5pm. Sat & Sun: by 
 Data0=(-43.59443,172.60414)
 [END]
@@ -199357,8 +199350,8 @@ Data0=(-43.59443,172.60414)
 [POI]
 Type=0x2f
 Label=VALLEY OF PEACE INTERNATIONAL QUARANTINE SERVICE
-StreetDesc=94 Hoon Hay Valley Rd Kennedys Bush Chc 8025/ Importing & Exporting of live anim
-Phone=PhoneGregorRachaelon033225130
+StreetDesc=94 Hoon Hay Valley Rd, Kennedys Bush, Chc 8025/ Importing & Exporting of live an
+Phone=+6433225130
 zip=Mon to Fri: 9am to 5pm
 Data0=(-43.59789,172.60497)
 [END]
@@ -200176,9 +200169,9 @@ Data0=(-44.39388,171.25110)
 [POI]
 Type=0x2e09
 Label=ALLIED PICKFORDS
-StreetDesc=122 HILTON HIGHWAY, WASHDYKE, TIMARU/ FURNITURE REMOVALS, HOUSEHOLD RELOCATIONS,
+StreetDesc=122 Hilton Highway, Washdyke, Timaru/ Furniture Removals, Household Relocations,
 Phone=0800500235
-zip=8:30 AM TILL 5PM MONDAY TO FRIDAY (OCCAS
+zip=8:30am-5pm Monday-Friday (Occasional Sat
 Data0=(-44.36040,171.24057)
 [END]
 
@@ -200447,16 +200440,6 @@ StreetDesc=Weedons Ross Rd, Weedons/ Cemetery
 Data0=(-43.56746,172.40184)
 [END]
 
-;1178425
-[POI]
-Type=0x2f
-Label=?CODEDESIGNLAB
-StreetDesc=Chc, New Zealand/ website design and information technology services in christch
-Phone=+6433655795
-zip=Monday - Friday 9am - 6pm
-Data0=(-43.53164,172.63664)
-[END]
-
 ;1178427
 [POI]
 Type=0x2f
@@ -200489,9 +200472,9 @@ Data0=(-45.87092,170.50733)
 [POI]
 Type=0x2b01
 Label=10 COTTAGES
-StreetDesc=6 Graham Place, Franz Josef, South Westland/ Motel accommodation, individual uni
+StreetDesc=6 Graham Place, Franz Josef, South Westland, West Coast./ Motel accommodation, i
 Phone=+6437520211
-Data0=(-43.38738,170.18489)
+Data0=(-43.38753,170.18451)
 [END]
 
 ;1178471
@@ -200690,5 +200673,91 @@ Label=CLAYRIDGE HOUSE AND COTTAGES
 StreetDesc=77 Piner Hill Rd, Ruby Bay/ Accommodation, Bed and Breakfast, Cottages
 Phone=+6435402548
 Data0=(-41.22584,173.07707)
+[END]
+
+;1178600
+[POI]
+Type=0x2b01
+Label=MT DOBSON MOTEL
+StreetDesc=Mt Cook Rd, State Highway 8, Kimbell, RD 17, Fairlie/ Motel Accommodation
+Phone=0800546235
+Data0=(-44.04338,170.75627)
+[END]
+
+;1178617
+[POI]
+Type=0x2f
+Label=ADRENALIN FOREST LTD
+StreetDesc=105 A Heyders Rd, Spencerville, Chc/ ropes, adventure, high-wire
+Phone=+6433298717
+Data0=(-43.42715,172.70413)
+[END]
+
+;1178623
+[POI]
+Type=0x2c04
+Label=OLD DUNSTAN ROAD
+StreetDesc=Old Dunstan Rd, CLARKS JUNCTION; GALLOWAY FLAT/ Historic Place: Category 1
+Data0=(-45.72570,170.04637)
+[END]
+
+;1178624
+[POI]
+Type=0x2c04
+Label=MOUTERE STATION COMPLEX
+StreetDesc=551 Moutere-Disputed Spur Rd, CHATTO CREEK/ Historic Place: Category 1
+Data0=(-45.10466,169.45166)
+[END]
+
+;1178625
+[POI]
+Type=0x2c04
+Label=HOMEBUSH STATION
+StreetDesc=2142 Homebush Rd, Homebush Station, DARFIELD/ Historic Place: Category 1
+Data0=(-43.47918,171.99665)
+[END]
+
+;1178631
+[POI]
+Type=0x2e
+Label=HUBBERS EMPORIUM
+StreetDesc=68 Dee St, Invercargill/ Antiques, Antique Shop, Collectables, Collectables Shop
+Data0=(-46.41074,168.34705)
+[END]
+
+;1178635
+[POI]
+Type=0x2f
+Label=RSA SMALLBORE RIFLE CLUB
+StreetDesc=Clubs Marlborough, 42 Alfred St, Blenheim/ Rifle Shooting, Target Shooting, Air 
+Phone=+6435725432
+zip=April-Sept every Monday at 7pm, Oct-Marc
+Data0=(-41.51023,173.95646)
+[END]
+
+;1178642
+[POI]
+Type=0x2f01
+Label=PAK 'N SAVE FUEL DUNEDIN
+StreetDesc=86 Hillside Rd, Dud/ Petrol station, fuel
+Data0=(-45.89240,170.50011)
+[END]
+
+;1178644
+[POI]
+Type=0x2f
+Label=MCLARENS TRANSPORT RANFURLY
+StreetDesc=9 Charlemont St W, Ranfurly, South Island/ Fuel, Diesel, Petrol, Lubricants
+Phone=+6434449160
+Data0=(-45.12916,170.09683)
+[END]
+
+;1178654
+[POI]
+Type=0x2a07
+Label=HELL PIZZA QUEENSTOWN
+StreetDesc=Searle Lane, Queenstown/ gourmet pizza, takeaways, deliveries
+Phone=+6434412666
+Data0=(-45.03287,168.66088)
 [END]
 

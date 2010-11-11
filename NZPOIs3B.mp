@@ -18648,9 +18648,10 @@ Data0=(-46.41058,168.35044)
 ;1061453
 [POI]
 Type=0x2f06
-Label=ANZ MARSHLANDS RD,SHIRLEY (B&A)
-StreetDesc=Shop 92, 24-26 Marshland Rd, Shirley, Chc/ Bank, ATM
-Phone=+6433860781
+Label=ANZ THE PALMS (B&A)
+StreetDesc=Shop 92, 24-26 Marshland Rd, Shirley, Chc/ Bank branch, ATM, Business Centre
+Phone=0800269296
+zip=Mon-Wed, Fri-Sat: 9am-4:30pm, Thu 9am-7p
 Data0=(-43.50559,172.66340)
 [END]
 
@@ -18721,9 +18722,10 @@ Data0=(-41.51431,173.95541)
 [POI]
 Type=0x2f06
 Label=ANZ CHRISTCHURCH (B&A)
-StreetDesc=Cnr Hereford and Colombo St, Chc/ Bank, ATM
-Phone=+6433636167
-Data0=(-43.53183,172.63638)
+StreetDesc=Cnr Hereford and Colombo St, Chc/ Bank branch, ATM
+Phone=0800269296
+zip=Mon-Fri 9am-4.30pm
+Data0=(-43.53190,172.63642)
 [END]
 
 ;1061628
@@ -45406,9 +45408,9 @@ Data0=(-45.87850,170.50427)
 [POI]
 Type=0x2f
 Label=CACTUS CLIMBING EQUIPMENT LTD
-StreetDesc=1/165 Lichfield St, Chc/ 
+StreetDesc=90 Fitzgerald Ave, Chc/ 
 Phone=+6433749268
-Data0=(-43.53404,172.64421)
+Data0=(-43.53466,172.65083)
 [END]
 
 ;1102716
@@ -76836,8 +76838,9 @@ Data0=(-41.27479,173.28356)
 [POI]
 Type=0x2a
 Label=INDOCHINE
-StreetDesc=209 Cambridge Terrace, Chc/ Asian restaurant, fully licensed
+StreetDesc=209 Cambridge Terrace, Chc/ Euro-Asian restaurant, fully licensed
 Phone=+6433657323
+zip=Mon-Sat 5pm-late
 Data0=(-43.52703,172.63770)
 [END]
 
@@ -78387,9 +78390,10 @@ Data0=(-43.52957,172.60074)
 [POI]
 Type=0x2e
 Label=BROWSERS CAFE & GARDEN CENTRE
-StreetDesc=110A Riccarton Rd, Riccarton/ 
+StreetDesc=110A Riccarton Rd, Riccarton, Chc/ Garden centre, plants, cafe, restaurant
 Phone=+6433487779
-Data0=(-43.52963,172.60000)
+zip=Mon-Fri 8am-4.30pm, Sat-Sun 8am-4pm
+Data0=(-43.52961,172.60020)
 [END]
 
 ;1118412
@@ -81710,8 +81714,9 @@ Data0=(-43.53530,172.58595)
 [POI]
 Type=0x2a
 Label=HALSWELL TAVERN
-StreetDesc=344 Halswell Rd, Chc/ Hotel Bar Restaurant TAB Outlet
+StreetDesc=344 Halswell Rd, Chc/ Hotel, Sports Bar, Restaurant, TAB Outlet, Coffee Club Caf
 Phone=+6433227132
+zip=7 days 8.30am-late
 Data0=(-43.57942,172.56627)
 [END]
 
@@ -93573,7 +93578,8 @@ Type=0x2a
 Label=PESCATORE
 StreetDesc=The George Hotel, 50 Park Terrace, Chc/ Licensed restaurant. Fine Pacific Rim cu
 Phone=+6433710257
-Data0=(-43.52580,172.62839)
+zip=Tue-Sat 6pm-late
+Data0=(-43.52591,172.62866)
 [END]
 
 ;1123581
@@ -99259,8 +99265,9 @@ Data0=(-44.93869,168.83266)
 [POI]
 Type=0x2a
 Label=CORIANDERS ETHNIC INDIAN RESTAURANT
-StreetDesc=Shop 8, Rolleston Sq, Rolleston Dr/ Indian Restaurant, Takeaway, BYO
+StreetDesc=Shop 8, Rolleston Sq, Rolleston Dr, Chc/ Indian Restaurant, Takeaway, Fully lice
 Phone=+6433472315
+zip=7 days 5pm-late
 Data0=(-43.59559,172.38505)
 [END]
 
@@ -100084,8 +100091,9 @@ Data0=(-43.54366,172.58265)
 [POI]
 Type=0x2a
 Label=ANNIES WINE BAR & RESTAURANT
-StreetDesc=2 Worcester St, Chc/ restaurant, bar
-Data0=(-43.53112,172.62834)
+StreetDesc=The Arts Ctr, 13 Hereford St, Chc/ Restaurant, bar, functions
+Phone=+6433650566
+Data0=(-43.53189,172.62847)
 [END]
 
 ;1130883
@@ -100630,8 +100638,10 @@ Data0=(-43.54460,172.64649)
 ;1130950
 [POI]
 Type=0x2a
-Label=BENSON'S RESTAURANT
-StreetDesc=641 Colombo St, Chc/ restaurant
+Label=BENSON RESTAURANT NO. 1
+StreetDesc=641 Colombo St, Chc/ Chinese restaurant, licensed, BYO, takeaways
+Phone=+6433669833
+zip=7 days 11.30am-9.30pm
 Data0=(-43.53467,172.63647)
 [END]
 
@@ -100828,16 +100838,20 @@ Data0=(-43.54722,172.63684)
 [POI]
 Type=0x2a0e
 Label=BOATSHED CAFE
-StreetDesc=2 Cambridge Tce, Chc/ cafe
+StreetDesc=2 Cambridge Tce, Chc/ Cafe, fully licensed
+Phone=+6433666768
+zip=7 days 7am-5pm
 Data0=(-43.53373,172.62789)
 [END]
 
 ;1130975
 [POI]
 Type=0x2d02
-Label=BOHEMIAN CAFE-BAR
-StreetDesc=258 Oxford Tce, Chc/ cafe, bar
-Data0=(-43.52829,172.64040)
+Label=BOHEMIAN CAFE & BAR
+StreetDesc=256 Oxford Tce, Chc/ Cafe, bar, restaurant
+Phone=+6433662563
+zip=Mon-Fri 7.30am-late, Sat-Sun 9am-late
+Data0=(-43.52829,172.64044)
 [END]
 
 ;1130977
@@ -101283,7 +101297,9 @@ Data0=(-43.53320,172.67400)
 [POI]
 Type=0x2a0e
 Label=CAFFE ROMA
-StreetDesc=176 Oxford Tce, Chc/ cafe
+StreetDesc=176 Oxford Tce, Chc/ cafe, free wireless
+Phone=+6433793879
+zip=7 days 7am-4pm
 Data0=(-43.53033,172.63416)
 [END]
 
@@ -101514,7 +101530,9 @@ Data0=(-43.54293,172.52209)
 [POI]
 Type=0x2a0e
 Label=CATHEDRAL CAFE
-StreetDesc=100 Cathedral Sq, Chc/ cafe
+StreetDesc=100 Cathedral Sq, Chc/ cafe, licensed
+Phone=+6433790680
+zip=7 days 8am-5pm
 Data0=(-43.53056,172.63675)
 [END]
 
@@ -101877,7 +101895,9 @@ Data0=(-43.47820,172.61723)
 [POI]
 Type=0x2f
 Label=COCOPELLI
-StreetDesc=The Palms Mall, Cnr New Brighton & Marshland Rds, Chc/ 
+StreetDesc=The Palms Mall, Cnr New Brighton & Marshland Rds, Chc/ Gourmet pizza bar & resta
+Phone=+6433862220
+zip=7 days 11am-late
 Data0=(-43.50704,172.66309)
 [END]
 
@@ -101893,8 +101913,10 @@ Data0=(-43.53466,172.63342)
 [POI]
 Type=0x2f
 Label=COFFEE CORNER
-StreetDesc=20 Worcester St, Chc/ 
-Data0=(-43.53112,172.62883)
+StreetDesc=28 Worcester St, Chc/ Cafe, indoor & outdoor dining
+Phone=+6433772162
+zip=7 days 8.30am-5pm
+Data0=(-43.53112,172.62956)
 [END]
 
 ;1131110
@@ -119643,15 +119665,6 @@ Phone=+6432086218
 Data0=(-46.10194,168.94269)
 [END]
 
-;1137554
-[POI]
-Type=0x2d02
-Label=HALSWELL TAVERN & RETAIL LIQUOR
-StreetDesc=344 Halswell Rd, Halswell, Chc/ Bar, TAB outlet
-Phone=+6433227132
-Data0=(-43.58021,172.56697)
-[END]
-
 ;1137570
 [POI]
 Type=0x2d02
@@ -120776,14 +120789,6 @@ Type=0x2f
 Label=KIA TOA BOWLING CLUB
 StreetDesc=45 Hassall St, Timaru/ 
 Data0=(-44.40436,171.24115)
-[END]
-
-;1137880
-[POI]
-Type=0x2a
-Label=KINGSDOWN MANOR
-StreetDesc=10 Bristol Rd, Kingsdown/ Licensed restaurant
-Data0=(-44.46608,171.21921)
 [END]
 
 ;1137881
@@ -138119,9 +138124,10 @@ Data0=(-43.38196,172.65808)
 ;1144848
 [POI]
 Type=0x2a0e
-Label=PLATFORM CAFE
-StreetDesc=2 Blackett St, Rangiora/ cafe
+Label=CAFE DE LA GARE
+StreetDesc=Rangiora Railway Station, 2 Blackett St, Rangiora/ Cafe, restaurant, functions
 Phone=+6433136018
+zip=Tue-Sun 8.30am-4pm, Dinner Thu-Sat 6pm-l
 Data0=(-43.30093,172.59751)
 [END]
 
@@ -139616,8 +139622,9 @@ Data0=(-43.53009,172.69537)
 ;1146691
 [POI]
 Type=0x2a
-Label=CORIANDERS INDIAN RESTAURANT
-StreetDesc=76 Edgeware Rd, Chc/ Indian restaurant
+Label=CORIANDER'S ETHNIC INDIAN RESTAURANT
+StreetDesc=76 Edgeware Rd, Edgeware Village, Chc/ Indian Restaurant, Takeaway, Fully licens
+Phone=+6433667223
 Data0=(-43.51355,172.63774)
 [END]
 
@@ -145206,9 +145213,10 @@ Data0=(-43.55726,172.70533)
 [POI]
 Type=0x2f
 Label=ASPIRING MEDICAL CENTRE
-StreetDesc=28 Dungarvon St, Wanaka/ Doctor, Medical Centre
+StreetDesc=33 Dungarvon St, Wanaka/ Doctor, Medical Centre
 Phone=+6434431226
-Data0=(-44.69731,169.13465)
+zip=Mon-Fri 8.30am-6pm, Sat 10am-12 noon, Su
+Data0=(-44.69804,169.13488)
 [END]
 
 ;1148998
@@ -151233,14 +151241,6 @@ StreetDesc=Sports Hall, 150 Withells Rd, Avonhead/ Presbyterian church
 Data0=(-43.51501,172.55396)
 [END]
 
-;1153077
-[POI]
-Type=0x6404
-Label=ST MARYS ANGLICAN CHURCH
-StreetDesc=329 Halswell Rd, Halswell/ Anglican church
-Data0=(-43.57959,172.56725)
-[END]
-
 ;1153078
 [POI]
 Type=0x6404
@@ -156598,10 +156598,10 @@ Data0=(-45.40616,167.74569)
 [POI]
 Type=0x2e
 Label=VIA SOLLERTIA JEWELLERY
-StreetDesc=149a Victoria St, Chc/ Manufacturing Jewellers. Retail / Wholesale
+StreetDesc=78 Worcester St, Chc./ Manufacturing Jewellers. Retail / Wholesale
 Phone=+6433668001
 zip=Mon-Thu 10am-6pm, Fri 10am-7pm, Sat 11am
-Data0=(-43.52265,172.62912)
+Data0=(-43.53109,172.63419)
 [END]
 
 ;1156509
@@ -160107,7 +160107,7 @@ Data0=(-42.40259,173.68138)
 [POI]
 Type=0x2b00
 Label=BIG TREE LODGE METHVEN
-StreetDesc=25 South Belt, Methven, Canterbury 7730/ Backpacker Accommodation. BBH member.
+StreetDesc=25 South Belt, Methven, Canterbury 7730/ Backpacker Accommodation.. Zenbu Wi-Fi 
 Phone=+6433029575
 Data0=(-43.63610,171.64378)
 [END]
@@ -182973,9 +182973,9 @@ Data0=(-44.71197,169.13636)
 [POI]
 Type=0x2f
 Label=RUSSELL THOMAS CHAINSAWS & MOWERS
-StreetDesc=254 St Asaph St, Chc/ Service, repair and parts for petrol powered Equipment. Se
-Phone=+6433795073
-Data0=(-43.53655,172.64143)
+StreetDesc=68 Oakley Cres, Hornby, Chc/ Service, repair and parts for petrol powered Equipm
+Phone=+6433495262
+Data0=(-43.55394,172.53430)
 [END]
 
 ;1170854
@@ -189212,9 +189212,9 @@ Data0=(-45.80290,170.71239)
 ;1172927
 [POI]
 Type=0x2c04
-Label=?MCSKIMMING HOFFMAN KILN
+Label=MCSKIMMING HOFFMAN KILN
 StreetDesc=Benhar Rd, Benhar/ Historic Place: Category 1
-Data0=(-46.22352,169.79526)
+Data0=(-46.22355,169.79555)
 [END]
 
 ;1172928
@@ -197710,9 +197710,9 @@ Data0=(-45.03600,168.66557)
 [POI]
 Type=0x2b00
 Label=THE BUCCANEER LODGE
-StreetDesc=314 Waikawa Rd, Picton, Marlborough/ Lodge accommodation, BBH, Zenbu wi-fi
+StreetDesc=314 Waikawa Rd, Waikawa, Picton 7220, Marlborough/ Backpacker accommodation, BBH
 Phone=+6435735002
-Data0=(-41.26957,174.04165)
+Data0=(-41.26962,174.04165)
 [END]
 
 ;1176876
@@ -197984,6 +197984,15 @@ StreetDesc=89 Tarbert St,Alexandra./ Upholstery,also fabric sales.Car & aircraft
 Phone=+6434487524
 zip=8am-5pm.
 Data0=(-45.25339,169.39460)
+[END]
+
+;1177036
+[POI]
+Type=0x2f
+Label=XTREME FUEL TREATMENT XFT - OVERCOME NZ FUEL PRICES
+StreetDesc=79 Vogel St, Richmond, Chc, New Zealand/ Xtreme Fuel Treatment XFT uses a combin
+Phone=+6439800798
+Data0=(-43.51971,172.65911)
 [END]
 
 ;1177044
@@ -200194,6 +200203,16 @@ Phone=+6436963703
 Data0=(-43.90870,171.24940)
 [END]
 
+;1178329
+[POI]
+Type=0x2f
+Label=COLLINS & CO CHARTERED ACCOUNTANTS
+StreetDesc=369 High St, Rangiora/ Chartered Accountant, Accountant, Business Advice, Xero T
+Phone=+6433134283
+zip=Monday to Friday 8am - 5pm
+Data0=(-43.30466,172.58649)
+[END]
+
 ;1178330
 [POI]
 Type=0x2f
@@ -200759,5 +200778,134 @@ Label=HELL PIZZA QUEENSTOWN
 StreetDesc=Searle Lane, Queenstown/ gourmet pizza, takeaways, deliveries
 Phone=+6434412666
 Data0=(-45.03287,168.66088)
+[END]
+
+;1178687
+[POI]
+Type=0x2e07
+Label=VICTORIA SKI SPORT
+StreetDesc=130 Victoria St Chc/ Ski and Snowboard Retail and Rental. Large Range New Skis, 
+Phone=+6433662018
+Data0=(-43.52224,172.62911)
+[END]
+
+;1178696
+[POI]
+Type=0x2f
+Label=OPAWA MOWERS & CHAINSAWS
+StreetDesc=100 Gasson St, Sydenham, Chc/ Lawnmowers
+Phone=+6433661829
+Data0=(-43.54198,172.64281)
+[END]
+
+;1178698
+[POI]
+Type=0x2f
+Label=OPEN COUNTRY DAIRY LIMITED
+StreetDesc=52 Kekeno Place, Awarua, Invercargill/ Awarua Plant
+Phone=+6432111340
+Data0=(-46.49171,168.37848)
+[END]
+
+;1178703
+[POI]
+Type=0x2f
+Label=CANTEC ENGINEERING
+StreetDesc=154 Hazeldean Rd, Chc 8024, Canterbury, New Zealand/ Expertise and Precision. Pr
+Phone=+33717456
+Data0=(-43.54131,172.62538)
+[END]
+
+;1178710
+[POI]
+Type=0x2a
+Label=THE PITA PIT CHRISTCHURCH CENTRAL
+StreetDesc=Armagh St, Chc Central/ Healthy fast food restaurant, takeaways
+Phone=+6433777482
+Data0=(-43.52893,172.63686)
+[END]
+
+;1178711
+[POI]
+Type=0x2a
+Label=THE PITA PIT HIGH ST
+StreetDesc=Hereford Food Hall, 1/250 High St, Chc/ Healthy fast food restaurant, takeaways
+Phone=+6433777485
+Data0=(-43.53221,172.63771)
+[END]
+
+;1178712
+[POI]
+Type=0x2f
+Label=THE MOHAIR STORE
+StreetDesc=140 Colombo St, Beckenham, Chc/ Outlet store for Mohair and Alpaca blankets, thr
+Phone=+6439431639
+zip=Mon-Fri 10am-5pm, Sat 10am-3pm
+Data0=(-43.55746,172.63701)
+[END]
+
+;1178713
+[POI]
+Type=0x2a
+Label=50 ON PARK RESTAURANT AND BAR
+StreetDesc=The George, 50 Park Terrace, Chc/ Restaurant & bar
+Phone=+6433710250
+zip=Mon-Sun 6.30am-late
+Data0=(-43.52587,172.62876)
+[END]
+
+;1178715
+[POI]
+Type=0x2a0e
+Label=LUMES CAFE
+StreetDesc=126 Lichfield St, Chc/ Sherlock Holmes cafe
+Phone=+6433797221
+zip=Mon-Fri 7am-6pm, Sat 9am-6pm
+Data0=(-43.53431,172.64039)
+[END]
+
+;1178717
+[POI]
+Type=0x2a
+Label=CLARENDON
+StreetDesc=Cnr Oxford Terrace & Worcester Boulevard, Chc/ Restaurant & bar, fine dining
+Phone=+6433772100
+zip=7 days from 9am
+Data0=(-43.53087,172.63369)
+[END]
+
+;1178718
+[POI]
+Type=0x2d02
+Label=CLUB TOWER CAFE & BAR
+StreetDesc=62 Worcester Boulevard, Chc/ Cafe, bar
+Phone=+6433660016
+Data0=(-43.53110,172.63194)
+[END]
+
+;1178723
+[POI]
+Type=0x2b00
+Label=HARBOUR VIEW MOTEL
+StreetDesc=30 Waikawa Rd, Picton 7220, Marlborough Sounds/ Accommodation 4 star plus. Zenbu
+Phone=+6435736259
+Data0=(-41.29095,174.00978)
+[END]
+
+;1178725
+[POI]
+Type=0x2a
+Label=CORIANDER'S ETHNIC INDIAN RESTAURANT
+StreetDesc=Cnr Conical Hill Rd & Chisolm Cres, Hanmer Springs/ Indian Restaurant, Takeaway,
+Phone=+6433157616
+Data0=(-42.51974,172.82917)
+[END]
+
+;1178728
+[POI]
+Type=0x2f
+Label=BLUFF YACHT CLUB
+StreetDesc=Foreshore Rd, Bluff 9842/ sailing dinghies + trailer yachts. Launching ramps.
+Data0=(-46.59631,168.33264)
 [END]
 

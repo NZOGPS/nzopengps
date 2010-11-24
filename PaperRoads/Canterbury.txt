@@ -147,6 +147,7 @@
 1030000040866	Bank Street	Coalgate
 1030000040883	John Street	Coalgate
 1030000040942	Old Coach Road	Arthurs Pass National Park
+1030000040965	VICKERY RD	Sheffield (Canterbury, NZ)	24/11/2010 6:13p.m.
 1030000040967	Upper High Street	Coalgate
 1030000040973	Lyndon Stock Road	Snowdon
 1030000040980	Charles Street	Coalgate

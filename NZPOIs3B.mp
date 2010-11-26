@@ -10363,15 +10363,6 @@ Phone=+6434650899
 Data0=(-45.38445,170.62868)
 [END]
 
-;1034251
-[POI]
-Type=0x2f01
-Label=SHELL GRETA VALLEY GARAGE
-StreetDesc=State Highway 1, Greta Valley/ Shell petrol station
-Phone=+6433143853
-Data0=(-42.96413,172.96750)
-[END]
-
 ;1034265
 [POI]
 Type=0x2f01
@@ -13131,15 +13122,6 @@ Phone=+6434177398
 Data0=(-46.11926,169.96133)
 [END]
 
-;1042560
-[POI]
-Type=0x2f01
-Label=CALTEX MOSGIEL
-StreetDesc=1 Tay St, Mosgiel/ Caltex petrol station
-Phone=+6434897164
-Data0=(-45.87240,170.34628)
-[END]
-
 ;1042567
 [POI]
 Type=0x2f01
@@ -13508,7 +13490,7 @@ Data0=(-43.52888,172.63442)
 [POI]
 Type=0x2e09
 Label=NOEL LEEMING ASHBURTON
-StreetDesc=Society House, 250 Tancred St, Ashburton/ appliances, whiteware
+StreetDesc=Society House, 250 Tancred St, Ashburton/ Electric appliances, whiteware, comput
 Phone=+6433078094
 zip=Mon-Thurs 9am-5.30pm; Fri 9am-7pm; Sat 9
 Data0=(-43.90764,171.74962)
@@ -13518,7 +13500,7 @@ Data0=(-43.90764,171.74962)
 [POI]
 Type=0x2e09
 Label=NOEL LEEMING BLENHEIM
-StreetDesc=Cnr Queen & Charles St, Blenheim/ appliances, whiteware
+StreetDesc=Cnr Queen & Charles St, Blenheim/ Electric appliances, whiteware, computers, gam
 Phone=+6435784570
 zip=Mon-Thurs 9am-5.30pm; Fri 9am-7pm; Sat 9
 Data0=(-41.51287,173.95338)
@@ -13528,7 +13510,7 @@ Data0=(-41.51287,173.95338)
 [POI]
 Type=0x2e09
 Label=NOEL LEEMING CONNECT NORTHLANDS
-StreetDesc=Shop 97, Northlands Shopping Mall, 55 Main North Rd, Papanui, Chc/ appliances, w
+StreetDesc=Shop 97, Northlands Shopping Mall, 55 Main North Rd, Papanui, Chc/ Electric appl
 Phone=+6433520880
 zip=Mon-Wed 9am-6pm; Thurs-Fri 9am-9pm; Sat-
 Data0=(-43.49305,172.60974)
@@ -13538,7 +13520,7 @@ Data0=(-43.49305,172.60974)
 [POI]
 Type=0x2e09
 Label=NOEL LEEMING DUNEDIN
-StreetDesc=132 Crawford St, Dud/ appliances, whiteware
+StreetDesc=132 Crawford St, Dud/ Electric appliances, whiteware, computers, gaming, TV, DVD
 Phone=+6434774171
 zip=Mon-Thurs 9am-5.30pm; Fri 9am-8.30pm; Sa
 Data0=(-45.88267,170.50018)
@@ -13548,7 +13530,7 @@ Data0=(-45.88267,170.50018)
 [POI]
 Type=0x2e09
 Label=NOEL LEEMING INVERCARGILL
-StreetDesc=42 Leven St, Invercargill/ appliances, whiteware
+StreetDesc=42 Leven St, Invercargill/ Electric appliances, whiteware, computers, gaming, TV
 Phone=+6432142434
 zip=Mon-Thurs 9am-5.30pm; Fri 9am-8pm; Sat-S
 Data0=(-46.40989,168.34534)
@@ -13558,7 +13540,7 @@ Data0=(-46.40989,168.34534)
 [POI]
 Type=0x2e09
 Label=NOEL LEEMING MOORHOUSE
-StreetDesc=166 Moorhouse Ave, Chc/ appliances, whiteware
+StreetDesc=166 Moorhouse Ave, Chc/ Electric appliances, whiteware, computers, gaming, TV, D
 Phone=+6433665665
 zip=Mon-Thurs 9am-6pm; Fri 9am-8pm; Sat 9am-
 Data0=(-43.54014,172.62946)
@@ -13568,7 +13550,7 @@ Data0=(-43.54014,172.62946)
 [POI]
 Type=0x2e09
 Label=NOEL LEEMING NELSON
-StreetDesc=109 Trafalgar St, Nelson/ appliances, whiteware
+StreetDesc=109 Trafalgar St, Nelson/ Electric appliances, whiteware, computers, gaming, TV,
 Phone=+6435488329
 zip=Mon-Thurs 9am-5.30pm; Fri 9am-7pm; Sat 9
 Data0=(-41.27137,173.28430)
@@ -13578,7 +13560,7 @@ Data0=(-41.27137,173.28430)
 [POI]
 Type=0x2e09
 Label=NOEL LEEMING NORTHWOOD
-StreetDesc=Northwood Supa Centa, Cnr Main North & Radcliffe Rds, Belfast, Chc/ appliances, 
+StreetDesc=Northwood Supa Centa, Cnr Main North & Radcliffe Rds, Belfast, Chc/ Electric app
 Phone=+6433759140
 zip=Mon-Wed 9am-5:30pm; Thu 9am-9pm; Fri-Sun
 Data0=(-43.46016,172.62460)
@@ -13588,7 +13570,7 @@ Data0=(-43.46016,172.62460)
 [POI]
 Type=0x2e09
 Label=NOEL LEEMING OAMARU
-StreetDesc=145 Thames St, Oamaru/ appliances, whiteware
+StreetDesc=145 Thames St, Oamaru/ Electric appliances, whiteware, computers, gaming, TV, DV
 Phone=+6434331013
 zip=Mon-Thurs 9am-5.30pm; Fri 9am-7pm; Sat-S
 Data0=(-45.09804,170.97117)
@@ -13598,7 +13580,7 @@ Data0=(-45.09804,170.97117)
 [POI]
 Type=0x2e09
 Label=NOEL LEEMING PAPANUI
-StreetDesc=43 Langdons Rd, Papanui, Chc/ appliances, whiteware
+StreetDesc=43 Langdons Rd, Papanui, Chc/ Electric appliances, whiteware, computers, gaming,
 Phone=+6433523517
 zip=Mon-Thurs 9am-6pm; Fri 9am-9pm; Sat 10am
 Data0=(-43.49371,172.60663)
@@ -13608,7 +13590,7 @@ Data0=(-43.49371,172.60663)
 [POI]
 Type=0x2e09
 Label=NOEL LEEMING RANGIORA
-StreetDesc=11 High St, Rangiora/ appliances, whiteware
+StreetDesc=11 High St, Rangiora/ Electric appliances, whiteware, computers, gaming, TV, DVD
 Phone=+6433137855
 zip=Mon-Thurs 9am-6pm; Fri 9am-8pm; Sat 9am-
 Data0=(-43.30342,172.59912)
@@ -13618,7 +13600,7 @@ Data0=(-43.30342,172.59912)
 [POI]
 Type=0x2e09
 Label=NOEL LEEMING RICCARTON
-StreetDesc=Shop 14 Westfield Shoppingtown, 129 Riccarton Rd, Chc/ appliances, whiteware
+StreetDesc=Shop 14 Westfield Shoppingtown, 129 Riccarton Rd, Chc/ Electric appliances, whit
 Phone=+6433480675
 zip=Mon-Wed 9am-6pm; Thurs-Fri 9am-9pm; Sat 
 Data0=(-43.53085,172.59717)
@@ -13628,7 +13610,7 @@ Data0=(-43.53085,172.59717)
 [POI]
 Type=0x2e09
 Label=NOEL LEEMING SHIRLEY
-StreetDesc=The Palms, Cnr New Brighton & Marshland Rd, Shirley, Chc/ appliances, whiteware
+StreetDesc=The Palms, Cnr New Brighton & Marshland Rd, Shirley, Chc/ Electric appliances, w
 Phone=+6433857957
 zip=Mon-Wed 9am-6pm; Thurs-Fri 9am-9pm; Sat 
 Data0=(-43.50650,172.66465)
@@ -13638,7 +13620,7 @@ Data0=(-43.50650,172.66465)
 [POI]
 Type=0x2e09
 Label=NOEL LEEMING TIMARU
-StreetDesc=Shop 11 Stafford Mall, 251 Stafford St, Timaru/ appliances, whiteware
+StreetDesc=Shop 11 Stafford Mall, 251 Stafford St, Timaru/ Electric appliances, whiteware, 
 Phone=+6436886633
 zip=Mon-Thurs 9am-5.30pm; Fri 9am-7.30pm; Sa
 Data0=(-44.39471,171.25204)
@@ -22246,8 +22228,8 @@ Data0=(-45.79302,170.65507)
 ;1073332
 [POI]
 Type=0x2b00
-Label=BIRDSONG
-StreetDesc=124 Kumara Junction State Highway 6, Two Mile, Hokitika/ Backpacker accommodatio
+Label=BIRDSONG BACKPACKERS
+StreetDesc=124 Kumara Junction State Highway 6, Two Mile, Hokitika, West Coast/ Accommodati
 Phone=+6437557179
 Data0=(-42.71478,170.96921)
 [END]
@@ -22731,15 +22713,6 @@ Phone=+6435737668
 Data0=(-41.26938,174.04241)
 [END]
 
-;1074095
-[POI]
-Type=0x2b00
-Label=TUNNEL VISION BACKPACKERS (LYTTELTON)
-StreetDesc=44 London St, Lyttelton, Chc/ Backpacker accommodation
-Phone=+6433287576
-Data0=(-43.60222,172.72039)
-[END]
-
 ;1074109
 [POI]
 Type=0x2b00
@@ -22762,7 +22735,7 @@ Data0=(-40.99566,173.00480)
 [POI]
 Type=0x2b00
 Label=HALFMOON COTTAGE
-StreetDesc=State Highway 75, Barrys Bay, Akaroa/ Backpacker accommodation
+StreetDesc=5849 Chc - Akaroa Rd, State Highway 75, Barrys Bay R.D2, Akaroam Banks Peninsula
 Phone=+6433045050
 Data0=(-43.75900,172.91324)
 [END]
@@ -29714,8 +29687,8 @@ Type=0x2e
 Label=PHOTO AND VIDEO INTERNATIONAL
 StreetDesc=Shop 9, Merivale Mall, Papanui Rd, Chc/ Cameras & Accessories, film, Digital pho
 Phone=0800226372
-zip=Mon-Wed:9.00am-6pm, Thu:9:00am-8pm, Fri:
-Data0=(-43.51239,172.62159)
+zip=Mon-Wed 9am-6pm, Thu 9am-8pm, Fri 9am-6p
+Data0=(-43.51262,172.62189)
 [END]
 
 ;1090447
@@ -31611,10 +31584,11 @@ Data0=(-45.09944,170.96973)
 ;1093706
 [POI]
 Type=0x2a
-Label=FILADELFIOS CHRISTCHURCH
-StreetDesc=150 Colombo St, Chc/ Pizza, Bar, Coffee
+Label=FILADELFIO'S CHRISTCHURCH
+StreetDesc=150 Colombo St, Chc/ Gourmet pizza restaurant & bar, pasta, coffee, deserts, big
 Phone=+6433316674
-Data0=(-43.55704,172.63713)
+zip=7 days 11.30am-late
+Data0=(-43.55701,172.63701)
 [END]
 
 ;1093707
@@ -31622,7 +31596,8 @@ Data0=(-43.55704,172.63713)
 Type=0x2a
 Label=FILADELFIOS DUNEDIN GARDENS
 StreetDesc=3 North Rd, Dud/ Pizza, Bar, Coffee
-Phone=+6434736231
+Phone=+6434736232
+zip=9am- 11.30pm
 Data0=(-45.85493,170.51875)
 [END]
 
@@ -34226,7 +34201,7 @@ Type=0x2e
 Label=MARBECKS - MERIVALE MALL
 StreetDesc=Shop 1, Merivale Mall, Papanui Rd, Merivale, Chc/ Music, Movies, CDs, DVDs
 Phone=+6433551768
-Data0=(-43.51241,172.62124)
+Data0=(-43.51280,172.62080)
 [END]
 
 ;1095421
@@ -35678,9 +35653,9 @@ Data0=(-43.55683,172.69810)
 [POI]
 Type=0x2e
 Label=BLACKWOODS PAYKELS CHRISTCHURCH
-StreetDesc=35 Lunns Rd, Chc/ Engineers supplies
+StreetDesc=cnr Lunns & Curletts Rds, Addington, Chch/ Engineers supplies
 Phone=+6433488305
-Data0=(-43.54323,172.57805)
+Data0=(-43.54356,172.57257)
 [END]
 
 ;1096277
@@ -40134,8 +40109,8 @@ Data0=(-43.52561,172.63618)
 ;1099290
 [POI]
 Type=0x2a
-Label=WAKEFIELDS OF SUMNER
-StreetDesc=29 Wakefield Ave, Sumner, Chc/ Restaurant & wine bar
+Label=CLINK RESTAURANT
+StreetDesc=29 Wakefield Ave, Sumner, Chc/ Restaurant, Wine, Bar
 Phone=+6433267230
 Data0=(-43.57016,172.75909)
 [END]
@@ -46466,7 +46441,7 @@ Data0=(-43.54352,172.64334)
 [POI]
 Type=0x2f
 Label=CHRISTCHURCH PHOTO ENGRAVERS LTD
-StreetDesc=1 Wordsworth St, Chc/ 
+StreetDesc=1 Wordsworth St, Chc/ Magnesium printing plates, Arcade playing cards, moulds, d
 Phone=+6433668229
 Data0=(-43.54465,172.63279)
 [END]
@@ -53672,8 +53647,8 @@ Data0=(-41.34022,173.18609)
 ;1107016
 [POI]
 Type=0x2f
-Label=HORTON SIGNS
-StreetDesc=85 Ivory St, Rangiora, Chc/ 
+Label=HORTON SIGNS RANGIORA
+StreetDesc=85 Ivory St, Rangiora, Chc/ signs, advertising
 Phone=+6433135846
 Data0=(-43.30425,172.59676)
 [END]
@@ -61643,7 +61618,7 @@ Data0=(-45.87460,170.51131)
 Type=0x2f
 Label=PIDGEON CONTRACTING LTD
 StreetDesc=625 Marshland Rd, Ouruhia, Chc/ 
-Phone=+6433126121
+Phone=+6433234231
 Data0=(-43.45206,172.65717)
 [END]
 
@@ -69144,9 +69119,9 @@ Data0=(-43.52342,172.62966)
 [POI]
 Type=0x2f
 Label=WARREN AUTO-ELECTRICAL LTD
-StreetDesc=373 Tuam St, Chc/ 
+StreetDesc=376 Ferry Rd, Chc (Hart St Entry)/ Auto Electricians
 Phone=+6433665188
-Data0=(-43.53536,172.65236)
+Data0=(-43.54342,172.66633)
 [END]
 
 ;1115848
@@ -78891,15 +78866,6 @@ Label=GALLEON RESTAURANT
 StreetDesc=500 Thames Highway, Oamaru/ Bar & stonegrill restaurant, functions
 Phone=+6434370128
 Data0=(-45.06883,170.99296)
-[END]
-
-;1118566
-[POI]
-Type=0x2a
-Label=HARBOUR 2 OCEAN
-StreetDesc=Waterfront Rd, Oamaru/ Cafe, restaurant, wine bar. Coffee, beach, seaviews
-Phone=+6434343400
-Data0=(-45.10986,170.97922)
 [END]
 
 ;1118567
@@ -91210,8 +91176,8 @@ Data0=(-45.87014,170.50685)
 ;1122368
 [POI]
 Type=0x2b00
-Label=ADRIFT IN GOLDEN BAY - BEACHFRONT ACCOMMODATION
-StreetDesc=52 Tukurua Rd, Tukurua, Golden Bay, Tasman, Nelson/ Tourist holiday accommodatio
+Label=ADRIFT IN GOLDEN BAY
+StreetDesc=52 Tukurua Rd, Tukurua, Golden Bay, Tasman, Nelson/ Beachfront tourist holiday a
 Phone=+6435258353
 zip=8am to 10pm
 Data0=(-40.73610,172.70290)
@@ -96639,6 +96605,7 @@ Data0=(-45.85736,170.22848)
 Type=0x2a0e
 Label=OZAN TURKISH CAFE & TAKEAWAY
 StreetDesc=104 Gordon Rd, Mosgiel/ Turkish cafe, takeaways
+Phone=+6434890900
 Data0=(-45.87633,170.34878)
 [END]
 
@@ -98953,9 +98920,10 @@ Data0=(-43.75157,172.02896)
 ;1130444
 [POI]
 Type=0x2f
-Label=PGG FARM SUPPLIES RAKAIA
+Label=PGG WRIGHTSON RAKAIA
 StreetDesc=56 Railway Terrace West, Rakaia/ Farm Supplies
 Phone=+6433035790
+zip=Mon-Fri 8am -5pm
 Data0=(-43.75431,172.02365)
 [END]
 
@@ -102885,7 +102853,8 @@ Data0=(-43.49855,172.64149)
 Type=0x2a0e
 Label=FIX ESPRESSO CAFE
 StreetDesc=29 Cuthberts Rd, Wainoni, Chc/ cafe
-Data0=(-43.53008,172.69766)
+Phone=+6433818323
+Data0=(-43.53089,172.69633)
 [END]
 
 ;1131231
@@ -103862,14 +103831,6 @@ StreetDesc=91A Stanmore Rd, Chc/ butcher
 Data0=(-43.53063,172.65688)
 [END]
 
-;1131353
-[POI]
-Type=0x2f
-Label=HIDDEN SECRETS
-StreetDesc=750 Wairakei Rd, Chc/ 
-Data0=(-43.48653,172.55511)
-[END]
-
 ;1131354
 [POI]
 Type=0x2f
@@ -104559,9 +104520,10 @@ Data0=(-43.56736,172.75924)
 [POI]
 Type=0x2a
 Label=JDV RESTAURANT & BAR
-StreetDesc=135 Office Rd, Chc/ restaurant, bar
-Phone=+39643860
-Data0=(-43.51306,172.62121)
+StreetDesc=Merivale Mall, 190 Aikmans Rd, Merivale, Chc/ restaurant, bar, cafe
+Phone=+6439643860
+zip=7 days 10am-late
+Data0=(-43.51218,172.62093)
 [END]
 
 ;1131443
@@ -105636,8 +105598,10 @@ Data0=(-43.53551,172.60675)
 [POI]
 Type=0x2a02
 Label=MANEE THAI RESTAURANT
-StreetDesc=241 Manchester St, Chc/ Thai restaurant
-Data0=(-43.53022,172.63946)
+StreetDesc=241 Manchester St, Chc/ Thai restaurant, BYO & licensed, takeaways
+Phone=+6433779983
+zip=7 days
+Data0=(-43.53012,172.63950)
 [END]
 
 ;1131585
@@ -105838,10 +105802,11 @@ Data0=(-43.53078,172.65677)
 
 ;1131610
 [POI]
-Type=0x2f
+Type=0x2a05
 Label=MERCATO
-StreetDesc=39569 Cass St, Chc/ 
-Data0=(-43.54181,172.63273)
+StreetDesc=100 Fitzgerald Ave, Chc/ essential ingredient market: gourmet ingredients
+Phone=+6433776994
+Data0=(-43.53418,172.65080)
 [END]
 
 ;1131611
@@ -105865,6 +105830,8 @@ Data0=(-43.51084,172.62039)
 Type=0x2a0e
 Label=MESHINO ESPRESSO
 StreetDesc=75 Rutland St, St Albans, Chc/ cafe
+Phone=+6433552449
+zip=7 days
 Data0=(-43.50589,172.62802)
 [END]
 
@@ -107366,7 +107333,7 @@ Data0=(-43.54066,172.63918)
 ;1131803
 [POI]
 Type=0x2f
-Label=RED ELEPHANT THAI TAKAWAYS
+Label=RED ELEPHANT THAI TAKEAWAYS
 StreetDesc=6A Huxley St, Sydenham, Chc/ 
 Data0=(-43.55052,172.63714)
 [END]
@@ -119154,7 +119121,7 @@ Data0=(-45.10406,170.96751)
 Type=0x2d01
 Label=OAMARU REPERTORY THEATRE
 StreetDesc=15 Itchen St, Oamaru/ theatre
-Phone=+6434347259
+Phone=+6434347667
 Data0=(-45.10233,170.96927)
 [END]
 
@@ -123575,7 +123542,7 @@ Data0=(-45.86617,170.51406)
 Type=0x2a
 Label=SILVERSTREEM STEAK HOUSE AND BAR
 StreetDesc=2 Saunders Rd, North Taieri/ Bar, restaurant
-Data0=(-45.85651,170.31109)
+Data0=(-45.85430,170.35954)
 [END]
 
 ;1138235
@@ -127394,7 +127361,7 @@ Data0=(-41.74979,171.55998)
 ;1141044
 [POI]
 Type=0x2a0e
-Label=COASTERS CAFE
+Label=MIDDLE BREAK
 StreetDesc=124-126 Palmerston St, Westport/ cafe
 Data0=(-41.75310,171.59788)
 [END]
@@ -140144,9 +140111,11 @@ Data0=(-43.53891,172.65260)
 ;1146761
 [POI]
 Type=0x2f
-Label=GROUND LIMITED
-StreetDesc=44A London St, Lyttelton, Chc/ 
-Data0=(-43.60223,172.72039)
+Label=GROUND CULINARY CENTRE
+StreetDesc=44A London St, Lyttelton, Chc/ New York style Deli, cafe, fine wines and boutiqu
+Phone=+6433287275
+zip=Mon-Sat 9.30am-7.30pm, Su 9.30am-6pm
+Data0=(-43.60224,172.72042)
 [END]
 
 ;1146762
@@ -140785,7 +140754,8 @@ Data0=(-43.49361,172.61029)
 [POI]
 Type=0x2f
 Label=JUST DESSERTS
-StreetDesc=33 Wordsworth St, Chc/ 
+StreetDesc=33 Wordsworth St, Sydenham, Chc/ Dessert cafe, cake gallery & showroom, wedding 
+Phone=+6433793754
 Data0=(-43.54461,172.63437)
 [END]
 
@@ -140913,7 +140883,8 @@ Data0=(-43.55671,172.61857)
 [POI]
 Type=0x2f
 Label=KUMEA FISHERIES LTD
-StreetDesc=9 Shakespeare Rd, Chc/ 
+StreetDesc=9 Shakespeare Rd, Chc/ Takeaways, Fresh fish
+Phone=+6433665269
 Data0=(-43.54501,172.64746)
 [END]
 
@@ -141095,14 +141066,6 @@ Type=0x2f
 Label=MAINLY MEN
 StreetDesc=630 Colombo St, Chc/ Hairdresser
 Data0=(-43.53506,172.63679)
-[END]
-
-;1146886
-[POI]
-Type=0x2f
-Label=MALAYSIA DELIGHTS
-StreetDesc=81 Manchester St, Chc/ 
-Data0=(-43.53666,172.63950)
 [END]
 
 ;1146887
@@ -142708,8 +142671,9 @@ Data0=(-43.56124,172.73900)
 [POI]
 Type=0x2f
 Label=TRADE POWER BUILDING NETWORKS
-StreetDesc=800 Colombo St, Chc/ 
-Data0=(-43.52637,172.63679)
+StreetDesc=10 Lyn Christie Place, Wainoni, Chc 8061/ Builder,Building,Shed,Sheds,House,Hous
+Phone=+6439607719
+Data0=(-43.52298,172.68424)
 [END]
 
 ;1147094
@@ -144201,9 +144165,9 @@ Data0=(-43.53254,172.60783)
 [POI]
 Type=0x2a02
 Label=KEO THAI RESTAURANT
-StreetDesc=14 Papanui Rd, Carlton Courts, Merivale, Chc/ Thai Restaurant
+StreetDesc=14 Papanui Rd, Carlton Courts, Merivale, Chc/ Thai restaurant, fully licensed & 
 Phone=+6433556229
-zip=5pm Till late 7 days
+zip=Dinner 7 days 5pm till late, Lunch Sat-S
 Data0=(-43.52010,172.62764)
 [END]
 
@@ -153252,9 +153216,9 @@ Data0=(-41.51381,173.95539)
 [POI]
 Type=0x2a02
 Label=MANEE 2 THAI RESTAURANT
-StreetDesc=293 Durham St, Chc/ Thai Restaurant
+StreetDesc=293 Durham St, Chc/ Thai restaurant, BYO & licensed, takeaways
 Phone=+6433654654
-zip=Mon - Thu 9:00am - 9:30pm. Fri 9:00am - 
+zip=Mon-Thu 9am-9:30pm, Fri 9am-10pm. Sat 5:
 Data0=(-43.52922,172.63338)
 [END]
 
@@ -157878,14 +157842,6 @@ StreetDesc=133 Leaches Rd, Hororata/
 Data0=(-43.55494,171.81502)
 [END]
 
-;1157652
-[POI]
-Type=0x2f
-Label=MALVERN BINS
-StreetDesc=677 Bangor Rd, Darfield/ 
-Data0=(-43.47980,172.02738)
-[END]
-
 ;1157653
 [POI]
 Type=0x2e
@@ -158139,8 +158095,9 @@ Data0=(-43.33763,171.92878)
 [POI]
 Type=0x2f
 Label=SPRINGFRESH
-StreetDesc=3647 Barnes Rd, Tai Tapu/ 
-Data0=(-43.65598,172.53045)
+StreetDesc=364 Barnes Rd, Tai Tapu/ Pure New Zealand water
+Phone=+6433296442
+Data0=(-43.64759,172.53368)
 [END]
 
 ;1157684
@@ -159308,9 +159265,9 @@ Data0=(-41.12403,173.01022)
 [POI]
 Type=0x2e
 Label=BLACKS PET EMPORIUM
-StreetDesc=15 Opawa Rd, Chc, Canterbury 8023, New Zealand/ Pet Shop
+StreetDesc=14b Opawa Rd, Chc, Canterbury 8023, New Zealand/ Pet Shop
 Phone=+6433652361
-Data0=(-43.54757,172.65472)
+Data0=(-43.54794,172.65387)
 [END]
 
 ;1158516
@@ -159988,14 +159945,6 @@ Type=0x2b00
 Label=BAY CREST MOTOR LODGE
 StreetDesc=87 Golf Rd, Tahunanui, Nelson/ Accommodation
 Data0=(-41.28683,173.23667)
-[END]
-
-;1158796
-[POI]
-Type=0x2b00
-Label=BAY OF MANY COVES RESORT
-StreetDesc=Arthurs Bay, Queen Charlotte Sound, Marlborough Sounds/ Accommodation
-Data0=(-41.19255,174.15174)
 [END]
 
 ;1158800
@@ -161232,14 +161181,6 @@ StreetDesc=209 Collingwood St, Nelson/ Accommodation
 Data0=(-41.28004,173.28675)
 [END]
 
-;1159198
-[POI]
-Type=0x2b00
-Label=GRAND MERCURE NELSON MONACO APARTMENTS
-StreetDesc=6 Point Rd, Monaco, Nelson/ Accommodation
-Data0=(-41.30544,173.22013)
-[END]
-
 ;1159199
 [POI]
 Type=0x2b02
@@ -161722,6 +161663,15 @@ Type=0x2b02
 Label=KAITERITERI HEIGHTS B&B
 StreetDesc=28 Cederman Dr, Kaiteriteri Heights, Motueka/ B&B Accommodation
 Data0=(-41.04445,173.01359)
+[END]
+
+;1159338
+[POI]
+Type=0x2b00
+Label=KAKA RETREAT
+StreetDesc=7 Miro Cres, Halfmoon Bay, Stewart Island/ Motel accommodation
+Phone=+6432191252
+Data0=(-46.89625,168.12728)
 [END]
 
 ;1159339
@@ -171700,7 +171650,7 @@ Data0=(-45.24830,169.38455)
 [POI]
 Type=0x2e09
 Label=HANSON REMOVALS, ALEXANDRA
-StreetDesc=56 Boundary Rd , Alexandra/ Furniture Removal, Frieght, Rental Tracks, Storage
+StreetDesc=56 Boundary Rd , Alexandra/ Furniture Removal, Frieght, Rental Trucks, Storage
 Phone=+6421771883
 Data0=(-45.24843,169.37217)
 [END]
@@ -181141,14 +181091,6 @@ StreetDesc=14 Browning Cres, Stoke, Nelson/
 Data0=(-41.31623,173.22573)
 [END]
 
-;1169726
-[POI]
-Type=0x2e05
-Label=TAVENERS STAY WELL PHARMACY
-StreetDesc=7D Witham St, Hornby, Chc/ Pharmacy
-Data0=(-43.55156,172.53084)
-[END]
-
 ;1169734
 [POI]
 Type=0x2f
@@ -181219,6 +181161,8 @@ Data0=(-40.85160,172.80711)
 Type=0x2f
 Label=TEAM DENTAL RICCARTON
 StreetDesc=178 Riccarton Rd, Riccarton, Chc/ Dentist
+Phone=+6433411122
+zip=Wed-Fri 9-6, Sat-Sun 10-5
 Data0=(-43.53014,172.59327)
 [END]
 
@@ -181679,14 +181623,6 @@ Label=UROLOGY ASSOCIATES
 StreetDesc=Hiatt Chambers, St George's Medical Ctr, 249 Papanui Rd, Chc/ Urology, Medical S
 Phone=+6433555129
 Data0=(-43.51028,172.61953)
-[END]
-
-;1170113
-[POI]
-Type=0x2f
-Label=URSULA NICLAUS- PSYCHOTHERAPIST
-StreetDesc=26 Winnie St, Greymouth/ 
-Data0=(-42.46204,171.20626)
 [END]
 
 ;1170124
@@ -184827,9 +184763,9 @@ Data0=(-45.03126,168.65967)
 [POI]
 Type=0x2c00
 Label=REAL JOURNEYS
-StreetDesc=74 Shotover St, Queenstown/ Cruises in Milford & Doubtful sounds. Te Anau Glowwo
+StreetDesc=74 Shotover St, Queenstown 9300 Southland/ Cruises in Milford & Doubtful sounds.
 Phone=+6434427509
-Data0=(-45.03278,168.65757)
+Data0=(-45.03281,168.65757)
 [END]
 
 ;1171516
@@ -190885,7 +190821,7 @@ Data0=(-43.53373,172.64551)
 ;1173496
 [POI]
 Type=0x2f
-Label=THE SIGN STORE LTD
+Label=HORTON SIGNS
 StreetDesc=67 Montreal St, Sydenham/ signs, advertising
 Phone=+6433657629
 Data0=(-43.54434,172.63044)
@@ -191945,8 +191881,10 @@ Data0=(-41.27293,173.28292)
 [POI]
 Type=0x2a0e
 Label=CRAFTED COFFEE COMPANY
-StreetDesc=121 Blenheim Rd, Riccarton, Chc, New Zealand/ Cafe and Coffee Roastery with amaz
-Data0=(-43.53742,172.59996)
+StreetDesc=121 Blenheim Rd, Riccarton, Chc/ Cafe and Coffee Roastery with amazing coffees a
+Phone=+6433484833
+zip=Mon-Fri 7.30am-4pm, Sat-Sun 8.30am-4pm
+Data0=(-43.53739,172.60045)
 [END]
 
 ;1173759
@@ -192635,7 +192573,7 @@ Type=0x2f
 Label=SIMPLY KITCHENS AND WARDROBES CHRISTCHURCH
 StreetDesc=381 Brougham St, Chc/ Kitchens, Wardrobes
 Phone=+6433790292
-Data0=(-43.54741,172.64419)
+Data0=(-43.54720,172.64408)
 [END]
 
 ;1173940
@@ -193152,7 +193090,8 @@ Data0=(-41.32826,173.21770)
 [POI]
 Type=0x2a0e
 Label=EMPEROR'S NEW CLOTHES
-StreetDesc=125 Hackthorne Rd Cashmere 8022/ Cafe
+StreetDesc=Cnr Hackthorne Rd & Dyers Pass Rd, Cashmere, Chc 8022/ Cafe
+Phone=+6433320131
 Data0=(-43.57718,172.63030)
 [END]
 
@@ -194460,10 +194399,11 @@ Data0=(-41.33830,173.18327)
 ;1174691
 [POI]
 Type=0x2a
-Label=LEINSTER RD RESTAURANT
-StreetDesc=158 Leinster Rd/ Restaurant, Cafe, Bar
+Label=LEINSTER RD BISTRO
+StreetDesc=158 Leinster Rd, Merivale, Chc/ Restaurant, Cafe, Bar. Fully licensed & BYO, fuc
 Phone=+6433553055
-Data0=(-43.51087,172.61999)
+zip=7 days
+Data0=(-43.51082,172.62003)
 [END]
 
 ;1174692
@@ -196635,8 +196575,9 @@ Data0=(-41.26948,173.26364)
 [POI]
 Type=0x2b00
 Label=BAY OF MANY COVES RESORT AND SPA
-StreetDesc=Queen Charlotte Sound, Marlborough Sounds/ Apartment accommodation
-Data0=(-41.19093,174.15105)
+StreetDesc=Arthur's Bay, Queen Charlotte Sound, Marlborough Sounds/ Apartment accommodation
+Phone=+6435799771
+Data0=(-41.19241,174.15151)
 [END]
 
 ;1176580
@@ -197316,8 +197257,9 @@ Data0=(-43.63743,171.64599)
 ;1176764
 [POI]
 Type=0x2b01
-Label=ST CLAIR BEACH RESORT
-StreetDesc=24 Esplanade, St Clair, Dud/ Hotel accommodation
+Label=ST CLAIR BEACH RESORT HOTEL
+StreetDesc=24 Esplanade, St Clair, Dud/ Dunedin Hotel, Hotel Dunedin, Luxury Accommodation 
+Phone=+6434560555
 Data0=(-45.91235,170.48867)
 [END]
 
@@ -200907,5 +200849,1546 @@ Type=0x2f
 Label=BLUFF YACHT CLUB
 StreetDesc=Foreshore Rd, Bluff 9842/ sailing dinghies + trailer yachts. Launching ramps.
 Data0=(-46.59631,168.33264)
+[END]
+
+;1178747
+[POI]
+Type=0x2f
+Label=RAVENSDOWN - WESTPORT STORE
+StreetDesc=Cape Foulwind, New Zealand/ Lime Quarry, Fertiliser
+Phone=+6437897609
+Data0=(-41.75523,171.50163)
+[END]
+
+;1178751
+[POI]
+Type=0x2e09
+Label=TRENZSEATER CHRISTCHURCH
+StreetDesc=121 Blenheim Rd, Riccarton, Chc/ Quality home, outdoor & office furniture. Desig
+Phone=+6433430876
+zip=Mon-Fri 9am-5pm, Sat 10am-4pm, Sun 11am-
+Data0=(-43.53739,172.60031)
+[END]
+
+;1178752
+[POI]
+Type=0x2a0e
+Label=DOSE
+StreetDesc=90 Hereford St, Chc/ cafe
+Phone=+6433749907
+zip=Mon-Fri 7am-5pm, Sat 8am-3pm
+Data0=(-43.53218,172.63474)
+[END]
+
+;1178753
+[POI]
+Type=0x2a0e
+Label=DOSE
+StreetDesc=Shop 6, 77 Tuam St, Chc/ cafe
+zip=Mon-Fri 7.30am-4pm
+Data0=(-43.53520,172.63175)
+[END]
+
+;1178759
+[POI]
+Type=0x2f
+Label=FRUITFED SUPPLIES ALEXANDRA
+StreetDesc=13 Ngapara St, Alexandra/ Horticultural supplies, fertiliser, tools
+Phone=+6434486999
+Data0=(-45.24715,169.39799)
+[END]
+
+;1178760
+[POI]
+Type=0x2f
+Label=FRUITFED SUPPLIES BLENHEIM
+StreetDesc=46 Wynen St, Blenheim/ Horticultural supplies, fertiliser, tools
+Phone=+6435785389
+Data0=(-41.51264,173.95845)
+[END]
+
+;1178762
+[POI]
+Type=0x2f
+Label=FRUITFED SUPPLIES CHRISTCHURCH
+StreetDesc=411 Blenheim Rd, Chc/ Horticultural supplies, fertiliser, tools
+Phone=+6433499948
+Data0=(-43.53950,172.57227)
+[END]
+
+;1178763
+[POI]
+Type=0x2f
+Label=FRUITFED SUPPLIES CROMWELL
+StreetDesc=2 The Mall, Cromwell/ Horticultural supplies, fertiliser, tools
+Phone=+6434453730
+Data0=(-45.03664,169.19730)
+[END]
+
+;1178771
+[POI]
+Type=0x2f
+Label=FRUITFED SUPPLIES MOTUEKA
+StreetDesc=26 Old Wharf Rd, Motueka/ Horticultural supplies, fertiliser, tools
+Phone=+6435288680
+Data0=(-41.12424,173.01361)
+[END]
+
+;1178775
+[POI]
+Type=0x2f
+Label=FRUITFED SUPPLIES RICHMOND
+StreetDesc=6 Gladstone Rd, Richmond/ Horticultural supplies, fertiliser, tools
+Phone=+6435446115
+Data0=(-41.33708,173.18070)
+[END]
+
+;1178778
+[POI]
+Type=0x2f
+Label=PGG WRIGHTSON ALEXANDRA
+StreetDesc=85-87 Tarbert St, Alexandra/ 
+Phone=+6434402391
+zip=Mon-Fri 8am-5pm, Sat 10am-12pm
+Data0=(-45.25372,169.39440)
+[END]
+
+;1178779
+[POI]
+Type=0x2f
+Label=?PGG WRIGHTSON AMBERLEY
+StreetDesc=Main Rd, Amberley/ 
+Phone=+6433148516
+zip=Mon-Fri 8am-5pm, Sat 9am-12pm
+Data0=(-43.19710,172.74129)
+[END]
+
+;1178780
+[POI]
+Type=0x2f
+Label=PGG WRIGHTSON ASHBURTON
+StreetDesc=30-46 Tancred St, Ashburton/ 
+Phone=+6433078713
+zip=Mon-Fri 8am-5pm, Summer Sat 8.30am-12pm
+Data0=(-43.90451,171.74547)
+[END]
+
+;1178781
+[POI]
+Type=0x2f
+Label=?PGG WRIGHTSON ASHBURTON FORDS RD
+StreetDesc=Fords Rd, Ashburton Fords Rd/ 
+Phone=+6433077811
+zip=Mon-Fri 8am-5pm
+Data0=(-43.98927,171.71340)
+[END]
+
+;1178782
+[POI]
+Type=0x2f
+Label=PGG WRIGHTSON BALCLUTHA
+StreetDesc=196-200 Clyde St, Balclutha/ 
+Phone=+6434181333
+zip=Mon-Fri 8am-5.30pm
+Data0=(-46.24251,169.72652)
+[END]
+
+;1178783
+[POI]
+Type=0x2f
+Label=?PGG WRIGHTSON BLENHEIM
+StreetDesc=Cnr Sutherland Tce & Kinross St, Blenheim/ 
+Phone=+6435208887
+zip=Mon-Fri 8am-5pm, Sat 9am-12pm
+Data0=(-41.51483,173.96320)
+[END]
+
+;1178786
+[POI]
+Type=0x2f
+Label=?PGG WRIGHTSON CHEVIOT
+StreetDesc=Main Rd, Cheviot/ 
+Phone=+6433198772
+zip=Mon-Fri 8am-5pm
+Data0=(-42.84776,173.21896)
+[END]
+
+;1178787
+[POI]
+Type=0x2f
+Label=PGG WRIGHTSON CHRISTCHURCH
+StreetDesc=411 Blenheim Rd, Chc/ 
+Phone=+6433414318
+zip=Mon-Fri 8am-5pm, Sat 9am-12pm
+Data0=(-43.53950,172.57227)
+[END]
+
+;1178788
+[POI]
+Type=0x2f
+Label=PGG WRIGHTSON CLYDEVALE
+StreetDesc=Main Rd, Clydevale/ 
+Phone=+6434159033
+zip=Mon-Fri 8.30am-5pm
+Data0=(-46.10147,169.52735)
+[END]
+
+;1178789
+[POI]
+Type=0x2f
+Label=?PGG WRIGHTSON CULVERDEN
+StreetDesc=Main Rd, Culverden/ 
+Phone=+6433153040
+zip=Mon-Fri 8am-5pm
+Data0=(-42.77335,172.84863)
+[END]
+
+;1178791
+[POI]
+Type=0x2f
+Label=PGG WRIGHTSON DARFIELD
+StreetDesc=1 Ross St, Darfield/ 
+Phone=+6433187850
+zip=Mon-Fri 8am-5pm
+Data0=(-43.48997,172.10871)
+[END]
+
+;1178794
+[POI]
+Type=0x2f
+Label=?PGG WRIGHTSON FAIRLIE
+StreetDesc=Main St, Fairlie/ 
+Phone=+6436859090
+zip=Mon-Fri 8am-5pm
+Data0=(-44.10106,170.82940)
+[END]
+
+;1178796
+[POI]
+Type=0x2f
+Label=?PGG WRIGHTSON GERALDINE
+StreetDesc=Main Rd, Geraldine/ 
+Phone=+6436931025
+zip=Mon-Fri 8am-5pm, Sat 9am-12pm
+Data0=(-44.07608,171.24801)
+[END]
+
+;1178798
+[POI]
+Type=0x2f
+Label=?PGG WRIGHTSON GORE
+StreetDesc=Cnr River and Medway Sts, Gore/ 
+Phone=+6432090314
+zip=Mon-Fri 8am-5.30pm, Sat 9am-12pm
+Data0=(-46.09904,168.94728)
+[END]
+
+;1178799
+[POI]
+Type=0x2f
+Label=PGG WRIGHTSON GREYMOUTH
+StreetDesc=116-120 Tainui St, Greymouth/ 
+Phone=+6437681229
+zip=Mon-Fri 8am-5pm, Sat 9am-12.30pm
+Data0=(-42.45261,171.20906)
+[END]
+
+;1178802
+[POI]
+Type=0x2f
+Label=PGG WRIGHTSON HAWARDEN
+StreetDesc=11 High St, Hawarden/ 
+Phone=+6433144458
+zip=Mon-Fri 9am-5pm
+Data0=(-42.92338,172.64350)
+[END]
+
+;1178805
+[POI]
+Type=0x2f
+Label=?PGG WRIGHTSON HERIOT
+StreetDesc=Roxburgh St, Heriot/ 
+Phone=+6432042021
+zip=Mon-Fri 8.30am-5pm
+Data0=(-45.84551,169.26902)
+[END]
+
+;1178807
+[POI]
+Type=0x2f
+Label=?PGG WRIGHTSON INVERCARGILL
+StreetDesc=Cnr Dee & Earnslaw Streets, Invercargill/ 
+Phone=+6432113160
+zip=Mon-Fri 8am-5.30pm, Sat 9am-12pm
+Data0=(-46.40422,168.34825)
+[END]
+
+;1178809
+[POI]
+Type=0x2f
+Label=PGG WRIGHTSON KAIKOURA
+StreetDesc=98 Beach Rd, Kaikoura/ 
+Phone=+6433195012
+zip=Mon-Fri 8am-5pm, Sat 9am-12pm
+Data0=(-42.39020,173.68039)
+[END]
+
+;1178813
+[POI]
+Type=0x2f
+Label=PGG WRIGHTSON KUROW
+StreetDesc=36 Bledisole St, Kurow/ 
+Phone=+6434360534
+zip=Mon-Thu 8am-5pm
+Data0=(-46.12391,169.95599)
+[END]
+
+;1178814
+[POI]
+Type=0x2f
+Label=PGG WRIGHTSON LAWRENCE
+StreetDesc=23 Ross place, Lawrence/ 
+Phone=+6434851010
+zip=Mon-Fri 8am-5pm
+Data0=(-45.91282,169.68582)
+[END]
+
+;1178815
+[POI]
+Type=0x2f
+Label=?PGG WRIGHTSON LEESTON
+StreetDesc=High St, Leeston/ 
+Phone=+6433248180
+zip=Mon-Fri 8am-5pm, Sat 9am-11.30am
+Data0=(-43.76395,172.29470)
+[END]
+
+;1178816
+[POI]
+Type=0x2f
+Label=PGG WRIGHTSON LUMSDEN
+StreetDesc=135 Flora Rd, Lumsden/ 
+Phone=+6432489000
+zip=Mon-Fri 8.30am-5.30pm
+Data0=(-45.73716,168.44103)
+[END]
+
+;1178822
+[POI]
+Type=0x2f
+Label=?PGG WRIGHTSON MAYFIELD
+StreetDesc=Arundel-Rakaia Gorge Rd, Mayfield/ 
+Phone=+6433036011
+zip=Mon-Fri 8am-5pm
+Data0=(-43.82597,171.41862)
+[END]
+
+;1178823
+[POI]
+Type=0x2f
+Label=?PGG WRIGHTSON METHVEN
+StreetDesc=Main St, Methven/ 
+Phone=+6433028407
+zip=Mon-Fri 8am-5pm
+Data0=(-43.63321,171.64703)
+[END]
+
+;1178824
+[POI]
+Type=0x2f
+Label=?PGG WRIGHTSON MIDDLEMARCH
+StreetDesc=Snow Ave, Middlemarch/ 
+Phone=+6434643882
+Data0=(-45.50826,170.12254)
+[END]
+
+;1178825
+[POI]
+Type=0x2f
+Label=PGG WRIGHTSON MILTON
+StreetDesc=15 Union St, Milton/ 
+Phone=+6434178403
+zip=Mon-Fri 8am-5pm
+Data0=(-46.12385,169.95609)
+[END]
+
+;1178827
+[POI]
+Type=0x2f
+Label=PGG WRIGHTSON MOSGIEL
+StreetDesc=16 Factory Rd, Mosgiel/ 
+Phone=+6434894174
+zip=Mon-Fri 8.30am-5.30pm, Sat 9.30am-12.30p
+Data0=(-45.87356,170.34934)
+[END]
+
+;1178828
+[POI]
+Type=0x2f
+Label=PGG WRIGHTSON MURCHISON
+StreetDesc=46 Hotham St, Murchison/ 
+Phone=+6435231030
+zip=Mon-Fri 8am-5pm
+Data0=(-41.80574,172.32689)
+[END]
+
+;1178830
+[POI]
+Type=0x2f
+Label=PGG WRIGHTSON OAMARU
+StreetDesc=230 Thames Highway, Oamaru/ 
+Phone=+6434331340
+zip=Mon-Fri 8am-5.30pm, Sat 10am-12pm
+Data0=(-45.08700,170.97619)
+[END]
+
+;1178831
+[POI]
+Type=0x2f
+Label=PGG WRIGHTSON OTAUTAU
+StreetDesc=178 Main St, Otautau/ 
+Phone=+6432259710
+zip=Mon-Fri 8am-5.30pm
+Data0=(-46.14238,167.99702)
+[END]
+
+;1178833
+[POI]
+Type=0x2f
+Label=?PGG WRIGHTSON OUTRAM
+StreetDesc=Holyhead St, Outram/ 
+Phone=+6434862991
+zip=Mon-Fri 8am-5pm
+Data0=(-45.85661,170.23059)
+[END]
+
+;1178834
+[POI]
+Type=0x2f
+Label=PGG WRIGHTSON OWAKA
+StreetDesc=5 Saunders St, Owaka/ 
+Phone=+6434191060
+zip=Mon-Fri 8.30am-5pm
+Data0=(-46.45043,169.65877)
+[END]
+
+;1178836
+[POI]
+Type=0x2f
+Label=PGG WRIGHTSON PALMERSTON
+StreetDesc=61 Tiverton St, Palmerston/ 
+Phone=+6434654080
+zip=Mon-Fri 8.30am-5pm
+Data0=(-45.48371,170.71440)
+[END]
+
+;1178841
+[POI]
+Type=0x2f
+Label=PGG WRIGHTSON RAI VALLEY
+StreetDesc=Main Rd, Rai Valley/ 
+Phone=+6435716325
+zip=Mon-Fri 8am-5pm, Sat 9am-12pm
+Data0=(-41.22767,173.58295)
+[END]
+
+;1178842
+[POI]
+Type=0x2f
+Label=PGG WRIGHTSON RANFURLY
+StreetDesc=6 Northland St, Ranfurly/ 
+Phone=+6434441033
+zip=Mon-Fri 8am-5pm
+Data0=(-45.12935,170.10092)
+[END]
+
+;1178843
+[POI]
+Type=0x2f
+Label=PGG WRIGHTSON RANGIORA
+StreetDesc=67 Victoria St, Rangiora/ 
+Phone=+6433130880
+zip=Mon-Fri 8am-5pm, Sat 9am-12pm
+Data0=(-43.30495,172.59536)
+[END]
+
+;1178844
+[POI]
+Type=0x2f
+Label=PGG WRIGHTSON RICHMOND
+StreetDesc=6 Gladstone Rd, Richmond/ 
+Phone=+6435446115
+zip=Mon-Fri 8am-5pm, Sat 9am-12pm
+Data0=(-41.33708,173.18070)
+[END]
+
+;1178846
+[POI]
+Type=0x2f
+Label=PGG WRIGHTSON ROXBURGH
+StreetDesc=99 Scotland St, Roxburgh/ 
+Phone=+6434468016
+zip=Mon-Fri 8.3am-5pm
+Data0=(-45.54026,169.31420)
+[END]
+
+;1178849
+[POI]
+Type=0x2f
+Label=?PGG WRIGHTSON TAKAKA
+StreetDesc=Buxton Lane, Takaka/ 
+Phone=+6435257891
+zip=Mon-Fri 8am-5pm, Sat 9am-12pm
+Data0=(-40.85844,172.80766)
+[END]
+
+;1178850
+[POI]
+Type=0x2f
+Label=PGG WRIGHTSON TAPANUI
+StreetDesc=Bushy Hill St, Tapanui/ 
+Phone=+6432030280
+zip=Mon-Fri 8am-5pm
+Data0=(-45.94360,169.26185)
+[END]
+
+;1178854
+[POI]
+Type=0x2f
+Label=PGG WRIGHTSON TE ANAU
+StreetDesc=37 Caswell Rd, Te Anau/ 
+Phone=+6432498610
+zip=Mon-Fri 8am-5pm
+Data0=(-45.41276,167.73333)
+[END]
+
+;1178859
+[POI]
+Type=0x2f
+Label=PGG WRIGHTSON TEMUKA
+StreetDesc=3 Domain Ave, Temuka/ 
+Phone=+6436150050
+zip=Mon-Fri 8am-5pm
+Data0=(-44.24553,171.27720)
+[END]
+
+;1178861
+[POI]
+Type=0x2f
+Label=PGG WRIGHTSON TIMARU
+StreetDesc=Evans St, Timaru/ 
+Phone=+6436877338
+zip=Mon-Fri 8am-5pm, Sat 9.30am-12pm
+Data0=(-44.37283,171.24094)
+[END]
+
+;1178862
+[POI]
+Type=0x2f
+Label=PGG WRIGHTSON TUATAPERE
+StreetDesc=39 Main Rd, Tuatapere/ 
+Phone=+6432269360
+zip=Mon-Fri 8am-5pm
+Data0=(-46.13805,167.68902)
+[END]
+
+;1178864
+[POI]
+Type=0x2f
+Label=?PGG WRIGHTSON WAIMATE
+StreetDesc=High St, Waimate/ 
+Phone=+6436898059
+zip=Mon-Fri 8am-5.30pm
+Data0=(-44.73120,171.04586)
+[END]
+
+;1178869
+[POI]
+Type=0x2f
+Label=PGG WRIGHTSON WESTPORT
+StreetDesc=25 Palmerston St, Westport/ 
+Phone=+6437897539
+zip=Mon-Fri 8am-5pm, Sat 9am-12pm
+Data0=(-41.74871,171.59742)
+[END]
+
+;1178872
+[POI]
+Type=0x2f
+Label=PGG WRIGHTSON WINTON
+StreetDesc=18 Brandon St, Winton/ 
+Phone=+6432367430
+zip=Mon-Fri 8am-5pm, Sat 9am-12pm
+Data0=(-46.14413,168.32469)
+[END]
+
+;1178873
+[POI]
+Type=0x2f
+Label=PGG WRIGHTSON WYNDHAM
+StreetDesc=Balaclava St, Wyndham/ Rural Supplies
+Phone=+6432062020
+zip=Mon-Fri 8.30am-5.30pm
+Data0=(-46.32908,168.84883)
+[END]
+
+;1178881
+[POI]
+Type=0x2f
+Label=ROTAS INTERIORS
+StreetDesc=47 Boundary Rd , Alexandra/ Kitchens, Bathrooms & Natural Stone
+Phone=+6434488008
+Data0=(-45.24749,169.37317)
+[END]
+
+;1178882
+[POI]
+Type=0x2f
+Label=DUNSTAN GLASS 2000 LTD
+StreetDesc=43-45 Boundary Rd , Alexandra/ Aluminium windows & doors. Glass
+Phone=+6434489073
+Data0=(-45.24739,169.37336)
+[END]
+
+;1178883
+[POI]
+Type=0x2f03
+Label=ALEXANDRA PANELBEATERS
+StreetDesc=43 Boundary Rd , Alexandra/ Panel Beaters
+Phone=+6434486213
+Data0=(-45.24728,169.37356)
+[END]
+
+;1178884
+[POI]
+Type=0x2f
+Label=ALLIED CONCRETE ALEXANDRA
+StreetDesc=39 Boundary Rd , Alexandra/ Ready mix concrete
+Phone=+6434402004
+Data0=(-45.24704,169.37401)
+[END]
+
+;1178885
+[POI]
+Type=0x2f
+Label=BENCHMARK CONSTRUCTION LTD
+StreetDesc=48 Boundary Rd , Alexandra/ Civil Engineering Contracting
+Phone=+6434487635
+Data0=(-45.24795,169.37298)
+[END]
+
+;1178886
+[POI]
+Type=0x2F07
+Label=?ALEXANDRA AUTO PARTS
+StreetDesc=50 Boundary Rd , Alexandra/ Automotive Dismantlers
+Phone=+6434489082
+Data0=(-45.24795,169.37298)
+[END]
+
+;1178887
+[POI]
+Type=0x2b03
+Label=CENTRAL OTAGO HUNTING & FISHING
+StreetDesc=7 Iles Rd, Cromwell/ Fishing Tackle & Bait, Guns, Camping
+Phone=+6434454830
+Data0=(-45.03522,169.19300)
+[END]
+
+;1178893
+[POI]
+Type=0x2b00
+Label=ALBION APARTMENTS
+StreetDesc=44 London St, Lyttelton, Chc/ Holiday accommodation
+Phone=+6433289314
+Data0=(-43.60223,172.72033)
+[END]
+
+;1178896
+[POI]
+Type=0x2f
+Label=MARAMA ORGANIC FARM
+StreetDesc=279 Cameron Rd, Waipahi/ 
+Phone=+6432058813
+Data0=(-46.09226,169.25779)
+[END]
+
+;1178903
+[POI]
+Type=0x2e0b
+Label=JB HI-FI DUNEDIN
+StreetDesc=Meridian Mall, 267-287 George St, Dud/ Music, video, DVDs, CDs, games, computers
+Phone=+6434677028
+Data0=(-45.87042,170.50543)
+[END]
+
+;1178906
+[POI]
+Type=0x2a
+Label=SPAGALIMIS ITALIAN PIZZERIA
+StreetDesc=155 Victoria St, Central City, Chc Central 8013, Canterbury/ Pizza restaurants. 
+Phone=+6433773113
+zip=Open Sun-Wed 11:00am - 10:00pm Thurs 11:
+Data0=(-43.52244,172.62898)
+[END]
+
+;1178907
+[POI]
+Type=0x2b00
+Label=LOOKING4RENTALS
+StreetDesc=250 Saint Asaph St, Central City, Chc 8011, Canterbury/ Accommodation. Christchu
+Phone=+6433797799
+Data0=(-43.53646,172.64115)
+[END]
+
+;1178925
+[POI]
+Type=0x2b00
+Label=61 ON DERWENT B&B
+StreetDesc=61 Derwent St, Oamaru North, Oamaru/ Bed and Breakfast accommodation
+Data0=(-45.08088,170.97132)
+[END]
+
+;1178926
+[POI]
+Type=0x2b01
+Label=97 MOTEL MORAY
+StreetDesc=97 Moray Place, Dud/ Motel accommodation
+Data0=(-45.87417,170.50119)
+[END]
+
+;1178927
+[POI]
+Type=0x2b00
+Label=ABBOTT HOUSE SUMNER BED & BREAKFAST
+StreetDesc=104 Nayland St, Sumner, Chc/ Bed and Breakfast accommodation
+Data0=(-43.57308,172.76482)
+[END]
+
+;1178929
+[POI]
+Type=0x2b00
+Label=ABEL TASMAN ACCOMMODATION
+StreetDesc=56 Aranui Rd, Mapua/ Apartment accommodation
+Data0=(-41.25395,173.09661)
+[END]
+
+;1178930
+[POI]
+Type=0x2b01
+Label=ABEL TASMAN STABLES ACCOMMODATION
+StreetDesc=13 Marahau Valley Rd, Marahau, Motueka/ Motel accommodation
+Data0=(-40.99750,173.00247)
+[END]
+
+;1178938
+[POI]
+Type=0x2b01
+Label=ALPINE SPRINGS MOTEL
+StreetDesc=121 Argelins Rd, Hanmer Springs/ Motel accommodation
+Data0=(-42.52396,172.82129)
+[END]
+
+;1178940
+[POI]
+Type=0x2b01
+Label=ANDORRA MOTEL
+StreetDesc=16 McKenzie St, Geraldine/ Motel accommodation
+Data0=(-44.08440,171.24726)
+[END]
+
+;1178941
+[POI]
+Type=0x2b01
+Label=APOSTLES VIEW MOTEL
+StreetDesc=296 Statehighway 6, Coal Creek, Greymouth/ Motel accommodation
+Data0=(-42.44156,171.23879)
+[END]
+
+;1178942
+[POI]
+Type=0x2b01
+Label=ARROWTOWN VIKING LODGE
+StreetDesc=21 Inverness Cres, Arrowtown/ Motel accommodation
+Data0=(-44.94402,168.83561)
+[END]
+
+;1178944
+[POI]
+Type=0x2b00
+Label=ASHFORD HOUSE
+StreetDesc=2 Ashford Grove, Rapaura, RD3, Blenheim/ Bed and Breakfast accommodation
+Data0=(-41.47516,173.90297)
+[END]
+
+;1178946
+[POI]
+Type=0x2b00
+Label=AWATEA TASMAN BAY
+StreetDesc=204 Motueka River West Bank Rd, Motueka/ Bed and Breakfast accommodation
+Data0=(-41.10869,172.95650)
+[END]
+
+;1178947
+[POI]
+Type=0x2b00
+Label=B AND B ON YARROW
+StreetDesc=167 yarrow st, central city, invercargill/ Bed and Breakfast accommodation
+Data0=(-46.40872,168.35924)
+[END]
+
+;1178949
+[POI]
+Type=0x2b00
+Label=BALLYMONEY FARMSTAY AND GARDENS
+StreetDesc=Wardstay Rd .RD2, Chc/ Bed and Breakfast accommodation
+Data0=(-43.66658,172.52528)
+[END]
+
+;1178956
+[POI]
+Type=0x2b01
+Label=BEACHCOMBER MOTELS
+StreetDesc=169 Beach Rd, Kaikoura/ Motel accommodation
+Data0=(-42.38347,173.67960)
+[END]
+
+;1178957
+[POI]
+Type=0x2b00
+Label=BEAVER BED AND BREAKFAST
+StreetDesc=60 Beaver Rd, Blenhein/ Bed and Breakfast accommodation
+Data0=(-41.51833,173.94766)
+[END]
+
+;1178958
+[POI]
+Type=0x2b00
+Label=BEC LUXURY LODGE
+StreetDesc=81 Cob Cottage Rd, Riverlands, Blenheim/ Lodge accommodation
+Data0=(-41.53457,173.99859)
+[END]
+
+;1178959
+[POI]
+Type=0x2b00
+Label=BEERSHEBA BOUTIQUE ACCOMMODATION
+StreetDesc=58 Millton Park Rd., No 1 RD., Invercargill/ Bed and Breakfast accommodation
+Data0=(-46.40440,168.41153)
+[END]
+
+;1178960
+[POI]
+Type=0x2b00
+Label=BELLBIRD COTTAGE LAKE HAWEA
+StreetDesc=121 Noema Terrace, Lake Hawea/ Holiday House accommodation
+Data0=(-44.61281,169.26103)
+[END]
+
+;1178961
+[POI]
+Type=0x2b00
+Label=BENDAMERE HOUSE BED & BREAKFAST
+StreetDesc=37 Adelphi Terrace, Kaikoura/ Bed and Breakfast accommodation
+Data0=(-42.40259,173.68138)
+[END]
+
+;1178964
+[POI]
+Type=0x2b01
+Label=BLENHEIM SPA MOTOR LODGE
+StreetDesc=68 Main St., Blenheim/ Motel accommodation
+Data0=(-41.51333,173.96732)
+[END]
+
+;1178965
+[POI]
+Type=0x2b00
+Label=BLUFF OCEAN VISTA ACCOMMODATION
+StreetDesc=152 Marine Parade, Bluff/ Bed and Breakfast accommodation
+Data0=(-46.60503,168.35410)
+[END]
+
+;1178973
+[POI]
+Type=0x2b00
+Label=CATS PJAMAS BED AND BREAKFAST
+StreetDesc=232 Westdale Rd, RD 1, Bronte/ Bed and Breakfast accommodation
+Data0=(-41.27619,173.07029)
+[END]
+
+;1178974
+[POI]
+Type=0x2b00
+Label=CEDAR PARK GARDENS BED AND BREAKFAST
+StreetDesc=Cedar Park, 101B Lowes Rd, Rolleston/ Bed and Breakfast accommodation
+Data0=(-43.60372,172.38381)
+[END]
+
+;1178975
+[POI]
+Type=0x2b01
+Label=CHRISTCHURCH PARK MOTEL
+StreetDesc=250 Westminster St, St Albans, Chc/ Motel accommodation
+Data0=(-43.50159,172.64537)
+[END]
+
+;1178980
+[POI]
+Type=0x2b01
+Label=COLONIAL ON TAY MOTEL
+StreetDesc=335 Tay St, Invercargill/ Motel accommodation
+Data0=(-46.41191,168.36982)
+[END]
+
+;1178981
+[POI]
+Type=0x2b00
+Label=COOMBE FARM
+StreetDesc=Takamatua Valley Rd, Takamatua, Akaroa/ Bed and Breakfast accommodation
+Data0=(-43.78617,172.98465)
+[END]
+
+;1178986
+[POI]
+Type=0x2b00
+Label=CUSHCHINE FARM COTTAGE
+StreetDesc=12 Kowhai Ford Rd, RD 1, Kaikoura/ Holiday House accommodation
+Data0=(-42.38397,173.63147)
+[END]
+
+;1178988
+[POI]
+Type=0x2b00
+Label=DOUBLE VIEW LUXURY B&B
+StreetDesc=142 Panorama Dr, Stoke, Nelson/ Bed and Breakfast accommodation
+Data0=(-41.31384,173.24738)
+[END]
+
+;1178989
+[POI]
+Type=0x2b00
+Label=DRY OLIVE ACCOMMODATION AND COTTAGE
+StreetDesc=15 Dry Hills Rise, Riverlands RD4, Blenheim/ Holiday House accommodation
+Data0=(-41.53785,173.97535)
+[END]
+
+;1178993
+[POI]
+Type=0x2b00
+Label=EDGELEY BED & BREAKFAST
+StreetDesc=29 Spencer St, Andersons Bay, Dud/ Bed and Breakfast accommodation
+Data0=(-45.90033,170.53659)
+[END]
+
+;1178996
+[POI]
+Type=0x2b01
+Label=FIORDLAND LAKEVIEW MOTEL AND APARTMENTS
+StreetDesc=42 Lakefront Dr, Te Anau/ Motel accommodation
+Data0=(-45.42093,167.71563)
+[END]
+
+;1178998
+[POI]
+Type=0x2b00
+Label=FLETCHER LODGE
+StreetDesc=276 High St, Central Dud, Dud/ Lodge accommodation
+Data0=(-45.87935,170.49615)
+[END]
+
+;1179003
+[POI]
+Type=0x2b00
+Label=GOLDEN LODGE
+StreetDesc=193 Milton St, The Wood, Nelson/ Lodge accommodation
+Data0=(-41.27279,173.29496)
+[END]
+
+;1179007
+[POI]
+Type=0x2b00
+Label=GREYSTONES B/B
+StreetDesc=219 Beacon Point Rd, Wanaka/ Bed and Breakfast accommodation
+Data0=(-44.67468,169.12890)
+[END]
+
+;1179009
+[POI]
+Type=0x2b00
+Label=HOMEBUSH - MARLBOROUGH SOUNDS GETAWAY
+StreetDesc=Sam's Bay, Marlborough, Picton/ Holiday House accommodation
+Data0=(-41.21214,174.20413)
+[END]
+
+;1179014
+[POI]
+Type=0x2b00
+Label=HUNTER COTTAGE
+StreetDesc=32 Hunter Cres, Wanaka/ Holiday House accommodation
+Data0=(-44.67772,169.13160)
+[END]
+
+;1179017
+[POI]
+Type=0x2b01
+Label=JAG ESCAPE FOX ALPINE RETREAT
+StreetDesc=Cook Flat Rd, Fox Glacier/ Motel accommodation
+Data0=(-43.45742,169.94777)
+[END]
+
+;1179018
+[POI]
+Type=0x2b01
+Label=JAG ESCAPE FRANZ ALPINE RETREAT
+StreetDesc=Donovan Dr, SH6, Franz Josef, West Coast/ Motel accommodation
+Data0=(-43.38910,170.18179)
+[END]
+
+;1179020
+[POI]
+Type=0x2b00
+Label=JOYA GARDEN & VILLA STUDIOS
+StreetDesc=49 Brougham St, Nelson/ Apartment accommodation
+Data0=(-41.28158,173.28799)
+[END]
+
+;1179022
+[POI]
+Type=0x2b01
+Label=KAIKOURA GATEWAY MOTOR LODGE
+StreetDesc=16-18 Churchill St, (State Highway 1), Kaikoura/ Hotel accommodation
+Data0=(-42.40231,173.68056)
+[END]
+
+;1179028
+[POI]
+Type=0x2b00
+Label=KIPPILAW HOUSE
+StreetDesc=98 Waikawa Rd, Picton, Marlborough/ Bed and Breakfast accommodation
+Data0=(-41.28686,174.01691)
+[END]
+
+;1179032
+[POI]
+Type=0x2b00
+Label=LABYRINTH ROCKS BED AND BREAKFAST
+StreetDesc=8 Labyrinth Lane, Takaka/ Bed and Breakfast accommodation
+Data0=(-40.85126,172.82503)
+[END]
+
+;1179033
+[POI]
+Type=0x2b00
+Label=LAKE ROTOROA LODGE
+StreetDesc=Gowan Valley Rd, R.D.3 Murchison, Murchison/ Lodge accommodation
+Data0=(-41.79486,172.59524)
+[END]
+
+;1179037
+[POI]
+Type=0x2b00
+Label=MANDENO HOUSE
+StreetDesc=George St, North Dud, Dud/ Bed and Breakfast accommodation
+Data0=(-45.86152,170.51097)
+[END]
+
+;1179041
+[POI]
+Type=0x2b01
+Label=MCLEAN FALLS CHALETS, MOTELS & HOLIDAY PARK
+StreetDesc=29 Rewcastle Rd, Chaslands Highway, Catlins/ Motel accommodation
+Data0=(-46.59276,169.35794)
+[END]
+
+;1179046
+[POI]
+Type=0x2b01
+Label=MOUNT RICHMOND ESTATE MOTELS AND FORESTERS CAFE
+StreetDesc=7090 State Highway 6, Rai Valley/ Motel accommodation
+Data0=(-41.20572,173.57115)
+[END]
+
+;1179048
+[POI]
+Type=0x2b00
+Label=MYTERRACEDOWNSVILLA
+StreetDesc=Terrace Downs Resort, Coleridge Rd, Windwhistle, Canterbury/ Apartment accommoda
+Data0=(-43.48618,171.65636)
+[END]
+
+;1179049
+[POI]
+Type=0x2b01
+Label=NA CLACHAN COTTAGES
+StreetDesc=47 Rowberrys Rd, RD 3, Blenheim/ Motel accommodation
+Data0=(-41.50597,173.98127)
+[END]
+
+;1179053
+[POI]
+Type=0x2b01
+Label=PALAZZO MOTOR LODGE
+StreetDesc=159 Rutherford St, Nelson/ Motel accommodation
+Data0=(-41.27676,173.28096)
+[END]
+
+;1179056
+[POI]
+Type=0x2b00
+Label=PELORUS LODGE
+StreetDesc=Pelorus Lodge, Pelorus Sound, Marlborough Sounds/ Lodge accommodation
+Data0=(-41.27510,173.74741)
+[END]
+
+;1179057
+[POI]
+Type=0x2b00
+Label=PENTHOUSE 11
+StreetDesc=Apt No. 11 The Waterfront 309 Wakefield Qy, Nelson/ Apartment accommodation
+Data0=(-41.26522,173.26765)
+[END]
+
+;1179060
+[POI]
+Type=0x2b00
+Label=PUMULA COUNTRY STAY
+StreetDesc=729 Depot Rd, RD1, Oxford/ Bed and Breakfast accommodation
+Data0=(-43.32530,172.12177)
+[END]
+
+;1179061
+[POI]
+Type=0x2b00
+Label=PUNGA COVE RESORT
+StreetDesc=Endeavour Inlet, Queen charlotte Sound, Picton/ Lodge accommodation
+Data0=(-41.12385,174.14841)
+[END]
+
+;1179063
+[POI]
+Type=0x2b00
+Label=QUEEN STREET B&B
+StreetDesc=55 Queen St, Westport/ Bed and Breakfast accommodation
+Data0=(-41.75117,171.60100)
+[END]
+
+;1179066
+[POI]
+Type=0x2b01
+Label=RANFURLY HOLIDAY PARK & MOTELS
+StreetDesc=Cnr Pery and Reade Streets, Ranfurly/ Motel accommodation
+Data0=(-45.13082,170.10323)
+[END]
+
+;1179067
+[POI]
+Type=0x2b00
+Label=RATANUI LODGE
+StreetDesc=818 Abel Tasman Dr, Pohara, Takaka/ Lodge accommodation
+Data0=(-40.83358,172.88577)
+[END]
+
+;1179071
+[POI]
+Type=0x2b00
+Label=RIVER COTTAGE GERALDINE
+StreetDesc=8 Tripp St, Geraldine, South Canterbury/ Bed and Breakfast accommodation
+Data0=(-44.08577,171.24402)
+[END]
+
+;1179079
+[POI]
+Type=0x2b00
+Label=SEASIDE LUXURY
+StreetDesc=34/269 Wakefield Qy, Stepneyville, Nelson/ Waterfront Apartment accommodation
+Data0=(-41.26374,173.26961)
+[END]
+
+;1179083
+[POI]
+Type=0x2b00
+Label=SHADBOLT HOUSE SERVICED APARTMENTS
+StreetDesc=28-30 Norwich Qy, Lyttelton, Chc/ Apartment accommodation
+Data0=(-43.60354,172.72042)
+[END]
+
+;1179085
+[POI]
+Type=0x2b01
+Label=SHERWOOD MANOR HOTEL
+StreetDesc=Goldfield Heights, Frankton Rd, Queenstown/ Motel accommodation
+Data0=(-45.03431,168.67600)
+[END]
+
+;1179087
+[POI]
+Type=0x2b00
+Label=SPARKYS BACKPACKERS
+StreetDesc=271 Tay, RICHMOND, Invercargill/ Backpacker accommodation
+Data0=(-46.41288,168.36579)
+[END]
+
+;1179089
+[POI]
+Type=0x2b00
+Label=STONE STREET HOLIDAY HOUSE
+StreetDesc=187 Stone St, Hillend, Wanaka/ Holiday House accommodation
+Data0=(-44.70919,169.13021)
+[END]
+
+;1179091
+[POI]
+Type=0x2b01
+Label=SUNDOWNER MOTEL
+StreetDesc=14 Smith St, Greymouth/ Motel accommodation
+Data0=(-42.44942,171.21489)
+[END]
+
+;1179095
+[POI]
+Type=0x2b00
+Label=TANGLEWOOD BED & BREAKFAST
+StreetDesc=1744 Queen Charlotte Dr, The Grove RD1, Picton/ Bed and Breakfast accommodation
+Data0=(-41.27765,173.91885)
+[END]
+
+;1179096
+[POI]
+Type=0x2b00
+Label=TE MAUNGA APARTMENT
+StreetDesc=15 Dorothy Annie Way, Maitai, Nelson/ Holiday House accommodation
+Data0=(-41.27905,173.29428)
+[END]
+
+;1179099
+[POI]
+Type=0x2b00
+Label=THE LODGE ON CHERTSEY
+StreetDesc=Corner of Chertsey Rd. and Kilworth St, Mt. Hutt Village, Mount Hutt/ Lodge acco
+Data0=(-43.63297,171.64794)
+[END]
+
+;1179103
+[POI]
+Type=0x2b01
+Label=THE ST JAMES HOTEL
+StreetDesc=Chisholm Cres, Hanmer Springs/ Hotel accommodation
+Data0=(-42.51999,172.82753)
+[END]
+
+;1179107
+[POI]
+Type=0x2b00
+Label=TURNER HEIGHTS TOWNHOUSES
+StreetDesc=14 Turner St., Queenstown/ Apartment accommodation
+Data0=(-45.02838,168.66284)
+[END]
+
+;1179117
+[POI]
+Type=0x2b00
+Label=WHARETUTU BOUTIQUE B&B ACCOMMODATION
+StreetDesc=12B Kina Beach Rd, RD1 Upper Moutere, Tasman Nelson/ Bed and Breakfast accommoda
+Data0=(-41.18783,173.05304)
+[END]
+
+;1179118
+[POI]
+Type=0x2b00
+Label=WILKIN ROAD HOLIDAY HOME
+StreetDesc=25 Wilkin Rd, Wanaka/ Holiday House accommodation
+Data0=(-44.68894,169.14690)
+[END]
+
+;1179120
+[POI]
+Type=0x2b00
+Label=WILLOWDENE LODGE
+StreetDesc=44 Willington St, Waikaia/ Bed and Breakfast accommodation
+Data0=(-45.72503,168.84560)
+[END]
+
+;1179121
+[POI]
+Type=0x2b00
+Label=WYNDHAM ACCOMMODATION
+StreetDesc=20a Ferry St, Southland, Wyndham/ Apartment accommodation
+Data0=(-46.32658,168.85091)
+[END]
+
+;1179122
+[POI]
+Type=0x2a
+Label=HINTON'S
+StreetDesc=750a Wairakei Rd, Chc/ Cafe, restaurant, functions
+Phone=+6433588599
+zip=Lunch 7 days from 11.30am
+Data0=(-43.48647,172.55477)
+[END]
+
+;1179125
+[POI]
+Type=0x2a
+Label=HIGH TO HEREFORD FOOD HALL
+StreetDesc=150 Hereford St & 250 High St, Chc/ H2H. Food court, licensed restaurants
+Phone=0508EATH2H
+zip=7 days till 9pm
+Data0=(-43.53235,172.63769)
+[END]
+
+;1179127
+[POI]
+Type=0x2f
+Label=SMITH & SMITH AUTOGLASS (TIMARU)
+StreetDesc=25 Theodosia St Timaru 7910/ Windscreens, Automotive Glass, Stone Chips, Broken 
+Phone=+36888224
+zip=Mon-Fri: 7:45am to 5:15pm, Sat-Sun: By A
+Data0=(-44.39806,171.24881)
+[END]
+
+;1179132
+[POI]
+Type=0x2f
+Label=NBS THEATRE
+StreetDesc=105 Palmerston St Westport 7825/ Leisure, movie, cinema
+Phone=+6437894219
+Data0=(-41.75273,171.59855)
+[END]
+
+;1179136
+[POI]
+Type=0x2d02
+Label=LYME BAR
+StreetDesc=817 Colombo St, Chc/ Cocktail bar
+Phone=+6433652393
+zip=Tue 5pm-late, Wed-Sat 4:30pm-late
+Data0=(-43.52572,172.63647)
+[END]
+
+;1179145
+[POI]
+Type=0x2a
+Label=PIER 24 RESTAURANT AND BAR AT ST CLAIR BEACH RESORT
+StreetDesc=24 Esplanade, St Clair, Dud/ Dunedin Restaurant, Restaurant Dunedin, Fine Dining
+Phone=+6434560555
+zip=0700hrs to 2300hrs, 7 days a week
+Data0=(-45.91232,170.48862)
+[END]
+
+;1179150
+[POI]
+Type=0x2f
+Label=PIKE RIVER MINE
+StreetDesc=586 Logburn Rd Atarau , Grey Valley, West Coast/ Coal Mine
+Phone=+37698400
+Data0=(-42.24059,171.54824)
+[END]
+
+;1179168
+[POI]
+Type=0x2f
+Label=NEW ZEALAND DAIRIES LTD
+StreetDesc=12 Packers Rd, Studholme, Waimate/ Dairy Factory
+Phone=+6436909000
+Data0=(-44.72645,171.12429)
+[END]
+
+;1179181
+[POI]
+Type=0x2f
+Label=DIGITAL OBJECTS LTS
+StreetDesc=18 Ctr St , Dipton west/ network - computer security , penetration testing , fir
+Phone=+6427277784
+Data0=(-45.88775,168.35469)
+[END]
+
+;1179182
+[POI]
+Type=0x2f
+Label=PURE CHEVRE
+StreetDesc=18 Ctr St , Dipton west/ Organic (in transition) dairy goats
+Phone=+27277784
+Data0=(-45.88775,168.35469)
+[END]
+
+;1179187
+[POI]
+Type=0x2f
+Label=?CLEARLYCLEAN
+StreetDesc=Kaiapoi/ Your local Window Cleaning Specialist, serving Kaiapoi, Rangiora, Woode
+Phone=+6422010390
+Data0=(-43.38303,172.65696)
+[END]
+
+;1179188
+[POI]
+Type=0x2f
+Label=BUNCHES & BOWS FLORAL DESIGNERS
+StreetDesc=Shop 9, Albion Place, Dud/ Florists
+Phone=+6434778703
+zip=Mon-Thu 8.30am-5.30pm, Fri 8.30am-7pm, S
+Data0=(-45.87086,170.50698)
+[END]
+
+;1179191
+[POI]
+Type=0x2f
+Label=MISS REID FLORIST
+StreetDesc=19 The Octagon, Dud/ Florist
+Phone=+6434778449
+Data0=(-45.87465,170.50399)
+[END]
+
+;1179192
+[POI]
+Type=0x2f
+Label=ACCENT 4 FLOWERS
+StreetDesc=149 Dee St, Invercargill/ Florist, deliveries
+Phone=+6432143945
+Data0=(-46.40900,168.34753)
+[END]
+
+;1179193
+[POI]
+Type=0x2f
+Label=ORCHID FLORIST
+StreetDesc=Shop 14A, Ctr City Mall, 133 Great King St, Dud/ Florist
+Phone=+6434740657
+Data0=(-45.87200,170.50742)
+[END]
+
+;1179194
+[POI]
+Type=0x2f
+Label=JOYFLORA FLOWERS
+StreetDesc=13A Riccarton Rd, Chc/ Florist
+Phone=+6433484103
+Data0=(-43.52907,172.61095)
+[END]
+
+;1179195
+[POI]
+Type=0x2f
+Label=THE FLOWER ROOM
+StreetDesc=65 Carlton Mill Rd, Chc/ Florist
+Phone=+6439684911
+Data0=(-43.52105,172.62264)
+[END]
+
+;1179196
+[POI]
+Type=0x2f
+Label=EARTHBLOOM
+StreetDesc=33 Bridge St, Nelson/ Designer Florist
+Phone=+6435467286
+Data0=(-41.27232,173.28277)
+[END]
+
+;1179197
+[POI]
+Type=0x2f
+Label=MOTUEKA FLORAL STUDIO
+StreetDesc=131 High St, Motueka/ Florist
+Phone=+6435287569
+Data0=(-41.11053,173.01125)
+[END]
+
+;1179201
+[POI]
+Type=0x2b01
+Label=ADVENTURE QUEENSTOWN HOSTEL AND CHALET
+StreetDesc=36 Camp St, Queenstown 9300, Southland/ Accommodation, backpacker, hotel, motel.
+Phone=+6434090243
+Data0=(-45.03121,168.66069)
+[END]
+
+;1179209
+[POI]
+Type=0x2f
+Label=GALAXY DESIGN
+StreetDesc=72 Tees St Oamaru 9400/ Dynamic websites and graphic design
+Phone=+6434349717
+Data0=(-45.10775,170.96679)
+[END]
+
+;1179214
+[POI]
+Type=0x2f
+Label=?DEEMAC SERVICES LTD
+StreetDesc=Shakespeare Rd, Waltham, Chch/ Commercial Cleaners
+Phone=+6433535900
+zip=Mon-Fri 8-5
+Data0=(-43.54669,172.65324)
+[END]
+
+;1179215
+[POI]
+Type=0x2f
+Label=WHEELCHAIR SERVICES
+StreetDesc=29 Shakespeare Rd , Waltham, Chch/ Mobility products
+Phone=+6433668815
+Data0=(-43.54520,172.64867)
+[END]
+
+;1179216
+[POI]
+Type=0x2f0c
+Label=CHEVIOT PUBLIC TOILET
+StreetDesc=Cnr SH1 & Cadman St, Cheviot/ Toilet
+Data0=(-42.81115,173.27403)
+[END]
+
+;1179217
+[POI]
+Type=0x2f
+Label=TAIERI COURT RESTHOME
+StreetDesc=3 Hartstonge Ave,Mosgiel./ Resthome
+Phone=+6434896044
+Data0=(-45.87196,170.34726)
+[END]
+
+;1179218
+[POI]
+Type=0x2e07
+Label=TOTS TOGGERY
+StreetDesc=19 Opawa Rd, Phillipstown, Chch/ childrens clothing
+Phone=+6433661928
+Data0=(-43.54792,172.65509)
+[END]
+
+;1179219
+[POI]
+Type=0x2f
+Label=JIM'S GROUP CHRISTCHURCH
+StreetDesc=21 Shakespeare Rd Waltham/ Franchise
+Phone=+6433775544
+Data0=(-43.54512,172.64816)
+[END]
+
+;1179222
+[POI]
+Type=0x2f
+Label=SAFETY 'N ACTION
+StreetDesc=25 Shakespeare Rd, Waltham, Chch/ workplace safety training
+Phone=+6433723333
+Data0=(-43.54514,172.64844)
+[END]
+
+;1179225
+[POI]
+Type=0x2f
+Label=FONTERRA STIRLING
+StreetDesc=Mt Wallace Rd, Stirling/ Fonterra Cheese Factory
+Data0=(-46.25049,169.78284)
+[END]
+
+;1179244
+[POI]
+Type=0x2f
+Label=SUPERSTAFF
+StreetDesc=1/270 Lincoln Rd, Addington, Chc/ Labour hire and recruitment, permanent placeme
+Phone=+6433386987
+Data0=(-43.54476,172.61008)
 [END]
 

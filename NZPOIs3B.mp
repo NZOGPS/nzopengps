@@ -2322,15 +2322,6 @@ Phone=+6434882204
 Data0=(-45.90389,170.45459)
 [END]
 
-;1009233
-[POI]
-Type=0x2c05
-Label=CORSTORPHINE SCHOOL
-StreetDesc=118 Middleton Rd, Kew, Dud/ State Co-Ed Primary School
-Phone=+6434879353
-Data0=(-45.90632,170.47797)
-[END]
-
 ;1009247
 [POI]
 Type=0x2c05
@@ -4127,7 +4118,7 @@ Data0=(-43.51170,172.66217)
 [POI]
 Type=0x2c05
 Label=MARLBOROUGH BOYS' COLLEGE
-StreetDesc=5 Stephenson St, Blenheim/ State Boys Secondary School, Boarding Facilities
+StreetDesc=5 Stephenson St, Blenheim/ State Boys Secondary School
 Phone=+6435780119
 Data0=(-41.51903,173.95509)
 [END]
@@ -4136,7 +4127,7 @@ Data0=(-41.51903,173.95509)
 [POI]
 Type=0x2c05
 Label=MARLBOROUGH GIRLS' COLLEGE
-StreetDesc=21 McLauchlan St, Blenheim/ State Girls Secondary School, Boarding Facilities
+StreetDesc=21 McLauchlan St, Blenheim/ State Girls Secondary School
 Phone=+6435784031
 Data0=(-41.50697,173.94450)
 [END]
@@ -4724,15 +4715,6 @@ Label=OTAUTAU SCHOOL
 StreetDesc=Elles Rd, Otautau/ State Co-Ed Primary, Intermediate School
 Phone=+6432258320
 Data0=(-46.13969,167.99334)
-[END]
-
-;1016401
-[POI]
-Type=0x2c05
-Label=OTEPOPO SCHOOL
-StreetDesc=Ross Rd, Herbert/ State Co-Ed Primary, Intermediate School
-Phone=+6434395527
-Data0=(-45.21933,170.78657)
 [END]
 
 ;1016485
@@ -6661,15 +6643,6 @@ Phone=+6434178620
 Data0=(-46.11396,169.96642)
 [END]
 
-;1023149
-[POI]
-Type=0x2c05
-Label=TOMAHAWK SCHOOL
-StreetDesc=31 Luke St, Ocean Grove, Dud/ State Co-Ed Primary School
-Phone=+6434544076
-Data0=(-45.90464,170.54612)
-[END]
-
 ;1023205
 [POI]
 Type=0x2c05
@@ -6812,15 +6785,6 @@ Label=WAIHAO DOWNS SCHOOL
 StreetDesc=Hakataramea Highway, Waihao Downs, Waimate/ State Co-Ed Primary School
 Phone=+6436892734
 Data0=(-44.79075,170.92711)
-[END]
-
-;1023569
-[POI]
-Type=0x2c05
-Label=WAIHAORUNGA SCHOOL
-StreetDesc=Pentland Hills Rd, Waimate/ State Co-Ed Primary, Intermediate School
-Phone=+6436892261
-Data0=(-44.73160,170.82289)
 [END]
 
 ;1023625
@@ -7145,15 +7109,6 @@ Label=WAKEFIELD SCHOOL
 StreetDesc=Edward St, Wakefield, Nelson/ State Co-Ed Primary School
 Phone=+6435418332
 Data0=(-41.40745,173.04433)
-[END]
-
-;1024318
-[POI]
-Type=0x2c05
-Label=WALDRONVILLE SCHOOL
-StreetDesc=5 a Vulcan Rd, Waldronville, Dud/ State Co-Ed Primary, Intermediate School
-Phone=+6434881628
-Data0=(-45.92264,170.40535)
 [END]
 
 ;1024325
@@ -23224,7 +23179,6 @@ Type=0x2b00
 Label=MOUNTAIN JADE BACKPACKERS
 StreetDesc=41 Weld St, Hokitika, West Coast/ Backpacker accommodation. BBH. IAC wifi
 Phone=+6437555185
-zip=Closed during winter
 Data0=(-42.71825,170.96349)
 [END]
 
@@ -24195,16 +24149,6 @@ StreetDesc=258-270 High St, Motueka/ Discounted products including fashionable c
 Phone=+6435281079
 zip=8:30am-8:00pm, 7 days per week
 Data0=(-41.11454,173.01033)
-[END]
-
-;1076503
-[POI]
-Type=0x2e
-Label=SNOWGUM CHRISTCHURCH
-StreetDesc=637 Colombo St, Chc/ Outdoor clothing & supplies, Camping equipment
-Phone=+6433654336
-zip=Opening Hours:-Mon-Thur:9:00am-6:00pm, F
-Data0=(-43.53478,172.63647)
 [END]
 
 ;1076783
@@ -31498,16 +31442,6 @@ Phone=+6437888360
 Data0=(-41.75415,171.59813)
 [END]
 
-;1093268
-[POI]
-Type=0x2e
-Label=DOGS BREAKFAST TRADING COMPANY CHRISTCHURCH
-StreetDesc=29 Main North Rd, Papanui, Chc/ Furniture, homeware, giftware and lifestyle prod
-Phone=+6433525711
-zip=Mon-Thu:9am-5.30pm, Fri:9am-6.30pm, Sat:
-Data0=(-43.49530,172.60806)
-[END]
-
 ;1093359
 [POI]
 Type=0x2e
@@ -38602,10 +38536,10 @@ Data0=(-45.85453,170.51739)
 ;1098647
 [POI]
 Type=0x2f
-Label=GORE VETS (VET SOUTH)
-StreetDesc=8 Richmond St, Gore/ Vet
+Label=VETSOUTH LTD
+StreetDesc=8 Richmond St, Gore/ Veterinarians, vets
 Phone=+6432039220
-Data0=(-46.09615,168.94835)
+Data0=(-46.09632,168.94834)
 [END]
 
 ;1098648
@@ -38828,8 +38762,8 @@ Data0=(-43.50343,172.59330)
 ;1098718
 [POI]
 Type=0x2f
-Label=?WEST OTAGO VETERINARY CLINIC
-StreetDesc=Main Rd, Tapanui/ Vet
+Label=?VETSOUTH TAPANUI
+StreetDesc=Main Rd, Tapanui/ Veterinarians, vets
 Phone=+6432048233
 Data0=(-45.94000,169.26000)
 [END]
@@ -40111,8 +40045,9 @@ Data0=(-43.52561,172.63618)
 Type=0x2a
 Label=CLINK RESTAURANT
 StreetDesc=29 Wakefield Ave, Sumner, Chc/ Restaurant, Wine, Bar
-Phone=+6433267230
-Data0=(-43.57016,172.75909)
+Phone=+6433265353
+zip=Tuesday-Friday 3pm till late: Saturday &
+Data0=(-43.57018,172.75924)
 [END]
 
 ;1099291
@@ -53164,9 +53099,9 @@ Data0=(-41.29663,173.22796)
 [POI]
 Type=0x2f
 Label=HELICOPTERS OTAGO
-StreetDesc=Stedman Rd Taieri Airfield, Mosgiel, Dud/ 
+StreetDesc=Stedman Rd Taieri Airfield, Mosgiel, Dud/ Rescue helicopter
 Phone=+6434897322
-Data0=(-45.85934,170.37077)
+Data0=(-45.86137,170.36539)
 [END]
 
 ;1106794
@@ -60598,7 +60533,7 @@ Type=0x2f
 Label=OTAGO AERO CLUB INC
 StreetDesc=Stedman Rd, Taieri Airport, Mosgiel, Dud/ 
 Phone=+6434896158
-Data0=(-45.85907,170.37193)
+Data0=(-45.86109,170.36736)
 [END]
 
 ;1111001
@@ -61552,9 +61487,9 @@ Data0=(-43.53191,172.63093)
 ;1111532
 [POI]
 Type=0x2f
-Label=PHILPRINT
-StreetDesc=44 Braddon St, Addington, Chc/ 
-Phone=+6433790814
+Label=STREAMLINERS
+StreetDesc=44 Braddon St, Addington, Chc/ User Documentation Specialists
+Phone=+6439639444
 Data0=(-43.54163,172.62593)
 [END]
 
@@ -82884,7 +82819,7 @@ Data0=(-43.49549,172.60889)
 [POI]
 Type=0x2e
 Label=SALVATION ARMY FAMILY STORE
-StreetDesc=48 Wycola Ave, Hei Hei, Chc/ Opportunity Shop. Charity Store. Clothing, linen, f
+StreetDesc=44 Wycola Ave, Hei Hei, Chc/ Opportunity Shop. Charity Store. Clothing, linen, f
 Phone=+6433442530
 Data0=(-43.53547,172.52026)
 [END]
@@ -84780,6 +84715,8 @@ Data0=(-44.25631,170.09943)
 Type=0x2e
 Label=NOOD NELSON
 StreetDesc=60 Achilles Ave, Nelson/ Concept store, furniture, homeware, kitchenware, tablew
+Phone=+6435390286
+zip=Mon-Fri 9am-5.30pm, Sat 9am-5pm, Sun 10a
 Data0=(-41.27135,173.28235)
 [END]
 
@@ -84788,6 +84725,8 @@ Data0=(-41.27135,173.28235)
 Type=0x2e
 Label=NOOD CHRISTCHURCH
 StreetDesc=141 Cashel St, Chc/ Concept store, furniture, homeware, kitchenware, tableware, 
+Phone=+6439431624
+zip=Mon-Thu 8.30am-5.30pm, Fri 9am-6pm, Sat 
 Data0=(-43.53299,172.63853)
 [END]
 
@@ -84796,6 +84735,8 @@ Data0=(-43.53299,172.63853)
 Type=0x2e
 Label=NOOD DUNEDIN
 StreetDesc=204 Princes St, Dud/ Concept store, furniture, homeware, kitchenware, tableware,
+Phone=+6434701157
+zip=Mon-Thu 9am-5.30pm, Fri 9am-6pm, Sat 10a
 Data0=(-45.87714,170.50167)
 [END]
 
@@ -86785,7 +86726,7 @@ Data0=(-43.51448,172.68051)
 Type=0x2c05
 Label=DONALD DUCK NURSERY
 StreetDesc=23 Macaulay St, Addington, Chc/ Childcare Centre
-Phone=+6433574534
+Phone=+6433389150
 Data0=(-43.54600,172.61509)
 [END]
 
@@ -93674,7 +93615,7 @@ Data0=(-41.27543,173.28106)
 [POI]
 Type=0x2a0e
 Label=BB'S CAFE TOWER JUNCTION
-StreetDesc=Tower Junction Ctr,  Clarence St, Chc/ cafe
+StreetDesc=Tower Junction Ctr, Clarence St, Chc/ cafe
 Phone=+6433480215
 Data0=(-43.53820,172.60612)
 [END]
@@ -94662,14 +94603,6 @@ Type=0x2f
 Label=CARISBROOK HOSPITALITY COMPLEX
 StreetDesc=5 Murrayfield St, Dud/ 
 Data0=(-45.89308,170.49166)
-[END]
-
-;1128450
-[POI]
-Type=0x2f
-Label=CARISBROOK HOTEL
-StreetDesc=149 South Rd, Dud/ 
-Data0=(-45.89367,170.48774)
 [END]
 
 ;1128451
@@ -96340,14 +96273,6 @@ StreetDesc=167 Gordon Rd, Mosgiel/ Pizza restaurant
 Data0=(-45.87225,170.34691)
 [END]
 
-;1128660
-[POI]
-Type=0x2a0e
-Label=MOSGIEL STATION CAFE
-StreetDesc=22 Gladstone Rd South, Mosgiel/ cafe
-Data0=(-45.88541,170.35618)
-[END]
-
 ;1128661
 [POI]
 Type=0x2f
@@ -97700,8 +97625,10 @@ Data0=(-45.87613,170.51039)
 ;1128828
 [POI]
 Type=0x2f
-Label=THE VELVET BURGER
-StreetDesc=379 George St, Dud/ 
+Label=VELVET BURGER GEORGE ST
+StreetDesc=375 George St, Dud/ Licensed restaurant, burgers, takeaways
+Phone=+6434770124
+zip=7 days 11:30am-Late
 Data0=(-45.86835,170.50665)
 [END]
 
@@ -97856,8 +97783,10 @@ Data0=(-45.87509,170.50331)
 [POI]
 Type=0x2f
 Label=VELVET BURGER OCTAGON
-StreetDesc=11 The Octagon, Dud/ 
-Data0=(-45.87419,170.50441)
+StreetDesc=150 Lower Stuart St, Dud/ Licensed restaurant, burgers, takeaways
+Phone=+6434777089
+zip=7 days 11:30am-Late
+Data0=(-45.87419,170.50438)
 [END]
 
 ;1128848
@@ -97954,14 +97883,6 @@ Type=0x2e
 Label=WAVERLEY DAIRY 2005
 StreetDesc=144 Larnach Rd, Dud/ dairy, convenience store
 Data0=(-45.88476,170.53155)
-[END]
-
-;1128860
-[POI]
-Type=0x2f
-Label=WEAVERS RETREAT
-StreetDesc=26 Factory Rd, Mosgiel/ 
-Data0=(-45.87308,170.35101)
 [END]
 
 ;1128861
@@ -118159,8 +118080,9 @@ Data0=(-41.27324,173.28315)
 ;1135148
 [POI]
 Type=0x2a05
-Label=THE SWEDISH BAKERY
-StreetDesc=54 Bridge St, Nelson/ bakery
+Label=THE SWEDISH BAKERY & CAFE
+StreetDesc=54 Bridge St, Nelson/ bakery, cafe, coffee, pastries, bread
+Phone=+6435468685
 Data0=(-41.27275,173.28340)
 [END]
 
@@ -139715,14 +139637,6 @@ StreetDesc=12 Saxon St, Chc/
 Data0=(-43.53481,172.65567)
 [END]
 
-;1146710
-[POI]
-Type=0x2e09
-Label=DOGS BREAKFAST TRADING COMPANY LTD
-StreetDesc=141 Cashel St, Chc/ Furniture, homeware and lifestyle products
-Data0=(-43.53299,172.63853)
-[END]
-
 ;1146711
 [POI]
 Type=0x2f
@@ -147766,16 +147680,6 @@ StreetDesc=McAughtries Rd/ Hydroelectric Power Station
 Data0=(-44.29944,170.11270)
 [END]
 
-;1151108
-[POI]
-Type=0x2f03
-Label=AUTOMOTIVE SOLUTIONS ANZAC AVE
-StreetDesc=57 Anzac Ave, Dud/ Automotive Repairs, Car repairs, mechanic,WOF, Service, Warra
-Phone=+6434740615
-zip=7.30-5.30 Monday-Friday
-Data0=(-45.86976,170.51645)
-[END]
-
 ;1151109
 [POI]
 Type=0x2f
@@ -151939,7 +151843,7 @@ Data0=(-43.55611,172.63664)
 ;1153421
 [POI]
 Type=0x2e05
-Label=HEALTH CENTRE PHARMACY
+Label=THE PHARMACY
 StreetDesc=192 Gloucester St, Chc/ Pharmacy
 Phone=+6433719338
 Data0=(-43.52998,172.64027)
@@ -158748,16 +158652,6 @@ StreetDesc=Northwood Supa Centa, 1 Radcliffe Rd, Northwood, Chc/ Furniture, home
 Phone=+6433235729
 zip=Mon-Fri:9am-5.30pm, Sat:9am-5pm, Sun:10a
 Data0=(-43.46072,172.62319)
-[END]
-
-;1158135
-[POI]
-Type=0x2e09
-Label=DOGS BREAKFAST TRADING COMPANY TOWER JUNCTION
-StreetDesc=66 Clarence St, Chc/ Furniture, homeware, giftware and lifestyle products (was A
-Phone=+6439432071
-zip=Mon-Fri:9am-5.30pm, Sat:9am-5pm, Sun:10a
-Data0=(-43.53892,172.60540)
 [END]
 
 ;1158169
@@ -184762,7 +184656,7 @@ Data0=(-45.03126,168.65967)
 ;1171515
 [POI]
 Type=0x2c00
-Label=REAL JOURNEYS
+Label=REAL JOURNEYS - WALTER PEAK HIGH COUNTRY FARM
 StreetDesc=74 Shotover St, Queenstown 9300 Southland/ Cruises in Milford & Doubtful sounds.
 Phone=+6434427509
 Data0=(-45.03281,168.65757)
@@ -185259,16 +185153,6 @@ StreetDesc=Off Main North Rd by Old Waimak Bridge, Chc/ Exciting Jet Boating on 
 Phone=0800277729
 zip=see web site
 Data0=(-43.41076,172.64891)
-[END]
-
-;1171784
-[POI]
-Type=0x2d02
-Label=CALENDAR GIRLS
-StreetDesc=101-105 Armagh St Chc Canterbury 8011/ Stripclub. Strippers. Night clubs. Bars. 
-Phone=+6433795641
-zip=7 days 8pm-6am
-Data0=(-43.52864,172.63742)
 [END]
 
 ;1171792
@@ -202390,5 +202274,239 @@ Label=SUPERSTAFF
 StreetDesc=1/270 Lincoln Rd, Addington, Chc/ Labour hire and recruitment, permanent placeme
 Phone=+6433386987
 Data0=(-43.54476,172.61008)
+[END]
+
+;1179268
+[POI]
+Type=0x2e09
+Label=NW DESIGNS
+StreetDesc=79 a Vickerman St/ Custom made fine furniture
+Phone=+6435450918
+zip=8 am to 5 pm
+Data0=(-41.26122,173.27923)
+[END]
+
+;1179285
+[POI]
+Type=0x2f
+Label=VETSOUTH LTD
+StreetDesc=Cnr Great North & Welsh Rd, Winton/ Veterinarians, vets
+Phone=+6432366090
+Data0=(-46.13236,168.32555)
+[END]
+
+;1179286
+[POI]
+Type=0x2f
+Label=VETSOUTH LUMSDEN
+StreetDesc=44 Diana St, Lumsden/ Veterinarians, vets
+Phone=+6432489030
+Data0=(-45.74060,168.44151)
+[END]
+
+;1179287
+[POI]
+Type=0x2f
+Label=VETSOUTH OTAUTAU
+StreetDesc=149 Main St, Otautau/ Veterinarians, vets
+Phone=+6432258206
+Data0=(-46.14379,167.99759)
+[END]
+
+;1179288
+[POI]
+Type=0x2f
+Label=VETSOUTH OTAUTAU
+StreetDesc=123 Yarrow St, Invercargill/ Veterinarians, vets
+Phone=+6432145384
+Data0=(-46.40877,168.35583)
+[END]
+
+;1179291
+[POI]
+Type=0x2f
+Label=HAPPISAM
+StreetDesc=McCallum Rd, Takaka 7183, Golden Bay, Tasman/ Commune.
+Data0=(-40.88993,172.72478)
+[END]
+
+;1179305
+[POI]
+Type=0x2f
+Label=ASHBURTON TROTTING CLUB
+StreetDesc=Racecourse Rd, Ashburton/ 
+Phone=+6433086794
+Data0=(-43.88694,171.76360)
+[END]
+
+;1179306
+[POI]
+Type=0x2f
+Label=CALENDAR GIRLS GENTLEMEN'S CLUB
+StreetDesc=196 Hereford St/ StripClub, Strip Club, Gentlemen's Club, Christchurch, Strippin
+Phone=+6433795641
+zip=5pm-6am 7 days
+Data0=(-43.53220,172.64096)
+[END]
+
+;1179307
+[POI]
+Type=0x2f
+Label=CORPORATE AFFAIRS GENTLEMEN'S CLUB
+StreetDesc=196 (L 2) Hereford St Chc/ Massage Parlour, escorts, Christchurch,girls,stripper
+Phone=+6433795641
+zip=5pm-6am 7 days
+Data0=(-43.53220,172.64096)
+[END]
+
+;1179345
+[POI]
+Type=0x2f
+Label=NATURE QUEST NEW ZEALAND BIRDWATCHING TOURS & EDUCATIONAL TRAVEL SPECIALISTS
+StreetDesc=297 Chain Hills Rd, Dud/ Scheduled departures & customised, private guided birdi
+Phone=+34898444
+Data0=(-45.88284,170.38889)
+[END]
+
+;1179351
+[POI]
+Type=0x2e07
+Label=NOOD TOWER JUNCTION
+StreetDesc=Tower Junction Shopping Ctr, 66 Clarence St, Chc/ Concept store, furniture, home
+Phone=+6439432071
+zip=Mon-Fri 9am-5.30pm, Sat 9am-5pm, Sun 10a
+Data0=(-43.53844,172.60524)
+[END]
+
+;1179373
+[POI]
+Type=0x2b01
+Label=CARISBROOK HOTEL
+StreetDesc=149 South Rd, Caversham, Dud/ The Carisbrook Hotel has a long established tradit
+Phone=+6434555009
+zip=10.00 am until late
+Data0=(-45.89368,170.48775)
+[END]
+
+;1179377
+[POI]
+Type=0x2f
+Label=?SOL SQUARE
+StreetDesc=Struthers lane Chc/ The hottest hospitality precinct in New Zealand, located in 
+Data0=(-43.53480,172.63874)
+[END]
+
+;1179378
+[POI]
+Type=0x6404
+Label=BISHOPDALE SEVENTH-DAY ADVENTIST CHURCH
+StreetDesc=corner breens and bonita/ SDA Seventh-day Adventist Church
+Phone=+6433651020
+zip=9:30AM to 1PM Saturday & other times
+Data0=(-43.48786,172.57774)
+[END]
+
+;1179381
+[POI]
+Type=0x2f
+Label=RIVERWOOD RHODODENDRONS
+StreetDesc=4385 Chc Akaroa Rd Little River/ Rhododron Nursery
+Phone=+6433251040
+Data0=(-43.76145,172.80510)
+[END]
+
+;1179382
+[POI]
+Type=0x2f
+Label=M1NT HEALTH AND FITNESS GYM
+StreetDesc=118 Victoria St, Chc/ At M1NT, we offer a new approach to a Christchurch Health 
+Phone=+6433655410
+Data0=(-43.52241,172.62975)
+[END]
+
+;1179383
+[POI]
+Type=0x6404
+Label=HORNBY COMMUNITY MINISTRIES
+StreetDesc=23 Manurere St, Hei Hei, Chc/ The Salvation Army church
+Phone=+6433496268
+Data0=(-43.53370,172.52155)
+[END]
+
+;1179404
+[POI]
+Type=0x2f
+Label=MCCASHIN'S BREWERY
+StreetDesc=660 Main Rd, Stoke/ Brewery tours
+Phone=+6435475357
+Data0=(-41.31860,173.22603)
+[END]
+
+;1179410
+[POI]
+Type=0x2f
+Label=THE FRONT STORE NELSON
+StreetDesc=72 Vickerman St, Port Nelson, Nelson/ Engineering supplies, tools, Total Lubrica
+Phone=+6435483029
+zip=Mon-Fri 8am-5pm Sat 9am-noon
+Data0=(-41.26244,173.27915)
+[END]
+
+;1179411
+[POI]
+Type=0x2f
+Label=THE CM FRONT STORE
+StreetDesc=136 - 144 Moore St, Ashburton/ Engineering supplies, tools, Total Lubricants
+Phone=+6433089917
+zip=Mon-Fri 7:30am-5:30pm Sat 8am-noon
+Data0=(-43.90699,171.74680)
+[END]
+
+;1179412
+[POI]
+Type=0x2f
+Label=?THE FRONT STORE WASHDYKE
+StreetDesc=Seadown Rd, Washdyke, Timaru/ Engineering supplies, tools, Total Lubricants
+Phone=+6436874002
+zip=Mon-Thu 7am-5:30pm Fri 7am-5pm Sat 8am-n
+Data0=(-44.35282,171.23892)
+[END]
+
+;1179413
+[POI]
+Type=0x2f
+Label=THE FRONT STORE TIMARU PORT
+StreetDesc=Ritchie St, Timaru/ Engineering supplies, tools, Total Lubricants
+Phone=+6436888870
+zip=Mon-Fri 7:30am-5pm Sat 8am-noon
+Data0=(-44.39387,171.25804)
+[END]
+
+;1179415
+[POI]
+Type=0x2f
+Label=THE FRONT STORE OAMARU
+StreetDesc=174 Thames St, Oamaru/ Engineering supplies, tools, Total Lubricants
+Phone=+6434330484
+zip=Mon-Fri 7:30am-5:30pm Sat 8am-noon
+Data0=(-45.09537,170.97176)
+[END]
+
+;1179416
+[POI]
+Type=0x2a0e
+Label=?BB'S CAFE MERIVALE
+StreetDesc=13A Merivale Mall, Papanui Rd, Chc/ cafe
+Phone=+6439643900
+Data0=(-43.51253,172.62206)
+[END]
+
+;1179422
+[POI]
+Type=0x2f
+Label=?STEVE SUN
+StreetDesc=40 ratbrook strt, Avonhead, Chc, NZ 8042/ Christchurch Carpet Cleaning, Carpet C
+Phone=+6433482790
+Data0=(-43.53734,172.52941)
 [END]
 

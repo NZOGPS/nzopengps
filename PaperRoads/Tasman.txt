@@ -35,3 +35,6 @@ No Sufi		LEICHARDT ST	Pakawau (Tasman, NZ)
 1030000039463	FERRY RD	Ruatapu (West Coast, NZ)	
 1030000039601	CLOGSTOUN RD	Seaview (West Coast, NZ)
 1030000038786	BENTHAM ST	Westport (West Coast, NZ
+1030000038913	BOLLARD ST	Rapahoe, Greymouth (West Coast, NZ)	15/12/2010 2:06p.m.
+1030000038898	MCLEOD ST	Rapahoe, Greymouth (West Coast, NZ)	15/12/2010 2:07p.m.
+1030000038828	WAIWHERO RD	Barrytown (West Coast, NZ)	15/12/2010 2:38p.m.

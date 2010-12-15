@@ -39,3 +39,5 @@ No Sufi		LEICHARDT ST	Pakawau (Tasman, NZ)
 1030000038898	MCLEOD ST	Rapahoe, Greymouth (West Coast, NZ)	15/12/2010 2:07p.m.
 1030000038828	WAIWHERO RD	Barrytown (West Coast, NZ)	15/12/2010 2:38p.m.
 1030000038959	ORWELL ST	Ahaura (West Coast, NZ)	15/12/2010 3:26p.m.
+1030000038388	CUMMING ST	Waimangaroa (West Coast, NZ)	15/12/2010 8:40p.m.
+1030000038482	SHERLOCK AVE	Waimangaroa (West Coast, NZ)	15/12/2010 8:42p.m.

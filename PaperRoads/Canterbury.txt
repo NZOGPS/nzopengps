@@ -18,6 +18,7 @@
 1030000025623	Dee Street	Georgetown
 1030000025640	Cairns Road	Maerewhenua
 1030000025678	Kildrummy Street	Georgetown
+1030000025766	MILNE RD	Pukeuri (Otago, NZ)	7/01/2011 1:11p.m.
 1030000025768	Moffat Street	Livingstone
 1030000025827	Grant Street	Duntroon
 1030000025881	Don Street	Georgetown

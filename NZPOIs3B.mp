@@ -1309,7 +1309,7 @@ Data0=(-43.50748,172.66379)
 [POI]
 Type=0x2a0a
 Label=HELL PIZZA DUNEDIN
-StreetDesc=703 Great King St, Dud/ gourmet pizza, takeaways, deliveries
+StreetDesc=703 Great King St, Dud/ Gourmet pizza restaurant, takeaways, deliveries
 Phone=+6434793666
 Data0=(-45.86000,170.51340)
 [END]
@@ -1318,7 +1318,7 @@ Data0=(-45.86000,170.51340)
 [POI]
 Type=0x2a0a
 Label=HELL PIZZA SYDENHAM
-StreetDesc=Shop 7, 303 Colombo St, Sydenham, Chc/ gourmet pizza, takeaways, deliveries
+StreetDesc=Shop 7, 303 Colombo St, Sydenham, Chc/ Gourmet pizza restaurant, takeaways, deli
 Phone=+6433371666
 Data0=(-43.54941,172.63655)
 [END]
@@ -1327,7 +1327,7 @@ Data0=(-43.54941,172.63655)
 [POI]
 Type=0x2a0a
 Label=HELL PIZZA HORNBY
-StreetDesc=Shop 9, 21 Shands Rd, Hornby, Chc/ gourmet pizza, takeaways, deliveries
+StreetDesc=Shop 9, 21 Shands Rd, Hornby, Chc/ Gourmet pizza restaurant, takeaways, deliveri
 Phone=+6433493666
 Data0=(-43.54541,172.52466)
 [END]
@@ -1336,7 +1336,7 @@ Data0=(-43.54541,172.52466)
 [POI]
 Type=0x2a0a
 Label=HELL PIZZA BISHOPDALE
-StreetDesc=322 Harewood Rd, Bishopdale, Chc/ gourmet pizza, takeaways, deliveries
+StreetDesc=322 Harewood Rd, Bishopdale, Chc/ Gourmet pizza restaurant, takeaways, deliverie
 Phone=+6433592666
 Data0=(-43.48763,172.58759)
 [END]
@@ -1345,7 +1345,7 @@ Data0=(-43.48763,172.58759)
 [POI]
 Type=0x2a0a
 Label=HELL PIZZA SHIRLEY
-StreetDesc=137 Warrington St, Shirley, Chc/ gourmet pizza, takeaways, deliveries
+StreetDesc=137 Warrington St, Shirley, Chc/ Gourmet pizza restaurant, takeaways, deliveries
 Phone=+6433855666
 Data0=(-43.50798,172.65127)
 [END]
@@ -1354,7 +1354,7 @@ Data0=(-43.50798,172.65127)
 [POI]
 Type=0x2a0a
 Label=HELL PIZZA FERRY RD
-StreetDesc=384 Ferry Rd, Woolston, Chc/ gourmet pizza, takeaways, deliveries
+StreetDesc=384 Ferry Rd, Woolston, Chc/ Gourmet pizza restaurant, takeaways, deliveries
 Phone=+6433898666
 Data0=(-43.54339,172.66684)
 [END]
@@ -8439,7 +8439,7 @@ Data0=(-46.40874,168.35481)
 ;1028987
 [POI]
 Type=0x2e02
-Label=INVERCARGILL COUNTDOWN
+Label=COUNTDOWN INVERCARGILL
 StreetDesc=172 Tay St, Invercargill/ supermarket, Lotto
 Phone=+6432186716
 zip=Mon - Sun, 8am - midnight
@@ -8479,7 +8479,7 @@ Data0=(-43.63334,171.64559)
 ;1029022
 [POI]
 Type=0x2e02
-Label=ASHBURTON COUNTDOWN
+Label=COUNTDOWN ASHBURTON
 StreetDesc=Cnr East & Peter Streets, Ashburton/ supermarket, Lotto
 Phone=+6433083541
 zip=Mon - Sun, 8am - 9pm
@@ -8549,7 +8549,7 @@ Data0=(-43.56951,172.75994)
 ;1029071
 [POI]
 Type=0x2e02
-Label=KAIAPOI COUNTDOWN
+Label=COUNTDOWN KAIAPOI
 StreetDesc=87-97 Hilton St, Kaiapoi/ supermarket, Lotto
 Phone=+6433275224
 zip=Mon - Sun, 8am - 10pm
@@ -8569,7 +8569,7 @@ Data0=(-43.55555,172.62161)
 ;1029092
 [POI]
 Type=0x2e02
-Label=COLOMBO STREET COUNTDOWN
+Label=COUNTDOWN COLOMBO STREET
 StreetDesc=219 Colombo St, Beckenham, Chc/ supermarket, Lotto
 Phone=+6433375781
 zip=7 days 8am-10pm
@@ -8589,7 +8589,7 @@ Data0=(-43.55035,172.60069)
 ;1029106
 [POI]
 Type=0x2e02
-Label=BUSH INN COUNTDOWN
+Label=COUNTDOWN BUSH INN
 StreetDesc=Waimairi Rd, Upper Riccarton, Chc/ supermarket
 Phone=+6433430912
 zip=Mon - Sun, 8am - 10pm
@@ -8599,7 +8599,7 @@ Data0=(-43.52991,172.57442)
 ;1029113
 [POI]
 Type=0x2e02
-Label=CHURCH CORNER COUNTDOWN
+Label=COUNTDOWN CHURCH CORNER
 StreetDesc=Cnr Riccarton Rd & Hansons Lane, Riccarton, Chc/ Supermarket, beer, wine, grocer
 Phone=+6433483754
 zip=Mon-Sun 6am-midnight
@@ -8619,7 +8619,7 @@ Data0=(-43.50941,172.59001)
 ;1029127
 [POI]
 Type=0x2e02
-Label=NORTHLANDS COUNTDOWN 24HR
+Label=COUNTDOWN NORTHLANDS 24HR
 StreetDesc=Northlands Shopping Mall, 55 Main North Rd, Papanui, Christchur/ supermarket, Lo
 Phone=+6433523664
 zip=Mon - Sun, 24 hours
@@ -8669,7 +8669,7 @@ Data0=(-43.51329,172.63691)
 ;1029169
 [POI]
 Type=0x2e02
-Label=MOORHOUSE COUNTDOWN
+Label=COUNTDOWN MOORHOUSE
 StreetDesc=Cnr Moorhouse Ave and Madras St, Chc/ supermarket, Lotto
 Phone=+6433664804
 zip=7 days 8am-8pm
@@ -8679,7 +8679,7 @@ Data0=(-43.53873,172.64208)
 ;1029176
 [POI]
 Type=0x2e02
-Label=EASTGATE COUNTDOWN 24HR
+Label=COUNTDOWN EASTGATE 24HR
 StreetDesc=Eastgate Mall, Cnr Linwood Ave & Buckleys Rd, Linwood/ supermarket, Lotto
 Phone=+6433811396
 zip=Mon-Sun, 24 hours
@@ -8749,7 +8749,7 @@ Data0=(-43.53046,172.65725)
 ;1029225
 [POI]
 Type=0x2e02
-Label=OAMARU COUNTDOWN
+Label=COUNTDOWN OAMARU
 StreetDesc=108-116 Thames St, Oamaru/ supermarket
 Phone=+6434348127
 zip=Mon-Sun 7am-9pm
@@ -8779,7 +8779,7 @@ Data0=(-45.54003,169.31399)
 ;1029246
 [POI]
 Type=0x2e02
-Label=MAILER STREET COUNTDOWN
+Label=COUNTDOWN MAILER STREET
 StreetDesc=43 Mailer St, Dud/ supermarket
 Phone=+6434534361
 zip=Mon - Sun, 8am - 9pm
@@ -8829,7 +8829,7 @@ Data0=(-45.90208,170.42844)
 ;1029281
 [POI]
 Type=0x2e02
-Label=MOSGIEL COUNTDOWN
+Label=COUNTDOWN MOSGIEL
 StreetDesc=Factory Rd, Mosgiel/ supermarket
 Phone=+6434890041
 zip=Mon - Sun, 8am - 8pm
@@ -8879,7 +8879,7 @@ Data0=(-41.27057,173.28117)
 ;1029316
 [POI]
 Type=0x2e02
-Label=NELSON COUNTDOWN
+Label=COUNTDOWN NELSON
 StreetDesc=35 St Vincent St, Nelson/ supermarket, Lotto
 Phone=+6435467443
 zip=Mon - Sun, 7am - 11pm
@@ -8889,7 +8889,7 @@ Data0=(-41.27251,173.27761)
 ;1029323
 [POI]
 Type=0x2e02
-Label=STOKE COUNTDOWN
+Label=COUNTDOWN STOKE
 StreetDesc=12-24 Putaitai St, Nelson/ supermarket, Lotto
 Phone=+6435479298
 zip=Mon - Sun, 7am - 9pm
@@ -8939,7 +8939,7 @@ Data0=(-41.52979,173.95499)
 ;1029365
 [POI]
 Type=0x2e02
-Label=BLENHEIM COUNTDOWN
+Label=COUNTDOWN BLENHEIM
 StreetDesc=Seymour St, Blenheim/ supermarket, Lotto
 Phone=+6435792945
 zip=Mon - Sun, 7am - 10pm
@@ -8949,7 +8949,7 @@ Data0=(-41.51387,173.95351)
 ;1029372
 [POI]
 Type=0x2e02
-Label=TIMARU COUNTDOWN
+Label=COUNTDOWN TIMARU
 StreetDesc=Church St, Timaru/ supermarket
 Phone=+6436883136
 zip=Mon - Sun, 8am - 9pm
@@ -8959,7 +8959,7 @@ Data0=(-44.39565,171.23875)
 ;1029379
 [POI]
 Type=0x2e02
-Label=TIMARU COUNTDOWN
+Label=COUNTDOWN TIMARU
 StreetDesc=9 Browne St, Timaru/ supermarket, Lotto
 Phone=+6436889143
 zip=Mon - Sun, 8am - 9pm
@@ -15850,8 +15850,8 @@ Data0=(-41.75397,171.59809)
 ;1052024
 [POI]
 Type=0x2f06
-Label=ASB BARRINGTON SHOPPING CTR (ATM)
-StreetDesc=Barrington Shopping Ctr, 256 Barrington Mall, Barrington, Chc/ ATM, Money Machin
+Label=ASB ATM
+StreetDesc=Barrington Shopping Ctr, 256 Barrington Mall, Barrington, Chc/ ATM, FastCash, Mo
 zip=Limited Hours
 Data0=(-43.55583,172.62113)
 [END]
@@ -15859,8 +15859,8 @@ Data0=(-43.55583,172.62113)
 ;1052094
 [POI]
 Type=0x2f06
-Label=ASB BUS INTERCHANGE (ATM) 24HR
-StreetDesc=Bus Interchange, Gnd Fl, Cnr Lichfield & Colombo St, Chc Central/ ATM, Money Mac
+Label=ASB ATM 24HR
+StreetDesc=Bus Interchange, Gnd Fl, Cnr Lichfield & Colombo St, Chc Central/ ATM, FastCash,
 zip=24 Hours
 Data0=(-43.53376,172.63704)
 [END]
@@ -15868,7 +15868,7 @@ Data0=(-43.53376,172.63704)
 ;1052101
 [POI]
 Type=0x2f06
-Label=ASB BUSH INN SHOPPING CTR (ATM) 24HR
+Label=ASB ATM 24HR
 StreetDesc=Bush Inn Shopping Ctr, Corner Riccarton and Waimairi Roads, Riccarton, Chc/ ATM,
 zip=24 Hours
 Data0=(-43.53009,172.57509)
@@ -15877,8 +15877,8 @@ Data0=(-43.53009,172.57509)
 ;1052115
 [POI]
 Type=0x2f06
-Label=ASB CASHEL ST (ATM)
-StreetDesc=117-119 Cashel St, Chc/ ATM, Money Machine
+Label=ASB ATM
+StreetDesc=117-119 Cashel St, Chc/ ATM, FastCash, Money Machine
 zip=Limited Hours
 Data0=(-43.53301,172.63622)
 [END]
@@ -15886,8 +15886,8 @@ Data0=(-43.53301,172.63622)
 ;1052122
 [POI]
 Type=0x2f06
-Label=ASB CENTRAL LIBRARY BUILDING (ATM) 24HR
-StreetDesc=Central library Blg, University Dr, Canterbury University, Ilam, Chc/ ATM, Money
+Label=ASB ATM 24HR
+StreetDesc=Central library Blg, University Dr, Canterbury University, Ilam, Chc/ ATM, FastC
 zip=Not 24 Hours
 Data0=(-43.52361,172.58239)
 [END]
@@ -15895,16 +15895,16 @@ Data0=(-43.52361,172.58239)
 ;1052150
 [POI]
 Type=0x2f06
-Label=ASB ATM BLENHEIM RD
-StreetDesc=Blenheim Rd, Riccarton, Chc/ ATM, Money Machine
+Label=ASB ATM
+StreetDesc=Blenheim Rd, Riccarton, Chc/ ATM, FastCash, Money Machine
 Data0=(-43.53837,172.58927)
 [END]
 
 ;1052178
 [POI]
 Type=0x2f06
-Label=ASB CNR ILAM & CLYDE RDS (ATM) 24HR
-StreetDesc=Corner Ilam and Clyde Roads, Fendalton Village, Fendalton, Chc/ ATM, Money Machi
+Label=ASB ATM 24HR
+StreetDesc=Corner Ilam and Clyde Roads, Fendalton Village, Fendalton, Chc/ ATM, FastCash, M
 zip=24 Hours
 Data0=(-43.50960,172.58986)
 [END]
@@ -15912,8 +15912,8 @@ Data0=(-43.50960,172.58986)
 ;1052234
 [POI]
 Type=0x2f06
-Label=ASB CNR REES & BEACH ST (ATM) 24HR
-StreetDesc=Cnr Rees & Beach St, Queenstown/ ATM, Money Machine
+Label=ASB ATM 24HR
+StreetDesc=Cnr Rees & Beach St, Queenstown/ ATM, FastCash, Money Machine
 zip=24 Hours
 Data0=(-45.03210,168.65952)
 [END]
@@ -15921,8 +15921,8 @@ Data0=(-45.03210,168.65952)
 ;1052255
 [POI]
 Type=0x2f06
-Label=ASB COLOMBO ST (ATM) 24HR
-StreetDesc=555 Colombo St, Sydenham, Chc/ ATM, Money Machine
+Label=ASB ATM 24HR
+StreetDesc=555 Colombo St, Sydenham, Chc/ ATM, FastCash, Money Machine
 zip=24 hours
 Data0=(-43.53827,172.63519)
 [END]
@@ -15930,8 +15930,8 @@ Data0=(-43.53827,172.63519)
 ;1052346
 [POI]
 Type=0x2f06
-Label=ASB DUNMORE ST (ATM)
-StreetDesc=20-22 Dunmore St, Wanaka/ ATM, Money Machine
+Label=ASB ATM
+StreetDesc=20-22 Dunmore St, Wanaka/ ATM, FastCash, Money Machine
 zip=Limited Hours
 Data0=(-44.69630,169.13494)
 [END]
@@ -15939,8 +15939,8 @@ Data0=(-44.69630,169.13494)
 ;1052353
 [POI]
 Type=0x2f06
-Label=ASB EASTGATE SHOPPING CTR (ATM) 24HR
-StreetDesc=Eastgate Shopping Ctr, Corner Buckleys Rd & Linwood Ave, Linwood, Chc/ ATM, Mone
+Label=ASB ATM 24HR
+StreetDesc=Eastgate Shopping Ctr, Corner Buckleys Rd & Linwood Ave, Linwood, Chc/ ATM, Fast
 zip=24 Hours
 Data0=(-43.53267,172.67540)
 [END]
@@ -15948,8 +15948,8 @@ Data0=(-43.53267,172.67540)
 ;1052367
 [POI]
 Type=0x2f06
-Label=ASB FARRINGTON AVENUE (ATM)
-StreetDesc=135 Farrington Ave, Bishopdale Mall, Bishopdale, Chc/ ATM, Money Machine
+Label=ASB ATM
+StreetDesc=135 Farrington Ave, Bishopdale Mall, Bishopdale, Chc/ ATM, FastCash, Money Machi
 zip=Limited Hours
 Data0=(-43.49089,172.58664)
 [END]
@@ -15957,8 +15957,8 @@ Data0=(-43.49089,172.58664)
 ;1052521
 [POI]
 Type=0x2f06
-Label=ASB HAPUKU BEACH SHOPPING CTR (ATM) 24HR
-StreetDesc=Hapuku Beach Shopping Ctr, Beach Rd, Kaikoura/ ATM, Money Machine
+Label=ASB ATM 24HR
+StreetDesc=Hapuku Beach Shopping Ctr, Beach Rd, Kaikoura/ ATM, FastCash, Money Machine
 zip=24 Hours
 Data0=(-42.38683,173.67964)
 [END]
@@ -15966,8 +15966,8 @@ Data0=(-42.38683,173.67964)
 ;1052528
 [POI]
 Type=0x2f06
-Label=ASB HEREFORD ST (ATM) 24HR
-StreetDesc=120 Hereford St, Chc/ ATM, Money Machine
+Label=ASB ATM 24HR
+StreetDesc=120 Hereford St, Chc/ ATM, FastCash, Money Machine
 zip=24 Hours
 Data0=(-43.53218,172.63609)
 [END]
@@ -15975,8 +15975,8 @@ Data0=(-43.53218,172.63609)
 ;1052556
 [POI]
 Type=0x2f06
-Label=ASB HIGH ST MOTUEKA (ATM) 24HR
-StreetDesc=178 High St, Motueka/ ATM, Money Machine
+Label=ASB ATM 24HR
+StreetDesc=178 High St, Motueka/ ATM, FastCash, Money Machine
 zip=24 Hours
 Data0=(-41.11168,173.01081)
 [END]
@@ -15984,8 +15984,8 @@ Data0=(-41.11168,173.01081)
 ;1052563
 [POI]
 Type=0x2f06
-Label=ASB HIGH ST PICTON(ATM) 24HR
-StreetDesc=8 High St, Picton/ ATM, Money Machine
+Label=ASB ATM 24HR
+StreetDesc=8 High St, Picton/ ATM, FastCash, Money Machine
 zip=24 Hours
 Data0=(-41.28905,174.00711)
 [END]
@@ -15993,8 +15993,8 @@ Data0=(-41.28905,174.00711)
 ;1052570
 [POI]
 Type=0x2f06
-Label=ASB HIGH ST RANGIORA (ATM) 24HR
-StreetDesc=124a High St, Rangiora/ ATM, Money Machine
+Label=ASB ATM 24HR
+StreetDesc=124a High St, Rangiora/ ATM, FastCash, Money Machine
 zip=24 Hours
 Data0=(-43.30333,172.59469)
 [END]
@@ -16002,8 +16002,8 @@ Data0=(-43.30333,172.59469)
 ;1052577
 [POI]
 Type=0x2f06
-Label=ASB HORNBY MALL (ATM)
-StreetDesc=Hornby Mall, Cnr Main South & Carmen Rds, Hornby, Chc/ ATM, Money Machine
+Label=ASB ATM
+StreetDesc=Hornby Mall, Cnr Main South & Carmen Rds, Hornby, Chc/ ATM, FastCash, Money Mach
 zip=Limited Hours
 Data0=(-43.54282,172.52445)
 [END]
@@ -16012,7 +16012,7 @@ Data0=(-43.54282,172.52445)
 [POI]
 Type=0x2f06
 Label=ASB ATM 24HR
-StreetDesc=205 King Edward St, South Dud/ ATM, Money Machine
+StreetDesc=205 King Edward St, South Dud/ ATM, FastCash, Money Machine
 zip=24 Hours
 Data0=(-45.89487,170.49951)
 [END]
@@ -16020,8 +16020,8 @@ Data0=(-45.89487,170.49951)
 ;1052689
 [POI]
 Type=0x2f06
-Label=ASB MAIN ST GORE (ATM) 24HR
-StreetDesc=43 Main St, Gore/ ATM, Money Machine
+Label=ASB ATM 24HR
+StreetDesc=43 Main St, Gore/ ATM, FastCash, Money Machine
 zip=24 Hours
 Data0=(-46.09995,168.94562)
 [END]
@@ -16029,8 +16029,8 @@ Data0=(-46.09995,168.94562)
 ;1052745
 [POI]
 Type=0x2f06
-Label=ASB MERIDIAN CTR (ATM) 24HR
-StreetDesc=Meridian Ctr, 267-287 George St, Dud/ ATM, Money Machine
+Label=ASB ATM 24HR
+StreetDesc=Meridian Ctr, 267-287 George St, Dud/ ATM, FastCash, Money Machine
 zip=24 Hours
 Data0=(-45.87042,170.50543)
 [END]
@@ -16038,8 +16038,8 @@ Data0=(-45.87042,170.50543)
 ;1052843
 [POI]
 Type=0x2f06
-Label=ASB MOBIL-NELSON (ATM) 24HR
-StreetDesc=Mobil, 28 Tahunanui Dr, Tahunanui, Nelson/ ATM, Money Machine
+Label=ASB ATM 24HR
+StreetDesc=Mobil, 28 Tahunanui Dr, Tahunanui, Nelson/ ATM, FastCash, Money Machine
 zip=24 Hours
 Data0=(-41.28261,173.24866)
 [END]
@@ -16047,8 +16047,8 @@ Data0=(-41.28261,173.24866)
 ;1052885
 [POI]
 Type=0x2f06
-Label=ASB NEW BRIGHTON MALL (ATM)
-StreetDesc=91 New Brighton Mall, New Brighton, Chc/ ATM, Money Machine
+Label=ASB ATM
+StreetDesc=91 New Brighton Mall, New Brighton, Chc/ ATM, FastCash, Money Machine
 zip=Limited Hours
 Data0=(-43.50756,172.72857)
 [END]
@@ -16056,8 +16056,8 @@ Data0=(-43.50756,172.72857)
 ;1052920
 [POI]
 Type=0x2f06
-Label=ASB NORTHLANDS SHOPPING CTR (ATM) (B&A) 24HR
-StreetDesc=Shop 49, Northlands Shopping Mall, 55 Main North Rd, Papanui, Chc/ ATM, Bank
+Label=ASB ATM 24HR
+StreetDesc=Shop 49, Northlands Shopping Mall, 55 Main North Rd, Papanui, Chc/ ATM, FastCash
 Phone=+6433436040
 zip=24 Hours
 Data0=(-43.49135,172.61079)
@@ -16066,8 +16066,8 @@ Data0=(-43.49135,172.61079)
 ;1052997
 [POI]
 Type=0x2f06
-Label=ASB PUTAITAI ST (ATM)
-StreetDesc=20 Putaitai St, Stoke, Nelson/ ATM, Money Machine
+Label=ASB ATM
+StreetDesc=20 Putaitai St, Stoke, Nelson/ ATM, FastCash, Money Machine
 zip=Limited Hours
 Data0=(-41.31179,173.23407)
 [END]
@@ -16084,8 +16084,8 @@ Data0=(-43.53840,172.63510)
 ;1053193
 [POI]
 Type=0x2f06
-Label=ASB THAMES ST OAMARU (ATM) 24HR
-StreetDesc=181 Thames St, Oamaru/ ATM, Money Machine
+Label=ASB ATM 24HR
+StreetDesc=181 Thames St, Oamaru/ ATM, FastCash, Money Machine
 zip=24 Hours
 Data0=(-45.09704,170.97169)
 [END]
@@ -16093,8 +16093,8 @@ Data0=(-45.09704,170.97169)
 ;1053207
 [POI]
 Type=0x2f06
-Label=ASB THE CROSSING (ATM) 24HR
-StreetDesc=The Crossing, 1st Fl, Cnr City Mall & Colombo Streets, Chc/ ATM, Money Machine
+Label=ASB ATM 24HR
+StreetDesc=The Crossing, 1st Fl, Cnr City Mall & Colombo Streets, Chc/ ATM, FastCash, Money
 zip=24 Hours
 Data0=(-43.53330,172.63686)
 [END]
@@ -16102,8 +16102,8 @@ Data0=(-43.53330,172.63686)
 ;1053221
 [POI]
 Type=0x2f06
-Label=ASB THE PALMS (ATM) 24HR
-StreetDesc=The Palms, Cnr Marshland & New Brighton Rds, Shirley, Chc/ ATM, Money Machine
+Label=ASB ATM 24HR
+StreetDesc=The Palms, Cnr Marshland & New Brighton Rds, Shirley, Chc/ ATM, FastCash, Money 
 zip=24 Hours
 Data0=(-43.50703,172.66442)
 [END]
@@ -16111,8 +16111,8 @@ Data0=(-43.50703,172.66442)
 ;1053235
 [POI]
 Type=0x2f06
-Label=ASB UNI OF OTAGO (ATM) 24HR
-StreetDesc=Universiity of Otago, 65 Albany St, North Dud, Dud/ ATM, Money Machine
+Label=ASB ATM 24HR
+StreetDesc=Universiity of Otago, 65 Albany St, North Dud, Dud/ ATM, FastCash, Money Machine
 zip=24 Hours
 Data0=(-45.86668,170.51238)
 [END]
@@ -16120,8 +16120,8 @@ Data0=(-45.86668,170.51238)
 ;1053410
 [POI]
 Type=0x2f06
-Label=ASB WOOLWORTHS FERRYMEAD (ATM) 24HR
-StreetDesc=Woolworths Ferrymead, 999 Ferrymead Terrace, Ferrymead, Chc/ ATM, Money Machine
+Label=ASB ATM 24HR
+StreetDesc=Woolworths Ferrymead, 999 Ferrymead Terrace, Ferrymead, Chc/ ATM, FastCash, Mone
 zip=24 Hours
 Data0=(-43.55665,172.70205)
 [END]
@@ -18911,7 +18911,7 @@ Data0=(-43.52066,172.62666)
 
 ;1062594
 [POI]
-Type=0x4c
+Type=0x2f
 Label=ALEXANDRA I-SITE VISITOR CENTRE
 StreetDesc=22 Centenial Ave/ Visitor information
 Phone=+6434489515
@@ -18920,7 +18920,7 @@ Data0=(-45.25427,169.39149)
 
 ;1062601
 [POI]
-Type=0x4c
+Type=0x2f
 Label=ASHBURTON I-SITE VISITOR CENTRE
 StreetDesc=East St/ Visitor information
 Phone=+6433081050
@@ -18929,7 +18929,7 @@ Data0=(-43.90420,171.74792)
 
 ;1062608
 [POI]
-Type=0x4c
+Type=0x2f
 Label=BALCLUTHA I-SITE VISITOR CENTRE
 StreetDesc=4 Clyde St/ Visitor information
 Phone=+6434180388
@@ -18938,7 +18938,7 @@ Data0=(-46.23650,169.74272)
 
 ;1062615
 [POI]
-Type=0x4c
+Type=0x2f
 Label=VISITOR INFORMATION CENTRE BLENHEIM
 StreetDesc=Blenheim Railway Station, Sinclair St, Blenheim/ Visitor information, i-site
 Phone=+6435778080
@@ -18947,7 +18947,7 @@ Data0=(-41.50945,173.95953)
 
 ;1062622
 [POI]
-Type=0x4c
+Type=0x2f
 Label=CHRISTCHURCH AIRPORT I-SITE VISITOR CENTRE
 StreetDesc=Domestic Terminal, Chc Airport/ Visitor information
 Phone=+6433537774
@@ -18956,7 +18956,7 @@ Data0=(-43.48906,172.53887)
 
 ;1062629
 [POI]
-Type=0x4c
+Type=0x2f
 Label=CHRISTCHURCH I-SITE VISITOR CENTRE
 StreetDesc=Old Chief Post Office, Cathedral Sq/ Visitor information
 Phone=+6433799629
@@ -18966,7 +18966,7 @@ Data0=(-43.53135,172.63540)
 
 ;1062636
 [POI]
-Type=0x4c
+Type=0x2f
 Label=CROMWELL I-SITE VISITOR CENTRE
 StreetDesc=47 The Mall, Cromwell/ Visitor information
 Phone=+6434450212
@@ -18975,7 +18975,7 @@ Data0=(-45.03716,169.19763)
 
 ;1062643
 [POI]
-Type=0x4c
+Type=0x2f
 Label=DUNEDIN I-SITE VISITOR CENTRE
 StreetDesc=48 The Octagon, Dud/ Visitor information
 Phone=+6434743300
@@ -18984,7 +18984,7 @@ Data0=(-45.87358,170.50343)
 
 ;1062650
 [POI]
-Type=0x4c
+Type=0x2f
 Label=GERALDINE I-SITE VISITOR CENTRE
 StreetDesc=Cnr Talbot & Cox St, Geraldine/ Visitor information
 Phone=+6436931006
@@ -18994,7 +18994,7 @@ Data0=(-44.09249,171.24468)
 
 ;1062657
 [POI]
-Type=0x4c
+Type=0x2f
 Label=GOLDEN BAY I-SITE VISITOR CENTRE
 StreetDesc=Willow St, Takaka/ Visitor information
 Phone=+6435259136
@@ -19003,7 +19003,7 @@ Data0=(-40.86138,172.80582)
 
 ;1062664
 [POI]
-Type=0x4c
+Type=0x2f
 Label=GORE I-SITE VISITOR CENTRE
 StreetDesc=Cnr Hokonui Dr & Norfolk St, Gore/ Visitor information
 Phone=+6432089908
@@ -19012,7 +19012,7 @@ Data0=(-46.09789,168.94591)
 
 ;1062671
 [POI]
-Type=0x4c
+Type=0x2f
 Label=GREYMOUTH I-SITE VISITOR CENTRE
 StreetDesc=Cnr Herbert & MacKay Streets, Greymouth/ Visitor information
 Phone=+6437685101
@@ -19021,7 +19021,7 @@ Data0=(-42.44886,171.20761)
 
 ;1062678
 [POI]
-Type=0x4c
+Type=0x2f
 Label=HANMER SPRINGS I-SITE VISITOR CENTRE
 StreetDesc=42 Arnuri Ave West, Hanmer Springs/ Visitor & tourist information, i-site, accom
 Phone=+6433150020
@@ -19030,7 +19030,7 @@ Data0=(-42.52307,172.82888)
 
 ;1062685
 [POI]
-Type=0x4c
+Type=0x2f
 Label=WESTLAND I-SITE VISITOR CENTRE
 StreetDesc=36 Weld St, Hokitika/ Tourist & visitor information
 Phone=+6437556166
@@ -19039,7 +19039,7 @@ Data0=(-42.71809,170.96405)
 
 ;1062692
 [POI]
-Type=0x4c
+Type=0x2f
 Label=INVERCARGILL I-SITE VISITOR CENTRE
 StreetDesc=Queens Park, 108 Gala St, Invercargill/ Visitor information
 Phone=+6432146243
@@ -19048,7 +19048,7 @@ Data0=(-46.40557,168.35358)
 
 ;1062699
 [POI]
-Type=0x4c
+Type=0x2f
 Label=KAIKOURA I-SITE VISITOR CENTRE
 StreetDesc=Westend, Kaikoura/ Visitor information
 Phone=+6433195641
@@ -19057,7 +19057,7 @@ Data0=(-42.40269,173.68297)
 
 ;1062706
 [POI]
-Type=0x4c
+Type=0x2f
 Label=LYTTELTON I-SITE VISITOR CENTRE
 StreetDesc=20 Oxford St, Lyttelton/ Visitor information
 Phone=+6433289093
@@ -19066,7 +19066,7 @@ Data0=(-43.60327,172.72271)
 
 ;1062713
 [POI]
-Type=0x4c
+Type=0x2f
 Label=METHVEN I-SITE VISITOR CENTRE
 StreetDesc=121 Main St, Methven/ Visitor information
 Phone=+6433028955
@@ -19075,7 +19075,7 @@ Data0=(-43.63421,171.64576)
 
 ;1062720
 [POI]
-Type=0x4c
+Type=0x2f
 Label=MOTUEKA VISITOR INFORMATION CENTRE
 StreetDesc=20 Wallace St, Motueka/ Visitor information. Abel Tasman Region i-SITE.
 Phone=+6435286543
@@ -19084,7 +19084,7 @@ Data0=(-41.11166,173.01233)
 
 ;1062727
 [POI]
-Type=0x4c
+Type=0x2f
 Label=NELSON I-SITE VISITOR CENTRE
 StreetDesc=77 Trafalgar St, Nelson/ Visitor information
 Phone=+6435482304
@@ -19093,7 +19093,7 @@ Data0=(-41.27058,173.28427)
 
 ;1062734
 [POI]
-Type=0x4c
+Type=0x2f
 Label=OAMARU I-SITE VISITOR CENTRE
 StreetDesc=1 Thames St, Oamaru/ Visitor information
 Phone=+6434341656
@@ -19102,7 +19102,7 @@ Data0=(-45.10195,170.96914)
 
 ;1062741
 [POI]
-Type=0x4c
+Type=0x2f
 Label=PICTON I-SITE VISITOR CENTRE
 StreetDesc=The Foreshore, Picton/ Visitor information
 Phone=+6435203113
@@ -19111,7 +19111,7 @@ Data0=(-41.28601,174.00520)
 
 ;1062748
 [POI]
-Type=0x4c
+Type=0x2f
 Label=QUEENSTOWN I-SITE VISITOR CENTRE
 StreetDesc=Cnr Camp & Shotover Streets, Queenstown/ Visitor information
 Phone=+6434424100
@@ -19120,7 +19120,7 @@ Data0=(-45.03097,168.66049)
 
 ;1062755
 [POI]
-Type=0x4c
+Type=0x2f
 Label=REEFTON I-SITE VISITOR CENTRE
 StreetDesc=67-69 Broadway, Reefton/ Visitor information
 Phone=+6437328391
@@ -19129,7 +19129,7 @@ Data0=(-42.11976,171.86475)
 
 ;1062762
 [POI]
-Type=0x4c
+Type=0x2f
 Label=STEWART ISLAND VISITOR CENTRE
 StreetDesc=Main Rd, Stewart Island/ Visitor information
 Phone=+6432190009
@@ -19138,7 +19138,7 @@ Data0=(-46.89783,168.12675)
 
 ;1062769
 [POI]
-Type=0x4c
+Type=0x2f
 Label=FIORDLAND I-SITE VISITOR CENTRE
 StreetDesc=Lake Front Dr, Te Anau/ Visitor information
 Phone=+6436886163
@@ -19147,7 +19147,7 @@ Data0=(-45.41739,167.71175)
 
 ;1062776
 [POI]
-Type=0x4c
+Type=0x2f
 Label=TIMARU I-SITE VISITOR CENTRE
 StreetDesc=2 George St, Timaru/ Visitor information
 Phone=+6436886163
@@ -19156,7 +19156,7 @@ Data0=(-44.39690,171.25583)
 
 ;1062783
 [POI]
-Type=0x4c
+Type=0x2f
 Label=WANAKA I-SITE VISITOR CENTRE
 StreetDesc=100 Ardmore St, Lake Front, Wanaka/ Visitor information
 Phone=+6434431233
@@ -19165,7 +19165,7 @@ Data0=(-44.69444,169.13467)
 
 ;1062790
 [POI]
-Type=0x4c
+Type=0x2f
 Label=WESTPORT I-SITE VISITOR CENTRE
 StreetDesc=1 Brougham St, Westport/ Visitor information
 Phone=+6437896658
@@ -29968,7 +29968,7 @@ Data0=(-46.36433,168.35630)
 [POI]
 Type=0x2a07
 Label=HELL PIZZA INVERCARGILL
-StreetDesc=10 Dee St, Invercargill/ gourmet pizza, takeaways, deliveries
+StreetDesc=10 Dee St, Invercargill/ Gourmet pizza restaurant, takeaways, deliveries
 Phone=+6432150666
 Data0=(-46.41222,168.34704)
 [END]
@@ -31508,7 +31508,7 @@ Data0=(-45.19195,169.32028)
 
 ;1093698
 [POI]
-Type=0x4c
+Type=0x2f
 Label=KAIAPOI I-SITE VISITOR CENTRE
 StreetDesc=Corner of Raven St and Williams St, Kaiapoi/ Visitor information
 Phone=+6433273134
@@ -33829,7 +33829,7 @@ Data0=(-41.80013,172.32936)
 
 ;1094902
 [POI]
-Type=0x4c
+Type=0x2f
 Label=MURCHISON INFORMATON CENTRE
 StreetDesc=Waller St, Murchison/ Information Centre
 Phone=+6435239350
@@ -37355,7 +37355,7 @@ Data0=(-45.87049,170.50568)
 Type=0x2e
 Label=STIRLING SPORTS NORTHLANDS
 StreetDesc=Shop 9, Northlands Shopping Mall, 55 Main North Rd, Papanui, Chc/ Sports & outdo
-Phone=+6433520391
+Phone=+6433522122
 zip=Mon-Wed 9am-6pm, Thu-Fri 9am-9pm, Sat-Su
 Data0=(-43.49371,172.60883)
 [END]
@@ -39361,7 +39361,7 @@ Data0=(-43.73661,170.09707)
 
 ;1099037
 [POI]
-Type=0x4c
+Type=0x2f
 Label=DEPARTMENT OF CONSERVATION, AORAKI/MT COOK VISITOR CENTRE
 StreetDesc=1 Larch Grove, Aoraki/Mt Cook/ DOC visitor information
 Phone=+6434351186
@@ -39370,7 +39370,7 @@ Data0=(-43.73333,170.09537)
 
 ;1099038
 [POI]
-Type=0x4c
+Type=0x2f
 Label=DEPARTMENT OF CONSERVATION, ARTHUR'S PASS VISITOR CENTRE
 StreetDesc=SH 73, Arthurs Pass/ DOC visitor information
 Phone=+6433189211
@@ -39406,7 +39406,7 @@ Data0=(-45.24455,169.39461)
 
 ;1099048
 [POI]
-Type=0x4c
+Type=0x2f
 Label=DEPARTMENT OF CONSERVATION, CHRISTCHURCH VISITOR CENTRE
 StreetDesc=L 4 Torrens House, 195 Hereford St, Chc/ DOC visitor information, Mahaanui (Nort
 Phone=+6433713706
@@ -39415,7 +39415,7 @@ Data0=(-43.53190,172.64085)
 
 ;1099051
 [POI]
-Type=0x4c
+Type=0x2f
 Label=DEPARTMENT OF CONSERVATION, FIORDLAND VISITOR CENTRE
 StreetDesc=Fiordland Ntl Park, Visitor Ctr, Lakefront Dr, Te Anau/ DOC visitor information.
 Phone=+6432497924
@@ -39424,7 +39424,7 @@ Data0=(-45.42373,167.71911)
 
 ;1099053
 [POI]
-Type=0x4c
+Type=0x2f
 Label=DEPARTMENT OF CONSERVATION, GLENORCHY VISITOR CENTRE
 StreetDesc=Cnr Mull & Oban Sts, Glenorchy/ DOC visitor information
 Phone=+6434429937
@@ -39460,7 +39460,7 @@ Data0=(-42.45864,171.20451)
 
 ;1099059
 [POI]
-Type=0x4c
+Type=0x2f
 Label=DEPARTMENT OF CONSERVATION, HAAST VISITOR CENTRE
 StreetDesc=Haast Junction, Corner SH6 and Jackson Bay Rd, Haast, South Westland/ DOC visito
 Phone=+6437500809
@@ -39469,7 +39469,7 @@ Data0=(-43.86121,169.04572)
 
 ;1099062
 [POI]
-Type=0x4c
+Type=0x2f
 Label=DEPARTMENT OF CONSERVATION, HURUNUI VISITOR CENTRE
 StreetDesc=42 Amuri Ave, Hanmer Springs/ DOC visitor information
 Phone=+6433157128
@@ -39478,7 +39478,7 @@ Data0=(-42.52282,172.82898)
 
 ;1099067
 [POI]
-Type=0x4c
+Type=0x2f
 Label=DEPARTMENT OF CONSERVATION, MAKARORA VISITOR CENTRE
 StreetDesc=Haast Pass Highway, Makarora/ DOC visitor information
 Phone=+6434438365
@@ -39505,7 +39505,7 @@ Data0=(-43.72742,172.58486)
 
 ;1099071
 [POI]
-Type=0x4c
+Type=0x2f
 Label=DEPARTMENT OF CONSERVATION, MT ASPIRING NATIONAL PARK VISITOR CENTRE
 StreetDesc=Ardmore St, Wanaka/ DOC visitor information, Wanaka Area Office
 Phone=+6434437660
@@ -39514,7 +39514,7 @@ Data0=(-44.69450,169.14228)
 
 ;1099072
 [POI]
-Type=0x4c
+Type=0x2f
 Label=DEPARTMENT OF CONSERVATION, NELSON LAKES VISITOR CENTRE
 StreetDesc=View Rd, St Arnaud/ DOC visitor information, Nelson Lakes Area Office
 Phone=+6435211806
@@ -39523,7 +39523,7 @@ Data0=(-41.80502,172.84273)
 
 ;1099073
 [POI]
-Type=0x4c
+Type=0x2f
 Label=DEPARTMENT OF CONSERVATION, NELSON REGIONAL VISITOR CENTRE
 StreetDesc=Millers Acre, 79 Trafalgar St, Nelson/ DOC visitor information
 Phone=+6435469339
@@ -39550,7 +39550,7 @@ Data0=(-45.87488,170.50616)
 
 ;1099082
 [POI]
-Type=0x4c
+Type=0x2f
 Label=DEPARTMENT OF CONSERVATION, PAPAROA NATIONAL PARK VISITOR CENTRE
 StreetDesc=Paparoa, Main Rd, State Highway, Punakaiki/ DOC visitor information
 Phone=+6437311895
@@ -39559,7 +39559,7 @@ Data0=(-42.11513,171.33029)
 
 ;1099084
 [POI]
-Type=0x4c
+Type=0x2f
 Label=DEPARTMENT OF CONSERVATION, QUEENSTOWN VISITOR CENTRE
 StreetDesc=37 Shotover St, Queenstown/ DOC visitor information
 Phone=+6434427935
@@ -39568,7 +39568,7 @@ Data0=(-45.03131,168.65959)
 
 ;1099085
 [POI]
-Type=0x4c
+Type=0x2f
 Label=DEPARTMENT OF CONSERVATION, RAKIURA NATIONAL PARK VISITOR CENTRE
 StreetDesc=Main Rd, Stewart Island/ DOC visitor information
 Phone=+6432190009
@@ -39667,7 +39667,7 @@ Data0=(-42.71959,170.96263)
 
 ;1099112
 [POI]
-Type=0x4c
+Type=0x2f
 Label=DEPARTMENT OF CONSERVATION, WESTLAND TAI POUTINI NATIONAL PARK VISITOR CENTRE
 StreetDesc=Main Rd, Franz Josef/ DOC visitor information, Franz Josef - Waiau Area Office
 Phone=+6437520796
@@ -46248,7 +46248,7 @@ Type=0x2f
 Label=CHRISTCHURCH ART GALLERY TE PUNA O WAIWHETU
 StreetDesc=corner Worchester Boulevard & Montreal St, Chc/ Art Gallery
 Phone=+6439417300
-zip=Mon, Tues, Thurs-Sun 100-1700, Wed 1000-
+zip=Mon, Tue, Thu-Sun 9.30am-5pm, Wed 9.30am
 Data0=(-43.53065,172.63077)
 [END]
 
@@ -64361,10 +64361,10 @@ Data0=(-43.52453,172.63497)
 ;1113222
 [POI]
 Type=0x2f
-Label=SHERWOOD ESTATE LTD
-StreetDesc=113 Church Rd, Waipara, Chc/ 
+Label=SHERWOOD ESTATE WINES
+StreetDesc=113 Church Rd, Waipara/ Winery
 Phone=+6433146962
-Data0=(-43.04660,172.77250)
+Data0=(-43.04615,172.77456)
 [END]
 
 ;1113229
@@ -66155,10 +66155,10 @@ Data0=(-41.28871,173.00614)
 ;1114104
 [POI]
 Type=0x2C0A
-Label=?SURVEYOR THOMSON WINES LTD
-StreetDesc=Clarks Rd, Lowburn, Central Otago/ 
+Label=SURVEYOR THOMSON WINES LTD
+StreetDesc=Clarks Rd, Lowburn, Central Otago/ Winery
 Phone=+6434426001
-Data0=(-44.97383,169.23299)
+Data0=(-44.97044,169.22894)
 [END]
 
 ;1114110
@@ -66294,7 +66294,7 @@ Data0=(-43.69124,172.11748)
 [POI]
 Type=0x2f
 Label=SYNTECH COMPUTER SERVICES LIMITED
-StreetDesc=439 Barbadoes St, Chc/ 
+StreetDesc=439 Barbadoes St, Chc/ Computer Sales & Services, repairs
 Phone=+6433656226
 Data0=(-43.51979,172.64577)
 [END]
@@ -67117,10 +67117,10 @@ Data0=(-44.00543,170.47914)
 ;1114640
 [POI]
 Type=0x2f
-Label=THE GORE PUBLISHING CO LTD
-StreetDesc=47 Mersey St, Gore/ 
+Label=THE ENSIGN
+StreetDesc=47 Mersey St, Gore/ Community paper
 Phone=+6432089280
-Data0=(-46.10112,168.94633)
+Data0=(-46.10116,168.94632)
 [END]
 
 ;1114641
@@ -76901,10 +76901,10 @@ Data0=(-46.40772,168.36405)
 ;1117768
 [POI]
 Type=0x2b01
-Label=FOUNTAIN RESORT MOTEL
-StreetDesc=77 Green St, Tahunanui/ Motel, SKY
+Label=ASURE FOUNTAIN RESORT MOTEL
+StreetDesc=77 Green St, Tahunanui 7011, Nelson, Marlborough/ Accomodation. MANZ member. Zen
 Phone=+6435485099
-Data0=(-41.28679,173.23988)
+Data0=(-41.28679,173.24015)
 [END]
 
 ;1117769
@@ -77132,7 +77132,7 @@ Data0=(-45.85543,170.52620)
 
 ;1117847
 [POI]
-Type=0x4c
+Type=0x2f
 Label=ARROWTOWN INFORMATION - LAKES DISTRICT MUSEUM AND INFORMATION CENTRE
 StreetDesc=49 Buckingham St, Arrowtown/ Tourist and visitor assistance
 Data0=(-44.93864,168.83343)
@@ -78194,7 +78194,7 @@ Data0=(-44.39699,171.25576)
 [POI]
 Type=0x2a04
 Label=CHENGS
-StreetDesc=cnr Stafford and George Streets/ restaurant, chinese, food, takeaways
+StreetDesc=cnr Stafford and George Streets, Timaru/ Chinese restaurant, takeaways
 Phone=+6436888888
 Data0=(-44.39702,171.25531)
 [END]
@@ -78816,10 +78816,11 @@ Data0=(-45.09515,170.97260)
 ;1118569
 [POI]
 Type=0x2d02
-Label=LATITUDE 45 CAFE AND WINE BAR
-StreetDesc=1 Ribble St, Oamaru/ Cafe, wine bar
-Phone=+6434343426
-Data0=(-45.09631,170.97433)
+Label=LATITUDE 45 RESTAURANT
+StreetDesc=346 Thames Highway, Oamaru North/ Cafe style lunches, more substantial meals by 
+Phone=+6434370838
+zip=Tues through Saturday lunch 11:30am to 2
+Data0=(-45.08190,170.98093)
 [END]
 
 ;1118570
@@ -79779,7 +79780,7 @@ Data0=(-45.41645,167.71993)
 
 ;1119283
 [POI]
-Type=0x4c
+Type=0x2f
 Label=KARAMEA INFORMATION & RESOURCE CENTRE
 StreetDesc=Market Cross, Karamea/ Information
 Phone=+6437826652
@@ -84694,7 +84695,7 @@ Data0=(-44.18989,170.14037)
 
 ;1120726
 [POI]
-Type=0x4c
+Type=0x2f
 Label=TWIZEL INFORMATION CENTRE
 StreetDesc=Twizel Events Ctr/ Information
 Phone=+6434353124
@@ -90469,7 +90470,7 @@ Data0=(-43.36627,170.19390)
 
 ;1122195
 [POI]
-Type=0x4c
+Type=0x2f
 Label=ADVENTURE FIORDLAND
 StreetDesc=Town Ctr, Te Anau/ Tour and Information Office specialising in outdoor adventure
 Phone=+6432498500
@@ -91711,7 +91712,7 @@ Data0=(-41.27183,173.26261)
 
 ;1122641
 [POI]
-Type=0x4c
+Type=0x2f
 Label=STEWART ISLAND I-SITE VISITOR CENTRE
 StreetDesc=12 Elgin Terrace, Halfmoon Bay, Stewart Island/ Tourist & visitor information
 Phone=+6432191400
@@ -91720,7 +91721,7 @@ Data0=(-46.89702,168.12906)
 
 ;1122642
 [POI]
-Type=0x4c
+Type=0x2f
 Label=AKAROA VISITOR CENTRE
 StreetDesc=80 Rue Lavaud, Akaroa/ Tourist & Visitor information, New Zealand Post Agency an
 Phone=+6433048600
@@ -93872,7 +93873,7 @@ Data0=(-45.04064,168.69375)
 [POI]
 Type=0x2a07
 Label=HELL PIZZA DUNEDIN SOUTH
-StreetDesc=17 Hillside Rd, Dud/ gourmet pizza, takeaways, deliveries
+StreetDesc=17 Hillside Rd, Dud/ Gourmet pizza restaurant, takeaways, deliveries
 Phone=+6434558666
 Data0=(-45.89168,170.50250)
 [END]
@@ -116632,7 +116633,7 @@ Data0=(-41.80213,172.84705)
 [POI]
 Type=0x2a07
 Label=HELL PIZZA NELSON
-StreetDesc=42 Tahunanui Dr, Nelson/ gourmet pizza, takeaways, deliveries
+StreetDesc=42 Tahunanui Dr, Nelson/ Gourmet pizza restaurant, takeaways, deliveries
 Phone=+6435486664
 zip=Mon-Wed 4.30pm-10pm, Thu 11.30am-10pm, F
 Data0=(-41.28345,173.24832)
@@ -120004,9 +120005,9 @@ Data0=(-44.39031,171.22589)
 [POI]
 Type=0x2f
 Label=CHIPMUNKS TIMARU
-StreetDesc=3-11 Stafford St, Timaru 7910/ Childrens pay for playground, coffee, cafe.
+StreetDesc=2 Heaton St Parkside 7910/ Childrens pay for playground, coffee, cafe.
 Phone=+6436888846
-Data0=(-44.40174,171.25664)
+Data0=(-44.40218,171.25776)
 [END]
 
 ;1137797
@@ -123706,7 +123707,7 @@ Data0=(-45.88905,170.54003)
 [POI]
 Type=0x2f
 Label=THE HEAD
-StreetDesc=808 Great King St, Dud/ Hairdressers
+StreetDesc=808 Great King St, Dud/ Hairdressers with service and style. They take good care
 Phone=+6434770795
 Data0=(-45.85802,170.51418)
 [END]
@@ -123991,10 +123992,10 @@ Data0=(-43.38799,170.18223)
 ;1138554
 [POI]
 Type=0x2a
-Label=BLUE ICE CAFE
-StreetDesc=State Highway 6, Franz Josef Glacier/ Restaurant And Bar
+Label=?BLUE ICE CAFE
+StreetDesc=State Highway 6, Franz Josef Glacier, Westland/ Restaurant and bar. Zenbu Wi-Fi 
 Phone=+6437520707
-Data0=(-43.38928,170.18207)
+Data0=(-43.36949,170.18375)
 [END]
 
 ;1138555
@@ -126216,15 +126217,15 @@ Data0=(-44.81183,170.55385)
 [POI]
 Type=0x2b03
 Label=OTEMATATA HOLIDAY PARK
-StreetDesc=9 East Rd, Otematata/ Camping Grounds
-Data0=(-44.60537,170.19470)
+StreetDesc=9 East Rd, Otematata 9412/ Camping Grounds
+Data0=(-44.60547,170.19466)
 [END]
 
 ;1139228
 [POI]
 Type=0x2a
 Label=OTEMATATA LAKES HOTEL
-StreetDesc=2736 State Highway 83, Waitaki Valley/ Bar, restaurant, off license
+StreetDesc=2736 State Highway 83, Waitaki Valley, Otematata/ Accommodation. Bar, restaurant
 Phone=+6434387899
 Data0=(-44.60381,170.19491)
 [END]
@@ -129423,8 +129424,8 @@ Data0=(-45.41677,167.71239)
 ;1141566
 [POI]
 Type=0x2f
-Label=DIERCKX & ASSOCIATES LTD
-StreetDesc=36 Fovant St, Russley, Chc/ Risk Management, Business Forensic Services, Litigat
+Label=RENAISSANCE MAN PRODUCTIONS
+StreetDesc=36 Fovant St, Russley, Chc/ music, guitar tuition, guitar lessons, photographic 
 Phone=+6433424232
 zip=9 am - midnight
 Data0=(-43.51955,172.53910)
@@ -140361,7 +140362,7 @@ Data0=(-43.48841,172.53879)
 [POI]
 Type=0x2a07
 Label=HELL PIZZA RICCARTON
-StreetDesc=70 Riccarton Rd, Chc/ gourmet pizza, takeaways, deliveries
+StreetDesc=70 Riccarton Rd, Chc/ Gourmet pizza restaurant, takeaways, deliveries
 Data0=(-43.52931,172.60390)
 [END]
 
@@ -174769,8 +174770,9 @@ Data0=(-43.86845,171.81952)
 [POI]
 Type=0x2f
 Label=DR JUAN GARCIA-QUIROGA
-StreetDesc=17 Skibo St, Kew, Dud/ 
-Data0=(-45.90275,170.48277)
+StreetDesc=3rd L, 8 Moray Place, Dud/ 
+zip=By appointment only
+Data0=(-45.87526,170.50255)
 [END]
 
 ;1166611
@@ -182287,26 +182289,6 @@ Phone=+6433667441
 Data0=(-43.53327,172.64442)
 [END]
 
-;1170564
-[POI]
-Type=0x2f
-Label=NEXT ELECTRONIC SERVICING - CHRISTCHURCH
-StreetDesc=127 Antigua St, Chc/ Next Electronic Servicing is a leading provider of consumer
-Phone=0800GONEXT466398
-zip=8:30 am
-Data0=(-43.54193,172.62775)
-[END]
-
-;1170565
-[POI]
-Type=0x2f
-Label=NEXT ELECTRONIC SERVICING - DUNEDIN
-StreetDesc=595 Princes St, Dud/ Next Electronic Servicing is a leading provider of consumer
-Phone=0800GONEXT466398
-zip=8:30 am
-Data0=(-45.88341,170.49874)
-[END]
-
 ;1170577
 [POI]
 Type=0x2f
@@ -183548,7 +183530,7 @@ Data0=(-45.00348,169.93316)
 
 ;1171174
 [POI]
-Type=0x4c
+Type=0x2f
 Label=RED BARN INFORMATION CENTRE
 StreetDesc=Wedderburn/ Information Centre, Otago Central Rail Trail
 Phone=+6434449194
@@ -186525,7 +186507,7 @@ Data0=(-43.30413,172.59114)
 
 ;1172295
 [POI]
-Type=0x4c
+Type=0x2f
 Label=AA CENTRE - DUNEDIN
 StreetDesc=450 Moray Place, Dud/ Travel advice, maps, accommodation guide, drivers licencin
 Phone=+6434775945
@@ -186535,7 +186517,7 @@ Data0=(-45.87539,170.50407)
 
 ;1172296
 [POI]
-Type=0x4c
+Type=0x2f
 Label=AA CENTRE - DURHAM STREET
 StreetDesc=Unit 19, 293 Durham St North, Chc/ Travel advice, maps, accommodation guide, dri
 Phone=+6439643650
@@ -186545,7 +186527,7 @@ Data0=(-43.52925,172.63339)
 
 ;1172301
 [POI]
-Type=0x4c
+Type=0x2f
 Label=AA CENTRE - RANGIORA
 StreetDesc=128 High St, Rangiora/ Travel advice, maps, accommodation guide, drivers licenci
 Phone=+6433136944
@@ -186555,7 +186537,7 @@ Data0=(-43.30333,172.59469)
 
 ;1172303
 [POI]
-Type=0x4c
+Type=0x2f
 Label=AA CENTRE - SHIRLEY
 StreetDesc=205 Hills Rd, Shirley, Chc/ Travel advice, maps, accommodation guide, drivers li
 Phone=+6433861090
@@ -186565,7 +186547,7 @@ Data0=(-43.50881,172.65141)
 
 ;1172304
 [POI]
-Type=0x4c
+Type=0x2f
 Label=AA CENTRE - SYDENHAM
 StreetDesc=Cnr Brougham & Buchan Streets, Sydenham, Chc/ Travel advice, maps, accommodation
 Phone=+6433630777
@@ -188375,8 +188357,8 @@ Data0=(-44.87206,169.81137)
 [POI]
 Type=0x2c04
 Label=ST PAUL'S CHURCH (PRESBYTERIAN)
-StreetDesc=Coquet St, Oamaru/ Historic Place: Category 1
-Data0=(-45.09809,170.97215)
+StreetDesc=5 Coquet St, Oamaru/ Historic Place: Category 1
+Data0=(-45.09808,170.97221)
 [END]
 
 ;1172814
@@ -194671,10 +194653,10 @@ Data0=(-43.52065,172.62913)
 [POI]
 Type=0x2f
 Label=A1 SCREENPRINT
-StreetDesc=2/28 Tanya St, Bromley, Chc/ Specialist Industrial Screen Printers. mousepads nz
+StreetDesc=2/28 Tanya St, Bromley, Chc/ Print Industrial Screen Printers. mouse pads, nz, l
 Phone=+6433841553
 zip=8am-5pm
-Data0=(-43.54003,172.69570)
+Data0=(-43.54007,172.69572)
 [END]
 
 ;1174822
@@ -198348,7 +198330,7 @@ Data0=(-44.17002,171.28412)
 [POI]
 Type=0x2f
 Label=STAR PHOTOGRAPHERS LTD - DEAN NORRIE
-StreetDesc=217 Grahams Rd, Burnside, Chc, 8053 New Zealand/ Wedding Photographer Christchur
+StreetDesc=217 Grahams Rd, Burnside, Chc/ Wedding Photographer Christchurch Dean Norrie is 
 Phone=+6433591111
 zip=Open by Appointment Only
 Data0=(-43.49861,172.58105)
@@ -200528,7 +200510,7 @@ Data0=(-45.12916,170.09683)
 [POI]
 Type=0x2a07
 Label=HELL PIZZA QUEENSTOWN
-StreetDesc=Searle Lane, Queenstown/ gourmet pizza, takeaways, deliveries
+StreetDesc=Searle Lane, Queenstown/ Gourmet pizza restaurant, takeaways, deliveries
 Phone=+6434412666
 Data0=(-45.03287,168.66088)
 [END]
@@ -202794,8 +202776,8 @@ Data0=(-43.53205,172.63623)
 [POI]
 Type=0x2F02
 Label=HANSON RENTAL VEHICLES
-StreetDesc=313 kaikorai valley Rd Dud/ rental trucks minibus minibuses moving trailer trail
-Phone=+34536576
+StreetDesc=313 Kaikorai Valley Rd, Dud/ rental trucks, minibuses, moving trailers, car hire
+Phone=+6434536576
 zip=8am to 5pm every day
 Data0=(-45.87664,170.47128)
 [END]
@@ -202926,7 +202908,7 @@ Label=GRANDVIEW GARDENS
 StreetDesc=95 Currie Rd, Maungatua, Outram/ Wedding, conference function centre that flows 
 Phone=+6434861407
 zip=any night until midnight
-Data0=(-45.87933,170.16593)
+Data0=(-45.88117,170.16681)
 [END]
 
 ;1179768
@@ -202946,5 +202928,225 @@ Label=JONES ROAD AUTO
 StreetDesc=851 Jones Rd, Rolleston/ Car, Automotive, Mechanic, WOF, Garage
 Phone=+6433474020
 Data0=(-43.58895,172.37856)
+[END]
+
+;1179773
+[POI]
+Type=0x2b00
+Label=RAI RETREAT
+StreetDesc=6756 Main Rd, Rai Valley, Marlborough/ Accommodation 2 bdrm self contained. Fami
+Phone=+6435716111
+zip=8am to 10pm
+Data0=(-41.22966,173.58267)
+[END]
+
+;1179786
+[POI]
+Type=0x2b00
+Label=ACCOMMODATION + NELSON TASMAN REGION
+StreetDesc=Kina Peninsula/ luxury, boutique coastal premium bed & breakfast & self containe
+Phone=+6435266840
+zip=0800-2200
+Data0=(-41.17000,173.04746)
+[END]
+
+;1179797
+[POI]
+Type=0x2f
+Label=KIMBERLEY MARSH PHOENIX CLINIC THERAPEUTIC MASSAGE AND BODYWORK
+StreetDesc=492 Moray Place, Dud Central/ Massage Therapy, Therapeutic Massage and Bodywork
+Phone=+6427428529
+zip=9.30am - 6.30pm Week Days
+Data0=(-45.87546,170.50319)
+[END]
+
+;1179816
+[POI]
+Type=0x2f
+Label=LAKE HOOD SLIPWAY
+StreetDesc=Lake Hood, Ashburton/ public slipway
+Data0=(-43.96488,171.77312)
+[END]
+
+;1179817
+[POI]
+Type=0x2f0c
+Label=PUBLIC TOILET'S, LAKE HOOD
+StreetDesc=Lake Hood, Ashburton/ Public Toilet
+Data0=(-43.96397,171.77307)
+[END]
+
+;1179818
+[POI]
+Type=0x2f
+Label=LAKE HOOD, WATER SKI AREA
+StreetDesc=Lake Hood, Ashburton/ water skiing
+Data0=(-43.96625,171.77743)
+[END]
+
+;1179821
+[POI]
+Type=0x2f
+Label=?ZIPTREK ECOTOURS
+StreetDesc=Brecon St, Queenstown/ Ziptrek Ecotours offers an entertaining combination of ed
+Phone=+6434412102
+Data0=(-45.03016,168.65748)
+[END]
+
+;1179824
+[POI]
+Type=0x2f
+Label=TEMUKA PLAYGROUND
+StreetDesc=Domain Ave, Temuka/ Playground
+Data0=(-44.24915,171.28261)
+[END]
+
+;1179825
+[POI]
+Type=0x2f
+Label=ELEPHANT ROCKS
+StreetDesc=Island Cliff-Duntroon Rd/ The Elephant Rocks locality features strangely sculptu
+Data0=(-44.89409,170.65658)
+[END]
+
+;1179827
+[POI]
+Type=0x2f
+Label=WOODEND PLAYGROUND
+StreetDesc=Main North Rd,SH1, Woodend/ Playground
+Data0=(-43.32663,172.66519)
+[END]
+
+;1179828
+[POI]
+Type=0x2f
+Label=CHEVIOT PLAYGROUND
+StreetDesc=McQueen Rd, Cheviot/ Playground
+Data0=(-42.81287,173.27440)
+[END]
+
+;1179832
+[POI]
+Type=0x2f
+Label=SOUTH COAST ENVIRONMENT CENTRE (RIVERTON)
+StreetDesc=154 Palmerston St Riverton Southland/ Eco shop, Organic food, Heritage seeds, He
+Phone=+6432348717
+zip=10-4.30 6 days 1.30-4.30 Sundays
+Data0=(-46.35139,168.01412)
+[END]
+
+;1179833
+[POI]
+Type=0x2f
+Label=NGAIO DIAGNOSTICS
+StreetDesc=81 Halifax St East, Nelson/ Supply of laboratory products
+Phone=+6435484727
+Data0=(-41.27082,173.29076)
+[END]
+
+;1179835
+[POI]
+Type=0x2f
+Label=MAEREWHENUA
+StreetDesc=Livingstone-Duntroon Rd, Duntroon 9494, New Zealand/ Acient maori rock art, tour
+Data0=(-44.86131,170.68646)
+[END]
+
+;1179836
+[POI]
+Type=0x2f
+Label=TOKARAHI SILL
+StreetDesc=72 Dip Hill Rd, Livingstone 9491, New Zealand/ Interesting rock outcrop, tourist
+Data0=(-44.94055,170.61871)
+[END]
+
+;1179890
+[POI]
+Type=0x2f
+Label=POSTBOX
+StreetDesc=4 Chapman Place/ postbox
+Data0=(-43.38253,172.64695)
+[END]
+
+;1179974
+[POI]
+Type=0x2f
+Label=HARRISON GRIERSON CONSULTANTS LTD
+StreetDesc=L 1 84 Peterborough St Chc Chc 8011/ Professional services, advisors, designers,
+Phone=+6439629770
+Data0=(-43.52569,172.63464)
+[END]
+
+;1179979
+[POI]
+Type=0x2f
+Label=THE LAKES DISTRICT AND CENTRAL OTAGO NEWS
+StreetDesc=18 Skird St, Alexandra/ Newspaper
+Phone=+6434400030
+Data0=(-45.25590,169.39393)
+[END]
+
+;1179980
+[POI]
+Type=0x2f
+Label=ALLIED PRESS LTD
+StreetDesc=31 Clyde St, Balclutha/ 
+Phone=+6434180123
+Data0=(-46.23767,169.74032)
+[END]
+
+;1179981
+[POI]
+Type=0x2f
+Label=THE COURIER
+StreetDesc=12-14 George St, Timaru/ Community newspaper
+Phone=+6436879228
+Data0=(-44.39698,171.25545)
+[END]
+
+;1179982
+[POI]
+Type=0x2f
+Label=POWERON
+StreetDesc=RD 1 MOTUEKA 7196/ Renewable power systems. Solar (pv) wind and hydro based. Gri
+Phone=+6435268089
+Data0=(-41.20142,172.80793)
+[END]
+
+;1179983
+[POI]
+Type=0x2f
+Label=HURUNUI NEWS
+StreetDesc=5 Markham St, Amberley/ Community newspaper
+Phone=+6433148335
+Data0=(-43.15317,172.72813)
+[END]
+
+;1179986
+[POI]
+Type=0x2f
+Label=THE FULL NOISE LTD
+StreetDesc=3 Newbourne Cres, Blenheim/ Graphic Design, Web Design and Marketing
+Phone=7201
+zip=9am - 5pm
+Data0=(-41.52582,173.95504)
+[END]
+
+;1179988
+[POI]
+Type=0x2f
+Label=RUSSELL'S PAINT AND PANEL
+StreetDesc=2 Park terrace, Blenheim/ Panel beaters, Car Painters, Collision Repair
+Phone=7201
+zip=8am - 5pm
+Data0=(-41.51297,173.96065)
+[END]
+
+;1179994
+[POI]
+Type=0x2b00
+Label=HANMER SPRINGS ACCOMMODATION
+StreetDesc=7 Conical Hill Rd/ hanmer springs accommodation
+Data0=(-42.52035,172.83017)
 [END]
 

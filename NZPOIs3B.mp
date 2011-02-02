@@ -7633,15 +7633,6 @@ Phone=+6433746780
 Data0=(-43.53842,172.63506)
 [END]
 
-;1025851
-[POI]
-Type=0x2a07
-Label=MCDONALD'S RESTAURANT - STAFFORD STREET
-StreetDesc=238 Stafford St, Timaru/ burgers, fast food, takeaways
-Phone=+6436883993
-Data0=(-44.39522,171.25208)
-[END]
-
 ;1025858
 [POI]
 Type=0x2a07
@@ -16794,15 +16785,6 @@ Phone=+6434450377
 Data0=(-45.04837,169.20577)
 [END]
 
-;1054838
-[POI]
-Type=0x2e02
-Label=TARRAS FOUR SQUARE SUPERMARKET
-StreetDesc=State Highway 8, Tarras/ supermarket, groceries
-Phone=+6434452822
-Data0=(-44.83729,169.41184)
-[END]
-
 ;1054845
 [POI]
 Type=0x2e02
@@ -22905,10 +22887,10 @@ Data0=(-41.80126,172.84962)
 ;1074396
 [POI]
 Type=0x2b00
-Label=CHILLAWHILE BACKPACKERS ART GALLERY
-StreetDesc=1 Frome St, North End, Roberts Park, Oamaru/ Backpacker accommodation
+Label=CHILLAWHILE BACKPACKERS AND ART GALLERY
+StreetDesc=1 Frome St, North End, Roberts Park, Oamaru North 9400, Otago/ Accommodation hos
 Phone=+6434370168
-Data0=(-45.08051,170.98161)
+Data0=(-45.08063,170.98193)
 [END]
 
 ;1074403
@@ -30399,9 +30381,9 @@ Data0=(-45.18656,169.31579)
 [POI]
 Type=0x2b01
 Label=AL PARK VIEW MOTEL
-StreetDesc=12 Bantry St, Alexandra, Central Otago./ Accommodation, 8 x self-contained. Zenb
+StreetDesc=12 Bantry St, Alexandra 9320, Central Otago./ Accommodation, 8 x self-contained.
 Phone=+6434487400
-Data0=(-45.25190,169.39249)
+Data0=(-45.25190,169.39248)
 [END]
 
 ;1091672
@@ -37013,6 +36995,7 @@ Type=0x2e
 Label=FOATE OPTOMETRISTS CHRISTCHURCH
 StreetDesc=67 Victoria St, Chc City/ Visique Optometrist, eye exam, eyewear
 Phone=+6433660545
+zip=Mon - Fri 8:30am to 5:30pm
 Data0=(-43.52584,172.63231)
 [END]
 
@@ -38060,7 +38043,7 @@ Type=0x2e08
 Label=RESENE COLORSHOP BLENHEIM
 StreetDesc=Cnr McArtney and Redwood Streets, Blenheim/ Resene paint, wallpaper and decorati
 Phone=+6435779200
-zip=Mon-Fri 7.30am-5pm, Sat 9am-3pm
+zip=Mon-Fri 7.30am - 5pm; Sat 9am-1pm
 Data0=(-41.51618,173.96069)
 [END]
 
@@ -38110,7 +38093,7 @@ Type=0x2e08
 Label=RESENE COLORSHOP NORTHWOOD
 StreetDesc=Unit E3, Northwood Supa Ctr, Main Rd North, Chc,/ Resene paint, wallpaper and de
 Phone=+6433234492
-zip=Mon-Fri 7.30am-5pm, Sat 9am-4pm, Sun 10a
+zip=Mon-Fri 7.30am - 5pm; Sat 9am-4pm; Sun/P
 Data0=(-43.46073,172.62426)
 [END]
 
@@ -38130,7 +38113,7 @@ Type=0x2e08
 Label=RESENE COLORSHOP TIMARU
 StreetDesc=8 Elizabeth St, Timaru/ Resene paint, wallpaper and decorating accessories. Pain
 Phone=+6436884723
-zip=Mon-Fri 7.30am-5pm, Sat 9am-2pm
+zip=Mon-Fri 7.30am-5pm; Sat 9am-1pm
 Data0=(-44.39494,171.24829)
 [END]
 
@@ -38160,7 +38143,7 @@ Type=0x2e08
 Label=RESENE COLORSHOP INVERCARGILL
 StreetDesc=Cnr Arena Ave and Victoria Ave, Invercargill/ Resene paint, wallpaper and decora
 Phone=+6432182385
-zip=Mon-Fri 7.30am-5pm; Sat 9am-2pm
+zip=Mon-Fri 7.30am-5.30pm; Sat 9am-3pm
 Data0=(-46.40556,168.34316)
 [END]
 
@@ -43822,15 +43805,6 @@ Phone=+6437897289
 Data0=(-41.75799,171.59956)
 [END]
 
-;1101911
-[POI]
-Type=0x2C0A
-Label=BALD HILLS VINEYARD
-StreetDesc=Cornish Point Rd, Bannockburn/ Vinyard, Wine Tasting
-Phone=+6434453161
-Data0=(-45.07238,169.18879)
-[END]
-
 ;1101914
 [POI]
 Type=0x2f
@@ -48807,15 +48781,6 @@ Label=?DOMAINE JAQUIERY LTD
 StreetDesc=State Highway 6, Wanaka (Wanaka 16km Cromwell 36km)/ 
 Phone=+6421499990
 Data0=(-44.84029,169.31580)
-[END]
-
-;1104552
-[POI]
-Type=0x2f
-Label=DOMINATOR - ADVANCED DOOR SYSTEMS
-StreetDesc=17 Gordon Rd, Wanaka/ 
-Phone=+6434438258
-Data0=(-44.70410,169.14671)
 [END]
 
 ;1104553
@@ -56859,6 +56824,7 @@ Type=0x2f
 Label=MAINLAND PAINT & PRINTING INK
 StreetDesc=351 Selwyn St, Addington, Chc/ Resene ColorShop paint stockists
 Phone=+6433381312
+zip=Mon-Fri 8am-5.30pm; Sat 8.30am-4pm; Sun 
 Data0=(-43.54569,172.62165)
 [END]
 
@@ -57515,7 +57481,7 @@ Type=0x2f
 Label=MCLAREN MACHINERY LTD
 StreetDesc=9 Gladstone Rd, Mosgiel, Dud/ 
 Phone=+6434897080
-Data0=(-45.88445,170.35791)
+Data0=(-45.88647,170.35262)
 [END]
 
 ;1109363
@@ -77380,9 +77346,9 @@ Data0=(-46.23881,169.74065)
 [POI]
 Type=0x2e08
 Label=GARDEN PLACE ITM
-StreetDesc=1 McGlashan St, Mosgiel, Dud/ Building supplies for timber & hardware
-Phone=+6434892476
-Data0=(-45.88758,170.35282)
+StreetDesc=10 Quarry Rd, Mosgiel, Dud/ Building supplies for timber & hardware
+Phone=+6434898885
+Data0=(-45.88691,170.35415)
 [END]
 
 ;1118140
@@ -85874,15 +85840,6 @@ Phone=+6433324617
 Data0=(-43.56180,172.64480)
 [END]
 
-;1120977
-[POI]
-Type=0x2e
-Label=RADIUS PHARMACY CHURCH CORNER
-StreetDesc=376 Riccarton Rd, Church Corner, Chc/ Pharmacy, chemist
-Phone=+6433486397
-Data0=(-43.53169,172.57339)
-[END]
-
 ;1120989
 [POI]
 Type=0x2e
@@ -92415,10 +92372,10 @@ Data0=(-43.49838,172.56176)
 ;1123271
 [POI]
 Type=0x2b01
-Label=AJAX AVE MOTEL
-StreetDesc=8 Ajax Ave, Nelson/ Motel accommodation
+Label=AJAX AVE MOTEL - NELSON
+StreetDesc=11 Ajax Ave, Nelson/ Motel Accommodation, Nelson Central, NZ
 Phone=+6435488214
-Data0=(-41.26989,173.28585)
+Data0=(-41.26977,173.28603)
 [END]
 
 ;1123272
@@ -95026,6 +94983,7 @@ Data0=(-45.90443,170.52411)
 Type=0x2e
 Label=EAST TAIERI DAIRY & TAKEAWAYS
 StreetDesc=71 Main South Rd, East Taieri/ dairy, convenience store, takeaways, Lotto
+Phone=+6434897558
 Data0=(-45.89784,170.33713)
 [END]
 
@@ -95660,14 +95618,6 @@ StreetDesc=27A Gilkison St, Dud/ bakery
 Data0=(-45.85316,170.46841)
 [END]
 
-;1128584
-[POI]
-Type=0x2a05
-Label=INDIGO BAKERIES
-StreetDesc=9 Moray Place, Dud/ bakery
-Data0=(-45.87548,170.50241)
-[END]
-
 ;1128585
 [POI]
 Type=0x2f
@@ -95753,7 +95703,8 @@ Data0=(-45.90009,170.50382)
 Type=0x2f
 Label=J-TEE'S GOLF CENTRE
 StreetDesc=411 Gladstone Rd Sth, Mosgiel/ 
-Data0=(-45.87436,170.39381)
+Phone=+6434894653
+Data0=(-45.90225,170.30703)
 [END]
 
 ;1128596
@@ -107949,7 +107900,8 @@ Data0=(-43.52928,172.63680)
 [POI]
 Type=0x2a
 Label=SEVANTI RESTAURANT
-StreetDesc=70 Kendal Ave, Russley, Chc/ restaurant
+StreetDesc=70 Kendal Ave, Russley, Chc/ Licenced Restaurant
+Phone=+6433588810
 Data0=(-43.49794,172.57265)
 [END]
 
@@ -111049,9 +111001,9 @@ Data0=(-45.88857,170.50721)
 [POI]
 Type=0x2f
 Label=HIREPOOL MOSGIEL
-StreetDesc=Quarry Rd, Mosgiel/ Hire Equipment
+StreetDesc=12 Quarry Rd, Mosgiel/ Hire Equipment
 Phone=+6434896069
-Data0=(-45.88795,170.35420)
+Data0=(-45.88719,170.35422)
 [END]
 
 ;1132353
@@ -155856,9 +155808,9 @@ Data0=(-45.89522,170.49969)
 [POI]
 Type=0x2b02
 Label=MARINELAND HERITAGE HOUSE BED & BREAKFAST
-StreetDesc=28 Waikawa Rd, Picton/ B&B accommodation
+StreetDesc=28 Waikawa Rd, Picton 7220, Queen Charlotte Sound, Marlborough Sounds/ B&B accom
 Phone=+6435736429
-Data0=(-41.29089,174.00924)
+Data0=(-41.29055,174.00910)
 [END]
 
 ;1155700
@@ -160184,8 +160136,9 @@ Data0=(-44.88268,169.00200)
 [POI]
 Type=0x2b00
 Label=CARISBROOK MOTEL
-StreetDesc=169 South Rd, Caversham, Dud/ Accommodation
-Data0=(-45.89417,170.48668)
+StreetDesc=169 South Rd, Caversham 9012 Dud, Otago/ Accommodation. Fully equipped kitchens.
+Phone=+6434552167
+Data0=(-45.89403,170.48689)
 [END]
 
 ;1158932
@@ -164505,7 +164458,7 @@ Data0=(-43.54018,172.62423)
 Type=0x2f
 Label=NELSON PARAGLIDING
 StreetDesc=108a Queen St, Richmond, Nelson/ Paragliding, training, tandem flights, shop, ge
-Phone=+6435441182
+Phone=+6435441183
 Data0=(-41.34754,173.19408)
 [END]
 
@@ -182185,6 +182138,7 @@ Type=0x2e08
 Label=RESENE COLORSHOP ALEXANDRA
 StreetDesc=86 Centennial Ave, Alexandra/ Resene paint, wallpaper and decorating accessories
 Phone=+6434488137
+zip=Mon-Sat 8am-5pm; Sat 10am-12pm
 Data0=(-45.25076,169.38721)
 [END]
 
@@ -182194,6 +182148,7 @@ Type=0x2e08
 Label=RESENE COLORSHOP GREYMOUTH
 StreetDesc=80 Mackay St, Greymouth/ Resene paint, wallpaper and decorating accessories
 Phone=+6437685250
+zip=Mon-Fri 8am - 5pm; Sat 9.30am-12.30pm
 Data0=(-42.44882,171.21047)
 [END]
 
@@ -182203,6 +182158,7 @@ Type=0x2e08
 Label=RESENE COLORSHOP HAWARDEN
 StreetDesc=8 O'Carrolls Rd, Hawarden/ Resene paint, wallpaper and decorating accessories
 Phone=+6433144322
+zip=Mon-Fri 7.30am-6pm
 Data0=(-42.92502,172.64203)
 [END]
 
@@ -182212,6 +182168,7 @@ Type=0x2e08
 Label=RESENE COLORSHOP HILLMORTON
 StreetDesc=10 Clarence St South, Hillmorton/ Resene paint, wallpaper and decorating accesso
 Phone=+6433386212
+zip=Mon-Fri 7am - 5pm
 Data0=(-43.54359,172.61039)
 [END]
 
@@ -182221,6 +182178,7 @@ Type=0x2e08
 Label=RESENE COLORSHOP HOKITIKA
 StreetDesc=85 Revell St, Hokitika/ Resene paint, wallpaper and decorating accessories
 Phone=+6437558516
+zip=Mon-Fri 8am - 5pm; Sat 10am-12pm
 Data0=(-42.71731,170.96119)
 [END]
 
@@ -182240,6 +182198,7 @@ Type=0x2e08
 Label=RESENE COLORSHOP INVERCARGILL
 StreetDesc=65 Yarrow St, Invercargill/ Resene paint, wallpaper and decorating accessories
 Phone=+6432144079
+zip=Mon-Fri 7.30am - 5.30pm; Sat 9am-3pm
 Data0=(-46.40874,168.35191)
 [END]
 
@@ -182258,6 +182217,7 @@ Type=0x2e08
 Label=RESENE COLORSHOP RANGIORA
 StreetDesc=83 Victoria St, Rangiora/ Resene paint, wallpaper and decorating accessories
 Phone=+6433137326
+zip=Mon-Fri 8am-5.30pm; Sat 9am-12.30pm
 Data0=(-43.30386,172.59508)
 [END]
 
@@ -182267,6 +182227,7 @@ Type=0x2e08
 Label=RESENE COLORSHOP RICHMOND
 StreetDesc=315 Queen St, Richmond/ Resene paint, wallpaper and decorating accessories
 Phone=+6435449189
+zip=Mon-Sat 8am-5.30pm; Sat 9am-1pm
 Data0=(-41.33700,173.18185)
 [END]
 
@@ -196591,14 +196552,6 @@ StreetDesc=12 Kina Beach Rd, Tasman, Nelson/ Bed and Breakfast accommodation, B&
 Data0=(-41.19086,173.05489)
 [END]
 
-;1176621
-[POI]
-Type=0x2b02
-Label=ALMYRA AT KINA
-StreetDesc=193 Kina Peninsula Rd, Tasman, Nelson/ Bed and Breakfast accommodation, B&B
-Data0=(-41.17000,173.04823)
-[END]
-
 ;1176623
 [POI]
 Type=0x2b02
@@ -197294,7 +197247,8 @@ Data0=(-44.70496,169.10929)
 Type=0x2b01
 Label=BONNIE KNIGHTS MOTEL
 StreetDesc=18-20 Quarry Rd, Mosgiel, Dud/ Motel accommodation
-Data0=(-45.88675,170.35428)
+Phone=+6434892415
+Data0=(-45.88784,170.35434)
 [END]
 
 ;1176820
@@ -198565,7 +198519,7 @@ Data0=(-43.50464,172.72171)
 Type=0x2b00
 Label=KIMBERLEY HOUSE
 StreetDesc=25 Victoria Rd, Stepneyville, Nelson 7010/ Apartment self-contained accommodatio
-Phone=+6435468965
+Phone=+6435487621
 Data0=(-41.26831,173.26534)
 [END]
 
@@ -198796,9 +198750,9 @@ Data0=(-43.55852,172.59797)
 [POI]
 Type=0x2f
 Label=FINDLAY AND CO
-StreetDesc=Wanaka/ Chartered Accountants, Business Advisors
+StreetDesc=9 Cliff Wilson St, Wanaka/ Chartered Accountants, Business Advisors
 Phone=+6434434417
-Data0=(-44.69026,169.14165)
+Data0=(-44.69012,169.14093)
 [END]
 
 ;1177658
@@ -202445,9 +202399,10 @@ Data0=(-43.50758,172.62472)
 [POI]
 Type=0x2a
 Label=CHANTELLINIS CAFE AND BAR
-StreetDesc=Jollies Pass Rd Hanmer Springs 7395/ Restaurant
+StreetDesc=11 Jollies Pass Rd Hanmer Springs 7395/ Restaurant
 Phone=+6433157667
-Data0=(-42.48812,172.87593)
+zip=10am - 10:30pm 7 days
+Data0=(-42.52087,172.83175)
 [END]
 
 ;1179462
@@ -202672,9 +202627,9 @@ Data0=(-41.27296,173.27667)
 ;1179616
 [POI]
 Type=0x2f
-Label=POWERWORKS ELECTRICAL
-StreetDesc=45 Slater St Richmond Chc/ Christchurch Electricans, Electrical maintenace & rep
-Phone=+6433897529
+Label=POWERWORKS ELECTRICAL CHRISTCHURCH ELECTRICIANS
+StreetDesc=2 Pohutukawa Cres, Parklands, Chc 8083/ Christchurch Electricans, Electrical mai
+Phone=+6421844842
 Data0=(-43.51525,172.65277)
 [END]
 
@@ -202943,10 +202898,10 @@ Data0=(-41.22966,173.58267)
 ;1179786
 [POI]
 Type=0x2b00
-Label=ACCOMMODATION + NELSON TASMAN REGION
-StreetDesc=Kina Peninsula/ luxury, boutique coastal premium bed & breakfast & self containe
+Label=ALMYRA AT KINA
+StreetDesc=193 Kina Peninsula Rd, Tasman, Nelson/ luxury, boutique coastal premium bed & br
 Phone=+6435266840
-zip=0800-2200
+zip=8am-10pm
 Data0=(-41.17000,173.04746)
 [END]
 
@@ -202971,7 +202926,7 @@ Data0=(-43.96488,171.77312)
 ;1179817
 [POI]
 Type=0x2f0c
-Label=PUBLIC TOILET'S, LAKE HOOD
+Label=PUBLIC TOILETS LAKE HOOD
 StreetDesc=Lake Hood, Ashburton/ Public Toilet
 Data0=(-43.96397,171.77307)
 [END]
@@ -203148,5 +203103,126 @@ Type=0x2b00
 Label=HANMER SPRINGS ACCOMMODATION
 StreetDesc=7 Conical Hill Rd/ hanmer springs accommodation
 Data0=(-42.52035,172.83017)
+[END]
+
+;1180097
+[POI]
+Type=0x2f
+Label=MOSGIEL REGENCY MOTELS
+StreetDesc=54 Gordon Rd, Mosgiel./ Accomodation.
+Phone=+6434894711
+Data0=(-45.88093,170.35148)
+[END]
+
+;1180098
+[POI]
+Type=0x2f
+Label=MOSGIEL HEALTH CENTRE
+StreetDesc=21 Inglis St, Mosgiel./ General Practitioners, Health.
+Phone=+6434895135
+Data0=(-45.88288,170.34687)
+[END]
+
+;1180099
+[POI]
+Type=0x2C0A
+Label=BALD HILLS VINEYARD
+StreetDesc=46 Cornish Point Rd, Bannockburn, Central Otago/ Boutique winery producing fine 
+Phone=+6434453161
+zip=11a.m.-5p.m.
+Data0=(-45.07176,169.19183)
+[END]
+
+;1180103
+[POI]
+Type=0x2f
+Label=?WINDSOR DOORS CENTRAL
+StreetDesc=Frederick St, Wanaka/ For sale, installation and service - Windsor Doors, Custom
+Phone=+6434435366
+Data0=(-44.70796,169.15019)
+[END]
+
+;1180107
+[POI]
+Type=0x2a
+Label=MCDONALD'S RESTAURANT - RICHMOND FREESTANDER 24HR
+StreetDesc=321 Gladstone Rd, Richmond/ burgers, fast food, takeaways
+Phone=+6435437018
+zip=24 Hours
+Data0=(-41.33639,173.18106)
+[END]
+
+;1180108
+[POI]
+Type=0x2a
+Label=MCDONALD'S RESTAURANT - QUEENSTOWN, FRANKTON 24HR
+StreetDesc=1055-1063 Frankton Rd, Frankton, Queenstown/ Family restaurant. Burgers, fast fo
+Phone=+6434414257
+zip=24 Hours
+Data0=(-45.01613,168.72917)
+[END]
+
+;1180109
+[POI]
+Type=0x2a
+Label=MCDONALD'S RESTAURANT - GORE 24HR
+StreetDesc=140 Main St, Gore/ Family restaurant. Burgers, fast food, takeaways. McCafe cafe
+Phone=+6432039120
+zip=24 Hours
+Data0=(-46.10260,168.94286)
+[END]
+
+;1180112
+[POI]
+Type=0x2f
+Label=CUMULUS PARAGLIDING LTD, NELSON
+StreetDesc=7 Tuffnell St, Richmond, Nelson, New Zealand./ Paragliding Nelson,Tandem Paragli
+Phone=FreePhone0800359863
+zip=7 Days, 365 Day's a Year.
+Data0=(-41.34435,173.19893)
+[END]
+
+;1180141
+[POI]
+Type=0x2b00
+Label=BAY VISTA WATERFRONT MOTEL
+StreetDesc=307 Waikawa Rd, Waikawa 7220, Picton, Queen Charlotte Sound, Marlborough Sounds/
+Phone=+6435736733
+Data0=(-41.26933,174.04108)
+[END]
+
+;1180150
+[POI]
+Type=0x2f
+Label=RABBIT VIBRATORS
+StreetDesc=22 Hargest Cres, Sydenham 8023, New Zealand/ Rabbit Vibrators NZ Shop
+Phone=+6439290018
+Data0=(-43.54954,172.64465)
+[END]
+
+;1180152
+[POI]
+Type=0x2f
+Label=3 BEARS CAFE
+StreetDesc=61 High St, Renwick 7204, Blenheim, Marlborough/ Food, coffee, drinks, Zenbu Wi-
+Phone=+6435728716
+Data0=(-41.50833,173.82588)
+[END]
+
+;1180165
+[POI]
+Type=0x2a
+Label=RED BOWL
+StreetDesc=57 Mandeville St Riccarton 8011/ Restaurant
+Phone=+6433483688
+Data0=(-43.53367,172.60645)
+[END]
+
+;1180167
+[POI]
+Type=0x2f0c
+Label=WAIHOLA PUBLIC TOILETS.
+StreetDesc=Waihola pl. Waihola./ Community public toilets
+Data0=(-46.02291,170.09282)
 [END]
 

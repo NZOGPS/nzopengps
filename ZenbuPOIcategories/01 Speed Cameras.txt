@@ -1,3 +1,5 @@
+1180118	Mobile Speed Camera SH1 Pukerua Bay@100	Mobile Speed Camera - 100km/h		SH1, Pukerua Bay			174.876037	-41.05648	manual	1	2011-01-28T23:48:40+13:00	2011-01-28T23:48:40+13:00	ledgy	1
+1180119	Mobile Speed Camera SH1 Papakowhai@100	Mobile Speed Camera 100km/h		SH1, Papakowhai			174.86092	-41.112154	manual	0	2011-01-28T23:51:42+13:00	2011-01-28T23:53:07+13:00	ledgy	2
 1177570	Mobile Speed Camera Wellington Rd@50		http://www.police.govt.nz/	Marton			175.380249	-40.086921	manual	1	2010-08-22T22:22:09+12:00	2010-08-22T22:22:09+12:00	frankv	1
 1177571	Mobile Speed Camera Turakina@70		http://www.police.govt.nz/	turakina			175.212364	-40.043551	manual	1	2010-08-22T22:24:39+12:00	2010-08-22T22:24:39+12:00	frankv	1
 1177572	Mobile Speed Camera Turakina2 @70	Blue Hyundai van	http://www.police.govt.nz/	turakina			175.214907	-40.04732	manual	1	2010-08-22T22:26:48+12:00	2010-08-22T22:26:48+12:00	frankv	1

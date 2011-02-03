@@ -155,6 +155,7 @@
 1030000041058	Burkes Bush Road	Taitapu
 1030000041295	Russell Street	Eiffelton
 1030000041414	Jollie Street	Eiffelton
+1030000041504	QUARRY RD	Mount Somers (Canterbury, NZ)	3/02/2011 10:49:41 p.m.
 1030000041525	BRUCES RD	Ashburton Forks (Canterbury, NZ)	1/07/2010 9:02p.m.
 1030000041568	Church Street	Eiffelton
 1030000041584	Old Main South Road	Rakaia
@@ -190,6 +191,7 @@
 1030000042823	MILL RD	Fairlie (Canterbury, NZ)	28/05/2010 5:44p.m.
 1030000052352	Atom Lane	Woolston
 1030000052547	Cuba Street	Linwood
+1030000053319	STEWARD ST	Waimate (Canterbury, NZ)3/02/2011 10:31:34 p.m.
 1030000053323	Stowells Road	St Andrews
 1030000053913	National Mutual Arcade	Christchurch Central
 1030000054060	Grace Track	Eyrewell Forest

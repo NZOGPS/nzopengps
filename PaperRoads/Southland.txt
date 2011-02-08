@@ -180,3 +180,4 @@
 1030000058246	RIPON ST		Wreys Bush (Southland, NZ)		9:33 a.m. 6/02/2011
 1030000058047	FITZROY ST		Wreys Bush (Southland, NZ)		9:42 a.m. 6/02/2011
 1030000057654	DON ST			Wyndham (Southland, NZ)			1:19 a.m. 8/02/2011
+1030000057568	FIFTH ST		Kennington (Southland, NZ)		12:49 a.m. 9/02/2011

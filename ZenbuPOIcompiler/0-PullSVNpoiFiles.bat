@@ -1,0 +1,3 @@
+cd ..
+svn up
+pause

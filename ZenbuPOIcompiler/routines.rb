@@ -15,6 +15,11 @@ def preloadZenbuFile(path)
 
 	print "Loading Zenbu master data file... "
 
+	if !File.exists?(path) then
+		print "EXITING! File not found at #{path}\n"
+		exit
+	end
+	
 	CSV.foreach(path, {:encoding => 'UTF-8'}) do |row| #:headers => true would skip the first row but will return rows as FasterCSV::Row objects instead of Arrays = PITA
 	  zid = row[0]
  	  row.slice!(0) # remove zid from array as don't need it on right side of hash
@@ -398,6 +403,11 @@ def loadZIDsNotForMaps(p)
 # #####################
 # check for un-classified zids
 # #####################
+
+if !File.exists?(p) then
+	return
+end
+
 File.open(p){|infile|
 		while (line = infile.gets)
 			if line =~ /^(\d{7,8})\b.*/ # if it looks like a zid then anything else, grab zid
@@ -532,6 +542,11 @@ def loadCategories(p)
 #process each file in the ZenbuPOIcategories folder
 print "Loading categories... "
 
+	if !File.exists?(p) then
+		print "path to categories not found #{p}\n"
+		return
+	end
+	
 	Find.find(p) do |path|
 	  if FileTest.directory?(path)
 	    next # don't do anything with dirs in this folder
@@ -554,6 +569,10 @@ end
 # #####################
 
 def loadSingleCategory(path)
+	
+	if !File.exists?(path) then
+		return
+	end
 	
 	#extract POI type code from filename
 	poitype = File.basename(path,'.*')#e.g. poitype = "Public Office Government 0x3003"
@@ -590,19 +609,24 @@ end
 def loadConfirmedGuesses(path)
 	
 	print "Loading confirmed category guesses... "
-	
-	CSV.foreach(path, {:encoding => 'UTF-8', :col_sep => "\t"}) do |row| #:headers => true would skip the first row but will return rows as FasterCSV::Row objects instead of Arrays = PITA
-		zid = row[0]
-		category = row[1]
+		
+	if !File.exists?(path) then
+		File.open(path,'w').close
+	else
+		
+		CSV.foreach(path, {:encoding => 'UTF-8', :col_sep => "\t"}) do |row| #:headers => true would skip the first row but will return rows as FasterCSV::Row objects instead of Arrays = PITA
+			zid = row[0]
+			category = row[1]
 
-		if @category_hash.has_key?(zid) then
-			#print "#{zid} in multiple categories #{category} and #{@category_hash[zid]}. Using #{@category_hash[zid]}\n"
-			#just skip it, already confirmed
-			next
+			if @category_hash.has_key?(zid) then
+				#print "#{zid} in multiple categories #{category} and #{@category_hash[zid]}. Using #{@category_hash[zid]}\n"
+				#just skip it, already confirmed
+				next
+			end
+
+			@category_hash[zid] = category
+			@reporting['confirmed_guesses'] += 1
 		end
-
-		@category_hash[zid] = category
-		@reporting['confirmed_guesses'] += 1
 	end
 
 	print "#{@reporting['confirmed_guesses']}\n"

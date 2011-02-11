@@ -244,7 +244,7 @@ Type=0x2a07
 Label=SUBWAY QUEENSTOWN
 StreetDesc=Shop 5 Lakeland House, 36 Camp St, Queenstown/ Fast food restaurant, sandwiches,
 Phone=+6434428091
-Data0=(-45.03121,168.66069)
+Data0=(-45.03120,168.66069)
 [END]
 
 ;1000686
@@ -1257,7 +1257,6 @@ Data0=(-45.87894,170.50024)
 Type=0x2d02
 Label=SUBCULTURE
 StreetDesc=13 Church St, Queenstown/ bar, club
-Phone=03442SOUL
 Data0=(-45.03297,168.66115)
 [END]
 
@@ -1761,7 +1760,7 @@ Type=0x2c05
 Label=BELFAST SCHOOL
 StreetDesc=Main North Rd, Belfast, Chc/ State Co-Ed Primary, Intermediate School
 Phone=+6433238849
-Data0=(-43.45389,172.62795)
+Data0=(-43.45388,172.62795)
 [END]
 
 ;1008078
@@ -2977,7 +2976,7 @@ Type=0x2c05
 Label=GREYMOUTH HIGH SCHOOL
 StreetDesc=High St, Greymouth/ State Co-Ed Secondary School, Boarding Facilities
 Phone=+6437680472
-Data0=(-42.46238,171.19677)
+Data0=(-42.46238,171.19676)
 [END]
 
 ;1010745
@@ -3148,7 +3147,7 @@ Type=0x2c05
 Label=HEALTH CAMP SCHOOL (OTAGO-SOUTHLAND)
 StreetDesc=Teviot St, Roxburgh/ State Co-Ed Health Camp School
 Phone=+6434468690
-Data0=(-45.54623,169.31800)
+Data0=(-45.54623,169.31799)
 [END]
 
 ;1011172
@@ -3796,7 +3795,7 @@ Type=0x2c05
 Label=LINCOLN PRIMARY SCHOOL
 StreetDesc=North Belt, Lincoln/ State Co-Ed Primary, Intermediate School
 Phone=+6433252571
-Data0=(-43.63732,172.48688)
+Data0=(-43.63732,172.48687)
 [END]
 
 ;1013251
@@ -4462,7 +4461,7 @@ Type=0x2c05
 Label=NELSON COLLEGE FOR GIRLS PREP SCHOOL
 StreetDesc=Trafalgar St South, Nelson/ Private Girls Intermediate School, Boarding Faciliti
 Phone=+6435482194
-Data0=(-41.27915,173.28269)
+Data0=(-41.27914,173.28269)
 [END]
 
 ;1015288
@@ -5038,7 +5037,7 @@ Type=0x2c05
 Label=RANGI RURU GIRLS' SCHOOL
 StreetDesc=59 Hewitts Rd, Merivale, Chc/ Private Girls Intermediate, Secondary School, Boar
 Phone=+6439833700
-Data0=(-43.51939,172.61830)
+Data0=(-43.51938,172.61830)
 [END]
 
 ;1017955
@@ -6199,7 +6198,7 @@ Type=0x2c05
 Label=ST PETER CHANEL SCHOOL (MOTUEKA)
 StreetDesc=423 High St, Motueka/ State Integrated Co-Ed Primary, Intermediate School
 Phone=+6435287366
-Data0=(-41.12561,173.01061)
+Data0=(-41.12561,173.01060)
 [END]
 
 ;1020713
@@ -6280,7 +6279,7 @@ Type=0x2c05
 Label=STIRLING SCHOOL
 StreetDesc=Baker St, Stirling/ State Co-Ed Primary, Intermediate School
 Phone=+6434180540
-Data0=(-46.24830,169.78022)
+Data0=(-46.24830,169.78021)
 [END]
 
 ;1020902
@@ -7676,7 +7675,7 @@ Label=TAKE NOTE NORTHLANDS
 StreetDesc=Shop 40, Northlands Shopping Mall, 55 Main North Rd, Papanui, Chc/ bookshop, boo
 Phone=+6433525185
 zip=Mon-Wed 9am-6pm, Thu-Fri 9am-9pm, Sat-Su
-Data0=(-43.49171,172.61054)
+Data0=(-43.49171,172.61053)
 [END]
 
 ;1026523
@@ -7785,7 +7784,7 @@ Label=PAPER PLUS HORNBY SHOP
 StreetDesc=The Hub Hornby, 418 Main South Rd, Hornby, Chc/ bookshop, books
 Phone=+6433445050
 zip=Mon-Wed 9am-6pm, Thu-Fri 9am-6:30pm, Sat
-Data0=(-43.54335,172.52315)
+Data0=(-43.54335,172.52314)
 [END]
 
 ;1026740
@@ -8003,7 +8002,7 @@ Type=0x2e
 Label=WHITCOULLS CASHEL STREET
 StreetDesc=111 Cashel St, Chc/ bookshop, books, Lotto
 Phone=+6433794580
-Data0=(-43.53299,172.63588)
+Data0=(-43.53299,172.63587)
 [END]
 
 ;1027692
@@ -8012,7 +8011,7 @@ Type=0x2e
 Label=BENNETTS - CHRISTCHURCH POLYTECHNIC
 StreetDesc=Madras St, Chc/ bookshop, books
 Phone=+6433651394
-Data0=(-43.53862,172.64439)
+Data0=(-43.53862,172.64438)
 [END]
 
 ;1027699
@@ -8296,7 +8295,7 @@ Type=0x2e
 Label=LIQUOR KING DUNEDIN
 StreetDesc=Cnr Hanover & Cumberland Sts, Dud North/ liquor, beer, wine, spirits
 Phone=+6434775062
-Data0=(-45.87085,170.50918)
+Data0=(-45.87085,170.50917)
 [END]
 
 ;1028476
@@ -8494,7 +8493,7 @@ Label=OXFORD SUPERVALUE
 StreetDesc=52 Main St, Oxford/ supermarket, Lotto
 Phone=+6433124305
 zip=Mon - Fri, 8am - 7pm, Sat, 9am - 5pm, Su
-Data0=(-43.29790,172.19175)
+Data0=(-43.29790,172.19174)
 [END]
 
 ;1029043
@@ -8611,7 +8610,7 @@ Data0=(-43.50941,172.59001)
 [POI]
 Type=0x2e02
 Label=COUNTDOWN NORTHLANDS 24HR
-StreetDesc=Northlands Shopping Mall, 55 Main North Rd, Papanui, Christchur/ supermarket, Lo
+StreetDesc=Northlands Shopping Mall, 55 Main North Rd, Papanui, Chc/ supermarket, groceries
 Phone=+6433523664
 zip=Mon - Sun, 24 hours
 Data0=(-43.49162,172.61180)
@@ -8704,7 +8703,7 @@ Label=FERRYMEAD WOOLWORTHS
 StreetDesc=999 Ferry Rd, Chc/ supermarket
 Phone=+6433848420
 zip=Mon - Sun, 7am - 10pm
-Data0=(-43.55664,172.70227)
+Data0=(-43.55663,172.70227)
 [END]
 
 ;1029204
@@ -9546,7 +9545,7 @@ Type=0x2e
 Label=SUPER LIQUOR LORNEVILLE
 StreetDesc=Riverton Wallacetown Hwy, Lorneville/ liquor, beer, wine, spirits
 Phone=+6432358033
-Data0=(-46.34524,168.34218)
+Data0=(-46.34524,168.34217)
 [END]
 
 ;1031710
@@ -10637,7 +10636,7 @@ Label=SHELL LANCASTER PARK 24HR
 StreetDesc=515 Moorhouse Ave, Chc/ Shell petrol station
 Phone=+6433667399
 zip=24hrs
-Data0=(-43.53976,172.65277)
+Data0=(-43.53975,172.65277)
 [END]
 
 ;1035098
@@ -11469,7 +11468,7 @@ Label=LIQUORLAND MOSGIEL
 StreetDesc=6 Gordon Rd, Mosgiel/ liquor, beer, wines, spirits
 Phone=+6434895062
 zip=Monday 10:00am-10:00pm, Tuesday 10:00am-
-Data0=(-45.88471,170.35355)
+Data0=(-45.88471,170.35354)
 [END]
 
 ;1037695
@@ -11841,7 +11840,7 @@ Data0=(-46.10311,168.94251)
 Type=0x2f01
 Label=MOBIL HAGLEY SOUTH
 StreetDesc=Cnr Moorhouse Ave & Lincoln Rd, Addington, Chc/ Mobil petrol station, carwash
-Data0=(-43.54025,172.61716)
+Data0=(-43.54025,172.61715)
 [END]
 
 ;1039053
@@ -12368,6 +12367,7 @@ Type=0x2f01
 Label=ARTHUR'S PASS CAFE & STORE
 StreetDesc=85 West Coast Rd, Arthur's Pass 7875/ Cafe, food, tearooms, beer, wine, coffee, 
 Phone=+6433189235
+zip=7 days 7am-7pm
 Data0=(-42.93945,171.56146)
 [END]
 
@@ -12909,7 +12909,7 @@ Type=0x2f01
 Label=CALTEX AVENAL
 StreetDesc=314 Dee St, Invercargill/ Caltex petrol station
 Phone=+6432189232
-Data0=(-46.39974,168.34701)
+Data0=(-46.39973,168.34700)
 [END]
 
 ;1042063
@@ -13992,7 +13992,7 @@ Label=HOKITIKA POSTSHOP
 StreetDesc=93 Revell St, Hokitika/ post office, KiwiBank banking
 Phone=+6437568034
 zip=Monday 8:30am-5pm, Tuesday 8:30am-5pm, W
-Data0=(-42.71714,170.96145)
+Data0=(-42.71714,170.96144)
 [END]
 
 ;1045808
@@ -14282,7 +14282,7 @@ Label=SOUTH INVERCARGILL POSTSHOP
 StreetDesc=253 Elles Rd, Invercargill/ post office, KiwiBank banking
 Phone=+6432141747
 zip=Monday 8:30am-5:30pm, Tuesday 8:30am-5:3
-Data0=(-46.42761,168.36126)
+Data0=(-46.42760,168.36125)
 [END]
 
 ;1046844
@@ -14697,7 +14697,7 @@ Label=REBEL SPORT-CHRISTCHURCH
 StreetDesc=Cnr Colombo St & Moorhouse Ave, Chc/ Sports gear & apparel, Fitness Equipment
 Phone=+6433531350
 zip=Mon-Thurs 9.00am-5.30pm, Friday (Late Ni
-Data0=(-43.53957,172.63614)
+Data0=(-43.53957,172.63613)
 [END]
 
 ;1048216
@@ -14887,7 +14887,7 @@ Label=FLIGHT CENTRE INVERCARGILL
 StreetDesc=Kelvin Hotel, Esk St, Invercargill/ travel agent
 Phone=+6432143232
 zip=Mon-Thurs 9:00-5:30, Fri 9:00-5:00, Sat 
-Data0=(-46.41198,168.35042)
+Data0=(-46.41198,168.35041)
 [END]
 
 ;1048356
@@ -15237,7 +15237,7 @@ Type=0x2e0b
 Label=BOND AND BOND NELSON
 StreetDesc=121 Trafalgar St, Nelson/ appliances, whiteware, computers, phones
 Phone=+6435459900
-zip=Mon-Thu 9am-5.30pm; Fri 9am-7pm; Sat 9am
+zip=MonThu 9am5.30pm; Fri 9am7pm; Sat 9am5pm
 Data0=(-41.27158,173.28428)
 [END]
 
@@ -15247,7 +15247,7 @@ Type=0x2e0b
 Label=BOND AND BOND MOORHOUSE
 StreetDesc=166 Moorhouse Ave, Chc/ appliances, whiteware, computers, phones
 Phone=+6433798022
-zip=Mon-Thu 9:30-6pm; Fri 9am-8pm; Sat 9am-6
+zip=MonThu 9:306pm; Fri 9am8pm; Sat 9am6pm; 
 Data0=(-43.54014,172.62946)
 [END]
 
@@ -15257,7 +15257,7 @@ Type=0x2e0b
 Label=BOND AND BOND RICCARTON
 StreetDesc=Westfield Shoppingtown Riccarton, 129 Riccarton Rd, Chc/ appliances, whiteware, 
 Phone=+6433489884
-zip=Mon-Wed 9am-6pm; Thurs-Fri 9am-9pm; Sat 
+zip=MonWed 9am6pm; ThursFri 9am9pm; Sat 9am6
 Data0=(-43.53102,172.59698)
 [END]
 
@@ -15267,7 +15267,7 @@ Type=0x2e0b
 Label=BOND AND BOND SHIRLEY
 StreetDesc=Shop 5, The Palms Shopping Ctr, Shirley, Chc/ appliances, whiteware, computers, 
 Phone=+6433854880
-zip=Mon-Wed 9am-6pm; Thurs-Fri 9am-9pm; Sat 
+zip=MonWed 9am6pm; ThursFri 9am9pm; Sat 9am6
 Data0=(-43.50620,172.66453)
 [END]
 
@@ -15277,7 +15277,7 @@ Type=0x2e0b
 Label=BOND AND BOND TIMARU
 StreetDesc=77 Sophia St, Timaru/ appliances, whiteware, computers, phones
 Phone=+6436886880
-zip=Mon-Fri 9.30am-5.30pm; Sat-Sun 10am-4pm
+zip=MonFri 9.30am5.30pm; SatSun 10am4pm
 Data0=(-44.39484,171.25030)
 [END]
 
@@ -16529,7 +16529,7 @@ Type=0x2e02
 Label=WAIKARI FOUR SQUARE SUPERMARKET
 StreetDesc=95 Princes St, Waikari/ supermarket, groceries
 Phone=+6433144048
-Data0=(-42.96719,172.68512)
+Data0=(-42.96719,172.68511)
 [END]
 
 ;1054642
@@ -17175,7 +17175,7 @@ Label=AA CENTRE - TIMARU
 StreetDesc=26 Church St, Timaru/ Travel advice, maps, accommodation guide, drivers licencin
 Phone=+6498333700
 zip=Mon-Fri 9am-5pm except Tue 9.30am-5pm, S
-Data0=(-44.39683,171.25031)
+Data0=(-44.39683,171.25030)
 [END]
 
 ;1056840
@@ -17287,7 +17287,7 @@ Type=0x2e
 Label=RAY WHITE MOSGIEL
 StreetDesc=2 Factory Rd, Mosgiel, Dud/ Real estate agency
 Phone=+6434897410
-Data0=(-45.87384,170.34836)
+Data0=(-45.87384,170.34835)
 [END]
 
 ;1057358
@@ -17696,7 +17696,7 @@ Type=0x2f11
 Label=LAKER HOUSE OF TRAVEL GORE
 StreetDesc=30 Main St, Gore/ Travel agents
 Phone=+6432089308
-Data0=(-46.09951,168.94525)
+Data0=(-46.09951,168.94524)
 [END]
 
 ;1058492
@@ -17813,7 +17813,7 @@ Type=0x2a0e
 Label=STARBUCKS GEORGE STREET
 StreetDesc=Shop 2, Penrose's Bldg, 207 George St, Dud/ cafe
 Phone=+6434740329
-Data0=(-45.87140,170.50485)
+Data0=(-45.87139,170.50485)
 [END]
 
 ;1059031
@@ -17849,7 +17849,7 @@ Type=0x2e
 Label=STAR MART CRYSTAL PLAZA
 StreetDesc=108 Gloucester St, Chc/ convenience store, groceries
 Phone=+6433791580
-Data0=(-43.53000,172.63557)
+Data0=(-43.52999,172.63557)
 [END]
 
 ;1059185
@@ -18129,7 +18129,7 @@ Label=REPCO TIMARU
 StreetDesc=39A Heaton St, Timaru/ Automotive parts, Car parts, Auto accessories
 Phone=+6436884059
 zip=8am-5.30pm Mon-Sat, 9am-5pm Sun
-Data0=(-44.40143,171.25210)
+Data0=(-44.40143,171.25209)
 [END]
 
 ;1059983
@@ -18332,7 +18332,7 @@ Data0=(-43.76234,172.29796)
 Type=0x2f06
 Label=BANK OF NEW ZEALAND - BNZ LYTTELTON (B&A)
 StreetDesc=26 London St, Lyttelton/ Bank branch, ATM
-Data0=(-43.60253,172.72146)
+Data0=(-43.60252,172.72146)
 [END]
 
 ;1060620
@@ -19233,7 +19233,7 @@ Type=0x2e05
 Label=HURST & TAYLOR  AMCAL PHARMACY
 StreetDesc=512 Main Rd, Stoke, Nelson/ pharmacy, chemist
 Phone=+6435479689
-Data0=(-41.31263,173.23411)
+Data0=(-41.31263,173.23410)
 [END]
 
 ;1063504
@@ -19279,7 +19279,7 @@ Type=0x2e05
 Label=TAIERI AMCAL PHARMACY
 StreetDesc=2 Factory Rd, Mosgiel/ pharmacy, chemist
 Phone=+6434895171
-Data0=(-45.87384,170.34836)
+Data0=(-45.87384,170.34835)
 [END]
 
 ;1063658
@@ -20978,7 +20978,7 @@ Label=WESTPAC WINDSOR (B&A)
 StreetDesc=66 Windsor St, Invercargill/ Bank branch, ATM
 Phone=0800400600
 zip=Mon-Tue 9am-4.30pm, Wed 9.30am-4.30pm, T
-Data0=(-46.39495,168.36543)
+Data0=(-46.39494,168.36543)
 [END]
 
 ;1068887
@@ -21360,7 +21360,7 @@ Type=0x2e
 Label=L.J. HOOKER WANAKA
 StreetDesc=101 Ardmore St, Wanaka/ Real estate agents
 Phone=+6434437191
-Data0=(-44.69487,169.13543)
+Data0=(-44.69487,169.13542)
 [END]
 
 ;1069734
@@ -21388,15 +21388,6 @@ Label=L.J. HOOKER MOSGIEL
 StreetDesc=9 Factory Rd, Mosgiel/ Real estate agents
 Phone=+6434896800
 Data0=(-45.87340,170.34881)
-[END]
-
-;1069755
-[POI]
-Type=0x2e
-Label=L.J. HOOKER RICHMOND
-StreetDesc=272 Queen St, Richmond/ Real estate agents
-Phone=+6435444880
-Data0=(-41.33847,173.18415)
 [END]
 
 ;1069762
@@ -21450,7 +21441,7 @@ Type=0x2e
 Label=L.J. HOOKER WAIMATE
 StreetDesc=83 Queen St, Waimate/ Real estate agents
 Phone=+6436897974
-Data0=(-44.73355,171.04741)
+Data0=(-44.73355,171.04740)
 [END]
 
 ;1069804
@@ -21486,7 +21477,7 @@ Type=0x2e
 Label=PROFESSIONALS FISKEN & ASSOCIATES LTD MREINZ QUEENSTOWN
 StreetDesc=26 Shotover St, Queenstown/ Real estate agents
 Phone=+6434427747
-Data0=(-45.03122,168.66023)
+Data0=(-45.03122,168.66022)
 [END]
 
 ;1070833
@@ -21513,7 +21504,7 @@ Type=0x2e
 Label=PROFESSIONALS KENNARD REAL ESTATE LTD
 StreetDesc=33 Halswell Rd, Chc/ Real estate agents
 Phone=+6433385924
-Data0=(-43.55484,172.59316)
+Data0=(-43.55484,172.59315)
 [END]
 
 ;1070973
@@ -21558,7 +21549,7 @@ Type=0x2e
 Label=PROFESSIONALS TOWNSEND REAL ESTATE LTD MREINZ
 StreetDesc=211 Thames St, Oamaru/ Real estate agents
 Phone=+6434349880
-Data0=(-45.09614,170.97210)
+Data0=(-45.09614,170.97209)
 [END]
 
 ;1071274
@@ -22269,7 +22260,7 @@ Label=GLOBAL VILLAGE
 StreetDesc=42-54 Cowper St, Greymouth/ Backpacker accommodation. BBH Hot spa in a magical p
 Phone=+6437687272
 zip=Reception: 9:00-11:30am, 1:30-2:00pm, an
-Data0=(-42.45877,171.20066)
+Data0=(-42.45876,171.20066)
 [END]
 
 ;1073486
@@ -22854,7 +22845,7 @@ Type=0x2b00
 Label=SPIRAL COTTAGE WOMEN'S BACKPACKER
 StreetDesc=54 Teal Valley Rd, Hira, Nelson/ Backpacker accommodation
 Phone=+6435451466
-Data0=(-41.23085,173.39626)
+Data0=(-41.23085,173.39625)
 [END]
 
 ;1074375
@@ -23031,7 +23022,7 @@ Data0=(-43.52970,172.66582)
 ;1074536
 [POI]
 Type=0x2b00
-Label=AKRON LODGE
+Label=AT THE RIGHT PLACE
 StreetDesc=85 Bealey Ave, Chc/ Backpacker accommodation
 Phone=0800778787
 Data0=(-43.52065,172.63096)
@@ -23539,7 +23530,7 @@ Type=0x2b00
 Label=PUNAKAIKI BEACH HOSTEL
 StreetDesc=4 Webb St, Punakaiki/ Backpacker accommodation
 Phone=+6437311852
-Data0=(-42.10822,171.33529)
+Data0=(-42.10822,171.33528)
 [END]
 
 ;1075201
@@ -23646,9 +23637,9 @@ Data0=(-42.11843,171.86050)
 [POI]
 Type=0x2b00
 Label=VILLA ROSE BACKPACKERS
-StreetDesc=79 Scotland St, Roxburgh/ Backpacker accommodation
+StreetDesc=79 Scotland St, Roxburgh 9500, Central Otago/ Backpacker accommodation. Studios.
 Phone=+6434468761
-Data0=(-45.53933,169.31246)
+Data0=(-45.53934,169.31244)
 [END]
 
 ;1075425
@@ -23667,7 +23658,7 @@ Label=MOUNTAIN VIEW BACKPACKERS
 StreetDesc=7 Russell St, Wanaka/ Backpacker accommodation. BBH member. Zenbu Wi-Fi wireless
 Phone=+6434439010
 zip=Reception hours 8.30am - 12.30pm and 3.3
-Data0=(-44.69551,169.13955)
+Data0=(-44.69551,169.13954)
 [END]
 
 ;1075439
@@ -23829,7 +23820,7 @@ Type=0x2b00
 Label=THE ASYLUM LODGE
 StreetDesc=36 Russell Rd, Seacliff/ Backpacker accommodation
 Phone=+6434658123
-Data0=(-45.67703,170.62280)
+Data0=(-45.67703,170.62279)
 [END]
 
 ;1076251
@@ -23949,7 +23940,7 @@ Label=WAREHOUSE STATIONERY LINWOOD
 StreetDesc=250 Linwood Ave, Linwood, Chc/ Office supplies, furniture, computer & stationery
 Phone=+6433812746
 zip=8:30am - 6:00pm, weekdays. 9:00am - 5:00
-Data0=(-43.53408,172.67295)
+Data0=(-43.53408,172.67294)
 [END]
 
 ;1076335
@@ -24149,7 +24140,7 @@ Label=TOWER MUSIC BLENHEIM
 StreetDesc=80 Market St, Blenheim/ Music, CDs, DVDs, Music Accessories
 Phone=+6435786561
 zip=Mon: 9am-6pm, Tue: 9am-6pm, Wed: 9am-6pm
-Data0=(-41.51338,173.95652)
+Data0=(-41.51338,173.95651)
 [END]
 
 ;1076853
@@ -24188,7 +24179,7 @@ Label=BRUMBY'S HORNBY MALL
 StreetDesc=Shop 2A, The Hub Hornby, 418 Main South Rd, Hornby, Chc/ Bakery
 Phone=+6433441016
 zip=Mon-Wed 9am-6pm, Thu-Fri 9am-6:30pm, Sat
-Data0=(-43.54335,172.52315)
+Data0=(-43.54335,172.52314)
 [END]
 
 ;1077245
@@ -24225,7 +24216,7 @@ Label=COFFEE CULTURE MAIN NORTH ROAD
 StreetDesc=286 Main North Rd, Redwood, Chc/ Coffee shop, cafe
 Phone=+6433540407
 zip=7 days early-late
-Data0=(-43.47784,172.61708)
+Data0=(-43.47784,172.61707)
 [END]
 
 ;1077476
@@ -24414,7 +24405,7 @@ Type=0x3008
 Label=OHAI VOLUNTEER FIRE BRIGADE
 StreetDesc=61 Birchwood Rd, Ohai/ New Zealand Fire Service. Fire station
 Phone=+6432254867
-Data0=(-45.93202,167.96047)
+Data0=(-45.93202,167.96046)
 [END]
 
 ;1077770
@@ -24612,7 +24603,7 @@ Type=0x3008
 Label=NEW ZEALAND FIRE SERVICE CLYDE
 StreetDesc=44 Sunderland St, Clyde/ fire station
 Phone=+6434492813
-Data0=(-45.18725,169.31747)
+Data0=(-45.18725,169.31746)
 [END]
 
 ;1078190
@@ -24909,7 +24900,7 @@ Type=0x3008
 Label=NEW ZEALAND FIRE SERVICE OUTRAM
 StreetDesc=5 Bell St, Outram/ fire station
 Phone=+6434861671
-Data0=(-45.86075,170.23079)
+Data0=(-45.86075,170.23078)
 [END]
 
 ;1078694
@@ -24999,7 +24990,7 @@ Type=0x3008
 Label=NEW ZEALAND FIRE SERVICE NASEBY
 StreetDesc=Cnr Ness & Tay Streets, Naseby/ fire station
 Phone=+6434449987
-Data0=(-45.02306,170.14617)
+Data0=(-45.02306,170.14616)
 [END]
 
 ;1078862
@@ -25152,7 +25143,7 @@ Type=0x3008
 Label=NEW ZEALAND FIRE SERVICE THORNBURY
 StreetDesc=49 Foster Rd, Thornbury/ fire station
 Phone=+6432246018
-Data0=(-46.28824,168.09468)
+Data0=(-46.28824,168.09467)
 [END]
 
 ;1079086
@@ -25909,7 +25900,7 @@ Type=0x3001
 Label=NEW ZEALAND POLICE CHRISTCHURCH CENTRAL
 StreetDesc=cnr Hereford St and Cambridge Terrace, Chc/ police
 Phone=+6433637400
-Data0=(-43.53233,172.63247)
+Data0=(-43.53233,172.63246)
 [END]
 
 ;1080836
@@ -25981,7 +25972,7 @@ Type=0x3001
 Label=NEW ZEALAND POLICE DUNEDIN SOUTH COMMUNITY POLICING CENTRE
 StreetDesc=77 Macandrew Rd, Dud/ police
 Phone=+6434551199
-Data0=(-45.89697,170.49995)
+Data0=(-45.89697,170.49994)
 [END]
 
 ;1081025
@@ -26116,7 +26107,7 @@ Type=0x3001
 Label=NEW ZEALAND POLICE HORNBY (HQ)
 StreetDesc=9-13 Tower St, Hornby/ police
 Phone=+6433441800
-Data0=(-43.54449,172.52681)
+Data0=(-43.54449,172.52680)
 [END]
 
 ;1081403
@@ -26845,7 +26836,7 @@ Type=0x2b03
 Label=OMARAMA TOP 10 HOLIDAY PARK
 StreetDesc=Cnr State Highways 8 and 83, Omarama/ Accommodation, Camping, Motor Camp
 Phone=0800662726
-Data0=(-44.48757,169.96378)
+Data0=(-44.48757,169.96377)
 [END]
 
 ;1083398
@@ -27374,7 +27365,7 @@ Label=SMITHS MITRE 10 HOME & TRADE BECKENHAM
 StreetDesc=264 Colombo St, Beckenham, Chc/ Hardware, Building Supplies, Plumbing
 Phone=+6433327557
 zip=7:30am - 6:00pm Mon to Fri, Sat 8:00am -
-Data0=(-43.55124,172.63695)
+Data0=(-43.55124,172.63694)
 [END]
 
 ;1084511
@@ -27714,7 +27705,7 @@ Label=FIRESTONE DIRECT - BLENHEIM
 StreetDesc=37 Grove Rd, Blenheim/ Wheel Alignment & Balancing, Puncture Repair, 24hr Callou
 Phone=+6435788595
 zip=Mon-Fri 8am-5pm, Sat 9am-12 noon
-Data0=(-41.50719,173.95924)
+Data0=(-41.50718,173.95924)
 [END]
 
 ;1085379
@@ -28143,7 +28134,7 @@ Type=0x2b01
 Label=HORORATA HOTEL
 StreetDesc=15 Hororata Rd, Hororata/ Pub, Bar, Accommodation, Mini golf, TAB Self service o
 Phone=+6433180841
-Data0=(-43.53720,171.95312)
+Data0=(-43.53720,171.95311)
 [END]
 
 ;1086730
@@ -28861,7 +28852,7 @@ Type=0x2d05
 Label=MAUNGATI GOLF CLUB
 StreetDesc=Craigmore Valley Rd, Maungati, Timaru/ golf course, 9 holes
 Phone=+6436129805
-Data0=(-44.45238,170.98553)
+Data0=(-44.45238,170.98552)
 [END]
 
 ;1088396
@@ -29320,7 +29311,7 @@ Type=0x2d05
 Label=TE ANAU GOLF CLUB
 StreetDesc=Te Anau/ golf course, 18 holes
 Phone=+6432497474
-Data0=(-45.44354,167.70124)
+Data0=(-45.44354,167.70123)
 [END]
 
 ;1089446
@@ -29465,7 +29456,7 @@ Type=0x2d05
 Label=WAIMAIRI BEACH GOLF CLUB
 StreetDesc=460 Bower Ave/ golf course, 18 holes
 Phone=+6433830418
-Data0=(-43.48169,172.71199)
+Data0=(-43.48169,172.71198)
 [END]
 
 ;1089705
@@ -30725,7 +30716,7 @@ Type=0x2b01
 Label=THE COMMERCIAL-CYBERROX
 StreetDesc=106 Scotland St, Roxburgh/ hotel Backpackers
 Phone=+6434468160
-Data0=(-45.54079,169.31528)
+Data0=(-45.54078,169.31528)
 [END]
 
 ;1091994
@@ -30752,7 +30743,7 @@ Type=0x2b01
 Label=WAIPIATA COUNTRY HOTEL
 StreetDesc=29 Main St, Waipiata/ Hotel
 Phone=+6434449470
-Data0=(-45.18404,170.16023)
+Data0=(-45.18404,170.16022)
 [END]
 
 ;1092015
@@ -30865,7 +30856,7 @@ Type=0x2a0e
 Label=THE OLD BAKERY B&B
 StreetDesc=37 Swindon St, Ophir/ B&B accommodation, Bed & Breakfast
 Phone=+6434473704
-Data0=(-45.11005,169.60439)
+Data0=(-45.11004,169.60439)
 [END]
 
 ;1092260
@@ -31331,7 +31322,7 @@ Label=POSTIE+ HORNBY
 StreetDesc=The Hub Hornby, 418 Main South Rd, Hornby, Chc/ mens, womens, childrens clothing
 Phone=+6433497054
 zip=Mon-Wed 9am-6pm, Thu-Fri 9am-6:30pm, Sat
-Data0=(-43.54335,172.52315)
+Data0=(-43.54335,172.52314)
 [END]
 
 ;1092918
@@ -31340,7 +31331,7 @@ Type=0x2e
 Label=POSTIE+ INVERCARGILL
 StreetDesc=42 Tay St, Invercargill/ mens, womens, childrens clothing & accessories
 Phone=+6432183899
-Data0=(-46.41282,168.34961)
+Data0=(-46.41282,168.34960)
 [END]
 
 ;1092988
@@ -31467,7 +31458,7 @@ Type=0x2e
 Label=BABY CITY INVERCARGILL
 StreetDesc=42 Tay St, Invercargill/ baby and mother care products
 Phone=+6432183899
-Data0=(-46.41282,168.34961)
+Data0=(-46.41282,168.34960)
 [END]
 
 ;1093436
@@ -32161,7 +32152,7 @@ Type=0x2e
 Label=HARCOURTS QUEENSTOWN
 StreetDesc=39 Shotover St, Queenstown/ Real estate agents
 Phone=+6434410777
-Data0=(-45.03131,168.65960)
+Data0=(-45.03131,168.65959)
 [END]
 
 ;1093951
@@ -32396,15 +32387,6 @@ Label=LONE STAR CAFE & BAR NELSON
 StreetDesc=90 Hardy St, Nelson/ Licensed restaurant & bar
 Phone=+6435481441
 Data0=(-41.27439,173.28115)
-[END]
-
-;1094185
-[POI]
-Type=0x2a
-Label=LONE STAR CAFE & BAR CHRISTCHURCH CITY
-StreetDesc=26 Manchester St, Chc/ Licensed restaurant & bar
-Phone=+6433657086
-Data0=(-43.53881,172.63982)
 [END]
 
 ;1094186
@@ -32699,7 +32681,7 @@ Type=0x2a07
 Label=VICTORIA SEAFOOD BAR & PIZZA
 StreetDesc=96 Victoria St, Rangiora, North Canterbury/ Restaurant, pizza, fish & chips, tak
 Phone=+6433138116
-Data0=(-43.30440,172.59565)
+Data0=(-43.30439,172.59565)
 [END]
 
 ;1094318
@@ -33150,7 +33132,7 @@ Type=0x3002
 Label=EASTERN PHARMACY ARANUI
 StreetDesc=317 Pages Rd, Aranui, Chc/ Pharmacy, Post Shop
 Phone=+6433888700
-Data0=(-43.51751,172.70027)
+Data0=(-43.51750,172.70027)
 [END]
 
 ;1094494
@@ -33363,7 +33345,7 @@ Type=0x2f
 Label=CAVELL LEITCH PRINGLE & BOYLE
 StreetDesc=Clarendon Tower , L 15, Corner Oxford Terrace & Worcester St, Chc/ Barristers an
 Phone=+6433799940
-Data0=(-43.53116,172.63409)
+Data0=(-43.53116,172.63408)
 [END]
 
 ;1094567
@@ -33527,7 +33509,7 @@ Type=0x2f
 Label=TIMPANY WALTON
 StreetDesc=11 Strathallan St, Timaru/ Lawyers
 Phone=+6436886056
-Data0=(-44.39495,171.25382)
+Data0=(-44.39494,171.25382)
 [END]
 
 ;1094685
@@ -33754,7 +33736,7 @@ Type=0x2a0e
 Label=WINNIES
 StreetDesc=7-9 The Mall, Queenstown/ Gourmet Pizza Restaurant & Bar
 Phone=+6434428635
-Data0=(-45.03262,168.66072)
+Data0=(-45.03261,168.66072)
 [END]
 
 ;1094895
@@ -34072,7 +34054,7 @@ Label=GORDON HARRIS CHRISTCHURCH
 StreetDesc=136 Worcester St, Chc/ Art & Graphic Supplies
 Phone=+6433773617
 zip=Mon-Fri 8.30am-5.30pm, Sat 9.00am-4.00pm
-Data0=(-43.53108,172.64063)
+Data0=(-43.53108,172.64062)
 [END]
 
 ;1095416
@@ -34676,7 +34658,6 @@ Data0=(-43.49186,172.61093)
 Type=0x2e07
 Label=CUE CLOTHING CASHEL ST
 StreetDesc=109 Cashel St, Chc/ Women's fashion
-Phone=33664424
 Data0=(-43.53315,172.63571)
 [END]
 
@@ -34685,7 +34666,6 @@ Data0=(-43.53315,172.63571)
 Type=0x2e07
 Label=CUE CLOTHING RICCARTON WESTFIELD
 StreetDesc=Westfield Riccarton, Chc/ Women's fashion
-Phone=33434275
 Data0=(-43.53081,172.59767)
 [END]
 
@@ -35379,7 +35359,7 @@ Label=HISHON LIGHTHOUSE
 StreetDesc=169 Dee St, Invercargill/ lamps, lights, light fittings. Lighting design service
 Phone=+6432189669
 zip=Mon-Fri 8.30am-5.30pm, Sat 10am-1pm
-Data0=(-46.40837,168.34765)
+Data0=(-46.40837,168.34764)
 [END]
 
 ;1096166
@@ -35490,7 +35470,7 @@ Type=0x2f11
 Label=BROOKER UNITED TRAVEL
 StreetDesc=346 George St, Dud/ Travel agents
 Phone=+6434773383
-Data0=(-45.86895,170.50675)
+Data0=(-45.86895,170.50674)
 [END]
 
 ;1096244
@@ -35668,10 +35648,10 @@ Data0=(-41.33945,173.18453)
 ;1096321
 [POI]
 Type=0x2f11
-Label=HARVEY WORLD TRAVEL MOTUEKA
+Label=MONDO MOTUEKA
 StreetDesc=183 High St, Motueka/ Travel agents
 Phone=+6435281550
-Data0=(-41.11198,173.01131)
+Data0=(-41.11198,173.01121)
 [END]
 
 ;1096361
@@ -35689,7 +35669,7 @@ Type=0x2f11
 Label=HARVEY WORLD TRAVEL NELSON
 StreetDesc=153 Trafalgar St, Nelson, Nelson/ Travel agents
 Phone=+6435489079
-Data0=(-41.27212,173.28424)
+Data0=(-41.27212,173.28423)
 [END]
 
 ;1096364
@@ -35704,8 +35684,8 @@ Data0=(-41.27278,173.28310)
 ;1096368
 [POI]
 Type=0x2f11
-Label=HARVEY WORLD TRAVEL CHRISTCHURCH, RICCARTON
-StreetDesc=47 Mandeville St, PO Box 8933, Riccarton/ Travel agents
+Label=MONDO RICCARTON
+StreetDesc=47 Mandeville St, Riccarton, Chc/ Travel agents
 Phone=+6433410170
 Data0=(-43.53415,172.60650)
 [END]
@@ -36170,7 +36150,7 @@ Type=0x2e
 Label=HALLENSTEINS NORTHLANDS
 StreetDesc=Northlands Shopping Ctr, Papanui, Chc/ Guy's clothing
 Phone=+6433430588
-Data0=(-43.49161,172.61053)
+Data0=(-43.49161,172.61052)
 [END]
 
 ;1096617
@@ -36510,7 +36490,7 @@ Type=0x2e
 Label=MICHAEL HILL JEWELLER BLENHEIM
 StreetDesc=80 Market St, Blenheim/ Jewellery
 Phone=+6435772667
-Data0=(-41.51338,173.95652)
+Data0=(-41.51338,173.95651)
 [END]
 
 ;1096771
@@ -36656,7 +36636,7 @@ Type=0x2e07
 Label=SUSSAN SHIRLEY
 StreetDesc=Shop 47 The Palms Shopping Ctr, Cnr Marshland & New Brighton Rds, Shirley, Chc/ 
 Phone=+6433850703
-Data0=(-43.50692,172.66426)
+Data0=(-43.50692,172.66425)
 [END]
 
 ;1096823
@@ -36675,7 +36655,7 @@ Label=WORK & INCOME AKAROA
 StreetDesc=Akaroa Resource Collective, 106 Rue Jolie, Akaroa/ WINZ
 Phone=0800559009
 zip=Second Thu of the Month
-Data0=(-43.80899,172.96351)
+Data0=(-43.80898,172.96350)
 [END]
 
 ;1097127
@@ -36715,7 +36695,7 @@ Label=WORK & INCOME CHRISTCHURCH CENTRAL
 StreetDesc=231 High St, Chc/ WINZ
 Phone=0800559009
 zip=Mon Tue Thu Fri 8:30 am-5:00 pm, Wed 9:3
-Data0=(-43.53373,172.63874)
+Data0=(-43.53373,172.63873)
 [END]
 
 ;1097152
@@ -36915,7 +36895,7 @@ Label=WORK & INCOME TAKAKA
 StreetDesc=14 Motupipi St, Takaka/ WINZ
 Phone=0800559009
 zip=Mon Tue Thu Fri 8:30 am-5:00 pm, Wed 9:3
-Data0=(-40.86025,172.80726)
+Data0=(-40.86025,172.80725)
 [END]
 
 ;1097273
@@ -37070,7 +37050,7 @@ Type=0x2e
 Label=VEALE & HULME CHRISTCHURCH
 StreetDesc=1 st Fl, 106 Gloucester St, Chc City/ Visique Optometrist, eye exam, eyewear
 Phone=+6433661248
-Data0=(-43.53000,172.63557)
+Data0=(-43.52999,172.63557)
 [END]
 
 ;1097352
@@ -37141,7 +37121,6 @@ Data0=(-43.52977,172.59815)
 Type=0x2c02
 Label=CANTERBURY MUSEUM, CHRISTCHURCH
 StreetDesc=Rolleston Ave, Central City, Chc/ Museum, History
-Phone=03366500
 zip=Everyday  9.00 am - 5.30 pm  (October - 
 Data0=(-43.53103,172.62710)
 [END]
@@ -37426,8 +37405,9 @@ Data0=(-43.55633,172.70438)
 [POI]
 Type=0x2b01
 Label=ALPINE GLACIER MOTEL
-StreetDesc=17 Cron St, Franz Josef/ Motel accommodation, motor lodge, no 0867 surcharge!, Z
-Phone=+6437520224
+StreetDesc=17 Cron St, Franz Josef, Westland, West Coast/ Accommodation, motor lodge, no 08
+Phone=+6437520226
+zip=Reception 8am to 8pm daily
 Data0=(-43.38853,170.18314)
 [END]
 
@@ -38043,7 +38023,7 @@ Type=0x2e08
 Label=RESENE COLORSHOP BLENHEIM
 StreetDesc=Cnr McArtney and Redwood Streets, Blenheim/ Resene paint, wallpaper and decorati
 Phone=+6435779200
-zip=Mon-Fri 7.30am - 5pm; Sat 9am-1pm
+zip=Mon-Fri 7.30am  5pm; Sat 9am-1pm
 Data0=(-41.51618,173.96069)
 [END]
 
@@ -38093,7 +38073,7 @@ Type=0x2e08
 Label=RESENE COLORSHOP NORTHWOOD
 StreetDesc=Unit E3, Northwood Supa Ctr, Main Rd North, Chc,/ Resene paint, wallpaper and de
 Phone=+6433234492
-zip=Mon-Fri 7.30am - 5pm; Sat 9am-4pm; Sun/P
+zip=Mon-Fri 7.30am  5pm; Sat 9am-4pm; Sun/Pu
 Data0=(-43.46073,172.62426)
 [END]
 
@@ -38144,7 +38124,7 @@ Label=RESENE COLORSHOP INVERCARGILL
 StreetDesc=Cnr Arena Ave and Victoria Ave, Invercargill/ Resene paint, wallpaper and decora
 Phone=+6432182385
 zip=Mon-Fri 7.30am-5.30pm; Sat 9am-3pm
-Data0=(-46.40556,168.34316)
+Data0=(-46.40555,168.34316)
 [END]
 
 ;1098569
@@ -38284,7 +38264,7 @@ Label=COUPLANDS SANDYFORD
 StreetDesc=39 Sandyford St, Waltham/ bakery
 Phone=+6439828555
 zip=Mon-Fri 7.30am-4.30pm, Sat 8.30am-2.00pm
-Data0=(-43.54244,172.63471)
+Data0=(-43.54244,172.63470)
 [END]
 
 ;1098593
@@ -38631,7 +38611,7 @@ Type=0x2f
 Label=RICCARTON-ILAM VETERINARY CLINIC
 StreetDesc=Cnr Riccarton & Ilam Roads, Chc/ Vet
 Phone=+6433484885
-Data0=(-43.53112,172.57991)
+Data0=(-43.53112,172.57990)
 [END]
 
 ;1098680
@@ -39114,7 +39094,7 @@ Type=0x2e
 Label=TOYWORLD NORTHLANDS
 StreetDesc=41 Northlands Mall, Chc/ Toys
 Phone=+6433525489
-Data0=(-43.49159,172.61063)
+Data0=(-43.49159,172.61062)
 [END]
 
 ;1098858
@@ -39715,7 +39695,7 @@ Label=MUFFIN BREAK HORNBY
 StreetDesc=The Hub Hornby, 418 Main South Rd, Hornby, Chc/ Cafe, muffins, coffee, catering
 Phone=+6433446030
 zip=Mon-Wed 9am-6pm, Thu-Fri 9am-6:30pm, Sat
-Data0=(-43.54335,172.52315)
+Data0=(-43.54335,172.52314)
 [END]
 
 ;1099216
@@ -39815,7 +39795,7 @@ Type=0x2a
 Label=ROBBIE'S BAR & BISTRO KAIKOURA
 StreetDesc=134 Beach Rd, Kaikoura/ Bar & restaurant
 Phone=+6433196141
-Data0=(-42.38663,173.67966)
+Data0=(-42.38663,173.67965)
 [END]
 
 ;1099251
@@ -40385,7 +40365,7 @@ Type=0x2b00
 Label=ALPINE HOLIDAY APARTMENTS & CAMPGROUND
 StreetDesc=9 Fowlers Lane, Hanmer Springs/ Accommodation: Cabins, Units, powered/unpowered 
 Phone=+6433157478
-Data0=(-42.51939,172.85307)
+Data0=(-42.51938,172.85307)
 [END]
 
 ;1099517
@@ -40483,7 +40463,7 @@ Data0=(-41.03682,173.01732)
 Type=0x2b00
 Label=KELCEY'S BUSH FARMYARD HOLIDAY PARK
 StreetDesc=Mill Rd, Waimate/ Animal park. Accommodation, tourist flats, cabins, campervans,
-Data0=(-44.70408,170.97479)
+Data0=(-44.70408,170.97478)
 [END]
 
 ;1099537
@@ -40648,7 +40628,7 @@ Type=0x2a
 Label=DENNY'S CHRISTCHURCH
 StreetDesc=382 Moorhouse Ave, Chc/ Family restaurant, licensed
 Phone=+6433655535
-Data0=(-43.54014,172.63928)
+Data0=(-43.54014,172.63927)
 [END]
 
 ;1100162
@@ -40693,7 +40673,7 @@ Type=0x2e
 Label=AT BETTA ELECTRICAL GREYMOUTH
 StreetDesc=51 Mackay St, Greymouth/ Audio, Cameras, Computing, Cooking, Television, Dishwas
 Phone=+6437686173
-Data0=(-42.44853,171.20939)
+Data0=(-42.44853,171.20938)
 [END]
 
 ;1100182
@@ -40773,7 +40753,7 @@ Type=0x2f
 Label=THE $2 SHOP - BLENHEIM
 StreetDesc=14 Charles St, Blenheim/ 
 zip=Mon-Fri 9am-5.30pm, Sat 9am-3pm, Sun 10a
-Data0=(-41.51268,173.95598)
+Data0=(-41.51268,173.95597)
 [END]
 
 ;1100235
@@ -41402,9 +41382,9 @@ Data0=(-43.53399,172.65690)
 [POI]
 Type=0x2f
 Label=ACORVA LTD
-StreetDesc=L 1, 148 Manchester St, Chc/ 
+StreetDesc=L 1, 225 High St, Chc/ Technical Recruitment or engineers, architects, detainees
 Phone=+6433656673
-Data0=(-43.53263,172.63982)
+Data0=(-43.53391,172.63905)
 [END]
 
 ;1100598
@@ -42431,7 +42411,7 @@ Label=AMMA CORP LTD
 StreetDesc=90 McLauchlan St , Springlands, Blenheim/ 
 Phone=+6435776936
 zip=Mon-Fri 0800am-0500pm
-Data0=(-41.49884,173.94425)
+Data0=(-41.49883,173.94425)
 [END]
 
 ;1101148
@@ -43541,7 +43521,7 @@ Type=0x2f
 Label=?AVIATION TEKNOLOGY LTD
 StreetDesc=Richard Pearse Airport, Timaru/ 
 Phone=+6436882189
-Data0=(-44.30413,171.22622)
+Data0=(-44.30413,171.22621)
 [END]
 
 ;1101786
@@ -44535,7 +44515,7 @@ Type=0x2f
 Label=BLUE STAR TAXIS CHCH (SOCIETY) LTD
 StreetDesc=515 Moorhouse Ave, Chc/ 
 Phone=+6433799820
-Data0=(-43.53976,172.65277)
+Data0=(-43.53975,172.65277)
 [END]
 
 ;1102314
@@ -44938,7 +44918,7 @@ Type=0x2f
 Label=BROOKER TRAVEL GROUP
 StreetDesc=346 George St, Dud/ 
 Phone=+6434773383
-Data0=(-45.86895,170.50675)
+Data0=(-45.86895,170.50674)
 [END]
 
 ;1102538
@@ -45574,7 +45554,7 @@ Type=0x2f
 Label=CANTERBURY SPORTS WHOLESALE LTD
 StreetDesc=28 Byron St, Chc/ 
 Phone=+6433669172
-Data0=(-43.54267,172.63990)
+Data0=(-43.54267,172.63989)
 [END]
 
 ;1102818
@@ -45749,7 +45729,7 @@ Label=CARTER GROUP LTD
 StreetDesc=L 2 Regent Blg, 33 Cathedral Sq, Chc/ 
 Phone=+6433791650
 zip=Mon-Fri 0830-1700
-Data0=(-43.53131,172.63516)
+Data0=(-43.53131,172.63515)
 [END]
 
 ;1102941
@@ -46223,7 +46203,7 @@ Label=CHRISTCHURCH ART GALLERY TE PUNA O WAIWHETU
 StreetDesc=corner Worchester Boulevard & Montreal St, Chc/ Art Gallery
 Phone=+6439417300
 zip=Mon, Tue, Thu-Sun 9.30am-5pm, Wed 9.30am
-Data0=(-43.53065,172.63077)
+Data0=(-43.53064,172.63076)
 [END]
 
 ;1103229
@@ -46845,7 +46825,7 @@ Type=0x2f
 Label=CO-DESTRUCT SHREDDERS LTD
 StreetDesc=26 Buchan St, Sydenham, Chc/ 
 Phone=+6433650551
-Data0=(-43.54613,172.63847)
+Data0=(-43.54613,172.63846)
 [END]
 
 ;1103465
@@ -47030,7 +47010,7 @@ Type=0x2f
 Label=COMMUNIQUE CONSULTANCY LTD
 StreetDesc=Suite 1 Seaforth Hous, 6 Scott St, Blenheim/ 
 Phone=+6435775587
-Data0=(-41.51447,173.95662)
+Data0=(-41.51447,173.95661)
 [END]
 
 ;1103553
@@ -47160,7 +47140,7 @@ Type=0x2f
 Label=CONNETICS LIMITED
 StreetDesc=12 Chapmans Rd, Chc/ 
 Phone=+6433537200
-Data0=(-43.56750,172.68746)
+Data0=(-43.56750,172.68745)
 [END]
 
 ;1103653
@@ -47383,7 +47363,7 @@ Label=COPTHORNE CENTRAL HOTEL 24HR
 StreetDesc=Victoria Sq, 776 Colombo St, Chc/ Hotel accommodation
 Phone=+6433795880
 zip=7 days 24 hour service
-Data0=(-43.52806,172.63659)
+Data0=(-43.52806,172.63658)
 [END]
 
 ;1103757
@@ -47916,7 +47896,7 @@ Type=0x2f
 Label=CUSTOMS SERVICES LTD
 StreetDesc=19 Carlyle St, Chc/ 
 Phone=+6433797868
-Data0=(-43.54135,172.63902)
+Data0=(-43.54134,172.63902)
 [END]
 
 ;1104074
@@ -48897,7 +48877,7 @@ Type=0x2f
 Label=DOOLEYS MASONRY LTD
 StreetDesc=13 Ouse St, Oamaru/ 
 Phone=+6434347091
-Data0=(-45.08931,170.97846)
+Data0=(-45.08931,170.97845)
 [END]
 
 ;1104596
@@ -49374,7 +49354,7 @@ Type=0x2f
 Label=EASTCOAST BOARDRIDING CO. LTD
 StreetDesc=1091 Ferry Rd, Woolston, Chc/ 
 Phone=+6433843788
-Data0=(-43.55789,172.70590)
+Data0=(-43.55789,172.70589)
 [END]
 
 ;1104803
@@ -49501,7 +49481,7 @@ Type=0x2f
 Label=EDWARD GIBBON 1979 LTD
 StreetDesc=201 Madras St, Chc/ 
 Phone=+6433667199
-Data0=(-43.53488,172.64249)
+Data0=(-43.53487,172.64249)
 [END]
 
 ;1104893
@@ -49713,7 +49693,7 @@ Type=0x2f
 Label=EMPOWER CONSULTANTS LTD
 StreetDesc=287 Stafford St, Timaru/ 
 Phone=+6436884452
-Data0=(-44.39388,171.25111)
+Data0=(-44.39388,171.25110)
 [END]
 
 ;1105032
@@ -50269,7 +50249,7 @@ Type=0x2f
 Label=FARM MACHINERY (ASHBURTON) LTD
 StreetDesc=34 Robinson St, Ashburton/ 
 Phone=+6433089924
-Data0=(-43.90256,171.73839)
+Data0=(-43.90255,171.73839)
 [END]
 
 ;1105381
@@ -50778,7 +50758,7 @@ Type=0x2f
 Label=FLY BY WIRE QUEENSTOWN
 StreetDesc=Pickup point - 37 Shotover St Queenstown/ 
 Phone=+6434425292
-Data0=(-45.03131,168.65960)
+Data0=(-45.03131,168.65959)
 [END]
 
 ;1105647
@@ -51459,7 +51439,7 @@ Type=0x2f
 Label=GABITES PORTER CONSULTANTS LIMITED
 StreetDesc=22 Dorset St, Chc/ 
 Phone=+6433669871
-Data0=(-43.52260,172.62827)
+Data0=(-43.52260,172.62826)
 [END]
 
 ;1105964
@@ -52034,7 +52014,6 @@ Data0=(-43.52646,172.63711)
 Type=0x2f
 Label=GOLD BAND TAXIS (CHRISTCHURCH) SOCIETY LTD 24HR
 StreetDesc=193 Montreal St, Chc, New Zealand/ Taxi Company, Express Parcel Delivery, Tours,
-Phone=TaxiOrders033795795CabCallautomatic033727272
 zip=Admin: 08:30-16:30. Mon-Fri. Operations:
 Data0=(-43.53777,172.63046)
 [END]
@@ -52216,7 +52195,7 @@ Label=GPC ELECTRONICS (NZ) LTD
 StreetDesc=10 Sonter Rd, Sockburn, Chc/ 
 Phone=+6439630580
 zip=Mon-Fri 0800-1700
-Data0=(-43.54684,172.57078)
+Data0=(-43.54684,172.57077)
 [END]
 
 ;1106319
@@ -53140,7 +53119,7 @@ Label=HEREFORD HOLDINGS LTD
 StreetDesc=77 Cashel St, Chc/ 
 Phone=+6433792259
 zip=Mon-Fri 0900-1700
-Data0=(-43.53300,172.63405)
+Data0=(-43.53299,172.63405)
 [END]
 
 ;1106827
@@ -53383,7 +53362,7 @@ Label=HOLER NEW ZEALAND LTD
 StreetDesc=65 Main Rd, Richmond, Nelson/ 
 Phone=+6435439750
 zip=Mon-Fri 0800-1700
-Data0=(-41.30458,173.24183)
+Data0=(-41.30457,173.24183)
 [END]
 
 ;1106939
@@ -53823,7 +53802,7 @@ Type=0x2f
 Label=IAN COOMBES LTD
 StreetDesc=34 Acheron Dr, Upper Riccarton, Chc/ 
 Phone=+6433482072
-Data0=(-43.53923,172.58788)
+Data0=(-43.53923,172.58787)
 [END]
 
 ;1107198
@@ -53951,7 +53930,7 @@ Type=0x2f
 Label=IMF TRUSTEES LTD
 StreetDesc=55 Cashmere Rd, Cashmere, Chc/ 
 Phone=+6439803935
-Data0=(-43.56770,172.62863)
+Data0=(-43.56770,172.62862)
 [END]
 
 ;1107288
@@ -54006,7 +53985,7 @@ Type=0x2f
 Label=INBEADS.COM LTD
 StreetDesc=278 Glen Lyon Rd, Twizel, Timaru/ 
 Phone=+6434350626
-Data0=(-44.24025,170.08341)
+Data0=(-44.24025,170.08340)
 [END]
 
 ;1107317
@@ -54678,7 +54657,7 @@ Type=0x2f
 Label=JAMES CONSTRUCTION
 StreetDesc=288 Princes St, Invercargill/ 
 Phone=+6432161927
-Data0=(-46.43164,168.36555)
+Data0=(-46.43164,168.36554)
 [END]
 
 ;1107756
@@ -54814,7 +54793,7 @@ Type=0x2f
 Label=JINGLE.CO.NZ
 StreetDesc=8 Ayers St, Chc/ 
 Phone=+6421224479
-Data0=(-43.30364,172.58735)
+Data0=(-43.30363,172.58735)
 [END]
 
 ;1107846
@@ -55128,7 +55107,7 @@ Type=0x2f
 Label=KAIAPOI MILL
 StreetDesc=Ranfurly St, Kaiapoi, Chc/ 
 Phone=+6433278195
-Data0=(-43.37268,172.65719)
+Data0=(-43.37268,172.65718)
 [END]
 
 ;1107977
@@ -55491,7 +55470,7 @@ Type=0x2f
 Label=KIRRA TOURS NZ
 StreetDesc=46 Papanui Rd, Papanui, Chc/ 
 Phone=+6433550492
-Data0=(-43.51873,172.62675)
+Data0=(-43.51873,172.62674)
 [END]
 
 ;1108217
@@ -55841,7 +55820,7 @@ Label=LANOCORP PACIFIC LTD
 StreetDesc=125 Waterloo Rd, Sockburn, Chc/ 
 Phone=+6433495755
 zip=Mon-Fri 0800-1700
-Data0=(-43.53832,172.53505)
+Data0=(-43.53832,172.53504)
 [END]
 
 ;1108448
@@ -55851,15 +55830,6 @@ Label=LANOLIN TRADING CO LTD
 StreetDesc=80 Chester St East, Chc/ 
 Phone=+6433797484
 Data0=(-43.52782,172.64201)
-[END]
-
-;1108452
-[POI]
-Type=0x2f
-Label=LAPCO LTD
-StreetDesc=10 Magdala Place, Middleton, Chc/ 
-Phone=+6439432046
-Data0=(-43.54446,172.58201)
 [END]
 
 ;1108456
@@ -55886,7 +55856,7 @@ Type=0x2f
 Label=LAST FOOTWEAR
 StreetDesc=79 Cashel Mall, Chc/ 
 Phone=+6433854383
-Data0=(-43.53300,172.63418)
+Data0=(-43.53300,172.63417)
 [END]
 
 ;1108473
@@ -56080,7 +56050,7 @@ Type=0x2f
 Label=LEITCH MOTORSPORT & RESTORATION LTD
 StreetDesc=44 McIvor Rd, RD 6, Invercargill/ 
 Phone=+6432159791
-Data0=(-46.36469,168.35364)
+Data0=(-46.36469,168.35363)
 [END]
 
 ;1108557
@@ -56383,7 +56353,7 @@ Type=0x2b01
 Label=LORENZO MOTOR LODGE
 StreetDesc=36 Riccarton Rd, Chc/ Motel accommodation
 Phone=+6433488074
-Data0=(-43.52900,172.60785)
+Data0=(-43.52900,172.60784)
 [END]
 
 ;1108764
@@ -56992,7 +56962,7 @@ Type=0x2f
 Label=MARINE & GENERAL ENGINEERING (NELSON) LTD
 StreetDesc=117 Vickerman St, Port Nelson, Nelson/ 
 Phone=+6435489138
-Data0=(-41.25955,173.28012)
+Data0=(-41.25955,173.28011)
 [END]
 
 ;1109097
@@ -57729,7 +57699,7 @@ Type=0x2f
 Label=MELRAY ELECTRIC LIMITED
 StreetDesc=40 Stewart St, Chc/ 
 Phone=+6433657077
-Data0=(-43.53789,172.62504)
+Data0=(-43.53789,172.62503)
 [END]
 
 ;1109463
@@ -57739,7 +57709,7 @@ Label=MERCANTILE GAZETTE MARKETING LTD
 StreetDesc=8 Sheffield Cres, Burnside, Chc/ 
 Phone=+6433583219
 zip=Mon-Fri 0830-1700
-Data0=(-43.49053,172.56317)
+Data0=(-43.49053,172.56316)
 [END]
 
 ;1109470
@@ -57813,7 +57783,7 @@ Label=METALLIX LTD
 StreetDesc=39 Sandyford St, Sydenham, Chc/ 
 Phone=+6433655010
 zip=Mon-Fri 0830-1700
-Data0=(-43.54244,172.63471)
+Data0=(-43.54244,172.63470)
 [END]
 
 ;1109519
@@ -58768,7 +58738,7 @@ Label=NAKEDART 24HR
 StreetDesc=65A Cass St, Kaiapoi, Chc/ 
 Phone=+6433270066
 zip=24, 7
-Data0=(-43.38472,172.66602)
+Data0=(-43.38471,172.66602)
 [END]
 
 ;1109989
@@ -59736,7 +59706,7 @@ Type=0x2f
 Label=NOEL BONISCH LTD
 StreetDesc=12 Don St, Invercargill/ 
 Phone=+6432182546
-Data0=(-46.41065,168.34800)
+Data0=(-46.41065,168.34799)
 [END]
 
 ;1110483
@@ -59802,7 +59772,7 @@ Type=0x2f
 Label=NORTH WEST ENGINEERING LTD
 StreetDesc=8B Sheffield Cres, Burnside, Chc/ 
 Phone=+6433583175
-Data0=(-43.49053,172.56317)
+Data0=(-43.49053,172.56316)
 [END]
 
 ;1110526
@@ -61025,7 +60995,7 @@ Label=PAMCO QUALITY NURSERY FURNITURE
 StreetDesc=2A Harewood Rd, Papanui, Chc/ Baby Furniture, Cots
 Phone=+6421987502
 zip=Tue 10am-12pm, Thu 6pm-8pm, Sat 11am-1pm
-Data0=(-43.49687,172.60762)
+Data0=(-43.49686,172.60762)
 [END]
 
 ;1111246
@@ -61374,7 +61344,7 @@ Type=0x2f
 Label=PETER M MAY LTD
 StreetDesc=151 Alford Forest Rd, Ashburton/ 
 Phone=+6433088893
-Data0=(-43.88913,171.73585)
+Data0=(-43.88912,171.73585)
 [END]
 
 ;1111479
@@ -61639,7 +61609,7 @@ Type=0x2f
 Label=PLASTECH INDUSTRIES LTD
 StreetDesc=73 Garlands Rd, Woolston, Chc/ 
 Phone=+6433380082
-Data0=(-43.55595,172.67357)
+Data0=(-43.55595,172.67356)
 [END]
 
 ;1111631
@@ -63008,7 +62978,7 @@ Label=REGIONAL FORD
 StreetDesc=7 Medway St, Gore/ Ford Dealer
 Phone=+6432087800
 zip=Mon-Fri 0800-1700, Sat 0930-1200
-Data0=(-46.09896,168.94319)
+Data0=(-46.09896,168.94318)
 [END]
 
 ;1112416
@@ -63202,7 +63172,7 @@ Type=0x2f
 Label=RIVERTON PLUMBING & DRAINLAYING
 StreetDesc=113 Palmerston St, Riverton, Invercargill/ 
 Phone=+6432348513
-Data0=(-46.35024,168.01661)
+Data0=(-46.35024,168.01660)
 [END]
 
 ;1112591
@@ -63415,9 +63385,9 @@ Data0=(-43.55195,172.51611)
 [POI]
 Type=0x2f
 Label=ROOST MORTGAGE BROKERS
-StreetDesc=L 5, Philip Laing House, 218 Princes St, Dud/ 
-Phone=+6434740160
-Data0=(-45.87727,170.50158)
+StreetDesc=L 1, Rodgers House, Cnr Princess & Dowling St, Dud/ 
+Phone=+6434740159
+Data0=(-45.87669,170.50239)
 [END]
 
 ;1112712
@@ -63436,7 +63406,7 @@ Type=0x2f
 Label=ROSSENDALE WINES
 StreetDesc=150 Old Tai Tapu Rd, Halswell, Chc/ 
 Phone=+6433227780
-Data0=(-43.60949,172.57024)
+Data0=(-43.60949,172.57023)
 [END]
 
 ;1112732
@@ -64161,7 +64131,7 @@ Label=SELWYN DISTRICT COUNCIL
 StreetDesc=2 norman kirk Dr rolleston/ 
 Phone=+6433472800
 zip=Monday to Friday - 8:30 a.m. to 5 p.m.
-Data0=(-43.59239,172.38427)
+Data0=(-43.59239,172.38426)
 [END]
 
 ;1113121
@@ -64413,7 +64383,7 @@ Type=0x2f
 Label=SIGN ADVERTISING LIMITED
 StreetDesc=17 Carlyle St, Sydenham, Chc/ 
 Phone=+6433662106
-Data0=(-43.54135,172.63878)
+Data0=(-43.54134,172.63878)
 [END]
 
 ;1113268
@@ -64867,7 +64837,7 @@ Type=0x2f
 Label=SOMERSET PRINTING CO. LTD
 StreetDesc=174 Carlyle St, Sydenham, Chc/ 
 Phone=+6439822022
-Data0=(-43.54160,172.64340)
+Data0=(-43.54160,172.64339)
 [END]
 
 ;1113525
@@ -65901,7 +65871,7 @@ Type=0x2f
 Label=STORMLINE-LEDA CORPORATION LIMITED
 StreetDesc=15 Teviot St, Invercargill/ 
 Phone=+6432187782
-Data0=(-46.41920,168.34871)
+Data0=(-46.41920,168.34870)
 [END]
 
 ;1113959
@@ -66068,7 +66038,7 @@ Type=0x2f
 Label=SUMMERLAND EXPRESS FREIGHT LTD
 StreetDesc=18 Rogers St, Cromwell/ 
 Phone=+6434450752
-Data0=(-45.05212,169.19425)
+Data0=(-45.05212,169.19424)
 [END]
 
 ;1114050
@@ -66217,7 +66187,7 @@ Type=0x2f
 Label=SYCAMORE PRINT LTD
 StreetDesc=73 Eye St, Invercargill/ 
 Phone=+6432184657
-Data0=(-46.41691,168.35270)
+Data0=(-46.41690,168.35270)
 [END]
 
 ;1114153
@@ -66761,7 +66731,7 @@ Type=0x2f
 Label=TEKAU KNITWEAR (ASHBURTON) LTD
 StreetDesc=1 Allison St, Ashburton/ 
 Phone=+6433087205
-Data0=(-43.88970,171.73957)
+Data0=(-43.88970,171.73956)
 [END]
 
 ;1114455
@@ -67236,7 +67206,7 @@ Label=THE NEW ZEALAND WINE COMPANY LTD
 StreetDesc=13 Waihopai Valley Rd, Renwick, Blenheim/ 
 Phone=+6435728200
 zip=Mon-Fri 0800-1700
-Data0=(-41.51635,173.79831)
+Data0=(-41.51635,173.79830)
 [END]
 
 ;1114734
@@ -68059,7 +68029,7 @@ Type=0x2f
 Label=TUAPEKA LAWRENCE COMMUNITY COMPANY
 StreetDesc=17 Ross Place, Lawrence, Dud/ Information center, Tourist information, Internet,
 Phone=+6434859222
-Data0=(-45.91300,169.68692)
+Data0=(-45.91300,169.68691)
 [END]
 
 ;1115289
@@ -68922,7 +68892,7 @@ Type=0x2f
 Label=WAITOHI TIMBER
 StreetDesc=26 Crombie Rd, Temuka, Timaru/ 
 Phone=+6436159343
-Data0=(-44.21701,171.17671)
+Data0=(-44.21701,171.17670)
 [END]
 
 ;1115794
@@ -69140,7 +69110,7 @@ Type=0x2f
 Label=WECO MANUFACTURING LTD
 StreetDesc=36A Lismore St, Linwood, Chc/ 
 Phone=+6439820277
-Data0=(-43.54357,172.65271)
+Data0=(-43.54357,172.65270)
 [END]
 
 ;1115928
@@ -69259,7 +69229,7 @@ Type=0x2f
 Label=WESTFLEET FISHERMANS CO-OP LTD
 StreetDesc=Gilbert St, Greymouth/ 
 Phone=+6437685370
-Data0=(-42.44760,171.20057)
+Data0=(-42.44759,171.20057)
 [END]
 
 ;1116005
@@ -69435,7 +69405,7 @@ Label=WHOLESALE SIGNAGE (INTERNATIONAL) LTD
 StreetDesc=11 Cargill Place, Richmond, Nelson/ 
 Phone=+6435410602
 zip=Mon-Fri 0800-1630
-Data0=(-43.50913,172.65844)
+Data0=(-43.50913,172.65843)
 [END]
 
 ;1116079
@@ -69572,7 +69542,7 @@ Type=0x2f
 Label=WILSON BROS TIMBER LTD
 StreetDesc=47 Meadows Rd, Washdyke, Timaru/ 
 Phone=+6436882336
-Data0=(-44.35654,171.24440)
+Data0=(-44.35654,171.24439)
 [END]
 
 ;1116126
@@ -70515,7 +70485,7 @@ Data0=(-42.99399,171.79291)
 Type=0x2b03
 Label=?AUSSIE BAY CAMPSITE (DOC)
 StreetDesc=Sounds Foreshore Reserve, Sounds/ DOC conservation campsite. Accommodation, camp
-Data0=(-41.27235,173.92876)
+Data0=(-41.27235,173.92875)
 [END]
 
 ;1116514
@@ -70699,7 +70669,7 @@ Data0=(-45.22806,170.75700)
 Type=0x2b03
 Label=GOLDSBOROUGH CAMPING AREA (DOC)
 StreetDesc=Shamrock Creek Amenity Area, Hokitika/ DOC conservation campsite. Accommodation,
-Data0=(-42.67537,171.12405)
+Data0=(-42.67537,171.12404)
 [END]
 
 ;1116552
@@ -70971,7 +70941,7 @@ Data0=(-44.99830,168.57592)
 Type=0x2b03
 Label=?MOLESWORTH COBB COTTAGE CAMPSITE (DOC)
 StreetDesc=Molesworth Recreation Reserve, South Marlborough/ DOC conservation campsite. Acc
-Data0=(-42.08868,173.26500)
+Data0=(-42.08868,173.26499)
 [END]
 
 ;1116610
@@ -71286,7 +71256,7 @@ Data0=(-45.10128,167.96752)
 Type=0x2b03
 Label=WEST BAY CAMPGROUND (DOC)
 StreetDesc=Nelson Lakes Ntl Park, Nelson Lakes/ DOC conservation campsite. Accommodation, c
-Data0=(-41.79754,172.82714)
+Data0=(-41.79754,172.82713)
 [END]
 
 ;1116695
@@ -71462,7 +71432,7 @@ Data0=(-42.89710,172.08881)
 Type=0x2f
 Label=ANTI CROW HUT
 StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
-Data0=(-42.99961,171.51106)
+Data0=(-42.99961,171.51105)
 [END]
 
 ;1116723
@@ -71774,7 +71744,7 @@ Data0=(-41.72343,173.82179)
 Type=0x2f
 Label=BLACK HILL HUT
 StreetDesc=Oxford Forest, Waimakariri/ DOC Backcountry hut
-Data0=(-43.17911,172.00557)
+Data0=(-43.17910,172.00557)
 [END]
 
 ;1116775
@@ -71830,7 +71800,7 @@ Data0=(-42.22479,172.48639)
 Type=0x2f
 Label=?BONNIE JEAN HUT
 StreetDesc=Wakatipu/ DOC Backcountry hut
-Data0=(-44.85915,168.44900)
+Data0=(-44.85915,168.44899)
 [END]
 
 ;1116785
@@ -72582,7 +72552,7 @@ Data0=(-42.99691,171.15282)
 Type=0x2f
 Label=?CRYSTAL HUT
 StreetDesc=Mt Aurum Recreation Reserve, Wakatipu/ DOC Backcountry hut
-Data0=(-44.83052,168.66713)
+Data0=(-44.83052,168.66712)
 [END]
 
 ;1116895
@@ -72958,7 +72928,7 @@ Data0=(-42.17672,173.62993)
 Type=0x2f
 Label=?FISHTAIL HUT
 StreetDesc=Mount Richmond Forest Park, South Marlborough/ DOC Backcountry hut
-Data0=(-41.44614,173.48957)
+Data0=(-41.44614,173.48956)
 [END]
 
 ;1116955
@@ -73262,7 +73232,7 @@ Data0=(-43.93280,169.94667)
 Type=0x2f
 Label=HAAST HUT
 StreetDesc=Aoraki/Mount Cook Ntl Park, Aoraki/ DOC Backcountry hut
-Data0=(-43.58243,170.19659)
+Data0=(-43.58243,170.19658)
 [END]
 
 ;1116996
@@ -73726,7 +73696,7 @@ Data0=(-45.51089,169.18325)
 Type=0x2f
 Label=KAHURANGI KEEPERS HOUSE
 StreetDesc=Kahurangi Ntl Park, Golden Bay/ DOC Backcountry hut
-Data0=(-40.77531,172.22765)
+Data0=(-40.77531,172.22764)
 [END]
 
 ;1117073
@@ -74430,7 +74400,7 @@ Data0=(-46.26165,167.85994)
 Type=0x2f
 Label=MASON BAY HUT
 StreetDesc=Rakiura Ntl Park, Southern Islands/ DOC Backcountry hut
-Data0=(-46.92658,167.78008)
+Data0=(-46.92657,167.78008)
 [END]
 
 ;1117214
@@ -74558,7 +74528,7 @@ Data0=(-42.85014,171.44337)
 Type=0x2f
 Label=?MID TRENT HUT
 StreetDesc=Stewardship Land, Greymouth/ DOC Backcountry hut
-Data0=(-42.68972,171.89425)
+Data0=(-42.68971,171.89425)
 [END]
 
 ;1117237
@@ -74902,7 +74872,7 @@ Data0=(-46.88310,168.01930)
 Type=0x2f
 Label=?NORTH BIG GLORY HUNTER'S HUT
 StreetDesc=Rakiura Ntl Park, Southern Islands/ DOC Backcountry hut
-Data0=(-46.95933,168.12551)
+Data0=(-46.95932,168.12551)
 [END]
 
 ;1117295
@@ -75110,7 +75080,7 @@ Data0=(-43.12949,172.33738)
 Type=0x2f
 Label=?PINE VALLEY HUT
 StreetDesc=Mount Richmond Forest Park, South Marlborough/ DOC Backcountry hut
-Data0=(-41.49190,173.50593)
+Data0=(-41.49189,173.50593)
 [END]
 
 ;1117347
@@ -75254,7 +75224,7 @@ Data0=(-43.10658,171.00604)
 Type=0x2f
 Label=?PUKETERAKI BIVVY
 StreetDesc=Pastoral Lease, Waimakariri/ DOC Backcountry hut
-Data0=(-43.11202,171.97342)
+Data0=(-43.11201,171.97342)
 [END]
 
 ;1117375
@@ -75494,7 +75464,7 @@ Data0=(-40.88619,172.30785)
 Type=0x2f
 Label=?SCAMPER TORRENT HUT
 StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
-Data0=(-43.15330,170.73734)
+Data0=(-43.15329,170.73734)
 [END]
 
 ;1117419
@@ -75622,7 +75592,7 @@ Data0=(-43.05695,171.15533)
 Type=0x2f
 Label=SLATY CREEK HUT
 StreetDesc=Stewardship Land, Greymouth/ DOC Backcountry hut
-Data0=(-42.54507,172.08457)
+Data0=(-42.54507,172.08456)
 [END]
 
 ;1117438
@@ -76150,7 +76120,7 @@ Data0=(-41.61101,173.07568)
 Type=0x2f
 Label=?TOP WAITAHA HUT
 StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
-Data0=(-43.12975,170.87662)
+Data0=(-43.12974,170.87662)
 [END]
 
 ;1117540
@@ -76789,7 +76759,7 @@ Type=0x2b01
 Label=BEST WESTERN CLYDE ON RICCARTON MOTEL
 StreetDesc=280 Riccarton Rd, Riccarton, Chc/ Best Western, Motel, Christchurch
 Phone=+6433411280
-Data0=(-43.53090,172.58278)
+Data0=(-43.53090,172.58277)
 [END]
 
 ;1117714
@@ -76942,7 +76912,7 @@ Type=0x2a
 Label=PRIYA INDIAN FRANZ
 StreetDesc=70 Cron St, Franz Josef/ Indian Restaurant
 Phone=+6437520060
-Data0=(-43.38410,170.18503)
+Data0=(-43.38410,170.18502)
 [END]
 
 ;1117809
@@ -76975,7 +76945,7 @@ Data0=(-42.45135,171.20987)
 ;1117812
 [POI]
 Type=0x2a0e
-Label=LAKE MATHESON WALKWAY & CAFE FOX GLACIER
+Label=LAKE MATHESON WALKWAY & CAFé FOX GLACIER
 StreetDesc=Lake Mathieson Rd, Fox Glacier/ Lake Matheson, famous for its picture perfect re
 Phone=+6437510878
 Data0=(-43.44797,169.96966)
@@ -77218,7 +77188,7 @@ Data0=(-43.54568,172.63812)
 ;1117932
 [POI]
 Type=0x2a0e
-Label=SAINT CLAIR CELLAR DOOR & CAFE
+Label=SAINT CLAIR CELLAR DOOR & CAFé
 StreetDesc=Corner of Rapaura & Selmes Rd, Rapaura, Blenheim/ Cafe. Wine tastings & sales
 Phone=+6435705280
 zip=7 Days 9am-5pm
@@ -77294,7 +77264,7 @@ Type=0x2e08
 Label=BASHERS ITM SAWMILLER & BUILDING CENTRE
 StreetDesc=82 Carters Rd, SH 1, Amberley/ Building supplies for timber & hardware
 Phone=+6433148311
-Data0=(-43.15272,172.72944)
+Data0=(-43.15272,172.72943)
 [END]
 
 ;1118125
@@ -77537,7 +77507,6 @@ Data0=(-43.52542,172.65128)
 Type=0x2a
 Label=ASTON COURT MOTEL
 StreetDesc=72 Main St, State Highway 1, Blenheim 7321/ Accommodation, Superior modern groun
-Phone=Reservations0800163164
 Data0=(-41.51343,173.96742)
 [END]
 
@@ -77625,7 +77594,7 @@ Type=0x2b00
 Label=BAYFIELD MOTELS
 StreetDesc=210 Musselburgh Rise, Andersons Bay, Dud/ Accommodation, full kitchen, Sky TV
 Phone=+6434550756
-Data0=(-45.89598,170.52567)
+Data0=(-45.89597,170.52567)
 [END]
 
 ;1118277
@@ -77846,7 +77815,7 @@ Type=0x2b01
 Label=BLUE DOLPHIN MOTEL
 StreetDesc=40 Evans St, Maori Hill, Timaru/ Motel accommodation, Zenbu Wi-Fi wireless inter
 Phone=+6436844589
-Data0=(-44.38754,171.24190)
+Data0=(-44.38753,171.24190)
 [END]
 
 ;1118319
@@ -78505,7 +78474,7 @@ Type=0x2f
 Label=GINGER MEGGS
 StreetDesc=7 St Albans St, Merivale, Chc/ Hairdresser, hair salon
 Phone=+6433559014
-Data0=(-43.51271,172.62289)
+Data0=(-43.51271,172.62288)
 [END]
 
 ;1118473
@@ -79132,7 +79101,7 @@ Type=0x2a
 Label=BULLY HAYES RESTAURANT & BAR
 StreetDesc=57 Beach Rd, Akaroa/ Bar, Restaurant
 Phone=+33047533
-Data0=(-43.80852,172.96328)
+Data0=(-43.80851,172.96328)
 [END]
 
 ;1118729
@@ -79148,7 +79117,6 @@ Data0=(-43.50901,172.57209)
 Type=0x2e08
 Label=MITRE 10 MEGA FERRYMEAD
 StreetDesc=1005 Ferry Rd Chc/ Hardware, Building Supplies, Plumbing
-Phone=6133666306
 zip=Mo-Fr 7-7 Sa-Su 8-6
 Data0=(-43.55580,172.70133)
 [END]
@@ -79261,7 +79229,7 @@ Type=0x2e07
 Label=PAGANI INVERCARGILL
 StreetDesc=72 Esk St, Invercargill/ Womens fashion. Jeans, ball gowns, jewellery, sunglasse
 Phone=+6432182945
-Data0=(-46.41175,168.35015)
+Data0=(-46.41175,168.35014)
 [END]
 
 ;1118915
@@ -79794,7 +79762,7 @@ Data0=(-45.56594,167.60968)
 ;1119291
 [POI]
 Type=0x2a0e
-Label=CAFE LA DOLCE VITA
+Label=CAFé LA DOLCE VITA
 StreetDesc=90 Town Ctr, Te Anau/ cafe
 Phone=+6432498895
 Data0=(-45.41544,167.71585)
@@ -79839,7 +79807,7 @@ Data0=(-45.41629,167.71418)
 ;1119296
 [POI]
 Type=0x2a
-Label=REDCLIFF CAFE
+Label=REDCLIFF CAFé
 StreetDesc=12 Mokonui St, Te Anau/ Restaurant, cafe & bar
 Phone=+6432497431
 Data0=(-45.41575,167.71240)
@@ -79848,7 +79816,7 @@ Data0=(-45.41575,167.71240)
 ;1119297
 [POI]
 Type=0x2a0e
-Label=SANDFLY CAFE
+Label=SANDFLY CAFé
 StreetDesc=9 The Lane, Te Anau/ cafe
 Phone=+6432499529
 Data0=(-45.41444,167.71566)
@@ -79866,7 +79834,7 @@ Data0=(-45.41514,167.71513)
 ;1119299
 [POI]
 Type=0x2a
-Label=THE RANCH CAFE, BAR & GRILL
+Label=THE RANCH CAFé, BAR & GRILL
 StreetDesc=111 Town Ctr, Te Anau/ Restaurants and Bars
 Phone=+6432498801
 Data0=(-45.41466,167.71656)
@@ -81040,7 +81008,7 @@ Type=0x2a
 Label=CAFE KUDOS
 StreetDesc=270 Hardy St,   Nelson/ 
 Phone=+6435458090
-Data0=(-41.27456,173.28613)
+Data0=(-41.27456,173.28612)
 [END]
 
 ;1119651
@@ -82124,7 +82092,7 @@ Type=0x2a
 Label=MOSGIEL TAVERN
 StreetDesc=150 Factory Rd, Janefield, Otago/ Hotel Bar Restaurant TAB Self-Service Outlet
 Phone=+6434894402
-Data0=(-45.86934,170.36555)
+Data0=(-45.86934,170.36554)
 [END]
 
 ;1119807
@@ -82151,7 +82119,7 @@ Type=0x2a
 Label=VALLEY LODGE HOTEL
 StreetDesc=139 Kaikorai Valley Rd, Kaikorai, Dud/ Hotel Bar Restaurant TAB Outlet
 Phone=+6434762001
-Data0=(-45.86885,170.47623)
+Data0=(-45.86885,170.47622)
 [END]
 
 ;1119810
@@ -82671,7 +82639,7 @@ Type=0x2e
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=169 Tay St, Invercargill, Southland/ Opportunity Shop. Charity Store. Clothing, 
 Phone=+6432145380
-Data0=(-46.41306,168.35780)
+Data0=(-46.41305,168.35780)
 [END]
 
 ;1120025
@@ -82788,7 +82756,7 @@ Type=0x2e
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=32 Lichfield St, Chc, Canterbury/ Opportunity Shop. Charity Store. Clothing, lin
 Phone=+6433770220
-Data0=(-43.53433,172.63463)
+Data0=(-43.53433,172.63462)
 [END]
 
 ;1120038
@@ -83147,7 +83115,7 @@ Label=MISTER MINIT NELSON CITY CENTRE
 StreetDesc=Kiosk 1A, 219 Trafalgar St Nelson/ Shoe Repairs, Key Cutting, Engraving, Watch S
 Phone=+6435469054
 zip=Mon-Wed 9am-5:30pm, Thu 8:30-5:30, Fri 8
-Data0=(-41.27339,173.28389)
+Data0=(-41.27339,173.28388)
 [END]
 
 ;1120157
@@ -84039,7 +84007,7 @@ Type=0x2e
 Label=DECOLLECTABLES
 StreetDesc=7 Charlemont St, Ranfurly, Otago/ Antiques, Antique Shop
 Phone=+6434449010
-Data0=(-45.12984,170.09901)
+Data0=(-45.12983,170.09901)
 [END]
 
 ;1120438
@@ -84192,7 +84160,7 @@ Type=0x2e
 Label=MALTESE CROSS ANTIQUES
 StreetDesc=259 Greers Rd, Bryndwr, Chc/ Antiques, Antique Shop
 Phone=+6433594224
-Data0=(-43.49987,172.58575)
+Data0=(-43.49986,172.58575)
 [END]
 
 ;1120460
@@ -84300,7 +84268,7 @@ Type=0x2e
 Label=PROVINCIAL ANTIQUES
 StreetDesc=84 Union St, Milton, Otago/ Antiques, Antique Shop
 Phone=+6434178841
-Data0=(-46.12094,169.95894)
+Data0=(-46.12094,169.95893)
 [END]
 
 ;1120478
@@ -84712,7 +84680,7 @@ Type=0x2e
 Label=PRINTSTOP @ CELEBRATION EVENTS CENTRE - CHRISTCHURCH
 StreetDesc=81 Bickerton St, Wainoni, Chc/ Printing services
 Phone=+6433897055
-Data0=(-43.51969,172.69309)
+Data0=(-43.51969,172.69308)
 [END]
 
 ;1120766
@@ -84739,7 +84707,7 @@ Type=0x2e
 Label=PRINTSTOPPLUS - ARMAGH ST, CHRISTCHURCH
 StreetDesc=103 Armagh St,Chc/ Printing services
 Phone=+6433796666
-Data0=(-43.52864,172.63740)
+Data0=(-43.52864,172.63739)
 [END]
 
 ;1120769
@@ -84777,16 +84745,6 @@ StreetDesc=710 Main North Rd, Belfast/ Swimming Pool
 Phone=+6439416854
 zip=Mon - Sun 12:00 to 5:30pm.  Pool opens 1
 Data0=(-43.45337,172.62882)
-[END]
-
-;1120798
-[POI]
-Type=0x2e
-Label=SUPREME OCEAN SEAFOODS
-StreetDesc=314 Lincoln Rd, Addington, Chc/ fresh seafood, fresh fish
-Phone=+6433388515
-zip=Mon to Fri 0900 - 1700, closed Saturday 
-Data0=(-43.54338,172.61246)
 [END]
 
 ;1120809
@@ -85617,7 +85575,6 @@ Data0=(-43.52108,172.63838)
 Type=0x2b01
 Label=ASHBURY PARK MOTEL
 StreetDesc=131 Evans St, Timaru/ Motel accommodation
-Phone=Ph036847071
 Data0=(-44.38060,171.24076)
 [END]
 
@@ -86977,7 +86934,7 @@ Type=0x2c05
 Label=JUST KIDS COMMUNITY PRESCHOOL
 StreetDesc=81 Bickerton St, Wainoni, Chc/ Childcare Centre
 Phone=+6433898155
-Data0=(-43.51969,172.69309)
+Data0=(-43.51969,172.69308)
 [END]
 
 ;1121227
@@ -86986,7 +86943,7 @@ Type=0x2c05
 Label=KIDSFIRST EARLY LEARNING CENTRES ARANUI
 StreetDesc=284 Breezes Rd, Aranui, Chc/ Childcare Centre
 Phone=+6433882077
-Data0=(-43.51643,172.70053)
+Data0=(-43.51643,172.70052)
 [END]
 
 ;1121228
@@ -89097,7 +89054,7 @@ Data0=(-44.39033,171.22637)
 Type=0x2f06
 Label=KIWIBANK QUICKCASH ATM HOKITIKA POSTSHOP
 StreetDesc=93 Revell St, Hokitika/ ATM
-Data0=(-42.71714,170.96145)
+Data0=(-42.71714,170.96144)
 [END]
 
 ;1121551
@@ -89137,7 +89094,7 @@ Data0=(-43.38250,172.65877)
 Type=0x2f06
 Label=KIWIBANK QUICKCASH ATM KAIKOURA POSTSHOP
 StreetDesc=41 West End, Kaikoura/ ATM
-Data0=(-42.40068,173.68156)
+Data0=(-42.40067,173.68156)
 [END]
 
 ;1121580
@@ -89346,7 +89303,7 @@ Data0=(-45.89438,170.49948)
 Type=0x2f06
 Label=KIWIBANK QUICKCASH ATM SOUTH INVERCARGILL POSTSHOP
 StreetDesc=253 Elles Rd, Invercargill/ ATM
-Data0=(-46.42761,168.36126)
+Data0=(-46.42760,168.36125)
 [END]
 
 ;1121692
@@ -89745,7 +89702,7 @@ Type=0x2e07
 Label=RODD & GUNN NELSON
 StreetDesc=Fashion Island, 244 Hardy St, Nelson/ Men's fashion
 zip=Mon-Thu 9am-5:30pm, Fri 9am-8pm, Sat 9am
-Data0=(-41.27450,173.28532)
+Data0=(-41.27450,173.28531)
 [END]
 
 ;1121865
@@ -90128,7 +90085,7 @@ Type=0x2e0b
 Label=DIGITAL MOBILE CHRISTCHURCH CORPORATE
 StreetDesc=Unit 5, 422 Innes Rd, St Albans, Chc/ Vodafone mobiles, cellphones & accessories
 Phone=+6433850096
-Data0=(-43.49846,172.64167)
+Data0=(-43.49845,172.64167)
 [END]
 
 ;1122068
@@ -90326,7 +90283,7 @@ Label=GREENWOOD PARK MOTEL
 StreetDesc=Cnr Lansdowne Rd & State Highway 60, Appleby, Richmond/ Motel accommodation
 Phone=+6435444685
 zip=0800 GREENWOOD (473 369)
-Data0=(-41.31508,173.13561)
+Data0=(-41.31508,173.13560)
 [END]
 
 ;1122158
@@ -90986,7 +90943,7 @@ Type=0x2f
 Label=ROLLESTON RESOURCE RECOVERY PARK
 StreetDesc=Burnham School Rd Burnham/ Dump
 Phone=+6433472026
-zip=Monday to Friday, 9 to 4.30 â€¢ Saturday
+zip=Monday to Friday, 9 to 4.30  Saturday an
 Data0=(-43.61309,172.34356)
 [END]
 
@@ -91571,7 +91528,6 @@ Data0=(-43.53621,172.63026)
 Type=0x2F07
 Label=MILES AIRPORT TOYOTA
 StreetDesc=80 Orchard Rd, Chc/ Miles Toyota is the South Island's largest Toyota Dealership
-Phone=P033790610
 Data0=(-43.48477,172.55077)
 [END]
 
@@ -91785,7 +91741,7 @@ Label=OFFICEMAX
 StreetDesc=141 Trafalgar St, Nelson/ Office Supplies & Furniture, Packaging, Cafeteria & Cl
 Phone=+6435483616
 zip=Monday to Friday 8.00am - 5.00pm, Saturd
-Data0=(-41.27195,173.28425)
+Data0=(-41.27195,173.28424)
 [END]
 
 ;1122680
@@ -91828,7 +91784,7 @@ Data0=(-43.46423,170.01843)
 [POI]
 Type=0x2e
 Label=VICTORIA FLORISTS
-StreetDesc=107 Idris Rd/ florists, flower shop , fresh flower arrangements, fresh flowers, 
+StreetDesc=107 Idris Rd, Bryndwr, Chc/ florists, fresh flower arrangements, gift baskets, b
 Phone=+6433517444
 Data0=(-43.50867,172.60217)
 [END]
@@ -91837,28 +91793,9 @@ Data0=(-43.50867,172.60217)
 [POI]
 Type=0x2e
 Label=JULIA GRAY FLORISTS
-StreetDesc=154 Hereford St/ christchurch fresh flowers, christchurch florists, florists, fl
+StreetDesc=154 Hereford St, Chc/ florists, fresh flower arrangements, gift baskets, bouquet
 Phone=+6433661921
 Data0=(-43.53223,172.63789)
-[END]
-
-;1122694
-[POI]
-Type=0x2e
-Label=THE FLOWERSHOP - RICCARTON
-StreetDesc=129 Riccarton Rd/ christchurch fresh flowers, christchurch florists, florists, f
-Phone=+6433488222
-Data0=(-43.53108,172.59754)
-[END]
-
-;1122695
-[POI]
-Type=0x2e
-Label=THE FLOWERSHOP - NORTHLANDS
-StreetDesc=Shop 73, Northlands Shopping Mall, 55 Main North Rd, Papanui, Chc/ fresh flowers
-Phone=+6433524010
-zip=Mon-Wed 9am-6pm, Thu-Fri 9am-9pm, Sat-Su
-Data0=(-43.49231,172.61046)
 [END]
 
 ;1122696
@@ -91987,7 +91924,7 @@ Type=0x2a
 Label=ZUCCHINI BROTHERS
 StreetDesc=292 Highgate, Roslyn, Dud/ Zucchini Bros. Italian restaurant, licensed & BYO
 Phone=+6434779373
-Data0=(-45.86737,170.49020)
+Data0=(-45.86737,170.49019)
 [END]
 
 ;1122729
@@ -92006,7 +91943,7 @@ Label=ULTRAMEDIA
 StreetDesc=151 Worcester St, Chc/ Digital Video Production, DVD/CD Production, Conference a
 Phone=+6433776140
 zip=Weekdays 9AM-5PM
-Data0=(-43.53097,172.64062)
+Data0=(-43.53097,172.64061)
 [END]
 
 ;1122759
@@ -92321,7 +92258,7 @@ Type=0x2b01
 Label=ADDINGTON CITY MOTEL
 StreetDesc=241 Lincoln Rd, Addington, Chc/ Motel accommodation
 Phone=+6433388745
-Data0=(-43.54489,172.60928)
+Data0=(-43.54489,172.60927)
 [END]
 
 ;1123266
@@ -92330,7 +92267,7 @@ Type=0x2b01
 Label=ADMIRAL COURT MOTEL
 StreetDesc=327 Tay St, Invercargill/ Motel accommodation
 Phone=+6432171117
-Data0=(-46.41203,168.36931)
+Data0=(-46.41202,168.36931)
 [END]
 
 ;1123267
@@ -92375,7 +92312,7 @@ Type=0x2b01
 Label=AJAX AVE MOTEL - NELSON
 StreetDesc=11 Ajax Ave, Nelson/ Motel Accommodation, Nelson Central, NZ
 Phone=+6435488214
-Data0=(-41.26977,173.28603)
+Data0=(-41.26977,173.28602)
 [END]
 
 ;1123272
@@ -92537,7 +92474,7 @@ Type=0x2b01
 Label=ARTHURS COURT MOTOR LODGE
 StreetDesc=110 Sherborne St, Chc/ Motel accommodation. Formerly Abel Tasman Motor Lodge
 Phone=+6433669085
-Data0=(-43.51535,172.63830)
+Data0=(-43.51535,172.63829)
 [END]
 
 ;1123292
@@ -93401,7 +93338,7 @@ Data0=(-43.54445,172.61003)
 ;1123565
 [POI]
 Type=0x2a
-Label=KELLY'S CAFE BAR
+Label=KELLY'S CAFé BAR
 StreetDesc=234 East St, Ashburton/ restaurant, cafe, bar
 Phone=+33088811
 zip=8am-late 7 days
@@ -94806,7 +94743,7 @@ Type=0x2a05
 Label=COTTAGE BAKEHOUSE CAFE
 StreetDesc=430 George St, Dud/ Catering services, bakery
 Phone=+6434741255
-Data0=(-45.86746,170.50758)
+Data0=(-45.86745,170.50758)
 [END]
 
 ;1128482
@@ -95380,7 +95317,7 @@ Data0=(-45.90187,170.42918)
 Type=0x2f
 Label=GREEN MAN BREWERY
 StreetDesc=9 Grange St, Dud/ 
-Data0=(-45.87074,170.51151)
+Data0=(-45.87074,170.51150)
 [END]
 
 ;1128553
@@ -95936,7 +95873,7 @@ Data0=(-45.86865,170.59785)
 Type=0x2f
 Label=MACKIES HOTEL
 StreetDesc=14 George St Port Chalmers/ 
-Data0=(-45.81549,170.62164)
+Data0=(-45.81549,170.62163)
 [END]
 
 ;1128626
@@ -96019,7 +95956,7 @@ Data0=(-45.87457,170.50413)
 Type=0x2a07
 Label=MAYFLOWER TAKEAWAYS
 StreetDesc=378 South Rd, Dud/ takeaways
-Data0=(-45.89580,170.47715)
+Data0=(-45.89579,170.47715)
 [END]
 
 ;1128636
@@ -96285,7 +96222,7 @@ Data0=(-45.87836,170.50096)
 Type=0x2a04
 Label=NEW CANTON RESTAURANT
 StreetDesc=192 Princes St, Dud/ chinese restaurant
-Data0=(-45.87699,170.50174)
+Data0=(-45.87699,170.50173)
 [END]
 
 ;1128671
@@ -96605,7 +96542,7 @@ Type=0x2a
 Label=PORTOBELLO HOTEL & BISTRO
 StreetDesc=2 Harington Point Rd, Portobello/ Bar, restaurant, gaming lounge, accommodation
 Phone=+6434780759
-Data0=(-45.83968,170.65101)
+Data0=(-45.83968,170.65100)
 [END]
 
 ;1128710
@@ -96653,7 +96590,7 @@ Data0=(-45.84777,170.53375)
 Type=0x2e
 Label=RAVENSBOURNE DAIRY
 StreetDesc=217 Ravensbourne Rd Ravensbourne/ dairy, convenience store
-Data0=(-45.86640,170.55233)
+Data0=(-45.86640,170.55232)
 [END]
 
 ;1128716
@@ -97215,7 +97152,7 @@ Data0=(-45.87515,170.50222)
 Type=0x2f
 Label=THAI OVER
 StreetDesc=388 George St, Dud/ 
-Data0=(-45.86829,170.50712)
+Data0=(-45.86829,170.50711)
 [END]
 
 ;1128785
@@ -97746,7 +97683,7 @@ Data0=(-45.87250,170.50750)
 Type=0x2f
 Label=VINO VENA
 StreetDesc=484 George St, Dud/ 
-Data0=(-45.86642,170.50819)
+Data0=(-45.86642,170.50818)
 [END]
 
 ;1128850
@@ -97850,7 +97787,7 @@ Data0=(-45.87877,170.50681)
 Type=0x2f
 Label=WHO ATE ALL THE PIES
 StreetDesc=8 Prince Albert Rd, Dud/ 
-Data0=(-45.89984,170.50363)
+Data0=(-45.89984,170.50362)
 [END]
 
 ;1128864
@@ -98061,7 +97998,7 @@ Type=0x2e07
 Label=HANNAHS RANGIORA
 StreetDesc=96 High St, Rangiora/ Shoes
 Phone=+6433136255
-Data0=(-43.30324,172.59541)
+Data0=(-43.30324,172.59540)
 [END]
 
 ;1128918
@@ -98166,7 +98103,7 @@ Label=?GLENORCHY LIBRARY
 StreetDesc=Islay St Glenorchy/ Public Library
 Phone=+6434424378
 zip=Wed and Fri : 1.30pm - 3.30pm
-Data0=(-44.85056,168.38569)
+Data0=(-44.85055,168.38569)
 [END]
 
 ;1128933
@@ -98616,7 +98553,7 @@ Type=0x6404
 Label=CATHOLIC CHURCH ST PATRICKS
 StreetDesc=31 Gerald St, Lincoln/ Catholic Church
 Phone=+6433252770
-Data0=(-43.64083,172.48058)
+Data0=(-43.64082,172.48058)
 [END]
 
 ;1130406
@@ -98652,7 +98589,7 @@ Type=0x2f
 Label=RAY WHITE LINCOLN
 StreetDesc=Unit 2, The Vale, 19 Gerald St Lincoln/ Real Estate Agents
 Phone=+6433257299
-Data0=(-43.64070,172.48231)
+Data0=(-43.64070,172.48230)
 [END]
 
 ;1130415
@@ -99082,7 +99019,7 @@ Type=0x2a
 Label=MANTRA CHRISTCHURCH
 StreetDesc=72-74 North Avon Rd, Richmond Village, Chc/ Indian Restaurant, Takeaway
 Phone=+6433899997
-Data0=(-43.51773,172.65612)
+Data0=(-43.51773,172.65611)
 [END]
 
 ;1130532
@@ -99201,7 +99138,7 @@ Type=0x2e
 Label=HENRY'S ROLLESTON
 StreetDesc=Unit 2, Rolleston Dr, Rolleston/ Beer, Wine, Spirits
 Phone=+6433473026
-Data0=(-43.59582,172.38472)
+Data0=(-43.59582,172.38471)
 [END]
 
 ;1130694
@@ -99568,7 +99505,7 @@ Data0=(-43.53180,172.57211)
 Type=0x2f
 Label=5 STAR
 StreetDesc=Hornby Shopping Ctr, 418 Main South Rd Hornby Chc/ 
-Data0=(-43.54335,172.52315)
+Data0=(-43.54335,172.52314)
 [END]
 
 ;1130838
@@ -99689,7 +99626,7 @@ Data0=(-43.53906,172.58722)
 Type=0x2f
 Label=ACHESON AVE SEAFOODS
 StreetDesc=39 Acheson Ave, Mairehau, Chc/ 
-Data0=(-43.50084,172.65557)
+Data0=(-43.50084,172.65556)
 [END]
 
 ;1130853
@@ -99737,7 +99674,7 @@ Data0=(-43.54326,172.61269)
 Type=0x2f
 Label=AFGHAN FOOD AND NAAN WAEI
 StreetDesc=318 Lincoln Rd, Chc/ 
-Data0=(-43.54332,172.61259)
+Data0=(-43.54332,172.61258)
 [END]
 
 ;1130859
@@ -99849,7 +99786,7 @@ Data0=(-43.55757,172.63671)
 Type=0x2f
 Label=AMBROSIA DELI
 StreetDesc=193 Travis Rd, Chc/ 
-Data0=(-43.49404,172.70698)
+Data0=(-43.49404,172.70697)
 [END]
 
 ;1130873
@@ -100381,7 +100318,7 @@ Data0=(-43.51253,172.62182)
 Type=0x2a0e
 Label=BEACH CAFE
 StreetDesc=16A Beach Rd, Chc/ cafe
-Data0=(-43.48617,172.72215)
+Data0=(-43.48616,172.72215)
 [END]
 
 ;1130940
@@ -101656,7 +101593,7 @@ Data0=(-43.53101,172.58577)
 Type=0x2f
 Label=CITY SEAFOOD MARKET
 StreetDesc=277 Manchester St, Chc/ 
-Data0=(-43.52918,172.63946)
+Data0=(-43.52918,172.63945)
 [END]
 
 ;1131099
@@ -101782,7 +101719,7 @@ Data0=(-43.53323,172.64599)
 Type=0x2d02
 Label=COGNITO CAFE AND BAR
 StreetDesc=7 Normans Rd, Strowan, Chc/ cafe, bar
-Data0=(-43.50981,172.60731)
+Data0=(-43.50981,172.60730)
 [END]
 
 ;1131116
@@ -101986,7 +101923,7 @@ Type=0x2f
 Label=CUP
 StreetDesc=127 Hackthorne Rd, Cashmere, Chc/ Cafe
 Phone=+6433321270
-zip=Mon - Fri 7.30am - 4pm Sat & Sun 8am - 5
+zip=Mon  Fri 7.30am  4pm Sat & Sun 8am  5pm
 Data0=(-43.57698,172.63024)
 [END]
 
@@ -102349,7 +102286,7 @@ Data0=(-43.53324,172.64172)
 Type=0x2a0e
 Label=EASTCOAST CAFE
 StreetDesc=1091 Ferry Rd, Chc/ cafe
-Data0=(-43.55789,172.70590)
+Data0=(-43.55789,172.70589)
 [END]
 
 ;1131185
@@ -102437,7 +102374,7 @@ Data0=(-43.53007,172.57428)
 Type=0x2f
 Label=ELMWOOD FINE MEATS LIMITED
 StreetDesc=7 Normans Rd, Strowan, Chc/ 
-Data0=(-43.50981,172.60731)
+Data0=(-43.50981,172.60730)
 [END]
 
 ;1131196
@@ -102469,7 +102406,7 @@ Data0=(-43.60298,172.72218)
 Type=0x2a
 Label=ENDEAVOUR TAVERN
 StreetDesc=87 Effingham St, North Beach, Chc/ bar, restaurant
-Data0=(-43.49058,172.71817)
+Data0=(-43.49057,172.71817)
 [END]
 
 ;1131200
@@ -102493,7 +102430,7 @@ Data0=(-43.54029,172.61767)
 Type=0x2a0e
 Label=ESQUIRES HORNBY
 StreetDesc=The Hub Hornby, 418 Main South Rd, Hornby, Chc/ cafe
-Data0=(-43.54335,172.52315)
+Data0=(-43.54335,172.52314)
 [END]
 
 ;1131203
@@ -102670,7 +102607,7 @@ Data0=(-43.54359,172.66743)
 Type=0x2f
 Label=FINE FOODS LIMITED
 StreetDesc=7A Normans Rd, Strowan, Chc/ 
-Data0=(-43.50981,172.60731)
+Data0=(-43.50981,172.60730)
 [END]
 
 ;1131225
@@ -102768,7 +102705,6 @@ Data0=(-43.53813,172.60096)
 Type=0x2f
 Label=FOOD ON PARKHOUSE
 StreetDesc=Parkhouse Rd, Chc/ 
-Phone=3480567
 Data0=(-43.54406,172.56952)
 [END]
 
@@ -102866,7 +102802,7 @@ Data0=(-43.50978,172.60754)
 Type=0x2a05
 Label=FRENCH CAFE & BAKERY
 StreetDesc=102 Gloucester St, Chc/ bakery, cafe
-Data0=(-43.53000,172.63531)
+Data0=(-43.52999,172.63531)
 [END]
 
 ;1131250
@@ -102906,7 +102842,7 @@ Data0=(-43.55671,172.61857)
 Type=0x2a
 Label=FU HUA RESTAURANT
 StreetDesc=178 St Asaph St, Chc/ restaurant
-Data0=(-43.53652,172.63623)
+Data0=(-43.53652,172.63622)
 [END]
 
 ;1131256
@@ -103311,7 +103247,7 @@ Data0=(-43.53970,172.62632)
 Type=0x2a0e
 Label=GRAVITY CAFE DELI
 StreetDesc=158 High St, Chc/ cafe
-Data0=(-43.53488,172.64078)
+Data0=(-43.53487,172.64078)
 [END]
 
 ;1131305
@@ -103335,7 +103271,7 @@ Data0=(-43.52924,172.60840)
 Type=0x2f
 Label=GREAT WOK - HORNBY
 StreetDesc=416 Main South Rd, Chc/ 
-Data0=(-43.54335,172.52315)
+Data0=(-43.54335,172.52314)
 [END]
 
 ;1131308
@@ -103351,7 +103287,7 @@ Data0=(-43.54971,172.68398)
 Type=0x2e
 Label=GREENHAVEN DAIRY
 StreetDesc=253 Burwood Rd, Burwood, Chc/ dairy, convenience store
-Data0=(-43.48369,172.68083)
+Data0=(-43.48369,172.68082)
 [END]
 
 ;1131311
@@ -103393,7 +103329,7 @@ Label=GROWERS DIRECT MARKET LTD
 StreetDesc=28 Yaldhurst Rd, Chc/ Fruit, Vegetables
 Phone=+6433489925
 zip=Mon-Fri 0800-1800, Sat 0830-1700, Sun 09
-Data0=(-43.53088,172.56917)
+Data0=(-43.53088,172.56916)
 [END]
 
 ;1131316
@@ -103954,7 +103890,7 @@ Data0=(-43.52991,172.59967)
 Type=0x2f
 Label=HOTEL GRAND CHANCELLOR
 StreetDesc=161 Cashel St, Chc/ Accommodation
-Data0=(-43.53300,172.63893)
+Data0=(-43.53299,172.63893)
 [END]
 
 ;1131388
@@ -103971,7 +103907,7 @@ Type=0x2a07
 Label=HUNGRY WOK - HORNBY
 StreetDesc=The Hub Hornby, 418 Main South Rd, Hornby, Chc/ Foodcourt restaurant. Chinese me
 Phone=+6433498882
-Data0=(-43.54335,172.52315)
+Data0=(-43.54335,172.52314)
 [END]
 
 ;1131390
@@ -104232,7 +104168,7 @@ Data0=(-43.54069,172.51397)
 Type=0x2f
 Label=ISOBAR
 StreetDesc=416 Main South Rd, Chc/ 
-Data0=(-43.54335,172.52315)
+Data0=(-43.54335,172.52314)
 [END]
 
 ;1131424
@@ -105044,7 +104980,7 @@ Data0=(-43.55991,172.60244)
 Type=0x2f
 Label=LG MART
 StreetDesc=106 Gloucester St, Chc/ 
-Data0=(-43.53000,172.63557)
+Data0=(-43.52999,172.63557)
 [END]
 
 ;1131530
@@ -105506,7 +105442,7 @@ Data0=(-43.55036,172.48726)
 Type=0x2f
 Label=MATSU SUSHI Y&P
 StreetDesc=105 Armagh St, Chc/ Japanese food
-Data0=(-43.52864,172.63740)
+Data0=(-43.52864,172.63739)
 [END]
 
 ;1131590
@@ -105515,7 +105451,7 @@ Type=0x2a
 Label=MAY'S THAI RESTAURANT
 StreetDesc=The Hub Hornby, 418 Main South Rd, Hornby, Chc/ Foodcourt restaurant. Thai food,
 Phone=+6433498003
-Data0=(-43.54335,172.52315)
+Data0=(-43.54335,172.52314)
 [END]
 
 ;1131591
@@ -105597,7 +105533,7 @@ Type=0x2f
 Label=MEDITERRANEAN TASTE
 StreetDesc=The Hub Hornby, 418 Main South Rd, Hornby, Chc/ Foodcourt restaurant. Kebabs
 Phone=+6433490676
-Data0=(-43.54335,172.52315)
+Data0=(-43.54335,172.52314)
 [END]
 
 ;1131602
@@ -106202,6 +106138,7 @@ Data0=(-43.53346,172.63839)
 Type=0x2a07
 Label=NEW WOK CHINESE TAKEAWAY
 StreetDesc=60 Queenspark Dr, Parklands, Chc/ Chinese takeaways
+Phone=+33831234
 Data0=(-43.48164,172.70600)
 [END]
 
@@ -106423,7 +106360,7 @@ Data0=(-43.53302,172.67267)
 Type=0x2f
 Label=NZ SUPREME
 StreetDesc=175 Victoria St, Chc/ 
-Data0=(-43.52142,172.62826)
+Data0=(-43.52142,172.62825)
 [END]
 
 ;1131705
@@ -106711,7 +106648,7 @@ Data0=(-43.50864,172.65189)
 Type=0x2e
 Label=PARK DAIRY
 StreetDesc=37 Acheson Ave, Mairehau, Chc/ dairy, convenience store
-Data0=(-43.50084,172.65548)
+Data0=(-43.50084,172.65547)
 [END]
 
 ;1131740
@@ -106942,7 +106879,7 @@ Data0=(-43.56364,172.62629)
 Type=0x2a0e
 Label=PIONEER CAFE
 StreetDesc=61 Lyttelton St, Barrington, Chc/ cafe
-Data0=(-43.56601,172.61466)
+Data0=(-43.56601,172.61465)
 [END]
 
 ;1131769
@@ -106966,7 +106903,7 @@ Data0=(-43.50528,172.67740)
 Type=0x2e
 Label=PK'S DAIRY (ON THE SPOT)
 StreetDesc=448 Ferry Rd, Chc/ dairy, convenience store, Lotto
-Data0=(-43.54484,172.67071)
+Data0=(-43.54484,172.67070)
 [END]
 
 ;1131772
@@ -107072,7 +107009,7 @@ Data0=(-43.49501,172.71058)
 Type=0x2f
 Label=Q-MART CO LIMITED
 StreetDesc=353 Riccarton Rd, Chc/ 
-Data0=(-43.53186,172.57499)
+Data0=(-43.53186,172.57498)
 [END]
 
 ;1131786
@@ -107511,7 +107448,7 @@ Data0=(-43.55417,172.64623)
 Type=0x2e
 Label=ROLL ON IN DAIRY
 StreetDesc=251 Sawyers Arms Rd, Chc/ dairy, convenience store
-Data0=(-43.48181,172.59334)
+Data0=(-43.48181,172.59333)
 [END]
 
 ;1131842
@@ -108458,7 +108395,7 @@ Data0=(-43.51889,172.55257)
 [POI]
 Type=0x2a
 Label=STILL ROCK
-StreetDesc=50 Ferrymead Park Dr, Ferrymead, Chc/ Cafe, Restaurant
+StreetDesc=50 Ferrymead Park Dr, Ferrymead, Chc/ Café, Restaurant
 Phone=+6433765350
 zip=9am-? 7 days
 Data0=(-43.56607,172.70047)
@@ -108486,7 +108423,7 @@ Data0=(-43.56023,172.61296)
 Type=0x2a
 Label=STROMBOLI RESTAURANT & WINE BAR
 StreetDesc=79A Cashel St, Chc/ restaurant, bar
-Data0=(-43.53300,172.63418)
+Data0=(-43.53300,172.63417)
 [END]
 
 ;1131964
@@ -108607,7 +108544,7 @@ Data0=(-43.53518,172.58037)
 Type=0x2f
 Label=SUN WEI (NZ) TRADING CO LTD
 StreetDesc=113 Main South Rd, Chc/ 
-Data0=(-43.53703,172.55859)
+Data0=(-43.53702,172.55859)
 [END]
 
 ;1131981
@@ -108631,7 +108568,7 @@ Data0=(-43.55204,172.61238)
 Type=0x2f
 Label=SUNLAKE FOOD EASTGATE
 StreetDesc=234 Linwood Ave, Chc/ 
-Data0=(-43.53356,172.67270)
+Data0=(-43.53355,172.67270)
 [END]
 
 ;1131984
@@ -108747,7 +108684,7 @@ Data0=(-43.50657,172.66299)
 Type=0x2f
 Label=SUSHI ON THE ROAD
 StreetDesc=33 Cathedral Sq, Chc/ Japanese food
-Data0=(-43.53131,172.63516)
+Data0=(-43.53131,172.63515)
 [END]
 
 ;1131998
@@ -108789,7 +108726,7 @@ Data0=(-43.51253,172.62182)
 Type=0x2f
 Label=SUSHILAND - HORNBY MALL
 StreetDesc=Hornby Shopping Ctr, 418 Main South Rd Hornby Chc/ 
-Data0=(-43.54335,172.52315)
+Data0=(-43.54335,172.52314)
 [END]
 
 ;1132003
@@ -108845,7 +108782,7 @@ Data0=(-43.53007,172.57428)
 Type=0x2f
 Label=SWEET KITCHEN
 StreetDesc=6/422 Innes Rd, Chc/ 
-Data0=(-43.49846,172.64167)
+Data0=(-43.49845,172.64167)
 [END]
 
 ;1132010
@@ -108860,7 +108797,7 @@ Data0=(-43.47385,172.58796)
 [POI]
 Type=0x2a0e
 Label=SWITCH ESPRESSO
-StreetDesc=Shop 7, 78 New Brighton Mall, New Brighton, Chc/ cafe, Zenbu wi-fi
+StreetDesc=Shop 7, Sails on Carnaby, Carnaby Mall, 78 New Brighton Mall, New Brighton, Chc,
 Phone=+6433889886
 Data0=(-43.50736,172.72855)
 [END]
@@ -110008,7 +109945,7 @@ Data0=(-43.54135,172.55482)
 Type=0x2e
 Label=THE WURST BUTCHERY
 StreetDesc=275 Greers Rd, Chc/ butcher
-Data0=(-43.49931,172.58628)
+Data0=(-43.49930,172.58628)
 [END]
 
 ;1132160
@@ -110269,7 +110206,7 @@ Data0=(-43.54068,172.51408)
 Type=0x2f
 Label=TWISTERS
 StreetDesc=64 Beresford St, New Brighton, Chc/ 
-Data0=(-43.50851,172.72655)
+Data0=(-43.50850,172.72655)
 [END]
 
 ;1132194
@@ -110458,7 +110395,7 @@ Type=0x2f
 Label=VICTORIA THAI FOODS
 StreetDesc=173 Victoria St, Chc/ Thai Food
 Phone=+6433792293
-Data0=(-43.52142,172.62826)
+Data0=(-43.52142,172.62825)
 [END]
 
 ;1132219
@@ -110641,7 +110578,7 @@ Data0=(-43.53824,172.63571)
 Type=0x2a07
 Label=WENDYS SUPA SUNDAES THE HUB
 StreetDesc=The Hub Hornby, 418 Main South Rd, Hornby, Chc/ Ice creams, smoothies, desserts,
-Data0=(-43.54335,172.52315)
+Data0=(-43.54335,172.52314)
 [END]
 
 ;1132243
@@ -110665,7 +110602,7 @@ Data0=(-43.53515,172.53008)
 Type=0x2d
 Label=CBS CANTERBURY ARENA
 StreetDesc=55 Jack Hinton Dr, Chc/ Stadium. Indoor sports and entertainment venue. Formerly
-Data0=(-43.54545,172.60185)
+Data0=(-43.54545,172.60184)
 [END]
 
 ;1132246
@@ -111166,7 +111103,7 @@ Type=0x2e
 Label=CYCLE WORLD
 StreetDesc=52 Centennial Ave ,Alexandra/ Cycles
 Phone=+6434488048
-Data0=(-45.25250,169.38910)
+Data0=(-45.25250,169.38909)
 [END]
 
 ;1132440
@@ -111202,7 +111139,7 @@ Type=0x2e
 Label=THE COUNTRY STORE
 StreetDesc=38 Tarbert St, Alexandra/ Gifts
 Phone=+6434486005
-Data0=(-45.25710,169.39285)
+Data0=(-45.25709,169.39285)
 [END]
 
 ;1132444
@@ -111304,7 +111241,7 @@ Label=BUDGE'S CENTRAL PHARMACY & BOOKSHOP
 StreetDesc=4-6 Centennial Ave, Alexandra/ Pharmacy, Bookshoop
 Phone=+6434488871
 zip=Mon - Fri 8:30am - 5:30pm Sat 9:30am - 1
-Data0=(-45.25569,169.39256)
+Data0=(-45.25568,169.39256)
 [END]
 
 ;1132455
@@ -111585,7 +111522,7 @@ Label=PARTMASTER SYDENHAM
 StreetDesc=100 Durham St, Sydenham, Chc/ Auto Parts
 Phone=+6433657651
 zip=Mon-Fri 0730-1730, Sat 0830-1600
-Data0=(-43.54240,172.63382)
+Data0=(-43.54240,172.63381)
 [END]
 
 ;1132614
@@ -111949,7 +111886,6 @@ Data0=(-41.33749,173.18447)
 Type=0x2f
 Label=READY MADE BLINDS NZ LTD
 StreetDesc=330 Cashel St, Chc/ Aluminium Blinds, Basswood Blinds, PVC Blinds, Roller Blinds
-Phone=FreePhone0800770044
 zip=Mon-Fri 0800-1730, Sat 0900-1500
 Data0=(-43.53321,172.64898)
 [END]
@@ -112373,7 +112309,7 @@ Label=CTV - CANTERBURY TELEVISION
 StreetDesc=249 Madras St, Central City, Chc/ Your Home Channel, Canterbury Regional Televis
 Phone=+6433777033
 zip=8:30am - 5:00pm
-Data0=(-43.53302,172.64251)
+Data0=(-43.53302,172.64250)
 [END]
 
 ;1133482
@@ -112716,7 +112652,7 @@ Label=FIRST MOBILE HORNBY
 StreetDesc=Shop 5b, Shop 5b, The Hub Hornby, 418 Main South Rd, Hornby, Chc/ Vodafone mobil
 Phone=+6433493078
 zip=Mon-Wed 9am-6pm, Thu-Fri 9am-6:30pm, Sat
-Data0=(-43.54265,172.52368)
+Data0=(-43.54265,172.52367)
 [END]
 
 ;1133672
@@ -112725,7 +112661,7 @@ Type=0x2e0b
 Label=FIRST MOBILE INVERCARGILL
 StreetDesc=49 Esk St, Invercargill/ Vodafone mobiles, cellphones & accessories
 Phone=+6432181021
-Data0=(-46.41197,168.34853)
+Data0=(-46.41197,168.34852)
 [END]
 
 ;1133681
@@ -112936,7 +112872,7 @@ Type=0x2f
 Label=VERSATILE BUILDINGS OAMARU
 StreetDesc=19 Reed St, Oamaru/ Metal Sheds & Garages
 Phone=+6434341047
-Data0=(-45.09757,170.96781)
+Data0=(-45.09757,170.96780)
 [END]
 
 ;1133754
@@ -113519,7 +113455,7 @@ Type=0x2f
 Label=2ND NZEF ASSN (INC)
 StreetDesc=177 Don St, Invercargill/ Chartered Club
 Phone=+6432186653
-Data0=(-46.41091,168.35947)
+Data0=(-46.41090,168.35947)
 [END]
 
 ;1134394
@@ -113700,7 +113636,7 @@ Type=0x2a05
 Label=BELLS BAKERY
 StreetDesc=689 Tweed St, Invercargill/ bakery
 Phone=+6432167287
-Data0=(-46.41803,168.39053)
+Data0=(-46.41803,168.39052)
 [END]
 
 ;1134414
@@ -114121,7 +114057,7 @@ Type=0x2f
 Label=DES BRANKS HAIRDESIGN
 StreetDesc=119-123 Dee St, Invercargill/ Hairdressers
 Phone=+6432186632
-Data0=(-46.40989,168.34764)
+Data0=(-46.40989,168.34763)
 [END]
 
 ;1134462
@@ -114614,7 +114550,7 @@ Type=0x2a05
 Label=J R'S LUNCH BAR
 StreetDesc=169-171A Dee St, Invercargill/ bakery
 Phone=+6432186436
-Data0=(-46.40837,168.34765)
+Data0=(-46.40837,168.34764)
 [END]
 
 ;1134518
@@ -114740,7 +114676,7 @@ Type=0x2a
 Label=LANDS END NEW ZEALAND
 StreetDesc=10 Ward Parade, Bluff/ Accommodation, Cafe, Restaurant
 Phone=+6432127575
-Data0=(-46.61297,168.35767)
+Data0=(-46.61297,168.35766)
 [END]
 
 ;1134532
@@ -114792,7 +114728,7 @@ Data0=(-46.41264,168.36558)
 Type=0x2f
 Label=LYNDIS CAKE KITCHEN
 StreetDesc=302 Yarrow St, Invercargill/ 
-Data0=(-46.40738,168.36877)
+Data0=(-46.40738,168.36876)
 [END]
 
 ;1134538
@@ -115152,7 +115088,7 @@ Type=0x2f
 Label=PULSE HAIRSTYLISTS
 StreetDesc=302 Yarrow St, Invercargill/ Hairdressers
 Phone=+6432175375
-Data0=(-46.40738,168.36877)
+Data0=(-46.40738,168.36876)
 [END]
 
 ;1134579
@@ -115312,7 +115248,7 @@ Type=0x2f
 Label=SEAFOOD DIRECT
 StreetDesc=356 Tay St, Invercargill/ 
 Phone=+6432174106
-Data0=(-46.41146,168.37056)
+Data0=(-46.41146,168.37055)
 [END]
 
 ;1134597
@@ -115426,7 +115362,7 @@ Data0=(-46.59720,168.33539)
 Type=0x2e
 Label=SOUTHLAMB GOURMET MEATS
 StreetDesc=302 Yarrow St, Invercargill/ butcher
-Data0=(-46.40738,168.36877)
+Data0=(-46.40738,168.36876)
 [END]
 
 ;1134610
@@ -115603,7 +115539,7 @@ Type=0x2a05
 Label=STELLA'S IN BLUFF CAFE & BAKERY
 StreetDesc=60-66 Gore St, Bluff/ bakery, cafe
 Phone=+6432128269
-Data0=(-46.59932,168.34504)
+Data0=(-46.59932,168.34503)
 [END]
 
 ;1134630
@@ -115772,7 +115708,7 @@ Type=0x2a
 Label=THAI GURU
 StreetDesc=356 Tay St, Invercargill/ restaurant
 Phone=+6432175121
-Data0=(-46.41146,168.37056)
+Data0=(-46.41146,168.37055)
 [END]
 
 ;1134649
@@ -116081,7 +116017,7 @@ Type=0x2f03
 Label=WAIKIWI MOTORS
 StreetDesc=376 North Rd, Invercargill/ Mobil petrol station, Garage
 Phone=+6432157328
-Data0=(-46.37281,168.34710)
+Data0=(-46.37280,168.34710)
 [END]
 
 ;1134684
@@ -116392,7 +116328,7 @@ Type=0x2e09
 Label=BRADLEYS FURNITURE GREYMOUTH
 StreetDesc=63 Tainui St, Greymouth/ Beds, mattresses, bedroom furniture
 Phone=+6437684010
-Data0=(-42.45065,171.21091)
+Data0=(-42.45065,171.21090)
 [END]
 
 ;1134849
@@ -116770,7 +116706,7 @@ Type=0x2b00
 Label=CABLE BAY HOLIDAY PARK
 StreetDesc=799 Cable Bay Rd, Nelson/ Camping ground, accommodation. Powered & non-powered s
 Phone=+6435450003
-Data0=(-41.16183,173.41265)
+Data0=(-41.16183,173.41264)
 [END]
 
 ;1134991
@@ -116892,7 +116828,7 @@ Type=0x2f
 Label=DADDIOS PIZZA & MAIN TURKISH KEBAB
 StreetDesc=9 Strawbridge Sq, Stoke, Nelson/ 
 Phone=+6435470440
-zip=10:30am - 9:00pm 7 Days
+zip=10:30am  9:00pm 7 Days
 Data0=(-41.31224,173.23360)
 [END]
 
@@ -117105,7 +117041,7 @@ Data0=(-41.28793,173.24620)
 Type=0x2f
 Label=HAIR AT HOME
 StreetDesc=516a Waimea Rd, Nelson/ Hairdresser
-Data0=(-41.30146,173.24726)
+Data0=(-41.30146,173.24725)
 [END]
 
 ;1135032
@@ -117347,6 +117283,7 @@ Data0=(-41.26903,173.29446)
 Type=0x2a0e
 Label=MILTON STREET FISH & CHIP CAFE
 StreetDesc=136 Milton St, Nelson/ cafe
+Phone=+6435466730
 Data0=(-41.26903,173.29446)
 [END]
 
@@ -117925,7 +117862,7 @@ Data0=(-41.28113,173.27014)
 Type=0x2f
 Label=THE GINGERBREAD FACTORY
 StreetDesc=21 Rata St, Nelson/ 
-Data0=(-41.28797,173.29300)
+Data0=(-41.28796,173.29300)
 [END]
 
 ;1135136
@@ -118007,7 +117944,7 @@ Type=0x2a07
 Label=THE SANDS FISH 'N' CHIPS
 StreetDesc=Shop 1, 623 Rocks Rd, Tahunanui/ Fish and Chips
 Phone=+6435396161
-Data0=(-41.28027,173.25071)
+Data0=(-41.28026,173.25071)
 [END]
 
 ;1135147
@@ -118124,7 +118061,7 @@ Label=YELLO CAFE
 StreetDesc=157 Trafalgar St, Nelson/ cafe
 Phone=+6435481805
 zip=Winter Mon-Fri 8am-3pm Summer also Sat 1
-Data0=(-41.27212,173.28424)
+Data0=(-41.27212,173.28423)
 [END]
 
 ;1135161
@@ -118660,7 +118597,7 @@ Data0=(-43.32330,172.66523)
 ;1135606
 [POI]
 Type=0x2a0e
-Label=BONJOUR CAFE
+Label=BONJOUR CAFé
 StreetDesc=25 Ramshaw Lane, Arrowtown/ Cafe
 Phone=+6434098946
 Data0=(-44.93821,168.83159)
@@ -118877,7 +118814,7 @@ Type=0x2a
 Label=THE CLUBHOUSE RESTAURANT AT MILLBROOK
 StreetDesc=Malaghans Rd, Arrowtown/ Dining & Bar
 Phone=+6434417000
-Data0=(-44.94849,168.81397)
+Data0=(-44.94849,168.81396)
 [END]
 
 ;1136209
@@ -119102,7 +119039,7 @@ Label=IT'S INDI
 StreetDesc=72-74 North Avon Rd, Richmond, Chc/ Indian / Pizza Restaurant, Takeaway, Home de
 Phone=+6433899997
 zip=Lunch Wed& Fri only 11:30am-2pm, Dinner 
-Data0=(-43.51773,172.65612)
+Data0=(-43.51773,172.65611)
 [END]
 
 ;1136956
@@ -119111,7 +119048,7 @@ Type=0x2f
 Label=KENDONS SCOTT MACDONALD
 StreetDesc=119 Blenheim Rd, Riccarton, Chc/ Accountants, Business management, Taxation, Cor
 Phone=+6433434448
-Data0=(-43.53740,172.60096)
+Data0=(-43.53740,172.60095)
 [END]
 
 ;1136957
@@ -119698,7 +119635,7 @@ Data0=(-45.86496,170.51141)
 Type=0x2f
 Label=100% HOMEMADE
 StreetDesc=37 Hally Terrace, Temuka/ 
-Data0=(-44.24270,171.27905)
+Data0=(-44.24270,171.27904)
 [END]
 
 ;1137759
@@ -119942,7 +119879,7 @@ Data0=(-44.40253,171.24865)
 Type=0x2f
 Label=CENTENNIAL PARK STORE
 StreetDesc=382 Church St, Timaru/ 
-Data0=(-44.39627,171.22442)
+Data0=(-44.39626,171.22442)
 [END]
 
 ;1137795
@@ -120028,7 +119965,7 @@ Data0=(-44.24425,171.27726)
 Type=0x2f
 Label=CRAIGS MEN'S HAIRDRESSERS
 StreetDesc=199 Stafford St, Timaru/ Hairdresser
-Data0=(-44.39598,171.25347)
+Data0=(-44.39597,171.25347)
 [END]
 
 ;1137805
@@ -120448,7 +120385,7 @@ Data0=(-44.26024,171.12809)
 Type=0x2e
 Label=HASSALL STREET BUTCHERY ON STAFFORD
 StreetDesc=293 Stafford St, Timaru/ Butcher
-Data0=(-44.39388,171.25111)
+Data0=(-44.39388,171.25110)
 [END]
 
 ;1137859
@@ -120473,7 +120410,7 @@ Data0=(-44.38327,171.23720)
 Type=0x2f
 Label=HENRY'S MARKET PLACE
 StreetDesc=Cnr Peel & Talbot St, Geraldine/ 
-Data0=(-44.09063,171.24314)
+Data0=(-44.09063,171.24313)
 [END]
 
 ;1137862
@@ -120732,7 +120669,7 @@ Data0=(-44.40059,171.25774)
 Type=0x2a07
 Label=MOUNTAIN HUT TAKEAWAYS
 StreetDesc=8 Peel St, Geraldine/ takeaways
-Data0=(-44.09069,171.24225)
+Data0=(-44.09069,171.24224)
 [END]
 
 ;1137896
@@ -121114,7 +121051,7 @@ Data0=(-44.41707,171.24435)
 Type=0x2f
 Label=RELOAD
 StreetDesc=209 Stafford St, Timaru/ 
-Data0=(-44.39589,171.25333)
+Data0=(-44.39588,171.25333)
 [END]
 
 ;1137947
@@ -121332,7 +121269,7 @@ Data0=(-44.38450,171.20990)
 Type=0x2f
 Label=SOUTH CANTERBURY REFEREES ASSN - SPEIGHTS LOUNGE
 StreetDesc=Church St, Timaru/ 
-Data0=(-44.39706,171.22622)
+Data0=(-44.39706,171.22621)
 [END]
 
 ;1137975
@@ -121962,7 +121899,7 @@ Data0=(-44.39406,171.22920)
 Type=0x2f
 Label=?WESTEND AFC
 StreetDesc=Wai-iti Rd, Timaru/ 
-Data0=(-44.39007,171.22186)
+Data0=(-44.39006,171.22186)
 [END]
 
 ;1138054
@@ -122538,7 +122475,7 @@ Data0=(-45.86863,170.50692)
 Type=0x2a
 Label=FUSION RESTAURANT COFFEE SHOP
 StreetDesc=430 George St, Dud/ Cafe
-Data0=(-45.86746,170.50758)
+Data0=(-45.86745,170.50758)
 [END]
 
 ;1138128
@@ -123351,7 +123288,7 @@ Data0=(-45.87374,170.34867)
 Type=0x2f
 Label=SCOTT BASE
 StreetDesc=300 South Rd, Dud/ Hairdressers
-Data0=(-45.89603,170.47999)
+Data0=(-45.89603,170.47998)
 [END]
 
 ;1138228
@@ -123383,7 +123320,7 @@ Data0=(-45.87952,170.35199)
 Type=0x2a02
 Label=SHINJUKU SUSHI
 StreetDesc=110 Princes St, Dud/ Restaurant, Japanese food
-Data0=(-45.87604,170.50237)
+Data0=(-45.87604,170.50236)
 [END]
 
 ;1138232
@@ -123742,7 +123679,7 @@ Data0=(-45.87463,170.50492)
 Type=0x2f
 Label=UNISEX HAIR STYLOR
 StreetDesc=109 Stuart St, Dud/ Hairdressers
-Data0=(-45.87466,170.50505)
+Data0=(-45.87466,170.50504)
 [END]
 
 ;1138276
@@ -124031,7 +123968,7 @@ Data0=(-42.71401,170.96939)
 Type=0x2f
 Label=GLOW HAIRDRESSING
 StreetDesc=20 Tancred St, Hokiitika/ Hairdresser
-Data0=(-42.71853,170.96188)
+Data0=(-42.71852,170.96188)
 [END]
 
 ;1138565
@@ -124480,7 +124417,7 @@ Type=0x2f
 Label=HAWTHORN DEN INN
 StreetDesc=141 Waikaka Rd, Willowbank/ Wedding Consultancy &/or Arrangement Services, Bed a
 Phone=+6432071869
-Data0=(-46.02145,169.02834)
+Data0=(-46.02145,169.02833)
 [END]
 
 ;1138752
@@ -125216,7 +125153,6 @@ Data0=(-46.19299,168.86756)
 Type=0x2a0e
 Label=COSTELLOS CAFE
 StreetDesc=19 Irwell St, Gore/ Cafe
-Phone=32087770
 Data0=(-46.09786,168.94478)
 [END]
 
@@ -125288,7 +125224,7 @@ Data0=(-45.10066,170.96981)
 Type=0x2f
 Label=AMBIENCE HAIR DESIGN
 StreetDesc=81 Thames St, Oamaru/ Hairdressers
-Data0=(-45.09953,170.97041)
+Data0=(-45.09953,170.97040)
 [END]
 
 ;1139110
@@ -125434,7 +125370,7 @@ Data0=(-45.09590,170.97153)
 Type=0x2f
 Label=CAPITAL HAIR STUDIO
 StreetDesc=131 A Thames St, Oamaru/ Hairdressers
-Data0=(-45.09850,170.97091)
+Data0=(-45.09849,170.97091)
 [END]
 
 ;1139129
@@ -125618,7 +125554,7 @@ Data0=(-45.04222,170.87104)
 Type=0x2f
 Label=FUSION HAIR DESIGN
 StreetDesc=167 Thames St, Oamaru/ Hairdressers
-Data0=(-45.09738,170.97152)
+Data0=(-45.09737,170.97152)
 [END]
 
 ;1139156
@@ -125738,7 +125674,7 @@ Data0=(-45.08005,170.98263)
 Type=0x2f
 Label=IONA HOSPITAL AND HOME
 StreetDesc=Thames Highway, Oamaru/ 
-Data0=(-45.06810,170.99436)
+Data0=(-45.06809,170.99436)
 [END]
 
 ;1139173
@@ -125866,7 +125802,7 @@ Data0=(-44.74070,170.46427)
 Type=0x2f
 Label=?KUROW RUGBY CLUB
 StreetDesc=Manse Rd, Kurow/ 
-Data0=(-44.73957,170.46459)
+Data0=(-44.73957,170.46458)
 [END]
 
 ;1139189
@@ -126050,7 +125986,7 @@ Data0=(-45.01352,171.04258)
 Type=0x2f
 Label=NORTH OTAGO RETURNED SERVICES ASSOCIATION
 StreetDesc=Itchen St, Oamaru/ 
-Data0=(-45.10014,170.96449)
+Data0=(-45.10014,170.96448)
 [END]
 
 ;1139212
@@ -126138,7 +126074,7 @@ Data0=(-45.10300,170.96969)
 Type=0x2a0e
 Label=?OHAU SNOW FIELDS CAFE
 StreetDesc=Lake Ohau Rd, Lake Ohau/ cafe
-Data0=(-44.23831,169.79302)
+Data0=(-44.23831,169.79301)
 [END]
 
 ;1139223
@@ -126292,7 +126228,7 @@ Data0=(-45.09566,170.97299)
 Type=0x2a
 Label=RIVER CAFE RESTAURANT
 StreetDesc=63 Bledisloe St, Kurow/ restaurant, cafe
-Data0=(-44.73202,170.46924)
+Data0=(-44.73202,170.46923)
 [END]
 
 ;1139243
@@ -126324,7 +126260,7 @@ Data0=(-45.17543,170.90328)
 Type=0x2f
 Label=SELECT MENS HAIRDRESSING
 StreetDesc=435 Thames Highway, Oamaru/ Hairdressers
-Data0=(-45.07880,170.98429)
+Data0=(-45.07880,170.98428)
 [END]
 
 ;1139247
@@ -126495,7 +126431,7 @@ Data0=(-45.09090,170.97477)
 Type=0x2a07
 Label=TURRETT TAKEAWAYS
 StreetDesc=218 Thames St, Oamaru/ takeaways
-Data0=(-45.09329,170.97282)
+Data0=(-45.09329,170.97281)
 [END]
 
 ;1139269
@@ -126617,7 +126553,7 @@ Data0=(-45.10901,170.97174)
 Type=0x2a05
 Label=WILLETTS BAKERY & CAFE
 StreetDesc=163 Thames St, Oamaru/ bakery, cafe
-Data0=(-45.09738,170.97152)
+Data0=(-45.09737,170.97152)
 [END]
 
 ;1139284
@@ -126857,7 +126793,7 @@ Type=0x2f
 Label=O' CONNELLS EAST GORE DAIRY
 StreetDesc=44 Hmtn St, Gore/ Dairy, Food and Beverages
 Phone=+6432085155
-Data0=(-46.08921,168.95620)
+Data0=(-46.08920,168.95620)
 [END]
 
 ;1140813
@@ -127011,7 +126947,7 @@ Type=0x2e07
 Label=WILD SOUTH HANMER SPRINGS
 StreetDesc=Conical Hill Rd, Hanmer Springs/ Mens, Womens Clothing, Merino
 Phone=+6433155072
-Data0=(-42.52042,172.82961)
+Data0=(-42.52041,172.82961)
 [END]
 
 ;1140860
@@ -127038,7 +126974,7 @@ Type=0x2e07
 Label=?WILD SOUTH RICHMOND
 StreetDesc=Richmond Mall, Corner Queen, Croucher and Talbot St, Richmond, Nelson/ Mens, Wom
 Phone=+6435444820
-Data0=(-41.34006,173.18706)
+Data0=(-41.34005,173.18706)
 [END]
 
 ;1140869
@@ -127386,7 +127322,7 @@ Type=0x2f
 Label=HEALTH 2000 WESTPORT
 StreetDesc=112A Palmerston St, Westport/ Health & sports nutrition
 Phone=+6437897595
-Data0=(-41.75272,171.59791)
+Data0=(-41.75272,171.59790)
 [END]
 
 ;1141065
@@ -127540,7 +127476,7 @@ Data0=(-41.76151,171.60036)
 Type=0x2e
 Label=MILLHOUSE DAIRY
 StreetDesc=229 Palmerston St, Westport/ dairy, superette, convenience store
-Data0=(-41.76151,171.60036)
+Data0=(-41.76150,171.60036)
 [END]
 
 ;1141083
@@ -128684,7 +128620,7 @@ Type=0x2f
 Label=THRILLSEEKERS CANYON
 StreetDesc=839 Hanmer Springs Rd, Hanmer Springs/ Jetboats, river rafting, bungy jump, quad
 Phone=+6433157046
-Data0=(-42.58628,172.78004)
+Data0=(-42.58628,172.78003)
 [END]
 
 ;1141231
@@ -128751,7 +128687,7 @@ Data0=(-42.65298,173.04050)
 Type=0x2f
 Label=WAIKARI HAIR AFFAIR
 StreetDesc=8b Weka Pass Rd, Waikari/ Hairdressers
-Data0=(-42.97021,172.70554)
+Data0=(-42.97020,172.70554)
 [END]
 
 ;1141239
@@ -128986,7 +128922,7 @@ Type=0x2c06
 Label=REEFTON SKATE PARK 24HR
 StreetDesc=The Strand, Reefton/ Skate Park, Skate boarding, bmx
 zip=24 hrs
-Data0=(-42.12041,171.86681)
+Data0=(-42.12041,171.86680)
 [END]
 
 ;1141293
@@ -129050,7 +128986,7 @@ Type=0x2f
 Label=PGG WRIGHTSON REAL ESTATE
 StreetDesc=Shop 13, Rolleston Sq, Rolleston/ Residential and lifestyle property real estate
 Phone=+6433473660
-Data0=(-43.59531,172.38560)
+Data0=(-43.59531,172.38559)
 [END]
 
 ;1141300
@@ -129360,7 +129296,7 @@ Type=0x2f
 Label=TUATAPERE SAUSAGES
 StreetDesc=75 Main St, Tuatapere/ Sausage Capital, Famous Handmade Sausages
 Phone=+6432266596
-Data0=(-46.13509,167.68898)
+Data0=(-46.13509,167.68897)
 [END]
 
 ;1141559
@@ -129931,7 +129867,7 @@ Type=0x2f15
 Label=PAYPHONE
 StreetDesc=Main Rd O/S Stewart Island Travel Halfmoon Bay Stewart Island/ Telecom, payphone
 Phone=+6432191500
-Data0=(-46.89787,168.12567)
+Data0=(-46.89787,168.12566)
 [END]
 
 ;1141671
@@ -130183,7 +130119,7 @@ Type=0x2f15
 Label=PAYPHONE
 StreetDesc=SH94 Te Anau-Milford H'Way Te Anau Downs Grumpy's Backpackers Te Anau/ Telecom, 
 Phone=+6432498153
-Data0=(-45.19944,167.82239)
+Data0=(-45.19944,167.82238)
 [END]
 
 ;1141699
@@ -130201,7 +130137,7 @@ Type=0x2f15
 Label=PAYPHONE
 StreetDesc=48 Lake Front Dr Te Anau Backpackers Te Anau/ Telecom, payphone, public phone bo
 Phone=+6432498248
-Data0=(-45.41870,167.71300)
+Data0=(-45.41869,167.71300)
 [END]
 
 ;1141701
@@ -130471,7 +130407,7 @@ Type=0x2f15
 Label=PAYPHONE
 StreetDesc=Albert St cnr Bridge St O/S Dairy Hampstead Ashburton/ Telecom, payphone, public
 Phone=+6433084911
-Data0=(-43.90295,171.76365)
+Data0=(-43.90295,171.76364)
 [END]
 
 ;1141731
@@ -130777,7 +130713,7 @@ Type=0x2f15
 Label=PAYPHONE
 StreetDesc=The Esplanade YHA Kaikoura/ Telecom, payphone, public phone box
 Phone=+6433196731
-Data0=(-42.41554,173.69649)
+Data0=(-42.41554,173.69648)
 [END]
 
 ;1141765
@@ -130921,7 +130857,7 @@ Type=0x2f15
 Label=PAYPHONE
 StreetDesc=Featherston AveKairaki Beach Rangiora/ Telecom, payphone, public phone box
 Phone=+6433278001
-Data0=(-43.38622,172.70401)
+Data0=(-43.38621,172.70401)
 [END]
 
 ;1141782
@@ -131083,7 +131019,7 @@ Type=0x2f15
 Label=PAYPHONE
 StreetDesc=Lincoln Rd cnr Parlane St O/S Shops Addington Chc/ Telecom, payphone, public pho
 Phone=+6433388881
-Data0=(-43.54323,172.61246)
+Data0=(-43.54322,172.61246)
 [END]
 
 ;1141800
@@ -131524,7 +131460,7 @@ Type=0x2f15
 Label=PAYPHONE
 StreetDesc=39 Meadow St (Cranford St end) Meadow Park Top10 Holiday Park Papanui Chc/ Telec
 Phone=+6433542009
-Data0=(-43.49074,172.61851)
+Data0=(-43.49074,172.61850)
 [END]
 
 ;1141849
@@ -132271,7 +132207,7 @@ Type=0x2f15
 Label=PAYPHONE
 StreetDesc=Edgeware Rd cnr Colombo St St Albans Chc/ Telecom, payphone, public phone box
 Phone=+6433779057
-Data0=(-43.51359,172.63651)
+Data0=(-43.51359,172.63650)
 [END]
 
 ;1141934
@@ -132307,7 +132243,7 @@ Type=0x2f15
 Label=PAYPHONE
 StreetDesc=30 Victoria St Chc Casino Lobby City Chc/ Telecom, payphone, public phone box
 Phone=+6433790396
-Data0=(-43.52615,172.63305)
+Data0=(-43.52614,172.63305)
 [END]
 
 ;1141938
@@ -132919,7 +132855,7 @@ Type=0x2f15
 Label=PAYPHONE
 StreetDesc=183 Thames St O/S Paper Plus Oamaru/ Telecom, payphone, public phone box
 Phone=+6434345614
-Data0=(-45.09665,170.97165)
+Data0=(-45.09665,170.97164)
 [END]
 
 ;1142006
@@ -132946,7 +132882,7 @@ Type=0x2f15
 Label=PAYPHONE
 StreetDesc=Max Smith Dr Ruataniwha Motor Camp O/S Store Twizel/ Telecom, payphone, public p
 Phone=+6434350423
-Data0=(-44.27306,170.06872)
+Data0=(-44.27306,170.06871)
 [END]
 
 ;1142009
@@ -133450,7 +133386,7 @@ Type=0x2f15
 Label=PAYPHONE
 StreetDesc=Remarkables Rd Remarkables Ski Field I/S Main Doors Frankton Queenstown/ Telecom
 Phone=+6434427323
-Data0=(-45.05356,168.81532)
+Data0=(-45.05356,168.81531)
 [END]
 
 ;1142065
@@ -133639,7 +133575,7 @@ Type=0x2f15
 Label=PAYPHONE
 StreetDesc=Wanaka Mt Aspiring Rd Glendhu Bay Wanaka/ Telecom, payphone, public phone box
 Phone=+6434437206
-Data0=(-44.67202,169.01096)
+Data0=(-44.67202,169.01095)
 [END]
 
 ;1142086
@@ -134161,7 +134097,7 @@ Type=0x2f15
 Label=PAYPHONE
 StreetDesc=High St cnr Princes St Dud/ Telecom, payphone, public phone box
 Phone=+6434701504
-Data0=(-45.87812,170.50138)
+Data0=(-45.87812,170.50137)
 [END]
 
 ;1142144
@@ -134404,7 +134340,7 @@ Type=0x2f15
 Label=PAYPHONE
 StreetDesc=Greenacres St MacAndrew Bay Musselburgh Dud/ Telecom, payphone, public phone box
 Phone=+6434761104
-Data0=(-45.86864,170.59756)
+Data0=(-45.86864,170.59755)
 [END]
 
 ;1142171
@@ -134665,7 +134601,7 @@ Type=0x2f15
 Label=PAYPHONE
 StreetDesc=Airport Dr Dud AirportGnd Flr Waiting Area Kiosk Taieri Plains Dud/ Telecom, pay
 Phone=+6434861284
-Data0=(-45.92346,170.19722)
+Data0=(-45.92346,170.19721)
 [END]
 
 ;1142200
@@ -134836,7 +134772,7 @@ Type=0x2f15
 Label=PAYPHONE
 StreetDesc=Abel Tasman Dr Pohara Beach Top10 Holiday Park Pohara/ Telecom, payphone, public
 Phone=+6435259541
-Data0=(-40.83289,172.88579)
+Data0=(-40.83289,172.88578)
 [END]
 
 ;1142219
@@ -135574,7 +135510,7 @@ Type=0x2f15
 Label=PAYPHONE
 StreetDesc=Lagoon Rd Strait Shipping Passenger Term Picton/ Telecom, payphone, public phone
 Phone=+6435736043
-Data0=(-41.28394,174.00413)
+Data0=(-41.28393,174.00413)
 [END]
 
 ;1142301
@@ -136186,7 +136122,7 @@ Type=0x2f15
 Label=PAYPHONE
 StreetDesc=10 Allandale Rd Fairlie Gateway Top10 Holiday Park Fairlie/ Telecom, payphone, p
 Phone=+6436858386
-Data0=(-44.09763,170.83180)
+Data0=(-44.09763,170.83179)
 [END]
 
 ;1142370
@@ -136393,7 +136329,7 @@ Type=0x2f15
 Label=PAYPHONE
 StreetDesc=Ahau St O/S Moana Hotel Moana/ Telecom, payphone, public phone box
 Phone=+6437380091
-Data0=(-42.57565,171.47550)
+Data0=(-42.57565,171.47549)
 [END]
 
 ;1142393
@@ -136492,7 +136428,7 @@ Type=0x2f15
 Label=PAYPHONE
 StreetDesc=SHW 6 O/S Lake Paringa Cafi Lake Paringa/ Telecom, payphone, public phone box
 Phone=+6437510119
-Data0=(-43.71505,169.42303)
+Data0=(-43.71505,169.42302)
 [END]
 
 ;1142404
@@ -137145,7 +137081,7 @@ Data0=(-43.38538,172.65694)
 Type=0x2f
 Label=ABSOLUTELY FABULOUS
 StreetDesc=854 Mill Rd, Rangiora/ 
-Data0=(-43.35056,172.53772)
+Data0=(-43.35055,172.53772)
 [END]
 
 ;1144745
@@ -137323,7 +137259,7 @@ Data0=(-43.30353,172.59321)
 Type=0x2f
 Label=COUNTRY FLAIR HAIR DESIGNERS
 StreetDesc=49A Main North Rd, Woodend/ Hairdresser
-Data0=(-43.32373,172.66551)
+Data0=(-43.32373,172.66550)
 [END]
 
 ;1144768
@@ -138174,7 +138110,7 @@ Data0=(-43.38704,172.65163)
 Type=0x2f
 Label=SPICE 'N' LIFE
 StreetDesc=139 Williams St, Kaiapoi/ 
-Data0=(-43.38201,172.65800)
+Data0=(-43.38201,172.65799)
 [END]
 
 ;1144876
@@ -138198,7 +138134,6 @@ Data0=(-43.24917,172.66689)
 Type=0x2f
 Label=SUBWAY RANGIORA
 StreetDesc=75 Victoria St, Rangiora/ Restaurant, sub, sandwich, takeaway meal
-Phone=033134SUB
 zip=Monday to Sunday 7:00 am to 8:30 or 9:00
 Data0=(-43.30422,172.59515)
 [END]
@@ -138307,7 +138242,7 @@ Data0=(-43.30309,172.59449)
 Type=0x2f
 Label=THE HAIR GALLERY
 StreetDesc=Gables Arcade, 96 High St, Rangiora/ Hairdresser
-Data0=(-43.30324,172.59541)
+Data0=(-43.30324,172.59540)
 [END]
 
 ;1144892
@@ -138324,7 +138259,7 @@ Data0=(-43.30264,172.59975)
 Type=0x2f
 Label=THE PINES BEACH STORE
 StreetDesc=33 Dunns Ave, Pines Beach/ 
-Data0=(-43.37731,172.70165)
+Data0=(-43.37730,172.70165)
 [END]
 
 ;1144894
@@ -139386,7 +139321,7 @@ Data0=(-43.52628,172.63678)
 Type=0x2f
 Label=CLIPOTEC
 StreetDesc=91A Riccarton Rd, Chc/ Hairdresser
-Data0=(-43.52965,172.60284)
+Data0=(-43.52965,172.60283)
 [END]
 
 ;1146682
@@ -139613,7 +139548,7 @@ Data0=(-43.51471,172.68909)
 Type=0x2f
 Label=DR CUT! HAIR STUDIO
 StreetDesc=33 Cathedral Sq, Chc/ Hairdresser
-Data0=(-43.53131,172.63516)
+Data0=(-43.53131,172.63515)
 [END]
 
 ;1146715
@@ -139966,7 +139901,7 @@ Data0=(-43.53623,172.65717)
 Type=0x2f
 Label=GREEN HUT
 StreetDesc=158 Ferry Rd, Chc/ 
-Data0=(-43.53891,172.65260)
+Data0=(-43.53890,172.65260)
 [END]
 
 ;1146761
@@ -140235,7 +140170,7 @@ Type=0x2f
 Label=SASSY HAIR
 StreetDesc=3A Stourbridge St, Chc/ Hairdresser
 Phone=+6433389741
-Data0=(-43.56035,172.61278)
+Data0=(-43.56035,172.61277)
 [END]
 
 ;1146794
@@ -140689,7 +140624,7 @@ Data0=(-43.54471,172.69280)
 Type=0x2f
 Label=KILMARNOCK ENTERPRISES LIMITED
 StreetDesc=29 Kilmarnock St, Chc/ 
-Data0=(-43.52756,172.60790)
+Data0=(-43.52755,172.60790)
 [END]
 
 ;1146855
@@ -141186,7 +141121,7 @@ Data0=(-43.52913,172.57412)
 Type=0x2f
 Label=NATURAL IMAGE HAIR & BEAUTY
 StreetDesc=318 Selwyn St, Chc/ Hairdresser
-Data0=(-43.54803,172.62200)
+Data0=(-43.54803,172.62199)
 [END]
 
 ;1146921
@@ -141428,7 +141363,7 @@ Data0=(-43.48780,172.58685)
 Type=0x2f
 Label=PHASE 1 HAIR DESIGN
 StreetDesc=163B Yaldhurst Rd, Chc/ Hairdresser
-Data0=(-43.52652,172.55359)
+Data0=(-43.52652,172.55358)
 [END]
 
 ;1146953
@@ -141661,7 +141596,7 @@ Data0=(-43.55787,172.63710)
 Type=0x2f
 Label=SEA HAIR
 StreetDesc=5 Jetty Rd Governors, Chc/ Hairdresser
-Data0=(-43.62402,172.65137)
+Data0=(-43.62401,172.65137)
 [END]
 
 ;1146985
@@ -141678,7 +141613,7 @@ Type=0x2f
 Label=SHAMBHALA HAIR DESIGN
 StreetDesc=1st Fl, 209 Tuam St, Chc/ Hairdresser
 Phone=+6433793719
-Data0=(-43.53519,172.64035)
+Data0=(-43.53519,172.64034)
 [END]
 
 ;1146987
@@ -141799,7 +141734,7 @@ Data0=(-43.53519,172.64001)
 Type=0x2a0e
 Label=SOUL CAFE HIGH STREET
 StreetDesc=158 High St, Chc/ cafe
-Data0=(-43.53488,172.64078)
+Data0=(-43.53487,172.64078)
 [END]
 
 ;1147003
@@ -141890,7 +141825,7 @@ Data0=(-43.53466,172.63342)
 Type=0x2f
 Label=STOP HAIR DESIGN
 StreetDesc=259 Burwood Rd, Chc/ Hairdresser
-Data0=(-43.48369,172.68083)
+Data0=(-43.48369,172.68082)
 [END]
 
 ;1147015
@@ -142078,7 +142013,8 @@ Data0=(-43.53081,172.63880)
 [POI]
 Type=0x2f
 Label=SYNERGY HAIRDRESSING
-StreetDesc=20 Marshland Rd, Chc/ Hairdresser
+StreetDesc=The Palms, 20 Marshland Rd, Chc/ Hairdresser
+Phone=+6433855525
 Data0=(-43.50657,172.66299)
 [END]
 
@@ -142086,8 +142022,8 @@ Data0=(-43.50657,172.66299)
 [POI]
 Type=0x2f
 Label=SYNERGY HAIRDRESSING
-StreetDesc=Store 131 145 Riccarton Rd, Chc/ Hairdresser
-Phone=+33488837
+StreetDesc=Store 131, Westfield Riccarton, 145 Riccarton Rd, Chc/ Hairdresser
+Phone=+6433488837
 zip=Mon-Wed 9am-6pm, Thu-Fri 9am-9pm, Sat 9a
 Data0=(-43.53096,172.59962)
 [END]
@@ -142220,7 +142156,7 @@ Data0=(-43.52535,172.67257)
 Type=0x2a0e
 Label=THE COFFEE QUEEN ESPRESSO
 StreetDesc=102 Gloucester St, Chc/ cafe
-Data0=(-43.53000,172.63531)
+Data0=(-43.52999,172.63531)
 [END]
 
 ;1147057
@@ -142844,7 +142780,7 @@ Data0=(-43.54930,172.68265)
 Type=0x2f
 Label=ZONE
 StreetDesc=7 Normans Rd, Chc/ 
-Data0=(-43.50981,172.60731)
+Data0=(-43.50981,172.60730)
 [END]
 
 ;1147149
@@ -143040,7 +142976,7 @@ Data0=(-46.20233,169.37420)
 Type=0x2f
 Label=CLUTHA FISH SUPPLY
 StreetDesc=82 Clyde St, Balclutha/ 
-Data0=(-46.23877,169.73679)
+Data0=(-46.23877,169.73678)
 [END]
 
 ;1147173
@@ -143663,7 +143599,7 @@ Data0=(-46.23947,169.73594)
 Type=0x2a
 Label=SUBWAY MILTON
 StreetDesc=23 Union St, Milton/ Fast food restaurant, sandwiches, salads, takeaways
-Data0=(-46.12323,169.95680)
+Data0=(-46.12323,169.95679)
 [END]
 
 ;1147251
@@ -144034,7 +143970,6 @@ Data0=(-43.53978,172.65470)
 Type=0x2f
 Label=QUALITY LAUNDRY SERVICES
 StreetDesc=12 Lupins Lane, Bromley, Chc/ Laundry
-Phone=Fax033814099
 Data0=(-43.53504,172.69302)
 [END]
 
@@ -144956,7 +144891,7 @@ Data0=(-44.40561,171.23963)
 Type=0x2f06
 Label=NZCU SOUTH ATM
 StreetDesc=Cnr Kelvin and Don Streets, Invercargill/ AccessCash ATM
-Data0=(-46.41053,168.35076)
+Data0=(-46.41052,168.35076)
 [END]
 
 ;1148958
@@ -144981,7 +144916,6 @@ Data0=(-43.49191,172.61018)
 Type=0x2f
 Label=ELECTRICITY ASHBURTON
 StreetDesc=18 Kermode St, Ashburton/ Electricity Ashburton is a cooperatively owned company
-Phone=7700
 Data0=(-43.90450,171.74179)
 [END]
 
@@ -145000,7 +144934,7 @@ Type=0x2b00
 Label=ALPINE VIEW MOTEL
 StreetDesc=146 Beach Rd, Kaikoura/ Accommodation. Zenbu Wi-Fi wireless internet, low cost, 
 Phone=+6433195429
-Data0=(-42.38617,173.67975)
+Data0=(-42.38617,173.67974)
 [END]
 
 ;1148980
@@ -145127,7 +145061,7 @@ Type=0x2b03
 Label=WANAKA LAKEVIEW HOLIDAY PARK
 StreetDesc=212 Brownston St, Wanaka/ Camping ground
 Phone=+6434437883
-Data0=(-44.70139,169.12836)
+Data0=(-44.70139,169.12835)
 [END]
 
 ;1149078
@@ -145645,7 +145579,7 @@ Label=TWANG TOWN LTD.
 StreetDesc=45 Moray Place, Dud/ Maton, Vox, Traynor, G&L, Martin, Larrivee, Cort, AER, guit
 Phone=+6434771232
 zip=Monday to Friday 11 to 5:30, Saturday 10
-Data0=(-45.87508,170.50175)
+Data0=(-45.87508,170.50174)
 [END]
 
 ;1150431
@@ -146150,7 +146084,7 @@ Type=0x2b01
 Label=WOODLANDS MOTELS & APARTMENTS
 StreetDesc=594 Great King St, Dud/ Motel accommodation
 Phone=+6434770270
-Data0=(-45.86179,170.51186)
+Data0=(-45.86179,170.51185)
 [END]
 
 ;1150624
@@ -146678,7 +146612,7 @@ Type=0x2f
 Label=BIN INN ALEXANDRA
 StreetDesc=38 Tarbert St, Alexandra/ Wholefoods & Specialty Groceries, Bulk Foods, Gluten F
 Phone=+6434402066
-Data0=(-45.25710,169.39285)
+Data0=(-45.25709,169.39285)
 [END]
 
 ;1150749
@@ -146734,7 +146668,7 @@ Data0=(-45.53959,169.31417)
 Type=0x2f
 Label=CAIRNMUIR OLIVES
 StreetDesc=119 Cornish Point Rd, Bannockburn/ 
-Data0=(-45.06780,169.19282)
+Data0=(-45.06780,169.19281)
 [END]
 
 ;1150767
@@ -146874,7 +146808,7 @@ Type=0x2b00
 Label=SPEARGRASS INN
 StreetDesc=1300 Fruitlands-Roxburgh Rd, Alexandra/ Cafe, country fare & accommodation
 Phone=+6434492192
-Data0=(-45.34856,169.30019)
+Data0=(-45.34856,169.30018)
 [END]
 
 ;1150815
@@ -146986,7 +146920,7 @@ Data0=(-45.06073,169.15112)
 Type=0x2a0e
 Label=JUICE CAFE
 StreetDesc=182 State Highway 8B, Cromwell/ Cafe
-Data0=(-45.03645,169.21342)
+Data0=(-45.03645,169.21341)
 [END]
 
 ;1150848
@@ -147083,7 +147017,7 @@ Data0=(-45.74953,168.46722)
 Type=0x2a07
 Label=LUMSDEN TAKEAWAYS
 StreetDesc=62 Garden St, Lumsden/ Takeaway
-Data0=(-45.73578,168.44685)
+Data0=(-45.73578,168.44684)
 [END]
 
 ;1150887
@@ -147357,7 +147291,7 @@ Data0=(-45.54039,169.31432)
 Type=0x2a
 Label=THAI CROM RESTAURANT
 StreetDesc=49 Centennial Ave, Alexandra/ restaurant
-Data0=(-45.25200,169.38919)
+Data0=(-45.25200,169.38918)
 [END]
 
 ;1151019
@@ -147666,7 +147600,7 @@ Data0=(-41.04250,173.01613)
 ;1151141
 [POI]
 Type=0x2f
-Label=XCLINT GRAPHIC DESIGN - THE CREATIVE BUSINESS ADVANTAGE
+Label=XCLINT GRAPHIC DESIGN  THE CREATIVE BUSINESS ADVANTAGE
 StreetDesc=Sheridan Dr, Rolleston/ XClint Graphic Design for new, small-medium & large busi
 Phone=+6421114401
 Data0=(-43.61248,172.36320)
@@ -147884,7 +147818,7 @@ Type=0x2f
 Label=ACTIVE HEALTH QELL
 StreetDesc=171 Travis Rd, QEII Stadium, Chc/ Physiotherapist, physio
 Phone=+6433836290
-Data0=(-43.49404,172.70698)
+Data0=(-43.49404,172.70697)
 [END]
 
 ;1151261
@@ -147954,9 +147888,9 @@ Data0=(-42.96654,172.68311)
 [POI]
 Type=0x2f
 Label=AVONHEAD PHYSIOTHERAPY
-StreetDesc=204 Withells Rd, Avondale, Chc/ Physiotherapist, physio
+StreetDesc=204 Withells Rd, Avonhead, Chc/ Physiotherapist, physio
 Phone=+6433588889
-Data0=(-43.51145,172.55602)
+Data0=(-43.51139,172.55602)
 [END]
 
 ;1151295
@@ -147974,7 +147908,7 @@ Type=0x2f
 Label=BACK ON TRACK PHYSIOTHERAPY QUEENSTOWN
 StreetDesc=50 Gorge Rd, Queenstown/ Physiotherapist, physio
 Phone=+6434426616
-Data0=(-45.02631,168.66140)
+Data0=(-45.02631,168.66139)
 [END]
 
 ;1151300
@@ -148424,7 +148358,7 @@ Type=0x2f
 Label=MOTUEKA PHYSIOTHERAPY
 StreetDesc=12 Edward St, Wakefield/ Physiotherapist, physio
 Phone=+6435418911
-Data0=(-41.40659,173.04194)
+Data0=(-41.40659,173.04193)
 [END]
 
 ;1151456
@@ -149073,7 +149007,6 @@ Data0=(-42.39474,173.61458)
 Type=0x2c08
 Label=MOORE PARK SPEEDWAY
 StreetDesc=Weedons Ross Rd, West Melton/ SNZ, Motorcycle, Sidecar
-Phone=Infoline0273200977
 Data0=(-43.47586,172.38667)
 [END]
 
@@ -150021,7 +149954,7 @@ Data0=(-43.53075,172.58538)
 Type=0x2F09
 Label=LYTTELTON MARINA
 StreetDesc=Magazine Bay, 1 Godley Qy, Lyttelton, Chc/ Marina
-Data0=(-43.60558,172.71046)
+Data0=(-43.60558,172.71045)
 [END]
 
 ;1152123
@@ -150038,7 +149971,6 @@ Data0=(-45.89783,170.50193)
 Type=0x2b00
 Label=BIRDS FERRY LODGE
 StreetDesc=Birds Ferry Rd, RD 2 Westport 7865 West Coast/ 4.5 Qualmark stars. Luxury bed an
-Phone=Bookings0800212207Otherenquiries6434291604
 Data0=(-41.86368,171.49203)
 [END]
 
@@ -150359,7 +150291,7 @@ Type=0x2d0a
 Label=CURVES NELSON
 StreetDesc=243 Trafalgar St, Nelson/ Women's Gym, Health Club and Fitness Center
 Phone=+6435394735
-Data0=(-41.27389,173.28420)
+Data0=(-41.27388,173.28420)
 [END]
 
 ;1152756
@@ -150377,7 +150309,7 @@ Type=0x2d0a
 Label=CURVES INVERCARGILL
 StreetDesc=53 Yarrow St, Invercargill/ Women's Gym, Health Club and Fitness Center
 Phone=+6432188142
-Data0=(-46.40873,168.35113)
+Data0=(-46.40873,168.35112)
 [END]
 
 ;1152760
@@ -150931,7 +150863,7 @@ Type=0x6404
 Label=ST BARNABAS CHURCH
 StreetDesc=143 Fendalton Rd, Fendalton/ Anglican church
 Phone=+6433517064
-Data0=(-43.51917,172.59657)
+Data0=(-43.51917,172.59656)
 [END]
 
 ;1153029
@@ -151847,7 +151779,7 @@ Type=0x2e05
 Label=KAIKOURA PHARMACY
 StreetDesc=37 West End, Kaikoura/ Pharmacy
 Phone=+6433195035
-Data0=(-42.40056,173.68145)
+Data0=(-42.40056,173.68144)
 [END]
 
 ;1153478
@@ -151946,7 +151878,7 @@ Type=0x2e05
 Label=MAIREHAU PHARMACY
 StreetDesc=420 Innes Rd, Mairehau, Chc/ Pharmacy
 Phone=+6433857200
-Data0=(-43.49846,172.64167)
+Data0=(-43.49845,172.64167)
 [END]
 
 ;1153523
@@ -152538,7 +152470,7 @@ Data0=(-43.49937,172.58623)
 Type=0x2e05
 Label=WAIRAU HOSPITAL PHARMACY
 StreetDesc=Hospital Rd, Blenheim/ Pharmacy
-Data0=(-41.53562,173.94369)
+Data0=(-41.53561,173.94369)
 [END]
 
 ;1153773
@@ -152955,7 +152887,7 @@ Type=0x2F02
 Label=OMEGA RENTAL CARS NELSON
 StreetDesc=Trent Dr, Tahunanui, Nelson, 7011/ Nelson Car Rental, Nelson Car Hire
 Phone=+6435467780
-zip=8:00am - 5:00pm Mon - Fri, 8:30am - 4:00
+zip=8:00am  5:00pm Mon - Fri, 8:30am  4:00pm
 Data0=(-41.30007,173.22477)
 [END]
 
@@ -152965,7 +152897,7 @@ Type=0x2F02
 Label=OMEGA RENTAL CARS CHRISTCHURCH
 StreetDesc=20 Lichfield St, Chc, Canterbury 8011/ Christchurch Car Rental, Christchurch Car
 Phone=+6433774558
-zip=8:00am - 5:30pm Mon - Fri, 8:00am - 5:00
+zip=8:00am  5:30pm Mon - Fri, 8:00am  5:00pm
 Data0=(-43.53424,172.63400)
 [END]
 
@@ -152975,7 +152907,7 @@ Type=0x2F02
 Label=OMEGA RENTAL CARS CHRISTCHURCH AIRPORT
 StreetDesc=2 Export Ave, Harewood, Chc, Canterbury 8051/ Christchurch Airport Car Rental, C
 Phone=+6433602885
-zip=7:30am - 5:00pm Mon - Sun
+zip=7:30am  5:00pm Mon - Sun
 Data0=(-43.47207,172.55862)
 [END]
 
@@ -152985,7 +152917,7 @@ Type=0x2F02
 Label=OMEGA RENTAL CARS PICTON
 StreetDesc=1 Lagoon Rd, Picton, Marlborough/ Picton Car Rental, Picton Car Hire
 Phone=+6435735580
-zip=8:00am - 5:30pm Mon - Fri, 8:00am - 5:00
+zip=8:00am  5:30pm Mon - Fri, 8:00am  5:00pm
 Data0=(-41.29043,174.00047)
 [END]
 
@@ -152995,7 +152927,7 @@ Type=0x2F02
 Label=OMEGA RENTAL CARS QUEENSTOWN
 StreetDesc=20 Shotover St, Queenstown/ Queenstown Car Rental, Queenstown Car Hire
 Phone=+6434425224
-zip=8:00am - 5:30pm Mon - Fri, 8:00am - 5:00
+zip=8:00am  5:30pm Mon - Fri, 8:00am  5:00pm
 Data0=(-45.03079,168.66064)
 [END]
 
@@ -153024,7 +152956,7 @@ Type=0x2b00
 Label=KIWI HOUSE MAIN HOUSE
 StreetDesc=373 Gloucester St, Linwood, Chc/ Backpacker accommodation. Sauna. Zenbu Wi-Fi wi
 Phone=+6433816645
-Data0=(-43.52971,172.65288)
+Data0=(-43.52970,172.65288)
 [END]
 
 ;1153983
@@ -154438,7 +154370,7 @@ Type=0x2F07
 Label=WHEELER MOTOR COMPANY
 StreetDesc=171 Moorhouse Ave, Chc/ Car dealer
 Phone=+6433666369
-Data0=(-43.53974,172.62943)
+Data0=(-43.53974,172.62942)
 [END]
 
 ;1155154
@@ -154532,7 +154464,7 @@ Data0=(-45.87549,170.50241)
 ;1155211
 [POI]
 Type=0x2F07
-Label=EUROMARQUE CITROEN
+Label=EUROMARQUE CITROëN
 StreetDesc=131a St Asaph St, Chc/ European motor vehicle dealer. New & used car dealer. Cit
 Phone=+6439824900
 Data0=(-43.53628,172.63279)
@@ -155025,7 +154957,7 @@ Data0=(-46.42914,168.35421)
 Type=0x2f
 Label=KIDS FIRST KINDERGARTEN
 StreetDesc=14 Torrens Rd, Hillmorton/ 
-Data0=(-43.54979,172.59896)
+Data0=(-43.54978,172.59896)
 [END]
 
 ;1155416
@@ -155493,7 +155425,7 @@ Data0=(-43.90255,171.74621)
 Type=0x2f
 Label=SOCKBURN SERVICE CENTRE
 StreetDesc=149 Main South Rd, Sockburn/ 
-Data0=(-43.53844,172.55595)
+Data0=(-43.53843,172.55595)
 [END]
 
 ;1155577
@@ -155765,7 +155697,7 @@ Type=0x2b01
 Label=RIVERSTONE MOTEL
 StreetDesc=18 Southbrook Rd, Rangiora/ Motel accommodation
 Phone=0800778663
-Data0=(-43.32357,172.59854)
+Data0=(-43.32357,172.59853)
 [END]
 
 ;1155682
@@ -155784,15 +155716,6 @@ Label=BEALEY AVENUE MOTEL
 StreetDesc=229 Bealey Ave, Chc Central/ Motel accommodation
 Phone=+6433799112
 Data0=(-43.52064,172.64180)
-[END]
-
-;1155687
-[POI]
-Type=0x2b01
-Label=AKRON MOTEL
-StreetDesc=87 Bealey Ave, Chc/ Motel accommodation
-Phone=0800778787
-Data0=(-43.52067,172.63123)
 [END]
 
 ;1155689
@@ -156164,7 +156087,7 @@ Label=THE FLOORING WAREHOUSE CHRISTCHURCH
 StreetDesc=47 Gasson St, Sydenham, Chc, New Zealand/ Christchurch Flooring, Christchurch Ca
 Phone=+6433538899
 zip=9am to 5pm, Monday to Friday, 10am to 1p
-Data0=(-43.54506,172.64242)
+Data0=(-43.54506,172.64241)
 [END]
 
 ;1155974
@@ -156415,7 +156338,6 @@ Data0=(-43.31341,172.68283)
 Type=0x2f
 Label=?ST JOHN REEFTON
 StreetDesc=Broadway, Reefton/ Ambulance station
-Phone=111
 Data0=(-42.11956,171.86350)
 [END]
 
@@ -156442,7 +156364,6 @@ Data0=(-43.30286,172.59049)
 Type=0x2b00
 Label=ABISKO LODGE
 StreetDesc=74 Main St, Methven, Canterbury 7730, New Zealand/ Lodge accommodation campsite
-Phone=33028875
 Data0=(-43.63573,171.64713)
 [END]
 
@@ -156847,7 +156768,7 @@ Type=0x3003
 Label=MINISTRY OF EDUCATION NELSON
 StreetDesc=19 Haven Rd, Nelson 7010/ Education, government department
 Phone=+6435463470
-Data0=(-41.27170,173.28004)
+Data0=(-41.27170,173.28003)
 [END]
 
 ;1157435
@@ -157167,7 +157088,7 @@ Type=0x2e07
 Label=ANNAH S TIMARU
 StreetDesc=265 Stafford St, Timaru/ Women's fashion, clothing, accessories
 Phone=+6436888688
-Data0=(-44.39445,171.25174)
+Data0=(-44.39445,171.25173)
 [END]
 
 ;1157583
@@ -157176,7 +157097,7 @@ Type=0x2e07
 Label=ANNAH STRETTON CHRISTCHURCH
 StreetDesc=154A High St, Chc/ Women's fashion, clothing, accessories
 Phone=+6433729374
-Data0=(-43.53488,172.64078)
+Data0=(-43.53487,172.64078)
 [END]
 
 ;1157584
@@ -157275,7 +157196,7 @@ Type=0x2f
 Label=CAMLA FARM
 StreetDesc=Dunsandel - Hororata Rd, Dunsandel/ Orchard, Juice Bottler
 Phone=+6433254387
-Data0=(-43.62339,172.12137)
+Data0=(-43.62339,172.12136)
 [END]
 
 ;1157603
@@ -157292,7 +157213,7 @@ Type=0x2a07
 Label=CHARLIES TAKEAWAYS
 StreetDesc=32 West Town Belt, Rakaia/ Septic tank cleaner
 Phone=+6427433514
-Data0=(-43.75025,172.01851)
+Data0=(-43.75024,172.01851)
 [END]
 
 ;1157605
@@ -157655,7 +157576,7 @@ Label=LOGOS ON CAKES
 StreetDesc=60 Renoir Dr, Chc/ Logos on Cakes, Edible Image, Cake Topper, Cake Decorating
 Phone=+6421861681
 zip=Mon-Fri 9am to 5pm
-Data0=(-43.60334,172.37522)
+Data0=(-43.60334,172.37521)
 [END]
 
 ;1157651
@@ -157796,7 +157717,7 @@ Data0=(-43.88805,172.23997)
 Type=0x2f
 Label=RED BERRIES BERRY GARDEN
 StreetDesc=1257 Main South Rd, Weedons/ 
-Data0=(-43.57298,172.43201)
+Data0=(-43.57297,172.43201)
 [END]
 
 ;1157669
@@ -158139,7 +158060,7 @@ Data0=(-42.39217,173.67888)
 Type=0x2e07
 Label=CRT FARMCENTRE KAIKOURA
 StreetDesc=70 Beach Rd, Kaikoura/ Farm products; agchem, animal health, feed management, sh
-Data0=(-42.39370,173.67940)
+Data0=(-42.39370,173.67939)
 [END]
 
 ;1157712
@@ -159000,7 +158921,7 @@ Type=0x2e07
 Label=THE CARPENTERS DAUGHTER CHRISTCHURCH
 StreetDesc=96 Oxford Tce, Chc/ Clothing and fashionwear for bigger women, fashion for curvy
 Phone=+6439431633
-zip=Monday - Friday 9.30 - 5.30 Saturday 10.
+zip=Monday  Friday 9.30  5.30 Saturday 10.00
 Data0=(-43.53394,172.63380)
 [END]
 
@@ -159311,7 +159232,7 @@ Data0=(-43.78092,172.97647)
 Type=0x2b00
 Label=AKAROA DOLPHIN BACKPACKERS
 StreetDesc=108/106 Rue Jolie, Akaroa/ Accommodation
-Data0=(-43.80899,172.96351)
+Data0=(-43.80898,172.96350)
 [END]
 
 ;1158659
@@ -159423,7 +159344,7 @@ Data0=(-44.01024,170.48745)
 Type=0x2b00
 Label=ALPINE HOLIDAY APARTMENTS AND CAMP GROUND
 StreetDesc=9 Fowlers Lane, Hanmer Springs/ Accommodation
-Data0=(-42.51939,172.85307)
+Data0=(-42.51938,172.85307)
 [END]
 
 ;1158686
@@ -159848,7 +159769,7 @@ Data0=(-46.14845,168.32844)
 Type=0x2b00
 Label=BENBRAE - CARDRONA VALLEY RESORT
 StreetDesc=Cardrona Valley Rd, (next to the Cardrona Hotel), Cardrona/ Accommodation
-Data0=(-44.88287,169.00308)
+Data0=(-44.88287,169.00307)
 [END]
 
 ;1158841
@@ -160041,7 +159962,7 @@ Data0=(-41.27262,173.28146)
 Type=0x2b00
 Label=BURBERY APARTMENTS
 StreetDesc=154 High St, Chc, Chc/ Accommodation
-Data0=(-43.53488,172.64078)
+Data0=(-43.53487,172.64078)
 [END]
 
 ;1158904
@@ -160291,7 +160212,7 @@ Type=0x2b01
 Label=CHATEAU ON THE PARK HOTEL
 StreetDesc=189 Deans Ave, Riccarton, Chc/ Accommodation
 Phone=+6433488999
-Data0=(-43.52662,172.61127)
+Data0=(-43.52661,172.61127)
 [END]
 
 ;1158973
@@ -160641,7 +160562,7 @@ Data0=(-45.22716,169.42502)
 Type=0x2b02
 Label=DUNLUCE B&B TE ANAU
 StreetDesc=128 Aparima Dr, Te Anau/ B&B Accommodation
-Data0=(-45.40378,167.72309)
+Data0=(-45.40378,167.72308)
 [END]
 
 ;1159096
@@ -161026,7 +160947,7 @@ Data0=(-43.63076,171.64185)
 Type=0x2b00
 Label=GROVE VILLA BED & BREAKFAST
 StreetDesc=36 Grove St, The Wood, Nelson/ Accommodation
-Data0=(-41.26930,173.28855)
+Data0=(-41.26929,173.28854)
 [END]
 
 ;1159210
@@ -161996,7 +161917,7 @@ Data0=(-44.61333,169.26322)
 Type=0x2b00
 Label=MATTERHORN CHALET LODGE
 StreetDesc=20 Wakatipu Heights, Queenstown/ Accommodation
-Data0=(-45.03188,168.67581)
+Data0=(-45.03188,168.67580)
 [END]
 
 ;1159496
@@ -162765,7 +162686,7 @@ Data0=(-42.77161,170.99787)
 Type=0x2b00
 Label=RIPPINVALE RETREAT
 StreetDesc=68 Rippingdale Rd, Hanmer Springs/ Accommodation
-Data0=(-42.52473,172.81523)
+Data0=(-42.52473,172.81522)
 [END]
 
 ;1159746
@@ -162845,7 +162766,7 @@ Data0=(-41.81708,171.61043)
 Type=0x2b02
 Label=RIVERVIEW TERRACE BED AND BREAKFAST
 StreetDesc=31 Matheson Cres, Albert Town, Wanaka/ B&B Accommodation
-Data0=(-44.67931,169.17832)
+Data0=(-44.67931,169.17831)
 [END]
 
 ;1159763
@@ -162853,7 +162774,7 @@ Data0=(-44.67931,169.17832)
 Type=0x2b00
 Label=ROCFERN LODGE
 StreetDesc=93 Princes St, Waikari/ Accommodation
-Data0=(-42.96732,172.68584)
+Data0=(-42.96732,172.68583)
 [END]
 
 ;1159765
@@ -162926,7 +162847,7 @@ Data0=(-45.86835,170.48952)
 Type=0x2b00
 Label=ROUGH AND TUMBLE BUSH LODGE
 StreetDesc=Mokihinui Rd, Seddonville, Westport 7891/ Accommodation
-Data0=(-41.55317,172.01813)
+Data0=(-41.55317,172.01812)
 [END]
 
 ;1159780
@@ -163015,7 +162936,7 @@ Data0=(-45.41065,167.70834)
 Type=0x2b00
 Label=SHELBOURNE VILLA
 StreetDesc=21 Shelbourne St, Nelson/ Accommodation
-Data0=(-41.27733,173.28586)
+Data0=(-41.27733,173.28585)
 [END]
 
 ;1159812
@@ -163590,7 +163511,7 @@ Data0=(-45.65319,169.40646)
 Type=0x2b00
 Label=THE STUDIO
 StreetDesc=140 Glen Lyon Rd, Twizel/ Accommodation
-Data0=(-44.24750,170.09568)
+Data0=(-44.24750,170.09567)
 [END]
 
 ;1159988
@@ -163848,7 +163769,7 @@ Data0=(-44.09728,171.23986)
 Type=0x2b00
 Label=VILLA VICTORIA - WATERFRONT (HOUSE & GARDEN)
 StreetDesc=8 Victoria Rd, Stepnyville, Nelson/ Accommodation
-Data0=(-41.26770,173.26500)
+Data0=(-41.26770,173.26499)
 [END]
 
 ;1160085
@@ -163984,7 +163905,7 @@ Data0=(-43.15216,170.57644)
 Type=0x2b00
 Label=WATERLEA FARMSTAYS
 StreetDesc=197 Boys Rd, Rangiora/ Accommodation
-Data0=(-43.31622,172.61188)
+Data0=(-43.31621,172.61188)
 [END]
 
 ;1160140
@@ -165046,7 +164967,7 @@ Type=0x2f
 Label=ASHLEY PLAYCENTRE
 StreetDesc=43 Canterbury St, Ashley/ Playcentre
 Phone=+6433134310
-Data0=(-43.27443,172.60140)
+Data0=(-43.27443,172.60139)
 [END]
 
 ;1160665
@@ -165464,7 +165385,7 @@ Type=0x2f
 Label=CHILDS PLAY NURSERY
 StreetDesc=23 Main South Rd, Tinwald, Ashburton/ 
 Phone=+6433082959
-Data0=(-43.91476,171.73022)
+Data0=(-43.91475,171.73022)
 [END]
 
 ;1160953
@@ -166254,7 +166175,7 @@ Type=0x2f
 Label=?HAMPSTEAD FREE KINDERGARTEN
 StreetDesc=Cambridge St, Ashburton/ Kindergarten
 Phone=+6433083954
-Data0=(-43.90988,171.75818)
+Data0=(-43.90987,171.75818)
 [END]
 
 ;1161362
@@ -166272,7 +166193,7 @@ Type=0x2f
 Label=HANNAH N HENRY EARLY CHILDHOOD CENTRE
 StreetDesc=27 Elizabeth St, Ashburton/ 
 Phone=+6433080223
-Data0=(-43.89449,171.74511)
+Data0=(-43.89449,171.74510)
 [END]
 
 ;1161376
@@ -167079,7 +167000,7 @@ Type=0x2f
 Label=LITTLE PEOPLE EARLY LEARNING CENTRE
 StreetDesc=17 Gladstone Rd, Richmond/ 
 Phone=+6435447555
-Data0=(-41.33832,173.17939)
+Data0=(-41.33832,173.17938)
 [END]
 
 ;1161933
@@ -168022,7 +167943,7 @@ Type=0x2f
 Label=QUEEN ELIZABETH II PARK PRE SCHOOL CENTRE
 StreetDesc=193 Travis Rd, Northcote, Chc/ 
 Phone=+6433027523
-Data0=(-43.49404,172.70698)
+Data0=(-43.49404,172.70697)
 [END]
 
 ;1162694
@@ -168157,7 +168078,7 @@ Type=0x2f
 Label=RANUI FREE KINDERGARTEN
 StreetDesc=253 Selwyn St, Timaru/ Kindergarten
 Phone=+6436844469
-Data0=(-44.37881,171.22958)
+Data0=(-44.37880,171.22958)
 [END]
 
 ;1162736
@@ -168539,7 +168460,7 @@ Type=0x2f
 Label=SOUTHBRIDGE PLAYCENTRE
 StreetDesc=104 High St, Southbridge/ Playcentre
 Phone=+6433242713
-Data0=(-43.81150,172.25165)
+Data0=(-43.81150,172.25164)
 [END]
 
 ;1162919
@@ -168995,7 +168916,7 @@ Type=0x2f
 Label=THE TREE HUT COMMUNITY PRESCHOOL
 StreetDesc=26 Rolleston St, Cheviot/ 
 Phone=+6427615668
-Data0=(-42.81096,173.27210)
+Data0=(-42.81095,173.27210)
 [END]
 
 ;1163425
@@ -169288,7 +169209,7 @@ Type=0x2f
 Label=WANAKA PRE-SCHOOL EARLY CHILDHOOD CENTRE
 StreetDesc=106 Tenby St, Wanaka/ 
 Phone=+6434437090
-Data0=(-44.70248,169.13384)
+Data0=(-44.70247,169.13384)
 [END]
 
 ;1163673
@@ -169297,7 +169218,7 @@ Type=0x2f
 Label=?WARRINGTON PLAYCENTRE
 StreetDesc=Station Rd, Warrington/ Playcentre
 Phone=+6427227732
-Data0=(-45.70971,170.59182)
+Data0=(-45.70971,170.59181)
 [END]
 
 ;1163679
@@ -170154,7 +170075,7 @@ Type=0x2F07
 Label=BRENTS TOYOTAS
 StreetDesc=2 Moorhouse Ave, Addington, Chc/ Car dealer. MTA Assured
 Phone=+6433650580
-Data0=(-43.54024,172.61304)
+Data0=(-43.54024,172.61303)
 [END]
 
 ;1164127
@@ -170356,7 +170277,7 @@ Label=100% SELECTRIX
 StreetDesc=28 Main St, Gore/ Electronic appliances, computers and printers, dehumidifiers, 
 Phone=+6432084012
 zip=Mon-Fri 9am-5.30pm, Sat 10am-12.30pm, Su
-Data0=(-46.09951,168.94525)
+Data0=(-46.09951,168.94524)
 [END]
 
 ;1164208
@@ -170411,7 +170332,7 @@ Type=0x2f03
 Label=BROWN & SHIPMAN (1969) LTD
 StreetDesc=40 North St, Timaru/ Panelbeaters
 Phone=+6436880108
-Data0=(-44.40083,171.25192)
+Data0=(-44.40083,171.25191)
 [END]
 
 ;1164335
@@ -170520,7 +170441,7 @@ Type=0x2e
 Label=BOND & BOND BLENHEIM
 StreetDesc=Cnr Queen & Charles St, Blenheim/ appliances, whiteware, computers, phones
 Phone=+6435791594
-zip=Mon-Thurs 9am-5.30pm; Fri 9am-7pm; Sat 9
+zip=MonThurs 9am5.30pm; Fri 9am7pm; Sat 9am5
 Data0=(-41.51287,173.95553)
 [END]
 
@@ -170564,7 +170485,7 @@ Data0=(-43.51742,172.65588)
 Type=0x2b00
 Label=BEACHBREAKGOLDENBAY
 StreetDesc=41 Nees Rd, Rototai, Takaka/ Accommodation
-Data0=(-40.83306,172.83726)
+Data0=(-40.83306,172.83725)
 [END]
 
 ;1164441
@@ -171084,7 +171005,7 @@ Type=0x2f
 Label=WEDGERWOOD JOINERY LTD
 StreetDesc=11 Ngapara St, Alexandra/ Joinery
 Phone=+6434488832
-Data0=(-45.24743,169.39826)
+Data0=(-45.24742,169.39826)
 [END]
 
 ;1164750
@@ -171093,7 +171014,7 @@ Type=0x2f
 Label=QUEENSTOWN JOINERY
 StreetDesc=53 Industrial Place, Queenstown/ Joinery
 Phone=+6434427555
-Data0=(-45.01865,168.66122)
+Data0=(-45.01865,168.66121)
 [END]
 
 ;1164751
@@ -171120,7 +171041,7 @@ Type=0x2e09
 Label=BEST REMOVALS OTAGO LTD
 StreetDesc=1 Roberts St, Dud/ Furniture Removal, Freight
 Phone=+6434556655
-Data0=(-45.88144,170.50551)
+Data0=(-45.88144,170.50550)
 [END]
 
 ;1164754
@@ -171149,7 +171070,7 @@ Label=MATAURA PUBLIC LIBRARY
 StreetDesc=1 Bridge St, Mataura/ Public Library, Books, Internet, WiFi
 Phone=+6432038115
 zip=Monday-Friday: 8:30am - 5:00pm
-Data0=(-46.19413,168.86634)
+Data0=(-46.19412,168.86634)
 [END]
 
 ;1165128
@@ -171597,7 +171518,7 @@ Type=0x2b00
 Label=PEDAL INN (EX LAURISTON HOMESTAY)
 StreetDesc=3355 Lauder-Becks Rd, Lauder/ Accommodation
 Phone=+6434473460
-Data0=(-45.05073,169.67679)
+Data0=(-45.05072,169.67679)
 [END]
 
 ;1165252
@@ -172016,7 +171937,7 @@ Type=0x2a0e
 Label=CAFE MONDO
 StreetDesc=4/14 Ballarat Arcade Buckingham St Arrowtown/ Cafe
 Phone=+6434420227
-Data0=(-44.93857,168.83090)
+Data0=(-44.93857,168.83089)
 [END]
 
 ;1165315
@@ -172294,7 +172215,7 @@ Data0=(-44.66517,169.28249)
 Type=0x2f
 Label=ACTIVE PHYSIO ALEXANDRA
 StreetDesc=11 Chicago St, Alexandra/ Physiotherapist
-Data0=(-45.24705,169.39325)
+Data0=(-45.24704,169.39325)
 [END]
 
 ;1165410
@@ -172510,7 +172431,7 @@ Data0=(-43.52921,172.60518)
 Type=0x2f
 Label=ALPHA OMEGA HEALTH CARE
 StreetDesc=66 Innes Rd, Merivale, Chc/ 
-Data0=(-43.50774,172.62262)
+Data0=(-43.50774,172.62261)
 [END]
 
 ;1165499
@@ -172567,7 +172488,7 @@ Data0=(-42.69756,172.94671)
 Type=0x2f
 Label=AMYES ROAD MEDICAL CENTRE
 StreetDesc=7 Amyes Rd, Hornby, Chc/ 
-Data0=(-43.54556,172.52583)
+Data0=(-43.54556,172.52582)
 [END]
 
 ;1165513
@@ -173559,7 +173480,7 @@ Data0=(-45.25259,169.38770)
 Type=0x2f
 Label=CENTRAL OTAGO PODIATRY
 StreetDesc=84A Roche St, Wanaka/ Podiatrist
-Data0=(-44.70279,169.13569)
+Data0=(-44.70279,169.13568)
 [END]
 
 ;1166055
@@ -174250,7 +174171,7 @@ Data0=(-43.64597,172.33123)
 Type=0x2f
 Label=?DIAMOND HARBOUR SURGERY
 StreetDesc=Waipapa Ave, Diamond Harbour, Banks Peninsula, Chc/ 
-Data0=(-43.62928,172.73953)
+Data0=(-43.62927,172.73953)
 [END]
 
 ;1166392
@@ -174997,7 +174918,7 @@ Data0=(-46.41061,168.35504)
 Type=0x2f
 Label=DR ROBIN CHEN'S DENTAL SURGERY
 StreetDesc=89 Don St, Invercargill/ Dentist
-Data0=(-46.41091,168.35335)
+Data0=(-46.41090,168.35335)
 [END]
 
 ;1166743
@@ -175383,7 +175304,7 @@ Data0=(-41.51728,173.95769)
 Type=0x2f
 Label=EILEEN JONES - PHYSIOTHERAPY
 StreetDesc=77 Weld St, Hokitika, Greymouth/ Physiotherapist
-Data0=(-42.71949,170.96583)
+Data0=(-42.71949,170.96582)
 [END]
 
 ;1166894
@@ -175882,7 +175803,7 @@ Data0=(-45.87693,170.34911)
 Type=0x2f
 Label=GORE COUNSELLING CENTRE
 StreetDesc=17 Traford St, Gore/ 
-Data0=(-46.09677,168.94444)
+Data0=(-46.09677,168.94443)
 [END]
 
 ;1167177
@@ -176179,7 +176100,7 @@ Data0=(-43.53325,172.63508)
 Type=0x2f
 Label=HASSALL STREET SURGERY
 StreetDesc=37 Hassall St, Timaru/ 
-Data0=(-44.40433,171.24190)
+Data0=(-44.40433,171.24189)
 [END]
 
 ;1167304
@@ -177483,7 +177404,7 @@ Data0=(-44.51892,171.19674)
 Type=0x2f
 Label=MAATAA WAKA KI TE TAU IHU TRUST CLINIC
 StreetDesc=82 Seymour St, Blenheim, Marlborough/ 
-Data0=(-41.51657,173.95599)
+Data0=(-41.51657,173.95598)
 [END]
 
 ;1168026
@@ -178060,8 +177981,9 @@ Data0=(-41.27787,173.28010)
 [POI]
 Type=0x2f
 Label=MONTECILLO VETERAN'S HOME & HOSPITAL LTD
-StreetDesc=79 Eglinton Rd, Mornington, Dud/ 
-Data0=(-45.88706,170.48988)
+StreetDesc=63 Bay View Rd, St. Kilda, Dud/ War Veterans Resthome and Hospital.
+Phone=+6434664778
+Data0=(-45.89946,170.50428)
 [END]
 
 ;1168301
@@ -178689,7 +178611,7 @@ Data0=(-45.07689,170.98587)
 Type=0x2f
 Label=OCCUPATIONAL HEALTH LTD
 StreetDesc=34 Cranmer Sq, Chc/ 
-Data0=(-43.52697,172.63140)
+Data0=(-43.52697,172.63139)
 [END]
 
 ;1168587
@@ -178817,7 +178739,7 @@ Data0=(-45.86474,170.52058)
 Type=0x2f
 Label=OTAUTAHI MAORI WOMENS WELFARE LEAGUE
 StreetDesc=153 Gilberthorpes Rd, Hornby, Chc/ 
-Data0=(-43.53027,172.52127)
+Data0=(-43.53027,172.52126)
 [END]
 
 ;1168699
@@ -178873,7 +178795,7 @@ Data0=(-45.87342,170.50422)
 Type=0x2f
 Label=P L SANFORD ORTHODONTIST
 StreetDesc=170 Leet St, Invercargill/ 
-Data0=(-46.40736,168.35821)
+Data0=(-46.40736,168.35820)
 [END]
 
 ;1168716
@@ -179059,7 +178981,7 @@ Data0=(-43.50229,172.62566)
 Type=0x2f
 Label=PERKINS DENTAL
 StreetDesc=5 Irk St, Gore/ Dentist
-Data0=(-46.10006,168.94292)
+Data0=(-46.10006,168.94291)
 [END]
 
 ;1168855
@@ -179510,7 +179432,7 @@ Data0=(-43.49498,172.71117)
 Type=0x2f
 Label=QUALCARE WINDERMERE LTD
 StreetDesc=21 Windermere Rd, Chc/ 
-Data0=(-43.50184,172.60400)
+Data0=(-43.50183,172.60400)
 [END]
 
 ;1169092
@@ -180088,7 +180010,7 @@ Data0=(-43.52429,172.63117)
 Type=0x2f
 Label=SALVATION ARMY BRIDGE
 StreetDesc=35 Collins St, Addington, Chc/ 
-Data0=(-43.54566,172.61654)
+Data0=(-43.54566,172.61653)
 [END]
 
 ;1169336
@@ -180492,7 +180414,7 @@ Data0=(-41.31256,173.23806)
 Type=0x2f
 Label=SPENCE DENTAL SURGERY
 StreetDesc=67 Seymour St, Blenheim/ Dentist
-Data0=(-41.51559,173.95536)
+Data0=(-41.51559,173.95535)
 [END]
 
 ;1169507
@@ -180655,7 +180577,7 @@ Data0=(-45.86592,170.50842)
 Type=0x2f
 Label=STEVEN BRADY - COUNSELLOR
 StreetDesc=111 Seaview Rd, New Brighton, Chc/ 
-Data0=(-43.50813,172.72626)
+Data0=(-43.50812,172.72626)
 [END]
 
 ;1169575
@@ -181250,7 +181172,7 @@ Data0=(-44.40817,171.25658)
 Type=0x2f
 Label=TIMARU MEDICAL CENTRE
 StreetDesc=46a Harper St, Timaru/ 
-Data0=(-44.40500,171.24263)
+Data0=(-44.40499,171.24263)
 [END]
 
 ;1170002
@@ -181316,7 +181238,7 @@ Data0=(-43.59390,172.60450)
 Type=0x2f
 Label=TRACEY PONS PHYSIOTHERAPY
 StreetDesc=13 Kirk St, Kaiapoi, Chc/ Physiotherapist
-Data0=(-43.38401,172.66927)
+Data0=(-43.38401,172.66926)
 [END]
 
 ;1170052
@@ -181645,7 +181567,7 @@ Data0=(-43.53216,172.64392)
 Type=0x2f
 Label=WAKATIPU MEDICAL CENTRE
 StreetDesc=11 McBride St, Frankton, Queenstown/ 
-Data0=(-45.01648,168.73034)
+Data0=(-45.01648,168.73033)
 [END]
 
 ;1170252
@@ -181653,7 +181575,7 @@ Data0=(-45.01648,168.73034)
 Type=0x2f
 Label=WAKEFIELD HEALTH CENTRE
 StreetDesc=12 Edward St, Wakefield, Nelson/ 
-Data0=(-41.40659,173.04194)
+Data0=(-41.40658,173.04194)
 [END]
 
 ;1170256
@@ -181855,7 +181777,7 @@ Type=0x2f
 Label=SPRINGLANDS LIFESTYLE VILLAGE
 StreetDesc=5 Battys Rd, Springlands, Blenheim/ Retirement village, rest home
 Phone=+6435775208
-Data0=(-41.51001,173.93295)
+Data0=(-41.51000,173.93295)
 [END]
 
 ;1170417
@@ -182148,7 +182070,7 @@ Type=0x2e08
 Label=RESENE COLORSHOP GREYMOUTH
 StreetDesc=80 Mackay St, Greymouth/ Resene paint, wallpaper and decorating accessories
 Phone=+6437685250
-zip=Mon-Fri 8am - 5pm; Sat 9.30am-12.30pm
+zip=Mon-Fri 8am  5pm; Sat 9.30am-12.30pm
 Data0=(-42.44882,171.21047)
 [END]
 
@@ -182168,7 +182090,7 @@ Type=0x2e08
 Label=RESENE COLORSHOP HILLMORTON
 StreetDesc=10 Clarence St South, Hillmorton/ Resene paint, wallpaper and decorating accesso
 Phone=+6433386212
-zip=Mon-Fri 7am - 5pm
+zip=Mon-Fri 7am  5pm
 Data0=(-43.54359,172.61039)
 [END]
 
@@ -182178,7 +182100,7 @@ Type=0x2e08
 Label=RESENE COLORSHOP HOKITIKA
 StreetDesc=85 Revell St, Hokitika/ Resene paint, wallpaper and decorating accessories
 Phone=+6437558516
-zip=Mon-Fri 8am - 5pm; Sat 10am-12pm
+zip=Mon-Fri 8am  5pm; Sat 10am-12pm
 Data0=(-42.71731,170.96119)
 [END]
 
@@ -182198,7 +182120,7 @@ Type=0x2e08
 Label=RESENE COLORSHOP INVERCARGILL
 StreetDesc=65 Yarrow St, Invercargill/ Resene paint, wallpaper and decorating accessories
 Phone=+6432144079
-zip=Mon-Fri 7.30am - 5.30pm; Sat 9am-3pm
+zip=Mon-Fri 7.30am  5.30pm; Sat 9am-3pm
 Data0=(-46.40874,168.35191)
 [END]
 
@@ -182335,7 +182257,7 @@ Type=0x2f
 Label=PLANT & FOOD RESEARCH, CLYDE
 StreetDesc=990 Earnscleugh Rd,Alexandra 9391/ Horticulture Crop Research, CRI
 Phone=+39047300
-Data0=(-45.20510,169.31424)
+Data0=(-45.20510,169.31423)
 [END]
 
 ;1170664
@@ -182650,7 +182572,7 @@ Label=BEECH COMMUNICATIONS LTD
 StreetDesc=8 Opawa Rd, Opawa/ Radio, GPS, Tracking,
 Phone=+6433779580
 zip=Mon-Fri 0830-1700
-Data0=(-43.54742,172.65397)
+Data0=(-43.54742,172.65396)
 [END]
 
 ;1170842
@@ -182853,7 +182775,7 @@ Data0=(-43.53916,172.64109)
 [POI]
 Type=0x2f
 Label=THE WHITE ELEPHANT TRUST
-StreetDesc=L1 â€“ 1 Bedford Row Chc, Canterbury 8011/ Entertainment, music, social context 
+StreetDesc=L1 â€“ 1 Bedford Row Chc, Canterbury 8011/ Entertainment, music, social context fo
 Phone=+6433749285
 Data0=(-43.53356,172.63999)
 [END]
@@ -183091,7 +183013,7 @@ Label=BLACKS FASTENERS SOCKBURN
 StreetDesc=521C Blenheim Rd, Sockburn, Chc/ 
 Phone=+6433480340
 zip=Mon-Fri: 8am-5pm, Sat: 8am-12pm
-Data0=(-43.53933,172.56102)
+Data0=(-43.53933,172.56101)
 [END]
 
 ;1171091
@@ -183211,7 +183133,7 @@ Data0=(-45.24784,169.39721)
 Type=0x2f08
 Label=GALLOWAY RAILWAY STATION. OCRT
 StreetDesc=Galloway/ Old Railway Station, Otago Central Rail Trail
-Data0=(-45.21031,169.45858)
+Data0=(-45.21031,169.45857)
 [END]
 
 ;1171115
@@ -183407,7 +183329,7 @@ Type=0x2b00
 Label=AUTUMN FARM
 StreetDesc=37 Central Takaka Rd, RD 1, Takaka 7183, Golden Bay/ Accommodation gay holidays.
 Phone=+6435259013
-Data0=(-40.87919,172.82060)
+Data0=(-40.87919,172.82059)
 [END]
 
 ;1171164
@@ -183486,7 +183408,7 @@ Data0=(-45.01069,169.90356)
 Type=0x2c04
 Label=GOLDEN PROGRESS MINE
 StreetDesc=Reef Rd, Oturehua/ Historic Gold Mine
-Data0=(-45.00348,169.93316)
+Data0=(-45.00348,169.93315)
 [END]
 
 ;1171174
@@ -183853,7 +183775,7 @@ Data0=(-41.24761,172.11152)
 Type=0x4b00
 Label=ST JOHN KUROW
 StreetDesc=47 Gordon St, Kurow/ Ambulance station
-Data0=(-44.73255,170.46709)
+Data0=(-44.73255,170.46708)
 [END]
 
 ;1171326
@@ -183893,7 +183815,7 @@ Data0=(-43.63194,171.64472)
 Type=0x4b00
 Label=ST JOHN MILTON
 StreetDesc=Eden St, Milton/ Ambulance station
-Data0=(-46.12045,169.95804)
+Data0=(-46.12045,169.95803)
 [END]
 
 ;1171335
@@ -184325,7 +184247,7 @@ Label=CARDRONA ADVENTURE PARK
 StreetDesc=Cardrona Valley Rd, Wanaka/ Quad Bikes, Buggy and Monster Truck rides. Tourist a
 Phone=+6434436363
 zip=10am-5pm daily
-Data0=(-44.86338,169.02064)
+Data0=(-44.86338,169.02063)
 [END]
 
 ;1171471
@@ -184515,7 +184437,7 @@ Type=0x2c00
 Label=MT SANDFORD FARM STAY & RANDOM RIDES
 StreetDesc=738 Kaiwara Rd, Cheviot/ Tourist attraction & visitor activity
 Phone=+6433198753
-Data0=(-42.83181,173.11456)
+Data0=(-42.83181,173.11455)
 [END]
 
 ;1171511
@@ -184968,7 +184890,7 @@ Type=0x2c00
 Label=ENCOUNTER KAIKOURA
 StreetDesc=96 Esplanade, Kaikoura/ Dolphin Encounter and Albatross Encounter. Tourist attra
 Phone=0800733365
-Data0=(-42.40865,173.68551)
+Data0=(-42.40864,173.68551)
 [END]
 
 ;1171735
@@ -185043,7 +184965,7 @@ Type=0x2F07
 Label=DIRT ACTION SERVICE ATV & DIRT BIKE
 StreetDesc=29 Saxon St, Linwood 8011, Canterbury, New Zealand/ Motorcycle repairs, GasGas, 
 Phone=+6433890080
-Data0=(-43.53394,172.65535)
+Data0=(-43.53393,172.65535)
 [END]
 
 ;1171783
@@ -185083,7 +185005,7 @@ Label=PUSHBIKES RANGIORA
 StreetDesc=Gables Arcade, 96 High St, Rangiora/ Cycle Shop
 Phone=+6433135298
 zip=6 Days
-Data0=(-43.30324,172.59541)
+Data0=(-43.30324,172.59540)
 [END]
 
 ;1171800
@@ -185480,7 +185402,7 @@ Data0=(-43.51541,172.54681)
 Type=0x2d00
 Label=AVONSIDE TENNIS CLUB
 StreetDesc=Harvey Terrace, Chc/ Tennis club
-Data0=(-43.52475,172.65396)
+Data0=(-43.52475,172.65395)
 [END]
 
 ;1171928
@@ -185657,7 +185579,7 @@ Data0=(-45.89481,170.52429)
 Type=0x2d00
 Label=EDENDALE TENNIS CLUB
 StreetDesc=Edendale Recreation Grounds, Salford St, Edendale/ Tennis club
-Data0=(-46.31089,168.78085)
+Data0=(-46.31089,168.78084)
 [END]
 
 ;1171967
@@ -186147,7 +186069,7 @@ Data0=(-43.32302,172.59605)
 Type=0x2d00
 Label=ST CLAIR TENNIS CLUB
 StreetDesc=Victoria Rd, St Clair, Dud/ Tennis club
-Data0=(-45.90926,170.49718)
+Data0=(-45.90926,170.49717)
 [END]
 
 ;1172141
@@ -186352,7 +186274,6 @@ Data0=(-43.56634,172.40491)
 Type=0x2d00
 Label=WEST MELTON TENNIS CLUB
 StreetDesc=West Melton Reserve, West Melton Rd, Chc/ Tennis club
-Phone=MargaretVitelClubSecretary033479411
 Data0=(-43.52652,172.36947)
 [END]
 
@@ -186943,7 +186864,7 @@ Data0=(-45.03321,168.66137)
 Type=0x2c04
 Label=FYFFE HOUSE
 StreetDesc=62 Avoca St, Kaikoura/ Historic Place: Category 1
-Data0=(-42.41640,173.70671)
+Data0=(-42.41640,173.70670)
 [END]
 
 ;1172470
@@ -187167,7 +187088,7 @@ Data0=(-43.53433,172.63280)
 Type=0x2c04
 Label=BISHOPSPARK MAIN BUILDING AND CHAPEL
 StreetDesc=100 Park Terrace, Chc/ Historic Place: Category 1
-Data0=(-43.52371,172.62763)
+Data0=(-43.52370,172.62763)
 [END]
 
 ;1172502
@@ -187199,7 +187120,7 @@ Data0=(-43.52238,172.63939)
 Type=0x2c04
 Label=PRESS BUILDING
 StreetDesc=32 Cathedral Sq, Chc/ Historic Place: Category 1
-Data0=(-43.53074,172.63808)
+Data0=(-43.53073,172.63808)
 [END]
 
 ;1172507
@@ -187431,7 +187352,7 @@ Data0=(-43.38189,172.65877)
 Type=0x2c04
 Label=COTTAGE
 StreetDesc=259 Williams St, Kaiapoi/ Historic Place: Category 1
-Data0=(-43.37422,172.66245)
+Data0=(-43.37421,172.66245)
 [END]
 
 ;1172543
@@ -187719,7 +187640,7 @@ Data0=(-43.53769,172.64595)
 Type=0x2c04
 Label=KING EDWARD TECHNICAL COLLEGE (FORMER)
 StreetDesc=291 Stuart St, Dud/ Historic Place: Category 1
-Data0=(-45.87302,170.49896)
+Data0=(-45.87302,170.49895)
 [END]
 
 ;1172609
@@ -187879,7 +187800,7 @@ Data0=(-41.27421,173.28770)
 Type=0x2c04
 Label=HARDY STREET GIRLS' SCHOOL (FORMER)
 StreetDesc=319 Hardy St, Nelson/ Historic Place: Category 1
-Data0=(-41.27424,173.28881)
+Data0=(-41.27424,173.28880)
 [END]
 
 ;1172633
@@ -188167,7 +188088,7 @@ Data0=(-43.60586,172.28644)
 Type=0x2c04
 Label=MARAIRUA FARM COMPLEX
 StreetDesc=70 Marairua Rd, Tuturau/ Historic Place: Category 1
-Data0=(-46.26525,168.85060)
+Data0=(-46.26525,168.85059)
 [END]
 
 ;1172726
@@ -188399,7 +188320,7 @@ Data0=(-43.02583,172.77815)
 Type=0x2c04
 Label=STONYHURST STATION HOMESTEAD
 StreetDesc=Stonyhurst Rd, Scargill/ Historic Place: Category 1
-Data0=(-42.96815,173.16032)
+Data0=(-42.96814,173.16032)
 [END]
 
 ;1172828
@@ -188561,7 +188482,7 @@ Data0=(-45.60845,170.70110)
 Type=0x2c04
 Label=ST JOHN'S CHURCH (ANGLICAN)
 StreetDesc=Beach St, Waikouaiti/ Historic Place: Category 1
-Data0=(-45.60638,170.66933)
+Data0=(-45.60637,170.66933)
 [END]
 
 ;1172853
@@ -188601,7 +188522,7 @@ Data0=(-45.34285,169.28980)
 Type=0x2c04
 Label=?DUGGAN'S STORE & STABLES & YARD WALL
 StreetDesc=Naylor Rd, Matakanui/ Historic Place: Category 1
-Data0=(-45.01744,169.57320)
+Data0=(-45.01744,169.57319)
 [END]
 
 ;1172858
@@ -188657,7 +188578,7 @@ Data0=(-45.87461,170.49837)
 Type=0x2c04
 Label=CROWN MILLING COMPANY BUILDING
 StreetDesc=Manor Place, Dud/ Historic Place: Category 1
-Data0=(-45.88228,170.49848)
+Data0=(-45.88227,170.49848)
 [END]
 
 ;1172869
@@ -189444,7 +189365,7 @@ Data0=(-44.98833,168.67155)
 Type=0x2c04
 Label=NEW ZEALAND INSURANCE COMPANY BUILDING (FORMER)
 StreetDesc=Corner 49-51 Queens Gardens And 3-5 Crawford St, Dud/ Historic Place: Category 1
-Data0=(-45.87814,170.50336)
+Data0=(-45.87814,170.50335)
 [END]
 
 ;1173092
@@ -189484,7 +189405,6 @@ Data0=(-45.87832,170.50396)
 Type=0x2c04
 Label=?THE CUDDY (DWELLING)
 StreetDesc=Te Waimate Station, S.H.82, Waimate/ Historic Place: Category 1
-Phone=ViewingbyappointmentonlyPh036897199
 Data0=(-44.75899,171.02687)
 [END]
 
@@ -189573,7 +189493,7 @@ Data0=(-46.23543,169.74512)
 Type=0x2c04
 Label=OLIVER'S RESTAURANT AND LODGE COMPLEX
 StreetDesc=Corner 28-36 Sunderland St And Naylor St And Frache St, Clyde/ Historic Place: C
-Data0=(-45.18690,169.31700)
+Data0=(-45.18689,169.31700)
 [END]
 
 ;1173125
@@ -189701,7 +189621,7 @@ Data0=(-41.28696,174.00567)
 Type=0x2c04
 Label=?SHAG VALLEY STATION BUILDINGS
 StreetDesc=2353 State Highway 87), Morrisons, Otago/ Historic Place: Category 1
-Data0=(-45.31235,170.55511)
+Data0=(-45.31235,170.55510)
 [END]
 
 ;1173173
@@ -189725,7 +189645,7 @@ Data0=(-46.30920,168.76819)
 Type=0x2c04
 Label=BIG RIVER QUARTZ MINE
 StreetDesc=Victoria Conservation Park, Big River/ Historic Place: Category 1
-Data0=(-42.24417,171.89394)
+Data0=(-42.24417,171.89393)
 [END]
 
 ;1173177
@@ -189885,7 +189805,6 @@ Data0=(-43.73912,171.12008)
 Type=0x2c04
 Label=MAGAZINE
 StreetDesc=Magazine Bay, Lyttelton Harbour/ Historic Place: Category 1
-Phone=LytteltonInformationCentre033289093
 zip=Summer - Tue, Thur, Sat, Sun 1pm - 3pm/ 
 Data0=(-43.61003,172.70342)
 [END]
@@ -190356,7 +190275,7 @@ Label=THE CHILDREN'S BOOKSHOP
 StreetDesc=87 Victoria St Chc Canterbury 8013/ Books, toys
 Phone=+6433665274
 zip=Mon-Fri: 9am to 5:30pm, Sat: 10am to 4pm
-Data0=(-43.52495,172.63158)
+Data0=(-43.52495,172.63157)
 [END]
 
 ;1173420
@@ -190511,7 +190430,7 @@ Label=SMART
 StreetDesc=211 Ferry Rd, Waltham, Chc/ Save time and money. Discover the benefits of outsou
 Phone=+6433770299
 zip=Monday to Friday 9 - 5
-Data0=(-43.53936,172.65558)
+Data0=(-43.53936,172.65557)
 [END]
 
 ;1173476
@@ -190539,7 +190458,7 @@ Type=0x2f
 Label=QUALITY MOTORHOMES
 StreetDesc=140 Bowhill Rd North Beach Chc/ Quality Motorhomes, New Zealand offer affordable
 Phone=+6433880478
-Data0=(-43.49696,172.71834)
+Data0=(-43.49695,172.71834)
 [END]
 
 ;1173485
@@ -190557,8 +190476,8 @@ Type=0x2f
 Label=UR COMPUTER RICCARTON
 StreetDesc=127 Riccarton Rd, Riccarton, Chch/ computer parts, service
 Phone=+33488368
-zip=Mon-Fri: 11am-6pm Sat-Sun: 11am-3pm
-Data0=(-43.53000,172.59831)
+zip=MonFri: 11am6pm Sat-Sun: 11am3pm
+Data0=(-43.52999,172.59831)
 [END]
 
 ;1173489
@@ -190567,7 +190486,7 @@ Type=0x2f
 Label=UR COMPUTER SYDENHAM
 StreetDesc=95 Montreal St, Sydenham/ computer parts, service
 Phone=+33799598
-zip=Mon-Fri: 10am-5:30pm Sat: 10am-2:30pm
+zip=MonFri: 10am5:30pm Sat: 10am2:30pm
 Data0=(-43.54295,172.63042)
 [END]
 
@@ -190976,7 +190895,7 @@ Label=FIGARO'S
 StreetDesc=8 Scott St, Blenheim/ Cafe and bar open all day for breakfast lunch and dinner. 
 Phone=+6435777277
 zip=7.30 - late weekdays 8.30 - late weekend
-Data0=(-41.51462,173.95661)
+Data0=(-41.51462,173.95660)
 [END]
 
 ;1173595
@@ -191222,7 +191141,7 @@ Label=ALLIED WORK FORCE HORNBY
 StreetDesc=389 Main South Rd, Hornby/ Labour Hire, Temporary Personnel, Casual Staff
 Phone=+6433498715
 zip=Mon-Fri 0830-1700
-Data0=(-43.54360,172.52636)
+Data0=(-43.54360,172.52635)
 [END]
 
 ;1173655
@@ -191554,7 +191473,7 @@ Label=OIL CHANGERS INVERCARGILL
 StreetDesc=53 Yarrow St, Invercargill/ Vehicle Servicing
 Phone=+6432149053
 zip=Mon-Fri 8.00am-5.30pm Sat 9.00am-1.00pm
-Data0=(-46.40873,168.35113)
+Data0=(-46.40873,168.35112)
 [END]
 
 ;1173742
@@ -191802,7 +191721,7 @@ Data0=(-43.57427,172.62917)
 Type=0x2f
 Label=TRIANGLE PARK, PLAYGROUND, TOILETS
 StreetDesc=16 Main Rd, Clinton/ 
-Data0=(-46.20159,169.38041)
+Data0=(-46.20159,169.38040)
 [END]
 
 ;1173797
@@ -192120,7 +192039,7 @@ Label=COFFEE WORX OPAWA
 StreetDesc=Opawa Rd/ Coffee, Cafe
 Phone=+6433328587
 zip=Mon-Wed 9am-6pm, Thu-Fri 9am-9pm, Sat-Su
-Data0=(-43.55863,172.67339)
+Data0=(-43.55863,172.67338)
 [END]
 
 ;1173880
@@ -192196,7 +192115,7 @@ Type=0x2f
 Label=COMMERCIAL REFRIGERATION WHOLESALERS
 StreetDesc=227 Waltham Rd, Chch/ Hirecool, Refrigeration, Heat Pumps
 Phone=0800871117
-Data0=(-43.54344,172.64645)
+Data0=(-43.54344,172.64644)
 [END]
 
 ;1173911
@@ -192880,7 +192799,7 @@ Type=0x6404
 Label=NELSON BAPTIST CHURCH
 StreetDesc=193 Bridge St, Nelson./ Christian church, baptistic in style. First Baptist chur
 Phone=+6435487026
-Data0=(-41.27249,173.28891)
+Data0=(-41.27249,173.28890)
 [END]
 
 ;1174275
@@ -192916,7 +192835,7 @@ Data0=(-44.00464,170.47745)
 [POI]
 Type=0x2f
 Label=FISHERMANS LOFT
-StreetDesc=359 Lincoln Rd/ Christchurch's premier specialist fishing tackle store and angle
+StreetDesc=359 Lincoln Rd/ Christchurchs premier specialist fishing tackle store and angler
 Phone=+6433383131
 Data0=(-43.54133,172.61325)
 [END]
@@ -193576,7 +193495,7 @@ Type=0x2a0e
 Label=GRINDHOUSE CAFE
 StreetDesc=102 Major Hornbrook Rd, Mt Pleasant, Chch/ cafe
 Phone=+6433845044
-zip=8am - 5pm Tues -Sun
+zip=8am  5pm Tues Sun
 Data0=(-43.56329,172.71581)
 [END]
 
@@ -193674,7 +193593,7 @@ Data0=(-46.60188,168.32479)
 Type=0x6403
 Label=CALCIUM CEMETERY
 StreetDesc=5 Cemetery Rd, Isla Bank, Southland/ Cemetery
-Data0=(-46.20360,168.12755)
+Data0=(-46.20360,168.12754)
 [END]
 
 ;1174569
@@ -194000,7 +193919,7 @@ Data0=(-46.65509,168.87625)
 Type=0x6403
 Label=TE ANAU CEMETERY
 StreetDesc=Whitestone Rd, Te Anau/ Cemetery
-Data0=(-45.48561,167.80706)
+Data0=(-45.48560,167.80706)
 [END]
 
 ;1174635
@@ -194016,7 +193935,7 @@ Data0=(-46.10889,167.69090)
 Type=0x6403
 Label=WAIKAWA CEMETERY
 StreetDesc=439 Niagara Waikawa Rd/ Cemetery
-Data0=(-46.60938,169.12898)
+Data0=(-46.60938,169.12897)
 [END]
 
 ;1174637
@@ -194862,7 +194781,6 @@ Data0=(-43.51320,172.62277)
 Type=0x2f
 Label=CREDIT EXPRESS - PERSONAL LOANS
 StreetDesc=50 Durham St. Chc NZ/ Independent finance broker, Credit Express operates across
-Phone=Freephone0800499499
 Data0=(-43.54458,172.63382)
 [END]
 
@@ -194899,7 +194817,6 @@ Data0=(-41.26657,174.04783)
 Type=0x2f
 Label=IN BALANCE THERAPEUTICS
 StreetDesc=Unit H 21 Gordon Rd, Wanaka/ Clinical and Mobile Therapeutic Massage
-Phone=9305
 zip=7 Days a week by appointment
 Data0=(-44.70440,169.14623)
 [END]
@@ -195105,7 +195022,7 @@ Type=0x2e07
 Label=STIRLING SPORTS GREYMOUTH
 StreetDesc=31 Tainui St, Greymouth/ Sports & outdoor equipment, gear, clothing, footwear & 
 Phone=+6437685335
-Data0=(-42.44901,171.21124)
+Data0=(-42.44900,171.21124)
 [END]
 
 ;1175852
@@ -195170,7 +195087,6 @@ Data0=(-46.10030,168.94513)
 Type=0x2f
 Label=STEVEN BROOKS BUILDING
 StreetDesc=134 Douglas St Timaru/ Builder : New Homes and alterations Ph 03 6831004 Cell:02
-Phone=7910
 Data0=(-44.38571,171.22287)
 [END]
 
@@ -195333,7 +195249,7 @@ Type=0x2e08
 Label=CITYWIDE FLORIST
 StreetDesc=Cnr Chancery Lane and 102 Gloucester St, Chc/ Florist, flowers
 Phone=+6433791234
-Data0=(-43.53000,172.63531)
+Data0=(-43.52999,172.63531)
 [END]
 
 ;1175981
@@ -195360,7 +195276,7 @@ Type=0x2e08
 Label=DUNEDIN FLOWERS
 StreetDesc=547 Andersons Bay Rd, South Dud/ Florist, flowers
 Phone=+6434555644
-Data0=(-45.89720,170.50881)
+Data0=(-45.89720,170.50880)
 [END]
 
 ;1175992
@@ -195451,7 +195367,7 @@ Type=0x2e08
 Label=FLOWERTIME ON SCOTT STREET
 StreetDesc=4 Scott St, Blenheim/ Florist, flowers
 Phone=+6435785175
-Data0=(-41.51447,173.95662)
+Data0=(-41.51447,173.95661)
 [END]
 
 ;1176036
@@ -197392,7 +197308,7 @@ Data0=(-45.56686,167.60961)
 Type=0x2b01
 Label=TOURIST COURT MOTEL
 StreetDesc=45 High St, Picton/ Motel accommodation
-Data0=(-41.29023,174.00653)
+Data0=(-41.29022,174.00653)
 [END]
 
 ;1176862
@@ -197573,7 +197489,6 @@ Data0=(-45.03272,168.66200)
 Type=0x2f
 Label=PHYSIOTHERAPY + PILATES EVOLVED
 StreetDesc=1063 Ferry Rd, Ferry Mead, Chc/ Physiotherapy, Pilates, Rehabilitation, Chronic 
-Phone=8023
 zip=Weekdays 8am to 8pm, except Friday 8am t
 Data0=(-43.55775,172.70474)
 [END]
@@ -197583,7 +197498,6 @@ Data0=(-43.55775,172.70474)
 Type=0x2f
 Label=WANAKA BEATS 107.3 FM 24HR
 StreetDesc=Wanaka, Cnr Ardmore and Helwick, Upstairs of Kai Whaka Pai/ Freshest radio stati
-Phone=textthestudio8987startingwithwanakabeatsvodafoneonly
 zip=Broadcasting 24/7 on 107.3fm
 Data0=(-44.69517,169.13474)
 [END]
@@ -197829,7 +197743,7 @@ Type=0x2a08
 Label=LA PORCHETTA PAPANUI
 StreetDesc=484 Cranford St, Papanui, Chc/ Italian restaurant, pizza, pasta, takeaways, full
 Phone=+6433522094
-Data0=(-43.49061,172.62164)
+Data0=(-43.49061,172.62163)
 [END]
 
 ;1177164
@@ -197845,7 +197759,7 @@ Data0=(-44.60957,169.25606)
 [POI]
 Type=0x2f
 Label=INFINITE MARKETING LIMITED
-StreetDesc=91a Hansons Lane, Chc 8041/ Internet Marketing Consulting, specialising in gener
+StreetDesc=91a Hansons Lane, Chc 8041/ Internet Marketing Consulting, specialises in genera
 Phone=+6421298875
 Data0=(-43.53718,172.57520)
 [END]
@@ -197955,7 +197869,6 @@ Data0=(-43.28455,170.40903)
 Type=0x6404
 Label=OXFORD TERRACE BAPTIST CHURCH
 StreetDesc=286 Oxford Terrace, Chc/ Baptist Church
-Phone=33795996
 zip=Church office hours Tues, Wed, Fri 9-2
 Data0=(-43.52711,172.64302)
 [END]
@@ -198654,7 +198567,6 @@ Data0=(-43.50356,172.71129)
 Type=0x2b00
 Label=PICTON APARTMENT
 StreetDesc=64 Waikawa Rd, Picton/ Accommodation for families
-Phone=7220
 zip=9am-9pm
 Data0=(-41.28979,174.01400)
 [END]
@@ -199019,7 +198931,6 @@ Data0=(-43.51781,172.70054)
 Type=0x2f
 Label=KITESURF NELSON
 StreetDesc=623 Rocks Rd Moana Nelson 7011/ Kite, Kitesurf, kiteboard, kiteschool, surf, adv
-Phone=03548598
 zip=Mon-Fri: 10am to 5pm, Sat: 10am to 3pm.
 Data0=(-41.28010,173.25079)
 [END]
@@ -199069,7 +198980,7 @@ Type=0x2F02
 Label=OMEGA RENTAL CARS QUEENSTOWN AIRPORT
 StreetDesc=20 Shotover St, Queenstown, New Zealand/ Queenstown Airport Car Rental, Queensto
 Phone=+6434425224
-zip=8:00am - 5:30pm Mon - Fri, 8:00am - 5:00
+zip=8:00am  5:30pm Mon - Fri, 8:00am  5:00pm
 Data0=(-45.03086,168.66074)
 [END]
 
@@ -199130,7 +199041,7 @@ Label=ONSEN HOT POOLS
 StreetDesc=160 Arthurs Point Rd, Arthurs Point, Queenstown,/ Hot Pools
 Phone=+6434425707
 zip=10am - 10pm
-Data0=(-44.98026,168.68594)
+Data0=(-44.98025,168.68594)
 [END]
 
 ;1177852
@@ -199378,7 +199289,7 @@ Data0=(-44.38635,170.19835)
 Type=0x4700
 Label=BOAT RAMP
 StreetDesc=Haldon/ Boat Ramp
-Data0=(-44.34651,170.22425)
+Data0=(-44.34651,170.22424)
 [END]
 
 ;1177883
@@ -199699,7 +199610,7 @@ Type=0x2f
 Label=CAPITAL BOOKKEEPING LTD
 StreetDesc=Chc/ Helping small to medium business with regular updating of financial records
 Phone=+6433887997
-Data0=(-43.49353,172.70680)
+Data0=(-43.49353,172.70679)
 [END]
 
 ;1178230
@@ -200633,7 +200544,7 @@ Type=0x2a0e
 Label=DOSE
 StreetDesc=Shop 6, 77 Tuam St, Chc/ cafe
 zip=Mon-Fri 7.30am-4pm
-Data0=(-43.53520,172.63175)
+Data0=(-43.53520,172.63174)
 [END]
 
 ;1178759
@@ -201309,7 +201220,7 @@ Data0=(-45.87417,170.50119)
 Type=0x2b00
 Label=ABBOTT HOUSE SUMNER BED & BREAKFAST
 StreetDesc=104 Nayland St, Sumner, Chc/ Bed and Breakfast accommodation
-Data0=(-43.57308,172.76482)
+Data0=(-43.57308,172.76481)
 [END]
 
 ;1178929
@@ -202050,7 +201961,7 @@ Type=0x2b01
 Label=ADVENTURE QUEENSTOWN HOSTEL AND CHALET
 StreetDesc=36 Camp St, Queenstown 9300, Southland/ Accommodation, backpacker, hotel, motel.
 Phone=+6434090243
-Data0=(-45.03121,168.66069)
+Data0=(-45.03120,168.66069)
 [END]
 
 ;1179209
@@ -202693,7 +202604,6 @@ Data0=(-45.87498,170.34849)
 Type=0x2f
 Label=TREVOR BRANTON : REAL ESTATE AGENT
 StreetDesc=61 Goodall St, Mosgiel, 9024/ Mosgiel, Dunedin, Otago, Real Estate Agent, Trevor
-Phone=O034895444M0220501020AH034890019
 zip=All hours
 Data0=(-45.87104,170.33641)
 [END]
@@ -202724,7 +202634,7 @@ Type=0x2f
 Label=?CLOUD NINE CREATIVE
 StreetDesc=Chirstchurch/ Artwork, Homewares and Accessories. Gifts all handmade in New Zeal
 Phone=+6421073183
-Data0=(-43.53205,172.63623)
+Data0=(-43.53205,172.63622)
 [END]
 
 ;1179712
@@ -203003,8 +202913,8 @@ Data0=(-41.27082,173.29076)
 [POI]
 Type=0x2f
 Label=MAEREWHENUA
-StreetDesc=Livingstone-Duntroon Rd, Duntroon 9494, New Zealand/ Acient maori rock art, tour
-Data0=(-44.86131,170.68646)
+StreetDesc=Livingstone-Duntroon Rd, Duntroon/ Ancient maori rock art, tourist attraction
+Data0=(-44.86127,170.68648)
 [END]
 
 ;1179836
@@ -203082,19 +202992,19 @@ Data0=(-43.15317,172.72813)
 Type=0x2f
 Label=THE FULL NOISE LTD
 StreetDesc=3 Newbourne Cres, Blenheim/ Graphic Design, Web Design and Marketing
-Phone=7201
+Phone=+6435777368
 zip=9am - 5pm
-Data0=(-41.52582,173.95504)
+Data0=(-41.52587,173.95498)
 [END]
 
 ;1179988
 [POI]
 Type=0x2f
 Label=RUSSELL'S PAINT AND PANEL
-StreetDesc=2 Park terrace, Blenheim/ Panel beaters, Car Painters, Collision Repair
-Phone=7201
+StreetDesc=2 Park Terrace, Blenheim/ Panel beaters, Car Painters, Collision Repair
+Phone=+6435787864
 zip=8am - 5pm
-Data0=(-41.51297,173.96065)
+Data0=(-41.51296,173.96066)
 [END]
 
 ;1179994
@@ -203175,11 +203085,11 @@ Data0=(-46.10260,168.94286)
 ;1180112
 [POI]
 Type=0x2f
-Label=CUMULUS PARAGLIDING LTD, NELSON
-StreetDesc=7 Tuffnell St, Richmond, Nelson, New Zealand./ Paragliding Nelson,Tandem Paragli
-Phone=FreePhone0800359863
-zip=7 Days, 365 Day's a Year.
-Data0=(-41.34435,173.19893)
+Label=CUMULUS PARAGLIDING LTD
+StreetDesc=7 Tuffnell St, Richmond, Nelson/ Tandem Paragliding. Paragliding sales and equip
+Phone=0800359863
+zip=7 Days, 365 Days a Year
+Data0=(-41.34435,173.19896)
 [END]
 
 ;1180141
@@ -203209,6 +203119,15 @@ Phone=+6435728716
 Data0=(-41.50833,173.82588)
 [END]
 
+;1180163
+[POI]
+Type=0x2f
+Label=EXTREME TUBE
+StreetDesc=1777 Te Towaka-Port Ligar Rd, Port Ligar 7193, New Zealand/ Extreme Tube extreme
+Phone=+6439290018
+Data0=(-40.91108,173.97160)
+[END]
+
 ;1180165
 [POI]
 Type=0x2a
@@ -203224,5 +203143,230 @@ Type=0x2f0c
 Label=WAIHOLA PUBLIC TOILETS.
 StreetDesc=Waihola pl. Waihola./ Community public toilets
 Data0=(-46.02291,170.09282)
+[END]
+
+;1180172
+[POI]
+Type=0x2f
+Label=WAVETECH LTD
+StreetDesc=4/9 Washington Way, Sydenham, Chc/ We sell car audio. We repair car audio.
+Phone=+6433742329
+zip=Mon-Fri 8am-5pm
+Data0=(-43.54073,172.64366)
+[END]
+
+;1180180
+[POI]
+Type=0x2f
+Label=STANDBY CONSULTING
+StreetDesc=Rodgers House, Cnr Princess & Dowling St, Dud/ Specialists in Business Continuit
+Phone=+6434719464
+Data0=(-45.87669,170.50239)
+[END]
+
+;1180181
+[POI]
+Type=0x2f0c
+Label=GLENDHU BAY TOILET
+StreetDesc=Glendhu Bay/ Toilet
+Data0=(-44.66870,169.03332)
+[END]
+
+;1180182
+[POI]
+Type=0x2f0c
+Label=WANAKA LAKEFRONT TOILET
+StreetDesc=Ardmore St, Wanaka/ Public Toilet
+Data0=(-44.69422,169.13537)
+[END]
+
+;1180183
+[POI]
+Type=0x2f0c
+Label=DUNGARVON ST TOILET
+StreetDesc=Dungarvon St, Wanaka/ Public Toilet
+Data0=(-44.69675,169.13333)
+[END]
+
+;1180184
+[POI]
+Type=0x2f
+Label=OMARAMA TRANSFER STATION
+StreetDesc=Chain Hills Hwy, Omarama/ Tip, Recycling, Waste
+Phone=0800433582
+Data0=(-44.49067,169.97761)
+[END]
+
+;1180185
+[POI]
+Type=0x2c00
+Label=HOT TUBS OMARAMA
+StreetDesc=25 Omarama Ave, Omarama/ Hot Tubs, Onsen
+Phone=+6434389703
+zip=10-10 daily.
+Data0=(-44.48636,169.96841)
+[END]
+
+;1180186
+[POI]
+Type=0x2f0c
+Label=LUGGATE TOILET
+StreetDesc=Luggate/ Toilet
+Data0=(-44.74962,169.27108)
+[END]
+
+;1180187
+[POI]
+Type=0x2f0c
+Label=?HAMPDEN TOILET
+StreetDesc=Hampden/ Toilet
+Data0=(-45.32441,170.81726)
+[END]
+
+;1180189
+[POI]
+Type=0x2f0c
+Label=DUNEDIN STATION PUBLIC TOILETS 24HR
+StreetDesc=South end of Dud Railway Station in carpark./ Community public toilets.
+zip=24 Hrs.
+Data0=(-45.87589,170.50804)
+[END]
+
+;1180190
+[POI]
+Type=0x2f0c
+Label=MOSGIEL PUBLIC TOILETS 24HR
+StreetDesc=Corner of Factory Rd and Gordon Rd, Mosgiel./ Community public toilets
+zip=24 Hrs.
+Data0=(-45.87396,170.34797)
+[END]
+
+;1180192
+[POI]
+Type=0x2f0c
+Label=PALMERSTON PUBLIC TOILETS
+StreetDesc=North end of Palmerston Railway Station./ Community public toilets
+Data0=(-45.48434,170.71622)
+[END]
+
+;1180193
+[POI]
+Type=0x2f0c
+Label=RANFURLY PUBLIC TOILETS
+StreetDesc=3 Charlemont St, Ranfurly./ Community public toilets
+Data0=(-45.13025,170.09936)
+[END]
+
+;1180195
+[POI]
+Type=0x2f
+Label=SOUTHERN DESIGN LANDSCAPE ARCHITECTURE
+StreetDesc=240 Estuary Rd South New Brighton Chc 8062/ Christchurch, landscape, design, arc
+Phone=+6433880133
+Data0=(-43.53018,172.73532)
+[END]
+
+;1180202
+[POI]
+Type=0x2f
+Label=ELECTRASERVE 24HR
+StreetDesc=166 Moore St, Ashburton/ Electrician, whiteware servicing, appliance servicing, 
+Phone=+6433089008
+zip=Mon- Fri 8.00am to 5.30 pm, 24/7 after-h
+Data0=(-43.90733,171.74694)
+[END]
+
+;1180204
+[POI]
+Type=0x2f
+Label=MADDISON ROSE FLORIST
+StreetDesc=Northlands Shopping Mall, 55 Main North Rd, Papanui, Chc/ Florist
+Phone=+6433524010
+Data0=(-43.49231,172.61046)
+[END]
+
+;1180205
+[POI]
+Type=0x2f
+Label=MADDISON ROSE FLORIST
+StreetDesc=L 1, Kiosk 6, Westfield Riccarton, 129 Riccarton Rd, Riccarton, Chc/ Florist
+Phone=+6433488222
+Data0=(-43.53110,172.59697)
+[END]
+
+;1180206
+[POI]
+Type=0x2f
+Label=SYNERGY HAIRDRESSING
+StreetDesc=Northlands Shopping Mall, 55 Main North Rd, Papanui, Chc/ Hairdresser
+Phone=+6433544494
+Data0=(-43.49253,172.61011)
+[END]
+
+;1180210
+[POI]
+Type=0x2f
+Label=NATHAN MCPHERSON MECHANICAL
+StreetDesc=38 Forest St Tapanui/ Heavy machinery mechanic
+Phone=+6432048044
+zip=8 to 5
+Data0=(-45.94445,169.26168)
+[END]
+
+;1180211
+[POI]
+Type=0x2f
+Label=ACTIONCOACH OTAGO, BUSINESS COACHING
+StreetDesc=L 6, Burns House, 10 George St,/ Business Coaching
+Phone=+6434771894
+zip=Monday - Friday 9am - 5pm
+Data0=(-45.87349,170.50420)
+[END]
+
+;1180236
+[POI]
+Type=0x2f
+Label=AVPLAN LIMITED - AVIATION CONSULTANTS
+StreetDesc=Chc/ Aviation consultant for engineering and maintenance business and management
+Phone=+6421737361
+Data0=(-43.51495,172.62131)
+[END]
+
+;1180243
+[POI]
+Type=0x2e02
+Label=COUNTDOWN HORNBY
+StreetDesc=17 Chappie Pl, Hornby 8042, New Zealand/ Supermarket, beer, wine, groceries, Lot
+Phone=+6433440450
+zip=Monday - Sunday : 7am-11pm
+Data0=(-43.54251,172.52731)
+[END]
+
+;1180247
+[POI]
+Type=0x2f11
+Label=MONDO TRAVEL RICHMOND
+StreetDesc=272 Queen St, Richmond/ Travel agents
+Phone=+6435437777
+Data0=(-41.33851,173.18400)
+[END]
+
+;1180250
+[POI]
+Type=0x2f
+Label=CYCLETREADS CHRISTCHURCH
+StreetDesc=65 Manchester St, Chc/ Pitlane Motorcycles, Pit Lane, Husqvarna
+Phone=+6433797382
+zip=Mon-Fri: 8.30am - 5pm, Sat 9am - 1pm
+Data0=(-43.53727,172.63950)
+[END]
+
+;1180253
+[POI]
+Type=0x2f
+Label=TINT A CAR TIMARU
+StreetDesc=224 North St, Timaru/ Window tinting
+Phone=+6436888666
+Data0=(-44.40076,171.22773)
 [END]
 

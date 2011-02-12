@@ -10237,9 +10237,10 @@ Data0=(-43.36364,172.57686)
 ;1033663
 [POI]
 Type=0x2f01
-Label=BP CONNECT QUEENSTOWN
+Label=BP CONNECT QUEENSTOWN 24HR
 StreetDesc=Cnr State Highway 6 & Frankton Rd, Frankton, Queenstown/ BP petrol station, Camp
 Phone=+6434414850
+zip=24hrs
 Data0=(-45.01532,168.73140)
 [END]
 
@@ -79318,7 +79319,7 @@ Data0=(-44.68189,169.12698)
 [POI]
 Type=0x2b01
 Label=NORFOLK PINE MOTEL
-StreetDesc=124 The Esplanade, Kaikoura/ Kaikoura Motel Accommodation. Zenbu wifi
+StreetDesc=124 The Esplanade, Kaikoura 7300 North Canterbury/ Accommodation. Zenbu Wi-Fi wi
 Phone=+6433195120
 Data0=(-42.40970,173.68630)
 [END]
@@ -203368,5 +203369,24 @@ Label=TINT A CAR TIMARU
 StreetDesc=224 North St, Timaru/ Window tinting
 Phone=+6436888666
 Data0=(-44.40076,171.22773)
+[END]
+
+;1180265
+[POI]
+Type=0x2f
+Label=KYRGYZSTAN NEW ZEALAND RURAL TRUST (KNZRT)
+StreetDesc=762 Weedons Rd,/ The Kyrgyzstan New Zealand Rural Trust is a charity organisatio
+Phone=+6433479787
+Data0=(-43.58380,172.41252)
+[END]
+
+;1180267
+[POI]
+Type=0x2f
+Label=WOOL INSULATION
+StreetDesc=55 Francella St, Bromley, Chc/ Wool ceiling inuslation, wool wall insulation, wo
+Phone=+6439820211
+zip=8.30 - 4.30
+Data0=(-43.53449,172.70150)
 [END]
 

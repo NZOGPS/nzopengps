@@ -203390,3 +203390,23 @@ zip=8.30 - 4.30
 Data0=(-43.53449,172.70150)
 [END]
 
+;1180271
+[POI]
+Type=0x6404
+Label=NELSON BUDDHIST CENTRE
+StreetDesc=87 Nile St, Nelson/ Buddha, Buddhist, meditation, dharma, buddhism
+Phone=+6435468419
+zip=See notice board or phone
+Data0=(-41.27635,173.28934)
+[END]
+
+;1180272
+[POI]
+Type=0x2f
+Label=KEITH ROWAN BUILDING DESIGN
+StreetDesc=25 Blick Terrace, Nelson/ Design, house, home, draughtsman, draughting, architec
+Phone=+6435468419
+zip=Office hours but phone any time to leave
+Data0=(-41.29195,173.29145)
+[END]
+

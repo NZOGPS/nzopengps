@@ -50774,10 +50774,10 @@ Data0=(-41.29997,173.23712)
 ;1105652
 [POI]
 Type=0x2f
-Label=FOCUS COMPUTERS
-StreetDesc=176 Spey St, Invercargill/ 
+Label=FOCUS TECHNOLOGY GROUP
+StreetDesc=176 Spey St, Invercargill 9810, Southland/ Computers, servers. IBM, Lenovo, Micr
 Phone=+6432187224
-Data0=(-46.40954,168.35421)
+Data0=(-46.40946,168.35420)
 [END]
 
 ;1105655
@@ -61122,9 +61122,9 @@ Data0=(-45.89457,170.49821)
 [POI]
 Type=0x2f
 Label=PATERSON PITTS PARTNERS LTD
-StreetDesc=L 1, 9 Shotover St, Queenstown/ 
-Phone=+6434427005
-Data0=(-45.03032,168.66099)
+StreetDesc=L 1 Aurum House, Terrace Junction, 1092 Frankton Rd, Frankton, Queenstown/ Surve
+Phone=+6434414715
+Data0=(-45.01544,168.73102)
 [END]
 
 ;1111318
@@ -67279,9 +67279,9 @@ Data0=(-43.53131,172.63808)
 [POI]
 Type=0x2f
 Label=THE SERIOUSLY GOOD CHOCOLATE COMPANY LTD
-StreetDesc=20 Windsor St, Invercargill/ 
-Phone=+6432175107
-Data0=(-46.39711,168.36542)
+StreetDesc=147 Spey St, Invercargill/ 
+Phone=+6432188060
+Data0=(-46.40988,168.35211)
 [END]
 
 ;1114782
@@ -69855,10 +69855,10 @@ Data0=(-45.88113,170.49754)
 [POI]
 Type=0x2f
 Label=WRIGHT MARBLE LTD
-StreetDesc=206 Wordsworth St, Waltham, Chc/ 
-Phone=+6433770600
+StreetDesc=464 St Asaph St/ Wright Marble Ltd are manufacturers of premium quality Solid Su
+Phone=+6433814464
 zip=Mon-Fri 0800-1700, Sat 1000-1200
-Data0=(-43.54490,172.64605)
+Data0=(-43.53641,172.65661)
 [END]
 
 ;1116263
@@ -85639,9 +85639,9 @@ Data0=(-42.52509,172.83284)
 [POI]
 Type=0x2b01
 Label=AAA THAMES COURT MOTEL
-StreetDesc=252 Thames St, Oamaru, North Otago/ Motel accommodation
+StreetDesc=252 Thames St, Oamaru 9400, North Otago/ Qualmark 4 star accommodation. Self-cat
 Phone=+6434346963
-Data0=(-45.09056,170.97422)
+Data0=(-45.09054,170.97419)
 [END]
 
 ;1120939
@@ -92671,9 +92671,10 @@ Data0=(-41.28523,173.24043)
 [POI]
 Type=0x2a
 Label=CAFE DE PARIS
-StreetDesc=19 Tancred St, Hokitika/ Cafe, restaurant, functions, catering
+StreetDesc=19 Tancred St, Hokitika 7810, Westland, West Coast/ Cafe, restaurant, wine, beer
 Phone=+6437558933
-Data0=(-42.71836,170.96160)
+zip=7am to 9pm. 7 days a week.
+Data0=(-42.71837,170.96160)
 [END]
 
 ;1123323
@@ -201813,7 +201814,7 @@ Data0=(-44.39806,171.24881)
 [POI]
 Type=0x2f
 Label=NBS THEATRE
-StreetDesc=105 Palmerston St Westport 7825/ Leisure, movie, cinema
+StreetDesc=105 Palmerston St, Westport 7825, West Coast/ Leisure, movie, cinema. Zenbu Wi-F
 Phone=+6437894219
 Data0=(-41.75273,171.59855)
 [END]
@@ -203408,5 +203409,104 @@ StreetDesc=25 Blick Terrace, Nelson/ Design, house, home, draughtsman, draughtin
 Phone=+6435468419
 zip=Office hours but phone any time to leave
 Data0=(-41.29195,173.29145)
+[END]
+
+;1180273
+[POI]
+Type=0x2a07
+Label=TE BROS FISH SUPPLY 24HR
+StreetDesc=10 Main St, Weston/ Fish and Chip shop/takeaway
+zip=034343240
+Data0=(-45.08020,170.91835)
+[END]
+
+;1180322
+[POI]
+Type=0x2f
+Label=PATERSON PITTS DUNEDIN
+StreetDesc=8-10 Broadway, Dud/ Surveying, land planning, land development, resource managem
+Phone=+6434773245
+Data0=(-45.87759,170.50008)
+[END]
+
+;1180323
+[POI]
+Type=0x2f
+Label=PATERSON PITTS WANAKA
+StreetDesc=19 Reece Cres, Wanaka/ Surveying, land planning, land development, resource mana
+Phone=+6434430110
+Data0=(-44.68962,169.14346)
+[END]
+
+;1180324
+[POI]
+Type=0x2f
+Label=PATERSON PITTS ALEXANDRA
+StreetDesc=6 Skird St, Alexandra/ Surveying, land planning, land development, resource mana
+Phone=+6434488775
+Data0=(-45.25588,169.39361)
+[END]
+
+;1180325
+[POI]
+Type=0x2f
+Label=PATERSON PITTS CROMWELL
+StreetDesc=30 The Mall, Cromwell/ Surveying, land planning, land development, resource mana
+Phone=+6434451826
+Data0=(-45.03758,169.19733)
+[END]
+
+;1180326
+[POI]
+Type=0x2f
+Label=PATERSON PITTS MOSGIEL
+StreetDesc=4 Glasgow St, Mosgiel/ Surveying, land planning, land development, resource mana
+Phone=+6434897110
+Data0=(-45.87479,170.34721)
+[END]
+
+;1180328
+[POI]
+Type=0x2f11
+Label=COMPARE FLIGHTS ONLINE WITH 0800 FLYAWAY
+StreetDesc=3 birmingham Dr, Chc/ Compare cheap flights NZ and international airfares online
+Phone=0800359292
+Data0=(-43.54498,172.59459)
+[END]
+
+;1180329
+[POI]
+Type=0x2f
+Label=EZYPRINT SOLUTIONS
+StreetDesc=3 The Octagon, Dud./ 
+Phone=+6434740899
+Data0=(-45.87374,170.50426)
+[END]
+
+;1180344
+[POI]
+Type=0x2f
+Label=CAPE PHYSIO DUNEDIN LTD
+StreetDesc=104 Forth St, Dud North/ Physiotherapist, Physiotherapy, Physio
+Phone=+6434745317
+Data0=(-45.86549,170.51780)
+[END]
+
+;1180347
+[POI]
+Type=0x2f
+Label=FOCUS TECHNOLOGY GROUP
+StreetDesc="Te Nuku" 43 Ballarat St, Queenstown 9300, Central Otago/ Computers, servers. IB
+Phone=+6434410099
+Data0=(-45.03158,168.66277)
+[END]
+
+;1180348
+[POI]
+Type=0x2f
+Label=FOCUS TECHNOLOGY GROUP
+StreetDesc=7 Lancewood Dr, Halswell, Chc 8015, Canterbury/ Computers, servers. IBM, Lenovo,
+Phone=+6433386834
+Data0=(-43.56742,172.55761)
 [END]
 

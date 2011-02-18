@@ -1,3 +1,5 @@
 1030000040928	O,19,85	E,20,30	E,66,66	QUEEN	ST	Coalgate (Canterbury,	NZ)
+1030000040765	O,9,25	E,6,6	JAMES ST	Coalgate (Canterbury,	NZ)
 1030000025542	E,4,4	RAUPO CREEK RD	Five Forks (Otago, NZ)	Number is on southland tile.
 1030000055802	O,2715,2715 WOODSTOCK RD	Springfield (Canterbury, NZ)
+1030000003740	O,213,213	B,233,234	RAVEN QY	Kaiapoi (Canterbury, NZ)

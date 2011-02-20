@@ -1,6 +1,10 @@
+# encoding: UTF-8
+
 require 'rubygems'
 require 'find'
 require 'CSV'
+
+#Encoding.default_external = Encoding.find('utf-8')
 
 @reporting = Hash.new(0)
 
@@ -610,23 +614,23 @@ def loadConfirmedGuesses(path)
 	
 	print "Loading confirmed category guesses... "
 		
-	if !File.exists?(path) then
-		File.open(path,'w').close
-	else
-		
-		CSV.foreach(path, {:encoding => 'UTF-8', :col_sep => "\t"}) do |row| #:headers => true would skip the first row but will return rows as FasterCSV::Row objects instead of Arrays = PITA
-			zid = row[0]
-			category = row[1]
+	if !File.exists?(path) then #create the guess file if it doesn't exist
+		File.open(path,'w:UTF-8').close
+	end
+	
+	#print "external_encoding #{File.open(path, 'r:UTF-8').external_encoding}\n"
+	CSV.foreach(path, {:encoding => 'UTF-8', :col_sep => "\t"}) do |row|
+		zid = row[0]
+		category = row[1]
 
-			if @category_hash.has_key?(zid) then
-				#print "#{zid} in multiple categories #{category} and #{@category_hash[zid]}. Using #{@category_hash[zid]}\n"
-				#just skip it, already confirmed
-				next
-			end
-
-			@category_hash[zid] = category
-			@reporting['confirmed_guesses'] += 1
+		if @category_hash.has_key?(zid) then
+			#print "#{zid} in multiple categories #{category} and #{@category_hash[zid]}. Using #{@category_hash[zid]}\n"
+			#just skip it, already confirmed
+			next
 		end
+
+		@category_hash[zid] = category
+		@reporting['confirmed_guesses'] += 1
 	end
 
 	print "#{@reporting['confirmed_guesses']}\n"

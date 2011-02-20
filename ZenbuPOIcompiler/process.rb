@@ -1,3 +1,4 @@
+# encoding: UTF-8
 #C:\Ruby192\bin\ruby process.rb
 
 load 'routines.rb'
@@ -19,7 +20,7 @@ print "\nDoing Polish Format (MP) output\n"
 printMPHeader(@mpfileoutA,'64000012')
 printMPHeader(@mpfileoutB,'64000021')
 
-@guessed_codes = File.open("guesses_unconfirmed.txt", "w")
+@guessed_codes = CSV.open("guesses_unconfirmed.txt", "w:UTF-8", {:col_sep => "\t"})
 
 @masterZenbuDataHash.keys.sort.each{|zid|
 	if @category_hash.has_key?(zid) then
@@ -28,7 +29,7 @@ printMPHeader(@mpfileoutB,'64000021')
 	else
 		poitypecode = guessPOItypeCode(zid)
 		@reporting['poi_type_guessed'] += 1
-		@guessed_codes.print "#{zid}\t#{poitypecode}\t#{@category_name_table[poitypecode]}\t#{@masterZenbuDataHash[zid].join("\t")}\n"
+		@guessed_codes << [zid,poitypecode,@category_name_table[poitypecode],@masterZenbuDataHash[zid]].flatten
 	end
 	
 	processMPpoint(zid,poitypecode)

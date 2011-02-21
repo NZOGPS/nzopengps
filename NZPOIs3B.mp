@@ -32250,9 +32250,9 @@ Data0=(-44.09254,171.24471)
 [POI]
 Type=0x2e
 Label=HARCOURTS GREYMOUTH
-StreetDesc=65 MacKay St, Greymouth/ Real estate agents
+StreetDesc=65 MacKay St, Greymouth/ Real estate agents. Greymouth Enterprises Ltd
 Phone=+6437689839
-Data0=(-42.44853,171.20983)
+Data0=(-42.44860,171.21002)
 [END]
 
 ;1093992
@@ -128847,10 +128847,10 @@ Data0=(-44.36258,169.80266)
 [POI]
 Type=0x2f
 Label=BULLER REAL ESTATE
-StreetDesc=132 Palmerston St, Westport/ Property, Rentals, Investments
-Phone=+37898777
+StreetDesc=132 Palmerston St, Westport/ Real estate agents. Property, Rentals, Investments
+Phone=+6437898777
 zip=8:30am - 5:00pm
-Data0=(-41.75326,171.59792)
+Data0=(-41.75323,171.59803)
 [END]
 
 ;1141274
@@ -203508,5 +203508,24 @@ Label=FOCUS TECHNOLOGY GROUP
 StreetDesc=7 Lancewood Dr, Halswell, Chc 8015, Canterbury/ Computers, servers. IBM, Lenovo,
 Phone=+6433386834
 Data0=(-43.56742,172.55761)
+[END]
+
+;1180384
+[POI]
+Type=0x2f
+Label=CHRIS WARD REALTY
+StreetDesc=46 Alpine View, Hokitika/ Real estate agents
+Phone=+6437557357
+Data0=(-42.71867,170.98586)
+[END]
+
+;1180390
+[POI]
+Type=0x2f03
+Label=LINWOOD AUTOMOTIVE (2010) LTD
+StreetDesc=457 Linwood Ave/ Automotive Workshop, WOF
+Phone=+6439642765
+zip=7.30am - 5.30pm mon-fri
+Data0=(-43.54184,172.68764)
 [END]
 

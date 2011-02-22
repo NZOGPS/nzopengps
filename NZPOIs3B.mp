@@ -138472,7 +138472,7 @@ Data0=(-43.38240,172.65915)
 [POI]
 Type=0x2f
 Label=MARLEY PERKINS EDUCATION LTD
-StreetDesc=253 Ilam Rd, Ilam, Chc 8041/ Private maths, reading, writing and spelling tuitio
+StreetDesc=208A Wairakei Rd, Bryndwr, 8053/ Private maths, reading, writing and spelling tu
 Phone=+6433513000
 zip=Please contact for hours
 Data0=(-43.51273,172.58026)
@@ -186125,10 +186125,10 @@ Data0=(-45.87972,170.35352)
 ;1172154
 [POI]
 Type=0x2d00
-Label=TASMAN TENNIS CENTRE
+Label=TASMAN TENNIS CLUB
 StreetDesc=18A Gladstone Rd, Richmond, Nelson/ Tennis club
 Phone=+6435446083
-Data0=(-41.33806,173.17913)
+Data0=(-41.33748,173.17819)
 [END]
 
 ;1172164
@@ -202927,14 +202927,6 @@ StreetDesc=72 Dip Hill Rd, Livingstone 9491, New Zealand/ Interesting rock outcr
 Data0=(-44.94055,170.61871)
 [END]
 
-;1179890
-[POI]
-Type=0x2f
-Label=POSTBOX
-StreetDesc=4 Chapman Place/ postbox
-Data0=(-43.38253,172.64695)
-[END]
-
 ;1179974
 [POI]
 Type=0x2f
@@ -203477,9 +203469,10 @@ Data0=(-43.54498,172.59459)
 ;1180329
 [POI]
 Type=0x2f
-Label=EZYPRINT SOLUTIONS
-StreetDesc=3 The Octagon, Dud./ 
+Label=EZY PRINT SOLUTIONS
+StreetDesc=3 The Octagon, Dud./ For superior quality digital offset printing at really shar
 Phone=+6434740899
+zip=Monday - Friday 9am - 5pm
 Data0=(-45.87374,170.50426)
 [END]
 

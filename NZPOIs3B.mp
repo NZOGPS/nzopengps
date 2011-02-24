@@ -40393,7 +40393,7 @@ Type=0x2b00
 Label=AMBLE ON INN
 StreetDesc=145 Chesney St, Invercargill/ Holiday park accommodation, tent sites for camping
 Phone=+6432165214
-Data0=(-46.43992,168.38095)
+Data0=(-46.44065,168.38108)
 [END]
 
 ;1099525
@@ -67803,15 +67803,6 @@ zip=Mon-Fri 0830-1700
 Data0=(-41.26919,173.28434)
 [END]
 
-;1115122
-[POI]
-Type=0x2f
-Label=TRAFALGAR TOPS LTD
-StreetDesc=9 Fittal St, Richmond, Nelson/ 
-Phone=+6435442080
-Data0=(-41.32993,173.19000)
-[END]
-
 ;1115130
 [POI]
 Type=0x2b01
@@ -94987,7 +94978,8 @@ Data0=(-45.89363,170.50603)
 [POI]
 Type=0x2f
 Label=ETRUSCO AT THE SAVOY
-StreetDesc=8A Moray Place, Dud/ 
+StreetDesc=8A Moray Place, Dud/ Authentic Italian Restaurant
+Phone=+6434773737
 Data0=(-45.87529,170.50255)
 [END]
 
@@ -113645,9 +113637,9 @@ Data0=(-46.41803,168.39052)
 [POI]
 Type=0x2a0e
 Label=BELLS CAKE WALK CAFE
-StreetDesc=1-26 Cambridge Place, Invercargill/ cafe
+StreetDesc=40 Tay St, Invercargill/ cafe
 Phone=+6432184742
-Data0=(-46.41226,168.34925)
+Data0=(-46.41282,168.34924)
 [END]
 
 ;1134415
@@ -187522,7 +187514,7 @@ Data0=(-46.41582,168.35123)
 Type=0x2c04
 Label=WATER TOWER
 StreetDesc=101 Doon St, Invercargill/ Historic Place: Category 1
-Data0=(-46.40753,168.36023)
+Data0=(-46.40730,168.36026)
 [END]
 
 ;1172567
@@ -203520,5 +203512,24 @@ StreetDesc=457 Linwood Ave/ Automotive Workshop, WOF
 Phone=+6439642765
 zip=7.30am - 5.30pm mon-fri
 Data0=(-43.54184,172.68764)
+[END]
+
+;1180426
+[POI]
+Type=0x2f
+Label=SIGNGUYS DUNEDIN
+StreetDesc=19-21 Braemar St South Dud Dud 9012/ Total Signage Solutions
+Phone=+6434553305
+zip=Monday - Friday 8am - 4.30pm
+Data0=(-45.89346,170.50173)
+[END]
+
+;1180427
+[POI]
+Type=0x2a0e
+Label=THE COFFEE HIT
+StreetDesc=22a Beach Rd, Kaikoura 7300, North Canterbury/ Cafe, Zenbu Wi-Fi wireless intern
+Phone=+6433195144
+Data0=(-42.39740,173.68014)
 [END]
 

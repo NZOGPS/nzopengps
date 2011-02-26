@@ -10910,8 +10910,8 @@ Data0=(-41.27636,173.76574)
 ;1035945
 [POI]
 Type=0x2f01
-Label=SHELL TARRAS COUNTRY STORE
-StreetDesc=State Highway 8, Tarras/ Shell petrol station
+Label=TARRAS COUNTRY STORE
+StreetDesc=State Highway 8, Tarras/ petrol station
 Phone=+6434452822
 Data0=(-44.83716,169.41171)
 [END]
@@ -22478,15 +22478,6 @@ Label=THE OLD COUNTRYHOUSE
 StreetDesc=437 Gloucester St, Chc/ Backpacker accommodation. BBH member. Zenbu Wi-Fi wirele
 Phone=+6433815504
 Data0=(-43.52970,172.65674)
-[END]
-
-;1073829
-[POI]
-Type=0x2b00
-Label=PHIL'S BUDGET BACKPACKER
-StreetDesc=Cnr Jolly Rd/Colling Rd, Long Gully Farm, Tarras/ Backpacker accommodation
-Phone=+6434452800
-Data0=(-44.81208,169.37961)
 [END]
 
 ;1073850
@@ -97047,7 +97038,8 @@ Data0=(-45.87701,170.50104)
 [POI]
 Type=0x2f
 Label=TAIERI FISH SUPPLY
-StreetDesc=155 Gordon Rd, Mosgiel/ 
+StreetDesc=155 Gordon Rd, Mosgiel/ Takeaways
+Phone=+6434897133
 Data0=(-45.87321,170.34753)
 [END]
 
@@ -203531,5 +203523,31 @@ Label=THE COFFEE HIT
 StreetDesc=22a Beach Rd, Kaikoura 7300, North Canterbury/ Cafe, Zenbu Wi-Fi wireless intern
 Phone=+6433195144
 Data0=(-42.39740,173.68014)
+[END]
+
+;1180429
+[POI]
+Type=0x2b00
+Label=GLADBROOK STATION LUXURY BED AND BREAKFAST AND COTTAGE ACCOMMODATION
+StreetDesc=860 Gladbrook Rd, Middlemarch 9597/ Boutique accommodation on historic Otago she
+Phone=+6434643888
+Data0=(-45.54760,170.05338)
+[END]
+
+;1180434
+[POI]
+Type=0x2b00
+Label=TOWER COTTAGE ACCOMMODATION
+StreetDesc=Statehighway 8 Tarras/ Selfcontained Accommodation
+Phone=+6434452074
+Data0=(-44.82617,169.42935)
+[END]
+
+;1180435
+[POI]
+Type=0x2f0c
+Label=ARAMOANA PUBLIC TOILETS
+StreetDesc=36 Moana St, Aramoana/ Community public toilets
+Data0=(-45.77923,170.70375)
 [END]
 

@@ -71994,4 +71994,3 @@ Nod1=0,5768,0
 Nod2=8,6116,0
 [END]
 
-;@FILE,"C:\downloads\Russell.gdb",1,"..\downloads\Russell.gdb"

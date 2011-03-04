@@ -23959,7 +23959,7 @@ Data0=(-43.49415,172.60693)
 [POI]
 Type=0x2e01
 Label=THE WAREHOUSE RANGIORA
-StreetDesc=11 High St, Rangiora/ Household, clothing, general merchandise
+StreetDesc=11 High St, Rangiora/ Shopping, Household, clothing, general merchandise
 Phone=+6433130414
 zip=8:30am - 8:00pm, 7 days per week
 Data0=(-43.30342,172.59912)
@@ -44606,10 +44606,10 @@ Data0=(-43.53389,172.53391)
 ;1102380
 [POI]
 Type=0x2f
-Label=BOTRY-ZEN LTD
-StreetDesc=L 1, 30 London St, Dud/ 
+Label=BOTRY-ZEN (2010) LTD
+StreetDesc=21 Willis St, Dud/ Proven Natural Science
 Phone=+6434776447
-Data0=(-45.86857,170.50551)
+Data0=(-45.87810,170.50887)
 [END]
 
 ;1102384
@@ -92617,9 +92617,9 @@ Data0=(-44.71448,169.12298)
 [POI]
 Type=0x2b01
 Label=AIRWAYS MOTEL
-StreetDesc=Cnr Russley Rd & Dinton St, Chc/ Motel accommodation
+StreetDesc=3 Dinton St, Russley, Chc 8042, Canterbury/ Accommodation. Zenbu Wi-Fi wireless 
 Phone=+6433429464
-Data0=(-43.51931,172.53501)
+Data0=(-43.51921,172.53506)
 [END]
 
 ;1123317
@@ -143835,7 +143835,7 @@ Data0=(-43.52249,172.65913)
 [POI]
 Type=0x2b01
 Label=BEALEY HOTEL
-StreetDesc=12858 West Coast Rd ,Bealey/ Hotel, Accommodation
+StreetDesc=12858 West Coast Rd ,Bealey, Arthurs Pass/ Motel accommodation. Zenbu Wi-Fi wire
 Phone=+6433189277
 Data0=(-43.02190,171.60986)
 [END]
@@ -203549,5 +203549,52 @@ Type=0x2f0c
 Label=ARAMOANA PUBLIC TOILETS
 StreetDesc=36 Moana St, Aramoana/ Community public toilets
 Data0=(-45.77923,170.70375)
+[END]
+
+;1180443
+[POI]
+Type=0x2f
+Label=PIONEER RUGBY FOOTBALL CLUB
+StreetDesc=70 Robertson St, Gore/ Rugby Club
+Phone=+6432087650
+Data0=(-46.11063,168.92617)
+[END]
+
+;1180444
+[POI]
+Type=0x2a
+Label=BASE COMMERCIAL DESIGN
+StreetDesc=13 Durham St, Rangiora/ Down to earth and performance orientated shopfitting, sh
+Phone=+6433130586
+zip=8 to 5
+Data0=(-43.30281,172.59170)
+[END]
+
+;1180452
+[POI]
+Type=0x2f
+Label=P & W ENGINEERING GENERAL ENGINEERS DUNEDIN NZ
+StreetDesc=16 Gow St Dud/ Engineers and General Engineering
+Phone=+6434898404
+zip=Monday - Friday 8am - 5pm
+Data0=(-45.88838,170.35071)
+[END]
+
+;1180464
+[POI]
+Type=0x2f
+Label=TAKEFLITE SOLUTIONS LIMITED
+StreetDesc=Picton Airport, Koromiko, Marlborough, 7250, New Zealand/ Reservation Software, 
+Phone=+98890014
+Data0=(-41.34792,173.95490)
+[END]
+
+;1180471
+[POI]
+Type=0x2f
+Label=STIHL SHOP SMITH SAW & MOWER
+StreetDesc=475 Andersons Bay Rd Dud 9012/ Whether it's lawnmowers, hedgecutters, blowers, l
+Phone=+6434554667
+Data0=(-45.89596,170.50661)
 [END]
 

@@ -40902,11 +40902,11 @@ Data0=(-46.46578,169.56127)
 ;1100320
 [POI]
 Type=0x2a
-Label=SHAWTYS CAFE
-StreetDesc=4 Market Place, Twizel/ cafe, restaurant, pizza
+Label=SHAWTYS CAFE AND GRAPPA LOUNGE BAR
+StreetDesc=4 Market Place, Twizel 7901 South Canterbury, McKenzie Country/ cafe, licensed r
 Phone=+6434353155
-zip=8:30-late 7 days
-Data0=(-44.25688,170.09812)
+zip=Shawty's Mon: 8.30am - 4.00pm Tues-Sun: 
+Data0=(-44.25746,170.09810)
 [END]
 
 ;1100321
@@ -203596,5 +203596,14 @@ Label=STIHL SHOP SMITH SAW & MOWER
 StreetDesc=475 Andersons Bay Rd Dud 9012/ Whether it's lawnmowers, hedgecutters, blowers, l
 Phone=+6434554667
 Data0=(-45.89596,170.50661)
+[END]
+
+;1180482
+[POI]
+Type=0x2e
+Label=OTAGO OFFICE FURNITURE WAREHOUSE
+StreetDesc=197 cumberland St Dud/ office furniture used furniture student furniture pre-use
+Phone=+6434790111
+Data0=(-45.87865,170.50422)
 [END]
 

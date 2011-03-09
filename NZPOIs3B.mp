@@ -34396,10 +34396,10 @@ Data0=(-43.51077,172.55807)
 ;1095582
 [POI]
 Type=0x2d
-Label=?EZI-VU NORTHWOOD
-StreetDesc=Northwood Supercentre, Main North Rd, Northwood/ DVD rental
-Phone=+6433544973
-Data0=(-43.45973,172.62508)
+Label=EZI-VU NORTHWOOD
+StreetDesc=Northwood Supercentre, Main North Rd, Northwood, Chc/ DVD rental
+Phone=+6433235335
+Data0=(-43.45974,172.62526)
 [END]
 
 ;1095583
@@ -34633,16 +34633,6 @@ StreetDesc=55 Main North Rd, Papanui, Chc/ Shopping centre, mall
 Phone=+6433526535
 zip=Mon-Wed 9am-6pm, Thu-Fri 9am-9pm, Sat-Su
 Data0=(-43.49244,172.60989)
-[END]
-
-;1095733
-[POI]
-Type=0x2e09
-Label=LIVING & GIVING NORTHLANDS
-StreetDesc=Shop 66, Northlands Shopping Mall, 55 Main North Rd, Papanui, Chc/ Giftware for 
-Phone=+6433526740
-zip=Mon-Wed 9am-6pm, Thu-Fri 9am-9pm, Sat-Su
-Data0=(-43.49186,172.61093)
 [END]
 
 ;1095743
@@ -98975,7 +98965,7 @@ Data0=(-43.53189,172.63944)
 [POI]
 Type=0x2d02
 Label=THE FLYING BURRITO BROTHERS
-StreetDesc=Cnr New Regent St & Armagh St, Chc/ Cantina & Tequileria, Bar
+StreetDesc=Cnr New Regent St & Armagh St, Chc/ Mexican restaurant. Cantina & Tequileria, Ba
 Phone=+6433777626
 Data0=(-43.52887,172.63882)
 [END]
@@ -139809,14 +139799,6 @@ StreetDesc=189 Papanui Rd, Chc/ Hairdresser
 Data0=(-43.51253,172.62182)
 [END]
 
-;1146749
-[POI]
-Type=0x2a05
-Label=GERMAN MASTER BAKERY
-StreetDesc=475 Wilsons Rd, Chc/ bakery
-Data0=(-43.54867,172.65254)
-[END]
-
 ;1146750
 [POI]
 Type=0x2f
@@ -148930,10 +148912,11 @@ Data0=(-45.86954,170.51916)
 ;1151623
 [POI]
 Type=0x2f
-Label=VAN STOLK PHYSICAL SENSE
-StreetDesc=222 Bealey Ave, Chc/ Physiotherapist, physio
+Label=PHYSICAL SENSE
+StreetDesc=300 colombo St, sydenham, Chc/ Physiotherapist, physio, massage, gym, classes,
 Phone=+6433772577
-Data0=(-43.52108,172.64209)
+zip=7 am- 7 pm
+Data0=(-43.54924,172.63720)
 [END]
 
 ;1151625
@@ -160667,7 +160650,7 @@ Data0=(-41.40814,173.04668)
 [POI]
 Type=0x2b00
 Label=FERNWOOD HOLIDAY PARK
-StreetDesc=519 High St South, Motueka/ Accommodation
+StreetDesc=519 High St South, Motueka/ Accommodation. Zenbu Wi-Fi wireless internet hot-spo
 Data0=(-41.13433,173.00895)
 [END]
 
@@ -202209,7 +202192,7 @@ Data0=(-43.53370,172.52155)
 [POI]
 Type=0x2f
 Label=MCCASHIN'S BREWERY
-StreetDesc=660 Main Rd, Stoke/ Brewery tours
+StreetDesc=660 Main Rd, Stoke/ Brewery tours, beer, wine, cider, spirits, water
 Phone=+6435475357
 Data0=(-41.31860,173.22603)
 [END]
@@ -203605,5 +203588,25 @@ Label=OTAGO OFFICE FURNITURE WAREHOUSE
 StreetDesc=197 cumberland St Dud/ office furniture used furniture student furniture pre-use
 Phone=+6434790111
 Data0=(-45.87865,170.50422)
+[END]
+
+;1180486
+[POI]
+Type=0x2f
+Label=MONKEY WIZARD BREWERY
+StreetDesc=483 Main Rd, Riwaka/ Ales, Pilsners, Ciders
+Phone=+6427677726
+zip=Summer: 10-6pm every day, Winter: 12-6pm
+Data0=(-41.07998,172.99713)
+[END]
+
+;1180501
+[POI]
+Type=0x2f
+Label=PLEAURE ZONE DJ SERVICES
+StreetDesc=Flat 2 541 Barbadoes St Edgeware Chc/ We are a Resller and Hirer of top quality 
+Phone=+6439601160
+zip=10 am to 12 midnight
+Data0=(-43.51477,172.64559)
 [END]
 

@@ -58040,7 +58040,7 @@ Type=0x2f
 Label=MITCHELL CORP NEW ZEALAND LTD
 StreetDesc=36 Sir William Pickering Dr, Russley, Chc/ 
 Phone=+6433587900
-Data0=(-43.49616,172.55877)
+Data0=(-43.49852,172.56001)
 [END]
 
 ;1109694
@@ -99731,14 +99731,6 @@ Type=0x2d02
 Label=AL'S BAR
 StreetDesc=31 Dundas St, Chc/ bar
 Data0=(-43.53856,172.63872)
-[END]
-
-;1130869
-[POI]
-Type=0x2f
-Label=ALVA RADO'S
-StreetDesc=139 Worcester St, Chc/ 
-Data0=(-43.53081,172.63997)
 [END]
 
 ;1130870
@@ -203585,7 +203577,7 @@ Data0=(-45.89596,170.50661)
 [POI]
 Type=0x2e
 Label=OTAGO OFFICE FURNITURE WAREHOUSE
-StreetDesc=197 cumberland St Dud/ office furniture used furniture student furniture pre-use
+StreetDesc=197 Cumberland St Dud/ office furniture used furniture student furniture pre-use
 Phone=+6434790111
 Data0=(-45.87865,170.50422)
 [END]
@@ -203608,5 +203600,14 @@ StreetDesc=Flat 2 541 Barbadoes St Edgeware Chc/ We are a Resller and Hirer of t
 Phone=+6439601160
 zip=10 am to 12 midnight
 Data0=(-43.51477,172.64559)
+[END]
+
+;1180518
+[POI]
+Type=0x2b01
+Label=MAXTON'S ON THE SHORE
+StreetDesc=146 Esplanade, Kaikoura, Kaikoura 7300, North Canterbury/ Accommodation motels, 
+Phone=+6433195748
+Data0=(-42.41087,173.68723)
 [END]
 

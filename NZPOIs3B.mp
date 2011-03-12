@@ -55297,9 +55297,9 @@ Data0=(-45.87612,170.47200)
 [POI]
 Type=0x2f
 Label=KEVIN SEQUE LTD
-StreetDesc=L 2, KSL Financial House, 79 Cambridge Terrace, Chc/ 
+StreetDesc=L 1, Unit 8, Jade Courts, 211 Ferry Rd, Chc/ 
 Phone=+6433654460
-Data0=(-43.53363,172.63198)
+Data0=(-43.53914,172.65556)
 [END]
 
 ;1108139
@@ -115174,15 +115174,6 @@ Phone=+6432162621
 Data0=(-46.41767,168.36445)
 [END]
 
-;1134592
-[POI]
-Type=0x6404
-Label=SALVATION ARMY CHURCH
-StreetDesc=109 Wicklow St, Invercargill/ church
-Phone=+6432165540
-Data0=(-46.45112,168.36490)
-[END]
-
 ;1134593
 [POI]
 Type=0x2f
@@ -154665,14 +154656,6 @@ Type=0x2f
 Label=CHRISTCHURCH DISTRICT COURT
 StreetDesc=85 Armagh St, Chc City/ 
 Data0=(-43.52862,172.63417)
-[END]
-
-;1155322
-[POI]
-Type=0x2f
-Label=CLIFTON SALVATION ARMY HALL
-StreetDesc=109 Wicklow St, Invercargill/ 
-Data0=(-46.45112,168.36490)
 [END]
 
 ;1155324
@@ -203609,5 +203592,23 @@ Label=MAXTON'S ON THE SHORE
 StreetDesc=146 Esplanade, Kaikoura, Kaikoura 7300, North Canterbury/ Accommodation motels, 
 Phone=+6433195748
 Data0=(-42.41087,173.68723)
+[END]
+
+;1180528
+[POI]
+Type=0x2f
+Label=BETTER LAWYERS LTD (NICK ROUT & MIRANDA BLACK)
+StreetDesc=17 Blighs Rd, Strowan, Chc 8052/ Family, Criminal, Conveyancing and Small Busine
+Phone=+6433654900
+zip=9:00am to 5:00 pm
+Data0=(-43.50533,172.59947)
+[END]
+
+;1180530
+[POI]
+Type=0x6404
+Label=THE SALVATION ARMY
+StreetDesc=105 Tay St, Invercargill/ Church
+Data0=(-46.45132,168.36450)
 [END]
 

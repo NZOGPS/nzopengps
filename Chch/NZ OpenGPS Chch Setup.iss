@@ -49,7 +49,7 @@ Name: {group}\NZ Open GPS Project Forum; Filename: http://gwprojects.org/forum/
 ;BMAPfile: String;
 ;ProductCode: String
 
-Source: 64000027.img; DestDir: {app}; Flags: promptifolder; Check: CreateRegistry(ExpandConstant('{app}\Free Open GPS NZ Autorouting.MDX'),ExpandConstant('{app}\Free Open GPS Christchurch_MDR.IMG'), ExpandConstant('{app}'), ExpandConstant('{app}\Free Open GPS Christchurch.TDB'), ExpandConstant('{app}\Free Open GPS Christchurch.img'), '1')
+Source: 64000027.img; DestDir: {app}; Flags: promptifolder; Check: CreateRegistry(ExpandConstant('{app}\Free Open GPS Christchurch.MDX'),ExpandConstant('{app}\Free Open GPS Christchurch_MDR.IMG'), ExpandConstant('{app}'), ExpandConstant('{app}\Free Open GPS Christchurch.TDB'), ExpandConstant('{app}\Free Open GPS Christchurch.img'), '1')
 Source: Free Open GPS Christchurch.img; DestDir: {app}; Flags: promptifolder
 Source: Free Open GPS Christchurch.MDX; DestDir: {app}; Flags: promptifolder
 Source: Free Open GPS Christchurch.TDB; DestDir: {app}; Flags: promptifolder

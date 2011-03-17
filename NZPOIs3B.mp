@@ -55408,6 +55408,7 @@ Type=0x2b01
 Label=KINGSLAND COURT MOTEL
 StreetDesc=44 Tahunanui Dr, Tahunanui, Nelson/ Kingsland Court Motel, 4 Star Qualmark Self 
 Phone=+6435485089
+zip=7.30 am - 10.00 pm Monday to Saturday, 8
 Data0=(-41.28359,173.24826)
 [END]
 
@@ -87880,6 +87881,7 @@ Type=0x2c05
 Label=PAPANUI PRESCHOOL
 StreetDesc=165 Langdons Rd, Papanui, Chc/ Childcare Centre
 Phone=+6433543437
+zip=7.30am to 5.30pm
 Data0=(-43.48945,172.59769)
 [END]
 
@@ -203634,5 +203636,61 @@ Label=KEVIN WEIR LANDSCAPE DESIGN
 StreetDesc=21 Edna St, Ocean View, Dud, 9035/ Landscapers, Landscaping, Landscape Design, G
 Phone=+6434811288
 Data0=(-45.93913,170.34245)
+[END]
+
+;1180579
+[POI]
+Type=0x6404
+Label=ST JAMES' CHURCH AND CLARK SUNDAY SCHOOL HALL (PRESBYTERIAN)
+StreetDesc=Corner 78-80 Tiverton St and Stromness St, PALMERSTON/ Historic Place: Category 
+Data0=(-45.48028,170.71470)
+[END]
+
+;1180582
+[POI]
+Type=0x2f
+Label=ENERGY SAVING CENTRE
+StreetDesc=88 Hayton Rd, Sockburn, Chc/ Double Glazing & Home Insulation Specialists in New
+Phone=+6433435644
+zip=8:30 am to 5:00 pm Monday to Friday
+Data0=(-43.54448,172.55942)
+[END]
+
+;1180634
+[POI]
+Type=0x2f
+Label=AWATERE ALPACAS
+StreetDesc=224 Curries Rd, Springston South/ Here at Awatere Alpaca Stud we breed exquisite
+Phone=+6433295654
+Data0=(-43.68882,172.41963)
+[END]
+
+;1180646
+[POI]
+Type=0x2f
+Label=DIESEL SOLUTIONS
+StreetDesc=Oxford Tce/ De Bug, Fuel reconditioning, diesil solutions, fuel treatment
+Phone=+21223278
+zip=9am - 5pm
+Data0=(-43.53038,172.63392)
+[END]
+
+;1180647
+[POI]
+Type=0x2f
+Label=BIG PICTURE MEDIA
+StreetDesc=225 Oxford Tce/ Billboards, New Zealand, Christchurch, Wellington, advertising, 
+Phone=+21223278
+zip=9am - 5pm
+Data0=(-43.53156,172.63384)
+[END]
+
+;1180661
+[POI]
+Type=0x2f
+Label=?ELECTRIC GUYS
+StreetDesc=half moon bay Akl/ Auckland Electricians
+Phone=0800336677
+Data0=(-42.26438,173.80744)
 [END]
 

@@ -33625,8 +33625,9 @@ Data0=(-43.53189,172.63698)
 [POI]
 Type=0x2f
 Label=WILKINSON ADAMS
-StreetDesc=L 1 & 3, 169 Princes St, Dud/ Lawyers
+StreetDesc=L 1 & 3, 169 Princes St, Dud/ Lawyers, Lawyer, Family law, Commercial law, Wills
 Phone=+6434779844
+zip=8.30am 5.00pm Mon-Fri
 Data0=(-45.87690,170.50229)
 [END]
 
@@ -45624,7 +45625,7 @@ Data0=(-43.48084,172.60223)
 [POI]
 Type=0x2b01
 Label=CARDRONA HOTEL
-StreetDesc=Crown Range Rd, RD 1, Wanaka/ Accommodation
+StreetDesc=Crown Range Rd, RD 1, Wanaka/ Accommodation, restaurant, bar, weddings & functio
 Phone=+6434438153
 Data0=(-44.88149,169.00345)
 [END]
@@ -65786,8 +65787,9 @@ Data0=(-41.26147,173.27593)
 [POI]
 Type=0x2f
 Label=STEVENSON & WILLIAMS LTD
-StreetDesc=64 Prince Albert Rd, St Kilda, Dud/ 
+StreetDesc=64 Prince Albert Rd, St Kilda, Dud/ For custom made kitchen cabinetry and bencht
 Phone=+6434554034
+zip=7.30am 5.30pm mon-fri
 Data0=(-45.90188,170.50538)
 [END]
 
@@ -92535,7 +92537,7 @@ Data0=(-41.28639,173.23774)
 [POI]
 Type=0x2b01
 Label=DRIFTWOOD MOTEL
-StreetDesc=21 Muritai St, Tahunanui, Nelson/ Motel accommodation
+StreetDesc=21 Muritai St, Tahunanui 7011, Nelson, Marborough Sounds/ Accommodation. Full ki
 Phone=+6435482791
 Data0=(-41.28337,173.24750)
 [END]
@@ -92607,7 +92609,7 @@ Data0=(-44.71448,169.12298)
 [POI]
 Type=0x2b01
 Label=AIRWAYS MOTEL
-StreetDesc=3 Dinton St, Russley, Chc 8042, Canterbury/ Accommodation. Zenbu Wi-Fi wireless 
+StreetDesc=3 Dinton St, Russley, Chc 8042, Canterbury/ Accommodation.
 Phone=+6433429464
 Data0=(-43.51921,172.53506)
 [END]
@@ -123900,8 +123902,9 @@ Data0=(-42.71675,170.96197)
 ;1138561
 [POI]
 Type=0x2b00
-Label=FOX GLACIER INN & BACKPACKERS
-StreetDesc=39 Sullivan Rd, Fox Glacier/ Backpacker accommodation
+Label=FOX GLACIER INN
+StreetDesc=39 Sullivan Rd, Fox Glacier/ Motel accommodation, backpackers
+Phone=+6437510022
 Data0=(-43.46636,170.01817)
 [END]
 
@@ -161229,8 +161232,9 @@ Data0=(-45.87486,170.50031)
 ;1159303
 [POI]
 Type=0x2b00
-Label=HURUNUI PIONEER VILLAGE
-StreetDesc=1222, Karaka Rd, Hurunui North Canterbury/ Accommodation
+Label=HURUNUI VILLAGE
+StreetDesc=1222, Karaka Rd, Hurunui North Canterbury/ Luxury vineyard accommodation, cafe, 
+Phone=0508487868
 Data0=(-42.87924,172.75655)
 [END]
 
@@ -163671,7 +163675,8 @@ Data0=(-41.28576,173.24747)
 [POI]
 Type=0x2b00
 Label=TUSSOCK PEAK MOTOR LODGE
-StreetDesc=2 Leamington St, Hanmer Springs/ Accommodation
+StreetDesc=2 Leamington St, Hanmer Springs/ Motel accommodation
+Phone=+6433155191
 Data0=(-42.52528,172.82923)
 [END]
 
@@ -181454,8 +181459,9 @@ Data0=(-43.51623,172.68767)
 [POI]
 Type=0x2f
 Label=WAIRAKEI DENTAL CENTRE LTD
-StreetDesc=283 Greers Rd, Bryndwr, Chc/ Dentist
-Data0=(-43.49885,172.58660)
+StreetDesc=Unit 5, 515 Wairakei Rd, Burnside, Chc/ Dentist
+Phone=+6433598118
+Data0=(-43.49003,172.56815)
 [END]
 
 ;1170225
@@ -203610,5 +203616,23 @@ Type=0x6404
 Label=THE SALVATION ARMY
 StreetDesc=105 Tay St, Invercargill/ Church
 Data0=(-46.45132,168.36450)
+[END]
+
+;1180547
+[POI]
+Type=0x2f
+Label=HYDRAULIC SERVICES & REPAIRS LTD
+StreetDesc=34 Willis St, Dud/ Hydraulic Services, Hydraulic Repairs, Repairs, Ryco, Hydraul
+Phone=+6434779607
+Data0=(-45.87772,170.50987)
+[END]
+
+;1180575
+[POI]
+Type=0x2f
+Label=KEVIN WEIR LANDSCAPE DESIGN
+StreetDesc=21 Edna St, Ocean View, Dud, 9035/ Landscapers, Landscaping, Landscape Design, G
+Phone=+6434811288
+Data0=(-45.93913,170.34245)
 [END]
 

@@ -468,7 +468,7 @@ def guessPOItypeCode(zid)
 		elsif thistags =~ /(\bbank\b|\batm\b)/i
 			category = '0x2f06'
 		elsif thistags =~ /winery/i
-			category = '0x2C0A'
+			category = '0x2c0a'
 		elsif thistags =~ /travel agent/i
 			category = '0x2f11'
 		elsif thistags =~ /car rental/i

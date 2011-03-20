@@ -7,3 +7,4 @@
 1030000003740	O,213,213	B,233,234	RAVEN QY	Kaiapoi (Canterbury, NZ)
 1030000039945	E,884,884		RIVERVIEW RD	Domett (Canterbury, NZ)
 1030000055674	O,203,203		BRADYS RD	Loburn (Canterbury, NZ)
+1030000001124	E,422,422		Weston-Ngapara Road	Number is on southland tile.

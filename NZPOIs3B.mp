@@ -203715,29 +203715,11 @@ Phone=+6422696691
 Data0=(-41.30104,173.24267)
 [END]
 
-;1180720
-[POI]
-Type=0x2f
-Label=5 BUCKS
-StreetDesc=Chc/ 5 Bucks buy stuff,sell stuff, sell $5 services, buy $5 services, all from o
-Phone=+6421037312
-Data0=(-43.53296,172.63755)
-[END]
-
 ;1180721
 [POI]
 Type=0x2f
 Label=CHRISTCHURCH SIGNS
 StreetDesc=Chc/ Christchurch signs and signage and custom made graphics. We offer vehicle s
 Data0=(-43.46971,172.62942)
-[END]
-
-;1180722
-[POI]
-Type=0x2f
-Label=DOG
-StreetDesc=Chc/ Our dog site has some of the very best information regarding humanities mos
-Phone=+6421037312
-Data0=(-43.53573,172.64223)
 [END]
 

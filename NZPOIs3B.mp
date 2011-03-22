@@ -18807,7 +18807,6 @@ Data0=(-43.30350,172.59569)
 Type=0x2f06
 Label=ANZ RICCARTON (B&A)
 StreetDesc=37-41 Rotherham St, Riccarton, Chc/ Bank, ATM
-Phone=+6433410486
 Data0=(-43.53032,172.60017)
 [END]
 
@@ -37759,15 +37758,6 @@ StreetDesc=Cnr Manchester & Gloucester Streets, Chc/ Indian restaurant, Fully li
 Phone=+6433778999
 zip=Lunch: Mon-Sat 11.30am-2.30pm, Sun from 
 Data0=(-43.52998,172.63949)
-[END]
-
-;1098462
-[POI]
-Type=0x2a0e
-Label=TIMMY'S ESPRESSO BAR
-StreetDesc=Upstairs above Shands, 88 Hereford St, Chc/ Cafe
-Phone=+6433666023
-Data0=(-43.53219,172.63456)
 [END]
 
 ;1098463
@@ -75528,14 +75518,6 @@ Type=0x2f
 Label=?SIBERIA HUT
 StreetDesc=Leatham Conservation Area, South Marlborough/ DOC Backcountry hut
 Data0=(-41.87933,173.07532)
-[END]
-
-;1117433
-[POI]
-Type=0x2f
-Label=SIBERIA HUT
-StreetDesc=Mount Aspiring Ntl Park, Wanaka/ DOC Backcountry hut
-Data0=(-44.20487,169.06158)
 [END]
 
 ;1117434
@@ -167795,18 +167777,9 @@ Data0=(-44.25980,171.13197)
 [POI]
 Type=0x2f
 Label=POLKADOTS PRESCHOOL
-StreetDesc=4 Highfield St, Culverden/ 
-Phone=+6433158335
-Data0=(-42.77500,172.84799)
-[END]
-
-;1162582
-[POI]
-Type=0x2f
-Label=POLKADOTS PRESCHOOL - NURSERY
-StreetDesc=6 Highfield St, Culverden/ 
+StreetDesc=4 Highfield St, Culverden/ Preschool, nursery
 Phone=+6433158339
-Data0=(-42.77524,172.84859)
+Data0=(-42.77500,172.84799)
 [END]
 
 ;1162593
@@ -194843,8 +194816,8 @@ Data0=(-43.38776,170.18163)
 [POI]
 Type=0x2c00
 Label=NZONE QUEENSTOWN
-StreetDesc=35 Shotover St, Queenstown/ Tandem skydiving. Tourist attraction & visitor activ
-Phone=0800376796
+StreetDesc=35 Shotover St, Queenstown/ Experience the thrill of skydiving in New Zealand wi
+Phone=+34425867
 Data0=(-45.03123,168.65973)
 [END]
 
@@ -203678,15 +203651,6 @@ zip=9am - 5pm
 Data0=(-43.53156,172.63384)
 [END]
 
-;1180661
-[POI]
-Type=0x2f
-Label=?ELECTRIC GUYS
-StreetDesc=half moon bay Akl/ Auckland Electricians
-Phone=0800336677
-Data0=(-42.26438,173.80744)
-[END]
-
 ;1180699
 [POI]
 Type=0x2a0e
@@ -203715,20 +203679,40 @@ Phone=+6422696691
 Data0=(-41.30104,173.24267)
 [END]
 
-;1180721
+;1180738
 [POI]
 Type=0x2f
-Label=CHRISTCHURCH SIGNS
-StreetDesc=Chc/ Christchurch signs and signage and custom made graphics. We offer vehicle s
-Data0=(-43.46971,172.62942)
+Label=LOGICAL BUSINESS SOLUTIONS
+StreetDesc=34 Page St, Redwoodtown, Blenheim/ Bookkeeping, Accountants, taxation services, 
+Phone=+6435792936
+Data0=(-41.53293,173.94478)
 [END]
 
-;1180722
+;1180740
 [POI]
-Type=0x00
-Label=DOG
-StreetDesc=Chc/ Our dog site has some of the very best information regarding humanities mos
-Phone=+6421037312
-Data0=(-43.53573,172.64223)
+Type=0x2f
+Label=PC GEEKS
+StreetDesc=15 Neill St, Hornby, Chc/ Mobile Computer Repair  Laptop Repair - PC Repair - Vi
+Phone=+6433441111
+Data0=(-43.54415,172.53282)
+[END]
+
+;1180745
+[POI]
+Type=0x2f
+Label=CONCUT
+StreetDesc=43 Vickerys Rd, Sockburn, Chc/ Concrete Cutting, Concrete Drilling, Concrete Bre
+Phone=+6433497878
+Data0=(-43.54456,172.55228)
+[END]
+
+;1180746
+[POI]
+Type=0x2F07
+Label=AUTO PARTS (OTAGO) LTD
+StreetDesc=18 Carroll St, Central Dud, Dud 9016/ auto parts, used parts, car parts, wrecker
+Phone=+6434740831
+zip=8.00am - 5.00pm Monday-Friday 9.00am - 1
+Data0=(-45.88101,170.49903)
 [END]
 

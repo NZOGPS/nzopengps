@@ -402,32 +402,6 @@ end
 
 # #####################
 
-@notforuseZIDs = Hash.new
-def loadZIDsNotForMaps(p)
-# #####################
-# check for un-classified zids
-# #####################
-
-if !File.exists?(p) then
-	return
-end
-
-File.open(p){|infile|
-		while (line = infile.gets)
-			if line =~ /^(\d{7,8})\b.*/ # if it looks like a zid then anything else, grab zid
-				zid = $1
-				if (@masterZenbuDataHash.delete(zid)) then
-					@notforuseZIDs[zid] = 1
-				end
-			end
-		end
-}
-
-#print "#{@notforuseZIDs.size} zids not for use.\n"
-end
-
-# #####################
-
 def guessPOItypeCode(zid)
 #attempt to best guess a POI type code from name and tags
 		thistags = @masterZenbuDataHash[zid][1]
@@ -554,8 +528,6 @@ print "Loading categories... "
 	Find.find(p) do |path|
 	  if FileTest.directory?(path)
 	    next # don't do anything with dirs in this folder
-	  elsif path =~ /00 Not For Maps/
-	  	next
 	  elsif path =~ /01 Speed Cameras/
 	  	next
 	  elsif path =~ /\.zip$/
@@ -571,6 +543,8 @@ print "Loading categories... "
 print "#{@category_hash.size} unique ZIDs categorised in #{@category_name_table.size} category files\n"
 end
 # #####################
+
+@notforuseZIDs = Hash.new
 
 def loadSingleCategory(path)
 	
@@ -602,6 +576,12 @@ def loadSingleCategory(path)
 					next
 				end
 				
+				if category == '0x00' then
+					if (@masterZenbuDataHash.delete(zid)) then
+						@notforuseZIDs[zid] = 1
+					end
+				end
+				
 				@category_hash[zid] = category
 			end
 		end
@@ -610,8 +590,22 @@ def loadSingleCategory(path)
 end
 
 # #####################
-def loadConfirmedGuesses(path)
+def loadConfirmedGuessesIfRequired(path)
 	
+	if File.exists?(path) then
+		previously_guessed_categories = CSV.read(path, {:encoding => 'UTF-8', :col_sep => "\t"})
+		if previously_guessed_categories.size > 0
+			print "Use previously guessed categories (#{previously_guessed_categories.size} entries) (y/n)?" #file 'guessed_categories.txt'
+			user_says = STDIN.gets.chomp
+			if user_says == 'y' then
+				loadConfirmedGuesses(path)
+			end
+		end
+	end
+	
+end
+# #####################
+def loadConfirmedGuesses(path)
 	print "Loading confirmed category guesses... "
 		
 	if !File.exists?(path) then #create the guess file if it doesn't exist
@@ -653,5 +647,30 @@ def rewriteCategoryFiles()
 	}
 end
 
+# #####################
+@guessed_categories = Hash.new
+def rewriteGuessFile(guess_file)
+
+	#now we'll write out the guess_file, but making sure we don't clobber any existing guesses that haven't been confirmed yet
+
+	if File.exists?(guess_file) then
+		CSV.foreach(guess_file, {:encoding => 'UTF-8', :col_sep => "\t"}) do |row|
+			zid = row[0]
+			category = row[1]
+
+			if @category_hash.has_key?(zid) then
+				#already confirmed so skip it
+				next
+			end
+
+			@guessed_categories[zid] = category
+		end
+	end
+
+	guess_file_out = CSV.open(guess_file, "w:UTF-8", {:col_sep => "\t"})
+	@guessed_categories.each{|zid,poitypecode|
+		guess_file_out << [zid,poitypecode,@category_name_table[poitypecode],@masterZenbuDataHash[zid]].flatten
+	}
+end
 # #####################
 #NZ CUSTOMISED

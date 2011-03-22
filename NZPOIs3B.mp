@@ -203723,3 +203723,12 @@ StreetDesc=Chc/ Christchurch signs and signage and custom made graphics. We offe
 Data0=(-43.46971,172.62942)
 [END]
 
+;1180722
+[POI]
+Type=0x00
+Label=DOG
+StreetDesc=Chc/ Our dog site has some of the very best information regarding humanities mos
+Phone=+6421037312
+Data0=(-43.53573,172.64223)
+[END]
+

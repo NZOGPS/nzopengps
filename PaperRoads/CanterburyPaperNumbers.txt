@@ -8,3 +8,5 @@
 1030000039945	E,884,884		RIVERVIEW RD	Domett (Canterbury, NZ)
 1030000055674	O,203,203		BRADYS RD	Loburn (Canterbury, NZ)
 1030000001124	E,422,422		Weston-Ngapara Road	Number is on southland tile.
+1030000026810	E,664,664		Glenorchy-Queenstown Road	Number is on southland tile.
+1030000040260	E,500,500		Camp Bay Road

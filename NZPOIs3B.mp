@@ -78039,10 +78039,10 @@ Data0=(-43.53461,172.56341)
 [POI]
 Type=0x2e
 Label=CALIBRATION CONNECT LTD
-StreetDesc=17 Print Place, Middleton, Chc 8024/ Calibration
+StreetDesc=Unit 2, 27 Tyne St, Addington, Chc, New Zealand, 8011/ Calibration
 Phone=+6439639244
 zip=Mon-Fri: 8am-5:30pm
-Data0=(-43.54193,172.59036)
+Data0=(-43.53716,172.60852)
 [END]
 
 ;1118369
@@ -177740,14 +177740,6 @@ StreetDesc=Papanui Rd, Chc/
 Data0=(-43.50835,172.61829)
 [END]
 
-;1168224
-[POI]
-Type=0x2f
-Label=MERIVALE ORTHODONTICS
-StreetDesc=249 Papanui Rd, Chc/ 
-Data0=(-43.50984,172.61939)
-[END]
-
 ;1168225
 [POI]
 Type=0x2f
@@ -203714,5 +203706,63 @@ StreetDesc=18 Carroll St, Central Dud, Dud 9016/ auto parts, used parts, car par
 Phone=+6434740831
 zip=8.00am - 5.00pm Monday-Friday 9.00am - 1
 Data0=(-45.88101,170.49903)
+[END]
+
+;1180752
+[POI]
+Type=0x2f
+Label=ABURNS GLASS (2005) LTD
+StreetDesc=45 Otaki St, Dud South, Dud 9012/ For glass of any description we are the most h
+Phone=+6434556134
+zip=8.00am - 5.00pm Monday-Friday 9.00am - 1
+Data0=(-45.89223,170.50769)
+[END]
+
+;1180753
+[POI]
+Type=0x2F02
+Label=LUCKY RENTALS NZ
+StreetDesc=7 Abros Place Burnside Chc 8053/ campervan hire, campervan rental, motorhome hir
+Phone=0800235825
+Data0=(-43.49134,172.57011)
+[END]
+
+;1180754
+[POI]
+Type=0x2f
+Label=MCCOMBE & CO
+StreetDesc=23 Crawford St, Central Dud, Dud 9016/ accountant, accounting, chartered account
+Phone=+6434771495
+zip=8.30am - 5.00pm Monday-Friday
+Data0=(-45.87865,170.50310)
+[END]
+
+;1180755
+[POI]
+Type=0x2f
+Label=MERIVALE ORTHODONTIX
+StreetDesc=363 Papanui Rd/ Orthodontics
+Phone=+6433553930
+zip=8.00am-5.00pm
+Data0=(-43.50558,172.61529)
+[END]
+
+;1180757
+[POI]
+Type=0x2f
+Label=OTAGO FENCING
+StreetDesc=33 Gordon Rd, Mosgiel, Dud, 9024/ A fence made of colourbond steel from Otago fe
+Phone=+6434898627
+Data0=(-45.88248,170.35298)
+[END]
+
+;1180766
+[POI]
+Type=0x2f0c
+Label=OCEAN VIEW BACKPACKERS ( BASED OUT OF THE DEFUNCT OCEAN VIEW SCHOOL )
+StreetDesc=23 John St, Ocean View, Dud 9035/ Located just 20 minutes from Dunedin city cent
+Phone=+6434817914
+zip=8am-10am and 4pm-9pm daily
+Data0=(-45.93738,170.34658)
 [END]
 

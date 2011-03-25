@@ -172859,7 +172859,9 @@ Data0=(-43.44469,172.63292)
 [POI]
 Type=0x2f
 Label=BELL HILL DENTAL
-StreetDesc=109 Princes St, Dud/ Dentist
+StreetDesc=109 Princes St, Central Dud, Dud 9016/ Dentist, dental hygenist, dentists, denti
+Phone=+6434778387
+zip=Monday 8.30am - 7.30pm Tuesday-Friday 8.
 Data0=(-45.87599,170.50275)
 [END]
 
@@ -203702,7 +203704,7 @@ Data0=(-43.54456,172.55228)
 [POI]
 Type=0x2F07
 Label=AUTO PARTS (OTAGO) LTD
-StreetDesc=18 Carroll St, Central Dud, Dud 9016/ auto parts, used parts, car parts, wrecker
+StreetDesc=18 Carroll St, Central Dud, Dud 9016/ Save time and money with carefully labelle
 Phone=+6434740831
 zip=8.00am - 5.00pm Monday-Friday 9.00am - 1
 Data0=(-45.88101,170.49903)
@@ -203764,5 +203766,14 @@ StreetDesc=23 John St, Ocean View, Dud 9035/ Located just 20 minutes from Dunedi
 Phone=+6434817914
 zip=8am-10am and 4pm-9pm daily
 Data0=(-45.93738,170.34658)
+[END]
+
+;1180773
+[POI]
+Type=0x2f
+Label=ASHBURTON DENTAL CENTRE
+StreetDesc=72 Cass St Ashburton 7700/ Dentist
+Phone=+6433081953
+Data0=(-43.90561,171.75058)
 [END]
 

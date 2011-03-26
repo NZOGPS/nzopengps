@@ -10,3 +10,8 @@
 1030000001124	E,422,422		Weston-Ngapara Road	Number is on southland tile.
 1030000026810	E,664,664		Glenorchy-Queenstown Road	Number is on southland tile.
 1030000040260	E,500,500		Camp Bay Road
+1030000192031	E,600,600		Kawarau Gorge Road	Number is on southland tile.
+1030000041632	E,2064,2064		Barford Road
+1030000034979	E,144,144		View Hill Road
+1030000056079	O,131,143	E,128,128	Topito Road	
+1030000055823	O,175,603	E,222,564	Rampaddock Road

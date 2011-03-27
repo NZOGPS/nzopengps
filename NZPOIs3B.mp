@@ -100446,17 +100446,17 @@ Data0=(-43.53615,172.63647)
 ;1130961
 [POI]
 Type=0x2f
-Label=?BIN INN NEW BRIGHTON
+Label=BIN INN NEW BRIGHTON
 StreetDesc=Surfside Mall, 68 Hawke St, New Brighton, Chc/ Wholefoods & Specialty Groceries,
 Phone=+6433887214
-Data0=(-43.50843,172.72740)
+Data0=(-43.50693,172.72609)
 [END]
 
 ;1130962
 [POI]
 Type=0x2e
 Label=BIN INN STANMORE ROAD
-StreetDesc=341A Stanmore Rd, Richmond Village, Chc/ WHolefoods & Specialty Groceries, Bulk 
+StreetDesc=341A Stanmore Rd, Richmond Village, Chc/ Wholefoods & Specialty Groceries, Bulk 
 Phone=+6433815199
 Data0=(-43.51805,172.65580)
 [END]
@@ -167260,10 +167260,10 @@ Data0=(-45.90067,170.51013)
 ;1162200
 [POI]
 Type=0x2f
-Label=?MONTESSORI HORIZONS PRESCHOOL
+Label=MONTESSORI HORIZONS PRESCHOOL
 StreetDesc=424 Main Rd, Motueka/ 
 Phone=+6435289099
-Data0=(-41.08407,172.99723)
+Data0=(-41.08401,172.99726)
 [END]
 
 ;1162201
@@ -167404,10 +167404,10 @@ Data0=(-41.29827,173.23675)
 ;1162259
 [POI]
 Type=0x2f
-Label=?NELSON MONTESSORI PRESCHOOL
+Label=NELSON MONTESSORI PRESCHOOL
 StreetDesc=87 Atawhai Dr (Founders Park), Atawhai, Nelson/ 
 Phone=+6435469550
-Data0=(-41.23660,173.31770)
+Data0=(-41.26214,173.29773)
 [END]
 
 ;1162271
@@ -183628,9 +183628,9 @@ Data0=(-43.85950,169.04324)
 ;1171311
 [POI]
 Type=0x4b00
-Label=?ST JOHN HANMER SPRINGS
+Label=ST JOHN HANMER SPRINGS
 StreetDesc=Amuri Ave, Hanmer Springs/ Ambulance station
-Data0=(-42.52383,172.82950)
+Data0=(-42.52314,172.82976)
 [END]
 
 ;1171312
@@ -193964,9 +193964,9 @@ Data0=(-43.55633,172.67667)
 [POI]
 Type=0x2e
 Label=BIN INN BLENHEIM
-StreetDesc=32 Maxwell Rd, Blenheim/ Wholefoods & Specialty Groceries, Bulk Foods, Gluten Fr
-Phone=+6435772677
-Data0=(-41.51501,173.95497)
+StreetDesc=25 Redwood St, Blenheim/ Wholefoods & Specialty Groceries, Bulk Foods, Gluten Fr
+Phone=+6435783300
+Data0=(-41.51673,173.96084)
 [END]
 
 ;1174678
@@ -202089,9 +202089,9 @@ Data0=(-45.89368,170.48775)
 ;1179377
 [POI]
 Type=0x2f
-Label=?SOL SQUARE
+Label=SOL SQUARE
 StreetDesc=Struthers lane Chc/ The hottest hospitality precinct in New Zealand, located in 
-Data0=(-43.53480,172.63874)
+Data0=(-43.53484,172.63905)
 [END]
 
 ;1179378
@@ -203775,5 +203775,14 @@ Label=ASHBURTON DENTAL CENTRE
 StreetDesc=72 Cass St Ashburton 7700/ Dentist
 Phone=+6433081953
 Data0=(-43.90561,171.75058)
+[END]
+
+;1180777
+[POI]
+Type=0x2b00
+Label=WONDERFUL ALPACAS AND FLAGSTAFF ALPACAS
+StreetDesc=136 Three Mile Hill Rd, Dud/ Alpacas, alpaca sales & information, alpaca product
+zip=1000 to 1800
+Data0=(-45.85021,170.44633)
 [END]
 

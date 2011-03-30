@@ -41486,11 +41486,11 @@ Data0=(-43.52518,172.63640)
 ;1100712
 [POI]
 Type=0x2f
-Label=ADVANCED TECHNOLOGY & FIBREGLASS LTD
-StreetDesc=13 Brighton Rd, Green Island, Dud/ 
+Label=ADVANCED FIBREGLASS 2008 LTD
+StreetDesc=36 Orari St, South Dud, Dud 9012/ Fibreglass, Fibreglass manufacturers, Fibregla
 Phone=+6434884191
-zip=Mon-Fri 0830-1630
-Data0=(-45.90489,170.41986)
+zip=8.00am - 4.30pm Monday-Friday or by appo
+Data0=(-45.88889,170.50811)
 [END]
 
 ;1100726
@@ -65176,8 +65176,8 @@ Data0=(-43.53956,172.57090)
 ;1113613
 [POI]
 Type=0x2f
-Label=SOUTHERN LAKES REAL ESTATE LTD
-StreetDesc=10 Athol St, Queenstown/ 
+Label=HOAMZ LTD
+StreetDesc=10 Athol St, Queenstown/ Real estate agents
 Phone=+6434418858
 Data0=(-45.03110,168.66158)
 [END]
@@ -71411,9 +71411,9 @@ Data0=(-45.70734,167.99973)
 ;1116726
 [POI]
 Type=0x2f
-Label=?ARCHIE'S HUT - COPPER CREEK
+Label=ARCHIE'S HUT - COPPER CREEK
 StreetDesc=Mt Aurum Recreation Reserve, Wakatipu/ DOC Backcountry hut
-Data0=(-44.79603,168.63677)
+Data0=(-44.79607,168.63719)
 [END]
 
 ;1116727
@@ -71451,9 +71451,9 @@ Data0=(-45.38428,168.26916)
 ;1116733
 [POI]
 Type=0x2f
-Label=?ASPIRING HUT
+Label=ASPIRING HUT
 StreetDesc=Mount Aspiring Ntl Park, Wanaka/ DOC Backcountry hut
-Data0=(-44.47718,168.66033)
+Data0=(-44.47720,168.66011)
 [END]
 
 ;1116736
@@ -71523,9 +71523,9 @@ Data0=(-43.62648,170.19117)
 ;1116748
 [POI]
 Type=0x2f
-Label=?BALLARAT HUT - FLOOD BURN
+Label=BALLARAT HUT - FLOOD BURN
 StreetDesc=Mt Aurum Recreation Reserve, Wakatipu/ DOC Backcountry hut
-Data0=(-44.75082,168.65657)
+Data0=(-44.75101,168.65691)
 [END]
 
 ;1116750
@@ -71683,9 +71683,9 @@ Data0=(-45.43321,170.06922)
 ;1116771
 [POI]
 Type=0x2f
-Label=?BIG RIVER HUT
+Label=BIG RIVER HUT
 StreetDesc=Big River Ecological Area, Greymouth/ DOC Backcountry hut
-Data0=(-42.24460,171.89280)
+Data0=(-42.24455,171.89273)
 [END]
 
 ;1116773
@@ -71747,9 +71747,9 @@ Data0=(-43.14227,172.29157)
 ;1116782
 [POI]
 Type=0x2f
-Label=?BOBS HUT
+Label=BOBS HUT
 StreetDesc=Nelson Lakes Ntl Park, Nelson Lakes/ DOC Backcountry hut
-Data0=(-42.22479,172.48639)
+Data0=(-42.22375,172.48610)
 [END]
 
 ;1116784
@@ -71955,9 +71955,9 @@ Data0=(-41.83253,172.99645)
 ;1116810
 [POI]
 Type=0x2f
-Label=?BULLENDALE HUT
+Label=BULLENDALE HUT
 StreetDesc=Mt Aurum Recreation Reserve, Wakatipu/ DOC Backcountry hut
-Data0=(-44.78748,168.67284)
+Data0=(-44.78762,168.67351)
 [END]
 
 ;1116811
@@ -71971,9 +71971,9 @@ Data0=(-46.80890,168.03375)
 ;1116812
 [POI]
 Type=0x2f
-Label=?BURN CREEK HUT
+Label=BURN CREEK HUT
 StreetDesc=Nelson Lakes Ntl Park, Nelson Lakes/ DOC Backcountry hut
-Data0=(-42.15619,172.44945)
+Data0=(-42.15620,172.44997)
 [END]
 
 ;1116814
@@ -72003,9 +72003,9 @@ Data0=(-43.40743,170.41456)
 ;1116818
 [POI]
 Type=0x2f
-Label=?CAMERON HUT
+Label=CAMERON HUT
 StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
-Data0=(-42.71121,171.95244)
+Data0=(-42.71087,171.95207)
 [END]
 
 ;1116819
@@ -72043,9 +72043,9 @@ Data0=(-42.89826,171.35417)
 ;1116823
 [POI]
 Type=0x2f
-Label=?CANDLESTICKS BIVVY
+Label=CANDLESTICKS BIVVY
 StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
-Data0=(-42.82905,172.02365)
+Data0=(-42.82903,172.02361)
 [END]
 
 ;1116824
@@ -72147,9 +72147,9 @@ Data0=(-42.79050,171.55157)
 ;1116839
 [POI]
 Type=0x2f
-Label=?CASEY HUT
+Label=CASEY HUT
 StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
-Data0=(-42.89573,171.86233)
+Data0=(-42.89577,171.86346)
 [END]
 
 ;1116841
@@ -72267,9 +72267,9 @@ Data0=(-43.51034,170.10861)
 ;1116860
 [POI]
 Type=0x2f
-Label=?CHEVIOT DOWNS HUT
+Label=CHEVIOT DOWNS HUT
 StreetDesc=Takitimu Conservation Area, Te Anau/ DOC Backcountry hut
-Data0=(-45.63267,167.78557)
+Data0=(-45.63220,167.78573)
 [END]
 
 ;1116861
@@ -72307,9 +72307,9 @@ Data0=(-46.74537,167.98035)
 ;1116865
 [POI]
 Type=0x2f
-Label=?CHRISTOPHER (ADA ) CULLERS HUT
+Label=CHRISTOPHER (ADA ) CULLERS HUT
 StreetDesc=St James Station/Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
-Data0=(-42.28272,172.55866)
+Data0=(-42.28314,172.55776)
 [END]
 
 ;1116866
@@ -72363,9 +72363,9 @@ Data0=(-41.87033,172.81715)
 ;1116873
 [POI]
 Type=0x2f
-Label=?COLIN TODD HUT
+Label=COLIN TODD HUT
 StreetDesc=Mount Aspiring Ntl Park, Wanaka/ DOC Backcountry hut
-Data0=(-44.37099,168.69331)
+Data0=(-44.37207,168.69454)
 [END]
 
 ;1116874
@@ -72667,9 +72667,9 @@ Data0=(-43.65264,170.01828)
 ;1116922
 [POI]
 Type=0x2f
-Label=?DOWNIES HUT
+Label=DOWNIES HUT
 StreetDesc=Nelson Lakes Ntl Park, Nelson Lakes/ DOC Backcountry hut
-Data0=(-42.13312,172.52344)
+Data0=(-42.13321,172.52470)
 [END]
 
 ;1116924
@@ -72715,9 +72715,9 @@ Data0=(-44.80095,168.66237)
 ;1116931
 [POI]
 Type=0x2f
-Label=?DYNAMO RED HUT
+Label=DYNAMO RED HUT
 StreetDesc=Mt Aurum Recreation Reserve, Wakatipu/ DOC Backcountry hut
-Data0=(-44.80479,168.65384)
+Data0=(-44.80444,168.65364)
 [END]
 
 ;1116932
@@ -72747,9 +72747,9 @@ Data0=(-42.90010,171.77586)
 ;1116935
 [POI]
 Type=0x2f
-Label=?EAST MATAKITAKI HUT
+Label=EAST MATAKITAKI HUT
 StreetDesc=Nelson Lakes Ntl Park, Nelson Lakes/ DOC Backcountry hut
-Data0=(-42.19359,172.55781)
+Data0=(-42.19355,172.55774)
 [END]
 
 ;1116936
@@ -73011,9 +73011,9 @@ Data0=(-43.62008,170.11252)
 ;1116972
 [POI]
 Type=0x2f
-Label=?GEORGE LYON (FORMERLY ELLA) HUT
+Label=GEORGE LYON (FORMERLY ELLA) HUT
 StreetDesc=Nelson Lakes Ntl Park, Nelson Lakes/ DOC Backcountry hut
-Data0=(-42.04700,172.60503)
+Data0=(-42.04748,172.60512)
 [END]
 
 ;1116973
@@ -73051,17 +73051,17 @@ Data0=(-45.08651,168.87610)
 ;1116977
 [POI]
 Type=0x2f
-Label=?GLENRAE BIVVY
+Label=GLENRAE BIVVY
 StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
-Data0=(-42.69473,172.44268)
+Data0=(-42.69475,172.44265)
 [END]
 
 ;1116978
 [POI]
 Type=0x2f
-Label=?GLENRAE HUT
+Label=GLENRAE HUT
 StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
-Data0=(-42.76446,172.43377)
+Data0=(-42.76453,172.43382)
 [END]
 
 ;1116979
@@ -73259,9 +73259,9 @@ Data0=(-42.91937,171.32135)
 ;1117007
 [POI]
 Type=0x2f
-Label=?HARPER PASS BIVVY
+Label=HARPER PASS BIVVY
 StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
-Data0=(-42.72494,171.89655)
+Data0=(-42.72502,171.89660)
 [END]
 
 ;1117010
@@ -73475,9 +73475,9 @@ Data0=(-42.70379,172.09593)
 ;1117042
 [POI]
 Type=0x2f
-Label=?HURUNUI NO. 3 HUT
+Label=HURUNUI NO. 3 HUT
 StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
-Data0=(-42.70040,171.98808)
+Data0=(-42.70083,171.98796)
 [END]
 
 ;1117044
@@ -73763,9 +73763,9 @@ Data0=(-44.87102,169.16066)
 ;1117096
 [POI]
 Type=0x2f
-Label=?KIRWANS HUT
+Label=KIRWANS HUT
 StreetDesc=Victoria Forest Park, Greymouth/ DOC Backcountry hut
-Data0=(-42.10311,172.00987)
+Data0=(-42.10314,172.00985)
 [END]
 
 ;1117097
@@ -74099,15 +74099,15 @@ Data0=(-45.68487,167.06520)
 ;1117148
 [POI]
 Type=0x2f
-Label=?LOCHINVAR HUT
+Label=LOCHINVAR HUT
 StreetDesc=Lochinvar Forest, Waimakariri/ DOC Backcountry hut
-Data0=(-42.93443,172.00747)
+Data0=(-42.93444,172.00734)
 [END]
 
 ;1117149
 [POI]
 Type=0x2f
-Label=?LOCKE STREAM HUT
+Label=LOCKE STREAM HUT
 StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
 Data0=(-42.73984,171.83014)
 [END]
@@ -74179,9 +74179,9 @@ Data0=(-45.59329,167.95770)
 ;1117160
 [POI]
 Type=0x2f
-Label=?LOWER SALMON CREEK BIVVY
+Label=LOWER SALMON CREEK BIVVY
 StreetDesc=Oxford Forest, Waimakariri/ DOC Backcountry hut
-Data0=(-43.16166,171.98052)
+Data0=(-43.16172,171.98037)
 [END]
 
 ;1117161
@@ -74243,17 +74243,17 @@ Data0=(-40.84295,172.24128)
 ;1117169
 [POI]
 Type=0x2f
-Label=?MACKENZIE BIVVY (EAST BRANCH)
+Label=MACKENZIE BIVVY (EAST BRANCH)
 StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
-Data0=(-42.64751,172.06616)
+Data0=(-42.64836,172.06557)
 [END]
 
 ;1117170
 [POI]
 Type=0x2f
-Label=?MACKENZIE HUT
+Label=MACKENZIE HUT
 StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
-Data0=(-42.64932,172.01575)
+Data0=(-42.64831,172.01843)
 [END]
 
 ;1117172
@@ -74483,9 +74483,9 @@ Data0=(-42.85014,171.44337)
 ;1117235
 [POI]
 Type=0x2f
-Label=?MID TRENT HUT
+Label=MID TRENT HUT
 StreetDesc=Stewardship Land, Greymouth/ DOC Backcountry hut
-Data0=(-42.68971,171.89425)
+Data0=(-42.68966,171.89417)
 [END]
 
 ;1117237
@@ -74755,9 +74755,9 @@ Data0=(-41.13558,172.62162)
 ;1117276
 [POI]
 Type=0x2f
-Label=?NARDOO HUT
+Label=NARDOO HUT
 StreetDesc=Nelson Lakes Ntl Park, Nelson Lakes/ DOC Backcountry hut
-Data0=(-42.09667,172.42942)
+Data0=(-42.09699,172.42977)
 [END]
 
 ;1117277
@@ -75147,9 +75147,9 @@ Data0=(-42.81521,171.77096)
 ;1117363
 [POI]
 Type=0x2f
-Label=?POULTER HUT
+Label=POULTER HUT
 StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
-Data0=(-42.84948,171.80996)
+Data0=(-42.84943,171.80981)
 [END]
 
 ;1117368
@@ -76043,9 +76043,9 @@ Data0=(-43.01344,171.15392)
 ;1117536
 [POI]
 Type=0x2f
-Label=?TOP TRENT HUT/LAGOON HUT
+Label=TOP TRENT HUT/LAGOON HUT
 StreetDesc=Stewardship Land, Greymouth/ DOC Backcountry hut
-Data0=(-42.69981,171.83307)
+Data0=(-42.69980,171.83281)
 [END]
 
 ;1117537
@@ -76075,9 +76075,9 @@ Data0=(-43.12974,170.87662)
 ;1117540
 [POI]
 Type=0x2f
-Label=?TOP WAITAHU BIVVY
+Label=TOP WAITAHU BIVVY
 StreetDesc=Victoria Forest Park, Greymouth/ DOC Backcountry hut
-Data0=(-42.20441,172.10815)
+Data0=(-42.20443,172.10802)
 [END]
 
 ;1117542
@@ -76107,9 +76107,9 @@ Data0=(-41.13020,172.60844)
 ;1117548
 [POI]
 Type=0x2f
-Label=?TRUST/POULTER HUT
+Label=TRUST/POULTER HUT
 StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
-Data0=(-42.85473,171.84284)
+Data0=(-42.85473,171.84268)
 [END]
 
 ;1117549
@@ -76155,9 +76155,9 @@ Data0=(-46.29161,167.85185)
 ;1117555
 [POI]
 Type=0x2f
-Label=?TUTAEKURI HUT
+Label=TUTAEKURI HUT
 StreetDesc=Stewardship Land, Greymouth/ DOC Backcountry hut
-Data0=(-42.61432,171.97201)
+Data0=(-42.61423,171.97174)
 [END]
 
 ;1117556
@@ -76171,9 +76171,9 @@ Data0=(-42.55044,172.60650)
 ;1117558
 [POI]
 Type=0x2f
-Label=?TWO MILE HUT - REMARKABLES
+Label=TWO MILE HUT - REMARKABLES
 StreetDesc=Remarkables Conservation Area, Wakatipu/ DOC Backcountry hut
-Data0=(-45.17450,168.80270)
+Data0=(-45.17457,168.80257)
 [END]
 
 ;1117559
@@ -76251,9 +76251,9 @@ Data0=(-45.62242,167.91392)
 ;1117570
 [POI]
 Type=0x2f
-Label=?UPPER SOUTH BRANCH HURUNUI HUT
+Label=UPPER SOUTH BRANCH HURUNUI HUT
 StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
-Data0=(-42.76395,171.98695)
+Data0=(-42.76394,171.98707)
 [END]
 
 ;1117571
@@ -76315,9 +76315,9 @@ Data0=(-41.31700,172.43999)
 ;1117589
 [POI]
 Type=0x2f
-Label=?WAIKITI HUT
+Label=WAIKITI HUT
 StreetDesc=Stewardship Land, Greymouth/ DOC Backcountry hut
-Data0=(-42.61449,171.85418)
+Data0=(-42.61447,171.85392)
 [END]
 
 ;1117590
@@ -76531,9 +76531,9 @@ Data0=(-42.85130,171.78312)
 ;1117637
 [POI]
 Type=0x2f
-Label=?WORSLEY HUT
+Label=WORSLEY HUT
 StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
-Data0=(-44.94268,167.83386)
+Data0=(-44.94284,167.83394)
 [END]
 
 ;1117638
@@ -92846,9 +92846,9 @@ Data0=(-45.88333,170.50833)
 [POI]
 Type=0x5904
 Label=DUNEDIN HOSPITAL HELIPORT
-StreetDesc=/ NZDH
+StreetDesc=On top of Hospital, N.E. corner./ NZDH
 zip=Non-certificated
-Data0=(-45.86861,170.51056)
+Data0=(-45.86886,170.50958)
 [END]
 
 ;1123393
@@ -93736,8 +93736,8 @@ Data0=(-41.51279,173.95270)
 [POI]
 Type=0x2b01
 Label=BELLA VISTA MOTEL DUNEDIN
-StreetDesc=704 Great King St, Dud/ Motel accommodation
-Phone=+6467695932
+StreetDesc=704 Great King St, Dud/ Bella Vista Motels Dunedin. Superior motel accommodation
+Phone=+6434772232
 Data0=(-45.85970,170.51296)
 [END]
 
@@ -94935,8 +94935,8 @@ Data0=(-45.89363,170.50603)
 ;1128511
 [POI]
 Type=0x2f
-Label=ETRUSCO AT THE SAVOY
-StreetDesc=8A Moray Place, Dud/ Authentic Italian Restaurant
+Label=ETRUSCO ITALIAN RESTAURANT
+StreetDesc=The Savoy Blg 8A Moray Place, Dud/ Authentic Italian Restaurant with delicious p
 Phone=+6434773737
 Data0=(-45.87529,170.50255)
 [END]
@@ -117049,7 +117049,9 @@ Data0=(-41.27407,173.28241)
 [POI]
 Type=0x2f
 Label=HAVEN ROAD STORE & LOTTO
-StreetDesc=213 Haven Rd, Nelson/ Lotto
+StreetDesc=213 Haven Rd, Nelson/ Lotto,Kronic,marley,herbal smoke,dairy,haven,electronic ci
+Phone=+6435483245
+zip=7 to 8 -- 7 days
 Data0=(-41.26527,173.27215)
 [END]
 
@@ -118554,10 +118556,10 @@ Data0=(-44.93859,168.83219)
 [POI]
 Type=0x2f
 Label=ZIP PLUMBING PLUS
-StreetDesc=127 Moorhouse Ave, Chc/ Plumbing, bathroom and drainage supplies
+StreetDesc=32 Kingsley St , Chc/ Plumbing, bathroom and drainage supplies
 Phone=+6433798240
 zip=Mon-Fri 7.30-5.00, Sat 8.30-Noon
-Data0=(-43.53983,172.62650)
+Data0=(-43.54368,172.64113)
 [END]
 
 ;1135613
@@ -129186,7 +129188,7 @@ Data0=(-43.53022,172.59789)
 ;1141549
 [POI]
 Type=0x2a0e
-Label=MUSOS CAFE
+Label=MUSOS CAFE (?CLOSED FOR GOOD)
 StreetDesc=245 Selwyn St, Timaru/ 
 zip=Tue-Sun: 8:30am to 4pm
 Data0=(-44.37908,171.22969)
@@ -163231,9 +163233,10 @@ Data0=(-45.87492,170.49770)
 ;1159922
 [POI]
 Type=0x2b00
-Label=THE BROWN PUB, MT HUTT VILLAGE, METHVEN
-StreetDesc=Forest Dr, Methven/ Accommodation
-Data0=(-43.63238,171.64668)
+Label=?THE BROWN PUB, MT HUTT VILLAGE, METHVEN
+StreetDesc=Cnr Main St & Forest Dr, Methven/ A true kiwi country pub with a warm, friendly 
+Phone=+33028045
+Data0=(-43.63002,171.64048)
 [END]
 
 ;1159925
@@ -173113,14 +173116,6 @@ StreetDesc=368 Wairakei Rd, Bishopdale, Chc/
 Data0=(-43.49651,172.57873)
 [END]
 
-;1165931
-[POI]
-Type=0x2f
-Label=BURWOOD COUNSELLING CENTRE
-StreetDesc=52 Bassett St, Burwood, Chc/ 
-Data0=(-43.49627,172.68883)
-[END]
-
 ;1165938
 [POI]
 Type=0x2f
@@ -174138,8 +174133,9 @@ Data0=(-43.53046,172.59278)
 [POI]
 Type=0x2f
 Label=DONNA M BATCHELOR ORTHODONTIST
-StreetDesc=137 Cambridge Terrace, Chc/ 
-Data0=(-43.53071,172.63265)
+StreetDesc=2 Chislehurst Place, Bryndwr, Chc/ 
+Phone=+6433660517
+Data0=(-43.50886,172.60078)
 [END]
 
 ;1166420
@@ -194444,7 +194440,7 @@ Data0=(-43.52065,172.62913)
 [POI]
 Type=0x2f
 Label=A1 SCREENPRINT
-StreetDesc=2/28 Tanya St, Bromley, Chc/ Print Industrial Screen Printers. mouse pads, nz, l
+StreetDesc=2/28 Tanya St, Bromley, Chc/ Printer Industrial Screen Printers. mouse pads, nz,
 Phone=+6433841553
 zip=8am-5pm
 Data0=(-43.54007,172.69572)
@@ -203784,5 +203780,49 @@ Label=WONDERFUL ALPACAS AND FLAGSTAFF ALPACAS
 StreetDesc=136 Three Mile Hill Rd, Dud/ Alpacas, alpaca sales & information, alpaca product
 zip=1000 to 1800
 Data0=(-45.85021,170.44633)
+[END]
+
+;1180798
+[POI]
+Type=0x2f
+Label=SPOTU DIGITAL 24HR
+StreetDesc=125 Oxford Tce Chc/ flights, itinerary, email, e-ticketing, airlines, airfares, 
+zip=24hrs
+Data0=(-43.52811,172.63793)
+[END]
+
+;1180802
+[POI]
+Type=0x2f
+Label=HOAMZ LTD
+StreetDesc=100 Spey St, Invercargill/ Real estate agents
+Phone=+6432146269
+Data0=(-46.40955,168.34871)
+[END]
+
+;1180803
+[POI]
+Type=0x2f0c
+Label=MIDDLEMARCH PUBLIC TOILETS
+StreetDesc=11 Browns Rd, Middlemarch./ Community public toilets
+Data0=(-45.50756,170.11858)
+[END]
+
+;1180804
+[POI]
+Type=0x2f
+Label=STRATH TAIERI COMMUNITY CENTRE
+StreetDesc=Corner of Swansea St and Browns Rd, Middlemarch./ Community Hall
+Phone=+6434643718
+Data0=(-45.50771,170.11874)
+[END]
+
+;1180816
+[POI]
+Type=0x2f
+Label=PROMAX COATING SYSTEMS
+StreetDesc=5 Largo Ave, South Dud, Dud, 9012/ roof-restoration, waterproofing, deck-shield,
+Phone=+6434556607
+Data0=(-45.89636,170.49842)
 [END]
 

@@ -55269,9 +55269,10 @@ Data0=(-41.26090,173.27937)
 ;1108126
 [POI]
 Type=0x2f
-Label=KEVIN KING FURNITURE POLISHERS
-StreetDesc=309 Kaikorai Valley Rd, Bradford, Dud/ 
+Label=JEFF KING LACQUER & FURNITURE POLISHERS
+StreetDesc=309 Kaikorai Valley Rd, Bradford, Dud, 9011/ For kitchen and bathroom renovation
 Phone=+6434530401
+zip=Monday - Friday 8.00am - 4.30pm Or by ap
 Data0=(-45.87612,170.47200)
 [END]
 
@@ -203431,9 +203432,9 @@ Data0=(-43.54184,172.68764)
 ;1180426
 [POI]
 Type=0x2f
-Label=SIGNGUYS DUNEDIN
-StreetDesc=19-21 Braemar St South Dud Dud 9012/ Total Signage Solutions
-Phone=+6434553305
+Label=SIGNGUYS
+StreetDesc=19-21 Braemar St South Dud Dud 9012/ For signage by signwriters with decades of 
+Phone=+6434553319
 zip=Monday - Friday 8am - 4.30pm
 Data0=(-45.89346,170.50173)
 [END]
@@ -203749,7 +203750,7 @@ Data0=(-43.50558,172.61529)
 [POI]
 Type=0x2f
 Label=OTAGO FENCING
-StreetDesc=33 Gordon Rd, Mosgiel, Dud, 9024/ A fence made of colourbond steel from Otago fe
+StreetDesc=/ A fence made of colourbond steel from Otago fencing is a strong, secure and be
 Phone=+6434898627
 Data0=(-45.88248,170.35298)
 [END]
@@ -203824,5 +203825,14 @@ Label=PROMAX COATING SYSTEMS
 StreetDesc=5 Largo Ave, South Dud, Dud, 9012/ roof-restoration, waterproofing, deck-shield,
 Phone=+6434556607
 Data0=(-45.89636,170.49842)
+[END]
+
+;1180825
+[POI]
+Type=0x2F02
+Label=A2B CAR RENTALS - CHRISTCHURCH AIRPORT
+StreetDesc=504 Wairakei Rd. Burnside 8053, Chc/ hire car, rental car, car hire christchurch
+Phone=+6433598157
+Data0=(-43.48968,172.56948)
 [END]
 

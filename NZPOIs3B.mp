@@ -149102,8 +149102,8 @@ Data0=(-43.54370,172.61124)
 ;1151752
 [POI]
 Type=0x2d02
-Label=BLUE PUB
-StreetDesc=Corner Barkers Rd & Kilworth St, Methven, Canterbury/ 
+Label=THE BLUE PUB
+StreetDesc=Corner Barkers Rd & Kilworth St, Methven, Canterbury/ An iconic pub in the heart
 Phone=+33028046
 Data0=(-43.63260,171.64747)
 [END]
@@ -203834,5 +203834,33 @@ Label=A2B CAR RENTALS - CHRISTCHURCH AIRPORT
 StreetDesc=504 Wairakei Rd. Burnside 8053, Chc/ hire car, rental car, car hire christchurch
 Phone=+6433598157
 Data0=(-43.48968,172.56948)
+[END]
+
+;1180830
+[POI]
+Type=0x2e08
+Label=CUSTOM HOME PRODUCTS LTD
+StreetDesc=41 Timaru St South Dud Dud 9012/ At Custom Home Products we manufacture and inst
+Phone=+6434550527
+zip=Monday - Friday 7.30am - 5.30pm Or by ap
+Data0=(-45.89422,170.50755)
+[END]
+
+;1180834
+[POI]
+Type=0x2f
+Label=WEB TONIC
+StreetDesc=81 Ellis St, Brightwater, Nelson/ Website Design New Zealand
+Phone=+6435423794
+Data0=(-41.37769,173.11208)
+[END]
+
+;1180835
+[POI]
+Type=0x2e07
+Label=CARVIN STREETWEAR
+StreetDesc=84 Main St, Gore 9712, Southland/ Clothes, Zenbu Wi-Fi wireless internet, cheap,
+Phone=+6432089165
+Data0=(-46.10059,168.94425)
 [END]
 

@@ -76858,7 +76858,7 @@ Data0=(-43.58299,172.51031)
 
 ;1117808
 [POI]
-Type=0x2a
+Type=0x2a02
 Label=PRIYA INDIAN FRANZ
 StreetDesc=70 Cron St, Franz Josef/ Indian Restaurant
 Phone=+6437520060
@@ -76867,7 +76867,7 @@ Data0=(-43.38410,170.18502)
 
 ;1117809
 [POI]
-Type=0x2a
+Type=0x2a02
 Label=PRIYA INDIAN WESTPORT
 StreetDesc=110 Palmerston St, Westport/ Indian Restaurant
 Phone=+6437896255
@@ -76876,7 +76876,7 @@ Data0=(-41.75263,171.59779)
 
 ;1117810
 [POI]
-Type=0x2a
+Type=0x2a02
 Label=PRIYA INDIAN HOKITIKA
 StreetDesc=79 Revell St, Hokitika/ Indian Restaurant
 Phone=+6437557225
@@ -79804,9 +79804,9 @@ Data0=(-45.41572,167.71428)
 [POI]
 Type=0x2b01
 Label=MANAPOURI LAKEVIEW MOTOR INN
-StreetDesc=68 Cathedral Dr, Manapouri/ Hotel
+StreetDesc=68 Cathedral Dr, Manapouri 9679 Fiordland/ Hotel / Motel accommodation. Cafe, li
 Phone=+6432496652
-Data0=(-45.56031,167.61825)
+Data0=(-45.56036,167.61831)
 [END]
 
 ;1119303
@@ -83744,15 +83744,6 @@ Phone=+6434778798
 Data0=(-45.88026,170.50052)
 [END]
 
-;1120401
-[POI]
-Type=0x2e
-Label=ANOTHER TIME ANTIQUES
-StreetDesc=249a Riccarton Rd, Riccarton, Chc/ Antiques, Antique Shop
-Phone=+6433418600
-Data0=(-43.53087,172.58591)
-[END]
-
 ;1120402
 [POI]
 Type=0x2e
@@ -83769,15 +83760,6 @@ Label=ANTIQUE WAREHOUSE
 StreetDesc=8 Homersham Place, Burnside, Chc/ Antiques, Antique Shop
 Phone=+6433583884
 Data0=(-43.49159,172.56392)
-[END]
-
-;1120406
-[POI]
-Type=0x2e
-Label=ANTIQUES & OLD TREASURES
-StreetDesc=270B Lincoln Rd, Addington, Chc/ Antiques, Antique Shop
-Phone=+6433381971
-Data0=(-43.54463,172.61007)
 [END]
 
 ;1120407
@@ -84104,15 +84086,6 @@ Phone=+6432174555
 Data0=(-46.41163,168.37095)
 [END]
 
-;1120459
-[POI]
-Type=0x2e
-Label=MALTESE CROSS ANTIQUES
-StreetDesc=259 Greers Rd, Bryndwr, Chc/ Antiques, Antique Shop
-Phone=+6433594224
-Data0=(-43.49986,172.58575)
-[END]
-
 ;1120460
 [POI]
 Type=0x2e
@@ -84183,15 +84156,6 @@ Label=O'LOUGHLINS ANTIQUES & COLLECTABLES
 StreetDesc=2 Arthur St, Timaru, Canterbury/ Antiques, Antique Shop
 Phone=+6436886319
 Data0=(-44.39792,171.25210)
-[END]
-
-;1120474
-[POI]
-Type=0x2e
-Label=PLANE TREE ANTIQUES & INTERIORS
-StreetDesc=92 Colombo St, Beckenham, Chc/ Antiques, Antique Shop
-Phone=+6433371890
-Data0=(-43.55980,172.63708)
 [END]
 
 ;1120475
@@ -84336,15 +84300,6 @@ Label=VILLA ANTIQUES
 StreetDesc=196 Papanui Rd, Merivale, Chc/ Antiques, Antique Shop
 Phone=+6433558193
 Data0=(-43.51215,172.62201)
-[END]
-
-;1120497
-[POI]
-Type=0x2e
-Label=VILLAGE BYGONE ANTIQUES
-StreetDesc=191 Papanui Rd, Merivale, Chc/ Antiques, Antique Shop
-Phone=+6433560904
-Data0=(-43.51235,172.62173)
 [END]
 
 ;1120498
@@ -89922,7 +89877,7 @@ Data0=(-45.87389,170.50171)
 
 ;1121969
 [POI]
-Type=0x2a
+Type=0x2a02
 Label=INDIAN OCEAN
 StreetDesc=23 Humphreys Dr, Ferrymead, Chc/ Indian Restaurant
 Phone=+6433847000
@@ -90241,10 +90196,10 @@ Data0=(-41.31508,173.13560)
 [POI]
 Type=0x2b01
 Label=TAYLORS LODGE MOTEL
-StreetDesc=770 East St, Ashburton/ Motel accommodation
+StreetDesc=770 East St, Netherby 7700, Ashburton, Canterbury/ Motel accommodation. BBQ. 4 S
 Phone=+6433089119
 zip=0800 339 119
-Data0=(-43.89653,171.76024)
+Data0=(-43.89684,171.76041)
 [END]
 
 ;1122160
@@ -91299,7 +91254,7 @@ Data0=(-44.19799,171.04019)
 
 ;1122523
 [POI]
-Type=0x2a
+Type=0x2a02
 Label=INDIAN MINAR
 StreetDesc=300 East St, Ashburton/ Indian Restaurant, Takeaway, Curry
 Phone=+33081076
@@ -95454,7 +95409,7 @@ Data0=(-45.85484,170.51842)
 
 ;1128577
 [POI]
-Type=0x2a07
+Type=0x2a02
 Label=INDIAN GATE DINE & TAKEAWAY
 StreetDesc=102 Princes St, Dud/ Indian takeaways
 Data0=(-45.87576,170.50249)
@@ -95462,7 +95417,7 @@ Data0=(-45.87576,170.50249)
 
 ;1128578
 [POI]
-Type=0x2a
+Type=0x2a02
 Label=INDIAN SPICE
 StreetDesc=251 George St, Dud/ Indian restaurant
 Data0=(-45.87071,170.50525)
@@ -102729,7 +102684,7 @@ Data0=(-43.50852,172.72479)
 
 ;1131247
 [POI]
-Type=0x2a
+Type=0x2a02
 Label=FREIYA'S AUTHENTIC INDIAN
 StreetDesc=Eastgate Shopping Ctr, Cnr Linwood Ave and Buckleys Rd, Chc/ Indian restaurant
 Phone=+6439820890
@@ -203655,7 +203610,7 @@ Data0=(-41.28946,174.00715)
 [POI]
 Type=0x2f
 Label=DUNEDIN CLEANING SERVICES LTD 24HR
-StreetDesc=17 Cumberland St Central Dud Dud 9016/ Cleaning, cleaners, cleaning services, cl
+StreetDesc=17 Cumberland St Central Dud Dud 9016/ A cleaning service that knows how to clea
 Phone=+6434792001
 zip=24 hours 7days a week
 Data0=(-45.88633,170.49985)
@@ -203862,5 +203817,25 @@ Label=CARVIN STREETWEAR
 StreetDesc=84 Main St, Gore 9712, Southland/ Clothes, Zenbu Wi-Fi wireless internet, cheap,
 Phone=+6432089165
 Data0=(-46.10059,168.94425)
+[END]
+
+;1180852
+[POI]
+Type=0x2a0e
+Label=REALITY BITES CAFE & CATERING
+StreetDesc=245a Sawyers Arms Rd Bishopdale 8053/ Cafe
+Phone=+6433598400
+zip=Mon--Fri 6:30am to 4pm Sat Sun 7:30 to 4
+Data0=(-43.48191,172.59345)
+[END]
+
+;1180853
+[POI]
+Type=0x2f
+Label=?ALI CATS CATTERY
+StreetDesc=Chc/ cattery, cats, pets, pet boarding
+Phone=+6433421424
+zip=Mon - Sat 9-11am or 4.30 to 5.30pm Sun 2
+Data0=(-43.50696,172.46177)
 [END]
 

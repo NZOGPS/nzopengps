@@ -18,3 +18,4 @@
 1030000056079	O,131,143	E,128,128	Topito Road	
 1030000192031	E,600,600		Kawarau Gorge Road	Number is on southland tile.
 1030000000386	O,355,363		Worsleys Road	Hoon Hay, Christchurch (Canterbury, NZ)
+1030000055863	O,141,387	E,122,390		Mill Road	Oxford (Canterbury, NZ)

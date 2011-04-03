@@ -203832,10 +203832,10 @@ Data0=(-43.48191,172.59345)
 ;1180853
 [POI]
 Type=0x2f
-Label=?ALI CATS CATTERY
-StreetDesc=Chc/ cattery, cats, pets, pet boarding
+Label=ALI CATS CATTERY
+StreetDesc=202 Old West Coast Rd, Yaldhurst, Chc/ cattery, cats, pets, pet boarding, catter
 Phone=+6433421424
 zip=Mon - Sat 9-11am or 4.30 to 5.30pm Sun 2
-Data0=(-43.50696,172.46177)
+Data0=(-43.50708,172.46249)
 [END]
 

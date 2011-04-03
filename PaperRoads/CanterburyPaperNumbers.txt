@@ -10,9 +10,11 @@
 1030000040928	O,19,85	E,20,30	E,66,66	QUEEN	ST	Coalgate (Canterbury,	NZ)
 1030000041632	E,2064,2064		Barford Road
 1030000054816	O,1,27	E,2,76		TWO CHAIN RD	Swannanoa (Canterbury, NZ)
+1030000054995	O,23,37	E,20,20		Beacon Street	Brooklands, Christchurch (Canterbury, NZ)
 1030000055674	O,203,203		BRADYS RD	Loburn (Canterbury, NZ)
 1030000055802	O,2715,2715 		WOODSTOCK RD	Springfield (Canterbury, NZ)
 1030000055823	O,175,603	E,222,564	Rampaddock Road
 1030000055973	O,121,121		Kings Avenue
 1030000056079	O,131,143	E,128,128	Topito Road	
 1030000192031	E,600,600		Kawarau Gorge Road	Number is on southland tile.
+1030000000386	O,355,363		Worsleys Road	Hoon Hay, Christchurch (Canterbury, NZ)

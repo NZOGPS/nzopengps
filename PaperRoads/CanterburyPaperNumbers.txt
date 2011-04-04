@@ -20,3 +20,5 @@
 1030000055973	O,121,121		Kings Avenue
 1030000056079	O,131,143	E,128,128	Topito Road	
 1030000192031	E,600,600		Kawarau Gorge Road	Number is on southland tile.
+1030000040969	E,22,24	O,13,13		Lower High Street	Coalgate (Canterbury, NZ)
+1030000041027	O,351,351	Kennedys Bush Road	Halswell, Christchurch (Canterbury, NZ)

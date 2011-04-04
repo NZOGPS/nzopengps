@@ -110,6 +110,8 @@
 1030000039963	Church Street	Waikari
 1030000040008	Queen Street	Waikari	28/04/2010 2:56p.m.
 1030000040023	Canterbury Terrace	Leithfield
+1030000040143	WATERLOO ST	Hawarden (Canterbury, NZ)	4/04/2011 9:14:03 p.m.
+1030000040144	WAIPARA NORTH BRANCH RD	MacDonald Downs (Canterbury, NZ)	4/04/2011 9:06:22 p.m.
 1030000040221	Hawkhurst Lane	Lyttelton
 1030000040235	Old Sumner Lyttelton Road	Lyttelton
 1030000040259	CASTLE PEAK RD	Diamond Harbour (Canterbury, NZ)	1/07/2010 5:09p.m.

@@ -1260,15 +1260,6 @@ StreetDesc=13 Church St, Queenstown/ bar, club
 Data0=(-45.03297,168.66115)
 [END]
 
-;1005019
-[POI]
-Type=0x2d02
-Label=JETSET LOUNGE
-StreetDesc=270 St Asaph St, Chc/ bar, club
-Phone=+6433797675
-Data0=(-43.53655,172.64235)
-[END]
-
 ;1005033
 [POI]
 Type=0x2d02
@@ -50697,15 +50688,6 @@ Phone=+6433146710
 Data0=(-43.04208,172.79093)
 [END]
 
-;1105632
-[POI]
-Type=0x2f
-Label=FLOURISH COMMUNICATION LTD
-StreetDesc=Suite 402 Kenton Chambers, 192 Hereford St, Chc/ 
-Phone=+6439633737
-Data0=(-43.53216,172.64034)
-[END]
-
 ;1105637
 [POI]
 Type=0x2f
@@ -54440,15 +54422,6 @@ Label=J K STEVENSON LTD
 StreetDesc=190 Mersey St, Invercargill/ 
 Phone=+6432187096
 Data0=(-46.41431,168.34175)
-[END]
-
-;1107677
-[POI]
-Type=0x2f
-Label=J L CRICHTON & COMPANY LTD
-StreetDesc=Kenton Chambers, 192 Hereford St, Chc/ 
-Phone=+6433660389
-Data0=(-43.53216,172.64034)
 [END]
 
 ;1107679
@@ -81415,15 +81388,6 @@ Phone=+6433592930
 Data0=(-43.49061,172.58692)
 [END]
 
-;1119706
-[POI]
-Type=0x2a
-Label=SOUTHLANDER HOTEL
-StreetDesc=270 St Asaph St, Chc/ Hotel Bar Restaurant TAB Outlet
-Phone=+6433797675
-Data0=(-43.53655,172.64235)
-[END]
-
 ;1119707
 [POI]
 Type=0x2a
@@ -97255,7 +97219,7 @@ Data0=(-45.50964,170.11866)
 [POI]
 Type=0x2a0e
 Label=THE LITTLE HUT CAFE
-StreetDesc=252 George St, Central Dud, Dud 9016/ Catering, Caterer, Cater, Food Caterer, Ca
+StreetDesc=252 George St, Central Dud, Dud 9016/ Delicious food delivered to office lunches
 Phone=+6434778279
 Data0=(-45.87087,170.50592)
 [END]
@@ -103787,14 +103751,6 @@ StreetDesc=113 Riccarton Rd, Chc/
 Data0=(-43.52991,172.59967)
 [END]
 
-;1131385
-[POI]
-Type=0x2f
-Label=HOTEL GRAND CHANCELLOR
-StreetDesc=161 Cashel St, Chc/ Accommodation
-Data0=(-43.53299,172.63893)
-[END]
-
 ;1131388
 [POI]
 Type=0x2a07
@@ -108366,14 +108322,6 @@ Type=0x2a
 Label=SUBWAY LINCOLN ROAD
 StreetDesc=359 Lincoln Rd, Chc/ Fast food restaurant, sandwiches, salads, takeaways
 Data0=(-43.54170,172.61461)
-[END]
-
-;1131969
-[POI]
-Type=0x2a
-Label=SUBWAY MANCHESTER
-StreetDesc=287 Manchester St, Chc/ Fast food restaurant, sandwiches, salads, takeaways
-Data0=(-43.52864,172.63946)
 [END]
 
 ;1131971
@@ -150053,16 +150001,6 @@ StreetDesc=Hangar 1, 82 Airport Ave, Invercargill/ Browse for your team, club or
 Data0=(-46.41514,168.32468)
 [END]
 
-;1152604
-[POI]
-Type=0x2f
-Label=META SOLUTIONS | WEB COMMUNICATIONS
-StreetDesc=Suite 405 Kenton Chambers, 190 Hereford St, Chc/ Website Design & Development, W
-Phone=+6439633739
-zip=8:30 - 5:30 weekdays
-Data0=(-43.53216,172.64045)
-[END]
-
 ;1152606
 [POI]
 Type=0x2f
@@ -163050,8 +162988,9 @@ Data0=(-41.52960,174.02008)
 ;1159873
 [POI]
 Type=0x2b02
-Label=TANGLEY ON CLYDE B&B
-StreetDesc=193 Clyde Rd, Fendalton, Chc/ B&B Accommodation
+Label=TANGLEY ON CLYDE
+StreetDesc=193 Clyde Rd, Fendalton, Chc/ 5 star luxury B&B Accommodation, function room
+Phone=+6433518940
 Data0=(-43.51329,172.59045)
 [END]
 
@@ -190485,9 +190424,10 @@ Data0=(-43.51933,172.62672)
 [POI]
 Type=0x2f
 Label=HAIRYLEMON WEB SOLUTIONS
-StreetDesc=L 4, 123 Victoria St, Chc/ hairy lemon provides the full range of web services, 
-Phone=+6433485885
-Data0=(-43.52364,172.62979)
+StreetDesc=Shop 1, 1 - 5 Amyes Rd, Hornby, Chc/ hairy lemon provides the full range of web 
+Phone=+6433770031
+zip=8.00am - 5.30pm
+Data0=(-43.54555,172.52560)
 [END]
 
 ;1173549
@@ -203837,5 +203777,62 @@ StreetDesc=202 Old West Coast Rd, Yaldhurst, Chc/ cattery, cats, pets, pet board
 Phone=+6433421424
 zip=Mon - Sat 9-11am or 4.30 to 5.30pm Sun 2
 Data0=(-43.50708,172.46249)
+[END]
+
+;1180862
+[POI]
+Type=0x2f
+Label=MCCLELLAND HEAT PUMPS & REFRIGERATION
+StreetDesc=70 Fox St, South Dud, Dud 9012/ refrigeration, heat pumps, cool stores, air cond
+Phone=+6434770088
+zip=Monday - Friday 8.00am - 5.00pm
+Data0=(-45.89614,170.49831)
+[END]
+
+;1180863
+[POI]
+Type=0x2f
+Label=PURE IMAGES WEDDING PHOTOGRAPHY
+StreetDesc=56 Kauri St, Ravensbourne, Dud 9022/ Photographer, photography, wedding photogra
+Phone=+6434712277
+zip=7 Days a week by appointment.
+Data0=(-45.86156,170.55739)
+[END]
+
+;1180866
+[POI]
+Type=0x2f
+Label=THE ARTISTS ROOM ART GALLERY
+StreetDesc=2 Dowling St, Central Dud, Dud 9016/ art gallery, art, gallery, galleries, artis
+Phone=+6434741111
+zip=Monday - Friday 10.00am - 5.00pm. Saturd
+Data0=(-45.87681,170.50413)
+[END]
+
+;1180867
+[POI]
+Type=0x6404
+Label=WOODBURY CHURCH
+StreetDesc=cnr Church and Burdon Rds/ church
+Data0=(-44.03184,171.20802)
+[END]
+
+;1180868
+[POI]
+Type=0x2b00
+Label=?SNOW FARM LODGE
+StreetDesc=Cardrona Valley Rd Wanaka RD1 9381/ Accommodation. Zenbu Wi-Fi wireless internet
+Phone=+6434430399
+Data0=(-44.77529,169.09047)
+[END]
+
+;1180877
+[POI]
+Type=0x2f
+Label=C4 COFFEE
+StreetDesc=278 Tuam St, Chc/ Specialist coffee roaster & roastery
+Phone=+6433667370
+zip=Mon-Fri 8am-5pm, Sat 10am-3pm
+Data0=(-43.53545,172.64403)
 [END]
 

@@ -554,7 +554,9 @@ def loadSingleCategory(path)
 	
 	#extract POI type code from filename
 	poitype = File.basename(path,'.*')#e.g. poitype = "Public Office Government 0x3003"
-	category = poitype.slice(poitype.rindex(' ')+1,6)
+	space_index = poitype.rindex(' ')
+	if space_index.nil? then return end #not a category path we recognise
+	category = poitype.slice(space_index+1,6)
 	@category_name_table[category] = poitype
 	@category_path_table[category] = path
 	

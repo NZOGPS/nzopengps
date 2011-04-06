@@ -19373,10 +19373,10 @@ Data0=(-41.27441,173.27826)
 ;1063931
 [POI]
 Type=0x2d
-Label=VIDEO EZY RICHMOND, NELSON
-StreetDesc=Richmond, Nelson, 316 Queen St, Richmond, Nelson/ videos, dvd & game rentals
+Label=VIDEO EZY RICHMOND
+StreetDesc=316 Queen St, Richmond, Nelson/ videos, dvd & game rentals
 Phone=+6435442211
-Data0=(-41.33677,173.18222)
+Data0=(-41.33676,173.18233)
 [END]
 
 ;1063973
@@ -69223,10 +69223,10 @@ Data0=(-42.72357,170.97733)
 ;1116012
 [POI]
 Type=0x2f
-Label=WESTMEAT
-StreetDesc=State Highway 6, Hokitika, Greymouth/ 
+Label=WESTMEAT HOKITIKA
+StreetDesc=State Highway 6, Hokitika, Greymouth/ Butcher, meat wholesaler
 Phone=+6437558260
-zip=Mon-Fri 0800-1630
+zip=Mon-Fri 7am-3pm, Sat 8am-12.30pm
 Data0=(-42.70272,170.97982)
 [END]
 
@@ -84126,9 +84126,9 @@ Data0=(-44.39792,171.25210)
 [POI]
 Type=0x2e
 Label=PORTOBELLO ANTIQUES
-StreetDesc=221 Tuam St, Chc, Canterbury/ Antiques, Antique Shop
+StreetDesc=10 Grassmere St, Papanui, Chc/ Antiques, Antique Shop, EQC Valuations,Insurance 
 Phone=+6433771772
-Data0=(-43.53514,172.64197)
+Data0=(-43.49250,172.61304)
 [END]
 
 ;1120476
@@ -110443,8 +110443,10 @@ Data0=(-43.50657,172.66299)
 [POI]
 Type=0x2f
 Label=WESTMEAT CHRISTCHURCH
-StreetDesc=100 Carmen Rd, Chc/ 
-Data0=(-43.53515,172.53008)
+StreetDesc=394 Blenheim Rd, Upper Riccarton, Chc/ Butcher
+Phone=+6433495078
+zip=Mon-Fri 7am-5.30pm, Sat 7am-3.30pm
+Data0=(-43.53902,172.57257)
 [END]
 
 ;1132245
@@ -173199,7 +173201,8 @@ Data0=(-43.56716,172.63549)
 [POI]
 Type=0x2f
 Label=CASHMERE MEDICAL PRACTICE
-StreetDesc=215 Ashgrove Terrace, Spreydon, Chc/ 
+StreetDesc=215 Ashgrove Terrace, Spreydon, Chc/ Family Doctor. Nurse. Minor surgery. Accide
+zip=9am-5pm Mon to Fri.
 Data0=(-43.56698,172.62940)
 [END]
 
@@ -203485,7 +203488,7 @@ Data0=(-45.87772,170.50987)
 [POI]
 Type=0x2f
 Label=KEVIN WEIR LANDSCAPE DESIGN
-StreetDesc=21 Edna St, Ocean View, Dud, 9035/ Landscapers, Landscaping, Landscape Design, G
+StreetDesc=21 Edna St, Ocean View, Dud, 9035/ For landscape design and construction in urba
 Phone=+6434811288
 Data0=(-45.93913,170.34245)
 [END]
@@ -203834,5 +203837,35 @@ StreetDesc=278 Tuam St, Chc/ Specialist coffee roaster & roastery
 Phone=+6433667370
 zip=Mon-Fri 8am-5pm, Sat 10am-3pm
 Data0=(-43.53545,172.64403)
+[END]
+
+;1180879
+[POI]
+Type=0x2f
+Label=SAFARI DR APPEARANCE MEDICINE & COSMETIC SURGERIES
+StreetDesc=75A York Place, Central Dud, Dud 9016/ cosmetic surgeries, cosmetic surgery, bot
+Phone=+6434745058
+zip=Monday - Saturday 9.00am - 6.00pm Wednes
+Data0=(-45.87168,170.50135)
+[END]
+
+;1180881
+[POI]
+Type=0x2e
+Label=WESTMEAT BLENHEIM
+StreetDesc=385 Alabama Rd, Blenheim/ Butcher, meat wholesaler
+Phone=+6435784554
+zip=Mon-Fri 7am-5pm, Sat 7am-12.30pm
+Data0=(-41.52282,173.98237)
+[END]
+
+;1180882
+[POI]
+Type=0x2e
+Label=WESTMEAT NELSON
+StreetDesc=41-42 McGlashan Ave, Richmond, Nelson/ Butcher, meat wholesaler
+Phone=+6435446137
+zip=Mon-Fri 8am-5pm, Sat 8.30am-12.30pm
+Data0=(-41.33599,173.18344)
 [END]
 

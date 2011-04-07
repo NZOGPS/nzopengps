@@ -39861,15 +39861,6 @@ Phone=+6433744149
 Data0=(-43.54080,172.65590)
 [END]
 
-;1099262
-[POI]
-Type=0x2a
-Label=ROBBIE'S BAR & BISTRO BARRINGTON
-StreetDesc=256 Barrington St, Barrington/ Bar & restaurant
-Phone=+6433375192
-Data0=(-43.55671,172.61857)
-[END]
-
 ;1099280
 [POI]
 Type=0x2a02
@@ -54422,6 +54413,15 @@ Label=J K STEVENSON LTD
 StreetDesc=190 Mersey St, Invercargill/ 
 Phone=+6432187096
 Data0=(-46.41431,168.34175)
+[END]
+
+;1107677
+[POI]
+Type=0x2f
+Label=J L CRICHTON & COMPANY LTD
+StreetDesc=192 Hereford St, Chc/ Wool exporters
+Phone=+6433660389
+Data0=(-43.53217,172.64027)
 [END]
 
 ;1107679
@@ -124914,9 +124914,11 @@ Data0=(-42.46189,171.19717)
 ;1139085
 [POI]
 Type=0x2f
-Label=STYLIZ HAIR SALON
-StreetDesc=11 Nelson Qy, Cobden/ Hairdresser
-Data0=(-42.43968,171.20462)
+Label=?STYLIZ HAIR SALON
+StreetDesc=11 nelson St/ Hairdresser
+Phone=+6437684440
+zip=8.30 - 5pm Tuesday,Thursday,Friday. Late
+Data0=(-42.46666,171.19243)
 [END]
 
 ;1139086
@@ -173209,7 +173211,7 @@ Data0=(-43.56698,172.62940)
 ;1166018
 [POI]
 Type=0x2f
-Label=CASHMERE VIEW HOSPITAL (GUARDIAN)
+Label=CASHMERE VIEW HOSPITAL (BUPA)
 StreetDesc=72 - 78 Rose St, Lower Cashmere, Chc/ 
 Data0=(-43.56794,172.61719)
 [END]
@@ -203867,5 +203869,24 @@ StreetDesc=41-42 McGlashan Ave, Richmond, Nelson/ Butcher, meat wholesaler
 Phone=+6435446137
 zip=Mon-Fri 8am-5pm, Sat 8.30am-12.30pm
 Data0=(-41.33599,173.18344)
+[END]
+
+;1180887
+[POI]
+Type=0x2f
+Label=TL SURVEY SERVICES SURVEYORS & RESOURCE MANAGEMENT DUNEDIN
+StreetDesc=Lower Ground Fl Wrightson Blg, 184 High St, Dud 9016/ For subdivision, unit titl
+Phone=+6434771133
+zip=Monday - Friday 8.00am - 5.00pm
+Data0=(-45.87838,170.49929)
+[END]
+
+;1180891
+[POI]
+Type=0x2a0e
+Label=THE BATCH CAFE
+StreetDesc=173 Spey St, Invercargill 9810, Southland/ Coffee, food, drink, restaurant. Zenb
+Phone=+6432113377
+Data0=(-46.40982,168.35402)
 [END]
 

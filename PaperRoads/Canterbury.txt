@@ -162,6 +162,7 @@
 1030000041525	BRUCES RD	Ashburton Forks (Canterbury, NZ)	1/07/2010 9:02p.m.
 1030000041568	Church Street	Eiffelton
 1030000041584	Old Main South Road	Rakaia
+1030000041652	NORTH HINDS RD	Surrey Hills (Canterbury, NZ)	7/04/2011 9:15:57 p.m.
 1030000041699	Henley Street	Eiffelton
 1030000041738	MAYORS RD	Staveley	6/04/2010 6:37p.m.
 1030000041767	Lowerys Road	Winslow

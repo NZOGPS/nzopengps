@@ -13997,16 +13997,6 @@ zip=Mon-Fri 8:30am-5:30pm, Sat 9am-3pm
 Data0=(-43.54270,172.52466)
 [END]
 
-;1045829
-[POI]
-Type=0x2f05
-Label=ILAM POSTSHOP
-StreetDesc=201 Waimairi Rd, Chc/ post office, KiwiBank banking
-Phone=+6433583531
-zip=Monday 8:30am-5:30pm, Tuesday 8:30am-5:3
-Data0=(-43.51666,172.57182)
-[END]
-
 ;1045864
 [POI]
 Type=0x2f05
@@ -39088,16 +39078,6 @@ Phone=08004522437
 Data0=(-43.46368,170.01252)
 [END]
 
-;1098875
-[POI]
-Type=0x3003
-Label=NEW ZEALAND PASSPORT OFFICE CHRISTCHURCH
-StreetDesc=Department of Internal Affairs, NZI House, L 6, 96 Hereford St, Chc/ 
-Phone=0800225050
-zip=Monday to Friday 8:30am - 5:00pm, except
-Data0=(-43.53218,172.63505)
-[END]
-
 ;1098877
 [POI]
 Type=0x2e
@@ -41468,8 +41448,8 @@ Data0=(-43.52518,172.63640)
 ;1100712
 [POI]
 Type=0x2f
-Label=ADVANCED FIBREGLASS 2008 LTD
-StreetDesc=36 Orari St, South Dud, Dud 9012/ Fibreglass, Fibreglass manufacturers, Fibregla
+Label=ADVANCED FIBREGLASS 2008 LTD - CARBONFIBRE & EPOXY FACTORY DUNEDIN
+StreetDesc=36 Orari St, South Dud, Dud 9012/ Advanced Fibreglass Dunedin - Fiberglass, grp,
 Phone=+6434884191
 zip=8.00am - 4.30pm Monday-Friday or by appo
 Data0=(-45.88889,170.50811)
@@ -203332,7 +203312,7 @@ Data0=(-43.54184,172.68764)
 ;1180426
 [POI]
 Type=0x2f
-Label=SIGNGUYS
+Label=SIGNGUYS SIGNS, SIGNWRITERS & BRANDING DUNEDIN
 StreetDesc=19-21 Braemar St South Dud Dud 9012/ For signage by signwriters with decades of 
 Phone=+6434553319
 zip=Monday - Friday 8am - 4.30pm
@@ -203788,7 +203768,7 @@ Data0=(-43.50708,172.46249)
 [POI]
 Type=0x2f
 Label=MCCLELLAND HEAT PUMPS & REFRIGERATION
-StreetDesc=70 Fox St, South Dud, Dud 9012/ refrigeration, heat pumps, cool stores, air cond
+StreetDesc=70 Fox St, South Dud, Dud 9012/ Heat Pump, air conditioner, refrigerator, fridge
 Phone=+6434770088
 zip=Monday - Friday 8.00am - 5.00pm
 Data0=(-45.89614,170.49831)
@@ -203797,8 +203777,8 @@ Data0=(-45.89614,170.49831)
 ;1180863
 [POI]
 Type=0x2f
-Label=PURE IMAGES WEDDING PHOTOGRAPHY
-StreetDesc=56 Kauri St, Ravensbourne, Dud 9022/ Photographer, photography, wedding photogra
+Label=PURE IMAGES WEDDING PHOTOGRAPHY - WEDDING PHOTOGRAPHERS DUNEDIN
+StreetDesc=56 Kauri St, Ravensbourne, Dud 9022/ Pure Images Photography- Wedding Photograph
 Phone=+6434712277
 zip=7 Days a week by appointment.
 Data0=(-45.86156,170.55739)
@@ -203808,7 +203788,7 @@ Data0=(-45.86156,170.55739)
 [POI]
 Type=0x2f
 Label=THE ARTISTS ROOM ART GALLERY
-StreetDesc=2 Dowling St, Central Dud, Dud 9016/ art gallery, art, gallery, galleries, artis
+StreetDesc=2 Dowling St, Central Dud, Dud 9016/ For artwork by famous artists to beautify y
 Phone=+6434741111
 zip=Monday - Friday 10.00am - 5.00pm. Saturd
 Data0=(-45.87681,170.50413)
@@ -203845,7 +203825,7 @@ Data0=(-43.53545,172.64403)
 [POI]
 Type=0x2f
 Label=SAFARI DR APPEARANCE MEDICINE & COSMETIC SURGERIES
-StreetDesc=75A York Place, Central Dud, Dud 9016/ cosmetic surgeries, cosmetic surgery, bot
+StreetDesc=75A York Place, Central Dud, Dud 9016/ For non-surgical beauty treatments to tre
 Phone=+6434745058
 zip=Monday - Saturday 9.00am - 6.00pm Wednes
 Data0=(-45.87168,170.50135)
@@ -203888,5 +203868,14 @@ Label=THE BATCH CAFE
 StreetDesc=173 Spey St, Invercargill 9810, Southland/ Coffee, food, drink, restaurant. Zenb
 Phone=+6432113377
 Data0=(-46.40982,168.35402)
+[END]
+
+;1180892
+[POI]
+Type=0x2d02
+Label=HORNBY WORKINGMENS CLUB & MSA
+StreetDesc=17 Carmen Rd, Chc, New Zealand 8042/ Hornby Workingmens Club & MSA
+Phone=+6433499026
+Data0=(-43.54198,172.52545)
 [END]
 

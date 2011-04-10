@@ -13183,8 +13183,8 @@ Data0=(-44.69444,169.13984)
 ;1043127
 [POI]
 Type=0x2f01
-Label=CALTEX CASSIDY MOTORS (NO FUEL)
-StreetDesc=84 Evans St, Timaru/ Caltex petrol station
+Label=CHALLENGE (NORTHTOWN)
+StreetDesc=84 Evans St, Timaru/ petrol station, fuel, diesel
 Phone=+6436845439
 Data0=(-44.38392,171.23847)
 [END]
@@ -203877,5 +203877,15 @@ Label=HORNBY WORKINGMENS CLUB & MSA
 StreetDesc=17 Carmen Rd, Chc, New Zealand 8042/ Hornby Workingmens Club & MSA
 Phone=+6433499026
 Data0=(-43.54198,172.52545)
+[END]
+
+;1180895
+[POI]
+Type=0x2b02
+Label=FOLSTER GARDENS B & B ACCOMODATION
+StreetDesc=98 Millton Park Rd Invercargill Southland/ Folster Gardens is a unique Bed and B
+Phone=+6432141769
+zip=7am -9pm
+Data0=(-46.40577,168.40646)
 [END]
 

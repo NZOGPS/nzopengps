@@ -44220,9 +44220,9 @@ Data0=(-46.41326,168.35912)
 [POI]
 Type=0x2f
 Label=BISHOP TOOMEY & PFEIFER
-StreetDesc=L 7, Amuri Courts, 293 Durham St, Chc/ 
-Phone=+6433665709
-Data0=(-43.53466,172.63342)
+StreetDesc=375 Main South Rd, Hornby South, Canterbury 8042/ BT&P Chartered Accountants
+Phone=+6433497598
+Data0=(-43.54338,172.52839)
 [END]
 
 ;1102232
@@ -81463,9 +81463,9 @@ Data0=(-43.52401,172.68554)
 [POI]
 Type=0x2a
 Label=PAPANUI CLUB
-StreetDesc=302 Sawyers Arms Rd, Chc/ Hotel Bar Club Restaurant TAB Outlet
+StreetDesc=302 Sawyers Arms Rd, Bishopdale 8053, Chc, Canterbury/ Hotel, Bar, Cafe, Club, P
 Phone=+6433599586
-Data0=(-43.47992,172.58908)
+Data0=(-43.47993,172.58922)
 [END]
 
 ;1119719
@@ -122784,14 +122784,6 @@ StreetDesc=60 Littlebourne Rd, Dud/ Swimming Pools
 Data0=(-45.86959,170.49718)
 [END]
 
-;1138187
-[POI]
-Type=0x2f
-Label=MOHA MORRISON HAYES HAIRDRESSING
-StreetDesc=73 Great King St, Dud/ Hairdressers
-Data0=(-45.87232,170.50654)
-[END]
-
 ;1138188
 [POI]
 Type=0x2a0e
@@ -123614,8 +123606,9 @@ Data0=(-45.86611,170.48665)
 ;1138289
 [POI]
 Type=0x2f
-Label=XCHANGE DESIGN STUDIO
+Label=MOHA E GLI AMICI
 StreetDesc=14 Dowling St, Dud/ Beautician, hairdresser
+Phone=+6434777667
 Data0=(-45.87663,170.50337)
 [END]
 
@@ -126992,7 +126985,7 @@ Data0=(-41.74979,171.55998)
 ;1141044
 [POI]
 Type=0x2a0e
-Label=MIDDLE BREAK
+Label=MIDDLE BREAK (AKA JAY'S)
 StreetDesc=124-126 Palmerston St, Westport/ cafe
 Data0=(-41.75310,171.59788)
 [END]
@@ -127066,7 +127059,7 @@ Data0=(-41.62838,171.85517)
 [POI]
 Type=0x2d02
 Label=FRECKLES MILK BAR
-StreetDesc=216 Palmerston St, Westport/ bar
+StreetDesc=216 Palmerston St, Westport/ Cafe
 Data0=(-41.75618,171.59860)
 [END]
 
@@ -138347,16 +138340,6 @@ Label=CENTENNIAL HEALTH
 StreetDesc=32 Centennial ave, alexandra/ Doctor, medical, health
 Phone=+6434487570
 Data0=(-45.25378,169.39050)
-[END]
-
-;1145249
-[POI]
-Type=0x2f
-Label=ONSITE AUCTIONS LTD
-StreetDesc=409 Selwyn St, Addington, Chc/ We are licensed auctioneers specialising in the o
-Phone=+6433773677
-zip=Phone First
-Data0=(-43.54273,172.62160)
 [END]
 
 ;1146347
@@ -196107,8 +196090,9 @@ Data0=(-43.52523,172.63831)
 [POI]
 Type=0x2b00
 Label=KAIKOURA WATERFRONT APARTMENTS
-StreetDesc=126 The Esplanade, Kaikoura/ Apartment accommodation
-Data0=(-42.40980,173.68636)
+StreetDesc=126 The Esplanade, Kaikoura Central 7300, North Canterbury/ Modern, luxurious, 1
+Phone=+6433197880
+Data0=(-42.40972,173.68663)
 [END]
 
 ;1176592
@@ -203887,5 +203871,79 @@ StreetDesc=98 Millton Park Rd Invercargill Southland/ Folster Gardens is a uniqu
 Phone=+6432141769
 zip=7am -9pm
 Data0=(-46.40577,168.40646)
+[END]
+
+;1180905
+[POI]
+Type=0x2e07
+Label=3GRAND 24HR
+StreetDesc=344 Halswell Junction Rd, Halswell. CHCH, 8025/ clothing, online clothing, stree
+zip=24 hours 24/7
+Data0=(-43.56926,172.54146)
+[END]
+
+;1180906
+[POI]
+Type=0x2f
+Label=SKYDIVE PARADISE GLENORCHY QUEENSTOWN
+StreetDesc=Glenorchy Airfield, Glenorchy, Queenstown/ Experience the most scenic tandem sky
+Phone=+34428333
+Data0=(-44.87055,168.39719)
+[END]
+
+;1180909
+[POI]
+Type=0x2b02
+Label=HOLLY MANOR BED AND BREAKFAST
+StreetDesc=27 Holly Rd, St Albans, Chc/ bed and breakfast christchurch, b&b christchurch, b
+Phone=+6433553001
+zip=9am - 9pm
+Data0=(-43.51614,172.62689)
+[END]
+
+;1180910
+[POI]
+Type=0x2f
+Label=HEADQUARTERS NETWORK DESIGN AND CONSULTANCY
+StreetDesc=46 Robins Rd, Queenstown 9300/ computer network systems, business support, websi
+Phone=+6434412779
+Data0=(-45.02632,168.66033)
+[END]
+
+;1180913
+[POI]
+Type=0x2f
+Label=RUSSLEY SPORTS MASSAGE
+StreetDesc=135 roydvale ave, harewood, Chc/ Deep tissue, therapeutic, sports, relaxation, p
+Phone=+6433589017
+zip=8-8 Monday to Thursday, 9-5 Friday, 9-1 
+Data0=(-43.49329,172.56416)
+[END]
+
+;1180917
+[POI]
+Type=0x2b00
+Label=?HANMER SPRINGS ACCOMMODATION
+StreetDesc=Hanmer Springs/ hanmer springs accommodation
+Data0=(-42.52624,172.82882)
+[END]
+
+;1180921
+[POI]
+Type=0x2f
+Label=ST JOHN
+StreetDesc=12 Adderley St Westport 7825/ Ambulance
+Phone=+6437889235
+Data0=(-41.75924,171.59859)
+[END]
+
+;1180927
+[POI]
+Type=0x2f
+Label=?SOLAR ELECTRIC SPECIALISTS
+StreetDesc=Rolleston, Canterbury/ Renewable Energy Sales/Installations - Photovoltaics, Win
+Phone=+6427457652
+zip=9 to 5 or Demonstration by appointment
+Data0=(-43.59085,172.37915)
 [END]
 

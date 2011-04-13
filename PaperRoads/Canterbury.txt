@@ -171,6 +171,7 @@
 1030000041856	STONELEIGH ST	Woodbury (Canterbury, NZ)	1/07/2010 3:53p.m.
 1030000041861	Sugarloaf Road	Kakahu
 1030000041876	Waller Road	Geraldine Downs
+1030000041914	PRINCES ST	Scarborough (Canterbury, NZ)	10/04/2011 5:43:52 p.m.
 1030000041925	KAHU ST	Temuka (Canterbury, NZ)	19/03/2011 2:58:30 p.m.
 1030000041928	Jollie Street	Rangitata
 1030000041931	Jonsen Road	Four Peaks
@@ -186,6 +187,7 @@
 1030000042093	Boundary Road	Peel Forest	28/04/2010 12:50p.m.
 1030000042097	Bissett Road	Temuka
 1030000042099	AUSTIN LANE	Orari	5/04/2010 12:39a.m.
+1030000042153	BRUNSWICK TCE	Scarborough (Canterbury, NZ)	10/04/2011 5:43:07 p.m.
 1030000042159	Burma Road	Orari Gorge
 1030000042177	Garforth Road	Kakahu
 1030000042228	Ford Road	Kakahu

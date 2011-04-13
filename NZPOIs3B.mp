@@ -58272,15 +58272,6 @@ zip=Mon-Fri 0730am - 0600pm, Sat 0800am - 12
 Data0=(-43.51821,172.65187)
 [END]
 
-;1109845
-[POI]
-Type=0x2f
-Label=MOTOR TRADE FINANCES LIMITED
-StreetDesc=193 Princes St, Dud/ 
-Phone=+6434770530
-Data0=(-45.87712,170.50213)
-[END]
-
 ;1109848
 [POI]
 Type=0x2f
@@ -60100,11 +60091,11 @@ Data0=(-43.53372,172.60798)
 ;1110814
 [POI]
 Type=0x2f
-Label=OFFICE FURNITURE AND EQUIPMENT LTD
-StreetDesc=145 Lichfield Corner & Madras St, Chc/ 
+Label=DESIGN4WORK
+StreetDesc=117 Blenheim Rd, Chc/ Office Furniture and Equipment 2006 Ltd
 Phone=+6433662389
-zip=Mon-Fri 0830am-0530pm, Sat 1000am-0400pm
-Data0=(-43.53406,172.64291)
+zip=Mon-Fri 8.30am-5pm
+Data0=(-43.53751,172.60087)
 [END]
 
 ;1110826

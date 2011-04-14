@@ -22,3 +22,13 @@
 1030000192031	E,600,600		Kawarau Gorge Road	Number is on southland tile.
 1030000040969	E,22,24	O,13,13		Lower High Street	Coalgate (Canterbury, NZ)
 1030000041027	O,351,351	Kennedys Bush Road	Halswell, Christchurch (Canterbury, NZ)
+1030000003152	E,700,700	Memorial Avenue	Christchurch Airport, Christchurch (Canterbury, NZ)
+1030000002627	E,388,388	Main Drain Road	Flaxton (Canterbury, NZ)
+1030000026537	E,240,240	Muddy Creek Road	Drybread (Otago, NZ)	Number is on southland tile.
+1030000055924	E,36,50	O,71,71	Power Road	Flaxton (Canterbury, NZ)
+1030000041373	E,66,66	Cracroft Street	Hinds (Canterbury, NZ)
+1030000054072	E,4,16	O,1,1	Edmunds Road	Ohoka (Canterbury, NZ)
+1030000209282	E,4,14	Closeburn Road	Closeburn (Otago, NZ)	Number is on southland tile.
+1030000055637	E,534,534	Smarts Road	Loburn
+1030000055715	E,110,110	O,87,99	Harpers Road	Okuku (Canterbury, NZ)
+1030000055856	E,2,90	O,1,69	Trig Road	View Hill (Canterbury, NZ)

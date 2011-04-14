@@ -27067,9 +27067,9 @@ Data0=(-45.09955,170.96864)
 [POI]
 Type=0x3002
 Label=ORAL HEALTH CENTRE
-StreetDesc=239 Antigua St, Chc/ Outpatients, Community Health
+StreetDesc=11 Hopkins St, Woolston/ Outpatients, Community Health
 Phone=+6433641860
-Data0=(-43.53580,172.62739)
+Data0=(-43.54615,172.67121)
 [END]
 
 ;1083944
@@ -76614,8 +76614,8 @@ Data0=(-43.52115,172.63839)
 ;1117708
 [POI]
 Type=0x2b01
-Label=COUNTRY COMFORT ALCALA MOTOR LODGE
-StreetDesc=Corner George & St David St; Dud/ Hotel, Motel, Country Comfort, Constellation, 
+Label=COMFORT INN ALCALA MOTOR LODGE
+StreetDesc=704 George St, Dud 9016, Otago [Corner of Saint David St]/ Accommodation, Motel,
 Phone=+6434779073
 Data0=(-45.86231,170.51060)
 [END]
@@ -173969,7 +173969,8 @@ Data0=(-42.44969,171.31389)
 [POI]
 Type=0x2f
 Label=DOCTORS ON CASHEL
-StreetDesc=7 Cashel St, Chc/ 
+StreetDesc=7 Cashel St, Chc/ Doctor, Medical, Dermatologist
+Phone=+6433662578
 Data0=(-43.53301,172.62830)
 [END]
 
@@ -194183,15 +194184,6 @@ Phone=+6434847258
 Data0=(-45.87770,170.34999)
 [END]
 
-;1174765
-[POI]
-Type=0x2b01
-Label=COMFORT INN ALCALA
-StreetDesc=704 George St, Dud/ Motel accommodation
-Phone=0800503883
-Data0=(-45.86228,170.51054)
-[END]
-
 ;1174768
 [POI]
 Type=0x2b01
@@ -203936,5 +203928,22 @@ StreetDesc=Rolleston, Canterbury/ Renewable Energy Sales/Installations - Photovo
 Phone=+6427457652
 zip=9 to 5 or Demonstration by appointment
 Data0=(-43.59085,172.37915)
+[END]
+
+;1180935
+[POI]
+Type=0x2f
+Label=SNIPPITZ
+StreetDesc=49A Main North Rd, Woodend 7610, Chc, Canterbury/ Hair dresser. Zenbu Wi-Fi wire
+Data0=(-43.32373,172.66537)
+[END]
+
+;1180936
+[POI]
+Type=0x2f
+Label=SWINARD FLOORING
+StreetDesc=10 Magdala Place, Middleton, Chc, 8024/ Swinard Wooden Floors are specialists in
+Phone=+6433299669
+Data0=(-43.54433,172.58202)
 [END]
 

@@ -31,4 +31,4 @@
 1030000209282	E,4,14	Closeburn Road	Closeburn (Otago, NZ)	Number is on southland tile.
 1030000055637	E,534,534	Smarts Road	Loburn
 1030000055715	E,110,110	O,87,99	Harpers Road	Okuku (Canterbury, NZ)
-1030000055856	E,2,90	O,1,69	Trig Road	View Hill (Canterbury, NZ)
+1030000055856	E,2,90	O,1,69	E,578,580	Trig Road	View Hill (Canterbury, NZ)

@@ -203947,3 +203947,13 @@ Phone=+6433299669
 Data0=(-43.54433,172.58202)
 [END]
 
+;1180944
+[POI]
+Type=0x2b02
+Label=HIDDEN ON HIGH BED & BREAKFAST
+StreetDesc=426 High St Motueka 7120/ Accomodation
+Phone=+6435280963
+zip=7 days a week
+Data0=(-41.12607,173.00926)
+[END]
+

@@ -32,3 +32,5 @@
 1030000055637	E,534,534	Smarts Road	Loburn
 1030000055715	E,110,110	O,87,99	Harpers Road	Okuku (Canterbury, NZ)
 1030000055856	E,2,90	O,1,69	E,578,580	Trig Road	View Hill (Canterbury, NZ)
+1030000040070	E,38,40	Valley Road	Greta Valley (Canterbury, NZ)
+1030000041008	O,1,1	Bridle Path Road	Heathcote Valley

@@ -34,3 +34,6 @@
 1030000055856	E,2,90	O,1,69	E,578,580	Trig Road	View Hill (Canterbury, NZ)
 1030000040070	E,38,40	Valley Road	Greta Valley (Canterbury, NZ)
 1030000041008	O,1,1	Bridle Path Road	Heathcote Valley
+1030000026981	E,16,16	O,9,9	Warren Street	Wanaka (Otago, NZ)
+1030000040314	E,300,300	O,253,253	Warren Street	Sefton (Canterbury, NZ)
+

@@ -40032,7 +40032,7 @@ Data0=(-41.51797,173.95846)
 
 ;1099401
 [POI]
-Type=0x2F09
+Type=0x2f08
 Label=BLUEBRIDGE FERRY
 StreetDesc=Picton/ Ferry Shipping
 Phone=0800844844
@@ -55222,7 +55222,7 @@ Data0=(-41.26090,173.27937)
 ;1108126
 [POI]
 Type=0x2f
-Label=JEFF KING LACQUER & FURNITURE POLISHERS
+Label=JEFF KING LACQUER PAINTERS & FURNITURE POLISHERS
 StreetDesc=309 Kaikorai Valley Rd, Bradford, Dud, 9011/ For kitchen and bathroom renovation
 Phone=+6434530401
 zip=Monday - Friday 8.00am - 4.30pm Or by ap
@@ -71043,9 +71043,9 @@ Data0=(-44.84268,168.68112)
 ;1116656
 [POI]
 Type=0x2b03
-Label=?SLAB HUT CREEK CAMPING AREA (DOC)
+Label=SLAB HUT CREEK CAMPING AREA (DOC)
 StreetDesc=Slab Hut Pakihi Ecological Area, Greymouth/ DOC conservation campsite. Accommoda
-Data0=(-42.15648,171.79240)
+Data0=(-42.16678,171.74459)
 [END]
 
 ;1116657
@@ -76460,9 +76460,9 @@ Data0=(-44.03784,169.46433)
 ;1117635
 [POI]
 Type=0x2f
-Label=?WOOLSHED CREEK HUT
+Label=WOOLSHED CREEK HUT
 StreetDesc=Alford Forest (Mt Somers Block), Raukapuka/ DOC Backcountry hut
-Data0=(-43.60302,171.32784)
+Data0=(-43.60122,171.32588)
 [END]
 
 ;1117636
@@ -147043,9 +147043,9 @@ Data0=(-45.25528,169.39334)
 ;1150987
 [POI]
 Type=0x2f
-Label=STONEHOUSE
-StreetDesc=81 Springvale Rd, Alexandra/ 
-Data0=(-45.19238,169.34389)
+Label=THE STONEHOUSE
+StreetDesc=81 Springvale Rd, Alexandra/ Fruit stall
+Data0=(-45.19500,169.34401)
 [END]
 
 ;1150988
@@ -155816,9 +155816,9 @@ Data0=(-41.08594,172.73309)
 [POI]
 Type=0x2a
 Label=BELGROVE INN
-StreetDesc=Cnr Pretty Bridge Valley Rd & State Highway 6, Belgrove/ Belgrove Pub
+StreetDesc=Cnr Pretty Bridge Valley Rd & State Highway 6, Belgrove/ Belgrove Pub. Licensed 
 Phone=+6435418105
-Data0=(-41.44907,172.95915)
+Data0=(-41.44921,172.95936)
 [END]
 
 ;1155934
@@ -171486,10 +171486,10 @@ Data0=(-45.49594,170.13862)
 ;1165274
 [POI]
 Type=0x2b00
-Label=?ANNANDALE BED & BREAKFAST
+Label=ANNANDALE BED & BREAKFAST
 StreetDesc=Snow Ave, Middlemarch/ Accommodation
 Phone=+6434643131
-Data0=(-45.50634,170.12362)
+Data0=(-45.50897,170.12187)
 [END]
 
 ;1165275
@@ -181439,10 +181439,10 @@ Data0=(-43.49458,172.60257)
 ;1170335
 [POI]
 Type=0x2f
-Label=WEST COAST BIRTH MIDWIFERY CARE
-StreetDesc=3 Tarapuhi St, Greymouth/ Midwifery
-Phone=+6437681160
-Data0=(-42.44903,171.20877)
+Label=COASTBIRTH MIDWIFERY CARE
+StreetDesc=4 Waterloo St, Taylorville/ Midwifery
+Phone=+6437625500
+Data0=(-42.44175,171.31438)
 [END]
 
 ;1170338
@@ -200609,10 +200609,10 @@ Data0=(-43.63321,171.64703)
 ;1178824
 [POI]
 Type=0x2f
-Label=?PGG WRIGHTSON MIDDLEMARCH
+Label=PGG WRIGHTSON MIDDLEMARCH
 StreetDesc=Snow Ave, Middlemarch/ 
 Phone=+6434643882
-Data0=(-45.50826,170.12254)
+Data0=(-45.50799,170.12222)
 [END]
 
 ;1178825
@@ -200893,10 +200893,10 @@ Data0=(-45.24795,169.37298)
 ;1178886
 [POI]
 Type=0x2F07
-Label=?ALEXANDRA AUTO PARTS
+Label=ALEXANDRA AUTO PARTS
 StreetDesc=50 Boundary Rd , Alexandra/ Automotive Dismantlers
 Phone=+6434489082
-Data0=(-45.24795,169.37298)
+Data0=(-45.24803,169.37275)
 [END]
 
 ;1178887
@@ -203955,5 +203955,62 @@ StreetDesc=426 High St Motueka 7120/ Accomodation
 Phone=+6435280963
 zip=7 days a week
 Data0=(-41.12607,173.00926)
+[END]
+
+;1180950
+[POI]
+Type=0x2f
+Label=TIMARU RENTALS
+StreetDesc=34 Hobbs St, Timaru/ Rental Management, To Let, House to rent, Rental Property
+Phone=+6427484599
+zip=8am - 5pm Monday to Friday
+Data0=(-44.38424,171.23399)
+[END]
+
+;1180959
+[POI]
+Type=0x2f
+Label=CHRIS SKELLETT
+StreetDesc=L 6, John Wickliffe House, 265 Princes St, Dud 9054/ Clinical Psychology, Counse
+Phone=+6434779885
+zip=Tuesday to Friday, 9 till 5pm.
+Data0=(-45.87828,170.50187)
+[END]
+
+;1180968
+[POI]
+Type=0x2a0e
+Label=THE GRUB HUB CAFE
+StreetDesc=Shop 2, 49 Main North Rd, Woodend 7610, Chc, Canterbury/ Restaurant, food, coffe
+Phone=+6433100434
+Data0=(-43.32373,172.66537)
+[END]
+
+;1180983
+[POI]
+Type=0x2f
+Label=ASHBURTON MARINE
+StreetDesc=177 Alford Forest Rd, Ashburton 7700/ motorboats, recreation, boat repairs, Hond
+Phone=+6433085842
+Data0=(-43.88826,171.73452)
+[END]
+
+;1180990
+[POI]
+Type=0x2a
+Label=GASLIGHT CAFE
+StreetDesc=73 St Andrew St, Dud/ Cafe - Restaurant - Wine bar - Fresh pasta - Coffee
+Phone=+6435520134
+Data0=(-45.87208,170.50576)
+[END]
+
+;1180991
+[POI]
+Type=0x2c02
+Label=YALDHURST MUSEUM
+StreetDesc=26 School Rd, Chc/ Museum, Car Cuseum, Tourist Attraction,
+Phone=+6433427914
+zip=10am - 5pm
+Data0=(-43.51104,172.50475)
 [END]
 

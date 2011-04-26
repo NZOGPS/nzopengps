@@ -204370,7 +204370,7 @@ Data0=(-43.46031,172.62372)
 
 ;1181152
 [POI]
-Type=0x2f
+Type=0x4a00
 Label=MEYBILLE BAY REST AREA
 StreetDesc=SH6 Paparoa Ntl Park/ Rest Area
 Data0=(-42.07555,171.35519)
@@ -204378,7 +204378,7 @@ Data0=(-42.07555,171.35519)
 
 ;1181153
 [POI]
-Type=0x2a
+Type=0x2d02
 Label=GIESEN SPORTS & EVENTS CENTRE
 StreetDesc=Uxbridge St, Renwick/ Sports club, bar, restaurant, events hire
 Phone=+6435729688
@@ -204387,7 +204387,7 @@ Data0=(-41.50617,173.82695)
 
 ;1181154
 [POI]
-Type=0x2f
+Type=0x4a00
 Label=FOX RIVER REST AREA
 StreetDesc=SH6 Fox River Paparoa Ntl Park/ Rest Area
 Data0=(-42.03120,171.38509)
@@ -204404,7 +204404,7 @@ Data0=(-41.68950,173.49915)
 
 ;1181156
 [POI]
-Type=0x2f
+Type=0x4a00
 Label=JACKSONS REST AREA
 StreetDesc=SH7 West of Jacksons/ Rest Area
 Data0=(-42.74372,171.50546)
@@ -204445,7 +204445,7 @@ Data0=(-41.51386,173.86745)
 
 ;1181161
 [POI]
-Type=0x2f
+Type=0x4a00
 Label=UPPER BULLER REST AREA
 StreetDesc=Cnr SH6 & SH65 Buller Gorge/ Rest Area
 Data0=(-41.77778,172.21923)
@@ -204479,7 +204479,7 @@ Data0=(-41.60759,174.13656)
 
 ;1181166
 [POI]
-Type=0x2a
+Type=0x2b00
 Label=D'URVILLE ISLAND WILDERNESS RESORT
 StreetDesc=Catherine Cove, d'Urville Island/ Resort, accommodation, cafe, bar, restaurant, 
 Phone=+6435765268
@@ -204488,7 +204488,7 @@ Data0=(-40.85748,173.89177)
 
 ;1181167
 [POI]
-Type=0x2f
+Type=0x2e
 Label=?PORTAGE BAY SHOP
 StreetDesc=2947 Kenepuru Rd, Kenepuru Sound, Marlborough Sounds/ 
 Data0=(-41.20001,174.03538)
@@ -204496,7 +204496,7 @@ Data0=(-41.20001,174.03538)
 
 ;1181168
 [POI]
-Type=0x2f
+Type=0x4a00
 Label=PELORUS RIVER REST AREA
 StreetDesc=SH6 Pelorus River/ Rest Area
 Data0=(-41.28506,173.64007)
@@ -204504,7 +204504,7 @@ Data0=(-41.28506,173.64007)
 
 ;1181169
 [POI]
-Type=0x2f
+Type=0x2e06
 Label=REDWOOD VILLAGE DAIRY
 StreetDesc=83 Cleghorn St, Blenheim/ 
 Data0=(-41.53041,173.95507)
@@ -204512,7 +204512,7 @@ Data0=(-41.53041,173.95507)
 
 ;1181170
 [POI]
-Type=0x2f
+Type=0x2e
 Label=REDWOOD BAKERY 2001 LTD
 StreetDesc=75 Cleghorn St, Blenheim/ 
 Data0=(-41.53036,173.95561)
@@ -204520,7 +204520,7 @@ Data0=(-41.53036,173.95561)
 
 ;1181171
 [POI]
-Type=0x2f
+Type=0x2a07
 Label=REDWOOD TAKEAWAYS
 StreetDesc=79 Cleghorn St, Blenheim/ 
 Data0=(-41.53037,173.95531)
@@ -204528,7 +204528,7 @@ Data0=(-41.53037,173.95531)
 
 ;1181172
 [POI]
-Type=0x2f
+Type=0x2e
 Label=SPRINGLANDS GARDEN CENTRE & CAFE
 StreetDesc=131 Middle Renwick Rd, Blenheim/ 
 Data0=(-41.50933,173.93531)
@@ -204536,7 +204536,7 @@ Data0=(-41.50933,173.93531)
 
 ;1181173
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=?INTERISLANDER PIER CAFE
 StreetDesc=Lagoon Rd, Picton/ 
 Data0=(-41.28928,174.00065)
@@ -204552,7 +204552,7 @@ Data0=(-41.48330,173.83976)
 
 ;1181175
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=?RAINBOW CAFE
 StreetDesc=Rainbow, Wairau Valley/ 
 Data0=(-41.78541,172.89366)
@@ -204560,7 +204560,7 @@ Data0=(-41.78541,172.89366)
 
 ;1181176
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=BRICK OVEN CAFE
 StreetDesc=6778 SH 6, Rai/ 
 Data0=(-41.84043,171.56354)
@@ -204568,7 +204568,7 @@ Data0=(-41.84043,171.56354)
 
 ;1181177
 [POI]
-Type=0x2a
+Type=0x2a0e
 Label=FORESTERS CAFE/RESTAURANT
 StreetDesc=7090 SH 6, Rai/ 
 Data0=(-41.84043,171.56354)
@@ -204576,7 +204576,7 @@ Data0=(-41.84043,171.56354)
 
 ;1181178
 [POI]
-Type=0x2f
+Type=0x2d02
 Label=OKARAMIO TAVERN
 StreetDesc=2384 SH 6, Okaramio/ 
 Data0=(-41.84043,171.56354)
@@ -204584,7 +204584,7 @@ Data0=(-41.84043,171.56354)
 
 ;1181179
 [POI]
-Type=0x2f
+Type=0x2d02
 Label=RAI VALLEY TAVERN
 StreetDesc=6767 SH 6, Rai/ 
 Data0=(-41.84034,171.56278)
@@ -204624,7 +204624,7 @@ Data0=(-41.59629,173.94212)
 
 ;1181184
 [POI]
-Type=0x2f
+Type=0x2d02
 Label=WAIRAU VALLEY TAVERN
 StreetDesc=2692 SH 63, Wairau Valley/ 
 Data0=(-41.56373,173.53249)
@@ -204648,7 +204648,7 @@ Data0=(-41.55957,173.51541)
 
 ;1181187
 [POI]
-Type=0x2f
+Type=0x2a07
 Label=MR FRYS WITHERLEA TAKEAWAYS
 StreetDesc=6 Alana Place, Blenheim/ 
 Data0=(-41.53776,173.95424)
@@ -204664,7 +204664,7 @@ Data0=(-41.53725,173.92364)
 
 ;1181189
 [POI]
-Type=0x2f
+Type=0x2e06
 Label=HOSPITAL DAIRY
 StreetDesc=215 Maxwell Rd, Blenheim/ 
 Data0=(-41.53425,173.94226)

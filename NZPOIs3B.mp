@@ -10892,10 +10892,10 @@ Data0=(-43.51235,172.50425)
 ;1035938
 [POI]
 Type=0x2f01
-Label=SHELL SHORELINE SERVICES
-StreetDesc=State Highway 6, Havelock/ Shell petrol station
+Label=SHELL HAVELOCK SERVICE STATION
+StreetDesc=82 Main Rd, State Highway 6, Havelock/ Shell petrol station, LPG
 Phone=+6435742436
-Data0=(-41.27636,173.76574)
+Data0=(-41.27643,173.76568)
 [END]
 
 ;1035945
@@ -12949,15 +12949,6 @@ Label=CALTEX CRANFORD STREET
 StreetDesc=500 Cranford St, Papanui/ Caltex petrol station
 Phone=+6433528705
 Data0=(-43.49022,172.62107)
-[END]
-
-;1042203
-[POI]
-Type=0x2f01
-Label=CALTEX CROMWELL
-StreetDesc=9 Murray Tce, Cromwell/ Caltex petrol station, Campervan Dump Point
-Phone=+6434451124
-Data0=(-45.03663,169.19523)
 [END]
 
 ;1042231
@@ -22622,15 +22613,6 @@ Phone=+6435737668
 Data0=(-41.26938,174.04241)
 [END]
 
-;1074109
-[POI]
-Type=0x2b00
-Label=WATSON'S WAY BACKPACKERS
-StreetDesc=56 High St, Renwick/ Backpacker accommodation
-Phone=+6435728228
-Data0=(-41.50766,173.82810)
-[END]
-
 ;1074137
 [POI]
 Type=0x2b00
@@ -25663,7 +25645,7 @@ Data0=(-43.38812,172.01921)
 [POI]
 Type=0x3008
 Label=NEW ZEALAND FIRE SERVICE RENWICK
-StreetDesc=Uxbridge St, Renwick/ fire station
+StreetDesc=Uxbridge St, Renwick/ Fire station. Volunteer Fire Brigade
 Phone=+6435728019
 Data0=(-41.50640,173.82622)
 [END]
@@ -37958,7 +37940,7 @@ Data0=(-43.50275,172.72226)
 [POI]
 Type=0x2f0c
 Label=TAWHAI PICNIC AREA TOILET
-StreetDesc=SH7, Reefton/ toilet
+StreetDesc=SH7, West of Reefton/ Rest Area Toilets
 Data0=(-42.14586,171.81441)
 [END]
 
@@ -40046,15 +40028,6 @@ Label=SOUNDS AIR TRAVEL & TOURISM LIMITED
 StreetDesc=Picton Airport/ Local airline. Scenic flights, charters
 Phone=+6435203080
 Data0=(-41.34711,173.95503)
-[END]
-
-;1099404
-[POI]
-Type=0x3008
-Label=RENWICK VOLUNTEER FIRE BRIGADE
-StreetDesc=Uxbridge St/ New Zealand Fire Service
-Phone=+6435728019
-Data0=(-41.50675,173.82626)
 [END]
 
 ;1099405
@@ -67113,11 +67086,10 @@ Data0=(-41.26181,173.27576)
 ;1114730
 [POI]
 Type=0x2f
-Label=THE NEW ZEALAND WINE COMPANY LTD
-StreetDesc=13 Waihopai Valley Rd, Renwick, Blenheim/ 
+Label=GROVE MILL
+StreetDesc=13 Waihopai Valley Rd, Renwick, Blenheim/ Winery, cellar door, tastings
 Phone=+6435728200
-zip=Mon-Fri 0800-1700
-Data0=(-41.51635,173.79830)
+Data0=(-41.51660,173.79793)
 [END]
 
 ;1114734
@@ -67171,7 +67143,7 @@ Data0=(-41.52795,174.00260)
 [POI]
 Type=0x2b01
 Label=THE PORTAGE RESORT HOTEL
-StreetDesc=Kenepuru Rd, Marlborough Sounds, RD 2, Picton, Blenheim/ Accommodation
+StreetDesc=2923 Kenepuru Rd, Kenepuru Sound, Marlborough Sounds/ Hotel accommodation, weddi
 Phone=+6435734309
 Data0=(-41.19998,174.03384)
 [END]
@@ -70625,9 +70597,9 @@ Data0=(-45.23202,167.81177)
 ;1116567
 [POI]
 Type=0x2b03
-Label=?KAWATIRI CAMPSITE (DOC)
+Label=KAWATIRI CAMPSITE (DOC)
 StreetDesc=Kawatiri Historic Reserve, Nelson Lakes/ DOC conservation campsite. Accommodatio
-Data0=(-41.69401,172.61753)
+Data0=(-41.69025,172.61681)
 [END]
 
 ;1116569
@@ -81308,10 +81280,10 @@ Data0=(-41.51102,173.94148)
 ;1119700
 [POI]
 Type=0x2a
-Label=REDWOOD HOTEL
-StreetDesc=70 Cleghorn St, Blenheim/ Hotel Bar Restaurant TAB Outlet
+Label=REDWOOD TAVERN
+StreetDesc=70 Cleghorn St, Blenheim/ Hotel, Bar, Restaurant, TAB Outlet
 Phone=+6435783259
-Data0=(-41.53005,173.95588)
+Data0=(-41.53007,173.95635)
 [END]
 
 ;1119701
@@ -82402,21 +82374,13 @@ Phone=+6435466580
 Data0=(-41.29532,173.26671)
 [END]
 
-;1119855
-[POI]
-Type=0x2a
-Label=BLENHEIM WORKING MENS CLUB
-StreetDesc=38 Wynen St, Blenheim, Marlborough/ Hotel Bar Cafe Restaurant TAB Self-Service O
-Phone=+6435781059
-Data0=(-41.51262,173.95805)
-[END]
-
 ;1119856
 [POI]
 Type=0x2a
-Label=HAVELOCK HOTEL BAR & RESTAURANT
-StreetDesc=54 Main Rd, Havelock, Marlborough/ Hotel Bar Restaurant TAB Self-Service Outlet
-Data0=(-41.27940,173.76723)
+Label=HAVELOCK HOTEL
+StreetDesc=54 Main Rd, Havelock, Marlborough/ Hotel, Bar, Restaurant, TAB Self-Service Outl
+Phone=+6435742412
+Data0=(-41.27939,173.76715)
 [END]
 
 ;1119857
@@ -84462,7 +84426,7 @@ Data0=(-41.27146,173.28288)
 [POI]
 Type=0x2f0c
 Label=LAKE PUKAKI VISITOR CENTRE
-StreetDesc=State Highway 8, Lake Pukaki/ Information, toilets, souvenirs
+StreetDesc=State Highway 8, Lake Pukaki/ Information, toilets, souvenirs, Rest Area
 Phone=+6434353280
 Data0=(-44.18989,170.14037)
 [END]
@@ -129078,9 +129042,10 @@ Data0=(-41.30134,173.11460)
 ;1141551
 [POI]
 Type=0x2a
-Label=RAUPO
+Label=RAUPO RIVERSIDE CAFE
 StreetDesc=2 Symons St, Blenheim/ Cafe, restaurant, traiteur, delicatessen
 Phone=+6435778822
+zip=7 days; breakfast 7.30am-11am;. lunch 11
 Data0=(-41.51242,173.95897)
 [END]
 
@@ -145966,7 +145931,7 @@ Data0=(-45.19689,170.42486)
 [POI]
 Type=0x4a00
 Label=GRANGE HILL REST AREA
-StreetDesc=Grange Hill Rd/ rest area
+StreetDesc=Grange Hill Rd Dunback/ Rest Area
 Data0=(-45.40642,170.64357)
 [END]
 
@@ -146042,15 +146007,15 @@ Data0=(-45.85768,170.52745)
 [POI]
 Type=0x4a00
 Label=PORTERS PASS REST AREA
-StreetDesc=West Coast Rd/ rest area
+StreetDesc=SH73 West Coast Rd/ Rest Area
 Data0=(-43.32821,171.79107)
 [END]
 
 ;1150665
 [POI]
 Type=0x4a00
-Label=NEAR PORTERS PASS REST AREA
-StreetDesc=West Coast Rd/ rest area
+Label=BROKEN RIVER REST AREA
+StreetDesc=SH73 West Coast Rd/ rest area
 Data0=(-43.31119,171.76832)
 [END]
 
@@ -146065,8 +146030,8 @@ Data0=(-42.55752,172.35088)
 ;1150667
 [POI]
 Type=0x4a00
-Label=SMALL WAIAU BRIDGE REST AREA
-StreetDesc=3050 Lewis Pass Rd/ rest area
+Label=HOPE RIVER BRIDGE REST AREA
+StreetDesc=3050 Lewis Pass Rd ( SH7)/ rest area
 Data0=(-42.58840,172.45033)
 [END]
 
@@ -146194,7 +146159,7 @@ Data0=(-45.65287,170.58515)
 [POI]
 Type=0x4a00
 Label=KATIKI BEACH REST AREA
-StreetDesc=4184 Hampden Palmerston Rd/ rest area
+StreetDesc=4184 Hampden Palmerston Rd/ Rest Area
 Data0=(-45.40511,170.83425)
 [END]
 
@@ -149015,8 +148980,9 @@ Data0=(-42.81239,173.27438)
 [POI]
 Type=0x2d02
 Label=CLUBS OF MARLBOROUGH
-StreetDesc=42 Alfred St, Blenheim, Marlborough/ 
-Data0=(-41.51044,173.95705)
+StreetDesc=42 Alfred St, Blenheim, Marlborough/ Bar, restaurant, RSA, self-service TAB, fit
+Phone=+6435781059
+Data0=(-41.51033,173.95701)
 [END]
 
 ;1151775
@@ -160788,7 +160754,8 @@ Data0=(-41.27209,173.26268)
 [POI]
 Type=0x2b00
 Label=HAVELOCK MOTEL
-StreetDesc=50 Main Rd, Havelock, Havelock/ Accommodation
+StreetDesc=50 Main Rd, Havelock/ Motel accommodation
+Phone=+6435742961
 Data0=(-41.27988,173.76734)
 [END]
 
@@ -163403,8 +163370,9 @@ Data0=(-42.37335,173.64244)
 [POI]
 Type=0x2b02
 Label=TOP VIEW B&B
-StreetDesc=24 Whitcombe Terrace, Hokitika/ B&B Accommodation
-Data0=(-42.71183,170.97592)
+StreetDesc=24 Whitcombe Terrace, Hokitika 7810, Westland/ Bed & Breakfast accommodation. Ze
+Phone=+6437557060
+Data0=(-42.71163,170.97543)
 [END]
 
 ;1160026
@@ -163925,8 +163893,8 @@ Data0=(-41.27985,173.25045)
 ;1160300
 [POI]
 Type=0x4a00
-Label=THE WOOD REST AREA
-StreetDesc=Queen Elizabeth II Dr, Nelson/ Rest Area
+Label=PEACE GROVE REST AREA
+StreetDesc=SH6 Queen Elizabeth II Dr, Nelson/ Rest Area
 Data0=(-41.26382,173.28727)
 [END]
 
@@ -204012,5 +203980,1878 @@ StreetDesc=26 School Rd, Chc/ Museum, Car Cuseum, Tourist Attraction,
 Phone=+6433427914
 zip=10am - 5pm
 Data0=(-43.51104,172.50475)
+[END]
+
+;1181010
+[POI]
+Type=0x2b02
+Label=RAINBOWS EDGE
+StreetDesc=271 Frankton Rd, Queenstown 9300, Central Otago/ Accommodation. Bed and Breakfas
+Phone=+6434426177
+Data0=(-45.03236,168.68360)
+[END]
+
+;1181012
+[POI]
+Type=0x2f0c
+Label=RAKAIA TOILETS
+StreetDesc=/ Public Toilet
+Data0=(-43.75513,172.02501)
+[END]
+
+;1181025
+[POI]
+Type=0x4a00
+Label=LAKE ELTERWATER REST AREA
+StreetDesc=SH1 Lake Elterwater/ Rest Area
+Data0=(-41.79420,174.14754)
+[END]
+
+;1181026
+[POI]
+Type=0x4a00
+Label=HALF MOON BAY REST AREA
+StreetDesc=SH1 Half Moon Bay Kaikoura Coast/ Rest Area
+Data0=(-42.26105,173.81054)
+[END]
+
+;1181027
+[POI]
+Type=0x4a00
+Label=OKARAIA REST AREA
+StreetDesc=SH1 Hundalee Range/ Rest Area
+Data0=(-42.54216,173.45157)
+[END]
+
+;1181028
+[POI]
+Type=0x4a00
+Label=INLAND KAIKOURA REST AREA
+StreetDesc=Cnr SH1 & Inland Kaikoura Rd/ Rest Area
+Data0=(-42.41633,173.62898)
+[END]
+
+;1181029
+[POI]
+Type=0x4a00
+Label=HAPUKU REST AREA
+StreetDesc=SH1 Hapuku River/ Rest Area
+Data0=(-42.30951,173.71973)
+[END]
+
+;1181030
+[POI]
+Type=0x4a00
+Label=PELORUS REST AREA
+StreetDesc=SH6 Pelorus Bridge/ Rest Area
+Data0=(-41.29890,173.57254)
+[END]
+
+;1181031
+[POI]
+Type=0x4a00
+Label=CLARENCE REST AREA
+StreetDesc=SH1 Clarence River/ Rest Area
+Data0=(-42.15559,173.92356)
+[END]
+
+;1181035
+[POI]
+Type=0x4a00
+Label=KAIKOURA COAST REST AREA
+StreetDesc=SH1 Kaikoura Coast/ Rest Area
+Data0=(-42.27699,173.78313)
+[END]
+
+;1181036
+[POI]
+Type=0x4a00
+Label=OHAU POINT REST AREA & LOOKOUT
+StreetDesc=2295 SH1 Ohau Point/ Rest Area Seal Colony
+Data0=(-42.24950,173.82577)
+[END]
+
+;1181038
+[POI]
+Type=0x4a00
+Label=MARUIA RIVER REST AREA
+StreetDesc=SH7 Springs Junction/ Rest Area
+Data0=(-42.35498,172.24262)
+[END]
+
+;1181039
+[POI]
+Type=0x4a00
+Label=OTIRA VIADUCT REST AREA
+StreetDesc=SH73 Otira Gorge/ Rest Area & Viaduct Lookout
+Data0=(-42.88827,171.55624)
+[END]
+
+;1181043
+[POI]
+Type=0x4a00
+Label=HORSESHOE LAKE REST AREA
+StreetDesc=SH7 Horseshoe Lake/ Rest Area
+Data0=(-42.59634,172.52381)
+[END]
+
+;1181044
+[POI]
+Type=0x4a00
+Label=RAKAIA RIVER REST AREA & LOOKOUT
+StreetDesc=SH77 Rakaia Gorge/ Rest Area
+Data0=(-43.52859,171.69835)
+[END]
+
+;1181054
+[POI]
+Type=0x2f0c
+Label=RAKAIA GORGE REST AREA
+StreetDesc=SH77 Rakaia Gorge/ Rest Area Toilets Tables
+Data0=(-43.51925,171.65419)
+[END]
+
+;1181055
+[POI]
+Type=0x4a00
+Label=HILLTOP REST AREA
+StreetDesc=SH75 Hilltop Akaroa Highway/ Rest Area
+Data0=(-43.75291,172.87315)
+[END]
+
+;1181056
+[POI]
+Type=0x4a00
+Label=CONWAY RIVER REST AREA
+StreetDesc=SH1 Conway River Bridge/ Rest Area
+Data0=(-42.60035,173.41755)
+[END]
+
+;1181057
+[POI]
+Type=0x4a00
+Label=BLIND RIVER REST AREA
+StreetDesc=SH1 South of Seddon/ Rest Area
+Data0=(-41.69658,174.09532)
+[END]
+
+;1181058
+[POI]
+Type=0x4a00
+Label=KEKERENGU REST AREA
+StreetDesc=SH1 Kekerengu/ Rest Area
+Data0=(-42.00842,174.00619)
+[END]
+
+;1181059
+[POI]
+Type=0x2f0c
+Label=PAIA POINT REST AREA & CAMPING GROUND
+StreetDesc=SH1 Paia Point/ Rest Area Toilets Tables
+Data0=(-42.47223,173.53574)
+[END]
+
+;1181060
+[POI]
+Type=0x4a00
+Label=HURINUI RIVER REST AREA
+StreetDesc=SH1 Hurinui River Bridge/ Rest Area
+Data0=(-42.89771,173.10236)
+[END]
+
+;1181061
+[POI]
+Type=0x4a00
+Label=OMIHI REST AREA
+StreetDesc=SH1 Omihi Saddle/ Rest Area
+Data0=(-42.98187,172.91805)
+[END]
+
+;1181065
+[POI]
+Type=0x2a0e
+Label=STATION CAFE AND RESTAURANT
+StreetDesc=Mills St, SH 1, Seddon/ Cafe, bar, restaurant, art gallery
+Phone=+6435757902
+Data0=(-41.67341,174.07525)
+[END]
+
+;1181066
+[POI]
+Type=0x2f
+Label=MARLBOROUGH FARMERS MARKET
+StreetDesc=Alabama Rd, Blenheim/ 
+Phone=+6435793599
+zip=Oct-Jun- 9am-12 noon every Sunday
+Data0=(-41.52840,173.94780)
+[END]
+
+;1181067
+[POI]
+Type=0x2a0e
+Label=SNAPPER CAFE
+StreetDesc=2923 Kenepuru Rd, Kenepuru Sound/ Cafe, bar, restaurant
+Phone=+6435734309
+zip=Summer 11am-10pm
+Data0=(-41.19926,174.03495)
+[END]
+
+;1181070
+[POI]
+Type=0x4a00
+Label=LEWIS PASS REST AREA
+StreetDesc=SH7 Lewis Pass/ Rest Area
+Data0=(-42.37996,172.40043)
+[END]
+
+;1181071
+[POI]
+Type=0x4a00
+Label=SYLVIA FLATS REST AREA
+StreetDesc=SH7 Lewis Pass/ Rest Area DIY Hot Pools (Sandflies)
+Data0=(-42.49314,172.38753)
+[END]
+
+;1181072
+[POI]
+Type=0x4a00
+Label=LONGFORD REST AREA
+StreetDesc=SH6 Longford/ Rest Area
+Data0=(-41.74300,172.39743)
+[END]
+
+;1181073
+[POI]
+Type=0x4a00
+Label=MARUIA FALLS REST AREA
+StreetDesc=SH6 Maruia Falls/ Rest Area & Lookout
+Data0=(-41.85887,172.25334)
+[END]
+
+;1181074
+[POI]
+Type=0x4a00
+Label=KAWATIRI JCN REST AREA
+StreetDesc=SH6 Kawatiri Jcn/ Rest Area
+Data0=(-41.69011,172.61615)
+[END]
+
+;1181075
+[POI]
+Type=0x4a00
+Label=ORARI BRIDGE REST AREA
+StreetDesc=SH79 Orari Bridge/ Rest Area
+Data0=(-44.04366,171.27219)
+[END]
+
+;1181076
+[POI]
+Type=0x4a00
+Label=WAIKOUAITI RIVER REST AREA
+StreetDesc=SH1 Waikouaiti/ Rest Area
+Data0=(-45.60615,170.65039)
+[END]
+
+;1181077
+[POI]
+Type=0x4a00
+Label=RIWAKA SOURCE REST AREA
+StreetDesc=Riwaka Valley Rd Riwaka/ Rest Area
+Data0=(-41.03424,172.90090)
+[END]
+
+;1181101
+[POI]
+Type=0x4a00
+Label=BALCLUTHA REST AREA
+StreetDesc=SH North of Balclutha/ Rest Area
+Data0=(-46.22087,169.77017)
+[END]
+
+;1181102
+[POI]
+Type=0x4a00
+Label=CLINTON REST AREA
+StreetDesc=SH1 Clinton/ Rest Area
+Data0=(-46.20237,169.37623)
+[END]
+
+;1181103
+[POI]
+Type=0x4a00
+Label=GORE REST AREA
+StreetDesc=Gore Bypass Mataura River/ Rest Area
+Data0=(-46.09974,168.94845)
+[END]
+
+;1181104
+[POI]
+Type=0x4a00
+Label=KILMOG REST AREA
+StreetDesc=SH1 Evansdale/ Rest Area
+Data0=(-45.65258,170.58480)
+[END]
+
+;1181105
+[POI]
+Type=0x2f0c
+Label=CAROLINE BAY REST AREA
+StreetDesc=Marine Parade Caroline Bay Timaru/ Rest Area Toilets Tables
+Data0=(-44.39064,171.25302)
+[END]
+
+;1181109
+[POI]
+Type=0x2f0c
+Label=LAKE BENMORE REST AREA
+StreetDesc=SH83 Lake Benmore/ Rest Area Toilets
+Data0=(-44.53301,170.06940)
+[END]
+
+;1181111
+[POI]
+Type=0x4a00
+Label=CLARKES JCN REST AREA
+StreetDesc=Cnr SH1 & SH8 Milton/ Rest Area
+Data0=(-46.13049,169.91950)
+[END]
+
+;1181112
+[POI]
+Type=0x4a00
+Label=PISA MOORINGS REST AREA
+StreetDesc=SH8 Lake Dunstan Cromwell/ Rest Area
+Data0=(-44.93818,169.29069)
+[END]
+
+;1181113
+[POI]
+Type=0x4a00
+Label=CROMWELL REST AREA
+StreetDesc=SH8 Lake Dunstan Cromwell/ Rest Area
+Data0=(-45.05114,169.21457)
+[END]
+
+;1181114
+[POI]
+Type=0x4a00
+Label=CROMWELL GORGE REST AREA
+StreetDesc=SH8 Lake Dunstan Cromwell Gorge/ Rest Area
+Data0=(-45.12959,169.31741)
+[END]
+
+;1181115
+[POI]
+Type=0x2b01
+Label=REDWOOD HOTEL
+StreetDesc=340 Main North Rd Redwood 8051/ Accommodation, food, restaurant
+Phone=+33529165
+Data0=(-43.47429,172.61729)
+[END]
+
+;1181127
+[POI]
+Type=0x2f
+Label=ROBERTSON CHARTERED ACCOUNTANTS
+StreetDesc=L 1, 10 Church St, Nelson/ Professional chartered accountants
+Phone=+6435467604
+Data0=(-41.27479,173.28276)
+[END]
+
+;1181151
+[POI]
+Type=0x2f
+Label=RAY WHITE NORTHWOOD
+StreetDesc=1 Radcliffe Rd, Belfast/ Real Estate, House Sales, Property Management, Buying H
+Phone=+6433234350
+zip=9.00 am - 5.00 pm
+Data0=(-43.46031,172.62372)
+[END]
+
+;1181152
+[POI]
+Type=0x2f
+Label=MEYBILLE BAY REST AREA
+StreetDesc=SH6 Paparoa Ntl Park/ Rest Area
+Data0=(-42.07555,171.35519)
+[END]
+
+;1181153
+[POI]
+Type=0x2a
+Label=GIESEN SPORTS & EVENTS CENTRE
+StreetDesc=Uxbridge St, Renwick/ Sports club, bar, restaurant, events hire
+Phone=+6435729688
+Data0=(-41.50617,173.82695)
+[END]
+
+;1181154
+[POI]
+Type=0x2f
+Label=FOX RIVER REST AREA
+StreetDesc=SH6 Fox River Paparoa Ntl Park/ Rest Area
+Data0=(-42.03120,171.38509)
+[END]
+
+;1181155
+[POI]
+Type=0x2f
+Label=PINOLI
+StreetDesc=3582 Waihopai Valley Rd, RD 6 Blenheim/ Premium pine nuts
+Phone=+6435724308
+Data0=(-41.68950,173.49915)
+[END]
+
+;1181156
+[POI]
+Type=0x2f
+Label=JACKSONS REST AREA
+StreetDesc=SH7 West of Jacksons/ Rest Area
+Data0=(-42.74372,171.50546)
+[END]
+
+;1181157
+[POI]
+Type=0x2f
+Label=NUTT RANCH
+StreetDesc=191 Tyntesfield Rd, Waihopai Valley/ Growers of Premium Quality Hazelnuts
+Data0=(-41.57582,173.76920)
+[END]
+
+;1181158
+[POI]
+Type=0x2f
+Label=TUSSOCK LIMITED
+StreetDesc=1119 Waihopai Valley Rd, Waihopai Valley/ Olive oil
+Data0=(-41.59740,173.72348)
+[END]
+
+;1181159
+[POI]
+Type=0x2b00
+Label=?TE RAWA RESORT
+StreetDesc=Wilson Bay, Pelorus Sound/ Accommodation
+Phone=+6435798285
+Data0=(-41.16279,173.86321)
+[END]
+
+;1181160
+[POI]
+Type=0x2a0e
+Label=CPR AIRSHOP
+StreetDesc=Blenheim Airport, Tancred Cres, Woodbourne/ Cafe
+Data0=(-41.51386,173.86745)
+[END]
+
+;1181161
+[POI]
+Type=0x2f
+Label=UPPER BULLER REST AREA
+StreetDesc=Cnr SH6 & SH65 Buller Gorge/ Rest Area
+Data0=(-41.77778,172.21923)
+[END]
+
+;1181162
+[POI]
+Type=0x2f
+Label=KIWI SEED CO (MARLBOROUGH) LTD
+StreetDesc=527 Old Renwick Rd, Blenheim, Marlborough/ Supplier of seeds
+Phone=+6435780468
+Data0=(-41.50156,173.88471)
+[END]
+
+;1181163
+[POI]
+Type=0x2f
+Label=?ROBRIAN ESTATE
+StreetDesc=38 Ward Beach Rd, Flaxbourne/ Olive oil
+Data0=(-41.83261,174.17519)
+[END]
+
+;1181165
+[POI]
+Type=0x2f
+Label=OAK TREE COTTAGE
+StreetDesc=44 Lintons Rd, Redwood Pass/ Wedding venue
+Phone=+6435757070
+Data0=(-41.60759,174.13656)
+[END]
+
+;1181166
+[POI]
+Type=0x2a
+Label=D'URVILLE ISLAND WILDERNESS RESORT
+StreetDesc=Catherine Cove, d'Urville Island/ Resort, accommodation, cafe, bar, restaurant, 
+Phone=+6435765268
+Data0=(-40.85748,173.89177)
+[END]
+
+;1181167
+[POI]
+Type=0x2f
+Label=?PORTAGE BAY SHOP
+StreetDesc=2947 Kenepuru Rd, Kenepuru Sound, Marlborough Sounds/ 
+Data0=(-41.20001,174.03538)
+[END]
+
+;1181168
+[POI]
+Type=0x2f
+Label=PELORUS RIVER REST AREA
+StreetDesc=SH6 Pelorus River/ Rest Area
+Data0=(-41.28506,173.64007)
+[END]
+
+;1181169
+[POI]
+Type=0x2f
+Label=REDWOOD VILLAGE DAIRY
+StreetDesc=83 Cleghorn St, Blenheim/ 
+Data0=(-41.53041,173.95507)
+[END]
+
+;1181170
+[POI]
+Type=0x2f
+Label=REDWOOD BAKERY 2001 LTD
+StreetDesc=75 Cleghorn St, Blenheim/ 
+Data0=(-41.53036,173.95561)
+[END]
+
+;1181171
+[POI]
+Type=0x2f
+Label=REDWOOD TAKEAWAYS
+StreetDesc=79 Cleghorn St, Blenheim/ 
+Data0=(-41.53037,173.95531)
+[END]
+
+;1181172
+[POI]
+Type=0x2f
+Label=SPRINGLANDS GARDEN CENTRE & CAFE
+StreetDesc=131 Middle Renwick Rd, Blenheim/ 
+Data0=(-41.50933,173.93531)
+[END]
+
+;1181173
+[POI]
+Type=0x2f
+Label=?INTERISLANDER PIER CAFE
+StreetDesc=Lagoon Rd, Picton/ 
+Data0=(-41.28928,174.00065)
+[END]
+
+;1181174
+[POI]
+Type=0x2f
+Label=THE VINES COTTAGE LTD
+StreetDesc=197 Rapaura Rd, Rapaura/ 
+Data0=(-41.48330,173.83976)
+[END]
+
+;1181175
+[POI]
+Type=0x2f
+Label=?RAINBOW CAFE
+StreetDesc=Rainbow, Wairau Valley/ 
+Data0=(-41.78541,172.89366)
+[END]
+
+;1181176
+[POI]
+Type=0x2f
+Label=BRICK OVEN CAFE
+StreetDesc=6778 SH 6, Rai/ 
+Data0=(-41.84043,171.56354)
+[END]
+
+;1181177
+[POI]
+Type=0x2a
+Label=FORESTERS CAFE/RESTAURANT
+StreetDesc=7090 SH 6, Rai/ 
+Data0=(-41.84043,171.56354)
+[END]
+
+;1181178
+[POI]
+Type=0x2f
+Label=OKARAMIO TAVERN
+StreetDesc=2384 SH 6, Okaramio/ 
+Data0=(-41.84043,171.56354)
+[END]
+
+;1181179
+[POI]
+Type=0x2f
+Label=RAI VALLEY TAVERN
+StreetDesc=6767 SH 6, Rai/ 
+Data0=(-41.84034,171.56278)
+[END]
+
+;1181180
+[POI]
+Type=0x2f
+Label=RAI TRADING
+StreetDesc=6781 SH 6, Rai/ 
+Data0=(-41.84034,171.56278)
+[END]
+
+;1181181
+[POI]
+Type=0x2f
+Label=THE BOYZ
+StreetDesc=3 Mills St, Seddon/ 
+Data0=(-41.67354,174.07608)
+[END]
+
+;1181182
+[POI]
+Type=0x2f
+Label=COSY CORNER
+StreetDesc=9 Mills St, Seddon/ 
+Data0=(-41.67302,174.07533)
+[END]
+
+;1181183
+[POI]
+Type=0x2f
+Label=THE HONEY COMPANY LTD
+StreetDesc=829 Taylor Pass Rd, Taylor Pass/ 
+Data0=(-41.59629,173.94212)
+[END]
+
+;1181184
+[POI]
+Type=0x2f
+Label=WAIRAU VALLEY TAVERN
+StreetDesc=2692 SH 63, Wairau Valley/ 
+Data0=(-41.56373,173.53249)
+[END]
+
+;1181185
+[POI]
+Type=0x2f
+Label=LEIGHVANDER COTTAGE
+StreetDesc=2670 SH 63, Wairau Valley/ 
+Data0=(-41.56286,173.53492)
+[END]
+
+;1181186
+[POI]
+Type=0x2f
+Label=ORMOND AQUACULTURE LIMITED
+StreetDesc=82 Keith Coleman Lane, Wairau Valley/ 
+Data0=(-41.55957,173.51541)
+[END]
+
+;1181187
+[POI]
+Type=0x2f
+Label=MR FRYS WITHERLEA TAKEAWAYS
+StreetDesc=6 Alana Place, Blenheim/ 
+Data0=(-41.53776,173.95424)
+[END]
+
+;1181188
+[POI]
+Type=0x2f
+Label=OMAKA MARAE INCORPORATED
+StreetDesc=120 Aerodrome Rd, Omaka/ 
+Data0=(-41.53725,173.92364)
+[END]
+
+;1181189
+[POI]
+Type=0x2f
+Label=HOSPITAL DAIRY
+StreetDesc=215 Maxwell Rd, Blenheim/ 
+Data0=(-41.53425,173.94226)
+[END]
+
+;1181190
+[POI]
+Type=0x2f
+Label=CLOS HENRI LIMITED
+StreetDesc=639 SH 63, Waihopai/ 
+Data0=(-41.53311,173.75568)
+[END]
+
+;1181191
+[POI]
+Type=0x2f
+Label=WINEWORKS MARLBOROUGH
+StreetDesc=24 Liverpool St Riverlands/ 
+Data0=(-41.53294,174.01104)
+[END]
+
+;1181192
+[POI]
+Type=0x2f
+Label=JANLEYS TAKEAWAYS
+StreetDesc=1 Moran St, Blenheim/ 
+Data0=(-41.53208,173.96141)
+[END]
+
+;1181193
+[POI]
+Type=0x2f
+Label=RIVERLANDS SNACK SHACK
+StreetDesc=21 Vernon St Riverlands/ 
+Data0=(-41.53053,174.01221)
+[END]
+
+;1181194
+[POI]
+Type=0x2f
+Label=THE OLD BANK
+StreetDesc=81 Cleghorn St, Blenheim/ 
+Data0=(-41.53038,173.95516)
+[END]
+
+;1181195
+[POI]
+Type=0x2f
+Label=MARLBOROUGH WHOLESALE BAKERS
+StreetDesc=4 Manchester St Riverlands/ 
+Data0=(-41.52967,174.00919)
+[END]
+
+;1181196
+[POI]
+Type=0x2f
+Label=FAB FOODS CAFE & CATERING
+StreetDesc=74 A Cleghorn St, Blenheim/ 
+Data0=(-41.53023,173.95559)
+[END]
+
+;1181197
+[POI]
+Type=0x2f
+Label=HIGHFIELD ESTATE
+StreetDesc=27 Brookby Rd Hawkesbury/ 
+Data0=(-41.52851,173.83738)
+[END]
+
+;1181198
+[POI]
+Type=0x2f
+Label=ESPRESSO GARDEN CAFE
+StreetDesc=186 Alabama Rd, Blenheim/ 
+Data0=(-41.52782,173.96602)
+[END]
+
+;1181199
+[POI]
+Type=0x2f
+Label=BLENHEIM BOWLING CLUB INCORPORATED
+StreetDesc=65 E Weld St, Blenheim/ 
+Data0=(-41.52671,173.95492)
+[END]
+
+;1181200
+[POI]
+Type=0x2f
+Label=THE OLD BARN FUNCTION CENTRE
+StreetDesc=11 Malthouse Rd Riverlands/ 
+Data0=(-41.52594,174.00279)
+[END]
+
+;1181201
+[POI]
+Type=0x2f
+Label=SHOWGROUNDS STORE 2004
+StreetDesc=137 Maxwell Rd, Blenheim/ 
+Data0=(-41.52564,173.94557)
+[END]
+
+;1181202
+[POI]
+Type=0x2f
+Label=THE BUTCHER SHOP
+StreetDesc=385 Alabama Rd Riverlands/ 
+Data0=(-41.52287,173.98201)
+[END]
+
+;1181203
+[POI]
+Type=0x2f
+Label=TIP TOP STORE
+StreetDesc=82 Muller Rd, Blenheim/ 
+Data0=(-41.52261,173.95711)
+[END]
+
+;1181204
+[POI]
+Type=0x2f
+Label=MARLBOROUGH FOOD DISTRIBUTORS & FRESH DIRECT WHOLESALE 2009 LTD
+StreetDesc=20 Timandra Place, Blenheim/ 
+Data0=(-41.51876,173.96811)
+[END]
+
+;1181205
+[POI]
+Type=0x2f
+Label=UPMARTKETING & SALES (2006) LTD
+StreetDesc=6 Timandra Place, Blenheim/ 
+Data0=(-41.51781,173.96705)
+[END]
+
+;1181206
+[POI]
+Type=0x2f
+Label=SOUTHERN ICE MARLBOROUGH
+StreetDesc=16 Goodman St, Blenheim/ 
+Data0=(-41.51765,173.97018)
+[END]
+
+;1181207
+[POI]
+Type=0x2f
+Label=FOODSTUFFS (SOUTH ISLAND) LIMITED
+StreetDesc=32 Stuart St, Blenheim/ 
+Data0=(-41.51787,173.96538)
+[END]
+
+;1181208
+[POI]
+Type=0x2f
+Label=MARLBOROUGH COMMUNITY COLLEGE
+StreetDesc=65 Scott St, Blenheim/ 
+Data0=(-41.51753,173.95725)
+[END]
+
+;1181209
+[POI]
+Type=0x2a
+Label=BAMBOO GARDEN RESTAURANT
+StreetDesc=31 Maxwell Rd, Blenheim/ 
+Data0=(-41.51607,173.95414)
+[END]
+
+;1181210
+[POI]
+Type=0x2f
+Label=SAKIM SUSHI
+StreetDesc=31 Scott St, Blenheim/ 
+Data0=(-41.51534,173.95700)
+[END]
+
+;1181211
+[POI]
+Type=0x2f
+Label=MARLBOROUGH STADIUM TRUST
+StreetDesc=18 A Kinross St, Blenheim/ 
+Data0=(-41.51523,173.95966)
+[END]
+
+;1181212
+[POI]
+Type=0x2f
+Label=COMBINED RURAL TRADERS SOCIETY LIMITED
+StreetDesc=18 Kinross St, Blenheim/ 
+Data0=(-41.51523,173.95966)
+[END]
+
+;1181213
+[POI]
+Type=0x2f
+Label=BUILDERS ARMS
+StreetDesc=1 A Kinross St, Blenheim/ 
+Data0=(-41.51500,173.95719)
+[END]
+
+;1181214
+[POI]
+Type=0x2a
+Label=ACCENT RESTAURANT LTD
+StreetDesc=14 Scott St, Blenheim/ 
+Data0=(-41.51492,173.95661)
+[END]
+
+;1181215
+[POI]
+Type=0x2a
+Label=BELLAFICO RESTAURANT & WINE BAR
+StreetDesc=17 A Maxwell Rd, Blenheim/ 
+Data0=(-41.51491,173.95579)
+[END]
+
+;1181216
+[POI]
+Type=0x2a
+Label=VILLAGE INDIA RESTAURANT & BAR
+StreetDesc=17 B Maxwell Rd, Blenheim/ 
+Data0=(-41.51491,173.95579)
+[END]
+
+;1181217
+[POI]
+Type=0x2f
+Label=SECRET GARDEN CAFE WINE BAR EATERY
+StreetDesc=30 Maxwell Rd, Blenheim/ 
+Data0=(-41.51487,173.95515)
+[END]
+
+;1181218
+[POI]
+Type=0x2f
+Label=SCOTCH WINE BAR
+StreetDesc=4 George St, Blenheim/ 
+Data0=(-41.51435,173.95585)
+[END]
+
+;1181219
+[POI]
+Type=0x2f
+Label=ALL IN ONE BLENHEIM
+StreetDesc=22 Maxwell Rd, Blenheim/ 
+Data0=(-41.51431,173.95604)
+[END]
+
+;1181220
+[POI]
+Type=0x2f
+Label=THE VILLAGE BUTCHER
+StreetDesc=18 Maxwell Rd, Blenheim/ 
+Data0=(-41.51422,173.95618)
+[END]
+
+;1181221
+[POI]
+Type=0x2f
+Label=SASA
+StreetDesc=67 Queen St, Blenheim/ 
+Data0=(-41.51410,173.95574)
+[END]
+
+;1181222
+[POI]
+Type=0x2f
+Label=CHANTILLY COFFEE LOUNGE
+StreetDesc=77 Queen St, Blenheim/ 
+Data0=(-41.51462,173.95568)
+[END]
+
+;1181223
+[POI]
+Type=0x2f
+Label=GRANNYS SWEET TOOTH
+StreetDesc=73 Queen St, Blenheim/ 
+Data0=(-41.51458,173.95564)
+[END]
+
+;1181224
+[POI]
+Type=0x2a
+Label=BACCHUS RESTAURANT
+StreetDesc=3 Main St, Blenheim/ 
+Data0=(-41.51363,173.95762)
+[END]
+
+;1181225
+[POI]
+Type=0x2a
+Label=MCDONALDS FAMILY RESTAURANT
+StreetDesc=24 Main St, Blenheim/ 
+Data0=(-41.51358,173.96188)
+[END]
+
+;1181226
+[POI]
+Type=0x2f
+Label=CURDS 'N' WHEY WHOLEFOODS
+StreetDesc=4 Arthur St, Blenheim/ 
+Data0=(-41.51355,173.95618)
+[END]
+
+;1181227
+[POI]
+Type=0x2f
+Label=MARLBOROUGH HOMEKILL PROCESSING LIMITED
+StreetDesc=62 Main St, Blenheim/ 
+Data0=(-41.51337,173.96636)
+[END]
+
+;1181228
+[POI]
+Type=0x2f
+Label=ALPHA & OMEGA
+StreetDesc=39 Queen St, Blenheim/ 
+Data0=(-41.51331,173.95579)
+[END]
+
+;1181229
+[POI]
+Type=0x2f
+Label=KOKOMO BEACH BAR
+StreetDesc=76 Market St, Blenheim/ 
+Data0=(-41.51330,173.95650)
+[END]
+
+;1181230
+[POI]
+Type=0x2f
+Label=SUTHERLAND ARMS
+StreetDesc=74 Main St, Blenheim/ 
+Data0=(-41.51329,173.96806)
+[END]
+
+;1181231
+[POI]
+Type=0x2f
+Label=THE FIX
+StreetDesc=72 Market St, Blenheim/ 
+Data0=(-41.51315,173.95650)
+[END]
+
+;1181232
+[POI]
+Type=0x2f
+Label=MARLBOROUGH CIVIC THEATRE TRUST
+StreetDesc=22 Queen St, Blenheim/ 
+Data0=(-41.51306,173.95537)
+[END]
+
+;1181233
+[POI]
+Type=0x2f
+Label=THE STEAK SHED
+StreetDesc=7 Charles St, Blenheim/ 
+Data0=(-41.51288,173.95617)
+[END]
+
+;1181234
+[POI]
+Type=0x2a
+Label=PODIUM RESTAURANT AND BAR
+StreetDesc=59 Market St, Blenheim/ 
+Data0=(-41.51262,173.95669)
+[END]
+
+;1181235
+[POI]
+Type=0x2f
+Label=ZUPPA
+StreetDesc=59 Market St, Blenheim/ 
+Data0=(-41.51262,173.95669)
+[END]
+
+;1181236
+[POI]
+Type=0x2f
+Label=CHILLER TRANSPORT LTD
+StreetDesc=3 Park Terrace, Blenheim/ 
+Data0=(-41.51262,173.96135)
+[END]
+
+;1181237
+[POI]
+Type=0x2f
+Label=G & M SEAFOODS
+StreetDesc=9 Park Terrace, Blenheim/ 
+Data0=(-41.51255,173.96324)
+[END]
+
+;1181238
+[POI]
+Type=0x2f
+Label=DOLCE
+StreetDesc=48 Market St, Blenheim/ 
+Data0=(-41.51210,173.95607)
+[END]
+
+;1181239
+[POI]
+Type=0x2f
+Label=PURPLE HITCHHIKER
+StreetDesc=48 Market St, Blenheim/ 
+Data0=(-41.51210,173.95607)
+[END]
+
+;1181240
+[POI]
+Type=0x2f
+Label=PICTON VILLAGE BAKKERIJ IN BLENHEIM
+StreetDesc=48 Market St, Blenheim/ 
+Data0=(-41.51210,173.95607)
+[END]
+
+;1181241
+[POI]
+Type=0x2f
+Label=SAGAI LIMITED
+StreetDesc=35 High St, Blenheim/ 
+Data0=(-41.51208,173.95717)
+[END]
+
+;1181242
+[POI]
+Type=0x2a
+Label=CHI CHI RESTAURANT LIMITED
+StreetDesc=35 High St, Blenheim/ 
+Data0=(-41.51208,173.95717)
+[END]
+
+;1181243
+[POI]
+Type=0x2f
+Label=WATERY MOUTH CAFE AND WINE BAR
+StreetDesc=71 High St, Blenheim/ 
+Data0=(-41.51203,173.95479)
+[END]
+
+;1181244
+[POI]
+Type=0x2f
+Label=MANHATTAN MILK BAR
+StreetDesc=30 High St, Blenheim/ 
+Data0=(-41.51191,173.95753)
+[END]
+
+;1181245
+[POI]
+Type=0x2f
+Label=THE CHOCOLATE SHOPPE
+StreetDesc=42 High St, Blenheim/ 
+Data0=(-41.51189,173.95713)
+[END]
+
+;1181246
+[POI]
+Type=0x2f
+Label=TIGER TAKEAWAYS
+StreetDesc=42 High St, Blenheim/ 
+Data0=(-41.51189,173.95713)
+[END]
+
+;1181247
+[POI]
+Type=0x2f
+Label=HIGH STREET DAIRY
+StreetDesc=149 High St, Blenheim/ 
+Data0=(-41.51187,173.95079)
+[END]
+
+;1181248
+[POI]
+Type=0x2f
+Label=CODFATHERS TAKEAWAY
+StreetDesc=149 High St, Blenheim/ 
+Data0=(-41.51187,173.95079)
+[END]
+
+;1181249
+[POI]
+Type=0x2f
+Label=CENTREPOINT CAFE
+StreetDesc=27 A Market St, Blenheim/ 
+Data0=(-41.51166,173.95692)
+[END]
+
+;1181250
+[POI]
+Type=0x2f
+Label=CAFE LE CUPP
+StreetDesc=30 Market St, Blenheim/ 
+Data0=(-41.51158,173.95638)
+[END]
+
+;1181251
+[POI]
+Type=0x2f
+Label=DUMPLING HOUSE LTD
+StreetDesc=14 Market St, Blenheim/ 
+Data0=(-41.51127,173.95674)
+[END]
+
+;1181252
+[POI]
+Type=0x2f
+Label=MR ASIAN
+StreetDesc=21 Alfred St, Blenheim/ 
+Data0=(-41.51121,173.95782)
+[END]
+
+;1181253
+[POI]
+Type=0x2f
+Label=TRAVEL STOP CYBER CAFE
+StreetDesc=1 Market St, Blenheim/ 
+Data0=(-41.51111,173.95736)
+[END]
+
+;1181254
+[POI]
+Type=0x2f
+Label=HEALTHY ROOTS SNACK BAR
+StreetDesc=1 Market St, Blenheim/ 
+Data0=(-41.51111,173.95736)
+[END]
+
+;1181255
+[POI]
+Type=0x2f
+Label=ROAST ON THE RUN LIMITED
+StreetDesc=7 Boyce St, Blenheim/ 
+Data0=(-41.51055,173.94090)
+[END]
+
+;1181256
+[POI]
+Type=0x2f
+Label=SPRINGLANDS TAKEAWAYS
+StreetDesc=11 Boyce St, Blenheim/ 
+Data0=(-41.51029,173.94062)
+[END]
+
+;1181257
+[POI]
+Type=0x2f
+Label=BENGE & CO GREEN GROCER
+StreetDesc=20 Grove Rd, Blenheim/ 
+Data0=(-41.50988,173.95894)
+[END]
+
+;1181258
+[POI]
+Type=0x2f
+Label=BRYDAN ON ROSE MOTOR LODGE
+StreetDesc=2 Rose St, Blenheim/ 
+Data0=(-41.50914,173.92788)
+[END]
+
+;1181259
+[POI]
+Type=0x2a
+Label=THYMES TABLE RESTAURANT
+StreetDesc=60 Nelson St, Blenheim/ 
+Data0=(-41.50855,173.94384)
+[END]
+
+;1181260
+[POI]
+Type=0x2f
+Label=CORK & KEG
+StreetDesc=33 Inkerman St, Renwick/ 
+Data0=(-41.50820,173.82375)
+[END]
+
+;1181261
+[POI]
+Type=0x2f
+Label=RENWICK MEAT MARKET
+StreetDesc=82 High St, Renwick/ 
+Data0=(-41.50814,173.82523)
+[END]
+
+;1181262
+[POI]
+Type=0x2f
+Label=PARISH OF WAIRAU VALLEY
+StreetDesc=54 High St, Renwick/ 
+Data0=(-41.50764,173.82833)
+[END]
+
+;1181263
+[POI]
+Type=0x2f
+Label=MAHI
+StreetDesc=9 Terrace Rd, Renwick/ 
+Data0=(-41.50662,173.81762)
+[END]
+
+;1181264
+[POI]
+Type=0x2f
+Label=GOLDEN WON TON TAKEAWAY
+StreetDesc=32 Grove Rd, Blenheim/ 
+Data0=(-41.50629,173.95991)
+[END]
+
+;1181265
+[POI]
+Type=0x2f
+Label=ALPINE 90 SOFTDRINKS
+StreetDesc=168 A Budge St, Blenheim/ 
+Data0=(-41.50551,173.97719)
+[END]
+
+;1181266
+[POI]
+Type=0x2f
+Label=SUBWAY GROVE ROAD LTD
+StreetDesc=56 Grove Rd, Blenheim/ 
+Data0=(-41.50438,173.96053)
+[END]
+
+;1181267
+[POI]
+Type=0x2f
+Label=NELSON MARLBOROUGH INSTITUTE OF TECHNOLOGY
+StreetDesc=85 Budge St, Blenheim/ 
+Data0=(-41.50379,173.96719)
+[END]
+
+;1181268
+[POI]
+Type=0x2a
+Label=ROCCO'S ITALIAN RESTAURANT
+StreetDesc=5 Dodson St, Blenheim/ 
+Data0=(-41.50179,173.95988)
+[END]
+
+;1181269
+[POI]
+Type=0x2f
+Label=YE OLDE MALTHOUSE LIMITED
+StreetDesc=1 Dodson St, Blenheim/ 
+Data0=(-41.50174,173.95964)
+[END]
+
+;1181270
+[POI]
+Type=0x2f
+Label=JONES ORCHARD
+StreetDesc=183 Old Renwick Rd, Rapaura/ 
+Data0=(-41.49970,173.92540)
+[END]
+
+;1181271
+[POI]
+Type=0x2f
+Label=LA VERANDA
+StreetDesc=56 Vintage Lane, Rapaura/ 
+Data0=(-41.49046,173.83576)
+[END]
+
+;1181272
+[POI]
+Type=0x2f
+Label=UNCLE JOE'S WALNUTS
+StreetDesc=39 Rowley Cres, Grovetown/ 
+Data0=(-41.48890,173.96126)
+[END]
+
+;1181273
+[POI]
+Type=0x2f
+Label=LAWNCOURT HARVEST
+StreetDesc=34 Old Renwick Rd, Rapaura/ 
+Data0=(-41.48842,173.94416)
+[END]
+
+;1181274
+[POI]
+Type=0x2f
+Label=WAIRAU RIVER WINE SHOP
+StreetDesc=11 Rapaura Rd, Rapaura/ 
+Data0=(-41.48600,173.81813)
+[END]
+
+;1181275
+[POI]
+Type=0x2f
+Label=MARLBOROUGH VINTNERS HOTEL
+StreetDesc=190 Rapaura Rd, Rapaura/ 
+Data0=(-41.48420,173.83934)
+[END]
+
+;1181276
+[POI]
+Type=0x2f
+Label=BLENHEIM FOOD PRODUCTS
+StreetDesc=187 Rapaura Rd, Rapaura/ 
+Data0=(-41.48291,173.83869)
+[END]
+
+;1181277
+[POI]
+Type=0x2f
+Label=SHELLY'S - FOOD FOR FRIENDS
+StreetDesc=197 Rapaura Rd, Rapaura/ 
+Data0=(-41.48330,173.83976)
+[END]
+
+;1181278
+[POI]
+Type=0x2f
+Label=LIVING CONCEPTS
+StreetDesc=24 Vickerman St, Grovetown/ 
+Data0=(-41.47724,173.96555)
+[END]
+
+;1181279
+[POI]
+Type=0x2a
+Label=HUNTERS RESTAURANT
+StreetDesc=603 Rapaura Rd, Rapaura/ 
+Data0=(-41.47554,173.88704)
+[END]
+
+;1181280
+[POI]
+Type=0x2f
+Label=SIMPLY MARLBOROUGH
+StreetDesc=43 Mills and Ford Rd East, Grovetown/ 
+Data0=(-41.47536,173.95747)
+[END]
+
+;1181281
+[POI]
+Type=0x2f
+Label=CREEKSIDE OLIVE & WINE ORCHARD
+StreetDesc=774 Rapaura Rd, Rapaura/ 
+Data0=(-41.47077,173.90675)
+[END]
+
+;1181282
+[POI]
+Type=0x2f
+Label=MAKANA CONFECTIONS
+StreetDesc=180 O'Dwyers Rd, Rapaura/ 
+Data0=(-41.46579,173.92596)
+[END]
+
+;1181283
+[POI]
+Type=0x2f
+Label=MARLBOROUGH NATURALLY
+StreetDesc=13 Selmes Rd, Rapaura/ 
+Data0=(-41.46337,173.92443)
+[END]
+
+;1181284
+[POI]
+Type=0x2f
+Label=TRADITIONAL COUNTRY PRESERVES
+StreetDesc=13 Selmes Rd, Rapaura/ 
+Data0=(-41.46337,173.92443)
+[END]
+
+;1181285
+[POI]
+Type=0x2f
+Label=PICTON E DAIRY
+StreetDesc=2 Nelson Sq, Picton/ 
+Data0=(-41.29535,174.00243)
+[END]
+
+;1181286
+[POI]
+Type=0x2f
+Label=THE QUEST CATERING COMPANY
+StreetDesc=22 Durham St, Picton/ 
+Data0=(-41.29532,173.99943)
+[END]
+
+;1181287
+[POI]
+Type=0x2f
+Label=MARIONS IN THE MALL
+StreetDesc=100 High St, Picton/ 
+Data0=(-41.29226,174.00703)
+[END]
+
+;1181288
+[POI]
+Type=0x2f
+Label=T & O TAKEAWAYS
+StreetDesc=81 High St, Picton/ 
+Data0=(-41.29156,174.00651)
+[END]
+
+;1181289
+[POI]
+Type=0x2f
+Label=PICTON RETURNED SERVICES ASSOCIATION INC
+StreetDesc=64 Wlg St, Picton/ 
+Data0=(-41.29139,174.00832)
+[END]
+
+;1181290
+[POI]
+Type=0x2f
+Label=PICTON PROVEDORING LTD
+StreetDesc=6 Kent St, Picton/ 
+Data0=(-41.29124,174.00071)
+[END]
+
+;1181291
+[POI]
+Type=0x2f
+Label=PLAZA INDIA BISTRO & TANDOOR
+StreetDesc=70 High St, Picton/ 
+Data0=(-41.29118,174.00705)
+[END]
+
+;1181292
+[POI]
+Type=0x2f
+Label=NGAMAHAU FISHING FRESH FISH
+StreetDesc=4 Kent St, Picton/ 
+Data0=(-41.29113,174.00062)
+[END]
+
+;1181293
+[POI]
+Type=0x2f
+Label=THAI PANDA
+StreetDesc=58 Akl St, Picton/ 
+Data0=(-41.29109,174.00586)
+[END]
+
+;1181294
+[POI]
+Type=0x2f
+Label=THE YACHT CLUB HOTEL PICTON
+StreetDesc=17 Waikawa Rd, Picton/ 
+Data0=(-41.29057,174.00825)
+[END]
+
+;1181295
+[POI]
+Type=0x2f
+Label=PICTON VILLAGE BAKERY LIMITED
+StreetDesc=46 Akl St, Picton/ 
+Data0=(-41.29049,174.00582)
+[END]
+
+;1181296
+[POI]
+Type=0x2f
+Label=KENTUCKY EATAWAY
+StreetDesc=52 High St, Picton/ 
+Data0=(-41.29038,174.00710)
+[END]
+
+;1181297
+[POI]
+Type=0x2f
+Label=MAHARAJA XPRESS
+StreetDesc=47 High St, Picton/ 
+Data0=(-41.29028,174.00654)
+[END]
+
+;1181298
+[POI]
+Type=0x2f
+Label=THE BARN CAFE
+StreetDesc=48 High St, Picton/ 
+Data0=(-41.29026,174.00710)
+[END]
+
+;1181299
+[POI]
+Type=0x2f
+Label=ESCAPE TO PICTON
+StreetDesc=33 Wlg St, Picton/ 
+Data0=(-41.29008,174.00786)
+[END]
+
+;1181300
+[POI]
+Type=0x2f
+Label=GUSTO
+StreetDesc=35 High St, Picton/ 
+Data0=(-41.28993,174.00655)
+[END]
+
+;1181301
+[POI]
+Type=0x2f
+Label=INDULGE
+StreetDesc=29 High St, Picton/ 
+Data0=(-41.28976,174.00656)
+[END]
+
+;1181302
+[POI]
+Type=0x2f
+Label=RUMBA CAFE & BAR
+StreetDesc=32 High St, Picton/ 
+Data0=(-41.28975,174.00711)
+[END]
+
+;1181303
+[POI]
+Type=0x2f
+Label=KIWI TAKEAWAYS - FISH 'N' CHIPS
+StreetDesc=21 Wlg St, Picton/ 
+Data0=(-41.28967,174.00788)
+[END]
+
+;1181304
+[POI]
+Type=0x2f
+Label=THE FLYING HAGGIS
+StreetDesc=27 High St, Picton/ 
+Data0=(-41.28962,174.00657)
+[END]
+
+;1181305
+[POI]
+Type=0x2f
+Label=LINKWATER COUNTRY INN
+StreetDesc=1162 Queen Charlotte Dr, Linkwater/ 
+Data0=(-41.28948,173.85707)
+[END]
+
+;1181306
+[POI]
+Type=0x2f
+Label=PUKEKOS
+StreetDesc=21 High St, Picton/ 
+Data0=(-41.28946,174.00656)
+[END]
+
+;1181307
+[POI]
+Type=0x2f
+Label=JAMES AND JULIE'S GORGEOUS GOURMET
+StreetDesc=9 High St, Picton/ 
+Data0=(-41.28912,174.00659)
+[END]
+
+;1181308
+[POI]
+Type=0x2f
+Label=LE CAFE
+StreetDesc=12 London Qy, Picton/ 
+Data0=(-41.28892,174.00758)
+[END]
+
+;1181309
+[POI]
+Type=0x2f
+Label=PICTON SUPERETTE
+StreetDesc=100 Waikawa Rd, Picton/ 
+Data0=(-41.28653,174.01729)
+[END]
+
+;1181310
+[POI]
+Type=0x2f
+Label=BAYROAD SEAFOODS
+StreetDesc=151 Waikawa Rd, Picton/ 
+Data0=(-41.28237,174.02137)
+[END]
+
+;1181311
+[POI]
+Type=0x2f
+Label=INLET BAKERY & CAFE
+StreetDesc=63 A Main Rd, Havelock/ 
+Data0=(-41.27950,173.76683)
+[END]
+
+;1181312
+[POI]
+Type=0x2f
+Label=HAVELOCK TOWN HALL
+StreetDesc=63 Main Rd, Havelock/ 
+Data0=(-41.27950,173.76683)
+[END]
+
+;1181313
+[POI]
+Type=0x2f
+Label=HEIDI'S TREATS CAFE & BISTRO
+StreetDesc=66 Main Rd, Havelock/ 
+Data0=(-41.27818,173.76692)
+[END]
+
+;1181314
+[POI]
+Type=0x2f
+Label=THE WAKAMARINAN CAFE DELI & CRAFTS
+StreetDesc=70 Main Rd, Havelock/ 
+Data0=(-41.27759,173.76659)
+[END]
+
+;1181315
+[POI]
+Type=0x2f
+Label=THE PUB WITH NO NAME
+StreetDesc=72 Main Rd, Havelock/ 
+Data0=(-41.27735,173.76641)
+[END]
+
+;1181316
+[POI]
+Type=0x2f
+Label=HOOK & SINKER
+StreetDesc=14 Ruataniwha Place, Okiwi Bay, Croisilles/ 
+Data0=(-41.11605,173.66466)
+[END]
+
+;1181324
+[POI]
+Type=0x2f
+Label=EAST COAST INN
+StreetDesc=7384 SH 1 Ward/ 
+Data0=(-41.83389,174.12691)
+[END]
+
+;1181325
+[POI]
+Type=0x2f
+Label=?THE HELMSMAN LIMITED
+StreetDesc=Seymour St, Blenheim/ 
+Data0=(-41.51573,173.95528)
+[END]
+
+;1181326
+[POI]
+Type=0x2a
+Label=?ARGOSY RESTAURANT/BAR/CAFE
+StreetDesc=Middle Renwick Rd Woodbourne/ 
+Data0=(-41.51082,173.89860)
+[END]
+
+;1181327
+[POI]
+Type=0x2f
+Label=?JIM FRASER CENTRE
+StreetDesc=Lansdowne St, Blenheim/ 
+Data0=(-41.50025,173.95622)
+[END]
+
+;1181328
+[POI]
+Type=0x2f
+Label=?DOLPHIN WATCH AND NATURE ECOTOURS
+StreetDesc=Wlg St, Picton/ 
+Data0=(-41.29299,174.00763)
+[END]
+
+;1181329
+[POI]
+Type=0x2f
+Label=?ATAWHAI CAFE
+StreetDesc=Lagoon Rd, Picton/ 
+Data0=(-41.28928,174.00065)
+[END]
+
+;1181330
+[POI]
+Type=0x2f
+Label=SNACK SHACK BURLEIGH
+StreetDesc=72 A New Renwick Rd, Blenheim/ 
+Data0=(-41.52912,173.93398)
+[END]
+
+;1181331
+[POI]
+Type=0x2f
+Label=?WATERLEA RACE COURSE
+StreetDesc=Old Renwick Rd, Blenheim/ 
+Data0=(-41.49897,173.93684)
+[END]
+
+;1181332
+[POI]
+Type=0x2f
+Label=LANGSWOOD - SALLY'S PANTRY
+StreetDesc=243 Boons Valley Rd, Picton/ 
+Data0=(-41.29381,174.04154)
+[END]
+
+;1181333
+[POI]
+Type=0x2f
+Label=?SLIP INN
+StreetDesc=Havelock Marina, Havelock/ 
+Data0=(-41.28039,173.76706)
+[END]
+
+;1181334
+[POI]
+Type=0x2f
+Label=?MOMORANGI BAY STORE
+StreetDesc=Momorangi Bay, Queen Charlotte Sound/ 
+Data0=(-41.27432,173.92461)
+[END]
+
+;1181335
+[POI]
+Type=0x2f
+Label=?LOCHMARA LODGE CAFE
+StreetDesc=Lochmara Bay, Queen Charlotte Sound/ 
+Data0=(-41.27073,173.95220)
+[END]
+
+;1181336
+[POI]
+Type=0x2f
+Label=?ECHO CAFE / BAR
+StreetDesc=Picton Harbour, Queen Charlotte Sound/ 
+Data0=(-41.18033,174.18617)
+[END]
+
+;1181337
+[POI]
+Type=0x2f
+Label=?THE GREEN CAFE
+StreetDesc=401 Anakiwa Rd, Queen Charlotte Sound/ 
+Data0=(-41.18033,174.18617)
+[END]
+
+;1181338
+[POI]
+Type=0x2a
+Label=?SPINNAKER RESTAURANT
+StreetDesc=Waikawa Marina Waikawa Bay, Queen Charlotte Sound/ 
+Data0=(-41.18033,174.18617)
+[END]
+
+;1181339
+[POI]
+Type=0x2f
+Label=?WAIKAWA BOATING CLUB INCORPORATED
+StreetDesc=Waikawa Marina Waikawa Bay, Queen Charlotte Sound/ 
+Data0=(-41.18033,174.18617)
+[END]
+
+;1181340
+[POI]
+Type=0x2f
+Label=?ENDEAVOUR RESORT & FISHING LODGE
+StreetDesc=Endeavour Inlet, Queen Charlotte Sound/ 
+Data0=(-41.08647,174.17725)
+[END]
+
+;1181341
+[POI]
+Type=0x2f
+Label=?WATERFALL BAY STORE
+StreetDesc=Waterfall Bay, Port Ligar, Pelorus Sound/ 
+Data0=(-40.95669,173.87702)
+[END]
+
+;1181342
+[POI]
+Type=0x2f
+Label=WAITATA BAY LODGE
+StreetDesc=1090 Te Towaka-Port Ligar Rd, Admiralty Bay/ 
+Data0=(-40.95763,173.91090)
+[END]
+
+;1181344
+[POI]
+Type=0x2f
+Label=?PELORUS BRIDGE CAFE
+StreetDesc=SH 6, Rai/ 
+Data0=(-41.23887,173.57957)
+[END]
+
+;1181364
+[POI]
+Type=0x2e
+Label=WANAKA FINE WINES
+StreetDesc=19 Helwick St, Wanaka/ Liquor, beer, wine, spirits
+Phone=+6434437539
+Data0=(-44.69557,169.13515)
 [END]
 

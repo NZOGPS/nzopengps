@@ -205855,3 +205855,13 @@ Phone=+6434437539
 Data0=(-44.69557,169.13515)
 [END]
 
+;1181377
+[POI]
+Type=0x2e09
+Label=TARGET FURNITURE CHRISTCHURCH
+StreetDesc=455 Blenheim Rd, Chc 8443/ Furniture, Lounge, Dining, Bookcases, Bedroom, Office
+Phone=+6433433204
+zip=Mon - Fri 9:00am - 5:00pm Sat - Sun 10:0
+Data0=(-43.54010,172.56781)
+[END]
+

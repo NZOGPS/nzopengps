@@ -204688,7 +204688,7 @@ Data0=(-41.53294,174.01104)
 
 ;1181192
 [POI]
-Type=0x2f
+Type=0x2a07
 Label=JANLEYS TAKEAWAYS
 StreetDesc=1 Moran St, Blenheim/ 
 Data0=(-41.53208,173.96141)
@@ -204696,7 +204696,7 @@ Data0=(-41.53208,173.96141)
 
 ;1181193
 [POI]
-Type=0x2f
+Type=0x2a07
 Label=RIVERLANDS SNACK SHACK
 StreetDesc=21 Vernon St Riverlands/ 
 Data0=(-41.53053,174.01221)
@@ -204720,7 +204720,7 @@ Data0=(-41.52967,174.00919)
 
 ;1181196
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=FAB FOODS CAFE & CATERING
 StreetDesc=74 A Cleghorn St, Blenheim/ 
 Data0=(-41.53023,173.95559)
@@ -204736,7 +204736,7 @@ Data0=(-41.52851,173.83738)
 
 ;1181198
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=ESPRESSO GARDEN CAFE
 StreetDesc=186 Alabama Rd, Blenheim/ 
 Data0=(-41.52782,173.96602)
@@ -204744,7 +204744,7 @@ Data0=(-41.52782,173.96602)
 
 ;1181199
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=BLENHEIM BOWLING CLUB INCORPORATED
 StreetDesc=65 E Weld St, Blenheim/ 
 Data0=(-41.52671,173.95492)
@@ -204768,7 +204768,7 @@ Data0=(-41.52564,173.94557)
 
 ;1181202
 [POI]
-Type=0x2f
+Type=0x2e
 Label=THE BUTCHER SHOP
 StreetDesc=385 Alabama Rd Riverlands/ 
 Data0=(-41.52287,173.98201)
@@ -204776,7 +204776,7 @@ Data0=(-41.52287,173.98201)
 
 ;1181203
 [POI]
-Type=0x2f
+Type=0x2e
 Label=TIP TOP STORE
 StreetDesc=82 Muller Rd, Blenheim/ 
 Data0=(-41.52261,173.95711)
@@ -204824,7 +204824,7 @@ Data0=(-41.51753,173.95725)
 
 ;1181209
 [POI]
-Type=0x2a
+Type=0x2a02
 Label=BAMBOO GARDEN RESTAURANT
 StreetDesc=31 Maxwell Rd, Blenheim/ 
 Data0=(-41.51607,173.95414)
@@ -204832,7 +204832,7 @@ Data0=(-41.51607,173.95414)
 
 ;1181210
 [POI]
-Type=0x2f
+Type=0x2a02
 Label=SAKIM SUSHI
 StreetDesc=31 Scott St, Blenheim/ 
 Data0=(-41.51534,173.95700)
@@ -204880,7 +204880,7 @@ Data0=(-41.51491,173.95579)
 
 ;1181216
 [POI]
-Type=0x2a
+Type=0x2a02
 Label=VILLAGE INDIA RESTAURANT & BAR
 StreetDesc=17 B Maxwell Rd, Blenheim/ 
 Data0=(-41.51491,173.95579)
@@ -204888,7 +204888,7 @@ Data0=(-41.51491,173.95579)
 
 ;1181217
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=SECRET GARDEN CAFE WINE BAR EATERY
 StreetDesc=30 Maxwell Rd, Blenheim/ 
 Data0=(-41.51487,173.95515)
@@ -204896,7 +204896,7 @@ Data0=(-41.51487,173.95515)
 
 ;1181218
 [POI]
-Type=0x2f
+Type=0x2d02
 Label=SCOTCH WINE BAR
 StreetDesc=4 George St, Blenheim/ 
 Data0=(-41.51435,173.95585)
@@ -204912,7 +204912,7 @@ Data0=(-41.51431,173.95604)
 
 ;1181220
 [POI]
-Type=0x2f
+Type=0x2e
 Label=THE VILLAGE BUTCHER
 StreetDesc=18 Maxwell Rd, Blenheim/ 
 Data0=(-41.51422,173.95618)
@@ -204928,7 +204928,7 @@ Data0=(-41.51410,173.95574)
 
 ;1181222
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=CHANTILLY COFFEE LOUNGE
 StreetDesc=77 Queen St, Blenheim/ 
 Data0=(-41.51462,173.95568)
@@ -204952,7 +204952,7 @@ Data0=(-41.51363,173.95762)
 
 ;1181225
 [POI]
-Type=0x2a
+Type=0x2a07
 Label=MCDONALDS FAMILY RESTAURANT
 StreetDesc=24 Main St, Blenheim/ 
 Data0=(-41.51358,173.96188)
@@ -204984,7 +204984,7 @@ Data0=(-41.51331,173.95579)
 
 ;1181229
 [POI]
-Type=0x2f
+Type=0x2d02
 Label=KOKOMO BEACH BAR
 StreetDesc=76 Market St, Blenheim/ 
 Data0=(-41.51330,173.95650)
@@ -204992,7 +204992,7 @@ Data0=(-41.51330,173.95650)
 
 ;1181230
 [POI]
-Type=0x2f
+Type=0x2d02
 Label=SUTHERLAND ARMS
 StreetDesc=74 Main St, Blenheim/ 
 Data0=(-41.51329,173.96806)
@@ -205016,7 +205016,7 @@ Data0=(-41.51306,173.95537)
 
 ;1181233
 [POI]
-Type=0x2f
+Type=0x2a
 Label=THE STEAK SHED
 StreetDesc=7 Charles St, Blenheim/ 
 Data0=(-41.51288,173.95617)
@@ -205096,7 +205096,7 @@ Data0=(-41.51208,173.95717)
 
 ;1181243
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=WATERY MOUTH CAFE AND WINE BAR
 StreetDesc=71 High St, Blenheim/ 
 Data0=(-41.51203,173.95479)
@@ -205104,7 +205104,7 @@ Data0=(-41.51203,173.95479)
 
 ;1181244
 [POI]
-Type=0x2f
+Type=0x2a
 Label=MANHATTAN MILK BAR
 StreetDesc=30 High St, Blenheim/ 
 Data0=(-41.51191,173.95753)
@@ -205112,7 +205112,7 @@ Data0=(-41.51191,173.95753)
 
 ;1181245
 [POI]
-Type=0x2f
+Type=0x2e
 Label=THE CHOCOLATE SHOPPE
 StreetDesc=42 High St, Blenheim/ 
 Data0=(-41.51189,173.95713)
@@ -205120,7 +205120,7 @@ Data0=(-41.51189,173.95713)
 
 ;1181246
 [POI]
-Type=0x2f
+Type=0x2a07
 Label=TIGER TAKEAWAYS
 StreetDesc=42 High St, Blenheim/ 
 Data0=(-41.51189,173.95713)
@@ -205128,7 +205128,7 @@ Data0=(-41.51189,173.95713)
 
 ;1181247
 [POI]
-Type=0x2f
+Type=0x2e
 Label=HIGH STREET DAIRY
 StreetDesc=149 High St, Blenheim/ 
 Data0=(-41.51187,173.95079)
@@ -205136,7 +205136,7 @@ Data0=(-41.51187,173.95079)
 
 ;1181248
 [POI]
-Type=0x2f
+Type=0x2a07
 Label=CODFATHERS TAKEAWAY
 StreetDesc=149 High St, Blenheim/ 
 Data0=(-41.51187,173.95079)
@@ -205144,7 +205144,7 @@ Data0=(-41.51187,173.95079)
 
 ;1181249
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=CENTREPOINT CAFE
 StreetDesc=27 A Market St, Blenheim/ 
 Data0=(-41.51166,173.95692)
@@ -205152,7 +205152,7 @@ Data0=(-41.51166,173.95692)
 
 ;1181250
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=CAFE LE CUPP
 StreetDesc=30 Market St, Blenheim/ 
 Data0=(-41.51158,173.95638)
@@ -205160,7 +205160,7 @@ Data0=(-41.51158,173.95638)
 
 ;1181251
 [POI]
-Type=0x2f
+Type=0x2a
 Label=DUMPLING HOUSE LTD
 StreetDesc=14 Market St, Blenheim/ 
 Data0=(-41.51127,173.95674)
@@ -205168,7 +205168,7 @@ Data0=(-41.51127,173.95674)
 
 ;1181252
 [POI]
-Type=0x2f
+Type=0x2a02
 Label=MR ASIAN
 StreetDesc=21 Alfred St, Blenheim/ 
 Data0=(-41.51121,173.95782)
@@ -205176,7 +205176,7 @@ Data0=(-41.51121,173.95782)
 
 ;1181253
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=TRAVEL STOP CYBER CAFE
 StreetDesc=1 Market St, Blenheim/ 
 Data0=(-41.51111,173.95736)
@@ -205184,7 +205184,7 @@ Data0=(-41.51111,173.95736)
 
 ;1181254
 [POI]
-Type=0x2f
+Type=0x2a
 Label=HEALTHY ROOTS SNACK BAR
 StreetDesc=1 Market St, Blenheim/ 
 Data0=(-41.51111,173.95736)
@@ -205192,7 +205192,7 @@ Data0=(-41.51111,173.95736)
 
 ;1181255
 [POI]
-Type=0x2f
+Type=0x2a07
 Label=ROAST ON THE RUN LIMITED
 StreetDesc=7 Boyce St, Blenheim/ 
 Data0=(-41.51055,173.94090)
@@ -205200,7 +205200,7 @@ Data0=(-41.51055,173.94090)
 
 ;1181256
 [POI]
-Type=0x2f
+Type=0x2a07
 Label=SPRINGLANDS TAKEAWAYS
 StreetDesc=11 Boyce St, Blenheim/ 
 Data0=(-41.51029,173.94062)
@@ -205208,7 +205208,7 @@ Data0=(-41.51029,173.94062)
 
 ;1181257
 [POI]
-Type=0x2f
+Type=0x2e
 Label=BENGE & CO GREEN GROCER
 StreetDesc=20 Grove Rd, Blenheim/ 
 Data0=(-41.50988,173.95894)

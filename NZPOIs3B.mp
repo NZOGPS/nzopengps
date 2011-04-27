@@ -71424,9 +71424,9 @@ Data0=(-45.60030,167.58131)
 ;1116746
 [POI]
 Type=0x2f
-Label=?BAIKIE HUT
+Label=BAIKIE HUT
 StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna/ DOC Backcountry hut
-Data0=(-44.10814,170.06448)
+Data0=(-44.10819,170.06457)
 [END]
 
 ;1116747
@@ -74128,7 +74128,7 @@ Data0=(-42.42702,172.34869)
 ;1117165
 [POI]
 Type=0x2f
-Label=?LUXMORE HUT
+Label=LUXMORE HUT
 StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
 Data0=(-45.38526,167.61915)
 [END]
@@ -203637,7 +203637,7 @@ Data0=(-45.50771,170.11874)
 [POI]
 Type=0x2f
 Label=PROMAX COATING SYSTEMS
-StreetDesc=5 Largo Ave, South Dud, Dud, 9012/ roof-restoration, waterproofing, deck-shield,
+StreetDesc=5 Largo Ave, South Dud, Dud, 9012/ Waterproof coatings for leaky roofs. Roof res
 Phone=+6434556607
 Data0=(-45.89636,170.49842)
 [END]
@@ -205216,7 +205216,7 @@ Data0=(-41.50988,173.95894)
 
 ;1181258
 [POI]
-Type=0x2f
+Type=0x2b00
 Label=BRYDAN ON ROSE MOTOR LODGE
 StreetDesc=2 Rose St, Blenheim/ 
 Data0=(-41.50914,173.92788)
@@ -205232,7 +205232,7 @@ Data0=(-41.50855,173.94384)
 
 ;1181260
 [POI]
-Type=0x2f
+Type=0x2d02
 Label=CORK & KEG
 StreetDesc=33 Inkerman St, Renwick/ 
 Data0=(-41.50820,173.82375)
@@ -205240,7 +205240,7 @@ Data0=(-41.50820,173.82375)
 
 ;1181261
 [POI]
-Type=0x2f
+Type=0x2e
 Label=RENWICK MEAT MARKET
 StreetDesc=82 High St, Renwick/ 
 Data0=(-41.50814,173.82523)
@@ -205248,7 +205248,7 @@ Data0=(-41.50814,173.82523)
 
 ;1181262
 [POI]
-Type=0x2f
+Type=0x6404
 Label=PARISH OF WAIRAU VALLEY
 StreetDesc=54 High St, Renwick/ 
 Data0=(-41.50764,173.82833)
@@ -205264,7 +205264,7 @@ Data0=(-41.50662,173.81762)
 
 ;1181264
 [POI]
-Type=0x2f
+Type=0x2a07
 Label=GOLDEN WON TON TAKEAWAY
 StreetDesc=32 Grove Rd, Blenheim/ 
 Data0=(-41.50629,173.95991)
@@ -205280,7 +205280,7 @@ Data0=(-41.50551,173.97719)
 
 ;1181266
 [POI]
-Type=0x2f
+Type=0x2a07
 Label=SUBWAY GROVE ROAD LTD
 StreetDesc=56 Grove Rd, Blenheim/ 
 Data0=(-41.50438,173.96053)
@@ -205288,7 +205288,7 @@ Data0=(-41.50438,173.96053)
 
 ;1181267
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=NELSON MARLBOROUGH INSTITUTE OF TECHNOLOGY
 StreetDesc=85 Budge St, Blenheim/ 
 Data0=(-41.50379,173.96719)
@@ -205296,7 +205296,7 @@ Data0=(-41.50379,173.96719)
 
 ;1181268
 [POI]
-Type=0x2a
+Type=0x2a08
 Label=ROCCO'S ITALIAN RESTAURANT
 StreetDesc=5 Dodson St, Blenheim/ 
 Data0=(-41.50179,173.95988)
@@ -205344,7 +205344,7 @@ Data0=(-41.48842,173.94416)
 
 ;1181274
 [POI]
-Type=0x2f
+Type=0x2e
 Label=WAIRAU RIVER WINE SHOP
 StreetDesc=11 Rapaura Rd, Rapaura/ 
 Data0=(-41.48600,173.81813)
@@ -205352,7 +205352,7 @@ Data0=(-41.48600,173.81813)
 
 ;1181275
 [POI]
-Type=0x2f
+Type=0x2b01
 Label=MARLBOROUGH VINTNERS HOTEL
 StreetDesc=190 Rapaura Rd, Rapaura/ 
 Data0=(-41.48420,173.83934)
@@ -205368,7 +205368,7 @@ Data0=(-41.48291,173.83869)
 
 ;1181277
 [POI]
-Type=0x2f
+Type=0x2a
 Label=SHELLY'S - FOOD FOR FRIENDS
 StreetDesc=197 Rapaura Rd, Rapaura/ 
 Data0=(-41.48330,173.83976)
@@ -205376,7 +205376,7 @@ Data0=(-41.48330,173.83976)
 
 ;1181278
 [POI]
-Type=0x2f
+Type=0x2e
 Label=LIVING CONCEPTS
 StreetDesc=24 Vickerman St, Grovetown/ 
 Data0=(-41.47724,173.96555)
@@ -205400,7 +205400,7 @@ Data0=(-41.47536,173.95747)
 
 ;1181281
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=CREEKSIDE OLIVE & WINE ORCHARD
 StreetDesc=774 Rapaura Rd, Rapaura/ 
 Data0=(-41.47077,173.90675)
@@ -205408,7 +205408,7 @@ Data0=(-41.47077,173.90675)
 
 ;1181282
 [POI]
-Type=0x2f
+Type=0x2e
 Label=MAKANA CONFECTIONS
 StreetDesc=180 O'Dwyers Rd, Rapaura/ 
 Data0=(-41.46579,173.92596)
@@ -205424,7 +205424,7 @@ Data0=(-41.46337,173.92443)
 
 ;1181284
 [POI]
-Type=0x2f
+Type=0x2e
 Label=TRADITIONAL COUNTRY PRESERVES
 StreetDesc=13 Selmes Rd, Rapaura/ 
 Data0=(-41.46337,173.92443)
@@ -205432,7 +205432,7 @@ Data0=(-41.46337,173.92443)
 
 ;1181285
 [POI]
-Type=0x2f
+Type=0x2e
 Label=PICTON E DAIRY
 StreetDesc=2 Nelson Sq, Picton/ 
 Data0=(-41.29535,174.00243)
@@ -205448,7 +205448,7 @@ Data0=(-41.29532,173.99943)
 
 ;1181287
 [POI]
-Type=0x2f
+Type=0x2e
 Label=MARIONS IN THE MALL
 StreetDesc=100 High St, Picton/ 
 Data0=(-41.29226,174.00703)
@@ -205456,7 +205456,7 @@ Data0=(-41.29226,174.00703)
 
 ;1181288
 [POI]
-Type=0x2f
+Type=0x2a07
 Label=T & O TAKEAWAYS
 StreetDesc=81 High St, Picton/ 
 Data0=(-41.29156,174.00651)
@@ -205480,7 +205480,7 @@ Data0=(-41.29124,174.00071)
 
 ;1181291
 [POI]
-Type=0x2f
+Type=0x2a02
 Label=PLAZA INDIA BISTRO & TANDOOR
 StreetDesc=70 High St, Picton/ 
 Data0=(-41.29118,174.00705)
@@ -205488,7 +205488,7 @@ Data0=(-41.29118,174.00705)
 
 ;1181292
 [POI]
-Type=0x2f
+Type=0x2e
 Label=NGAMAHAU FISHING FRESH FISH
 StreetDesc=4 Kent St, Picton/ 
 Data0=(-41.29113,174.00062)
@@ -205496,7 +205496,7 @@ Data0=(-41.29113,174.00062)
 
 ;1181293
 [POI]
-Type=0x2f
+Type=0x2a02
 Label=THAI PANDA
 StreetDesc=58 Akl St, Picton/ 
 Data0=(-41.29109,174.00586)
@@ -205504,7 +205504,7 @@ Data0=(-41.29109,174.00586)
 
 ;1181294
 [POI]
-Type=0x2f
+Type=0x2b01
 Label=THE YACHT CLUB HOTEL PICTON
 StreetDesc=17 Waikawa Rd, Picton/ 
 Data0=(-41.29057,174.00825)
@@ -205512,7 +205512,7 @@ Data0=(-41.29057,174.00825)
 
 ;1181295
 [POI]
-Type=0x2f
+Type=0x2e
 Label=PICTON VILLAGE BAKERY LIMITED
 StreetDesc=46 Akl St, Picton/ 
 Data0=(-41.29049,174.00582)
@@ -205520,7 +205520,7 @@ Data0=(-41.29049,174.00582)
 
 ;1181296
 [POI]
-Type=0x2f
+Type=0x2a07
 Label=KENTUCKY EATAWAY
 StreetDesc=52 High St, Picton/ 
 Data0=(-41.29038,174.00710)
@@ -205528,7 +205528,7 @@ Data0=(-41.29038,174.00710)
 
 ;1181297
 [POI]
-Type=0x2f
+Type=0x2a02
 Label=MAHARAJA XPRESS
 StreetDesc=47 High St, Picton/ 
 Data0=(-41.29028,174.00654)
@@ -205536,7 +205536,7 @@ Data0=(-41.29028,174.00654)
 
 ;1181298
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=THE BARN CAFE
 StreetDesc=48 High St, Picton/ 
 Data0=(-41.29026,174.00710)
@@ -205552,7 +205552,7 @@ Data0=(-41.29008,174.00786)
 
 ;1181300
 [POI]
-Type=0x2f
+Type=0x2a
 Label=GUSTO
 StreetDesc=35 High St, Picton/ 
 Data0=(-41.28993,174.00655)
@@ -205560,7 +205560,7 @@ Data0=(-41.28993,174.00655)
 
 ;1181301
 [POI]
-Type=0x2f
+Type=0x2a
 Label=INDULGE
 StreetDesc=29 High St, Picton/ 
 Data0=(-41.28976,174.00656)
@@ -205568,7 +205568,7 @@ Data0=(-41.28976,174.00656)
 
 ;1181302
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=RUMBA CAFE & BAR
 StreetDesc=32 High St, Picton/ 
 Data0=(-41.28975,174.00711)
@@ -205576,7 +205576,7 @@ Data0=(-41.28975,174.00711)
 
 ;1181303
 [POI]
-Type=0x2f
+Type=0x2a07
 Label=KIWI TAKEAWAYS - FISH 'N' CHIPS
 StreetDesc=21 Wlg St, Picton/ 
 Data0=(-41.28967,174.00788)
@@ -205616,7 +205616,7 @@ Data0=(-41.28912,174.00659)
 
 ;1181308
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=LE CAFE
 StreetDesc=12 London Qy, Picton/ 
 Data0=(-41.28892,174.00758)
@@ -205624,7 +205624,7 @@ Data0=(-41.28892,174.00758)
 
 ;1181309
 [POI]
-Type=0x2f
+Type=0x2e02
 Label=PICTON SUPERETTE
 StreetDesc=100 Waikawa Rd, Picton/ 
 Data0=(-41.28653,174.01729)
@@ -205632,7 +205632,7 @@ Data0=(-41.28653,174.01729)
 
 ;1181310
 [POI]
-Type=0x2f
+Type=0x2e
 Label=BAYROAD SEAFOODS
 StreetDesc=151 Waikawa Rd, Picton/ 
 Data0=(-41.28237,174.02137)
@@ -205640,7 +205640,7 @@ Data0=(-41.28237,174.02137)
 
 ;1181311
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=INLET BAKERY & CAFE
 StreetDesc=63 A Main Rd, Havelock/ 
 Data0=(-41.27950,173.76683)
@@ -205656,7 +205656,7 @@ Data0=(-41.27950,173.76683)
 
 ;1181313
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=HEIDI'S TREATS CAFE & BISTRO
 StreetDesc=66 Main Rd, Havelock/ 
 Data0=(-41.27818,173.76692)
@@ -205664,7 +205664,7 @@ Data0=(-41.27818,173.76692)
 
 ;1181314
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=THE WAKAMARINAN CAFE DELI & CRAFTS
 StreetDesc=70 Main Rd, Havelock/ 
 Data0=(-41.27759,173.76659)
@@ -205672,7 +205672,7 @@ Data0=(-41.27759,173.76659)
 
 ;1181315
 [POI]
-Type=0x2f
+Type=0x2d02
 Label=THE PUB WITH NO NAME
 StreetDesc=72 Main Rd, Havelock/ 
 Data0=(-41.27735,173.76641)
@@ -205688,7 +205688,7 @@ Data0=(-41.11605,173.66466)
 
 ;1181324
 [POI]
-Type=0x2f
+Type=0x2d02
 Label=EAST COAST INN
 StreetDesc=7384 SH 1 Ward/ 
 Data0=(-41.83389,174.12691)
@@ -205838,12 +205838,28 @@ StreetDesc=1090 Te Towaka-Port Ligar Rd, Admiralty Bay/
 Data0=(-40.95763,173.91090)
 [END]
 
+;1181343
+[POI]
+Type=0x2f
+Label=?FRENCH PASS SERVICES 1993
+StreetDesc=Croisilles-French Pass Rd, Current Basin/ 
+Data0=(-40.92492,173.83613)
+[END]
+
 ;1181344
 [POI]
 Type=0x2f
 Label=?PELORUS BRIDGE CAFE
 StreetDesc=SH 6, Rai/ 
 Data0=(-41.23887,173.57957)
+[END]
+
+;1181345
+[POI]
+Type=0x2f
+Label=?ST OMER SHOP
+StreetDesc=52 St Omer Rd, Kenepuru Sound/ 
+Data0=(-41.18179,173.97374)
 [END]
 
 ;1181364
@@ -205863,5 +205879,15 @@ StreetDesc=455 Blenheim Rd, Chc 8443/ Furniture, Lounge, Dining, Bookcases, Bedr
 Phone=+6433433204
 zip=Mon - Fri 9:00am - 5:00pm Sat - Sun 10:0
 Data0=(-43.54010,172.56781)
+[END]
+
+;1181382
+[POI]
+Type=0x2f
+Label=SIMS & BLUE PAINTERS & DECORATORS
+StreetDesc=23 Braemar St, South Dud, Dud/ For paint and paintwork of exceptional quality ou
+Phone=+6434550488
+zip=8.00am - 5.30pm Monday-Friday
+Data0=(-45.89362,170.50186)
 [END]
 

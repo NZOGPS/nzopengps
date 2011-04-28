@@ -37055,10 +37055,10 @@ Data0=(-41.31297,173.23312)
 ;1097383
 [POI]
 Type=0x2e
-Label=VISIQUE RICCARTON EYECARE OPTOMETRISTS
-StreetDesc=128 Riccarton Rd, Riccarton/ Visique Optometrist, eye exam, eyewear
+Label=JULIA SAULSBURY VISION CARE
+StreetDesc=128 Riccarton Rd, Riccarton, Chc/ Optometrist, eye exam, eyewear
 Phone=+6433480008
-Data0=(-43.52977,172.59815)
+Data0=(-43.52975,172.59817)
 [END]
 
 ;1097413
@@ -70599,7 +70599,7 @@ Data0=(-45.23202,167.81177)
 Type=0x2b03
 Label=KAWATIRI CAMPSITE (DOC)
 StreetDesc=Kawatiri Historic Reserve, Nelson Lakes/ DOC conservation campsite. Accommodatio
-Data0=(-41.69025,172.61681)
+Data0=(-41.69400,172.61753)
 [END]
 
 ;1116569
@@ -71017,7 +71017,7 @@ Data0=(-44.84268,168.68112)
 Type=0x2b03
 Label=SLAB HUT CREEK CAMPING AREA (DOC)
 StreetDesc=Slab Hut Pakihi Ecological Area, Greymouth/ DOC conservation campsite. Accommoda
-Data0=(-42.16678,171.74459)
+Data0=(-42.15646,171.79243)
 [END]
 
 ;1116657
@@ -71041,7 +71041,7 @@ Data0=(-44.86582,169.79997)
 Type=0x2b03
 Label=SYLVAN CAMPSITE (DOC)
 StreetDesc=Routeburn Rd, Mount Aspiring Ntl Park, Wakatipu/ DOC conservation campsite. Acco
-Data0=(-44.72617,168.31364)
+Data0=(-44.73092,168.31035)
 [END]
 
 ;1116663
@@ -71114,7 +71114,7 @@ Data0=(-44.00374,171.15553)
 Type=0x2b03
 Label=WAIMARU CAMPSITE (DOC)
 StreetDesc=Waimaru Recreation Reserve, Sounds/ DOC conservation campsite. Accommodation, ca
-Data0=(-41.08061,174.03187)
+Data0=(-41.07070,174.02473)
 [END]
 
 ;1116688
@@ -71816,9 +71816,9 @@ Data0=(-40.85063,172.44753)
 ;1116803
 [POI]
 Type=0x2f
-Label=BROWNING HUT
-StreetDesc=Mount Richmond Forest Park, Motueka/ DOC Backcountry hut
-Data0=(-41.41357,173.27673)
+Label=?BROWNING HUT
+StreetDesc=Mount Richmond Forest Park, Motueka - Nelson/Tasman/ DOC Backcountry hut
+Data0=(-41.41397,173.27703)
 [END]
 
 ;1116804
@@ -71929,7 +71929,7 @@ Data0=(-42.71087,171.95207)
 [POI]
 Type=0x2f
 Label=CAMERON HUT
-StreetDesc=Rangitata/Rakaia Conservation Area, Raukapuka/ DOC Backcountry hut
+StreetDesc=Rangitata/Rakaia Conservation Area, Raukapuka - South Island > Canterbury > Mid 
 Data0=(-43.36704,171.01802)
 [END]
 
@@ -71977,7 +71977,7 @@ Data0=(-42.32662,172.42964)
 [POI]
 Type=0x2f
 Label=?CANYON CREEK BIVVY
-StreetDesc=Rakaia Forest Conservation Area, Raukapuka/ DOC Backcountry hut
+StreetDesc=Rakaia Forest Conservation Area, Raukapuka - South Island > Canterbury > Mid & S
 Data0=(-43.10791,171.15849)
 [END]
 
@@ -78572,9 +78572,9 @@ Data0=(-43.51655,172.57279)
 [POI]
 Type=0x2d02
 Label=KHMER SATAY NOODLE HOUSE RICCARTON
-StreetDesc=128 Riccarton Rd, Riccarton, Chc/ Noodle bar, Asian food
+StreetDesc=128 Riccarton Rd, Riccarton, Chc/ Restaurant, noodle bar, Asian food
 Phone=+6433415171
-Data0=(-43.52977,172.59815)
+Data0=(-43.52975,172.59824)
 [END]
 
 ;1118563
@@ -129462,9 +129462,9 @@ Data0=(-46.43735,168.35629)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=Kew Hospital Outpatients East End Invercargill/ Telecom, payphone, public phone 
+StreetDesc=Kew Hospital, Outpatients East End, Invercargill/ Telecom, payphone, public phon
 Phone=+6432145389
-Data0=(-46.43734,168.35593)
+Data0=(-46.43745,168.35849)
 [END]
 
 ;1141651
@@ -129827,15 +129827,6 @@ Phone=+6432497160
 Data0=(-45.41342,167.70748)
 [END]
 
-;1141691
-[POI]
-Type=0x2f15
-Label=PAYPHONE
-StreetDesc=1 Te Anau Rd Lakeview Holiday Park Te Anau/ Telecom, payphone, public phone box
-Phone=+6432497164
-Data0=(-45.42418,167.72077)
-[END]
-
 ;1141692
 [POI]
 Type=0x2f15
@@ -129867,27 +129858,9 @@ Data0=(-44.67610,167.93435)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=Milford Sound Wharf SHW 94 Visitors Ctr Milford Sound/ Telecom, payphone, public
+StreetDesc=Milford Sound Wharf, Visitors Ctr, Milford Sound/ Telecom, payphone, public phon
 Phone=+6432497908
-Data0=(-44.66713,167.92800)
-[END]
-
-;1141696
-[POI]
-Type=0x2f15
-Label=PAYPHONE
-StreetDesc=Milford Sound Wharf SHW 94 Visitors Ctr Milford Sound/ Telecom, payphone, public
-Phone=+6432497915
-Data0=(-44.66709,167.92844)
-[END]
-
-;1141697
-[POI]
-Type=0x2f15
-Label=PAYPHONE
-StreetDesc=Milford Rd O/S Shark in the Bar Milford Sound/ Telecom, payphone, public phone b
-Phone=+6432498086
-Data0=(-44.67169,167.93029)
+Data0=(-44.66819,167.92691)
 [END]
 
 ;1141698
@@ -130659,9 +130632,9 @@ Data0=(-43.60387,172.72184)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=36 London St O/S Buffalo Lodge Lyttelton/ Telecom, payphone, public phone box
+StreetDesc=36 London St, Lyttelton/ Telecom, payphone, public phone box
 Phone=+6433287380
-Data0=(-43.60253,172.72096)
+Data0=(-43.60238,172.72107)
 [END]
 
 ;1141785
@@ -130671,15 +130644,6 @@ Label=PAYPHONE
 StreetDesc=91 Norwich Qy Lyttelton Carenderia Lyttleton/ Telecom, payphone, public phone bo
 Phone=+6433288163
 Data0=(-43.60351,172.72022)
-[END]
-
-;1141786
-[POI]
-Type=0x2f15
-Label=PAYPHONE
-StreetDesc=36 London St O/S Buffalo Lodge Lyttelton/ Telecom, payphone, public phone box
-Phone=+6433288464
-Data0=(-43.60283,172.72192)
 [END]
 
 ;1141787
@@ -131213,33 +131177,6 @@ Phone=+6433528596
 Data0=(-43.49447,172.60867)
 [END]
 
-;1141846
-[POI]
-Type=0x2f15
-Label=PAYPHONE
-StreetDesc=204 Main North Rd St Bedes College O/S Grimes Hall Redwood Chc/ Telecom, payphon
-Phone=+6433529214
-Data0=(-43.48403,172.61977)
-[END]
-
-;1141847
-[POI]
-Type=0x2f15
-Label=PAYPHONE
-StreetDesc=39 Meadow St (Cranford St end) Meadow Park Top10 Holiday Park Papanui Chc/ Telec
-Phone=+6433529350
-Data0=(-43.49082,172.61815)
-[END]
-
-;1141848
-[POI]
-Type=0x2f15
-Label=PAYPHONE
-StreetDesc=39 Meadow St (Cranford St end) Meadow Park Top10 Holiday Park Papanui Chc/ Telec
-Phone=+6433542009
-Data0=(-43.49074,172.61850)
-[END]
-
 ;1141849
 [POI]
 Type=0x2f15
@@ -131454,15 +131391,6 @@ Label=PAYPHONE
 StreetDesc=Withells Rd O/S Avonhead Mall Avonhead Chc/ Telecom, payphone, public phone box
 Phone=+6433588017
 Data0=(-43.51048,172.55650)
-[END]
-
-;1141874
-[POI]
-Type=0x2f15
-Label=PAYPHONE
-StreetDesc=ChCh Airport Domestic Baggage Claim Chc/ Telecom, payphone, public phone box
-Phone=+6433589607
-Data0=(-43.48902,172.53842)
 [END]
 
 ;1141875
@@ -133157,15 +133085,6 @@ Phone=+6434427246
 Data0=(-45.02840,168.66168)
 [END]
 
-;1142064
-[POI]
-Type=0x2f15
-Label=PAYPHONE
-StreetDesc=Remarkables Rd Remarkables Ski Field I/S Main Doors Frankton Queenstown/ Telecom
-Phone=+6434427323
-Data0=(-45.05356,168.81531)
-[END]
-
 ;1142065
 [POI]
 Type=0x2f15
@@ -133305,7 +133224,7 @@ Data0=(-44.63317,168.89623)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=94 Brownston St/ Telecom, payphone, public phone box
+StreetDesc=Purple Cow Backpackers, 94 Brownston St, Wanaka/ Telecom, payphone, public phone
 Phone=+6434435047
 Data0=(-44.69808,169.13426)
 [END]
@@ -133317,15 +133236,6 @@ Label=PAYPHONE
 StreetDesc=48 Helwick St Wanaka/ Telecom, payphone, public phone box
 Phone=+6434435073
 Data0=(-44.69636,169.13646)
-[END]
-
-;1142082
-[POI]
-Type=0x2f15
-Label=PAYPHONE
-StreetDesc=94 Brownston St/ Telecom, payphone, public phone box
-Phone=+6434435173
-Data0=(-44.69846,169.13383)
 [END]
 
 ;1142083
@@ -133380,15 +133290,6 @@ Label=PAYPHONE
 StreetDesc=Manuka Cres cnr Beacon Point Rd Wanaka/ Telecom, payphone, public phone box
 Phone=+6434437406
 Data0=(-44.68343,169.13033)
-[END]
-
-;1142089
-[POI]
-Type=0x2f15
-Label=PAYPHONE
-StreetDesc=2083 Wanaka Mt Aspiring Rd Treble Cone Ski Field Glendhu Bay Wanaka/ Telecom, pa
-Phone=+6434437580
-Data0=(-44.63324,168.89656)
 [END]
 
 ;1142090
@@ -134367,27 +134268,9 @@ Data0=(-45.91313,169.68783)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=Airport Dr Dud AirportGnd Flr Waiting Area Kiosk Taieri Plains Dud/ Telecom, pay
+StreetDesc=Airport Dr Dud Airport, Ground Fl Waiting Area, Dud/ Telecom, payphone, public p
 Phone=+6434861179
-Data0=(-45.92452,170.19742)
-[END]
-
-;1142199
-[POI]
-Type=0x2f15
-Label=PAYPHONE
-StreetDesc=Airport Dr Dud AirportGnd Flr Waiting Area Kiosk Taieri Plains Dud/ Telecom, pay
-Phone=+6434861284
-Data0=(-45.92346,170.19721)
-[END]
-
-;1142200
-[POI]
-Type=0x2f15
-Label=PAYPHONE
-StreetDesc=Airport Dr Dud AirportGnd Flr Waiting Area Kiosk Taieri Plains Dud/ Telecom, pay
-Phone=+6434861293
-Data0=(-45.92399,170.19649)
+Data0=(-45.92417,170.19904)
 [END]
 
 ;1142201
@@ -134532,15 +134415,6 @@ Label=PAYPHONE
 StreetDesc=86 Commercial St O/S Telephone Exchange Takaka/ Telecom, payphone, public phone 
 Phone=+6435259415
 Data0=(-40.85640,172.80700)
-[END]
-
-;1142217
-[POI]
-Type=0x2f15
-Label=PAYPHONE
-StreetDesc=86 Commercial St O/S Telephone Exchange Takaka/ Telecom, payphone, public phone 
-Phone=+6435259485
-Data0=(-40.85677,172.80700)
 [END]
 
 ;1142218
@@ -134919,15 +134793,6 @@ Label=PAYPHONE
 StreetDesc=Annesbrooke Dr cnr Quarantine Rd Nelson/ Telecom, payphone, public phone box
 Phone=+6435472063
 Data0=(-41.30106,173.24284)
-[END]
-
-;1142260
-[POI]
-Type=0x2f15
-Label=PAYPHONE
-StreetDesc=Halifax St O/S Visitor Information Ctr City Nelson/ Telecom, payphone, public ph
-Phone=+6435480218
-Data0=(-41.27077,173.28420)
 [END]
 
 ;1142261
@@ -135351,15 +135216,6 @@ Label=PAYPHONE
 StreetDesc=Akl St Inter-Island Ferry Terminal Gnd Flr Picton/ Telecom, payphone, public pho
 Phone=+6435737013
 Data0=(-41.28572,174.00635)
-[END]
-
-;1142308
-[POI]
-Type=0x2f15
-Label=PAYPHONE
-StreetDesc=70 Waikawa Rd Blue Anchor Holiday Park Picton/ Telecom, payphone, public phone b
-Phone=+6435737148
-Data0=(-41.28851,174.01548)
 [END]
 
 ;1142309
@@ -136116,15 +135972,6 @@ Label=PAYPHONE
 StreetDesc=Marks Rd O/S Haast Highway Accommodation Haast/ Telecom, payphone, public phone 
 Phone=+6437500013
 Data0=(-43.88197,169.04498)
-[END]
-
-;1142394
-[POI]
-Type=0x2f15
-Label=PAYPHONE
-StreetDesc=Marks Rd O/S Haast Highway Accommodation Haast/ Telecom, payphone, public phone 
-Phone=+6437500014
-Data0=(-43.88187,169.04450)
 [END]
 
 ;1142395
@@ -194996,8 +194843,9 @@ Data0=(-43.48957,172.10807)
 [POI]
 Type=0x2e08
 Label=DUNEDIN FLOWERS
-StreetDesc=547 Andersons Bay Rd, South Dud/ Florist, flowers
+StreetDesc=547 Andersons Bay Rd, South Dud/ Beautiful flowers & floral arrangements for wed
 Phone=+6434555644
+zip=9.00am - 5.30pm Monday- Friday 10.00am -
 Data0=(-45.89720,170.50880)
 [END]
 
@@ -195796,10 +195644,11 @@ Data0=(-43.38781,172.65500)
 ;1176493
 [POI]
 Type=0x2f03
-Label=LAYCOCKS COLLISION REPAIRS & TYRE SERVICES
-StreetDesc=367 Durham St North, Chc/ Panelbeaters
-Phone=+6433669614
-Data0=(-43.52479,172.63345)
+Label=LAYCOCKS COLLISION REPAIRS
+StreetDesc=17 Epsom Rd, Sockburn, Chc/ Panelbeaters
+Phone=+6433417156
+zip=8am to 4.30pm
+Data0=(-43.53804,172.55186)
 [END]
 
 ;1176498
@@ -198283,15 +198132,6 @@ StreetDesc=10d Bower Ave, Chc/ Christchurch kitchen manufacturer utilizing a wid
 Phone=+6433883461
 zip=8am to 5pm
 Data0=(-43.50356,172.71129)
-[END]
-
-;1177568
-[POI]
-Type=0x2b00
-Label=PICTON APARTMENT
-StreetDesc=64 Waikawa Rd, Picton/ Accommodation for families
-zip=9am-9pm
-Data0=(-41.28979,174.01400)
 [END]
 
 ;1177574
@@ -205875,10 +205715,10 @@ Data0=(-44.69557,169.13515)
 [POI]
 Type=0x2e09
 Label=TARGET FURNITURE CHRISTCHURCH
-StreetDesc=455 Blenheim Rd, Chc 8443/ Furniture, Lounge, Dining, Bookcases, Bedroom, Office
+StreetDesc=455 Blenheim Rd, Riccarton, Chc 8443/ Furniture, Lounge, Dining, Bookcases, Bedr
 Phone=+6433433204
 zip=Mon - Fri 9:00am - 5:00pm Sat - Sun 10:0
-Data0=(-43.54010,172.56781)
+Data0=(-43.53956,172.56680)
 [END]
 
 ;1181382
@@ -205889,5 +205729,22 @@ StreetDesc=23 Braemar St, South Dud, Dud/ For paint and paintwork of exceptional
 Phone=+6434550488
 zip=8.00am - 5.30pm Monday-Friday
 Data0=(-45.89362,170.50186)
+[END]
+
+;1181386
+[POI]
+Type=0x2c06
+Label=VICTORIA PARK PLAYGROUND
+StreetDesc=12 Lyndhurst St Westport 7825/ Playground
+Data0=(-41.75346,171.60097)
+[END]
+
+;1181391
+[POI]
+Type=0x2f
+Label=COMPUTER DYNAMICS LTD
+StreetDesc=10b moncur place Chc/ distributor of computer cables, network patch leads, netwo
+Phone=0800COMPUTER
+Data0=(-43.54180,172.59521)
 [END]
 

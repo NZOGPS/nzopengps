@@ -205704,7 +205704,7 @@ Data0=(-41.51573,173.95528)
 
 ;1181326
 [POI]
-Type=0x2a
+Type=0x2a0e
 Label=?ARGOSY RESTAURANT/BAR/CAFE
 StreetDesc=Middle Renwick Rd Woodbourne/ 
 Data0=(-41.51082,173.89860)
@@ -205728,7 +205728,7 @@ Data0=(-41.29299,174.00763)
 
 ;1181329
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=?ATAWHAI CAFE
 StreetDesc=Lagoon Rd, Picton/ 
 Data0=(-41.28928,174.00065)
@@ -205736,7 +205736,7 @@ Data0=(-41.28928,174.00065)
 
 ;1181330
 [POI]
-Type=0x2f
+Type=0x2a
 Label=SNACK SHACK BURLEIGH
 StreetDesc=72 A New Renwick Rd, Blenheim/ 
 Data0=(-41.52912,173.93398)
@@ -205744,7 +205744,7 @@ Data0=(-41.52912,173.93398)
 
 ;1181331
 [POI]
-Type=0x2f
+Type=0x2c08
 Label=?WATERLEA RACE COURSE
 StreetDesc=Old Renwick Rd, Blenheim/ 
 Data0=(-41.49897,173.93684)
@@ -205752,7 +205752,7 @@ Data0=(-41.49897,173.93684)
 
 ;1181332
 [POI]
-Type=0x2f
+Type=0x2a
 Label=LANGSWOOD - SALLY'S PANTRY
 StreetDesc=243 Boons Valley Rd, Picton/ 
 Data0=(-41.29381,174.04154)
@@ -205760,7 +205760,7 @@ Data0=(-41.29381,174.04154)
 
 ;1181333
 [POI]
-Type=0x2f
+Type=0x2d02
 Label=?SLIP INN
 StreetDesc=Havelock Marina, Havelock/ 
 Data0=(-41.28039,173.76706)
@@ -205768,7 +205768,7 @@ Data0=(-41.28039,173.76706)
 
 ;1181334
 [POI]
-Type=0x2f
+Type=0x2e
 Label=?MOMORANGI BAY STORE
 StreetDesc=Momorangi Bay, Queen Charlotte Sound/ 
 Data0=(-41.27432,173.92461)
@@ -205776,7 +205776,7 @@ Data0=(-41.27432,173.92461)
 
 ;1181335
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=?LOCHMARA LODGE CAFE
 StreetDesc=Lochmara Bay, Queen Charlotte Sound/ 
 Data0=(-41.27073,173.95220)
@@ -205784,7 +205784,7 @@ Data0=(-41.27073,173.95220)
 
 ;1181336
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=?ECHO CAFE / BAR
 StreetDesc=Picton Harbour, Queen Charlotte Sound/ 
 Data0=(-41.18033,174.18617)
@@ -205792,7 +205792,7 @@ Data0=(-41.18033,174.18617)
 
 ;1181337
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=?THE GREEN CAFE
 StreetDesc=401 Anakiwa Rd, Queen Charlotte Sound/ 
 Data0=(-41.18033,174.18617)
@@ -205824,7 +205824,7 @@ Data0=(-41.08647,174.17725)
 
 ;1181341
 [POI]
-Type=0x2f
+Type=0x2e
 Label=?WATERFALL BAY STORE
 StreetDesc=Waterfall Bay, Port Ligar, Pelorus Sound/ 
 Data0=(-40.95669,173.87702)
@@ -205832,7 +205832,7 @@ Data0=(-40.95669,173.87702)
 
 ;1181342
 [POI]
-Type=0x2f
+Type=0x2b00
 Label=WAITATA BAY LODGE
 StreetDesc=1090 Te Towaka-Port Ligar Rd, Admiralty Bay/ 
 Data0=(-40.95763,173.91090)
@@ -205848,7 +205848,7 @@ Data0=(-40.92492,173.83613)
 
 ;1181344
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=?PELORUS BRIDGE CAFE
 StreetDesc=SH 6, Rai/ 
 Data0=(-41.23887,173.57957)
@@ -205856,7 +205856,7 @@ Data0=(-41.23887,173.57957)
 
 ;1181345
 [POI]
-Type=0x2f
+Type=0x2e
 Label=?ST OMER SHOP
 StreetDesc=52 St Omer Rd, Kenepuru Sound/ 
 Data0=(-41.18179,173.97374)

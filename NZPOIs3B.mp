@@ -54911,7 +54911,7 @@ Data0=(-46.41089,168.34825)
 
 ;1107917
 [POI]
-Type=0x2f
+Type=0x2a05
 Label=JON-JON BAKERIES LTD
 StreetDesc=23 Aldwins Rd, Philipstown, Chc/ 
 Phone=+6433811775
@@ -90309,7 +90309,7 @@ Data0=(-43.56336,169.70065)
 
 ;1122209
 [POI]
-Type=0x2a05
+Type=0x2a0e
 Label=MOUNTAIN GOATS CAFE
 StreetDesc=Cook Flat Rd, Fox Glacier/ Cafe & bakery
 Data0=(-43.46465,170.01703)
@@ -204352,7 +204352,7 @@ Data0=(-41.53041,173.95507)
 
 ;1181170
 [POI]
-Type=0x2e
+Type=0x2a05
 Label=REDWOOD BAKERY 2001 LTD
 StreetDesc=75 Cleghorn St, Blenheim/ 
 Data0=(-41.53036,173.95561)
@@ -205352,7 +205352,7 @@ Data0=(-41.29057,174.00825)
 
 ;1181295
 [POI]
-Type=0x2e
+Type=0x2a05
 Label=PICTON VILLAGE BAKERY LIMITED
 StreetDesc=46 Akl St, Picton/ 
 Data0=(-41.29049,174.00582)
@@ -205746,5 +205746,14 @@ Label=COMPUTER DYNAMICS LTD
 StreetDesc=10b moncur place Chc/ distributor of computer cables, network patch leads, netwo
 Phone=0800COMPUTER
 Data0=(-43.54180,172.59521)
+[END]
+
+;1181399
+[POI]
+Type=0x2e07
+Label=GLASSONS QUEENSTOWN
+StreetDesc=19 Rees St Queenstown 9300/ Retail, Shopping
+zip=Mon-Wed: 9am to 7pm, Thurs-Friday: 10am 
+Data0=(-45.03219,168.65970)
 [END]
 

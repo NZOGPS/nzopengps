@@ -202148,9 +202148,9 @@ Data0=(-45.85100,170.23724)
 [POI]
 Type=0x2f
 Label=THE PC FIX
-StreetDesc=180 Gordon Rd, Mosgiel./ Computers and Systems
+StreetDesc=116 Gordon Rd, Mosgiel./ Computers and Systems
 Phone=+6434893333
-Data0=(-45.87279,170.34675)
+Data0=(-45.87587,170.34858)
 [END]
 
 ;1179684
@@ -205755,5 +205755,78 @@ Label=GLASSONS QUEENSTOWN
 StreetDesc=19 Rees St Queenstown 9300/ Retail, Shopping
 zip=Mon-Wed: 9am to 7pm, Thurs-Friday: 10am 
 Data0=(-45.03219,168.65970)
+[END]
+
+;1181433
+[POI]
+Type=0x2c03
+Label=WESTPORT PUBLIC LIBRARY
+StreetDesc=84 Palmerston St Westport 7825/ Library
+Data0=(-41.75173,171.59785)
+[END]
+
+;1181434
+[POI]
+Type=0x2f
+Label=PELICHET BAY INFECTIOUS DISEASES HOSPITAL (FORMER)
+StreetDesc=3 Butts Rd, Logan Park, Dud/ Historic Place: Category 1
+Data0=(-45.86241,170.52876)
+[END]
+
+;1181436
+[POI]
+Type=0x2c04
+Label=MCCALLUM'S SHED
+StreetDesc=195 McCallum Rd, Wilsons Crossing, WINTON/ Historic Place: Category 1
+Data0=(-46.24404,168.32273)
+[END]
+
+;1181437
+[POI]
+Type=0x2f0c
+Label=VICTORIA SQUARE TOLIETS
+StreetDesc=62 Russell St Westport 7825/ Toliets
+Data0=(-41.75438,171.60009)
+[END]
+
+;1181442
+[POI]
+Type=0x4a00
+Label=HORORATA RIVER REST AREA
+StreetDesc=SH 77 near Windwhistle/ Rest Area
+Data0=(-43.51763,171.80219)
+[END]
+
+;1181443
+[POI]
+Type=0x2f0c
+Label=TOILET NUMBER 1
+StreetDesc=-43.290665, 171.526288/ Toilet
+Data0=(-43.29066,171.52629)
+[END]
+
+;1181444
+[POI]
+Type=0x2f0c
+Label=TOILET NUMBER 2
+StreetDesc=785-1063 Algidus Rd, Lake Coleridge 7572, New Zealand/ Toilet
+Data0=(-43.28917,171.52809)
+[END]
+
+;1181445
+[POI]
+Type=0x2f0c
+Label=OAKDENTOILET
+StreetDesc=Oakden Canal, Lake Coleridge/ Toilet
+Data0=(-43.22906,171.44117)
+[END]
+
+;1181453
+[POI]
+Type=0x2a0e
+Label=?SPOON CAFE [FORMERLY COUNTRY CAFE]
+StreetDesc=152 Toppings Rd, Rangiora, Canterbury/ Coffee shop, restaurant. Zenbu Wi-Fi wire
+Phone=+6433149146
+Data0=(-43.30336,172.59572)
 [END]
 

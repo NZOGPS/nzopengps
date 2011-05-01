@@ -36,4 +36,5 @@
 1030000041008	O,1,1	Bridle Path Road	Heathcote Valley
 1030000026981	E,16,16	O,9,9	Warren Street	Wanaka (Otago, NZ)
 1030000040314	E,300,300	O,253,253	Warren Street	Sefton (Canterbury, NZ)
-
+1030000053147	O,121,121	Wairoa Street	Bexley, Christchurch (Canterbury, NZ)
+1030000055841	E,786,886	O,807,877	Bay Road	Oxford (Canterbury, NZ)

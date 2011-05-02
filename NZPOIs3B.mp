@@ -13192,10 +13192,10 @@ Data0=(-44.31033,170.95234)
 ;1043162
 [POI]
 Type=0x2f01
-Label=CALTEX CRADDOCKS ENERGY CENTRE
-StreetDesc=197 Palmerston St, Westport/ Caltex petrol station
+Label=CALTEX WESTPORT
+StreetDesc=197 Palmerston St, Westport/ Caltex petrol station, LPG
 Phone=+6437897819
-Data0=(-41.75891,171.59978)
+Data0=(-41.75883,171.59963)
 [END]
 
 ;1043169
@@ -13382,10 +13382,10 @@ Data0=(-41.51676,173.95716)
 ;1043666
 [POI]
 Type=0x2f01
-Label=CALTEX WASHDYKE ENERGY CENTRE LTD
-StreetDesc=184 Hilton Highway, Washdyke/ Caltex petrol station
+Label=CALTEX WASHDYKE
+StreetDesc=184 Hilton Highway, Washdyke, Timaru/ Caltex petrol station
 Phone=+6436882474
-Data0=(-44.35662,171.23809)
+Data0=(-44.35675,171.23804)
 [END]
 
 ;1043673
@@ -78166,8 +78166,8 @@ Data0=(-44.39789,171.25519)
 [POI]
 Type=0x2f
 Label=INVERCARGILL DIESEL STOP
-StreetDesc=20 Spey St, Invercargill/ Caltex petrol station
-Data0=(-46.40955,168.34287)
+StreetDesc=cnr Nith & Earn St, Invercargill/ Caltex diesel
+Data0=(-46.42331,168.35088)
 [END]
 
 ;1118435
@@ -134025,7 +134025,7 @@ Data0=(-45.86864,170.59755)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=284 Taieri Rd Near BP Station Wakari Dud/ Telecom, payphone, public phone box
+StreetDesc=284 Taieri Rd, Wakari, Dud/ Telecom, payphone, public phone box
 Phone=+6434762250
 Data0=(-45.85784,170.47802)
 [END]
@@ -145927,7 +145927,7 @@ Data0=(-43.26686,172.70647)
 Type=0x4a00
 Label=ASHBURTON NORTH REST AREA AND INFORMATION
 StreetDesc=54 Rakaia Hwy/ rest area information
-Data0=(-43.88999,171.76796)
+Data0=(-43.89035,171.76846)
 [END]
 
 ;1150674
@@ -197840,6 +197840,15 @@ Phone=+6433790360
 Data0=(-43.52311,172.63966)
 [END]
 
+;1177436
+[POI]
+Type=0x2f01
+Label=CALTEX ANTHONY MOTORS
+StreetDesc=254 Taieri Rd, Dud/ Caltex petrol station. Fuel, Diesel, Workshop, Food
+Phone=+6434763134
+Data0=(-45.85827,170.47823)
+[END]
+
 ;1177437
 [POI]
 Type=0x2f
@@ -205821,12 +205830,53 @@ StreetDesc=Oakden Canal, Lake Coleridge/ Toilet
 Data0=(-43.22906,171.44117)
 [END]
 
+;1181450
+[POI]
+Type=0x2f0c
+Label=CHARTERIS BAY TOILETS
+StreetDesc=6 Ohinehau Ln, Charteris Bay 8971, New Zealand/ Toilet
+Data0=(-43.63418,172.71159)
+[END]
+
 ;1181453
 [POI]
 Type=0x2a0e
 Label=?SPOON CAFE [FORMERLY COUNTRY CAFE]
-StreetDesc=152 Toppings Rd, Rangiora, Canterbury/ Coffee shop, restaurant. Zenbu Wi-Fi wire
+StreetDesc=Rangiora, Canterbury/ Coffee shop, restaurant. Food, drinks. Zenbu Wi-Fi wireles
 Phone=+6433149146
 Data0=(-43.30336,172.59572)
+[END]
+
+;1181459
+[POI]
+Type=0x2f
+Label=GRACE REMOVALS GROUP CHRISTCHURCH
+StreetDesc=88 Carmen Rd, Hornby, Chc/ Local and international removal specialists
+Phone=+6433446164
+Data0=(-43.53590,172.52965)
+[END]
+
+;1181465
+[POI]
+Type=0x2f0c
+Label=ASHBURTON DOMAIN TOILET 1
+StreetDesc=Hinds Hwy, Ashburton Central 7700, New Zealand/ Toilet, Domain, Photos
+Data0=(-43.89824,171.75531)
+[END]
+
+;1181466
+[POI]
+Type=0x2f0c
+Label=ASHBURTON DOMAIN TOILET 2
+StreetDesc=358 West St, Allenton 7700, New Zealand/ Toilet, Domain, Photos
+Data0=(-43.89800,171.75241)
+[END]
+
+;1181467
+[POI]
+Type=0x2f0c
+Label=TINWALD DOMAIN TOILET
+StreetDesc=62 Maronan Rd, Tinwald 7778, New Zealand/ Toilet, Domain, Photos
+Data0=(-43.92401,171.70667)
 [END]
 

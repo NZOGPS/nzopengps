@@ -205856,6 +205856,15 @@ Phone=+6433446164
 Data0=(-43.53590,172.52965)
 [END]
 
+;1181464
+[POI]
+Type=0x2f
+Label=TOTALLY TIMBER
+StreetDesc=32 Trewavas St Motueka/ Supplier of native timber, hardwood and macrocarpa. We a
+Phone=+6435288259
+Data0=(-41.12725,173.02166)
+[END]
+
 ;1181465
 [POI]
 Type=0x2f0c
@@ -205878,5 +205887,14 @@ Type=0x2f0c
 Label=TINWALD DOMAIN TOILET
 StreetDesc=62 Maronan Rd, Tinwald 7778, New Zealand/ Toilet, Domain, Photos
 Data0=(-43.92401,171.70667)
+[END]
+
+;1181473
+[POI]
+Type=0x2b01
+Label=OWENS MOTEL
+StreetDesc=745 George St, Dud 9016, Otago/ Accommodation. Zenbu Wi-Fi wireless internet, ch
+Phone=+6434777156
+Data0=(-45.86168,170.51039)
 [END]
 

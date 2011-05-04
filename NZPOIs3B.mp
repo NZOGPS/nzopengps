@@ -85601,15 +85601,6 @@ Phone=+6433324617
 Data0=(-43.56180,172.64480)
 [END]
 
-;1120989
-[POI]
-Type=0x2e
-Label=RADIUS PHARMACY LINWOOD
-StreetDesc=Linwood Accident & Medical Ctr, 201 Linwood Ave, Chc/ Pharmacy, chemist
-Phone=+6433816661
-Data0=(-43.53217,172.67137)
-[END]
-
 ;1120995
 [POI]
 Type=0x2e
@@ -163818,10 +163809,10 @@ Data0=(-45.87037,170.50590)
 ;1160320
 [POI]
 Type=0x2f
-Label=?AOTEAROA WEB DESIGN LTD
-StreetDesc=Dyers Pass Rd, Cashmere, Chc/ 
+Label=AOTEAROA WEB DESIGN LTD
+StreetDesc=191 Hackthorne Rd, Cashmere, Chc/ 
 Phone=+6421045235
-Data0=(-43.57652,172.63092)
+Data0=(-43.58058,172.63582)
 [END]
 
 ;1160326
@@ -205896,5 +205887,15 @@ Label=OWENS MOTEL
 StreetDesc=745 George St, Dud 9016, Otago/ Accommodation. Zenbu Wi-Fi wireless internet, ch
 Phone=+6434777156
 Data0=(-45.86168,170.51039)
+[END]
+
+;1181495
+[POI]
+Type=0x2f
+Label=WAIRAURAHIRI JET
+StreetDesc=Lake Hauroko, Fiordland Ntl Park. Office at 1260 Clifden Highway./ jet boat. fio
+Phone=+6432255677
+zip=on demand, all year round
+Data0=(-45.98981,167.38195)
 [END]
 

@@ -8900,9 +8900,9 @@ Data0=(-41.50800,173.82569)
 ;1029351
 [POI]
 Type=0x2e02
-Label=SPRINGLANDS FRESHCHOICE
+Label=COUNTDOWN SPRINGLANDS
 StreetDesc=133 Middle Renwick Rd, Blenheim/ supermarket, Lotto
-Phone=+6435786289
+Phone=+6435208490
 zip=Mon - Sun, 7am - 9pm
 Data0=(-41.50934,173.93509)
 [END]
@@ -8910,10 +8910,10 @@ Data0=(-41.50934,173.93509)
 ;1029358
 [POI]
 Type=0x2e02
-Label=REDWOOD SUPERVALUE
+Label=COUNTDOWN REDWOODTOWN
 StreetDesc=93 Weld St, Redwood, Blenheim/ supermarket
-Phone=+6435786675
-zip=Mon - Sun, 7.30am - 8pm
+Phone=+6435206770
+zip=Mon - Sun, 7am - 9pm
 Data0=(-41.52979,173.95499)
 [END]
 
@@ -8922,7 +8922,7 @@ Data0=(-41.52979,173.95499)
 Type=0x2e02
 Label=COUNTDOWN BLENHEIM
 StreetDesc=Seymour St, Blenheim/ supermarket, Lotto
-Phone=+6435792945
+Phone=+6435206130
 zip=Mon - Sun, 7am - 10pm
 Data0=(-41.51387,173.95351)
 [END]
@@ -205897,5 +205897,25 @@ Label=PUDDING HILL LODGE
 StreetDesc=5259 Arundel Rakaia Gorge Rd, Methven 7782, Canterbury/ Accommodation. Motel. ch
 Phone=+6433029627
 Data0=(-43.58708,171.52988)
+[END]
+
+;1181507
+[POI]
+Type=0x2b02
+Label=AORAKI COTTAGE
+StreetDesc=246 Gualter Rd , Geraldine/ Adventure, B+B, Farm Stay, Deer farm, Dairy Farm, Ka
+Phone=+6436974866
+zip=All hours
+Data0=(-44.13541,171.15944)
+[END]
+
+;1181508
+[POI]
+Type=0x2f
+Label=ARTHOUSEMEDIA RECORDING STUDIO, DUNEDIN
+StreetDesc=Lonsdale St, Belleknowes, Dud 9011/ arthousemedia is an electronic media creatio
+Phone=+6434530446
+zip=10:00 am - 10:00pm, By Appointment Only
+Data0=(-45.87809,170.48114)
 [END]
 

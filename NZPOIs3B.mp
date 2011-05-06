@@ -182052,9 +182052,9 @@ Data0=(-43.26347,172.60342)
 [POI]
 Type=0x2f
 Label=RANGIORA MEDICAL CENTRE
-StreetDesc=36 Victoria St (at T-junction with George St), RANGIORA, 7400/ General Practitio
+StreetDesc=36 Victoria St (at T-junction with George St), Rangiora 7400/ General Practition
 Phone=+6433137197
-zip=9am to 5pm
+zip=9am-5pm
 Data0=(-43.30852,172.59661)
 [END]
 
@@ -195165,15 +195165,6 @@ Phone=+6433811177
 Data0=(-43.51740,172.65637)
 [END]
 
-;1176122
-[POI]
-Type=0x2e08
-Label=THE FLOWER GALLERY
-StreetDesc=Ground Fl, Strategy Blg, 374 Montreal St, Chc/ Florist, flowers
-Phone=+6433719131
-Data0=(-43.51812,172.56733)
-[END]
-
 ;1176123
 [POI]
 Type=0x2e08
@@ -205897,5 +205888,14 @@ StreetDesc=Lake Hauroko, Fiordland Ntl Park. Office at 1260 Clifden Highway./ je
 Phone=+6432255677
 zip=on demand, all year round
 Data0=(-45.98981,167.38195)
+[END]
+
+;1181506
+[POI]
+Type=0x2b01
+Label=PUDDING HILL LODGE
+StreetDesc=5259 Arundel Rakaia Gorge Rd, Methven 7782, Canterbury/ Accommodation. Motel. ch
+Phone=+6433029627
+Data0=(-43.58708,171.52988)
 [END]
 

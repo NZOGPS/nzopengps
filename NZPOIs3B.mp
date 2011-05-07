@@ -62033,16 +62033,6 @@ zip=Mon-Fri 0900am - 0600pm
 Data0=(-43.59782,172.33317)
 [END]
 
-;1111934
-[POI]
-Type=0x2f
-Label=PROCESS SYSTEM INNOVATORS LTD
-StreetDesc=97B Aranui Rd, Mapua, Nelson/ 
-Phone=+6435403731
-zip=Mon-Fri 0800-1700
-Data0=(-41.25114,173.09189)
-[END]
-
 ;1111936
 [POI]
 Type=0x2f
@@ -201982,9 +201972,9 @@ Data0=(-40.84093,172.88718)
 [POI]
 Type=0x2f
 Label=DESIGNED BY EMILY LTD
-StreetDesc=7 Willowview Dr, Redwood,Chc/ An international award winning boutique web and gr
-Phone=+6433522441
-Data0=(-43.46724,172.62088)
+StreetDesc=18 Braco Place, Chc/ An international award winning boutique web and graphic des
+Phone=+6421026143
+Data0=(-43.50783,172.57141)
 [END]
 
 ;1179554
@@ -204174,7 +204164,7 @@ Data0=(-45.12959,169.31741)
 ;1181115
 [POI]
 Type=0x2b01
-Label=REDWOOD HOTEL
+Label=REDWOOD HOTEL SEQUOIA 88
 StreetDesc=340 Main North Rd Redwood 8051/ Accommodation, food, restaurant
 Phone=+33529165
 Data0=(-43.47429,172.61729)
@@ -205917,5 +205907,14 @@ StreetDesc=Lonsdale St, Belleknowes, Dud 9011/ arthousemedia is an electronic me
 Phone=+6434530446
 zip=10:00 am - 10:00pm, By Appointment Only
 Data0=(-45.87809,170.48114)
+[END]
+
+;1181510
+[POI]
+Type=0x6404
+Label=ST MARTINS CHURCH
+StreetDesc=50 Lincoln Rd, Spreydon, Chc/ Anglican Church
+Phone=+6433384062
+Data0=(-43.55184,172.59820)
 [END]
 

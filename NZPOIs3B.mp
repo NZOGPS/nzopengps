@@ -160987,9 +160987,10 @@ Data0=(-43.27191,172.58144)
 ;1159354
 [POI]
 Type=0x2b00
-Label=KEPLER MOUNTAIN VIEW
-StreetDesc=130 Hillside Manapouri Rd, Manapouri, Manapouri/ Accommodation
-Data0=(-45.56214,167.62862)
+Label=KEPLER MOUNTAIN VIEW - MOTELS
+StreetDesc=130 Hillside-Manapouri Rd, Manapouri 9643, Fiordland/ B&B Bed and Breakfast. Als
+Phone=+6432496685
+Data0=(-45.56206,167.62863)
 [END]
 
 ;1159355
@@ -192311,11 +192312,11 @@ Data0=(-43.54081,172.63023)
 ;1174259
 [POI]
 Type=0x2f
-Label=IPRES VIDEO PRODUCTION
-StreetDesc=209 Salisbury St, Chc/ Interactive DVD, online video, internet video, website vi
+Label=?IPRES VIDEO PRODUCTION
+StreetDesc=114 Sawyers Arms Rd (Unit 8), Chc/ Interactive DVD, online video, internet video
 Phone=+6433662047
 zip=8:30am - 5:30pm weekdays.
-Data0=(-43.52428,172.64207)
+Data0=(-43.48642,172.60433)
 [END]
 
 ;1174269
@@ -205916,5 +205917,15 @@ Label=ST MARTINS CHURCH
 StreetDesc=50 Lincoln Rd, Spreydon, Chc/ Anglican Church
 Phone=+6433384062
 Data0=(-43.55184,172.59820)
+[END]
+
+;1181515
+[POI]
+Type=0x2f
+Label=FLEXIHOST - HOSTING FOR YOUR WEBSITE 24/7 24HR
+StreetDesc=108 Cashel St, Cashel Mall, Chc/ If you are looking for affordable & reliable We
+Phone=08004204678
+zip=24/7
+Data0=(-43.53320,172.63490)
 [END]
 

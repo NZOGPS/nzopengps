@@ -38,3 +38,4 @@
 1030000040314	E,300,300	O,253,253	Warren Street	Sefton (Canterbury, NZ)
 1030000053147	O,121,121	Wairoa Street	Bexley, Christchurch (Canterbury, NZ)
 1030000055841	E,786,886	O,807,881	Bay Road	Oxford (Canterbury, NZ)
+1030000055897	E,314,440	Perhams Road	View Hill (Canterbury, NZ)	8/05/2011 7:30:22 p.m.

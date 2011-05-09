@@ -160349,8 +160349,9 @@ Data0=(-42.46069,171.19950)
 [POI]
 Type=0x2b00
 Label=GARDEN CITY MOTEL
-StreetDesc=242 Main North Rd, Chc/ Accommodation
-Data0=(-43.48114,172.61684)
+StreetDesc=242 Main North Rd, Chc 8051, Canterbury/ Accommodation. Spacious units. Zenbu Wi
+Phone=+6433524058
+Data0=(-43.48130,172.61683)
 [END]
 
 ;1159173
@@ -205927,5 +205928,34 @@ StreetDesc=108 Cashel St, Cashel Mall, Chc/ If you are looking for affordable & 
 Phone=08004204678
 zip=24/7
 Data0=(-43.53320,172.63490)
+[END]
+
+;1181520
+[POI]
+Type=0x2b03
+Label=METHVEN CAMPING GROUND
+StreetDesc=72 Barkers Rd, Methven 7730, Canterbury/ Accommodation. Camping Zenbu Wi-Fi wire
+Phone=+6433028005
+Data0=(-43.63186,171.64821)
+[END]
+
+;1181526
+[POI]
+Type=0x2a
+Label=ANGUS RESTAURANT & BAR
+StreetDesc=7 St Andrew St, Central Dud, Dud, 9016/ Dunedins premier steak restaurant. Servi
+Phone=+6434792018
+zip=5.30 Till Late 7 Days
+Data0=(-45.87148,170.50386)
+[END]
+
+;1181527
+[POI]
+Type=0x2f
+Label=ENDEAVOUR EXPRESS LTD
+StreetDesc=London Qy. Picton/ Queen Charlotte track transport
+Phone=+6435735456
+zip=8am to 6 pm
+Data0=(-41.28874,174.00815)
 [END]
 

@@ -1,68 +1,68 @@
-1030000006848	Robert Street	Mahurangi East	-36.47623,174.7316
-1030000010866	Railway Avenue	Greenlane	-36.888836,174.79549
-1030000006996	Russell Street	Mahurangi East	-36.467613,174.73582
-1030000007270	Short Street	Mahurangi East	-36.473427,174.73592
-1030000006947	Bay Street	Mahurangi East	-36.47509,174.73236
-1030000007425	Cross Street	Mahurangi East	-36.469807,174.73523
-1030000007371	James Street	Mahurangi East	-36.475315,174.73512
-1030000007372	John Street	Mahurangi East	-36.473747,174.7322
-1030000007045	Frederick St	Mahurangi East	-36.471992,174.73325
-1030000007617	Hill Street	Mahurangi East	-36.478573,174.73233
-1030000006834	Wattenbach St	Port Albert	-36.27881,174.43185
-1030000006910	Market Street	Port Albert	-36.279125,174.43109
-1030000007035	Garfield Street	Port Albert	-36.280403,174.43835
-1030000007042	Garibaldi St	Port Albert	-36.284332,174.43077
-1030000007093	Williamson St	Port Albert	-36.277054,174.43169
-1030000007111	Brookfield St	Port Albert	-36.282036,174.4335
-1030000007342	Alexandra St	Port Albert	-36.280556,174.43237
-1030000007448	Cromwell Street	Port Albert	-36.278618,174.43369
-1030000007468	Auckland Street	Port Albert	-36.281322,174.433
-1030000007641	Victoria Street	Port Albert	-36.282967,174.43349
-1030000007668	Florence Street	Port Albert	-36.278416,174.4303
-1030000007746	Graham Street	Port Albert	-36.28472,174.43036
-1030000007748	Gladstone St	Port Albert	-36.285297,174.43024
-1030000007846	Clarence Street	Port Albert	-36.279835,174.43192
-1030000007862	Hanover Street	Port Albert	-36.278774,174.43279
-1030000007873	Havelock Street	Port Albert	-36.28604,174.4307
-1030000007881	Omaha Block Access Road	Leigh	-36.284004,174.81526
-1030000007901	Cook Road	Puhoi	-36.505978,174.6629
-1030000009015	Byrne Place	Paremoremo	-36.752777,174.64615
-1030000009375	Cable Place	New Lynn	-36.902508,174.6817
-1030000010116	Parker Track	Nihotupu	-36.94441,174.6069
-1030000010634	Arcade 32	Auckland Central	-36.844936,174.76846
-1030000010866	Railway Avenue	Greenlane	-36.888836,174.79549
-1030000011085	Imperial Arcade	Auckland Central	-36.845253,174.76688
-1030000013351	Kawhero Street	Kuaotunu	-36.72239,175.72662
-1030000013588	Pungarehu St	Kuaotunu	-36.721775,175.72871
-1030000031206	Jowitt Place	Favona	-36.957104,174.79866
-1030000186753	Boundary Road	Parnell	-36.863495,174.77231
-1030000190734	Froude Street	Auckland Central	-36.85148,174.7542
-1030000190736	Brunswick St	Auckland Central	-36.85192,174.75465
-1030000195415	Fairmont Place	Albany	-36.736294,174.6934
-1030000195463	Beach Road	Kuaotunu	-36.72311,175.72372
-1030000211649	Grivelle Street	Kumeu	-36.777493,174.55547
-1030000212339	Ansett Place	Auckland Airport	-36.997807,174.79153
-1030000212795	Old Waipu Road North	Mangawhai	-36.113525,174.55952
-2030000006144	The Prom	Coatsville	-36.733562,174.66068
-1030000030624	Boundary Road	Flatbush	-36.98981,174.91845
-1030000006990	Russell Road	Waiwhiu		-36.34447,174.57069
-1030000005275	McKinley Road	Ruawai		-36.12195,173.98788
+1030000006848	Robert Street	Mahurangi East
+1030000010866	Railway Avenue	Greenlane
+1030000006996	Russell Street	Mahurangi East
+1030000007270	Short Street	Mahurangi East
+1030000006947	Bay Street	Mahurangi East
+1030000007425	Cross Street	Mahurangi East
+1030000007371	James Street	Mahurangi East
+1030000007372	John Street	Mahurangi East
+1030000007045	Frederick St	Mahurangi East
+1030000007617	Hill Street	Mahurangi East
+1030000006834	Wattenbach St	Port Albert
+1030000006910	Market Street	Port Albert
+1030000007035	Garfield Street	Port Albert
+1030000007042	Garibaldi St	Port Albert
+1030000007093	Williamson St	Port Albert
+1030000007111	Brookfield St	Port Albert
+1030000007342	Alexandra St	Port Albert
+1030000007448	Cromwell Street	Port Albert
+1030000007468	Auckland Street	Port Albert
+1030000007641	Victoria Street	Port Albert
+1030000007668	Florence Street	Port Albert
+1030000007746	Graham Street	Port Albert
+1030000007748	Gladstone St	Port Albert
+1030000007846	Clarence Street	Port Albert
+1030000007862	Hanover Street	Port Albert
+1030000007873	Havelock Street	Port Albert
+1030000007881	Omaha Block Access Road	Leigh
+1030000007901	Cook Road	Puhoi
+1030000009015	Byrne Place	Paremoremo
+1030000009375	Cable Place	New Lynn
+1030000010116	Parker Track	Nihotupu
+1030000010634	Arcade 32	Auckland Central
+1030000010866	Railway Avenue	Greenlane
+1030000011085	Imperial Arcade	Auckland Central
+1030000013351	Kawhero Street	Kuaotunu
+1030000013588	Pungarehu St	Kuaotunu
+1030000031206	Jowitt Place	Favona
+1030000186753	Boundary Road	Parnell
+1030000190734	Froude Street	Auckland Central
+1030000190736	Brunswick St	Auckland Central
+1030000195415	Fairmont Place	Albany
+1030000195463	Beach Road	Kuaotunu
+1030000211649	Grivelle Street	Kumeu
+1030000212339	Ansett Place	Auckland Airport
+1030000212795	Old Waipu Road North	Mangawhai
+2030000006144	The Prom	Coatsville
+1030000030624	Boundary Road	Flatbush
+1030000006990	Russell Road	Waiwhiu
+1030000005275	McKinley Road	Ruawai
 1030000184056	Short Street	Sandspit
-1030000007587	Radiata Rd	Warkworth	-36.43382,174.65089
-1030000012267	Hill Rd		Titirangi	-36.93106,174.75134
-1030000012392	Kingswood Tce	Titirangi	-36 55.947,174 44.462
-1030000016516	Blake Rd	Nukutawhiti	-35.65778,173.88125
-1030000005014	Noall Rd	Donnellys Crossing	-35.61592,173.71318
-1030000005261	Leaf Rd		Matakohe	-36.10955,174.17773
-1030000008477	Pearn Pl	Northcote	-36.80053,174.74461
-1030000005030	Clotworthy Rd	Tangiteroria	-35.83727,174.04484
-1030000004879	Te Rore St	Pukehuia	-35.87390,174.02893
-1030000004880	Te Huia St	Pukehuia	-35.87390,174.02893
-1030000005025	Miro St		Pukehuia	-35.87450,174.03283
-1030000005018	Tito St		Pukehuia	-35.87609,174.03431
-1030000004916	Tui St		Pukehuia	-35.87349,174.03523
-1030000186164	Leveloff Rd	Paremoremo	-36.76431,174.6528
-1030000031436	Quarry Rd	Mangare		-36.98506,174.7566
-1030000007400	BJORKLUND RD	Pakari		-36.25409,174.71846
-1030000029942	PIGEON MOUNTAIN QUARRY RD	-36.88803,174.90005
-1030000031680	Domain Rd	Papatoetoe	-36.98500,174.86404
+1030000007587	Radiata Rd	Warkworth
+1030000012267	Hill Rd		Titirangi
+1030000012392	Kingswood Tce	Titirangi
+1030000016516	Blake Rd	Nukutawhiti
+1030000005014	Noall Rd	Donnellys Crossing
+1030000005261	Leaf Rd		Matakohe
+1030000008477	Pearn Pl	Northcote
+1030000005030	Clotworthy Rd	Tangiteroria
+1030000004879	Te Rore St	Pukehuia
+1030000004880	Te Huia St	Pukehuia
+1030000005025	Miro St		Pukehuia
+1030000005018	Tito St		Pukehuia
+1030000004916	Tui St		Pukehuia
+1030000186164	Leveloff Rd	Paremoremo
+1030000031436	Quarry Rd	Mangare
+1030000007400	BJORKLUND RD	Pakari
+1030000029942	PIGEON MOUNTAIN QUARRY RD	"-36.88803,174.90005"
+1030000031680	Domain Rd	Papatoetoe

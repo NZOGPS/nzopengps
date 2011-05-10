@@ -27522,16 +27522,6 @@ zip=Lunch Mon - Fri 11.30am - 2.00pm, Dinner
 Data0=(-43.52630,172.57930)
 [END]
 
-;1085043
-[POI]
-Type=0x2a02
-Label=TANDOORI PALACE PAPANUI
-StreetDesc=473 Papanui Rd, Papanui, Chc/ Indian Takeaway, Curry
-Phone=+6433529520
-zip=7 Days (4.30pm - 9.30pm)
-Data0=(-43.49880,172.60931)
-[END]
-
 ;1085050
 [POI]
 Type=0x2a02
@@ -93162,16 +93152,6 @@ zip=Tue-Sat 6pm-late
 Data0=(-43.52591,172.62866)
 [END]
 
-;1123581
-[POI]
-Type=0x2a
-Label=RESTAURANT SCHWASS
-StreetDesc=190 Ferry Rd, Phillipstown, Chc/ Licensed restaurant
-Phone=+6433719333
-zip=Dinner from 5.30 Mon-Sat Lunch Spring an
-Data0=(-43.53942,172.65465)
-[END]
-
 ;1123582
 [POI]
 Type=0x2a
@@ -93194,8 +93174,8 @@ Data0=(-45.88145,170.49927)
 ;1123584
 [POI]
 Type=0x2a
-Label=MISSY'S KITCHEN
-StreetDesc=80 Ardmore St, Wanaka/ Restaurant, cocktail bar, catering
+Label=THE LANDING RESTAURANT AND BAR
+StreetDesc=L 1, 80 Ardmore St, Lake Wanaka/ Restaurant, cocktail bar, catering, functions. 
 Phone=+6434435099
 Data0=(-44.69377,169.13669)
 [END]
@@ -102777,16 +102757,6 @@ StreetDesc=804 Colombo St, Chc/
 Data0=(-43.52628,172.63678)
 [END]
 
-;1131274
-[POI]
-Type=0x2a
-Label=GINKGO RESTAURANT
-StreetDesc=153 Hereford St, Chc/ Contemporary food from Sichuan and Northeast China
-Phone=+6433742523
-zip=Sun - Sat 9:00am - 5:00pm
-Data0=(-43.53190,172.63839)
-[END]
-
 ;1131275
 [POI]
 Type=0x2f
@@ -103845,16 +103815,6 @@ Type=0x2f
 Label=IN ITALIA
 StreetDesc=126 Cashel St, Chc/ 
 Data0=(-43.53325,172.63560)
-[END]
-
-;1131411
-[POI]
-Type=0x2a02
-Label=INDIAN HARBOUR
-StreetDesc=25 Norwich Qy, Lyttelton, Chc/ indian restaurant, takeaways, curries
-Phone=+6433288185
-zip=12-2.30pm Tue - Sun, 5pm till Late Tue -
-Data0=(-43.60338,172.71869)
 [END]
 
 ;1131412
@@ -106613,15 +106573,6 @@ Type=0x2a0e
 Label=PICASSO CAFE
 StreetDesc=160 Manchester St, Chc/ cafe
 Data0=(-43.53220,172.63982)
-[END]
-
-;1131763
-[POI]
-Type=0x2f
-Label=PICCOLO COFFEEBAR
-StreetDesc=270 Stanmore Rd, Chc/ Cafe
-Phone=+6406498245
-Data0=(-43.52154,172.65658)
 [END]
 
 ;1131764
@@ -197724,7 +197675,7 @@ Data0=(-44.39825,171.25051)
 ;1177389
 [POI]
 Type=0x2f
-Label=IRELANDS
+Label=IRELANDS PROPERTY MANAGEMENT CHRISTCHURCH
 StreetDesc=307 Durham St, Chc/ Real Estate Agents and Property Managers
 Phone=+6433772090
 zip=9am-5pm, Monday-Friday
@@ -202671,7 +202622,7 @@ Data0=(-40.91108,173.97160)
 [POI]
 Type=0x2a
 Label=RED BOWL
-StreetDesc=57 Mandeville St Riccarton 8011/ Restaurant
+StreetDesc=57 Mandeville St, Riccarton, Chc/ Chinese restaurant, yum cha
 Phone=+6433483688
 Data0=(-43.53367,172.60645)
 [END]
@@ -205923,7 +205874,7 @@ Data0=(-43.55184,172.59820)
 ;1181515
 [POI]
 Type=0x2f
-Label=FLEXIHOST - HOSTING FOR YOUR WEBSITE 24/7 24HR
+Label=FLEXIHOST 24HR
 StreetDesc=108 Cashel St, Cashel Mall, Chc/ If you are looking for affordable & reliable We
 Phone=08004204678
 zip=24/7
@@ -205957,5 +205908,25 @@ StreetDesc=London Qy. Picton/ Queen Charlotte track transport
 Phone=+6435735456
 zip=8am to 6 pm
 Data0=(-41.28874,174.00815)
+[END]
+
+;1181536
+[POI]
+Type=0x2f
+Label=IMAGES PHOTOGRAPHY
+StreetDesc=21 McTaggart St, Company Bay, Dud, 9014/ Capturing the joy, the emotion and the 
+Phone=+6434761735
+zip=9.00am - 5.00pm Monday - Friday
+Data0=(-45.85694,170.60522)
+[END]
+
+;1181540
+[POI]
+Type=0x2f
+Label=MASSAGE IN WANAKA
+StreetDesc=27 Russell St, Wanaka/ Wanaka's longest established massage therapy practise. We
+Phone=+6434438448
+zip=early till late 7 days
+Data0=(-44.69594,169.14101)
 [END]
 

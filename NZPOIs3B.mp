@@ -13892,9 +13892,9 @@ Data0=(-43.51824,172.58758)
 [POI]
 Type=0x2f05
 Label=GARDENS POSTSHOP & KIWIBANK
-StreetDesc=Gardens Mall, Cnr Opoho & North Roads, Dud/ post office, KiwiBank banking
+StreetDesc=Gardens Mall, Cnr Opoho & North Roads, Dud/ NZ Post office, KiwiBank banking
 Phone=+6434730008
-zip=Monday 8:30am-5pm, Tuesday 8:30am-5pm, W
+zip=Mon-Fri 8:30am-5pm, Sat 9am-12pm
 Data0=(-45.85511,170.51972)
 [END]
 
@@ -14216,16 +14216,6 @@ StreetDesc=103 Riccarton Rd, Riccarton/ post office, KiwiBank banking
 Phone=+6433430299
 zip=Monday 8:30am-5:30pm, Tuesday 8:30am-5:3
 Data0=(-43.52980,172.60119)
-[END]
-
-;1046809
-[POI]
-Type=0x2f05
-Label=SHIRLEY POSTSHOP
-StreetDesc=18 Marshland Rd, Shirley/ post office, KiwiBank banking
-Phone=+6433857851
-zip=Monday 8:30am-5:30pm, Tuesday 8:30am-5:3
-Data0=(-43.50571,172.66350)
 [END]
 
 ;1046823
@@ -111732,7 +111722,7 @@ Data0=(-41.33872,173.18571)
 [POI]
 Type=0x2e
 Label=PAPER PLUS NEW BRIGHTON
-StreetDesc=72 New Brighton Mall, Seaview Rd, Chc/ Books, Magazines, Cards, Lotto
+StreetDesc=72 New Brighton Mall, Seaview Rd, New Brighton, Chc/ Books, Magazines, Cards, Lo
 Phone=+6433881809
 Data0=(-43.50734,172.72866)
 [END]
@@ -205928,5 +205918,31 @@ StreetDesc=27 Russell St, Wanaka/ Wanaka's longest established massage therapy p
 Phone=+6434438448
 zip=early till late 7 days
 Data0=(-44.69594,169.14101)
+[END]
+
+;1181543
+[POI]
+Type=0x2f
+Label=?WEST COAST SHUTTLE 24HR
+StreetDesc=Grey I Site, 1 mackay St Greymouth/ passneger transport shuttle
+Phone=+6437680028
+zip=24 hours
+Data0=(-42.44870,171.21104)
+[END]
+
+;1181550
+[POI]
+Type=0x2f
+Label=STOKE VET CLINIC
+StreetDesc=214 Songer St, Stoke, Nelson/ Animal Clinic
+Data0=(-41.31297,173.23248)
+[END]
+
+;1181551
+[POI]
+Type=0x2d02
+Label=ROBBIES BAR & BISTRO
+StreetDesc=321 Queen St, Richmond, Nelson/ food
+Data0=(-41.33657,173.18134)
 [END]
 

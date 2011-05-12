@@ -59181,11 +59181,11 @@ Data0=(-43.53217,172.64135)
 ;1110252
 [POI]
 Type=0x2f
-Label=NEW ZEALAND FOOD GROUP (1992) LTD
-StreetDesc=112-118 Antigua St, Addington, Chc/ 
+Label=RICHFIELDS CHOCOLATE
+StreetDesc=57 Disraeli St, Addington, Chc/ For two generations, Richfields Chocolate has be
 Phone=+6433662039
-zip=Mon-Fri 0830-1700
-Data0=(-43.54346,172.62815)
+zip=Factory Shop open Fridays 12 - 3pm.
+Data0=(-43.54230,172.62611)
 [END]
 
 ;1110264

@@ -40,3 +40,4 @@
 1030000055841	E,786,886	O,807,881	Bay Road	Oxford (Canterbury, NZ)
 1030000055897	E,314,440	Perhams Road	View Hill (Canterbury, NZ)	8/05/2011 7:30:22 p.m.
 1030000055556	E,38,56	Audley Street	Kaiapoi (Canterbury, NZ)	8/05/2011 7:35:48 p.m.
+1030000004155	E,874,874	Springbank Road	Swannanoa (Canterbury, NZ)	14/05/2011 7:52:09 p.m.

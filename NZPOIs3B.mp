@@ -10519,7 +10519,7 @@ Data0=(-45.03659,169.19881)
 [POI]
 Type=0x2f01
 Label=SHELL CURLETTS ROAD 24HR
-StreetDesc=Cnr Curletts And Blenheim Roads, Sockburn/ Shell petrol station
+StreetDesc=Cnr Curletts And Blenheim Roads, Sockburn (Entry from Curletts Rd)/ Shell petrol
 Phone=+6433485155
 zip=24hrs
 Data0=(-43.53905,172.56781)
@@ -16778,9 +16778,10 @@ Data0=(-45.09373,169.60251)
 ;1054866
 [POI]
 Type=0x2e02
-Label=TARBERT ST FOUR SQUARE SUPERMARKET
-StreetDesc=91 Tarbert St, Alexandra/ supermarket, groceries
+Label=ALEXANDRA FOUR SQUARE SUPERMARKET
+StreetDesc=91 Tarbert St, Alexandra/ supermarket, groceries, wine and beer.
 Phone=+6434488598
+zip=Monday to Saturday : 7am to 10pm. Sunday
 Data0=(-45.25323,169.39472)
 [END]
 
@@ -44754,6 +44755,16 @@ Phone=+6435483003
 Data0=(-41.27499,173.27575)
 [END]
 
+;1102513
+[POI]
+Type=0x2f
+Label=BRITISH SPARES LTD
+StreetDesc=191 Old Coach Rd, Mahana 7173, Tasman/ Classic British Motorcycle Parts, Norton,
+Phone=+6435432388
+zip=Mailorder Warehouse, Visitors by prior a
+Data0=(-41.26879,173.04441)
+[END]
+
 ;1102515
 [POI]
 Type=0x2f
@@ -60283,11 +60294,11 @@ Data0=(-43.52904,172.63987)
 ;1110984
 [POI]
 Type=0x2f
-Label=NATIONWIDE ONLINE VIDEO PRODUCTION
-StreetDesc=209 Salisbury St, Chc/ Video production, Interactive DVD, internet video, websit
+Label=?NATIONWIDE ONLINE VIDEO PRODUCTION
+StreetDesc=114 Sawyers Arms Rd, Unit 8, Chc/ Video production, Interactive DVD, internet vi
 Phone=+6433662047
 zip=8:30am-5:30pm Weekdays
-Data0=(-43.52428,172.64207)
+Data0=(-43.48642,172.60433)
 [END]
 
 ;1110985
@@ -67242,9 +67253,10 @@ Data0=(-43.57612,172.51656)
 ;1114858
 [POI]
 Type=0x2b01
-Label=THOMAS'S HOTEL
-StreetDesc=50 Beach St, Queenstown/ Hotel & backpacker accommodation. Sea Kayak hire
-Phone=+6434427180
+Label=ABSOLOOT ACCOMMODATION
+StreetDesc=50 Beach St, Queenstown/ Hotel & backpacker accommodation.
+Phone=+6434429522
+zip=8am - 10pm daily
 Data0=(-45.03247,168.65914)
 [END]
 
@@ -203337,8 +203349,8 @@ Data0=(-45.88248,170.35298)
 ;1180766
 [POI]
 Type=0x2f0c
-Label=OCEAN VIEW BACKPACKERS ( BASED OUT OF THE DEFUNCT OCEAN VIEW SCHOOL )
-StreetDesc=23 John St, Ocean View, Dud 9035/ Located just 20 minutes from Dunedin city cent
+Label=OCEAN VIEW BACKPACKERS
+StreetDesc=23 John St, Ocean View, Dud 9035/ Boutique backpacker accommodation
 Phone=+6434817914
 zip=8am-10am and 4pm-9pm daily
 Data0=(-45.93738,170.34658)
@@ -205944,5 +205956,25 @@ Type=0x2d02
 Label=ROBBIES BAR & BISTRO
 StreetDesc=321 Queen St, Richmond, Nelson/ food
 Data0=(-41.33657,173.18134)
+[END]
+
+;1183248
+[POI]
+Type=0x2b00
+Label=ALTITUDE BAR QUEENSTOWN
+StreetDesc=47-49 Shotover St Queenstown 9300/ Nightclub, bar, backpacker accommodation, par
+Phone=+34420344
+zip=6pm - late
+Data0=(-45.03193,168.65868)
+[END]
+
+;1183249
+[POI]
+Type=0x2a0e
+Label=POST OFFICE CAFE
+StreetDesc=41 Ballarat St Queenstown 9300/ Cafe, breakfast, coffee, catering, lunch
+Phone=+34428238
+zip=7:30am - 4pm daily
+Data0=(-45.03174,168.66189)
 [END]
 

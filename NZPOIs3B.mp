@@ -198380,10 +198380,10 @@ Data0=(-43.59517,172.38589)
 ;1177746
 [POI]
 Type=0x2f
-Label=?LORD OF THE RINGS TOUR TWIZEL
-StreetDesc=1 benmore Place Twizel 7901/ Lord of the Rings Twizel location tour.
+Label=LORD OF THE RINGS TOUR TWIZEL
+StreetDesc=Mackenzie Country Inn corner of Ostler Rd and Wairepo Rd, Twizel 7901/ Lord of t
 Phone=+6434350114
-Data0=(-44.26363,170.10021)
+Data0=(-44.26347,170.10020)
 [END]
 
 ;1177752
@@ -205946,7 +205946,9 @@ Data0=(-42.44870,171.21104)
 [POI]
 Type=0x2f
 Label=STOKE VET CLINIC
-StreetDesc=214 Songer St, Stoke, Nelson/ Animal Clinic
+StreetDesc=214 Songer St, Stoke, Nelson/ Vets
+Phone=+6435477891
+zip=8am-7pm weekdays, 10am-4pm Sat/Sun
 Data0=(-41.31297,173.23248)
 [END]
 
@@ -205976,5 +205978,21 @@ StreetDesc=41 Ballarat St Queenstown 9300/ Cafe, breakfast, coffee, catering, lu
 Phone=+34428238
 zip=7:30am - 4pm daily
 Data0=(-45.03174,168.66189)
+[END]
+
+;1183268
+[POI]
+Type=0x2f
+Label=MCDONALDS 24 HOURS RICHMOND
+StreetDesc=321 Lower Queen St, Richmond, Nelson/ Fastfood
+Data0=(-41.33657,173.18134)
+[END]
+
+;1183269
+[POI]
+Type=0x2f
+Label=NOODLE CANTEEN
+StreetDesc=321 Queen St, Richmond, Nelson/ Fastfood
+Data0=(-41.33657,173.18134)
 [END]
 

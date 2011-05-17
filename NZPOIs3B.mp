@@ -21049,10 +21049,11 @@ Data0=(-41.27269,173.28254)
 ;1069153
 [POI]
 Type=0x2f06
-Label=?PSIS BURNHAM MILITARY CAMP
+Label=PSIS BURNHAM MILITARY CAMP
 StreetDesc=Burnham Military Camp, Chc/ Banking, financial services, investments, loans, ins
 Phone=+6433476870
-Data0=(-43.61346,172.30717)
+zip=Monday - Thursday 11:30am-3:15pm, Friday
+Data0=(-43.61210,172.30506)
 [END]
 
 ;1069167
@@ -180525,14 +180526,6 @@ Type=0x2f
 Label=THE DOCTORS
 StreetDesc=201 Linwood Ave, Linwood, Chc/ 
 Data0=(-43.53217,172.67137)
-[END]
-
-;1169882
-[POI]
-Type=0x2f
-Label=THE DURHAM CENTRE
-StreetDesc=110 Bealey Ave, Chc/ 
-Data0=(-43.52109,172.63460)
 [END]
 
 ;1169887

@@ -114,6 +114,7 @@ categories = [
 'Trailhead 0x6412.txt',
 'Transport - Bus Station 0x2F08.txt',
 'Transport - Ground transportation 0x2f08.txt',
+'Water - Waterfall 0x6508.txt',
 'Water Feature - Lake 0x650D.txt'
 ]
 

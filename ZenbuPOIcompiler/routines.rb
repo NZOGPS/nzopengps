@@ -414,12 +414,12 @@ def guessPOItypeCode(zid)
 				category = '0x2a02'
 			elsif thistags =~ /chinese/i
 				category = '0x2a04'
-			elsif thistags =~ /french/i
-				category = '0x2a0f'
 			elsif thistags =~ /italian/i
 				category = '0x2a08'
 			elsif thistags =~ /seafood/i
 				category = '0x2a0b'
+			elsif thistags =~ /french/i
+				category = '0x2a0f'
 			else
 				category = '0x2a'
 			end
@@ -473,6 +473,8 @@ def guessPOItypeCode(zid)
 			category = '0x6403'
 		elsif thistags =~ /fast food/i
 			category = '0x2a07'
+		elsif thistags =~ /pizza/i
+			category = '0x2a0a'
 		elsif thistags =~ /visitor information/i
 			category = '0x4c'
 		elsif thistags =~ /antique/i
@@ -490,7 +492,7 @@ def guessPOItypeCode(zid)
 		elsif thistags =~ /convenience store/i
 			category = '0x2e'
 		elsif thistags =~ /superette/i
-			category = '0x2e'
+			category = '0x2e06'
 		elsif thistags =~ /boat ramp/i
 			category = '0x4700'
 		elsif thistags =~ /hairdresser/i

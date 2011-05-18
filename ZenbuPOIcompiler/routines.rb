@@ -418,6 +418,8 @@ def guessPOItypeCode(zid)
 				category = '0x2a0f'
 			elsif thistags =~ /italian/i
 				category = '0x2a08'
+			elsif thistags =~ /seafood/i
+				category = '0x2a0b'
 			else
 				category = '0x2a'
 			end

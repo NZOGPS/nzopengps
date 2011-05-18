@@ -205955,7 +205955,7 @@ Data0=(-41.33657,173.18134)
 
 ;1183248
 [POI]
-Type=0x2b00
+Type=0x2d02
 Label=ALTITUDE BAR QUEENSTOWN
 StreetDesc=47-49 Shotover St Queenstown 9300/ Nightclub, bar, backpacker accommodation, par
 Phone=+34420344
@@ -205975,7 +205975,7 @@ Data0=(-45.03174,168.66189)
 
 ;1183268
 [POI]
-Type=0x2f
+Type=0x2a07
 Label=MCDONALDS 24 HOURS RICHMOND
 StreetDesc=321 Lower Queen St, Richmond, Nelson/ Fastfood
 Data0=(-41.33657,173.18134)
@@ -205983,7 +205983,7 @@ Data0=(-41.33657,173.18134)
 
 ;1183269
 [POI]
-Type=0x2f
+Type=0x2a07
 Label=NOODLE CANTEEN
 StreetDesc=321 Queen St, Richmond, Nelson/ Fastfood
 Data0=(-41.33657,173.18134)

@@ -503,6 +503,8 @@ def guessPOItypeCode(zid)
 			category = '0x2e05'
 		elsif thistags =~ /clothing/i
 			category = '0x2e07'
+		elsif thistags =~ /rest area/i
+			category = '0x4a00'
 		else
 			category = '0x2f' #other services, catch all
 		end

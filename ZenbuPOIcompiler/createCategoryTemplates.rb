@@ -82,6 +82,7 @@ categories = [
 'Land - Beach 0x6604.txt',
 'Land - Summit 0x6616.txt',
 'Man-made place 0x6400.txt',
+'Man-made - Building 0x6402.txt',
 'Manmade - Cemetery 0x6403.txt',
 'Marine - Boat Ramp 0x4700.txt',
 'Marine - Marina 0x2F09.txt',

@@ -469,6 +469,8 @@ def guessPOItypeCode(zid)
 			category = '0x2f01'
 		elsif thistags =~ /supermarket/i
 			category = '0x2e02'
+		elsif thistags =~ /DOC Backcountry Hut/i
+			category = '0x6402'
 		elsif thistags =~ /cemetery/i
 			category = '0x6403'
 		elsif thistags =~ /fast food/i

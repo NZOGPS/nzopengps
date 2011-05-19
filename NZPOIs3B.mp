@@ -71176,7 +71176,7 @@ Data0=(-46.94803,168.02336)
 [POI]
 Type=0x2f
 Label=ADA PASS HUT
-StreetDesc=Lewis Pass Scenic Reserve (Ntl Reserve), Greymouth/ DOC Backcountry hut
+StreetDesc=Lewis Pass Scenic Reserve (Ntl Reserve) - South Island > West Coast > Greymouth/
 Data0=(-42.30442,172.45711)
 [END]
 
@@ -71184,15 +71184,15 @@ Data0=(-42.30442,172.45711)
 [POI]
 Type=0x2f
 Label=ADELAIDE TARN HUT
-StreetDesc=Kahurangi Ntl Park, Golden Bay/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Golden Bay/ DOC Backcountry 
 Data0=(-40.94251,172.54309)
 [END]
 
 ;1116705
 [POI]
 Type=0x2f
-Label=?ADVENTURE BIVVY
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+Label=?ADVENTURE BIVVY (BIVOUAC)
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-42.97177,171.16552)
 [END]
 
@@ -71216,7 +71216,7 @@ Data0=(-44.34198,169.03489)
 [POI]
 Type=0x2f
 Label=?ALFRED HUT
-StreetDesc=Clarence Conservation Area, South Marlborough/ DOC Backcountry hut
+StreetDesc=Clarence Conservation Area - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-42.32511,173.34883)
 [END]
 
@@ -71232,7 +71232,7 @@ Data0=(-43.47458,170.20855)
 [POI]
 Type=0x2f
 Label=ANATOKI FORKS HUT
-StreetDesc=Kahurangi Ntl Park, Golden Bay/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Golden Bay/ DOC Backcountry 
 Data0=(-40.93893,172.60781)
 [END]
 
@@ -71240,7 +71240,7 @@ Data0=(-40.93893,172.60781)
 [POI]
 Type=0x2f
 Label=ANCHORAGE HUT
-StreetDesc=Abel Tasman Ntl Park, Motueka/ DOC Backcountry hut
+StreetDesc=Abel Tasman Ntl Park, Motueka/ DOC Backcountry hut - South Island > Nelson/Tasma
 Data0=(-40.95698,173.05704)
 [END]
 
@@ -71256,7 +71256,7 @@ Data0=(-42.90154,172.15660)
 [POI]
 Type=0x2f
 Label=ANGELUS HUT
-StreetDesc=Nelson Lakes Ntl Park, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Nelson Lakes Ntl Park - South Island > Nelson/Tasman > Nelson Lakes/ DOC Backcou
 Data0=(-41.88846,172.74868)
 [END]
 
@@ -71336,7 +71336,7 @@ Data0=(-45.25903,168.04419)
 [POI]
 Type=0x2f
 Label=ASBESTOS COTTAGE
-StreetDesc=Kahurangi Ntl Park, Golden Bay/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Golden Bay/ DOC Backcountry 
 Data0=(-41.12964,172.69235)
 [END]
 
@@ -71376,7 +71376,7 @@ Data0=(-43.05325,171.43033)
 [POI]
 Type=0x2f
 Label=AWAPOTO HUT
-StreetDesc=Abel Tasman Ntl Park, Golden Bay/ DOC Backcountry hut
+StreetDesc=Abel Tasman Ntl Park - South Island > Nelson/Tasman > Golden Bay/ DOC Backcountr
 Data0=(-40.86293,172.93868)
 [END]
 
@@ -71384,7 +71384,7 @@ Data0=(-40.86293,172.93868)
 [POI]
 Type=0x2f
 Label=AWAROA HUT
-StreetDesc=Abel Tasman Ntl Park, Golden Bay/ DOC Backcountry hut
+StreetDesc=Abel Tasman Ntl Park - South Island > Nelson/Tasman > Golden Bay/ DOC Backcountr
 Data0=(-40.86533,173.01748)
 [END]
 
@@ -71432,7 +71432,7 @@ Data0=(-44.75101,168.65691)
 [POI]
 Type=0x2f
 Label=BALLOON HUT
-StreetDesc=Kahurangi Ntl Park, Motueka/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Motueka/ DOC Backcountry hut
 Data0=(-41.16911,172.62240)
 [END]
 
@@ -71440,7 +71440,7 @@ Data0=(-41.16911,172.62240)
 [POI]
 Type=0x2f
 Label=BARBERS HUT
-StreetDesc=Leatham Conservation Area, South Marlborough/ DOC Backcountry hut
+StreetDesc=Leatham Conservation Area - South Island > Marlborough > South Marlborough/ DOC 
 Data0=(-41.86339,173.16886)
 [END]
 
@@ -71448,7 +71448,7 @@ Data0=(-41.86339,173.16886)
 [POI]
 Type=0x2f
 Label=BARK BAY HUT
-StreetDesc=Abel Tasman Ntl Park, Motueka/ DOC Backcountry hut
+StreetDesc=Abel Tasman Ntl Park - South Island > Nelson/Tasman > Motueka/ DOC Backcountry h
 Data0=(-40.91616,173.04849)
 [END]
 
@@ -71464,7 +71464,7 @@ Data0=(-42.98894,171.39740)
 [POI]
 Type=0x2f
 Label=?BARRATTS BIVVY (NEW)
-StreetDesc=Hapuku Scenic Reserve, South Marlborough/ DOC Backcountry hut
+StreetDesc=Hapuku Scenic Reserve - South Island > Marlborough > South Marlborough/ DOC Back
 Data0=(-42.24359,173.67213)
 [END]
 
@@ -71512,7 +71512,7 @@ Data0=(-45.65566,168.00364)
 [POI]
 Type=0x2f
 Label=BEEBYS HUT
-StreetDesc=Mount Richmond Forest Park, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Mount Richmond Forest Park - South Island > Nelson/Tasman > Nelson Lakes/ DOC Ba
 Data0=(-41.71926,172.93106)
 [END]
 
@@ -71528,7 +71528,7 @@ Data0=(-45.34678,168.43540)
 [POI]
 Type=0x2f
 Label=?BEGLEY HUT
-StreetDesc=Rainbow Conservation Area, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Rainbow Conservation Area - South Island > Nelson/Tasman > Nelson Lakes/ DOC Bac
 Data0=(-42.03402,172.79955)
 [END]
 
@@ -71536,7 +71536,7 @@ Data0=(-42.03402,172.79955)
 [POI]
 Type=0x2f
 Label=BELL TOWN MANUNUI HUT
-StreetDesc=Kahurangi Ntl Park, Buller/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > West Coast > Buller/ DOC Backcountry hut
 Data0=(-41.34981,172.23636)
 [END]
 
@@ -71584,7 +71584,7 @@ Data0=(-45.43321,170.06922)
 [POI]
 Type=0x2f
 Label=BIG RIVER HUT
-StreetDesc=Big River Ecological Area, Greymouth/ DOC Backcountry hut
+StreetDesc=Big River Ecological Area - South Island > West Coast > Greymouth/ DOC Backcount
 Data0=(-42.24455,171.89273)
 [END]
 
@@ -71592,7 +71592,7 @@ Data0=(-42.24455,171.89273)
 [POI]
 Type=0x2f
 Label=BLACK BIRCH BIVVY
-StreetDesc=Black Birch Scenic Reserve, South Marlborough/ DOC Backcountry hut
+StreetDesc=Black Birch Scenic Reserve - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-41.72343,173.82179)
 [END]
 
@@ -71608,7 +71608,7 @@ Data0=(-43.17910,172.00557)
 [POI]
 Type=0x2f
 Label=BLUE LAKE HUT
-StreetDesc=Nelson Lakes Ntl Park/ DOC Backcountry hut
+StreetDesc=Nelson Lakes Ntl Park - South Island > Nelson/Tasman > Nelson Lakes/ DOC Backcou
 Data0=(-42.05829,172.65522)
 [END]
 
@@ -71616,7 +71616,7 @@ Data0=(-42.05829,172.65522)
 [POI]
 Type=0x2f
 Label=BLUE MOUNTAIN HUT
-StreetDesc=Waihopai Conservation Area, South Marlborough/ DOC Backcountry hut
+StreetDesc=Waihopai Conservation Area - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-41.86277,173.32400)
 [END]
 
@@ -71632,7 +71632,7 @@ Data0=(-43.79238,169.34565)
 [POI]
 Type=0x2f
 Label=?BLUFF HUT
-StreetDesc=Stewardship land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-43.04601,171.12679)
 [END]
 
@@ -71648,7 +71648,7 @@ Data0=(-43.14227,172.29157)
 [POI]
 Type=0x2f
 Label=BOBS HUT
-StreetDesc=Nelson Lakes Ntl Park, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Nelson Lakes Ntl Park - South Island > Nelson/Tasman > Nelson Lakes/ DOC Backcou
 Data0=(-42.22375,172.48610)
 [END]
 
@@ -71664,7 +71664,7 @@ Data0=(-44.85915,168.44899)
 [POI]
 Type=0x2f
 Label=?BOO BOO HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-42.92818,171.19847)
 [END]
 
@@ -71680,7 +71680,7 @@ Data0=(-45.73979,167.37175)
 [POI]
 Type=0x2f
 Label=BOTTOM GORDONS HUT
-StreetDesc=Leatham Conservation Area, South Marlborough/ DOC Backcountry hut
+StreetDesc=Leatham Conservation Area - South Island > Marlborough > South Marlborough/ DOC 
 Data0=(-41.92693,173.13924)
 [END]
 
@@ -71688,7 +71688,7 @@ Data0=(-41.92693,173.13924)
 [POI]
 Type=0x2f
 Label=BOTTOM MISERY HUT
-StreetDesc=Leatham Conservation Area, South Marlborough/ DOC Backcountry hut
+StreetDesc=Leatham Conservation Area - South Island > Marlborough > South Marlborough/ DOC 
 Data0=(-41.91137,173.04942)
 [END]
 
@@ -71696,7 +71696,7 @@ Data0=(-41.91137,173.04942)
 [POI]
 Type=0x2f
 Label=BOULDER FORKS HUT
-StreetDesc=Leatham Conservation Area, South Marlborough/ DOC Backcountry hut
+StreetDesc=Leatham Conservation Area - South Island > Marlborough > South Marlborough/ DOC 
 Data0=(-41.78990,173.25407)
 [END]
 
@@ -71704,7 +71704,7 @@ Data0=(-41.78990,173.25407)
 [POI]
 Type=0x2f
 Label=BOULDER LAKE HUT
-StreetDesc=Kahurangi Ntl Park, Golden Bay/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Golden Bay/ DOC Backcountry 
 Data0=(-40.89991,172.57835)
 [END]
 
@@ -71712,7 +71712,7 @@ Data0=(-40.89991,172.57835)
 [POI]
 Type=0x2f
 Label=BOULDER STREAM HUT
-StreetDesc=Mount Richmond Forest Park, South Marlborough/ DOC Backcountry hut
+StreetDesc=Mount Richmond Forest Park - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-41.67000,173.13372)
 [END]
 
@@ -71751,8 +71751,8 @@ Data0=(-42.46560,172.46064)
 ;1116797
 [POI]
 Type=0x2f
-Label=?BRANCH BIVVY
-StreetDesc=Leatham Conservation Area, South Marlborough/ DOC Backcountry hut
+Label=?BRANCH BIVVY (BIVOUAC)
+StreetDesc=Leatham Conservation Area - South Island > Marlborough > South Marlborough/ DOC 
 Data0=(-41.96399,173.03744)
 [END]
 
@@ -71760,15 +71760,15 @@ Data0=(-41.96399,173.03744)
 [POI]
 Type=0x2f
 Label=?BRANCH CREEK HUT
-StreetDesc=Kahurangi Ntl Park, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Nelson Lakes/ DOC Backcountr
 Data0=(-41.52389,172.51116)
 [END]
 
 ;1116799
 [POI]
 Type=0x2f
-Label=?BRASS MONKEY BIVVY
-StreetDesc=Lewis Pass Scenic Reserve (Ntl Reserve), Waimakariri/ DOC Backcountry hut
+Label=?BRASS MONKEY BIVVY (BIVOUAC)
+StreetDesc=Lewis Pass Scenic Reserve (Ntl Reserve), Waimakariri - South Island > West Coast
 Data0=(-42.41925,172.31466)
 [END]
 
@@ -71792,7 +71792,7 @@ Data0=(-43.18971,171.83611)
 [POI]
 Type=0x2f
 Label=?BROWN HUT
-StreetDesc=Kahurangi Ntl Park, Golden Bay/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Golden Bay/ DOC Backcountry 
 Data0=(-40.85063,172.44753)
 [END]
 
@@ -71800,15 +71800,15 @@ Data0=(-40.85063,172.44753)
 [POI]
 Type=0x2f
 Label=?BROWNING HUT
-StreetDesc=Mount Richmond Forest Park, Motueka - Nelson/Tasman/ DOC Backcountry hut
+StreetDesc=Mount Richmond Forest Park - South Island > Nelson/Tasman > Motueka/ DOC Backcou
 Data0=(-41.41397,173.27703)
 [END]
 
 ;1116804
 [POI]
 Type=0x2f
-Label=?BROWNING RANGE BIVVY
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+Label=?BROWNING RANGE BIVVY (BIVOUAC)
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-42.90696,171.27310)
 [END]
 
@@ -71816,7 +71816,7 @@ Data0=(-42.90696,171.27310)
 [POI]
 Type=0x2f
 Label=BUCKLAND PEAKS HUT
-StreetDesc=Stewardship Land, Buller/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Buller/ DOC Backcountry hut
 Data0=(-41.87448,171.62883)
 [END]
 
@@ -71848,7 +71848,7 @@ Data0=(-44.15815,169.53977)
 [POI]
 Type=0x2f
 Label=?BULL PADDOCK CREEK HUT
-StreetDesc=Leatham Conservation Area, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Leatham Conservation Area - South Island > Nelson/Tasman > Nelson Lakes/ DOC Bac
 Data0=(-41.83253,172.99645)
 [END]
 
@@ -71872,7 +71872,7 @@ Data0=(-46.80890,168.03375)
 [POI]
 Type=0x2f
 Label=BURN CREEK HUT
-StreetDesc=Nelson Lakes Ntl Park, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Nelson Lakes Ntl Park - South Island > Nelson/Tasman > Nelson Lakes/ DOC Backcou
 Data0=(-42.15620,172.44997)
 [END]
 
@@ -71888,7 +71888,7 @@ Data0=(-44.40894,169.46189)
 [POI]
 Type=0x2f
 Label=BUSHLINE HUT
-StreetDesc=Nelson Lakes Ntl Park, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Nelson Lakes Ntl Park - South Island > Nelson/Tasman > Nelson Lakes/ DOC Backcou
 Data0=(-41.83672,172.82342)
 [END]
 
@@ -71935,8 +71935,8 @@ Data0=(-43.79382,170.64903)
 ;1116822
 [POI]
 Type=0x2f
-Label=?CAMPBELL BIVVY
-StreetDesc=Waitaiki Historic Reserve, Hokitika/ DOC Backcountry hut
+Label=?CAMPBELL BIVVY (BIVOUAC)
+StreetDesc=Waitaiki Historic Reserve - South Island > West Coast > Hokitika/ DOC Backcountr
 Data0=(-42.89826,171.35417)
 [END]
 
@@ -71952,7 +71952,7 @@ Data0=(-42.82903,172.02361)
 [POI]
 Type=0x2f
 Label=CANNIBAL GORGE HUT
-StreetDesc=Lewis Pass Scenic Reserve (Ntl Reserve), Greymouth/ DOC Backcountry hut
+StreetDesc=Lewis Pass Scenic Reserve (Ntl Reserve) - South Island > West Coast > Greymouth/
 Data0=(-42.32662,172.42964)
 [END]
 
@@ -71968,7 +71968,7 @@ Data0=(-43.10791,171.15849)
 [POI]
 Type=0x2f
 Label=CAPTAINS CREEK HUT
-StreetDesc=Mount Richmond Forest Park, Sounds/ DOC Backcountry hut
+StreetDesc=Mount Richmond Forest Park - South Island > Marlborough > Sounds/ DOC Backcountr
 Data0=(-41.37398,173.43526)
 [END]
 
@@ -72040,7 +72040,7 @@ Data0=(-42.95987,171.44836)
 [POI]
 Type=0x2f
 Label=CARROLL HUT
-StreetDesc=Arthur's Pass Ntl Park/Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Arthur's Pass Ntl Park/Stewardship Land - South Island > West Coast > Hokitika/ 
 Data0=(-42.79050,171.55157)
 [END]
 
@@ -72072,7 +72072,7 @@ Data0=(-43.65865,169.82684)
 [POI]
 Type=0x2f
 Label=CASTLE ROCK HUT
-StreetDesc=Abel Tasman Ntl park, Motueka/ DOC Backcountry hut
+StreetDesc=Abel Tasman Ntl park - South Island > Nelson/Tasman > Motueka/ DOC Backcountry h
 Data0=(-40.96169,172.95357)
 [END]
 
@@ -72104,7 +72104,7 @@ Data0=(-46.96322,167.72228)
 [POI]
 Type=0x2f
 Label=CAVES HUT
-StreetDesc=Leatham Conservation Area, South Marlborough/ DOC Backcountry hut
+StreetDesc=Leatham Conservation Area - South Island > Marlborough > South Marlborough/ DOC 
 Data0=(-41.80631,173.18991)
 [END]
 
@@ -72112,24 +72112,16 @@ Data0=(-41.80631,173.18991)
 [POI]
 Type=0x2f
 Label=CECIL KINGS HUT - HISTORIC
-StreetDesc=Kahurangi Ntl Park, Motueka/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Motueka/ DOC Backcountry hut
 Data0=(-41.46714,172.47882)
 [END]
 
 ;1116851
 [POI]
 Type=0x2f
-Label=?CEDAR FLAT HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
-Data0=(-42.96297,171.14422)
-[END]
-
-;1116852
-[POI]
-Type=0x2f
 Label=?CEDAR FLAT HUT (HISTORIC)
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
-Data0=(-42.96254,171.14282)
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
+Data0=(-42.96297,171.14422)
 [END]
 
 ;1116853
@@ -72152,7 +72144,7 @@ Data0=(-43.50823,170.23410)
 [POI]
 Type=0x2f
 Label=?CES CLARK HUT
-StreetDesc=Roaring Meg Ecological Area, Greymouth/ DOC Backcountry hut
+StreetDesc=Roaring Meg Ecological Area - South Island > West Coast > Greymouth/ DOC Backcou
 Data0=(-42.29376,171.39186)
 [END]
 
@@ -72240,7 +72232,7 @@ Data0=(-44.90578,167.90830)
 [POI]
 Type=0x2f
 Label=?COBB HUT
-StreetDesc=Kahurangi Ntl Park, Golden Bay/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Golden Bay/ DOC Backcountry 
 Data0=(-41.05627,172.52550)
 [END]
 
@@ -72256,7 +72248,7 @@ Data0=(-42.74411,172.38216)
 [POI]
 Type=0x2f
 Label=COLDWATER HUT
-StreetDesc=Nelson Lakes Ntl Park, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Nelson Lakes Ntl Park - South Island > Nelson/Tasman > Nelson Lakes/ DOC Backcou
 Data0=(-41.87033,172.81715)
 [END]
 
@@ -72280,7 +72272,7 @@ Data0=(-43.42863,171.36647)
 [POI]
 Type=0x2f
 Label=?CONE CREEK HUT
-StreetDesc=Stewardship Land, Greymouth/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Greymouth/ DOC Backcountry hut
 Data0=(-42.68253,171.73334)
 [END]
 
@@ -72288,7 +72280,7 @@ Data0=(-42.68253,171.73334)
 [POI]
 Type=0x2f
 Label=CONNORS CREEK HUT
-StreetDesc=Rainbow Conservation Area, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Rainbow Conservation Area - South Island > Nelson/Tasman > Nelson Lakes/ DOC Bac
 Data0=(-42.00545,172.88477)
 [END]
 
@@ -72320,7 +72312,7 @@ Data0=(-44.36103,169.51664)
 [POI]
 Type=0x2f
 Label=?COUNTY STREAM HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-43.15818,170.85031)
 [END]
 
@@ -72344,7 +72336,7 @@ Data0=(-42.93404,171.27724)
 [POI]
 Type=0x2f
 Label=?CRAWFORD JUNCTION HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-42.96038,171.23360)
 [END]
 
@@ -72360,7 +72352,7 @@ Data0=(-43.92295,169.68922)
 [POI]
 Type=0x2f
 Label=?CROESUS TOP HUT
-StreetDesc=Roaring Meg Ecological Area, Greymouth/ DOC Backcountry hut
+StreetDesc=Roaring Meg Ecological Area - South Island > West Coast > Greymouth/ DOC Backcou
 Data0=(-42.29346,171.39183)
 [END]
 
@@ -72384,7 +72376,7 @@ Data0=(-45.47536,168.35792)
 [POI]
 Type=0x2f
 Label=?CROW HUT
-StreetDesc=Kahurangi Ntl Park, Motueka/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Motueka/ DOC Backcountry hut
 Data0=(-41.29373,172.46884)
 [END]
 
@@ -72399,8 +72391,8 @@ Data0=(-42.94338,171.51591)
 ;1116893
 [POI]
 Type=0x2f
-Label=?CRYSTAL BIVVY
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+Label=?CRYSTAL BIVVY (BIVOUAC)
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-42.99691,171.15282)
 [END]
 
@@ -72424,7 +72416,7 @@ Data0=(-43.92205,169.83699)
 [POI]
 Type=0x2f
 Label=CUPOLA HUT
-StreetDesc=Nelson Lakes Ntl Park, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Nelson Lakes Ntl Park - South Island > Nelson/Tasman > Nelson Lakes/ DOC Backcou
 Data0=(-41.97200,172.73281)
 [END]
 
@@ -72480,7 +72472,7 @@ Data0=(-44.49410,168.07323)
 [POI]
 Type=0x2f
 Label=DEVILS CREEK HUT
-StreetDesc=Mount Richmond Forest Park, Sounds/ DOC Backcountry hut
+StreetDesc=Mount Richmond Forest Park - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-41.41602,173.57696)
 [END]
 
@@ -72496,7 +72488,7 @@ Data0=(-42.48784,172.29407)
 [POI]
 Type=0x2f
 Label=?DICKIE SPUR HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-43.05855,170.86732)
 [END]
 
@@ -72504,7 +72496,7 @@ Data0=(-43.05855,170.86732)
 [POI]
 Type=0x2f
 Label=?DILLON HUT
-StreetDesc=Arthur's Pass/ DOC Backcountry hut
+StreetDesc=Arthur's Pass - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-42.78936,171.48666)
 [END]
 
@@ -72512,7 +72504,7 @@ Data0=(-42.78936,171.48666)
 [POI]
 Type=0x2f
 Label=?DILLONS HOMESTEAD HUT (OLD)
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-42.78394,171.48557)
 [END]
 
@@ -72568,15 +72560,15 @@ Data0=(-43.65264,170.01828)
 [POI]
 Type=0x2f
 Label=DOWNIES HUT
-StreetDesc=Nelson Lakes Ntl Park, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Nelson Lakes Ntl Park - South Island > Nelson/Tasman > Nelson Lakes/ DOC Backcou
 Data0=(-42.13321,172.52470)
 [END]
 
 ;1116924
 [POI]
 Type=0x2f
-Label=?DUBIOUS BIVVY
-StreetDesc=Clarence Conservation Area, South Marlborough/ DOC Backcountry hut
+Label=?DUBIOUS BIVVY (BIVOUAC)
+StreetDesc=Clarence Conservation Area - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-42.21690,173.56251)
 [END]
 
@@ -72592,7 +72584,7 @@ Data0=(-44.76823,167.76562)
 [POI]
 Type=0x2f
 Label=?DUNNS CREEK HUT
-StreetDesc=Stewardship land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-42.83448,171.42806)
 [END]
 
@@ -72600,7 +72592,7 @@ Data0=(-42.83448,171.42806)
 [POI]
 Type=0x2f
 Label=D'URVILLE HUT
-StreetDesc=Nelson Lakes Ntl Park, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Nelson Lakes Ntl Park - South Island > Nelson/Tasman > Nelson Lakes/ DOC Backcou
 Data0=(-41.90566,172.64630)
 [END]
 
@@ -72648,7 +72640,7 @@ Data0=(-42.90010,171.77586)
 [POI]
 Type=0x2f
 Label=EAST MATAKITAKI HUT
-StreetDesc=Nelson Lakes Ntl Park, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Nelson Lakes Ntl Park - South Island > Nelson/Tasman > Nelson Lakes/ DOC Backcou
 Data0=(-42.19355,172.55774)
 [END]
 
@@ -72688,7 +72680,7 @@ Data0=(-43.93131,169.83073)
 [POI]
 Type=0x2f
 Label=?ELIZABETH HUT
-StreetDesc=Stewardship Land, Greymouth/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Greymouth/ DOC Backcountry hut
 Data0=(-42.68938,171.78323)
 [END]
 
@@ -72696,7 +72688,7 @@ Data0=(-42.68938,171.78323)
 [POI]
 Type=0x2f
 Label=ELLIS HUT
-StreetDesc=Kahurangi Ntl Park, Motueka/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Motueka/ DOC Backcountry hut
 Data0=(-41.23770,172.68595)
 [END]
 
@@ -72752,7 +72744,7 @@ Data0=(-43.25854,171.03664)
 [POI]
 Type=0x2f
 Label=?EXPLORER HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-43.00306,170.93427)
 [END]
 
@@ -72760,7 +72752,7 @@ Data0=(-43.00306,170.93427)
 [POI]
 Type=0x2f
 Label=FENELLA HUT
-StreetDesc=Kahurangi Ntl Park, Golden Bay/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Golden Bay/ DOC Backcountry 
 Data0=(-41.04962,172.52504)
 [END]
 
@@ -72775,8 +72767,8 @@ Data0=(-44.11941,169.55125)
 ;1116952
 [POI]
 Type=0x2f
-Label=?FIDGIT BIVVY
-StreetDesc=Clarence Conservation Area, South Marlborough/ DOC Backcountry hut
+Label=?FIDGIT BIVVY (BIVOUAC)
+StreetDesc=Clarence Conservation Area - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-42.17672,173.62993)
 [END]
 
@@ -72784,7 +72776,7 @@ Data0=(-42.17672,173.62993)
 [POI]
 Type=0x2f
 Label=?FISHTAIL HUT
-StreetDesc=Mount Richmond Forest Park, South Marlborough/ DOC Backcountry hut
+StreetDesc=Mount Richmond Forest Park - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-41.44614,173.48956)
 [END]
 
@@ -72792,7 +72784,7 @@ Data0=(-41.44614,173.48956)
 [POI]
 Type=0x2f
 Label=?FLANAGANS HUT
-StreetDesc=Kahurangi Ntl Park, Motueka/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Motueka/ DOC Backcountry hut
 Data0=(-41.27082,172.59077)
 [END]
 
@@ -72800,7 +72792,7 @@ Data0=(-41.27082,172.59077)
 [POI]
 Type=0x2f
 Label=FLORA HUT
-StreetDesc=Kahurangi Ntl Park, Motueka/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Motueka/ DOC Backcountry hut
 Data0=(-41.18244,172.73029)
 [END]
 
@@ -72832,7 +72824,7 @@ Data0=(-45.11387,168.12717)
 [POI]
 Type=0x2f
 Label=?FOSTERS HUT
-StreetDesc=Mount Richmond Forest Park, South Marlborough/ DOC Backcountry hut
+StreetDesc=Mount Richmond Forest Park - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-41.43175,173.64092)
 [END]
 
@@ -72871,8 +72863,8 @@ Data0=(-46.86863,167.91966)
 ;1116967
 [POI]
 Type=0x2f
-Label=?FREW BIVVY
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+Label=?FREW SADDLE BIVVY (BIVOUAC)
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-43.07687,171.09159)
 [END]
 
@@ -72880,7 +72872,7 @@ Data0=(-43.07687,171.09159)
 [POI]
 Type=0x2f
 Label=?FREW HUT (NEW - 2003)
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-43.04963,171.04355)
 [END]
 
@@ -72888,7 +72880,7 @@ Data0=(-43.04963,171.04355)
 [POI]
 Type=0x2f
 Label=?FRISCO HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-43.03175,171.11088)
 [END]
 
@@ -72912,7 +72904,7 @@ Data0=(-43.62008,170.11252)
 [POI]
 Type=0x2f
 Label=GEORGE LYON (FORMERLY ELLA) HUT
-StreetDesc=Nelson Lakes Ntl Park, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Nelson Lakes Ntl Park - South Island > Nelson/Tasman > Nelson Lakes/ DOC Backcou
 Data0=(-42.04748,172.60512)
 [END]
 
@@ -72927,8 +72919,8 @@ Data0=(-44.98393,167.44014)
 ;1116974
 [POI]
 Type=0x2f
-Label=?GERHARDT BIVVY
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+Label=?GERHARDT SPUR BIVVY (BIVOUAC)
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-42.97302,171.09633)
 [END]
 
@@ -72968,7 +72960,7 @@ Data0=(-42.76453,172.43382)
 [POI]
 Type=0x2f
 Label=GOAT CREEK HUT
-StreetDesc=Stewardship Land, Buller/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Buller/ DOC Backcountry hut
 Data0=(-41.60615,172.19734)
 [END]
 
@@ -72976,7 +72968,7 @@ Data0=(-41.60615,172.19734)
 [POI]
 Type=0x2f
 Label=GOAT PASS HUT
-StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut, 20 bunks
+StreetDesc=Arthur's Pass Ntl Park, Waimakariri - South Island > West Coast > Hokitika/ DOC 
 Data0=(-42.90151,171.62379)
 [END]
 
@@ -72992,7 +72984,7 @@ Data0=(-43.48034,170.51052)
 [POI]
 Type=0x2f
 Label=GOOSE FLAT HUT
-StreetDesc=Clarence Conservation Area, South Marlborough/ DOC Backcountry hut
+StreetDesc=Clarence Conservation Area - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-42.15129,173.55099)
 [END]
 
@@ -73008,7 +73000,7 @@ Data0=(-44.18346,168.19341)
 [POI]
 Type=0x2f
 Label=GOSLING HUT
-StreetDesc=Waihopai Conservation Area, South Marlborough/ DOC Backcountry hut
+StreetDesc=Waihopai Conservation Area - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-41.76884,173.34237)
 [END]
 
@@ -73016,7 +73008,7 @@ Data0=(-41.76884,173.34237)
 [POI]
 Type=0x2f
 Label=?GOULAND DOWNS HUT
-StreetDesc=Kahurangi Ntl Park, Golden Bay/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Golden Bay/ DOC Backcountry 
 Data0=(-40.89155,172.35227)
 [END]
 
@@ -73024,7 +73016,7 @@ Data0=(-40.89155,172.35227)
 [POI]
 Type=0x2f
 Label=GRANITY PASS HUT
-StreetDesc=Kahurangi Ntl Park, Motueka/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Motueka/ DOC Backcountry hut
 Data0=(-41.52373,172.56125)
 [END]
 
@@ -73032,7 +73024,7 @@ Data0=(-41.52373,172.56125)
 [POI]
 Type=0x2f
 Label=GRASSY FLATS HUT (NEW - 2005)
-StreetDesc=Stewardship land and part Waitaiki Historic Reserve, Hokitika/ DOC Backcountry h
+StreetDesc=Stewardship land and part Waitaiki Historic Reserve - South Island > West Coast 
 Data0=(-42.89188,171.29147)
 [END]
 
@@ -73056,7 +73048,7 @@ Data0=(-44.97925,168.26233)
 [POI]
 Type=0x2f
 Label=GREIGS HUT
-StreetDesc=Leatham Conservation Area, South Marlborough/ DOC Backcountry hut
+StreetDesc=Leatham Conservation Area - South Island > Marlborough > South Marlborough/ DOC 
 Data0=(-41.83649,173.10508)
 [END]
 
@@ -73064,7 +73056,7 @@ Data0=(-41.83649,173.10508)
 [POI]
 Type=0x2f
 Label=?GREYS HUT
-StreetDesc=Kahurangi Ntl Park, Buller/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > West Coast > Buller/ DOC Backcountry hut
 Data0=(-41.23913,172.27579)
 [END]
 
@@ -73072,7 +73064,7 @@ Data0=(-41.23913,172.27579)
 [POI]
 Type=0x2f
 Label=?GRIFFIN CREEK HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-42.79783,171.38253)
 [END]
 
@@ -73096,7 +73088,7 @@ Data0=(-43.58243,170.19658)
 [POI]
 Type=0x2f
 Label=HACKET HUT
-StreetDesc=Mount Richmond Forest Park, Motueka/ DOC Backcountry hut
+StreetDesc=Mount Richmond Forest Park - South Island > Nelson/Tasman > Motueka/ DOC Backcou
 Data0=(-41.41572,173.24586)
 [END]
 
@@ -73144,7 +73136,7 @@ Data0=(-46.95451,168.07170)
 [POI]
 Type=0x2f
 Label=?HAPUKU HUT
-StreetDesc=Mount Fyffe Conservation Area, South Marlborough/ DOC Backcountry hut
+StreetDesc=Mount Fyffe Conservation Area - South Island > Marlborough > South Marlborough/ 
 Data0=(-42.27119,173.65029)
 [END]
 
@@ -73152,7 +73144,7 @@ Data0=(-42.27119,173.65029)
 [POI]
 Type=0x2f
 Label=HARMAN HUT
-StreetDesc=Waitaiki Historic Reserve, Hokitika/ DOC Backcountry hut
+StreetDesc=Waitaiki Historic Reserve - South Island > West Coast > Hokitika/ DOC Backcountr
 Data0=(-42.91937,171.32135)
 [END]
 
@@ -73176,7 +73168,7 @@ Data0=(-45.83065,167.14512)
 [POI]
 Type=0x2f
 Label=HAYCOCKS BIVVY
-StreetDesc=Clarence Conservation Area, South Marlborough/ DOC Backcountry hut
+StreetDesc=Clarence Conservation Area - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-42.12206,173.70011)
 [END]
 
@@ -73184,7 +73176,7 @@ Data0=(-42.12206,173.70011)
 [POI]
 Type=0x2f
 Label=?HEALEY CREEK HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-43.04866,170.91149)
 [END]
 
@@ -73192,7 +73184,7 @@ Data0=(-43.04866,170.91149)
 [POI]
 Type=0x2f
 Label=HEAPHY TRAMPERS HUT
-StreetDesc=Kahurangi Ntl Park, Buller/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > West Coast > Buller/ DOC Backcountry hut
 Data0=(-40.98660,172.11032)
 [END]
 
@@ -73208,7 +73200,7 @@ Data0=(-44.85421,168.45573)
 [POI]
 Type=0x2f
 Label=?HELICOPTER FLAT HUT
-StreetDesc=Kahurangi Ntl Park, Motueka/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Motueka/ DOC Backcountry hut
 Data0=(-41.41653,172.36138)
 [END]
 
@@ -73224,7 +73216,7 @@ Data0=(-44.62384,168.11420)
 [POI]
 Type=0x2f
 Label=HIDDEN HUT
-StreetDesc=Wye Reserve, South Marlborough/ DOC Backcountry hut
+StreetDesc=Wye Reserve - South Island > Marlborough > South Marlborough/ DOC Backcountry hu
 Data0=(-41.73984,173.29580)
 [END]
 
@@ -73304,7 +73296,7 @@ Data0=(-42.61571,172.29805)
 [POI]
 Type=0x2f
 Label=HOPELESS HUT
-StreetDesc=Nelson Lakes Ntl Park, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Nelson Lakes Ntl Park - South Island > Nelson/Tasman > Nelson Lakes/ DOC Backcou
 Data0=(-41.93059,172.75670)
 [END]
 
@@ -73319,8 +73311,8 @@ Data0=(-43.68869,169.92244)
 ;1117033
 [POI]
 Type=0x2f
-Label=HORNBY HEIGHTS BIVVY
-StreetDesc=Clarence Conservation Area, South Marlborough/ DOC Backcountry hut
+Label=HORNBY HEIGHTS BIVVY (BIVOUAC)
+StreetDesc=Clarence Conservation Area - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-42.06722,173.74727)
 [END]
 
@@ -73336,7 +73328,7 @@ Data0=(-43.80914,169.41370)
 [POI]
 Type=0x2f
 Label=?HUNTERS HUT
-StreetDesc=Mount Richmond Forest Park, Motueka/ DOC Backcountry hut
+StreetDesc=Mount Richmond Forest Park - South Island > Nelson/Tasman > Motueka/ DOC Backcou
 Data0=(-41.59933,173.00250)
 [END]
 
@@ -73352,7 +73344,7 @@ Data0=(-43.22631,170.75290)
 [POI]
 Type=0x2f
 Label=HUNTS CREEK HUT
-StreetDesc=Arthur's Pass Ntl Park, Hokitika/ DOC Backcountry hut
+StreetDesc=Arthur's Pass Ntl Park - South Island > West Coast > Hokitika/ DOC Backcountry h
 Data0=(-42.84060,171.50060)
 [END]
 
@@ -73360,7 +73352,7 @@ Data0=(-42.84060,171.50060)
 [POI]
 Type=0x2f
 Label=?HURRICANE HUT
-StreetDesc=Kahurangi Ntl Park, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Nelson Lakes/ DOC Backcountr
 Data0=(-41.50696,172.38239)
 [END]
 
@@ -73400,7 +73392,7 @@ Data0=(-45.43664,168.37599)
 [POI]
 Type=0x2f
 Label=ISLAND GULLY HUT
-StreetDesc=Molesworth Recreation Reserve, South Marlborough/ DOC Backcountry hut
+StreetDesc=Molesworth Recreation Reserve - South Island > Marlborough > South Marlborough/ 
 Data0=(-42.14634,172.82595)
 [END]
 
@@ -73416,7 +73408,7 @@ Data0=(-45.47106,168.28997)
 [POI]
 Type=0x2f
 Label=ISOLATION HUT
-StreetDesc=Isolated Hill Scenic Reserve, South Marlborough/ DOC Backcountry hut
+StreetDesc=Isolated Hill Scenic Reserve - South Island > Marlborough > South Marlborough/ D
 Data0=(-41.89931,173.98445)
 [END]
 
@@ -73424,7 +73416,7 @@ Data0=(-41.89931,173.98445)
 [POI]
 Type=0x2f
 Label=?IVORY LAKE HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-43.13503,170.91260)
 [END]
 
@@ -73432,7 +73424,7 @@ Data0=(-43.13503,170.91260)
 [POI]
 Type=0x2f
 Label=JACKO FLAT HUT
-StreetDesc=Stewardship Land, Greymouth/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Greymouth/ DOC Backcountry hut
 Data0=(-42.70781,171.62987)
 [END]
 
@@ -73440,7 +73432,7 @@ Data0=(-42.70781,171.62987)
 [POI]
 Type=0x2f
 Label=JAM HUT
-StreetDesc=Clarence Conservation Area, South Marlborough/ DOC Backcountry hut
+StreetDesc=Clarence Conservation Area - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-42.09572,173.71519)
 [END]
 
@@ -73448,7 +73440,7 @@ Data0=(-42.09572,173.71519)
 [POI]
 Type=0x2f
 Label=JAMES MACKAY TRAMPERS HUT
-StreetDesc=Kahurangi Ntl Park, Buller/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > West Coast > Buller/ DOC Backcountry hut
 Data0=(-40.88602,172.21662)
 [END]
 
@@ -73472,7 +73464,7 @@ Data0=(-42.41551,172.57818)
 [POI]
 Type=0x2f
 Label=?JIM'S FLAT HUT
-StreetDesc=Granville Wildlife Management Area, Greymouth/ DOC Backcountry hut
+StreetDesc=Granville Wildlife Management Area - South Island > West Coast > Greymouth/ DOC 
 Data0=(-42.43402,171.73111)
 [END]
 
@@ -73480,7 +73472,7 @@ Data0=(-42.43402,171.73111)
 [POI]
 Type=0x2f
 Label=JOHN REID HUT
-StreetDesc=Kahurangi Ntl Park, Motueka/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Motueka/ DOC Backcountry hut
 Data0=(-41.40220,172.54953)
 [END]
 
@@ -73488,7 +73480,7 @@ Data0=(-41.40220,172.54953)
 [POI]
 Type=0x2f
 Label=JOHN TAIT HUT
-StreetDesc=Nelson Lakes Ntl Park/ DOC Backcountry hut
+StreetDesc=Nelson Lakes Ntl Park - South Island > Nelson/Tasman > Nelson Lakes/ DOC Backcou
 Data0=(-41.97481,172.76874)
 [END]
 
@@ -73496,7 +73488,7 @@ Data0=(-41.97481,172.76874)
 [POI]
 Type=0x2f
 Label=JOHNSON HUT
-StreetDesc=Stewardship Land, Buller/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Buller/ DOC Backcountry hut
 Data0=(-41.46771,172.27578)
 [END]
 
@@ -73528,7 +73520,7 @@ Data0=(-42.89745,171.42400)
 [POI]
 Type=0x2f
 Label=?JULIA HUT (OLD)
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-42.89746,171.42522)
 [END]
 
@@ -73552,15 +73544,15 @@ Data0=(-45.51089,169.18325)
 [POI]
 Type=0x2f
 Label=KAHURANGI KEEPERS HOUSE
-StreetDesc=Kahurangi Ntl Park, Golden Bay/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Golden Bay/ DOC Backcountry 
 Data0=(-40.77531,172.22764)
 [END]
 
 ;1117073
 [POI]
 Type=0x2f
-Label=KAHUTARA BIVVY
-StreetDesc=Clarence Conservation Area, South Marlborough/ DOC Backcountry hut
+Label=KAHUTARA BIVVY (BIVOUAC)
+StreetDesc=Clarence Conservation Area - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-42.32135,173.40643)
 [END]
 
@@ -73576,7 +73568,7 @@ Data0=(-44.48858,167.94382)
 [POI]
 Type=0x2f
 Label=?KAKAPO HUT
-StreetDesc=Kahurangi Ntl Park, Buller/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > West Coast > Buller/ DOC Backcountry hut
 Data0=(-41.33238,172.30395)
 [END]
 
@@ -73584,7 +73576,7 @@ Data0=(-41.33238,172.30395)
 [POI]
 Type=0x2f
 Label=KARAMEA BEND HUT
-StreetDesc=Kahurangi Ntl Park, Motueka/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Motueka/ DOC Backcountry hut
 Data0=(-41.23293,172.51059)
 [END]
 
@@ -73599,9 +73591,9 @@ Data0=(-44.79897,168.24551)
 ;1117085
 [POI]
 Type=0x2f
-Label=?KELLYS HUNTERS HUT
-StreetDesc=Port Adventure Conservation Land, Southern Islands/ DOC Backcountry hut
-Data0=(-47.07240,168.17160)
+Label=KELLYS HUNTERS HUT
+StreetDesc=Port Adventure Conservation Land, Stewart Island/ DOC Backcountry hut
+Data0=(-47.08131,168.17085)
 [END]
 
 ;1117086
@@ -73640,7 +73632,7 @@ Data0=(-44.23935,169.03597)
 [POI]
 Type=0x2f
 Label=KINGS CREEK HUT
-StreetDesc=Kahurangi Ntl Park, Motueka/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Motueka/ DOC Backcountry hut
 Data0=(-41.46565,172.48060)
 [END]
 
@@ -73664,7 +73656,7 @@ Data0=(-44.87102,169.16066)
 [POI]
 Type=0x2f
 Label=KIRWANS HUT
-StreetDesc=Victoria Forest Park, Greymouth/ DOC Backcountry hut
+StreetDesc=Victoria Forest Park - South Island > West Coast > Greymouth/ DOC Backcountry hu
 Data0=(-42.10314,172.00985)
 [END]
 
@@ -73680,7 +73672,7 @@ Data0=(-45.35521,168.09060)
 [POI]
 Type=0x2f
 Label=?KIWI FLAT HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-43.13547,170.74660)
 [END]
 
@@ -73688,7 +73680,7 @@ Data0=(-43.13547,170.74660)
 [POI]
 Type=0x2f
 Label=?KIWI HUT
-StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Arthur's Pass Ntl Park, Waimakariri - South Island > West Coast > Hokitika/ DOC 
 Data0=(-42.75692,171.74321)
 [END]
 
@@ -73696,7 +73688,7 @@ Data0=(-42.75692,171.74321)
 [POI]
 Type=0x2f
 Label=KIWI SADDLE HUT
-StreetDesc=Kahurangi Ntl Park, Motueka/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Motueka/ DOC Backcountry hut
 Data0=(-41.40713,172.49437)
 [END]
 
@@ -73720,7 +73712,7 @@ Data0=(-42.98140,171.18954)
 [POI]
 Type=0x2f
 Label=?KOROPUKU HUT
-StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Arthur's Pass Ntl Park, Waimakariri - South Island > West Coast > Hokitika/ DOC 
 Data0=(-42.81219,171.73434)
 [END]
 
@@ -73728,7 +73720,7 @@ Data0=(-42.81219,171.73434)
 [POI]
 Type=0x2f
 Label=KOWHAI HUT
-StreetDesc=Mount Fyffe Conservation Area, South Marlborough/ DOC Backcountry hut
+StreetDesc=Mount Fyffe Conservation Area - South Island > Marlborough > South Marlborough/ 
 Data0=(-42.29865,173.59513)
 [END]
 
@@ -73760,7 +73752,7 @@ Data0=(-44.54588,168.14390)
 [POI]
 Type=0x2f
 Label=LAKE CHALICE HUT
-StreetDesc=Mount Richmond Forest Park, South Marlborough/ DOC Backcountry hut
+StreetDesc=Mount Richmond Forest Park - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-41.56788,173.32020)
 [END]
 
@@ -73768,7 +73760,7 @@ Data0=(-41.56788,173.32020)
 [POI]
 Type=0x2f
 Label=?LAKE CHRISTABEL HUT
-StreetDesc=Lewis Pass Scenic Reserve (Ntl Reserve), Greymouth/ DOC Backcountry hut
+StreetDesc=Lewis Pass Scenic Reserve (Ntl Reserve) - South Island > West Coast > Greymouth/
 Data0=(-42.43715,172.25519)
 [END]
 
@@ -73816,7 +73808,7 @@ Data0=(-42.54890,172.22505)
 [POI]
 Type=0x2f
 Label=LAKE MATIRI HUT
-StreetDesc=Kahurangi Ntl Park, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Nelson Lakes/ DOC Backcountr
 Data0=(-41.65603,172.33006)
 [END]
 
@@ -73824,7 +73816,7 @@ Data0=(-41.65603,172.33006)
 [POI]
 Type=0x2f
 Label=?LAKE MORGAN HUT
-StreetDesc=Stewardship Land, Greymouth/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Greymouth/ DOC Backcountry hut
 Data0=(-42.66351,171.70934)
 [END]
 
@@ -73847,8 +73839,8 @@ Data0=(-45.70354,167.14340)
 ;1117126
 [POI]
 Type=0x2f
-Label=LAKE STREAM BIVVY
-StreetDesc=Victoria Forest Park, Greymouth/ DOC Backcountry hut
+Label=LAKE STREAM HUT (BIVVY / BIVOUAC)
+StreetDesc=Victoria Forest Park - South Island > West Coast > Greymouth/ DOC Backcountry hu
 Data0=(-42.24780,172.13207)
 [END]
 
@@ -73864,7 +73856,7 @@ Data0=(-45.02531,167.53728)
 [POI]
 Type=0x2f
 Label=LAKEHEAD HUT
-StreetDesc=Nelson Lakes Ntl Park, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Nelson Lakes Ntl Park - South Island > Nelson/Tasman > Nelson Lakes/ DOC Backcou
 Data0=(-41.87571,172.82184)
 [END]
 
@@ -73896,7 +73888,7 @@ Data0=(-44.86754,168.47378)
 [POI]
 Type=0x2f
 Label=LARRIKIN CREEK HUT
-StreetDesc=Kahurangi Ntl Park, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Nelson Lakes/ DOC Backcountr
 Data0=(-41.55974,172.31594)
 [END]
 
@@ -73936,7 +73928,7 @@ Data0=(-45.41961,170.08756)
 [POI]
 Type=0x2f
 Label=LEES CREEK HUT
-StreetDesc=Leatham Conservation Area, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Leatham Conservation Area - South Island > Nelson/Tasman > Nelson Lakes/ DOC Bac
 Data0=(-41.94333,172.97420)
 [END]
 
@@ -73944,7 +73936,7 @@ Data0=(-41.94333,172.97420)
 [POI]
 Type=0x2f
 Label=LEWIS HUT
-StreetDesc=Kahurangi Ntl Park, Buller/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > West Coast > Buller/ DOC Backcountry hut
 Data0=(-40.94000,172.14759)
 [END]
 
@@ -73960,7 +73952,7 @@ Data0=(-43.62863,170.31047)
 [POI]
 Type=0x2f
 Label=?LIMESTONE HUT
-StreetDesc=Clarence Conservation Area, South Marlborough/ DOC Backcountry hut
+StreetDesc=Clarence Conservation Area - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-42.24486,173.51468)
 [END]
 
@@ -74008,7 +74000,7 @@ Data0=(-42.93444,172.00734)
 [POI]
 Type=0x2f
 Label=LOCKE STREAM HUT
-StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Arthur's Pass Ntl Park, Waimakariri - South Island > West Coast > Hokitika/ DOC 
 Data0=(-42.73984,171.83014)
 [END]
 
@@ -74016,7 +74008,7 @@ Data0=(-42.73984,171.83014)
 [POI]
 Type=0x2f
 Label=?LONELY LAKE HUT
-StreetDesc=Kahurangi Ntl Park, Golden Bay/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Golden Bay/ DOC Backcountry 
 Data0=(-40.98256,172.55811)
 [END]
 
@@ -74031,8 +74023,8 @@ Data0=(-46.69443,167.80760)
 ;1117153
 [POI]
 Type=0x2f
-Label=?LOST STREAM BIVVY
-StreetDesc=Leatham Conservation Area, South Marlborough/ DOC Backcountry hut
+Label=?LOST STREAM BIVVY (BIVOUAC)
+StreetDesc=Leatham Conservation Area - South Island > Marlborough > South Marlborough/ DOC 
 Data0=(-41.87035,173.02415)
 [END]
 
@@ -74048,7 +74040,7 @@ Data0=(-43.26865,170.96536)
 [POI]
 Type=0x2f
 Label=LOWER ARAHURA HUT
-StreetDesc=Waitaiki Historic Reserve, Hokitika/ DOC Backcountry hut
+StreetDesc=Waitaiki Historic Reserve - South Island > West Coast > Hokitika/ DOC Backcountr
 Data0=(-42.85585,171.30021)
 [END]
 
@@ -74056,15 +74048,15 @@ Data0=(-42.85585,171.30021)
 [POI]
 Type=0x2f
 Label=LOWER GOULTER HUT
-StreetDesc=Mount Richmond Forest Park, South Marlborough/ DOC Backcountry hut
+StreetDesc=Mount Richmond Forest Park - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-41.61245,173.17592)
 [END]
 
 ;1117158
 [POI]
 Type=0x2f
-Label=?LOWER OLDEROG BIVVY
-StreetDesc=Waitaiki Historic Reserve, Hokitika/ DOC Backcountry hut
+Label=?LOWER OLDEROG BIVVY (BIVOUAC)
+StreetDesc=Waitaiki Historic Reserve - South Island > West Coast > Hokitika/ DOC Backcountr
 Data0=(-42.83812,171.30562)
 [END]
 
@@ -74200,15 +74192,15 @@ Data0=(-44.12918,169.44026)
 [POI]
 Type=0x2f
 Label=?MANSION HUT
-StreetDesc=Eyre Mountains Conservation Park, Murihiku/ DOC Backcountry hut
-Data0=(-45.49961,168.41586)
+StreetDesc=Eyre Forest Conservation Area/ DOC Backcountry hut
+Data0=(-45.49977,168.42349)
 [END]
 
 ;1117204
 [POI]
 Type=0x2f
 Label=MANSON NICHOLLS MEMORIAL HUT
-StreetDesc=Lewis Pass Scenic Reserve (Ntl Reserve), Greymouth/ DOC Backcountry hut
+StreetDesc=Lewis Pass Scenic Reserve (Ntl Reserve) - South Island > West Coast > Greymouth/
 Data0=(-42.30490,172.28946)
 [END]
 
@@ -74272,7 +74264,7 @@ Data0=(-43.18716,171.13148)
 [POI]
 Type=0x2f
 Label=?MCCONCHIES HUT
-StreetDesc=Kahurangi Ntl Park, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Nelson Lakes/ DOC Backcountr
 Data0=(-41.58738,172.36442)
 [END]
 
@@ -74344,7 +74336,7 @@ Data0=(-44.89211,168.27300)
 [POI]
 Type=0x2f
 Label=MID GOULTER HUT
-StreetDesc=Mount Richmond Forest Park, South Marlborough/ DOC Backcountry hut
+StreetDesc=Mount Richmond Forest Park - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-41.58035,173.23538)
 [END]
 
@@ -74352,7 +74344,7 @@ Data0=(-41.58035,173.23538)
 [POI]
 Type=0x2f
 Label=MID ROBINSON HUT
-StreetDesc=Victoria Forest Park, Greymouth/ DOC Backcountry hut
+StreetDesc=Victoria Forest Park - South Island > West Coast > Greymouth/ DOC Backcountry hu
 Data0=(-42.49934,172.08406)
 [END]
 
@@ -74360,7 +74352,7 @@ Data0=(-42.49934,172.08406)
 [POI]
 Type=0x2f
 Label=MID SILVERSTREAM HUT
-StreetDesc=Leatham Conservation Area, South Marlborough/ DOC Backcountry hut
+StreetDesc=Leatham Conservation Area - South Island > Marlborough > South Marlborough/ DOC 
 Data0=(-41.82544,173.04818)
 [END]
 
@@ -74368,7 +74360,7 @@ Data0=(-41.82544,173.04818)
 [POI]
 Type=0x2f
 Label=?MID STYX HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-42.89573,171.24525)
 [END]
 
@@ -74376,7 +74368,7 @@ Data0=(-42.89573,171.24525)
 [POI]
 Type=0x2f
 Label=?MID TAIPO HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-42.85014,171.44337)
 [END]
 
@@ -74384,7 +74376,7 @@ Data0=(-42.85014,171.44337)
 [POI]
 Type=0x2f
 Label=MID TRENT HUT
-StreetDesc=Stewardship Land, Greymouth/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Greymouth/ DOC Backcountry hut
 Data0=(-42.68966,171.89417)
 [END]
 
@@ -74392,7 +74384,7 @@ Data0=(-42.68966,171.89417)
 [POI]
 Type=0x2f
 Label=MID WAIROA HUT
-StreetDesc=Mount Richmond Forest Park, Motueka/ DOC Backcountry hut
+StreetDesc=Mount Richmond Forest Park - South Island > Nelson/Tasman > Motueka/ DOC Backcou
 Data0=(-41.57052,173.12149)
 [END]
 
@@ -74416,7 +74408,7 @@ Data0=(-43.82348,169.45499)
 [POI]
 Type=0x2f
 Label=MIDDY CREEK HUT
-StreetDesc=Mount Richmond Forest Park, Sounds/ DOC Backcountry hut
+StreetDesc=Mount Richmond Forest Park - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-41.38426,173.39272)
 [END]
 
@@ -74424,7 +74416,7 @@ Data0=(-41.38426,173.39272)
 [POI]
 Type=0x2f
 Label=?MIKONUI FLAT HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-43.02358,170.87467)
 [END]
 
@@ -74432,7 +74424,7 @@ Data0=(-43.02358,170.87467)
 [POI]
 Type=0x2f
 Label=?MIKONUI SPUR BIVVY
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-43.02777,170.93697)
 [END]
 
@@ -74480,7 +74472,7 @@ Data0=(-43.13043,171.25926)
 [POI]
 Type=0x2f
 Label=MOKIHINUI FORKS HUT
-StreetDesc=Stewardship Land, Buller/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Buller/ DOC Backcountry hut
 Data0=(-41.54824,172.17848)
 [END]
 
@@ -74488,7 +74480,7 @@ Data0=(-41.54824,172.17848)
 [POI]
 Type=0x2f
 Label=?MOLE HUT
-StreetDesc=Tutaki Conservation Area, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Tutaki Conservation Area - South Island > Nelson/Tasman > Nelson Lakes/ DOC Back
 Data0=(-41.96164,172.57173)
 [END]
 
@@ -74504,7 +74496,7 @@ Data0=(-45.83430,167.34909)
 [POI]
 Type=0x2f
 Label=?MONTGOMERIE HUT
-StreetDesc=Victoria Forest Park, Greymouth/ DOC Backcountry hut
+StreetDesc=Victoria Forest Park - South Island > West Coast > Greymouth/ DOC Backcountry hu
 Data0=(-42.14954,171.99746)
 [END]
 
@@ -74520,7 +74512,7 @@ Data0=(-44.02399,169.81244)
 [POI]
 Type=0x2f
 Label=?MOONBEAM HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-43.13874,170.80772)
 [END]
 
@@ -74528,7 +74520,7 @@ Data0=(-43.13874,170.80772)
 [POI]
 Type=0x2f
 Label=MORGAN HUT
-StreetDesc=Nelson Lakes Ntl Park, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Nelson Lakes Ntl Park - South Island > Nelson/Tasman > Nelson Lakes/ DOC Backcou
 Data0=(-41.98291,172.63089)
 [END]
 
@@ -74544,7 +74536,7 @@ Data0=(-45.48184,167.61022)
 [POI]
 Type=0x2f
 Label=MOUNT MISERY HUT
-StreetDesc=Nelson Lakes Ntl Park, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Nelson Lakes Ntl Park - South Island > Nelson/Tasman > Nelson Lakes/ DOC Backcou
 Data0=(-41.93427,172.67056)
 [END]
 
@@ -74552,7 +74544,7 @@ Data0=(-41.93427,172.67056)
 [POI]
 Type=0x2f
 Label=MT ARTHUR HUT
-StreetDesc=Kahurangi Ntl Park, Motueka/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Motueka/ DOC Backcountry hut
 Data0=(-41.19777,172.71560)
 [END]
 
@@ -74568,7 +74560,7 @@ Data0=(-45.52484,168.37277)
 [POI]
 Type=0x2f
 Label=MT FELL HUT
-StreetDesc=Mount Richmond Forest Park, South Marlborough/ DOC Backcountry hut
+StreetDesc=Mount Richmond Forest Park - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-41.45751,173.41483)
 [END]
 
@@ -74576,7 +74568,7 @@ Data0=(-41.45751,173.41483)
 [POI]
 Type=0x2f
 Label=MT FYFFE HUT
-StreetDesc=Mount Fyffe Conservation Area, South Marlborough/ DOC Backcountry hut
+StreetDesc=Mount Fyffe Conservation Area - South Island > Marlborough > South Marlborough/ 
 Data0=(-42.32378,173.59299)
 [END]
 
@@ -74584,7 +74576,7 @@ Data0=(-42.32378,173.59299)
 [POI]
 Type=0x2f
 Label=MT RINTOUL HUT
-StreetDesc=Mount Richmond Forest Park, South Marlborough/ DOC Backcountry hut
+StreetDesc=Mount Richmond Forest Park - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-41.51934,173.22064)
 [END]
 
@@ -74592,7 +74584,7 @@ Data0=(-41.51934,173.22064)
 [POI]
 Type=0x2f
 Label=?MT SUNDAY BIVVY
-StreetDesc=Mount Richmond Forest Park, South Marlborough/ DOC Backcountry hut
+StreetDesc=Mount Richmond Forest Park - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-41.40916,173.67950)
 [END]
 
@@ -74600,7 +74592,7 @@ Data0=(-41.40916,173.67950)
 [POI]
 Type=0x2f
 Label=?MUDFLATS HUT
-StreetDesc=Waitaiki Historic Reserve, Hokitika/ DOC Backcountry hut
+StreetDesc=Waitaiki Historic Reserve - South Island > West Coast > Hokitika/ DOC Backcountr
 Data0=(-42.87505,171.36826)
 [END]
 
@@ -74616,7 +74608,7 @@ Data0=(-43.72106,170.06445)
 [POI]
 Type=0x2f
 Label=?MULLINS HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-42.99668,171.12330)
 [END]
 
@@ -74624,7 +74616,7 @@ Data0=(-42.99668,171.12330)
 [POI]
 Type=0x2f
 Label=?MUNGO HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-43.02605,171.19624)
 [END]
 
@@ -74648,7 +74640,7 @@ Data0=(-43.46802,170.67643)
 [POI]
 Type=0x2f
 Label=MYTTONS HUT
-StreetDesc=Kahurangi Ntl Park, Golden Bay/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Golden Bay/ DOC Backcountry 
 Data0=(-41.13558,172.62162)
 [END]
 
@@ -74656,7 +74648,7 @@ Data0=(-41.13558,172.62162)
 [POI]
 Type=0x2f
 Label=NARDOO HUT
-StreetDesc=Nelson Lakes Ntl Park, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Nelson Lakes Ntl Park - South Island > Nelson/Tasman > Nelson Lakes/ DOC Backcou
 Data0=(-42.09699,172.42977)
 [END]
 
@@ -74664,7 +74656,7 @@ Data0=(-42.09699,172.42977)
 [POI]
 Type=0x2f
 Label=?NEAVE HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-43.18041,170.98241)
 [END]
 
@@ -74680,15 +74672,15 @@ Data0=(-44.08831,169.41242)
 [POI]
 Type=0x2f
 Label=?NEWTON CREEK HUT
-StreetDesc=Waitaiki Historic Reserve, Hokitika/ DOC Backcountry hut
+StreetDesc=Waitaiki Historic Reserve - South Island > West Coast > Hokitika/ DOC Backcountr
 Data0=(-42.84098,171.37773)
 [END]
 
 ;1117283
 [POI]
 Type=0x2f
-Label=?NEWTON RANGE BIVVY
-StreetDesc=Waitaiki Historic Reserve, Hokitika/ DOC Backcountry hut
+Label=?NEWTON RANGE BIVVY (BIVOUAC)
+StreetDesc=Waitaiki Historic Reserve - South Island > West Coast > Hokitika/ DOC Backcountr
 Data0=(-42.87897,171.26777)
 [END]
 
@@ -74792,7 +74784,7 @@ Data0=(-45.51079,169.18392)
 [POI]
 Type=0x2f
 Label=OLD MAN HUT
-StreetDesc=Mount Richmond Forest Park, South Marlborough/ DOC Backcountry hut
+StreetDesc=Mount Richmond Forest Park - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-41.52462,173.27099)
 [END]
 
@@ -74816,7 +74808,7 @@ Data0=(-44.44378,168.21382)
 [POI]
 Type=0x2f
 Label=OMAKA BIVVY
-StreetDesc=Ferny Gair Conservation Area, South Marlborough/ DOC Backcountry hut
+StreetDesc=Ferny Gair Conservation Area - South Island > Marlborough > South Marlborough/ D
 Data0=(-41.71144,173.75214)
 [END]
 
@@ -74848,7 +74840,7 @@ Data0=(-44.67332,169.98922)
 [POI]
 Type=0x2f
 Label=?OTEHAKE HUT
-StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Arthur's Pass Ntl Park - South Island > West Coast > Hokitika/ DOC Backcountry h
 Data0=(-42.85759,171.71069)
 [END]
 
@@ -74863,8 +74855,8 @@ Data0=(-43.70217,172.69257)
 ;1117331
 [POI]
 Type=0x2f
-Label=?PALMER BIVVY
-StreetDesc=Clarence Conservation Area, South Marlborough/ DOC Backcountry hut
+Label=?PALMER BIVVY (BIVOUAC)
+StreetDesc=Clarence Conservation Area - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-42.33617,173.25651)
 [END]
 
@@ -74880,7 +74872,7 @@ Data0=(-42.97192,171.34239)
 [POI]
 Type=0x2f
 Label=PASKE HUT
-StreetDesc=Rainbow Conservation Area, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Rainbow Conservation Area - South Island > Nelson/Tasman > Nelson Lakes/ DOC Bac
 Data0=(-42.11169,172.75443)
 [END]
 
@@ -74896,7 +74888,7 @@ Data0=(-44.60271,170.42956)
 [POI]
 Type=0x2f
 Label=?PELL STREAM HUT
-StreetDesc=Lewis Pass Scenic Reserve (Ntl Reserve), Greymouth/ DOC Backcountry hut
+StreetDesc=Lewis Pass Scenic Reserve (Ntl Reserve) - South Island > West Coast > Greymouth/
 Data0=(-42.32444,172.33963)
 [END]
 
@@ -74904,7 +74896,7 @@ Data0=(-42.32444,172.33963)
 [POI]
 Type=0x2f
 Label=PENK HUT
-StreetDesc=Ferny Gair Conservation Area, South Marlborough/ DOC Backcountry hut
+StreetDesc=Ferny Gair Conservation Area - South Island > Marlborough > South Marlborough/ D
 Data0=(-41.78687,173.68355)
 [END]
 
@@ -74912,15 +74904,15 @@ Data0=(-41.78687,173.68355)
 [POI]
 Type=0x2f
 Label=?PERRY SADDLE HUT
-StreetDesc=Kahurangi Ntl Park, Golden Bay/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Golden Bay/ DOC Backcountry 
 Data0=(-40.90098,172.40277)
 [END]
 
 ;1117344
 [POI]
 Type=0x2f
-Label=?PFEIFER BIVVY
-StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
+Label=?PFEIFER BIVVY (BIVOUAC)
+StreetDesc=Arthur's Pass Ntl Park, Waimakariri - South Island > West Coast > Hokitika/ DOC 
 Data0=(-42.80339,171.66557)
 [END]
 
@@ -74936,7 +74928,7 @@ Data0=(-43.12949,172.33738)
 [POI]
 Type=0x2f
 Label=?PINE VALLEY HUT
-StreetDesc=Mount Richmond Forest Park, South Marlborough/ DOC Backcountry hut
+StreetDesc=Mount Richmond Forest Park - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-41.49189,173.50593)
 [END]
 
@@ -74944,7 +74936,7 @@ Data0=(-41.49189,173.50593)
 [POI]
 Type=0x2f
 Label=?PINNACLE BIVVY
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-42.93789,171.17788)
 [END]
 
@@ -74976,7 +74968,7 @@ Data0=(-43.58373,170.18430)
 [POI]
 Type=0x2f
 Label=?POET HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-43.03561,171.15165)
 [END]
 
@@ -74984,7 +74976,7 @@ Data0=(-43.03561,171.15165)
 [POI]
 Type=0x2f
 Label=?POLLUCK CREEK HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-43.06402,170.82292)
 [END]
 
@@ -74992,7 +74984,7 @@ Data0=(-43.06402,170.82292)
 [POI]
 Type=0x2f
 Label=POOR PETE'S HUT
-StreetDesc=Kahurangi Ntl Park, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Nelson Lakes/ DOC Backcountr
 Data0=(-41.61415,172.32207)
 [END]
 
@@ -75024,7 +75016,7 @@ Data0=(-46.83631,168.08648)
 [POI]
 Type=0x2f
 Label=?PORTERS CREEK HUT
-StreetDesc=Mount Richmond Forest Park, Motueka/ DOC Backcountry hut
+StreetDesc=Mount Richmond Forest Park - South Island > Nelson/Tasman > Motueka/ DOC Backcou
 Data0=(-41.65335,172.99649)
 [END]
 
@@ -75056,7 +75048,7 @@ Data0=(-42.84943,171.80981)
 [POI]
 Type=0x2f
 Label=?PRICE BASIN HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-43.12923,170.96390)
 [END]
 
@@ -75064,7 +75056,7 @@ Data0=(-43.12923,170.96390)
 [POI]
 Type=0x2f
 Label=?PRICE FLAT HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-43.11060,171.00683)
 [END]
 
@@ -75072,7 +75064,7 @@ Data0=(-43.11060,171.00683)
 [POI]
 Type=0x2f
 Label=?PRICE FLAT HUT (HISTORIC)
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-43.10658,171.00604)
 [END]
 
@@ -75104,7 +75096,7 @@ Data0=(-42.85590,171.89655)
 [POI]
 Type=0x2f
 Label=?RAPID CREEK HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-43.01146,171.01116)
 [END]
 
@@ -75120,7 +75112,7 @@ Data0=(-43.80179,169.99934)
 [POI]
 Type=0x2f
 Label=?RED HILLS HUT
-StreetDesc=Six Mile Scenic Reserve, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Six Mile Scenic Reserve - South Island > Nelson/Tasman > Nelson Lakes/ DOC Backc
 Data0=(-41.73116,172.99149)
 [END]
 
@@ -75168,7 +75160,7 @@ Data0=(-43.76842,170.63166)
 [POI]
 Type=0x2f
 Label=RICHMOND SADDLE HUT
-StreetDesc=Mount Richmond Forest Park, South Marlborough/ DOC Backcountry hut
+StreetDesc=Mount Richmond Forest Park - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-41.47385,173.38304)
 [END]
 
@@ -75176,7 +75168,7 @@ Data0=(-41.47385,173.38304)
 [POI]
 Type=0x2f
 Label=RIGHT BRANCH WAIROA HUT
-StreetDesc=Mount Richmond Forest Park, Motueka/ DOC Backcountry hut
+StreetDesc=Mount Richmond Forest Park - South Island > Nelson/Tasman > Motueka/ DOC Backcou
 Data0=(-41.54671,173.03776)
 [END]
 
@@ -75184,7 +75176,7 @@ Data0=(-41.54671,173.03776)
 [POI]
 Type=0x2f
 Label=RIORDANS HUT
-StreetDesc=Kahurangi Ntl Park, Golden Bay/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Golden Bay/ DOC Backcountry 
 Data0=(-41.04552,172.74274)
 [END]
 
@@ -75200,7 +75192,7 @@ Data0=(-43.89476,169.32252)
 [POI]
 Type=0x2f
 Label=?ROARING LION HUT
-StreetDesc=Kahurangi Ntl Park, Motueka/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Motueka/ DOC Backcountry hut
 Data0=(-41.19900,172.43147)
 [END]
 
@@ -75216,7 +75208,7 @@ Data0=(-44.67040,168.30984)
 [POI]
 Type=0x2f
 Label=ROCKS HUT
-StreetDesc=Mount Richmond Forest Park, Sounds/ DOC Backcountry hut
+StreetDesc=Mount Richmond Forest Park - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-41.36717,173.35489)
 [END]
 
@@ -75224,7 +75216,7 @@ Data0=(-41.36717,173.35489)
 [POI]
 Type=0x2f
 Label=?ROCKY CREEK HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-42.78559,171.40852)
 [END]
 
@@ -75248,7 +75240,7 @@ Data0=(-45.85755,167.44274)
 [POI]
 Type=0x2f
 Label=ROEBUCK HUT
-StreetDesc=Mount Richmond Forest Park, Sounds/ DOC Backcountry hut
+StreetDesc=Mount Richmond Forest Park - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-41.41195,173.35739)
 [END]
 
@@ -75280,15 +75272,15 @@ Data0=(-44.72557,168.21532)
 [POI]
 Type=0x2f
 Label=?SABINE HUT
-StreetDesc=Nelson Lakes Ntl Park, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Nelson Lakes Ntl Park - South Island > Nelson/Tasman > Nelson Lakes/ DOC Backcou
 Data0=(-41.90067,172.68138)
 [END]
 
 ;1117412
 [POI]
 Type=0x2f
-Label=SALISBURY HUT
-StreetDesc=Kahurangi Ntl Park, Motueka/ DOC Backcountry hut
+Label=SALISBURY (LODGE) HUT
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Motueka/ DOC Backcountry hut
 Data0=(-41.18601,172.64885)
 [END]
 
@@ -75312,7 +75304,7 @@ Data0=(-44.41505,169.25707)
 [POI]
 Type=0x2f
 Label=SAXON HUT
-StreetDesc=Kahurangi Ntl Park, Golden Bay/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Golden Bay/ DOC Backcountry 
 Data0=(-40.88619,172.30785)
 [END]
 
@@ -75344,7 +75336,7 @@ Data0=(-42.80726,171.41285)
 [POI]
 Type=0x2f
 Label=SEDGEMERE SLEEPOUT
-StreetDesc=Molesworth Recreation Reserve, South Marlborough/ DOC Backcountry hut
+StreetDesc=Molesworth Recreation Reserve - South Island > Marlborough > South Marlborough/ 
 Data0=(-42.13550,172.89969)
 [END]
 
@@ -75368,7 +75360,7 @@ Data0=(-43.01372,171.07992)
 [POI]
 Type=0x2f
 Label=SEVERN HUT
-StreetDesc=Molesworth Recreation Reserve, South Marlborough/ DOC Backcountry hut
+StreetDesc=Molesworth Recreation Reserve - South Island > Marlborough > South Marlborough/ 
 Data0=(-42.06179,173.03667)
 [END]
 
@@ -75376,7 +75368,7 @@ Data0=(-42.06179,173.03667)
 [POI]
 Type=0x2f
 Label=?SEYMOUR HUT
-StreetDesc=Clarence Conservation Area, South Marlborough/ DOC Backcountry hut
+StreetDesc=Clarence Conservation Area - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-42.22212,173.39849)
 [END]
 
@@ -75416,7 +75408,7 @@ Data0=(-45.40412,168.43162)
 [POI]
 Type=0x2f
 Label=?SIBERIA HUT
-StreetDesc=Leatham Conservation Area, South Marlborough/ DOC Backcountry hut
+StreetDesc=Leatham Conservation Area - South Island > Marlborough > South Marlborough/ DOC 
 Data0=(-41.87933,173.07532)
 [END]
 
@@ -75424,7 +75416,7 @@ Data0=(-41.87933,173.07532)
 [POI]
 Type=0x2f
 Label=?SILVERSTREAM BIVVY
-StreetDesc=Leatham Conservation Area, South Marlborough/ DOC Backcountry hut
+StreetDesc=Leatham Conservation Area - South Island > Marlborough > South Marlborough/ DOC 
 Data0=(-41.79111,173.04218)
 [END]
 
@@ -75440,7 +75432,7 @@ Data0=(-43.05695,171.15533)
 [POI]
 Type=0x2f
 Label=SLATY CREEK HUT
-StreetDesc=Stewardship Land, Greymouth/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Greymouth/ DOC Backcountry hut
 Data0=(-42.54507,172.08456)
 [END]
 
@@ -75448,7 +75440,7 @@ Data0=(-42.54507,172.08456)
 [POI]
 Type=0x2f
 Label=SLATY HUT
-StreetDesc=Mount Richmond Forest Park, Motueka/ DOC Backcountry hut
+StreetDesc=Mount Richmond Forest Park, Motueka - South Island > Marlborough > South Marlbor
 Data0=(-41.48561,173.27851)
 [END]
 
@@ -75472,7 +75464,7 @@ Data0=(-43.20923,170.84851)
 [POI]
 Type=0x2f
 Label=?SNOWGRASS HUT
-StreetDesc=Clarence Conservation Area, South Marlborough/ DOC Backcountry hut
+StreetDesc=Clarence Conservation Area - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-42.05171,173.73904)
 [END]
 
@@ -75528,7 +75520,7 @@ Data0=(-46.93566,167.98420)
 [POI]
 Type=0x2f
 Label=SPEARGRASS HUT
-StreetDesc=Nelson Lakes Ntl Park, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Nelson Lakes Ntl Park - South Island > Nelson/Tasman > Nelson Lakes/ DOC Backcou
 Data0=(-41.85178,172.75233)
 [END]
 
@@ -75543,8 +75535,8 @@ Data0=(-45.70546,167.87888)
 ;1117452
 [POI]
 Type=0x2f
-Label=?SPLUGEONS SHELTER
-StreetDesc=Kahurangi Ntl Park, Motueka/ DOC Backcountry hut
+Label=?SPLUGEONS (ROCK) SHELTER
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Motueka/ DOC Backcountry hut
 Data0=(-41.20516,172.61145)
 [END]
 
@@ -75600,7 +75592,7 @@ Data0=(-43.34566,170.38471)
 [POI]
 Type=0x2f
 Label=STARVEALL HUT
-StreetDesc=Mount Richmond Forest Park, Motueka/ DOC Backcountry hut
+StreetDesc=Mount Richmond Forest Park - South Island > Nelson/Tasman > Motueka/ DOC Backcou
 Data0=(-41.45799,173.24122)
 [END]
 
@@ -75624,7 +75616,7 @@ Data0=(-42.46949,172.55783)
 [POI]
 Type=0x2f
 Label=?STONE HUT
-StreetDesc=Kahurangi Ntl Park, Motueka/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Motueka/ DOC Backcountry hut
 Data0=(-41.42054,172.44028)
 [END]
 
@@ -75672,7 +75664,7 @@ Data0=(-45.70226,166.94456)
 [POI]
 Type=0x2f
 Label=SYLVESTER HUT
-StreetDesc=Kahurangi Ntl Park, Golden Bay/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Golden Bay/ DOC Backcountry 
 Data0=(-41.10624,172.64429)
 [END]
 
@@ -75680,7 +75672,7 @@ Data0=(-41.10624,172.64429)
 [POI]
 Type=0x2f
 Label=TAIPO HUT
-StreetDesc=Kahurangi Ntl Park, Motueka/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Motueka/ DOC Backcountry hut
 Data0=(-41.39808,172.31283)
 [END]
 
@@ -75696,7 +75688,7 @@ Data0=(-45.05046,168.22234)
 [POI]
 Type=0x2f
 Label=TARN HUT
-StreetDesc=Mount Richmond Forest Park, South Marlborough/ DOC Backcountry hut
+StreetDesc=Mount Richmond Forest Park - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-41.55181,173.16804)
 [END]
 
@@ -75768,7 +75760,7 @@ Data0=(-43.89336,169.19477)
 [POI]
 Type=0x2f
 Label=?THOR HUT
-StreetDesc=Kahurangi Ntl Park, Motueka/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Motueka/ DOC Backcountry hut
 Data0=(-41.35300,172.43729)
 [END]
 
@@ -75784,7 +75776,7 @@ Data0=(-42.65593,172.15947)
 [POI]
 Type=0x2f
 Label=?TIRAUMEA HUT
-StreetDesc=Tutaki Conservation Area, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Tutaki Conservation Area - South Island > Nelson/Tasman > Nelson Lakes/ DOC Back
 Data0=(-41.90797,172.58200)
 [END]
 
@@ -75816,7 +75808,7 @@ Data0=(-42.94180,171.25497)
 [POI]
 Type=0x2f
 Label=?TOP CROOKED HUT
-StreetDesc=Stewardship Land, Greymouth/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Greymouth/ DOC Backcountry hut
 Data0=(-42.70414,171.69105)
 [END]
 
@@ -75888,7 +75880,7 @@ Data0=(-42.98409,171.21222)
 [POI]
 Type=0x2f
 Label=TOP LEATHAM HUT
-StreetDesc=Leatham Conservation Area, South Marlborough/ DOC Backcountry hut
+StreetDesc=Leatham Conservation Area - South Island > Marlborough > South Marlborough/ DOC 
 Data0=(-41.97301,173.08194)
 [END]
 
@@ -75896,7 +75888,7 @@ Data0=(-41.97301,173.08194)
 [POI]
 Type=0x2f
 Label=TOP MISERY HUT
-StreetDesc=Leatham Conservation Area, South Marlborough/ DOC Backcountry hut
+StreetDesc=Leatham Conservation Area - South Island > Marlborough > South Marlborough/ DOC 
 Data0=(-41.88408,172.99409)
 [END]
 
@@ -75912,7 +75904,7 @@ Data0=(-42.82153,171.34032)
 [POI]
 Type=0x2f
 Label=TOP ROBINSON HUT
-StreetDesc=Victoria Forest Park, Greymouth/ DOC Backcountry hut
+StreetDesc=Victoria Forest Park - South Island > West Coast > Greymouth/ DOC Backcountry hu
 Data0=(-42.47804,172.17916)
 [END]
 
@@ -75935,8 +75927,8 @@ Data0=(-43.01344,171.15392)
 ;1117536
 [POI]
 Type=0x2f
-Label=TOP TRENT HUT/LAGOON HUT
-StreetDesc=Stewardship Land, Greymouth/ DOC Backcountry hut
+Label=TOP TRENT HUT / LAGOON HUT
+StreetDesc=Stewardship Land - South Island > West Coast > Greymouth/ DOC Backcountry hut
 Data0=(-42.69980,171.83281)
 [END]
 
@@ -75952,7 +75944,7 @@ Data0=(-43.08818,170.88949)
 [POI]
 Type=0x2f
 Label=?TOP WAIROA HUT
-StreetDesc=Mount Richmond Forest Park, Motueka/ DOC Backcountry hut
+StreetDesc=Mount Richmond Forest Park - South Island > Nelson/Tasman > Motueka/ DOC Backcou
 Data0=(-41.61101,173.07568)
 [END]
 
@@ -75967,8 +75959,8 @@ Data0=(-43.12974,170.87662)
 ;1117540
 [POI]
 Type=0x2f
-Label=TOP WAITAHU BIVVY
-StreetDesc=Victoria Forest Park, Greymouth/ DOC Backcountry hut
+Label=TOP WAITAHU BIVVY (BIVOUAC)
+StreetDesc=Victoria Forest Park - South Island > West Coast > Greymouth/ DOC Backcountry hu
 Data0=(-42.20443,172.10802)
 [END]
 
@@ -75984,7 +75976,7 @@ Data0=(-42.77423,171.77750)
 [POI]
 Type=0x2f
 Label=?TREVOR CARTER HUT
-StreetDesc=Kahurangi Ntl Park, Motueka/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Motueka/ DOC Backcountry hut
 Data0=(-41.39815,172.39053)
 [END]
 
@@ -75992,7 +75984,7 @@ Data0=(-41.39815,172.39053)
 [POI]
 Type=0x2f
 Label=TRILOBITE HUT
-StreetDesc=Kahurangi Ntl Park, Golden Bay/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Golden Bay/ DOC Backcountry 
 Data0=(-41.13020,172.60844)
 [END]
 
@@ -76002,14 +75994,6 @@ Type=0x2f
 Label=TRUST/POULTER HUT
 StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
 Data0=(-42.85473,171.84268)
-[END]
-
-;1117549
-[POI]
-Type=0x2f
-Label=TUMMIL HUT
-StreetDesc=Ferny Gair Conservation Area, South Marlborough/ DOC Backcountry hut
-Data0=(-41.71402,173.67200)
 [END]
 
 ;1117550
@@ -76023,8 +76007,8 @@ Data0=(-43.81846,169.53700)
 ;1117551
 [POI]
 Type=0x2f
-Label=?TURKEYS NEST BIVVY
-StreetDesc=Wye Reserve, South Marlborough/ DOC Backcountry hut
+Label=?TURKEYS NEST BIVVY (BIVOUAC)
+StreetDesc=Wye Reserve - South Island > Marlborough > South Marlborough/ DOC Backcountry hu
 Data0=(-41.74702,173.32182)
 [END]
 
@@ -76048,7 +76032,7 @@ Data0=(-46.29161,167.85185)
 [POI]
 Type=0x2f
 Label=TUTAEKURI HUT
-StreetDesc=Stewardship Land, Greymouth/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Greymouth/ DOC Backcountry hut
 Data0=(-42.61423,171.97174)
 [END]
 
@@ -76104,7 +76088,7 @@ Data0=(-42.88396,171.61573)
 [POI]
 Type=0x2f
 Label=?UPPER D'URVILLE HUT
-StreetDesc=Nelson Lakes Ntl Park, Nelson Lakes/ DOC Backcountry hut
+StreetDesc=Nelson Lakes Ntl Park - South Island > Nelson/Tasman > Nelson Lakes/ DOC Backcou
 Data0=(-42.10823,172.60585)
 [END]
 
@@ -76112,7 +76096,7 @@ Data0=(-42.10823,172.60585)
 [POI]
 Type=0x2f
 Label=?UPPER GRIDIRON ROCK HUT
-StreetDesc=Kahurangi Ntl Park, Motueka/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Motueka/ DOC Backcountry hut
 Data0=(-41.17121,172.69626)
 [END]
 
@@ -76200,7 +76184,7 @@ Data0=(-43.38659,170.68011)
 [POI]
 Type=0x2f
 Label=?VENUS HUT
-StreetDesc=Kahurangi Ntl Park, Motueka/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Motueka/ DOC Backcountry hut
 Data0=(-41.31700,172.43999)
 [END]
 
@@ -76208,7 +76192,7 @@ Data0=(-41.31700,172.43999)
 [POI]
 Type=0x2f
 Label=WAIKITI HUT
-StreetDesc=Stewardship Land, Greymouth/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Greymouth/ DOC Backcountry hut
 Data0=(-42.61447,171.85392)
 [END]
 
@@ -76224,7 +76208,7 @@ Data0=(-42.91750,171.48667)
 [POI]
 Type=0x2f
 Label=WAINGARO FORKS HUT
-StreetDesc=Kahurangi Ntl Park, Golden Bay/ DOC Backcountry hut
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Golden Bay/ DOC Backcountry 
 Data0=(-41.04543,172.67438)
 [END]
 
@@ -76232,7 +76216,7 @@ Data0=(-41.04543,172.67438)
 [POI]
 Type=0x2f
 Label=WAINUI HUT
-StreetDesc=Abel Tasman Ntl Park, Golden Bay/ DOC Backcountry hut
+StreetDesc=Abel Tasman Ntl Park - South Island > Nelson/Tasman > Golden Bay/ DOC Backcountr
 Data0=(-40.91438,172.92004)
 [END]
 
@@ -76263,8 +76247,8 @@ Data0=(-44.85250,168.48362)
 ;1117607
 [POI]
 Type=0x2f
-Label=?WANGAPEKA BIVVY
-StreetDesc=Kahurangi Ntl Park, Buller/ DOC Backcountry hut
+Label=?WANGAPEKA BIVVY (BIVOUAC)
+StreetDesc=Kahurangi Ntl Park - South Island > West Coast > Buller/ DOC Backcountry hut
 Data0=(-41.37909,172.27568)
 [END]
 
@@ -76336,7 +76320,7 @@ Data0=(-43.16653,171.08960)
 [POI]
 Type=0x2f
 Label=WEST SABINE HUT
-StreetDesc=Nelson Lakes Ntl Park/ DOC Backcountry hut
+StreetDesc=Nelson Lakes Ntl Park - South Island > Nelson/Tasman > Nelson Lakes/ DOC Backcou
 Data0=(-42.00790,172.68398)
 [END]
 
@@ -76368,7 +76352,7 @@ Data0=(-43.19770,172.04044)
 [POI]
 Type=0x2f
 Label=WHARIWHARANGI HUT
-StreetDesc=Abel Tasman Ntl Park, Golden Bay/ DOC Backcountry hut
+StreetDesc=Abel Tasman Ntl Park - South Island > Nelson/Tasman > Golden Bay/ DOC Backcountr
 Data0=(-40.78908,172.97424)
 [END]
 
@@ -76376,7 +76360,7 @@ Data0=(-40.78908,172.97424)
 [POI]
 Type=0x2f
 Label=WHEEL CREEK HUT
-StreetDesc=Victoria Forest Park, Greymouth/ DOC Backcountry hut
+StreetDesc=Victoria Forest Park - South Island > West Coast > Greymouth/ DOC Backcountry hu
 Data0=(-42.07017,172.13354)
 [END]
 
@@ -76472,7 +76456,7 @@ Data0=(-43.02548,172.18273)
 [POI]
 Type=0x2f
 Label=ZOO HUT
-StreetDesc=Isolated Hill Scenic Reserve, South Marlborough/ DOC Backcountry hut
+StreetDesc=Isolated Hill Scenic Reserve - South Island > Marlborough > South Marlborough/ D
 Data0=(-41.92335,173.92705)
 [END]
 
@@ -130703,8 +130687,8 @@ Data0=(-43.53120,172.59670)
 ;1141801
 [POI]
 Type=0x2f15
-Label=PAYPHONE
-StreetDesc=Yaldhurst Rd cnr Cutts Rd Russley Chc/ Telecom, payphone, public phone box
+Label=PAYPHONE WIFI HOTSPOT
+StreetDesc=Yaldhurst Rd cnr Cutts Rd Russley Chc/ Telecom, payphone, public phone box, WiFi
 Phone=+6433425358
 Data0=(-43.52275,172.54221)
 [END]
@@ -162619,7 +162603,8 @@ Data0=(-43.51832,172.62649)
 [POI]
 Type=0x2b00
 Label=STRONECHRUBIE
-StreetDesc=8 Hoods Rd, Mt Somers/ Accommodation
+StreetDesc=8 Hoods Rd, Mt Somers/ High Country Accommodation
+Phone=+33039814
 Data0=(-43.71158,171.39811)
 [END]
 
@@ -205999,5 +205984,391 @@ Label=AFFORDABLE DESIGN SERVICES
 StreetDesc=122 Bay View Rd, South Dud, Dud, 9012/ architectural design, house plans, design
 Phone=+6434555490
 Data0=(-45.89978,170.50256)
+[END]
+
+;1183316
+[POI]
+Type=0x2f
+Label=ANITA CHAN FAMILY LAW BARRISTER
+StreetDesc=155 Princes St, Central Dud, Dud, 9016/ Specialist Family Law Barristers, we neg
+Phone=+6434778781
+zip=Monday - Friday 8.30am - 5.30pm
+Data0=(-45.87664,170.50235)
+[END]
+
+;1183318
+[POI]
+Type=0x6402
+Label=AVOCA HOMESTEAD
+StreetDesc=Korowai/Torlesse Tussocklands Park/ DOC Backcountry hut
+Data0=(-43.19446,171.87533)
+[END]
+
+;1183319
+[POI]
+Type=0x6402
+Label=BOUNDARY CREEK HUT
+StreetDesc=Hakatere Conservation Park/ DOC Backcountry hut
+Data0=(-44.72835,169.85427)
+[END]
+
+;1183320
+[POI]
+Type=0x6402
+Label=BROWN HUT
+StreetDesc=Oteake Conservation Park/ DOC Backcountry hut
+Data0=(-44.88857,170.26464)
+[END]
+
+;1183321
+[POI]
+Type=0x6402
+Label=BUSTER HUT
+StreetDesc=Oteake Conservation Park/ DOC Backcountry hut
+Data0=(-44.92443,170.26301)
+[END]
+
+;1183322
+[POI]
+Type=0x6402
+Label=CAMP CREEK HUT
+StreetDesc=Otira-Kopara Forest Conservation Area - South Island > West Coast > Greymouth/ D
+Data0=(-42.70581,171.56131)
+[END]
+
+;1183323
+[POI]
+Type=0x6402
+Label=COLD STREAM HUT
+StreetDesc=Lake Sumner Conservation Park/ DOC Backcountry hut
+Data0=(-42.74461,172.38189)
+[END]
+
+;1183325
+[POI]
+Type=0x6402
+Label=CROOKED SPUR HUT
+StreetDesc=Te Kahui Kaupeka Conservation Park/ DOC Backcountry hut
+Data0=(-43.62373,170.78990)
+[END]
+
+;1183327
+[POI]
+Type=0x6402
+Label=DEAS COVE HUT
+StreetDesc=Fiordland Ntl Park/ DOC Backcountry hut
+Data0=(-45.19366,166.97333)
+[END]
+
+;1183328
+[POI]
+Type=0x6402
+Label=DOG KENNEL BIVVY
+StreetDesc=Te Kahui Kaupeka Conservation Park/ DOC Backcountry hut
+Data0=(-43.58405,170.80982)
+[END]
+
+;1183329
+[POI]
+Type=0x6402
+Label=FERN BURN HUT
+StreetDesc=Motatapu Station Pastoral Lease/ DOC Backcountry hut
+Data0=(-44.73969,168.98455)
+[END]
+
+;1183330
+[POI]
+Type=0x6402
+Label=GLENRAE HUT
+StreetDesc=Lake Sumner Conservation Park/ DOC Backcountry hut
+Data0=(-42.64988,172.43212)
+[END]
+
+;1183331
+[POI]
+Type=0x6402
+Label=GROWLER HUT
+StreetDesc=Te Kahui Kaupeka Conservation Park/ DOC Backcountry hut
+Data0=(-43.51086,170.73892)
+[END]
+
+;1183332
+[POI]
+Type=0x6402
+Label=HAWDON HUT
+StreetDesc=Arthurs Pass Ntl Park/ DOC Backcountry hut
+Data0=(-42.91107,171.73266)
+[END]
+
+;1183333
+[POI]
+Type=0x6402
+Label=HIGHLAND CREEK HUT
+StreetDesc=Motatapu Station Pastoral Lease/ DOC Backcountry hut
+Data0=(-44.77414,168.94172)
+[END]
+
+;1183334
+[POI]
+Type=0x6402
+Label=HUT CREEK HUT
+StreetDesc=Oteake Conservation Park/ DOC Backcountry hut
+Data0=(-44.83353,170.27970)
+[END]
+
+;1183335
+[POI]
+Type=0x6402
+Label=JOLLIEBROOK HUT
+StreetDesc=Lake Sumner Conservation Park/ DOC Backcountry hut
+Data0=(-42.72093,172.33329)
+[END]
+
+;1183336
+[POI]
+Type=0x6402
+Label=LAKE GUYON HUT
+StreetDesc=Pastoral Lease/ DOC Backcountry hut
+Data0=(-42.31832,172.64820)
+[END]
+
+;1183337
+[POI]
+Type=0x6402
+Label=MINISTRY OF WORKS HISTORIC HUT
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Golden Bay/ DOC Backcountry 
+Data0=(-40.84224,172.24252)
+[END]
+
+;1183341
+[POI]
+Type=0x6402
+Label=OLD BASINS HUT
+StreetDesc=Craigieburn Conservation Park/ DOC Backcountry hut
+Data0=(-43.09985,171.48023)
+[END]
+
+;1183342
+[POI]
+Type=0x6402
+Label=PALMER HUT
+StreetDesc=Clarence Reserve - South Island > Marlborough > South Marlborough/ DOC Backcount
+Data0=(-42.29021,173.25982)
+[END]
+
+;1183344
+[POI]
+Type=0x6402
+Label=PINCHGUT HUT
+StreetDesc=Mt Thomas Forest/ DOC Backcountry hut
+Data0=(-42.42699,172.34870)
+[END]
+
+;1183345
+[POI]
+Type=0x6402
+Label=POOL HUT
+StreetDesc=St James Conservation Area/ DOC Backcountry hut
+Data0=(-42.39580,172.61560)
+[END]
+
+;1183346
+[POI]
+Type=0x6402
+Label=POSSUMER'S HUT
+StreetDesc=Ashley Forest/ DOC Backcountry hut
+Data0=(-43.14322,172.52782)
+[END]
+
+;1183347
+[POI]
+Type=0x6402
+Label=RIORDONS HUT
+StreetDesc=Kahurangi Ntl Park/ DOC Backcountry hut
+Data0=(-41.04548,172.74279)
+[END]
+
+;1183348
+[POI]
+Type=0x6402
+Label=ROSES HUT
+StreetDesc=Mount Soho Station Pastoral Lease./ DOC Backcountry hut
+Data0=(-44.80516,168.86141)
+[END]
+
+;1183349
+[POI]
+Type=0x6402
+Label=ROYAL HUT
+StreetDesc=Te Kahui Kaupeka Conservation Park/ DOC Backcountry hut
+Data0=(-43.77961,170.73228)
+[END]
+
+;1183350
+[POI]
+Type=0x6402
+Label=SCOTTIES HUT
+StreetDesc=St James Conservation Area/ DOC Backcountry hut
+Data0=(-42.42971,172.63995)
+[END]
+
+;1183351
+[POI]
+Type=0x6402
+Label=SIBERIA HUT
+StreetDesc=Mount Aspiring Ntl Park/ DOC Backcountry hut
+Data0=(-44.20571,169.05985)
+[END]
+
+;1183353
+[POI]
+Type=0x6402
+Label=SPURS HUT
+StreetDesc=Te Kahui Kaupeka Conservation Park/ DOC Backcountry hut
+Data0=(-43.82666,170.87196)
+[END]
+
+;1183354
+[POI]
+Type=0x6402
+Label=STONE HUT
+StreetDesc=Te Kahui Kaupeka Conservation Park/ DOC Backcountry hut
+Data0=(-43.68637,170.77116)
+[END]
+
+;1183357
+[POI]
+Type=0x6402
+Label=TOP HUT
+StreetDesc=Oteake Conservation Park/ DOC Backcountry hut
+Data0=(-44.67458,169.80803)
+[END]
+
+;1183358
+[POI]
+Type=0x6402
+Label=TOP KOKATAHI HUT
+StreetDesc=Stewardship Land/ DOC Backcountry hut
+Data0=(-42.98305,171.18896)
+[END]
+
+;1183359
+[POI]
+Type=0x6402
+Label=TOP TIMARU CREEK HUT
+StreetDesc=Hawea Conservation Area/ DOC Backcountry hut
+Data0=(-44.46950,169.50020)
+[END]
+
+;1183360
+[POI]
+Type=0x6402
+Label=TRIBULATION HUT
+StreetDesc=Mt Hutt Forest Conservation Area/ DOC Backcountry hut
+Data0=(-43.45539,171.45919)
+[END]
+
+;1183362
+[POI]
+Type=0x6402
+Label=WARDEN HUT
+StreetDesc=Clarence Reserve - South Island > Marlborough > South Marlborough/ DOC Backcount
+Data0=(-42.27857,173.43790)
+[END]
+
+;1183365
+[POI]
+Type=0x6402
+Label=ASBSTOS COTTAGE
+StreetDesc=Kahurangi Ntl Park/ DOC Backcountry hut
+Data0=(-41.12975,172.69172)
+[END]
+
+;1183367
+[POI]
+Type=0x6402
+Label=BARRATS BIVVY
+StreetDesc=Mt Manakau Scenic Reserve/ DOC Backcountry hut
+Data0=(-42.24451,173.67141)
+[END]
+
+;1183368
+[POI]
+Type=0x6402
+Label=BOUNDARY CREEK HUT
+StreetDesc=Oteake Conservation Park/ DOC Backcountry hut
+Data0=(-44.72802,169.85494)
+[END]
+
+;1183369
+[POI]
+Type=0x6402
+Label=FIDGET BIVVY
+StreetDesc=Clarence Reserve/ DOC Backcountry hut
+Data0=(-42.17662,173.62993)
+[END]
+
+;1183370
+[POI]
+Type=0x6402
+Label=JACK FLAT HUT
+StreetDesc=Stewardship Land/ DOC Backcountry hut
+Data0=(-42.70794,171.63101)
+[END]
+
+;1183371
+[POI]
+Type=0x6402
+Label=LAKE ALEXANDER HUT
+StreetDesc=Ferny Gair Conservation Area - South Island > Marlborough > South Marlborough/ D
+Data0=(-41.74929,173.66164)
+[END]
+
+;1183372
+[POI]
+Type=0x6402
+Label=MACKENZIE BIVVY (EAST BRANCH)
+StreetDesc=Lake Sumner Conservation Park/ DOC Backcountry hut
+Data0=(-42.76444,172.43378)
+[END]
+
+;1183374
+[POI]
+Type=0x6402
+Label=MID GLENROY HUT
+StreetDesc=Stewardship Land/ DOC Backcountry hut
+Data0=(-42.19354,172.36673)
+[END]
+
+;1183375
+[POI]
+Type=0x6402
+Label=NEW MARTINS CREEK HUNTERS HUT
+StreetDesc=Rakiura Ntl Park/ DOC Backcountry hut
+Data0=(-46.93911,167.76092)
+[END]
+
+;1183376
+[POI]
+Type=0x6402
+Label=STAN'S HUT
+StreetDesc=Stewardship Land/ DOC Backcountry hut
+Data0=(-43.35543,170.40274)
+[END]
+
+;1183377
+[POI]
+Type=0x6402
+Label=TE ONEROA A- FRAME HUT
+StreetDesc=Fiordland Ntl Park/ DOC Backcountry hut
+Data0=(-46.12328,166.67210)
+[END]
+
+;1183379
+[POI]
+Type=0x2f
+Label=UPPER GRIDIRON ROCK SHELTER
+StreetDesc=Kahurangi Ntl Park/ DOC shelter
+Data0=(-41.17119,172.69629)
 [END]
 

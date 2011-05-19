@@ -72487,9 +72487,9 @@ Data0=(-41.41602,173.57696)
 ;1116907
 [POI]
 Type=0x2f
-Label=?DEVILS DEN BIVVY
+Label=DEVILS DEN BIVVY
 StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
-Data0=(-42.48377,172.30009)
+Data0=(-42.48784,172.29407)
 [END]
 
 ;1116909
@@ -74784,7 +74784,7 @@ Data0=(-44.00772,169.74354)
 [POI]
 Type=0x2f
 Label=OLD JUNCTION HUT
-StreetDesc=Bains Conservation Area - access easement, Central Otago/ DOC Backcountry hut
+StreetDesc=Bains Conservation Area, Central Otago/ DOC historic hut
 Data0=(-45.51079,169.18392)
 [END]
 
@@ -75496,7 +75496,7 @@ Data0=(-44.04694,169.74104)
 [POI]
 Type=0x2f
 Label=SOUTH OPUHA HUT
-StreetDesc=Two Thumb CA Two Thumb Range, Raukapuka/ DOC Backcountry hut
+StreetDesc=Te Kahui Kaupeka Conservation Park, Two Thumb Range, Raukapuka,/ DOC Backcountry
 Data0=(-43.89827,170.72582)
 [END]
 
@@ -75554,14 +75554,6 @@ Type=0x2f
 Label=?SPOON HUT
 StreetDesc=Stewardship Land, South Westland/ DOC Backcountry hut
 Data0=(-44.16593,168.31340)
-[END]
-
-;1117454
-[POI]
-Type=0x2f
-Label=?SQUID HUT (DILAPIDATED)
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
-Data0=(-42.91295,171.19454)
 [END]
 
 ;1117455
@@ -76311,9 +76303,9 @@ Data0=(-43.63053,169.94600)
 ;1117614
 [POI]
 Type=0x2f
-Label=?WEST ARM HUT
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
-Data0=(-45.52575,167.27725)
+Label=WEST ARM HUT
+StreetDesc=Wilmot Pass Rd, Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
+Data0=(-45.52548,167.26315)
 [END]
 
 ;1117615
@@ -123124,6 +123116,7 @@ Data0=(-45.89681,170.53163)
 Type=0x2f
 Label=SPECIAL TOUCH BEAUTY MASSAGE
 StreetDesc=81 Lonsdale St, Dud/ Beautician
+zip=By appointment Mondays to Fridays 8.00am
 Data0=(-45.87837,170.48084)
 [END]
 
@@ -123725,9 +123718,9 @@ Data0=(-42.89966,170.81654)
 [POI]
 Type=0x2f
 Label=HOKITIKA CHEESE & DELI
-StreetDesc=84 Revell St, Hokitika/ 
+StreetDesc=84 Revell St, Hokitika, West Coast/ Cafe, food, delicatessen. Honey, preserves, 
 Phone=+6437555432
-Data0=(-42.71747,170.96144)
+Data0=(-42.71747,170.96140)
 [END]
 
 ;1138572
@@ -167032,7 +167025,7 @@ Data0=(-46.42237,168.37968)
 Type=0x2f
 Label=NGA PUAWAI KOHANGA REO
 StreetDesc=85A Budge St, Blenheim/ Te Kohanga Reo
-Phone=+6435785154
+Phone=+6435781536
 Data0=(-41.50426,173.96754)
 [END]
 
@@ -205987,5 +205980,24 @@ Type=0x2a07
 Label=NOODLE CANTEEN
 StreetDesc=321 Queen St, Richmond, Nelson/ Fastfood
 Data0=(-41.33657,173.18134)
+[END]
+
+;1183305
+[POI]
+Type=0x2f
+Label=JOINERY SPECIALISTS
+StreetDesc=608 Kaikorai Valley Rd, Dud, 9011/ Custom built kitchens, bathrooms and joinery 
+Phone=+6434882371
+zip=Monday - Thursday 8.00am - 5.00pm Friday
+Data0=(-45.89230,170.45969)
+[END]
+
+;1183308
+[POI]
+Type=0x2f
+Label=AFFORDABLE DESIGN SERVICES
+StreetDesc=122 Bay View Rd, South Dud, Dud, 9012/ architectural design, house plans, design
+Phone=+6434555490
+Data0=(-45.89978,170.50256)
 [END]
 

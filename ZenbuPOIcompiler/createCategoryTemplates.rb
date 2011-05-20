@@ -29,6 +29,7 @@ end
 
 categories = [
 '00 Not For Maps.txt',
+'01 Speed Cameras.txt',
 'Accommodation - Bed & Breakfast, Inn 0x2b02.txt',
 'Accommodation - Camping, RV Park 0x2b03.txt',
 'Accommodation - Hotel - Motel 0x2b01.txt',

@@ -28705,7 +28705,7 @@ Data0=(-44.73736,170.46625)
 Type=0x2d05
 Label=LAKE HAWEA GOLF CLUB
 StreetDesc=State Highway 6, Alberttown Hawea Highway, Lake Hawea/ Golf Course, 18 holes
-Phone=+6434431698
+Phone=+34431036
 zip=Everyday
 Data0=(-44.61717,169.24562)
 [END]
@@ -56825,10 +56825,10 @@ Data0=(-43.53266,172.60848)
 [POI]
 Type=0x2f
 Label=MAPWORLD NEW ZEALAND
-StreetDesc=255 Manchester St, Chc/ 
+StreetDesc=41 Moorhouse Ave, Chc/ 
 Phone=+6433745399
-zip=M-F 8 to 6, S&S 9 to 5
-Data0=(-43.52970,172.63952)
+zip=Mon to Sat, 9 to 5
+Data0=(-43.53947,172.62089)
 [END]
 
 ;1109062
@@ -71224,7 +71224,7 @@ Data0=(-42.32511,173.34883)
 [POI]
 Type=0x2f
 Label=ALMER HUT
-StreetDesc=Westland Ntl Park/ DOC Backcountry hut
+StreetDesc=Westland Ntl Park - South Island > West Coast > Glaciers/ DOC Backcountry hut
 Data0=(-43.47458,170.20855)
 [END]
 
@@ -71320,7 +71320,7 @@ Data0=(-44.79607,168.63719)
 [POI]
 Type=0x2f
 Label=ARCHITECT CREEK HUT
-StreetDesc=Westland Ntl Park, South Westland/ DOC Backcountry hut
+StreetDesc=Westland Ntl Park, South Westland - South Island > West Coast > Glaciers/ DOC Ba
 Data0=(-43.61106,169.88532)
 [END]
 
@@ -71896,7 +71896,7 @@ Data0=(-41.83672,172.82342)
 [POI]
 Type=0x2f
 Label=BUTLER JUNCTION HUT
-StreetDesc=Stewardship Land, Franz Josef/ DOC Backcountry hut
+StreetDesc=Stewardship Land, Franz Josef - South Island > West Coast > Glaciers/ DOC Backco
 Data0=(-43.40743,170.41456)
 [END]
 
@@ -72064,7 +72064,7 @@ Data0=(-43.09711,171.69154)
 [POI]
 Type=0x2f
 Label=?CASSEL FLAT HUT
-StreetDesc=Westland Ntl park, South Westland/ DOC Backcountry hut
+StreetDesc=Westland Ntl park, South Westland - South Island > West Coast > Glaciers/ DOC Ba
 Data0=(-43.65865,169.82684)
 [END]
 
@@ -72080,7 +72080,7 @@ Data0=(-40.96169,172.95357)
 [POI]
 Type=0x2f
 Label=?CASTLE ROCKS HUT
-StreetDesc=Westland Ntl Park/ DOC Backcountry hut
+StreetDesc=Westland Ntl Park - South Island > West Coast > Glaciers/ DOC Backcountry hut
 Data0=(-43.45301,170.16622)
 [END]
 
@@ -72136,7 +72136,7 @@ Data0=(-43.18104,171.12511)
 [POI]
 Type=0x2f
 Label=CENTENNIAL HUT
-StreetDesc=Westland Ntl Park/ DOC Backcountry hut
+StreetDesc=Westland Ntl Park - South Island > West Coast > Glaciers/ DOC Backcountry hut
 Data0=(-43.50823,170.23410)
 [END]
 
@@ -72152,7 +72152,7 @@ Data0=(-42.29376,171.39186)
 [POI]
 Type=0x2f
 Label=CHANCELLOR HUT
-StreetDesc=Westland Ntl Park, South Westland/ DOC Backcountry hut
+StreetDesc=Westland Ntl Park, South Westland - South Island > West Coast > Glaciers/ DOC Ba
 Data0=(-43.51034,170.10861)
 [END]
 
@@ -72176,7 +72176,7 @@ Data0=(-47.01698,168.21083)
 [POI]
 Type=0x2f
 Label=?CHRISTMAS FLAT HUT
-StreetDesc=Westland Ntl park, South Westland/ DOC Backcountry hut
+StreetDesc=Westland Ntl park, South Westland - South Island > West Coast > Glaciers/ DOC Ba
 Data0=(-43.71947,169.91059)
 [END]
 
@@ -72552,7 +72552,7 @@ Data0=(-47.03131,167.70601)
 [POI]
 Type=0x2f
 Label=DOUGLAS ROCK HUT
-StreetDesc=Westland Ntl Park, South Westland/ DOC Backcountry hut
+StreetDesc=Westland Ntl Park, South Westland - South Island > West Coast > Glaciers/ DOC Ba
 Data0=(-43.65264,170.01828)
 [END]
 
@@ -73304,7 +73304,7 @@ Data0=(-41.93059,172.75670)
 [POI]
 Type=0x2f
 Label=HORACE WALKER HUT
-StreetDesc=Westland Ntl Park, South Westland/ DOC Backcountry hut
+StreetDesc=Westland Ntl Park, South Westland - South Island > West Coast > Glaciers/ DOC Ba
 Data0=(-43.68869,169.92244)
 [END]
 
@@ -73336,7 +73336,7 @@ Data0=(-41.59933,173.00250)
 [POI]
 Type=0x2f
 Label=?HUNTERS HUT
-StreetDesc=Stewardship Land, Franz Josef/ DOC Backcountry hut
+StreetDesc=Stewardship Land, Franz Josef - South Island > West Coast > Glaciers/ DOC Backco
 Data0=(-43.22631,170.75290)
 [END]
 
@@ -73864,7 +73864,7 @@ Data0=(-41.87571,172.82184)
 [POI]
 Type=0x2f
 Label=?LAME DUCK HUT (DILAPIDATED)
-StreetDesc=Westland Ntl park, South Westland/ DOC Backcountry hut
+StreetDesc=Westland Ntl park, South Westland - South Island > West Coast > Glaciers/ DOC Ba
 Data0=(-43.70633,169.86505)
 [END]
 
@@ -74704,7 +74704,7 @@ Data0=(-42.46591,172.32173)
 [POI]
 Type=0x2f
 Label=?NOLANS HUT
-StreetDesc=Stewardship Land, Franz Josef/ DOC Backcountry hut
+StreetDesc=Stewardship Land, Franz Josef - South Island > West Coast > Glaciers/ DOC Backco
 Data0=(-43.34875,170.48206)
 [END]
 
@@ -74952,7 +74952,7 @@ Data0=(-43.61070,171.38152)
 [POI]
 Type=0x2f
 Label=?PIONEER HUT
-StreetDesc=Westland Ntl Park, South Westland/ DOC Backcountry hut
+StreetDesc=Westland Ntl Park, South Westland - South Island > West Coast > Glaciers/ DOC Ba
 Data0=(-43.53083,170.18114)
 [END]
 
@@ -75312,7 +75312,7 @@ Data0=(-40.88619,172.30785)
 [POI]
 Type=0x2f
 Label=?SCAMPER TORRENT HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-43.15329,170.73734)
 [END]
 
@@ -75320,7 +75320,7 @@ Data0=(-43.15329,170.73734)
 [POI]
 Type=0x2f
 Label=SCONE HUT
-StreetDesc=Stewardship Land, Franz Josef/ DOC Backcountry hut
+StreetDesc=Stewardship Land, Franz Josef - South Island > West Coast > Glaciers/ DOC Backco
 Data0=(-43.37551,170.56929)
 [END]
 
@@ -75328,7 +75328,7 @@ Data0=(-43.37551,170.56929)
 [POI]
 Type=0x2f
 Label=?SCOTTYS BIVVY
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-42.80726,171.41285)
 [END]
 
@@ -75352,7 +75352,7 @@ Data0=(-43.68762,170.07701)
 [POI]
 Type=0x2f
 Label=?SERPENTINE HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-43.01372,171.07992)
 [END]
 
@@ -75424,7 +75424,7 @@ Data0=(-41.79111,173.04218)
 [POI]
 Type=0x2f
 Label=?SIR ROBERT HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-43.05695,171.15533)
 [END]
 
@@ -75456,7 +75456,7 @@ Data0=(-44.95633,168.27439)
 [POI]
 Type=0x2f
 Label=?SMYTH HUT
-StreetDesc=Stewardship Land, Franz Josef/ DOC Backcountry hut
+StreetDesc=Stewardship Land, Franz Josef - South Island > West Coast > Glaciers/ DOC Backco
 Data0=(-43.20923,170.84851)
 [END]
 
@@ -75584,7 +75584,7 @@ Data0=(-45.29354,170.68011)
 [POI]
 Type=0x2f
 Label=?STAN'S HUT
-StreetDesc=Stewardship Land, Franz Josef/ DOC Backcountry hut
+StreetDesc=Stewardship Land, Franz Josef - South Island > West Coast > Glaciers/ DOC Backco
 Data0=(-43.34566,170.38471)
 [END]
 
@@ -75784,7 +75784,7 @@ Data0=(-41.90797,172.58200)
 [POI]
 Type=0x2f
 Label=?TOAROHA SADDLE BIVVY
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-43.02406,171.16478)
 [END]
 
@@ -75800,7 +75800,7 @@ Data0=(-43.42017,170.44059)
 [POI]
 Type=0x2f
 Label=?TOP CRAWFORD HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-42.94180,171.25497)
 [END]
 
@@ -75868,14 +75868,6 @@ StreetDesc=Wakatipu/ DOC Backcountry hut
 Data0=(-44.82439,168.47661)
 [END]
 
-;1117528
-[POI]
-Type=0x2f
-Label=?TOP KOKATAHI HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
-Data0=(-42.98409,171.21222)
-[END]
-
 ;1117529
 [POI]
 Type=0x2f
@@ -75895,8 +75887,8 @@ Data0=(-41.88408,172.99409)
 ;1117532
 [POI]
 Type=0x2f
-Label=?TOP OLDEROG BIVVY
-StreetDesc=Waitaiki Historic Reserve, Hokitika/ DOC Backcountry hut
+Label=?TOP OLDEROG BIVVY (BIVOUAC)
+StreetDesc=Waitaiki Historic Reserve - South Island > West Coast > Hokitika/ DOC Backcountr
 Data0=(-42.82153,171.34032)
 [END]
 
@@ -75920,7 +75912,7 @@ Data0=(-44.46953,169.50020)
 [POI]
 Type=0x2f
 Label=?TOP TOAROHA HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-43.01344,171.15392)
 [END]
 
@@ -75936,7 +75928,7 @@ Data0=(-42.69980,171.83281)
 [POI]
 Type=0x2f
 Label=?TOP TUKE HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-43.08818,170.88949)
 [END]
 
@@ -75952,7 +75944,7 @@ Data0=(-41.61101,173.07568)
 [POI]
 Type=0x2f
 Label=?TOP WAITAHA HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-43.12974,170.87662)
 [END]
 
@@ -75968,7 +75960,7 @@ Data0=(-42.20443,172.10802)
 [POI]
 Type=0x2f
 Label=?TOWNSEND HUT
-StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Arthur's Pass Ntl Park, Waimakariri - South Island > West Coast > Hokitika/ DOC 
 Data0=(-42.77423,171.77750)
 [END]
 
@@ -76080,7 +76072,7 @@ Data0=(-45.44554,168.32791)
 [POI]
 Type=0x2f
 Label=UPPER DECEPTION HUT
-StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut, 6 bunks
+StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > West Coast > Hokitik
 Data0=(-42.88396,171.61573)
 [END]
 
@@ -76376,7 +76368,7 @@ Data0=(-43.44172,170.37104)
 [POI]
 Type=0x2f
 Label=?WILKINSON HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-43.15712,170.98933)
 [END]
 
@@ -76423,8 +76415,8 @@ Data0=(-46.69457,167.88795)
 ;1117639
 [POI]
 Type=0x2f
-Label=?YEATS HUT
-StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
+Label=?YEATS RIDGE HUT
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-42.98432,171.14888)
 [END]
 
@@ -199287,9 +199279,9 @@ Data0=(-43.30466,172.58649)
 [POI]
 Type=0x2f
 Label=DEEP CANYON
-StreetDesc=17 Dunmore St, Wanaka/ Tourist attraction
+StreetDesc=99 Ardmore St, Wanaka/ Canyoning, tourist attraction & activity
 Phone=+6434437922
-Data0=(-44.69603,169.13475)
+Data0=(-44.69482,169.13551)
 [END]
 
 ;1178334
@@ -202151,10 +202143,10 @@ Data0=(-43.51971,172.65910)
 ;1179731
 [POI]
 Type=0x2f
-Label=MAINLY TRAMPING
-StreetDesc=Spencer House Mall, 31 Dunmore St, Wanaka/ 
+Label=MT OUTDOORS
+StreetDesc=17 Dunmore St, Wanaka/ Outdoor equipment, gear and clothing. Ski & snowboard ren
 Phone=+6434432888
-Data0=(-44.69634,169.13427)
+Data0=(-44.69598,169.13498)
 [END]
 
 ;1179732
@@ -206248,7 +206240,7 @@ Data0=(-44.67458,169.80803)
 [POI]
 Type=0x6402
 Label=TOP KOKATAHI HUT
-StreetDesc=Stewardship Land/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
 Data0=(-42.98305,171.18896)
 [END]
 
@@ -206352,7 +206344,7 @@ Data0=(-46.93911,167.76092)
 [POI]
 Type=0x6402
 Label=STAN'S HUT
-StreetDesc=Stewardship Land/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > Glaciers/ DOC Backcountry hut
 Data0=(-43.35543,170.40274)
 [END]
 

@@ -71158,9 +71158,9 @@ Data0=(-43.19359,172.33550)
 
 ;1116701
 [POI]
-Type=0x2f
-Label=A - FRAME HUT
-StreetDesc=Glenariffe/Winterslow Conservation Area, Raukapuka/ DOC Backcountry hut
+Type=0x6402
+Label=A - FRAME HUT (BIVVY, BIVOUAC)
+StreetDesc=Glenariffe/Winterslow Conservation Area, Raukapuka - South Island > Canterbury >
 Data0=(-43.38279,171.36979)
 [END]
 
@@ -71302,7 +71302,7 @@ Data0=(-45.67135,167.93001)
 
 ;1116724
 [POI]
-Type=0x2f
+Type=0x6402
 Label=APARIMA HUT (MAIN HUT)
 StreetDesc=Takitimu Conservation Area, Murihiku/ DOC Backcountry hut
 Data0=(-45.70734,167.99973)
@@ -71624,7 +71624,7 @@ Data0=(-41.86277,173.32400)
 [POI]
 Type=0x2f
 Label=BLUE RIVER (BLOWFLY) HUT
-StreetDesc=Stewardship Land, South Westland/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > South Westland/ DOC Backcountry h
 Data0=(-43.79238,169.34565)
 [END]
 
@@ -71799,9 +71799,9 @@ Data0=(-40.85063,172.44753)
 ;1116803
 [POI]
 Type=0x2f
-Label=?BROWNING HUT
+Label=BROWNING HUT
 StreetDesc=Mount Richmond Forest Park - South Island > Nelson/Tasman > Motueka/ DOC Backcou
-Data0=(-41.41397,173.27703)
+Data0=(-41.41373,173.27689)
 [END]
 
 ;1116804
@@ -71902,7 +71902,7 @@ Data0=(-43.40743,170.41456)
 
 ;1116818
 [POI]
-Type=0x2f
+Type=0x6402
 Label=CAMERON HUT
 StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
 Data0=(-42.71087,171.95207)
@@ -71910,7 +71910,7 @@ Data0=(-42.71087,171.95207)
 
 ;1116819
 [POI]
-Type=0x2f
+Type=0x6402
 Label=CAMERON HUT
 StreetDesc=Rangitata/Rakaia Conservation Area, Raukapuka - South Island > Canterbury > Mid 
 Data0=(-43.36704,171.01802)
@@ -72000,7 +72000,7 @@ Data0=(-42.55038,172.49586)
 [POI]
 Type=0x2f
 Label=?CARNEY'S BIVVY NO. 1
-StreetDesc=Havelock Forest Conservation Area, Raukapuka/ DOC Backcountry hut
+StreetDesc=Havelock Forest Conservation Area, Raukapuka - South Island > Canterbury > Mid &
 Data0=(-43.49641,170.66214)
 [END]
 
@@ -72008,7 +72008,7 @@ Data0=(-43.49641,170.66214)
 [POI]
 Type=0x2f
 Label=?CARNEY'S BIVVY NO. 2
-StreetDesc=Havelock Forest Conservation Area, Raukapuka/ DOC Backcountry hut
+StreetDesc=Havelock Forest Conservation Area, Raukapuka - South Island > Canterbury > Mid &
 Data0=(-43.49641,170.66214)
 [END]
 
@@ -72256,7 +72256,7 @@ Data0=(-41.87033,172.81715)
 [POI]
 Type=0x2f
 Label=COLIN TODD HUT
-StreetDesc=Mount Aspiring Ntl Park, Wanaka/ DOC Backcountry hut
+StreetDesc=Mount Aspiring Ntl Park, Wanaka - South Island > West Coast > South Westland/ DO
 Data0=(-44.37207,168.69454)
 [END]
 
@@ -72296,7 +72296,7 @@ Data0=(-43.65485,170.09845)
 [POI]
 Type=0x2f
 Label=COPPERMINE CREEK HUT
-StreetDesc=Stewardship Land, South Westland/ DOC Backcountry hut
+StreetDesc=Stewardship Land, South Westland - South Island > West Coast > South Westland/ D
 Data0=(-43.82251,169.16768)
 [END]
 
@@ -72311,9 +72311,9 @@ Data0=(-44.36103,169.51664)
 ;1116881
 [POI]
 Type=0x2f
-Label=?COUNTY STREAM HUT
+Label=COUNTY STREAM HUT
 StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
-Data0=(-43.15818,170.85031)
+Data0=(-43.15810,170.84984)
 [END]
 
 ;1116883
@@ -72344,7 +72344,7 @@ Data0=(-42.96038,171.23360)
 [POI]
 Type=0x2f
 Label=?CRESWICKE FLAT HUT
-StreetDesc=Stewardship Land, South Westland/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > South Westland/ DOC Backcountry h
 Data0=(-43.92295,169.68922)
 [END]
 
@@ -72831,9 +72831,9 @@ Data0=(-41.43175,173.64092)
 ;1116963
 [POI]
 Type=0x2f
-Label=?FREDS CAMP HUT
+Label=FREDS CAMP HUT
 StreetDesc=Rakiura Ntl Park, Southern Islands/ DOC Backcountry hut
-Data0=(-46.92825,167.97845)
+Data0=(-46.92846,167.97781)
 [END]
 
 ;1116964
@@ -72992,7 +72992,7 @@ Data0=(-42.15129,173.55099)
 [POI]
 Type=0x2f
 Label=?GORGE RIVER HUT
-StreetDesc=Stewardship Land, South Westland/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > South Westland/ DOC Backcountry h
 Data0=(-44.18346,168.19341)
 [END]
 
@@ -73150,7 +73150,7 @@ Data0=(-42.91937,171.32135)
 
 ;1117007
 [POI]
-Type=0x2f
+Type=0x6402
 Label=HARPER PASS BIVVY
 StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
 Data0=(-42.72502,171.89660)
@@ -73320,7 +73320,7 @@ Data0=(-42.06722,173.74727)
 [POI]
 Type=0x2f
 Label=HORSESHOE FLAT HUT
-StreetDesc=Stewardship Land, South Westland/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > South Westland/ DOC Backcountry h
 Data0=(-43.80914,169.41370)
 [END]
 
@@ -73335,9 +73335,9 @@ Data0=(-41.59933,173.00250)
 ;1117037
 [POI]
 Type=0x2f
-Label=?HUNTERS HUT
+Label=HUNTERS HUT
 StreetDesc=Stewardship Land, Franz Josef - South Island > West Coast > Glaciers/ DOC Backco
-Data0=(-43.22631,170.75290)
+Data0=(-43.22665,170.75219)
 [END]
 
 ;1117038
@@ -73366,7 +73366,7 @@ Data0=(-42.70379,172.09593)
 
 ;1117042
 [POI]
-Type=0x2f
+Type=0x6402
 Label=HURUNUI NO. 3 HUT
 StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
 Data0=(-42.70083,171.98796)
@@ -73375,7 +73375,7 @@ Data0=(-42.70083,171.98796)
 ;1117044
 [POI]
 Type=0x2f
-Label=?IRIS BURN HUT
+Label=IRIS BURN HUT
 StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
 Data0=(-45.39901,167.50948)
 [END]
@@ -73415,9 +73415,9 @@ Data0=(-41.89931,173.98445)
 ;1117051
 [POI]
 Type=0x2f
-Label=?IVORY LAKE HUT
+Label=IVORY LAKE HUT
 StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
-Data0=(-43.13503,170.91260)
+Data0=(-43.13541,170.91335)
 [END]
 
 ;1117052
@@ -73871,9 +73871,9 @@ Data0=(-43.70633,169.86505)
 ;1117130
 [POI]
 Type=0x2f
-Label=?LANDSBOROUGH VALLEY RANGERS HUT (DILAPIDATED)
+Label=LANDSBOROUGH VALLEY RANGERS HUT (DILAPIDATED)
 StreetDesc=Stewardship Land, South Westland/ DOC Backcountry hut
-Data0=(-43.96668,169.48217)
+Data0=(-43.96605,169.48232)
 [END]
 
 ;1117132
@@ -74031,9 +74031,9 @@ Data0=(-41.87035,173.02415)
 ;1117154
 [POI]
 Type=0x2f
-Label=?LOUPER BIVVY
+Label=LOUPER BIVVY
 StreetDesc=Rangitata/Rakaia Conservation Area, Raukapuka/ DOC Backcountry hut
-Data0=(-43.26865,170.96536)
+Data0=(-43.26854,170.96535)
 [END]
 
 ;1117155
@@ -74216,7 +74216,7 @@ Data0=(-43.53610,171.25634)
 [POI]
 Type=0x2f
 Label=MAORI SADDLE HUT
-StreetDesc=Stewardship Land, South Westland/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > South Westland/ DOC Backcountry h
 Data0=(-43.81406,169.27396)
 [END]
 
@@ -74400,7 +74400,7 @@ Data0=(-43.76487,170.46227)
 [POI]
 Type=0x2f
 Label=MIDDLE HEAD HUT
-StreetDesc=Stewardship Land, South Westland/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > South Westland/ DOC Backcountry h
 Data0=(-43.82348,169.45499)
 [END]
 
@@ -74655,16 +74655,16 @@ Data0=(-42.09699,172.42977)
 ;1117277
 [POI]
 Type=0x2f
-Label=?NEAVE HUT
+Label=NEAVE HUT
 StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
-Data0=(-43.18041,170.98241)
+Data0=(-43.18058,170.98259)
 [END]
 
 ;1117279
 [POI]
 Type=0x2f
 Label=NEW BREWSTER HUT
-StreetDesc=Mount Aspiring Ntl Park, Wanaka/ DOC Backcountry hut
+StreetDesc=Mount Aspiring Ntl Park, Wanaka - South Island > West Coast > South Westland/ DO
 Data0=(-44.08831,169.41242)
 [END]
 
@@ -74711,9 +74711,9 @@ Data0=(-43.34875,170.48206)
 ;1117293
 [POI]
 Type=0x2f
-Label=?NORTH ARM HUT
+Label=NORTH ARM HUT
 StreetDesc=Rakiura Ntl Park, Southern Islands/ DOC Backcountry hut
-Data0=(-46.88310,168.01930)
+Data0=(-46.88300,168.01844)
 [END]
 
 ;1117294
@@ -74848,7 +74848,7 @@ Data0=(-42.85759,171.71069)
 [POI]
 Type=0x2f
 Label=PACKHORSE HUT
-StreetDesc=Private Land, Mahaanui/ DOC Backcountry hut
+StreetDesc=Private Land, Mahaanui - South Island > Canterbury > Chc & Banks Peninsula/ DOC 
 Data0=(-43.70217,172.69257)
 [END]
 
@@ -74910,7 +74910,7 @@ Data0=(-40.90098,172.40277)
 
 ;1117344
 [POI]
-Type=0x2f
+Type=0x6402
 Label=?PFEIFER BIVVY (BIVOUAC)
 StreetDesc=Arthur's Pass Ntl Park, Waimakariri - South Island > West Coast > Hokitika/ DOC 
 Data0=(-42.80339,171.66557)
@@ -75007,9 +75007,9 @@ Data0=(-46.22251,167.36129)
 ;1117358
 [POI]
 Type=0x2f
-Label=?PORT WILLIAM HUT
+Label=PORT WILLIAM HUT
 StreetDesc=Rakiura Ntl Park, Southern Islands/ DOC Backcountry hut
-Data0=(-46.83631,168.08648)
+Data0=(-46.83578,168.08714)
 [END]
 
 ;1117359
@@ -75047,9 +75047,9 @@ Data0=(-42.84943,171.80981)
 ;1117368
 [POI]
 Type=0x2f
-Label=?PRICE BASIN HUT
+Label=PRICE BASIN HUT
 StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
-Data0=(-43.12923,170.96390)
+Data0=(-43.13100,170.96365)
 [END]
 
 ;1117369
@@ -75184,7 +75184,7 @@ Data0=(-41.04552,172.74274)
 [POI]
 Type=0x2f
 Label=ROARING BILLY HUT
-StreetDesc=Stewardship Land, South Westland/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > South Westland/ DOC Backcountry h
 Data0=(-43.89476,169.32252)
 [END]
 
@@ -75198,7 +75198,7 @@ Data0=(-41.19900,172.43147)
 
 ;1117396
 [POI]
-Type=0x2f
+Type=0x6402
 Label=ROCKBURN HUT/ MCINTYRES HUT
 StreetDesc=Mount Aspiring Ntl Park, Wakatipu/ DOC Backcountry hut
 Data0=(-44.67040,168.30984)
@@ -75311,9 +75311,9 @@ Data0=(-40.88619,172.30785)
 ;1117418
 [POI]
 Type=0x2f
-Label=?SCAMPER TORRENT HUT
+Label=SCAMPER TORRENT HUT
 StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
-Data0=(-43.15329,170.73734)
+Data0=(-43.15373,170.73751)
 [END]
 
 ;1117419
@@ -75544,7 +75544,7 @@ Data0=(-41.20516,172.61145)
 [POI]
 Type=0x2f
 Label=?SPOON HUT
-StreetDesc=Stewardship Land, South Westland/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > South Westland/ DOC Backcountry h
 Data0=(-44.16593,168.31340)
 [END]
 
@@ -75568,7 +75568,7 @@ Data0=(-43.41697,170.68305)
 [POI]
 Type=0x2f
 Label=?STAFFORD HUT
-StreetDesc=Stewardship Land, South Westland/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > South Westland/ DOC Backcountry h
 Data0=(-43.99617,168.54514)
 [END]
 
@@ -75615,9 +75615,9 @@ Data0=(-42.46949,172.55783)
 ;1117464
 [POI]
 Type=0x2f
-Label=?STONE HUT
+Label=STONE HUT
 StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Motueka/ DOC Backcountry hut
-Data0=(-41.42054,172.44028)
+Data0=(-41.42077,172.43935)
 [END]
 
 ;1117465
@@ -75631,9 +75631,9 @@ Data0=(-44.84836,168.58753)
 ;1117466
 [POI]
 Type=0x2f
-Label=?STONEY STREAM BIVVY
+Label=STONEY STREAM BIVVY
 StreetDesc=Pastoral Lease, Twizel Te Manahuna/ DOC Backcountry hut
-Data0=(-44.00687,169.98906)
+Data0=(-44.00661,169.98826)
 [END]
 
 ;1117467
@@ -75752,7 +75752,7 @@ Data0=(-45.29572,166.95754)
 [POI]
 Type=0x2f
 Label=THOMAS RIVER HUT
-StreetDesc=Stewardship Land, South Westland/ DOC Backcountry hut
+StreetDesc=Stewardship Land - South Island > West Coast > South Westland/ DOC Backcountry h
 Data0=(-43.89336,169.19477)
 [END]
 
@@ -75792,7 +75792,7 @@ Data0=(-43.02406,171.16478)
 [POI]
 Type=0x2f
 Label=TOP BUTLER HUT
-StreetDesc=Stewardship Land, Franz Josef/ DOC Backcountry hut
+StreetDesc=Stewardship Land, Franz Josef - South Island > West Coast > Glaciers/ DOC Backco
 Data0=(-43.42017,170.44059)
 [END]
 
@@ -75943,9 +75943,9 @@ Data0=(-41.61101,173.07568)
 ;1117539
 [POI]
 Type=0x2f
-Label=?TOP WAITAHA HUT
+Label=TOP WAITAHA HUT
 StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
-Data0=(-43.12974,170.87662)
+Data0=(-43.13143,170.87654)
 [END]
 
 ;1117540
@@ -75967,9 +75967,9 @@ Data0=(-42.77423,171.77750)
 ;1117544
 [POI]
 Type=0x2f
-Label=?TREVOR CARTER HUT
+Label=TREVOR CARTER HUT
 StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Motueka/ DOC Backcountry hut
-Data0=(-41.39815,172.39053)
+Data0=(-41.39806,172.39042)
 [END]
 
 ;1117546
@@ -75992,7 +75992,7 @@ Data0=(-42.85473,171.84268)
 [POI]
 Type=0x2f
 Label=?TUNNEL CREEK HUT
-StreetDesc=Stewardship land, South Westland/ DOC Backcountry hut
+StreetDesc=Stewardship land - South Island > West Coast > South Westland/ DOC Backcountry h
 Data0=(-43.81846,169.53700)
 [END]
 
@@ -76272,7 +76272,7 @@ Data0=(-43.05293,171.33811)
 [POI]
 Type=0x2f
 Label=WELCOME FLAT HUT
-StreetDesc=Westland Ntl Park, South Westland/ DOC Backcountry hut
+StreetDesc=Westland Ntl Park, South Westland - South Island > West Coast > Glaciers/ DOC Ba
 Data0=(-43.63053,169.94600)
 [END]
 
@@ -76360,23 +76360,23 @@ Data0=(-42.07017,172.13354)
 [POI]
 Type=0x2f
 Label=?WHYMPER HUT
-StreetDesc=Stewardship Land, Franz Josef/ DOC Backcountry hut
+StreetDesc=Stewardship Land, Franz Josef - South Island > West Coast > Glaciers/ DOC Backco
 Data0=(-43.44172,170.37104)
 [END]
 
 ;1117633
 [POI]
 Type=0x2f
-Label=?WILKINSON HUT
+Label=WILKINSON HUT
 StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
-Data0=(-43.15712,170.98933)
+Data0=(-43.15682,170.98982)
 [END]
 
 ;1117634
 [POI]
 Type=0x2f
 Label=?WILLS HUT
-StreetDesc=Mount Aspiring Ntl Park, Wanaka/ DOC Backcountry hut
+StreetDesc=Mount Aspiring Ntl Park, Wanaka - South Island > West Coast > South Westland/ DO
 Data0=(-44.03784,169.46433)
 [END]
 
@@ -206000,7 +206000,7 @@ Data0=(-43.19446,171.87533)
 [POI]
 Type=0x6402
 Label=BOUNDARY CREEK HUT
-StreetDesc=Hakatere Conservation Park/ DOC Backcountry hut
+StreetDesc=Hakatere Conservation Park - South Island > Canterbury > Mid & South Canterbury/
 Data0=(-44.72835,169.85427)
 [END]
 
@@ -206362,5 +206362,14 @@ Type=0x2f
 Label=UPPER GRIDIRON ROCK SHELTER
 StreetDesc=Kahurangi Ntl Park/ DOC shelter
 Data0=(-41.17119,172.69629)
+[END]
+
+;1183395
+[POI]
+Type=0x2f
+Label=ALICE BLACKLEY CONTEMPORARY ARTIST
+StreetDesc=2 Stewart St, Frankton, Queenstown/ contemporary artist New Zealand, art for sal
+Phone=+6434423678
+Data0=(-45.01653,168.72535)
 [END]
 

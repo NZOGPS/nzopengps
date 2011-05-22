@@ -72031,9 +72031,9 @@ Data0=(-45.94153,167.28329)
 ;1116836
 [POI]
 Type=0x2f
-Label=?CARRINGTON HUT
+Label=CARRINGTON HUT
 StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
-Data0=(-42.95987,171.44836)
+Data0=(-42.95985,171.44851)
 [END]
 
 ;1116837
@@ -75647,9 +75647,9 @@ Data0=(-42.46359,172.62846)
 ;1117469
 [POI]
 Type=0x2f
-Label=?SUDDEN VALLEY BIVVY
+Label=SUDDEN VALLEY BIVVY
 StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
-Data0=(-42.94960,171.70455)
+Data0=(-42.94980,171.70458)
 [END]
 
 ;1117471
@@ -206371,5 +206371,14 @@ Label=ALICE BLACKLEY CONTEMPORARY ARTIST
 StreetDesc=2 Stewart St, Frankton, Queenstown/ contemporary artist New Zealand, art for sal
 Phone=+6434423678
 Data0=(-45.01653,168.72535)
+[END]
+
+;1183401
+[POI]
+Type=0x2e07
+Label=VERT 2 STREET
+StreetDesc=24 Bedfors St, Oamaru/ Skate, Surf, Snow and MX Clothing Shop
+Phone=+6434345170
+Data0=(-45.07763,170.97469)
 [END]
 

@@ -49628,9 +49628,9 @@ Data0=(-45.87183,170.50197)
 [POI]
 Type=0x2f
 Label=ENATEL LTD
-StreetDesc=321 Tuam St, Chc/ Electronic assembly
+StreetDesc=66 Treffers Rd, Chc/ Electronic assembly
 Phone=+6433664550
-Data0=(-43.53518,172.64857)
+Data0=(-43.54663,172.57235)
 [END]
 
 ;1105040
@@ -130482,7 +130482,7 @@ Data0=(-43.64247,172.46871)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=22 EsplanadeSumner Chc/ Telecom, payphone, public phone box
+StreetDesc=22 Esplanade, Sumner Chc/ Telecom, payphone, public phone box, wifi
 Phone=+6433267245
 Data0=(-43.56707,172.75920)
 [END]
@@ -130590,7 +130590,7 @@ Data0=(-43.55159,172.63682)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=126 Opawa Rd cnr Hawford Rd Opawa Chc/ Telecom, payphone, public phone box
+StreetDesc=126 Opawa Rd cnr Hawford Rd, Opawa Chc/ Telecom, payphone, public phone box, wif
 Phone=+6433322613
 Data0=(-43.55336,172.66489)
 [END]
@@ -130599,8 +130599,8 @@ Data0=(-43.55336,172.66489)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=26 Barrington St Barrington Shop MallSomerfield Chc/ Telecom, payphone, public p
-Phone=+6433324758
+StreetDesc=Barrington St O/S Barrington Mall Spreydon Chc/ Telecom, payphone, public phone 
+Phone=+6433328625
 Data0=(-43.55708,172.61877)
 [END]
 
@@ -130680,7 +130680,7 @@ Data0=(-43.53120,172.59670)
 [POI]
 Type=0x2f15
 Label=PAYPHONE WIFI HOTSPOT
-StreetDesc=Yaldhurst Rd cnr Cutts Rd Russley Chc/ Telecom, payphone, public phone box, WiFi
+StreetDesc=Yaldhurst Rd cnr Cutts Rd, Russley Chc/ Telecom, payphone, public phone box, wif
 Phone=+6433425358
 Data0=(-43.52275,172.54221)
 [END]
@@ -130995,7 +130995,7 @@ Data0=(-43.47844,172.61688)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=Main North Rd cnr Sawyers Arms Rd Papanui Chc/ Telecom, payphone, public phone b
+StreetDesc=Main North Rd cnr Sawyers Arms Rd, Papanui Chc/ Telecom, payphone, public phone 
 Phone=+6433516117
 Data0=(-43.49126,172.61269)
 [END]
@@ -131004,7 +131004,7 @@ Data0=(-43.49126,172.61269)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=116 Creyke Rd O/S Shops Ilam Chc/ Telecom, payphone, public phone box
+StreetDesc=116 Creyke Rd O/S Shops Ilam Chc/ Telecom, payphone, public phone box, wifi
 Phone=+6433517268
 Data0=(-43.51962,172.57925)
 [END]
@@ -131103,7 +131103,7 @@ Data0=(-43.50977,172.61944)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=Briggs Rd cnr Clearbrook St Shirley Chc/ Telecom, payphone, public phone box
+StreetDesc=Briggs Rd cnr Clearbrook St, Shirley Chc/ Telecom, payphone, public phone box, w
 Phone=+6433553009
 Data0=(-43.49560,172.65548)
 [END]
@@ -131292,7 +131292,7 @@ Data0=(-43.51676,172.57191)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=Withells Rd O/S Avonhead Mall Avonhead Chc/ Telecom, payphone, public phone box
+StreetDesc=Withells Rd O/S Avonhead Mall Avonhead Chc/ Telecom, payphone, public phone box,
 Phone=+6433588017
 Data0=(-43.51048,172.55650)
 [END]
@@ -131526,7 +131526,7 @@ Data0=(-43.53053,172.63836)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=270 Bealey Ave O/S Mobil Station City Chc/ Telecom, payphone, public phone box
+StreetDesc=270 Bealey Ave O/S Mobil Station City Chc/ Telecom, payphone, public phone box, 
 Phone=+6433660219
 Data0=(-43.52094,172.64545)
 [END]
@@ -131652,7 +131652,7 @@ Data0=(-43.54829,172.62189)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=252 Ferry Rd O/S Chemist Phillipstown Chc/ Telecom, payphone, public phone box
+StreetDesc=252 Ferry Rd O/S Chemist Phillipstown Chc/ Telecom, payphone, public phone box, 
 Phone=+6433770078
 Data0=(-43.54026,172.65833)
 [END]
@@ -131814,8 +131814,8 @@ Data0=(-43.53037,172.65045)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=Edgeware Rd cnr Colombo St St Albans Chc/ Telecom, payphone, public phone box
-Phone=+6433779057
+StreetDesc=Edgeware Rd cnr Colombo St, St Albans Chc/ Telecom, payphone, public phone box, 
+Phone=+6433779072
 Data0=(-43.51359,172.63650)
 [END]
 
@@ -131985,7 +131985,7 @@ Data0=(-43.48237,172.68228)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=618 Ferry Rd Woolston Chc/ Telecom, payphone, public phone box
+StreetDesc=618 Ferry Rd, Woolston Chc/ Telecom, payphone, public phone box, wifi
 Phone=+6433841547
 Data0=(-43.54954,172.68318)
 [END]
@@ -132004,7 +132004,7 @@ Data0=(-43.56117,172.73766)
 Type=0x2f15
 Label=PAYPHONE
 StreetDesc=28 Marriner St cnr Burgess St O/S Cinema Sumner Chc/ Telecom, payphone, public p
-Phone=+6433843254
+Phone=+6433267604
 Data0=(-43.56836,172.75880)
 [END]
 
@@ -132021,7 +132021,7 @@ Data0=(-43.54488,172.69269)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=New Brighton Rd Opp Fleete St Burwood Chc/ Telecom, payphone, public phone box
+StreetDesc=New Brighton Rd Opp Fleete St, Burwood Chc/ Telecom, payphone, public phone box,
 Phone=+6433854421
 Data0=(-43.50542,172.67731)
 [END]
@@ -132039,7 +132039,7 @@ Data0=(-43.51355,172.64590)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=199 Hills Rd Shirley Chc/ Telecom, payphone, public phone box
+StreetDesc=199 Hills Rd, Shirley Chc/ Telecom, payphone, public phone box, wifi
 Phone=+6433854443
 Data0=(-43.50891,172.65106)
 [END]
@@ -132048,7 +132048,7 @@ Data0=(-43.50891,172.65106)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=Marshlands Rd cnr Shirley Rd Shirley Chc/ Telecom, payphone, public phone box
+StreetDesc=Marshlands Rd cnr Shirley Rd, Shirley Chc/ Telecom, payphone, public phone box, 
 Phone=+6433856459
 Data0=(-43.50779,172.66292)
 [END]
@@ -132057,7 +132057,7 @@ Data0=(-43.50779,172.66292)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=128 Marshlands Rd O/S Shops Shirley Chc/ Telecom, payphone, public phone box
+StreetDesc=128 Marshlands Rd O/S Shops Shirley Chc/ Telecom, payphone, public phone box, wi
 Phone=+6433857568
 Data0=(-43.49921,172.66214)
 [END]
@@ -132084,7 +132084,7 @@ Data0=(-43.50789,172.66329)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=Pages Rd cnr Breezes Rd Aranui Chc/ Telecom, payphone, public phone box
+StreetDesc=Pages Rd cnr Breezes Rd, Aranui Chc/ Telecom, payphone, public phone box, wifi
 Phone=+6433880215
 Data0=(-43.51720,172.70176)
 [END]
@@ -132111,7 +132111,7 @@ Data0=(-43.51122,172.70125)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=Rawson St cnr New Brighton Rd New Brighton Chc/ Telecom, payphone, public phone 
+StreetDesc=Rawson St cnr New Brighton Rd, New Brighton Chc/ Telecom, payphone, public phone
 Phone=+6433884479
 Data0=(-43.50674,172.71665)
 [END]
@@ -132138,7 +132138,7 @@ Data0=(-43.52314,172.73243)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=175 Wainoni Rd O/S BP Station Avondale Chc/ Telecom, payphone, public phone box
+StreetDesc=175 Wainoni Rd O/S BP Station Avondale Chc/ Telecom, payphone, public phone box,
 Phone=+6433887316
 Data0=(-43.51190,172.69258)
 [END]
@@ -132210,7 +132210,7 @@ Data0=(-43.52524,172.67274)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=Wainoni Rd cnr Bickerton St Aranui Chc/ Telecom, payphone, public phone box
+StreetDesc=Wainoni Rd cnr Bickerton St, Aranui Chc/ Telecom, payphone, public phone box, wi
 Phone=+6433895017
 Data0=(-43.51650,172.68712)
 [END]
@@ -132237,9 +132237,9 @@ Data0=(-43.53126,172.65702)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=cnr North Avon Rd & Stanmore Rd, Richmond, Chc/ Telecom, payphone, public phone 
+StreetDesc=Stanmore Rd cnr North Avon Rd O/S Mall Linwood Chc/ Telecom, payphone, public ph
 Phone=+6433896527
-Data0=(-43.51832,172.65627)
+Data0=(-43.51816,172.65631)
 [END]
 
 ;1141981
@@ -132264,7 +132264,7 @@ Data0=(-43.53887,172.68160)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=Linwood Ave cnr Gloucester St Linwood Chc/ Telecom, payphone, public phone box
+StreetDesc=Linwood Ave cnr Gloucester St, Linwood Chc/ Telecom, payphone, public phone box,
 Phone=+6433897009
 Data0=(-43.52988,172.66773)
 [END]
@@ -133137,9 +133137,9 @@ Data0=(-44.69808,169.13426)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=48 Helwick St Wanaka/ Telecom, payphone, public phone box
-Phone=+6434435073
-Data0=(-44.69636,169.13646)
+StreetDesc=Helwick St, cnr Dunmore St, Wanaka/ Telecom, payphone, public phone box
+Phone=+6434439206
+Data0=(-44.69579,169.13577)
 [END]
 
 ;1142083
@@ -203228,9 +203228,9 @@ Data0=(-41.30104,173.24267)
 [POI]
 Type=0x2f
 Label=LOGICAL BUSINESS SOLUTIONS
-StreetDesc=34 Page St, Redwoodtown, Blenheim/ Bookkeeping, Accountants, taxation services, 
-Phone=+6435792936
-Data0=(-41.53293,173.94478)
+StreetDesc=13 Main St, Blenheim/ Bookkeeping, Accountants, taxation services, Accounting se
+Phone=+6435792966
+Data0=(-41.51331,173.96100)
 [END]
 
 ;1180740
@@ -206380,5 +206380,43 @@ Label=VERT 2 STREET
 StreetDesc=24 Bedfors St, Oamaru/ Skate, Surf, Snow and MX Clothing Shop
 Phone=+6434345170
 Data0=(-45.07763,170.97469)
+[END]
+
+;1183402
+[POI]
+Type=0x2f
+Label=CLICK PROPERTY MANAGEMENT
+StreetDesc=22a Pollock St, Dud/ Property Management, Otago property, letting agent, Dunedin
+Phone=+6434667783
+zip=9pm to 6pm
+Data0=(-45.85789,170.50359)
+[END]
+
+;1183403
+[POI]
+Type=0x2f
+Label=CHEM DRY OTAGO 24HR
+StreetDesc=7 Mason St Dud/ Superior Carpet and Upholstery Cleaning
+Phone=+6434771444
+zip=24 hour Response
+Data0=(-45.87604,170.51085)
+[END]
+
+;1183408
+[POI]
+Type=0x2f15
+Label=PAYPHONE
+StreetDesc=120 Manchester St New Excelsior Backpackers Flr 2 City Chc/ Telecom, payphone, p
+Phone=+6433663584
+Data0=(-43.53470,172.71402)
+[END]
+
+;1183410
+[POI]
+Type=0x2f15
+Label=PAYPHONE
+StreetDesc=French Pass Trail Kiosk at French Pass Jetty Rai Valley Marlborough/ Telecom, pa
+Phone=+6435765294
+Data0=(-40.93159,173.85019)
 [END]
 

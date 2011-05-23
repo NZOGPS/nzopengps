@@ -501,6 +501,8 @@ def guessPOItypeCode(zid)
 			category = '0x2f'
 		elsif thistags =~ /car dealer/i
 			category = '0x2F07'
+		elsif thistags =~ /public phone box/i
+			category = '0x2f15'
 		elsif thistags =~ /ski field/i
 			category = '0x2D06'
 		elsif thistags =~ /take-?away/i # || thisname =~ /take[\s-]?away/i #name or tags has takeaway

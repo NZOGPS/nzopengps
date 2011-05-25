@@ -23683,7 +23683,7 @@ Data0=(-41.66991,174.07875)
 [POI]
 Type=0x2b00
 Label=SPRINGFIELD HOTEL QSB BACKPACKERS
-StreetDesc=State Highway 73, Springfield, Selwyn/ Backpacker accommodation
+StreetDesc=5675 West Coast Rd, State Highway 73, Springfield, Selwyn, North Canterbury/ Bac
 Phone=+6433184812
 Data0=(-43.33748,171.92732)
 [END]
@@ -92436,9 +92436,9 @@ Data0=(-43.53286,172.63949)
 [POI]
 Type=0x2a0e
 Label=BLUE BAY CAFE
-StreetDesc=68 The Bay Hill, Timaru/ Licensed cafe
+StreetDesc=68 The Bay Hill, Timaru 7910/ Licensed restaurant, food, coffee, drink
 Phone=+6436880561
-Data0=(-44.39175,171.24720)
+Data0=(-44.39173,171.24716)
 [END]
 
 ;1123325
@@ -173036,8 +173036,10 @@ Data0=(-41.27820,173.28092)
 ;1166348
 [POI]
 Type=0x2f
-Label=DENTAL CARE ON BARRINGTON
-StreetDesc=295 Barrington St, Barrington, Chc/ Dentist
+Label=DENTALCARE ON BARRINGTON
+StreetDesc=295 Barrington St, Barrington, Chc/ Dentist. Hygienist available.
+Phone=+6433373766
+zip=Monday - Friday 8.30am - 6pm, Wednesday 
 Data0=(-43.55561,172.61683)
 [END]
 
@@ -205873,5 +205875,34 @@ StreetDesc=82a Wainoni Rd, Wainoni (opposite Porritt Park)/ Cafe specialising in
 Phone=+6439822060
 zip=Mon - Fri 7:30 - 3:30 | Sat 8:30 - 2:30
 Data0=(-43.51646,172.68753)
+[END]
+
+;1183431
+[POI]
+Type=0x2f
+Label=VOICE AND MOVEMENT STUDIOS LTD
+StreetDesc=23 Joyce Cres, Ilam, Chc/ Feldenkrais lessons and classes, Performance Coaching,
+Phone=+6433517432
+zip=by appointment M - F
+Data0=(-43.51679,172.58014)
+[END]
+
+;1183435
+[POI]
+Type=0x2f
+Label=MARCIO'S HAIRDRESSER
+StreetDesc=17/212 Antigua St. Chc 8011/ Hi there, I'm Marcio if you are looking to get a ni
+Phone=+6433729322
+zip=Tuesday - Friday from 10 - 6pm Saturday 
+Data0=(-43.53810,172.62790)
+[END]
+
+;1183436
+[POI]
+Type=0x2f
+Label=STONEY GROVE NUTS
+StreetDesc=68 Haycock Rd, Hope, Nelson/ macadamia nuts, nuts, almonds, macadamias, chocolat
+Phone=+6435444667
+Data0=(-41.37834,173.14658)
 [END]
 

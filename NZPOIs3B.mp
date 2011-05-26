@@ -68148,9 +68148,9 @@ Data0=(-45.87922,170.50105)
 [POI]
 Type=0x2f
 Label=URBAN FURNITURE LTD
-StreetDesc=9 Bernard St, Addington, Chc/ 
-Phone=+6433385069
-Data0=(-43.54197,172.61316)
+StreetDesc=245 Dyers Rd, Bromley, Chc/ Furniture manufacturers
+Phone=+6427535714
+Data0=(-43.53940,172.70233)
 [END]
 
 ;1115451
@@ -71200,7 +71200,7 @@ Data0=(-42.97177,171.16552)
 [POI]
 Type=0x2f
 Label=?AHURIRI BASE HUT
-StreetDesc=Ahuriri Conservation Park, Twizel Te Manahuna/ DOC Backcountry hut
+StreetDesc=Ahuriri Conservation Park, Twizel Te Manahuna - South Island > Canterbury > Mack
 Data0=(-44.27203,169.59937)
 [END]
 
@@ -71408,15 +71408,15 @@ Data0=(-45.60030,167.58131)
 [POI]
 Type=0x2f
 Label=BAIKIE HUT
-StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna/ DOC Backcountry hut
+StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna - South Island > Canterbury > M
 Data0=(-44.10819,170.06457)
 [END]
 
 ;1116747
 [POI]
 Type=0x2f
-Label=BALL SHELTER
-StreetDesc=Aoraki/Mount Cook Ntl Park, Aoraki/ DOC Backcountry hut
+Label=BALL HUT (SHELTER)
+StreetDesc=Aoraki / Mount Cook Ntl Park - South Island > Canterbury > Aoraki / Mount Cook/ 
 Data0=(-43.62648,170.19117)
 [END]
 
@@ -71472,7 +71472,7 @@ Data0=(-42.24359,173.67213)
 [POI]
 Type=0x2f
 Label=?BARRON SADDLE HUT
-StreetDesc=Aoraki/Mount Cook Ntl Park, Aoraki/ DOC Backcountry hut
+StreetDesc=Aoraki / Mount Cook Ntl Park - South Island > Canterbury > Aoraki / Mount Cook/ 
 Data0=(-43.75859,170.00025)
 [END]
 
@@ -71776,7 +71776,7 @@ Data0=(-42.41925,172.31466)
 [POI]
 Type=0x2f
 Label=BRODRICK HUT
-StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna/ DOC Backcountry hut
+StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna - South Island > Canterbury > M
 Data0=(-43.97497,169.72933)
 [END]
 
@@ -71928,7 +71928,7 @@ Data0=(-44.19889,169.31572)
 [POI]
 Type=0x2f
 Label=CAMP STREAM HUT
-StreetDesc=Mt Gerald Two Thumb Conservation Area, Twizel Te Manahuna/ DOC Backcountry hut
+StreetDesc=Mt Gerald Two Thumb Conservation Area, Twizel Te Manahuna - South Island > Cante
 Data0=(-43.79382,170.64903)
 [END]
 
@@ -72264,7 +72264,7 @@ Data0=(-44.37207,168.69454)
 [POI]
 Type=0x2f
 Label=COMYNS HUT
-StreetDesc=Glenariffe/Winterslow Conservation Area, Raukapuka/ DOC Backcountry hut
+StreetDesc=Glenariffe/Winterslow Conservation Area, Raukapuka - South Island > Canterbury >
 Data0=(-43.42863,171.36647)
 [END]
 
@@ -72288,7 +72288,7 @@ Data0=(-42.00545,172.88477)
 [POI]
 Type=0x2f
 Label=?COPLAND SHELTER
-StreetDesc=Aoraki/Mount Cook Ntl Park, Aoraki/ DOC Backcountry hut
+StreetDesc=Aoraki / Mount Cook Ntl Park - South Island > Canterbury > Aoraki / Mount Cook/ 
 Data0=(-43.65485,170.09845)
 [END]
 
@@ -72408,7 +72408,7 @@ Data0=(-44.83052,168.66712)
 [POI]
 Type=0x2f
 Label=CULLERS HUT
-StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna/ DOC Backcountry hut
+StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna - South Island > Canterbury > M
 Data0=(-43.92205,169.83699)
 [END]
 
@@ -72424,7 +72424,7 @@ Data0=(-41.97200,172.73281)
 [POI]
 Type=0x2f
 Label=?CURTIS MEMORIAL HUT
-StreetDesc=Havelock Forest Conservation Area, Raukapuka/ DOC Backcountry hut
+StreetDesc=Havelock Forest Conservation Area, Raukapuka - South Island > Canterbury > Mid &
 Data0=(-43.45249,170.71273)
 [END]
 
@@ -72447,8 +72447,8 @@ Data0=(-44.52162,168.55448)
 ;1116902
 [POI]
 Type=0x2f
-Label=?DASLER BIVVY
-StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna/ DOC Backcountry hut
+Label=?DASLER BIVVY (BIV BIVOUAC)
+StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna - South Island > Canterbury > M
 Data0=(-43.95719,169.84942)
 [END]
 
@@ -72456,7 +72456,7 @@ Data0=(-43.95719,169.84942)
 [POI]
 Type=0x2f
 Label=DE LA BECHE HUT
-StreetDesc=Aoraki/Mount Cook Ntl Park, Aoraki/ DOC Backcountry hut
+StreetDesc=Aoraki / Mount Cook Ntl Park - South Island > Canterbury > Aoraki / Mount Cook/ 
 Data0=(-43.54880,170.24261)
 [END]
 
@@ -72512,7 +72512,7 @@ Data0=(-42.78394,171.48557)
 [POI]
 Type=0x2f
 Label=?DODGER HUT
-StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna/ DOC Backcountry hut
+StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna - South Island > Canterbury > M
 Data0=(-43.89588,169.88005)
 [END]
 
@@ -72520,7 +72520,7 @@ Data0=(-43.89588,169.88005)
 [POI]
 Type=0x2f
 Label=?DOUBLE HUT
-StreetDesc=Glenariffe/Winterslow Conservation Area, Raukapuka/ DOC Backcountry hut
+StreetDesc=Glenariffe/Winterslow Conservation Area, Raukapuka - South Island > Canterbury >
 Data0=(-43.49581,171.26135)
 [END]
 
@@ -72672,7 +72672,7 @@ Data0=(-45.88253,167.36154)
 [POI]
 Type=0x2f
 Label=ELCHO HUT
-StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna/ DOC Backcountry hut
+StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna - South Island > Canterbury > M
 Data0=(-43.93131,169.83073)
 [END]
 
@@ -72696,7 +72696,7 @@ Data0=(-41.23770,172.68595)
 [POI]
 Type=0x2f
 Label=?EMPRESS HUT
-StreetDesc=Aoraki/Mount Cook Ntl Park, Aoraki/ DOC Backcountry hut
+StreetDesc=Aoraki / Mount Cook Ntl Park - South Island > Canterbury > Aoraki / Mount Cook/ 
 Data0=(-43.59508,170.12115)
 [END]
 
@@ -72704,7 +72704,7 @@ Data0=(-43.59508,170.12115)
 [POI]
 Type=0x2f
 Label=ERCEG HUT
-StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna/ DOC Backcountry hut
+StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna - South Island > Canterbury > M
 Data0=(-43.84682,169.91560)
 [END]
 
@@ -72736,7 +72736,7 @@ Data0=(-42.68256,172.27876)
 [POI]
 Type=0x2f
 Label=?EVANS HUT
-StreetDesc=Rakaia Forest Conservation Area, Raukapuka/ DOC Backcountry hut
+StreetDesc=Rakaia Forest Conservation Area, Raukapuka - South Island > Canterbury > Mid & S
 Data0=(-43.25854,171.03664)
 [END]
 
@@ -72799,8 +72799,8 @@ Data0=(-41.18244,172.73029)
 ;1116957
 [POI]
 Type=0x2f
-Label=?FORBES BIVVY
-StreetDesc=Havelock Forest Conservation Area, Raukapuka/ DOC Backcountry hut
+Label=?FORBES BIVVY (BIVOUAC)
+StreetDesc=Havelock Forest Conservation Area, Raukapuka - South Island > Canterbury > Mid &
 Data0=(-43.46487,170.64821)
 [END]
 
@@ -72896,7 +72896,7 @@ Data0=(-42.72111,172.28967)
 [POI]
 Type=0x2f
 Label=?GARDINER HUT
-StreetDesc=Aoraki/Mount Cook Ntl Park, Aoraki/ DOC Backcountry hut
+StreetDesc=Aoraki / Mount Cook Ntl Park - South Island > Canterbury > Aoraki / Mount Cook/ 
 Data0=(-43.62008,170.11252)
 [END]
 
@@ -72976,7 +72976,7 @@ Data0=(-42.90151,171.62379)
 [POI]
 Type=0x2f
 Label=GODLEY HUT
-StreetDesc=Aoraki/Mount Cook Ntl Park, Aoraki/ DOC Backcountry hut
+StreetDesc=Aoraki / Mount Cook Ntl Park - South Island > Canterbury > Aoraki / Mount Cook/ 
 Data0=(-43.48034,170.51052)
 [END]
 
@@ -73072,7 +73072,7 @@ Data0=(-42.79783,171.38253)
 [POI]
 Type=0x2f
 Label=?GROUGH HUT
-StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna/ DOC Backcountry hut
+StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna - South Island > Canterbury > M
 Data0=(-43.93280,169.94667)
 [END]
 
@@ -73080,7 +73080,7 @@ Data0=(-43.93280,169.94667)
 [POI]
 Type=0x2f
 Label=HAAST HUT
-StreetDesc=Aoraki/Mount Cook Ntl Park, Aoraki/ DOC Backcountry hut
+StreetDesc=Aoraki / Mount Cook Ntl Park - South Island > Canterbury > Aoraki / Mount Cook/ 
 Data0=(-43.58243,170.19658)
 [END]
 
@@ -73096,7 +73096,7 @@ Data0=(-41.41572,173.24586)
 [POI]
 Type=0x2f
 Label=HAGENS HUT
-StreetDesc=Ahuriri Conservation Park, Twizel Te Manahuna/ DOC Backcountry hut
+StreetDesc=Ahuriri Conservation Park, Twizel Te Manahuna - South Island > Canterbury > Mack
 Data0=(-44.15550,169.63980)
 [END]
 
@@ -73264,7 +73264,7 @@ Data0=(-46.92266,167.79680)
 [POI]
 Type=0x2f
 Label=HOOKER HUT
-StreetDesc=Aoraki/Mount Cook Ntl Park, Aoraki/ DOC Backcountry hut
+StreetDesc=Aoraki / Mount Cook Ntl Park - South Island > Canterbury > Aoraki / Mount Cook/ 
 Data0=(-43.66204,170.11021)
 [END]
 
@@ -73448,7 +73448,7 @@ Data0=(-40.88602,172.21662)
 [POI]
 Type=0x2f
 Label=JELLICOE HUT
-StreetDesc=Rakaia Forest Conservation Area, Raukapuka/ DOC Backcountry hut
+StreetDesc=Rakaia Forest Conservation Area, Raukapuka - South Island > Canterbury > Mid & S
 Data0=(-43.28097,171.11485)
 [END]
 
@@ -73608,7 +73608,7 @@ Data0=(-44.87061,168.48496)
 [POI]
 Type=0x2f
 Label=?KELMAN HUT
-StreetDesc=Aoraki/Mount Cook Ntl Park, Aoraki/ DOC Backcountry hut
+StreetDesc=Aoraki / Mount Cook Ntl Park - South Island > Canterbury > Aoraki / Mount Cook/ 
 Data0=(-43.51889,170.35990)
 [END]
 
@@ -73903,8 +73903,8 @@ Data0=(-44.84549,169.66014)
 ;1117135
 [POI]
 Type=0x2f
-Label=LAWRENCE BIVVY
-StreetDesc=Lawrence Forest Conservation Area, Raukapuka/ DOC Backcountry hut
+Label=LAWRENCE BIVVY (BIVOUAC)
+StreetDesc=Lawrence Forest Conservation Area, Raukapuka - South Island > Canterbury > Mid &
 Data0=(-43.34938,170.91956)
 [END]
 
@@ -73912,7 +73912,7 @@ Data0=(-43.34938,170.91956)
 [POI]
 Type=0x2f
 Label=LAWRENCE HUT
-StreetDesc=Lawrence Forest Conservation Area, Raukapuka/ DOC Backcountry hut
+StreetDesc=Lawrence Forest Conservation Area, Raukapuka - South Island > Canterbury > Mid &
 Data0=(-43.42032,170.88667)
 [END]
 
@@ -73944,7 +73944,7 @@ Data0=(-40.94000,172.14759)
 [POI]
 Type=0x2f
 Label=LIEBIG HUT
-StreetDesc=Aoraki/Mount Cook Ntl Park, Aoraki/ DOC Backcountry hut
+StreetDesc=Aoraki / Mount Cook Ntl Park - South Island > Canterbury > Aoraki / Mount Cook/ 
 Data0=(-43.62863,170.31047)
 [END]
 
@@ -74031,8 +74031,8 @@ Data0=(-41.87035,173.02415)
 ;1117154
 [POI]
 Type=0x2f
-Label=LOUPER BIVVY
-StreetDesc=Rangitata/Rakaia Conservation Area, Raukapuka/ DOC Backcountry hut
+Label=LOUPER BIVVY (BIVOUAC)
+StreetDesc=Rangitata/Rakaia Conservation Area, Raukapuka - South Island > Canterbury > Mid 
 Data0=(-43.26854,170.96535)
 [END]
 
@@ -74112,7 +74112,7 @@ Data0=(-45.38526,167.61915)
 [POI]
 Type=0x2f
 Label=LYELL HUT
-StreetDesc=Rakaia Forest Conservation Area, Raukapuka/ DOC Backcountry hut
+StreetDesc=Rakaia Forest Conservation Area, Raukapuka - South Island > Canterbury > Mid & S
 Data0=(-43.29913,170.90969)
 [END]
 
@@ -74208,7 +74208,7 @@ Data0=(-42.30490,172.28946)
 [POI]
 Type=0x2f
 Label=?MANUKA HUT
-StreetDesc=Glenariffe/Winterslow Conservation Area, Raukapuka/ DOC Backcountry hut
+StreetDesc=Glenariffe/Winterslow Conservation Area, Raukapuka - South Island > Canterbury >
 Data0=(-43.53610,171.25634)
 [END]
 
@@ -74256,7 +74256,7 @@ Data0=(-46.92657,167.78008)
 [POI]
 Type=0x2f
 Label=?MATHIAS HUT
-StreetDesc=Rakaia Forest Conservation Area, Raukapuka/ DOC Backcountry hut
+StreetDesc=Rakaia Forest Conservation Area, Raukapuka - South Island > Canterbury > Mid & S
 Data0=(-43.18716,171.13148)
 [END]
 
@@ -74280,7 +74280,7 @@ Data0=(-43.60921,169.83787)
 [POI]
 Type=0x2f
 Label=MCCOY HUT
-StreetDesc=Clyde Forest Conservation Area, Raukapuka/ DOC Backcountry hut
+StreetDesc=Clyde Forest Conservation Area, Raukapuka - South Island > Canterbury > Mid & So
 Data0=(-43.37829,170.77558)
 [END]
 
@@ -74456,7 +74456,7 @@ Data0=(-44.80787,167.78088)
 [POI]
 Type=0x2f
 Label=?MISTAKE FLAT HUT
-StreetDesc=Havelock Forest Conservation Area, Raukapuka/ DOC Backcountry hut
+StreetDesc=Havelock Forest Conservation Area, Raukapuka - South Island > Canterbury > Mid &
 Data0=(-43.44833,170.69361)
 [END]
 
@@ -74600,7 +74600,7 @@ Data0=(-42.87505,171.36826)
 [POI]
 Type=0x2f
 Label=MUELLER HUT
-StreetDesc=Aoraki/Mount Cook Ntl Park, Aoraki/ DOC Backcountry hut
+StreetDesc=Aoraki / Mount Cook Ntl Park - South Island > Canterbury > Aoraki / Mount Cook/ 
 Data0=(-43.72106,170.06445)
 [END]
 
@@ -74624,15 +74624,15 @@ Data0=(-43.02605,171.19624)
 [POI]
 Type=0x2f
 Label=?MURCHISON HUT
-StreetDesc=Aoraki/Mount Cook Ntl Park, Aoraki/ DOC Backcountry hut
+StreetDesc=Aoraki / Mount Cook Ntl Park - South Island > Canterbury > Aoraki / Mount Cook/ 
 Data0=(-43.51879,170.39456)
 [END]
 
 ;1117274
 [POI]
 Type=0x2f
-Label=?MURPHY'S BIVVY
-StreetDesc=Havelock Forest Conservation Area, Raukapuka/ DOC Backcountry hut
+Label=?MURPHY'S BIVVY (BIVOUAC)
+StreetDesc=Havelock Forest Conservation Area, Raukapuka - South Island > Canterbury > Mid &
 Data0=(-43.46802,170.67643)
 [END]
 
@@ -74816,7 +74816,7 @@ Data0=(-41.71144,173.75214)
 [POI]
 Type=0x2f
 Label=?ONSLOW HUT (STEFFAN MEMORIAL HUT)
-StreetDesc=Aoraki/Mount Cook Ntl Park, Aoraki/ DOC Backcountry hut
+StreetDesc=Aoraki / Mount Cook Ntl Park - South Island > Canterbury > Aoraki / Mount Cook/ 
 Data0=(-43.60947,170.30690)
 [END]
 
@@ -74944,7 +74944,7 @@ Data0=(-42.93789,171.17788)
 [POI]
 Type=0x2f
 Label=PINNACLES HUT
-StreetDesc=Alford Forest (Mt Somers Block), Raukapuka/ DOC Backcountry hut
+StreetDesc=Alford Forest (Mt Somers Block), Raukapuka - South Island > Canterbury > Mid & S
 Data0=(-43.61070,171.38152)
 [END]
 
@@ -74960,7 +74960,7 @@ Data0=(-43.53083,170.18114)
 [POI]
 Type=0x2f
 Label=PLATEAU HUT
-StreetDesc=Aoraki/Mount Cook Ntl Park, Aoraki/ DOC Backcountry hut
+StreetDesc=Aoraki / Mount Cook Ntl Park - South Island > Canterbury > Aoraki / Mount Cook/ 
 Data0=(-43.58373,170.18430)
 [END]
 
@@ -75024,7 +75024,7 @@ Data0=(-41.65335,172.99649)
 [POI]
 Type=0x2f
 Label=POTTS HUT
-StreetDesc=Hakatere Conservation Area, Raukapuka/ DOC Backcountry hut
+StreetDesc=Hakatere Conservation Area, Raukapuka - South Island > Canterbury > Mid & South 
 Data0=(-43.49096,170.97072)
 [END]
 
@@ -75128,7 +75128,7 @@ Data0=(-43.99859,169.83364)
 [POI]
 Type=0x2f
 Label=RED STAG HUT
-StreetDesc=Godley Macaulay Cons Area, Twizel Te Manahuna/ DOC Backcountry hut
+StreetDesc=Godley Macaulay Cons Area, Twizel Te ManahunaAoraki / Mount Cook Ntl Park - Sout
 Data0=(-43.54001,170.50252)
 [END]
 
@@ -75144,7 +75144,7 @@ Data0=(-45.72113,167.82613)
 [POI]
 Type=0x2f
 Label=REISCHEK HUT
-StreetDesc=Rakaia Forest Conservation Area, Raukapuka/ DOC Backcountry hut
+StreetDesc=Rakaia Forest Conservation Area, Raukapuka - South Island > Canterbury > Mid & S
 Data0=(-43.27981,170.96403)
 [END]
 
@@ -75343,8 +75343,8 @@ Data0=(-42.13550,172.89969)
 ;1117422
 [POI]
 Type=0x2f
-Label=?SEFTON BIVVY
-StreetDesc=Aoraki/Mount Cook Ntl Park, Aoraki/ DOC Backcountry hut
+Label=?SEFTON BIVVY (BIVOUAC)
+StreetDesc=Aoraki / Mount Cook Ntl Park - South Island > Canterbury > Aoraki / Mount Cook/ 
 Data0=(-43.68762,170.07701)
 [END]
 
@@ -75488,7 +75488,7 @@ Data0=(-44.04694,169.74104)
 [POI]
 Type=0x2f
 Label=SOUTH OPUHA HUT
-StreetDesc=Te Kahui Kaupeka Conservation Park, Two Thumb Range, Raukapuka,/ DOC Backcountry
+StreetDesc=Te Kahui Kaupeka Conservation Park, Two Thumb Range, Raukapuka - South Island > 
 Data0=(-43.89827,170.72582)
 [END]
 
@@ -75560,7 +75560,7 @@ Data0=(-42.60494,172.23619)
 [POI]
 Type=0x2f
 Label=?ST WINIFREDS HUT
-StreetDesc=Havelock Forest Conservation Area, Raukapuka/ DOC Backcountry hut
+StreetDesc=Havelock Forest Conservation Area, Raukapuka - South Island > Canterbury > Mid &
 Data0=(-43.41697,170.68305)
 [END]
 
@@ -75704,7 +75704,7 @@ Data0=(-43.03889,172.14917)
 [POI]
 Type=0x2f
 Label=?TASMAN SADDLE HUT
-StreetDesc=Aoraki/Mount Cook Ntl Park, Aoraki/ DOC Backcountry hut
+StreetDesc=Aoraki / Mount Cook Ntl Park - South Island > Canterbury > Aoraki / Mount Cook/ 
 Data0=(-43.51396,170.34156)
 [END]
 
@@ -75848,7 +75848,7 @@ Data0=(-42.58971,172.17536)
 [POI]
 Type=0x2f
 Label=TOP HUT
-StreetDesc=Hakatere Conservation Area, Raukapuka/ DOC Backcountry hut
+StreetDesc=Hakatere Conservation Area, Raukapuka - South Island > Canterbury > Mid & South 
 Data0=(-43.42070,171.02876)
 [END]
 
@@ -76167,8 +76167,8 @@ Data0=(-43.03411,171.31706)
 ;1117578
 [POI]
 Type=0x2f
-Label=?VEIL BIVVY
-StreetDesc=Rangitata/Rakaia Conservation Area, Raukapuka/ DOC Backcountry hut
+Label=?VEIL BIVVY (BIVOUAC)
+StreetDesc=Rangitata/Rakaia Conservation Area, Raukapuka - South Island > Canterbury > Mid 
 Data0=(-43.38659,170.68011)
 [END]
 
@@ -76248,7 +76248,7 @@ Data0=(-41.37909,172.27568)
 [POI]
 Type=0x2f
 Label=WATCHDOG HUT
-StreetDesc=Clyde Forest Conservation Area, Raukapuka/ DOC Backcountry hut
+StreetDesc=Clyde Forest Conservation Area, Raukapuka - South Island > Canterbury > Mid & So
 Data0=(-43.40820,170.78840)
 [END]
 
@@ -76303,8 +76303,8 @@ Data0=(-43.09970,171.60678)
 ;1117617
 [POI]
 Type=0x2f
-Label=?WEST MATHIAS BIVVY
-StreetDesc=Rakaia Forest Conservation Area, Raukapuka/ DOC Backcountry hut
+Label=?WEST MATHIAS BIVVY (BIVOUAC)
+StreetDesc=Rakaia Forest Conservation Area, Raukapuka - South Island > Canterbury > Mid & S
 Data0=(-43.16653,171.08960)
 [END]
 
@@ -76384,7 +76384,7 @@ Data0=(-44.03784,169.46433)
 [POI]
 Type=0x2f
 Label=WOOLSHED CREEK HUT
-StreetDesc=Alford Forest (Mt Somers Block), Raukapuka/ DOC Backcountry hut
+StreetDesc=Alford Forest (Mt Somers Block), Raukapuka - South Island > Canterbury > Mid & S
 Data0=(-43.60122,171.32588)
 [END]
 
@@ -205478,7 +205478,7 @@ Data0=(-42.74461,172.38189)
 [POI]
 Type=0x6402
 Label=CROOKED SPUR HUT
-StreetDesc=Te Kahui Kaupeka Conservation Park/ DOC Backcountry hut
+StreetDesc=Te Kahui Kaupeka Conservation Park - South Island > Canterbury > Mid & South Can
 Data0=(-43.62373,170.78990)
 [END]
 
@@ -205493,8 +205493,8 @@ Data0=(-45.19366,166.97333)
 ;1183328
 [POI]
 Type=0x6402
-Label=DOG KENNEL BIVVY
-StreetDesc=Te Kahui Kaupeka Conservation Park/ DOC Backcountry hut
+Label=DOG KENNEL BIVVY (BIVOUAC)
+StreetDesc=Te Kahui Kaupeka Conservation Park - South Island > Canterbury > Mid & South Can
 Data0=(-43.58405,170.80982)
 [END]
 
@@ -205518,7 +205518,7 @@ Data0=(-42.64988,172.43212)
 [POI]
 Type=0x6402
 Label=GROWLER HUT
-StreetDesc=Te Kahui Kaupeka Conservation Park/ DOC Backcountry hut
+StreetDesc=Te Kahui Kaupeka Conservation Park - South Island > Canterbury > Mid & South Can
 Data0=(-43.51086,170.73892)
 [END]
 
@@ -205630,7 +205630,7 @@ Data0=(-44.80516,168.86141)
 [POI]
 Type=0x6402
 Label=ROYAL HUT
-StreetDesc=Te Kahui Kaupeka Conservation Park/ DOC Backcountry hut
+StreetDesc=Te Kahui Kaupeka Conservation Park - South Island > Canterbury > Mid & South Can
 Data0=(-43.77961,170.73228)
 [END]
 
@@ -205654,7 +205654,7 @@ Data0=(-44.20571,169.05985)
 [POI]
 Type=0x6402
 Label=SPURS HUT
-StreetDesc=Te Kahui Kaupeka Conservation Park/ DOC Backcountry hut
+StreetDesc=Te Kahui Kaupeka Conservation Park - South Island > Canterbury > Mid & South Can
 Data0=(-43.82666,170.87196)
 [END]
 
@@ -205662,7 +205662,7 @@ Data0=(-43.82666,170.87196)
 [POI]
 Type=0x6402
 Label=STONE HUT
-StreetDesc=Te Kahui Kaupeka Conservation Park/ DOC Backcountry hut
+StreetDesc=Te Kahui Kaupeka Conservation Park - South Island > Canterbury > Mid & South Can
 Data0=(-43.68637,170.77116)
 [END]
 
@@ -205694,7 +205694,7 @@ Data0=(-44.46950,169.50020)
 [POI]
 Type=0x6402
 Label=TRIBULATION HUT
-StreetDesc=Mt Hutt Forest Conservation Area/ DOC Backcountry hut
+StreetDesc=Mt Hutt Forest Conservation Area - South Island > Canterbury > Mid & South Cante
 Data0=(-43.45539,171.45919)
 [END]
 
@@ -205904,5 +205904,14 @@ Label=STONEY GROVE NUTS
 StreetDesc=68 Haycock Rd, Hope, Nelson/ macadamia nuts, nuts, almonds, macadamias, chocolat
 Phone=+6435444667
 Data0=(-41.37834,173.14658)
+[END]
+
+;1183455
+[POI]
+Type=0x2f
+Label=NIVEAU POOLS AND CONSTRUCTION
+StreetDesc=5 Foxford Close, Lincoln, Chc 7608/ Niveau Pools and Construction are specialist
+Phone=+6433295363
+Data0=(-43.64401,172.47896)
 [END]
 

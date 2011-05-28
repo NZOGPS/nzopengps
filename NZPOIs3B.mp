@@ -16824,8 +16824,8 @@ Data0=(-45.90687,170.48752)
 ;1054901
 [POI]
 Type=0x2e02
-Label=MIDDLEMARCH GENERAL STORE
-StreetDesc=Swansea St, Middlemarch/ General store, groceries, wine, gifts, takeaways. Inter
+Label=VELO FAIT, MIDDLEMARCH GENERAL STORE
+StreetDesc=Swansea St, Middlemarch/ Takeaways, Dine in Meals, Groceries, Ice creams, Cold D
 Phone=+6434643762
 Data0=(-45.50752,170.11940)
 [END]
@@ -71168,7 +71168,7 @@ Data0=(-43.38279,171.36979)
 [POI]
 Type=0x2f
 Label=?ABRAHAMS BAY HUNTERS HUT
-StreetDesc=Stewart Island Forest Conservation Area, Southern Islands/ DOC Backcountry hut
+StreetDesc=Stewart Island Forest Conservation Area - South Island > Southland > Stewart Isl
 Data0=(-46.94803,168.02336)
 [END]
 
@@ -71208,7 +71208,7 @@ Data0=(-44.27203,169.59937)
 [POI]
 Type=0x2f
 Label=ALBERT BURN HUT
-StreetDesc=Albert Burn Conservation Area, Wanaka/ DOC Backcountry hut
+StreetDesc=Albert Burn Conservation Area - South Island > Otago > Wanaka/Makarora/ DOC Back
 Data0=(-44.34198,169.03489)
 [END]
 
@@ -71248,7 +71248,7 @@ Data0=(-40.95698,173.05704)
 [POI]
 Type=0x2f
 Label=?ANDERSON'S HUT
-StreetDesc=Pastoral Lease, Waimakariri/ DOC Backcountry hut
+StreetDesc=Pastoral Lease, Waimakariri - South Island > Canterbury > North Canterbury & Art
 Data0=(-42.90154,172.15660)
 [END]
 
@@ -71271,8 +71271,8 @@ Data0=(-42.35565,172.51618)
 ;1116719
 [POI]
 Type=0x2f
-Label=?ANT STREAM BIVVY
-StreetDesc=Lochinvar Forest, Waimakariri/ DOC Backcountry hut
+Label=?ANT STREAM BIVVY (BIVOUAC)
+StreetDesc=Lochinvar Forest, Waimakariri - South Island > Canterbury > North Canterbury & A
 Data0=(-42.86748,172.09614)
 [END]
 
@@ -71280,7 +71280,7 @@ Data0=(-42.86748,172.09614)
 [POI]
 Type=0x2f
 Label=ANT STREAM HUT
-StreetDesc=Lochinvar Forest, Waimakariri/ DOC Backcountry hut
+StreetDesc=Lochinvar Forest, Waimakariri - South Island > Canterbury > North Canterbury & A
 Data0=(-42.89710,172.08881)
 [END]
 
@@ -71288,7 +71288,7 @@ Data0=(-42.89710,172.08881)
 [POI]
 Type=0x2f
 Label=ANTI CROW HUT
-StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Arthur's Pass Ntl Park, Waimakariri - South Island > Canterbury > North Canterbu
 Data0=(-42.99961,171.51105)
 [END]
 
@@ -71296,7 +71296,7 @@ Data0=(-42.99961,171.51105)
 [POI]
 Type=0x2f
 Label=?APARIMA FORKS HUT
-StreetDesc=Takitimu Conservation Area, Murihiku/ DOC Backcountry hut
+StreetDesc=Takitimu Conservation Area, Murihiku - South Island > Southland > Southland/ DOC
 Data0=(-45.67135,167.93001)
 [END]
 
@@ -71304,7 +71304,7 @@ Data0=(-45.67135,167.93001)
 [POI]
 Type=0x6402
 Label=APARIMA HUT (MAIN HUT)
-StreetDesc=Takitimu Conservation Area, Murihiku/ DOC Backcountry hut
+StreetDesc=Takitimu Conservation Area, Murihiku - South Island > Southland > Southland/ DOC
 Data0=(-45.70734,167.99973)
 [END]
 
@@ -71312,7 +71312,7 @@ Data0=(-45.70734,167.99973)
 [POI]
 Type=0x2f
 Label=ARCHIE'S HUT - COPPER CREEK
-StreetDesc=Mt Aurum Recreation Reserve, Wakatipu/ DOC Backcountry hut
+StreetDesc=Mt Aurum Recreation Reserve - South Island > Otago > Queenstown/Wakatipu/ DOC Ba
 Data0=(-44.79607,168.63719)
 [END]
 
@@ -71328,7 +71328,7 @@ Data0=(-43.61106,169.88532)
 [POI]
 Type=0x2f
 Label=?ARMY HUT
-StreetDesc=Snowdon Forest Conservation Area, Te Anau/ DOC Backcountry hut
+StreetDesc=Snowdon Forest Conservation Area, Te Anau - South Island > Southland > Southland
 Data0=(-45.25903,168.04419)
 [END]
 
@@ -71344,7 +71344,7 @@ Data0=(-41.12964,172.69235)
 [POI]
 Type=0x2f
 Label=?ASHTON HUT
-StreetDesc=Eyre Mountains Conservation Park, Murihiku/ DOC Backcountry hut
+StreetDesc=Eyre Mountains Conservation Park, Murihiku - South Island > Southland > Southlan
 Data0=(-45.38428,168.26916)
 [END]
 
@@ -71352,7 +71352,7 @@ Data0=(-45.38428,168.26916)
 [POI]
 Type=0x2f
 Label=ASPIRING HUT
-StreetDesc=Mount Aspiring Ntl Park, Wanaka/ DOC Backcountry hut
+StreetDesc=Mount Aspiring Ntl Park - South Island > Otago > Wanaka/Makarora/ DOC Backcountr
 Data0=(-44.47720,168.66011)
 [END]
 
@@ -71360,7 +71360,7 @@ Data0=(-44.47720,168.66011)
 [POI]
 Type=0x2f
 Label=AVOCA HOMESTEAD
-StreetDesc=Korowai/Torlesse Tussocklands Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Korowai/Torlesse Tussocklands Park, Waimakariri - South Island > Canterbury > No
 Data0=(-43.19372,171.88786)
 [END]
 
@@ -71368,7 +71368,7 @@ Data0=(-43.19372,171.88786)
 [POI]
 Type=0x2f
 Label=?AVOCA HUT
-StreetDesc=Craigieburn Conservation Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Craigieburn Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-43.05325,171.43033)
 [END]
 
@@ -71392,7 +71392,7 @@ Data0=(-40.86533,173.01748)
 [POI]
 Type=0x2f
 Label=?BACK BASINS HIDE
-StreetDesc=Craigieburn Conservation Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Craigieburn Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-43.08706,171.43340)
 [END]
 
@@ -71400,7 +71400,7 @@ Data0=(-43.08706,171.43340)
 [POI]
 Type=0x2f
 Label=BACK VALLEY HUT
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland > Fiordland/ DOC Backcoun
 Data0=(-45.60030,167.58131)
 [END]
 
@@ -71424,7 +71424,7 @@ Data0=(-43.62648,170.19117)
 [POI]
 Type=0x2f
 Label=BALLARAT HUT - FLOOD BURN
-StreetDesc=Mt Aurum Recreation Reserve, Wakatipu/ DOC Backcountry hut
+StreetDesc=Mt Aurum Recreation Reserve - South Island > Otago > Queenstown/Wakatipu/ DOC Ba
 Data0=(-44.75101,168.65691)
 [END]
 
@@ -71456,7 +71456,7 @@ Data0=(-40.91616,173.04849)
 [POI]
 Type=0x2f
 Label=BARKER HUT
-StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Arthur's Pass Ntl Park, Waimakariri - South Island > Canterbury > North Canterbu
 Data0=(-42.98894,171.39740)
 [END]
 
@@ -71488,7 +71488,7 @@ Data0=(-43.10140,171.47830)
 [POI]
 Type=0x2f
 Label=BEALEY HUT
-StreetDesc=Craigieburn Conservation Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Craigieburn Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-43.03772,171.64173)
 [END]
 
@@ -71496,7 +71496,7 @@ Data0=(-43.03772,171.64173)
 [POI]
 Type=0x2f
 Label=BEALEY SPUR HUT
-StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Arthur's Pass Ntl Park, Waimakariri - South Island > Canterbury > North Canterbu
 Data0=(-43.03296,171.56988)
 [END]
 
@@ -71504,7 +71504,7 @@ Data0=(-43.03296,171.56988)
 [POI]
 Type=0x2f
 Label=?BECKETTS HUT
-StreetDesc=Takitimu Conservation Area, Murihiku/ DOC Backcountry hut
+StreetDesc=Takitimu Conservation Area, Murihiku - South Island > Southland > Southland/ DOC
 Data0=(-45.65566,168.00364)
 [END]
 
@@ -71520,7 +71520,7 @@ Data0=(-41.71926,172.93106)
 [POI]
 Type=0x2f
 Label=?BEECH HUT
-StreetDesc=Eyre Mountains Conservation Park, Murihiku/ DOC Backcountry hut
+StreetDesc=Eyre Mountains Conservation Park, Murihiku - South Island > Southland > Southlan
 Data0=(-45.34678,168.43540)
 [END]
 
@@ -71544,7 +71544,7 @@ Data0=(-41.34981,172.23636)
 [POI]
 Type=0x2f
 Label=?BENMORE HUT
-StreetDesc=Korowai/Torlesse Tussocklands Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Korowai/Torlesse Tussocklands Park, Waimakariri - South Island > Canterbury > No
 Data0=(-43.36896,171.75654)
 [END]
 
@@ -71552,7 +71552,7 @@ Data0=(-43.36896,171.75654)
 [POI]
 Type=0x2f
 Label=BIG BAY HUT
-StreetDesc=Fiordland Ntl Park, Pyke Forest, Te Anau/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Pyke Forest, Te Anau - South Island > Fiordland > Fiordland/
 Data0=(-44.29878,168.11589)
 [END]
 
@@ -71560,7 +71560,7 @@ Data0=(-44.29878,168.11589)
 [POI]
 Type=0x2f
 Label=BIG HELLFIRE HUT
-StreetDesc=Rakiura Ntl Park, Southern Islands/ DOC Backcountry hut
+StreetDesc=Rakiura Ntl Park - South Island > Southland > Stewart Island/Rakiura/ DOC Backco
 Data0=(-46.81441,167.73806)
 [END]
 
@@ -71568,7 +71568,7 @@ Data0=(-46.81441,167.73806)
 [POI]
 Type=0x2f
 Label=?BIG HOPWOOD BURN HUT
-StreetDesc=McKerrow Conservation Area, Wanaka/ DOC Backcountry hut
+StreetDesc=McKerrow Conservation Area - South Island > Otago > Wanaka/Makarora/ DOC Backcou
 Data0=(-44.30191,169.32442)
 [END]
 
@@ -71576,7 +71576,7 @@ Data0=(-44.30191,169.32442)
 [POI]
 Type=0x2f
 Label=BIG HUT
-StreetDesc=Rock and Pillar Scenic Reserve, Coastal Otago/ DOC Backcountry hut
+StreetDesc=Rock and Pillar Scenic Reserve - South Island > Otago > Coastal Otago/ DOC Backc
 Data0=(-45.43321,170.06922)
 [END]
 
@@ -71600,7 +71600,7 @@ Data0=(-41.72343,173.82179)
 [POI]
 Type=0x2f
 Label=BLACK HILL HUT
-StreetDesc=Oxford Forest, Waimakariri/ DOC Backcountry hut
+StreetDesc=Oxford Forest, Waimakariri - South Island > Canterbury > North Canterbury & Arth
 Data0=(-43.17910,172.00557)
 [END]
 
@@ -71639,8 +71639,8 @@ Data0=(-43.04601,171.12679)
 ;1116781
 [POI]
 Type=0x2f
-Label=?BOB'S CAMP BIVVY
-StreetDesc=Mt Thomas Forest, Waimakariri/ DOC Backcountry hut
+Label=?BOB'S CAMP BIVVY (BIVOUAC)
+StreetDesc=Mt Thomas Forest, Waimakariri - South Island > Canterbury > North Canterbury & A
 Data0=(-43.14227,172.29157)
 [END]
 
@@ -71672,7 +71672,7 @@ Data0=(-42.92818,171.19847)
 [POI]
 Type=0x2f
 Label=?BORLAND BIVVY
-StreetDesc=Fiordland Ntl Park, Murihiku/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Murihiku - South Island > Fiordland > Fiordland/ DOC Backcou
 Data0=(-45.73979,167.37175)
 [END]
 
@@ -71720,7 +71720,7 @@ Data0=(-41.67000,173.13372)
 [POI]
 Type=0x2f
 Label=BOUNDARY HUT
-StreetDesc=Mavora Park Conservation Area, Te Anau/ DOC Backcountry hut
+StreetDesc=Mavora Park Conservation Area, Te Anau - South Island > Southland > Southland/ D
 Data0=(-45.13972,168.17940)
 [END]
 
@@ -71728,7 +71728,7 @@ Data0=(-45.13972,168.17940)
 [POI]
 Type=0x2f
 Label=BOUNDARY HUT
-StreetDesc=Kopuwai Conservation Area, Central Otago/ DOC Backcountry hut
+StreetDesc=Kopuwai Conservation Area - South Island > Otago > Central Otago/ DOC Backcountr
 Data0=(-45.32976,169.14397)
 [END]
 
@@ -71744,7 +71744,7 @@ Data0=(-43.52945,171.07131)
 [POI]
 Type=0x2f
 Label=BOYLE FLAT HUT
-StreetDesc=St James Station/Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=St James Station/Lake Sumner Conservation Park, Waimakariri - South Island > Can
 Data0=(-42.46560,172.46064)
 [END]
 
@@ -71784,7 +71784,7 @@ Data0=(-43.97497,169.72933)
 [POI]
 Type=0x2f
 Label=BROKEN RIVER HUT
-StreetDesc=Korowai/Torlesse Tussocklands Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Korowai/Torlesse Tussocklands Park, Waimakariri - South Island > Canterbury > No
 Data0=(-43.18971,171.83611)
 [END]
 
@@ -71832,7 +71832,7 @@ Data0=(-44.84493,168.46717)
 [POI]
 Type=0x2f
 Label=?BULL CREEK HUT
-StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Arthur's Pass Ntl Park, Waimakariri - South Island > Canterbury > North Canterbu
 Data0=(-42.89314,171.96840)
 [END]
 
@@ -71840,7 +71840,7 @@ Data0=(-42.89314,171.96840)
 [POI]
 Type=0x2f
 Label=?BULL FLAT HUT
-StreetDesc=Hunter Conservation Area, Wanaka/ DOC Backcountry hut
+StreetDesc=Hunter Conservation Area - South Island > Otago > Wanaka/Makarora/ DOC Backcount
 Data0=(-44.15815,169.53977)
 [END]
 
@@ -71864,7 +71864,7 @@ Data0=(-44.78762,168.67351)
 [POI]
 Type=0x2f
 Label=?BUNGAREE HUT
-StreetDesc=Rakiura Ntl Park, Southern Islands/ DOC Backcountry hut
+StreetDesc=Rakiura Ntl Park - South Island > Southland > Stewart Island/Rakiura/ DOC Backco
 Data0=(-46.80890,168.03375)
 [END]
 
@@ -71880,7 +71880,7 @@ Data0=(-42.15620,172.44997)
 [POI]
 Type=0x2f
 Label=BUSH HUT
-StreetDesc=Hawea Conservation Area, Wanaka/ DOC Backcountry hut
+StreetDesc=Hawea Conservation Area - South Island > Otago > Wanaka/Makarora/ DOC Backcountr
 Data0=(-44.40894,169.46189)
 [END]
 
@@ -71904,7 +71904,7 @@ Data0=(-43.40743,170.41456)
 [POI]
 Type=0x6402
 Label=CAMERON HUT
-StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-42.71087,171.95207)
 [END]
 
@@ -71920,7 +71920,7 @@ Data0=(-43.36704,171.01802)
 [POI]
 Type=0x2f
 Label=CAMERON HUT
-StreetDesc=Mount Aspiring Ntl Park, Wanaka/ DOC Backcountry hut
+StreetDesc=Mount Aspiring Ntl Park - South Island > Otago > Wanaka/Makarora/ DOC Backcountr
 Data0=(-44.19889,169.31572)
 [END]
 
@@ -71943,8 +71943,8 @@ Data0=(-42.89826,171.35417)
 ;1116823
 [POI]
 Type=0x2f
-Label=CANDLESTICKS BIVVY
-StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
+Label=CANDLESTICKS BIVVY (BIVOUAC)
+StreetDesc=Arthur's Pass Ntl Park, Waimakariri - South Island > Canterbury > North Canterbu
 Data0=(-42.82903,172.02361)
 [END]
 
@@ -71984,7 +71984,7 @@ Data0=(-44.82377,168.46754)
 [POI]
 Type=0x2f
 Label=CAREYS HUT
-StreetDesc=Mavora Park Conservation Area, Te Anau/ DOC Backcountry hut
+StreetDesc=Mavora Park Conservation Area, Te Anau - South Island > Southland > Southland/ D
 Data0=(-45.18828,168.16432)
 [END]
 
@@ -71992,7 +71992,7 @@ Data0=(-45.18828,168.16432)
 [POI]
 Type=0x2f
 Label=CARLYLE HUT
-StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-42.55038,172.49586)
 [END]
 
@@ -72015,8 +72015,8 @@ Data0=(-43.49641,170.66214)
 ;1116834
 [POI]
 Type=0x2f
-Label=CAROLINE CREEK BIVVY
-StreetDesc=Pastoral Lease, Waimakariri/ DOC Backcountry hut
+Label=CAROLINE CREEK BIVVY (BIVOUAC)
+StreetDesc=Pastoral Lease, Waimakariri - South Island > Canterbury > North Canterbury & Art
 Data0=(-42.15362,172.66009)
 [END]
 
@@ -72024,7 +72024,7 @@ Data0=(-42.15362,172.66009)
 [POI]
 Type=0x2f
 Label=?CAROLINE HUT
-StreetDesc=Fiordland Ntl Park, Murihiku/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Murihiku - South Island > Fiordland > Fiordland/ DOC Backcou
 Data0=(-45.94153,167.28329)
 [END]
 
@@ -72032,7 +72032,7 @@ Data0=(-45.94153,167.28329)
 [POI]
 Type=0x2f
 Label=CARRINGTON HUT
-StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Arthur's Pass Ntl Park, Waimakariri - South Island > Canterbury > North Canterbu
 Data0=(-42.95985,171.44851)
 [END]
 
@@ -72048,7 +72048,7 @@ Data0=(-42.79050,171.55157)
 [POI]
 Type=0x2f
 Label=CASEY HUT
-StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Arthur's Pass Ntl Park, Waimakariri - South Island > Canterbury > North Canterbu
 Data0=(-42.89577,171.86346)
 [END]
 
@@ -72056,7 +72056,7 @@ Data0=(-42.89577,171.86346)
 [POI]
 Type=0x2f
 Label=?CASS SADDLE HUT
-StreetDesc=Craigieburn Conservation Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Craigieburn Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-43.09711,171.69154)
 [END]
 
@@ -72088,7 +72088,7 @@ Data0=(-43.45301,170.16622)
 [POI]
 Type=0x2f
 Label=?CASWELL SOUND HUT
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland > Fiordland/ DOC Backcoun
 Data0=(-45.04829,167.30789)
 [END]
 
@@ -72096,7 +72096,7 @@ Data0=(-45.04829,167.30789)
 [POI]
 Type=0x2f
 Label=CAVALIER HUNTERS HUT
-StreetDesc=Rakiura Ntl Park, Southern Islands/ DOC Backcountry hut
+StreetDesc=Rakiura Ntl Park - South Island > Southland > Stewart Island/Rakiura/ DOC Backco
 Data0=(-46.96322,167.72228)
 [END]
 
@@ -72160,7 +72160,7 @@ Data0=(-43.51034,170.10861)
 [POI]
 Type=0x2f
 Label=CHEVIOT DOWNS HUT
-StreetDesc=Takitimu Conservation Area, Te Anau/ DOC Backcountry hut
+StreetDesc=Takitimu Conservation Area, Te Anau - South Island > Fiordland > Fiordland/ DOC 
 Data0=(-45.63220,167.78573)
 [END]
 
@@ -72184,7 +72184,7 @@ Data0=(-43.71947,169.91059)
 [POI]
 Type=0x2f
 Label=?CHRISTMAS VILLAGE HUNTERS HUT
-StreetDesc=Rakiura Ntl Park, Southern Islands/ DOC Backcountry hut
+StreetDesc=Rakiura Ntl Park - South Island > Southland > Stewart Island/Rakiura/ DOC Backco
 Data0=(-46.75082,167.98118)
 [END]
 
@@ -72192,7 +72192,7 @@ Data0=(-46.75082,167.98118)
 [POI]
 Type=0x2f
 Label=?CHRISTMAS VILLAGE HUT
-StreetDesc=Rakiura Ntl Park, Southern Islands/ DOC Backcountry hut
+StreetDesc=Rakiura Ntl Park - South Island > Southland > Stewart Island/Rakiura/ DOC Backco
 Data0=(-46.74537,167.98035)
 [END]
 
@@ -72200,7 +72200,7 @@ Data0=(-46.74537,167.98035)
 [POI]
 Type=0x2f
 Label=CHRISTOPHER (ADA ) CULLERS HUT
-StreetDesc=St James Station/Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=St James Station/Lake Sumner Conservation Park, Waimakariri - South Island > Can
 Data0=(-42.28314,172.55776)
 [END]
 
@@ -72208,7 +72208,7 @@ Data0=(-42.28314,172.55776)
 [POI]
 Type=0x2f
 Label=CHRISTOPHER HUT
-StreetDesc=St James Station/Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=St James Station/Lake Sumner Conservation Park, Waimakariri - South Island > Can
 Data0=(-42.28845,172.56487)
 [END]
 
@@ -72216,7 +72216,7 @@ Data0=(-42.28845,172.56487)
 [POI]
 Type=0x2f
 Label=CLARKE HUT - A FRAME
-StreetDesc=Fiordland Ntl Park, Murihiku/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Murihiku - South Island > Fiordland > Fiordland/ DOC Backcou
 Data0=(-45.79229,167.33115)
 [END]
 
@@ -72224,7 +72224,7 @@ Data0=(-45.79229,167.33115)
 [POI]
 Type=0x2f
 Label=CLINTON HUT
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland > Fiordland/ DOC Backcoun
 Data0=(-44.90578,167.90830)
 [END]
 
@@ -72304,7 +72304,7 @@ Data0=(-43.82251,169.16768)
 [POI]
 Type=0x2f
 Label=?COTTERS HUT
-StreetDesc=Hawea Conservation Area, Wanaka/ DOC Backcountry hut
+StreetDesc=Hawea Conservation Area - South Island > Otago > Wanaka/Makarora/ DOC Backcountr
 Data0=(-44.36103,169.51664)
 [END]
 
@@ -72360,7 +72360,7 @@ Data0=(-42.29346,171.39183)
 [POI]
 Type=0x2f
 Label=?CROMEL BASE HUT
-StreetDesc=Eyre Mountains Conservation Park, Murihiku/ DOC Backcountry hut
+StreetDesc=Eyre Mountains Conservation Park, Murihiku - South Island > Southland > Southlan
 Data0=(-45.53851,168.35372)
 [END]
 
@@ -72368,7 +72368,7 @@ Data0=(-45.53851,168.35372)
 [POI]
 Type=0x2f
 Label=?CROMEL BRANCH HUT
-StreetDesc=Eyre Mountains Conservation Park, Murihiku/ DOC Backcountry hut
+StreetDesc=Eyre Mountains Conservation Park, Murihiku - South Island > Southland > Southlan
 Data0=(-45.47536,168.35792)
 [END]
 
@@ -72384,7 +72384,7 @@ Data0=(-41.29373,172.46884)
 [POI]
 Type=0x2f
 Label=CROW HUT
-StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Arthur's Pass Ntl Park, Waimakariri - South Island > Canterbury > North Canterbu
 Data0=(-42.94338,171.51591)
 [END]
 
@@ -72400,7 +72400,7 @@ Data0=(-42.99691,171.15282)
 [POI]
 Type=0x2f
 Label=?CRYSTAL HUT
-StreetDesc=Mt Aurum Recreation Reserve, Wakatipu/ DOC Backcountry hut
+StreetDesc=Mt Aurum Recreation Reserve - South Island > Otago > Queenstown/Wakatipu/ DOC Ba
 Data0=(-44.83052,168.66712)
 [END]
 
@@ -72432,7 +72432,7 @@ Data0=(-43.45249,170.71273)
 [POI]
 Type=0x2f
 Label=DALEYS FLAT HUT
-StreetDesc=Mount Aspiring Ntl Park, Wakatipu/ DOC Backcountry hut
+StreetDesc=Mount Aspiring Ntl Park - South Island > Otago > Queenstown/Wakatipu/ DOC Backco
 Data0=(-44.54810,168.37437)
 [END]
 
@@ -72440,7 +72440,7 @@ Data0=(-44.54810,168.37437)
 [POI]
 Type=0x2f
 Label=?DART HUT
-StreetDesc=Mount Aspiring Ntl Park, Wakatipu/ DOC Backcountry hut
+StreetDesc=Mount Aspiring Ntl Park - South Island > Otago > Queenstown/Wakatipu/ DOC Backco
 Data0=(-44.52162,168.55448)
 [END]
 
@@ -72464,7 +72464,7 @@ Data0=(-43.54880,170.24261)
 [POI]
 Type=0x2f
 Label=DEMON TRAIL HUT
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland > Fiordland/ DOC Backcoun
 Data0=(-44.49410,168.07323)
 [END]
 
@@ -72479,8 +72479,8 @@ Data0=(-41.41602,173.57696)
 ;1116907
 [POI]
 Type=0x2f
-Label=DEVILS DEN BIVVY
-StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
+Label=DEVILS DEN BIVVY (BIVOUAC)
+StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-42.48784,172.29407)
 [END]
 
@@ -72528,7 +72528,7 @@ Data0=(-43.49581,171.26135)
 [POI]
 Type=0x2f
 Label=?DOUBTFUL HUT
-StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-42.53160,172.28420)
 [END]
 
@@ -72536,7 +72536,7 @@ Data0=(-42.53160,172.28420)
 [POI]
 Type=0x2f
 Label=DOUBTLESS HUT
-StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-42.52198,172.22599)
 [END]
 
@@ -72544,7 +72544,7 @@ Data0=(-42.52198,172.22599)
 [POI]
 Type=0x2f
 Label=?DOUGHBOY BAY HUT
-StreetDesc=Rakiura Ntl Park, Southern Islands/ DOC Backcountry hut
+StreetDesc=Rakiura Ntl Park - South Island > Southland > Stewart Island/Rakiura/ DOC Backco
 Data0=(-47.03131,167.70601)
 [END]
 
@@ -72576,7 +72576,7 @@ Data0=(-42.21690,173.56251)
 [POI]
 Type=0x2f
 Label=DUMPLING HUT
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland > Fiordland/ DOC Backcoun
 Data0=(-44.76823,167.76562)
 [END]
 
@@ -72600,7 +72600,7 @@ Data0=(-41.90566,172.64630)
 [POI]
 Type=0x2f
 Label=DYNAMO HUT
-StreetDesc=Mt Aurum Recreation Reserve, Wakatipu/ DOC Backcountry hut
+StreetDesc=Mt Aurum Recreation Reserve - South Island > Otago > Queenstown/Wakatipu/ DOC Ba
 Data0=(-44.80095,168.66237)
 [END]
 
@@ -72608,7 +72608,7 @@ Data0=(-44.80095,168.66237)
 [POI]
 Type=0x2f
 Label=DYNAMO RED HUT
-StreetDesc=Mt Aurum Recreation Reserve, Wakatipu/ DOC Backcountry hut
+StreetDesc=Mt Aurum Recreation Reserve - South Island > Otago > Queenstown/Wakatipu/ DOC Ba
 Data0=(-44.80444,168.65364)
 [END]
 
@@ -72624,15 +72624,15 @@ Data0=(-43.51933,170.48217)
 [POI]
 Type=0x2f
 Label=?EARNSLAW HUT
-StreetDesc=Mount Aspiring Ntl Park, Wakatipu/ DOC Backcountry hut
+StreetDesc=Mount Aspiring Ntl Park - South Island > Otago > Queenstown/Wakatipu/ DOC Backco
 Data0=(-44.62233,168.44791)
 [END]
 
 ;1116934
 [POI]
 Type=0x2f
-Label=?EAST HAWDON BIVVY
-StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
+Label=?EAST HAWDON BIVVY (BIVOUAC)
+StreetDesc=Arthur's Pass Ntl Park, Waimakariri - South Island > Canterbury > North Canterbu
 Data0=(-42.90010,171.77586)
 [END]
 
@@ -72648,7 +72648,7 @@ Data0=(-42.19355,172.55774)
 [POI]
 Type=0x2f
 Label=?EAST RUGGEDY HUT
-StreetDesc=Rakiura Ntl Park, Southern Islands/ DOC Backcountry hut
+StreetDesc=Rakiura Ntl Park - South Island > Southland > Stewart Island/Rakiura/ DOC Backco
 Data0=(-46.72351,167.74614)
 [END]
 
@@ -72656,7 +72656,7 @@ Data0=(-46.72351,167.74614)
 [POI]
 Type=0x2f
 Label=EDWARDS HUT
-StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Arthur's Pass Ntl Park, Waimakariri - South Island > Canterbury > North Canterbu
 Data0=(-42.94172,171.64679)
 [END]
 
@@ -72664,7 +72664,7 @@ Data0=(-42.94172,171.64679)
 [POI]
 Type=0x2f
 Label=?EEL CREEK HUT
-StreetDesc=Fiordland Ntl Park, Murihiku/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Murihiku - South Island > Fiordland > Fiordland/ DOC Backcou
 Data0=(-45.88253,167.36154)
 [END]
 
@@ -72711,8 +72711,8 @@ Data0=(-43.84682,169.91560)
 ;1116945
 [POI]
 Type=0x2f
-Label=ESK BIVVY
-StreetDesc=Pastoral Lease, Waimakariri/ DOC Backcountry hut
+Label=ESK BIVVY (BIVOUAC)
+StreetDesc=Pastoral Lease, Waimakariri - South Island > Canterbury > North Canterbury & Art
 Data0=(-42.89563,172.22223)
 [END]
 
@@ -72720,15 +72720,15 @@ Data0=(-42.89563,172.22223)
 [POI]
 Type=0x2f
 Label=?ESQUILANT BIVVY HUT
-StreetDesc=Mount Aspiring Ntl Park, Wanaka/ DOC Backcountry hut
+StreetDesc=Mount Aspiring Ntl Park, Wanaka - South Island > Otago > Queenstown/Wakatipu/ DO
 Data0=(-44.61482,168.40639)
 [END]
 
 ;1116947
 [POI]
 Type=0x2f
-Label=?EVANGALINE BIVVY
-StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
+Label=?EVANGALINE BIVVY (BIVOUAC)
+StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-42.68256,172.27876)
 [END]
 
@@ -72760,7 +72760,7 @@ Data0=(-41.04962,172.52504)
 [POI]
 Type=0x2f
 Label=?FERGUSON HUT
-StreetDesc=Hunter Conservation Area, Wanaka/ DOC Backcountry hut
+StreetDesc=Hunter Conservation Area - South Island > Otago > Wanaka/Makarora/ DOC Backcount
 Data0=(-44.11941,169.55125)
 [END]
 
@@ -72808,7 +72808,7 @@ Data0=(-43.46487,170.64821)
 [POI]
 Type=0x2f
 Label=?FORBES HUT
-StreetDesc=Hunter Conservation Area, Wanaka/ DOC Backcountry hut
+StreetDesc=Hunter Conservation Area - South Island > Otago > Wanaka/Makarora/ DOC Backcount
 Data0=(-44.04871,169.61954)
 [END]
 
@@ -72816,7 +72816,7 @@ Data0=(-44.04871,169.61954)
 [POI]
 Type=0x2f
 Label=FORKS HUT
-StreetDesc=Snowdon Forest Conservation Area, Te Anau/ DOC Backcountry hut
+StreetDesc=Snowdon Forest Conservation Area, Te Anau - South Island > Southland > Southland
 Data0=(-45.11387,168.12717)
 [END]
 
@@ -72832,7 +72832,7 @@ Data0=(-41.43175,173.64092)
 [POI]
 Type=0x2f
 Label=FREDS CAMP HUT
-StreetDesc=Rakiura Ntl Park, Southern Islands/ DOC Backcountry hut
+StreetDesc=Rakiura Ntl Park - South Island > Southland > Stewart Island/Rakiura/ DOC Backco
 Data0=(-46.92846,167.97781)
 [END]
 
@@ -72840,7 +72840,7 @@ Data0=(-46.92846,167.97781)
 [POI]
 Type=0x2f
 Label=?FREEMAN BURN HUT
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland > Fiordland/ DOC Backcoun
 Data0=(-45.44044,167.38109)
 [END]
 
@@ -72848,7 +72848,7 @@ Data0=(-45.44044,167.38109)
 [POI]
 Type=0x2f
 Label=?FRENCH RIDGE HUT (NEW)
-StreetDesc=Mount Aspiring Ntl Park, Wanaka/ DOC Backcountry hut
+StreetDesc=Mount Aspiring Ntl Park - South Island > Otago > Wanaka/Makarora/ DOC Backcountr
 Data0=(-44.42863,168.69386)
 [END]
 
@@ -72856,7 +72856,7 @@ Data0=(-44.42863,168.69386)
 [POI]
 Type=0x2f
 Label=?FRESHWATER HUT
-StreetDesc=Rakiura Ntl Park, Southern Islands/ DOC Backcountry hut
+StreetDesc=Rakiura Ntl Park - South Island > Southland > Stewart Island/Rakiura/ DOC Backco
 Data0=(-46.86863,167.91966)
 [END]
 
@@ -72888,7 +72888,7 @@ Data0=(-43.03175,171.11088)
 [POI]
 Type=0x2f
 Label=?GABRIEL HUT
-StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-42.72111,172.28967)
 [END]
 
@@ -72912,7 +72912,7 @@ Data0=(-42.04748,172.60512)
 [POI]
 Type=0x2f
 Label=?GEORGE SOUND HUT
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland > Fiordland/ DOC Backcoun
 Data0=(-44.98393,167.44014)
 [END]
 
@@ -72928,7 +72928,7 @@ Data0=(-42.97302,171.09633)
 [POI]
 Type=0x2f
 Label=?GLAISNOCK HUT
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland > Fiordland/ DOC Backcoun
 Data0=(-44.99823,167.69676)
 [END]
 
@@ -72936,15 +72936,15 @@ Data0=(-44.99823,167.69676)
 [POI]
 Type=0x2f
 Label=?GLEN ROY RACEMAN'S HUT
-StreetDesc=Glen Roy Special Licence Area, Wakatipu/ DOC Backcountry hut
+StreetDesc=Glen Roy Special Licence Area - South Island > Otago > Queenstown/Wakatipu/ DOC 
 Data0=(-45.08651,168.87610)
 [END]
 
 ;1116977
 [POI]
 Type=0x2f
-Label=GLENRAE BIVVY
-StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
+Label=GLENRAE BIVVY (BIVOUAC)
+StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-42.69475,172.44265)
 [END]
 
@@ -73032,7 +73032,7 @@ Data0=(-42.89188,171.29147)
 [POI]
 Type=0x2f
 Label=GREEN LAKE HUT
-StreetDesc=Fiordland Ntl Park, Murihiku/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Murihiku - South Island > Fiordland > Fiordland/ DOC Backcou
 Data0=(-45.78581,167.40070)
 [END]
 
@@ -73040,7 +73040,7 @@ Data0=(-45.78581,167.40070)
 [POI]
 Type=0x2f
 Label=GREENSTONE HUT
-StreetDesc=Greenstone Conservation Area, Wakatipu/ DOC Backcountry hut
+StreetDesc=Greenstone Conservation Area - South Island > Otago > Queenstown/Wakatipu/ DOC B
 Data0=(-44.97925,168.26233)
 [END]
 
@@ -73104,23 +73104,15 @@ Data0=(-44.15550,169.63980)
 [POI]
 Type=0x2f
 Label=?HALFWAY HUT
-StreetDesc=Fiordland Ntl Park, Murihiku/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Murihiku - South Island > Fiordland > Fiordland/ DOC Backcou
 Data0=(-45.75432,167.14380)
-[END]
-
-;1116999
-[POI]
-Type=0x2f
-Label=?HALLELUJAH BIVVY
-StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
-Data0=(-42.92808,171.82499)
 [END]
 
 ;1117000
 [POI]
 Type=0x2f
 Label=HAMILTON HUT
-StreetDesc=Craigieburn Conservation Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Craigieburn Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-43.12933,171.62975)
 [END]
 
@@ -73128,7 +73120,7 @@ Data0=(-43.12933,171.62975)
 [POI]
 Type=0x2f
 Label=?HAPUATUNA HUNTERS HUT
-StreetDesc=Pryse Peak Scenic Reserve, Southern Islands/ DOC Backcountry hut
+StreetDesc=Pryse Peak Scenic Reserve - South Island > Southland > Stewart Island/Rakiura/ D
 Data0=(-46.95451,168.07170)
 [END]
 
@@ -73151,8 +73143,8 @@ Data0=(-42.91937,171.32135)
 ;1117007
 [POI]
 Type=0x6402
-Label=HARPER PASS BIVVY
-StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
+Label=HARPER PASS BIVVY (BIVOUAC)
+StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-42.72502,171.89660)
 [END]
 
@@ -73160,7 +73152,7 @@ Data0=(-42.72502,171.89660)
 [POI]
 Type=0x2f
 Label=HAUROKO BURN HUT
-StreetDesc=Fiordland Ntl Park, Murihiku/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Murihiku - South Island > Fiordland > Fiordland/ DOC Backcou
 Data0=(-45.83065,167.14512)
 [END]
 
@@ -73192,7 +73184,7 @@ Data0=(-40.98660,172.11032)
 [POI]
 Type=0x2f
 Label=?HEATHER JOCK HUT
-StreetDesc=Wakatipu/ DOC Backcountry hut
+StreetDesc=- South Island > Otago > Queenstown/Wakatipu/ DOC Backcountry hut
 Data0=(-44.85421,168.45573)
 [END]
 
@@ -73208,7 +73200,7 @@ Data0=(-41.41653,172.36138)
 [POI]
 Type=0x2f
 Label=HIDDEN FALLS HUT
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland > Fiordland/ DOC Backcoun
 Data0=(-44.62384,168.11420)
 [END]
 
@@ -73223,8 +73215,8 @@ Data0=(-41.73984,173.29580)
 ;1117020
 [POI]
 Type=0x2f
-Label=HIDEAWAY BIVVY
-StreetDesc=Ahuriri Conservation Park, Twizel Te Manahuna/ DOC Backcountry hut
+Label=HIDEAWAY BIVVY (BIVOUAC)
+StreetDesc=Ahuriri Conservation Park, Twizel Te Manahuna - South Island > Canterbury > Mack
 Data0=(-44.34590,169.68113)
 [END]
 
@@ -73232,7 +73224,7 @@ Data0=(-44.34590,169.68113)
 [POI]
 Type=0x2f
 Label=HISTORIC CLARKE HUT
-StreetDesc=Fiordland Ntl Park, Murihiku/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Murihiku - South Island > Fiordland > Fiordland/ DOC Backcou
 Data0=(-45.78446,167.31838)
 [END]
 
@@ -73240,7 +73232,7 @@ Data0=(-45.78446,167.31838)
 [POI]
 Type=0x2f
 Label=HOKURI HUT
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland > Fiordland/ DOC Backcoun
 Data0=(-44.42108,168.05619)
 [END]
 
@@ -73248,7 +73240,7 @@ Data0=(-44.42108,168.05619)
 [POI]
 Type=0x2f
 Label=?HOME HILL HUT (DILAPIDATED)
-StreetDesc=Ngai Tahu Gift Back Lands - Ka Whenua Roimata, Wakatipu/ DOC Backcountry hut
+StreetDesc=Ngai Tahu Gift Back Lands - Ka Whenua Roimata - South Island > Otago > Queenstow
 Data0=(-44.91611,168.27916)
 [END]
 
@@ -73256,7 +73248,7 @@ Data0=(-44.91611,168.27916)
 [POI]
 Type=0x2f
 Label=HOMESTEAD HUNTERS HUT
-StreetDesc=Freshwater & Ruggedy Flat Conservation Area, Southern Islands/ DOC Backcountry h
+StreetDesc=Freshwater & Ruggedy Flat Conservation Area - South Island > Southland > Stewart
 Data0=(-46.92266,167.79680)
 [END]
 
@@ -73272,7 +73264,7 @@ Data0=(-43.66204,170.11021)
 [POI]
 Type=0x2f
 Label=HOPE ARM HUT
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland > Fiordland/ DOC Backcoun
 Data0=(-45.59004,167.54098)
 [END]
 
@@ -73280,7 +73272,7 @@ Data0=(-45.59004,167.54098)
 [POI]
 Type=0x2f
 Label=HOPE KIWI LODGE
-StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-42.64192,172.23712)
 [END]
 
@@ -73360,7 +73352,7 @@ Data0=(-41.50696,172.38239)
 [POI]
 Type=0x2f
 Label=HURUNUI HUT
-StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-42.70379,172.09593)
 [END]
 
@@ -73368,7 +73360,7 @@ Data0=(-42.70379,172.09593)
 [POI]
 Type=0x6402
 Label=HURUNUI NO. 3 HUT
-StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-42.70083,171.98796)
 [END]
 
@@ -73376,7 +73368,7 @@ Data0=(-42.70083,171.98796)
 [POI]
 Type=0x2f
 Label=IRIS BURN HUT
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland > Fiordland/ DOC Backcoun
 Data0=(-45.39901,167.50948)
 [END]
 
@@ -73384,7 +73376,7 @@ Data0=(-45.39901,167.50948)
 [POI]
 Type=0x2f
 Label=?IRTHING HUT
-StreetDesc=Eyre Mountains Conservation Park, Murihiku/ DOC Backcountry hut
+StreetDesc=Eyre Mountains Conservation Park, Murihiku - South Island > Southland > Southlan
 Data0=(-45.43664,168.37599)
 [END]
 
@@ -73400,7 +73392,7 @@ Data0=(-42.14634,172.82595)
 [POI]
 Type=0x2f
 Label=?ISLANDS HUT
-StreetDesc=Eyre Mountains Conservation Park, Murihiku/ DOC Backcountry hut
+StreetDesc=Eyre Mountains Conservation Park, Murihiku - South Island > Southland > Southlan
 Data0=(-45.47106,168.28997)
 [END]
 
@@ -73456,7 +73448,7 @@ Data0=(-43.28097,171.11485)
 [POI]
 Type=0x2f
 Label=JERVOIS HUT
-StreetDesc=Pastoral Lease, Waimakariri/ DOC Backcountry hut
+StreetDesc=Pastoral Lease, Waimakariri - South Island > Canterbury > North Canterbury & Art
 Data0=(-42.41551,172.57818)
 [END]
 
@@ -73504,7 +73496,7 @@ Data0=(-42.72063,172.33392)
 [POI]
 Type=0x2f
 Label=JUBILEE HUT (NEW)
-StreetDesc=Silverpeaks Scenic Reserve, Coastal Otago/ DOC Backcountry hut
+StreetDesc=Silverpeaks Scenic Reserve - South Island > Otago > Coastal Otago/ DOC Backcount
 Data0=(-45.71937,170.44011)
 [END]
 
@@ -73528,7 +73520,7 @@ Data0=(-42.89746,171.42522)
 [POI]
 Type=0x2f
 Label=?JUNCTION BURN HUT
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland > Fiordland/ DOC Backcoun
 Data0=(-45.15099,167.49801)
 [END]
 
@@ -73536,7 +73528,7 @@ Data0=(-45.15099,167.49801)
 [POI]
 Type=0x2f
 Label=JUNCTION HUT
-StreetDesc=Bains Conservation Area - access easement, Central Otago/ DOC Backcountry hut
+StreetDesc=Bains Conservation Area - access easement - South Island > Otago > Central Otago
 Data0=(-45.51089,169.18325)
 [END]
 
@@ -73560,7 +73552,7 @@ Data0=(-42.32135,173.40643)
 [POI]
 Type=0x2f
 Label=?KAIPO HUT
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland > Fiordland/ DOC Backcoun
 Data0=(-44.48858,167.94382)
 [END]
 
@@ -73584,7 +73576,7 @@ Data0=(-41.23293,172.51059)
 [POI]
 Type=0x2f
 Label=?KAY CREEK HUT
-StreetDesc=Greenstone Conservation Area, Wakatipu/ DOC Backcountry hut
+StreetDesc=Greenstone Conservation Area - South Island > Otago > Queenstown/Wakatipu/ DOC B
 Data0=(-44.79897,168.24551)
 [END]
 
@@ -73592,7 +73584,7 @@ Data0=(-44.79897,168.24551)
 [POI]
 Type=0x2f
 Label=KELLYS HUNTERS HUT
-StreetDesc=Port Adventure Conservation Land, Stewart Island/ DOC Backcountry hut
+StreetDesc=Port Adventure Conservation Land - South Island > Southland > Stewart Island/Rak
 Data0=(-47.08131,168.17085)
 [END]
 
@@ -73616,7 +73608,7 @@ Data0=(-43.51889,170.35990)
 [POI]
 Type=0x2f
 Label=KENNEDY MEMORIAL HUT
-StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna/ DOC Backcountry hut
+StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna - South Island > Canterbury > M
 Data0=(-43.87975,169.96329)
 [END]
 
@@ -73624,7 +73616,7 @@ Data0=(-43.87975,169.96329)
 [POI]
 Type=0x2f
 Label=KERIN FORKS HUT
-StreetDesc=Mount Aspiring Ntl Park, Wanaka/ DOC Backcountry hut
+StreetDesc=Mount Aspiring Ntl Park - South Island > Otago > Wanaka/Makarora/ DOC Backcountr
 Data0=(-44.23935,169.03597)
 [END]
 
@@ -73640,7 +73632,7 @@ Data0=(-41.46565,172.48060)
 [POI]
 Type=0x2f
 Label=KINTAIL HUT
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland > Fiordland/ DOC Backcoun
 Data0=(-45.61467,167.11532)
 [END]
 
@@ -73648,7 +73640,7 @@ Data0=(-45.61467,167.11532)
 [POI]
 Type=0x2f
 Label=KIRTLE BURN HUT
-StreetDesc=Pisa Conservation Area, Wanaka/ DOC Backcountry hut
+StreetDesc=Pisa Conservation Area - South Island > Otago > Wanaka/Makarora/ DOC Backcountry
 Data0=(-44.87102,169.16066)
 [END]
 
@@ -73664,7 +73656,7 @@ Data0=(-42.10314,172.00985)
 [POI]
 Type=0x2f
 Label=KIWI BURN HUT
-StreetDesc=Snowdon Forest Conservation Area, Te Anau/ DOC Backcountry hut
+StreetDesc=Snowdon Forest Conservation Area, Te Anau - South Island > Southland > Southland
 Data0=(-45.35521,168.09060)
 [END]
 
@@ -73728,7 +73720,7 @@ Data0=(-42.29865,173.59513)
 [POI]
 Type=0x2f
 Label=?LAGOON SADDLE A FRAME HUT
-StreetDesc=Craigieburn Conservation Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Craigieburn Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-43.05464,171.60289)
 [END]
 
@@ -73744,7 +73736,7 @@ Data0=(-43.05462,171.60166)
 [POI]
 Type=0x2f
 Label=LAKE ALABASTER HUT
-StreetDesc=Fiordland Ntl Park/Private Land, Te Anau/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park/Private Land, Te Anau - South Island > Fiordland > Fiordland/
 Data0=(-44.54588,168.14390)
 [END]
 
@@ -73768,7 +73760,7 @@ Data0=(-42.43715,172.25519)
 [POI]
 Type=0x2f
 Label=LAKE GUYON HUT
-StreetDesc=Pastoral Lease, Waimakariri/ DOC Backcountry hut
+StreetDesc=Pastoral Lease, Waimakariri - South Island > Canterbury > North Canterbury & Art
 Data0=(-42.28714,172.64853)
 [END]
 
@@ -73776,7 +73768,7 @@ Data0=(-42.28714,172.64853)
 [POI]
 Type=0x2f
 Label=?LAKE HANKINSON HUT
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland > Fiordland/ DOC Backcoun
 Data0=(-45.04666,167.57520)
 [END]
 
@@ -73784,7 +73776,7 @@ Data0=(-45.04666,167.57520)
 [POI]
 Type=0x2f
 Label=LAKE HOWDEN HUT
-StreetDesc=Routeburn Track, Fiordland Ntl Park/ DOC Backcountry hut
+StreetDesc=Routeburn Track, Fiordland Ntl Park - South Island > Fiordland > Fiordland/ DOC 
 Data0=(-44.81560,168.13534)
 [END]
 
@@ -73792,15 +73784,15 @@ Data0=(-44.81560,168.13534)
 [POI]
 Type=0x2f
 Label=LAKE MACKENZIE HUT
-StreetDesc=Routeburn Track, Fiordland Ntl Park/ DOC Backcountry hut
+StreetDesc=Routeburn Track, Fiordland Ntl Park - South Island > Fiordland > Fiordland/ DOC 
 Data0=(-44.76741,168.17348)
 [END]
 
 ;1117121
 [POI]
 Type=0x2f
-Label=LAKE MAN BIVVY
-StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
+Label=LAKE MAN BIVVY (BIVOUAC)
+StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-42.54890,172.22505)
 [END]
 
@@ -73824,7 +73816,7 @@ Data0=(-42.66351,171.70934)
 [POI]
 Type=0x2f
 Label=?LAKE POTERITERI HUT
-StreetDesc=Fiordland Ntl Park, Murihiku/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Murihiku - South Island > Fiordland > Fiordland/ DOC Backcou
 Data0=(-46.11078,167.15279)
 [END]
 
@@ -73832,7 +73824,7 @@ Data0=(-46.11078,167.15279)
 [POI]
 Type=0x2f
 Label=LAKE ROE HUT
-StreetDesc=Fiordland Ntl Park, Murihiku/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Murihiku - South Island > Fiordland > Fiordland/ DOC Backcou
 Data0=(-45.70354,167.14340)
 [END]
 
@@ -73848,7 +73840,7 @@ Data0=(-42.24780,172.13207)
 [POI]
 Type=0x2f
 Label=?LAKE THOMSON HUT
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland > Fiordland/ DOC Backcoun
 Data0=(-45.02531,167.53728)
 [END]
 
@@ -73896,7 +73888,7 @@ Data0=(-41.55974,172.31594)
 [POI]
 Type=0x2f
 Label=LAUDER BASIN HUT
-StreetDesc=Lauder Conservation Area, Central Otago/ DOC Backcountry hut
+StreetDesc=Lauder Conservation Area - South Island > Otago > Central Otago/ DOC Backcountry
 Data0=(-44.84549,169.66014)
 [END]
 
@@ -73920,7 +73912,7 @@ Data0=(-43.42032,170.88667)
 [POI]
 Type=0x2f
 Label=?LEANING LODGE
-StreetDesc=Rock and Pillar Scenic Reserve, Coastal Otago/ DOC Backcountry hut
+StreetDesc=Rock and Pillar Scenic Reserve - South Island > Otago > Coastal Otago/ DOC Backc
 Data0=(-45.41961,170.08756)
 [END]
 
@@ -73960,7 +73952,7 @@ Data0=(-42.24486,173.51468)
 [POI]
 Type=0x2f
 Label=?LINCOLN HUT
-StreetDesc=Eyre Mountains Conservation Park, Murihiku/ DOC Backcountry hut
+StreetDesc=Eyre Mountains Conservation Park, Murihiku - South Island > Southland > Southlan
 Data0=(-45.39183,168.19964)
 [END]
 
@@ -73968,7 +73960,7 @@ Data0=(-45.39183,168.19964)
 [POI]
 Type=0x2f
 Label=?LITTLE GLORY HUNTERS HUT
-StreetDesc=Glory Cove Scenic Reserve, Southern Islands/ DOC Backcountry hut
+StreetDesc=Glory Cove Scenic Reserve - South Island > Southland > Stewart Island/Rakiura/ D
 Data0=(-46.97428,168.15416)
 [END]
 
@@ -73976,7 +73968,7 @@ Data0=(-46.97428,168.15416)
 [POI]
 Type=0x2f
 Label=LIVERPOOL HUT
-StreetDesc=Mount Aspiring Ntl Park, Wanaka/ DOC Backcountry hut
+StreetDesc=Mount Aspiring Ntl Park - South Island > Otago > Wanaka/Makarora/ DOC Backcountr
 Data0=(-44.43140,168.66513)
 [END]
 
@@ -73984,7 +73976,7 @@ Data0=(-44.43140,168.66513)
 [POI]
 Type=0x2f
 Label=LOCH MAREE HUT
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland > Fiordland/ DOC Backcoun
 Data0=(-45.68487,167.06520)
 [END]
 
@@ -73992,7 +73984,7 @@ Data0=(-45.68487,167.06520)
 [POI]
 Type=0x2f
 Label=LOCHINVAR HUT
-StreetDesc=Lochinvar Forest, Waimakariri/ DOC Backcountry hut
+StreetDesc=Lochinvar Forest, Waimakariri - South Island > Canterbury > North Canterbury & A
 Data0=(-42.93444,172.00734)
 [END]
 
@@ -74016,7 +74008,7 @@ Data0=(-40.98256,172.55811)
 [POI]
 Type=0x2f
 Label=?LONG HARRY HUT
-StreetDesc=Rakiura Ntl Park, Southern Islands/ DOC Backcountry hut
+StreetDesc=Rakiura Ntl Park - South Island > Southland > Stewart Island/Rakiura/ DOC Backco
 Data0=(-46.69443,167.80760)
 [END]
 
@@ -74064,15 +74056,15 @@ Data0=(-42.83812,171.30562)
 [POI]
 Type=0x2f
 Label=?LOWER PRINCHESTER HUT
-StreetDesc=Takitimu Conservation Area/Private Land, Te Anau/ DOC Backcountry hut
+StreetDesc=Takitimu Conservation Area/Private Land, Te Anau - South Island > Southland > So
 Data0=(-45.59329,167.95770)
 [END]
 
 ;1117160
 [POI]
 Type=0x2f
-Label=LOWER SALMON CREEK BIVVY
-StreetDesc=Oxford Forest, Waimakariri/ DOC Backcountry hut
+Label=LOWER SALMON CREEK BIVVY (BIVOUAC)
+StreetDesc=Oxford Forest, Waimakariri - South Island > Canterbury > North Canterbury & Arth
 Data0=(-43.16172,171.98037)
 [END]
 
@@ -74080,7 +74072,7 @@ Data0=(-43.16172,171.98037)
 [POI]
 Type=0x2f
 Label=?LOWER WAIRAKI HUT
-StreetDesc=Takitimu Conservation Area, Murihiku/ DOC Backcountry hut
+StreetDesc=Takitimu Conservation Area, Murihiku - South Island > Southland > Southland/ DOC
 Data0=(-45.77930,167.94054)
 [END]
 
@@ -74088,7 +74080,7 @@ Data0=(-45.77930,167.94054)
 [POI]
 Type=0x2f
 Label=?LOWER WINDLEY HUT
-StreetDesc=Eyre Mountains Conservation Park, Murihiku/ DOC Backcountry hut
+StreetDesc=Eyre Mountains Conservation Park, Murihiku - South Island > Southland > Southlan
 Data0=(-45.50689,168.19603)
 [END]
 
@@ -74096,7 +74088,7 @@ Data0=(-45.50689,168.19603)
 [POI]
 Type=0x2f
 Label=?LUCRETIA HUT
-StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-42.42702,172.34869)
 [END]
 
@@ -74104,7 +74096,7 @@ Data0=(-42.42702,172.34869)
 [POI]
 Type=0x2f
 Label=LUXMORE HUT
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland > Fiordland/ DOC Backcoun
 Data0=(-45.38526,167.61915)
 [END]
 
@@ -74120,7 +74112,7 @@ Data0=(-43.29913,170.90969)
 [POI]
 Type=0x2f
 Label=MACAULAY HUT
-StreetDesc=Godley Macaulay Cons Area, Twizel Te Manahuna/ DOC Backcountry hut
+StreetDesc=Godley Macaulay Cons Area, Twizel Te Manahuna - South Island > Canterbury > Mack
 Data0=(-43.58046,170.60336)
 [END]
 
@@ -74135,8 +74127,8 @@ Data0=(-40.84295,172.24128)
 ;1117169
 [POI]
 Type=0x2f
-Label=MACKENZIE BIVVY (EAST BRANCH)
-StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
+Label=MACKENZIE BIVVY (EAST BRANCH) BIVOUAC
+StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-42.64836,172.06557)
 [END]
 
@@ -74144,7 +74136,7 @@ Data0=(-42.64836,172.06557)
 [POI]
 Type=0x2f
 Label=MACKENZIE HUT
-StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-42.64831,172.01843)
 [END]
 
@@ -74160,7 +74152,7 @@ Data0=(-44.83149,168.45639)
 [POI]
 Type=0x2f
 Label=MAGDALEN HUT
-StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-42.49745,172.47468)
 [END]
 
@@ -74168,7 +74160,7 @@ Data0=(-42.49745,172.47468)
 [POI]
 Type=0x2f
 Label=MAIN HUXLEY FORKS HUT
-StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna/ DOC Backcountry hut
+StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna - South Island > Canterbury > M
 Data0=(-44.00767,169.74374)
 [END]
 
@@ -74176,7 +74168,7 @@ Data0=(-44.00767,169.74374)
 [POI]
 Type=0x2f
 Label=MAITLAND HUT
-StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna/ DOC Backcountry hut
+StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna - South Island > Canterbury > M
 Data0=(-44.21663,169.74314)
 [END]
 
@@ -74184,7 +74176,7 @@ Data0=(-44.21663,169.74314)
 [POI]
 Type=0x2f
 Label=MAKARORA HUT
-StreetDesc=Mount Aspiring Ntl Park, Wanaka/ DOC Backcountry hut
+StreetDesc=Mount Aspiring Ntl Park - South Island > Otago > Wanaka/Makarora/ DOC Backcountr
 Data0=(-44.12918,169.44026)
 [END]
 
@@ -74192,7 +74184,7 @@ Data0=(-44.12918,169.44026)
 [POI]
 Type=0x2f
 Label=?MANSION HUT
-StreetDesc=Eyre Forest Conservation Area/ DOC Backcountry hut
+StreetDesc=Eyre Forest Conservation Area - South Island > Southland > Southland/ DOC Backco
 Data0=(-45.49977,168.42349)
 [END]
 
@@ -74224,7 +74216,7 @@ Data0=(-43.81406,169.27396)
 [POI]
 Type=0x2f
 Label=MARTINS BAY HUT
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland > Fiordland/ DOC Backcoun
 Data0=(-44.33506,168.00302)
 [END]
 
@@ -74232,7 +74224,7 @@ Data0=(-44.33506,168.00302)
 [POI]
 Type=0x2f
 Label=MARTINS CREEK HUNTERS HUT
-StreetDesc=Rakiura Ntl Park, Southern Islands/ DOC Backcountry hut
+StreetDesc=Rakiura Ntl Park - South Island > Southland > Stewart Island/Rakiura/ DOC Backco
 Data0=(-46.93888,167.75988)
 [END]
 
@@ -74240,7 +74232,7 @@ Data0=(-46.93888,167.75988)
 [POI]
 Type=0x2f
 Label=?MARTIN'S HUT
-StreetDesc=Longwood Forest Conservation Area, Murihiku/ DOC Backcountry hut
+StreetDesc=Longwood Forest Conservation Area, Murihiku - South Island > Southland > Southla
 Data0=(-46.26165,167.85994)
 [END]
 
@@ -74248,7 +74240,7 @@ Data0=(-46.26165,167.85994)
 [POI]
 Type=0x2f
 Label=MASON BAY HUT
-StreetDesc=Rakiura Ntl Park, Southern Islands/ DOC Backcountry hut
+StreetDesc=Rakiura Ntl Park - South Island > Southland > Stewart Island/Rakiura/ DOC Backco
 Data0=(-46.92657,167.78008)
 [END]
 
@@ -74288,7 +74280,7 @@ Data0=(-43.37829,170.77558)
 [POI]
 Type=0x2f
 Label=?MCINTYRE'S HUT
-StreetDesc=Wakatipu/ DOC Backcountry hut
+StreetDesc=South Island > Otago > Queenstown/Wakatipu/ DOC Backcountry hut
 Data0=(-44.83733,168.44431)
 [END]
 
@@ -74296,7 +74288,7 @@ Data0=(-44.83733,168.44431)
 [POI]
 Type=0x2f
 Label=MCKELLAR HUT
-StreetDesc=Greenstone Conservation Area, Wakatipu/ DOC Backcountry hut
+StreetDesc=Greenstone Conservation Area - South Island > Otago > Queenstown/Wakatipu/ DOC B
 Data0=(-44.87182,168.14477)
 [END]
 
@@ -74304,7 +74296,7 @@ Data0=(-44.87182,168.14477)
 [POI]
 Type=0x2f
 Label=MCKERROW ISLAND HUT
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland > Fiordland/ DOC Backcoun
 Data0=(-44.51792,168.06348)
 [END]
 
@@ -74312,7 +74304,7 @@ Data0=(-44.51792,168.06348)
 [POI]
 Type=0x2f
 Label=MCLENNAN HUT
-StreetDesc=Catlins Conservation Park, Coastal Otago/ DOC Backcountry hut
+StreetDesc=Catlins Conservation Park - South Island > Otago > Coastal Otago/ DOC Backcountr
 Data0=(-46.43228,169.36164)
 [END]
 
@@ -74320,7 +74312,7 @@ Data0=(-46.43228,169.36164)
 [POI]
 Type=0x2f
 Label=MEG HUT
-StreetDesc=Cardrona River Marginal Strip, Wanaka/ DOC Backcountry hut
+StreetDesc=Cardrona River Marginal Strip - South Island > Otago > Wanaka/Makarora/ DOC Back
 Data0=(-44.91615,169.05570)
 [END]
 
@@ -74328,7 +74320,7 @@ Data0=(-44.91615,169.05570)
 [POI]
 Type=0x2f
 Label=MID CAPLES HUT
-StreetDesc=Greenstone Conservation Area, Wakatipu/ DOC Backcountry hut
+StreetDesc=Greenstone Conservation Area - South Island > Otago > Queenstown/Wakatipu/ DOC B
 Data0=(-44.89211,168.27300)
 [END]
 
@@ -74392,7 +74384,7 @@ Data0=(-41.57052,173.12149)
 [POI]
 Type=0x2f
 Label=MIDDLE GORGE HUT
-StreetDesc=Hall Range Conservation Area, Twizel Te Manahuna/ DOC Backcountry hut
+StreetDesc=Hall Range Conservation Area, Twizel Te Manahuna - South Island > Canterbury > M
 Data0=(-43.76487,170.46227)
 [END]
 
@@ -74431,16 +74423,16 @@ Data0=(-43.02777,170.93697)
 ;1117245
 [POI]
 Type=0x2f
-Label=?MINCHIN BIVVY
-StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
+Label=?MINCHIN BIVVY (BIVOUAC)
+StreetDesc=Arthur's Pass Ntl Park, Waimakariri - South Island > Canterbury > North Canterbu
 Data0=(-42.79455,171.80989)
 [END]
 
 ;1117246
 [POI]
 Type=0x2f
-Label=?MINGHA BIVVY
-StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
+Label=?MINGHA BIVVY (BIVOUAC)
+StreetDesc=Arthur's Pass Ntl Park, Waimakariri - South Island > Canterbury > North Canterbu
 Data0=(-42.92267,171.63011)
 [END]
 
@@ -74448,7 +74440,7 @@ Data0=(-42.92267,171.63011)
 [POI]
 Type=0x2f
 Label=?MINTARO HUT
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland > Fiordland/ DOC Backcoun
 Data0=(-44.80787,167.78088)
 [END]
 
@@ -74464,7 +74456,7 @@ Data0=(-43.44833,170.69361)
 [POI]
 Type=0x2f
 Label=?MOA STREAM HUT
-StreetDesc=Craigieburn Conservation Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Craigieburn Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-43.13043,171.25926)
 [END]
 
@@ -74488,7 +74480,7 @@ Data0=(-41.96164,172.57173)
 [POI]
 Type=0x2f
 Label=MONOWAI HUT
-StreetDesc=Fiordland Ntl Park, Murihiku/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Murihiku - South Island > Fiordland > Fiordland/ DOC Backcou
 Data0=(-45.83430,167.34909)
 [END]
 
@@ -74504,7 +74496,7 @@ Data0=(-42.14954,171.99746)
 [POI]
 Type=0x2f
 Label=MONUMENT HUT
-StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna/ DOC Backcountry hut
+StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna - South Island > Canterbury > M
 Data0=(-44.02399,169.81244)
 [END]
 
@@ -74528,7 +74520,7 @@ Data0=(-41.98291,172.63089)
 [POI]
 Type=0x2f
 Label=MOTURAU HUT
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland > Fiordland/ DOC Backcoun
 Data0=(-45.48184,167.61022)
 [END]
 
@@ -74552,7 +74544,7 @@ Data0=(-41.19777,172.71560)
 [POI]
 Type=0x2f
 Label=?MT BEE BUNKROOMS
-StreetDesc=Eyre Mountains Conservation Park, Murihiku/ DOC Backcountry hut
+StreetDesc=Eyre Mountains Conservation Park, Murihiku - South Island > Southland > Southlan
 Data0=(-45.52484,168.37277)
 [END]
 
@@ -74688,7 +74680,7 @@ Data0=(-42.87897,171.26777)
 [POI]
 Type=0x2f
 Label=NICHOLSONS HUT
-StreetDesc=Kopuwai Conservation Area, Central Otago/ DOC Backcountry hut
+StreetDesc=Kopuwai Conservation Area - South Island > Otago > Central Otago/ DOC Backcountr
 Data0=(-45.35282,169.18499)
 [END]
 
@@ -74696,7 +74688,7 @@ Data0=(-45.35282,169.18499)
 [POI]
 Type=0x2f
 Label=?NINA HUT
-StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-42.46591,172.32173)
 [END]
 
@@ -74712,7 +74704,7 @@ Data0=(-43.34875,170.48206)
 [POI]
 Type=0x2f
 Label=NORTH ARM HUT
-StreetDesc=Rakiura Ntl Park, Southern Islands/ DOC Backcountry hut
+StreetDesc=Rakiura Ntl Park - South Island > Southland > Stewart Island/Rakiura/ DOC Backco
 Data0=(-46.88300,168.01844)
 [END]
 
@@ -74720,7 +74712,7 @@ Data0=(-46.88300,168.01844)
 [POI]
 Type=0x2f
 Label=?NORTH BIG GLORY HUNTER'S HUT
-StreetDesc=Rakiura Ntl Park, Southern Islands/ DOC Backcountry hut
+StreetDesc=Rakiura Ntl Park - South Island > Southland > Stewart Island/Rakiura/ DOC Backco
 Data0=(-46.95932,168.12551)
 [END]
 
@@ -74728,7 +74720,7 @@ Data0=(-46.95932,168.12551)
 [POI]
 Type=0x2f
 Label=?NORTH BORLAND HUT
-StreetDesc=Fiordland Ntl Park, Murihiku/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Murihiku - South Island > Fiordland > Fiordland/ DOC Backcou
 Data0=(-45.68557,167.48646)
 [END]
 
@@ -74736,7 +74728,7 @@ Data0=(-45.68557,167.48646)
 [POI]
 Type=0x2f
 Label=?NORTH ESK HUT (DILAPIDATED)
-StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-42.80040,172.06957)
 [END]
 
@@ -74752,7 +74744,7 @@ Data0=(-43.82664,170.87172)
 [POI]
 Type=0x2f
 Label=?NORTH PEGASUS HUNTER'S HUT
-StreetDesc=Rakiura Ntl Park, Southern Islands/ DOC Backcountry hut
+StreetDesc=Rakiura Ntl Park - South Island > Southland > Stewart Island/Rakiura/ DOC Backco
 Data0=(-47.19433,167.66785)
 [END]
 
@@ -74760,7 +74752,7 @@ Data0=(-47.19433,167.66785)
 [POI]
 Type=0x2f
 Label=?NORTH TIKOTATAHI HUNTERS HUT
-StreetDesc=Port Adventure Conservation Land, Southern Islands/ DOC Backcountry hut
+StreetDesc=Port Adventure Conservation Land - South Island > Southland > Stewart Island/Rak
 Data0=(-47.08484,168.15225)
 [END]
 
@@ -74776,7 +74768,7 @@ Data0=(-44.00772,169.74354)
 [POI]
 Type=0x2f
 Label=OLD JUNCTION HUT
-StreetDesc=Bains Conservation Area, Central Otago/ DOC historic hut
+StreetDesc=Bains Conservation Area - South Island > Otago > Central Otago/ DOC historic hut
 Data0=(-45.51079,169.18392)
 [END]
 
@@ -74792,7 +74784,7 @@ Data0=(-41.52462,173.27099)
 [POI]
 Type=0x2f
 Label=OLD WOMAN HUT
-StreetDesc=Old Woman Conservation Area, Central Otago/ DOC Backcountry hut
+StreetDesc=Old Woman Conservation Area - South Island > Otago > Central Otago/ DOC Backcoun
 Data0=(-45.20819,169.07027)
 [END]
 
@@ -74800,7 +74792,7 @@ Data0=(-45.20819,169.07027)
 [POI]
 Type=0x2f
 Label=OLIVINE HUT
-StreetDesc=Fiordland & Mount Aspiring Ntl Parks, Pyke Forest, Te Anau/ DOC Backcountry hut
+StreetDesc=Fiordland & Mount Aspiring Ntl Parks, Pyke Forest, Te Anau - South Island > Fior
 Data0=(-44.44378,168.21382)
 [END]
 
@@ -74824,7 +74816,7 @@ Data0=(-43.60947,170.30690)
 [POI]
 Type=0x2f
 Label=?ORETI HUT
-StreetDesc=Eyre Mountains Conservation Park, Murihiku/ DOC Backcountry hut
+StreetDesc=Eyre Mountains Conservation Park, Murihiku - South Island > Fiordland > Fiordlan
 Data0=(-45.48158,168.12669)
 [END]
 
@@ -74832,7 +74824,7 @@ Data0=(-45.48158,168.12669)
 [POI]
 Type=0x2f
 Label=?OTAMATAPAIO HUT
-StreetDesc=Otamatapaio Conservation Area, Twizel Te Manahuna/ DOC Backcountry hut
+StreetDesc=Otamatapaio Conservation Area, Twizel Te Manahuna - South Island > Canterbury > 
 Data0=(-44.67332,169.98922)
 [END]
 
@@ -74864,7 +74856,7 @@ Data0=(-42.33617,173.25651)
 [POI]
 Type=0x2f
 Label=?PARK MORPETH HUT
-StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Arthur's Pass Ntl Park, Waimakariri - South Island > Canterbury > North Canterbu
 Data0=(-42.97192,171.34239)
 [END]
 
@@ -74880,7 +74872,7 @@ Data0=(-42.11169,172.75443)
 [POI]
 Type=0x2f
 Label=PEARSON HUT
-StreetDesc=Kirkliston Range Conservation Area, Twizel Te Manahuna/ DOC Backcountry hut
+StreetDesc=Kirkliston Range Conservation Area, Twizel Te Manahuna - South Island > Canterbu
 Data0=(-44.60271,170.42956)
 [END]
 
@@ -74920,7 +74912,7 @@ Data0=(-42.80339,171.66557)
 [POI]
 Type=0x2f
 Label=PINCHGUT HUT
-StreetDesc=Mt Thomas Forest, Waimakariri/ DOC Backcountry hut
+StreetDesc=Mt Thomas Forest, Waimakariri - South Island > Canterbury > North Canterbury & A
 Data0=(-43.12949,172.33738)
 [END]
 
@@ -74992,7 +74984,7 @@ Data0=(-41.61415,172.32207)
 [POI]
 Type=0x2f
 Label=?PORT ADVENTURE HUNTERS HUT
-StreetDesc=Port Adventure Scenic Reserve, Southern Islands/ DOC Backcountry hut
+StreetDesc=Port Adventure Scenic Reserve - South Island > Southland > Stewart Island/Rakiur
 Data0=(-47.04805,168.17676)
 [END]
 
@@ -75000,7 +74992,7 @@ Data0=(-47.04805,168.17676)
 [POI]
 Type=0x2f
 Label=PORT CRAIG SCHOOL HUT
-StreetDesc=Fiordland Ntl Park/Private Land, Murihiku/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park/Private Land, Murihiku - South Island > Fiordland > Fiordland
 Data0=(-46.22251,167.36129)
 [END]
 
@@ -75008,7 +75000,7 @@ Data0=(-46.22251,167.36129)
 [POI]
 Type=0x2f
 Label=PORT WILLIAM HUT
-StreetDesc=Rakiura Ntl Park, Southern Islands/ DOC Backcountry hut
+StreetDesc=Rakiura Ntl Park - South Island > Southland > Stewart Island/Rakiura/ DOC Backco
 Data0=(-46.83578,168.08714)
 [END]
 
@@ -75031,8 +75023,8 @@ Data0=(-43.49096,170.97072)
 ;1117362
 [POI]
 Type=0x2f
-Label=?POULTER BIVVY
-StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
+Label=?POULTER BIVVY (BIVOUAC)
+StreetDesc=Arthur's Pass Ntl Park, Waimakariri - South Island > Canterbury > North Canterbu
 Data0=(-42.81521,171.77096)
 [END]
 
@@ -75071,8 +75063,8 @@ Data0=(-43.10658,171.00604)
 ;1117371
 [POI]
 Type=0x2f
-Label=?PUKETERAKI BIVVY
-StreetDesc=Pastoral Lease, Waimakariri/ DOC Backcountry hut
+Label=?PUKETERAKI BIVVY (BIVOUAC)
+StreetDesc=Pastoral Lease, Waimakariri - South Island > Canterbury > North Canterbury & Art
 Data0=(-43.11201,171.97342)
 [END]
 
@@ -75080,15 +75072,15 @@ Data0=(-43.11201,171.97342)
 [POI]
 Type=0x2f
 Label=?RAKEAHUA HUT
-StreetDesc=Rakiura Ntl Park, Southern Islands/ DOC Backcountry hut
+StreetDesc=Rakiura Ntl Park - South Island > Southland > Stewart Island/Rakiura/ DOC Backco
 Data0=(-46.98205,167.88013)
 [END]
 
 ;1117376
 [POI]
 Type=0x2f
-Label=RANGER BIVVY
-StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
+Label=RANGER BIVVY (BIVOUAC)
+StreetDesc=Arthur's Pass Ntl Park, Waimakariri - South Island > Canterbury > North Canterbu
 Data0=(-42.85590,171.89655)
 [END]
 
@@ -75104,7 +75096,7 @@ Data0=(-43.01146,171.01116)
 [POI]
 Type=0x2f
 Label=?REARDON HUT
-StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna/ DOC Backcountry hut
+StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna - South Island > Canterbury > M
 Data0=(-43.80179,169.99934)
 [END]
 
@@ -75120,7 +75112,7 @@ Data0=(-41.73116,172.99149)
 [POI]
 Type=0x2f
 Label=?RED HUT
-StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna/ DOC Backcountry hut
+StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna - South Island > Canterbury > M
 Data0=(-43.99859,169.83364)
 [END]
 
@@ -75136,7 +75128,7 @@ Data0=(-43.54001,170.50252)
 [POI]
 Type=0x2f
 Label=?REDCLIFF HUT
-StreetDesc=Takitimu Conservation Area, Te Anau/ DOC Backcountry hut
+StreetDesc=Takitimu Conservation Area, Te Anau - South Island > Fiordland > Fiordland/ DOC 
 Data0=(-45.72113,167.82613)
 [END]
 
@@ -75200,7 +75192,7 @@ Data0=(-41.19900,172.43147)
 [POI]
 Type=0x6402
 Label=ROCKBURN HUT/ MCINTYRES HUT
-StreetDesc=Mount Aspiring Ntl Park, Wakatipu/ DOC Backcountry hut
+StreetDesc=Mount Aspiring Ntl Park - South Island > Otago > Queenstown/Wakatipu/ DOC Backco
 Data0=(-44.67040,168.30984)
 [END]
 
@@ -75224,7 +75216,7 @@ Data0=(-42.78559,171.40852)
 [POI]
 Type=0x2f
 Label=?RODGERS INLET HUT
-StreetDesc=Fiordland Ntl Park, Murihiku/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Murihiku - South Island > Fiordland > Fiordland/ DOC Backcou
 Data0=(-45.85755,167.44274)
 [END]
 
@@ -75248,7 +75240,7 @@ Data0=(-41.41195,173.35739)
 [POI]
 Type=0x2f
 Label=?ROKEBY HUT
-StreetDesc=St James Station/Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=St James Station/Lake Sumner Conservation Park, Waimakariri - South Island > Can
 Data0=(-42.43427,172.46303)
 [END]
 
@@ -75256,7 +75248,7 @@ Data0=(-42.43427,172.46303)
 [POI]
 Type=0x2f
 Label=ROUTEBURN FALLS HUT
-StreetDesc=Routeburn Track, Mount Aspiring Ntl Park/ DOC Backcountry hut
+StreetDesc=Routeburn Track, Mount Aspiring Ntl Park - South Island > Otago > Queenstown/Wak
 Data0=(-44.72599,168.19928)
 [END]
 
@@ -75264,7 +75256,7 @@ Data0=(-44.72599,168.19928)
 [POI]
 Type=0x2f
 Label=ROUTEBURN FLATS HUT
-StreetDesc=Routeburn Track, Mount Aspiring Ntl Park/ DOC Backcountry hut
+StreetDesc=Routeburn Track, Mount Aspiring Ntl Park - South Island > Otago > Queenstown/Wak
 Data0=(-44.72557,168.21532)
 [END]
 
@@ -75288,7 +75280,7 @@ Data0=(-41.18601,172.64885)
 [POI]
 Type=0x2f
 Label=?SAM SUMMERS HUT
-StreetDesc=Mt Crichton Scenic Reserve, Wakatipu/ DOC Backcountry hut
+StreetDesc=Mt Crichton Scenic Reserve - South Island > Otago > Queenstown/Wakatipu/ DOC Bac
 Data0=(-45.05117,168.53136)
 [END]
 
@@ -75376,7 +75368,7 @@ Data0=(-42.22212,173.39849)
 [POI]
 Type=0x2f
 Label=SHALLOW BAY HUT
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland > Fiordland/ DOC Backcoun
 Data0=(-45.49227,167.61867)
 [END]
 
@@ -75384,7 +75376,7 @@ Data0=(-45.49227,167.61867)
 [POI]
 Type=0x2f
 Label=?SHAMROCK HUT
-StreetDesc=Ahuriri Conservation Park, Twizel Te Manahuna/ DOC Backcountry hut
+StreetDesc=Ahuriri Conservation Park, Twizel Te Manahuna - South Island > Canterbury > Mack
 Data0=(-44.20755,169.62582)
 [END]
 
@@ -75392,7 +75384,7 @@ Data0=(-44.20755,169.62582)
 [POI]
 Type=0x2f
 Label=?SHELTER ROCK HUT
-StreetDesc=Mount Aspiring Ntl Park, Wakatipu/ DOC Backcountry hut
+StreetDesc=Mount Aspiring Ntl Park - South Island > Otago > Queenstown/Wakatipu/ DOC Backco
 Data0=(-44.55859,168.50886)
 [END]
 
@@ -75400,7 +75392,7 @@ Data0=(-44.55859,168.50886)
 [POI]
 Type=0x2f
 Label=SHEPHERD CREEK HUT
-StreetDesc=Eyre Mountains Conservation Park, Murihiku/ DOC Backcountry hut
+StreetDesc=Eyre Mountains Conservation Park, Murihiku - South Island > Southland > Southlan
 Data0=(-45.40412,168.43162)
 [END]
 
@@ -75448,7 +75440,7 @@ Data0=(-41.48561,173.27851)
 [POI]
 Type=0x2f
 Label=?SLIP FLAT HUT
-StreetDesc=Greenstone Conservation Area, Wakatipu/ DOC Backcountry hut
+StreetDesc=Greenstone Conservation Area - South Island > Otago > Queenstown/Wakatipu/ DOC B
 Data0=(-44.95633,168.27439)
 [END]
 
@@ -75472,15 +75464,15 @@ Data0=(-42.05171,173.73904)
 [POI]
 Type=0x2f
 Label=SNOWY GORGE HUT
-StreetDesc=Ahuriri Conservation Park, Twizel Te Manahuna/ DOC Backcountry hut
+StreetDesc=Ahuriri Conservation Park, Twizel Te Manahuna - South Island > Canterbury > Mack
 Data0=(-44.28303,169.69782)
 [END]
 
 ;1117444
 [POI]
 Type=0x2f
-Label=?SOUTH HUXLEY BIVVY
-StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna/ DOC Backcountry hut
+Label=?SOUTH HUXLEY BIVVY (BIVOUAC)
+StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna - South Island > Canterbury > M
 Data0=(-44.04694,169.74104)
 [END]
 
@@ -75496,7 +75488,7 @@ Data0=(-43.89827,170.72582)
 [POI]
 Type=0x2f
 Label=?SOUTH PEGASUS HUNTERS HUT
-StreetDesc=Rakiura Ntl Park, Southern Islands/ DOC Backcountry hut
+StreetDesc=Rakiura Ntl Park - South Island > Southland > Stewart Island/Rakiura/ DOC Backco
 Data0=(-47.19825,167.63807)
 [END]
 
@@ -75504,7 +75496,7 @@ Data0=(-47.19825,167.63807)
 [POI]
 Type=0x2f
 Label=SOUTH TEMPLE HUT
-StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna/ DOC Backcountry hut
+StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna - South Island > Canterbury > M
 Data0=(-44.13319,169.75137)
 [END]
 
@@ -75512,7 +75504,7 @@ Data0=(-44.13319,169.75137)
 [POI]
 Type=0x2f
 Label=?SOUTHWEST ARM HUNTERS HUT
-StreetDesc=Rakiura Ntl Park, Southern Islands/ DOC Backcountry hut
+StreetDesc=Rakiura Ntl Park - South Island > Southland > Stewart Island/Rakiura/ DOC Backco
 Data0=(-46.93566,167.98420)
 [END]
 
@@ -75528,7 +75520,7 @@ Data0=(-41.85178,172.75233)
 [POI]
 Type=0x2f
 Label=SPENCE HUT
-StreetDesc=Takitimu Conservation Area, Murihiku/ DOC Backcountry hut
+StreetDesc=Takitimu Conservation Area, Murihiku - South Island > Southland > Southland/ DOC
 Data0=(-45.70546,167.87888)
 [END]
 
@@ -75552,7 +75544,7 @@ Data0=(-44.16593,168.31340)
 [POI]
 Type=0x2f
 Label=ST JACOB'S HUT
-StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-42.60494,172.23619)
 [END]
 
@@ -75576,7 +75568,7 @@ Data0=(-43.99617,168.54514)
 [POI]
 Type=0x2f
 Label=?STAIRCASE HUT
-StreetDesc=Waianakarua Scenic Reserve, Coastal Otago/ DOC Backcountry hut
+StreetDesc=Waianakarua Scenic Reserve - South Island > Otago > Coastal Otago/ DOC Backcount
 Data0=(-45.29354,170.68011)
 [END]
 
@@ -75600,7 +75592,7 @@ Data0=(-41.45799,173.24122)
 [POI]
 Type=0x2f
 Label=?STEELE CREEK HUT
-StreetDesc=Greenstone Conservation Area, Wakatipu/ DOC Backcountry hut
+StreetDesc=Greenstone Conservation Area - South Island > Otago > Queenstown/Wakatipu/ DOC B
 Data0=(-44.92614,168.21438)
 [END]
 
@@ -75608,7 +75600,7 @@ Data0=(-44.92614,168.21438)
 [POI]
 Type=0x2f
 Label=STEYNING HUT
-StreetDesc=Pastoral Lease, Waimakariri/ DOC Backcountry hut
+StreetDesc=Pastoral Lease, Waimakariri - South Island > Canterbury > North Canterbury & Art
 Data0=(-42.46949,172.55783)
 [END]
 
@@ -75631,8 +75623,8 @@ Data0=(-44.84836,168.58753)
 ;1117466
 [POI]
 Type=0x2f
-Label=STONEY STREAM BIVVY
-StreetDesc=Pastoral Lease, Twizel Te Manahuna/ DOC Backcountry hut
+Label=STONEY STREAM BIVVY (BIVOUAC)
+StreetDesc=Pastoral Lease, Twizel Te Manahuna - South Island > Canterbury > Mackenzie Count
 Data0=(-44.00661,169.98826)
 [END]
 
@@ -75640,15 +75632,15 @@ Data0=(-44.00661,169.98826)
 [POI]
 Type=0x2f
 Label=STONY STREAM BIVVY
-StreetDesc=Hanmer Conservation Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Hanmer Conservation Park, Waimakariri - South Island > Canterbury > North Canter
 Data0=(-42.46359,172.62846)
 [END]
 
 ;1117469
 [POI]
 Type=0x2f
-Label=SUDDEN VALLEY BIVVY
-StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
+Label=SUDDEN VALLEY BIVVY (BIVOUAC)
+StreetDesc=Arthur's Pass Ntl Park, Waimakariri - South Island > Canterbury > North Canterbu
 Data0=(-42.94980,171.70458)
 [END]
 
@@ -75656,7 +75648,7 @@ Data0=(-42.94980,171.70458)
 [POI]
 Type=0x2f
 Label=SUPPER COVE HUT
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland > Fiordland/ DOC Backcoun
 Data0=(-45.70226,166.94456)
 [END]
 
@@ -75680,7 +75672,7 @@ Data0=(-41.39808,172.31283)
 [POI]
 Type=0x2f
 Label=TAIPO HUT
-StreetDesc=Mavora Park Conservation Area, Te Anau/ DOC Backcountry hut
+StreetDesc=Mavora Park Conservation Area, Te Anau - South Island > Southland > Southland/ D
 Data0=(-45.05046,168.22234)
 [END]
 
@@ -75696,7 +75688,7 @@ Data0=(-41.55181,173.16804)
 [POI]
 Type=0x2f
 Label=TARN HUT
-StreetDesc=Puketeraki Forest, Waimakariri/ DOC Backcountry hut
+StreetDesc=Puketeraki Forest, Waimakariri - South Island > Canterbury > North Canterbury & 
 Data0=(-43.03889,172.14917)
 [END]
 
@@ -75712,7 +75704,7 @@ Data0=(-43.51396,170.34156)
 [POI]
 Type=0x2f
 Label=TAUTUKU HUT
-StreetDesc=Catlins Conservation Park, Coastal Otago/ DOC Backcountry hut
+StreetDesc=Catlins Conservation Park - South Island > Otago > Coastal Otago/ DOC Backcountr
 Data0=(-46.55379,169.32480)
 [END]
 
@@ -75720,7 +75712,7 @@ Data0=(-46.55379,169.32480)
 [POI]
 Type=0x2f
 Label=?TE ONEROA A-FRAME HUT
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland > Fiordland/ DOC Backcoun
 Data0=(-46.12242,166.67244)
 [END]
 
@@ -75728,7 +75720,7 @@ Data0=(-46.12242,166.67244)
 [POI]
 Type=0x2f
 Label=TEAL BAY HUT
-StreetDesc=Fiordland Ntl Park, Murihiku/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Murihiku - South Island > Fiordland > Fiordland/ DOC Backcou
 Data0=(-46.06655,167.29454)
 [END]
 
@@ -75736,7 +75728,7 @@ Data0=(-46.06655,167.29454)
 [POI]
 Type=0x2f
 Label=?TELFORD HUT
-StreetDesc=Takitimu Conservation Area, Murihiku/ DOC Backcountry hut
+StreetDesc=Takitimu Conservation Area, Murihiku - South Island > Southland > Southland/ DOC
 Data0=(-45.75236,167.84581)
 [END]
 
@@ -75744,7 +75736,7 @@ Data0=(-45.75236,167.84581)
 [POI]
 Type=0x2f
 Label=?THE GUT HUT
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland > Fiordland/ DOC Backcoun
 Data0=(-45.29572,166.95754)
 [END]
 
@@ -75768,7 +75760,7 @@ Data0=(-41.35300,172.43729)
 [POI]
 Type=0x2f
 Label=?THREE MILE STREAM HUT
-StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-42.65593,172.15947)
 [END]
 
@@ -75816,7 +75808,7 @@ Data0=(-42.70414,171.69105)
 [POI]
 Type=0x2f
 Label=?TOP DINGLE BURN HUT
-StreetDesc=Hawea Conservation Area, Wanaka/ DOC Backcountry hut
+StreetDesc=Hawea Conservation Area - South Island > Otago > Wanaka/Makarora/ DOC Backcountr
 Data0=(-44.28030,169.55774)
 [END]
 
@@ -75824,7 +75816,7 @@ Data0=(-44.28030,169.55774)
 [POI]
 Type=0x2f
 Label=TOP FORKS HUT
-StreetDesc=Mount Aspiring Ntl Park, Wanaka/ DOC Backcountry hut
+StreetDesc=Mount Aspiring Ntl Park - South Island > Otago > Wanaka/Makarora/ DOC Backcountr
 Data0=(-44.27455,168.89088)
 [END]
 
@@ -75840,7 +75832,7 @@ Data0=(-41.93159,173.19508)
 [POI]
 Type=0x2f
 Label=TOP HOPE HUT
-StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-42.58971,172.17536)
 [END]
 
@@ -75856,7 +75848,7 @@ Data0=(-43.42070,171.02876)
 [POI]
 Type=0x2f
 Label=?TOP HUT
-StreetDesc=Ahuriri Conservation Park, Twizel Te Manahuna/ DOC Backcountry hut
+StreetDesc=Ahuriri Conservation Park, Twizel Te Manahuna - South Island > Canterbury > Mack
 Data0=(-44.12224,169.66566)
 [END]
 
@@ -75898,14 +75890,6 @@ Type=0x2f
 Label=TOP ROBINSON HUT
 StreetDesc=Victoria Forest Park - South Island > West Coast > Greymouth/ DOC Backcountry hu
 Data0=(-42.47804,172.17916)
-[END]
-
-;1117534
-[POI]
-Type=0x2f
-Label=?TOP TIMARU CK HUT
-StreetDesc=Hawea Conservation Area, Wanaka/ DOC Backcountry hut
-Data0=(-44.46953,169.50020)
 [END]
 
 ;1117535
@@ -75983,8 +75967,8 @@ Data0=(-41.13020,172.60844)
 ;1117548
 [POI]
 Type=0x2f
-Label=TRUST/POULTER HUT
-StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
+Label=TRUST / POULTER HUT
+StreetDesc=Arthur's Pass Ntl Park, Waimakariri - South Island > Canterbury > North Canterbu
 Data0=(-42.85473,171.84268)
 [END]
 
@@ -76007,8 +75991,8 @@ Data0=(-41.74702,173.32182)
 ;1117552
 [POI]
 Type=0x2f
-Label=?TURNBULL BIVVY
-StreetDesc=Lochinvar Forest, Waimakariri/ DOC Backcountry hut
+Label=?TURNBULL BIVVY (BIVOUAC)
+StreetDesc=Lochinvar Forest, Waimakariri - South Island > Canterbury > North Canterbury & A
 Data0=(-42.95624,171.90787)
 [END]
 
@@ -76016,7 +76000,7 @@ Data0=(-42.95624,171.90787)
 [POI]
 Type=0x2f
 Label=?TURNBULL'S (BIG DAM) HUT
-StreetDesc=Longwood Forest Conservation Area, Murihiku/ DOC Backcountry hut
+StreetDesc=Longwood Forest Conservation Area, Murihiku - South Island > Southland > Southla
 Data0=(-46.29161,167.85185)
 [END]
 
@@ -76032,7 +76016,7 @@ Data0=(-42.61423,171.97174)
 [POI]
 Type=0x2f
 Label=TUTU HUT
-StreetDesc=Hanmer Conservation Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Hanmer Conservation Park, Waimakariri - South Island > Canterbury > North Canter
 Data0=(-42.55044,172.60650)
 [END]
 
@@ -76040,7 +76024,7 @@ Data0=(-42.55044,172.60650)
 [POI]
 Type=0x2f
 Label=TWO MILE HUT - REMARKABLES
-StreetDesc=Remarkables Conservation Area, Wakatipu/ DOC Backcountry hut
+StreetDesc=Remarkables Conservation Area - South Island > Otago > Queenstown/Wakatipu/ DOC 
 Data0=(-45.17457,168.80257)
 [END]
 
@@ -76048,7 +76032,7 @@ Data0=(-45.17457,168.80257)
 [POI]
 Type=0x2f
 Label=?UNKNOWN STREAM HUT
-StreetDesc=Craigieburn Conservation Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Craigieburn Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-43.06587,171.27363)
 [END]
 
@@ -76056,7 +76040,7 @@ Data0=(-43.06587,171.27363)
 [POI]
 Type=0x2f
 Label=UPPER CAPLES HUT
-StreetDesc=Greenstone Conservation Area, Wakatipu/ DOC Backcountry hut
+StreetDesc=Greenstone Conservation Area - South Island > Otago > Queenstown/Wakatipu/ DOC B
 Data0=(-44.84425,168.22211)
 [END]
 
@@ -76064,7 +76048,7 @@ Data0=(-44.84425,168.22211)
 [POI]
 Type=0x2f
 Label=?UPPER CROMEL HUT
-StreetDesc=Eyre Mountains Conservation Park, Murihiku/ DOC Backcountry hut
+StreetDesc=Eyre Mountains Conservation Park, Murihiku - South Island > Southland > Southlan
 Data0=(-45.44554,168.32791)
 [END]
 
@@ -76095,8 +76079,8 @@ Data0=(-41.17121,172.69626)
 ;1117567
 [POI]
 Type=0x2f
-Label=?UPPER NINA BIVVY
-StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
+Label=?UPPER NINA BIVVY (BIVOUAC)
+StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-42.46956,172.27204)
 [END]
 
@@ -76112,7 +76096,7 @@ Data0=(-45.37543,168.21762)
 [POI]
 Type=0x2f
 Label=?UPPER PRINCHESTER HUT
-StreetDesc=Takitimu Conservation Area, Te Anau/ DOC Backcountry hut
+StreetDesc=Takitimu Conservation Area, Te Anau - South Island > Southland > Southland/ DOC 
 Data0=(-45.62242,167.91392)
 [END]
 
@@ -76120,7 +76104,7 @@ Data0=(-45.62242,167.91392)
 [POI]
 Type=0x2f
 Label=UPPER SOUTH BRANCH HURUNUI HUT
-StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-42.76394,171.98707)
 [END]
 
@@ -76128,7 +76112,7 @@ Data0=(-42.76394,171.98707)
 [POI]
 Type=0x2f
 Label=UPPER SPEY HUT
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland > Fiordland/ DOC Backcoun
 Data0=(-45.58025,167.16282)
 [END]
 
@@ -76144,7 +76128,7 @@ Data0=(-42.02055,172.74991)
 [POI]
 Type=0x2f
 Label=UPPER WAIRAKI HUT
-StreetDesc=Takitimu Conservation Area, Murihiku/ DOC Backcountry hut
+StreetDesc=Takitimu Conservation Area, Murihiku - South Island > Southland > Southland/ DOC
 Data0=(-45.73432,167.88954)
 [END]
 
@@ -76152,7 +76136,7 @@ Data0=(-45.73432,167.88954)
 [POI]
 Type=0x2f
 Label=?UPPER WINDLEY HUT
-StreetDesc=Eyre Mountains Conservation Park, Murihiku/ DOC Backcountry hut
+StreetDesc=Eyre Mountains Conservation Park, Murihiku - South Island > Southland > Southlan
 Data0=(-45.43775,168.24660)
 [END]
 
@@ -76160,7 +76144,7 @@ Data0=(-45.43775,168.24660)
 [POI]
 Type=0x2f
 Label=?URQUHART'S HUT
-StreetDesc=Rangitata/Rakaia Conservation Area, Waimakariri/ DOC Backcountry hut
+StreetDesc=Rangitata/Rakaia Conservation Area, Waimakariri - South Island > Canterbury > No
 Data0=(-43.03411,171.31706)
 [END]
 
@@ -76192,7 +76176,7 @@ Data0=(-42.61447,171.85392)
 [POI]
 Type=0x2f
 Label=WAIMAKARIRI FALLS HUT
-StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Arthur's Pass Ntl Park, Waimakariri - South Island > Canterbury > North Canterbu
 Data0=(-42.91750,171.48667)
 [END]
 
@@ -76216,7 +76200,7 @@ Data0=(-40.91438,172.92004)
 [POI]
 Type=0x2f
 Label=?WAIRAURAHIRI HUT
-StreetDesc=Fiordland Ntl Park/Private Land, Murihiku/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park/Private Land, Murihiku - South Island > Fiordland > Fiordland
 Data0=(-46.25439,167.21919)
 [END]
 
@@ -76224,7 +76208,7 @@ Data0=(-46.25439,167.21919)
 [POI]
 Type=0x2f
 Label=?WAITUTU HUT
-StreetDesc=Fiordland Ntl Park, Murihiku/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Murihiku - South Island > Fiordland > Fiordland/ DOC Backcou
 Data0=(-46.23706,167.06478)
 [END]
 
@@ -76256,15 +76240,15 @@ Data0=(-43.40820,170.78840)
 [POI]
 Type=0x2f
 Label=WATERFALL HUT
-StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna/ DOC Backcountry hut
+StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna - South Island > Canterbury > M
 Data0=(-43.83313,169.98940)
 [END]
 
 ;1117612
 [POI]
 Type=0x2f
-Label=?WEKA BURNET BIVVY
-StreetDesc=Craigieburn Conservation Park, Waimakariri/ DOC Backcountry hut
+Label=?WEKA BURNET BIVVY (BIVOUAC)
+StreetDesc=Craigieburn Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-43.05293,171.33811)
 [END]
 
@@ -76280,7 +76264,7 @@ Data0=(-43.63053,169.94600)
 [POI]
 Type=0x2f
 Label=WEST ARM HUT
-StreetDesc=Wilmot Pass Rd, Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
+StreetDesc=Wilmot Pass Rd, Fiordland Ntl Park, Te Anau - South Island > Fiordland > Fiordla
 Data0=(-45.52548,167.26315)
 [END]
 
@@ -76288,7 +76272,7 @@ Data0=(-45.52548,167.26315)
 [POI]
 Type=0x2f
 Label=WEST BURN HUT
-StreetDesc=Mavora Park Conservation Area, Te Anau/ DOC Backcountry hut
+StreetDesc=Mavora Park Conservation Area, Te Anau - South Island > Southland > Southland/ D
 Data0=(-45.20624,168.15388)
 [END]
 
@@ -76296,7 +76280,7 @@ Data0=(-45.20624,168.15388)
 [POI]
 Type=0x2f
 Label=?WEST HARPER HUT
-StreetDesc=Craigieburn Conservation Park, Waimakariri/ DOC Backcountry hut
+StreetDesc=Craigieburn Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-43.09970,171.60678)
 [END]
 
@@ -76328,7 +76312,7 @@ Data0=(-46.22661,166.95852)
 [POI]
 Type=0x2f
 Label=?WHARE CREEK HUT
-StreetDesc=Takitimu Conservation Area, Te Anau/ DOC Backcountry hut
+StreetDesc=Takitimu Conservation Area, Te Anau - South Island > Southland > Southland/ DOC 
 Data0=(-45.66834,167.82558)
 [END]
 
@@ -76336,7 +76320,7 @@ Data0=(-45.66834,167.82558)
 [POI]
 Type=0x2f
 Label=WHARFEDALE HUT
-StreetDesc=Oxford Conservation Area, Waimakariri/ DOC Backcountry hut
+StreetDesc=Oxford Conservation Area, Waimakariri - South Island > Canterbury > North Canter
 Data0=(-43.19770,172.04044)
 [END]
 
@@ -76391,8 +76375,8 @@ Data0=(-43.60122,171.32588)
 ;1117636
 [POI]
 Type=0x2f
-Label=?WORSLEY BIVVY
-StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC Backcountry hut
+Label=?WORSLEY BIVVY (BIVOUAC)
+StreetDesc=Arthur's Pass Ntl Park, Waimakariri - South Island > Canterbury > North Canterbu
 Data0=(-42.85130,171.78312)
 [END]
 
@@ -76400,7 +76384,7 @@ Data0=(-42.85130,171.78312)
 [POI]
 Type=0x2f
 Label=WORSLEY HUT
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland > Fiordland/ DOC Backcoun
 Data0=(-44.94284,167.83394)
 [END]
 
@@ -76408,7 +76392,7 @@ Data0=(-44.94284,167.83394)
 [POI]
 Type=0x2f
 Label=?YANKEE RIVER HUT
-StreetDesc=Rakiura Ntl Park, Southern Islands/ DOC Backcountry hut
+StreetDesc=Rakiura Ntl Park - South Island > Southland > Stewart Island/Rakiura/ DOC Backco
 Data0=(-46.69457,167.88795)
 [END]
 
@@ -76424,7 +76408,7 @@ Data0=(-42.98432,171.14888)
 [POI]
 Type=0x2f
 Label=YELLOW HUT
-StreetDesc=Silverpeaks Scenic Reserve, Coastal Otago/ DOC Backcountry hut
+StreetDesc=Silverpeaks Scenic Reserve - South Island > Otago > Coastal Otago/ DOC Backcount
 Data0=(-45.70880,170.49543)
 [END]
 
@@ -76432,7 +76416,7 @@ Data0=(-45.70880,170.49543)
 [POI]
 Type=0x2f
 Label=YOUNG HUT
-StreetDesc=Mount Aspiring Ntl Park, Wanaka/ DOC Backcountry hut
+StreetDesc=Mount Aspiring Ntl Park - South Island > Otago > Wanaka/Makarora/ DOC Backcountr
 Data0=(-44.17453,169.08991)
 [END]
 
@@ -76440,7 +76424,7 @@ Data0=(-44.17453,169.08991)
 [POI]
 Type=0x2f
 Label=YOUNGMAN STREAM HUT
-StreetDesc=Puketeraki Forest, Waimakariri/ DOC Backcountry hut
+StreetDesc=Puketeraki Forest, Waimakariri - South Island > Canterbury > North Canterbury & 
 Data0=(-43.02548,172.18273)
 [END]
 
@@ -76600,10 +76584,10 @@ Data0=(-44.94637,168.83718)
 ;1117762
 [POI]
 Type=0x2b01
-Label=SUNDOWNER MOTEL
-StreetDesc=132 Middle Renwick Rd, Blenheim/ Motel
+Label=ASURE SUNDOWNER MOTEL
+StreetDesc=132 Middle Renwick Rd, Blenheim/ Motel accommodation, 4 star
 Phone=+6435782055
-Data0=(-41.50883,173.93474)
+Data0=(-41.50899,173.93517)
 [END]
 
 ;1117763
@@ -76850,9 +76834,9 @@ Data0=(-43.89594,171.76118)
 [POI]
 Type=0x2b00
 Label=AKAROA COTTAGES
-StreetDesc=6888 Highway 75, Akaroa/ Accommodation fully self contained
+StreetDesc=6888 Chc Akaroa Rd, Akaroa/ Accommodation fully self contained
 Phone=0800456244
-Data0=(-43.79587,172.96771)
+Data0=(-43.79559,172.96801)
 [END]
 
 ;1117840
@@ -91778,8 +91762,9 @@ Data0=(-43.54207,172.66558)
 [POI]
 Type=0x2e
 Label=RAEWARD FRESH JOHNS RD
-StreetDesc=Cnr of Johns & Harewood Rds, Harewood, Chc/ fresh fruit, vegetables, meat
+StreetDesc=Cnr of Johns & Harewood Rds, 800 Harewood Rd, Harewood, Chc, Canterbury/ Fresh f
 Phone=+6433592772
+zip=Mon - Fri 8:30am - 7pm Sat/Sun 8:30am - 
 Data0=(-43.47792,172.55536)
 [END]
 
@@ -96922,9 +96907,10 @@ Data0=(-45.88104,170.47969)
 ;1128788
 [POI]
 Type=0x2f
-Label=THE BEACH HOTEL
-StreetDesc=134 Prince Albert Rd, Dud/ 
-Data0=(-45.90590,170.50876)
+Label=OCEAN BEACH HOTEL
+StreetDesc=134 Prince Albert Rd, Dud/ Motel accommodation, restaurant, bar, pokies
+Phone=+6434554642
+Data0=(-45.90580,170.50877)
 [END]
 
 ;1128789
@@ -133210,9 +133196,9 @@ Data0=(-45.85545,170.49841)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=Swansea St O/S Store Middlemarch Dud/ Telecom, payphone, public phone box
+StreetDesc=Swansea St O/S Store Middlemarch Otago/ Telecom, payphone, public phone box
 Phone=+6434643840
-Data0=(-45.50840,170.11917)
+Data0=(-45.50751,170.11932)
 [END]
 
 ;1142137
@@ -148916,7 +148902,8 @@ Data0=(-45.89783,170.50193)
 [POI]
 Type=0x2b00
 Label=BIRDS FERRY LODGE
-StreetDesc=Birds Ferry Rd, RD 2 Westport 7865 West Coast/ 4.5 Qualmark stars. Luxury bed an
+StreetDesc=Birds Ferry Rd, RD 2 Westport 7865 West Coast/ Luxury bed and breakfast accommod
+Phone=+6434291604
 Data0=(-41.86368,171.49203)
 [END]
 
@@ -155560,8 +155547,8 @@ Data0=(-44.68267,169.14616)
 ;1157337
 [POI]
 Type=0x2b00
-Label=CLEARBROOK SERVICED APARTMENTS/MOTEL ACCOMMODATION
-StreetDesc=72 Helwick St Wanaka 9305/ Serviced Apartment/Motel Accommodation
+Label=CLEARBROOK SERVICED MOTELS & APARTMENTS
+StreetDesc=72 Helwick St, Wanaka 9305/ Serviced Apartment & Motel Accommodation
 Phone=+6434434413
 zip=Mon-Fri: 8am-8pm, Sat-Sun: 9am-8pm
 Data0=(-44.69731,169.13748)
@@ -158029,7 +158016,7 @@ Data0=(-45.02898,168.66410)
 ;1158601
 [POI]
 Type=0x2b02
-Label=A CULINARY EXPERIENCE B&B
+Label=A CULINARY EXPERIENCE LUXURY BED AND BREAKFAST
 StreetDesc=15 Seawatch Way, Atawhai, Nelson, 7010/ B&B Accommodation
 Phone=0800891886
 Data0=(-41.25493,173.31744)
@@ -159617,7 +159604,8 @@ Data0=(-41.13433,173.00895)
 [POI]
 Type=0x2b00
 Label=FERRY MAN'S COTTAGE
-StreetDesc=Birds Ferry Rd, Charleston/ Accommodation
+StreetDesc=Birds Ferry Rd, Charleston/ Holiday home accommodation
+Phone=+6434291604
 Data0=(-41.85800,171.48679)
 [END]
 
@@ -159681,9 +159669,10 @@ Data0=(-41.05046,172.97971)
 ;1159163
 [POI]
 Type=0x2b00
-Label=FRIENDS HILL LODGE - DUNEDIN
-StreetDesc=328 Gladstone Rd North, Wingatui/ Accommodation
-Data0=(-45.87627,170.39803)
+Label=FRIENDS HILL LODGE
+StreetDesc=328 Gladstone Rd North, Wingatui, Dud/ B&B Accommodation
+Phone=+6434892942
+Data0=(-45.87503,170.39649)
 [END]
 
 ;1159165
@@ -162460,9 +162449,10 @@ Data0=(-43.56753,172.62846)
 ;1159989
 [POI]
 Type=0x2b00
-Label=THE TURRET
-StreetDesc=712 Lake Hayes Arrow Junction Highway (SH6), Queenstown/ Accommodation
-Data0=(-44.99215,168.80731)
+Label=THE TURRET BED AND BREAKFAST
+StreetDesc=712 Lake Hayes Arrow Junction Highway (SH6), Queenstown/ B&B Accommodation
+Phone=+6434421107
+Data0=(-44.99091,168.80934)
 [END]
 
 ;1159991
@@ -195932,8 +195922,9 @@ Data0=(-42.33256,173.70588)
 [POI]
 Type=0x2b00
 Label=MAHITAHI LODGE
-StreetDesc=State Highway 6, Bruce Bay, South Westland/ Lodge accommodation
-Data0=(-43.62812,169.58496)
+StreetDesc=State Highway 6, Bruce Bay, South Westland/ Lodge bed & breakfast accommodation
+Phone=+6437510095
+Data0=(-43.60715,169.58988)
 [END]
 
 ;1176792
@@ -205430,7 +205421,7 @@ Data0=(-45.87664,170.50235)
 [POI]
 Type=0x6402
 Label=AVOCA HOMESTEAD
-StreetDesc=Korowai/Torlesse Tussocklands Park/ DOC Backcountry hut
+StreetDesc=Korowai/Torlesse Tussocklands Park - South Island > Canterbury > North Canterbur
 Data0=(-43.19446,171.87533)
 [END]
 
@@ -205446,7 +205437,7 @@ Data0=(-44.72835,169.85427)
 [POI]
 Type=0x6402
 Label=BROWN HUT
-StreetDesc=Oteake Conservation Park/ DOC Backcountry hut
+StreetDesc=Oteake Conservation Park - South Island > Otago > Central Otago/ DOC Backcountry
 Data0=(-44.88857,170.26464)
 [END]
 
@@ -205454,7 +205445,7 @@ Data0=(-44.88857,170.26464)
 [POI]
 Type=0x6402
 Label=BUSTER HUT
-StreetDesc=Oteake Conservation Park/ DOC Backcountry hut
+StreetDesc=Oteake Conservation Park - South Island > Otago > Central Otago/ DOC Backcountry
 Data0=(-44.92443,170.26301)
 [END]
 
@@ -205470,7 +205461,7 @@ Data0=(-42.70581,171.56131)
 [POI]
 Type=0x6402
 Label=COLD STREAM HUT
-StreetDesc=Lake Sumner Conservation Park/ DOC Backcountry hut
+StreetDesc=Lake Sumner Conservation Park - South Island > Canterbury > North Canterbury & A
 Data0=(-42.74461,172.38189)
 [END]
 
@@ -205486,7 +205477,7 @@ Data0=(-43.62373,170.78990)
 [POI]
 Type=0x6402
 Label=DEAS COVE HUT
-StreetDesc=Fiordland Ntl Park/ DOC Backcountry hut
+StreetDesc=Fiordland Ntl Park - South Island > Fiordland > Fiordland/ DOC Backcountry hut
 Data0=(-45.19366,166.97333)
 [END]
 
@@ -205502,7 +205493,7 @@ Data0=(-43.58405,170.80982)
 [POI]
 Type=0x6402
 Label=FERN BURN HUT
-StreetDesc=Motatapu Station Pastoral Lease/ DOC Backcountry hut
+StreetDesc=Motatapu Station Pastoral Lease - South Island > Otago > Wanaka/Makarora/ DOC Ba
 Data0=(-44.73969,168.98455)
 [END]
 
@@ -205526,7 +205517,7 @@ Data0=(-43.51086,170.73892)
 [POI]
 Type=0x6402
 Label=HAWDON HUT
-StreetDesc=Arthurs Pass Ntl Park/ DOC Backcountry hut
+StreetDesc=Arthurs Pass Ntl Park - South Island > Canterbury > North Canterbury & Arthur’s 
 Data0=(-42.91107,171.73266)
 [END]
 
@@ -205534,7 +205525,7 @@ Data0=(-42.91107,171.73266)
 [POI]
 Type=0x6402
 Label=HIGHLAND CREEK HUT
-StreetDesc=Motatapu Station Pastoral Lease/ DOC Backcountry hut
+StreetDesc=Motatapu Station Pastoral Lease - South Island > Otago > Wanaka/Makarora/ DOC Ba
 Data0=(-44.77414,168.94172)
 [END]
 
@@ -205542,7 +205533,7 @@ Data0=(-44.77414,168.94172)
 [POI]
 Type=0x6402
 Label=HUT CREEK HUT
-StreetDesc=Oteake Conservation Park/ DOC Backcountry hut
+StreetDesc=Oteake Conservation Park - South Island > Otago > Central Otago/ DOC Backcountry
 Data0=(-44.83353,170.27970)
 [END]
 
@@ -205550,7 +205541,7 @@ Data0=(-44.83353,170.27970)
 [POI]
 Type=0x6402
 Label=JOLLIEBROOK HUT
-StreetDesc=Lake Sumner Conservation Park/ DOC Backcountry hut
+StreetDesc=Lake Sumner Conservation Park - South Island > Canterbury > North Canterbury & A
 Data0=(-42.72093,172.33329)
 [END]
 
@@ -205558,7 +205549,7 @@ Data0=(-42.72093,172.33329)
 [POI]
 Type=0x6402
 Label=LAKE GUYON HUT
-StreetDesc=Pastoral Lease/ DOC Backcountry hut
+StreetDesc=Pastoral Lease - South Island > Canterbury > North Canterbury & Arthur’s Pass/ D
 Data0=(-42.31832,172.64820)
 [END]
 
@@ -205574,7 +205565,7 @@ Data0=(-40.84224,172.24252)
 [POI]
 Type=0x6402
 Label=OLD BASINS HUT
-StreetDesc=Craigieburn Conservation Park/ DOC Backcountry hut
+StreetDesc=Craigieburn Conservation Park - South Island > Canterbury > North Canterbury & A
 Data0=(-43.09985,171.48023)
 [END]
 
@@ -205590,7 +205581,7 @@ Data0=(-42.29021,173.25982)
 [POI]
 Type=0x6402
 Label=PINCHGUT HUT
-StreetDesc=Mt Thomas Forest/ DOC Backcountry hut
+StreetDesc=Mt Thomas Forest - South Island > Canterbury > North Canterbury & Arthur’s Pass/
 Data0=(-42.42699,172.34870)
 [END]
 
@@ -205598,7 +205589,7 @@ Data0=(-42.42699,172.34870)
 [POI]
 Type=0x6402
 Label=POOL HUT
-StreetDesc=St James Conservation Area/ DOC Backcountry hut
+StreetDesc=St James Conservation Area - South Island > Canterbury > North Canterbury & Arth
 Data0=(-42.39580,172.61560)
 [END]
 
@@ -205606,7 +205597,7 @@ Data0=(-42.39580,172.61560)
 [POI]
 Type=0x6402
 Label=POSSUMER'S HUT
-StreetDesc=Ashley Forest/ DOC Backcountry hut
+StreetDesc=Ashley Forest - South Island > Canterbury > North Canterbury & Arthur’s Pass/ DO
 Data0=(-43.14322,172.52782)
 [END]
 
@@ -205622,7 +205613,7 @@ Data0=(-41.04548,172.74279)
 [POI]
 Type=0x6402
 Label=ROSES HUT
-StreetDesc=Mount Soho Station Pastoral Lease./ DOC Backcountry hut
+StreetDesc=Mount Soho Station Pastoral Lease - South Island > Otago > Wanaka/Makarora/ DOC 
 Data0=(-44.80516,168.86141)
 [END]
 
@@ -205638,7 +205629,7 @@ Data0=(-43.77961,170.73228)
 [POI]
 Type=0x6402
 Label=SCOTTIES HUT
-StreetDesc=St James Conservation Area/ DOC Backcountry hut
+StreetDesc=St James Conservation Area - South Island > Canterbury > North Canterbury & Arth
 Data0=(-42.42971,172.63995)
 [END]
 
@@ -205646,7 +205637,7 @@ Data0=(-42.42971,172.63995)
 [POI]
 Type=0x6402
 Label=SIBERIA HUT
-StreetDesc=Mount Aspiring Ntl Park/ DOC Backcountry hut
+StreetDesc=Mount Aspiring Ntl Park - South Island > Otago > Wanaka/Makarora/ DOC Backcountr
 Data0=(-44.20571,169.05985)
 [END]
 
@@ -205670,7 +205661,7 @@ Data0=(-43.68637,170.77116)
 [POI]
 Type=0x6402
 Label=TOP HUT
-StreetDesc=Oteake Conservation Park/ DOC Backcountry hut
+StreetDesc=Oteake Conservation Park - South Island > Otago > Central Otago/ DOC Backcountry
 Data0=(-44.67458,169.80803)
 [END]
 
@@ -205686,7 +205677,7 @@ Data0=(-42.98305,171.18896)
 [POI]
 Type=0x6402
 Label=TOP TIMARU CREEK HUT
-StreetDesc=Hawea Conservation Area/ DOC Backcountry hut
+StreetDesc=Hawea Conservation Area - South Island > Otago > Wanaka/Makarora/ DOC Backcountr
 Data0=(-44.46950,169.50020)
 [END]
 
@@ -205726,7 +205717,7 @@ Data0=(-42.24451,173.67141)
 [POI]
 Type=0x6402
 Label=BOUNDARY CREEK HUT
-StreetDesc=Oteake Conservation Park/ DOC Backcountry hut
+StreetDesc=Oteake Conservation Park - South Island > Otago > Central Otago/ DOC Backcountry
 Data0=(-44.72802,169.85494)
 [END]
 
@@ -205757,8 +205748,8 @@ Data0=(-41.74929,173.66164)
 ;1183372
 [POI]
 Type=0x6402
-Label=MACKENZIE BIVVY (EAST BRANCH)
-StreetDesc=Lake Sumner Conservation Park/ DOC Backcountry hut
+Label=MACKENZIE BIVVY (EAST BRANCH) BIVOUAC
+StreetDesc=Lake Sumner Conservation Park - South Island > Canterbury > North Canterbury & A
 Data0=(-42.76444,172.43378)
 [END]
 
@@ -205784,14 +205775,6 @@ Type=0x6402
 Label=STAN'S HUT
 StreetDesc=Stewardship Land - South Island > West Coast > Glaciers/ DOC Backcountry hut
 Data0=(-43.35543,170.40274)
-[END]
-
-;1183377
-[POI]
-Type=0x6402
-Label=TE ONEROA A- FRAME HUT
-StreetDesc=Fiordland Ntl Park/ DOC Backcountry hut
-Data0=(-46.12328,166.67210)
 [END]
 
 ;1183379
@@ -205913,5 +205896,219 @@ Label=NIVEAU POOLS AND CONSTRUCTION
 StreetDesc=5 Foxford Close, Lincoln, Chc 7608/ Niveau Pools and Construction are specialist
 Phone=+6433295363
 Data0=(-43.64401,172.47896)
+[END]
+
+;1184642
+[POI]
+Type=0x2f
+Label=CYCLE SURGERY - MIDDLEMARCH
+StreetDesc=26 Snow Ave, Middlemarch/ Cycle Hire, Transport, Cycle Repairs
+Phone=0800292534
+zip=8.30am 5.30pm 7 Days
+Data0=(-45.50685,170.12295)
+[END]
+
+;1184643
+[POI]
+Type=0x2e
+Label=LAGOONS UNIQUE GIFTS AND HOMEWARE
+StreetDesc=60 Main Rd Havelock 7100 Marlborough New Zealand/ unique, gifts, online, nz gift
+Phone=+6435741071
+Data0=(-41.27861,173.76702)
+[END]
+
+;1184644
+[POI]
+Type=0x2b01
+Label=THE ARROW PRIVATE HOTEL
+StreetDesc=63 Manse Rd, Arrowtown/ Boutique hotel accommodation
+Phone=+6434098600
+Data0=(-44.93837,168.82347)
+[END]
+
+;1184647
+[POI]
+Type=0x2b01
+Label=ASURE DUNEDIN ACADEMY COURT
+StreetDesc=624 George St, Dud North/ Motel accommodation
+Phone=+6434777692
+Data0=(-45.86389,170.50953)
+[END]
+
+;1184648
+[POI]
+Type=0x2b01
+Label=289 MIDWAY MOTEL
+StreetDesc=289 Thames St, Oamaru/ Motel accommodation
+Phone=+6434345388
+Data0=(-45.09192,170.97417)
+[END]
+
+;1186299
+[POI]
+Type=0x2b00
+Label=BREAKFREE THE POINT
+StreetDesc=239 Frankton Rd, Queenstown, 9197/ Accommodation
+Data0=(-45.03386,168.68172)
+[END]
+
+;1186300
+[POI]
+Type=0x2b00
+Label=CAMP ESTATE
+StreetDesc=100 Camp Rd, Otago Peninsula, Dud, 9054/ Accommodation
+Data0=(-45.86798,170.62561)
+[END]
+
+;1186301
+[POI]
+Type=0x2b00
+Label=CENTURY PARK MOTOR LODGE
+StreetDesc=197 Rutherford St, Nelson, 7010/ Accommodation
+Data0=(-41.27843,173.28090)
+[END]
+
+;1186302
+[POI]
+Type=0x2b00
+Label=CHELSEA PARK MOTOR LODGE
+StreetDesc=214 Rutherford St, , Nelson, Nelson/ Accommodation
+Data0=(-41.27883,173.28037)
+[END]
+
+;1186306
+[POI]
+Type=0x2b00
+Label=CRAWFORDS
+StreetDesc=70 Buckingham St, Arrowtown, 9302/ Accommodation
+Data0=(-44.93950,168.83586)
+[END]
+
+;1186307
+[POI]
+Type=0x2b00
+Label=CUSTOMHOUSE HOTEL AND BACKPACKERS HOSTEL
+StreetDesc=252 Haven Rd, Nelson , 7010/ Accommodation
+Data0=(-41.26286,173.27045)
+[END]
+
+;1186309
+[POI]
+Type=0x2b00
+Label=DRUMMONDS AT CARDRONA
+StreetDesc=2352 Cardrona Valley Rd, Cardrona, 9382/ Accommodation
+Data0=(-44.88419,169.00167)
+[END]
+
+;1186310
+[POI]
+Type=0x2b00
+Label=FIORDLAND LODGE
+StreetDesc=472 Te Anau-Milford Highway, Te Anau, 9640/ Accommodation
+Data0=(-45.38296,167.76301)
+[END]
+
+;1186312
+[POI]
+Type=0x2b02
+Label=GARDEN VIEW BED & BREAKFAST ROLLESTON
+StreetDesc=133 Lowes Rd, Rolleston, Chc, 7614/ Accommodation
+Data0=(-43.60413,172.38053)
+[END]
+
+;1186313
+[POI]
+Type=0x2b03
+Label=GLENORCHY CAMPING GROUND
+StreetDesc=1 Oban St, Glenorchy, Glenorchy, 9372/ Accommodation
+Data0=(-44.85068,168.38702)
+[END]
+
+;1186316
+[POI]
+Type=0x2b01
+Label=HILTON QUEENSTOWN
+StreetDesc=Kawarau Village, Peninsula Rd, Queenstown, 9300/ Accommodation
+Data0=(-45.02951,168.72774)
+[END]
+
+;1186317
+[POI]
+Type=0x2b01
+Label=KAWARAU HOTEL, MANAGED BY HILTON
+StreetDesc=Kawarau Village Peninsula Rd, Queenstown, 9300/ Accommodation
+Data0=(-45.02822,168.72988)
+[END]
+
+;1186318
+[POI]
+Type=0x2b02
+Label=LEITHVIEW BED & BREAKFAST
+StreetDesc=234 Malvern St, Glenleith, Dud, 9010/ Accommodation
+Data0=(-45.84056,170.50252)
+[END]
+
+;1186320
+[POI]
+Type=0x2b00
+Label=MISTY PEAKS
+StreetDesc=105 Cook Flat Rd, Fox Glacier, 7859/ Accommodation
+Data0=(-43.46218,170.00534)
+[END]
+
+;1186321
+[POI]
+Type=0x2b01
+Label=MT COOK VIEW MOTEL
+StreetDesc=203 Cook Flat Rd, Fox Glacier, 7859/ Accommodation
+Data0=(-43.45945,169.99281)
+[END]
+
+;1186322
+[POI]
+Type=0x2b01
+Label=NORFOLK PINE BEACHFRONT MOTEL
+StreetDesc=124 Esplanade, Kaikoura, 7300/ Accommodation
+Data0=(-42.40970,173.68630)
+[END]
+
+;1186324
+[POI]
+Type=0x2b00
+Label=PACIFIC ALLURE HEIGHTS
+StreetDesc=278 Scarborough St, Kaikoura, 7300/ Accommodation
+Data0=(-42.41836,173.69485)
+[END]
+
+;1186328
+[POI]
+Type=0x2b00
+Label=SUMNER RE TREAT
+StreetDesc=1 Wakefield Ave, Sumner , 8081/ Accommodation
+Data0=(-43.56866,172.75931)
+[END]
+
+;1186334
+[POI]
+Type=0x2b02
+Label=THE PIER LODGE BED AND BREAKFAST
+StreetDesc=97 Lonsdale St, New Brighton, Chc, 8083/ Accommodation
+Data0=(-43.50597,172.72461)
+[END]
+
+;1186335
+[POI]
+Type=0x2b01
+Label=THE STATION HOUSE MOTEL
+StreetDesc=7 Elizabeth St, Collingwood, 7073/ Accommodation
+Data0=(-40.67744,172.68300)
+[END]
+
+;1186337
+[POI]
+Type=0x2b02
+Label=WILLOWBROOK B&B AND COTTAGES
+StreetDesc=760 Malaghans Rd , Arrowtown, 9371/ Accommodation
+Data0=(-44.94700,168.77266)
 [END]
 

@@ -170362,7 +170362,7 @@ Data0=(-45.14058,169.50935)
 ;1165243
 [POI]
 Type=0x2b00
-Label=ROCKDALE FARM
+Label=ROCKDALE B & B
 StreetDesc=Omakau Chatto Creek Rd, Omakau/ Accommodation
 Phone=+6434651602
 Data0=(-45.11512,169.54063)
@@ -199740,15 +199740,6 @@ zip=Mon-Fri 8am-5pm
 Data0=(-43.63321,171.64703)
 [END]
 
-;1178824
-[POI]
-Type=0x2f
-Label=PGG WRIGHTSON MIDDLEMARCH
-StreetDesc=Snow Ave, Middlemarch/ 
-Phone=+6434643882
-Data0=(-45.50799,170.12222)
-[END]
-
 ;1178825
 [POI]
 Type=0x2f
@@ -206110,5 +206101,85 @@ Type=0x2b02
 Label=WILLOWBROOK B&B AND COTTAGES
 StreetDesc=760 Malaghans Rd , Arrowtown, 9371/ Accommodation
 Data0=(-44.94700,168.77266)
+[END]
+
+;1186342
+[POI]
+Type=0x2b00
+Label=THE ROCKS STATION & ACCOMMODATION
+StreetDesc=175 Mt Stoker Rd Middlemarch 9598/ Middlemarch Luxury Accommodation
+Phone=+6434643005
+Data0=(-45.53112,170.15809)
+[END]
+
+;1186343
+[POI]
+Type=0x2b00
+Label=EMERALD HILLS COUNTRY GUESTHOUSE
+StreetDesc=State Highway 87 Hyde/ Accommodation
+Phone=+6434444667
+Data0=(-45.30625,170.25076)
+[END]
+
+;1186344
+[POI]
+Type=0x2b00
+Label=PETER'S FARM LODGE
+StreetDesc=Tregonning Rd Waipiata/ Accommodation
+Phone=+6434449811
+Data0=(-45.19949,170.12834)
+[END]
+
+;1186345
+[POI]
+Type=0x2b00
+Label=TREGONNING COTTAGE
+StreetDesc=Tregonning Rd Waipiata/ Accommodation
+Phone=+6434449811
+Data0=(-45.19754,170.13304)
+[END]
+
+;1186346
+[POI]
+Type=0x2b00
+Label=TUSSOCK LODGE
+StreetDesc=1 Waipiata Domain Rd Waipiata/ Accommodation
+Phone=+6434643355
+Data0=(-45.18651,170.16621)
+[END]
+
+;1186347
+[POI]
+Type=0x2b00
+Label=MOUNTAIN VIEW SELF-CONTAINED ACCOMMODATION
+StreetDesc=13A Channel Rd, Naseby/ Accommodation
+Phone=+6434449972
+Data0=(-45.03035,170.14515)
+[END]
+
+;1186348
+[POI]
+Type=0x2a
+Label=THE FALCONER RESTAURANT, BAR AND CONFERENCE CENTRE
+StreetDesc=Cnr Derwent & Oughter Streets, Naseby/ Restaurant, Bar and Conference Centre
+Phone=+6434448374
+Data0=(-45.02563,170.14439)
+[END]
+
+;1186349
+[POI]
+Type=0x2b02
+Label=THE MAGDELANS BED & BREAKFAST
+StreetDesc=1741c Omakau- Chatto creek Rd, Chatto Creek/ Accommodation
+Data0=(-45.12383,169.51676)
+[END]
+
+;1186350
+[POI]
+Type=0x2b02
+Label=OPHIR BRIDGE BED & BREAKFAST
+StreetDesc=Rapid # 74 Ophir Bridge Rd Ophir/ Accommodation
+Phone=+6434473259
+Data0=(-45.11047,169.59621)
 [END]
 

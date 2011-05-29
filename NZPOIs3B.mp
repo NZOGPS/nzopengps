@@ -159839,9 +159839,10 @@ Data0=(-41.29490,174.00843)
 ;1159202
 [POI]
 Type=0x2b00
-Label=GREENACRES MOTEL
-StreetDesc=84 Conical Hill Rd, Hanmer Springs/ Accommodation
-Data0=(-42.51621,172.82867)
+Label=GREENACRES ALPINE CHALETS & VILLAS
+StreetDesc=84 Conical Hill Rd, Hanmer Springs/ Motel Accommodation
+Phone=+6433157125
+Data0=(-42.51626,172.82872)
 [END]
 
 ;1159203
@@ -200397,8 +200398,9 @@ Data0=(-41.28158,173.28799)
 [POI]
 Type=0x2b01
 Label=KAIKOURA GATEWAY MOTOR LODGE
-StreetDesc=16-18 Churchill St, (State Highway 1), Kaikoura/ Hotel accommodation
-Data0=(-42.40231,173.68056)
+StreetDesc=16-18 Churchill St, (State Highway 1), Kaikoura/ Motel accommodation, conference
+Phone=+6433196070
+Data0=(-42.40318,173.68011)
 [END]
 
 ;1179028
@@ -206181,5 +206183,13 @@ Label=OPHIR BRIDGE BED & BREAKFAST
 StreetDesc=Rapid # 74 Ophir Bridge Rd Ophir/ Accommodation
 Phone=+6434473259
 Data0=(-45.11047,169.59621)
+[END]
+
+;1186358
+[POI]
+Type=0x2c04
+Label=CAPE FOULWIND LIGHTHOUSE
+StreetDesc=79 Lighthouse Rd, Cape Foulwind 7892, New Zealand/ Lighthouse
+Data0=(-41.74935,171.46604)
 [END]
 

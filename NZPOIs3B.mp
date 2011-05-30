@@ -8347,16 +8347,6 @@ zip=7am - Midnight, 7 days a week
 Data0=(-43.49110,172.60843)
 [END]
 
-;1028714
-[POI]
-Type=0x2e02
-Label=PAK 'N SAVE MOORHOUSE
-StreetDesc=297 Moorhouse Ave, Chc/ supermarket, Lotto
-Phone=+6433771000
-zip=8am - 10pm, 7 days a week
-Data0=(-43.53930,172.63839)
-[END]
-
 ;1028721
 [POI]
 Type=0x2e02
@@ -12277,7 +12267,7 @@ Data0=(-43.54886,172.68259)
 Type=0x2a0a
 Label=DOMINO'S PIZZA DUNEDIN NORTH
 StreetDesc=736 Great King St, Dud/ takeaway pizza, delivery
-Phone=+6434770999
+Phone=+6434770444
 Data0=(-45.85932,170.51343)
 [END]
 
@@ -12673,7 +12663,7 @@ Data0=(-46.41805,168.38870)
 [POI]
 Type=0x2f01
 Label=OPAWA GARAGE
-StreetDesc=11 Opawa Rd, Opawa/ Challenge petrol station
+StreetDesc=11 Opawa Rd, Opawa/ Challenge Petrol Station, Lpg, Dairy, Trailer hire.
 Phone=+6433795549
 Data0=(-43.54730,172.65437)
 [END]
@@ -63542,11 +63532,11 @@ Data0=(-43.51200,172.62142)
 ;1112886
 [POI]
 Type=0x2f
-Label=SALCOM LTD
-StreetDesc=120 St Asaph St, Chc/ 
+Label=SALCOM NZ LTD
+StreetDesc=96 Tuam St, Chc/ Sea Air Land Communications
 Phone=+6433792298
 zip=Mon-Fri 0800-1700
-Data0=(-43.53651,172.63203)
+Data0=(-43.53546,172.63187)
 [END]
 
 ;1112887
@@ -139066,8 +139056,9 @@ Data0=(-43.53072,172.63517)
 [POI]
 Type=0x2f
 Label=HAIRDRESSER ANNA'S SALON
-StreetDesc=8 Beckford Rd, Chc/ Hairdresser
-Data0=(-43.55852,172.65501)
+StreetDesc=22 A, Beckford Rd, Chc/ Hairdresser
+Phone=+6433320708
+Data0=(-43.55801,172.65596)
 [END]
 
 ;1146790
@@ -142688,7 +142679,8 @@ Data0=(-45.94403,169.26117)
 [POI]
 Type=0x2a
 Label=WESTSIDE CAFE AND RESTAURANT
-StreetDesc=54 Union St, Milton/ restaurant, cafe
+StreetDesc=54 Union St, Milton, Otago/ Restaurant, cafe. Zenbu Wi-Fi wireless internet, che
+Phone=+6434177484
 Data0=(-46.12175,169.95802)
 [END]
 
@@ -199403,7 +199395,7 @@ Data0=(-46.59631,168.33264)
 [POI]
 Type=0x2f
 Label=RAVENSDOWN - WESTPORT STORE
-StreetDesc=Cape Foulwind, New Zealand/ Lime Quarry, Fertiliser
+StreetDesc=Cape Foulwind/ Lime Quarry, Fertiliser
 Phone=+6437897609
 Data0=(-41.75523,171.50163)
 [END]
@@ -206189,7 +206181,33 @@ Data0=(-45.11047,169.59621)
 [POI]
 Type=0x2c04
 Label=CAPE FOULWIND LIGHTHOUSE
-StreetDesc=79 Lighthouse Rd, Cape Foulwind 7892, New Zealand/ Lighthouse
+StreetDesc=Lighthouse Rd, Cape Foulwind/ Lighthouse
 Data0=(-41.74935,171.46604)
+[END]
+
+;1188457
+[POI]
+Type=0x2f
+Label=MAINCOMM
+StreetDesc=Unit 1, 5 Washington Way, Chc/ Business Communications Solutions, Telephone Syst
+Data0=(-43.54063,172.64412)
+[END]
+
+;1188459
+[POI]
+Type=0x2f
+Label=DISCOUNT TOBACCO DAIRY
+StreetDesc=403 Worcester St, Linwood, Chc/ Dairy Shop
+Data0=(-43.53074,172.65753)
+[END]
+
+;1188460
+[POI]
+Type=0x2e02
+Label=PAK N SAVE MOORHOUSE
+StreetDesc=297 Moorhouse Ave, Chc/ Supermarket, Petrol, Diesel.
+Phone=+6433771000
+zip=07:00am to 11:00pm - 7Days
+Data0=(-43.53950,172.63809)
 [END]
 

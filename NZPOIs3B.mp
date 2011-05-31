@@ -47762,15 +47762,6 @@ Phone=+6433417175
 Data0=(-43.54413,172.56974)
 [END]
 
-;1104064
-[POI]
-Type=0x2f
-Label=CUSTOMER EXPERIENCES LTD
-StreetDesc=104 Aorangi Rd, Bryndwr, Chc/ 
-Phone=+6433517374
-Data0=(-43.50395,172.59215)
-[END]
-
 ;1104068
 [POI]
 Type=0x2f
@@ -53269,10 +53260,10 @@ Data0=(-45.88445,170.35791)
 [POI]
 Type=0x2f
 Label=HOLMES CONSULTING GROUP
-StreetDesc=L 5, 123 Victoria St, Chc/ 
+StreetDesc=Unit Five 295 Blenheim Rd, Upper Riccarton, Chc/ 
 Phone=+6433663366
-zip=Mon-Fri 0830-1700
-Data0=(-43.52362,172.62981)
+zip=Mon-Fri 8.30am-5pm
+Data0=(-43.53877,172.58281)
 [END]
 
 ;1106959
@@ -94641,8 +94632,9 @@ Data0=(-45.89784,170.33713)
 [POI]
 Type=0x2a0e
 Label=EDEN CAFE AND BOAT HIRE
-StreetDesc=830 Harington Point Rd, Harington Point/ cafe
-Data0=(-45.79889,170.71658)
+StreetDesc=830 Harington Point Rd, Harington Point/ cafe, sea kayaking tours of Otago Penin
+Phone=+6434780820
+Data0=(-45.79820,170.71796)
 [END]
 
 ;1128505

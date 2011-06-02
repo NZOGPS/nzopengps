@@ -206001,3 +206001,22 @@ zip=Summer 9am-5:30pm, Winter 9am-5pm
 Data0=(-43.53391,172.62803)
 [END]
 
+;1188493
+[POI]
+Type=0x2f
+Label=BLUFF BOTTLE STORE
+StreetDesc=70 Gore St Bluff/ Beer, Wine, Spirits
+Phone=+6432127521
+zip=10am to 9pm Monday to Sunday
+Data0=(-46.59931,168.34479)
+[END]
+
+;1188500
+[POI]
+Type=0x2a05
+Label=MARLOW PIES
+StreetDesc=377 King Edward St South Dud, Dud,/ Dunedin bakery making healthier, tastier pie
+Phone=+6434558375
+Data0=(-45.89848,170.50242)
+[END]
+

@@ -206003,7 +206003,7 @@ Data0=(-43.53391,172.62803)
 
 ;1188493
 [POI]
-Type=0x2f
+Type=0x2e
 Label=BLUFF BOTTLE STORE
 StreetDesc=70 Gore St Bluff/ Beer, Wine, Spirits
 Phone=+6432127521

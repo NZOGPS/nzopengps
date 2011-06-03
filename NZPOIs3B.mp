@@ -50264,15 +50264,6 @@ Phone=+6439631436
 Data0=(-43.52972,172.64238)
 [END]
 
-;1105527
-[POI]
-Type=0x2f
-Label=FIREWORK PROFESSIONALS LIMITED
-StreetDesc=100 Bamford St, Ferrymead, Chc/ Pyrotechnics
-Phone=+6439823473
-Data0=(-43.55775,172.68419)
-[END]
-
 ;1105528
 [POI]
 Type=0x2f
@@ -56635,10 +56626,10 @@ Data0=(-43.53266,172.60848)
 [POI]
 Type=0x2f
 Label=MAPWORLD NEW ZEALAND
-StreetDesc=41 Moorhouse Ave, Chc/ 
+StreetDesc=35 Moorhouse Ave, Chc/ Maps, beacon, globe, compass, atlas, Garmin, travel books
 Phone=+6433745399
-zip=Mon to Sat, 9 to 5
-Data0=(-43.53947,172.62089)
+zip=M-F 8.30 to 5.30, Sat 9 to 5
+Data0=(-43.53972,172.62076)
 [END]
 
 ;1109062
@@ -70127,7 +70118,7 @@ Data0=(-46.41068,168.37379)
 [POI]
 Type=0x2b03
 Label=ACHERON ACCOMMODATION HOUSE CAMPSITE (DOC)
-StreetDesc=Molesworth Recreation Reserve, South Marlborough/ DOC conservation campsite. Acc
+StreetDesc=Molesworth Recreation Reserve - South Island > Marlborough > South Marlborough/ 
 Data0=(-42.39556,172.95511)
 [END]
 
@@ -70151,7 +70142,7 @@ Data0=(-42.99399,171.79291)
 [POI]
 Type=0x2b03
 Label=?AUSSIE BAY CAMPSITE (DOC)
-StreetDesc=Sounds Foreshore Reserve, Sounds/ DOC conservation campsite. Accommodation, camp
+StreetDesc=Sounds Foreshore Reserve - South Island > Marlborough > Sounds Area/ DOC conserv
 Data0=(-41.27235,173.92875)
 [END]
 
@@ -70167,7 +70158,7 @@ Data0=(-42.94054,171.56226)
 [POI]
 Type=0x2b03
 Label=?BAY OF MANY COVES CAMPSITE (DOC)
-StreetDesc=Bay of Many Coves Scenic Reserve, Sounds/ DOC conservation campsite. Accommodati
+StreetDesc=Bay of Many Coves Scenic Reserve - South Island > Marlborough > Sounds Area/ DOC
 Data0=(-41.17228,174.14188)
 [END]
 
@@ -70175,7 +70166,7 @@ Data0=(-41.17228,174.14188)
 [POI]
 Type=0x2b03
 Label=?BLACK ROCK CAMPSITE (DOC)
-StreetDesc=Kumutoto Bay Scenic Reserve, Sounds/ DOC conservation campsite. Accommodation, c
+StreetDesc=Kumutoto Bay Scenic Reserve - South Island > Marlborough > Sounds Area/ DOC cons
 Data0=(-41.20093,174.06487)
 [END]
 
@@ -70183,7 +70174,7 @@ Data0=(-41.20093,174.06487)
 [POI]
 Type=0x2b03
 Label=?BLUMINE ISLAND CAMPSITE (DOC)
-StreetDesc=Blumine Island Scenic Reserve, Sounds/ DOC conservation campsite. Accommodation,
+StreetDesc=Blumine Island Scenic Reserve - South Island > Marlborough > Sounds Area/ DOC co
 Data0=(-41.16954,174.23361)
 [END]
 
@@ -70191,7 +70182,7 @@ Data0=(-41.16954,174.23361)
 [POI]
 Type=0x2b03
 Label=?BUTCHERS FLAT CAMPSITE (DOC)
-StreetDesc=Mt Richmond Forest Park/private/Rd reserve, Sounds/ DOC conservation campsite. A
+StreetDesc=Mt Richmond Forest Park/private/Rd reserve - South Island > Marlborough > Sounds
 Data0=(-41.37631,173.59428)
 [END]
 
@@ -70215,7 +70206,7 @@ Data0=(-41.12799,174.14699)
 [POI]
 Type=0x2b03
 Label=CANAAN DOWNS CAMPSITE (DOC)
-StreetDesc=Canaan Downs Scenic Reserve, Abel Tasman Ntl Park, Golden Bay/ DOC conservation 
+StreetDesc=Canaan Downs Scenic Reserve, Abel Tasman Ntl Park - South Island > Nelson/Tasman
 Data0=(-40.94290,172.89182)
 [END]
 
@@ -70223,7 +70214,7 @@ Data0=(-40.94290,172.89182)
 [POI]
 Type=0x2b03
 Label=CANNIBAL COVE CAMPSITE (DOC)
-StreetDesc=Cannibal Cove Scenic Reserve, Sounds/ DOC conservation campsite. Accommodation, 
+StreetDesc=Cannibal Cove Scenic Reserve - South Island > Marlborough > Sounds Area/ DOC con
 Data0=(-41.07647,174.25089)
 [END]
 
@@ -70239,7 +70230,7 @@ Data0=(-44.89555,168.07785)
 [POI]
 Type=0x2b03
 Label=?COBB RIVER CAMPSITE (DOC)
-StreetDesc=Kahurangi Ntl Park, Golden Bay/ DOC conservation campsite. Accommodation, campin
+StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Golden Bay/ DOC conservation
 Data0=(-41.12956,172.62262)
 [END]
 
@@ -70247,7 +70238,7 @@ Data0=(-41.12956,172.62262)
 [POI]
 Type=0x2b03
 Label=COLDWATER STREAM CAMPSITE (DOC)
-StreetDesc=Rainbow Conservation Area, Nelson Lakes/ DOC conservation campsite. Accommodatio
+StreetDesc=Rainbow Conservation Area - South Island > Nelson/Tasman > Nelson Lakes/ DOC con
 Data0=(-42.06209,172.92391)
 [END]
 
@@ -70255,7 +70246,7 @@ Data0=(-42.06209,172.92391)
 [POI]
 Type=0x2b03
 Label=?COURTHOUSE FLAT CAMPSITE (DOC)
-StreetDesc=Kahurangi Ntl Park, Motueka/ DOC conservation campsite. Accommodation, camping
+StreetDesc=Kahurangi Ntl Park - South Island > Motueka/ DOC conservation campsite. Accommod
 Data0=(-41.46792,172.56676)
 [END]
 
@@ -70263,7 +70254,7 @@ Data0=(-41.46792,172.56676)
 [POI]
 Type=0x2b03
 Label=COWSHED BAY CAMPSITE (DOC)
-StreetDesc=Kenepuru Rd, Portage Bay Recreation Reserve, Kenepuru Sound/ DOC conservation ca
+StreetDesc=Kenepuru Rd, Portage Bay Recreation Reserve, Kenepuru Sound - South Island > Mar
 Data0=(-41.20175,174.03252)
 [END]
 
@@ -70295,7 +70286,7 @@ Data0=(-42.40486,172.39770)
 [POI]
 Type=0x2b03
 Label=?ELAINE BAY CAMPSITE (DOC)
-StreetDesc=Elaine Bay Recreation Reserve, Sounds/ DOC conservation campsite. Accommodation,
+StreetDesc=Elaine Bay Recreation Reserve - South Island > Marlborough > Sounds Area/ DOC co
 Data0=(-41.05469,173.76865)
 [END]
 
@@ -70303,7 +70294,7 @@ Data0=(-41.05469,173.76865)
 [POI]
 Type=0x2b03
 Label=?FRENCH PASS CAMPING AREA (DOC)
-StreetDesc=French Pass Recreation Reserve, Sounds/ DOC conservation campsite. Accommodation
+StreetDesc=French Pass Recreation Reserve - South Island > Marlborough > Sounds Area/ DOC c
 Data0=(-40.92628,173.84315)
 [END]
 
@@ -70367,7 +70358,7 @@ Data0=(-42.80873,171.15568)
 [POI]
 Type=0x2b03
 Label=?HARVEY BAY CAMPSITE (DOC)
-StreetDesc=Tennyson Inlet Scenic Reserve, Sounds/ DOC conservation campsite. Accommodation,
+StreetDesc=Tennyson Inlet Scenic Reserve - South Island > Marlborough > Sounds Area/ DOC co
 Data0=(-41.12332,173.74087)
 [END]
 
@@ -70391,7 +70382,7 @@ Data0=(-45.23202,167.81177)
 [POI]
 Type=0x2b03
 Label=KAWATIRI CAMPSITE (DOC)
-StreetDesc=Kawatiri Historic Reserve, Nelson Lakes/ DOC conservation campsite. Accommodatio
+StreetDesc=Kawatiri Historic Reserve, Nelson Lakes - South Island > Motueka/ DOC conservati
 Data0=(-41.69400,172.61753)
 [END]
 
@@ -70407,7 +70398,7 @@ Data0=(-42.80215,171.57071)
 [POI]
 Type=0x2b03
 Label=KENEPURU HEAD CAMPSITE (DOC)
-StreetDesc=Sounds Foreshore Reserve, Sounds/ DOC conservation campsite. Accommodation, camp
+StreetDesc=Sounds Foreshore Reserve - South Island > Marlborough > Sounds Area/ DOC conserv
 Data0=(-41.17386,174.11830)
 [END]
 
@@ -70415,7 +70406,7 @@ Data0=(-41.17386,174.11830)
 [POI]
 Type=0x2b03
 Label=KERR BAY CAMPSITE (DOC)
-StreetDesc=Nelson Lakes Ntl Park, Nelson Lakes/ DOC conservation campsite. Accommodation, c
+StreetDesc=Nelson Lakes Ntl Park - South Island > Nelson/Tasman > Nelson Lakes/ DOC conserv
 Data0=(-41.80599,172.84735)
 [END]
 
@@ -70463,7 +70454,7 @@ Data0=(-41.10955,172.10250)
 [POI]
 Type=0x2b03
 Label=KOWHAI POINT CAMPSITE (DOC)
-StreetDesc=Kowhai Point Scenic Reserve, South Marlborough/ DOC conservation campsite. Accom
+StreetDesc=Kowhai Point Scenic Reserve - South Island > Marlborough > South Marlborough/ DO
 Data0=(-41.71218,173.11299)
 [END]
 
@@ -70511,7 +70502,7 @@ Data0=(-43.09373,171.78062)
 [POI]
 Type=0x2b03
 Label=?LAKE ROTOROA CAMPSITE (DOC)
-StreetDesc=Nelson Lakes Ntl Park, Nelson Lakes/ DOC conservation campsite. Accommodation, c
+StreetDesc=Nelson Lakes Ntl Park - South Island > Nelson/Tasman > Nelson Lakes/ DOC conserv
 Data0=(-41.79408,172.59785)
 [END]
 
@@ -70527,7 +70518,7 @@ Data0=(-42.77535,172.24959)
 [POI]
 Type=0x2b03
 Label=?LAKE TENNYSON CAMPSITE (DOC)
-StreetDesc=Lake Tennyson Scenic Reserve, South Marlborough/ DOC conservation campsite. Acco
+StreetDesc=Lake Tennyson Scenic Reserve - South Island > Marlborough > South Marlborough/ D
 Data0=(-42.21126,172.73962)
 [END]
 
@@ -70567,7 +70558,7 @@ Data0=(-42.35104,172.22171)
 [POI]
 Type=0x2b03
 Label=?MARFELLS BEACH CAMPING AREA (DOC)
-StreetDesc=MArfells Beach Recreation Reserve, South Marlborough/ DOC conservation campsite.
+StreetDesc=MArfells Beach Recreation Reserve - South Island > Marlborough > South Marlborou
 Data0=(-41.72548,174.20444)
 [END]
 
@@ -70583,7 +70574,7 @@ Data0=(-45.26832,168.17629)
 [POI]
 Type=0x2b03
 Label=?MILL FLAT CAMPSITE (DOC)
-StreetDesc=Mount Richmond Forest Park, South Marlborough/ DOC conservation campsite. Accomm
+StreetDesc=Mount Richmond Forest Park - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-41.50111,173.51084)
 [END]
 
@@ -70607,7 +70598,7 @@ Data0=(-44.99830,168.57592)
 [POI]
 Type=0x2b03
 Label=?MOLESWORTH COBB COTTAGE CAMPSITE (DOC)
-StreetDesc=Molesworth Recreation Reserve, South Marlborough/ DOC conservation campsite. Acc
+StreetDesc=Molesworth Recreation Reserve - South Island > Marlborough > South Marlborough/ 
 Data0=(-42.08868,173.26499)
 [END]
 
@@ -70615,7 +70606,7 @@ Data0=(-42.08868,173.26499)
 [POI]
 Type=0x2b03
 Label=MOMORANGI BAY MOTORCAMP (DOC)
-StreetDesc=Momorangi Bay Recreation Reserve, Sounds/ DOC conservation campsite. Accommodati
+StreetDesc=Momorangi Bay Recreation Reserve - South Island > Marlborough > Sounds Area/ DOC
 Data0=(-41.27047,173.94065)
 [END]
 
@@ -70631,7 +70622,7 @@ Data0=(-45.81247,167.51935)
 [POI]
 Type=0x2b03
 Label=MOETAPU BAY CAMPSITE (DOC)
-StreetDesc=Moetapu Bay, Mahau Sound/ DOC conservation campsite. Accommodation, camping
+StreetDesc=Moetapu Bay, Mahau Sound - South Island > Marlborough > Sounds Area/ DOC conserv
 Data0=(-41.26032,173.85459)
 [END]
 
@@ -70647,7 +70638,7 @@ Data0=(-44.43262,170.87229)
 [POI]
 Type=0x2b03
 Label=NIKAU COVE CAMPSITE (DOC)
-StreetDesc=Sounds Foreshore Reserve, Kenepuru Rd/ DOC conservation campsite. Accommodation,
+StreetDesc=Sounds Foreshore Reserve, Kenepuru Rd - South Island > Marlborough > Sounds Area
 Data0=(-41.19555,174.04983)
 [END]
 
@@ -70655,7 +70646,7 @@ Data0=(-41.19555,174.04983)
 [POI]
 Type=0x2b03
 Label=?NYDIA CAMPSITE (DOC)
-StreetDesc=Tennyson Inlet Scenic Reserve, Sounds/ DOC conservation campsite. Accommodation,
+StreetDesc=Tennyson Inlet Scenic Reserve - South Island > Marlborough > Sounds Area/ DOC co
 Data0=(-41.15006,173.78168)
 [END]
 
@@ -70663,7 +70654,7 @@ Data0=(-41.15006,173.78168)
 [POI]
 Type=0x2b03
 Label=?ONAMALUTU CAMPSITE (DOC)
-StreetDesc=Onamalutu Scenic Reserve, South Marlborough/ DOC conservation campsite. Accommod
+StreetDesc=Onamalutu Scenic Reserve - South Island > Marlborough > South Marlborough/ DOC c
 Data0=(-41.45853,173.70634)
 [END]
 
@@ -70713,7 +70704,7 @@ Data0=(-43.89001,171.26617)
 [POI]
 Type=0x2b03
 Label=PELORUS BRIDGE CAMPGROUND (DOC)
-StreetDesc=Pelorus Bridge Scenic Reserve, Sounds/ DOC conservation campsite. Accommodation,
+StreetDesc=Pelorus Bridge Scenic Reserve - South Island > Marlborough > Sounds Area/ DOC co
 Data0=(-41.29952,173.57165)
 [END]
 
@@ -70729,7 +70720,7 @@ Data0=(-45.56107,169.01560)
 [POI]
 Type=0x2b03
 Label=PICNIC BAY CAMPSITE (DOC)
-StreetDesc=Sounds Foreshore Reserve, Kenepuru Rd/ DOC conservation campsite. Accommodation,
+StreetDesc=Sounds Foreshore Reserve, Kenepuru Rd - South Island > Marlborough > Sounds Area
 Data0=(-41.19481,174.04570)
 [END]
 
@@ -70761,7 +70752,7 @@ Data0=(-46.54289,169.60925)
 [POI]
 Type=0x2b03
 Label=?RARANGI CAMPSITE (DOC)
-StreetDesc=Rarangi Recreation Reserve, South Marlborough/ DOC conservation campsite. Accomm
+StreetDesc=Rarangi Recreation Reserve - South Island > Marlborough > South Marlborough/ DOC
 Data0=(-41.39292,174.04646)
 [END]
 
@@ -70769,7 +70760,7 @@ Data0=(-41.39292,174.04646)
 [POI]
 Type=0x2b03
 Label=?RATIMERA BAY CAMPSITE (DOC)
-StreetDesc=Ratimera Bay Scenic Reserve, Sounds/ DOC conservation campsite. Accommodation, c
+StreetDesc=Ratimera Bay Scenic Reserve - South Island > Marlborough > Sounds Area/ DOC cons
 Data0=(-41.20499,174.11264)
 [END]
 
@@ -70777,7 +70768,7 @@ Data0=(-41.20499,174.11264)
 [POI]
 Type=0x2b03
 Label=?ROBIN HOOD BAY CAMPSITE (DOC)
-StreetDesc=Robin Hood Bay Recreation Reserve, South Marlborough/ DOC conservation campsite.
+StreetDesc=Robin Hood Bay Recreation Reserve - South Island > Marlborough > South Marlborou
 Data0=(-41.35939,174.06983)
 [END]
 
@@ -70785,7 +70776,7 @@ Data0=(-41.35939,174.06983)
 [POI]
 Type=0x2b03
 Label=?SCHOOLHOUSE BAY CAMPSITE (DOC)
-StreetDesc=Schoolhouse Bay Scenic Reserve, Sounds/ DOC conservation campsite. Accommodation
+StreetDesc=Schoolhouse Bay Scenic Reserve - South Island > Marlborough > Sounds Area/ DOC c
 Data0=(-41.11186,174.23729)
 [END]
 
@@ -70793,7 +70784,7 @@ Data0=(-41.11186,174.23729)
 [POI]
 Type=0x2b03
 Label=?SIBERIA FLAT CAMPSITE (DOC)
-StreetDesc=Kahurangi Ntl Park, Motueka/ DOC conservation campsite. Accommodation, camping
+StreetDesc=Kahurangi Ntl Park - South Island > Motueka/ DOC conservation campsite. Accommod
 Data0=(-41.44277,172.58368)
 [END]
 
@@ -70874,7 +70865,7 @@ Data0=(-45.07606,167.98481)
 [POI]
 Type=0x2b03
 Label=TOTARANUI CAMPGROUND (DOC)
-StreetDesc=Totaranui, Abel Tasman Ntl Park, Golden Bay/ DOC conservation campsite. Accommod
+StreetDesc=Totaranui, Abel Tasman Ntl Park - South Island > Nelson/Tasman > Golden Bay/ DOC
 Data0=(-40.81879,173.00458)
 [END]
 
@@ -70906,7 +70897,7 @@ Data0=(-44.00374,171.15553)
 [POI]
 Type=0x2b03
 Label=WAIMARU CAMPSITE (DOC)
-StreetDesc=Waimaru Recreation Reserve, Sounds/ DOC conservation campsite. Accommodation, ca
+StreetDesc=Waimaru Recreation Reserve - South Island > Marlborough > Sounds Area/ DOC conse
 Data0=(-41.07070,174.02473)
 [END]
 
@@ -70922,7 +70913,7 @@ Data0=(-45.10128,167.96752)
 [POI]
 Type=0x2b03
 Label=WEST BAY CAMPGROUND (DOC)
-StreetDesc=Nelson Lakes Ntl Park, Nelson Lakes/ DOC conservation campsite. Accommodation, c
+StreetDesc=Nelson Lakes Ntl Park - South Island > Nelson/Tasman > Nelson Lakes/ DOC conserv
 Data0=(-41.79754,172.82713)
 [END]
 
@@ -70930,7 +70921,7 @@ Data0=(-41.79754,172.82713)
 [POI]
 Type=0x2b03
 Label=?WHAREHUNGA BAY CAMPSITE (DOC)
-StreetDesc=Wharehunga Bay Recreation Reserve, Sounds/ DOC conservation campsite. Accommodat
+StreetDesc=Wharehunga Bay Recreation Reserve - South Island > Marlborough > Sounds Area/ DO
 Data0=(-41.17972,174.29102)
 [END]
 
@@ -70938,7 +70929,7 @@ Data0=(-41.17972,174.29102)
 [POI]
 Type=0x2b03
 Label=?WHATAMANGO BAY CAMPING AREA (DOC)
-StreetDesc=Whatamango Bay Recreation Reserve, Sounds/ DOC conservation campsite. Accommodat
+StreetDesc=Whatamango Bay Recreation Reserve - South Island > Marlborough > Sounds Area/ DO
 Data0=(-41.26928,174.07553)
 [END]
 
@@ -70954,7 +70945,7 @@ Data0=(-43.71877,170.09332)
 [POI]
 Type=0x2b03
 Label=?WHITES BAY CAMPSITE (DOC)
-StreetDesc=Whites Bay Recreation Reserve, South Marlborough/ DOC conservation campsite. Acc
+StreetDesc=Whites Bay Recreation Reserve - South Island > Marlborough > South Marlborough/ 
 Data0=(-41.38292,174.05706)
 [END]
 
@@ -108876,6 +108867,7 @@ Data0=(-43.50326,172.70986)
 Type=0x2f
 Label=THE EMBANKMENT
 StreetDesc=181 Ferry Rd, Chc/ 
+Phone=+6433793760
 Data0=(-43.53897,172.65386)
 [END]
 
@@ -191153,7 +191145,7 @@ Data0=(-43.53300,172.63547)
 [POI]
 Type=0x2b03
 Label=?DAVIES BAY CAMPSITE (DOC)
-StreetDesc=Grove Arm, Queen Charlotte Sound/ DOC conservation campsite. Tent sites for camp
+StreetDesc=Grove Arm, Queen Charlotte Sound - South Island > Marlborough > Sounds Area/ DOC
 Data0=(-41.25200,173.94000)
 [END]
 
@@ -191161,7 +191153,7 @@ Data0=(-41.25200,173.94000)
 [POI]
 Type=0x2b03
 Label=?FERNDALE CAMPSITE (DOC)
-StreetDesc=Ferndale Scenic Reserve, Kenepuru Sound. Boat access only/ DOC conservation camp
+StreetDesc=Ferndale Scenic Reserve, Kenepuru Sound. Boat access only - South Island > Marlb
 Data0=(-41.19000,173.97200)
 [END]
 
@@ -191177,7 +191169,7 @@ Data0=(-44.77600,169.89000)
 [POI]
 Type=0x2b03
 Label=?JACOBS BAY CAMPSITE (DOC)
-StreetDesc=Fairy Bay Scenic Reserve, Dillon Bell Point, Pelorus Sound/ DOC conservation cam
+StreetDesc=Fairy Bay Scenic Reserve, Dillon Bell Point, Pelorus Sound - South Island > Marl
 Data0=(-41.11000,173.88500)
 [END]
 
@@ -191185,7 +191177,7 @@ Data0=(-41.11000,173.88500)
 [POI]
 Type=0x2b03
 Label=?KAUAUROA BAY CAMPSITE (DOC)
-StreetDesc=Kauauroa Bay, Tawhitinui Reach, Outer Pelorus Sound. Boat access only/ DOC conse
+StreetDesc=Kauauroa Bay, Tawhitinui Reach, Outer Pelorus Sound. Boat access only - South Is
 Data0=(-41.03900,173.97000)
 [END]
 
@@ -191193,7 +191185,7 @@ Data0=(-41.03900,173.97000)
 [POI]
 Type=0x2b03
 Label=?LUCKY BAY CAMPSITE (DOC)
-StreetDesc=Lucky Bay, East Coast, D'Urville Island/ DOC conservation campsite. Tent sites f
+StreetDesc=Lucky Bay, East Coast, D'Urville Island - South Island > Marlborough > Sounds Ar
 Data0=(-40.89100,173.86100)
 [END]
 
@@ -191209,7 +191201,7 @@ Data0=(-44.86700,168.82100)
 [POI]
 Type=0x2b03
 Label=?MILL ARM CAMPSITE (DOC)
-StreetDesc=Mill Arm, Greville Harbour, D'Urville Island/ DOC conservation campsite. Tent si
+StreetDesc=Mill Arm, Greville Harbour, D'Urville Island - South Island > Marlborough > Soun
 Data0=(-40.84100,173.84100)
 [END]
 
@@ -191217,7 +191209,7 @@ Data0=(-40.84100,173.84100)
 [POI]
 Type=0x2b03
 Label=?MOAWHITU CAMPSITE (DOC)
-StreetDesc=Greville Harbour, D'Urville Island/ DOC conservation campsite. Tent sites for ca
+StreetDesc=Greville Harbour, D'Urville Island - South Island > Marlborough > Sounds Area/ D
 Data0=(-40.81000,173.80400)
 [END]
 
@@ -191225,7 +191217,7 @@ Data0=(-40.81000,173.80400)
 [POI]
 Type=0x2b03
 Label=?NGARURU BAY CAMPSITE (DOC)
-StreetDesc=Ngaruru Bay, Tory Channel. Southern side of Arapawa Island Scenic Reserve/ DOC c
+StreetDesc=Ngaruru Bay, Tory Channel. Southern side of Arapawa Island Scenic Reserve - Sout
 Data0=(-41.22700,174.21400)
 [END]
 
@@ -191233,7 +191225,7 @@ Data0=(-41.22700,174.21400)
 [POI]
 Type=0x2b03
 Label=?PENGUIN BAY CAMPSITE (DOC)
-StreetDesc=Penguin Bay, East Coast, D'Urville Island/ DOC conservation campsite. Tent sites
+StreetDesc=Penguin Bay, East Coast, D'Urville Island - South Island > Marlborough > Sounds 
 Data0=(-40.84400,173.91000)
 [END]
 
@@ -191241,7 +191233,7 @@ Data0=(-40.84400,173.91000)
 [POI]
 Type=0x2b03
 Label=?PUTANUI POINT CAMPSITE (DOC)
-StreetDesc=Putanui Point, Pelorus Sound/ DOC conservation campsite. Tent sites for camping
+StreetDesc=Putanui Point, Pelorus Sound - South Island > Marlborough > Sounds Area/ DOC con
 Data0=(-41.22100,173.86800)
 [END]
 
@@ -191249,7 +191241,7 @@ Data0=(-41.22100,173.86800)
 [POI]
 Type=0x2b03
 Label=?SOUTH ARM CAMPSITE (DOC)
-StreetDesc=South Arm, Port Hardy, D'Urville Island/ DOC conservation campsite. Tent sites f
+StreetDesc=South Arm, Port Hardy, D'Urville Island - South Island > Marlborough > Sounds Ar
 Data0=(-40.80800,173.86700)
 [END]
 
@@ -191257,7 +191249,7 @@ Data0=(-40.80800,173.86700)
 [POI]
 Type=0x2b03
 Label=?TAWA BAY CAMPSITE (DOC)
-StreetDesc=Tennyson Inlet, Pelorus Sound./ DOC conservation campsite. Tent sites for campin
+StreetDesc=Tennyson Inlet, Pelorus Sound - South Island > Marlborough > Sounds Area/ DOC co
 Data0=(-41.07100,173.82500)
 [END]
 
@@ -191273,7 +191265,7 @@ Data0=(-45.40400,170.78200)
 [POI]
 Type=0x2b03
 Label=?WAIONA BAY CAMPSITE (DOC)
-StreetDesc=Waiona Bay, Apuau Reach, Pelorus Sound./ DOC conservation campsite. Tent sites f
+StreetDesc=Waiona Bay, Apuau Reach, Pelorus Sound - South Island > Marlborough > Sounds Are
 Data0=(-41.00300,173.87400)
 [END]
 
@@ -206018,5 +206010,30 @@ Label=MARLOW PIES
 StreetDesc=377 King Edward St South Dud, Dud,/ Dunedin bakery making healthier, tastier pie
 Phone=+6434558375
 Data0=(-45.89848,170.50242)
+[END]
+
+;1188509
+[POI]
+Type=0x2f
+Label=SOS CLEAN & PROTECT
+StreetDesc=Unit 7 36 Tanya St, Bromley 8062/ carpet cleaning, carpet cleaners, carpet clean
+Phone=+6427254136
+Data0=(-43.54003,172.69693)
+[END]
+
+;1188515
+[POI]
+Type=0x2b03
+Label=OKIWI BAT CAMP (DOC)
+StreetDesc=South Island > Marlborough > South Marlborough/ DOC camping camp area
+Data0=(-42.21641,173.85975)
+[END]
+
+;1188516
+[POI]
+Type=0x2b03
+Label=PUHI PUHI CAMP (DOC)
+StreetDesc=1777 Te Towaka-Port Ligar Rd, Port Ligar 7193, New Zealand - South Island > Marl
+Data0=(-42.27013,173.73766)
 [END]
 

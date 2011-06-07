@@ -40568,7 +40568,7 @@ Data0=(-43.39290,172.65259)
 [POI]
 Type=0x2b03
 Label=BOUNDARY CREEK RESERVE CAMPING AREA (DOC)
-StreetDesc=S H 6, Makarora/ DOC conservation campsite. Accommodation, camping, tent sites, 
+StreetDesc=S H 6, Makarora - South Island > Otago > Wanaka/Makarora/ DOC conservation camps
 Data0=(-44.35176,169.16815)
 [END]
 
@@ -70126,7 +70126,7 @@ Data0=(-42.39556,172.95511)
 [POI]
 Type=0x2b03
 Label=AHURIRI BRIDGE CAMPSITE (DOC)
-StreetDesc=Lower Ahuriri Riverbed Conservation Area, Twizel Te Manahuna/ DOC conservation c
+StreetDesc=Lower Ahuriri Riverbed Conservation Area, Twizel Te Manahuna - South Island > Ca
 Data0=(-44.46797,169.98796)
 [END]
 
@@ -70134,7 +70134,7 @@ Data0=(-44.46797,169.98796)
 [POI]
 Type=0x2b03
 Label=ANDREWS SHELTER CAMPING AREA (DOC)
-StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC conservation campsite. Accommodation, c
+StreetDesc=Arthur's Pass Ntl Park, Waimakariri - South Island > Canterbury > MNorth Canterb
 Data0=(-42.99399,171.79291)
 [END]
 
@@ -70150,7 +70150,7 @@ Data0=(-41.27235,173.92875)
 [POI]
 Type=0x2b03
 Label=AVALANCHE CREEK CAMPING / AMENITY AREA (DOC)
-StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC conservation campsite. Accommodation, c
+StreetDesc=Arthur's Pass Ntl Park, Waimakariri - South Island > Canterbury > North Canterbu
 Data0=(-42.94054,171.56226)
 [END]
 
@@ -70190,7 +70190,7 @@ Data0=(-41.37631,173.59428)
 [POI]
 Type=0x2b03
 Label=CAMERON FLAT CAMPING AREA (DOC)
-StreetDesc=Mount Aspiring Ntl Park, Wanaka/ DOC conservation campsite. Accommodation, campi
+StreetDesc=Mount Aspiring Ntl Park, Wanaka - South Island > Otago > Wanaka/Makarora/ DOC co
 Data0=(-44.16118,169.28720)
 [END]
 
@@ -70222,7 +70222,7 @@ Data0=(-41.07647,174.25089)
 [POI]
 Type=0x2b03
 Label=CASCADE CREEK CAMPING AREA (DOC)
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC conservation campsite. Accommodation, camping
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland/ DOC conservation campsit
 Data0=(-44.89555,168.07785)
 [END]
 
@@ -70262,7 +70262,7 @@ Data0=(-41.20175,174.03252)
 [POI]
 Type=0x2b03
 Label=CRAIGIEBURN CAMPING AREA (DOC)
-StreetDesc=Craigieburn Conservation Park, Waimakariri/ DOC conservation campsite. Accommoda
+StreetDesc=Craigieburn Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-43.15185,171.73139)
 [END]
 
@@ -70270,7 +70270,7 @@ Data0=(-43.15185,171.73139)
 [POI]
 Type=0x2b03
 Label=DEER FLAT CAMPING AREA (DOC)
-StreetDesc=Te Anau Milford Highway, Fiordland Ntl Park/ DOC conservation campsite. Accommod
+StreetDesc=Te Anau Milford Highway, Fiordland Ntl Park - South Island > Fiordland/ DOC cons
 Data0=(-45.00040,168.00805)
 [END]
 
@@ -70278,7 +70278,7 @@ Data0=(-45.00040,168.00805)
 [POI]
 Type=0x2b03
 Label=?DEER VALLEY CAMPING AREA (DOC)
-StreetDesc=Lewis Pass Scenic Reserve (Ntl Reserve), Waimakariri/ DOC conservation campsite.
+StreetDesc=Lewis Pass Scenic Reserve (Ntl Reserve), Waimakariri - South Island > Canterbury
 Data0=(-42.40486,172.39770)
 [END]
 
@@ -70310,7 +70310,7 @@ Data0=(-44.71011,169.50233)
 [POI]
 Type=0x2b03
 Label=?GILLESPIES BEACH CAMPING AREA (DOC)
-StreetDesc=Stewardship Land, South Westland/ DOC conservation campsite. Accommodation, camp
+StreetDesc=Stewardship Land, South Westland - South Island > West Coast > Glaciers area/ DO
 Data0=(-43.40810,169.82861)
 [END]
 
@@ -70318,7 +70318,7 @@ Data0=(-43.40810,169.82861)
 [POI]
 Type=0x2b03
 Label=?GLENCOE CAMPSITE (DOC)
-StreetDesc=Glencoe Scenic Reserve, Coastal Otago/ DOC conservation campsite. Accommodation,
+StreetDesc=Glencoe Scenic Reserve - South Island > Otago > Coastal Otago/ DOC conservation 
 Data0=(-45.22806,170.75700)
 [END]
 
@@ -70326,7 +70326,7 @@ Data0=(-45.22806,170.75700)
 [POI]
 Type=0x2b03
 Label=GOLDSBOROUGH CAMPING AREA (DOC)
-StreetDesc=Shamrock Creek Amenity Area, Hokitika/ DOC conservation campsite. Accommodation,
+StreetDesc=Shamrock Creek Amenity Area - South Island > West Coast > Hokitika/ DOC conserva
 Data0=(-42.67537,171.12404)
 [END]
 
@@ -70334,7 +70334,7 @@ Data0=(-42.67537,171.12404)
 [POI]
 Type=0x2b03
 Label=?GREY RIVER CAMPSITE (DOC)
-StreetDesc=Ashley Forest, Waimakariri/ DOC conservation campsite. Accommodation, camping
+StreetDesc=Ashley Forest, Waimakariri - South Island > Canterbury > North Canterbury & Arth
 Data0=(-43.14775,172.52902)
 [END]
 
@@ -70342,7 +70342,7 @@ Data0=(-43.14775,172.52902)
 [POI]
 Type=0x2b03
 Label=GREYNEY SHELTER CAMPING AREA (DOC)
-StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC conservation campsite. Accommodation, c
+StreetDesc=Arthur's Pass Ntl Park, Waimakariri - South Island > Canterbury > North Canterbu
 Data0=(-42.98424,171.59028)
 [END]
 
@@ -70350,7 +70350,7 @@ Data0=(-42.98424,171.59028)
 [POI]
 Type=0x2b03
 Label=HANS BAY CAMPSITE (DOC)
-StreetDesc=L Kaniere Scenic Reserve, Hokitika/ DOC conservation campsite. Accommodation, ca
+StreetDesc=L Kaniere Scenic Reserve - South Island > West Coast > Hokitika/ DOC conservatio
 Data0=(-42.80873,171.15568)
 [END]
 
@@ -70366,7 +70366,7 @@ Data0=(-41.12332,173.74087)
 [POI]
 Type=0x2b03
 Label=HAWDON VALLEY CAMPSITE (DOC)
-StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC conservation campsite. Accommodation, c
+StreetDesc=Arthur's Pass Ntl Park, Waimakariri - South Island > Canterbury > North Canterbu
 Data0=(-42.98818,171.74781)
 [END]
 
@@ -70374,7 +70374,7 @@ Data0=(-42.98818,171.74781)
 [POI]
 Type=0x2b03
 Label=HENRY CREEK CAMPING AREA (DOC)
-StreetDesc=SH 94, Lake Te Anau/ DOC conservation campsite. Accommodation, camping
+StreetDesc=SH 94, Lake Te Anau - South Island > Fiordland/ DOC conservation campsite. Accom
 Data0=(-45.23202,167.81177)
 [END]
 
@@ -70414,7 +70414,7 @@ Data0=(-41.80599,172.84735)
 [POI]
 Type=0x2b03
 Label=KIDDS BUSH RESERVE CAMPING AREA (DOC)
-StreetDesc=Hawea Recreation Reserve, Wanaka/ DOC conservation campsite. Accommodation, camp
+StreetDesc=Hawea Recreation Reserve, Wanaka - South Island > Otago > Wanaka/Makarora/ DOC c
 Data0=(-44.44087,169.26166)
 [END]
 
@@ -70422,7 +70422,7 @@ Data0=(-44.44087,169.26166)
 [POI]
 Type=0x2b03
 Label=?KINLOCH CAMPING AREA (DOC)
-StreetDesc=Kinloch Foreshore Recreation Reserve, Wakatipu/ DOC conservation campsite. Accom
+StreetDesc=Kinloch Foreshore Recreation Reserve, Wakatipu - South Island > Otago > Queensto
 Data0=(-44.84346,168.35073)
 [END]
 
@@ -70430,7 +70430,7 @@ Data0=(-44.84346,168.35073)
 [POI]
 Type=0x2b03
 Label=KIOSK CREEK CAMPING AREA (DOC)
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC conservation campsite. Accommodation, camping
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland/ DOC conservation campsit
 Data0=(-44.97415,168.01812)
 [END]
 
@@ -70438,7 +70438,7 @@ Data0=(-44.97415,168.01812)
 [POI]
 Type=0x2b03
 Label=KLONDYKE CORNER CAMPING AREA (DOC)
-StreetDesc=Arthur's Pass Ntl Park, Waimakariri/ DOC conservation campsite. Accommodation, c
+StreetDesc=Arthur's Pass Ntl Park, Waimakariri - South Island > Canterbury > North Canterbu
 Data0=(-43.00210,171.58953)
 [END]
 
@@ -70446,7 +70446,7 @@ Data0=(-43.00210,171.58953)
 [POI]
 Type=0x2b03
 Label=?KOHAIHAI CAMPING AREA (DOC)
-StreetDesc=Kahurangi Ntl Park, Buller/ DOC conservation campsite. Accommodation, camping
+StreetDesc=Kahurangi Ntl Park - South Island > West Coast > Buller area/ DOC conservation c
 Data0=(-41.10955,172.10250)
 [END]
 
@@ -70462,23 +70462,15 @@ Data0=(-41.71218,173.11299)
 [POI]
 Type=0x2b03
 Label=LAKE GUNN CAMPING AREA (DOC)
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC conservation campsite. Accommodation, camping
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland/ DOC conservation campsit
 Data0=(-44.85837,168.10113)
-[END]
-
-;1116581
-[POI]
-Type=0x2b03
-Label=LAKE IANTHE CAMPSITE (DOC)
-StreetDesc=Lake ianthe Scenic Reserve, SH 6, Harihari Highway/ DOC conservation campsite. A
-Data0=(-43.06025,170.63394)
 [END]
 
 ;1116582
 [POI]
 Type=0x2b03
 Label=LAKE MAHINAPUA CAMPING AREA (DOC)
-StreetDesc=L Mahinapua Scenic Reserve, Hokitika/ DOC conservation campsite. Accommodation, 
+StreetDesc=L Mahinapua Scenic Reserve - South Island > West Coast > Hokitika/ DOC conservat
 Data0=(-42.79489,170.90131)
 [END]
 
@@ -70486,7 +70478,7 @@ Data0=(-42.79489,170.90131)
 [POI]
 Type=0x2b03
 Label=LAKE PARINGA CAMPING AREA (DOC)
-StreetDesc=Haast Highway, Lake Paringa/ DOC conservation campsite. Accommodation, camping
+StreetDesc=Haast Highway, Lake Paringa - South Island > West Coast > South Westland/ DOC co
 Data0=(-43.72167,169.41167)
 [END]
 
@@ -70494,7 +70486,7 @@ Data0=(-43.72167,169.41167)
 [POI]
 Type=0x2b03
 Label=LAKE PEARSON (MOANA RUA) CAMPING AREA (DOC)
-StreetDesc=Lake Pearson Conservation Area, Waimakariri/ DOC conservation campsite. Accommod
+StreetDesc=Lake Pearson Conservation Area, Waimakariri - South Island > Canterbury > North 
 Data0=(-43.09373,171.78062)
 [END]
 
@@ -70510,7 +70502,7 @@ Data0=(-41.79408,172.59785)
 [POI]
 Type=0x2b03
 Label=?LAKE TAYLOR CAMPING AREA (DOC)
-StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC conservation campsite. Accommoda
+StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-42.77535,172.24959)
 [END]
 
@@ -70526,7 +70518,7 @@ Data0=(-42.21126,172.73962)
 [POI]
 Type=0x2b03
 Label=?LOCH KATRINE CAMPING AREA (DOC)
-StreetDesc=Loch Katrine Recreation Reserve, Waimakariri/ DOC conservation campsite. Accommo
+StreetDesc=Loch Katrine Recreation Reserve, Waimakariri - South Island > Canterbury > North
 Data0=(-42.72374,172.20626)
 [END]
 
@@ -70534,7 +70526,7 @@ Data0=(-42.72374,172.20626)
 [POI]
 Type=0x2b03
 Label=LYELL CAMPING AREA (DOC)
-StreetDesc=Upper Buller Gorge Scenic Reserve, Buller/ DOC conservation campsite. Camping
+StreetDesc=Upper Buller Gorge Scenic Reserve - South Island > West Coast > Buller area/ DOC
 Data0=(-41.79667,172.04884)
 [END]
 
@@ -70542,7 +70534,7 @@ Data0=(-41.79667,172.04884)
 [POI]
 Type=0x2b03
 Label=?MACKAY CREEK CAMPING AREA (DOC)
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC conservation campsite. Accommodation, camping
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland/ DOC conservation campsit
 Data0=(-45.06550,167.99081)
 [END]
 
@@ -70550,23 +70542,23 @@ Data0=(-45.06550,167.99081)
 [POI]
 Type=0x2b03
 Label=MARBLE HILL CAMPING AREA (DOC)
-StreetDesc=Lewis Pass Scenic Reserve (Ntl Reserve), Greymouth/ DOC conservation campsite. A
+StreetDesc=Lewis Pass Scenic Reserve (Ntl Reserve) - South Island > West Coast > Greymouth/
 Data0=(-42.35104,172.22171)
 [END]
 
 ;1116602
 [POI]
 Type=0x2b03
-Label=?MARFELLS BEACH CAMPING AREA (DOC)
-StreetDesc=MArfells Beach Recreation Reserve - South Island > Marlborough > South Marlborou
-Data0=(-41.72548,174.20444)
+Label=MARFELLS BEACH CAMPING AREA (DOC)
+StreetDesc=Marfells Beach Recreation Reserve - South Island > Marlborough > South Marlborou
+Data0=(-41.72545,174.20494)
 [END]
 
 ;1116603
 [POI]
 Type=0x2b03
 Label=MAVORA LAKES CAMPING AREA (DOC)
-StreetDesc=Mavora Park Conservation Area, Te Anau/ DOC conservation campsite. Accommodation
+StreetDesc=Mavora Park Conservation Area, Te Anau - South Island > Southland/ DOC conservat
 Data0=(-45.26832,168.17629)
 [END]
 
@@ -70590,7 +70582,7 @@ Data0=(-41.22427,173.97221)
 [POI]
 Type=0x2b03
 Label=?MOKE LAKE CAMPING AREA (DOC)
-StreetDesc=Moke Lake Recreation Reserve, Wakatipu/ DOC conservation campsite. Accommodation
+StreetDesc=Moke Lake Recreation Reserve, Wakatipu - South Island > Otago > Queenstown/Wakat
 Data0=(-44.99830,168.57592)
 [END]
 
@@ -70614,7 +70606,7 @@ Data0=(-41.27047,173.94065)
 [POI]
 Type=0x2b03
 Label=MONOWAI CAMPING AREA (DOC)
-StreetDesc=Legal Rd adjacent to Fiordland Ntl Park, Murihiku/ DOC conservation campsite. Ac
+StreetDesc=Legal Rd adjacent to Fiordland Ntl Park, Murihiku - South Island > Fiordland/ DO
 Data0=(-45.81247,167.51935)
 [END]
 
@@ -70630,7 +70622,7 @@ Data0=(-41.26032,173.85459)
 [POI]
 Type=0x2b03
 Label=?MT NIMROD CAMPING AREA (DOC)
-StreetDesc=Mt Nimrod Scenic Reserve, Raukapuka/ DOC conservation campsite. Accommodation, c
+StreetDesc=Mt Nimrod Scenic Reserve, Raukapuka - South Island > Canterbury > Mid & South Ca
 Data0=(-44.43262,170.87229)
 [END]
 
@@ -70662,7 +70654,7 @@ Data0=(-41.45853,173.70634)
 [POI]
 Type=0x2b03
 Label=ORARI GORGE CAMPING AREA (DOC)
-StreetDesc=Orari Gorge Scenic Reserve, Raukapuka/ DOC conservation campsite. Accommodation,
+StreetDesc=Orari Gorge Scenic Reserve, Raukapuka - South Island > Canterbury > Mid & South 
 Data0=(-43.98766,171.18388)
 [END]
 
@@ -70670,7 +70662,7 @@ Data0=(-43.98766,171.18388)
 [POI]
 Type=0x2b03
 Label=OTAIO GORGE CAMPING AREA (DOC)
-StreetDesc=Otaio Scenic Reserve, Raukapuka/ DOC conservation campsite. Accommodation, campi
+StreetDesc=Otaio Scenic Reserve, Raukapuka - South Island > Canterbury > Mid & South Canter
 Data0=(-44.52311,170.92903)
 [END]
 
@@ -70678,7 +70670,7 @@ Data0=(-44.52311,170.92903)
 [POI]
 Type=0x2b03
 Label=?OTTOS / MACDONALDS CAMPSITE (DOC)
-StreetDesc=SH 6, Lake Mapourika, Westland Ntl Park/ DOC conservation campsite. Accommodatio
+StreetDesc=SH 6, Lake Mapourika, Westland Ntl Park - South Island > West Coast > Glaciers a
 Data0=(-43.29866,170.22521)
 [END]
 
@@ -70695,7 +70687,7 @@ Data0=(-46.55718,169.46979)
 [POI]
 Type=0x2b03
 Label=PEEL FOREST CAMPING AREA (DOC)
-StreetDesc=Rangitata Gorge Rd, Peel Forest Park Scenic Reserve/ DOC conservation campsite. 
+StreetDesc=Rangitata Gorge Rd, Peel Forest Park Scenic Reserve - South Island > Canterbury 
 Phone=+6436963567
 Data0=(-43.89001,171.26617)
 [END]
@@ -70712,7 +70704,7 @@ Data0=(-41.29952,173.57165)
 [POI]
 Type=0x2b03
 Label=PIANO FLAT CAMPING AREA (DOC)
-StreetDesc=Waikaia River, Piano Flat Conservation Area, Murihiku/ DOC conservation campsite
+StreetDesc=Waikaia River, Piano Flat Conservation Area, Murihiku - South Island > Southland
 Data0=(-45.56107,169.01560)
 [END]
 
@@ -70728,7 +70720,7 @@ Data0=(-41.19481,174.04570)
 [POI]
 Type=0x2b03
 Label=?PIONEER PARK CAMPING AREA (DOC)
-StreetDesc=Pioneer Park CA, Raukapuka/ DOC conservation campsite. Accommodation, camping
+StreetDesc=Pioneer Park CA, Raukapuka - South Island > Canterbury > Mid & South Canterbury/
 Data0=(-44.13974,170.95643)
 [END]
 
@@ -70736,7 +70728,7 @@ Data0=(-44.13974,170.95643)
 [POI]
 Type=0x2b03
 Label=PLEASANT FLAT CAMPING AREA (DOC)
-StreetDesc=Haast Pass Highway, Mount Aspiring Ntl Park/ DOC conservation campsite. Accommod
+StreetDesc=Haast Pass Highway, Mount Aspiring Ntl Park - South Island > Otago > Wanaka/Maka
 Data0=(-44.01194,169.38184)
 [END]
 
@@ -70744,7 +70736,7 @@ Data0=(-44.01194,169.38184)
 [POI]
 Type=0x2b03
 Label=PURAKAUNUI BAY CAMPING AREA (DOC)
-StreetDesc=Purakaunui Bay Scenic Reserve, Coastal Otago/ DOC conservation campsite. Accommo
+StreetDesc=Purakaunui Bay Scenic Reserve - South Island > Otago > Coastal Otago/ DOC conser
 Data0=(-46.54289,169.60925)
 [END]
 
@@ -70792,7 +70784,7 @@ Data0=(-41.44277,172.58368)
 [POI]
 Type=0x2b03
 Label=?SKIPPERS MT AURUM CAMPING AREA (DOC)
-StreetDesc=Mt Aurum Recreation Reserve, Wakatipu/ DOC conservation campsite. Accommodation,
+StreetDesc=Mt Aurum Recreation Reserve, Wakatipu - South Island > Otago > Queenstown/Wakati
 Data0=(-44.84268,168.68112)
 [END]
 
@@ -70800,7 +70792,7 @@ Data0=(-44.84268,168.68112)
 [POI]
 Type=0x2b03
 Label=SLAB HUT CREEK CAMPING AREA (DOC)
-StreetDesc=Slab Hut Pakihi Ecological Area, Greymouth/ DOC conservation campsite. Accommoda
+StreetDesc=Slab Hut Pakihi Ecological Area - South Island > West Coast > Greymouth/ DOC con
 Data0=(-42.15646,171.79243)
 [END]
 
@@ -70808,7 +70800,7 @@ Data0=(-42.15646,171.79243)
 [POI]
 Type=0x2b03
 Label=SMITHY CREEK CAMPING AREA (DOC)
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC conservation campsite. Accommodation, camping
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland/ DOC conservation campsit
 Data0=(-44.95748,168.01832)
 [END]
 
@@ -70816,7 +70808,7 @@ Data0=(-44.95748,168.01832)
 [POI]
 Type=0x2b03
 Label=ST BATHANS DOMAIN CAMPSITE (DOC)
-StreetDesc=Off SH85, north east of Alexandra/ DOC conservation campsite. Accommodation, cam
+StreetDesc=Off SH85, north east of Alexandra - South Island > Otago > Central Otago/ DOC co
 Data0=(-44.86582,169.79997)
 [END]
 
@@ -70824,7 +70816,7 @@ Data0=(-44.86582,169.79997)
 [POI]
 Type=0x2b03
 Label=SYLVAN CAMPSITE (DOC)
-StreetDesc=Routeburn Rd, Mount Aspiring Ntl Park, Wakatipu/ DOC conservation campsite. Acco
+StreetDesc=Routeburn Rd, Mount Aspiring Ntl Park, Wakatipu - South Island > Otago > Queenst
 Data0=(-44.73092,168.31035)
 [END]
 
@@ -70832,7 +70824,7 @@ Data0=(-44.73092,168.31035)
 [POI]
 Type=0x2b03
 Label=?TAWANUI CAMPING AREA (DOC)
-StreetDesc=Catlins Conservation Park, Coastal Otago/ DOC conservation campsite. Accommodati
+StreetDesc=Catlins Conservation Park, Coastal Otago - South Island > Otago > Coastal Otago/
 zip=$5/night
 Data0=(-46.45755,169.49226)
 [END]
@@ -70841,7 +70833,7 @@ Data0=(-46.45755,169.49226)
 [POI]
 Type=0x2b03
 Label=TEMPLE FOREST CAMPSITE (DOC)
-StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna/ DOC conservation campsite. Acc
+StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna - South Island > Canterbury > M
 Data0=(-44.10720,169.81891)
 [END]
 
@@ -70849,7 +70841,7 @@ Data0=(-44.10720,169.81891)
 [POI]
 Type=0x2b03
 Label=THICKET BURN CAMPSITE (DOC)
-StreetDesc=Fiordland Ntl Park, Murihiku/ DOC conservation campsite. Accommodation, camping
+StreetDesc=Fiordland Ntl Park, Murihiku - South Island > Southland/ DOC conservation campsi
 Data0=(-46.00884,167.45550)
 [END]
 
@@ -70857,7 +70849,7 @@ Data0=(-46.00884,167.45550)
 [POI]
 Type=0x2b03
 Label=TOTARA CAMPING AREA (DOC)
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC conservation campsite. Accommodation, camping
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland/ DOC conservation campsit
 Data0=(-45.07606,167.98481)
 [END]
 
@@ -70873,7 +70865,7 @@ Data0=(-40.81879,173.00458)
 [POI]
 Type=0x2b03
 Label=TWELVE MILE DELTA CAMPSITE (DOC)
-StreetDesc=Twelve Mile Delta Recreation Reserve, Wakatipu/ DOC conservation campsite. Accom
+StreetDesc=Twelve Mile Delta Recreation Reserve, Wakatipu - South Island > Otago > Queensto
 Data0=(-45.06747,168.54650)
 [END]
 
@@ -70881,7 +70873,7 @@ Data0=(-45.06747,168.54650)
 [POI]
 Type=0x2b03
 Label=?UPPER EGLINTON CAMPING AREA (DOC)
-StreetDesc=Fiordland Ntl Park, Te Anau/ DOC conservation campsite. Accommodation, camping
+StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland/ DOC conservation campsit
 Data0=(-44.92753,168.03186)
 [END]
 
@@ -70889,7 +70881,7 @@ Data0=(-44.92753,168.03186)
 [POI]
 Type=0x2b03
 Label=WAIHI GORGE CAMPING AREA (DOC)
-StreetDesc=Waihi Gorge Scenic Reserve, Raukapuka/ DOC conservation campsite. Accommodation,
+StreetDesc=Waihi Gorge Scenic Reserve, Raukapuka - South Island > Canterbury > Mid & South 
 Data0=(-44.00374,171.15553)
 [END]
 
@@ -70905,7 +70897,7 @@ Data0=(-41.07070,174.02473)
 [POI]
 Type=0x2b03
 Label=WALKER CREEK CAMPING AREA (DOC)
-StreetDesc=Te Anau Milford Highway, Fiordland Ntl Park/ DOC conservation campsite. Accommod
+StreetDesc=Te Anau Milford Highway, Fiordland Ntl Park - South Island > Fiordland/ DOC cons
 Data0=(-45.10128,167.96752)
 [END]
 
@@ -70937,7 +70929,7 @@ Data0=(-41.26928,174.07553)
 [POI]
 Type=0x2b03
 Label=WHITE HORSE HILL CAMPING AREA (DOC)
-StreetDesc=Hooker Valley Rd, Aoraki/Mount Cook Ntl Park/ DOC conservation campsite. Accommo
+StreetDesc=Hooker Valley Rd, Aoraki/Mount Cook Ntl Park - South Island > Canterbury > Aorak
 Data0=(-43.71877,170.09332)
 [END]
 
@@ -70953,7 +70945,7 @@ Data0=(-41.38292,174.05706)
 [POI]
 Type=0x2b03
 Label=?WOODED GULLY CAMPING AREA (DOC)
-StreetDesc=Mt Thomas Forest, Waimakariri/ DOC conservation campsite. Accommodation, camping
+StreetDesc=Mt Thomas Forest, Waimakariri - South Island > Canterbury > North Canterbury & A
 Data0=(-43.19359,172.33550)
 [END]
 
@@ -162004,10 +161996,10 @@ Data0=(-45.87492,170.49770)
 ;1159922
 [POI]
 Type=0x2b00
-Label=?THE BROWN PUB, MT HUTT VILLAGE, METHVEN
+Label=THE BROWN PUB, MT HUTT VILLAGE, METHVEN
 StreetDesc=Cnr Main St & Forest Dr, Methven/ A true kiwi country pub with a warm, friendly 
 Phone=+33028045
-Data0=(-43.63002,171.64048)
+Data0=(-43.63244,171.64681)
 [END]
 
 ;1159925
@@ -162879,9 +162871,9 @@ Data0=(-41.17917,173.55892)
 ;1160305
 [POI]
 Type=0x4a00
-Label=WHANGAMOA REST AREA
-StreetDesc=State Highway 6, Whangamoa, Marlborough/ Rest area
-Data0=(-41.22279,173.43514)
+Label=HIRA REST AREA
+StreetDesc=State Highway 6, Whangamoa, Nelson/ Rest Area
+Data0=(-41.22723,173.40825)
 [END]
 
 ;1160306
@@ -191161,7 +191153,7 @@ Data0=(-41.19000,173.97200)
 [POI]
 Type=0x2b03
 Label=HOMESTEAD CAMPSITE (DOC)
-StreetDesc=Hawkdun Runs Rd, Oteake Conservation Area/ DOC conservation campsite. Tent sites
+StreetDesc=Hawkdun Runs Rd, Oteake Conservation Area - South Island > Otago > Central Otago
 Data0=(-44.77600,169.89000)
 [END]
 
@@ -191193,7 +191185,7 @@ Data0=(-40.89100,173.86100)
 [POI]
 Type=0x2b03
 Label=?MACETOWN CAMPSITE (DOC)
-StreetDesc=Macetown Historic Reserve, 15 km up the Arrow River from Arrowtown./ DOC conserv
+StreetDesc=Macetown Historic Reserve, 15 km up the Arrow River from Arrowtown - South Islan
 Data0=(-44.86700,168.82100)
 [END]
 
@@ -191257,7 +191249,7 @@ Data0=(-41.07100,173.82500)
 [POI]
 Type=0x2b03
 Label=?TROTTERS GORGE CAMPSITE (DOC)
-StreetDesc=Horse Range Rd, Trotters George Scenic Reserve/ DOC conservation campsite. Tent 
+StreetDesc=Horse Range Rd, Trotters George Scenic Reserve - South Island > Otago > Coastal 
 Data0=(-45.40400,170.78200)
 [END]
 
@@ -206035,5 +206027,71 @@ Type=0x2b03
 Label=PUHI PUHI CAMP (DOC)
 StreetDesc=1777 Te Towaka-Port Ligar Rd, Port Ligar 7193, New Zealand - South Island > Marl
 Data0=(-42.27013,173.73766)
+[END]
+
+;1188522
+[POI]
+Type=0x4a00
+Label=MAYFIELD REST AREA
+StreetDesc=SH72 beside river/ Rest Area
+Data0=(-43.80936,171.43066)
+[END]
+
+;1188523
+[POI]
+Type=0x4a00
+Label=STAVELEY REST AREA
+StreetDesc=SH72 between Mt Somers & Staveley/ Rest Area
+Data0=(-43.68469,171.44538)
+[END]
+
+;1188527
+[POI]
+Type=0x4a00
+Label=UPPER OPUHA RIVER REST AREA
+StreetDesc=SH79 between Fairlie & Geraldine/ Rest Area
+Data0=(-44.08043,170.97733)
+[END]
+
+;1188530
+[POI]
+Type=0x4a00
+Label=MT LEANS REST AREA
+StreetDesc=Motueka Valley Highway/ Rest Area
+Data0=(-41.28860,172.80733)
+[END]
+
+;1188531
+[POI]
+Type=0x4a00
+Label=WHANGAMOA REST AREA
+StreetDesc=SH6/ Rest Area
+Data0=(-41.18582,173.48709)
+[END]
+
+;1188532
+[POI]
+Type=0x2b03
+Label=LAKE IANTHE MATAHI CAMPSITE (DOC)
+StreetDesc=3062 Harihari Hwy, Harihari 7884, New Zealand - South Island > West Coast > Glac
+Data0=(-43.05972,170.63401)
+[END]
+
+;1188536
+[POI]
+Type=0x2a
+Label=THE LAKEHOUSE RESTAURANT & BAR
+StreetDesc=Huntingdon Ave, Lake Hood, Ashburton/ Restaurant & Bar
+Phone=+6433026064
+zip=10 am till late
+Data0=(-43.96553,171.77040)
+[END]
+
+;1188539
+[POI]
+Type=0x4a00
+Label=BURKES PASS REST AREA
+StreetDesc=SH8 Burkes Pass/ Rest Area
+Data0=(-44.09022,170.59954)
 [END]
 

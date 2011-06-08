@@ -41224,7 +41224,7 @@ Data0=(-43.52518,172.63640)
 Type=0x2f
 Label=ADVANCED FIBREGLASS 2008 LTD - CARBONFIBRE & EPOXY FACTORY DUNEDIN
 StreetDesc=36 Orari St, South Dud, Dud 9012/ Advanced Fibreglass Dunedin - Fiberglass, grp,
-Phone=+6434884191
+Phone=+6434551454
 zip=8.00am - 4.30pm Monday-Friday or by appo
 Data0=(-45.88889,170.50811)
 [END]
@@ -71936,9 +71936,9 @@ Data0=(-43.50823,170.23410)
 ;1116858
 [POI]
 Type=0x2f
-Label=?CES CLARK HUT
+Label=CES CLARK HUT
 StreetDesc=Roaring Meg Ecological Area - South Island > West Coast > Greymouth/ DOC Backcou
-Data0=(-42.29376,171.39186)
+Data0=(-42.29380,171.39198)
 [END]
 
 ;1116859
@@ -72144,9 +72144,9 @@ Data0=(-43.92295,169.68922)
 ;1116887
 [POI]
 Type=0x2f
-Label=?CROESUS TOP HUT
+Label=CROESUS TOP HUT
 StreetDesc=Roaring Meg Ecological Area - South Island > West Coast > Greymouth/ DOC Backcou
-Data0=(-42.29346,171.39183)
+Data0=(-42.29352,171.39184)
 [END]
 
 ;1116888
@@ -72280,9 +72280,9 @@ Data0=(-42.48784,172.29407)
 ;1116909
 [POI]
 Type=0x2f
-Label=?DICKIE SPUR HUT
+Label=DICKIE SPUR HUT
 StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
-Data0=(-43.05855,170.86732)
+Data0=(-43.05874,170.86980)
 [END]
 
 ;1116911
@@ -72536,9 +72536,9 @@ Data0=(-43.25854,171.03664)
 ;1116949
 [POI]
 Type=0x2f
-Label=?EXPLORER HUT
+Label=EXPLORER HUT
 StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
-Data0=(-43.00306,170.93427)
+Data0=(-43.00364,170.93477)
 [END]
 
 ;1116950
@@ -72960,9 +72960,9 @@ Data0=(-42.12206,173.70011)
 ;1117012
 [POI]
 Type=0x2f
-Label=?HEALEY CREEK HUT
+Label=HEALEY CREEK HUT
 StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
-Data0=(-43.04866,170.91149)
+Data0=(-43.05019,170.91114)
 [END]
 
 ;1117013
@@ -73456,9 +73456,9 @@ Data0=(-45.35521,168.09060)
 ;1117098
 [POI]
 Type=0x2f
-Label=?KIWI FLAT HUT
+Label=KIWI FLAT HUT
 StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
-Data0=(-43.13547,170.74660)
+Data0=(-43.13547,170.74650)
 [END]
 
 ;1117099
@@ -74208,9 +74208,9 @@ Data0=(-43.02358,170.87467)
 ;1117244
 [POI]
 Type=0x2f
-Label=?MIKONUI SPUR BIVVY
+Label=MIKONUI SPUR BIVVY
 StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
-Data0=(-43.02777,170.93697)
+Data0=(-43.02936,170.93681)
 [END]
 
 ;1117245
@@ -74296,9 +74296,9 @@ Data0=(-44.02399,169.81244)
 ;1117257
 [POI]
 Type=0x2f
-Label=?MOONBEAM HUT
+Label=MOONBEAM HUT
 StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
-Data0=(-43.13874,170.80772)
+Data0=(-43.14036,170.80789)
 [END]
 
 ;1117258
@@ -74760,9 +74760,9 @@ Data0=(-43.03561,171.15165)
 ;1117354
 [POI]
 Type=0x2f
-Label=?POLLUCK CREEK HUT
+Label=POLLUCK CREEK HUT
 StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
-Data0=(-43.06402,170.82292)
+Data0=(-43.06341,170.82185)
 [END]
 
 ;1117355
@@ -74840,17 +74840,17 @@ Data0=(-43.13100,170.96365)
 ;1117369
 [POI]
 Type=0x2f
-Label=?PRICE FLAT HUT
+Label=PRICE FLAT HUT
 StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
-Data0=(-43.11060,171.00683)
+Data0=(-43.11014,171.00743)
 [END]
 
 ;1117370
 [POI]
 Type=0x2f
-Label=?PRICE FLAT HUT (HISTORIC)
+Label=PRICE FLAT HUT (HISTORIC)
 StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
-Data0=(-43.10658,171.00604)
+Data0=(-43.10840,171.00600)
 [END]
 
 ;1117371
@@ -74880,9 +74880,9 @@ Data0=(-42.85590,171.89655)
 ;1117379
 [POI]
 Type=0x2f
-Label=?RAPID CREEK HUT
+Label=RAPID CREEK HUT
 StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
-Data0=(-43.01146,171.01116)
+Data0=(-43.01148,171.01110)
 [END]
 
 ;1117381
@@ -75352,9 +75352,9 @@ Data0=(-43.41697,170.68305)
 ;1117457
 [POI]
 Type=0x2f
-Label=?STAFFORD HUT
+Label=STAFFORD HUT
 StreetDesc=Stewardship Land - South Island > West Coast > South Westland/ DOC Backcountry h
-Data0=(-43.99617,168.54514)
+Data0=(-43.99623,168.54512)
 [END]
 
 ;1117458
@@ -75704,9 +75704,9 @@ Data0=(-42.69980,171.83281)
 ;1117537
 [POI]
 Type=0x2f
-Label=?TOP TUKE HUT
+Label=TOP TUKE HUT
 StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
-Data0=(-43.08818,170.88949)
+Data0=(-43.08982,170.88949)
 [END]
 
 ;1117538
@@ -108693,7 +108693,7 @@ Data0=(-43.41880,172.65249)
 [POI]
 Type=0x2f
 Label=THE CHINA KITCHEN
-StreetDesc=147 Hereford St, Chc/ 
+StreetDesc=147 Hereford St, Chc/ Fresh authentic Chinese cuisine. Dine-in or take away. One
 Data0=(-43.53190,172.63807)
 [END]
 
@@ -182197,9 +182197,9 @@ Data0=(-43.51039,172.54990)
 ;1171276
 [POI]
 Type=0x4b00
-Label=?ST JOHN AKAROA
+Label=ST JOHN AKAROA
 StreetDesc=Beach Rd & Rue Jolie, Akaroa/ Ambulance station
-Data0=(-43.81240,172.95761)
+Data0=(-43.80842,172.96463)
 [END]
 
 ;1171277
@@ -206093,5 +206093,31 @@ Type=0x4a00
 Label=BURKES PASS REST AREA
 StreetDesc=SH8 Burkes Pass/ Rest Area
 Data0=(-44.09022,170.59954)
+[END]
+
+;1188546
+[POI]
+Type=0x2f
+Label=MULFORD PLASTICS (NZ) LTD
+StreetDesc=18 Sonter Rd, Sockburn, Chc/ plastic sheet, plastic film, plastic rollroll
+Phone=+6433437950
+Data0=(-43.54716,172.56991)
+[END]
+
+;1188547
+[POI]
+Type=0x2f
+Label=ROAR DESIGN
+StreetDesc=12 Baker St, Weston, Oamaru/ Web Design, Web Designer, Graphic Designer, Print D
+Phone=+6422447627
+Data0=(-45.08093,170.91713)
+[END]
+
+;1188548
+[POI]
+Type=0x4a00
+Label=ALBURY REST AREA
+StreetDesc=SH8 West of albury/ Rest Area
+Data0=(-44.20497,170.86929)
 [END]
 

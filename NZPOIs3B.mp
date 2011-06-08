@@ -200544,7 +200544,7 @@ Data0=(-46.40900,168.34753)
 [POI]
 Type=0x2f
 Label=ORCHID FLORIST
-StreetDesc=Shop 14A, Ctr City Mall, 133 Great King St, Dud/ Florist
+StreetDesc=Shop 14A, Ctr City Mall, 133 Great King St, Dud/ Most established florist in Dun
 Phone=+6434740657
 Data0=(-45.87200,170.50742)
 [END]
@@ -206117,7 +206117,7 @@ Data0=(-45.08093,170.91713)
 [POI]
 Type=0x4a00
 Label=ALBURY REST AREA
-StreetDesc=SH8 West of albury/ Rest Area
+StreetDesc=SH8 West of Albury/ Rest Area
 Data0=(-44.20497,170.86929)
 [END]
 

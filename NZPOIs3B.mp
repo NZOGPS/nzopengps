@@ -49623,9 +49623,9 @@ Data0=(-44.41284,171.24914)
 [POI]
 Type=0x2f
 Label=ESCEA LIMITED
-StreetDesc=31 Devon St, Dud/ 
-Phone=+6434790302
-Data0=(-45.87658,170.51414)
+StreetDesc=17 Carnforth St, Green Island, Dud/ Designer, manufacturer and exporter of leadi
+Phone=+6434788220
+Data0=(-45.89856,170.43904)
 [END]
 
 ;1105167
@@ -202707,7 +202707,7 @@ Data0=(-45.87838,170.49929)
 Type=0x2a0e
 Label=THE BATCH CAFE
 StreetDesc=173 Spey St, Invercargill 9810, Southland/ Coffee, food, drink, restaurant. Zenb
-Phone=+6432113377
+Phone=+6432146357
 Data0=(-46.40982,168.35402)
 [END]
 
@@ -206119,5 +206119,24 @@ Type=0x4a00
 Label=ALBURY REST AREA
 StreetDesc=SH8 West of Albury/ Rest Area
 Data0=(-44.20497,170.86929)
+[END]
+
+;1188566
+[POI]
+Type=0x2f
+Label=HYLTON PARKER FASTENERS
+StreetDesc=117 Wrights Rd, Middleton, Chc/ Fasteners: Nuts, Bolts, Screws
+Phone=+6433388825
+zip=7:30-5:00 Mon-Fri
+Data0=(-43.54286,172.59522)
+[END]
+
+;1188572
+[POI]
+Type=0x2f
+Label=KUSTOMEYES
+StreetDesc=12 Moorhouse Ave, Chc, New Zealand/ Website Deisgn, Web Design, Website Design C
+Phone=+6433790529
+Data0=(-43.54027,172.61362)
 [END]
 

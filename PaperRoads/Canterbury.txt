@@ -1,4 +1,3 @@
-
 1030000001144	Old Pigeon Bay Road	Okains Bay
 1030000001218	Eyre Main Drain Road	Wilsons Siding-Clarkville	14/04/2010 9:01p.m.
 1030000001389	Gloucester Arcade	Christchurch Central
@@ -160,6 +159,7 @@
 1030000040980	Charles Street	Coalgate
 1030000041058	Burkes Bush Road	Taitapu
 1030000041295	Russell Street	Eiffelton
+1030000041333	HAPPY VALLEY RD	Highbank (Canterbury, NZ)	9/06/2011 5:46p.m.
 1030000041414	Jollie Street	Eiffelton
 1030000041504	QUARRY RD	Mount Somers (Canterbury, NZ)	3/02/2011 10:49:41 p.m.
 1030000041525	BRUCES RD	Ashburton Forks (Canterbury, NZ)	1/07/2010 9:02p.m.

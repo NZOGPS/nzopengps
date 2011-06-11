@@ -41,3 +41,7 @@
 1030000055897	E,314,440	Perhams Road	View Hill (Canterbury, NZ)	8/05/2011 7:30:22 p.m.
 1030000055556	E,38,56	Audley Street	Kaiapoi (Canterbury, NZ)	8/05/2011 7:35:48 p.m.
 1030000004155	E,874,874	Springbank Road	Swannanoa (Canterbury, NZ)	14/05/2011 7:52:09 p.m.
+1030000055747	O,1,1	O,5,21	E,2,2	Raven Street North	Kaiapoi (Canterbury, NZ)	11/06/2011 8:04:20 p.m.
+1030000039841	O,181,181	Constitution Road	Rotherham (Canterbury, NZ)	11/06/2011 8:05:25 p.m.
+1030000056051	E,186,230	O,203,205	Ferry Road	Kaiapoi (Canterbury, NZ)	11/06/2011 8:08:05 p.m.
+1030000056061	E,74,94	O,1,227	Lees Road	Woodend Beach, Woodend (Canterbury, NZ)	11/06/2011 8:18:10 p.m.

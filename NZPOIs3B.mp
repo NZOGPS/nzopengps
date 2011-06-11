@@ -113333,8 +113333,8 @@ Data0=(-46.40135,168.34753)
 ;1134442
 [POI]
 Type=0x2a0e
-Label=CHIPMUNKS PLAYLAND & CAFE
-StreetDesc=103 Spey St, Invercargill 9810, Southland/ Childrens pay for playground, coffee,
+Label=CHIPMUNKS INVERCARGILL
+StreetDesc=103 Spey St, Invercargill 9810, Southland/ Childrens Playland & Cafe pay for pla
 Phone=+6432146109
 Data0=(-46.40981,168.34902)
 [END]
@@ -206138,5 +206138,55 @@ Label=KUSTOMEYES
 StreetDesc=12 Moorhouse Ave, Chc, New Zealand/ Website Deisgn, Web Design, Website Design C
 Phone=+6433790529
 Data0=(-43.54027,172.61362)
+[END]
+
+;1188577
+[POI]
+Type=0x2f
+Label=HYLTON PARKER FASTENERS
+StreetDesc=Cnr Crawford and Gordon Streets, Dud/ Fasteners: Nuts, Bolts, Screws
+Phone=+6494770480
+zip=7:30-5:00 Mon-Fri
+Data0=(-45.88530,170.49937)
+[END]
+
+;1188578
+[POI]
+Type=0x2f
+Label=HYLTON PARKER FASTENERS
+StreetDesc=2B, 7 Nayland Rd, Stoke, Nelson/ Fasteners: Nuts, Bolts, Screws
+Phone=+6435472681
+zip=7:30-5:00 Mon-Fri
+Data0=(-41.30024,173.23802)
+[END]
+
+;1188583
+[POI]
+Type=0x6404
+Label=ST AUGUSTINES CASHMERE
+StreetDesc=5 Cracroft Tce, Cashmere, Chc/ Anglican Church
+Phone=+6433326627
+zip=Tue-Fri 9am to 1pm (office)
+Data0=(-43.56971,172.63332)
+[END]
+
+;1188587
+[POI]
+Type=0x2f
+Label=GONE FISHING CHARTERS MOERAKI
+StreetDesc=Haven St Moeraki/ Come to the Beautiful port of Moeraki for a day fishing charte
+Phone=+6434394117
+zip=7am, 7 Days a week
+Data0=(-45.35962,170.85500)
+[END]
+
+;1188589
+[POI]
+Type=0x2d00
+Label=CASTLE MACADAM WINE
+StreetDesc=40 Stuart St, Dud/ Wine and Beer Store
+Phone=+6434741100
+zip=10am to 7pm Monday to Saturday
+Data0=(-45.87494,170.50716)
 [END]
 

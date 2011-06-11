@@ -46914,8 +46914,8 @@ Data0=(-43.55670,172.67896)
 [POI]
 Type=0x2f
 Label=CONTOUR ROOFING & WINDOWS
-StreetDesc=9 Merton Place, Stoke, Nelson/ 
-Phone=+6435464260
+StreetDesc=41 Venice Place, Stoke, Nelson/ Steel roofing, elite aluminium windows and doors
+Phone=+6435380824
 Data0=(-41.29393,173.24221)
 [END]
 
@@ -100851,14 +100851,6 @@ StreetDesc=133 Victoria St, Chc/
 Data0=(-43.52326,172.62955)
 [END]
 
-;1131065
-[POI]
-Type=0x2f
-Label=CEST LA VIE AU BOUT DU MONDE
-StreetDesc=33 Rue Lavaud, Akaroa, Chc/ 
-Data0=(-43.80281,172.96899)
-[END]
-
 ;1131066
 [POI]
 Type=0x2a0e
@@ -127734,9 +127726,9 @@ Data0=(-42.53818,173.11191)
 [POI]
 Type=0x2a
 Label=MT LYFORD LODGE
-StreetDesc=10 Mt Lyford Forest Dr, Mt Lyford/ Accommodation, restaurant, weddings, conferen
+StreetDesc=10 Mt Lyford Forest Dr, Mt Lyford, Corner of Inland Rd and Mount Lyford Forest D
 Phone=+6433156446
-Data0=(-42.50740,173.15305)
+Data0=(-42.50786,173.15311)
 [END]
 
 ;1141189
@@ -193018,6 +193010,16 @@ Phone=+6433660726
 Data0=(-43.53609,172.63949)
 [END]
 
+;1174742
+[POI]
+Type=0x2e
+Label=CENTRAL CITY FLOWERS
+StreetDesc=South City Ctr, Chc/ florist, florists, wedding flowers, flower delivery, christ
+Phone=+6439618165
+zip=9:00 AM - 5:00 PM
+Data0=(-43.53836,172.63532)
+[END]
+
 ;1174743
 [POI]
 Type=0x2F07
@@ -201629,14 +201631,6 @@ zip=8am - 5pm
 Data0=(-41.51296,173.96066)
 [END]
 
-;1179994
-[POI]
-Type=0x2b00
-Label=HANMER SPRINGS ACCOMMODATION
-StreetDesc=7 Conical Hill Rd/ hanmer springs accommodation
-Data0=(-42.52035,172.83017)
-[END]
-
 ;1180097
 [POI]
 Type=0x2f
@@ -202775,14 +202769,6 @@ StreetDesc=135 roydvale ave, harewood, Chc/ Deep tissue, therapeutic, sports, re
 Phone=+6433589017
 zip=8-8 Monday to Thursday, 9-5 Friday, 9-1 
 Data0=(-43.49329,172.56416)
-[END]
-
-;1180917
-[POI]
-Type=0x2b00
-Label=?HANMER SPRINGS ACCOMMODATION
-StreetDesc=Hanmer Springs/ hanmer springs accommodation
-Data0=(-42.52624,172.82882)
 [END]
 
 ;1180921
@@ -205147,6 +205133,16 @@ Phone=+6434555490
 Data0=(-45.89978,170.50256)
 [END]
 
+;1183309
+[POI]
+Type=0x2F02
+Label=TUI CAMPERS
+StreetDesc=518 Wairakei Rd, Burnside, Chc/ Campervans and motorhome rental
+Phone=+6433597410
+zip=8am-5pm
+Data0=(-43.48906,172.56814)
+[END]
+
 ;1183316
 [POI]
 Type=0x2f
@@ -206188,5 +206184,39 @@ StreetDesc=40 Stuart St, Dud/ Wine and Beer Store
 Phone=+6434741100
 zip=10am to 7pm Monday to Saturday
 Data0=(-45.87494,170.50716)
+[END]
+
+;1188607
+[POI]
+Type=0x2f
+Label=BLACK CAT NATURE CRUISES
+StreetDesc=87 Beach Rd, Akaroa 7520, New Zealand/ Swimming with Dolphins
+Phone=+33047641
+Data0=(-43.80915,172.95986)
+[END]
+
+;1188610
+[POI]
+Type=0x4700
+Label=LAKE HAWEA REST AREA & BOAT RAMP
+StreetDesc=SH6 Lake Hawea/ Rest Area Boat Ramp
+Data0=(-44.60688,169.24588)
+[END]
+
+;1188613
+[POI]
+Type=0x4a00
+Label=HAAST REST AREA
+StreetDesc=SH6 beside river North of Haast/ Rest Area
+Data0=(-43.72910,169.24454)
+[END]
+
+;1188614
+[POI]
+Type=0x2f
+Label=CONTOUR ROOFING & WINDOWS
+StreetDesc=35 Kinross St, Blenheim/ Steel roofing, elite aluminium windows and doors, garag
+Phone=+6435777720
+Data0=(-41.51461,173.96394)
 [END]
 

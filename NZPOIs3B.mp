@@ -160506,7 +160506,8 @@ Data0=(-41.27162,173.31302)
 [POI]
 Type=0x2b00
 Label=MAKARORA HOMESTEAD
-StreetDesc=53 Rata Rd, Makarora/ Accommodation
+StreetDesc=53 Rata Rd, Makarora/ Motel accommodation
+Phone=+6434431532
 Data0=(-44.23619,169.23258)
 [END]
 
@@ -206218,5 +206219,25 @@ Label=CONTOUR ROOFING & WINDOWS
 StreetDesc=35 Kinross St, Blenheim/ Steel roofing, elite aluminium windows and doors, garag
 Phone=+6435777720
 Data0=(-41.51461,173.96394)
+[END]
+
+;1188623
+[POI]
+Type=0x2f
+Label=GEMINI DEZIGN
+StreetDesc=32 Frederick St, Waltham, Chc/ When you want a web site, but don't want to have 
+Phone=+6433814425
+zip=Mon to Fri. 9am to 5pm
+Data0=(-43.54339,172.66319)
+[END]
+
+;1188628
+[POI]
+Type=0x2f
+Label=SOUTH ISLAND MOUNTAIN RADIO
+StreetDesc=Tower Junction, 75 Clarence St, Chc/ Christchurch Radio Hire Depot - upstairs at
+Phone=+6433435029
+zip=Weekdays 0900-1200 and 1330-1700, phone 
+Data0=(-43.53873,172.60428)
 [END]
 

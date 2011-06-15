@@ -206243,3 +206243,39 @@ zip=Weekdays 0900-1200 and 1330-1700, phone
 Data0=(-43.53873,172.60428)
 [END]
 
+;1188654
+[POI]
+Type=0x2f
+Label=VALLEY LUMBER
+StreetDesc=714 Kaikorai Valley Rd, Burnside, Dud, 9018/ Sustainable timber especially macro
+Phone=+6427220416
+Data0=(-45.89882,170.45302)
+[END]
+
+;1188656
+[POI]
+Type=0x2b02
+Label=FAR PAVILION LAKESIDE LODGE
+StreetDesc=7 Baker Grove Wanaka/ Far Pavilion is an exclusive lakeside bed & breakfast with
+Phone=+6434432922
+Data0=(-44.66419,169.12410)
+[END]
+
+;1188657
+[POI]
+Type=0x2b01
+Label=CARMEL COURT MOTEL
+StreetDesc=50 Waimea Rd, Nelson South 7010, Marlborough/ Accommodation. Large studios, 2 an
+Phone=+6435482234
+Data0=(-41.28261,173.27777)
+[END]
+
+;1188658
+[POI]
+Type=0x2f
+Label=SOUTH WESTLAND TOURIST SERVICES
+StreetDesc=425 Haast-Jackson Bay Rd, Haast 7886, Westland, West Coast/ Zenbu Wi-Fi wireless
+Phone=+6437500008
+Data0=(-43.86200,169.00349)
+[END]
+

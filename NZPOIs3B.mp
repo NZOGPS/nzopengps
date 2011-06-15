@@ -193353,7 +193353,7 @@ Data0=(-43.53288,172.63648)
 [POI]
 Type=0x2e09
 Label=PRICES PACKERS AND MOVERS
-StreetDesc=229 Kaikorai Valley Rd/ Furniture Removals, Local Movers, National Movers, Inter
+StreetDesc=First Fl Roslyn Mill Industrial Estate, 229 Kaikorai Valley Rd, Dud, Otago, Sout
 Phone=08002PACKU0800272258
 Data0=(-45.87298,170.47288)
 [END]
@@ -195081,14 +195081,6 @@ Type=0x2b00
 Label=HARD TOP TENT!
 StreetDesc=476 fortrose otara Rd, southland/ Backpacker accommodation
 Data0=(-46.59889,168.84514)
-[END]
-
-;1176616
-[POI]
-Type=0x2b00
-Label=RONGAVIEW ACCOMMODATION
-StreetDesc=686 Ronga Rd, Rai Valley, Nelson north/ Backpacker accommodation
-Data0=(-41.17272,173.60814)
 [END]
 
 ;1176617
@@ -197287,6 +197279,16 @@ Type=0x2f0c
 Label=KAINGA HALL TOILETS
 StreetDesc=159 Kainga Rd, Kainga, Chc 8083, New Zealand/ Toilet
 Data0=(-43.40952,172.66408)
+[END]
+
+;1177610
+[POI]
+Type=0x2e09
+Label=?24/7 NATIONWIDE MOVERS
+StreetDesc=Tanya St Woolston, Chc/ Nationwide fragile freight movers from Christchurch to A
+Phone=0800MOVE2470800668324
+zip=7 days 6am-6pm
+Data0=(-43.53883,172.69625)
 [END]
 
 ;1177653

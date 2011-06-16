@@ -117680,10 +117680,10 @@ Data0=(-45.87774,170.50194)
 [POI]
 Type=0x2f
 Label=CANTERBURY VALUATION
-StreetDesc=L 1, 212-214 Madras St, Central Chc/ Valuation Services, Christchurch Valuers, R
+StreetDesc=10B Tussock Lane, Ferrymead, Chc/ Valuation Services, Christchurch Valuers, Regi
 Phone=+6433774970
 zip=9am - 5pm Daily
-Data0=(-43.53463,172.64284)
+Data0=(-43.56007,172.70682)
 [END]
 
 ;1135255
@@ -206277,5 +206277,43 @@ Label=SOUTH WESTLAND TOURIST SERVICES
 StreetDesc=425 Haast-Jackson Bay Rd, Haast 7886, Westland, West Coast/ Zenbu Wi-Fi wireless
 Phone=+6437500008
 Data0=(-43.86200,169.00349)
+[END]
+
+;1188659
+[POI]
+Type=0x2f
+Label=IMPACT ROOFING & PLUMBING
+StreetDesc=10B Strathallen St, South Dud, Dud, 9012/ Expert, efficient & prompt plumbing, g
+Phone=+6434555871
+Data0=(-45.88976,170.50373)
+[END]
+
+;1188661
+[POI]
+Type=0x2f
+Label=G L STEVENSON BUILDERS
+StreetDesc=6 Grater St, Maori Hill, Dud, 9010/ Exceptional quality building & joinery for n
+Phone=+6434675462
+Data0=(-45.85619,170.49994)
+[END]
+
+;1188662
+[POI]
+Type=0x2f
+Label=SOCIALEYES SOCIAL MEDIA MARKETING
+StreetDesc=Unit 1, 12 Moorhouse Ave, Chc/ SocialEyes is New Zealand's premier social media 
+Phone=+6433790529
+zip=9am - 5pm
+Data0=(-43.54027,172.61362)
+[END]
+
+;1188663
+[POI]
+Type=0x2f
+Label=VISUALEYES GRAPHIC DESIGN
+StreetDesc=Unit 1, 12 Moorhouse Ave, Chc/ VisualEyes is a team of talented graphic designer
+Phone=+6433790529
+zip=9am - 5pm
+Data0=(-43.54027,172.61362)
 [END]
 

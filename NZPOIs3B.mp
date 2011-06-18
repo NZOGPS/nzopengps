@@ -77156,7 +77156,7 @@ Data0=(-44.40466,171.24280)
 
 ;1118261
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=AVALON MOTEL
 StreetDesc=301 Bealey Ave, Saint Albans, Chc/ Accommodation, Zenbu Wi-Fi wireless broadband
 Phone=+6433799681
@@ -159287,7 +159287,7 @@ Data0=(-43.51013,172.62020)
 
 ;1159119
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=EQUESTRIAN LODGE MOTEL
 StreetDesc=2 Avalon Court, Motueka/ Accommodation
 Data0=(-41.11425,173.01408)

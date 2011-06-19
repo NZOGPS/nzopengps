@@ -15098,6 +15098,7 @@ Type=0x2e
 Label=HARVEY NORMAN NORTHWOOD
 StreetDesc=Supa Ctr, Main North Rd, Chc/ Electrical, Computers, Appliances, Furniture, Whit
 Phone=+6433759800
+zip=Mon-Wed 9am-5.30pm, Thu 9am-9pm, Fri-Sun
 Data0=(-43.45996,172.62407)
 [END]
 

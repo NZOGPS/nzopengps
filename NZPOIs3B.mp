@@ -1057,9 +1057,9 @@ Data0=(-43.90476,171.74772)
 ;1004144
 [POI]
 Type=0x2e05
-Label=UNICHEM @ MOORHOUSE CENTRAL PHARMACY
-StreetDesc=Cnr Moorhouse Ave & Madras St, Chc, Canterbury/ chemist, pharmacy
-Phone=+6433772252
+Label=PHARMACY XTRA
+StreetDesc=Off Countdown foyer, Cnr Moorhouse Ave & Madras St, Chc, Canterbury/ chemist, ph
+Phone=+6433773773
 Data0=(-43.53939,172.64197)
 [END]
 
@@ -143638,10 +143638,10 @@ Data0=(-43.55726,172.70533)
 [POI]
 Type=0x2f
 Label=ASPIRING MEDICAL CENTRE
-StreetDesc=33 Dungarvon St, Wanaka/ Doctor, Medical Centre
+StreetDesc=At Wanaka lakes health Ctr, 23 Cardona Valley Rd Wanaka/ Doctor, Medical Centre
 Phone=+6434431226
-zip=Mon-Fri 8.30am-6pm, Sat 10am-12 noon, Su
-Data0=(-44.69804,169.13488)
+zip=Mon-Fri 8.30am-6pm, Sat/Sun 9am-12 noon,
+Data0=(-44.70887,169.13701)
 [END]
 
 ;1148998
@@ -153127,7 +153127,7 @@ Data0=(-45.03162,168.65944)
 [POI]
 Type=0x2f
 Label=BRAND NEW DESIGN LTD
-StreetDesc=113a High St Rangiora 7400/ Get your business humming with a little expert help.
+StreetDesc=113a High St Rangiora 7400/ Your designs. On budget. On time. We are Graphic des
 Phone=+6433133907
 zip=8.30am - 5.00pm Mon - Fri; Sat by appoin
 Data0=(-43.30359,172.59485)

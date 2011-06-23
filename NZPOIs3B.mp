@@ -46132,10 +46132,9 @@ Data0=(-43.54413,172.56921)
 ;1103278
 [POI]
 Type=0x2f
-Label=NEWTONS CITIBUS LTD
-StreetDesc=Transport Place, Princes St, Dud/ Tourist attraction
-Phone=+6434772224
-zip=Mon-Fri 0830-1700
+Label=CITIBUS LTD
+StreetDesc=1 Transport Place, Princes St, Dud/ Public transport, charter buses, and tourism
+Phone=+6434775577
 Data0=(-45.88388,170.49778)
 [END]
 
@@ -70985,9 +70984,9 @@ Data0=(-40.94251,172.54309)
 ;1116705
 [POI]
 Type=0x2f
-Label=?ADVENTURE BIVVY (BIVOUAC)
+Label=ADVENTURE BIVVY (BIVOUAC)
 StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
-Data0=(-42.97177,171.16552)
+Data0=(-42.97175,171.16546)
 [END]
 
 ;1116706
@@ -72121,9 +72120,9 @@ Data0=(-45.37161,168.47056)
 ;1116884
 [POI]
 Type=0x2f
-Label=?CRAWFORD BIVVY
+Label=CRAWFORD BIVVY
 StreetDesc=Stewardship Land, Hokitika/ DOC Backcountry hut
-Data0=(-42.93404,171.27724)
+Data0=(-42.93356,171.27691)
 [END]
 
 ;1116885
@@ -72337,9 +72336,9 @@ Data0=(-42.52198,172.22599)
 ;1116919
 [POI]
 Type=0x2f
-Label=?DOUGHBOY BAY HUT
+Label=DOUGHBOY BAY HUT
 StreetDesc=Rakiura Ntl Park - South Island > Southland > Stewart Island/Rakiura/ DOC Backco
-Data0=(-47.03131,167.70601)
+Data0=(-47.03290,167.70620)
 [END]
 
 ;1116920
@@ -73801,9 +73800,9 @@ Data0=(-40.98256,172.55811)
 ;1117151
 [POI]
 Type=0x2f
-Label=?LONG HARRY HUT
+Label=LONG HARRY HUT
 StreetDesc=Rakiura Ntl Park - South Island > Southland > Stewart Island/Rakiura/ DOC Backco
-Data0=(-46.69443,167.80760)
+Data0=(-46.69433,167.80762)
 [END]
 
 ;1117153
@@ -74041,9 +74040,9 @@ Data0=(-46.92657,167.78008)
 ;1117214
 [POI]
 Type=0x2f
-Label=?MATHIAS HUT
+Label=MATHIAS HUT
 StreetDesc=Rakaia Forest Conservation Area, Raukapuka - South Island > Canterbury > Mid & S
-Data0=(-43.18716,171.13148)
+Data0=(-43.18716,171.13139)
 [END]
 
 ;1117216
@@ -74201,9 +74200,9 @@ Data0=(-41.38426,173.39272)
 ;1117243
 [POI]
 Type=0x2f
-Label=?MIKONUI FLAT HUT
+Label=MIKONUI FLAT HUT
 StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
-Data0=(-43.02358,170.87467)
+Data0=(-43.02340,170.87487)
 [END]
 
 ;1117244
@@ -74377,9 +74376,9 @@ Data0=(-41.40916,173.67950)
 ;1117269
 [POI]
 Type=0x2f
-Label=?MUDFLATS HUT
+Label=MUDFLATS HUT
 StreetDesc=Waitaiki Historic Reserve - South Island > West Coast > Hokitika/ DOC Backcountr
-Data0=(-42.87505,171.36826)
+Data0=(-42.87459,171.36847)
 [END]
 
 ;1117270
@@ -74393,9 +74392,9 @@ Data0=(-43.72106,170.06445)
 ;1117271
 [POI]
 Type=0x2f
-Label=?MULLINS HUT
+Label=MULLINS HUT
 StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
-Data0=(-42.99668,171.12330)
+Data0=(-42.99667,171.12338)
 [END]
 
 ;1117272
@@ -74457,9 +74456,9 @@ Data0=(-44.08831,169.41242)
 ;1117282
 [POI]
 Type=0x2f
-Label=?NEWTON CREEK HUT
+Label=NEWTON CREEK HUT
 StreetDesc=Waitaiki Historic Reserve - South Island > West Coast > Hokitika/ DOC Backcountr
-Data0=(-42.84098,171.37773)
+Data0=(-42.84124,171.37773)
 [END]
 
 ;1117283
@@ -74721,9 +74720,9 @@ Data0=(-41.49189,173.50593)
 ;1117347
 [POI]
 Type=0x2f
-Label=?PINNACLE BIVVY
+Label=PINNACLE BIVVY
 StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
-Data0=(-42.93789,171.17788)
+Data0=(-42.93781,171.17842)
 [END]
 
 ;1117349
@@ -74865,9 +74864,9 @@ Data0=(-43.11201,171.97342)
 ;1117375
 [POI]
 Type=0x2f
-Label=?RAKEAHUA HUT
+Label=RAKEAHUA HUT
 StreetDesc=Rakiura Ntl Park - South Island > Southland > Stewart Island/Rakiura/ DOC Backco
-Data0=(-46.98205,167.88013)
+Data0=(-46.98213,167.88091)
 [END]
 
 ;1117376
@@ -75113,9 +75112,9 @@ Data0=(-43.37551,170.56929)
 ;1117420
 [POI]
 Type=0x2f
-Label=?SCOTTYS BIVVY
+Label=SCOTTYS BIVVY
 StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
-Data0=(-42.80726,171.41285)
+Data0=(-42.80710,171.41212)
 [END]
 
 ;1117421
@@ -75241,9 +75240,9 @@ Data0=(-44.95633,168.27439)
 ;1117441
 [POI]
 Type=0x2f
-Label=?SMYTH HUT
+Label=SMYTH HUT
 StreetDesc=Stewardship Land, Franz Josef - South Island > West Coast > Glaciers/ DOC Backco
-Data0=(-43.20923,170.84851)
+Data0=(-43.20901,170.84890)
 [END]
 
 ;1117442
@@ -75673,9 +75672,9 @@ Data0=(-41.88408,172.99409)
 ;1117532
 [POI]
 Type=0x2f
-Label=?TOP OLDEROG BIVVY (BIVOUAC)
+Label=TOP OLDEROG BIVVY (BIVOUAC)
 StreetDesc=Waitaiki Historic Reserve - South Island > West Coast > Hokitika/ DOC Backcountr
-Data0=(-42.82153,171.34032)
+Data0=(-42.82211,171.34015)
 [END]
 
 ;1117533
@@ -75689,9 +75688,9 @@ Data0=(-42.47804,172.17916)
 ;1117535
 [POI]
 Type=0x2f
-Label=?TOP TOAROHA HUT
+Label=TOP TOAROHA HUT
 StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
-Data0=(-43.01344,171.15392)
+Data0=(-43.01339,171.15386)
 [END]
 
 ;1117536
@@ -76185,17 +76184,17 @@ Data0=(-44.94284,167.83394)
 ;1117638
 [POI]
 Type=0x2f
-Label=?YANKEE RIVER HUT
+Label=YANKEE RIVER HUT
 StreetDesc=Rakiura Ntl Park - South Island > Southland > Stewart Island/Rakiura/ DOC Backco
-Data0=(-46.69457,167.88795)
+Data0=(-46.69476,167.88817)
 [END]
 
 ;1117639
 [POI]
 Type=0x2f
-Label=?YEATS RIDGE HUT
+Label=YEATS RIDGE HUT
 StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
-Data0=(-42.98432,171.14888)
+Data0=(-42.98435,171.14882)
 [END]
 
 ;1117640
@@ -127138,8 +127137,8 @@ Data0=(-41.75007,171.47387)
 ;1141110
 [POI]
 Type=0x2a
-Label=THE BIG FISH HOTEL
-StreetDesc=117 Torea St, Granity/ Bar, restaurant, accommodation
+Label=MINERS ON SEA
+StreetDesc=117 Torea St, Granity/ Big Fish Bar, restaurant, accommodation, home style food
 Data0=(-41.62558,171.85722)
 [END]
 
@@ -139429,14 +139428,6 @@ Label=LEE'S BARBER SHOP
 StreetDesc=709 Ferry Rd, Chc/ Hairdresser, Barber, 2 chairs
 zip=Weekdays ? Sat 0800-1200
 Data0=(-43.54958,172.68388)
-[END]
-
-;1146869
-[POI]
-Type=0x2f
-Label=LEINER DAVIS GELATIN N.Z LTD
-StreetDesc=135 Connal St, Chc/ 
-Data0=(-43.55597,172.68086)
 [END]
 
 ;1146870
@@ -205703,8 +205694,9 @@ Data0=(-45.86798,170.62561)
 ;1186301
 [POI]
 Type=0x2b00
-Label=CENTURY PARK MOTOR LODGE
+Label=CENTURY PARK MOTOR LODGE.COM ACCOMMODATION NELSON
 StreetDesc=197 Rutherford St, Nelson, 7010/ Accommodation
+Phone=+6435466197
 Data0=(-41.27843,173.28090)
 [END]
 
@@ -206316,5 +206308,35 @@ StreetDesc=Unit 1, 12 Moorhouse Ave, Chc/ VisualEyes is a team of talented graph
 Phone=+6433790529
 zip=9am - 5pm
 Data0=(-43.54027,172.61362)
+[END]
+
+;1188710
+[POI]
+Type=0x2a02
+Label=@TONYS JAPANESE RESTAURANT
+StreetDesc=2 Waterman Place, Ferrymead, Chc/ Teppan yaki Japanese Restaurant, licensed
+Phone=+6433485644
+zip=Lunch: Tue-Fri 12-2:30, Dinner: Tue-Sun 
+Data0=(-43.55607,172.69834)
+[END]
+
+;1188729
+[POI]
+Type=0x2b01
+Label=CENTURY PARK MOTOR LODGE.COM NELSON ACCOMMODATION
+StreetDesc=197 Rutherford St Nelson 7010/ Motel, Hotel, Nelson Accommodation, Accommodation
+Phone=+35466197
+zip=Mon-Fri: 7am to 9pm, Sat-Sun: 8am to 8pm
+Data0=(-41.27844,173.28074)
+[END]
+
+;1188732
+[POI]
+Type=0x2a
+Label=THE GALLEON COMPLEX
+StreetDesc=500 Thames Highway, Oamaru/ Stonegrill restaurant, cafe, bar, functions, events
+Phone=+6434370128
+zip=7 days 10am-late
+Data0=(-45.06821,170.99341)
 [END]
 

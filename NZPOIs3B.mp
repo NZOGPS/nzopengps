@@ -106608,6 +106608,7 @@ Data0=(-43.53080,172.63933)
 Type=0x2e
 Label=REDCLIFFS BUTCHERY
 StreetDesc=85A Main Rd, Chc/ butcher
+Phone=+6433841361
 Data0=(-43.56148,172.73856)
 [END]
 
@@ -118950,8 +118951,9 @@ Data0=(-41.33914,173.18492)
 [POI]
 Type=0x2d02
 Label=TAI TAPU HOTEL
-StreetDesc=780 Old Tai Tapu Rd, Tai Tapu, Chc/ Bar, TAB outlet, restaurant
-Phone=+6433296848
+StreetDesc=780 Old Tai Tapu Rd, Tai Tapu, Chc/ Bars, TAB outlet, Pool table, Function Venue
+Phone=+6433296819
+zip=11am to Late daily
 Data0=(-43.65713,172.55611)
 [END]
 
@@ -206338,5 +206340,15 @@ StreetDesc=500 Thames Highway, Oamaru/ Stonegrill restaurant, cafe, bar, functio
 Phone=+6434370128
 zip=7 days 10am-late
 Data0=(-45.06821,170.99341)
+[END]
+
+;1188756
+[POI]
+Type=0x2f
+Label=LOKO ARTS COLLECTIVE
+StreetDesc=106 Ronaldsay St, Palmerston/ contemporary art space
+Phone=+6434651653
+zip=10am to 4pm Sat Sun
+Data0=(-45.48577,170.71395)
 [END]
 

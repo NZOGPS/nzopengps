@@ -202592,7 +202592,7 @@ Type=0x2f
 Label=ALI CATS CATTERY
 StreetDesc=202 Old West Coast Rd, Yaldhurst, Chc/ cattery, cats, pets, pet boarding, catter
 Phone=+6433421424
-zip=Mon - Sat 9-11am or 4.30 to 5.30pm Sun 2
+zip=Mon - Sat 9-11am or 4.30 to 5.30pm Sun 9
 Data0=(-43.50708,172.46249)
 [END]
 
@@ -206350,5 +206350,15 @@ StreetDesc=106 Ronaldsay St, Palmerston/ contemporary art space
 Phone=+6434651653
 zip=10am to 4pm Sat Sun
 Data0=(-45.48577,170.71395)
+[END]
+
+;1188761
+[POI]
+Type=0x2f
+Label=RESOLUTION DESIGN
+StreetDesc=24 Philip St, Ashburton/ quality, affordable graphic design, web design and prin
+Phone=+6437454116
+zip=9am - 5pm
+Data0=(-43.89599,171.74486)
 [END]
 

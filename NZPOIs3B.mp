@@ -18265,8 +18265,8 @@ Data0=(-45.09790,170.97121)
 [POI]
 Type=0x2f06
 Label=BANK OF NEW ZEALAND - BNZ PAPANUI (B)
-StreetDesc=24 Main North Rd, Papanui, Chc/ bank branch
-Data0=(-43.49588,172.60852)
+StreetDesc=Northlands Mall, 55 Main North Rd, Papanui/ bank branch
+Data0=(-43.49430,172.60977)
 [END]
 
 ;1060886
@@ -19168,16 +19168,6 @@ zip=Mon-Fri: 7AM-5:30PM, Sat: 8AM-4PM, Sun:
 Data0=(-41.27269,173.28064)
 [END]
 
-;1063861
-[POI]
-Type=0x2f03
-Label=MIDAS CHRISTCHURCH
-StreetDesc=Cnr Durham & Winchcombe St, Chc/ automotive repair centre, Service, Mufflers, Br
-Phone=+6433799080
-zip=Mon-Fri: 7AM-5:30PM, Sat: 8AM-4PM, Sun: 
-Data0=(-43.53797,172.63410)
-[END]
-
 ;1063868
 [POI]
 Type=0x2f03
@@ -19196,16 +19186,6 @@ StreetDesc=Cnr Main North Rd & Radcliffe Rd, Northwood/ automotive repair centre
 Phone=+6433236930
 zip=Mon-Fri: 8AM-5:30PM, Sat: 8AM-4PM, Sun: 
 Data0=(-43.46096,172.62518)
-[END]
-
-;1063882
-[POI]
-Type=0x2f03
-Label=MIDAS ASHBURTON
-StreetDesc=393 West St, Ashburton/ automotive repair centre, Service, Mufflers, Brakes, Sus
-Phone=+6433080491
-zip=Mon-Fri: 8AM-5:30PM, Sat: 8AM-4PM, Sun: 
-Data0=(-43.89673,171.75776)
 [END]
 
 ;1063889
@@ -200758,7 +200738,7 @@ Data0=(-43.88694,171.76360)
 [POI]
 Type=0x2f
 Label=CALENDAR GIRLS GENTLEMEN'S CLUB
-StreetDesc=196 Hereford St/ StripClub, Strip Club, Gentlemen's Club, Christchurch, Strippin
+StreetDesc=196 Hereford St, Chc/ Strip Club, Girls, night club, adult entertainment
 Phone=+6433795641
 zip=5pm-6am 7 days
 Data0=(-43.53220,172.64096)
@@ -206360,5 +206340,33 @@ StreetDesc=24 Philip St, Ashburton/ quality, affordable graphic design, web desi
 Phone=+6437454116
 zip=9am - 5pm
 Data0=(-43.89599,171.74486)
+[END]
+
+;1188775
+[POI]
+Type=0x2b00
+Label=HAKA LODGE
+StreetDesc=518 Linwood Ave, Chc/ Amazing value boutique backpacker accommodation just outsi
+Phone=+6439804252
+Data0=(-43.54385,172.68956)
+[END]
+
+;1188776
+[POI]
+Type=0x2f
+Label=DIGITAL MOBILE GORE
+StreetDesc=47 Main St, Gore/ Vodafone mobiles, cellphones & accessories
+Phone=+6439731111
+Data0=(-46.09998,168.94557)
+[END]
+
+;1188783
+[POI]
+Type=0x2f
+Label=?AKAROA BODY CARE
+StreetDesc=Cnr Rue Jolie and Church St, Akaroa/ Boutique Beauty Salon
+Phone=+6433048454
+zip=11.00am - 4.00pm Tuesday -Saturday. Note
+Data0=(-43.80967,172.96249)
 [END]
 

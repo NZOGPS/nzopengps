@@ -77730,7 +77730,7 @@ Data0=(-45.86270,170.50982)
 [POI]
 Type=0x2f01
 Label=HERBERT SERVICE STATION & GARAGE
-StreetDesc=Otepopo St, SH1, Herbert ,/ Challenge, Petrol Station
+StreetDesc=Otepopo St, SH1, Herbert/ RD Petroleum Petrol Station
 Phone=+6434395601
 Data0=(-45.22542,170.78191)
 [END]
@@ -125489,14 +125489,6 @@ StreetDesc=Lake Ohau Rd, Lake Ohau/ cafe
 Data0=(-44.23831,169.79301)
 [END]
 
-;1139223
-[POI]
-Type=0x2b03
-Label=OLIVE GROVE HOLIDAY PARK
-StreetDesc=2328 Herbert Hampden Rd, Oamaru/ Camping Grounds
-Data0=(-45.25238,170.79583)
-[END]
-
 ;1139224
 [POI]
 Type=0x2f
@@ -142833,10 +142825,10 @@ Data0=(-43.54383,172.55877)
 [POI]
 Type=0x2f
 Label=FORMAN CHRISTCHURCH
-StreetDesc=167 Montreal St, Chc/ Insulation, Building systems, Commercial Interiors
+StreetDesc=Unit 9, 24 Disraeli St, Chc/ Insulation, Building systems, Commercial Interiors
 Phone=+6433799329
-zip=Mo-Fr 8-5
-Data0=(-43.53858,172.63062)
+zip=Mo-Fr 8am-5pm
+Data0=(-43.54233,172.62357)
 [END]
 
 ;1148332
@@ -143630,9 +143622,9 @@ Data0=(-44.69573,169.14043)
 [POI]
 Type=0x2f
 Label=WANAKA PHYSIOTHERAPY
-StreetDesc=11 Russell St, Wanaka/ Physiotherapist, physio
+StreetDesc=Wanaka Lakes Health Ctr, 23 Cardrona Valley Rd, Wanaka/ Physiotherapist, physio
 Phone=+6434439136
-Data0=(-44.69557,169.13977)
+Data0=(-44.70884,169.13627)
 [END]
 
 ;1149000
@@ -146732,6 +146724,7 @@ Type=0x2f
 Label=CROMWELL PHYSIOTHERAPY
 StreetDesc=36 The Mall, Cromwell/ Physiotherapist, physio
 Phone=+6434450858
+zip=Monday to Friday, 8.30 to 6
 Data0=(-45.03773,169.19732)
 [END]
 
@@ -206363,10 +206356,10 @@ Data0=(-46.09998,168.94557)
 ;1188783
 [POI]
 Type=0x2f
-Label=?AKAROA BODY CARE
+Label=AKAROA BODY CARE
 StreetDesc=Cnr Rue Jolie and Church St, Akaroa/ Boutique Beauty Salon
 Phone=+6433048454
 zip=11.00am - 4.00pm Tuesday -Saturday. Note
-Data0=(-43.80967,172.96249)
+Data0=(-43.80997,172.96289)
 [END]
 

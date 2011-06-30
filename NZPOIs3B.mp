@@ -66597,9 +66597,9 @@ Data0=(-43.48844,172.58586)
 [POI]
 Type=0x2f
 Label=THE COOK SHOP
-StreetDesc=795 Colombo St, Chc/ 
+StreetDesc=384 Montreal St, Chc/ cookware
 Phone=+6433664639
-Data0=(-43.52621,172.63645)
+Data0=(-43.52392,172.63079)
 [END]
 
 ;1114600
@@ -66644,10 +66644,10 @@ Data0=(-43.53774,172.59747)
 [POI]
 Type=0x2f
 Label=THE FLYING LIZARD LIMITED
-StreetDesc=L 4, 9 Moray Place, Dud/ 
+StreetDesc=31 Police St, Dud, Otago 9016, new zealand/ Marketing and Graphic Design Supplie
 Phone=+6434718481
 zip=Mon-Fri 0900-1700
-Data0=(-45.87548,170.50241)
+Data0=(-45.88152,170.50240)
 [END]
 
 ;1114628
@@ -94527,14 +94527,6 @@ StreetDesc=4 Carroll St, Dud/ cafe
 Data0=(-45.88070,170.49947)
 [END]
 
-;1128518
-[POI]
-Type=0x2f
-Label=FEVER
-StreetDesc=140 George St, Dud/ 
-Data0=(-45.87235,170.50491)
-[END]
-
 ;1128519
 [POI]
 Type=0x2f
@@ -100049,19 +100041,13 @@ StreetDesc=73 Chapter St, St Albans, Chc/
 Data0=(-43.50438,172.62049)
 [END]
 
-;1130969
-[POI]
-Type=0x2f
-Label=BLAX DELI
-StreetDesc=384 Montreal St, Chc/ 
-Data0=(-43.52388,172.63072)
-[END]
-
 ;1130970
 [POI]
 Type=0x2d02
 Label=BLAX ESPRESSO BAR
-StreetDesc=384B Montreal St, Chc/ cafe, bar
+StreetDesc=384 Montreal St, Chc/ cafe
+Phone=+6433668982
+zip=Monday-Friday 8am to 5pm, Saturday and S
 Data0=(-43.52388,172.63072)
 [END]
 
@@ -147194,15 +147180,6 @@ Label=PHYSIOCARE
 StreetDesc=9 Idris Rd, Fendalton, Chc/ Physiotherapist, physio
 Phone=+6433511015
 Data0=(-43.51865,172.60106)
-[END]
-
-;1151518
-[POI]
-Type=0x2f
-Label=PHYSIOFOCUS LAKE WANAKA
-StreetDesc=ProActive Gym, Plantation Rd, Anderson Heights, Wanaka/ Physiotherapist, physio
-Phone=+6434431818
-Data0=(-44.69189,169.14401)
 [END]
 
 ;1151519
@@ -206361,5 +206338,14 @@ StreetDesc=Cnr Rue Jolie and Church St, Akaroa/ Boutique Beauty Salon
 Phone=+6433048454
 zip=11.00am - 4.00pm Tuesday -Saturday. Note
 Data0=(-43.80997,172.96289)
+[END]
+
+;1188794
+[POI]
+Type=0x2f
+Label=FEVER CLUB DUNEDIN
+StreetDesc=Blacket Lane 140 George St, Dud/ function venue party venue
+Phone=+6434775101
+Data0=(-45.87237,170.50482)
 [END]
 

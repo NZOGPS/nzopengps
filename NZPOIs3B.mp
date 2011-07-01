@@ -166954,8 +166954,9 @@ Data0=(-45.87613,170.49181)
 [POI]
 Type=0x2f
 Label=RUTHERFORD STREET KINDERGARTEN
-StreetDesc=173 A Rutherford St, Nelson/ 
+StreetDesc=173 A Rutherford St, Nelson/ Providing high quality pre school education and car
 Phone=+6435489239
+zip=8.30-3.30
 Data0=(-41.27752,173.28094)
 [END]
 
@@ -206347,5 +206348,23 @@ Label=FEVER CLUB DUNEDIN
 StreetDesc=Blacket Lane 140 George St, Dud/ function venue party venue
 Phone=+6434775101
 Data0=(-45.87237,170.50482)
+[END]
+
+;1188801
+[POI]
+Type=0x2f
+Label=PLANKTON WEB DESIGN
+StreetDesc=17 Chilcombe St, Ilam, Chc, New Zealand/ Michael Story Christchurch Web Designer
+Phone=+6421295448
+Data0=(-43.51537,172.58438)
+[END]
+
+;1188808
+[POI]
+Type=0x2F02
+Label=DOLLARSAVE CAR RENTALS, CARAVAN SALES & WORKSHOP REPAIRS
+StreetDesc=221 Haven Rd Stepneyville Nelson 7010/ Car Hire, Car Rentals, Rental Cars, Renta
+zip=Weekdays 9am - 5pm, Saturdays 9am - 12pm
+Data0=(-41.26472,173.27163)
 [END]
 

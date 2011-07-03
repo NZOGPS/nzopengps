@@ -91004,10 +91004,10 @@ Data0=(-43.55671,172.70505)
 [POI]
 Type=0x2a0e
 Label=UNDER THE RED VERANDAH
-StreetDesc=502 Worcester St, Linwood , Chc/ Cafe, Good Coffee, Great Food.
+StreetDesc=502 Worcester St, Linwood, Chc/ Cafe, Good Coffee, Great Food
 Phone=+6433811109
-zip=Tue - Sun  9am - 4pm
-Data0=(-43.53109,172.66420)
+zip=Mon-Fri 7.30am-4pm Sat-Sun 8.30am-4pm
+Data0=(-43.53108,172.66424)
 [END]
 
 ;1122602
@@ -149637,9 +149637,9 @@ Data0=(-43.55822,172.61971)
 ;1153087
 [POI]
 Type=0x6404
-Label=?ST NINIAN'S CHURCH
+Label=ST NINIAN'S CHURCH
 StreetDesc=corner Alabama Rd & Riley Cres, Blenheim/ church
-Data0=(-41.53009,173.94614)
+Data0=(-41.52884,173.94607)
 [END]
 
 ;1153088
@@ -163317,9 +163317,9 @@ Data0=(-41.50776,173.93734)
 ;1160478
 [POI]
 Type=0x2f
-Label=?ABC DEVELOPMENTAL LEARNING CENTRE WAIRAU
+Label=ABC DEVELOPMENTAL LEARNING CENTRE WAIRAU
 StreetDesc=7 Old Renwick Rd, Blenheim/ 
-Data0=(-41.49839,173.95245)
+Data0=(-41.49844,173.95245)
 [END]
 
 ;1160480
@@ -199241,11 +199241,11 @@ Data0=(-46.24251,169.72652)
 ;1178783
 [POI]
 Type=0x2f
-Label=?PGG WRIGHTSON BLENHEIM
+Label=PGG WRIGHTSON BLENHEIM
 StreetDesc=Cnr Sutherland Tce & Kinross St, Blenheim/ 
 Phone=+6435208887
 zip=Mon-Fri 8am-5pm, Sat 9am-12pm
-Data0=(-41.51483,173.96320)
+Data0=(-41.51482,173.96426)
 [END]
 
 ;1178786
@@ -204545,9 +204545,10 @@ Data0=(-41.51573,173.95528)
 ;1181326
 [POI]
 Type=0x2a0e
-Label=?ARGOSY RESTAURANT/BAR/CAFE
-StreetDesc=Middle Renwick Rd Woodbourne/ 
-Data0=(-41.51082,173.89860)
+Label=ARGOSY RESTAURANT/BAR/CAFE
+StreetDesc=760 Middle Renwick Rd Woodbourne/ 
+Phone=+6435727388
+Data0=(-41.51226,173.86222)
 [END]
 
 ;1181327
@@ -206366,5 +206367,23 @@ Label=DOLLARSAVE CAR RENTALS, CARAVAN SALES & WORKSHOP REPAIRS
 StreetDesc=221 Haven Rd Stepneyville Nelson 7010/ Car Hire, Car Rentals, Rental Cars, Renta
 zip=Weekdays 9am - 5pm, Saturdays 9am - 12pm
 Data0=(-41.26472,173.27163)
+[END]
+
+;1188809
+[POI]
+Type=0x6402
+Label=?PAKITUHI HUT
+StreetDesc=Hawea Conservation Area - South Island > Otago > Wanaka / Makarora > Pakituhi Hu
+Data0=(-44.58166,169.35617)
+[END]
+
+;1188810
+[POI]
+Type=0x2f
+Label=SOUTHTEC NZ
+StreetDesc=Shop 4, 219 Trafalgar st, Nelson/ Apple, iPad, Mac, iMac, Macbook,Apple Service,
+Phone=+6435489994
+zip=Mon - Fri 9:00am - 5:00pm Sat: 10:00am -
+Data0=(-41.27351,173.28431)
 [END]
 

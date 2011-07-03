@@ -11967,14 +11967,6 @@ Phone=+6435248327
 Data0=(-40.59698,172.68843)
 [END]
 
-;1039662
-[POI]
-Type=0x2f01
-Label=MOBIL PAPAROA MOTORS 2005 LTD
-StreetDesc=43 Seven Mile Rd, Paparoa West Coast/ Mobil petrol station
-Data0=(-42.40253,171.24608)
-[END]
-
 ;1039669
 [POI]
 Type=0x2f01
@@ -118640,15 +118632,6 @@ StreetDesc=72 Mountainview Rd, Culveden/ Fuel
 Data0=(-42.76877,172.85260)
 [END]
 
-;1137471
-[POI]
-Type=0x2b00
-Label=CHARLTON LODGE
-StreetDesc=1 Charlton Lane, Gore/ Accommodation
-Phone=+6432089279
-Data0=(-46.11453,168.93379)
-[END]
-
 ;1137472
 [POI]
 Type=0x2a
@@ -146941,10 +146924,10 @@ Data0=(-43.60360,172.72254)
 ;1151442
 [POI]
 Type=0x2f
-Label=?MARLBOROUGH SPORTS AND SPINE 2000 PHYSIOTHERAPY
+Label=MARLBOROUGH SPORTS AND SPINE 2000 PHYSIOTHERAPY
 StreetDesc=Stadium 2000, Kinross St, Blenheim/ Physiotherapist, physio
 Phone=+6435793969
-Data0=(-41.51482,173.96321)
+Data0=(-41.51512,173.95907)
 [END]
 
 ;1151447
@@ -203706,7 +203689,8 @@ Data0=(-41.51500,173.95719)
 [POI]
 Type=0x2a
 Label=ACCENT RESTAURANT LTD
-StreetDesc=14 Scott St, Blenheim/ 
+StreetDesc=14 Scott St, Blenheim/ Restaurant
+Phone=+6435787895
 Data0=(-41.51492,173.95661)
 [END]
 
@@ -203788,14 +203772,6 @@ Type=0x2a
 Label=BACCHUS RESTAURANT
 StreetDesc=3 Main St, Blenheim/ 
 Data0=(-41.51363,173.95762)
-[END]
-
-;1181225
-[POI]
-Type=0x2a07
-Label=MCDONALDS FAMILY RESTAURANT
-StreetDesc=24 Main St, Blenheim/ 
-Data0=(-41.51358,173.96188)
 [END]
 
 ;1181226
@@ -203978,8 +203954,9 @@ Data0=(-41.51187,173.95079)
 [POI]
 Type=0x2a07
 Label=CODFATHERS TAKEAWAY
-StreetDesc=149 High St, Blenheim/ 
-Data0=(-41.51187,173.95079)
+StreetDesc=149 High St, Blenheim/ Takeaways, Fish & Chips, Hamburgers
+Phone=+6435777797
+Data0=(-41.51186,173.95075)
 [END]
 
 ;1181249
@@ -204586,9 +204563,9 @@ Data0=(-41.52912,173.93398)
 ;1181331
 [POI]
 Type=0x2c08
-Label=?WATERLEA RACE COURSE
-StreetDesc=Old Renwick Rd, Blenheim/ 
-Data0=(-41.49897,173.93684)
+Label=WATERLEA RACE COURSE
+StreetDesc=Old Renwick Rd, Blenheim/ Horse Racing, & Trainng
+Data0=(-41.49868,173.94604)
 [END]
 
 ;1181332
@@ -206385,5 +206362,33 @@ StreetDesc=Shop 4, 219 Trafalgar st, Nelson/ Apple, iPad, Mac, iMac, Macbook,App
 Phone=+6435489994
 zip=Mon - Fri 9:00am - 5:00pm Sat: 10:00am -
 Data0=(-41.27351,173.28431)
+[END]
+
+;1188813
+[POI]
+Type=0x2a07
+Label=BURGER KING BLENHEIM
+StreetDesc=34-36 Main St Blenheim/ Takeaways, Hamburgers
+Phone=+6435795438
+zip=Open from 8am
+Data0=(-41.51353,173.96283)
+[END]
+
+;1188814
+[POI]
+Type=0x2a
+Label=FAN'S CHINESE
+StreetDesc=14 Alfred St Blenheim Marlborough 7201/ Restaurant, Takeaways
+Phone=+6435793283
+Data0=(-41.51098,173.95816)
+[END]
+
+;1188815
+[POI]
+Type=0x2a07
+Label=HIGH ST TAKEAWAYS
+StreetDesc=151 High St Blenheim Marlborough/ Takeaways
+Phone=+6435791393
+Data0=(-41.51186,173.95075)
 [END]
 

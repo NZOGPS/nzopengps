@@ -87664,7 +87664,7 @@ Data0=(-43.52020,172.65541)
 [POI]
 Type=0x2c05
 Label=ROSA GIARDINO MONTESSORI NURSERY SCHOOL
-StreetDesc=22 A Mccormacks Bay Rd, Mt Pleasant, Chc/ Childcare Centre, montessori
+StreetDesc=Truro st, Sumner, Chc (in Van Asch campus)/ Childcare Centre, montessori
 Phone=+6421619150
 Data0=(-43.55809,172.72406)
 [END]
@@ -154907,11 +154907,11 @@ Data0=(-45.40616,167.74569)
 ;1156507
 [POI]
 Type=0x2e
-Label=VIA SOLLERTIA JEWELLERY
-StreetDesc=78 Worcester St, Chc./ Manufacturing Jewellers. Retail / Wholesale
+Label=VIA SOLLERTIA JEWELLERY LTD
+StreetDesc=Woodchester Ave Richmond 8013/ Manufacturing Jewellers. Retail / Wholesale
 Phone=+6433668001
-zip=Mon-Thu 10am-6pm, Fri 10am-7pm, Sat 11am
-Data0=(-43.53109,172.63419)
+zip=Mon-Thu 11am-5.30pm, Fri 11am-6.30pm, Sa
+Data0=(-43.51491,172.66363)
 [END]
 
 ;1156509
@@ -169959,9 +169959,9 @@ Data0=(-45.05013,169.18016)
 [POI]
 Type=0x2f
 Label=BUFF HEALTH & BEAUTY CLINIC
-StreetDesc=118 Centennial Ave, Alexandra/ Health & Beauty Clinic
+StreetDesc=118 Centennial Ave, Alexandra/ Health & Beauty Clinic. Massage, treatments, faci
 Phone=+6434489069
-Data0=(-45.24830,169.38455)
+Data0=(-45.24831,169.38453)
 [END]
 
 ;1165235
@@ -206390,5 +206390,15 @@ Label=HIGH ST TAKEAWAYS
 StreetDesc=151 High St Blenheim Marlborough/ Takeaways
 Phone=+6435791393
 Data0=(-41.51186,173.95075)
+[END]
+
+;1188821
+[POI]
+Type=0x2f11
+Label=ACTIVE TRAVEL COMPANY
+StreetDesc=45 The Mall Cromwell/ Tours & Travel: Otago Central Rail Trail, Vietnam, Cambodi
+Phone=+03445492
+zip=Monday to Friday 8.30am to 5pm
+Data0=(-45.03723,169.19748)
 [END]
 

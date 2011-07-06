@@ -41196,10 +41196,10 @@ Data0=(-43.52518,172.63640)
 [POI]
 Type=0x2f
 Label=ADVANCED FIBREGLASS 2008 LTD - CARBONFIBRE & EPOXY FACTORY DUNEDIN
-StreetDesc=36 Orari St, South Dud, Dud 9012/ Advanced Fibreglass Dunedin - Fiberglass, grp,
-Phone=+6434551454
+StreetDesc=14 Birch St, Dud, 9016/ Advanced Fibreglass Dunedin - Fiberglass, grp, polyester
+Phone=+6434701253
 zip=8.00am - 4.30pm Monday-Friday or by appo
-Data0=(-45.88889,170.50811)
+Data0=(-45.88136,170.50852)
 [END]
 
 ;1100726
@@ -206400,5 +206400,32 @@ StreetDesc=45 The Mall Cromwell/ Tours & Travel: Otago Central Rail Trail, Vietn
 Phone=+03445492
 zip=Monday to Friday 8.30am to 5pm
 Data0=(-45.03723,169.19748)
+[END]
+
+;1188830
+[POI]
+Type=0x2f
+Label=JANE PARRY NATUROPATH
+StreetDesc=48 Kelvin Rd, Northeast Valley Dud 9010/ Naturopath specializing in preventative
+Phone=+6434738433
+Data0=(-45.84354,170.53473)
+[END]
+
+;1188832
+[POI]
+Type=0x2b02
+Label=ANSELM HOUSE
+StreetDesc=34 Kahu Rd, Fendalton,Chc 8041 New Zealand/ Bed & Breakfast Christchurch Accommo
+Phone=+6433434260
+Data0=(-43.52568,172.59946)
+[END]
+
+;1188834
+[POI]
+Type=0x2f
+Label=POSITIVE EARTH
+StreetDesc=9 ash Ave, Wanaka 9305/ Landscaping, Landscaper, Gardening services, Garden main
+Phone=+6434431324
+Data0=(-44.68355,169.18482)
 [END]
 

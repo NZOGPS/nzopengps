@@ -100573,8 +100573,9 @@ Data0=(-43.54338,172.61246)
 [POI]
 Type=0x2f
 Label=CANTERBURY CHEESEMONGERS
-StreetDesc=44 Salisbury St, Chc/ 
-Data0=(-43.52451,172.63145)
+StreetDesc=The Arts Ctr, Old Registry Blg, 301 Montreal St, Chc/ cheese, bakery, groceries
+Phone=+6433790075
+Data0=(-43.53142,172.63045)
 [END]
 
 ;1131037
@@ -172292,16 +172293,9 @@ Data0=(-43.53628,172.62629)
 [POI]
 Type=0x2f
 Label=CHRISTCHURCH SURGICAL ASSOCIATES
-StreetDesc=245 Papanui Rd, Chc/ 
-Data0=(-43.51026,172.61929)
-[END]
-
-;1166133
-[POI]
-Type=0x2f
-Label=CHRISTCHURCH SURGICAL ASSOCIATES, ENDOSCOPY CLINIC, HERNIA CENTRE
-StreetDesc=249 Papanui Rd, Chc/ 
-Data0=(-43.50984,172.61939)
+StreetDesc=146 Leinster Rd, Merivale, Chc/ 
+Phone=+6433754413
+Data0=(-43.51127,172.61911)
 [END]
 
 ;1166134
@@ -206427,5 +206421,25 @@ Label=NEWTON & SYKES
 StreetDesc=77 Leith St Dud, 9016/ Accident repairs & car body improvements for all vehicles
 Phone=+6434776581
 Data0=(-45.87166,170.51192)
+[END]
+
+;1188849
+[POI]
+Type=0x2f
+Label=SWING SOUTH WEST COAST SWING
+StreetDesc=St Paul's Church Hall, 1 Harewood Rd, Papanui, Chc/ West Coast Swing Modern Part
+Phone=+6427747335
+zip=Tuesdays 7.30-8.30pm
+Data0=(-43.49728,172.60722)
+[END]
+
+;1188851
+[POI]
+Type=0x2e07
+Label=ROCKIES
+StreetDesc=49 Beach St, Queenstown/ A boutique childrens clothing store for new born to 16 
+Phone=+34428153
+zip=9am - 9pm 7 days per week
+Data0=(-45.03234,168.65893)
 [END]
 

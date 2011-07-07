@@ -155770,7 +155770,7 @@ Data0=(-42.93769,171.56119)
 Type=0x2d02
 Label=ATEFORATE FOOD BAR
 StreetDesc=848 Jones Rd, Rolleston/ bar
-Data0=(-43.58859,172.37794)
+Data0=(-43.58877,172.37711)
 [END]
 
 ;1157600
@@ -169964,15 +169964,6 @@ Phone=+6434489069
 Data0=(-45.24831,169.38453)
 [END]
 
-;1165235
-[POI]
-Type=0x2e09
-Label=HANSON REMOVALS, ALEXANDRA
-StreetDesc=56 Boundary Rd , Alexandra/ Furniture Removal, Frieght, Rental Trucks, Storage
-Phone=+6421771883
-Data0=(-45.24843,169.37217)
-[END]
-
 ;1165236
 [POI]
 Type=0x2b00
@@ -170066,9 +170057,9 @@ Data0=(-45.09390,169.60163)
 [POI]
 Type=0x2b00
 Label=CHURCH HILL BED AND BREAKFAST
-StreetDesc=21 Racecourse Rd, Omakau/ Accommodation
-Phone=+6434473457
-Data0=(-45.08945,169.59952)
+StreetDesc=21 Racecourse Rd, Omakau/ B&B Accommodation
+Phone=+6434473936
+Data0=(-45.08945,169.59961)
 [END]
 
 ;1165247
@@ -206427,5 +206418,14 @@ Label=POSITIVE EARTH
 StreetDesc=9 ash Ave, Wanaka 9305/ Landscaping, Landscaper, Gardening services, Garden main
 Phone=+6434431324
 Data0=(-44.68355,169.18482)
+[END]
+
+;1188838
+[POI]
+Type=0x2f03
+Label=NEWTON & SYKES
+StreetDesc=77 Leith St Dud, 9016/ Accident repairs & car body improvements for all vehicles
+Phone=+6434776581
+Data0=(-45.87166,170.51192)
 [END]
 

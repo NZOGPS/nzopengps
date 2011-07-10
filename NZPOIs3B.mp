@@ -206443,3 +206443,19 @@ zip=9am - 9pm 7 days per week
 Data0=(-45.03234,168.65893)
 [END]
 
+;1188865
+[POI]
+Type=0x2f0c
+Label=GALLERY TOILETS
+StreetDesc=9 Rolleston Ave Chc Central 8013/ Public toilets
+Data0=(-43.53097,172.62585)
+[END]
+
+;1188868
+[POI]
+Type=0x4a00
+Label=OKIWI BAY REST AREA
+StreetDesc=SH1 South of Waipapa Bay/ Rest Area
+Data0=(-42.21697,173.86560)
+[END]
+

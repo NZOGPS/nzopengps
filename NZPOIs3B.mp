@@ -7818,9 +7818,9 @@ Data0=(-45.09704,170.97169)
 [POI]
 Type=0x2e
 Label=PAPER PLUS QUEENSTOWN
-StreetDesc=10 Brecon St, Queenstown/ bookshop, books
+StreetDesc=30 The Mall, Queenstown/ bookshop, books
 Phone=+6434425296
-Data0=(-45.03145,168.65856)
+Data0=(-45.03207,168.66109)
 [END]
 
 ;1026978
@@ -140454,7 +140454,9 @@ Data0=(-43.48369,172.68082)
 [POI]
 Type=0x2f
 Label=STRANDS HAIR COMPANY
-StreetDesc=89 Lichfield St, Chc/ Hairdresser
+StreetDesc=478 GREERS Rd, BISHOPDALE/ Hairdresser
+Phone=+6433791577
+zip=LATE NIGHT THURSDAY AND FRIDAY .OPEN SAT
 Data0=(-43.53409,172.63888)
 [END]
 
@@ -162821,7 +162823,7 @@ Type=0x2e
 Label=SMIGGLE QUEENSTOWN
 StreetDesc=Queenstown Mall, Cnr Camp And Ballarat St, Queenstown/ Stationery
 Phone=+6434090333
-Data0=(-45.03193,168.66157)
+Data0=(-45.03198,168.66158)
 [END]
 
 ;1160316
@@ -206457,5 +206459,35 @@ Type=0x4a00
 Label=OKIWI BAY REST AREA
 StreetDesc=SH1 South of Waipapa Bay/ Rest Area
 Data0=(-42.21697,173.86560)
+[END]
+
+;1188871
+[POI]
+Type=0x2f
+Label=CHRISTCHURCH ACCOUNTANTS, SOAR LIMITED, ACCOUNTING & BUSINESS COACHES
+StreetDesc=L 1, 69 St Asaph St, Chc/ Christchurch Accountants offering a fully range of acc
+Phone=+6439814214
+zip=9am to 5pm Monday to Friday
+Data0=(-43.53628,172.62873)
+[END]
+
+;1188873
+[POI]
+Type=0x2f
+Label=NITESPA BEAUTY THERAPY
+StreetDesc=48 Rene St, Blenheim, Marlborough 7272/ Beauty Therapy
+Phone=+6435794044
+zip=9am till late
+Data0=(-41.50445,173.92186)
+[END]
+
+;1188881
+[POI]
+Type=0x2f
+Label=ADDSTAFF
+StreetDesc=Shop 14, The Mall, Queenstown/ Queenstowns leading employment agency
+Phone=+6434424307
+zip=Mon-Fri 9am-5pm
+Data0=(-45.03233,168.66070)
 [END]
 

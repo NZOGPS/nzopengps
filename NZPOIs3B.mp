@@ -140454,9 +140454,9 @@ Data0=(-43.48369,172.68082)
 [POI]
 Type=0x2f
 Label=STRANDS HAIR COMPANY
-StreetDesc=478 GREERS Rd, BISHOPDALE/ Hairdresser
+StreetDesc=478 Greers Rd, Bishopdale, Chc/ Hairdresser
 Phone=+6433791577
-zip=LATE NIGHT THURSDAY AND FRIDAY .OPEN SAT
+zip=Late night Thu and Fri, open Sat
 Data0=(-43.53409,172.63888)
 [END]
 
@@ -206464,11 +206464,11 @@ Data0=(-42.21697,173.86560)
 ;1188871
 [POI]
 Type=0x2f
-Label=CHRISTCHURCH ACCOUNTANTS, SOAR LIMITED, ACCOUNTING & BUSINESS COACHES
+Label=SOAR LIMITED
 StreetDesc=L 1, 69 St Asaph St, Chc/ Christchurch Accountants offering a fully range of acc
 Phone=+6439814214
 zip=9am to 5pm Monday to Friday
-Data0=(-43.53628,172.62873)
+Data0=(-43.53628,172.62866)
 [END]
 
 ;1188873

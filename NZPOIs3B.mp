@@ -140232,10 +140232,11 @@ Data0=(-43.53033,172.63416)
 ;1146986
 [POI]
 Type=0x2f
-Label=SHAMBHALA HAIR DESIGN
-StreetDesc=1st Fl, 209 Tuam St, Chc/ Hairdresser
-Phone=+6433793719
-Data0=(-43.53519,172.64034)
+Label=?SHAMBHALA HAIR DESIGN
+StreetDesc=9 Ernlea Terrace, Chc/ Hairdresser
+Phone=+6433376050
+zip=Tuesday - Saturday
+Data0=(-43.56193,172.63533)
 [END]
 
 ;1146987
@@ -198201,10 +198202,10 @@ Data0=(-43.48765,172.61638)
 ;1178242
 [POI]
 Type=0x2f
-Label=ACTIVE PODIATRY - QEII
-StreetDesc=Active Health QEII, QEII Sports Stadium, Travis Rd, Chc/ podiatry, sports podiat
+Label=ACTIVE PODIATRY - RUTLAND STREET
+StreetDesc=39a Rutland St, St Albans, Chc/ podiatry, sports podiatry, orthotics, ankle, kne
 Phone=+6433836290
-Data0=(-43.49179,172.70628)
+Data0=(-43.50767,172.62906)
 [END]
 
 ;1178243
@@ -198219,10 +198220,10 @@ Data0=(-43.50904,172.72758)
 ;1178244
 [POI]
 Type=0x2f
-Label=ACTIVE PODIATRY - FERRYMEAD
-StreetDesc=14B Settlers Cresent, Ferrymead, Chc/ podiatry, sports podiatry, orthotics, ankl
+Label=ACTIVE PODIATRY - SUMNER
+StreetDesc=46 Nayland St, Sumner, Chc/ podiatry, sports podiatry, orthotics, ankle, knee an
 Phone=+6433840156
-Data0=(-43.55928,172.70509)
+Data0=(-43.57013,172.75978)
 [END]
 
 ;1178246
@@ -206489,5 +206490,32 @@ StreetDesc=Shop 14, The Mall, Queenstown/ Queenstowns leading employment agency
 Phone=+6434424307
 zip=Mon-Fri 9am-5pm
 Data0=(-45.03233,168.66070)
+[END]
+
+;1188904
+[POI]
+Type=0x2f
+Label=DAVID SISSONS LANDSCAPE ARCHITECT
+StreetDesc=23 Cropp Place, Richmond, Tasman 7020/ Landscape architecture service to private
+Phone=+6435441573
+Data0=(-41.35035,173.20540)
+[END]
+
+;1188906
+[POI]
+Type=0x2f
+Label=ACTION ELECTRIC
+StreetDesc=Unit 8, 18 Taurus Place, Chc, New Zealand/ Christchurch Electricians Electrical 
+Phone=+6433817477
+Data0=(-43.53076,172.69632)
+[END]
+
+;1188908
+[POI]
+Type=0x2b00
+Label=SIROCCO FISHING CHARTERS
+StreetDesc=13 Cardiff St, Moeraki 9482/ Fishing, fishing charters, accommodation
+Phone=+6434394818
+Data0=(-45.36004,170.85840)
 [END]
 

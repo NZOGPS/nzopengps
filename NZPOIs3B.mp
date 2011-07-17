@@ -206519,3 +206519,11 @@ Phone=+6434394818
 Data0=(-45.36004,170.85840)
 [END]
 
+;1188919
+[POI]
+Type=0x2c06
+Label=RUGBY PARK
+StreetDesc=Cnr Rutland & Malvern St, Chc/ aka Malvern Park
+Data0=(-43.50626,172.62876)
+[END]
+

@@ -155773,7 +155773,7 @@ Data0=(-42.93769,171.56119)
 [POI]
 Type=0x2d02
 Label=ATEFORATE FOOD BAR
-StreetDesc=848 Jones Rd, Rolleston/ bar
+StreetDesc=848 Jones Rd, Rolleston/ Takeaways
 Data0=(-43.58877,172.37711)
 [END]
 
@@ -191730,15 +191730,6 @@ zip=Mon-Wed 9am-6pm, Thu-Fri 9am-6:30pm, Sat
 Data0=(-43.54275,172.52427)
 [END]
 
-;1174353
-[POI]
-Type=0x2e
-Label=STADIA SPORTS
-StreetDesc=The Hub Hornby, 418 Main South Rd, Hornby, Chc/ 
-zip=Mon-Wed 9am-6pm, Thu-Fri 9am-6:30pm, Sat
-Data0=(-43.54247,172.52325)
-[END]
-
 ;1174354
 [POI]
 Type=0x2a02
@@ -206514,7 +206505,7 @@ Data0=(-43.53076,172.69632)
 [POI]
 Type=0x2b00
 Label=SIROCCO FISHING CHARTERS
-StreetDesc=13 Cardiff St, Moeraki 9482/ Fishing, fishing charters, accommodation
+StreetDesc=13 Cardiff St, Moeraki 9482/ Fishing, fishing charters, accommodation, fish
 Phone=+6434394818
 Data0=(-45.36004,170.85840)
 [END]
@@ -206525,5 +206516,25 @@ Type=0x2c06
 Label=RUGBY PARK
 StreetDesc=Cnr Rutland & Malvern St, Chc/ aka Malvern Park
 Data0=(-43.50626,172.62876)
+[END]
+
+;1188931
+[POI]
+Type=0x2f
+Label=CHRISTCHURCH ELECTRICIAN, PAUL HOWELLS ELECTRICAL CHRISTCHURCH
+StreetDesc=90 Hmtn Avennue, Chc/ Christchruch Electrician, Paul Howells Electricial is a Re
+Phone=+6427414797
+zip=8am to 6pm Monday to Friday
+Data0=(-43.51696,172.58405)
+[END]
+
+;1188932
+[POI]
+Type=0x2a07
+Label=SUBWAY LINCOLN
+StreetDesc=5c Robert St, Lincoln/ Fast food restaurant, sandwiches, salads, takeaways
+Phone=+6433257453
+zip=Sun-Tue 6.30am-8pm, Wed-Sat 6.30am-9pm
+Data0=(-43.64071,172.48458)
 [END]
 

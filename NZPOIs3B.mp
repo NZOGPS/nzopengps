@@ -206538,3 +206538,13 @@ zip=Sun-Tue 6.30am-8pm, Wed-Sat 6.30am-9pm
 Data0=(-43.64071,172.48458)
 [END]
 
+;1188940
+[POI]
+Type=0x2f
+Label=FINANCE 247 24HR
+StreetDesc=243 Lowes Rd Rolleston Canterbury/ Car finance, personal loans, debt consolidati
+Phone=0800346247
+zip=247!
+Data0=(-43.60992,172.36576)
+[END]
+

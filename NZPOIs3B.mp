@@ -123362,9 +123362,11 @@ Data0=(-43.88080,169.04122)
 ;1138566
 [POI]
 Type=0x2f
-Label=?HAAST STORE
-StreetDesc=Haast Beach, South Westland/ 
-Data0=(-43.85950,169.00730)
+Label=HAAST BEACH GENERAL STORE
+StreetDesc=Haast Beach, South Westland 7844/ Come visit our well stocked country general st
+Phone=+6437500825
+zip=9am - 6pm Mon-Sat
+Data0=(-43.85671,169.01428)
 [END]
 
 ;1138567
@@ -204519,8 +204521,10 @@ Data0=(-41.50025,173.95622)
 [POI]
 Type=0x2f
 Label=?DOLPHIN WATCH AND NATURE ECOTOURS
-StreetDesc=Wlg St, Picton/ 
-Data0=(-41.29299,174.00763)
+StreetDesc=London Qy, The Waterfront, Picton/ Swim with Dolphins, bird sanctury guided walk
+Phone=+6435738040
+zip=8am to 6pm
+Data0=(-41.29059,174.00100)
 [END]
 
 ;1181329
@@ -206546,5 +206550,32 @@ StreetDesc=243 Lowes Rd Rolleston Canterbury/ Car finance, personal loans, debt 
 Phone=0800346247
 zip=247!
 Data0=(-43.60992,172.36576)
+[END]
+
+;1188945
+[POI]
+Type=0x2f
+Label=LIVINGSTONE BUSINESS CONSULTANTS AND BOARD SERVICES
+StreetDesc=20A Victors Rd, Hoon Hay, Chc 8025/ Business Consultants, Policy Templates, Gove
+Data0=(-43.56552,172.59902)
+[END]
+
+;1188947
+[POI]
+Type=0x2b01
+Label=?EREWHON BEACH MOTEL
+StreetDesc=Haast Beach, Haast/ Beautiful beachside location. Studio motels and larger apart
+Phone=+6437500803
+zip=Check in after 2pm, 7 days per week.
+Data0=(-43.87185,168.98947)
+[END]
+
+;1188949
+[POI]
+Type=0x2f
+Label=YOULL SAY WOW CARPET CLEANING
+StreetDesc=8 Churchill St St. Kilda Dud 9012/ For carpet cleaning, stain removal, water dam
+Phone=+6434553874
+Data0=(-45.90142,170.50059)
 [END]
 

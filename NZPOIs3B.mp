@@ -206579,3 +206579,22 @@ Phone=+6434553874
 Data0=(-45.90142,170.50059)
 [END]
 
+;1188953
+[POI]
+Type=0x2f
+Label=MA-FI ARTS WORKSHOP
+StreetDesc=King Edward Court, Rooms 104-105 261-291 Stuart St Dud 9016/ art, art school, ar
+Phone=+6434776112
+Data0=(-45.87305,170.49884)
+[END]
+
+;1188955
+[POI]
+Type=0x2F02
+Label=BETTER RENTALS
+StreetDesc=266 St Asaph St, Chc 8011/ Car Rentals Christchurch Airport
+Phone=+6433652979
+zip=8:30am - 5:30pm
+Data0=(-43.53666,172.64199)
+[END]
+

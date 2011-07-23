@@ -206598,3 +206598,13 @@ zip=8:30am - 5:30pm
 Data0=(-43.53666,172.64199)
 [END]
 
+;1188961
+[POI]
+Type=0x2f
+Label=DAD AND THE LAD
+StreetDesc=56 walters Rd Marslands, Chc 8051/ Lawn mowing, garden maintenance / yard mainte
+Phone=+6436692444
+zip=730 am to 7 pm 7 days a week
+Data0=(-43.48291,172.65022)
+[END]
+

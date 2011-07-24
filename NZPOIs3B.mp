@@ -206608,3 +206608,22 @@ zip=730 am to 7 pm 7 days a week
 Data0=(-43.48291,172.65022)
 [END]
 
+;1188965
+[POI]
+Type=0x2f
+Label=WEST COAST SHUTTLE
+StreetDesc=Riccarton Mall Chc/ coach, bus, transport,ChCh Airport, arthurs'pass,Greymouth, 
+Phone=+6427492748
+zip=2.30 pm
+Data0=(-43.53013,172.59667)
+[END]
+
+;1188968
+[POI]
+Type=0x2f
+Label=KIWIS STAT LTD
+StreetDesc=Unit 1, 48 Lismore St, Phillipstown, Chc/ Medical Locums in Australia and New Ze
+Phone=0800562867
+Data0=(-43.54372,172.65302)
+[END]
+

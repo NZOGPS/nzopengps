@@ -43020,15 +43020,6 @@ Phone=+6433834559
 Data0=(-43.50107,172.69127)
 [END]
 
-;1101592
-[POI]
-Type=0x2f
-Label=ATOMIC TRAVEL
-StreetDesc=Dropoff: 88 Worcester St, Chc/ 
-Phone=+6433228883
-Data0=(-43.53109,172.63466)
-[END]
-
 ;1101666
 [POI]
 Type=0x2f
@@ -110725,15 +110716,6 @@ StreetDesc=35 Manchester St, Chc/ Motorcycle sales and service, Harley Davidson,
 Phone=+6433660129
 zip=Tuesday-Friday: 8.00am - 6.00pm. Saturda
 Data0=(-43.53825,172.63949)
-[END]
-
-;1132470
-[POI]
-Type=0x2f08
-Label=ATOMIC SHUTTLES BUS STOP, CHRISTCHURCH
-StreetDesc=88 Worcester St, Chc/ Ground Transport
-Phone=+6433490697
-Data0=(-43.53109,172.63466)
 [END]
 
 ;1132471
@@ -206625,5 +206607,24 @@ Label=KIWIS STAT LTD
 StreetDesc=Unit 1, 48 Lismore St, Phillipstown, Chc/ Medical Locums in Australia and New Ze
 Phone=0800562867
 Data0=(-43.54372,172.65302)
+[END]
+
+;1188974
+[POI]
+Type=0x2f
+Label=A+ PHYSIO
+StreetDesc=1 Greenacres Str., Macandrew Bay, Dud/ We provide you with the highest standard 
+Phone=+6422126349
+Data0=(-45.86839,170.59814)
+[END]
+
+;1188976
+[POI]
+Type=0x2f03
+Label=HPE AUTOMOTIVE SERVICES
+StreetDesc=29 Battersea St/ Service and repairs
+Phone=+03379416
+zip=Monday - Friday 8am - 5pm
+Data0=(-43.54328,172.63431)
 [END]
 

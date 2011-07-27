@@ -501,8 +501,9 @@ def checkRubyVersion
 end
 
 # #####################
+@override_summary_file_path = 'category_override_summary.csv'
+
 def writeCategoryOverrideSummaryFile
-	@override_summary_file_path = 'category_override_summary.csv'
 	out = CSV.open(@override_summary_file_path, 'w')
 	out << ['zid','name','tags', 'override_category', 'override_category_desc', 'zenbu_category', 'zenbu_category_desc']
 	no_match = Hash.new(0)
@@ -534,8 +535,9 @@ end
 category_path = '../ZenbuPOIcategories2011'
 rewrite.each_pair{|category,list|
 	path = category_path + '/' + category
+	print "Rewriting #{category} with #{list.size} ZIDs\n"
 	out = File.open(path,'w:UTF-8')
-		list.each{|zid|
+	list.sort.each{|zid|
 		out.print "#{zid}\n"
 	}
 };nil

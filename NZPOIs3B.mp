@@ -41360,6 +41360,15 @@ Phone=+6434896268
 Data0=(-45.89759,170.33873)
 [END]
 
+;1100813
+[POI]
+Type=0x2f
+Label=?AHIPARA LUXURY TRAVEL NEW ZEALAND
+StreetDesc=3782 Becks-Lauder Rd, RD2, Omakau, Central Otago/ New Zealands most innovative, 
+Phone=+34473558
+Data0=(-45.09448,169.60187)
+[END]
+
 ;1100827
 [POI]
 Type=0x2f
@@ -91655,9 +91664,9 @@ Data0=(-45.86938,170.50610)
 [POI]
 Type=0x2b01
 Label=755 REGAL COURT MOTEL
-StreetDesc=755 George St, Dud/ Four star motel accommodation
+StreetDesc=755 George St, Dud/ Four star accommodation. Zenbu Wi-Fi wireless internet, chea
 Phone=+6434777729
-Data0=(-45.86128,170.51051)
+Data0=(-45.86125,170.51070)
 [END]
 
 ;1123256
@@ -206626,5 +206635,24 @@ StreetDesc=29 Battersea St/ Service and repairs
 Phone=+03379416
 zip=Monday - Friday 8am - 5pm
 Data0=(-43.54328,172.63431)
+[END]
+
+;1188983
+[POI]
+Type=0x2f
+Label=ROBYN BUIS INTERIOR DESIGN
+StreetDesc=3 Stafford St Dud 9016/ Complete Interior Design service by a trained designer c
+Phone=+6434773982
+Data0=(-45.87962,170.50018)
+[END]
+
+;1188984
+[POI]
+Type=0x2f
+Label=?LEAF HAIR STUDIO
+StreetDesc=83 Moray Place, Dud/ Hairdresser, makeup, wedding etc
+Phone=+6434701279
+zip=10am-6pm (tue-sun)
+Data0=(-45.87434,170.50143)
 [END]
 

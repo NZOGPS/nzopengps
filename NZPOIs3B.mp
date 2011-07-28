@@ -402,7 +402,7 @@ Data0=(-43.49839,172.60891)
 
 ;1001820
 [POI]
-Type=0x2a08
+Type=0x2a
 Label=LA PORCHETTA RICCARTON MALL
 StreetDesc=Shop S314, Rotherham St, Riccarton, Chc/ italian restaurant, pizza, pasta, takea
 Phone=+6433487990
@@ -627,7 +627,7 @@ Data0=(-44.38317,171.23869)
 
 ;1002632
 [POI]
-Type=0x2a0a
+Type=0x2a
 Label=PIZZA HUT ASHBURTON
 StreetDesc=84 East St, Ashburton/ pizza, takeaways
 Phone=0800838383
@@ -10997,7 +10997,7 @@ Data0=(-45.87472,170.50635)
 
 ;1036526
 [POI]
-Type=0x2a0e
+Type=0x2d03
 Label=CINE CAFE AKAROA
 StreetDesc=Corner of Rue Jolie and Selwyn Ave, Akaroa/ luxury cinema, Fully licensed Cafe
 Phone=+6433047678
@@ -11551,7 +11551,7 @@ Data0=(-46.32662,168.84915)
 
 ;1038199
 [POI]
-Type=0x2f01
+Type=0x2F07
 Label=BUTLER AUTO MART STANMORE ROAD SUPA STORE
 StreetDesc=261 Stanmore Rd, Linwood, Chc/ Car parts & accessories, Trailer hire, Auto parts
 Phone=+6433898830
@@ -12299,7 +12299,7 @@ Data0=(-43.81206,172.25200)
 
 ;1041272
 [POI]
-Type=0x2f01
+Type=0x2a0e
 Label=ARTHUR'S PASS CAFE & STORE
 StreetDesc=85 West Coast Rd, Arthur's Pass 7875/ Cafe, food, tearooms, beer, wine, coffee, 
 Phone=+6433189235
@@ -13189,7 +13189,7 @@ Data0=(-45.32382,170.81784)
 
 ;1043253
 [POI]
-Type=0x2f01
+Type=0x2f03
 Label=IAN MERCER LTD
 StreetDesc=10 Market St, Leeston/ Automotive workshop, vehicle repair
 Phone=+6433243457
@@ -13316,7 +13316,7 @@ Data0=(-43.33699,171.92681)
 
 ;1043645
 [POI]
-Type=0x2f01
+Type=0x2F07
 Label=WADSCO MOTORWORLD
 StreetDesc=55-59 Scott St, Blenheim/ Car dealer, Holden & Suzuki, new & used vehicles, part
 Phone=+6435785199
@@ -13361,7 +13361,7 @@ Data0=(-46.14100,168.32511)
 
 ;1044107
 [POI]
-Type=0x2a0e
+Type=0x2a
 Label=TORENHOF BELGIAN BEER CAFE
 StreetDesc=88 Armagh St, Chc/ bar, cafe, licensed restaurant
 Phone=+6493771007
@@ -13591,7 +13591,7 @@ Data0=(-46.32977,168.29096)
 
 ;1044856
 [POI]
-Type=0x2f01
+Type=0x2f03
 Label=LUDEMANN MOTORS
 StreetDesc=8 Main St, Weston, Oamaru/ Car repair workshop, Warrant of fitness issue, Tyres.
 Phone=+6434340291
@@ -14384,7 +14384,7 @@ Data0=(-43.54982,172.68420)
 
 ;1047383
 [POI]
-Type=0x2e03
+Type=0x2e
 Label=THE MAD BUTCHER - COLOMBO
 StreetDesc=303 Colombo St, Chc/ butcher, fresh meat, steak, lamb, chicken
 Phone=+6433322255
@@ -14393,7 +14393,7 @@ Data0=(-43.54941,172.63655)
 
 ;1047390
 [POI]
-Type=0x2e03
+Type=0x2e
 Label=THE MAD BUTCHER - RICCARTON
 StreetDesc=227 Blenheim Rd, Riccarton/ butcher, fresh meat, steak, lamb, chicken
 Phone=+6433487766
@@ -15086,7 +15086,7 @@ Data0=(-44.70712,169.14988)
 
 ;1049490
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=HARVEY NORMAN NORTHWOOD
 StreetDesc=Supa Ctr, Main North Rd, Chc/ Electrical, Computers, Appliances, Furniture, Whit
 Phone=+6433759800
@@ -15096,7 +15096,7 @@ Data0=(-43.45996,172.62407)
 
 ;1049532
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=HARVEY NORMAN BLENHEIM
 StreetDesc=19-21 Maxwell Rd, Blenheim/ Electrical, Computers, Appliances, Furniture, Whitew
 Phone=+6435209700
@@ -15105,7 +15105,7 @@ Data0=(-41.51508,173.95550)
 
 ;1049539
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=HARVEY NORMAN TIMARU
 StreetDesc=226 Evans St, Timaru/ Electrical, Computers, Appliances, Furniture, Whiteware, H
 Phone=+6436877000
@@ -15114,7 +15114,7 @@ Data0=(-44.37232,171.24113)
 
 ;1049595
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=HARVEY NORMAN INVERCARGILL
 StreetDesc=245 Tay St, Invercargill/ Electrical, Computers, Appliances, Furniture, Whitewar
 Phone=+6432199100
@@ -15123,7 +15123,7 @@ Data0=(-46.41322,168.36372)
 
 ;1049602
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=HARVEY NORMAN CHRISTCHURCH
 StreetDesc=Cnr Moorhouse Ave & Colombo St, Chc/ Electrical, Computers, Appliances, Furnitur
 Phone=+6433532440
@@ -15132,7 +15132,7 @@ Data0=(-43.54034,172.63588)
 
 ;1049609
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=HARVEY NORMAN DUNEDIN
 StreetDesc=Cnr Maclaggan & Rattray Streets, Dud/ Electrical, Computers, Appliances, Furnitu
 Phone=+6434716510
@@ -17734,7 +17734,7 @@ Data0=(-43.53341,172.63670)
 
 ;1059262
 [POI]
-Type=0x2f03
+Type=0x2F07
 Label=SUPERCHEAP AUTO INVERCARGILL
 StreetDesc=6 Leet St, Invercargill/ automotive spare parts, hand tools, power tools, paint 
 Phone=+6432144385
@@ -17744,7 +17744,7 @@ Data0=(-46.40731,168.34729)
 
 ;1059269
 [POI]
-Type=0x2f03
+Type=0x2F07
 Label=SUPERCHEAP AUTO, RICCARTON, CHCH
 StreetDesc=Blenheim Rd, Middleton/ automotive spare parts, hand tools, power tools, paint a
 Phone=+6433415087
@@ -17754,7 +17754,7 @@ Data0=(-43.53920,172.57142)
 
 ;1059276
 [POI]
-Type=0x2f03
+Type=0x2F07
 Label=SUPERCHEAP AUTO PAPANUI
 StreetDesc=478-482 Cranford St, Chc/ automotive spare parts, hand tools, power tools, paint
 Phone=+6433548123
@@ -17764,7 +17764,7 @@ Data0=(-43.49108,172.62242)
 
 ;1059283
 [POI]
-Type=0x2f03
+Type=0x2F07
 Label=SUPERCHEAP AUTO WOOLSTON
 StreetDesc=384 Ferry Rd, Woolston, Chc/ automotive spare parts, hand tools, power tools, pa
 Phone=+6433891249
@@ -17774,7 +17774,7 @@ Data0=(-43.54339,172.66684)
 
 ;1059290
 [POI]
-Type=0x2f03
+Type=0x2F07
 Label=SUPERCHEAP AUTO DUNEDIN
 StreetDesc=118 Cumberland St, Dud/ automotive spare parts, hand tools, power tools, paint a
 Phone=+6434772590
@@ -17784,7 +17784,7 @@ Data0=(-45.88098,170.50382)
 
 ;1059297
 [POI]
-Type=0x2f03
+Type=0x2F07
 Label=SUPERCHEAP AUTO, STOKE, NELSON
 StreetDesc=675 Main Rd, Stoke/ automotive spare parts, hand tools, power tools, paint and p
 Phone=+6435478394
@@ -17794,7 +17794,7 @@ Data0=(-41.32029,173.22393)
 
 ;1059304
 [POI]
-Type=0x2f03
+Type=0x2F07
 Label=SUPERCHEAP AUTO BLENHEIM
 StreetDesc=67 Grove Rd, Blenheim/ automotive spare parts, hand tools, power tools, paint an
 Phone=+6435793480
@@ -21866,7 +21866,7 @@ Data0=(-45.01752,168.66234)
 
 ;1072891
 [POI]
-Type=0x2e
+Type=0x2e08
 Label=NELSON TOOLSHED
 StreetDesc=107 Pascoe St, Nelson/ Tools & Machinery
 Phone=+6435472830
@@ -21875,7 +21875,7 @@ Data0=(-41.29654,173.24038)
 
 ;1072898
 [POI]
-Type=0x2e
+Type=0x2e08
 Label=TOOLSHED TIMARU
 StreetDesc=34 North St, Timaru/ Tools & Machinery. DIY & light industrial tools
 Phone=+6436847746
@@ -21884,7 +21884,7 @@ Data0=(-44.40064,171.25266)
 
 ;1072905
 [POI]
-Type=0x2e
+Type=0x2e08
 Label=TOOLSHED DUNEDIN
 StreetDesc=257 Hillside Rd, Dud/ Tools & Machinery
 Phone=+6434551744
@@ -22328,7 +22328,7 @@ Data0=(-45.03009,168.66270)
 
 ;1073906
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=SEQUOIA LODGE & BACKPACKERS
 StreetDesc=3 Nelson Sq, Picton/ Motel & Backpacker accommodation. BBH member. Free hot choc
 Phone=+6435738399
@@ -29342,7 +29342,7 @@ Data0=(-46.32348,168.84984)
 
 ;1090174
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=PHOTOWAREHOUSE CHRISTCHURCH
 StreetDesc=207 Durham St South, Chc Central/ Cameras & Accessories, film, Digital photos, F
 Phone=+6433663151
@@ -29352,7 +29352,7 @@ Data0=(-43.53706,172.63348)
 
 ;1090181
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=PAUL'S CAMERA SHOP
 StreetDesc=114d Riccarton Rd, Chc/ Cameras & Accessories, film, Digital photos, Film proces
 Phone=+6439626070
@@ -29362,7 +29362,7 @@ Data0=(-43.52969,172.59950)
 
 ;1090188
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=KEN'S DIGITAL PHOTO SHOP
 StreetDesc=132 Armagh St, Chc/ Cameras & Accessories, film, Digital photos, Film processing
 Phone=+6433661985
@@ -29372,7 +29372,7 @@ Data0=(-43.52890,172.63740)
 
 ;1090223
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=JONATHAN'S CAMERA & VIDEO
 StreetDesc=Cnr George & St Andrew Streets, Dud/ Cameras & Accessories, film, Digital photos
 Phone=+6434777919
@@ -29382,7 +29382,7 @@ Data0=(-45.87189,170.50511)
 
 ;1090230
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=PHOTO AND VIDEO INTERNATIONAL
 StreetDesc=Shop 9, Merivale Mall, Papanui Rd, Chc/ Cameras & Accessories, film, Digital pho
 Phone=0800226372
@@ -30559,7 +30559,7 @@ Data0=(-44.84074,169.32922)
 
 ;1092050
 [POI]
-Type=0x2a0e
+Type=0x2a
 Label=MONTEITHS
 StreetDesc=26 Centennial Ave, Alexandra/ Bar Restaurant
 Phone=+6434489189
@@ -30597,7 +30597,7 @@ Data0=(-45.25078,169.38785)
 
 ;1092078
 [POI]
-Type=0x2a0e
+Type=0x2a
 Label=COURTHOUSE CAFE & RESTAURANT
 StreetDesc=8 Centennial Ave, Alexandra/ Restaurant Cafe
 Phone=+6434487818
@@ -30625,7 +30625,7 @@ Data0=(-45.09409,169.60206)
 
 ;1092099
 [POI]
-Type=0x2a0e
+Type=0x2b02
 Label=THE OLD BAKERY B&B
 StreetDesc=37 Swindon St, Ophir/ B&B accommodation, Bed & Breakfast
 Phone=+6434473704
@@ -30695,7 +30695,7 @@ Data0=(-44.48906,169.97062)
 
 ;1092309
 [POI]
-Type=0x2c01
+Type=0x2f
 Label=OMARAMA PLAYGROUND
 StreetDesc=State Highway 83, Omarama/ Playground
 Data0=(-44.48907,169.96997)
@@ -30703,7 +30703,7 @@ Data0=(-44.48907,169.96997)
 
 ;1092316
 [POI]
-Type=0x2a
+Type=0x2a0e
 Label=WHITESTONE CHEESE
 StreetDesc=3 Torridge St, Oamaru/ Cafe, Tourist Attraction, Cheese Shop, Cheese Factory
 Phone=+6434348098
@@ -30740,7 +30740,7 @@ Data0=(-46.40705,168.38108)
 
 ;1092491
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=POWERSTORE MOORHOUSE AVE
 StreetDesc=Cnr Moorhouse and Montreal St, Chc/ home appliances, consumer electronics, home 
 Phone=+6439833444
@@ -30749,7 +30749,7 @@ Data0=(-43.54017,172.63092)
 
 ;1092498
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=POWERSTORE RICCARTON
 StreetDesc=334 Riccarton Rd, Chc/ home appliances, consumer electronics, home entertainment
 Phone=+6433410240
@@ -30758,7 +30758,7 @@ Data0=(-43.53143,172.57625)
 
 ;1092505
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=POWERSTORE NORTHWOOD
 StreetDesc=Northwood Supa Ctr, Belfast, Chc/ home appliances, consumer electronics, home en
 Phone=+6433239641
@@ -30767,7 +30767,7 @@ Data0=(-43.45943,172.62519)
 
 ;1092512
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=POWERSTORE RICHMOND
 StreetDesc=Richmond Mall, Richmond/ home appliances, consumer electronics, home entertainme
 Phone=+6435439811
@@ -30776,7 +30776,7 @@ Data0=(-41.33870,173.18650)
 
 ;1092526
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=POWERSTORE NELSON
 StreetDesc=131 Trafalgar St, Nelson/ home appliances, consumer electronics, home entertainm
 Phone=+6435469699
@@ -30785,7 +30785,7 @@ Data0=(-41.27179,173.28425)
 
 ;1092540
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=POWERSTORE DUNEDIN
 StreetDesc=505 Princes St, Dud/ home appliances, consumer electronics, home entertainment, 
 Phone=+6434777709
@@ -30794,7 +30794,7 @@ Data0=(-45.88172,170.49935)
 
 ;1092547
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=POWERSTORE GORE
 StreetDesc=33 Main St, Gore/ home appliances, consumer electronics, home entertainment, hea
 Phone=+6432089350
@@ -30803,7 +30803,7 @@ Data0=(-46.09974,168.94578)
 
 ;1092554
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=POWERSTORE INVERCARGILL
 StreetDesc=3 Bond Place, Invercargill/ home appliances, consumer electronics, home entertai
 Phone=+6432186088
@@ -30812,7 +30812,7 @@ Data0=(-46.40859,168.34161)
 
 ;1092561
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=SMITHS CITY ALEXANDRA
 StreetDesc=58 Tarbert St, Alexandra/ appliances, furniture, furnishings, tools, outdoors
 Phone=+6434402050
@@ -30822,7 +30822,7 @@ Data0=(-45.25648,169.39284)
 
 ;1092568
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=SMITHS CITY ASHBURTON
 StreetDesc=38 Kermode St, Ashburton/ appliances, furniture, furnishings, tools, outdoors
 Phone=+6433079110
@@ -30832,7 +30832,7 @@ Data0=(-43.90583,171.74303)
 
 ;1092575
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=SMITHS CITY BLENHEIM
 StreetDesc=43 Scott St, Blenheim/ appliances, furniture, furnishings, tools, outdoors
 Phone=+6435772690
@@ -30842,7 +30842,7 @@ Data0=(-41.51585,173.95711)
 
 ;1092582
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=SMITHS CITY DUNEDIN
 StreetDesc=84 Filleul St, Dud/ appliances, furniture, furnishings, tools, outdoors
 Phone=+6434776721
@@ -30852,7 +30852,7 @@ Data0=(-45.86920,170.50445)
 
 ;1092589
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=SMITHS CITY GORE
 StreetDesc=Corner of Irwell St & Tower Lane, Gore/ appliances, furniture, furnishings, tool
 Phone=+6432039024
@@ -30862,7 +30862,7 @@ Data0=(-46.09758,168.94653)
 
 ;1092596
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=SMITHS CITY GREYMOUTH
 StreetDesc=Cnr Boundary and Herbert St, Greymouth/ appliances, furniture, furnishings, tool
 Phone=+6437684205
@@ -30872,7 +30872,7 @@ Data0=(-42.44905,171.20682)
 
 ;1092603
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=SMITHS CITY INVERCARGILL
 StreetDesc=100 Leven St, Invercargill/ appliances, furniture, furnishings, tools, outdoors
 Phone=+6432110010
@@ -30882,7 +30882,7 @@ Data0=(-46.40685,168.34529)
 
 ;1092610
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=SMITHS CITY KAIKOURA
 StreetDesc=130 Beach Rd, Kaikoura/ appliances, furniture, furnishings, tools, outdoors
 Phone=+6433196350
@@ -30892,7 +30892,7 @@ Data0=(-42.38729,173.67961)
 
 ;1092617
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=SMITHS CITY NELSON
 StreetDesc=29 Hardy St, Nelson/ appliances, furniture, furnishings, tools, outdoors
 Phone=+6435482149
@@ -30902,7 +30902,7 @@ Data0=(-41.27450,173.27955)
 
 ;1092624
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=SMITHS CITY OAMARU
 StreetDesc=28 Eden St, Oamaru/ appliances, furniture, furnishings, tools, outdoors
 Phone=+6434331000
@@ -30912,7 +30912,7 @@ Data0=(-45.09589,170.96942)
 
 ;1092631
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=SMITHS CITY QUEENSTOWN
 StreetDesc=Remarkables Park, Hawthorn Rd, Frankton/ appliances, furniture, furnishings, too
 Phone=+6434424740
@@ -30922,7 +30922,7 @@ Data0=(-45.02658,168.74350)
 
 ;1092638
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=SMITHS CITY RICHMOND
 StreetDesc=197 Queen St, Richmond/ appliances, furniture, furnishings, tools, outdoors
 Phone=+6435439080
@@ -30932,7 +30932,7 @@ Data0=(-41.34096,173.18620)
 
 ;1092645
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=SMITHS CITY TIMARU
 StreetDesc=307-325 Stafford St, Timaru/ appliances, furniture, furnishings, tools, outdoors
 Phone=+6436879159
@@ -30942,7 +30942,7 @@ Data0=(-44.39363,171.25051)
 
 ;1092652
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=SMITHS CITY WANAKA
 StreetDesc=19 Reece Cres, Wanaka/ appliances, furniture, furnishings, tools, outdoors
 Phone=+6434437032
@@ -30952,7 +30952,7 @@ Data0=(-44.68965,169.14354)
 
 ;1092659
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=SMITHS CITY CHRISTCHURCH
 StreetDesc=550 Colombo St, Chc/ appliances, furniture, furnishings, tools, outdoors
 Phone=+6439833000
@@ -30962,7 +30962,7 @@ Data0=(-43.53818,172.63682)
 
 ;1092666
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=SMITHS CITY NORTHWOOD
 StreetDesc=Corner of Main North Rd & Radcliffe St, Belfast/ appliances, furniture, furnishi
 Phone=+6433759999
@@ -30982,7 +30982,7 @@ Data0=(-43.50550,172.40661)
 
 ;1092743
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=POSTIE+ ADDINGTON
 StreetDesc=Station Blg, Tower Junction, Clarence St, Addington, Chc/ mens, womens, children
 Phone=+6433485927
@@ -30991,7 +30991,7 @@ Data0=(-43.53932,172.60635)
 
 ;1092757
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=POSTIE+ ALEXANDRA
 StreetDesc=77 Centennial Ave, Alexandra/ mens, womens, childrens clothing & accessories
 Phone=+6434402015
@@ -31000,7 +31000,7 @@ Data0=(-45.25066,169.38771)
 
 ;1092764
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=POSTIE+ ASHBURTON
 StreetDesc=250 Tancred St, Ashburton/ mens, womens, childrens clothing & accessories
 Phone=+6433078545
@@ -31009,7 +31009,7 @@ Data0=(-43.90775,171.74945)
 
 ;1092778
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=POSTIE+ BALCLUTHA
 StreetDesc=26 Clyde St, Balclutha/ mens, womens, childrens clothing & accessories
 Phone=+6434183249
@@ -31018,7 +31018,7 @@ Data0=(-46.23726,169.74056)
 
 ;1092792
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=POSTIE+ BISHOPDALE
 StreetDesc=Bishopdale Mall, Bishopdale, Chc/ mens, womens, childrens clothing & accessories
 Phone=+6433597449
@@ -31027,7 +31027,7 @@ Data0=(-43.48905,172.58701)
 
 ;1092799
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=POSTIE+ BLENHEIM
 StreetDesc=93 Market St, Blenheim/ mens, womens, childrens clothing & accessories
 Phone=+6435783350
@@ -31036,7 +31036,7 @@ Data0=(-41.51345,173.95681)
 
 ;1092834
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=POSTIE+ DUNEDIN
 StreetDesc=Ctr City Mall, Cumberland St Central, Dud/ mens, womens, childrens clothing & ac
 Phone=+6434773809
@@ -31045,7 +31045,7 @@ Data0=(-45.87088,170.50752)
 
 ;1092841
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=POSTIE+ EASTGATE
 StreetDesc=Eastgate Shopping Ctr, Chc/ mens, womens, childrens clothing & accessories
 Phone=+6433899686
@@ -31054,7 +31054,7 @@ Data0=(-43.53343,172.67461)
 
 ;1092862
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=POSTIE+ GORE
 StreetDesc=39 Irk St, Gore/ mens, womens, childrens clothing & accessories
 Phone=+6432039182
@@ -31063,7 +31063,7 @@ Data0=(-46.10003,168.94350)
 
 ;1092869
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=POSTIE+ GREYMOUTH (LADIES)
 StreetDesc=29 Tainui St, Greymouth/ womens clothing & accessories
 Phone=+6437685699
@@ -31072,7 +31072,7 @@ Data0=(-42.44890,171.21102)
 
 ;1092876
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=POSTIE+ GREYMOUTH (MENS & KIDS)
 StreetDesc=29 Tainui St, Greymouth/ mens, childrens clothing & accessories
 Phone=+6437686291
@@ -31081,7 +31081,7 @@ Data0=(-42.44890,171.21126)
 
 ;1092904
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=POSTIE+ HOKITIKA
 StreetDesc=95 Revell St, Hokitika/ mens, womens, childrens clothing & accessories
 Phone=+6437568130
@@ -31090,7 +31090,7 @@ Data0=(-42.71703,170.96160)
 
 ;1092911
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=POSTIE+ HORNBY
 StreetDesc=The Hub Hornby, 418 Main South Rd, Hornby, Chc/ mens, womens, childrens clothing
 Phone=+6433497054
@@ -31100,7 +31100,7 @@ Data0=(-43.54335,172.52314)
 
 ;1092918
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=POSTIE+ INVERCARGILL
 StreetDesc=42 Tay St, Invercargill/ mens, womens, childrens clothing & accessories
 Phone=+6432183899
@@ -31109,7 +31109,7 @@ Data0=(-46.41282,168.34960)
 
 ;1092988
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=POSTIE+ MOSGIEL
 StreetDesc=126 Gordon Rd, Mosgiel/ mens, womens, childrens clothing & accessories
 Phone=+6434897141
@@ -31118,7 +31118,7 @@ Data0=(-45.87527,170.34809)
 
 ;1093002
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=POSTIE+ NELSON
 StreetDesc=237 Trafalgar St, Nelson/ mens, womens, childrens clothing & accessories
 Phone=+6435467761
@@ -31127,7 +31127,7 @@ Data0=(-41.27381,173.28420)
 
 ;1093023
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=POSTIE+ NORTHWOOD
 StreetDesc=Northwood Supa Centa, Main North Rd, Belfast, Chc/ mens, womens, childrens cloth
 Phone=+6433235725
@@ -31136,7 +31136,7 @@ Data0=(-43.46033,172.62574)
 
 ;1093030
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=POSTIE+ OAMARU
 StreetDesc=139 Thames St, Oamaru/ mens, womens, childrens clothing & accessories
 Phone=+6434331310
@@ -31145,7 +31145,7 @@ Data0=(-45.09828,170.97106)
 
 ;1093079
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=POSTIE+ RANGIORA
 StreetDesc=102 High St, Rangiora/ mens, womens, childrens clothing & accessories
 Phone=+6433134827
@@ -31154,7 +31154,7 @@ Data0=(-43.30325,172.59522)
 
 ;1093086
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=POSTIE+ RICCARTON
 StreetDesc=Bush Inn Shopping Ctr, Upper Riccarton, Chc/ mens, womens, childrens clothing & 
 Phone=+6433430035
@@ -31163,7 +31163,7 @@ Data0=(-43.52959,172.57491)
 
 ;1093093
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=POSTIE+ RICHMOND MALL
 StreetDesc=Richmond Mall, Richmond, Nelson/ mens, womens, childrens clothing & accessories
 Phone=+6435439290
@@ -31172,7 +31172,7 @@ Data0=(-41.33880,173.18619)
 
 ;1093121
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=POSTIE+ SYDENHAM
 StreetDesc=Spotlight Plaza, 363 Colombo St, Chc/ mens, womens, childrens clothing & accesso
 Phone=+6433746606
@@ -31181,7 +31181,7 @@ Data0=(-43.54641,172.63643)
 
 ;1093184
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=POSTIE+ TIMARU
 StreetDesc=222 Stafford St, Timaru/ mens, womens, childrens clothing & accessories
 Phone=+6436881807
@@ -31190,7 +31190,7 @@ Data0=(-44.39573,171.25267)
 
 ;1093226
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=POSTIE+ WESTPORT
 StreetDesc=152 Palmerston St, Westport/ mens, womens, childrens clothing & accessories
 Phone=+6437888360
@@ -31199,7 +31199,7 @@ Data0=(-41.75415,171.59813)
 
 ;1093359
 [POI]
-Type=0x2e
+Type=0x2e09
 Label=DOGS BREAKFAST TRADING COMPANY WESTPORT
 StreetDesc=152 Palmerston St, Westport/ Furniture, homeware, giftware and lifestyle product
 Phone=+6437895035
@@ -32233,7 +32233,7 @@ Data0=(-46.40603,168.39236)
 
 ;1094204
 [POI]
-Type=0x2a07
+Type=0x2e06
 Label=LEE'S DAIRY & CAFE
 StreetDesc=29 Balaclava St, Wyndham/ Dairy, cafe
 Phone=+6432064712
@@ -32639,7 +32639,7 @@ Data0=(-41.34044,173.19104)
 
 ;1094376
 [POI]
-Type=0x2a07
+Type=0x2a
 Label=THE SILK ROAD FOOD POST
 StreetDesc=339 Stanmore Rd, Richmond Village, Chc/ dine in or takeaway
 Phone=+6433817274
@@ -33032,7 +33032,7 @@ Data0=(-45.35777,170.85531)
 
 ;1094519
 [POI]
-Type=0x2e
+Type=0x2e09
 Label=FUTONZ PARTNERSHIP NEW ZEALAND
 StreetDesc=39 Parkers Rd, Tahunanui, Nelson/ futons, natural mattresses, slat beds
 Phone=0508FUTONZ
@@ -33586,7 +33586,7 @@ Data0=(-42.18788,172.22026)
 
 ;1094907
 [POI]
-Type=0x2d02
+Type=0x2a
 Label=OWEN RIVER TAVERN AND MOTEL
 StreetDesc=1567 Kawatiri Murchison Highway, Owen River, Murchison, Nelson 7077/ A friendly,
 Phone=+6435239273
@@ -34477,7 +34477,7 @@ Data0=(-43.50638,172.66430)
 
 ;1095760
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=AMAZON SURF RICCARTON
 StreetDesc=Westfield Riccarton, Riccarton/ Surfwear, street and denim. Rip curl, Dickies, B
 Phone=+6433485689
@@ -34487,7 +34487,7 @@ Data0=(-43.53076,172.59981)
 
 ;1095761
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=AMAZON SURF NORTHLANDS MALL
 StreetDesc=Shop 4, Northlands Shopping Mall, 55 Main North Rd, Papanui, Chc/ Surfwear, stre
 Phone=+6433544359
@@ -34497,7 +34497,7 @@ Data0=(-43.49400,172.60849)
 
 ;1095762
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=AMAZON SURF COLOMBO ST
 StreetDesc=702 Colombo St, Chc/ Surfwear, street and denim. Rip curl, Dickies, Billabong, Q
 Phone=+6433664231
@@ -34506,7 +34506,7 @@ Data0=(-43.53278,172.63679)
 
 ;1095763
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=AMAZON SURF SHIRLEY
 StreetDesc=The Palms Mall, Shirley/ Surfwear, street and denim. Rip curl, Dickies, Billabon
 Phone=+6433855166
@@ -34515,7 +34515,7 @@ Data0=(-43.50712,172.66395)
 
 ;1095764
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=AMAZON SURF QUEENSTOWN
 StreetDesc=19-25 Ballarat St, Queenstown/ Surfwear, street and denim. Rip curl, Dickies, Bi
 Phone=+6434090019
@@ -34870,7 +34870,7 @@ Data0=(-41.33967,173.18540)
 
 ;1095929
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=JEANS WEST DUNEDIN
 StreetDesc=Cnr Hanover & Filleul St, Dud/ jeans, fashion, denim
 Phone=+6434749980
@@ -34879,7 +34879,7 @@ Data0=(-45.86993,170.50574)
 
 ;1095933
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=JEANS WEST HORNBY
 StreetDesc=Cnr Main South & Shands Roads, Hornby, Chc/ jeans, fashion, denim
 Phone=+6433492435
@@ -34888,7 +34888,7 @@ Data0=(-43.54403,172.52425)
 
 ;1095934
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=JEANS WEST INVERCARGILL
 StreetDesc=Cnr Esk & Kelvin St, Invercargill/ jeans, fashion, denim
 Phone=+6432145031
@@ -34897,7 +34897,7 @@ Data0=(-46.41168,168.35022)
 
 ;1095939
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=JEANS WEST NELSON
 StreetDesc=214 Trafalgar St, Nelson/ jeans, fashion, denim
 Phone=+6435456082
@@ -34906,7 +34906,7 @@ Data0=(-41.27327,173.28363)
 
 ;1095941
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=JEANS WEST NORTHLANDS
 StreetDesc=Shop 112, Northlands Shopping Mall, 55 Main North Rd, Papanui, Chc/ jeans, fashi
 Phone=+6433546941
@@ -34916,7 +34916,7 @@ Data0=(-43.49399,172.60898)
 
 ;1095945
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=JEANS WEST RICCARTON
 StreetDesc=Riccarton Mall, 129 Riccarton Rd, Riccarton, Chc/ jeans, fashion, denim
 Phone=+6433415406
@@ -35103,7 +35103,7 @@ Data0=(-43.54351,172.59417)
 
 ;1096178
 [POI]
-Type=0x2e
+Type=0x2e08
 Label=TRADE TOOLS CHRISTCHURCH
 StreetDesc=46 Montreal St, Chc/ Tools, Engineers supplies
 Phone=+6433798160
@@ -35121,7 +35121,7 @@ Data0=(-43.54481,172.63045)
 
 ;1096184
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=JAYCAR CHRISTCHURCH
 StreetDesc=409 Colombo St, Chc/ Electronic components
 Phone=+6433791662
@@ -35131,7 +35131,7 @@ Data0=(-43.54458,172.63648)
 
 ;1096185
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=JAYCAR DUNEDIN
 StreetDesc=1 Lees St, Kensington, Dud/ Electronic components
 Phone=+6434717934
@@ -35311,7 +35311,7 @@ Data0=(-44.40032,171.25346)
 
 ;1096296
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=SAXON APPLIANCES
 StreetDesc=383 Wilsons Rd N, Waltham/ Appliance repairs, Appliance parts
 Phone=+6433656404
@@ -35483,7 +35483,7 @@ Data0=(-45.87177,170.50601)
 
 ;1096406
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SUPRE EASTGATE
 StreetDesc=Shop 606, Eastgate Shopping Ctr, Cnr Linwood Ave and Buckleys Rd, Chc/ Girls tee
 Phone=+6433818002
@@ -35492,7 +35492,7 @@ Data0=(-43.53313,172.67512)
 
 ;1096408
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SUPRE INVERCARGILL
 StreetDesc=28 Esk St, Invercargill/ Girls teen fashion
 Phone=+6432189016
@@ -35501,7 +35501,7 @@ Data0=(-46.41173,168.34806)
 
 ;1096409
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SUPRE NORTHLANDS
 StreetDesc=Shop 23, Northlands Shopping Mall, 55 Main North Rd, Papanui, Chc/ Girls teen fa
 Phone=+6433544610
@@ -35511,7 +35511,7 @@ Data0=(-43.49282,172.60954)
 
 ;1096410
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SUPRE CHRISTCHURCH CITY
 StreetDesc=150 Cashel St, Chc/ Girls teen fashion
 Phone=+6433658187
@@ -35520,7 +35520,7 @@ Data0=(-43.53328,172.63732)
 
 ;1096411
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SUPRE DUNEDIN
 StreetDesc=Shop12, The Meridian Mall, Dud/ Girls teen fashion
 Phone=+6434779098
@@ -35529,7 +35529,7 @@ Data0=(-45.86997,170.50570)
 
 ;1096412
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SUPRE NELSON
 StreetDesc=91 Bridge St, Nelson/ Girls teen fashion
 Phone=+6435391303
@@ -35538,7 +35538,7 @@ Data0=(-41.27239,173.28505)
 
 ;1096423
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SUPRE RICCARTON
 StreetDesc=Shop 125, Westfield Riccarton, 129 Riccarton Rd, Riccarton/ Girls teen fashion
 Phone=+6433413151
@@ -35548,7 +35548,7 @@ Data0=(-43.53099,172.60024)
 
 ;1096424
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SUPRE THE PALMS
 StreetDesc=Shop 19, The Palms Ctr, Cnr Marshland and New Brighton Rds, Shirley/ Girls teen 
 Phone=+6433863113
@@ -35607,7 +35607,7 @@ Data0=(-45.87105,170.50672)
 
 ;1096462
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SHOE CLINIC NELSON
 StreetDesc=84 Bridge St, Nelson/ Sports shoes and apparel
 Phone=+6435458060
@@ -35616,7 +35616,7 @@ Data0=(-41.27273,173.28490)
 
 ;1096463
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SHOE CLINIC CHRISTCHURCH
 StreetDesc=230 High St, Chc/ Sports shoes and apparel
 Phone=+6433779004
@@ -35625,7 +35625,7 @@ Data0=(-43.53287,172.63802)
 
 ;1096464
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SHOE CLINIC RICCARTON
 StreetDesc=Westfield Riccarton, Chc/ Sports shoes and apparel
 Phone=+6433480841
@@ -35634,7 +35634,7 @@ Data0=(-43.53077,172.60001)
 
 ;1096465
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SHOE CLINIC INVERCARGILL
 StreetDesc=38 Esk St, Invercargill/ Sports shoes and apparel
 Phone=+6432182266
@@ -35837,7 +35837,7 @@ Data0=(-43.45945,172.62339)
 
 ;1096592
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=BENDON LINGERIE NORTHLANDS
 StreetDesc=Shop 111, Northlands Shopping Mall, 55 Main North Rd, Papanui, Christchurc/ ling
 Phone=+6433543920
@@ -35847,7 +35847,7 @@ Data0=(-43.49390,172.60913)
 
 ;1096593
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=BENDON LINGERIE RICCARTON
 StreetDesc=Westfield Riccarton, Riccarton Rd, Riccarton, Chc/ lingerie
 Phone=+6433432916
@@ -35856,7 +35856,7 @@ Data0=(-43.53050,172.59780)
 
 ;1096594
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=BENDON OUTLET HORNBY
 StreetDesc=Dress-Smart, 409 Main South Rd, Hornby, Chc/ lingerie
 Phone=+6433445680
@@ -35865,7 +35865,7 @@ Data0=(-43.54370,172.52416)
 
 ;1096616
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=HALLENSTEINS NORTHLANDS
 StreetDesc=Northlands Shopping Ctr, Papanui, Chc/ Guy's clothing
 Phone=+6433430588
@@ -35874,7 +35874,7 @@ Data0=(-43.49161,172.61052)
 
 ;1096617
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=HALLENSTEINS ALEXANDRA
 StreetDesc=58 Centennial Ave, Alexandra/ Guy's clothing
 Phone=+6434400123
@@ -35883,7 +35883,7 @@ Data0=(-45.25224,169.38880)
 
 ;1096618
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=HALLENSTEINS NELSON
 StreetDesc=200 Trafalgar St, Nelson/ Guy's clothing
 Phone=+6435484494
@@ -35892,7 +35892,7 @@ Data0=(-41.27307,173.28363)
 
 ;1096640
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=HALLENSTEINS THE PALMS
 StreetDesc=25 The Palms Shopping Ctr, Marshland Rd, Shirley/ Guy's clothing
 Phone=+6433863456
@@ -35901,7 +35901,7 @@ Data0=(-43.50715,172.66401)
 
 ;1096642
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=HALLENSTEINS BLENHEIM
 StreetDesc=90 Market St, Blenheim/ Guy's clothing
 Phone=+6435209156
@@ -35910,7 +35910,7 @@ Data0=(-41.51378,173.95649)
 
 ;1096643
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=HALLENSTEINS RICCARTON
 StreetDesc=Shop 51, Westfield Riccarton, Riccarton, Chc/ Guy's clothing
 Phone=+6433488775
@@ -35919,7 +35919,7 @@ Data0=(-43.53112,172.59824)
 
 ;1096644
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=HALLENSTEINS SOUTH CITY MALL
 StreetDesc=South City Mall, Winchcombe St, Chc/ Guy's clothing
 Phone=+6433772237
@@ -35928,7 +35928,7 @@ Data0=(-43.53848,172.63529)
 
 ;1096645
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=HALLENSTEINS DUNEDIN
 StreetDesc=248 George St, Dud/ Guy's clothing
 Phone=+6434775670
@@ -35937,7 +35937,7 @@ Data0=(-45.87089,170.50563)
 
 ;1096648
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=HALLENSTEINS DRESSMART HORNBY
 StreetDesc=Dressmart Hornby, Main South Rd, Hornby, Chc/ Guy's clothing
 Phone=+6433441076
@@ -35946,7 +35946,7 @@ Data0=(-43.54418,172.52386)
 
 ;1096649
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=HALLENSTEINS INVERCARGILL
 StreetDesc=Cnr Dee and Esk Streets, Invercargill/ Guy's clothing
 Phone=+6432110695
@@ -35955,7 +35955,7 @@ Data0=(-46.41171,168.34750)
 
 ;1096658
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=HALLENSTEINS TIMARU
 StreetDesc=Cnr Stafford and Church St, Timaru/ Guy's clothing
 Phone=+6436879166
@@ -35964,7 +35964,7 @@ Data0=(-44.39538,171.25226)
 
 ;1096664
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=HALLENSTEINS CASHEL STREET
 StreetDesc=Cnr Cashel & High Sts,  Chc/ Guy's clothing
 Phone=+6433664169
@@ -37141,7 +37141,7 @@ Data0=(-43.52993,172.63434)
 
 ;1098367
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=OVERLAND FOOTWEAR CASHEL STREET
 StreetDesc=154 Cashel St, Chc/ footwear, shoes, Isabella Anselmi, Skechers
 Phone=+6433777737
@@ -37150,7 +37150,7 @@ Data0=(-43.53323,172.63754)
 
 ;1098372
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=OVERLAND FOOTWEAR DUNEDIN
 StreetDesc=Meridian Shopping Mall, 267 George St, Dud/ footwear, shoes, Isabella Anselmi, S
 Phone=+6434747552
@@ -37159,7 +37159,7 @@ Data0=(-45.87049,170.50568)
 
 ;1098376
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=OVERLAND FOOTWEAR NELSON
 StreetDesc=185 Trafalgar St, Nelson/ footwear, shoes, Isabella Anselmi, Skechers
 Phone=+6435482718
@@ -37168,7 +37168,7 @@ Data0=(-41.27289,173.28422)
 
 ;1098377
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=OVERLAND FOOTWEAR NORTHLANDS
 StreetDesc=Shop 22, Northlands Shopping Mall, 55 Main North Rd, Papanui, Chc/ footwear, sho
 Phone=+6433546235
@@ -37178,7 +37178,7 @@ Data0=(-43.49294,172.60944)
 
 ;1098381
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=OVERLAND FOOTWEAR QUEENSTOWN
 StreetDesc=The Mall, 19-21 Ballarat St, Queenstown/ footwear, shoes, Isabella Anselmi, Skec
 Phone=+6434092745
@@ -37187,7 +37187,7 @@ Data0=(-45.03227,168.66115)
 
 ;1098382
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=OVERLAND FOOTWEAR THE PALMS
 StreetDesc=The Palms Shopping Ctr, Shirley/ footwear, shoes, Isabella Anselmi, Skechers
 Phone=+6433853359
@@ -37196,7 +37196,7 @@ Data0=(-43.50682,172.66460)
 
 ;1098388
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=OVERLAND FOOTWEAR WESTFIELD RICCARTON
 StreetDesc=Westfield Riccarton, Chc/ footwear, shoes, Isabella Anselmi, Skechers
 Phone=+6433488930
@@ -37205,7 +37205,7 @@ Data0=(-43.53060,172.59744)
 
 ;1098396
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=FARRYS DUNEDIN
 StreetDesc=266 George St, Dud/ Quality tailored suits, business wear, casual wear, accessor
 Phone=+6434777935
@@ -37561,7 +37561,7 @@ Data0=(-44.39690,171.25583)
 
 ;1098476
 [POI]
-Type=0x2a
+Type=0x2d02
 Label=ANGLERS ARMS TAVERN
 StreetDesc=573 Upper Sefton Rd, Sefton/ Pub, restaurant
 Phone=+6433129851
@@ -37879,7 +37879,7 @@ Data0=(-41.50782,173.95900)
 
 ;1098579
 [POI]
-Type=0x2f0c
+Type=0x4c
 Label=ROSS GOLDFIELDS INFORMATION AND HERITAGE CENTRE
 StreetDesc=4 Aylmer St, Ross, West Coast./ Information Centre, Gold Panning, Toilets, Campe
 Phone=+6437554077
@@ -38718,7 +38718,7 @@ Data0=(-43.62705,172.64683)
 
 ;1098827
 [POI]
-Type=0x2f0f
+Type=0x2f
 Label=KIWIGPS
 StreetDesc=23 Delaware Cres, Avonhead, Chc/ Garmin GPS & Accessories
 Phone=+6433421302
@@ -38926,7 +38926,7 @@ Data0=(-44.39470,171.25013)
 
 ;1098924
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=100% WANAKA APPLIANCES
 StreetDesc=1 Cliff Wilson St, Wanaka/ Electronic appliances, computers and printers, dehumi
 Phone=+6434437633
@@ -38936,7 +38936,7 @@ Data0=(-44.69089,169.14060)
 
 ;1098936
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=GIBSONS RETRAVISION
 StreetDesc=202 High St, Rangiora/ TVs, stereos, electronics, home theatre, computers, PCs
 Phone=+6433136204
@@ -38945,7 +38945,7 @@ Data0=(-43.30354,172.59299)
 
 ;1098941
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=100% HERKT APPLIANCES
 StreetDesc=Cnr High & Seymour Streets, Blenheim/ Electronic appliances, computers and print
 Phone=+6435780700
@@ -38954,7 +38954,7 @@ Data0=(-41.51227,173.95472)
 
 ;1098945
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=JOHNSTONE RETRAVISION
 StreetDesc=60 Clyde St, Balclutha/ TVs, stereos, electronics, home theatre, computers, PCs
 Phone=+6434180427
@@ -38963,7 +38963,7 @@ Data0=(-46.23816,169.73828)
 
 ;1098954
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=RELIANCE RETRAVISION
 StreetDesc=174 High St, Motueka/ TVs, stereos, electronics, home theatre, computers, PCs
 Phone=+6435287120
@@ -38972,7 +38972,7 @@ Data0=(-41.11158,173.01081)
 
 ;1098956
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=RICHMOND RETRAVISION
 StreetDesc=shop 72, Richmond Mall, Richmond, Nelson/ TVs, stereos, electronics, home theatr
 Phone=+6435410173
@@ -38981,7 +38981,7 @@ Data0=(-41.33986,173.18577)
 
 ;1098958
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=SMITH & CHURCH RETRAVISION
 StreetDesc=3 Kermode St, Ashburton/ TVs, stereos, electronics, home theatre, computers, PCs
 Phone=+6433089019
@@ -39735,7 +39735,7 @@ Data0=(-43.52960,172.60351)
 
 ;1099301
 [POI]
-Type=0x2e
+Type=0x2f
 Label=COTTON ON THE PALMS
 StreetDesc=Shop 26 The Palms Shopping Ctr, Chc/ 
 Data0=(-43.50717,172.66419)
@@ -39788,7 +39788,7 @@ Data0=(-41.51797,173.95846)
 
 ;1099401
 [POI]
-Type=0x2f08
+Type=0x2f
 Label=BLUEBRIDGE FERRY
 StreetDesc=Picton/ Ferry Shipping
 Phone=0800844844
@@ -39797,7 +39797,7 @@ Data0=(-41.28461,174.00466)
 
 ;1099402
 [POI]
-Type=0x2e
+Type=0x2f
 Label=SOUNDS AIR TRAVEL & TOURISM LIMITED
 StreetDesc=Picton Airport/ Local airline. Scenic flights, charters
 Phone=+6435203080
@@ -39882,7 +39882,7 @@ Data0=(-43.48586,172.55018)
 
 ;1099418
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=NUMBER 1 SHOES ASHBURTON
 StreetDesc=Shop 4, 250 Tancred St, Ashburton/ Shoes, boots. Men's, women's, kid's, work, sc
 Phone=+6433077699
@@ -39892,7 +39892,7 @@ Data0=(-43.90775,171.74945)
 
 ;1099421
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=NUMBER 1 SHOES BELFAST
 StreetDesc=Shop L, Northwood Supa Centa, Radcliffe Rd, Belfast, Chc/ Shoes, boots. Men's, w
 Phone=+6433236983
@@ -39912,7 +39912,7 @@ Data0=(-41.51296,173.95534)
 
 ;1099425
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=NUMBER 1 SHOES DUNEDIN
 StreetDesc=138 Great King St, Dud/ Shoes, boots. Men's, women's, kid's, work, school, sport
 Phone=+6434778047
@@ -39922,7 +39922,7 @@ Data0=(-45.87095,170.50681)
 
 ;1099426
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=NUMBER 1 SHOES EASTGATE
 StreetDesc=L 1, Eastgate Shopping Ctr, Cnr Linwood Ave & Buckleys Rd, Linwood, Chc/ Shoes, 
 Phone=+6433805070
@@ -39931,7 +39931,7 @@ Data0=(-43.53268,172.67532)
 
 ;1099430
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=NUMBER 1 SHOES INVERCARGILL
 StreetDesc=Shop 3, 30 Leven St, Invercargill/ Shoes, boots. Men's, women's, kid's, work, sc
 Phone=+6432141910
@@ -39941,7 +39941,7 @@ Data0=(-46.41033,168.34536)
 
 ;1099437
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=NUMBER 1 SHOES NELSON
 StreetDesc=Montgomery Sq, Nelson/ Shoes, boots. Men's, women's, kid's, work, school, sports
 Phone=+6435391280
@@ -39951,7 +39951,7 @@ Data0=(-41.27390,173.28294)
 
 ;1099450
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=NUMBER 1 SHOES TIMARU
 StreetDesc=246 Stafford St, Timaru/ Shoes, boots. Men's, women's, kid's, work, school, spor
 Phone=+6436845144
@@ -39961,7 +39961,7 @@ Data0=(-44.39498,171.25183)
 
 ;1099451
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=NUMBER 1 SHOES TOWER JUNCTION
 StreetDesc=Cnr Foster & Clarence St, Chc/ Shoes, boots. Men's, women's, kid's, work, school
 Phone=+6433417062
@@ -40342,7 +40342,7 @@ Data0=(-45.87494,170.50554)
 
 ;1100181
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=AT BETTA ELECTRICAL GREYMOUTH
 StreetDesc=51 Mackay St, Greymouth/ Audio, Cameras, Computing, Cooking, Television, Dishwas
 Phone=+6437686173
@@ -40351,7 +40351,7 @@ Data0=(-42.44853,171.20938)
 
 ;1100182
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=AT BETTA ELECTRICAL HOKITIKA
 StreetDesc=47 Revell St, Hokitika/ Audio, Cameras, Computing, Cooking, Television, Dishwash
 Phone=+6437556173
@@ -40360,7 +40360,7 @@ Data0=(-42.71816,170.96002)
 
 ;1100183
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=AT BETTA ELECTRICAL WESTPORT
 StreetDesc=148 Palmerston St, Westport/ Audio, Cameras, Computing, Cooking, Television, Dis
 Phone=+6437897719
@@ -40369,7 +40369,7 @@ Data0=(-41.75397,171.59809)
 
 ;1100192
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=CONNOR & FITZPATRICK BETTA ELECTRICAL
 StreetDesc=35-37 Medway St, Gore/ Audio, Cameras, Computing, Cooking, Television, Dishwashe
 Phone=+6432086741
@@ -40378,7 +40378,7 @@ Data0=(-46.09898,168.94669)
 
 ;1100194
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=GERALDINE BETTA ELECTRICAL
 StreetDesc=5 Talbot St, Geraldine/ Audio, Cameras, Computing, Cooking, Television, Dishwash
 Phone=+6436937501
@@ -40387,7 +40387,7 @@ Data0=(-44.09066,171.24352)
 
 ;1100195
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=GREG TOPP BETTA ELECTRICAL
 StreetDesc=35 Broadway, Reefton/ Audio, Cameras, Computing, Cooking, Television, Dishwasher
 Phone=+6437328118
@@ -40396,7 +40396,7 @@ Data0=(-42.11986,171.86720)
 
 ;1100201
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=MICHAEL FITZPATRICK BETTA ELECTRICAL
 StreetDesc=13 Maxwell Rd, Blenheim/ Audio, Cameras, Computing, Cooking, Television, Dishwas
 Phone=+6435772600
@@ -40405,7 +40405,7 @@ Data0=(-41.51465,173.95616)
 
 ;1100208
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=SMYTHS BETTA ELECTRICAL
 StreetDesc=77 Hillside Rd, Dud/ Audio, Cameras, Computing, Cooking, Television, Dishwashers
 Phone=+6434554670
@@ -41360,15 +41360,6 @@ Phone=+6434896268
 Data0=(-45.89759,170.33873)
 [END]
 
-;1100813
-[POI]
-Type=0x2f
-Label=?AHIPARA LUXURY TRAVEL NEW ZEALAND
-StreetDesc=3782 Becks-Lauder Rd, RD2, Omakau, Central Otago/ New Zealands most innovative, 
-Phone=+34473558
-Data0=(-45.09448,169.60187)
-[END]
-
 ;1100827
 [POI]
 Type=0x2f
@@ -41722,7 +41713,7 @@ Data0=(-43.54519,172.64535)
 
 ;1100976
 [POI]
-Type=0x2b03
+Type=0x2e
 Label=ALLAN MILLAR'S HUNTING & FISHING (1994) LTD
 StreetDesc=922 George St, Dud/ Fishing equipment, firearms, bait, outdoor gear, camping
 Phone=+6434776665
@@ -43029,6 +43020,15 @@ Phone=+6433834559
 Data0=(-43.50107,172.69127)
 [END]
 
+;1101592
+[POI]
+Type=0x2f
+Label=ATOMIC TRAVEL
+StreetDesc=Dropoff: 88 Worcester St, Chc/ 
+Phone=+6433228883
+Data0=(-43.53109,172.63466)
+[END]
+
 ;1101666
 [POI]
 Type=0x2f
@@ -43488,7 +43488,7 @@ Data0=(-43.56366,172.62042)
 
 ;1101921
 [POI]
-Type=0x2e07
+Type=0x2e01
 Label=BALLANTYNES
 StreetDesc=City Mall, Corner Cashel & Colombo Streets, Chc/ Department store. Fashion, Clot
 Phone=+6433797400
@@ -44257,7 +44257,7 @@ Data0=(-43.53001,172.63684)
 
 ;1102366
 [POI]
-Type=0x2f11
+Type=0x2f
 Label=BOS BUSINESS OFFICE & SECRETARIAL
 StreetDesc=69 Tarbert St, Alexandra/ 
 Phone=+6434487788
@@ -45583,7 +45583,7 @@ Data0=(-45.25673,169.38959)
 
 ;1103051
 [POI]
-Type=0x2c0a
+Type=0x2f
 Label=CENTRAL OTAGO WINE CO. LTD
 StreetDesc=Lake Dunstan Estate, 102 Gair Ave, Cromwell/ Wine Bottling & Storage
 Phone=+6434453100
@@ -51703,7 +51703,7 @@ Data0=(-43.54204,172.63411)
 
 ;1106252
 [POI]
-Type=0x2c0a
+Type=0x2b00
 Label=GOLDEN GATE LODGE
 StreetDesc=Barry Ave, Cromwell/ Accommodation, restaurant & bar, TAB Outlet, conference & w
 Phone=+6434451777
@@ -58518,7 +58518,7 @@ Data0=(-41.25160,173.31013)
 
 ;1110083
 [POI]
-Type=0x2a0e
+Type=0x2e
 Label=SOUTHERN OFFICE PRODUCTS DEPOT
 StreetDesc=26 Hokonui Dr, Gore/ OPD. Stationery, Office Furniture, Print, Cafeteria Supplie
 Phone=+6432086519
@@ -64306,7 +64306,7 @@ Data0=(-45.03235,168.66090)
 
 ;1113393
 [POI]
-Type=0x2a
+Type=0x2b00
 Label=MERCURE LEISURE LODGE DUNEDIN
 StreetDesc=Duke St, Dud/ Hotel accommodation, bar, restaurant
 Phone=+6434775360
@@ -67517,7 +67517,7 @@ Data0=(-43.54615,172.63684)
 
 ;1115186
 [POI]
-Type=0x2f11
+Type=0x2f
 Label=TRAVELINDEX
 StreetDesc=5 Washington Way, Philipstown, Chc/ 
 Phone=+6433434308
@@ -67891,7 +67891,7 @@ Data0=(-45.86672,170.51907)
 
 ;1115438
 [POI]
-Type=0x2a0e
+Type=0x2e07
 Label=UNTOUCHED WORLD CHRISTCHURCH
 StreetDesc=155 Roydvale Ave, Burnside, Chc/ New Zealand ethical and organic luxury fashion.
 Phone=+6433579399
@@ -69842,7 +69842,7 @@ Data0=(-41.26335,173.27671)
 
 ;1116422
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=WORKING STYLE CHRISTCHURCH
 StreetDesc=668A Colombo St, Chc/ High fashion menswear and tailor made suits
 Phone=+6433790133
@@ -69861,7 +69861,7 @@ Data0=(-45.79633,170.63493)
 
 ;1116443
 [POI]
-Type=0x2c06
+Type=0x2b01
 Label=252 BEACHSIDE MOTELS AND HOLIDAY PARK
 StreetDesc=252 Revell St, Hokitika, West Coast/ Accommodation, motel, holiday park, cabins,
 Phone=+6437558773
@@ -70923,7 +70923,7 @@ Data0=(-43.19359,172.33550)
 
 ;1116701
 [POI]
-Type=0x6402
+Type=0x2f
 Label=A - FRAME HUT (BIVVY, BIVOUAC)
 StreetDesc=Glenariffe/Winterslow Conservation Area, Raukapuka - South Island > Canterbury >
 Data0=(-43.38279,171.36979)
@@ -71067,7 +71067,7 @@ Data0=(-45.67135,167.93001)
 
 ;1116724
 [POI]
-Type=0x6402
+Type=0x2f
 Label=APARIMA HUT (MAIN HUT)
 StreetDesc=Takitimu Conservation Area, Murihiku - South Island > Southland > Southland/ DOC
 Data0=(-45.70734,167.99973)
@@ -76211,7 +76211,7 @@ Data0=(-43.33780,172.70717)
 
 ;1117657
 [POI]
-Type=0x2d08
+Type=0x2f
 Label=ALPINE ICE
 StreetDesc=495 Brougham St, Opawa, Chc/ Ice skating, Ice rink
 Phone=+6433662213
@@ -76588,7 +76588,7 @@ Data0=(-43.09265,172.74061)
 
 ;1117831
 [POI]
-Type=0x2f0b
+Type=0x2b00
 Label=ACADEMY LODGE MOTEL
 StreetDesc=782 East St, Ashburton/ High quality self-contained units with separate bedrooms
 Phone=+6433085503
@@ -76763,7 +76763,7 @@ Data0=(-41.46352,173.92624)
 
 ;1117939
 [POI]
-Type=0x2a
+Type=0x2b00
 Label=THE MILL HOUSE
 StreetDesc=SH1 Wainakarua/ Hotel, Restaurant and Function Centre
 Phone=+6434395515
@@ -77386,7 +77386,7 @@ Data0=(-44.38753,171.24190)
 
 ;1118319
 [POI]
-Type=0x2b01
+Type=0x2b02
 Label=CATHEDRAL INN
 StreetDesc=369 Trafalgar St South, Nelson/ Boutique Bed & Breakfast Accommodation, Zenbu Wi
 Phone=+6435487369
@@ -77790,7 +77790,7 @@ Data0=(-43.52957,172.60074)
 
 ;1118391
 [POI]
-Type=0x2e
+Type=0x2e08
 Label=BROWSERS CAFE & GARDEN CENTRE
 StreetDesc=110A Riccarton Rd, Riccarton, Chc/ Garden centre, plants, cafe, restaurant
 Phone=+6433487779
@@ -78045,7 +78045,7 @@ Data0=(-43.51271,172.62288)
 
 ;1118473
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=THE CONTEMPORARY LOUNGE
 StreetDesc=Upstairs in Ballantynes, Mid City Ctr, 663 Colombo St, Chc/ Fashion, streetwear,
 Phone=+6433725663
@@ -78054,7 +78054,7 @@ Data0=(-43.53373,172.63639)
 
 ;1118477
 [POI]
-Type=0x2a0e
+Type=0x2f01
 Label=RAKAIA MOBIL
 StreetDesc=Corner SH1 & Elizabeth Ave, Rakaia/ Service Station, Petrol, Diesel, Cafe, Lotto
 Phone=+6433027040
@@ -78082,7 +78082,7 @@ Data0=(-43.57018,172.68667)
 
 ;1118507
 [POI]
-Type=0x2e
+Type=0x2e08
 Label=EVERGREEN GARDEN CENTRE
 StreetDesc=Main South Rd, Templeton/ Nursery, Garden Centre
 Phone=+6433474707
@@ -78316,7 +78316,7 @@ Data0=(-45.09515,170.97260)
 
 ;1118569
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=LATITUDE 45 RESTAURANT
 StreetDesc=346 Thames Highway, Oamaru North/ Cafe style lunches, more substantial meals by 
 Phone=+6434370838
@@ -78418,7 +78418,7 @@ Data0=(-43.53161,172.57458)
 
 ;1118593
 [POI]
-Type=0x2a
+Type=0x2b00
 Label=ARMADA MOTOR INN
 StreetDesc=500a Thames Highway, Oamaru/ Motel accommodation
 Phone=+6434379040
@@ -78494,7 +78494,7 @@ Data0=(-44.39537,171.25293)
 
 ;1118648
 [POI]
-Type=0x2e
+Type=0x2e09
 Label=DOMO COLLECTIONS CHRISTCHURCH
 StreetDesc=216 Madras St, Chc/ Furniture. Dedon. Lusty's Lloyd Loom
 Phone=+6433798818
@@ -78514,7 +78514,7 @@ Data0=(-44.31200,171.25260)
 
 ;1118652
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=COLORADO NORTHLANDS
 StreetDesc=Shop 81, Northlands Shopping Ctr, Main Rd North, Papanui, Chc/ Men's & women's c
 Phone=+6439771643
@@ -78523,7 +78523,7 @@ Data0=(-43.49250,172.61027)
 
 ;1118656
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=COLORADO RICCARTON
 StreetDesc=Shop S075, Westfield Riccarton, 129 Riccarton Rd, Riccarton, Chc/ Men's & women'
 Phone=+6439834640
@@ -78561,7 +78561,7 @@ Data0=(-43.53716,172.39195)
 
 ;1118688
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=BARKERS MEN'S CLOTHING CHRISTCHURCH
 StreetDesc=The Triangle Ctr, Cashel Mall, Chc/ Men's clothing
 Phone=+6433798372
@@ -78570,7 +78570,7 @@ Data0=(-43.53327,172.63660)
 
 ;1118689
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=BARKERS MEN'S CLOTHING DUNEDIN
 StreetDesc=Meridian Ctr, George St, Dud/ Men's clothing
 Phone=+6434773103
@@ -78579,7 +78579,7 @@ Data0=(-45.87014,170.50532)
 
 ;1118692
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=BARKERS MEN'S CLOTHING HORNBY
 StreetDesc=Dress-Smart, 403 Main South RD, Hornby/ Men's clothing
 Phone=+6433492841
@@ -78588,7 +78588,7 @@ Data0=(-43.54354,172.52501)
 
 ;1118693
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=BARKERS MEN'S CLOTHING INVERCARGILL
 StreetDesc=City Ctr, 74 Esk St, Invercargill/ Men's clothing
 Phone=+6432146340
@@ -78597,7 +78597,7 @@ Data0=(-46.41175,168.35024)
 
 ;1118698
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=BARKERS MEN'S CLOTHING RICCARTON
 StreetDesc=Westfield Riccarton, Chc/ Men's clothing
 Phone=+6433418812
@@ -78809,7 +78809,7 @@ Data0=(-45.83965,170.65204)
 
 ;1118917
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=COUNTRY ROAD CHRISTCHURCH
 StreetDesc=118-120 Cashel St, Chc/ Menswear, Womenswear, Kidswear & Homeware
 Phone=+6433667870
@@ -78819,7 +78819,7 @@ Data0=(-43.53325,172.63529)
 
 ;1118918
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=COUNTRY ROAD QUEENSTOWN
 StreetDesc=No. 1 The Mall, Queenstown/ Menswear & Womenswear
 Phone=+6434429885
@@ -78847,7 +78847,7 @@ Data0=(-44.00288,171.57121)
 
 ;1118953
 [POI]
-Type=0x2a0e
+Type=0x2a
 Label=HIGHWAY ONE RESTAURANT
 StreetDesc=22 Longbeach Rd Ashburton Canterbury 7773/ Toilet, food
 Data0=(-43.94025,171.68465)
@@ -78920,7 +78920,7 @@ Data0=(-43.90545,171.74929)
 
 ;1119003
 [POI]
-Type=0x2e
+Type=0x2d02
 Label=BALFOUR TAVERN AND MOTELS
 StreetDesc=84 Queen St, Balfour, Southland/ Bar, restaurant. Accommodation. Balfour Liquor 
 Phone=+6432016404
@@ -79253,7 +79253,7 @@ Data0=(-45.19289,167.82826)
 
 ;1119279
 [POI]
-Type=0x2a
+Type=0x2a0e
 Label=BAILIEZ CAFE
 StreetDesc=Luxmore Hotel, 63 Town Ctr, Te Anau/ Cafe, bar
 Phone=+6432497526
@@ -79653,7 +79653,7 @@ Data0=(-45.41589,167.71498)
 
 ;1119339
 [POI]
-Type=0x2e
+Type=0x2e05
 Label=TE ANAU PHARMACY
 StreetDesc=60 Town Ctr, Te Anau/ Pharmacy
 Phone=+6432497134
@@ -79775,7 +79775,7 @@ Data0=(-45.41694,167.71198)
 
 ;1119359
 [POI]
-Type=0x2e
+Type=0x2e01
 Label=H&J SMITH TE ANAU
 StreetDesc=44 Town Ctr, Te Anau/ Department Store. Mens, womens & kids fashion & clothing. 
 Phone=+6432497146
@@ -79983,7 +79983,7 @@ Data0=(-41.31272,173.23404)
 
 ;1119577
 [POI]
-Type=0x2a
+Type=0x2a05
 Label=GLENDENINGS BAKERY
 StreetDesc=12 Clifford Rd, Wakefield/ Bakery, shortbread, wholesale & retail
 Phone=+6435419787
@@ -80047,7 +80047,7 @@ Data0=(-41.26700,173.26569)
 
 ;1119586
 [POI]
-Type=0x2a
+Type=0x2a0e
 Label=BABY G'S LOUNGE
 StreetDesc=8 Church St, Nelson/ Cafe
 Phone=+6435458957
@@ -80688,7 +80688,7 @@ Data0=(-41.26353,173.26949)
 
 ;1119665
 [POI]
-Type=0x2a
+Type=0x2a0e
 Label=RIVERS CAFE & RESTAURANT
 StreetDesc=51 Fairfax St, Murchison, Tasman/ Cafe
 Phone=+6435239009
@@ -81096,7 +81096,7 @@ Data0=(-43.53530,172.58595)
 
 ;1119714
 [POI]
-Type=0x2a
+Type=0x2b00
 Label=HALSWELL TAVERN
 StreetDesc=344 Halswell Rd, Chc/ Hotel, Sports Bar, Restaurant, TAB Outlet, Coffee Club Caf
 Phone=+6433227132
@@ -81420,7 +81420,7 @@ Data0=(-43.54451,172.52360)
 
 ;1119777
 [POI]
-Type=0x2a
+Type=0x2d02
 Label=THE FAMOUS GROUSE HOTEL
 StreetDesc=2 Gerald St, Lincoln, Canterbury/ Pub, Hotel, Bar, Restaurant, TAB Self-Service 
 Phone=+6433252408
@@ -81690,7 +81690,7 @@ Data0=(-46.31194,168.78598)
 
 ;1119811
 [POI]
-Type=0x2a
+Type=0x2b00
 Label=CROWN HOTEL
 StreetDesc=31 Talbot St, Geraldine/ Hotel accommodation, Totara Restaurant & Bar, TAB Outle
 Phone=+6436938458
@@ -82148,7 +82148,7 @@ Data0=(-45.09869,170.96689)
 
 ;1119864
 [POI]
-Type=0x2a
+Type=0x2b00
 Label=NORTH STAR
 StreetDesc=495a Thames Highway, Eveline, Oamaru/ Motel Bar Restaurant TAB Outlet
 Phone=+6434371190
@@ -82166,7 +82166,7 @@ Data0=(-41.51289,173.96920)
 
 ;1120004
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=137 Queen St, Waimate, Canterbury/ Opportunity Shop. Charity Store. Clothing, li
 Phone=+6436891265
@@ -82175,7 +82175,7 @@ Data0=(-44.73614,171.04426)
 
 ;1120005
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=575 Princes St, Dud, Otago/ Opportunity Shop. Charity Store. Clothing, linen, fu
 Phone=+6434741515
@@ -82184,7 +82184,7 @@ Data0=(-45.88301,170.49895)
 
 ;1120006
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=169 Tay St, Invercargill, Southland/ Opportunity Shop. Charity Store. Clothing, 
 Phone=+6432145380
@@ -82193,7 +82193,7 @@ Data0=(-46.41305,168.35780)
 
 ;1120025
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=250 Colombo St, Chc/ Opportunity Shop. Charity Store. Clothing, linen, furniture
 Phone=+6433372843
@@ -82202,7 +82202,7 @@ Data0=(-43.55230,172.63681)
 
 ;1120026
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=5 Lillian St, Halswell, Chc/ Opportunity Shop. Charity Store. Clothing, linen, f
 Phone=+6433224195
@@ -82211,7 +82211,7 @@ Data0=(-43.57695,172.56764)
 
 ;1120027
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=636 Ferry Rd, Woolston, Chc/ Opportunity Shop. Charity Store. Clothing, linen, f
 Phone=+6433846547
@@ -82220,7 +82220,7 @@ Data0=(-43.54995,172.68388)
 
 ;1120028
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=Cnr Cass & Wills St, Ashburton, Canterbury/ Opportunity Shop. Charity Store. Clo
 Phone=+6433072900
@@ -82229,7 +82229,7 @@ Data0=(-43.90381,171.75296)
 
 ;1120029
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=355b Riccarton Rd, Riccarton, Chc/ Opportunity Shop. Charity Store. Clothing, li
 Phone=+6433418539
@@ -82238,7 +82238,7 @@ Data0=(-43.53188,172.57459)
 
 ;1120030
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=291a Breezes Rd, Aranui, Chc/ Opportunity Shop. Charity Store. Clothing, linen, 
 Phone=+6433820835
@@ -82247,7 +82247,7 @@ Data0=(-43.51703,172.70144)
 
 ;1120031
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=2 Leacroft St, Bishopdale, Chc/ Opportunity Shop. Charity Store. Clothing, linen
 Phone=+6433596609
@@ -82256,7 +82256,7 @@ Data0=(-43.49053,172.58074)
 
 ;1120032
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=227 Linwood Ave, North Linwood, Chc/ Opportunity Shop. Charity Store. Clothing, 
 Phone=+6433895704
@@ -82265,7 +82265,7 @@ Data0=(-43.53266,172.67281)
 
 ;1120033
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=113 Williams St, Kaiapoi, Canterbury/ Opportunity Shop. Charity Store. Clothing,
 Phone=+6433276320
@@ -82274,7 +82274,7 @@ Data0=(-43.38366,172.65651)
 
 ;1120034
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=12 Ashley St, Rangiora, Canterbury/ Opportunity Shop. Charity Store. Clothing, l
 Phone=+6433136947
@@ -82283,7 +82283,7 @@ Data0=(-43.30268,172.59625)
 
 ;1120035
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=30 Main North Rd, Papanui, Chc/ Opportunity Shop. Charity Store. Clothing, linen
 Phone=+6433524581
@@ -82292,7 +82292,7 @@ Data0=(-43.49549,172.60889)
 
 ;1120036
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=44 Wycola Ave, Hei Hei, Chc/ Opportunity Shop. Charity Store. Clothing, linen, f
 Phone=+6433442530
@@ -82301,7 +82301,7 @@ Data0=(-43.53547,172.52026)
 
 ;1120037
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=32 Lichfield St, Chc, Canterbury/ Opportunity Shop. Charity Store. Clothing, lin
 Phone=+6433770220
@@ -82310,7 +82310,7 @@ Data0=(-43.53433,172.63462)
 
 ;1120038
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=16a Scott St, Blenheim/ Opportunity Shop. Charity Store. Clothing, linen, furnit
 Phone=+6435783238
@@ -82319,7 +82319,7 @@ Data0=(-41.51491,173.95678)
 
 ;1120041
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=104 Tarbert St, Alexandra, Otago/ Opportunity Shop. Charity Store. Clothing, lin
 Phone=+6434485406
@@ -82328,7 +82328,7 @@ Data0=(-45.25279,169.39463)
 
 ;1120046
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=198 Great North Rd, Winton, Southland/ Opportunity Shop. Charity Store. Clothing
 Phone=+6432368593
@@ -82337,7 +82337,7 @@ Data0=(-46.14464,168.32619)
 
 ;1120063
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=1 Hokonui Dr, Gore, Southland/ Opportunity Shop. Charity Store. Clothing, linen,
 Phone=+6432084440
@@ -82346,7 +82346,7 @@ Data0=(-46.09862,168.94550)
 
 ;1120070
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=281 King Edward St, South Dud, Otago/ Opportunity Shop. Charity Store. Clothing,
 Phone=+6434552434
@@ -82355,7 +82355,7 @@ Data0=(-45.89631,170.50059)
 
 ;1120071
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=17 North Rd, North East Valley, Dud/ Opportunity Shop. Charity Store. Clothing, 
 Phone=+6434736392
@@ -82364,7 +82364,7 @@ Data0=(-45.85459,170.51926)
 
 ;1120072
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=98 Gordon Rd, Mosgiel, Otago/ Opportunity Shop. Charity Store. Clothing, linen, 
 Phone=+6434895797
@@ -82373,7 +82373,7 @@ Data0=(-45.87677,170.34900)
 
 ;1120073
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=104 Palmerston St, Riverton, Southland/ Opportunity Shop. Charity Store. Clothin
 Phone=+6432348611
@@ -82382,7 +82382,7 @@ Data0=(-46.34975,168.01673)
 
 ;1120083
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=5 Henley St, Westport, West Coast/ Opportunity Shop. Charity Store. Clothing, li
 Phone=+6437898108
@@ -82391,7 +82391,7 @@ Data0=(-41.75200,171.59763)
 
 ;1120084
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=1 John St, Balclutha, Otago/ Opportunity Shop. Charity Store. Clothing, linen, f
 Phone=+6434184152
@@ -82400,7 +82400,7 @@ Data0=(-46.23864,169.73822)
 
 ;1120085
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=112 Union St, Milton, Otago/ Opportunity Shop. Charity Store. Clothing, linen, f
 Phone=+6434174807
@@ -82409,7 +82409,7 @@ Data0=(-46.11995,169.96004)
 
 ;1120086
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=255 Thames St, Oamaru, Otago/ Opportunity Shop. Charity Store. Clothing, linen, 
 Phone=+6434349151
@@ -82418,7 +82418,7 @@ Data0=(-45.09469,170.97289)
 
 ;1120087
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=206 Wai-iti Rd, Timaru, Canterbury/ Opportunity Shop. Charity Store. Clothing, l
 Phone=+6436847139
@@ -82427,7 +82427,7 @@ Data0=(-44.38980,171.21978)
 
 ;1120088
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=Montgomery Access, Nelson/ Opportunity Shop. Charity Store. Clothing, linen, fur
 Phone=+6435489937
@@ -82436,7 +82436,7 @@ Data0=(-41.27289,173.28262)
 
 ;1120089
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=271 Queen St, Richmond, Nelson/ Opportunity Shop. Charity Store. Clothing, linen
 Phone=+6435449140
@@ -82445,7 +82445,7 @@ Data0=(-41.33829,173.18328)
 
 ;1120105
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=THE OLD LIBRARY
 StreetDesc=6 Allandale Rd, Fairlie/ Cafe, Bar
 Phone=+36858999
@@ -82479,7 +82479,7 @@ Data0=(-43.59908,172.58114)
 
 ;1120119
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=161 Main St, Otautau, Southland/ Opportunity Shop. Charity Store. Clothing, line
 Phone=+6432258921
@@ -82488,7 +82488,7 @@ Data0=(-46.14334,167.99747)
 
 ;1120120
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=51 King St, Windsor, Invercargill/ Opportunity Shop. Charity Store. Clothing, li
 Phone=+6432172879
@@ -82497,7 +82497,7 @@ Data0=(-46.39852,168.36490)
 
 ;1120121
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=SALVATION ARMY FAMILY STORE
 StreetDesc=South City, Elles Rd, Invercargill/ Opportunity Shop. Charity Store. Clothing, l
 Phone=+6432146282
@@ -83081,7 +83081,7 @@ Data0=(-43.50084,172.65529)
 
 ;1120315
 [POI]
-Type=0x2a0e
+Type=0x2e
 Label=CHURCH CORNER BOOK EXCHANGE & CAFE
 StreetDesc=7/390 Riccarton Rd, Upper Riccarton, Chc/ Secondhand Bookshop, Second Hand Books
 Phone=+6433488748
@@ -83921,7 +83921,7 @@ Data0=(-44.73237,171.04851)
 
 ;1120501
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=GORDON'S QUALITY PRODUCE
 StreetDesc=88 Victoria Sreet, Chc, Canterbury/ Fruit, Vegetables, Produce , Grocers
 Data0=(-43.52386,172.63038)
@@ -84124,7 +84124,7 @@ Data0=(-41.27146,173.28288)
 
 ;1120725
 [POI]
-Type=0x2f0c
+Type=0x4c
 Label=LAKE PUKAKI VISITOR CENTRE
 StreetDesc=State Highway 8, Lake Pukaki/ Information, toilets, souvenirs, Rest Area
 Phone=+6434353280
@@ -84234,7 +84234,7 @@ Data0=(-45.87586,170.50243)
 
 ;1120782
 [POI]
-Type=0x2a0e
+Type=0x2a
 Label=SHAKY BRIDGE VINEYARD CAFE
 StreetDesc=Graveyard Gully Rd, Alexandra/ Fully licensed cafe, bar and restaurant
 Phone=+6434485111
@@ -85303,7 +85303,7 @@ Data0=(-43.56180,172.64480)
 
 ;1120995
 [POI]
-Type=0x2e
+Type=0x2e05
 Label=RADIUS PHARMACY MOORHOUSE
 StreetDesc=3 Pilgrim Place, Chc/ Pharmacy, chemist
 Phone=+6433657905
@@ -85312,7 +85312,7 @@ Data0=(-43.54072,172.63971)
 
 ;1120999
 [POI]
-Type=0x2e
+Type=0x2e05
 Label=RADIUS PHARMACY RICCARTON MEDICAL
 StreetDesc=4 Yaldhurst Rd, Church Corner, Chc/ Pharmacy, chemist
 Phone=+6433414855
@@ -85321,7 +85321,7 @@ Data0=(-43.53171,172.57174)
 
 ;1121005
 [POI]
-Type=0x2e
+Type=0x2e05
 Label=RADIUS PHARMACY TOWER JUNCTION
 StreetDesc=Unit 7, Tower Junction, Whiteleigh Ave, Chc/ Pharmacy, chemist
 Phone=+6433485544
@@ -85330,7 +85330,7 @@ Data0=(-43.54065,172.60533)
 
 ;1121013
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=EB GAMES CHRISTCHURCH
 StreetDesc=Shop 36, Shades Arcade, Cashel Mall, Chc/ Computer games, Playstation, Xbox, PC
 Phone=+6433746403
@@ -85339,7 +85339,7 @@ Data0=(-43.53308,172.63552)
 
 ;1121015
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=EB GAMES DUNEDIN
 StreetDesc=Shop 18, Golden Ctr Mall, 251 George St, Dud/ Computer games, Playstation, Xbox,
 Phone=+6434740009
@@ -85348,7 +85348,7 @@ Data0=(-45.87071,170.50525)
 
 ;1121016
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=EB GAMES EASTGATE
 StreetDesc=Eastgate Shopping Ctr, Cnr Linwood Ave and Buckleys Rd, Chc/ Computer games, Pla
 Phone=+6433812233
@@ -85357,7 +85357,7 @@ Data0=(-43.53272,172.67486)
 
 ;1121020
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=EB GAMES HORNBY
 StreetDesc=Shop 40, The Hub Hornby, 418 Main South Rd, Hornby, Chc/ Computer games, Playsta
 Phone=+6433441970
@@ -85367,7 +85367,7 @@ Data0=(-43.54258,172.52340)
 
 ;1121021
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=EB GAMES INVERCARGIL
 StreetDesc=36 Esk St, Invercargill/ Computer games, Playstation, Xbox, PC
 Phone=+6432187091
@@ -85376,7 +85376,7 @@ Data0=(-46.41174,168.34845)
 
 ;1121026
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=EB GAMES NORTHLANDS
 StreetDesc=Shop 96, Northlands Shopping Mall, 55 Main North Rd, Papanui, Chc/ Computer game
 Phone=+6433546572
@@ -85395,7 +85395,7 @@ Data0=(-43.53105,172.59902)
 
 ;1121032
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=EB GAMES RICHMOND
 StreetDesc=Richmond Mall, Corner of Croucher & Talbot Streets, Richmond/ Computer games, Pl
 Phone=+6435442637
@@ -85404,7 +85404,7 @@ Data0=(-41.33857,173.18620)
 
 ;1121036
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=EB GAMES TIMARU
 StreetDesc=294-296 Stafford St, Timaru/ Computer games, Playstation, Xbox, PC
 Phone=+6436845385
@@ -85466,7 +85466,7 @@ Data0=(-41.28703,174.00533)
 
 ;1121093
 [POI]
-Type=0x3005
+Type=0x2f
 Label=ST ALBANS COMMUNITY RESOURCE CENTRE
 StreetDesc=1047 Colombo St, St Albans, Chc/ Hall hire, private functions. NeighbourNet Comp
 Phone=+6433742465
@@ -88997,7 +88997,7 @@ Data0=(-43.47050,172.56923)
 
 ;1121844
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=AMAZON SURF NELSON
 StreetDesc=Fashion Island, 244 Hardy St, Nelson/ Surfwear, street and denim. Rip curl, Dick
 Phone=+6435456109
@@ -89017,7 +89017,7 @@ Data0=(-41.27501,173.28528)
 
 ;1121846
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=COCOON CAFE & WINE BAR
 StreetDesc=Fashion Island, 244 Hardy St, Nelson/ Licensed cafe, wine bar
 Phone=+6435456454
@@ -89067,7 +89067,7 @@ Data0=(-41.27501,173.28541)
 
 ;1121851
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=JAY JAYS FASHION ISLAND NELSON
 StreetDesc=Fashion Island, 244 Hardy St, Nelson/ Guys & girls clothing
 Phone=+6435489207
@@ -89107,7 +89107,7 @@ Data0=(-41.27501,173.28535)
 
 ;1121855
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=KOOKY NELSON
 StreetDesc=Fashion Island, 244 Hardy St, Nelson/ NZ Designer Fashion
 Phone=+6435468941
@@ -89147,7 +89147,7 @@ Data0=(-41.27502,173.28548)
 
 ;1121859
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=RESORT
 StreetDesc=Fashion Island, 244 Hardy St, Nelson/ Womenswear
 Phone=+6435391038
@@ -90000,7 +90000,7 @@ Data0=(-43.46465,170.01703)
 
 ;1122210
 [POI]
-Type=0x2a
+Type=0x2b00
 Label=FOX GLACIER HOTEL
 StreetDesc=Fox Glacier/ Hotel accommodation, bar, cafe, restaurant
 Phone=+6437510839
@@ -90610,7 +90610,7 @@ Data0=(-43.54082,172.65156)
 
 ;1122406
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=CAFE ONETWOFOUR ON MACKAY
 StreetDesc=124 Mackay St, Greymouth/ cafe, bar
 Phone=+37687503
@@ -90818,7 +90818,7 @@ Data0=(-45.36059,170.85051)
 
 ;1122504
 [POI]
-Type=0x2c06
+Type=0x2b00
 Label=MOERAKI VILLAGE HOLIDAY PARK
 StreetDesc=114 Haven St, Moeraki/ Accommodation. Caravan Park, Camping Ground
 Phone=+6433294759
@@ -90864,7 +90864,7 @@ Data0=(-46.40972,168.34382)
 
 ;1122539
 [POI]
-Type=0x2a
+Type=0x2b00
 Label=COMFORT HOTEL CARLTON MILL
 StreetDesc=19 Bealey Ave, Chc/ Hotel accommodation, Harpers restaurant, conference faciliti
 Phone=+6433661068
@@ -90928,7 +90928,7 @@ Data0=(-45.85839,170.50000)
 
 ;1122558
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=RA CAFE & BAR
 StreetDesc=21 The Octagon, Dud/ Cafe Bar
 Phone=+6434776080
@@ -91184,7 +91184,7 @@ Data0=(-46.41254,168.36725)
 
 ;1122661
 [POI]
-Type=0x2a0e
+Type=0x2e
 Label=OFFICEMAX
 StreetDesc=109 Yarrow St, Invercargill/ Office Supplies & Furniture, Packaging, Cafeteria &
 Phone=+6432144211
@@ -91194,7 +91194,7 @@ Data0=(-46.40874,168.35507)
 
 ;1122669
 [POI]
-Type=0x2a0e
+Type=0x2e
 Label=OFFICEMAX
 StreetDesc=89 Great King St, Dud/ Office Supplies & Furniture, Packaging, Cafeteria & Clean
 Phone=+6434774151
@@ -91204,7 +91204,7 @@ Data0=(-45.87174,170.50686)
 
 ;1122674
 [POI]
-Type=0x2a0e
+Type=0x2e
 Label=OFFICEMAX TUAM
 StreetDesc=Cnr Tuam St & Durham St, Chc/ Office Supplies & Furniture, Packaging, Cafeteria 
 Phone=+6433778495
@@ -91214,7 +91214,7 @@ Data0=(-43.53544,172.63347)
 
 ;1122675
 [POI]
-Type=0x2a0e
+Type=0x2e
 Label=OFFICEMAX COLOMBO
 StreetDesc=Cnr Colombo St & Peterborough St, Chc/ Office Supplies & Furniture, Packaging, C
 Phone=+6433532090
@@ -91224,7 +91224,7 @@ Data0=(-43.52539,172.63639)
 
 ;1122678
 [POI]
-Type=0x2a0e
+Type=0x2e
 Label=OFFICEMAX
 StreetDesc=141 Trafalgar St, Nelson/ Office Supplies & Furniture, Packaging, Cafeteria & Cl
 Phone=+6435483616
@@ -91334,7 +91334,7 @@ Data0=(-44.71515,169.13605)
 
 ;1122712
 [POI]
-Type=0x2a
+Type=0x2b00
 Label=HOTEL IBIS CHRISTCHURCH
 StreetDesc=107 Hereford St, Chc/ Hotel accommodation, bar, restaurant
 Phone=+6433678666
@@ -91343,7 +91343,7 @@ Data0=(-43.53194,172.63562)
 
 ;1122713
 [POI]
-Type=0x2a
+Type=0x2b00
 Label=SOFITEL QUEENSTOWN HOTEL AND SPA
 StreetDesc=8 Duke St, Queenstown/ Hotel accommodation, business lounge, conference area, ba
 Phone=+6434500045
@@ -91379,7 +91379,7 @@ Data0=(-43.56109,172.66526)
 
 ;1122721
 [POI]
-Type=0x2a
+Type=0x2b00
 Label=MERCURE HOTEL DUNEDIN
 StreetDesc=310 Princes St, Dud/ Hotel accommodation, bar, restaurant
 Phone=+6434771145
@@ -91517,7 +91517,7 @@ Data0=(-43.54207,172.66558)
 
 ;1123194
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=RAEWARD FRESH JOHNS RD
 StreetDesc=Cnr of Johns & Harewood Rds, 800 Harewood Rd, Harewood, Chc, Canterbury/ Fresh f
 Phone=+6433592772
@@ -91527,7 +91527,7 @@ Data0=(-43.47792,172.55536)
 
 ;1123195
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=RAEWARD FRESH LINWOOD
 StreetDesc=Cnr Ferry Rd & Aldwins Rd, Linwood, Chc/ fresh fruit, vegetables, meat
 Phone=+6433818052
@@ -91536,7 +91536,7 @@ Data0=(-43.54215,172.66558)
 
 ;1123196
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=RAEWARD FRESH TOWER JUNCTION
 StreetDesc=Tower Junction Ctr, Chc/ fresh fruit, vegetables, meat
 Phone=+6433411110
@@ -91545,7 +91545,7 @@ Data0=(-43.54002,172.60550)
 
 ;1123197
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=RAEWARD FRESH NELSON
 StreetDesc=912 Main Rd, Stoke/ fresh fruit, vegetables, meat
 Phone=+6435440824
@@ -91664,9 +91664,9 @@ Data0=(-45.86938,170.50610)
 [POI]
 Type=0x2b01
 Label=755 REGAL COURT MOTEL
-StreetDesc=755 George St, Dud/ Four star accommodation. Zenbu Wi-Fi wireless internet, chea
+StreetDesc=755 George St, Dud/ Four star motel accommodation
 Phone=+6434777729
-Data0=(-45.86125,170.51070)
+Data0=(-45.86128,170.51051)
 [END]
 
 ;1123256
@@ -91725,7 +91725,7 @@ Data0=(-41.28831,173.24734)
 
 ;1123262
 [POI]
-Type=0x2a
+Type=0x2b00
 Label=ACADEMY MOTOR LODGE
 StreetDesc=62 Creyke Rd, Fendalton, Chc/ Motel accommodation, licensed restaurant
 Phone=+6433519347
@@ -93681,7 +93681,7 @@ Data0=(-45.87522,170.50246)
 
 ;1128413
 [POI]
-Type=0x2a0e
+Type=0x2a
 Label=BEST CAFE
 StreetDesc=30 Stuart St, Dud/ Seafood restaurant
 Phone=+6434778059
@@ -93715,7 +93715,7 @@ Data0=(-45.87342,170.50422)
 
 ;1128417
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=BLACKSTONE CAFE & BAR
 StreetDesc=134 Gordon Rd, Mosgiel/ cafe, bar
 Data0=(-45.87462,170.34770)
@@ -93788,7 +93788,7 @@ Data0=(-45.94790,170.33038)
 
 ;1128426
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=BRIOSO CAFE/DI LUSSO BAR
 StreetDesc=12 The Octagon, Dud/ cafe, bar
 Data0=(-45.87449,170.50421)
@@ -93892,7 +93892,7 @@ Data0=(-45.89623,170.47874)
 
 ;1128439
 [POI]
-Type=0x2a0e
+Type=0x2a07
 Label=CAFE NESLI TURKISH KEBAB
 StreetDesc=355 George St, Dud/ Turkish kebabs, takeaways
 Phone=+6434741533
@@ -94473,7 +94473,7 @@ Data0=(-45.87529,170.50255)
 
 ;1128512
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=EUREKA BAR & CAFE
 StreetDesc=118 Albany St, Dud/ cafe, bar
 Data0=(-45.86805,170.51484)
@@ -94935,7 +94935,7 @@ Data0=(-45.89781,170.48766)
 
 ;1128570
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=HINTON'S FRUIT & PRODUCE
 StreetDesc=178 North Rd, Dud/ fresh fruit, vegetables
 Data0=(-45.85020,170.52667)
@@ -95039,7 +95039,7 @@ Data0=(-45.88286,170.36191)
 
 ;1128586
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=IRONIC CAFE & BAR
 StreetDesc=9 Anzac Ave, Dud/ cafe, bar
 Data0=(-45.87446,170.50940)
@@ -95368,7 +95368,7 @@ Data0=(-45.86760,170.50754)
 
 ;1128628
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=MANNEQUIN CAFE BAR
 StreetDesc=185 North Rd, North East Valley, Dud/ cafe, bar
 Phone=+6434730891
@@ -95500,7 +95500,7 @@ Data0=(-45.87345,170.49750)
 
 ;1128644
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=METRO CAFE & BAR
 StreetDesc=153 Stuart St, Dud/ cafe, bar
 Data0=(-45.87446,170.50429)
@@ -95798,7 +95798,7 @@ Data0=(-45.85346,170.35921)
 
 ;1128683
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=NOVA CAFE
 StreetDesc=30 The Octagon, Dud/ Cafe, Bar and Wi-Fi Hotspot
 Phone=+6434790808
@@ -95881,7 +95881,7 @@ Data0=(-45.85736,170.22848)
 
 ;1128693
 [POI]
-Type=0x2a0e
+Type=0x2a07
 Label=OZAN TURKISH CAFE & TAKEAWAY
 StreetDesc=104 Gordon Rd, Mosgiel/ Turkish cafe, takeaways
 Phone=+6434890900
@@ -95890,7 +95890,7 @@ Data0=(-45.87633,170.34878)
 
 ;1128694
 [POI]
-Type=0x2a0e
+Type=0x2a
 Label=PAASHA TURKISH CAFE & TAKEAWAY
 StreetDesc=31 St Andrew St, Dud/ Turkish restaurant, BYO & licensed, takeaways
 Phone=+6434777181
@@ -96415,7 +96415,7 @@ Data0=(-45.90651,170.50636)
 
 ;1128759
 [POI]
-Type=0x2a
+Type=0x2d02
 Label=STAFF CLUB
 StreetDesc=80 Union Place, Dud/ Pub, Restaurant, University of Otago
 Phone=+6434795300
@@ -96425,7 +96425,7 @@ Data0=(-45.86528,170.51380)
 
 ;1128760
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=STARFISH SEASIDE CAFE & BAR
 StreetDesc=240E Forbury Rd, St Clair, Dud/ cafe, bar, restaurant
 Phone=+6434555940
@@ -96550,7 +96550,7 @@ Data0=(-45.90242,170.52232)
 
 ;1128775
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=TALL POPPY CAFE AND BAR
 StreetDesc=36 George St Port Chalmers/ cafe, bar
 Data0=(-45.81598,170.62095)
@@ -96665,7 +96665,7 @@ Data0=(-45.90580,170.50877)
 
 ;1128789
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=THE BLACKDOG CAFE & BAR
 StreetDesc=109 Princes St, Dud/ cafe, bar
 Data0=(-45.87599,170.50275)
@@ -98189,7 +98189,7 @@ Data0=(-43.64825,172.22817)
 
 ;1130443
 [POI]
-Type=0x2c06
+Type=0x2b00
 Label=RAKAIA RIVER HOLIDAY PARK
 StreetDesc=16 Main South Rd, Rakaia/ Holiday Park Accommodation. Motels, Tourist Flats, Cot
 Phone=+6433027257
@@ -99196,7 +99196,7 @@ Data0=(-43.52862,172.64548)
 
 ;1130864
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=ALCHEMY CAFE AND WINE BAR
 StreetDesc=49 Worcester St, Chc/ cafe, bar
 Data0=(-43.53081,172.63113)
@@ -99337,7 +99337,7 @@ Data0=(-43.53189,172.62847)
 
 ;1130883
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=ANTARCTIC CAFE AND BAR
 StreetDesc=38 Orchard Rd, Harewood, Chc/ cafe, bar
 Data0=(-43.48801,172.54722)
@@ -99977,7 +99977,7 @@ Data0=(-43.50693,172.72609)
 
 ;1130962
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=BIN INN STANMORE ROAD
 StreetDesc=341A Stanmore Rd, Richmond Village, Chc/ Wholefoods & Specialty Groceries, Bulk 
 Phone=+6433815199
@@ -100011,7 +100011,7 @@ Data0=(-43.48883,172.58734)
 
 ;1130966
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=BISHOPDALE FRUIT & VEGES
 StreetDesc=17D Bishopdale Ct, Bishopdale, Chc/ fresh fruit, vegetables
 Data0=(-43.48942,172.58683)
@@ -100035,7 +100035,7 @@ Data0=(-43.50438,172.62049)
 
 ;1130970
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=BLAX ESPRESSO BAR
 StreetDesc=384 Montreal St, Chc/ cafe
 Phone=+6433668982
@@ -100079,7 +100079,7 @@ Data0=(-43.53388,172.62795)
 
 ;1130975
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=BOHEMIAN CAFE & BAR
 StreetDesc=256 Oxford Tce, Chc/ Cafe, bar, restaurant
 Phone=+6433662563
@@ -100170,7 +100170,7 @@ Data0=(-43.49578,172.65485)
 
 ;1130987
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=BRIGITTES ESPRESSO BAR
 StreetDesc=209 Papanui Rd, Chc/ cafe, bar
 Data0=(-43.51166,172.62110)
@@ -100374,7 +100374,7 @@ Data0=(-43.47074,172.68035)
 
 ;1131012
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=CAFE BLEU & BAR
 StreetDesc=88 Cashel St, Chc/ cafe, bar
 Data0=(-43.53326,172.63428)
@@ -100414,7 +100414,7 @@ Data0=(-43.53190,172.63744)
 
 ;1131017
 [POI]
-Type=0x2a0e
+Type=0x2a
 Label=CAFE KUDOS
 StreetDesc=235 Annex Rd, Hillmorton, Chc, Canterbury 8024/ Restaurant. Breakfast, lunch. Fo
 Phone=+6433381801
@@ -101172,7 +101172,7 @@ Data0=(-43.53323,172.64599)
 
 ;1131113
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=COGNITO CAFE AND BAR
 StreetDesc=7 Normans Rd, Strowan, Chc/ cafe, bar
 Data0=(-43.50981,172.60730)
@@ -101325,7 +101325,7 @@ Data0=(-43.51078,172.62034)
 
 ;1131134
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=COVENT FRUIT CENTRE
 StreetDesc=181 Victoria St, Chc/ fresh fruit, vegetables
 Data0=(-43.52130,172.62816)
@@ -101641,7 +101641,7 @@ Data0=(-43.56885,172.75994)
 
 ;1131173
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=DOUBLE DROP CAFE AND LOUNGE BAR
 StreetDesc=225 High St, Chc/ cafe, bar
 Data0=(-43.53388,172.63896)
@@ -101778,7 +101778,7 @@ Data0=(-43.51605,172.63675)
 
 ;1131190
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=EDGEWARE FRUIT & VEGETABLES
 StreetDesc=1066 Colombo St, Chc/ fresh fruit, vegetables
 Data0=(-43.51386,172.63683)
@@ -101834,7 +101834,7 @@ Data0=(-43.50964,172.60847)
 
 ;1131197
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=EMMANUEL FOOD BAR & CAFE
 StreetDesc=208C Main South Rd, Chc/ cafe, bar
 Data0=(-43.54229,172.54750)
@@ -102302,7 +102302,7 @@ Data0=(-43.52999,172.63772)
 
 ;1131257
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=FULL SEASON FRESH FRUIT AND VEGETABLE SHOP
 StreetDesc=15A Leslie St, Upper Riccarton, Chc/ fresh fruit, vegetables
 Data0=(-43.53095,172.57250)
@@ -102500,7 +102500,7 @@ Data0=(-43.52998,172.65722)
 
 ;1131282
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=GLOUCESTER STREET CAFE & BAR
 StreetDesc=94 Gloucester St, Chc/ cafe, bar
 Data0=(-43.53000,172.63477)
@@ -102631,7 +102631,7 @@ Data0=(-43.49501,172.71058)
 
 ;1131298
 [POI]
-Type=0x2a
+Type=0x2b00
 Label=GOVERNORS BAY HOTEL
 StreetDesc=52 Main Rd, Governors Bay, Chc/ hotel accommodation, restaurant, bar, bottle sto
 Phone=+6433299433
@@ -102737,7 +102737,7 @@ Data0=(-43.49924,172.58680)
 
 ;1131312
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=GRENADIER CAFE & WINE BAR
 StreetDesc=271 Madras St, Chc/ cafe, bar
 Data0=(-43.52920,172.64245)
@@ -102761,7 +102761,7 @@ Data0=(-43.45902,172.62308)
 
 ;1131315
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=GROWERS DIRECT MARKET LTD
 StreetDesc=28 Yaldhurst Rd, Chc/ Fruit, Vegetables
 Phone=+6433489925
@@ -103031,7 +103031,7 @@ Data0=(-43.53576,172.52123)
 
 ;1131348
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=HELLER & HIBBS SEASIDE CAFE & BAR
 StreetDesc=3 Brighton Mall, New Brighton, Chc/ cafe, bar
 Data0=(-43.50712,172.73060)
@@ -104535,7 +104535,7 @@ Data0=(-43.53219,172.63472)
 
 ;1131547
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=LUCIANO ESPRESSO BAR
 StreetDesc=220 Moorhouse Ave, Chc/ cafe, bar, coffee, vivace
 Phone=+6439611153
@@ -105197,7 +105197,7 @@ Data0=(-43.52302,172.62978)
 
 ;1131632
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=MOKKA ESPRESSO BAR
 StreetDesc=250 Moorhouse Ave, Chc/ cafe, bar
 Data0=(-43.54014,172.63458)
@@ -106230,7 +106230,7 @@ Data0=(-43.50857,172.64612)
 
 ;1131759
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=PHOENIX BAR & CAFE
 StreetDesc=15 Main North Rd, Chc/ cafe, bar
 Data0=(-43.49652,172.60777)
@@ -106656,7 +106656,7 @@ Data0=(-43.50704,172.66309)
 
 ;1131816
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=RENDEZVOUS ON BARRINGTON BAR & CAFE
 StreetDesc=250 Barrington St, Chc/ cafe, bar
 Data0=(-43.55735,172.61927)
@@ -107027,7 +107027,7 @@ Data0=(-43.55032,172.58075)
 
 ;1131863
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=SALT BAR & CAFE
 StreetDesc=26 Marriner St, Sumner, Chc/ cafe, bar
 Data0=(-43.56820,172.75854)
@@ -107481,7 +107481,7 @@ Data0=(-43.53829,172.55496)
 
 ;1131919
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=SOCKBURN FRUIT AND VEGES
 StreetDesc=142 Main South Rd, Chc/ fresh fruit, vegetables
 Data0=(-43.53822,172.55510)
@@ -107808,7 +107808,7 @@ Data0=(-43.56607,172.70047)
 
 ;1131961
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=STOCK X CHANGE BAR & CAFE
 StreetDesc=169 Cashel St, Chc/ cafe, bar
 Data0=(-43.53300,172.63931)
@@ -108258,7 +108258,7 @@ Data0=(-43.53838,172.74120)
 
 ;1132020
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=TALK CAFE & WINE BAR
 StreetDesc=77 Victoria St, Chc/ cafe, bar
 Data0=(-43.52565,172.63209)
@@ -108291,7 +108291,7 @@ Data0=(-43.53326,172.63682)
 
 ;1132024
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=TANDOORI PALACE CAFE & BAR
 StreetDesc=140 Gloucester St, Chc/ cafe, bar
 Data0=(-43.52998,172.63741)
@@ -108514,7 +108514,7 @@ Data0=(-43.53466,172.63342)
 
 ;1132052
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=THE 19TH CAFE AND BAR
 StreetDesc=Ascot Ave, Burwood, Chc/ Cafe, bar
 Phone=+6433833602
@@ -109015,7 +109015,7 @@ Data0=(-43.54952,172.68251)
 
 ;1132118
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=THE LORDSHIP LAND CAFE BAR
 StreetDesc=110 Lichfield St, Chc/ cafe, bar
 Data0=(-43.53432,172.63922)
@@ -109071,7 +109071,7 @@ Data0=(-43.48595,172.71108)
 
 ;1132125
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=THE NICHE CAFE & BAR
 StreetDesc=100 Victoria St, Chc/ cafe, bar
 Data0=(-43.52339,172.63004)
@@ -109145,7 +109145,7 @@ Data0=(-43.57423,172.56739)
 
 ;1132134
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=THE ROCK POOL BAR AND CAFE
 StreetDesc=85 Hereford St, Chc/ cafe, bar
 Data0=(-43.53191,172.63460)
@@ -109405,7 +109405,7 @@ Data0=(-43.49539,172.72608)
 
 ;1132167
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=TOAST CAFE & BAR
 StreetDesc=179 Tuam St, Chc/ cafe, bar
 Data0=(-43.53518,172.63875)
@@ -109429,7 +109429,7 @@ Data0=(-43.52973,172.63708)
 
 ;1132170
 [POI]
-Type=0x2a
+Type=0x2a05
 Label=TOTALLY GLUTEN FREE
 StreetDesc=378 Worcester St, Chc/ Gluten free bakery
 Phone=+6433810600
@@ -109439,7 +109439,7 @@ Data0=(-43.53104,172.65644)
 
 ;1132171
 [POI]
-Type=0x2a
+Type=0x2e
 Label=TOWN DAY MOON
 StreetDesc=180A Yaldhurst Rd, Chc/ butcher
 Data0=(-43.52669,172.55543)
@@ -109479,7 +109479,7 @@ Data0=(-43.51166,172.62110)
 
 ;1132176
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=CLOSED (TRATTORE CAFE) - NOW CRISP CAFE
 StreetDesc=376 Ilam Rd, Chc/ cafe, bar
 zip=Closed
@@ -110701,7 +110701,7 @@ Data0=(-43.64091,172.48253)
 
 ;1132461
 [POI]
-Type=0x2c03
+Type=0x2f
 Label=LINCOLN COMMUNITY TOY LIBRARY INC
 StreetDesc=Cnr James & Gerald St, Lincoln, Selwyn/ Toy Library
 Phone=+6433295787
@@ -110711,7 +110711,7 @@ Data0=(-43.63985,172.48604)
 
 ;1132463
 [POI]
-Type=0x2c08
+Type=0x2c06
 Label=MORRISON PARK
 StreetDesc=Seadown Rd, Washdyke, Timaru/ Rugby
 Data0=(-44.34598,171.24400)
@@ -110725,6 +110725,15 @@ StreetDesc=35 Manchester St, Chc/ Motorcycle sales and service, Harley Davidson,
 Phone=+6433660129
 zip=Tuesday-Friday: 8.00am - 6.00pm. Saturda
 Data0=(-43.53825,172.63949)
+[END]
+
+;1132470
+[POI]
+Type=0x2f08
+Label=ATOMIC SHUTTLES BUS STOP, CHRISTCHURCH
+StreetDesc=88 Worcester St, Chc/ Ground Transport
+Phone=+6433490697
+Data0=(-43.53109,172.63466)
 [END]
 
 ;1132471
@@ -112504,7 +112513,7 @@ Data0=(-41.16403,173.41358)
 
 ;1134191
 [POI]
-Type=0x2c06
+Type=0x2c00
 Label=KAITERITERI KAYAKS
 StreetDesc=Main Rd,Kaiteriteri/ Sea Kayaking Abel Tasman National Park, guided tours, touri
 Phone=0800252925
@@ -112513,7 +112522,7 @@ Data0=(-41.03528,173.01891)
 
 ;1134192
 [POI]
-Type=0x2c06
+Type=0x2c00
 Label=?MARAHAU SEA KAYAKS
 StreetDesc=Franklin St, Marahau/ Sea Kayaking Abel Tasman National Park, guided tours and r
 Phone=0800808018
@@ -112522,7 +112531,7 @@ Data0=(-41.00473,173.00846)
 
 ;1134193
 [POI]
-Type=0x2c06
+Type=0x2c00
 Label=NATURAL HIGH
 StreetDesc=52 Rutherford St, Nelson/ Sea Kayaking Abel Tasman National Park, guided tours a
 Phone=0800444144
@@ -112531,7 +112540,7 @@ Data0=(-41.27276,173.28067)
 
 ;1134194
 [POI]
-Type=0x2c06
+Type=0x2c00
 Label=?KIWI KAYAKS
 StreetDesc=Main Rd, Marahau/ Sea Kayaking Abel Tasman National Park, guided tours
 Phone=0800695494
@@ -112540,7 +112549,7 @@ Data0=(-41.00598,173.00969)
 
 ;1134195
 [POI]
-Type=0x2c06
+Type=0x2c00
 Label=THE SEA KAYAK COMPANY
 StreetDesc=506 High St, Motueka/ Sea Kayaking Abel Tasman National Park, guided tours and f
 Phone=0508252925
@@ -113497,7 +113506,7 @@ Data0=(-46.41058,168.34705)
 
 ;1134467
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=DRUNKEN SAILOR CAFE/BAR
 StreetDesc=8 Ward Parade, Bluff/ cafe, bar
 Phone=+6432128855
@@ -113506,7 +113515,7 @@ Data0=(-46.61317,168.35715)
 
 ;1134468
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=EL TIGR'E CAFE BAR
 StreetDesc=2-16 Kelvin St, Invercargill/ cafe, bar
 Phone=+6432146914
@@ -113662,7 +113671,7 @@ Data0=(-46.41215,168.34764)
 
 ;1134486
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=FRUIT AND VEG WHOLESALE
 StreetDesc=164 Mersey St, Invercargill/ fresh fruit, vegetables
 Phone=+6432188004
@@ -115287,7 +115296,7 @@ Data0=(-46.41029,168.34034)
 
 ;1134671
 [POI]
-Type=0x2a0e
+Type=0x2b00
 Label=TUATARA BACKPACKERS LODGE
 StreetDesc=30-32 Dee St, Invercargill/ backpacker, cafe
 Phone=+6432140954
@@ -115341,7 +115350,7 @@ Data0=(-46.37410,168.34703)
 
 ;1134677
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=VILLAGE GREEN CAFE & BAR
 StreetDesc=34 Windsor St, Invercargill/ cafe, bar
 Phone=+6432170066
@@ -115395,7 +115404,7 @@ Data0=(-46.37615,168.34711)
 
 ;1134683
 [POI]
-Type=0x2f03
+Type=0x2f01
 Label=WAIKIWI MOTORS
 StreetDesc=376 North Rd, Invercargill/ Mobil petrol station, Garage
 Phone=+6432157328
@@ -116820,7 +116829,7 @@ Data0=(-41.27408,173.28126)
 
 ;1135082
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=PLAN B BAR & CAFE
 StreetDesc=7 Alma Lane, Nelson/ cafe, bar
 Data0=(-41.27313,173.28622)
@@ -117088,7 +117097,7 @@ Data0=(-41.31254,173.23417)
 
 ;1135115
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=STOKE FRUIT & VEGES
 StreetDesc=520 Main Rd, Stoke, Nelson/ fresh fruit, vegetables
 Data0=(-41.31281,173.23394)
@@ -117382,7 +117391,7 @@ Data0=(-41.28040,173.26943)
 
 ;1135153
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=VICTORY FRUIT & VEGES
 StreetDesc=144 Toi Toi St, Nelson/ fresh fruit, vegetables
 Data0=(-41.28074,173.26940)
@@ -117432,7 +117441,7 @@ Data0=(-41.27412,173.28416)
 
 ;1135159
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=YAZA CAFE, BAR & VENUE
 StreetDesc=117 Hardy St, Nelson/ cafe, bar
 Data0=(-41.27402,173.28188)
@@ -117754,7 +117763,7 @@ Data0=(-43.50882,172.65189)
 
 ;1135358
 [POI]
-Type=0x2e
+Type=0x2e05
 Label=FERRY ROAD PHARMACY
 StreetDesc=244 Ferry Rd, Waltham, Chc/ Pharmacy, Lotto
 Phone=+6433660081
@@ -117771,7 +117780,7 @@ Data0=(-42.11957,171.86450)
 
 ;1135392
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=HILLTOP STORE
 StreetDesc=31 London St, Hampden, North Otago/ Groceries, beer, wine, Lotto
 Data0=(-45.32380,170.81727)
@@ -117891,7 +117900,7 @@ Data0=(-43.48184,172.70618)
 
 ;1135515
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=FRESH CHOICE
 StreetDesc=100 High St, Mariner's Mall, Picton/ supermarket
 Phone=+6435736463
@@ -118635,7 +118644,7 @@ Data0=(-45.99123,168.81144)
 
 ;1137474
 [POI]
-Type=0x2e
+Type=0x2e09
 Label=BLAKELEYS OF KAIAPOI
 StreetDesc=117 Williams St, Kaipoi/ Traditional furniture. Antiques of the Future. Speciali
 Phone=+6433278161
@@ -119041,7 +119050,7 @@ Data0=(-44.39622,171.25385)
 
 ;1137763
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=ALEXANDERS
 StreetDesc=132 King St, Temuka/ Cafe, bar
 Data0=(-44.24329,171.27761)
@@ -119121,7 +119130,7 @@ Data0=(-44.39760,171.25508)
 
 ;1137774
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=BARKERS FRUIT PROCESSORS
 StreetDesc=76B Talbot St, Geraldine/ fresh fruit, vegetables
 Data0=(-44.09285,171.24496)
@@ -119146,7 +119155,7 @@ Data0=(-44.39192,171.24749)
 
 ;1137778
 [POI]
-Type=0x2a
+Type=0x2b00
 Label=BAY VIADUCT MOTOR LODGE
 StreetDesc=6-10 Wai-iti Rd, Timaru/ Motel accommodation. Licensed restaurant
 Data0=(-44.39091,171.24485)
@@ -120204,7 +120213,7 @@ Data0=(-44.40823,171.25610)
 
 ;1137916
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=PARKSIDE STORE
 StreetDesc=51 Cox St, Geraldine/ Groceries, off license, beer, wine
 Data0=(-44.09684,171.24001)
@@ -121848,7 +121857,7 @@ Data0=(-45.86863,170.50692)
 
 ;1138127
 [POI]
-Type=0x2a
+Type=0x2a0e
 Label=FUSION RESTAURANT COFFEE SHOP
 StreetDesc=430 George St, Dud/ Cafe
 Data0=(-45.86745,170.50758)
@@ -122807,7 +122816,7 @@ Data0=(-45.87519,170.50235)
 
 ;1138246
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=STARFISH CAFE & BAR
 StreetDesc=37 Hargest Cres, Dud/ Cafe, bar
 Data0=(-45.90487,170.49497)
@@ -122815,7 +122824,7 @@ Data0=(-45.90487,170.49497)
 
 ;1138247
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=STOCK X CHANGE BAR AND CAFE
 StreetDesc=91 St Andrew St, Dud/ Cafe, bar
 Data0=(-45.87208,170.50602)
@@ -122863,7 +122872,7 @@ Data0=(-45.89793,170.48739)
 
 ;1138253
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=SWELL CAFE & BAR
 StreetDesc=8 Esplanade, Dud/ Cafe, bar, restaurant
 Phone=+6434559500
@@ -122913,7 +122922,7 @@ Data0=(-45.90719,170.48690)
 
 ;1138259
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=THE BAY CAFE & BAR
 StreetDesc=494 Portobello Rd, Macandrew Bay/ Cafe, bar
 Data0=(-45.86902,170.59788)
@@ -123216,7 +123225,7 @@ Data0=(-43.46529,170.01742)
 
 ;1138550
 [POI]
-Type=0x2a
+Type=0x2b00
 Label=ASPIRING COURT MOTEL & HAAST LODGE
 StreetDesc=Marks Rd, Haast/ Motel accommodation, budget rooms & motor park, restaurant
 Phone=0800500703
@@ -123353,11 +123362,9 @@ Data0=(-43.88080,169.04122)
 ;1138566
 [POI]
 Type=0x2f
-Label=HAAST BEACH GENERAL STORE
-StreetDesc=Haast Beach, South Westland 7844/ Come visit our well stocked country general st
-Phone=+6437500825
-zip=9am - 6pm Mon-Sat
-Data0=(-43.85671,169.01428)
+Label=?HAAST STORE
+StreetDesc=Haast Beach, South Westland/ 
+Data0=(-43.85950,169.00730)
 [END]
 
 ;1138567
@@ -123448,7 +123455,7 @@ Data0=(-41.29910,174.00022)
 
 ;1138578
 [POI]
-Type=0x2a0e
+Type=0x2a
 Label=MILLIES CAFE
 StreetDesc=35 Weld St, Hokitika, West Coast/ Restaurant, food, coffee. Zenbu Wi-Fi wireless
 Phone=+6437558128
@@ -123503,7 +123510,7 @@ Data0=(-43.38580,170.18351)
 
 ;1138585
 [POI]
-Type=0x2a
+Type=0x2d02
 Label=RED LION TAVERN
 StreetDesc=34 Gibson Qy, Hokitika/ Tavern, bar, restaurant
 Data0=(-42.71946,170.96164)
@@ -123849,7 +123856,7 @@ Data0=(-43.55807,172.72867)
 
 ;1139011
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=XYZ
 StreetDesc=9 Tainui St, Greymouth/ Cafe, Bar
 Data0=(-42.44829,171.21125)
@@ -123857,7 +123864,7 @@ Data0=(-42.44829,171.21125)
 
 ;1139012
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=GUMBOOT CAFE ( ON YER BIKE )
 StreetDesc=511 SH 6, Coal Creek/ Cafe, Bar
 Data0=(-42.41770,171.24551)
@@ -124085,7 +124092,7 @@ Data0=(-42.36399,171.41281)
 
 ;1139041
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=FRANK'S CAFE
 StreetDesc=115 MacKay St, Greymouth, West Coast/ Cafe, bar, live music
 Data0=(-42.44855,171.21199)
@@ -125054,7 +125061,7 @@ Data0=(-45.06809,170.99436)
 
 ;1139173
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=JOE'S FRUIT & VEGIE MARKET
 StreetDesc=11 - 15 Ribble St, Oamaru/ fresh fruit, vegetables
 Data0=(-45.09610,170.97341)
@@ -125382,7 +125389,7 @@ Data0=(-45.08447,170.97858)
 
 ;1139214
 [POI]
-Type=0x2a
+Type=0x2b00
 Label=NORTHWESTERN HOTEL
 StreetDesc=33-37 Tiverton St, Palmerston/ Hotel accommodation, licensed restaurant
 Data0=(-45.48495,170.71453)
@@ -125511,7 +125518,7 @@ Data0=(-45.10367,170.97050)
 
 ;1139232
 [POI]
-Type=0x2a
+Type=0x2b00
 Label=PENYBRYN LODGE
 StreetDesc=41 Towey St, Oamaru/ Hotel accommodation, licensed restaurant
 Data0=(-45.10596,170.95528)
@@ -125728,7 +125735,7 @@ Data0=(-45.09765,170.97163)
 
 ;1139260
 [POI]
-Type=0x2a
+Type=0x2b00
 Label=THE HIGHWAYMAN HOTEL
 StreetDesc=1200 Dunback Rd, (SH 85 )Dunback/ Hotel accommodation. Cafe, garden bar, restaur
 Phone=+6434650440
@@ -126571,7 +126578,7 @@ Data0=(-41.76261,171.60063)
 
 ;1141049
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=DENNISTON DOG CAFE & BAR
 StreetDesc=18-20 Wakefield St, Westport/ cafe, bar
 Data0=(-41.75684,171.60085)
@@ -126603,7 +126610,7 @@ Data0=(-41.62838,171.85517)
 
 ;1141053
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=FRECKLES MILK BAR
 StreetDesc=216 Palmerston St, Westport/ Cafe
 Data0=(-41.75618,171.59860)
@@ -126981,7 +126988,7 @@ Data0=(-42.11981,171.86601)
 
 ;1141099
 [POI]
-Type=0x2a
+Type=0x2b00
 Label=REEFTON AUTOLODGE
 StreetDesc=72-78 Broadway, Reefton/ Motel accommodation, bar, restaurant
 Phone=+6437328406
@@ -127073,7 +127080,7 @@ Data0=(-41.75007,171.47387)
 
 ;1141110
 [POI]
-Type=0x2a
+Type=0x2d02
 Label=MINERS ON SEA
 StreetDesc=117 Torea St, Granity/ Big Fish Bar, restaurant, accommodation, home style food
 Data0=(-41.62558,171.85722)
@@ -127121,7 +127128,7 @@ Data0=(-41.75909,171.59982)
 
 ;1141116
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=WHANAKE GALLERY & ESPRESSO BAR
 StreetDesc=173 Palmerston St, Westport/ cafe, bar
 Data0=(-41.75719,171.59938)
@@ -127195,7 +127202,7 @@ Data0=(-43.17478,172.77722)
 
 ;1141130
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=AMBERLEY FRUIT AND VEGETABLES
 StreetDesc=96a Carters Rd, Amberley/ fresh fruit, vegetables
 Data0=(-43.15441,172.72959)
@@ -127430,7 +127437,7 @@ Data0=(-42.81391,173.27848)
 
 ;1141159
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=GRETA CAFE & BAR
 StreetDesc=9 Tavern Dr, Greta Valley/ cafe, bar
 Data0=(-42.96426,172.96915)
@@ -127742,7 +127749,7 @@ Data0=(-42.97110,172.70531)
 
 ;1141200
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=RAMS - HEAD CAFE & BAR
 StreetDesc=4 Leslie St, Waiau/ cafe, bar
 Data0=(-42.65603,173.04140)
@@ -127774,7 +127781,7 @@ Data0=(-42.69679,172.94723)
 
 ;1141204
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=RUSTIC CAFE & TAPAS BAR
 StreetDesc=8 Conical Hill Rd, Hanmer Springs/ cafe, bar
 Data0=(-42.52159,172.82940)
@@ -127942,7 +127949,7 @@ Data0=(-42.65345,173.01108)
 
 ;1141225
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=THE PADDOCK CAFE & BAR
 StreetDesc=8 Hall St, Cheviot/ cafe, bar
 Data0=(-42.81497,173.27373)
@@ -128898,7 +128905,7 @@ Data0=(-45.03099,168.66167)
 
 ;1141634
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Blaydon St O/S Switzers Museum Waikaia/ Telecom, payphone, public phone box
 Phone=+6432027842
@@ -128907,7 +128914,7 @@ Data0=(-45.72446,168.84919)
 
 ;1141635
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=9 Bridge St Mataura/ Telecom, payphone, public phone box
 Phone=+6432033359
@@ -128916,7 +128923,7 @@ Data0=(-46.19447,168.86758)
 
 ;1141636
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=117 Main Rd O/S Police Station Mataura/ Telecom, payphone, public phone box
 Phone=+6432038003
@@ -135595,7 +135602,7 @@ Data0=(-41.74907,171.55665)
 
 ;1144617
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=100% ROSS DITMER
 StreetDesc=251-253 High St, Rangiora/ Electronic appliances, computers and printers, dehumi
 Phone=+6433137886
@@ -136683,7 +136690,7 @@ Data0=(-43.31130,172.60924)
 
 ;1144867
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=ROUTE 72 CAFE/BAR EMPORIUM
 StreetDesc=1699 Cust Rd, Cust/ cafe, bar
 Data0=(-43.31150,172.37800)
@@ -139554,7 +139561,7 @@ Data0=(-43.52931,172.60218)
 
 ;1146897
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=MILIEU CAFE DELI BAR
 StreetDesc=112 Wrights Rd, Chc/ cafe, bar, deli
 Data0=(-43.54588,172.59697)
@@ -139659,7 +139666,7 @@ Data0=(-43.52843,172.63876)
 
 ;1146911
 [POI]
-Type=0x2a
+Type=0x2e
 Label=MOOTS MEAT MARKET
 StreetDesc=181A Riccarton Rd, Chc/ Butchers, Meat
 Phone=+6433485571
@@ -141617,7 +141624,7 @@ Data0=(-46.10061,169.52787)
 
 ;1147175
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=COFFEE MINE BAR AND CAFE
 StreetDesc=26 Ross Place, Lawrence/ cafe, bar
 Data0=(-45.91268,169.68663)
@@ -141721,7 +141728,7 @@ Data0=(-45.84659,169.26858)
 
 ;1147188
 [POI]
-Type=0x2a
+Type=0x2b00
 Label=GARVAN HOTEL & RESTAURANT
 StreetDesc=1091 Milton Highway, Milton/ Hotel accommodation, restaurant
 Data0=(-46.16273,169.83045)
@@ -141778,7 +141785,7 @@ Data0=(-46.09505,169.54662)
 
 ;1147195
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=GWS FRUIT SUPPLY
 StreetDesc=186 Clyde St, Balclutha/ fresh fruit, vegetables
 Data0=(-46.24227,169.72813)
@@ -141907,7 +141914,7 @@ Data0=(-46.38619,169.78244)
 
 ;1147211
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=LAKE WAIHOLA CAFE & BAR
 StreetDesc=29 Greenwich St, Waihola/ cafe, bar
 Data0=(-46.02310,170.09503)
@@ -141948,7 +141955,7 @@ Data0=(-46.22613,169.78989)
 
 ;1147216
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=LUMBERJACK BAR & CAFE
 StreetDesc=1-3 Saunders St, Owaka/ cafe, bar
 Data0=(-46.45061,169.65887)
@@ -142060,7 +142067,7 @@ Data0=(-46.47277,169.71777)
 
 ;1147230
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=NGOK AND NANCYS FRUIT
 StreetDesc=42 Clyde St, Balclutha/ fresh fruit, vegetables
 Data0=(-46.23783,169.73908)
@@ -142270,7 +142277,7 @@ Data0=(-46.24227,169.72813)
 
 ;1147257
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=THE FIREPLACE CAFE AND BAR
 StreetDesc=136 Union St, Milton/ cafe, bar
 Data0=(-46.11919,169.96091)
@@ -142383,7 +142390,7 @@ Data0=(-46.12175,169.95802)
 
 ;1147271
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=WHISTLING FROG CAFE AND BAR
 StreetDesc=29 Rewcastle Rd, Chaslands/ cafe, bar
 Data0=(-46.59094,169.35642)
@@ -142409,7 +142416,7 @@ Data0=(-43.83756,173.05612)
 
 ;1147544
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=ASCOT TV ON COLOMBO
 StreetDesc=404 Colombo St, Chc/ TV, VCR,HiFi Sales and Service
 Phone=+6433775504
@@ -143685,7 +143692,7 @@ Data0=(-44.70139,169.12835)
 
 ;1149078
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=TOP HUT CAFE & BAR
 StreetDesc=13 Tasman Rd, Twizel/ cafe, bar
 Data0=(-44.25785,170.09788)
@@ -143701,7 +143708,7 @@ Data0=(-43.99941,170.46260)
 
 ;1149080
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=HUNTERS CAFE & BAR
 StreetDesc=2 Market Place, Twizel/ Cafe, bar
 Data0=(-44.25671,170.09805)
@@ -143975,7 +143982,7 @@ Data0=(-44.27501,170.05943)
 
 ;1149119
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=?MUSTERER'S HUT
 StreetDesc=20 Ruataniwha Rd, Twizel/ Cafe, bar
 Phone=+6434350241
@@ -144249,7 +144256,7 @@ Data0=(-43.53454,172.64085)
 
 ;1150450
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=LOUIS VUITTON CHRISTCHURCH
 StreetDesc=735 Colombo St, Chc/ Luxury French fashion. Luggage, glasses
 Phone=+6433660020
@@ -144259,7 +144266,7 @@ Data0=(-43.53016,172.63644)
 
 ;1150451
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=LOUIS VUITTON QUEENSTOWN
 StreetDesc=12 The Mall, Queenstown/ Luxury French fashion. Luggage, glasses
 Phone=+6434418002
@@ -144458,7 +144465,7 @@ Data0=(-43.53004,172.59457)
 
 ;1150524
 [POI]
-Type=0x2a
+Type=0x2b00
 Label=HERITAGE QUEENSTOWN
 StreetDesc=91 Fernhill Rd, Queenstown/ Hotel accommodation, restaurant, bar, conference cen
 Phone=+6434424988
@@ -144586,7 +144593,7 @@ Data0=(-41.51344,173.95701)
 
 ;1150580
 [POI]
-Type=0x6412
+Type=0x2f
 Label=BLUE POOL TRAIL HEAD
 StreetDesc=SH6, Haast Pass/ Blue Pools Walk
 Data0=(-44.16437,169.27687)
@@ -144781,7 +144788,7 @@ Data0=(-45.25434,169.39139)
 
 ;1150644
 [POI]
-Type=0x4a00
+Type=0x2f
 Label=PIGROOT REST AREA
 StreetDesc=Morrisons-Kyeburn Rd/ rest area
 Data0=(-45.19689,170.42486)
@@ -144789,7 +144796,7 @@ Data0=(-45.19689,170.42486)
 
 ;1150645
 [POI]
-Type=0x4a00
+Type=0x2f
 Label=GRANGE HILL REST AREA
 StreetDesc=Grange Hill Rd Dunback/ Rest Area
 Data0=(-45.40642,170.64357)
@@ -144797,7 +144804,7 @@ Data0=(-45.40642,170.64357)
 
 ;1150646
 [POI]
-Type=0x4a00
+Type=0x2f
 Label=LINDIS PASS REST AREA
 StreetDesc=Omarama Lindis Pass Rd/ rest area
 Data0=(-44.51810,169.72692)
@@ -145496,7 +145503,7 @@ Data0=(-45.25614,169.39153)
 
 ;1150835
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=HIGHWAY 99 CAFE & BAR
 StreetDesc=58 Clifden Highway, RD 1, Tuatapere/ cafe, bar
 Data0=(-46.12277,167.67670)
@@ -145528,7 +145535,7 @@ Data0=(-45.04184,169.18899)
 
 ;1150846
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=JONES FAMILY FRUIT STALL
 StreetDesc=489 Kawarau Gorge Rd (SH6), Cromwell/ fresh fruit, vegetables
 Data0=(-45.06073,169.15112)
@@ -145577,7 +145584,7 @@ Data0=(-45.47807,169.31588)
 
 ;1150876
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=LAZYDOG CAFE & WINE BAR
 StreetDesc=210 Cairnmuir Rd, Cromwell/ cafe, bar
 Data0=(-45.08519,169.18102)
@@ -145665,7 +145672,7 @@ Data0=(-46.37012,168.02263)
 
 ;1150898
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=MAYFLY BAR & CAFE
 StreetDesc=13 Diana St, Lumsden/ cafe, bar
 Data0=(-45.73871,168.44197)
@@ -146154,7 +146161,7 @@ Data0=(-42.37575,173.68109)
 
 ;1151106
 [POI]
-Type=0x6400
+Type=0x2f
 Label=OHAU B POWER STATION
 StreetDesc=McAughtries Rd/ Hydroelectric Power Station
 Data0=(-44.29944,170.11270)
@@ -146289,7 +146296,7 @@ Data0=(-45.04962,169.18701)
 
 ;1151184
 [POI]
-Type=0x2e
+Type=0x2a0e
 Label=MADRAS CAFE BOOKSHOP
 StreetDesc=165 Madras St Chc New Zealand/ Coffee Books
 Phone=+6433658585
@@ -147805,7 +147812,7 @@ Data0=(-45.86616,170.48464)
 
 ;1151762
 [POI]
-Type=0x2d02
+Type=0x2b01
 Label=CANTERBURY HOTEL
 StreetDesc=Forest Dr, Methven, Canterbury/ Hotel, Accommodation, Bar, Restaurant, Off licen
 Phone=+33028045
@@ -147882,7 +147889,7 @@ Data0=(-45.72495,168.84888)
 
 ;1151783
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=COPPER CAFE AND BAR
 StreetDesc=164 Stafford St, Timaru, Canterbury/ cafe, bar
 Data0=(-44.39673,171.25421)
@@ -148021,7 +148028,7 @@ Data0=(-42.71883,170.96250)
 
 ;1151848
 [POI]
-Type=0x2d02
+Type=0x2b01
 Label=JUNCTION HOTEL
 StreetDesc=Main Rd, Spring Creek, Marlborough/ Hotel
 Phone=+6435705879
@@ -148256,7 +148263,7 @@ Data0=(-45.96976,168.03052)
 
 ;1151965
 [POI]
-Type=0x2d02
+Type=0x2b01
 Label=SCENIC HOTEL FRANZ JOSEF GLACIER
 StreetDesc=State Highway 6, Franz Josef, Westland/ Hotel
 Phone=+6437520729
@@ -148333,7 +148340,7 @@ Data0=(-42.38936,173.67898)
 
 ;1151997
 [POI]
-Type=0x2d07
+Type=0x2d00
 Label=SYDENHAM BOWLING CLUB
 StreetDesc=230 Brougham St, Sydenham, Chc/ Bowling Club
 Phone=+6433669159
@@ -148366,7 +148373,7 @@ Data0=(-40.86084,172.80632)
 
 ;1152027
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=THE BAAA SPORTS BAR & CAFE
 StreetDesc=746 Great King St, North Dud, Dud/ cafe, bar
 Data0=(-45.85915,170.51354)
@@ -148390,7 +148397,7 @@ Data0=(-45.03145,168.65856)
 
 ;1152039
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=THE CORNER CAFE AND BAR
 StreetDesc=2A Lewis St, Hoon Hay, Chc/ cafe, bar
 Data0=(-43.55991,172.60244)
@@ -148662,7 +148669,7 @@ Data0=(-46.40982,168.34700)
 
 ;1152290
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=JOANNA G
 StreetDesc=34 Sonter Rd, Sockburn, Chc/ Intimates for women and men. Lingerie & Sex Toys, a
 Phone=0800562662
@@ -149107,7 +149114,7 @@ Data0=(-43.46903,172.50591)
 
 ;1152869
 [POI]
-Type=0x2c04
+Type=0x2f
 Label=HANMER MTB TRACKS ENTRANCE
 StreetDesc=Clarence Valley Rd, Hanmer Springs/ Entrance (one of many) to Hanmer MTB Tracks
 Data0=(-42.51364,172.82009)
@@ -151638,7 +151645,7 @@ Data0=(-46.56012,169.12506)
 
 ;1154052
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=CHEYNES MENSWEAR
 StreetDesc=124 Gordon Rd, Mosgiel/ Mens clothing
 Phone=+6434890102
@@ -151684,7 +151691,7 @@ Data0=(-43.52913,172.60344)
 
 ;1154259
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=Y KIDS
 StreetDesc=183 St Vincent St, Nelson/ Early Learning Centre, After School Care, Preschool
 Phone=+6435456760
@@ -151701,7 +151708,7 @@ Data0=(-41.19060,173.05346)
 
 ;1154538
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=APPLEBY PLAYCENTRE
 StreetDesc=Appleby Highway, Appleby, Tasman/ Kindy, Play Centre, Early Learning
 Data0=(-41.30747,173.12616)
@@ -152611,7 +152618,7 @@ Data0=(-43.53906,172.52801)
 
 ;1154972
 [POI]
-Type=0x2F07
+Type=0x2f03
 Label=PALMSIDE CARS LTD WORKSHOP
 StreetDesc=287 Hoon Hay Rd, Hoon Hay/ Car Repairs & Motorsport Parts
 Phone=+6433389151
@@ -153058,7 +153065,7 @@ Data0=(-43.30359,172.59485)
 
 ;1155210
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=SIR GEORGE SEYMOUR NATIONAL COLLEGE OF AIRLINE, TOURISM & TRAVEL
 StreetDesc=L 3, 9 Moray Place, Dud/ Private tertiary education and training programmes for 
 Phone=+6434776825
@@ -153085,7 +153092,7 @@ Data0=(-43.53650,172.63332)
 
 ;1155221
 [POI]
-Type=0x2f
+Type=0x2F02
 Label=BACKROADS BIKES - MOTORCYCLE RENTALS AND TOURS.
 StreetDesc=3 Fairfax St, Dud/ Motorcycle rental, motorcycle tours, riding gear, guided ride
 Phone=+6434667623
@@ -153336,7 +153343,7 @@ Data0=(-45.89356,170.41899)
 
 ;1155327
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=CONCORD KINDERGARTEN
 StreetDesc=93 Mulford St, Concord, Dud/ Kindergarten
 Phone=+6434876704
@@ -153434,7 +153441,7 @@ Data0=(-46.09839,168.94607)
 
 ;1155356
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=GRASMERE KINDERGARTEN
 StreetDesc=90 Heywood St, Invercargill/ Kindergarten
 Phone=+6432159292
@@ -153443,7 +153450,7 @@ Data0=(-46.38344,168.33669)
 
 ;1155362
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=GROVE STREET KINDERGARTEN
 StreetDesc=50a Grove St, Nelson/ Kindergarten
 Phone=+6435488600
@@ -153532,7 +153539,7 @@ Data0=(-42.45550,171.20708)
 
 ;1155409
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=KELSEY YARALLA KINDERGARTEN
 StreetDesc=4 Trent Ave, Dud North/ Kindergarten
 Phone=+6434776674
@@ -153541,7 +153548,7 @@ Data0=(-45.86735,170.51482)
 
 ;1155412
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=KEW KINDERGARTEN
 StreetDesc=51 Selwyn St, Invercargill/ Kindergarten
 Phone=+6432184243
@@ -153582,7 +153589,7 @@ Data0=(-43.57114,172.63973)
 
 ;1155425
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=LINDISFARNE KINDERGARTEN
 StreetDesc=34 Mitchell St, Invercargill/ Kindergarten
 Phone=+6432179467
@@ -153913,7 +153920,7 @@ Data0=(-45.86542,170.55492)
 
 ;1155544
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=REID PARK KINDERGARTEN
 StreetDesc=63 Murray St, Mosgiel/ Kindergarten
 Phone=+6434895515
@@ -154847,7 +154854,7 @@ Data0=(-43.54044,172.64397)
 
 ;1156479
 [POI]
-Type=0x2a
+Type=0x2b00
 Label=THE PIER HOTEL
 StreetDesc=1 Avoca St, Kaikoura/ Motel accommodation, licensed restaurant, bar, cafe. Confe
 Phone=+6433195037
@@ -155082,7 +155089,7 @@ Data0=(-43.53322,172.53145)
 
 ;1157201
 [POI]
-Type=0x2e
+Type=0x2F07
 Label=BURNSCO CHRISTCHURCH
 StreetDesc=75 Blenheim Rd, Riccarton, Chc/ Marine & motorhome accessories. Boating, fishing
 Phone=+6433436485
@@ -155092,7 +155099,7 @@ Data0=(-43.53712,172.60510)
 
 ;1157208
 [POI]
-Type=0x2e
+Type=0x2F07
 Label=BURNSCO NELSON
 StreetDesc=44 Wildman Ave, Port Nelson/ Marine & motorhome accessories. Boating, fishing, k
 Phone=+6435390909
@@ -155764,9 +155771,9 @@ Data0=(-42.93769,171.56119)
 
 ;1157598
 [POI]
-Type=0x2d02
+Type=0x2a07
 Label=ATEFORATE FOOD BAR
-StreetDesc=848 Jones Rd, Rolleston/ Takeaways
+StreetDesc=848 Jones Rd, Rolleston/ bar
 Data0=(-43.58877,172.37711)
 [END]
 
@@ -155895,7 +155902,7 @@ Data0=(-43.48657,172.10140)
 
 ;1157616
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=DARFIELD FRUIT SUPPLY
 StreetDesc=53a South Terrace, Darfield/ fresh fruit, vegetables
 Data0=(-43.48955,172.10784)
@@ -156202,7 +156209,7 @@ Data0=(-43.48982,172.11063)
 
 ;1157655
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=NEDS CAFE & BAR
 StreetDesc=5695 West Coast Rd, Springfield/ cafe, bar
 Data0=(-43.33402,171.81773)
@@ -156235,7 +156242,7 @@ Data0=(-43.57384,172.10167)
 
 ;1157659
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=OWENS FRESH FRUIT & VEGE
 StreetDesc=Shop 14, Rolleston Sq, Rolleston/ fresh fruit, vegetables
 Data0=(-43.59549,172.38536)
@@ -156444,7 +156451,7 @@ Data0=(-43.64759,172.53368)
 
 ;1157684
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=STATION 73
 StreetDesc=Springfield Railway Station, King St, Springfield/ Cafe, I-Site
 Phone=+6433184000
@@ -156462,7 +156469,7 @@ Data0=(-43.68675,172.28742)
 
 ;1157686
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=TERRACE BAR & CAFE
 StreetDesc=20-22 South Terrace, Darfield/ cafe, bar
 Data0=(-43.48991,172.11488)
@@ -156523,7 +156530,7 @@ Data0=(-43.66162,172.54840)
 
 ;1157694
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=THE WOBBLY KEA
 StreetDesc=131 SH 73, Arthurs Pass/ Cafe & Bar
 Phone=+6433189101
@@ -156533,7 +156540,7 @@ Data0=(-42.93901,171.56163)
 
 ;1157695
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=TRENT ESTATE VINEYARDS
 StreetDesc=150 Trents Rd, Chc/ Vineyard, Restaurant, Weddings
 Phone=+6433496940
@@ -156767,7 +156774,7 @@ Data0=(-42.40071,173.68109)
 
 ;1157726
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=SONIC ON THE ROCKS CAFE & BAR
 StreetDesc=West End, Kaikoura/ cafe, bar
 Phone=+6433196052
@@ -156910,7 +156917,7 @@ Data0=(-41.51259,173.95385)
 
 ;1158060
 [POI]
-Type=0x2f
+Type=0x2c00
 Label=SKYDIVE KAIKOURA
 StreetDesc=Kaikoura Airport, SH1, Kaikoura/ Tandem skydiving
 Phone=0800THESKY843759
@@ -157105,7 +157112,7 @@ Data0=(-41.33982,173.18561)
 
 ;1158184
 [POI]
-Type=0x2f
+Type=0x2F02
 Label=FIND A CAMPER 24HR
 StreetDesc=4-125 Champion St, St Albans, Chc/ campervan, motorhome, rental, hire, New Zeala
 Phone=+6433652843
@@ -157428,7 +157435,7 @@ Data0=(-44.99288,168.67913)
 
 ;1158303
 [POI]
-Type=0x2a
+Type=0x2b00
 Label=VICTORIA RAILWAY HOTEL & GERRARD'S RESTAURANT
 StreetDesc=3 Leven St, Invercargill/ Accommodation
 Data0=(-46.41165,168.34608)
@@ -160332,7 +160339,7 @@ Data0=(-41.28606,173.90561)
 
 ;1159441
 [POI]
-Type=0x2a
+Type=0x2b00
 Label=LISBURN HOUSE RESTAURANT AND BED N BREAKFAST
 StreetDesc=15 lisburn Ave, caversham, Dud/ Accommodation
 Data0=(-45.89493,170.48182)
@@ -161561,7 +161568,7 @@ Data0=(-43.42402,172.58087)
 
 ;1159817
 [POI]
-Type=0x2a
+Type=0x2b00
 Label=SKI TIME LODGE, APARTMENTS & RESTAURANT
 StreetDesc=43 Racecourse Ave, Methven/ Accommodation
 Data0=(-43.62670,171.64463)
@@ -162985,7 +162992,7 @@ Data0=(-41.34754,173.19408)
 
 ;1160396
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=STOKE KINDERGARTEN
 StreetDesc=21 Ranui Rd, Stoke, Nelson/ Kindergarten
 Phone=+6435477441
@@ -162994,7 +163001,7 @@ Data0=(-41.31661,173.23395)
 
 ;1160397
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=TAHUNANUI KINDERGARTEN
 StreetDesc=53 Muritai St, Tahunanui, Nelson/ Kindergarten
 Phone=+6435485345
@@ -163003,7 +163010,7 @@ Data0=(-41.28575,173.24496)
 
 ;1160398
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=BIRCHWOOD KINDERGARTEN
 StreetDesc=311 Seaview Rd, Stoke, Nelson/ Kindergarten
 Phone=+6435479637
@@ -163012,7 +163019,7 @@ Data0=(-41.30686,173.22365)
 
 ;1160399
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=GREENWOOD KINDERGARTEN
 StreetDesc=51 Greenwood St, Motueka/ Kindergarten
 Phone=+6435288385
@@ -163021,7 +163028,7 @@ Data0=(-41.11024,173.01585)
 
 ;1160400
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=GOLDEN BAY KINDERGARTEN
 StreetDesc=9a Wadsworth St, Takaka/ Kindergarten
 Phone=+6435259686
@@ -163030,7 +163037,7 @@ Data0=(-40.84596,172.81007)
 
 ;1160401
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=HENLEY KINDERGARTEN
 StreetDesc=11a Gilbert St, Richmond, Nelson/ Kindergarten
 Phone=+6435446908
@@ -163039,7 +163046,7 @@ Data0=(-41.34231,173.19611)
 
 ;1160402
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=HIRA RURAL KINDERGARTEN
 StreetDesc=460 State Highway 6, Wakapuaka/ Kindergarten
 Phone=+6435450224
@@ -163048,7 +163055,7 @@ Data0=(-41.20708,173.36375)
 
 ;1160403
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=LAURA INGRAM KINDERGARTEN
 StreetDesc=6 Pah St, Motueka/ Kindergarten
 Phone=+6435288363
@@ -163057,7 +163064,7 @@ Data0=(-41.10988,173.00999)
 
 ;1160404
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=NAYLAND KINDERGARTEN
 StreetDesc=175 Nayland Rd, Stoke, Nelson/ Kindergarten
 Phone=+6435476313
@@ -163066,7 +163073,7 @@ Data0=(-41.30568,173.23305)
 
 ;1160405
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=NELSON SOUTH KINDERGARTEN
 StreetDesc=150a Waimea Rd, Nelson/ Kindergarten
 Phone=+6435489970
@@ -163075,7 +163082,7 @@ Data0=(-41.29205,173.26897)
 
 ;1160406
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?PINEGROVE KINDERGARTEN
 StreetDesc=Charlotte Lane, Brightwater, Nelson/ Kindergarten
 Phone=+6435423447
@@ -163084,7 +163091,7 @@ Data0=(-41.37636,173.10867)
 
 ;1160407
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=RICHMOND KINDERGARTEN
 StreetDesc=24 Florence St, Richmond, Nelson/ Kindergarten
 Phone=+6435445588
@@ -163093,7 +163100,7 @@ Data0=(-41.33802,173.18895)
 
 ;1160408
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=THE BROOK KINDERGARTEN
 StreetDesc=51b Brook St, Nelson/ Kindergarten
 Phone=+6435489936
@@ -163102,7 +163109,7 @@ Data0=(-41.28403,173.29159)
 
 ;1160409
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=VICTORY SQUARE KINDERGARTEN
 StreetDesc=166 St. Vincent St, Nelson/ Kindergarten
 Phone=+6435469633
@@ -163111,7 +163118,7 @@ Data0=(-41.28023,173.26998)
 
 ;1160410
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=WAVERLEY STREET KINDERGARTEN
 StreetDesc=58 Waverley St, Richmond, Nelson/ Kindergarten
 Phone=+6435444170
@@ -163120,7 +163127,7 @@ Data0=(-41.33961,173.17923)
 
 ;1160411
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=BRIDGE STREET EARLY LEARNING CENTRE
 StreetDesc=199 Bridge St, Nelson/ Early Learning Centre
 Phone=+6435481234
@@ -163129,7 +163136,7 @@ Data0=(-41.27251,173.28951)
 
 ;1160412
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=FUTURES EARLY EDUCATION
 StreetDesc=9 Gilbert St, Richmond/ Early Learning Centre
 Phone=+6435449069
@@ -163175,7 +163182,7 @@ Data0=(-43.59377,172.38178)
 
 ;1160441
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=ABBOTSFORD KINDERGARTEN
 StreetDesc=13 Neill St, Abbotsford, Dud/ Kindergarten
 Data0=(-45.90088,170.42655)
@@ -163385,7 +163392,7 @@ Data0=(-43.29630,172.59651)
 
 ;1160585
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=ALEXANDRA CHILDCARE CENTRE
 StreetDesc=32 Marslin St, Alexandra/ 
 Phone=+6434487641
@@ -163394,7 +163401,7 @@ Data0=(-45.24434,169.38925)
 
 ;1160586
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=ALEXANDRA KINDERGARTEN
 StreetDesc=3 Ventry St, Alexandra/ Kindergarten
 Phone=+6434488655
@@ -163403,7 +163410,7 @@ Data0=(-45.25487,169.39020)
 
 ;1160592
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?ALLENTON FREE KINDERGARTEN
 StreetDesc=Allens Rd, Ashburton/ Kindergarten
 Phone=+6433087896
@@ -163421,7 +163428,7 @@ Data0=(-45.88438,170.35345)
 
 ;1160599
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?AMBERLEY PLAYCENTRE
 StreetDesc=Chamberlain Park, Amberley/ Playcentre
 Data0=(-43.15559,172.72813)
@@ -163447,7 +163454,7 @@ Data0=(-45.89713,170.53093)
 
 ;1160603
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=ANDERSONS BAY PLAYCENTRE
 StreetDesc=56 Jeffery St, Dud/ Playcentre
 Phone=+6421269125
@@ -163554,7 +163561,7 @@ Data0=(-43.90531,171.75994)
 
 ;1160659
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=ASHBURTON PLAYCENTRE
 StreetDesc=45 Park St, Ashburton/ Playcentre
 Phone=+6433076367
@@ -163563,7 +163570,7 @@ Data0=(-43.90276,171.74443)
 
 ;1160662
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=ASHLEY PLAYCENTRE
 StreetDesc=43 Canterbury St, Ashley/ Playcentre
 Phone=+6433134310
@@ -163590,7 +163597,7 @@ Data0=(-41.23706,173.31796)
 
 ;1160669
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=ATAWHAI PLAYCENTRE
 StreetDesc=Corder Park, Atawhai, Nelson/ Playcentre
 Phone=+6435450828
@@ -163608,7 +163615,7 @@ Data0=(-43.49934,172.64746)
 
 ;1160679
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=AUBREY MASON FREE KINDERGARTEN
 StreetDesc=136 Thomson St, Tinwald, Ashburton/ Kindergarten
 Phone=+6433083779
@@ -163635,7 +163642,7 @@ Data0=(-45.81932,170.61792)
 
 ;1160700
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?AWATERE PLAYCENTRE
 StreetDesc=Redwood St, Seddon/ Playcentre
 Data0=(-41.67460,174.07322)
@@ -163651,7 +163658,7 @@ Data0=(-41.34824,173.17971)
 
 ;1160710
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=BALCLUTHA KINDERGARTEN
 StreetDesc=1 Lanark St, Balclutha/ Kindergarten
 Phone=+6434180330
@@ -163660,7 +163667,7 @@ Data0=(-46.23754,169.74352)
 
 ;1160711
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=BALCLUTHA PLAYCENTRE
 StreetDesc=35 Lowestoft St, Balclutha/ Playcentre
 Phone=+6427462182
@@ -163669,7 +163676,7 @@ Data0=(-46.23346,169.75058)
 
 ;1160712
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?BALFOUR PLAYCENTRE
 StreetDesc=Queen St, Balfour/ Playcentre
 Phone=+6425228528
@@ -163741,7 +163748,7 @@ Data0=(-44.39507,171.25304)
 
 ;1160755
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=BAYFIELD KINDERGARTEN
 StreetDesc=2 Bayfield Rd, Andersons Bay, Dud/ Kindergarten
 Data0=(-45.89674,170.52466)
@@ -163803,7 +163810,7 @@ Data0=(-41.50934,173.95357)
 
 ;1160815
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=BLENHEIM PLAYCENTRE
 StreetDesc=17 Eltham Rd, Blenheim/ Playcentre
 Phone=+6435777682
@@ -163812,7 +163819,7 @@ Data0=(-41.52008,173.94732)
 
 ;1160819
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?BLUESKIN PLAYCENTRE
 StreetDesc=Main Rd, Waitati/ Playcentre
 Phone=+6427427172
@@ -163821,7 +163828,7 @@ Data0=(-45.74940,170.57470)
 
 ;1160820
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=BLUFF KINDERGARTEN
 StreetDesc=144 Foyle St, Bluff/ Kindergarten
 Phone=+6432128674
@@ -163847,7 +163854,7 @@ Data0=(-43.59488,172.37376)
 
 ;1160854
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=BRIGHTON/OCEAN VIEW PLAYCENTRE
 StreetDesc=9 John St, Ocean View/ Playcentre
 Data0=(-45.93721,170.34850)
@@ -163855,7 +163862,7 @@ Data0=(-45.93721,170.34850)
 
 ;1160855
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=BRIGHTWATER PLAYCENTRE
 StreetDesc=985 Lord Rutherford Rd, Brightwater/ Playcentre
 Phone=+6435423270
@@ -163864,7 +163871,7 @@ Data0=(-41.38521,173.09008)
 
 ;1160858
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=BROCKVILLE KINDERGARTEN
 StreetDesc=255 Brockville Rd, Brockville, Dud/ Kindergarten
 Phone=+6434762201
@@ -163936,7 +163943,7 @@ Data0=(-46.37763,168.34639)
 
 ;1160917
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=CASA NOVA KINDERGARTEN
 StreetDesc=2 Raglan St, Oamaru/ Kindergarten
 Phone=+6434370250
@@ -164026,7 +164033,7 @@ Data0=(-44.20826,171.37991)
 
 ;1160973
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=CLARENDON KINDERGARTEN
 StreetDesc=30 Waiau Place, Invercargill/ Kindergarten
 Phone=+6432169664
@@ -164035,7 +164042,7 @@ Data0=(-46.44508,168.37240)
 
 ;1160974
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=CLARKVILLE PLAYCENTRE
 StreetDesc=Rice Park, Heywards Rd, Clarkville/ Playcentre
 Phone=+6421158241
@@ -164044,7 +164051,7 @@ Data0=(-43.40597,172.62420)
 
 ;1160979
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=CLINTON PLAYCENTRE
 StreetDesc=11 Manse St, Clinton/ Playcentre
 Phone=+6434157712
@@ -164053,7 +164060,7 @@ Data0=(-46.20059,169.37644)
 
 ;1160983
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?CLUTHA VALLEY PLAYCENTRE
 StreetDesc=4RD Clutha Valley School, Balclutha/ Playcentre
 Phone=+6434159105
@@ -164062,7 +164069,7 @@ Data0=(-46.22440,169.73307)
 
 ;1160984
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=CLYDE PLAYCENTRE
 StreetDesc=38 Fache St, Clyde/ Playcentre
 Phone=+6421204302
@@ -164071,7 +164078,7 @@ Data0=(-45.18890,169.32246)
 
 ;1160995
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?COLLINGWOOD PLAYCENTRE
 StreetDesc=Lewis St, Collingwood/ Playcentre
 Phone=+6435248125
@@ -164089,7 +164096,7 @@ Data0=(-43.54765,172.61844)
 
 ;1161012
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=CORSTORPHINE KINDERGARTEN
 StreetDesc=10 Lockerbie St, Dud/ Kindergarten
 Phone=+6434878295
@@ -164143,7 +164150,7 @@ Data0=(-45.04712,169.20363)
 
 ;1161031
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=CROMWELL KINDERGARTEN
 StreetDesc=25 Gilling Place, Cromwell/ Kindergarten
 Phone=+6434450530
@@ -164152,7 +164159,7 @@ Data0=(-45.04288,169.18704)
 
 ;1161034
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=CULVERDEN PLAYCENTRE
 StreetDesc=43 Montrose St, Culverden/ Playcentre
 Phone=+6433158246
@@ -164161,7 +164168,7 @@ Data0=(-42.77122,172.85260)
 
 ;1161035
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?CUST-WEST EYRETON PLAYCENTRE
 StreetDesc=Mill Rd, Cust/ Playcentre
 Phone=+6433125654
@@ -164170,7 +164177,7 @@ Data0=(-43.30416,172.37343)
 
 ;1161039
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=DARFIELD PLAYCENTRE
 StreetDesc=Ross St, Darfield/ Playcentre
 Data0=(-43.49019,172.10760)
@@ -164187,7 +164194,7 @@ Data0=(-43.48940,172.10900)
 
 ;1161053
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?DIAMOND HARBOUR PLAYCENTRE
 StreetDesc=Purau Rd, Diamond Harbour/ Playcentre
 Phone=+6433294515
@@ -164205,7 +164212,7 @@ Data0=(-43.86528,172.11696)
 
 ;1161067
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?DRUMMOND RURAL KINDERGARTEN
 StreetDesc=Domain Rd, Drummond/ Kindergarten
 Phone=+6432362828
@@ -164250,7 +164257,7 @@ Data0=(-43.65933,172.19271)
 
 ;1161073
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=DUNSANDEL PLAYCENTRE
 StreetDesc=Irvines Rd, Dunsandel/ Playcentre
 Phone=+6427486316
@@ -164322,7 +164329,7 @@ Data0=(-45.87591,170.48950)
 
 ;1161127
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=EDNA MCCULLOCH KINDERGARTEN
 StreetDesc=12 Arun St, Oamaru/ Kindergarten
 Phone=+6434348343
@@ -164421,7 +164428,7 @@ Data0=(-45.87477,170.49527)
 
 ;1161154
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=ELSIE STREET KINDERGARTEN
 StreetDesc=6 Elsie St, Gore/ Kindergarten
 Phone=+6432086575
@@ -164430,7 +164437,7 @@ Data0=(-46.10462,168.93740)
 
 ;1161155
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=ELSTON LEA KINDERGARTEN
 StreetDesc=40 Iona Court, Invercargill/ Kindergarten
 Phone=+6432168801
@@ -164439,7 +164446,7 @@ Data0=(-46.43401,168.37716)
 
 ;1161158
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=ENNER GLYNN PLAYCENTRE
 StreetDesc=8 Enner Glynn Rd, Wakatu, Nelson/ Playcentre
 Phone=+6435474007
@@ -164448,7 +164455,7 @@ Data0=(-41.30573,173.25645)
 
 ;1161177
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=FAIRFIELD PLAYCENTRE
 StreetDesc=119 Main Rd, Fairfield, Dud/ Playcentre
 Phone=+6425617240
@@ -164493,7 +164500,7 @@ Data0=(-43.55276,172.65107)
 
 ;1161206
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=FIORDLAND KINDERGARTEN
 StreetDesc=9 Gunn St, Te Anau/ Kindergarten
 Phone=+6432497585
@@ -164556,7 +164563,7 @@ Data0=(-45.42131,167.73768)
 
 ;1161257
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=FRANKTON KINDERGARTEN
 StreetDesc=13 Robertson St, Frankton/ Kindergarten
 Phone=+6434422744
@@ -164565,7 +164572,7 @@ Data0=(-45.02781,168.73568)
 
 ;1161259
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=FRANKTON PLAYCENTRE
 StreetDesc=12 Mc Bride St, Frankton, Queenstown/ Playcentre
 Phone=+6434423354
@@ -164601,7 +164608,7 @@ Data0=(-44.39005,171.20959)
 
 ;1161285
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=GERALDINE KINDERGARTEN
 StreetDesc=25 Wilson St, Geraldine/ Kindergarten
 Phone=+6436938888
@@ -164637,7 +164644,7 @@ Data0=(-46.39283,168.34870)
 
 ;1161311
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=GLENGARRY KINDERGARTEN
 StreetDesc=116 Derwent Cres, Invercargill/ Kindergarten
 Phone=+6432174461
@@ -164646,7 +164653,7 @@ Data0=(-46.40139,168.38733)
 
 ;1161312
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=GLENITI PLAYCENTRE
 StreetDesc=355 Wai Iti Rd, Timaru/ Playcentre
 Phone=+6436860423
@@ -164655,7 +164662,7 @@ Data0=(-44.38813,171.20579)
 
 ;1161313
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=GLENMARK PLAYCENTRE
 StreetDesc=21 Glenmark Dr, Waipara/ Playcentre
 Phone=+6427309321
@@ -164664,7 +164671,7 @@ Data0=(-43.06412,172.75401)
 
 ;1161316
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=GLENVIEW FREE KINDERGARTEN
 StreetDesc=69 Gleniti Rd, Timaru/ Kindergarten
 Phone=+6436860726
@@ -164700,7 +164707,7 @@ Data0=(-45.92155,169.68914)
 
 ;1161323
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=GORE PLAYCENTRE
 StreetDesc=6 Devon St, Gore/ Playcentre
 Data0=(-46.09858,168.93938)
@@ -164717,7 +164724,7 @@ Data0=(-43.64156,172.64959)
 
 ;1161328
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=GRANITY/NGAKAWAU PLAYCENTRE
 StreetDesc=83 Torea St, Granity/ Playcentre
 Phone=+6421102751
@@ -164726,7 +164733,7 @@ Data0=(-41.62999,171.85290)
 
 ;1161329
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=GRANTS BRAES KINDERGARTEN
 StreetDesc=100 Belford St, Dud/ Kindergarten
 Phone=+6434543407
@@ -164735,7 +164742,7 @@ Data0=(-45.88632,170.53250)
 
 ;1161333
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=GREEN ISLAND KINDERGARTEN
 StreetDesc=20 Howden St, Green Island, Dud/ Kindergarten
 Phone=+6434883094
@@ -164753,7 +164760,7 @@ Data0=(-45.87440,170.35296)
 
 ;1161346
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=GREY VALLEY PLAYCENTRE
 StreetDesc=20 Napoleon St, Ahaura/ Playcentre
 Phone=+6437680782
@@ -164762,7 +164769,7 @@ Data0=(-42.34783,171.53831)
 
 ;1161356
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=HALFWAY BUSH KINDERGARTEN
 StreetDesc=41 Salmond St, Halfway Bush, Dud/ Kindergarten
 Phone=+6434764544
@@ -164771,7 +164778,7 @@ Data0=(-45.85479,170.47047)
 
 ;1161360
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?HAMPSTEAD FREE KINDERGARTEN
 StreetDesc=Cambridge St, Ashburton/ Kindergarten
 Phone=+6433083954
@@ -164780,7 +164787,7 @@ Data0=(-43.90987,171.75818)
 
 ;1161362
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=HANAN FREE KINDERGARTEN
 StreetDesc=22 B College Rd, Timaru/ Kindergarten
 Phone=+6436845470
@@ -164798,7 +164805,7 @@ Data0=(-43.89449,171.74510)
 
 ;1161376
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=HARDY KIDS EARLY LEARING CENTRE
 StreetDesc=400 Hardy St East, Nelson Central/ Early learning centre, childcare
 Phone=+6435456905
@@ -164816,7 +164823,7 @@ Data0=(-46.39114,168.37412)
 
 ;1161386
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=HAWARDEN - WAIKARI PLAYCENTRE
 StreetDesc=Wlg St, Hawarden/ Playcentre
 Phone=+6427366846
@@ -164825,7 +164832,7 @@ Data0=(-42.92593,172.64878)
 
 ;1161387
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=HAWEA KINDERGARTEN
 StreetDesc=6 St Ninnians Way, Hawea Flat/ Kindergarten
 Phone=+6434436192
@@ -164860,7 +164867,7 @@ Data0=(-41.28647,173.27147)
 
 ;1161398
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=HELEN DEEM KINDERGARTEN
 StreetDesc=81 Forbury Rd, St Clair, Dud/ Kindergarten
 Phone=+6434557093
@@ -164869,7 +164876,7 @@ Data0=(-45.90281,170.48721)
 
 ;1161407
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=HERIOT PLAYCENTRE
 StreetDesc=Nith St, Heriot/ Playcentre
 Phone=+6432042077
@@ -164878,7 +164885,7 @@ Data0=(-45.84101,169.27003)
 
 ;1161427
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=HINDS PLAYCENTRE
 StreetDesc=Rhodes St, Hinds/ Playcentre
 Phone=+6433037208
@@ -164887,7 +164894,7 @@ Data0=(-44.00097,171.56401)
 
 ;1161439
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=HOLMES KINDERGARTEN
 StreetDesc=34 A Stuart St, Oamaru/ Kindergarten
 Phone=+6434346437
@@ -164950,7 +164957,7 @@ Data0=(-45.89475,170.48425)
 
 ;1161510
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=JOHN STREET KINDERGARTEN
 StreetDesc=13 John St, Waimate/ Kindergarten
 Phone=+6436898951
@@ -164959,7 +164966,7 @@ Data0=(-44.73431,171.04852)
 
 ;1161515
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=JONATHAN RHODES KINDERGARTEN
 StreetDesc=336 North Rd, North East Valley, Dud/ Kindergarten
 Phone=+6434739107
@@ -164977,7 +164984,7 @@ Data0=(-43.37469,172.64966)
 
 ;1161539
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=KAIKORAI KINDERGARTEN
 StreetDesc=7 Greenock St, Kaikorai, Dud/ Kindergarten
 Data0=(-45.86653,170.48097)
@@ -164985,7 +164992,7 @@ Data0=(-45.86653,170.48097)
 
 ;1161540
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=KAIKOURA PLAYCENTRE
 StreetDesc=The Esplanade, Kaikoura/ Playcentre
 Phone=+6433195876
@@ -164994,7 +165001,7 @@ Data0=(-42.40745,173.68470)
 
 ;1161544
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?KAITANGATA PLAYCENTRE
 StreetDesc=Eddystone St, Kaitangata/ Playcentre
 Phone=+6427746447
@@ -165003,7 +165010,7 @@ Data0=(-46.27994,169.84852)
 
 ;1161555
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=KANIERE PLAYCENTRE
 StreetDesc=14 Camp St, Kaniere/ Playcentre
 Phone=+6437557425
@@ -165039,7 +165046,7 @@ Data0=(-46.43426,168.35771)
 
 ;1161609
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=KIA NGA WARI TE KOHANGA REO
 StreetDesc=106-108 Kana St, Mataura/ Te Kohanga Reo
 Phone=+6432080916
@@ -165048,7 +165055,7 @@ Data0=(-46.19369,168.86991)
 
 ;1161611
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=KIA TAU TE RANGIMARIE TE KOHANGA REO
 StreetDesc=11 Karaka St, Stoke, Nelson/ Te Kohanga Reo
 Phone=+6435479386
@@ -165093,7 +165100,7 @@ Data0=(-43.52011,172.73179)
 
 ;1161669
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?KIDSFIRST KINDERGARTENS BURNHAM
 StreetDesc=16 Ruru St, Burnham/ Kindergarten
 Phone=+6433476707
@@ -165102,7 +165109,7 @@ Data0=(-43.61863,172.29972)
 
 ;1161670
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=KIDSFIRST KINDERGARTENS BUSH STREET
 StreetDesc=27 Bush St, Rangiora/ Kindergarten
 Phone=+6433135010
@@ -165111,7 +165118,7 @@ Data0=(-43.31623,172.59048)
 
 ;1161671
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?KIDSFIRST KINDERGARTENS CHARLES STREET
 StreetDesc=Charles St, Kaiapoi/ Kindergarten
 Phone=+6433278476
@@ -165120,7 +165127,7 @@ Data0=(-43.38566,172.66348)
 
 ;1161672
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=KIDSFIRST KINDERGARTENS GREYMOUTH
 StreetDesc=85 A Shakespeare St, Greymouth/ Kindergarten
 Phone=+6437686024
@@ -165129,7 +165136,7 @@ Data0=(-42.46170,171.20146)
 
 ;1161673
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=KIDSFIRST KINDERGARTENS HOKITIKA
 StreetDesc=77 Hall St, Hokitika/ Kindergarten
 Phone=+6437556785
@@ -165138,7 +165145,7 @@ Data0=(-42.71795,170.96933)
 
 ;1161674
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=KIDSFIRST KINDERGARTENS KARORO
 StreetDesc=20 Loris Place, Greymouth/ Kindergarten
 Phone=+6437686727
@@ -165147,7 +165154,7 @@ Data0=(-42.48484,171.18366)
 
 ;1161675
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=KIDSFIRST KINDERGARTENS KING STREET
 StreetDesc=203 King St, Rangiora/ Kindergarten
 Phone=+6433137827
@@ -165156,7 +165163,7 @@ Data0=(-43.30294,172.58957)
 
 ;1161676
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?KIDSFIRST KINDERGARTENS LINCOLN
 StreetDesc=Boundary Rd, Lincoln/ Kindergarten
 Phone=+6433252700
@@ -165165,7 +165172,7 @@ Data0=(-43.62422,172.46084)
 
 ;1161677
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=KIDSFIRST KINDERGARTENS VICKERY STREET
 StreetDesc=22 Vickery St, Kaiapoi/ Kindergarten
 Phone=+6433277783
@@ -165290,7 +165297,7 @@ Data0=(-45.84134,170.64427)
 
 ;1161732
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=KIMIHIA TE MATAURANGA O NGA TUPUNA TKR
 StreetDesc=93 Mary St, Invercargill/ Te Kohanga Reo
 Phone=+6432173131
@@ -165379,7 +165386,7 @@ Data0=(-41.31676,173.23422)
 
 ;1161813
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=KOPUAWAI TE KOHANGA REO (RANGIRUHIA)
 StreetDesc=99 Atawhai Dr, Nelson/ Te Kohanga Reo
 Phone=+6435483266
@@ -165398,7 +165405,7 @@ Data0=(-45.81978,170.61693)
 
 ;1161815
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=KOPUWAI TE KOHANGA REO ( WHARE HOU )
 StreetDesc=99 Atawhai Dr, Nelson/ Te Kohanga Reo
 Phone=+6435983266
@@ -165407,7 +165414,7 @@ Data0=(-41.26096,173.29823)
 
 ;1161830
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=KOWHAI FREE KINDERGARTEN
 StreetDesc=16 Coonoor Rd, Timaru/ Kindergarten
 Phone=+6436880285
@@ -165425,7 +165432,7 @@ Data0=(-44.73169,170.46662)
 
 ;1161859
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?LAURISTON PLAYCENTRE
 StreetDesc=Memorial Hall, Coleridge St, Ashburton/ Playcentre
 Phone=+6425249661
@@ -165470,7 +165477,7 @@ Data0=(-41.27034,173.29151)
 
 ;1161881
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=LEES STREET KINDERGARTEN
 StreetDesc=75 Lees St, Invercargill/ Kindergarten
 Phone=+6432186680
@@ -165479,7 +165486,7 @@ Data0=(-46.39100,168.36005)
 
 ;1161882
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=LEESTON PLAYCENTRE
 StreetDesc=4 May St, Leeston/ Playcentre
 Phone=+6433244161
@@ -165488,7 +165495,7 @@ Data0=(-43.75894,172.29882)
 
 ;1161884
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=LEITHFIELD PLAYCENTRE
 StreetDesc=4 Brighton St, Leithfield/ Playcentre
 Phone=+6427674610
@@ -165515,7 +165522,7 @@ Data0=(-43.64333,172.46072)
 
 ;1161900
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=LINCOLN PLAYCENTRE
 StreetDesc=24 Gerald St, Lincoln/ Playcentre
 Phone=+6433252008
@@ -165569,7 +165576,7 @@ Data0=(-41.50980,173.95381)
 
 ;1161922
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=LITTLE HANDS PLAYCENTRE
 StreetDesc=12 Trent St, South Hill, Oamaru/ Playcentre
 Phone=+6427207343
@@ -165605,7 +165612,7 @@ Data0=(-41.33832,173.17938)
 
 ;1161933
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?LITTLE RIVER PLAYCENTRE
 StreetDesc=Schools Grounds, Western Valley Rd, Little River/ Playcentre
 Phone=+6425263452
@@ -165641,7 +165648,7 @@ Data0=(-42.40112,173.67616)
 
 ;1161949
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=LITTLE WONDERS OAMARU
 StreetDesc=303 Thames Highway, Oamaru/ Early Childhood Centre, Preschool, childcare
 Phone=+6434342459
@@ -165650,7 +165657,7 @@ Data0=(-45.09038,170.97502)
 
 ;1161951
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=LITTLE WONDERS ST KILDA
 StreetDesc=146 Victoria Rd, St Clair, Dud/ Early Childhood Centre, Preschool, childcare
 Phone=+6434553337
@@ -165659,7 +165666,7 @@ Data0=(-45.90928,170.49533)
 
 ;1161953
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=LITTLE WONDERS CROMWELL
 StreetDesc=102 Barry Ave, Cromwell/ Early Childhood Centre, Preschool, childcare
 Phone=+6434454550
@@ -165686,7 +165693,7 @@ Data0=(-43.52448,172.66439)
 
 ;1161989
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?LONGBEACH PLAYCENTRE
 StreetDesc=Boundary Rd, Ashburton/ Playcentre
 Data0=(-44.00671,171.62347)
@@ -165694,7 +165701,7 @@ Data0=(-44.00671,171.62347)
 
 ;1161990
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=LONGBUSH RURAL KINDERGARTEN
 StreetDesc=1069 Highway 1, Longbush/ Kindergarten
 Phone=+6432313148
@@ -165703,7 +165710,7 @@ Data0=(-46.37051,168.52082)
 
 ;1161996
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?LOWER WAITAKI PLAYCENTRE
 StreetDesc=879 Georgetown Pukeuri Rd Pukeuri/ Playcentre
 Phone=+6425280669
@@ -165712,7 +165719,7 @@ Data0=(-44.96623,170.93518)
 
 ;1161999
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?LUMSDEN PLAYCENTRE
 StreetDesc=Pluto St, Lumsden/ Playcentre
 Phone=+6425656425
@@ -165721,7 +165728,7 @@ Data0=(-45.73810,168.44250)
 
 ;1162005
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=MACANDREW BAY PLAYCENTRE
 StreetDesc=4 Conway St, Macandrew Bay/ Playcentre
 Phone=+6434761004
@@ -165730,7 +165737,7 @@ Data0=(-45.87043,170.59807)
 
 ;1162006
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?MACKENZIE KINDERGARTEN
 StreetDesc=Sloane St, Fairlie/ Kindergarten
 Phone=+6436858505
@@ -165739,7 +165746,7 @@ Data0=(-44.09675,170.82299)
 
 ;1162010
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=MAHENO PLAYCENTRE
 StreetDesc=13 Gifford St, Maheno/ Playcentre
 Data0=(-45.16808,170.83368)
@@ -165747,7 +165754,7 @@ Data0=(-45.16808,170.83368)
 
 ;1162020
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?MAKAREWA PLAYCENTRE
 StreetDesc=Flora Rd East, Makarewa/ Playcentre
 Phone=+6425202545
@@ -165782,7 +165789,7 @@ Data0=(-41.25369,173.09654)
 
 ;1162069
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=MAPUA PLAYCENTRE
 StreetDesc=84 Aranui Rd, Mapua/ Playcentre
 Data0=(-41.25131,173.09402)
@@ -165790,7 +165797,7 @@ Data0=(-41.25131,173.09402)
 
 ;1162131
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=MAYFIELD KINDERGARTEN BLENHEIM
 StreetDesc=36 Girling Ave, Blenheim/ Kindergarten
 Data0=(-41.50367,173.95439)
@@ -165798,7 +165805,7 @@ Data0=(-41.50367,173.95439)
 
 ;1162132
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=MAYFIELD PLAYCENTRE
 StreetDesc=Mayfield Domain, Mayfield, Ashburton/ Playcentre
 Phone=+6433036312
@@ -165807,7 +165814,7 @@ Data0=(-43.81922,171.42342)
 
 ;1162145
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=MERLE LEASK FREE KINDERGARTEN
 StreetDesc=34 Davis Cres, Ashburton/ Kindergarten
 Phone=+6433083337
@@ -165825,7 +165832,7 @@ Data0=(-43.63616,171.64382)
 
 ;1162149
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?METHVEN PLAYCENTRE
 StreetDesc=Cnr South Belt & Main St, Methven/ Playcentre
 Phone=+6433029189
@@ -165853,7 +165860,7 @@ Data0=(-46.11468,169.96830)
 
 ;1162162
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=MILTON KINDERGARTEN
 StreetDesc=20A Coronation Court, Milton/ Kindergarten
 Phone=+6434174290
@@ -165862,7 +165869,7 @@ Data0=(-46.11393,169.96190)
 
 ;1162163
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=MILTON PLAYCENTRE
 StreetDesc=34 Spenser St, Milton/ Playcentre
 Phone=+6434174687
@@ -165961,7 +165968,7 @@ Data0=(-41.51705,173.95595)
 
 ;1162211
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=MORNINGTON KINDERGARTEN
 StreetDesc=95 English Ave, Dud/ Kindergarten
 Phone=+6434534489
@@ -165970,7 +165977,7 @@ Data0=(-45.88719,170.47582)
 
 ;1162212
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=MORNINGTON PLAYCENTRE
 StreetDesc=37 Durham St, Dud/ Playcentre
 Phone=+6434530556
@@ -165979,7 +165986,7 @@ Data0=(-45.88204,170.47533)
 
 ;1162216
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=MOSGIEL CENTRAL KINDERGARTEN
 StreetDesc=3 Irvine St, Mosgiel/ Kindergarten
 Phone=+6434897134
@@ -165988,7 +165995,7 @@ Data0=(-45.87532,170.34725)
 
 ;1162217
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=MOSGIEL PLAYCENTRE
 StreetDesc=79 Argyle St, Mosgiel/ Playcentre
 Phone=+6434893659
@@ -166014,7 +166021,7 @@ Data0=(-41.11121,173.00874)
 
 ;1162222
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=MOTUEKA PLAYCENTRE
 StreetDesc=27 Talbot St, Motueka/ Playcentre
 Phone=+6435284296
@@ -166032,7 +166039,7 @@ Data0=(-41.11208,173.01343)
 
 ;1162232
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=MT SOMERS/STAVELEY PLAYCENTRE
 StreetDesc=Pattons Rd, Mt Somers/ Playcentre
 Phone=+6427358141
@@ -166042,7 +166049,7 @@ Data0=(-43.70620,171.40357)
 
 ;1162236
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?MURCHISON PLAYCENTRE
 StreetDesc=Waller St, Murchison/ Playcentre
 Phone=+6435239268
@@ -166087,7 +166094,7 @@ Data0=(-41.26214,173.29773)
 
 ;1162271
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=NEWFIELD HEIDELBERG KINDERGARTEN
 StreetDesc=150 Ctr St, Invercargill/ Kindergarten
 Phone=+6432168743
@@ -166096,7 +166103,7 @@ Data0=(-46.42237,168.37968)
 
 ;1162294
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=NGA PUAWAI KOHANGA REO
 StreetDesc=85A Budge St, Blenheim/ Te Kohanga Reo
 Phone=+6435781536
@@ -166105,7 +166112,7 @@ Data0=(-41.50426,173.96754)
 
 ;1162330
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=NIGHTCAPS PLAYCENTRE
 StreetDesc=9 Moffat St, Nightcaps/ Playcentre
 Phone=+6425295539
@@ -166168,7 +166175,7 @@ Data0=(-41.11145,173.01405)
 
 ;1162367
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=OHAI PLAYCENTRE
 StreetDesc=115 Birchwood Rd, Ohai/ Playcentre
 Phone=+6432130737
@@ -166177,7 +166184,7 @@ Data0=(-45.93425,167.95323)
 
 ;1162377
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=OMAKAU & DISTRICTS PLAYCENTRE
 StreetDesc=Swindon St, Ophir/ Playcentre
 Phone=+6434473791
@@ -166236,7 +166243,7 @@ Data0=(-45.86338,170.51182)
 
 ;1162420
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=OTATARA KINDERGARTEN
 StreetDesc=140 Dunns Rd, Invercargill/ Kindergarten
 Phone=+6432130737
@@ -166245,7 +166252,7 @@ Data0=(-46.43156,168.29105)
 
 ;1162422
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=OTAUTAU PLAYCENTRE
 StreetDesc=100 Main Rd, Otautau/ Playcentre
 Phone=+6427306745
@@ -166254,7 +166261,7 @@ Data0=(-46.14581,167.99948)
 
 ;1162433
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=OUTRAM PLAYCENTRE
 StreetDesc=9 Beaumaris St, Outram/ Playcentre
 Phone=+6427408628
@@ -166263,7 +166270,7 @@ Data0=(-45.86078,170.22905)
 
 ;1162435
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=OWAKA PLAYCENTRE
 StreetDesc=5 Ovenden St, Owaka/ Playcentre
 Data0=(-46.45205,169.66107)
@@ -166280,7 +166287,7 @@ Data0=(-43.29303,172.19759)
 
 ;1162438
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=OXFORD KINDERGARTEN
 StreetDesc=16 Oxford St, Gore/ Kindergarten
 Phone=+6432084147
@@ -166289,7 +166296,7 @@ Data0=(-46.09218,168.95781)
 
 ;1162439
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=OXFORD PLAYCENTRE
 StreetDesc=Main Rd, Oxford/ Playcentre
 Phone=+6433123042
@@ -166298,7 +166305,7 @@ Data0=(-43.29875,172.18734)
 
 ;1162461
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=PALMERSTON PLAYCENTRE
 StreetDesc=Stour St, Palmerston/ Playcentre
 Phone=+6427323936
@@ -166397,7 +166404,7 @@ Data0=(-41.29363,174.00474)
 
 ;1162542
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=PICTON KINDERGARTEN
 StreetDesc=25 York St, Picton/ Kindergarten
 Phone=+6435738889
@@ -166406,7 +166413,7 @@ Data0=(-41.29337,174.00176)
 
 ;1162543
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=PICTON PLAYCENTRE
 StreetDesc=5 Waitohi Place, Picton/ Playcentre
 Data0=(-41.29494,174.00440)
@@ -166441,7 +166448,7 @@ Data0=(-45.90075,170.39326)
 
 ;1162573
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=PLEASANT POINT PLAYCENTRE
 StreetDesc=8 Harris St, Pleasant Point/ Playcentre
 Phone=+6436147851
@@ -166450,7 +166457,7 @@ Data0=(-44.25980,171.13197)
 
 ;1162581
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=POLKADOTS PRESCHOOL
 StreetDesc=4 Highfield St, Culverden/ Preschool, nursery
 Phone=+6433158339
@@ -166494,7 +166501,7 @@ Data0=(-41.27491,173.28356)
 
 ;1162628
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=PORT CHALMERS KINDERGARTEN
 StreetDesc=30 B Albertson Ave, Port Chalmers/ Kindergarten
 Phone=+6434728696
@@ -166503,7 +166510,7 @@ Data0=(-45.81983,170.61688)
 
 ;1162633
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?PORTOBELLO/BROADBAY PLAYCENTRE
 StreetDesc=Harington Point Rd, Portobello/ Playcentre
 Phone=+6427687024
@@ -166575,7 +166582,7 @@ Data0=(-45.02883,168.65760)
 
 ;1162698
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=QUEENSTOWN PLAYCENTRE
 StreetDesc=57 Stanley St, Queenstown/ Playcentre
 Phone=+6434429309
@@ -166584,7 +166591,7 @@ Data0=(-45.03048,168.66213)
 
 ;1162699
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=RACHEL REYNOLDS KINDERGARTEN
 StreetDesc=175 Macandrew Rd, Dud/ Kindergarten
 Phone=+6434551226
@@ -166611,7 +166618,7 @@ Data0=(-43.75232,172.02345)
 
 ;1162720
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=RAKAIA PLAYCENTRE
 StreetDesc=Mackie St, Rakaia/ Playcentre
 Phone=+6427627308
@@ -166620,7 +166627,7 @@ Data0=(-43.75154,172.02391)
 
 ;1162721
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=RANFURLY PLAYCENTRE
 StreetDesc=35 Bute St, Ranfurly/ Playcentre
 Phone=+6427294640
@@ -166647,7 +166654,7 @@ Data0=(-43.29615,172.59854)
 
 ;1162728
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=RANGIORA PLAYCENTRE
 StreetDesc=35 White St, Rangiora/ Playcentre
 Phone=+6433136968
@@ -166656,7 +166663,7 @@ Data0=(-43.30882,172.58664)
 
 ;1162729
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=RANGIORA TE KOHANGA REO
 StreetDesc=51 Ivory St, Rangiora/ Te Kohanga Reo
 Phone=+6433134370
@@ -166665,7 +166672,7 @@ Data0=(-43.30690,172.59737)
 
 ;1162734
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=RANUI FREE KINDERGARTEN
 StreetDesc=253 Selwyn St, Timaru/ Kindergarten
 Phone=+6436844469
@@ -166674,7 +166681,7 @@ Data0=(-44.37880,171.22958)
 
 ;1162736
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=RANUI KINDERGARTEN INVERCARGILL
 StreetDesc=288 Nelson St, Invercargill/ Kindergarten
 Phone=+6432169355
@@ -166683,7 +166690,7 @@ Data0=(-46.43125,168.36722)
 
 ;1162742
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=RATA FREE KINDERGARTEN
 StreetDesc=53 Cass St, Temuka/ Kindergarten
 Phone=+6436158662
@@ -166692,7 +166699,7 @@ Data0=(-44.23440,171.27742)
 
 ;1162756
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=REDWOODTOWN KINDERGARTEN
 StreetDesc=101 Weld St, Redwoodtown, Blenheim/ Kindergarten
 Data0=(-41.53075,173.95509)
@@ -166709,7 +166716,7 @@ Data0=(-42.11368,171.86105)
 
 ;1162762
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=RENWICK KINDERGARTEN
 StreetDesc=11 Clyde St, Renwick/ Kindergarten
 Data0=(-41.51204,173.82879)
@@ -166717,7 +166724,7 @@ Data0=(-41.51204,173.82879)
 
 ;1162763
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?RENWICK PLAYCENTRE
 StreetDesc=Havelock St, Renwick/ Playcentre
 Data0=(-41.50918,173.83088)
@@ -166734,7 +166741,7 @@ Data0=(-41.51255,173.81890)
 
 ;1162773
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=RHONA DAY FREE KINDERGARTEN
 StreetDesc=2 Hmtn St, Temuka/ Kindergarten
 Phone=+6436157537
@@ -166743,7 +166750,7 @@ Data0=(-44.24368,171.28231)
 
 ;1162774
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=RICHARD HUDSON KINDERGARTEN
 StreetDesc=42 Rutherford St, Caversham, Dud/ Kindergarten
 Phone=+6434558565
@@ -166769,7 +166776,7 @@ Data0=(-41.33824,173.18106)
 
 ;1162777
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=RICHMOND PLAYCENTRE
 StreetDesc=128 MacMaster St, Invercargill/ Playcentre
 Phone=+6425234450
@@ -166778,7 +166785,7 @@ Data0=(-46.40690,168.36260)
 
 ;1162778
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?RICHMOND PLAYCENTRE
 StreetDesc=Waverley St, Richmond, Nelson/ Playcentre
 Phone=+6425262269
@@ -166787,7 +166794,7 @@ Data0=(-41.34113,173.18037)
 
 ;1162779
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=RISELAW ROAD PLAYCENTRE
 StreetDesc=38 Riselaw Rd, Corstorphine, Dud/ Playcentre
 Phone=+6434876847
@@ -166796,7 +166803,7 @@ Data0=(-45.89828,170.46732)
 
 ;1162789
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?RIVERSDALE PLAYCENTRE
 StreetDesc=Newcastle St, Riversdale/ Playcentre
 Phone=+6425217066
@@ -166814,7 +166821,7 @@ Data0=(-46.35195,168.01798)
 
 ;1162794
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=RIVERTON KINDERGARTEN
 StreetDesc=120 Havelock St, Riverton/ Kindergarten
 Phone=+6432348224
@@ -166823,7 +166830,7 @@ Data0=(-46.35149,168.01641)
 
 ;1162795
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=ROCKDALE PARK KINDERGARTEN
 StreetDesc=18 Farrar St, Invercargill/ Kindergarten
 Phone=+6432160011
@@ -166832,7 +166839,7 @@ Data0=(-46.42461,168.39025)
 
 ;1162797
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=ROLLESTON PLAYCENTRE
 StreetDesc=Rolleston Reserve, Moore St/ Playcentre
 Phone=+6433472430
@@ -166841,7 +166848,7 @@ Data0=(-43.59677,172.37948)
 
 ;1162805
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=ROSEBANK KINDERGARTEN
 StreetDesc=14 Naish St, Balclutha/ Kindergarten
 Phone=+6434182670
@@ -166850,7 +166857,7 @@ Data0=(-46.24498,169.72529)
 
 ;1162810
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=ROSLYN BUSH PLAYCENTRE
 StreetDesc=506 Roslyn Bush/Kennington Rd, Invercargill/ Playcentre
 Phone=+6425246511
@@ -166859,7 +166866,7 @@ Data0=(-46.33906,168.45392)
 
 ;1162812
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=ROSLYN KINDERGARTEN DUNEDIN
 StreetDesc=69 Highgate, Dud/ Kindergarten
 Phone=+6434774409
@@ -166868,7 +166875,7 @@ Data0=(-45.87118,170.48220)
 
 ;1162813
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?ROSLYN/MAORI HILL PLAYCENTRE
 StreetDesc=Tyne St, Dud/ Playcentre
 Phone=+6434675192
@@ -166886,7 +166893,7 @@ Data0=(-43.56362,172.62478)
 
 ;1162815
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=ROTARY PARK KINDERGARTEN
 StreetDesc=289 Highcliff Rd, Dud/ Kindergarten
 Phone=+6434544238
@@ -166895,7 +166902,7 @@ Data0=(-45.88517,170.54558)
 
 ;1162825
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=ROXBURGH PLAYCENTRE
 StreetDesc=81 Scotland St, Roxburgh/ Playcentre
 Phone=+6434468056
@@ -166904,7 +166911,7 @@ Data0=(-45.53951,169.31292)
 
 ;1162835
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=RUNANGA PLAYCENTRE
 StreetDesc=Mills St, Runanga/ Playcentre
 Phone=+6425875011
@@ -166960,7 +166967,7 @@ Data0=(-46.39454,168.37384)
 
 ;1162857
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=SAWYERS BAY PLAYCENTRE
 StreetDesc=4 Station Rd, Sawyers Bay/ Playcentre
 Phone=+6421176720
@@ -166995,7 +167002,7 @@ Data0=(-42.43959,171.20934)
 
 ;1162870
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=SELWYN TODDLERS NETWORK
 StreetDesc=60 Rolleston Dr, Rolleston/ Childcare services, kindergarten, playgroups
 Phone=+6433479089
@@ -167004,7 +167011,7 @@ Data0=(-43.59412,172.38583)
 
 ;1162871
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=SERENITY PRESCHOOL
 StreetDesc=74 East Belt, Rangiora/ Preschool, childcare
 Phone=+6433133440
@@ -167013,7 +167020,7 @@ Data0=(-43.30343,172.60095)
 
 ;1162875
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=SEYMOUR KINDERGARTEN
 StreetDesc=50 Redwood St, Blenheim/ Kindergarten
 Data0=(-41.52039,173.96059)
@@ -167048,7 +167055,7 @@ Data0=(-43.63280,171.64700)
 
 ;1162918
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=SOUTHBRIDGE PLAYCENTRE
 StreetDesc=104 High St, Southbridge/ Playcentre
 Phone=+6433242713
@@ -167066,7 +167073,7 @@ Data0=(-43.31893,172.59699)
 
 ;1162923
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=SPRING CREEK PLAYCENTRE
 StreetDesc=46A Ferry Rd, Spring Creek/ Playcentre
 Data0=(-41.45867,173.96722)
@@ -167074,7 +167081,7 @@ Data0=(-41.45867,173.96722)
 
 ;1162925
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=SPRINGLANDS KINDERGARTEN
 StreetDesc=Murphys Rd, Blenheim/ Kindergarten
 Phone=+6435793362
@@ -167083,7 +167090,7 @@ Data0=(-41.50656,173.93247)
 
 ;1162929
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?ST ANDREWS DISTRICT PLAYCENTRE
 StreetDesc=279 Esk Valley Rd, St Andrews, Timaru/ Playcentre
 Phone=+6421050716
@@ -167119,7 +167126,7 @@ Data0=(-45.90218,170.48745)
 
 ;1162949
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=ST KILDA KINDERGARTEN
 StreetDesc=47 Victoria Rd, St Kilda, Dud/ Kindergarten
 Phone=+6434554442
@@ -167128,7 +167135,7 @@ Data0=(-45.90538,170.51375)
 
 ;1162950
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=ST LEONARDS PLAYCENTRE
 StreetDesc=1 Pukeko St, St Leonards/ Playcentre
 Phone=+6425260165
@@ -167190,7 +167197,7 @@ Data0=(-41.28645,173.24479)
 
 ;1163012
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=TAI TAPU PLAYCENTRE
 StreetDesc=Community Hall, 815 Old Tai Tapu Rd, Taitapu/ Playcentre
 Phone=+6433296210
@@ -167199,7 +167206,7 @@ Data0=(-43.65963,172.55304)
 
 ;1163024
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?TAKAKA PLAYCENTRE
 StreetDesc=Lake Cres, Takaka/ Playcentre
 Phone=+6435258114
@@ -167208,7 +167215,7 @@ Data0=(-40.85337,172.80789)
 
 ;1163051
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?TAPANUI PLAYCENTRE
 StreetDesc=Sussex St, Tapanui/ Playcentre
 Phone=+6432048824
@@ -167217,7 +167224,7 @@ Data0=(-45.94212,169.26276)
 
 ;1163052
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=TAPAWERA PLAYCENTRE
 StreetDesc=Memorial Hall, Main Rd, Tapawera/ Playcentre
 Data0=(-41.39182,172.82349)
@@ -167234,7 +167241,7 @@ Data0=(-45.41522,167.71765)
 
 ;1163105
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=TE ARA TIKA TE KOHANGA REO
 StreetDesc=2 Oreti St, Gore/ Te Kohanga Reo
 Phone=+6432080343
@@ -167243,7 +167250,7 @@ Data0=(-46.11497,168.92664)
 
 ;1163122
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=TE AWHINA MARAE KOHANGA REO
 StreetDesc=133 Pah St, Motueka/ Te Kohanga Reo
 Phone=+6435287517
@@ -167252,7 +167259,7 @@ Data0=(-41.11189,172.99678)
 
 ;1163144
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=TE KAHURANGI TE KOHANGA REO
 StreetDesc=49 Taylors Pass Rd, Blenheim/ Te Kohanga Reo
 Phone=+6435779656
@@ -167261,7 +167268,7 @@ Data0=(-41.53985,173.93958)
 
 ;1163167
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=TE KOHANGA REO NGA HAU E WHA
 StreetDesc=195 Conon St, Invercargill/ Te Kohanga Reo
 Phone=+6432188031
@@ -167270,7 +167277,7 @@ Data0=(-46.42404,168.35356)
 
 ;1163178
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?TE KOHANGA REO O MURIHIKU
 StreetDesc=Skye St, Invercargill/ Te Kohanga Reo
 Phone=+6432169868
@@ -167279,7 +167286,7 @@ Data0=(-46.43038,168.38771)
 
 ;1163207
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=TE KOHANGA REO O TUMATAUENGA
 StreetDesc=1 Ackland Ave, Burnham/ Te Kohanga Reo
 Phone=+6433476297
@@ -167288,7 +167295,7 @@ Data0=(-43.61664,172.29947)
 
 ;1163216
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=TE KOHANGA REO O WHAKAARI
 StreetDesc=263 A Brockville Rd, Brockville, Dud/ Te Kohanga Reo
 Phone=+6434764645
@@ -167297,7 +167304,7 @@ Data0=(-45.86740,170.45814)
 
 ;1163243
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=TE MANAAKI NGA TAMARIKI TE KOHANGA REO
 StreetDesc=217 A South Rd, Caversham, Dud/ Te Kohanga Reo
 Phone=+6434552899
@@ -167315,7 +167322,7 @@ Data0=(-43.49567,172.65363)
 
 ;1163296
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=TE RAKAU KOWHAI O NGA TAMARIKI TKR
 StreetDesc=18 Willis St, Invercargill/ Te Kohanga Reo
 Phone=+6432158502
@@ -167405,7 +167412,7 @@ Data0=(-42.72185,170.97469)
 
 ;1163378
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=THE COTTAGE KINDERGARTEN
 StreetDesc=74 Bowmont St, Invercargill Central/ Kindergarten
 Phone=+6432188269
@@ -167414,7 +167421,7 @@ Data0=(-46.42113,168.35268)
 
 ;1163387
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?THE KEY PLAYCENTRE
 StreetDesc=Mararoa School, Te Anau/ Playcentre
 Phone=+6432495816
@@ -167495,7 +167502,7 @@ Data0=(-45.05532,168.81422)
 
 ;1163417
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=THE TERRACE KINDERGARTEN
 StreetDesc=74 Russell St, Alexandra/ Kindergarten
 Phone=+6434487291
@@ -167513,7 +167520,7 @@ Data0=(-42.81095,173.27210)
 
 ;1163425
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?THOMAS STREET KINDERGARTEN
 StreetDesc=Thomas St, Ashburton/ Kindergarten
 Phone=+6433089587
@@ -167548,7 +167555,7 @@ Data0=(-45.90953,170.46618)
 
 ;1163459
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?TOI TOIS PLAYCENTRE
 StreetDesc=Bauchop Rd, Tokanui/ Playcentre
 Data0=(-46.57936,168.94391)
@@ -167591,7 +167598,7 @@ Data0=(-43.33435,172.64315)
 
 ;1163522
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=TUATAPERE PLAYCENTRE
 StreetDesc=23 Orawia Rd, Tuatapere/ Playcentre
 Phone=+6425605106
@@ -167600,7 +167607,7 @@ Data0=(-46.13251,167.68905)
 
 ;1163532
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=TUMANAKO RAWHITI TE KOHANGA REO
 StreetDesc=28 Ottrey St, Invercargill/ Te Kohanga Reo
 Phone=+6432161041
@@ -167609,7 +167616,7 @@ Data0=(-46.45528,168.37030)
 
 ;1163550
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=TWIZEL KINDERGARTEN
 StreetDesc=135 Mackenzie Dr, Twizel/ Kindergarten
 Phone=+6434350433
@@ -167618,7 +167625,7 @@ Data0=(-44.25293,170.09754)
 
 ;1163572
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=VICTORY PLAYCENTRE
 StreetDesc=255 Vanguard St, Nelson/ Playcentre
 Phone=+6435467100
@@ -167636,7 +167643,7 @@ Data0=(-46.29429,168.24510)
 
 ;1163587
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=WAIAU PLAYCENTRE
 StreetDesc=Anglican Church Hall 35 Pamassus St Waiau/ Playcentre
 Phone=+6433156660
@@ -167645,7 +167652,7 @@ Data0=(-42.65398,173.04589)
 
 ;1163595
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=WAIHOPAI PLAYCENTRE
 StreetDesc=98 Layard St, Invercargill/ Playcentre
 Phone=+6425223083
@@ -167654,7 +167661,7 @@ Data0=(-46.39096,168.36811)
 
 ;1163604
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?WAIKAWA BAY TE KOHANGA REO
 StreetDesc=Waikawa Rd, Picton/ Te Kohanga Reo
 Phone=+6435737446
@@ -167672,7 +167679,7 @@ Data0=(-46.37662,168.34640)
 
 ;1163608
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?WAIKIWI KINDERGARTEN
 StreetDesc=Durham St, Invercargill/ Kindergarten
 Phone=+6432158297
@@ -167681,7 +167688,7 @@ Data0=(-46.37521,168.34447)
 
 ;1163609
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?WAIKOUAITI PLAYCENTRE
 StreetDesc=Mcgregor St, Waikouaiti/ Playcentre
 Phone=+6427426041
@@ -167690,7 +167697,7 @@ Data0=(-45.59542,170.67427)
 
 ;1163614
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=WAIMATAITAI KINDERGARTEN
 StreetDesc=69 Evans St, Timaru/ Kindergarten
 Phone=+6436843419
@@ -167708,7 +167715,7 @@ Data0=(-44.73227,171.04496)
 
 ;1163616
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=WAIMATE MOBILE KINDERGARTEN
 StreetDesc=13 John St, Waimate/ Kindergarten
 Phone=+6436898961
@@ -167717,7 +167724,7 @@ Data0=(-44.73431,171.04852)
 
 ;1163617
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=WAIMATE PLAYCENTRE
 StreetDesc=6 Belt St, Waimate/ Playcentre
 Phone=+6436898489
@@ -167726,7 +167733,7 @@ Data0=(-44.72928,171.04129)
 
 ;1163621
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=WAIMEHA TE KOHANGA REO
 StreetDesc=214 Vanguard St, Nelson/ Te Kohanga Reo
 Phone=+6435394253
@@ -167735,7 +167742,7 @@ Data0=(-41.28403,173.26935)
 
 ;1163648
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=WAITUNA PLAYCENTRE
 StreetDesc=1 Waituna Morton Mains Rd, Waituna/ Playcentre
 Phone=+6425667092
@@ -167744,7 +167751,7 @@ Data0=(-46.40508,168.63048)
 
 ;1163654
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=WAKARI KINDERGARTEN
 StreetDesc=136 Lynn St, Dud/ Kindergarten
 Phone=+6434667677
@@ -167753,7 +167760,7 @@ Data0=(-45.85490,170.48786)
 
 ;1163655
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?WAKATIPU KINDERGARTEN
 StreetDesc=Brecon St, Queenstown/ Kindergarten
 Phone=+6434426236
@@ -167762,7 +167769,7 @@ Data0=(-45.03027,168.65763)
 
 ;1163656
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=WAKEFIELD PLAYCENTRE
 StreetDesc=Treeton Place, Wakefield/ Playcentre
 Phone=+6435418866
@@ -167780,7 +167787,7 @@ Data0=(-41.40544,173.04373)
 
 ;1163659
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=WALDRONVILLE PLAYCENTRE
 StreetDesc=319 Brighton Rd, Waldronville/ Playcentre
 Phone=+6421298817
@@ -167789,7 +167796,7 @@ Data0=(-45.92192,170.40574)
 
 ;1163660
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?WALLACETOWN PLAYCENTRE
 StreetDesc=Mauchline St, Wallacetown/ Playcentre
 Data0=(-46.33188,168.28958)
@@ -167806,7 +167813,7 @@ Data0=(-44.70247,169.13384)
 
 ;1163673
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?WARRINGTON PLAYCENTRE
 StreetDesc=Station Rd, Warrington/ Playcentre
 Phone=+6427227732
@@ -167815,7 +167822,7 @@ Data0=(-45.70971,170.59181)
 
 ;1163679
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=WAVERLEY KINDERGARTEN
 StreetDesc=195 George St, Invercargill/ Kindergarten
 Phone=+6432177080
@@ -167833,7 +167840,7 @@ Data0=(-46.14190,168.32360)
 
 ;1163696
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=WEST END KINDERGARTEN TIMARU
 StreetDesc=34 Kiwi Dr, Timaru/ Kindergarten
 Phone=+6436843996
@@ -167851,7 +167858,7 @@ Data0=(-43.52277,172.36960)
 
 ;1163701
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=WEST MELTON PLAYCENTRE
 StreetDesc=Main West Coast Rd, West Melton/ Playcentre
 Data0=(-43.52411,172.36650)
@@ -167859,7 +167866,7 @@ Data0=(-43.52411,172.36650)
 
 ;1163708
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=WESTON PLAYCENTRE
 StreetDesc=2 Airedale Rd, Oamaru/ Playcentre
 Phone=+6434347760
@@ -167877,7 +167884,7 @@ Data0=(-41.74916,171.60926)
 
 ;1163711
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=WESTPORT KINDERGARTEN
 StreetDesc=48 A Russell St, Westport/ Kindergarten
 Phone=+6437898239
@@ -167886,7 +167893,7 @@ Data0=(-41.75142,171.59901)
 
 ;1163712
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=WESTPORT PLAYCENTRE
 StreetDesc=36 A Fonblanque St, Westport/ Playcentre
 Phone=+6427494596
@@ -167913,7 +167920,7 @@ Data0=(-45.87934,170.50029)
 
 ;1163767
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=WINTON KINDERGARTEN
 StreetDesc=183 Park St, Winton/ Kindergarten
 Phone=+6432368058
@@ -167922,7 +167929,7 @@ Data0=(-46.14341,168.32405)
 
 ;1163773
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=WOODEND PLAYCENTRE
 StreetDesc=6 School Rd, Woodend, Canterbury/ Playcentre
 Phone=+6433772540
@@ -167949,7 +167956,7 @@ Data0=(-46.43073,168.35147)
 
 ;1163782
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=?WYNDHAM PLAYCENTRE
 StreetDesc=Raglan St, Wyndham/ Playcentre
 Phone=+6425228114
@@ -167977,7 +167984,7 @@ Data0=(-43.90583,171.75104)
 
 ;1163800
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=BALCLUTHA RED CROSS SHOP
 StreetDesc=16 Crown St, Balclutha/ Op shop
 zip=10am-2pm Wed and Fri only
@@ -168025,7 +168032,7 @@ Data0=(-44.09936,171.24426)
 
 ;1163815
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=INVERCARGILL RED CROSS SHOP
 StreetDesc=153 Dee St, Invercargill/ Op shop
 Phone=+6432184516
@@ -169029,7 +169036,7 @@ Data0=(-43.49342,172.66112)
 
 ;1164387
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=BOND & BOND BLENHEIM
 StreetDesc=Cnr Queen & Charles St, Blenheim/ appliances, whiteware, computers, phones
 Phone=+6435791594
@@ -169056,7 +169063,7 @@ Data0=(-41.52911,173.79626)
 
 ;1164419
 [POI]
-Type=0x2f
+Type=0x2e
 Label=ROCKET FLORIST NEW ZEALAND
 StreetDesc=The Arts Ctr, 21 Hereford St, Chc/ Florists offering flower delivery to anywhere
 Phone=+6433798255
@@ -169249,7 +169256,7 @@ Data0=(-43.53032,172.58784)
 
 ;1164656
 [POI]
-Type=0x2a
+Type=0x2a07
 Label=MCDONALD'S RESTAURANT - MOORHOUSE
 StreetDesc=14 Washington Way, Chc/ burgers, fast food, takeaways
 Phone=+6433655721
@@ -170342,7 +170349,7 @@ Data0=(-43.54460,172.64333)
 
 ;1165284
 [POI]
-Type=0x2d07
+Type=0x2d00
 Label=BECKENHAM BOWLING CLUB INC.
 StreetDesc=63 Waimea Tce, Chc/ Bowling Club
 Phone=+6433329898
@@ -170468,7 +170475,7 @@ Data0=(-43.55044,172.66024)
 
 ;1165304
 [POI]
-Type=0x2b03
+Type=0x2e
 Label=KAIKOURA HUNTING & FISHING
 StreetDesc=130 Beach Rd, Kaikoura/ For all your hunting, camping, and fishing supplies.
 Phone=+6433196648
@@ -181090,7 +181097,7 @@ Data0=(-42.43720,171.20967)
 
 ;1170797
 [POI]
-Type=0x2d02
+Type=0x2a
 Label=ALI'S EATING AND DRINKING
 StreetDesc=9 Tainui St, Greymouth, West Coast/ Food, licensed bar. Hog's Head, Fish, chips,
 Phone=+6437685858
@@ -181549,7 +181556,7 @@ Data0=(-41.27628,173.28379)
 
 ;1171078
 [POI]
-Type=0x2a
+Type=0x2a07
 Label=THEO'S FISHERIES
 StreetDesc=82 Riccarton Rd, Riccarton, Chc/ Fresh Fish, takeaway meals, fish n chips
 Phone=+6433485632
@@ -181682,7 +181689,7 @@ Data0=(-45.19512,169.33517)
 
 ;1171112
 [POI]
-Type=0x2f08
+Type=0x2c04
 Label=ALEXANDRA RAILWAY STATION. OCRT
 StreetDesc=short St, Alexandra/ Old Railway Station, Otago Central Rail Trail
 Data0=(-45.24784,169.39721)
@@ -181706,7 +181713,7 @@ Data0=(-45.13622,169.51166)
 
 ;1171117
 [POI]
-Type=0x2f08
+Type=0x2c04
 Label=OMAKAU RAILWAY STATION. OCRT
 StreetDesc=Deaker St, Omakau/ Old Railway Station, Otago Central Rail Trail
 Data0=(-45.09128,169.60393)
@@ -182089,7 +182096,7 @@ Data0=(-45.10310,170.97063)
 
 ;1171270
 [POI]
-Type=0x2c06
+Type=0x2d00
 Label=CANTERBURY BASEBALL CLUB
 StreetDesc=hyde park Chc/ The Canterbury Baseball Club in Christchurch fields both youth an
 Phone=+6421707644
@@ -183521,7 +183528,7 @@ Data0=(-43.47386,172.58795)
 
 ;1171777
 [POI]
-Type=0x2F07
+Type=0x2f03
 Label=DIRT ACTION SERVICE ATV & DIRT BIKE
 StreetDesc=29 Saxon St, Linwood 8011, Canterbury, New Zealand/ Motorcycle repairs, GasGas, 
 Phone=+6433890080
@@ -185038,7 +185045,7 @@ Data0=(-43.53519,172.63875)
 
 ;1172324
 [POI]
-Type=0x2d02
+Type=0x2a
 Label=HAMMERSLEY THAI
 StreetDesc=6 Shirley Rd, Chc/ Thai Restaurant, Bar, Cafe, Take away, Gaming, Thai Food, Cof
 Phone=+6433850004
@@ -185129,7 +185136,7 @@ Data0=(-41.79620,174.14788)
 
 ;1172352
 [POI]
-Type=0x2a
+Type=0x2a07
 Label=BURGERS & BEERS INC
 StreetDesc=178 High St, Chc/ Burger Bar, Takeaway, Restaurant, Bar
 Phone=+6433663339
@@ -188403,7 +188410,7 @@ Data0=(-41.30740,173.10368)
 
 ;1173224
 [POI]
-Type=0x2c04
+Type=0x2e
 Label=LITTLE ROCK
 StreetDesc=60 West End, Kaikoura/ Design, Jewellery, Kiwiana, Paua
 Phone=+6433193066
@@ -188538,7 +188545,7 @@ Data0=(-41.25660,173.30387)
 
 ;1173241
 [POI]
-Type=0x2c04
+Type=0x6403
 Label=WAKAPUAKA CEMETERY
 StreetDesc=272 Atawhai Dr,NELSON/ Cemetry, Crematorium
 Phone=+35460204
@@ -188595,7 +188602,7 @@ Data0=(-45.88190,169.67973)
 
 ;1173268
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=CHEQUERS CAFE AND WINE BAR
 StreetDesc=24 Scott St, Blenheim/ Cafe, Wine Bar
 Phone=+6435793242
@@ -189451,7 +189458,7 @@ Data0=(-43.55720,172.73797)
 
 ;1173587
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=FIGARO'S
 StreetDesc=8 Scott St, Blenheim/ Cafe and bar open all day for breakfast lunch and dinner. 
 Phone=+6435777277
@@ -189827,7 +189834,7 @@ Data0=(-45.84808,170.51577)
 
 ;1173696
 [POI]
-Type=0x2a
+Type=0x2a07
 Label=LINCOLN LUNCHBAR AND TAKEAWAYS
 StreetDesc=12 Robert St, Lincoln/ Great fish and chips, baked goods
 Phone=+6433252627
@@ -191647,7 +191654,7 @@ Data0=(-43.54261,172.52362)
 
 ;1174345
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=KODAK CAMERA & DIGITAL
 StreetDesc=The Hub Hornby, 418 Main South Rd, Hornby, Chc/ Cameras, digital prints
 Phone=+6433497898
@@ -191721,6 +191728,15 @@ StreetDesc=The Hub Hornby, 418 Main South Rd, Hornby, Chc/ Street wear clothing 
 Phone=+6433490366
 zip=Mon-Wed 9am-6pm, Thu-Fri 9am-6:30pm, Sat
 Data0=(-43.54275,172.52427)
+[END]
+
+;1174353
+[POI]
+Type=0x2e
+Label=STADIA SPORTS
+StreetDesc=The Hub Hornby, 418 Main South Rd, Hornby, Chc/ 
+zip=Mon-Wed 9am-6pm, Thu-Fri 9am-6:30pm, Sat
+Data0=(-43.54247,172.52325)
 [END]
 
 ;1174354
@@ -192595,7 +192611,7 @@ Data0=(-43.55633,172.67667)
 
 ;1174677
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=BIN INN BLENHEIM
 StreetDesc=25 Redwood St, Blenheim/ Wholefoods & Specialty Groceries, Bulk Foods, Gluten Fr
 Phone=+6435783300
@@ -192604,7 +192620,7 @@ Data0=(-41.51673,173.96084)
 
 ;1174678
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=BIN INN GORE
 StreetDesc=82 Broughton St, Gore/ Wholefoods & Specialty Groceries, Bulk Foods, Gluten Free
 Phone=+6432039331
@@ -192613,7 +192629,7 @@ Data0=(-46.10525,168.93448)
 
 ;1174681
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=BIN INN MOTUEKA
 StreetDesc=151a High St, Motueka/ Wholefoods & Specialty Groceries, Bulk Foods, Gluten Free
 Phone=+6435280019
@@ -192622,7 +192638,7 @@ Data0=(-41.11099,173.01162)
 
 ;1174682
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=BIN INN RICHMOND
 StreetDesc=271 Queen St, Richmond/ Wholefoods & Specialty Groceries, Bulk Foods, Gluten Fre
 Phone=+6435438045
@@ -192748,7 +192764,7 @@ Data0=(-43.50778,172.66329)
 
 ;1174704
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=GLASSONS SOUTH CITY
 StreetDesc=Shop 24, South City Shopping Ctr, 555 Colombo St/ Women's clothing, fashion
 Phone=+6433665968
@@ -193620,7 +193636,7 @@ Data0=(-45.88084,170.50128)
 
 ;1175891
 [POI]
-Type=0x2e
+Type=0x2e0b
 Label=CAMERA WAREHOUSE
 StreetDesc=63A Main St, Gore/ Digital cameras, DSLR and compact cameras
 Phone=+6432088020
@@ -196073,7 +196089,7 @@ Data0=(-43.48315,172.71981)
 
 ;1177000
 [POI]
-Type=0x2c06
+Type=0x2c00
 Label=?GLACIER SOUTHERN LAKES HELICOPTER TOURS
 StreetDesc=The Helicopter Base, 2 Lucas Place, Queenstown Airport/ Awesome scenic helicopte
 Phone=+34423016
@@ -196594,7 +196610,7 @@ Data0=(-45.88152,170.49760)
 
 ;1177326
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=FUNKY PUMPKIN BLENHEIM SQUARE
 StreetDesc=Blenheim Sq, 227 Blenheim Rd, Riccarton, Chc/ Fresh fruit, vegetables
 Phone=+6433659535
@@ -196737,7 +196753,7 @@ Data0=(-43.49861,172.58105)
 
 ;1177402
 [POI]
-Type=0x2a0e
+Type=0x4c
 Label=FARMERS CORNER ASHBURTON
 StreetDesc=10 Longbeach Rd/ Tourist Complex and Cafe
 Phone=+6433088332
@@ -197018,7 +197034,7 @@ Data0=(-43.57724,172.70794)
 
 ;1177521
 [POI]
-Type=0x2a
+Type=0x2b00
 Label=ASHBURTON CLUB AND MSA
 StreetDesc=245 Burnett St Ashburton 7700/ Hotel,Restaurant
 Phone=+6433087149
@@ -197027,7 +197043,7 @@ Data0=(-43.90580,171.74939)
 
 ;1177524
 [POI]
-Type=0x2c06
+Type=0x2c00
 Label=GOLDEN BAY AIR
 StreetDesc=Takaka Aerodrome/ Sheduled flights between Takaka, Wellington and Karamea. Heaph
 Phone=+6435258725
@@ -197431,7 +197447,7 @@ Data0=(-44.26347,170.10020)
 
 ;1177752
 [POI]
-Type=0x2a0e
+Type=0x2a
 Label=THE SALAD BOWL
 StreetDesc=41A Bridge St, Nelson/ Salad Cafe In The Nelson Town Centre
 Phone=+6435457500
@@ -197450,7 +197466,7 @@ Data0=(-43.54544,172.66946)
 
 ;1177755
 [POI]
-Type=0x2b03
+Type=0x2e
 Label=BIVOUAC OUTDOOR TOWER JUNCTION
 StreetDesc=Unit 3, 81 Clarence St, Tower Junction, Chc/ Outdoor Adventure clothing & suppli
 Phone=+6433418062
@@ -197528,7 +197544,7 @@ Data0=(-45.03086,168.66074)
 
 ;1177830
 [POI]
-Type=0x2a
+Type=0x2d02
 Label=PUB ON WHARF
 StreetDesc=88 Beach St, steamer wharf, queenstown/ Pub, restaurant, bar, live music,
 Phone=+6434412155
@@ -198229,7 +198245,7 @@ Data0=(-44.39390,171.25031)
 
 ;1178260
 [POI]
-Type=0x2a
+Type=0x2a07
 Label=MCDONALD'S RESTAURANT - RANGIORA 24HR
 StreetDesc=366 Flaxton Rd/ burgers, fast food, takeaways
 Phone=+6433106510
@@ -199018,7 +199034,7 @@ Data0=(-43.53087,172.63369)
 
 ;1178718
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=CLUB TOWER CAFE & BAR
 StreetDesc=62 Worcester Boulevard, Chc/ Cafe, bar
 Phone=+6433660016
@@ -199679,7 +199695,7 @@ Data0=(-45.24803,169.37275)
 
 ;1178887
 [POI]
-Type=0x2b03
+Type=0x2e
 Label=CENTRAL OTAGO HUNTING & FISHING
 StreetDesc=7 Iles Rd, Cromwell/ Fishing Tackle & Bait, Guns, Camping
 Phone=+6434454830
@@ -201052,7 +201068,7 @@ Data0=(-41.37550,173.10894)
 
 ;1179611
 [POI]
-Type=0x2c06
+Type=0x2b00
 Label=SPLIT APPLE LODGE B&B
 StreetDesc=370 Kaiteriteri-Sandy Bay Rd Kaiteriteri/ Bert and Paulette Stannards - near abe
 Phone=+6435278502
@@ -201573,7 +201589,7 @@ Data0=(-44.70796,169.15019)
 
 ;1180107
 [POI]
-Type=0x2a
+Type=0x2a07
 Label=MCDONALD'S RESTAURANT - RICHMOND FREESTANDER 24HR
 StreetDesc=321 Gladstone Rd, Richmond/ burgers, fast food, takeaways
 Phone=+6435437018
@@ -202141,7 +202157,7 @@ Data0=(-45.89596,170.50661)
 
 ;1180482
 [POI]
-Type=0x2e
+Type=0x2e09
 Label=OTAGO OFFICE FURNITURE WAREHOUSE
 StreetDesc=197 Cumberland St Dud/ office furniture used furniture student furniture pre-use
 Phone=+6434790111
@@ -202375,7 +202391,7 @@ Data0=(-45.88248,170.35298)
 
 ;1180766
 [POI]
-Type=0x2f0c
+Type=0x2b00
 Label=OCEAN VIEW BACKPACKERS
 StreetDesc=23 John St, Ocean View, Dud 9035/ Boutique backpacker accommodation
 Phone=+6434817914
@@ -202742,7 +202758,7 @@ Data0=(-45.87828,170.50187)
 
 ;1180968
 [POI]
-Type=0x2a0e
+Type=0x2a
 Label=THE GRUB HUB CAFE
 StreetDesc=Shop 2, 49 Main North Rd, Woodend 7610, Chc, Canterbury/ Restaurant, food, coffe
 Phone=+6433100434
@@ -204512,10 +204528,8 @@ Data0=(-41.50025,173.95622)
 [POI]
 Type=0x2f
 Label=?DOLPHIN WATCH AND NATURE ECOTOURS
-StreetDesc=London Qy, The Waterfront, Picton/ Swim with Dolphins, bird sanctury guided walk
-Phone=+6435738040
-zip=8am to 6pm
-Data0=(-41.29059,174.00100)
+StreetDesc=Wlg St, Picton/ 
+Data0=(-41.29299,174.00763)
 [END]
 
 ;1181329
@@ -204552,7 +204566,7 @@ Data0=(-41.29381,174.04154)
 
 ;1181333
 [POI]
-Type=0x2d02
+Type=0x2a0e
 Label=SLIP INN
 StreetDesc=50 Main Rd, Havelock Marina, Havelock, Marlborough Sounds/ Cafe, restaurant and 
 Phone=+6435742345
@@ -206059,7 +206073,7 @@ Data0=(-41.30024,173.23802)
 
 ;1188583
 [POI]
-Type=0x6404
+Type=0x2f
 Label=ST AUGUSTINES CASHMERE
 StreetDesc=5 Cracroft Tce, Cashmere, Chc/ Anglican Church
 Phone=+6433326627
@@ -206079,7 +206093,7 @@ Data0=(-45.35962,170.85500)
 
 ;1188589
 [POI]
-Type=0x2d00
+Type=0x2f
 Label=CASTLE MACADAM WINE
 StreetDesc=40 Stuart St, Dud/ Wine and Beer Store
 Phone=+6434741100
@@ -206152,7 +206166,7 @@ Data0=(-45.89882,170.45302)
 
 ;1188656
 [POI]
-Type=0x2b02
+Type=0x2f
 Label=FAR PAVILION LAKESIDE LODGE
 StreetDesc=7 Baker Grove Wanaka/ Far Pavilion is an exclusive lakeside bed & breakfast with
 Phone=+6434432922
@@ -206313,7 +206327,7 @@ Data0=(-43.51537,172.58438)
 
 ;1188808
 [POI]
-Type=0x2F02
+Type=0x2f
 Label=DOLLARSAVE CAR RENTALS, CARAVAN SALES & WORKSHOP REPAIRS
 StreetDesc=221 Haven Rd Stepneyville Nelson 7010/ Car Hire, Car Rentals, Rental Cars, Renta
 zip=Weekdays 9am - 5pm, Saturdays 9am - 12pm
@@ -206387,7 +206401,7 @@ Data0=(-45.84354,170.53473)
 
 ;1188832
 [POI]
-Type=0x2b02
+Type=0x2f
 Label=ANSELM HOUSE
 StreetDesc=34 Kahu Rd, Fendalton,Chc 8041 New Zealand/ Bed & Breakfast Christchurch Accommo
 Phone=+6433434260
@@ -206414,7 +206428,7 @@ Data0=(-45.87166,170.51192)
 
 ;1188849
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=SWING SOUTH WEST COAST SWING
 StreetDesc=St Paul's Church Hall, 1 Harewood Rd, Papanui, Chc/ West Coast Swing Modern Part
 Phone=+6427747335
@@ -206434,7 +206448,7 @@ Data0=(-45.03234,168.65893)
 
 ;1188865
 [POI]
-Type=0x2f0c
+Type=0x2f
 Label=GALLERY TOILETS
 StreetDesc=9 Rolleston Ave Chc Central 8013/ Public toilets
 Data0=(-43.53097,172.62585)
@@ -206442,7 +206456,7 @@ Data0=(-43.53097,172.62585)
 
 ;1188868
 [POI]
-Type=0x4a00
+Type=0x2f
 Label=OKIWI BAY REST AREA
 StreetDesc=SH1 South of Waipapa Bay/ Rest Area
 Data0=(-42.21697,173.86560)
@@ -206498,161 +206512,10 @@ Data0=(-43.53076,172.69632)
 
 ;1188908
 [POI]
-Type=0x2b00
+Type=0x2f
 Label=SIROCCO FISHING CHARTERS
-StreetDesc=13 Cardiff St, Moeraki 9482/ Fishing, fishing charters, accommodation, fish
+StreetDesc=13 Cardiff St, Moeraki 9482/ Fishing, fishing charters, accommodation
 Phone=+6434394818
 Data0=(-45.36004,170.85840)
-[END]
-
-;1188919
-[POI]
-Type=0x2c06
-Label=RUGBY PARK
-StreetDesc=Cnr Rutland & Malvern St, Chc/ aka Malvern Park
-Data0=(-43.50626,172.62876)
-[END]
-
-;1188931
-[POI]
-Type=0x2f
-Label=CHRISTCHURCH ELECTRICIAN, PAUL HOWELLS ELECTRICAL CHRISTCHURCH
-StreetDesc=90 Hmtn Avennue, Chc/ Christchruch Electrician, Paul Howells Electricial is a Re
-Phone=+6427414797
-zip=8am to 6pm Monday to Friday
-Data0=(-43.51696,172.58405)
-[END]
-
-;1188932
-[POI]
-Type=0x2a07
-Label=SUBWAY LINCOLN
-StreetDesc=5c Robert St, Lincoln/ Fast food restaurant, sandwiches, salads, takeaways
-Phone=+6433257453
-zip=Sun-Tue 6.30am-8pm, Wed-Sat 6.30am-9pm
-Data0=(-43.64071,172.48458)
-[END]
-
-;1188940
-[POI]
-Type=0x2f
-Label=FINANCE 247 24HR
-StreetDesc=243 Lowes Rd Rolleston Canterbury/ Car finance, personal loans, debt consolidati
-Phone=0800346247
-zip=247!
-Data0=(-43.60992,172.36576)
-[END]
-
-;1188945
-[POI]
-Type=0x2f
-Label=LIVINGSTONE BUSINESS CONSULTANTS AND BOARD SERVICES
-StreetDesc=20A Victors Rd, Hoon Hay, Chc 8025/ Business Consultants, Policy Templates, Gove
-Data0=(-43.56552,172.59902)
-[END]
-
-;1188947
-[POI]
-Type=0x2b01
-Label=?EREWHON BEACH MOTEL
-StreetDesc=Haast Beach, Haast/ Beautiful beachside location. Studio motels and larger apart
-Phone=+6437500803
-zip=Check in after 2pm, 7 days per week.
-Data0=(-43.87185,168.98947)
-[END]
-
-;1188949
-[POI]
-Type=0x2f
-Label=YOULL SAY WOW CARPET CLEANING
-StreetDesc=8 Churchill St St. Kilda Dud 9012/ For carpet cleaning, stain removal, water dam
-Phone=+6434553874
-Data0=(-45.90142,170.50059)
-[END]
-
-;1188953
-[POI]
-Type=0x2f
-Label=MA-FI ARTS WORKSHOP
-StreetDesc=King Edward Court, Rooms 104-105 261-291 Stuart St Dud 9016/ art, art school, ar
-Phone=+6434776112
-Data0=(-45.87305,170.49884)
-[END]
-
-;1188955
-[POI]
-Type=0x2F02
-Label=BETTER RENTALS
-StreetDesc=266 St Asaph St, Chc 8011/ Car Rentals Christchurch Airport
-Phone=+6433652979
-zip=8:30am - 5:30pm
-Data0=(-43.53666,172.64199)
-[END]
-
-;1188961
-[POI]
-Type=0x2f
-Label=DAD AND THE LAD
-StreetDesc=56 walters Rd Marslands, Chc 8051/ Lawn mowing, garden maintenance / yard mainte
-Phone=+6436692444
-zip=730 am to 7 pm 7 days a week
-Data0=(-43.48291,172.65022)
-[END]
-
-;1188965
-[POI]
-Type=0x2f
-Label=WEST COAST SHUTTLE
-StreetDesc=Riccarton Mall Chc/ coach, bus, transport,ChCh Airport, arthurs'pass,Greymouth, 
-Phone=+6427492748
-zip=2.30 pm
-Data0=(-43.53013,172.59667)
-[END]
-
-;1188968
-[POI]
-Type=0x2f
-Label=KIWIS STAT LTD
-StreetDesc=Unit 1, 48 Lismore St, Phillipstown, Chc/ Medical Locums in Australia and New Ze
-Phone=0800562867
-Data0=(-43.54372,172.65302)
-[END]
-
-;1188974
-[POI]
-Type=0x2f
-Label=A+ PHYSIO
-StreetDesc=1 Greenacres Str., Macandrew Bay, Dud/ We provide you with the highest standard 
-Phone=+6422126349
-Data0=(-45.86839,170.59814)
-[END]
-
-;1188976
-[POI]
-Type=0x2f03
-Label=HPE AUTOMOTIVE SERVICES
-StreetDesc=29 Battersea St/ Service and repairs
-Phone=+03379416
-zip=Monday - Friday 8am - 5pm
-Data0=(-43.54328,172.63431)
-[END]
-
-;1188983
-[POI]
-Type=0x2f
-Label=ROBYN BUIS INTERIOR DESIGN
-StreetDesc=3 Stafford St Dud 9016/ Complete Interior Design service by a trained designer c
-Phone=+6434773982
-Data0=(-45.87962,170.50018)
-[END]
-
-;1188984
-[POI]
-Type=0x2f
-Label=?LEAF HAIR STUDIO
-StreetDesc=83 Moray Place, Dud/ Hairdresser, makeup, wedding etc
-Phone=+6434701279
-zip=10am-6pm (tue-sun)
-Data0=(-45.87434,170.50143)
 [END]
 

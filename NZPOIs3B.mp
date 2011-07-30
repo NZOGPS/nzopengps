@@ -16043,7 +16043,7 @@ Data0=(-45.87071,170.50525)
 
 ;1053795
 [POI]
-Type=0x2d
+Type=0x2e
 Label=UNITED VIDEO ASHBURTON
 StreetDesc=56 Cass St, Ashburton/ Video & DVD rental
 Phone=+6433083428
@@ -17040,7 +17040,7 @@ Data0=(-46.40657,168.34951)
 
 ;1056833
 [POI]
-Type=0x2f0d
+Type=0x2f
 Label=AA CENTRE - TIMARU
 StreetDesc=26 Church St, Timaru/ Travel advice, maps, accommodation guide, drivers licencin
 Phone=+6498333700
@@ -18760,7 +18760,7 @@ Data0=(-43.90420,171.74792)
 
 ;1062608
 [POI]
-Type=0x2f
+Type=0x4c
 Label=BALCLUTHA I-SITE VISITOR CENTRE
 StreetDesc=4 Clyde St/ Visitor information
 Phone=+6434180388
@@ -18769,7 +18769,7 @@ Data0=(-46.23650,169.74272)
 
 ;1062615
 [POI]
-Type=0x2f
+Type=0x4c
 Label=VISITOR INFORMATION CENTRE BLENHEIM
 StreetDesc=Blenheim Railway Station, Sinclair St, Blenheim/ Visitor information, i-site
 Phone=+6435778080
@@ -18778,7 +18778,7 @@ Data0=(-41.50945,173.95953)
 
 ;1062622
 [POI]
-Type=0x2f
+Type=0x4c
 Label=CHRISTCHURCH AIRPORT I-SITE VISITOR CENTRE
 StreetDesc=Domestic Terminal, Chc Airport/ Visitor information
 Phone=+6433537774
@@ -18787,7 +18787,7 @@ Data0=(-43.48906,172.53887)
 
 ;1062629
 [POI]
-Type=0x2f
+Type=0x4c
 Label=CHRISTCHURCH I-SITE VISITOR CENTRE
 StreetDesc=Old Chief Post Office, Cathedral Sq/ Visitor information
 Phone=+6433799629
@@ -18797,7 +18797,7 @@ Data0=(-43.53135,172.63540)
 
 ;1062636
 [POI]
-Type=0x2f
+Type=0x4c
 Label=CROMWELL I-SITE VISITOR CENTRE
 StreetDesc=47 The Mall, Cromwell/ Visitor information
 Phone=+6434450212
@@ -18806,7 +18806,7 @@ Data0=(-45.03716,169.19763)
 
 ;1062643
 [POI]
-Type=0x2f
+Type=0x4c
 Label=DUNEDIN I-SITE VISITOR CENTRE
 StreetDesc=48 The Octagon, Dud/ Visitor information
 Phone=+6434743300
@@ -18815,7 +18815,7 @@ Data0=(-45.87358,170.50343)
 
 ;1062650
 [POI]
-Type=0x2f
+Type=0x4c
 Label=GERALDINE I-SITE VISITOR CENTRE
 StreetDesc=Cnr Talbot & Cox St, Geraldine/ Visitor information
 Phone=+6436931006
@@ -18825,7 +18825,7 @@ Data0=(-44.09249,171.24468)
 
 ;1062657
 [POI]
-Type=0x2f
+Type=0x4c
 Label=GOLDEN BAY I-SITE VISITOR CENTRE
 StreetDesc=Willow St, Takaka/ Visitor information
 Phone=+6435259136
@@ -18834,7 +18834,7 @@ Data0=(-40.86138,172.80582)
 
 ;1062664
 [POI]
-Type=0x2f
+Type=0x4c
 Label=GORE I-SITE VISITOR CENTRE
 StreetDesc=Cnr Hokonui Dr & Norfolk St, Gore/ Visitor information
 Phone=+6432089908
@@ -18843,7 +18843,7 @@ Data0=(-46.09789,168.94591)
 
 ;1062671
 [POI]
-Type=0x2f
+Type=0x4c
 Label=GREYMOUTH I-SITE VISITOR CENTRE
 StreetDesc=Cnr Herbert & MacKay Streets, Greymouth/ Visitor information
 Phone=+6437685101
@@ -18852,7 +18852,7 @@ Data0=(-42.44886,171.20761)
 
 ;1062678
 [POI]
-Type=0x2f
+Type=0x4c
 Label=HANMER SPRINGS I-SITE VISITOR CENTRE
 StreetDesc=42 Arnuri Ave West, Hanmer Springs/ Visitor & tourist information, i-site, accom
 Phone=+6433150020
@@ -18861,7 +18861,7 @@ Data0=(-42.52307,172.82888)
 
 ;1062685
 [POI]
-Type=0x2f
+Type=0x4c
 Label=WESTLAND I-SITE VISITOR CENTRE
 StreetDesc=36 Weld St, Hokitika/ Tourist & visitor information
 Phone=+6437556166
@@ -18870,7 +18870,7 @@ Data0=(-42.71809,170.96405)
 
 ;1062692
 [POI]
-Type=0x2f
+Type=0x4c
 Label=INVERCARGILL I-SITE VISITOR CENTRE
 StreetDesc=Queens Park, 108 Gala St, Invercargill/ Visitor information
 Phone=+6432146243
@@ -18879,7 +18879,7 @@ Data0=(-46.40557,168.35358)
 
 ;1062699
 [POI]
-Type=0x2f
+Type=0x4c
 Label=KAIKOURA I-SITE VISITOR CENTRE
 StreetDesc=Westend, Kaikoura/ Visitor information
 Phone=+6433195641
@@ -18888,7 +18888,7 @@ Data0=(-42.40269,173.68297)
 
 ;1062706
 [POI]
-Type=0x2f
+Type=0x4c
 Label=LYTTELTON I-SITE VISITOR CENTRE
 StreetDesc=20 Oxford St, Lyttelton/ Visitor information
 Phone=+6433289093
@@ -18897,7 +18897,7 @@ Data0=(-43.60327,172.72271)
 
 ;1062713
 [POI]
-Type=0x2f
+Type=0x4c
 Label=METHVEN I-SITE VISITOR CENTRE
 StreetDesc=121 Main St, Methven/ Visitor information
 Phone=+6433028955
@@ -18906,7 +18906,7 @@ Data0=(-43.63421,171.64576)
 
 ;1062720
 [POI]
-Type=0x2f
+Type=0x4c
 Label=MOTUEKA VISITOR INFORMATION CENTRE
 StreetDesc=20 Wallace St, Motueka/ Visitor information. Abel Tasman Region i-SITE.
 Phone=+6435286543
@@ -18915,7 +18915,7 @@ Data0=(-41.11166,173.01233)
 
 ;1062727
 [POI]
-Type=0x2f
+Type=0x4c
 Label=NELSON I-SITE VISITOR CENTRE
 StreetDesc=77 Trafalgar St, Nelson/ Visitor information
 Phone=+6435482304
@@ -18924,7 +18924,7 @@ Data0=(-41.27058,173.28427)
 
 ;1062734
 [POI]
-Type=0x2f
+Type=0x4c
 Label=OAMARU I-SITE VISITOR CENTRE
 StreetDesc=1 Thames St, Oamaru/ Visitor information
 Phone=+6434341656
@@ -18933,7 +18933,7 @@ Data0=(-45.10195,170.96914)
 
 ;1062741
 [POI]
-Type=0x2f
+Type=0x4c
 Label=PICTON I-SITE VISITOR CENTRE
 StreetDesc=The Foreshore, Picton/ Visitor information
 Phone=+6435203113
@@ -18942,7 +18942,7 @@ Data0=(-41.28601,174.00520)
 
 ;1062748
 [POI]
-Type=0x2f
+Type=0x4c
 Label=QUEENSTOWN I-SITE VISITOR CENTRE
 StreetDesc=Cnr Camp & Shotover Streets, Queenstown/ Visitor information
 Phone=+6434424100
@@ -18951,7 +18951,7 @@ Data0=(-45.03097,168.66049)
 
 ;1062755
 [POI]
-Type=0x2f
+Type=0x4c
 Label=REEFTON I-SITE VISITOR CENTRE
 StreetDesc=67-69 Broadway, Reefton/ Visitor information
 Phone=+6437328391
@@ -18960,7 +18960,7 @@ Data0=(-42.11976,171.86475)
 
 ;1062762
 [POI]
-Type=0x2f
+Type=0x4c
 Label=STEWART ISLAND VISITOR CENTRE
 StreetDesc=Main Rd, Stewart Island/ Visitor information
 Phone=+6432190009
@@ -18969,7 +18969,7 @@ Data0=(-46.89783,168.12675)
 
 ;1062769
 [POI]
-Type=0x2f
+Type=0x4c
 Label=FIORDLAND I-SITE VISITOR CENTRE
 StreetDesc=Lake Front Dr, Te Anau/ Visitor information
 Phone=+6436886163
@@ -18978,7 +18978,7 @@ Data0=(-45.41739,167.71175)
 
 ;1062776
 [POI]
-Type=0x2f
+Type=0x4c
 Label=TIMARU I-SITE VISITOR CENTRE
 StreetDesc=2 George St, Timaru/ Visitor information
 Phone=+6436886163
@@ -18987,7 +18987,7 @@ Data0=(-44.39690,171.25583)
 
 ;1062783
 [POI]
-Type=0x2f
+Type=0x4c
 Label=WANAKA I-SITE VISITOR CENTRE
 StreetDesc=100 Ardmore St, Lake Front, Wanaka/ Visitor information
 Phone=+6434431233
@@ -18996,7 +18996,7 @@ Data0=(-44.69444,169.13467)
 
 ;1062790
 [POI]
-Type=0x2f
+Type=0x4c
 Label=WESTPORT I-SITE VISITOR CENTRE
 StreetDesc=1 Brougham St, Westport/ Visitor information
 Phone=+6437896658
@@ -22932,7 +22932,7 @@ Data0=(-42.39538,171.25980)
 
 ;1074683
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=WILDERNESS ACCOMMODATION
 StreetDesc=Marks Rd, Haast, West Coast/ Motel and Backpacker accommodation. BBH
 Phone=+6437500029
@@ -31301,7 +31301,7 @@ Data0=(-45.89725,170.53137)
 
 ;1093709
 [POI]
-Type=0x2c08
+Type=0x2f
 Label=SOUTHERN SOARING
 StreetDesc=Airport Rd, Omarama/ Glider flights, Gliding instruction, Glider hire, sailplane
 Phone=+6434389600
@@ -72899,7 +72899,7 @@ Data0=(-42.91937,171.32135)
 
 ;1117007
 [POI]
-Type=0x6402
+Type=0x2f
 Label=HARPER PASS BIVVY (BIVOUAC)
 StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-42.72502,171.89660)
@@ -79146,7 +79146,7 @@ Data0=(-42.44882,171.20980)
 
 ;1119187
 [POI]
-Type=0x2f08
+Type=0x2f
 Label=SEABUZZZ GLASS BOTTOMED BOAT & WATER TAXI
 StreetDesc=Argyle St, Stewart Island/ Ferry
 Phone=+6432191282
@@ -92311,7 +92311,7 @@ Data0=(-44.75222,168.73239)
 
 ;1123374
 [POI]
-Type=0x5904
+Type=0x2f04
 Label=BURWOOD HOSPITAL HELIPORT
 StreetDesc=/ NZBW
 zip=Non-certificated
@@ -128934,7 +128934,7 @@ Data0=(-46.32833,168.84905)
 
 ;1141639
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Seaward Rd Opp Hunter St Edendale/ Telecom, payphone, public phone box
 Phone=+6432066200
@@ -170360,7 +170360,7 @@ Data0=(-43.51299,172.65610)
 
 ;1165288
 [POI]
-Type=0x2d07
+Type=0x2d00
 Label=COALGATE BOWLING CLUB
 StreetDesc=Coaltrack Rd, Coalgate/ Bowling Club
 Phone=+6433182642

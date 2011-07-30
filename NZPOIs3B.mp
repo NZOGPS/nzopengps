@@ -636,7 +636,7 @@ Data0=(-43.90742,171.74354)
 
 ;1002653
 [POI]
-Type=0x2a0a
+Type=0x2a
 Label=PIZZA HUT BLENHEIM
 StreetDesc=17C Maxwell Rd, Blenheim/ pizza, takeaways
 Phone=0800838383
@@ -13370,7 +13370,7 @@ Data0=(-43.52888,172.63442)
 
 ;1044121
 [POI]
-Type=0x2e09
+Type=0x2e0b
 Label=NOEL LEEMING ASHBURTON
 StreetDesc=Society House, 250 Tancred St, Ashburton/ Electric appliances, whiteware, comput
 Phone=+6433078094
@@ -14420,7 +14420,7 @@ Data0=(-43.54877,172.68272)
 
 ;1047411
 [POI]
-Type=0x2e03
+Type=0x2e
 Label=THE MAD BUTCHER - SHIRLEY
 StreetDesc=Cnr Shirley and Hills Rd, Chc/ butcher, fresh meat, steak, lamb, chicken
 Phone=+6433860034
@@ -18751,7 +18751,7 @@ Data0=(-45.25427,169.39149)
 
 ;1062601
 [POI]
-Type=0x2f
+Type=0x4c
 Label=ASHBURTON I-SITE VISITOR CENTRE
 StreetDesc=East St/ Visitor information
 Phone=+6433081050
@@ -22886,7 +22886,7 @@ Data0=(-45.87494,170.49585)
 
 ;1074641
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=CHATEAU FRANZ BACKPACKERS - SIR CEDRICS
 StreetDesc=8 Cron St, Franz Josef, Westland/ Backpacker & motel accommodation. BBH Glow Wor
 Phone=+6437520738
@@ -66703,9 +66703,9 @@ Data0=(-45.88161,170.50675)
 [POI]
 Type=0x2f
 Label=THE GREEN MONKEY COMPANY
-StreetDesc=5A Dalleys Lane, Lyttelton/ Organic baby food
-Phone=+6433289515
-Data0=(-43.60034,172.70993)
+StreetDesc=5 Savannah Lane, Westmorland Chc 8025/ Organic baby food
+Phone=+21889828
+Data0=(-43.58012,172.59925)
 [END]
 
 ;1114658
@@ -71548,9 +71548,9 @@ Data0=(-43.18971,171.83611)
 ;1116802
 [POI]
 Type=0x2f
-Label=?BROWN HUT
+Label=BROWN HUT
 StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Golden Bay/ DOC Backcountry 
-Data0=(-40.85063,172.44753)
+Data0=(-40.85040,172.44717)
 [END]
 
 ;1116803
@@ -71884,9 +71884,9 @@ Data0=(-42.96297,171.14422)
 ;1116853
 [POI]
 Type=0x2f
-Label=?CENTENIAL CABIN
+Label=CENTENIAL CABIN
 StreetDesc=Rakaia Forest Conservation Area, Raukapuka/ DOC Backcountry hut
-Data0=(-43.18104,171.12511)
+Data0=(-43.18152,171.12477)
 [END]
 
 ;1116854
@@ -71988,9 +71988,9 @@ Data0=(-44.90578,167.90830)
 ;1116869
 [POI]
 Type=0x2f
-Label=?COBB HUT
+Label=COBB HUT
 StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Golden Bay/ DOC Backcountry 
-Data0=(-41.05627,172.52550)
+Data0=(-41.05590,172.52514)
 [END]
 
 ;1116870
@@ -72100,9 +72100,9 @@ Data0=(-42.96038,171.23360)
 ;1116886
 [POI]
 Type=0x2f
-Label=?CRESWICKE FLAT HUT
+Label=CRESWICKE FLAT HUT
 StreetDesc=Stewardship Land - South Island > West Coast > South Westland/ DOC Backcountry h
-Data0=(-43.92295,169.68922)
+Data0=(-43.92291,169.68803)
 [END]
 
 ;1116887
@@ -72372,9 +72372,9 @@ Data0=(-44.80444,168.65364)
 ;1116932
 [POI]
 Type=0x2f
-Label=?EADE MEMORIAL HUT
+Label=EADE MEMORIAL HUT
 StreetDesc=Aoraki/Mount Cook Ntl Park, Aoraki/ DOC Backcountry hut
-Data0=(-43.51933,170.48217)
+Data0=(-43.51927,170.48204)
 [END]
 
 ;1116933
@@ -72764,9 +72764,9 @@ Data0=(-41.76884,173.34237)
 ;1116986
 [POI]
 Type=0x2f
-Label=?GOULAND DOWNS HUT
+Label=GOULAND DOWNS HUT
 StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Golden Bay/ DOC Backcountry 
-Data0=(-40.89155,172.35227)
+Data0=(-40.89059,172.35326)
 [END]
 
 ;1116987
@@ -72940,9 +72940,9 @@ Data0=(-40.98660,172.11032)
 ;1117014
 [POI]
 Type=0x2f
-Label=?HEATHER JOCK HUT
+Label=HEATHER JOCK HUT
 StreetDesc=- South Island > Otago > Queenstown/Wakatipu/ DOC Backcountry hut
-Data0=(-44.85421,168.45573)
+Data0=(-44.85423,168.45574)
 [END]
 
 ;1117015
@@ -73756,9 +73756,9 @@ Data0=(-42.73984,171.83014)
 ;1117150
 [POI]
 Type=0x2f
-Label=?LONELY LAKE HUT
+Label=LONELY LAKE HUT
 StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Golden Bay/ DOC Backcountry 
-Data0=(-40.98256,172.55811)
+Data0=(-40.98260,172.55811)
 [END]
 
 ;1117151
@@ -73900,9 +73900,9 @@ Data0=(-42.64831,172.01843)
 ;1117172
 [POI]
 Type=0x2f
-Label=?MAC'S HUT
+Label=MAC'S HUT
 StreetDesc=Wakatipu/ DOC Backcountry hut
-Data0=(-44.83149,168.45639)
+Data0=(-44.83161,168.45647)
 [END]
 
 ;1117173
@@ -74036,9 +74036,9 @@ Data0=(-43.37829,170.77558)
 ;1117220
 [POI]
 Type=0x2f
-Label=?MCINTYRE'S HUT
+Label=MCINTYRE'S HUT
 StreetDesc=South Island > Otago > Queenstown/Wakatipu/ DOC Backcountry hut
-Data0=(-44.83733,168.44431)
+Data0=(-44.83746,168.44433)
 [END]
 
 ;1117221
@@ -74212,9 +74212,9 @@ Data0=(-43.44833,170.69361)
 ;1117250
 [POI]
 Type=0x2f
-Label=?MOA STREAM HUT
+Label=MOA STREAM HUT
 StreetDesc=Craigieburn Conservation Park, Waimakariri - South Island > Canterbury > North C
-Data0=(-43.13043,171.25926)
+Data0=(-43.12915,171.26064)
 [END]
 
 ;1117252
@@ -74652,7 +74652,7 @@ Data0=(-41.78687,173.68355)
 ;1117343
 [POI]
 Type=0x2f
-Label=?PERRY SADDLE HUT
+Label=PERRY SADDLE HUT
 StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Golden Bay/ DOC Backcountry 
 Data0=(-40.90098,172.40277)
 [END]
@@ -75732,9 +75732,9 @@ Data0=(-42.85473,171.84268)
 ;1117550
 [POI]
 Type=0x2f
-Label=?TUNNEL CREEK HUT
+Label=TUNNEL CREEK HUT
 StreetDesc=Stewardship land - South Island > West Coast > South Westland/ DOC Backcountry h
-Data0=(-43.81846,169.53700)
+Data0=(-43.81978,169.53800)
 [END]
 
 ;1117551
@@ -75956,25 +75956,25 @@ Data0=(-40.91438,172.92004)
 ;1117601
 [POI]
 Type=0x2f
-Label=?WAIRAURAHIRI HUT
+Label=WAIRAURAHIRI HUT
 StreetDesc=Fiordland Ntl Park/Private Land, Murihiku - South Island > Fiordland > Fiordland
-Data0=(-46.25439,167.21919)
+Data0=(-46.25395,167.21733)
 [END]
 
 ;1117604
 [POI]
 Type=0x2f
-Label=?WAITUTU HUT
+Label=WAITUTU HUT
 StreetDesc=Fiordland Ntl Park, Murihiku - South Island > Fiordland > Fiordland/ DOC Backcou
-Data0=(-46.23706,167.06478)
+Data0=(-46.23718,167.06317)
 [END]
 
 ;1117606
 [POI]
 Type=0x2f
-Label=?WALLERS HUT
+Label=WALLERS HUT
 StreetDesc=Wakatipu/ DOC Backcountry hut
-Data0=(-44.85250,168.48362)
+Data0=(-44.85233,168.48368)
 [END]
 
 ;1117607
@@ -78382,7 +78382,7 @@ Data0=(-46.59832,168.34488)
 
 ;1118587
 [POI]
-Type=0x2f08
+Type=0x2f
 Label=STEWART ISLAND FERRIES
 StreetDesc=Eglin Terrace, Stewart Island/ Ferry
 Phone=0800000511
@@ -128925,7 +128925,7 @@ Data0=(-45.94342,169.26071)
 
 ;1141638
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Balaclava St O/S Telephone Exchange Wyndham/ Telecom, payphone, public phone box
 Phone=+6432064099
@@ -143584,15 +143584,6 @@ Phone=+6434439136
 Data0=(-44.70884,169.13627)
 [END]
 
-;1149000
-[POI]
-Type=0x2e05
-Label=ASPIRING PHARMACY
-StreetDesc=29 Helwick St, Wanaka/ Pharmacy
-Phone=+6434437986
-Data0=(-44.69594,169.13556)
-[END]
-
 ;1149001
 [POI]
 Type=0x2d0a
@@ -154857,7 +154848,7 @@ Data0=(-44.09586,170.23999)
 
 ;1156487
 [POI]
-Type=0x2d08
+Type=0x2f
 Label=ALPINE SPRING SPA
 StreetDesc=6 Lakeside Dr P.O. Box 150 Lake Tekapo 7945/ spa skating rink
 Phone=+6436806550
@@ -157614,7 +157605,7 @@ Data0=(-43.73003,172.59147)
 
 ;1158554
 [POI]
-Type=0x6412
+Type=0x2f
 Label=LITTLE RIVER RAIL TRAIL ACCESS POINT
 StreetDesc=180-232 Park Rd, Canterbury 7672, New Zealand/ 
 Data0=(-43.73003,172.59147)
@@ -170360,7 +170351,7 @@ Data0=(-43.50601,172.56246)
 
 ;1165287
 [POI]
-Type=0x2d07
+Type=0x2d00
 Label=CHRISTCHURCH-RICHMOND BOWLING CLUB
 StreetDesc=119 Petrie St, Shirley/ Bowling Club
 Phone=+6433853465
@@ -206651,7 +206642,7 @@ Data0=(-45.87434,170.50143)
 [POI]
 Type=0x2b00
 Label=LAST LIGHT LODGE AND CAFE
-StreetDesc=2 Clifden Highway, Tuatapere. 9620/ Accommodation, Tuatapere, Southland. Informa
+StreetDesc=2 Clifden Highway, Tuatapere. 9620/ Accommodation, Tuatapere, Southland, Informa
 Phone=+6432266667
 zip=Cafe 9 to 5 daily/ Lodge Daily till late
 Data0=(-46.12730,167.67444)
@@ -206660,11 +206651,11 @@ Data0=(-46.12730,167.67444)
 ;1188994
 [POI]
 Type=0x2f
-Label=?PHARMACY WANAKA
-StreetDesc=Aspiring Pharmacy Wanaka, 29 Helwick St, Wanaka/ pharmacy wanaka, wanaka pharmac
+Label=ASPIRING PHARMACY WANAKA
+StreetDesc=29 Helwick St, Wanaka/ pharmacy wanaka, wanaka pharmacy, chemist wanaka, aspirin
 Phone=+6434437986
 zip=7 days a week
-Data0=(-44.18745,171.38393)
+Data0=(-44.69584,169.13559)
 [END]
 
 ;1188998
@@ -206674,5 +206665,15 @@ Label=IZONE SOUTHERN BUSINESS HUB
 StreetDesc=20 Illinois Dr, Izone Business Park, Rolleston, Chc/ Business park
 Phone=0800569455
 Data0=(-43.58798,172.37497)
+[END]
+
+;1189013
+[POI]
+Type=0x2f
+Label=?FRESH COMMERCIAL CLEANING 24HR
+StreetDesc=PO Box 36-776, Merivale, ChCh 8146/ Christchurch based commercial cleaning & off
+Phone=+6433524259
+zip=24 hrs
+Data0=(-43.51740,172.62017)
 [END]
 

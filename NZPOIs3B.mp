@@ -11568,7 +11568,7 @@ Data0=(-46.23069,169.75375)
 
 ;1038227
 [POI]
-Type=0x2f01
+Type=0x2c00
 Label=FAREWELL SPIT ECO TOURS
 StreetDesc=Tasman St, Collingwood, Golden Bay/ Eco tours, lighthouse tours, gannet colony t
 Phone=+6435248257
@@ -13380,7 +13380,7 @@ Data0=(-43.90764,171.74962)
 
 ;1044135
 [POI]
-Type=0x2e09
+Type=0x2e0b
 Label=NOEL LEEMING BLENHEIM
 StreetDesc=Cnr Queen & Charles St, Blenheim/ Electric appliances, whiteware, computers, gam
 Phone=+6435784570
@@ -16052,7 +16052,7 @@ Data0=(-43.90649,171.74908)
 
 ;1053802
 [POI]
-Type=0x2d
+Type=0x2e
 Label=UNITED VIDEO BALCLUTHA
 StreetDesc=25 James St, Balclutha/ Video & DVD rental
 Phone=+6434182409
@@ -17050,7 +17050,7 @@ Data0=(-44.39683,171.25030)
 
 ;1056840
 [POI]
-Type=0x2f0d
+Type=0x2f
 Label=AA CENTRE - BLENHEIM
 StreetDesc=23 Maxwell Rd, Blenheim/ Travel advice, maps, accommodation guide, drivers licen
 Phone=+6435783399
@@ -23004,7 +23004,7 @@ Data0=(-42.40381,173.68165)
 
 ;1074781
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=ADELPHI HOTEL AND LODGE: SIR CEDRICS
 StreetDesc=26 West End, Kaikoura/ Hotel and Backpackers lodge accommodation. BBH member.
 Phone=+6433195141
@@ -32531,7 +32531,7 @@ Data0=(-41.29095,173.27004)
 
 ;1094339
 [POI]
-Type=0x2a07
+Type=0x2b00
 Label=KARAMEA VILLAGE HOTEL
 StreetDesc=141 Waverley St, Karamea/ Accommodation. Restaurant, bar, takeaways
 Phone=+6437826800
@@ -73115,7 +73115,7 @@ Data0=(-42.70379,172.09593)
 
 ;1117042
 [POI]
-Type=0x6402
+Type=0x2f
 Label=HURUNUI NO. 3 HUT
 StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > Canterbury > North C
 Data0=(-42.70083,171.98796)
@@ -92329,7 +92329,7 @@ Data0=(-46.04000,168.31167)
 
 ;1123378
 [POI]
-Type=0x5904
+Type=0x2f04
 Label=CHRISTCHURCH HOSPITAL HELIPORT
 StreetDesc=/ NZJC
 zip=Non-certificated
@@ -128943,7 +128943,7 @@ Data0=(-46.31234,168.78459)
 
 ;1141640
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=143 Main St O/S Accountants Gore/ Telecom, payphone, public phone box
 Phone=+6432081057
@@ -170369,7 +170369,7 @@ Data0=(-43.48489,171.96760)
 
 ;1165289
 [POI]
-Type=0x2d07
+Type=0x2d00
 Label=MT PLEASANT BOWLING CLUB
 StreetDesc=Main Rd, Mt Pleasant/ Bowling Club
 Phone=+6433841242
@@ -196037,7 +196037,7 @@ Data0=(-43.54486,172.64364)
 
 ;1176995
 [POI]
-Type=0x2f0b
+Type=0x2b00
 Label=BLUE PEAKS APARTMENTS QUEENSTOWN NEW ZEALAND
 StreetDesc=Cnr Stanley & Sydney Streets Queenstown/ Luxury 2 and 3 bedroom serviced apartme
 Phone=+34410437
@@ -201082,7 +201082,7 @@ Data0=(-41.45048,173.93881)
 
 ;1179626
 [POI]
-Type=0x2f
+Type=0x2f08
 Label=INVERCARGILL RAILWAY STATION
 StreetDesc=3 Leven St, Invercargill 9810, Nieuw-Zeeland/ bus, train, travel
 Data0=(-46.41145,168.34580)
@@ -201508,7 +201508,7 @@ Data0=(-41.52587,173.95498)
 
 ;1179988
 [POI]
-Type=0x2f
+Type=0x2f03
 Label=RUSSELL'S PAINT AND PANEL
 StreetDesc=2 Park Terrace, Blenheim/ Panel beaters, Car Painters, Collision Repair
 Phone=+6435787864
@@ -201779,7 +201779,7 @@ Data0=(-43.90733,171.74694)
 
 ;1180204
 [POI]
-Type=0x2f
+Type=0x2e
 Label=MADDISON ROSE FLORIST
 StreetDesc=Northlands Shopping Mall, 55 Main North Rd, Papanui, Chc/ Florist
 Phone=+6433524010
@@ -201788,7 +201788,7 @@ Data0=(-43.49231,172.61046)
 
 ;1180205
 [POI]
-Type=0x2f
+Type=0x2e
 Label=MADDISON ROSE FLORIST
 StreetDesc=L 1, Kiosk 6, Westfield Riccarton, 129 Riccarton Rd, Riccarton, Chc/ Florist
 Phone=+6433488222

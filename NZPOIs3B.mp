@@ -10713,7 +10713,7 @@ Data0=(-45.09831,170.96805)
 ;1035525
 [POI]
 Type=0x2f01
-Label=SHELL SHIRLEY 24HR
+Label=Z ENERGY SHIRLEY (SHELL) 24HR
 StreetDesc=7 Marshland Rd, Shirley/ Shell petrol station
 Phone=+6433852706
 zip=24hrs
@@ -35789,10 +35789,10 @@ Data0=(-44.39461,171.25192)
 ;1096537
 [POI]
 Type=0x2e07
-Label=JEAN JONES MERIVALE
-StreetDesc=Shop 16, Merivale Mall, 189 Papanui Rd, Merivale/ Women's fashion
-Phone=+6433557005
-Data0=(-43.51253,172.62182)
+Label=JEAN JONES PAPANUI
+StreetDesc=474 Papanui Ave, Chc/ Women's fashion
+Phone=+6433549165
+Data0=(-43.49754,172.60869)
 [END]
 
 ;1096555
@@ -56644,10 +56644,10 @@ Data0=(-44.25634,169.83051)
 ;1109112
 [POI]
 Type=0x2f
-Label=MARKHAMS MRI (CHRISTCHURCH) LTD
-StreetDesc=L 5, 144 Kilmore St, Chc/ 
+Label=MARKHAMS CHRISTCHURCH LIMITED
+StreetDesc=116 Marshland Rd, Shirley, Chc/ Chartered Accountants and Business Advisors
 Phone=+6433796710
-Data0=(-43.52671,172.63865)
+Data0=(-43.49920,172.66240)
 [END]
 
 ;1109115
@@ -186430,7 +186430,7 @@ Data0=(-45.54979,170.73359)
 Type=0x2c04
 Label=ST PATRICKS BASILICA
 StreetDesc=64 Reed St, Oamaru/ Historic Place: Category 1
-Data0=(-45.09308,170.96969)
+Data0=(-45.09314,170.96990)
 [END]
 
 ;1172649
@@ -193060,7 +193060,7 @@ Data0=(-43.52065,172.62913)
 [POI]
 Type=0x2f
 Label=A1 SCREENPRINT
-StreetDesc=2/28 Tanya St, Bromley, Chc/ Printer Industrial Screen Printers. mouse pads, nz,
+StreetDesc=2/28 Tanya St, Bromley, Chc/ Printer Industrial Screen Printers. mouse pads, Dig
 Phone=+6433841553
 zip=8am-5pm
 Data0=(-43.54007,172.69572)
@@ -206642,9 +206642,9 @@ Data0=(-45.87434,170.50143)
 [POI]
 Type=0x2b00
 Label=LAST LIGHT LODGE AND CAFE
-StreetDesc=2 Clifden Highway, Tuatapere. 9620/ Accommodation, Tuatapere, Southland, Informa
+StreetDesc=2 Clifden Highway, Tuatapere, Southland 9620/ Backpacker Accommodation, Informat
 Phone=+6432266667
-zip=Cafe 9 to 5 daily/ Lodge Daily till late
+zip=Cafe 9 to 5 daily / Lodge Daily till lat
 Data0=(-46.12730,167.67444)
 [END]
 
@@ -206675,5 +206675,60 @@ StreetDesc=PO Box 36-776, Merivale, ChCh 8146/ Christchurch based commercial cle
 Phone=+6433524259
 zip=24 hrs
 Data0=(-43.51740,172.62017)
+[END]
+
+;1189016
+[POI]
+Type=0x2f
+Label=STAT SCRUBS
+StreetDesc=Unit 1/48 Lismore St, Chc/ Surgical Scrubs, Medical Uniforms, and a large range 
+Phone=+6433390335
+Data0=(-43.54372,172.65302)
+[END]
+
+;1189019
+[POI]
+Type=0x2f
+Label=SAINT PATRICKS YOUTH
+StreetDesc=64 Reed St, Oamaru/ 
+zip=Friday eve 7pm to 10pm
+Data0=(-45.09314,170.96990)
+[END]
+
+;1189022
+[POI]
+Type=0x2f
+Label=MEATERS OF MARLBOROUGH
+StreetDesc=133 Maxwell Rd, Blenheim, Marlborough 7201/ Butcher, Delicatessen
+Phone=+6435783751
+Data0=(-41.52531,173.94569)
+[END]
+
+;1189029
+[POI]
+Type=0x2f
+Label=?HORIZON INTERNATIONAL PAVING LTD
+StreetDesc=247 Vickerman St Blenheim/ Horizon International, full complement of paving prod
+Phone=0800682745
+Data0=(-41.49271,173.97767)
+[END]
+
+;1189031
+[POI]
+Type=0x2f
+Label=OXYGEN IT
+StreetDesc=355c Riccarton Rd, Upper Riccarton, Chc/ Computing, hosting, cloud, cloud comput
+Phone=+6433659905
+zip=09:00am to 5:00pm
+Data0=(-43.53190,172.57432)
+[END]
+
+;1189037
+[POI]
+Type=0x2f
+Label=?IAN BLACKWELL LTD
+StreetDesc=Bath Rd Riverton/ Ian Blackwell for NZ made products, wooden gifts and rimu timb
+Phone=+6494122045
+Data0=(-46.34683,168.01923)
 [END]
 

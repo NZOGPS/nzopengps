@@ -206732,3 +206732,12 @@ Phone=+6494122045
 Data0=(-46.34683,168.01923)
 [END]
 
+;1189045
+[POI]
+Type=0x2f
+Label=DR. KUMARI FERNANDO
+StreetDesc=30 Moray Place, Moray Chambers, Dud/ clinical psychologist, cbt, schema, depress
+zip=Tuesday-Thursday
+Data0=(-45.87444,170.50294)
+[END]
+

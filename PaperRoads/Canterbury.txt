@@ -111,7 +111,10 @@
 1030000039940	SADDLE RD	Lowry Hills Range (Canterbury, NZ)	12/11/2010 11:05:23 p.m.
 1030000039963	Church Street	Waikari
 1030000040008	Queen Street	Waikari	28/04/2010 2:56p.m.
+1030000040019	SMITHS RD	Broomfield (Canterbury, NZ)	5/08/2011 5:52p.m.
 1030000040023	Canterbury Terrace	Leithfield
+1030000040115	TOBINS RD	Broomfield (Canterbury, NZ)	5/08/2011 5:51p.m.
+1030000040132	MORRIS RD	Broomfield (Canterbury, NZ)	5/08/2011 5:50p.m.
 1030000040143	WATERLOO ST	Hawarden (Canterbury, NZ)	4/04/2011 9:14:03 p.m.
 1030000040144	WAIPARA NORTH BRANCH RD	MacDonald Downs (Canterbury, NZ)	4/04/2011 9:06:22 p.m.
 1030000040221	Hawkhurst Lane	Lyttelton

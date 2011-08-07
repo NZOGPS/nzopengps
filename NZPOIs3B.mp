@@ -10586,7 +10586,7 @@ Data0=(-43.53975,172.65277)
 ;1035098
 [POI]
 Type=0x2f01
-Label=SHELL LINWOOD 24HR
+Label=Z ENERGY LINWOOD (SHELL) 24HR
 StreetDesc=Cnr Linwood Ave And Cashel St, Chc/ Shell petrol station
 Phone=+6433898115
 zip=24hrs
@@ -123175,8 +123175,9 @@ Data0=(-45.88221,170.49850)
 [POI]
 Type=0x2f
 Label=ZAIBATSU HAIR ART
-StreetDesc=240E Forbury Rd, Dud/ Hairdressers
-Data0=(-45.91129,170.49002)
+StreetDesc=240E Forbury Rd, Dud/ Award winning hair stylists and hair colour experts provid
+Phone=+6434557882
+Data0=(-45.91126,170.48997)
 [END]
 
 ;1138542
@@ -168162,41 +168163,6 @@ Phone=+6437686440
 Data0=(-42.44842,171.21230)
 [END]
 
-;1163904
-[POI]
-Type=0x2f
-Label=COLLEY & ROBINSON OPTOMETRISTS
-StreetDesc=180 Papanui Rd, Merivale, Chc/ Optometrist. Eye exams, frames, glasses, contact 
-Data0=(-43.51256,172.62235)
-[END]
-
-;1163905
-[POI]
-Type=0x2f
-Label=COLLEY & ROBINSON OPTOMETRISTS
-StreetDesc=126 Hereford St, Chc/ Optometrist. Eye exams, frames, glasses, contact lenses, e
-Phone=+6433660926
-Data0=(-43.53215,172.63627)
-[END]
-
-;1163906
-[POI]
-Type=0x2f
-Label=COLLEY & ROBINSON OPTOMETRISTS
-StreetDesc=215 Linwood Ave, Linwood, Chc/ Optometrist. Eye exams, frames, glasses, contact 
-Phone=+6433899303
-Data0=(-43.53243,172.67178)
-[END]
-
-;1163907
-[POI]
-Type=0x2f
-Label=COLLEY & ROBINSON OPTOMETRISTS
-StreetDesc=6 Brynley St, Hornby, Chc/ Optometrist. Eye exams, frames, glasses, contact lens
-Phone=+6433556410
-Data0=(-43.54401,172.52760)
-[END]
-
 ;1163909
 [POI]
 Type=0x2f
@@ -168415,7 +168381,8 @@ Data0=(-41.51168,173.95191)
 [POI]
 Type=0x2f
 Label=OPSM EASTGATE
-StreetDesc=Eastgate Shopping Ctr, Cnr Linwood Ave and Buckleys Rd, Chc/ Optometrist. Eye ex
+StreetDesc=Shop 24, Eastgate Shopping Ctr, Cnr Linwood Ave and Buckleys Rd, Chc/ Optometris
+Phone=+6433815384
 Data0=(-43.53289,172.67495)
 [END]
 
@@ -206739,5 +206706,42 @@ Label=DR. KUMARI FERNANDO
 StreetDesc=30 Moray Place, Moray Chambers, Dud/ clinical psychologist, cbt, schema, depress
 zip=Tuesday-Thursday
 Data0=(-45.87444,170.50294)
+[END]
+
+;1189048
+[POI]
+Type=0x2f
+Label=DUNCROFT RADIOLOGY
+StreetDesc=L 7 John Wickliffe House, 265 Princes St, Dud/ A digital diagnostic radiology se
+Phone=0800779990
+zip=9am to 5pm Monday - Friday
+Data0=(-45.87804,170.50178)
+[END]
+
+;1189049
+[POI]
+Type=0x2f
+Label=?PASSENGER TRANSPORT CITIBUS
+StreetDesc=Transport Place Dud 9016/ Regular, scheduled public transport bus services for t
+Phone=+6434741669
+Data0=(-45.88410,170.49782)
+[END]
+
+;1189055
+[POI]
+Type=0x2f
+Label=BUDGET EYEWEAR HORNBY
+StreetDesc=6 Brynley St, Hornby/ Optometrist. Eye exams, frames, glasses, contact lenses, e
+Phone=+6433496800
+Data0=(-43.54403,172.52759)
+[END]
+
+;1189056
+[POI]
+Type=0x2f
+Label=OPSM THE PALMS
+StreetDesc=Shop 27 The Palms, Cnr New Brighton & Marshland Rd, Shirley, Chc/ Optometrist. E
+Phone=+6433861690
+Data0=(-43.50701,172.66404)
 [END]
 

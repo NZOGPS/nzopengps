@@ -64473,8 +64473,8 @@ Data0=(-43.54160,172.64339)
 ;1113525
 [POI]
 Type=0x2f
-Label=SONNTAG FOX ELECTRIC LTD
-StreetDesc=381 Princes St, Dud/ 
+Label=SONNTAG FOX ELECTRIC
+StreetDesc=381 Princes St, Dud, 9016/ Washing machines, dishwashers, ovens, dryers, fridges
 Phone=+6434778845
 Data0=(-45.88002,170.50063)
 [END]
@@ -189067,9 +189067,9 @@ Data0=(-43.52972,172.64216)
 [POI]
 Type=0x2f
 Label=BEGG'S MUSIC LTD
-StreetDesc=614 Colombo St, Chc 8011, New Zealand/ Begg's Music Centre, Acoustic Guitars, El
+StreetDesc=Southcity mall, 555 Colombo St, Chc/ Begg's Music Centre, Acoustic Guitars, Elec
 Phone=+6433662499
-Data0=(-43.53577,172.63678)
+Data0=(-43.53837,172.63530)
 [END]
 
 ;1173517
@@ -204627,7 +204627,7 @@ Data0=(-43.53956,172.56680)
 ;1181382
 [POI]
 Type=0x2f
-Label=SIMS & BLUE PAINTERS & DECORATORS
+Label=SIMS & BLUE LIMITED PAINTERS & DECORATORS
 StreetDesc=23 Braemar St, South Dud, Dud/ For paint and paintwork of exceptional quality ou
 Phone=+6434550488
 zip=8.00am - 5.30pm Monday-Friday
@@ -206743,5 +206743,39 @@ Label=OPSM THE PALMS
 StreetDesc=Shop 27 The Palms, Cnr New Brighton & Marshland Rd, Shirley, Chc/ Optometrist. E
 Phone=+6433861690
 Data0=(-43.50701,172.66404)
+[END]
+
+;1189063
+[POI]
+Type=0x2f
+Label=STRONG'S WATCHMAKER SHOP
+StreetDesc=Leven St, NASEBY/ Historic Place: Category 1
+Data0=(-45.02344,170.14723)
+[END]
+
+;1189064
+[POI]
+Type=0x2f
+Label=ST GEORGE'S ANGLICAN CHURCH
+StreetDesc=46 Derwent St, NASEBY/ 
+Data0=(-45.02743,170.14443)
+[END]
+
+;1189066
+[POI]
+Type=0x2f
+Label=BENMORE STATION COMPLEX
+StreetDesc=Corner 1567 State Highway 8 (Twizel-Omarama Rd) and Lake Ohau Rd, Clearburn, OMA
+Data0=(-44.35672,170.00105)
+[END]
+
+;1189090
+[POI]
+Type=0x2f
+Label=NZ TAX REFUNDS
+StreetDesc=95 Montreal St/ Tax refund, refund, IRD, nz tax refunds, tax back, money
+Phone=0800030405
+zip=9.00am - 5.00pm
+Data0=(-43.54298,172.63028)
 [END]
 

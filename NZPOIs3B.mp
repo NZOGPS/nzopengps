@@ -645,7 +645,7 @@ Data0=(-41.51491,173.95579)
 
 ;1002674
 [POI]
-Type=0x2a0a
+Type=0x2a
 Label=PIZZA HUT BRYNDWR
 StreetDesc=261 Greers Rd, Bryndwr, Chc/ pizza, takeaways
 Phone=0800838383
@@ -11657,7 +11657,7 @@ Data0=(-46.14540,168.32712)
 
 ;1038458
 [POI]
-Type=0x2f01
+Type=0x2e02
 Label=KAITERITERI STORE
 StreetDesc=Kaiteriteri Sandy Bay Rd, Kaiteriteri Beach/ General store, groceries, NPD Mobil
 Data0=(-41.03691,173.01726)
@@ -16061,7 +16061,7 @@ Data0=(-46.23971,169.73764)
 
 ;1053809
 [POI]
-Type=0x2d
+Type=0x2e
 Label=UNITED VIDEO BLENHEIM
 StreetDesc=22 Kinross St, Blenheim/ Video & DVD rental
 Phone=+6435785058
@@ -23229,7 +23229,7 @@ Data0=(-41.80236,172.84683)
 
 ;1075061
 [POI]
-Type=0x2b01
+Type=0x2b00
 Label=EMPIRE HOTEL BACKPACKERS
 StreetDesc=13 Thames St, Oamaru/ Backpacker accommodation
 Phone=+6434343446
@@ -36369,7 +36369,7 @@ Data0=(-43.49294,172.60942)
 
 ;1097125
 [POI]
-Type=0x3003
+Type=0x2f
 Label=WORK & INCOME AKAROA
 StreetDesc=Akaroa Resource Collective, 106 Rue Jolie, Akaroa/ WINZ
 Phone=0800559009
@@ -37382,7 +37382,7 @@ Data0=(-43.52858,172.63662)
 
 ;1098447
 [POI]
-Type=0x2a0e
+Type=0x2f
 Label=E BLAH BLAH
 StreetDesc=Crystal Plaza, 77 Cathedral Sq, Chc/ Internet cafe, games, laptop stations, lugg
 Phone=+6433772381
@@ -65378,7 +65378,7 @@ Data0=(-43.54133,172.64057)
 [POI]
 Type=0x2f
 Label=STEELBRO NEW ZEALAND LTD
-StreetDesc=1-31 Treffers Rd, Sockburn, Chc/ Container handling solutions. Manufacturer of t
+StreetDesc=1-31 Treffers Rd, Sockburn, Chc/ Producing innovative container handling equipme
 Phone=+6433488499
 zip=08:00 - 17:00
 Data0=(-43.54458,172.57078)
@@ -74659,7 +74659,7 @@ Data0=(-40.90098,172.40277)
 
 ;1117344
 [POI]
-Type=0x6402
+Type=0x2f
 Label=?PFEIFER BIVVY (BIVOUAC)
 StreetDesc=Arthur's Pass Ntl Park, Waimakariri - South Island > West Coast > Hokitika/ DOC 
 Data0=(-42.80339,171.66557)
@@ -78262,7 +78262,7 @@ Data0=(-43.51655,172.57279)
 
 ;1118562
 [POI]
-Type=0x2d02
+Type=0x2a
 Label=KHMER SATAY NOODLE HOUSE RICCARTON
 StreetDesc=128 Riccarton Rd, Riccarton, Chc/ Restaurant, noodle bar, Asian food
 Phone=+6433415171
@@ -128953,7 +128953,7 @@ Data0=(-46.09989,168.94524)
 
 ;1141641
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 1 Main St O/S Camping Ground Gore/ Telecom, payphone, public phone box
 Phone=+6432085616
@@ -144360,7 +144360,7 @@ Data0=(-43.54175,172.57206)
 
 ;1150482
 [POI]
-Type=0x3005
+Type=0x2f
 Label=FIORDLAND COMMUNITY EVENTS CENTRE
 StreetDesc=20-22 Luxmore Dr, Te Anau/ Hall, Stadium,
 Phone=+6432497404
@@ -144806,7 +144806,7 @@ Data0=(-45.86607,170.50946)
 
 ;1150657
 [POI]
-Type=0x4a00
+Type=0x2f
 Label=DROMORE REST AREA
 StreetDesc=Rakaia Highway/ rest area
 Data0=(-43.83701,171.85058)
@@ -170085,7 +170085,7 @@ Data0=(-45.05372,169.67367)
 Type=0x2b00
 Label=CROW'S NEST ACCOMMODATION
 StreetDesc=Ida Valley Omakau Rd, Oturehua/ Accommodation
-Phone=+6421025688
+Phone=+6422697043
 Data0=(-45.00549,169.91380)
 [END]
 
@@ -170345,7 +170345,7 @@ Data0=(-43.55757,172.71057)
 
 ;1165290
 [POI]
-Type=0x2d07
+Type=0x2d00
 Label=PARKLANDS BOWLING CLUB
 StreetDesc=30 Chadbury St, Parklands/ Bowling Club
 Phone=+6433833365
@@ -181613,7 +181613,7 @@ Data0=(-45.18802,169.32139)
 
 ;1171109
 [POI]
-Type=0x6412
+Type=0x2f
 Label=CLYDE TRAILHEAD. OCRT
 StreetDesc=Springvale Rd, Clyde/ Trailhead, Otago Central Rail Trail
 Data0=(-45.19501,169.33577)
@@ -183803,7 +183803,7 @@ Data0=(-43.54516,172.64702)
 
 ;1171889
 [POI]
-Type=0x5200
+Type=0x2f
 Label=BLUFF HILL LOOKOUT
 StreetDesc=Flagstaff Rd, Bluff, Southland 9814, New Zealand/ Scenic Tourist Lookout
 Data0=(-46.61484,168.33809)
@@ -189380,7 +189380,7 @@ Data0=(-43.53935,172.63247)
 
 ;1173580
 [POI]
-Type=0x5400
+Type=0x2d09
 Label=GLACIER HOT POOLS
 StreetDesc=Cron St, Franz Josef Glacier/ Hot pools. Tourist attraction & visitor activity
 Phone=0800044044
@@ -197537,7 +197537,7 @@ Data0=(-44.98025,168.68594)
 
 ;1177852
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Lillburn Valley Rd, Fiordland Ntl Park/ Boat Ramp
 Data0=(-45.99018,167.38203)
@@ -206777,5 +206777,14 @@ StreetDesc=95 Montreal St/ Tax refund, refund, IRD, nz tax refunds, tax back, mo
 Phone=0800030405
 zip=9.00am - 5.00pm
 Data0=(-43.54298,172.63028)
+[END]
+
+;1189103
+[POI]
+Type=0x2f
+Label=ALPINE VILLAGE QUEENSTOWN
+StreetDesc=643 Frankton Rd Queenstown, Otago 9300, New Zealand/ Queenstown self contained w
+Phone=+6434421734
+Data0=(-45.02210,168.70212)
 [END]
 

@@ -654,7 +654,7 @@ Data0=(-43.49985,172.58579)
 
 ;1002688
 [POI]
-Type=0x2a0a
+Type=0x2a
 Label=PIZZA HUT CHURCH CORNER
 StreetDesc=Corner Riccarton & Waimairi Roads, Chc/ pizza, takeaways
 Phone=0800838383
@@ -13390,7 +13390,7 @@ Data0=(-41.51287,173.95338)
 
 ;1044156
 [POI]
-Type=0x2e09
+Type=0x2e0b
 Label=NOEL LEEMING CONNECT NORTHLANDS
 StreetDesc=Shop 97, Northlands Shopping Mall, 55 Main North Rd, Papanui, Chc/ Electric appl
 Phone=+6433520880
@@ -17099,7 +17099,7 @@ Data0=(-43.53032,172.59788)
 
 ;1057113
 [POI]
-Type=0x2e
+Type=0x2f
 Label=RAY WHITE QUEENSTOWN
 StreetDesc=1 Church St, Queenstown/ Real estate agency
 Phone=+6434427177
@@ -17108,7 +17108,7 @@ Data0=(-45.03227,168.66213)
 
 ;1057120
 [POI]
-Type=0x2e
+Type=0x2f
 Label=RAY WHITE GORE
 StreetDesc=1 Main St, Gore/ Real estate agency
 Phone=+6432089490
@@ -27913,7 +27913,7 @@ Data0=(-43.53212,172.48574)
 
 ;1086723
 [POI]
-Type=0x2b01
+Type=0x2b00
 Label=HORORATA HOTEL
 StreetDesc=15 Hororata Rd, Hororata/ Pub, Bar, Accommodation, Mini golf, TAB Self service o
 Phone=+6433180841
@@ -30143,7 +30143,7 @@ Data0=(-45.18656,169.31579)
 
 ;1091665
 [POI]
-Type=0x2b01
+Type=0x2b00
 Label=AL PARK VIEW MOTEL
 StreetDesc=12 Bantry St, Alexandra 9320, Central Otago./ Accommodation, 8 x self-contained.
 Phone=+6434487400
@@ -31254,7 +31254,7 @@ Data0=(-45.19195,169.32028)
 
 ;1093698
 [POI]
-Type=0x2f
+Type=0x4c
 Label=KAIAPOI I-SITE VISITOR CENTRE
 StreetDesc=Corner of Raven St and Williams St, Kaiapoi/ Visitor information
 Phone=+6433273134
@@ -32928,7 +32928,7 @@ Data0=(-43.46835,172.67975)
 
 ;1094498
 [POI]
-Type=0x2f
+Type=0x2e
 Label=JOHN CYCLES & SERVICING
 StreetDesc=61 New Brighton Mall, New Brighton, Chc/ Bicycle sales and service
 Phone=+6433881806
@@ -36379,7 +36379,7 @@ Data0=(-43.80898,172.96350)
 
 ;1097127
 [POI]
-Type=0x3003
+Type=0x2f
 Label=WORK & INCOME ASHBURTON
 StreetDesc=Cnr Cass & Moore Streets, Ashburton/ WINZ
 Phone=0800559009
@@ -40495,7 +40495,7 @@ Data0=(-46.23873,169.73378)
 
 ;1100297
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=SHINING STAR BEACHFRONT ACCOMMODATION
 StreetDesc=16 Richards Dr, Hokitika/ Motel & chalet accommodation: powered caravan/camperva
 Phone=+6437558921
@@ -40620,7 +40620,7 @@ Data0=(-44.25644,170.09821)
 
 ;1100325
 [POI]
-Type=0x2a0e
+Type=0x2f
 Label=AURORA INTERNET CAFE
 StreetDesc=161 Trafalgar St, Nelson City/ Internet, Cafe, CD burning, DVD burning, fax, pho
 Phone=+6435466867
@@ -74947,7 +74947,7 @@ Data0=(-41.19900,172.43147)
 
 ;1117396
 [POI]
-Type=0x6402
+Type=0x2f
 Label=ROCKBURN HUT/ MCINTYRES HUT
 StreetDesc=Mount Aspiring Ntl Park - South Island > Otago > Queenstown/Wakatipu/ DOC Backco
 Data0=(-44.67040,168.30984)
@@ -78271,7 +78271,7 @@ Data0=(-43.52975,172.59824)
 
 ;1118563
 [POI]
-Type=0x2d02
+Type=0x2a
 Label=KHMER SATAY NOODLE HOUSE CHRISTCHURCH
 StreetDesc=605 Colombo St Chc/ Noodle bar, Asian food
 Phone=+6433746422
@@ -79786,7 +79786,7 @@ Data0=(-43.06514,172.75374)
 
 ;1119379
 [POI]
-Type=0x2a0e
+Type=0x2f
 Label=DUBDUBDUB
 StreetDesc=48 Helwick St, Wanaka/ Internet cafe, photos to CD, scanning, printing
 Phone=+6434434440
@@ -90437,7 +90437,7 @@ Data0=(-41.29187,174.00777)
 
 ;1122340
 [POI]
-Type=0x2e07
+Type=0x2e
 Label=REBEL SPORT TIMARU
 StreetDesc=284 Stafford St, Timaru/ Sports gear & apparel, Fitness Equipment
 Phone=+6436879040
@@ -92365,7 +92365,7 @@ Data0=(-42.77000,172.89014)
 
 ;1123387
 [POI]
-Type=0x5904
+Type=0x2f04
 Label=DUNEDIN CITY HELIPORT
 StreetDesc=/ NZDC
 zip=Non-certificated
@@ -92374,7 +92374,7 @@ Data0=(-45.88333,170.50833)
 
 ;1123388
 [POI]
-Type=0x5904
+Type=0x2f04
 Label=DUNEDIN HOSPITAL HELIPORT
 StreetDesc=On top of Hospital, N.E. corner./ NZDH
 zip=Non-certificated
@@ -112351,7 +112351,7 @@ Data0=(-40.88223,172.81223)
 
 ;1134118
 [POI]
-Type=0x2f08
+Type=0x2f
 Label=INTERISLANDER FERRY VEHICLE CHECKIN PICTON
 StreetDesc=Picton/ ferry
 Data0=(-41.28858,174.00265)
@@ -128962,7 +128962,7 @@ Data0=(-46.10913,168.93801)
 
 ;1141642
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=120 Main St, Gore/ Telecom, payphone, public phone box
 Phone=+6432085620
@@ -128971,7 +128971,7 @@ Data0=(-46.10179,168.94364)
 
 ;1141643
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=39 Medway St O/S Eagle Motorcycles Gore/ Telecom, payphone, public phone box
 Phone=+6432085622
@@ -144848,7 +144848,7 @@ Data0=(-45.85768,170.52745)
 
 ;1150664
 [POI]
-Type=0x4a00
+Type=0x2f
 Label=PORTERS PASS REST AREA
 StreetDesc=SH73 West Coast Rd/ Rest Area
 Data0=(-43.32821,171.79107)
@@ -144856,7 +144856,7 @@ Data0=(-43.32821,171.79107)
 
 ;1150665
 [POI]
-Type=0x4a00
+Type=0x2f
 Label=BROKEN RIVER REST AREA
 StreetDesc=SH73 West Coast Rd/ rest area
 Data0=(-43.31119,171.76832)
@@ -148547,7 +148547,7 @@ Data0=(-43.53075,172.58538)
 
 ;1152122
 [POI]
-Type=0x2F09
+Type=0x2f
 Label=LYTTELTON MARINA
 StreetDesc=Magazine Bay, 1 Godley Qy, Lyttelton, Chc/ Marina
 Data0=(-43.60558,172.71045)
@@ -156921,7 +156921,7 @@ Data0=(-42.39959,173.67847)
 
 ;1158063
 [POI]
-Type=0x3005
+Type=0x2f
 Label=KAIKOURA MEMORIAL HALL
 StreetDesc=32 Esplanade, Kaikoura/ Function centre for hire
 Phone=+6433195026
@@ -157314,7 +157314,7 @@ Data0=(-41.80569,172.32453)
 
 ;1158258
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=HOTEL NOVOTEL CHRISTCHURCH
 StreetDesc=50 Cathedral Sq, Chc/ Hotel accommodation, restaurant & bar
 Phone=+6433722111
@@ -159502,7 +159502,7 @@ Data0=(-41.29490,174.00843)
 
 ;1159202
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=GREENACRES ALPINE CHALETS & VILLAS
 StreetDesc=84 Conical Hill Rd, Hanmer Springs/ Motel Accommodation
 Phone=+6433157125
@@ -159592,7 +159592,7 @@ Data0=(-41.27209,173.26268)
 
 ;1159233
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=HAVELOCK MOTEL
 StreetDesc=50 Main Rd, Havelock/ Motel accommodation
 Phone=+6435742961
@@ -159843,7 +159843,7 @@ Data0=(-43.58589,172.59707)
 
 ;1159293
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=PARKVIEW ON HAGLEY
 StreetDesc=1 Riccarton Rd, Riccarton, Chc/ Luxury hotel accommodation
 Phone=+6433480723
@@ -159973,7 +159973,7 @@ Data0=(-41.04445,173.01359)
 
 ;1159338
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=KAKA RETREAT
 StreetDesc=7 Miro Cres, Halfmoon Bay, Stewart Island/ Motel accommodation
 Phone=+6432191252
@@ -160218,7 +160218,7 @@ Data0=(-45.02542,168.69343)
 
 ;1159420
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=LARCHWOOD MOTEL
 StreetDesc=18 Bath St, Hanmer Springs/ Motel accommodation
 Phone=+6433157281
@@ -160411,7 +160411,7 @@ Data0=(-41.27162,173.31302)
 
 ;1159469
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=MAKARORA HOMESTEAD
 StreetDesc=53 Rata Rd, Makarora/ Motel accommodation
 Phone=+6434431532
@@ -161648,7 +161648,7 @@ Data0=(-41.48304,173.86467)
 
 ;1159838
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=STONEHURST ACCOMMODATION 24HR
 StreetDesc=241 Gloucester St, Latimer Sq, Chc/ Accommodation, backpackers, motel, apartment
 Phone=+6433794620
@@ -162317,7 +162317,7 @@ Data0=(-41.28576,173.24747)
 
 ;1160054
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=TUSSOCK PEAK MOTOR LODGE
 StreetDesc=2 Leamington St, Hanmer Springs/ Motel accommodation
 Phone=+6433155191
@@ -162334,7 +162334,7 @@ Data0=(-44.25968,170.09896)
 
 ;1160058
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=TWO TREE LODGE AND COTTAGE
 StreetDesc=24 Nelson St, Blenheim/ Motel accommodation. Fully equipped kitchen, self-contai
 Phone=+6435780274
@@ -162736,7 +162736,7 @@ Data0=(-41.27985,173.25045)
 
 ;1160300
 [POI]
-Type=0x4a00
+Type=0x2f
 Label=PEACE GROVE REST AREA
 StreetDesc=SH6 Queen Elizabeth II Dr, Nelson/ Rest Area
 Data0=(-41.26382,173.28727)
@@ -162754,7 +162754,7 @@ Data0=(-41.28009,173.25056)
 
 ;1160302
 [POI]
-Type=0x4a00
+Type=0x2f
 Label=CANVASTOWN REST AREA
 StreetDesc=State Highway 6, Canvastown, Marlborough/ Rest area
 Data0=(-41.28289,173.71805)
@@ -162762,7 +162762,7 @@ Data0=(-41.28289,173.71805)
 
 ;1160304
 [POI]
-Type=0x4a00
+Type=0x2f
 Label=RAI VALLEY REST AREA
 StreetDesc=State Highway 6, Rai Valley, Marlborough/ Rest area
 Data0=(-41.17917,173.55892)
@@ -162770,7 +162770,7 @@ Data0=(-41.17917,173.55892)
 
 ;1160305
 [POI]
-Type=0x4a00
+Type=0x2f
 Label=HIRA REST AREA
 StreetDesc=State Highway 6, Whangamoa, Nelson/ Rest Area
 Data0=(-41.22723,173.40825)
@@ -170354,7 +170354,7 @@ Data0=(-43.47925,172.70569)
 
 ;1165291
 [POI]
-Type=0x2d07
+Type=0x2d00
 Label=SPREYDON BOWLING CLUB
 StreetDesc=71 Domain Terrace Spreydon/ Bowling Club
 Phone=+6433388105
@@ -181244,7 +181244,7 @@ Data0=(-43.54344,172.55839)
 
 ;1170880
 [POI]
-Type=0x2f0c
+Type=0x2c02
 Label=OXFORD MUSEUM
 StreetDesc=70 Main St Oxford/ Agriculture, History, Public toilet
 Phone=+6433121004
@@ -181663,7 +181663,7 @@ Data0=(-45.09128,169.60393)
 
 ;1171118
 [POI]
-Type=0x2f08
+Type=0x2c04
 Label=LAUDER RAILWAY STATION. OCRT
 StreetDesc=Lauder/ Old Railway Station, Otago Central Rail Trail
 Data0=(-45.05293,169.67253)
@@ -181671,7 +181671,7 @@ Data0=(-45.05293,169.67253)
 
 ;1171119
 [POI]
-Type=0x2f08
+Type=0x2c04
 Label=AURIPO RAILWAY STATION. OCRT
 StreetDesc=Auripo Rd, Auripo/ Old Railway Station, Otago Central Rail Trail
 Data0=(-45.04765,169.77836)
@@ -181687,7 +181687,7 @@ Data0=(-45.03593,169.82606)
 
 ;1171123
 [POI]
-Type=0x2f08
+Type=0x2c04
 Label=OTUREHUA RAILWAY STATION. OCRT
 StreetDesc=Oturehua/ Old Railway Station, Otago Central Rail Trail
 Data0=(-45.00753,169.91352)
@@ -181695,7 +181695,7 @@ Data0=(-45.00753,169.91352)
 
 ;1171125
 [POI]
-Type=0x2f08
+Type=0x2c04
 Label=WEDDERBURN RAILWAY STATION. OCRT
 StreetDesc=Maniototo Station Rd, Wedderburn/ Old Railway Station, Otago Central Rail Trail
 Data0=(-45.03111,170.01087)
@@ -181703,7 +181703,7 @@ Data0=(-45.03111,170.01087)
 
 ;1171126
 [POI]
-Type=0x2f08
+Type=0x2c04
 Label=RANFURLY RAILWAY STATION. OCRT
 StreetDesc=Charlemont St East, Ranfurly/ Old Railway Station, Otago Central Rail Trail
 Data0=(-45.13023,170.09915)
@@ -181711,7 +181711,7 @@ Data0=(-45.13023,170.09915)
 
 ;1171127
 [POI]
-Type=0x2f08
+Type=0x2c04
 Label=WAIPIATA RAILWAY STATION. OCRT
 StreetDesc=Factory Rd, Waipiata/ Old Railway Station, Otago Central Rail Trail
 Data0=(-45.18374,170.16102)
@@ -181719,7 +181719,7 @@ Data0=(-45.18374,170.16102)
 
 ;1171128
 [POI]
-Type=0x2f08
+Type=0x2c04
 Label=KOKONGA RAILWAY STATION. OCRT
 StreetDesc=Railway Rd, Kokonga/ Old Railway Station, Otago Central Rail Trail
 Data0=(-45.21071,170.25371)
@@ -181727,7 +181727,7 @@ Data0=(-45.21071,170.25371)
 
 ;1171129
 [POI]
-Type=0x2f08
+Type=0x2c04
 Label=TIROITI RAILWAY STATION. OCRT
 StreetDesc=Kyeburn Hyde Rd, Tiroiti/ Old Railway Station, Otago Central Rail Trail
 Data0=(-45.25936,170.26895)
@@ -181743,7 +181743,7 @@ Data0=(-45.30856,170.24616)
 
 ;1171131
 [POI]
-Type=0x2f08
+Type=0x2c04
 Label=ROCK AND PILLAR RAILWAY STATION. OCRT
 StreetDesc=Ngapuna Rd, Rock and Pillar/ Old Railway Station, Otago Central Rail Trail
 Data0=(-45.40140,170.19247)
@@ -181751,7 +181751,7 @@ Data0=(-45.40140,170.19247)
 
 ;1171133
 [POI]
-Type=0x2f08
+Type=0x2c04
 Label=NGAPUNA RAILWAY STATION. OCRT
 StreetDesc=Ngapuna Rd, Ngapuna/ Old Railway Station, Otago Central Rail Trail
 Data0=(-45.45611,170.15374)
@@ -181759,7 +181759,7 @@ Data0=(-45.45611,170.15374)
 
 ;1171134
 [POI]
-Type=0x2f08
+Type=0x2c04
 Label=MIDDLEMARCH RAILWAY STATION. OCRT
 StreetDesc=Snow Ave, Middlemarch/ Old Railway Station, Otago Central Rail Trail
 Data0=(-45.50805,170.12318)
@@ -188581,7 +188581,7 @@ Data0=(-41.51409,173.95464)
 
 ;1173272
 [POI]
-Type=0x2e
+Type=0x2f
 Label=BAYLEYS REAL ESTATE MOTUEKA
 StreetDesc=175 High St, Motueka/ real estate agents, rental property, property management
 Phone=+35285242
@@ -188590,7 +188590,7 @@ Data0=(-41.11130,173.01162)
 
 ;1173273
 [POI]
-Type=0x2e
+Type=0x2f
 Label=BAYLEYS REAL ESTATE NELSON
 StreetDesc=228 Trafalgar St, Nelson/ real estate agents, rental property, property manageme
 Phone=+35469455
@@ -188599,7 +188599,7 @@ Data0=(-41.27356,173.28386)
 
 ;1173274
 [POI]
-Type=0x2e
+Type=0x2f
 Label=BAYLEYS REAL ESTATE MARLBOROUGH
 StreetDesc=Cnr Charles and Seymour St, Blenheim/ real estate agents, rental property, prope
 Phone=+35787700
@@ -188608,7 +188608,7 @@ Data0=(-41.51259,173.95470)
 
 ;1173275
 [POI]
-Type=0x2e
+Type=0x2f
 Label=BAYLEYS REAL ESTATE KAIKOURA (VINING REALTY)
 StreetDesc=60 West End, Kaikoura/ real estate agents, rental property, property management
 Phone=+33197049
@@ -188617,7 +188617,7 @@ Data0=(-42.40148,173.68152)
 
 ;1173276
 [POI]
-Type=0x2e
+Type=0x2f
 Label=BAYLEYS REAL ESTATE HAREWOOD (RURAL SPECIALISTS)
 StreetDesc=L 2, 17 Sir William Pickering Dr, Harewood/ real estate agents, rental property,
 Phone=+33585566
@@ -188626,7 +188626,7 @@ Data0=(-43.49535,172.55923)
 
 ;1173277
 [POI]
-Type=0x2e
+Type=0x2f
 Label=BAYLEYS REAL ESTATE MERIVALE (RESIDENTIAL SPECIALISTS)
 StreetDesc=158 Leinster Rd Merivale/ real estate agents, rental property, property manageme
 Phone=+33754700
@@ -188635,7 +188635,7 @@ Data0=(-43.51087,172.61999)
 
 ;1173278
 [POI]
-Type=0x2e
+Type=0x2f
 Label=BAYLEYS REAL ESTATE RANGIORA
 StreetDesc=6 Durham St, Rangiora/ real estate agents, rental property, property management
 Phone=+33118020
@@ -188644,7 +188644,7 @@ Data0=(-43.30327,172.59210)
 
 ;1173279
 [POI]
-Type=0x2e
+Type=0x2f
 Label=BAYLEYS REAL ESTATE ASHBURTON
 StreetDesc=201 West St, Ashburton/ real estate agents, rental property, property management
 Phone=+33077377
@@ -188653,7 +188653,7 @@ Data0=(-43.90422,171.74664)
 
 ;1173280
 [POI]
-Type=0x2e
+Type=0x2f
 Label=BAYLEYS REAL ESTATE HANMER SPRINGS
 StreetDesc=10 Conical Hill Rd, Hanmer/ real estate agents, rental property, property manage
 Phone=+33157717
@@ -188663,7 +188663,7 @@ Data0=(-42.52149,172.82943)
 
 ;1173281
 [POI]
-Type=0x2e
+Type=0x2f
 Label=BAYLEYS REAL ESTATE QUEENSTOWN
 StreetDesc=50 Stanley St, Queenstown/ real estate agents, rental property, property managem
 Phone=+34500200
@@ -188672,7 +188672,7 @@ Data0=(-45.03098,168.66227)
 
 ;1173282
 [POI]
-Type=0x2e
+Type=0x2f
 Label=BAYLEYS SOUTHLAND REAL ESTATE
 StreetDesc=137 Spey St, Invercargill/ real estate agents, rental property, property managem
 Phone=+32187917
@@ -192786,7 +192786,7 @@ Data0=(-43.53100,172.59967)
 
 ;1174715
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=KING OF KNIVES RICCARTON
 StreetDesc=Shop 13A, Riccarton Mall, 129 Riccarton Rd, Riccarton, Chc/ Knives, Kitchen tool
 Phone=+33488670
@@ -192796,7 +192796,7 @@ Data0=(-43.53102,172.59739)
 
 ;1174716
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=?KING OF KNIVES THE PALMS
 StreetDesc=Shop TN4 The Palms Shopping Ctr, Cnr Marshlands & New Brighton Rds, Shirley, Chc
 Phone=+33860580
@@ -192806,7 +192806,7 @@ Data0=(-43.50358,172.66258)
 
 ;1174717
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=KING OF KNIVES NORTHLANDS
 StreetDesc=Shop 51, Northlands 55 Main North Rd, Papanui, Chc/ Knives, Kitchen tools
 Phone=+33544015
@@ -193485,7 +193485,7 @@ Data0=(-43.53057,172.63967)
 
 ;1175848
 [POI]
-Type=0x2e07
+Type=0x2e
 Label=STIRLING SPORTS BALCLUTHA
 StreetDesc=45 Clyde St, Balclutha/ Sports & outdoor equipment, gear, clothing, footwear & a
 Phone=+6434180466
@@ -193494,7 +193494,7 @@ Data0=(-46.23820,169.73910)
 
 ;1175849
 [POI]
-Type=0x2e07
+Type=0x2e
 Label=STIRLING SPORTS CROMWELL
 StreetDesc=2 The Mall, Cromwell/ Sports & outdoor equipment, gear, clothing, footwear & acc
 Phone=+6434453242
@@ -193503,7 +193503,7 @@ Data0=(-45.03668,169.19728)
 
 ;1175850
 [POI]
-Type=0x2e07
+Type=0x2e
 Label=STIRLING SPORTS GORE
 StreetDesc=18 Irk St, Gore/ Sports & outdoor equipment, gear, clothing, footwear & accessor
 Phone=+6432083438
@@ -193512,7 +193512,7 @@ Data0=(-46.09977,168.94380)
 
 ;1175851
 [POI]
-Type=0x2e07
+Type=0x2e
 Label=STIRLING SPORTS GREYMOUTH
 StreetDesc=31 Tainui St, Greymouth/ Sports & outdoor equipment, gear, clothing, footwear & 
 Phone=+6437685335
@@ -193521,7 +193521,7 @@ Data0=(-42.44900,171.21124)
 
 ;1175852
 [POI]
-Type=0x2e07
+Type=0x2e
 Label=STIRLING SPORTS RICHMOND
 StreetDesc=213 Queen St, Richmond, Nelson/ Sports & outdoor equipment, gear, clothing, foot
 Phone=+6435448290
@@ -193622,7 +193622,7 @@ Data0=(-43.60372,171.53945)
 
 ;1175929
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=ALLENTON FLORIST
 StreetDesc=85 Harrison St, Allenton, Ashburton/ Florist, flowers
 Phone=+6433083342
@@ -193631,7 +193631,7 @@ Data0=(-43.88665,171.74168)
 
 ;1175931
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=AMARYLLIS FOR FLOWERS
 StreetDesc=74b St Andrew St, Dud Central/ Florist, flowers
 Phone=+6434749074
@@ -193640,7 +193640,7 @@ Data0=(-45.87172,170.50585)
 
 ;1175932
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=AMBERLEY FLOWERS & GARDEN CENTRE
 StreetDesc=96b Carters Rd, Amberley/ Florist, flowers
 Phone=+6433148780
@@ -193649,7 +193649,7 @@ Data0=(-43.15441,172.72959)
 
 ;1175934
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=ANGELICA FLOWERS
 StreetDesc=518 Main Rd, Stoke, Nelson/ Florist, flowers
 Phone=+6435477688
@@ -193658,7 +193658,7 @@ Data0=(-41.31281,173.23394)
 
 ;1175944
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=BELLEFLEUR FLORIST
 StreetDesc=235 King Edward St, South Dud/ Florist, flowers
 Phone=+6434554123
@@ -193667,7 +193667,7 @@ Data0=(-45.89552,170.50003)
 
 ;1175953
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=BLOOMERS
 StreetDesc=4 Bayview Place, Timaru/ Florist, flowers
 Phone=+6436888844
@@ -193676,7 +193676,7 @@ Data0=(-44.39272,171.24681)
 
 ;1175956
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=BONFLEUR OF LINCOLN
 StreetDesc=7 Gerald St, Lincoln/ Florist, flowers
 Phone=+6433252994
@@ -193685,7 +193685,7 @@ Data0=(-43.64052,172.48394)
 
 ;1175958
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=BOUQUETS BALLOONS & BASKETS
 StreetDesc=51 New Brighton Mall, New Brighton, Chc/ Florist, flowers
 Phone=+6433889001
@@ -193694,7 +193694,7 @@ Data0=(-43.50780,172.72930)
 
 ;1175959
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=BOUQUETS FLORIST
 StreetDesc=299 Mt Pleasant Rd, Mt Pleasant, Chc/ Florist, flowers
 Phone=0800842547
@@ -193703,7 +193703,7 @@ Data0=(-43.57323,172.72165)
 
 ;1175960
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=BOURBON ROSE
 StreetDesc=Cnr Manchester St & Oxford Tce, Chc/ Florist, flowers
 Phone=+6433794330
@@ -193712,7 +193712,7 @@ Data0=(-43.52853,172.63949)
 
 ;1175967
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=BUDS AT BARRINGTONS
 StreetDesc=Barrington Mall 256 Barrington St, Spreydon, Chc/ Florist, flowers
 Phone=+6433373946
@@ -193721,7 +193721,7 @@ Data0=(-43.55671,172.61857)
 
 ;1175971
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=BUNTS FLORIST
 StreetDesc=21 New Regent St Chc/ Florist, flowers
 Phone=+6433668426
@@ -193730,7 +193730,7 @@ Data0=(-43.52931,172.63861)
 
 ;1175973
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=CASHMERE GALLERY
 StreetDesc=12 Colombo St, Cashmere, Chc/ Florist, flowers
 Phone=+6433320652
@@ -193739,7 +193739,7 @@ Data0=(-43.56705,172.63562)
 
 ;1175977
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=CITYWIDE FLORIST
 StreetDesc=Cnr Chancery Lane and 102 Gloucester St, Chc/ Florist, flowers
 Phone=+6433791234
@@ -193748,7 +193748,7 @@ Data0=(-43.52999,172.63531)
 
 ;1175981
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=CREATION FLORIST
 StreetDesc=146 Cashmere Rd Cashmere Chc/ Florist, flowers
 Phone=+6433398146
@@ -193766,7 +193766,7 @@ Data0=(-43.48957,172.10807)
 
 ;1175988
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=DUNEDIN FLOWERS
 StreetDesc=547 Andersons Bay Rd, South Dud/ Beautiful flowers & floral arrangements for wed
 Phone=+6434555644
@@ -193776,7 +193776,7 @@ Data0=(-45.89720,170.50880)
 
 ;1175992
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=FIELDS DESIGNER FLORIST
 StreetDesc=51a Queen St, Richmond, Nelson/ Florist, flowers
 Phone=+6435442233
@@ -193786,7 +193786,7 @@ Data0=(-41.35159,173.19744)
 
 ;1175994
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=FI'S FLOWERS N ART
 StreetDesc=3 Good St, Rangiora/ Florist, flowers
 Phone=+6433131043
@@ -193795,7 +193795,7 @@ Data0=(-43.30315,172.59429)
 
 ;1175997
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=FLORAL GIFTS
 StreetDesc=58 Clyde St, Balclutha/ Florist, flowers
 Phone=+6434184073
@@ -193804,7 +193804,7 @@ Data0=(-46.23811,169.73841)
 
 ;1176001
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=FLOWER COTTAGE ON CASHMERE
 StreetDesc=29 B Colombo St, Cashmere, Chc/ Florist, flowers
 Phone=+6433328833
@@ -193813,7 +193813,7 @@ Data0=(-43.56492,172.63687)
 
 ;1176009
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=FLOWERS AT GOLDEN BAY
 StreetDesc=58 Commercial St, Takaka/ Florist, flowers
 Phone=+6435259868
@@ -193822,7 +193822,7 @@ Data0=(-40.85867,172.80662)
 
 ;1176012
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=FLOWERS BY VERONICA
 StreetDesc=101 Main St, Gore/ Florist, flowers
 Phone=+6432088000
@@ -193831,7 +193831,7 @@ Data0=(-46.10146,168.94449)
 
 ;1176015
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=FLOWERS FROM CAMPTOWN
 StreetDesc=37 Mackay St, Greymouth/ Florist, flowers
 Phone=+6437685692
@@ -193840,7 +193840,7 @@ Data0=(-42.44855,171.20897)
 
 ;1176016
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=FLOWERS IN THYME
 StreetDesc=24 Helwick St, Wanaka/ Florist, flowers
 Phone=+6434438310
@@ -193849,7 +193849,7 @@ Data0=(-44.69591,169.13601)
 
 ;1176023
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=FLOWERS ON MORNINGTON
 StreetDesc=7 Mailer St, Mornington, Dud/ Florist, flowers
 Phone=+6434536331
@@ -193858,7 +193858,7 @@ Data0=(-45.88164,170.48231)
 
 ;1176026
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=FLOWERTIME ON SCOTT STREET
 StreetDesc=4 Scott St, Blenheim/ Florist, flowers
 Phone=+6435785175
@@ -193867,7 +193867,7 @@ Data0=(-41.51447,173.95661)
 
 ;1176036
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=HARAKEKE FLOWERS
 StreetDesc=16 Poplar St, Chc/ Florist, flowers
 Phone=+6433669545
@@ -193876,7 +193876,7 @@ Data0=(-43.53444,172.64140)
 
 ;1176041
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=HONEY HEAVEN
 StreetDesc=368d Colombo St, Sydenham, Chc/ Florist, flowers
 Phone=+6433666468
@@ -193885,7 +193885,7 @@ Data0=(-43.54595,172.63684)
 
 ;1176043
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=ILAM FLORIST
 StreetDesc=203 Waimairi Rd, Ilam, Chc/ Florist, flowers
 Phone=+6433585396
@@ -193894,7 +193894,7 @@ Data0=(-43.51655,172.57181)
 
 ;1176047
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=IVY FLOWER ART
 StreetDesc=City Ctr Arcade, 219 Trafalgar St, Nelson/ Florist, flowers
 Phone=+6435480531
@@ -193903,7 +193903,7 @@ Data0=(-41.27339,173.28418)
 
 ;1176049
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=JENNY BURTT FLORIST
 StreetDesc=100 Fendalton Rd, Fendalton, Chc/ Florist, flowers
 Phone=+6433517980
@@ -193912,7 +193912,7 @@ Data0=(-43.51962,172.60297)
 
 ;1176053
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=JOSEPH JONES FLORAL DESIGN
 StreetDesc=446 George St, North Dud/ Florist, flowers
 Phone=+6434741388
@@ -193921,7 +193921,7 @@ Data0=(-45.86718,170.50776)
 
 ;1176061
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=LADY JANE FLORIST
 StreetDesc=Global Byte Blg 150 Dee St, Invercargill/ Florist, flowers
 Phone=+6432144513
@@ -193930,7 +193930,7 @@ Data0=(-46.40860,168.34696)
 
 ;1176070
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=MARGUERITA FLORIST
 StreetDesc=Shop 102a, Meridian Mall, Cnr George & Hanover Sts, Dud/ Florist, flowers
 Phone=+6434773450
@@ -193939,7 +193939,7 @@ Data0=(-45.86992,170.50515)
 
 ;1176072
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=MERIVALE HOUSE OF FLOWERS
 StreetDesc=97 Main North Rd, Papanui, Chc/ Florist, flowers
 Phone=+6433552211
@@ -193948,7 +193948,7 @@ Data0=(-43.49132,172.61243)
 
 ;1176074
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=MISS FEAVER FLORIST
 StreetDesc=111 Hills Rd, Edgeware, Chc/ Florist, flowers
 Phone=+6433852288
@@ -193957,7 +193957,7 @@ Data0=(-43.51325,172.65150)
 
 ;1176080
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=NEW BRIGHTON FLORIST
 StreetDesc=16 Surfside Mall, New Brighton, Chc/ Florist, flowers
 Phone=+6433886117
@@ -193966,7 +193966,7 @@ Data0=(-43.50728,172.72890)
 
 ;1176081
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=NICHOL'S CENTRAL OTAGO
 StreetDesc=11-13 Iles St, Cromwell/ Florist, flowers
 Phone=+6434450150
@@ -193975,7 +193975,7 @@ Data0=(-45.03507,169.19222)
 
 ;1176082
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=NICHOL'S DUNEDIN
 StreetDesc=Cnr Timaru & Teviot Sts, South Dud/ Florist, flowers
 Phone=+6434551579
@@ -193984,7 +193984,7 @@ Data0=(-45.89561,170.50894)
 
 ;1176083
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=NICHOL'S INVERCARGILL
 StreetDesc=200 North Rd, Invercargill/ Florist, flowers
 Phone=+6432157863
@@ -193993,7 +193993,7 @@ Data0=(-46.38068,168.34700)
 
 ;1176087
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=PAPANUI FLORIST
 StreetDesc=505 Papanui Rd, Papanui, Chc/ Florist, flowers
 Phone=+6433524343
@@ -194002,7 +194002,7 @@ Data0=(-43.49733,172.60794)
 
 ;1176088
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=PATSY'S GIFT & FLORIST
 StreetDesc=69 King St, Temuka/ Florist, flowers
 Phone=+6436155651
@@ -194011,7 +194011,7 @@ Data0=(-44.24541,171.27769)
 
 ;1176093
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=REGENT FLORIST
 StreetDesc=185 Thames St, Oamaru/ Florist, flowers
 Phone=+6434347488
@@ -194020,7 +194020,7 @@ Data0=(-45.09685,170.97174)
 
 ;1176094
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=RENAISSANCE
 StreetDesc=Shop 15, 159 Gorge Rd Retail Ctr, Queenstown/ Florist, flowers
 Phone=+6434424450
@@ -194029,7 +194029,7 @@ Data0=(-45.01961,168.66284)
 
 ;1176095
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=RICCARTON FLORIST
 StreetDesc=104B Riccarton Rd, Riccarton, Chc/ Florist, flowers
 Phone=+6433487933
@@ -194038,7 +194038,7 @@ Data0=(-43.52960,172.60045)
 
 ;1176096
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=ROSEDENE AT CAMPBELLS
 StreetDesc=14 Irwell St, Gore/ Florist, flowers
 Phone=+6432087713
@@ -194047,7 +194047,7 @@ Data0=(-46.09761,168.94399)
 
 ;1176102
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=SERENDIPITY GIFT BASKETS & FLOWERS
 StreetDesc=276 Queen St, Richmond, Nelson/ Florist, flowers
 Phone=+6435440780
@@ -194056,7 +194056,7 @@ Data0=(-41.33839,173.18405)
 
 ;1176103
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=SIMPLE ELEGANCE
 StreetDesc=30 Aurora St Hornby Chc/ Florist, flowers
 Phone=+6433423708
@@ -194065,7 +194065,7 @@ Data0=(-43.52973,172.52347)
 
 ;1176105
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=SIMPLY FLOWERS
 StreetDesc=70 Musselburgh Rise, Dud/ Florist, flowers
 Phone=+6434560550
@@ -194074,7 +194074,7 @@ Data0=(-45.89796,170.51622)
 
 ;1176112
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=STEMS ON ST ANDREW
 StreetDesc=118 St Andrew St, Windsor, Invercargill/ Florist, flowers
 Phone=+6432177727
@@ -194083,7 +194083,7 @@ Data0=(-46.40198,168.36896)
 
 ;1176114
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=SYDENHAM FLORIST
 StreetDesc=369 Colombo St, Sydenham, Chc/ Florist, flowers
 Phone=+6433666449
@@ -194092,7 +194092,7 @@ Data0=(-43.54641,172.63643)
 
 ;1176115
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=TALL POPPIES DESIGN
 StreetDesc=75 North Avon Rd, Shirley, Chc/ Florist, flowers
 Phone=+6433811177
@@ -194101,7 +194101,7 @@ Data0=(-43.51740,172.65637)
 
 ;1176123
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=THE FLOWER ROOM
 StreetDesc=153b Glenda Dr, Frankton, Queenstown/ Florist, flowers
 Phone=+6434425355
@@ -194110,7 +194110,7 @@ Data0=(-45.01121,168.75524)
 
 ;1176125
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=THE GREENHOUSE
 StreetDesc=G04, Wall St, Dud/ Florist, flowers
 Phone=+6434831096
@@ -194119,7 +194119,7 @@ Data0=(-45.87125,170.50488)
 
 ;1176127
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=THE GREENHOUSE FLORIST
 StreetDesc=109 Gordon Rd, Mosgiel/ Florist, flowers
 Phone=+6434897718
@@ -194128,7 +194128,7 @@ Data0=(-45.87551,170.34874)
 
 ;1176128
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=THE LILY BUD
 StreetDesc=55 Nayland St, Sumner, Chc/ Florist, flowers
 Phone=+6433266229
@@ -194137,7 +194137,7 @@ Data0=(-43.56989,172.76003)
 
 ;1176129
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=THE RED TULIP FLORIST
 StreetDesc=Cnr Ferry Rd & Smith St, Chc/ Florist, flowers
 Phone=+6433891963
@@ -194146,7 +194146,7 @@ Data0=(-43.54480,172.67140)
 
 ;1176138
 [POI]
-Type=0x2e08
+Type=0x2e
 Label=WILLOW FLORAL DESIGN
 StreetDesc=46 Halifax St, Nelson/ Florist, flowers
 Phone=+6435457939
@@ -197108,7 +197108,7 @@ Data0=(-43.56555,172.63526)
 
 ;1177601
 [POI]
-Type=0x2f0c
+Type=0x2c06
 Label=BECKENHAM PARK PUBLIC TOILET
 StreetDesc=175-177 Eastern Terrace Beckenham 8023/ Public toilet
 Data0=(-43.56247,172.64739)
@@ -197545,7 +197545,7 @@ Data0=(-45.99018,167.38203)
 
 ;1177853
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Tuatapere/ Boat Ramp
 Data0=(-45.52775,167.60248)
@@ -197553,7 +197553,7 @@ Data0=(-45.52775,167.60248)
 
 ;1177854
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Waiau St, Manapouri/ Boat Ramp
 Data0=(-45.56944,167.60874)
@@ -199683,7 +199683,7 @@ Data0=(-43.53646,172.64115)
 
 ;1178925
 [POI]
-Type=0x2b00
+Type=0x2b02
 Label=61 ON DERWENT B&B
 StreetDesc=61 Derwent St, Oamaru North, Oamaru/ Bed and Breakfast accommodation
 Data0=(-45.08088,170.97132)
@@ -199699,7 +199699,7 @@ Data0=(-45.87417,170.50119)
 
 ;1178927
 [POI]
-Type=0x2b00
+Type=0x2b02
 Label=ABBOTT HOUSE SUMNER BED & BREAKFAST
 StreetDesc=104 Nayland St, Sumner, Chc/ Bed and Breakfast accommodation
 Data0=(-43.57308,172.76481)
@@ -199755,7 +199755,7 @@ Data0=(-44.94402,168.83561)
 
 ;1178944
 [POI]
-Type=0x2b00
+Type=0x2b02
 Label=ASHFORD HOUSE
 StreetDesc=2 Ashford Grove, Rapaura, RD3, Blenheim/ Bed and Breakfast accommodation
 Data0=(-41.47516,173.90297)
@@ -199763,7 +199763,7 @@ Data0=(-41.47516,173.90297)
 
 ;1178946
 [POI]
-Type=0x2b00
+Type=0x2b02
 Label=AWATEA TASMAN BAY
 StreetDesc=204 Motueka River West Bank Rd, Motueka/ Bed and Breakfast accommodation
 Data0=(-41.10869,172.95650)
@@ -199771,7 +199771,7 @@ Data0=(-41.10869,172.95650)
 
 ;1178947
 [POI]
-Type=0x2b00
+Type=0x2b02
 Label=B AND B ON YARROW
 StreetDesc=167 yarrow st, central city, invercargill/ Bed and Breakfast accommodation
 Data0=(-46.40872,168.35924)
@@ -199779,7 +199779,7 @@ Data0=(-46.40872,168.35924)
 
 ;1178949
 [POI]
-Type=0x2b00
+Type=0x2b02
 Label=BALLYMONEY FARMSTAY AND GARDENS
 StreetDesc=Wardstay Rd .RD2, Chc/ Bed and Breakfast accommodation
 Data0=(-43.66658,172.52528)
@@ -199795,7 +199795,7 @@ Data0=(-42.38347,173.67960)
 
 ;1178957
 [POI]
-Type=0x2b00
+Type=0x2b02
 Label=BEAVER BED AND BREAKFAST
 StreetDesc=60 Beaver Rd, Blenhein/ Bed and Breakfast accommodation
 Data0=(-41.51833,173.94766)
@@ -199811,7 +199811,7 @@ Data0=(-41.53457,173.99859)
 
 ;1178959
 [POI]
-Type=0x2b00
+Type=0x2b02
 Label=BEERSHEBA BOUTIQUE ACCOMMODATION
 StreetDesc=58 Millton Park Rd., No 1 RD., Invercargill/ Bed and Breakfast accommodation
 Data0=(-46.40440,168.41153)
@@ -199827,7 +199827,7 @@ Data0=(-44.61281,169.26103)
 
 ;1178961
 [POI]
-Type=0x2b00
+Type=0x2b02
 Label=BENDAMERE HOUSE BED & BREAKFAST
 StreetDesc=37 Adelphi Terrace, Kaikoura/ Bed and Breakfast accommodation
 Data0=(-42.40259,173.68138)
@@ -199843,7 +199843,7 @@ Data0=(-41.51333,173.96732)
 
 ;1178965
 [POI]
-Type=0x2b00
+Type=0x2b02
 Label=BLUFF OCEAN VISTA ACCOMMODATION
 StreetDesc=152 Marine Parade, Bluff/ Bed and Breakfast accommodation
 Data0=(-46.60503,168.35410)
@@ -199851,7 +199851,7 @@ Data0=(-46.60503,168.35410)
 
 ;1178973
 [POI]
-Type=0x2b00
+Type=0x2b02
 Label=CATS PJAMAS BED AND BREAKFAST
 StreetDesc=232 Westdale Rd, RD 1, Bronte/ Bed and Breakfast accommodation
 Data0=(-41.27619,173.07029)
@@ -199859,7 +199859,7 @@ Data0=(-41.27619,173.07029)
 
 ;1178974
 [POI]
-Type=0x2b00
+Type=0x2b02
 Label=CEDAR PARK GARDENS BED AND BREAKFAST
 StreetDesc=Cedar Park, 101B Lowes Rd, Rolleston/ Bed and Breakfast accommodation
 Data0=(-43.60372,172.38381)
@@ -199900,7 +199900,7 @@ Data0=(-42.38397,173.63147)
 
 ;1178988
 [POI]
-Type=0x2b00
+Type=0x2b02
 Label=DOUBLE VIEW LUXURY B&B
 StreetDesc=142 Panorama Dr, Stoke, Nelson/ Bed and Breakfast accommodation
 Data0=(-41.31384,173.24738)
@@ -199916,7 +199916,7 @@ Data0=(-41.53785,173.97535)
 
 ;1178993
 [POI]
-Type=0x2b00
+Type=0x2b02
 Label=EDGELEY BED & BREAKFAST
 StreetDesc=29 Spencer St, Andersons Bay, Dud/ Bed and Breakfast accommodation
 Data0=(-45.90033,170.53659)
@@ -199949,7 +199949,7 @@ Data0=(-41.27279,173.29496)
 
 ;1179007
 [POI]
-Type=0x2b00
+Type=0x2b02
 Label=GREYSTONES B/B
 StreetDesc=219 Beacon Point Rd, Wanaka/ Bed and Breakfast accommodation
 Data0=(-44.67468,169.12890)
@@ -200006,7 +200006,7 @@ Data0=(-42.40318,173.68011)
 
 ;1179028
 [POI]
-Type=0x2b00
+Type=0x2b02
 Label=KIPPILAW HOUSE
 StreetDesc=98 Waikawa Rd, Picton, Marlborough/ Bed and Breakfast accommodation
 Data0=(-41.28686,174.01691)
@@ -200014,7 +200014,7 @@ Data0=(-41.28686,174.01691)
 
 ;1179032
 [POI]
-Type=0x2b00
+Type=0x2b02
 Label=LABYRINTH ROCKS BED AND BREAKFAST
 StreetDesc=8 Labyrinth Lane, Takaka/ Bed and Breakfast accommodation
 Data0=(-40.85126,172.82503)
@@ -200030,7 +200030,7 @@ Data0=(-41.79486,172.59524)
 
 ;1179037
 [POI]
-Type=0x2b00
+Type=0x2b02
 Label=MANDENO HOUSE
 StreetDesc=George St, North Dud, Dud/ Bed and Breakfast accommodation
 Data0=(-45.86152,170.51097)
@@ -200096,7 +200096,7 @@ Data0=(-41.26522,173.26765)
 
 ;1179060
 [POI]
-Type=0x2b00
+Type=0x2b02
 Label=PUMULA COUNTRY STAY
 StreetDesc=729 Depot Rd, RD1, Oxford/ Bed and Breakfast accommodation
 Data0=(-43.32530,172.12177)
@@ -200112,7 +200112,7 @@ Data0=(-41.12385,174.14841)
 
 ;1179063
 [POI]
-Type=0x2b00
+Type=0x2b02
 Label=QUEEN STREET B&B
 StreetDesc=55 Queen St, Westport/ Bed and Breakfast accommodation
 Data0=(-41.75117,171.60100)
@@ -200136,7 +200136,7 @@ Data0=(-40.83358,172.88577)
 
 ;1179071
 [POI]
-Type=0x2b00
+Type=0x2b02
 Label=RIVER COTTAGE GERALDINE
 StreetDesc=8 Tripp St, Geraldine, South Canterbury/ Bed and Breakfast accommodation
 Data0=(-44.08577,171.24402)
@@ -200192,7 +200192,7 @@ Data0=(-42.44942,171.21489)
 
 ;1179095
 [POI]
-Type=0x2b00
+Type=0x2b02
 Label=TANGLEWOOD BED & BREAKFAST
 StreetDesc=1744 Queen Charlotte Dr, The Grove RD1, Picton/ Bed and Breakfast accommodation
 Data0=(-41.27765,173.91885)
@@ -200232,7 +200232,7 @@ Data0=(-45.02838,168.66284)
 
 ;1179117
 [POI]
-Type=0x2b00
+Type=0x2b02
 Label=WHARETUTU BOUTIQUE B&B ACCOMMODATION
 StreetDesc=12B Kina Beach Rd, RD1 Upper Moutere, Tasman Nelson/ Bed and Breakfast accommoda
 Data0=(-41.18783,173.05304)
@@ -200248,7 +200248,7 @@ Data0=(-44.68894,169.14690)
 
 ;1179120
 [POI]
-Type=0x2b00
+Type=0x2b02
 Label=WILLOWDENE LODGE
 StreetDesc=44 Willington St, Waikaia/ Bed and Breakfast accommodation
 Data0=(-45.72503,168.84560)

@@ -50,3 +50,4 @@
 1030000055964	O,255,265	Gardiners Road	Cust (Canterbury, NZ)	19/06/2011 5:14:24 p.m.
 1030000056031	O,133,137	Park Terrace	Waikuku Beach (Canterbury, NZ)	13/08/2011 12:28:00 p.m.
 1030000055634	B,1,2	Alice Pass Road	Okuku (Canterbury, NZ)	13/08/2011 12:29:16 p.m.
+1030000055862	E,342,480	McPhedrons Road	View Hill (Canterbury, NZ)	13/08/2011 12:44:01 p.m.

@@ -663,7 +663,7 @@ Data0=(-43.53019,172.57476)
 
 ;1002709
 [POI]
-Type=0x2a0a
+Type=0x2a
 Label=PIZZA HUT DUNEDIN NORTH
 StreetDesc=808 Great King St, Dud North/ pizza, takeaways
 Phone=0800838383
@@ -19724,7 +19724,7 @@ Data0=(-41.27589,173.27737)
 
 ;1065555
 [POI]
-Type=0x2f03
+Type=0x2f
 Label=VTNZ SOCKBURN
 StreetDesc=129 Main South Rd, Chc/ Vehicle Testing Station, WOF, Warrant of Fitness
 Phone=+6433486321
@@ -30224,7 +30224,7 @@ Data0=(-45.03817,169.19896)
 
 ;1091728
 [POI]
-Type=0x2b01
+Type=0x2b00
 Label=CROMWELL MOTEL
 StreetDesc=6 Gair Ave, Cromwell, Central Otago/ Accommodation, self-contained units, 1 or 2
 Phone=+6434450373
@@ -119287,7 +119287,7 @@ Data0=(-44.40064,171.25266)
 
 ;1137802
 [POI]
-Type=0x2e07
+Type=0x2e
 Label=CRT FARMCENTRE TEMUKA
 StreetDesc=41 King St, Temuka/ Farm products; agchem, animal health, feed management, shear
 Phone=+6436886655
@@ -128972,7 +128972,7 @@ Data0=(-46.59744,168.34466)
 
 ;1141647
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=149 Dee St O/S News Agent Invercargill/ Telecom, payphone, public phone box
 Phone=+6432140505
@@ -144852,7 +144852,7 @@ Data0=(-42.58840,172.45033)
 
 ;1150668
 [POI]
-Type=0x4a00
+Type=0x2f
 Label=GREENSTONE STREAM REST AREA
 StreetDesc=338 Lewis Pass Rd/ rest area
 Data0=(-42.57868,172.74763)
@@ -170342,7 +170342,7 @@ Data0=(-43.51121,172.62483)
 
 ;1165294
 [POI]
-Type=0x2d07
+Type=0x2d00
 Label=AKAROA BOWLING CLUB
 StreetDesc=42-46 Rue Jolie Akaroa/ Bowling Club
 Phone=+6433047087
@@ -197523,7 +197523,7 @@ Data0=(-45.42504,167.71827)
 
 ;1177857
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Te Anau Milford Hwy, Southland/ Boat Ramp
 Data0=(-45.19268,167.82706)

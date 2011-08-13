@@ -48,3 +48,5 @@
 1030000055701	O,221,319	E,300,346	E,768,768	E,840,844	Mountain Road	Okuku (Canterbury, NZ)	19/06/2011 5:02:45 p.m.
 1030000052997	E,362,368	Major Hornbrook Road	Mount Pleasant, Christchurch (Canterbury, NZ)	19/06/2011 5:04:04 p.m.
 1030000055964	O,255,265	Gardiners Road	Cust (Canterbury, NZ)	19/06/2011 5:14:24 p.m.
+1030000056031	O,133,137	Park Terrace	Waikuku Beach (Canterbury, NZ)	13/08/2011 12:28:00 p.m.
+1030000055634	B,1,2	Alice Pass Road	Okuku (Canterbury, NZ)	13/08/2011 12:29:16 p.m.

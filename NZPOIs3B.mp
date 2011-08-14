@@ -206781,3 +206781,12 @@ StreetDesc=Oparara/ Toilets
 Data0=(-41.15148,172.19053)
 [END]
 
+;1189126
+[POI]
+Type=0x2f
+Label=PYPER BUILDERS
+StreetDesc=18 Mansor Court, Cromwell 9310, Central Otago/ builder, design, contractor, crom
+Phone=+6434454010
+Data0=(-45.04439,169.19170)
+[END]
+

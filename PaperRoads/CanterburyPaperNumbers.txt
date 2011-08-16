@@ -51,3 +51,13 @@
 1030000056031	O,133,137	Park Terrace	Waikuku Beach (Canterbury, NZ)	13/08/2011 12:28:00 p.m.
 1030000055634	B,1,2	Alice Pass Road	Okuku (Canterbury, NZ)	13/08/2011 12:29:16 p.m.
 1030000055862	E,342,480	McPhedrons Road	View Hill (Canterbury, NZ)	13/08/2011 12:44:01 p.m.
+1030000055910	E,122,170	Clifford Road	Camside	16/08/2011 8:49:39 p.m.
+1030000193443	E,64,104	LAKE ST	16/08/2011 6:09:27 p.m.
+1030000055620	E,40,40	Jacks Road	Loburn (Canterbury, NZ)	16/08/2011 9:08:30 p.m.
+1030000041333	O,53,53	Happy Valley Road	RAKAIA RIVER RD	16/08/2011 9:16:49 p.m.
+1030000042041	O,39,39	Manuka Street	Pleasant Point (Canterbury, NZ)	16/08/2011 9:26:05 p.m.
+1030000040791	B,1,12	Bluff Street	Coalgate (Canterbury, NZ)	16/08/2011 9:29:59 p.m.
+1030000055642	B,3,23	Calthorpe Street	Loburn (Canterbury, NZ)	16/08/2011 9:38:42 p.m.
+1030000055630	B,3,49	Queen Street	Loburn (Canterbury, NZ)	16/08/2011 9:39:17 p.m.
+1030000055709	B,3,17	Westall Street	Loburn (Canterbury, NZ)	16/08/2011 9:39:37 p.m.
+2030000004957	B,321,399	Kaipo Bay Walk	Westland	16/08/2011 9:40:34 p.m.

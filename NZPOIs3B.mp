@@ -19837,10 +19837,10 @@ Data0=(-46.11613,168.92953)
 [POI]
 Type=0x2f03
 Label=VTNZ INVERCARGILL
-StreetDesc=27 Mersey St, Invercargill/ WOF, Warrant of Fitness, Pre-Purchase Inspection, Ve
+StreetDesc=corner of Mersey & Spey St, Invercargill/ WOF, Warrant of Fitness, Pre-Purchase 
 Phone=+6432141235
 zip=See VTNZ website
-Data0=(-46.40752,168.34251)
+Data0=(-46.40944,168.34167)
 [END]
 
 ;1066080
@@ -22923,7 +22923,7 @@ Data0=(-43.88064,169.04148)
 ;1074732
 [POI]
 Type=0x2b00
-Label=RIVERVIEW CABINS
+Label=RIVERVIEW COTTAGE & CABINS
 StreetDesc=154 Kaniere Rd, Hokitika, Westland (at the end of driveway of about 250 metres)/
 Phone=+6437557440
 Data0=(-42.73501,170.99198)
@@ -43747,10 +43747,10 @@ Data0=(-43.55348,172.63701)
 [POI]
 Type=0x2f
 Label=BEDS DIRECT
-StreetDesc=81 Hilton Highway, Timaru/ 
+StreetDesc=20 The Terrace, Timaru/ Design and manufacture of mattresses and beds
 Phone=+6436885577
 zip=Mon-Fri 0830-1700
-Data0=(-44.36294,171.24264)
+Data0=(-44.39376,171.25193)
 [END]
 
 ;1102085
@@ -64295,15 +64295,6 @@ Phone=+6439613252
 Data0=(-43.53081,172.64094)
 [END]
 
-;1113402
-[POI]
-Type=0x2f
-Label=SLICE OF NEW ZEALAND LTD
-StreetDesc=4/243 Blenheim Rd, Riccarton, Chc/ 
-Phone=+6439631365
-Data0=(-43.53875,172.58752)
-[END]
-
 ;1113407
 [POI]
 Type=0x2f
@@ -78492,15 +78483,6 @@ Label=COLORADO NORTHLANDS
 StreetDesc=Shop 81, Northlands Shopping Ctr, Main Rd North, Papanui, Chc/ Men's & women's c
 Phone=+6439771643
 Data0=(-43.49250,172.61027)
-[END]
-
-;1118656
-[POI]
-Type=0x2e07
-Label=COLORADO RICCARTON
-StreetDesc=Shop S075, Westfield Riccarton, 129 Riccarton Rd, Riccarton, Chc/ Men's & women'
-Phone=+6439834640
-Data0=(-43.53073,172.59786)
 [END]
 
 ;1118677
@@ -192680,16 +192662,6 @@ zip=Mon-Thu 9am-6pm, Fri 9am-8pm, Sat 10am-6
 Data0=(-43.53816,172.63533)
 [END]
 
-;1174705
-[POI]
-Type=0x2e
-Label=XEBA RICCARTON
-StreetDesc=Store 42a, Westfield Riccarton, 129 Riccarton Rd, Riccarton/ Gifts, Greeting car
-Phone=+33489489
-zip=Mon-Wed 9am-6pm, Thu-Fri 9am-9pm, Sat 9a
-Data0=(-43.53119,172.59713)
-[END]
-
 ;1174706
 [POI]
 Type=0x2e
@@ -201058,15 +201030,6 @@ zip=Office = 9 - 5 Mon-Fri | Agents = 24/7
 Data0=(-45.87498,170.34849)
 [END]
 
-;1179685
-[POI]
-Type=0x2f
-Label=TREVOR BRANTON : REAL ESTATE AGENT
-StreetDesc=61 Goodall St, Mosgiel, 9024/ Mosgiel, Dunedin, Otago, Real Estate Agent, Trevor
-zip=All hours
-Data0=(-45.87104,170.33641)
-[END]
-
 ;1179687
 [POI]
 Type=0x2f
@@ -206788,5 +206751,70 @@ Label=PYPER BUILDERS
 StreetDesc=18 Mansor Court, Cromwell 9310, Central Otago/ builder, design, contractor, crom
 Phone=+6434454010
 Data0=(-45.04439,169.19170)
+[END]
+
+;1189135
+[POI]
+Type=0x2f
+Label=?JACKSON PLUMBING
+StreetDesc=wallacetown/ Plumber, Plumbing tribalise, repairs, southland, nz, invercargill w
+Phone=+6432149444
+Data0=(-46.32977,168.29028)
+[END]
+
+;1189136
+[POI]
+Type=0x2f
+Label=IN TOUCH HAND THERAPY
+StreetDesc=64, Carmen Rd, Hornby,Chc/ Hand treatment and rehabilitation, hand physiotherapy
+Phone=+6433440053
+Data0=(-43.53739,172.52922)
+[END]
+
+;1189139
+[POI]
+Type=0x2f
+Label=ALLURE CAFE & ART GALLERY
+StreetDesc=11 West End, Kaikoura/ A new cafe focussing on friendly service, great coffee an
+Phone=+6433197402
+zip=8.30am to 5.00pm. (with extended Summer 
+Data0=(-42.40005,173.68089)
+[END]
+
+;1189141
+[POI]
+Type=0x2f
+Label=PAINT PAPER DESIGN
+StreetDesc=9 Bridger St Maryhill Dud 9011 New Zealand/ Painting, paperhanging, wallpapering
+Phone=+6427666883
+zip=8.00am - 5.00pm Monday-Friday
+Data0=(-45.88911,170.47720)
+[END]
+
+;1189144
+[POI]
+Type=0x2f
+Label=BEAUTY PROGRESS
+StreetDesc=Unit 1 - 171 Waltham Rd, Chc, New Zealand/ Beauty therapy, beauty salon, skin ca
+Phone=+33794315
+Data0=(-43.54644,172.64604)
+[END]
+
+;1189145
+[POI]
+Type=0x2f
+Label=DEVIL BURGER, INVERCARGILL
+StreetDesc=16 Don St, Invercargill/ Takeaways, Dine in
+Phone=+6432189666
+Data0=(-46.41062,168.34818)
+[END]
+
+;1189146
+[POI]
+Type=0x2f
+Label=?DEVIL BURGER, QUEENSTOWN
+StreetDesc=Church St, Queenstown/ Takeaways, Dine in
+Phone=+6434424666
+Data0=(-45.03279,168.66170)
 [END]
 

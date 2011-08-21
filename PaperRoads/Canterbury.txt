@@ -200,6 +200,7 @@
 1030000042278	Rata Street	Pleasant Point
 1030000042285	Slip Panel Road	Orari Gorge
 1030000042287	Smith Road	Kakahu	28/04/2010 11:33a.m.
+1030000042295	SMITHFIELD RD	Temuka (Canterbury, NZ)	16/08/2011 11:38:49 p.m.
 1030000042333	Edward Street	Rangitata
 1030000042823	MILL RD	Fairlie (Canterbury, NZ)	28/05/2010 5:44p.m.
 1030000052352	Atom Lane	Woolston

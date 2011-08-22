@@ -7823,15 +7823,6 @@ Phone=+6433137812
 Data0=(-43.30351,172.59336)
 [END]
 
-;1026992
-[POI]
-Type=0x2e
-Label=PAPER PLUS RICCARTON
-StreetDesc=Shop 27 Westfield Shoppingtown, Riccarton Rd, Riccarton/ bookshop, books
-Phone=+6433482264
-Data0=(-43.53103,172.59661)
-[END]
-
 ;1026999
 [POI]
 Type=0x2e
@@ -44931,15 +44922,6 @@ Label=CACTUS CLIMBING EQUIPMENT LTD
 StreetDesc=90 Fitzgerald Ave, Chc/ 
 Phone=+6433749268
 Data0=(-43.53466,172.65083)
-[END]
-
-;1102716
-[POI]
-Type=0x2f
-Label=CADBURY CONFECTIONERY LTD
-StreetDesc=280 Cumberland St, Dud/ 
-Phone=+6434677800
-Data0=(-45.87386,170.50758)
 [END]
 
 ;1102726
@@ -93796,14 +93778,6 @@ StreetDesc=853A Portobello Rd, Portobello/
 Data0=(-45.83910,170.64798)
 [END]
 
-;1128433
-[POI]
-Type=0x2a0e
-Label=CADBURYS STAFF CAFE
-StreetDesc=280 Cumberland St, Dud/ cafe
-Data0=(-45.86623,170.51163)
-[END]
-
 ;1128434
 [POI]
 Type=0x2a0e
@@ -103904,9 +103878,9 @@ Data0=(-43.53319,172.54903)
 ;1131471
 [POI]
 Type=0x2a07
-Label=KEBAB MASTERS
+Label=KEBAB LAND
 StreetDesc=Riccarton Mall, 145 Riccarton Rd, Chc/ Kebabs and Turkish Food
-Phone=+33430301
+Phone=+6433430301
 zip=Mon-Wed 9am-6pm, Thu-Fri 9am-9pm, Sat 9a
 Data0=(-43.53080,172.59855)
 [END]
@@ -127071,7 +127045,9 @@ Data0=(-41.75909,171.59982)
 [POI]
 Type=0x2a0e
 Label=WHANAKE GALLERY & ESPRESSO BAR
-StreetDesc=173 Palmerston St, Westport/ cafe, bar
+StreetDesc=173 Palmerston St, Westport/ Gallery &Espresso Bar - - Staci Offwood Photography
+Phone=+6437895076
+zip=Mon-Fri 7.45am-5.30pm---Sat & Sun 8.30am
 Data0=(-41.75719,171.59938)
 [END]
 
@@ -128981,7 +128957,7 @@ Data0=(-46.43735,168.35629)
 
 ;1141650
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Kew Hospital, Outpatients East End, Invercargill/ Telecom, payphone, public phon
 Phone=+6432145389
@@ -128990,7 +128966,7 @@ Data0=(-46.43745,168.35849)
 
 ;1141651
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Victoria Ave O/S Visitor Ctre Queens Park Invercargill/ Telecom, payphone, publi
 Phone=+6432146203
@@ -128999,7 +128975,7 @@ Data0=(-46.40503,168.35243)
 
 ;1141652
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=77 McIvor Rd Invercargill Top10 Holiday Park Invercargill/ Telecom, payphone, pu
 Phone=+6432156751
@@ -129008,7 +128984,7 @@ Data0=(-46.36482,168.35699)
 
 ;1141653
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=North Rd Opp Renfrew St O/S Telephone Exchange Waikiwi Invercargill/ Telecom, pa
 Phone=+6432159024
@@ -129017,7 +128993,7 @@ Data0=(-46.37755,168.34746)
 
 ;1141654
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=318 Tweed St O/S Rugby Park Invercargill/ Telecom, payphone, public phone box
 Phone=+6432162378
@@ -129026,7 +129002,7 @@ Data0=(-46.41774,168.36467)
 
 ;1141655
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Tweed St cnr Ethel St O/S New World Newfield Invercargill/ Telecom, payphone, pu
 Phone=+6432169001
@@ -129035,7 +129011,7 @@ Data0=(-46.41808,168.39077)
 
 ;1141656
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Ctr St O/S Shop Ctre Newfield Invercargill/ Telecom, payphone, public phone box
 Phone=+6432169004
@@ -129044,7 +129020,7 @@ Data0=(-46.42250,168.38075)
 
 ;1141657
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=351 Tay St cnr Lindisfarne St O/S Lindisfarne Dairy Invercargill/ Telecom, payph
 Phone=+6432172269
@@ -129053,7 +129029,7 @@ Data0=(-46.41173,168.37100)
 
 ;1141658
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=481 Yarrow St Opp Lyon St Glengarry Invercargill/ Telecom, payphone, public phon
 Phone=+6432176002
@@ -129062,7 +129038,7 @@ Data0=(-46.40292,168.38371)
 
 ;1141659
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=666 Tay St Opp Carlyle St Glengarry Invercargill/ Telecom, payphone, public phon
 Phone=+6432176005
@@ -129071,7 +129047,7 @@ Data0=(-46.40676,168.39007)
 
 ;1141660
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=King St Opp Winsor St O/S Video Shop Windsor Invercargill/ Telecom, payphone, pu
 Phone=+6432176013
@@ -129080,7 +129056,7 @@ Data0=(-46.39852,168.36546)
 
 ;1141661
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Tay St O/S Shops near Town Hall Invercargill/ Telecom, payphone, public phone bo
 Phone=+6432182007
@@ -129089,7 +129065,7 @@ Data0=(-46.41299,168.35223)
 
 ;1141662
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=244 Elles Rd South City O/S New World South Booth Heidelberg Invercargill/ Telec
 Phone=+6432182009
@@ -129098,7 +129074,7 @@ Data0=(-46.42737,168.36150)
 
 ;1141663
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Hensley St cnr Dee St O/S Shops Gladstone Invercargill/ Telecom, payphone, publi
 Phone=+6432182014
@@ -129107,7 +129083,7 @@ Data0=(-46.39325,168.34717)
 
 ;1141664
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=177 Tweed St O/S Flats Invercargill/ Telecom, payphone, public phone box
 Phone=+6432182018
@@ -129116,7 +129092,7 @@ Data0=(-46.41804,168.35262)
 
 ;1141666
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Wachner Place Near Clock Tower Invercargill/ Telecom, payphone, public phone box
 Phone=+6432183694
@@ -129125,7 +129101,7 @@ Data0=(-46.41176,168.34719)
 
 ;1141667
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Airport Ave Invercargill Airport Opp Information Invercargill/ Telecom, payphone
 Phone=+6432187415
@@ -129134,7 +129110,7 @@ Data0=(-46.41502,168.32272)
 
 ;1141668
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Fox St cnr Dee St Avenal Invercargill/ Telecom, payphone, public phone box
 Phone=+6432188297
@@ -129143,7 +129119,7 @@ Data0=(-46.40158,168.34729)
 
 ;1141669
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=18 Ayr St Shearwater Inn Halfmoon Bay Stewart Island/ Telecom, payphone, public 
 Phone=+6432191402
@@ -129152,7 +129128,7 @@ Data0=(-46.89901,168.12846)
 
 ;1141670
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Main Rd O/S Stewart Island Travel Halfmoon Bay Stewart Island/ Telecom, payphone
 Phone=+6432191500
@@ -129161,7 +129137,7 @@ Data0=(-46.89787,168.12566)
 
 ;1141671
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Birchwood Rd cnr Donnington Rd O/S Old Post Office Ohai/ Telecom, payphone, publ
 Phone=+6432254842
@@ -129170,7 +129146,7 @@ Data0=(-45.93287,167.95600)
 
 ;1141672
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=11 Johnston Rd O/S 4 Sq Nightcaps/ Telecom, payphone, public phone box
 Phone=+6432257883
@@ -129179,7 +129155,7 @@ Data0=(-45.97016,168.03173)
 
 ;1141673
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Main St O/S Library and Courthouse Otautau/ Telecom, payphone, public phone box
 Phone=+6432258027
@@ -129188,7 +129164,7 @@ Data0=(-46.14383,167.99801)
 
 ;1141674
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=71 Main Rd O/S Real Estate Agency Tuatapere Otautau/ Telecom, payphone, public p
 Phone=+6432266300
@@ -129197,7 +129173,7 @@ Data0=(-46.13303,167.68907)
 
 ;1141675
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Taramea Bay Rd cnr Rocks HW O/S Riverton Soundshell Riverton/ Telecom, payphone,
 Phone=+6432348300
@@ -129206,7 +129182,7 @@ Data0=(-46.36245,168.02021)
 
 ;1141676
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Palmerston St cnr Princess St O/S Visitor Information Ctr Riverton/ Telecom, pay
 Phone=+6432348400
@@ -129215,7 +129191,7 @@ Data0=(-46.34973,168.01723)
 
 ;1141677
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=352 Lorne-dacre Rd Lorneville Holiday Park Lorneville Invercargill/ Telecom, pay
 Phone=+6432358025
@@ -129224,7 +129200,7 @@ Data0=(-46.34500,168.34882)
 
 ;1141679
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Gorge Rd near Tokanui St O/S Store Tokanui/ Telecom, payphone, public phone box
 Phone=+6432468783
@@ -129233,7 +129209,7 @@ Data0=(-46.56533,168.94397)
 
 ;1141680
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Devon St O/S Highway 94 Diner Mossburn/ Telecom, payphone, public phone box
 Phone=+6432486188
@@ -129242,7 +129218,7 @@ Data0=(-45.66731,168.23299)
 
 ;1141681
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Diana St O/S Mini-mart Lumsden/ Telecom, payphone, public phone box
 Phone=+6432487014
@@ -129251,7 +129227,7 @@ Data0=(-45.73825,168.44171)
 
 ;1141682
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 6 Athol/ Telecom, payphone, public phone box
 Phone=+6432488867
@@ -129260,7 +129236,7 @@ Data0=(-45.50896,168.57249)
 
 ;1141683
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 6 Kingston Rd cnr Kent St O/S Tearooms Kingston/ Telecom, payphone, public p
 Phone=+6432488899
@@ -129269,7 +129245,7 @@ Data0=(-45.33818,168.72421)
 
 ;1141684
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Waiau St O/S Manapouri Store Manapouri/ Telecom, payphone, public phone box
 Phone=+6432496641
@@ -129278,7 +129254,7 @@ Data0=(-45.56460,167.61236)
 
 ;1141685
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=50 Manapouri Rd cnr Te Anau Rd O/S Lakeview Motel Manapouri/ Telecom, payphone, 
 Phone=+6432496890
@@ -129287,7 +129263,7 @@ Data0=(-45.55947,167.61960)
 
 ;1141686
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=1 Te Anau Rd Lakeview Holiday Park Te Anau/ Telecom, payphone, public phone box
 Phone=+6432497002
@@ -129296,7 +129272,7 @@ Data0=(-45.42456,167.72067)
 
 ;1141687
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Lake Front Dr O/S Holiday Inn Te Anau/ Telecom, payphone, public phone box
 Phone=+6432497009
@@ -129305,7 +129281,7 @@ Data0=(-45.41740,167.71199)
 
 ;1141688
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=63 Milford Rd Town Ctr I/S Kiwi Country Te Anau/ Telecom, payphone, public phone
 Phone=+6432497010
@@ -129314,7 +129290,7 @@ Data0=(-45.41573,167.71470)
 
 ;1141689
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=86 Town Ctr Near Mobil Station Te Anau/ Telecom, payphone, public phone box
 Phone=+6432497103
@@ -129323,7 +129299,7 @@ Data0=(-45.41534,167.71601)
 
 ;1141690
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=128 Te Anau Terrace O/S Te Anau Top10 Holiday Park - MtnView Te Anau/ Telecom, p
 Phone=+6432497160
@@ -129332,7 +129308,7 @@ Data0=(-45.41342,167.70748)
 
 ;1141692
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Milford Rd cnr Luxmore Dr Te Anau/ Telecom, payphone, public phone box
 Phone=+6432497238
@@ -129341,7 +129317,7 @@ Data0=(-45.41554,167.71814)
 
 ;1141694
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 94 Milford Lodge on Verandah Wall Milford Sound/ Telecom, payphone, public p
 Phone=+6432497873
@@ -129350,7 +129326,7 @@ Data0=(-44.67610,167.93435)
 
 ;1141698
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SH94 Te Anau-Milford H'Way Te Anau Downs Grumpy's Backpackers Te Anau/ Telecom, 
 Phone=+6432498153
@@ -129359,7 +129335,7 @@ Data0=(-45.19944,167.82238)
 
 ;1141699
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 94 Mitre Peak Lodge Milford Sound/ Telecom, payphone, public phone box
 Phone=+6432498196
@@ -129368,7 +129344,7 @@ Data0=(-44.67251,167.92932)
 
 ;1141700
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=48 Lake Front Dr Te Anau Backpackers Te Anau/ Telecom, payphone, public phone bo
 Phone=+6432498248
@@ -129377,7 +129353,7 @@ Data0=(-45.41869,167.71300)
 
 ;1141701
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Te Anau Terrace Fiordland Park Visitor Ctr Te Anau/ Telecom, payphone, public ph
 Phone=+6432498529
@@ -129386,7 +129362,7 @@ Data0=(-45.42374,167.71932)
 
 ;1141702
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 94 Knobbs Flat Visitor Information Ctr Te Anau/ Telecom, payphone, public ph
 Phone=+6432498532
@@ -129395,7 +129371,7 @@ Data0=(-44.98241,168.01684)
 
 ;1141703
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Milford Rd Fiordland Holiday Park Te Anau/ Telecom, payphone, public phone box
 Phone=+6432498794
@@ -129404,7 +129380,7 @@ Data0=(-45.40924,167.75277)
 
 ;1141704
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Milford Rd O/S Shark in the Bar Milford Sound/ Telecom, payphone, public phone b
 Phone=+6432498937
@@ -129413,7 +129389,7 @@ Data0=(-44.67198,167.93026)
 
 ;1141705
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=29 Mokonui St YHA Grd Flr Te Anau/ Telecom, payphone, public phone box
 Phone=+6432499501
@@ -129422,7 +129398,7 @@ Data0=(-45.41659,167.71031)
 
 ;1141706
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Bridge St SHW 1 Opp Rakaia Motors Rakaia/ Telecom, payphone, public phone box
 Phone=+6433027413
@@ -129431,7 +129407,7 @@ Data0=(-43.75676,172.02517)
 
 ;1141707
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Ashburton Rakaia Gorge Rd O/S Mt Hutt Mobil Station Methven/ Telecom, payphone, 
 Phone=+6433028014
@@ -129440,7 +129416,7 @@ Data0=(-43.63042,171.64757)
 
 ;1141708
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=109 Main St SH77 O/S BNZ Bank Methven/ Telecom, payphone, public phone box
 Phone=+6433028557
@@ -129449,7 +129425,7 @@ Data0=(-43.63368,171.64695)
 
 ;1141709
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=McMillan St O/S Shopping Mall Methven/ Telecom, payphone, public phone box
 Phone=+6433029109
@@ -129458,7 +129434,7 @@ Data0=(-43.63356,171.64547)
 
 ;1141711
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Hoods Rd O/S Camping Ground Mount Somers/ Telecom, payphone, public phone box
 Phone=+6433036355
@@ -129467,7 +129443,7 @@ Data0=(-43.70497,171.39794)
 
 ;1141712
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 1 Near Mobil Station Hinds/ Telecom, payphone, public phone box
 Phone=+6433037009
@@ -129476,7 +129452,7 @@ Data0=(-44.00253,171.56983)
 
 ;1141713
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 75 Main Rd O/S Duvauchelle Store Akaroa/ Telecom, payphone, public phone box
 Phone=+6433045068
@@ -129485,7 +129461,7 @@ Data0=(-43.75038,172.93393)
 
 ;1141714
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Beach Rd Opp Wharf Akaroa/ Telecom, payphone, public phone box
 Phone=+6433047273
@@ -129494,7 +129470,7 @@ Data0=(-43.80839,172.96288)
 
 ;1141715
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Morgans Rd Akaroa Top10 Holiday Park Akaroa/ Telecom, payphone, public phone box
 Phone=+6433047791
@@ -129503,7 +129479,7 @@ Data0=(-43.79641,172.97100)
 
 ;1141716
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Onuku Rd Onuku Farm Hostel Akaroa/ Telecom, payphone, public phone box
 Phone=+6433047792
@@ -129512,7 +129488,7 @@ Data0=(-43.84350,172.96287)
 
 ;1141717
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Wainui Valley Rd Opp Hall Wainui Akaroa/ Telecom, payphone, public phone box
 Phone=+6433048449
@@ -129521,7 +129497,7 @@ Data0=(-43.81680,172.90386)
 
 ;1141718
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=80 Rue Lavaud O/S NZ Post Akaroa/ Telecom, payphone, public phone box
 Phone=+6433048468
@@ -129530,7 +129506,7 @@ Data0=(-43.80536,172.96702)
 
 ;1141719
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Le Bons Bay Rd Le Bons Bay Akaroa/ Telecom, payphone, public phone box
 Phone=+6433048557
@@ -129539,7 +129515,7 @@ Data0=(-43.74162,173.09144)
 
 ;1141720
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Okains Bay Rd O/S Dairy Okains Bay Akaroa/ Telecom, payphone, public phone box
 Phone=+6433048645
@@ -129548,7 +129524,7 @@ Data0=(-43.70944,173.04205)
 
 ;1141721
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Little Akaloa Rd Near Tenis Club Little Akaloa Akaroa/ Telecom, payphone, public
 Phone=+6433048727
@@ -129557,7 +129533,7 @@ Data0=(-43.67472,172.99198)
 
 ;1141722
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=East St O/S Visitor Information Ctr Ashburton/ Telecom, payphone, public phone b
 Phone=+6433081346
@@ -129566,7 +129542,7 @@ Data0=(-43.90393,171.74839)
 
 ;1141723
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=141 West St O/S Shell Station Ashburton/ Telecom, payphone, public phone box
 Phone=+6433082096
@@ -129575,7 +129551,7 @@ Data0=(-43.90456,171.74607)
 
 ;1141724
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=710 East St O/S Mobil Station Ashburton/ Telecom, payphone, public phone box
 Phone=+6433082265
@@ -129584,7 +129560,7 @@ Data0=(-43.89359,171.76534)
 
 ;1141725
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Mt Hutt Ski Field Rd Sky High Cafi Mt Hutt Methven/ Telecom, payphone, public ph
 Phone=+6433082432
@@ -129593,7 +129569,7 @@ Data0=(-43.49476,171.54145)
 
 ;1141726
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Elizabeth St Ashburton Hospital Reception Ashburton/ Telecom, payphone, public p
 Phone=+6433083006
@@ -129602,7 +129578,7 @@ Data0=(-43.89422,171.74691)
 
 ;1141729
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Harrison St O/S Shop Ctre Allenton Ashburton/ Telecom, payphone, public phone bo
 Phone=+6433083099
@@ -129611,7 +129587,7 @@ Data0=(-43.88654,171.74333)
 
 ;1141730
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Albert St cnr Bridge St O/S Dairy Hampstead Ashburton/ Telecom, payphone, public
 Phone=+6433084911
@@ -129620,7 +129596,7 @@ Data0=(-43.90295,171.76364)
 
 ;1141731
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=390 East St O/S NZ Post Ashburton/ Telecom, payphone, public phone box
 Phone=+6433084915
@@ -129629,7 +129605,7 @@ Data0=(-43.90281,171.75109)
 
 ;1141732
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=208 Havelock St Opp Carpark Ashburton/ Telecom, payphone, public phone box
 Phone=+6433084916
@@ -129638,7 +129614,7 @@ Data0=(-43.90133,171.75226)
 
 ;1141733
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Mt Hutt Ski Field Rd Sky High Cafi Mt Hutt Methven/ Telecom, payphone, public ph
 Phone=+6433086215
@@ -129647,7 +129623,7 @@ Data0=(-43.49523,171.53995)
 
 ;1141734
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Main Rd O/S Dairy Oxford/ Telecom, payphone, public phone box
 Phone=+6433124111
@@ -129656,7 +129632,7 @@ Data0=(-43.29850,172.18947)
 
 ;1141735
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Beach Rd cnr Ferry Rd O/S Camping Ground Woodend/ Telecom, payphone, public phon
 Phone=+6433127297
@@ -129665,7 +129641,7 @@ Data0=(-43.33671,172.70425)
 
 ;1141736
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Park Terrace O/S Waikuku Beach General Store Waikuku Beach Woodend/ Telecom, pay
 Phone=+6433127781
@@ -129674,7 +129650,7 @@ Data0=(-43.28697,172.71820)
 
 ;1141737
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Main North Rd O/S BP Station Woodend/ Telecom, payphone, public phone box
 Phone=+6433127785
@@ -129683,7 +129659,7 @@ Data0=(-43.32243,172.66581)
 
 ;1141738
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=21 Ashley St O/S Mobil Station Rangiora/ Telecom, payphone, public phone box
 Phone=+6433135602
@@ -129692,7 +129668,7 @@ Data0=(-43.30175,172.59575)
 
 ;1141739
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=397 High St Opp Plough Hotel near Dairy Rangiora/ Telecom, payphone, public phon
 Phone=+6433136065
@@ -129701,7 +129677,7 @@ Data0=(-43.30499,172.58396)
 
 ;1141740
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=99 High St O/S Postbank Rangiora/ Telecom, payphone, public phone box
 Phone=+6433136927
@@ -129710,7 +129686,7 @@ Data0=(-43.30345,172.59537)
 
 ;1141741
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Valley Rd O/S Shell Station Greta Valley/ Telecom, payphone, public phone box
 Phone=+6433143597
@@ -129719,7 +129695,7 @@ Data0=(-42.96430,172.96785)
 
 ;1141742
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 7 Lewis Pass Rd O/S BP Station Waikari/ Telecom, payphone, public phone box
 Phone=+6433144074
@@ -129728,7 +129704,7 @@ Data0=(-42.96967,172.70577)
 
 ;1141743
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 7 O/S Tea Rooms Waipara/ Telecom, payphone, public phone box
 Phone=+6433146901
@@ -129737,7 +129713,7 @@ Data0=(-43.06545,172.75713)
 
 ;1141744
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Kings Ave O/S Tennis Court Leithfield Beach/ Telecom, payphone, public phone box
 Phone=+6433148007
@@ -129746,7 +129722,7 @@ Data0=(-43.21171,172.75347)
 
 ;1141745
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=117 Carters Rd O/S Shops Amberley/ Telecom, payphone, public phone box
 Phone=+6433149398
@@ -129755,7 +129731,7 @@ Data0=(-43.15677,172.73012)
 
 ;1141746
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Lyndon St O/S Tea Rooms Waiau/ Telecom, payphone, public phone box
 Phone=+6433156321
@@ -129764,7 +129740,7 @@ Data0=(-42.65589,173.04036)
 
 ;1141747
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=200 Jacks Pass Rd AA Motor Camp O/S Office Hanmer Springs/ Telecom, payphone, pu
 Phone=+6433157105
@@ -129773,7 +129749,7 @@ Data0=(-42.51055,172.81368)
 
 ;1141748
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Conical Hill Rd O/S Pricecutter Hanmer Springs/ Telecom, payphone, public phone 
 Phone=+6433157206
@@ -129782,7 +129758,7 @@ Data0=(-42.52136,172.82953)
 
 ;1141749
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=2 Harrogate St cnr Amuri Rd O/S Drifters Inn Hanmer Springs/ Telecom, payphone, 
 Phone=+6433157295
@@ -129791,7 +129767,7 @@ Data0=(-42.52371,172.82979)
 
 ;1141750
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=5 Hanmer Springs Rd Mountain View Top10 Holiday Park Hanmer Springs/ Telecom, pa
 Phone=+6433157304
@@ -129800,7 +129776,7 @@ Data0=(-42.52797,172.82944)
 
 ;1141751
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Main Rd O/S Tearooms Culverden/ Telecom, payphone, public phone box
 Phone=+6433158393
@@ -129809,7 +129785,7 @@ Data0=(-42.77395,172.84751)
 
 ;1141752
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Albert St cnr Glenroy St Opp Dairy Homebush Glentunnel/ Telecom, payphone, publi
 Phone=+6433182840
@@ -129818,7 +129794,7 @@ Data0=(-43.48111,171.93281)
 
 ;1141753
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 73West Coast Rd YHA Smylies Accommodation Springfield/ Telecom, payphone, pu
 Phone=+6433184767
@@ -129827,7 +129803,7 @@ Data0=(-43.33690,171.92562)
 
 ;1141754
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=South Terrace O/S Lotto Shop Darfield/ Telecom, payphone, public phone box
 Phone=+6433188945
@@ -129836,7 +129812,7 @@ Data0=(-43.48962,172.10968)
 
 ;1141755
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 73 Main Rd O/S Hotel Springfield/ Telecom, payphone, public phone box
 Phone=+6433188946
@@ -129845,7 +129821,7 @@ Data0=(-43.33657,171.92466)
 
 ;1141756
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 73 Main Rd O/S YHA Arthur's Pass Arthur's Pass/ Telecom, payphone, public ph
 Phone=+6433189017
@@ -129854,7 +129830,7 @@ Data0=(-42.94244,171.56341)
 
 ;1141757
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE 24HR
 StreetDesc=47 West End, Kaikoura/ Telecom, payphone, public phone box
 Phone=+6433195055
@@ -129864,7 +129840,7 @@ Data0=(-42.40071,173.68141)
 
 ;1141758
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Beach Rd Top 10 Kaikoura/ Telecom, payphone, public phone box
 Phone=+6433195871
@@ -129873,7 +129849,7 @@ Data0=(-42.39459,173.67986)
 
 ;1141759
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=67 Beach Rd Dusky Lodge Kaikoura/ Telecom, payphone, public phone box
 Phone=+6433195971
@@ -129882,7 +129858,7 @@ Data0=(-42.39440,173.67897)
 
 ;1141760
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=665 SHW 1 Puketa Camping Ground Store Kaikoura/ Telecom, payphone, public phone 
 Phone=+6433196291
@@ -129891,7 +129867,7 @@ Data0=(-42.42795,173.59077)
 
 ;1141761
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=134 The Esplanade Near Whitehouse Backpackers Kaikoura/ Telecom, payphone, publi
 Phone=+6433196295
@@ -129900,7 +129876,7 @@ Data0=(-42.41083,173.68731)
 
 ;1141762
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=196 Torquay St opp EsplanadeKaikoura/ Telecom, payphone, public phone box
 Phone=+6433196296
@@ -129909,7 +129885,7 @@ Data0=(-42.41574,173.69528)
 
 ;1141763
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Moa Rd South Bay Marina Kaikoura/ Telecom, payphone, public phone box
 Phone=+6433196521
@@ -129918,7 +129894,7 @@ Data0=(-42.42457,173.68133)
 
 ;1141764
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=The Esplanade YHA Kaikoura/ Telecom, payphone, public phone box
 Phone=+6433196731
@@ -129927,7 +129903,7 @@ Data0=(-42.41554,173.69648)
 
 ;1141765
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=West End Opp Visitor Ctre Near Post Shop Kaikoura/ Telecom, payphone, public pho
 Phone=+6433196831
@@ -129936,7 +129912,7 @@ Data0=(-42.40374,173.68386)
 
 ;1141766
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=The Whaleway Station Rd Whale Watch Kaikoura/ Telecom, payphone, public phone bo
 Phone=+6433197015
@@ -129945,7 +129921,7 @@ Data0=(-42.39897,173.68019)
 
 ;1141767
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=33 Hall St O/S Tearooms Cheviot/ Telecom, payphone, public phone box
 Phone=+6433198429
@@ -129954,7 +129930,7 @@ Data0=(-42.81165,173.27417)
 
 ;1141768
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Moody St cnr Smith St Gore Bay Cheviot/ Telecom, payphone, public phone box
 Phone=+6433198892
@@ -129963,7 +129939,7 @@ Data0=(-42.85882,173.30934)
 
 ;1141769
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=346 Halswell Rd O/S Shop Ctre Halswell Chc/ Telecom, payphone, public phone box
 Phone=+6433228810
@@ -129972,7 +129948,7 @@ Data0=(-43.57939,172.56671)
 
 ;1141770
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=713 Main North Rd Shell Station Forecourt Belfast Chc/ Telecom, payphone, public
 Phone=+6433236458
@@ -129981,7 +129957,7 @@ Data0=(-43.45166,172.62804)
 
 ;1141771
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Main North Rd O/S New World Supermarket Belfast Chc/ Telecom, payphone, public p
 Phone=+6433237769
@@ -129990,7 +129966,7 @@ Data0=(-43.44600,172.63204)
 
 ;1141772
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=72 High St O/S Dairy Leeston/ Telecom, payphone, public phone box
 Phone=+6433243148
@@ -129999,7 +129975,7 @@ Data0=(-43.76193,172.29893)
 
 ;1141773
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Main Rd O/S Store Little River Banks Peninsula/ Telecom, payphone, public phone 
 Phone=+6433251105
@@ -130008,7 +129984,7 @@ Data0=(-43.77411,172.78858)
 
 ;1141774
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Gerald St O/S Shops Lincoln/ Telecom, payphone, public phone box
 Phone=+6433252013
@@ -130017,7 +129993,7 @@ Data0=(-43.64018,172.48554)
 
 ;1141775
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Ellesmere Junction Rd Lincoln University Student Union Buildg Lincoln/ Telecom, 
 Phone=+6433252404
@@ -130026,7 +130002,7 @@ Data0=(-43.64279,172.46660)
 
 ;1141776
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Ellesmere Junction Rd Lincoln University George Forbes Buildg Lincoln/ Telecom, 
 Phone=+6433253251
@@ -130035,7 +130011,7 @@ Data0=(-43.64247,172.46871)
 
 ;1141778
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=22 Esplanade, Sumner Chc/ Telecom, payphone, public phone box, wifi
 Phone=+6433267245
@@ -130044,7 +130020,7 @@ Data0=(-43.56707,172.75920)
 
 ;1141779
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Williams St cnr Charles St O/S Shops Kaiapoi Chc/ Telecom, payphone, public phon
 Phone=+6433275067
@@ -130053,7 +130029,7 @@ Data0=(-43.38203,172.65808)
 
 ;1141780
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=124 Williams St O/S Shell Station Kaiapoi Chc/ Telecom, payphone, public phone b
 Phone=+6433275451
@@ -130062,7 +130038,7 @@ Data0=(-43.38934,172.65410)
 
 ;1141781
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Featherston AveKairaki Beach Rangiora/ Telecom, payphone, public phone box
 Phone=+6433278001
@@ -130071,7 +130047,7 @@ Data0=(-43.38621,172.70401)
 
 ;1141782
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Main North Rd Pineacres Motor Park Kaiapoi Chc/ Telecom, payphone, public phone 
 Phone=+6433278639
@@ -130080,7 +130056,7 @@ Data0=(-43.35259,172.66300)
 
 ;1141783
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Gladstone Qy O/S Lyttelton Museum Lyttelton/ Telecom, payphone, public phone box
 Phone=+6433287009
@@ -130089,7 +130065,7 @@ Data0=(-43.60387,172.72184)
 
 ;1141785
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=91 Norwich Qy Lyttelton Carenderia Lyttleton/ Telecom, payphone, public phone bo
 Phone=+6433288163
@@ -130098,7 +130074,7 @@ Data0=(-43.60351,172.72022)
 
 ;1141787
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Waipapa Ave O/S NZ Post Diamond Harbour/ Telecom, payphone, public phone box
 Phone=+6433294890
@@ -130107,7 +130083,7 @@ Data0=(-43.62611,172.73948)
 
 ;1141788
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Heyders Rd Spencer Park O/S Shop Opp Mini Golf Spencerville Chc/ Telecom, paypho
 Phone=+6433298504
@@ -130116,7 +130092,7 @@ Data0=(-43.43166,172.70440)
 
 ;1141789
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Barrington St cnr Somerfield St Somerfield Chc/ Telecom, payphone, public phone 
 Phone=+6433320004
@@ -130125,7 +130101,7 @@ Data0=(-43.56355,172.62603)
 
 ;1141790
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Colombo St cnr King St Opp Shops Waltham Chc/ Telecom, payphone, public phone bo
 Phone=+6433320009
@@ -130134,7 +130110,7 @@ Data0=(-43.55159,172.63682)
 
 ;1141791
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=126 Opawa Rd cnr Hawford Rd, Opawa Chc/ Telecom, payphone, public phone box, wif
 Phone=+6433322613
@@ -130143,7 +130119,7 @@ Data0=(-43.55336,172.66489)
 
 ;1141792
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Barrington St O/S Barrington Mall Spreydon Chc/ Telecom, payphone, public phone 
 Phone=+6433328625
@@ -130152,7 +130128,7 @@ Data0=(-43.55708,172.61877)
 
 ;1141793
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Wilsons Rd O/S Canterbury Trust Bank St Martins Chc/ Telecom, payphone, public p
 Phone=+6433328629
@@ -130161,7 +130137,7 @@ Data0=(-43.55844,172.65436)
 
 ;1141794
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Colombo St Opp Malcom Ave O/S Shops Beckenham Chc/ Telecom, payphone, public pho
 Phone=+6433328731
@@ -130170,7 +130146,7 @@ Data0=(-43.56517,172.63699)
 
 ;1141795
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Colombo St cnr Somerfield St O/S Shops Beckenham Chc/ Telecom, payphone, public 
 Phone=+6433372486
@@ -130179,7 +130155,7 @@ Data0=(-43.55715,172.63678)
 
 ;1141796
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=47 Whiteleigh Ave O/S Addington Motor Camp Office Addington Chc/ Telecom, paypho
 Phone=+6433382646
@@ -130188,7 +130164,7 @@ Data0=(-43.54282,172.60578)
 
 ;1141797
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Hoon Hay Rd cnr Lincoln Rd O/S Shops Hillmorton Chc/ Telecom, payphone, public p
 Phone=+6433384233
@@ -130197,7 +130173,7 @@ Data0=(-43.55482,172.59303)
 
 ;1141798
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Lincoln Rd cnr Sylvan St O/S Dairy Spreydon Chc/ Telecom, payphone, public phone
 Phone=+6433388001
@@ -130206,7 +130182,7 @@ Data0=(-43.55123,172.59891)
 
 ;1141799
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Lincoln Rd cnr Parlane St O/S Shops Addington Chc/ Telecom, payphone, public pho
 Phone=+6433388881
@@ -130215,7 +130191,7 @@ Data0=(-43.54322,172.61246)
 
 ;1141801
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE WIFI HOTSPOT
 StreetDesc=Yaldhurst Rd cnr Cutts Rd, Russley Chc/ Telecom, payphone, public phone box, wif
 Phone=+6433425358
@@ -130224,7 +130200,7 @@ Data0=(-43.52275,172.54221)
 
 ;1141802
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Yaldhurst Rd cnr Pound Rd Yaldhurst Chc/ Telecom, payphone, public phone box
 Phone=+6433425806
@@ -130233,7 +130209,7 @@ Data0=(-43.51268,172.50869)
 
 ;1141803
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=202 Yaldhurst Rd O/S Shell Racecourse Russley Chc/ Telecom, payphone, public pho
 Phone=+6433425936
@@ -130242,7 +130218,7 @@ Data0=(-43.52621,172.55339)
 
 ;1141804
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Racecourse Rd cnr Epsom Rd O/S Shops Sockburn Chc/ Telecom, payphone, public pho
 Phone=+6433427105
@@ -130251,7 +130227,7 @@ Data0=(-43.53301,172.54941)
 
 ;1141805
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=33 Riccarton Rd O/S Shell Station Riccarton Chc/ Telecom, payphone, public phone
 Phone=+6433431091
@@ -130260,7 +130236,7 @@ Data0=(-43.52912,172.60906)
 
 ;1141806
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Dovedale Ave I/S Sonoda Campus Keyaki House Ilam Chc/ Telecom, payphone, public 
 Phone=+6433431107
@@ -130269,7 +130245,7 @@ Data0=(-43.52222,172.56956)
 
 ;1141807
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Dovedale Ave College of Education Opp PABX Room Ilam Chc/ Telecom, payphone, pub
 Phone=+6433432109
@@ -130278,7 +130254,7 @@ Data0=(-43.52051,172.56831)
 
 ;1141808
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Ilam Rd University of Canterbury James Hight Libr B'ment O/S Security Off Ilam C
 Phone=+6433433369
@@ -130287,7 +130263,7 @@ Data0=(-43.52351,172.58317)
 
 ;1141809
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=19 Main South Rd Riccarton Park Motor Camp Upper Riccarton Chc/ Telecom, payphon
 Phone=+6433433573
@@ -130296,7 +130272,7 @@ Data0=(-43.53263,172.56971)
 
 ;1141810
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Curletts Rd cnr Blenheim Rd O/S Shell Station Middleton Chc/ Telecom, payphone, 
 Phone=+6433433986
@@ -130305,7 +130281,7 @@ Data0=(-43.53912,172.56829)
 
 ;1141811
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=1 Puriri St cnr Riccarton Rd O/S Dairy Riccarton Chc/ Telecom, payphone, public 
 Phone=+6433435286
@@ -130314,7 +130290,7 @@ Data0=(-43.53037,172.59178)
 
 ;1141812
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Burnham Rd Military CampO/S Canteen/Soldiers Club Burnham Chc/ Telecom, payphone
 Phone=+6433476040
@@ -130323,7 +130299,7 @@ Data0=(-43.61231,172.30748)
 
 ;1141813
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Burnham Rd Military Camp O/S AGI Supermarket Burnham Chc/ Telecom, payphone, pub
 Phone=+6433476050
@@ -130332,7 +130308,7 @@ Data0=(-43.61596,172.29901)
 
 ;1141815
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=95 Riccarton Rd cnr Clarence St O/S Windmill Shop Ctre Riccarton Chc/ Telecom, p
 Phone=+6433480473
@@ -130341,7 +130317,7 @@ Data0=(-43.52963,172.60230)
 
 ;1141816
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=251 Riccarton Rd cnr Wharenui Rd O/S Telephone Exchange Upper Riccarton Chc/ Tel
 Phone=+6433480806
@@ -130350,7 +130326,7 @@ Data0=(-43.53097,172.58570)
 
 ;1141817
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=10 Matai St East Chc Girls High School Fendalton Chc/ Telecom, payphone, public 
 Phone=+6433480852
@@ -130359,7 +130335,7 @@ Data0=(-43.52521,172.61170)
 
 ;1141818
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=189 Deans Ave The Chateau On The Park City Chc/ Telecom, payphone, public phone 
 Phone=+6433482063
@@ -130368,7 +130344,7 @@ Data0=(-43.52655,172.61227)
 
 ;1141819
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Clarence St I/S ChCh Railway Station Riccarton Chc/ Telecom, payphone, public ph
 Phone=+6433483651
@@ -130377,7 +130353,7 @@ Data0=(-43.54088,172.60753)
 
 ;1141820
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=338 Riccarton Rd O/S BP Station Upper Riccarton Chc/ Telecom, payphone, public p
 Phone=+6433484008
@@ -130386,7 +130362,7 @@ Data0=(-43.53164,172.57569)
 
 ;1141821
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Main South Rd cnr Greenhurst St O/S Shops Sockburn Chc/ Telecom, payphone, publi
 Phone=+6433484012
@@ -130395,7 +130371,7 @@ Data0=(-43.53825,172.55570)
 
 ;1141822
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=9 Riccarton Rd O/S 24 Hour Dairy Riccarton Chc/ Telecom, payphone, public phone 
 Phone=+6433484014
@@ -130404,7 +130380,7 @@ Data0=(-43.52894,172.61119)
 
 ;1141823
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=308 Blenheim Rd Amber Park Motel Riccarton Chc/ Telecom, payphone, public phone 
 Phone=+6433484610
@@ -130413,7 +130389,7 @@ Data0=(-43.53837,172.58302)
 
 ;1141824
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Waimairi Rd Bush Inn Shop CtreRiccarton Chc/ Telecom, payphone, public phone box
 Phone=+6433485891
@@ -130422,7 +130398,7 @@ Data0=(-43.50564,172.52891)
 
 ;1141825
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=129 Riccarton Rd O/S Westfield Mall Riccarton Chc/ Telecom, payphone, public pho
 Phone=+6433486352
@@ -130431,7 +130407,7 @@ Data0=(-43.53001,172.59761)
 
 ;1141826
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=15 Sioux Ave Wigram Lodge Block 1 Sockburn Chc/ Telecom, payphone, public phone 
 Phone=+6433492680
@@ -130440,7 +130416,7 @@ Data0=(-43.54618,172.54265)
 
 ;1141827
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Main South Rd cnr Garvins Rd Hornby Chc/ Telecom, payphone, public phone box
 Phone=+6433493201
@@ -130449,7 +130425,7 @@ Data0=(-43.54329,172.53927)
 
 ;1141828
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=22 Wycola AveHei Hei Chc/ Telecom, payphone, public phone box
 Phone=+6433493871
@@ -130458,7 +130434,7 @@ Data0=(-43.53592,172.52135)
 
 ;1141829
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=718 Main South Rd Templeton Chc/ Telecom, payphone, public phone box
 Phone=+6433494826
@@ -130467,7 +130443,7 @@ Data0=(-43.54948,172.48930)
 
 ;1141830
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=62 Springs Rd Hornby Chc/ Telecom, payphone, public phone box
 Phone=+6433496001
@@ -130476,7 +130452,7 @@ Data0=(-43.54798,172.54089)
 
 ;1141831
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=557 Springs Rd Prebbleton Chc/ Telecom, payphone, public phone box
 Phone=+6433496011
@@ -130485,7 +130461,7 @@ Data0=(-43.57955,172.51364)
 
 ;1141832
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Main South Rd Hornby Chc/ Telecom, payphone, public phone box
 Phone=+6433497002
@@ -130494,7 +130470,7 @@ Data0=(-43.54369,172.52359)
 
 ;1141833
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Clyde Rd cnr Ilam Rd O/S Ilam Dairy Ilam Chc/ Telecom, payphone, public phone bo
 Phone=+6433515006
@@ -130503,7 +130479,7 @@ Data0=(-43.50911,172.58897)
 
 ;1141834
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Clyde Rd cnr Memorial Ave O/S BP Station Fendalton Chc/ Telecom, payphone, publi
 Phone=+6433516004
@@ -130512,7 +130488,7 @@ Data0=(-43.51852,172.59037)
 
 ;1141835
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Main North Rd cnr Daniels Rd O/S Redwood Clinic Redwood Chc/ Telecom, payphone, 
 Phone=+6433516057
@@ -130521,7 +130497,7 @@ Data0=(-43.47844,172.61688)
 
 ;1141836
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Main North Rd cnr Sawyers Arms Rd, Papanui Chc/ Telecom, payphone, public phone 
 Phone=+6433516117
@@ -130530,7 +130506,7 @@ Data0=(-43.49126,172.61269)
 
 ;1141837
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=116 Creyke Rd O/S Shops Ilam Chc/ Telecom, payphone, public phone box, wifi
 Phone=+6433517268
@@ -130539,7 +130515,7 @@ Data0=(-43.51962,172.57925)
 
 ;1141838
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=85A Aorangi Rd Bryndwr Chc/ Telecom, payphone, public phone box
 Phone=+6433518363
@@ -130548,7 +130524,7 @@ Data0=(-43.50372,172.59378)
 
 ;1141839
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=802 Main North Rd Redwood Chc/ Telecom, payphone, public phone box
 Phone=+6433520131
@@ -130557,7 +130533,7 @@ Data0=(-43.47256,172.61738)
 
 ;1141840
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=39 Meadow St (Cranford St end) Meadow Park Top10 Holiday Park Papanui Chc/ Telec
 Phone=+6433522379
@@ -130566,7 +130542,7 @@ Data0=(-43.49060,172.61825)
 
 ;1141841
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=O/S Rest Room, Northlands Shopping Mall, 55 Main North Rd, Papanui, Chc/ Telecom
 Phone=+6433523793
@@ -130575,7 +130551,7 @@ Data0=(-43.49356,172.60884)
 
 ;1141842
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=O/S Pak'n Save, Northlands Shopping Mall, 55 Main North Rd, Papanui, Chc/ Teleco
 Phone=+6433525649
@@ -130584,7 +130560,7 @@ Data0=(-43.49287,172.60950)
 
 ;1141843
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=204 Main North Rd St Bedes College O/S Grimes Hall Redwood Chc/ Telecom, payphon
 Phone=+6433527001
@@ -130593,7 +130569,7 @@ Data0=(-43.48363,172.61972)
 
 ;1141844
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=511 Papanui Rd O/S Shops Papanui Chc/ Telecom, payphone, public phone box
 Phone=+6433527485
@@ -130602,7 +130578,7 @@ Data0=(-43.49721,172.60792)
 
 ;1141845
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=55 Main North Rd Northlands Mall I/S Hoyts 6 Cinema Papanui Chc/ Telecom, paypho
 Phone=+6433528596
@@ -130611,7 +130587,7 @@ Data0=(-43.49447,172.60867)
 
 ;1141849
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=185 Papanui Rd O/S Merivale Mall Merivale Chc/ Telecom, payphone, public phone b
 Phone=+6433552111
@@ -130620,7 +130596,7 @@ Data0=(-43.51264,172.62202)
 
 ;1141850
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=249 Papanui Rd St Georges Hospital Canon Wilford Wing Gnd Flr Lift Lobby Merival
 Phone=+6433552147
@@ -130629,7 +130605,7 @@ Data0=(-43.50977,172.61944)
 
 ;1141851
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Briggs Rd cnr Clearbrook St, Shirley Chc/ Telecom, payphone, public phone box, w
 Phone=+6433553009
@@ -130638,7 +130614,7 @@ Data0=(-43.49560,172.65548)
 
 ;1141853
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Springfield Rd cnr Abberly Cres O/S Dairy St Albans Chc/ Telecom, payphone, publ
 Phone=+6433555603
@@ -130647,7 +130623,7 @@ Data0=(-43.51337,172.63245)
 
 ;1141855
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Normans Rd cnr Strowan Rd Bryndwr Chc/ Telecom, payphone, public phone box
 Phone=+6433555611
@@ -130656,7 +130632,7 @@ Data0=(-43.51006,172.60680)
 
 ;1141856
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Papanui Rd opp DerbySt O/S Shell Station City Chc/ Telecom, payphone, public pho
 Phone=+6433558061
@@ -130665,7 +130641,7 @@ Data0=(-43.52067,172.62790)
 
 ;1141859
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=20 Orchard Rd near Roy Place Chc/ Telecom, payphone, public phone box
 Phone=+6433579316
@@ -130674,7 +130650,7 @@ Data0=(-43.48908,172.54563)
 
 ;1141860
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Chc Airport Domestic Lounge 1st Flr Chc/ Telecom, payphone, public phone box
 Phone=+6433579403
@@ -130683,7 +130659,7 @@ Data0=(-43.48758,172.53855)
 
 ;1141862
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Memorial Ave cnr Orchard Rd Plaza Hotel Harewood Chc/ Telecom, payphone, public 
 Phone=+6433581301
@@ -130692,7 +130668,7 @@ Data0=(-43.48960,172.54509)
 
 ;1141864
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=ChCh Airport Domestic Baggage Claim Chc/ Telecom, payphone, public phone box
 Phone=+6433582319
@@ -130701,7 +130677,7 @@ Data0=(-43.48924,172.53855)
 
 ;1141865
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=ChCh Airport Domestic Viewing Area Chc/ Telecom, payphone, public phone box
 Phone=+6433582874
@@ -130710,7 +130686,7 @@ Data0=(-43.48893,172.53869)
 
 ;1141866
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=ChCh Airport Intl Arrivals Chc/ Telecom, payphone, public phone box
 Phone=+6433583478
@@ -130719,7 +130695,7 @@ Data0=(-43.48847,172.53965)
 
 ;1141867
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=ChCh Airport Intl Arrivals Chc/ Telecom, payphone, public phone box
 Phone=+6433586031
@@ -130728,7 +130704,7 @@ Data0=(-43.48817,172.54197)
 
 ;1141868
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=ChCh Airport Intl Departures Chc/ Telecom, payphone, public phone box
 Phone=+6433586173
@@ -130737,7 +130713,7 @@ Data0=(-43.48763,172.54119)
 
 ;1141869
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=ChCh Airport Intl Departures Chc/ Telecom, payphone, public phone box
 Phone=+6433586597
@@ -130746,7 +130722,7 @@ Data0=(-43.48747,172.54090)
 
 ;1141871
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Orchard Rd Antarctic Visitors Ctr under veranda Chc/ Telecom, payphone, public p
 Phone=+6433587192
@@ -130755,7 +130731,7 @@ Data0=(-43.48824,172.54679)
 
 ;1141872
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=201 Waimairi Rd cnr Maidstone Rd O/S Ilam Watchmakers Ilam Chc/ Telecom, payphon
 Phone=+6433588012
@@ -130764,7 +130740,7 @@ Data0=(-43.51676,172.57191)
 
 ;1141873
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Withells Rd O/S Avonhead Mall Avonhead Chc/ Telecom, payphone, public phone box,
 Phone=+6433588017
@@ -130773,7 +130749,7 @@ Data0=(-43.51048,172.55650)
 
 ;1141875
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=264 Sawyers Arms Rd O/S BP Station Bishopdale Chc/ Telecom, payphone, public pho
 Phone=+6433593036
@@ -130782,7 +130758,7 @@ Data0=(-43.48128,172.59257)
 
 ;1141876
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Sawyers Arms Rd cnr Johns Rd O/S North South Holiday Park Harewood Chc/ Telecom,
 Phone=+6433594420
@@ -130791,7 +130767,7 @@ Data0=(-43.47118,172.57014)
 
 ;1141877
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Wairakei Rd cnr Greers Rd Bryndwr Chc/ Telecom, payphone, public phone box
 Phone=+6433595369
@@ -130800,7 +130776,7 @@ Data0=(-43.49961,172.58636)
 
 ;1141878
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Harewood Rd cnr Trafford St Bishopdale Chc/ Telecom, payphone, public phone box
 Phone=+6433595371
@@ -130809,7 +130785,7 @@ Data0=(-43.48341,172.57662)
 
 ;1141879
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=115 Farrington Ave, Bishopdale, Chc/ Telecom, payphone, public phone box
 Phone=+6433595372
@@ -130818,7 +130794,7 @@ Data0=(-43.49051,172.58710)
 
 ;1141880
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Chc Womens Hospital, 5th Fl Obstetrics, 2 Riccarton Ave, Chc/ Telecom, payphone,
 Phone=+6433650195
@@ -130827,7 +130803,7 @@ Data0=(-43.53394,172.62441)
 
 ;1141881
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Park Terrace cnr Armagh St City Chc/ Telecom, payphone, public phone box
 Phone=+6433650438
@@ -130836,7 +130812,7 @@ Data0=(-43.52876,172.62767)
 
 ;1141883
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=337 Moorhouse Ave O/S Big Fresh Shop Ctre City Chc/ Telecom, payphone, public ph
 Phone=+6433650943
@@ -130845,7 +130821,7 @@ Data0=(-43.53986,172.64110)
 
 ;1141884
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=110 Cashel St O/S Music Shop City Chc/ Telecom, payphone, public phone box
 Phone=+6433652724
@@ -130854,7 +130830,7 @@ Data0=(-43.53312,172.63629)
 
 ;1141885
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=95 Hereford St Telecom Mall City Chc/ Telecom, payphone, public phone box
 Phone=+6433652824
@@ -130863,7 +130839,7 @@ Data0=(-43.53145,172.63571)
 
 ;1141888
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Durham St cnr Kilmore St Parkroyal Hotel Foyer City Chc/ Telecom, payphone, publ
 Phone=+6433653481
@@ -130872,7 +130848,7 @@ Data0=(-43.52672,172.63376)
 
 ;1141889
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=12 Hereford St YMCA City Chc/ Telecom, payphone, public phone box
 Phone=+6433653547
@@ -130881,7 +130857,7 @@ Data0=(-43.53220,172.62795)
 
 ;1141890
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=56 Cathedral Sq Base Backpackers Lev2 City Chc/ Telecom, payphone, public phone 
 Phone=+6433653964
@@ -130890,7 +130866,7 @@ Data0=(-43.52393,171.74686)
 
 ;1141891
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=56 Cathedral Sq Base Backpackers Lev1 City Chc/ Telecom, payphone, public phone 
 Phone=+6433653973
@@ -130899,7 +130875,7 @@ Data0=(-43.53018,172.63748)
 
 ;1141892
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=52 Manchester St Cokers Hotel City Chc/ Telecom, payphone, public phone box
 Phone=+6433654289
@@ -130908,7 +130884,7 @@ Data0=(-43.53739,172.63978)
 
 ;1141895
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Riccarton Ave Chc Hospital Ward 19 Flr 3 City Chc/ Telecom, payphone, public pho
 Phone=+6433655753
@@ -130917,7 +130893,7 @@ Data0=(-43.53484,172.62612)
 
 ;1141896
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=21 Worcester Boulevard O/S Chc Arts Ctr City Chc/ Telecom, payphone, public phon
 Phone=+6433655769
@@ -130926,7 +130902,7 @@ Data0=(-43.53103,172.62921)
 
 ;1141897
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=317 Barbadoes St O/S Armagh Automotive City Chc/ Telecom, payphone, public phone
 Phone=+6433656824
@@ -130935,7 +130911,7 @@ Data0=(-43.52898,172.64553)
 
 ;1141898
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=297 Moorhouse Ave Pak'n Save City Chc/ Telecom, payphone, public phone box
 Phone=+6433657415
@@ -130944,7 +130920,7 @@ Data0=(-43.53966,172.63859)
 
 ;1141899
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=107 Worcester St I/S Cathedral Junction Chc/ Telecom, payphone, public phone box
 Phone=+6433659563
@@ -130953,7 +130929,7 @@ Data0=(-43.53053,172.63836)
 
 ;1141900
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=270 Bealey Ave O/S Mobil Station City Chc/ Telecom, payphone, public phone box, 
 Phone=+6433660219
@@ -130962,7 +130938,7 @@ Data0=(-43.52094,172.64545)
 
 ;1141901
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=250 High St Near Cashel St City Chc/ Telecom, payphone, public phone box
 Phone=+6433660712
@@ -130971,7 +130947,7 @@ Data0=(-43.53307,172.63798)
 
 ;1141902
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=120 Manchester St New Excelsior Backpackers City Chc/ Telecom, payphone, public 
 Phone=+6433661520
@@ -130980,7 +130956,7 @@ Data0=(-43.53507,172.63911)
 
 ;1141905
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Cathedral Sq O/S ANZ City Chc/ Telecom, payphone, public phone box
 Phone=+6433667350
@@ -130989,7 +130965,7 @@ Data0=(-43.53154,172.63598)
 
 ;1141908
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Salisbury St cnr Madras St City Chc/ Telecom, payphone, public phone box
 Phone=+6433669163
@@ -130998,7 +130974,7 @@ Data0=(-43.52450,172.64257)
 
 ;1141909
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=144 Gloucester St I/S Coachman Bakcpacker Chc/ Telecom, payphone, public phone b
 Phone=+6433743269
@@ -131007,7 +130983,7 @@ Data0=(-43.52997,172.63772)
 
 ;1141910
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=273 Manchester St YHA Central City City Chc/ Telecom, payphone, public phone box
 Phone=+6433745378
@@ -131016,7 +130992,7 @@ Data0=(-43.52926,172.63952)
 
 ;1141911
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=244 Barbadoes St O/S Gas City City Chc/ Telecom, payphone, public phone box
 Phone=+6433745387
@@ -131025,7 +131001,7 @@ Data0=(-43.53293,172.64573)
 
 ;1141912
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=198 Manchester St City Chc/ Telecom, payphone, public phone box
 Phone=+6433745723
@@ -131034,7 +131010,7 @@ Data0=(-43.52998,172.63959)
 
 ;1141913
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Cashel St cnr High St Centra Hotel Mezzanine Flr City Chc/ Telecom, payphone, pu
 Phone=+6433749348
@@ -131043,7 +131019,7 @@ Data0=(-43.53320,172.63852)
 
 ;1141914
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Selwyn St O/S Celtic Arm Tavern Spreydon Chc/ Telecom, payphone, public phone bo
 Phone=+6433770064
@@ -131052,7 +131028,7 @@ Data0=(-43.54829,172.62189)
 
 ;1141915
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=252 Ferry Rd O/S Chemist Phillipstown Chc/ Telecom, payphone, public phone box, 
 Phone=+6433770078
@@ -131061,7 +131037,7 @@ Data0=(-43.54026,172.65833)
 
 ;1141917
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=91 Gloucester St Chc Public Library City Chc/ Telecom, payphone, public phone bo
 Phone=+6433771322
@@ -131070,7 +131046,7 @@ Data0=(-43.52982,172.63528)
 
 ;1141919
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Bealey Ave cnr Manchester St O/S Dairy City Chc/ Telecom, payphone, public phone
 Phone=+6433771638
@@ -131079,7 +131055,7 @@ Data0=(-43.52095,172.63953)
 
 ;1141920
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=145 Armagh St O/S NZ Post City Chc/ Telecom, payphone, public phone box
 Phone=+6433771857
@@ -131088,7 +131064,7 @@ Data0=(-43.52877,172.63917)
 
 ;1141921
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=5 Worcester Boulevard YHA Rolleston House City Chc/ Telecom, payphone, public ph
 Phone=+6433772420
@@ -131097,7 +131073,7 @@ Data0=(-43.53094,172.62805)
 
 ;1141922
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Colombo St cnr Elgin St Sydenham Chc/ Telecom, payphone, public phone box
 Phone=+6433772814
@@ -131106,7 +131082,7 @@ Data0=(-43.54598,172.63658)
 
 ;1141923
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=40 Lichfield St City Chc/ Telecom, payphone, public phone box
 Phone=+6433772979
@@ -131115,7 +131091,7 @@ Data0=(-43.53430,172.63511)
 
 ;1141924
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Armagh St cnr Durham St City Chc/ Telecom, payphone, public phone box
 Phone=+6433773181
@@ -131124,7 +131100,7 @@ Data0=(-43.52884,172.63354)
 
 ;1141925
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Cathedral Sq O/S BNZ City Chc/ Telecom, payphone, public phone box
 Phone=+6433775861
@@ -131133,7 +131109,7 @@ Data0=(-43.53165,172.63718)
 
 ;1141927
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Worcester Boulevard cnr Oxford TerraceCity Chc/ Telecom, payphone, public phone 
 Phone=+6433779007
@@ -131142,7 +131118,7 @@ Data0=(-43.53098,172.63384)
 
 ;1141929
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Hills Rd cnr Avalon St O/S Shell Station Richmond Chc/ Telecom, payphone, public
 Phone=+6433779022
@@ -131151,7 +131127,7 @@ Data0=(-43.51869,172.65124)
 
 ;1141930
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Hereford St O/S Chc Arts Ctr City Chc/ Telecom, payphone, public phone box
 Phone=+6433779035
@@ -131160,7 +131136,7 @@ Data0=(-43.53200,172.62931)
 
 ;1141933
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Edgeware Rd cnr Colombo St, St Albans Chc/ Telecom, payphone, public phone box, 
 Phone=+6433779072
@@ -131169,7 +131145,7 @@ Data0=(-43.51359,172.63650)
 
 ;1141934
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Rolleston Ave cnr Worcester St Opp Museum City Chc/ Telecom, payphone, public ph
 Phone=+6433779064
@@ -131178,7 +131154,7 @@ Data0=(-43.53081,172.62764)
 
 ;1141936
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Lichfield St cnr High St City Chc/ Telecom, payphone, public phone box
 Phone=+6433779084
@@ -131187,7 +131163,7 @@ Data0=(-43.53413,172.63943)
 
 ;1141937
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=30 Victoria St Chc Casino Lobby City Chc/ Telecom, payphone, public phone box
 Phone=+6433790396
@@ -131196,7 +131172,7 @@ Data0=(-43.52614,172.63305)
 
 ;1141938
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=206 Waltham Rd O/S Patels Dairy Waltham Chc/ Telecom, payphone, public phone box
 Phone=+6433790961
@@ -131205,7 +131181,7 @@ Data0=(-43.54509,172.64696)
 
 ;1141939
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=52 Armagh St Windsor Hotel City Chc/ Telecom, payphone, public phone box
 Phone=+6433791306
@@ -131214,7 +131190,7 @@ Data0=(-43.52884,172.63071)
 
 ;1141941
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Oxford Terrace The Poplars Park Old Edmonds Booth City Chc/ Telecom, payphone, p
 Phone=+6433794302
@@ -131223,7 +131199,7 @@ Data0=(-43.52752,172.64237)
 
 ;1141943
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=773 Colombo St O/S Farmers City Chc/ Telecom, payphone, public phone box
 Phone=+6433794861
@@ -131232,7 +131208,7 @@ Data0=(-43.52911,172.63650)
 
 ;1141944
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=773 Colombo St O/S Farmers City Chc/ Telecom, payphone, public phone box
 Phone=+6433798713
@@ -131241,7 +131217,7 @@ Data0=(-43.52930,172.63654)
 
 ;1141945
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=557 Colombo St O/S South City Mall City Chc/ Telecom, payphone, public phone box
 Phone=+6433799392
@@ -131250,7 +131226,7 @@ Data0=(-43.53829,172.63656)
 
 ;1141946
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Marine Parade New Brighton Mall New Brighton Chc/ Telecom, payphone, public phon
 Phone=+6433825204
@@ -131259,7 +131235,7 @@ Data0=(-43.50668,172.73079)
 
 ;1141947
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=149 Seaview Rd O/S Police Station New Brighton Chc/ Telecom, payphone, public ph
 Phone=+6433829024
@@ -131268,7 +131244,7 @@ Data0=(-43.50865,172.72406)
 
 ;1141948
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Beach Rd cnr Bower AveWaimairi Beach Chc/ Telecom, payphone, public phone box
 Phone=+6433832465
@@ -131277,7 +131253,7 @@ Data0=(-43.48657,172.71199)
 
 ;1141949
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Queenspark Dr cnr Chadbury St Parklands Chc/ Telecom, payphone, public phone box
 Phone=+6433832467
@@ -131286,7 +131262,7 @@ Data0=(-43.48125,172.70483)
 
 ;1141950
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Burwood Rd cnr Mairehau Rd Burwood Chc/ Telecom, payphone, public phone box
 Phone=+6433832675
@@ -131295,7 +131271,7 @@ Data0=(-43.48225,172.68102)
 
 ;1141951
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=255 Mairehau Rd Burwood HospitalMain Foyer near cafeteria Burwood Chc/ Telecom, 
 Phone=+6433834617
@@ -131304,7 +131280,7 @@ Data0=(-43.48237,172.68228)
 
 ;1141952
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=618 Ferry Rd, Woolston Chc/ Telecom, payphone, public phone box, wifi
 Phone=+6433841547
@@ -131313,7 +131289,7 @@ Data0=(-43.54954,172.68318)
 
 ;1141953
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=172 Main Rd O/S Mobil Station Redcliffs Chc/ Telecom, payphone, public phone box
 Phone=+6433842864
@@ -131322,7 +131298,7 @@ Data0=(-43.56117,172.73766)
 
 ;1141954
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=28 Marriner St cnr Burgess St O/S Cinema Sumner Chc/ Telecom, payphone, public p
 Phone=+6433267604
@@ -131331,7 +131307,7 @@ Data0=(-43.56836,172.75880)
 
 ;1141955
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Kidbrooke St cnr Linwood Ave O/S Shops Bromley Chc/ Telecom, payphone, public ph
 Phone=+6433844852
@@ -131340,7 +131316,7 @@ Data0=(-43.54488,172.69269)
 
 ;1141956
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=New Brighton Rd Opp Fleete St, Burwood Chc/ Telecom, payphone, public phone box,
 Phone=+6433854421
@@ -131349,7 +131325,7 @@ Data0=(-43.50542,172.67731)
 
 ;1141957
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Edgeware Rd cnr Barbadoes St St Albans Chc/ Telecom, payphone, public phone box
 Phone=+6433854442
@@ -131358,7 +131334,7 @@ Data0=(-43.51355,172.64590)
 
 ;1141958
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=199 Hills Rd, Shirley Chc/ Telecom, payphone, public phone box, wifi
 Phone=+6433854443
@@ -131367,7 +131343,7 @@ Data0=(-43.50891,172.65106)
 
 ;1141959
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Marshlands Rd cnr Shirley Rd, Shirley Chc/ Telecom, payphone, public phone box, 
 Phone=+6433856459
@@ -131376,7 +131352,7 @@ Data0=(-43.50779,172.66292)
 
 ;1141960
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=128 Marshlands Rd O/S Shops Shirley Chc/ Telecom, payphone, public phone box, wi
 Phone=+6433857568
@@ -131385,7 +131361,7 @@ Data0=(-43.49921,172.66214)
 
 ;1141961
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=414 Innes Rd O/S Shops Dallington Chc/ Telecom, payphone, public phone box
 Phone=+6433857989
@@ -131394,7 +131370,7 @@ Data0=(-43.49845,172.64160)
 
 ;1141963
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Pages Rd cnr Breezes Rd, Aranui Chc/ Telecom, payphone, public phone box, wifi
 Phone=+6433880215
@@ -131403,7 +131379,7 @@ Data0=(-43.51720,172.70176)
 
 ;1141964
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Travis Rd cnr Bower Ave O/S Shops New Brighton Chc/ Telecom, payphone, public ph
 Phone=+6433880815
@@ -131412,7 +131388,7 @@ Data0=(-43.49509,172.71085)
 
 ;1141965
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Hampshire St opp Marlow Rd O/S Shops Aranui Chc/ Telecom, payphone, public phone
 Phone=+6433882016
@@ -131421,7 +131397,7 @@ Data0=(-43.51122,172.70125)
 
 ;1141966
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Rawson St cnr New Brighton Rd, New Brighton Chc/ Telecom, payphone, public phone
 Phone=+6433884479
@@ -131430,7 +131406,7 @@ Data0=(-43.50674,172.71665)
 
 ;1141967
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Bowhill Rd cnr Tonks Rd O/S Dairy New Brighton Chc/ Telecom, payphone, public ph
 Phone=+6433887304
@@ -131439,7 +131415,7 @@ Data0=(-43.49545,172.72511)
 
 ;1141968
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Estuary Rd cnr Bridge St New Brighton Chc/ Telecom, payphone, public phone box
 Phone=+6433887314
@@ -131448,7 +131424,7 @@ Data0=(-43.52314,172.73243)
 
 ;1141969
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=175 Wainoni Rd O/S BP Station Avondale Chc/ Telecom, payphone, public phone box,
 Phone=+6433887316
@@ -131457,7 +131433,7 @@ Data0=(-43.51190,172.69258)
 
 ;1141970
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=New Brighton Rd cnr Bower Ave O/S Shops New Brighton Chc/ Telecom, payphone, pub
 Phone=+6433887622
@@ -131466,7 +131442,7 @@ Data0=(-43.50398,172.70991)
 
 ;1141971
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=59 Halsey St South Brighton Motor Camp Chc/ Telecom, payphone, public phone box
 Phone=+6433889825
@@ -131475,7 +131451,7 @@ Data0=(-43.53599,172.73730)
 
 ;1141972
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Ferry Rd adjacent to Isabella St Linwood Chc/ Telecom, payphone, public phone bo
 Phone=+6433893004
@@ -131484,7 +131460,7 @@ Data0=(-43.54251,172.66490)
 
 ;1141973
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Stanmore Rd cnr Swanns Rd O/S Shops Linwood Chc/ Telecom, payphone, public phone
 Phone=+6433893768
@@ -131493,7 +131469,7 @@ Data0=(-43.52350,172.65681)
 
 ;1141974
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Buckley's Rd cnr Linwood Ave Foodcourt Chc/ Telecom, payphone, public phone box
 Phone=+6433894015
@@ -131502,7 +131478,7 @@ Data0=(-43.53318,172.67306)
 
 ;1141976
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Gloucester St cnr Woodham Rd O/S BP Station North Linwood Chc/ Telecom, payphone
 Phone=+6433895009
@@ -131511,7 +131487,7 @@ Data0=(-43.52524,172.67274)
 
 ;1141977
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Wainoni Rd cnr Bickerton St, Aranui Chc/ Telecom, payphone, public phone box, wi
 Phone=+6433895017
@@ -131520,7 +131496,7 @@ Data0=(-43.51650,172.68712)
 
 ;1141978
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Tuam St cnr Nursery Rd O/S Dairy Linwood Chc/ Telecom, payphone, public phone bo
 Phone=+6433895024
@@ -131529,7 +131505,7 @@ Data0=(-43.53551,172.65819)
 
 ;1141979
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=81 Stanmore Rd Linwood Chc/ Telecom, payphone, public phone box
 Phone=+6433895047
@@ -131538,7 +131514,7 @@ Data0=(-43.53126,172.65702)
 
 ;1141980
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Stanmore Rd cnr North Avon Rd O/S Mall Linwood Chc/ Telecom, payphone, public ph
 Phone=+6433896527
@@ -131547,7 +131523,7 @@ Data0=(-43.51816,172.65631)
 
 ;1141981
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=471 Ferry Rd near Smith St O/S Nursery Linwood Chc/ Telecom, payphone, public ph
 Phone=+6433897000
@@ -131556,7 +131532,7 @@ Data0=(-43.54464,172.67081)
 
 ;1141982
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Linwood Ave near Damien Place O/S Dairy Linwood Chc/ Telecom, payphone, public p
 Phone=+6433897007
@@ -131565,7 +131541,7 @@ Data0=(-43.53887,172.68160)
 
 ;1141983
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Linwood Ave cnr Gloucester St, Linwood Chc/ Telecom, payphone, public phone box,
 Phone=+6433897009
@@ -131574,7 +131550,7 @@ Data0=(-43.52988,172.66773)
 
 ;1141984
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Linwood Ave cnr Buckleys Rd Linwood Chc/ Telecom, payphone, public phone box
 Phone=+6433897013
@@ -131583,7 +131559,7 @@ Data0=(-43.53364,172.67325)
 
 ;1141985
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Linwood Ave cnr Cashel St Shell Linwood Linwood Chc/ Telecom, payphone, public p
 Phone=+6433898015
@@ -131592,7 +131568,7 @@ Data0=(-43.53291,172.67178)
 
 ;1141986
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=39 Robins Rd Flaming Kiwi Backpackers Queenstown/ Telecom, payphone, public phon
 Phone=+6434090735
@@ -131601,7 +131577,7 @@ Data0=(-45.02707,168.66032)
 
 ;1141987
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Moana St cnr Esplanade St Kaka Point/ Telecom, payphone, public phone box
 Phone=+6434128034
@@ -131610,7 +131586,7 @@ Data0=(-46.38648,169.78250)
 
 ;1141989
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Main Rd (10 Waikawa Rd) O/S Helen's Dairy Owaka/ Telecom, payphone, public phone
 Phone=+6434158406
@@ -131619,7 +131595,7 @@ Data0=(-46.45168,169.65736)
 
 ;1141990
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=2501 Main Rd O/S Papatowai Store Papatowai/ Telecom, payphone, public phone box
 Phone=+6434158756
@@ -131628,7 +131604,7 @@ Data0=(-46.55842,169.46981)
 
 ;1141991
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=144 Union St O/S Dairy Milton/ Telecom, payphone, public phone box
 Phone=+6434174715
@@ -131637,7 +131613,7 @@ Data0=(-46.11860,169.96167)
 
 ;1141992
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 1 Lake Waihola O/S Black Swan Waihola/ Telecom, payphone, public phone box
 Phone=+6434178224
@@ -131646,7 +131622,7 @@ Data0=(-46.02127,170.09837)
 
 ;1141993
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 1 Union St Opp BP Station Milton/ Telecom, payphone, public phone box
 Phone=+6434178990
@@ -131655,7 +131631,7 @@ Data0=(-46.12272,169.95730)
 
 ;1141994
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SH 1 190 Clyde St, O/S Highway Diner, Balclutha/ Telecom, payphone, public phone
 Phone=+6434180011
@@ -131664,7 +131640,7 @@ Data0=(-46.24244,169.72786)
 
 ;1141995
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=5 John St O/S New World Supermarket Balclutha/ Telecom, payphone, public phone b
 Phone=+6434180127
@@ -131673,7 +131649,7 @@ Data0=(-46.23887,169.73854)
 
 ;1141996
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=61 Clyde St O/S Chuck's Place Balclutha/ Telecom, payphone, public phone box
 Phone=+6434180332
@@ -131682,7 +131658,7 @@ Data0=(-46.23956,169.73565)
 
 ;1141997
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=25 Essex St O/S Balclutha Night&Day (Diamond Store) Balclutha/ Telecom, payphone
 Phone=+6434183176
@@ -131691,7 +131667,7 @@ Data0=(-46.23154,169.75081)
 
 ;1141998
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=1 Thames St O/S Oamaru Blue Penguin Colony Oamaru/ Telecom, payphone, public pho
 Phone=+6434342382
@@ -131700,7 +131676,7 @@ Data0=(-45.11149,170.98150)
 
 ;1141999
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Thames St cnr Itchen St O/S Visitor Information Ctr Oamaru/ Telecom, payphone, p
 Phone=+6434342392
@@ -131709,7 +131685,7 @@ Data0=(-45.10090,170.96774)
 
 ;1142000
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Thames St cnr Dee St O/S Caltex Oamaru/ Telecom, payphone, public phone box
 Phone=+6434345017
@@ -131718,7 +131694,7 @@ Data0=(-45.09437,170.97236)
 
 ;1142001
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Wansbeck St cnr Towey St O/S Shops Oamaru/ Telecom, payphone, public phone box
 Phone=+6434345018
@@ -131727,7 +131703,7 @@ Data0=(-45.10261,170.95613)
 
 ;1142002
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Chelmer St O/S Oamaru Top10 Holiday Park Oamaru/ Telecom, payphone, public phone
 Phone=+6434345019
@@ -131736,7 +131712,7 @@ Data0=(-45.09727,170.95638)
 
 ;1142003
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Thames St cnr Severn St Oamaru/ Telecom, payphone, public phone box
 Phone=+6434345024
@@ -131745,7 +131721,7 @@ Data0=(-45.09778,170.97098)
 
 ;1142004
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=2 Reed St YHA Oamaru/ Telecom, payphone, public phone box
 Phone=+6434345605
@@ -131754,7 +131730,7 @@ Data0=(-45.09835,170.96558)
 
 ;1142005
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=183 Thames St O/S Paper Plus Oamaru/ Telecom, payphone, public phone box
 Phone=+6434345614
@@ -131763,7 +131739,7 @@ Data0=(-45.09665,170.97164)
 
 ;1142007
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=22 Severn St Shell Station Forecourt Oamaru/ Telecom, payphone, public phone box
 Phone=+6434349346
@@ -131772,7 +131748,7 @@ Data0=(-45.09868,170.96776)
 
 ;1142008
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Max Smith Dr Ruataniwha Motor Camp O/S Store Twizel/ Telecom, payphone, public p
 Phone=+6434350423
@@ -131781,7 +131757,7 @@ Data0=(-44.27306,170.06871)
 
 ;1142009
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Market Place O/S Council Bldg Twizel/ Telecom, payphone, public phone box
 Phone=+6434350428
@@ -131790,7 +131766,7 @@ Data0=(-44.25659,170.09942)
 
 ;1142010
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=23 Tasman Rd O/S Police Station Twizel/ Telecom, payphone, public phone box
 Phone=+6434350474
@@ -131799,7 +131775,7 @@ Data0=(-44.25723,170.09730)
 
 ;1142011
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Bowen Dr Hermitage Hotel Foyer Mt Cook/ Telecom, payphone, public phone box
 Phone=+6434351295
@@ -131808,7 +131784,7 @@ Data0=(-43.73297,170.09282)
 
 ;1142012
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Bowen Dr YHA Mt Cook/ Telecom, payphone, public phone box
 Phone=+6434351703
@@ -131817,7 +131793,7 @@ Data0=(-43.73674,170.10086)
 
 ;1142013
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 80 Glentanner Park O/S Cafi Mt Cook/ Telecom, payphone, public phone box
 Phone=+6434351800
@@ -131826,7 +131802,7 @@ Data0=(-43.90811,170.12699)
 
 ;1142014
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Bledisloe St Kurow/ Telecom, payphone, public phone box
 Phone=+6434360892
@@ -131835,7 +131811,7 @@ Data0=(-44.73442,170.47096)
 
 ;1142016
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=402 Thames HW O/S New World Northside Oamaru/ Telecom, payphone, public phone bo
 Phone=+6434371589
@@ -131844,7 +131820,7 @@ Data0=(-45.07685,170.98586)
 
 ;1142017
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=411 Thames HW O/S Chemist Oamaru/ Telecom, payphone, public phone box
 Phone=+6434372071
@@ -131853,7 +131829,7 @@ Data0=(-45.08033,170.98303)
 
 ;1142018
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Waitaki Ave Waitaki Boys High School Hostel Carport Oamaru/ Telecom, payphone, p
 Phone=+6434372705
@@ -131862,7 +131838,7 @@ Data0=(-45.07714,170.99419)
 
 ;1142019
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=East Rd O/S Motor Camp Otematata/ Telecom, payphone, public phone box
 Phone=+6434387749
@@ -131871,7 +131847,7 @@ Data0=(-44.60546,170.19472)
 
 ;1142020
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Lake Ohau Rd Lake Ohau Lodge I/S Main Entrance Lake Ohau/ Telecom, payphone, pub
 Phone=+6434389403
@@ -131880,7 +131856,7 @@ Data0=(-44.22847,169.81413)
 
 ;1142021
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 83 Chain Hills Rd Beside Information Stand Omarama/ Telecom, payphone, publi
 Phone=+6434389518
@@ -131889,7 +131865,7 @@ Data0=(-44.48799,169.96575)
 
 ;1142022
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=London St cnr Lincoln St O/S Hill Top Store Hampden/ Telecom, payphone, public p
 Phone=+6434394500
@@ -131898,7 +131874,7 @@ Data0=(-45.32399,170.81737)
 
 ;1142023
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Haven St O/S Motor Camp Moeraki/ Telecom, payphone, public phone box
 Phone=+6434394501
@@ -131907,7 +131883,7 @@ Data0=(-45.36033,170.85271)
 
 ;1142024
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 1 Moeraki Rd O/S Moeraki Boulders Restaurant Moeraki/ Telecom, payphone, pub
 Phone=+6434394753
@@ -131916,7 +131892,7 @@ Data0=(-45.34783,170.82654)
 
 ;1142025
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=High St cnr Kakanui Rd outside wall of Dairy Kakanui/ Telecom, payphone, public 
 Phone=+6434395130
@@ -131925,7 +131901,7 @@ Data0=(-45.18297,170.90041)
 
 ;1142026
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=6 Anderson Heights Hippo Lodge Queenstown/ Telecom, payphone, public phone box
 Phone=+6434413521
@@ -131934,7 +131910,7 @@ Data0=(-45.02819,168.66377)
 
 ;1142027
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Frankton Bus Shelter Frankton Queenstown/ Telecom, payphone, public phone box
 Phone=+6434414079
@@ -131943,7 +131919,7 @@ Data0=(-45.01580,168.73069)
 
 ;1142028
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Remarkables Rd Remarkables Ski Field Frankton Queenstown/ Telecom, payphone, pub
 Phone=+6434418163
@@ -131952,7 +131928,7 @@ Data0=(-45.05420,168.81527)
 
 ;1142029
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Shotover St cnr Brecon St Queenstown/ Telecom, payphone, public phone box
 Phone=+6434418236
@@ -131961,7 +131937,7 @@ Data0=(-45.03180,168.65908)
 
 ;1142030
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=4 Isle St Southern Laughter Backpackers Queenstown/ Telecom, payphone, public ph
 Phone=+6434418519
@@ -131970,7 +131946,7 @@ Data0=(-45.03004,168.65866)
 
 ;1142031
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=58 Buckingham St cnr Wiltshire St O/S Library Arrowtown/ Telecom, payphone, publ
 Phone=+6434421134
@@ -131979,7 +131955,7 @@ Data0=(-44.93892,168.83361)
 
 ;1142032
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=24 Buckingham St, Arrowtown/ Telecom, payphone, public phone box
 Phone=+6434421370
@@ -131988,7 +131964,7 @@ Data0=(-44.93847,168.83155)
 
 ;1142033
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Suffolk St Arrowtown Motor Camp Arrowtown/ Telecom, payphone, public phone box
 Phone=+6434421373
@@ -131997,7 +131973,7 @@ Data0=(-44.94235,168.83639)
 
 ;1142034
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Frankton Rd cnr McBride St O/S Mobil Station Frankton Queenstown/ Telecom, payph
 Phone=+6434423107
@@ -132006,7 +131982,7 @@ Data0=(-45.01623,168.73018)
 
 ;1142035
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Kawarau Rd Queenstown Airport Meeters and Greeters Area Frankton Queenstown/ Tel
 Phone=+6434423420
@@ -132015,7 +131991,7 @@ Data0=(-45.02164,168.73885)
 
 ;1142036
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Kawarau Rd Queenstown Airport Check-in Area Frankton Queenstown/ Telecom, paypho
 Phone=+6434423423
@@ -132024,7 +132000,7 @@ Data0=(-45.02170,168.73940)
 
 ;1142037
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Yewlett Cres Frankton Motor Camp Frankton Queenstown/ Telecom, payphone, public 
 Phone=+6434423557
@@ -132033,7 +132009,7 @@ Data0=(-45.01707,168.72740)
 
 ;1142039
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Frankton Rd cnr Stanley St Opp Copthorne Hotel Queenstown/ Telecom, payphone, pu
 Phone=+6434424070
@@ -132042,7 +132018,7 @@ Data0=(-45.03397,168.66724)
 
 ;1142040
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=13 Frankton Rd Black Sheep Lodge Queenstown/ Telecom, payphone, public phone box
 Phone=+6434424229
@@ -132051,7 +132027,7 @@ Data0=(-45.03440,168.66545)
 
 ;1142041
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=10-18 Brunswick St St Moritz Novotel Queenstown/ Telecom, payphone, public phone
 Phone=+6434424279
@@ -132060,7 +132036,7 @@ Data0=(-45.03394,168.65471)
 
 ;1142042
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=6 Memorial St The Last Resort Backpackers Queenstown/ Telecom, payphone, public 
 Phone=+6434424348
@@ -132069,7 +132045,7 @@ Data0=(-45.03019,168.66014)
 
 ;1142043
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=18 Lake Esplanade Lakeside Motel Queenstown/ Telecom, payphone, public phone box
 Phone=+6434424923
@@ -132078,7 +132054,7 @@ Data0=(-45.03468,168.65399)
 
 ;1142044
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=155 Fernhill Rd O/S 8 Till Late Queenstown/ Telecom, payphone, public phone box
 Phone=+6434425215
@@ -132087,7 +132063,7 @@ Data0=(-45.03923,168.63291)
 
 ;1142045
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Rees St Queenstown/ Telecom, payphone, public phone box
 Phone=+6434425289
@@ -132096,7 +132072,7 @@ Data0=(-45.03260,168.66021)
 
 ;1142046
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Camp St O'Connells Shop Ctre Lev2 Queenstown/ Telecom, payphone, public phone bo
 Phone=+6434425638
@@ -132105,7 +132081,7 @@ Data0=(-45.03138,168.66098)
 
 ;1142047
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Brecon St Skyline Gondola & Restaurant Lev 2 Boydtown Queenstown/ Telecom, payph
 Phone=+6434425962
@@ -132114,7 +132090,7 @@ Data0=(-45.02543,168.65046)
 
 ;1142048
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Shotover St Cnr Athol St Queenstown/ Telecom, payphone, public phone box
 Phone=+6434426049
@@ -132123,7 +132099,7 @@ Data0=(-45.03088,168.66054)
 
 ;1142049
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=80 Lake Esplanade YHA Hostels Wakatipu Lodge Queenstown/ Telecom, payphone, publ
 Phone=+6434426122
@@ -132132,7 +132108,7 @@ Data0=(-45.03643,168.64967)
 
 ;1142050
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Lake Esplanade Cnr Brunswick St Bumbles Backpackers Queenstown/ Telecom, payphon
 Phone=+6434426279
@@ -132141,7 +132117,7 @@ Data0=(-45.03412,168.65523)
 
 ;1142051
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Camp St cnr Searle Lane O/S Duty Free Shop Queenstown/ Telecom, payphone, public
 Phone=+6434426346
@@ -132150,7 +132126,7 @@ Data0=(-45.03199,168.66197)
 
 ;1142052
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=47-49 Shotover St Discovery Lodge Reception Queenstown/ Telecom, payphone, publi
 Phone=+6434426379
@@ -132159,7 +132135,7 @@ Data0=(-45.03195,168.65875)
 
 ;1142053
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=50 Beach St Thomas's Hotel Queenstown/ Telecom, payphone, public phone box
 Phone=+6434426380
@@ -132168,7 +132144,7 @@ Data0=(-45.03237,168.65925)
 
 ;1142054
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Isle St Queenstown Holiday Park O/S Dining Room Queenstown/ Telecom, payphone, p
 Phone=+6434426429
@@ -132177,7 +132153,7 @@ Data0=(-45.03293,168.65406)
 
 ;1142055
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Isle St Queenstown Holiday Park O/S Dining Room Queenstown/ Telecom, payphone, p
 Phone=+6434426486
@@ -132186,7 +132162,7 @@ Data0=(-45.03125,168.65590)
 
 ;1142056
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Marine Parade Novotel Gardens Hotel Queenstown/ Telecom, payphone, public phone 
 Phone=+6434426592
@@ -132195,7 +132171,7 @@ Data0=(-45.03328,168.66252)
 
 ;1142057
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=54 Robins Rd Queenstown Top10 Holiday Park Queenstown/ Telecom, payphone, public
 Phone=+6434426754
@@ -132204,7 +132180,7 @@ Data0=(-45.02597,168.66056)
 
 ;1142059
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=81 Beach St, Queenstown/ Telecom, payphone, public phone box
 Phone=+6434426923
@@ -132213,7 +132189,7 @@ Data0=(-45.03282,168.65812)
 
 ;1142060
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Butterfli Lodge 62 Thompson St Queenstown/ Telecom, payphone, public phone box
 Phone=+6434426925
@@ -132222,7 +132198,7 @@ Data0=(-45.03410,168.65325)
 
 ;1142061
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Stanley St cnr Shotover St Opp Mobil Station Alpine Motors Queenstown/ Telecom, 
 Phone=+6434426957
@@ -132231,7 +132207,7 @@ Data0=(-45.03025,168.66162)
 
 ;1142062
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Sainsbury Rd, The Queenstown Lodge, Queenstown/ Telecom, payphone, public phone 
 Phone=+6434427115
@@ -132240,7 +132216,7 @@ Data0=(-45.03793,168.64089)
 
 ;1142063
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=13 Gorge Rd Alpine Lodge Backpackers Queenstown/ Telecom, payphone, public phone
 Phone=+6434427246
@@ -132249,7 +132225,7 @@ Data0=(-45.02840,168.66168)
 
 ;1142065
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Aspen Lodge 11 Gorge Rd Queenstown/ Telecom, payphone, public phone box
 Phone=+6434427613
@@ -132258,7 +132234,7 @@ Data0=(-45.02909,168.66197)
 
 ;1142066
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=38 Lake Esplanade, Rydges Queenstown Hotel, Queenstown/ Telecom, payphone, publi
 Phone=+6434427759
@@ -132267,7 +132243,7 @@ Data0=(-45.03502,168.65287)
 
 ;1142067
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=70 Gorge Rd aka Arthurs Point Rd Arthurs Point Top10 Holiday Park Queenstown/ Te
 Phone=+6434428021
@@ -132276,7 +132252,7 @@ Data0=(-44.98650,168.67418)
 
 ;1142068
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Mull St O/S Shop Glenorchy/ Telecom, payphone, public phone box
 Phone=+6434428022
@@ -132285,7 +132261,7 @@ Data0=(-44.85012,168.38323)
 
 ;1142069
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Cnr Stanley St and Ballarat St Queenstown/ Telecom, payphone, public phone box
 Phone=+6434428024
@@ -132294,7 +132270,7 @@ Data0=(-45.03154,168.66325)
 
 ;1142070
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Gorge Rd O/S Milk Station Arthurs Point Queenstown/ Telecom, payphone, public ph
 Phone=+6434428262
@@ -132303,7 +132279,7 @@ Data0=(-45.02407,168.66213)
 
 ;1142071
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Sydney St cnr Stanley St Bungi Backpackers Queenstown/ Telecom, payphone, public
 Phone=+6434428475
@@ -132312,7 +132288,7 @@ Data0=(-45.03066,168.66334)
 
 ;1142072
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=62 Shotover St O/S Gourmet Express Queenstown/ Telecom, payphone, public phone b
 Phone=+6434429621
@@ -132321,7 +132297,7 @@ Data0=(-45.03226,168.65830)
 
 ;1142073
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=2 Oban St Glenorchy Holiday Park Queenstown/ Telecom, payphone, public phone box
 Phone=+6434429624
@@ -132330,7 +132306,7 @@ Data0=(-44.85017,168.38563)
 
 ;1142074
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 6 O/S Makarora Tourist Ctr, Makarora/ Telecom, payphone, public phone box
 Phone=+6434431050
@@ -132339,7 +132315,7 @@ Data0=(-44.23170,169.23161)
 
 ;1142076
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=84 Ardmore St Wanaka/ Telecom, payphone, public phone box
 Phone=+6434431278
@@ -132348,7 +132324,7 @@ Data0=(-44.69391,169.13725)
 
 ;1142077
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Capell Ave cnr Parry Cres O/S Shop Lake Hawea/ Telecom, payphone, public phone b
 Phone=+6434431641
@@ -132357,7 +132333,7 @@ Data0=(-44.61003,169.25487)
 
 ;1142078
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=1 Capell Ave SHW 6 Lake Hawea Motor Camp Lake Hawea/ Telecom, payphone, public p
 Phone=+6434431650
@@ -132366,7 +132342,7 @@ Data0=(-44.60443,169.24553)
 
 ;1142079
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=2083 Wanaka Mt Aspiring Rd Treble Cone Ski Field Glendhu Bay Wanaka/ Telecom, pa
 Phone=+6434431847
@@ -132375,7 +132351,7 @@ Data0=(-44.63317,168.89623)
 
 ;1142080
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Purple Cow Backpackers, 94 Brownston St, Wanaka/ Telecom, payphone, public phone
 Phone=+6434435047
@@ -132384,7 +132360,7 @@ Data0=(-44.69808,169.13426)
 
 ;1142081
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Helwick St, cnr Dunmore St, Wanaka/ Telecom, payphone, public phone box
 Phone=+6434439206
@@ -132393,7 +132369,7 @@ Data0=(-44.69579,169.13577)
 
 ;1142083
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Studholme Rd Wanaka/ Telecom, payphone, public phone box
 Phone=+6434436674
@@ -132402,7 +132378,7 @@ Data0=(-44.70515,169.10951)
 
 ;1142084
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Inside Base Backpackers, 73 Brownston St, Wanaka/ Telecom, payphone, public phon
 Phone=+6434436872
@@ -132411,7 +132387,7 @@ Data0=(-44.69722,169.13523)
 
 ;1142085
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Wanaka Mt Aspiring Rd Glendhu Bay Wanaka/ Telecom, payphone, public phone box
 Phone=+6434437206
@@ -132420,7 +132396,7 @@ Data0=(-44.67202,169.01095)
 
 ;1142086
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=212 Brownston St Wanaka/ Telecom, payphone, public phone box
 Phone=+6434437209
@@ -132429,7 +132405,7 @@ Data0=(-44.70142,169.12776)
 
 ;1142087
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=26 Ardmore St Wanaka/ Telecom, payphone, public phone box
 Phone=+6434437242
@@ -132438,7 +132414,7 @@ Data0=(-44.69426,169.13989)
 
 ;1142091
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Frye St cnr Allison CrescentAlbert Town Wanaka/ Telecom, payphone, public phone 
 Phone=+6434437809
@@ -132447,7 +132423,7 @@ Data0=(-44.68270,169.18867)
 
 ;1142092
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Holiday Park, 217 Mt Aspiring Rd, Wanaka/ Telecom, payphone, public phone box
 Phone=+6434438006
@@ -132456,7 +132432,7 @@ Data0=(-44.70055,169.10010)
 
 ;1142093
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 6 The Country Cafi Makarora/ Telecom, payphone, public phone box
 Phone=+6434438298
@@ -132465,7 +132441,7 @@ Data0=(-44.28158,169.20055)
 
 ;1142095
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=56 Brownston St Wanaka/ Telecom, payphone, public phone box
 Phone=+6434438793
@@ -132474,7 +132450,7 @@ Data0=(-44.69663,169.13683)
 
 ;1142096
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=197 Outlet Rd, Wanaka/ Telecom, payphone, public phone box
 Phone=+6434439082
@@ -132483,7 +132459,7 @@ Data0=(-44.66579,169.15202)
 
 ;1142097
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Main Rd cnr Hopkins St O/S Hall Luggate/ Telecom, payphone, public phone box
 Phone=+6434439264
@@ -132492,7 +132468,7 @@ Data0=(-44.74968,169.27106)
 
 ;1142098
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Charlemont St O/S Hotel Ranfurly/ Telecom, payphone, public phone box
 Phone=+6434449635
@@ -132501,7 +132477,7 @@ Data0=(-45.12973,170.09959)
 
 ;1142099
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Derwent St O/S NZ Post Naseby/ Telecom, payphone, public phone box
 Phone=+6434449906
@@ -132510,7 +132486,7 @@ Data0=(-45.02399,170.14655)
 
 ;1142100
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Barry Ave Opp Shell Station Cromwell/ Telecom, payphone, public phone box
 Phone=+6434450005
@@ -132519,7 +132495,7 @@ Data0=(-45.03672,169.19929)
 
 ;1142101
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=1 The Mall Cromwell Mall O/S NZ Post Cromwell/ Telecom, payphone, public phone b
 Phone=+6434450406
@@ -132528,7 +132504,7 @@ Data0=(-45.03639,169.19806)
 
 ;1142102
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=39 Antimony Cres O/S Park Cromwell/ Telecom, payphone, public phone box
 Phone=+6434451045
@@ -132537,7 +132513,7 @@ Data0=(-45.04207,169.18530)
 
 ;1142103
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=102 Barry Ave Chalets Accommodation I/S Chalets Cromwell/ Telecom, payphone, pub
 Phone=+6434451101
@@ -132546,7 +132522,7 @@ Data0=(-45.04836,169.19593)
 
 ;1142104
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=1 Alpha St Cromwell Top10 Holiday Park Cromwell/ Telecom, payphone, public phone
 Phone=+6434451364
@@ -132555,7 +132531,7 @@ Data0=(-45.04075,169.21423)
 
 ;1142105
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=58 Achil St cnr Iniscourt St Opp Dairy Cromwell/ Telecom, payphone, public phone
 Phone=+6434451373
@@ -132564,7 +132540,7 @@ Data0=(-45.04843,169.20556)
 
 ;1142106
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 8 O/S Store Tarras/ Telecom, payphone, public phone box
 Phone=+6434452859
@@ -132573,7 +132549,7 @@ Data0=(-44.83771,169.41027)
 
 ;1142107
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=94 Scotland St O/S Grand Tavern Roxburgh/ Telecom, payphone, public phone box
 Phone=+6434468153
@@ -132582,7 +132558,7 @@ Data0=(-45.54017,169.31446)
 
 ;1142108
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Scotland St O/S Town Hall Roxburgh/ Telecom, payphone, public phone box
 Phone=+6434468300
@@ -132591,7 +132567,7 @@ Data0=(-45.54160,169.31524)
 
 ;1142109
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 8 O/S Tavern Ettrick/ Telecom, payphone, public phone box
 Phone=+6434468603
@@ -132600,7 +132576,7 @@ Data0=(-45.63655,169.36778)
 
 ;1142110
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 8 Main Rd O/S Store Millers Flat/ Telecom, payphone, public phone box
 Phone=+6434468605
@@ -132609,7 +132585,7 @@ Data0=(-45.66259,169.41199)
 
 ;1142111
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Cnr Leask and Harvey StreetOmakau/ Telecom, payphone, public phone box
 Phone=+6434473247
@@ -132618,7 +132594,7 @@ Data0=(-45.09431,169.60181)
 
 ;1142112
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=4 Centennial Ave O/S Gourleys Pharmacy Alexandra/ Telecom, payphone, public phon
 Phone=+6434486022
@@ -132627,7 +132603,7 @@ Data0=(-45.25579,169.39289)
 
 ;1142113
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=120 Centenial Ave O/S Dairy Alexandra/ Telecom, payphone, public phone box
 Phone=+6434486422
@@ -132636,7 +132612,7 @@ Data0=(-45.24826,169.38468)
 
 ;1142114
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=64 Centennial Ave O/S Paper Plus Alexandra/ Telecom, payphone, public phone box
 Phone=+6434487201
@@ -132645,7 +132621,7 @@ Data0=(-45.25065,169.38732)
 
 ;1142115
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Ngapara St O/S Pine Lodge Holiday Camp Alexandra/ Telecom, payphone, public phon
 Phone=+6434487206
@@ -132654,7 +132630,7 @@ Data0=(-45.24319,169.39492)
 
 ;1142116
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=44 Manuherikia Rd Alexandra Holiday Park Alexandra/ Telecom, payphone, public ph
 Phone=+6434487207
@@ -132663,7 +132639,7 @@ Data0=(-45.24556,169.40370)
 
 ;1142117
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Whitby St O/S Motor Camp Clyde/ Telecom, payphone, public phone box
 Phone=+6434492785
@@ -132672,7 +132648,7 @@ Data0=(-45.19139,169.32035)
 
 ;1142118
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=38 Sunderland St Opp Mobil Station Clyde/ Telecom, payphone, public phone box
 Phone=+6434492848
@@ -132681,7 +132657,7 @@ Data0=(-45.18721,169.31684)
 
 ;1142119
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=170 Mailer St O/S Pharmacy Mornington Dud/ Telecom, payphone, public phone box
 Phone=+6434534607
@@ -132690,7 +132666,7 @@ Data0=(-45.88210,170.48307)
 
 ;1142120
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=7 Tomahawk Rd Near Kiwi Lotto Andersons Bay Dud/ Telecom, payphone, public phone
 Phone=+6434544520
@@ -132699,7 +132675,7 @@ Data0=(-45.89749,170.53123)
 
 ;1142121
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=166 King Edward St O/S NZ Post South Dud Dud/ Telecom, payphone, public phone bo
 Phone=+6434551390
@@ -132708,7 +132684,7 @@ Data0=(-45.89437,170.49928)
 
 ;1142122
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=63 Prince Albert Rd St Kilda Dud/ Telecom, payphone, public phone box
 Phone=+6434552002
@@ -132717,7 +132693,7 @@ Data0=(-45.90274,170.50647)
 
 ;1142123
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=164 South Rd Caversham Dud/ Telecom, payphone, public phone box
 Phone=+6434552148
@@ -132726,7 +132702,7 @@ Data0=(-45.89377,170.48685)
 
 ;1142124
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=513 Hillside Rd South Dud Dud/ Telecom, payphone, public phone box
 Phone=+6434552508
@@ -132735,7 +132711,7 @@ Data0=(-45.89754,170.48818)
 
 ;1142125
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=123 Prince Albert Rd cnr Victoria Rd Opp Hotel St Kilda Dud/ Telecom, payphone, 
 Phone=+6434555140
@@ -132744,7 +132720,7 @@ Data0=(-45.90601,170.50916)
 
 ;1142126
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=599 Andersons Bay Rd Opp BP Station South Dud Dud/ Telecom, payphone, public pho
 Phone=+6434555151
@@ -132753,7 +132729,7 @@ Data0=(-45.89770,170.50977)
 
 ;1142127
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=49 Musselburgh Rise O/S Dairy Musselburgh Dud/ Telecom, payphone, public phone b
 Phone=+6434555174
@@ -132762,7 +132738,7 @@ Data0=(-45.89770,170.51512)
 
 ;1142128
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=41 Victoria Rd O/S Motor Camp Tainui Dud/ Telecom, payphone, public phone box
 Phone=+6434555294
@@ -132771,7 +132747,7 @@ Data0=(-45.90490,170.51537)
 
 ;1142129
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Queens Dr cnr Begg St Opp Dairy St Kilda Dud/ Telecom, payphone, public phone bo
 Phone=+6434556074
@@ -132780,7 +132756,7 @@ Data0=(-45.89994,170.50984)
 
 ;1142130
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=269 South Rd Caversham Dud/ Telecom, payphone, public phone box
 Phone=+6434556684
@@ -132789,7 +132765,7 @@ Data0=(-45.89629,170.48122)
 
 ;1142131
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=156 Forbury Rd near Allandale Rd St Clair Dud/ Telecom, payphone, public phone b
 Phone=+6434556904
@@ -132798,7 +132774,7 @@ Data0=(-45.90719,170.48716)
 
 ;1142132
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Bedford St cnr Forbury Rd St Clair Dud/ Telecom, payphone, public phone box
 Phone=+6434558621
@@ -132807,7 +132783,7 @@ Data0=(-45.91115,170.49006)
 
 ;1142133
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Tolcarne Ave St Hilda's Residence Top Flr Dud/ Telecom, payphone, public phone b
 Phone=+6434640576
@@ -132816,7 +132792,7 @@ Data0=(-45.86237,170.50277)
 
 ;1142134
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=591 HighgateMaori Hill Dud/ Telecom, payphone, public phone box
 Phone=+6434640925
@@ -132825,7 +132801,7 @@ Data0=(-45.85844,170.50008)
 
 ;1142135
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=2 Pilkington St John McGlashan College Snr Hall Maori Hill Dud/ Telecom, payphon
 Phone=+6434640989
@@ -132834,7 +132810,7 @@ Data0=(-45.85545,170.49841)
 
 ;1142136
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Swansea St O/S Store Middlemarch Otago/ Telecom, payphone, public phone box
 Phone=+6434643840
@@ -132843,7 +132819,7 @@ Data0=(-45.50751,170.11932)
 
 ;1142137
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 1 Ronaldsay St Palmerston/ Telecom, payphone, public phone box
 Phone=+6434651051
@@ -132852,7 +132828,7 @@ Data0=(-45.48419,170.71650)
 
 ;1142138
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=156 Beach St O/S Motel Waikouaiti/ Telecom, payphone, public phone box
 Phone=+6434657723
@@ -132861,7 +132837,7 @@ Data0=(-45.60715,170.66995)
 
 ;1142139
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 1 184 Main Rd Waikouaiti/ Telecom, payphone, public phone box
 Phone=+6434657724
@@ -132870,7 +132846,7 @@ Data0=(-45.59601,170.66927)
 
 ;1142140
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=130 Stornoway St O/S Store Karitane/ Telecom, payphone, public phone box
 Phone=+6434657725
@@ -132879,7 +132855,7 @@ Data0=(-45.63996,170.65670)
 
 ;1142141
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=103 Malvern St I/S Leith Valley Park I/S Main Bldg Woodhaugh Dud/ Telecom, payph
 Phone=+6434679805
@@ -132888,7 +132864,7 @@ Data0=(-45.85055,170.50380)
 
 ;1142142
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=71 Stafford St YHA Luggage Room City Dud/ Telecom, payphone, public phone box
 Phone=+6434701227
@@ -132897,7 +132873,7 @@ Data0=(-45.88083,170.49627)
 
 ;1142143
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=High St cnr Princes St Dud/ Telecom, payphone, public phone box
 Phone=+6434701504
@@ -132906,7 +132882,7 @@ Data0=(-45.87812,170.50137)
 
 ;1142144
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=223 Ravensbourne Rd Dud/ Telecom, payphone, public phone box
 Phone=+6434710452
@@ -132915,7 +132891,7 @@ Data0=(-45.86621,170.55303)
 
 ;1142145
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=9 Beach St, O/S Tunnel Hotel, Port Chalmers/ Telecom, payphone, public phone box
 Phone=+6434727631
@@ -132924,7 +132900,7 @@ Data0=(-45.81512,170.62271)
 
 ;1142146
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=41 George St, O/S New World Car Park, Port Chalmers/ Telecom, payphone, public p
 Phone=+6434727733
@@ -132933,7 +132909,7 @@ Data0=(-45.81642,170.62085)
 
 ;1142147
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=314 North Rd O/S Dairy North East Valley Dud/ Telecom, payphone, public phone bo
 Phone=+6434730195
@@ -132942,7 +132918,7 @@ Data0=(-45.84775,170.53361)
 
 ;1142148
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=George St cnr Duke St O/S Dairy Dud/ Telecom, payphone, public phone box
 Phone=+6434730614
@@ -132951,7 +132927,7 @@ Data0=(-45.85678,170.51334)
 
 ;1142149
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=275 Pinehill Rd O/S Store Dud/ Telecom, payphone, public phone box
 Phone=+6434738947
@@ -132960,7 +132936,7 @@ Data0=(-45.84774,170.51370)
 
 ;1142150
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=57 Anzac Ave Mobil Station Dud/ Telecom, payphone, public phone box
 Phone=+6434740741
@@ -132969,7 +132945,7 @@ Data0=(-45.87003,170.51641)
 
 ;1142151
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=North Rd cnr Opoho Rd O/S Botanical Gardens Dud/ Telecom, payphone, public phone
 Phone=+6434740759
@@ -132978,7 +132954,7 @@ Data0=(-45.85485,170.51940)
 
 ;1142152
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=50 The Octagon O/S Visitor Information Ctr City Dud/ Telecom, payphone, public p
 Phone=+6434740925
@@ -132987,7 +132963,7 @@ Data0=(-45.87373,170.50348)
 
 ;1142153
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=412 Castle St Student Union Bldg Dud/ Telecom, payphone, public phone box
 Phone=+6434741438
@@ -132996,7 +132972,7 @@ Data0=(-45.86656,170.51198)
 
 ;1142154
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=33 The Octagon O/S Air New Zealand City Dud/ Telecom, payphone, public phone box
 Phone=+6434741603
@@ -133005,7 +132981,7 @@ Data0=(-45.87457,170.50328)
 
 ;1142155
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=279 Moray Place O/S Bond & Bond City Dud/ Telecom, payphone, public phone box
 Phone=+6434741609
@@ -133014,7 +132990,7 @@ Data0=(-45.87300,170.50518)
 
 ;1142156
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=201 Great King St Dud Hospital Main Foyer Dud/ Telecom, payphone, public phone b
 Phone=+6434741610
@@ -133023,7 +132999,7 @@ Data0=(-45.86954,170.50811)
 
 ;1142157
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=17 Moray Place O/S St James City Dud/ Telecom, payphone, public phone box
 Phone=+6434741619
@@ -133032,7 +133008,7 @@ Data0=(-45.87543,170.50238)
 
 ;1142158
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=1 Lower Stuart St O/S Court House City Dud/ Telecom, payphone, public phone box
 Phone=+6434741627
@@ -133041,7 +133017,7 @@ Data0=(-45.87537,170.50782)
 
 ;1142159
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=296 Highgate Roslyn Village Dud/ Telecom, payphone, public phone box
 Phone=+6434741664
@@ -133050,7 +133026,7 @@ Data0=(-45.86746,170.49015)
 
 ;1142160
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=256 High St Opp Hope St Dud/ Telecom, payphone, public phone box
 Phone=+6434741666
@@ -133059,7 +133035,7 @@ Data0=(-45.87928,170.49683)
 
 ;1142161
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=412 Castle St Student Union Bldg Dud/ Telecom, payphone, public phone box
 Phone=+6434741671
@@ -133068,7 +133044,7 @@ Data0=(-45.86644,170.51164)
 
 ;1142162
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=309 Cumberland St O/S Countdown Dud/ Telecom, payphone, public phone box
 Phone=+6434741813
@@ -133077,7 +133053,7 @@ Data0=(-45.87413,170.50687)
 
 ;1142163
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=110 Clyde St Colombo Bldg Arana Hall Dud/ Telecom, payphone, public phone box
 Phone=+6434741902
@@ -133086,7 +133062,7 @@ Data0=(-45.86389,170.51761)
 
 ;1142164
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=St Andrews St cnr George St City Dud/ Telecom, payphone, public phone box
 Phone=+6434741915
@@ -133095,7 +133071,7 @@ Data0=(-45.87165,170.50510)
 
 ;1142165
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=327 Princess St Near NZ Post City Dud/ Telecom, payphone, public phone box
 Phone=+6434741916
@@ -133104,7 +133080,7 @@ Data0=(-45.87915,170.50089)
 
 ;1142166
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Hanover St cnr George St Dud/ Telecom, payphone, public phone box
 Phone=+6434741951
@@ -133113,7 +133089,7 @@ Data0=(-45.86979,170.50615)
 
 ;1142167
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=277 Rattray St I/S Hogwarts Backpackers Dud/ Telecom, payphone, public phone box
 Phone=+6434741953
@@ -133122,7 +133098,7 @@ Data0=(-45.87485,170.49794)
 
 ;1142169
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Carroll St cnr Melville St Dud/ Telecom, payphone, public phone box
 Phone=+6434749602
@@ -133131,7 +133107,7 @@ Data0=(-45.88206,170.49543)
 
 ;1142170
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Greenacres St MacAndrew Bay Musselburgh Dud/ Telecom, payphone, public phone box
 Phone=+6434761104
@@ -133140,7 +133116,7 @@ Data0=(-45.86864,170.59755)
 
 ;1142171
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=284 Taieri Rd, Wakari, Dud/ Telecom, payphone, public phone box
 Phone=+6434762250
@@ -133149,7 +133125,7 @@ Data0=(-45.85784,170.47802)
 
 ;1142172
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=496 Taieri Rd Ashburn Hall Hospital Wakari Dud/ Telecom, payphone, public phone 
 Phone=+6434762490
@@ -133158,7 +133134,7 @@ Data0=(-45.85263,170.45977)
 
 ;1142173
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=283 Brockville Rd O/S Shops Brockville Dud/ Telecom, payphone, public phone box
 Phone=+6434763758
@@ -133167,7 +133143,7 @@ Data0=(-45.86728,170.45668)
 
 ;1142174
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=162 Kaikorai Valley Rd Aaron Lodge Top10 Holiday Park Dud/ Telecom, payphone, pu
 Phone=+6434764200
@@ -133176,7 +133152,7 @@ Data0=(-45.86878,170.47525)
 
 ;1142175
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Taieri Rd cnr Ashmore St Dud/ Telecom, payphone, public phone box
 Phone=+6434764204
@@ -133185,7 +133161,7 @@ Data0=(-45.85411,170.46284)
 
 ;1142176
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Mellor St Opp Tavern Dud/ Telecom, payphone, public phone box
 Phone=+6434764219
@@ -133194,7 +133170,7 @@ Data0=(-45.86585,170.48451)
 
 ;1142177
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Rattray St John Wickliffe Court City Dud/ Telecom, payphone, public phone box
 Phone=+6434770109
@@ -133203,7 +133179,7 @@ Data0=(-45.87763,170.50187)
 
 ;1142178
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Forth St cnr Union St O/S Store North East Valley Dud/ Telecom, payphone, public
 Phone=+6434770244
@@ -133212,7 +133188,7 @@ Data0=(-45.86658,170.51784)
 
 ;1142179
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=739 Cumberland St Dud/ Telecom, payphone, public phone box
 Phone=+6434770523
@@ -133221,7 +133197,7 @@ Data0=(-45.86346,170.51293)
 
 ;1142180
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=George St Meridian Mall Dud/ Telecom, payphone, public phone box
 Phone=+6434773110
@@ -133230,7 +133206,7 @@ Data0=(-45.87049,170.50554)
 
 ;1142181
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=850 George St O/S Tourist Court Motel Dud/ Telecom, payphone, public phone box
 Phone=+6434773891
@@ -133239,7 +133215,7 @@ Data0=(-45.85984,170.51175)
 
 ;1142183
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=72 Albany St O/S Dairy Dud/ Telecom, payphone, public phone box
 Phone=+6434775841
@@ -133248,7 +133224,7 @@ Data0=(-45.86710,170.51161)
 
 ;1142185
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=823 Cumberland St O/S BP Station Dud/ Telecom, payphone, public phone box
 Phone=+6434776116
@@ -133257,7 +133233,7 @@ Data0=(-45.85990,170.51488)
 
 ;1142186
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=George St cnr St David St O/S Alcala Motel Dud/ Telecom, payphone, public phone 
 Phone=+6434776140
@@ -133266,7 +133242,7 @@ Data0=(-45.86241,170.51045)
 
 ;1142187
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=808 Great King St Dud/ Telecom, payphone, public phone box
 Phone=+6434778436
@@ -133275,7 +133251,7 @@ Data0=(-45.85820,170.51416)
 
 ;1142188
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=1 Harrington Point Rd O/S Store Portobello Dud/ Telecom, payphone, public phone 
 Phone=+6434780400
@@ -133284,7 +133260,7 @@ Data0=(-45.83960,170.65074)
 
 ;1142189
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Albany St University of Otago Main Library Dud/ Telecom, payphone, public phone 
 Phone=+6434790036
@@ -133293,7 +133269,7 @@ Data0=(-45.86951,170.51108)
 
 ;1142190
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=108 North Rd O/S Dairy Dud/ Telecom, payphone, public phone box
 Phone=+6434790296
@@ -133302,7 +133278,7 @@ Data0=(-45.85216,170.52332)
 
 ;1142191
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Frederick St cnr George St O/S Chemist Dud/ Telecom, payphone, public phone box
 Phone=+6434792272
@@ -133311,7 +133287,7 @@ Data0=(-45.86793,170.50727)
 
 ;1142192
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=419 Great King St Otago Museum Dud/ Telecom, payphone, public phone box
 Phone=+6434792952
@@ -133320,7 +133296,7 @@ Data0=(-45.86605,170.50999)
 
 ;1142193
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=1042 Brighton Rd O/S Store Brighton Dud/ Telecom, payphone, public phone box
 Phone=+6434811745
@@ -133329,7 +133305,7 @@ Data0=(-45.94781,170.33066)
 
 ;1142194
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=826 Brighton Rd O/S Store Ocean View Dud/ Telecom, payphone, public phone box
 Phone=+6434811760
@@ -133338,7 +133314,7 @@ Data0=(-45.93937,170.34457)
 
 ;1142195
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Moturata Rd O/S Telephone Exchange Taieri Mouth/ Telecom, payphone, public phone
 Phone=+6434817888
@@ -133347,7 +133323,7 @@ Data0=(-46.05720,170.19260)
 
 ;1142196
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 1 O/S Mobil Station Evansdale Dud/ Telecom, payphone, public phone box
 Phone=+6434822417
@@ -133356,7 +133332,7 @@ Data0=(-45.71732,170.56949)
 
 ;1142197
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 8 Ross Place, O/S Police Station, Lawrence/ Telecom, payphone, public phone 
 Phone=+6434859979
@@ -133365,7 +133341,7 @@ Data0=(-45.91313,169.68783)
 
 ;1142198
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Airport Dr Dud Airport, Ground Fl Waiting Area, Dud/ Telecom, payphone, public p
 Phone=+6434861179
@@ -133374,7 +133350,7 @@ Data0=(-45.92417,170.19904)
 
 ;1142201
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=36 Riselaw Rd Near Dairy Dud/ Telecom, payphone, public phone box
 Phone=+6434876808
@@ -133383,7 +133359,7 @@ Data0=(-45.89814,170.46720)
 
 ;1142202
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=232 Middleton Rd Opp Store Dud/ Telecom, payphone, public phone box
 Phone=+6434877095
@@ -133392,7 +133368,7 @@ Data0=(-45.90903,170.47124)
 
 ;1142203
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=216 Main South Rd O/S Dairy Green Island Dud/ Telecom, payphone, public phone bo
 Phone=+6434881386
@@ -133401,7 +133377,7 @@ Data0=(-45.90220,170.42884)
 
 ;1142204
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 1 78 Main South Rd O/S Shell Station Fairfield Dud/ Telecom, payphone, publi
 Phone=+6434881589
@@ -133410,7 +133386,7 @@ Data0=(-45.89764,170.39922)
 
 ;1142205
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=109 Gordon Rd Mosgiel Dud/ Telecom, payphone, public phone box
 Phone=+6434893240
@@ -133419,7 +133395,7 @@ Data0=(-45.87567,170.34847)
 
 ;1142206
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Factory Rd cnr Gordon Rd, Mosgiel/ Telecom, payphone, public phone box
 Phone=+6434898911
@@ -133428,7 +133404,7 @@ Data0=(-45.87402,170.34794)
 
 ;1142207
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Main Rd St Arnaud/ Telecom, payphone, public phone box
 Phone=+6435211025
@@ -133437,7 +133413,7 @@ Data0=(-41.80297,172.84479)
 
 ;1142208
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=92 Main Rd Tapawera/ Telecom, payphone, public phone box
 Phone=+6435224040
@@ -133446,7 +133422,7 @@ Data0=(-41.38849,172.82344)
 
 ;1142209
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 7 O/S Tea Rooms Springs Junction/ Telecom, payphone, public phone box
 Phone=+6435238886
@@ -133455,7 +133431,7 @@ Data0=(-42.33471,172.18196)
 
 ;1142210
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Waller St Murchison/ Telecom, payphone, public phone box
 Phone=+6435239055
@@ -133464,7 +133440,7 @@ Data0=(-41.80020,172.32607)
 
 ;1142211
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Fairfax St Near Tea Room Murchison/ Telecom, payphone, public phone box
 Phone=+6435239057
@@ -133473,7 +133449,7 @@ Data0=(-41.80141,172.32551)
 
 ;1142212
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=William St cnr Tasman St Collingwood/ Telecom, payphone, public phone box
 Phone=+6435248004
@@ -133482,7 +133458,7 @@ Data0=(-40.67550,172.68221)
 
 ;1142213
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Collingwood Rd cnr Puponga Rd O/S Pakawau Store Pakawau/ Telecom, payphone, publ
 Phone=+6435248007
@@ -133491,7 +133467,7 @@ Data0=(-40.60025,172.68727)
 
 ;1142214
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=25 Motupipi St YHA Annies Nirvana Lodge Golden Bay Takaka/ Telecom, payphone, pu
 Phone=+6435258796
@@ -133500,7 +133476,7 @@ Data0=(-40.86036,172.80678)
 
 ;1142215
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Commercial St O/S Dairy Takaka/ Telecom, payphone, public phone box
 Phone=+6435259320
@@ -133509,7 +133485,7 @@ Data0=(-40.86170,172.80548)
 
 ;1142216
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=86 Commercial St O/S Telephone Exchange Takaka/ Telecom, payphone, public phone 
 Phone=+6435259415
@@ -133518,7 +133494,7 @@ Data0=(-40.85640,172.80700)
 
 ;1142218
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Abel Tasman Dr Pohara Beach Top10 Holiday Park Pohara/ Telecom, payphone, public
 Phone=+6435259541
@@ -133527,7 +133503,7 @@ Data0=(-40.83289,172.88578)
 
 ;1142219
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Tukurua Beach Golden Bay Holiday Park Takaka/ Telecom, payphone, public phone bo
 Phone=+6435259780
@@ -133536,7 +133512,7 @@ Data0=(-40.73518,172.70027)
 
 ;1142220
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Sandy Bay Rd O/S Kaiteriteri Motor Camp Kaiteriteri/ Telecom, payphone, public p
 Phone=+6435278008
@@ -133545,7 +133521,7 @@ Data0=(-41.03496,173.01916)
 
 ;1142221
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Franklin St Marahau Beach Camp Kaiteriteri/ Telecom, payphone, public phone box
 Phone=+6435278106
@@ -133554,7 +133530,7 @@ Data0=(-41.00542,173.00823)
 
 ;1142222
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Harvey Rd Old McDonalds Farm Holiday Park Marahau/ Telecom, payphone, public pho
 Phone=+6435278260
@@ -133563,7 +133539,7 @@ Data0=(-40.98931,172.99778)
 
 ;1142223
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Harvey Rd DOC Information Ctr Marahau/ Telecom, payphone, public phone box
 Phone=+6435278271
@@ -133572,7 +133548,7 @@ Data0=(-41.00546,173.00980)
 
 ;1142224
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Harvey Rd The Barn Backpackers Marahau/ Telecom, payphone, public phone box
 Phone=+6435278298
@@ -133581,7 +133557,7 @@ Data0=(-40.99382,172.99778)
 
 ;1142225
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Totaranui Rd DOC Totaranui Camping Ground O/S Office Totaranui/ Telecom, payphon
 Phone=+6435280143
@@ -133590,7 +133566,7 @@ Data0=(-40.83530,172.97595)
 
 ;1142226
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Main Rd O/S Rowaka Super Seven Riwaka/ Telecom, payphone, public phone box
 Phone=+6435280243
@@ -133599,7 +133575,7 @@ Data0=(-41.07630,172.99815)
 
 ;1142229
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=10 Fearon St Motueka Top10 Holiday Park Motueka/ Telecom, payphone, public phone
 Phone=+6435286047
@@ -133608,7 +133584,7 @@ Data0=(-41.10415,173.01434)
 
 ;1142230
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=238 High St O/S Super Liquor Motueka/ Telecom, payphone, public phone box
 Phone=+6435286515
@@ -133617,7 +133593,7 @@ Data0=(-41.11300,173.01094)
 
 ;1142231
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=26 Wallis St Motueka Visitors Ctr Motueka/ Telecom, payphone, public phone box
 Phone=+6435286542
@@ -133626,7 +133602,7 @@ Data0=(-41.11188,173.01117)
 
 ;1142232
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=131 King Edward St O/S Kia Ora Store Motueka/ Telecom, payphone, public phone bo
 Phone=+6435286596
@@ -133635,7 +133611,7 @@ Data0=(-41.12388,172.99765)
 
 ;1142233
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Abel Tasman Ntl Park Torrent Bay Jetty Shelter Motueka/ Telecom, payphone, publi
 Phone=+6435287365
@@ -133644,7 +133620,7 @@ Data0=(-40.94700,173.04697)
 
 ;1142234
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Umukuri Rd O/S Brooklyn Store Brooklyn Motueka/ Telecom, payphone, public phone 
 Phone=+6435288180
@@ -133653,7 +133629,7 @@ Data0=(-41.09183,172.97364)
 
 ;1142235
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=High St Opp Post Office Hotel Motueka/ Telecom, payphone, public phone box
 Phone=+6435288184
@@ -133662,7 +133638,7 @@ Data0=(-41.11028,173.01121)
 
 ;1142236
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=44 High St O/S Dairy Motueka/ Telecom, payphone, public phone box
 Phone=+6435288186
@@ -133671,7 +133647,7 @@ Data0=(-41.10538,173.01118)
 
 ;1142237
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=33 Toru St Mapua Leisure Park opp Ablution Block Mapua/ Telecom, payphone, publi
 Phone=+6435402502
@@ -133680,7 +133656,7 @@ Data0=(-41.25106,173.10487)
 
 ;1142238
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 60 Busch Motor Camp Ruby Bay/ Telecom, payphone, public phone box
 Phone=+6435402538
@@ -133689,7 +133665,7 @@ Data0=(-41.21487,173.08048)
 
 ;1142239
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Aranui Rd O/S Mapua Health Ctr Mapua/ Telecom, payphone, public phone box
 Phone=+6435402854
@@ -133698,7 +133674,7 @@ Data0=(-41.25103,173.09427)
 
 ;1142240
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 60 O/S Ruby Bay Store Ruby Bay/ Telecom, payphone, public phone box
 Phone=+6435402857
@@ -133707,7 +133683,7 @@ Data0=(-41.23840,173.08880)
 
 ;1142241
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Clifford Rd O/S Chemist Wakefield/ Telecom, payphone, public phone box
 Phone=+6435418003
@@ -133716,7 +133692,7 @@ Data0=(-41.40562,173.04230)
 
 ;1142242
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Ellis St Near Telephone Exchange Brightwater/ Telecom, payphone, public phone bo
 Phone=+6435423802
@@ -133725,7 +133701,7 @@ Data0=(-41.37720,173.11101)
 
 ;1142243
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Moutere HW Opp Dairy Upper Moutere/ Telecom, payphone, public phone box
 Phone=+6435432800
@@ -133734,7 +133710,7 @@ Data0=(-41.27119,173.00617)
 
 ;1142244
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Salisbury Rd Richmond Nelson/ Telecom, payphone, public phone box
 Phone=+6435445400
@@ -133743,7 +133719,7 @@ Data0=(-41.34045,173.19104)
 
 ;1142245
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=267 Queen St O/S Hairdresser (opp TDC Library) Richmond Nelson/ Telecom, payphon
 Phone=+6435445401
@@ -133752,7 +133728,7 @@ Data0=(-41.33832,173.18334)
 
 ;1142246
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Gladstone Rd O/S Playing Field Richmond Nelson/ Telecom, payphone, public phone 
 Phone=+6435445406
@@ -133761,7 +133737,7 @@ Data0=(-41.33921,173.17735)
 
 ;1142248
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Atawhai Cres O/S Store Nelson/ Telecom, payphone, public phone box
 Phone=+6435450007
@@ -133770,7 +133746,7 @@ Data0=(-41.23745,173.31676)
 
 ;1142249
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=59 Rutherford St YHA by Lounge Nelson/ Telecom, payphone, public phone box
 Phone=+6435456038
@@ -133779,7 +133755,7 @@ Data0=(-41.27324,173.28101)
 
 ;1142250
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=230 Vanguard St Nelson City Holiday Park Nelson/ Telecom, payphone, public phone
 Phone=+6435457318
@@ -133788,7 +133764,7 @@ Data0=(-41.28549,173.26744)
 
 ;1142251
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=22 Bridge St O/S WINZ Nelson/ Telecom, payphone, public phone box
 Phone=+6435466965
@@ -133797,7 +133773,7 @@ Data0=(-41.27254,173.28236)
 
 ;1142252
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Washington Rd O/S Super Seven Nelson/ Telecom, payphone, public phone box
 Phone=+6435467592
@@ -133806,7 +133782,7 @@ Data0=(-41.27126,173.26964)
 
 ;1142253
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=62 Vickerman St O/S Anchor Bar & Grill Nelson/ Telecom, payphone, public phone b
 Phone=+6435468072
@@ -133815,7 +133791,7 @@ Data0=(-41.26358,173.27835)
 
 ;1142254
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=209 Hardy St O/S ANZ Bank City Nelson/ Telecom, payphone, public phone box
 Phone=+6435468265
@@ -133824,7 +133800,7 @@ Data0=(-41.27433,173.28480)
 
 ;1142255
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Trent Dr Nelson AirportNelson/ Telecom, payphone, public phone box
 Phone=+6435472052
@@ -133833,7 +133809,7 @@ Data0=(-41.29992,173.22491)
 
 ;1142256
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Main Rd Opp NZ Post Stoke/ Telecom, payphone, public phone box
 Phone=+6435472053
@@ -133842,7 +133818,7 @@ Data0=(-41.31471,173.23230)
 
 ;1142257
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Polstead Rd cnr Nikau St Stoke/ Telecom, payphone, public phone box
 Phone=+6435472055
@@ -133851,7 +133827,7 @@ Data0=(-41.31959,173.22883)
 
 ;1142258
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Main Rd O/S Shops Stoke/ Telecom, payphone, public phone box
 Phone=+6435472056
@@ -133860,7 +133836,7 @@ Data0=(-41.31258,173.23433)
 
 ;1142259
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Annesbrooke Dr cnr Quarantine Rd Nelson/ Telecom, payphone, public phone box
 Phone=+6435472063
@@ -133869,7 +133845,7 @@ Data0=(-41.30106,173.24284)
 
 ;1142261
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Maitai Valley Rd Near Maitai Motor Camp Nelson/ Telecom, payphone, public phone 
 Phone=+6435480402
@@ -133878,7 +133854,7 @@ Data0=(-41.28911,173.32598)
 
 ;1142262
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Haven Rd cnr Russell St O/S Dairy Nelson/ Telecom, payphone, public phone box
 Phone=+6435480410
@@ -133887,7 +133863,7 @@ Data0=(-41.26500,173.27227)
 
 ;1142263
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Waimea Dr cnr Tukuka St O/S Shop Nelson/ Telecom, payphone, public phone box
 Phone=+6435480411
@@ -133896,7 +133872,7 @@ Data0=(-41.29111,173.27007)
 
 ;1142264
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Brook St O/S Shop Nelson/ Telecom, payphone, public phone box
 Phone=+6435480412
@@ -133905,7 +133881,7 @@ Data0=(-41.28185,173.29111)
 
 ;1142265
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Brook St Opp Brook St Motor Camp Nelson/ Telecom, payphone, public phone box
 Phone=+6435480415
@@ -133914,7 +133890,7 @@ Data0=(-41.30948,173.29189)
 
 ;1142266
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=18 Examiner St College for Girl C. Johnston Hse Lwr Lev City Nelson/ Telecom, pa
 Phone=+6435480730
@@ -133923,7 +133899,7 @@ Data0=(-41.27815,173.28188)
 
 ;1142267
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Taipahi St Nelson Hospital Main Entrance Nelson/ Telecom, payphone, public phone
 Phone=+6435481002
@@ -133932,7 +133908,7 @@ Data0=(-41.28622,173.27168)
 
 ;1142268
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=105 Bridge St O/S Cycle Shop Nelson/ Telecom, payphone, public phone box
 Phone=+6435481006
@@ -133941,7 +133917,7 @@ Data0=(-41.27258,173.28536)
 
 ;1142269
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Tasman St cnr Grove St Opp Shops Nelson/ Telecom, payphone, public phone box
 Phone=+6435481007
@@ -133950,7 +133926,7 @@ Data0=(-41.26916,173.29208)
 
 ;1142270
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Vickerman St O/S Sealords Nelson/ Telecom, payphone, public phone box
 Phone=+6435481011
@@ -133959,7 +133935,7 @@ Data0=(-41.25618,173.27913)
 
 ;1142271
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=148 Toi Toi St Victory Sq Nelson/ Telecom, payphone, public phone box
 Phone=+6435481012
@@ -133968,7 +133944,7 @@ Data0=(-41.28097,173.26987)
 
 ;1142272
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Collingwood St cnr Nile St O/S Shop Nelson/ Telecom, payphone, public phone box
 Phone=+6435481024
@@ -133977,7 +133953,7 @@ Data0=(-41.27645,173.28686)
 
 ;1142273
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=265 Trafalgar St O/S ANZ Bank City Nelson/ Telecom, payphone, public phone box
 Phone=+6435481406
@@ -133986,7 +133962,7 @@ Data0=(-41.27442,173.28386)
 
 ;1142274
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=154 Hardy St cnr Church St City Nelson/ Telecom, payphone, public phone box
 Phone=+6435481556
@@ -133995,7 +133971,7 @@ Data0=(-41.27431,173.28262)
 
 ;1142275
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Prince Albert Hotel Backpackers Lounge 113 Nile St Nelson/ Telecom, payphone, pu
 Phone=+6435482093
@@ -134004,7 +133980,7 @@ Data0=(-41.27633,173.28887)
 
 ;1142276
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Nile St cnr Alton St O/S Shop Nelson/ Telecom, payphone, public phone box
 Phone=+6435482787
@@ -134013,7 +133989,7 @@ Data0=(-41.27628,173.28944)
 
 ;1142277
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Halifax St O/S Visitor Information Ctr City Nelson/ Telecom, payphone, public ph
 Phone=+6435482799
@@ -134022,7 +133998,7 @@ Data0=(-41.27057,173.28413)
 
 ;1142279
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=136 Milton St Nelson/ Telecom, payphone, public phone box
 Phone=+6435483760
@@ -134031,7 +134007,7 @@ Data0=(-41.26896,173.29461)
 
 ;1142280
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Waimea Rd Nelson Hospital Obstetric Unit Flr 1 Nelson/ Telecom, payphone, public
 Phone=+6435483787
@@ -134040,7 +134016,7 @@ Data0=(-41.28680,173.27348)
 
 ;1142281
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=30 Golf Rd Tahunanui Village Nelson/ Telecom, payphone, public phone box
 Phone=+6435485001
@@ -134049,7 +134025,7 @@ Data0=(-41.28514,173.24082)
 
 ;1142282
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Tahunanui Dr cnr Green St O/S Shop Nelson/ Telecom, payphone, public phone box
 Phone=+6435485002
@@ -134058,7 +134034,7 @@ Data0=(-41.28904,173.24672)
 
 ;1142283
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Beach Rd Tahunanui Motor Camp South End Nelson/ Telecom, payphone, public phone 
 Phone=+6435485014
@@ -134067,7 +134043,7 @@ Data0=(-41.28295,173.24185)
 
 ;1142284
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Beach Rd Tahunanui Motor Camp O/S Shop Nelson/ Telecom, payphone, public phone b
 Phone=+6435485019
@@ -134076,7 +134052,7 @@ Data0=(-41.28342,173.24203)
 
 ;1142285
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=28 Tahunanui Rd Mobil Station Nelson/ Telecom, payphone, public phone box
 Phone=+6435486042
@@ -134085,7 +134061,7 @@ Data0=(-41.28241,173.24894)
 
 ;1142286
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Akersten St Port Nelson near Marina Nelson/ Telecom, payphone, public phone box
 Phone=+6435489133
@@ -134094,7 +134070,7 @@ Data0=(-41.26230,173.28222)
 
 ;1142287
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Graham St O/S Port Nelson Main Entrance Nelson/ Telecom, payphone, public phone 
 Phone=+6435489143
@@ -134103,7 +134079,7 @@ Data0=(-41.26017,173.27434)
 
 ;1142288
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 1 cnr Rapaura Rd O/S Spring Creek Supermarket Spring Creek/ Telecom, payphon
 Phone=+6435705320
@@ -134112,7 +134088,7 @@ Data0=(-41.45461,173.96157)
 
 ;1142289
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Papara Rd O/S Spring Creek Holiday Park Office Spring Creek/ Telecom, payphone, 
 Phone=+6435705452
@@ -134121,7 +134097,7 @@ Data0=(-41.45781,173.95530)
 
 ;1142290
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SH 6, Pelorus Bridge/ Telecom, payphone, public phone box
 Phone=+6435716006
@@ -134130,7 +134106,7 @@ Data0=(-41.29899,173.57235)
 
 ;1142291
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 6 O/S Tea Rooms Rai Valley Marlborough/ Telecom, payphone, public phone box
 Phone=+6435716107
@@ -134139,7 +134115,7 @@ Data0=(-41.22968,173.58270)
 
 ;1142292
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 6 Blenheim Airport Waiting Area Woodbourne/ Telecom, payphone, public phone 
 Phone=+6435728027
@@ -134148,7 +134124,7 @@ Data0=(-41.51304,173.87139)
 
 ;1142293
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=63 High St Opp Dairy Renwick/ Telecom, payphone, public phone box
 Phone=+6435728206
@@ -134157,7 +134133,7 @@ Data0=(-41.50797,173.82581)
 
 ;1142294
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=56 High St Watsons Way Backpackers Lodge Renwickn Blenheim/ Telecom, payphone, p
 Phone=+6435728315
@@ -134166,7 +134142,7 @@ Data0=(-41.50752,173.83581)
 
 ;1142295
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 6 RNZAF Woodburne Base O/S Block 12 Woodbourne/ Telecom, payphone, public ph
 Phone=+6435728411
@@ -134175,7 +134151,7 @@ Data0=(-41.51292,173.87342)
 
 ;1142296
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Kenepuru Rd O/S Portage Shop Kenepuru Sound/ Telecom, payphone, public phone box
 Phone=+6435734212
@@ -134184,7 +134160,7 @@ Data0=(-41.19920,174.03555)
 
 ;1142299
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=10 Beach Rd Parklands Holiday Village Picton/ Telecom, payphone, public phone bo
 Phone=+6435735237
@@ -134193,7 +134169,7 @@ Data0=(-41.27179,174.03218)
 
 ;1142300
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Lagoon Rd Strait Shipping Passenger Term Picton/ Telecom, payphone, public phone
 Phone=+6435736043
@@ -134202,7 +134178,7 @@ Data0=(-41.28393,174.00413)
 
 ;1142301
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=London Qy By Taxi Stand Opp Cafi Picton/ Telecom, payphone, public phone box
 Phone=+6435736372
@@ -134211,7 +134187,7 @@ Data0=(-41.28878,174.00781)
 
 ;1142302
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=10 Dublin St YHA Wedgewood House Picton/ Telecom, payphone, public phone box
 Phone=+6435736495
@@ -134220,7 +134196,7 @@ Data0=(-41.29070,174.00622)
 
 ;1142303
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=22 High St O/S Marlborogh Fare Picton/ Telecom, payphone, public phone box
 Phone=+6435736587
@@ -134229,7 +134205,7 @@ Data0=(-41.28973,174.00681)
 
 ;1142304
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Akl St Inter-Island Ferry Terminal Picton/ Telecom, payphone, public phone box
 Phone=+6435736589
@@ -134238,7 +134214,7 @@ Data0=(-41.28599,174.00597)
 
 ;1142305
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=High St Mariners Mall O/S Supermarket Picton/ Telecom, payphone, public phone bo
 Phone=+6435736658
@@ -134247,7 +134223,7 @@ Data0=(-41.29214,174.00698)
 
 ;1142306
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Akl St O/S Visitor Information Ctr Picton/ Telecom, payphone, public phone box
 Phone=+6435737004
@@ -134256,7 +134232,7 @@ Data0=(-41.28761,174.00574)
 
 ;1142307
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Akl St Inter-Island Ferry Terminal Gnd Flr Picton/ Telecom, payphone, public pho
 Phone=+6435737013
@@ -134265,7 +134241,7 @@ Data0=(-41.28572,174.00635)
 
 ;1142309
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Canterbury St Alexander Holiday Park Picton/ Telecom, payphone, public phone box
 Phone=+6435737186
@@ -134274,7 +134250,7 @@ Data0=(-41.29815,174.00557)
 
 ;1142310
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Queen Charlotte Dr Momorangi Bay O/S Store Picton/ Telecom, payphone, public pho
 Phone=+6435737500
@@ -134283,7 +134259,7 @@ Data0=(-41.27098,173.94101)
 
 ;1142311
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=70 Waikawa Rd Picton Top10 Holiday Park Picton/ Telecom, payphone, public phone 
 Phone=+6435737506
@@ -134292,7 +134268,7 @@ Data0=(-41.28835,174.01522)
 
 ;1142312
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Waikawa Rd Waikawa Bay Opp Shop Picton/ Telecom, payphone, public phone box
 Phone=+6435737507
@@ -134301,7 +134277,7 @@ Data0=(-41.26627,174.04788)
 
 ;1142313
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Akl St O/S Inter-Island Ferry Term Main Ent Picton/ Telecom, payphone, public ph
 Phone=+6435737509
@@ -134310,7 +134286,7 @@ Data0=(-41.28601,174.00629)
 
 ;1142314
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Wairau Rd cnr Nelson Sq O/S Church Picton/ Telecom, payphone, public phone box
 Phone=+6435737511
@@ -134319,7 +134295,7 @@ Data0=(-41.29518,174.00312)
 
 ;1142315
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=302 Waikawa Rd Waikawa Bay Holiday Park Picton/ Telecom, payphone, public phone 
 Phone=+6435737683
@@ -134328,7 +134304,7 @@ Data0=(-41.27020,174.04068)
 
 ;1142316
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=9 Akl St Picton Lodge Picton/ Telecom, payphone, public phone box
 Phone=+6435737702
@@ -134337,7 +134313,7 @@ Data0=(-41.29069,174.00555)
 
 ;1142317
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=101 High St Picton/ Telecom, payphone, public phone box
 Phone=+6435737968
@@ -134346,7 +134322,7 @@ Data0=(-41.29209,174.00655)
 
 ;1142318
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=34 Akl St The Villa Backpackers Picton/ Telecom, payphone, public phone box
 Phone=+6435738130
@@ -134355,7 +134331,7 @@ Data0=(-41.28968,174.00565)
 
 ;1142319
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=25 Oxford St Picton Caravan Park Picton/ Telecom, payphone, public phone box
 Phone=+6435738483
@@ -134364,7 +134340,7 @@ Data0=(-41.29533,174.00106)
 
 ;1142320
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=22 High St O/S Marlborough Fare Picton/ Telecom, payphone, public phone box
 Phone=+6435738489
@@ -134373,7 +134349,7 @@ Data0=(-41.29185,174.00675)
 
 ;1142321
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Queen Charlotte Dr O/S Linkwater Services Havelock/ Telecom, payphone, public ph
 Phone=+6435742004
@@ -134382,7 +134358,7 @@ Data0=(-41.28929,173.86629)
 
 ;1142322
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 6 cnr Neil St O/S Tea Rooms Havelock/ Telecom, payphone, public phone box
 Phone=+6435742009
@@ -134391,7 +134367,7 @@ Data0=(-41.27810,173.76670)
 
 ;1142323
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 6 YHA Havelock/ Telecom, payphone, public phone box
 Phone=+6435742718
@@ -134400,7 +134376,7 @@ Data0=(-41.27930,173.76721)
 
 ;1142324
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Anakiwa Rd O/S Queen Charlotte Walkway Info Stand Havelock/ Telecom, payphone, p
 Phone=+6435742936
@@ -134409,7 +134385,7 @@ Data0=(-41.26413,173.92323)
 
 ;1142325
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=2 Mills St O/S Craft Shop Seddon/ Telecom, payphone, public phone box
 Phone=+6435757593
@@ -134418,7 +134394,7 @@ Data0=(-41.67392,174.07602)
 
 ;1142326
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 1 O/S Kekerengu Tea Rooms Kekerengu/ Telecom, payphone, public phone box
 Phone=+6435758669
@@ -134427,7 +134403,7 @@ Data0=(-42.00306,174.01007)
 
 ;1142327
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=High St cnr Market St Clock Tower Blenheim/ Telecom, payphone, public phone box
 Phone=+6435776192
@@ -134436,7 +134412,7 @@ Data0=(-41.51143,173.95608)
 
 ;1142328
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Seymour St cnr Arthur St O/S Countdown Supermarket Blenheim/ Telecom, payphone, 
 Phone=+6435777652
@@ -134445,7 +134421,7 @@ Data0=(-41.51360,173.95461)
 
 ;1142329
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Sinclair St Blenheim Station Travel Ctr Blenheim/ Telecom, payphone, public phon
 Phone=+6435778059
@@ -134454,7 +134430,7 @@ Data0=(-41.50913,173.95917)
 
 ;1142330
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Alana Place O/S Witherlea Shop Ctre Blenheim/ Telecom, payphone, public phone bo
 Phone=+6435782904
@@ -134463,7 +134439,7 @@ Data0=(-41.53751,173.95442)
 
 ;1142331
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Middle Renwick Rd Near Springlands Mall Blenheim/ Telecom, payphone, public phon
 Phone=+6435782923
@@ -134472,7 +134448,7 @@ Data0=(-41.50920,173.93576)
 
 ;1142332
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=78 Grove Rd, Blenheim Bridge Top 10 Holiday Park, Blenheim/ Telecom, payphone, p
 Phone=+6435783890
@@ -134481,7 +134457,7 @@ Data0=(-41.50170,173.96134)
 
 ;1142334
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=25 High St City Hotel Blenheim/ Telecom, payphone, public phone box
 Phone=+6435785146
@@ -134490,7 +134466,7 @@ Data0=(-41.50796,173.82820)
 
 ;1142335
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Main St O/S Telephone Exchange Blenheim/ Telecom, payphone, public phone box
 Phone=+6435786119
@@ -134499,7 +134475,7 @@ Data0=(-41.51370,173.95790)
 
 ;1142336
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=167 Middle Renwick Rd O/S Shell Station Springlands Blenheim/ Telecom, payphone,
 Phone=+6435786433
@@ -134508,7 +134484,7 @@ Data0=(-41.50943,173.93004)
 
 ;1142337
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Cleghorn St cnr Weld St Redwoodtown Blenheim/ Telecom, payphone, public phone bo
 Phone=+6435786446
@@ -134517,7 +134493,7 @@ Data0=(-41.52988,173.95587)
 
 ;1142338
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Main St cnr Stewart St O/S Carpet Shop Blenheim/ Telecom, payphone, public phone
 Phone=+6435786517
@@ -134526,7 +134502,7 @@ Data0=(-41.51319,173.96605)
 
 ;1142339
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Grove Rd cnr Budge St O/S Shell Station Blenheim/ Telecom, payphone, public phon
 Phone=+6435786548
@@ -134535,7 +134511,7 @@ Data0=(-41.50295,173.96073)
 
 ;1142340
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Endeavour Inlet Punga Cove Marlborough Sound/ Telecom, payphone, public phone bo
 Phone=+6435798562
@@ -134544,7 +134520,7 @@ Data0=(-41.08161,174.18350)
 
 ;1142341
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 1Pareora/ Telecom, payphone, public phone box
 Phone=+6436126205
@@ -134553,7 +134529,7 @@ Data0=(-44.48407,171.20235)
 
 ;1142342
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Elizabeth St O/S Telephone Exchange Cave/ Telecom, payphone, public phone box
 Phone=+6436143842
@@ -134562,7 +134538,7 @@ Data0=(-44.31010,170.95209)
 
 ;1142343
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 8 Adjacent to Visitor Information Ctr Pleasant Point/ Telecom, payphone, pub
 Phone=+6436147128
@@ -134571,7 +134547,7 @@ Data0=(-44.26153,171.13291)
 
 ;1142344
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 1 O/S BP Station Winchester/ Telecom, payphone, public phone box
 Phone=+6436157161
@@ -134580,7 +134556,7 @@ Data0=(-44.18510,171.27857)
 
 ;1142345
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=King St O/S Post Office Temuka/ Telecom, payphone, public phone box
 Phone=+6436157511
@@ -134589,7 +134565,7 @@ Data0=(-44.24574,171.27781)
 
 ;1142346
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Whitcombe St cnr Denmark St O/S Shop Temuka/ Telecom, payphone, public phone box
 Phone=+6436157950
@@ -134598,7 +134574,7 @@ Data0=(-44.24393,171.28191)
 
 ;1142347
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Ewen Rd cnr King St Adjacent to Dairy Temuka/ Telecom, payphone, public phone bo
 Phone=+6436159579
@@ -134607,7 +134583,7 @@ Data0=(-44.23769,171.27594)
 
 ;1142348
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Simpsons Lane YHA Lake Tekapo/ Telecom, payphone, public phone box
 Phone=+6436806529
@@ -134616,7 +134592,7 @@ Data0=(-44.00214,170.47467)
 
 ;1142349
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 8 O/S Shell Station Lake Tekapo/ Telecom, payphone, public phone box
 Phone=+6436806539
@@ -134625,7 +134601,7 @@ Data0=(-44.00466,170.47777)
 
 ;1142350
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 8 Godley Resort Hotel Lake Tekapo/ Telecom, payphone, public phone box
 Phone=+6436806586
@@ -134634,7 +134610,7 @@ Data0=(-44.00559,170.47894)
 
 ;1142351
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 8 Lake Tekapo Hotel Foyer Lake Tekapo/ Telecom, payphone, public phone box
 Phone=+6436806820
@@ -134643,7 +134619,7 @@ Data0=(-44.00386,170.47694)
 
 ;1142352
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Lakeside Dr Tekapo Motels & Motor Camp O/S Office Lake Tekapo/ Telecom, payphone
 Phone=+6436806856
@@ -134652,7 +134628,7 @@ Data0=(-43.99804,170.46242)
 
 ;1142353
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Ranui Ave Northtown Mall Timaru/ Telecom, payphone, public phone box
 Phone=+6436844018
@@ -134661,7 +134637,7 @@ Data0=(-44.38279,171.23782)
 
 ;1142354
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=84 Evans St O/S Caltex Station Timaru/ Telecom, payphone, public phone box
 Phone=+6436846110
@@ -134670,7 +134646,7 @@ Data0=(-44.38678,171.24064)
 
 ;1142355
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Church St O/S Woolworths Timaru/ Telecom, payphone, public phone box
 Phone=+6436846111
@@ -134679,7 +134655,7 @@ Data0=(-44.39569,171.23945)
 
 ;1142356
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=2 Church St cnr Stafford St O/S Old Bank Tavern Timaru/ Telecom, payphone, publi
 Phone=+6436846210
@@ -134688,7 +134664,7 @@ Data0=(-44.39533,171.25215)
 
 ;1142358
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Chalmers St O/S Highfield Village Mall Timaru/ Telecom, payphone, public phone b
 Phone=+6436846648
@@ -134697,7 +134673,7 @@ Data0=(-44.39018,171.22599)
 
 ;1142359
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Caroline Bay O/S Tearooms Timaru/ Telecom, payphone, public phone box
 Phone=+6436847012
@@ -134706,7 +134682,7 @@ Data0=(-44.39142,171.24874)
 
 ;1142360
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Beaconsfield Rd Glenmark Motor Camp Timaru/ Telecom, payphone, public phone box
 Phone=+6436847015
@@ -134715,7 +134691,7 @@ Data0=(-44.41727,171.23744)
 
 ;1142361
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Ritchie St O/S Seafarers Ctr Timaru/ Telecom, payphone, public phone box
 Phone=+6436848325
@@ -134724,7 +134700,7 @@ Data0=(-44.39437,171.25693)
 
 ;1142362
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=334 Stafford St O/S Dominion Hotel Timaru/ Telecom, payphone, public phone box
 Phone=+6436848765
@@ -134733,7 +134709,7 @@ Data0=(-44.39310,171.24952)
 
 ;1142363
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=197 Evans St O/S BP Station Showgrounds Timaru/ Telecom, payphone, public phone 
 Phone=+6436848766
@@ -134742,7 +134718,7 @@ Data0=(-44.37419,171.24185)
 
 ;1142364
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=43 Evans St O/S Mobil Station Maori Hill Timaru/ Telecom, payphone, public phone
 Phone=+6436848767
@@ -134751,7 +134727,7 @@ Data0=(-44.37767,171.24207)
 
 ;1142365
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=199 Wai-iti Rd O/S BP Station Timaru/ Telecom, payphone, public phone box
 Phone=+6436848768
@@ -134760,7 +134736,7 @@ Data0=(-44.38942,171.21802)
 
 ;1142366
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Theodosia St O/S Shell Caroline Bay Seaview Timaru/ Telecom, payphone, public ph
 Phone=+6436848927
@@ -134769,7 +134745,7 @@ Data0=(-44.39440,171.24867)
 
 ;1142367
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 8 (Mt Cook Rd) O/S Pensioner Flats Fairlie/ Telecom, payphone, public phone 
 Phone=+6436858004
@@ -134778,7 +134754,7 @@ Data0=(-44.09533,170.82572)
 
 ;1142368
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 8 69 Main St O/S Hotel Fairlie/ Telecom, payphone, public phone box
 Phone=+6436858005
@@ -134787,7 +134763,7 @@ Data0=(-44.09842,170.82901)
 
 ;1142369
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=10 Allandale Rd Fairlie Gateway Top10 Holiday Park Fairlie/ Telecom, payphone, p
 Phone=+6436858386
@@ -134796,7 +134772,7 @@ Data0=(-44.09763,170.83179)
 
 ;1142370
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=14 Queen St Timaru Hospital Main Entrance Timaru/ Telecom, payphone, public phon
 Phone=+6436880009
@@ -134805,7 +134781,7 @@ Data0=(-44.40830,171.25619)
 
 ;1142371
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 1 197 Hilton HW O/S Shell Station Washdyke/ Telecom, payphone, public phone 
 Phone=+6436882795
@@ -134814,7 +134790,7 @@ Data0=(-44.35612,171.23843)
 
 ;1142372
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=108 North St Timaru/ Telecom, payphone, public phone box
 Phone=+6436883019
@@ -134823,7 +134799,7 @@ Data0=(-44.40086,171.24322)
 
 ;1142373
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Station Rd O/S Railway Station Timaru/ Telecom, payphone, public phone box
 Phone=+6436883047
@@ -134832,7 +134808,7 @@ Data0=(-44.39640,171.25641)
 
 ;1142374
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=King St cnr Queen St O/S Store Timaru/ Telecom, payphone, public phone box
 Phone=+6436884001
@@ -134841,7 +134817,7 @@ Data0=(-44.40845,171.25136)
 
 ;1142375
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=158 Selwyn St O/S Timaru Top10 Holiday Park Timaru/ Telecom, payphone, public ph
 Phone=+6436884014
@@ -134850,7 +134826,7 @@ Data0=(-44.38395,171.23089)
 
 ;1142376
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=16 Sophia St O/S Post Office Timaru/ Telecom, payphone, public phone box
 Phone=+6436884018
@@ -134859,7 +134835,7 @@ Data0=(-44.39708,171.25237)
 
 ;1142377
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=100 Sherman St O/S Motel Waimate/ Telecom, payphone, public phone box
 Phone=+6436897607
@@ -134868,7 +134844,7 @@ Data0=(-44.73604,171.04112)
 
 ;1142378
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Queen St O/S Post Office Waimate/ Telecom, payphone, public phone box
 Phone=+6436897609
@@ -134877,7 +134853,7 @@ Data0=(-44.73300,171.04785)
 
 ;1142379
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 1 O/S Store Glenavy/ Telecom, payphone, public phone box
 Phone=+6436897616
@@ -134886,7 +134862,7 @@ Data0=(-44.91417,171.10081)
 
 ;1142380
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=McKenzie St Opp Taylor St Geraldine/ Telecom, payphone, public phone box
 Phone=+6436938227
@@ -134895,7 +134871,7 @@ Data0=(-44.09020,171.24286)
 
 ;1142381
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=47 Talbot St O/S Post Office Geraldine/ Telecom, payphone, public phone box
 Phone=+6436938321
@@ -134904,7 +134880,7 @@ Data0=(-44.09210,171.24466)
 
 ;1142382
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=McKenzie St Geraldine/ Telecom, payphone, public phone box
 Phone=+6436938331
@@ -134913,7 +134889,7 @@ Data0=(-44.08586,171.24601)
 
 ;1142383
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=38 Waihi Tce I/S Kiwi Country Geraldine/ Telecom, payphone, public phone box
 Phone=+6436938925
@@ -134922,7 +134898,7 @@ Data0=(-44.08780,171.24292)
 
 ;1142384
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=72 Talbot St The Oaks Restaurant Geraldine/ Telecom, payphone, public phone box
 Phone=+6436939824
@@ -134931,7 +134907,7 @@ Data0=(-44.09247,171.24464)
 
 ;1142385
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Rangitata Gorge Rd Peel Forest Motor Camp/ Telecom, payphone, public phone box
 Phone=+6436963589
@@ -134940,7 +134916,7 @@ Data0=(-43.89072,171.26621)
 
 ;1142386
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 6 Main Rd Mailbox Shelter near DOC Bldg Punakaiki/ Telecom, payphone, public
 Phone=+6437311017
@@ -134949,7 +134925,7 @@ Data0=(-42.11641,171.32981)
 
 ;1142387
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Owen St O/S Motor Camp Punakaiki/ Telecom, payphone, public phone box
 Phone=+6437311848
@@ -134958,7 +134934,7 @@ Data0=(-42.10741,171.33618)
 
 ;1142388
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Blackball Rd cnr Hilton Rd Blackball/ Telecom, payphone, public phone box
 Phone=+6437324003
@@ -134967,7 +134943,7 @@ Data0=(-42.36282,171.41059)
 
 ;1142389
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=138 Buller Rd O/S Store Reefton/ Telecom, payphone, public phone box
 Phone=+6437328104
@@ -134976,7 +134952,7 @@ Data0=(-42.11415,171.86165)
 
 ;1142390
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=66 Broadway O/S Council Office Reefton/ Telecom, payphone, public phone box
 Phone=+6437328326
@@ -134985,7 +134961,7 @@ Data0=(-42.11953,171.86487)
 
 ;1142391
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=57 Seddon St O/S Kumara Store Kumara/ Telecom, payphone, public phone box
 Phone=+6437369165
@@ -134994,7 +134970,7 @@ Data0=(-42.63065,171.18653)
 
 ;1142392
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Ahau St O/S Moana Hotel Moana/ Telecom, payphone, public phone box
 Phone=+6437380091
@@ -135003,7 +134979,7 @@ Data0=(-42.57565,171.47549)
 
 ;1142393
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Marks Rd O/S Haast Highway Accommodation Haast/ Telecom, payphone, public phone 
 Phone=+6437500013
@@ -135012,7 +134988,7 @@ Data0=(-43.88197,169.04498)
 
 ;1142395
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Pauareka Rd Wilderness Backpackers Haast/ Telecom, payphone, public phone box
 Phone=+6437500085
@@ -135021,7 +134997,7 @@ Data0=(-43.88583,169.04176)
 
 ;1142396
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Jackson Bay Rd cnr SHW6 Haast DOC Visitors Ctr Haast/ Telecom, payphone, public 
 Phone=+6437500149
@@ -135030,7 +135006,7 @@ Data0=(-43.85969,169.04512)
 
 ;1142397
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Jacksons Bay Rd Haast Motor Camp Okuru Haast/ Telecom, payphone, public phone bo
 Phone=+6437500723
@@ -135039,7 +135015,7 @@ Data0=(-43.90837,168.90098)
 
 ;1142398
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Jacksons Bay Rd cnr SHW 6 Haast World Heritage Hotel Haast/ Telecom, payphone, p
 Phone=+6437500821
@@ -135048,7 +135024,7 @@ Data0=(-43.85828,169.04290)
 
 ;1142399
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Jacksons Bay Rd cnr SHW 6 O/S Haast World Heritage Hotel Haast/ Telecom, payphon
 Phone=+6437500826
@@ -135057,7 +135033,7 @@ Data0=(-43.85887,169.04355)
 
 ;1142400
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Ivory Towers Lodge, Sullivan Rd, Fox Glacier/ Telecom, payphone, public phone bo
 Phone=+6437510054
@@ -135066,7 +135042,7 @@ Data0=(-43.46616,170.01841)
 
 ;1142401
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Lake Matheson Rd Fox Glacier Holiday Park Fox Glacier/ Telecom, payphone, public
 Phone=+6437510060
@@ -135075,7 +135051,7 @@ Data0=(-43.46378,170.00810)
 
 ;1142403
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 6 O/S Lake Paringa Cafi Lake Paringa/ Telecom, payphone, public phone box
 Phone=+6437510119
@@ -135084,7 +135060,7 @@ Data0=(-43.71505,169.42302)
 
 ;1142404
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 6 Btwn Cafi & Southern Lakes Helicopters Fox Glacier/ Telecom, payphone, pub
 Phone=+6437510125
@@ -135093,7 +135069,7 @@ Data0=(-43.46499,170.01755)
 
 ;1142405
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 6 Btwn Alpine Guides & Heli Flights Fox Glacier/ Telecom, payphone, public p
 Phone=+6437510798
@@ -135102,7 +135078,7 @@ Data0=(-43.46504,170.01781)
 
 ;1142407
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=8 Cron St O/S Chateau Franz Backpackers Franz Josef Glacier/ Telecom, payphone, 
 Phone=+6437520094
@@ -135111,7 +135087,7 @@ Data0=(-43.38700,170.18340)
 
 ;1142408
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 6 O/S Mobil Station Franz Josef Glacier/ Telecom, payphone, public phone box
 Phone=+6437520103
@@ -135120,7 +135096,7 @@ Data0=(-43.38903,170.18190)
 
 ;1142409
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Wallace St cnr Cron St Franz Josef Glacier/ Telecom, payphone, public phone box
 Phone=+6437520104
@@ -135129,7 +135105,7 @@ Data0=(-43.38556,170.18130)
 
 ;1142410
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 6 Franz Josef Lodge Franz Josef Glacier/ Telecom, payphone, public phone box
 Phone=+6437520119
@@ -135138,7 +135114,7 @@ Data0=(-43.37833,170.17881)
 
 ;1142411
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=25 Cron St Glow Worm Cottages Franz Josef Glacier/ Telecom, payphone, public pho
 Phone=+6437520156
@@ -135147,7 +135123,7 @@ Data0=(-43.38597,170.18320)
 
 ;1142412
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW6 DOC Visitors Ctr Franz Josef Glacier/ Telecom, payphone, public phone box
 Phone=+6437520208
@@ -135156,7 +135132,7 @@ Data0=(-43.38981,170.18144)
 
 ;1142413
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=2 Cron St YHA near stairwell Franz Josef Glacier/ Telecom, payphone, public phon
 Phone=+6437520285
@@ -135165,7 +135141,7 @@ Data0=(-43.38947,170.18344)
 
 ;1142414
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 6 FranzJosef MountainView Top10HolidayPark Franz Josef Glacier/ Telecom, pay
 Phone=+6437520715
@@ -135174,7 +135150,7 @@ Data0=(-43.37741,170.20447)
 
 ;1142415
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 6 Franz Josef Top10 HolidayPark O/S Office Franz Josef Glacier/ Telecom, pay
 Phone=+6437520801
@@ -135183,7 +135159,7 @@ Data0=(-43.39258,170.17804)
 
 ;1142416
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 6 Bus Stop Franz Josef Glacier/ Telecom, payphone, public phone box
 Phone=+6437520802
@@ -135192,7 +135168,7 @@ Data0=(-43.38841,170.18163)
 
 ;1142417
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 6 O/S Tea Rooms Harihari/ Telecom, payphone, public phone box
 Phone=+6437533183
@@ -135201,7 +135177,7 @@ Data0=(-43.15028,170.56180)
 
 ;1142418
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 6 O/S RSA Whataroa/ Telecom, payphone, public phone box
 Phone=+6437534089
@@ -135210,7 +135186,7 @@ Data0=(-43.26208,170.36257)
 
 ;1142419
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Camp St Okarito Domain Camping Ground Whataroa/ Telecom, payphone, public phone 
 Phone=+6437534094
@@ -135219,7 +135195,7 @@ Data0=(-43.22334,170.16266)
 
 ;1142420
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Morehouse St Opp Centennial Hall Ross/ Telecom, payphone, public phone box
 Phone=+6437554192
@@ -135228,7 +135204,7 @@ Data0=(-42.89920,170.81719)
 
 ;1142421
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=36 Weld St O/S Westland District Council Hokitika/ Telecom, payphone, public pho
 Phone=+6437555068
@@ -135237,7 +135213,7 @@ Data0=(-42.71830,170.96402)
 
 ;1142422
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Hmtn St O/S Visitor Information Ctr Hokitika/ Telecom, payphone, public phone bo
 Phone=+6437556283
@@ -135246,7 +135222,7 @@ Data0=(-42.71858,170.96158)
 
 ;1142423
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Revell St cnr Weld St Hokitika/ Telecom, payphone, public phone box
 Phone=+6437556401
@@ -135255,7 +135231,7 @@ Data0=(-42.71719,170.96170)
 
 ;1142424
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Livingston St cnr Stafford St Opp Motor Camp Hokitika/ Telecom, payphone, public
 Phone=+6437556402
@@ -135264,7 +135240,7 @@ Data0=(-42.72306,170.97744)
 
 ;1142425
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Fitzherbert St cnr Park St O/S Shop Hokitika/ Telecom, payphone, public phone bo
 Phone=+6437556403
@@ -135273,7 +135249,7 @@ Data0=(-42.71404,170.96974)
 
 ;1142426
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Tancred St O/S Greenstone Factory Hokitika/ Telecom, payphone, public phone box
 Phone=+6437556405
@@ -135282,7 +135258,7 @@ Data0=(-42.71812,170.96212)
 
 ;1142427
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=116 Revell St O/S New World Hokitika/ Telecom, payphone, public phone box
 Phone=+6437557841
@@ -135291,7 +135267,7 @@ Data0=(-42.71657,170.96252)
 
 ;1142428
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 6 Lake Mahinapua Hotel Hokitika/ Telecom, payphone, public phone box
 Phone=+6437558529
@@ -135300,7 +135276,7 @@ Data0=(-42.79918,170.89587)
 
 ;1142429
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=11 Richards Dr Shining Star Log Chalets Hokitika/ Telecom, payphone, public phon
 Phone=+6437558931
@@ -135309,7 +135285,7 @@ Data0=(-42.71052,170.97412)
 
 ;1142431
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=124 High St O/S New World Greymouth/ Telecom, payphone, public phone box
 Phone=+6437680007
@@ -135318,7 +135294,7 @@ Data0=(-42.46280,171.19573)
 
 ;1142432
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=2 Chesterfield St O/S Greymouth Seaside Top10 Holiday Park Greymouth/ Telecom, p
 Phone=+6437680461
@@ -135327,7 +135303,7 @@ Data0=(-42.46691,171.18729)
 
 ;1142433
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=High St Greymouth HospitalMain Corridor Greymouth/ Telecom, payphone, public pho
 Phone=+6437680670
@@ -135336,7 +135312,7 @@ Data0=(-42.46309,171.19399)
 
 ;1142434
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Alexandra St YHA Greymouth/ Telecom, payphone, public phone box
 Phone=+6437680931
@@ -135345,7 +135321,7 @@ Data0=(-42.45114,171.21306)
 
 ;1142435
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=160 Tainui St O/S Milk Bar Greymouth/ Telecom, payphone, public phone box
 Phone=+6437684009
@@ -135354,7 +135330,7 @@ Data0=(-42.45521,171.20755)
 
 ;1142436
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=43 Gresson St Neptunes Intl Backpackers Greymouth/ Telecom, payphone, public pho
 Phone=+6437684247
@@ -135363,7 +135339,7 @@ Data0=(-42.45112,171.20873)
 
 ;1142438
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=MacKay St Albert St Mall O/S Library Greymouth/ Telecom, payphone, public phone 
 Phone=+6437685780
@@ -135372,7 +135348,7 @@ Data0=(-42.44851,171.20951)
 
 ;1142440
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=126 Bright St O/S TakeAway Shop Cobden/ Telecom, payphone, public phone box
 Phone=+6437687002
@@ -135381,7 +135357,7 @@ Data0=(-42.44119,171.21006)
 
 ;1142441
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=164 MacKay St O/S Greymouth Railway Station Greymouth/ Telecom, payphone, public
 Phone=+6437687010
@@ -135390,7 +135366,7 @@ Data0=(-42.44811,171.21472)
 
 ;1142442
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Albert St Albert St Mall South End Greymouth/ Telecom, payphone, public phone bo
 Phone=+6437687022
@@ -135399,7 +135375,7 @@ Data0=(-42.44929,171.20946)
 
 ;1142443
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Herbert St cnr Mackay St O/S Visitor Ctr Greymouth/ Telecom, payphone, public ph
 Phone=+6437689675
@@ -135408,7 +135384,7 @@ Data0=(-42.45159,171.20993)
 
 ;1142444
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Maori Point Rd O/S Karamea Motor Camp Karamea Westport/ Telecom, payphone, publi
 Phone=+6437826740
@@ -135417,7 +135393,7 @@ Data0=(-41.26789,172.10969)
 
 ;1142445
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Torea St Opp Tavern Granity/ Telecom, payphone, public phone box
 Phone=+6437828099
@@ -135426,7 +135402,7 @@ Data0=(-41.62956,171.85408)
 
 ;1142446
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 6 O/S Inangahua Camp Westport/ Telecom, payphone, public phone box
 Phone=+6437890204
@@ -135435,7 +135411,7 @@ Data0=(-41.85804,171.95233)
 
 ;1142448
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=SHW 67A Cape Foulwind near beach Tauranga Bay Westport/ Telecom, payphone, publi
 Phone=+6437895632
@@ -135444,7 +135420,7 @@ Data0=(-41.74927,171.48464)
 
 ;1142449
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Palmerston St O/S Community Hall Westport/ Telecom, payphone, public phone box
 Phone=+6437896126
@@ -135453,7 +135429,7 @@ Data0=(-41.75258,171.59806)
 
 ;1142450
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Palmerston St cnr Chamberlain St Westport/ Telecom, payphone, public phone box
 Phone=+6437896131
@@ -135462,7 +135438,7 @@ Data0=(-41.74679,171.59663)
 
 ;1142451
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Waverly St O/S The Last Resort Karamea Westport/ Telecom, payphone, public phone
 Phone=+6437896176
@@ -135471,7 +135447,7 @@ Data0=(-41.24997,172.12187)
 
 ;1142452
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Marine Parade Seal Colony Top10 Tourist Park Carters Beach/ Telecom, payphone, p
 Phone=+6437896184
@@ -135480,7 +135456,7 @@ Data0=(-41.74968,171.55477)
 
 ;1142453
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=54-56 Russell St YHA Bazils Hostel Westport/ Telecom, payphone, public phone box
 Phone=+6437896281
@@ -135489,7 +135465,7 @@ Data0=(-41.75560,171.60000)
 
 ;1142454
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Domett St O/S Howard Park Holiday Camp Westport/ Telecom, payphone, public phone
 Phone=+6437896309
@@ -135498,7 +135474,7 @@ Data0=(-41.75261,171.61048)
 
 ;1142455
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Palmerston St cnr Rintoul St Westport/ Telecom, payphone, public phone box
 Phone=+6437896315
@@ -135507,7 +135483,7 @@ Data0=(-41.75836,171.59941)
 
 ;1142456
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=113 Palmerston St O/S NZ Post Westport/ Telecom, payphone, public phone box
 Phone=+6437896376
@@ -135516,7 +135492,7 @@ Data0=(-41.75582,171.59882)
 
 ;1142457
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=229 Palmerston St O/S Millhouse Dairy Westport/ Telecom, payphone, public phone 
 Phone=+6437896475
@@ -135525,7 +135501,7 @@ Data0=(-41.76141,171.60009)
 
 ;1142458
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=44 Derby St Westport/ Telecom, payphone, public phone box
 Phone=+6437897502
@@ -135534,7 +135510,7 @@ Data0=(-41.74833,171.60444)
 
 ;1142459
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=Marine ParadeCarters Beach/ Telecom, payphone, public phone box
 Phone=+6437897511
@@ -155080,7 +155056,7 @@ Data0=(-46.10011,168.94486)
 
 ;1157296
 [POI]
-Type=0x2e09
+Type=0x2e01
 Label=H&J SMITH INVERCARGILL
 StreetDesc=66 Tay St, Invercargill/ Department Store. Mens, womens & kids fashion & clothin
 Phone=+6432110199
@@ -159362,9 +159338,11 @@ Data0=(-42.52467,172.82952)
 
 ;1159182
 [POI]
-Type=0x2b00
+Type=0x2f
 Label=GLENDINNING HOUSE
-StreetDesc=222 Highgate, Roslyn, Dud/ Accommodation
+StreetDesc=222 Highgate, Roslyn, Dud/ Fabulous Bed & Breakfast in the heart of Dunedin city
+Phone=+6434778262
+zip=all day every time!
 Data0=(-45.86908,170.48694)
 [END]
 
@@ -174112,9 +174090,10 @@ Data0=(-45.89757,170.48739)
 ;1167072
 [POI]
 Type=0x2f
-Label=GABRIELLE O'CONNELL
-StreetDesc=15A Ayers St, Rangiora, Chc/ 
-Data0=(-43.30332,172.58654)
+Label=GABRIELLE O'CONNELL & ASSOCIATES LTD
+StreetDesc=218 High St, Rangiora/ Career & training services
+Phone=+6433139900
+Data0=(-43.30358,172.59263)
 [END]
 
 ;1167076
@@ -192691,16 +192670,6 @@ zip=Mon-Wed 9am-6pm, Thu-Fri 9am-9pm, Sat 9a
 Data0=(-43.53132,172.59671)
 [END]
 
-;1174710
-[POI]
-Type=0x2e07
-Label=CRISTA'S
-StreetDesc=Store 26, Westfield Riccarton, 129 Riccarton Rd, Riccarton/ Womens Fashion
-Phone=+33434477
-zip=Mon-Wed 9am-6pm, Thu-Fri 9am-9pm, Sat 9a
-Data0=(-43.53105,172.59683)
-[END]
-
 ;1174711
 [POI]
 Type=0x2e07
@@ -197548,7 +197517,7 @@ Data0=(-44.92461,168.35935)
 
 ;1177860
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Bay View Rd, Kelvin Heights, Queenstown/ Boat Ramp
 Data0=(-45.03934,168.69142)
@@ -197556,7 +197525,7 @@ Data0=(-45.03934,168.69142)
 
 ;1177861
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Moray Terrace, Fortrose, Invercargill/ Boat Ramp
 Data0=(-46.57590,168.79529)
@@ -197564,7 +197533,7 @@ Data0=(-46.57590,168.79529)
 
 ;1177862
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Moray Terrace, Fortrose, Invercargill/ Boat Ramp
 Data0=(-46.57528,168.79717)
@@ -197572,7 +197541,7 @@ Data0=(-46.57528,168.79717)
 
 ;1177863
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Makarora Lake Hawea Rd, Lake Hawea/ Boat Ramp
 Data0=(-44.39849,169.18718)
@@ -197580,7 +197549,7 @@ Data0=(-44.39849,169.18718)
 
 ;1177864
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Makarora Lake Hawea Rd, Makarora/ Boat Ramp
 Data0=(-44.32069,169.18773)
@@ -197588,7 +197557,7 @@ Data0=(-44.32069,169.18773)
 
 ;1177865
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Meads Rd, Lake Hawea/ Boat Ramp
 Data0=(-44.43881,169.20127)
@@ -197596,7 +197565,7 @@ Data0=(-44.43881,169.20127)
 
 ;1177866
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Hawea Boat Ramp Access, Lake Hawea/ Boat Ramp
 Data0=(-44.60762,169.24781)
@@ -197604,7 +197573,7 @@ Data0=(-44.60762,169.24781)
 
 ;1177867
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Clyde/ Boat Ramp
 Data0=(-45.17504,169.30240)
@@ -197612,7 +197581,7 @@ Data0=(-45.17504,169.30240)
 
 ;1177868
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Clyde/ Boat Ramp
 Data0=(-45.17650,169.30274)
@@ -197620,7 +197589,7 @@ Data0=(-45.17650,169.30274)
 
 ;1177869
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Cromwell Clyde Rd, Clyde/ Boat Ramp
 Data0=(-45.17078,169.30933)
@@ -197628,7 +197597,7 @@ Data0=(-45.17078,169.30933)
 
 ;1177870
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Conroys Dam Rd, Conroys Gully/ Boat Ramp
 Data0=(-45.28398,169.31791)
@@ -197636,7 +197605,7 @@ Data0=(-45.28398,169.31791)
 
 ;1177871
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Dunorling St, Alexandra/ Boat Ramp
 Data0=(-45.25753,169.38920)
@@ -197644,7 +197613,7 @@ Data0=(-45.25753,169.38920)
 
 ;1177872
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Teviot/ Boat Ramp
 Data0=(-45.55407,169.59955)
@@ -197652,7 +197621,7 @@ Data0=(-45.55407,169.59955)
 
 ;1177873
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Lake Ohau/ Boat Ramp
 Data0=(-44.20903,169.81882)
@@ -197660,7 +197629,7 @@ Data0=(-44.20903,169.81882)
 
 ;1177874
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Lake Ohau Rd, Lake Ohau/ Boat Ramp
 Data0=(-44.28102,169.85115)
@@ -197668,7 +197637,7 @@ Data0=(-44.28102,169.85115)
 
 ;1177875
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Glen Lyon Rd, Twizel/ Boat Ramp
 Data0=(-44.26985,169.92805)
@@ -197676,7 +197645,7 @@ Data0=(-44.26985,169.92805)
 
 ;1177876
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Lake Ohau/ Boat Ramp
 Data0=(-44.28391,169.93838)
@@ -197684,7 +197653,7 @@ Data0=(-44.28391,169.93838)
 
 ;1177877
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Twizel/ Boat Ramp
 Data0=(-44.27230,170.04526)
@@ -197692,7 +197661,7 @@ Data0=(-44.27230,170.04526)
 
 ;1177878
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Twizel/ Boat Ramp
 Data0=(-44.27291,170.04714)
@@ -197700,7 +197669,7 @@ Data0=(-44.27291,170.04714)
 
 ;1177879
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Loch Laird Rd, Benmore/ Boat Ramp
 Data0=(-44.56861,170.18197)
@@ -197708,7 +197677,7 @@ Data0=(-44.56861,170.18197)
 
 ;1177880
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Benmore/ Boat Ramp
 Data0=(-44.56116,170.19479)
@@ -197716,7 +197685,7 @@ Data0=(-44.56116,170.19479)
 
 ;1177881
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Falston Rd, Omarama/ Boat Ramp
 Data0=(-44.38635,170.19835)
@@ -197724,7 +197693,7 @@ Data0=(-44.38635,170.19835)
 
 ;1177882
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Haldon/ Boat Ramp
 Data0=(-44.34651,170.22424)
@@ -197732,7 +197701,7 @@ Data0=(-44.34651,170.22424)
 
 ;1177883
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Te Akatarawa Rd, Lake Waitaki/ Boat Ramp
 Data0=(-44.60332,170.30288)
@@ -197740,7 +197709,7 @@ Data0=(-44.60332,170.30288)
 
 ;1177884
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Lake Waitaki/ Boat Ramp
 Data0=(-44.66065,170.35914)
@@ -197748,7 +197717,7 @@ Data0=(-44.66065,170.35914)
 
 ;1177885
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Canterbury/ Boat Ramp
 Data0=(-44.66559,170.37119)
@@ -197756,7 +197725,7 @@ Data0=(-44.66559,170.37119)
 
 ;1177886
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Lakeside Dr, Lake Tekapo/ Boat Ramp
 Data0=(-43.99797,170.46350)
@@ -197764,7 +197733,7 @@ Data0=(-43.99797,170.46350)
 
 ;1177887
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Pioneer Dr, Lake Tekapo/ Boat Ramp
 Data0=(-44.00347,170.48039)
@@ -197772,7 +197741,7 @@ Data0=(-44.00347,170.48039)
 
 ;1177888
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Shore St, Sunshine, Dud/ Boat Ramp
 Data0=(-45.89389,170.52148)
@@ -197780,7 +197749,7 @@ Data0=(-45.89389,170.52148)
 
 ;1177889
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Magnet St, Dud/ Boat Ramp
 Data0=(-45.87158,170.52602)
@@ -197788,7 +197757,7 @@ Data0=(-45.87158,170.52602)
 
 ;1177890
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Magnet St, Dud/ Boat Ramp
 Data0=(-45.87134,170.52855)
@@ -197796,7 +197765,7 @@ Data0=(-45.87134,170.52855)
 
 ;1177891
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Sherwood Downs/ Boat Ramp
 Data0=(-43.97722,170.86516)
@@ -197804,7 +197773,7 @@ Data0=(-43.97722,170.86516)
 
 ;1177892
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Ashwick Flat/ Boat Ramp
 Data0=(-44.00532,170.86737)
@@ -197812,7 +197781,7 @@ Data0=(-44.00532,170.86737)
 
 ;1177893
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Cattle Valley/ Boat Ramp
 Data0=(-44.00034,170.88972)
@@ -197820,7 +197789,7 @@ Data0=(-44.00034,170.88972)
 
 ;1177894
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Hakatere Potts Rd, Hakatere/ Boat Ramp
 Data0=(-43.61181,171.04910)
@@ -197828,7 +197797,7 @@ Data0=(-43.61181,171.04910)
 
 ;1177895
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Sunny Bight Rd Waiano, Kaniere/ Boat Ramp
 Data0=(-42.80463,171.12889)
@@ -197836,7 +197805,7 @@ Data0=(-42.80463,171.12889)
 
 ;1177896
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Hans Bay Rd Arahutika, Lake Kaniere/ Boat Ramp
 Data0=(-42.80626,171.15479)
@@ -197844,7 +197813,7 @@ Data0=(-42.80626,171.15479)
 
 ;1177897
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Hans Bay Rd Arahutika, Lake Kaniere/ Boat Ramp
 Data0=(-42.81278,171.15486)
@@ -197852,7 +197821,7 @@ Data0=(-42.81278,171.15486)
 
 ;1177898
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Inchbonnie/ Boat Ramp
 Data0=(-42.63512,171.39878)
@@ -197860,7 +197829,7 @@ Data0=(-42.63512,171.39878)
 
 ;1177899
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Lake Brunner Rd, Inchbonnie/ Boat Ramp
 Data0=(-42.71369,171.48994)
@@ -197868,7 +197837,7 @@ Data0=(-42.71369,171.48994)
 
 ;1177900
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Cashmere Bay Rd, Lake Brunner/ Boat Ramp
 Data0=(-42.61033,171.50154)
@@ -197876,7 +197845,7 @@ Data0=(-42.61033,171.50154)
 
 ;1177901
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Haupiri Rd, Haupiri/ Boat Ramp
 Data0=(-42.56506,171.69758)
@@ -197884,7 +197853,7 @@ Data0=(-42.56506,171.69758)
 
 ;1177902
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Pacific Dr, Leeston/ Boat Ramp
 Data0=(-43.88906,172.24043)
@@ -197892,7 +197861,7 @@ Data0=(-43.88906,172.24043)
 
 ;1177903
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Hurst Rd, Lower Selwyn Huts/ Boat Ramp
 Data0=(-43.74017,172.44342)
@@ -197900,7 +197869,7 @@ Data0=(-43.74017,172.44342)
 
 ;1177904
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Porika Rd, Rotoroa/ Boat Ramp
 Data0=(-41.79630,172.59753)
@@ -197908,7 +197877,7 @@ Data0=(-41.79630,172.59753)
 
 ;1177905
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Abel Tasman Dr, Pohara/ Boat Ramp
 Data0=(-40.83090,172.89191)
@@ -197916,7 +197885,7 @@ Data0=(-40.83090,172.89191)
 
 ;1177906
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Tarakohe/ Boat Ramp
 Data0=(-40.82336,172.89419)
@@ -197924,7 +197893,7 @@ Data0=(-40.82336,172.89419)
 
 ;1177907
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Tata Beach Esplanade, Tarakohe/ Boat Ramp
 Data0=(-40.81153,172.91477)
@@ -197932,7 +197901,7 @@ Data0=(-40.81153,172.91477)
 
 ;1177911
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Totaranui/ Boat Ramp
 Data0=(-40.81818,173.00634)
@@ -197940,7 +197909,7 @@ Data0=(-40.81818,173.00634)
 
 ;1177912
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Sandy Bay Marahau Rd, Marahau/ Boat Ramp
 Data0=(-41.00930,173.00676)
@@ -197948,7 +197917,7 @@ Data0=(-41.00930,173.00676)
 
 ;1177913
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Green Tree Rd/ Boat Ramp
 Data0=(-41.07187,173.00705)
@@ -197956,7 +197925,7 @@ Data0=(-41.07187,173.00705)
 
 ;1177914
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Kaiteriteri Sandy Bay Rd, Kaiteriteri/ Boat Ramp
 Data0=(-41.03551,173.01948)
@@ -197964,7 +197933,7 @@ Data0=(-41.03551,173.01948)
 
 ;1177915
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=George Qy, Motueka/ Boat Ramp
 Data0=(-41.13805,173.02434)
@@ -197972,7 +197941,7 @@ Data0=(-41.13805,173.02434)
 
 ;1177916
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Tahi St, Mapua/ Boat Ramp
 Data0=(-41.26154,173.10064)
@@ -197980,7 +197949,7 @@ Data0=(-41.26154,173.10064)
 
 ;1177920
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Richmond/ Boat Ramp
 Data0=(-41.28340,173.15111)
@@ -197988,7 +197957,7 @@ Data0=(-41.28340,173.15111)
 
 ;1177921
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Point Rd, Monaco/ Boat Ramp
 Data0=(-41.30772,173.20619)
@@ -197996,7 +197965,7 @@ Data0=(-41.30772,173.20619)
 
 ;1177927
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Esplanade, Okiwi Bay, French Pass/ Boat Ramp
 Data0=(-41.11095,173.65927)
@@ -198004,7 +197973,7 @@ Data0=(-41.11095,173.65927)
 
 ;1177932
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Nydia Track, Nydia Bay/ Boat Ramp
 Data0=(-41.11486,173.76408)
@@ -198012,7 +197981,7 @@ Data0=(-41.11486,173.76408)
 
 ;1177937
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Queen Charlotte Dr, Ngakuta Bay, Picton/ Boat Ramp
 Data0=(-41.27248,173.96009)
@@ -198020,7 +197989,7 @@ Data0=(-41.27248,173.96009)
 
 ;1177941
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Kenepuru Rd, Portage, Picton/ Boat Ramp
 Data0=(-41.19812,174.03528)
@@ -198028,7 +197997,7 @@ Data0=(-41.19812,174.03528)
 
 ;1177943
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Port Underwood Rd, Waikawa, Picton/ Boat Ramp
 Data0=(-41.26617,174.04750)
@@ -198036,7 +198005,7 @@ Data0=(-41.26617,174.04750)
 
 ;1177945
 [POI]
-Type=0x4700
+Type=0x2f
 Label=BOAT RAMP
 StreetDesc=Oyster Bay Rd, Waikawa/ Boat Ramp
 Data0=(-41.30176,174.11498)
@@ -205348,7 +205317,7 @@ Data0=(-45.87604,170.51085)
 
 ;1183408
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=120 Manchester St New Excelsior Backpackers Flr 2 City Chc/ Telecom, payphone, p
 Phone=+6433663584
@@ -205357,7 +205326,7 @@ Data0=(-43.53470,172.71402)
 
 ;1183410
 [POI]
-Type=0x2f15
+Type=0x2f
 Label=PAYPHONE
 StreetDesc=French Pass Trail Kiosk at French Pass Jetty Rai Valley Marlborough/ Telecom, pa
 Phone=+6435765294
@@ -205985,7 +205954,7 @@ Data0=(-43.80915,172.95986)
 
 ;1188610
 [POI]
-Type=0x4700
+Type=0x2f
 Label=LAKE HAWEA REST AREA & BOAT RAMP
 StreetDesc=SH6 Lake Hawea/ Rest Area Boat Ramp
 Data0=(-44.60688,169.24588)
@@ -206816,5 +206785,67 @@ Label=?DEVIL BURGER, QUEENSTOWN
 StreetDesc=Church St, Queenstown/ Takeaways, Dine in
 Phone=+6434424666
 Data0=(-45.03279,168.66170)
+[END]
+
+;1189149
+[POI]
+Type=0x2c00
+Label=HELI TOURS
+StreetDesc=Queenstown Intl Airport, 1 Sir Henry Wigley Dr, Frankton/ Helicopter flights in 
+Phone=+6434510515
+Data0=(-45.02136,168.73600)
+[END]
+
+;1189151
+[POI]
+Type=0x2f
+Label=THE CUPCAKERIE
+StreetDesc=Riccarton Rotary Market (most Sundays)/ Gourmet Cupcake Bakery - handmade with l
+Data0=(-43.52976,172.54050)
+[END]
+
+;1189152
+[POI]
+Type=0x2f
+Label=TRAVEL PARTNERS
+StreetDesc=L 1 140 George St Dud 9016 New Zealand/ Travel Partners, travel agents Dunedin N
+Phone=+6434770000
+zip=8.30am - 5.00pm Monday-Friday
+Data0=(-45.87237,170.50482)
+[END]
+
+;1189159
+[POI]
+Type=0x2c00
+Label=JACK TAR SAILING
+StreetDesc=No. 7 Jetty, Lyttleton/ Yacht charter, day trips and sail training on Lyttleton 
+Phone=+6433899259
+Data0=(-43.60602,172.71263)
+[END]
+
+;1189160
+[POI]
+Type=0x2f
+Label=O'REILLY MINI EXCAVATING LTD
+StreetDesc=803 Tweed St, Invercargill/ Excavating Company, with 1.6 tonne and 3.5 tonne Dig
+Phone=+6432165191
+Data0=(-46.41812,168.39799)
+[END]
+
+;1189173
+[POI]
+Type=0x2f
+Label=ALLIED PETROLEUM
+StreetDesc=Branston St, Hornby, Chc/ Truck Stop
+Data0=(-43.55502,172.52350)
+[END]
+
+;1189178
+[POI]
+Type=0x2f
+Label=CLEAR EDIT NZ
+StreetDesc=27 Fearon St, Motueka 7120/ Clear Edit NZ provides professional proofreading, ed
+Phone=+6427426780
+Data0=(-41.10502,173.01552)
 [END]
 

@@ -69,6 +69,8 @@
 'Cemetery' => '0x6403', #Manmade - Cemetery 0x6403
 'Crematorium' => '0x6403', #Manmade - Cemetery 0x6403
 'CivicStructure/Toilet' => '0x2f0c', #Recreation - Restroom Toilet 0x2f0c
+'CivicStructure/BoatRamp' => '0x4700', #Marine - Boat Ramp 0x4700
+'CivicStructure/PublicPhone' => '0x2f15', #Services - Telephone 0x2f15
 'BankOrCreditUnion' => '0x2f06', #Services - Banks 0x2f06
 'AutomatedTeller' => '0x2f06', #Services - Banks 0x2f06
 'PostOffice' => '0x2f05', #Services - Post office 0x2f05

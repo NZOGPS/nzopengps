@@ -163,6 +163,7 @@
 1030000041058	Burkes Bush Road	Taitapu
 1030000041295	Russell Street	Eiffelton
 1030000041333	HAPPY VALLEY RD	Highbank (Canterbury, NZ)	9/06/2011 5:46p.m.
+1030000041337	GUILDFORD ST	Chertsey (Canterbury, NZ)	26/08/2011 11:10a.m.
 1030000041414	Jollie Street	Eiffelton
 1030000041504	QUARRY RD	Mount Somers (Canterbury, NZ)	3/02/2011 10:49:41 p.m.
 1030000041525	BRUCES RD	Ashburton Forks (Canterbury, NZ)	1/07/2010 9:02p.m.

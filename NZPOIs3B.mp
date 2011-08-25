@@ -17650,7 +17650,7 @@ Data0=(-41.27339,173.28418)
 
 ;1059101
 [POI]
-Type=0x2e
+Type=0x2e06
 Label=STAR MART CRYSTAL PLAZA
 StreetDesc=108 Gloucester St, Chc/ convenience store, groceries
 Phone=+6433791580
@@ -17659,7 +17659,7 @@ Data0=(-43.52999,172.63557)
 
 ;1059185
 [POI]
-Type=0x2e
+Type=0x2e06
 Label=STAR MART THE CROSSING 24HR
 StreetDesc=686 Colombo St, Chc/ convenience store, groceries, superette
 Phone=+6433669210
@@ -26659,7 +26659,7 @@ Data0=(-46.23675,169.73957)
 
 ;1083629
 [POI]
-Type=0x3002
+Type=0x2f
 Label=COMMUNITY MENTAL HEALTH
 StreetDesc=Gate 2 Elles Rd, Invercargill/ Community Health
 Phone=+6432147230
@@ -26686,7 +26686,7 @@ Data0=(-43.48747,172.11816)
 
 ;1083664
 [POI]
-Type=0x3002
+Type=0x2f
 Label=DIABETES CENTRE
 StreetDesc=245 Antigua St, Chc/ Community Health
 Phone=+6433640860
@@ -30513,7 +30513,7 @@ Data0=(-45.08129,169.17992)
 
 ;1092064
 [POI]
-Type=0x2a04
+Type=0x2a
 Label=GOLDEN COBWEB RESTAURANT
 StreetDesc=55 Tarbert St, Alexandra/ Restaurant Takeaways Chinese
 Phone=+6434488891
@@ -32910,7 +32910,7 @@ Data0=(-43.50695,172.73106)
 
 ;1094506
 [POI]
-Type=0x3002
+Type=0x2f
 Label=NEW BRIGHTON HEALTH CARE
 StreetDesc=22 Union St, New Brighton, Chc/ General Practice, Doctor
 Phone=+6433887582
@@ -32938,7 +32938,7 @@ Data0=(-43.53291,172.67591)
 
 ;1094509
 [POI]
-Type=0x3002
+Type=0x2f
 Label=EAST CARE HEALTH
 StreetDesc=283 Breezes Rd, Chc/ General Practice, Doctor
 Phone=+6433888800
@@ -32947,7 +32947,7 @@ Data0=(-43.51651,172.70112)
 
 ;1094510
 [POI]
-Type=0x3002
+Type=0x2f
 Label=LINWOOD DENTAL CENTRE
 StreetDesc=211 Linwood Ave Linwood Chc/ Dentist
 Phone=+6433899730
@@ -36617,20 +36617,11 @@ Data0=(-45.89448,170.49906)
 ;1097316
 [POI]
 Type=0x2e
-Label=FOATE OPTOMETRISTS BISHOPDALE
-StreetDesc=1 Bishopdale Mall, Bishopdale, Chc/ Visique Optometrist, eye exam, eyewear
+Label=VISIQUE FOATE OPTOMETRISTS - BISHOPDALE
+StreetDesc=1 Bishopdale Mall, Bishopdale, Chc/ Optometrist, Eye Examinations, Eyewear, Cont
 Phone=+6433599074
-Data0=(-43.48875,172.58818)
-[END]
-
-;1097317
-[POI]
-Type=0x2e
-Label=FOATE OPTOMETRISTS CHRISTCHURCH
-StreetDesc=67 Victoria St, Chc City/ Visique Optometrist, eye exam, eyewear
-Phone=+6433660545
-zip=Mon - Fri 8:30am to 5:30pm
-Data0=(-43.52584,172.63231)
+zip=Mon to Fri 8:30am to 5:30pm (Late night 
+Data0=(-43.49015,172.58732)
 [END]
 
 ;1097326
@@ -40225,7 +40216,7 @@ Data0=(-43.53120,172.62850)
 
 ;1099641
 [POI]
-Type=0x2c08
+Type=0x2d00
 Label=MCLEANS ISLAND MOUNTAIN BIKE TRACK
 StreetDesc=Mcleans Island Rd, Chc/ Mountain bike track, cycling
 Data0=(-43.46435,172.46433)
@@ -76497,9 +76488,9 @@ Data0=(-43.09265,172.74061)
 
 ;1117831
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=ACADEMY LODGE MOTEL
-StreetDesc=782 East St, Ashburton/ High quality self-contained units with separate bedrooms
+StreetDesc=782 East St, Ashburton/ Motel accommodation. High quality self-contained units w
 Phone=+6433085503
 Data0=(-43.89594,171.76118)
 [END]
@@ -98987,14 +98978,6 @@ Type=0x2f
 Label=ACHERON WORKS CATERING
 StreetDesc=35 Acheron Dr, Riccarton, Chc/ 
 Data0=(-43.53906,172.58722)
-[END]
-
-;1130852
-[POI]
-Type=0x2f
-Label=ACHESON AVE SEAFOODS
-StreetDesc=39 Acheson Ave, Mairehau, Chc/ 
-Data0=(-43.50084,172.65556)
 [END]
 
 ;1130853
@@ -131142,15 +131125,6 @@ Phone=+6433790961
 Data0=(-43.54509,172.64696)
 [END]
 
-;1141939
-[POI]
-Type=0x2f15
-Label=PAYPHONE
-StreetDesc=52 Armagh St Windsor Hotel City Chc/ Telecom, payphone, public phone box
-Phone=+6433791306
-Data0=(-43.52884,172.63071)
-[END]
-
 ;1141941
 [POI]
 Type=0x2f15
@@ -135799,7 +135773,7 @@ Data0=(-43.30341,172.59412)
 
 ;1144769
 [POI]
-Type=0x2e07
+Type=0x2e
 Label=CRT FARMCENTRE RANGIORA
 StreetDesc=8 High St, Rangiora/ Farm products; agchem, animal health, feed management, shea
 Data0=(-43.30266,172.59959)
@@ -144799,7 +144773,7 @@ Data0=(-42.77806,173.27208)
 
 ;1150671
 [POI]
-Type=0x4a00
+Type=0x2f
 Label=RAKAIA BRIDGE REST AREA
 StreetDesc=Main South Rd/ rest area
 Data0=(-43.73625,172.04663)
@@ -154445,15 +154419,6 @@ Phone=+6437895273
 Data0=(-41.76227,171.60055)
 [END]
 
-;1155754
-[POI]
-Type=0x2b02
-Label=WINDSOR BED AND BREAKFAST HOTEL
-StreetDesc=52 Armagh St, Chc/ bed and breakfast, hotels, christchurch, zealand, accommodati
-Phone=+33661503
-Data0=(-43.52903,172.63094)
-[END]
-
 ;1155756
 [POI]
 Type=0x2f
@@ -155088,7 +155053,7 @@ Data0=(-43.53813,172.63983)
 ;1157317
 [POI]
 Type=0x2f
-Label=AEON ENGINEERING
+Label=TEXCO ENGINEERING LTD
 StreetDesc=22 Maunsell St, Chc/ general engineering, CNC machining, hydraulic fittings, cus
 Phone=+6439808817
 Data0=(-43.55679,172.67552)
@@ -168473,23 +168438,6 @@ Phone=+6433888981
 Data0=(-43.50872,172.72274)
 [END]
 
-;1164106
-[POI]
-Type=0x2f
-Label=VISIQUE FOATE OPTOMETRISTS
-StreetDesc=1025 Ferry Rd, Ferrymead, Chc/ Optometrist. Eye exams, frames, glasses, contact 
-Data0=(-43.55745,172.70336)
-[END]
-
-;1164107
-[POI]
-Type=0x2f
-Label=VISIQUE FOATE OPTOMETRISTS
-StreetDesc=1 Bishopdale Mall, Farrington Ave, Bishopdale, Chc/ Optometrist. Eye exams, fram
-Phone=+6435399074
-Data0=(-43.49000,172.58741)
-[END]
-
 ;1164121
 [POI]
 Type=0x2a
@@ -172382,14 +172330,6 @@ Type=0x2f
 Label=CRANFORD STREET MEDICAL CENTRE
 StreetDesc=189 Cranford St, St Albans, Chc/ 
 Data0=(-43.50500,172.63469)
-[END]
-
-;1166279
-[POI]
-Type=0x2f
-Label=CRANMER CENTRE
-StreetDesc=32 Armagh St, Chc/ 
-Data0=(-43.52893,172.62998)
 [END]
 
 ;1166284
@@ -177325,7 +177265,7 @@ Type=0x2f
 Label=VISIQUE FOATE OPTOMETRISTS - FERRYMEAD
 StreetDesc=1025 Ferry Rd Ferrymead Chc 8023/ Optometrists, Eye Care, Spectacles, Contact Le
 Phone=+6433842224
-zip=Mon - Fri: 8:30am to 5:30pm, Sat: 9:00am
+zip=Mon to Fri: 8:30am to 5:30pm (Late Night
 Data0=(-43.55713,172.70366)
 [END]
 
@@ -195270,14 +195210,6 @@ StreetDesc=425 Port Underwood Rd, RD1, Picton/ Bed and Breakfast accommodation, 
 Data0=(-41.26132,174.07179)
 [END]
 
-;1176755
-[POI]
-Type=0x2b02
-Label=WINDSOR HOTEL CHRISTCHURCH
-StreetDesc=52 Armagh St, Central City, Chc/ Bed and Breakfast accommodation, B&B
-Data0=(-43.52892,172.63109)
-[END]
-
 ;1176758
 [POI]
 Type=0x2b00
@@ -204877,7 +204809,7 @@ Data0=(-45.87664,170.50235)
 
 ;1183318
 [POI]
-Type=0x6402
+Type=0x2f
 Label=AVOCA HOMESTEAD
 StreetDesc=Korowai/Torlesse Tussocklands Park - South Island > Canterbury > North Canterbur
 Data0=(-43.19446,171.87533)
@@ -206861,5 +206793,81 @@ Label=OFFICE SPOT ASHBURTON
 StreetDesc=605 East St, Ashburton/ Office supplies, stationery products
 Phone=+6433081868
 Data0=(-43.90016,171.75413)
+[END]
+
+;1189233
+[POI]
+Type=0x2f
+Label=EASTERN LINGUISTICS
+StreetDesc=453 Halswell Rd, Halswell, Chc 8025/ Translation and language services
+Phone=+6433226125
+zip=8:30-5:00
+Data0=(-43.59105,172.56845)
+[END]
+
+;1189237
+[POI]
+Type=0x2f
+Label=ELECTRAIN
+StreetDesc=Course held at Papanui Baptist Church, 144 Sawyers Arms Rd, Papanui/ Electrical 
+Phone=0800353272
+zip=Courses run on demand. Check web site fo
+Data0=(-43.48562,172.60323)
+[END]
+
+;1189251
+[POI]
+Type=0x2e
+Label=PAPER PLUS BUSH INN
+StreetDesc=Shop 14, Bush Inn Shopping Ctr, Corner Riccarton/ Bookshop, books, magazines, ca
+Phone=+6433435094
+Data0=(-43.52988,172.57526)
+[END]
+
+;1189253
+[POI]
+Type=0x2e
+Label=PAPER PLUS NORTHLANDS
+StreetDesc=Shop 40, Northlands Shopping Ctr, 55 Main North Rd, Northlands/ Bookshop, books,
+Phone=+6433525185
+Data0=(-43.49381,172.60997)
+[END]
+
+;1189256
+[POI]
+Type=0x2e
+Label=PAPER PLUS MOSGIEL
+StreetDesc=172 Gordon Rd, Mosgiel/ Bookshop, books, magazines, cards
+Phone=+6434893048
+Data0=(-45.87315,170.34696)
+[END]
+
+;1189258
+[POI]
+Type=0x2a07
+Label=NEW STAR FISH & CHIPS
+StreetDesc=39 Acheson Ave, Chc/ Fish & Chips and chinese takeaway
+Phone=+6433851382
+zip=11:30am - 8:30pm
+Data0=(-43.50075,172.65554)
+[END]
+
+;1189259
+[POI]
+Type=0x2f
+Label=SUPERCRETE DUNEDIN
+StreetDesc=679 Kaikorai Valley Rd Dud 9011/ High quality, light weight aerated concrete blo
+Phone=+6434881100
+zip=Monday - Friday 8.00am - 5.00pm
+Data0=(-45.89472,170.45954)
+[END]
+
+;1189273
+[POI]
+Type=0x2f
+Label=?IPOD SOLUTIONZ FOR IPOD AND IPHONE REPAIRS
+StreetDesc=Queenstown/ Ipod Solutionz is a Queenstown based company, operating nationwide. 
+Phone=+6421873737
+Data0=(-45.03116,168.66264)
 [END]
 

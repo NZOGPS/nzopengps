@@ -78,3 +78,6 @@
 1030000055846	B,42,133	McCandlishs Road	Oxford	16/08/2011 10:10:28 p.m.
 1030000026677	B,2,3	Flint Street	Arrowtown (Otago, NZ)	16/08/2011 10:37:18 p.m.
 1030000055838	B,136,196	Bassetts Road	View Hill (Canterbury, NZ)	16/08/2011 10:38:40 p.m.
+1030000055566	O,155,155	Baynons Road	Clarkville (Canterbury, NZ)	26/08/2011 12:24p.m.
+1030000054056	B,105,118	Taylors Road	Clarkville (Canterbury, NZ)	26/08/2011 12:26p.m.
+1030000186552	B,66,128	Madeleys Road	Clarkville (Canterbury, NZ)	26/08/2011 12:29p.m.

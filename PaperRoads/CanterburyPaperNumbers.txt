@@ -81,3 +81,4 @@
 1030000055566	O,155,155	Baynons Road	Clarkville (Canterbury, NZ)	26/08/2011 12:24p.m.
 1030000054056	B,105,118	Taylors Road	Clarkville (Canterbury, NZ)	26/08/2011 12:26p.m.
 1030000186552	B,66,128	Madeleys Road	Clarkville (Canterbury, NZ)	26/08/2011 12:29p.m.
+1030000053216	E,50,50	Selleck Street	Mount Pleasant, Christchurch (Canterbury, NZ)	26/08/2011 1:35p.m.

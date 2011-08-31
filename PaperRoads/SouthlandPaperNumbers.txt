@@ -9,3 +9,14 @@
 1030000058013	O,5,13	Alexandra Street	Riverton (Southland, NZ)	31/08/2011 2:21p.m.
 1030000058413	O,7,7	Russell Street	Wairio (Southland, NZ)	31/08/2011 2:31p.m.
 1030000035158	E,6,6	Meadow Road	Warrington (Otago, NZ)	31/08/2011 2:40p.m.
+1030000025734	O,3,3	Island Street	Maheno (Otago, NZ)	31/08/2011 2:58p.m.
+1030000057949	E,8,8	Rata Street	Colac Bay (Southland, NZ)	31/08/2011 3:19p.m.
+1030000035391	E,8,8	Ethel Street	Osborne (Otago, NZ)	31/08/2011 3:25p.m.
+1030000057228	O,15,15	Heron Street	Lumsden (Southland, NZ)	31/08/2011 3:40p.m.
+1030000036678	E,2,2	Eden Street	Lawrence (Otago, NZ)	31/08/2011 3:41p.m.
+1030000025619	O,9,9	Cross Street	Maheno (Otago, NZ)	31/08/2011 3:45p.m.
+1030000025875	O,891,891	Dunrobin Road	Five Forks (Otago, NZ)	31/08/2011 3:53p.m. (Numbered correctly on Canty tile)
+1030000058474	O,3,5	Oldham Street	Waimatuku (Southland, NZ)	31/08/2011 4:23p.m.
+1030000058484	O,15,25	Poole Street	Waimatuku (Southland, NZ)	31/08/2011 4:23p.m.
+1030000035612	O,49,53	Stirling Street	Waikouaiti (Otago, NZ)	31/08/2011 4:45p.m.
+

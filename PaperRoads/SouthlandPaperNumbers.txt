@@ -19,4 +19,8 @@
 1030000058474	O,3,5	Oldham Street	Waimatuku (Southland, NZ)	31/08/2011 4:23p.m.
 1030000058484	O,15,25	Poole Street	Waimatuku (Southland, NZ)	31/08/2011 4:23p.m.
 1030000035612	O,49,53	Stirling Street	Waikouaiti (Otago, NZ)	31/08/2011 4:45p.m.
-
+1030000057654	E,14,16	Don Street	Wyndham (Southland, NZ)	31/08/2011 4:56p.m.
+1030000058047	B,21,40	Fitzroy Street	Wreys Bush (Southland, NZ)	31/08/2011 4:59p.m.
+1030000026875	B,1,2	Jetty Street	Kingston (Southland, NZ)	31/08/2011 5:01p.m.
+1030000057595	B,8,21	Vaga Street	Lumsden (Southland, NZ)	31/08/2011 5:03p.m.
+1030000056788	B,1,8	Luna Street	Lumsden (Southland, NZ)	31/08/2011 5:05p.m.

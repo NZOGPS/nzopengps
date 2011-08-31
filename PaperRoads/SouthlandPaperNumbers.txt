@@ -1,0 +1,7 @@
+1030000056625	O,11,11	Barkly Street	Greenhills (Southland, NZ)	31/08/2011 12:22p.m.
+1030000058151	E,2,2	Lansdowne Crescent	Riverton (Southland, NZ)	31/08/2011 12:23p.m.
+1030000183369	O,29,29	Hodgkinson Street	Gummies Bush (Southland, NZ)	31/08/2011 1:27p.m.
+1030000057564	E,20,20	Farrar Street	Fortrose (Southland, NZ)	31/08/2011 1:54p.m.
+1030000035432	E,6,6	Lewis Street	Karitane (Otago, NZ)	31/08/2011 1:58p.m.
+1030000035373	O,1,1	Wick Street	Waikouaiti (Otago, NZ)	31/08/2011 2:00p.m.
+1030000035454	O,23,45	Banff Street	Waikouaiti (Otago, NZ)	31/08/2011 2:00p.m.

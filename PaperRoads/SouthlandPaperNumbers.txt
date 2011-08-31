@@ -5,3 +5,7 @@
 1030000035432	E,6,6	Lewis Street	Karitane (Otago, NZ)	31/08/2011 1:58p.m.
 1030000035373	O,1,1	Wick Street	Waikouaiti (Otago, NZ)	31/08/2011 2:00p.m.
 1030000035454	O,23,45	Banff Street	Waikouaiti (Otago, NZ)	31/08/2011 2:00p.m.
+1030000058030	E,16,16	Aparima Place	Riverton (Southland, NZ)	31/08/2011 2:21p.m.
+1030000058013	O,5,13	Alexandra Street	Riverton (Southland, NZ)	31/08/2011 2:21p.m.
+1030000058413	O,7,7	Russell Street	Wairio (Southland, NZ)	31/08/2011 2:31p.m.
+1030000035158	E,6,6	Meadow Road	Warrington (Otago, NZ)	31/08/2011 2:40p.m.

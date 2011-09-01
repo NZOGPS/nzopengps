@@ -681,7 +681,7 @@ Data0=(-45.89291,170.49952)
 
 ;1002737
 [POI]
-Type=0x2a0a
+Type=0x2a
 Label=PIZZA HUT FERRYMEAD
 StreetDesc=Shop 13, 1005 Ferry Rd, Ferrymead, Chc/ pizza, takeaways
 Phone=0800838383
@@ -36334,7 +36334,7 @@ Data0=(-41.51099,173.95915)
 
 ;1097134
 [POI]
-Type=0x3003
+Type=0x2f
 Label=WORK & INCOME CHEVIOT
 StreetDesc=39 Hall St,SH1, Cheviot/ WINZ
 Phone=0800559009
@@ -46021,7 +46021,7 @@ Data0=(-43.54413,172.56921)
 
 ;1103278
 [POI]
-Type=0x2f
+Type=0x2c00
 Label=CITIBUS LTD
 StreetDesc=1 Transport Place, Princes St, Dud/ Public transport, charter buses, and tourism
 Phone=+6434775577
@@ -53288,10 +53288,10 @@ Data0=(-42.52282,172.82898)
 [POI]
 Type=0x2f
 Label=HYDE PARK HIRE LTD
-StreetDesc=144 Carlyle St, Chc/ 
+StreetDesc=86 Gasson St, Sydenham, Chc/ 
 Phone=+6433653339
 zip=Mon-Fri 0830-1700; Sat 0930-1200
-Data0=(-43.54159,172.64139)
+Data0=(-43.54305,172.64282)
 [END]
 
 ;1107155
@@ -66119,9 +66119,9 @@ Data0=(-43.55919,172.70592)
 [POI]
 Type=0x2f
 Label=TAURUS GROUP LTD
-StreetDesc=L 3 Landsborough House, Corner Durham & Gloucester Streets, Chc/ 
+StreetDesc=L 1, 22 Foster St, Tower Junction, Chc 8011/ Chartered Accountants, Financiers a
 Phone=+6433666087
-Data0=(-43.52973,172.63334)
+Data0=(-43.53781,172.60513)
 [END]
 
 ;1114338
@@ -69751,7 +69751,7 @@ Data0=(-43.53394,172.63679)
 
 ;1116437
 [POI]
-Type=0x2c08
+Type=0x2f
 Label=HARE HILL HORSE TREKS
 StreetDesc=207 Aramoana Rd, Port Chalmers/ Horse Treks Trekking Riding school adventure
 Phone=+6434728496
@@ -93481,7 +93481,7 @@ Data0=(-45.89538,170.49991)
 
 ;1128402
 [POI]
-Type=0x2d02
+Type=0x2a
 Label=BACCHUS WINE BAR
 StreetDesc=12 The Octagon, Dud/ Restaurant / Bar
 Phone=+6434740824
@@ -96611,10 +96611,11 @@ Data0=(-45.87728,170.50049)
 
 ;1128797
 [POI]
-Type=0x2f
+Type=0x2d02
 Label=THE DUKE OF WELLINGTON
-StreetDesc=1 Queens Gardens, Dud/ 
-Data0=(-45.87751,170.50229)
+StreetDesc=Queens Gardens Court, 3 Crawford St, Dud/ Bar
+Phone=+6434792870
+Data0=(-45.87809,170.50337)
 [END]
 
 ;1128798
@@ -112778,7 +112779,7 @@ Data0=(-46.38338,168.33917)
 
 ;1134401
 [POI]
-Type=0x2e
+Type=0x2e06
 Label=ALRAY DAIRY
 StreetDesc=2-4 Windsor St, Invercargill/ dairy, superette, convenience store
 Phone=+6432174801
@@ -112787,7 +112788,7 @@ Data0=(-46.39818,168.36538)
 
 ;1134402
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=APPLEBY CRICKET CLUB
 StreetDesc=92 Dalrymple St, Invercargill/ sports club
 Phone=+6432186215
@@ -112831,7 +112832,7 @@ Data0=(-46.43159,168.38496)
 
 ;1134407
 [POI]
-Type=0x2e
+Type=0x2e06
 Label=AVENAL DAIRY & LOTTO
 StreetDesc=297 Dee St, Invercargill/ dairy, superette, convenience store, Lotto
 Phone=+6432186290
@@ -112962,7 +112963,7 @@ Data0=(-46.42268,168.37002)
 
 ;1134421
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=BLUFF BOWLING CLUB
 StreetDesc=166 Barrow St, Bluff/ sports club
 Phone=+6432128163
@@ -112987,7 +112988,7 @@ Data0=(-46.45751,168.38863)
 
 ;1134425
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=BLUFF RUGBY CLUB
 StreetDesc=141-149 Foyle St, Bluff/ sports club
 Data0=(-46.60038,168.33746)
@@ -113076,7 +113077,7 @@ Data0=(-46.41171,168.34764)
 
 ;1134435
 [POI]
-Type=0x2e
+Type=0x2e06
 Label=BROWN ST FOODCENTRE
 StreetDesc=70 Brown St, Invercargill/ Dairy
 Phone=+6432169275
@@ -113212,7 +113213,7 @@ Data0=(-46.41591,168.37312)
 
 ;1134450
 [POI]
-Type=0x2e
+Type=0x2e06
 Label=COLLINGWOOD FOODCENTRE
 StreetDesc=112 North Rd, Invercargill/ dairy, superette, convenience store, Lotto
 Phone=+6432157405
@@ -113239,7 +113240,7 @@ Data0=(-46.37477,168.34711)
 
 ;1134453
 [POI]
-Type=0x2e
+Type=0x2e06
 Label=CRINAN STREET DAIRY
 StreetDesc=249 Crinan St, Invercargill/ dairy, superette, convenience store
 Phone=+6432140529
@@ -113293,7 +113294,7 @@ Data0=(-46.41150,168.35045)
 
 ;1134459
 [POI]
-Type=0x2e
+Type=0x2e06
 Label=DAWN'S CORNER SHOPPE
 StreetDesc=404-412 Yarrow St, Invercargill/ dairy
 Data0=(-46.40575,168.37624)
@@ -113399,7 +113400,7 @@ Data0=(-46.40814,168.35044)
 
 ;1134471
 [POI]
-Type=0x2e
+Type=0x2e06
 Label=ELLES ROAD MINI MARKET
 StreetDesc=369 Elles Rd, Invercargill/ dairy, superette, convenience store
 Data0=(-46.43283,168.36126)
@@ -113467,7 +113468,7 @@ Data0=(-46.37515,168.36181)
 
 ;1134479
 [POI]
-Type=0x2e
+Type=0x2e06
 Label=FLIPPERS FOODBAR
 StreetDesc=141-143 Dunns Rd, Otatara/ dairy, superette, convenience store
 Data0=(-46.43190,168.29105)
@@ -113502,7 +113503,7 @@ Data0=(-46.42031,168.34633)
 
 ;1134483
 [POI]
-Type=0x2e
+Type=0x2e06
 Label=FOVEAUX DAIRY
 StreetDesc=268 Gore St, Bluff/ dairy, superette, convenience store
 Phone=+6432128748
@@ -113598,7 +113599,7 @@ Data0=(-46.41058,168.34705)
 
 ;1134494
 [POI]
-Type=0x2e
+Type=0x2e06
 Label=GRASMERE GROCERY
 StreetDesc=112 Tanner St, Invercargill/ dairy, superette, convenience store
 Phone=+6432159867
@@ -113607,7 +113608,7 @@ Data0=(-46.38346,168.33916)
 
 ;1134495
 [POI]
-Type=0x2f
+Type=0x2d05
 Label=GREEN ACRES GOLF KITCHEN
 StreetDesc=89 Steel Rd, West Plains/ golf club
 Phone=+6432159016
@@ -113660,7 +113661,7 @@ Data0=(-46.43176,168.36128)
 
 ;1134501
 [POI]
-Type=0x2e
+Type=0x2e06
 Label=HERBERT ST STORE
 StreetDesc=120-124 Herbert St, Invercargill/ dairy
 Phone=+6432143219
@@ -113713,7 +113714,7 @@ Data0=(-46.40765,168.35793)
 
 ;1134507
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=INVERCARGILL CITIZENS BOWLING CLUB
 StreetDesc=10 Deveron St, Invercargill/ sports
 Phone=+6432184371
@@ -113731,7 +113732,7 @@ Data0=(-46.41521,168.36242)
 
 ;1134509
 [POI]
-Type=0x2f
+Type=0x2d05
 Label=INVERCARGILL GOLF CLUB INC
 StreetDesc=190 Dunns Rd, Otatara/ golf club
 Phone=+6432131133
@@ -114016,7 +114017,7 @@ Data0=(-46.41642,168.33994)
 
 ;1134541
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=MAKAREWA BOWLING CLUB
 StreetDesc=66-84 Flora Rd East, Makarewa/ sports
 Phone=+6432358113
@@ -114025,7 +114026,7 @@ Data0=(-46.32977,168.34990)
 
 ;1134542
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=MAKAREWA SQUASH CLUB
 StreetDesc=66-84 Flora Rd East, Makarewa/ sports
 Phone=+6432358297
@@ -114043,7 +114044,7 @@ Data0=(-46.40623,168.39201)
 
 ;1134544
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=MARIST RUGBY FOOTBALL
 StreetDesc=32 Miller St, Invercargill/ sports
 Phone=+6432167466
@@ -114105,7 +114106,7 @@ Data0=(-46.42005,168.36179)
 
 ;1134551
 [POI]
-Type=0x2e
+Type=0x2e06
 Label=MR DAIRY
 StreetDesc=354 Elles Rd, Invercargill/ dairy, superette, convenience store
 Data0=(-46.43213,168.36166)
@@ -114156,7 +114157,7 @@ Data0=(-46.41226,168.34925)
 
 ;1134557
 [POI]
-Type=0x2e
+Type=0x2e06
 Label=NEWFIELD DAIRY
 StreetDesc=154 Ctr St, Invercargill/ dairy, superette, convenience store
 Phone=+6432169945
@@ -114324,7 +114325,7 @@ Data0=(-46.59889,168.34626)
 
 ;1134576
 [POI]
-Type=0x2e
+Type=0x2e06
 Label=POMONA STREET DISCOUNT
 StreetDesc=120 Tramway Rd, Invercargill/ dairy
 Data0=(-46.43220,168.36907)
@@ -114386,7 +114387,7 @@ Data0=(-46.39670,168.36543)
 
 ;1134583
 [POI]
-Type=0x2e
+Type=0x2e06
 Label=REGENT ST DAIRY
 StreetDesc=64 Regent St, Invercargill/ dairy, superette, convenience store
 Data0=(-46.42084,168.38772)
@@ -114403,7 +114404,7 @@ Data0=(-46.42239,168.38054)
 
 ;1134585
 [POI]
-Type=0x2e
+Type=0x2e06
 Label=ROBIN HOOD MILK BAR
 StreetDesc=268 North Rd, Invercargill/ dairy
 Data0=(-46.37749,168.34710)
@@ -114438,7 +114439,7 @@ Data0=(-46.39249,168.37393)
 
 ;1134589
 [POI]
-Type=0x2e
+Type=0x2e06
 Label=ROSEDALE FOODCENTRE
 StreetDesc=72-74 Salford St, Invercargill/ dairy
 Phone=+6432179468
@@ -114447,7 +114448,7 @@ Data0=(-46.39265,168.37398)
 
 ;1134590
 [POI]
-Type=0x2e
+Type=0x2e06
 Label=RUGBY PARK FOODCENTRE
 StreetDesc=318 Tweed St, Invercargill/ dairy
 Phone=+6432167036
@@ -114624,7 +114625,7 @@ Data0=(-46.41608,168.32266)
 
 ;1134611
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=SOUTHLAND BADMINTON ASSN
 StreetDesc=21 Surrey Park Rd, Invercargill/ sports club
 Phone=+6432179460
@@ -114642,7 +114643,7 @@ Data0=(-46.40657,168.33993)
 
 ;1134613
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=SOUTHLAND BOWLING CLUB
 StreetDesc=30-40 Forth St, Invercargill/ sports club
 Phone=+6432186812
@@ -114651,7 +114652,7 @@ Data0=(-46.41443,168.34812)
 
 ;1134614
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=SOUTHLAND CLAY TARGET CLUB
 StreetDesc=45 Pacific Ave, Oreti Beach/ sports club
 Data0=(-46.44122,168.24104)
@@ -114668,7 +114669,7 @@ Data0=(-46.41201,168.34612)
 
 ;1134616
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=SOUTHLAND DARTS ASSN
 StreetDesc=5 Mary St, Invercargill/ sports club
 Phone=+6432179676
@@ -114677,7 +114678,7 @@ Data0=(-46.41405,168.36442)
 
 ;1134617
 [POI]
-Type=0x2f
+Type=0x2d05
 Label=SOUTHLAND GOLF CLUB
 StreetDesc=300-590 Dunns Rd, Otatara/ Golf course
 Phone=+6432130208
@@ -114686,7 +114687,7 @@ Data0=(-46.43865,168.23447)
 
 ;1134618
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=SOUTHLAND INDOOR BOWLS CENTRE
 StreetDesc=50 Onslow St, Invercargill/ sports club
 Phone=+6432166191
@@ -114704,7 +114705,7 @@ Data0=(-46.38649,168.34952)
 
 ;1134620
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=SOUTHLAND RUGBY REFEREES
 StreetDesc=278 Tweed St, Invercargill/ sports club
 Data0=(-46.41755,168.36280)
@@ -114712,7 +114713,7 @@ Data0=(-46.41755,168.36280)
 
 ;1134621
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=SOUTHLAND SOFTBALL ASSN
 StreetDesc=550 Tay St, Invercargill/ sports club
 Phone=+6432178981
@@ -114730,7 +114731,7 @@ Data0=(-46.43865,168.23447)
 
 ;1134623
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=SOUTHLAND STOCK CAR CLUB
 StreetDesc=190 Sandy Point Rd, Otatara/ sports club
 Data0=(-46.44891,168.26078)
@@ -114747,7 +114748,7 @@ Data0=(-46.43572,168.27882)
 
 ;1134625
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=SQUASH CITY
 StreetDesc=12 Onslow St, Invercargill/ sports club
 Phone=+6432168030
@@ -114774,7 +114775,7 @@ Data0=(-46.41802,168.39105)
 
 ;1134628
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=STAR RUGBY FOOTBALL CLUB
 StreetDesc=225 King St, Invercargill/ sports Club
 Phone=+6432177204
@@ -114934,7 +114935,7 @@ Data0=(-46.40929,168.34543)
 
 ;1134646
 [POI]
-Type=0x2e
+Type=0x2e06
 Label=TAY NIGHT N DAY FOODSTORES
 StreetDesc=351 Tay St, Invercargill/ dairy
 Phone=+6432176165
@@ -115082,7 +115083,7 @@ Data0=(-46.41094,168.34766)
 
 ;1134663
 [POI]
-Type=0x2e
+Type=0x2e06
 Label=THRIFTY FOODS DAIRY
 StreetDesc=6 Stapleton St, Invercargill/ dairy, superette, convenience store
 Phone=+6432167388
@@ -115306,7 +115307,7 @@ Data0=(-46.34457,168.34226)
 
 ;1134688
 [POI]
-Type=0x2e
+Type=0x2e06
 Label=WHITETOPS DAIRY
 StreetDesc=2-4 Gore St, Bluff/ dairy, superette, convenience store
 Data0=(-46.60111,168.34843)
@@ -115536,7 +115537,7 @@ Data0=(-43.53229,172.67157)
 
 ;1134804
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=CENTRAL GATEWAY MOTEL
 StreetDesc=67 Inniscort St, Cromwell/ formally Twin Rivers Motel. Accommodation. Zenbu Wi-F
 Phone=+6434450035
@@ -115647,7 +115648,7 @@ Data0=(-46.40079,168.34787)
 
 ;1134906
 [POI]
-Type=0x2f
+Type=0x2e0b
 Label=PB TECHNOLOGIES DUNEDIN
 StreetDesc=277 Andersons Bay Rd, Dud/ PB Tech. Your computer superstore. Computer Systems, 
 Phone=+6434550004
@@ -115999,7 +116000,7 @@ Data0=(-41.29827,173.23675)
 
 ;1134996
 [POI]
-Type=0x2e
+Type=0x2e06
 Label=CHANGS DAIRY
 StreetDesc=7 Tahunanui Dr, Tahunanui, Nelson/ dairy, superette, convenience store
 Data0=(-41.28098,173.24975)
@@ -116417,7 +116418,7 @@ Data0=(-41.27616,173.28943)
 
 ;1135048
 [POI]
-Type=0x2e
+Type=0x2e06
 Label=KANDY KORNER DAIRY
 StreetDesc=151 Collingwood St, Nelson/ dairy, superette, convenience store
 Phone=+6435390205
@@ -117822,7 +117823,7 @@ Data0=(-46.42774,168.36144)
 
 ;1135559
 [POI]
-Type=0x2e
+Type=0x2e06
 Label=TAPANUI DAIRY
 StreetDesc=35 Northumberland St, Tapanui/ On the Spot convenience store, Lotto
 Data0=(-45.94344,169.26067)
@@ -141494,7 +141495,7 @@ Data0=(-45.89526,169.63801)
 
 ;1147177
 [POI]
-Type=0x2e07
+Type=0x2e
 Label=CRT FARMCENTRE BALCLUTHA
 StreetDesc=18-24 Baxter St, Balclutha/ Farm products; agchem, animal health, feed managemen
 Data0=(-46.24236,169.73568)
@@ -144781,7 +144782,7 @@ Data0=(-43.73625,172.04663)
 
 ;1150672
 [POI]
-Type=0x4a00
+Type=0x2f
 Label=SALTWATER CREEK REST AREA
 StreetDesc=1812 Main North Rd/ rest area
 Data0=(-43.26686,172.70647)
@@ -157150,7 +157151,8 @@ Data0=(-46.41324,168.34862)
 [POI]
 Type=0x2b00
 Label=MAPLE LODGE
-StreetDesc=Halliday Rd, Wanaka/ Accommodation
+StreetDesc=Halliday Rd, Wanaka/ Maple Lodge Bed & breakfast accommodation is the perfect de
+Phone=+03443627
 Data0=(-44.69663,169.18993)
 [END]
 
@@ -204817,7 +204819,7 @@ Data0=(-43.19446,171.87533)
 
 ;1183319
 [POI]
-Type=0x6402
+Type=0x2f
 Label=BOUNDARY CREEK HUT
 StreetDesc=Hakatere Conservation Park - South Island > Canterbury > Mid & South Canterbury/
 Data0=(-44.72835,169.85427)
@@ -206404,10 +206406,10 @@ Data0=(-45.87962,170.50018)
 ;1188984
 [POI]
 Type=0x2f
-Label=?LEAF HAIR STUDIO
-StreetDesc=83 Moray Place, Dud/ Hairdresser, makeup, wedding etc
+Label=?HAIR STUDIO LEAF
+StreetDesc=1st Fl, 83 Upper Moray Place, Dud ( Blue Blg )/ Hairdresser, Stylist, Make-up, P
 Phone=+6434701279
-zip=10am-6pm (tue-sun)
+zip=10am - 6pm (Tuesday - Sunday)
 Data0=(-45.87434,170.50143)
 [END]
 
@@ -206862,12 +206864,78 @@ zip=Monday - Friday 8.00am - 5.00pm
 Data0=(-45.89472,170.45954)
 [END]
 
-;1189273
+;1189276
 [POI]
 Type=0x2f
-Label=?IPOD SOLUTIONZ FOR IPOD AND IPHONE REPAIRS
-StreetDesc=Queenstown/ Ipod Solutionz is a Queenstown based company, operating nationwide. 
-Phone=+6421873737
-Data0=(-45.03116,168.66264)
+Label=E SCRAP RECYCLING
+StreetDesc=615 Halswell Junction Rd, Hornby, Chc/ Computer/PC Recycling Christchurch Electr
+Phone=+6433443919
+Data0=(-43.55558,172.52145)
+[END]
+
+;1189279
+[POI]
+Type=0x2f
+Label=CABINET CRAFT KITCHENS JOINERY
+StreetDesc=5 Clothier St, Phillipstown, Chc City, Chc 8011 New Zealand/ Christchurch Custom
+Phone=+6433654535
+Data0=(-43.53513,172.65258)
+[END]
+
+;1189298
+[POI]
+Type=0x2f
+Label=BROWN & SYME LTD
+StreetDesc=21 Te Rama Place, Wainoni, Chc/ Interior/Exterior Decoration, colour consultancy
+Phone=+6433818423
+Data0=(-43.51619,172.68925)
+[END]
+
+;1189307
+[POI]
+Type=0x2f
+Label=NEW ZEALAND FORENSICS 24HR
+StreetDesc=202 Greers Rd, Bryndwr 8053, New Zealand/ One of New Zealands leading Computer F
+Phone=+6433598005
+zip=24hrs, 7 days a week
+Data0=(-43.50351,172.58281)
+[END]
+
+;1189311
+[POI]
+Type=0x2f
+Label=COCHRANE & ASSOCIATES
+StreetDesc=84a Kingsley St, Sydenham, Chc/ Gypsum Plasterboard, Interior Drywall, Plasterin
+Phone=+6433776237
+Data0=(-43.54367,172.64454)
+[END]
+
+;1189312
+[POI]
+Type=0x2f
+Label=MISCO JOINERY
+StreetDesc=80 Mairehau Rd, Marshland, Chc 8083/ Kitchens Laundries Wardrobes Design Christc
+Phone=+6433834384
+Data0=(-43.48650,172.66885)
+[END]
+
+;1189313
+[POI]
+Type=0x2f
+Label=SALSA MOVES NZ
+StreetDesc=162 Hillside Rd, South Dud/ Dancing School, Fitness Classes, Percussion Classes,
+Phone=+6434760012
+zip=Monday - Saturday
+Data0=(-45.89335,170.49772)
+[END]
+
+;1189318
+[POI]
+Type=0x2f
+Label=MILTON HOUSE BED AND BREAKFAST
+StreetDesc=116 Norfolk St, St. Clair, Dud, New Zealand/ Luxury Seaside Bed & Breakfast Acco
+Phone=+34557814
+zip=4pm-1030am daily
+Data0=(-45.91446,170.48566)
 [END]
 

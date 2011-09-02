@@ -82,3 +82,4 @@
 1030000054056	B,105,118	Taylors Road	Clarkville (Canterbury, NZ)	26/08/2011 12:26p.m.
 1030000186552	B,66,128	Madeleys Road	Clarkville (Canterbury, NZ)	26/08/2011 12:29p.m.
 1030000053216	E,50,50	Selleck Street	Mount Pleasant, Christchurch (Canterbury, NZ)	26/08/2011 1:35p.m.
+1030000026728	O,11,17	Upton Street	Wanaka (Otago, NZ)	2/09/2011 5:00p.m.

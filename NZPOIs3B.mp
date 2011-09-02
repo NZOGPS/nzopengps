@@ -118758,11 +118758,11 @@ Data0=(-41.33914,173.18492)
 ;1137678
 [POI]
 Type=0x2d02
-Label=TAI TAPU HOTEL
-StreetDesc=780 Old Tai Tapu Rd, Tai Tapu, Chc/ Bars, TAB outlet, Pool table, Function Venue
+Label=TAI TAPU HOTEL RESTAURANT & BARS
+StreetDesc=780 Old Tai Tapu Rd, Canterbury/ Al a carte Restaurant, Restaurant open from 12 
 Phone=+6433296819
-zip=11am to Late daily
-Data0=(-43.65713,172.55611)
+zip=11am to Late daily, Restaurant Open Dail
+Data0=(-43.65724,172.55577)
 [END]
 
 ;1137679
@@ -158225,8 +158225,9 @@ Data0=(-42.40259,173.68138)
 [POI]
 Type=0x2b00
 Label=BIG TREE LODGE METHVEN
-StreetDesc=25 South Belt, Methven, Canterbury 7730/ Backpacker Accommodation.. Zenbu Wi-Fi 
+StreetDesc=25 South Belt, Methven, Canterbury 7730/ Ski Lodge and Backpacker Hostel Accommo
 Phone=+6433029575
+zip=www.facebook.com/BIGTREELODGE
 Data0=(-43.63610,171.64378)
 [END]
 
@@ -206937,5 +206938,51 @@ StreetDesc=116 Norfolk St, St. Clair, Dud, New Zealand/ Luxury Seaside Bed & Bre
 Phone=+34557814
 zip=4pm-1030am daily
 Data0=(-45.91446,170.48566)
+[END]
+
+;1189329
+[POI]
+Type=0x2c05
+Label=?LUXURY RAIL TRAIL TOURS
+StreetDesc=1 Aberafon St Middlemarch Central Otago 9597/ Cycle the Otago Central Rail Trail
+Phone=0800904185
+Data0=(-45.64364,169.85939)
+[END]
+
+;1189333
+[POI]
+Type=0x2f
+Label=ARKAY BENCHTOPS LTD
+StreetDesc=12B Prairie Place, Hornby, Chc/ Bathroom Kitchen Benchtops Laminate Solid Surfac
+Phone=+6433496607
+Data0=(-43.55729,172.51210)
+[END]
+
+;1189336
+[POI]
+Type=0x2e01
+Label=?UPGRADE APPLIANCES
+StreetDesc=Restell St Papanui Chc/ A discount code to get $10 off at Upgrade Appliances.co.
+Phone=0800101068
+zip=All the time
+Data0=(-43.49504,172.60668)
+[END]
+
+;1189337
+[POI]
+Type=0x2f
+Label=CONCRETE CONNECT
+StreetDesc=82 Thackeray St, Waltham Chc 8023/ Concrete Adhesion Concrete Repair Concrete Pr
+Phone=+6433746849
+Data0=(-43.54512,172.65062)
+[END]
+
+;1189338
+[POI]
+Type=0x2b01
+Label=LITTLE TREE STUDIO
+StreetDesc=25a South Belt, Methven, Canterbury 7030./ Self-contained studio unit, cozy nort
+Phone=+6433029575
+Data0=(-43.63656,171.64366)
 [END]
 

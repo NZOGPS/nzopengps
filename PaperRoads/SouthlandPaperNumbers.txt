@@ -39,3 +39,4 @@
 1030000183369	O,29,29	Hodgkinson Street	Gummies Bush (Southland, NZ)	31/08/2011 1:27p.m.
 1030000027027	O,3,5	Hereford Street	Kingston (Southland, NZ)	1/09/2011 11:58:10 p.m.
 1030000058206	E,50,90	Horrell Road	Eastern Bush (Southland, NZ)	2/09/2011 12:02:16 a.m.
+1030000057553	E,44,98	Farm Street	Lumsden (Southland, NZ)	4/09/2011 12:23:19 a.m.

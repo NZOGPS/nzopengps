@@ -9701,10 +9701,10 @@ Data0=(-45.10214,170.95426)
 ;1032445
 [POI]
 Type=0x2f01
-Label=BP LES BAMFORD MOTORS LTD
+Label=BP 2GO BALCLUTHA
 StreetDesc=79 Clyde St, Balclutha/ BP petrol station
 Phone=+6434180034
-Data0=(-46.23929,169.73640)
+Data0=(-46.23920,169.73660)
 [END]
 
 ;1032459
@@ -118543,9 +118543,9 @@ Data0=(-45.87022,170.50613)
 [POI]
 Type=0x2d02
 Label=BALCLUTHA RSA
-StreetDesc=85 Clyde St, Balclutha/ Bar, TAB outlet
+StreetDesc=85 Clyde St, Balclutha/ Bar, restaurant, TAB outlet
 Phone=+6434181656
-Data0=(-46.23943,169.73605)
+Data0=(-46.23942,169.73601)
 [END]
 
 ;1137494
@@ -141290,10 +141290,11 @@ Data0=(-46.23716,169.73921)
 
 ;1147152
 [POI]
-Type=0x2f
+Type=0x2F07
 Label=BALCLUTHA MITSUBISHI
-StreetDesc=73-75 Clyde St, Balclutha/ 
-Data0=(-46.23916,169.73673)
+StreetDesc=79 Clyde St, Balclutha/ Les Bamford Motors. Car dealers, new & used, parts, serv
+Phone=+6434180034
+Data0=(-46.23923,169.73678)
 [END]
 
 ;1147153
@@ -161771,9 +161772,11 @@ Data0=(-43.63244,171.64681)
 ;1159925
 [POI]
 Type=0x2b00
-Label=THE CHESTER BED & BREAKFAST APARTMENT
-StreetDesc=Apt 3, 173 Chester St East, Chc/ Accommodation
-Data0=(-43.52753,172.64918)
+Label=THE CHESTER BED & BREAKFAST APARTMENT 24HR
+StreetDesc=Apt c, 341 Armagh St Chc/ Accommodation
+Phone=+33665777
+zip=24 hrs
+Data0=(-43.52875,172.65200)
 [END]
 
 ;1159931
@@ -179958,9 +179961,11 @@ Data0=(-43.55076,172.64628)
 ;1170262
 [POI]
 Type=0x2f
-Label=WANAKA ACUPUNCTURE CLINIC
-StreetDesc=125 Tenby St, Wanaka/ 
-Data0=(-44.70271,169.13255)
+Label=WANAKA ACUPUNCTURE CLINIC LTD
+StreetDesc=19 Cliff Wilson St, Wanaka/ Traditional Chinese Medicine, Registered Acupuncturi
+Phone=+6434438131
+zip=9am - 7pm Mon - Fri
+Data0=(-44.68954,169.14189)
 [END]
 
 ;1170279
@@ -206984,5 +206989,51 @@ Label=LITTLE TREE STUDIO
 StreetDesc=25a South Belt, Methven, Canterbury 7030./ Self-contained studio unit, cozy nort
 Phone=+6433029575
 Data0=(-43.63656,171.64366)
+[END]
+
+;1189341
+[POI]
+Type=0x2f
+Label=BESGROW
+StreetDesc=519 Wairakei Rd/ Besgrow specialise in processing high quality, organic growing 
+Phone=+33598230
+Data0=(-43.48960,172.56723)
+[END]
+
+;1189342
+[POI]
+Type=0x2f
+Label=SIGN NETWORK LIMITED
+StreetDesc=4/50 Wickham St, Bromley, Chc 8062/ Christchurch signage, Screen printing, digit
+Phone=+6433843300
+Data0=(-43.53738,172.69837)
+[END]
+
+;1189345
+[POI]
+Type=0x2f
+Label=CANARY AUTOMOTIVE
+StreetDesc=23 Heathcote St, Woolston, Chc, 8023/ Need a Mechanic? Call Canary Automotive fo
+Phone=+6433842860
+Data0=(-43.54975,172.68146)
+[END]
+
+;1189353
+[POI]
+Type=0x2f
+Label=BED SHOP ONLINE
+StreetDesc=242 Ferry Rd, Chc, New Zealand/ Online Bed Shop Bedroom Furniture Mattress Scotc
+Phone=+6433778887
+Data0=(-43.54029,172.65766)
+[END]
+
+;1189357
+[POI]
+Type=0x2f
+Label=THE CHERSTE 24HR
+StreetDesc=Armagh St 341c Chc/ bed 7 breakfast
+Phone=+33665777
+zip=24 hrs
+Data0=(-43.52875,172.65120)
 [END]
 

@@ -57188,11 +57188,10 @@ Data0=(-43.58316,172.50945)
 ;1109400
 [POI]
 Type=0x2f
-Label=MEARNS & LECKIE LTD
-StreetDesc=57-59 Rankeilor St, South Dud, Dud/ 
-Phone=+6434556558
-zip=Mon-Fri 0800am - 1730pm
-Data0=(-45.89441,170.50025)
+Label=MEARNS & LECKIE 2006 LTD
+StreetDesc=7 Gow St, Mosgiel 9024/ 
+Phone=+6434892024
+Data0=(-45.88764,170.35119)
 [END]
 
 ;1109408
@@ -60847,16 +60846,6 @@ Label=PERFECT PACKAGING LTD
 StreetDesc=Unit 9, 20 Dakota Cres, Sockburn, Chc/ 
 Phone=+6433790890
 Data0=(-43.54232,172.55589)
-[END]
-
-;1111436
-[POI]
-Type=0x2f
-Label=PERPETUAL TRUST LIMITED
-StreetDesc=L 1 Pyne Gould Corporation Blg, 233 Cambridge Terrace, Chc/ 
-Phone=+6433798611
-zip=Mon-Fri 0830-1700
-Data0=(-43.52752,172.63873)
 [END]
 
 ;1111454
@@ -93805,14 +93794,6 @@ StreetDesc=103 George St, Dud/ cafe
 Data0=(-45.87253,170.50428)
 [END]
 
-;1128443
-[POI]
-Type=0x2a0e
-Label=CAFE WAKARI
-StreetDesc=292B Taieri Rd, Dud/ cafe
-Data0=(-45.85761,170.47806)
-[END]
-
 ;1128444
 [POI]
 Type=0x2a0e
@@ -122979,6 +122960,8 @@ Data0=(-45.61170,170.67287)
 Type=0x2f
 Label=WAKARI HAIR
 StreetDesc=122 Helensburgh Rd, Dud/ Hairdressers
+Phone=+6434762104
+zip=Monday - Friday (Saturday by appointment
 Data0=(-45.85754,170.47804)
 [END]
 
@@ -171047,7 +171030,7 @@ Data0=(-43.90388,171.74669)
 ;1165601
 [POI]
 Type=0x2f
-Label=ASHBURTON FAMILY PLANNING CLINIC
+Label=FAMILY PLANNING ASHBURTON
 StreetDesc=Cnr Oak Grove & Elizabeth St, Ashburton, Canterbury/ 
 Data0=(-43.89380,171.74486)
 [END]
@@ -174331,7 +174314,7 @@ Data0=(-42.44946,171.20826)
 ;1167228
 [POI]
 Type=0x2f
-Label=GREYMOUTH FAMILY PLANNING CLINIC
+Label=FAMILY PLANNING GREYMOUTH
 StreetDesc=High St, Greymouth, West Coast/ Family Planning
 Phone=+6437680895
 Data0=(-42.46399,171.19261)
@@ -175280,7 +175263,7 @@ Data0=(-42.39781,173.68031)
 ;1167698
 [POI]
 Type=0x2f
-Label=KAIKOURA FAMILY PLANNING CLINIC
+Label=FAMILY PLANNING KAIKOURA
 StreetDesc=6 Beach Rd, Kaikoura, Canterbury/ 
 Data0=(-42.39890,173.68068)
 [END]
@@ -176900,7 +176883,7 @@ Data0=(-43.64644,172.46573)
 ;1168546
 [POI]
 Type=0x2f
-Label=NZ FAMILY PLANNING ASSOCIATION - BLENHEIM
+Label=FAMILY PLANNING BLENHEIM
 StreetDesc=68 Seymour St, Blenheim/ Contraception, Sexually Transmissible Infection checks 
 Data0=(-41.51494,173.95411)
 [END]
@@ -176908,7 +176891,7 @@ Data0=(-41.51494,173.95411)
 ;1168547
 [POI]
 Type=0x2f
-Label=NZ FAMILY PLANNING ASSOCIATION - CHRISTCHURCH
+Label=FAMILY PLANNING CHRISTCHURCH
 StreetDesc=9 Washington Way, Chc/ Contraception, Sexually Transmissible Infection checks an
 Data0=(-43.54065,172.64371)
 [END]
@@ -176916,7 +176899,7 @@ Data0=(-43.54065,172.64371)
 ;1168548
 [POI]
 Type=0x2f
-Label=NZ FAMILY PLANNING ASSOCIATION - DUNEDIN
+Label=FAMILY PLANNING DUNEDIN
 StreetDesc=95 Hanover St, Dud/ Contraception, Sexually Transmissible Infection checks and t
 Data0=(-45.87050,170.50776)
 [END]
@@ -176924,7 +176907,7 @@ Data0=(-45.87050,170.50776)
 ;1168550
 [POI]
 Type=0x2f
-Label=NZ FAMILY PLANNING ASSOCIATION - INVERCARGILL
+Label=FAMILY PLANNING INVERCARGILL
 StreetDesc=68 Don St, Invercargill/ Contraception, Sexually Transmissible Infection checks 
 Data0=(-46.41064,168.35192)
 [END]
@@ -176932,7 +176915,7 @@ Data0=(-46.41064,168.35192)
 ;1168556
 [POI]
 Type=0x2f
-Label=NZ FAMILY PLANNING ASSOCIATION - TIMARU
+Label=FAMILY PLANNING TIMARU
 StreetDesc=2 Perth St, Timaru/ Contraception, Sexually Transmissible Infection checks and t
 Data0=(-44.39814,171.25141)
 [END]
@@ -177907,7 +177890,7 @@ Data0=(-43.30308,172.59670)
 ;1169141
 [POI]
 Type=0x2f
-Label=RANGIORA FAMILY PLANNING CLINIC
+Label=FAMILY PLANNING RANGIORA
 StreetDesc=205a King St, Rangiora, Canterbury/ 
 Data0=(-43.30280,172.59002)
 [END]
@@ -179961,7 +179944,7 @@ Data0=(-43.55076,172.64628)
 ;1170262
 [POI]
 Type=0x2f
-Label=WANAKA ACUPUNCTURE CLINIC LTD
+Label=WANAKA ACUPUNCTURE CLINIC LTD - EVE MCGREGOR
 StreetDesc=19 Cliff Wilson St, Wanaka/ Traditional Chinese Medicine, Registered Acupuncturi
 Phone=+6434438131
 zip=9am - 7pm Mon - Fri
@@ -207051,5 +207034,32 @@ Type=0x2f
 Label=MAUDES ON HOLMWOOD
 StreetDesc=62 Rossall St Merivale 8014/ cafe
 Data0=(-43.51977,172.61566)
+[END]
+
+;1189371
+[POI]
+Type=0x2f
+Label=RAVENSDOWN - DIPTON LIME
+StreetDesc=dipton mossburn Rd/ Lime Quarry
+Phone=+6432485142
+Data0=(-45.81719,168.28342)
+[END]
+
+;1189372
+[POI]
+Type=0x2f
+Label=RAVENSDOWN - GERALDINE LINE
+StreetDesc=winchester-hanging rock Rd/ Lime Quarry
+Phone=+6436974898
+Data0=(-44.13652,171.12270)
+[END]
+
+;1189373
+[POI]
+Type=0x2f
+Label=RAVENSDOWN - NGARUA LIME
+StreetDesc=Highway 60, Motueka/ Lime Quarry
+Phone=+6435284715
+Data0=(-41.02236,172.91557)
 [END]
 

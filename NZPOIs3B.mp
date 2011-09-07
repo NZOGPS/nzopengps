@@ -34166,7 +34166,7 @@ Data0=(-43.55365,172.62714)
 
 ;1095588
 [POI]
-Type=0x2d
+Type=0x2e
 Label=EZI-VU HANMER SPRINGS
 StreetDesc=Alpine Pacific Cntr, 3 Conical Hill Rd, Hanmer Springs/ DVD rental
 Phone=+6433157184
@@ -35947,7 +35947,7 @@ Data0=(-43.50931,172.59010)
 
 ;1096673
 [POI]
-Type=0x2e
+Type=0x2f
 Label=JIGSAW HAIR & BEAUTY
 StreetDesc=Cnr Clyde & Ilam Roads, Fendalton/ Hairdressers, Beauty Salon
 Phone=+6433517214
@@ -36564,7 +36564,7 @@ Data0=(-41.75609,171.59858)
 
 ;1097288
 [POI]
-Type=0x2e
+Type=0x2f
 Label=HUNTSBURY HAIR
 StreetDesc=236A Centaurus Rd, Huntsbury, Chc/ Hairdressers
 Phone=+6433322205
@@ -36616,7 +36616,7 @@ Data0=(-45.89448,170.49906)
 
 ;1097316
 [POI]
-Type=0x2e
+Type=0x2f
 Label=VISIQUE FOATE OPTOMETRISTS - BISHOPDALE
 StreetDesc=1 Bishopdale Mall, Bishopdale, Chc/ Optometrist, Eye Examinations, Eyewear, Cont
 Phone=+6433599074
@@ -36626,7 +36626,7 @@ Data0=(-43.49015,172.58732)
 
 ;1097326
 [POI]
-Type=0x2e
+Type=0x2f
 Label=SPECSAVERS TIMARU
 StreetDesc=15-19 Elizabeth St, Timaru/ Optometrist, eye exam, eyewear, frames, glasses, con
 Phone=+6436884179
@@ -36636,7 +36636,7 @@ Data0=(-44.39465,171.24742)
 
 ;1097332
 [POI]
-Type=0x2e
+Type=0x2f
 Label=NOEL TEMPLETON OPTOMETRIST
 StreetDesc=217 Palmerston St Westport/ Optometrist, Eye Exam,Eye health check, Contact Lens
 Phone=+6437897677
@@ -36646,7 +36646,7 @@ Data0=(-41.75732,171.60038)
 
 ;1097333
 [POI]
-Type=0x2e
+Type=0x2f
 Label=NOEL TEMPLETON OPTOMETRIST
 StreetDesc=Shop 16, Mariners Mall,100 High St, Picton/ Optometrist. Eye exams, frames, glas
 Phone=+6435737461
@@ -36754,7 +36754,7 @@ Data0=(-41.31297,173.23312)
 
 ;1097383
 [POI]
-Type=0x2e
+Type=0x2f
 Label=JULIA SAULSBURY VISION CARE
 StreetDesc=128 Riccarton Rd, Riccarton, Chc/ Optometrist, eye exam, eyewear
 Phone=+6433480008
@@ -51556,7 +51556,7 @@ Data0=(-41.24115,173.02695)
 
 ;1106221
 [POI]
-Type=0x2f
+Type=0x2F07
 Label=GLUYAS MOTORS LTD
 StreetDesc=79 Kermode St, Ashburton/ Ford & Mazda Dealers...New & Used cars
 Phone=+6433075800
@@ -57260,7 +57260,7 @@ Data0=(-43.53434,172.65084)
 
 ;1109449
 [POI]
-Type=0x2f
+Type=0x2e
 Label=MEENAN WINES & SPIRITS LTD
 StreetDesc=750 Great King St North, Dud/ Beer, wine, liquor, spirits
 Phone=+6434772047
@@ -62509,7 +62509,7 @@ Data0=(-46.09627,169.09886)
 
 ;1112404
 [POI]
-Type=0x2f
+Type=0x2F07
 Label=REGIONAL FORD
 StreetDesc=7 Medway St, Gore/ Ford Dealer
 Phone=+6432087800
@@ -63386,7 +63386,7 @@ Data0=(-45.87634,170.50251)
 
 ;1112970
 [POI]
-Type=0x2f
+Type=0x2b01
 Label=SCENIC SUITES CHRISTCHURCH
 StreetDesc=87-89 Kilmore St, Chc/ Hotel
 Phone=+6433668444
@@ -76558,7 +76558,7 @@ Data0=(-43.54217,172.66368)
 
 ;1117853
 [POI]
-Type=0x2e
+Type=0x2f
 Label=ALL ABOUT YOU
 StreetDesc=Shop 37, L 0, Westfield Riccarton, 129 Riccarton Rd, Riccarton, Chc/ Beauty ther
 Phone=+6433483949
@@ -78097,7 +78097,7 @@ Data0=(-45.86863,170.50650)
 
 ;1118555
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=JADE COURT MOTOR LODGE
 StreetDesc=85 Fitzherbert St, Hokitika, West Coast/ Motel Accommodation. Zenbu Wi-Fi wirele
 Phone=0800755885reservations
@@ -78106,7 +78106,7 @@ Data0=(-42.71637,170.96709)
 
 ;1118556
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=BELLA VISTA MOTEL HOKITIKA
 StreetDesc=52 Fitzherbert St, Hokitika/ Motel accommodation
 Phone=0800235528
@@ -78115,7 +78115,7 @@ Data0=(-42.71764,170.96646)
 
 ;1118557
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=BEACHFRONT HOTEL
 StreetDesc=111 Revell St, Hokitika/ Hotel accommodation, bar, restaurant, events, TAB Self-
 Phone=0800400344
@@ -81072,15 +81072,6 @@ Label=BLENHEIM ROAD TAVERN
 StreetDesc=280 Blenheim Rd, Chc/ Hotel Bar Restaurant TAB Outlet
 Phone=+6433431520
 Data0=(-43.53817,172.58611)
-[END]
-
-;1119726
-[POI]
-Type=0x2a
-Label=BOWER TAVERN
-StreetDesc=487 New Brighton Rd, New Brighton, Chc/ Hotel, Bar, Restaurant, TAB Outlet
-Phone=+6433889138
-Data0=(-43.50347,172.70902)
 [END]
 
 ;1119727
@@ -85142,16 +85133,6 @@ zip=Open Nov 17th to March 2nd.  Mon - Fri 3
 Data0=(-43.54637,172.67298)
 [END]
 
-;1120965
-[POI]
-Type=0x2d09
-Label=QEII SWIMMING POOL
-StreetDesc=193 Travis Rd, Chc/ Swimming Pool, Leisure Centre, Hydroslide, Wave Pool, Sauna,
-Phone=+6439416849
-zip=Mon to Sun 6am - 9pm, Weekends & Public 
-Data0=(-43.49140,172.70614)
-[END]
-
 ;1120966
 [POI]
 Type=0x2d09
@@ -89036,7 +89017,7 @@ Data0=(-41.27479,173.28570)
 
 ;1121860
 [POI]
-Type=0x2e
+Type=0x2f
 Label=RODNEY WAYNE NELSON
 StreetDesc=Fashion Island, 244 Hardy St, Nelson/ Hairdresser
 Phone=+6435456419
@@ -90180,7 +90161,7 @@ Data0=(-43.56750,172.70216)
 
 ;1122288
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=ALBERGO HANMER LODGE AND ALPINE VILLA
 StreetDesc=88 Rippingale Rd, Hanmer Springs 7334, North Canterbury/ Luxury bed & breakfast 
 Phone=+6433157428
@@ -95452,7 +95433,7 @@ Data0=(-45.88168,170.48239)
 
 ;1128655
 [POI]
-Type=0x2f
+Type=0x2e
 Label=HEALTH 2000 MOSGIEL
 StreetDesc=129 Gordon Rd, Mosgiel/ Health & sports nutrition
 Data0=(-45.87457,170.34822)
@@ -96519,7 +96500,7 @@ Data0=(-45.88104,170.47969)
 
 ;1128788
 [POI]
-Type=0x2f
+Type=0x2b01
 Label=OCEAN BEACH HOTEL
 StreetDesc=134 Prince Albert Rd, Dud/ Motel accommodation, restaurant, bar, pokies
 Phone=+6434554642
@@ -96617,7 +96598,7 @@ Data0=(-45.88020,170.49995)
 
 ;1128800
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=THE FIX
 StreetDesc=15 Frederick St, Dud/ Cafe
 Phone=+6434792660
@@ -99953,7 +99934,7 @@ Data0=(-43.50346,172.70989)
 
 ;1130978
 [POI]
-Type=0x2f
+Type=0x2a07
 Label=BOWER FISH SUPPLY
 StreetDesc=14 Bower Ave, New Brighton, Chc/ Fish & chips, takeaways
 Phone=+6433888593
@@ -100985,7 +100966,7 @@ Data0=(-43.53466,172.63342)
 
 ;1131109
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=COFFEE CORNER
 StreetDesc=28 Worcester St, Chc/ Cafe, indoor & outdoor dining
 Phone=+6433772162
@@ -101223,7 +101204,7 @@ Data0=(-43.49002,172.72073)
 
 ;1131140
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=CUP
 StreetDesc=127 Hackthorne Rd, Cashmere, Chc/ Cafe
 Phone=+6433321270
@@ -102667,7 +102648,7 @@ Data0=(-43.58628,172.57032)
 
 ;1131322
 [POI]
-Type=0x2f
+Type=0x2a07
 Label=HALSWELL FISH SUPPLY
 StreetDesc=21 Lillian St, Halswell, Chc/ Fish & chips, takeaways
 Phone=+6433229178
@@ -103528,7 +103509,7 @@ Data0=(-43.49853,172.66211)
 
 ;1131435
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=JAMAICA BLUE - RICCARTON MALL
 StreetDesc=Store K11 Riccarton Mall, 145 Riccarton Rd, Chc/ cafe
 Phone=+33482642
@@ -105322,7 +105303,7 @@ Data0=(-43.55734,172.63637)
 
 ;1131667
 [POI]
-Type=0x2f
+Type=0x2e
 Label=HEALTH 2000 NATURIA GUTHREY CENTRE
 StreetDesc=Shop 17 Guthrey Ctr City Mall, 126 Cashel St, Chc/ Health & sports nutrition
 Phone=+6433790451
@@ -106429,7 +106410,7 @@ Data0=(-43.56153,172.73860)
 
 ;1131807
 [POI]
-Type=0x2f
+Type=0x2a07
 Label=REDCLIFFS FISH SUPPLY
 StreetDesc=99A Main Rd, Chc/ Fish and Chips, Seafoods
 Phone=+6433842240
@@ -109433,7 +109414,7 @@ Data0=(-43.51230,172.62213)
 
 ;1132191
 [POI]
-Type=0x2a02
+Type=0x2e02
 Label=TWIN PEAKS FOOD MART
 StreetDesc=90 Ilam Rd, Chc/ asian grocery
 Data0=(-43.52403,172.58050)
@@ -113722,7 +113703,7 @@ Data0=(-46.43157,168.28393)
 
 ;1134510
 [POI]
-Type=0x2f
+Type=0x2e
 Label=INVERCARGILL HEALTH 2000
 StreetDesc=132 Dee St, Invercargill/ Health & sports nutrition
 Phone=+6432188590
@@ -116098,7 +116079,7 @@ Data0=(-41.27895,173.27319)
 
 ;1135010
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=DEVILLE
 StreetDesc=22 New St, Nelson/ Cafe
 Phone=+6435456911
@@ -118880,7 +118861,7 @@ Data0=(-44.39007,171.22083)
 
 ;1137761
 [POI]
-Type=0x2f
+Type=0x2e
 Label=ABSOLUTE FLOWERS
 StreetDesc=183 Stafford St, Timaru/ Florist, floral designs & arrangements
 Phone=+6436888062
@@ -123161,7 +123142,7 @@ Data0=(-42.71675,170.96197)
 
 ;1138561
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=FOX GLACIER INN
 StreetDesc=39 Sullivan Rd, Fox Glacier/ Motel accommodation, backpackers
 Phone=+6437510022
@@ -123238,7 +123219,7 @@ Data0=(-42.89966,170.81654)
 
 ;1138571
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=HOKITIKA CHEESE & DELI
 StreetDesc=84 Revell St, Hokitika, West Coast/ Cafe, food, delicatessen. Honey, preserves, 
 Phone=+6437555432
@@ -125971,7 +125952,7 @@ Data0=(-46.10009,168.94554)
 
 ;1140807
 [POI]
-Type=0x2f
+Type=0x2e
 Label=NATURAL HEALTH 2000
 StreetDesc=57 Main St, Gore/ Health & sports nutrition
 Phone=+6432084561
@@ -126355,7 +126336,7 @@ Data0=(-41.75501,171.59834)
 
 ;1141041
 [POI]
-Type=0x2f
+Type=0x2b01
 Label=CHARLESTON EUROPEAN HOTEL
 StreetDesc=SH 6, Charleston/ Hotel
 Phone=+6437898862
@@ -126537,7 +126518,7 @@ Data0=(-41.85666,171.95191)
 
 ;1141064
 [POI]
-Type=0x2f
+Type=0x2e
 Label=HEALTH 2000 WESTPORT
 StreetDesc=112A Palmerston St, Westport/ Health & sports nutrition
 Phone=+6437897595
@@ -128450,7 +128431,7 @@ Data0=(-41.29200,173.23630)
 
 ;1141444
 [POI]
-Type=0x2f
+Type=0x2F07
 Label=THUNDERBIKE POWERSPORTS
 StreetDesc=29a Bolt Rd, Tahunanui, Nelson/ Motorbikes, bike tours, KTM, triumph, BMW, Spare
 Phone=+6435485787
@@ -136682,7 +136663,7 @@ Data0=(-43.38240,172.65915)
 
 ;1144886
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=THE BLUE ROOSTER - BORDEAUX RESTAURANT
 StreetDesc=88-90 Victoria St, Rangiora, Canterbury/ Cafe and bar, licensed Restaurant. Zenb
 Phone=+6433133493
@@ -140678,14 +140659,6 @@ StreetDesc=7 Michelle Rd, Chc/
 Data0=(-43.54742,172.56700)
 [END]
 
-;1147065
-[POI]
-Type=0x2f
-Label=THE FRONT ROOM FOR HAIR
-StreetDesc=112 Peterborough St, Chc/ Hairdresser
-Data0=(-43.52561,172.63604)
-[END]
-
 ;1147066
 [POI]
 Type=0x2e
@@ -140933,7 +140906,8 @@ Data0=(-43.55735,172.51478)
 [POI]
 Type=0x2f
 Label=TRUE GRIT
-StreetDesc=85 Manchester St, Chc/ Hairdresser
+StreetDesc=77 Tuam St, Chc/ Hairdresser
+Phone=+6433777889
 Data0=(-43.53661,172.63950)
 [END]
 
@@ -141487,7 +141461,7 @@ Data0=(-46.24236,169.73568)
 
 ;1147178
 [POI]
-Type=0x2e07
+Type=0x2e
 Label=CRT FARMCENTRE TAPANUI
 StreetDesc=2 Station Rd, Tapanui/ Farm products; agchem, animal health, feed management, sh
 Data0=(-45.94306,169.25770)
@@ -143679,7 +143653,7 @@ Data0=(-44.09673,170.23981)
 
 ;1149098
 [POI]
-Type=0x2f
+Type=0x2b03
 Label=RUATANIWHA HOLIDAY PARK
 StreetDesc=Freda Du Faur Ave, Lake Ruataniwha, Twizel/ Camping ground, cabins
 Data0=(-44.27255,170.06845)
@@ -143929,7 +143903,7 @@ Data0=(-44.09999,170.82202)
 
 ;1149134
 [POI]
-Type=0x2e07
+Type=0x2e
 Label=CRT FARMCENTRE FAIRLIE
 StreetDesc=Talbot Rd, Fairlie/ Farm products; agchem, animal health, feed management, shear
 Data0=(-44.09937,170.83034)
@@ -146017,7 +145991,7 @@ Data0=(-45.85074,170.52500)
 
 ;1151111
 [POI]
-Type=0x2c08
+Type=0x2d00
 Label=NORTH EAST VALLEY BOWLING CLUB
 StreetDesc=139 North Rd, North East Valley, Dud 9010/ Bowls, Sport
 Phone=+6434739704
@@ -155699,7 +155673,7 @@ Data0=(-43.61601,172.29923)
 
 ;1157613
 [POI]
-Type=0x2e07
+Type=0x2e
 Label=CRT FARMCENTRE DARFIELD
 StreetDesc=40 South Terrace, Darfield/ Farm products; agchem, animal health, feed managemen
 Data0=(-43.48977,172.11361)
@@ -155707,7 +155681,7 @@ Data0=(-43.48977,172.11361)
 
 ;1157614
 [POI]
-Type=0x2e07
+Type=0x2e
 Label=CRT FARMCENTRE LEESTON
 StreetDesc=14 Station St, Leeston/ Farm products; agchem, animal health, feed management, s
 Data0=(-43.76257,172.30095)
@@ -156481,7 +156455,7 @@ Data0=(-42.39217,173.67888)
 
 ;1157710
 [POI]
-Type=0x2e07
+Type=0x2e
 Label=CRT FARMCENTRE KAIKOURA
 StreetDesc=70 Beach Rd, Kaikoura/ Farm products; agchem, animal health, feed management, sh
 Data0=(-42.39370,173.67939)
@@ -157460,7 +157434,7 @@ Data0=(-43.73003,172.59147)
 
 ;1158588
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=AMORE MOTOR LODGE
 StreetDesc=168 Riccarton Rd, Riccarton, Chc/ Motel accommodation
 Phone=+6433482889
@@ -158749,7 +158723,7 @@ Data0=(-41.73557,173.42393)
 
 ;1159013
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=COKERS BACKPACKERS 24HR
 StreetDesc=52 Manchester St, Chc/ Accommodation, hotel, Woolshed bar and bistro, licensed r
 Phone=+6433798580
@@ -167831,7 +167805,7 @@ Data0=(-43.53146,172.57102)
 
 ;1163804
 [POI]
-Type=0x2e09
+Type=0x2e07
 Label=DUNEDIN RED CROSS SHOP
 StreetDesc=31 York Place, Dud/ Op shop. Clothing, homeware, manchester, books and small fur
 Phone=+6434771527
@@ -167851,7 +167825,7 @@ Data0=(-45.87181,170.50606)
 
 ;1163809
 [POI]
-Type=0x2e09
+Type=0x2e07
 Label=GERALDINE RED CROSS SHOP
 StreetDesc=141 Talbot St, Geraldine/ Op shop. Clothing, homeware, manchester, books and sma
 zip=Thu 10am-4:30pm
@@ -167890,7 +167864,7 @@ Data0=(-41.27582,173.27692)
 
 ;1163821
 [POI]
-Type=0x2e09
+Type=0x2e07
 Label=NELSON RED CROSS SHOP
 StreetDesc=59 Parkers Rd, Tahunanui, Nelson/ Op shop. Clothing, homeware, manchester, books
 Phone=+6435465012
@@ -167910,7 +167884,7 @@ Data0=(-44.39818,171.25531)
 
 ;1163832
 [POI]
-Type=0x2e09
+Type=0x2e07
 Label=WAIMATE RED CROSS SHOP
 StreetDesc=99 Queen St, Waimate/ Op shop. Clothing, homeware, manchester, books and small f
 Phone=+6436897417
@@ -176884,7 +176858,8 @@ Data0=(-43.64644,172.46573)
 [POI]
 Type=0x2f
 Label=FAMILY PLANNING BLENHEIM
-StreetDesc=68 Seymour St, Blenheim/ Contraception, Sexually Transmissible Infection checks 
+StreetDesc=Renown Blg, 68 Seymour St, Blenheim/ Contraception, Sexually Transmissible Infec
+Phone=+6435783047
 Data0=(-41.51494,173.95411)
 [END]
 
@@ -190436,7 +190411,7 @@ Data0=(-43.29693,171.70954)
 
 ;1173909
 [POI]
-Type=0x2f
+Type=0x2b01
 Label=EARNSLAW MOTEL
 StreetDesc=288 Blenheim Rd, Chc/ Motel accommodation
 Phone=+6433486387
@@ -191048,7 +191023,7 @@ Data0=(-41.25736,172.13121)
 
 ;1174241
 [POI]
-Type=0x2f
+Type=0x2e
 Label=AMBROSIA DESIGNER FLORIST
 StreetDesc=Shop 7, Cambridge Place Arcade Invercargill/ Florists, Flowers, Bridal, Invercar
 Phone=+6432183324
@@ -191379,7 +191354,7 @@ Data0=(-43.54272,172.52489)
 
 ;1174340
 [POI]
-Type=0x2e
+Type=0x2f
 Label=FRENCH CONNECTION
 StreetDesc=The Hub Hornby, 418 Main South Rd, Hornby, Chc/ Beauty Therapy Clinic. Facials, 
 Phone=+6433498498
@@ -193012,7 +192987,7 @@ Data0=(-43.53288,172.63648)
 
 ;1175027
 [POI]
-Type=0x2e09
+Type=0x2f
 Label=PRICES PACKERS AND MOVERS
 StreetDesc=First Fl Roslyn Mill Industrial Estate, 229 Kaikorai Valley Rd, Dud, Otago, Sout
 Phone=08002PACKU0800272258
@@ -198072,7 +198047,7 @@ Data0=(-44.39388,171.25110)
 
 ;1178297
 [POI]
-Type=0x2e09
+Type=0x2f
 Label=ALLIED PICKFORDS
 StreetDesc=122 Hilton Highway, Washdyke, Timaru/ Furniture Removals, Household Relocations,
 Phone=0800500235
@@ -200173,7 +200148,7 @@ Data0=(-43.38303,172.65696)
 
 ;1179188
 [POI]
-Type=0x2f
+Type=0x2e
 Label=BUNCHES & BOWS FLORAL DESIGNERS
 StreetDesc=Shop 9, Albion Place, Dud/ Florists
 Phone=+6434778703
@@ -200183,7 +200158,7 @@ Data0=(-45.87086,170.50698)
 
 ;1179191
 [POI]
-Type=0x2f
+Type=0x2e
 Label=MISS REID FLORIST
 StreetDesc=19 The Octagon, Dud/ Florist
 Phone=+6434778449
@@ -200192,7 +200167,7 @@ Data0=(-45.87465,170.50399)
 
 ;1179192
 [POI]
-Type=0x2f
+Type=0x2e
 Label=ACCENT 4 FLOWERS
 StreetDesc=149 Dee St, Invercargill/ Florist, deliveries
 Phone=+6432143945
@@ -200210,7 +200185,7 @@ Data0=(-45.87200,170.50742)
 
 ;1179194
 [POI]
-Type=0x2f
+Type=0x2e
 Label=JOYFLORA FLOWERS
 StreetDesc=13A Riccarton Rd, Chc/ Florist
 Phone=+6433484103
@@ -200219,7 +200194,7 @@ Data0=(-43.52907,172.61095)
 
 ;1179195
 [POI]
-Type=0x2f
+Type=0x2e
 Label=THE FLOWER ROOM
 StreetDesc=65 Carlton Mill Rd, Chc/ Florist
 Phone=+6439684911
@@ -200237,7 +200212,7 @@ Data0=(-41.27232,173.28277)
 
 ;1179197
 [POI]
-Type=0x2f
+Type=0x2e
 Label=MOTUEKA FLORAL STUDIO
 StreetDesc=131 High St, Motueka/ Florist
 Phone=+6435287569
@@ -202201,7 +202176,7 @@ Data0=(-43.48968,172.56948)
 
 ;1180830
 [POI]
-Type=0x2e08
+Type=0x2f
 Label=CUSTOM HOME PRODUCTS LTD
 StreetDesc=41 Timaru St South Dud Dud 9012/ At Custom Home Products we manufacture and inst
 Phone=+6434550527
@@ -204824,7 +204799,7 @@ Data0=(-44.88857,170.26464)
 
 ;1183321
 [POI]
-Type=0x6402
+Type=0x2f
 Label=BUSTER HUT
 StreetDesc=Oteake Conservation Park - South Island > Otago > Central Otago/ DOC Backcountry
 Data0=(-44.92443,170.26301)
@@ -207061,5 +207036,23 @@ Label=RAVENSDOWN - NGARUA LIME
 StreetDesc=Highway 60, Motueka/ Lime Quarry
 Phone=+6435284715
 Data0=(-41.02236,172.91557)
+[END]
+
+;1189402
+[POI]
+Type=0x2f
+Label=PRECISION PULTRUSION
+StreetDesc=Unit 4, 91 Shakespeare Rd, Chc, New Zealand/ Solid Fibreglass Rods Manufacturer 
+Phone=+6433324918
+Data0=(-43.54645,172.65296)
+[END]
+
+;1189404
+[POI]
+Type=0x2f
+Label=MOFFATT'S FLOWER COMPANY
+StreetDesc=1 Candys Rd, Halswell, Chc/ Flower Business Commercial Rose Growers Nursery Chri
+Phone=+6433227975
+Data0=(-43.59503,172.56169)
 [END]
 

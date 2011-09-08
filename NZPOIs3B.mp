@@ -17116,10 +17116,11 @@ Data0=(-41.11289,173.01073)
 ;1057386
 [POI]
 Type=0x2f
-Label=RAY WHITE BLENHEIM
-StreetDesc=22 Maxwell Rd, Blenheim/ Real estate agency
-Phone=+6435780860
-Data0=(-41.51431,173.95604)
+Label=RAY WHITE BLENHEIM 24HR
+StreetDesc=21 Queen St, Blenheim 7201/ Real estate agency
+Phone=+6435708555
+zip=8:30am - 5pm Weekdays, Contact 24/7 by p
+Data0=(-41.51307,173.95559)
 [END]
 
 ;1057414
@@ -200614,7 +200615,7 @@ Type=0x2c02
 Label=AIR FORCE MUSEUM
 StreetDesc=45 Harvard Ave, Wigram, Canterbury 8042/ visitor attraction, RNZAF museum
 zip=10 am to 5 pm daily
-Data0=(-43.54785,172.54653)
+Data0=(-43.54632,172.54770)
 [END]
 
 ;1179506
@@ -207038,6 +207039,15 @@ Phone=+6435284715
 Data0=(-41.02236,172.91557)
 [END]
 
+;1189401
+[POI]
+Type=0x2f
+Label=GENERAL JOINERY
+StreetDesc=Unit 2, 21 Barton St, Chc/ Solid Timber Joinery Design Manufactures Installation
+Phone=+6433764551
+Data0=(-43.55423,172.68044)
+[END]
+
 ;1189402
 [POI]
 Type=0x2f
@@ -207054,5 +207064,32 @@ Label=MOFFATT'S FLOWER COMPANY
 StreetDesc=1 Candys Rd, Halswell, Chc/ Flower Business Commercial Rose Growers Nursery Chri
 Phone=+6433227975
 Data0=(-43.59503,172.56169)
+[END]
+
+;1189412
+[POI]
+Type=0x2f
+Label=EXPLORE NEW ZEALAND MOTORHOMES
+StreetDesc=38 Sheffield Cres Chc, New Zealand/ Motorhome Rental Campervan Hire Christchurch
+Phone=+6433429099
+Data0=(-43.48948,172.56254)
+[END]
+
+;1189414
+[POI]
+Type=0x2f
+Label=CHEZ FLEURS
+StreetDesc=15 Smith St. Akaroa/ Bed and Breakfast Akaroa Accommodation
+Phone=+6433048674
+Data0=(-43.80751,172.96842)
+[END]
+
+;1189415
+[POI]
+Type=0x2f
+Label=KAIAPOI ALUMINIUM
+StreetDesc=1261 Main North Rd ,Bridgend Belfast, New Zealand/ High Quality Aluminium Doors,
+Phone=+6433237808
+Data0=(-43.41984,172.65262)
 [END]
 

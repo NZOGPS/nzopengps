@@ -5,6 +5,7 @@
 1030000027027	O,3,5	Hereford Street	Kingston (Southland, NZ)	1/09/2011 11:58:10 p.m.
 1030000034767	B,6,9	Woburn Street	Hyde (Otago, NZ)	31/08/2011 6:54p.m.
 1030000035158	E,6,6	Meadow Road	Warrington (Otago, NZ)	31/08/2011 2:40p.m.
+1030000035290	E,30,40	Glasgow Street	Waikouaiti (Otago, NZ)	11/09/2011 12:57:48 a.m.
 1030000035330	E,2,10	Bridge Street	Waitati (Otago, NZ)	1/09/2011 11:53:02 p.m.
 1030000035373	O,1,1	Wick Street	Waikouaiti (Otago, NZ)	31/08/2011 2:00p.m.
 1030000035385	E,10,30	Evansdale Glen Road	Evansdale (Otago, NZ)	4/09/2011 12:48:39 a.m.
@@ -35,10 +36,10 @@
 1030000058151	E,2,2	Lansdowne Crescent	Riverton (Southland, NZ)	31/08/2011 12:23p.m.
 1030000058206	E,50,90	Horrell Road	Eastern Bush (Southland, NZ)	2/09/2011 12:02:16 a.m.
 1030000058336	O,135,135	Daniel Road	Otaitai Bush (Southland, NZ)	1/09/2011 11:33:37 p.m.
+1030000058402	O,481,481	Colac Foreshore Road	Colac Bay (Southland, NZ)	8/09/2011 5:21p.m.>>>>>>> .r2750
 1030000058413	O,7,7	Russell Street	Wairio (Southland, NZ)	31/08/2011 2:31p.m.
 1030000058474	O,3,5	Oldham Street	Waimatuku (Southland, NZ)	31/08/2011 4:23p.m.
 1030000058480	B,16,29	Pomare Street	Riverton (Southland, NZ)	1/09/2011 11:27:11 p.m.
 1030000058484	O,15,25	Poole Street	Waimatuku (Southland, NZ)	31/08/2011 4:23p.m.
 1030000183367	E,34,50	Solomon Street	Gummies Bush (Southland, NZ)	31/08/2011 7:32p.m.
 1030000183369	O,29,29	Hodgkinson Street	Gummies Bush (Southland, NZ)	31/08/2011 1:27p.m.
-1030000058402	O,481,481	Colac Foreshore Road	Colac Bay (Southland, NZ)	8/09/2011 5:21p.m.

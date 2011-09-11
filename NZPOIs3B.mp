@@ -33990,16 +33990,6 @@ zip=Mon-Fri 7.30am-5pm, Sat 8am-12pm
 Data0=(-41.76460,171.61142)
 [END]
 
-;1095521
-[POI]
-Type=0x2e
-Label=BBQ FACTORY CHRISTCHURCH
-StreetDesc=950 Ferry Rd, Woolston, Chc/ Barbecues, spa pools, outdoor furniture, indoor hea
-Phone=+6433846285
-zip=Monday to Friday 9am to 5.00pm, Saturday
-Data0=(-43.55710,172.69706)
-[END]
-
 ;1095524
 [POI]
 Type=0x2e
@@ -59286,10 +59276,11 @@ Data0=(-43.51292,172.62212)
 
 ;1110488
 [POI]
-Type=0x2f
+Type=0x2c00
 Label=NOMAD SAFARIS
-StreetDesc=19 Shotover St, Queenstown/ 
-Phone=+6434426699
+StreetDesc=2 Industrial Place, Queenstown 9197/ The best 4x4 tours by far, LOTR, scenic & h
+Phone=+03442669
+zip=7:30am - 8pm
 Data0=(-45.03063,168.66056)
 [END]
 
@@ -99810,6 +99801,7 @@ Type=0x2f
 Label=BIN INN NEW BRIGHTON
 StreetDesc=Surfside Mall, 68 Hawke St, New Brighton, Chc/ Wholefoods & Specialty Groceries,
 Phone=+6433887214
+zip=Monday - Friday: 9am - 5.30pm | Saturday
 Data0=(-43.50693,172.72609)
 [END]
 
@@ -99819,15 +99811,17 @@ Type=0x2e02
 Label=BIN INN STANMORE ROAD
 StreetDesc=341A Stanmore Rd, Richmond Village, Chc/ Wholefoods & Specialty Groceries, Bulk 
 Phone=+6433815199
+zip=Monday - Friday: 8.30am - 6pm | Saturday
 Data0=(-43.51805,172.65580)
 [END]
 
 ;1130963
 [POI]
 Type=0x2f
-Label=BIN INN LINCOLN ROAD
+Label=BIN INN LINCOLN ROAD CHRISTCHRUCH
 StreetDesc=94 Lincoln Rd, Chc/ Wholefoods & Specialty Groceries, Bulk Foods, Gluten Free, N
 Phone=+6433384606
+zip=Monday - Friday: 9am - 6pm | Saturday: 9
 Data0=(-43.55065,172.60024)
 [END]
 
@@ -112912,6 +112906,7 @@ Type=0x2f
 Label=BIN INN INVERCARGILL
 StreetDesc=133 Grace St, Invercargill/ Wholefoods & Specialty Groceries, Bulk Foods, Gluten
 Phone=+6432145200
+zip=Monday - Friday: 8.30am - 5.30pm | Satur
 Data0=(-46.42708,168.36030)
 [END]
 
@@ -115821,6 +115816,7 @@ Type=0x2f
 Label=BIN INN NELSON
 StreetDesc=Montgomery Sq, 16 Bridge St, Nelson/ Wholefoods & Specialty Groceries, Bulk Food
 Phone=+6435466199
+zip=Monday - Friday: 8.30am - 5.30pm | Satur
 Data0=(-41.27264,173.28201)
 [END]
 
@@ -119020,6 +119016,7 @@ Type=0x2f
 Label=BIN INN TIMARU
 StreetDesc=18 Dee St, Timaru/ Wholefoods & Specialty Groceries, Bulk Foods, Gluten Free, Nu
 Phone=+6436849840
+zip=Monday - Friday: 8.30am - 5.30pm | Satur
 Data0=(-44.39595,171.24661)
 [END]
 
@@ -135630,6 +135627,7 @@ Type=0x2f
 Label=BIN INN RANGIORA
 StreetDesc=87 Ivory St, Rangiora/ Wholefoods & Specialty Groceries, Bulk Foods, Gluten Free
 Phone=+6433133779
+zip=Monday - Friday: 8.30am - 5.30pm | Satur
 Data0=(-43.30412,172.59674)
 [END]
 
@@ -145043,6 +145041,7 @@ Type=0x2f
 Label=BIN INN ALEXANDRA
 StreetDesc=38 Tarbert St, Alexandra/ Wholefoods & Specialty Groceries, Bulk Foods, Gluten F
 Phone=+6434402066
+zip=Monday - Friday: 9am - 5.30pm | Saturday
 Data0=(-45.25709,169.39285)
 [END]
 
@@ -192356,6 +192355,7 @@ Type=0x2e02
 Label=BIN INN BLENHEIM
 StreetDesc=25 Redwood St, Blenheim/ Wholefoods & Specialty Groceries, Bulk Foods, Gluten Fr
 Phone=+6435783300
+zip=Monday - Friday: 8.30am - 5.30pm | Satur
 Data0=(-41.51673,173.96084)
 [END]
 
@@ -192365,6 +192365,7 @@ Type=0x2e02
 Label=BIN INN GORE
 StreetDesc=82 Broughton St, Gore/ Wholefoods & Specialty Groceries, Bulk Foods, Gluten Free
 Phone=+6432039331
+zip=Monday - Friday: 8.30am - 5.30pm | Satur
 Data0=(-46.10525,168.93448)
 [END]
 
@@ -192374,13 +192375,14 @@ Type=0x2e02
 Label=BIN INN MOTUEKA
 StreetDesc=151a High St, Motueka/ Wholefoods & Specialty Groceries, Bulk Foods, Gluten Free
 Phone=+6435280019
+zip=Monday - Friday: 9am - 5pm | Saturday: 9
 Data0=(-41.11099,173.01162)
 [END]
 
 ;1174682
 [POI]
 Type=0x2e02
-Label=BIN INN RICHMOND
+Label=BIN INN RICHMOND, NELSON
 StreetDesc=271 Queen St, Richmond/ Wholefoods & Specialty Groceries, Bulk Foods, Gluten Fre
 Phone=+6435438045
 zip=Monday - Friday: 9am - 5:30pm, Saturday 
@@ -198374,7 +198376,7 @@ Type=0x2f
 Label=INFLAME BBQ'S & MORE
 StreetDesc=18 Birmingham Dr, Middleton, Chc/ We are experts in natural flame home & lifesty
 Phone=+6433392375
-zip=Mon-Fri 9AM-5PM, Sat & Sun 10AM-4PM
+zip=Mon-Fri 9AM-5PM
 Data0=(-43.54387,172.59061)
 [END]
 
@@ -198490,16 +198492,6 @@ StreetDesc=70 Glenda Dr, Frankton, Queenstown/ Kitchen & Wardrobe Design, Manufa
 Phone=+6434418364
 zip=Mon - Fri 10am - 5pm Sat 10am - 3pm
 Data0=(-45.00710,168.75175)
-[END]
-
-;1178535
-[POI]
-Type=0x2e09
-Label=BBQ FACTORY RICCARTON
-StreetDesc=Ground Fl, Unit 3, 213 Blenheim Rd, Riccarton, Chc/ Barbecues, spa pools, outdoo
-Phone=+6433485417
-zip=7 days & public holidays 9am-6pm
-Data0=(-43.53821,172.58989)
 [END]
 
 ;1178539
@@ -207091,5 +207083,23 @@ Label=KAIAPOI ALUMINIUM
 StreetDesc=1261 Main North Rd ,Bridgend Belfast, New Zealand/ High Quality Aluminium Doors,
 Phone=+6433237808
 Data0=(-43.41984,172.65262)
+[END]
+
+;1189423
+[POI]
+Type=0x2f
+Label=OPTIONS RENTALS
+StreetDesc=121 Fitzgerald Ave, Chc/ Rental Cars Christchurch, Greymouth, Auckland
+Phone=+6433651659
+Data0=(-43.53355,172.65015)
+[END]
+
+;1189435
+[POI]
+Type=0x2f
+Label=INAPPROPRIATE MARKETING
+StreetDesc=L 1 Skyline Arcade Queenstown/ Marketing Consulting Services --> branding, strat
+Phone=+6427485540
+Data0=(-45.03220,168.66069)
 [END]
 

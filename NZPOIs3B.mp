@@ -147367,9 +147367,9 @@ Data0=(-45.86954,170.51916)
 [POI]
 Type=0x2f
 Label=PHYSICAL SENSE
-StreetDesc=300 colombo St, sydenham, Chc/ Physiotherapist, physio, massage, gym, classes,
+StreetDesc=300 Colombo St, Sydenham, Chc/ Physiotherapist, physio, massage, gym, classes
 Phone=+6433772577
-zip=7 am- 7 pm
+zip=7am-7pm
 Data0=(-43.54924,172.63720)
 [END]
 
@@ -207101,5 +207101,32 @@ Label=INAPPROPRIATE MARKETING
 StreetDesc=L 1 Skyline Arcade Queenstown/ Marketing Consulting Services --> branding, strat
 Phone=+6427485540
 Data0=(-45.03220,168.66069)
+[END]
+
+;1189441
+[POI]
+Type=0x2f
+Label=WEBNZ WEBSITE DESIGN DUNEDIN
+StreetDesc=313 Highcliff Rd/ Website Design, Website Development, Website Hosting, Search E
+Phone=+6434545790
+Data0=(-45.88419,170.54887)
+[END]
+
+;1189444
+[POI]
+Type=0x2f
+Label=PANELFORM INDUSTRIES
+StreetDesc=49 Vickerys Rd Sockburn, Chc New Zealand/ Kitchen Doors, Melamine and Thermaform
+Phone=+6439821195
+Data0=(-43.54466,172.55294)
+[END]
+
+;1189447
+[POI]
+Type=0x2f
+Label=THE CITY WORCESTER
+StreetDesc=336 Worcester St, Chc, New Zealand/ Motel Accommodation Christchurch City Worces
+Phone=+6439820074
+Data0=(-43.53108,172.65378)
 [END]
 

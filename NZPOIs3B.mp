@@ -99899,16 +99899,6 @@ StreetDesc=340 Colombo St, Chc/
 Data0=(-43.54722,172.63684)
 [END]
 
-;1130974
-[POI]
-Type=0x2a0e
-Label=BOATSHED CAFE
-StreetDesc=2 Cambridge Tce, Chc/ Cafe, fully licensed
-Phone=+6433666768
-zip=Winter 7 days 7am-5pm, Summer 7 days 7am
-Data0=(-43.53388,172.62795)
-[END]
-
 ;1130975
 [POI]
 Type=0x2a0e
@@ -180951,10 +180941,10 @@ Data0=(-43.55394,172.53430)
 [POI]
 Type=0x2f
 Label=GROSSMAN TRADE TOOLS
-StreetDesc=324 St Asaph St, Chc/ Electric power tools, trade tools, Powertool centre.
-Phone=+33650539
-zip=8.00am - 5.00pm Mon-Fri
-Data0=(-43.53654,172.64731)
+StreetDesc=439 St Asaph St, Chc/ Electric power tools, trade tools, Powertool centre. Sales
+Phone=+6433650539
+zip=Mon-Fri 8am-5pm
+Data0=(-43.53614,172.65323)
 [END]
 
 ;1170855
@@ -207107,7 +207097,7 @@ Data0=(-45.03220,168.66069)
 [POI]
 Type=0x2f
 Label=WEBNZ WEBSITE DESIGN DUNEDIN
-StreetDesc=313 Highcliff Rd/ Website Design, Website Development, Website Hosting, Search E
+StreetDesc=Highcliff Rd/ Website Design, Website Development, Website Hosting, Search Engin
 Phone=+6434545790
 Data0=(-45.88419,170.54887)
 [END]
@@ -207128,5 +207118,61 @@ Label=THE CITY WORCESTER
 StreetDesc=336 Worcester St, Chc, New Zealand/ Motel Accommodation Christchurch City Worces
 Phone=+6439820074
 Data0=(-43.53108,172.65378)
+[END]
+
+;1189448
+[POI]
+Type=0x2f
+Label=BOATSHED CAFE
+StreetDesc=2 Cambridge Terrace, Chc, New Zealand/ Breakfast, Brunch, Lunch Christchurch Caf
+Phone=+6433666768
+Data0=(-43.53391,172.62803)
+[END]
+
+;1189449
+[POI]
+Type=0x2f
+Label=CANTERBURY FOAM CONCRETE LTD
+StreetDesc=10 Edison Place Bromley, Chc New Zealand/ underfloor thermal insulation soil sta
+Phone=+6433764608
+Data0=(-43.54062,172.70022)
+[END]
+
+;1189450
+[POI]
+Type=0x2f
+Label=HALSWELL COMMUNITY NURSERY AND PRESCHOOL (THE LIGHTHOUSE PRE-SCHOOL)
+StreetDesc=6 Balcairn St, Halswell, Chc/ Preschool in Halswell. 6 Balcairn Street
+Phone=+6433228192
+zip=8.30am- 5.00pm Monday to Friday
+Data0=(-43.57428,172.56670)
+[END]
+
+;1189452
+[POI]
+Type=0x2f
+Label=HEART SPECIALISTS
+StreetDesc=L 2 Leinster Chambers St. Georges Hospital 249 Papanui Rd Chc/ Christchurch, New
+Phone=+6433519503
+Data0=(-43.50991,172.61935)
+[END]
+
+;1189453
+[POI]
+Type=0x2f
+Label=?ROCKMYBABY
+StreetDesc=canterbury/ Babysitting, nannying agency.
+Phone=+6422176276
+zip=8am-8pm 7 days a week
+Data0=(-43.75423,171.16372)
+[END]
+
+;1189459
+[POI]
+Type=0x2f
+Label=MCR MOTORCYCLE REPLACEMENTS LTD
+StreetDesc=79 Crawford St, Dud, NZ/ Motorbike parts, service, Yamaha, BMW, Moto Guzzi, Apri
+Phone=+6434770366
+Data0=(-45.88043,170.50211)
 [END]
 

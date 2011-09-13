@@ -22,6 +22,8 @@
 1030000057536	E,16,20	Ira Street	Lumsden (Southland, NZ)	31/08/2011 7:38p.m.
 1030000057537	E,4,36	Juno Street	Lumsden (Southland, NZ)	31/08/2011 7:46p.m.
 1030000057553	E,44,98	Farm Street	Lumsden (Southland, NZ)	4/09/2011 12:23:19 a.m.
+1030000057241	O,61,61	Hill Road	Lumsden (Southland, NZ)	14/09/2011 12:44:48 a.m.
+1030000056830	E,46,76	Garden Street	Lumsden (Southland, NZ)	13/09/2011 11:59:17 p.m.
 1030000057564	E,20,20	Farrar Street	Fortrose (Southland, NZ)	31/08/2011 1:54p.m.
 1030000057595	B,8,21	Vaga Street	Lumsden (Southland, NZ)	31/08/2011 5:03p.m.
 1030000057654	E,14,16	Don Street	Wyndham (Southland, NZ)	31/08/2011 4:56p.m.
@@ -36,7 +38,7 @@
 1030000058151	E,2,2	Lansdowne Crescent	Riverton (Southland, NZ)	31/08/2011 12:23p.m.
 1030000058206	E,50,90	Horrell Road	Eastern Bush (Southland, NZ)	2/09/2011 12:02:16 a.m.
 1030000058336	O,135,135	Daniel Road	Otaitai Bush (Southland, NZ)	1/09/2011 11:33:37 p.m.
-1030000058402	O,481,481	Colac Foreshore Road	Colac Bay (Southland, NZ)	8/09/2011 5:21p.m.>>>>>>> .r2750
+1030000058402	O,481,481	Colac Foreshore Road	Colac Bay (Southland, NZ)	8/09/2011 5:21p.m.
 1030000058413	O,7,7	Russell Street	Wairio (Southland, NZ)	31/08/2011 2:31p.m.
 1030000058474	O,3,5	Oldham Street	Waimatuku (Southland, NZ)	31/08/2011 4:23p.m.
 1030000058480	B,16,29	Pomare Street	Riverton (Southland, NZ)	1/09/2011 11:27:11 p.m.

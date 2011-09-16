@@ -99818,7 +99818,7 @@ Data0=(-43.51805,172.65580)
 ;1130963
 [POI]
 Type=0x2f
-Label=BIN INN LINCOLN ROAD CHRISTCHRUCH
+Label=BIN INN LINCOLN ROAD CHRISTCHURCH
 StreetDesc=94 Lincoln Rd, Chc/ Wholefoods & Specialty Groceries, Bulk Foods, Gluten Free, N
 Phone=+6433384606
 zip=Monday - Friday: 9am - 6pm | Saturday: 9
@@ -100804,7 +100804,7 @@ Data0=(-43.53072,172.63517)
 
 ;1131091
 [POI]
-Type=0x2f
+Type=0x2e06
 Label=CITY EXPRESS COLOMBO
 StreetDesc=683A Colombo St, Chc/ 
 Data0=(-43.53277,172.63647)
@@ -204424,7 +204424,7 @@ Data0=(-41.75173,171.59785)
 
 ;1181434
 [POI]
-Type=0x2f
+Type=0x2c04
 Label=PELICHET BAY INFECTIOUS DISEASES HOSPITAL (FORMER)
 StreetDesc=3 Butts Rd, Logan Park, Dud/ Historic Place: Category 1
 Data0=(-45.86241,170.52876)
@@ -206372,7 +206372,7 @@ Data0=(-46.12730,167.67444)
 
 ;1188994
 [POI]
-Type=0x2f
+Type=0x2e05
 Label=ASPIRING PHARMACY WANAKA
 StreetDesc=29 Helwick St, Wanaka/ pharmacy wanaka, wanaka pharmacy, chemist wanaka, aspirin
 Phone=+6434437986
@@ -206510,7 +206510,7 @@ Data0=(-45.02344,170.14723)
 
 ;1189064
 [POI]
-Type=0x2f
+Type=0x2c04
 Label=ST GEORGE'S ANGLICAN CHURCH
 StreetDesc=46 Derwent St, NASEBY/ 
 Data0=(-45.02743,170.14443)
@@ -206590,7 +206590,7 @@ Data0=(-43.53739,172.52922)
 
 ;1189139
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=ALLURE CAFE & ART GALLERY
 StreetDesc=11 West End, Kaikoura/ A new cafe focussing on friendly service, great coffee an
 Phone=+6433197402
@@ -206619,7 +206619,7 @@ Data0=(-43.54644,172.64604)
 
 ;1189145
 [POI]
-Type=0x2f
+Type=0x2a07
 Label=DEVIL BURGER, INVERCARGILL
 StreetDesc=16 Don St, Invercargill/ Takeaways, Dine in
 Phone=+6432189666
@@ -206628,7 +206628,7 @@ Data0=(-46.41062,168.34818)
 
 ;1189146
 [POI]
-Type=0x2f
+Type=0x2a07
 Label=?DEVIL BURGER, QUEENSTOWN
 StreetDesc=Church St, Queenstown/ Takeaways, Dine in
 Phone=+6434424666
@@ -206646,7 +206646,7 @@ Data0=(-45.02136,168.73600)
 
 ;1189151
 [POI]
-Type=0x2f
+Type=0x2a05
 Label=THE CUPCAKERIE
 StreetDesc=Riccarton Rotary Market (most Sundays)/ Gourmet Cupcake Bakery - handmade with l
 Data0=(-43.52976,172.54050)
@@ -206654,7 +206654,7 @@ Data0=(-43.52976,172.54050)
 
 ;1189152
 [POI]
-Type=0x2f
+Type=0x2f11
 Label=TRAVEL PARTNERS
 StreetDesc=L 1 140 George St Dud 9016 New Zealand/ Travel Partners, travel agents Dunedin N
 Phone=+6434770000
@@ -206709,7 +206709,7 @@ Data0=(-45.85457,170.51768)
 
 ;1189193
 [POI]
-Type=0x2f
+Type=0x2b00
 Label=COLOMBO IN THE CITY
 StreetDesc=863 Colombo St , Chc New Zealand/ Motel/Apartments Accommodation Christchurch Ce
 Phone=+6433668775
@@ -206878,7 +206878,7 @@ Data0=(-45.89335,170.49772)
 
 ;1189318
 [POI]
-Type=0x2f
+Type=0x2b02
 Label=MILTON HOUSE BED AND BREAKFAST
 StreetDesc=116 Norfolk St, St. Clair, Dud, New Zealand/ Luxury Seaside Bed & Breakfast Acco
 Phone=+34557814
@@ -206952,7 +206952,7 @@ Data0=(-43.53738,172.69837)
 
 ;1189345
 [POI]
-Type=0x2f
+Type=0x2f03
 Label=CANARY AUTOMOTIVE
 StreetDesc=23 Heathcote St, Woolston, Chc, 8023/ Need a Mechanic? Call Canary Automotive fo
 Phone=+6433842860
@@ -206970,9 +206970,9 @@ Data0=(-43.54029,172.65766)
 
 ;1189357
 [POI]
-Type=0x2f
+Type=0x2b02
 Label=THE CHERSTE 24HR
-StreetDesc=Armagh St 341c Chc/ bed 7 breakfast
+StreetDesc=Armagh St 341c Chc/ bed & breakfast
 Phone=+33665777
 zip=24 hrs
 Data0=(-43.52875,172.65120)
@@ -206980,7 +206980,7 @@ Data0=(-43.52875,172.65120)
 
 ;1189363
 [POI]
-Type=0x2f
+Type=0x2e08
 Label=PORTSTONE GARDEN CENTRE AND CAFE
 StreetDesc=465 Ferry Rd Woolston 8062/ cafe, garden centre
 Data0=(-43.54445,172.67055)
@@ -206988,7 +206988,7 @@ Data0=(-43.54445,172.67055)
 
 ;1189364
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=MAUDES ON HOLMWOOD
 StreetDesc=62 Rossall St Merivale 8014/ cafe
 Data0=(-43.51977,172.61566)
@@ -207050,7 +207050,7 @@ Data0=(-43.59503,172.56169)
 
 ;1189412
 [POI]
-Type=0x2f
+Type=0x2F02
 Label=EXPLORE NEW ZEALAND MOTORHOMES
 StreetDesc=38 Sheffield Cres Chc, New Zealand/ Motorhome Rental Campervan Hire Christchurch
 Phone=+6433429099
@@ -207059,7 +207059,7 @@ Data0=(-43.48948,172.56254)
 
 ;1189414
 [POI]
-Type=0x2f
+Type=0x2b02
 Label=CHEZ FLEURS
 StreetDesc=15 Smith St. Akaroa/ Bed and Breakfast Akaroa Accommodation
 Phone=+6433048674
@@ -207077,7 +207077,7 @@ Data0=(-43.41984,172.65262)
 
 ;1189423
 [POI]
-Type=0x2f
+Type=0x2F02
 Label=OPTIONS RENTALS
 StreetDesc=121 Fitzgerald Ave, Chc/ Rental Cars Christchurch, Greymouth, Auckland
 Phone=+6433651659
@@ -207113,7 +207113,7 @@ Data0=(-43.54466,172.55294)
 
 ;1189447
 [POI]
-Type=0x2f
+Type=0x2b01
 Label=THE CITY WORCESTER
 StreetDesc=336 Worcester St, Chc, New Zealand/ Motel Accommodation Christchurch City Worces
 Phone=+6439820074
@@ -207122,7 +207122,7 @@ Data0=(-43.53108,172.65378)
 
 ;1189448
 [POI]
-Type=0x2f
+Type=0x2a0e
 Label=BOATSHED CAFE
 StreetDesc=2 Cambridge Terrace, Chc, New Zealand/ Breakfast, Brunch, Lunch Christchurch Caf
 Phone=+6433666768
@@ -207174,5 +207174,22 @@ Label=MCR MOTORCYCLE REPLACEMENTS LTD
 StreetDesc=79 Crawford St, Dud, NZ/ Motorbike parts, service, Yamaha, BMW, Moto Guzzi, Apri
 Phone=+6434770366
 Data0=(-45.88043,170.50211)
+[END]
+
+;1189464
+[POI]
+Type=0x2f
+Label=STRAIGHTEN UP PANEL AND PAINT LTD
+StreetDesc=74 Parkhouse Rd, Chc, New Zealand/ Christchurch panel beaters, collision repairs
+Phone=+6433486311
+Data0=(-43.54378,172.56953)
+[END]
+
+;1189467
+[POI]
+Type=0x2d00
+Label=?RIDE QUEENSTOWN
+StreetDesc=Brecon st queenstown/ Ride Queenstown is the place to get information on mountai
+Data0=(-45.03016,168.65748)
 [END]
 

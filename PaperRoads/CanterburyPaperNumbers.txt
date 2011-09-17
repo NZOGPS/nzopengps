@@ -84,3 +84,4 @@
 1030000053216	E,50,50	Selleck Street	Mount Pleasant, Christchurch (Canterbury, NZ)	26/08/2011 1:35p.m.
 1030000026728	O,11,17	Upton Street	Wanaka (Otago, NZ)	2/09/2011 5:00p.m.
 1030000054609	E,70,84	Division Street	Riccarton, Christchurch (Canterbury, NZ)	2/09/2011 6:07p.m.
+1030000058280	E,68,68	Brook Street	Riverton (Southland, NZ)	17/09/2011 4:41:03 p.m.

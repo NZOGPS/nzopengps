@@ -7932,15 +7932,6 @@ Phone=+6433651394
 Data0=(-43.53862,172.64438)
 [END]
 
-;1027699
-[POI]
-Type=0x2e
-Label=WHITCOULLS COLOMBO STREET
-StreetDesc=Victoria Fare, 767 Colombo St, Chc/ bookshop, books, Lotto
-Phone=+6433796123
-Data0=(-43.52919,172.63646)
-[END]
-
 ;1027706
 [POI]
 Type=0x2e
@@ -13294,15 +13285,6 @@ Phone=+6432368065
 Data0=(-46.14100,168.32511)
 [END]
 
-;1044107
-[POI]
-Type=0x2a
-Label=TORENHOF BELGIAN BEER CAFE
-StreetDesc=88 Armagh St, Chc/ bar, cafe, licensed restaurant
-Phone=+6493771007
-Data0=(-43.52888,172.63442)
-[END]
-
 ;1044121
 [POI]
 Type=0x2e0b
@@ -14442,16 +14424,6 @@ zip=Mon-Wed 9am-6pm, Thu-Fri 9am-9pm, Sat 9a
 Data0=(-43.50618,172.66405)
 [END]
 
-;1047992
-[POI]
-Type=0x2e01
-Label=FARMERS COLOMBO STREET
-StreetDesc=767 Colombo St, Chc/ Department store, Fashion, Clothing, Whiteware, Appliances,
-Phone=+6433723497
-zip=Mon-Thu 9am-5:30pm, Fri 9am-6pm, Sat-Sun
-Data0=(-43.52919,172.63646)
-[END]
-
 ;1047999
 [POI]
 Type=0x2e01
@@ -14467,7 +14439,7 @@ Data0=(-43.49148,172.61079)
 Type=0x2e01
 Label=FARMERS HORNBY
 StreetDesc=The Hub Hornby, 418 Main South Rd, Hornby, Chc/ Fashion department store, Clothi
-Phone=+6493491999
+Phone=+6433491999
 zip=Mon-Wed 9am-6pm, Thu-Fri 9am-6:30pm, Sat
 Data0=(-43.54253,172.52364)
 [END]
@@ -33897,7 +33869,7 @@ Data0=(-43.59184,172.73574)
 Type=0x2a
 Label=CIAO BELLA
 StreetDesc=131 Victoria St, Chc/ Restaurant & Premium Bar
-Phone=+6493717288
+Phone=+6433717288
 Data0=(-43.52342,172.62966)
 [END]
 
@@ -76681,7 +76653,7 @@ Data0=(-45.09781,170.97227)
 
 ;1118117
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=ASHLEIGH COURT MOTEL
 StreetDesc=47 Matai St West, Riccarton, Chc/ Accommodation, Zenbu Wi-Fi wireless broadband 
 Phone=0800274534
@@ -137989,8 +137961,8 @@ Data0=(-43.53056,172.63985)
 [POI]
 Type=0x2b03
 Label=DUVAUCHELLE HOLIDAY PARK
-StreetDesc=19A Seafield Rd, Duvauchelle, Chc/ Accommodation. Cabins, tent sites & camping g
-Phone=+6473045777
+StreetDesc=19A Seafield Rd, Duvauchelle, Banks Peninsula, Chc/ Holiday park accommodation. 
+Phone=+6433045777
 Data0=(-43.75398,172.94213)
 [END]
 
@@ -168744,7 +168716,7 @@ Data0=(-43.49342,172.66112)
 ;1164387
 [POI]
 Type=0x2e0b
-Label=BOND & BOND BLENHEIM
+Label=BOND AND BOND BLENHEIM
 StreetDesc=Cnr Queen & Charles St, Blenheim/ appliances, whiteware, computers, phones
 Phone=+6435791594
 zip=MonThurs 9am5.30pm; Fri 9am7pm; Sat 9am5
@@ -200495,8 +200467,8 @@ Data0=(-43.51253,172.62206)
 ;1179422
 [POI]
 Type=0x2f
-Label=STEVE SUN
-StreetDesc=40 Radbrook St Avonhead, Chc, NZ 8042/ Christchurch Carpet Cleaning, Carpet Clea
+Label=STEVE SUN CARPET CLEANING
+StreetDesc=40 Radbrook St Avonhead, Chc 8042/ Christchurch Carpet Cleaning
 Phone=+6433482790
 Data0=(-43.51343,172.55920)
 [END]
@@ -204552,16 +204524,6 @@ Phone=+6433384062
 Data0=(-43.55184,172.59820)
 [END]
 
-;1181515
-[POI]
-Type=0x2f
-Label=FLEXIHOST 24HR
-StreetDesc=108 Cashel St, Cashel Mall, Chc/ If you are looking for affordable & reliable We
-Phone=08004204678
-zip=24/7
-Data0=(-43.53320,172.63490)
-[END]
-
 ;1181520
 [POI]
 Type=0x2b03
@@ -207234,7 +207196,7 @@ Data0=(-41.27123,172.94337)
 
 ;1189514
 [POI]
-Type=0x2f
+Type=0x2b00
 Label=HEREWEKA GARDEN RETREAT
 StreetDesc=Hereweka Garden, 10 Hoopers Inlet Rd, RD2, Dud/ Lodge accommodation
 Data0=(-45.85112,170.65963)
@@ -207242,7 +207204,7 @@ Data0=(-45.85112,170.65963)
 
 ;1189515
 [POI]
-Type=0x2f
+Type=0x2b00
 Label=REAVERS LODGE
 StreetDesc=56 Hmtn Rd, Queenstown/ Lodge accommodation
 Data0=(-45.02559,168.65647)
@@ -207250,7 +207212,7 @@ Data0=(-45.02559,168.65647)
 
 ;1189519
 [POI]
-Type=0x2f
+Type=0x2b00
 Label=AOTUROA
 StreetDesc=3396 Hwy 6, Queensberry, Wanaka/ Lodge accommodation
 Data0=(-44.76282,169.33022)
@@ -207258,7 +207220,7 @@ Data0=(-44.76282,169.33022)
 
 ;1189524
 [POI]
-Type=0x2f
+Type=0x2b01
 Label=LAKEVIEW TEKAPO
 StreetDesc=6 Lochinver Ave, Lake Tekapo/ Motel accommodation
 Data0=(-44.00903,170.49279)
@@ -207266,7 +207228,7 @@ Data0=(-44.00903,170.49279)
 
 ;1189525
 [POI]
-Type=0x2f
+Type=0x2b01
 Label=AKAROA CRITERION MOTEL
 StreetDesc=75 Rue Jolie, Akaroa/ Motel accommodation
 Data0=(-43.80479,172.96686)
@@ -207282,7 +207244,7 @@ Data0=(-43.52486,172.63376)
 
 ;1189533
 [POI]
-Type=0x2f
+Type=0x2b01
 Label=BLENHEIM PALMS MOTEL
 StreetDesc=Cnr Charles & Henry Streets, Blenheim, Marlborough/ Motel accommodation
 Data0=(-41.51242,173.95327)
@@ -207290,7 +207252,7 @@ Data0=(-41.51242,173.95327)
 
 ;1189534
 [POI]
-Type=0x2f
+Type=0x2b01
 Label=ASHLEIGH COURT MOTEL
 StreetDesc=48 Maxwell Rd Blenheim/ Motel accommodation
 Data0=(-41.51625,173.95312)
@@ -207298,7 +207260,7 @@ Data0=(-41.51625,173.95312)
 
 ;1189535
 [POI]
-Type=0x2f
+Type=0x2b01
 Label=PATONS ROCK BEACH VILLAS
 StreetDesc=177 Patons Rock Rd, RD2, Takaka/ Motel accommodation
 Data0=(-40.79003,172.76018)
@@ -207306,7 +207268,7 @@ Data0=(-40.79003,172.76018)
 
 ;1189536
 [POI]
-Type=0x2f
+Type=0x2b01
 Label=HARBOURSIDE MOTOR LODGE
 StreetDesc=4 Duncan Crt, Nelson/ Motel accommodation
 Data0=(-41.26273,173.27926)
@@ -207314,23 +207276,15 @@ Data0=(-41.26273,173.27926)
 
 ;1189545
 [POI]
-Type=0x2f
+Type=0x2b01
 Label=POUNAWEA GROVE MOTELS
 StreetDesc=5 Ocean Grove, Pounwaea, The Catlins/ Motel accommodation
 Data0=(-46.47489,169.69506)
 [END]
 
-;1189546
-[POI]
-Type=0x2f
-Label=ROXBURGH'S TEVIOT COUNTRY MOTELS & BACKPACKERS
-StreetDesc=141 Roxburgh East Rd, Roxburgh, Central Otago/ Motel accommodation
-Data0=(-45.53072,169.31955)
-[END]
-
 ;1189547
 [POI]
-Type=0x2f
+Type=0x2b01
 Label=MANOR MOTEL DUNEDIN
 StreetDesc=22 Manor Place, Dud/ Motel accommodation
 Phone=+6434776729
@@ -207339,7 +207293,7 @@ Data0=(-45.88255,170.49752)
 
 ;1189554
 [POI]
-Type=0x2f
+Type=0x2b01
 Label=OMAU SETTLERS LODGE
 StreetDesc=1054 Cape Rd, Cape Foulwind, Westport/ Motel accommodation
 Phone=+6437895200
@@ -207408,5 +207362,14 @@ Label=JUDITH HONEYBONE PROPERTY MANAGEMENT LTD
 StreetDesc=173c Waltham Rd, Sydenham, Chc 8023, New Zealand/ Property Management Properties
 Phone=+6433859386
 Data0=(-43.54626,172.64640)
+[END]
+
+;1189584
+[POI]
+Type=0x2f
+Label=ROY STOKES COMMUNITY HALL
+StreetDesc=146 Seaview Rd, New Brighton, Chc City/ Community Hall
+Phone=+6433889098
+Data0=(-43.50813,172.72522)
 [END]
 

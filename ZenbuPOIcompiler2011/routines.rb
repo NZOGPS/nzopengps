@@ -437,7 +437,7 @@ def loadCategoriesFromZenbu
 		if !@category_hash.has_key?(zid) then #ignore Zenbu if override exists in NZOGPS
 			@reporting['category_from_zenbu']+=1
 		end
-		category = assignCategoryFromZenbuCategory(data['categories'])
+		category = assignCategoryFromZenbuCategory(data)
 		@category_hash_from_zenbu[zid] = category
 	}
 	print "#{@reporting['category_from_zenbu']} unique ZIDs categorised\n"

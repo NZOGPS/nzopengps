@@ -5,10 +5,14 @@ load 'routines.rb'
 load 'category_match.rb'
 checkRubyVersion
 
+#optional debug file
+@debug = File.open("debug.txt", "w")
+
 # zenbu_data_file = 'zenbusample.csv'
 zenbu_data_file = 'zenbuNZ.csv'
 preloadZenbuFile(zenbu_data_file)
 
+GUESS_FROM_TAGS = true #true/false. TRUE => if there is no category script will attempt to guess category from tags
 loadCategoriesFromCategoryFiles('../ZenbuPOIcategories2011') #creates @category_hash
 loadCategoriesFromZenbu #creates @category_hash_from_zenbu
 
@@ -46,7 +50,10 @@ POIs added to maps -
   ? Placed #{@reporting['incorrect']}
   - Not used #{@notforuseZIDs.size}
 
-category_from_zenbu = #{@reporting['category_from_zenbu']}
 category_from_nzogps = #{@category_hash.size}
+category_from_zenbu = #{@reporting['category_from_zenbu']}
+category_from_zenbu_category = #{@reporting['category_from_zenbu_category']}
+category_from_zenbu_tags = #{@reporting['category_from_zenbu_tags']}
+category_from_zenbu_default = #{@reporting['category_from_zenbu_default']}
 
 POIEND

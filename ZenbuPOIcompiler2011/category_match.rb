@@ -190,17 +190,145 @@
 }
 
 # #####################
-def assignCategoryFromZenbuCategory(categories_text)
-	return '0x2f' if categories_text.nil? || categories_text.empty?
-	zenbu_category = categories_text.split(' ').first
-	if @zenbu_category_to_garmin_category.has_key?(zenbu_category) then
-		return @zenbu_category_to_garmin_category[zenbu_category]
-	else
-		return '0x2f' #default category if the Zenbu category is missing from our lookup table
-	end
+def assignCategoryFromZenbuCategory(data)
+  categories_text = data['categories'] || ''
+  primary_zenbu_category = categories_text.split(' ').first
+	if categories_text.empty? && GUESS_FROM_TAGS && (guessed_category = assignCategoryFromZenbuTags(data)) then
+    @reporting['category_from_zenbu_tags']+=1
+    @debug.print "#{data['zid']}\tcategory_from_zenbu_tags\t#{data['name']}\t#{data['tags']}\t#{guessed_category}\n" if @debug
+    return guessed_category
+  elsif @zenbu_category_to_garmin_category.has_key?(primary_zenbu_category) then
+    @reporting['category_from_zenbu_category']+=1
+    return @zenbu_category_to_garmin_category[primary_zenbu_category]
+  else
+    @reporting['category_from_zenbu_default']+=1
+    return DEFAULT_CATEGORY
+  end
 end
 
+#default category if the Zenbu category is missing from our lookup table
+DEFAULT_CATEGORY = '0x2f'
 
+# #####################
+def assignCategoryFromZenbuTags(data)
+#attempt to best guess a POI type code from name and tags
+		tags = data['tags']
+		name = data['name']
+		
+		if tags =~ /toilet/i
+			category = '0x2f0c'
+		elsif tags =~ /restaurant/i || name =~ /restaurant/i
+			if tags =~ /(thai|japanese)/i
+				category = '0x2a02'
+			elsif tags =~ /chinese/i
+				category = '0x2a04'
+			elsif tags =~ /italian/i
+				category = '0x2a08'
+			elsif tags =~ /seafood/i
+				category = '0x2a0b'
+			elsif tags =~ /french/i
+				category = '0x2a0f'
+			else
+				category = '0x2a'
+			end
+		elsif tags =~ /b\&b/i
+			category = '0x2b02'
+		elsif tags =~ /motel/i
+			category = '0x2b01'
+		elsif tags =~ /hotel/i
+			category = '0x2b01'
+		elsif tags =~ /accommodation/i
+			category = '0x2b00'
+		elsif tags =~ /Camping/i
+			category = '0x2b03'
+		elsif tags =~ /bakery/i
+			category = '0x2a05'
+		elsif tags =~ /museum/i
+			category = '0x2c02'
+		elsif tags =~ /Funeral director/i
+			category = '0x2f'
+		elsif tags =~ /library/i
+			category = '0x2c03'
+		elsif tags =~ /(\bbank\b|\batm\b)/i
+			category = '0x2f06'
+		elsif tags =~ /winery/i
+			category = '0x2c0a'
+		elsif tags =~ /travel agent/i
+			category = '0x2f11'
+		elsif tags =~ /car rental/i
+			category = '0x2F02'
+		elsif tags =~ /\bbar\b/i
+			category = '0x2d02'
+		elsif tags =~ /cafe/i #cafes should look for é too
+			category = '0x2a0e'
+		elsif tags =~ /parking/i
+			category = '0x2f0b'
+		elsif tags =~ /marina/i
+			category = '0x2F09'
+		elsif tags =~ /\b(church|mosque)\b/i
+			category = '0x6404'
+		elsif tags =~ /\bpark\b/i
+			category = '0x2c06'
+		elsif tags =~ /Speed Camera/i
+			category = '00 Not For Maps'
+		elsif tags =~ /swimming pool/i
+			category = '0x2d09'
+		elsif tags =~ /Petrol Station/i
+			category = '0x2f01'
+		elsif tags =~ /supermarket/i
+			category = '0x2e02'
+		elsif tags =~ /DOC Backcountry Hut/i
+			category = '0x6402'
+		elsif tags =~ /cemetery/i
+			category = '0x6403'
+		elsif tags =~ /fast food/i
+			category = '0x2a07'
+		elsif tags =~ /pizza/i
+			category = '0x2a0a'
+		elsif tags =~ /visitor information/i
+			category = '0x4c'
+		elsif tags =~ /antique/i
+			category = '0x2e'
+		elsif tags =~ /fresh fruit/i
+			category = '0x2e'
+		elsif tags =~ /butcher/i
+			category = '0x2e'
+		elsif tags =~ /liquor.*beer/i
+			category = '0x2e'
+		elsif tags =~ /\b(clothes|footwear|shoes|Menswear)\b/i
+			category = '0x2e07'
+		elsif tags =~ /\b(furniture|beds)\b/i
+			category = '0x2e09'
+		elsif tags =~ /convenience store/i
+			category = '0x2e'
+		elsif tags =~ /superette/i
+			category = '0x2e06'
+		elsif tags =~ /boat ramp/i
+			category = '0x4700'
+		elsif tags =~ /hairdresser/i
+			category = '0x2f'
+		elsif tags =~ /car dealer/i
+			category = '0x2F07'
+		elsif tags =~ /public phone box/i
+			category = '0x2f15'
+		elsif tags =~ /ski field/i
+			category = '0x2D06'
+		elsif tags =~ /take-?away/i # || name =~ /take[\s-]?away/i #name or tags has takeaway
+			category = '0x2a07'
+		elsif tags =~ /pharmacy/i
+			category = '0x2e05'
+		elsif tags =~ /clothing/i
+			category = '0x2e07'
+		elsif tags =~ /rest area/i
+			category = '0x4a00'
+		else
+			category = nil
+		end
+		
+		return category
+end
+
+# #####################
 @garmin_category_descriptions = {
 '0x2a' => 'Food',
 '0x2a02' => 'Food - Asian',

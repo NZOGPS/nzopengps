@@ -30070,7 +30070,7 @@ Data0=(-45.24744,169.38421)
 
 ;1091679
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=ALEXANDRA GARDEN COURT MOTEL
 StreetDesc=51 Manuherikia Rd, Alexandra, Central Otago/ Accommodation. Zenbu Wi-Fi wireless
 Phone=+6434488295
@@ -136265,14 +136265,6 @@ Label=OXFORD RUGBY FOOTBALL CLUB
 StreetDesc=Showgate Dr, Oxford/ 
 Phone=+6433124727
 Data0=(-43.29407,172.18921)
-[END]
-
-;1144845
-[POI]
-Type=0x2f
-Label=PEGASUS STATIONS LTD
-StreetDesc=15 Ashley St, Rangiora/ 
-Data0=(-43.30193,172.59565)
 [END]
 
 ;1144846

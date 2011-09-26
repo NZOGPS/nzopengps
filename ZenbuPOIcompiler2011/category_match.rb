@@ -191,9 +191,8 @@
 
 # #####################
 def assignCategoryFromZenbuCategory(data)
-  categories_text = data['categories'] || ''
-  primary_zenbu_category = categories_text.split(' ').first
-	if categories_text.empty? && GUESS_FROM_TAGS && (guessed_category = assignCategoryFromZenbuTags(data)) then
+  primary_zenbu_category = data['categories'].split(' ').first rescue ''
+	if primary_zenbu_category.empty? && GUESS_FROM_TAGS && (guessed_category = assignCategoryFromZenbuTags(data)) then
     @reporting['category_from_zenbu_tags']+=1
     @debug.print "#{data['zid']}\tcategory_from_zenbu_tags\t#{data['name']}\t#{data['tags']}\t#{guessed_category}\n" if @debug
     return guessed_category

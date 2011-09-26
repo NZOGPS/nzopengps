@@ -398,13 +398,13 @@ end
 
 # #####################
 
-@category_hash = Hash.new
+@categories_from_nzogps = Hash.new
 @category_name_table = Hash.new
 @category_path_table = Hash.new
 
 def loadCategoriesFromCategoryFiles(p)
-#process each file in the ZenbuPOIcategories folder
-print "Loading categories... "
+  #process each file in the ZenbuPOIcategories folder
+  print "Loading categories from NZOGPS... "
 
 	if !File.exists?(p) then
 		print "path to categories not found #{p}\n"
@@ -426,19 +426,19 @@ print "Loading categories... "
 	  end
 	end
 
-print "#{@category_hash.size} unique ZIDs categorised in #{@category_name_table.size} category files\n"
+  print "#{@categories_from_nzogps.size} ZIDs categorised in #{@category_name_table.size} files\n"
 end
 # #####################
 
-@category_hash_from_zenbu = Hash.new
+@categories_from_zenbu = Hash.new
 def loadCategoriesFromZenbu
 	print "Loading categories from Zenbu... "
 	@masterZenbuDataHash.each_pair{|zid,data|
-		if !@category_hash.has_key?(zid) then #ignore Zenbu if override exists in NZOGPS
+		if !@categories_from_nzogps.has_key?(zid) then #ignore Zenbu if override exists in NZOGPS
 			@reporting['category_from_zenbu']+=1
 		end
 		category = assignCategoryFromZenbuCategory(data)
-		@category_hash_from_zenbu[zid] = category
+		@categories_from_zenbu[zid] = category
 	}
 	print "#{@reporting['category_from_zenbu']} unique ZIDs categorised\n"
 end
@@ -474,8 +474,8 @@ def loadSingleCategory(path)
 #					next
 #				end
 				
-				if @category_hash.has_key?(zid) then
-					print "#{zid} in multiple categories #{category} and #{@category_hash[zid]}. Using #{@category_hash[zid]}\n"
+				if @categories_from_nzogps.has_key?(zid) then
+					print "#{zid} in multiple categories #{category} and #{@categories_from_nzogps[zid]}. Using #{@categories_from_nzogps[zid]}\n"
 					next
 				end
 				
@@ -485,7 +485,7 @@ def loadSingleCategory(path)
 					end
 				end
 				
-				@category_hash[zid] = category
+				@categories_from_nzogps[zid] = category
 			end
 		end
 	}
@@ -506,41 +506,43 @@ end
 def writeCategoryOverrideSummaryFile
 	out = CSV.open(@override_summary_file_path, 'w')
 	out << ['zid','name','tags', 'override_category', 'override_category_desc', 'zenbu_category', 'zenbu_category_desc']
-	no_match = Hash.new(0)
-	@category_hash_from_zenbu.each{|zid,category|
-		if !@category_hash.has_key?(zid) then next end
-		if @category_hash[zid] != category then
-			no_match["#{@category_hash[zid]} #{@garmin_category_descriptions[@category_hash[zid]]} <-> #{category} #{@garmin_category_descriptions[category]}"] += 1 
-			out << [zid, @masterZenbuDataHash[zid]['name'], @masterZenbuDataHash[zid]['tags'], @category_hash[zid], @garmin_category_descriptions[@category_hash[zid]], category, @garmin_category_descriptions[category]]
+	#no_match = Hash.new(0)
+	@categories_from_zenbu.each{|zid,category|
+		if @categories_from_nzogps.has_key?(zid) && @categories_from_nzogps[zid] != category then
+			#no_match["#{@categories_from_nzogps[zid]} #{@garmin_category_descriptions[@categories_from_nzogps[zid]]} <-> #{category} #{@garmin_category_descriptions[category]}"] += 1 
+			out << [zid, @masterZenbuDataHash[zid]['name'], @masterZenbuDataHash[zid]['tags'], @categories_from_nzogps[zid], @garmin_category_descriptions[@categories_from_nzogps[zid]], category, @garmin_category_descriptions[category]]
 		end
-		};nil
+	};nil
 	out.close
 =begin
-#print out counts of non-matches bewteen override file and zenbu category
-no_match.sort{|a,b| a[1]<=>b[1]}.each { |elem|
-	print "#{elem[0]} = #{elem[1]}\n"
-};nil
+  #print out counts of non-matches bewteen override file and zenbu category
+  no_match.sort{|a,b| a[1]<=>b[1]}.each { |elem|
+    print "#{elem[0]} = #{elem[1]}\n"
+  };nil
 =end
 end
 # #####################
 def rewriteCategoryFilesFromEditedOverrideSummaryFile
 
-rewrite = Hash.new()
-CSV.foreach(@override_summary_file_path, {:encoding => 'UTF-8', :headers => true}) do |row|
-#'zid','name','tags', 'override_category', 'override_category_desc', 'zenbu_category', 'zenbu_category_desc'
-	lookup = "#{row['override_category_desc']} #{row['override_category']}.txt"
-	rewrite[lookup] = rewrite[lookup].nil? ? [] : rewrite[lookup] + [row['zid']]
-end
+  rewrite = Hash.new()
+  CSV.foreach(@override_summary_file_path, {:encoding => 'UTF-8', :headers => true}) do |row|
+  #'zid','name','tags', 'override_category', 'override_category_desc', 'zenbu_category', 'zenbu_category_desc'
+    lookup = "#{row['override_category_desc']} #{row['override_category']}.txt"
+    rewrite[lookup] = rewrite[lookup].nil? ? [] : rewrite[lookup] + [row['zid']]
+  end
 
-category_path = '../ZenbuPOIcategories2011'
-rewrite.each_pair{|category,list|
-	path = category_path + '/' + category
-	print "Rewriting #{category} with #{list.size} ZIDs\n"
-	out = File.open(path,'w:UTF-8')
-	list.sort.each{|zid|
-		out.print "#{zid}\n"
-	}
-};nil
+  category_path = '../ZenbuPOIcategories2011'
+  total_rewrite = 0
+  rewrite.each_pair{|category,list|
+    path = category_path + '/' + category
+    print "Rewriting #{category} with #{list.size} ZIDs\n"
+    total_rewrite += list.size
+    out = File.open(path,'w:UTF-8')
+    list.sort.each{|zid|
+      out.print "#{zid}\n"
+    }
+  };nil
+  print "#{total_rewrite} ZIDs written to #{rewrite.size} files\n"
 
 end
 # #####################

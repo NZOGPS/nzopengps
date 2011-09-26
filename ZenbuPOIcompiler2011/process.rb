@@ -13,8 +13,8 @@ zenbu_data_file = 'zenbuNZ.csv'
 preloadZenbuFile(zenbu_data_file)
 
 GUESS_FROM_TAGS = true #true/false. TRUE => if there is no category script will attempt to guess category from tags
-loadCategoriesFromCategoryFiles('../ZenbuPOIcategories2011') #creates @category_hash
-loadCategoriesFromZenbu #creates @category_hash_from_zenbu
+loadCategoriesFromCategoryFiles('../ZenbuPOIcategories2011') #creates @categories_from_nzogps
+loadCategoriesFromZenbu #creates @categories_from_zenbu
 
 print "\nDoing Polish Format (MP) output\n"
 
@@ -25,12 +25,12 @@ printMPHeader(@mpfileoutA,'64000012')
 printMPHeader(@mpfileoutB,'64000021')
 
 @masterZenbuDataHash.keys.sort.each{|zid|
-	if @category_hash.has_key?(zid) then
+	if @categories_from_nzogps.has_key?(zid) then
 		#nzogps classified
-		poitypecode = @category_hash[zid]
+		poitypecode = @categories_from_nzogps[zid]
 	else
 		#zenbu classified
-		poitypecode = @category_hash_from_zenbu[zid]
+		poitypecode = @categories_from_zenbu[zid]
 	end
 	
 	processMPpoint(zid,poitypecode)
@@ -50,7 +50,7 @@ POIs added to maps -
   ? Placed #{@reporting['incorrect']}
   - Not used #{@notforuseZIDs.size}
 
-category_from_nzogps = #{@category_hash.size}
+category_from_nzogps = #{@categories_from_nzogps.size}
 category_from_zenbu = #{@reporting['category_from_zenbu']}
 category_from_zenbu_category = #{@reporting['category_from_zenbu_category']}
 category_from_zenbu_tags = #{@reporting['category_from_zenbu_tags']}

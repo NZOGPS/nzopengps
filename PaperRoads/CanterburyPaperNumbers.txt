@@ -85,3 +85,4 @@
 1030000026728	O,11,17	Upton Street	Wanaka (Otago, NZ)	2/09/2011 5:00p.m.
 1030000054609	E,70,84	Division Street	Riccarton, Christchurch (Canterbury, NZ)	2/09/2011 6:07p.m.
 1030000058280	E,68,68	Brook Street	Riverton (Southland, NZ)	17/09/2011 4:41:03 p.m.
+1030000055575	B,7,47	Old Harewood Road	Swannanoa (Canterbury, NZ)	26/09/2011 3:44p.m.

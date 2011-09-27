@@ -45,3 +45,4 @@
 1030000058484	O,15,25	Poole Street	Waimatuku (Southland, NZ)	31/08/2011 4:23p.m.
 1030000183367	E,34,50	Solomon Street	Gummies Bush (Southland, NZ)	31/08/2011 7:32p.m.
 1030000183369	O,29,29	Hodgkinson Street	Gummies Bush (Southland, NZ)	31/08/2011 1:27p.m.
+1030000036700	B,1,10	Cambridge Street	Tapanui (Otago, NZ)	27/09/2011 11:30:39 p.m.

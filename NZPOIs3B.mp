@@ -19624,27 +19624,17 @@ Data0=(-44.39405,171.25037)
 [POI]
 Type=0x2f
 Label=VTNZ VANGUARD ST
-StreetDesc=75 Vanguard St, Nelson/ Vehicle Testing Station, WOF, Warrant of Fitness
+StreetDesc=75 Vanguard St, Nelson/ Vehicle Testing Station, WoF, Warrant of Fitness, Certif
 Phone=+6435480658
 zip=See VTNZ website
 Data0=(-41.27589,173.27737)
-[END]
-
-;1065555
-[POI]
-Type=0x2f
-Label=VTNZ SOCKBURN
-StreetDesc=129 Main South Rd, Chc/ Vehicle Testing Station, WOF, Warrant of Fitness
-Phone=+6433486321
-zip=See VTNZ website
-Data0=(-43.53765,172.55714)
 [END]
 
 ;1065562
 [POI]
 Type=0x2f
 Label=VTNZ SOUTH ST
-StreetDesc=104 South St, Ashburton/ Vehicle Testing Station, WOF, Warrant of Fitness
+StreetDesc=104 South St, Ashburton/ Vehicle Testing Station, WoF, Warrant of Fitness, Vehic
 Phone=+6433077240
 zip=See VTNZ website
 Data0=(-43.91121,171.74566)
@@ -19724,7 +19714,7 @@ Data0=(-45.87188,170.50453)
 [POI]
 Type=0x2f03
 Label=VTNZ NORTHWOOD
-StreetDesc=Northwood Supa Centa, Radcliffe Rd, Belfast, Chc/ WOF, Warrant of Fitness, Pre-P
+StreetDesc=Northwood Supa Centa, Radcliffe Rd, Belfast, Chc/ WoF, Warrant of Fitness, Vehic
 Phone=+6433236860
 zip=See VTNZ website
 Data0=(-43.46069,172.62519)
@@ -19734,9 +19724,9 @@ Data0=(-43.46069,172.62519)
 [POI]
 Type=0x2f03
 Label=VTNZ JIPCHO RD
-StreetDesc=Jipcho Rd, Sockburn, Chc/ WOF, Warrant of Fitness, Pre-Purchase Inspection, Vehi
+StreetDesc=Jipcho Rd, Sockburn, Chc/ WoF, Warrant of Fitness, Pre-Purchase Inspection, Vehi
 Phone=+6433433454
-zip=Mon-Fri 0730-1730, Sat 0830-1400
+zip=Go to www.vtnz.co.nz for opening hours
 Data0=(-43.54360,172.56732)
 [END]
 
@@ -19744,7 +19734,7 @@ Data0=(-43.54360,172.56732)
 [POI]
 Type=0x2f03
 Label=VTNZ QUEENSTOWN
-StreetDesc=41 Glenda Dr, Frankton/ WOF, Warrant of Fitness, Pre-Purchase Inspection, Vehicl
+StreetDesc=41 Glenda Dr, Frankton/ WoF, Warrant of Fitness, Vehicle Registration, Certifica
 Phone=+6434414038
 zip=See VTNZ website
 Data0=(-45.00671,168.75089)
@@ -19754,7 +19744,7 @@ Data0=(-45.00671,168.75089)
 [POI]
 Type=0x2f03
 Label=VTNZ GORE
-StreetDesc=16 Oreti St, Gore/ WOF, Warrant of Fitness, Pre-Purchase Inspection, Vehicle Reg
+StreetDesc=16 Oreti St, Gore/ WoF, Warrant of Fitness, Vehicle Registration, Certificate of
 Phone=+6432039001
 zip=See VTNZ website
 Data0=(-46.11613,168.92953)
@@ -19764,7 +19754,7 @@ Data0=(-46.11613,168.92953)
 [POI]
 Type=0x2f03
 Label=VTNZ INVERCARGILL
-StreetDesc=corner of Mersey & Spey St, Invercargill/ WOF, Warrant of Fitness, Pre-Purchase 
+StreetDesc=Corner of Mersey & Spey St, Invercargill/ WoF, Warrant of Fitness, Pre-Purchase 
 Phone=+6432141235
 zip=See VTNZ website
 Data0=(-46.40944,168.34167)
@@ -19774,7 +19764,7 @@ Data0=(-46.40944,168.34167)
 [POI]
 Type=0x2f03
 Label=VTNZ WEST ST
-StreetDesc=393 West St, Ashburton/ WOF, Warrant of Fitness, Pre-Purchase Inspection, Vehicl
+StreetDesc=393 West St, Ashburton/ WoF, Warrant of Fitness, Pre-Purchase Inspection, Vehicl
 Phone=+6433078510
 zip=See VTNZ website
 Data0=(-43.89673,171.75776)
@@ -19784,7 +19774,7 @@ Data0=(-43.89673,171.75776)
 [POI]
 Type=0x2f03
 Label=VTNZ RANGIORA
-StreetDesc=347 Flaxton Rd, Rangiora/ WOF, Warrant of Fitness, Pre-Purchase Inspection, Vehi
+StreetDesc=347 Flaxton Rd, Rangiora/ WoF, Warrant of Fitness, Vehicle Registration, Certifi
 Phone=+6433136126
 zip=See VTNZ website
 Data0=(-43.32870,172.59937)
@@ -19794,7 +19784,7 @@ Data0=(-43.32870,172.59937)
 [POI]
 Type=0x2f03
 Label=VTNZ LICHFIELD ST
-StreetDesc=240 Lichfield St, Chc/ WOF, Warrant of Fitness, Pre-Purchase Inspection, Vehicle
+StreetDesc=240 Lichfield St, Chc/ WoF, Warrant of Fitness, Pre-Purchase Inspection, Vehicle
 Phone=+6433653388
 zip=Mon-Fri 0730-1700, Sat 0830-1400
 Data0=(-43.53458,172.64757)
@@ -19804,7 +19794,7 @@ Data0=(-43.53458,172.64757)
 [POI]
 Type=0x2f03
 Label=VTNZ ALEXANDRA
-StreetDesc=41 Dunstan Rd, Alexandra/ WOF, Warrant of Fitness, Pre-Purchase Inspection, Driv
+StreetDesc=41 Dunstan Rd, Alexandra/ WoF, Warrant of Fitness, Driver Licensing, Vehicle Reg
 Phone=+6434402449
 zip=See VTNZ website
 Data0=(-45.24470,169.39462)
@@ -19814,7 +19804,7 @@ Data0=(-45.24470,169.39462)
 [POI]
 Type=0x2f03
 Label=VTNZ TEVIOT ST
-StreetDesc=14 Teviot St, Dud South/ WOF, Warrant of Fitness, Vehicle Registration, Certific
+StreetDesc=14 Teviot St, Dud South/ WoF, Warrant of Fitness, Vehicle Registration, Certific
 Phone=+6434553081
 zip=See VTNZ website
 Data0=(-45.89581,170.50929)
@@ -19824,7 +19814,7 @@ Data0=(-45.89581,170.50929)
 [POI]
 Type=0x2f03
 Label=VTNZ HANOVER ST
-StreetDesc=Cnr Hanover & Castle Streets, Dud Central/ WOF, Warrant of Fitness, Vehicle Regi
+StreetDesc=Cnr Hanover & Castle Streets, Dud Central/ WoF, Warrant of Fitness, Vehicle Regi
 Phone=+6434774525
 zip=See VTNZ website
 Data0=(-45.87116,170.50992)
@@ -19834,7 +19824,7 @@ Data0=(-45.87116,170.50992)
 [POI]
 Type=0x2f03
 Label=VTNZ PASCOE ST
-StreetDesc=20-24 Pascoe St, Tahunanui, Nelson/ WOF, Warrant of Fitness, Vehicle Registratio
+StreetDesc=20-24 Pascoe St, Tahunanui, Nelson/ WoF, Warrant of Fitness, Vehicle Registratio
 Phone=+6435485297
 zip=See VTNZ website
 Data0=(-41.29151,173.24153)
@@ -19844,7 +19834,7 @@ Data0=(-41.29151,173.24153)
 [POI]
 Type=0x2f03
 Label=VTNZ BLENHEIM
-StreetDesc=19-21 Grove Rd, Blenheim/ WOF, Warrant of Fitness, Pre-Purchase Inspection, Vehi
+StreetDesc=19-21 Grove Rd, Blenheim/ WoF, Warrant of Fitness, Pre-Purchase Inspection, Vehi
 Phone=+6435794390
 zip=See VTNZ website
 Data0=(-41.50904,173.95894)
@@ -19854,7 +19844,7 @@ Data0=(-41.50904,173.95894)
 [POI]
 Type=0x2f03
 Label=VTNZ TIMARU
-StreetDesc=180 Hilton Highway, Washdyke/ WOF, Warrant of Fitness, Vehicle Registration, Cer
+StreetDesc=180 Hilton Highway, Washdyke/ WoF, Warrant of Fitness, Vehicle Registration, Cer
 Phone=+6436843606
 zip=See VTNZ website
 Data0=(-44.35724,171.23797)
@@ -19864,7 +19854,7 @@ Data0=(-44.35724,171.23797)
 [POI]
 Type=0x2f03
 Label=VTNZ GREYMOUTH
-StreetDesc=22 Gresson St, Greymouth/ WOF, Warrant of Fitness, Vehicle Registration, Certifi
+StreetDesc=22 Gresson St, Greymouth/ WoF, Warrant of Fitness, Vehicle Registration, Certifi
 Phone=+6437687065
 zip=See VTNZ website
 Data0=(-42.44784,171.20594)
@@ -115829,7 +115819,7 @@ Data0=(-41.26912,173.29340)
 
 ;1134988
 [POI]
-Type=0x2f
+Type=0x2e
 Label=BUTCHER BOY'S
 StreetDesc=2 Russell St, Nelson/ 
 Data0=(-41.26494,173.27183)
@@ -202932,6 +202922,7 @@ Data0=(-41.53037,173.95531)
 Type=0x2e
 Label=SPRINGLANDS GARDEN CENTRE & CAFE
 StreetDesc=131 Middle Renwick Rd, Blenheim/ 
+Phone=+6435784353
 Data0=(-41.50933,173.93531)
 [END]
 
@@ -205297,14 +205288,6 @@ StreetDesc=203 Cook Flat Rd, Fox Glacier, 7859/ Accommodation
 Data0=(-43.45945,169.99281)
 [END]
 
-;1186322
-[POI]
-Type=0x2b01
-Label=NORFOLK PINE BEACHFRONT MOTEL
-StreetDesc=124 Esplanade, Kaikoura, 7300/ Accommodation
-Data0=(-42.40970,173.68630)
-[END]
-
 ;1186324
 [POI]
 Type=0x2b00
@@ -205984,7 +205967,7 @@ Data0=(-45.84354,170.53473)
 
 ;1188832
 [POI]
-Type=0x2b00
+Type=0x2b02
 Label=ANSELM HOUSE
 StreetDesc=34 Kahu Rd, Fendalton,Chc 8041 New Zealand/ Bed & Breakfast Christchurch Accommo
 Phone=+6433434260
@@ -207371,5 +207354,32 @@ StreetDesc=90 South Rd Caversham Dud 9011 New Zealand/ Superior, professional br
 Phone=+6434556054
 zip=9.00am - 2.30pm Monday to Friday
 Data0=(-45.89162,170.49015)
+[END]
+
+;1189621
+[POI]
+Type=0x2f
+Label=ALPINE HYDRAULICS
+StreetDesc=Unit 8, 193 Waterloo Rd, Hornby, Chc/ Christchurch Hyraulic pumps and motors
+Phone=+6433497188
+Data0=(-43.53870,172.52653)
+[END]
+
+;1189622
+[POI]
+Type=0x2f
+Label=CLUTCH SYSTEMS (NZ) LTD
+StreetDesc=164 Hazeldean Rd, Sydenham, Chc, New Zealand/ Christchurch Clutch Systems, clutc
+Phone=+6433668442
+Data0=(-43.54152,172.62610)
+[END]
+
+;1189623
+[POI]
+Type=0x2f
+Label=CHAPPIE CHAPMAN'S FLY FISHING ADVENTURES
+StreetDesc=31 Charlcott St, Bishopdale, Chc City/ New Zealand Fly Fishing Guide South Islan
+Phone=+6433595440
+Data0=(-43.49617,172.57272)
 [END]
 

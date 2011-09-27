@@ -13327,7 +13327,7 @@ Data0=(-45.88267,170.50018)
 
 ;1044212
 [POI]
-Type=0x2e09
+Type=0x2e0b
 Label=NOEL LEEMING INVERCARGILL
 StreetDesc=42 Leven St, Invercargill/ Electric appliances, whiteware, computers, gaming, TV
 Phone=+6432142434
@@ -15977,7 +15977,7 @@ Data0=(-41.51509,173.96078)
 
 ;1053886
 [POI]
-Type=0x2d
+Type=0x2e
 Label=UNITED VIDEO FENDALTON
 StreetDesc=240 Clyde Rd, Fendalton, Chc/ Video & DVD rental
 Phone=+6433515277
@@ -16937,7 +16937,7 @@ Data0=(-43.50747,172.66450)
 
 ;1056819
 [POI]
-Type=0x2b00
+Type=0x2f0d
 Label=AA CENTRE - INVERCARGILL
 StreetDesc=47-51 Gala St, Invercargill/ Travel advice, maps, accommodation guide, drivers l
 Phone=+6432189033
@@ -16947,7 +16947,7 @@ Data0=(-46.40657,168.34951)
 
 ;1056833
 [POI]
-Type=0x2b00
+Type=0x2f0d
 Label=AA CENTRE - TIMARU
 StreetDesc=26 Church St, Timaru/ Travel advice, maps, accommodation guide, drivers licencin
 Phone=+6498333700
@@ -16957,7 +16957,7 @@ Data0=(-44.39683,171.25030)
 
 ;1056840
 [POI]
-Type=0x2b00
+Type=0x2f0d
 Label=AA CENTRE - BLENHEIM
 StreetDesc=23 Maxwell Rd, Blenheim/ Travel advice, maps, accommodation guide, drivers licen
 Phone=+6435783399
@@ -16967,7 +16967,7 @@ Data0=(-41.51539,173.95527)
 
 ;1056910
 [POI]
-Type=0x2b00
+Type=0x2f0d
 Label=AA CENTRE - NELSON
 StreetDesc=45 Halifax St, Nelson/ Travel advice, maps, accommodation guide, drivers licenci
 Phone=+6435488339
@@ -39237,7 +39237,7 @@ Data0=(-43.46825,172.68146)
 
 ;1099205
 [POI]
-Type=0x3002
+Type=0x2f
 Label=LEESTON MEDICAL CENTRE
 StreetDesc=Anderson Sq, Leeston, Canterbury/ medical, general practice, doctor
 Phone=+6433243850
@@ -51278,7 +51278,7 @@ Data0=(-41.32091,173.21884)
 
 ;1106121
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=LONE GOAT WINERY
 StreetDesc=608 Burnham School Rd, Burnham, Canterbury/ Vinyard
 Phone=+6433476829
@@ -80190,7 +80190,7 @@ Data0=(-41.10967,173.01138)
 
 ;1119624
 [POI]
-Type=0x2a08
+Type=0x2a
 Label=PIZZA BAR
 StreetDesc=105 Hardy St, Nelson/ Italian restaurant, takeaways
 Phone=+6435488990
@@ -89316,7 +89316,7 @@ Type=0x2f
 Label=TONKIN & TAYLOR LTD
 StreetDesc=166 King Edward St, Dud/ 
 Phone=+6434664024
-Data0=(-45.89412,170.49901)
+Data0=(-45.89391,170.49909)
 [END]
 
 ;1122030
@@ -93251,9 +93251,10 @@ Data0=(-45.88081,170.50187)
 
 ;1128384
 [POI]
-Type=0x2f
-Label=ADANA
-StreetDesc=130 King Edward St, Dud/ 
+Type=0x2a0e
+Label=ADANA GOURMET TURKISH CAFE & TAKEAWAY
+StreetDesc=130 King Edward St, Dud/ Turkish Cafe & Takeaway
+Phone=+6434564050
 Data0=(-45.89340,170.49865)
 [END]
 
@@ -99186,7 +99187,7 @@ Data0=(-43.57241,172.70276)
 
 ;1130891
 [POI]
-Type=0x2d02
+Type=0x2a
 Label=ARCHES CAFE & BAR
 StreetDesc=203 Hereford St, Chc 8011, Canterbury/ Restaurant, licensed at Avonmore hospital
 Phone=+6439772700
@@ -100887,7 +100888,7 @@ Data0=(-43.47820,172.61723)
 
 ;1131107
 [POI]
-Type=0x2a
+Type=0x2a0a
 Label=COCOPELLI
 StreetDesc=The Palms Mall, Cnr New Brighton & Marshland Rds, Chc/ Gourmet pizza bar & resta
 Phone=+6433862220
@@ -101610,7 +101611,7 @@ Data0=(-43.54229,172.54750)
 
 ;1131198
 [POI]
-Type=0x2d02
+Type=0x2a
 Label=EMPIRE HOTEL AND GENERAL STORE
 StreetDesc=9 London St, Lyttelton, Chc/ Restaurant & bar
 Data0=(-43.60298,172.72218)
@@ -115350,16 +115351,6 @@ Phone=+6437500868
 Data0=(-43.88184,169.04384)
 [END]
 
-;1134713
-[POI]
-Type=0x2b02
-Label=TUDOR GARDENS BED & BREAKFAST 24HR
-StreetDesc=15 Coaltrack Rd, Coalgate, Canterbury/ B&B, Bed & Breakfast, Accommodation, Home
-Phone=+6433182821
-zip=24 hours
-Data0=(-43.48268,171.96194)
-[END]
-
 ;1134763
 [POI]
 Type=0x2d02
@@ -128169,16 +128160,6 @@ Label=HIGH COUNTRY AUTO SERVICES
 StreetDesc=Ostler Rd, Twizel/ mechanical repairs, recovery, vehicle rental, tyre repairs
 Phone=+6434350214
 Data0=(-44.26416,170.09881)
-[END]
-
-;1141304
-[POI]
-Type=0x2f
-Label=CT HIGH COUNTRY GENERAL STORE
-StreetDesc=Chain Hills Hwy, Omarama/ hardware, gifts, farm supplies
-Phone=+6434389858
-zip=0900-1730 Mon-Fri, 0900-1400 Sat
-Data0=(-44.48850,169.96818)
 [END]
 
 ;1141305
@@ -184625,7 +184606,7 @@ Data0=(-43.30413,172.59114)
 
 ;1172295
 [POI]
-Type=0x2b00
+Type=0x2f0d
 Label=AA CENTRE - DUNEDIN
 StreetDesc=450 Moray Place, Dud/ Travel advice, maps, accommodation guide, drivers licencin
 Phone=+6434775945
@@ -184635,7 +184616,7 @@ Data0=(-45.87539,170.50407)
 
 ;1172296
 [POI]
-Type=0x2b00
+Type=0x2f0d
 Label=AA CENTRE - DURHAM STREET
 StreetDesc=Unit 19, 293 Durham St North, Chc/ Travel advice, maps, accommodation guide, dri
 Phone=+6439643650
@@ -184645,7 +184626,7 @@ Data0=(-43.52925,172.63339)
 
 ;1172301
 [POI]
-Type=0x2b00
+Type=0x2f0d
 Label=AA CENTRE - RANGIORA
 StreetDesc=128 High St, Rangiora/ Travel advice, maps, accommodation guide, drivers licenci
 Phone=+6433136944
@@ -184655,7 +184636,7 @@ Data0=(-43.30333,172.59469)
 
 ;1172303
 [POI]
-Type=0x2b00
+Type=0x2f0d
 Label=AA CENTRE - SHIRLEY
 StreetDesc=205 Hills Rd, Shirley, Chc/ Travel advice, maps, accommodation guide, drivers li
 Phone=+6433861090
@@ -184665,7 +184646,7 @@ Data0=(-43.50881,172.65141)
 
 ;1172304
 [POI]
-Type=0x2b00
+Type=0x2f0d
 Label=AA CENTRE - SYDENHAM
 StreetDesc=Cnr Brougham & Buchan Streets, Sydenham, Chc/ Travel advice, maps, accommodation
 Phone=+6433630777
@@ -201348,7 +201329,7 @@ Label=HOT TUBS OMARAMA
 StreetDesc=25 Omarama Ave, Omarama/ Hot Tubs, Onsen
 Phone=+6434389703
 zip=10-10 daily
-Data0=(-44.48636,169.96841)
+Data0=(-44.48483,169.97118)
 [END]
 
 ;1180186
@@ -201362,9 +201343,9 @@ Data0=(-44.74962,169.27108)
 ;1180187
 [POI]
 Type=0x2f0c
-Label=?HAMPDEN TOILET
+Label=HAMPDEN TOILET
 StreetDesc=Hampden/ Toilet
-Data0=(-45.32441,170.81726)
+Data0=(-45.32460,170.81710)
 [END]
 
 ;1180189
@@ -204303,8 +204284,8 @@ Data0=(-43.53956,172.56680)
 ;1181382
 [POI]
 Type=0x2f
-Label=SIMS & BLUE LIMITED PAINTERS & DECORATORS
-StreetDesc=23 Braemar St, South Dud, Dud/ For paint and paintwork of exceptional quality ou
+Label=SIMS & BLUE LIMITED
+StreetDesc=23 Braemar St, South Dud, Dud/ Painters & Decorators. For paint and paintwork of
 Phone=+6434550488
 zip=8.00am - 5.30pm Monday-Friday
 Data0=(-45.89362,170.50186)
@@ -207372,5 +207353,23 @@ Label=ASCOT RENTAL CARS
 StreetDesc=67 Coleridge St, Sydenham, Chc/ Rental Cars/Campervans Hire Christchurch
 Phone=+6433772622
 Data0=(-43.54550,172.64344)
+[END]
+
+;1189613
+[POI]
+Type=0x2f0c
+Label=LORNE ST TOILET
+StreetDesc=Lorne St, South Dud/ toilet
+Data0=(-45.89400,170.49920)
+[END]
+
+;1189615
+[POI]
+Type=0x2f
+Label=HUGH MADDEN LTD
+StreetDesc=90 South Rd Caversham Dud 9011 New Zealand/ Superior, professional brick & block
+Phone=+6434556054
+zip=9.00am - 2.30pm Monday to Friday
+Data0=(-45.89162,170.49015)
 [END]
 

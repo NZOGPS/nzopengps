@@ -35881,7 +35881,7 @@ Data0=(-43.50964,172.58971)
 
 ;1096671
 [POI]
-Type=0x2a04
+Type=0x2a
 Label=CHOPSTICKS RESTAURANT
 StreetDesc=376 Ilam Rd, Fendalton/ Chinese Restaurant, Takeaway
 Phone=+6433512618
@@ -37002,7 +37002,7 @@ Data0=(-43.55633,172.70438)
 
 ;1097520
 [POI]
-Type=0x2b01
+Type=0x2b00
 Label=ALPINE GLACIER MOTEL
 StreetDesc=17 Cron St, Franz Josef, Westland, West Coast/ Accommodation, motor lodge, no 08
 Phone=+6437520226
@@ -93209,7 +93209,7 @@ Data0=(-45.86563,170.50865)
 
 ;1128380
 [POI]
-Type=0x2a0e
+Type=0x2f
 Label=A1 INTERNET CAFE
 StreetDesc=149 George St, Dud/ internet cafe
 Data0=(-45.87214,170.50446)
@@ -103572,7 +103572,7 @@ Data0=(-43.53190,172.63807)
 
 ;1131453
 [POI]
-Type=0x2d02
+Type=0x2a
 Label=JOJI'S SUSHI BAR
 StreetDesc=186 Manchester St, Chc/ Japanese food, bar
 Data0=(-43.53079,172.63983)
@@ -195930,7 +195930,7 @@ Data0=(-42.44843,171.21399)
 
 ;1177187
 [POI]
-Type=0x2e07
+Type=0x2e
 Label=OUTSIDE SPORTS QUEENSTOWN
 StreetDesc=36-38 Shotover St, Queenstown/ Icebreaker Clothing, Outdoor Clothing, Ski Rental
 Phone=+6434410074
@@ -195939,7 +195939,7 @@ Data0=(-45.03161,168.65972)
 
 ;1177188
 [POI]
-Type=0x2e07
+Type=0x2e
 Label=OUTSIDE SPORTS WANAKA
 StreetDesc=17-23 Dunmore St, Wanaka/ Icebreaker Clothing, Outdoor Clothing, Ski Rentals, Bi
 Phone=+6434437966
@@ -195948,7 +195948,7 @@ Data0=(-44.69618,169.13457)
 
 ;1177189
 [POI]
-Type=0x2e07
+Type=0x2e
 Label=OUTSIDE SPORTS TE ANAU
 StreetDesc=38-40 Milford Rd, Te Anau/ Icebreaker Clothing, Outdoor Clothing, Ski Rentals, B
 Phone=+6432498195
@@ -196539,7 +196539,7 @@ Data0=(-45.00646,168.74998)
 
 ;1177487
 [POI]
-Type=0x2f
+Type=0x2f03
 Label=QUEENSTOWN COMMERCIAL VEHICLE SERVICES
 StreetDesc=131 Gorge Rd, Queenstown/ Vehicle Repairs
 Phone=+6434428203
@@ -201182,7 +201182,7 @@ Data0=(-46.10260,168.94286)
 
 ;1180112
 [POI]
-Type=0x2f
+Type=0x2c00
 Label=CUMULUS PARAGLIDING LTD
 StreetDesc=7 Tuffnell St, Richmond, Nelson/ Tandem Paragliding. Paragliding sales and equip
 Phone=0800359863

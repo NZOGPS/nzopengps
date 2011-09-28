@@ -7382,7 +7382,7 @@ Data0=(-43.51035,172.50246)
 
 ;1025333
 [POI]
-Type=0x2d05
+Type=0x2d
 Label=PIRATE'S ISLAND ADVENTURE GOLF
 StreetDesc=196 Roydvale Ave, Chc/ mini golf, 18 holes
 Phone=+6433589250
@@ -27811,7 +27811,7 @@ Data0=(-43.53212,172.48574)
 
 ;1086723
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=HORORATA HOTEL
 StreetDesc=15 Hororata Rd, Hororata/ Pub, Bar, Accommodation, Mini golf, TAB Self service o
 Phone=+6433180841
@@ -89649,7 +89649,7 @@ Data0=(-42.49822,173.51859)
 
 ;1122177
 [POI]
-Type=0x2d05
+Type=0x2d
 Label=WILD WEST ADVENTURE MINI GOLF
 StreetDesc=455 Blenheim Rd, Riccarton, Chc/ Indoor and Outdoor Mini Golf
 Phone=+6433432055
@@ -93860,7 +93860,7 @@ Data0=(-45.87353,170.50365)
 
 ;1128464
 [POI]
-Type=0x2a
+Type=0x2b01
 Label=CLARKS JUNCTION HOTEL
 StreetDesc=3353 Clarks Junction-Lee Stream Rd, Deep Stream/ Bar, restaurant
 Data0=(-45.72684,170.04632)
@@ -96931,7 +96931,7 @@ Data0=(-45.87419,170.50438)
 
 ;1128848
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=VICTORIA HOTEL
 StreetDesc=137 St Andrew St, Dud/ Accommodation
 Data0=(-45.87250,170.50750)
@@ -98246,7 +98246,7 @@ Data0=(-43.53189,172.63944)
 
 ;1130528
 [POI]
-Type=0x2d02
+Type=0x2a
 Label=THE FLYING BURRITO BROTHERS
 StreetDesc=Cnr New Regent St & Armagh St, Chc/ Mexican restaurant. Cantina & Tequileria, Ba
 Phone=+6433777626
@@ -100314,7 +100314,7 @@ Data0=(-43.55675,172.70086)
 
 ;1131033
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=CAMELOT CATHEDRAL SQUARE HOTEL
 StreetDesc=66 Cathedral Sq, Chc/ Accommodation
 Data0=(-43.53018,172.63687)
@@ -102850,14 +102850,6 @@ Type=0x2f
 Label=HIGH STREET MINI MART
 StreetDesc=225 High St, Chc/ 
 Data0=(-43.53388,172.63896)
-[END]
-
-;1131357
-[POI]
-Type=0x2b00
-Label=HIGHWAY INN
-StreetDesc=527 Sawyers Arms Rd, Chc/ Accommodation
-Data0=(-43.47033,172.56893)
 [END]
 
 ;1131358
@@ -105914,7 +105906,7 @@ Data0=(-43.52328,172.65691)
 
 ;1131750
 [POI]
-Type=0x2a
+Type=0x2b00
 Label=PEPPERS CLEARWATER RESORT
 StreetDesc=38 Clearwater Ave, Coutts Island, Chc 8051/ Accommodation, golf, property. The L
 Phone=+6433601000
@@ -117998,15 +117990,6 @@ Phone=+6434420106
 Data0=(-44.93866,168.83293)
 [END]
 
-;1136905
-[POI]
-Type=0x2d02
-Label=FERRYMEAD GOLF
-StreetDesc=50 Ferrymead Park Dr, Chc/ golf, driving range, sport, cafe, bar, mini-golf, fun
-Phone=+6433765350
-Data0=(-43.56612,172.70073)
-[END]
-
 ;1136906
 [POI]
 Type=0x2f
@@ -123968,7 +123951,7 @@ Data0=(-42.39420,171.44453)
 
 ;1139057
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=PAROA HOTEL
 StreetDesc=508 Main South Rd, Paroa/ Accommodation
 Data0=(-42.51147,171.16769)
@@ -124025,7 +124008,7 @@ Data0=(-42.46037,171.20011)
 
 ;1139064
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=REVINGTONS HOTEL
 StreetDesc=47 Tainui St, Greymouth/ Accommodation
 Data0=(-42.44944,171.21126)
@@ -196497,7 +196480,7 @@ Data0=(-43.54495,172.65469)
 
 ;1177472
 [POI]
-Type=0x2f
+Type=0x2d05
 Label=FERRYMEAD GOLF
 StreetDesc=50 Ferrymead Park Dr, Chc/ 9 hole golf course Par Pro Shop Taylormade Callaway D
 Phone=+6433765350
@@ -205183,15 +205166,6 @@ StreetDesc=100 Camp Rd, Otago Peninsula, Dud, 9054/ Accommodation
 Data0=(-45.86798,170.62561)
 [END]
 
-;1186301
-[POI]
-Type=0x2b00
-Label=CENTURY PARK MOTOR LODGE.COM ACCOMMODATION NELSON
-StreetDesc=197 Rutherford St, Nelson, 7010/ Accommodation
-Phone=+6435466197
-Data0=(-41.27843,173.28090)
-[END]
-
 ;1186302
 [POI]
 Type=0x2b00
@@ -205808,7 +205782,7 @@ Data0=(-43.55607,172.69834)
 ;1188729
 [POI]
 Type=0x2b01
-Label=CENTURY PARK MOTOR LODGE.COM NELSON ACCOMMODATION
+Label=CENTURY PARK MOTOR LODGE
 StreetDesc=197 Rutherford St Nelson 7010/ Motel, Hotel, Nelson Accommodation, Accommodation
 Phone=+35466197
 zip=Mon-Fri: 7am to 9pm, Sat-Sun: 8am to 8pm
@@ -207088,7 +207062,7 @@ Data0=(-43.38820,170.18184)
 
 ;1189492
 [POI]
-Type=0x2b00
+Type=0x2b03
 Label=POUNAWEA ACCOMMODATION CENTRE
 StreetDesc=43 Park Lane, Pounawea, Owaka/ Holiday Park accommodation
 Data0=(-46.47288,169.69650)
@@ -207381,5 +207355,14 @@ Label=CHAPPIE CHAPMAN'S FLY FISHING ADVENTURES
 StreetDesc=31 Charlcott St, Bishopdale, Chc City/ New Zealand Fly Fishing Guide South Islan
 Phone=+6433595440
 Data0=(-43.49617,172.57272)
+[END]
+
+;1189638
+[POI]
+Type=0x2f
+Label=CROMWELL LANDSCAPE
+StreetDesc=17 Rogers St, Cromwell, Central Otago/ Landscape, construction and maintenance b
+Phone=+6427434338
+Data0=(-45.05261,169.19371)
 [END]
 

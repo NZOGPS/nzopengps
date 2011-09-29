@@ -1250,20 +1250,11 @@ StreetDesc=99 Ardmore St, Wanaka/ lounge cocktail bar
 Data0=(-44.69483,169.13549)
 [END]
 
-;1005145
-[POI]
-Type=0x2a
-Label=COYOTE CHRISTCHURCH
-StreetDesc=126 Oxford Terrace, Chc/ street bar, restaurant
-Phone=+6433666055
-Data0=(-43.53274,172.63406)
-[END]
-
 ;1005166
 [POI]
 Type=0x2a
 Label=COYOTE THE PALMS
-StreetDesc=Shop P1, 18 Marshland Rd, Chc/ street bar, restaurant
+StreetDesc=Shop P1, The Palms, 18 Marshland Rd, Chc/ street bar, restaurant
 Phone=+6433860556
 Data0=(-43.50748,172.66379)
 [END]
@@ -27737,16 +27728,6 @@ StreetDesc=14 York St, Picton/ Wheel Alignment, WOF, Mechanical Repairs, Wheel B
 Phone=+6435736537
 zip=Mon-Fri 7.30am-5.00pm, Sat 8am-12
 Data0=(-41.29191,174.00197)
-[END]
-
-;1086394
-[POI]
-Type=0x2e
-Label=PARA RUBBER CHRISTCHURCH
-StreetDesc=131 Moorhouse Ave, Chc/ Pool, Spa, Rubber and Foam materials, Vinyl flooring, Ma
-Phone=+6433792570
-zip=Mon-Fri 8:30-5:30 Sat 9-4 Sun10-4
-Data0=(-43.53958,172.62695)
 [END]
 
 ;1086401
@@ -101088,14 +101069,6 @@ Type=0x2e02
 Label=COVENT FRUIT CENTRE
 StreetDesc=181 Victoria St, Chc/ fresh fruit, vegetables
 Data0=(-43.52130,172.62816)
-[END]
-
-;1131135
-[POI]
-Type=0x2a0e
-Label=COYOTES CAFE
-StreetDesc=The Palms Mall, Cnr New Brighton & Marshland Rds, Chc/ cafe
-Data0=(-43.50704,172.66309)
 [END]
 
 ;1131136
@@ -207086,9 +207059,10 @@ Data0=(-44.70102,169.11006)
 
 ;1189507
 [POI]
-Type=0x2b00
+Type=0x2b02
 Label=ANGEL LUXURY LODGE
-StreetDesc=30 D Elisha Dr, Witherlea, Marlborough/ Lodge accommodation
+StreetDesc=30 D Elisha Dr, Witherlea, Marlborough/ Luxury lodge accommodation, luxury bed a
+Phone=+35779138
 Data0=(-41.54032,173.96660)
 [END]
 
@@ -207097,6 +207071,7 @@ Data0=(-41.54032,173.96660)
 Type=0x2b00
 Label=TORY LODGE
 StreetDesc=Maraetai Bay: Tory Channel:, Queen Charlotte Sound, Marlborough/ Lodge accommoda
+Phone=+35799556
 Data0=(-41.25903,174.13167)
 [END]
 
@@ -207110,9 +207085,10 @@ Data0=(-41.12411,174.37157)
 
 ;1189510
 [POI]
-Type=0x2b00
+Type=0x2b02
 Label=OKIWA BAY LODGE
-StreetDesc=169, Anakiwa Rd,, RD1 Picton 7281, Marlborough/ Lodge accommodation
+StreetDesc=169, Anakiwa Rd,, RD1 Picton 7281, Marlborough/ Luxury Bed and Breakfast experie
+Phone=+35742527
 Data0=(-41.27439,173.90546)
 [END]
 
@@ -207121,6 +207097,7 @@ Data0=(-41.27439,173.90546)
 Type=0x2b00
 Label=THE MUDCASTLE
 StreetDesc=640 Neudorf Rd, Upper Moutere, Nelson/ Lodge accommodation
+Phone=+35432113
 Data0=(-41.27123,172.94337)
 [END]
 
@@ -207364,5 +207341,24 @@ Label=CROMWELL LANDSCAPE
 StreetDesc=17 Rogers St, Cromwell, Central Otago/ Landscape, construction and maintenance b
 Phone=+6427434338
 Data0=(-45.05261,169.19371)
+[END]
+
+;1189640
+[POI]
+Type=0x2f
+Label=STEEL GRATING LTD
+StreetDesc=1 Mountview Place, Hornby, Chc/ Steel Grating Manufacturer, Aluminium Grating, F
+Phone=+6433445325
+Data0=(-43.55320,172.51526)
+[END]
+
+;1189642
+[POI]
+Type=0x2b00
+Label=KBC TOURS
+StreetDesc=69 Bealey Ave, Chc/ Running twice daily at 9am and 1pm and collecting from a arn
+Phone=0800505025
+zip=8am - 8pm
+Data0=(-43.52058,172.62991)
 [END]
 

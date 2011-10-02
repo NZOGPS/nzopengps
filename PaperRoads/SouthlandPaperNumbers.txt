@@ -47,3 +47,6 @@
 1030000183369	O,29,29	Hodgkinson Street	Gummies Bush (Southland, NZ)	31/08/2011 1:27p.m.
 1030000036700	B,1,10	Cambridge Street	Tapanui (Otago, NZ)	27/09/2011	11:30:39 p.m.
 1030000058492	E,50,70	York Street	Ohai (Southland, NZ)	30/09/2011 12:32p.m.
+1030000058482	O,57,57	Pitt Street	Riverton (Southland, NZ)	30/09/2011 4:34p.m.
+1030000058095	E,40,42	High Street	Riverton (Southland, NZ)	30/09/2011 4:42p.m.
+1030000058397	E,198,208	Church Street	Riverton (Southland, NZ)	30/09/2011 4:50p.m.

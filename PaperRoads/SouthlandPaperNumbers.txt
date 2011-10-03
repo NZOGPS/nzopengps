@@ -50,3 +50,4 @@
 1030000058482	O,57,57	Pitt Street	Riverton (Southland, NZ)	30/09/2011 4:34p.m.
 1030000058095	E,40,42	High Street	Riverton (Southland, NZ)	30/09/2011 4:42p.m.
 1030000058397	E,198,208	Church Street	Riverton (Southland, NZ)	30/09/2011 4:50p.m.
+1030000057492	O,25,25	EAST ST		Tokanui (Southland, NZ)	3/10/2011 5:04p.m

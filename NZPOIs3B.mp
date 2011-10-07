@@ -50827,9 +50827,9 @@ Data0=(-43.52421,172.63030)
 [POI]
 Type=0x2f
 Label=H P HANNA & CO. LTD
-StreetDesc=37 Latimer Sq, Chc/ 
+StreetDesc=222 Memorial Ave, Burnside, Chc/ Chartered accountants
 Phone=+6433798790
-Data0=(-43.53009,172.64184)
+Data0=(-43.50690,172.57216)
 [END]
 
 ;1106494
@@ -68049,11 +68049,11 @@ Data0=(-43.53856,172.63872)
 
 ;1116259
 [POI]
-Type=0x2f
-Label=WREN'S
-StreetDesc=50 Carroll St, Dud/ 
+Type=0x2c05
+Label=WRENS PAINTING & DECORATING
+StreetDesc=50 Carroll St, Dud/ Commercial & residential painting, decorating, wallpapering,
 Phone=+6434779384
-zip=Mon-Fri 0830-1700
+zip=Mon-Fri 08.00am-5.00pm
 Data0=(-45.88113,170.49754)
 [END]
 
@@ -171718,14 +171718,6 @@ StreetDesc=4 Granville Terrace, Belleknowes, Dud/
 Data0=(-45.87682,170.48242)
 [END]
 
-;1166669
-[POI]
-Type=0x2f
-Label=DR MICHAEL MORRISON
-StreetDesc=38C Mays Rd, Papanui, Chc/ 
-Data0=(-43.50466,172.61782)
-[END]
-
 ;1166671
 [POI]
 Type=0x2f
@@ -206197,5 +206189,45 @@ Label=MYTAX.CO.NZ LIMITED
 StreetDesc=105 Trafalgar St, Nelson, New Zealand/ tax refund, tax refunds, tax return, tax,
 zip=9-5
 Data0=(-41.27124,173.28419)
+[END]
+
+;1189702
+[POI]
+Type=0x2f
+Label=?CHRISTCHURCH DRAINLAYERS Y45 DRAINAGE
+StreetDesc=Woolston, Chc/ Christchurch Drainlayers, Registered Drainlayers Christchurch, un
+Phone=+6439800590
+zip=8am to 6pm, Monday to Friday
+Data0=(-43.55577,172.68480)
+[END]
+
+;1189713
+[POI]
+Type=0x2f
+Label=CORPORATE CONSUMABLES
+StreetDesc=1/142 Pascoe St Tahunanui Nelson 7011/ Corporate Consumables is New Zealands lar
+Phone=+6435471578
+zip=Monday to Friday - 8am - 5pm
+Data0=(-41.29804,173.23878)
+[END]
+
+;1189714
+[POI]
+Type=0x2f
+Label=CORPORATE CONSUMABLES
+StreetDesc=72 Byron St Sydenham Chc 8140/ Corporate Consumables is New Zealands largest 100
+Phone=+6433655060
+zip=Monday to Friday - 8am - 5pm
+Data0=(-43.54278,172.64335)
+[END]
+
+;1189715
+[POI]
+Type=0x2f
+Label=CORPORATE CONSUMABLES
+StreetDesc=27 Waverley St Dud 9012/ Corporate Consumables is New Zealands largest 100% Kiwi
+Phone=+6434559661
+zip=Monday to Friday - 8am - 5pm
+Data0=(-45.89377,170.50110)
 [END]
 

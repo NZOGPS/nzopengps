@@ -66169,8 +66169,8 @@ Data0=(-43.49113,172.56957)
 ;1115236
 [POI]
 Type=0x2f
-Label=TRIPLE ONE CARE LTD
-StreetDesc=1 Tokomaru Pl, Stoke, Nelson/ First aid course and kits
+Label=TRIPLE ONE CARE
+StreetDesc=1 Tokomaru Pl, Stoke, Nelson/ First aid course and kits, Supplies, AEDs, medical
 Phone=+6435449180
 Data0=(-41.32588,173.21206)
 [END]

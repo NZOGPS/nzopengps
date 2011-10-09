@@ -195078,7 +195078,7 @@ Data0=(-41.23739,172.82679)
 
 ;1177412
 [POI]
-Type=0x2e09
+Type=0x2e
 Label=DOUGLAS FURNITURE
 StreetDesc=25 horatio st Chc/ office furniture manufacture
 Phone=+6433661257
@@ -198906,7 +198906,7 @@ Data0=(-41.26122,173.27923)
 
 ;1179271
 [POI]
-Type=0x2e07
+Type=0x2e01
 Label=THE WAREHOUSE MOSGIEL
 StreetDesc=161 Gordon Rd, Mosgiel/ Clothing, Books, Music, Movies, Toys, Gaming, Electronic
 Phone=+6434893790

@@ -65541,7 +65541,7 @@ Type=0x2b00
 Label=THE VINTNERS RETREAT
 StreetDesc=55 Rapaura Rd, Renwick, Blenheim/ Accommodation
 Phone=+6435727420
-Data0=(-41.48549,173.82307)
+Data0=(-41.47597,173.88694)
 [END]
 
 ;1114819
@@ -66711,15 +66711,6 @@ StreetDesc=Port Company Blg, Waikawa Marina, Beach Rd, Picton, Blenheim/
 Phone=+6435737457
 zip=Mon-Fri 0830-1700, Sat 0900-1400
 Data0=(-41.26782,174.03728)
-[END]
-
-;1115602
-[POI]
-Type=0x2f
-Label=VINTNERS RETREAT
-StreetDesc=55  Rapaura Rd,  Blenheim/ 
-Phone=+6435725094
-Data0=(-41.47414,173.89350)
 [END]
 
 ;1115603
@@ -83777,7 +83768,7 @@ Type=0x2d09
 Label=PIONEER LEISURE CENTRE
 StreetDesc=61 Lyttleton St, Spreydon, Chc/ Swimming Pool, Leisure Centre, Wave Pool, Lap Po
 Phone=+6439416851
-zip=Weekdays 5am - 8:30pm, School & Public H
+zip=Pool: Mon-Fri 5.30am-9.30pm, Weekends an
 Data0=(-43.56553,172.61448)
 [END]
 
@@ -170407,8 +170398,9 @@ Data0=(-45.09658,170.97067)
 [POI]
 Type=0x2f
 Label=CENTRAL MEDICAL CENTRE
-StreetDesc=31 Ventry St, Alexandra/ 
-Data0=(-45.25259,169.38770)
+StreetDesc=93 Tarbert St, Alexandra/ General practice, doctors
+Phone=+6434400295
+Data0=(-45.25306,169.39482)
 [END]
 
 ;1166051
@@ -187137,7 +187129,7 @@ Data0=(-46.89644,168.15071)
 
 ;1173305
 [POI]
-Type=0x2f
+Type=0x2c00
 Label=SERIOUS FUN RIVERSURIFNG
 StreetDesc=39 Camp st/ Tourist attraction & visitor activity
 Phone=+6434425262
@@ -187147,7 +187139,7 @@ Data0=(-45.03097,168.66089)
 
 ;1173306
 [POI]
-Type=0x2f
+Type=0x2c00
 Label=FROGZ WHITE WATER SLEDGING
 StreetDesc=39 Camp St Queenstown/ Tourist attraction & visitor activity
 Phone=+6434412318
@@ -187157,7 +187149,7 @@ Data0=(-45.03097,168.66089)
 
 ;1173307
 [POI]
-Type=0x2f
+Type=0x2c00
 Label=FROGZ WHITE WATER SLEDGING
 StreetDesc=Wanaka i-site, 100 Ardmore St, Wanaka/ Tourist attraction & visitor activity
 Phone=+6434412318
@@ -188378,7 +188370,7 @@ Data0=(-46.40873,168.35112)
 
 ;1173742
 [POI]
-Type=0x2f
+Type=0x2f03
 Label=OIL CHANGERS DUNEDIN
 StreetDesc=418 Andersons Bay Rd, Dud/ Vehicle Servicing
 Phone=+6434564424
@@ -188799,7 +188791,7 @@ Data0=(-43.54443,172.63079)
 
 ;1173837
 [POI]
-Type=0x2e
+Type=0x2f
 Label=BAYLEYS DUNEDIN
 StreetDesc=5 Smith St, Dud/ Real estate agents. Vector Realty Ltd
 Phone=+6434773370
@@ -189114,7 +189106,7 @@ Data0=(-41.50973,173.95864)
 
 ;1173933
 [POI]
-Type=0x2f
+Type=0x2f03
 Label=RUSTORATIONS LTD
 StreetDesc=66 Montreal St, Chc/ Vehicle Restoration, Classic Autos
 Phone=+6433746330
@@ -193280,14 +193272,6 @@ Type=0x2b00
 Label=VILLA DEL LAGO APARTMENTS
 StreetDesc=249 Frankton Rd, Queenstown/ Apartment accommodation
 Data0=(-45.03338,168.68245)
-[END]
-
-;1176610
-[POI]
-Type=0x2b00
-Label=VINTNERS RETREAT RESORT
-StreetDesc=55 Rapaura Rd, Blenheim/ Apartment accommodation
-Data0=(-41.48525,173.82256)
 [END]
 
 ;1176611
@@ -204912,7 +204896,7 @@ Data0=(-43.54328,172.63431)
 
 ;1188983
 [POI]
-Type=0x2e09
+Type=0x2f
 Label=ROBYN BUIS INTERIOR DESIGN
 StreetDesc=3 Stafford St Dud 9016/ Complete Interior Design service by a trained designer c
 Phone=+6434773982
@@ -206137,7 +206121,7 @@ Data0=(-43.53355,172.65015)
 
 ;1189654
 [POI]
-Type=0x2a0e
+Type=0x2d
 Label=CASTLE PARK
 StreetDesc=16 Ashworths Beach Rd, Amberley/ Paintball, Laser Tag, Climbing Wall, Obstacle C
 Phone=+6433129411

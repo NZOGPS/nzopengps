@@ -46672,9 +46672,9 @@ Data0=(-46.41090,168.35314)
 
 ;1104578
 [POI]
-Type=0x2f
+Type=0x2a
 Label=DONEGAL HOUSE
-StreetDesc=Schoolhouse Rd, R D 1, Kaikoura, Chc/ 
+StreetDesc=Schoolhouse Rd, R D 1, Kaikoura, Chc/ Accommodation, restaurant
 Phone=+6433195083
 Data0=(-42.36650,173.65699)
 [END]
@@ -151065,7 +151065,7 @@ Type=0x2b01
 Label=CENTRE COURT MOTEL
 StreetDesc=58A Maxwell Rd, Blenheim/ Motel accommodation
 Phone=+6435777203
-Data0=(-41.51707,173.95255)
+Data0=(-41.51722,173.95258)
 [END]
 
 ;1155724
@@ -189509,9 +189509,9 @@ Data0=(-43.53192,172.63882)
 
 ;1174760
 [POI]
-Type=0x2b01
+Type=0x2c05
 Label=BELLA VISTA MOTEL FOX GLACIER
-StreetDesc=55 Main Rd, Fox Glacier/ 4 star motel accommodation
+StreetDesc=55 Main Rd, Fox Glacier/ Good quality, clean, comfortable accommodation in a cen
 Phone=+6437510129
 Data0=(-43.46404,170.01892)
 [END]
@@ -204459,5 +204459,14 @@ Label=BELFAST PONY CLUB
 StreetDesc=Spencerville Rd/ North Canterbury Pony Club
 Phone=+6433139974
 Data0=(-43.42656,172.66843)
+[END]
+
+;1189827
+[POI]
+Type=0x2f
+Label=THE MOTORHOME SHOP
+StreetDesc=106 Carmen Rd, Hornby, Chc, New Zealand/ Motorhome/Campervan Design, Build, Repa
+Phone=+6433442442
+Data0=(-43.53527,172.53325)
 [END]
 

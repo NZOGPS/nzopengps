@@ -1112,8 +1112,9 @@ Data0=(-45.85495,170.51942)
 [POI]
 Type=0x2e05
 Label=UNICHEM MORNINGTON PHARMACY
-StreetDesc=170 Eglinton Rd, Dud, Otago/ chemist, pharmacy
+StreetDesc=170 Eglinton Rd, Dud, Otago/ Friendly professional advice with a comprehensive r
 Phone=+6434536150
+zip=Monday to Wednesday & Friday - 8.45am - 
 Data0=(-45.88229,170.48267)
 [END]
 
@@ -204452,6 +204453,15 @@ Phone=+6434895689
 Data0=(-45.88574,170.34784)
 [END]
 
+;1189755
+[POI]
+Type=0x2f
+Label=REVIVE ON OAKVIEW
+StreetDesc=707 Longbeach Rd, Ashburton/ Beauty, Massage, Facials, Accommodation, Waxing, El
+Phone=+6433026799
+Data0=(-44.00200,171.68477)
+[END]
+
 ;1189826
 [POI]
 Type=0x2f
@@ -204468,5 +204478,34 @@ Label=THE MOTORHOME SHOP
 StreetDesc=106 Carmen Rd, Hornby, Chc, New Zealand/ Motorhome/Campervan Design, Build, Repa
 Phone=+6433442442
 Data0=(-43.53527,172.53325)
+[END]
+
+;1189837
+[POI]
+Type=0x2f
+Label=HANSON REMOVALS DUNEDIN 24HR
+StreetDesc=313 Kaikorai Valley Rd Dud 9011 New Zealand/ Hanson Removals Dunedin for timely,
+Phone=+6434536575
+zip=24-7
+Data0=(-45.87664,170.47128)
+[END]
+
+;1189839
+[POI]
+Type=0x2f
+Label=EDWARDS & HARDY
+StreetDesc=82A Kingsley St Chc, New Zealand/ Roof Resurfacing, Roof Tile Silicon Coating Ro
+Phone=+6433661182
+Data0=(-43.54396,172.64438)
+[END]
+
+;1189845
+[POI]
+Type=0x2f
+Label=AZURLIS® SKIN CARE - BALANCING SCIENCE & SOUL
+StreetDesc=L 3, 1 Dowling St, Dud 9016/ Natural and holistic skin care made with botanical 
+Phone=08002987547
+zip=10.00 am - 5.00 pm, Tuesday - Thursday.
+Data0=(-45.87701,170.50374)
 [END]
 

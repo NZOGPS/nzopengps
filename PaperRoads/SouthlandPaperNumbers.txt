@@ -22,7 +22,8 @@
 1030000056788	B,1,8	Luna Street	Lumsden (Southland, NZ)	31/08/2011 5:05p.m.
 1030000056830	E,46,76	Garden Street	Lumsden (Southland, NZ)	13/09/2011 11:59:17 p.m.
 1030000057228	O,15,15	Heron Street	Lumsden (Southland, NZ)	31/08/2011 3:40p.m.
-1030000057241	O,61,61	Hill Road	Lumsden (Southland, NZ)	14/09/2011 12:44:48 a.m.
+1030000057241	O,61,61	Hill Road		Lumsden (Southland, NZ)	14/09/2011 12:44:48 a.m.
+1030000057430	O,63,73	Moray Terrace	Fortrose (Southland, NZ)	14/10/2011 6:57p.m.
 1030000057492	O,25,25	EAST ST		Tokanui (Southland, NZ)	3/10/2011 5:04p.m
 1030000057536	E,16,20	Ira Street	Lumsden (Southland, NZ)	31/08/2011 7:38p.m.
 1030000057537	E,4,36	Juno Street	Lumsden (Southland, NZ)	31/08/2011 7:46p.m.

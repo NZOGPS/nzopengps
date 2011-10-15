@@ -690,7 +690,7 @@ Data0=(-43.55680,172.70008)
 
 ;1002772
 [POI]
-Type=0x2a0a
+Type=0x2a
 Label=PIZZA HUT GORE
 StreetDesc=121 Main St, Gore/ pizza, takeaways
 Phone=0800838383
@@ -53334,7 +53334,7 @@ Data0=(-43.54383,172.59427)
 
 ;1108648
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=LINDIS RIVER WINES
 StreetDesc=6 Thomson Gorge Rd, R D 3, Cromwell/ Vinyard
 Phone=+6434452020
@@ -53491,7 +53491,7 @@ Data0=(-43.55745,172.70336)
 
 ;1108779
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=LOWBURN FERRY WINES
 StreetDesc=Strathburn Farm, 5 Swann Rd, R D 2, Cromwell/ Vinyard
 Phone=+6434450846
@@ -55166,7 +55166,7 @@ Data0=(-43.54253,172.69768)
 
 ;1109753
 [POI]
-Type=0x2f
+Type=0x2c00
 Label=MONARCH WILDLIFE CRUISES & TOURS
 StreetDesc=Corner Wharf & Fryatt Streets, Dud/ Tourist attraction
 Phone=+6434774276
@@ -55441,7 +55441,7 @@ Data0=(-46.08851,169.08697)
 
 ;1109866
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=?MOUNT MAUDE
 StreetDesc=Maungawera Valley Rd, R D 2, Wanaka/ Vineyard
 Phone=+6434438398
@@ -57001,7 +57001,7 @@ Data0=(-46.34779,168.01780)
 
 ;1110787
 [POI]
-Type=0x2f
+Type=0x2c00
 Label=OCEANA GOLD (NEW ZEALAND) LIMITED
 StreetDesc=L 3, 22 MacLaggan St, Dud/ Tourist attraction
 Phone=+6434792922
@@ -61013,7 +61013,7 @@ Data0=(-46.23971,169.73448)
 
 ;1113183
 [POI]
-Type=0x2f
+Type=0x2c00
 Label=SHANTYTOWN
 StreetDesc=Shantytown Post Ctr, Rutherglen Rd, Greymouth/ Tourist attraction, theme park, p
 Phone=+6437626634
@@ -64745,7 +64745,7 @@ Data0=(-45.91289,169.68790)
 
 ;1115286
 [POI]
-Type=0x2f
+Type=0x4c
 Label=TUAPEKA LAWRENCE COMMUNITY COMPANY
 StreetDesc=17 Ross Place, Lawrence, Dud/ Information center, Tourist information, Internet,
 Phone=+6434859222
@@ -65182,7 +65182,7 @@ Data0=(-45.84998,170.51296)
 
 ;1115593
 [POI]
-Type=0x2f
+Type=0x2f03
 Label=VINCENT HOLDINGS LTD
 StreetDesc=46 Russell St, Alexandra/ Panelbeaters
 Phone=+6434488557
@@ -73255,7 +73255,7 @@ Data0=(-43.33780,172.70717)
 
 ;1117657
 [POI]
-Type=0x2f
+Type=0x2d08
 Label=ALPINE ICE
 StreetDesc=495 Brougham St, Opawa, Chc/ Ice skating, Ice rink
 Phone=+6433662213
@@ -73678,7 +73678,7 @@ Data0=(-45.85543,170.52620)
 
 ;1117847
 [POI]
-Type=0x2f
+Type=0x4c
 Label=ARROWTOWN INFORMATION - LAKES DISTRICT MUSEUM AND INFORMATION CENTRE
 StreetDesc=49 Buckingham St, Arrowtown/ Tourist and visitor assistance
 Data0=(-44.93864,168.83343)
@@ -76278,7 +76278,7 @@ Data0=(-45.41645,167.71993)
 
 ;1119283
 [POI]
-Type=0x2f
+Type=0x4c
 Label=KARAMEA INFORMATION & RESOURCE CENTRE
 StreetDesc=Market Cross, Karamea/ Information
 Phone=+6437826652
@@ -80841,7 +80841,7 @@ Data0=(-44.18989,170.14037)
 
 ;1120726
 [POI]
-Type=0x2f
+Type=0x4c
 Label=TWIZEL INFORMATION CENTRE
 StreetDesc=Twizel Events Ctr/ Information
 Phone=+6434353124
@@ -87419,7 +87419,7 @@ Data0=(-41.27183,173.26261)
 
 ;1122641
 [POI]
-Type=0x2f
+Type=0x4c
 Label=STEWART ISLAND I-SITE VISITOR CENTRE
 StreetDesc=12 Elgin Terrace, Halfmoon Bay, Stewart Island/ Tourist & visitor information
 Phone=+6432191400
@@ -87428,7 +87428,7 @@ Data0=(-46.89702,168.12906)
 
 ;1122642
 [POI]
-Type=0x2f
+Type=0x4c
 Label=AKAROA VISITOR CENTRE
 StreetDesc=80 Rue Lavaud, Akaroa/ Tourist & Visitor information, New Zealand Post Agency an
 Phone=+6433048600
@@ -90598,7 +90598,7 @@ Data0=(-45.87676,170.50275)
 
 ;1128501
 [POI]
-Type=0x2f
+Type=0x2d08
 Label=DUNEDIN ICE STADIUM
 StreetDesc=101 Victoria Rd, St Kilda/ ice skating rink
 Data0=(-45.90706,170.50519)
@@ -92742,7 +92742,7 @@ Data0=(-45.87701,170.50104)
 
 ;1128772
 [POI]
-Type=0x2f
+Type=0x2a07
 Label=TAIERI FISH SUPPLY
 StreetDesc=155 Gordon Rd, Mosgiel/ Takeaways
 Phone=+6434897133
@@ -100146,7 +100146,7 @@ Data0=(-43.53080,172.59855)
 
 ;1131472
 [POI]
-Type=0x2f
+Type=0x2a07
 Label=KEBAB MASTERS
 StreetDesc=Shop 14, Northlands Shopping Mall, 55 Main North Rd, Papanui, Chc/ Takeaway food
 zip=Mon-Wed 9am-6pm, Thu-Fri 9am-9pm, Sat-Su
@@ -104445,7 +104445,7 @@ Data0=(-43.52565,172.63209)
 
 ;1132021
 [POI]
-Type=0x2f
+Type=0x2c00
 Label=TAMAKI HERITAGE VILLAGE
 StreetDesc=80 Ferrymead Park Dr, Ferrymead, Chc/ tourist attraction, maori historical reena
 Phone=+33667333
@@ -105021,7 +105021,7 @@ Data0=(-43.53518,172.63875)
 
 ;1132096
 [POI]
-Type=0x2f
+Type=0x2d02
 Label=THE FITZ TUI CLUBROOMS
 StreetDesc=331 Cashel St, Chc/ Bar, Restaurant, TAB, Pool, Gaming, Sports, Indoor-Outdoor, 
 Phone=+6439631766
@@ -106026,7 +106026,7 @@ Data0=(-43.51655,172.68735)
 
 ;1132226
 [POI]
-Type=0x2f
+Type=0x2a07
 Label=WAINONI FISH SUPPLY
 StreetDesc=88A Wainoni Rd, Chc/ Takeaways
 Phone=+6433896875
@@ -106335,7 +106335,7 @@ Data0=(-43.53106,172.65607)
 
 ;1132266
 [POI]
-Type=0x2d02
+Type=0x2a
 Label=WUNDERBAR
 StreetDesc=19 London St, Lyttelton, Chc/ Restaurant & Bar
 Phone=+6433288818
@@ -106401,7 +106401,7 @@ Data0=(-43.49437,172.60955)
 
 ;1132275
 [POI]
-Type=0x2f
+Type=0x2a07
 Label=YI'S FISH 'N' CHIPS
 StreetDesc=3A Wentworth St, Ilam, Chc/ Takeaways, Chinese, Fish & chips
 Data0=(-43.51323,172.57072)
@@ -107828,7 +107828,7 @@ Data0=(-42.52294,172.82898)
 
 ;1133456
 [POI]
-Type=0x2f
+Type=0x2d08
 Label=ICE SPORTS SOUTHLAND
 StreetDesc=Wayland St, Gore/ ice skating, sport
 Phone=+6432039128
@@ -112640,7 +112640,7 @@ Data0=(-41.29119,173.26982)
 
 ;1135037
 [POI]
-Type=0x2f
+Type=0x2c00
 Label=HAPPY VALLEY ADVENTURES
 StreetDesc=194 Cable Bay Rd, Nelson/ Tourist attraction
 Data0=(-41.20373,173.41055)
@@ -113234,7 +113234,7 @@ Data0=(-41.30784,173.23094)
 
 ;1135112
 [POI]
-Type=0x2f
+Type=0x2d02
 Label=THE SPRIG AND FERN TAVERN
 StreetDesc=134 Milton St, Nelson/ Bar, restaurant
 Phone=+6435457117
@@ -115551,7 +115551,7 @@ Data0=(-44.39959,171.25582)
 
 ;1137811
 [POI]
-Type=0x2a0a
+Type=0x2a07
 Label=DOMINO'S PIZZA TIMARU
 StreetDesc=88C Evans St, Timaru/ Takeaway pizza
 Phone=+6436883160
@@ -118221,7 +118221,7 @@ Data0=(-45.89673,170.50806)
 
 ;1138153
 [POI]
-Type=0x2f
+Type=0x2d03
 Label=HOYTS 6 CINEMAS
 StreetDesc=33 The Octagon, Dud/ Movie cinema
 Phone=+6434773250
@@ -118913,7 +118913,7 @@ Data0=(-45.90370,170.31642)
 
 ;1138239
 [POI]
-Type=0x2f
+Type=0x2d02
 Label=SOUTH
 StreetDesc=21 Frederick St, Dud/ Bar, functions
 Phone=0800022569
@@ -120164,7 +120164,7 @@ Data0=(-42.44395,171.21418)
 
 ;1139030
 [POI]
-Type=0x2f
+Type=0x2a07
 Label=COBDEN TAKEWAYS
 StreetDesc=126 Bright St, Cobden/ takeaways
 Data0=(-42.44219,171.21100)
@@ -132353,7 +132353,7 @@ Data0=(-43.38076,172.66027)
 
 ;1144807
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=KAIAPOI TENNIS CLUB
 StreetDesc=Sewell St, Kaiapoi/ Tennis club
 Data0=(-43.37950,172.65856)
@@ -139662,7 +139662,7 @@ Data0=(-43.90450,171.74179)
 
 ;1148971
 [POI]
-Type=0x2f
+Type=0x2F07
 Label=VALUE CARS WAREHOUSE
 StreetDesc=32 Moorhouse Ave, Chc/ Vehicle dealership. AA Accredited, MTA Assured. LMVD
 Phone=+6433667768
@@ -186029,7 +186029,7 @@ Data0=(-43.52960,172.60360)
 
 ;1173733
 [POI]
-Type=0x2d
+Type=0x2f
 Label=DREAMNET
 StreetDesc=85 Riccarton Rd, Riccarton/ Internet cafe
 Phone=+6433487885
@@ -188709,7 +188709,7 @@ Data0=(-43.54310,172.54190)
 
 ;1174694
 [POI]
-Type=0x2a02
+Type=0x2a0e
 Label=CHINWAG EATHAI 2
 StreetDesc=131 Victoria St, Chc, New Zealand/ Cafe, Restaurant, Thai food.
 Phone=+6433664544
@@ -201515,7 +201515,7 @@ Data0=(-43.64401,172.47896)
 
 ;1184642
 [POI]
-Type=0x2f
+Type=0x2e
 Label=CYCLE SURGERY - MIDDLEMARCH
 StreetDesc=26 Snow Ave, Middlemarch/ Cycle Hire, Transport, Cycle Repairs
 Phone=0800292534

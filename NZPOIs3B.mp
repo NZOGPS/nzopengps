@@ -61322,7 +61322,7 @@ Data0=(-45.89179,170.49209)
 
 ;1113357
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=SIR GEORGE SEYMOUR NATIONAL COLLEGE OF AIRLINE, TOURISM & TRAVEL
 StreetDesc=L 1, 829 Colombo St, Chc/ Private tertiary education and training programmes for
 Phone=+6433771794
@@ -85293,7 +85293,7 @@ Data0=(-43.98862,171.18464)
 
 ;1121772
 [POI]
-Type=0x2c08
+Type=0x2d00
 Label=PEEL FOREST OUTDOOR PURSUIT CENTRE
 StreetDesc=1214 Peel Forest Rd, Peel Forest/ Rafting
 Phone=+6436963832
@@ -98648,7 +98648,7 @@ Data0=(-43.51718,172.70233)
 
 ;1131277
 [POI]
-Type=0x2f
+Type=0x2a
 Label=GINZA SUSHI
 StreetDesc=409 Main South Rd, Chc/ Japanese food
 Data0=(-43.54370,172.52416)
@@ -100948,7 +100948,7 @@ Data0=(-43.51241,172.62224)
 
 ;1131578
 [POI]
-Type=0x2f
+Type=0x2a
 Label=MAKI-MONO
 StreetDesc=Riccarton Mall, 145 Riccarton Rd, Chc/ Japanese food including sushi and hot dis
 Phone=+33488130
@@ -101040,7 +101040,7 @@ Data0=(-43.55036,172.48726)
 
 ;1131589
 [POI]
-Type=0x2f
+Type=0x2a
 Label=MATSU SUSHI Y&P
 StreetDesc=105 Armagh St, Chc/ Japanese food
 Data0=(-43.52864,172.63739)
@@ -101239,7 +101239,7 @@ Data0=(-43.50589,172.62802)
 
 ;1131614
 [POI]
-Type=0x2f
+Type=0x2a
 Label=METRO SUSHI
 StreetDesc=The Crossing, 146 Cashel St, Chc/ Japanese food
 Data0=(-43.53326,172.63682)
@@ -101361,7 +101361,7 @@ Data0=(-43.49606,172.59534)
 
 ;1131630
 [POI]
-Type=0x2f
+Type=0x2a
 Label=MODERN SUSHI
 StreetDesc=764 Colombo St, Chc/ Japanese food
 Data0=(-43.52906,172.63681)
@@ -101516,7 +101516,7 @@ Data0=(-43.48954,172.59868)
 
 ;1131649
 [POI]
-Type=0x2f
+Type=0x2a
 Label=MR SUSHI
 StreetDesc=363 Colombo St, Chc/ Japanese food
 Data0=(-43.54641,172.63643)
@@ -101524,7 +101524,7 @@ Data0=(-43.54641,172.63643)
 
 ;1131650
 [POI]
-Type=0x2f
+Type=0x2a
 Label=MR SUSHI
 StreetDesc=793 Colombo St, Chc/ Japanese food
 Data0=(-43.52621,172.63645)
@@ -104214,7 +104214,7 @@ Data0=(-43.50917,172.58838)
 
 ;1131992
 [POI]
-Type=0x2f
+Type=0x2a
 Label=SUSHI & MORE
 StreetDesc=31 Seaview Rd, New Brighton, Chc/ Japanese food
 Data0=(-43.50794,172.72702)
@@ -104231,7 +104231,7 @@ Data0=(-43.53601,172.63647)
 
 ;1131994
 [POI]
-Type=0x2f
+Type=0x2a
 Label=SUSHI EXPRESS NORTHLANDS
 StreetDesc=Kiosk 3, Northlands Shopping Mall, 55 Main North Rd, Papanui, Chc/ Japanese food
 Phone=+6433541088
@@ -104250,7 +104250,7 @@ Data0=(-43.53092,172.59837)
 
 ;1131996
 [POI]
-Type=0x2f
+Type=0x2a
 Label=SUSHI EXPRESS THE PALMS
 StreetDesc=The Palms Mall, Cnr New Brighton & Marshland Rds, Chc/ Japanese food
 Data0=(-43.50657,172.66299)
@@ -104258,7 +104258,7 @@ Data0=(-43.50657,172.66299)
 
 ;1131997
 [POI]
-Type=0x2f
+Type=0x2a
 Label=SUSHI ON THE ROAD
 StreetDesc=33 Cathedral Sq, Chc/ Japanese food
 Data0=(-43.53131,172.63515)
@@ -104266,7 +104266,7 @@ Data0=(-43.53131,172.63515)
 
 ;1131998
 [POI]
-Type=0x2f
+Type=0x2a
 Label=SUSHI REVOLUTION - SHINSENGUMI
 StreetDesc=169C Wairakei Rd, Chc/ Japanese food
 Data0=(-43.50379,172.59426)
@@ -104274,7 +104274,7 @@ Data0=(-43.50379,172.59426)
 
 ;1131999
 [POI]
-Type=0x2f
+Type=0x2a
 Label=SUSHI TIME
 StreetDesc=Eastgate Shopping Ctr, Cnr Linwood Ave and Buckleys Rd, Chc/ Japanese food
 Phone=+6433816327
@@ -104283,7 +104283,7 @@ Data0=(-43.53320,172.67400)
 
 ;1132000
 [POI]
-Type=0x2f
+Type=0x2a
 Label=SUSHI TIME AVONHEAD
 StreetDesc=210 Withells Rd, Avonhead, Chc/ Japanese food, Sushi
 Phone=+6433585096
@@ -104292,7 +104292,7 @@ Data0=(-43.51066,172.55626)
 
 ;1132001
 [POI]
-Type=0x2f
+Type=0x2a
 Label=SUSHI WORLD
 StreetDesc=189 Papanui Rd, Chc/ Japanese food
 Data0=(-43.51253,172.62182)
@@ -104308,7 +104308,7 @@ Data0=(-43.54335,172.52314)
 
 ;1132003
 [POI]
-Type=0x2f
+Type=0x2a
 Label=SUSHI-Q
 StreetDesc=181 Cashel St, Chc/ Japanese food
 Data0=(-43.53300,172.64008)
@@ -104316,7 +104316,7 @@ Data0=(-43.53300,172.64008)
 
 ;1132004
 [POI]
-Type=0x2f
+Type=0x2a
 Label=SUSHI-YA NEW BRIGHTON
 StreetDesc=47 Brighton Mall, New Brighton, Chc/ Japanese food
 Data0=(-43.50776,172.72937)
@@ -105398,7 +105398,7 @@ Data0=(-43.53218,172.63543)
 
 ;1132144
 [POI]
-Type=0x2f
+Type=0x2a
 Label=THE SUSHI HOUSE AND JONG GA JIB
 StreetDesc=104 Staveley St, Avonhead, Chc/ Japanese food
 Data0=(-43.51889,172.55257)
@@ -105969,7 +105969,7 @@ Data0=(-43.54335,172.53912)
 
 ;1132218
 [POI]
-Type=0x2f
+Type=0x2a
 Label=VICTORIA THAI FOODS
 StreetDesc=173 Victoria St, Chc/ Thai Food
 Phone=+6433792293
@@ -106170,7 +106170,7 @@ Data0=(-43.50657,172.66299)
 
 ;1132244
 [POI]
-Type=0x2f
+Type=0x2e
 Label=WESTMEAT CHRISTCHURCH
 StreetDesc=394 Blenheim Rd, Upper Riccarton, Chc/ Butcher
 Phone=+6433495078
@@ -109519,7 +109519,7 @@ Data0=(-46.40559,168.34945)
 
 ;1134449
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=COLLEGIATE RUBGY CLUB
 StreetDesc=27-28 Lindisfarne St, Invercargill/ sports club
 Phone=+6432167595
@@ -110038,7 +110038,7 @@ Data0=(-46.41224,168.35357)
 
 ;1134508
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=INVERCARGILL CONTRACT BRIDGE
 StreetDesc=50 Elles Rd, Invercargill/ sports
 Phone=+6432174519
@@ -110516,7 +110516,7 @@ Data0=(-46.40117,168.34701)
 
 ;1134562
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=OLD BOYS ASSN FOOTBALL CLUB INC.
 StreetDesc=296 St Andrew St, Invercargill/ sports
 Phone=+6432176011
@@ -111586,7 +111586,7 @@ Data0=(-46.37280,168.34710)
 
 ;1134684
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=WAIKIWI RUGBY FOOTBALL
 StreetDesc=110-220 Bainfield Rd, Invercargill/ Sports
 Phone=+6432157303
@@ -111595,7 +111595,7 @@ Data0=(-46.37534,168.35466)
 
 ;1134685
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=WAVERLEY BOWLING CLUB
 StreetDesc=225 King St, Invercargill/ Sports
 Phone=+6432178989
@@ -119818,7 +119818,7 @@ Data0=(-43.26195,170.36073)
 
 ;1138732
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=COASTAL SPIRIT FC
 StreetDesc=Linfield Sports, 56 Kearneys Rd, Bromley, Chc/ Football / Soccer Club. A merger 
 Phone=+6433893007
@@ -124325,7 +124325,7 @@ Data0=(-41.11203,173.01210)
 
 ;1141265
 [POI]
-Type=0x2f
+Type=0x2d
 Label=MOTUEKA GOLF RANGE
 StreetDesc=390 Chamberlain St, Motueka/ Pitch and putt golf course, 18 hole mini-golf
 Data0=(-41.14973,172.97765)
@@ -142209,7 +142209,7 @@ Data0=(-46.39863,168.38345)
 
 ;1151077
 [POI]
-Type=0x2f
+Type=0x2d02
 Label=WALLACETOWN TAVERN
 StreetDesc=94 Dalry St, Wallacetown/ Tavern
 Data0=(-46.33047,168.29284)
@@ -142234,7 +142234,7 @@ Data0=(-46.35520,168.54998)
 
 ;1151086
 [POI]
-Type=0x2f
+Type=0x2d02
 Label=WREYS BUSH HOTEL
 StreetDesc=127 Wilson Rd, RD 2, Invercargill/ Tavern
 Data0=(-46.48538,168.42150)
@@ -147781,7 +147781,7 @@ Data0=(-43.54679,172.63412)
 
 ;1154242
 [POI]
-Type=0x2f
+Type=0x2F02
 Label=ADVENTURE VANS LTD
 StreetDesc=74 Treffers Rd, Sockburn, Chc/ Camper Vans, Rentals
 Phone=0800123777
@@ -177674,7 +177674,7 @@ Data0=(-43.54266,172.64638)
 
 ;1171099
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=EDGEWARE TENNIS CLUB
 StreetDesc=459 Innes Rd, Chc/ Tennis club
 Phone=+6433858709
@@ -178019,7 +178019,7 @@ Data0=(-45.00348,169.93315)
 
 ;1171174
 [POI]
-Type=0x2f
+Type=0x4c
 Label=RED BARN INFORMATION CENTRE
 StreetDesc=Wedderburn/ Information Centre, Otago Central Rail Trail
 Phone=+6434449194
@@ -186270,7 +186270,7 @@ Data0=(-46.41873,168.34702)
 
 ;1173787
 [POI]
-Type=0x2f
+Type=0x2c00
 Label=?PRECISION HELICOPTERS LTD - BLENHEIM
 StreetDesc=Aviation Heritage Ctr, Omaka. Marlborough/ Scenic flights; joy rides; tours & ge
 Phone=0800246359
@@ -186279,7 +186279,7 @@ Data0=(-41.53704,173.92768)
 
 ;1173788
 [POI]
-Type=0x2f
+Type=0x2c00
 Label=PRECISION HELICOPTERS LTD - SOUTHLAND
 StreetDesc=Charlton Aerodrome, Gore, Southland/ Scenic flights; joy rides; tours & general 
 Phone=0800246359
@@ -186288,7 +186288,7 @@ Data0=(-46.15694,168.89932)
 
 ;1173789
 [POI]
-Type=0x2f
+Type=0x2c00
 Label=?PRECISION HELICOPTERS LTD - WEST COAST
 StreetDesc=Fairhall Rd, State Highway 7, Greymouth/ Scenic flights; joy rides; tours & gene
 Phone=0800246359
@@ -187441,7 +187441,7 @@ Data0=(-43.54133,172.61325)
 
 ;1174290
 [POI]
-Type=0x2f
+Type=0x2c00
 Label=TEKAPO HELICOPTERS
 StreetDesc=Main Rd, Lake Tekapo, Mackenzie, South Canterbury/ Scenic Helicopter Rides New Z
 Phone=+6436806229
@@ -189415,7 +189415,7 @@ Data0=(-43.63057,171.64743)
 
 ;1175663
 [POI]
-Type=0x2f
+Type=0x2c00
 Label=OVER THE TOP - THE HELICOPTER COMPANY
 StreetDesc=Tex Smith Lane, Queenstown Airport, Queenstown/ Tourist attraction & visitor act
 Phone=+6434422233
@@ -192172,7 +192172,7 @@ Data0=(-41.28888,174.00662)
 
 ;1177055
 [POI]
-Type=0x2f
+Type=0x2d07
 Label=THE CAPTAINS ALLEY
 StreetDesc=Galleon Complex, 500 Thames Highway, Oamaru/ Ten pin bowling
 Phone=+6434370128
@@ -198082,7 +198082,7 @@ Data0=(-45.77923,170.70375)
 
 ;1180443
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=PIONEER RUGBY FOOTBALL CLUB
 StreetDesc=70 Robertson St, Gore/ Rugby Club
 Phone=+6432087650

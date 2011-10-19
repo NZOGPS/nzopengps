@@ -149,7 +149,7 @@
 'FinancialService' => '0x2f', #Services - Other 0x2f
 'GeneralContractor' => '0x2f', #Services - Other 0x2f
 'GovernmentBuilding' => '0x2f', #Services - Other 0x2f
-'GovernmentOrganization' => '0x2f', #Services - Other 0x2f
+'GovernmentOrganization' => '0x3003', #Govt - Public Office Government 0x3003
 'HairSalon' => '0x2f', #Services - Other 0x2f
 'HealthAndBeautyBusiness' => '0x2f', #Services - Other 0x2f
 'HousePainter' => '0x2f', #Services - Other 0x2f

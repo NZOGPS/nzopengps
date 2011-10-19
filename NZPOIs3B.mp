@@ -32759,7 +32759,7 @@ Data0=(-43.53805,172.59171)
 
 ;1094803
 [POI]
-Type=0x2f
+Type=0x3003
 Label=INDUSTRIAL RESEARCH LIMITED CHRISTCHURCH
 StreetDesc=5 Sheffield Cres, Bishopdale/ Crown research institute, CRI, IRL
 Phone=+6433589189
@@ -35497,7 +35497,7 @@ Data0=(-45.86992,170.50515)
 
 ;1097125
 [POI]
-Type=0x2f
+Type=0x3003
 Label=WORK & INCOME AKAROA
 StreetDesc=Akaroa Resource Collective, 106 Rue Jolie, Akaroa/ WINZ
 Phone=0800559009
@@ -35507,7 +35507,7 @@ Data0=(-43.80898,172.96350)
 
 ;1097127
 [POI]
-Type=0x2f
+Type=0x3003
 Label=WORK & INCOME ASHBURTON
 StreetDesc=Cnr Cass & Moore Streets, Ashburton/ WINZ
 Phone=0800559009
@@ -35517,7 +35517,7 @@ Data0=(-43.90739,171.74758)
 
 ;1097131
 [POI]
-Type=0x2f
+Type=0x3003
 Label=WORK & INCOME BLENHEIM
 StreetDesc=Riverview House, 3 Alfred St, Blenheim/ WINZ
 Phone=0800559009
@@ -35527,7 +35527,7 @@ Data0=(-41.51099,173.95915)
 
 ;1097134
 [POI]
-Type=0x2f
+Type=0x3003
 Label=WORK & INCOME CHEVIOT
 StreetDesc=39 Hall St,SH1, Cheviot/ WINZ
 Phone=0800559009
@@ -35537,7 +35537,7 @@ Data0=(-42.81135,173.27435)
 
 ;1097135
 [POI]
-Type=0x2f
+Type=0x3003
 Label=WORK & INCOME CHRISTCHURCH CENTRAL
 StreetDesc=231 High St, Chc/ WINZ
 Phone=0800559009
@@ -37898,7 +37898,7 @@ Data0=(-43.73661,170.09707)
 
 ;1099037
 [POI]
-Type=0x2f
+Type=0x3003
 Label=DEPARTMENT OF CONSERVATION, AORAKI/MT COOK VISITOR CENTRE
 StreetDesc=1 Larch Grove, Aoraki/Mt Cook/ DOC visitor information
 Phone=+6434351186
@@ -37952,7 +37952,7 @@ Data0=(-43.48801,172.54722)
 
 ;1099051
 [POI]
-Type=0x2f
+Type=0x3003
 Label=DEPARTMENT OF CONSERVATION, FIORDLAND VISITOR CENTRE
 StreetDesc=Fiordland Ntl Park, Visitor Ctr, Lakefront Dr, Te Anau/ DOC visitor information.
 Phone=+6432497924
@@ -41389,7 +41389,7 @@ Data0=(-43.90936,171.74365)
 
 ;1101476
 [POI]
-Type=0x2f
+Type=0x3003
 Label=ASHBURTON DISTRICT COUNCIL
 StreetDesc=5 Baring Sq West, Ashburton/ 
 Phone=+6433077700
@@ -43139,7 +43139,7 @@ Data0=(-41.30039,173.23849)
 
 ;1102595
 [POI]
-Type=0x2f
+Type=0x3003
 Label=BULLER DISTRICT COUNCIL
 StreetDesc=Brougham House, 7 Brougham St, Westport/ 
 Phone=+6437889111
@@ -43895,7 +43895,7 @@ Data0=(-43.54349,172.57447)
 
 ;1103050
 [POI]
-Type=0x2f
+Type=0x3003
 Label=CENTRAL OTAGO DISTRICT COUNCIL
 StreetDesc=1 Dunorling St, Alexandra/ 
 Phone=+6434486979
@@ -44677,7 +44677,7 @@ Data0=(-46.24260,169.73165)
 
 ;1103407
 [POI]
-Type=0x2f
+Type=0x3003
 Label=CLUTHA DISTRICT COUNCIL
 StreetDesc=1 Rosebank Terrace, Balclutha, Dud/ 
 Phone=+6434190200
@@ -59868,10 +59868,11 @@ Data0=(-41.27020,173.07608)
 
 ;1112555
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=RINNON PRODUCTS LIMITED
-StreetDesc=518 Kaikorai Valley Rd, Dud/ 
+StreetDesc=518 Kaikorai Valley Rd, Dud/ High quality light engineering and manufacture of s
 Phone=+6434884231
+zip=Monday - Friday 8am - 4.30pm
 Data0=(-45.88681,170.46278)
 [END]
 
@@ -66751,7 +66752,7 @@ Data0=(-43.53314,172.64040)
 
 ;1116386
 [POI]
-Type=0x2f
+Type=0x3003
 Label=LANDCARE RESEARCH, LINCOLN
 StreetDesc=Gerald St, Lincoln/ CRI, environment science, systematics
 Phone=+6433219999
@@ -66760,7 +66761,7 @@ Data0=(-43.64112,172.47522)
 
 ;1116387
 [POI]
-Type=0x2f
+Type=0x3003
 Label=LANDCARE RESEARCH, ALEXANDRA
 StreetDesc=43 Dunstan Rd, Alexandra/ CRI, environment science
 Phone=+6434402930
@@ -66769,7 +66770,7 @@ Data0=(-45.24457,169.39450)
 
 ;1116388
 [POI]
-Type=0x2f
+Type=0x3003
 Label=LANDCARE RESEARCH, DUNEDIN
 StreetDesc=764 Cumberland St, Dud/ CRI, environment science
 Phone=+6434707200
@@ -66778,7 +66779,7 @@ Data0=(-45.86293,170.51355)
 
 ;1116389
 [POI]
-Type=0x2f
+Type=0x3003
 Label=LANDCARE RESEARCH, NELSON
 StreetDesc=16 Paru Paru Rd, Nelson/ CRI, environment science
 Phone=+6435457700
@@ -66787,7 +66788,7 @@ Data0=(-41.26929,173.28167)
 
 ;1116397
 [POI]
-Type=0x2f
+Type=0x3003
 Label=NIWA NELSON
 StreetDesc=217 Akersten St, Port Nelson 7010/ Regional office, CRI atmosphere water researc
 Phone=+35481715
@@ -66796,7 +66797,7 @@ Data0=(-41.25931,173.28375)
 
 ;1116398
 [POI]
-Type=0x2f
+Type=0x3003
 Label=NIWA CHRISTCHURCH
 StreetDesc=10 Kyle St, Riccarton, Chc 8011/ Regional office, CRI atmosphere water research
 Phone=+33488987
@@ -66805,7 +66806,7 @@ Data0=(-43.53176,172.60816)
 
 ;1116399
 [POI]
-Type=0x2f
+Type=0x3003
 Label=NIWA LAUDER
 StreetDesc=State Highway 85, Lauder, Central Otago/ Regional office, CRI atmosphere water r
 Phone=+34400055
@@ -66814,7 +66815,7 @@ Data0=(-45.03788,169.68373)
 
 ;1116405
 [POI]
-Type=0x2f
+Type=0x3003
 Label=NIWA GREYMOUTH
 StreetDesc=28 Johnston St, Greymouth/ Regional office, CRI atmosphere water research
 Phone=+37680390
@@ -66823,7 +66824,7 @@ Data0=(-42.44940,171.20566)
 
 ;1116406
 [POI]
-Type=0x2f
+Type=0x3003
 Label=NIWA TEKAPO
 StreetDesc=C/- Tekapo Store, Main Rd, State Highway 8, Lake Tekapo/ Regional office, CRI at
 Phone=+36806807
@@ -115874,7 +115875,7 @@ Data0=(-44.37413,171.24130)
 
 ;1137852
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=GROSVENOR HOTEL
 StreetDesc=26 Cains Terrace, Timaru/ Accommodation
 Data0=(-44.39593,171.25463)
@@ -119953,7 +119954,7 @@ Data0=(-46.09922,168.94548)
 
 ;1138751
 [POI]
-Type=0x2b00
+Type=0x2b02
 Label=HAWTHORN DEN INN
 StreetDesc=141 Waikaka Rd, Willowbank/ Wedding Consultancy &/or Arrangement Services, Bed a
 Phone=+6432071869
@@ -152075,7 +152076,7 @@ Data0=(-43.48957,172.10807)
 [POI]
 Type=0x2b00
 Label=FLOCK HILL LODGE
-StreetDesc=State Highway 73, Craigyburn Valley, Cass, Arthurs Pass/ Accommodation
+StreetDesc=State Highway 73, Craigyburn Valley, Cass, Arthurs Pass/ Accommodation, motel co
 Phone=+33188196
 Data0=(-43.13336,171.76695)
 [END]
@@ -160654,8 +160655,8 @@ Data0=(-41.51318,173.95325)
 [POI]
 Type=0x2f
 Label=FOOTPRINTS HOME BASED QUALITY CHILDCARE
-StreetDesc=RD 1, 47 Orbell Cres, Te Anau/ 
-Phone=+6439313277
+StreetDesc=5 Tom Plato Dr, Te Anau, Southland/ 
+Phone=+6432494393
 Data0=(-45.42131,167.73768)
 [END]
 
@@ -166816,7 +166817,7 @@ Data0=(-43.51845,172.57213)
 
 ;1165385
 [POI]
-Type=0x2f
+Type=0x3003
 Label=ACC NORTHWOOD
 StreetDesc=Northwood Supa Ctr, 1 Radcliffe Rd, Belfast, Chc/ 
 Phone=+6439629401
@@ -176814,7 +176815,7 @@ Data0=(-43.53054,172.59898)
 
 ;1170658
 [POI]
-Type=0x2f
+Type=0x3003
 Label=?PLANT & FOOD RESEARCH, NELSON REGION
 StreetDesc=Old Mill Rd, Motueka/ Horticulture Crop Research, CRI
 Phone=+39073595
@@ -176823,7 +176824,7 @@ Data0=(-41.09602,172.97169)
 
 ;1170659
 [POI]
-Type=0x2f
+Type=0x3003
 Label=PLANT & FOOD RESEARCH, NELSON (SEAFOOD RESEARCH UNIT)
 StreetDesc=300 Wakefield Qy Port Nelson Nelson 7010/ Horticulture Crop Research, CRI
 Phone=+35480362
@@ -176832,7 +176833,7 @@ Data0=(-41.26463,173.26793)
 
 ;1170660
 [POI]
-Type=0x2f
+Type=0x3003
 Label=PLANT & FOOD RESEARCH, MARLBOROUGH
 StreetDesc=85 Budge St Blenheim 7201/ Horticulture Crop Research, CRI
 Phone=+39844310
@@ -176841,7 +176842,7 @@ Data0=(-41.50426,173.96754)
 
 ;1170661
 [POI]
-Type=0x2f
+Type=0x3003
 Label=PLANT & FOOD RESEARCH, LINCOLN
 StreetDesc=Gerald St Lincoln 7608/ Horticulture Crop Research, CRI
 Phone=+33256400
@@ -176858,7 +176859,7 @@ Data0=(-43.63926,172.47522)
 
 ;1170663
 [POI]
-Type=0x2f
+Type=0x3003
 Label=PLANT & FOOD RESEARCH, CLYDE
 StreetDesc=990 Earnscleugh Rd,Alexandra 9391/ Horticulture Crop Research, CRI
 Phone=+39047300
@@ -176867,7 +176868,7 @@ Data0=(-45.20510,169.31423)
 
 ;1170664
 [POI]
-Type=0x2f
+Type=0x3003
 Label=PLANT & FOOD RESEARCH, DUNEDIN
 StreetDesc=Dept of Chemistry, University of Otago/ Horticulture Crop Research, CRI
 Phone=+6434798354
@@ -176876,7 +176877,7 @@ Data0=(-45.86509,170.51336)
 
 ;1170665
 [POI]
-Type=0x2f
+Type=0x3003
 Label=PLANT & FOOD RESEARCH, INVERMAY
 StreetDesc=Puddle Alley Mosgiel 9092/ Horticulture Crop Research, CRI
 Phone=+34890673
@@ -176893,7 +176894,7 @@ Data0=(-45.85853,170.38825)
 
 ;1170668
 [POI]
-Type=0x2f
+Type=0x3003
 Label=PLANT & FOOD RESEARCH, GORE
 StreetDesc=Te Tipua Rd Gore 9774/ Horticulture Crop Research, CRI
 Phone=+32089017
@@ -176940,7 +176941,7 @@ Data0=(-43.51443,172.61768)
 
 ;1170699
 [POI]
-Type=0x2f
+Type=0x3003
 Label=SCION, CHRISTCHURCH
 StreetDesc=Forestry Rd, Fendalton, Chc/ CRI, Forest Research
 Phone=+33642949
@@ -176949,7 +176950,7 @@ Data0=(-43.52299,172.58558)
 
 ;1170703
 [POI]
-Type=0x2f
+Type=0x3003
 Label=GNS SCIENCE, DUNEDIN RESEARCH CENTRE
 StreetDesc=764 Cumberland St, Dud/ CRI, Earth science, geology
 Phone=+34774050
@@ -177014,7 +177015,7 @@ Data0=(-43.54430,172.65270)
 
 ;1170734
 [POI]
-Type=0x2f
+Type=0x3003
 Label=AGRESEARCH, LINCOLN
 StreetDesc=Cnr Springs Rd and Gerald St, Lincoln/ CRI, Agriculture research
 Phone=+33218800
@@ -177023,7 +177024,7 @@ Data0=(-43.64254,172.47096)
 
 ;1170735
 [POI]
-Type=0x2f
+Type=0x3003
 Label=AGRESEARCH, INVERMAY
 StreetDesc=Puddle Alley, Mosgiel, Otago/ CRI, Agriculture research
 Phone=+34893809
@@ -203994,5 +203995,15 @@ StreetDesc=259 Greers Rd Burnside Chc/ We offer a variety of delicious and healt
 Phone=+6433593003
 zip=Monday - Friday 7am - 7pm, Sataurday & S
 Data0=(-43.49985,172.58571)
+[END]
+
+;1189868
+[POI]
+Type=0x2e
+Label=PRENZEL DUNEDIN
+StreetDesc=213 Main South Rd, Green Island Dud 9018 New Zealand/ NZ made food & beverages t
+Phone=+6434881811
+zip=10.00am - 5.00pm
+Data0=(-45.90213,170.42797)
 [END]
 

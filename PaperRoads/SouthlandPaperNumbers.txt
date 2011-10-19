@@ -53,3 +53,5 @@
 1030000058492	E,50,70	York Street	Ohai (Southland, NZ)	30/09/2011 12:32p.m.
 1030000183367	E,34,50	Solomon Street	Gummies Bush (Southland, NZ)	31/08/2011 7:32p.m.
 1030000183369	O,29,29	Hodgkinson Street	Gummies Bush (Southland, NZ)	31/08/2011 1:27p.m.
+1030000035601	B,40,49	E,78,78	Stornoway Street	Karitane (Otago, NZ)	19/10/2011 2:10p.m.
+1030000027274	E,200,200	Blacks Road	Opoho, Dunedin (Otago, NZ)	19/10/2011 2:14p.m.

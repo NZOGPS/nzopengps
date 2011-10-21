@@ -48334,10 +48334,10 @@ Data0=(-41.26214,173.29773)
 ;1105657
 [POI]
 Type=0x2f
-Label=FOLEY DESIGN LTD
-StreetDesc=Unit 2 , 14 Tussock Lane, Ferrymead, Chc/ 
+Label=FOLEY GROUP ARCHITECTURE LTD
+StreetDesc=Unit 2, 14 Tussock Lane, Ferrymead, Chc/ 
 Phone=+6433775666
-zip=Mon-Fri 0830-1630
+zip=Mon-Fri 8.30am-4.30pm
 Data0=(-43.55954,172.70675)
 [END]
 
@@ -59380,7 +59380,7 @@ Data0=(-44.39615,171.25171)
 Type=0x2f
 Label=R REDPATH LTD
 StreetDesc=55 Ferry Rd, Chc/ Electrical wholesale
-Phone=+6433790446
+Phone=0800273372
 zip=Mon-Fri 7am-5pm, Sat 8am-1pm
 Data0=(-43.53711,172.64644)
 [END]
@@ -59869,7 +59869,7 @@ Data0=(-41.27020,173.07608)
 ;1112555
 [POI]
 Type=0x2c05
-Label=RINNON PRODUCTS LIMITED
+Label=RINNON PRODUCTS LTD
 StreetDesc=518 Kaikorai Valley Rd, Dud/ High quality light engineering and manufacture of s
 Phone=+6434884231
 zip=Monday - Friday 8am - 4.30pm
@@ -65158,9 +65158,9 @@ Data0=(-41.27350,173.27901)
 [POI]
 Type=0x2f
 Label=VERVE DIGITAL LTD
-StreetDesc=168 Montreal St, Sydenham, Chc/ 
+StreetDesc=14 Nazareth Ave, Middleton, Chc/ Digital & offset printing
 Phone=+6433654597
-Data0=(-43.53888,172.63076)
+Data0=(-43.54454,172.58058)
 [END]
 
 ;1115564
@@ -79656,11 +79656,11 @@ Data0=(-43.53110,172.59738)
 
 ;1120175
 [POI]
-Type=0x2a
-Label=SLICE
-StreetDesc=34E Shotover St, Queenstown/ Pizza restaurant. Takeaways, free home delivery
+Type=0x2a07
+Label=NEW SLICE PIZZA
+StreetDesc=34E Shotover St, Queenstown/ Pizza restaurant. Takeaways, home delivery
 Phone=+6434424240
-zip=12pm till late
+zip=Mon-Wed 4pm-late, Thu-Sun 2pm-late
 Data0=(-45.03145,168.65988)
 [END]
 
@@ -105611,10 +105611,10 @@ Data0=(-43.52973,172.63708)
 [POI]
 Type=0x2a05
 Label=TOTALLY GLUTEN FREE
-StreetDesc=378 Worcester St, Chc/ Gluten free bakery
-Phone=+6433810600
-zip=Mon - Fri 9-6, Closed Public Holidays
-Data0=(-43.53104,172.65644)
+StreetDesc=477b Blenheim Rd, Sockburn, Chc/ Gluten free bakery
+Phone=+6433411172
+zip=Mon-Fri 9-4, Sat 9-3 Closed Public Holid
+Data0=(-43.53953,172.56603)
 [END]
 
 ;1132171
@@ -118772,8 +118772,9 @@ Data0=(-45.87667,170.50359)
 [POI]
 Type=0x2f
 Label=RHAPSODY HAIR DESIGN
-StreetDesc=15 Filleul St, Dud/ Hairdressers
-Data0=(-45.87197,170.50340)
+StreetDesc=39 Douglas St, St Kilda, Dud/ Hairdressers
+Phone=+6434556429
+Data0=(-45.90581,170.50279)
 [END]
 
 ;1138222
@@ -133324,8 +133325,8 @@ Data0=(-46.41282,168.34875)
 Type=0x2e02
 Label=TE ANAU FRESH CHOICE
 StreetDesc=5 Milford Cres, Te Anau/ Supermarket, Groceries
-Phone=+6432499600
-zip=7am - 9pm 7 days
+Phone=+6432499330
+zip=7am-9pm 7 days
 Data0=(-45.41472,167.71503)
 [END]
 
@@ -189370,11 +189371,11 @@ Data0=(-46.59712,168.33454)
 ;1175116
 [POI]
 Type=0x2f
-Label=URBAN DESIGN LTD
-StreetDesc=6 Chamberlain Lane, Rangiora/ Architectural Design, Interior Design, Kitchen Des
+Label=?URBAN DESIGN LTD
+StreetDesc=PO Box 455, Rangiora/ Architectural Design, Interior Design, Kitchen Design, Bat
 Phone=+6433107904
 zip=8:30am - 5:00pm Mon-Fri
-Data0=(-43.31749,172.58781)
+Data0=(-43.30336,172.59572)
 [END]
 
 ;1175119
@@ -193544,11 +193545,11 @@ Data0=(-45.03313,168.65800)
 ;1177831
 [POI]
 Type=0x2F02
-Label=ALLWAYS CAR RENTAL CHRISTCHURCH AIRPORT
-StreetDesc=11 Holt Place, Burnside/ Christchurch Airport Car Rental, Christchurch Airport C
+Label=ALLWAYS NEW ZEALAND CAR RENTAL CHRISTCHURCH AIRPORT
+StreetDesc=12b Sheffield Cres, Burnside/ Christchurch Airport Car Rental, Christchurch Airp
 Phone=+6433582829
 zip=8am - 6pm Mon - Sun
-Data0=(-43.48742,172.56204)
+Data0=(-43.49108,172.56215)
 [END]
 
 ;1177833
@@ -204005,5 +204006,171 @@ StreetDesc=213 Main South Rd, Green Island Dud 9018 New Zealand/ NZ made food & 
 Phone=+6434881811
 zip=10.00am - 5.00pm
 Data0=(-45.90213,170.42797)
+[END]
+
+;1189873
+[POI]
+Type=0x2f
+Label=REX INDUSTRIAL EQUIPMENT LTD
+StreetDesc=81 Montreal St, Chc/ Materials Handling,Wheels,Castors,Conveyers
+Phone=+6433653813
+zip=Mon-Fri 8-5
+Data0=(-43.54348,172.63030)
+[END]
+
+;1189874
+[POI]
+Type=0x2f
+Label=REX INDUSTRIAL EQUIPMENT LTD
+StreetDesc=362 King Edward St, Dud/ Materials Handling,Wheels,Castors,Conveyers
+Phone=+6434774889
+zip=Mon-Fri 8-5
+Data0=(-45.89800,170.50256)
+[END]
+
+;1189877
+[POI]
+Type=0x2f
+Label=R REDPATH LTD
+StreetDesc=29 Watts Rd, Chc/ Electrical wholesale
+Phone=0800273372
+zip=Mon-Fri 7am-5pm, Sat 8am-1pm
+Data0=(-43.53828,172.56232)
+[END]
+
+;1189878
+[POI]
+Type=0x2f
+Label=R REDPATH LTD NETWORKS
+StreetDesc=8 Chapmans Rd, Chc/ Electrical wholesale
+Phone=0800273372
+zip=Mon-Fri 7am-5pm, Sat 8am-1pm
+Data0=(-43.56923,172.68769)
+[END]
+
+;1189879
+[POI]
+Type=0x2f
+Label=R REDPATH LTD
+StreetDesc=682 East St, Ashburton/ Electrical wholesale
+Phone=0800273372
+zip=Mon-Fri 7am-5pm, Sat 8am-1pm
+Data0=(-43.89904,171.75615)
+[END]
+
+;1189880
+[POI]
+Type=0x2f
+Label=R REDPATH LTD
+StreetDesc=694 Lineside Rd, Rangiora/ Electrical wholesale
+Phone=0800273372
+zip=Mon-Fri 7am-5pm, Sat 8am-1pm
+Data0=(-43.32612,172.59978)
+[END]
+
+;1189881
+[POI]
+Type=0x2f
+Label=R REDPATH LTD
+StreetDesc=31 Latter St, Timaru/ Electrical wholesale
+Phone=0800273372
+zip=Mon-Fri 7am-5pm, Sat 8am-1pm
+Data0=(-44.39816,171.25264)
+[END]
+
+;1189882
+[POI]
+Type=0x2f
+Label=R REDPATH LTD
+StreetDesc=19 Usk St, Oamaru/ Electrical wholesale
+Phone=0800273372
+zip=Mon-Fri 7am-5pm, Sat 8am-1pm
+Data0=(-45.09388,170.97376)
+[END]
+
+;1189883
+[POI]
+Type=0x2f
+Label=R REDPATH LTD
+StreetDesc=110 Cumberland St, Dud/ Electrical wholesale
+Phone=0800273372
+zip=Mon-Fri 7am-5pm, Sat 8am-1pm
+Data0=(-45.88164,170.50343)
+[END]
+
+;1189884
+[POI]
+Type=0x2f
+Label=R REDPATH LTD
+StreetDesc=Units 3 & 4 , 24 McNulty Rd, Cromwell/ Electrical wholesale
+Phone=0800273372
+zip=Mon-Fri 7am-5pm, Sat 8am-1pm
+Data0=(-45.05041,169.18984)
+[END]
+
+;1189885
+[POI]
+Type=0x2f
+Label=R REDPATH LTD
+StreetDesc=186 Glenda Dr, Frankton/ Electrical wholesale
+Phone=0800273372
+zip=Mon-Fri 7am-5pm, Sat 8am-1pm
+Data0=(-45.01159,168.75457)
+[END]
+
+;1189886
+[POI]
+Type=0x2f
+Label=R REDPATH LTD
+StreetDesc=23 Ngapara St, Alexandra/ Electrical wholesale
+Phone=0800273372
+zip=Mon-Fri 7am-5pm, Sat 8am-1pm
+Data0=(-45.24544,169.39684)
+[END]
+
+;1189887
+[POI]
+Type=0x2f
+Label=R REDPATH LTD
+StreetDesc=14 Yarrow St, Invercargill/ Electrical wholesale
+Phone=0800273372
+zip=Mon-Fri 7am-5pm, Sat 8am-1pm
+Data0=(-46.40846,168.34851)
+[END]
+
+;1189891
+[POI]
+Type=0x2f
+Label=PRINTHOUSE
+StreetDesc=16 Tokomaru Place, Wakatu Estate, Nelson 7040/ Commercial Printing, Print Soluti
+Phone=+6435439480
+Data0=(-41.32648,173.21280)
+[END]
+
+;1189893
+[POI]
+Type=0x2f
+Label=FIRST CLASS ACCOUNTS
+StreetDesc=23 Alma Lane, Nelson 7001/ Business accounting specialist consultants, Small Bus
+Phone=0800777552
+Data0=(-41.27363,173.28635)
+[END]
+
+;1189894
+[POI]
+Type=0x2f
+Label=HOTHOUSE
+StreetDesc=58 Buxton Sq, Nelson/ HotHouse are 'Designers for Business', providing full bran
+Phone=+6435457995
+Data0=(-41.27300,173.28495)
+[END]
+
+;1189904
+[POI]
+Type=0x2f
+Label=JUST TOYMOTA AUTOPARTS
+StreetDesc=8 Calgary Place, Hornby, Chc, New Zealand/ Online Toyota Parts Shop Toyota Car P
+Phone=+6433664291
+Data0=(-43.55577,172.51471)
 [END]
 

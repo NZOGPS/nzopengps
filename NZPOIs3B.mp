@@ -109104,7 +109104,7 @@ Data0=(-46.39818,168.36538)
 [POI]
 Type=0x2d00
 Label=APPLEBY CRICKET CLUB
-StreetDesc=92 Dalrymple St, Invercargill/ sports club
+StreetDesc=92 Dalrymple St, Invercargill/ Sports club
 Phone=+6432186215
 Data0=(-46.42574,168.35722)
 [END]
@@ -173639,7 +173639,7 @@ Data0=(-43.53071,172.63265)
 ;1168881
 [POI]
 Type=0x2f
-Label=ST ALBANS OSTEOPATHY
+Label=PHILIP BAYLISS, OSTEOPATH
 StreetDesc=St Albans Osteopathy, 43 Thames St, St Albans, Chc 8013/ Osteopath
 Phone=+6433561353
 zip=9am-6pm Mon-Fri, emergency appointments 

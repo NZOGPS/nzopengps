@@ -37864,7 +37864,7 @@ Data0=(-43.90375,171.74164)
 
 ;1098968
 [POI]
-Type=0x2a
+Type=0x2a09
 Label=THE WHOLE ENCHILADA
 StreetDesc=479 Papanui Rd, Chc/ Mexican restaurant
 Phone=+6433543344
@@ -74265,7 +74265,7 @@ Data0=(-44.87754,169.09223)
 
 ;1118286
 [POI]
-Type=0x2a
+Type=0x2a09
 Label=AMIGOS CAFE
 StreetDesc=34 Ardmore St, Wanaka/ Mexican Restaurant, Bar, Takeaways
 Phone=+6434437872
@@ -89439,10 +89439,10 @@ Data0=(-44.39655,171.25592)
 ;1127980
 [POI]
 Type=0x2e0b
-Label=STUDENTIT DUNEDIN
+Label=YOOBEE FREDERICKS ST
 StreetDesc=21 Frederick St, Dud/ Educational discounts, Apple computers, iPhone, iPod, iMac
-Phone=+6434719386
-zip=Mon-Fri 9am-5pm
+Phone=08004966233
+zip=Mon-Fri 9am-5:30pm, Sat 10am-3pm
 Data0=(-45.86801,170.50785)
 [END]
 
@@ -94482,21 +94482,21 @@ Data0=(-43.64022,172.48321)
 ;1130454
 [POI]
 Type=0x2e0b
-Label=MAGNUM MAC DUNEDIN
+Label=YOOBEE DUNEDIN
 StreetDesc=80 Crawford St, Dud/ Apple computers authorised sales and service centre. iPods,
-Phone=+6434771166
-zip=Mon-Fri 9am-5.30pm, Sat 10am-2pm
+Phone=08004966233
+zip=Mon-Fri 9am-5.30pm, Sat-Sun 10am-5pm
 Data0=(-45.88042,170.50150)
 [END]
 
 ;1130456
 [POI]
 Type=0x2e0b
-Label=MAGNUM MAC CHRISTCHURCH
-StreetDesc=200 Moorehouse Ave, Chc/ Head office. Apple computers authorised sales and servi
-Phone=+6433665454
-zip=Mon-Fri 9am-5.30pm, Sat & Sun 10am-5pm
-Data0=(-43.54029,172.63140)
+Label=YOOBEE CHRISTCHURCH
+StreetDesc=Unit 2, 213 Blenheim Rd, Riccarton, Chc/ Apple computers authorised sales and se
+Phone=08004966233
+zip=Mon-Fri 9am-5pm, Sat 10am-4pm, Sun 10am-
+Data0=(-43.53835,172.58993)
 [END]
 
 ;1130486
@@ -94683,7 +94683,7 @@ Data0=(-43.53189,172.63944)
 
 ;1130528
 [POI]
-Type=0x2a
+Type=0x2a09
 Label=THE FLYING BURRITO BROTHERS
 StreetDesc=Cnr New Regent St & Armagh St, Chc/ Mexican restaurant. Cantina & Tequileria, Ba
 Phone=+6433777626
@@ -99179,7 +99179,7 @@ Data0=(-43.53488,172.58986)
 
 ;1131343
 [POI]
-Type=0x2a
+Type=0x2a09
 Label=HEADLESS MEXICAN
 StreetDesc=43 Nayland St, Sumner, Chc/ Mexican Restaurant
 Data0=(-43.56970,172.75970)
@@ -103726,7 +103726,7 @@ Data0=(-43.52297,172.73278)
 
 ;1131927
 [POI]
-Type=0x2a
+Type=0x2a09
 Label=SOUTH OF THE BORDER
 StreetDesc=834 Colombo St, Chc/ Mexican Restaurant
 Data0=(-43.52500,172.63680)
@@ -112101,7 +112101,7 @@ Data0=(-41.27295,173.28611)
 
 ;1134971
 [POI]
-Type=0x2a
+Type=0x2a09
 Label=AMIGOS
 StreetDesc=13 Beach Rd, Tahunanui, Nelson/ Mexican restaurant, licensed
 Phone=+6435485692
@@ -203003,6 +203003,16 @@ Label=OFFICE SPOT ASHBURTON
 StreetDesc=605 East St, Ashburton/ Office supplies, stationery products
 Phone=+6433081868
 Data0=(-43.90016,171.75413)
+[END]
+
+;1189232
+[POI]
+Type=0x2f03
+Label=?ACCIDENTO PANELBEATERS QUEENSTOWN
+StreetDesc=205 Glenda Dr, Frankton Industrial Estate, Queenstown/ Automotive repairs, panel
+Phone=+6434429007
+zip=0730am - 5.00pm
+Data0=(-45.03116,168.66264)
 [END]
 
 ;1189233

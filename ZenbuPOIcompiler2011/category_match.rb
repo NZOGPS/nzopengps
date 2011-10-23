@@ -336,6 +336,7 @@ end
 '0x2a05' => 'Food - Deli Bakery',
 '0x2a07' => 'Food - Fast Food',
 '0x2a08' => 'Food - Italian',
+'0x2a09' => 'Food - Mexican',
 '0x2a0a' => 'Food - Pizza',
 '0x2a0b' => 'Food - Seafood',
 '0x2a0e' => 'Food - Cafe Diner',

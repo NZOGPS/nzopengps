@@ -339,6 +339,7 @@ end
 '0x2a09' => 'Food - Mexican',
 '0x2a0a' => 'Food - Pizza',
 '0x2a0b' => 'Food - Seafood',
+'0x2a0d' => 'Food - Bagel Donuts',
 '0x2a0e' => 'Food - Cafe Diner',
 '0x2a0f' => 'Food - French',
 '0x2b00' => 'Accommodation',

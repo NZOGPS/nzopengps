@@ -90535,7 +90535,7 @@ Data0=(-45.88149,170.48185)
 
 ;1128493
 [POI]
-Type=0x2f
+Type=0x2a0d
 Label=DINKUM DONUTS
 StreetDesc=22 Bremner St, Fairfield/ 
 Data0=(-45.90077,170.40230)
@@ -90543,7 +90543,7 @@ Data0=(-45.90077,170.40230)
 
 ;1128494
 [POI]
-Type=0x2f
+Type=0x2a0d
 Label=DINKUM DONUTS/RECAFFINATE
 StreetDesc=193 King Edward St, Dud/ 
 Data0=(-45.89463,170.49923)

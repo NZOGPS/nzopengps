@@ -346,6 +346,7 @@ end
 '0x2b01' => 'Accommodation - Hotel - Motel',
 '0x2b02' => 'Accommodation - Bed & Breakfast Inn',
 '0x2b03' => 'Accommodation - Camping RV Park',
+'0x2b04' => 'Accommodation - Resort',
 '0x2c00' => 'Attractions',
 '0x2c01' => 'Attractions - Amusement Theme Park',
 '0x2c02' => 'Attractions - Museum History',

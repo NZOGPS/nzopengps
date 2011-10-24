@@ -28137,7 +28137,7 @@ Data0=(-45.51283,170.12806)
 
 ;1088431
 [POI]
-Type=0x2d05
+Type=0x2b04
 Label=MILLBROOK RESORT & COUNTRY CLUB
 StreetDesc=Malaghans Rd, Arrowtown/ Luxury accommodation. 18 hole golf course
 Phone=+6434417000
@@ -28578,7 +28578,7 @@ Data0=(-44.24757,171.28540)
 
 ;1089460
 [POI]
-Type=0x2d05
+Type=0x2b04
 Label=TERRACE DOWNS HIGH COUNTRY RESORT & GOLF CLUB
 StreetDesc=Coleridge Rd, Rakaia Gorge, Darfield/ golf course
 Phone=+6433186943
@@ -63114,7 +63114,7 @@ Data0=(-43.49064,172.56529)
 
 ;1114234
 [POI]
-Type=0x2f
+Type=0x2b04
 Label=TAKARO PEACE RESORT
 StreetDesc=914 Takaro Rd, Te Anau, Invercargill/ 
 Phone=+6432491166
@@ -102335,7 +102335,7 @@ Data0=(-43.52328,172.65691)
 
 ;1131750
 [POI]
-Type=0x2b00
+Type=0x2b04
 Label=PEPPERS CLEARWATER RESORT
 StreetDesc=38 Clearwater Ave, Coutts Island, Chc 8051/ Accommodation, golf, property. The L
 Phone=+6433601000

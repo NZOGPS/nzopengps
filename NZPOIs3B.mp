@@ -17914,8 +17914,8 @@ Data0=(-43.53046,172.63265)
 [POI]
 Type=0x2f06
 Label=ANZ CENTRAL REGION,NELSON (B&A)
-StreetDesc=Cnr Hardy and Trafalgar Streets, Nelson/ Bank, ATM
-Phone=+6435462081
+StreetDesc=Cnr Hardy and Trafalgar Streets, Nelson/ Bank branch, ATM
+Phone=0800269296
 Data0=(-41.27445,173.28402)
 [END]
 
@@ -17923,8 +17923,8 @@ Data0=(-41.27445,173.28402)
 [POI]
 Type=0x2f06
 Label=ANZ GEORGE ST,DUNEDIN (B&A)
-StreetDesc=Cnr George and Hanover Streets, Dud/ Bank, ATM
-Phone=+6434749639
+StreetDesc=Cnr George and Hanover Streets, Dud/ Bank branch, ATM
+Phone=0800269296
 Data0=(-45.87001,170.50614)
 [END]
 
@@ -17951,8 +17951,8 @@ Data0=(-43.51833,172.65623)
 [POI]
 Type=0x2f06
 Label=ANZ ALEXANDRA (B&A)
-StreetDesc=66 Tarbert St, Alexandra/ Bank, ATM
-Phone=+6434402622
+StreetDesc=66 Tarbert St, Alexandra/ Bank branch, ATM
+Phone=0800269296
 Data0=(-45.25631,169.39283)
 [END]
 
@@ -17960,8 +17960,8 @@ Data0=(-45.25631,169.39283)
 [POI]
 Type=0x2f06
 Label=ANZ ASHBURTON (B&A)
-StreetDesc=242-246 East St, Ashburton/ Bank, ATM
-Phone=+6433078345
+StreetDesc=242-246 East St, Ashburton/ Bank branch, ATM
+Phone=0800269296
 Data0=(-43.90516,171.74693)
 [END]
 
@@ -17969,8 +17969,8 @@ Data0=(-43.90516,171.74693)
 [POI]
 Type=0x2f06
 Label=ANZ BALCLUTHA (B&A)
-StreetDesc=57 Clyde St, Balclutha/ Bank, ATM
-Phone=+6434184732
+StreetDesc=57 Clyde St, Balclutha/ Bank branch, ATM
+Phone=0800269296
 Data0=(-46.23866,169.73797)
 [END]
 
@@ -17978,8 +17978,8 @@ Data0=(-46.23866,169.73797)
 [POI]
 Type=0x2f06
 Label=ANZ BLENHEIM (B&A)
-StreetDesc=Cnr Queen and George Streets, Blenheim/ Bank, ATM
-Phone=+6435775870
+StreetDesc=Cnr Queen and George Streets, Blenheim/ Bank branch, ATM
+Phone=0800269296
 Data0=(-41.51431,173.95541)
 [END]
 
@@ -17987,8 +17987,8 @@ Data0=(-41.51431,173.95541)
 [POI]
 Type=0x2f06
 Label=ANZ DUNEDIN (B&A)
-StreetDesc=71 George St, Dud/ Bank, ATM
-Phone=+6434799507
+StreetDesc=71 George St, Dud/ Bank branch, ATM
+Phone=0800269296
 Data0=(-45.87296,170.50399)
 [END]
 
@@ -17996,8 +17996,8 @@ Data0=(-45.87296,170.50399)
 [POI]
 Type=0x2f06
 Label=ANZ GERALDINE (B&A)
-StreetDesc=8 Talbot St, Geraldine/ Bank, ATM
-Phone=+6436931082
+StreetDesc=8 Talbot St, Geraldine/ Bank branch, ATM
+Phone=0800269296
 Data0=(-44.09081,171.24323)
 [END]
 
@@ -18005,8 +18005,8 @@ Data0=(-44.09081,171.24323)
 [POI]
 Type=0x2f06
 Label=ANZ GORE (B&A)
-StreetDesc=37 Main St, Gore/ Bank, ATM
-Phone=+6432039213
+StreetDesc=37 Main St, Gore/ Bank branch, ATM
+Phone=0800269296
 Data0=(-46.09981,168.94574)
 [END]
 
@@ -18019,21 +18019,12 @@ Phone=+6437683024
 Data0=(-42.44891,171.21082)
 [END]
 
-;1061733
-[POI]
-Type=0x2f06
-Label=ANZ HOKITIKA (B&A)
-StreetDesc=36 Tainui St, Greymouth/ Bank, ATM
-Phone=+6437683025
-Data0=(-42.44891,171.21082)
-[END]
-
 ;1061740
 [POI]
 Type=0x2f06
-Label=ANZ HORNBY BRANCH (B&A)
+Label=ANZ HORNBY (B&A)
 StreetDesc=Shop 61, The Hub Hornby, 418 Main South Rd, Hornby, Chc/ Bank branch, ATM, Busin
-Phone=+6433491230
+Phone=0800269296
 zip=Mon-Wed, Fri-Sat 9am-4:30pm, Thu 9am-6:3
 Data0=(-43.54295,172.52419)
 [END]
@@ -18042,8 +18033,8 @@ Data0=(-43.54295,172.52419)
 [POI]
 Type=0x2f06
 Label=ANZ KAIAPOI (B&A)
-StreetDesc=168 Williams St, Kaiapoi/ Bank, ATM
-Phone=+6433279844
+StreetDesc=168 Williams St, Kaiapoi/ Bank branch, ATM
+Phone=0800269296
 Data0=(-43.38362,172.65694)
 [END]
 
@@ -18062,7 +18053,7 @@ Data0=(-43.51299,172.62214)
 Type=0x2f06
 Label=ANZ MOSGIEL (B&A)
 StreetDesc=122 Gordon Rd, Mosgiel/ Bank branch, ATM
-Phone=+6434899444
+Phone=0800269296
 Data0=(-45.87547,170.34830)
 [END]
 
@@ -18070,8 +18061,8 @@ Data0=(-45.87547,170.34830)
 [POI]
 Type=0x2f06
 Label=ANZ MOTUEKA (B&A)
-StreetDesc=197 High St, Motueka/ Bank, ATM
-Phone=+6435281404
+StreetDesc=197 High St, Motueka/ Bank branch, ATM
+Phone=0800269296
 Data0=(-41.11229,173.01180)
 [END]
 
@@ -18079,8 +18070,8 @@ Data0=(-41.11229,173.01180)
 [POI]
 Type=0x2f06
 Label=ANZ NELSON (B&A)
-StreetDesc=265  Trafalgar St, Nelson/ Bank, ATM
-Phone=+6435457648
+StreetDesc=265 Trafalgar St, Nelson/ Bank branch, ATM
+Phone=0800269296
 Data0=(-41.27408,173.28411)
 [END]
 
@@ -18098,8 +18089,8 @@ Data0=(-43.50806,172.72662)
 [POI]
 Type=0x2f06
 Label=ANZ OAMARU (B&A)
-StreetDesc=99 Thames St, Oamaru/ Bank, ATM
-Phone=+6434331700
+StreetDesc=99 Thames St, Oamaru/ Bank branch, ATM
+Phone=0800269296
 Data0=(-45.09919,170.97057)
 [END]
 
@@ -18107,8 +18098,8 @@ Data0=(-45.09919,170.97057)
 [POI]
 Type=0x2f06
 Label=ANZ PAPANUI (B&A)
-StreetDesc=32 Main North Rd, Papanui, Chc/ Bank, ATM
-Phone=+6433520724
+StreetDesc=32 Main North Rd, Papanui, Chc/ Bank branch, ATM
+Phone=0800269296
 Data0=(-43.49534,172.60904)
 [END]
 
@@ -18116,8 +18107,8 @@ Data0=(-43.49534,172.60904)
 [POI]
 Type=0x2f06
 Label=ANZ QUEENSTOWN (B&A)
-StreetDesc=81 Beach St, Queenstown/ Bank, ATM
-Phone=+6434411655
+StreetDesc=81 Beach St, Queenstown/ Bank branch, ATM
+Phone=0800269296
 Data0=(-45.03278,168.65799)
 [END]
 
@@ -18125,8 +18116,8 @@ Data0=(-45.03278,168.65799)
 [POI]
 Type=0x2f06
 Label=ANZ RANGIORA (B&A)
-StreetDesc=85 High St, Rangiora/ Bank, ATM
-Phone=+6433132626
+StreetDesc=85 High St, Rangiora/ Bank branch, ATM
+Phone=0800269296
 Data0=(-43.30350,172.59569)
 [END]
 
@@ -18134,7 +18125,8 @@ Data0=(-43.30350,172.59569)
 [POI]
 Type=0x2f06
 Label=ANZ RICCARTON (B&A)
-StreetDesc=37-41 Rotherham St, Riccarton, Chc/ Bank, ATM
+StreetDesc=37-41 Rotherham St, Riccarton, Chc/ Bank branch, ATM
+Phone=0800269296
 Data0=(-43.53032,172.60017)
 [END]
 
@@ -18142,8 +18134,8 @@ Data0=(-43.53032,172.60017)
 [POI]
 Type=0x2f06
 Label=ANZ RICHMOND (B&A)
-StreetDesc=258 Queen St, Richmond, Nelson/ Bank, ATM
-Phone=+6435439425
+StreetDesc=258 Queen St, Richmond, Nelson/ Bank branch, ATM
+Phone=0800269296
 Data0=(-41.33873,173.18444)
 [END]
 
@@ -18151,8 +18143,8 @@ Data0=(-41.33873,173.18444)
 [POI]
 Type=0x2f06
 Label=ANZ SOUTH DUNEDIN (B&A)
-StreetDesc=166 King Edward St, South Dud/ Bank, ATM
-Phone=+6434562805
+StreetDesc=166 King Edward St, South Dud/ Bank branch, ATM
+Phone=0800269296
 Data0=(-45.89392,170.49912)
 [END]
 
@@ -18169,8 +18161,8 @@ Data0=(-43.54532,172.63650)
 [POI]
 Type=0x2f06
 Label=ANZ TEMUKA (B&A)
-StreetDesc=93 King St, Temuka/ Bank, ATM
-Phone=+6436156482
+StreetDesc=93 King St, Temuka/ Bank branch, ATM
+Phone=0800269296
 Data0=(-44.24466,171.27749)
 [END]
 
@@ -18178,8 +18170,8 @@ Data0=(-44.24466,171.27749)
 [POI]
 Type=0x2f06
 Label=ANZ TIMARU (B&A)
-StreetDesc=211 Stafford St, Timaru/ Bank, ATM
-Phone=+6436842407
+StreetDesc=211 Stafford St, Timaru/ Bank branch, ATM
+Phone=0800269296
 Data0=(-44.39563,171.25304)
 [END]
 
@@ -18187,8 +18179,8 @@ Data0=(-44.39563,171.25304)
 [POI]
 Type=0x2f06
 Label=ANZ WAIMATE (B&A)
-StreetDesc=56 Queen St, Waimate/ Bank, ATM
-Phone=+6436896633
+StreetDesc=56 Queen St, Waimate/ Bank branch, ATM
+Phone=0800269296
 Data0=(-44.73278,171.04807)
 [END]
 
@@ -18196,8 +18188,8 @@ Data0=(-44.73278,171.04807)
 [POI]
 Type=0x2f06
 Label=ANZ WESTPORT (B&A)
-StreetDesc=155 Palmerston St, Westport/ Bank, ATM
-Phone=+6437888102
+StreetDesc=155 Palmerston St, Westport/ Bank branch, ATM
+Phone=0800269296
 Data0=(-41.75602,171.59912)
 [END]
 
@@ -32804,15 +32796,6 @@ Phone=+6434770058
 Data0=(-45.87186,170.50566)
 [END]
 
-;1095348
-[POI]
-Type=0x2e
-Label=GUTHRIE BOWRON ASHBURTON
-StreetDesc=498 East St, Ashburton/ home decorating specialists, paint, wallpaper, curtains,
-Phone=+6433084099
-Data0=(-43.90154,171.75253)
-[END]
-
 ;1095349
 [POI]
 Type=0x2e
@@ -32835,9 +32818,9 @@ Data0=(-41.51307,173.95425)
 [POI]
 Type=0x2e
 Label=GUTHRIE BOWRON CROMWELL
-StreetDesc=Stage Post Blg, Murray Tce, Cromwell/ home decorating specialists, paint, wallpa
+StreetDesc=24 McNulty Rd, Cromwell, 9310/ home decorating specialists, paint, wallpaper, cu
 Phone=+6434451619
-Data0=(-45.03753,169.19553)
+Data0=(-45.05041,169.18984)
 [END]
 
 ;1095355
@@ -32880,9 +32863,9 @@ Data0=(-46.40876,168.35352)
 [POI]
 Type=0x2e
 Label=GUTHRIE BOWRON MOTUEKA
-StreetDesc=177 High St, Motueka/ home decorating specialists, paint, wallpaper, curtains, b
+StreetDesc=123 High St, Motueka, 7120/ home decorating specialists, paint, wallpaper, curta
 Phone=+6435288986
-Data0=(-41.11165,173.01133)
+Data0=(-41.11030,173.01141)
 [END]
 
 ;1095376
@@ -32924,9 +32907,9 @@ Data0=(-43.30398,172.58955)
 ;1095389
 [POI]
 Type=0x2e
-Label=GUTHRIE BOWRON RICCARTON
-StreetDesc=7d Mandeville St, Riccarton/ home decorating specialists, paint, wallpaper, curt
-Phone=+6433480721
+Label=HUBBERS GUTHRIE BOWRON
+StreetDesc=295 Blenheim Rd, Upper Riccarton, Chc, 8041/ home decorating specialists, paint,
+Phone=+6439643629
 Data0=(-43.53640,172.60687)
 [END]
 
@@ -103334,7 +103317,7 @@ Data0=(-43.53300,172.63931)
 [POI]
 Type=0x2f
 Label=STOURBRIDGE FISH AND CHIPS
-StreetDesc=5 Stourbridge St, Barrington, Chc/ Best in south CHCH
+StreetDesc=5 Stourbridge St, Barrington, Chc/ Best Fish & Chips in South CHCH
 Phone=+6433398388
 Data0=(-43.56023,172.61296)
 [END]
@@ -144099,7 +144082,7 @@ Data0=(-41.54213,172.87875)
 
 ;1152840
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=WAIHORA CLAY TARGET CLUB
 StreetDesc=603 Ridge Rd, Motukarara, Canterbury/ 
 Data0=(-43.73302,172.57141)
@@ -144140,7 +144123,7 @@ Data0=(-45.92751,170.39223)
 
 ;1152850
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=DUNEDIN CLAY TARGET CLUB
 StreetDesc=Waldronville/ 
 Data0=(-45.92686,170.39542)
@@ -202381,7 +202364,7 @@ Data0=(-43.50813,172.72522)
 
 ;1189600
 [POI]
-Type=0x2f
+Type=0x2F02
 Label=ASCOT RENTAL CARS
 StreetDesc=67 Coleridge St, Sydenham, Chc/ Rental Cars/Campervans Hire Christchurch
 Phone=+6433772622
@@ -202417,7 +202400,7 @@ Data0=(-43.53870,172.52653)
 
 ;1189622
 [POI]
-Type=0x2f
+Type=0x2f03
 Label=CLUTCH SYSTEMS (NZ) LTD
 StreetDesc=164 Hazeldean Rd, Sydenham, Chc, New Zealand/ Christchurch Clutch Systems, clutc
 Phone=+6433668442
@@ -202472,7 +202455,7 @@ Data0=(-45.87809,170.49732)
 
 ;1189653
 [POI]
-Type=0x2f
+Type=0x2F07
 Label=MOTORZONE (CAR SALES CHRISTCHURCH)
 StreetDesc=121 Fitzgerald Ave, Chc, New Zealand/ 8 Seater Vans, Family Vehicles, Station Wa
 Phone=+6433656715
@@ -202547,7 +202530,7 @@ Data0=(-43.55577,172.68480)
 
 ;1189713
 [POI]
-Type=0x2f
+Type=0x2e
 Label=CORPORATE CONSUMABLES
 StreetDesc=1/142 Pascoe St Tahunanui Nelson 7011/ Corporate Consumables is New Zealands lar
 Phone=+6435471578
@@ -202557,7 +202540,7 @@ Data0=(-41.29804,173.23878)
 
 ;1189714
 [POI]
-Type=0x2f
+Type=0x2e
 Label=CORPORATE CONSUMABLES
 StreetDesc=72 Byron St Sydenham Chc 8140/ Corporate Consumables is New Zealands largest 100
 Phone=+6433655060
@@ -202567,7 +202550,7 @@ Data0=(-43.54278,172.64335)
 
 ;1189715
 [POI]
-Type=0x2f
+Type=0x2e
 Label=CORPORATE CONSUMABLES
 StreetDesc=27 Waverley St Dud 9012/ Corporate Consumables is New Zealands largest 100% Kiwi
 Phone=+6434559661
@@ -202595,7 +202578,7 @@ Data0=(-44.00200,171.68477)
 
 ;1189826
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=BELFAST PONY CLUB
 StreetDesc=Spencerville Rd/ North Canterbury Pony Club
 Phone=+6433139974
@@ -202819,10 +202802,29 @@ Data0=(-41.27300,173.28495)
 
 ;1189904
 [POI]
-Type=0x2f
+Type=0x2F07
 Label=JUST TOYMOTA AUTOPARTS
 StreetDesc=8 Calgary Place, Hornby, Chc, New Zealand/ Online Toyota Parts Shop Toyota Car P
 Phone=+6433664291
 Data0=(-43.55577,172.51471)
+[END]
+
+;1189921
+[POI]
+Type=0x2f
+Label=CONTEXT ARCHITECTS CHRISTCHURCH
+StreetDesc=1/235 Lincoln Rd, Addington, Chc, 8024/ Architects, Architecture, Interior Desig
+Phone=+6435501550
+Data0=(-43.54537,172.60795)
+[END]
+
+;1189924
+[POI]
+Type=0x2e
+Label=WEATHER WISE SHADE SYSTEMS OTAGO
+StreetDesc=553 Kaikorai Valley Rd Dud 9011 New Zealand/ shade sails, awnings, umbrellas, ca
+Phone=+6434885675
+zip=8.00am - 5.00pm
+Data0=(-45.88868,170.46275)
 [END]
 

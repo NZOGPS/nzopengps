@@ -202642,7 +202642,7 @@ Data0=(-45.87701,170.50374)
 
 ;1189852
 [POI]
-Type=0x2f
+Type=0x2a02
 Label=SUSHI YA BURNSIDE
 StreetDesc=259 Greers Rd Burnside Chc/ We offer a variety of delicious and healthy Sushi Me
 Phone=+6433593003

@@ -40532,12 +40532,11 @@ Data0=(-41.27154,173.28679)
 
 ;1101156
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=ANCHORAGE WINES NEW ZEALAND LTD
-StreetDesc=Flett Rd, Lower Moutere, Nelson/ 
-Phone=+6435267252
-zip=1100am - 0400pm
-Data0=(-41.17198,172.99930)
+StreetDesc=202 Umukuri Rd, Brooklyn, Motueka/ Winery
+Phone=+6435288350
+Data0=(-41.09044,172.97305)
 [END]
 
 ;1101160
@@ -107028,7 +107027,7 @@ Data0=(-44.39511,171.25324)
 Type=0x2e
 Label=TAKE NOTE WESTPORT
 StreetDesc=106 Palmerston St, Westport/ Books, Magazines, Cards, NZ Post
-Phone=+6437898731
+Phone=+37898731
 Data0=(-41.75253,171.59789)
 [END]
 
@@ -163072,8 +163071,9 @@ Data0=(-46.40905,168.35042)
 [POI]
 Type=0x2f
 Label=FAIRMAID CHANCE & CRAWFORD
-StreetDesc=Investment House, 470 Moray Place, Dud/ Optometrist. Eye exams, frames, glasses,
+StreetDesc=Investment House, 470 Moray Place, Dud/ Improve your vision and look stylish wit
 Phone=+6434779559
+zip=Monday - Friday 8.30am - 5.30pm
 Data0=(-45.87553,170.50352)
 [END]
 
@@ -170518,8 +170518,9 @@ Data0=(-43.51073,172.61956)
 [POI]
 Type=0x2f
 Label=LEN GLASS ORTHODONTIST LTD
-StreetDesc=137 Cambridge Terrace, Chc/ 
-Data0=(-43.53071,172.63265)
+StreetDesc=215 Wooldridge Rd, Harewood, Chc/ 
+Phone=+6433585079
+Data0=(-43.48842,172.56590)
 [END]
 
 ;1167913
@@ -190714,10 +190715,10 @@ Data0=(-43.48315,172.71981)
 ;1177000
 [POI]
 Type=0x2c00
-Label=?GLACIER SOUTHERN LAKES HELICOPTER TOURS
-StreetDesc=The Helicopter Base, 2 Lucas Place, Queenstown Airport/ Awesome scenic helicopte
+Label=GLACIER SOUTHERN LAKES HELICOPTER TOURS
+StreetDesc=35 Lucas Place, Frankton, Queenstown Airport 9300/ Awesome scenic helicopter fli
 Phone=+34423016
-Data0=(-45.02139,168.73542)
+Data0=(-45.02169,168.73963)
 [END]
 
 ;1177006
@@ -201487,9 +201488,9 @@ Data0=(-42.40005,173.68089)
 ;1189141
 [POI]
 Type=0x2f
-Label=PAINT PAPER DESIGN
+Label=ANDREUS PAINT PAPER DESIGN
 StreetDesc=9 Bridger St Maryhill Dud 9011 New Zealand/ Painting, paperhanging, wallpapering
-Phone=+6427666883
+Phone=+6427221848
 zip=8.00am - 5.00pm Monday-Friday
 Data0=(-45.88911,170.47720)
 [END]
@@ -202826,5 +202827,41 @@ StreetDesc=553 Kaikorai Valley Rd Dud 9011 New Zealand/ shade sails, awnings, um
 Phone=+6434885675
 zip=8.00am - 5.00pm
 Data0=(-45.88868,170.46275)
+[END]
+
+;1189930
+[POI]
+Type=0x2b01
+Label=RIVERLEA MOTEL
+StreetDesc=46 – 48 Hokonui Dr, Gore, New Zealand/ Gore Motel Accommodation Mataura River So
+Phone=+6432083130
+Data0=(-46.09477,168.94508)
+[END]
+
+;1189932
+[POI]
+Type=0x2f
+Label=PAUL RENWICK JOINERY LIMITED
+StreetDesc=9 Paragon Place, Sockburn, Chc, New Zealand/ Award Winning Kitchen Joinery Desig
+Phone=+6433497049
+Data0=(-43.53591,172.54379)
+[END]
+
+;1189936
+[POI]
+Type=0x2f
+Label=CONQUEROR INTERNATIONAL LTD
+StreetDesc=9 Francella St, Bromley, Chc 8642/ Sectional Doors, Roller Garage Doors, Shutter
+Phone=+6433848137
+Data0=(-43.53692,172.70283)
+[END]
+
+;1189937
+[POI]
+Type=0x2f
+Label=DIAMOND GRINDING SERVICES
+StreetDesc=17a Te Rama Place, Wainoni, Chc, New Zealand/ Concrete Grinding Concrete Polishi
+Phone=+6433815010
+Data0=(-43.51608,172.68914)
 [END]
 

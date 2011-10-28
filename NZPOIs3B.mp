@@ -64046,9 +64046,9 @@ Data0=(-43.53025,172.60427)
 
 ;1114995
 [POI]
-Type=0x2f
-Label=TOP 10 HOLIDAY PARKS
-StreetDesc=L 1, 294 Montreal St, Chc/ 
+Type=0x2b01
+Label=TOP 10 HOLIDAY PARKS - NZ ACCOMMODATION
+StreetDesc=L 1, 294 Montreal St, Chc/ Holiday park, campground, motorhomes, campervans, ten
 Phone=+6433779900
 Data0=(-43.53147,172.63078)
 [END]
@@ -152845,14 +152845,6 @@ StreetDesc=351 Frankton Rd, Queenstown/ Accommodation
 Data0=(-45.02929,168.68700)
 [END]
 
-;1158697
-[POI]
-Type=0x2b00
-Label=AMURI HOUSE
-StreetDesc=10 Amuri Ave, Hanmer Springs/ Accommodation
-Data0=(-42.52634,172.82865)
-[END]
-
 ;1158702
 [POI]
 Type=0x2b02
@@ -196216,6 +196208,15 @@ zip=24 Hours
 Data0=(-46.10260,168.94286)
 [END]
 
+;1180110
+[POI]
+Type=0x2a
+Label=AMURI HOUSE HANMER SPRINGS BOUTIQUE MOTEL ACCOMMODATION
+StreetDesc=10 Amuri Ave, Hanmer Springs North Canterbury New Zealand/ Hanmer Springs Luxury
+Phone=+6433157985
+Data0=(-42.52638,172.82856)
+[END]
+
 ;1180112
 [POI]
 Type=0x2c00
@@ -202863,5 +202864,268 @@ Label=DIAMOND GRINDING SERVICES
 StreetDesc=17a Te Rama Place, Wainoni, Chc, New Zealand/ Concrete Grinding Concrete Polishi
 Phone=+6433815010
 Data0=(-43.51608,172.68914)
+[END]
+
+;1189941
+[POI]
+Type=0x2f
+Label=QUEENSTOWN FISHING CHARTERS
+StreetDesc=7 Sledmere Dr, Queenstown, New Zealand/ Queenstown Fishing Charters Cruises Fish
+Phone=+6434411330
+Data0=(-44.99840,168.75430)
+[END]
+
+;1189942
+[POI]
+Type=0x2b03
+Label=TOP 10 HOLIDAY PARK - PICTON, MARLBOROUGH
+StreetDesc=70-78 Waikawa Rd Picton/ Holiday park, campground, motorhomes, campervans, tent 
+Phone=0800867836
+Data0=(-41.28899,174.01432)
+[END]
+
+;1189943
+[POI]
+Type=0x2b03
+Label=TOP 10 HOLIDAY PARK - BLENHEIM, MARLBOROUGH
+StreetDesc=78 Grove Rd Blenheim/ Holiday park, campground, motorhomes, campervans, tent sit
+Phone=0800867836
+Data0=(-41.50198,173.96108)
+[END]
+
+;1189944
+[POI]
+Type=0x2b03
+Label=TOP 10 HOLIDAY PARK - RICHMOND, NELSON
+StreetDesc=29 Gladstone Rd Richmond Nelson/ Holiday park, campground, motorhomes, campervan
+Phone=0800867836
+Data0=(-41.33948,173.17744)
+[END]
+
+;1189945
+[POI]
+Type=0x2b03
+Label=TOP 10 HOLIDAY PARK - MOTUEKA
+StreetDesc=10 Fearon St Motueka/ Holiday park, campground, motorhomes, campervans, tent sit
+Phone=0800867836
+Data0=(-41.10444,173.01352)
+[END]
+
+;1189946
+[POI]
+Type=0x2b03
+Label=TOP 10 HOLIDAY PARK - POHARA BEACH, GOLDEN BAY
+StreetDesc=809 Abel Tasman Dr Pohara, Takaka/ Holiday park, campground, motorhomes, camperv
+Phone=0800867836
+Data0=(-40.83331,172.88479)
+[END]
+
+;1189951
+[POI]
+Type=0x2b03
+Label=TOP 10 HOLIDAY PARK - CROMWELL, CENTRAL OTAGO
+StreetDesc=1 Alpha St Cromwell/ Holiday park, campground, motorhomes, campervans, tent site
+Phone=0800867836
+Data0=(-45.03882,169.21508)
+[END]
+
+;1189952
+[POI]
+Type=0x2b03
+Label=TOP 10 HOLIDAY PARK - CREEKSYDE, QUEENSTOWN
+StreetDesc=54 Robins Rd Queenstown/ Holiday park, campground, motorhomes, campervans, tent 
+Phone=0800867836
+Data0=(-45.02599,168.66052)
+[END]
+
+;1189953
+[POI]
+Type=0x2b03
+Label=TOP 10 HOLIDAY PARK - SHOTOVER, QUEENSTOWN
+StreetDesc=70 Arthurs Point Rd Arthurs Point Queenstown/ Holiday park, campground, motorhom
+Phone=0800867836
+Data0=(-44.98452,168.67736)
+[END]
+
+;1189954
+[POI]
+Type=0x2b03
+Label=TOP 10 HOLIDAY PARK - TE ANAU, FIORDLAND
+StreetDesc=128 Te Anau Terrace Te Anau/ Holiday park, campground, motorhomes, campervans, t
+Phone=0800867836
+Data0=(-45.41470,167.70830)
+[END]
+
+;1189955
+[POI]
+Type=0x2b03
+Label=TOP 10 HOLIDAY PARK - WANAKA
+StreetDesc=217 Mount Aspiring Rd Wanaka/ Holiday park, campground, motorhomes, campervans, 
+Phone=0800867836
+Data0=(-44.69908,169.10116)
+[END]
+
+;1189959
+[POI]
+Type=0x2f
+Label=ROSS LANDSCAPING
+StreetDesc=285 Centaurus Rd, Chc/ Christchurch landscaping services
+Phone=+6433327147
+Data0=(-43.56291,172.66179)
+[END]
+
+;1189963
+[POI]
+Type=0x2f
+Label=WEDDERBURN SCALES LTD - NELSON
+StreetDesc=Unit 8, 29 Parkers Rd, Tahuanui, Nelson/ Wedderburn has branches nationwide for 
+Phone=+6435464525
+Data0=(-41.29127,173.24341)
+[END]
+
+;1189964
+[POI]
+Type=0x2f
+Label=WEDDERBURN SCALES LTD - CHRISTCHURCH
+StreetDesc=84 Carmen Rd, Hornby, Chc/ Wedderburn has branches nationwide for Scales & Weigh
+Phone=+6433430095
+Data0=(-43.53627,172.52994)
+[END]
+
+;1189965
+[POI]
+Type=0x2f
+Label=WEDDERBURN SCALES LTD - DUNEDIN
+StreetDesc=271 Hillside Rd, South Dud/ Wedderburn has branches nationwide offering Scales &
+Phone=+6434663053
+Data0=(-45.89472,170.49509)
+[END]
+
+;1189966
+[POI]
+Type=0x2f
+Label=PROPELLOR PROPERTY INVESTMENT CHRISTCHURCH
+StreetDesc=11/142 Park Terrace Chc/ Property investment, real estate investment, investment
+Phone=0800932584
+Data0=(-43.52117,172.62679)
+[END]
+
+;1189969
+[POI]
+Type=0x2f
+Label=HYDRAQUIP
+StreetDesc=51 Durham St, Chc, New Zealand/ Industrial Cleaning Systems, Karcher Water Blast
+Phone=+6433661907
+Data0=(-43.54510,172.63364)
+[END]
+
+;1189973
+[POI]
+Type=0x2f0c
+Label=WAIKAWA MARINA TOILETS
+StreetDesc=Marina Dr, Waikawa Bay/ Toilet
+Data0=(-41.26552,174.03660)
+[END]
+
+;1189974
+[POI]
+Type=0x2f0c
+Label=WAIKAWA MARINA TOILETS
+StreetDesc=Marina Dr, Waikawa Bay/ Toilet
+zip=6am-7pm
+Data0=(-41.26343,174.03772)
+[END]
+
+;1189975
+[POI]
+Type=0x2f0c
+Label=WAIKAWA MARINA TOILETS
+StreetDesc=Beach Rd, Waikawa Bay/ Toilet
+Data0=(-41.26702,174.03967)
+[END]
+
+;1189976
+[POI]
+Type=0x2f0c
+Label=WAIKAWA BAY TOILETS
+StreetDesc=Waikawa Rd, Waikawa Bay/ Toilet
+Data0=(-41.26707,174.04747)
+[END]
+
+;1189977
+[POI]
+Type=0x2f0c
+Label=ENDEAVOUR PARK TOILETS
+StreetDesc=Admiralty Pl, Waikawa/ Toilet
+Data0=(-41.27650,174.02452)
+[END]
+
+;1189978
+[POI]
+Type=0x2f0c
+Label=PICTON FORESHORE TOILETS
+StreetDesc=London Qy, Picton/ Toilet
+Data0=(-41.28915,174.00873)
+[END]
+
+;1189979
+[POI]
+Type=0x4700
+Label=WAIKAWA MARINA BOAT RAMP
+StreetDesc=Beach Rd, Waikawa/ Boat Ramp
+Data0=(-41.26642,174.03992)
+[END]
+
+;1189980
+[POI]
+Type=0x2c00
+Label=WAIKAWA MARINA GAS BBQ
+StreetDesc=Marina Dr, Waikawa/ BBQ/Barbeque
+Data0=(-41.26640,174.03633)
+[END]
+
+;1189982
+[POI]
+Type=0x2F02
+Label=RENTAL CARS NEW ZEALAND CHRISTCHURCH
+StreetDesc=568 Wairakei Rd Chc/ Car hire, car rental, low cost car rental, Christchurch car
+Phone=0800888358
+Data0=(-43.48828,172.56285)
+[END]
+
+;1189984
+[POI]
+Type=0x2F02
+Label=RENTAL CARS NEW ZEALAND PICTON
+StreetDesc=11a Akl St Picton/ Car hire, car rental, low cost car rental, Picton car rental,
+Phone=0800888573
+Data0=(-41.28907,174.00538)
+[END]
+
+;1189985
+[POI]
+Type=0x2f
+Label=HAEMOPHILIA FOUNDATION
+StreetDesc=4 Washington Way, Chc 8011/ Haemophilia Foundation of New Zealand
+Phone=+6433717477
+Data0=(-43.54050,172.64455)
+[END]
+
+;1189988
+[POI]
+Type=0x2f
+Label=SOUTHFREEZE REFRIGERATION LTD
+StreetDesc=Unit 9, 12 Newtown St, Bromley, Chc, New Zealand/ Christchurch refrigeration air
+Phone=+6433843374
+Data0=(-43.54170,172.69846)
+[END]
+
+;1189990
+[POI]
+Type=0x2f
+Label=SHEFFIELD CRESCENT PANEL AND PAINT
+StreetDesc=38 Sheffield Cres Burnside Chc/ Panel Beaters Christchurch Paint Panel Beating
+Phone=+6433587165
+Data0=(-43.48948,172.56254)
 [END]
 

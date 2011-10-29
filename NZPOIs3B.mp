@@ -29388,7 +29388,7 @@ Data0=(-45.18656,169.31579)
 
 ;1091665
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=AL PARK VIEW MOTEL
 StreetDesc=12 Bantry St, Alexandra 9320, Central Otago./ Accommodation, 8 x self-contained.
 Phone=+6434487400
@@ -29433,9 +29433,9 @@ Data0=(-45.25026,169.38728)
 
 ;1091700
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=ANDERSON PARK MOTELS
-StreetDesc=9 Gair Ave, Cromwell/ Accommodation, spacious grounds, quiet area.  Self-contain
+StreetDesc=9 Gair Ave, Cromwell/ Accommodation, spacious grounds, quiet area. Self-containe
 Phone=+6434450321
 Data0=(-45.04550,169.19432)
 [END]
@@ -29469,7 +29469,7 @@ Data0=(-45.03817,169.19896)
 
 ;1091728
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=CROMWELL MOTEL
 StreetDesc=6 Gair Ave, Cromwell, Central Otago/ Accommodation, self-contained units, 1 or 2
 Phone=+6434450373
@@ -29496,7 +29496,7 @@ Data0=(-45.03798,169.19953)
 
 ;1091756
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=ROXBURGH MOTELS
 StreetDesc=1 Liddle St, Roxburgh 9500, Central Otago/ Accommodation. Zenbu Wi-Fi wireless i
 Phone=+6434468093
@@ -32714,7 +32714,7 @@ Data0=(-42.18788,172.22026)
 
 ;1094907
 [POI]
-Type=0x2a
+Type=0x2d02
 Label=OWEN RIVER TAVERN AND MOTEL
 StreetDesc=1567 Kawatiri Murchison Highway, Owen River, Murchison, Nelson 7077/ A friendly,
 Phone=+6435239273
@@ -35997,7 +35997,7 @@ Data0=(-43.55633,172.70438)
 
 ;1097520
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=ALPINE GLACIER MOTEL
 StreetDesc=17 Cron St, Franz Josef, Westland, West Coast/ Accommodation, motor lodge, no 08
 Phone=+6437520226
@@ -73179,7 +73179,7 @@ Data0=(-44.68189,169.13289)
 
 ;1117778
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=RANFURLY MOTELS
 StreetDesc=1 Davis Ave, Ranfurly/ Accommodation, family, [full kitchens], Zenbu Wi-Fi wirel
 Phone=+6434449383
@@ -73421,7 +73421,7 @@ Data0=(-43.15350,172.73012)
 
 ;1117859
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=ADELPHI MOTEL
 StreetDesc=49 Papanui Rd, Papanui-St Albans, Chc/ Accommodation, Zenbu Wi-Fi wireless broad
 Phone=0800335560
@@ -73513,7 +73513,7 @@ Data0=(-45.03451,168.67748)
 
 ;1117972
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=ARTHUR'S PASS ALPINE MOTEL
 StreetDesc=Main West Rd, Arthur's Pass Village, Arthur's Pass, Great Trans Alpine Highway./
 Phone=+6433189233
@@ -73784,7 +73784,7 @@ Data0=(-43.89673,171.75776)
 
 ;1118248
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=ASPEN COURT MOTEL
 StreetDesc=10 MacKenzie Dr, Twizel/ Accommodation, Zenbu Wi-Fi wireless broadband internet
 Phone=+6434350274
@@ -73793,7 +73793,7 @@ Data0=(-44.26083,170.09885)
 
 ;1118251
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=BUCKINGHAM COURT MOTEL
 StreetDesc=242 Fitzgerald Ave, Richmond, Chc 8013, Canterbury/ Accommodation, Zenbu Wi-Fi w
 Phone=+6433777059
@@ -73802,7 +73802,7 @@ Data0=(-43.52542,172.65128)
 
 ;1118252
 [POI]
-Type=0x2a
+Type=0x2b01
 Label=ASTON COURT MOTEL
 StreetDesc=72 Main St, State Highway 1, Blenheim 7321/ Accommodation, Superior modern groun
 Data0=(-41.51343,173.96742)
@@ -73878,7 +73878,7 @@ Data0=(-44.68957,170.42275)
 
 ;1118267
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=ASPEN ON KING MOTEL AND RESTAURANT
 StreetDesc=51 King St Timaru/ dining, food, lodging, accommodation
 Phone=+6436883054
@@ -73888,7 +73888,7 @@ Data0=(-44.40695,171.25210)
 
 ;1118269
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=BAYFIELD MOTELS
 StreetDesc=210 Musselburgh Rise, Andersons Bay, Dud/ Accommodation, full kitchen, Sky TV
 Phone=+6434550756
@@ -74202,7 +74202,7 @@ Data0=(-42.46810,171.19086)
 [POI]
 Type=0x2b01
 Label=HERITAGE COURT MOTEL
-StreetDesc=50 Thomson St,  Invercargill/ Accommodation, Zenbu Wi-Fi wireless broadband inte
+StreetDesc=50 Thomson St, Invercargill/ Accommodation, Zenbu Wi-Fi wireless broadband inter
 Phone=+6432147911
 Data0=(-46.40310,168.34857)
 [END]
@@ -85782,7 +85782,7 @@ Data0=(-45.41813,167.71748)
 
 ;1122171
 [POI]
-Type=0x2b00
+Type=0x2b02
 Label=BALMORAL LODGE MOTEL
 StreetDesc=24 York St, Queenstown/ Luxury bed & breakfast accommodation
 Phone=+6434427209
@@ -86305,7 +86305,7 @@ Data0=(-44.24721,171.28102)
 [POI]
 Type=0x2b01
 Label=AMROSS MOTEL
-StreetDesc=660 George St, Dud North/ High quality accommodation, kitchen, spa bath,  Zenbu 
+StreetDesc=660 George St, Dud North/ High quality accommodation, kitchen, spa bath, Zenbu W
 Phone=+6434718924
 Data0=(-45.86324,170.50997)
 [END]
@@ -92977,7 +92977,7 @@ Data0=(-45.59576,170.67015)
 
 ;1128853
 [POI]
-Type=0x2a
+Type=0x2d02
 Label=WAIKOUAITI TAVERN & MOTEL
 StreetDesc=156 Beach St Waikouaiti/ bar, restaurant, motel accommodation
 Data0=(-45.60940,170.67121)
@@ -93442,7 +93442,7 @@ Data0=(-43.52596,172.63677)
 
 ;1130284
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=AVENUE MOTEL
 StreetDesc=473 Thames Highway, Oamaru/ Accommodation, Zenbu Wi-Fi wireless broadband intern
 Phone=+6434370091
@@ -113817,7 +113817,7 @@ Data0=(-43.29066,172.59850)
 
 ;1137326
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=SIERRA BEACHFRONT MOTEL
 StreetDesc=160 Esplanade, Kaikoura/ Accommodation, Zenbu Wi-Fi wireless internet, cheap, no
 Phone=+6433195622
@@ -118508,7 +118508,7 @@ Data0=(-43.46529,170.01742)
 
 ;1138550
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=ASPIRING COURT MOTEL & HAAST LODGE
 StreetDesc=Marks Rd, Haast/ Motel accommodation, budget rooms & motor park, restaurant
 Phone=0800500703
@@ -132435,7 +132435,7 @@ Data0=(-43.03544,172.81205)
 
 ;1146363
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=SEABREEZE MOTELS
 StreetDesc=28 The Bay Hill, Timaru/ Accommodation. Zenbu wireless internet, low cost, no ti
 Phone=+6436843119
@@ -137280,7 +137280,7 @@ Data0=(-46.45135,169.66063)
 
 ;1147235
 [POI]
-Type=0x2f
+Type=0x2b01
 Label=PAPATOWAI MOTELS AND STORE
 StreetDesc=2501 Papatowai Highway, Papatowai/ 
 Data0=(-46.55771,169.46881)
@@ -138682,7 +138682,7 @@ Data0=(-43.54020,172.61884)
 
 ;1148973
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=ALPINE VIEW MOTEL
 StreetDesc=146 Beach Rd, Kaikoura/ Accommodation. Zenbu Wi-Fi wireless internet, low cost, 
 Phone=+6433195429
@@ -139509,7 +139509,7 @@ Data0=(-46.14067,168.32574)
 
 ;1150492
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=ESPLANADE MOTELS
 StreetDesc=35 Railway Esplanade, Gore, Southland/ Accommodation, spacious, modern, warm, se
 Phone=+6432080888
@@ -139785,7 +139785,7 @@ Data0=(-45.86179,170.51185)
 
 ;1150624
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=PINEWOOD MOTELS
 StreetDesc=27 Mt Cook Rd, Fairlie, South Canterbury/ Accommodation. Playground, BBQ, off-ro
 Phone=+6436858599
@@ -140751,7 +140751,7 @@ Data0=(-45.73871,168.44197)
 
 ;1150901
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=MILLERS FLAT HOLIDAY PARK
 StreetDesc=1670 Teviot Rd, Millers Flat/ Holiday Park Accommodation. Motels, Tourist Flats,
 Phone=+6434466877
@@ -141223,7 +141223,7 @@ Data0=(-45.03202,168.67545)
 
 ;1151095
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=KAIKOURA COTTAGE MOTELS
 StreetDesc=5 Old Beach Rd, Kaikoura/ Accommodation. Zenbu Wi-Fi wireless internet, cheap no
 Phone=+6433195599
@@ -142708,7 +142708,7 @@ Data0=(-46.43948,168.24642)
 
 ;1151657
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=WILLOWBANK MOTEL
 StreetDesc=183 Beach Rd, Kaikoura/ Accommodation. Zenbu Wi-Fi wireless internet, cheap no t
 Phone=+6433195566
@@ -146447,7 +146447,7 @@ Data0=(-41.27279,173.28535)
 
 ;1153933
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=RACEWAY MOTEL
 StreetDesc=222 Lincoln Rd, Addington, Chc/ Accommodation. Zenbu Wi-Fi wireless internet, ch
 Phone=+6433380511
@@ -146577,7 +146577,7 @@ Data0=(-46.34991,168.01651)
 
 ;1153979
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=MACE MOTEL
 StreetDesc=13 Cardigan St, Arrowtown/ Accommodation. Fully self-contained units, with livin
 Phone=+6434098884
@@ -148080,7 +148080,7 @@ Data0=(-43.53300,172.61205)
 
 ;1155260
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=ANCHOR MOTEL 24HR
 StreetDesc=42 Evans St, Timaru/ Affordable, Comfortable, Friendly central Timaru Accommodat
 Phone=+6436845067
@@ -149646,7 +149646,7 @@ Data0=(-41.26829,173.28420)
 
 ;1155985
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=HANMER SPRINGS APARTMENTS
 StreetDesc=4 Woodbank Rd, Hanmer Springs 7334, North Canterbury/ Self-contained motel accom
 Phone=+33157135
@@ -150176,7 +150176,7 @@ Data0=(-44.68267,169.14616)
 
 ;1157337
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=CLEARBROOK SERVICED MOTELS & APARTMENTS
 StreetDesc=72 Helwick St, Wanaka 9305/ Serviced Apartment & Motel Accommodation
 Phone=+6434434413
@@ -152080,7 +152080,7 @@ Data0=(-45.04426,168.62991)
 
 ;1158227
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=BROADWAY MOTEL
 StreetDesc=113 High St, Picton/ Accommodation
 Data0=(-41.29264,174.00659)
@@ -152261,7 +152261,7 @@ Data0=(-46.41281,168.34728)
 
 ;1158288
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=SOUTHERN COMFORT MOTEL
 StreetDesc=53 Bealey Ave, Chc/ Accommodation
 Data0=(-43.52066,172.62890)
@@ -152631,7 +152631,7 @@ Data0=(-43.80733,172.96794)
 
 ;1158643
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=ADCROFT MOTEL
 StreetDesc=13 Archibald St, Tinwald, Ashburton/ Accommodation
 Data0=(-43.91420,171.73123)
@@ -152751,7 +152751,7 @@ Data0=(-41.22362,173.32512)
 
 ;1158676
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=ALMA MOTELS
 StreetDesc=State Highway 1, Alma, Oamaru/ Accommodation
 Data0=(-45.11298,170.90946)
@@ -152927,7 +152927,7 @@ Data0=(-41.49713,173.94300)
 
 ;1158730
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=ARCADIA MOTELS
 StreetDesc=36 Golf Rd, Tahunanui, Nelson/ Accommodation
 Data0=(-41.28535,173.24023)
@@ -153005,14 +153005,6 @@ StreetDesc=154 Beach Rd, Kaikoura/ Accommodation
 Data0=(-42.38551,173.68001)
 [END]
 
-;1158752
-[POI]
-Type=0x2b00
-Label=ASURE COLONIAL COURT MOTEL
-StreetDesc=205 beach Rd, kaikoura/ Accommodation
-Data0=(-42.38213,173.67960)
-[END]
-
 ;1158758
 [POI]
 Type=0x2b00
@@ -153071,7 +153063,7 @@ Data0=(-42.63686,171.06949)
 
 ;1158779
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=AZENA MOTELS
 StreetDesc=12 Cranford St, St Albans, Chc/ Accommodation
 Data0=(-43.51274,172.63839)
@@ -153354,7 +153346,7 @@ Data0=(-42.38086,173.68017)
 
 ;1158895
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=BROOKSIDE MOTEL
 StreetDesc=36 Cox St, Geraldine/ Accommodation
 Data0=(-44.09465,171.24052)
@@ -153498,7 +153490,7 @@ Data0=(-44.88268,169.00200)
 
 ;1158929
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=CARISBROOK MOTEL
 StreetDesc=169 South Rd, Caversham 9012 Dud, Otago/ Accommodation. Fully equipped kitchens.
 Phone=+6434552167
@@ -153507,7 +153499,7 @@ Data0=(-45.89403,170.48689)
 
 ;1158932
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=CAROLINE MOTEL
 StreetDesc=48 Evans St, Maori Park, Timaru/ Accommodation
 Data0=(-44.38699,171.24088)
@@ -153725,7 +153717,7 @@ Data0=(-43.45756,172.59706)
 
 ;1158996
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=CLEARWATER MOTEL
 StreetDesc=168 Esplanade, Kaikoura, Marlborough/ Accommodation. Zenbu Wi-Fi wireless intern
 Phone=+6433195326
@@ -153742,7 +153734,7 @@ Data0=(-42.26064,173.77106)
 
 ;1159003
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=COACHMAN MOTEL
 StreetDesc=316A Riccarton Rd, Upper Riccarton, Chc/ Accommodation
 Data0=(-43.53129,172.57854)
@@ -153766,7 +153758,7 @@ Data0=(-41.73557,173.42393)
 
 ;1159015
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=COLERAINE MOTEL
 StreetDesc=61 High St, Greymouth/ Accommodation
 Data0=(-42.46010,171.20159)
@@ -153870,7 +153862,7 @@ Data0=(-46.39691,168.36481)
 
 ;1159057
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=COURTESY COURT MOTEL
 StreetDesc=33 Sherborne St, Chc/ Accommodation
 Data0=(-43.51933,172.63789)
@@ -154064,7 +154056,7 @@ Data0=(-45.04647,168.62290)
 
 ;1159125
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=EVERGREEN MOTEL
 StreetDesc=217 North Rd, Waikiwi, Invercargill/ Accommodation
 Data0=(-46.37997,168.34756)
@@ -154080,7 +154072,7 @@ Data0=(-43.37350,172.37160)
 
 ;1159129
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=FAIRWAY MOTEL
 StreetDesc=2 MacPherson St, Wanaka/ Accommodation
 Data0=(-44.69317,169.14502)
@@ -154244,7 +154236,7 @@ Data0=(-43.80712,172.96651)
 
 ;1159178
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=GERALDINE MOTELS
 StreetDesc=97 Talbot St, Geraldine/ Accommodation
 Data0=(-44.09513,171.24505)
@@ -154757,7 +154749,7 @@ Data0=(-42.49976,171.18356)
 
 ;1159321
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=JAFA'S MOTELS
 StreetDesc=4 Lancaster St, Lawrence/ Accommodation
 Data0=(-45.91328,169.68606)
@@ -155042,7 +155034,7 @@ Data0=(-44.70002,169.13900)
 
 ;1159413
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=LAKEVIEW MOTEL
 StreetDesc=68 Lismore St, Wanaka/ Accommodation
 Data0=(-44.69038,169.13548)
@@ -155163,7 +155155,7 @@ Data0=(-43.64990,172.51597)
 
 ;1159440
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=LINKWATER MOTEL
 StreetDesc=1594 Queen Charlotte Dr, Linkwater, Marlborough/ Accommodation
 Data0=(-41.28606,173.90561)
@@ -155495,7 +155487,7 @@ Data0=(-46.45946,169.52716)
 
 ;1159530
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=MONARCH MOTEL
 StreetDesc=633 Tay St, Glengarry, Invercargill/ Accommodation
 Data0=(-46.40740,168.38862)
@@ -155786,7 +155778,7 @@ Data0=(-41.29403,174.00802)
 
 ;1159640
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=PALMS MOTEL
 StreetDesc=5 Paru Paru Rd, Nelson/ Accommodation
 Data0=(-41.27034,173.28089)
@@ -156466,7 +156458,7 @@ Data0=(-45.02964,168.68197)
 
 ;1159832
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=SPRINGCREEK MOTELS
 StreetDesc=1 Rapaura Rd, Spring Creek, Blenheim/ Accommodation
 Data0=(-41.46089,173.96107)
@@ -157364,7 +157356,7 @@ Data0=(-46.08249,168.96277)
 
 ;1160141
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=WESTPORT MOTELS
 StreetDesc=32 The Esplanade, Westport/ Accommodation
 Data0=(-41.76205,171.59840)
@@ -185295,7 +185287,7 @@ Data0=(-43.55853,172.67331)
 
 ;1173897
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=TUI LODGE MOTEL
 StreetDesc=286 Blenheim Rd, Upper Riccarton, Chc 8041 Canterbury/ Accommodation. Kitchen, b
 Phone=+6433433242
@@ -196210,7 +196202,7 @@ Data0=(-46.10260,168.94286)
 
 ;1180110
 [POI]
-Type=0x2a
+Type=0x2b01
 Label=AMURI HOUSE HANMER SPRINGS BOUTIQUE MOTEL ACCOMMODATION
 StreetDesc=10 Amuri Ave, Hanmer Springs North Canterbury New Zealand/ Hanmer Springs Luxury
 Phone=+6433157985

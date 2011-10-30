@@ -53605,7 +53605,7 @@ Type=0x2f
 Label=MAINLAND PAINT & PRINTING INK
 StreetDesc=351 Selwyn St, Addington, Chc/ Resene ColorShop paint stockists
 Phone=+6433381312
-zip=Mon-Fri 8am-5.30pm; Sat 8.30am-4pm; Sun 
+zip=Mon-Fri 7am-5.30pm; Sat 8.30am-4pm
 Data0=(-43.54569,172.62165)
 [END]
 
@@ -64046,7 +64046,7 @@ Data0=(-43.53025,172.60427)
 
 ;1114995
 [POI]
-Type=0x2b01
+Type=0x2b03
 Label=TOP 10 HOLIDAY PARKS - NZ ACCOMMODATION
 StreetDesc=L 1, 294 Montreal St, Chc/ Holiday park, campground, motorhomes, campervans, ten
 Phone=+6433779900
@@ -75122,7 +75122,7 @@ Data0=(-43.53161,172.57458)
 
 ;1118593
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=ARMADA MOTOR INN
 StreetDesc=500a Thames Highway, Oamaru/ Motel accommodation
 Phone=+6434379040
@@ -75839,7 +75839,7 @@ Data0=(-46.89862,168.12754)
 
 ;1119188
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=LAKE TEKAPO MOTELS & HOLIDAY PARK
 StreetDesc=Lakeside Dr, Lake Tekapo/ Budget holiday park accommodation, backpacker accommod
 Phone=+6436806825
@@ -78752,7 +78752,7 @@ Data0=(-45.09869,170.96689)
 
 ;1119864
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=NORTH STAR
 StreetDesc=495a Thames Highway, Eveline, Oamaru/ Motel Bar Restaurant TAB Outlet
 Phone=+6434371190
@@ -87554,7 +87554,7 @@ Data0=(-41.28831,173.24734)
 
 ;1123262
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=ACADEMY MOTOR LODGE
 StreetDesc=62 Creyke Rd, Fendalton, Chc/ Motel accommodation, licensed restaurant
 Phone=+6433519347
@@ -93926,15 +93926,6 @@ Label=WHITEHOUSE BY THE BRIDGE RESTUARANT AND BAR
 StreetDesc=Corner of SH 1 Selwyn Rd, Dunsandel/ Restaurant
 Phone=+6433254255
 Data0=(-43.64825,172.22817)
-[END]
-
-;1130443
-[POI]
-Type=0x2b00
-Label=RAKAIA RIVER HOLIDAY PARK
-StreetDesc=16 Main South Rd, Rakaia/ Holiday Park Accommodation. Motels, Tourist Flats, Cot
-Phone=+6433027257
-Data0=(-43.75157,172.02896)
 [END]
 
 ;1130444
@@ -114433,7 +114424,7 @@ Data0=(-44.39192,171.24749)
 
 ;1137778
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=BAY VIADUCT MOTOR LODGE
 StreetDesc=6-10 Wai-iti Rd, Timaru/ Motel accommodation. Licensed restaurant
 Data0=(-44.39091,171.24485)
@@ -120642,7 +120633,7 @@ Data0=(-45.11957,170.95752)
 
 ;1139210
 [POI]
-Type=0x2f
+Type=0x2b01
 Label=NORTH OTAGO HOTEL AND MOTELS
 StreetDesc=14 York St Richmond, Oamaru/ 
 Data0=(-45.01352,171.04258)
@@ -120770,7 +120761,7 @@ Data0=(-44.60547,170.19466)
 
 ;1139228
 [POI]
-Type=0x2a
+Type=0x2b01
 Label=OTEMATATA LAKES HOTEL
 StreetDesc=2736 State Highway 83, Waitaki Valley, Otematata/ Accommodation. Bar, restaurant
 Phone=+6434387899
@@ -122255,7 +122246,7 @@ Data0=(-42.11981,171.86601)
 
 ;1141099
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=REEFTON AUTOLODGE
 StreetDesc=72-78 Broadway, Reefton/ Motel accommodation, bar, restaurant
 Phone=+6437328406
@@ -136651,7 +136642,7 @@ Data0=(-45.89458,169.34770)
 
 ;1147157
 [POI]
-Type=0x2f
+Type=0x2b01
 Label=BLACK SWAN TEAROOMS & MOTELS
 StreetDesc=40 Greenwich St, Waihola/ 
 Data0=(-46.02271,170.09650)
@@ -137184,7 +137175,7 @@ Data0=(-46.25026,169.68991)
 
 ;1147223
 [POI]
-Type=0x2b00
+Type=0x2b03
 Label=MCLEAN FALLS MOTEL & HOLIDAY PARK
 StreetDesc=29 Rewcastle Rd, Chaslands/ Camping ground accommodation
 Data0=(-46.59094,169.35642)
@@ -139813,7 +139804,7 @@ Data0=(-45.03049,168.66023)
 
 ;1150632
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=CITY CENTRAL MOTEL APARTMENTS
 StreetDesc=252 Barbadoes St, Chc Central/ 26 self contained units for short term accommodat
 Phone=+6433790540
@@ -143023,7 +143014,7 @@ Data0=(-43.54284,172.52204)
 
 ;1151817
 [POI]
-Type=0x2d02
+Type=0x2b01
 Label=GOLDEN FLEECE HOTEL MOTEL
 StreetDesc=198 Main Rd State Highway 1, Waikouaiti/ 
 Data0=(-45.59606,170.66902)
@@ -152024,7 +152015,7 @@ Data0=(-41.27446,173.28283)
 
 ;1158211
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=33 LOMOND LODGE MOTEL & APARTMENTS
 StreetDesc=33 Man St, Queenstown/ Accommodation
 Data0=(-45.03152,168.65714)
@@ -152510,7 +152501,7 @@ Data0=(-43.53107,172.58102)
 
 ;1158592
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=306 ON RICCARTON MOTEL
 StreetDesc=306 Riccarton Rd, Upper Riccarton, Chc/ Accommodation
 Data0=(-43.53123,172.57936)
@@ -152526,7 +152517,7 @@ Data0=(-45.08265,170.98076)
 
 ;1158595
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=469 ON THAMES BOUTIQUE MOTELS AND CAFE
 StreetDesc=469 Thames Highway, Oamaru/ Accommodation
 Data0=(-45.07511,170.98771)
@@ -152591,7 +152582,7 @@ Data0=(-42.41506,173.68685)
 
 ;1158614
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=AAA NORTHLANDS MOTEL
 StreetDesc=232 Main North Rd, Redwood, Chc/ Accommodation
 Data0=(-43.48196,172.61677)
@@ -152663,7 +152654,7 @@ Data0=(-40.83236,172.89747)
 
 ;1158655
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=AIRPORT GREENS MOTEL ON NELSON GOLF COURSE
 StreetDesc=Golf Haven Way, Tahunanui, Nelson/ Accommodation
 Data0=(-41.29115,173.23476)
@@ -152687,7 +152678,7 @@ Data0=(-43.80898,172.96350)
 
 ;1158659
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=AKAROA WATERFRONT MOTELS
 StreetDesc=56-64 Rue Jolie, Akaroa/ Accommodation
 Data0=(-43.80425,172.96694)
@@ -153015,7 +153006,7 @@ Data0=(-43.39923,172.70225)
 
 ;1158767
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=AVON LODGE CENTRAL MOTEL-APARTMENT
 StreetDesc=6/8 Hurley St, Central, Chc/ Accommodation
 Data0=(-43.52514,172.64691)
@@ -153298,7 +153289,7 @@ Data0=(-41.28191,173.28880)
 
 ;1158874
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=BOUTIQUE MOTEL STOKE
 StreetDesc=559 Main Rd, Stoke, Nelson/ Accommodation
 Data0=(-41.31408,173.23361)
@@ -153587,7 +153578,7 @@ Data0=(-41.06704,172.97060)
 
 ;1158957
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=CHANCARLA BOUTIQUE FARM PARK MOTEL
 StreetDesc=65 Halfway Bush Rd, Halfway Bush, Dud/ Accommodation
 Data0=(-45.85857,170.44348)
@@ -153603,7 +153594,7 @@ Data0=(-45.87461,170.50139)
 
 ;1158962
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=CHARLES COURT MOTEL
 StreetDesc=350 Main Sourth Rd, Paroa, Greymouth/ Accommodation
 Data0=(-42.49528,171.17538)
@@ -153766,7 +153757,7 @@ Data0=(-42.46010,171.20159)
 
 ;1159018
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=COLONIAL INN MOTEL
 StreetDesc=43 Papanui Rd, Merivale, Chc/ Accommodation
 Data0=(-43.51894,172.62647)
@@ -153774,7 +153765,7 @@ Data0=(-43.51894,172.62647)
 
 ;1159019
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=COLONIAL VILLAGE MOTEL
 StreetDesc=136 Frankton Rd, Queenstown/ Accommodation
 Data0=(-45.03399,168.67634)
@@ -153782,7 +153773,7 @@ Data0=(-45.03399,168.67634)
 
 ;1159023
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=COMFORT INN MEDITERRANEAN MOTEL
 StreetDesc=239 Beach Rd, Kaikoura/ Accommodation
 Data0=(-42.37678,173.68086)
@@ -153878,7 +153869,7 @@ Data0=(-41.46755,173.86550)
 
 ;1159059
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=CRANFORD COURT MOTEL
 StreetDesc=63 Cranford, Chc/ Accommodation
 Data0=(-43.51045,172.63809)
@@ -154137,7 +154128,7 @@ Data0=(-42.41943,173.69930)
 
 ;1159147
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=FITZHERBERT COURT MOTELS
 StreetDesc=191 Fitzherbert St, Hokitika/ Accommodation
 Data0=(-42.71179,170.97159)
@@ -154162,7 +154153,7 @@ Data0=(-42.51616,172.83492)
 
 ;1159157
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=FOUR PEAKS MOTEL
 StreetDesc=28 McKenzie St, Geraldine/ Accommodation
 Data0=(-44.08559,171.24645)
@@ -154203,7 +154194,7 @@ Data0=(-42.46069,171.19950)
 
 ;1159171
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=GARDEN CITY MOTEL
 StreetDesc=242 Main North Rd, Chc 8051, Canterbury/ Accommodation. Spacious units. Zenbu Wi
 Phone=+6433524058
@@ -154244,7 +154235,7 @@ Data0=(-44.09513,171.24505)
 
 ;1159181
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=GLENALVON LODGE MOTEL
 StreetDesc=29 Amuri Ave, Hanmer Springs/ Accommodation
 Data0=(-42.52467,172.82952)
@@ -154423,7 +154414,7 @@ Data0=(-44.70473,169.13306)
 
 ;1159228
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=HARROGATE GARDENS MOTEL
 StreetDesc=21 Harrogate St, Hanmer Springs/ Accommodation
 Data0=(-42.52434,172.83146)
@@ -154659,7 +154650,7 @@ Data0=(-46.07901,168.91064)
 
 ;1159283
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=HOLIDAY LODGE MOTEL
 StreetDesc=862 Colombo St, Chc/ Accommodation
 Data0=(-43.52370,172.63684)
@@ -154789,7 +154780,7 @@ Data0=(-41.18967,174.01644)
 
 ;1159331
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=KAIAPOI ON WILLIAMS MOTEL
 StreetDesc=16 Williams St, Kaiapoi/ Accommodation
 Data0=(-43.39273,172.65266)
@@ -154846,7 +154837,7 @@ Data0=(-43.27191,172.58144)
 
 ;1159354
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=KEPLER MOUNTAIN VIEW - MOTELS
 StreetDesc=130 Hillside-Manapouri Rd, Manapouri 9643, Fiordland/ B&B Bed and Breakfast. Als
 Phone=+6432496685
@@ -154887,7 +154878,7 @@ Data0=(-44.46601,171.21946)
 
 ;1159367
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=KINGSTON MOTELS & HOLIDAY PARK
 StreetDesc=16 Kent St, Kingston/ Accommodation
 Data0=(-45.33689,168.72086)
@@ -154962,7 +154953,7 @@ Data0=(-43.80941,172.96351)
 
 ;1159396
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=LA RIVE MOTEL AKAROA
 StreetDesc=1 Rue Lavaud, Akaroa/ Accommodation
 Data0=(-43.80036,172.97080)
@@ -154970,7 +154961,7 @@ Data0=(-43.80036,172.97080)
 
 ;1159397
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=LA ROCHELLE MOTEL
 StreetDesc=cnr Rue Lavaud and Rue Grehan, Akaroa/ Accommodation
 Data0=(-43.80132,172.97024)
@@ -155398,7 +155389,7 @@ Data0=(-45.03165,168.66573)
 
 ;1159503
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=METHVEN MOTELS AND APARTMENTS
 StreetDesc=197 Main St, Methven/ Accommodation
 Data0=(-43.62848,171.64749)
@@ -155463,7 +155454,7 @@ Data0=(-44.72027,169.13215)
 
 ;1159520
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=MOA CAVE GUEST HOUSE & MOTEL
 StreetDesc=108 Main Rd, Redcliffs, Chc/ Accommodation
 Data0=(-43.55739,172.73279)
@@ -155503,7 +155494,7 @@ Data0=(-44.68610,169.14766)
 
 ;1159533
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=MOTUEKA GARDEN MOTEL
 StreetDesc=71 King Edward St, Motueka/ Accommodation
 Data0=(-41.12424,173.00222)
@@ -155511,7 +155502,7 @@ Data0=(-41.12424,173.00222)
 
 ;1159535
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=MOUNT HUTT MOTELS
 StreetDesc=205 Main St, Methven/ Accommodation
 Data0=(-43.62727,171.64767)
@@ -155656,7 +155647,7 @@ Data0=(-43.47113,172.57015)
 
 ;1159575
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=NUGGET VIEW & KAKA POINT MOTELS
 StreetDesc=11 Rata St, Kaka Point/ Accommodation
 Data0=(-46.38482,169.78079)
@@ -155786,7 +155777,7 @@ Data0=(-41.27034,173.28089)
 
 ;1159642
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=PAPANUI COURT MOTEL
 StreetDesc=140 Main North Rd, Papanui, Chc/ Accommodation
 Data0=(-43.48904,172.61524)
@@ -156086,7 +156077,7 @@ Data0=(-44.69743,169.13785)
 
 ;1159738
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=RICCARTON MALL & DEANS BUSH MOTEL
 StreetDesc=142 Riccarton Rd, Riccarton, Chc/ Accommodation. Off street parking
 Phone=+6433488612
@@ -156231,7 +156222,7 @@ Data0=(-45.26987,169.37607)
 
 ;1159768
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=ROMA ON RICCARTON MOTEL
 StreetDesc=38 Riccarton Rd, Riccarton, Chc/ Accommodation
 Data0=(-43.52902,172.60755)
@@ -156426,7 +156417,7 @@ Data0=(-41.30112,173.99870)
 
 ;1159823
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=SOUTH CATLINS MOTELS
 StreetDesc=21 Duncan St, Tokanui, Tokanui/ Accommodation
 Data0=(-46.56309,168.94586)
@@ -156474,7 +156465,7 @@ Data0=(-43.33561,171.92780)
 
 ;1159834
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=ST JOHNS COURT MOTEL
 StreetDesc=167 Union St, Milton/ Accommodation
 Data0=(-46.11766,169.96312)
@@ -157065,7 +157056,7 @@ Data0=(-42.71163,170.97543)
 
 ;1160026
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=TOWER LODGE MOTEL
 StreetDesc=119 Queens Dr, Richmond, Invercargill/ Accommodation
 Data0=(-46.40728,168.36166)
@@ -163395,7 +163386,7 @@ Data0=(-43.50872,172.72274)
 
 ;1164121
 [POI]
-Type=0x2a
+Type=0x2b01
 Label=MOUNTAIN CHALET MOTEL & BACKPACKERS
 StreetDesc=Wairepo Rd, Twizel, Mackenzie country/ Accommodation, restaurant, laundry, loads
 Phone=+6434350785
@@ -163902,7 +163893,7 @@ Data0=(-43.53798,172.60613)
 
 ;1164597
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=CHELSEA GATEWAY MOTEL
 StreetDesc=330 Palmerston St, Westport, West Coast/ Accommodation MANZ, SKY tv.
 Phone=+6437896835
@@ -178410,7 +178401,7 @@ Data0=(-41.34095,173.19031)
 
 ;1171858
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=SOUTH BEACH MOTEL & MOTOR PARK
 StreetDesc=318 Main South Rd, SH6, Greymouth/ Camping ground, Accommodation
 Phone=+6437626768
@@ -187599,7 +187590,7 @@ Data0=(-43.53192,172.63882)
 
 ;1174760
 [POI]
-Type=0x2c05
+Type=0x2b01
 Label=BELLA VISTA MOTEL FOX GLACIER
 StreetDesc=55 Main Rd, Fox Glacier/ Good quality, clean, comfortable accommodation in a cen
 Phone=+6437510129
@@ -187990,7 +187981,7 @@ Data0=(-43.30336,172.59572)
 
 ;1175119
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=BEACHSIDE SUNNYVALE MOTEL
 StreetDesc=384 Waikawa Rd, Waikawa, PICTON, Marlborough Sounds./ Accommodation. Fully equip
 Phone=+6435736800
@@ -189545,7 +189536,7 @@ Data0=(-45.03310,168.66236)
 
 ;1176601
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=QUEENSTOWN MOTEL APARTMENTS
 StreetDesc=62 Frankton Rd, Queenstown/ Apartment accommodation
 Data0=(-45.03383,168.66944)
@@ -191954,7 +191945,7 @@ Data0=(-45.04381,169.18469)
 
 ;1177716
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=MIDDLEPARK MOTELS CHRISTCHURCH
 StreetDesc=120 Main South Rd, Sockburn, Upper Riccarton, Chc 8042, Canterbury/ Accommodatio
 Phone=+6433487320
@@ -193635,7 +193626,7 @@ Data0=(-43.53110,172.63194)
 
 ;1178723
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=HARBOUR VIEW MOTEL
 StreetDesc=30 Waikawa Rd, Picton 7220, Marlborough Sounds/ Accommodation 4 star plus. Zenbu
 Phone=+6435736259
@@ -194584,7 +194575,7 @@ Data0=(-45.90033,170.53659)
 ;1178996
 [POI]
 Type=0x2b01
-Label=FIORDLAND LAKEVIEW MOTEL AND APARTMENTS PREVIOUSLY CALLED CAMPBELL AUTOLODGE
+Label=FIORDLAND LAKEVIEW MOTEL AND APARTMENTS
 StreetDesc=42 Lakefront Dr, Te Anau 9600 Fiordland/ Luxury accommodation, lodge, self cater
 Phone=+6432497546
 Data0=(-45.42111,167.71538)
@@ -194693,14 +194684,6 @@ Type=0x2b02
 Label=MANDENO HOUSE
 StreetDesc=George St, North Dud, Dud/ Bed and Breakfast accommodation
 Data0=(-45.86152,170.51097)
-[END]
-
-;1179041
-[POI]
-Type=0x2b01
-Label=MCLEAN FALLS CHALETS, MOTELS & HOLIDAY PARK
-StreetDesc=29 Rewcastle Rd, Chaslands Highway, Catlins/ Motel accommodation
-Data0=(-46.59276,169.35794)
 [END]
 
 ;1179046
@@ -196135,7 +196118,7 @@ Data0=(-41.51296,173.96066)
 
 ;1180097
 [POI]
-Type=0x2f
+Type=0x2b01
 Label=MOSGIEL REGENCY MOTELS
 StreetDesc=54 Gordon Rd, Mosgiel./ Accomodation.
 Phone=+6434894711
@@ -196221,7 +196204,7 @@ Data0=(-41.34435,173.19896)
 
 ;1180141
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=BAY VISTA WATERFRONT MOTEL
 StreetDesc=307 Waikawa Rd, Waikawa 7220, Picton, Queen Charlotte Sound, Marlborough Sounds/
 Phone=+6435736733

@@ -34052,10 +34052,10 @@ Data0=(-43.54481,172.63045)
 [POI]
 Type=0x2e0b
 Label=JAYCAR CHRISTCHURCH
-StreetDesc=409 Colombo St, Chc/ Electronic components
+StreetDesc=85 Gasson St, Chc/ Electronic components
 Phone=+6433791662
-zip=Mo-Sa 9 - 5.30, Su 10 - 5
-Data0=(-43.54458,172.63648)
+zip=Mo-Th 8-5:30, Fr 8:30-6:30, Sa 9- 5.30, 
+Data0=(-43.54302,172.64245)
 [END]
 
 ;1096185
@@ -104507,7 +104507,7 @@ Data0=(-43.52973,172.63708)
 ;1132170
 [POI]
 Type=0x2a05
-Label=TOTALLY GLUTEN FREE
+Label=TOTALLY GLUTEN FREE BAKERY
 StreetDesc=477b Blenheim Rd, Sockburn, Chc/ Gluten free bakery
 Phone=+6433411172
 zip=Mon-Fri 9-4, Sat 9-3 Closed Public Holid
@@ -135567,14 +135567,6 @@ Label=THE FUDGE COTTAGE
 StreetDesc=Shop 39, Bishopdale Mall, Chc/ fudge, sweets
 Phone=+6433667650
 Data0=(-43.48997,172.58677)
-[END]
-
-;1147067
-[POI]
-Type=0x2a05
-Label=THE GINGERBREADMAN BAKERY
-StreetDesc=471B Blenheim Rd, Chc/ bakery
-Data0=(-43.53944,172.56575)
 [END]
 
 ;1147068
@@ -200830,11 +200822,10 @@ Data0=(-45.89335,170.49772)
 
 ;1189318
 [POI]
-Type=0x2b02
+Type=0x2f
 Label=MILTON HOUSE BED AND BREAKFAST
-StreetDesc=116 Norfolk St, St. Clair, Dud, New Zealand/ Luxury Seaside Bed & Breakfast Acco
-Phone=+34557814
-zip=4pm-1030am daily
+StreetDesc=116 Norfolk St, St. Clair, Dud, New Zealand/ Milton House Bed and Breakfast is s
+Phone=+6434557814
 Data0=(-45.91446,170.48566)
 [END]
 
@@ -202220,7 +202211,7 @@ Data0=(-43.80977,172.96249)
 
 ;1190027
 [POI]
-Type=0x2b00
+Type=0x2b02
 Label=GLENCARRIN ESTATE
 StreetDesc=2817 West Coast Rd, Darfield, New Zealand/ Darfield Bed and breakfast accommodat
 Phone=+6433181115
@@ -202334,5 +202325,14 @@ Label=MILES CONSTRUCTION
 StreetDesc=10 Stirling St, Merivale, Chc, New Zealand/ Registered Master Builder Christchur
 Phone=+6433557234
 Data0=(-43.51476,172.61566)
+[END]
+
+;1190070
+[POI]
+Type=0x2f
+Label=MOVIE EXPRESS - QUEENSTOWN FRESH CHOICE
+StreetDesc=64 Gorge Rd, Queenstown/ Queenstown Fresh Choice
+zip=7am to Midnight
+Data0=(-45.02483,168.66168)
 [END]
 

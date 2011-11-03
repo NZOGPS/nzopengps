@@ -28668,8 +28668,8 @@ Data0=(-41.47621,173.84210)
 ;1090692
 [POI]
 Type=0x2a
-Label=LAW COURTS HOTEL COBB & CO
-StreetDesc=Stuart St, Dud/ Family Restaurant, licensed
+Label=LAW COURTS HOTEL
+StreetDesc=53 Stuart St, Dud 9016/ Between the Railway Station and the Octagon is Central D
 Phone=+6434778036
 Data0=(-45.87328,170.50798)
 [END]
@@ -29224,7 +29224,7 @@ Data0=(-45.20563,169.35426)
 [POI]
 Type=0x2a0e
 Label=POST OFFICE CAFE & BAR
-StreetDesc=2 Blyth St, Clyde/ 
+StreetDesc=2 Blyth St, Clyde/ Cafe and Bar
 Phone=+6434492488
 Data0=(-45.18908,169.31735)
 [END]
@@ -50520,7 +50520,7 @@ Type=0x2f
 Label=HUBCO ULTIMATED
 StreetDesc=46 Parkhouse Rd, Sockburn, Chc/ 
 Phone=+6433488828
-Data0=(-43.54526,172.56729)
+Data0=(-43.54495,172.56752)
 [END]
 
 ;1107096
@@ -53511,10 +53511,10 @@ Data0=(-44.97915,168.68952)
 [POI]
 Type=0x2f
 Label=MALCOLM OFFICER SHEETMETAL LTD
-StreetDesc=72 Leet St, Invercargill/ 
+StreetDesc=236 Mersey St, Invercargill/ 
 Phone=+6432188388
 zip=Mon-Fri 0800-1700
-Data0=(-46.40736,168.35126)
+Data0=(-46.41636,168.34179)
 [END]
 
 ;1109000
@@ -56680,9 +56680,9 @@ Data0=(-41.54601,173.82011)
 [POI]
 Type=0x2f
 Label=OMEGA ALUMINIUM SOUTHLAND LTD
-StreetDesc=236 Mersey St, Invercargill/ 
-Phone=+6432144554
-Data0=(-46.41655,168.34166)
+StreetDesc=41B River St, Waikiwi, Invercargill/ 
+Phone=+6432157400
+Data0=(-46.38766,168.35172)
 [END]
 
 ;1110874
@@ -59852,8 +59852,8 @@ Data0=(-41.27583,173.28270)
 ;1112821
 [POI]
 Type=0x2f
-Label=RX PLASTICS LTD
-StreetDesc=445 West St, Ashburton/ 
+Label=RX PLASTICS LTD - IRRIGATION AND EFFLUENT SYSTEMS
+StreetDesc=445 West St, Ashburton/ Irrigation products, irrigation systems, effluent manage
 Phone=+6433088399
 Data0=(-43.89348,171.76283)
 [END]
@@ -66132,9 +66132,9 @@ Data0=(-43.57410,172.62604)
 [POI]
 Type=0x2f
 Label=YELLOW PENCIL ADVERTISING
-StreetDesc=L 1, 49 Carlyle St, Chc/ 
-Phone=+6433650080
-Data0=(-43.54133,172.64348)
+StreetDesc=L 1, Unit 6, 41 Sir William Pickering Dr, Burnside, Chc 8053/ 
+Phone=+6433570187
+Data0=(-43.49806,172.55985)
 [END]
 
 ;1116315
@@ -164189,9 +164189,10 @@ Data0=(-45.21761,169.33567)
 ;1165238
 [POI]
 Type=0x2b00
-Label=THE "WORKSHOPS"
-StreetDesc=Pyke St, Clyde/ Accommodation
+Label=THE WORKSHOPS CLYDE 24HR
+StreetDesc=7E Blyth St, Clyde, Central Otago/ What was once the Vincent County Truck Worksh
 Phone=+6434493155
+zip=24hrs
 Data0=(-45.19020,169.31753)
 [END]
 
@@ -202197,5 +202198,141 @@ Type=0x2f
 Label=MARIA ANDREWS PARK
 StreetDesc=73-97 High St Rangiora 7400/ 
 Data0=(-43.30336,172.59572)
+[END]
+
+;1190025
+[POI]
+Type=0x2f
+Label=EURO-BLAST N.Z. LTD
+StreetDesc=19 Smarts Rd, Hornby, Chc, New Zealand/ Christchurch sandblasting and corrosion 
+Phone=+6433498554
+Data0=(-43.54003,172.52579)
+[END]
+
+;1190026
+[POI]
+Type=0x2f
+Label=FIRE AND ICE
+StreetDesc=6 Church St, Akaroa 7520, New Zealand/ Gemstone Jewellery Specialist, Akaroa, Ne
+Phone=+6433047804
+Data0=(-43.80977,172.96249)
+[END]
+
+;1190027
+[POI]
+Type=0x2b00
+Label=GLENCARRIN ESTATE
+StreetDesc=2817 West Coast Rd, Darfield, New Zealand/ Darfield Bed and breakfast accommodat
+Phone=+6433181115
+Data0=(-43.49628,172.17919)
+[END]
+
+;1190028
+[POI]
+Type=0x2f
+Label=CANTERBURY WATERBLAST LTD
+StreetDesc=44 Maces Rd, Bromley, Chc, New Zealand/ Christchurch Waterblasting Drain Clearin
+Phone=+6433657960
+Data0=(-43.54168,172.69582)
+[END]
+
+;1190029
+[POI]
+Type=0x2f
+Label=SG DESIGN
+StreetDesc=L 1, 54 McNulty Rd, CROMWELL, New Zealand/ Kitchen Designer Christchurch, Queens
+Phone=+6427658808
+Data0=(-45.04865,169.18001)
+[END]
+
+;1190030
+[POI]
+Type=0x2f
+Label=HAVEN YACHTS
+StreetDesc=117 Main South Rd, Chc, New Zealand/ Exclusive distributor of MacGregro 26
+Phone=+6421041308
+Data0=(-43.53739,172.55830)
+[END]
+
+;1190032
+[POI]
+Type=0x2f
+Label=H W HENDRIKS SONS & DAUGHTER LTD
+StreetDesc=1 Link Rd, Belfast , Chc, New Zealand/ Christchurch Blasting Company, Abrasive B
+Phone=+6433238582
+Data0=(-43.42347,172.65331)
+[END]
+
+;1190037
+[POI]
+Type=0x2f
+Label=TOKYO FOOD
+StreetDesc=56 Newtown St. Bromley, Chc/ Japanese Food products and kitchenware
+Phone=+6433764093
+zip=Mon-Fri 8:00am-5:00pm
+Data0=(-43.53854,172.69976)
+[END]
+
+;1190038
+[POI]
+Type=0x2f
+Label=KC FENCE SYSTEMS
+StreetDesc=327 Tuam St, Chc, New Zealand/ Fence and fencing requirements by KC Fence System
+Phone=+6433743510
+Data0=(-43.53499,172.64884)
+[END]
+
+;1190039
+[POI]
+Type=0x2f
+Label=KERZAN
+StreetDesc=57 McSaveneys Rd, Chc, New Zealand/ Automotive and Engineering Supplies New Zeal
+Phone=+6433857619
+Data0=(-43.48513,172.65670)
+[END]
+
+;1190042
+[POI]
+Type=0x2f
+Label=EDGEWARE MOWERS & CHAINSAWS
+StreetDesc=237 Westminster St Chc/ Small Engine Experts
+Phone=+6433663924
+Data0=(-43.50266,172.64401)
+[END]
+
+;1190043
+[POI]
+Type=0x2f
+Label=FACE VALUE
+StreetDesc=4/23 Humphreys Dr, Woolston. Chc 8023/ Beauty treatments at Christchurch Face Va
+Phone=+6433765330
+Data0=(-43.55639,172.70410)
+[END]
+
+;1190045
+[POI]
+Type=0x2e
+Label=MY BUTCHER - THE ONLINE MEAT SHOP
+StreetDesc=33 Sir William Pickering Dr, Burnside, Chc/ Online meat, buying meat online, mea
+Phone=0800692882
+Data0=(-43.49757,172.55876)
+[END]
+
+;1190046
+[POI]
+Type=0x2b01
+Label=MERIVALE COURT MOTEL
+StreetDesc=97 Papanui Rd, Merivale, Chc, New Zealand/ Christchurch affordable motel accommo
+Phone=+33558252
+Data0=(-43.51660,172.62477)
+[END]
+
+;1190048
+[POI]
+Type=0x2f
+Label=MILES CONSTRUCTION
+StreetDesc=10 Stirling St, Merivale, Chc, New Zealand/ Registered Master Builder Christchur
+Phone=+6433557234
+Data0=(-43.51476,172.61566)
 [END]
 

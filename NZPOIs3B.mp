@@ -27101,9 +27101,10 @@ Data0=(-41.29191,174.00197)
 [POI]
 Type=0x2e
 Label=PARA RUBBER DUNEDIN
-StreetDesc=18 Filleul St, Dud/ Pool, Spa, Rubber and Foam materials, Vinyl flooring, Mats, 
-Phone=+6434770480
-Data0=(-45.87215,170.50277)
+StreetDesc=280 King Edward St/ Pool, Spa, Rubber and Foam materials, Vinyl flooring, Mats, 
+Phone=+6434551313
+zip=Mon-Wed,Fri 8:30-5:30 Thu 8:30-6 Sat 10-
+Data0=(-45.89607,170.50092)
 [END]
 
 ;1086415
@@ -51569,7 +51570,7 @@ Data0=(-43.45613,172.60147)
 [POI]
 Type=0x2f
 Label=JENSEN TECHNICAL SERVICES
-StreetDesc=219 Spey St, Invercargill/ 
+StreetDesc=219 Spey St, Invercargill, 9810, Southland/ PC Support Technical Servicing Hardw
 Phone=+6432144101
 Data0=(-46.40980,168.35742)
 [END]
@@ -153358,8 +153359,10 @@ Data0=(-41.46755,173.86550)
 [POI]
 Type=0x2b01
 Label=CRANFORD COURT MOTEL
-StreetDesc=63 Cranford, Chc/ Accommodation
-Data0=(-43.51045,172.63809)
+StreetDesc=63 Cranford St, Saint Albans, Chc 8014, Canterbury/ Accommodation. Zenbu Wi-Fi w
+Phone=+6433792406
+zip=Office hours 8am to 9pm
+Data0=(-43.51046,172.63801)
 [END]
 
 ;1159064
@@ -154926,9 +154929,9 @@ Data0=(-43.27078,172.12107)
 [POI]
 Type=0x2b00
 Label=MIRABELL CHALETS
-StreetDesc=13 Airport Rd, RD 1, Alexandra/ Accommodation
+StreetDesc=13 Airport Rd, Alexandra 9391, Otago/ Accommodation. Motel. BBQ area Swimming po
 Phone=+6434487571
-Data0=(-45.22280,169.36368)
+Data0=(-45.22299,169.36368)
 [END]
 
 ;1159519
@@ -188678,9 +188681,11 @@ Data0=(-44.71484,169.13538)
 ;1176594
 [POI]
 Type=0x2b00
-Label=LAKESIDE APARTMENTS
-StreetDesc=9 Lakeside Rd, Wanaka/ Apartment accommodation
-Data0=(-44.69340,169.13627)
+Label=LAKESIDE APARTMENTS 24HR
+StreetDesc=9 Lakeside Rd, Wanaka/ wanaka accommodation - 1-, 2- & 3- bedroom luxury apartme
+Phone=+6434430188
+zip=24 hours/day
+Data0=(-44.69341,169.13627)
 [END]
 
 ;1176596
@@ -201242,7 +201247,8 @@ Data0=(-45.85112,170.65963)
 [POI]
 Type=0x2b00
 Label=REAVERS LODGE
-StreetDesc=56 Hmtn Rd, Queenstown/ Lodge accommodation
+StreetDesc=56 Hmtn Rd, Queenstown 9300, Lakes District, Central Otago/ Accommodation. Zenbu
+Phone=+6434411059
 Data0=(-45.02559,168.65647)
 [END]
 
@@ -202327,6 +202333,24 @@ Phone=+6433557234
 Data0=(-43.51476,172.61566)
 [END]
 
+;1190058
+[POI]
+Type=0x2b02
+Label=NAYLOR HOUSE BED AND BREAKFAST
+StreetDesc=Naylor Rd, Garston, Southland, New Zealand/ Bed & Breakfast Accommodation Southl
+Phone=+32488809
+Data0=(-45.49650,168.66532)
+[END]
+
+;1190060
+[POI]
+Type=0x2F02
+Label=NZ BACKPACKER RENTALS
+StreetDesc=90 Carmen Rd, Hornby, Chc, New Zealand/ Cheap Car Rentals Christchurch Auckland 
+Phone=+33492222
+Data0=(-43.53627,172.53053)
+[END]
+
 ;1190070
 [POI]
 Type=0x2f
@@ -202334,5 +202358,35 @@ Label=MOVIE EXPRESS - QUEENSTOWN FRESH CHOICE
 StreetDesc=64 Gorge Rd, Queenstown/ Queenstown Fresh Choice
 zip=7am to Midnight
 Data0=(-45.02483,168.66168)
+[END]
+
+;1190075
+[POI]
+Type=0x2e
+Label=PARA RUBBER NELSON
+StreetDesc=165 Haven Rd, Nelson/ Pool, Spa, Rubber and Foam materials, Vinyl flooring, Mats
+Phone=+6435487162
+zip=Mon-Fri 8:30-5 Sat 9:30-3 Sun 10-3
+Data0=(-41.26642,173.27538)
+[END]
+
+;1190076
+[POI]
+Type=0x2e
+Label=PARA RUBBER CHRISTCHURCH
+StreetDesc=127 Blenheim Rd, Riccarton/ Pool, Spa, Rubber and Foam materials, Vinyl flooring
+Phone=+6433439820
+zip=Mon-Fri 8:30-5:30 Sat 9-4 Sun 10-4
+Data0=(-43.53764,172.59940)
+[END]
+
+;1190080
+[POI]
+Type=0x2a
+Label=JOE'S GARAGE
+StreetDesc=19 Marriner St, Sumner, Chc 8081, Canterbury/ Cafe, restaurant, food, coffee, dr
+Phone=+6439622233
+zip=Mon  Sun 7.00am  4.00pm
+Data0=(-43.56786,172.75891)
 [END]
 

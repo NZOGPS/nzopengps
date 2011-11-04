@@ -280,7 +280,7 @@ TraffPoints=1160,1150,3100
 TraffRoads=1476,1477
 [END-Restrict]
 
-;sufi=1030000006679
+;linzid=49982
 [POLYLINE]
 Type=0x6
 Label=LEWER RD
@@ -294,7 +294,7 @@ Nod2=3,1388,0
 Numbers1=0,E,24,8,O,23,13
 [END]
 
-;sufi=1030000006345
+;linzid=49705
 [POLYLINE]
 Type=0x6
 Label=WEST COAST RD
@@ -308,7 +308,7 @@ Nod2=13,176,0
 Numbers1=0,E,498,258,O,373,261
 [END]
 
-;sufi=1030000006345
+;linzid=49705
 [POLYLINE]
 Type=0x6
 Label=WEST COAST RD
@@ -322,7 +322,7 @@ Nod2=5,183,0
 Numbers1=0,E,256,220,N,-1,-1
 [END]
 
-;sufi=1030000213272
+;linzid=90431
 [POLYLINE]
 Type=0xa
 Label=ROSEMAY LANE
@@ -335,7 +335,7 @@ Nod1=0,176,0
 Nod2=4,2720,0
 [END]
 
-;sufi=1030000006449
+;linzid=60013
 [POLYLINE]
 Type=0xa
 Label=HUKATERE RD
@@ -349,7 +349,7 @@ Nod2=5,6067,0
 Nod3=24,50,0
 [END]
 
-;sufi=1030000006310
+;linzid=49675
 [POLYLINE]
 Type=0xa
 Label=COAST RD
@@ -362,7 +362,7 @@ Nod1=0,45,0
 Nod2=1,53,0
 [END]
 
-;sufi=1030000006466
+;linzid=49806
 [POLYLINE]
 Type=0xa
 Label=PEKERAU RD
@@ -377,7 +377,7 @@ Nod3=38,615,0
 Numbers1=0,O,195,195,E,266,342
 [END]
 
-;sufi=1030000006647
+;linzid=49955
 [POLYLINE]
 Type=0xa
 Label=WAINUI VALLEY RD
@@ -391,7 +391,7 @@ Nod2=12,1647,0
 Numbers1=0,E,84,36,O,91,27
 [END]
 
-;sufi=1030000005417
+;linzid=48942
 [POLYLINE]
 Type=0xa
 Label=RANGIHOUA RD
@@ -405,7 +405,7 @@ Nod2=12,2203,0
 Numbers1=0,E,502,502,N,-1,-1
 [END]
 
-;sufi=1030000005417
+;linzid=48942
 [POLYLINE]
 Type=0xa
 Label=RANGIHOUA RD
@@ -418,7 +418,7 @@ Nod1=0,2176,0
 Nod2=12,2242,0
 [END]
 
-;sufi=1030000213477
+;linzid=90492
 [POLYLINE]
 Type=0xa
 Label=OIHI RD
@@ -431,7 +431,7 @@ Nod1=0,2242,0
 Nod2=15,2722,0
 [END]
 
-;sufi=1030000213582
+;linzid=90587
 [POLYLINE]
 Type=0x6
 Label=WAIARUHE WAY
@@ -444,7 +444,7 @@ Nod1=0,2438,0
 Nod2=3,2723,0
 [END]
 
-;sufi=1030000213626
+;linzid=90600
 [POLYLINE]
 Type=0x6
 Label=TE RAUPO RD
@@ -457,7 +457,7 @@ Nod1=0,4200,0
 Nod2=31,2724,0
 [END]
 
-;sufi=1030000186154
+;linzid=59069
 [POLYLINE]
 Type=0x6
 Label=OTAMARUA RD
@@ -470,7 +470,7 @@ Nod1=0,2725,0
 Nod2=2,2495,0
 [END]
 
-;sufi=1030000186154
+;linzid=59069
 [POLYLINE]
 Type=0x6
 Label=OTAMARUA RD
@@ -484,7 +484,7 @@ Nod2=1,2726,0
 Numbers1=0,O,31,31,E,40,40
 [END]
 
-;sufi=1030000186154
+;linzid=59069
 [POLYLINE]
 Type=0x6
 Label=OTAMARUA RD
@@ -498,7 +498,7 @@ Nod2=6,2495,0
 Numbers1=0,O,31,31,N,-1,-1
 [END]
 
-;sufi=1030000213657
+;linzid=90681
 [POLYLINE]
 Type=0x6
 Label=KAIPATIKI RISE
@@ -512,7 +512,7 @@ Nod2=3,2182,0
 Numbers1=0,O,1,7,E,2,10
 [END]
 
-;sufi=1030000005835
+;linzid=49286
 [POLYLINE]
 Type=0xa
 Label=ORAKAU RD
@@ -526,7 +526,7 @@ Nod2=76,1836,0
 Numbers1=0,O,1213,1509,E,1496,1496
 [END]
 
-;sufi=1030000005422
+;linzid=48947
 [POLYLINE]
 Type=0xa
 Label=RAPARAPA RD
@@ -540,7 +540,7 @@ Nod2=21,2729,0
 Numbers1=0,O,75,75,E,50,50
 [END]
 
-;sufi=1030000005461
+;linzid=48979
 [POLYLINE]
 Type=0x6
 Label=COTTLE HILL DR
@@ -554,7 +554,7 @@ Nod2=7,2730,0
 Numbers1=0,O,25,73,E,28,48
 [END]
 
-;sufi=1030000006679
+;linzid=49982
 [POLYLINE]
 Type=0x6
 Label=LEWER RD
@@ -568,7 +568,7 @@ Nod2=1,1388,0
 Numbers1=0,O,5,5,E,8,8
 [END]
 
-;sufi=1030000213863
+;linzid=90804
 [POLYLINE]
 Type=0xa
 Label=BRIDLE TRACK RD
@@ -581,7 +581,7 @@ Nod1=0,2732,0
 Nod2=19,2662,0
 [END]
 
-;sufi=1030000212353
+;linzid=89544
 [POLYLINE]
 Type=0xa
 Label=AKATERE RD
@@ -594,7 +594,7 @@ Nod1=0,1245,0
 Nod2=1,1246,0
 [END]
 
-;sufi=1030000212343
+;linzid=89523
 [POLYLINE]
 Type=0xa
 Label=WAIAUA RD
@@ -608,7 +608,7 @@ Nod2=50,2733,0
 Numbers1=0,O,53,363,E,2,162
 [END]
 
-;sufi=1030000006077
+;linzid=59961
 [POLYLINE]
 Type=0xa
 Label=TE HUA HUA RD
@@ -621,7 +621,7 @@ Nod1=0,866,0
 Nod2=2,870,0
 [END]
 
-;sufi=1030000006040
+;linzid=90199
 [POLYLINE]
 Type=0xa
 Label=UMAWERA SCHOOL RD
@@ -635,7 +635,7 @@ Nod2=13,1147,0
 Numbers1=0,E,52,4,O,43,7
 [END]
 
-;sufi=1030000213927
+;linzid=90858
 [POLYLINE]
 Type=0x6
 Label=WAITOTARA DR
@@ -649,7 +649,7 @@ Nod2=7,1784,0
 Numbers1=0,O,55,55,E,86,108
 [END]
 
-;sufi=1030000006077
+;linzid=59961
 [POLYLINE]
 Type=0xa
 Label=TE HUA HUA RD
@@ -662,7 +662,7 @@ Nod1=0,2735,0
 Nod2=13,869,0
 [END]
 
-;sufi=1030000001623
+;linzid=90882
 [POLYLINE]
 Type=0xa
 Label=PIPIWAI RD
@@ -676,7 +676,7 @@ Nod2=48,1951,0
 Numbers1=0,O,4623,4925,E,4668,4816
 [END]
 
-;sufi=1030000001623
+;linzid=90882
 [POLYLINE]
 Type=0xa
 Label=PIPIWAI RD
@@ -690,7 +690,7 @@ Nod2=26,2736,1
 Numbers1=0,E,4150,4116,O,4429,4117
 [END]
 
-;sufi=1030000005398
+;linzid=59872
 [POLYLINE]
 Type=0x6
 Label=MASSEY ST
@@ -704,7 +704,7 @@ Nod2=1,2737,0
 Numbers1=0,E,14,28,O,13,27
 [END]
 
-;sufi=1030000006390
+;linzid=60005
 [POLYLINE]
 Type=0xa
 Label=TE PAKI STREAM RD
@@ -719,7 +719,7 @@ Nod3=34,1,0
 Numbers1=0,O,47,47,E,22,22
 [END]
 
-;sufi=1030000006543
+;linzid=49869
 [POLYLINE]
 Type=0xa
 Label=TE HAPUA RD
@@ -732,7 +732,7 @@ Nod1=0,3,0
 Nod2=31,6097,0
 [END]
 
-;sufi=1030000006283
+;linzid=49652
 [POLYLINE]
 Type=0x6
 Label=MITI MITI RD
@@ -745,7 +745,7 @@ Nod1=0,2741,0
 Nod2=1,7,0
 [END]
 
-;sufi=1030000006283
+;linzid=49652
 [POLYLINE]
 Type=0xa
 Label=MITI MITI RD
@@ -758,7 +758,7 @@ Nod1=0,7,0
 Nod2=14,12,0
 [END]
 
-;sufi=1030000006322
+;linzid=49684
 [POLYLINE]
 Type=0xa
 Label=NO 2 ARTERIAL RD
@@ -771,7 +771,7 @@ Nod1=0,7,0
 Nod2=18,14,0
 [END]
 
-;sufi=1030000006543
+;linzid=49869
 [POLYLINE]
 Type=0xa
 Label=TE HAPUA RD
@@ -784,7 +784,7 @@ Nod1=0,8,0
 Nod2=1,9,0
 [END]
 
-;sufi=1030000006543
+;linzid=49869
 [POLYLINE]
 Type=0xa
 Label=TE HAPUA RD
@@ -798,7 +798,7 @@ Nod2=55,10,0
 Numbers1=0,O,707,731,E,1058,1058
 [END]
 
-;sufi=1030000006351
+;linzid=49709
 [POLYLINE]
 Type=0xa
 Label=PAUA RD
@@ -812,7 +812,7 @@ Nod2=59,20,0
 Numbers1=0,O,147,459,E,400,400
 [END]
 
-;sufi=1030000006416
+;linzid=49764
 [POLYLINE]
 Type=0x6
 Label=WAHARUA RD
@@ -826,7 +826,7 @@ Nod2=3,11,0
 Numbers1=0,E,96,96,O,99,77
 [END]
 
-;sufi=1030000006608
+;linzid=49925
 [POLYLINE]
 Type=0xa
 Label=OROMANGA RD
@@ -839,7 +839,7 @@ Nod1=0,2744,0
 Nod2=13,14,0
 [END]
 
-;sufi=1030000006543
+;linzid=49869
 [POLYLINE]
 Type=0x6
 Label=TE HAPUA RD
@@ -853,7 +853,7 @@ Nod2=8,15,0
 Numbers1=0,O,1075,1095,E,1076,1114
 [END]
 
-;sufi=1030000006416
+;linzid=49764
 [POLYLINE]
 Type=0x6
 Label=WAHARUA RD
@@ -866,7 +866,7 @@ Nod1=0,16,0
 Nod2=1,15,0
 [END]
 
-;sufi=1030000006543
+;linzid=49869
 [POLYLINE]
 Type=0x6
 Label=TE HAPUA RD
@@ -881,7 +881,7 @@ Nod3=11,18,0
 Numbers1=0,O,1145,1241,E,1136,1166
 [END]
 
-;sufi=1030000006416
+;linzid=49764
 [POLYLINE]
 Type=0x6
 Label=WAHARUA RD
@@ -895,7 +895,7 @@ Nod2=6,16,0
 Numbers1=0,E,38,2,O,45,1
 [END]
 
-;sufi=1030000006317
+;linzid=49680
 [POLYLINE]
 Type=0xa
 Label=No 3 ARTERIAL RD
@@ -908,7 +908,7 @@ Nod1=0,12,0
 Nod2=9,13,0
 [END]
 
-;sufi=1030000006317
+;linzid=49680
 [POLYLINE]
 Type=0xa
 Label=No 3 ARTERIAL RD
@@ -921,7 +921,7 @@ Nod1=0,17,0
 Nod2=16,13,0
 [END]
 
-;sufi=1030000006608
+;linzid=49925
 [POLYLINE]
 Type=0xa
 Label=OROMANGA RD
@@ -934,7 +934,7 @@ Nod1=0,14,0
 Nod2=12,17,0
 [END]
 
-;sufi=1030000006322
+;linzid=49684
 [POLYLINE]
 Type=0xa
 Label=No 2 ARTERIAL RD
@@ -947,7 +947,7 @@ Nod1=0,14,0
 Nod2=10,19,0
 [END]
 
-;sufi=1030000006543
+;linzid=49869
 [POLYLINE]
 Type=0x6
 Label=TE HAPUA RD
@@ -961,7 +961,7 @@ Nod2=1,2745,0
 Numbers1=0,O,1247,1247,N,-1,-1
 [END]
 
-;sufi=1030000006351
+;linzid=49709
 [POLYLINE]
 Type=0xa
 Label=PAUA RD
@@ -974,7 +974,7 @@ Nod1=0,2746,0
 Nod2=7,20,0
 [END]
 
-;sufi=1030000006608
+;linzid=49925
 [POLYLINE]
 Type=0xa
 Label=OROMANGA RD
@@ -987,7 +987,7 @@ Nod1=0,17,0
 Nod2=13,22,0
 [END]
 
-;sufi=1030000006317
+;linzid=49680
 [POLYLINE]
 Type=0xa
 Label=No 3 ARTERIAL RD
@@ -1000,7 +1000,7 @@ Nod1=0,17,0
 Nod2=3,23,0
 [END]
 
-;sufi=1030000006392
+;linzid=49743
 [POLYLINE]
 Type=0xa
 Label=THE ISLAND RD
@@ -1013,7 +1013,7 @@ Nod1=0,19,0
 Nod2=10,23,0
 [END]
 
-;sufi=1030000006392
+;linzid=49743
 [POLYLINE]
 Type=0xa
 Label=THE ISLAND RD
@@ -1026,7 +1026,7 @@ Nod1=0,2747,0
 Nod2=5,19,0
 [END]
 
-;sufi=1030000006389
+;linzid=49741
 [POLYLINE]
 Type=0xa
 Label=TE PUA RD
@@ -1039,7 +1039,7 @@ Nod1=0,20,0
 Nod2=17,2748,0
 [END]
 
-;sufi=1030000006548
+;linzid=49872
 [POLYLINE]
 Type=0xa
 Label=TE AHU RD
@@ -1053,7 +1053,7 @@ Nod2=10,21,0
 Numbers1=0,E,484,364,O,517,437
 [END]
 
-;sufi=1030000006341
+;linzid=49702
 [POLYLINE]
 Type=0xa
 Label=WIKI ROADWAY
@@ -1066,7 +1066,7 @@ Nod1=0,21,0
 Nod2=3,2750,0
 [END]
 
-;sufi=1030000006548
+;linzid=49872
 [POLYLINE]
 Type=0x6
 Label=TE AHU RD
@@ -1080,7 +1080,7 @@ Nod2=1,22,0
 Numbers1=0,E,324,324,N,-1,-1
 [END]
 
-;sufi=1030000006548
+;linzid=49872
 [POLYLINE]
 Type=0xa
 Label=TE AHU RD
@@ -1094,7 +1094,7 @@ Nod2=20,25,0
 Numbers1=0,E,324,60,O,321,51
 [END]
 
-;sufi=1030000006583
+;linzid=49903
 [POLYLINE]
 Type=0xa
 Label=HARAWIRA ROADWAY
@@ -1107,7 +1107,7 @@ Nod1=0,28,0
 Nod2=6,2751,0
 [END]
 
-;sufi=1030000006377
+;linzid=49732
 [POLYLINE]
 Type=0xa
 Label=EAST COAST ROADWAY
@@ -1120,7 +1120,7 @@ Nod1=0,4191,0
 Nod2=1,2752,0
 [END]
 
-;sufi=1030000006272
+;linzid=49644
 [POLYLINE]
 Type=0xa
 Label=POTAHI RD
@@ -1133,7 +1133,7 @@ Nod1=0,27,0
 Nod2=1,2753,0
 [END]
 
-;sufi=1030000006600
+;linzid=49918
 [POLYLINE]
 Type=0xa
 Label=EVERITT RD
@@ -1146,7 +1146,7 @@ Nod2=1,2754,0
 Numbers1=0,O,25,97,N,-1,-1
 [END]
 
-;sufi=1030000006302
+;linzid=49668
 [POLYLINE]
 Type=0xa
 Label=SALT RD
@@ -1160,7 +1160,7 @@ Nod2=3,31,0
 Numbers1=0,N,-1,-1,E,92,92
 [END]
 
-;sufi=1030000006501
+;linzid=49837
 [POLYLINE]
 Type=0xa
 Label=NGATAKI RD
@@ -1174,7 +1174,7 @@ Nod2=19,32,0
 Numbers1=0,E,330,270,O,395,151
 [END]
 
-;sufi=1030000006465
+;linzid=49805
 [POLYLINE]
 Type=0xa
 Label=PINE BLOCK RD
@@ -1188,7 +1188,7 @@ Nod2=14,2757,0
 Numbers1=0,O,117,117,N,-1,-1
 [END]
 
-;sufi=1030000006501
+;linzid=49837
 [POLYLINE]
 Type=0xa
 Label=NGATAKI RD
@@ -1201,7 +1201,7 @@ Nod1=0,32,0
 Nod2=11,37,0
 [END]
 
-;sufi=1030000006534
+;linzid=49862
 [POLYLINE]
 Type=0xa
 Label=RARAWA BEACH RD
@@ -1216,7 +1216,7 @@ Nod3=12,2758,0
 Numbers1=0,O,29,29,N,-1,-1
 [END]
 
-;sufi=1030000006386
+;linzid=49739
 [POLYLINE]
 Type=0xa
 Label=KIMBERLEY RD
@@ -1230,7 +1230,7 @@ Nod2=38,36,0
 Numbers1=0,E,612,372,O,611,367
 [END]
 
-;sufi=1030000006443
+;linzid=49787
 [POLYLINE]
 Type=0xa
 Label=MCMANUS RD
@@ -1244,7 +1244,7 @@ Nod2=4,36,0
 Numbers1=0,E,40,10,N,-1,-1
 [END]
 
-;sufi=1030000006443
+;linzid=49787
 [POLYLINE]
 Type=0xa
 Label=MCMANUS RD
@@ -1257,7 +1257,7 @@ Nod1=0,2759,0
 Nod2=10,34,0
 [END]
 
-;sufi=1030000006316
+;linzid=59994
 [POLYLINE]
 Type=0xa
 Label=No 2 ARTERIAL RD
@@ -1270,7 +1270,7 @@ Nod1=0,2760,0
 Nod2=21,50,0
 [END]
 
-;sufi=1030000006386
+;linzid=49739
 [POLYLINE]
 Type=0xa
 Label=KIMBERLEY RD
@@ -1284,7 +1284,7 @@ Nod2=27,42,0
 Numbers1=0,E,312,106,O,321,81
 [END]
 
-;sufi=1030000006458
+;linzid=49798
 [POLYLINE]
 Type=0xa
 Label=HENDERSON BAY RD
@@ -1298,7 +1298,7 @@ Nod2=19,60,0
 Numbers1=0,O,23,513,E,208,516
 [END]
 
-;sufi=1030000006294
+;linzid=49660
 [POLYLINE]
 Type=0xa
 Label=TRIG RD
@@ -1311,7 +1311,7 @@ Nod1=0,42,0
 Nod2=18,40,0
 [END]
 
-;sufi=1030000006294
+;linzid=49660
 [POLYLINE]
 Type=0x6
 Label=TRIG RD
@@ -1324,7 +1324,7 @@ Nod1=0,39,0
 Nod2=2,40,0
 [END]
 
-;sufi=1030000006294
+;linzid=49660
 [POLYLINE]
 Type=0xa
 Label=TRIG RD
@@ -1338,7 +1338,7 @@ Nod2=14,43,0
 Numbers1=0,E,330,330,O,331,271
 [END]
 
-;sufi=1030000006386
+;linzid=49739
 [POLYLINE]
 Type=0xa
 Label=KIMBERLEY RD
@@ -1351,7 +1351,7 @@ Nod1=0,42,0
 Nod2=9,44,0
 [END]
 
-;sufi=1030000006294
+;linzid=49660
 [POLYLINE]
 Type=0xa
 Label=TRIG RD
@@ -1365,7 +1365,7 @@ Nod2=25,47,0
 Numbers1=0,E,90,56,O,245,61
 [END]
 
-;sufi=1030000006518
+;linzid=49850
 [POLYLINE]
 Type=0xa
 Label=FAR NORTH RD
@@ -1378,7 +1378,7 @@ Nod1=0,2761,0
 Nod2=5,46,0
 [END]
 
-;sufi=1030000006610
+;linzid=49926
 [POLYLINE]
 Type=0xa
 Label=OTAIPANGO RD
@@ -1392,7 +1392,7 @@ Nod2=1,59,0
 Numbers1=0,E,98,76,O,67,67
 [END]
 
-;sufi=1030000006475
+;linzid=49814
 [POLYLINE]
 Type=0xa
 Label=SUBRITZKY RD
@@ -1406,7 +1406,7 @@ Nod2=1,2763,0
 Numbers1=0,N,-1,-1,E,16,32
 [END]
 
-;sufi=1030000006401
+;linzid=49752
 [POLYLINE]
 Type=0xa
 Label=CEMETERY RD
@@ -1419,7 +1419,7 @@ Nod1=0,2764,0
 Nod2=6,54,0
 [END]
 
-;sufi=1030000006303
+;linzid=49669
 [POLYLINE]
 Type=0xa
 Label=SALVATION RD
@@ -1432,7 +1432,7 @@ Nod1=0,56,0
 Nod2=8,55,0
 [END]
 
-;sufi=1030000006572
+;linzid=49894
 [POLYLINE]
 Type=0xa
 Label=KAIKATIA RD
@@ -1445,7 +1445,7 @@ Nod1=0,2765,0
 Nod2=4,55,0
 [END]
 
-;sufi=1030000006303
+;linzid=49669
 [POLYLINE]
 Type=0xa
 Label=SALVATION RD
@@ -1458,7 +1458,7 @@ Nod1=0,55,0
 Nod2=4,2766,0
 [END]
 
-;sufi=1030000006449
+;linzid=60013
 [POLYLINE]
 Type=0xa
 Label=HUKATERE RD
@@ -1471,7 +1471,7 @@ Nod1=0,52,0
 Nod2=8,61,0
 [END]
 
-;sufi=1030000006320
+;linzid=49682
 [POLYLINE]
 Type=0xa
 Label=No 3 ARTERIAL RD
@@ -1484,7 +1484,7 @@ Nod1=0,52,0
 Nod2=8,69,0
 [END]
 
-;sufi=1030000006449
+;linzid=60013
 [POLYLINE]
 Type=0xa
 Label=HUKATERE RD
@@ -1497,7 +1497,7 @@ Nod1=0,52,0
 Nod2=6,50,0
 [END]
 
-;sufi=1030000006316
+;linzid=59994
 [POLYLINE]
 Type=0xa
 Label=No 2 ARTERIAL RD
@@ -1510,7 +1510,7 @@ Nod1=0,50,0
 Nod2=7,72,0
 [END]
 
-;sufi=1030000006406
+;linzid=60006
 [POLYLINE]
 Type=0xa
 Label=SIX TRUCK RD
@@ -1523,7 +1523,7 @@ Nod1=0,53,0
 Nod2=2,72,0
 [END]
 
-;sufi=1030000006310
+;linzid=49675
 [POLYLINE]
 Type=0xa
 Label=COAST RD
@@ -1536,7 +1536,7 @@ Nod1=0,53,0
 Nod2=6,64,0
 [END]
 
-;sufi=1030000006571
+;linzid=49893
 [POLYLINE]
 Type=0xa
 Label=KAUERE RD
@@ -1550,7 +1550,7 @@ Nod2=2,2767,0
 Numbers1=0,O,19,19,N,-1,-1
 [END]
 
-;sufi=1030000006610
+;linzid=49926
 [POLYLINE]
 Type=0xa
 Label=OTAIPANGO RD
@@ -1564,7 +1564,7 @@ Nod2=5,60,0
 Numbers1=0,E,40,18,N,-1,-1
 [END]
 
-;sufi=1030000006458
+;linzid=49798
 [POLYLINE]
 Type=0xa
 Label=HENDERSON BAY RD
@@ -1577,7 +1577,7 @@ Nod1=0,60,0
 Nod2=2,2768,0
 [END]
 
-;sufi=1030000006301
+;linzid=49667
 [POLYLINE]
 Type=0xa
 Label=SALEYARD AVE
@@ -1590,7 +1590,7 @@ Nod1=0,58,0
 Nod2=3,2771,0
 [END]
 
-;sufi=1030000006424
+;linzid=49770
 [POLYLINE]
 Type=0xa
 Label=LAMB RD
@@ -1604,7 +1604,7 @@ Nod2=18,63,0
 Numbers1=0,E,54,18,O,121,23
 [END]
 
-;sufi=1030000006446
+;linzid=49789
 [POLYLINE]
 Type=0xa
 Label=MAY RD
@@ -1617,7 +1617,7 @@ Nod1=0,57,0
 Nod2=8,2772,0
 [END]
 
-;sufi=1030000006383
+;linzid=60003
 [POLYLINE]
 Type=0xa
 Label=BURNAGE RD
@@ -1631,7 +1631,7 @@ Nod2=16,82,0
 Numbers1=0,E,176,24,O,173,23
 [END]
 
-;sufi=1030000006449
+;linzid=60013
 [POLYLINE]
 Type=0xa
 Label=HUKATERE RD
@@ -1645,7 +1645,7 @@ Nod2=9,65,0
 Numbers1=0,E,136,134,O,113,113
 [END]
 
-;sufi=1030000006372
+;linzid=49728
 [POLYLINE]
 Type=0xa
 Label=EASTERN BOUNDARY RD
@@ -1658,7 +1658,7 @@ Nod1=0,61,0
 Nod2=2,62,0
 [END]
 
-;sufi=1030000006318
+;linzid=49681
 [POLYLINE]
 Type=0xa
 Label=No 4 ARTERIAL RD
@@ -1671,7 +1671,7 @@ Nod1=0,62,0
 Nod2=36,81,0
 [END]
 
-;sufi=1030000006372
+;linzid=49728
 [POLYLINE]
 Type=0xa
 Label=EASTERN BOUNDARY RD
@@ -1684,7 +1684,7 @@ Nod1=0,62,0
 Nod2=55,99,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0xa
 Label=Accessway
@@ -1696,7 +1696,7 @@ Nod1=0,67,0
 Nod2=2,2774,0
 [END]
 
-;sufi=1030000006584
+;linzid=60029
 [POLYLINE]
 Type=0xa
 Label=HARBOUR VIEW RD
@@ -1712,7 +1712,7 @@ Numbers1=0,E,42,28,O,35,25
 Numbers2=2,E,20,8,O,19,7
 [END]
 
-;sufi=1030000197779
+;linzid=61908
 [POLYLINE]
 Type=0xa
 Label=JUNIPER LANE
@@ -1726,7 +1726,7 @@ Nod2=2,70,0
 Numbers1=0,E,6,6,O,11,5
 [END]
 
-;sufi=1030000006517
+;linzid=60022
 [POLYLINE]
 Type=0xa
 Label=FITZGERALD RD
@@ -1740,7 +1740,7 @@ Nod2=1,2777,0
 Numbers1=0,O,5,27,E,4,28
 [END]
 
-;sufi=1030000006271
+;linzid=49643
 [POLYLINE]
 Type=0xa
 Label=PUKENUI WHARF RD
@@ -1754,7 +1754,7 @@ Nod2=3,2778,0
 Numbers1=0,O,3,3,N,-1,-1
 [END]
 
-;sufi=1030000006424
+;linzid=49770
 [POLYLINE]
 Type=0xa
 Label=LAMB RD
@@ -1768,7 +1768,7 @@ Nod2=2,68,0
 Numbers1=0,E,14,6,O,11,3
 [END]
 
-;sufi=1030000006314
+;linzid=49678
 [POLYLINE]
 Type=0xa
 Label=NORTH RD
@@ -1781,7 +1781,7 @@ Nod1=0,69,0
 Nod2=12,81,0
 [END]
 
-;sufi=1030000006320
+;linzid=49682
 [POLYLINE]
 Type=0xa
 Label=No 3 ARTERIAL RD
@@ -1794,7 +1794,7 @@ Nod1=0,69,0
 Nod2=9,76,0
 [END]
 
-;sufi=1030000006308
+;linzid=59992
 [POLYLINE]
 Type=0xa
 Label=RONGOS RD
@@ -1807,7 +1807,7 @@ Nod1=0,2779,0
 Nod2=7,76,0
 [END]
 
-;sufi=1030000006406
+;linzid=60006
 [POLYLINE]
 Type=0xa
 Label=SIX TRUCK RD
@@ -1820,7 +1820,7 @@ Nod1=0,72,0
 Nod2=3,91,0
 [END]
 
-;sufi=1030000006316
+;linzid=59994
 [POLYLINE]
 Type=0xa
 Label=No 2 ARTERIAL RD
@@ -1833,7 +1833,7 @@ Nod1=0,72,0
 Nod2=1,83,0
 [END]
 
-;sufi=1030000006481
+;linzid=49819
 [POLYLINE]
 Type=0xa
 Label=STEEDS RD
@@ -1846,7 +1846,7 @@ Nod1=0,64,0
 Nod2=2,86,0
 [END]
 
-;sufi=1030000006333
+;linzid=49694
 [POLYLINE]
 Type=0xa
 Label=AIRSTRIP RD
@@ -1859,7 +1859,7 @@ Nod1=0,71,0
 Nod2=5,92,0
 [END]
 
-;sufi=1030000006310
+;linzid=49675
 [POLYLINE]
 Type=0xa
 Label=COAST RD
@@ -1872,7 +1872,7 @@ Nod1=0,64,0
 Nod2=3,71,0
 [END]
 
-;sufi=1030000006310
+;linzid=49675
 [POLYLINE]
 Type=0xa
 Label=COAST RD
@@ -1885,7 +1885,7 @@ Nod1=0,71,0
 Nod2=2,75,0
 [END]
 
-;sufi=1030000006520
+;linzid=49851
 [POLYLINE]
 Type=0x6
 Label=FORESHORE RD
@@ -1899,7 +1899,7 @@ Nod2=27,93,0
 Numbers1=0,E,400,320,O,379,177
 [END]
 
-;sufi=1030000006602
+;linzid=49920
 [POLYLINE]
 Type=0xa
 Label=WRECK BAY RD
@@ -1912,7 +1912,7 @@ Nod1=0,74,0
 Nod2=3,73,0
 [END]
 
-;sufi=1030000006602
+;linzid=49920
 [POLYLINE]
 Type=0xa
 Label=WRECK BAY RD
@@ -1925,7 +1925,7 @@ Nod1=0,2780,0
 Nod2=7,74,0
 [END]
 
-;sufi=1030000006537
+;linzid=49865
 [POLYLINE]
 Type=0xa
 Label=GUMFIELDS RD
@@ -1939,7 +1939,7 @@ Nod2=64,89,0
 Numbers1=0,O,149,175,N,-1,-1
 [END]
 
-;sufi=1030000006325
+;linzid=49686
 [POLYLINE]
 Type=0xa
 Label=NORTHWOOD AVE
@@ -1953,7 +1953,7 @@ Nod2=5,2781,0
 Numbers1=0,O,7,25,E,2,26
 [END]
 
-;sufi=1030000006330
+;linzid=49691
 [POLYLINE]
 Type=0xa
 Label=ARAIAWA RD
@@ -1966,7 +1966,7 @@ Nod1=0,84,0
 Nod2=2,2782,0
 [END]
 
-;sufi=1030000006589
+;linzid=49907
 [POLYLINE]
 Type=0x6
 Label=WATERFRONT RD
@@ -1979,7 +1979,7 @@ Nod1=0,77,0
 Nod2=9,4657,0
 [END]
 
-;sufi=1030000006452
+;linzid=49794
 [POLYLINE]
 Type=0xa
 Label=HOUHORA HEADS RD
@@ -1994,7 +1994,7 @@ Nod3=26,6069,0
 Numbers1=0,O,221,221,E,2,202
 [END]
 
-;sufi=1030000006343
+;linzid=49703
 [POLYLINE]
 Type=0x6
 Label=WHALERS RD
@@ -2008,7 +2008,7 @@ Nod2=10,87,0
 Numbers1=0,E,16,16,O,57,57
 [END]
 
-;sufi=1030000006308
+;linzid=59992
 [POLYLINE]
 Type=0xa
 Label=RONGOS RD
@@ -2021,7 +2021,7 @@ Nod1=0,76,0
 Nod2=7,95,0
 [END]
 
-;sufi=1030000006318
+;linzid=49681
 [POLYLINE]
 Type=0xa
 Label=No 4 ARTERIAL RD
@@ -2034,7 +2034,7 @@ Nod1=0,81,0
 Nod2=6,95,0
 [END]
 
-;sufi=1030000006320
+;linzid=49682
 [POLYLINE]
 Type=0xa
 Label=No 3 ARTERIAL RD
@@ -2047,7 +2047,7 @@ Nod1=0,76,0
 Nod2=6,91,0
 [END]
 
-;sufi=1030000006463
+;linzid=49803
 [POLYLINE]
 Type=0xa
 Label=BACICA RD
@@ -2060,7 +2060,7 @@ Nod1=0,83,0
 Nod2=5,100,0
 [END]
 
-;sufi=1030000006316
+;linzid=59994
 [POLYLINE]
 Type=0xa
 Label=No 2 ARTERIAL RD
@@ -2073,7 +2073,7 @@ Nod1=0,83,0
 Nod2=1,86,0
 [END]
 
-;sufi=1030000006316
+;linzid=59994
 [POLYLINE]
 Type=0xa
 Label=No 2 ARTERIAL RD
@@ -2086,7 +2086,7 @@ Nod1=0,86,0
 Nod2=3,92,0
 [END]
 
-;sufi=1030000006418
+;linzid=49766
 [POLYLINE]
 Type=0xa
 Label=WAIHI RD
@@ -2099,7 +2099,7 @@ Nod1=0,75,0
 Nod2=5,101,0
 [END]
 
-;sufi=1030000006310
+;linzid=49675
 [POLYLINE]
 Type=0xa
 Label=COAST RD
@@ -2112,7 +2112,7 @@ Nod1=0,75,0
 Nod2=15,102,0
 [END]
 
-;sufi=1030000006308
+;linzid=59992
 [POLYLINE]
 Type=0xa
 Label=RONGOS RD
@@ -2125,7 +2125,7 @@ Nod1=0,95,0
 Nod2=3,99,0
 [END]
 
-;sufi=1030000006372
+;linzid=49728
 [POLYLINE]
 Type=0xa
 Label=EASTERN BOUNDARY RD
@@ -2138,7 +2138,7 @@ Nod1=0,99,0
 Nod2=7,2784,0
 [END]
 
-;sufi=1030000006318
+;linzid=49681
 [POLYLINE]
 Type=0xa
 Label=No 4 ARTERIAL RD
@@ -2151,7 +2151,7 @@ Nod1=0,95,0
 Nod2=4,2785,0
 [END]
 
-;sufi=1030000006320
+;linzid=49682
 [POLYLINE]
 Type=0xa
 Label=No 3 ARTERIAL RD
@@ -2164,7 +2164,7 @@ Nod1=0,91,0
 Nod2=2,100,0
 [END]
 
-;sufi=1030000006463
+;linzid=49803
 [POLYLINE]
 Type=0xa
 Label=BACICA RD
@@ -2177,7 +2177,7 @@ Nod1=0,100,0
 Nod2=3,2786,0
 [END]
 
-;sufi=1030000006418
+;linzid=49766
 [POLYLINE]
 Type=0xa
 Label=WAIHI RD
@@ -2190,7 +2190,7 @@ Nod1=0,101,0
 Nod2=2,2787,0
 [END]
 
-;sufi=1030000006316
+;linzid=59994
 [POLYLINE]
 Type=0xa
 Label=No 2 ARTERIAL RD
@@ -2203,7 +2203,7 @@ Nod1=0,92,0
 Nod2=1,101,0
 [END]
 
-;sufi=1030000006513
+;linzid=60021
 [POLYLINE]
 Type=0xa
 Label=GOAT HILL RD
@@ -2216,7 +2216,7 @@ Nod1=0,2788,0
 Nod2=5,105,0
 [END]
 
-;sufi=1030000006320
+;linzid=49682
 [POLYLINE]
 Type=0xa
 Label=No 3 ARTERIAL RD
@@ -2229,7 +2229,7 @@ Nod1=0,143,0
 Nod2=18,100,0
 [END]
 
-;sufi=1030000006316
+;linzid=59994
 [POLYLINE]
 Type=0xa
 Label=No 2 ARTERIAL RD
@@ -2242,7 +2242,7 @@ Nod1=0,101,0
 Nod2=8,105,0
 [END]
 
-;sufi=1030000006267
+;linzid=49639
 [POLYLINE]
 Type=0xa
 Label=MARTINKOVICH RD
@@ -2255,7 +2255,7 @@ Nod1=0,102,0
 Nod2=6,124,0
 [END]
 
-;sufi=1030000006310
+;linzid=49675
 [POLYLINE]
 Type=0xa
 Label=COAST RD
@@ -2268,7 +2268,7 @@ Nod1=0,102,0
 Nod2=16,116,0
 [END]
 
-;sufi=1030000006315
+;linzid=49679
 [POLYLINE]
 Type=0x6
 Label=NINETY MILE BEACH RD
@@ -2281,7 +2281,7 @@ Nod1=0,2789,0
 Nod2=66,108,0
 [END]
 
-;sufi=1030000006547
+;linzid=60024
 [POLYLINE]
 Type=0x6
 Label=TASMAN HTS
@@ -2295,7 +2295,7 @@ Nod2=6,2790,0
 Numbers1=0,O,1,63,E,4,54
 [END]
 
-;sufi=1030000006520
+;linzid=49851
 [POLYLINE]
 Type=0x6
 Label=FORESHORE RD
@@ -2309,7 +2309,7 @@ Nod2=7,103,0
 Numbers1=0,E,114,66,O,125,57
 [END]
 
-;sufi=1030000006520
+;linzid=49851
 [POLYLINE]
 Type=0x6
 Label=FORESHORE RD
@@ -2322,7 +2322,7 @@ Nod1=0,93,0
 Nod2=5,96,0
 [END]
 
-;sufi=1030000183012
+;linzid=58938
 [POLYLINE]
 Type=0x6
 Label=REEF VIEW RD
@@ -2336,7 +2336,7 @@ Nod2=1,94,0
 Numbers1=0,O,1,1,N,-1,-1
 [END]
 
-;sufi=1030000183012
+;linzid=58938
 [POLYLINE]
 Type=0x6
 Label=REEF VIEW RD
@@ -2349,7 +2349,7 @@ Nod1=0,98,0
 Nod2=1,97,0
 [END]
 
-;sufi=1030000183012
+;linzid=58938
 [POLYLINE]
 Type=0x6
 Label=REEF VIEW RD
@@ -2363,7 +2363,7 @@ Nod2=5,97,0
 Numbers1=0,O,15,33,E,36,34
 [END]
 
-;sufi=1030000197775
+;linzid=61912
 [POLYLINE]
 Type=0x6
 Label=HIGHFIELDS
@@ -2377,7 +2377,7 @@ Nod2=4,2791,0
 Numbers1=0,O,1,7,E,2,18
 [END]
 
-;sufi=1030000006537
+;linzid=49865
 [POLYLINE]
 Type=0xa
 Label=GUMFIELDS RD
@@ -2391,7 +2391,7 @@ Nod2=40,115,0
 Numbers1=0,O,447,685,N,-1,-1
 [END]
 
-;sufi=1030000006316
+;linzid=59994
 [POLYLINE]
 Type=0xa
 Label=No 2 ARTERIAL RD
@@ -2404,7 +2404,7 @@ Nod1=0,105,0
 Nod2=3,124,0
 [END]
 
-;sufi=1030000006582
+;linzid=49902
 [POLYLINE]
 Type=0xa
 Label=FORK RD
@@ -2417,7 +2417,7 @@ Nod1=0,2792,0
 Nod2=4,130,0
 [END]
 
-;sufi=1030000006315
+;linzid=49679
 [POLYLINE]
 Type=0xa
 Label=NINETY MILE BEACH RD
@@ -2430,7 +2430,7 @@ Nod1=0,108,0
 Nod2=10,131,0
 [END]
 
-;sufi=1030000006431
+;linzid=49777
 [POLYLINE]
 Type=0x6
 Label=KORORA ST
@@ -2444,7 +2444,7 @@ Nod2=1,2793,0
 Numbers1=0,O,3,15,E,2,16
 [END]
 
-;sufi=1030000006423
+;linzid=60010
 [POLYLINE]
 Type=0x6
 Label=KIWI ST
@@ -2458,7 +2458,7 @@ Nod2=1,113,0
 Numbers1=0,E,4,4,O,1,1
 [END]
 
-;sufi=1030000006520
+;linzid=49851
 [POLYLINE]
 Type=0x6
 Label=FORESHORE RD
@@ -2472,7 +2472,7 @@ Nod2=7,104,0
 Numbers1=0,E,24,24,O,57,21
 [END]
 
-;sufi=1030000006306
+;linzid=49672
 [POLYLINE]
 Type=0x6
 Label=ROMA RD
@@ -2485,7 +2485,7 @@ Nod1=0,104,0
 Nod2=5,107,0
 [END]
 
-;sufi=1030000006520
+;linzid=49851
 [POLYLINE]
 Type=0x6
 Label=FORESHORE RD
@@ -2498,7 +2498,7 @@ Nod1=0,106,0
 Nod2=1,114,0
 [END]
 
-;sufi=1030000006520
+;linzid=49851
 [POLYLINE]
 Type=0x6
 Label=FORESHORE RD
@@ -2511,7 +2511,7 @@ Nod1=0,104,0
 Nod2=5,106,0
 [END]
 
-;sufi=1030000006306
+;linzid=49672
 [POLYLINE]
 Type=0x6
 Label=ROMA RD
@@ -2525,7 +2525,7 @@ Nod2=12,125,0
 Numbers1=0,O,3,129,E,6,144
 [END]
 
-;sufi=1030000006420
+;linzid=49767
 [POLYLINE]
 Type=0xa
 Label=WAITEHUIA RD
@@ -2539,7 +2539,7 @@ Nod2=2,125,0
 Numbers1=0,E,36,36,O,19,19
 [END]
 
-;sufi=1030000006537
+;linzid=49865
 [POLYLINE]
 Type=0xa
 Label=GUMFIELDS RD
@@ -2553,7 +2553,7 @@ Nod2=14,5919,0
 Nod3=28,115,0
 [END]
 
-;sufi=1030000197838
+;linzid=61914
 [POLYLINE]
 Type=0xa
 Label=TURK VALLEY RD
@@ -2567,7 +2567,7 @@ Nod2=3,137,0
 Numbers1=0,O,27,27,E,84,20
 [END]
 
-;sufi=1030000006267
+;linzid=49639
 [POLYLINE]
 Type=0xa
 Label=MARTINKOVICH RD
@@ -2580,7 +2580,7 @@ Nod1=0,124,0
 Nod2=5,143,0
 [END]
 
-;sufi=1030000006316
+;linzid=59994
 [POLYLINE]
 Type=0xa
 Label=No 2 ARTERIAL RD
@@ -2593,7 +2593,7 @@ Nod1=0,124,0
 Nod2=3,130,0
 [END]
 
-;sufi=1030000006316
+;linzid=59994
 [POLYLINE]
 Type=0xa
 Label=No 2 ARTERIAL RD
@@ -2606,7 +2606,7 @@ Nod1=0,130,0
 Nod2=5,148,0
 [END]
 
-;sufi=1030000006326
+;linzid=49687
 [POLYLINE]
 Type=0xa
 Label=OGLE DR
@@ -2619,7 +2619,7 @@ Nod1=0,116,0
 Nod2=7,148,0
 [END]
 
-;sufi=1030000006460
+;linzid=49800
 [POLYLINE]
 Type=0xa
 Label=HEADQUARTERS RD
@@ -2632,7 +2632,7 @@ Nod1=0,131,0
 Nod2=1,133,0
 [END]
 
-;sufi=1030000006553
+;linzid=49876
 [POLYLINE]
 Type=0xa
 Label=TASMAN RD
@@ -2645,7 +2645,7 @@ Nod1=0,132,0
 Nod2=5,2802,0
 [END]
 
-;sufi=1030000006315
+;linzid=49679
 [POLYLINE]
 Type=0x6
 Label=NINETY MILE BEACH RD
@@ -2658,7 +2658,7 @@ Nod1=0,131,0
 Nod2=1,132,0
 [END]
 
-;sufi=1030000006310
+;linzid=49675
 [POLYLINE]
 Type=0xa
 Label=COAST RD
@@ -2671,7 +2671,7 @@ Nod1=0,116,0
 Nod2=14,133,0
 [END]
 
-;sufi=1030000006460
+;linzid=49800
 [POLYLINE]
 Type=0xa
 Label=HEADQUARTERS RD
@@ -2684,7 +2684,7 @@ Nod1=0,133,0
 Nod2=5,151,0
 [END]
 
-;sufi=1030000006315
+;linzid=49679
 [POLYLINE]
 Type=0xa
 Label=NINETY MILE BEACH RD
@@ -2697,7 +2697,7 @@ Nod1=0,132,0
 Nod2=5,135,0
 [END]
 
-;sufi=1030000006431
+;linzid=49777
 [POLYLINE]
 Type=0x6
 Label=KORORA ST
@@ -2711,7 +2711,7 @@ Nod2=2,123,0
 Numbers1=0,O,29,45,E,22,38
 [END]
 
-;sufi=1030000006577
+;linzid=49898
 [POLYLINE]
 Type=0x6
 Label=KAKA ST
@@ -2724,7 +2724,7 @@ Nod1=0,126,0
 Nod2=1,2806,0
 [END]
 
-;sufi=1030000006577
+;linzid=49898
 [POLYLINE]
 Type=0x6
 Label=KAKA ST
@@ -2737,7 +2737,7 @@ Nod1=0,127,0
 Nod2=2,126,0
 [END]
 
-;sufi=1030000006596
+;linzid=49914
 [POLYLINE]
 Type=0x6
 Label=WEKA ST
@@ -2751,7 +2751,7 @@ Nod2=1,121,0
 Numbers1=0,O,1,3,N,-1,-1
 [END]
 
-;sufi=1030000006577
+;linzid=49898
 [POLYLINE]
 Type=0x6
 Label=KAKA ST
@@ -2765,7 +2765,7 @@ Nod2=1,127,0
 Numbers1=0,E,6,4,O,5,3
 [END]
 
-;sufi=1030000006577
+;linzid=49898
 [POLYLINE]
 Type=0x6
 Label=KAKA ST
@@ -2779,7 +2779,7 @@ Nod2=3,123,0
 Numbers1=0,E,44,8,O,27,9
 [END]
 
-;sufi=1030000006423
+;linzid=60010
 [POLYLINE]
 Type=0x6
 Label=KIWI ST
@@ -2792,7 +2792,7 @@ Nod1=0,117,0
 Nod2=2,2810,0
 [END]
 
-;sufi=1030000006306
+;linzid=49672
 [POLYLINE]
 Type=0x6
 Label=ROMA RD
@@ -2807,7 +2807,7 @@ Nod3=12,6044,0
 Numbers1=0,O,179,223,E,184,202
 [END]
 
-;sufi=1030000006306
+;linzid=49672
 [POLYLINE]
 Type=0x6
 Label=ROMA RD
@@ -2821,7 +2821,7 @@ Nod2=2,128,0
 Numbers1=0,O,159,159,E,154,162
 [END]
 
-;sufi=1030000006441
+;linzid=60011
 [POLYLINE]
 Type=0xa
 Label=BIG FLAT RD
@@ -2835,7 +2835,7 @@ Nod2=16,160,0
 Numbers1=0,E,134,42,O,73,73
 [END]
 
-;sufi=1030000006441
+;linzid=60011
 [POLYLINE]
 Type=0xa
 Label=BIG FLAT RD
@@ -2849,7 +2849,7 @@ Nod2=13,149,0
 Numbers1=0,E,134,134,N,-1,-1
 [END]
 
-;sufi=1030000006573
+;linzid=49895
 [POLYLINE]
 Type=0xa
 Label=KATAVICH RD
@@ -2863,7 +2863,7 @@ Nod2=29,149,0
 Numbers1=0,O,143,205,N,-1,-1
 [END]
 
-;sufi=1030000006320
+;linzid=49682
 [POLYLINE]
 Type=0xa
 Label=No 3 ARTERIAL RD
@@ -2876,7 +2876,7 @@ Nod1=0,157,0
 Nod2=21,143,0
 [END]
 
-;sufi=1030000006326
+;linzid=49687
 [POLYLINE]
 Type=0xa
 Label=OGLE DR
@@ -2889,7 +2889,7 @@ Nod1=0,148,0
 Nod2=3,157,0
 [END]
 
-;sufi=1030000006316
+;linzid=59994
 [POLYLINE]
 Type=0xa
 Label=No 2 ARTERIAL RD
@@ -2902,7 +2902,7 @@ Nod1=0,148,0
 Nod2=7,151,0
 [END]
 
-;sufi=1030000006305
+;linzid=49671
 [POLYLINE]
 Type=0x6
 Label=RIMU ST
@@ -2915,7 +2915,7 @@ Nod1=0,135,0
 Nod2=2,2813,0
 [END]
 
-;sufi=1030000006456
+;linzid=49796
 [POLYLINE]
 Type=0xa
 Label=HINAU ST
@@ -2928,7 +2928,7 @@ Nod1=0,139,0
 Nod2=1,2815,0
 [END]
 
-;sufi=1030000006345
+;linzid=49705
 [POLYLINE]
 Type=0xa
 Label=WEST COAST RD
@@ -2941,7 +2941,7 @@ Nod1=0,138,0
 Nod2=1,145,0
 [END]
 
-;sufi=1030000006263
+;linzid=49635
 [POLYLINE]
 Type=0xa
 Label=MATAI ST
@@ -2955,7 +2955,7 @@ Nod2=1,144,0
 Numbers1=0,E,10,6,O,9,1
 [END]
 
-;sufi=1030000006315
+;linzid=49679
 [POLYLINE]
 Type=0xa
 Label=NINETY MILE BEACH RD
@@ -2968,7 +2968,7 @@ Nod1=0,138,0
 Nod2=3,2817,0
 [END]
 
-;sufi=1030000006315
+;linzid=49679
 [POLYLINE]
 Type=0xa
 Label=NINETY MILE BEACH RD
@@ -2981,7 +2981,7 @@ Nod1=0,140,0
 Nod2=2,138,0
 [END]
 
-;sufi=1030000006315
+;linzid=49679
 [POLYLINE]
 Type=0xa
 Label=NINETY MILE BEACH RD
@@ -2994,7 +2994,7 @@ Nod1=0,139,0
 Nod2=2,140,0
 [END]
 
-;sufi=1030000006504
+;linzid=49840
 [POLYLINE]
 Type=0xa
 Label=RATA ST
@@ -3008,7 +3008,7 @@ Nod2=3,2818,0
 Numbers1=0,O,3,15,E,10,10
 [END]
 
-;sufi=1030000006345
+;linzid=49705
 [POLYLINE]
 Type=0xa
 Label=WEST COAST RD
@@ -3022,7 +3022,7 @@ Nod2=1,144,0
 Numbers1=0,E,502,502,N,-1,-1
 [END]
 
-;sufi=1030000006295
+;linzid=49661
 [POLYLINE]
 Type=0xa
 Label=TOWAI ST
@@ -3035,7 +3035,7 @@ Nod1=0,140,0
 Nod2=1,2819,0
 [END]
 
-;sufi=1030000006315
+;linzid=49679
 [POLYLINE]
 Type=0xa
 Label=NINETY MILE BEACH RD
@@ -3048,7 +3048,7 @@ Nod1=0,135,0
 Nod2=6,139,0
 [END]
 
-;sufi=1030000006345
+;linzid=49705
 [POLYLINE]
 Type=0xa
 Label=WEST COAST RD
@@ -3062,7 +3062,7 @@ Nod2=3,146,0
 Numbers1=0,E,512,504,O,519,505
 [END]
 
-;sufi=1030000006310
+;linzid=49675
 [POLYLINE]
 Type=0xa
 Label=COAST RD
@@ -3075,7 +3075,7 @@ Nod1=0,146,0
 Nod2=8,2820,0
 [END]
 
-;sufi=1030000006573
+;linzid=49895
 [POLYLINE]
 Type=0xa
 Label=KATAVICH RD
@@ -3089,7 +3089,7 @@ Nod2=11,167,0
 Numbers1=0,E,14,8,N,-1,-1
 [END]
 
-;sufi=1030000006326
+;linzid=49687
 [POLYLINE]
 Type=0xa
 Label=OGLE DR
@@ -3102,7 +3102,7 @@ Nod1=0,157,0
 Nod2=3,2821,0
 [END]
 
-;sufi=1030000006460
+;linzid=49800
 [POLYLINE]
 Type=0xa
 Label=HEADQUARTERS RD
@@ -3115,7 +3115,7 @@ Nod1=0,151,0
 Nod2=14,2822,0
 [END]
 
-;sufi=1030000006316
+;linzid=59994
 [POLYLINE]
 Type=0xa
 Label=No 2 ARTERIAL RD
@@ -3128,7 +3128,7 @@ Nod1=0,151,0
 Nod2=3,152,0
 [END]
 
-;sufi=1030000006585
+;linzid=49904
 [POLYLINE]
 Type=0x6
 Label=CLARKE RD
@@ -3142,7 +3142,7 @@ Nod2=4,178,0
 Numbers1=0,O,79,71,N,-1,-1
 [END]
 
-;sufi=1030000006413
+;linzid=49762
 [POLYLINE]
 Type=0xa
 Label=WAINUI RD
@@ -3157,7 +3157,7 @@ Nod3=9,2824,0
 Numbers1=0,O,11,73,N,-1,-1
 [END]
 
-;sufi=1030000006568
+;linzid=49890
 [POLYLINE]
 Type=0x6
 Label=KAIMAUMAU RD
@@ -3171,7 +3171,7 @@ Nod2=7,181,0
 Numbers1=0,O,23,47,E,30,44
 [END]
 
-;sufi=1030000006397
+;linzid=49748
 [POLYLINE]
 Type=0xa
 Label=CAMP RD
@@ -3185,7 +3185,7 @@ Nod2=13,185,0
 Numbers1=0,O,17,17,E,4,58
 [END]
 
-;sufi=1030000006354
+;linzid=60000
 [POLYLINE]
 Type=0xa
 Label=PAPARORE RD
@@ -3199,7 +3199,7 @@ Nod2=10,188,0
 Numbers1=0,E,614,614,O,591,527
 [END]
 
-;sufi=1030000043244
+;linzid=58745
 [POLYLINE]
 Type=0xa
 Label=IMMS RD
@@ -3213,7 +3213,7 @@ Nod2=2,2825,0
 Numbers1=0,O,5,77,E,28,94
 [END]
 
-;sufi=1030000199211
+;linzid=62065
 [POLYLINE]
 Type=0xa
 Label=NGAKAPUA RD
@@ -3227,7 +3227,7 @@ Nod2=3,183,0
 Numbers1=0,N,-1,-1,O,33,3
 [END]
 
-;sufi=1030000006368
+;linzid=49724
 [POLYLINE]
 Type=0xa
 Label=BRASS RD
@@ -3240,7 +3240,7 @@ Nod1=0,171,0
 Nod2=2,178,0
 [END]
 
-;sufi=1030000006368
+;linzid=49724
 [POLYLINE]
 Type=0xa
 Label=BRASS RD
@@ -3254,7 +3254,7 @@ Nod2=4,171,0
 Numbers1=0,O,21,127,E,6,90
 [END]
 
-;sufi=1030000006262
+;linzid=49634
 [POLYLINE]
 Type=0xa
 Label=MASTERS ACCESS RD
@@ -3267,7 +3267,7 @@ Nod1=0,172,0
 Nod2=7,190,0
 [END]
 
-;sufi=1030000006262
+;linzid=49634
 [POLYLINE]
 Type=0xa
 Label=MASTERS ACCESS RD
@@ -3281,7 +3281,7 @@ Nod2=5,172,0
 Numbers1=0,O,25,47,E,4,4
 [END]
 
-;sufi=1030000006568
+;linzid=49890
 [POLYLINE]
 Type=0x6
 Label=KAIMAUMAU RD
@@ -3294,7 +3294,7 @@ Nod1=0,181,0
 Nod2=10,194,0
 [END]
 
-;sufi=1030000006454
+;linzid=60014
 [POLYLINE]
 Type=0xa
 Label=HEATH RD
@@ -3307,7 +3307,7 @@ Nod1=0,181,0
 Nod2=12,185,0
 [END]
 
-;sufi=1030000006454
+;linzid=60014
 [POLYLINE]
 Type=0xa
 Label=HEATH RD
@@ -3321,7 +3321,7 @@ Nod2=15,195,0
 Numbers1=0,E,416,272,O,299,171
 [END]
 
-;sufi=1030000006354
+;linzid=60000
 [POLYLINE]
 Type=0xa
 Label=PAPARORE RD
@@ -3335,7 +3335,7 @@ Nod2=8,197,0
 Numbers1=0,E,530,484,O,527,481
 [END]
 
-;sufi=1030000006454
+;linzid=60014
 [POLYLINE]
 Type=0xa
 Label=HEATH RD
@@ -3348,7 +3348,7 @@ Nod1=0,188,0
 Nod2=5,195,0
 [END]
 
-;sufi=1030000006307
+;linzid=49673
 [POLYLINE]
 Type=0xa
 Label=ROTOKAWAU RD
@@ -3362,7 +3362,7 @@ Nod2=31,199,0
 Numbers1=0,N,-1,-1,O,61,17
 [END]
 
-;sufi=1030000006345
+;linzid=49705
 [POLYLINE]
 Type=0x6
 Label=WEST COAST RD
@@ -3375,7 +3375,7 @@ Nod1=0,186,0
 Nod2=3,189,0
 [END]
 
-;sufi=1030000006345
+;linzid=49705
 [POLYLINE]
 Type=0x6
 Label=WEST COAST RD
@@ -3389,7 +3389,7 @@ Nod2=19,215,0
 Numbers1=0,E,80,80,O,157,107
 [END]
 
-;sufi=1030000006345
+;linzid=49705
 [POLYLINE]
 Type=0x6
 Label=WEST COAST RD
@@ -3403,7 +3403,7 @@ Nod2=4,186,0
 Numbers1=0,E,210,210,N,-1,-1
 [END]
 
-;sufi=1030000006479
+;linzid=49817
 [POLYLINE]
 Type=0x6
 Label=SWEETWATER RD
@@ -3418,7 +3418,7 @@ Nod3=20,6045,0
 Numbers1=0,O,19,133,N,-1,-1
 [END]
 
-;sufi=1030000006442
+;linzid=49786
 [POLYLINE]
 Type=0xa
 Label=BIRD RD
@@ -3432,7 +3432,7 @@ Nod2=6,196,0
 Numbers1=0,N,-1,-1,O,25,15
 [END]
 
-;sufi=1030000006262
+;linzid=49634
 [POLYLINE]
 Type=0xa
 Label=MASTERS ACCESS RD
@@ -3446,7 +3446,7 @@ Nod2=2,203,0
 Numbers1=0,O,189,239,N,-1,-1
 [END]
 
-;sufi=1030000006448
+;linzid=49791
 [POLYLINE]
 Type=0xa
 Label=HUI RD
@@ -3460,7 +3460,7 @@ Nod2=10,200,0
 Numbers1=0,E,124,56,O,121,41
 [END]
 
-;sufi=1030000006555
+;linzid=60026
 [POLYLINE]
 Type=0xa
 Label=TATANA RD
@@ -3474,7 +3474,7 @@ Nod2=11,200,0
 Numbers1=0,O,41,41,E,74,32
 [END]
 
-;sufi=1030000006597
+;linzid=49915
 [POLYLINE]
 Type=0xa
 Label=RANGIKOHU RD
@@ -3487,7 +3487,7 @@ Nod1=0,192,0
 Nod2=5,201,0
 [END]
 
-;sufi=1030000006342
+;linzid=59997
 [POLYLINE]
 Type=0xa
 Label=WHANGAPE RD
@@ -3500,7 +3500,7 @@ Nod1=0,191,0
 Nod2=9,198,0
 [END]
 
-;sufi=1030000006568
+;linzid=49890
 [POLYLINE]
 Type=0x6
 Label=KAIMAUMAU RD
@@ -3513,7 +3513,7 @@ Nod1=0,208,0
 Nod2=4,212,0
 [END]
 
-;sufi=1030000006568
+;linzid=49890
 [POLYLINE]
 Type=0x6
 Label=KAIMAUMAU RD
@@ -3527,7 +3527,7 @@ Nod2=3,209,0
 Numbers1=0,E,272,272,O,267,267
 [END]
 
-;sufi=1030000006568
+;linzid=49890
 [POLYLINE]
 Type=0x6
 Label=KAIMAUMAU RD
@@ -3540,7 +3540,7 @@ Nod1=0,209,0
 Nod2=1,210,0
 [END]
 
-;sufi=1030000006568
+;linzid=49890
 [POLYLINE]
 Type=0x6
 Label=KAIMAUMAU RD
@@ -3554,7 +3554,7 @@ Nod2=9,210,0
 Numbers1=0,O,231,231,E,224,232
 [END]
 
-;sufi=1030000000783
+;linzid=47913
 [POLYLINE]
 Type=0xa
 Label=HOBSON RD
@@ -3567,7 +3567,7 @@ Nod1=0,197,0
 Nod2=7,2830,0
 [END]
 
-;sufi=1030000006354
+;linzid=60000
 [POLYLINE]
 Type=0xa
 Label=PAPARORE RD
@@ -3581,7 +3581,7 @@ Nod2=65,214,0
 Numbers1=0,E,464,32,O,481,11
 [END]
 
-;sufi=1030000006485
+;linzid=49822
 [POLYLINE]
 Type=0xa
 Label=SPAINS RD
@@ -3595,7 +3595,7 @@ Nod2=17,6046,0
 Numbers1=0,E,376,356,O,489,395
 [END]
 
-;sufi=1030000006551
+;linzid=60025
 [POLYLINE]
 Type=0xa
 Label=TANGONGE RD
@@ -3609,7 +3609,7 @@ Nod2=6,217,0
 Numbers1=0,N,-1,-1,O,89,47
 [END]
 
-;sufi=1030000006262
+;linzid=49634
 [POLYLINE]
 Type=0x6
 Label=MASTERS ACCESS RD
@@ -3622,7 +3622,7 @@ Nod1=0,203,0
 Nod2=1,2832,0
 [END]
 
-;sufi=1030000006266
+;linzid=49638
 [POLYLINE]
 Type=0xa
 Label=MANUKAU RD
@@ -3636,7 +3636,7 @@ Nod2=5,211,0
 Numbers1=0,E,36,32,O,41,5
 [END]
 
-;sufi=1030000006342
+;linzid=59997
 [POLYLINE]
 Type=0xa
 Label=WHANGAPE RD
@@ -3650,7 +3650,7 @@ Nod2=21,207,0
 Numbers1=0,E,98,22,O,127,7
 [END]
 
-;sufi=1030000006342
+;linzid=59997
 [POLYLINE]
 Type=0xa
 Label=WHANGAPE RD
@@ -3664,7 +3664,7 @@ Nod2=33,198,0
 Numbers1=0,O,253,275,E,140,268
 [END]
 
-;sufi=1030000006567
+;linzid=49889
 [POLYLINE]
 Type=0xa
 Label=LUNJEVICH RD
@@ -3677,7 +3677,7 @@ Nod1=0,198,0
 Nod2=5,2833,0
 [END]
 
-;sufi=1030000006445
+;linzid=60012
 [POLYLINE]
 Type=0xa
 Label=MATICH RD
@@ -3691,7 +3691,7 @@ Nod2=4,225,0
 Numbers1=0,E,18,18,N,-1,-1
 [END]
 
-;sufi=1030000006417
+;linzid=49765
 [POLYLINE]
 Type=0xa
 Label=WAIPAPAKAURI DOMAIN RD
@@ -3705,7 +3705,7 @@ Nod2=2,234,0
 Numbers1=0,N,-1,-1,O,25,1
 [END]
 
-;sufi=1030000006445
+;linzid=60012
 [POLYLINE]
 Type=0xa
 Label=MATICH RD
@@ -3718,7 +3718,7 @@ Nod1=0,218,0
 Nod2=3,219,0
 [END]
 
-;sufi=1030000006485
+;linzid=49822
 [POLYLINE]
 Type=0xa
 Label=SPAINS RD
@@ -3731,7 +3731,7 @@ Nod1=0,219,0
 Nod2=2,6048,0
 [END]
 
-;sufi=1030000006425
+;linzid=49771
 [POLYLINE]
 Type=0xa
 Label=KUNICICH RD
@@ -3745,7 +3745,7 @@ Nod2=4,2834,0
 Numbers1=0,N,-1,-1,E,98,128
 [END]
 
-;sufi=1030000006515
+;linzid=49848
 [POLYLINE]
 Type=0xa
 Label=GILL RD
@@ -3759,7 +3759,7 @@ Nod2=5,244,0
 Numbers1=0,E,268,214,O,307,165
 [END]
 
-;sufi=1030000006603
+;linzid=49921
 [POLYLINE]
 Type=0x6
 Label=WIRELESS RD
@@ -3773,7 +3773,7 @@ Nod2=3,250,0
 Numbers1=0,E,188,104,O,283,127
 [END]
 
-;sufi=1030000006498
+;linzid=49834
 [POLYLINE]
 Type=0xa
 Label=DIGGERS VALLEY RD
@@ -3787,7 +3787,7 @@ Nod2=11,242,0
 Numbers1=0,O,11,103,E,74,142
 [END]
 
-;sufi=1030000006575
+;linzid=49897
 [POLYLINE]
 Type=0xa
 Label=KAUHANGA RD
@@ -3800,7 +3800,7 @@ Nod1=0,227,0
 Nod2=1,2837,0
 [END]
 
-;sufi=1030000006575
+;linzid=49897
 [POLYLINE]
 Type=0x6
 Label=KAUHANGA RD
@@ -3813,7 +3813,7 @@ Nod1=0,226,0
 Nod2=1,227,0
 [END]
 
-;sufi=1030000006495
+;linzid=49831
 [POLYLINE]
 Type=0xa
 Label=DOEL RD
@@ -3827,7 +3827,7 @@ Nod2=2,2838,0
 Numbers1=0,O,3,75,E,4,4
 [END]
 
-;sufi=1030000006348
+;linzid=49707
 [POLYLINE]
 Type=0x6
 Label=WEST RD
@@ -3841,7 +3841,7 @@ Nod2=3,2839,0
 Numbers1=0,O,57,73,E,56,74
 [END]
 
-;sufi=1030000006498
+;linzid=49834
 [POLYLINE]
 Type=0xa
 Label=DIGGERS VALLEY RD
@@ -3855,7 +3855,7 @@ Nod2=2,246,0
 Numbers1=0,O,171,171,N,-1,-1
 [END]
 
-;sufi=1030000006444
+;linzid=49788
 [POLYLINE]
 Type=0xa
 Label=MCDONALD RD
@@ -3869,7 +3869,7 @@ Nod2=8,2840,0
 Numbers1=0,O,85,85,E,88,88
 [END]
 
-;sufi=1030000006001
+;linzid=49417
 [POLYLINE]
 Type=0xa
 Label=PAWARENGA RD
@@ -3883,7 +3883,7 @@ Nod2=20,253,0
 Numbers1=0,E,1908,1908,N,-1,-1
 [END]
 
-;sufi=1030000006491
+;linzid=49827
 [POLYLINE]
 Type=0x6
 Label=UNAHI RD
@@ -3896,7 +3896,7 @@ Nod1=0,256,0
 Nod2=2,272,0
 [END]
 
-;sufi=1030000006593
+;linzid=49911
 [POLYLINE]
 Type=0xa
 Label=WALKER RD
@@ -3910,7 +3910,7 @@ Nod2=5,272,0
 Numbers1=0,N,-1,-1,E,74,8
 [END]
 
-;sufi=1030000006273
+;linzid=49645
 [POLYLINE]
 Type=0xa
 Label=POKO POHAIA RD
@@ -3924,7 +3924,7 @@ Nod2=3,256,0
 Numbers1=0,N,-1,-1,E,82,46
 [END]
 
-;sufi=1030000006491
+;linzid=49827
 [POLYLINE]
 Type=0x6
 Label=UNAHI RD
@@ -3938,7 +3938,7 @@ Nod2=3,284,0
 Numbers1=0,O,267,267,N,-1,-1
 [END]
 
-;sufi=1030000006492
+;linzid=49828
 [POLYLINE]
 Type=0xa
 Label=DICK SMITH LOOP RD
@@ -3952,7 +3952,7 @@ Nod2=7,270,0
 Numbers1=0,O,15,49,E,6,44
 [END]
 
-;sufi=1030000006414
+;linzid=49763
 [POLYLINE]
 Type=0xa
 Label=WAIMANONI RD
@@ -3966,7 +3966,7 @@ Nod2=2,4192,0
 Numbers1=0,O,9,9,E,62,6
 [END]
 
-;sufi=1030000006491
+;linzid=49827
 [POLYLINE]
 Type=0x6
 Label=UNAHI RD
@@ -3980,7 +3980,7 @@ Nod2=4,273,0
 Numbers1=0,O,17,25,E,6,8
 [END]
 
-;sufi=1030000006491
+;linzid=49827
 [POLYLINE]
 Type=0x6
 Label=UNAHI RD
@@ -3994,7 +3994,7 @@ Nod2=4,273,0
 Numbers1=0,E,208,38,O,211,45
 [END]
 
-;sufi=1030000006485
+;linzid=49822
 [POLYLINE]
 Type=0x6
 Label=SPAINS RD
@@ -4007,7 +4007,7 @@ Nod1=0,257,0
 Nod2=3,304,0
 [END]
 
-;sufi=1030000006482
+;linzid=49820
 [POLYLINE]
 Type=0x6
 Label=SOUTHEY ST
@@ -4021,7 +4021,7 @@ Nod2=2,303,0
 Numbers1=0,O,7,3,E,8,2
 [END]
 
-;sufi=1030000006565
+;linzid=49887
 [POLYLINE]
 Type=0x6
 Label=LONG ST
@@ -4034,7 +4034,7 @@ Nod1=0,274,0
 Nod2=1,277,0
 [END]
 
-;sufi=1030000006565
+;linzid=49887
 [POLYLINE]
 Type=0x6
 Label=LONG ST
@@ -4047,7 +4047,7 @@ Nod1=0,2846,0
 Nod2=1,274,0
 [END]
 
-;sufi=1030000006373
+;linzid=49729
 [POLYLINE]
 Type=0x6
 Label=DUKE ST
@@ -4060,7 +4060,7 @@ Nod1=0,259,0
 Nod2=2,258,0
 [END]
 
-;sufi=1030000006265
+;linzid=49637
 [POLYLINE]
 Type=0x6
 Label=MATARAU RD
@@ -4074,7 +4074,7 @@ Nod2=2,275,0
 Numbers1=0,E,12,6,O,3,39
 [END]
 
-;sufi=1030000006373
+;linzid=49729
 [POLYLINE]
 Type=0x6
 Label=DUKE ST
@@ -4087,7 +4087,7 @@ Nod1=0,258,0
 Nod2=1,275,0
 [END]
 
-;sufi=1030000006309
+;linzid=49674
 [POLYLINE]
 Type=0x6
 Label=COLLARD ST
@@ -4100,7 +4100,7 @@ Nod1=0,276,0
 Nod2=2,286,0
 [END]
 
-;sufi=1030000006515
+;linzid=49848
 [POLYLINE]
 Type=0x6
 Label=GILL RD
@@ -4114,7 +4114,7 @@ Nod2=1,260,0
 Numbers1=0,O,31,31,N,-1,-1
 [END]
 
-;sufi=1030000006565
+;linzid=49887
 [POLYLINE]
 Type=0x6
 Label=LONG ST
@@ -4128,7 +4128,7 @@ Nod2=1,276,0
 Numbers1=0,O,13,1,E,8,2
 [END]
 
-;sufi=1030000006387
+;linzid=60004
 [POLYLINE]
 Type=0x6
 Label=KING ST
@@ -4141,7 +4141,7 @@ Nod1=0,261,0
 Nod2=1,260,0
 [END]
 
-;sufi=1030000006515
+;linzid=49848
 [POLYLINE]
 Type=0x6
 Label=GILL RD
@@ -4155,7 +4155,7 @@ Nod2=1,287,0
 Numbers1=0,O,17,9,N,-1,-1
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x6
 Label=Accessway
@@ -4168,7 +4168,7 @@ Nod1=0,258,0
 Nod2=2,298,0
 [END]
 
-;sufi=1030000006515
+;linzid=49848
 [POLYLINE]
 Type=0x6
 Label=GILL RD
@@ -4182,7 +4182,7 @@ Nod2=1,277,0
 Numbers1=0,O,29,19,N,-1,-1
 [END]
 
-;sufi=1030000006275
+;linzid=59987
 [POLYLINE]
 Type=0x6
 Label=PRINCE ST
@@ -4195,7 +4195,7 @@ Nod1=0,274,0
 Nod2=1,285,0
 [END]
 
-;sufi=1030000006275
+;linzid=59987
 [POLYLINE]
 Type=0x6
 Label=PRINCE ST
@@ -4208,7 +4208,7 @@ Nod1=0,261,0
 Nod2=1,274,0
 [END]
 
-;sufi=1030000006515
+;linzid=49848
 [POLYLINE]
 Type=0x6
 Label=GILL RD
@@ -4222,7 +4222,7 @@ Nod2=6,259,0
 Numbers1=0,E,144,44,O,127,127
 [END]
 
-;sufi=1030000006603
+;linzid=49921
 [POLYLINE]
 Type=0x6
 Label=WIRELESS RD
@@ -4236,7 +4236,7 @@ Nod2=2,289,0
 Numbers1=0,E,36,12,O,53,9
 [END]
 
-;sufi=1030000006231
+;linzid=49607
 [POLYLINE]
 Type=0x6
 Label=LAKE RD
@@ -4250,7 +4250,7 @@ Nod2=1,280,0
 Numbers1=0,O,25,25,E,30,28
 [END]
 
-;sufi=1030000001672
+;linzid=48076
 [POLYLINE]
 Type=0x6
 Label=WEBER PL
@@ -4264,7 +4264,7 @@ Nod2=3,2849,0
 Numbers1=0,E,2,8,O,1,7
 [END]
 
-;sufi=1030000006231
+;linzid=49607
 [POLYLINE]
 Type=0x6
 Label=LAKE RD
@@ -4278,7 +4278,7 @@ Nod2=1,279,0
 Numbers1=0,O,31,27,E,36,32
 [END]
 
-;sufi=1030000006197
+;linzid=49580
 [POLYLINE]
 Type=0x6
 Label=FOLEY ST
@@ -4292,7 +4292,7 @@ Nod2=2,280,0
 Numbers1=0,O,9,1,E,8,2
 [END]
 
-;sufi=1030000006252
+;linzid=49626
 [POLYLINE]
 Type=0x6
 Label=MIRO PL
@@ -4305,7 +4305,7 @@ Nod1=0,2850,0
 Nod2=1,263,0
 [END]
 
-;sufi=1030000006252
+;linzid=49626
 [POLYLINE]
 Type=0x6
 Label=MIRO PL
@@ -4318,7 +4318,7 @@ Nod1=0,268,0
 Nod2=2,263,0
 [END]
 
-;sufi=1030000006208
+;linzid=59978
 [POLYLINE]
 Type=0x6
 Label=GRIGG ST
@@ -4332,7 +4332,7 @@ Nod2=1,264,0
 Numbers1=0,O,59,59,E,54,54
 [END]
 
-;sufi=1030000006224
+;linzid=49601
 [POLYLINE]
 Type=0x6
 Label=JAMIESON RD
@@ -4358,7 +4358,7 @@ Nod1=0,3997,0
 Nod2=2,3999,0
 [END]
 
-;sufi=1030000006235
+;linzid=49611
 [POLYLINE]
 Type=0x6
 Label=WILLIAMS ST
@@ -4371,7 +4371,7 @@ Nod1=0,2852,0
 Nod2=2,266,0
 [END]
 
-;sufi=1030000006244
+;linzid=59983
 [POLYLINE]
 Type=0x6
 Label=MASTERS PL
@@ -4385,7 +4385,7 @@ Nod2=2,4185,0
 Numbers1=0,O,1,7,E,6,2
 [END]
 
-;sufi=1030000006235
+;linzid=49611
 [POLYLINE]
 Type=0x6
 Label=WILLIAMS ST
@@ -4399,7 +4399,7 @@ Nod2=3,265,0
 Numbers1=0,E,14,24,O,11,19
 [END]
 
-;sufi=1030000006235
+;linzid=49611
 [POLYLINE]
 Type=0x6
 Label=WILLIAMS ST
@@ -4413,7 +4413,7 @@ Nod2=4,269,0
 Numbers1=0,O,5,1,E,10,2
 [END]
 
-;sufi=1030000006200
+;linzid=49583
 [POLYLINE]
 Type=0x6
 Label=RATA PL
@@ -4427,7 +4427,7 @@ Nod2=2,2852,0
 Numbers1=0,O,3,9,E,8,2
 [END]
 
-;sufi=1030000006210
+;linzid=49591
 [POLYLINE]
 Type=0x6
 Label=STANDING PL
@@ -4441,7 +4441,7 @@ Nod2=2,266,0
 Numbers1=0,B,7,10,B,3,1
 [END]
 
-;sufi=1030000006252
+;linzid=49626
 [POLYLINE]
 Type=0x6
 Label=MIRO PL
@@ -4454,7 +4454,7 @@ Nod1=0,263,0
 Nod2=2,2855,0
 [END]
 
-;sufi=1030000006231
+;linzid=49607
 [POLYLINE]
 Type=0x6
 Label=LAKE RD
@@ -4468,7 +4468,7 @@ Nod2=2,265,0
 Numbers1=0,O,37,33,E,38,38
 [END]
 
-;sufi=1030000006241
+;linzid=49617
 [POLYLINE]
 Type=0x6
 Label=ARCHIBALD ST
@@ -4482,7 +4482,7 @@ Nod2=2,2857,0
 Numbers1=0,E,2,22,O,1,19
 [END]
 
-;sufi=1030000006151
+;linzid=49542
 [POLYLINE]
 Type=0xa
 Label=OKAHU RD
@@ -4495,7 +4495,7 @@ Nod1=0,249,0
 Nod2=11,402,0
 [END]
 
-;sufi=1030000006498
+;linzid=49834
 [POLYLINE]
 Type=0xa
 Label=DIGGERS VALLEY RD
@@ -4509,7 +4509,7 @@ Nod2=25,312,0
 Numbers1=0,O,259,307,E,248,354
 [END]
 
-;sufi=1030000005926
+;linzid=49357
 [POLYLINE]
 Type=0xa
 Label=PROCTOR RD
@@ -4523,7 +4523,7 @@ Nod2=10,373,0
 Numbers1=0,E,288,288,O,321,285
 [END]
 
-;sufi=1030000006001
+;linzid=49417
 [POLYLINE]
 Type=0xa
 Label=PAWARENGA RD
@@ -4537,7 +4537,7 @@ Nod2=28,441,0
 Numbers1=0,E,1588,1542,O,1885,1509
 [END]
 
-;sufi=1030000005907
+;linzid=59939
 [POLYLINE]
 Type=0xa
 Label=WARAWARA FOREST RD
@@ -4550,7 +4550,7 @@ Nod1=0,253,0
 Nod2=18,2859,0
 [END]
 
-;sufi=1030000006536
+;linzid=90238
 [POLYLINE]
 Type=0xa
 Label=HAGGER ST
@@ -4564,7 +4564,7 @@ Nod2=2,396,0
 Numbers1=0,E,16,6,O,11,3
 [END]
 
-;sufi=1030000006541
+;linzid=60023
 [POLYLINE]
 Type=0xa
 Label=TAMATEA RD
@@ -4578,7 +4578,7 @@ Nod2=4,284,0
 Numbers1=0,O,7,7,N,-1,-1
 [END]
 
-;sufi=1030000006530
+;linzid=49858
 [POLYLINE]
 Type=0x6
 Label=QUEEN ST
@@ -4591,7 +4591,7 @@ Nod1=0,2863,0
 Nod2=1,285,0
 [END]
 
-;sufi=1030000006373
+;linzid=49729
 [POLYLINE]
 Type=0x6
 Label=DUKE ST
@@ -4605,7 +4605,7 @@ Nod2=2,297,0
 Numbers1=0,O,5,3,N,-1,-1
 [END]
 
-;sufi=1030000006309
+;linzid=49674
 [POLYLINE]
 Type=0x6
 Label=COLLARD ST
@@ -4618,7 +4618,7 @@ Nod1=0,286,0
 Nod2=3,288,0
 [END]
 
-;sufi=1030000006515
+;linzid=49848
 [POLYLINE]
 Type=0x6
 Label=GILL RD
@@ -4632,7 +4632,7 @@ Nod2=2,6072,0
 Numbers1=0,O,5,5,E,18,16
 [END]
 
-;sufi=1030000006275
+;linzid=59987
 [POLYLINE]
 Type=0x6
 Label=PRINCE ST
@@ -4645,7 +4645,7 @@ Nod1=0,285,0
 Nod2=1,334,0
 [END]
 
-;sufi=1030000006530
+;linzid=49858
 [POLYLINE]
 Type=0x6
 Label=QUEEN ST
@@ -4658,7 +4658,7 @@ Nod1=0,285,0
 Nod2=1,287,0
 [END]
 
-;sufi=1030000006591
+;linzid=49909
 [POLYLINE]
 Type=0x6
 Label=WARAU ST
@@ -4672,7 +4672,7 @@ Nod2=2,2864,0
 Numbers1=0,O,3,1,N,-1,-1
 [END]
 
-;sufi=1030000006530
+;linzid=49858
 [POLYLINE]
 Type=0x6
 Label=QUEEN ST
@@ -4686,7 +4686,7 @@ Nod2=1,286,0
 Numbers1=0,O,7,1,E,8,4
 [END]
 
-;sufi=1030000006234
+;linzid=49610
 [POLYLINE]
 Type=0x6
 Label=WHANGATANE DR
@@ -4700,7 +4700,7 @@ Nod2=10,2865,0
 Numbers1=0,O,5,31,E,6,16
 [END]
 
-;sufi=1030000006237
+;linzid=49613
 [POLYLINE]
 Type=0x6
 Label=TERRY CRES
@@ -4714,7 +4714,7 @@ Nod2=6,378,0
 Numbers1=0,E,12,2,O,11,3
 [END]
 
-;sufi=1030000006237
+;linzid=49613
 [POLYLINE]
 Type=0x6
 Label=TERRY CRES
@@ -4728,7 +4728,7 @@ Nod2=1,368,0
 Numbers1=0,E,18,12,O,21,15
 [END]
 
-;sufi=1030000006245
+;linzid=49620
 [POLYLINE]
 Type=0x6
 Label=MARY ANN PL
@@ -4742,7 +4742,7 @@ Nod2=2,353,0
 Numbers1=0,B,6,9,B,2,1
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x6
 Label=Accessway
@@ -4755,7 +4755,7 @@ Nod1=0,355,0
 Nod2=1,2867,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Walkway
@@ -4768,7 +4768,7 @@ Nod1=0,4000,0
 Nod2=1,4002,0
 [END]
 
-;sufi=1030000006260
+;linzid=49632
 [POLYLINE]
 Type=0x6
 Label=NOLA PL
@@ -4782,7 +4782,7 @@ Nod2=2,2870,0
 Numbers1=0,B,1,2,B,14,10
 [END]
 
-;sufi=1030000006196
+;linzid=49579
 [POLYLINE]
 Type=0x6
 Label=FARRIMOND PL
@@ -4796,7 +4796,7 @@ Nod2=2,2871,0
 Numbers1=0,E,2,6,O,1,5
 [END]
 
-;sufi=1030000185800
+;linzid=61660
 [POLYLINE]
 Type=0x6
 Label=MILKY WAY
@@ -4809,7 +4809,7 @@ Nod1=0,308,0
 Nod2=1,2872,0
 [END]
 
-;sufi=1030000006207
+;linzid=49589
 [POLYLINE]
 Type=0x6
 Label=VEGAR ST
@@ -4823,7 +4823,7 @@ Nod2=3,4573,0
 Numbers1=0,E,2,18,O,1,15
 [END]
 
-;sufi=1030000006243
+;linzid=49619
 [POLYLINE]
 Type=0x6
 Label=MARKET LANE
@@ -4836,7 +4836,7 @@ Nod1=0,2873,0
 Nod2=1,374,0
 [END]
 
-;sufi=1030000006188
+;linzid=59977
 [POLYLINE]
 Type=0x6
 Label=WATTS ST
@@ -4850,7 +4850,7 @@ Nod2=1,350,0
 Numbers1=0,E,2,2,O,1,3
 [END]
 
-;sufi=1030000006225
+;linzid=49602
 [POLYLINE]
 Type=0x6
 Label=BRENT LANE
@@ -4863,7 +4863,7 @@ Nod1=0,370,0
 Nod2=1,376,0
 [END]
 
-;sufi=1030000006225
+;linzid=49602
 [POLYLINE]
 Type=0x6
 Label=BRENT LANE
@@ -4876,7 +4876,7 @@ Nod1=0,2874,0
 Nod2=1,370,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x6
 Label=Accessway
@@ -4889,7 +4889,7 @@ Nod1=0,2875,0
 Nod2=1,351,0
 [END]
 
-;sufi=1030000006225
+;linzid=49602
 [POLYLINE]
 Type=0x6
 Label=BRENT LANE
@@ -4902,7 +4902,7 @@ Nod1=0,370,0
 Nod2=1,2876,0
 [END]
 
-;sufi=1030000006209
+;linzid=49590
 [POLYLINE]
 Type=0x6
 Label=BLENCOWE ST
@@ -4916,7 +4916,7 @@ Nod2=1,342,0
 Numbers1=0,O,5,3,N,-1,-1
 [END]
 
-;sufi=1030000006219
+;linzid=59981
 [POLYLINE]
 Type=0x6
 Label=PLAZA LANE
@@ -4929,7 +4929,7 @@ Nod1=0,323,0
 Nod2=2,342,0
 [END]
 
-;sufi=1030000006191
+;linzid=49574
 [POLYLINE]
 Type=0x6
 Label=PUCKEY AVE
@@ -4943,7 +4943,7 @@ Nod2=2,343,0
 Numbers1=0,O,51,39,E,52,38
 [END]
 
-;sufi=1030000006240
+;linzid=49616
 [POLYLINE]
 Type=0x6
 Label=CENTRAL LANE
@@ -4956,7 +4956,7 @@ Nod1=0,342,0
 Nod2=3,347,0
 [END]
 
-;sufi=1030000189569
+;linzid=59197
 [POLYLINE]
 Type=0x6
 Label=WATER LANE
@@ -4969,7 +4969,7 @@ Nod1=0,375,0
 Nod2=2,407,0
 [END]
 
-;sufi=1030000006217
+;linzid=49596
 [POLYLINE]
 Type=0x6
 Label=SYDANN PL
@@ -4983,7 +4983,7 @@ Nod2=4,295,0
 Numbers1=0,B,7,14,B,4,3
 [END]
 
-;sufi=1030000006242
+;linzid=49618
 [POLYLINE]
 Type=0x6
 Label=ALLEN BELL DR
@@ -4996,7 +4996,7 @@ Nod1=0,356,0
 Nod2=1,344,0
 [END]
 
-;sufi=1030000006251
+;linzid=49625
 [POLYLINE]
 Type=0x6
 Label=MELODY LANE
@@ -5010,7 +5010,7 @@ Nod2=4,322,0
 Numbers1=0,O,15,1,E,14,2
 [END]
 
-;sufi=1030000006212
+;linzid=59979
 [POLYLINE]
 Type=0x6
 Label=TAUPATA PL
@@ -5024,7 +5024,7 @@ Nod2=2,293,0
 Numbers1=0,E,2,46,O,1,33
 [END]
 
-;sufi=1030000006209
+;linzid=49590
 [POLYLINE]
 Type=0x6
 Label=BLENCOWE ST
@@ -5037,7 +5037,7 @@ Nod1=0,342,0
 Nod2=1,357,0
 [END]
 
-;sufi=1030000006249
+;linzid=49623
 [POLYLINE]
 Type=0x6
 Label=MELBA ST
@@ -5050,7 +5050,7 @@ Nod1=0,388,0
 Nod2=1,371,0
 [END]
 
-;sufi=1030000006233
+;linzid=49609
 [POLYLINE]
 Type=0x6
 Label=PARKDALE CRES
@@ -5064,7 +5064,7 @@ Nod2=9,382,0
 Numbers1=0,E,26,2,O,29,3
 [END]
 
-;sufi=1030000006228
+;linzid=49604
 [POLYLINE]
 Type=0x6
 Label=KORIMAKO LANE
@@ -5077,7 +5077,7 @@ Nod1=0,381,0
 Nod2=7,400,0
 [END]
 
-;sufi=1030000006255
+;linzid=49628
 [POLYLINE]
 Type=0x6
 Label=TODD LANE
@@ -5090,7 +5090,7 @@ Nod1=0,386,0
 Nod2=4,2880,0
 [END]
 
-;sufi=1030000006249
+;linzid=49623
 [POLYLINE]
 Type=0x6
 Label=MELBA ST
@@ -5104,7 +5104,7 @@ Nod2=1,399,0
 Numbers1=0,O,3,11,E,4,10
 [END]
 
-;sufi=1030000006242
+;linzid=49618
 [POLYLINE]
 Type=0x6
 Label=ALLEN BELL DR
@@ -5118,7 +5118,7 @@ Nod2=1,352,0
 Numbers1=0,O,3,11,E,6,12
 [END]
 
-;sufi=1030000006231
+;linzid=49607
 [POLYLINE]
 Type=0x6
 Label=LAKE RD
@@ -5132,7 +5132,7 @@ Nod2=2,324,0
 Numbers1=0,O,23,1,E,26,2
 [END]
 
-;sufi=1030000006191
+;linzid=49574
 [POLYLINE]
 Type=0x6
 Label=PUCKEY AVE
@@ -5146,7 +5146,7 @@ Nod2=1,346,0
 Numbers1=0,O,35,25,E,38,26
 [END]
 
-;sufi=1030000006191
+;linzid=49574
 [POLYLINE]
 Type=0x6
 Label=PUCKEY AVE
@@ -5160,7 +5160,7 @@ Nod2=2,391,0
 Numbers1=0,O,23,1,E,24,2
 [END]
 
-;sufi=1030000006218
+;linzid=49597
 [POLYLINE]
 Type=0x6
 Label=SUMMERVILLE AVE
@@ -5174,7 +5174,7 @@ Nod2=2,2881,0
 Numbers1=0,E,2,14,O,1,15
 [END]
 
-;sufi=1030000006246
+;linzid=49621
 [POLYLINE]
 Type=0x6
 Label=MASFEN TCE
@@ -5188,7 +5188,7 @@ Nod2=3,2882,0
 Numbers1=0,O,7,15,E,2,14
 [END]
 
-;sufi=1030000006201
+;linzid=49584
 [POLYLINE]
 Type=0x6
 Label=REDAN TCE
@@ -5202,7 +5202,7 @@ Nod2=1,2883,0
 Numbers1=0,B,14,12,B,1,3
 [END]
 
-;sufi=1030000006236
+;linzid=49612
 [POLYLINE]
 Type=0x6
 Label=WEST LANE
@@ -5215,7 +5215,7 @@ Nod1=0,347,0
 Nod2=6,392,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Accessway
@@ -5228,7 +5228,7 @@ Nod1=0,389,0
 Nod2=3,393,0
 [END]
 
-;sufi=1030000006246
+;linzid=49621
 [POLYLINE]
 Type=0x6
 Label=MASFEN TCE
@@ -5242,7 +5242,7 @@ Nod2=3,309,0
 Numbers1=0,O,1,5,E,2,2
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Walkway
@@ -5255,7 +5255,7 @@ Nod1=0,340,0
 Nod2=1,309,0
 [END]
 
-;sufi=1030000006256
+;linzid=49629
 [POLYLINE]
 Type=0x6
 Label=ORCHARD PL
@@ -5269,7 +5269,7 @@ Nod2=1,337,0
 Numbers1=0,E,4,2,O,5,1
 [END]
 
-;sufi=1030000006248
+;linzid=59984
 [POLYLINE]
 Type=0x6
 Label=WORTH ST
@@ -5283,7 +5283,7 @@ Nod2=4,4574,0
 Numbers1=0,O,27,1,E,36,2
 [END]
 
-;sufi=1030000203257
+;linzid=62285
 [POLYLINE]
 Type=0x6
 Label=TRIGG MEMORIAL DR
@@ -5296,7 +5296,7 @@ Nod1=0,2885,0
 Nod2=4,364,0
 [END]
 
-;sufi=1030000000426
+;linzid=47808
 [POLYLINE]
 Type=0xa
 Label=OROWHANA RD
@@ -5310,7 +5310,7 @@ Nod2=7,312,0
 Numbers1=0,O,43,43,N,-1,-1
 [END]
 
-;sufi=1030000006498
+;linzid=49834
 [POLYLINE]
 Type=0xa
 Label=DIGGERS VALLEY RD
@@ -5324,7 +5324,7 @@ Nod2=9,372,0
 Numbers1=0,O,401,401,N,-1,-1
 [END]
 
-;sufi=1030000006012
+;linzid=49427
 [POLYLINE]
 Type=0xa
 Label=TAMAHO RD
@@ -5337,7 +5337,7 @@ Nod1=0,2887,0
 Nod2=28,373,0
 [END]
 
-;sufi=1030000005926
+;linzid=49357
 [POLYLINE]
 Type=0xa
 Label=PROCTOR RD
@@ -5351,7 +5351,7 @@ Nod2=18,442,0
 Numbers1=0,E,206,32,O,141,141
 [END]
 
-;sufi=1030000006568
+;linzid=49890
 [POLYLINE]
 Type=0xa
 Label=KAIMAUMAU RD
@@ -5364,7 +5364,7 @@ Nod1=0,4554,0
 Nod2=18,4614,0
 [END]
 
-;sufi=1030000006427
+;linzid=49773
 [POLYLINE]
 Type=0xa
 Label=LAKE RD
@@ -5377,7 +5377,7 @@ Nod1=0,396,0
 Nod2=4,397,0
 [END]
 
-;sufi=1030000006421
+;linzid=49768
 [POLYLINE]
 Type=0xa
 Label=KUMI RD
@@ -5391,7 +5391,7 @@ Nod2=6,398,0
 Numbers1=0,E,382,116,O,365,109
 [END]
 
-;sufi=1030000006421
+;linzid=49768
 [POLYLINE]
 Type=0xa
 Label=KUMI RD
@@ -5405,7 +5405,7 @@ Nod2=1,411,0
 Numbers1=0,E,70,4,O,97,37
 [END]
 
-;sufi=1030000006516
+;linzid=49849
 [POLYLINE]
 Type=0xa
 Label=GODINOVICH RD
@@ -5418,7 +5418,7 @@ Nod1=0,419,0
 Nod2=2,2890,0
 [END]
 
-;sufi=1030000006516
+;linzid=49849
 [POLYLINE]
 Type=0x6
 Label=GODINOVICH RD
@@ -5431,7 +5431,7 @@ Nod1=0,419,0
 Nod2=2,428,0
 [END]
 
-;sufi=1030000006140
+;linzid=59969
 [POLYLINE]
 Type=0xa
 Label=HILLCREST RD
@@ -5445,7 +5445,7 @@ Nod2=8,2891,0
 Numbers1=0,O,3,167,E,8,160
 [END]
 
-;sufi=1030000006249
+;linzid=49623
 [POLYLINE]
 Type=0x6
 Label=MELBA ST
@@ -5458,7 +5458,7 @@ Nod1=0,399,0
 Nod2=1,2892,0
 [END]
 
-;sufi=1030000006250
+;linzid=49624
 [POLYLINE]
 Type=0x6
 Label=MISSION PL
@@ -5472,7 +5472,7 @@ Nod2=6,2893,0
 Numbers1=0,O,1,5,E,2,6
 [END]
 
-;sufi=1030000006216
+;linzid=59980
 [POLYLINE]
 Type=0x6
 Label=TAHUNA RD
@@ -5486,7 +5486,7 @@ Nod2=16,420,0
 Numbers1=0,O,3,1,E,12,2
 [END]
 
-;sufi=1030000006213
+;linzid=49593
 [POLYLINE]
 Type=0x6
 Label=TE AHU ST
@@ -5500,7 +5500,7 @@ Nod2=3,425,0
 Numbers1=0,E,2,12,O,1,15
 [END]
 
-;sufi=1030000006247
+;linzid=49622
 [POLYLINE]
 Type=0x2
 Label=CHURCH RD
@@ -5514,7 +5514,7 @@ Nod2=4,405,0
 Numbers1=0,E,2,4,N,-1,-1
 [END]
 
-;sufi=1030000006221
+;linzid=49599
 [POLYLINE]
 Type=0x6
 Label=HESTER PL
@@ -5528,7 +5528,7 @@ Nod2=3,423,0
 Numbers1=0,O,5,1,E,6,2
 [END]
 
-;sufi=1030000006257
+;linzid=59986
 [POLYLINE]
 Type=0x6
 Label=OXFORD ST
@@ -5542,7 +5542,7 @@ Nod2=5,416,0
 Numbers1=0,E,2,24,O,1,21
 [END]
 
-;sufi=1030000006202
+;linzid=49585
 [POLYLINE]
 Type=0x16
 Label=REDAN RD
@@ -5555,7 +5555,7 @@ Nod1=0,408,0
 Nod2=1,2895,0
 [END]
 
-;sufi=1030000006206
+;linzid=49588
 [POLYLINE]
 Type=0x6
 Label=PURIRI PL
@@ -5569,7 +5569,7 @@ Nod2=4,415,0
 Numbers1=0,B,6,17,B,5,1
 [END]
 
-;sufi=1030000006232
+;linzid=49608
 [POLYLINE]
 Type=0x6
 Label=PANAKAREAO ST
@@ -5583,7 +5583,7 @@ Nod2=2,2898,0
 Numbers1=0,O,1,5,E,2,4
 [END]
 
-;sufi=1030000006486
+;linzid=49823
 [POLYLINE]
 Type=0xa
 Label=VEZA RD
@@ -5598,7 +5598,7 @@ Nod3=21,4846,0
 Nod4=54,453,0
 [END]
 
-;sufi=1030000006051
+;linzid=49459
 [POLYLINE]
 Type=0xa
 Label=WEST COAST RD
@@ -5613,7 +5613,7 @@ Nod3=16,431,0
 Numbers1=0,E,4010,3870,O,4009,3835
 [END]
 
-;sufi=1030000006254
+;linzid=49627
 [POLYLINE]
 Type=0x6
 Label=RONGOPAI PL
@@ -5626,7 +5626,7 @@ Nod1=0,2901,0
 Nod2=2,425,0
 [END]
 
-;sufi=1030000006254
+;linzid=49627
 [POLYLINE]
 Type=0x6
 Label=RONGOPAI PL
@@ -5639,7 +5639,7 @@ Nod1=0,425,0
 Nod2=1,2902,0
 [END]
 
-;sufi=1030000006560
+;linzid=49882
 [POLYLINE]
 Type=0xa
 Label=BARRIBALL RD
@@ -5653,7 +5653,7 @@ Nod2=4,439,0
 Numbers1=0,O,33,11,E,32,32
 [END]
 
-;sufi=1030000005905
+;linzid=49342
 [POLYLINE]
 Type=0xa
 Label=HAUMANGA RD
@@ -5667,7 +5667,7 @@ Nod2=19,4833,0
 Nod3=30,447,0
 [END]
 
-;sufi=1030000006001
+;linzid=49417
 [POLYLINE]
 Type=0xa
 Label=PAWARENGA RD
@@ -5680,7 +5680,7 @@ Nod1=0,441,0
 Nod2=2,442,0
 [END]
 
-;sufi=1030000000950
+;linzid=47948
 [POLYLINE]
 Type=0x6
 Label=PAPARANGI DR
@@ -5694,7 +5694,7 @@ Nod2=25,431,0
 Numbers1=0,N,-1,-1,E,38,6
 [END]
 
-;sufi=1030000006051
+;linzid=49459
 [POLYLINE]
 Type=0xa
 Label=WEST COAST RD
@@ -5708,7 +5708,7 @@ Nod2=6,438,0
 Numbers1=0,E,3756,3730,N,-1,-1
 [END]
 
-;sufi=2030000082432
+;linzid=95340
 [POLYLINE]
 Type=0xa
 Label=RANGIPUTA RD
@@ -5722,7 +5722,7 @@ Nod2=5,6084,0
 Numbers1=0,E,70,58,O,55,45
 [END]
 
-;sufi=1030000208229
+;linzid=62413
 [POLYLINE]
 Type=0x6
 Label=MOTUTARA DR
@@ -5736,7 +5736,7 @@ Nod2=7,463,0
 Numbers1=0,E,36,2,O,49,1
 [END]
 
-;sufi=1030000208229
+;linzid=62413
 [POLYLINE]
 Type=0x6
 Label=MOTUTARA DR
@@ -5750,7 +5750,7 @@ Nod2=3,455,0
 Numbers1=0,E,44,38,O,75,55
 [END]
 
-;sufi=1030000006616
+;linzid=49931
 [POLYLINE]
 Type=0xa
 Label=OTURU BLOCK RD
@@ -5764,7 +5764,7 @@ Nod2=8,2907,0
 Numbers1=0,O,139,139,E,78,160
 [END]
 
-;sufi=1030000006529
+;linzid=49857
 [POLYLINE]
 Type=0x6
 Label=QUARRY RD
@@ -5777,7 +5777,7 @@ Nod1=0,448,0
 Nod2=9,6074,0
 [END]
 
-;sufi=1030000006580
+;linzid=60028
 [POLYLINE]
 Type=0xa
 Label=FRYER RD
@@ -5791,7 +5791,7 @@ Nod2=50,494,0
 Numbers1=0,O,3,237,E,58,180
 [END]
 
-;sufi=1030000006118
+;linzid=49514
 [POLYLINE]
 Type=0xa
 Label=WAIOTEHUE RD
@@ -5805,7 +5805,7 @@ Nod2=70,473,0
 Numbers1=0,E,1472,1472,O,1257,1165
 [END]
 
-;sufi=1030000005905
+;linzid=49342
 [POLYLINE]
 Type=0xa
 Label=HAUMANGA RD
@@ -5821,7 +5821,7 @@ Nod4=11,4861,0
 Nod5=39,484,0
 [END]
 
-;sufi=1030000006001
+;linzid=49417
 [POLYLINE]
 Type=0xa
 Label=PAWARENGA RD
@@ -5834,7 +5834,7 @@ Nod1=0,442,0
 Nod2=1,443,0
 [END]
 
-;sufi=1030000006001
+;linzid=49417
 [POLYLINE]
 Type=0xa
 Label=PAWARENGA RD
@@ -5848,7 +5848,7 @@ Nod2=29,475,0
 Numbers1=0,E,1396,1272,O,1403,1345
 [END]
 
-;sufi=1030000006535
+;linzid=49863
 [POLYLINE]
 Type=0x6
 Label=RANGIPUTA RD
@@ -5861,7 +5861,7 @@ Nod1=0,468,0
 Nod2=5,472,0
 [END]
 
-;sufi=1030000006535
+;linzid=49863
 [POLYLINE]
 Type=0x6
 Label=RANGIPUTA RD
@@ -5874,7 +5874,7 @@ Nod1=0,463,0
 Nod2=20,472,0
 [END]
 
-;sufi=1030000208249
+;linzid=62416
 [POLYLINE]
 Type=0x6
 Label=GILLIES RD
@@ -5888,7 +5888,7 @@ Nod2=10,468,0
 Numbers1=0,N,-1,-1,E,44,34
 [END]
 
-;sufi=1030000006535
+;linzid=49863
 [POLYLINE]
 Type=0x6
 Label=RANGIPUTA RD
@@ -5901,7 +5901,7 @@ Nod1=0,468,0
 Nod2=27,512,0
 [END]
 
-;sufi=1030000006100
+;linzid=49499
 [POLYLINE]
 Type=0xa
 Label=WAIROA STREAM RD
@@ -5914,7 +5914,7 @@ Nod1=0,2910,0
 Nod2=11,480,0
 [END]
 
-;sufi=1030000006281
+;linzid=49650
 [POLYLINE]
 Type=0xa
 Label=PUHEKE RD
@@ -5927,7 +5927,7 @@ Nod1=0,472,0
 Nod2=12,507,0
 [END]
 
-;sufi=1030000006247
+;linzid=49622
 [POLYLINE]
 Type=0xa
 Label=CHURCH RD
@@ -5941,7 +5941,7 @@ Nod2=5,501,0
 Numbers1=0,E,1494,1380,O,1445,1411
 [END]
 
-;sufi=1030000006247
+;linzid=49622
 [POLYLINE]
 Type=0xa
 Label=CHURCH RD
@@ -5955,7 +5955,7 @@ Nod2=46,498,0
 Numbers1=0,O,645,735,E,624,738
 [END]
 
-;sufi=1030000006435
+;linzid=49781
 [POLYLINE]
 Type=0xa
 Label=MUNN RD
@@ -5969,7 +5969,7 @@ Nod2=36,495,0
 Numbers1=0,O,285,285,E,294,70
 [END]
 
-;sufi=1030000005905
+;linzid=49342
 [POLYLINE]
 Type=0x6
 Label=HAUMANGA RD
@@ -5982,7 +5982,7 @@ Nod1=0,484,0
 Nod2=1,2914,0
 [END]
 
-;sufi=1030000006001
+;linzid=49417
 [POLYLINE]
 Type=0xa
 Label=PAWARENGA RD
@@ -5996,7 +5996,7 @@ Nod2=14,489,0
 Numbers1=0,E,1214,1206,O,1207,1207
 [END]
 
-;sufi=1030000006100
+;linzid=49499
 [POLYLINE]
 Type=0xa
 Label=WAIROA STREAM RD
@@ -6009,7 +6009,7 @@ Nod1=0,480,0
 Nod2=6,500,0
 [END]
 
-;sufi=1030000006281
+;linzid=49650
 [POLYLINE]
 Type=0xa
 Label=PUHEKE RD
@@ -6022,7 +6022,7 @@ Nod1=0,507,0
 Nod2=17,2915,0
 [END]
 
-;sufi=1030000006439
+;linzid=49784
 [POLYLINE]
 Type=0xa
 Label=BILL HAINES AVE
@@ -6035,7 +6035,7 @@ Nod1=0,2916,0
 Nod2=15,528,0
 [END]
 
-;sufi=1030000006277
+;linzid=49647
 [POLYLINE]
 Type=0xa
 Label=PUKEWHAI RD
@@ -6049,7 +6049,7 @@ Nod2=5,518,0
 Numbers1=0,E,182,162,N,-1,-1
 [END]
 
-;sufi=1030000000308
+;linzid=47788
 [POLYLINE]
 Type=0xa
 Label=MANGATETE RD
@@ -6063,7 +6063,7 @@ Nod2=7,518,0
 Numbers1=0,O,83,71,N,-1,-1
 [END]
 
-;sufi=1030000006503
+;linzid=49839
 [POLYLINE]
 Type=0xa
 Label=REED RD
@@ -6077,7 +6077,7 @@ Nod2=40,2919,0
 Numbers1=0,O,67,67,N,-1,-1
 [END]
 
-;sufi=1030000006477
+;linzid=49816
 [POLYLINE]
 Type=0xa
 Label=STURMFEL RD
@@ -6090,7 +6090,7 @@ Nod1=0,494,0
 Nod2=3,495,0
 [END]
 
-;sufi=1030000006477
+;linzid=49816
 [POLYLINE]
 Type=0xa
 Label=STURMFEL RD
@@ -6104,7 +6104,7 @@ Nod2=12,2920,0
 Numbers1=0,O,79,79,E,42,112
 [END]
 
-;sufi=1030000006404
+;linzid=49755
 [POLYLINE]
 Type=0xa
 Label=SIMPSON RD
@@ -6118,7 +6118,7 @@ Nod2=14,514,0
 Numbers1=0,O,93,93,N,-1,-1
 [END]
 
-;sufi=1030000005935
+;linzid=49366
 [POLYLINE]
 Type=0x6
 Label=RUDOLPH RD
@@ -6131,7 +6131,7 @@ Nod1=0,490,0
 Nod2=1,491,0
 [END]
 
-;sufi=1030000005935
+;linzid=49366
 [POLYLINE]
 Type=0x6
 Label=RUDOLPH RD
@@ -6144,7 +6144,7 @@ Nod1=0,489,0
 Nod2=1,490,0
 [END]
 
-;sufi=1030000006051
+;linzid=49459
 [POLYLINE]
 Type=0xa
 Label=WEST COAST RD
@@ -6157,7 +6157,7 @@ Nod1=0,500,0
 Nod2=3,504,0
 [END]
 
-;sufi=1030000006535
+;linzid=49863
 [POLYLINE]
 Type=0x6
 Label=RANGIPUTA RD
@@ -6171,7 +6171,7 @@ Nod2=10,550,0
 Numbers1=0,E,16,2,N,-1,-1
 [END]
 
-;sufi=1030000006595
+;linzid=49913
 [POLYLINE]
 Type=0xa
 Label=WALLACE RD
@@ -6185,7 +6185,7 @@ Nod2=12,512,0
 Numbers1=0,N,-1,-1,E,154,154
 [END]
 
-;sufi=1030000006277
+;linzid=49647
 [POLYLINE]
 Type=0xa
 Label=PUKEWHAI RD
@@ -6198,7 +6198,7 @@ Nod1=0,518,0
 Nod2=13,534,0
 [END]
 
-;sufi=1030000006604
+;linzid=49922
 [POLYLINE]
 Type=0xa
 Label=ZIDICH RD
@@ -6212,7 +6212,7 @@ Nod2=15,2923,0
 Numbers1=0,O,31,59,E,94,94
 [END]
 
-;sufi=1030000006285
+;linzid=49653
 [POLYLINE]
 Type=0xa
 Label=MILL RD
@@ -6226,7 +6226,7 @@ Nod2=4,508,0
 Numbers1=0,N,-1,-1,E,4,4
 [END]
 
-;sufi=1030000006376
+;linzid=49731
 [POLYLINE]
 Type=0xa
 Label=DUNCAN RD
@@ -6240,7 +6240,7 @@ Nod2=12,525,0
 Numbers1=0,O,15,15,E,6,138
 [END]
 
-;sufi=1030000006527
+;linzid=49855
 [POLYLINE]
 Type=0xa
 Label=PURIRI BLOCK RD
@@ -6253,7 +6253,7 @@ Nod1=0,519,0
 Nod2=6,521,0
 [END]
 
-;sufi=1030000006403
+;linzid=49754
 [POLYLINE]
 Type=0xa
 Label=SNELGAR RD
@@ -6268,7 +6268,7 @@ Nod3=74,2926,0
 Numbers1=0,O,15,475,E,8,474
 [END]
 
-;sufi=1030000006498
+;linzid=49834
 [POLYLINE]
 Type=0xa
 Label=DIGGERS VALLEY RD
@@ -6282,7 +6282,7 @@ Nod2=19,538,0
 Numbers1=0,O,1981,2005,E,1982,1992
 [END]
 
-;sufi=1030000005924
+;linzid=59943
 [POLYLINE]
 Type=0xa
 Label=PUKEMIRO RD
@@ -6296,7 +6296,7 @@ Nod2=92,592,0
 Numbers1=0,N,-1,-1,E,350,4
 [END]
 
-;sufi=1030000006017
+;linzid=49431
 [POLYLINE]
 Type=0xa
 Label=HICKS RD
@@ -6310,7 +6310,7 @@ Nod2=18,524,0
 Numbers1=0,O,17,17,E,88,88
 [END]
 
-;sufi=1030000006051
+;linzid=49459
 [POLYLINE]
 Type=0xa
 Label=WEST COAST RD
@@ -6324,7 +6324,7 @@ Nod2=32,566,0
 Numbers1=0,E,3310,2988,O,3333,3333
 [END]
 
-;sufi=1030000006051
+;linzid=49459
 [POLYLINE]
 Type=0xa
 Label=WEST COAST RD
@@ -6337,7 +6337,7 @@ Nod1=0,504,0
 Nod2=1,510,0
 [END]
 
-;sufi=1030000006412
+;linzid=49761
 [POLYLINE]
 Type=0xa
 Label=WAIMANGO RD
@@ -6351,7 +6351,7 @@ Nod2=1,563,0
 Numbers1=0,O,177,177,E,46,46
 [END]
 
-;sufi=1030000006296
+;linzid=90243
 [POLYLINE]
 Type=0xa
 Label=TAHANGA RD
@@ -6364,7 +6364,7 @@ Nod1=0,528,0
 Nod2=13,2930,0
 [END]
 
-;sufi=1030000006296
+;linzid=90243
 [POLYLINE]
 Type=0xa
 Label=TAHANGA RD
@@ -6377,7 +6377,7 @@ Nod1=0,534,0
 Nod2=7,528,0
 [END]
 
-;sufi=1030000006587
+;linzid=49906
 [POLYLINE]
 Type=0xa
 Label=CHURTON RD
@@ -6391,7 +6391,7 @@ Nod2=12,2932,0
 Numbers1=0,O,23,23,E,20,92
 [END]
 
-;sufi=1030000006376
+;linzid=49731
 [POLYLINE]
 Type=0xa
 Label=DUNCAN RD
@@ -6404,7 +6404,7 @@ Nod1=0,525,0
 Nod2=13,529,0
 [END]
 
-;sufi=1030000006462
+;linzid=49802
 [POLYLINE]
 Type=0xa
 Label=ATKINSON RD
@@ -6418,7 +6418,7 @@ Nod2=10,529,0
 Numbers1=0,E,52,26,O,45,3
 [END]
 
-;sufi=1030000006376
+;linzid=49731
 [POLYLINE]
 Type=0xa
 Label=DUNCAN RD
@@ -6432,7 +6432,7 @@ Nod2=9,543,0
 Numbers1=0,O,247,271,E,256,272
 [END]
 
-;sufi=1030000006599
+;linzid=49917
 [POLYLINE]
 Type=0x6
 Label=FAIRBURN RD
@@ -6446,7 +6446,7 @@ Nod2=23,551,0
 Numbers1=0,O,11,153,E,2,86
 [END]
 
-;sufi=1030000006498
+;linzid=49834
 [POLYLINE]
 Type=0xa
 Label=DIGGERS VALLEY RD
@@ -6459,7 +6459,7 @@ Nod1=0,539,0
 Nod2=1,541,0
 [END]
 
-;sufi=1030000006498
+;linzid=49834
 [POLYLINE]
 Type=0xa
 Label=DIGGERS VALLEY RD
@@ -6472,7 +6472,7 @@ Nod1=0,538,0
 Nod2=8,539,0
 [END]
 
-;sufi=1030000006508
+;linzid=49843
 [POLYLINE]
 Type=0xa
 Label=CRENE RD
@@ -6486,7 +6486,7 @@ Nod2=22,547,0
 Numbers1=0,E,124,62,O,103,5
 [END]
 
-;sufi=1030000006402
+;linzid=49753
 [POLYLINE]
 Type=0xa
 Label=CEMETERY RD
@@ -6500,7 +6500,7 @@ Nod2=7,542,0
 Numbers1=0,O,41,39,E,42,2
 [END]
 
-;sufi=1030000006118
+;linzid=49514
 [POLYLINE]
 Type=0xa
 Label=WAIOTEHUE RD
@@ -6514,7 +6514,7 @@ Nod2=3,6120,0
 Numbers1=0,E,22,12,O,15,15
 [END]
 
-;sufi=1030000006557
+;linzid=49879
 [POLYLINE]
 Type=0xa
 Label=TAKAHUE DOMAIN RD
@@ -6527,7 +6527,7 @@ Nod1=0,6119,0
 Nod2=5,2935,0
 [END]
 
-;sufi=1030000006552
+;linzid=49875
 [POLYLINE]
 Type=0x6
 Label=TAKAHUE RD
@@ -6541,7 +6541,7 @@ Nod2=10,542,0
 Numbers1=0,E,726,626,O,757,573
 [END]
 
-;sufi=1030000212542
+;linzid=89657
 [POLYLINE]
 Type=0xa
 Label=TAKAHUE SADDLE RD
@@ -6556,7 +6556,7 @@ Nod3=20,567,0
 Numbers1=0,O,9,241,E,4,230
 [END]
 
-;sufi=1030000006398
+;linzid=49749
 [POLYLINE]
 Type=0xa
 Label=CARR RD
@@ -6569,7 +6569,7 @@ Nod1=0,530,0
 Nod2=9,532,0
 [END]
 
-;sufi=1030000006001
+;linzid=49417
 [POLYLINE]
 Type=0x6
 Label=PAWARENGA RD
@@ -6583,7 +6583,7 @@ Nod2=56,553,0
 Numbers1=0,E,752,706,O,743,743
 [END]
 
-;sufi=1030000006496
+;linzid=49832
 [POLYLINE]
 Type=0xa
 Label=DICK URLICH RD
@@ -6597,7 +6597,7 @@ Nod2=5,2936,0
 Numbers1=0,N,-1,-1,E,10,136
 [END]
 
-;sufi=1030000006493
+;linzid=49829
 [POLYLINE]
 Type=0xa
 Label=DODDS RD
@@ -6611,7 +6611,7 @@ Nod2=2,551,0
 Numbers1=0,E,4,80,O,13,73
 [END]
 
-;sufi=1030000006552
+;linzid=49875
 [POLYLINE]
 Type=0x6
 Label=TAKAHUE RD
@@ -6624,7 +6624,7 @@ Nod1=0,546,0
 Nod2=2,549,0
 [END]
 
-;sufi=1030000006298
+;linzid=49664
 [POLYLINE]
 Type=0xa
 Label=RUAROA RD
@@ -6637,7 +6637,7 @@ Nod1=0,541,0
 Nod2=1,546,0
 [END]
 
-;sufi=1030000006552
+;linzid=49875
 [POLYLINE]
 Type=0x6
 Label=TAKAHUE RD
@@ -6651,7 +6651,7 @@ Nod2=16,561,0
 Numbers1=0,E,314,94,O,317,263
 [END]
 
-;sufi=1030000006552
+;linzid=49875
 [POLYLINE]
 Type=0x6
 Label=TAKAHUE RD
@@ -6664,7 +6664,7 @@ Nod1=0,547,0
 Nod2=1,552,0
 [END]
 
-;sufi=1030000006552
+;linzid=49875
 [POLYLINE]
 Type=0x6
 Label=TAKAHUE RD
@@ -6678,7 +6678,7 @@ Nod2=3,552,0
 Numbers1=0,O,505,505,E,430,480
 [END]
 
-;sufi=1030000006552
+;linzid=49875
 [POLYLINE]
 Type=0x6
 Label=TAKAHUE RD
@@ -6691,7 +6691,7 @@ Nod1=0,542,0
 Nod2=1,547,0
 [END]
 
-;sufi=1030000006001
+;linzid=49417
 [POLYLINE]
 Type=0x6
 Label=PAWARENGA RD
@@ -6705,7 +6705,7 @@ Nod2=71,553,0
 Numbers1=0,O,563,563,E,244,386
 [END]
 
-;sufi=1030000006063
+;linzid=49469
 [POLYLINE]
 Type=0xa
 Label=IRVINE RD
@@ -6719,7 +6719,7 @@ Nod2=28,2938,0
 Numbers1=0,O,17,17,N,-1,-1
 [END]
 
-;sufi=1030000006338
+;linzid=49699
 [POLYLINE]
 Type=0x5
 Label=INLAND RD
@@ -6732,7 +6732,7 @@ Nod1=0,563,0
 Nod2=2,585,0
 [END]
 
-;sufi=1030000006338
+;linzid=49699
 [POLYLINE]
 Type=0x5
 Label=INLAND RD
@@ -6745,7 +6745,7 @@ Nod1=0,564,0
 Nod2=5,563,0
 [END]
 
-;sufi=1030000006409
+;linzid=49759
 [POLYLINE]
 Type=0x6
 Label=SIMON URLICH RD
@@ -6759,7 +6759,7 @@ Nod2=2,569,0
 Numbers1=0,O,1,5,E,2,4
 [END]
 
-;sufi=1030000006433
+;linzid=49779
 [POLYLINE]
 Type=0xa
 Label=LAKE OHIA RD
@@ -6773,7 +6773,7 @@ Nod2=11,621,0
 Numbers1=0,E,20,20,O,201,31
 [END]
 
-;sufi=1030000006346
+;linzid=59998
 [POLYLINE]
 Type=0xa
 Label=WERNER RD
@@ -6787,7 +6787,7 @@ Nod2=3,562,0
 Numbers1=0,E,38,38,O,17,7
 [END]
 
-;sufi=1030000006552
+;linzid=49875
 [POLYLINE]
 Type=0x6
 Label=TAKAHUE RD
@@ -6800,7 +6800,7 @@ Nod1=0,561,0
 Nod2=1,562,0
 [END]
 
-;sufi=1030000006364
+;linzid=49720
 [POLYLINE]
 Type=0xa
 Label=BRAITHWAITE RD
@@ -6814,7 +6814,7 @@ Nod2=13,561,0
 Numbers1=0,E,124,40,O,87,41
 [END]
 
-;sufi=1030000006053
+;linzid=49461
 [POLYLINE]
 Type=0xa
 Label=KOWHITIKARU RD
@@ -6828,7 +6828,7 @@ Nod2=8,594,0
 Numbers1=0,E,212,98,O,213,157
 [END]
 
-;sufi=1030000006051
+;linzid=49459
 [POLYLINE]
 Type=0xa
 Label=WEST COAST RD
@@ -6841,7 +6841,7 @@ Nod1=0,571,0
 Nod2=39,632,0
 [END]
 
-;sufi=1030000006051
+;linzid=49459
 [POLYLINE]
 Type=0xa
 Label=WEST COAST RD
@@ -6855,7 +6855,7 @@ Nod2=4,570,0
 Numbers1=0,E,2890,2890,N,-1,-1
 [END]
 
-;sufi=2030000082428
+;linzid=95338
 [POLYLINE]
 Type=0x5
 Label=INLAND RD
@@ -6869,7 +6869,7 @@ Nod2=2,612,0
 Numbers1=0,E,66,2,O,79,1
 [END]
 
-;sufi=2030000082428
+;linzid=95338
 [POLYLINE]
 Type=0x5
 Label=INLAND RD
@@ -6883,7 +6883,7 @@ Nod2=2,596,0
 Numbers1=0,E,92,68,O,123,87
 [END]
 
-;sufi=1030000006415
+;linzid=60008
 [POLYLINE]
 Type=0x6
 Label=VIRTUE CRES
@@ -6897,7 +6897,7 @@ Nod2=8,586,0
 Numbers1=0,E,108,60,O,71,49
 [END]
 
-;sufi=1030000006291
+;linzid=49658
 [POLYLINE]
 Type=0x6
 Label=TOKERAU BEACH RD
@@ -6911,7 +6911,7 @@ Nod2=3,597,0
 Numbers1=0,E,168,130,N,-1,-1
 [END]
 
-;sufi=1030000006291
+;linzid=49658
 [POLYLINE]
 Type=0x6
 Label=TOKERAU BEACH RD
@@ -6924,7 +6924,7 @@ Nod1=0,597,0
 Nod2=6,613,0
 [END]
 
-;sufi=1030000006381
+;linzid=49735
 [POLYLINE]
 Type=0x6
 Label=BRUNTON PL
@@ -6938,7 +6938,7 @@ Nod2=1,2943,0
 Numbers1=0,O,1,13,E,2,6
 [END]
 
-;sufi=1030000006415
+;linzid=60008
 [POLYLINE]
 Type=0x6
 Label=VIRTUE CRES
@@ -6952,7 +6952,7 @@ Nod2=2,597,0
 Numbers1=0,E,6,2,O,9,1
 [END]
 
-;sufi=1030000006415
+;linzid=60008
 [POLYLINE]
 Type=0x6
 Label=VIRTUE CRES
@@ -6966,7 +6966,7 @@ Nod2=8,598,0
 Numbers1=0,E,58,16,O,49,11
 [END]
 
-;sufi=1030000006340
+;linzid=49701
 [POLYLINE]
 Type=0x6
 Label=WHALE CRES
@@ -6980,7 +6980,7 @@ Nod2=2,599,0
 Numbers1=0,E,14,2,O,15,1
 [END]
 
-;sufi=1030000006291
+;linzid=49658
 [POLYLINE]
 Type=0x6
 Label=TOKERAU BEACH RD
@@ -7006,7 +7006,7 @@ Nod1=0,586,0
 Nod2=2,588,0
 [END]
 
-;sufi=1030000006358
+;linzid=49715
 [POLYLINE]
 Type=0x6
 Label=PAREMATA NEXUS RD
@@ -7020,7 +7020,7 @@ Nod2=1,578,0
 Numbers1=0,E,14,10,O,7,7
 [END]
 
-;sufi=1030000006409
+;linzid=49759
 [POLYLINE]
 Type=0x6
 Label=SIMON URLICH RD
@@ -7034,7 +7034,7 @@ Nod2=1,576,0
 Numbers1=0,E,62,32,O,57,31
 [END]
 
-;sufi=1030000006291
+;linzid=49658
 [POLYLINE]
 Type=0x6
 Label=TOKERAU BEACH RD
@@ -7048,7 +7048,7 @@ Nod2=9,587,0
 Numbers1=0,E,292,192,O,407,187
 [END]
 
-;sufi=1030000006409
+;linzid=49759
 [POLYLINE]
 Type=0x6
 Label=SIMON URLICH RD
@@ -7061,7 +7061,7 @@ Nod1=0,577,0
 Nod2=3,576,0
 [END]
 
-;sufi=1030000006409
+;linzid=49759
 [POLYLINE]
 Type=0x6
 Label=SIMON URLICH RD
@@ -7075,7 +7075,7 @@ Nod2=2,577,0
 Numbers1=0,O,11,15,E,6,18
 [END]
 
-;sufi=1030000006358
+;linzid=49715
 [POLYLINE]
 Type=0x6
 Label=PAREMATA NEXUS RD
@@ -7089,7 +7089,7 @@ Nod2=1,579,0
 Numbers1=0,E,8,4,N,-1,-1
 [END]
 
-;sufi=1030000006286
+;linzid=49654
 [POLYLINE]
 Type=0x6
 Label=MELISSA RD
@@ -7103,7 +7103,7 @@ Nod2=3,2945,0
 Numbers1=0,O,1,13,N,-1,-1
 [END]
 
-;sufi=1030000006270
+;linzid=49642
 [POLYLINE]
 Type=0x6
 Label=MARREINE PL
@@ -7117,7 +7117,7 @@ Nod2=5,2946,0
 Numbers1=0,O,1,29,E,2,82
 [END]
 
-;sufi=1030000006409
+;linzid=49759
 [POLYLINE]
 Type=0x6
 Label=SIMON URLICH RD
@@ -7131,7 +7131,7 @@ Nod2=1,579,0
 Numbers1=0,E,98,64,O,95,59
 [END]
 
-;sufi=1030000006531
+;linzid=49859
 [POLYLINE]
 Type=0xa
 Label=RAMP RD
@@ -7147,7 +7147,7 @@ Nod4=17,2948,0
 Numbers1=0,O,149,163,E,142,152
 [END]
 
-;sufi=1030000006466
+;linzid=49806
 [POLYLINE]
 Type=0xa
 Label=PEKERAU RD
@@ -7161,7 +7161,7 @@ Nod2=5,580,0
 Numbers1=0,O,5,175,E,92,92
 [END]
 
-;sufi=1030000006299
+;linzid=49665
 [POLYLINE]
 Type=0xa
 Label=RUSSELL RD
@@ -7174,7 +7174,7 @@ Nod1=0,580,0
 Nod2=10,624,0
 [END]
 
-;sufi=1030000006376
+;linzid=49731
 [POLYLINE]
 Type=0xa
 Label=DUNCAN RD
@@ -7190,7 +7190,7 @@ Nod4=27,647,0
 Numbers1=0,O,693,773,E,722,726
 [END]
 
-;sufi=1030000006289
+;linzid=49656
 [POLYLINE]
 Type=0xa
 Label=METCALFE RD
@@ -7204,7 +7204,7 @@ Nod2=55,666,0
 Numbers1=0,N,-1,-1,E,42,42
 [END]
 
-;sufi=1030000006284
+;linzid=59989
 [POLYLINE]
 Type=0xa
 Label=MEFFIN RD
@@ -7218,7 +7218,7 @@ Nod2=2,602,0
 Numbers1=0,O,19,19,E,22,22
 [END]
 
-;sufi=1030000006599
+;linzid=49917
 [POLYLINE]
 Type=0x6
 Label=FAIRBURN RD
@@ -7232,7 +7232,7 @@ Nod2=32,667,0
 Numbers1=0,O,561,581,E,432,582
 [END]
 
-;sufi=1030000006001
+;linzid=49417
 [POLYLINE]
 Type=0x6
 Label=PAWARENGA RD
@@ -7245,7 +7245,7 @@ Nod1=0,575,0
 Nod2=44,603,0
 [END]
 
-;sufi=1030000001152
+;linzid=47988
 [POLYLINE]
 Type=0xa
 Label=TUNATAHI RD
@@ -7258,7 +7258,7 @@ Nod1=0,2950,0
 Nod2=20,583,0
 [END]
 
-;sufi=1030000006053
+;linzid=49461
 [POLYLINE]
 Type=0xa
 Label=KOWHITIKARU RD
@@ -7272,7 +7272,7 @@ Nod2=6,631,0
 Numbers1=0,E,96,96,O,75,21
 [END]
 
-;sufi=1030000006051
+;linzid=49459
 [POLYLINE]
 Type=0x6
 Label=WEST COAST RD
@@ -7285,7 +7285,7 @@ Nod1=0,570,0
 Nod2=1,571,0
 [END]
 
-;sufi=1030000006033
+;linzid=49443
 [POLYLINE]
 Type=0xa
 Label=RANGI POINT RD
@@ -7299,7 +7299,7 @@ Nod2=52,679,0
 Numbers1=0,E,540,138,O,611,269
 [END]
 
-;sufi=1030000006033
+;linzid=49443
 [POLYLINE]
 Type=0x6
 Label=RANGI POINT RD
@@ -7313,7 +7313,7 @@ Nod2=10,606,0
 Numbers1=0,E,732,732,N,-1,-1
 [END]
 
-;sufi=1030000006033
+;linzid=49443
 [POLYLINE]
 Type=0x6
 Label=RANGI POINT RD
@@ -7326,7 +7326,7 @@ Nod1=0,2951,0
 Nod2=1,572,0
 [END]
 
-;sufi=1030000006073
+;linzid=49479
 [POLYLINE]
 Type=0xa
 Label=SIGNAL STATION RD
@@ -7340,7 +7340,7 @@ Nod2=8,637,0
 Numbers1=0,E,68,14,O,73,3
 [END]
 
-;sufi=1030000006344
+;linzid=49704
 [POLYLINE]
 Type=0xa
 Label=WHATUWHIWHI RD
@@ -7353,7 +7353,7 @@ Nod1=0,2953,0
 Nod2=4,650,0
 [END]
 
-;sufi=1030000006371
+;linzid=49727
 [POLYLINE]
 Type=0x6
 Label=DOUBTLESS BAY DR
@@ -7368,7 +7368,7 @@ Nod3=2,640,0
 Numbers1=0,O,23,25,E,18,38
 [END]
 
-;sufi=1030000006268
+;linzid=49640
 [POLYLINE]
 Type=0x6
 Label=MATAI BAY RD
@@ -7382,7 +7382,7 @@ Nod2=3,622,0
 Numbers1=0,O,1,37,E,2,36
 [END]
 
-;sufi=1030000006371
+;linzid=49727
 [POLYLINE]
 Type=0x6
 Label=DOUBTLESS BAY DR
@@ -7396,7 +7396,7 @@ Nod2=2,623,0
 Numbers1=0,O,1,19,E,2,16
 [END]
 
-;sufi=1030000006268
+;linzid=49640
 [POLYLINE]
 Type=0x6
 Label=MATAI BAY RD
@@ -7409,7 +7409,7 @@ Nod1=0,622,0
 Nod2=2,642,0
 [END]
 
-;sufi=1030000006291
+;linzid=49658
 [POLYLINE]
 Type=0x6
 Label=TOKERAU BEACH RD
@@ -7423,7 +7423,7 @@ Nod2=4,613,0
 Numbers1=0,O,61,85,E,34,34
 [END]
 
-;sufi=1030000006291
+;linzid=49658
 [POLYLINE]
 Type=0x6
 Label=TOKERAU BEACH RD
@@ -7437,7 +7437,7 @@ Nod2=4,4602,0
 Numbers1=0,O,33,53,N,-1,-1
 [END]
 
-;sufi=1030000006490
+;linzid=49826
 [POLYLINE]
 Type=0xa
 Label=TUITONGA RD
@@ -7451,7 +7451,7 @@ Nod2=5,648,0
 Numbers1=0,E,50,4,O,47,3
 [END]
 
-;sufi=1030000006405
+;linzid=49756
 [POLYLINE]
 Type=0xa
 Label=SIMPSON RD
@@ -7465,7 +7465,7 @@ Nod2=1,2955,0
 Numbers1=0,O,27,59,N,-1,-1
 [END]
 
-;sufi=1030000006299
+;linzid=49665
 [POLYLINE]
 Type=0xa
 Label=RUSSELL RD
@@ -7478,7 +7478,7 @@ Nod1=0,624,0
 Nod2=1,2956,0
 [END]
 
-;sufi=1030000006450
+;linzid=49792
 [POLYLINE]
 Type=0xa
 Label=HOUSHAM RD
@@ -7492,7 +7492,7 @@ Nod2=14,2957,0
 Numbers1=0,O,19,19,N,-1,-1
 [END]
 
-;sufi=1030000005938
+;linzid=49368
 [POLYLINE]
 Type=0xa
 Label=MIHIRAU RD
@@ -7505,7 +7505,7 @@ Nod1=0,638,0
 Nod2=8,2959,0
 [END]
 
-;sufi=1030000006051
+;linzid=49459
 [POLYLINE]
 Type=0x6
 Label=WEST COAST RD
@@ -7519,7 +7519,7 @@ Nod2=22,627,0
 Numbers1=0,E,2130,2028,N,-1,-1
 [END]
 
-;sufi=1030000184079
+;linzid=61647
 [POLYLINE]
 Type=0xa
 Label=PAPAKUWHENUA ROADWAY
@@ -7532,7 +7532,7 @@ Nod1=0,2960,0
 Nod2=6,626,0
 [END]
 
-;sufi=1030000006006
+;linzid=49421
 [POLYLINE]
 Type=0x6
 Label=TAUTORO RD
@@ -7546,7 +7546,7 @@ Nod2=4,2961,0
 Numbers1=0,O,7,35,E,10,36
 [END]
 
-;sufi=1030000006051
+;linzid=49459
 [POLYLINE]
 Type=0x6
 Label=WEST COAST RD
@@ -7559,7 +7559,7 @@ Nod1=0,631,0
 Nod2=2,632,0
 [END]
 
-;sufi=1030000006079
+;linzid=49483
 [POLYLINE]
 Type=0x6
 Label=TE KARAKA RD
@@ -7573,7 +7573,7 @@ Nod2=46,2962,0
 Numbers1=0,O,297,305,E,24,382
 [END]
 
-;sufi=1030000006002
+;linzid=49418
 [POLYLINE]
 Type=0x6
 Label=PIONEER WLK
@@ -7587,7 +7587,7 @@ Nod2=3,641,0
 Numbers1=0,N,-1,-1,E,6,4
 [END]
 
-;sufi=1030000001266
+;linzid=48019
 [POLYLINE]
 Type=0xa
 Label=TE HUNOKE RD
@@ -7601,7 +7601,7 @@ Nod2=7,658,0
 Numbers1=0,O,9,9,E,28,28
 [END]
 
-;sufi=1030000006268
+;linzid=49640
 [POLYLINE]
 Type=0xa
 Label=MATAI BAY RD
@@ -7614,7 +7614,7 @@ Nod1=0,2965,0
 Nod2=10,712,0
 [END]
 
-;sufi=1030000006494
+;linzid=49830
 [POLYLINE]
 Type=0x6
 Label=DE SURVILLE RD
@@ -7627,7 +7627,7 @@ Nod1=0,649,0
 Nod2=1,2966,0
 [END]
 
-;sufi=1030000006468
+;linzid=49808
 [POLYLINE]
 Type=0xa
 Label=PEREHIPE RD
@@ -7641,7 +7641,7 @@ Nod2=3,2967,0
 Numbers1=0,O,3,25,E,4,16
 [END]
 
-;sufi=1030000006494
+;linzid=49830
 [POLYLINE]
 Type=0x6
 Label=DE SURVILLE RD
@@ -7655,7 +7655,7 @@ Nod2=2,649,0
 Numbers1=0,O,1,21,E,2,24
 [END]
 
-;sufi=1030000006344
+;linzid=49704
 [POLYLINE]
 Type=0x6
 Label=WHATUWHIWHI RD
@@ -7669,7 +7669,7 @@ Nod2=2,651,0
 Numbers1=0,O,1,7,E,8,20
 [END]
 
-;sufi=1030000006371
+;linzid=49727
 [POLYLINE]
 Type=0x6
 Label=DOUBTLESS BAY DR
@@ -7684,7 +7684,7 @@ Nod3=3,4636,0
 Numbers1=0,O,57,81,E,40,50
 [END]
 
-;sufi=1030000006545
+;linzid=49870
 [POLYLINE]
 Type=0x6
 Label=TE AHU PL
@@ -7698,7 +7698,7 @@ Nod2=2,2968,0
 Numbers1=0,O,1,31,E,2,30
 [END]
 
-;sufi=1030000006468
+;linzid=49808
 [POLYLINE]
 Type=0xa
 Label=PEREHIPE RD
@@ -7712,7 +7712,7 @@ Nod2=2,648,0
 Numbers1=0,O,1,1,E,2,2
 [END]
 
-;sufi=1030000006371
+;linzid=49727
 [POLYLINE]
 Type=0x6
 Label=DOUBTLESS BAY DR
@@ -7726,7 +7726,7 @@ Nod2=1,649,0
 Numbers1=0,O,87,109,E,52,104
 [END]
 
-;sufi=1030000006269
+;linzid=49641
 [POLYLINE]
 Type=0x6
 Label=MATARIKI PL
@@ -7740,7 +7740,7 @@ Nod2=6,696,0
 Numbers1=0,E,46,2,O,51,5
 [END]
 
-;sufi=1030000006344
+;linzid=49704
 [POLYLINE]
 Type=0x6
 Label=WHATUWHIWHI RD
@@ -7754,7 +7754,7 @@ Nod2=5,696,0
 Numbers1=0,O,67,69,E,66,82
 [END]
 
-;sufi=1030000006344
+;linzid=49704
 [POLYLINE]
 Type=0x6
 Label=WHATUWHIWHI RD
@@ -7768,7 +7768,7 @@ Nod2=7,664,0
 Numbers1=0,O,21,61,E,60,62
 [END]
 
-;sufi=1030000006344
+;linzid=49704
 [POLYLINE]
 Type=0x6
 Label=WHATUWHIWHI RD
@@ -7781,7 +7781,7 @@ Nod1=0,653,0
 Nod2=6,651,0
 [END]
 
-;sufi=1030000006497
+;linzid=90203
 [POLYLINE]
 Type=0xa
 Label=DAWSON ACCESS RD
@@ -7795,7 +7795,7 @@ Nod2=12,689,0
 Numbers1=0,E,74,38,O,37,25
 [END]
 
-;sufi=1030000006376
+;linzid=49731
 [POLYLINE]
 Type=0xa
 Label=DUNCAN RD
@@ -7809,7 +7809,7 @@ Nod2=36,666,0
 Numbers1=0,O,1091,1091,E,1278,1278
 [END]
 
-;sufi=1030000006376
+;linzid=49731
 [POLYLINE]
 Type=0xa
 Label=DUNCAN RD
@@ -7823,7 +7823,7 @@ Nod2=18,698,0
 Numbers1=0,O,1437,1437,N,-1,-1
 [END]
 
-;sufi=1030000006599
+;linzid=49917
 [POLYLINE]
 Type=0x6
 Label=FAIRBURN RD
@@ -7837,7 +7837,7 @@ Nod2=12,699,0
 Numbers1=0,O,667,707,N,-1,-1
 [END]
 
-;sufi=1030000006474
+;linzid=60015
 [POLYLINE]
 Type=0xa
 Label=SWITZER RD
@@ -7851,7 +7851,7 @@ Nod2=4,697,0
 Numbers1=0,O,49,49,E,48,48
 [END]
 
-;sufi=1030000006512
+;linzid=49846
 [POLYLINE]
 Type=0xa
 Label=MANGATOETOE RD
@@ -7865,7 +7865,7 @@ Nod2=27,697,0
 Numbers1=0,O,85,157,E,40,40
 [END]
 
-;sufi=1030000006074
+;linzid=59960
 [POLYLINE]
 Type=0xa
 Label=TEACHERS RD
@@ -7879,7 +7879,7 @@ Nod2=5,695,0
 Numbers1=0,E,26,14,O,25,5
 [END]
 
-;sufi=1030000188285
+;linzid=90339
 [POLYLINE]
 Type=0xa
 Label=MAMARI RD
@@ -7893,7 +7893,7 @@ Nod2=3,2973,0
 Numbers1=0,O,23,23,E,22,26
 [END]
 
-;sufi=1030000212541
+;linzid=89656
 [POLYLINE]
 Type=0xa
 Label=TAKAHUE SADDLE RD
@@ -7907,7 +7907,7 @@ Nod2=5,669,0
 Numbers1=0,E,52,36,O,35,35
 [END]
 
-;sufi=1030000006042
+;linzid=49452
 [POLYLINE]
 Type=0xa
 Label=WHANGAPE TRACK RD
@@ -7922,7 +7922,7 @@ Nod3=63,729,0
 Numbers1=0,O,31,31,N,-1,-1
 [END]
 
-;sufi=1030000006041
+;linzid=49451
 [POLYLINE]
 Type=0x6
 Label=FAIRLIE CRES
@@ -7936,7 +7936,7 @@ Nod2=6,671,0
 Numbers1=0,O,5,27,E,8,26
 [END]
 
-;sufi=1030000006041
+;linzid=49451
 [POLYLINE]
 Type=0x6
 Label=FAIRLIE CRES
@@ -7950,7 +7950,7 @@ Nod2=14,686,0
 Numbers1=0,O,29,67,E,28,90
 [END]
 
-;sufi=1030000006041
+;linzid=49451
 [POLYLINE]
 Type=0x6
 Label=FAIRLIE CRES
@@ -7964,7 +7964,7 @@ Nod2=1,672,0
 Numbers1=0,O,1,1,E,2,2
 [END]
 
-;sufi=1030000182980
+;linzid=61637
 [POLYLINE]
 Type=0x6
 Label=TE WAIAROHIA RD
@@ -7977,7 +7977,7 @@ Nod1=0,662,0
 Nod2=2,2975,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Walkway
@@ -7990,7 +7990,7 @@ Nod1=0,673,0
 Nod2=3,672,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Walkway
@@ -8003,7 +8003,7 @@ Nod1=0,661,0
 Nod2=1,655,0
 [END]
 
-;sufi=1030000006052
+;linzid=49460
 [POLYLINE]
 Type=0x6
 Label=KOKOHUIA RD
@@ -8016,7 +8016,7 @@ Nod1=0,660,0
 Nod2=1,674,0
 [END]
 
-;sufi=1030000006009
+;linzid=49424
 [POLYLINE]
 Type=0x6
 Label=TAUMATAWIWI ST
@@ -8030,7 +8030,7 @@ Nod2=8,671,0
 Numbers1=0,E,76,2,O,77,1
 [END]
 
-;sufi=1030000006052
+;linzid=49460
 [POLYLINE]
 Type=0x6
 Label=KOKOHUIA RD
@@ -8044,7 +8044,7 @@ Nod2=2,676,0
 Numbers1=0,O,45,45,E,38,38
 [END]
 
-;sufi=1030000006069
+;linzid=49475
 [POLYLINE]
 Type=0x6
 Label=AKIHA ST
@@ -8058,7 +8058,7 @@ Nod2=3,674,0
 Numbers1=0,E,24,2,O,35,1
 [END]
 
-;sufi=1030000186156
+;linzid=61782
 [POLYLINE]
 Type=0x6
 Label=BAKER DR
@@ -8071,7 +8071,7 @@ Nod1=0,663,0
 Nod2=7,2977,0
 [END]
 
-;sufi=1030000005943
+;linzid=49372
 [POLYLINE]
 Type=0x6
 Label=FREESE PARK RD
@@ -8085,7 +8085,7 @@ Nod2=3,2978,0
 Numbers1=0,O,1,9,N,-1,-1
 [END]
 
-;sufi=1030000006113
+;linzid=49510
 [POLYLINE]
 Type=0x6
 Label=WAIANGA PL
@@ -8099,7 +8099,7 @@ Nod2=3,2979,0
 Numbers1=0,O,1,17,E,2,12
 [END]
 
-;sufi=1030000189523
+;linzid=59190
 [POLYLINE]
 Type=0x6
 Label=WAIHUKA RD
@@ -8113,7 +8113,7 @@ Nod2=6,2980,0
 Numbers1=0,O,37,69,E,42,84
 [END]
 
-;sufi=1030000005910
+;linzid=49345
 [POLYLINE]
 Type=0x6
 Label=OLD WHARF RD
@@ -8127,7 +8127,7 @@ Nod2=1,656,0
 Numbers1=0,E,4,2,N,-1,-1
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Walkway
@@ -8140,7 +8140,7 @@ Nod1=0,2982,0
 Nod2=1,683,0
 [END]
 
-;sufi=1030000189523
+;linzid=59190
 [POLYLINE]
 Type=0x6
 Label=WAIHUKA RD
@@ -8153,7 +8153,7 @@ Nod1=0,675,0
 Nod2=2,690,0
 [END]
 
-;sufi=1030000189523
+;linzid=59190
 [POLYLINE]
 Type=0x6
 Label=WAIHUKA RD
@@ -8166,7 +8166,7 @@ Nod1=0,682,0
 Nod2=2,675,0
 [END]
 
-;sufi=1030000006052
+;linzid=49460
 [POLYLINE]
 Type=0x6
 Label=KOKOHUIA RD
@@ -8180,7 +8180,7 @@ Nod2=13,2983,0
 Numbers1=0,O,45,153,E,42,128
 [END]
 
-;sufi=1030000005910
+;linzid=49345
 [POLYLINE]
 Type=0x6
 Label=OLD WHARF RD
@@ -8193,7 +8193,7 @@ Nod1=0,656,0
 Nod2=1,659,0
 [END]
 
-;sufi=1030000006376
+;linzid=49731
 [POLYLINE]
 Type=0xa
 Label=DUNCAN RD
@@ -8207,7 +8207,7 @@ Nod2=13,699,0
 Numbers1=0,O,1529,1569,E,1580,1596
 [END]
 
-;sufi=1030000006422
+;linzid=49769
 [POLYLINE]
 Type=0xa
 Label=KOPUOKAI RD
@@ -8222,7 +8222,7 @@ Nod3=9,2984,0
 Numbers1=0,N,-1,-1,E,10,10
 [END]
 
-;sufi=1030000006599
+;linzid=49917
 [POLYLINE]
 Type=0x6
 Label=FAIRBURN RD
@@ -8237,7 +8237,7 @@ Nod3=28,728,0
 Numbers1=0,O,795,813,E,728,728
 [END]
 
-;sufi=1030000006360
+;linzid=49716
 [POLYLINE]
 Type=0xa
 Label=PANTHER RD
@@ -8251,7 +8251,7 @@ Nod2=12,2985,0
 Numbers1=0,O,143,143,E,86,126
 [END]
 
-;sufi=1030000006360
+;linzid=49716
 [POLYLINE]
 Type=0xa
 Label=PANTHER RD
@@ -8266,7 +8266,7 @@ Nod3=4,704,0
 Numbers1=0,E,86,2,O,77,1
 [END]
 
-;sufi=1030000006067
+;linzid=49473
 [POLYLINE]
 Type=0xa
 Label=CARMEN RD
@@ -8280,7 +8280,7 @@ Nod2=2,706,0
 Numbers1=0,O,23,23,N,-1,-1
 [END]
 
-;sufi=1030000005991
+;linzid=49408
 [POLYLINE]
 Type=0xa
 Label=NEWTON RD
@@ -8294,7 +8294,7 @@ Nod2=5,2989,0
 Numbers1=0,O,185,209,E,196,196
 [END]
 
-;sufi=1030000005991
+;linzid=49408
 [POLYLINE]
 Type=0xa
 Label=NEWTON RD
@@ -8308,7 +8308,7 @@ Nod2=10,711,0
 Numbers1=0,O,169,169,E,114,122
 [END]
 
-;sufi=1030000208255
+;linzid=62419
 [POLYLINE]
 Type=0x6
 Label=MIRO AVE
@@ -8322,7 +8322,7 @@ Nod2=4,2990,0
 Numbers1=0,N,-1,-1,E,12,20
 [END]
 
-;sufi=1030000005996
+;linzid=49412
 [POLYLINE]
 Type=0xa
 Label=DIAMOND RD
@@ -8335,7 +8335,7 @@ Nod1=0,707,0
 Nod2=11,709,0
 [END]
 
-;sufi=1030000005996
+;linzid=49412
 [POLYLINE]
 Type=0xa
 Label=DIAMOND RD
@@ -8348,7 +8348,7 @@ Nod1=0,2991,1
 Nod2=11,707,0
 [END]
 
-;sufi=1030000006561
+;linzid=49883
 [POLYLINE]
 Type=0xa
 Label=BECKHAM RD
@@ -8362,7 +8362,7 @@ Nod2=10,728,0
 Numbers1=0,N,-1,-1,E,94,2
 [END]
 
-;sufi=1030000006594
+;linzid=49912
 [POLYLINE]
 Type=0xa
 Label=WALLACE RD
@@ -8376,7 +8376,7 @@ Nod2=15,2993,0
 Numbers1=0,N,-1,-1,E,38,94
 [END]
 
-;sufi=1030000006488
+;linzid=49824
 [POLYLINE]
 Type=0xa
 Label=VICTORIA VALLEY RD
@@ -8390,7 +8390,7 @@ Nod2=20,736,0
 Numbers1=0,O,19,171,E,54,176
 [END]
 
-;sufi=1030000006125
+;linzid=49519
 [POLYLINE]
 Type=0xa
 Label=MANSBRIDGE RD
@@ -8404,7 +8404,7 @@ Nod2=10,2994,0
 Numbers1=0,O,147,147,E,10,156
 [END]
 
-;sufi=1030000006059
+;linzid=49465
 [POLYLINE]
 Type=0xa
 Label=HUMPHREYS RD
@@ -8417,7 +8417,7 @@ Nod1=0,729,0
 Nod2=63,787,0
 [END]
 
-;sufi=1030000006051
+;linzid=49459
 [POLYLINE]
 Type=0x6
 Label=WEST COAST RD
@@ -8431,7 +8431,7 @@ Nod2=26,765,0
 Numbers1=0,E,1630,1538,O,1605,1457
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Walkway
@@ -8444,7 +8444,7 @@ Nod1=0,2995,0
 Nod2=3,721,0
 [END]
 
-;sufi=1030000006091
+;linzid=59964
 [POLYLINE]
 Type=0x6
 Label=PAKANAE CEMETERY RD
@@ -8457,7 +8457,7 @@ Nod1=0,719,0
 Nod2=2,723,0
 [END]
 
-;sufi=1030000006111
+;linzid=59965
 [POLYLINE]
 Type=0xa
 Label=WAIOTEMARAMA GORGE RD
@@ -8471,7 +8471,7 @@ Nod2=13,742,0
 Numbers1=0,O,9,59,E,4,48
 [END]
 
-;sufi=1030000006091
+;linzid=59964
 [POLYLINE]
 Type=0x6
 Label=PAKANAE CEMETERY RD
@@ -8484,7 +8484,7 @@ Nod1=0,2996,0
 Nod2=3,719,0
 [END]
 
-;sufi=1030000006464
+;linzid=49804
 [POLYLINE]
 Type=0xa
 Label=AURERE BEACH RD
@@ -8499,7 +8499,7 @@ Nod3=18,2997,0
 Numbers1=0,O,11,37,N,-1,-1
 [END]
 
-;sufi=1030000006349
+;linzid=49708
 [POLYLINE]
 Type=0xa
 Label=PARAPARA-TOATOA RD
@@ -8513,7 +8513,7 @@ Nod2=4,744,0
 Numbers1=0,O,11,87,E,6,20
 [END]
 
-;sufi=1030000006353
+;linzid=49711
 [POLYLINE]
 Type=0xa
 Label=PARAPARA RD
@@ -8527,7 +8527,7 @@ Nod2=29,756,0
 Numbers1=0,E,212,34,O,315,203
 [END]
 
-;sufi=1030000006599
+;linzid=49917
 [POLYLINE]
 Type=0xa
 Label=FAIRBURN RD
@@ -8542,7 +8542,7 @@ Nod3=13,747,0
 Numbers1=0,O,915,1001,E,912,1006
 [END]
 
-;sufi=1030000006432
+;linzid=49778
 [POLYLINE]
 Type=0xa
 Label=KITCHEN RD
@@ -8556,7 +8556,7 @@ Nod2=8,736,0
 Numbers1=0,O,15,59,E,2,2
 [END]
 
-;sufi=1030000006095
+;linzid=49495
 [POLYLINE]
 Type=0xa
 Label=PAPONGA RD
@@ -8570,7 +8570,7 @@ Nod2=33,787,0
 Numbers1=0,O,109,493,E,212,280
 [END]
 
-;sufi=1030000006081
+;linzid=49485
 [POLYLINE]
 Type=0xa
 Label=CABBAGE TREE BAY RD
@@ -8584,7 +8584,7 @@ Nod2=13,737,0
 Numbers1=0,E,56,20,O,75,11
 [END]
 
-;sufi=1030000005965
+;linzid=49389
 [POLYLINE]
 Type=0xa
 Label=MAHINA RD
@@ -8598,7 +8598,7 @@ Nod2=3,737,0
 Numbers1=0,N,-1,-1,E,22,22
 [END]
 
-;sufi=1030000006087
+;linzid=49489
 [POLYLINE]
 Type=0xa
 Label=KELLY RD
@@ -8612,7 +8612,7 @@ Nod2=8,754,0
 Numbers1=0,O,35,35,N,-1,-1
 [END]
 
-;sufi=1030000006070
+;linzid=49476
 [POLYLINE]
 Type=0xa
 Label=SMOOTHY RD
@@ -8626,7 +8626,7 @@ Nod2=39,745,0
 Numbers1=0,E,150,116,O,149,119
 [END]
 
-;sufi=1030000006070
+;linzid=49476
 [POLYLINE]
 Type=0x6
 Label=SMOOTHY RD
@@ -8639,7 +8639,7 @@ Nod1=0,733,0
 Nod2=10,3001,0
 [END]
 
-;sufi=1030000006112
+;linzid=49509
 [POLYLINE]
 Type=0xa
 Label=WAIMAMAKU BEACH RD
@@ -8652,7 +8652,7 @@ Nod1=0,731,0
 Nod2=12,746,0
 [END]
 
-;sufi=1030000006112
+;linzid=49509
 [POLYLINE]
 Type=0x6
 Label=WAIMAMAKU BEACH RD
@@ -8665,7 +8665,7 @@ Nod1=0,3002,1
 Nod2=1,746,0
 [END]
 
-;sufi=1030000006388
+;linzid=49740
 [POLYLINE]
 Type=0xa
 Label=TE MOHO RD
@@ -8679,7 +8679,7 @@ Nod2=13,3003,0
 Numbers1=0,O,11,11,E,36,36
 [END]
 
-;sufi=1030000006400
+;linzid=49751
 [POLYLINE]
 Type=0xa
 Label=CAMPBELL RD
@@ -8693,7 +8693,7 @@ Nod2=19,777,0
 Numbers1=0,O,127,127,E,108,88
 [END]
 
-;sufi=1030000006467
+;linzid=49807
 [POLYLINE]
 Type=0xa
 Label=PERIA VALLEY RD
@@ -8706,7 +8706,7 @@ Nod1=0,755,0
 Nod2=8,764,0
 [END]
 
-;sufi=1030000006051
+;linzid=49459
 [POLYLINE]
 Type=0x6
 Label=WEST COAST RD
@@ -8719,7 +8719,7 @@ Nod1=0,765,0
 Nod2=16,776,0
 [END]
 
-;sufi=1030000005981
+;linzid=49403
 [POLYLINE]
 Type=0xa
 Label=MATAWERA RD
@@ -8732,7 +8732,7 @@ Nod1=0,765,0
 Nod2=34,781,0
 [END]
 
-;sufi=1030000006115
+;linzid=59966
 [POLYLINE]
 Type=0xa
 Label=BRINDLE RD
@@ -8746,7 +8746,7 @@ Nod2=43,792,0
 Numbers1=0,E,228,228,O,157,5
 [END]
 
-;sufi=1030000055461
+;linzid=58772
 [POLYLINE]
 Type=0xa
 Label=MOTUTOA RD
@@ -8760,7 +8760,7 @@ Nod2=10,6049,0
 Numbers1=0,O,27,27,E,26,38
 [END]
 
-;sufi=1030000006087
+;linzid=49489
 [POLYLINE]
 Type=0xa
 Label=KELLY RD
@@ -8774,7 +8774,7 @@ Nod2=15,3006,0
 Numbers1=0,O,83,83,N,-1,-1
 [END]
 
-;sufi=1030000006111
+;linzid=59965
 [POLYLINE]
 Type=0xa
 Label=WAIOTEMARAMA GORGE RD
@@ -8788,7 +8788,7 @@ Nod2=21,769,0
 Numbers1=0,O,525,525,E,522,546
 [END]
 
-;sufi=1030000006111
+;linzid=59965
 [POLYLINE]
 Type=0xa
 Label=WAIOTEMARAMA GORGE RD
@@ -8801,7 +8801,7 @@ Nod1=0,769,0
 Nod2=4,770,0
 [END]
 
-;sufi=1030000006111
+;linzid=59965
 [POLYLINE]
 Type=0xa
 Label=WAIOTEMARAMA GORGE RD
@@ -8816,7 +8816,7 @@ Nod3=55,785,0
 Numbers1=0,O,609,681,E,638,812
 [END]
 
-;sufi=1030000005939
+;linzid=49369
 [POLYLINE]
 Type=0xa
 Label=MITCHELL RD
@@ -8830,7 +8830,7 @@ Nod2=10,3008,0
 Numbers1=0,N,-1,-1,E,58,58
 [END]
 
-;sufi=1030000006089
+;linzid=92308
 [POLYLINE]
 Type=0xa
 Label=PANIORA RD
@@ -8844,7 +8844,7 @@ Nod2=6,782,0
 Numbers1=0,E,64,64,O,41,33
 [END]
 
-;sufi=1030000005928
+;linzid=49359
 [POLYLINE]
 Type=0x6
 Label=POKAS RD
@@ -8857,7 +8857,7 @@ Nod1=0,3010,1
 Nod2=2,784,0
 [END]
 
-;sufi=1030000006598
+;linzid=49916
 [POLYLINE]
 Type=0xa
 Label=EDWARDS RD
@@ -8871,7 +8871,7 @@ Nod2=3,3012,0
 Numbers1=0,N,-1,-1,E,46,46
 [END]
 
-;sufi=1030000005967
+;linzid=49391
 [POLYLINE]
 Type=0xa
 Label=MANGAKINO RD
@@ -8885,7 +8885,7 @@ Nod2=17,5625,0
 Nod3=52,798,0
 [END]
 
-;sufi=1030000210864
+;linzid=62587
 [POLYLINE]
 Type=0x6
 Label=GUEST RD
@@ -8898,7 +8898,7 @@ Nod1=0,781,0
 Nod2=4,3014,0
 [END]
 
-;sufi=1030000005981
+;linzid=49403
 [POLYLINE]
 Type=0xa
 Label=MATAWERA RD
@@ -8912,7 +8912,7 @@ Nod2=75,3015,0
 Numbers1=0,O,615,625,N,-1,-1
 [END]
 
-;sufi=1030000005928
+;linzid=49359
 [POLYLINE]
 Type=0xa
 Label=POKAS RD
@@ -8925,7 +8925,7 @@ Nod1=0,784,0
 Nod2=8,782,0
 [END]
 
-;sufi=1030000005920
+;linzid=59942
 [POLYLINE]
 Type=0xa
 Label=OPARA RD
@@ -8939,7 +8939,7 @@ Nod2=26,839,0
 Numbers1=0,E,308,134,O,191,103
 [END]
 
-;sufi=1030000006511
+;linzid=49845
 [POLYLINE]
 Type=0x6
 Label=MAMARU RD
@@ -8953,7 +8953,7 @@ Nod2=1,824,0
 Numbers1=0,O,5,5,N,-1,-1
 [END]
 
-;sufi=1030000006375
+;linzid=49730
 [POLYLINE]
 Type=0x6
 Label=EAST ST
@@ -8967,7 +8967,7 @@ Nod2=1,822,0
 Numbers1=0,O,1,21,E,10,4
 [END]
 
-;sufi=1030000006361
+;linzid=49717
 [POLYLINE]
 Type=0xa
 Label=PACKARD RD
@@ -8981,7 +8981,7 @@ Nod2=3,818,0
 Numbers1=0,E,32,32,O,31,7
 [END]
 
-;sufi=1030000006611
+;linzid=49927
 [POLYLINE]
 Type=0x6
 Label=ORURU RD
@@ -8994,7 +8994,7 @@ Nod1=0,818,0
 Nod2=6,828,0
 [END]
 
-;sufi=1030000006459
+;linzid=49799
 [POLYLINE]
 Type=0xa
 Label=HIKURANGI RD
@@ -9008,7 +9008,7 @@ Nod2=3,4967,0
 Nod3=10,828,0
 [END]
 
-;sufi=1030000006045
+;linzid=49455
 [POLYLINE]
 Type=0xa
 Label=WIKAIRA RD
@@ -9022,7 +9022,7 @@ Nod2=2,821,0
 Numbers1=0,O,17,17,N,-1,-1
 [END]
 
-;sufi=1030000006046
+;linzid=59956
 [POLYLINE]
 Type=0xa
 Label=WHIRINAKI SCHOOL RD
@@ -9036,7 +9036,7 @@ Nod2=2,811,0
 Numbers1=0,O,3,7,N,-1,-1
 [END]
 
-;sufi=1030000006103
+;linzid=49502
 [POLYLINE]
 Type=0xa
 Label=VUJCICH RD
@@ -9050,7 +9050,7 @@ Nod2=20,3020,0
 Numbers1=0,O,129,129,E,22,128
 [END]
 
-;sufi=1030000006060
+;linzid=49466
 [POLYLINE]
 Type=0xa
 Label=JACKSON RD
@@ -9065,7 +9065,7 @@ Nod3=33,3021,0
 Numbers1=0,O,69,83,E,36,48
 [END]
 
-;sufi=1030000005993
+;linzid=89564
 [POLYLINE]
 Type=0x6
 Label=HOOKS AND HALL RD
@@ -9078,7 +9078,7 @@ Nod1=0,810,0
 Nod2=4,813,0
 [END]
 
-;sufi=1030000006098
+;linzid=49498
 [POLYLINE]
 Type=0xa
 Label=AMBLER RD
@@ -9092,7 +9092,7 @@ Nod2=52,3022,1
 Numbers1=0,O,21,69,E,4,4
 [END]
 
-;sufi=1030000006385
+;linzid=49738
 [POLYLINE]
 Type=0x6
 Label=BUSH POINT RD
@@ -9106,7 +9106,7 @@ Nod2=2,847,0
 Numbers1=0,O,19,1,E,22,2
 [END]
 
-;sufi=1030000185798
+;linzid=59064
 [POLYLINE]
 Type=0x6
 Label=CABLE BAY HEIGHTS DR
@@ -9119,7 +9119,7 @@ Nod1=0,3024,0
 Nod2=13,856,0
 [END]
 
-;sufi=1030000006476
+;linzid=49815
 [POLYLINE]
 Type=0x6
 Label=TAIPA POINT RD
@@ -9133,7 +9133,7 @@ Nod2=4,832,0
 Numbers1=0,E,4,22,O,1,61
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x6
 Label=Accessway
@@ -9146,7 +9146,7 @@ Nod1=0,3025,0
 Nod2=1,830,0
 [END]
 
-;sufi=1030000208323
+;linzid=62435
 [POLYLINE]
 Type=0x6
 Label=TAIPA TIDES DR
@@ -9160,7 +9160,7 @@ Nod2=3,842,0
 Numbers1=0,O,11,9,N,-1,-1
 [END]
 
-;sufi=1030000210474
+;linzid=62527
 [POLYLINE]
 Type=0xa
 Label=OLIVE VIEW HEIGHTS DR
@@ -9174,7 +9174,7 @@ Nod2=12,3027,0
 Numbers1=0,O,75,75,N,-1,-1
 [END]
 
-;sufi=1030000006471
+;linzid=49811
 [POLYLINE]
 Type=0xa
 Label=PERIA RD
@@ -9187,7 +9187,7 @@ Nod1=0,819,0
 Nod2=9,837,0
 [END]
 
-;sufi=1030000006471
+;linzid=49811
 [POLYLINE]
 Type=0xa
 Label=PERIA RD
@@ -9202,7 +9202,7 @@ Nod3=12,860,0
 Numbers1=0,O,593,593,E,576,576
 [END]
 
-;sufi=1030000005920
+;linzid=59942
 [POLYLINE]
 Type=0xa
 Label=OPARA RD
@@ -9216,7 +9216,7 @@ Nod2=20,855,0
 Numbers1=0,E,92,30,N,-1,-1
 [END]
 
-;sufi=1030000006045
+;linzid=49455
 [POLYLINE]
 Type=0xa
 Label=WIKAIRA RD
@@ -9229,7 +9229,7 @@ Nod1=0,821,0
 Nod2=5,3029,0
 [END]
 
-;sufi=1030000006355
+;linzid=49712
 [POLYLINE]
 Type=0xa
 Label=PARIRI RD
@@ -9243,7 +9243,7 @@ Nod2=3,3032,0
 Numbers1=0,O,1,57,E,48,70
 [END]
 
-;sufi=1030000006578
+;linzid=49899
 [POLYLINE]
 Type=0xa
 Label=GARTON RD
@@ -9258,7 +9258,7 @@ Nod3=15,893,0
 Numbers1=0,O,39,39,E,144,96
 [END]
 
-;sufi=1030000006614
+;linzid=49929
 [POLYLINE]
 Type=0xa
 Label=OLSEN RD
@@ -9271,7 +9271,7 @@ Nod1=0,860,0
 Nod2=2,3035,0
 [END]
 
-;sufi=1030000006471
+;linzid=49811
 [POLYLINE]
 Type=0xa
 Label=PERIA RD
@@ -9285,7 +9285,7 @@ Nod2=2,872,0
 Numbers1=0,O,609,609,E,622,636
 [END]
 
-;sufi=1030000006451
+;linzid=49793
 [POLYLINE]
 Type=0x6
 Label=HONEYMOON VALLEY RD
@@ -9299,7 +9299,7 @@ Nod2=13,872,0
 Numbers1=0,E,80,48,O,73,67
 [END]
 
-;sufi=1030000006451
+;linzid=49793
 [POLYLINE]
 Type=0xa
 Label=HONEYMOON VALLEY RD
@@ -9315,7 +9315,7 @@ Nod4=40,868,0
 Numbers1=0,E,374,132,O,385,73
 [END]
 
-;sufi=1030000006048
+;linzid=49457
 [POLYLINE]
 Type=0xa
 Label=WHAREKAWA RD
@@ -9329,7 +9329,7 @@ Nod2=17,885,0
 Numbers1=0,E,246,62,O,271,271
 [END]
 
-;sufi=1030000005974
+;linzid=49398
 [POLYLINE]
 Type=0xa
 Label=RIDGE RD
@@ -9342,7 +9342,7 @@ Nod1=0,3037,0
 Nod2=48,864,0
 [END]
 
-;sufi=1030000006457
+;linzid=49797
 [POLYLINE]
 Type=0x6
 Label=HERETAUNGA CRES
@@ -9356,7 +9356,7 @@ Nod2=3,4671,0
 Numbers1=0,O,1,1,E,2,46
 [END]
 
-;sufi=1030000006363
+;linzid=49719
 [POLYLINE]
 Type=0x6
 Label=SEAVIEW RD
@@ -9370,7 +9370,7 @@ Nod2=10,3039,0
 Numbers1=0,E,2,28,O,1,67
 [END]
 
-;sufi=1030000197783
+;linzid=61910
 [POLYLINE]
 Type=0x6
 Label=THOMPSON PL
@@ -9384,7 +9384,7 @@ Nod2=4,883,0
 Numbers1=0,O,5,1,E,2,4
 [END]
 
-;sufi=1030000006279
+;linzid=49649
 [POLYLINE]
 Type=0x6
 Label=POWELLS RD
@@ -9397,7 +9397,7 @@ Nod1=0,891,0
 Nod2=3,887,0
 [END]
 
-;sufi=1030000006279
+;linzid=49649
 [POLYLINE]
 Type=0x6
 Label=POWELLS RD
@@ -9411,7 +9411,7 @@ Nod2=6,887,0
 Numbers1=0,E,42,30,O,33,11
 [END]
 
-;sufi=1030000197640
+;linzid=61892
 [POLYLINE]
 Type=0x6
 Label=OCEAN VIEW RD
@@ -9425,7 +9425,7 @@ Nod2=1,3041,0
 Numbers1=0,E,2,14,O,1,9
 [END]
 
-;sufi=1030000006369
+;linzid=49725
 [POLYLINE]
 Type=0xa
 Label=DUTTON RD
@@ -9440,7 +9440,7 @@ Nod3=21,3043,0
 Numbers1=0,O,27,41,E,2,42
 [END]
 
-;sufi=1030000006127
+;linzid=49521
 [POLYLINE]
 Type=0xa
 Label=MATA RD
@@ -9454,7 +9454,7 @@ Nod2=43,937,0
 Numbers1=0,E,242,122,O,323,219
 [END]
 
-;sufi=1030000006095
+;linzid=49495
 [POLYLINE]
 Type=0xa
 Label=PAPONGA RD
@@ -9468,7 +9468,7 @@ Nod2=16,878,0
 Numbers1=0,E,1416,1340,O,1503,1409
 [END]
 
-;sufi=1030000005897
+;linzid=49334
 [POLYLINE]
 Type=0xa
 Label=HAWKINS RD
@@ -9481,7 +9481,7 @@ Nod1=0,901,0
 Nod2=2,3046,0
 [END]
 
-;sufi=1030000005897
+;linzid=49334
 [POLYLINE]
 Type=0xa
 Label=HAWKINS RD
@@ -9495,7 +9495,7 @@ Nod2=13,960,0
 Numbers1=0,E,58,6,N,-1,-1
 [END]
 
-;sufi=1030000005978
+;linzid=49401
 [POLYLINE]
 Type=0xa
 Label=CREAMERY RD
@@ -9509,7 +9509,7 @@ Nod2=54,979,0
 Numbers1=0,O,55,179,N,-1,-1
 [END]
 
-;sufi=1030000005897
+;linzid=49334
 [POLYLINE]
 Type=0xa
 Label=HAWKINS RD
@@ -9523,7 +9523,7 @@ Nod2=10,910,0
 Numbers1=0,E,116,116,N,-1,-1
 [END]
 
-;sufi=1030000006123
+;linzid=49518
 [POLYLINE]
 Type=0x6
 Label=MARTIN ST
@@ -9536,7 +9536,7 @@ Nod1=0,913,0
 Nod2=1,944,0
 [END]
 
-;sufi=1030000005979
+;linzid=49402
 [POLYLINE]
 Type=0x6
 Label=MCDONELL ST
@@ -9549,7 +9549,7 @@ Nod1=0,916,0
 Nod2=1,940,0
 [END]
 
-;sufi=1030000005898
+;linzid=49335
 [POLYLINE]
 Type=0x6
 Label=HAMBLIN ST
@@ -9563,7 +9563,7 @@ Nod2=1,921,0
 Numbers1=0,O,7,1,E,12,2
 [END]
 
-;sufi=1030000208321
+;linzid=62434
 [POLYLINE]
 Type=0x6
 Label=MARMON ST E
@@ -9577,7 +9577,7 @@ Nod2=2,942,0
 Numbers1=0,E,22,32,O,19,21
 [END]
 
-;sufi=1030000208319
+;linzid=62433
 [POLYLINE]
 Type=0x6
 Label=NIMMO ST E
@@ -9591,7 +9591,7 @@ Nod2=1,941,0
 Numbers1=0,E,26,26,O,23,27
 [END]
 
-;sufi=1030000005992
+;linzid=59951
 [POLYLINE]
 Type=0xa
 Label=HIVE RD
@@ -9605,7 +9605,7 @@ Nod2=15,912,0
 Numbers1=0,E,62,62,O,95,53
 [END]
 
-;sufi=1030000194787
+;linzid=59550
 [POLYLINE]
 Type=0x6
 Label=COOPERS DR
@@ -9618,7 +9618,7 @@ Nod1=0,3049,0
 Nod2=1,962,0
 [END]
 
-;sufi=1030000006362
+;linzid=49718
 [POLYLINE]
 Type=0x6
 Label=SEASCAPE LANE
@@ -9632,7 +9632,7 @@ Nod2=1,3050,0
 Numbers1=0,E,4,16,O,1,9
 [END]
 
-;sufi=1030000006428
+;linzid=49774
 [POLYLINE]
 Type=0xa
 Label=KOHUMARU RD
@@ -9646,7 +9646,7 @@ Nod2=8,984,0
 Numbers1=0,E,1986,1904,O,1987,1897
 [END]
 
-;sufi=1030000006127
+;linzid=49521
 [POLYLINE]
 Type=0xa
 Label=MATA RD
@@ -9659,7 +9659,7 @@ Nod1=0,937,0
 Nod2=21,974,0
 [END]
 
-;sufi=1030000006022
+;linzid=59954
 [POLYLINE]
 Type=0xa
 Label=MOTURUNA RD
@@ -9672,7 +9672,7 @@ Nod1=0,3051,0
 Nod2=5,975,0
 [END]
 
-;sufi=1030000006022
+;linzid=59954
 [POLYLINE]
 Type=0xa
 Label=MOTURUNA RD
@@ -9685,7 +9685,7 @@ Nod1=0,975,0
 Nod2=17,1052,0
 [END]
 
-;sufi=1030000006066
+;linzid=49472
 [POLYLINE]
 Type=0x6
 Label=CAMPBELL ST
@@ -9699,7 +9699,7 @@ Nod2=2,972,0
 Numbers1=0,O,21,7,E,20,8
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Walkway
@@ -9712,7 +9712,7 @@ Nod1=0,1005,0
 Nod2=1,1002,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Walkway
@@ -9725,7 +9725,7 @@ Nod1=0,1007,0
 Nod2=3,991,0
 [END]
 
-;sufi=1030000006331
+;linzid=49692
 [POLYLINE]
 Type=0x6
 Label=ALEXANDER ST
@@ -9739,7 +9739,7 @@ Nod2=1,1026,0
 Numbers1=0,E,8,4,O,7,1
 [END]
 
-;sufi=1030000006613
+;linzid=60033
 [POLYLINE]
 Type=0xa
 Label=OMATAI RD
@@ -9753,7 +9753,7 @@ Nod2=12,1022,0
 Numbers1=0,E,156,70,O,141,27
 [END]
 
-;sufi=1030000005970
+;linzid=49394
 [POLYLINE]
 Type=0xa
 Label=MANGAMUKA CHURCH RD
@@ -9766,7 +9766,7 @@ Nod1=0,989,0
 Nod2=17,1040,0
 [END]
 
-;sufi=1030000006120
+;linzid=59967
 [POLYLINE]
 Type=0x6
 Label=JULIAN RD
@@ -9779,7 +9779,7 @@ Nod1=0,3057,0
 Nod2=2,990,0
 [END]
 
-;sufi=1030000006049
+;linzid=49458
 [POLYLINE]
 Type=0x6
 Label=WELLSFORD RD
@@ -9793,7 +9793,7 @@ Nod2=6,1019,0
 Numbers1=0,O,45,55,N,-1,-1
 [END]
 
-;sufi=1030000005912
+;linzid=59940
 [POLYLINE]
 Type=0xa
 Label=OMANAIA RD
@@ -9807,7 +9807,7 @@ Nod2=1,999,0
 Numbers1=0,O,55,55,N,-1,-1
 [END]
 
-;sufi=1030000005949
+;linzid=49376
 [POLYLINE]
 Type=0xa
 Label=OHURI RD
@@ -9820,7 +9820,7 @@ Nod1=0,1012,0
 Nod2=10,1015,0
 [END]
 
-;sufi=1030000005912
+;linzid=59940
 [POLYLINE]
 Type=0xa
 Label=OMANAIA RD
@@ -9833,7 +9833,7 @@ Nod1=0,998,0
 Nod2=6,3059,0
 [END]
 
-;sufi=1030000183298
+;linzid=58943
 [POLYLINE]
 Type=0xa
 Label=MANGAWHERO ROADWAY
@@ -9846,7 +9846,7 @@ Nod1=0,983,0
 Nod2=5,3060,0
 [END]
 
-;sufi=1030000005912
+;linzid=59940
 [POLYLINE]
 Type=0xa
 Label=OMANAIA RD
@@ -9859,7 +9859,7 @@ Nod1=0,999,0
 Nod2=3,1013,0
 [END]
 
-;sufi=1030000005912
+;linzid=59940
 [POLYLINE]
 Type=0xa
 Label=OMANAIA RD
@@ -9872,7 +9872,7 @@ Nod1=0,985,0
 Nod2=2,982,0
 [END]
 
-;sufi=1030000005912
+;linzid=59940
 [POLYLINE]
 Type=0x6
 Label=OMANAIA RD
@@ -9885,7 +9885,7 @@ Nod1=0,982,0
 Nod2=1,983,0
 [END]
 
-;sufi=1030000005912
+;linzid=59940
 [POLYLINE]
 Type=0xa
 Label=OMANAIA RD
@@ -9899,7 +9899,7 @@ Nod2=5,999,0
 Numbers1=0,E,74,74,O,113,113
 [END]
 
-;sufi=1030000190742
+;linzid=59255
 [POLYLINE]
 Type=0xa
 Label=KARATIA ROADWAY
@@ -9912,7 +9912,7 @@ Nod1=0,1013,0
 Nod2=3,3061,0
 [END]
 
-;sufi=1030000006011
+;linzid=49426
 [POLYLINE]
 Type=0xa
 Label=TAITA RD
@@ -9925,7 +9925,7 @@ Nod1=0,981,0
 Nod2=43,1083,0
 [END]
 
-;sufi=1030000006533
+;linzid=49861
 [POLYLINE]
 Type=0x6
 Label=RANGINUI ST
@@ -9939,7 +9939,7 @@ Nod2=3,4670,0
 Numbers1=0,E,2,22,O,7,19
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Walkway
@@ -9953,7 +9953,7 @@ Nod2=5,6087,0
 Numbers1=0,E,10,8,O,7,5
 [END]
 
-;sufi=1030000006581
+;linzid=49901
 [POLYLINE]
 Type=0x6
 Label=GEORGE ST
@@ -9967,7 +9967,7 @@ Nod2=3,1048,0
 Numbers1=0,O,3,3,E,10,2
 [END]
 
-;sufi=1030000006563
+;linzid=49885
 [POLYLINE]
 Type=0x5
 Label=BEACH RD
@@ -9982,7 +9982,7 @@ Nod3=6,1033,0
 Numbers1=0,O,11,1,E,16,2
 [END]
 
-;sufi=1030000006411
+;linzid=49760
 [POLYLINE]
 Type=0x6
 Label=SILVER EGG RD
@@ -9996,7 +9996,7 @@ Nod2=14,3062,0
 Numbers1=0,O,1,19,N,-1,-1
 [END]
 
-;sufi=1030000181573
+;linzid=58835
 [POLYLINE]
 Type=0x5
 Label=WATERFRONT DR
@@ -10009,7 +10009,7 @@ Nod1=0,1033,0
 Nod2=15,1053,0
 [END]
 
-;sufi=1030000181573
+;linzid=58835
 [POLYLINE]
 Type=0x5
 Label=WATERFRONT DR
@@ -10022,7 +10022,7 @@ Nod1=0,1058,0
 Nod2=5,1061,0
 [END]
 
-;sufi=1030000006576
+;linzid=60027
 [POLYLINE]
 Type=0x6
 Label=KARAMEA RD
@@ -10035,7 +10035,7 @@ Nod1=0,1031,0
 Nod2=1,1029,0
 [END]
 
-;sufi=1030000006507
+;linzid=49842
 [POLYLINE]
 Type=0xa
 Label=DANGEN RD
@@ -10051,7 +10051,7 @@ Nod4=17,3063,0
 Numbers1=0,O,285,525,E,372,390
 [END]
 
-;sufi=1030000006367
+;linzid=49723
 [POLYLINE]
 Type=0xa
 Label=FERN FLAT RD
@@ -10066,7 +10066,7 @@ Nod3=18,1106,0
 Numbers1=0,O,577,577,E,556,592
 [END]
 
-;sufi=1030000006407
+;linzid=49757
 [POLYLINE]
 Type=0xa
 Label=SHEPHERD RD
@@ -10083,7 +10083,7 @@ Nod5=44,1054,0
 Numbers1=0,E,232,28,O,225,45
 [END]
 
-;sufi=1030000006008
+;linzid=49423
 [POLYLINE]
 Type=0xa
 Label=TAUTEIHIIHI RD
@@ -10097,7 +10097,7 @@ Nod2=11,1064,0
 Numbers1=0,N,-1,-1,O,93,33
 [END]
 
-;sufi=1030000006057
+;linzid=59959
 [POLYLINE]
 Type=0x5
 Label=KOHUKOHU RD
@@ -10111,7 +10111,7 @@ Nod2=19,1064,0
 Numbers1=0,E,1636,1590,N,-1,-1
 [END]
 
-;sufi=1030000005919
+;linzid=49352
 [POLYLINE]
 Type=0x6
 Label=OTAHI RD
@@ -10124,7 +10124,7 @@ Nod1=0,1015,0
 Nod2=1,1016,0
 [END]
 
-;sufi=1030000005976
+;linzid=59948
 [POLYLINE]
 Type=0xa
 Label=CURTIS RD
@@ -10138,7 +10138,7 @@ Nod2=11,3066,0
 Numbers1=0,O,65,65,E,20,80
 [END]
 
-;sufi=1030000006470
+;linzid=49810
 [POLYLINE]
 Type=0x6
 Label=PENINSULA PDE
@@ -10152,7 +10152,7 @@ Nod2=3,1065,0
 Numbers1=0,E,30,30,O,29,25
 [END]
 
-;sufi=1030000006523
+;linzid=49854
 [POLYLINE]
 Type=0x6
 Label=FAIRWINDS PL
@@ -10166,7 +10166,7 @@ Nod2=2,1065,0
 Numbers1=0,B,10,14,B,7,1
 [END]
 
-;sufi=2030000002508
+;linzid=92986
 [POLYLINE]
 Type=0x6
 Label=HIHI RD
@@ -10179,7 +10179,7 @@ Nod1=0,1066,0
 Nod2=6,6093,0
 [END]
 
-;sufi=1030000006374
+;linzid=60001
 [POLYLINE]
 Type=0x6
 Label=DRIFTWOOD LANE
@@ -10193,7 +10193,7 @@ Nod2=3,1067,0
 Numbers1=0,B,9,12,B,4,1
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x7
 Label=Accessway
@@ -10205,7 +10205,7 @@ Nod1=0,1071,0
 Nod2=2,3069,0
 [END]
 
-;sufi=1030000006470
+;linzid=49810
 [POLYLINE]
 Type=0x6
 Label=PENINSULA PDE
@@ -10219,7 +10219,7 @@ Nod2=4,6092,0
 Numbers1=0,E,14,2,O,13,1
 [END]
 
-;sufi=1030000006470
+;linzid=49810
 [POLYLINE]
 Type=0x6
 Label=PENINSULA PDE
@@ -10233,7 +10233,7 @@ Nod2=1,1070,0
 Numbers1=0,E,38,38,N,-1,-1
 [END]
 
-;sufi=1030000006470
+;linzid=49810
 [POLYLINE]
 Type=0x6
 Label=PENINSULA PDE
@@ -10247,7 +10247,7 @@ Nod2=3,1067,0
 Numbers1=0,E,24,16,O,25,19
 [END]
 
-;sufi=1030000006312
+;linzid=59993
 [POLYLINE]
 Type=0x6
 Label=COMPASS COVE
@@ -10260,7 +10260,7 @@ Nod1=0,3071,0
 Nod2=1,1068,0
 [END]
 
-;sufi=1030000006312
+;linzid=59993
 [POLYLINE]
 Type=0x6
 Label=COMPASS COVE
@@ -10274,7 +10274,7 @@ Nod2=1,1069,0
 Numbers1=0,E,6,6,N,-1,-1
 [END]
 
-;sufi=1030000006470
+;linzid=49810
 [POLYLINE]
 Type=0x6
 Label=PENINSULA PDE
@@ -10288,7 +10288,7 @@ Nod2=1,1069,0
 Numbers1=0,E,36,32,O,31,31
 [END]
 
-;sufi=1030000006339
+;linzid=49700
 [POLYLINE]
 Type=0x6
 Label=WHITECAPS PL
@@ -10302,7 +10302,7 @@ Nod2=2,1071,0
 Numbers1=0,B,2,8,B,24,20
 [END]
 
-;sufi=1030000006264
+;linzid=49636
 [POLYLINE]
 Type=0x6
 Label=MARCHANT RD
@@ -10316,7 +10316,7 @@ Nod2=7,6091,0
 Numbers1=0,O,31,3,E,28,2
 [END]
 
-;sufi=1030000006470
+;linzid=49810
 [POLYLINE]
 Type=0x6
 Label=PENINSULA PDE
@@ -10330,7 +10330,7 @@ Nod2=4,1072,0
 Numbers1=0,E,60,40,O,53,33
 [END]
 
-;sufi=1030000006068
+;linzid=49474
 [POLYLINE]
 Type=0xa
 Label=ABRAHAM RD
@@ -10344,7 +10344,7 @@ Nod2=3,1078,0
 Numbers1=0,O,23,23,E,24,24
 [END]
 
-;sufi=1030000006064
+;linzid=49470
 [POLYLINE]
 Type=0x6
 Label=IWITAUA RD
@@ -10357,7 +10357,7 @@ Nod1=0,1079,0
 Nod2=3,1086,0
 [END]
 
-;sufi=1030000006076
+;linzid=49481
 [POLYLINE]
 Type=0xa
 Label=TE TIO RD
@@ -10371,7 +10371,7 @@ Nod2=15,1113,0
 Numbers1=0,E,356,354,O,397,277
 [END]
 
-;sufi=1030000006076
+;linzid=49481
 [POLYLINE]
 Type=0xa
 Label=TE TIO RD
@@ -10385,7 +10385,7 @@ Nod2=23,1112,0
 Numbers1=0,O,505,565,E,430,524
 [END]
 
-;sufi=1030000006076
+;linzid=49481
 [POLYLINE]
 Type=0xa
 Label=TE TIO RD
@@ -10398,7 +10398,7 @@ Nod1=0,3078,0
 Nod2=8,1096,0
 [END]
 
-;sufi=1030000006072
+;linzid=49478
 [POLYLINE]
 Type=0x6
 Label=SMITH DEVIATION RD
@@ -10411,7 +10411,7 @@ Nod1=0,1084,0
 Nod2=6,1101,0
 [END]
 
-;sufi=1030000006058
+;linzid=49464
 [POLYLINE]
 Type=0x6
 Label=KIRKPATRICK ST
@@ -10425,7 +10425,7 @@ Nod2=1,1089,0
 Numbers1=0,E,12,2,O,11,1
 [END]
 
-;sufi=1030000005947
+;linzid=49375
 [POLYLINE]
 Type=0x6
 Label=YARBOROUGH ST
@@ -10438,7 +10438,7 @@ Nod1=0,1080,0
 Nod2=1,1089,0
 [END]
 
-;sufi=1030000005957
+;linzid=59947
 [POLYLINE]
 Type=0x6
 Label=CHURCH ST
@@ -10452,7 +10452,7 @@ Nod2=1,1094,0
 Numbers1=0,O,3,3,N,-1,-1
 [END]
 
-;sufi=1030000005923
+;linzid=49355
 [POLYLINE]
 Type=0x6
 Label=POTTER ST
@@ -10466,7 +10466,7 @@ Nod2=1,1090,0
 Numbers1=0,E,16,8,O,13,5
 [END]
 
-;sufi=1030000005923
+;linzid=49355
 [POLYLINE]
 Type=0x6
 Label=POTTER ST
@@ -10480,7 +10480,7 @@ Nod2=1,1091,0
 Numbers1=0,E,2,2,N,-1,-1
 [END]
 
-;sufi=1030000005969
+;linzid=49393
 [POLYLINE]
 Type=0x6
 Label=MANING ST
@@ -10494,7 +10494,7 @@ Nod2=1,1103,0
 Numbers1=0,E,10,2,O,7,1
 [END]
 
-;sufi=1030000006122
+;linzid=49517
 [POLYLINE]
 Type=0x6
 Label=MARRINER ST
@@ -10508,7 +10508,7 @@ Nod2=1,1102,0
 Numbers1=0,O,5,1,E,6,6
 [END]
 
-;sufi=1030000005947
+;linzid=49375
 [POLYLINE]
 Type=0x6
 Label=YARBOROUGH ST
@@ -10521,7 +10521,7 @@ Nod1=0,1089,0
 Nod2=1,1090,0
 [END]
 
-;sufi=1030000005947
+;linzid=49375
 [POLYLINE]
 Type=0x6
 Label=YARBOROUGH ST
@@ -10535,7 +10535,7 @@ Nod2=1,1080,0
 Numbers1=0,O,37,37,E,38,38
 [END]
 
-;sufi=1030000005929
+;linzid=49360
 [POLYLINE]
 Type=0x6
 Label=BEACH RD
@@ -10548,7 +10548,7 @@ Nod1=0,1093,0
 Nod2=2,1105,0
 [END]
 
-;sufi=1030000005957
+;linzid=59947
 [POLYLINE]
 Type=0x6
 Label=CHURCH ST
@@ -10561,7 +10561,7 @@ Nod1=0,3081,0
 Nod2=1,1080,0
 [END]
 
-;sufi=1030000005929
+;linzid=49360
 [POLYLINE]
 Type=0x6
 Label=BEACH RD
@@ -10574,7 +10574,7 @@ Nod1=0,1091,0
 Nod2=2,1092,0
 [END]
 
-;sufi=1030000005929
+;linzid=49360
 [POLYLINE]
 Type=0x6
 Label=BEACH RD
@@ -10588,7 +10588,7 @@ Nod2=1,1104,0
 Numbers1=0,E,2,2,O,3,1
 [END]
 
-;sufi=1030000005969
+;linzid=49393
 [POLYLINE]
 Type=0x6
 Label=MANING ST
@@ -10602,7 +10602,7 @@ Nod2=1,1081,0
 Numbers1=0,E,14,14,O,11,11
 [END]
 
-;sufi=1030000005947
+;linzid=49375
 [POLYLINE]
 Type=0x6
 Label=YARBOROUGH ST
@@ -10616,7 +10616,7 @@ Nod2=2,1081,0
 Numbers1=0,O,11,25,E,14,30
 [END]
 
-;sufi=1030000005929
+;linzid=49360
 [POLYLINE]
 Type=0x6
 Label=BEACH RD
@@ -10630,7 +10630,7 @@ Nod2=1,1093,0
 Numbers1=0,O,15,15,E,10,16
 [END]
 
-;sufi=1030000005957
+;linzid=59947
 [POLYLINE]
 Type=0x6
 Label=CHURCH ST
@@ -10644,7 +10644,7 @@ Nod2=1,1091,0
 Numbers1=0,O,3,11,E,6,14
 [END]
 
-;sufi=1030000005947
+;linzid=49375
 [POLYLINE]
 Type=0x6
 Label=YARBOROUGH ST
@@ -10658,7 +10658,7 @@ Nod2=2,1082,0
 Numbers1=0,O,5,9,E,6,6
 [END]
 
-;sufi=1030000006020
+;linzid=49433
 [POLYLINE]
 Type=0xa
 Label=MOTUKIORE RD
@@ -10671,7 +10671,7 @@ Nod1=0,1075,0
 Nod2=48,1149,0
 [END]
 
-;sufi=1030000006020
+;linzid=49433
 [POLYLINE]
 Type=0xa
 Label=MOTUKIORE RD
@@ -10684,7 +10684,7 @@ Nod1=0,1075,0
 Nod2=12,3085,0
 [END]
 
-;sufi=1030000006065
+;linzid=49471
 [POLYLINE]
 Type=0xa
 Label=DUDDY RD
@@ -10698,7 +10698,7 @@ Nod2=38,1123,0
 Numbers1=0,O,97,139,N,-1,-1
 [END]
 
-;sufi=1030000006078
+;linzid=49482
 [POLYLINE]
 Type=0xa
 Label=TE OHU RD
@@ -10712,7 +10712,7 @@ Nod2=28,3086,0
 Numbers1=0,O,45,59,E,6,138
 [END]
 
-;sufi=1030000006065
+;linzid=49471
 [POLYLINE]
 Type=0xa
 Label=DUDDY RD
@@ -10725,7 +10725,7 @@ Nod1=0,1056,0
 Nod2=6,1095,0
 [END]
 
-;sufi=1030000006065
+;linzid=49471
 [POLYLINE]
 Type=0xa
 Label=DUDDY RD
@@ -10738,7 +10738,7 @@ Nod1=0,1056,0
 Nod2=3,1062,0
 [END]
 
-;sufi=1030000005909
+;linzid=49344
 [POLYLINE]
 Type=0xa
 Label=WEKAWEKA RD
@@ -10752,7 +10752,7 @@ Nod2=18,3087,1
 Numbers1=0,O,643,711,E,752,752
 [END]
 
-;sufi=1030000006428
+;linzid=49774
 [POLYLINE]
 Type=0x6
 Label=KOHUMARU RD
@@ -10765,7 +10765,7 @@ Nod1=0,1109,0
 Nod2=2,1107,0
 [END]
 
-;sufi=1030000005977
+;linzid=90200
 [POLYLINE]
 Type=0x6
 Label=CRALLEN RD
@@ -10779,7 +10779,7 @@ Nod2=2,3089,0
 Numbers1=0,O,15,15,N,-1,-1
 [END]
 
-;sufi=1030000005921
+;linzid=49353
 [POLYLINE]
 Type=0xa
 Label=OMAHUTA RD
@@ -10793,7 +10793,7 @@ Nod2=65,1162,0
 Numbers1=0,O,271,535,E,42,372
 [END]
 
-;sufi=1030000005994
+;linzid=49410
 [POLYLINE]
 Type=0xa
 Label=HOBSON RD
@@ -10807,7 +10807,7 @@ Nod2=3,1124,0
 Numbers1=0,N,-1,-1,E,48,48
 [END]
 
-;sufi=1030000006076
+;linzid=49481
 [POLYLINE]
 Type=0xa
 Label=TE TIO RD
@@ -10821,7 +10821,7 @@ Nod2=12,1122,0
 Numbers1=0,E,246,246,O,253,227
 [END]
 
-;sufi=1030000005948
+;linzid=59945
 [POLYLINE]
 Type=0xa
 Label=POIEKE RD
@@ -10835,7 +10835,7 @@ Nod2=5,3091,0
 Numbers1=0,N,-1,-1,E,78,78
 [END]
 
-;sufi=1030000006076
+;linzid=49481
 [POLYLINE]
 Type=0xa
 Label=TE TIO RD
@@ -10849,7 +10849,7 @@ Nod2=16,1112,0
 Numbers1=0,E,700,700,N,-1,-1
 [END]
 
-;sufi=1030000006020
+;linzid=49433
 [POLYLINE]
 Type=0xa
 Label=MOTUKIORE RD
@@ -10863,7 +10863,7 @@ Nod2=39,1158,0
 Numbers1=0,E,502,502,O,459,125
 [END]
 
-;sufi=1030000005903
+;linzid=49340
 [POLYLINE]
 Type=0x6
 Label=HAPANGA RD
@@ -10877,7 +10877,7 @@ Nod2=11,1114,0
 Numbers1=0,N,-1,-1,O,59,27
 [END]
 
-;sufi=1030000006472
+;linzid=49812
 [POLYLINE]
 Type=0xa
 Label=TAEMARO RD
@@ -10890,7 +10890,7 @@ Nod1=0,1116,0
 Nod2=10,1126,0
 [END]
 
-;sufi=1030000006472
+;linzid=49812
 [POLYLINE]
 Type=0xa
 Label=TAEMARO RD
@@ -10903,7 +10903,7 @@ Nod1=0,1119,0
 Nod2=6,1116,0
 [END]
 
-;sufi=1030000006472
+;linzid=49812
 [POLYLINE]
 Type=0xa
 Label=TAEMARO RD
@@ -10916,7 +10916,7 @@ Nod1=0,1126,0
 Nod2=4,1130,0
 [END]
 
-;sufi=1030000006579
+;linzid=49900
 [POLYLINE]
 Type=0xa
 Label=FOSTERS RD
@@ -10930,7 +10930,7 @@ Nod2=4,1143,0
 Numbers1=0,E,32,32,O,103,7
 [END]
 
-;sufi=1030000210478
+;linzid=62529
 [POLYLINE]
 Type=0xa
 Label=FRANTOIO RIDGE RD
@@ -10944,7 +10944,7 @@ Nod2=8,1135,0
 Numbers1=0,O,105,41,E,58,58
 [END]
 
-;sufi=1030000006293
+;linzid=89542
 [POLYLINE]
 Type=0xa
 Label=KENANA RD
@@ -10958,7 +10958,7 @@ Nod2=32,1165,0
 Numbers1=0,O,27,195,E,10,140
 [END]
 
-;sufi=1030000006469
+;linzid=49809
 [POLYLINE]
 Type=0xa
 Label=PIRIKAHA RD
@@ -10972,7 +10972,7 @@ Nod2=55,3096,0
 Numbers1=0,O,7,7,E,86,86
 [END]
 
-;sufi=1030000005984
+;linzid=49405
 [POLYLINE]
 Type=0xa
 Label=GROVE RD
@@ -10985,7 +10985,7 @@ Nod1=0,3098,0
 Nod2=3,1129,0
 [END]
 
-;sufi=1030000005984
+;linzid=49405
 [POLYLINE]
 Type=0xa
 Label=GROVE RD
@@ -10999,7 +10999,7 @@ Nod2=14,1129,0
 Numbers1=0,O,99,99,N,-1,-1
 [END]
 
-;sufi=1030000006076
+;linzid=49481
 [POLYLINE]
 Type=0xa
 Label=TE TIO RD
@@ -11013,7 +11013,7 @@ Nod2=14,1131,0
 Numbers1=0,E,170,170,N,-1,-1
 [END]
 
-;sufi=1030000006043
+;linzid=49453
 [POLYLINE]
 Type=0x6
 Label=WHAKATERE MOUNTAIN ROADWAY
@@ -11026,7 +11026,7 @@ Nod1=0,3099,0
 Nod2=9,1133,0
 [END]
 
-;sufi=1030000006472
+;linzid=49812
 [POLYLINE]
 Type=0xa
 Label=TAEMARO RD
@@ -11039,7 +11039,7 @@ Nod1=0,3100,0
 Nod2=27,1150,0
 [END]
 
-;sufi=1030000006472
+;linzid=49812
 [POLYLINE]
 Type=0xa
 Label=TAEMARO RD
@@ -11052,7 +11052,7 @@ Nod1=0,1139,0
 Nod2=7,1159,0
 [END]
 
-;sufi=1030000006472
+;linzid=49812
 [POLYLINE]
 Type=0xa
 Label=TAEMARO RD
@@ -11066,7 +11066,7 @@ Nod2=12,1139,0
 Numbers1=0,O,113,153,N,-1,-1
 [END]
 
-;sufi=1030000000309
+;linzid=47789
 [POLYLINE]
 Type=0xa
 Label=MIDGLEY RD
@@ -11080,7 +11080,7 @@ Nod2=1,1140,0
 Numbers1=0,O,17,51,E,10,36
 [END]
 
-;sufi=1030000208227
+;linzid=62412
 [POLYLINE]
 Type=0xa
 Label=PUKETITI DR
@@ -11094,7 +11094,7 @@ Nod2=12,3101,0
 Numbers1=0,O,15,73,E,12,62
 [END]
 
-;sufi=1030000000309
+;linzid=47789
 [POLYLINE]
 Type=0xa
 Label=MIDGLEY RD
@@ -11108,7 +11108,7 @@ Nod2=5,1140,0
 Numbers1=0,E,200,62,O,163,61
 [END]
 
-;sufi=1030000210476
+;linzid=62528
 [POLYLINE]
 Type=0xa
 Label=LECCINO VALLEY RD
@@ -11122,7 +11122,7 @@ Nod2=12,3102,0
 Numbers1=0,O,7,79,E,30,44
 [END]
 
-;sufi=1030000000309
+;linzid=47789
 [POLYLINE]
 Type=0xa
 Label=MIDGLEY RD
@@ -11136,7 +11136,7 @@ Nod2=1,1134,0
 Numbers1=0,E,214,214,N,-1,-1
 [END]
 
-;sufi=1030000000309
+;linzid=47789
 [POLYLINE]
 Type=0xa
 Label=MIDGLEY RD
@@ -11149,7 +11149,7 @@ Nod1=0,1135,0
 Nod2=3,3103,0
 [END]
 
-;sufi=1030000006076
+;linzid=49481
 [POLYLINE]
 Type=0xa
 Label=TE TIO RD
@@ -11163,7 +11163,7 @@ Nod2=12,1147,0
 Numbers1=0,E,102,14,O,55,19
 [END]
 
-;sufi=1030000006076
+;linzid=49481
 [POLYLINE]
 Type=0xa
 Label=TE TIO RD
@@ -11177,7 +11177,7 @@ Nod2=3,1137,0
 Numbers1=0,E,170,126,N,-1,-1
 [END]
 
-;sufi=1030000006065
+;linzid=49471
 [POLYLINE]
 Type=0xa
 Label=DUDDY RD
@@ -11190,7 +11190,7 @@ Nod1=0,1132,0
 Nod2=6,3104,0
 [END]
 
-;sufi=1030000006472
+;linzid=49812
 [POLYLINE]
 Type=0xa
 Label=TAEMARO RD
@@ -11203,7 +11203,7 @@ Nod1=0,1159,0
 Nod2=12,1160,0
 [END]
 
-;sufi=1030000006472
+;linzid=49812
 [POLYLINE]
 Type=0xa
 Label=TAEMARO RD
@@ -11216,7 +11216,7 @@ Nod1=0,1150,0
 Nod2=21,1160,0
 [END]
 
-;sufi=1030000006480
+;linzid=49818
 [POLYLINE]
 Type=0xa
 Label=STONY CREEK RD
@@ -11230,7 +11230,7 @@ Nod2=92,1232,0
 Numbers1=0,N,-1,-1,E,18,18
 [END]
 
-;sufi=1030000006410
+;linzid=60007
 [POLYLINE]
 Type=0xa
 Label=SIMMENTAL LANE
@@ -11244,7 +11244,7 @@ Nod2=18,3105,0
 Numbers1=0,O,5,135,N,-1,-1
 [END]
 
-;sufi=1030000005901
+;linzid=49338
 [POLYLINE]
 Type=0xa
 Label=HAPPY VALLEY RD
@@ -11259,7 +11259,7 @@ Nod3=17,5237,0
 Nod4=18,1166,0
 [END]
 
-;sufi=1030000006514
+;linzid=49847
 [POLYLINE]
 Type=0xa
 Label=GOSHEN VALLEY RD
@@ -11275,7 +11275,7 @@ Nod4=33,5228,0
 Numbers1=0,O,223,1,N,-1,-1
 [END]
 
-;sufi=1030000006639
+;linzid=49950
 [POLYLINE]
 Type=0xa
 Label=OTANGAROA RD
@@ -11290,7 +11290,7 @@ Nod3=27,1198,0
 Numbers1=0,E,1352,1268,O,1307,1307
 [END]
 
-;sufi=1030000005913
+;linzid=49347
 [POLYLINE]
 Type=0xa
 Label=OMAHUTA FOREST RD
@@ -11303,7 +11303,7 @@ Nod1=0,1168,0
 Nod2=9,1189,0
 [END]
 
-;sufi=1030000006220
+;linzid=49598
 [POLYLINE]
 Type=0xa
 Label=JACKSONS RD
@@ -11317,7 +11317,7 @@ Nod2=23,1188,0
 Numbers1=0,O,49,201,E,24,118
 [END]
 
-;sufi=1030000005913
+;linzid=49347
 [POLYLINE]
 Type=0xa
 Label=OMAHUTA FOREST RD
@@ -11330,7 +11330,7 @@ Nod1=0,1162,0
 Nod2=8,1168,0
 [END]
 
-;sufi=1030000006026
+;linzid=49437
 [POLYLINE]
 Type=0xa
 Label=TAHEKETITI RD
@@ -11343,7 +11343,7 @@ Nod1=0,1168,0
 Nod2=71,1179,0
 [END]
 
-;sufi=1030000006071
+;linzid=49477
 [POLYLINE]
 Type=0xa
 Label=SHORTLANDS RD
@@ -11356,7 +11356,7 @@ Nod1=0,3109,0
 Nod2=11,1179,0
 [END]
 
-;sufi=1030000005901
+;linzid=49338
 [POLYLINE]
 Type=0xa
 Label=HAPPY VALLEY RD
@@ -11369,7 +11369,7 @@ Nod1=0,1174,0
 Nod2=30,1177,0
 [END]
 
-;sufi=1030000005901
+;linzid=49338
 [POLYLINE]
 Type=0xa
 Label=HAPPY VALLEY RD
@@ -11382,7 +11382,7 @@ Nod1=0,1166,0
 Nod2=6,1173,0
 [END]
 
-;sufi=1030000006031
+;linzid=49441
 [POLYLINE]
 Type=0xa
 Label=PUKEWHAO RD
@@ -11396,7 +11396,7 @@ Nod2=65,1209,0
 Numbers1=0,O,7,179,E,4,182
 [END]
 
-;sufi=1030000005980
+;linzid=59949
 [POLYLINE]
 Type=0xa
 Label=MCDONNELL RD
@@ -11410,7 +11410,7 @@ Nod2=10,3111,0
 Numbers1=0,N,-1,-1,E,20,34
 [END]
 
-;sufi=1030000005917
+;linzid=89559
 [POLYLINE]
 Type=0xa
 Label=BEDGGOOD RD
@@ -11424,7 +11424,7 @@ Nod2=1,1169,0
 Numbers1=0,E,30,30,N,-1,-1
 [END]
 
-;sufi=1030000005917
+;linzid=89559
 [POLYLINE]
 Type=0xa
 Label=BEDGGOOD RD
@@ -11438,7 +11438,7 @@ Nod2=2,1170,0
 Numbers1=0,E,6,6,N,-1,-1
 [END]
 
-;sufi=1030000006005
+;linzid=49420
 [POLYLINE]
 Type=0xa
 Label=PERAS RD
@@ -11452,7 +11452,7 @@ Nod2=7,1190,0
 Numbers1=0,O,225,225,E,216,240
 [END]
 
-;sufi=1030000006005
+;linzid=49420
 [POLYLINE]
 Type=0xa
 Label=PERAS RD
@@ -11466,7 +11466,7 @@ Nod2=14,1170,0
 Numbers1=0,O,7,81,E,90,90
 [END]
 
-;sufi=1030000006094
+;linzid=49494
 [POLYLINE]
 Type=0xa
 Label=PAHUHU ROADWAY
@@ -11479,7 +11479,7 @@ Nod1=0,1178,0
 Nod2=4,3113,0
 [END]
 
-;sufi=1030000006102
+;linzid=49501
 [POLYLINE]
 Type=0xa
 Label=WAIMA SCHOOL RD
@@ -11493,7 +11493,7 @@ Nod2=11,1167,0
 Numbers1=0,N,-1,-1,E,40,40
 [END]
 
-;sufi=1030000212016
+;linzid=89311
 [POLYLINE]
 Type=0xa
 Label=WAOKU RD
@@ -11506,7 +11506,7 @@ Nod1=0,1172,0
 Nod2=31,1193,0
 [END]
 
-;sufi=1030000212016
+;linzid=89311
 [POLYLINE]
 Type=0xa
 Label=WAOKU RD
@@ -11520,7 +11520,7 @@ Nod2=1,3311,0
 Nod3=14,3115,0
 [END]
 
-;sufi=1030000212016
+;linzid=89311
 [POLYLINE]
 Type=0x6
 Label=WAOKU RD
@@ -11533,7 +11533,7 @@ Nod1=0,1171,0
 Nod2=1,1172,0
 [END]
 
-;sufi=1030000006136
+;linzid=49530
 [POLYLINE]
 Type=0xa
 Label=SAWYER RD
@@ -11546,7 +11546,7 @@ Nod1=0,1197,0
 Nod2=2,1204,0
 [END]
 
-;sufi=1030000006612
+;linzid=49928
 [POLYLINE]
 Type=0xa
 Label=ORUAITI RD
@@ -11560,7 +11560,7 @@ Nod2=9,1197,0
 Numbers1=0,O,15,15,E,76,76
 [END]
 
-;sufi=1030000006606
+;linzid=49923
 [POLYLINE]
 Type=0xa
 Label=WINDUST RD
@@ -11574,7 +11574,7 @@ Nod2=3,1197,0
 Numbers1=0,N,-1,-1,E,40,40
 [END]
 
-;sufi=1030000006092
+;linzid=49492
 [POLYLINE]
 Type=0xa
 Label=PATIKI RD
@@ -11587,7 +11587,7 @@ Nod1=0,3117,0
 Nod2=17,1203,0
 [END]
 
-;sufi=1030000006220
+;linzid=49598
 [POLYLINE]
 Type=0xa
 Label=JACKSONS RD
@@ -11600,7 +11600,7 @@ Nod1=0,1188,0
 Nod2=18,1203,0
 [END]
 
-;sufi=1030000006084
+;linzid=49487
 [POLYLINE]
 Type=0xa
 Label=KAURI SANCTUARY RD
@@ -11613,7 +11613,7 @@ Nod1=0,1189,0
 Nod2=201,1234,0
 [END]
 
-;sufi=1030000006071
+;linzid=49477
 [POLYLINE]
 Type=0xa
 Label=SHORTLANDS RD
@@ -11626,7 +11626,7 @@ Nod1=0,1179,0
 Nod2=37,1205,0
 [END]
 
-;sufi=1030000006084
+;linzid=49487
 [POLYLINE]
 Type=0xa
 Label=KAURI SANCTUARY RD
@@ -11640,7 +11640,7 @@ Nod2=34,4993,0
 Nod3=36,1205,0
 [END]
 
-;sufi=1030000005999
+;linzid=49415
 [POLYLINE]
 Type=0xa
 Label=PERRY RD
@@ -11654,7 +11654,7 @@ Nod2=18,1200,0
 Numbers1=0,E,118,14,O,37,15
 [END]
 
-;sufi=1030000006104
+;linzid=49503
 [POLYLINE]
 Type=0xa
 Label=WAIMA VALLEY RD
@@ -11668,7 +11668,7 @@ Nod2=3,1195,0
 Numbers1=0,E,196,96,N,-1,-1
 [END]
 
-;sufi=1030000006007
+;linzid=49422
 [POLYLINE]
 Type=0xa
 Label=TAUTEHORO ROADWAY
@@ -11681,7 +11681,7 @@ Nod1=0,3119,0
 Nod2=5,1196,0
 [END]
 
-;sufi=1030000212016
+;linzid=89311
 [POLYLINE]
 Type=0xa
 Label=WAOKU RD
@@ -11694,7 +11694,7 @@ Nod1=0,3120,0
 Nod2=3,1211,0
 [END]
 
-;sufi=1030000006136
+;linzid=49530
 [POLYLINE]
 Type=0xa
 Label=SAWYER RD
@@ -11708,7 +11708,7 @@ Nod2=3,1208,0
 Numbers1=0,O,25,25,N,-1,-1
 [END]
 
-;sufi=1030000006136
+;linzid=49530
 [POLYLINE]
 Type=0xa
 Label=SAWYER RD
@@ -11722,7 +11722,7 @@ Nod2=28,1214,0
 Numbers1=0,O,55,317,E,68,92
 [END]
 
-;sufi=1030000006136
+;linzid=49530
 [POLYLINE]
 Type=0xa
 Label=SAWYER RD
@@ -11736,7 +11736,7 @@ Nod2=25,1214,0
 Numbers1=0,E,458,362,N,-1,-1
 [END]
 
-;sufi=1030000006136
+;linzid=49530
 [POLYLINE]
 Type=0xa
 Label=SAWYER RD
@@ -11750,7 +11750,7 @@ Nod2=5,1215,0
 Numbers1=0,E,632,632,O,611,611
 [END]
 
-;sufi=1030000006220
+;linzid=49598
 [POLYLINE]
 Type=0xa
 Label=JACKSONS RD
@@ -11763,7 +11763,7 @@ Nod1=0,1203,0
 Nod2=13,5016,0
 [END]
 
-;sufi=1030000006084
+;linzid=49487
 [POLYLINE]
 Type=0xa
 Label=KAURI SANCTUARY RD
@@ -11777,7 +11777,7 @@ Nod2=24,4995,0
 Nod3=44,1234,0
 [END]
 
-;sufi=1030000006097
+;linzid=49497
 [POLYLINE]
 Type=0xa
 Label=PAREMATA ROADWAY
@@ -11791,7 +11791,7 @@ Nod2=3,1217,0
 Numbers1=0,O,25,25,E,24,10
 [END]
 
-;sufi=1030000006117
+;linzid=49513
 [POLYLINE]
 Type=0xa
 Label=SEXTON RD
@@ -11804,7 +11804,7 @@ Nod1=0,1207,0
 Nod2=11,3122,0
 [END]
 
-;sufi=1030000006031
+;linzid=49441
 [POLYLINE]
 Type=0xa
 Label=PUKEWHAO RD
@@ -11817,7 +11817,7 @@ Nod1=0,1209,0
 Nod2=2,3123,0
 [END]
 
-;sufi=1030000005927
+;linzid=49358
 [POLYLINE]
 Type=0xa
 Label=PUHA RD
@@ -11830,7 +11830,7 @@ Nod1=0,1213,0
 Nod2=2,1218,0
 [END]
 
-;sufi=1030000005940
+;linzid=49370
 [POLYLINE]
 Type=0xa
 Label=MISSION OAK RD
@@ -11844,7 +11844,7 @@ Nod2=17,3124,0
 Numbers1=0,O,87,87,N,-1,-1
 [END]
 
-;sufi=1030000005671
+;linzid=49151
 [POLYLINE]
 Type=0x6
 Label=TAUPO BAY RD
@@ -11857,7 +11857,7 @@ Nod1=0,1227,0
 Nod2=19,1232,0
 [END]
 
-;sufi=1030000000310
+;linzid=47790
 [POLYLINE]
 Type=0xa
 Label=CONAGLEN RD
@@ -11871,7 +11871,7 @@ Nod2=8,1233,0
 Numbers1=0,O,45,45,E,58,10
 [END]
 
-;sufi=1030000006680
+;linzid=60042
 [POLYLINE]
 Type=0xa
 Label=ROTOTUNA RD
@@ -11885,7 +11885,7 @@ Nod2=7,5048,0
 Nod3=12,1238,0
 [END]
 
-;sufi=1030000006116
+;linzid=49512
 [POLYLINE]
 Type=0xa
 Label=BORNEO RD
@@ -11898,7 +11898,7 @@ Nod1=0,3128,0
 Nod2=12,1237,0
 [END]
 
-;sufi=1030000006036
+;linzid=49446
 [POLYLINE]
 Type=0x6
 Label=RANGIAHUA RD
@@ -11912,7 +11912,7 @@ Nod2=41,1264,0
 Numbers1=0,E,504,416,O,201,165
 [END]
 
-;sufi=1030000210614
+;linzid=89568
 [POLYLINE]
 Type=0xa
 Label=UTAKURA VALLEY RD
@@ -11925,7 +11925,7 @@ Nod1=0,1224,0
 Nod2=12,1235,0
 [END]
 
-;sufi=1030000006039
+;linzid=49449
 [POLYLINE]
 Type=0xa
 Label=UTAKURA RD
@@ -11938,7 +11938,7 @@ Nod1=0,1235,0
 Nod2=35,3129,0
 [END]
 
-;sufi=1030000005918
+;linzid=49351
 [POLYLINE]
 Type=0xa
 Label=ONEMAROKE ROADWAY
@@ -11951,7 +11951,7 @@ Nod1=0,1218,0
 Nod2=5,3130,0
 [END]
 
-;sufi=1030000006640
+;linzid=60036
 [POLYLINE]
 Type=0x6
 Label=LYVER RD
@@ -11964,7 +11964,7 @@ Nod1=0,1239,0
 Nod2=2,3131,0
 [END]
 
-;sufi=1030000006220
+;linzid=49598
 [POLYLINE]
 Type=0xa
 Label=JACKSONS RD
@@ -11978,7 +11978,7 @@ Nod2=14,5186,0
 Nod3=15,1238,0
 [END]
 
-;sufi=1030000006088
+;linzid=49490
 [POLYLINE]
 Type=0xa
 Label=KAURI PA RD
@@ -11991,7 +11991,7 @@ Nod1=0,1234,0
 Nod2=23,1237,0
 [END]
 
-;sufi=1030000006088
+;linzid=49490
 [POLYLINE]
 Type=0xa
 Label=KAURI PA RD
@@ -12004,7 +12004,7 @@ Nod1=0,1237,0
 Nod2=32,1243,0
 [END]
 
-;sufi=1030000006088
+;linzid=49490
 [POLYLINE]
 Type=0xa
 Label=KAURI PA RD
@@ -12017,7 +12017,7 @@ Nod1=0,5016,0
 Nod2=125,1243,0
 [END]
 
-;sufi=1030000006016
+;linzid=49430
 [POLYLINE]
 Type=0xa
 Label=BLACKBRIDGE RD
@@ -12030,7 +12030,7 @@ Nod1=0,1243,0
 Nod2=17,3133,0
 [END]
 
-;sufi=1030000006034
+;linzid=49444
 [POLYLINE]
 Type=0xa
 Label=RAMSEY RD
@@ -12044,7 +12044,7 @@ Nod2=27,1270,0
 Numbers1=0,O,5,5,E,4,154
 [END]
 
-;sufi=1030000005904
+;linzid=49341
 [POLYLINE]
 Type=0x6
 Label=HARRIS RD
@@ -12057,7 +12057,7 @@ Nod1=0,3135,0
 Nod2=3,2869,0
 [END]
 
-;sufi=1030000005904
+;linzid=49341
 [POLYLINE]
 Type=0xa
 Label=HARRIS RD
@@ -12070,7 +12070,7 @@ Nod1=0,1262,0
 Nod2=3,1276,0
 [END]
 
-;sufi=1030000005904
+;linzid=49341
 [POLYLINE]
 Type=0x6
 Label=HARRIS RD
@@ -12083,7 +12083,7 @@ Nod1=0,2869,0
 Nod2=1,1262,0
 [END]
 
-;sufi=1030000183296
+;linzid=58942
 [POLYLINE]
 Type=0x6
 Label=HUTOIA ROADWAY
@@ -12096,7 +12096,7 @@ Nod1=0,3136,0
 Nod2=9,1263,0
 [END]
 
-;sufi=1030000183296
+;linzid=58942
 [POLYLINE]
 Type=0xa
 Label=HUTOIA ROADWAY
@@ -12109,7 +12109,7 @@ Nod1=0,2869,0
 Nod2=3,1263,0
 [END]
 
-;sufi=1030000006050
+;linzid=59957
 [POLYLINE]
 Type=0xa
 Label=WHITE RD
@@ -12123,7 +12123,7 @@ Nod2=7,3137,0
 Numbers1=0,O,15,49,N,-1,-1
 [END]
 
-;sufi=1030000006036
+;linzid=49446
 [POLYLINE]
 Type=0x6
 Label=RANGIAHUA RD
@@ -12136,7 +12136,7 @@ Nod1=0,1264,0
 Nod2=6,1269,0
 [END]
 
-;sufi=1030000006036
+;linzid=49446
 [POLYLINE]
 Type=0x6
 Label=RANGIAHUA RD
@@ -12149,7 +12149,7 @@ Nod1=0,1265,0
 Nod2=2,1269,0
 [END]
 
-;sufi=1030000005954
+;linzid=49379
 [POLYLINE]
 Type=0xa
 Label=OKAKA RD
@@ -12163,7 +12163,7 @@ Nod2=34,1308,0
 Numbers1=0,O,67,199,E,222,222
 [END]
 
-;sufi=1030000005549
+;linzid=59892
 [POLYLINE]
 Type=0xa
 Label=RAKAUWAHIA RD
@@ -12177,7 +12177,7 @@ Nod2=16,1311,0
 Numbers1=0,E,1026,750,O,957,619
 [END]
 
-;sufi=1030000006034
+;linzid=49444
 [POLYLINE]
 Type=0x6
 Label=RAMSEY RD
@@ -12190,7 +12190,7 @@ Nod1=0,1271,0
 Nod2=1,1270,0
 [END]
 
-;sufi=1030000006034
+;linzid=49444
 [POLYLINE]
 Type=0xa
 Label=RAMSEY RD
@@ -12204,7 +12204,7 @@ Nod2=42,1271,0
 Numbers1=0,E,230,230,N,-1,-1
 [END]
 
-;sufi=1030000005958
+;linzid=49382
 [POLYLINE]
 Type=0xa
 Label=AUCKLAND BLOCK RD
@@ -12218,7 +12218,7 @@ Nod2=89,3139,0
 Numbers1=0,N,-1,-1,E,130,130
 [END]
 
-;sufi=1030000006639
+;linzid=49950
 [POLYLINE]
 Type=0xa
 Label=OTANGAROA RD
@@ -12232,7 +12232,7 @@ Nod2=29,1288,0
 Numbers1=0,E,274,274,N,-1,-1
 [END]
 
-;sufi=1030000006035
+;linzid=49445
 [POLYLINE]
 Type=0xa
 Label=RAHIRI RD
@@ -12246,7 +12246,7 @@ Nod2=3,3140,0
 Numbers1=0,O,177,197,E,150,196
 [END]
 
-;sufi=1030000006035
+;linzid=49445
 [POLYLINE]
 Type=0x6
 Label=RAHIRI RD
@@ -12259,7 +12259,7 @@ Nod1=0,1276,0
 Nod2=5,1277,0
 [END]
 
-;sufi=1030000006035
+;linzid=49445
 [POLYLINE]
 Type=0xa
 Label=RAHIRI RD
@@ -12272,7 +12272,7 @@ Nod1=0,1276,0
 Nod2=4,1280,0
 [END]
 
-;sufi=1030000006035
+;linzid=49445
 [POLYLINE]
 Type=0x6
 Label=RAHIRI RD
@@ -12286,7 +12286,7 @@ Nod2=3,1279,0
 Numbers1=0,O,127,145,E,124,150
 [END]
 
-;sufi=1030000006027
+;linzid=59955
 [POLYLINE]
 Type=0xa
 Label=PUNAKITERE RD
@@ -12300,7 +12300,7 @@ Nod2=11,1294,0
 Numbers1=0,E,498,386,O,499,443
 [END]
 
-;sufi=1030000006657
+;linzid=60040
 [POLYLINE]
 Type=0xa
 Label=NESS RD
@@ -12314,7 +12314,7 @@ Nod2=14,3141,0
 Numbers1=0,O,7,179,E,180,180
 [END]
 
-;sufi=1030000006686
+;linzid=49987
 [POLYLINE]
 Type=0xa
 Label=WEBER WAIHAPA RD
@@ -12328,7 +12328,7 @@ Nod2=5,1303,0
 Numbers1=0,E,536,536,O,411,411
 [END]
 
-;sufi=1030000006639
+;linzid=49950
 [POLYLINE]
 Type=0xa
 Label=OTANGAROA RD
@@ -12342,7 +12342,7 @@ Nod2=12,1296,0
 Numbers1=0,E,210,208,N,-1,-1
 [END]
 
-;sufi=1030000006661
+;linzid=49965
 [POLYLINE]
 Type=0xa
 Label=FREAR RD
@@ -12356,7 +12356,7 @@ Nod2=14,1288,0
 Numbers1=0,N,-1,-1,E,20,20
 [END]
 
-;sufi=1030000005814
+;linzid=49268
 [POLYLINE]
 Type=0xa
 Label=COOK RD
@@ -12369,7 +12369,7 @@ Nod1=0,3144,0
 Nod2=11,1292,0
 [END]
 
-;sufi=1030000005966
+;linzid=49390
 [POLYLINE]
 Type=0xa
 Label=MANGATARAIRE RD
@@ -12383,7 +12383,7 @@ Nod2=4,1293,0
 Numbers1=0,O,27,27,E,2,4
 [END]
 
-;sufi=1030000006639
+;linzid=49950
 [POLYLINE]
 Type=0xa
 Label=OTANGAROA RD
@@ -12396,7 +12396,7 @@ Nod1=0,1296,0
 Nod2=3,1306,0
 [END]
 
-;sufi=1030000006646
+;linzid=49954
 [POLYLINE]
 Type=0xa
 Label=WAIHAPA RD
@@ -12410,7 +12410,7 @@ Nod2=21,1304,0
 Numbers1=0,O,13,147,E,12,230
 [END]
 
-;sufi=1030000006660
+;linzid=49964
 [POLYLINE]
 Type=0xa
 Label=FOLEY RD
@@ -12423,7 +12423,7 @@ Nod1=0,1304,0
 Nod2=9,3145,0
 [END]
 
-;sufi=1030000005788
+;linzid=49246
 [POLYLINE]
 Type=0xa
 Label=FOREST RD
@@ -12437,7 +12437,7 @@ Nod2=27,1320,0
 Numbers1=0,O,185,163,E,182,98
 [END]
 
-;sufi=1030000005814
+;linzid=49268
 [POLYLINE]
 Type=0xa
 Label=COOK RD
@@ -12450,7 +12450,7 @@ Nod1=0,1292,0
 Nod2=7,1305,0
 [END]
 
-;sufi=1030000006027
+;linzid=59955
 [POLYLINE]
 Type=0x6
 Label=PUNAKITERE RD
@@ -12464,7 +12464,7 @@ Nod2=3,1302,0
 Numbers1=0,E,346,346,O,347,347
 [END]
 
-;sufi=1030000005922
+;linzid=49354
 [POLYLINE]
 Type=0xa
 Label=OTAUA RD
@@ -12478,7 +12478,7 @@ Nod2=14,1312,0
 Numbers1=0,O,19,19,E,44,76
 [END]
 
-;sufi=1030000005963
+;linzid=90324
 [POLYLINE]
 Type=0xa
 Label=MANGATAWA RD
@@ -12492,7 +12492,7 @@ Nod2=10,4656,0
 Numbers1=0,E,226,90,O,149,93
 [END]
 
-;sufi=1030000005975
+;linzid=49399
 [POLYLINE]
 Type=0xa
 Label=RENWICK RD
@@ -12506,7 +12506,7 @@ Nod2=37,1331,0
 Numbers1=0,E,236,20,O,225,45
 [END]
 
-;sufi=1030000006639
+;linzid=49950
 [POLYLINE]
 Type=0xa
 Label=OTANGAROA RD
@@ -12519,7 +12519,7 @@ Nod1=0,1306,0
 Nod2=1,1314,0
 [END]
 
-;sufi=1030000006639
+;linzid=49950
 [POLYLINE]
 Type=0xa
 Label=OTANGAROA RD
@@ -12533,7 +12533,7 @@ Nod2=3,1316,0
 Numbers1=0,E,6,6,N,-1,-1
 [END]
 
-;sufi=1030000006639
+;linzid=49950
 [POLYLINE]
 Type=0xa
 Label=OTANGAROA RD
@@ -12546,7 +12546,7 @@ Nod1=0,1314,0
 Nod2=1,1315,0
 [END]
 
-;sufi=1030000005832
+;linzid=49284
 [POLYLINE]
 Type=0x6
 Label=OKORO RD
@@ -12560,7 +12560,7 @@ Nod2=7,3149,0
 Numbers1=0,O,23,71,E,22,46
 [END]
 
-;sufi=1030000005814
+;linzid=49268
 [POLYLINE]
 Type=0xa
 Label=COOK RD
@@ -12573,7 +12573,7 @@ Nod1=0,1307,0
 Nod2=25,1336,0
 [END]
 
-;sufi=1030000005814
+;linzid=49268
 [POLYLINE]
 Type=0x6
 Label=COOK RD
@@ -12586,7 +12586,7 @@ Nod1=0,1305,0
 Nod2=1,1307,0
 [END]
 
-;sufi=1030000005954
+;linzid=49379
 [POLYLINE]
 Type=0xa
 Label=OKAKA RD
@@ -12599,7 +12599,7 @@ Nod1=0,1309,0
 Nod2=5,3150,0
 [END]
 
-;sufi=1030000005954
+;linzid=49379
 [POLYLINE]
 Type=0xa
 Label=OKAKA RD
@@ -12612,7 +12612,7 @@ Nod1=0,1308,0
 Nod2=1,1309,0
 [END]
 
-;sufi=1030000210862
+;linzid=62586
 [POLYLINE]
 Type=0xa
 Label=GRAHAM RD
@@ -12626,7 +12626,7 @@ Nod2=6,1312,0
 Numbers1=0,O,27,27,N,-1,-1
 [END]
 
-;sufi=1030000005922
+;linzid=49354
 [POLYLINE]
 Type=0xa
 Label=OTAUA RD
@@ -12640,7 +12640,7 @@ Nod2=18,1321,0
 Numbers1=0,O,351,351,E,194,414
 [END]
 
-;sufi=1030000006688
+;linzid=60044
 [POLYLINE]
 Type=0xa
 Label=GANGWAY RD
@@ -12654,7 +12654,7 @@ Nod2=5,1341,0
 Numbers1=0,E,52,6,O,53,15
 [END]
 
-;sufi=1030000006674
+;linzid=49978
 [POLYLINE]
 Type=0x6
 Label=TOTARA NORTH RD
@@ -12668,7 +12668,7 @@ Nod2=13,1334,0
 Numbers1=0,O,33,85,E,88,88
 [END]
 
-;sufi=1030000005436
+;linzid=48959
 [POLYLINE]
 Type=0x6
 Label=STURGE RD
@@ -12682,7 +12682,7 @@ Nod2=11,1333,0
 Numbers1=0,O,99,47,E,72,72
 [END]
 
-;sufi=1030000005900
+;linzid=49337
 [POLYLINE]
 Type=0xa
 Label=HARRISON RD
@@ -12696,7 +12696,7 @@ Nod2=5,3154,0
 Numbers1=0,O,67,67,N,-1,-1
 [END]
 
-;sufi=1030000005922
+;linzid=49354
 [POLYLINE]
 Type=0xa
 Label=OTAUA RD
@@ -12710,7 +12710,7 @@ Nod2=7,1331,0
 Numbers1=0,O,433,499,E,466,498
 [END]
 
-;sufi=1030000005922
+;linzid=49354
 [POLYLINE]
 Type=0xa
 Label=OTAUA RD
@@ -12724,7 +12724,7 @@ Nod2=8,1344,0
 Numbers1=0,O,535,535,E,536,534
 [END]
 
-;sufi=1030000006673
+;linzid=49977
 [POLYLINE]
 Type=0xa
 Label=TOTARA SCHOOL RD
@@ -12738,7 +12738,7 @@ Nod2=3,1353,0
 Numbers1=0,E,32,2,O,31,27
 [END]
 
-;sufi=1030000006674
+;linzid=49978
 [POLYLINE]
 Type=0x6
 Label=TOTARA NORTH RD
@@ -12752,7 +12752,7 @@ Nod2=7,1353,0
 Numbers1=0,O,191,213,E,250,250
 [END]
 
-;sufi=1030000006674
+;linzid=49978
 [POLYLINE]
 Type=0x6
 Label=TOTARA NORTH RD
@@ -12766,7 +12766,7 @@ Nod2=11,1341,0
 Numbers1=0,O,85,179,N,-1,-1
 [END]
 
-;sufi=1030000186158
+;linzid=61783
 [POLYLINE]
 Type=0x6
 Label=LEWIS RD
@@ -12780,7 +12780,7 @@ Nod2=6,3157,0
 Numbers1=0,O,17,17,E,42,42
 [END]
 
-;sufi=1030000005643
+;linzid=49128
 [POLYLINE]
 Type=0xa
 Label=DONALDSON RD
@@ -12794,7 +12794,7 @@ Nod2=21,3158,0
 Numbers1=0,O,31,63,N,-1,-1
 [END]
 
-;sufi=1030000005814
+;linzid=49268
 [POLYLINE]
 Type=0xa
 Label=COOK RD
@@ -12808,7 +12808,7 @@ Nod2=8,1336,0
 Numbers1=0,O,155,155,N,-1,-1
 [END]
 
-;sufi=1030000005814
+;linzid=49268
 [POLYLINE]
 Type=0xa
 Label=COOK RD
@@ -12821,7 +12821,7 @@ Nod1=0,1337,0
 Nod2=13,1352,0
 [END]
 
-;sufi=1030000006047
+;linzid=49456
 [POLYLINE]
 Type=0xa
 Label=WHAREPUNGA RD
@@ -12835,7 +12835,7 @@ Nod2=49,1364,0
 Numbers1=0,E,674,466,O,679,433
 [END]
 
-;sufi=1030000006674
+;linzid=49978
 [POLYLINE]
 Type=0x6
 Label=TOTARA NORTH RD
@@ -12849,7 +12849,7 @@ Nod2=1,1360,0
 Numbers1=0,O,271,271,N,-1,-1
 [END]
 
-;sufi=1030000006674
+;linzid=49978
 [POLYLINE]
 Type=0x6
 Label=TOTARA NORTH RD
@@ -12863,7 +12863,7 @@ Nod2=1,1359,0
 Numbers1=0,O,253,253,N,-1,-1
 [END]
 
-;sufi=1030000006674
+;linzid=49978
 [POLYLINE]
 Type=0x6
 Label=TOTARA NORTH RD
@@ -12877,7 +12877,7 @@ Nod2=5,1370,0
 Numbers1=0,O,283,303,E,306,306
 [END]
 
-;sufi=1030000006674
+;linzid=49978
 [POLYLINE]
 Type=0x6
 Label=TOTARA NORTH RD
@@ -12891,7 +12891,7 @@ Nod2=3,1361,0
 Numbers1=0,O,275,283,E,282,282
 [END]
 
-;sufi=1030000208253
+;linzid=62418
 [POLYLINE]
 Type=0xa
 Label=THE CUTTING
@@ -12904,7 +12904,7 @@ Nod1=0,3160,0
 Nod2=2,1361,0
 [END]
 
-;sufi=1030000006683
+;linzid=49985
 [POLYLINE]
 Type=0xa
 Label=WEBER RD
@@ -12917,7 +12917,7 @@ Nod1=0,1356,0
 Nod2=5,1372,0
 [END]
 
-;sufi=1030000005678
+;linzid=49156
 [POLYLINE]
 Type=0xa
 Label=LAMBERG RD
@@ -12931,7 +12931,7 @@ Nod2=18,1379,0
 Numbers1=0,N,-1,-1,E,114,114
 [END]
 
-;sufi=1030000005895
+;linzid=49332
 [POLYLINE]
 Type=0xa
 Label=MANGATOA RD
@@ -12944,7 +12944,7 @@ Nod1=0,3164,0
 Nod2=8,1377,0
 [END]
 
-;sufi=1030000006047
+;linzid=49456
 [POLYLINE]
 Type=0x6
 Label=WHAREPUNGA RD
@@ -12957,7 +12957,7 @@ Nod1=0,1364,0
 Nod2=5,1366,0
 [END]
 
-;sufi=1030000006633
+;linzid=49945
 [POLYLINE]
 Type=0x6
 Label=PUPUKE MANGAPA RD
@@ -12971,7 +12971,7 @@ Nod2=1,1378,0
 Numbers1=0,O,57,57,N,-1,-1
 [END]
 
-;sufi=1030000005767
+;linzid=49230
 [POLYLINE]
 Type=0xa
 Label=MIHI RD
@@ -12984,7 +12984,7 @@ Nod1=0,3165,0
 Nod2=11,1384,0
 [END]
 
-;sufi=1030000006659
+;linzid=49963
 [POLYLINE]
 Type=0x6
 Label=MCKENZIE RD
@@ -12998,7 +12998,7 @@ Nod2=5,1396,0
 Numbers1=0,E,8,2,O,7,3
 [END]
 
-;sufi=1030000006684
+;linzid=60043
 [POLYLINE]
 Type=0x6
 Label=WHANGAROA RD
@@ -13011,7 +13011,7 @@ Nod1=0,1389,0
 Nod2=5,1394,0
 [END]
 
-;sufi=1030000006627
+;linzid=49940
 [POLYLINE]
 Type=0x6
 Label=OLD CHURCH RD
@@ -13025,7 +13025,7 @@ Nod2=4,1395,0
 Numbers1=0,E,8,10,O,5,11
 [END]
 
-;sufi=1030000006684
+;linzid=60043
 [POLYLINE]
 Type=0x6
 Label=WHANGAROA RD
@@ -13039,7 +13039,7 @@ Nod2=10,1397,0
 Numbers1=0,O,573,573,E,574,614
 [END]
 
-;sufi=1030000006637
+;linzid=49948
 [POLYLINE]
 Type=0x6
 Label=KENT ST
@@ -13053,7 +13053,7 @@ Nod2=9,1389,0
 Numbers1=0,E,40,12,O,39,7
 [END]
 
-;sufi=1030000005716
+;linzid=59914
 [POLYLINE]
 Type=0x6
 Label=KARAKA RD
@@ -13067,7 +13067,7 @@ Nod2=2,3169,0
 Numbers1=0,O,29,29,N,-1,-1
 [END]
 
-;sufi=1030000005541
+;linzid=49043
 [POLYLINE]
 Type=0x6
 Label=PUKEPOTO RD
@@ -13080,7 +13080,7 @@ Nod1=0,1390,0
 Nod2=2,3170,0
 [END]
 
-;sufi=1030000005541
+;linzid=49043
 [POLYLINE]
 Type=0x6
 Label=PUKEPOTO RD
@@ -13093,7 +13093,7 @@ Nod1=0,1385,0
 Nod2=4,1386,0
 [END]
 
-;sufi=1030000005541
+;linzid=49043
 [POLYLINE]
 Type=0x6
 Label=PUKEPOTO RD
@@ -13107,7 +13107,7 @@ Nod2=6,1390,0
 Numbers1=0,O,69,69,E,48,48
 [END]
 
-;sufi=1030000005767
+;linzid=49230
 [POLYLINE]
 Type=0xa
 Label=MIHI RD
@@ -13121,7 +13121,7 @@ Nod2=16,1393,0
 Numbers1=0,E,42,10,O,59,9
 [END]
 
-;sufi=1030000005621
+;linzid=49109
 [POLYLINE]
 Type=0xa
 Label=IMMS RD
@@ -13135,7 +13135,7 @@ Nod2=32,1404,0
 Numbers1=0,E,200,200,O,231,231
 [END]
 
-;sufi=1030000006625
+;linzid=49938
 [POLYLINE]
 Type=0x6
 Label=OLD HOSPITAL RD
@@ -13149,7 +13149,7 @@ Nod2=2,1396,0
 Numbers1=0,O,5,5,N,-1,-1
 [END]
 
-;sufi=1030000006625
+;linzid=49938
 [POLYLINE]
 Type=0x6
 Label=OLD HOSPITAL RD
@@ -13163,7 +13163,7 @@ Nod2=4,3174,0
 Numbers1=0,O,5,29,E,20,22
 [END]
 
-;sufi=1030000006681
+;linzid=49983
 [POLYLINE]
 Type=0x6
 Label=RUATO RD
@@ -13177,7 +13177,7 @@ Nod2=13,3175,0
 Numbers1=0,N,-1,-1,E,28,46
 [END]
 
-;sufi=1030000006628
+;linzid=49941
 [POLYLINE]
 Type=0xa
 Label=OMAUNU RD
@@ -13191,7 +13191,7 @@ Nod2=29,1425,0
 Numbers1=0,E,348,142,N,-1,-1
 [END]
 
-;sufi=1030000005621
+;linzid=49109
 [POLYLINE]
 Type=0xa
 Label=IMMS RD
@@ -13205,7 +13205,7 @@ Nod2=11,1429,0
 Numbers1=0,E,126,14,O,39,39
 [END]
 
-;sufi=1030000005439
+;linzid=48961
 [POLYLINE]
 Type=0xa
 Label=STEWARD RD
@@ -13219,7 +13219,7 @@ Nod2=15,1408,0
 Numbers1=0,O,121,27,E,10,10
 [END]
 
-;sufi=1030000005572
+;linzid=49069
 [POLYLINE]
 Type=0x6
 Label=DAISY RD
@@ -13232,7 +13232,7 @@ Nod1=0,3179,0
 Nod2=1,3180,1
 [END]
 
-;sufi=1030000006638
+;linzid=49949
 [POLYLINE]
 Type=0x6
 Label=OTA POINT RD
@@ -13247,7 +13247,7 @@ Nod3=24,3181,0
 Numbers1=0,O,11,39,E,18,18
 [END]
 
-;sufi=1030000006675
+;linzid=49979
 [POLYLINE]
 Type=0xa
 Label=LEACOCK RD
@@ -13261,7 +13261,7 @@ Nod2=5,3182,0
 Numbers1=0,O,33,43,E,22,42
 [END]
 
-;sufi=1030000006651
+;linzid=49957
 [POLYLINE]
 Type=0xa
 Label=WAIKOURA RD
@@ -13275,7 +13275,7 @@ Nod2=8,1417,0
 Numbers1=0,O,27,27,E,18,18
 [END]
 
-;sufi=1030000006662
+;linzid=49966
 [POLYLINE]
 Type=0xa
 Label=DIP RD
@@ -13289,7 +13289,7 @@ Nod2=5,1426,0
 Numbers1=0,E,162,114,N,-1,-1
 [END]
 
-;sufi=1030000005847
+;linzid=49294
 [POLYLINE]
 Type=0xa
 Label=OLD VALLEY RD
@@ -13303,7 +13303,7 @@ Nod2=27,4187,0
 Numbers1=0,E,58,16,O,47,3
 [END]
 
-;sufi=1030000005745
+;linzid=49212
 [POLYLINE]
 Type=0xa
 Label=TOIA RD
@@ -13317,7 +13317,7 @@ Nod2=15,1447,0
 Numbers1=0,E,8,8,O,65,65
 [END]
 
-;sufi=1030000006662
+;linzid=49966
 [POLYLINE]
 Type=0xa
 Label=DIP RD
@@ -13330,7 +13330,7 @@ Nod1=0,1426,0
 Nod2=10,1439,0
 [END]
 
-;sufi=1030000006678
+;linzid=49981
 [POLYLINE]
 Type=0xa
 Label=CEMETERY RD
@@ -13344,7 +13344,7 @@ Nod2=11,3186,0
 Numbers1=0,O,15,27,E,4,18
 [END]
 
-;sufi=1030000006662
+;linzid=49966
 [POLYLINE]
 Type=0xa
 Label=DIP RD
@@ -13358,7 +13358,7 @@ Nod2=13,1439,0
 Numbers1=0,O,11,49,N,-1,-1
 [END]
 
-;sufi=1030000006622
+;linzid=49935
 [POLYLINE]
 Type=0x6
 Label=TURNER ST
@@ -13374,7 +13374,7 @@ Nod4=12,3187,0
 Numbers1=0,O,29,73,E,24,64
 [END]
 
-;sufi=1030000005768
+;linzid=49231
 [POLYLINE]
 Type=0x6
 Label=MICHIE ST
@@ -13388,7 +13388,7 @@ Nod2=1,1434,0
 Numbers1=0,O,9,9,E,8,2
 [END]
 
-;sufi=1030000005674
+;linzid=49153
 [POLYLINE]
 Type=0x6
 Label=LAWN ST
@@ -13402,7 +13402,7 @@ Nod2=1,1443,0
 Numbers1=0,E,20,28,O,15,21
 [END]
 
-;sufi=1030000005674
+;linzid=49153
 [POLYLINE]
 Type=0x6
 Label=LAWN ST
@@ -13416,7 +13416,7 @@ Nod2=1,1434,0
 Numbers1=0,E,2,18,O,1,13
 [END]
 
-;sufi=1030000005763
+;linzid=49227
 [POLYLINE]
 Type=0x6
 Label=NOVA ST
@@ -13430,7 +13430,7 @@ Nod2=8,4572,0
 Numbers1=0,O,5,1,N,-1,-1
 [END]
 
-;sufi=1030000005529
+;linzid=49035
 [POLYLINE]
 Type=0x6
 Label=TUI ST
@@ -13444,7 +13444,7 @@ Nod2=1,1443,0
 Numbers1=0,O,3,1,E,2,2
 [END]
 
-;sufi=1030000005745
+;linzid=49212
 [POLYLINE]
 Type=0xa
 Label=TOIA RD
@@ -13457,7 +13457,7 @@ Nod1=0,1447,0
 Nod2=7,1448,0
 [END]
 
-;sufi=1030000006670
+;linzid=91029
 [POLYLINE]
 Type=0xa
 Label=PORTERS ACCESS RD
@@ -13471,7 +13471,7 @@ Nod2=13,1482,0
 Numbers1=0,E,92,6,O,105,21
 [END]
 
-;sufi=1030000194791
+;linzid=59551
 [POLYLINE]
 Type=0x6
 Label=WAITAPU CREEK RD
@@ -13485,7 +13485,7 @@ Nod2=2,1455,0
 Numbers1=0,O,7,167,E,94,170
 [END]
 
-;sufi=1030000006649
+;linzid=49956
 [POLYLINE]
 Type=0x6
 Label=WAIKARE AVE
@@ -13498,7 +13498,7 @@ Nod1=0,3194,0
 Nod2=4,1463,0
 [END]
 
-;sufi=1030000006631
+;linzid=49943
 [POLYLINE]
 Type=0xa
 Label=SCHOOL GULLY RD
@@ -13512,7 +13512,7 @@ Nod2=9,3195,0
 Numbers1=0,O,29,29,E,30,30
 [END]
 
-;sufi=1030000005844
+;linzid=59930
 [POLYLINE]
 Type=0x6
 Label=OTAERE RD
@@ -13526,7 +13526,7 @@ Nod2=1,1464,0
 Numbers1=0,O,15,15,E,16,16
 [END]
 
-;sufi=1030000005432
+;linzid=48956
 [POLYLINE]
 Type=0x6
 Label=SQUIRES LANE
@@ -13540,7 +13540,7 @@ Nod2=4,4233,0
 Numbers1=0,E,42,58,O,43,5
 [END]
 
-;sufi=1030000005713
+;linzid=49184
 [POLYLINE]
 Type=0xa
 Label=BROWNS RD
@@ -13553,7 +13553,7 @@ Nod1=0,1465,0
 Nod2=5,1489,0
 [END]
 
-;sufi=1030000006664
+;linzid=49968
 [POLYLINE]
 Type=0xa
 Label=TAURANGA BAY RD
@@ -13566,7 +13566,7 @@ Nod1=0,1474,0
 Nod2=8,3198,0
 [END]
 
-;sufi=1030000212609
+;linzid=89695
 [POLYLINE]
 Type=0x6
 Label=TAURANGA BAY BEACH RD
@@ -13580,7 +13580,7 @@ Nod2=9,1474,0
 Numbers1=0,E,58,30,O,51,27
 [END]
 
-;sufi=1030000006664
+;linzid=49968
 [POLYLINE]
 Type=0x6
 Label=TAURANGA BAY RD
@@ -13594,7 +13594,7 @@ Nod2=25,1557,0
 Numbers1=0,E,248,174,O,113,63
 [END]
 
-;sufi=1030000006650
+;linzid=60038
 [POLYLINE]
 Type=0x5
 Label=WAINUI RD
@@ -13608,7 +13608,7 @@ Nod2=4,1483,0
 Numbers1=0,O,495,495,E,494,498
 [END]
 
-;sufi=1030000006619
+;linzid=49933
 [POLYLINE]
 Type=0xa
 Label=MATANGIRAU SCHOOL RD
@@ -13622,7 +13622,7 @@ Nod2=11,3200,0
 Numbers1=0,O,53,53,E,10,116
 [END]
 
-;sufi=1030000006618
+;linzid=90234
 [POLYLINE]
 Type=0x6
 Label=MARTIN RD
@@ -13636,7 +13636,7 @@ Nod2=20,1569,0
 Numbers1=0,O,37,239,E,54,190
 [END]
 
-;sufi=1030000006618
+;linzid=90234
 [POLYLINE]
 Type=0x6
 Label=MARTIN RD
@@ -13650,7 +13650,7 @@ Nod2=7,1484,0
 Numbers1=0,O,11,11,E,28,28
 [END]
 
-;sufi=1030000183190
+;linzid=58939
 [POLYLINE]
 Type=0xa
 Label=SAWARD RD
@@ -13664,7 +13664,7 @@ Nod2=2,1506,0
 Numbers1=0,E,104,104,N,-1,-1
 [END]
 
-;sufi=1030000006156
+;linzid=59973
 [POLYLINE]
 Type=0x6
 Label=BISSET RD
@@ -13678,7 +13678,7 @@ Nod2=1,1507,0
 Numbers1=0,E,22,8,O,25,7
 [END]
 
-;sufi=1030000006156
+;linzid=59973
 [POLYLINE]
 Type=0x6
 Label=BISSET RD
@@ -13691,7 +13691,7 @@ Nod1=0,3202,0
 Nod2=1,1495,0
 [END]
 
-;sufi=1030000006161
+;linzid=49549
 [POLYLINE]
 Type=0x6
 Label=TAWANUI RD
@@ -13705,7 +13705,7 @@ Nod2=2,1495,0
 Numbers1=0,O,17,1,E,20,2
 [END]
 
-;sufi=1030000005493
+;linzid=49003
 [POLYLINE]
 Type=0x6
 Label=FAIRVIEW RD
@@ -13719,7 +13719,7 @@ Nod2=4,3203,0
 Numbers1=0,E,2,4,O,1,7
 [END]
 
-;sufi=1030000006129
+;linzid=49523
 [POLYLINE]
 Type=0x6
 Label=ORMONDE PL
@@ -13733,7 +13733,7 @@ Nod2=4,3204,0
 Numbers1=0,O,1,25,E,2,26
 [END]
 
-;sufi=1030000006149
+;linzid=49540
 [POLYLINE]
 Type=0x6
 Label=TUI ST
@@ -13747,7 +13747,7 @@ Nod2=2,1497,0
 Numbers1=0,E,16,12,O,9,7
 [END]
 
-;sufi=1030000006149
+;linzid=49540
 [POLYLINE]
 Type=0x6
 Label=TUI ST
@@ -13761,7 +13761,7 @@ Nod2=1,1500,0
 Numbers1=0,E,10,6,O,5,1
 [END]
 
-;sufi=1030000006161
+;linzid=49549
 [POLYLINE]
 Type=0x6
 Label=TAWANUI RD
@@ -13775,7 +13775,7 @@ Nod2=2,1497,0
 Numbers1=0,E,22,26,O,19,27
 [END]
 
-;sufi=1030000006138
+;linzid=49532
 [POLYLINE]
 Type=0x6
 Label=MONUMENT RD
@@ -13789,7 +13789,7 @@ Nod2=10,1485,0
 Numbers1=0,E,22,6,O,49,3
 [END]
 
-;sufi=1030000006160
+;linzid=49548
 [POLYLINE]
 Type=0x6
 Label=SOUTH VIEW PL
@@ -13802,7 +13802,7 @@ Nod1=0,3207,0
 Nod2=2,1475,0
 [END]
 
-;sufi=1030000006150
+;linzid=49541
 [POLYLINE]
 Type=0x6
 Label=TUHUNA RD
@@ -13816,7 +13816,7 @@ Nod2=7,3208,0
 Numbers1=0,O,1,15,E,2,20
 [END]
 
-;sufi=1030000006175
+;linzid=49562
 [POLYLINE]
 Type=0x6
 Label=TE RA PL
@@ -13830,7 +13830,7 @@ Nod2=4,1492,0
 Numbers1=0,E,10,2,O,11,1
 [END]
 
-;sufi=1030000006138
+;linzid=49532
 [POLYLINE]
 Type=0x6
 Label=MONUMENT RD
@@ -13844,7 +13844,7 @@ Nod2=1,1491,0
 Numbers1=0,E,4,2,O,1,1
 [END]
 
-;sufi=1030000006133
+;linzid=49527
 [POLYLINE]
 Type=0x6
 Label=ROWSELL HTS
@@ -13858,7 +13858,7 @@ Nod2=12,1503,0
 Numbers1=0,E,32,2,O,15,1
 [END]
 
-;sufi=1030000006180
+;linzid=49566
 [POLYLINE]
 Type=0x6
 Label=FULLER PL
@@ -13872,7 +13872,7 @@ Nod2=4,3210,0
 Numbers1=0,E,2,12,O,1,7
 [END]
 
-;sufi=1030000006030
+;linzid=49440
 [POLYLINE]
 Type=0x6
 Label=RANGIHAMAMA RD
@@ -13885,7 +13885,7 @@ Nod1=0,4232,0
 Nod2=8,1511,0
 [END]
 
-;sufi=1030000005546
+;linzid=49047
 [POLYLINE]
 Type=0xa
 Label=PUKETOTARA RD
@@ -13899,7 +13899,7 @@ Nod2=23,1601,0
 Numbers1=0,E,1130,1106,O,1125,1053
 [END]
 
-;sufi=1030000005672
+;linzid=49152
 [POLYLINE]
 Type=0xa
 Label=SCOTT RD
@@ -13913,7 +13913,7 @@ Nod2=3,1588,0
 Numbers1=0,E,144,46,O,85,23
 [END]
 
-;sufi=1030000183190
+;linzid=58939
 [POLYLINE]
 Type=0xa
 Label=SAWARD RD
@@ -13926,7 +13926,7 @@ Nod1=0,1506,0
 Nod2=4,1555,0
 [END]
 
-;sufi=1030000006184
+;linzid=49569
 [POLYLINE]
 Type=0x6
 Label=RIPI ST
@@ -13940,7 +13940,7 @@ Nod2=1,1547,0
 Numbers1=0,E,12,2,O,9,1
 [END]
 
-;sufi=1030000006183
+;linzid=49568
 [POLYLINE]
 Type=0x6
 Label=RIMU PL
@@ -13954,7 +13954,7 @@ Nod2=1,1518,0
 Numbers1=0,E,10,2,O,7,1
 [END]
 
-;sufi=1030000006169
+;linzid=49556
 [POLYLINE]
 Type=0x6
 Label=SHAW ST
@@ -13968,7 +13968,7 @@ Nod2=1,1529,0
 Numbers1=0,E,18,2,O,17,1
 [END]
 
-;sufi=1030000006176
+;linzid=49563
 [POLYLINE]
 Type=0x6
 Label=KAURI PL
@@ -13982,7 +13982,7 @@ Nod2=1,1517,0
 Numbers1=0,E,8,2,O,11,1
 [END]
 
-;sufi=1030000006179
+;linzid=49565
 [POLYLINE]
 Type=0x6
 Label=WILLOW PARK PL
@@ -13996,7 +13996,7 @@ Nod2=2,1550,0
 Numbers1=0,E,6,2,O,5,1
 [END]
 
-;sufi=1030000006156
+;linzid=59973
 [POLYLINE]
 Type=0x6
 Label=BISSET RD
@@ -14011,7 +14011,7 @@ Nod3=3,6042,0
 Numbers1=0,E,6,2,O,7,1
 [END]
 
-;sufi=1030000006148
+;linzid=59971
 [POLYLINE]
 Type=0x6
 Label=RANKIN ST
@@ -14025,7 +14025,7 @@ Nod2=5,1533,0
 Numbers1=0,E,2,48,O,1,51
 [END]
 
-;sufi=1030000006155
+;linzid=49545
 [POLYLINE]
 Type=0x6
 Label=GUERIN ST
@@ -14039,7 +14039,7 @@ Nod2=2,1567,0
 Numbers1=0,E,10,2,O,9,1
 [END]
 
-;sufi=1030000006165
+;linzid=49553
 [POLYLINE]
 Type=0x6
 Label=CAMERON ST
@@ -14053,7 +14053,7 @@ Nod2=3,1563,0
 Numbers1=0,E,10,2,O,11,1
 [END]
 
-;sufi=1030000006137
+;linzid=49531
 [POLYLINE]
 Type=0x6
 Label=NGAPUA PL
@@ -14067,7 +14067,7 @@ Nod2=3,3221,0
 Numbers1=0,O,1,5,E,2,10
 [END]
 
-;sufi=1030000006171
+;linzid=49558
 [POLYLINE]
 Type=0x6
 Label=PARK RD
@@ -14081,7 +14081,7 @@ Nod2=2,1527,0
 Numbers1=0,E,20,14,O,17,1
 [END]
 
-;sufi=1030000006170
+;linzid=49557
 [POLYLINE]
 Type=0x6
 Label=KOWHAI AVE
@@ -14095,7 +14095,7 @@ Nod2=2,1558,0
 Numbers1=0,E,2,6,O,1,7
 [END]
 
-;sufi=1030000006178
+;linzid=49564
 [POLYLINE]
 Type=0x6
 Label=CLIFFORD ST
@@ -14109,7 +14109,7 @@ Nod2=1,1525,0
 Numbers1=0,E,2,2,O,3,1
 [END]
 
-;sufi=1030000006178
+;linzid=49564
 [POLYLINE]
 Type=0x6
 Label=CLIFFORD ST
@@ -14123,7 +14123,7 @@ Nod2=2,1520,0
 Numbers1=0,E,36,4,O,27,7
 [END]
 
-;sufi=1030000006141
+;linzid=49534
 [POLYLINE]
 Type=0x6
 Label=CROWN CRES
@@ -14137,7 +14137,7 @@ Nod2=2,1520,0
 Numbers1=0,E,2,2,O,3,1
 [END]
 
-;sufi=1030000006134
+;linzid=49528
 [POLYLINE]
 Type=0x6
 Label=ROUTLEY AVE
@@ -14151,7 +14151,7 @@ Nod2=3,1543,0
 Numbers1=0,E,28,2,O,29,1
 [END]
 
-;sufi=1030000006144
+;linzid=59970
 [POLYLINE]
 Type=0x6
 Label=DICKESON ST
@@ -14165,7 +14165,7 @@ Nod2=1,1522,0
 Numbers1=0,O,9,9,E,8,8
 [END]
 
-;sufi=1030000006177
+;linzid=59974
 [POLYLINE]
 Type=0x6
 Label=MARINO PL
@@ -14179,7 +14179,7 @@ Nod2=2,1537,0
 Numbers1=0,N,-1,-1,E,10,12
 [END]
 
-;sufi=1030000006147
+;linzid=49539
 [POLYLINE]
 Type=0x6
 Label=RAIHARA ST
@@ -14193,7 +14193,7 @@ Nod2=2,1553,0
 Numbers1=0,E,40,58,O,33,49
 [END]
 
-;sufi=1030000006147
+;linzid=49539
 [POLYLINE]
 Type=0x6
 Label=RAIHARA ST
@@ -14207,7 +14207,7 @@ Nod2=1,1544,0
 Numbers1=0,E,2,34,O,1,31
 [END]
 
-;sufi=1030000006132
+;linzid=49526
 [POLYLINE]
 Type=0x6
 Label=ENTERPRISE ST
@@ -14221,7 +14221,7 @@ Nod2=3,1565,0
 Numbers1=0,O,9,1,E,8,2
 [END]
 
-;sufi=1030000184012
+;linzid=58972
 [POLYLINE]
 Type=0x6
 Label=MICHAELS RD
@@ -14234,7 +14234,7 @@ Nod1=0,1526,0
 Nod2=3,3224,0
 [END]
 
-;sufi=1030000006650
+;linzid=60038
 [POLYLINE]
 Type=0x5
 Label=WAINUI RD
@@ -14248,7 +14248,7 @@ Nod2=11,1582,0
 Numbers1=0,O,761,817,E,762,762
 [END]
 
-;sufi=1030000006671
+;linzid=90275
 [POLYLINE]
 Type=0xa
 Label=THOMPSONS ACCESS RD
@@ -14262,7 +14262,7 @@ Nod2=4,3225,0
 Numbers1=0,N,-1,-1,E,8,38
 [END]
 
-;sufi=1030000006650
+;linzid=60038
 [POLYLINE]
 Type=0x5
 Label=WAINUI RD
@@ -14277,7 +14277,7 @@ Nod3=86,1634,0
 Numbers1=0,O,1027,1331,E,1030,1324
 [END]
 
-;sufi=1030000006190
+;linzid=49573
 [POLYLINE]
 Type=0xa
 Label=PUNGAERE RD
@@ -14291,7 +14291,7 @@ Nod2=25,1600,0
 Numbers1=0,E,1110,1084,O,1127,1063
 [END]
 
-;sufi=1030000005613
+;linzid=49103
 [POLYLINE]
 Type=0x3
 Label=TE PUA RD
@@ -14304,7 +14304,7 @@ Nod1=0,1584,0
 Nod2=1,1583,0
 [END]
 
-;sufi=1030000005613
+;linzid=49103
 [POLYLINE]
 Type=0x3
 Label=TE PUA RD
@@ -14318,7 +14318,7 @@ Nod2=31,1584,0
 Numbers1=0,E,686,412,O,687,329
 [END]
 
-;sufi=1030000005613
+;linzid=49103
 [POLYLINE]
 Type=0x3
 Label=TE PUA RD
@@ -14332,7 +14332,7 @@ Nod2=11,1583,0
 Numbers1=0,O,5,207,E,20,248
 [END]
 
-;sufi=1030000006170
+;linzid=49557
 [POLYLINE]
 Type=0x6
 Label=KOWHAI AVE
@@ -14346,7 +14346,7 @@ Nod2=1,3227,0
 Numbers1=0,E,6,18,O,11,27
 [END]
 
-;sufi=1030000006157
+;linzid=49546
 [POLYLINE]
 Type=0x6
 Label=BELMONT PL
@@ -14360,7 +14360,7 @@ Nod2=2,1574,0
 Numbers1=0,O,5,1,E,4,2
 [END]
 
-;sufi=1030000006163
+;linzid=49551
 [POLYLINE]
 Type=0x6
 Label=TAWA ST
@@ -14374,7 +14374,7 @@ Nod2=2,3229,0
 Numbers1=0,E,2,26,O,1,21
 [END]
 
-;sufi=1030000005691
+;linzid=49167
 [POLYLINE]
 Type=0x6
 Label=KOHEWHATA PL
@@ -14388,7 +14388,7 @@ Nod2=1,3230,0
 Numbers1=0,O,1,29,E,4,8
 [END]
 
-;sufi=1030000005686
+;linzid=49162
 [POLYLINE]
 Type=0xa
 Label=KNUDSEN RD
@@ -14402,7 +14402,7 @@ Nod2=33,1619,0
 Numbers1=0,E,226,210,O,223,143
 [END]
 
-;sufi=1030000006623
+;linzid=49936
 [POLYLINE]
 Type=0xa
 Label=UPOKORAU RD
@@ -14416,7 +14416,7 @@ Nod2=31,3233,0
 Numbers1=0,N,-1,-1,E,12,174
 [END]
 
-;sufi=1030000006190
+;linzid=49573
 [POLYLINE]
 Type=0xa
 Label=PUNGAERE RD
@@ -14429,7 +14429,7 @@ Nod1=0,1600,0
 Nod2=5,1607,0
 [END]
 
-;sufi=1030000006669
+;linzid=49973
 [POLYLINE]
 Type=0xa
 Label=JAY RD
@@ -14443,7 +14443,7 @@ Nod2=13,1600,0
 Numbers1=0,O,111,111,N,-1,-1
 [END]
 
-;sufi=1030000005709
+;linzid=49181
 [POLYLINE]
 Type=0xa
 Label=BULLMAN RD
@@ -14457,7 +14457,7 @@ Nod2=3,3235,0
 Numbers1=0,O,77,159,E,158,158
 [END]
 
-;sufi=1030000005705
+;linzid=49178
 [POLYLINE]
 Type=0x6
 Label=AERODROME RD
@@ -14470,7 +14470,7 @@ Nod1=0,3236,0
 Nod2=1,1605,0
 [END]
 
-;sufi=1030000006190
+;linzid=49573
 [POLYLINE]
 Type=0xa
 Label=PUNGAERE RD
@@ -14484,7 +14484,7 @@ Nod2=2,1626,0
 Numbers1=0,E,912,836,O,793,785
 [END]
 
-;sufi=1030000005762
+;linzid=49226
 [POLYLINE]
 Type=0x6
 Label=NGAPIPITO RD
@@ -14497,7 +14497,7 @@ Nod1=0,1610,0
 Nod2=2,1608,0
 [END]
 
-;sufi=1030000005510
+;linzid=49017
 [POLYLINE]
 Type=0x6
 Label=GAMMON RD
@@ -14511,7 +14511,7 @@ Nod2=4,1624,0
 Numbers1=0,E,10,10,N,-1,-1
 [END]
 
-;sufi=1030000006650
+;linzid=60038
 [POLYLINE]
 Type=0x5
 Label=WAINUI RD
@@ -14526,7 +14526,7 @@ Nod3=21,1642,0
 Numbers1=0,O,1369,1439,E,1356,1464
 [END]
 
-;sufi=1030000006620
+;linzid=49934
 [POLYLINE]
 Type=0x5
 Label=MATAURI BAY RD
@@ -14540,7 +14540,7 @@ Nod2=14,1661,0
 Numbers1=0,O,183,411,E,190,400
 [END]
 
-;sufi=1030000006620
+;linzid=49934
 [POLYLINE]
 Type=0x5
 Label=MATAURI BAY RD
@@ -14555,7 +14555,7 @@ Nod3=17,1643,0
 Numbers1=0,E,70,6,O,139,103
 [END]
 
-;sufi=1030000006190
+;linzid=49573
 [POLYLINE]
 Type=0xa
 Label=PUNGAERE RD
@@ -14569,7 +14569,7 @@ Nod2=11,1659,0
 Numbers1=0,E,698,608,O,751,625
 [END]
 
-;sufi=1030000005824
+;linzid=49277
 [POLYLINE]
 Type=0xa
 Label=HARIRU RD
@@ -14583,7 +14583,7 @@ Nod2=16,1637,0
 Numbers1=0,O,139,311,E,184,304
 [END]
 
-;sufi=1030000005758
+;linzid=49222
 [POLYLINE]
 Type=0x6
 Label=NGAWHA SPRINGS RD
@@ -14597,7 +14597,7 @@ Nod2=10,1639,0
 Numbers1=0,O,49,49,N,-1,-1
 [END]
 
-;sufi=1030000006650
+;linzid=60038
 [POLYLINE]
 Type=0x5
 Label=WAINUI RD
@@ -14610,7 +14610,7 @@ Nod1=0,1642,0
 Nod2=7,1647,0
 [END]
 
-;sufi=1030000006647
+;linzid=49955
 [POLYLINE]
 Type=0x6
 Label=WAINUI VALLEY RD
@@ -14624,7 +14624,7 @@ Nod2=4,1648,0
 Numbers1=0,E,98,98,O,119,99
 [END]
 
-;sufi=1030000192837
+;linzid=59385
 [POLYLINE]
 Type=0xa
 Label=CAPRINE RD
@@ -14638,7 +14638,7 @@ Nod2=8,1653,0
 Numbers1=0,O,25,25,E,32,26
 [END]
 
-;sufi=1030000206323
+;linzid=62355
 [POLYLINE]
 Type=0xa
 Label=NONI LANE
@@ -14652,7 +14652,7 @@ Nod2=9,3238,0
 Numbers1=0,O,3,3,N,-1,-1
 [END]
 
-;sufi=1030000005824
+;linzid=49277
 [POLYLINE]
 Type=0xa
 Label=HARIRU RD
@@ -14666,7 +14666,7 @@ Nod2=4,1641,0
 Numbers1=0,E,26,12,O,37,37
 [END]
 
-;sufi=1030000005824
+;linzid=49277
 [POLYLINE]
 Type=0xa
 Label=HARIRU RD
@@ -14680,7 +14680,7 @@ Nod2=3,1638,0
 Numbers1=0,O,325,325,E,340,340
 [END]
 
-;sufi=1030000184050
+;linzid=61646
 [POLYLINE]
 Type=0x6
 Label=WAIWHARIKI ROADWAY
@@ -14693,7 +14693,7 @@ Nod1=0,1644,0
 Nod2=7,3239,0
 [END]
 
-;sufi=1030000005758
+;linzid=49222
 [POLYLINE]
 Type=0x6
 Label=NGAWHA SPRINGS RD
@@ -14707,7 +14707,7 @@ Nod2=15,1655,0
 Numbers1=0,O,213,281,E,182,276
 [END]
 
-;sufi=1030000006620
+;linzid=49934
 [POLYLINE]
 Type=0x5
 Label=MATAURI BAY RD
@@ -14720,7 +14720,7 @@ Nod1=0,1661,0
 Nod2=3,1666,0
 [END]
 
-;sufi=1030000006630
+;linzid=49942
 [POLYLINE]
 Type=0xa
 Label=HAURIRI RD
@@ -14734,7 +14734,7 @@ Nod2=1,3240,0
 Numbers1=0,O,75,93,E,36,92
 [END]
 
-;sufi=1030000005837
+;linzid=49288
 [POLYLINE]
 Type=0xa
 Label=ONEKURA RD
@@ -14748,7 +14748,7 @@ Nod2=3,3241,0
 Numbers1=0,O,317,317,E,292,314
 [END]
 
-;sufi=1030000005765
+;linzid=49229
 [POLYLINE]
 Type=0x6
 Label=NGAWHA SCHOOL RD
@@ -14762,7 +14762,7 @@ Nod2=5,1668,0
 Numbers1=0,E,32,2,O,33,19
 [END]
 
-;sufi=1030000005758
+;linzid=49222
 [POLYLINE]
 Type=0x6
 Label=NGAWHA SPRINGS RD
@@ -14776,7 +14776,7 @@ Nod2=1,3243,0
 Numbers1=0,O,283,283,N,-1,-1
 [END]
 
-;sufi=1030000005810
+;linzid=49265
 [POLYLINE]
 Type=0x6
 Label=BANNISTER RD
@@ -14789,7 +14789,7 @@ Nod1=0,1665,0
 Nod2=5,1667,0
 [END]
 
-;sufi=1030000005834
+;linzid=59928
 [POLYLINE]
 Type=0x6
 Label=OHARA ST
@@ -14802,7 +14802,7 @@ Nod1=0,1656,0
 Nod2=3,1663,0
 [END]
 
-;sufi=1030000005834
+;linzid=59928
 [POLYLINE]
 Type=0x6
 Label=OHARA ST
@@ -14815,7 +14815,7 @@ Nod1=0,1656,0
 Nod2=3,1664,0
 [END]
 
-;sufi=1030000005542
+;linzid=49044
 [POLYLINE]
 Type=0x6
 Label=PUIA ST
@@ -14829,7 +14829,7 @@ Nod2=6,1664,0
 Numbers1=0,E,8,38,O,5,23
 [END]
 
-;sufi=1030000005542
+;linzid=49044
 [POLYLINE]
 Type=0x6
 Label=PUIA ST
@@ -14843,7 +14843,7 @@ Nod2=2,1663,0
 Numbers1=0,E,2,6,O,1,3
 [END]
 
-;sufi=1030000005542
+;linzid=49044
 [POLYLINE]
 Type=0x6
 Label=PUIA ST
@@ -14857,7 +14857,7 @@ Nod2=2,1664,0
 Numbers1=0,O,35,25,E,64,44
 [END]
 
-;sufi=1030000005810
+;linzid=49265
 [POLYLINE]
 Type=0x6
 Label=BANNISTER RD
@@ -14870,7 +14870,7 @@ Nod1=0,1667,0
 Nod2=2,1669,0
 [END]
 
-;sufi=1030000005810
+;linzid=49265
 [POLYLINE]
 Type=0x6
 Label=BANNISTER RD
@@ -14883,7 +14883,7 @@ Nod1=0,1669,0
 Nod2=2,3244,0
 [END]
 
-;sufi=1030000197781
+;linzid=61909
 [POLYLINE]
 Type=0x6
 Label=RIWHI WAY
@@ -14897,7 +14897,7 @@ Nod2=4,3245,0
 Numbers1=0,O,5,15,E,2,16
 [END]
 
-;sufi=1030000005665
+;linzid=59905
 [POLYLINE]
 Type=0x6
 Label=SANDYS RD
@@ -14913,7 +14913,7 @@ Numbers1=0,E,238,144,O,229,147
 Numbers2=9,E,74,74,O,139,21
 [END]
 
-;sufi=1030000055466
+;linzid=58777
 [POLYLINE]
 Type=0x6
 Label=COURTHOUSE LANE
@@ -14927,7 +14927,7 @@ Nod2=2,1683,0
 Numbers1=0,O,1,5,E,6,8
 [END]
 
-;sufi=1030000005868
+;linzid=49311
 [POLYLINE]
 Type=0xa
 Label=WAITAHEKE RD
@@ -14941,7 +14941,7 @@ Nod2=9,1682,0
 Numbers1=0,O,27,55,E,46,84
 [END]
 
-;sufi=1030000005868
+;linzid=49311
 [POLYLINE]
 Type=0xa
 Label=WAITAHEKE RD
@@ -14955,7 +14955,7 @@ Nod2=8,1713,0
 Numbers1=0,O,101,175,E,116,220
 [END]
 
-;sufi=1030000005395
+;linzid=48925
 [POLYLINE]
 Type=0x6
 Label=MATENE RD
@@ -14969,7 +14969,7 @@ Nod2=18,3247,0
 Numbers1=0,O,53,53,N,-1,-1
 [END]
 
-;sufi=1030000005395
+;linzid=48925
 [POLYLINE]
 Type=0x6
 Label=MATENE RD
@@ -14982,7 +14982,7 @@ Nod1=0,1672,0
 Nod2=2,1678,0
 [END]
 
-;sufi=1030000006655
+;linzid=49960
 [POLYLINE]
 Type=0x6
 Label=TAKOU BAY RD
@@ -14995,7 +14995,7 @@ Nod1=0,1691,0
 Nod2=9,1710,0
 [END]
 
-;sufi=1030000005692
+;linzid=49168
 [POLYLINE]
 Type=0x6
 Label=KORANAE RD
@@ -15009,7 +15009,7 @@ Nod2=4,1695,0
 Numbers1=0,E,16,38,O,35,7
 [END]
 
-;sufi=1030000005458
+;linzid=48977
 [POLYLINE]
 Type=0xa
 Label=COOKS LANE
@@ -15022,7 +15022,7 @@ Nod1=0,1693,0
 Nod2=2,3249,0
 [END]
 
-;sufi=1030000005452
+;linzid=48971
 [POLYLINE]
 Type=0x6
 Label=HOBSON ST
@@ -15036,7 +15036,7 @@ Nod2=3,3250,0
 Numbers1=0,O,15,21,E,16,18
 [END]
 
-;sufi=1030000005611
+;linzid=59899
 [POLYLINE]
 Type=0x6
 Label=TENNYSON ST
@@ -15050,7 +15050,7 @@ Nod2=1,3251,0
 Numbers1=0,O,21,25,E,20,20
 [END]
 
-;sufi=1030000005452
+;linzid=48971
 [POLYLINE]
 Type=0x6
 Label=HOBSON ST
@@ -15064,7 +15064,7 @@ Nod2=1,1696,0
 Numbers1=0,O,7,9,E,2,12
 [END]
 
-;sufi=1030000005611
+;linzid=59899
 [POLYLINE]
 Type=0x6
 Label=TENNYSON ST
@@ -15078,7 +15078,7 @@ Nod2=1,1696,0
 Numbers1=0,O,3,17,E,4,16
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Walkway
@@ -15091,7 +15091,7 @@ Nod1=0,3253,0
 Nod2=1,1690,0
 [END]
 
-;sufi=1030000005739
+;linzid=59916
 [POLYLINE]
 Type=0x6
 Label=TOKAWHERO RD
@@ -15104,7 +15104,7 @@ Nod1=0,3254,1
 Nod2=4,3255,1
 [END]
 
-;sufi=1030000006685
+;linzid=49986
 [POLYLINE]
 Type=0xa
 Label=WHAKARARA RD
@@ -15117,7 +15117,7 @@ Nod1=0,3257,0
 Nod2=1,1716,0
 [END]
 
-;sufi=1030000006650
+;linzid=60038
 [POLYLINE]
 Type=0x5
 Label=WAINUI RD
@@ -15131,7 +15131,7 @@ Nod2=12,1724,0
 Numbers1=0,O,2151,2231,E,2244,2244
 [END]
 
-;sufi=1030000181669
+;linzid=58842
 [POLYLINE]
 Type=0x6
 Label=IRONBARK RD
@@ -15145,7 +15145,7 @@ Nod2=3,3259,0
 Numbers1=0,O,51,57,E,58,58
 [END]
 
-;sufi=1030000005470
+;linzid=59881
 [POLYLINE]
 Type=0x6
 Label=NESS RD
@@ -15159,7 +15159,7 @@ Nod2=4,1722,0
 Numbers1=0,E,88,20,O,87,9
 [END]
 
-;sufi=1030000005627
+;linzid=49115
 [POLYLINE]
 Type=0x6
 Label=SHIRLEY RD
@@ -15173,7 +15173,7 @@ Nod2=3,3260,0
 Numbers1=0,O,25,37,E,38,38
 [END]
 
-;sufi=1030000181669
+;linzid=58842
 [POLYLINE]
 Type=0x6
 Label=IRONBARK RD
@@ -15187,7 +15187,7 @@ Nod2=7,1717,0
 Numbers1=0,O,5,45,E,12,34
 [END]
 
-;sufi=1030000006190
+;linzid=49573
 [POLYLINE]
 Type=0x6
 Label=PUNGAERE RD
@@ -15203,7 +15203,7 @@ Numbers1=0,E,186,142,O,175,141
 Numbers2=3,E,94,22,O,137,25
 [END]
 
-;sufi=1030000006190
+;linzid=49573
 [POLYLINE]
 Type=0x6
 Label=PUNGAERE RD
@@ -15217,7 +15217,7 @@ Nod2=2,1718,0
 Numbers1=0,E,218,200,O,239,201
 [END]
 
-;sufi=1030000005685
+;linzid=49161
 [POLYLINE]
 Type=0x6
 Label=KOROPEWA RD
@@ -15231,7 +15231,7 @@ Nod2=14,1743,0
 Numbers1=0,E,152,38,O,129,9
 [END]
 
-;sufi=1030000212419
+;linzid=89605
 [POLYLINE]
 Type=0x6
 Label=NGAPUHI RD
@@ -15245,7 +15245,7 @@ Nod2=1,1718,0
 Numbers1=0,O,17,17,E,42,12
 [END]
 
-;sufi=1030000005868
+;linzid=49311
 [POLYLINE]
 Type=0xa
 Label=WAITAHEKE RD
@@ -15258,7 +15258,7 @@ Nod1=0,1713,0
 Nod2=1,3261,0
 [END]
 
-;sufi=1030000006620
+;linzid=49934
 [POLYLINE]
 Type=0x6
 Label=MATAURI BAY RD
@@ -15271,7 +15271,7 @@ Nod1=0,1724,0
 Nod2=2,1725,0
 [END]
 
-;sufi=1030000006656
+;linzid=49961
 [POLYLINE]
 Type=0x6
 Label=TE TAPUI RD
@@ -15284,7 +15284,7 @@ Nod1=0,1726,0
 Nod2=1,1728,0
 [END]
 
-;sufi=1030000006656
+;linzid=49961
 [POLYLINE]
 Type=0xa
 Label=TE TAPUI RD
@@ -15297,7 +15297,7 @@ Nod1=0,1728,0
 Nod2=5,1735,0
 [END]
 
-;sufi=1030000006620
+;linzid=49934
 [POLYLINE]
 Type=0x6
 Label=MATAURI BAY RD
@@ -15312,7 +15312,7 @@ Nod3=47,1725,0
 Numbers1=0,E,1622,1462,O,1597,1473
 [END]
 
-;sufi=1030000006656
+;linzid=49961
 [POLYLINE]
 Type=0xa
 Label=TE TAPUI RD
@@ -15326,7 +15326,7 @@ Nod2=1,1726,0
 Numbers1=0,O,9,17,E,2,14
 [END]
 
-;sufi=1030000006656
+;linzid=49961
 [POLYLINE]
 Type=0xa
 Label=TE TAPUI RD
@@ -15339,7 +15339,7 @@ Nod1=0,1728,0
 Nod2=5,1735,0
 [END]
 
-;sufi=1030000006620
+;linzid=49934
 [POLYLINE]
 Type=0x5
 Label=MATAURI BAY RD
@@ -15353,7 +15353,7 @@ Nod2=16,1724,0
 Numbers1=0,O,1405,1405,N,-1,-1
 [END]
 
-;sufi=1030000006663
+;linzid=49967
 [POLYLINE]
 Type=0xa
 Label=TEPENE TABLELANDS RD
@@ -15368,7 +15368,7 @@ Nod3=12,1739,0
 Numbers1=0,O,113,113,E,38,116
 [END]
 
-;sufi=1030000005595
+;linzid=49088
 [POLYLINE]
 Type=0x6
 Label=WAIPAPA WEST RD
@@ -15382,7 +15382,7 @@ Nod2=2,1722,0
 Numbers1=0,E,176,124,O,189,135
 [END]
 
-;sufi=1030000005777
+;linzid=49237
 [POLYLINE]
 Type=0x6
 Label=JENNINGS RD
@@ -15396,7 +15396,7 @@ Nod2=1,1729,0
 Numbers1=0,E,68,12,O,69,29
 [END]
 
-;sufi=1030000005595
+;linzid=49088
 [POLYLINE]
 Type=0x6
 Label=WAIPAPA WEST RD
@@ -15410,7 +15410,7 @@ Nod2=1,1729,0
 Numbers1=0,E,124,84,O,109,101
 [END]
 
-;sufi=1030000005592
+;linzid=90306
 [POLYLINE]
 Type=0x6
 Label=WAIMATE NORTH RD
@@ -15424,7 +15424,7 @@ Nod2=4,1741,0
 Numbers1=0,E,322,184,N,-1,-1
 [END]
 
-;sufi=1030000208257
+;linzid=62420
 [POLYLINE]
 Type=0xa
 Label=MONTROSE RD
@@ -15438,7 +15438,7 @@ Nod2=8,3266,0
 Numbers1=0,O,21,125,E,14,128
 [END]
 
-;sufi=1030000006656
+;linzid=49961
 [POLYLINE]
 Type=0xa
 Label=TE TAPUI RD
@@ -15451,7 +15451,7 @@ Nod1=0,1735,0
 Nod2=3,3267,0
 [END]
 
-;sufi=1030000006663
+;linzid=49967
 [POLYLINE]
 Type=0xa
 Label=TEPENE TABLELANDS RD
@@ -15464,7 +15464,7 @@ Nod1=0,1739,0
 Nod2=7,3268,0
 [END]
 
-;sufi=1030000005846
+;linzid=49293
 [POLYLINE]
 Type=0xa
 Label=ORCHARD RD
@@ -15478,7 +15478,7 @@ Nod2=4,3270,0
 Numbers1=0,O,3,47,E,14,106
 [END]
 
-;sufi=1030000181793
+;linzid=58844
 [POLYLINE]
 Type=0x6
 Label=CONIFER LANE
@@ -15492,7 +15492,7 @@ Nod2=3,3271,0
 Numbers1=0,O,15,91,E,16,22
 [END]
 
-;sufi=1030000006190
+;linzid=49573
 [POLYLINE]
 Type=0x6
 Label=PUNGAERE RD
@@ -15506,7 +15506,7 @@ Nod2=2,1749,0
 Numbers1=0,E,10,10,O,5,5
 [END]
 
-;sufi=1030000208259
+;linzid=62421
 [POLYLINE]
 Type=0x6
 Label=AMURI RD
@@ -15520,7 +15520,7 @@ Nod2=2,1752,0
 Numbers1=0,E,100,28,O,55,55
 [END]
 
-;sufi=1030000005592
+;linzid=90306
 [POLYLINE]
 Type=0x6
 Label=WAIMATE NORTH RD
@@ -15534,7 +15534,7 @@ Nod2=9,1752,0
 Numbers1=0,E,136,106,O,179,97
 [END]
 
-;sufi=1030000005587
+;linzid=49080
 [POLYLINE]
 Type=0x6
 Label=WAIKARAMU RD
@@ -15547,7 +15547,7 @@ Nod1=0,1732,0
 Nod2=1,1733,0
 [END]
 
-;sufi=1030000005514
+;linzid=59887
 [POLYLINE]
 Type=0xa
 Label=GERRARDS RD
@@ -15560,7 +15560,7 @@ Nod1=0,1746,0
 Nod2=4,3274,0
 [END]
 
-;sufi=1030000005433
+;linzid=48957
 [POLYLINE]
 Type=0xa
 Label=SOMERVILLE RD
@@ -15574,7 +15574,7 @@ Nod2=38,1839,0
 Numbers1=0,O,95,95,E,308,214
 [END]
 
-;sufi=1030000001378
+;linzid=48045
 [POLYLINE]
 Type=0x6
 Label=PATAKA LANE
@@ -15587,7 +15587,7 @@ Nod1=0,3277,0
 Nod2=3,1775,0
 [END]
 
-;sufi=1030000005592
+;linzid=90306
 [POLYLINE]
 Type=0x6
 Label=WAIMATE NORTH RD
@@ -15601,7 +15601,7 @@ Nod2=9,1770,0
 Numbers1=0,E,52,6,O,61,59
 [END]
 
-;sufi=1030000182075
+;linzid=58868
 [POLYLINE]
 Type=0x6
 Label=KERI DOWNS RD
@@ -15615,7 +15615,7 @@ Nod2=5,1795,0
 Numbers1=0,N,-1,-1,O,121,15
 [END]
 
-;sufi=1030000005517
+;linzid=49023
 [POLYLINE]
 Type=0x6
 Label=TANEKAHA LANE
@@ -15629,7 +15629,7 @@ Nod2=1,1781,0
 Numbers1=0,O,27,17,E,28,26
 [END]
 
-;sufi=1030000005707
+;linzid=49180
 [POLYLINE]
 Type=0x6
 Label=ACCESS RD
@@ -15643,7 +15643,7 @@ Nod2=5,1793,0
 Numbers1=0,E,66,4,O,69,5
 [END]
 
-;sufi=1030000005707
+;linzid=49180
 [POLYLINE]
 Type=0x6
 Label=ACCESS RD
@@ -15657,7 +15657,7 @@ Nod2=4,4218,0
 Numbers1=0,O,85,107,E,80,106
 [END]
 
-;sufi=1030000005878
+;linzid=49318
 [POLYLINE]
 Type=0x6
 Label=POPLAR LANE
@@ -15671,7 +15671,7 @@ Nod2=3,1780,0
 Numbers1=0,O,35,17,E,28,32
 [END]
 
-;sufi=1030000005759
+;linzid=49223
 [POLYLINE]
 Type=0xa
 Label=NGAWHITU RD
@@ -15685,7 +15685,7 @@ Nod2=11,1791,0
 Numbers1=0,E,240,240,O,303,303
 [END]
 
-;sufi=1030000005544
+;linzid=49046
 [POLYLINE]
 Type=0x6
 Label=PURERUA RD
@@ -15699,7 +15699,7 @@ Nod2=3,1795,0
 Numbers1=0,O,17,75,E,62,62
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Walkway
@@ -15712,7 +15712,7 @@ Nod1=0,3283,0
 Nod2=1,1809,0
 [END]
 
-;sufi=1030000005646
+;linzid=49130
 [POLYLINE]
 Type=0x6
 Label=AMOKURA DR
@@ -15726,7 +15726,7 @@ Nod2=6,3284,0
 Numbers1=0,E,2,52,O,1,49
 [END]
 
-;sufi=1030000005822
+;linzid=89566
 [POLYLINE]
 Type=0x6
 Label=HALL RD
@@ -15740,7 +15740,7 @@ Nod2=1,3285,0
 Numbers1=0,O,9,59,E,4,56
 [END]
 
-;sufi=1030000005390
+;linzid=48921
 [POLYLINE]
 Type=0xa
 Label=LUDBROOK RD
@@ -15754,7 +15754,7 @@ Nod2=1,1842,0
 Numbers1=0,E,128,88,O,157,157
 [END]
 
-;sufi=1030000005390
+;linzid=48921
 [POLYLINE]
 Type=0xa
 Label=LUDBROOK RD
@@ -15768,7 +15768,7 @@ Nod2=16,1806,0
 Numbers1=0,E,324,324,O,267,159
 [END]
 
-;sufi=1030000005390
+;linzid=48921
 [POLYLINE]
 Type=0xa
 Label=LUDBROOK RD
@@ -15781,7 +15781,7 @@ Nod1=0,3287,0
 Nod2=1,1790,0
 [END]
 
-;sufi=1030000005647
+;linzid=49131
 [POLYLINE]
 Type=0xa
 Label=PACKER RD
@@ -15795,7 +15795,7 @@ Nod2=9,3288,0
 Numbers1=0,N,-1,-1,E,64,64
 [END]
 
-;sufi=1030000005759
+;linzid=49223
 [POLYLINE]
 Type=0xa
 Label=NGAWHITU RD
@@ -15809,7 +15809,7 @@ Nod2=4,1791,0
 Numbers1=0,O,157,157,E,168,194
 [END]
 
-;sufi=1030000005750
+;linzid=49216
 [POLYLINE]
 Type=0xa
 Label=ROGERS RD
@@ -15823,7 +15823,7 @@ Nod2=2,1796,0
 Numbers1=0,N,-1,-1,E,36,16
 [END]
 
-;sufi=1030000005759
+;linzid=49223
 [POLYLINE]
 Type=0xa
 Label=NGAWHITU RD
@@ -15837,7 +15837,7 @@ Nod2=4,1826,0
 Numbers1=0,E,84,40,O,91,51
 [END]
 
-;sufi=1030000005778
+;linzid=49238
 [POLYLINE]
 Type=0xa
 Label=KAKA RD
@@ -15851,7 +15851,7 @@ Nod2=22,1897,0
 Numbers1=0,E,122,26,O,137,93
 [END]
 
-;sufi=1030000005841
+;linzid=49290
 [POLYLINE]
 Type=0x6
 Label=ORANGEWOOD RD
@@ -15865,7 +15865,7 @@ Nod2=4,3292,0
 Numbers1=0,O,27,53,E,40,54
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Walkway
@@ -15878,7 +15878,7 @@ Nod1=0,3294,0
 Nod2=1,1808,0
 [END]
 
-;sufi=1030000005527
+;linzid=49033
 [POLYLINE]
 Type=0x6
 Label=TUATAHI PL
@@ -15892,7 +15892,7 @@ Nod2=4,1808,0
 Numbers1=0,E,2,10,O,1,11
 [END]
 
-;sufi=1030000005507
+;linzid=49015
 [POLYLINE]
 Type=0x6
 Label=KERIKERI GRV
@@ -15906,7 +15906,7 @@ Nod2=2,1872,0
 Numbers1=0,O,15,1,E,12,2
 [END]
 
-;sufi=1030000005702
+;linzid=49176
 [POLYLINE]
 Type=0x6
 Label=WENTWORTH TCE
@@ -15920,7 +15920,7 @@ Nod2=1,1830,0
 Numbers1=0,O,1,1,E,8,2
 [END]
 
-;sufi=1030000005684
+;linzid=49160
 [POLYLINE]
 Type=0x6
 Label=KING ST
@@ -15934,7 +15934,7 @@ Nod2=1,1852,0
 Numbers1=0,O,15,1,E,16,2
 [END]
 
-;sufi=1030000005485
+;linzid=48996
 [POLYLINE]
 Type=0x6
 Label=HAWKINGS CRES
@@ -15948,7 +15948,7 @@ Nod2=1,1864,0
 Numbers1=0,E,2,8,O,1,7
 [END]
 
-;sufi=1030000000448
+;linzid=47821
 [POLYLINE]
 Type=0x6
 Label=PEACOCK GARDEN DR
@@ -15962,7 +15962,7 @@ Nod2=3,1873,0
 Numbers1=0,E,10,2,O,35,1
 [END]
 
-;sufi=1030000199601
+;linzid=62143
 [POLYLINE]
 Type=0x6
 Label=JOCK GRAVESON PL
@@ -15976,7 +15976,7 @@ Nod2=1,1865,0
 Numbers1=0,O,35,35,E,34,34
 [END]
 
-;sufi=1030000005445
+;linzid=48964
 [POLYLINE]
 Type=0x6
 Label=HOBSON AVE
@@ -15990,7 +15990,7 @@ Nod2=2,1847,0
 Numbers1=0,E,2,18,O,1,59
 [END]
 
-;sufi=1030000005760
+;linzid=49224
 [POLYLINE]
 Type=0x6
 Label=NORFOLK PL
@@ -16004,7 +16004,7 @@ Nod2=3,1854,0
 Numbers1=0,O,9,1,E,20,2
 [END]
 
-;sufi=1030000183994
+;linzid=58963
 [POLYLINE]
 Type=0x6
 Label=LANARK RD
@@ -16018,7 +16018,7 @@ Nod2=9,3304,0
 Numbers1=0,E,2,24,O,1,23
 [END]
 
-;sufi=1030000005815
+;linzid=49269
 [POLYLINE]
 Type=0x6
 Label=CLARK RD
@@ -16032,7 +16032,7 @@ Nod2=2,4648,0
 Numbers1=0,O,9,1,E,12,2
 [END]
 
-;sufi=1030000005693
+;linzid=49169
 [POLYLINE]
 Type=0x6
 Label=WENDYWOOD LANE
@@ -16046,7 +16046,7 @@ Nod2=3,1840,0
 Numbers1=0,E,4,6,O,3,5
 [END]
 
-;sufi=1030000005443
+;linzid=59879
 [POLYLINE]
 Type=0x6
 Label=STELLA DR
@@ -16060,7 +16060,7 @@ Nod2=1,1855,0
 Numbers1=0,E,2,2,O,1,5
 [END]
 
-;sufi=1030000005855
+;linzid=49299
 [POLYLINE]
 Type=0x6
 Label=SAMMAREE PL
@@ -16074,7 +16074,7 @@ Nod2=5,3306,0
 Numbers1=0,E,2,14,O,1,19
 [END]
 
-;sufi=1030000005693
+;linzid=49169
 [POLYLINE]
 Type=0x6
 Label=WENDYWOOD LANE
@@ -16088,7 +16088,7 @@ Nod2=4,3307,0
 Numbers1=0,E,8,12,O,7,7
 [END]
 
-;sufi=1030000005711
+;linzid=49183
 [POLYLINE]
 Type=0x6
 Label=BUTLER RD
@@ -16102,7 +16102,7 @@ Nod2=3,1809,0
 Numbers1=0,O,25,19,E,38,28
 [END]
 
-;sufi=1030000005770
+;linzid=59920
 [POLYLINE]
 Type=0x6
 Label=MILL LANE
@@ -16116,7 +16116,7 @@ Nod2=1,1867,0
 Numbers1=0,O,23,1,E,20,4
 [END]
 
-;sufi=1030000005836
+;linzid=49287
 [POLYLINE]
 Type=0x6
 Label=ORIPIRO RD
@@ -16130,7 +16130,7 @@ Nod2=1,1862,0
 Numbers1=0,O,7,3,E,8,2
 [END]
 
-;sufi=1030000005454
+;linzid=48973
 [POLYLINE]
 Type=0x6
 Label=HOMESTEAD RD
@@ -16144,7 +16144,7 @@ Nod2=1,1822,0
 Numbers1=0,E,2,2,N,-1,-1
 [END]
 
-;sufi=1030000005465
+;linzid=48982
 [POLYLINE]
 Type=0x6
 Label=AUGUSTA PL
@@ -16158,7 +16158,7 @@ Nod2=2,3310,0
 Numbers1=0,E,2,6,O,1,7
 [END]
 
-;sufi=1030000005454
+;linzid=48973
 [POLYLINE]
 Type=0x6
 Label=HOMESTEAD RD
@@ -16173,7 +16173,7 @@ Nod2=3,4223,0
 Numbers1=0,O,7,25,E,2,6
 [END]
 
-;sufi=1030000005711
+;linzid=49183
 [POLYLINE]
 Type=0x6
 Label=BUTLER RD
@@ -16187,7 +16187,7 @@ Nod2=2,4226,0
 Numbers1=0,O,19,1,E,24,4
 [END]
 
-;sufi=1030000005429
+;linzid=59876
 [POLYLINE]
 Type=0x6
 Label=ST ANDREWS PL
@@ -16201,7 +16201,7 @@ Nod2=1,3312,0
 Numbers1=0,E,2,6,O,3,7
 [END]
 
-;sufi=1030000199495
+;linzid=62122
 [POLYLINE]
 Type=0x6
 Label=OAKRIDGE DR
@@ -16215,7 +16215,7 @@ Nod2=7,3313,0
 Numbers1=0,O,1,31,E,2,2
 [END]
 
-;sufi=1030000055458
+;linzid=58769
 [POLYLINE]
 Type=0x6
 Label=VILLAGE CL
@@ -16228,7 +16228,7 @@ Nod1=0,1855,0
 Nod2=1,1856,0
 [END]
 
-;sufi=1030000055458
+;linzid=58769
 [POLYLINE]
 Type=0x6
 Label=VILLAGE CL
@@ -16241,7 +16241,7 @@ Nod1=0,1856,0
 Nod2=3,1858,0
 [END]
 
-;sufi=1030000005390
+;linzid=48921
 [POLYLINE]
 Type=0x6
 Label=LUDBROOK RD
@@ -16255,7 +16255,7 @@ Nod2=3,1884,0
 Numbers1=0,E,22,6,O,11,5
 [END]
 
-;sufi=1030000005390
+;linzid=48921
 [POLYLINE]
 Type=0xa
 Label=LUDBROOK RD
@@ -16269,7 +16269,7 @@ Nod2=4,1859,0
 Numbers1=0,E,88,24,O,87,29
 [END]
 
-;sufi=1030000005799
+;linzid=49257
 [POLYLINE]
 Type=0xa
 Label=CHERRINGTON RD
@@ -16283,7 +16283,7 @@ Nod2=5,3314,0
 Numbers1=0,N,-1,-1,E,12,34
 [END]
 
-;sufi=1030000005759
+;linzid=49223
 [POLYLINE]
 Type=0xa
 Label=NGAWHITU RD
@@ -16296,7 +16296,7 @@ Nod1=0,1826,0
 Nod2=2,3315,0
 [END]
 
-;sufi=1030000005650
+;linzid=49134
 [POLYLINE]
 Type=0xa
 Label=PARAHA RD
@@ -16310,7 +16310,7 @@ Nod2=10,1887,0
 Numbers1=0,O,25,25,N,-1,-1
 [END]
 
-;sufi=1030000003605
+;linzid=48289
 [POLYLINE]
 Type=0xa
 Label=POKAPU RD
@@ -16323,7 +16323,7 @@ Nod1=0,1860,0
 Nod2=9,1889,0
 [END]
 
-;sufi=1030000003605
+;linzid=48289
 [POLYLINE]
 Type=0xa
 Label=POKAPU RD
@@ -16336,7 +16336,7 @@ Nod1=0,1860,0
 Nod2=16,1876,0
 [END]
 
-;sufi=1030000001623
+;linzid=90882
 [POLYLINE]
 Type=0xa
 Label=PIPIWAI RD
@@ -16349,7 +16349,7 @@ Nod1=0,1843,0
 Nod2=1,1844,0
 [END]
 
-;sufi=1030000197027
+;linzid=61846
 [POLYLINE]
 Type=0x6
 Label=RIVER DR
@@ -16363,7 +16363,7 @@ Nod2=11,3317,0
 Numbers1=0,N,-1,-1,E,36,118
 [END]
 
-;sufi=1030000185578
+;linzid=59048
 [POLYLINE]
 Type=0x6
 Label=DOONSIDE RD
@@ -16377,7 +16377,7 @@ Nod2=2,1905,0
 Numbers1=0,E,48,8,O,47,15
 [END]
 
-;sufi=1030000005746
+;linzid=49213
 [POLYLINE]
 Type=0x6
 Label=TOTARA PL
@@ -16391,7 +16391,7 @@ Nod2=5,1913,0
 Numbers1=0,O,3,1,E,6,2
 [END]
 
-;sufi=1030000194783
+;linzid=59548
 [POLYLINE]
 Type=0x6
 Label=WATERS LANE
@@ -16405,7 +16405,7 @@ Nod2=4,1894,0
 Numbers1=0,O,3,17,E,10,4
 [END]
 
-;sufi=1030000005652
+;linzid=49136
 [POLYLINE]
 Type=0x6
 Label=PA RD
@@ -16420,7 +16420,7 @@ Nod3=12,4015,0
 Numbers1=0,E,94,4,O,89,13
 [END]
 
-;sufi=1030000000449
+;linzid=59678
 [POLYLINE]
 Type=0x6
 Label=JACARANDA PL
@@ -16434,7 +16434,7 @@ Nod2=8,1878,0
 Numbers1=0,E,40,2,O,25,1
 [END]
 
-;sufi=1030000005566
+;linzid=49065
 [POLYLINE]
 Type=0x6
 Label=DARWIN RD
@@ -16448,7 +16448,7 @@ Nod2=1,3323,0
 Numbers1=0,O,1,47,E,2,54
 [END]
 
-;sufi=1030000005631
+;linzid=49119
 [POLYLINE]
 Type=0x6
 Label=SHEPHERD RD
@@ -16461,7 +16461,7 @@ Nod1=0,3324,0
 Nod2=1,1883,0
 [END]
 
-;sufi=1030000005871
+;linzid=49314
 [POLYLINE]
 Type=0x6
 Label=WAKELIN RD
@@ -16475,7 +16475,7 @@ Nod2=19,1948,0
 Numbers1=0,O,95,149,E,42,236
 [END]
 
-;sufi=1030000005430
+;linzid=48954
 [POLYLINE]
 Type=0x6
 Label=SMITH RD
@@ -16488,7 +16488,7 @@ Nod1=0,1875,0
 Nod2=4,3325,0
 [END]
 
-;sufi=1030000005430
+;linzid=48954
 [POLYLINE]
 Type=0xa
 Label=SMITH RD
@@ -16502,7 +16502,7 @@ Nod2=12,1937,0
 Numbers1=0,E,138,128,O,187,5
 [END]
 
-;sufi=1030000005891
+;linzid=49328
 [POLYLINE]
 Type=0xa
 Label=MANGU RD
@@ -16516,7 +16516,7 @@ Nod2=2,3326,0
 Numbers1=0,N,-1,-1,E,72,72
 [END]
 
-;sufi=1030000003605
+;linzid=48289
 [POLYLINE]
 Type=0xa
 Label=POKAPU RD
@@ -16529,7 +16529,7 @@ Nod1=0,1889,0
 Nod2=9,1887,0
 [END]
 
-;sufi=1030000005562
+;linzid=49062
 [POLYLINE]
 Type=0xa
 Label=PERI RD
@@ -16543,7 +16543,7 @@ Nod2=12,4643,0
 Numbers1=0,N,-1,-1,E,36,36
 [END]
 
-;sufi=1030000005399
+;linzid=89587
 [POLYLINE]
 Type=0xa
 Label=MATAWAIA MAROMAKU RD
@@ -16557,7 +16557,7 @@ Nod2=18,1917,0
 Numbers1=0,E,1888,1888,N,-1,-1
 [END]
 
-;sufi=1030000005597
+;linzid=49090
 [POLYLINE]
 Type=0x6
 Label=WAIPAPA LANDING PL
@@ -16571,7 +16571,7 @@ Nod2=3,3327,0
 Numbers1=0,E,2,22,O,1,11
 [END]
 
-;sufi=1030000210584
+;linzid=62543
 [POLYLINE]
 Type=0x6
 Label=NEWTON WATTS DR
@@ -16585,7 +16585,7 @@ Nod2=8,3328,0
 Numbers1=0,O,1,23,E,2,24
 [END]
 
-;sufi=1030000005669
+;linzid=59906
 [POLYLINE]
 Type=0x6
 Label=SELWYN PL
@@ -16599,7 +16599,7 @@ Nod2=1,3329,0
 Numbers1=0,E,4,4,O,3,5
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x6
 Label=Accessway
@@ -16612,7 +16612,7 @@ Nod1=0,3330,0
 Nod2=1,1924,0
 [END]
 
-;sufi=1030000005534
+;linzid=49038
 [POLYLINE]
 Type=0x6
 Label=TUI PL
@@ -16626,7 +16626,7 @@ Nod2=1,1923,0
 Numbers1=0,O,3,3,E,6,2
 [END]
 
-;sufi=1030000005755
+;linzid=49220
 [POLYLINE]
 Type=0x6
 Label=RIVERVIEW RD
@@ -16640,7 +16640,7 @@ Nod2=5,1931,0
 Numbers1=0,E,2,114,O,1,59
 [END]
 
-;sufi=1030000005889
+;linzid=59938
 [POLYLINE]
 Type=0x6
 Label=MARSDEN PL
@@ -16654,7 +16654,7 @@ Nod2=1,4193,0
 Numbers1=0,O,3,3,E,6,2
 [END]
 
-;sufi=1030000000445
+;linzid=47818
 [POLYLINE]
 Type=0x6
 Label=JAMES KEMP PL
@@ -16668,7 +16668,7 @@ Nod2=5,3333,0
 Numbers1=0,O,1,29,E,2,24
 [END]
 
-;sufi=1030000005576
+;linzid=49072
 [POLYLINE]
 Type=0x6
 Label=BLACKS RD
@@ -16682,7 +16682,7 @@ Nod2=2,1939,0
 Numbers1=0,E,30,4,O,29,15
 [END]
 
-;sufi=1030000005640
+;linzid=49126
 [POLYLINE]
 Type=0xa
 Label=BLUEGUM RD
@@ -16694,7 +16694,7 @@ Nod1=0,3335,0
 Nod2=16,1960,0
 [END]
 
-;sufi=1030000005551
+;linzid=49051
 [POLYLINE]
 Type=0xa
 Label=PUKAWHAU RD
@@ -16706,7 +16706,7 @@ Nod1=0,3336,0
 Nod2=15,1958,0
 [END]
 
-;sufi=1030000005606
+;linzid=89606
 [POLYLINE]
 Type=0xa
 Label=OROMAHOE SCHOOL RD
@@ -16720,7 +16720,7 @@ Nod2=3,1941,0
 Numbers1=0,E,48,20,O,51,19
 [END]
 
-;sufi=1030000005399
+;linzid=89587
 [POLYLINE]
 Type=0xa
 Label=MATAWAIA MAROMAKU RD
@@ -16734,7 +16734,7 @@ Nod2=17,1935,0
 Numbers1=0,E,1762,1712,O,1791,1789
 [END]
 
-;sufi=1030000005489
+;linzid=48999
 [POLYLINE]
 Type=0xa
 Label=HEWITT RD
@@ -16747,7 +16747,7 @@ Nod1=0,3342,0
 Nod2=13,1955,0
 [END]
 
-;sufi=1030000005660
+;linzid=49143
 [POLYLINE]
 Type=0x6
 Label=PARETU DR
@@ -16761,7 +16761,7 @@ Nod2=2,3343,0
 Numbers1=0,O,25,35,E,36,8
 [END]
 
-;sufi=1030000005416
+;linzid=48941
 [POLYLINE]
 Type=0x6
 Label=REINGA RD
@@ -16775,7 +16775,7 @@ Nod2=4,1943,0
 Numbers1=0,E,62,76,O,73,79
 [END]
 
-;sufi=1030000005416
+;linzid=48941
 [POLYLINE]
 Type=0x6
 Label=REINGA RD
@@ -16789,7 +16789,7 @@ Nod2=3,3344,0
 Numbers1=0,E,82,96,O,81,91
 [END]
 
-;sufi=1030000189123
+;linzid=90825
 [POLYLINE]
 Type=0x6
 Label=AO MARAMA PL
@@ -16803,7 +16803,7 @@ Nod2=3,1953,0
 Numbers1=0,O,11,9,E,10,10
 [END]
 
-;sufi=1030000001072
+;linzid=89537
 [POLYLINE]
 Type=0x6
 Label=TITOKI PL
@@ -16816,7 +16816,7 @@ Nod1=0,1952,0
 Nod2=3,3346,0
 [END]
 
-;sufi=1030000000929
+;linzid=47944
 [POLYLINE]
 Type=0x6
 Label=THE LOOKOUT
@@ -16830,7 +16830,7 @@ Nod2=5,1943,0
 Numbers1=0,O,19,1,N,-1,-1
 [END]
 
-;sufi=1030000001071
+;linzid=59705
 [POLYLINE]
 Type=0x6
 Label=FULLER TCE
@@ -16844,7 +16844,7 @@ Nod2=7,1944,0
 Numbers1=0,O,17,3,E,32,2
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Walkway
@@ -16857,7 +16857,7 @@ Nod1=0,1945,0
 Nod2=1,3348,0
 [END]
 
-;sufi=1030000005416
+;linzid=48941
 [POLYLINE]
 Type=0x6
 Label=REINGA RD
@@ -16871,7 +16871,7 @@ Nod2=6,1944,0
 Numbers1=0,E,50,60,O,65,71
 [END]
 
-;sufi=1030000044592
+;linzid=58748
 [POLYLINE]
 Type=0x6
 Label=TASMAN PL
@@ -16885,7 +16885,7 @@ Nod2=3,3349,0
 Numbers1=0,O,1,7,E,2,14
 [END]
 
-;sufi=1030000005416
+;linzid=48941
 [POLYLINE]
 Type=0x6
 Label=REINGA RD
@@ -16899,7 +16899,7 @@ Nod2=11,1946,0
 Numbers1=0,E,2,46,O,1,59
 [END]
 
-;sufi=1030000206325
+;linzid=62356
 [POLYLINE]
 Type=0x6
 Label=HERON HILL
@@ -16913,7 +16913,7 @@ Nod2=4,3350,0
 Numbers1=0,E,2,18,O,1,13
 [END]
 
-;sufi=1030000005632
+;linzid=49120
 [POLYLINE]
 Type=0xa
 Label=SKYLINE RD
@@ -16925,7 +16925,7 @@ Nod1=0,1961,0
 Nod2=12,1958,0
 [END]
 
-;sufi=1030000005871
+;linzid=49314
 [POLYLINE]
 Type=0x6
 Label=WAKELIN RD
@@ -16938,7 +16938,7 @@ Nod1=0,1949,0
 Nod2=4,3351,0
 [END]
 
-;sufi=1030000005871
+;linzid=49314
 [POLYLINE]
 Type=0x6
 Label=WAKELIN RD
@@ -16951,7 +16951,7 @@ Nod1=0,1948,0
 Nod2=2,1949,0
 [END]
 
-;sufi=1030000005890
+;linzid=49327
 [POLYLINE]
 Type=0xa
 Label=MARSHALL RD
@@ -16964,7 +16964,7 @@ Nod1=0,1950,0
 Nod2=2,1957,0
 [END]
 
-;sufi=1030000005890
+;linzid=49327
 [POLYLINE]
 Type=0xa
 Label=MARSHALL RD
@@ -16978,7 +16978,7 @@ Nod2=14,1938,0
 Numbers1=0,E,88,42,O,55,55
 [END]
 
-;sufi=1030000005399
+;linzid=89587
 [POLYLINE]
 Type=0xa
 Label=MATAWAIA MAROMAKU RD
@@ -16991,7 +16991,7 @@ Nod1=0,1935,0
 Nod2=7,1940,0
 [END]
 
-;sufi=1030000001623
+;linzid=90882
 [POLYLINE]
 Type=0xa
 Label=PIPIWAI RD
@@ -17005,7 +17005,7 @@ Nod2=19,1940,0
 Numbers1=0,O,4955,4955,E,5006,5006
 [END]
 
-;sufi=1030000005779
+;linzid=59922
 [POLYLINE]
 Type=0xa
 Label=JAMES RD
@@ -17018,7 +17018,7 @@ Nod1=0,3353,0
 Nod2=6,1951,0
 [END]
 
-;sufi=1030000005421
+;linzid=48946
 [POLYLINE]
 Type=0x6
 Label=RANGITANE RD
@@ -17032,7 +17032,7 @@ Nod2=9,2005,0
 Numbers1=0,O,115,127,E,4,174
 [END]
 
-;sufi=1030000005679
+;linzid=49157
 [POLYLINE]
 Type=0xa
 Label=KURAPARI RD
@@ -17046,7 +17046,7 @@ Nod2=12,1982,0
 Numbers1=0,E,2,2,O,51,51
 [END]
 
-;sufi=1030000005726
+;linzid=49196
 [POLYLINE]
 Type=0x6
 Label=KERIKERI INLET RD
@@ -17059,7 +17059,7 @@ Nod1=0,1959,0
 Nod2=1,3355,0
 [END]
 
-;sufi=1030000005726
+;linzid=49196
 [POLYLINE]
 Type=0x5
 Label=KERIKERI INLET RD
@@ -17073,7 +17073,7 @@ Nod2=5,1989,0
 Numbers1=0,O,405,505,N,-1,-1
 [END]
 
-;sufi=1030000005726
+;linzid=49196
 [POLYLINE]
 Type=0x5
 Label=KERIKERI INLET RD
@@ -17086,7 +17086,7 @@ Nod1=0,1959,0
 Nod2=3,1973,0
 [END]
 
-;sufi=1030000005609
+;linzid=49100
 [POLYLINE]
 Type=0xa
 Label=TE WAIROA RD
@@ -17098,7 +17098,7 @@ Nod1=0,1973,0
 Nod2=8,1980,0
 [END]
 
-;sufi=1030000005609
+;linzid=49100
 [POLYLINE]
 Type=0xa
 Label=TE WAIROA RD
@@ -17110,7 +17110,7 @@ Nod1=0,1975,0
 Nod2=5,1980,0
 [END]
 
-;sufi=1030000005640
+;linzid=49126
 [POLYLINE]
 Type=0xa
 Label=BLUEGUM RD
@@ -17122,7 +17122,7 @@ Nod1=0,1960,0
 Nod2=2,1965,0
 [END]
 
-;sufi=1030000005609
+;linzid=49100
 [POLYLINE]
 Type=0xa
 Label=TE WAIROA RD
@@ -17134,7 +17134,7 @@ Nod1=0,1975,0
 Nod2=4,1984,0
 [END]
 
-;sufi=1030000005632
+;linzid=49120
 [POLYLINE]
 Type=0xa
 Label=SKYLINE RD
@@ -17146,7 +17146,7 @@ Nod1=0,1965,0
 Nod2=6,1975,0
 [END]
 
-;sufi=1030000005632
+;linzid=49120
 [POLYLINE]
 Type=0xa
 Label=SKYLINE RD
@@ -17158,7 +17158,7 @@ Nod1=0,1961,0
 Nod2=7,1965,0
 [END]
 
-;sufi=1030000005688
+;linzid=49164
 [POLYLINE]
 Type=0xa
 Label=KIWI NUI RD
@@ -17170,7 +17170,7 @@ Nod1=0,1961,0
 Nod2=8,3357,0
 [END]
 
-;sufi=1030000005632
+;linzid=49120
 [POLYLINE]
 Type=0xa
 Label=SKYLINE RD
@@ -17182,7 +17182,7 @@ Nod1=0,1958,0
 Nod2=13,1981,0
 [END]
 
-;sufi=1030000005795
+;linzid=49253
 [POLYLINE]
 Type=0xa
 Label=FLINTOFF RD
@@ -17194,7 +17194,7 @@ Nod1=0,3358,0
 Nod2=7,1981,0
 [END]
 
-;sufi=1030000185325
+;linzid=90382
 [POLYLINE]
 Type=0xa
 Label=PINEHILL RD
@@ -17208,7 +17208,7 @@ Nod2=16,3359,0
 Numbers1=0,O,13,41,E,38,50
 [END]
 
-;sufi=1030000005428
+;linzid=48953
 [POLYLINE]
 Type=0xa
 Label=SMEATH RD
@@ -17222,7 +17222,7 @@ Nod2=8,1985,0
 Numbers1=0,O,31,31,E,28,28
 [END]
 
-;sufi=1030000185327
+;linzid=59026
 [POLYLINE]
 Type=0xa
 Label=NGAHUHU RD
@@ -17236,7 +17236,7 @@ Nod2=8,1972,0
 Numbers1=0,E,60,60,O,55,7
 [END]
 
-;sufi=1030000005655
+;linzid=49138
 [POLYLINE]
 Type=0x5
 Label=OTIRIA RD
@@ -17250,7 +17250,7 @@ Nod2=2,1978,0
 Numbers1=0,E,252,252,O,235,231
 [END]
 
-;sufi=1030000185323
+;linzid=59025
 [POLYLINE]
 Type=0xa
 Label=POKERE RD
@@ -17264,7 +17264,7 @@ Nod2=2,1994,0
 Numbers1=0,N,-1,-1,E,58,60
 [END]
 
-;sufi=1030000005543
+;linzid=49045
 [POLYLINE]
 Type=0xa
 Label=RAKAIA RD
@@ -17277,7 +17277,7 @@ Nod1=0,3364,0
 Nod2=17,3365,1
 [END]
 
-;sufi=1030000003125
+;linzid=48241
 [POLYLINE]
 Type=0xa
 Label=MCINTYRE RD
@@ -17291,7 +17291,7 @@ Nod2=7,2063,0
 Numbers1=0,O,123,123,E,136,136
 [END]
 
-;sufi=1030000005655
+;linzid=49138
 [POLYLINE]
 Type=0x6
 Label=OTIRIA RD
@@ -17305,7 +17305,7 @@ Nod2=2,2033,0
 Numbers1=0,O,13,1,E,10,2
 [END]
 
-;sufi=1030000005413
+;linzid=48938
 [POLYLINE]
 Type=0x6
 Label=RANFURLY ST
@@ -17319,7 +17319,7 @@ Nod2=1,2032,0
 Numbers1=0,O,5,5,N,-1,-1
 [END]
 
-;sufi=1030000005544
+;linzid=49046
 [POLYLINE]
 Type=0x6
 Label=PURERUA RD
@@ -17333,7 +17333,7 @@ Nod2=1,4630,0
 Numbers1=0,O,935,953,N,-1,-1
 [END]
 
-;sufi=1030000005421
+;linzid=48946
 [POLYLINE]
 Type=0x6
 Label=RANGITANE RD
@@ -17347,7 +17347,7 @@ Nod2=9,2005,0
 Numbers1=0,E,238,174,O,221,175
 [END]
 
-;sufi=1030000189525
+;linzid=59191
 [POLYLINE]
 Type=0x6
 Label=RANGITANE LOOP RD
@@ -17361,7 +17361,7 @@ Nod2=6,1998,0
 Numbers1=0,O,67,73,N,-1,-1
 [END]
 
-;sufi=1030000001648
+;linzid=48074
 [POLYLINE]
 Type=0x6
 Label=POUNAMU PL
@@ -17375,7 +17375,7 @@ Nod2=1,3366,0
 Numbers1=0,O,1,9,E,4,8
 [END]
 
-;sufi=1030000189525
+;linzid=59191
 [POLYLINE]
 Type=0x6
 Label=RANGITANE LOOP RD
@@ -17388,7 +17388,7 @@ Nod1=0,1997,0
 Nod2=5,1998,0
 [END]
 
-;sufi=1030000005578
+;linzid=49073
 [POLYLINE]
 Type=0xa
 Label=BEDFORD RD
@@ -17400,7 +17400,7 @@ Nod1=0,1980,0
 Nod2=5,1989,0
 [END]
 
-;sufi=1030000005434
+;linzid=59877
 [POLYLINE]
 Type=0xa
 Label=SWAMP RD
@@ -17412,7 +17412,7 @@ Nod1=0,1984,0
 Nod2=54,3367,0
 [END]
 
-;sufi=1030000005609
+;linzid=49100
 [POLYLINE]
 Type=0xa
 Label=TE WAIROA RD
@@ -17424,7 +17424,7 @@ Nod1=0,1984,0
 Nod2=19,2023,0
 [END]
 
-;sufi=1030000005632
+;linzid=49120
 [POLYLINE]
 Type=0xa
 Label=SKYLINE RD
@@ -17436,7 +17436,7 @@ Nod1=0,1981,0
 Nod2=1,1990,0
 [END]
 
-;sufi=1030000005567
+;linzid=49066
 [POLYLINE]
 Type=0xa
 Label=DIESEL RD
@@ -17448,7 +17448,7 @@ Nod1=0,1990,0
 Nod2=14,2024,0
 [END]
 
-;sufi=1030000203280
+;linzid=62287
 [POLYLINE]
 Type=0x6
 Label=PUKETUTU DR
@@ -17462,7 +17462,7 @@ Nod2=5,3368,0
 Numbers1=0,O,3,19,E,6,6
 [END]
 
-;sufi=1030000005622
+;linzid=49110
 [POLYLINE]
 Type=0x6
 Label=HUPARA RD
@@ -17476,7 +17476,7 @@ Nod2=6,1986,0
 Numbers1=0,O,347,349,N,-1,-1
 [END]
 
-;sufi=1030000005622
+;linzid=49110
 [POLYLINE]
 Type=0xa
 Label=HUPARA RD
@@ -17489,7 +17489,7 @@ Nod1=0,1986,0
 Nod2=1,1992,0
 [END]
 
-;sufi=1030000005658
+;linzid=49141
 [POLYLINE]
 Type=0x6
 Label=OTIRIA STATION RD
@@ -17502,7 +17502,7 @@ Nod1=0,1993,0
 Nod2=2,3369,0
 [END]
 
-;sufi=1030000005655
+;linzid=49138
 [POLYLINE]
 Type=0x5
 Label=OTIRIA RD
@@ -17515,7 +17515,7 @@ Nod1=0,1993,0
 Nod2=2,2003,0
 [END]
 
-;sufi=1030000005655
+;linzid=49138
 [POLYLINE]
 Type=0x5
 Label=OTIRIA RD
@@ -17528,7 +17528,7 @@ Nod1=0,2012,0
 Nod2=1,2006,0
 [END]
 
-;sufi=1030000005655
+;linzid=49138
 [POLYLINE]
 Type=0x5
 Label=OTIRIA RD
@@ -17542,7 +17542,7 @@ Nod2=1,2008,0
 Numbers1=0,E,124,114,O,115,113
 [END]
 
-;sufi=1030000002880
+;linzid=48215
 [POLYLINE]
 Type=0xa
 Label=KUPA RD
@@ -17555,7 +17555,7 @@ Nod1=0,2000,0
 Nod2=12,2020,0
 [END]
 
-;sufi=1030000005887
+;linzid=49325
 [POLYLINE]
 Type=0xa
 Label=MARTIN RD
@@ -17569,7 +17569,7 @@ Nod2=17,3370,0
 Numbers1=0,O,43,125,N,-1,-1
 [END]
 
-;sufi=1030000005827
+;linzid=49280
 [POLYLINE]
 Type=0xa
 Label=OPAHI RD
@@ -17583,7 +17583,7 @@ Nod2=8,2000,0
 Numbers1=0,O,79,137,N,-1,-1
 [END]
 
-;sufi=1030000005827
+;linzid=49280
 [POLYLINE]
 Type=0xa
 Label=OPAHI RD
@@ -17596,7 +17596,7 @@ Nod1=0,1994,0
 Nod2=5,1995,0
 [END]
 
-;sufi=1030000005399
+;linzid=89587
 [POLYLINE]
 Type=0xa
 Label=MATAWAIA MAROMAKU RD
@@ -17610,7 +17610,7 @@ Nod2=77,2084,0
 Numbers1=0,E,946,946,O,1037,917
 [END]
 
-;sufi=1030000005775
+;linzid=59921
 [POLYLINE]
 Type=0xa
 Label=KAHUWERA RD
@@ -17623,7 +17623,7 @@ Nod1=0,2002,0
 Nod2=18,2066,0
 [END]
 
-;sufi=1030000005775
+;linzid=59921
 [POLYLINE]
 Type=0xa
 Label=KAHUWERA RD
@@ -17636,7 +17636,7 @@ Nod1=0,3371,1
 Nod2=8,2002,0
 [END]
 
-;sufi=1030000005867
+;linzid=49310
 [POLYLINE]
 Type=0xa
 Label=WAITAKI RD
@@ -17649,7 +17649,7 @@ Nod1=0,2002,0
 Nod2=10,3372,1
 [END]
 
-;sufi=1030000005786
+;linzid=49244
 [POLYLINE]
 Type=0xa
 Label=FURNESS RD
@@ -17661,7 +17661,7 @@ Nod1=0,2023,0
 Nod2=21,2047,0
 [END]
 
-;sufi=1030000005448
+;linzid=48967
 [POLYLINE]
 Type=0xa
 Label=HORN RD
@@ -17673,7 +17673,7 @@ Nod1=0,2024,0
 Nod2=10,2047,0
 [END]
 
-;sufi=1030000005609
+;linzid=49100
 [POLYLINE]
 Type=0xa
 Label=TE WAIROA RD
@@ -17685,7 +17685,7 @@ Nod1=0,2023,0
 Nod2=6,2024,0
 [END]
 
-;sufi=1030000005609
+;linzid=49100
 [POLYLINE]
 Type=0xa
 Label=TE WAIROA RD
@@ -17697,7 +17697,7 @@ Nod1=0,2024,0
 Nod2=21,2083,0
 [END]
 
-;sufi=1030000005561
+;linzid=49061
 [POLYLINE]
 Type=0x6
 Label=PEMBROKE ST
@@ -17711,7 +17711,7 @@ Nod2=2,2038,0
 Numbers1=0,E,4,16,O,7,15
 [END]
 
-;sufi=1030000005874
+;linzid=49316
 [POLYLINE]
 Type=0x6
 Label=PLUNKET ST
@@ -17725,7 +17725,7 @@ Nod2=2,2048,0
 Numbers1=0,E,2,14,O,1,15
 [END]
 
-;sufi=1030000005757
+;linzid=49221
 [POLYLINE]
 Type=0x6
 Label=NISBET ST
@@ -17739,7 +17739,7 @@ Nod2=3,2026,0
 Numbers1=0,E,2,2,O,1,7
 [END]
 
-;sufi=1030000005413
+;linzid=48938
 [POLYLINE]
 Type=0x6
 Label=RANFURLY ST
@@ -17753,7 +17753,7 @@ Nod2=1,2053,0
 Numbers1=0,O,3,1,N,-1,-1
 [END]
 
-;sufi=1030000005561
+;linzid=49061
 [POLYLINE]
 Type=0x6
 Label=PEMBROKE ST
@@ -17767,7 +17767,7 @@ Nod2=1,2033,0
 Numbers1=0,E,2,2,O,1,1
 [END]
 
-;sufi=1030000005398
+;linzid=59872
 [POLYLINE]
 Type=0x6
 Label=MASSEY ST
@@ -17781,7 +17781,7 @@ Nod2=1,2032,0
 Numbers1=0,E,2,12,O,1,11
 [END]
 
-;sufi=1030000005894
+;linzid=49331
 [POLYLINE]
 Type=0x6
 Label=MARSHALL ST
@@ -17794,7 +17794,7 @@ Nod1=0,3374,0
 Nod2=1,2035,0
 [END]
 
-;sufi=1030000005655
+;linzid=49138
 [POLYLINE]
 Type=0x6
 Label=OTIRIA RD
@@ -17808,7 +17808,7 @@ Nod2=2,2026,0
 Numbers1=0,O,51,25,E,48,24
 [END]
 
-;sufi=1030000005655
+;linzid=49138
 [POLYLINE]
 Type=0x6
 Label=OTIRIA RD
@@ -17822,7 +17822,7 @@ Nod2=1,2034,0
 Numbers1=0,O,21,15,E,18,12
 [END]
 
-;sufi=1030000005894
+;linzid=49331
 [POLYLINE]
 Type=0x6
 Label=MARSHALL ST
@@ -17836,7 +17836,7 @@ Nod2=1,2036,0
 Numbers1=0,O,1,1,E,2,2
 [END]
 
-;sufi=1030000005584
+;linzid=49077
 [POLYLINE]
 Type=0x6
 Label=WYNYARD ST
@@ -17849,7 +17849,7 @@ Nod1=0,2029,0
 Nod2=3,2027,0
 [END]
 
-;sufi=1030000005413
+;linzid=48938
 [POLYLINE]
 Type=0x6
 Label=RANFURLY ST
@@ -17863,7 +17863,7 @@ Nod2=2,2037,0
 Numbers1=0,O,25,7,E,8,2
 [END]
 
-;sufi=1030000005731
+;linzid=49201
 [POLYLINE]
 Type=0x6
 Label=WILLIAMS ST
@@ -17876,7 +17876,7 @@ Nod1=0,2038,0
 Nod2=1,2048,0
 [END]
 
-;sufi=1030000005655
+;linzid=49138
 [POLYLINE]
 Type=0x5
 Label=OTIRIA RD
@@ -17890,7 +17890,7 @@ Nod2=2,2028,0
 Numbers1=0,O,69,53,E,64,50
 [END]
 
-;sufi=1030000005655
+;linzid=49138
 [POLYLINE]
 Type=0x5
 Label=OTIRIA RD
@@ -17904,7 +17904,7 @@ Nod2=1,2014,0
 Numbers1=0,O,87,71,E,70,66
 [END]
 
-;sufi=1030000005427
+;linzid=48952
 [POLYLINE]
 Type=0x6
 Label=SNOWDON AVE
@@ -17917,7 +17917,7 @@ Nod1=0,2016,0
 Nod2=1,2028,0
 [END]
 
-;sufi=1030000005427
+;linzid=48952
 [POLYLINE]
 Type=0x6
 Label=SNOWDON AVE
@@ -17931,7 +17931,7 @@ Nod2=1,2015,0
 Numbers1=0,E,4,12,O,1,11
 [END]
 
-;sufi=1030000005427
+;linzid=48952
 [POLYLINE]
 Type=0x6
 Label=SNOWDON AVE
@@ -17945,7 +17945,7 @@ Nod2=2,2016,0
 Numbers1=0,E,12,22,O,13,21
 [END]
 
-;sufi=1030000005624
+;linzid=49112
 [POLYLINE]
 Type=0x6
 Label=SIR JAMES HENARE PL
@@ -17958,7 +17958,7 @@ Nod1=0,2037,0
 Nod2=1,2039,0
 [END]
 
-;sufi=1030000005624
+;linzid=49112
 [POLYLINE]
 Type=0x6
 Label=SIR JAMES HENARE PL
@@ -17972,7 +17972,7 @@ Nod2=2,3376,0
 Numbers1=0,E,2,14,O,1,11
 [END]
 
-;sufi=1030000005561
+;linzid=49061
 [POLYLINE]
 Type=0x6
 Label=PEMBROKE ST
@@ -17985,7 +17985,7 @@ Nod1=0,2038,0
 Nod2=1,2041,0
 [END]
 
-;sufi=1030000005401
+;linzid=48930
 [POLYLINE]
 Type=0x6
 Label=MASON AVE
@@ -17999,7 +17999,7 @@ Nod2=3,2029,0
 Numbers1=0,O,51,23,E,52,24
 [END]
 
-;sufi=1030000005584
+;linzid=49077
 [POLYLINE]
 Type=0x6
 Label=WYNYARD ST
@@ -18013,7 +18013,7 @@ Nod2=3,2029,0
 Numbers1=0,O,11,5,E,14,8
 [END]
 
-;sufi=1030000005401
+;linzid=48930
 [POLYLINE]
 Type=0x6
 Label=MASON AVE
@@ -18026,7 +18026,7 @@ Nod1=0,2040,0
 Nod2=1,2035,0
 [END]
 
-;sufi=1030000005401
+;linzid=48930
 [POLYLINE]
 Type=0x6
 Label=MASON AVE
@@ -18040,7 +18040,7 @@ Nod2=1,2040,0
 Numbers1=0,O,21,1,E,22,2
 [END]
 
-;sufi=1030000005386
+;linzid=48918
 [POLYLINE]
 Type=0x6
 Label=LUCAS RD
@@ -18053,7 +18053,7 @@ Nod1=0,2018,0
 Nod2=1,3379,0
 [END]
 
-;sufi=1030000005655
+;linzid=49138
 [POLYLINE]
 Type=0x5
 Label=OTIRIA RD
@@ -18067,7 +18067,7 @@ Nod2=1,2017,0
 Numbers1=0,O,103,89,N,-1,-1
 [END]
 
-;sufi=1030000005734
+;linzid=59915
 [POLYLINE]
 Type=0x6
 Label=WILLOW BROOK RD
@@ -18081,7 +18081,7 @@ Nod2=2,2007,0
 Numbers1=0,O,9,1,E,8,2
 [END]
 
-;sufi=1030000005655
+;linzid=49138
 [POLYLINE]
 Type=0x5
 Label=OTIRIA RD
@@ -18095,7 +18095,7 @@ Nod2=1,2007,0
 Numbers1=0,O,109,105,N,-1,-1
 [END]
 
-;sufi=1030000005386
+;linzid=48918
 [POLYLINE]
 Type=0x6
 Label=LUCAS RD
@@ -18108,7 +18108,7 @@ Nod1=0,2017,0
 Nod2=1,2018,0
 [END]
 
-;sufi=1030000002880
+;linzid=48215
 [POLYLINE]
 Type=0xa
 Label=KUPA RD
@@ -18122,7 +18122,7 @@ Nod2=5,2020,0
 Numbers1=0,E,164,164,N,-1,-1
 [END]
 
-;sufi=1030000005831
+;linzid=49283
 [POLYLINE]
 Type=0xa
 Label=OKARORO RD
@@ -18135,7 +18135,7 @@ Nod1=0,3382,0
 Nod2=63,2085,0
 [END]
 
-;sufi=1030000016247
+;linzid=55704
 [POLYLINE]
 Type=0xa
 Label=PATUTAHI RD
@@ -18149,7 +18149,7 @@ Nod2=7,2071,0
 Nod3=11,2066,0
 [END]
 
-;sufi=1030000001173
+;linzid=91027
 [POLYLINE]
 Type=0xa
 Label=BUSH POINT RD
@@ -18163,7 +18163,7 @@ Nod2=7,2077,0
 Numbers1=0,E,2,12,O,23,1
 [END]
 
-;sufi=1030000005726
+;linzid=49196
 [POLYLINE]
 Type=0x5
 Label=KERIKERI INLET RD
@@ -18177,7 +18177,7 @@ Nod2=8,2082,0
 Numbers1=0,O,769,797,N,-1,-1
 [END]
 
-;sufi=1030000184397
+;linzid=58990
 [POLYLINE]
 Type=0x6
 Label=DAVIS STRONGMAN PL
@@ -18191,7 +18191,7 @@ Nod2=4,2074,0
 Numbers1=0,E,64,2,O,37,3
 [END]
 
-;sufi=1030000005786
+;linzid=49244
 [POLYLINE]
 Type=0xa
 Label=FURNESS RD
@@ -18203,7 +18203,7 @@ Nod1=0,2047,0
 Nod2=2,3386,0
 [END]
 
-;sufi=1030000003125
+;linzid=48241
 [POLYLINE]
 Type=0xa
 Label=MCINTYRE RD
@@ -18217,7 +18217,7 @@ Nod2=16,2079,0
 Numbers1=0,O,199,325,E,378,378
 [END]
 
-;sufi=1030000005400
+;linzid=48929
 [POLYLINE]
 Type=0xa
 Label=MCDONALD RD
@@ -18231,7 +18231,7 @@ Nod2=11,3387,0
 Numbers1=0,O,117,117,E,62,114
 [END]
 
-;sufi=1030000005561
+;linzid=49061
 [POLYLINE]
 Type=0x6
 Label=PEMBROKE ST
@@ -18245,7 +18245,7 @@ Nod2=1,2052,0
 Numbers1=0,E,38,40,O,39,49
 [END]
 
-;sufi=1030000005625
+;linzid=49113
 [POLYLINE]
 Type=0x6
 Label=SIR WILLIAM HALE CRES
@@ -18259,7 +18259,7 @@ Nod2=1,2070,0
 Numbers1=0,E,14,20,O,11,21
 [END]
 
-;sufi=1030000005681
+;linzid=49158
 [POLYLINE]
 Type=0x6
 Label=LEAITY ST
@@ -18273,7 +18273,7 @@ Nod2=2,2050,0
 Numbers1=0,E,2,12,O,1,13
 [END]
 
-;sufi=1030000005681
+;linzid=49158
 [POLYLINE]
 Type=0x6
 Label=LEAITY ST
@@ -18287,7 +18287,7 @@ Nod2=1,2064,0
 Numbers1=0,E,14,32,O,15,35
 [END]
 
-;sufi=1030000005495
+;linzid=49005
 [POLYLINE]
 Type=0x6
 Label=FACTORY RD
@@ -18300,7 +18300,7 @@ Nod1=0,2067,0
 Nod2=2,2075,0
 [END]
 
-;sufi=1030000005495
+;linzid=49005
 [POLYLINE]
 Type=0x6
 Label=FACTORY RD
@@ -18313,7 +18313,7 @@ Nod1=0,2076,0
 Nod2=2,2075,0
 [END]
 
-;sufi=1030000005408
+;linzid=48935
 [POLYLINE]
 Type=0x6
 Label=REED ST
@@ -18326,7 +18326,7 @@ Nod1=0,2064,0
 Nod2=3,2067,0
 [END]
 
-;sufi=1030000005874
+;linzid=49316
 [POLYLINE]
 Type=0x6
 Label=PLUNKET ST
@@ -18340,7 +18340,7 @@ Nod2=2,2051,0
 Numbers1=0,E,16,34,O,17,35
 [END]
 
-;sufi=1030000005625
+;linzid=49113
 [POLYLINE]
 Type=0x6
 Label=SIR WILLIAM HALE CRES
@@ -18353,7 +18353,7 @@ Nod1=0,2073,0
 Nod2=2,2068,0
 [END]
 
-;sufi=1030000005495
+;linzid=49005
 [POLYLINE]
 Type=0x6
 Label=FACTORY RD
@@ -18366,7 +18366,7 @@ Nod1=0,2068,0
 Nod2=2,2076,0
 [END]
 
-;sufi=1030000005408
+;linzid=48935
 [POLYLINE]
 Type=0x6
 Label=REED ST
@@ -18379,7 +18379,7 @@ Nod1=0,2051,0
 Nod2=1,2064,0
 [END]
 
-;sufi=1030000005437
+;linzid=59878
 [POLYLINE]
 Type=0x6
 Label=STRINGERS RD
@@ -18392,7 +18392,7 @@ Nod1=0,2052,0
 Nod2=5,3388,0
 [END]
 
-;sufi=1030000005441
+;linzid=48962
 [POLYLINE]
 Type=0x6
 Label=STATION RD
@@ -18405,7 +18405,7 @@ Nod1=0,2069,0
 Nod2=1,2067,0
 [END]
 
-;sufi=1030000005408
+;linzid=48935
 [POLYLINE]
 Type=0x6
 Label=REED ST
@@ -18419,7 +18419,7 @@ Nod2=1,2051,0
 Numbers1=0,O,1,1,N,-1,-1
 [END]
 
-;sufi=1030000005625
+;linzid=49113
 [POLYLINE]
 Type=0x6
 Label=SIR WILLIAM HALE CRES
@@ -18433,7 +18433,7 @@ Nod2=2,2068,0
 Numbers1=0,E,22,32,O,23,33
 [END]
 
-;sufi=1030000005441
+;linzid=48962
 [POLYLINE]
 Type=0x6
 Label=STATION RD
@@ -18447,7 +18447,7 @@ Nod2=1,2069,0
 Numbers1=0,E,2,10,O,1,1
 [END]
 
-;sufi=1030000005561
+;linzid=49061
 [POLYLINE]
 Type=0x6
 Label=PEMBROKE ST
@@ -18461,7 +18461,7 @@ Nod2=1,2053,0
 Numbers1=0,E,18,20,O,19,21
 [END]
 
-;sufi=1030000005561
+;linzid=49061
 [POLYLINE]
 Type=0x6
 Label=PEMBROKE ST
@@ -18475,7 +18475,7 @@ Nod2=1,2057,0
 Numbers1=0,E,36,36,O,35,35
 [END]
 
-;sufi=1030000005561
+;linzid=49061
 [POLYLINE]
 Type=0x6
 Label=PEMBROKE ST
@@ -18488,7 +18488,7 @@ Nod1=0,2053,0
 Nod2=1,2055,0
 [END]
 
-;sufi=1030000005561
+;linzid=49061
 [POLYLINE]
 Type=0x6
 Label=PEMBROKE ST
@@ -18502,7 +18502,7 @@ Nod2=1,2056,0
 Numbers1=0,E,24,34,O,23,33
 [END]
 
-;sufi=1030000005731
+;linzid=49201
 [POLYLINE]
 Type=0x6
 Label=WILLIAMS ST
@@ -18515,7 +18515,7 @@ Nod1=0,2059,0
 Nod2=2,2050,0
 [END]
 
-;sufi=1030000005731
+;linzid=49201
 [POLYLINE]
 Type=0x6
 Label=WILLIAMS ST
@@ -18528,7 +18528,7 @@ Nod1=0,2048,0
 Nod2=1,2059,0
 [END]
 
-;sufi=1030000005498
+;linzid=49008
 [POLYLINE]
 Type=0xa
 Label=MOHAKA RD
@@ -18541,7 +18541,7 @@ Nod1=0,2071,0
 Nod2=8,3389,1
 [END]
 
-;sufi=1030000016247
+;linzid=55704
 [POLYLINE]
 Type=0xa
 Label=PATUTAHI RD
@@ -18554,7 +18554,7 @@ Nod1=0,2066,0
 Nod2=6,2098,0
 [END]
 
-;sufi=1030000189529
+;linzid=59193
 [POLYLINE]
 Type=0x6
 Label=YACHT DR
@@ -18568,7 +18568,7 @@ Nod2=5,2086,0
 Numbers1=0,E,14,6,O,25,1
 [END]
 
-;sufi=1030000001079
+;linzid=47982
 [POLYLINE]
 Type=0xa
 Label=ANCHORAGE HEIGHTS PL
@@ -18581,7 +18581,7 @@ Nod1=0,3391,0
 Nod2=1,2092,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Walkway
@@ -18594,7 +18594,7 @@ Nod1=0,2092,0
 Nod2=2,3392,0
 [END]
 
-;sufi=1030000001079
+;linzid=47982
 [POLYLINE]
 Type=0x6
 Label=ANCHORAGE HEIGHTS PL
@@ -18608,7 +18608,7 @@ Nod2=3,2093,0
 Numbers1=0,E,6,2,O,5,1
 [END]
 
-;sufi=1030000005851
+;linzid=59932
 [POLYLINE]
 Type=0x6
 Label=OPITO BAY RD
@@ -18622,7 +18622,7 @@ Nod2=2,2093,0
 Numbers1=0,O,317,317,N,-1,-1
 [END]
 
-;sufi=1030000005851
+;linzid=59932
 [POLYLINE]
 Type=0x6
 Label=OPITO BAY RD
@@ -18635,7 +18635,7 @@ Nod1=0,2077,0
 Nod2=3,2080,0
 [END]
 
-;sufi=1030000005851
+;linzid=59932
 [POLYLINE]
 Type=0x6
 Label=OPITO BAY RD
@@ -18648,7 +18648,7 @@ Nod1=0,2080,0
 Nod2=1,2086,0
 [END]
 
-;sufi=1030000005644
+;linzid=49129
 [POLYLINE]
 Type=0x6
 Label=DOVES BAY RD
@@ -18662,7 +18662,7 @@ Nod2=1,3395,0
 Numbers1=0,O,97,99,E,92,96
 [END]
 
-;sufi=1030000005644
+;linzid=49129
 [POLYLINE]
 Type=0x6
 Label=DOVES BAY RD
@@ -18676,7 +18676,7 @@ Nod2=7,2087,0
 Numbers1=0,O,1,95,E,2,90
 [END]
 
-;sufi=1030000005726
+;linzid=49196
 [POLYLINE]
 Type=0xa
 Label=KERIKERI INLET RD
@@ -18690,7 +18690,7 @@ Nod2=13,3396,0
 Numbers1=0,O,915,967,E,944,970
 [END]
 
-;sufi=1030000005700
+;linzid=59910
 [POLYLINE]
 Type=0x6
 Label=WHARAU RD
@@ -18704,7 +18704,7 @@ Nod2=6,2106,0
 Numbers1=0,O,25,93,E,12,50
 [END]
 
-;sufi=1030000005805
+;linzid=49261
 [POLYLINE]
 Type=0xa
 Label=BAYLEY RD
@@ -18716,7 +18716,7 @@ Nod1=0,2088,0
 Nod2=18,2113,0
 [END]
 
-;sufi=1030000005604
+;linzid=49096
 [POLYLINE]
 Type=0xa
 Label=TE PUKE RD
@@ -18728,7 +18728,7 @@ Nod1=0,2083,0
 Nod2=2,2090,0
 [END]
 
-;sufi=1030000005391
+;linzid=48922
 [POLYLINE]
 Type=0xa
 Label=LOOP RD
@@ -18740,7 +18740,7 @@ Nod1=0,2088,0
 Nod2=3,2094,0
 [END]
 
-;sufi=1030000005609
+;linzid=49100
 [POLYLINE]
 Type=0xa
 Label=TE WAIROA RD
@@ -18752,7 +18752,7 @@ Nod1=0,2089,0
 Nod2=1,2094,0
 [END]
 
-;sufi=1030000005609
+;linzid=49100
 [POLYLINE]
 Type=0xa
 Label=TE WAIROA RD
@@ -18764,7 +18764,7 @@ Nod1=0,2083,0
 Nod2=2,2089,0
 [END]
 
-;sufi=1030000005609
+;linzid=49100
 [POLYLINE]
 Type=0xa
 Label=TE WAIROA RD
@@ -18776,7 +18776,7 @@ Nod1=0,2094,0
 Nod2=7,2113,0
 [END]
 
-;sufi=1030000005391
+;linzid=48922
 [POLYLINE]
 Type=0xa
 Label=LOOP RD
@@ -18788,7 +18788,7 @@ Nod1=0,2088,0
 Nod2=14,2089,0
 [END]
 
-;sufi=1030000005384
+;linzid=48916
 [POLYLINE]
 Type=0xa
 Label=LOOKOUT RD
@@ -18800,7 +18800,7 @@ Nod1=0,2090,0
 Nod2=7,3397,0
 [END]
 
-;sufi=1030000005632
+;linzid=49120
 [POLYLINE]
 Type=0xa
 Label=SKYLINE RD
@@ -18812,7 +18812,7 @@ Nod1=0,2091,0
 Nod2=8,2100,0
 [END]
 
-;sufi=1030000005604
+;linzid=49096
 [POLYLINE]
 Type=0xa
 Label=TE PUKE RD
@@ -18824,7 +18824,7 @@ Nod1=0,2090,0
 Nod2=8,2100,0
 [END]
 
-;sufi=1030000005866
+;linzid=49309
 [POLYLINE]
 Type=0xa
 Label=WAKELIN RD
@@ -18836,7 +18836,7 @@ Nod1=0,2091,0
 Nod2=5,3398,0
 [END]
 
-;sufi=1030000005858
+;linzid=49301
 [POLYLINE]
 Type=0x6
 Label=SAIES RD
@@ -18849,7 +18849,7 @@ Nod1=0,2099,0
 Nod2=1,2095,0
 [END]
 
-;sufi=1030000005858
+;linzid=49301
 [POLYLINE]
 Type=0x6
 Label=SAIES RD
@@ -18862,7 +18862,7 @@ Nod1=0,2095,0
 Nod2=1,2096,0
 [END]
 
-;sufi=1030000005858
+;linzid=49301
 [POLYLINE]
 Type=0x6
 Label=SAIES RD
@@ -18875,7 +18875,7 @@ Nod1=0,2096,0
 Nod2=1,3399,0
 [END]
 
-;sufi=1030000005771
+;linzid=49233
 [POLYLINE]
 Type=0xa
 Label=MILL RD
@@ -18889,7 +18889,7 @@ Nod2=20,2130,0
 Numbers1=0,E,362,362,O,337,337
 [END]
 
-;sufi=1030000184054
+;linzid=58979
 [POLYLINE]
 Type=0xa
 Label=WEKATAPAPA ROADWAY
@@ -18902,7 +18902,7 @@ Nod1=0,2110,0
 Nod2=14,3401,0
 [END]
 
-;sufi=1030000005491
+;linzid=49001
 [POLYLINE]
 Type=0xa
 Label=HENARE RD
@@ -18916,7 +18916,7 @@ Nod2=10,2097,0
 Numbers1=0,O,97,103,E,18,18
 [END]
 
-;sufi=1030000005399
+;linzid=89587
 [POLYLINE]
 Type=0xa
 Label=MATAWAIA MAROMAKU RD
@@ -18930,7 +18930,7 @@ Nod2=5,2097,0
 Numbers1=0,E,848,846,N,-1,-1
 [END]
 
-;sufi=1030000005399
+;linzid=89587
 [POLYLINE]
 Type=0xa
 Label=MATAWAIA MAROMAKU RD
@@ -18943,7 +18943,7 @@ Nod1=0,2097,0
 Nod2=7,2101,0
 [END]
 
-;sufi=1030000004388
+;linzid=48354
 [POLYLINE]
 Type=0xa
 Label=TIPENE RD
@@ -18957,7 +18957,7 @@ Nod2=28,2101,0
 Numbers1=0,E,160,74,O,57,9
 [END]
 
-;sufi=1030000003654
+;linzid=48296
 [POLYLINE]
 Type=0xa
 Label=PUHITIA RD
@@ -18970,7 +18970,7 @@ Nod1=0,3402,0
 Nod2=1,2085,0
 [END]
 
-;sufi=1030000003654
+;linzid=48296
 [POLYLINE]
 Type=0xa
 Label=PUHITIA RD
@@ -18983,7 +18983,7 @@ Nod1=0,2085,0
 Nod2=13,2102,0
 [END]
 
-;sufi=1030000016247
+;linzid=55704
 [POLYLINE]
 Type=0xa
 Label=PATUTAHI RD
@@ -18996,7 +18996,7 @@ Nod1=0,2098,0
 Nod2=5,2111,0
 [END]
 
-;sufi=1030000005496
+;linzid=49006
 [POLYLINE]
 Type=0x6
 Label=MOTU RD
@@ -19009,7 +19009,7 @@ Nod1=0,3403,1
 Nod2=4,3404,1
 [END]
 
-;sufi=1030000005417
+;linzid=48942
 [POLYLINE]
 Type=0xa
 Label=RANGIHOUA RD
@@ -19022,7 +19022,7 @@ Nod1=0,2103,0
 Nod2=22,2203,0
 [END]
 
-;sufi=1030000005544
+;linzid=49046
 [POLYLINE]
 Type=0xa
 Label=PURERUA RD
@@ -19036,7 +19036,7 @@ Nod2=11,2114,0
 Numbers1=0,O,1519,1549,E,1454,1454
 [END]
 
-;sufi=1030000005769
+;linzid=49232
 [POLYLINE]
 Type=0xa
 Label=MCKENZIE RD
@@ -19050,7 +19050,7 @@ Nod2=2,2114,0
 Numbers1=0,E,40,40,N,-1,-1
 [END]
 
-;sufi=1030000005769
+;linzid=49232
 [POLYLINE]
 Type=0xa
 Label=MCKENZIE RD
@@ -19063,7 +19063,7 @@ Nod1=0,2104,0
 Nod2=1,3405,0
 [END]
 
-;sufi=1030000005769
+;linzid=49232
 [POLYLINE]
 Type=0xa
 Label=MCKENZIE RD
@@ -19077,7 +19077,7 @@ Nod2=4,2105,0
 Numbers1=0,E,50,50,O,83,49
 [END]
 
-;sufi=1030000005706
+;linzid=49179
 [POLYLINE]
 Type=0x6
 Label=AKEAKE RD
@@ -19091,7 +19091,7 @@ Nod2=2,3406,0
 Numbers1=0,O,3,9,E,2,8
 [END]
 
-;sufi=1030000005851
+;linzid=59932
 [POLYLINE]
 Type=0x6
 Label=OPITO BAY RD
@@ -19105,7 +19105,7 @@ Nod2=1,2127,0
 Numbers1=0,O,451,455,N,-1,-1
 [END]
 
-;sufi=1030000005851
+;linzid=59932
 [POLYLINE]
 Type=0x6
 Label=OPITO BAY RD
@@ -19118,7 +19118,7 @@ Nod1=0,3407,0
 Nod2=4,2127,0
 [END]
 
-;sufi=1030000005742
+;linzid=49210
 [POLYLINE]
 Type=0x6
 Label=TIKORANGI RD
@@ -19132,7 +19132,7 @@ Nod2=1,3408,0
 Numbers1=0,O,1,17,E,4,18
 [END]
 
-;sufi=1030000192764
+;linzid=61712
 [POLYLINE]
 Type=0x6
 Label=QUINCES LANDING
@@ -19146,7 +19146,7 @@ Nod2=3,3409,0
 Numbers1=0,O,3,35,E,22,34
 [END]
 
-;sufi=1030000005609
+;linzid=49100
 [POLYLINE]
 Type=0xa
 Label=TE WAIROA RD
@@ -19158,7 +19158,7 @@ Nod1=0,2118,0
 Nod2=2,2148,0
 [END]
 
-;sufi=1030000005609
+;linzid=49100
 [POLYLINE]
 Type=0xa
 Label=TE WAIROA RD
@@ -19170,7 +19170,7 @@ Nod1=0,2113,0
 Nod2=1,2118,0
 [END]
 
-;sufi=1030000005636
+;linzid=49123
 [POLYLINE]
 Type=0xa
 Label=BLEDISLOE RD
@@ -19182,7 +19182,7 @@ Nod1=0,2118,0
 Nod2=2,2119,0
 [END]
 
-;sufi=1030000005526
+;linzid=49032
 [POLYLINE]
 Type=0xa
 Label=TARO RD
@@ -19194,7 +19194,7 @@ Nod1=0,3410,0
 Nod2=7,2119,0
 [END]
 
-;sufi=1030000005604
+;linzid=49096
 [POLYLINE]
 Type=0x6
 Label=TE PUKE RD
@@ -19207,7 +19207,7 @@ Nod1=0,2128,0
 Nod2=5,2135,0
 [END]
 
-;sufi=1030000005896
+;linzid=49333
 [POLYLINE]
 Type=0xa
 Label=MANUKA RD
@@ -19219,7 +19219,7 @@ Nod1=0,2120,0
 Nod2=17,2149,0
 [END]
 
-;sufi=1030000005604
+;linzid=49096
 [POLYLINE]
 Type=0xa
 Label=TE PUKE RD
@@ -19231,7 +19231,7 @@ Nod1=0,2100,0
 Nod2=4,2128,0
 [END]
 
-;sufi=1030000005636
+;linzid=49123
 [POLYLINE]
 Type=0xa
 Label=BLEDISLOE RD
@@ -19243,7 +19243,7 @@ Nod1=0,2121,0
 Nod2=3,2120,0
 [END]
 
-;sufi=1030000005636
+;linzid=49123
 [POLYLINE]
 Type=0xa
 Label=BLEDISLOE RD
@@ -19255,7 +19255,7 @@ Nod1=0,2121,0
 Nod2=8,2119,0
 [END]
 
-;sufi=1030000005749
+;linzid=49215
 [POLYLINE]
 Type=0xa
 Label=RIDGE RD
@@ -19267,7 +19267,7 @@ Nod1=0,2121,0
 Nod2=9,2148,0
 [END]
 
-;sufi=1030000005636
+;linzid=49123
 [POLYLINE]
 Type=0xa
 Label=BLEDISLOE RD
@@ -19279,7 +19279,7 @@ Nod1=0,2120,0
 Nod2=1,2128,0
 [END]
 
-;sufi=1030000005819
+;linzid=49272
 [POLYLINE]
 Type=0xa
 Label=HARURU FALLS RD
@@ -19292,7 +19292,7 @@ Nod1=0,3411,0
 Nod2=1,2137,0
 [END]
 
-;sufi=1030000005516
+;linzid=49022
 [POLYLINE]
 Type=0x6
 Label=TAUMATAMAKUKU SETTLEMENT RD
@@ -19306,7 +19306,7 @@ Nod2=4,2115,0
 Numbers1=0,O,39,39,N,-1,-1
 [END]
 
-;sufi=1030000005598
+;linzid=49091
 [POLYLINE]
 Type=0x6
 Label=WAIPUNA PL
@@ -19320,7 +19320,7 @@ Nod2=1,3412,0
 Numbers1=0,E,2,6,O,1,5
 [END]
 
-;sufi=1030000005516
+;linzid=49022
 [POLYLINE]
 Type=0x6
 Label=TAUMATAMAKUKU SETTLEMENT RD
@@ -19334,7 +19334,7 @@ Nod2=3,2108,0
 Numbers1=0,E,2,2,N,-1,-1
 [END]
 
-;sufi=1030000005601
+;linzid=49094
 [POLYLINE]
 Type=0x6
 Label=TE ORO PL
@@ -19348,7 +19348,7 @@ Nod2=2,2108,0
 Numbers1=0,N,-1,-1,O,1,17
 [END]
 
-;sufi=1030000005516
+;linzid=49022
 [POLYLINE]
 Type=0x6
 Label=TAUMATAMAKUKU SETTLEMENT RD
@@ -19362,7 +19362,7 @@ Nod2=10,2115,0
 Numbers1=0,E,2,20,O,19,25
 [END]
 
-;sufi=1030000005764
+;linzid=90331
 [POLYLINE]
 Type=0xa
 Label=NOY RD
@@ -19376,7 +19376,7 @@ Nod2=15,2150,0
 Numbers1=0,O,29,29,N,-1,-1
 [END]
 
-;sufi=1030000005766
+;linzid=59919
 [POLYLINE]
 Type=0xa
 Label=MIHIRATA RD
@@ -19390,7 +19390,7 @@ Nod2=16,2144,0
 Numbers1=0,O,75,75,E,68,68
 [END]
 
-;sufi=1030000004388
+;linzid=48354
 [POLYLINE]
 Type=0xa
 Label=TIPENE RD
@@ -19404,7 +19404,7 @@ Nod2=35,2134,0
 Numbers1=0,O,315,315,E,336,462
 [END]
 
-;sufi=1030000005806
+;linzid=49262
 [POLYLINE]
 Type=0xa
 Label=AWATERE RD
@@ -19417,7 +19417,7 @@ Nod1=0,2111,0
 Nod2=15,3414,0
 [END]
 
-;sufi=1030000016247
+;linzid=55704
 [POLYLINE]
 Type=0xa
 Label=PATUTAHI RD
@@ -19430,7 +19430,7 @@ Nod1=0,2111,0
 Nod2=13,3415,1
 [END]
 
-;sufi=1030000005609
+;linzid=49100
 [POLYLINE]
 Type=0xa
 Label=TE WAIROA RD
@@ -19442,7 +19442,7 @@ Nod1=0,2149,0
 Nod2=3,2168,0
 [END]
 
-;sufi=1030000005609
+;linzid=49100
 [POLYLINE]
 Type=0xa
 Label=TE WAIROA RD
@@ -19454,7 +19454,7 @@ Nod1=0,2148,0
 Nod2=1,2149,0
 [END]
 
-;sufi=1030000005819
+;linzid=49272
 [POLYLINE]
 Type=0x6
 Label=HARURU FALLS RD
@@ -19468,7 +19468,7 @@ Nod2=1,5485,0
 Nod3=3,2136,0
 [END]
 
-;sufi=1030000005406
+;linzid=59874
 [POLYLINE]
 Type=0xa
 Label=RAUPO RD
@@ -19480,7 +19480,7 @@ Nod1=0,3417,0
 Nod2=7,2168,0
 [END]
 
-;sufi=1030000005819
+;linzid=49272
 [POLYLINE]
 Type=0xa
 Label=HARURU FALLS RD
@@ -19493,7 +19493,7 @@ Nod1=0,2136,0
 Nod2=18,2204,0
 [END]
 
-;sufi=1030000005819
+;linzid=49272
 [POLYLINE]
 Type=0xa
 Label=HARURU FALLS RD
@@ -19506,7 +19506,7 @@ Nod1=0,2137,0
 Nod2=13,2136,0
 [END]
 
-;sufi=1030000005819
+;linzid=49272
 [POLYLINE]
 Type=0x6
 Label=HARURU FALLS RD
@@ -19521,7 +19521,7 @@ Nod3=4,2147,0
 Numbers1=0,O,39,1,E,46,2
 [END]
 
-;sufi=1030000005605
+;linzid=49097
 [POLYLINE]
 Type=0x6
 Label=TE KAHU ST
@@ -19535,7 +19535,7 @@ Nod2=1,3418,0
 Numbers1=0,O,1,13,E,2,10
 [END]
 
-;sufi=1030000005819
+;linzid=49272
 [POLYLINE]
 Type=0x6
 Label=HARURU FALLS RD
@@ -19550,7 +19550,7 @@ Nod3=12,2143,0
 Numbers1=0,E,80,80,O,121,115
 [END]
 
-;sufi=1030000005668
+;linzid=89617
 [POLYLINE]
 Type=0xa
 Label=SETTLEMENT RD
@@ -19564,7 +19564,7 @@ Nod2=13,2171,0
 Numbers1=0,E,78,78,O,145,145
 [END]
 
-;sufi=1030000005668
+;linzid=89617
 [POLYLINE]
 Type=0xa
 Label=SETTLEMENT RD
@@ -19577,7 +19577,7 @@ Nod1=0,3421,0
 Nod2=14,2150,0
 [END]
 
-;sufi=1030000005766
+;linzid=59919
 [POLYLINE]
 Type=0xa
 Label=MIHIRATA RD
@@ -19590,7 +19590,7 @@ Nod1=0,2144,0
 Nod2=12,3422,0
 [END]
 
-;sufi=1030000005823
+;linzid=49276
 [POLYLINE]
 Type=0xa
 Label=HANSEN RD
@@ -19604,7 +19604,7 @@ Nod2=4,2176,0
 Numbers1=0,O,57,57,N,-1,-1
 [END]
 
-;sufi=1030000005417
+;linzid=48942
 [POLYLINE]
 Type=0xa
 Label=RANGIHOUA RD
@@ -19617,7 +19617,7 @@ Nod1=0,2169,0
 Nod2=3,2176,0
 [END]
 
-;sufi=1030000005695
+;linzid=49171
 [POLYLINE]
 Type=0xa
 Label=WHARENGAERE RD
@@ -19630,7 +19630,7 @@ Nod1=0,2169,0
 Nod2=30,3424,0
 [END]
 
-;sufi=1030000005609
+;linzid=49100
 [POLYLINE]
 Type=0xa
 Label=TE WAIROA RD
@@ -19642,7 +19642,7 @@ Nod1=0,2168,0
 Nod2=8,2189,0
 [END]
 
-;sufi=1030000189527
+;linzid=59192
 [POLYLINE]
 Type=0x6
 Label=GARDEN CRT
@@ -19656,7 +19656,7 @@ Nod2=1,2155,0
 Numbers1=0,O,1,15,E,2,20
 [END]
 
-;sufi=1030000005464
+;linzid=59880
 [POLYLINE]
 Type=0x6
 Label=ASH GROVE CIR
@@ -19670,7 +19670,7 @@ Nod2=2,2159,0
 Numbers1=0,O,1,3,E,2,4
 [END]
 
-;sufi=1030000044576
+;linzid=58747
 [POLYLINE]
 Type=0x6
 Label=JOHNSON LANE
@@ -19684,7 +19684,7 @@ Nod2=2,3427,0
 Numbers1=0,B,1,8,N,-1,-1
 [END]
 
-;sufi=1030000001086
+;linzid=47984
 [POLYLINE]
 Type=0x6
 Label=ORCHARD RD
@@ -19697,7 +19697,7 @@ Nod1=0,3428,0
 Nod2=4,2161,0
 [END]
 
-;sufi=1030000194785
+;linzid=59549
 [POLYLINE]
 Type=0x6
 Label=WATERVIEW PL
@@ -19711,7 +19711,7 @@ Nod2=3,3430,0
 Numbers1=0,O,1,19,E,2,8
 [END]
 
-;sufi=1030000183294
+;linzid=58941
 [POLYLINE]
 Type=0x6
 Label=KAIPATIKI ROADWAY
@@ -19725,7 +19725,7 @@ Nod2=29,2190,0
 Numbers1=0,E,74,74,O,127,67
 [END]
 
-;sufi=1030000183294
+;linzid=58941
 [POLYLINE]
 Type=0x6
 Label=KAIPATIKI ROADWAY
@@ -19739,7 +19739,7 @@ Nod2=4,2177,0
 Numbers1=0,E,134,134,O,145,145
 [END]
 
-;sufi=1030000005789
+;linzid=49247
 [POLYLINE]
 Type=0x6
 Label=FLAXMERE PL
@@ -19753,7 +19753,7 @@ Nod2=7,2175,0
 Numbers1=0,E,12,2,O,15,1
 [END]
 
-;sufi=1030000005409
+;linzid=48936
 [POLYLINE]
 Type=0x6
 Label=RAYNER ST
@@ -19767,7 +19767,7 @@ Nod2=2,2178,0
 Numbers1=0,O,3,3,E,8,2
 [END]
 
-;sufi=1030000005512
+;linzid=49019
 [POLYLINE]
 Type=0x6
 Label=GILLIES ST
@@ -19781,7 +19781,7 @@ Nod2=5,2194,0
 Numbers1=0,E,120,120,O,95,73
 [END]
 
-;sufi=1030000005505
+;linzid=59885
 [POLYLINE]
 Type=0x6
 Label=GREENACRES DR
@@ -19794,7 +19794,7 @@ Nod1=0,2188,0
 Nod2=4,2199,0
 [END]
 
-;sufi=1030000005668
+;linzid=89617
 [POLYLINE]
 Type=0xa
 Label=SETTLEMENT RD
@@ -19808,7 +19808,7 @@ Nod2=7,2188,0
 Numbers1=0,E,10,10,O,33,9
 [END]
 
-;sufi=1030000005668
+;linzid=89617
 [POLYLINE]
 Type=0xa
 Label=SETTLEMENT RD
@@ -19821,7 +19821,7 @@ Nod1=0,2172,0
 Nod2=3,2170,0
 [END]
 
-;sufi=1030000005668
+;linzid=89617
 [POLYLINE]
 Type=0xa
 Label=SETTLEMENT RD
@@ -19834,7 +19834,7 @@ Nod1=0,2171,0
 Nod2=1,2172,0
 [END]
 
-;sufi=1030000005414
+;linzid=48939
 [POLYLINE]
 Type=0xa
 Label=RANGE RD
@@ -19848,7 +19848,7 @@ Nod2=37,2188,0
 Numbers1=0,E,304,108,O,139,1
 [END]
 
-;sufi=1030000005515
+;linzid=49021
 [POLYLINE]
 Type=0xa
 Label=TARAKIHI RD
@@ -19861,7 +19861,7 @@ Nod1=0,3436,0
 Nod2=5,2179,0
 [END]
 
-;sufi=1030000005515
+;linzid=49021
 [POLYLINE]
 Type=0xa
 Label=TARAKIHI RD
@@ -19875,7 +19875,7 @@ Nod2=2,2235,0
 Numbers1=0,E,22,10,O,33,33
 [END]
 
-;sufi=1030000005609
+;linzid=49100
 [POLYLINE]
 Type=0xa
 Label=TE WAIROA RD
@@ -19887,7 +19887,7 @@ Nod1=0,2189,0
 Nod2=5,2223,0
 [END]
 
-;sufi=1030000005803
+;linzid=59924
 [POLYLINE]
 Type=0xa
 Label=BAYLY RD
@@ -19899,7 +19899,7 @@ Nod1=0,3437,0
 Nod2=1,2223,0
 [END]
 
-;sufi=1030000005803
+;linzid=59924
 [POLYLINE]
 Type=0xa
 Label=BAYLY RD
@@ -19911,7 +19911,7 @@ Nod1=0,2223,0
 Nod2=1,2224,0
 [END]
 
-;sufi=1030000005537
+;linzid=49040
 [POLYLINE]
 Type=0x6
 Label=TUI RD
@@ -19924,7 +19924,7 @@ Nod1=0,3438,0
 Nod2=1,2189,0
 [END]
 
-;sufi=1030000005803
+;linzid=59924
 [POLYLINE]
 Type=0xa
 Label=BAYLY RD
@@ -19937,7 +19937,7 @@ Nod2=14,2224,0
 Numbers1=0,O,33,33,N,-1,-1
 [END]
 
-;sufi=1030000005591
+;linzid=49084
 [POLYLINE]
 Type=0x6
 Label=VOGEL ST
@@ -19951,7 +19951,7 @@ Nod2=1,2206,0
 Numbers1=0,E,12,8,O,7,5
 [END]
 
-;sufi=1030000184399
+;linzid=61650
 [POLYLINE]
 Type=0x6
 Label=FOUNTAIN LANE
@@ -19964,7 +19964,7 @@ Nod1=0,4696,0
 Nod2=1,2206,0
 [END]
 
-;sufi=1030000005729
+;linzid=49199
 [POLYLINE]
 Type=0x6
 Label=WILLIAMS ST
@@ -19978,7 +19978,7 @@ Nod2=1,2234,0
 Numbers1=0,E,10,2,O,7,1
 [END]
 
-;sufi=1030000005591
+;linzid=49084
 [POLYLINE]
 Type=0x6
 Label=VOGEL ST
@@ -19992,7 +19992,7 @@ Nod2=1,2207,0
 Numbers1=0,E,22,14,O,13,9
 [END]
 
-;sufi=1030000005893
+;linzid=49330
 [POLYLINE]
 Type=0x6
 Label=MARSHALL ST
@@ -20006,7 +20006,7 @@ Nod2=1,4205,0
 Numbers1=0,O,1,1,E,8,4
 [END]
 
-;sufi=1030000005473
+;linzid=48987
 [POLYLINE]
 Type=0x6
 Label=MACFARLANE ST
@@ -20020,7 +20020,7 @@ Nod2=2,4695,0
 Numbers1=0,E,10,8,N,-1,-1
 [END]
 
-;sufi=1030000005568
+;linzid=59893
 [POLYLINE]
 Type=0x6
 Label=DERRICK RD
@@ -20034,7 +20034,7 @@ Nod2=3,2245,0
 Numbers1=0,E,32,4,O,39,1
 [END]
 
-;sufi=1030000005732
+;linzid=49202
 [POLYLINE]
 Type=0xa
 Label=WILSON PL
@@ -20047,7 +20047,7 @@ Nod1=0,2208,0
 Nod2=4,2225,0
 [END]
 
-;sufi=1030000005481
+;linzid=48992
 [POLYLINE]
 Type=0x6
 Label=MACKERETH LANE
@@ -20061,7 +20061,7 @@ Nod2=1,3441,0
 Numbers1=0,O,1,1,N,-1,-1
 [END]
 
-;sufi=1030000005503
+;linzid=49012
 [POLYLINE]
 Type=0x6
 Label=GREY ST
@@ -20075,7 +20075,7 @@ Nod2=2,2226,0
 Numbers1=0,O,3,13,E,4,14
 [END]
 
-;sufi=1030000005473
+;linzid=48987
 [POLYLINE]
 Type=0x6
 Label=MACFARLANE ST
@@ -20089,7 +20089,7 @@ Nod2=3,2226,0
 Numbers1=0,E,16,14,O,11,3
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Walkway
@@ -20103,7 +20103,7 @@ Nod2=1,4694,0
 Numbers1=0,E,10,8,O,9,7
 [END]
 
-;sufi=1030000005591
+;linzid=49084
 [POLYLINE]
 Type=0x6
 Label=VOGEL ST
@@ -20117,7 +20117,7 @@ Nod2=1,2216,0
 Numbers1=0,E,6,2,O,3,1
 [END]
 
-;sufi=1030000005638
+;linzid=49124
 [POLYLINE]
 Type=0x6
 Label=BOWEN ST
@@ -20130,7 +20130,7 @@ Nod1=0,4697,0
 Nod2=2,2209,0
 [END]
 
-;sufi=1030000005596
+;linzid=90346
 [POLYLINE]
 Type=0x6
 Label=WAIOMIO RD
@@ -20144,7 +20144,7 @@ Nod2=1,2227,0
 Numbers1=0,O,1,1,N,-1,-1
 [END]
 
-;sufi=1030000005471
+;linzid=48986
 [POLYLINE]
 Type=0x6
 Label=NEUMANN ST
@@ -20158,7 +20158,7 @@ Nod2=2,4204,0
 Numbers1=0,O,1,1,E,4,4
 [END]
 
-;sufi=1030000005761
+;linzid=49225
 [POLYLINE]
 Type=0x6
 Label=NORTH RD
@@ -20172,7 +20172,7 @@ Nod2=3,2243,0
 Numbers1=0,O,1,15,E,2,18
 [END]
 
-;sufi=1030000005583
+;linzid=49076
 [POLYLINE]
 Type=0x6
 Label=WYNYARD ST
@@ -20186,7 +20186,7 @@ Nod2=1,3442,0
 Numbers1=0,O,3,21,E,2,14
 [END]
 
-;sufi=1030000005663
+;linzid=49145
 [POLYLINE]
 Type=0xa
 Label=SCOTT DR
@@ -20199,7 +20199,7 @@ Nod1=0,2219,0
 Nod2=5,2220,0
 [END]
 
-;sufi=1030000005403
+;linzid=48931
 [POLYLINE]
 Type=0xa
 Label=MASON RD
@@ -20213,7 +20213,7 @@ Nod2=15,3443,0
 Numbers1=0,O,95,95,N,-1,-1
 [END]
 
-;sufi=1030000180092
+;linzid=58809
 [POLYLINE]
 Type=0x6
 Label=NGATIRAHIRI RD
@@ -20227,7 +20227,7 @@ Nod2=15,3444,0
 Numbers1=0,O,1,1,E,2,2
 [END]
 
-;sufi=1030000005574
+;linzid=49070
 [POLYLINE]
 Type=0x6
 Label=DAVIS CRES
@@ -20241,7 +20241,7 @@ Nod2=4,2268,0
 Numbers1=0,O,15,1,E,46,2
 [END]
 
-;sufi=1030000005753
+;linzid=49218
 [POLYLINE]
 Type=0xa
 Label=RIGDEN RD
@@ -20255,7 +20255,7 @@ Nod2=20,2282,0
 Numbers1=0,E,158,84,O,147,51
 [END]
 
-;sufi=1030000005820
+;linzid=49273
 [POLYLINE]
 Type=0x6
 Label=HARRYS PL
@@ -20269,7 +20269,7 @@ Nod2=2,3446,0
 Numbers1=0,B,1,3,B,13,8
 [END]
 
-;sufi=1030000005680
+;linzid=59909
 [POLYLINE]
 Type=0x6
 Label=LEONARD ST
@@ -20283,7 +20283,7 @@ Nod2=2,2258,0
 Numbers1=0,B,8,12,B,4,2
 [END]
 
-;sufi=1030000005511
+;linzid=49018
 [POLYLINE]
 Type=0x6
 Label=GILL DR
@@ -20297,7 +20297,7 @@ Nod2=6,2251,0
 Numbers1=0,E,2,2,O,1,1
 [END]
 
-;sufi=1030000005511
+;linzid=49018
 [POLYLINE]
 Type=0x6
 Label=GILL DR
@@ -20311,7 +20311,7 @@ Nod2=4,2250,0
 Numbers1=0,E,22,16,O,19,17
 [END]
 
-;sufi=1030000005856
+;linzid=59933
 [POLYLINE]
 Type=0x6
 Label=RUAPEKAPEKA RD
@@ -20324,7 +20324,7 @@ Nod1=0,2255,0
 Nod2=2,2251,0
 [END]
 
-;sufi=1030000005423
+;linzid=48948
 [POLYLINE]
 Type=0x6
 Label=RAYMOND ST
@@ -20338,7 +20338,7 @@ Nod2=5,2252,0
 Numbers1=0,B,7,10,B,3,2
 [END]
 
-;sufi=1030000005511
+;linzid=49018
 [POLYLINE]
 Type=0x6
 Label=GILL DR
@@ -20352,7 +20352,7 @@ Nod2=4,2250,0
 Numbers1=0,O,3,11,E,8,16
 [END]
 
-;sufi=1030000005410
+;linzid=59875
 [POLYLINE]
 Type=0xa
 Label=RATA TIPENE RD
@@ -20366,7 +20366,7 @@ Nod2=10,4610,0
 Numbers1=0,O,105,105,E,26,26
 [END]
 
-;sufi=1030000005499
+;linzid=49009
 [POLYLINE]
 Type=0x6
 Label=MOANA AVE
@@ -20380,7 +20380,7 @@ Nod2=3,2274,0
 Numbers1=0,N,-1,-1,E,12,4
 [END]
 
-;sufi=1030000005667
+;linzid=49148
 [POLYLINE]
 Type=0x6
 Label=SCHOOL RD
@@ -20394,7 +20394,7 @@ Nod2=1,6007,0
 Nod3=5,2270,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Walkway
@@ -20407,7 +20407,7 @@ Nod1=0,2271,0
 Nod2=4,2277,0
 [END]
 
-;sufi=1030000005667
+;linzid=49148
 [POLYLINE]
 Type=0x6
 Label=SCHOOL RD
@@ -20420,7 +20420,7 @@ Nod1=0,2270,0
 Nod2=5,2271,0
 [END]
 
-;sufi=1030000005667
+;linzid=49148
 [POLYLINE]
 Type=0x6
 Label=SCHOOL RD
@@ -20433,7 +20433,7 @@ Nod1=0,2270,0
 Nod2=4,2277,0
 [END]
 
-;sufi=1030000005667
+;linzid=49148
 [POLYLINE]
 Type=0x6
 Label=SCHOOL RD
@@ -20446,7 +20446,7 @@ Nod1=0,3453,0
 Nod2=6,2271,0
 [END]
 
-;sufi=1030000005579
+;linzid=49074
 [POLYLINE]
 Type=0x6
 Label=BEDGGOOD CL
@@ -20460,7 +20460,7 @@ Nod2=3,2312,0
 Numbers1=0,E,6,2,O,1,7
 [END]
 
-;sufi=1030000005521
+;linzid=49027
 [POLYLINE]
 Type=0x6
 Label=TAUMATA CL
@@ -20474,7 +20474,7 @@ Nod2=6,2303,0
 Numbers1=0,E,10,2,O,19,1
 [END]
 
-;sufi=1030000197337
+;linzid=61860
 [POLYLINE]
 Type=0x6
 Label=HIHITAHI RISE
@@ -20488,7 +20488,7 @@ Nod2=10,2302,0
 Numbers1=0,E,46,2,O,47,1
 [END]
 
-;sufi=1030000005642
+;linzid=49127
 [POLYLINE]
 Type=0xa
 Label=DOEL RD
@@ -20502,7 +20502,7 @@ Nod2=8,3458,0
 Numbers1=0,N,-1,-1,E,64,64
 [END]
 
-;sufi=1030000005785
+;linzid=49243
 [POLYLINE]
 Type=0xa
 Label=FRASER RD
@@ -20515,7 +20515,7 @@ Nod1=0,3460,0
 Nod2=14,2294,0
 [END]
 
-;sufi=2030000001318
+;linzid=92400
 [POLYLINE]
 Type=0xa
 Label=WAIOMIO RD
@@ -20528,7 +20528,7 @@ Nod1=0,3461,0
 Nod2=1,2281,0
 [END]
 
-;sufi=1030000005619
+;linzid=49107
 [POLYLINE]
 Type=0x6
 Label=CALLAGHAN RD
@@ -20542,7 +20542,7 @@ Nod2=24,2299,0
 Numbers1=0,O,95,95,E,56,56
 [END]
 
-;sufi=1030000005623
+;linzid=49111
 [POLYLINE]
 Type=0xa
 Label=INKSTER RD
@@ -20556,7 +20556,7 @@ Nod2=29,2317,0
 Numbers1=0,O,65,65,N,-1,-1
 [END]
 
-;sufi=1030000005619
+;linzid=49107
 [POLYLINE]
 Type=0xa
 Label=CALLAGHAN RD
@@ -20570,7 +20570,7 @@ Nod2=39,2300,0
 Numbers1=0,E,394,190,O,479,259
 [END]
 
-;sufi=1030000005659
+;linzid=49142
 [POLYLINE]
 Type=0x6
 Label=PANORAMA AVE
@@ -20583,7 +20583,7 @@ Nod1=0,2308,0
 Nod2=8,3462,0
 [END]
 
-;sufi=1030000005478
+;linzid=48990
 [POLYLINE]
 Type=0x6
 Label=MAKO LANE
@@ -20597,7 +20597,7 @@ Nod2=1,3463,0
 Numbers1=0,E,2,12,O,3,13
 [END]
 
-;sufi=1030000005504
+;linzid=49013
 [POLYLINE]
 Type=0x6
 Label=GREYS LANE
@@ -20610,7 +20610,7 @@ Nod1=0,3464,0
 Nod2=2,2310,0
 [END]
 
-;sufi=1030000005687
+;linzid=49163
 [POLYLINE]
 Type=0x6
 Label=KOWHAI CRES
@@ -20624,7 +20624,7 @@ Nod2=1,2321,0
 Numbers1=0,O,7,1,E,8,2
 [END]
 
-;sufi=1030000005548
+;linzid=49049
 [POLYLINE]
 Type=0x6
 Label=PUKETIRO PL
@@ -20638,7 +20638,7 @@ Nod2=4,2319,0
 Numbers1=0,E,38,2,O,29,1
 [END]
 
-;sufi=1030000005869
+;linzid=49312
 [POLYLINE]
 Type=0x6
 Label=WARD DR
@@ -20651,7 +20651,7 @@ Nod1=0,3467,0
 Nod2=8,2323,0
 [END]
 
-;sufi=1030000005463
+;linzid=48981
 [POLYLINE]
 Type=0x6
 Label=ARABELLA RD
@@ -20666,7 +20666,7 @@ Nod3=14,2327,0
 Numbers1=0,E,20,2,O,21,1
 [END]
 
-;sufi=1030000005869
+;linzid=49312
 [POLYLINE]
 Type=0x6
 Label=WARD DR
@@ -20680,7 +20680,7 @@ Nod2=5,2326,0
 Numbers1=0,E,36,2,O,5,1
 [END]
 
-;sufi=1030000005869
+;linzid=49312
 [POLYLINE]
 Type=0x6
 Label=WARD DR
@@ -20694,7 +20694,7 @@ Nod2=13,3469,0
 Numbers1=0,O,5,17,E,46,46
 [END]
 
-;sufi=1030000005710
+;linzid=49182
 [POLYLINE]
 Type=0x6
 Label=BROADVIEW RD
@@ -20708,7 +20708,7 @@ Nod2=7,2327,0
 Numbers1=0,E,30,26,O,19,17
 [END]
 
-;sufi=1030000005619
+;linzid=49107
 [POLYLINE]
 Type=0x6
 Label=CALLAGHAN RD
@@ -20721,7 +20721,7 @@ Nod1=0,2300,0
 Nod2=1,2299,0
 [END]
 
-;sufi=1030000005886
+;linzid=49324
 [POLYLINE]
 Type=0xa
 Label=MAROMAKU SCHOOL RD
@@ -20735,7 +20735,7 @@ Nod2=2,3470,0
 Numbers1=0,O,29,29,E,4,20
 [END]
 
-;sufi=1030000005502
+;linzid=49011
 [POLYLINE]
 Type=0xa
 Label=GOING RD
@@ -20748,7 +20748,7 @@ Nod1=0,2317,0
 Nod2=38,2338,0
 [END]
 
-;sufi=1030000005560
+;linzid=49060
 [POLYLINE]
 Type=0x6
 Label=PINE TREE LANE
@@ -20761,7 +20761,7 @@ Nod1=0,3471,0
 Nod2=3,2364,0
 [END]
 
-;sufi=1030000005833
+;linzid=49285
 [POLYLINE]
 Type=0x6
 Label=OSBORNE ST
@@ -20775,7 +20775,7 @@ Nod2=2,2344,0
 Numbers1=0,O,3,1,N,-1,-1
 [END]
 
-;sufi=1030000005710
+;linzid=49182
 [POLYLINE]
 Type=0x6
 Label=BROADVIEW RD
@@ -20789,7 +20789,7 @@ Nod2=10,2335,0
 Numbers1=0,E,22,18,O,15,7
 [END]
 
-;sufi=1030000005811
+;linzid=59926
 [POLYLINE]
 Type=0x6
 Label=SIR GEORGE BACK ST
@@ -20803,7 +20803,7 @@ Nod2=7,2374,0
 Numbers1=0,N,-1,-1,E,2,24
 [END]
 
-;sufi=1030000005559
+;linzid=49059
 [POLYLINE]
 Type=0x6
 Label=PENNEY ST
@@ -20816,7 +20816,7 @@ Nod1=0,2351,0
 Nod2=1,2345,0
 [END]
 
-;sufi=1030000005754
+;linzid=49219
 [POLYLINE]
 Type=0x6
 Label=RICHARDSON ST
@@ -20830,7 +20830,7 @@ Nod2=5,4618,0
 Numbers1=0,O,15,11,E,14,14
 [END]
 
-;sufi=1030000005876
+;linzid=59935
 [POLYLINE]
 Type=0x6
 Label=POINT VERONICA DR
@@ -20844,7 +20844,7 @@ Nod2=10,2334,0
 Numbers1=0,E,28,20,O,23,19
 [END]
 
-;sufi=1030000005570
+;linzid=49068
 [POLYLINE]
 Type=0x6
 Label=DE HAVEN ST
@@ -20858,7 +20858,7 @@ Nod2=2,4617,0
 Numbers1=0,E,2,12,O,1,11
 [END]
 
-;sufi=1030000005817
+;linzid=49270
 [POLYLINE]
 Type=0x6
 Label=COLLINSON ST
@@ -20871,7 +20871,7 @@ Nod1=0,2344,0
 Nod2=2,4619,0
 [END]
 
-;sufi=1030000005876
+;linzid=59935
 [POLYLINE]
 Type=0x6
 Label=POINT VERONICA DR
@@ -20885,7 +20885,7 @@ Nod2=6,2334,0
 Numbers1=0,O,1,11,N,-1,-1
 [END]
 
-;sufi=1030000005559
+;linzid=49059
 [POLYLINE]
 Type=0x6
 Label=PENNEY ST
@@ -20899,7 +20899,7 @@ Nod2=1,2371,0
 Numbers1=0,O,1,1,E,2,2
 [END]
 
-;sufi=1030000005860
+;linzid=49303
 [POLYLINE]
 Type=0x6
 Label=ROSELLA RD
@@ -20913,7 +20913,7 @@ Nod2=6,2335,0
 Numbers1=0,O,23,21,E,24,4
 [END]
 
-;sufi=1030000005876
+;linzid=59935
 [POLYLINE]
 Type=0x6
 Label=POINT VERONICA DR
@@ -20927,7 +20927,7 @@ Nod2=1,3476,0
 Numbers1=0,E,20,16,N,-1,-1
 [END]
 
-;sufi=1030000005475
+;linzid=48988
 [POLYLINE]
 Type=0x6
 Label=LYON ST
@@ -20942,7 +20942,7 @@ Nod2=6,4209,0
 Numbers1=0,E,2,6,O,1,7
 [END]
 
-;sufi=1030000005722
+;linzid=49192
 [POLYLINE]
 Type=0x6
 Label=KENNEDY ST
@@ -20956,7 +20956,7 @@ Nod2=5,2366,0
 Numbers1=0,O,11,1,E,18,2
 [END]
 
-;sufi=1030000005538
+;linzid=49041
 [POLYLINE]
 Type=0x6
 Label=TROLLOPE ST
@@ -20969,7 +20969,7 @@ Nod1=0,3478,0
 Nod2=4,2365,0
 [END]
 
-;sufi=1030000000464
+;linzid=47827
 [POLYLINE]
 Type=0x6
 Label=MARINA RISE
@@ -20983,7 +20983,7 @@ Nod2=4,3479,0
 Numbers1=0,E,2,4,O,3,7
 [END]
 
-;sufi=1030000182117
+;linzid=58869
 [POLYLINE]
 Type=0x6
 Label=BEAUFORT ST
@@ -20997,7 +20997,7 @@ Nod2=4,2346,0
 Numbers1=0,N,-1,-1,E,2,2
 [END]
 
-;sufi=1030000005466
+;linzid=48983
 [POLYLINE]
 Type=0x6
 Label=AUSTIN ST
@@ -21010,7 +21010,7 @@ Nod1=0,2357,0
 Nod2=5,2361,0
 [END]
 
-;sufi=1030000005457
+;linzid=48976
 [POLYLINE]
 Type=0xa
 Label=COOKSON RD
@@ -21024,7 +21024,7 @@ Nod2=3,2411,0
 Numbers1=0,E,102,36,O,103,19
 [END]
 
-;sufi=1030000005723
+;linzid=49193
 [POLYLINE]
 Type=0xa
 Label=KEOGH RD
@@ -21037,7 +21037,7 @@ Nod1=0,3481,0
 Nod2=39,2381,0
 [END]
 
-;sufi=1030000005885
+;linzid=59937
 [POLYLINE]
 Type=0xa
 Label=MARLOW RD
@@ -21051,7 +21051,7 @@ Nod2=11,2338,0
 Numbers1=0,E,1110,1084,O,1119,1093
 [END]
 
-;sufi=1030000005415
+;linzid=48940
 [POLYLINE]
 Type=0x6
 Label=REWA PL
@@ -21065,7 +21065,7 @@ Nod2=1,3482,0
 Numbers1=0,E,2,36,O,1,35
 [END]
 
-;sufi=1030000005796
+;linzid=49254
 [POLYLINE]
 Type=0x6
 Label=CHAPEL ST
@@ -21079,7 +21079,7 @@ Nod2=2,2427,0
 Numbers1=0,E,20,20,O,11,17
 [END]
 
-;sufi=1030000005747
+;linzid=59918
 [POLYLINE]
 Type=0x6
 Label=ROBERTSON ST
@@ -21093,7 +21093,7 @@ Nod2=1,4626,0
 Nod3=2,2417,0
 [END]
 
-;sufi=1030000005774
+;linzid=49235
 [POLYLINE]
 Type=0x6
 Label=JAMES ST
@@ -21107,7 +21107,7 @@ Nod2=3,3484,0
 Numbers1=0,E,4,12,O,1,15
 [END]
 
-;sufi=1030000005791
+;linzid=49249
 [POLYLINE]
 Type=0x6
 Label=FLAGSTAFF RD
@@ -21120,7 +21120,7 @@ Nod1=0,3485,0
 Nod2=4,2390,0
 [END]
 
-;sufi=1030000005694
+;linzid=49170
 [POLYLINE]
 Type=0x6
 Label=WELLINGTON ST
@@ -21134,7 +21134,7 @@ Nod2=1,2387,0
 Numbers1=0,O,19,19,E,14,14
 [END]
 
-;sufi=1030000005389
+;linzid=48920
 [POLYLINE]
 Type=0x6
 Label=LONG BEACH RD
@@ -21148,7 +21148,7 @@ Nod2=15,2436,0
 Numbers1=0,E,2,30,O,1,39
 [END]
 
-;sufi=1030000005714
+;linzid=49185
 [POLYLINE]
 Type=0x16
 Label=BRODIE PASSAGE
@@ -21161,7 +21161,7 @@ Nod1=0,2397,0
 Nod2=2,4620,0
 [END]
 
-;sufi=1030000005580
+;linzid=49075
 [POLYLINE]
 Type=0x6
 Label=BERESFORD ST
@@ -21175,7 +21175,7 @@ Nod2=4,2414,0
 Numbers1=0,O,17,1,E,6,2
 [END]
 
-;sufi=1030000005488
+;linzid=48998
 [POLYLINE]
 Type=0x6
 Label=HAZARD ST
@@ -21189,7 +21189,7 @@ Nod2=1,2432,0
 Numbers1=0,O,3,3,E,6,4
 [END]
 
-;sufi=1030000005694
+;linzid=49170
 [POLYLINE]
 Type=0x6
 Label=WELLINGTON ST
@@ -21205,7 +21205,7 @@ Nod4=5,4622,0
 Numbers1=0,O,9,1,E,6,2
 [END]
 
-;sufi=1030000005694
+;linzid=49170
 [POLYLINE]
 Type=0x6
 Label=WELLINGTON ST
@@ -21219,7 +21219,7 @@ Nod2=1,4230,0
 Numbers1=0,O,17,15,E,12,10
 [END]
 
-;sufi=1030000005882
+;linzid=49321
 [POLYLINE]
 Type=0x6
 Label=PITT ST
@@ -21233,7 +21233,7 @@ Nod2=4,4625,0
 Numbers1=0,O,5,1,E,6,2
 [END]
 
-;sufi=1030000005738
+;linzid=49207
 [POLYLINE]
 Type=0x6
 Label=TITORE WAY
@@ -21247,7 +21247,7 @@ Nod2=7,2395,0
 Numbers1=0,O,25,9,E,4,40
 [END]
 
-;sufi=1030000000695
+;linzid=47889
 [POLYLINE]
 Type=0x6
 Label=FLOWERDAY ST
@@ -21260,7 +21260,7 @@ Nod1=0,2421,0
 Nod2=2,2422,0
 [END]
 
-;sufi=1030000005617
+;linzid=49106
 [POLYLINE]
 Type=0x6
 Label=CASS ST
@@ -21274,7 +21274,7 @@ Nod2=1,2401,0
 Numbers1=0,O,1,1,E,2,2
 [END]
 
-;sufi=1030000005870
+;linzid=49313
 [POLYLINE]
 Type=0x16
 Label=WALKER PASSAGE
@@ -21288,7 +21288,7 @@ Nod2=1,3489,0
 Numbers1=0,O,1,1,N,-1,-1
 [END]
 
-;sufi=1030000005385
+;linzid=48917
 [POLYLINE]
 Type=0x6
 Label=LITTLE QUEEN ST
@@ -21302,7 +21302,7 @@ Nod2=3,2419,0
 Numbers1=0,N,-1,-1,E,2,6
 [END]
 
-;sufi=1030000005717
+;linzid=49187
 [POLYLINE]
 Type=0x6
 Label=KENT ST
@@ -21316,7 +21316,7 @@ Nod2=1,2388,0
 Numbers1=0,O,3,3,N,-1,-1
 [END]
 
-;sufi=1030000005488
+;linzid=48998
 [POLYLINE]
 Type=0x6
 Label=HAZARD ST
@@ -21329,7 +21329,7 @@ Nod1=0,3490,0
 Nod2=1,2416,0
 [END]
 
-;sufi=1030000005694
+;linzid=49170
 [POLYLINE]
 Type=0x6
 Label=WELLINGTON ST
@@ -21343,7 +21343,7 @@ Nod2=3,3491,0
 Numbers1=0,E,44,44,O,59,85
 [END]
 
-;sufi=1030000005462
+;linzid=48980
 [POLYLINE]
 Type=0x6
 Label=ASHBY ST
@@ -21357,7 +21357,7 @@ Nod2=2,2427,0
 Numbers1=0,E,2,6,O,1,9
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Walkway
@@ -21370,7 +21370,7 @@ Nod1=0,2423,0
 Nod2=1,2420,0
 [END]
 
-;sufi=1030000005747
+;linzid=59918
 [POLYLINE]
 Type=0x6
 Label=ROBERTSON ST
@@ -21384,7 +21384,7 @@ Nod2=1,2430,0
 Numbers1=0,E,2,8,O,9,19
 [END]
 
-;sufi=1030000005694
+;linzid=49170
 [POLYLINE]
 Type=0x6
 Label=WELLINGTON ST
@@ -21398,7 +21398,7 @@ Nod2=12,2373,0
 Numbers1=0,E,16,38,O,29,57
 [END]
 
-;sufi=1030000005694
+;linzid=49170
 [POLYLINE]
 Type=0x6
 Label=WELLINGTON ST
@@ -21412,7 +21412,7 @@ Nod2=2,2388,0
 Numbers1=0,O,25,21,N,-1,-1
 [END]
 
-;sufi=1030000005791
+;linzid=49249
 [POLYLINE]
 Type=0x6
 Label=FLAGSTAFF RD
@@ -21426,7 +21426,7 @@ Nod2=11,2391,0
 Numbers1=0,O,15,7,E,10,6
 [END]
 
-;sufi=1030000005513
+;linzid=49020
 [POLYLINE]
 Type=0x6
 Label=GILBERT MAIR RISE
@@ -21440,7 +21440,7 @@ Nod2=7,2406,0
 Numbers1=0,E,42,20,O,37,5
 [END]
 
-;sufi=1030000005783
+;linzid=59923
 [POLYLINE]
 Type=0x6
 Label=KAHA PL
@@ -21454,7 +21454,7 @@ Nod2=1,2392,0
 Numbers1=0,E,18,16,O,17,17
 [END]
 
-;sufi=1030000005783
+;linzid=59923
 [POLYLINE]
 Type=0x6
 Label=KAHA PL
@@ -21468,7 +21468,7 @@ Nod2=1,2408,0
 Numbers1=0,E,14,8,O,13,9
 [END]
 
-;sufi=1030000005879
+;linzid=49319
 [POLYLINE]
 Type=0x6
 Label=POMARE AVE
@@ -21481,7 +21481,7 @@ Nod1=0,3494,0
 Nod2=2,2407,0
 [END]
 
-;sufi=1030000005651
+;linzid=49135
 [POLYLINE]
 Type=0x6
 Label=PAINE BROWN WAY
@@ -21495,7 +21495,7 @@ Nod2=3,2384,0
 Numbers1=0,N,-1,-1,E,12,4
 [END]
 
-;sufi=1030000005744
+;linzid=49211
 [POLYLINE]
 Type=0x6
 Label=TIRAIRAKA TCE
@@ -21509,7 +21509,7 @@ Nod2=3,3496,0
 Numbers1=0,O,1,17,E,2,30
 [END]
 
-;sufi=1030000000921
+;linzid=47943
 [POLYLINE]
 Type=0x6
 Label=JAMES CLENDON PL
@@ -21523,7 +21523,7 @@ Nod2=4,2405,0
 Numbers1=0,E,18,2,O,11,1
 [END]
 
-;sufi=1030000005577
+;linzid=59895
 [POLYLINE]
 Type=0x6
 Label=BEECHY ST
@@ -21537,7 +21537,7 @@ Nod2=1,5451,0
 Nod3=7,6051,0
 [END]
 
-;sufi=1030000005754
+;linzid=49219
 [POLYLINE]
 Type=0x6
 Label=RICHARDSON ST
@@ -21550,7 +21550,7 @@ Nod1=0,2375,0
 Nod2=2,2376,0
 [END]
 
-;sufi=1030000005780
+;linzid=49239
 [POLYLINE]
 Type=0x6
 Label=KAKAPU RD
@@ -21564,7 +21564,7 @@ Nod2=1,3499,0
 Numbers1=0,O,3,17,E,2,16
 [END]
 
-;sufi=1030000005724
+;linzid=49194
 [POLYLINE]
 Type=0x6
 Label=KELLET ST
@@ -21578,7 +21578,7 @@ Nod2=2,2378,0
 Numbers1=0,E,10,10,N,-1,-1
 [END]
 
-;sufi=1030000005802
+;linzid=49260
 [POLYLINE]
 Type=0x6
 Label=BAFFIN ST
@@ -21592,7 +21592,7 @@ Nod2=2,4209,0
 Nod3=4,4210,0
 [END]
 
-;sufi=1030000005802
+;linzid=49260
 [POLYLINE]
 Type=0x6
 Label=BAFFIN ST
@@ -21606,7 +21606,7 @@ Nod2=12,3500,0
 Numbers1=0,O,5,3,N,-1,-1
 [END]
 
-;sufi=1030000005724
+;linzid=49194
 [POLYLINE]
 Type=0x6
 Label=KELLET ST
@@ -21620,7 +21620,7 @@ Nod2=12,2380,0
 Numbers1=0,O,1,1,E,10,2
 [END]
 
-;sufi=1030000005723
+;linzid=49193
 [POLYLINE]
 Type=0xa
 Label=KEOGH RD
@@ -21633,7 +21633,7 @@ Nod1=0,2381,0
 Nod2=15,2439,0
 [END]
 
-;sufi=1030000005635
+;linzid=49122
 [POLYLINE]
 Type=0xa
 Label=BOLERO RD
@@ -21647,7 +21647,7 @@ Nod2=18,2441,0
 Numbers1=0,E,12,12,O,97,97
 [END]
 
-;sufi=1030000005389
+;linzid=48920
 [POLYLINE]
 Type=0x6
 Label=LONG BEACH RD
@@ -21660,7 +21660,7 @@ Nod1=0,2452,0
 Nod2=4,3501,0
 [END]
 
-;sufi=1030000005554
+;linzid=49054
 [POLYLINE]
 Type=0x6
 Label=QUEENS VIEW RD
@@ -21674,7 +21674,7 @@ Nod2=3,2448,0
 Numbers1=0,E,2,14,O,1,7
 [END]
 
-;sufi=1030000005862
+;linzid=49305
 [POLYLINE]
 Type=0x6
 Label=RUSSELL HTS
@@ -21688,7 +21688,7 @@ Nod2=3,3502,0
 Numbers1=0,O,1,23,E,2,16
 [END]
 
-;sufi=1030000005792
+;linzid=49250
 [POLYLINE]
 Type=0x6
 Label=FLORANCE AVE
@@ -21702,7 +21702,7 @@ Nod2=6,2437,0
 Numbers1=0,E,12,36,O,11,31
 [END]
 
-;sufi=1030000005451
+;linzid=48970
 [POLYLINE]
 Type=0x6
 Label=HOPE AVE
@@ -21716,7 +21716,7 @@ Nod2=5,2449,0
 Numbers1=0,E,14,30,O,7,29
 [END]
 
-;sufi=1030000005792
+;linzid=49250
 [POLYLINE]
 Type=0x6
 Label=FLORANCE AVE
@@ -21730,7 +21730,7 @@ Nod2=18,2454,0
 Numbers1=0,E,78,120,O,31,43
 [END]
 
-;sufi=1030000005792
+;linzid=49250
 [POLYLINE]
 Type=0x6
 Label=FLORANCE AVE
@@ -21743,7 +21743,7 @@ Nod1=0,2449,0
 Nod2=3,2454,0
 [END]
 
-;sufi=1030000005792
+;linzid=49250
 [POLYLINE]
 Type=0x6
 Label=FLORANCE AVE
@@ -21756,7 +21756,7 @@ Nod1=0,2429,0
 Nod2=2,2428,0
 [END]
 
-;sufi=1030000005792
+;linzid=49250
 [POLYLINE]
 Type=0x6
 Label=FLORANCE AVE
@@ -21770,7 +21770,7 @@ Nod2=9,2429,0
 Numbers1=0,E,2,10,O,1,5
 [END]
 
-;sufi=1030000005637
+;linzid=59902
 [POLYLINE]
 Type=0x6
 Label=BRIND RD
@@ -21784,7 +21784,7 @@ Nod2=1,3503,0
 Numbers1=0,E,2,24,O,1,21
 [END]
 
-;sufi=1030000005480
+;linzid=48991
 [POLYLINE]
 Type=0x6
 Label=MAJOR BRIDGE DR
@@ -21798,7 +21798,7 @@ Nod2=9,3504,0
 Numbers1=0,O,9,19,E,8,20
 [END]
 
-;sufi=1030000005607
+;linzid=59898
 [POLYLINE]
 Type=0x6
 Label=TE WAHAPU RD
@@ -21812,7 +21812,7 @@ Nod2=9,2438,0
 Numbers1=0,E,136,104,O,149,105
 [END]
 
-;sufi=1030000005856
+;linzid=59933
 [POLYLINE]
 Type=0xa
 Label=RUAPEKAPEKA RD
@@ -21826,7 +21826,7 @@ Nod2=9,2439,0
 Numbers1=0,O,197,197,E,126,170
 [END]
 
-;sufi=1030000005856
+;linzid=59933
 [POLYLINE]
 Type=0xa
 Label=RUAPEKAPEKA RD
@@ -21840,7 +21840,7 @@ Nod2=45,2462,0
 Numbers1=0,O,309,367,E,302,302
 [END]
 
-;sufi=1030000005856
+;linzid=59933
 [POLYLINE]
 Type=0xa
 Label=RUAPEKAPEKA RD
@@ -21854,7 +21854,7 @@ Nod2=14,2453,0
 Numbers1=0,E,50,50,O,81,67
 [END]
 
-;sufi=1030000005635
+;linzid=49122
 [POLYLINE]
 Type=0xa
 Label=BOLERO RD
@@ -21867,7 +21867,7 @@ Nod1=0,2442,0
 Nod2=1,2445,0
 [END]
 
-;sufi=1030000005635
+;linzid=49122
 [POLYLINE]
 Type=0xa
 Label=BOLERO RD
@@ -21880,7 +21880,7 @@ Nod1=0,2441,0
 Nod2=1,2442,0
 [END]
 
-;sufi=1030000005839
+;linzid=59929
 [POLYLINE]
 Type=0xa
 Label=OETZMAN RD
@@ -21893,7 +21893,7 @@ Nod1=0,2450,0
 Nod2=13,2441,0
 [END]
 
-;sufi=1030000005712
+;linzid=59913
 [POLYLINE]
 Type=0xa
 Label=BROWN RD
@@ -21906,7 +21906,7 @@ Nod1=0,2450,0
 Nod2=16,2469,0
 [END]
 
-;sufi=1030000005839
+;linzid=59929
 [POLYLINE]
 Type=0xa
 Label=OETZMAN RD
@@ -21920,7 +21920,7 @@ Nod2=14,2450,0
 Numbers1=0,E,110,80,O,183,91
 [END]
 
-;sufi=1030000005839
+;linzid=59929
 [POLYLINE]
 Type=0xa
 Label=OETZMAN RD
@@ -21934,7 +21934,7 @@ Nod2=23,3505,0
 Numbers1=0,O,183,241,E,192,192
 [END]
 
-;sufi=1030000005856
+;linzid=59933
 [POLYLINE]
 Type=0xa
 Label=RUAPEKAPEKA RD
@@ -21948,7 +21948,7 @@ Nod2=15,2459,0
 Numbers1=0,O,489,505,E,584,584
 [END]
 
-;sufi=1030000005500
+;linzid=49010
 [POLYLINE]
 Type=0x6
 Label=MONUMENT RD
@@ -21961,7 +21961,7 @@ Nod1=0,2462,0
 Nod2=2,2463,0
 [END]
 
-;sufi=1030000005740
+;linzid=49208
 [POLYLINE]
 Type=0xa
 Label=TIMPERLEY RD
@@ -21975,7 +21975,7 @@ Nod2=60,2463,0
 Numbers1=0,N,-1,-1,E,6,6
 [END]
 
-;sufi=1030000193427
+;linzid=59437
 [POLYLINE]
 Type=0x6
 Label=LICHEN GRV
@@ -21989,7 +21989,7 @@ Nod2=10,3508,0
 Numbers1=0,O,5,21,E,4,16
 [END]
 
-;sufi=1030000193427
+;linzid=59437
 [POLYLINE]
 Type=0x6
 Label=LICHEN GRV
@@ -22003,7 +22003,7 @@ Nod2=4,2467,0
 Numbers1=0,O,1,1,E,2,2
 [END]
 
-;sufi=1030000193429
+;linzid=59438
 [POLYLINE]
 Type=0x6
 Label=TOI TRK
@@ -22017,7 +22017,7 @@ Nod2=4,3509,0
 Numbers1=0,O,1,11,E,2,8
 [END]
 
-;sufi=1030000005676
+;linzid=59908
 [POLYLINE]
 Type=0x6
 Label=LANE RD
@@ -22031,7 +22031,7 @@ Nod2=9,3510,0
 Numbers1=0,O,17,75,E,54,90
 [END]
 
-;sufi=1030000004520
+;linzid=48370
 [POLYLINE]
 Type=0x5
 Label=WAIKARE RD
@@ -22046,7 +22046,7 @@ Nod3=19,2489,0
 Numbers1=0,O,611,803,E,652,740
 [END]
 
-;sufi=2030000000602
+;linzid=90303
 [POLYLINE]
 Type=0x6
 Label=KURA RD
@@ -22060,7 +22060,7 @@ Nod2=5,3511,0
 Numbers1=0,O,29,29,E,26,40
 [END]
 
-;sufi=1030000005790
+;linzid=49248
 [POLYLINE]
 Type=0x6
 Label=FORD RD
@@ -22074,7 +22074,7 @@ Nod2=14,3512,0
 Numbers1=0,O,3,163,E,46,142
 [END]
 
-;sufi=1030000000305
+;linzid=47785
 [POLYLINE]
 Type=0xa
 Label=PAIAKA RD
@@ -22087,7 +22087,7 @@ Nod1=0,2469,0
 Nod2=3,6118,0
 [END]
 
-;sufi=1030000005854
+;linzid=49298
 [POLYLINE]
 Type=0xa
 Label=RUSK RD
@@ -22101,7 +22101,7 @@ Nod2=15,2490,0
 Numbers1=0,E,304,212,O,295,117
 [END]
 
-;sufi=1030000000305
+;linzid=47785
 [POLYLINE]
 Type=0xa
 Label=PAIAKA RD
@@ -22115,7 +22115,7 @@ Nod2=35,2471,0
 Numbers1=0,E,674,520,O,755,499
 [END]
 
-;sufi=1030000000305
+;linzid=47785
 [POLYLINE]
 Type=0xa
 Label=PAIAKA RD
@@ -22128,7 +22128,7 @@ Nod1=0,2476,0
 Nod2=13,2479,0
 [END]
 
-;sufi=1030000000305
+;linzid=47785
 [POLYLINE]
 Type=0xa
 Label=PAIAKA RD
@@ -22141,7 +22141,7 @@ Nod1=0,2465,0
 Nod2=5,2476,0
 [END]
 
-;sufi=1030000000305
+;linzid=47785
 [POLYLINE]
 Type=0xa
 Label=PAIAKA RD
@@ -22155,7 +22155,7 @@ Nod2=19,2471,0
 Numbers1=0,O,313,471,N,-1,-1
 [END]
 
-;sufi=1030000016208
+;linzid=55676
 [POLYLINE]
 Type=0xa
 Label=WALLACE RD
@@ -22169,7 +22169,7 @@ Nod2=9,3513,0
 Numbers1=0,O,25,25,N,-1,-1
 [END]
 
-;sufi=1030000005703
+;linzid=49177
 [POLYLINE]
 Type=0x6
 Label=AKERAMA RD
@@ -22182,7 +22182,7 @@ Nod1=0,2481,0
 Nod2=2,2482,0
 [END]
 
-;sufi=1030000005703
+;linzid=49177
 [POLYLINE]
 Type=0xa
 Label=AKERAMA RD
@@ -22196,7 +22196,7 @@ Nod2=4,2485,0
 Numbers1=0,E,114,114,O,117,97
 [END]
 
-;sufi=1030000005821
+;linzid=49274
 [POLYLINE]
 Type=0xa
 Label=HAILE RD
@@ -22210,7 +22210,7 @@ Nod2=1,3514,0
 Numbers1=0,O,13,21,N,-1,-1
 [END]
 
-;sufi=1030000005703
+;linzid=49177
 [POLYLINE]
 Type=0xa
 Label=AKERAMA RD
@@ -22224,7 +22224,7 @@ Nod2=50,2481,0
 Numbers1=0,O,285,311,E,302,356
 [END]
 
-;sufi=1030000005812
+;linzid=49266
 [POLYLINE]
 Type=0x6
 Label=BARNES RD
@@ -22238,7 +22238,7 @@ Nod2=1,2480,0
 Numbers1=0,O,11,11,E,26,142
 [END]
 
-;sufi=1030000000305
+;linzid=47785
 [POLYLINE]
 Type=0xa
 Label=PAIAKA RD
@@ -22251,7 +22251,7 @@ Nod1=0,2479,0
 Nod2=17,2491,0
 [END]
 
-;sufi=1030000016457
+;linzid=55857
 [POLYLINE]
 Type=0xa
 Label=CROWS NEST RD
@@ -22265,7 +22265,7 @@ Nod2=40,2492,0
 Numbers1=0,E,750,750,O,781,601
 [END]
 
-;sufi=1030000005564
+;linzid=90318
 [POLYLINE]
 Type=0x6
 Label=PAROA BAY RD
@@ -22278,7 +22278,7 @@ Nod1=0,2487,0
 Nod2=9,2493,0
 [END]
 
-;sufi=1030000005720
+;linzid=49190
 [POLYLINE]
 Type=0xa
 Label=WHAAKAURAU VALLEY RD
@@ -22292,7 +22292,7 @@ Nod2=49,3516,0
 Numbers1=0,O,73,79,E,28,102
 [END]
 
-;sufi=1030000005861
+;linzid=49304
 [POLYLINE]
 Type=0xa
 Label=RUSSEK RD
@@ -22306,7 +22306,7 @@ Nod2=2,3517,0
 Numbers1=0,O,35,117,E,94,144
 [END]
 
-;sufi=1030000005703
+;linzid=49177
 [POLYLINE]
 Type=0xa
 Label=AKERAMA RD
@@ -22320,7 +22320,7 @@ Nod2=4,2486,0
 Numbers1=0,E,40,40,N,-1,-1
 [END]
 
-;sufi=1030000005854
+;linzid=49298
 [POLYLINE]
 Type=0xa
 Label=RUSK RD
@@ -22334,7 +22334,7 @@ Nod2=7,2494,0
 Numbers1=0,E,90,20,N,-1,-1
 [END]
 
-;sufi=1030000016457
+;linzid=55857
 [POLYLINE]
 Type=0xa
 Label=CROWS NEST RD
@@ -22348,7 +22348,7 @@ Nod2=5,2492,0
 Numbers1=0,O,519,519,N,-1,-1
 [END]
 
-;sufi=1030000016457
+;linzid=55857
 [POLYLINE]
 Type=0xa
 Label=CROWS NEST RD
@@ -22362,7 +22362,7 @@ Nod2=27,2496,0
 Numbers1=0,E,452,390,N,-1,-1
 [END]
 
-;sufi=1030000016288
+;linzid=55735
 [POLYLINE]
 Type=0xa
 Label=SMIT RD
@@ -22376,7 +22376,7 @@ Nod2=9,3518,0
 Numbers1=0,N,-1,-1,E,30,30
 [END]
 
-;sufi=1030000005564
+;linzid=90318
 [POLYLINE]
 Type=0x6
 Label=PAROA BAY RD
@@ -22390,7 +22390,7 @@ Nod2=16,2497,0
 Numbers1=0,E,138,138,O,159,115
 [END]
 
-;sufi=1030000016457
+;linzid=55857
 [POLYLINE]
 Type=0x6
 Label=CROWS NEST RD
@@ -22403,7 +22403,7 @@ Nod1=0,2496,0
 Nod2=16,2504,0
 [END]
 
-;sufi=1030000005564
+;linzid=90318
 [POLYLINE]
 Type=0x6
 Label=PAROA BAY RD
@@ -22417,7 +22417,7 @@ Nod2=2,2503,0
 Numbers1=0,E,68,22,O,59,31
 [END]
 
-;sufi=1030000005525
+;linzid=49031
 [POLYLINE]
 Type=0xa
 Label=TAHIWI RD
@@ -22431,7 +22431,7 @@ Nod2=24,2523,0
 Numbers1=0,E,68,68,O,83,29
 [END]
 
-;sufi=1030000016457
+;linzid=55857
 [POLYLINE]
 Type=0x6
 Label=CROWS NEST RD
@@ -22445,7 +22445,7 @@ Nod2=10,2506,0
 Numbers1=0,E,6,6,O,17,3
 [END]
 
-;sufi=1030000016362
+;linzid=55789
 [POLYLINE]
 Type=0x6
 Label=HUKERENUI RD
@@ -22459,7 +22459,7 @@ Nod2=13,2525,0
 Numbers1=0,O,963,973,E,926,978
 [END]
 
-;sufi=1030000016385
+;linzid=55808
 [POLYLINE]
 Type=0x6
 Label=RIPONUI RD
@@ -22472,7 +22472,7 @@ Nod1=0,3523,1
 Nod2=9,4566,0
 [END]
 
-;sufi=1030000016385
+;linzid=55808
 [POLYLINE]
 Type=0x6
 Label=RIPONUI RD
@@ -22485,7 +22485,7 @@ Nod1=0,4560,1
 Nod2=3,4561,1
 [END]
 
-;sufi=1030000016362
+;linzid=55789
 [POLYLINE]
 Type=0x6
 Label=HUKERENUI RD
@@ -22498,7 +22498,7 @@ Nod1=0,4566,0
 Nod2=19,2502,0
 [END]
 
-;sufi=1030000016346
+;linzid=55778
 [POLYLINE]
 Type=0x6
 Label=KOPETI RD
@@ -22512,7 +22512,7 @@ Nod2=5,2524,0
 Numbers1=0,O,37,37,E,6,38
 [END]
 
-;sufi=1030000016398
+;linzid=55815
 [POLYLINE]
 Type=0x6
 Label=DOMAIN RD
@@ -22526,7 +22526,7 @@ Nod2=4,2512,0
 Numbers1=0,O,9,9,E,48,48
 [END]
 
-;sufi=1030000005523
+;linzid=49029
 [POLYLINE]
 Type=0xa
 Label=TAPUHI RD
@@ -22540,7 +22540,7 @@ Nod2=30,2515,0
 Numbers1=0,E,206,68,O,187,187
 [END]
 
-;sufi=1030000005689
+;linzid=49165
 [POLYLINE]
 Type=0x6
 Label=KINGFISHER POINT RD
@@ -22554,7 +22554,7 @@ Nod2=5,2534,0
 Numbers1=0,E,24,24,N,-1,-1
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Walkway
@@ -22567,7 +22567,7 @@ Nod1=0,3529,0
 Nod2=7,2531,0
 [END]
 
-;sufi=1030000005689
+;linzid=49165
 [POLYLINE]
 Type=0x6
 Label=KINGFISHER POINT RD
@@ -22580,7 +22580,7 @@ Nod1=0,3530,0
 Nod2=2,2531,0
 [END]
 
-;sufi=1030000212401
+;linzid=89575
 [POLYLINE]
 Type=0x6
 Label=JACKS BAY RD
@@ -22594,7 +22594,7 @@ Nod2=5,2532,0
 Numbers1=0,O,37,17,E,38,2
 [END]
 
-;sufi=1030000005715
+;linzid=49186
 [POLYLINE]
 Type=0x5
 Label=KEMPTHORNE RD
@@ -22608,7 +22608,7 @@ Nod2=7,2534,0
 Numbers1=0,O,245,257,E,248,274
 [END]
 
-;sufi=1030000005715
+;linzid=49186
 [POLYLINE]
 Type=0x5
 Label=KEMPTHORNE RD
@@ -22623,7 +22623,7 @@ Nod3=20,2542,0
 Numbers1=0,E,244,28,O,215,77
 [END]
 
-;sufi=1030000005508
+;linzid=49016
 [POLYLINE]
 Type=0xa
 Label=GORDON RD
@@ -22636,7 +22636,7 @@ Nod1=0,3531,0
 Nod2=3,2520,0
 [END]
 
-;sufi=1030000005523
+;linzid=49029
 [POLYLINE]
 Type=0xa
 Label=TAPUHI RD
@@ -22650,7 +22650,7 @@ Nod2=44,2521,0
 Numbers1=0,O,1073,1073,E,1002,1104
 [END]
 
-;sufi=1030000005525
+;linzid=49031
 [POLYLINE]
 Type=0x6
 Label=TAHIWI RD
@@ -22663,7 +22663,7 @@ Nod1=0,2523,0
 Nod2=1,2522,0
 [END]
 
-;sufi=1030000016362
+;linzid=55789
 [POLYLINE]
 Type=0x6
 Label=HUKERENUI RD
@@ -22676,7 +22676,7 @@ Nod1=0,2524,0
 Nod2=6,2528,0
 [END]
 
-;sufi=1030000016362
+;linzid=55789
 [POLYLINE]
 Type=0x6
 Label=HUKERENUI RD
@@ -22690,7 +22690,7 @@ Nod2=13,2541,0
 Numbers1=0,E,1366,1260,O,1373,1181
 [END]
 
-;sufi=1030000016362
+;linzid=55789
 [POLYLINE]
 Type=0x6
 Label=HUKERENUI RD
@@ -22704,7 +22704,7 @@ Nod2=16,2541,0
 Numbers1=0,O,1161,1181,N,-1,-1
 [END]
 
-;sufi=1030000016362
+;linzid=55789
 [POLYLINE]
 Type=0x6
 Label=HUKERENUI RD
@@ -22717,7 +22717,7 @@ Nod1=0,2525,0
 Nod2=7,2526,0
 [END]
 
-;sufi=1030000016413
+;linzid=55825
 [POLYLINE]
 Type=0x6
 Label=FORSYTHE RD
@@ -22731,7 +22731,7 @@ Nod2=16,3532,0
 Numbers1=0,O,131,131,N,-1,-1
 [END]
 
-;sufi=1030000005477
+;linzid=48989
 [POLYLINE]
 Type=0x5
 Label=MANAWAORA RD
@@ -22745,7 +22745,7 @@ Nod2=59,2549,0
 Numbers1=0,O,187,397,E,106,392
 [END]
 
-;sufi=1030000005477
+;linzid=48989
 [POLYLINE]
 Type=0x5
 Label=MANAWAORA RD
@@ -22759,7 +22759,7 @@ Nod2=20,2538,0
 Numbers1=0,O,75,75,E,88,106
 [END]
 
-;sufi=1030000004520
+;linzid=48370
 [POLYLINE]
 Type=0xa
 Label=WAIKARE RD
@@ -22773,7 +22773,7 @@ Nod2=50,2547,0
 Numbers1=0,E,1818,1818,O,1837,1829
 [END]
 
-;sufi=1030000016298
+;linzid=55743
 [POLYLINE]
 Type=0xa
 Label=JOHNSON RD
@@ -22787,7 +22787,7 @@ Nod2=13,2540,0
 Numbers1=0,E,82,82,O,69,33
 [END]
 
-;sufi=1030000016207
+;linzid=55675
 [POLYLINE]
 Type=0xa
 Label=WAIOTU BLOCK RD
@@ -22801,7 +22801,7 @@ Nod2=5,2543,0
 Numbers1=0,E,276,258,O,403,289
 [END]
 
-;sufi=1030000016141
+;linzid=55624
 [POLYLINE]
 Type=0xa
 Label=WHITE RD
@@ -22815,7 +22815,7 @@ Nod2=7,3535,0
 Numbers1=0,O,51,51,E,30,56
 [END]
 
-;sufi=1030000016413
+;linzid=55825
 [POLYLINE]
 Type=0x6
 Label=FORSYTHE RD
@@ -22828,7 +22828,7 @@ Nod1=0,2535,0
 Nod2=1,2536,0
 [END]
 
-;sufi=1030000016362
+;linzid=55789
 [POLYLINE]
 Type=0x6
 Label=HUKERENUI RD
@@ -22841,7 +22841,7 @@ Nod1=0,2535,0
 Nod2=1,3536,1
 [END]
 
-;sufi=1030000004520
+;linzid=48370
 [POLYLINE]
 Type=0xa
 Label=WAIKARE RD
@@ -22854,7 +22854,7 @@ Nod1=0,2548,0
 Nod2=2,2547,0
 [END]
 
-;sufi=1030000004520
+;linzid=48370
 [POLYLINE]
 Type=0xa
 Label=WAIKARE RD
@@ -22867,7 +22867,7 @@ Nod1=0,2544,0
 Nod2=4,2548,0
 [END]
 
-;sufi=1030000005593
+;linzid=49086
 [POLYLINE]
 Type=0x6
 Label=WAIKARE VALLEY RD
@@ -22880,7 +22880,7 @@ Nod1=0,3537,0
 Nod2=3,2544,0
 [END]
 
-;sufi=1030000005593
+;linzid=49086
 [POLYLINE]
 Type=0x6
 Label=WAIKARE VALLEY RD
@@ -22894,7 +22894,7 @@ Nod2=1,3538,0
 Numbers1=0,O,301,301,E,312,312
 [END]
 
-;sufi=1030000005593
+;linzid=49086
 [POLYLINE]
 Type=0xa
 Label=WAIKARE VALLEY RD
@@ -22908,7 +22908,7 @@ Nod2=15,2550,0
 Numbers1=0,O,351,369,E,312,382
 [END]
 
-;sufi=1030000016726
+;linzid=56062
 [POLYLINE]
 Type=0xa
 Label=UMUWHAWHA RD
@@ -22922,7 +22922,7 @@ Nod2=6,3540,0
 Numbers1=0,O,5,127,E,142,158
 [END]
 
-;sufi=1030000016207
+;linzid=55675
 [POLYLINE]
 Type=0xa
 Label=WAIOTU BLOCK RD
@@ -22935,7 +22935,7 @@ Nod1=0,2546,0
 Nod2=23,2543,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x6
 Label=Accessway
@@ -22948,7 +22948,7 @@ Nod1=0,3541,0
 Nod2=3,2549,0
 [END]
 
-;sufi=1030000005431
+;linzid=90350
 [POLYLINE]
 Type=0x6
 Label=SMITH-GREY CRES
@@ -22961,7 +22961,7 @@ Nod1=0,3542,0
 Nod2=1,2551,0
 [END]
 
-;sufi=1030000005477
+;linzid=48989
 [POLYLINE]
 Type=0x5
 Label=MANAWAORA RD
@@ -22975,7 +22975,7 @@ Nod2=18,2551,0
 Numbers1=0,O,419,475,E,410,470
 [END]
 
-;sufi=1030000005477
+;linzid=48989
 [POLYLINE]
 Type=0x5
 Label=MANAWAORA RD
@@ -22989,7 +22989,7 @@ Nod2=12,2555,0
 Numbers1=0,O,537,581,E,532,540
 [END]
 
-;sufi=1030000005431
+;linzid=90350
 [POLYLINE]
 Type=0x6
 Label=SMITH-GREY CRES
@@ -23003,7 +23003,7 @@ Nod2=6,2551,0
 Numbers1=0,E,12,4,O,11,5
 [END]
 
-;sufi=1030000005477
+;linzid=48989
 [POLYLINE]
 Type=0x5
 Label=MANAWAORA RD
@@ -23016,7 +23016,7 @@ Nod1=0,2551,0
 Nod2=10,2552,0
 [END]
 
-;sufi=1030000005490
+;linzid=49000
 [POLYLINE]
 Type=0xa
 Label=HENTY RD
@@ -23029,7 +23029,7 @@ Nod1=0,3545,0
 Nod2=10,2557,0
 [END]
 
-;sufi=1030000016175
+;linzid=55650
 [POLYLINE]
 Type=0xa
 Label=MINE RD
@@ -23043,7 +23043,7 @@ Nod2=36,2562,0
 Numbers1=0,E,686,218,O,597,369
 [END]
 
-;sufi=1030000203296
+;linzid=62290
 [POLYLINE]
 Type=0xa
 Label=KOKINGA POINT RD
@@ -23057,7 +23057,7 @@ Nod2=4,2554,0
 Numbers1=0,O,23,1,E,20,20
 [END]
 
-;sufi=1030000005411
+;linzid=48937
 [POLYLINE]
 Type=0xa
 Label=RAWHITI RD
@@ -23071,7 +23071,7 @@ Nod2=18,2554,0
 Numbers1=0,E,488,460,O,565,467
 [END]
 
-;sufi=1030000208331
+;linzid=62437
 [POLYLINE]
 Type=0xa
 Label=HIKUWAI RD
@@ -23085,7 +23085,7 @@ Nod2=12,2563,0
 Numbers1=0,E,90,50,O,51,29
 [END]
 
-;sufi=1030000005477
+;linzid=48989
 [POLYLINE]
 Type=0x5
 Label=MANAWAORA RD
@@ -23098,7 +23098,7 @@ Nod1=0,2556,0
 Nod2=5,2561,0
 [END]
 
-;sufi=1030000005477
+;linzid=48989
 [POLYLINE]
 Type=0x5
 Label=MANAWAORA RD
@@ -23111,7 +23111,7 @@ Nod1=0,2555,0
 Nod2=3,2556,0
 [END]
 
-;sufi=1030000019010
+;linzid=56803
 [POLYLINE]
 Type=0x6
 Label=BENTZEN DR
@@ -23125,7 +23125,7 @@ Nod2=10,3550,0
 Numbers1=0,O,15,43,N,-1,-1
 [END]
 
-;sufi=1030000016255
+;linzid=55708
 [POLYLINE]
 Type=0xa
 Label=PARSONS RD
@@ -23138,7 +23138,7 @@ Nod1=0,2557,0
 Nod2=5,3551,0
 [END]
 
-;sufi=1030000016255
+;linzid=55708
 [POLYLINE]
 Type=0xa
 Label=PARSONS RD
@@ -23151,7 +23151,7 @@ Nod1=0,2557,0
 Nod2=10,2558,0
 [END]
 
-;sufi=1030000016655
+;linzid=56007
 [POLYLINE]
 Type=0xa
 Label=PUHIPUHI RD
@@ -23164,7 +23164,7 @@ Nod1=0,2558,0
 Nod2=78,2575,0
 [END]
 
-;sufi=1030000016131
+;linzid=55617
 [POLYLINE]
 Type=0xa
 Label=GIBBS RD
@@ -23177,7 +23177,7 @@ Nod1=0,2559,0
 Nod2=2,2562,0
 [END]
 
-;sufi=1030000016131
+;linzid=55617
 [POLYLINE]
 Type=0xa
 Label=GIBBS RD
@@ -23191,7 +23191,7 @@ Nod2=2,2559,0
 Numbers1=0,E,114,114,O,167,167
 [END]
 
-;sufi=1030000016420
+;linzid=55830
 [POLYLINE]
 Type=0x6
 Label=MCLENNAN RD
@@ -23205,7 +23205,7 @@ Nod2=13,2572,0
 Numbers1=0,E,242,230,O,143,127
 [END]
 
-;sufi=1030000005477
+;linzid=48989
 [POLYLINE]
 Type=0x5
 Label=MANAWAORA RD
@@ -23219,7 +23219,7 @@ Nod2=23,2569,0
 Numbers1=0,O,671,671,N,-1,-1
 [END]
 
-;sufi=1030000005411
+;linzid=48937
 [POLYLINE]
 Type=0xa
 Label=RAWHITI RD
@@ -23233,7 +23233,7 @@ Nod2=3,2566,0
 Numbers1=0,N,-1,-1,E,798,798
 [END]
 
-;sufi=1030000005411
+;linzid=48937
 [POLYLINE]
 Type=0xa
 Label=RAWHITI RD
@@ -23246,7 +23246,7 @@ Nod1=0,2565,0
 Nod2=11,2570,0
 [END]
 
-;sufi=1030000005411
+;linzid=48937
 [POLYLINE]
 Type=0xa
 Label=RAWHITI RD
@@ -23260,7 +23260,7 @@ Nod2=4,2569,0
 Numbers1=0,O,811,811,N,-1,-1
 [END]
 
-;sufi=1030000005411
+;linzid=48937
 [POLYLINE]
 Type=0xa
 Label=RAWHITI RD
@@ -23274,7 +23274,7 @@ Nod2=16,2570,0
 Numbers1=0,O,697,697,E,604,648
 [END]
 
-;sufi=1030000016532
+;linzid=55914
 [POLYLINE]
 Type=0xa
 Label=WAIARIKI RD
@@ -23288,7 +23288,7 @@ Nod2=3,2571,0
 Numbers1=0,O,43,21,E,46,44
 [END]
 
-;sufi=1030000016655
+;linzid=56007
 [POLYLINE]
 Type=0xa
 Label=PUHIPUHI RD
@@ -23302,7 +23302,7 @@ Nod2=15,2574,0
 Numbers1=0,O,203,377,E,206,352
 [END]
 
-;sufi=1030000005411
+;linzid=48937
 [POLYLINE]
 Type=0x5
 Label=RAWHITI RD
@@ -23316,7 +23316,7 @@ Nod2=39,2586,0
 Numbers1=0,O,835,1077,E,874,874
 [END]
 
-;sufi=1030000016655
+;linzid=56007
 [POLYLINE]
 Type=0xa
 Label=PUHIPUHI RD
@@ -23329,7 +23329,7 @@ Nod1=0,2575,0
 Nod2=3,2577,0
 [END]
 
-;sufi=1030000016374
+;linzid=55798
 [POLYLINE]
 Type=0xa
 Label=TEATREE FLAT RD
@@ -23343,7 +23343,7 @@ Nod2=10,3555,0
 Numbers1=0,O,71,205,E,96,190
 [END]
 
-;sufi=1030000016655
+;linzid=56007
 [POLYLINE]
 Type=0xa
 Label=PUHIPUHI RD
@@ -23357,7 +23357,7 @@ Nod2=18,2577,0
 Numbers1=0,O,437,795,N,-1,-1
 [END]
 
-;sufi=1030000016556
+;linzid=55929
 [POLYLINE]
 Type=0xa
 Label=O'NEILL RD
@@ -23371,7 +23371,7 @@ Nod2=17,3556,0
 Numbers1=0,O,1,153,E,66,150
 [END]
 
-;sufi=1030000016655
+;linzid=56007
 [POLYLINE]
 Type=0xa
 Label=PUHIPUHI RD
@@ -23385,7 +23385,7 @@ Nod2=23,2576,0
 Numbers1=0,E,186,94,O,181,105
 [END]
 
-;sufi=1030000016655
+;linzid=56007
 [POLYLINE]
 Type=0xa
 Label=PUHIPUHI RD
@@ -23399,7 +23399,7 @@ Nod2=6,2576,0
 Numbers1=0,O,5,39,E,4,40
 [END]
 
-;sufi=1030000016711
+;linzid=56050
 [POLYLINE]
 Type=0x6
 Label=OLD NORTH RD
@@ -23413,7 +23413,7 @@ Nod2=10,2578,0
 Numbers1=0,E,64,42,O,87,67
 [END]
 
-;sufi=1030000016420
+;linzid=55830
 [POLYLINE]
 Type=0x6
 Label=MCLENNAN RD
@@ -23427,7 +23427,7 @@ Nod2=20,2578,0
 Numbers1=0,E,94,14,O,111,9
 [END]
 
-;sufi=1030000005411
+;linzid=48937
 [POLYLINE]
 Type=0x5
 Label=RAWHITI RD
@@ -23440,7 +23440,7 @@ Nod1=0,2585,0
 Nod2=13,2582,0
 [END]
 
-;sufi=1030000005411
+;linzid=48937
 [POLYLINE]
 Type=0x5
 Label=RAWHITI RD
@@ -23454,7 +23454,7 @@ Nod2=18,2595,0
 Numbers1=0,E,1570,1570,O,1569,1569
 [END]
 
-;sufi=1030000016711
+;linzid=56050
 [POLYLINE]
 Type=0x6
 Label=OLD NORTH RD
@@ -23468,7 +23468,7 @@ Nod2=5,2580,0
 Numbers1=0,E,24,18,O,5,3
 [END]
 
-;sufi=1030000016140
+;linzid=55623
 [POLYLINE]
 Type=0x6
 Label=WHANANAKI NORTH RD
@@ -23482,7 +23482,7 @@ Nod2=10,2588,0
 Numbers1=0,O,17,17,N,-1,-1
 [END]
 
-;sufi=1030000005411
+;linzid=48937
 [POLYLINE]
 Type=0x5
 Label=RAWHITI RD
@@ -23495,7 +23495,7 @@ Nod1=0,2586,0
 Nod2=23,3558,0
 [END]
 
-;sufi=1030000005411
+;linzid=48937
 [POLYLINE]
 Type=0x5
 Label=RAWHITI RD
@@ -23509,7 +23509,7 @@ Nod2=40,2596,0
 Numbers1=0,O,1207,1377,E,1202,1366
 [END]
 
-;sufi=1030000005656
+;linzid=49139
 [POLYLINE]
 Type=0xa
 Label=PAKEHAUA RD
@@ -23523,7 +23523,7 @@ Nod2=11,2594,0
 Numbers1=0,E,100,12,O,93,41
 [END]
 
-;sufi=1030000197646
+;linzid=61900
 [POLYLINE]
 Type=0xa
 Label=HODGSON RD
@@ -23537,7 +23537,7 @@ Nod2=4,2591,0
 Numbers1=0,O,5,5,N,-1,-1
 [END]
 
-;sufi=1030000016143
+;linzid=55625
 [POLYLINE]
 Type=0x6
 Label=WHIMP RD
@@ -23551,7 +23551,7 @@ Nod2=2,3563,0
 Numbers1=0,N,-1,-1,E,36,36
 [END]
 
-;sufi=1030000005411
+;linzid=48937
 [POLYLINE]
 Type=0x5
 Label=RAWHITI RD
@@ -23565,7 +23565,7 @@ Nod2=3,2597,0
 Numbers1=0,E,1540,1528,O,1535,1535
 [END]
 
-;sufi=1030000005411
+;linzid=48937
 [POLYLINE]
 Type=0x5
 Label=RAWHITI RD
@@ -23578,7 +23578,7 @@ Nod1=0,2595,0
 Nod2=2,2594,0
 [END]
 
-;sufi=1030000005411
+;linzid=48937
 [POLYLINE]
 Type=0x5
 Label=RAWHITI RD
@@ -23592,7 +23592,7 @@ Nod2=13,2597,0
 Numbers1=0,O,1453,1509,E,1412,1486
 [END]
 
-;sufi=1030000005701
+;linzid=49175
 [POLYLINE]
 Type=0x6
 Label=WHANGARURU NORTH RD
@@ -23606,7 +23606,7 @@ Nod2=40,2615,0
 Numbers1=0,O,47,365,E,32,198
 [END]
 
-;sufi=1030000005479
+;linzid=59883
 [POLYLINE]
 Type=0xa
 Label=MAHIA ROADWAY
@@ -23619,7 +23619,7 @@ Nod1=0,2595,0
 Nod2=17,3564,0
 [END]
 
-;sufi=1030000016746
+;linzid=56075
 [POLYLINE]
 Type=0xa
 Label=MATHESON RD
@@ -23633,7 +23633,7 @@ Nod2=4,3565,0
 Numbers1=0,O,23,23,E,34,42
 [END]
 
-;sufi=1030000016732
+;linzid=56066
 [POLYLINE]
 Type=0x6
 Label=ENWRIGHT RD
@@ -23647,7 +23647,7 @@ Nod2=8,2600,0
 Numbers1=0,N,-1,-1,E,56,56
 [END]
 
-;sufi=1030000016601
+;linzid=55963
 [POLYLINE]
 Type=0xa
 Label=PAPAKAURI RD
@@ -23660,7 +23660,7 @@ Nod1=0,2603,0
 Nod2=3,2606,0
 [END]
 
-;sufi=1030000016601
+;linzid=55963
 [POLYLINE]
 Type=0xa
 Label=PAPAKAURI RD
@@ -23674,7 +23674,7 @@ Nod2=4,2603,0
 Numbers1=0,E,32,32,O,37,37
 [END]
 
-;sufi=1030000016132
+;linzid=55618
 [POLYLINE]
 Type=0xa
 Label=WHANGARURU WHARF RD
@@ -23688,7 +23688,7 @@ Nod2=30,3569,0
 Numbers1=0,O,111,147,E,70,150
 [END]
 
-;sufi=1030000016661
+;linzid=56012
 [POLYLINE]
 Type=0xa
 Label=PUNARUKU RD
@@ -23701,7 +23701,7 @@ Nod1=0,3570,0
 Nod2=14,2610,0
 [END]
 
-;sufi=1030000016594
+;linzid=55958
 [POLYLINE]
 Type=0xa
 Label=OTONGA-MARUA RD
@@ -23715,7 +23715,7 @@ Nod2=18,2602,0
 Numbers1=0,O,357,417,N,-1,-1
 [END]
 
-;sufi=1030000016594
+;linzid=55958
 [POLYLINE]
 Type=0xa
 Label=OTONGA-MARUA RD
@@ -23728,7 +23728,7 @@ Nod1=0,2604,0
 Nod2=3,2607,0
 [END]
 
-;sufi=1030000016594
+;linzid=55958
 [POLYLINE]
 Type=0xa
 Label=OTONGA-MARUA RD
@@ -23742,7 +23742,7 @@ Nod2=22,2605,0
 Numbers1=0,O,255,255,N,-1,-1
 [END]
 
-;sufi=1030000210048
+;linzid=62508
 [POLYLINE]
 Type=0xa
 Label=MOODY RD
@@ -23755,7 +23755,7 @@ Nod1=0,2605,0
 Nod2=4,3574,0
 [END]
 
-;sufi=1030000016594
+;linzid=55958
 [POLYLINE]
 Type=0xa
 Label=OTONGA-MARUA RD
@@ -23768,7 +23768,7 @@ Nod1=0,2607,0
 Nod2=15,2612,0
 [END]
 
-;sufi=1030000016305
+;linzid=55747
 [POLYLINE]
 Type=0x6
 Label=JELLICK RD
@@ -23782,7 +23782,7 @@ Nod2=2,2612,0
 Numbers1=0,O,23,71,N,-1,-1
 [END]
 
-;sufi=1030000005701
+;linzid=49175
 [POLYLINE]
 Type=0x6
 Label=WHANGARURU NORTH RD
@@ -23796,7 +23796,7 @@ Nod2=53,2635,0
 Numbers1=0,O,663,663,E,648,668
 [END]
 
-;sufi=1030000016657
+;linzid=56009
 [POLYLINE]
 Type=0xa
 Label=PUKAPUKA RD
@@ -23810,7 +23810,7 @@ Nod2=10,2621,0
 Numbers1=0,E,70,28,O,29,25
 [END]
 
-;sufi=1030000016684
+;linzid=56031
 [POLYLINE]
 Type=0xa
 Label=HAY RD
@@ -23823,7 +23823,7 @@ Nod1=0,2614,0
 Nod2=25,2630,0
 [END]
 
-;sufi=1030000016631
+;linzid=55987
 [POLYLINE]
 Type=0xa
 Label=BISSETT RD
@@ -23837,7 +23837,7 @@ Nod2=9,3577,0
 Numbers1=0,O,47,47,N,-1,-1
 [END]
 
-;sufi=1030000005701
+;linzid=49175
 [POLYLINE]
 Type=0x6
 Label=WHANGARURU NORTH RD
@@ -23851,7 +23851,7 @@ Nod2=7,2645,0
 Numbers1=0,O,691,691,E,718,724
 [END]
 
-;sufi=1030000016662
+;linzid=61110
 [POLYLINE]
 Type=0x6
 Label=PUNIPUNI RD
@@ -23865,7 +23865,7 @@ Nod2=5,3578,0
 Numbers1=0,O,29,45,E,2,50
 [END]
 
-;sufi=1030000016716
+;linzid=56055
 [POLYLINE]
 Type=0x6
 Label=OHAWINI RD
@@ -23881,7 +23881,7 @@ Numbers1=0,E,48,6,O,43,29
 Numbers2=6,E,4,4,O,5,3
 [END]
 
-;sufi=1030000203579
+;linzid=62318
 [POLYLINE]
 Type=0xa
 Label=TAIWA RD
@@ -23895,7 +23895,7 @@ Nod2=1,3581,0
 Numbers1=0,E,18,50,O,33,1
 [END]
 
-;sufi=1030000016713
+;linzid=56052
 [POLYLINE]
 Type=0x6
 Label=OAKURA RD
@@ -23909,7 +23909,7 @@ Nod2=5,2642,0
 Numbers1=0,O,157,263,N,-1,-1
 [END]
 
-;sufi=1030000016148
+;linzid=55630
 [POLYLINE]
 Type=0x6
 Label=WHARUA RD
@@ -23923,7 +23923,7 @@ Nod2=2,2627,0
 Numbers1=0,O,21,1,E,26,2
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Walkway
@@ -23936,7 +23936,7 @@ Nod1=0,2636,0
 Nod2=1,2637,0
 [END]
 
-;sufi=1030000016709
+;linzid=56049
 [POLYLINE]
 Type=0x6
 Label=OMUTU ST
@@ -23950,7 +23950,7 @@ Nod2=1,2636,0
 Numbers1=0,O,3,9,E,4,14
 [END]
 
-;sufi=1030000016713
+;linzid=56052
 [POLYLINE]
 Type=0x6
 Label=OAKURA RD
@@ -23964,7 +23964,7 @@ Nod2=3,2627,0
 Numbers1=0,O,83,107,N,-1,-1
 [END]
 
-;sufi=1030000016379
+;linzid=55803
 [POLYLINE]
 Type=0x6
 Label=TE KAPUA ST
@@ -23978,7 +23978,7 @@ Nod2=1,2637,0
 Numbers1=0,O,1,15,E,2,12
 [END]
 
-;sufi=1030000016713
+;linzid=56052
 [POLYLINE]
 Type=0x6
 Label=OAKURA RD
@@ -23992,7 +23992,7 @@ Nod2=1,2628,0
 Numbers1=0,O,117,125,E,118,124
 [END]
 
-;sufi=1030000016379
+;linzid=55803
 [POLYLINE]
 Type=0x6
 Label=TE KAPUA ST
@@ -24006,7 +24006,7 @@ Nod2=1,3583,0
 Numbers1=0,O,19,31,E,14,22
 [END]
 
-;sufi=1030000016713
+;linzid=56052
 [POLYLINE]
 Type=0x6
 Label=OAKURA RD
@@ -24020,7 +24020,7 @@ Nod2=2,2639,0
 Numbers1=0,O,153,155,N,-1,-1
 [END]
 
-;sufi=1030000016576
+;linzid=55947
 [POLYLINE]
 Type=0x6
 Label=RAPATA RD
@@ -24034,7 +24034,7 @@ Nod2=4,2640,0
 Numbers1=0,O,11,11,N,-1,-1
 [END]
 
-;sufi=1030000016576
+;linzid=55947
 [POLYLINE]
 Type=0x6
 Label=RAPATA RD
@@ -24048,7 +24048,7 @@ Nod2=5,2647,0
 Numbers1=0,O,63,83,E,66,90
 [END]
 
-;sufi=1030000016713
+;linzid=56052
 [POLYLINE]
 Type=0x6
 Label=OAKURA RD
@@ -24062,7 +24062,7 @@ Nod2=12,2620,0
 Numbers1=0,E,62,4,O,77,1
 [END]
 
-;sufi=1030000016684
+;linzid=56031
 [POLYLINE]
 Type=0xa
 Label=HAY RD
@@ -24075,7 +24075,7 @@ Nod1=0,2630,0
 Nod2=12,3584,0
 [END]
 
-;sufi=1030000016384
+;linzid=55807
 [POLYLINE]
 Type=0x6
 Label=RICKARD RD
@@ -24088,7 +24088,7 @@ Nod1=0,3585,0
 Nod2=2,2624,0
 [END]
 
-;sufi=1030000016755
+;linzid=56084
 [POLYLINE]
 Type=0x6
 Label=MCBREEN RD
@@ -24102,7 +24102,7 @@ Nod2=3,2634,0
 Numbers1=0,O,101,331,E,2,106
 [END]
 
-;sufi=1030000005701
+;linzid=49175
 [POLYLINE]
 Type=0x6
 Label=WHANGARURU NORTH RD
@@ -24115,7 +24115,7 @@ Nod1=0,2645,0
 Nod2=2,2646,0
 [END]
 
-;sufi=1030000005701
+;linzid=49175
 [POLYLINE]
 Type=0x6
 Label=WHANGARURU NORTH RD
@@ -24129,7 +24129,7 @@ Nod2=1,2648,0
 Numbers1=0,O,739,739,E,738,744
 [END]
 
-;sufi=1030000016199
+;linzid=61056
 [POLYLINE]
 Type=0x6
 Label=LOGAN NICKS PL
@@ -24143,7 +24143,7 @@ Nod2=1,3588,0
 Numbers1=0,O,11,17,E,2,16
 [END]
 
-;sufi=1030000016563
+;linzid=55935
 [POLYLINE]
 Type=0x6
 Label=NGATIWAI PL
@@ -24157,7 +24157,7 @@ Nod2=3,3589,0
 Numbers1=0,O,7,3,E,2,10
 [END]
 
-;sufi=1030000016135
+;linzid=55620
 [POLYLINE]
 Type=0x6
 Label=WHAKATURIA AVE
@@ -24171,7 +24171,7 @@ Nod2=2,3590,0
 Numbers1=0,O,1,15,E,4,10
 [END]
 
-;sufi=1030000005701
+;linzid=49175
 [POLYLINE]
 Type=0x6
 Label=WHANGARURU NORTH RD
@@ -24185,7 +24185,7 @@ Nod2=10,2655,0
 Numbers1=0,O,749,849,E,748,836
 [END]
 
-;sufi=1030000016713
+;linzid=56052
 [POLYLINE]
 Type=0x6
 Label=OAKURA RD
@@ -24199,7 +24199,7 @@ Nod2=2,3591,0
 Numbers1=0,O,267,281,N,-1,-1
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x6
 Label=Accessway
@@ -24212,7 +24212,7 @@ Nod1=0,3592,0
 Nod2=2,2647,0
 [END]
 
-;sufi=1030000016576
+;linzid=55947
 [POLYLINE]
 Type=0x6
 Label=RAPATA RD
@@ -24226,7 +24226,7 @@ Nod2=3,3593,0
 Numbers1=0,O,103,111,E,120,124
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x6
 Label=Accessway
@@ -24239,7 +24239,7 @@ Nod1=0,2649,0
 Nod2=3,3594,0
 [END]
 
-;sufi=1030000016576
+;linzid=55947
 [POLYLINE]
 Type=0x6
 Label=RAPATA RD
@@ -24253,7 +24253,7 @@ Nod2=6,2649,0
 Numbers1=0,O,85,103,E,92,116
 [END]
 
-;sufi=1030000016177
+;linzid=61055
 [POLYLINE]
 Type=0xa
 Label=MOKAU RD
@@ -24267,7 +24267,7 @@ Nod2=20,3595,0
 Numbers1=0,O,37,45,E,26,46
 [END]
 
-;sufi=1030000016328
+;linzid=61071
 [POLYLINE]
 Type=0x6
 Label=BUSHBY RD
@@ -24281,7 +24281,7 @@ Nod2=4,2643,0
 Numbers1=0,N,-1,-1,E,26,26
 [END]
 
-;sufi=1030000016752
+;linzid=56081
 [POLYLINE]
 Type=0x6
 Label=MARTIN RD
@@ -24295,7 +24295,7 @@ Nod2=6,3597,0
 Numbers1=0,O,1,59,N,-1,-1
 [END]
 
-;sufi=1030000005701
+;linzid=49175
 [POLYLINE]
 Type=0x6
 Label=WHANGARURU NORTH RD
@@ -24309,7 +24309,7 @@ Nod2=21,3598,0
 Numbers1=0,O,891,891,E,902,978
 [END]
 
-;sufi=1030000016688
+;linzid=56034
 [POLYLINE]
 Type=0x6
 Label=HELENA BAY RD
@@ -24323,7 +24323,7 @@ Nod2=4,3599,0
 Numbers1=0,O,9,19,E,6,6
 [END]
 
-;sufi=1030000016689
+;linzid=56035
 [POLYLINE]
 Type=0x6
 Label=HELENA RD
@@ -24336,7 +24336,7 @@ Nod1=0,2656,0
 Nod2=1,2659,0
 [END]
 
-;sufi=1030000016395
+;linzid=55813
 [POLYLINE]
 Type=0x6
 Label=DOIDGE RD
@@ -24349,7 +24349,7 @@ Nod1=0,2661,0
 Nod2=5,3605,0
 [END]
 
-;sufi=1030000016197
+;linzid=55668
 [POLYLINE]
 Type=0x6
 Label=LOWE RD
@@ -24363,7 +24363,7 @@ Nod2=6,3606,1
 Numbers1=0,O,99,427,E,100,370
 [END]
 
-;sufi=1030000016144
+;linzid=55626
 [POLYLINE]
 Type=0xa
 Label=WHATMOUGH RD
@@ -24377,7 +24377,7 @@ Nod2=14,3607,0
 Numbers1=0,O,3,163,N,-1,-1
 [END]
 
-;sufi=1030000016587
+;linzid=55953
 [POLYLINE]
 Type=0x6
 Label=MADDREN RD
@@ -24391,7 +24391,7 @@ Nod2=7,2668,0
 Numbers1=0,O,61,61,N,-1,-1
 [END]
 
-;sufi=1030000016570
+;linzid=55942
 [POLYLINE]
 Type=0xa
 Label=NGAHAU BAY RD
@@ -24404,7 +24404,7 @@ Nod1=0,2675,0
 Nod2=13,3609,0
 [END]
 
-;sufi=1030000016570
+;linzid=55942
 [POLYLINE]
 Type=0xa
 Label=NGAHAU BAY RD
@@ -24418,7 +24418,7 @@ Nod2=24,2675,0
 Numbers1=0,O,179,177,N,-1,-1
 [END]
 
-;sufi=1030000016145
+;linzid=55627
 [POLYLINE]
 Type=0xa
 Label=WEBB RD
@@ -24431,7 +24431,7 @@ Nod1=0,2671,0
 Nod2=19,2673,0
 [END]
 
-;sufi=1030000016184
+;linzid=55656
 [POLYLINE]
 Type=0xa
 Label=MIMIWHANGATA RD
@@ -24444,7 +24444,7 @@ Nod1=0,2673,0
 Nod2=70,3610,0
 [END]
 
-;sufi=1030000016219
+;linzid=55684
 [POLYLINE]
 Type=0xa
 Label=WAIPIPI RD
@@ -24457,7 +24457,7 @@ Nod1=0,2677,0
 Nod2=15,3611,0
 [END]
 
-;sufi=1030000016414
+;linzid=55826
 [POLYLINE]
 Type=0x6
 Label=MCINNES RD
@@ -24471,7 +24471,7 @@ Nod2=5,3612,0
 Numbers1=0,N,-1,-1,E,2,14
 [END]
 
-;sufi=1030000016602
+;linzid=55964
 [POLYLINE]
 Type=0xa
 Label=PAETAWAI RD
@@ -24485,7 +24485,7 @@ Nod2=24,2679,0
 Numbers1=0,O,123,123,N,-1,-1
 [END]
 
-;sufi=1030000016140
+;linzid=55623
 [POLYLINE]
 Type=0x6
 Label=WHANANAKI NORTH RD
@@ -24499,7 +24499,7 @@ Nod2=22,2683,0
 Numbers1=0,O,1861,1861,E,1836,1858
 [END]
 
-;sufi=1030000016508
+;linzid=55895
 [POLYLINE]
 Type=0xa
 Label=HAILES RD
@@ -24512,7 +24512,7 @@ Nod1=0,2679,0
 Nod2=31,4660,0
 [END]
 
-;sufi=1030000016514
+;linzid=55899
 [POLYLINE]
 Type=0xa
 Label=HALVORSON RD
@@ -24526,7 +24526,7 @@ Nod2=32,2683,0
 Numbers1=0,O,139,139,N,-1,-1
 [END]
 
-;sufi=1030000016386
+;linzid=61076
 [POLYLINE]
 Type=0xa
 Label=ROCKELL RD
@@ -24541,7 +24541,7 @@ Nod3=79,2689,0
 Numbers1=0,E,678,526,O,631,541
 [END]
 
-;sufi=1030000016386
+;linzid=61076
 [POLYLINE]
 Type=0x6
 Label=ROCKELL RD
@@ -24554,7 +24554,7 @@ Nod1=0,2689,0
 Nod2=10,2692,0
 [END]
 
-;sufi=1030000016742
+;linzid=56072
 [POLYLINE]
 Type=0x6
 Label=MATAPIKO RD
@@ -24568,7 +24568,7 @@ Nod2=13,3616,0
 Numbers1=0,O,1,33,E,2,32
 [END]
 
-;sufi=1030000016386
+;linzid=61076
 [POLYLINE]
 Type=0xa
 Label=ROCKELL RD
@@ -24582,7 +24582,7 @@ Nod2=115,2698,0
 Numbers1=0,E,264,264,O,455,261
 [END]
 
-;sufi=1030000198683
+;linzid=62012
 [POLYLINE]
 Type=0xa
 Label=TE ARA O TUNUA RD
@@ -24595,7 +24595,7 @@ Nod1=0,2693,0
 Nod2=1,2697,0
 [END]
 
-;sufi=1030000016134
+;linzid=61050
 [POLYLINE]
 Type=0x6
 Label=WHANANAKI SOUTH RD
@@ -24608,7 +24608,7 @@ Nod1=0,2693,0
 Nod2=12,2695,0
 [END]
 
-;sufi=1030000016353
+;linzid=55783
 [POLYLINE]
 Type=0x6
 Label=EDGE RD
@@ -24621,7 +24621,7 @@ Nod1=0,2690,0
 Nod2=4,3617,0
 [END]
 
-;sufi=1030000016386
+;linzid=61076
 [POLYLINE]
 Type=0xa
 Label=ROCKELL RD
@@ -24635,7 +24635,7 @@ Nod2=10,2698,0
 Numbers1=0,O,155,193,N,-1,-1
 [END]
 
-;sufi=1030000016386
+;linzid=61076
 [POLYLINE]
 Type=0xa
 Label=ROCKELL RD
@@ -24649,7 +24649,7 @@ Nod2=14,2700,0
 Numbers1=0,E,112,72,O,115,115
 [END]
 
-;sufi=1030000016134
+;linzid=61050
 [POLYLINE]
 Type=0x6
 Label=WHANANAKI SOUTH RD
@@ -24662,7 +24662,7 @@ Nod1=0,2695,0
 Nod2=38,3618,0
 [END]
 
-;sufi=1030000203575
+;linzid=62316
 [POLYLINE]
 Type=0xa
 Label=PUKEKAWA RD
@@ -24676,7 +24676,7 @@ Nod2=10,2697,0
 Numbers1=0,N,-1,-1,O,91,81
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x6
 Label=Accessway
@@ -24689,7 +24689,7 @@ Nod1=0,2700,0
 Nod2=3,3620,0
 [END]
 
-;sufi=1030000016386
+;linzid=61076
 [POLYLINE]
 Type=0x6
 Label=ROCKELL RD
@@ -24703,7 +24703,7 @@ Nod2=15,2700,0
 Numbers1=0,O,3,69,E,42,42
 [END]
 
-;sufi=1030000016136
+;linzid=55621
 [POLYLINE]
 Type=0xa
 Label=WHANANAKI WHARF RD
@@ -24717,7 +24717,7 @@ Nod2=18,3621,0
 Numbers1=0,O,1,1,N,-1,-1
 [END]
 
-;sufi=1030000016760
+;linzid=56088
 [POLYLINE]
 Type=0xa
 Label=MCAUSLIN RD
@@ -24731,7 +24731,7 @@ Nod2=15,3622,0
 Numbers1=0,O,3,61,E,60,60
 [END]
 
-;sufi=1030000016622
+;linzid=55980
 [POLYLINE]
 Type=0x6
 Label=KAONE POINT RD
@@ -24745,7 +24745,7 @@ Nod2=2,3623,0
 Numbers1=0,O,1,11,N,-1,-1
 [END]
 
-;sufi=1030000016695
+;linzid=56039
 [POLYLINE]
 Type=0x6
 Label=WOOLLEY ST
@@ -24758,7 +24758,7 @@ Nod1=0,2704,0
 Nod2=2,2703,0
 [END]
 
-;sufi=1030000016695
+;linzid=56039
 [POLYLINE]
 Type=0x6
 Label=WOOLLEY ST
@@ -24772,7 +24772,7 @@ Nod2=1,3624,0
 Numbers1=0,O,1,11,E,6,12
 [END]
 
-;sufi=2030000000676
+;linzid=90269
 [POLYLINE]
 Type=0xa
 Label=OTANGAROA ROAD SIDE RD
@@ -24786,7 +24786,7 @@ Nod2=5,3625,0
 Numbers1=0,O,61,61,E,30,66
 [END]
 
-;sufi=1030000016652
+;linzid=56006
 [POLYLINE]
 Type=0x6
 Label=CLEMENTS RD
@@ -24800,7 +24800,7 @@ Nod2=5,4275,0
 Numbers1=0,E,42,40,N,-1,-1
 [END]
 
-;sufi=1030000016183
+;linzid=55655
 [POLYLINE]
 Type=0x6
 Label=MORRISON RD
@@ -24814,7 +24814,7 @@ Nod2=1,3627,0
 Numbers1=0,O,23,43,E,20,38
 [END]
 
-;sufi=1030000016316
+;linzid=55755
 [POLYLINE]
 Type=0x6
 Label=ASPDEN PL
@@ -24828,7 +24828,7 @@ Nod2=4,2708,0
 Numbers1=0,E,18,4,O,15,3
 [END]
 
-;sufi=1030000016129
+;linzid=55616
 [POLYLINE]
 Type=0x6
 Label=GALBRAITH ST
@@ -24842,7 +24842,7 @@ Nod2=1,3629,0
 Numbers1=0,O,3,25,E,4,40
 [END]
 
-;sufi=1030000016382
+;linzid=55805
 [POLYLINE]
 Type=0x6
 Label=RINGER AVE
@@ -24855,7 +24855,7 @@ Nod1=0,2707,0
 Nod2=1,2708,0
 [END]
 
-;sufi=1030000016382
+;linzid=55805
 [POLYLINE]
 Type=0x6
 Label=RINGER AVE
@@ -24869,7 +24869,7 @@ Nod2=2,2711,0
 Numbers1=0,E,10,4,O,5,3
 [END]
 
-;sufi=1030000016382
+;linzid=55805
 [POLYLINE]
 Type=0x6
 Label=RINGER AVE
@@ -24883,7 +24883,7 @@ Nod2=2,2707,0
 Numbers1=0,E,14,12,O,13,11
 [END]
 
-;sufi=1030000016183
+;linzid=55655
 [POLYLINE]
 Type=0x6
 Label=MORRISON RD
@@ -24897,7 +24897,7 @@ Nod2=2,2711,0
 Numbers1=0,O,1,21,E,2,18
 [END]
 
-;sufi=1030000016582
+;linzid=55950
 [POLYLINE]
 Type=0x6
 Label=MACKIE PL
@@ -24911,7 +24911,7 @@ Nod2=1,3631,0
 Numbers1=0,O,11,19,E,10,16
 [END]
 
-;sufi=1030000016582
+;linzid=55950
 [POLYLINE]
 Type=0x6
 Label=MACKIE PL
@@ -24925,7 +24925,7 @@ Nod2=3,2714,0
 Numbers1=0,E,6,2,O,11,1
 [END]
 
-;sufi=1030000016154
+;linzid=55634
 [POLYLINE]
 Type=0x6
 Label=WEHIWEHI RD
@@ -24939,7 +24939,7 @@ Nod2=2,3632,0
 Numbers1=0,O,1,27,E,2,26
 [END]
 
-;sufi=1030000016652
+;linzid=56006
 [POLYLINE]
 Type=0x6
 Label=CLEMENTS RD
@@ -24953,7 +24953,7 @@ Nod2=4,4275,0
 Numbers1=0,O,1,25,E,2,2
 [END]
 
-;sufi=1030000184014
+;linzid=58973
 [POLYLINE]
 Type=0x6
 Label=KUKUPA PL
@@ -24967,7 +24967,7 @@ Nod2=1,2717,0
 Numbers1=0,E,14,2,O,11,5
 [END]
 
-;sufi=1030000016376
+;linzid=55800
 [POLYLINE]
 Type=0x6
 Label=TE WAIROA ST
@@ -24980,7 +24980,7 @@ Nod1=0,2716,0
 Nod2=3,3634,0
 [END]
 
-;sufi=1030000016528
+;linzid=55910
 [POLYLINE]
 Type=0x6
 Label=WAETFORD RD
@@ -24994,7 +24994,7 @@ Nod2=3,2716,0
 Numbers1=0,O,1,63,E,2,26
 [END]
 
-;sufi=1030000016376
+;linzid=55800
 [POLYLINE]
 Type=0x6
 Label=TE WAIROA ST
@@ -25008,7 +25008,7 @@ Nod2=2,2716,0
 Numbers1=0,O,1,15,E,16,16
 [END]
 
-;sufi=1030000006367
+;linzid=49723
 [POLYLINE]
 Type=0xa
 Label=FERN FLAT RD
@@ -25022,7 +25022,7 @@ Nod2=76,1054,0
 Numbers1=0,O,25,25,E,72,188
 [END]
 
-;sufi=1030000006428
+;linzid=49774
 [POLYLINE]
 Type=0xa
 Label=KOHUMARU RD
@@ -25043,7 +25043,7 @@ Nod9=172,1117,0
 Numbers1=0,O,551,1257,E,460,1186
 [END]
 
-;sufi=1030000006428
+;linzid=49774
 [POLYLINE]
 Type=0xa
 Label=KOHUMARU RD
@@ -25057,7 +25057,7 @@ Nod2=64,1128,0
 Numbers1=0,O,413,413,E,48,214
 [END]
 
-;sufi=1030000212625
+;linzid=89703
 [POLYLINE]
 Type=0x6
 Label=TE MOARI RD
@@ -25071,7 +25071,7 @@ Nod2=6,1559,0
 Numbers1=0,E,22,22,O,25,17
 [END]
 
-;sufi=1030000212625
+;linzid=89703
 [POLYLINE]
 Type=0x6
 Label=TE MOARI RD
@@ -25084,7 +25084,7 @@ Nod1=0,1559,0
 Nod2=1,1576,0
 [END]
 
-;sufi=1030000006621
+;linzid=60035
 [POLYLINE]
 Type=0x6
 Label=MCGEE RD
@@ -25098,7 +25098,7 @@ Nod2=3,1585,0
 Numbers1=0,O,1,3,N,-1,-1
 [END]
 
-;sufi=1030000214176
+;linzid=91010
 [POLYLINE]
 Type=0x6
 Label=BASKA VODA DR
@@ -25112,7 +25112,7 @@ Nod2=3,3635,0
 Numbers1=0,O,1,9,E,2,14
 [END]
 
-;sufi=1030000006056
+;linzid=49463
 [POLYLINE]
 Type=0x6
 Label=KOUTU LOOP RD
@@ -25125,7 +25125,7 @@ Nod1=0,760,0
 Nod2=1,757,0
 [END]
 
-;sufi=1030000214228
+;linzid=91059
 [POLYLINE]
 Type=0x6
 Label=KAHIKATEAROA LANE
@@ -25139,7 +25139,7 @@ Nod2=1,1774,0
 Numbers1=0,E,6,2,N,-1,-1
 [END]
 
-;sufi=1030000214228
+;linzid=91059
 [POLYLINE]
 Type=0x6
 Label=KAHIKATEAROA LANE
@@ -25153,7 +25153,7 @@ Nod2=1,1766,0
 Numbers1=0,E,8,8,N,-1,-1
 [END]
 
-;sufi=1030000214226
+;linzid=91060
 [POLYLINE]
 Type=0x6
 Label=KLINAC LANE
@@ -25167,7 +25167,7 @@ Nod2=10,1766,0
 Numbers1=0,B,29,29,B,40,40
 [END]
 
-;sufi=1030000214438
+;linzid=90319
 [POLYLINE]
 Type=0x6
 Label=BLUE MARLIN DR
@@ -25181,7 +25181,7 @@ Nod2=11,1849,0
 Numbers1=0,E,44,4,O,47,1
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x6
 Label=Walkway
@@ -25194,7 +25194,7 @@ Nod1=0,2325,0
 Nod2=5,2330,0
 [END]
 
-;sufi=1030000005851
+;linzid=59932
 [POLYLINE]
 Type=0x6
 Label=OPITO BAY RD
@@ -25210,7 +25210,7 @@ Numbers1=0,O,29,33,E,90,90
 Numbers2=5,O,55,213,E,90,228
 [END]
 
-;sufi=1030000005532
+;linzid=59888
 [POLYLINE]
 Type=0x6
 Label=TUI GRV
@@ -25224,7 +25224,7 @@ Nod2=8,2304,0
 Numbers1=0,E,26,2,O,25,1
 [END]
 
-;sufi=1030000006568
+;linzid=49890
 [POLYLINE]
 Type=0x6
 Label=KAIMAUMAU RD
@@ -25238,7 +25238,7 @@ Nod2=3,221,0
 Numbers1=0,O,311,333,N,-1,-1
 [END]
 
-;sufi=1030000006568
+;linzid=49890
 [POLYLINE]
 Type=0x6
 Label=KAIMAUMAU RD
@@ -25252,7 +25252,7 @@ Nod2=37,397,0
 Numbers1=0,O,573,843,N,-1,-1
 [END]
 
-;sufi=1030000006568
+;linzid=49890
 [POLYLINE]
 Type=0x6
 Label=KAIMAUMAU RD
@@ -25266,7 +25266,7 @@ Nod2=6,233,0
 Numbers1=0,O,369,407,E,348,388
 [END]
 
-;sufi=1030000212026
+;linzid=89314
 [POLYLINE]
 Type=0x6
 Label=RANUI AVE
@@ -25280,7 +25280,7 @@ Nod2=5,3643,0
 Numbers1=0,O,11,13,E,10,28
 [END]
 
-;sufi=1030000212026
+;linzid=89314
 [POLYLINE]
 Type=0x6
 Label=RANUI AVE
@@ -25294,7 +25294,7 @@ Nod2=2,1810,0
 Numbers1=0,O,1,9,E,2,8
 [END]
 
-;sufi=1030000212030
+;linzid=89316
 [POLYLINE]
 Type=0x6
 Label=WOODLEY PL
@@ -25308,7 +25308,7 @@ Nod2=5,1828,0
 Numbers1=0,E,8,2,O,3,13
 [END]
 
-;sufi=1030000212028
+;linzid=89315
 [POLYLINE]
 Type=0x6
 Label=CHARLOTTE KEMP DR
@@ -25322,7 +25322,7 @@ Nod2=4,1828,0
 Numbers1=0,O,1,9,E,6,6
 [END]
 
-;sufi=1030000212028
+;linzid=89315
 [POLYLINE]
 Type=0x6
 Label=CHARLOTTE KEMP DR
@@ -25336,7 +25336,7 @@ Nod2=1,3645,0
 Numbers1=0,O,15,15,E,8,8
 [END]
 
-;sufi=1030000212032
+;linzid=89317
 [POLYLINE]
 Type=0x6
 Label=GENERAL GATES AVE
@@ -25350,7 +25350,7 @@ Nod2=1,1845,0
 Numbers1=0,E,14,2,O,13,1
 [END]
 
-;sufi=1030000006449
+;linzid=60013
 [POLYLINE]
 Type=0x6
 Label=HUKATERE RD
@@ -25364,7 +25364,7 @@ Nod2=4,78,0
 Numbers1=0,E,110,86,O,113,29
 [END]
 
-;sufi=1030000006343
+;linzid=49703
 [POLYLINE]
 Type=0x6
 Label=WHALERS RD
@@ -25378,7 +25378,7 @@ Nod2=9,82,0
 Numbers1=0,E,98,80,O,89,89
 [END]
 
-;sufi=1030000006343
+;linzid=49703
 [POLYLINE]
 Type=0xa
 Label=WHALERS RD
@@ -25392,7 +25392,7 @@ Nod2=8,3647,0
 Numbers1=0,O,187,187,E,158,212
 [END]
 
-;sufi=1030000006609
+;linzid=60032
 [POLYLINE]
 Type=0x6
 Label=OPARIHI RD
@@ -25406,7 +25406,7 @@ Nod2=3,6090,0
 Numbers1=0,N,-1,-1,O,9,9
 [END]
 
-;sufi=1030000006658
+;linzid=49962
 [POLYLINE]
 Type=0x6
 Label=GREEN LANE
@@ -25420,7 +25420,7 @@ Nod2=7,3648,0
 Numbers1=0,O,31,39,E,72,72
 [END]
 
-;sufi=1030000006658
+;linzid=49962
 [POLYLINE]
 Type=0x6
 Label=GREEN LANE
@@ -25433,7 +25433,7 @@ Nod1=0,1493,0
 Nod2=5,1488,0
 [END]
 
-;sufi=1030000212303
+;linzid=89500
 [POLYLINE]
 Type=0x6
 Label=GREEN LANE ACCS
@@ -25447,7 +25447,7 @@ Nod2=1,3649,0
 Numbers1=0,O,9,9,E,6,12
 [END]
 
-;sufi=1030000006268
+;linzid=49640
 [POLYLINE]
 Type=0x6
 Label=MATAI BAY RD
@@ -25461,7 +25461,7 @@ Nod2=13,677,0
 Numbers1=0,O,79,109,E,104,172
 [END]
 
-;sufi=1030000006268
+;linzid=49640
 [POLYLINE]
 Type=0x6
 Label=MATAI BAY RD
@@ -25474,7 +25474,7 @@ Nod1=0,703,0
 Nod2=1,702,0
 [END]
 
-;sufi=1030000006268
+;linzid=49640
 [POLYLINE]
 Type=0xa
 Label=MATAI BAY RD
@@ -25488,7 +25488,7 @@ Nod2=5,712,0
 Numbers1=0,O,449,515,E,422,530
 [END]
 
-;sufi=1030000006419
+;linzid=60009
 [POLYLINE]
 Type=0xa
 Label=WAIRAHORAHO RD
@@ -25501,7 +25501,7 @@ Nod1=0,703,0
 Nod2=1,713,0
 [END]
 
-;sufi=1030000006268
+;linzid=49640
 [POLYLINE]
 Type=0x6
 Label=MATAI BAY RD
@@ -25515,7 +25515,7 @@ Nod2=10,703,0
 Numbers1=0,O,235,235,E,318,336
 [END]
 
-;sufi=1030000006419
+;linzid=60009
 [POLYLINE]
 Type=0xa
 Label=WAIRAHORAHO RD
@@ -25529,7 +25529,7 @@ Nod2=2,730,0
 Numbers1=0,O,91,91,E,126,126
 [END]
 
-;sufi=1030000006586
+;linzid=49905
 [POLYLINE]
 Type=0xa
 Label=CHURCH ROADWAY
@@ -25542,7 +25542,7 @@ Nod1=0,3650,0
 Nod2=3,713,0
 [END]
 
-;sufi=1030000006569
+;linzid=49891
 [POLYLINE]
 Type=0xa
 Label=KAIAWE RD
@@ -25556,7 +25556,7 @@ Nod2=10,3651,0
 Numbers1=0,O,17,111,E,56,120
 [END]
 
-;sufi=1030000199209
+;linzid=62064
 [POLYLINE]
 Type=0x6
 Label=OKAHU DOWNS DR
@@ -25570,7 +25570,7 @@ Nod2=2,402,0
 Numbers1=0,E,54,68,O,59,67
 [END]
 
-;sufi=1030000006500
+;linzid=49836
 [POLYLINE]
 Type=0xa
 Label=NGAKAROA RD
@@ -25584,7 +25584,7 @@ Nod2=9,3653,0
 Numbers1=0,N,-1,-1,E,30,70
 [END]
 
-;sufi=1030000006597
+;linzid=49915
 [POLYLINE]
 Type=0xa
 Label=RANGIKOHU RD
@@ -25598,7 +25598,7 @@ Nod2=2,192,0
 Numbers1=0,E,90,90,N,-1,-1
 [END]
 
-;sufi=1030000006597
+;linzid=49915
 [POLYLINE]
 Type=0xa
 Label=RANGIKOHU RD
@@ -25612,7 +25612,7 @@ Nod2=9,193,0
 Numbers1=0,E,160,136,N,-1,-1
 [END]
 
-;sufi=1030000006607
+;linzid=49924
 [POLYLINE]
 Type=0xa
 Label=OWHATA RD
@@ -25626,7 +25626,7 @@ Nod2=34,3655,0
 Numbers1=0,O,101,313,E,266,312
 [END]
 
-;sufi=1030000005655
+;linzid=49138
 [POLYLINE]
 Type=0x5
 Label=OTIRIA RD
@@ -25640,7 +25640,7 @@ Nod2=1,1993,0
 Numbers1=0,E,190,190,O,211,175
 [END]
 
-;sufi=1030000005655
+;linzid=49138
 [POLYLINE]
 Type=0x5
 Label=OTIRIA RD
@@ -25653,7 +25653,7 @@ Nod1=0,1978,0
 Nod2=1,1979,0
 [END]
 
-;sufi=1030000212349
+;linzid=89540
 [POLYLINE]
 Type=0x6
 Label=WAHAMITI LANE
@@ -25667,7 +25667,7 @@ Nod2=1,3656,0
 Numbers1=0,O,7,25,N,-1,-1
 [END]
 
-;sufi=1030000212351
+;linzid=89543
 [POLYLINE]
 Type=0xa
 Label=TIPATIPA RD
@@ -25684,7 +25684,7 @@ Nod5=43,5184,0
 Nod6=47,1194,0
 [END]
 
-;sufi=1030000005671
+;linzid=49151
 [POLYLINE]
 Type=0x6
 Label=TAUPO BAY RD
@@ -25698,7 +25698,7 @@ Nod2=14,1241,0
 Numbers1=0,O,179,245,E,196,210
 [END]
 
-;sufi=1030000006105
+;linzid=49504
 [POLYLINE]
 Type=0xa
 Label=WAIMAHANA RD
@@ -25711,7 +25711,7 @@ Nod1=0,1241,0
 Nod2=65,3658,0
 [END]
 
-;sufi=1030000005671
+;linzid=49151
 [POLYLINE]
 Type=0x6
 Label=TAUPO BAY RD
@@ -25724,7 +25724,7 @@ Nod1=0,1241,0
 Nod2=5,1245,0
 [END]
 
-;sufi=1030000212353
+;linzid=89544
 [POLYLINE]
 Type=0xa
 Label=AKATERE RD
@@ -25738,7 +25738,7 @@ Nod2=1,3659,0
 Numbers1=0,O,21,27,E,24,36
 [END]
 
-;sufi=1030000212355
+;linzid=89545
 [POLYLINE]
 Type=0xa
 Label=ATWELL RD
@@ -25752,7 +25752,7 @@ Nod2=2,3660,0
 Numbers1=0,N,-1,-1,E,38,56
 [END]
 
-;sufi=1030000006650
+;linzid=60038
 [POLYLINE]
 Type=0x5
 Label=WAINUI RD
@@ -25766,7 +25766,7 @@ Nod2=7,1482,0
 Numbers1=0,O,465,465,N,-1,-1
 [END]
 
-;sufi=1030000006650
+;linzid=60038
 [POLYLINE]
 Type=0x5
 Label=WAINUI RD
@@ -25779,7 +25779,7 @@ Nod1=0,1413,0
 Nod2=10,1455,0
 [END]
 
-;sufi=1030000006650
+;linzid=60038
 [POLYLINE]
 Type=0x5
 Label=WAINUI RD
@@ -25793,7 +25793,7 @@ Nod2=5,1413,0
 Numbers1=0,O,155,155,N,-1,-1
 [END]
 
-;sufi=1030000006650
+;linzid=60038
 [POLYLINE]
 Type=0x5
 Label=WAINUI RD
@@ -25807,7 +25807,7 @@ Nod2=14,1406,0
 Numbers1=0,O,15,63,E,24,112
 [END]
 
-;sufi=1030000006650
+;linzid=60038
 [POLYLINE]
 Type=0x5
 Label=WAINUI RD
@@ -25822,7 +25822,7 @@ Nod3=52,1716,0
 Numbers1=0,O,1787,2105,E,1784,1808
 [END]
 
-;sufi=1030000212383
+;linzid=89558
 [POLYLINE]
 Type=0x6
 Label=AWHITU RD
@@ -25836,7 +25836,7 @@ Nod2=3,3661,0
 Numbers1=0,O,7,17,N,-1,-1
 [END]
 
-;sufi=1030000006461
+;linzid=49801
 [POLYLINE]
 Type=0xa
 Label=BACKRIVER RD
@@ -25850,7 +25850,7 @@ Nod2=2,896,0
 Numbers1=0,E,852,852,N,-1,-1
 [END]
 
-;sufi=1030000006688
+;linzid=60044
 [POLYLINE]
 Type=0xa
 Label=GANGWAY RD
@@ -25864,7 +25864,7 @@ Nod2=9,1332,0
 Numbers1=0,E,110,88,O,95,85
 [END]
 
-;sufi=1030000005899
+;linzid=49336
 [POLYLINE]
 Type=0x6
 Label=HANSEN RD
@@ -25878,7 +25878,7 @@ Nod2=9,867,0
 Numbers1=0,E,62,16,N,-1,-1
 [END]
 
-;sufi=1030000005899
+;linzid=49336
 [POLYLINE]
 Type=0x6
 Label=HANSEN RD
@@ -25891,7 +25891,7 @@ Nod1=0,867,0
 Nod2=3,871,0
 [END]
 
-;sufi=1030000006001
+;linzid=49417
 [POLYLINE]
 Type=0xa
 Label=PAWARENGA RD
@@ -25905,7 +25905,7 @@ Nod2=4,457,0
 Numbers1=0,E,1454,1454,N,-1,-1
 [END]
 
-;sufi=1030000006051
+;linzid=49459
 [POLYLINE]
 Type=0xa
 Label=WEST COAST RD
@@ -25919,7 +25919,7 @@ Nod2=46,500,0
 Numbers1=0,E,3590,3410,O,3589,3543
 [END]
 
-;sufi=1030000006051
+;linzid=49459
 [POLYLINE]
 Type=0xa
 Label=WEST COAST RD
@@ -25933,7 +25933,7 @@ Nod2=5,452,0
 Numbers1=0,E,3680,3680,O,3709,3709
 [END]
 
-;sufi=1030000212391
+;linzid=89563
 [POLYLINE]
 Type=0x6
 Label=HOHAIA RD
@@ -25947,7 +25947,7 @@ Nod2=5,452,0
 Numbers1=0,N,-1,-1,E,28,28
 [END]
 
-;sufi=1030000210614
+;linzid=89568
 [POLYLINE]
 Type=0xa
 Label=UTAKURA VALLEY RD
@@ -25960,7 +25960,7 @@ Nod1=0,1235,0
 Nod2=5,1249,0
 [END]
 
-;sufi=1030000006036
+;linzid=49446
 [POLYLINE]
 Type=0x6
 Label=RANGIAHUA RD
@@ -25973,7 +25973,7 @@ Nod1=0,1217,0
 Nod2=12,1230,0
 [END]
 
-;sufi=1030000055467
+;linzid=58778
 [POLYLINE]
 Type=0x6
 Label=HULME DR
@@ -25987,7 +25987,7 @@ Nod2=2,1424,0
 Numbers1=0,O,3,3,E,2,2
 [END]
 
-;sufi=1030000006620
+;linzid=49934
 [POLYLINE]
 Type=0x5
 Label=MATAURI BAY RD
@@ -26002,7 +26002,7 @@ Nod3=25,1721,0
 Numbers1=0,O,819,1205,E,818,1030
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x6
 Label=Accessway
@@ -26015,7 +26015,7 @@ Nod1=0,3668,0
 Nod2=4,2527,0
 [END]
 
-;sufi=1030000212403
+;linzid=89578
 [POLYLINE]
 Type=0x6
 Label=KOUTU BEACH RD
@@ -26029,7 +26029,7 @@ Nod2=4,726,0
 Numbers1=0,N,-1,-1,E,26,4
 [END]
 
-;sufi=1030000212407
+;linzid=89586
 [POLYLINE]
 Type=0xa
 Label=MANUWAI RD
@@ -26043,7 +26043,7 @@ Nod2=2,3670,0
 Numbers1=0,O,1,33,E,26,32
 [END]
 
-;sufi=1030000005837
+;linzid=49288
 [POLYLINE]
 Type=0xa
 Label=ONEKURA RD
@@ -26057,7 +26057,7 @@ Nod2=2,1659,0
 Numbers1=0,E,58,22,O,57,37
 [END]
 
-;sufi=1030000210866
+;linzid=62588
 [POLYLINE]
 Type=0xa
 Label=TAIKIRAU RD
@@ -26071,7 +26071,7 @@ Nod2=5,2174,0
 Numbers1=0,O,11,11,E,42,42
 [END]
 
-;sufi=1030000212417
+;linzid=89592
 [POLYLINE]
 Type=0xa
 Label=MORGANS RD
@@ -26084,7 +26084,7 @@ Nod1=0,3672,0
 Nod2=5,2510,0
 [END]
 
-;sufi=1030000005523
+;linzid=49029
 [POLYLINE]
 Type=0xa
 Label=TAPUHI RD
@@ -26098,7 +26098,7 @@ Nod2=7,2515,0
 Numbers1=0,O,9,25,E,14,36
 [END]
 
-;sufi=1030000005713
+;linzid=49184
 [POLYLINE]
 Type=0xa
 Label=BROWNS RD
@@ -26112,7 +26112,7 @@ Nod2=4,1489,0
 Numbers1=0,E,142,142,N,-1,-1
 [END]
 
-;sufi=1030000212421
+;linzid=89607
 [POLYLINE]
 Type=0x6
 Label=RANUI RD
@@ -26126,7 +26126,7 @@ Nod2=22,3675,0
 Numbers1=0,O,139,187,E,78,188
 [END]
 
-;sufi=1030000005590
+;linzid=49083
 [POLYLINE]
 Type=0x6
 Label=WAIKINO RD
@@ -26140,7 +26140,7 @@ Nod2=13,2444,0
 Numbers1=0,E,690,690,O,729,707
 [END]
 
-;sufi=1030000005590
+;linzid=49083
 [POLYLINE]
 Type=0x6
 Label=WAIKINO RD
@@ -26154,7 +26154,7 @@ Nod2=100,2444,0
 Numbers1=0,O,183,619,E,230,444
 [END]
 
-;sufi=1030000004520
+;linzid=48370
 [POLYLINE]
 Type=0x5
 Label=WAIKARE RD
@@ -26167,7 +26167,7 @@ Nod1=0,2457,0
 Nod2=5,2464,0
 [END]
 
-;sufi=1030000005590
+;linzid=49083
 [POLYLINE]
 Type=0x6
 Label=WAIKINO RD
@@ -26181,7 +26181,7 @@ Nod2=21,2464,0
 Numbers1=0,E,86,86,N,-1,-1
 [END]
 
-;sufi=1030000004520
+;linzid=48370
 [POLYLINE]
 Type=0x5
 Label=WAIKARE RD
@@ -26194,7 +26194,7 @@ Nod1=0,2386,0
 Nod2=19,2457,0
 [END]
 
-;sufi=1030000212439
+;linzid=89616
 [POLYLINE]
 Type=0x6
 Label=SETTLEMENT RD
@@ -26208,7 +26208,7 @@ Nod2=3,1365,0
 Numbers1=0,E,2,2,O,17,9
 [END]
 
-;sufi=1030000212439
+;linzid=89616
 [POLYLINE]
 Type=0x6
 Label=SETTLEMENT RD
@@ -26221,7 +26221,7 @@ Nod1=0,1368,0
 Nod2=1,1365,0
 [END]
 
-;sufi=1030000005944
+;linzid=90325
 [POLYLINE]
 Type=0xa
 Label=YOUNGS RD
@@ -26235,7 +26235,7 @@ Nod2=4,3678,0
 Numbers1=0,N,-1,-1,E,44,44
 [END]
 
-;sufi=1030000212441
+;linzid=89620
 [POLYLINE]
 Type=0xa
 Label=OTATARA MARAE RD
@@ -26249,7 +26249,7 @@ Nod2=4,1192,0
 Numbers1=0,E,36,32,O,35,35
 [END]
 
-;sufi=1030000212441
+;linzid=89620
 [POLYLINE]
 Type=0xa
 Label=OTATARA MARAE RD
@@ -26262,7 +26262,7 @@ Nod1=0,3679,0
 Nod2=3,1184,0
 [END]
 
-;sufi=1030000006104
+;linzid=49503
 [POLYLINE]
 Type=0xa
 Label=WAIMA VALLEY RD
@@ -26275,7 +26275,7 @@ Nod1=0,1190,0
 Nod2=4,1192,0
 [END]
 
-;sufi=1030000212477
+;linzid=89622
 [POLYLINE]
 Type=0x6
 Label=TOPPS ACCESS RD
@@ -26289,7 +26289,7 @@ Nod2=6,1512,0
 Numbers1=0,E,50,50,O,43,37
 [END]
 
-;sufi=1030000212477
+;linzid=89622
 [POLYLINE]
 Type=0x6
 Label=TOPPS ACCESS RD
@@ -26302,7 +26302,7 @@ Nod1=0,1512,0
 Nod2=4,1540,0
 [END]
 
-;sufi=1030000212489
+;linzid=89623
 [POLYLINE]
 Type=0xa
 Label=WHIU RD
@@ -26316,7 +26316,7 @@ Nod2=1,1423,0
 Numbers1=0,N,-1,-1,E,34,34
 [END]
 
-;sufi=1030000212491
+;linzid=90323
 [POLYLINE]
 Type=0xa
 Label=TAWATA RD
@@ -26330,7 +26330,7 @@ Nod2=4,1414,0
 Numbers1=0,O,43,43,E,30,30
 [END]
 
-;sufi=1030000194789
+;linzid=61743
 [POLYLINE]
 Type=0x6
 Label=MCCAUGHAN RD
@@ -26344,7 +26344,7 @@ Nod2=4,1763,0
 Numbers1=0,E,94,10,O,93,15
 [END]
 
-;sufi=1030000006019
+;linzid=49432
 [POLYLINE]
 Type=0xa
 Label=MOTUKARAKA POINT RD
@@ -26358,7 +26358,7 @@ Nod2=28,936,0
 Numbers1=0,E,202,18,O,223,183
 [END]
 
-;sufi=1030000005978
+;linzid=49401
 [POLYLINE]
 Type=0xa
 Label=CREAMERY RD
@@ -26372,7 +26372,7 @@ Nod2=11,3685,0
 Numbers1=0,O,211,275,N,-1,-1
 [END]
 
-;sufi=1030000006051
+;linzid=49459
 [POLYLINE]
 Type=0x5
 Label=WEST COAST RD
@@ -26387,7 +26387,7 @@ Nod3=53,1046,0
 Numbers1=0,E,246,114,N,-1,-1
 [END]
 
-;sufi=1030000006015
+;linzid=49429
 [POLYLINE]
 Type=0xa
 Label=BLUE MOUNTAIN RD
@@ -26401,7 +26401,7 @@ Nod2=12,979,0
 Numbers1=0,E,100,50,O,109,25
 [END]
 
-;sufi=1030000005986
+;linzid=49406
 [POLYLINE]
 Type=0x6
 Label=GROUNDS RD
@@ -26415,7 +26415,7 @@ Nod2=2,775,0
 Numbers1=0,O,17,17,E,16,16
 [END]
 
-;sufi=1030000005933
+;linzid=49364
 [POLYLINE]
 Type=0xa
 Label=SALEYARD RD
@@ -26428,7 +26428,7 @@ Nod1=0,3688,0
 Nod2=2,669,0
 [END]
 
-;sufi=1030000006075
+;linzid=49480
 [POLYLINE]
 Type=0xa
 Label=TE RIHA ROADWAY
@@ -26442,7 +26442,7 @@ Nod2=11,3689,0
 Numbers1=0,O,33,107,E,32,50
 [END]
 
-;sufi=1030000005932
+;linzid=49363
 [POLYLINE]
 Type=0xa
 Label=RUNARUNA RD
@@ -26456,7 +26456,7 @@ Nod2=62,604,0
 Numbers1=0,E,902,704,O,875,659
 [END]
 
-;sufi=1030000005925
+;linzid=49356
 [POLYLINE]
 Type=0xa
 Label=PUKETAWA RD
@@ -26470,7 +26470,7 @@ Nod2=14,3690,0
 Numbers1=0,O,55,99,N,-1,-1
 [END]
 
-;sufi=1030000006592
+;linzid=49910
 [POLYLINE]
 Type=0xa
 Label=WARNER RD
@@ -26484,7 +26484,7 @@ Nod2=37,3691,0
 Numbers1=0,O,139,139,N,-1,-1
 [END]
 
-;sufi=1030000006398
+;linzid=49749
 [POLYLINE]
 Type=0xa
 Label=CARR RD
@@ -26498,7 +26498,7 @@ Nod2=6,3692,0
 Numbers1=0,O,101,101,E,90,90
 [END]
 
-;sufi=1030000006605
+;linzid=60031
 [POLYLINE]
 Type=0xa
 Label=WRIGHTS RD
@@ -26511,7 +26511,7 @@ Nod1=0,532,0
 Nod2=14,3693,0
 [END]
 
-;sufi=1030000212542
+;linzid=89657
 [POLYLINE]
 Type=0xa
 Label=TAKAHUE SADDLE RD
@@ -26525,7 +26525,7 @@ Nod2=2,567,0
 Numbers1=0,E,230,230,O,269,269
 [END]
 
-;sufi=1030000212541
+;linzid=89656
 [POLYLINE]
 Type=0xa
 Label=TAKAHUE SADDLE RD
@@ -26539,7 +26539,7 @@ Nod2=19,668,0
 Numbers1=0,E,326,66,O,263,263
 [END]
 
-;sufi=1030000006319
+;linzid=59995
 [POLYLINE]
 Type=0xa
 Label=OKAKEWAI RD
@@ -26553,7 +26553,7 @@ Nod2=13,3696,0
 Numbers1=0,O,59,131,E,74,186
 [END]
 
-;sufi=1030000006391
+;linzid=49742
 [POLYLINE]
 Type=0xa
 Label=THOMPSON RD
@@ -26568,7 +26568,7 @@ Nod3=23,3697,0
 Numbers1=0,O,5,91,E,14,132
 [END]
 
-;sufi=1030000006552
+;linzid=49875
 [POLYLINE]
 Type=0x6
 Label=TAKAHUE RD
@@ -26582,7 +26582,7 @@ Nod2=7,573,0
 Numbers1=0,E,8,8,O,25,25
 [END]
 
-;sufi=1030000005972
+;linzid=49396
 [POLYLINE]
 Type=0xa
 Label=MAKENE RD
@@ -26596,7 +26596,7 @@ Nod2=26,977,0
 Numbers1=0,E,164,164,O,37,21
 [END]
 
-;sufi=1030000006393
+;linzid=49744
 [POLYLINE]
 Type=0xa
 Label=TE RORE RD
@@ -26610,7 +26610,7 @@ Nod2=105,693,0
 Numbers1=0,E,688,42,O,607,135
 [END]
 
-;sufi=1030000006292
+;linzid=59991
 [POLYLINE]
 Type=0xa
 Label=TRACEY RD
@@ -26624,7 +26624,7 @@ Nod2=26,4959,0
 Numbers1=0,O,85,163,N,-1,-1
 [END]
 
-;sufi=1030000006467
+;linzid=49807
 [POLYLINE]
 Type=0xa
 Label=PERIA VALLEY RD
@@ -26638,7 +26638,7 @@ Nod2=24,5256,0
 Nod3=37,755,0
 [END]
 
-;sufi=1030000006467
+;linzid=49807
 [POLYLINE]
 Type=0xa
 Label=PERIA VALLEY RD
@@ -26653,7 +26653,7 @@ Nod3=46,780,0
 Numbers1=0,E,496,360,O,489,445
 [END]
 
-;sufi=1030000006467
+;linzid=49807
 [POLYLINE]
 Type=0xa
 Label=PERIA VALLEY RD
@@ -26671,7 +26671,7 @@ Nod6=110,868,0
 Numbers1=0,O,503,1029,E,496,794
 [END]
 
-;sufi=1030000006083
+;linzid=49486
 [POLYLINE]
 Type=0xa
 Label=KAUAPEPE RD
@@ -26685,7 +26685,7 @@ Nod2=48,3700,0
 Numbers1=0,O,77,77,E,4,390
 [END]
 
-;sufi=1030000005946
+;linzid=49374
 [POLYLINE]
 Type=0xa
 Label=WOOD RD
@@ -26699,7 +26699,7 @@ Nod2=5,1088,0
 Numbers1=0,O,19,19,E,34,34
 [END]
 
-;sufi=1030000005901
+;linzid=49338
 [POLYLINE]
 Type=0xa
 Label=HAPPY VALLEY RD
@@ -26713,7 +26713,7 @@ Nod2=1,1185,0
 Numbers1=0,E,218,218,O,231,231
 [END]
 
-;sufi=1030000005930
+;linzid=49361
 [POLYLINE]
 Type=0xa
 Label=BAKER RD
@@ -26727,7 +26727,7 @@ Nod2=8,3703,0
 Numbers1=0,N,-1,-1,E,4,4
 [END]
 
-;sufi=1030000005901
+;linzid=49338
 [POLYLINE]
 Type=0x6
 Label=HAPPY VALLEY RD
@@ -26740,7 +26740,7 @@ Nod1=0,1187,0
 Nod2=1,1185,0
 [END]
 
-;sufi=1030000005901
+;linzid=49338
 [POLYLINE]
 Type=0xa
 Label=HAPPY VALLEY RD
@@ -26753,7 +26753,7 @@ Nod1=0,1177,0
 Nod2=2,1186,0
 [END]
 
-;sufi=1030000005901
+;linzid=49338
 [POLYLINE]
 Type=0x6
 Label=HAPPY VALLEY RD
@@ -26766,7 +26766,7 @@ Nod1=0,1187,0
 Nod2=2,1186,0
 [END]
 
-;sufi=1030000005915
+;linzid=49349
 [POLYLINE]
 Type=0xa
 Label=ORIRA RD
@@ -26781,7 +26781,7 @@ Nod3=58,3704,0
 Numbers1=0,O,229,229,E,28,384
 [END]
 
-;sufi=1030000006072
+;linzid=49478
 [POLYLINE]
 Type=0xa
 Label=SMITH DEVIATION RD
@@ -26794,7 +26794,7 @@ Nod1=0,1100,0
 Nod2=29,1084,0
 [END]
 
-;sufi=1030000006121
+;linzid=49516
 [POLYLINE]
 Type=0xa
 Label=KAHIKATOA RD
@@ -26808,7 +26808,7 @@ Nod2=17,1113,0
 Numbers1=0,O,143,143,E,54,26
 [END]
 
-;sufi=1030000005916
+;linzid=59941
 [POLYLINE]
 Type=0xa
 Label=OTENGI RD
@@ -26822,7 +26822,7 @@ Nod2=8,3706,0
 Numbers1=0,O,33,159,N,-1,-1
 [END]
 
-;sufi=1030000005592
+;linzid=90306
 [POLYLINE]
 Type=0x6
 Label=WAIMATE NORTH RD
@@ -26836,7 +26836,7 @@ Nod2=3,1755,0
 Numbers1=0,E,92,72,O,83,83
 [END]
 
-;sufi=1030000005633
+;linzid=59901
 [POLYLINE]
 Type=0x6
 Label=BLUE GUM LANE
@@ -26851,7 +26851,7 @@ Nod3=8,3707,0
 Numbers1=0,O,7,77,E,28,80
 [END]
 
-;sufi=1030000005600
+;linzid=49093
 [POLYLINE]
 Type=0x6
 Label=WAIKUKU RD
@@ -26864,7 +26864,7 @@ Nod1=0,1680,0
 Nod2=1,1681,0
 [END]
 
-;sufi=1030000005698
+;linzid=49173
 [POLYLINE]
 Type=0x6
 Label=WHAKATAHA RD
@@ -26877,7 +26877,7 @@ Nod1=0,1683,0
 Nod2=1,1686,0
 [END]
 
-;sufi=1030000005698
+;linzid=49173
 [POLYLINE]
 Type=0xa
 Label=WHAKATAHA RD
@@ -26891,7 +26891,7 @@ Nod2=14,3708,0
 Numbers1=0,O,23,163,E,52,180
 [END]
 
-;sufi=1030000005612
+;linzid=49102
 [POLYLINE]
 Type=0xa
 Label=TE IRENGA WEST RD
@@ -26904,7 +26904,7 @@ Nod1=0,1403,0
 Nod2=6,3709,0
 [END]
 
-;sufi=1030000005612
+;linzid=49102
 [POLYLINE]
 Type=0xa
 Label=TE IRENGA WEST RD
@@ -26917,7 +26917,7 @@ Nod1=0,1398,0
 Nod2=2,1403,0
 [END]
 
-;sufi=1030000006047
+;linzid=49456
 [POLYLINE]
 Type=0xa
 Label=WHAREPUNGA RD
@@ -26931,7 +26931,7 @@ Nod2=51,1410,0
 Numbers1=0,E,352,352,O,353,87
 [END]
 
-;sufi=1030000005953
+;linzid=59946
 [POLYLINE]
 Type=0xa
 Label=NINIHI RD
@@ -26945,7 +26945,7 @@ Nod2=23,1344,0
 Numbers1=0,O,283,439,E,168,274
 [END]
 
-;sufi=1030000006077
+;linzid=59961
 [POLYLINE]
 Type=0xa
 Label=TE HUA HUA RD
@@ -26959,7 +26959,7 @@ Nod2=6,870,0
 Numbers1=0,E,32,32,O,77,77
 [END]
 
-;sufi=1030000006633
+;linzid=49945
 [POLYLINE]
 Type=0x6
 Label=PUPUKE MANGAPA RD
@@ -26973,7 +26973,7 @@ Nod2=11,1378,0
 Numbers1=0,E,246,90,O,219,127
 [END]
 
-;sufi=1030000006633
+;linzid=49945
 [POLYLINE]
 Type=0x6
 Label=PUPUKE MANGAPA RD
@@ -26987,7 +26987,7 @@ Nod2=4,1376,0
 Numbers1=0,E,252,246,O,253,245
 [END]
 
-;sufi=1030000006633
+;linzid=49945
 [POLYLINE]
 Type=0x6
 Label=PUPUKE MANGAPA RD
@@ -27001,7 +27001,7 @@ Nod2=13,1369,0
 Numbers1=0,O,277,343,E,314,314
 [END]
 
-;sufi=1030000212611
+;linzid=89702
 [POLYLINE]
 Type=0xa
 Label=TE HUIA MARAE RD
@@ -27015,7 +27015,7 @@ Nod2=10,3710,0
 Numbers1=0,O,11,11,E,22,62
 [END]
 
-;sufi=1030000000952
+;linzid=61768
 [POLYLINE]
 Type=0xa
 Label=TE RA RD
@@ -27029,7 +27029,7 @@ Nod2=1,3711,0
 Numbers1=0,O,149,151,E,152,156
 [END]
 
-;sufi=1030000212633
+;linzid=89704
 [POLYLINE]
 Type=0xa
 Label=TE RA RD EXT
@@ -27043,7 +27043,7 @@ Nod2=1,3712,0
 Numbers1=0,O,17,33,E,62,62
 [END]
 
-;sufi=1030000000952
+;linzid=61768
 [POLYLINE]
 Type=0xa
 Label=TE RA RD
@@ -27057,7 +27057,7 @@ Nod2=3,1798,0
 Numbers1=0,O,95,95,N,-1,-1
 [END]
 
-;sufi=1030000000952
+;linzid=61768
 [POLYLINE]
 Type=0xa
 Label=TE RA RD
@@ -27071,7 +27071,7 @@ Nod2=2,1782,0
 Numbers1=0,O,17,59,N,-1,-1
 [END]
 
-;sufi=1030000006131
+;linzid=49525
 [POLYLINE]
 Type=0xa
 Label=OTAHA RD
@@ -27085,7 +27085,7 @@ Nod2=1,3713,0
 Numbers1=0,O,423,455,E,418,464
 [END]
 
-;sufi=1030000006655
+;linzid=49960
 [POLYLINE]
 Type=0xa
 Label=TAKOU BAY RD
@@ -27099,7 +27099,7 @@ Nod2=40,3714,0
 Numbers1=0,O,299,467,E,300,466
 [END]
 
-;sufi=1030000006131
+;linzid=49525
 [POLYLINE]
 Type=0xa
 Label=OTAHA RD
@@ -27113,7 +27113,7 @@ Nod2=21,1779,0
 Numbers1=0,O,331,391,E,244,356
 [END]
 
-;sufi=1030000005616
+;linzid=49105
 [POLYLINE]
 Type=0xa
 Label=TE TII RD
@@ -27127,7 +27127,7 @@ Nod2=13,2010,0
 Numbers1=0,O,81,91,E,30,102
 [END]
 
-;sufi=1030000005616
+;linzid=49105
 [POLYLINE]
 Type=0xa
 Label=TE TII RD
@@ -27141,7 +27141,7 @@ Nod2=1,2010,0
 Numbers1=0,E,122,102,O,123,113
 [END]
 
-;sufi=1030000005544
+;linzid=49046
 [POLYLINE]
 Type=0x6
 Label=PURERUA RD
@@ -27156,7 +27156,7 @@ Nod3=15,1987,0
 Numbers1=0,O,785,881,E,860,910
 [END]
 
-;sufi=1030000005544
+;linzid=49046
 [POLYLINE]
 Type=0x6
 Label=PURERUA RD
@@ -27170,7 +27170,7 @@ Nod2=57,1955,0
 Numbers1=0,O,297,785,E,252,446
 [END]
 
-;sufi=1030000005544
+;linzid=49046
 [POLYLINE]
 Type=0xa
 Label=PURERUA RD
@@ -27184,7 +27184,7 @@ Nod2=16,2103,0
 Numbers1=0,O,1165,1165,N,-1,-1
 [END]
 
-;sufi=1030000005519
+;linzid=49025
 [POLYLINE]
 Type=0xa
 Label=TARONUI RD
@@ -27199,7 +27199,7 @@ Nod3=34,1996,0
 Numbers1=0,O,29,29,E,36,50
 [END]
 
-;sufi=1030000006108
+;linzid=49507
 [POLYLINE]
 Type=0xa
 Label=WAIKERIKERI RD
@@ -27212,7 +27212,7 @@ Nod1=0,3717,0
 Nod2=4,1282,0
 [END]
 
-;sufi=1030000006108
+;linzid=49507
 [POLYLINE]
 Type=0xa
 Label=WAIKERIKERI RD
@@ -27226,7 +27226,7 @@ Nod2=14,1293,0
 Numbers1=0,E,66,4,N,-1,-1
 [END]
 
-;sufi=1030000006687
+;linzid=49988
 [POLYLINE]
 Type=0xa
 Label=WHITE RD
@@ -27240,7 +27240,7 @@ Nod2=18,3718,0
 Numbers1=0,O,3,3,N,-1,-1
 [END]
 
-;sufi=1030000006651
+;linzid=49957
 [POLYLINE]
 Type=0xa
 Label=WAIKOURA RD
@@ -27253,7 +27253,7 @@ Nod1=0,1435,0
 Nod2=2,3719,0
 [END]
 
-;sufi=1030000006651
+;linzid=49957
 [POLYLINE]
 Type=0xa
 Label=WAIKOURA RD
@@ -27266,7 +27266,7 @@ Nod1=0,1417,0
 Nod2=6,1435,0
 [END]
 
-;sufi=1030000005592
+;linzid=90306
 [POLYLINE]
 Type=0x6
 Label=WAIMATE NORTH RD
@@ -27280,7 +27280,7 @@ Nod2=7,1720,0
 Numbers1=0,E,1094,966,O,995,987
 [END]
 
-;sufi=1030000005873
+;linzid=49315
 [POLYLINE]
 Type=0xa
 Label=WALLIS RD
@@ -27294,7 +27294,7 @@ Nod2=6,1604,0
 Numbers1=0,O,61,61,E,122,42
 [END]
 
-;sufi=1030000212016
+;linzid=89311
 [POLYLINE]
 Type=0xa
 Label=WAOKU RD
@@ -27308,7 +27308,7 @@ Nod2=141,1223,0
 Numbers1=0,E,308,18,O,323,145
 [END]
 
-;sufi=1030000212016
+;linzid=89311
 [POLYLINE]
 Type=0xa
 Label=WAOKU RD
@@ -27321,7 +27321,7 @@ Nod1=0,1211,0
 Nod2=121,3722,1
 [END]
 
-;sufi=1030000006104
+;linzid=49503
 [POLYLINE]
 Type=0xa
 Label=WAIMA VALLEY RD
@@ -27335,7 +27335,7 @@ Nod2=5,1202,0
 Numbers1=0,E,82,82,O,41,17
 [END]
 
-;sufi=1030000006048
+;linzid=49457
 [POLYLINE]
 Type=0xa
 Label=WHAREKAWA RD
@@ -27349,7 +27349,7 @@ Nod2=12,855,0
 Numbers1=0,E,444,444,O,533,519
 [END]
 
-;sufi=1030000005912
+;linzid=59940
 [POLYLINE]
 Type=0xa
 Label=OMANAIA RD
@@ -27364,7 +27364,7 @@ Nod3=9,985,0
 Numbers1=0,E,186,186,N,-1,-1
 [END]
 
-;sufi=1030000006061
+;linzid=49467
 [POLYLINE]
 Type=0xa
 Label=JAMIESON RD
@@ -27378,7 +27378,7 @@ Nod2=38,971,0
 Numbers1=0,N,-1,-1,E,16,16
 [END]
 
-;sufi=1030000005912
+;linzid=59940
 [POLYLINE]
 Type=0xa
 Label=OMANAIA RD
@@ -27392,7 +27392,7 @@ Nod2=4,938,0
 Numbers1=0,E,378,366,O,373,373
 [END]
 
-;sufi=1030000005912
+;linzid=59940
 [POLYLINE]
 Type=0xa
 Label=OMANAIA RD
@@ -27406,7 +27406,7 @@ Nod2=16,971,0
 Numbers1=0,E,294,294,O,309,309
 [END]
 
-;sufi=1030000212676
+;linzid=49508
 [POLYLINE]
 Type=0xa
 Label=WAIONE RD
@@ -27420,7 +27420,7 @@ Nod2=20,737,0
 Numbers1=0,O,19,153,E,88,116
 [END]
 
-;sufi=1030000006055
+;linzid=49462
 [POLYLINE]
 Type=0x6
 Label=KOUTU POINT RD
@@ -27433,7 +27433,7 @@ Nod1=0,721,0
 Nod2=3,725,0
 [END]
 
-;sufi=1030000006055
+;linzid=49462
 [POLYLINE]
 Type=0x6
 Label=KOUTU POINT RD
@@ -27446,7 +27446,7 @@ Nod1=0,3725,0
 Nod2=8,721,0
 [END]
 
-;sufi=1030000055462
+;linzid=58773
 [POLYLINE]
 Type=0xa
 Label=WAIHOTU RD
@@ -27460,7 +27460,7 @@ Nod2=7,3726,0
 Numbers1=0,O,15,15,E,22,38
 [END]
 
-;sufi=1030000006111
+;linzid=59965
 [POLYLINE]
 Type=0xa
 Label=WAIOTEMARAMA GORGE RD
@@ -27474,7 +27474,7 @@ Nod2=22,785,0
 Numbers1=0,E,960,958,O,961,855
 [END]
 
-;sufi=1030000005991
+;linzid=49408
 [POLYLINE]
 Type=0xa
 Label=NEWTON RD
@@ -27488,7 +27488,7 @@ Nod2=12,701,0
 Numbers1=0,O,7,79,E,4,114
 [END]
 
-;sufi=1030000006046
+;linzid=59956
 [POLYLINE]
 Type=0xa
 Label=WHIRINAKI SCHOOL RD
@@ -27502,7 +27502,7 @@ Nod2=7,3727,0
 Numbers1=0,O,23,23,E,38,38
 [END]
 
-;sufi=1030000006046
+;linzid=59956
 [POLYLINE]
 Type=0xa
 Label=WHIRINAKI SCHOOL RD
@@ -27516,7 +27516,7 @@ Nod2=1,812,0
 Numbers1=0,O,13,13,N,-1,-1
 [END]
 
-;sufi=1030000005993
+;linzid=89564
 [POLYLINE]
 Type=0x6
 Label=HOOKS AND HALL RD
@@ -27530,7 +27530,7 @@ Nod2=5,813,0
 Numbers1=0,E,74,52,O,75,75
 [END]
 
-;sufi=1030000005964
+;linzid=49388
 [POLYLINE]
 Type=0xa
 Label=MANGAPUPU RD
@@ -27544,7 +27544,7 @@ Nod2=38,3729,0
 Numbers1=0,O,27,161,E,28,178
 [END]
 
-;sufi=1030000006023
+;linzid=61770
 [POLYLINE]
 Type=0xa
 Label=MOEHAU RD
@@ -27557,7 +27557,7 @@ Nod1=0,3730,0
 Nod2=88,1212,0
 [END]
 
-;sufi=1030000005955
+;linzid=49380
 [POLYLINE]
 Type=0xa
 Label=CLASSEN RD
@@ -27571,7 +27571,7 @@ Nod2=53,1123,0
 Numbers1=0,E,246,246,O,279,265
 [END]
 
-;sufi=1030000006065
+;linzid=49471
 [POLYLINE]
 Type=0xa
 Label=DUDDY RD
@@ -27584,7 +27584,7 @@ Nod1=0,1123,0
 Nod2=63,1132,0
 [END]
 
-;sufi=1030000005919
+;linzid=49352
 [POLYLINE]
 Type=0xa
 Label=OTAHI RD
@@ -27598,7 +27598,7 @@ Nod2=17,5639,0
 Nod3=25,1095,0
 [END]
 
-;sufi=1030000006023
+;linzid=61770
 [POLYLINE]
 Type=0xa
 Label=MOEHAU RD
@@ -27612,7 +27612,7 @@ Nod2=17,1229,0
 Numbers1=0,E,54,54,O,65,7
 [END]
 
-;sufi=1030000005945
+;linzid=49373
 [POLYLINE]
 Type=0xa
 Label=WINDY HILL RD
@@ -27626,7 +27626,7 @@ Nod2=35,678,0
 Numbers1=0,O,21,251,N,-1,-1
 [END]
 
-;sufi=1030000006033
+;linzid=49443
 [POLYLINE]
 Type=0xa
 Label=RANGI POINT RD
@@ -27639,7 +27639,7 @@ Nod1=0,678,0
 Nod2=5,679,0
 [END]
 
-;sufi=1030000005411
+;linzid=48937
 [POLYLINE]
 Type=0xa
 Label=RAWHITI RD
@@ -27653,7 +27653,7 @@ Nod2=21,3732,0
 Numbers1=0,E,74,2,O,119,63
 [END]
 
-;sufi=1030000005411
+;linzid=48937
 [POLYLINE]
 Type=0xa
 Label=RAWHITI RD
@@ -27667,7 +27667,7 @@ Nod2=46,2568,0
 Numbers1=0,E,436,168,O,271,197
 [END]
 
-;sufi=1030000005411
+;linzid=48937
 [POLYLINE]
 Type=0xa
 Label=RAWHITI RD
@@ -27681,7 +27681,7 @@ Nod2=5,2568,0
 Numbers1=0,O,123,129,N,-1,-1
 [END]
 
-;sufi=1030000001499
+;linzid=59719
 [POLYLINE]
 Type=0x6
 Label=RETREAT RD
@@ -27695,7 +27695,7 @@ Nod2=2,2060,0
 Numbers1=0,E,52,18,O,55,17
 [END]
 
-;sufi=1030000005837
+;linzid=49288
 [POLYLINE]
 Type=0xa
 Label=ONEKURA RD
@@ -27711,7 +27711,7 @@ Numbers1=0,E,212,190,O,281,191
 Numbers2=14,E,156,128,O,173,71
 [END]
 
-;sufi=1030000006190
+;linzid=49573
 [POLYLINE]
 Type=0xa
 Label=PUNGAERE RD
@@ -27725,7 +27725,7 @@ Nod2=20,1695,0
 Numbers1=0,E,532,376,O,489,335
 [END]
 
-;sufi=1030000006650
+;linzid=60038
 [POLYLINE]
 Type=0x5
 Label=WAINUI RD
@@ -27739,7 +27739,7 @@ Nod2=28,1673,0
 Numbers1=0,O,1609,1783,E,1654,1782
 [END]
 
-;sufi=1030000006650
+;linzid=60038
 [POLYLINE]
 Type=0x5
 Label=WAINUI RD
@@ -27753,7 +27753,7 @@ Nod2=21,1557,0
 Numbers1=0,O,519,529,N,-1,-1
 [END]
 
-;sufi=1030000006641
+;linzid=49951
 [POLYLINE]
 Type=0xa
 Label=MAHINEPUA RD
@@ -27768,7 +27768,7 @@ Nod3=15,3734,0
 Numbers1=0,O,5,99,E,42,42
 [END]
 
-;sufi=1030000006626
+;linzid=49939
 [POLYLINE]
 Type=0x6
 Label=OKURA BAY RD
@@ -27782,7 +27782,7 @@ Nod2=15,4654,0
 Numbers1=0,O,3,107,E,52,90
 [END]
 
-;sufi=1030000006668
+;linzid=49972
 [POLYLINE]
 Type=0xa
 Label=CAMPBELL RD
@@ -27797,7 +27797,7 @@ Nod3=9,1371,0
 Numbers1=0,E,74,52,O,73,67
 [END]
 
-;sufi=1030000006668
+;linzid=49972
 [POLYLINE]
 Type=0xa
 Label=CAMPBELL RD
@@ -27811,7 +27811,7 @@ Nod2=8,1370,0
 Numbers1=0,E,20,16,O,67,3
 [END]
 
-;sufi=1030000212773
+;linzid=89972
 [POLYLINE]
 Type=0xa
 Label=WAIRAKAU RD
@@ -27825,7 +27825,7 @@ Nod2=7,3737,0
 Numbers1=0,O,37,37,E,14,20
 [END]
 
-;sufi=1030000006370
+;linzid=49726
 [POLYLINE]
 Type=0xa
 Label=DYKIN RD
@@ -27839,7 +27839,7 @@ Nod2=3,3739,0
 Numbers1=0,O,5,43,E,6,32
 [END]
 
-;sufi=1030000006247
+;linzid=49622
 [POLYLINE]
 Type=0xa
 Label=CHURCH RD
@@ -27854,7 +27854,7 @@ Nod3=30,519,0
 Numbers1=0,O,875,989,E,960,998
 [END]
 
-;sufi=1030000006521
+;linzid=91326
 [POLYLINE]
 Type=0xa
 Label=FISHER-RILEY RD
@@ -27871,7 +27871,7 @@ Nod5=65,560,0
 Numbers1=0,E,1040,598,O,959,561
 [END]
 
-;sufi=1030000006527
+;linzid=49855
 [POLYLINE]
 Type=0xa
 Label=PURIRI BLOCK RD
@@ -27886,7 +27886,7 @@ Nod3=9,4890,0
 Nod4=13,521,0
 [END]
 
-;sufi=1030000006521
+;linzid=91326
 [POLYLINE]
 Type=0xa
 Label=FISHER-RILEY RD
@@ -27900,7 +27900,7 @@ Nod2=55,601,0
 Numbers1=0,O,203,263,E,100,236
 [END]
 
-;sufi=1030000006311
+;linzid=49676
 [POLYLINE]
 Type=0xa
 Label=CLOUGH RD
@@ -27914,7 +27914,7 @@ Nod2=5,517,0
 Numbers1=0,E,4,4,N,-1,-1
 [END]
 
-;sufi=1030000006498
+;linzid=49834
 [POLYLINE]
 Type=0xa
 Label=DIGGERS VALLEY RD
@@ -27928,7 +27928,7 @@ Nod2=4,248,0
 Numbers1=0,O,191,191,E,180,180
 [END]
 
-;sufi=1030000006274
+;linzid=49646
 [POLYLINE]
 Type=0xa
 Label=POWELL RD
@@ -27942,7 +27942,7 @@ Nod2=50,248,0
 Numbers1=0,E,130,8,O,47,21
 [END]
 
-;sufi=1030000012502
+;linzid=54680
 [POLYLINE]
 Type=0xa
 Label=MANGAMANIHI RD
@@ -27956,7 +27956,7 @@ Nod2=7,1402,0
 Numbers1=0,E,100,20,O,101,21
 [END]
 
-;sufi=1030000208251
+;linzid=62417
 [POLYLINE]
 Type=0x6
 Label=JURY RD
@@ -27970,7 +27970,7 @@ Nod2=2,3745,0
 Numbers1=0,N,-1,-1,E,34,34
 [END]
 
-;sufi=1030000005628
+;linzid=49116
 [POLYLINE]
 Type=0xa
 Label=SIGNAL RD
@@ -27984,7 +27984,7 @@ Nod2=6,1621,0
 Numbers1=0,E,112,112,O,23,295
 [END]
 
-;sufi=2030000001318
+;linzid=92400
 [POLYLINE]
 Type=0xa
 Label=WAIOMIO RD
@@ -27998,7 +27998,7 @@ Nod2=28,2281,0
 Numbers1=0,O,49,251,E,30,292
 [END]
 
-;sufi=1030000005856
+;linzid=59933
 [POLYLINE]
 Type=0xa
 Label=RUAPEKAPEKA RD
@@ -28012,7 +28012,7 @@ Nod2=23,4693,0
 Numbers1=0,O,1521,1701,E,1482,1482
 [END]
 
-;sufi=1030000005593
+;linzid=49086
 [POLYLINE]
 Type=0xa
 Label=WAIKARE VALLEY RD
@@ -28026,7 +28026,7 @@ Nod2=3,3747,0
 Numbers1=0,O,457,457,E,436,436
 [END]
 
-;sufi=1030000005593
+;linzid=49086
 [POLYLINE]
 Type=0xa
 Label=WAIKARE VALLEY RD
@@ -28040,7 +28040,7 @@ Nod2=30,2544,0
 Numbers1=0,E,228,66,O,283,57
 [END]
 
-;sufi=1030000005540
+;linzid=59890
 [POLYLINE]
 Type=0x6
 Label=RAINBOW FALLS RD
@@ -28054,7 +28054,7 @@ Nod2=2,3748,0
 Numbers1=0,O,83,83,N,-1,-1
 [END]
 
-;sufi=1030000212857
+;linzid=90026
 [POLYLINE]
 Type=0x6
 Label=KARAKA DR
@@ -28068,7 +28068,7 @@ Nod2=4,3749,0
 Numbers1=0,O,15,23,E,6,8
 [END]
 
-;sufi=1030000180020
+;linzid=58803
 [POLYLINE]
 Type=0x6
 Label=ROSS ST
@@ -28082,7 +28082,7 @@ Nod2=4,2347,0
 Numbers1=0,O,7,1,E,16,2
 [END]
 
-;sufi=1030000005710
+;linzid=49182
 [POLYLINE]
 Type=0x6
 Label=BROADVIEW RD
@@ -28096,7 +28096,7 @@ Nod2=9,2340,0
 Numbers1=0,E,16,2,N,-1,-1
 [END]
 
-;sufi=1030000005856
+;linzid=59933
 [POLYLINE]
 Type=0x6
 Label=RUAPEKAPEKA RD
@@ -28110,7 +28110,7 @@ Nod2=2,2254,0
 Numbers1=0,E,1752,1752,N,-1,-1
 [END]
 
-;sufi=1030000005829
+;linzid=49282
 [POLYLINE]
 Type=0x6
 Label=OLD WHARF RD
@@ -28123,7 +28123,7 @@ Nod1=0,2152,0
 Nod2=9,3751,0
 [END]
 
-;sufi=1030000006001
+;linzid=49417
 [POLYLINE]
 Type=0x6
 Label=PAWARENGA RD
@@ -28136,7 +28136,7 @@ Nod1=0,491,0
 Nod2=2,492,0
 [END]
 
-;sufi=1030000005935
+;linzid=49366
 [POLYLINE]
 Type=0xa
 Label=RUDOLPH RD
@@ -28149,7 +28149,7 @@ Nod1=0,485,0
 Nod2=8,491,0
 [END]
 
-;sufi=1030000212941
+;linzid=90095
 [POLYLINE]
 Type=0xa
 Label=BONNIES LANE
@@ -28162,7 +28162,7 @@ Nod1=0,486,0
 Nod2=6,485,0
 [END]
 
-;sufi=1030000212941
+;linzid=90095
 [POLYLINE]
 Type=0xa
 Label=BONNIES LANE
@@ -28175,7 +28175,7 @@ Nod1=0,485,0
 Nod2=10,492,0
 [END]
 
-;sufi=1030000212941
+;linzid=90095
 [POLYLINE]
 Type=0xa
 Label=BONNIES LANE
@@ -28188,7 +28188,7 @@ Nod1=0,3752,0
 Nod2=3,486,0
 [END]
 
-;sufi=1030000006052
+;linzid=49460
 [POLYLINE]
 Type=0x6
 Label=KOKOHUIA RD
@@ -28202,7 +28202,7 @@ Nod2=2,680,0
 Numbers1=0,O,1,13,E,10,24
 [END]
 
-;sufi=1030000006052
+;linzid=49460
 [POLYLINE]
 Type=0x6
 Label=KOKOHUIA RD
@@ -28216,7 +28216,7 @@ Nod2=1,681,0
 Numbers1=0,O,35,35,E,34,34
 [END]
 
-;sufi=2030000000664
+;linzid=90182
 [POLYLINE]
 Type=0xa
 Label=TAYLORS RD
@@ -28229,7 +28229,7 @@ Nod2=1,29,0
 Numbers1=0,O,3,3,N,-1,-1
 [END]
 
-;sufi=1030000006424
+;linzid=49770
 [POLYLINE]
 Type=0xa
 Label=LAMB RD
@@ -28243,7 +28243,7 @@ Nod2=7,57,0
 Numbers1=0,E,208,208,O,149,133
 [END]
 
-;sufi=1030000006344
+;linzid=49704
 [POLYLINE]
 Type=0xa
 Label=WHATUWHIWHI RD
@@ -28256,7 +28256,7 @@ Nod1=0,708,0
 Nod2=3,3755,0
 [END]
 
-;sufi=1030000006395
+;linzid=49746
 [POLYLINE]
 Type=0xa
 Label=TEAHU RD
@@ -28269,7 +28269,7 @@ Nod1=0,708,0
 Nod2=36,730,0
 [END]
 
-;sufi=1030000006344
+;linzid=49704
 [POLYLINE]
 Type=0xa
 Label=WHATUWHIWHI RD
@@ -28283,7 +28283,7 @@ Nod2=5,708,0
 Numbers1=0,O,127,143,E,146,176
 [END]
 
-;sufi=1030000006502
+;linzid=49838
 [POLYLINE]
 Type=0xa
 Label=REID RD
@@ -28296,7 +28296,7 @@ Nod1=0,796,0
 Nod2=1,3756,0
 [END]
 
-;sufi=1030000005968
+;linzid=49392
 [POLYLINE]
 Type=0xa
 Label=MANGAMUKA SCHOOL RD
@@ -28310,7 +28310,7 @@ Nod2=7,1085,0
 Numbers1=0,E,38,38,O,39,3
 [END]
 
-;sufi=1030000005786
+;linzid=49244
 [POLYLINE]
 Type=0x6
 Label=FURNESS RD
@@ -28324,7 +28324,7 @@ Nod2=7,2072,0
 Numbers1=0,E,26,26,O,39,39
 [END]
 
-;sufi=1030000005726
+;linzid=49196
 [POLYLINE]
 Type=0x5
 Label=KERIKERI INLET RD
@@ -28337,7 +28337,7 @@ Nod1=0,2072,0
 Nod2=4,2074,0
 [END]
 
-;sufi=2030000000646
+;linzid=90310
 [POLYLINE]
 Type=0x6
 Label=MARTIN RD
@@ -28351,7 +28351,7 @@ Nod2=3,3759,0
 Numbers1=0,O,19,41,N,-1,-1
 [END]
 
-;sufi=1030000005892
+;linzid=89539
 [POLYLINE]
 Type=0x6
 Label=KINGI RD
@@ -28365,7 +28365,7 @@ Nod2=3,2012,0
 Numbers1=0,N,-1,-1,O,53,1
 [END]
 
-;sufi=1030000005655
+;linzid=49138
 [POLYLINE]
 Type=0x5
 Label=OTIRIA RD
@@ -28379,7 +28379,7 @@ Nod2=3,2012,0
 Numbers1=0,E,146,146,O,149,149
 [END]
 
-;sufi=1030000006342
+;linzid=59997
 [POLYLINE]
 Type=0xa
 Label=WHANGAPE RD
@@ -28393,7 +28393,7 @@ Nod2=43,226,0
 Numbers1=0,E,1328,1136,N,-1,-1
 [END]
 
-;sufi=2030000000596
+;linzid=90232
 [POLYLINE]
 Type=0x6
 Label=HERBERT RD
@@ -28407,7 +28407,7 @@ Nod2=7,1494,0
 Numbers1=0,N,-1,-1,E,66,66
 [END]
 
-;sufi=1030000006621
+;linzid=60035
 [POLYLINE]
 Type=0x6
 Label=MCGEE RD
@@ -28421,7 +28421,7 @@ Nod2=1,3763,0
 Numbers1=0,O,37,37,N,-1,-1
 [END]
 
-;sufi=1030000212635
+;linzid=89705
 [POLYLINE]
 Type=0xa
 Label=TE TII RD EXT
@@ -28435,7 +28435,7 @@ Nod2=7,3764,0
 Numbers1=0,O,3,19,E,6,18
 [END]
 
-;sufi=1030000006420
+;linzid=49767
 [POLYLINE]
 Type=0xa
 Label=WAITEHUIA RD
@@ -28449,7 +28449,7 @@ Nod2=2,118,0
 Numbers1=0,E,50,42,N,-1,-1
 [END]
 
-;sufi=1030000185319
+;linzid=89726
 [POLYLINE]
 Type=0xa
 Label=ERUETI ROADWAY
@@ -28462,7 +28462,7 @@ Nod1=0,3766,0
 Nod2=1,1504,0
 [END]
 
-;sufi=2030000000628
+;linzid=90264
 [POLYLINE]
 Type=0xa
 Label=PUKAWA RD
@@ -28476,7 +28476,7 @@ Nod2=6,3767,0
 Numbers1=0,O,5,5,N,-1,-1
 [END]
 
-;sufi=2030000000630
+;linzid=90265
 [POLYLINE]
 Type=0xa
 Label=MANGAPARA RD
@@ -28490,7 +28490,7 @@ Nod2=14,802,0
 Numbers1=0,N,-1,-1,E,70,50
 [END]
 
-;sufi=1030000005552
+;linzid=49052
 [POLYLINE]
 Type=0x6
 Label=PUKEWHAU RD
@@ -28504,7 +28504,7 @@ Nod2=4,2126,0
 Numbers1=0,N,-1,-1,O,17,1
 [END]
 
-;sufi=1030000005859
+;linzid=49302
 [POLYLINE]
 Type=0x6
 Label=ROWSELL LANE
@@ -28518,7 +28518,7 @@ Nod2=5,2125,0
 Numbers1=0,N,-1,-1,O,29,3
 [END]
 
-;sufi=1030000005851
+;linzid=59932
 [POLYLINE]
 Type=0x6
 Label=OPITO BAY RD
@@ -28532,7 +28532,7 @@ Nod2=15,2126,0
 Numbers1=0,O,385,407,E,346,410
 [END]
 
-;sufi=1030000212417
+;linzid=89592
 [POLYLINE]
 Type=0x6
 Label=MORGANS RD
@@ -28545,7 +28545,7 @@ Nod1=0,3771,0
 Nod2=6,2516,0
 [END]
 
-;sufi=2030000000606
+;linzid=90288
 [POLYLINE]
 Type=0xa
 Label=LONGS RD
@@ -28559,7 +28559,7 @@ Nod2=40,2498,0
 Numbers1=0,N,-1,-1,E,138,138
 [END]
 
-;sufi=2030000000660
+;linzid=90295
 [POLYLINE]
 Type=0xa
 Label=SALVATION RD EXT
@@ -28573,7 +28573,7 @@ Nod2=4,3773,0
 Numbers1=0,N,-1,-1,E,12,20
 [END]
 
-;sufi=1030000212399
+;linzid=89574
 [POLYLINE]
 Type=0xa
 Label=HUIA RD
@@ -28587,7 +28587,7 @@ Nod2=9,1595,0
 Numbers1=0,E,46,46,O,81,9
 [END]
 
-;sufi=1030000006632
+;linzid=49944
 [POLYLINE]
 Type=0xa
 Label=SALVATION RD
@@ -28600,7 +28600,7 @@ Nod1=0,1268,0
 Nod2=19,1284,0
 [END]
 
-;sufi=1030000006632
+;linzid=49944
 [POLYLINE]
 Type=0xa
 Label=SALVATION RD
@@ -28613,7 +28613,7 @@ Nod1=0,1284,0
 Nod2=3,3775,0
 [END]
 
-;sufi=1030000000307
+;linzid=47787
 [POLYLINE]
 Type=0x6
 Label=BRISTOW RD
@@ -28627,7 +28627,7 @@ Nod2=3,2272,0
 Numbers1=0,O,11,11,N,-1,-1
 [END]
 
-;sufi=1030000212437
+;linzid=90300
 [POLYLINE]
 Type=0x6
 Label=RAKAUTAO RD
@@ -28641,7 +28641,7 @@ Nod2=3,3777,0
 Numbers1=0,O,37,37,N,-1,-1
 [END]
 
-;sufi=1030000212345
+;linzid=89536
 [POLYLINE]
 Type=0xa
 Label=SETTLEMENT WAY
@@ -28655,7 +28655,7 @@ Nod2=6,193,0
 Numbers1=0,O,7,7,E,52,26
 [END]
 
-;sufi=1030000203282
+;linzid=90307
 [POLYLINE]
 Type=0x6
 Label=LILY POND LANE
@@ -28668,7 +28668,7 @@ Nod1=0,3780,0
 Nod2=4,2042,0
 [END]
 
-;sufi=1030000005912
+;linzid=59940
 [POLYLINE]
 Type=0xa
 Label=OMANAIA RD
@@ -28682,7 +28682,7 @@ Nod2=11,912,0
 Numbers1=0,E,464,400,O,441,409
 [END]
 
-;sufi=1030000188283
+;linzid=90314
 [POLYLINE]
 Type=0xa
 Label=URUTI RD
@@ -28696,7 +28696,7 @@ Nod2=10,3781,0
 Numbers1=0,O,59,59,E,44,56
 [END]
 
-;sufi=1030000005509
+;linzid=90853
 [POLYLINE]
 Type=0x6
 Label=GRANTS AVE
@@ -28710,7 +28710,7 @@ Nod2=3,3782,0
 Numbers1=0,E,2,8,O,3,9
 [END]
 
-;sufi=1030000005564
+;linzid=90318
 [POLYLINE]
 Type=0x6
 Label=PAROA BAY RD
@@ -28723,7 +28723,7 @@ Nod1=0,3783,0
 Nod2=16,2487,0
 [END]
 
-;sufi=2030000000674
+;linzid=90328
 [POLYLINE]
 Type=0x6
 Label=WOODBINE LANE
@@ -28737,7 +28737,7 @@ Nod2=1,1614,0
 Numbers1=0,E,14,4,O,9,1
 [END]
 
-;sufi=1030000005927
+;linzid=49358
 [POLYLINE]
 Type=0xa
 Label=PUHA RD
@@ -28751,7 +28751,7 @@ Nod2=25,1248,0
 Numbers1=0,E,106,106,O,461,69
 [END]
 
-;sufi=1030000005881
+;linzid=90296
 [POLYLINE]
 Type=0xa
 Label=POROTU RD
@@ -28765,7 +28765,7 @@ Nod2=19,1942,0
 Numbers1=0,E,208,92,O,217,11
 [END]
 
-;sufi=2030000000600
+;linzid=90321
 [POLYLINE]
 Type=0x6
 Label=KINGFISHER DR
@@ -28779,7 +28779,7 @@ Nod2=6,3787,0
 Numbers1=0,O,11,65,E,12,46
 [END]
 
-;sufi=2030000001194
+;linzid=89615
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]11
@@ -28794,7 +28794,7 @@ Nod3=2,2231,0
 Label2=STATE HIGHWAY 11
 [END]
 
-;sufi=2030000001194
+;linzid=89615
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]11
@@ -28808,7 +28808,7 @@ Nod2=2,2232,0
 Label2=STATE HIGHWAY 11
 [END]
 
-;sufi=2030000001194
+;linzid=89615
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]11
@@ -28822,7 +28822,7 @@ Nod2=1,2233,0
 Label2=STATE HIGHWAY 11
 [END]
 
-;sufi=1030000214292
+;linzid=91084
 [POLYLINE]
 Type=0xa
 Label=DRYLAND TRK
@@ -28836,7 +28836,7 @@ Nod2=5,3790,1
 Numbers1=0,O,41,41,E,58,68
 [END]
 
-;sufi=1030000214294
+;linzid=91085
 [POLYLINE]
 Type=0xa
 Label=LOST BUSH TRK
@@ -28850,7 +28850,7 @@ Nod2=10,3791,1
 Numbers1=0,O,15,95,E,76,120
 [END]
 
-;sufi=1030000005536
+;linzid=59889
 [POLYLINE]
 Type=0xa
 Label=TYREE RD
@@ -28864,7 +28864,7 @@ Nod2=1,1688,0
 Numbers1=0,E,42,8,O,15,43
 [END]
 
-;sufi=1030000213863
+;linzid=90804
 [POLYLINE]
 Type=0xa
 Label=BRIDLE TRACK RD
@@ -28877,7 +28877,7 @@ Nod1=0,2665,0
 Nod2=6,3793,0
 [END]
 
-;sufi=2030000000161
+;linzid=91222
 [POLYLINE]
 Type=0x6
 Label=KILOUNTAIN PL
@@ -28891,7 +28891,7 @@ Nod2=1,1814,0
 Numbers1=0,E,14,2,O,13,1
 [END]
 
-;sufi=2030000000159
+;linzid=91221
 [POLYLINE]
 Type=0x6
 Label=BARRETT PL
@@ -28905,7 +28905,7 @@ Nod2=1,1815,0
 Numbers1=0,E,10,2,O,15,1
 [END]
 
-;sufi=1030000006291
+;linzid=49658
 [POLYLINE]
 Type=0x6
 Label=TOKERAU BEACH RD
@@ -28919,7 +28919,7 @@ Nod2=4,618,0
 Numbers1=0,E,26,4,O,33,9
 [END]
 
-;sufi=1030000006291
+;linzid=49658
 [POLYLINE]
 Type=0x6
 Label=TOKERAU BEACH RD
@@ -28932,7 +28932,7 @@ Nod1=0,618,0
 Nod2=3,612,0
 [END]
 
-;sufi=2030000000179
+;linzid=91241
 [POLYLINE]
 Type=0x6
 Label=CARRINGTON DR
@@ -28946,7 +28946,7 @@ Nod2=1,3796,0
 Numbers1=0,E,40,48,N,-1,-1
 [END]
 
-;sufi=2030000000179
+;linzid=91241
 [POLYLINE]
 Type=0x6
 Label=CARRINGTON DR
@@ -28959,7 +28959,7 @@ Nod1=0,619,0
 Nod2=4,633,0
 [END]
 
-;sufi=2030000000179
+;linzid=91241
 [POLYLINE]
 Type=0x6
 Label=CARRINGTON DR
@@ -28973,7 +28973,7 @@ Nod2=2,619,0
 Numbers1=0,O,11,17,E,14,20
 [END]
 
-;sufi=2030000000181
+;linzid=91243
 [POLYLINE]
 Type=0x6
 Label=COURTNEY PL
@@ -28988,7 +28988,7 @@ Nod3=3,619,0
 Numbers1=0,E,14,2,O,17,1
 [END]
 
-;sufi=2030000000183
+;linzid=91242
 [POLYLINE]
 Type=0x6
 Label=BROOKE RD
@@ -29001,7 +29001,7 @@ Nod1=0,634,0
 Nod2=6,3798,0
 [END]
 
-;sufi=2030000000183
+;linzid=91242
 [POLYLINE]
 Type=0x6
 Label=BROOKE RD
@@ -29015,7 +29015,7 @@ Nod2=2,634,0
 Numbers1=0,O,3,5,E,6,6
 [END]
 
-;sufi=2030000000185
+;linzid=91244
 [POLYLINE]
 Type=0x6
 Label=AKEAKE CRES
@@ -29029,7 +29029,7 @@ Nod2=8,634,0
 Numbers1=0,O,1,27,E,2,48
 [END]
 
-;sufi=2030000000191
+;linzid=91245
 [POLYLINE]
 Type=0x6
 Label=BANYAN RD
@@ -29043,7 +29043,7 @@ Nod2=3,643,0
 Numbers1=0,E,14,14,O,17,17
 [END]
 
-;sufi=2030000000191
+;linzid=91245
 [POLYLINE]
 Type=0x6
 Label=BANYAN RD
@@ -29057,7 +29057,7 @@ Nod2=2,4637,0
 Numbers1=0,E,12,4,O,15,3
 [END]
 
-;sufi=2030000000189
+;linzid=91246
 [POLYLINE]
 Type=0x6
 Label=LINDSEY WAY
@@ -29070,7 +29070,7 @@ Nod1=0,3801,0
 Nod2=1,644,0
 [END]
 
-;sufi=2030000000189
+;linzid=91246
 [POLYLINE]
 Type=0x6
 Label=LINDSEY WAY
@@ -29083,7 +29083,7 @@ Nod1=0,644,0
 Nod2=1,643,0
 [END]
 
-;sufi=2030000000187
+;linzid=91247
 [POLYLINE]
 Type=0x6
 Label=WHITNEY LANE
@@ -29097,7 +29097,7 @@ Nod2=1,3802,0
 Numbers1=0,E,4,16,O,3,11
 [END]
 
-;sufi=1030000016713
+;linzid=56052
 [POLYLINE]
 Type=0x6
 Label=OAKURA RD
@@ -29111,7 +29111,7 @@ Nod2=1,2633,0
 Numbers1=0,O,127,129,N,-1,-1
 [END]
 
-;sufi=1030000016713
+;linzid=56052
 [POLYLINE]
 Type=0x6
 Label=OAKURA RD
@@ -29125,7 +29125,7 @@ Nod2=3,2638,0
 Numbers1=0,O,131,143,E,132,144
 [END]
 
-;sufi=2030000000384
+;linzid=91361
 [POLYLINE]
 Type=0x6
 Label=WAIMARIE AVE
@@ -29138,7 +29138,7 @@ Nod1=0,3803,0
 Nod2=3,2633,0
 [END]
 
-;sufi=1030000005471
+;linzid=48986
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]11
@@ -29155,7 +29155,7 @@ Numbers2=1,O,15,23,E,20,38
 Label2=NEUMANN ST
 [END]
 
-;sufi=1030000005761
+;linzid=49225
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]11
@@ -29173,7 +29173,7 @@ Numbers2=5,O,53,69,E,46,62
 Label2=NORTH RD
 [END]
 
-;sufi=1030000003506
+;linzid=59756
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]11
@@ -29192,7 +29192,7 @@ Numbers3=57,E,330,324,N,-1,-1
 Label2=PAIHIA RD
 [END]
 
-;sufi=1030000003506
+;linzid=59756
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]11
@@ -29209,7 +29209,7 @@ Numbers2=6,O,769,957,N,-1,-1
 Label2=PAIHIA RD
 [END]
 
-;sufi=1030000003506
+;linzid=59756
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]11
@@ -29228,7 +29228,7 @@ Numbers3=5,O,1045,1075,N,-1,-1
 Label2=PAIHIA RD
 [END]
 
-;sufi=1030000003506
+;linzid=59756
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]11
@@ -29244,7 +29244,7 @@ Nod4=14,4212,0
 Label2=PAIHIA RD
 [END]
 
-;sufi=2030000003065
+;linzid=93272
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]11
@@ -29265,7 +29265,7 @@ Numbers2=9,E,14,1346,O,1,31
 Label2=PAIHIA RD
 [END]
 
-;sufi=1030000005673
+;linzid=59907
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]11
@@ -29290,7 +29290,7 @@ Numbers5=25,E,60,78,O,51,53
 Label2=SEAVIEW RD
 [END]
 
-;sufi=1030000005884
+;linzid=49323
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]11
@@ -29312,7 +29312,7 @@ Numbers2=15,O,69,69,E,66,60
 Label2=MARSDEN RD
 [END]
 
-;sufi=1030000005545
+;linzid=59891
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]11
@@ -29336,7 +29336,7 @@ Numbers3=17,E,326,324,O,331,317
 Label2=PUKETONA RD
 [END]
 
-;sufi=1030000005545
+;linzid=59891
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]11
@@ -29355,7 +29355,7 @@ Numbers3=49,E,724,698,O,725,689
 Label2=PUKETONA RD
 [END]
 
-;sufi=1030000006518
+;linzid=49850
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -29379,7 +29379,7 @@ Numbers3=48,E,6092,5770,O,5891,5743
 Label2=FAR NORTH RD
 [END]
 
-;sufi=1030000006518
+;linzid=49850
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -29408,7 +29408,7 @@ Numbers8=51,E,4592,4592,N,-1,-1
 Label2=FAR NORTH RD
 [END]
 
-;sufi=1030000006518
+;linzid=49850
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -29425,7 +29425,7 @@ Numbers2=4,E,3778,3178,O,3785,3201
 Label2=FAR NORTH RD
 [END]
 
-;sufi=1030000006518
+;linzid=49850
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -29448,7 +29448,7 @@ Numbers4=39,E,4200,4150,O,4217,4151
 Label2=FAR NORTH RD
 [END]
 
-;sufi=1030000006518
+;linzid=49850
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -29470,7 +29470,7 @@ Numbers4=25,O,4131,4145,N,-1,-1
 Label2=FAR NORTH RD
 [END]
 
-;sufi=1030000006518
+;linzid=49850
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -29488,7 +29488,7 @@ Numbers2=45,E,2232,2004,O,2167,1953
 Label2=FAR NORTH RD
 [END]
 
-;sufi=1030000006518
+;linzid=49850
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -29507,7 +29507,7 @@ Numbers3=24,E,2654,2512,O,2705,2607
 Label2=FAR NORTH RD
 [END]
 
-;sufi=1030000006258
+;linzid=49630
 [POLYLINE]
 Type=0x2
 Label=NORTH RD
@@ -29523,7 +29523,7 @@ Numbers1=0,O,55,81,E,58,78
 Numbers2=2,O,83,85,E,82,94
 [END]
 
-;sufi=1030000006199
+;linzid=49582
 [POLYLINE]
 Type=0x2
 Label=MATTHEWS AVE
@@ -29543,7 +29543,7 @@ Numbers3=6,E,106,80,O,105,81
 Numbers4=9,E,76,50,O,79,49
 [END]
 
-;sufi=1030000006211
+;linzid=49592
 [POLYLINE]
 Type=0x2
 Label=SOUTH RD
@@ -29560,7 +29560,7 @@ Numbers1=0,E,60,62,O,19,77
 Numbers2=3,E,62,72,O,77,79
 [END]
 
-;sufi=1030000006199
+;linzid=49582
 [POLYLINE]
 Type=0x2
 Label=MATTHEWS AVE
@@ -29587,7 +29587,7 @@ Numbers5=8,E,18,18,N,-1,-1
 Numbers6=9,E,16,2,O,15,1
 [END]
 
-;sufi=1030000006154
+;linzid=49544
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]12
@@ -29604,7 +29604,7 @@ Numbers2=2,O,17,67,E,10,60
 Label2=GUY RD
 [END]
 
-;sufi=1030000006152
+;linzid=59972
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]12
@@ -29619,7 +29619,7 @@ Numbers1=0,E,36,2,O,37,1
 Label2=TAHEKE RD
 [END]
 
-;sufi=1030000006166
+;linzid=49554
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]12
@@ -45762,7 +45762,7 @@ Label=Kaikohe Airport
 Data0=(-35.45144,173.81584)
 [END]
 
-;sufi=1030000006518
+;linzid=49850
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -45777,7 +45777,7 @@ Numbers1=0,O,1297,1351,E,1276,1394
 Label2=FAR NORTH RD
 [END]
 
-;sufi=1030000006518
+;linzid=49850
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -45810,7 +45810,7 @@ Nod1=0,939,0
 Nod2=17,4659,0
 [END]
 
-;sufi=1030000005934
+;linzid=49365
 [POLYLINE]
 Type=0x6
 Label=RUSSELL ESP
@@ -45826,7 +45826,7 @@ Numbers1=0,N,-1,-1,E,18,18
 Numbers2=1,N,-1,-1,E,18,2
 [END]
 
-;sufi=1030000005956
+;linzid=49381
 [POLYLINE]
 Type=0x6
 Label=CLENDON ESP
@@ -45847,7 +45847,7 @@ Numbers2=4,E,20,20,O,31,43
 Numbers3=6,E,22,26,O,45,59
 [END]
 
-;sufi=1030000006128
+;linzid=49522
 [POLYLINE]
 Type=0x6
 Label=MARMON ST W
@@ -45863,7 +45863,7 @@ Numbers1=0,E,2,6,N,-1,-1
 Numbers2=1,E,8,16,N,-1,-1
 [END]
 
-;sufi=1030000005951
+;linzid=49378
 [POLYLINE]
 Type=0x6
 Label=NIMMO ST W
@@ -45879,7 +45879,7 @@ Numbers1=0,E,6,6,O,1,9
 Numbers2=1,E,12,22,O,13,19
 [END]
 
-;sufi=1030000005979
+;linzid=49402
 [POLYLINE]
 Type=0x6
 Label=MCDONELL ST
@@ -45895,7 +45895,7 @@ Numbers1=0,E,2,2,O,1,5
 Numbers2=1,E,2,10,O,5,17
 [END]
 
-;sufi=1030000006124
+;linzid=59968
 [POLYLINE]
 Type=0x6
 Label=MANNING ST
@@ -45915,7 +45915,7 @@ Numbers3=2,E,24,30,O,15,23
 Numbers4=3,E,32,38,O,25,29
 [END]
 
-;sufi=1030000006126
+;linzid=49520
 [POLYLINE]
 Type=0x6
 Label=MARINER ST
@@ -45930,7 +45930,7 @@ Nod3=3,943,0
 Numbers1=0,O,9,1,E,10,2
 [END]
 
-;sufi=1030000006096
+;linzid=49496
 [POLYLINE]
 Type=0x5
 Label=PARNELL ST
@@ -45950,7 +45950,7 @@ Numbers3=4,O,39,23,E,34,18
 Numbers4=5,O,21,1,E,16,2
 [END]
 
-;sufi=1030000005983
+;linzid=49404
 [POLYLINE]
 Type=0x6
 Label=GUNDRY ST
@@ -45965,7 +45965,7 @@ Nod3=2,945,0
 Numbers1=0,O,13,1,E,10,2
 [END]
 
-;sufi=1030000006014
+;linzid=59952
 [POLYLINE]
 Type=0x6
 Label=BIRCH ST
@@ -45981,7 +45981,7 @@ Numbers1=0,E,4,4,O,9,7
 Numbers2=1,E,4,2,O,7,1
 [END]
 
-;sufi=1030000005908
+;linzid=49343
 [POLYLINE]
 Type=0x6
 Label=WEBSTER ST
@@ -45998,7 +45998,7 @@ Nod5=5,3812,0
 Numbers1=0,O,3,1,E,6,2
 [END]
 
-;sufi=1030000006044
+;linzid=49454
 [POLYLINE]
 Type=0x6
 Label=WHITE ST
@@ -46013,7 +46013,7 @@ Nod3=2,949,0
 Numbers1=0,O,15,15,E,18,18
 [END]
 
-;sufi=1030000005937
+;linzid=49367
 [POLYLINE]
 Type=0x6
 Label=COCHRANE ST
@@ -46029,7 +46029,7 @@ Nod4=4,957,0
 Numbers1=0,O,27,13,E,32,14
 [END]
 
-;sufi=1030000005997
+;linzid=49413
 [POLYLINE]
 Type=0x6
 Label=DE THIERRY ST
@@ -46048,7 +46048,7 @@ Numbers2=2,E,22,30,O,21,37
 Numbers3=3,E,36,48,O,37,71
 [END]
 
-;sufi=1030000006124
+;linzid=59968
 [POLYLINE]
 Type=0x6
 Label=MANNING ST
@@ -46069,7 +46069,7 @@ Numbers2=2,E,60,66,O,61,61
 Numbers3=3,E,72,86,O,69,75
 [END]
 
-;sufi=1030000005995
+;linzid=49411
 [POLYLINE]
 Type=0x6
 Label=HONEY ST
@@ -46085,7 +46085,7 @@ Numbers1=0,O,41,31,E,26,18
 Numbers2=1,O,29,7,E,10,4
 [END]
 
-;sufi=1030000005973
+;linzid=49397
 [POLYLINE]
 Type=0x5
 Label=RAWENE RD
@@ -46099,7 +46099,7 @@ Nod2=42,951,0
 Numbers1=0,O,393,393,E,24,216
 [END]
 
-;sufi=1030000005949
+;linzid=49376
 [POLYLINE]
 Type=0xa
 Label=OHURI RD
@@ -46115,7 +46115,7 @@ Numbers1=0,O,111,205,E,70,206
 Numbers2=10,O,257,257,E,250,250
 [END]
 
-;sufi=1030000005520
+;linzid=49026
 [POLYLINE]
 Type=0x6
 Label=TAPEKA RD
@@ -46131,7 +46131,7 @@ Nod4=32,2390,0
 Numbers1=0,E,84,56,O,43,1
 [END]
 
-;sufi=1030000005547
+;linzid=49048
 [POLYLINE]
 Type=0x6
 Label=QUEEN ST
@@ -46146,7 +46146,7 @@ Nod3=5,3821,0
 Numbers1=0,E,2,2,O,1,1
 [END]
 
-;sufi=1030000005880
+;linzid=49320
 [POLYLINE]
 Type=0x6
 Label=PROSPECT ST
@@ -46161,7 +46161,7 @@ Nod3=5,3822,0
 Numbers1=0,O,7,7,E,2,8
 [END]
 
-;sufi=1030000005614
+;linzid=49104
 [POLYLINE]
 Type=0x6
 Label=THE STRAND
@@ -46175,7 +46175,7 @@ Nod2=3,2396,0
 Numbers1=0,N,-1,-1,O,1,11
 [END]
 
-;sufi=1030000005796
+;linzid=49254
 [POLYLINE]
 Type=0x6
 Label=CHAPEL ST
@@ -46191,7 +46191,7 @@ Numbers1=0,E,2,10,O,1,9
 Numbers2=1,E,12,16,N,-1,-1
 [END]
 
-;sufi=1030000005808
+;linzid=59925
 [POLYLINE]
 Type=0x6
 Label=BAKER ST
@@ -46207,7 +46207,7 @@ Numbers1=0,N,-1,-1,O,1,5
 Numbers2=1,E,2,2,O,5,21
 [END]
 
-;sufi=1030000005506
+;linzid=49014
 [POLYLINE]
 Type=0x6
 Label=GOULD ST
@@ -46223,7 +46223,7 @@ Numbers1=0,O,15,13,E,24,24
 Numbers2=2,O,11,1,E,12,2
 [END]
 
-;sufi=1030000005883
+;linzid=49322
 [POLYLINE]
 Type=0x6
 Label=POMARE RD
@@ -46239,7 +46239,7 @@ Numbers1=0,O,33,33,E,32,20
 Numbers2=1,O,33,1,E,20,8
 [END]
 
-;sufi=1030000005828
+;linzid=49281
 [POLYLINE]
 Type=0x6
 Label=ONEROA RD
@@ -46259,7 +46259,7 @@ Numbers3=2,O,33,39,E,34,34
 Numbers4=5,O,57,59,E,36,70
 [END]
 
-;sufi=1030000005389
+;linzid=48920
 [POLYLINE]
 Type=0x6
 Label=LONG BEACH RD
@@ -46273,7 +46273,7 @@ Nod2=10,2452,0
 Numbers1=0,E,32,32,O,43,65
 [END]
 
-;sufi=1030000005586
+;linzid=49079
 [POLYLINE]
 Type=0x6
 Label=YORK ST
@@ -46293,7 +46293,7 @@ Numbers1=0,O,31,19,E,36,24
 Numbers2=4,O,17,1,E,22,4
 [END]
 
-;sufi=1030000005801
+;linzid=49259
 [POLYLINE]
 Type=0x6
 Label=CHURCH ST
@@ -46311,7 +46311,7 @@ Numbers1=0,E,2,2,O,1,15
 Numbers2=3,E,4,8,N,-1,-1
 [END]
 
-;sufi=1030000005397
+;linzid=48927
 [POLYLINE]
 Type=0x6
 Label=MATAUWHI RD
@@ -46327,7 +46327,7 @@ Numbers1=0,E,2,40,O,1,35
 Numbers2=3,E,42,44,O,37,41
 [END]
 
-;sufi=1030000005467
+;linzid=48984
 [POLYLINE]
 Type=0x5
 Label=AUCKS RD
@@ -46341,7 +46341,7 @@ Nod2=16,2474,0
 Numbers1=0,E,124,106,O,97,15
 [END]
 
-;sufi=1030000005573
+;linzid=59894
 [POLYLINE]
 Type=0x6
 Label=DEEMING RD
@@ -46357,7 +46357,7 @@ Numbers1=0,E,22,22,O,25,21
 Numbers2=2,E,22,2,O,17,1
 [END]
 
-;sufi=1030000005840
+;linzid=49289
 [POLYLINE]
 Type=0x5
 Label=OKIATO RD
@@ -46371,7 +46371,7 @@ Nod2=4,6112,0
 Numbers1=0,E,44,2,O,49,1
 [END]
 
-;sufi=1030000005875
+;linzid=49317
 [POLYLINE]
 Type=0x6
 Label=PIPIROA RD
@@ -46385,7 +46385,7 @@ Nod2=2,2405,0
 Nod3=6,3829,0
 [END]
 
-;sufi=1030000005607
+;linzid=59898
 [POLYLINE]
 Type=0x6
 Label=TE WAHAPU RD
@@ -46399,7 +46399,7 @@ Nod2=2,4174,0
 Numbers1=0,O,273,275,N,-1,-1
 [END]
 
-;sufi=1030000005607
+;linzid=59898
 [POLYLINE]
 Type=0x6
 Label=TE WAHAPU RD
@@ -46420,7 +46420,7 @@ Numbers3=8,E,216,216,N,-1,-1
 Numbers4=10,E,204,174,O,195,195
 [END]
 
-;sufi=1030000005607
+;linzid=59898
 [POLYLINE]
 Type=0x6
 Label=TE WAHAPU RD
@@ -46445,7 +46445,7 @@ Nod1=0,2409,0
 Nod2=9,6110,0
 [END]
 
-;sufi=1030000005670
+;linzid=49150
 [POLYLINE]
 Type=0x6
 Label=SCORESBY ST
@@ -46463,7 +46463,7 @@ Numbers2=5,E,2,6,O,27,27
 Numbers3=6,E,8,8,N,-1,-1
 [END]
 
-;sufi=1030000005670
+;linzid=49150
 [POLYLINE]
 Type=0x6
 Label=SCORESBY ST
@@ -46477,7 +46477,7 @@ Nod2=1,2350,0
 Nod3=4,2357,0
 [END]
 
-;sufi=1030000005721
+;linzid=49191
 [POLYLINE]
 Type=0x6
 Label=KANE ST
@@ -46493,7 +46493,7 @@ Nod4=8,2368,0
 Numbers1=0,N,-1,-1,O,3,13
 [END]
 
-;sufi=1030000005754
+;linzid=49219
 [POLYLINE]
 Type=0x6
 Label=RICHARDSON ST
@@ -46507,7 +46507,7 @@ Nod2=6,2375,0
 Numbers1=0,O,1,1,E,6,4
 [END]
 
-;sufi=1030000005863
+;linzid=49306
 [POLYLINE]
 Type=0x6
 Label=ENGLISH BAY RD
@@ -46520,7 +46520,7 @@ Nod1=0,4207,0
 Nod2=7,2343,0
 [END]
 
-;sufi=1030000005863
+;linzid=49306
 [POLYLINE]
 Type=0x6
 Label=ENGLISH BAY RD
@@ -46534,7 +46534,7 @@ Nod2=1,2370,0
 Nod3=4,2344,0
 [END]
 
-;sufi=1030000005754
+;linzid=49219
 [POLYLINE]
 Type=0x6
 Label=RICHARDSON ST
@@ -46548,7 +46548,7 @@ Nod2=5,4616,0
 Numbers1=0,E,10,10,O,3,3
 [END]
 
-;sufi=1030000005863
+;linzid=49306
 [POLYLINE]
 Type=0x6
 Label=ENGLISH BAY RD
@@ -46564,7 +46564,7 @@ Numbers1=0,O,19,19,E,24,20
 Numbers2=2,O,17,7,E,14,2
 [END]
 
-;sufi=1030000005603
+;linzid=49095
 [POLYLINE]
 Type=0x6
 Label=TE HAUMI DR
@@ -46585,7 +46585,7 @@ Numbers3=25,E,38,36,O,39,37
 Numbers4=28,E,34,30,O,37,21
 [END]
 
-;sufi=1030000005737
+;linzid=49206
 [POLYLINE]
 Type=0x6
 Label=TOHITAPU RD
@@ -46603,7 +46603,7 @@ Numbers2=7,O,3,3,E,4,4
 Numbers3=10,O,1,1,E,2,2
 [END]
 
-;sufi=1030000005459
+;linzid=48978
 [POLYLINE]
 Type=0x6
 Label=COUTTS AVE
@@ -46617,7 +46617,7 @@ Nod2=5,4179,0
 Numbers1=0,N,-1,-1,E,2,12
 [END]
 
-;sufi=1030000005575
+;linzid=49071
 [POLYLINE]
 Type=0x6
 Label=BINNIE ST
@@ -46633,7 +46633,7 @@ Numbers1=0,E,2,6,O,1,3
 Numbers2=5,E,10,34,O,7,15
 [END]
 
-;sufi=1030000005444
+;linzid=48963
 [POLYLINE]
 Type=0x6
 Label=SULLIVANS RD
@@ -46647,7 +46647,7 @@ Nod2=10,3838,0
 Numbers1=0,E,2,34,O,1,29
 [END]
 
-;sufi=1030000005504
+;linzid=49013
 [POLYLINE]
 Type=0x6
 Label=GREYS LANE
@@ -46661,7 +46661,7 @@ Nod2=4,2310,0
 Nod3=5,2311,0
 [END]
 
-;sufi=1030000005482
+;linzid=48993
 [POLYLINE]
 Type=0x6
 Label=MACMURRAY RD
@@ -46677,7 +46677,7 @@ Numbers1=0,O,11,9,E,20,14
 Numbers2=1,O,7,1,E,2,2
 [END]
 
-;sufi=1030000005690
+;linzid=49166
 [POLYLINE]
 Type=0x6
 Label=KINGS RD
@@ -46693,7 +46693,7 @@ Numbers1=0,O,57,25,E,38,30
 Numbers2=2,O,17,1,E,28,2
 [END]
 
-;sufi=1030000005733
+;linzid=49203
 [POLYLINE]
 Type=0x6
 Label=WILLIAMS RD
@@ -46707,7 +46707,7 @@ Nod2=4,2287,0
 Numbers1=0,O,75,39,E,28,6
 [END]
 
-;sufi=1030000005776
+;linzid=49236
 [POLYLINE]
 Type=0x6
 Label=JOYCES RD
@@ -46723,7 +46723,7 @@ Numbers1=0,O,33,3,E,46,18
 Numbers2=4,O,1,1,E,18,2
 [END]
 
-;sufi=1030000005667
+;linzid=49148
 [POLYLINE]
 Type=0x6
 Label=SCHOOL RD
@@ -46741,7 +46741,7 @@ Numbers2=2,O,17,3,E,36,10
 Numbers3=10,O,1,1,N,-1,-1
 [END]
 
-;sufi=1030000005872
+;linzid=59934
 [POLYLINE]
 Type=0x6
 Label=WALLACE LANE
@@ -46754,7 +46754,7 @@ Nod1=0,2298,0
 Nod2=3,3841,0
 [END]
 
-;sufi=1030000005664
+;linzid=49146
 [POLYLINE]
 Type=0x6
 Label=SELWYN RD
@@ -46768,7 +46768,7 @@ Nod2=1,2287,0
 Numbers1=0,O,31,1,E,42,2
 [END]
 
-;sufi=1030000005807
+;linzid=49263
 [POLYLINE]
 Type=0x6
 Label=BAYVIEW RD
@@ -46786,7 +46786,7 @@ Numbers2=7,O,11,9,N,-1,-1
 Numbers3=8,O,7,1,E,4,2
 [END]
 
-;sufi=1030000005602
+;linzid=59897
 [POLYLINE]
 Type=0x6
 Label=TE KEMARA AVE
@@ -46802,7 +46802,7 @@ Numbers1=0,O,25,25,E,54,52
 Numbers2=5,O,25,1,E,52,2
 [END]
 
-;sufi=1030000005518
+;linzid=49024
 [POLYLINE]
 Type=0x6
 Label=TAHUNA RD
@@ -46818,7 +46818,7 @@ Numbers1=0,O,57,43,E,58,50
 Numbers2=6,O,39,1,E,44,2
 [END]
 
-;sufi=1030000005585
+;linzid=49078
 [POLYLINE]
 Type=0x6
 Label=YORKE RD
@@ -46836,7 +46836,7 @@ Numbers1=0,O,101,99,E,46,46
 Numbers2=1,O,93,89,E,44,40
 [END]
 
-;sufi=1030000005798
+;linzid=49256
 [POLYLINE]
 Type=0x6
 Label=CAUSEWAY RD
@@ -46850,7 +46850,7 @@ Nod2=4,3846,0
 Numbers1=0,E,2,74,O,1,45
 [END]
 
-;sufi=1030000005501
+;linzid=59884
 [POLYLINE]
 Type=0x6
 Label=GOFFE DR
@@ -46866,7 +46866,7 @@ Numbers1=0,E,2,2,O,1,13
 Numbers2=1,E,2,40,O,13,59
 [END]
 
-;sufi=1030000005585
+;linzid=49078
 [POLYLINE]
 Type=0x6
 Label=YORKE RD
@@ -46883,7 +46883,7 @@ Numbers1=0,E,2,4,N,-1,-1
 Numbers2=2,E,6,24,O,9,29
 [END]
 
-;sufi=1030000005484
+;linzid=48995
 [POLYLINE]
 Type=0x6
 Label=HAWKE DR
@@ -46899,7 +46899,7 @@ Numbers1=0,O,1,1,E,2,4
 Numbers2=1,O,7,15,E,8,32
 [END]
 
-;sufi=1030000005450
+;linzid=48969
 [POLYLINE]
 Type=0x6
 Label=HONE HEKE RD
@@ -46916,7 +46916,7 @@ Numbers1=0,O,135,123,E,134,116
 Numbers2=3,O,109,89,E,110,100
 [END]
 
-;sufi=1030000005450
+;linzid=48969
 [POLYLINE]
 Type=0x6
 Label=HONE HEKE RD
@@ -46935,7 +46935,7 @@ Numbers2=8,O,17,17,E,24,22
 Numbers3=10,O,11,1,E,18,2
 [END]
 
-;sufi=1030000005485
+;linzid=48996
 [POLYLINE]
 Type=0x6
 Label=HAWKINGS CRES
@@ -46950,7 +46950,7 @@ Nod3=6,4264,0
 Numbers1=1,E,8,20,O,19,35
 [END]
 
-;sufi=1030000001641
+;linzid=48073
 [POLYLINE]
 Type=0x6
 Label=RUATARA DR
@@ -46966,7 +46966,7 @@ Nod4=3,1858,0
 Numbers1=0,O,1,1,E,2,2
 [END]
 
-;sufi=1030000005818
+;linzid=49271
 [POLYLINE]
 Type=0x6
 Label=COBHAM CRT
@@ -46980,7 +46980,7 @@ Nod2=7,3853,0
 Numbers1=0,O,1,25,E,2,26
 [END]
 
-;sufi=1030000000446
+;linzid=47819
 [POLYLINE]
 Type=0x6
 Label=CANNON DR
@@ -46996,7 +46996,7 @@ Numbers1=0,O,3,21,E,6,16
 Numbers2=6,O,25,47,E,18,44
 [END]
 
-;sufi=1030000005494
+;linzid=49004
 [POLYLINE]
 Type=0x6
 Label=FAIRWAY DR
@@ -47018,7 +47018,7 @@ Numbers4=5,E,20,10,O,31,11
 Numbers5=9,E,6,6,N,-1,-1
 [END]
 
-;sufi=1030000005725
+;linzid=49195
 ;
 [POLYLINE]
 Type=0x5
@@ -47035,7 +47035,7 @@ Numbers1=0,E,592,476,O,581,469
 Numbers2=6,E,460,460,O,459,457
 [END]
 
-;sufi=1030000005725
+;linzid=49195
 [POLYLINE]
 Type=0x5
 Label=KERIKERI RD
@@ -47055,7 +47055,7 @@ Numbers3=3,E,342,324,O,331,331
 Numbers4=4,E,322,308,O,315,315
 [END]
 
-;sufi=1030000000447
+;linzid=47820
 [POLYLINE]
 Type=0x6
 Label=Golf View Road
@@ -47071,7 +47071,7 @@ Numbers1=0,E,24,24,O,23,23
 Numbers2=2,E,22,2,O,23,1
 [END]
 
-;sufi=2030000000157
+;linzid=91220
 [POLYLINE]
 Type=0x6
 Label=ARANGA RD
@@ -47089,7 +47089,7 @@ Numbers2=1,E,22,16,O,17,13
 Numbers3=2,E,14,2,O,11,1
 [END]
 
-;sufi=1030000005816
+;linzid=59927
 [POLYLINE]
 Type=0x5
 Label=COBHAM RD
@@ -47113,7 +47113,7 @@ Numbers5=6,E,54,56,O,57,63
 Numbers6=7,E,60,86,O,65,85
 [END]
 
-;sufi=1030000005631
+;linzid=49119
 [POLYLINE]
 Type=0x6
 Label=SHEPHERD RD
@@ -47131,7 +47131,7 @@ Numbers2=3,E,28,64,O,51,85
 Numbers3=4,E,76,88,O,89,91
 [END]
 
-;sufi=1030000005748
+;linzid=49214
 [POLYLINE]
 Type=0x6
 Label=RIDDELL RD
@@ -47145,7 +47145,7 @@ Nod2=4,1893,0
 Numbers1=0,E,74,8,O,75,9
 [END]
 
-;sufi=1030000181587
+;linzid=58839
 [POLYLINE]
 Type=0x6
 Label=RARERE TCE
@@ -47159,7 +47159,7 @@ Nod2=15,1946,0
 Numbers1=0,E,72,2,O,41,1
 [END]
 
-;sufi=1030000005497
+;linzid=49007
 [POLYLINE]
 Type=0x6
 Label=MISSION RD
@@ -47176,7 +47176,7 @@ Numbers1=0,E,2,60,O,1,39
 Numbers2=2,E,62,62,O,41,43
 [END]
 
-;sufi=1030000005718
+;linzid=49188
 [POLYLINE]
 Type=0x6
 Label=KEMP RD
@@ -47192,7 +47192,7 @@ Numbers1=0,E,2,86,O,1,57
 Numbers2=5,E,86,94,O,79,79
 [END]
 
-;sufi=1030000005719
+;linzid=49189
 [POLYLINE]
 Type=0x6
 Label=KENDALL RD
@@ -47210,7 +47210,7 @@ Numbers2=1,E,30,38,O,31,35
 Numbers3=3,E,38,48,O,39,57
 [END]
 
-;sufi=1030000190726
+;linzid=59248
 [POLYLINE]
 Type=0x6
 Label=EDKINS RD
@@ -47224,7 +47224,7 @@ Nod2=14,1899,0
 Numbers1=0,E,50,2,O,45,1
 [END]
 
-;sufi=1030000005540
+;linzid=59890
 [POLYLINE]
 Type=0x6
 Label=RAINBOW FALLS RD
@@ -47241,7 +47241,7 @@ Numbers1=0,O,9,45,E,8,44
 Numbers2=6,O,73,83,E,62,74
 [END]
 
-;sufi=1030000208347
+;linzid=62438
 [POLYLINE]
 Type=0x6
 Label=SILKWOOD LANE
@@ -47255,7 +47255,7 @@ Nod2=26,4650,0
 Numbers1=0,E,40,2,O,31,1
 [END]
 
-;sufi=1030000005677
+;linzid=49155
 [POLYLINE]
 Type=0x5
 Label=LANDING RD
@@ -47275,7 +47275,7 @@ Numbers3=8,O,49,49,E,84,84
 Numbers4=9,O,47,45,E,82,82
 [END]
 
-;sufi=1030000005626
+;linzid=49114
 [POLYLINE]
 Type=0x6
 Label=SKUDDERS BEACH RD
@@ -47289,7 +47289,7 @@ Nod2=1,3989,0
 Numbers1=0,O,131,131,E,138,138
 [END]
 
-;sufi=1030000005424
+;linzid=48949
 [POLYLINE]
 Type=0x6
 Label=REDCLIFFS RD
@@ -47304,7 +47304,7 @@ Nod3=25,1971,0
 Numbers1=0,O,29,251,E,54,272
 [END]
 
-;sufi=1030000189525
+;linzid=59191
 [POLYLINE]
 Type=0x6
 Label=RANGITANE LOOP RD
@@ -47320,7 +47320,7 @@ Nod4=14,2004,0
 Numbers1=0,O,1,23,E,2,18
 [END]
 
-;sufi=1030000006528
+;linzid=49856
 [POLYLINE]
 Type=0x6
 Label=RANGIKAPITI RD
@@ -47336,7 +47336,7 @@ Nod4=4,1010,0
 Numbers1=0,N,-1,-1,E,46,2
 [END]
 
-;sufi=1030000006510
+;linzid=49844
 [POLYLINE]
 Type=0x6
 Label=MAHOE LANE
@@ -47352,7 +47352,7 @@ Numbers1=0,O,19,19,E,24,18
 Numbers2=3,O,17,17,E,12,6
 [END]
 
-;sufi=1030000055459
+;linzid=58770
 [POLYLINE]
 Type=0x6
 Label=SAN MARINO DR
@@ -47368,7 +47368,7 @@ Nod4=3,1004,0
 Numbers1=0,O,3,3,E,2,2
 [END]
 
-;sufi=1030000006426
+;linzid=49772
 [POLYLINE]
 Type=0x6
 Label=KOTARE DR
@@ -47386,7 +47386,7 @@ Numbers2=2,O,15,5,E,10,4
 Numbers3=5,O,1,1,E,2,2
 [END]
 
-;sufi=1030000006365
+;linzid=49721
 [POLYLINE]
 Type=0x6
 Label=BRAEMAR AVE
@@ -47404,7 +47404,7 @@ Numbers2=4,E,4,10,O,19,19
 Numbers3=6,E,10,14,N,-1,-1
 [END]
 
-;sufi=1030000006429
+;linzid=49775
 [POLYLINE]
 Type=0x6
 Label=KUPE RD
@@ -47420,7 +47420,7 @@ Numbers1=0,O,19,11,E,20,10
 Numbers2=1,O,9,3,E,8,4
 [END]
 
-;sufi=1030000006290
+;linzid=49657
 [POLYLINE]
 Type=0x6
 Label=MILL BAY RD
@@ -47438,7 +47438,7 @@ Numbers1=0,E,4,6,O,7,7
 Numbers2=5,E,16,40,O,7,35
 [END]
 
-;sufi=1030000006506
+;linzid=49841
 [POLYLINE]
 Type=0x6
 Label=RICHMOND RD
@@ -47452,7 +47452,7 @@ Nod2=2,1035,0
 Numbers1=0,E,30,4,O,27,1
 [END]
 
-;sufi=1030000006290
+;linzid=49657
 [POLYLINE]
 Type=0x6
 Label=MILL BAY RD
@@ -47466,7 +47466,7 @@ Nod2=4,1026,0
 Nod3=10,1035,0
 [END]
 
-;sufi=1030000006563
+;linzid=49885
 [POLYLINE]
 Type=0x5
 Label=BEACH RD
@@ -47482,7 +47482,7 @@ Nod4=11,1036,0
 Numbers1=0,O,57,23,E,36,20
 [END]
 
-;sufi=1030000006540
+;linzid=49868
 [POLYLINE]
 Type=0x6
 Label=MARY HASSETT ST
@@ -47498,7 +47498,7 @@ Numbers1=0,O,1,7,E,2,4
 Numbers2=2,O,9,11,E,6,10
 [END]
 
-;sufi=1030000006554
+;linzid=49877
 [POLYLINE]
 Type=0x6
 Label=TASMAN ST
@@ -47513,7 +47513,7 @@ Nod2=8,1059,0
 Numbers1=0,E,20,2,O,21,1
 [END]
 
-;sufi=1030000006313
+;linzid=49677
 [POLYLINE]
 Type=0x6
 Label=COLONEL MOULD DR
@@ -47533,7 +47533,7 @@ Numbers3=4,E,26,14,O,19,13
 Numbers4=5,E,12,6,O,11,9
 [END]
 
-;sufi=1030000181573
+;linzid=58835
 [POLYLINE]
 Type=0x5
 Label=WATERFRONT DR
@@ -47549,7 +47549,7 @@ Numbers1=0,E,44,66,N,-1,-1
 Numbers2=5,E,76,80,N,-1,-1
 [END]
 
-;sufi=1030000006539
+;linzid=49867
 [POLYLINE]
 Type=0x6
 Label=GREY ST E
@@ -47565,7 +47565,7 @@ Numbers1=0,O,27,5,E,18,10
 Numbers2=3,O,5,1,E,4,2
 [END]
 
-;sufi=1030000006287
+;linzid=49655
 [POLYLINE]
 Type=0x6
 Label=MELODY LANE
@@ -47581,7 +47581,7 @@ Numbers1=0,O,51,41,E,42,42
 Numbers2=1,O,41,11,E,42,12
 [END]
 
-;sufi=1030000006576
+;linzid=60027
 [POLYLINE]
 Type=0x6
 Label=KARAMEA RD
@@ -47597,7 +47597,7 @@ Numbers1=0,O,35,35,E,44,42
 Numbers2=1,O,35,5,E,42,6
 [END]
 
-;sufi=1030000006489
+;linzid=49825
 [POLYLINE]
 Type=0x6
 Label=TURVEY RD
@@ -47614,7 +47614,7 @@ Numbers1=0,E,2,6,N,-1,-1
 Numbers2=3,E,30,30,O,39,39
 [END]
 
-;sufi=1030000006489
+;linzid=49825
 [POLYLINE]
 Type=0xa
 Label=TURVEY RD
@@ -47628,7 +47628,7 @@ Nod2=13,3874,0
 Numbers1=0,E,60,210,O,75,195
 [END]
 
-;sufi=1030000006352
+;linzid=49710
 [POLYLINE]
 Type=0x6
 Label=PARADISE RD
@@ -47644,7 +47644,7 @@ Numbers1=0,E,4,6,O,3,5
 Numbers2=1,E,10,38,O,5,45
 [END]
 
-;sufi=1030000191100
+;linzid=61692
 [POLYLINE]
 Type=0x6
 Label=BAYSIDE DR
@@ -47658,7 +47658,7 @@ Nod2=14,3876,0
 Numbers1=0,E,2,70,O,1,37
 [END]
 
-;sufi=1030000006436
+;linzid=49782
 ;
 [POLYLINE]
 Type=0x6
@@ -47673,7 +47673,7 @@ Nod2=7,4666,0
 Numbers1=0,N,-1,-1,O,1,17
 [END]
 
-;sufi=1030000006611
+;linzid=49927
 [POLYLINE]
 Type=0x6
 Label=ORURU RD
@@ -47692,7 +47692,7 @@ Numbers2=1,O,25,21,N,-1,-1
 Numbers3=4,O,17,5,N,-1,-1
 [END]
 
-;sufi=1030000006611
+;linzid=49927
 [POLYLINE]
 Type=0x6
 Label=ORURU RD
@@ -47710,7 +47710,7 @@ Numbers2=4,O,347,347,E,308,368
 Numbers3=11,O,401,657,E,400,660
 [END]
 
-;sufi=1030000006304
+;linzid=49670
 [POLYLINE]
 Type=0xa
 Label=RYDER RD
@@ -47724,7 +47724,7 @@ Nod2=11,814,0
 Nod3=17,823,0
 [END]
 
-;sufi=1030000006334
+;linzid=49695
 [POLYLINE]
 Type=0x6
 Label=ADAMSON RD
@@ -47738,7 +47738,7 @@ Nod2=8,825,0
 Numbers1=0,O,3,39,E,4,48
 [END]
 
-;sufi=1030000006499
+;linzid=49835
 [POLYLINE]
 Type=0x6
 Label=NGATIKAHU RD
@@ -47752,7 +47752,7 @@ Nod2=1,807,0
 Numbers1=0,N,-1,-1,O,1,1
 [END]
 
-;sufi=1030000189678
+;linzid=61684
 [POLYLINE]
 Type=0x6
 Label=DONALD LANE
@@ -47766,7 +47766,7 @@ Nod2=1,6078,0
 Numbers1=0,O,1,17,E,2,12
 [END]
 
-;sufi=1030000006242
+;linzid=49618
 [POLYLINE]
 Type=0x6
 Label=ALLEN BELL DR
@@ -47783,7 +47783,7 @@ Numbers1=0,O,75,87,E,74,84
 Numbers2=3,O,91,133,E,86,122
 [END]
 
-;sufi=1030000006204
+;linzid=49586
 [POLYLINE]
 Type=0x6
 Label=DAVIS ST
@@ -47801,7 +47801,7 @@ Numbers2=3,O,5,7,E,6,10
 Numbers3=5,O,11,11,E,12,14
 [END]
 
-;sufi=1030000006198
+;linzid=49581
 [POLYLINE]
 Type=0x6
 Label=MATILDA PL
@@ -47817,7 +47817,7 @@ Numbers1=0,E,2,2,O,1,1
 Numbers2=2,E,6,14,O,5,17
 [END]
 
-;sufi=1030000006242
+;linzid=49618
 [POLYLINE]
 Type=0x6
 Label=ALLEN BELL DR
@@ -47840,7 +47840,7 @@ Numbers4=6,O,39,61,E,60,62
 Numbers5=10,O,63,73,E,64,72
 [END]
 
-;sufi=1030000006229
+;linzid=49605
 [POLYLINE]
 Type=0x6
 Label=KITCHENER ST
@@ -47854,7 +47854,7 @@ Nod2=4,4182,0
 Numbers1=0,O,29,1,E,28,2
 [END]
 
-;sufi=1030000006230
+;linzid=49606
 [POLYLINE]
 Type=0x6
 Label=KOHUHU ST
@@ -47870,7 +47870,7 @@ Numbers1=0,E,14,14,O,21,13
 Numbers2=3,E,10,10,O,11,3
 [END]
 
-;sufi=1030000006258
+;linzid=49630
 [POLYLINE]
 Type=0x5
 Label=NORTH RD
@@ -47890,7 +47890,7 @@ Numbers3=2,O,33,39,E,32,38
 Numbers4=3,O,41,41,E,42,52
 [END]
 
-;sufi=1030000006208
+;linzid=59978
 [POLYLINE]
 Type=0x6
 Label=GRIGG ST
@@ -47908,7 +47908,7 @@ Numbers2=10,O,25,13,E,26,16
 Numbers3=13,O,13,1,E,12,2
 [END]
 
-;sufi=1030000006261
+;linzid=49633
 [POLYLINE]
 Type=0x5
 Label=COMMERCE ST
@@ -47927,7 +47927,7 @@ Numbers2=3,O,229,203,E,228,204
 Numbers3=4,O,199,171,E,200,172
 [END]
 
-;sufi=1030000006238
+;linzid=49614
 [POLYLINE]
 Type=0x6
 Label=TE REINGA ST
@@ -47943,7 +47943,7 @@ Numbers1=0,O,3,3,E,4,2
 Numbers2=1,O,1,1,N,-1,-1
 [END]
 
-;sufi=1030000005539
+;linzid=49042
 [POLYLINE]
 Type=0x5
 Label=PUKEPOTO RD
@@ -47964,7 +47964,7 @@ Numbers4=3,O,13,1,E,12,2
 Numbers5=4,N,-1,-1,N,-1,-1
 [END]
 
-;sufi=1030000006193
+;linzid=49576
 [POLYLINE]
 Type=0x6
 Label=EMPIRE ST
@@ -47984,7 +47984,7 @@ Numbers3=3,O,13,25,E,14,26
 Numbers4=4,O,27,35,E,28,38
 [END]
 
-;sufi=1030000006223
+;linzid=59982
 [POLYLINE]
 Type=0x6
 Label=DUNN ST
@@ -48001,7 +48001,7 @@ Numbers1=0,O,1,15,E,2,12
 Numbers2=2,O,17,17,E,18,28
 [END]
 
-;sufi=1030000006261
+;linzid=49633
 [POLYLINE]
 Type=0x5
 Label=COMMERCE ST
@@ -48023,7 +48023,7 @@ Numbers4=4,O,89,57,E,100,50
 Numbers5=6,O,51,1,E,42,2
 [END]
 
-;sufi=1030000006215
+;linzid=49595
 [POLYLINE]
 Type=0x6
 Label=TAAFFE ST
@@ -48041,7 +48041,7 @@ Numbers2=1,O,3,3,N,-1,-1
 Numbers3=2,O,5,5,N,-1,-1
 [END]
 
-;sufi=1030000006192
+;linzid=49575
 [POLYLINE]
 Type=0x6
 Label=BANK ST
@@ -48058,7 +48058,7 @@ Numbers1=0,O,9,7,E,22,8
 Numbers2=2,O,5,3,E,6,4
 [END]
 
-;sufi=1030000006222
+;linzid=49600
 [POLYLINE]
 Type=0x6
 Label=EAST LANE
@@ -48072,7 +48072,7 @@ Nod2=1,393,0
 Nod3=2,3889,0
 [END]
 
-;sufi=1030000006211
+;linzid=49592
 [POLYLINE]
 Type=0x5
 Label=SOUTH RD
@@ -48087,7 +48087,7 @@ Nod3=2,403,0
 Numbers1=0,E,6,6,O,1,11
 [END]
 
-;sufi=1030000006239
+;linzid=49615
 [POLYLINE]
 Type=0x6
 Label=TE MAIRE AVE
@@ -48102,7 +48102,7 @@ Nod3=4,417,0
 Numbers1=0,E,4,4,O,9,1
 [END]
 
-;sufi=1030000006194
+;linzid=49577
 [POLYLINE]
 Type=0x6
 Label=ENID AVE
@@ -48116,7 +48116,7 @@ Nod2=2,410,0
 Nod3=6,3891,0
 [END]
 
-;sufi=1030000006151
+;linzid=49542
 [POLYLINE]
 Type=0x6
 Label=OKAHU RD
@@ -48130,7 +48130,7 @@ Nod2=9,6062,0
 Numbers1=0,E,2,38,O,3,35
 [END]
 
-;sufi=1030000006205
+;linzid=49587
 [POLYLINE]
 Type=0x6
 Label=DOMINION RD
@@ -48152,7 +48152,7 @@ Numbers3=3,O,21,17,E,22,16
 Numbers4=10,O,13,1,E,12,2
 [END]
 
-;sufi=1030000006214
+;linzid=49594
 [POLYLINE]
 Type=0x6
 Label=TANGONGE CRES
@@ -48166,7 +48166,7 @@ Nod2=2,326,0
 Numbers1=0,O,7,1,E,10,2
 [END]
 
-;sufi=1030000006189
+;linzid=49572
 [POLYLINE]
 Type=0x16
 Label=POMPALLIER WLK
@@ -48179,7 +48179,7 @@ Nod1=0,327,0
 Nod2=4,363,0
 [END]
 
-;sufi=1030000006195
+;linzid=49578
 [POLYLINE]
 Type=0x6
 Label=EDEN TCE
@@ -48193,7 +48193,7 @@ Nod2=6,4575,0
 Numbers1=0,N,-1,-1,E,10,2
 [END]
 
-;sufi=1030000006259
+;linzid=49631
 [POLYLINE]
 Type=0x6
 Label=NORMAN SENN AVE
@@ -48211,7 +48211,7 @@ Numbers2=1,O,9,23,E,14,14
 Numbers3=2,O,25,39,N,-1,-1
 [END]
 
-;sufi=1030000006336
+;linzid=49697
 [POLYLINE]
 Type=0xa
 Label=LARMER RD
@@ -48229,7 +48229,7 @@ Numbers2=48,E,300,152,O,309,137
 Numbers3=66,E,126,112,O,129,7
 [END]
 
-;sufi=1030000006570
+;linzid=49892
 [POLYLINE]
 Type=0x5
 Label=KAITAIA-AWAROA RD
@@ -48245,7 +48245,7 @@ Nod4=13,255,0
 Numbers1=11,E,398,314,O,425,311
 [END]
 
-;sufi=1030000006329
+;linzid=49690
 [POLYLINE]
 Type=0xa
 Label=ARAROA RD
@@ -48259,7 +48259,7 @@ Nod2=3,224,0
 Numbers1=0,E,84,8,O,85,3
 [END]
 
-;sufi=1030000006226
+;linzid=49603
 [POLYLINE]
 Type=0xa
 Label=BONNETT RD
@@ -48272,7 +48272,7 @@ Nod1=0,228,0
 Nod2=4,254,0
 [END]
 
-;sufi=1030000006226
+;linzid=49603
 [POLYLINE]
 Type=0x6
 Label=BONNETT RD
@@ -48293,7 +48293,7 @@ Numbers3=2,O,37,29,E,32,28
 Numbers4=3,O,27,19,E,26,2
 [END]
 
-;sufi=1030000006564
+;linzid=49886
 [POLYLINE]
 Type=0xa
 Label=BELL RD
@@ -48309,7 +48309,7 @@ Numbers1=0,E,258,180,O,259,259
 Numbers2=1,E,94,18,O,97,19
 [END]
 
-;sufi=1030000006615
+;linzid=49930
 [POLYLINE]
 Type=0x6
 Label=OTURU RD
@@ -48323,7 +48323,7 @@ Nod2=22,458,0
 Numbers1=0,O,25,59,E,2,110
 [END]
 
-;sufi=1030000006529
+;linzid=49857
 [POLYLINE]
 Type=0xa
 Label=QUARRY RD
@@ -48337,7 +48337,7 @@ Nod2=9,4628,0
 Numbers1=0,E,588,590,O,539,441
 [END]
 
-;sufi=1030000006142
+;linzid=49535
 [POLYLINE]
 Type=0x6
 Label=HONGI ST
@@ -48357,7 +48357,7 @@ Numbers3=3,E,8,6,O,9,3
 Numbers4=6,E,4,2,O,1,1
 [END]
 
-;sufi=1030000006139
+;linzid=49533
 [POLYLINE]
 Type=0x6
 Label=HEKE ST
@@ -48375,7 +48375,7 @@ Numbers2=2,E,6,12,O,7,13
 Numbers3=5,E,16,36,O,15,27
 [END]
 
-;sufi=1030000006153
+;linzid=49543
 [POLYLINE]
 Type=0x6
 Label=SYDNEY ST
@@ -48391,7 +48391,7 @@ Numbers1=0,E,2,20,O,1,25
 Numbers2=4,E,24,34,O,27,37
 [END]
 
-;sufi=1030000006143
+;linzid=49536
 [POLYLINE]
 Type=0x6
 Label=DE MERLE ST
@@ -48415,7 +48415,7 @@ Numbers5=5,E,42,50,O,11,15
 Numbers6=7,E,52,54,O,17,17
 [END]
 
-;sufi=1030000006162
+;linzid=49550
 [POLYLINE]
 Type=0x6
 Label=TARAIRE ST
@@ -48432,7 +48432,7 @@ Numbers1=0,E,52,44,O,45,25
 Numbers2=5,E,42,12,O,23,5
 [END]
 
-;sufi=1030000006185
+;linzid=59976
 [POLYLINE]
 Type=0x6
 Label=TOTARA PL
@@ -48446,7 +48446,7 @@ Nod2=3,3899,0
 Numbers1=0,O,1,31,E,2,14
 [END]
 
-;sufi=1030000006173
+;linzid=49560
 [POLYLINE]
 Type=0x6
 Label=WIHONGI ST
@@ -48468,7 +48468,7 @@ Numbers4=6,E,18,12,O,25,15
 Numbers5=7,E,10,2,O,13,5
 [END]
 
-;sufi=1030000006146
+;linzid=49538
 [POLYLINE]
 Type=0x6
 Label=PURDY ST
@@ -48484,7 +48484,7 @@ Numbers1=0,O,33,15,E,22,12
 Numbers2=4,O,13,1,E,10,2
 [END]
 
-;sufi=1030000006135
+;linzid=49529
 [POLYLINE]
 Type=0x6
 Label=RECREATION RD
@@ -48500,7 +48500,7 @@ Numbers1=0,O,1,1,N,-1,-1
 Numbers2=3,O,9,9,N,-1,-1
 [END]
 
-;sufi=1030000006145
+;linzid=49537
 [POLYLINE]
 Type=0x6
 Label=PENNEY CRES
@@ -48514,7 +48514,7 @@ Nod2=4,3901,0
 Numbers1=0,N,-1,-1,E,2,32
 [END]
 
-;sufi=1030000006181
+;linzid=59975
 [POLYLINE]
 Type=0x6
 Label=MEMORIAL AVE
@@ -48530,7 +48530,7 @@ Numbers1=0,N,-1,-1,N,-1,-1
 Numbers2=1,E,6,4,N,-1,-1
 [END]
 
-;sufi=1030000006182
+;linzid=49567
 [POLYLINE]
 Type=0x6
 Label=HAROLD AVE
@@ -48548,7 +48548,7 @@ Numbers2=2,E,18,24,O,23,35
 Numbers3=3,E,26,26,O,37,37
 [END]
 
-;sufi=1030000005407
+;linzid=48934
 [POLYLINE]
 Type=0x6
 Label=QUARRY RD
@@ -48562,7 +48562,7 @@ Nod2=21,3903,0
 Numbers1=0,O,31,31,E,28,62
 [END]
 
-;sufi=1030000005425
+;linzid=48950
 [POLYLINE]
 Type=0x6
 Label=RESERVOIR RD
@@ -48576,7 +48576,7 @@ Nod2=9,1578,0
 Numbers1=0,O,63,1,E,52,2
 [END]
 
-;sufi=1030000006164
+;linzid=49552
 [POLYLINE]
 Type=0x6
 Label=CAREY RD
@@ -48592,7 +48592,7 @@ Numbers1=0,O,13,7,E,12,12
 Numbers2=2,O,5,1,N,-1,-1
 [END]
 
-;sufi=1030000006168
+;linzid=49555
 [POLYLINE]
 Type=0x6
 Label=LINDVART ST
@@ -48608,7 +48608,7 @@ Numbers1=0,O,1,1,E,2,8
 Numbers2=1,N,-1,-1,E,12,12
 [END]
 
-;sufi=1030000003032
+;linzid=48229
 [POLYLINE]
 Type=0x5
 Label=MANGAKAHIA RD
@@ -48633,7 +48633,7 @@ Numbers5=7,E,58,58,O,41,49
 Numbers6=8,E,68,70,O,51,79
 [END]
 
-;sufi=1030000003032
+;linzid=48229
 [POLYLINE]
 Type=0x5
 Label=MANGAKAHIA RD
@@ -48651,7 +48651,7 @@ Numbers2=2,E,7000,6992,O,6995,6987
 Numbers3=4,E,6970,6926,O,6975,6947
 [END]
 
-;sufi=1030000005447
+;linzid=48966
 [POLYLINE]
 Type=0x6
 Label=HILLCREST RD
@@ -48667,7 +48667,7 @@ Numbers1=0,E,48,22,O,39,25
 Numbers2=4,E,20,2,O,23,1
 [END]
 
-;sufi=1030000005447
+;linzid=48966
 [POLYLINE]
 Type=0x6
 Label=HILLCREST RD
@@ -48682,7 +48682,7 @@ Nod3=5,6053,0
 Numbers1=0,E,90,50,O,95,41
 [END]
 
-;sufi=1030000005735
+;linzid=49204
 [POLYLINE]
 Type=0x6
 Label=WINDSOR RD
@@ -48698,7 +48698,7 @@ Numbers1=0,O,35,17,E,38,12
 Numbers2=12,O,11,1,E,10,2
 [END]
 
-;sufi=1030000006172
+;linzid=49559
 [POLYLINE]
 Type=0x6
 Label=WILLIAMS AVE
@@ -48714,7 +48714,7 @@ Numbers1=0,E,2,20,O,1,21
 Numbers2=3,E,22,24,O,21,23
 [END]
 
-;sufi=1030000005852
+;linzid=49297
 [POLYLINE]
 Type=0x6
 Label=OMAPERE RD
@@ -48734,7 +48734,7 @@ Numbers3=4,E,18,4,O,19,5
 Numbers4=5,E,2,2,O,3,1
 [END]
 
-;sufi=1030000006130
+;linzid=49524
 [POLYLINE]
 Type=0x6
 Label=ORRS RD
@@ -48754,7 +48754,7 @@ Numbers3=4,E,28,8,O,23,5
 Numbers4=7,E,2,2,O,1,1
 [END]
 
-;sufi=1030000005447
+;linzid=48966
 [POLYLINE]
 Type=0x6
 Label=HILLCREST RD
@@ -48767,7 +48767,7 @@ Nod1=0,3908,0
 Nod2=6,1466,0
 [END]
 
-;sufi=1030000005852
+;linzid=49297
 [POLYLINE]
 Type=0xa
 Label=OMAPERE RD
@@ -48781,7 +48781,7 @@ Nod2=48,1473,0
 Numbers1=0,E,146,146,O,153,135
 [END]
 
-;sufi=1030000006030
+;linzid=49440
 [POLYLINE]
 Type=0xa
 Label=RANGIHAMAMA RD
@@ -48797,7 +48797,7 @@ Numbers1=0,E,168,92,O,207,91
 Numbers2=4,E,88,80,O,83,81
 [END]
 
-;sufi=1030000005864
+;linzid=89602
 [POLYLINE]
 Type=0xa
 Label=NGAPUHI RD
@@ -48811,7 +48811,7 @@ Nod2=14,1597,0
 Numbers1=0,O,271,271,E,260,12
 [END]
 
-;sufi=1030000206342
+;linzid=90267
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]12
@@ -48833,7 +48833,7 @@ Numbers4=14,O,4757,4847,E,4766,4874
 Label2=STATE HIGHWAY 12
 [END]
 
-;sufi=1030000203597
+;linzid=62328
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -48851,7 +48851,7 @@ Numbers2=18,E,1386,1344,O,1411,1411
 Label2=STATE HIGHWAY 1
 [END]
 
-;sufi=1030000203595
+;linzid=62326
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -48868,7 +48868,7 @@ Numbers2=2,E,120,148,O,123,127
 Label2=STATE HIGHWAY 1
 [END]
 
-;sufi=2030000005129
+;linzid=94223
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -48890,7 +48890,7 @@ Numbers4=17,E,6224,6190,O,6247,6247
 Label2=STATE HIGHWAY 1
 [END]
 
-;sufi=2030000005129
+;linzid=94223
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -48908,7 +48908,7 @@ Numbers2=37,E,6760,6760,O,6801,6681
 Label2=STATE HIGHWAY 1
 [END]
 
-;sufi=2030000005129
+;linzid=94223
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -48928,7 +48928,7 @@ Numbers2=32,N,-1,-1,N,-1,-1
 Label2=STATE HIGHWAY 1
 [END]
 
-;sufi=1030000203593
+;linzid=62324
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -48949,7 +48949,7 @@ Numbers4=27,E,576,576,N,-1,-1
 Label2=STATE HIGHWAY 1
 [END]
 
-;sufi=1030000203593
+;linzid=62324
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -48972,7 +48972,7 @@ Numbers4=37,E,1200,1184,O,1199,1191
 Label2=STATE HIGHWAY 1
 [END]
 
-;sufi=1030000203593
+;linzid=62324
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -48994,7 +48994,7 @@ Numbers3=28,E,1836,1836,N,-1,-1
 Label2=STATE HIGHWAY 1
 [END]
 
-;sufi=1030000203593
+;linzid=62324
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -49012,7 +49012,7 @@ Numbers1=0,E,3004,2748,O,3053,2637
 Label2=STATE HIGHWAY 1
 [END]
 
-;sufi=1030000203593
+;linzid=62324
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -49034,7 +49034,7 @@ Numbers4=33,E,3136,3136,O,3177,3147
 Label2=STATE HIGHWAY 1
 [END]
 
-;sufi=1030000203592
+;linzid=62323
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -49052,7 +49052,7 @@ Nod6=46,527,0
 Label2=STATE HIGHWAY 1
 [END]
 
-;sufi=1030000203592
+;linzid=62323
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -49072,7 +49072,7 @@ Numbers3=5,O,459,511,E,452,520
 Label2=STATE HIGHWAY 1
 [END]
 
-;sufi=1030000203592
+;linzid=62323
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -49092,7 +49092,7 @@ Nod8=12,334,0
 Label2=FAR NORTH RD
 [END]
 
-;sufi=1030000203592
+;linzid=62323
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -49107,7 +49107,7 @@ Nod3=5,304,0
 Label2=FAR NORTH RD
 [END]
 
-;sufi=1030000206328
+;linzid=62358
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]10
@@ -49126,7 +49126,7 @@ Numbers3=11,E,4706,4402,O,4691,4527
 Label2=STATE HIGHWAY 10
 [END]
 
-;sufi=1030000206328
+;linzid=62358
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]10
@@ -49144,7 +49144,7 @@ Numbers2=2,E,4266,4208,N,-1,-1
 Label2=STATE HIGHWAY 10
 [END]
 
-;sufi=1030000206328
+;linzid=62358
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]10
@@ -49162,7 +49162,7 @@ Nod6=19,1061,0
 Label2=STATE HIGHWAY 10
 [END]
 
-;sufi=1030000206328
+;linzid=62358
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]10
@@ -49187,7 +49187,7 @@ Numbers5=47,E,2038,2012,O,2087,2023
 Label2=STATE HIGHWAY 10
 [END]
 
-;sufi=1030000206328
+;linzid=62358
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]10
@@ -49207,7 +49207,7 @@ Numbers3=38,E,1412,1152,O,1267,1267
 Label2=STATE HIGHWAY 10
 [END]
 
-;sufi=1030000206328
+;linzid=62358
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]10
@@ -49230,7 +49230,7 @@ Numbers4=34,E,402,402,O,421,401
 Label2=STATE HIGHWAY 10
 [END]
 
-;sufi=1030000206331
+;linzid=62361
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]10
@@ -49252,7 +49252,7 @@ Numbers3=27,E,3744,3654,O,3835,3597
 Label2=STATE HIGHWAY 10
 [END]
 
-;sufi=1030000206331
+;linzid=62361
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]10
@@ -49271,7 +49271,7 @@ Numbers3=53,E,2640,2470,O,2591,2487
 Label2=STATE HIGHWAY 10
 [END]
 
-;sufi=1030000005736
+;linzid=49205
 [POLYLINE]
 Type=0x5
 Label=WIROA RD
@@ -49285,7 +49285,7 @@ Nod2=32,1687,0
 Numbers1=0,E,1046,760,O,1053,741
 [END]
 
-;sufi=1030000005387
+;linzid=48919
 [POLYLINE]
 Type=0xa
 Label=LODORE RD
@@ -49300,7 +49300,7 @@ Nod3=29,1687,0
 Numbers1=0,O,231,231,E,546,40
 [END]
 
-;sufi=1030000005736
+;linzid=49205
 [POLYLINE]
 Type=0x5
 Label=WIROA RD
@@ -49314,7 +49314,7 @@ Nod2=11,1730,0
 Numbers1=0,E,562,370,O,553,367
 [END]
 
-;sufi=1030000005546
+;linzid=49047
 [POLYLINE]
 Type=0xa
 Label=PUKETOTARA RD
@@ -49328,7 +49328,7 @@ Nod2=35,1692,0
 Numbers1=0,E,932,476,O,861,499
 [END]
 
-;sufi=1030000005546
+;linzid=49047
 [POLYLINE]
 Type=0x6
 Label=PUKETOTARA RD
@@ -49342,7 +49342,7 @@ Nod2=29,1777,0
 Numbers1=0,E,456,62,O,465,135
 [END]
 
-;sufi=1030000005699
+;linzid=49174
 [POLYLINE]
 Type=0x6
 Label=WEHIRUA RD
@@ -49355,7 +49355,7 @@ Nod1=0,1539,0
 Nod2=7,4570,0
 [END]
 
-;sufi=1030000005600
+;linzid=49093
 [POLYLINE]
 Type=0xa
 Label=WAIKUKU RD
@@ -49369,7 +49369,7 @@ Nod2=50,1680,0
 Numbers1=0,E,288,48,O,201,15
 [END]
 
-;sufi=1030000005630
+;linzid=49118
 [POLYLINE]
 Type=0xa
 Label=SHOWGROUND RD
@@ -49383,7 +49383,7 @@ Nod2=17,1693,0
 Numbers1=0,O,111,247,E,58,296
 [END]
 
-;sufi=1030000005849
+;linzid=49295
 [POLYLINE]
 Type=0x5
 Label=OLD BAY RD
@@ -49396,7 +49396,7 @@ Nod1=0,1733,0
 Nod2=25,1789,0
 [END]
 
-;sufi=1030000005587
+;linzid=49080
 [POLYLINE]
 Type=0xa
 Label=WAIKARAMU RD
@@ -49410,7 +49410,7 @@ Nod2=26,1733,0
 Numbers1=0,E,390,276,O,387,9
 [END]
 
-;sufi=1030000005825
+;linzid=49278
 [POLYLINE]
 Type=0xa
 Label=OKOKAKO RD
@@ -49424,7 +49424,7 @@ Nod2=41,3913,0
 Numbers1=0,O,21,223,E,160,274
 [END]
 
-;sufi=1030000005592
+;linzid=90306
 [POLYLINE]
 Type=0x6
 Label=WAIMATE NORTH RD
@@ -49440,7 +49440,7 @@ Numbers1=0,O,505,573,E,408,578
 Numbers2=13,O,617,933,E,862,966
 [END]
 
-;sufi=1030000005622
+;linzid=49110
 [POLYLINE]
 Type=0x6
 Label=HUPARA RD
@@ -49456,7 +49456,7 @@ Numbers1=0,O,25,213,E,140,152
 Numbers2=15,O,225,225,N,-1,-1
 [END]
 
-;sufi=1030000002587
+;linzid=48186
 [POLYLINE]
 Type=0xa
 Label=HAUTAPU RD
@@ -49470,7 +49470,7 @@ Nod2=40,1986,0
 Numbers1=0,O,55,583,E,112,574
 [END]
 
-;sufi=1030000005622
+;linzid=49110
 [POLYLINE]
 Type=0xa
 Label=HUPARA RD
@@ -49484,7 +49484,7 @@ Nod2=5,6040,0
 Numbers1=0,O,373,383,E,380,380
 [END]
 
-;sufi=1030000004639
+;linzid=48382
 [POLYLINE]
 Type=0xa
 Label=WHANGAE RD
@@ -49500,7 +49500,7 @@ Numbers1=0,O,29,29,E,2,60
 Numbers2=33,O,537,537,E,474,474
 [END]
 
-;sufi=1030000003125
+;linzid=48241
 [POLYLINE]
 Type=0xa
 Label=MCINTYRE RD
@@ -49514,7 +49514,7 @@ Nod2=43,2157,0
 Numbers1=0,O,565,565,E,568,774
 [END]
 
-;sufi=1030000004388
+;linzid=48354
 [POLYLINE]
 Type=0xa
 Label=TIPENE RD
@@ -49528,7 +49528,7 @@ Nod2=70,2134,0
 Numbers1=0,E,594,462,O,581,493
 [END]
 
-;sufi=1030000005449
+;linzid=48968
 [POLYLINE]
 Type=0xa
 Label=HORAHORA RD
@@ -49542,7 +49542,7 @@ Nod2=53,2266,0
 Numbers1=0,E,356,28,O,437,63
 [END]
 
-;sufi=1030000005885
+;linzid=59937
 [POLYLINE]
 Type=0xa
 Label=MARLOW RD
@@ -49556,7 +49556,7 @@ Nod2=163,3915,1
 Numbers1=0,E,1044,674,O,1063,71
 [END]
 
-;sufi=1030000005623
+;linzid=49111
 [POLYLINE]
 Type=0xa
 Label=INKSTER RD
@@ -49571,7 +49571,7 @@ Nod3=39,2317,0
 Numbers1=0,E,480,480,O,537,533
 [END]
 
-;sufi=1030000005741
+;linzid=49209
 [POLYLINE]
 Type=0x6
 Label=TOWAI RD
@@ -49588,7 +49588,7 @@ Numbers1=0,E,524,524,O,523,467
 Numbers2=14,E,414,402,O,407,397
 [END]
 
-;sufi=1030000005487
+;linzid=48997
 [POLYLINE]
 Type=0xa
 Label=HAY RD
@@ -49602,7 +49602,7 @@ Nod2=54,2459,0
 Numbers1=0,O,45,45,E,248,178
 [END]
 
-;sufi=1030000005500
+;linzid=49010
 [POLYLINE]
 Type=0xa
 Label=MONUMENT RD
@@ -49619,7 +49619,7 @@ Numbers1=0,O,45,173,N,-1,-1
 Numbers2=85,O,393,393,N,-1,-1
 [END]
 
-;sufi=1030000005649
+;linzid=49133
 [POLYLINE]
 Type=0xa
 Label=PAKARU RD
@@ -49635,7 +49635,7 @@ Numbers1=0,O,9,391,E,72,378
 Numbers2=21,O,391,1005,E,508,788
 [END]
 
-;sufi=1030000005654
+;linzid=49137
 [POLYLINE]
 Type=0xa
 Label=OWAE RD
@@ -49649,7 +49649,7 @@ Nod2=74,3919,0
 Numbers1=0,O,5,495,E,242,242
 [END]
 
-;sufi=1030000005435
+;linzid=48958
 [POLYLINE]
 Type=0x6
 Label=STATION RD
@@ -49663,7 +49663,7 @@ Nod2=4,2186,0
 Numbers1=0,N,-1,-1,E,18,2
 [END]
 
-;sufi=1030000005771
+;linzid=49233
 [POLYLINE]
 Type=0xa
 Label=MILL RD
@@ -49679,7 +49679,7 @@ Numbers1=0,E,294,56,O,235,235
 Numbers2=32,E,32,4,O,33,21
 [END]
 
-;sufi=1030000005639
+;linzid=49125
 [POLYLINE]
 Type=0x6
 Label=BOSWELL ST
@@ -49694,7 +49694,7 @@ Nod3=6,2184,0
 Numbers1=0,E,32,24,O,43,7
 [END]
 
-;sufi=1030000005800
+;linzid=49258
 [POLYLINE]
 Type=0x6
 Label=CHURCH ST
@@ -49712,7 +49712,7 @@ Numbers2=4,O,19,29,E,22,28
 Numbers3=5,O,31,37,E,30,46
 [END]
 
-;sufi=1030000005704
+;linzid=59911
 [POLYLINE]
 Type=0x6
 Label=ALBERT ST
@@ -49729,7 +49729,7 @@ Numbers1=0,O,3,17,E,4,14
 Numbers2=3,O,19,57,E,20,62
 [END]
 
-;sufi=1030000005645
+;linzid=59904
 [POLYLINE]
 Type=0xa
 Label=DOMAIN RD
@@ -49743,7 +49743,7 @@ Nod2=12,2185,0
 Numbers1=0,O,1,3,E,6,6
 [END]
 
-;sufi=1030000005781
+;linzid=49240
 [POLYLINE]
 Type=0x6
 Label=JOHNSTON RD
@@ -49758,7 +49758,7 @@ Nod3=8,2217,0
 Numbers1=0,O,1,47,E,4,44
 [END]
 
-;sufi=1030000005555
+;linzid=49055
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -49775,7 +49775,7 @@ Numbers2=2,O,9,15,N,-1,-1
 Label2=QUEEN ST
 [END]
 
-;sufi=1030000005505
+;linzid=59885
 [POLYLINE]
 Type=0x6
 Label=GREENACRES DR
@@ -49793,7 +49793,7 @@ Numbers2=10,E,30,16,O,11,11
 Numbers3=16,E,12,4,N,-1,-1
 [END]
 
-;sufi=1030000005446
+;linzid=48965
 [POLYLINE]
 Type=0x6
 Label=HOSPITAL RD
@@ -49811,7 +49811,7 @@ Nod5=11,2218,0
 Numbers1=0,O,21,21,E,24,24
 [END]
 
-;sufi=1030000005696
+;linzid=49172
 [POLYLINE]
 Type=0x6
 Label=WHITEMAN RD
@@ -49829,7 +49829,7 @@ Numbers2=2,E,36,34,O,21,19
 Numbers3=4,E,32,2,O,17,1
 [END]
 
-;sufi=1030000005634
+;linzid=49121
 [POLYLINE]
 Type=0x6
 Label=BRIDGE ST
@@ -49843,7 +49843,7 @@ Nod2=3,2201,0
 Nod3=4,4206,0
 [END]
 
-;sufi=1030000003506
+;linzid=59756
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]11
@@ -49863,7 +49863,7 @@ Numbers3=15,O,233,277,E,250,290
 Label2=PAIHIA RD
 [END]
 
-;sufi=1030000005419
+;linzid=91028
 [POLYLINE]
 Type=0x6
 Label=TOOTS DR
@@ -49877,7 +49877,7 @@ Nod2=10,3925,0
 Numbers1=0,O,3,29,N,-1,-1
 [END]
 
-;sufi=1030000005743
+;linzid=59917
 [POLYLINE]
 Type=0x6
 Label=TIROHANGA RD
@@ -49891,7 +49891,7 @@ Nod2=34,3926,0
 Numbers1=0,O,151,151,E,50,240
 [END]
 
-;sufi=1030000004520
+;linzid=48370
 [POLYLINE]
 Type=0x5
 Label=WAIKARE RD
@@ -49907,7 +49907,7 @@ Numbers1=0,O,21,43,E,16,56
 Numbers2=4,O,61,245,N,-1,-1
 [END]
 
-;sufi=1030000005557
+;linzid=49057
 [POLYLINE]
 Type=0xa
 Label=PICADILLY RD
@@ -49921,7 +49921,7 @@ Nod2=23,1628,0
 Numbers1=0,E,270,46,O,491,39
 [END]
 
-;sufi=1030000005510
+;linzid=49017
 [POLYLINE]
 Type=0xa
 Label=GAMMON RD
@@ -49935,7 +49935,7 @@ Nod2=132,1615,0
 Numbers1=0,E,348,348,O,451,313
 [END]
 
-;sufi=2030000000648
+;linzid=90263
 [POLYLINE]
 Type=0xa
 Label=MATARAUA RD
@@ -49952,7 +49952,7 @@ Numbers1=0,E,1866,1866,O,1819,1819
 Numbers2=80,E,1718,1496,O,1725,1315
 [END]
 
-;sufi=2030000000648
+;linzid=90263
 [POLYLINE]
 Type=0x5
 Label=MATARAUA RD
@@ -49970,7 +49970,7 @@ Numbers2=17,O,295,509,E,352,540
 Numbers3=33,O,621,771,E,710,820
 [END]
 
-;sufi=1030000005610
+;linzid=49101
 [POLYLINE]
 Type=0xa
 Label=TE IRENGA RD
@@ -49984,7 +49984,7 @@ Nod2=9,1465,0
 Numbers1=0,E,296,38,O,145,27
 [END]
 
-;sufi=1030000206342
+;linzid=90267
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]12
@@ -50007,7 +50007,7 @@ Numbers5=23,O,6061,6085,E,6060,6088
 Label2=STATE HIGHWAY 12
 [END]
 
-;sufi=1030000206342
+;linzid=90267
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]12
@@ -50029,7 +50029,7 @@ Numbers4=16,O,5469,5605,E,5524,5598
 Label2=STATE HIGHWAY 12
 [END]
 
-;sufi=1030000206342
+;linzid=90267
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]12
@@ -50046,7 +50046,7 @@ Numbers1=0,O,3449,3955,E,3510,3792
 Label2=STATE HIGHWAY 12
 [END]
 
-;sufi=1030000005942
+;linzid=49371
 [POLYLINE]
 Type=0xa
 Label=ROGER RD
@@ -50060,7 +50060,7 @@ Nod2=11,3930,0
 Numbers1=0,O,103,103,E,44,44
 [END]
 
-;sufi=1030000206342
+;linzid=90267
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]12
@@ -50081,7 +50081,7 @@ Numbers4=41,O,3331,3331,E,3328,3328
 Label2=STATE HIGHWAY 12
 [END]
 
-;sufi=1030000206342
+;linzid=90267
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]12
@@ -50106,7 +50106,7 @@ Numbers6=42,O,2665,2759,E,2660,2720
 Label2=STATE HIGHWAY 12
 [END]
 
-;sufi=2030000001131
+;linzid=92163
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]12
@@ -50124,7 +50124,7 @@ Nod6=59,1133,0
 Label2=STATE HIGHWAY 12
 [END]
 
-;sufi=2030000001131
+;linzid=92163
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]12
@@ -50144,7 +50144,7 @@ Nod8=71,963,0
 Label2=STATE HIGHWAY 12
 [END]
 
-;sufi=2030000001129
+;linzid=62364
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]12
@@ -50167,7 +50167,7 @@ Nod11=71,815,0
 Label2=STATE HIGHWAY 12
 [END]
 
-;sufi=2030000001129
+;linzid=62364
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]12
@@ -50183,7 +50183,7 @@ Nod4=44,636,0
 Label2=STATE HIGHWAY 12
 [END]
 
-;sufi=2030000001129
+;linzid=62364
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]12
@@ -50201,7 +50201,7 @@ Nod6=62,804,0
 Label2=STATE HIGHWAY 12
 [END]
 
-;sufi=2030000001131
+;linzid=92163
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]12
@@ -50224,7 +50224,7 @@ Numbers5=29,E,7046,7046,O,6973,6973
 Label2=STATE HIGHWAY 12
 [END]
 
-;sufi=1030000006004
+;linzid=49419
 [POLYLINE]
 Type=0xa
 Label=PINEHILL RD
@@ -50240,7 +50240,7 @@ Numbers1=0,O,81,81,E,92,92
 Numbers2=3,O,81,291,E,92,392
 [END]
 
-;sufi=1030000006011
+;linzid=49426
 [POLYLINE]
 Type=0xa
 Label=TAITA RD
@@ -50260,7 +50260,7 @@ Numbers2=21,O,201,225,E,224,224
 Numbers3=31,O,357,563,E,448,636
 [END]
 
-;sufi=1030000005909
+;linzid=49344
 [POLYLINE]
 Type=0xa
 Label=WEKAWEKA RD
@@ -50274,7 +50274,7 @@ Nod2=68,1083,0
 Numbers1=0,O,11,561,E,228,568
 [END]
 
-;sufi=1030000006025
+;linzid=49436
 [POLYLINE]
 Type=0xa
 Label=MOUNTAIN RD
@@ -50292,7 +50292,7 @@ Nod6=230,794,0
 Numbers1=0,O,33,33,E,140,140
 [END]
 
-;sufi=1030000006056
+;linzid=49463
 [POLYLINE]
 Type=0xa
 Label=KOUTU LOOP RD
@@ -50313,7 +50313,7 @@ Numbers3=30,O,601,639,E,600,622
 Numbers4=34,O,639,809,E,706,722
 [END]
 
-;sufi=1030000006056
+;linzid=49463
 [POLYLINE]
 Type=0xa
 Label=KOUTU LOOP RD
@@ -50329,7 +50329,7 @@ Numbers1=0,E,308,244,O,233,233
 Numbers2=10,E,184,40,O,111,111
 [END]
 
-;sufi=1030000006396
+;linzid=49747
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -50344,7 +50344,7 @@ Nod3=11,6,0
 Label2=CAPE REINGA RD
 [END]
 
-;sufi=1030000005725
+;linzid=49195
 ;
 [POLYLINE]
 Type=0x5
@@ -50361,7 +50361,7 @@ Numbers1=0,E,48,48,O,27,27
 Numbers2=1,E,48,56,O,27,35
 [END]
 
-;sufi=1030000006642
+;linzid=49952
 [POLYLINE]
 Type=0x6
 Label=MAKO ST
@@ -50374,7 +50374,7 @@ Nod1=0,1345,0
 Nod2=13,1350,0
 [END]
 
-;sufi=1030000006642
+;linzid=49952
 [POLYLINE]
 Type=0x6
 Label=MAKO ST
@@ -50388,7 +50388,7 @@ Nod2=1,1351,0
 Numbers1=0,E,34,38,O,57,57
 [END]
 
-;sufi=1030000006624
+;linzid=49937
 [POLYLINE]
 Type=0x6
 Label=TUNA PL
@@ -50402,7 +50402,7 @@ Nod2=3,3952,0
 Numbers1=0,E,2,14,O,1,19
 [END]
 
-;sufi=1030000006644
+;linzid=88319
 [POLYLINE]
 Type=0x6
 Label=MARLIN DR
@@ -50418,7 +50418,7 @@ Numbers1=0,E,24,40,O,33,49
 Numbers2=2,E,42,60,O,51,63
 [END]
 
-;sufi=1030000006644
+;linzid=88319
 [POLYLINE]
 Type=0x6
 Label=MARLIN DR
@@ -50432,7 +50432,7 @@ Nod2=4,1345,0
 Numbers1=0,E,2,22,O,1,31
 [END]
 
-;sufi=2030000004617
+;linzid=94008
 [POLYLINE]
 Type=0x6
 Label=HANNAH PL
@@ -50446,7 +50446,7 @@ Nod2=1,1874,0
 Numbers1=0,B,45,44,B,43,42
 [END]
 
-;sufi=1030000189571
+;linzid=96835
 [POLYLINE]
 Type=0xa
 Label=SPICER RD
@@ -50460,7 +50460,7 @@ Nod2=5,897,0
 Numbers1=0,E,68,68,O,77,5
 [END]
 
-;sufi=1030000006559
+;linzid=49881
 [POLYLINE]
 Type=0x6
 Label=BAY VIEW RD
@@ -50475,7 +50475,7 @@ Nod3=4,903,0
 Numbers1=0,O,1,19,E,2,68
 [END]
 
-;sufi=1030000000528
+;linzid=47850
 [POLYLINE]
 Type=0x6
 Label=HAEKARO LANE
@@ -50489,7 +50489,7 @@ Nod2=4,932,0
 Numbers1=0,N,-1,-1,E,14,2
 [END]
 
-;sufi=1030000001379
+;linzid=48046
 [POLYLINE]
 Type=0x6
 Label=ST JOHNS RD
@@ -50503,7 +50503,7 @@ Nod2=1,964,0
 Numbers1=0,E,2,4,O,1,5
 [END]
 
-;sufi=1030000001379
+;linzid=48046
 [POLYLINE]
 Type=0x6
 Label=ST JOHNS RD
@@ -50517,7 +50517,7 @@ Nod2=1,967,0
 Numbers1=0,E,6,6,O,7,7
 [END]
 
-;sufi=1030000199898
+;linzid=62168
 [POLYLINE]
 Type=0x6
 Label=POHUTUKAWA DR
@@ -50531,7 +50531,7 @@ Nod2=5,3959,0
 Numbers1=0,E,2,26,O,1,21
 [END]
 
-;sufi=1030000199929
+;linzid=62170
 [POLYLINE]
 Type=0x6
 Label=EAGLES WAY
@@ -50545,7 +50545,7 @@ Nod2=4,904,0
 Numbers1=0,E,28,20,O,27,21
 [END]
 
-;sufi=1030000199929
+;linzid=62170
 [POLYLINE]
 Type=0x6
 Label=EAGLES WAY
@@ -50558,7 +50558,7 @@ Nod1=0,904,0
 Nod2=1,905,0
 [END]
 
-;sufi=1030000199929
+;linzid=62170
 [POLYLINE]
 Type=0x6
 Label=EAGLES WAY
@@ -50571,7 +50571,7 @@ Nod1=0,905,0
 Nod2=4,907,0
 [END]
 
-;sufi=1030000210028
+;linzid=62506
 [POLYLINE]
 Type=0x6
 Label=TORSBY RD
@@ -50585,7 +50585,7 @@ Nod2=2,965,0
 Numbers1=0,O,21,15,E,16,12
 [END]
 
-;sufi=1030000210028
+;linzid=62506
 [POLYLINE]
 Type=0x6
 Label=TORSBY RD
@@ -50599,7 +50599,7 @@ Nod2=3,953,0
 Numbers1=0,O,35,23,E,26,22
 [END]
 
-;sufi=1030000210028
+;linzid=62506
 [POLYLINE]
 Type=0x6
 Label=TORSBY RD
@@ -50612,7 +50612,7 @@ Nod1=0,3961,0
 Nod2=1,954,0
 [END]
 
-;sufi=1030000210028
+;linzid=62506
 [POLYLINE]
 Type=0x6
 Label=TORSBY RD
@@ -50625,7 +50625,7 @@ Nod1=0,954,0
 Nod2=1,955,0
 [END]
 
-;sufi=1030000210028
+;linzid=62506
 [POLYLINE]
 Type=0x6
 Label=TORSBY RD
@@ -50639,7 +50639,7 @@ Nod2=3,966,0
 Numbers1=0,O,11,3,E,10,2
 [END]
 
-;sufi=1030000210028
+;linzid=62506
 [POLYLINE]
 Type=0x6
 Label=TORSBY RD
@@ -50653,7 +50653,7 @@ Nod2=2,967,0
 Numbers1=0,O,3,1,N,-1,-1
 [END]
 
-;sufi=1030000210586
+;linzid=93840
 [POLYLINE]
 Type=0x6
 Label=HIBISCUS AVE
@@ -50667,7 +50667,7 @@ Nod2=7,927,0
 Numbers1=0,E,2,12,O,1,9
 [END]
 
-;sufi=1030000210586
+;linzid=93840
 [POLYLINE]
 Type=0x6
 Label=HIBISCUS AVE
@@ -50681,7 +50681,7 @@ Nod2=2,928,0
 Numbers1=0,E,14,14,N,-1,-1
 [END]
 
-;sufi=1030000210586
+;linzid=93840
 [POLYLINE]
 Type=0x6
 Label=HIBISCUS AVE
@@ -50695,7 +50695,7 @@ Nod2=2,929,0
 Numbers1=0,E,16,16,O,17,17
 [END]
 
-;sufi=1030000210586
+;linzid=93840
 [POLYLINE]
 Type=0x6
 Label=HIBISCUS AVE
@@ -50709,7 +50709,7 @@ Nod2=2,930,0
 Numbers1=0,E,18,20,O,19,21
 [END]
 
-;sufi=1030000210586
+;linzid=93840
 [POLYLINE]
 Type=0x6
 Label=HIBISCUS AVE
@@ -50722,7 +50722,7 @@ Nod1=0,930,0
 Nod2=1,3962,0
 [END]
 
-;sufi=1030000211188
+;linzid=93841
 [POLYLINE]
 Type=0x6
 Label=PROTEA DR
@@ -50736,7 +50736,7 @@ Nod2=3,3963,0
 Numbers1=0,N,-1,-1,E,4,4
 [END]
 
-;sufi=1030000211190
+;linzid=93844
 [POLYLINE]
 Type=0x6
 Label=MAGNOLIA DR
@@ -50750,7 +50750,7 @@ Nod2=1,3964,0
 Numbers1=0,O,1,11,E,2,10
 [END]
 
-;sufi=1030000211184
+;linzid=86334
 [POLYLINE]
 Type=0x6
 Label=ODEN HILL
@@ -50764,7 +50764,7 @@ Nod2=3,965,0
 Numbers1=0,E,12,4,O,11,3
 [END]
 
-;sufi=1030000211186
+;linzid=93842
 [POLYLINE]
 Type=0x6
 Label=BANKSIA RD
@@ -50778,7 +50778,7 @@ Nod2=3,3966,0
 Numbers1=0,O,1,11,E,4,12
 [END]
 
-;sufi=1030000211239
+;linzid=88321
 [POLYLINE]
 Type=0x6
 Label=FRANGIPANI ST
@@ -50792,7 +50792,7 @@ Nod2=1,3967,0
 Numbers1=0,O,1,13,E,2,12
 [END]
 
-;sufi=1030000214276
+;linzid=91078
 [POLYLINE]
 Type=0x6
 Label=LORI LANE
@@ -50806,7 +50806,7 @@ Nod2=7,3968,0
 Numbers1=0,E,12,2,O,17,3
 [END]
 
-;sufi=1030000214276
+;linzid=91078
 [POLYLINE]
 Type=0x6
 Label=LORI LANE
@@ -50820,7 +50820,7 @@ Nod2=2,973,0
 Numbers1=0,E,22,14,O,31,23
 [END]
 
-;sufi=1030000214274
+;linzid=91077
 [POLYLINE]
 Type=0x6
 Label=CHRISTINE DR
@@ -50834,7 +50834,7 @@ Nod2=9,973,0
 Numbers1=0,O,3,21,E,2,14
 [END]
 
-;sufi=2030000003433
+;linzid=93458
 [POLYLINE]
 Type=0x6
 Label=FREYJA CRES
@@ -50847,7 +50847,7 @@ Nod1=0,955,0
 Nod2=2,3970,0
 [END]
 
-;sufi=2030000003431
+;linzid=93459
 [POLYLINE]
 Type=0x6
 Label=LOKE CRES
@@ -50860,7 +50860,7 @@ Nod1=0,3971,0
 Nod2=1,954,0
 [END]
 
-;sufi=2030000003457
+;linzid=93462
 [POLYLINE]
 Type=0x6
 Label=MIDGARD RD
@@ -50873,7 +50873,7 @@ Nod1=0,3972,0
 Nod2=10,966,0
 [END]
 
-;sufi=2030000004423
+;linzid=93904
 [POLYLINE]
 Type=0x6
 Label=SUNSET HTS
@@ -50887,7 +50887,7 @@ Nod2=3,905,0
 Numbers1=0,E,8,2,O,9,1
 [END]
 
-;sufi=1030000006438
+;linzid=49783
 [POLYLINE]
 Type=0x6
 Label=BERGHAN RD
@@ -50901,7 +50901,7 @@ Nod2=2,969,0
 Numbers1=0,O,9,1,E,2,2
 [END]
 
-;sufi=1030000006438
+;linzid=49783
 [POLYLINE]
 Type=0x6
 Label=BERGHAN RD
@@ -50915,7 +50915,7 @@ Nod2=2,3977,0
 Numbers1=0,E,2,28,O,15,41
 [END]
 
-;sufi=1030000005545
+;linzid=59891
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]11
@@ -50932,7 +50932,7 @@ Nod5=26,6106,0
 Label2=PUKETONA RD
 [END]
 
-;sufi=1030000005787
+;linzid=49245
 [POLYLINE]
 Type=0x5
 Label=FRANKLIN ST
@@ -50951,7 +50951,7 @@ Numbers2=5,O,17,3,E,18,2
 Numbers3=8,O,1,1,N,-1,-1
 [END]
 
-;sufi=2030000000678
+;linzid=90315
 [POLYLINE]
 Type=0x5
 Label=RUSSELL WHAKAPARA RD
@@ -50971,7 +50971,7 @@ Numbers2=14,E,5992,5960,O,6043,6003
 Numbers3=29,E,5916,5914,N,-1,-1
 [END]
 
-;sufi=2030000000678
+;linzid=90315
 [POLYLINE]
 Type=0x5
 Label=RUSSELL WHAKAPARA RD
@@ -50987,7 +50987,7 @@ Numbers1=0,E,5798,5798,O,5855,5855
 Numbers2=14,E,5798,5358,O,5553,5387
 [END]
 
-;sufi=2030000000678
+;linzid=90315
 [POLYLINE]
 Type=0x5
 Label=RUSSELL WHAKAPARA RD
@@ -51004,7 +51004,7 @@ Numbers1=0,E,5202,5120,N,-1,-1
 Numbers2=23,E,5074,5074,N,-1,-1
 [END]
 
-;sufi=2030000000678
+;linzid=90315
 [POLYLINE]
 Type=0x5
 Label=RUSSELL WHAKAPARA RD
@@ -51018,7 +51018,7 @@ Nod2=15,2542,0
 Numbers1=0,E,4980,4980,O,4975,4975
 [END]
 
-;sufi=1030000005857
+;linzid=91009
 [POLYLINE]
 Type=0xa
 Label=RUSSELL RD
@@ -51033,7 +51033,7 @@ Nod3=82,2585,0
 Numbers1=0,N,-1,-1,N,-1,-1
 [END]
 
-;sufi=1030000005857
+;linzid=91009
 [POLYLINE]
 Type=0x5
 Label=RUSSELL RD
@@ -51053,7 +51053,7 @@ Numbers2=22,O,2513,2655,E,2524,2590
 Numbers3=74,O,2809,3141,E,2806,3118
 [END]
 
-;sufi=1030000005857
+;linzid=91009
 [POLYLINE]
 Type=0x5
 Label=RUSSELL RD
@@ -51073,7 +51073,7 @@ Numbers3=135,O,1883,1893,E,2124,2124
 Numbers4=209,O,2307,2357,E,2280,2346
 [END]
 
-;sufi=1030000005857
+;linzid=91009
 [POLYLINE]
 Type=0x5
 Label=RUSSELL RD
@@ -51089,7 +51089,7 @@ Numbers1=0,O,1059,1059,E,954,954
 Numbers2=5,O,1059,1255,E,954,1028
 [END]
 
-;sufi=1030000005857
+;linzid=91009
 [POLYLINE]
 Type=0x5
 Label=RUSSELL RD
@@ -51109,7 +51109,7 @@ Numbers3=106,E,280,280,O,279,261
 Numbers4=113,E,80,6,N,-1,-1
 [END]
 
-;sufi=1030000016731
+;linzid=60985
 [POLYLINE]
 Type=0x3
 Label=MARUA RD
@@ -51128,7 +51128,7 @@ Numbers2=12,O,885,885,E,910,946
 Numbers3=21,O,991,993,E,946,1050
 [END]
 
-;sufi=1030000016748
+;linzid=56077
 [POLYLINE]
 Type=0x3
 Label=MATAPOURI RD
@@ -51143,7 +51143,7 @@ Nod3=10,3985,1
 Numbers1=0,E,2440,2440,N,-1,-1
 [END]
 
-;sufi=1030000016134
+;linzid=61050
 [POLYLINE]
 Type=0xa
 Label=WHANANAKI SOUTH RD
@@ -51159,7 +51159,7 @@ Numbers1=0,O,69,115,E,46,88
 Numbers2=21,O,139,423,E,570,698
 [END]
 
-;sufi=1030000016134
+;linzid=61050
 [POLYLINE]
 Type=0xa
 Label=WHANANAKI SOUTH RD
@@ -51174,7 +51174,7 @@ Nod3=51,2693,0
 Numbers1=0,O,805,825,E,922,922
 [END]
 
-;sufi=1030000016748
+;linzid=56077
 [POLYLINE]
 Type=0x3
 Label=MATAPOURI RD
@@ -51200,7 +51200,7 @@ Numbers5=8,E,932,928,O,929,925
 Numbers6=12,E,884,868,O,895,847
 [END]
 
-;sufi=1030000016748
+;linzid=56077
 [POLYLINE]
 Type=0x3
 Label=MATAPOURI RD
@@ -51218,7 +51218,7 @@ Numbers2=58,E,1340,1250,O,1335,1305
 Numbers3=83,E,1236,1070,O,1173,1079
 [END]
 
-;sufi=1030000003032
+;linzid=48229
 [POLYLINE]
 Type=0x5
 Label=MANGAKAHIA RD
@@ -51240,7 +51240,7 @@ Numbers4=90,O,6205,6359,E,6200,6336
 Numbers5=100,O,6403,6403,E,6406,6406
 [END]
 
-;sufi=1030000003032
+;linzid=48229
 [POLYLINE]
 Type=0x5
 Label=MANGAKAHIA RD
@@ -51259,7 +51259,7 @@ Numbers2=8,E,6730,6678,O,6727,6677
 Numbers3=12,E,6658,6584,O,6675,6517
 [END]
 
-;sufi=2030000001129
+;linzid=62364
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]12
@@ -51294,7 +51294,7 @@ Numbers9=41,E,16,16,O,43,1
 Label2=STATE HIGHWAY 12
 [END]
 
-;sufi=1030000005973
+;linzid=49397
 [POLYLINE]
 Type=0x5
 Label=RAWENE RD
@@ -51315,7 +51315,7 @@ Nod9=17,921,0
 Numbers1=0,O,437,437,N,-1,-1
 [END]
 
-;sufi=1030000006062
+;linzid=49468
 [POLYLINE]
 Type=0xa
 Label=HOREKE RD
@@ -51329,7 +51329,7 @@ Nod2=31,4641,0
 Numbers1=0,O,2827,3201,E,3056,3056
 [END]
 
-;sufi=1030000006062
+;linzid=49468
 [POLYLINE]
 Type=0xa
 Label=HOREKE RD
@@ -51345,7 +51345,7 @@ Numbers1=0,O,2433,2433,E,2230,2370
 Numbers2=28,O,2825,2825,E,2482,2894
 [END]
 
-;sufi=1030000006062
+;linzid=49468
 [POLYLINE]
 Type=0x6
 Label=HOREKE RD
@@ -51365,7 +51365,7 @@ Numbers3=28,E,1826,1826,N,-1,-1
 Numbers4=34,E,1794,1794,N,-1,-1
 [END]
 
-;sufi=1030000006062
+;linzid=49468
 [POLYLINE]
 Type=0xa
 Label=HOREKE RD
@@ -51381,7 +51381,7 @@ Numbers1=0,E,1552,1542,O,1555,1433
 Numbers2=11,E,1400,1400,O,1367,1197
 [END]
 
-;sufi=1030000006062
+;linzid=49468
 [POLYLINE]
 Type=0xa
 Label=HOREKE RD
@@ -51396,7 +51396,7 @@ Nod3=69,1352,0
 Numbers1=0,E,1174,1056,O,1115,1029
 [END]
 
-;sufi=1030000006062
+;linzid=49468
 [POLYLINE]
 Type=0x5
 Label=HOREKE RD
@@ -51410,7 +51410,7 @@ Nod2=15,1411,0
 Numbers1=0,E,552,146,O,567,145
 [END]
 
-;sufi=1030000005662
+;linzid=49144
 [POLYLINE]
 Type=0x5
 Label=SETTLERS WAY
@@ -51430,7 +51430,7 @@ Numbers2=1,O,95,11,E,94,12
 Numbers3=4,O,9,1,E,10,6
 [END]
 
-;sufi=1030000006010
+;linzid=49425
 [POLYLINE]
 Type=0xa
 Label=WAIARE RD
@@ -51447,7 +51447,7 @@ Nod5=136,1501,0
 Numbers1=0,E,2544,1354,O,2539,2269
 [END]
 
-;sufi=1030000006010
+;linzid=49425
 [POLYLINE]
 Type=0xa
 Label=WAIARE RD
@@ -51461,7 +51461,7 @@ Nod2=46,1606,0
 Numbers1=0,O,2615,2635,E,2614,2708
 [END]
 
-;sufi=1030000006010
+;linzid=49425
 [POLYLINE]
 Type=0x5
 Label=WAIARE RD
@@ -51477,7 +51477,7 @@ Numbers1=0,E,3418,3418,O,3341,3341
 Numbers2=9,E,3254,2988,O,3341,3173
 [END]
 
-;sufi=1030000006684
+;linzid=60043
 [POLYLINE]
 Type=0x5
 Label=WHANGAROA RD
@@ -51493,7 +51493,7 @@ Numbers1=0,E,412,40,O,377,377
 Numbers2=28,E,10,10,N,-1,-1
 [END]
 
-;sufi=1030000006684
+;linzid=60043
 [POLYLINE]
 Type=0x5
 Label=WHANGAROA RD
@@ -51508,7 +51508,7 @@ Nod3=30,1399,0
 Numbers1=12,E,456,424,N,-1,-1
 [END]
 
-;sufi=1030000006453
+;linzid=88203
 [POLYLINE]
 Type=0x5
 Label=HIHI RD
@@ -51527,7 +51527,7 @@ Numbers2=26,E,258,28,O,189,155
 Numbers3=53,E,26,2,N,-1,-1
 [END]
 
-;sufi=1030000206328
+;linzid=62358
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]10
@@ -51548,7 +51548,7 @@ Numbers3=22,E,2958,2884,O,2791,2767
 Label2=STATE HIGHWAY 10
 [END]
 
-;sufi=1030000006338
+;linzid=49699
 [POLYLINE]
 Type=0x5
 Label=INLAND RD
@@ -51569,7 +51569,7 @@ Numbers2=2,O,103,601,E,84,658
 Numbers3=25,O,815,971,E,1032,1032
 [END]
 
-;sufi=1030000006518
+;linzid=49850
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -51599,7 +51599,7 @@ Numbers8=22,E,852,852,N,-1,-1
 Label2=FAR NORTH RD
 [END]
 
-;sufi=1030000005539
+;linzid=49042
 [POLYLINE]
 Type=0x5
 Label=PUKEPOTO RD
@@ -51621,7 +51621,7 @@ Numbers4=8,E,70,98,O,69,99
 Numbers5=11,E,100,100,O,101,131
 [END]
 
-;sufi=1030000006202
+;linzid=49585
 [POLYLINE]
 Type=0x5
 Label=REDAN RD
@@ -51645,7 +51645,7 @@ Numbers4=5,O,29,29,E,40,34
 Numbers5=8,O,27,13,E,28,2
 [END]
 
-;sufi=1030000005539
+;linzid=49042
 [POLYLINE]
 Type=0x5
 Label=PUKEPOTO RD
@@ -51660,7 +51660,7 @@ Nod3=5,306,0
 Numbers1=0,O,231,149,E,244,144
 [END]
 
-;sufi=1030000006570
+;linzid=49892
 [POLYLINE]
 Type=0x5
 Label=KAITAIA-AWAROA RD
@@ -51678,7 +51678,7 @@ Numbers2=5,E,1098,1098,O,1073,1057
 Numbers3=7,E,1024,818,O,1015,775
 [END]
 
-;sufi=2030000001354
+;linzid=92628
 [POLYLINE]
 Type=0x5
 Label=AHIPARA RD
@@ -51692,7 +51692,7 @@ Nod2=11,156,0
 Numbers1=0,E,88,88,O,175,3
 [END]
 
-;sufi=2030000001354
+;linzid=92628
 [POLYLINE]
 Type=0x5
 Label=AHIPARA RD
@@ -51706,7 +51706,7 @@ Nod2=3,129,0
 Numbers1=0,E,252,222,O,231,231
 [END]
 
-;sufi=1030000006570
+;linzid=49892
 [POLYLINE]
 Type=0x5
 Label=KAITAIA-AWAROA RD
@@ -51726,7 +51726,7 @@ Numbers2=112,E,1320,1304,O,1319,1237
 Numbers3=120,E,1202,1186,O,1207,1173
 [END]
 
-;sufi=1030000006570
+;linzid=49892
 [POLYLINE]
 Type=0x5
 Label=KAITAIA-AWAROA RD
@@ -51744,7 +51744,7 @@ Numbers2=9,E,2430,2418,O,2487,2487
 Numbers3=19,E,2272,2260,O,2353,2207
 [END]
 
-;sufi=1030000006570
+;linzid=49892
 [POLYLINE]
 Type=0x5
 Label=KAITAIA-AWAROA RD
@@ -51761,7 +51761,7 @@ Numbers1=0,O,2555,2751,E,2606,2752
 Numbers2=30,O,2951,3271,E,2866,3304
 [END]
 
-;sufi=1030000005961
+;linzid=49385
 [POLYLINE]
 Type=0x5
 Label=AWAROA RD
@@ -51781,7 +51781,7 @@ Numbers3=31,O,421,421,E,360,494
 Numbers4=57,O,611,613,E,648,834
 [END]
 
-;sufi=1030000006114
+;linzid=49511
 [POLYLINE]
 Type=0x5
 Label=BROADWOOD RD
@@ -51805,7 +51805,7 @@ Numbers5=37,E,1062,1040,O,1041,1009
 Numbers6=43,E,922,922,O,969,881
 [END]
 
-;sufi=1030000006114
+;linzid=49511
 [POLYLINE]
 Type=0x5
 Label=BROADWOOD RD
@@ -51823,7 +51823,7 @@ Numbers1=0,E,466,466,O,795,373
 Numbers2=57,E,466,154,O,373,189
 [END]
 
-;sufi=1030000005971
+;linzid=49395
 [POLYLINE]
 Type=0x5
 Label=MANGAMUKA RD
@@ -51841,7 +51841,7 @@ Numbers2=57,E,606,372,O,371,329
 Numbers3=117,E,90,6,O,37,37
 [END]
 
-;sufi=1030000006057
+;linzid=59959
 [POLYLINE]
 Type=0x5
 Label=KOHUKOHU RD
@@ -51858,7 +51858,7 @@ Numbers1=0,O,185,461,E,154,416
 Numbers2=68,O,605,637,E,754,948
 [END]
 
-;sufi=1030000006057
+;linzid=59959
 [POLYLINE]
 Type=0x5
 Label=KOHUKOHU RD
@@ -51876,7 +51876,7 @@ Numbers2=20,O,1191,1197,N,-1,-1
 Numbers3=27,O,1369,1377,E,1288,1376
 [END]
 
-;sufi=1030000006057
+;linzid=59959
 [POLYLINE]
 Type=0x5
 Label=KOHUKOHU RD
@@ -51897,7 +51897,7 @@ Numbers3=12,E,1420,1420,N,-1,-1
 Numbers4=17,E,1392,1392,O,1389,1387
 [END]
 
-;sufi=1030000006051
+;linzid=49459
 [POLYLINE]
 Type=0x5
 Label=WEST COAST RD
@@ -51916,7 +51916,7 @@ Numbers2=20,E,544,330,O,585,331
 Numbers3=46,E,330,328,N,-1,-1
 [END]
 
-;sufi=1030000006051
+;linzid=49459
 [POLYLINE]
 Type=0x5
 Label=WEST COAST RD
@@ -51932,7 +51932,7 @@ Numbers1=0,E,1190,1190,O,1303,1303
 Numbers2=9,E,720,720,O,1059,745
 [END]
 
-;sufi=1030000005608
+;linzid=49099
 [POLYLINE]
 Type=0x3
 Label=TE AHU AHU RD
@@ -53266,7 +53266,7 @@ Data0=(-35.54850,174.72398),(-35.54850,174.72334),(-35.54884,174.72323),(-35.549
 Data0=(-35.55090,174.72441),(-35.55115,174.72415),(-35.55124,174.72424),(-35.55115,174.72450)
 [END]
 
-;sufi=1030000005849
+;linzid=49295
 [POLYLINE]
 Type=0x5
 Label=OLD BAY RD
@@ -53280,7 +53280,7 @@ Nod2=7,1801,0
 Numbers1=0,O,389,407,E,356,404
 [END]
 
-;sufi=1030000005626
+;linzid=49114
 [POLYLINE]
 Type=0x6
 Label=SKUDDERS BEACH RD
@@ -53303,7 +53303,7 @@ Numbers4=47,E,84,16,O,79,15
 Numbers5=54,E,10,4,O,3,3
 [END]
 
-;sufi=1030000005726
+;linzid=49196
 [POLYLINE]
 Type=0x5
 Label=KERIKERI INLET RD
@@ -53321,7 +53321,7 @@ Numbers2=2,E,108,88,O,101,85
 Numbers3=4,E,74,20,O,83,7
 [END]
 
-;sufi=1030000016385
+;linzid=55808
 [POLYLINE]
 Type=0xa
 Label=RIPONUI RD
@@ -53335,7 +53335,7 @@ Nod2=23,2484,0
 Numbers1=0,O,1059,1085,E,1042,1232
 [END]
 
-;sufi=1030000016385
+;linzid=55808
 [POLYLINE]
 Type=0xa
 Label=RIPONUI RD
@@ -53349,7 +53349,7 @@ Nod2=29,3991,1
 Numbers1=0,O,1265,1265,E,1282,1282
 [END]
 
-;sufi=1030000006384
+;linzid=49737
 [POLYLINE]
 Type=0x6
 Label=CABLE BAY BLOCK RD
@@ -53371,7 +53371,7 @@ Numbers3=5,E,28,34,O,37,69
 Numbers4=8,E,36,38,O,89,105
 [END]
 
-;sufi=2030000003742
+;linzid=93606
 [POLYLINE]
 Type=0xa
 Label=PEKAMA DR
@@ -53385,7 +53385,7 @@ Nod2=11,3993,0
 Numbers1=0,O,1,41,E,2,40
 [END]
 
-;sufi=1030000006518
+;linzid=49850
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -53400,7 +53400,7 @@ Numbers1=0,E,8092,7006,O,8045,7073
 Label2=FAR NORTH RD
 [END]
 
-;sufi=1030000006518
+;linzid=49850
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -53421,7 +53421,7 @@ EndLevel=2
 Data0=(-35.25152,173.91049),(-35.26236,173.91403),(-35.26225,173.91444),(-35.25146,173.91084)
 [END]
 
-;sufi=1030000005727
+;linzid=49197
 [POLYLINE]
 Type=0x5
 Label=KAPIRO RD
@@ -53450,7 +53450,7 @@ Numbers6=16,O,353,415,E,344,410
 Numbers7=19,O,449,449,E,436,436
 [END]
 
-;sufi=1030000005677
+;linzid=49155
 [POLYLINE]
 Type=0x5
 Label=LANDING RD
@@ -53469,7 +53469,7 @@ Numbers2=1,E,168,208,O,111,117
 Numbers3=7,E,210,212,N,-1,-1
 [END]
 
-;sufi=1030000005599
+;linzid=49092
 [POLYLINE]
 Type=0x5
 Label=WAIPAPA RD
@@ -53493,7 +53493,7 @@ Numbers4=20,E,198,166,O,185,153
 Numbers5=24,E,140,108,O,125,113
 [END]
 
-;sufi=1030000005725
+;linzid=49195
 ;
 [POLYLINE]
 Type=0x5
@@ -53508,7 +53508,7 @@ Nod2=2,4237,0
 Numbers1=0,E,140,150,O,131,141
 [END]
 
-;sufi=1030000006311
+;linzid=49676
 [POLYLINE]
 Type=0x6
 Label=CLOUGH RD
@@ -53522,7 +53522,7 @@ Nod2=10,6058,0
 Numbers1=0,E,328,312,O,201,197
 [END]
 
-;sufi=1030000006247
+;linzid=49622
 [POLYLINE]
 Type=0x6
 Label=CHURCH RD
@@ -53536,7 +53536,7 @@ Nod2=1,478,0
 Numbers1=0,E,552,534,O,571,551
 [END]
 
-;sufi=1030000006151
+;linzid=49542
 [POLYLINE]
 Type=0x6
 Label=OKAHU RD
@@ -53549,7 +53549,7 @@ Nod1=0,6061,0
 Nod2=10,402,0
 [END]
 
-;sufi=1030000006529
+;linzid=49857
 [POLYLINE]
 Type=0x6
 Label=QUARRY RD
@@ -53564,7 +53564,7 @@ Nod3=28,448,0
 Numbers1=0,O,59,247,E,38,274
 [END]
 
-;sufi=1030000006515
+;linzid=49848
 [POLYLINE]
 Type=0xa
 Label=GILL RD
@@ -53578,7 +53578,7 @@ Nod2=68,229,0
 Numbers1=0,E,866,432,O,403,307
 [END]
 
-;sufi=1030000006278
+;linzid=49648
 [POLYLINE]
 Type=0xa
 Label=PUCKEY RD
@@ -53592,7 +53592,7 @@ Nod2=3,3740,0
 Numbers1=0,O,53,81,E,66,66
 [END]
 
-;sufi=1030000006297
+;linzid=49663
 [POLYLINE]
 Type=0x6
 Label=SANDHILLS RD
@@ -53606,7 +53606,7 @@ Nod2=4,4609,0
 Numbers1=0,E,1464,1412,N,-1,-1
 [END]
 
-;sufi=1030000006366
+;linzid=49722
 [POLYLINE]
 Type=0xa
 Label=BROTT RD
@@ -53620,7 +53620,7 @@ Nod2=8,330,0
 Numbers1=0,E,16,16,O,169,31
 [END]
 
-;sufi=1030000005675
+;linzid=49154
 [POLYLINE]
 Type=0x6
 Label=LAKE RD
@@ -53634,7 +53634,7 @@ Nod2=11,4632,0
 Numbers1=0,O,23,53,E,28,46
 [END]
 
-;sufi=1030000005675
+;linzid=49154
 [POLYLINE]
 Type=0xa
 Label=LAKE RD
@@ -53648,7 +53648,7 @@ Nod2=30,1583,0
 Numbers1=0,O,939,939,E,978,978
 [END]
 
-;sufi=1030000005420
+;linzid=48945
 [POLYLINE]
 Type=0xa
 Label=REMUERA SETTLEMENT RD
@@ -53664,7 +53664,7 @@ Numbers1=0,E,696,468,O,457,405
 Numbers2=21,E,184,10,O,315,15
 [END]
 
-;sufi=1030000005594
+;linzid=49087
 [POLYLINE]
 Type=0xa
 Label=WAIOHANGA RD
@@ -53678,7 +53678,7 @@ Nod2=41,5998,0
 Nod3=85,3172,0
 [END]
 
-;sufi=1030000006161
+;linzid=49549
 [POLYLINE]
 Type=0x6
 Label=TAWANUI RD
@@ -53692,7 +53692,7 @@ Nod2=7,1510,0
 Numbers1=0,E,28,40,O,29,61
 [END]
 
-;sufi=1030000005455
+;linzid=48974
 [POLYLINE]
 Type=0x6
 Label=CUMBER RD
@@ -53706,7 +53706,7 @@ Nod2=3,4652,0
 Numbers1=0,O,15,15,E,18,20
 [END]
 
-;sufi=1030000003032
+;linzid=48229
 [POLYLINE]
 Type=0xa
 Label=MANGAKAHIA RD
@@ -53721,7 +53721,7 @@ Nod3=33,1689,0
 Nod4=65,3273,0
 [END]
 
-;sufi=1030000005835
+;linzid=49286
 [POLYLINE]
 Type=0xa
 Label=ORAKAU RD
@@ -53735,7 +53735,7 @@ Nod2=15,1876,0
 Numbers1=0,O,1525,1609,E,1538,1572
 [END]
 
-;sufi=1030000005399
+;linzid=89587
 [POLYLINE]
 Type=0xa
 Label=MATAWAIA MAROMAKU RD
@@ -53749,7 +53749,7 @@ Nod2=58,1995,0
 Numbers1=0,E,1538,1358,O,1655,1337
 [END]
 
-;sufi=1030000003605
+;linzid=48289
 [POLYLINE]
 Type=0x5
 Label=POKAPU RD
@@ -53763,7 +53763,7 @@ Nod2=2,4642,0
 Numbers1=0,N,-1,-1,N,-1,-1
 [END]
 
-;sufi=1030000003605
+;linzid=48289
 [POLYLINE]
 Type=0xa
 Label=POKAPU RD
@@ -53777,7 +53777,7 @@ Nod2=20,1910,0
 Numbers1=0,E,1002,862,N,-1,-1
 [END]
 
-;sufi=1030000203597
+;linzid=62328
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -53802,7 +53802,7 @@ Numbers6=92,O,5151,5349,N,-1,-1
 Label2=STATE HIGHWAY 1
 [END]
 
-;sufi=1030000203597
+;linzid=62328
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -53836,7 +53836,7 @@ Numbers6=107,E,1588,1588,O,1611,1609
 Label2=STATE HIGHWAY 1
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x6
 Label=Accessway
@@ -53850,7 +53850,7 @@ Nod2=1,4003,0
 Nod3=4,4004,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x6
 Label=Accessway
@@ -53863,7 +53863,7 @@ Nod1=0,4004,0
 Nod2=5,4003,0
 [END]
 
-;sufi=1030000006357
+;linzid=49714
 [POLYLINE]
 Type=0xa
 Label=PAIRATAHI RD
@@ -53907,7 +53907,7 @@ EndLevel=2
 Data0=(-35.06767,173.28549),(-35.06789,173.28520),(-35.06806,173.28541),(-35.06784,173.28564)
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x6
 Label=Accessway
@@ -53926,7 +53926,7 @@ EndLevel=2
 Data0=(-35.06471,173.28091),(-35.07102,173.28654),(-35.07924,173.28291),(-35.07928,173.28314),(-35.07119,173.28677),(-35.07488,173.29054),(-35.07454,173.29089),(-35.07080,173.28700),(-35.06771,173.28834),(-35.06763,173.28813),(-35.07050,173.28668),(-35.06454,173.28138)
 [END]
 
-;sufi=1030000206329
+;linzid=62359
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]10
@@ -53954,7 +53954,7 @@ Numbers4=39,O,337,333,E,392,332
 Label2=STATE HIGHWAY 10
 [END]
 
-;sufi=1030000006461
+;linzid=49801
 [POLYLINE]
 Type=0xa
 Label=BACKRIVER RD
@@ -53972,7 +53972,7 @@ Numbers1=0,E,704,558,O,757,581
 Numbers2=57,E,536,272,O,501,187
 [END]
 
-;sufi=1030000005671
+;linzid=49151
 [POLYLINE]
 Type=0x6
 Label=TAUPO BAY RD
@@ -53986,7 +53986,7 @@ Nod2=104,4175,0
 Numbers1=0,O,339,1067,E,340,1070
 [END]
 
-;sufi=1030000006628
+;linzid=49941
 [POLYLINE]
 Type=0x6
 Label=OMAUNU RD
@@ -54002,7 +54002,7 @@ Nod4=12,1457,0
 Numbers1=0,E,98,86,O,127,77
 [END]
 
-;sufi=1030000006628
+;linzid=49941
 [POLYLINE]
 Type=0xa
 Label=OMAUNU RD
@@ -54018,7 +54018,7 @@ Nod4=211,1402,0
 Numbers1=0,E,1296,480,O,1227,431
 [END]
 
-;sufi=1030000006633
+;linzid=49945
 [POLYLINE]
 Type=0xa
 Label=PUPUKE MANGAPA RD
@@ -54034,7 +54034,7 @@ Nod4=73,1369,0
 Numbers1=0,E,780,448,O,899,411
 [END]
 
-;sufi=1030000006639
+;linzid=49950
 [POLYLINE]
 Type=0xa
 Label=OTANGAROA RD
@@ -54051,7 +54051,7 @@ Nod5=104,5039,0
 Nod6=114,1176,0
 [END]
 
-;sufi=1030000006064
+;linzid=49470
 [POLYLINE]
 Type=0xa
 Label=IWITAUA RD
@@ -54070,7 +54070,7 @@ Numbers1=0,O,79,79,E,94,94
 Numbers2=4,O,79,729,E,94,914
 [END]
 
-;sufi=1030000006349
+;linzid=49708
 [POLYLINE]
 Type=0xa
 Label=PARAPARA-TOATOA RD
@@ -54085,7 +54085,7 @@ Nod3=102,744,0
 Numbers1=0,E,746,146,O,745,111
 [END]
 
-;sufi=1030000006350
+;linzid=59999
 [POLYLINE]
 Type=0xa
 Label=PARANUI RD
@@ -54099,7 +54099,7 @@ Nod2=76,843,0
 Numbers1=0,E,488,52,O,511,35
 [END]
 
-;sufi=1030000006556
+;linzid=49878
 [POLYLINE]
 Type=0xa
 Label=TAYLOR RD
@@ -54113,7 +54113,7 @@ Nod2=13,3028,0
 Numbers1=0,O,5,229,E,14,284
 [END]
 
-;sufi=2030000000662
+;linzid=90279
 [POLYLINE]
 Type=0xa
 Label=TARAIRE RD
@@ -54127,7 +54127,7 @@ Nod2=28,1631,0
 Numbers1=0,N,-1,-1,O,47,7
 [END]
 
-;sufi=1030000006653
+;linzid=60039
 [POLYLINE]
 Type=0xa
 Label=HIKURUA RD
@@ -54141,7 +54141,7 @@ Nod2=13,4655,0
 Numbers1=0,O,75,173,E,162,162
 [END]
 
-;sufi=1030000006620
+;linzid=49934
 [POLYLINE]
 Type=0x5
 Label=MATAURI BAY RD
@@ -54155,7 +54155,7 @@ Nod2=12,1650,0
 Numbers1=0,O,651,691,E,584,740
 [END]
 
-;sufi=1030000006618
+;linzid=90234
 [POLYLINE]
 Type=0xa
 Label=MARTIN RD
@@ -54168,7 +54168,7 @@ Nod1=0,1595,0
 Nod2=18,1650,0
 [END]
 
-;sufi=1030000005438
+;linzid=48960
 [POLYLINE]
 Type=0x6
 Label=STANNERS RD
@@ -54186,7 +54186,7 @@ Numbers2=4,E,354,80,O,249,59
 Numbers3=26,E,40,14,O,49,43
 [END]
 
-;sufi=1030000006471
+;linzid=49811
 [POLYLINE]
 Type=0xa
 Label=PERIA RD
@@ -54206,7 +54206,7 @@ Nod8=47,819,0
 Numbers1=0,O,5,317,E,8,410
 [END]
 
-;sufi=1030000006611
+;linzid=49927
 [POLYLINE]
 Type=0x6
 Label=ORURU RD
@@ -54230,7 +54230,7 @@ Numbers3=11,O,1125,1125,E,1120,1120
 Numbers4=16,O,1195,1443,E,1188,1430
 [END]
 
-;sufi=1030000006590
+;linzid=49908
 [POLYLINE]
 Type=0xa
 Label=WELLS RD
@@ -54245,7 +54245,7 @@ Nod3=22,3004,0
 Numbers1=0,O,15,155,E,4,210
 [END]
 
-;sufi=1030000006467
+;linzid=49807
 [POLYLINE]
 Type=0xa
 Label=PERIA VALLEY RD
@@ -54258,7 +54258,7 @@ Nod1=0,764,0
 Nod2=23,780,0
 [END]
 
-;sufi=1030000006512
+;linzid=49846
 [POLYLINE]
 Type=0xa
 Label=MANGATOETOE RD
@@ -54274,7 +54274,7 @@ Numbers1=0,O,157,359,E,188,298
 Numbers2=31,O,469,643,E,386,520
 [END]
 
-;sufi=1030000006337
+;linzid=49698
 [POLYLINE]
 Type=0xa
 Label=JACENTHO RD
@@ -54289,7 +54289,7 @@ Nod3=41,3016,0
 Numbers1=0,O,23,169,E,108,108
 [END]
 
-;sufi=1030000006451
+;linzid=49793
 [POLYLINE]
 Type=0xa
 Label=HONEYMOON VALLEY RD
@@ -54304,7 +54304,7 @@ Nod3=41,889,0
 Numbers1=0,E,710,422,O,709,457
 [END]
 
-;sufi=1030000006367
+;linzid=49723
 [POLYLINE]
 Type=0xa
 Label=FERN FLAT RD
@@ -54323,7 +54323,7 @@ Nod7=146,1176,0
 Numbers1=0,O,619,1247,E,626,720
 [END]
 
-;sufi=1030000006549
+;linzid=49873
 [POLYLINE]
 Type=0xa
 Label=TAUMATA RD
@@ -54337,7 +54337,7 @@ Nod2=74,732,0
 Numbers1=0,E,466,34,O,355,15
 [END]
 
-;sufi=1030000006376
+;linzid=49731
 [POLYLINE]
 Type=0xa
 Label=DUNCAN RD
@@ -54351,7 +54351,7 @@ Nod2=21,4855,0
 Nod3=40,689,0
 [END]
 
-;sufi=1030000006466
+;linzid=49806
 [POLYLINE]
 Type=0xa
 Label=PEKERAU RD
@@ -54367,7 +54367,7 @@ Nod4=56,615,0
 Numbers1=0,E,806,434,O,847,425
 [END]
 
-;sufi=1030000006298
+;linzid=49664
 [POLYLINE]
 Type=0xa
 Label=RUAROA RD
@@ -54381,7 +54381,7 @@ Nod2=30,505,0
 Numbers1=0,E,572,116,O,615,83
 [END]
 
-;sufi=1030000006498
+;linzid=49834
 [POLYLINE]
 Type=0xa
 Label=DIGGERS VALLEY RD
@@ -54398,7 +54398,7 @@ Numbers1=0,O,757,1161,E,454,952
 Numbers2=168,O,1479,1927,E,1516,1940
 [END]
 
-;sufi=1030000006001
+;linzid=49417
 [POLYLINE]
 Type=0xa
 Label=PAWARENGA RD
@@ -54412,7 +54412,7 @@ Nod2=63,531,0
 Numbers1=0,E,1084,752,O,999,921
 [END]
 
-;sufi=1030000006054
+;linzid=59958
 [POLYLINE]
 Type=0xa
 Label=KOHE RD
@@ -54426,7 +54426,7 @@ Nod2=87,489,0
 Numbers1=0,E,546,2,O,547,1
 [END]
 
-;sufi=1030000006104
+;linzid=49503
 [POLYLINE]
 Type=0xa
 Label=WAIMA VALLEY RD
@@ -54440,7 +54440,7 @@ Nod2=22,1213,0
 Numbers1=0,O,267,397,E,302,482
 [END]
 
-;sufi=1030000006037
+;linzid=49447
 [POLYLINE]
 Type=0xa
 Label=GILES RD
@@ -54453,7 +54453,7 @@ Nod1=0,1149,0
 Nod2=59,1228,0
 [END]
 
-;sufi=1030000006020
+;linzid=49433
 [POLYLINE]
 Type=0xa
 Label=MOTUKIORE RD
@@ -54467,7 +54467,7 @@ Nod2=33,1149,0
 Numbers1=0,O,651,851,E,556,714
 [END]
 
-;sufi=1030000006028
+;linzid=49438
 [POLYLINE]
 Type=0xa
 Label=RAKAUTAPU RD
@@ -54483,7 +54483,7 @@ Nod4=112,1110,0
 Numbers1=0,E,806,22,O,627,49
 [END]
 
-;sufi=1030000006095
+;linzid=49495
 [POLYLINE]
 Type=0xa
 Label=PAPONGA RD
@@ -54501,7 +54501,7 @@ Nod6=118,878,0
 Numbers1=0,O,961,961,E,644,1304
 [END]
 
-;sufi=1030000006599
+;linzid=49917
 [POLYLINE]
 Type=0x6
 Label=FAIRBURN RD
@@ -54515,7 +54515,7 @@ Nod2=40,602,0
 Numbers1=0,O,163,423,E,240,354
 [END]
 
-;sufi=1030000006324
+;linzid=59996
 [POLYLINE]
 Type=0xa
 Label=NORTON RD
@@ -54528,7 +54528,7 @@ Nod1=0,159,0
 Nod2=52,208,0
 [END]
 
-;sufi=1030000006483
+;linzid=60017
 [POLYLINE]
 Type=0xa
 Label=SRHOJ RD
@@ -54542,7 +54542,7 @@ Nod2=15,160,0
 Numbers1=0,O,29,29,N,-1,-1
 [END]
 
-;sufi=1030000006038
+;linzid=49448
 [POLYLINE]
 Type=0x6
 Label=GOODWIN RD
@@ -54556,7 +54556,7 @@ Nod2=14,3038,0
 Numbers1=0,E,106,106,O,45,25
 [END]
 
-;sufi=1030000005928
+;linzid=49359
 [POLYLINE]
 Type=0xa
 Label=POKAS RD
@@ -54570,7 +54570,7 @@ Nod2=18,803,0
 Numbers1=0,E,182,182,O,185,11
 [END]
 
-;sufi=1030000006111
+;linzid=59965
 [POLYLINE]
 Type=0xa
 Label=WAIOTEMARAMA GORGE RD
@@ -54584,7 +54584,7 @@ Nod2=78,742,0
 Numbers1=0,E,356,158,O,281,197
 [END]
 
-;sufi=1030000206327
+;linzid=62357
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]10
@@ -54606,7 +54606,7 @@ Numbers1=0,E,2,6156,O,1,6145
 Label2=STATE HIGHWAY 10
 [END]
 
-;sufi=1030000203595
+;linzid=62326
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -54631,7 +54631,7 @@ Numbers6=10,E,70,70,O,73,93
 Label2=STATE HIGHWAY 1
 [END]
 
-;sufi=1030000203595
+;linzid=62326
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -54647,7 +54647,7 @@ Nod4=6,4181,0
 Label2=STATE HIGHWAY 1
 [END]
 
-;sufi=1030000005843
+;linzid=49291
 [POLYLINE]
 Type=0xa
 Label=OROMAHOE RD
@@ -54667,7 +54667,7 @@ Numbers2=16,E,1158,938,O,1147,993
 Numbers3=57,E,218,6,O,137,9
 [END]
 
-;sufi=1030000005632
+;linzid=49120
 [POLYLINE]
 Type=0xa
 Label=SKYLINE RD
@@ -54679,7 +54679,7 @@ Nod1=0,1990,0
 Nod2=27,2091,0
 [END]
 
-;sufi=1030000005850
+;linzid=49296
 [POLYLINE]
 Type=0xa
 Label=OKURA RD
@@ -54691,7 +54691,7 @@ Nod1=0,3356,0
 Nod2=13,1960,0
 [END]
 
-;sufi=1030000005736
+;linzid=49205
 [POLYLINE]
 Type=0x5
 Label=WIROA RD
@@ -54707,7 +54707,7 @@ Numbers1=0,E,218,218,O,317,233
 Numbers2=4,E,182,6,O,165,9
 [END]
 
-;sufi=1030000005474
+;linzid=59882
 [POLYLINE]
 Type=0xa
 Label=MANGAKARETU RD
@@ -54721,7 +54721,7 @@ Nod2=24,4631,0
 Numbers1=0,E,742,68,O,833,71
 [END]
 
-;sufi=1030000005553
+;linzid=49053
 [POLYLINE]
 Type=0xa
 Label=PUKETI RD
@@ -54736,7 +54736,7 @@ Nod3=60,1501,0
 Numbers1=0,O,11,829,E,20,936
 [END]
 
-;sufi=1030000005999
+;linzid=49415
 [POLYLINE]
 Type=0xa
 Label=PERRY RD
@@ -54751,7 +54751,7 @@ Nod3=88,3110,0
 Numbers1=0,O,151,151,E,220,220
 [END]
 
-;sufi=1030000006024
+;linzid=49435
 [POLYLINE]
 Type=0xa
 Label=MUDGWAY RD
@@ -54779,7 +54779,7 @@ EndLevel=2
 Data0=(-35.25111,173.90878),(-35.26034,173.91171),(-35.26223,173.90992),(-35.26547,173.91235),(-35.26234,173.91679),(-35.25036,173.91241)
 [END]
 
-;sufi=1030000006639
+;linzid=49950
 [POLYLINE]
 Type=0xa
 Label=OTANGAROA RD
@@ -54792,7 +54792,7 @@ Nod1=0,1198,0
 Nod2=22,1219,0
 [END]
 
-;sufi=1030000006639
+;linzid=49950
 [POLYLINE]
 Type=0xa
 Label=OTANGAROA RD
@@ -54810,7 +54810,7 @@ Numbers1=0,E,1048,866,O,1031,895
 Numbers2=29,E,864,864,O,771,771
 [END]
 
-;sufi=1030000006639
+;linzid=49950
 [POLYLINE]
 Type=0xa
 Label=OTANGAROA RD
@@ -54824,7 +54824,7 @@ Nod2=39,1275,0
 Numbers1=0,E,694,694,O,643,477
 [END]
 
-;sufi=1030000212351
+;linzid=89543
 [POLYLINE]
 Type=0xa
 Label=TIPATIPA RD
@@ -54839,7 +54839,7 @@ Nod3=32,1250,0
 Numbers1=0,E,136,136,O,269,233
 [END]
 
-;sufi=1030000006428
+;linzid=49774
 [POLYLINE]
 Type=0xa
 Label=KOHUMARU RD
@@ -54860,7 +54860,7 @@ Nod9=68,1117,0
 Numbers1=0,E,1856,1520,O,1765,1515
 [END]
 
-;sufi=1030000006654
+;linzid=49959
 [POLYLINE]
 Type=0xa
 Label=TARATARA RD
@@ -54876,7 +54876,7 @@ Numbers1=0,E,430,176,O,431,239
 Numbers2=33,E,72,72,O,141,25
 [END]
 
-;sufi=1030000006652
+;linzid=49958
 [POLYLINE]
 Type=0xa
 Label=HOBBS RD
@@ -54890,7 +54890,7 @@ Nod2=7,1254,0
 Numbers1=0,E,56,56,O,31,9
 [END]
 
-;sufi=1030000006686
+;linzid=49987
 [POLYLINE]
 Type=0xa
 Label=WEBER WAIHAPA RD
@@ -54905,7 +54905,7 @@ Nod3=34,1356,0
 Numbers1=0,E,400,192,O,51,51
 [END]
 
-;sufi=1030000006650
+;linzid=60038
 [POLYLINE]
 Type=0x5
 Label=WAINUI RD
@@ -54919,7 +54919,7 @@ Nod2=11,1470,0
 Numbers1=0,O,349,413,E,310,418
 [END]
 
-;sufi=1030000006618
+;linzid=90234
 [POLYLINE]
 Type=0xa
 Label=MARTIN RD
@@ -54933,7 +54933,7 @@ Nod2=26,1595,0
 Numbers1=0,O,239,539,E,392,450
 [END]
 
-;sufi=1030000006440
+;linzid=49785
 [POLYLINE]
 Type=0xa
 Label=BLUE GORGE RD
@@ -54948,7 +54948,7 @@ Nod3=93,753,0
 Numbers1=0,N,-1,-1,E,126,126
 [END]
 
-;sufi=1030000006118
+;linzid=49514
 [POLYLINE]
 Type=0xa
 Label=WAIOTEHUE RD
@@ -54965,7 +54965,7 @@ Nod5=253,6121,0
 Numbers1=0,E,350,108,O,819,819
 [END]
 
-;sufi=1030000006059
+;linzid=49465
 [POLYLINE]
 Type=0xa
 Label=HUMPHREYS RD
@@ -54979,7 +54979,7 @@ Nod2=21,6000,0
 Nod3=81,729,0
 [END]
 
-;sufi=1030000016245
+;linzid=55702
 [POLYLINE]
 Type=0xa
 Label=PEACH ORCHARD RD
@@ -54993,7 +54993,7 @@ Nod2=59,2599,0
 Numbers1=0,E,210,72,O,213,21
 [END]
 
-;sufi=1030000016307
+;linzid=55749
 [POLYLINE]
 Type=0xa
 Label=KAIIKANUI RD
@@ -55007,7 +55007,7 @@ Nod2=159,2623,0
 Numbers1=0,E,740,128,O,543,117
 [END]
 
-;sufi=1030000016307
+;linzid=55749
 [POLYLINE]
 Type=0xa
 Label=KAIIKANUI RD
@@ -55020,7 +55020,7 @@ Nod1=0,2665,0
 Nod2=86,2673,0
 [END]
 
-;sufi=1030000016306
+;linzid=55748
 [POLYLINE]
 Type=0xa
 Label=JUBILEE RD
@@ -55034,7 +55034,7 @@ Nod2=38,2664,0
 Numbers1=0,E,682,600,O,767,495
 [END]
 
-;sufi=1030000016508
+;linzid=55895
 [POLYLINE]
 Type=0xa
 Label=HAILES RD
@@ -55047,7 +55047,7 @@ Nod1=0,2679,0
 Nod2=93,2691,0
 [END]
 
-;sufi=1030000016140
+;linzid=55623
 [POLYLINE]
 Type=0x6
 Label=WHANANAKI NORTH RD
@@ -55064,7 +55064,7 @@ Nod5=107,2701,0
 Numbers1=0,O,2049,2303,E,2008,2146
 [END]
 
-;sufi=1030000005962
+;linzid=49386
 [POLYLINE]
 Type=0xa
 Label=MANGATAIPA RD
@@ -55078,7 +55078,7 @@ Nod2=73,1051,0
 Numbers1=0,E,400,94,O,355,79
 [END]
 
-;sufi=1030000006601
+;linzid=49919
 [POLYLINE]
 Type=0xa
 Label=YURETICH RD
@@ -55091,7 +55091,7 @@ Nod1=0,372,0
 Nod2=32,6122,0
 [END]
 
-;sufi=1030000006347
+;linzid=49706
 [POLYLINE]
 Type=0xa
 Label=WHITE RD
@@ -55104,7 +55104,7 @@ Nod1=0,498,0
 Nod2=20,526,0
 [END]
 
-;sufi=1030000006527
+;linzid=49855
 [POLYLINE]
 Type=0xa
 Label=PURIRI BLOCK RD
@@ -55118,7 +55118,7 @@ Nod2=14,6038,0
 Nod3=21,560,0
 [END]
 
-;sufi=1030000006521
+;linzid=91326
 [POLYLINE]
 Type=0xa
 Label=FISHER-RILEY RD
@@ -55132,7 +55132,7 @@ Nod2=5,4899,0
 Nod3=36,601,0
 [END]
 
-;sufi=1030000006247
+;linzid=49622
 [POLYLINE]
 Type=0xa
 Label=CHURCH RD
@@ -55147,7 +55147,7 @@ Nod3=43,519,0
 Numbers1=0,E,1302,1146,O,1267,1109
 [END]
 
-;sufi=1030000006527
+;linzid=49855
 [POLYLINE]
 Type=0xa
 Label=PURIRI BLOCK RD
@@ -55166,7 +55166,7 @@ Nod7=32,4894,0
 Nod8=39,2925,0
 [END]
 
-;sufi=1030000006376
+;linzid=49731
 [POLYLINE]
 Type=0xa
 Label=DUNCAN RD
@@ -55181,7 +55181,7 @@ Nod3=53,589,0
 Numbers1=0,O,307,515,E,346,516
 [END]
 
-;sufi=1030000006588
+;linzid=60030
 [POLYLINE]
 Type=0xa
 Label=CHAMPION RD
@@ -55197,7 +55197,7 @@ Nod4=36,2958,0
 Numbers1=0,O,7,245,E,16,252
 [END]
 
-;sufi=1030000006323
+;linzid=49685
 [POLYLINE]
 Type=0xa
 Label=OINU RD
@@ -55211,7 +55211,7 @@ Nod2=13,4640,0
 Numbers1=0,O,61,61,E,30,38
 [END]
 
-;sufi=1030000006380
+;linzid=49734
 [POLYLINE]
 Type=0xa
 Label=DYSART RD
@@ -55225,7 +55225,7 @@ Nod2=7,4203,0
 Numbers1=0,N,-1,-1,E,86,86
 [END]
 
-;sufi=1030000006408
+;linzid=49758
 [POLYLINE]
 Type=0xa
 Label=SMITH RD
@@ -55239,7 +55239,7 @@ Nod2=43,241,0
 Numbers1=0,O,157,157,N,-1,-1
 [END]
 
-;sufi=1030000006280
+;linzid=59988
 [POLYLINE]
 Type=0xa
 Label=PUHATA RD
@@ -55253,7 +55253,7 @@ Nod2=76,204,0
 Numbers1=0,E,400,14,O,455,11
 [END]
 
-;sufi=1030000006342
+;linzid=59997
 [POLYLINE]
 Type=0xa
 Label=WHANGAPE RD
@@ -55267,7 +55267,7 @@ Nod2=82,226,0
 Numbers1=0,O,591,923,E,688,996
 [END]
 
-;sufi=1030000006118
+;linzid=49514
 [POLYLINE]
 Type=0xa
 Label=WAIOTEHUE RD
@@ -55281,7 +55281,7 @@ Nod2=38,473,0
 Numbers1=0,O,1053,1053,E,986,986
 [END]
 
-;sufi=1030000006379
+;linzid=49733
 [POLYLINE]
 Type=0xa
 Label=EATON RD
@@ -55295,7 +55295,7 @@ Nod2=17,473,0
 Numbers1=0,N,-1,-1,E,30,30
 [END]
 
-;sufi=1030000005959
+;linzid=49383
 [POLYLINE]
 Type=0xa
 Label=AWAROA RIVER RD
@@ -55308,7 +55308,7 @@ Nod1=0,447,0
 Nod2=58,421,0
 [END]
 
-;sufi=1030000006082
+;linzid=59962
 [POLYLINE]
 Type=0xa
 Label=BUCHANAN RD
@@ -55323,7 +55323,7 @@ Nod3=85,670,0
 Numbers1=0,O,73,87,E,46,46
 [END]
 
-;sufi=1030000006051
+;linzid=49459
 [POLYLINE]
 Type=0x6
 Label=WEST COAST RD
@@ -55339,7 +55339,7 @@ Numbers1=0,E,2014,1990,N,-1,-1
 Numbers2=5,E,1988,1798,N,-1,-1
 [END]
 
-;sufi=1030000006021
+;linzid=49434
 [POLYLINE]
 Type=0xa
 Label=MOTUTI RD
@@ -55355,7 +55355,7 @@ Nod4=51,2988,0
 Numbers1=0,O,93,347,E,224,422
 [END]
 
-;sufi=1030000006051
+;linzid=49459
 [POLYLINE]
 Type=0x6
 Label=WEST COAST RD
@@ -55372,7 +55372,7 @@ Numbers1=0,O,2131,2189,E,2134,2178
 Numbers2=3,O,2201,2201,E,2192,2220
 [END]
 
-;sufi=1030000005932
+;linzid=49363
 [POLYLINE]
 Type=0xa
 Label=RUNARUNA RD
@@ -55386,7 +55386,7 @@ Nod2=113,583,0
 Numbers1=0,O,65,281,E,286,286
 [END]
 
-;sufi=1030000005932
+;linzid=49363
 [POLYLINE]
 Type=0xa
 Label=RUNARUNA RD
@@ -55399,7 +55399,7 @@ Nod1=0,604,0
 Nod2=22,583,0
 [END]
 
-;sufi=1030000003605
+;linzid=48289
 [POLYLINE]
 Type=0x5
 Label=POKAPU RD
@@ -55415,7 +55415,7 @@ Numbers1=0,E,598,446,O,517,375
 Numbers2=36,E,146,146,O,239,41
 [END]
 
-;sufi=1030000002166
+;linzid=48134
 [POLYLINE]
 Type=0xa
 Label=DAVIS RD
@@ -55429,7 +55429,7 @@ Nod2=17,3362,0
 Numbers1=0,O,133,133,N,-1,-1
 [END]
 
-;sufi=1030000005762
+;linzid=49226
 [POLYLINE]
 Type=0x5
 Label=NGAPIPITO RD
@@ -55446,7 +55446,7 @@ Numbers1=0,O,1353,1583,E,1354,1702
 Numbers2=39,O,1869,1899,E,1778,1810
 [END]
 
-;sufi=1030000005762
+;linzid=49226
 [POLYLINE]
 Type=0xa
 Label=NGAPIPITO RD
@@ -55462,7 +55462,7 @@ Numbers1=0,O,23,275,E,52,320
 Numbers2=41,O,425,1235,E,930,1344
 [END]
 
-;sufi=1030000005522
+;linzid=49028
 [POLYLINE]
 Type=0xa
 Label=TANA RD
@@ -55476,7 +55476,7 @@ Nod2=9,3290,0
 Numbers1=0,O,15,21,E,24,24
 [END]
 
-;sufi=1030000005985
+;linzid=59950
 [POLYLINE]
 Type=0xa
 Label=GUTHRIE RD
@@ -55490,7 +55490,7 @@ Nod2=27,3134,0
 Numbers1=0,O,63,63,E,24,24
 [END]
 
-;sufi=1030000005549
+;linzid=59892
 [POLYLINE]
 Type=0xa
 Label=RAKAUWAHIA RD
@@ -55504,7 +55504,7 @@ Nod2=16,1407,0
 Numbers1=0,E,374,40,O,619,77
 [END]
 
-;sufi=1030000005773
+;linzid=49234
 [POLYLINE]
 Type=0xa
 Label=JORDAN RD
@@ -55518,7 +55518,7 @@ Nod2=70,1422,0
 Numbers1=0,E,1018,12,O,923,65
 [END]
 
-;sufi=1030000005966
+;linzid=49390
 [POLYLINE]
 Type=0xa
 Label=MANGATARAIRE RD
@@ -55533,7 +55533,7 @@ Nod3=62,3151,0
 Numbers1=0,O,59,281,E,46,236
 [END]
 
-;sufi=1030000212637
+;linzid=89706
 [POLYLINE]
 Type=0xa
 Label=WAIKERIKERI FORD RD
@@ -55547,7 +55547,7 @@ Nod2=11,3785,0
 Numbers1=0,O,49,49,E,8,50
 [END]
 
-;sufi=1030000006382
+;linzid=49736
 [POLYLINE]
 Type=0xa
 Label=BURMA RD
@@ -55563,7 +55563,7 @@ Nod4=21,3034,0
 Numbers1=0,O,101,101,E,20,176
 [END]
 
-;sufi=1030000006507
+;linzid=49842
 [POLYLINE]
 Type=0xa
 Label=DANGEN RD
@@ -55577,7 +55577,7 @@ Nod2=23,1022,0
 Numbers1=0,O,211,251,E,52,52
 [END]
 
-;sufi=1030000006356
+;linzid=49713
 [POLYLINE]
 Type=0xa
 Label=PARANUI-TOATOA RD
@@ -55591,7 +55591,7 @@ Nod2=77,836,0
 Numbers1=0,E,424,138,O,247,13
 [END]
 
-;sufi=1030000006562
+;linzid=49884
 [POLYLINE]
 Type=0xa
 Label=BARRIBALL RD
@@ -55605,7 +55605,7 @@ Nod2=19,3042,0
 Numbers1=0,O,75,185,E,48,184
 [END]
 
-;sufi=1030000006328
+;linzid=49689
 [POLYLINE]
 Type=0xa
 Label=APUTEREWA RD
@@ -55621,7 +55621,7 @@ Nod4=16,3055,0
 Numbers1=0,O,19,87,E,20,42
 [END]
 
-;sufi=1030000000782
+;linzid=47912
 [POLYLINE]
 Type=0xa
 Label=AIRSTRIP RD
@@ -55635,7 +55635,7 @@ Nod2=29,1198,0
 Numbers1=0,N,-1,-1,E,58,58
 [END]
 
-;sufi=1030000006558
+;linzid=49880
 [POLYLINE]
 Type=0xa
 Label=TE KAROA RD
@@ -55651,7 +55651,7 @@ Nod4=45,5037,0
 Numbers1=0,O,63,175,E,54,270
 [END]
 
-;sufi=1030000006633
+;linzid=49945
 [POLYLINE]
 Type=0xa
 Label=PUPUKE MANGAPA RD
@@ -55668,7 +55668,7 @@ Nod5=65,1301,0
 Numbers1=0,E,1366,1090,O,1175,1171
 [END]
 
-;sufi=1030000006677
+;linzid=49980
 [POLYLINE]
 Type=0xa
 Label=SHARNOCK RD
@@ -55682,7 +55682,7 @@ Nod2=19,5425,0
 Nod3=28,1301,0
 [END]
 
-;sufi=1030000006635
+;linzid=49946
 [POLYLINE]
 Type=0xa
 Label=COPPER MINE RD
@@ -55696,7 +55696,7 @@ Nod2=12,3161,0
 Numbers1=0,O,11,103,N,-1,-1
 [END]
 
-;sufi=1030000006683
+;linzid=49985
 [POLYLINE]
 Type=0xa
 Label=WEBER RD
@@ -55710,7 +55710,7 @@ Nod2=13,1356,0
 Numbers1=0,E,226,78,O,245,129
 [END]
 
-;sufi=1030000006636
+;linzid=49947
 [POLYLINE]
 Type=0xa
 Label=RATAROA RD
@@ -55724,7 +55724,7 @@ Nod2=24,3176,0
 Numbers1=0,O,101,121,E,36,122
 [END]
 
-;sufi=1030000006617
+;linzid=60034
 [POLYLINE]
 Type=0xa
 Label=MATAWHEROHIA RD
@@ -55739,7 +55739,7 @@ Nod3=163,1425,0
 Numbers1=0,E,788,484,O,743,53
 [END]
 
-;sufi=1030000005470
+;linzid=59881
 [POLYLINE]
 Type=0x6
 Label=NESS RD
@@ -55753,7 +55753,7 @@ Nod2=4,1712,0
 Numbers1=0,E,178,98,O,143,101
 [END]
 
-;sufi=1030000006190
+;linzid=49573
 [POLYLINE]
 Type=0x6
 Label=PUNGAERE RD
@@ -55767,7 +55767,7 @@ Nod2=8,1704,0
 Numbers1=0,E,278,278,O,305,239
 [END]
 
-;sufi=1030000005402
+;linzid=59873
 [POLYLINE]
 Type=0x6
 Label=MAWSON AVE
@@ -55781,7 +55781,7 @@ Nod2=5,1772,0
 Numbers1=0,E,46,2,O,43,1
 [END]
 
-;sufi=1030000005595
+;linzid=49088
 [POLYLINE]
 Type=0x6
 Label=WAIPAPA WEST RD
@@ -55795,7 +55795,7 @@ Nod2=10,1742,0
 Numbers1=0,E,72,48,O,67,9
 [END]
 
-;sufi=1030000005544
+;linzid=49046
 [POLYLINE]
 Type=0x6
 Label=PURERUA RD
@@ -55809,7 +55809,7 @@ Nod2=12,1839,0
 Numbers1=0,O,153,157,E,98,210
 [END]
 
-;sufi=1030000005726
+;linzid=49196
 [POLYLINE]
 Type=0x5
 Label=KERIKERI INLET RD
@@ -55822,7 +55822,7 @@ Nod1=0,1989,0
 Nod2=16,2072,0
 [END]
 
-;sufi=1030000005700
+;linzid=59910
 [POLYLINE]
 Type=0x6
 Label=WHARAU RD
@@ -55836,7 +55836,7 @@ Nod2=42,3416,0
 Numbers1=0,O,173,457,E,164,456
 [END]
 
-;sufi=1030000005865
+;linzid=49308
 [POLYLINE]
 Type=0xa
 Label=EDMONDS RD
@@ -55851,7 +55851,7 @@ Nod3=8,6101,0
 Numbers1=0,E,144,80,O,103,57
 [END]
 
-;sufi=1030000005726
+;linzid=49196
 [POLYLINE]
 Type=0x5
 Label=KERIKERI INLET RD
@@ -55865,7 +55865,7 @@ Nod2=13,2082,0
 Numbers1=0,E,900,818,O,893,811
 [END]
 
-;sufi=1030000005726
+;linzid=49196
 [POLYLINE]
 Type=0x5
 Label=KERIKERI INLET RD
@@ -55884,7 +55884,7 @@ Numbers2=9,E,272,238,O,281,223
 Numbers3=16,E,212,140,O,211,151
 [END]
 
-;sufi=1030000212385
+;linzid=90826
 [POLYLINE]
 Type=0xa
 Label=DAVEYS RD
@@ -55898,7 +55898,7 @@ Nod2=15,3662,0
 Numbers1=0,O,1,1,E,12,98
 [END]
 
-;sufi=1030000005399
+;linzid=89587
 [POLYLINE]
 Type=0xa
 Label=MATAWAIA MAROMAKU RD
@@ -55914,7 +55914,7 @@ Nod4=132,2299,0
 Numbers1=0,E,524,524,O,801,583
 [END]
 
-;sufi=1030000005856
+;linzid=59933
 [POLYLINE]
 Type=0xa
 Label=RUAPEKAPEKA RD
@@ -55928,7 +55928,7 @@ Nod2=125,2459,0
 Numbers1=0,E,1424,806,N,-1,-1
 [END]
 
-;sufi=1030000004520
+;linzid=48370
 [POLYLINE]
 Type=0xa
 Label=WAIKARE RD
@@ -55943,7 +55943,7 @@ Nod3=181,2544,0
 Numbers1=0,O,803,1651,E,806,1692
 [END]
 
-;sufi=1030000004520
+;linzid=48370
 [POLYLINE]
 Type=0x5
 Label=WAIKARE RD
@@ -55956,7 +55956,7 @@ Nod1=0,2464,0
 Nod2=8,2475,0
 [END]
 
-;sufi=1030000005469
+;linzid=48985
 [POLYLINE]
 Type=0xa
 Label=NELSON RD
@@ -55970,7 +55970,7 @@ Nod2=45,2521,0
 Numbers1=0,O,71,71,E,236,20
 [END]
 
-;sufi=1030000005588
+;linzid=49081
 [POLYLINE]
 Type=0xa
 Label=WAIOTU RD
@@ -55985,7 +55985,7 @@ Nod3=39,3533,0
 Numbers1=0,O,269,269,E,78,306
 [END]
 
-;sufi=1030000005523
+;linzid=49029
 [POLYLINE]
 Type=0xa
 Label=TAPUHI RD
@@ -55998,7 +55998,7 @@ Nod1=0,2510,0
 Nod2=13,2522,0
 [END]
 
-;sufi=1030000016207
+;linzid=55675
 [POLYLINE]
 Type=0xa
 Label=WAIOTU BLOCK RD
@@ -56012,7 +56012,7 @@ Nod2=23,2540,0
 Numbers1=0,E,412,412,O,491,403
 [END]
 
-;sufi=1030000005523
+;linzid=49029
 [POLYLINE]
 Type=0xa
 Label=TAPUHI RD
@@ -56028,7 +56028,7 @@ Numbers1=0,O,261,439,E,244,354
 Numbers2=50,O,629,629,E,522,522
 [END]
 
-;sufi=1030000016175
+;linzid=55650
 [POLYLINE]
 Type=0xa
 Label=MINE RD
@@ -56041,7 +56041,7 @@ Nod1=0,2562,0
 Nod2=9,2574,0
 [END]
 
-;sufi=1030000016306
+;linzid=55748
 [POLYLINE]
 Type=0xa
 Label=JUBILEE RD
@@ -56055,7 +56055,7 @@ Nod2=64,2672,0
 Numbers1=0,E,412,6,O,425,131
 [END]
 
-;sufi=1030000005770
+;linzid=59920
 [POLYLINE]
 Type=0x6
 Label=MILL LANE
@@ -56071,7 +56071,7 @@ Numbers1=0,O,37,35,N,-1,-1
 Numbers2=2,O,33,29,E,26,22
 [END]
 
-;sufi=1030000055458
+;linzid=58769
 [POLYLINE]
 Type=0x6
 Label=VILLAGE CL
@@ -56084,7 +56084,7 @@ Nod1=0,1856,0
 Nod2=8,1858,0
 [END]
 
-;sufi=1030000005733
+;linzid=49203
 [POLYLINE]
 Type=0x6
 Label=WILLIAMS RD
@@ -56099,7 +56099,7 @@ Nod2=1,2287,0
 Numbers1=0,E,2,2,O,1,37
 [END]
 
-;sufi=1030000006086
+;linzid=59963
 [POLYLINE]
 Type=0xa
 Label=KARUHIRUHI RD
@@ -56113,7 +56113,7 @@ Nod2=1,853,0
 Numbers1=0,E,68,124,O,15,9
 [END]
 
-;sufi=2030000003417
+;linzid=93452
 [POLYLINE]
 Type=0x6
 Label=WAIMANGARO RD
@@ -56126,7 +56126,7 @@ Nod1=0,4032,0
 Nod2=7,4017,0
 [END]
 
-;sufi=2030000003291
+;linzid=93385
 [POLYLINE]
 Type=0x6
 Label=CORAL PL
@@ -56140,7 +56140,7 @@ Nod2=1,4033,0
 Numbers1=0,O,1,7,E,2,8
 [END]
 
-;sufi=2030000003299
+;linzid=93387
 [POLYLINE]
 Type=0x6
 Label=MERIDIAN PL
@@ -56154,7 +56154,7 @@ Nod2=1,4034,0
 Numbers1=0,O,1,5,E,2,8
 [END]
 
-;sufi=2030000003293
+;linzid=93386
 [POLYLINE]
 Type=0x6
 Label=PLATINUM PL
@@ -56168,7 +56168,7 @@ Nod2=1,4168,0
 Numbers1=0,E,8,2,O,7,1
 [END]
 
-;sufi=2030000003297
+;linzid=93388
 [POLYLINE]
 Type=0x6
 Label=VALENCIA PL
@@ -56182,7 +56182,7 @@ Nod2=4,4167,0
 Numbers1=0,E,4,2,O,9,1
 [END]
 
-;sufi=2030000003289
+;linzid=93384
 [POLYLINE]
 Type=0x6
 Label=EDGEWATER PL
@@ -56197,7 +56197,7 @@ Nod3=8,4038,0
 Numbers1=0,O,5,19,E,2,14
 [END]
 
-;sufi=2030000002779
+;linzid=93124
 [POLYLINE]
 Type=0x6
 Label=ACCESS HTS
@@ -56210,7 +56210,7 @@ Nod1=0,4218,0
 Nod2=2,4039,0
 [END]
 
-;sufi=2030000006368
+;linzid=94709
 [POLYLINE]
 Type=0x6
 Label=RIVERSTONE LANE
@@ -56224,7 +56224,7 @@ Nod2=2,4025,0
 Numbers1=0,O,5,3,E,4,10
 [END]
 
-;sufi=2030000003461
+;linzid=93463
 [POLYLINE]
 Type=0x6
 Label=GREENWAY DR
@@ -56238,7 +56238,7 @@ Nod2=3,4027,0
 Numbers1=0,E,18,2,O,19,1
 [END]
 
-;sufi=2030000001521
+;linzid=92539
 [POLYLINE]
 Type=0x6
 Label=URUTAWA DR
@@ -56252,7 +56252,7 @@ Nod2=5,4046,0
 Numbers1=0,O,1,7,E,2,20
 [END]
 
-;sufi=2030000000818
+;linzid=91574
 [POLYLINE]
 Type=0x6
 Label=CAMPBELL LANE
@@ -56266,7 +56266,7 @@ Nod2=3,3324,0
 Numbers1=0,E,4,14,O,19,3
 [END]
 
-;sufi=2030000001519
+;linzid=92540
 [POLYLINE]
 Type=0x6
 Label=PICKMERE LANE
@@ -56280,7 +56280,7 @@ Nod2=3,4029,0
 Numbers1=0,E,26,2,O,17,1
 [END]
 
-;sufi=2030000001818
+;linzid=92615
 [POLYLINE]
 Type=0x6
 Label=STONEY KNOWE
@@ -56294,7 +56294,7 @@ Nod2=23,4030,0
 Numbers1=0,E,98,56,O,101,31
 [END]
 
-;sufi=2030000001932
+;linzid=92892
 [POLYLINE]
 Type=0xa
 Label=OHAKIRI WAY
@@ -56308,7 +56308,7 @@ Nod2=4,4031,0
 Numbers1=0,O,15,15,E,30,30
 [END]
 
-;sufi=2030000006364
+;linzid=94707
 [POLYLINE]
 Type=0x6
 Label=RIVERBANK DR
@@ -56326,7 +56326,7 @@ Numbers2=3,O,7,9,E,4,10
 Numbers3=5,O,11,13,E,12,20
 [END]
 
-;sufi=2030000006366
+;linzid=94708
 [POLYLINE]
 Type=0x6
 Label=FIELD VIEW
@@ -56340,7 +56340,7 @@ Nod2=2,4024,0
 Numbers1=0,O,7,3,E,4,6
 [END]
 
-;sufi=2030000002054
+;linzid=92741
 [POLYLINE]
 Type=0x6
 Label=MCLEOD RD
@@ -56354,7 +56354,7 @@ Nod2=12,4062,0
 Numbers1=0,O,11,65,E,32,60
 [END]
 
-;sufi=2030000002056
+;linzid=92740
 [POLYLINE]
 Type=0x6
 Label=PALM DR
@@ -56368,7 +56368,7 @@ Nod2=2,4071,0
 Numbers1=0,O,1,9,E,2,8
 [END]
 
-;sufi=2030000002052
+;linzid=92742
 [POLYLINE]
 Type=0xa
 Label=KOTUKU RD
@@ -56381,7 +56381,7 @@ Nod1=0,4072,0
 Nod2=3,4064,0
 [END]
 
-;sufi=2030000002227
+;linzid=92829
 [POLYLINE]
 Type=0x6
 Label=OPAU RD
@@ -56397,7 +56397,7 @@ Numbers1=0,O,3,5,E,6,14
 Numbers2=5,N,-1,-1,E,22,28
 [END]
 
-;sufi=2030000002229
+;linzid=92828
 [POLYLINE]
 Type=0x6
 Label=MOTUTARA RD
@@ -56415,7 +56415,7 @@ Numbers2=1,E,16,16,N,-1,-1
 Numbers3=3,E,12,12,N,-1,-1
 [END]
 
-;sufi=2030000002231
+;linzid=92830
 [POLYLINE]
 Type=0x6
 Label=OMAHU NUI WAY
@@ -56428,7 +56428,7 @@ Nod1=0,4075,0
 Nod2=4,4067,0
 [END]
 
-;sufi=2030000002233
+;linzid=92831
 [POLYLINE]
 Type=0x6
 Label=ONGUTUKURA WAY
@@ -56441,7 +56441,7 @@ Nod1=0,4076,0
 Nod2=5,4069,0
 [END]
 
-;sufi=2030000002428
+;linzid=92947
 [POLYLINE]
 Type=0xa
 Label=MILLS ACCESS RD
@@ -56455,7 +56455,7 @@ Nod2=12,1334,0
 Numbers1=0,O,11,39,E,8,8
 [END]
 
-;sufi=2030000002675
+;linzid=93070
 [POLYLINE]
 Type=0x6
 Label=RIVERSTREAM DR
@@ -56469,7 +56469,7 @@ Nod2=14,4083,0
 Numbers1=0,O,45,71,E,2,104
 [END]
 
-;sufi=2030000003639
+;linzid=93559
 [POLYLINE]
 Type=0x6
 Label=TE RANGI CROSS RD
@@ -56482,7 +56482,7 @@ Nod1=0,4085,0
 Nod2=7,4084,0
 [END]
 
-;sufi=1030000194179
+;linzid=59516
 [POLYLINE]
 Type=0x6
 Label=SPINNAKER PT
@@ -56496,7 +56496,7 @@ Nod2=3,4120,0
 Numbers1=0,B,1,2,B,11,4
 [END]
 
-;sufi=1030000194175
+;linzid=59515
 [POLYLINE]
 Type=0x6
 Label=NAUTICAL DR
@@ -56510,7 +56510,7 @@ Nod2=10,4117,0
 Numbers1=0,E,2,16,O,1,9
 [END]
 
-;sufi=1030000194177
+;linzid=61736
 [POLYLINE]
 Type=0x6
 Label=THE ANCHORAGE
@@ -56525,7 +56525,7 @@ Nod3=6,4119,0
 Numbers1=0,E,4,24,O,1,17
 [END]
 
-;sufi=1030000206321
+;linzid=62354
 [POLYLINE]
 Type=0x6
 Label=HALYARD LOOP
@@ -56539,7 +56539,7 @@ Nod2=3,4122,0
 Numbers1=0,E,2,28,O,1,37
 [END]
 
-;sufi=2030000006126
+;linzid=94599
 [POLYLINE]
 Type=0x6
 Label=THE ANCHORAGE E
@@ -56555,7 +56555,7 @@ Numbers1=0,E,4,6,O,3,3
 Numbers2=3,E,6,10,O,5,7
 [END]
 
-;sufi=2030000006128
+;linzid=94600
 [POLYLINE]
 Type=0x6
 Label=MOORING CL
@@ -56569,7 +56569,7 @@ Nod2=3,4118,0
 Numbers1=0,O,9,3,E,8,4
 [END]
 
-;sufi=2030000003714
+;linzid=93591
 [POLYLINE]
 Type=0x6
 Label=RIDGE RD
@@ -56582,7 +56582,7 @@ Nod1=0,4130,0
 Nod2=1,4126,0
 [END]
 
-;sufi=2030000004303
+;linzid=93852
 [POLYLINE]
 Type=0x6
 Label=ARKLES WAY
@@ -56596,7 +56596,7 @@ Nod2=5,4131,0
 Numbers1=0,E,2,10,O,1,7
 [END]
 
-;sufi=2030000006174
+;linzid=94616
 [POLYLINE]
 Type=0xa
 Label=DAROUX DR
@@ -56609,7 +56609,7 @@ Nod1=0,4133,0
 Nod2=4,4132,0
 [END]
 
-;sufi=2030000006370
+;linzid=94704
 [POLYLINE]
 Type=0x6
 Label=JAMES MCKENZIE WAY
@@ -56622,7 +56622,7 @@ Nod1=0,4134,0
 Nod2=6,4136,0
 [END]
 
-;sufi=2030000006412
+;linzid=94748
 [POLYLINE]
 Type=0x6
 Label=MOUREESES BAY RD
@@ -56637,7 +56637,7 @@ Nod3=6,2692,0
 Numbers1=0,O,17,1,N,-1,-1
 [END]
 
-;sufi=2030000006410
+;linzid=94749
 [POLYLINE]
 Type=0x6
 Label=BARRON LANE
@@ -56651,7 +56651,7 @@ Nod2=4,4135,0
 Numbers1=0,O,11,3,E,14,4
 [END]
 
-;sufi=2030000006492
+;linzid=94784
 [POLYLINE]
 Type=0x6
 Label=MASONIC LANE
@@ -56664,7 +56664,7 @@ Nod1=0,4139,0
 Nod2=2,4140,0
 [END]
 
-;sufi=2030000006518
+;linzid=94791
 [POLYLINE]
 Type=0x6
 Label=KOTARE HTS
@@ -56678,7 +56678,7 @@ Nod2=4,4142,0
 Numbers1=0,O,1,15,E,2,16
 [END]
 
-;sufi=2030000006796
+;linzid=94936
 [POLYLINE]
 Type=0xa
 Label=GLENDALE HTS
@@ -56691,7 +56691,7 @@ Nod1=0,1607,0
 Nod2=6,4143,0
 [END]
 
-;sufi=2030000006896
+;linzid=94980
 [POLYLINE]
 Type=0x6
 Label=KOUTU TCE
@@ -56705,7 +56705,7 @@ Nod2=6,4147,0
 Numbers1=0,N,-1,-1,E,40,40
 [END]
 
-;sufi=2030000082222
+;linzid=95124
 [POLYLINE]
 Type=0x6
 Label=BON VUE RIDGE
@@ -56718,7 +56718,7 @@ Nod1=0,4149,0
 Nod2=2,4171,0
 [END]
 
-;sufi=1030000005888
+;linzid=49326
 [POLYLINE]
 Type=0x6
 Label=MARAENUI DR
@@ -56734,7 +56734,7 @@ Numbers1=0,O,11,25,N,-1,-1
 Numbers2=1,O,37,41,E,40,44
 [END]
 
-;sufi=2030000082380
+;linzid=95259
 [POLYLINE]
 Type=0x6
 Label=CRACKERJACK CRES
@@ -56747,7 +56747,7 @@ Nod1=0,4152,0
 Nod2=2,4150,0
 [END]
 
-;sufi=1030000199215
+;linzid=62067
 [POLYLINE]
 Type=0x6
 Label=BAY HEIGHTS DR
@@ -56761,7 +56761,7 @@ Nod2=12,608,0
 Numbers1=0,O,1,95,E,2,104
 [END]
 
-;sufi=1030000016330
+;linzid=55765
 [POLYLINE]
 Type=0xa
 Label=BYLES RD
@@ -56775,7 +56775,7 @@ Nod2=29,4153,0
 Numbers1=0,O,79,79,E,2,138
 [END]
 
-;sufi=1030000005528
+;linzid=49034
 [POLYLINE]
 Type=0x6
 Label=TAU HENARE DR
@@ -56789,7 +56789,7 @@ Nod2=25,3190,0
 Nod3=29,4154,0
 [END]
 
-;sufi=1030000005615
+;linzid=59900
 [POLYLINE]
 Type=0x5
 Label=TE KARUWHA PDE
@@ -56804,7 +56804,7 @@ Nod3=13,6107,0
 Numbers1=0,N,-1,-1,E,20,2
 [END]
 
-;sufi=1030000214240
+;linzid=91063
 [POLYLINE]
 Type=0x6
 Label=KINGSTON PL
@@ -56817,7 +56817,7 @@ Nod1=0,4158,0
 Nod2=1,4156,0
 [END]
 
-;sufi=1030000214238
+;linzid=91062
 [POLYLINE]
 Type=0x6
 Label=FOREST HEIGHTS RD
@@ -56830,7 +56830,7 @@ Nod1=0,4155,0
 Nod2=1,4159,0
 [END]
 
-;sufi=1030000214242
+;linzid=91064
 [POLYLINE]
 Type=0x6
 Label=MANDENO DR
@@ -56844,7 +56844,7 @@ Nod2=5,4160,0
 Numbers1=0,O,3,7,E,4,8
 [END]
 
-;sufi=1030000214236
+;linzid=91061
 [POLYLINE]
 Type=0x6
 Label=ALDERTON DR
@@ -56864,7 +56864,7 @@ Numbers3=11,O,17,25,E,22,24
 Numbers4=14,O,29,37,E,28,36
 [END]
 
-;sufi=1030000006018
+;linzid=90233
 [POLYLINE]
 Type=0xa
 Label=TE UMUHUKI RD
@@ -56878,7 +56878,7 @@ Nod2=8,457,0
 Numbers1=0,N,-1,-1,O,79,1
 [END]
 
-;sufi=1030000005914
+;linzid=49348
 [POLYLINE]
 Type=0xa
 Label=OTENE DR
@@ -56892,7 +56892,7 @@ Nod2=1,4163,0
 Numbers1=0,O,23,33,N,-1,-1
 [END]
 
-;sufi=1030000006187
+;linzid=49571
 [POLYLINE]
 Type=0x6
 Label=WARD ST
@@ -56906,7 +56906,7 @@ Nod2=3,4165,0
 Numbers1=0,E,2,12,O,1,13
 [END]
 
-;sufi=1030000006186
+;linzid=49570
 [POLYLINE]
 Type=0x6
 Label=WARD LANE
@@ -56919,7 +56919,7 @@ Nod1=0,4165,0
 Nod2=2,385,0
 [END]
 
-;sufi=1030000005909
+;linzid=49344
 [POLYLINE]
 Type=0xa
 Label=WEKAWEKA RD
@@ -56933,7 +56933,7 @@ Nod2=108,1211,0
 Numbers1=0,O,1373,1421,E,1378,1446
 [END]
 
-;sufi=1030000005739
+;linzid=59916
 [POLYLINE]
 Type=0x6
 Label=TOKAWHERO RD
@@ -56946,7 +56946,7 @@ Nod1=0,3256,1
 Nod2=10,3262,0
 [END]
 
-;sufi=1030000016731
+;linzid=60985
 [POLYLINE]
 Type=0x3
 Label=MARUA RD
@@ -56966,7 +56966,7 @@ Numbers3=15,O,541,541,E,542,556
 Numbers4=19,O,691,733,E,610,752
 [END]
 
-;sufi=1030000006484
+;linzid=49821
 [POLYLINE]
 Type=0xa
 Label=SPIRITS BAY RD
@@ -56980,7 +56980,7 @@ Nod2=17,5893,0
 Nod3=87,3936,0
 [END]
 
-;sufi=2030000003295
+;linzid=93383
 [POLYLINE]
 Type=0x6
 Label=MATAPOURI PARK LANE
@@ -56998,7 +56998,7 @@ Nod6=9,4170,0
 Nod7=10,4036,0
 [END]
 
-;sufi=1030000208231
+;linzid=62414
 [POLYLINE]
 Type=0x6
 Label=TAIPA VIEW RD
@@ -57016,7 +57016,7 @@ Numbers2=1,O,31,11,E,28,12
 Numbers3=18,O,7,1,E,8,2
 [END]
 
-;sufi=1030000016639
+;linzid=55995
 [POLYLINE]
 Type=0x6
 Label=CORBETT RD
@@ -57032,7 +57032,7 @@ Numbers1=0,E,84,84,O,97,97
 Numbers2=3,E,58,12,O,71,11
 [END]
 
-;sufi=1030000006321
+;linzid=49683
 [POLYLINE]
 Type=0xa
 Label=NO 6 RD
@@ -57046,7 +57046,7 @@ Nod2=3,152,0
 Nod3=5,2823,0
 [END]
 
-;sufi=2030000001113
+;linzid=92108
 [POLYLINE]
 Type=0x6
 Label=EQUESTRIAN DR
@@ -57059,7 +57059,7 @@ Nod1=0,4172,0
 Nod2=1,4219,0
 [END]
 
-;sufi=1030000206329
+;linzid=62359
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]10
@@ -57096,7 +57096,7 @@ Numbers9=31,O,115,39,E,118,82
 Label2=STATE HIGHWAY 10
 [END]
 
-;sufi=1030000006335
+;linzid=49696
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]10
@@ -57110,7 +57110,7 @@ Nod2=2,4173,0
 Label2=LESLIE RD
 [END]
 
-;sufi=1030000005809
+;linzid=49264
 [POLYLINE]
 Type=0x6
 Label=BARRACKS PL
@@ -57123,7 +57123,7 @@ Nod1=0,4231,0
 Nod2=1,4174,0
 [END]
 
-;sufi=2030000082434
+;linzid=95341
 [POLYLINE]
 Type=0x6
 Label=TAUPO BAY RD
@@ -57139,7 +57139,7 @@ Numbers1=0,E,4,18,O,5,11
 Numbers2=1,E,18,40,N,-1,-1
 [END]
 
-;sufi=2030000001284
+;linzid=93050
 [POLYLINE]
 Type=0x6
 Label=COCHRANE DR
@@ -57153,7 +57153,7 @@ Nod2=5,4176,0
 Numbers1=0,E,8,2,O,9,1
 [END]
 
-;sufi=1030000189679
+;linzid=59208
 [POLYLINE]
 Type=0x6
 Label=DONALD RD
@@ -57167,7 +57167,7 @@ Nod2=17,424,0
 Numbers1=0,O,29,121,E,42,118
 [END]
 
-;sufi=1030000005589
+;linzid=49082
 [POLYLINE]
 Type=0x6
 Label=VERONICA ST
@@ -57181,7 +57181,7 @@ Nod2=2,4668,0
 Numbers1=0,E,2,2,O,1,1
 [END]
 
-;sufi=1030000206331
+;linzid=62361
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]10
@@ -57197,7 +57197,7 @@ Numbers1=0,E,4104,4104,N,-1,-1
 Label2=STATE HIGHWAY 10
 [END]
 
-;sufi=2030000005131
+;linzid=94224
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -57442,7 +57442,7 @@ Data0=(-34.18765,172.03544),(-34.18774,172.03523),(-34.18774,172.03506),(-34.187
 Data0=(-34.18044,172.07446),(-34.18044,172.07473),(-34.18048,172.07469)
 [END]
 
-;sufi=1030000203593
+;linzid=62324
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -57558,7 +57558,7 @@ EndLevel=2
 Data0=(-35.25790,174.12135),(-35.25798,174.12013),(-35.25721,174.12054),(-35.25463,174.11935),(-35.25379,174.11964),(-35.25517,174.12127)
 [END]
 
-;sufi=1030000005677
+;linzid=49155
 [POLYLINE]
 Type=0x6
 Label=LANDING RD
@@ -57601,7 +57601,7 @@ Nod2=2,4216,0
 Nod3=4,4217,0
 [END]
 
-;sufi=1030000213270
+;linzid=90347
 [POLYLINE]
 Type=0x6
 Label=OKURA DR
@@ -57615,7 +57615,7 @@ Nod2=8,2719,0
 Numbers1=0,E,4,12,O,1,7
 [END]
 
-;sufi=1030000005725
+;linzid=49195
 ;
 [POLYLINE]
 Type=0x5
@@ -57630,7 +57630,7 @@ Nod2=2,4647,0
 Numbers1=0,E,92,108,O,85,103
 [END]
 
-;sufi=1030000005725
+;linzid=49195
 [POLYLINE]
 Type=0x5
 Label=KERIKERI RD
@@ -57647,7 +57647,7 @@ Numbers1=0,O,83,77,E,90,80
 Numbers2=1,O,73,61,E,78,66
 [END]
 
-;sufi=1030000005494
+;linzid=49004
 [POLYLINE]
 Type=0x6
 Label=FAIRWAY DR
@@ -57662,7 +57662,7 @@ Nod2=1,1835,0
 Numbers1=0,E,4,2,O,7,1
 [END]
 
-;sufi=1030000005454
+;linzid=48973
 [POLYLINE]
 Type=0x6
 Label=HOMESTEAD RD
@@ -57676,7 +57676,7 @@ Nod1=0,1833,0
 Nod2=1,1821,0
 [END]
 
-;sufi=1030000005725
+;linzid=49195
 ;
 [POLYLINE]
 Type=0x5
@@ -57718,7 +57718,7 @@ Nod3=4,4227,0
 [END]
 
 ;Imported - SH10-MatauriBayRd slip road.gdb
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0xa
 Label=Road
@@ -57731,7 +57731,7 @@ Nod1=0,4234,0
 Nod2=22,4235,0
 [END]
 
-;sufi=2030000084402
+;linzid=96283
 ;created=14/10/2008
 ;Imported New Bypass Kerikeri.gdb
 [POLYLINE]
@@ -57746,7 +57746,7 @@ Nod1=0,4555,0
 Nod2=21,4238,0
 [END]
 
-;sufi=1030000005725
+;linzid=49195
 [POLYLINE]
 Type=0x6
 Label=KERIKERI RD
@@ -57796,7 +57796,7 @@ Nod2=2,4238,0
 Nod3=4,4239,0
 [END]
 
-;sufi=1030000005599
+;linzid=49092
 [POLYLINE]
 Type=0x5
 Label=WAIPAPA RD
@@ -57885,7 +57885,7 @@ Nod2=2,4246,0
 Nod3=4,4247,0
 [END]
 
-;sufi=1030000006396
+;linzid=49747
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -57900,7 +57900,7 @@ Nod3=26,4553,0
 Label2=CAPE REINGA ROAD
 [END]
 
-;sufi=1030000006396
+;linzid=49747
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -57915,7 +57915,7 @@ Nod3=108,2,0
 Label2=CAPE REINGA ROAD
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x6
 Label=Carpark
@@ -57930,7 +57930,7 @@ Nod3=6,6063,0
 Nod4=8,4254,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x6
 Label=Carpark
@@ -57943,7 +57943,7 @@ Nod1=0,4254,0
 Nod2=5,4667,0
 [END]
 
-;sufi=1030000206331
+;linzid=62361
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]10
@@ -57974,7 +57974,7 @@ Numbers7=43,E,1828,1688,O,1715,1715
 Label2=STATE HIGHWAY 10
 [END]
 
-;sufi=1030000055420
+;linzid=58764
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]10
@@ -57991,7 +57991,7 @@ Numbers2=2,E,1246,1188,O,1291,1263
 Label2=BULLS RD
 [END]
 
-;sufi=1030000006447
+;linzid=49790
 [POLYLINE]
 Type=0xa
 Label=MATE URLICH RD
@@ -58004,7 +58004,7 @@ Nod1=0,4261,0
 Nod2=10,2931,0
 [END]
 
-;sufi=1030000005728
+;linzid=49198
 [POLYLINE]
 Type=0x6
 Label=WILSON RD
@@ -58020,7 +58020,7 @@ Numbers1=0,O,19,3,E,18,8
 Numbers2=3,O,3,1,E,8,2
 [END]
 
-;sufi=1030000005492
+;linzid=49002
 [POLYLINE]
 Type=0x6
 Label=FALLS VIEW RD
@@ -58034,7 +58034,7 @@ Nod2=2,2160,0
 Numbers1=0,E,14,36,O,9,23
 [END]
 
-;sufi=2030000084404
+;linzid=96282
 ;created=14/10/2008
 ;Auto-numbered=20090224
 [POLYLINE]
@@ -58050,7 +58050,7 @@ Nod2=13,4503,0
 Numbers1=0,O,1,141,N,-1,-1
 [END]
 
-;sufi=2030000083280
+;linzid=95782
 ;created=20/03/2008
 [POLYLINE]
 Type=0x6
@@ -58065,7 +58065,7 @@ Nod2=2,4497,0
 Numbers1=0,O,1,19,E,2,24
 [END]
 
-;sufi=2030000084232
+;linzid=96201
 ;created=08/09/2008
 ;Auto-numbered=20090224
 [POLYLINE]
@@ -58081,7 +58081,7 @@ Nod2=4,4502,0
 Numbers1=0,E,2,32,O,1,31
 [END]
 
-;sufi=2030000083089
+;linzid=95696
 ;created=03/03/2008
 ;Auto-numbered=20090224
 [POLYLINE]
@@ -58098,7 +58098,7 @@ Nod3=5,4496,0
 Numbers1=0,O,3,19,E,4,26
 [END]
 
-;sufi=1030000006378
+;linzid=60002
 ;created=28/02/1984
 ;Auto-numbered=20090224
 [POLYLINE]
@@ -58116,7 +58116,7 @@ Numbers1=0,E,2,42,O,1,37
 Numbers2=16,E,44,54,O,39,45
 [END]
 
-;sufi=1030000006473
+;linzid=49813
 ;created=10/09/1987
 ;Auto-numbered=20090224
 [POLYLINE]
@@ -58136,7 +58136,7 @@ Numbers2=6,E,46,64,O,49,77
 Numbers3=11,E,66,112,O,81,121
 [END]
 
-;sufi=2030000084065
+;linzid=96120
 ;created=28/07/2008
 ;Auto-numbered=20090224
 [POLYLINE]
@@ -58152,7 +58152,7 @@ Nod2=14,4275,0
 Numbers1=0,E,58,64,O,29,11
 [END]
 
-;sufi=2030000083732
+;linzid=95946
 ;created=15/05/2008
 ;Auto-numbered=20090224
 [POLYLINE]
@@ -58170,7 +58170,7 @@ Numbers1=0,O,1,19,E,2,20
 Numbers2=5,O,31,53,E,20,36
 [END]
 
-;sufi=1030000006234
+;linzid=49610
 ;created=14/06/1991
 ;Auto-numbered=20090224
 [POLYLINE]
@@ -58185,7 +58185,7 @@ Nod1=0,4278,0
 Nod2=11,4279,0
 [END]
 
-;sufi=2030000083085
+;linzid=95697
 ;created=03/03/2008
 ;Auto-numbered=20090224
 [POLYLINE]
@@ -58201,7 +58201,7 @@ Nod2=1,1199,0
 Nod3=4,4282,0
 [END]
 
-;sufi=2030000083087
+;linzid=95698
 ;created=03/03/2008
 ;Auto-numbered=20090224
 [POLYLINE]
@@ -58216,7 +58216,7 @@ Nod1=0,1199,0
 Nod2=2,4495,0
 [END]
 
-;sufi=1030000199213
+;linzid=62066
 ;created=07/12/1999
 [POLYLINE]
 Type=0x6
@@ -58233,7 +58233,7 @@ Numbers1=0,O,1,157,E,2,156
 Numbers2=10,O,159,199,E,158,200
 [END]
 
-;sufi=1030000006327
+;linzid=49688
 [POLYLINE]
 Type=0x6
 Label=ARAWHATA RD
@@ -58247,7 +58247,7 @@ Nod2=1,4281,0
 Numbers1=0,O,1,31,E,2,32
 [END]
 
-;sufi=1030000006327
+;linzid=49688
 [POLYLINE]
 Type=0x6
 Label=ARAWHATA RD
@@ -58261,7 +58261,7 @@ Nod2=3,2911,0
 Numbers1=0,O,33,129,E,34,128
 [END]
 
-;sufi=2030000083634
+;linzid=95914
 ;created=07/05/2008
 [POLYLINE]
 Type=0xa
@@ -58276,7 +58276,7 @@ Nod2=11,4500,0
 Numbers1=0,O,1,37,E,2,38
 [END]
 
-;sufi=2030000083073
+;linzid=95688
 ;created=28/02/2008
 ;Auto-numbered=20090224
 [POLYLINE]
@@ -58292,7 +58292,7 @@ Nod2=3,4493,0
 Numbers1=0,O,1,35,E,2,34
 [END]
 
-;sufi=1030000055421
+;linzid=58765
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]10
@@ -58311,7 +58311,7 @@ Numbers3=10,E,1520,1450,O,1475,1475
 Label2=SPRINGBANK RD
 [END]
 
-;sufi=1030000206331
+;linzid=62361
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]10
@@ -58336,7 +58336,7 @@ Numbers5=49,E,470,18,O,421,95
 Label2=STATE HIGHWAY 10
 [END]
 
-;sufi=1030000006396
+;linzid=49747
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -58350,7 +58350,7 @@ Nod2=23,4252,0
 Label2=CAPE REINGA ROAD
 [END]
 
-;sufi=1030000006010
+;linzid=49425
 [POLYLINE]
 Type=0x5
 Label=WAIARE RD
@@ -58364,7 +58364,7 @@ Nod2=16,1593,0
 Numbers1=0,E,1220,934,O,1129,1129
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Walkway
@@ -58390,7 +58390,7 @@ Nod1=0,2848,0
 Nod2=1,277,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x6
 Label=Accessway
@@ -58430,7 +58430,7 @@ Nod2=2,4556,0
 Nod3=4,4651,0
 [END]
 
-;sufi=1030000206328
+;linzid=62358
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]10
@@ -58448,7 +58448,7 @@ Nod6=44,1481,0
 Label2=STATE HIGHWAY 10
 [END]
 
-;sufi=1030000016362
+;linzid=55789
 ;created=01/01/1970
 ;Auto-numbered=20090224
 [POLYLINE]
@@ -58464,7 +58464,7 @@ Nod2=3,4568,1
 Numbers1=0,O,263,275,N,-1,-1
 [END]
 
-;sufi=1030000016362
+;linzid=55789
 ;created=01/01/1970
 ;Auto-numbered=20090224
 [POLYLINE]
@@ -58480,7 +58480,7 @@ Nod2=14,4566,0
 Numbers1=0,O,305,333,E,344,344
 [END]
 
-;sufi=1030000006010
+;linzid=49425
 [POLYLINE]
 Type=0x5
 Label=WAIARE RD
@@ -58501,7 +58501,7 @@ Numbers2=2,O,53,249,E,54,262
 Numbers3=11,N,-1,-1,N,-1,-1
 [END]
 
-;sufi=1030000006027
+;linzid=59955
 ;
 [POLYLINE]
 Type=0xa
@@ -58519,7 +58519,7 @@ Numbers1=0,E,296,144,O,311,137
 Numbers2=17,N,-1,-1,N,-1,-1
 [END]
 
-;sufi=2030000084840
+;linzid=96471
 ;created=02/02/2009
 ;Auto-numbered=20091021
 [POLYLINE]
@@ -58534,7 +58534,7 @@ Nod1=0,4543,0
 Nod2=1,4576,0
 [END]
 
-;sufi=2030000084912
+;linzid=96504
 ;created=02/03/2009
 ;Auto-numbered=20091021
 [POLYLINE]
@@ -58550,7 +58550,7 @@ Nod2=3,4577,0
 Numbers1=0,O,5,17,N,-1,-1
 [END]
 
-;sufi=2030000084918
+;linzid=96507
 ;created=02/03/2009
 ;Auto-numbered=20091021
 [POLYLINE]
@@ -58567,7 +58567,7 @@ Nod3=11,4582,0
 Nod4=15,4580,0
 [END]
 
-;sufi=2030000084920
+;linzid=96508
 ;created=02/03/2009
 ;Auto-numbered=20091021
 [POLYLINE]
@@ -58582,7 +58582,7 @@ Nod1=0,4582,0
 Nod2=3,4548,0
 [END]
 
-;sufi=2030000084922
+;linzid=96509
 ;created=02/03/2009
 ;Auto-numbered=20091021
 [POLYLINE]
@@ -58597,7 +58597,7 @@ Nod1=0,4549,0
 Nod2=5,4581,0
 [END]
 
-;sufi=2030000084924
+;linzid=96510
 ;created=02/03/2009
 ;Auto-numbered=20091021
 [POLYLINE]
@@ -58612,7 +58612,7 @@ Nod1=0,4581,0
 Nod2=6,4550,0
 [END]
 
-;sufi=2030000085056
+;linzid=96572
 ;created=30/03/2009
 ;Auto-numbered=20091021
 [POLYLINE]
@@ -58628,7 +58628,7 @@ Nod2=1,4584,0
 Numbers1=0,O,3,1,N,-1,-1
 [END]
 
-;sufi=1030000005530
+;linzid=49036
 ;created=27/01/1988
 ;Auto-numbered=20091021
 [POLYLINE]
@@ -58644,7 +58644,7 @@ Nod2=14,1741,0
 Numbers1=0,O,145,19,E,150,10
 [END]
 
-;sufi=2030000085066
+;linzid=96574
 ;created=30/03/2009
 ;Auto-numbered=20091021
 [POLYLINE]
@@ -58659,7 +58659,7 @@ Nod1=0,4594,0
 Nod2=3,4588,0
 [END]
 
-;sufi=2030000085064
+;linzid=96575
 ;created=30/03/2009
 ;Auto-numbered=20091021
 [POLYLINE]
@@ -58675,7 +58675,7 @@ Nod2=3,4593,0
 Nod3=9,4588,0
 [END]
 
-;sufi=2030000085060
+;linzid=96579
 ;created=30/03/2009
 ;Auto-numbered=20091021
 [POLYLINE]
@@ -58690,7 +58690,7 @@ Nod1=0,4589,0
 Nod2=4,4590,0
 [END]
 
-;sufi=2030000085070
+;linzid=96578
 ;created=30/03/2009
 ;Auto-numbered=20091021
 [POLYLINE]
@@ -58706,7 +58706,7 @@ Nod2=6,4589,0
 Nod3=12,4587,0
 [END]
 
-;sufi=2030000085062
+;linzid=96576
 ;created=30/03/2009
 ;Auto-numbered=20091021
 [POLYLINE]
@@ -58721,7 +58721,7 @@ Nod1=0,4591,0
 Nod2=6,4592,0
 [END]
 
-;sufi=2030000085068
+;linzid=96577
 ;created=30/03/2009
 ;Auto-numbered=20091021
 [POLYLINE]
@@ -58736,7 +58736,7 @@ Nod1=0,4595,0
 Nod2=21,4592,0
 [END]
 
-;sufi=2030000085120
+;linzid=96605
 ;created=16/04/2009
 ;Auto-numbered=20091021
 [POLYLINE]
@@ -58752,7 +58752,7 @@ Nod2=3,4597,0
 Numbers1=0,E,2,8,O,3,27
 [END]
 
-;sufi=2030000085216
+;linzid=96651
 ;created=21/05/2009
 ;Auto-numbered=20091021
 [POLYLINE]
@@ -58768,7 +58768,7 @@ Nod2=3,4599,0
 Numbers1=0,O,3,11,E,2,6
 [END]
 
-;sufi=2030000085218
+;linzid=96650
 ;created=21/05/2009
 ;Auto-numbered=20091021
 [POLYLINE]
@@ -58783,7 +58783,7 @@ Nod1=0,4600,0
 Nod2=9,4601,0
 [END]
 
-;sufi=2030000085376
+;linzid=96688
 ;created=05/06/2009
 ;Auto-numbered=20091021
 [POLYLINE]
@@ -58799,7 +58799,7 @@ Nod2=18,4602,0
 Numbers1=0,O,21,1,E,22,2
 [END]
 
-;sufi=2030000085378
+;linzid=96687
 ;created=05/06/2009
 ;Auto-numbered=20091021
 [POLYLINE]
@@ -58815,7 +58815,7 @@ Nod2=4,4604,0
 Numbers1=0,O,7,1,E,10,2
 [END]
 
-;sufi=2030000085608
+;linzid=96799
 ;created=06/08/2009
 ;Auto-numbered=20091021
 [POLYLINE]
@@ -58830,7 +58830,7 @@ Nod1=0,4608,0
 Nod2=22,4662,0
 [END]
 
-;sufi=2030000085610
+;linzid=96798
 ;created=06/08/2009
 ;Auto-numbered=20091021
 [POLYLINE]
@@ -58845,7 +58845,7 @@ Nod1=0,4562,0
 Nod2=8,4606,0
 [END]
 
-;sufi=2030000085612
+;linzid=96797
 ;created=06/08/2009
 ;Auto-numbered=20091021
 [POLYLINE]
@@ -58860,7 +58860,7 @@ Nod1=0,4607,0
 Nod2=2,4563,0
 [END]
 
-;sufi=1030000006297
+;linzid=49663
 [POLYLINE]
 Type=0xa
 Label=SANDHILLS RD
@@ -58881,7 +58881,7 @@ Type=0xe
 Data0=(-35.44288,173.81608),(-35.44303,173.81823),(-35.44966,173.81683),(-35.45125,173.81698),(-35.45183,173.82171),(-35.45325,173.82197),(-35.45322,173.81950),(-35.45593,173.81840),(-35.45477,173.81721),(-35.45464,173.81628),(-35.45704,173.81550),(-35.45679,173.81370),(-35.45314,173.81448),(-35.45050,173.81344),(-35.44934,173.81361),(-35.44925,173.81486)
 [END]
 
-;sufi=2030000000648
+;linzid=90263
 [POLYLINE]
 Type=0xa
 Label=MATARAUA RD
@@ -58899,7 +58899,7 @@ Numbers2=21,O,975,1001,E,962,962
 Numbers3=23,O,1001,1203,E,1130,1130
 [END]
 
-;sufi=1030000006427
+;linzid=49773
 [POLYLINE]
 Type=0xa
 Label=LAKE RD
@@ -58913,7 +58913,7 @@ Nod2=1,396,0
 Numbers1=0,E,20,20,O,21,21
 [END]
 
-;sufi=1030000006568
+;linzid=49890
 [POLYLINE]
 Type=0x6
 Label=KAIMAUMAU RD
@@ -58932,7 +58932,7 @@ Label=Waitangi Forest
 Data0=(-35.22086,173.98472),(-35.22790,173.98387),(-35.23114,173.98178),(-35.23174,173.96997),(-35.26240,173.96783),(-35.26749,173.99850),(-35.27238,174.01588),(-35.26749,174.04017),(-35.26281,174.04135),(-35.25693,174.05609),(-35.25635,174.06825),(-35.25107,174.06680),(-35.24669,174.06167),(-35.24532,174.05064),(-35.23313,174.04646),(-35.22568,174.03993),(-35.22998,174.02899),(-35.23468,174.02206),(-35.22843,174.01959),(-35.22687,174.01399),(-35.22541,174.00035),(-35.22019,173.99374),(-35.21749,173.98941),(-35.21882,173.98730),(-35.22219,173.98750)
 [END]
 
-;sufi=1030000005754
+;linzid=49219
 [POLYLINE]
 Type=0x6
 Label=RICHARDSON ST
@@ -58946,7 +58946,7 @@ Nod2=1,4616,0
 Numbers1=0,O,7,5,E,8,8
 [END]
 
-;sufi=1030000005614
+;linzid=49104
 [POLYLINE]
 Type=0x6
 Label=THE STRAND
@@ -58963,7 +58963,7 @@ Nod4=6,2396,0
 Numbers1=0,O,27,13,N,-1,-1
 [END]
 
-;sufi=1030000005614
+;linzid=49104
 [POLYLINE]
 Type=0x6
 Label=THE STRAND
@@ -58978,7 +58978,7 @@ Nod2=4,3824,0
 Numbers1=0,N,-1,-1,O,29,49
 [END]
 
-;sufi=1030000006615
+;linzid=49930
 [POLYLINE]
 Type=0xa
 Label=OTURU RD
@@ -58992,7 +58992,7 @@ Nod2=10,477,0
 Numbers1=0,O,173,341,E,178,226
 [END]
 
-;sufi=1030000006529
+;linzid=49857
 [POLYLINE]
 Type=0xa
 Label=QUARRY RD
@@ -59006,7 +59006,7 @@ Nod2=3,456,0
 Numbers1=0,N,-1,-1,O,439,421
 [END]
 
-;sufi=1030000005544
+;linzid=49046
 [POLYLINE]
 Type=0xa
 Label=PURERUA RD
@@ -59020,7 +59020,7 @@ Nod2=6,1996,0
 Numbers1=0,O,955,1009,N,-1,-1
 [END]
 
-;sufi=1030000005424
+;linzid=48949
 [POLYLINE]
 Type=0xa
 Label=REDCLIFFS RD
@@ -59035,7 +59035,7 @@ Nod3=8,3865,0
 Numbers1=0,O,361,409,E,394,394
 [END]
 
-;sufi=1030000005474
+;linzid=59882
 [POLYLINE]
 Type=0x6
 Label=MANGAKARETU RD
@@ -59051,7 +59051,7 @@ Numbers1=0,E,66,64,O,69,53
 Numbers2=2,E,64,22,O,53,19
 [END]
 
-;sufi=1030000006010
+;linzid=49425
 [POLYLINE]
 Type=0x5
 Label=WAIARE RD
@@ -59065,7 +59065,7 @@ Nod2=9,1593,0
 Numbers1=0,N,-1,-1,N,-1,-1
 [END]
 
-;sufi=1030000005675
+;linzid=49154
 [POLYLINE]
 Type=0xa
 Label=LAKE RD
@@ -59081,7 +59081,7 @@ Numbers1=0,O,55,107,E,48,78
 Numbers2=17,O,473,473,N,-1,-1
 [END]
 
-;sufi=1030000006596
+;linzid=49914
 [POLYLINE]
 Type=0x6
 Label=WEKA ST
@@ -59095,7 +59095,7 @@ Nod2=3,4634,0
 Nod3=8,4633,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x6
 Label=POSEDIN WAY
@@ -59108,7 +59108,7 @@ Nod1=0,4634,0
 Nod2=3,4635,0
 [END]
 
-;sufi=1030000006357
+;linzid=49714
 [POLYLINE]
 Type=0x6
 Label=PAIRATAHI RD
@@ -59122,7 +59122,7 @@ Nod2=10,4013,0
 Numbers1=0,E,264,106,O,271,15
 [END]
 
-;sufi=1030000006062
+;linzid=49468
 [POLYLINE]
 Type=0x6
 Label=HOREKE RD
@@ -59140,7 +59140,7 @@ Numbers2=4,O,3265,3429,E,3244,3438
 Numbers3=27,O,3571,3715,E,3580,3760
 [END]
 
-;sufi=1030000006062
+;linzid=49468
 [POLYLINE]
 Type=0xa
 Label=HOREKE RD
@@ -59154,7 +59154,7 @@ Nod2=14,1249,0
 Numbers1=0,E,1728,1622,O,1737,1617
 [END]
 
-;sufi=1030000003605
+;linzid=48289
 [POLYLINE]
 Type=0xa
 Label=POKAPU RD
@@ -59168,7 +59168,7 @@ Nod2=22,1910,0
 Numbers1=0,O,819,819,E,718,718
 [END]
 
-;sufi=1030000005725
+;linzid=49195
 ;
 [POLYLINE]
 Type=0x5
@@ -59215,7 +59215,7 @@ Nod2=2,4647,0
 Nod3=4,4648,0
 [END]
 
-;sufi=1030000006626
+;linzid=49939
 [POLYLINE]
 Type=0xa
 Label=OKURA BAY RD
@@ -59229,7 +59229,7 @@ Nod2=9,3735,0
 Numbers1=0,O,109,147,E,92,104
 [END]
 
-;sufi=1030000005963
+;linzid=90324
 [POLYLINE]
 Type=0x6
 Label=MANGATAWA RD
@@ -59243,7 +59243,7 @@ Nod2=6,1321,0
 Numbers1=0,E,88,12,O,91,59
 [END]
 
-;sufi=1030000006589
+;linzid=49907
 [POLYLINE]
 Type=0xa
 Label=WATERFRONT RD
@@ -59256,7 +59256,7 @@ Nod1=0,4657,0
 Nod2=3,4612,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x6
 Label=Ferry ramp
@@ -59276,7 +59276,7 @@ EndLevel=1
 Data0=(-35.40320,173.80740)
 [END]
 
-;sufi=1030000005857
+;linzid=91009
 [POLYLINE]
 Type=0x5
 Label=RUSSELL RD
@@ -59290,7 +59290,7 @@ Nod2=108,2608,0
 Numbers1=0,E,3878,3692,O,3809,3527
 [END]
 
-;sufi=2030000000678
+;linzid=90315
 [POLYLINE]
 Type=0xa
 Label=RUSSELL WHAKAPARA RD
@@ -59306,7 +59306,7 @@ Nod4=85,2560,0
 Numbers1=0,N,-1,-1,N,-1,-1
 [END]
 
-;sufi=1030000016508
+;linzid=55895
 [POLYLINE]
 Type=0x6
 Label=HAILES RD
@@ -59319,7 +59319,7 @@ Nod1=0,4660,0
 Nod2=6,2678,0
 [END]
 
-;sufi=2030000085608
+;linzid=96799
 ;created=06/08/2009
 ;Auto-numbered=20091021
 [POLYLINE]
@@ -59334,7 +59334,7 @@ Nod1=0,4663,0
 Nod2=1,3280,0
 [END]
 
-;sufi=1030000016731
+;linzid=60985
 [POLYLINE]
 Type=0x5
 Label=MARUA RD
@@ -59349,7 +59349,7 @@ Nod3=8,3788,1
 Numbers1=2,N,-1,-1,N,-1,-1
 [END]
 
-;sufi=1030000006436
+;linzid=49782
 ;
 [POLYLINE]
 Type=0x6
@@ -59366,7 +59366,7 @@ Numbers1=0,E,2,8,O,19,19
 Numbers2=4,E,44,46,O,41,43
 [END]
 
-;sufi=1030000005741
+;linzid=49209
 [POLYLINE]
 Type=0xa
 Label=TOWAI RD
@@ -59386,7 +59386,7 @@ Numbers3=29,N,-1,-1,N,-1,-1
 Numbers4=35,E,32,4,N,-1,-1
 [END]
 
-;sufi=2030000005129
+;linzid=94223
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -59403,7 +59403,7 @@ Numbers2=1,E,7590,7438,O,7589,7491
 Label2=STATE HIGHWAY 1
 [END]
 
-;sufi=1030000194179
+;linzid=59516
 [POLYLINE]
 Type=0x6
 Label=SPINNAKER PT
@@ -59417,7 +59417,7 @@ Nod2=11,4121,0
 Numbers1=0,B,11,16,B,26,18
 [END]
 
-;sufi=1030000006566
+;linzid=49888
 [POLYLINE]
 Type=0x6
 Label=MABEL THORBURN PL
@@ -59431,7 +59431,7 @@ Nod2=10,1035,0
 Numbers1=0,O,9,3,N,-1,-1
 [END]
 
-;sufi=1030000203596
+;linzid=62327
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -59449,7 +59449,7 @@ Numbers2=2,E,40,2,O,35,1
 Label2=GILLIES ST
 [END]
 
-;sufi=1030000203596
+;linzid=62327
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -59467,7 +59467,7 @@ Numbers2=1,N,-1,-1,N,-1,-1
 Label2=GILLIES ST
 [END]
 
-;sufi=1030000006158
+;linzid=49547
 [POLYLINE]
 Type=0x6
 Label=STATION RD
@@ -59486,7 +59486,7 @@ Numbers2=3,E,34,34,O,43,69
 Numbers3=6,N,-1,-1,O,71,83
 [END]
 
-;sufi=1030000006174
+;linzid=49561
 [POLYLINE]
 Type=0x6
 Label=THORPE RD
@@ -59502,7 +59502,7 @@ Numbers1=0,O,5,33,N,-1,-1
 Numbers2=4,O,35,69,N,-1,-1
 [END]
 
-;sufi=1030000006399
+;linzid=49750
 [POLYLINE]
 Type=0x6
 Label=WRATHALL RD
@@ -59522,7 +59522,7 @@ Numbers3=9,E,42,62,O,45,71
 Numbers4=10,N,-1,-1,N,-1,-1
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Matapouri Headland Walkway
@@ -59535,7 +59535,7 @@ Nod1=0,4676,0
 Nod2=223,4675,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x6
 Label=Road
@@ -59548,7 +59548,7 @@ Nod2=8,4680,0
 Nod3=17,4677,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x6
 Label=Road
@@ -59562,7 +59562,7 @@ Nod3=9,4682,0
 Nod4=17,4683,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x6
 Label=Road
@@ -59574,7 +59574,7 @@ Nod1=0,4681,0
 Nod2=11,4682,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x6
 Label=Road
@@ -59601,7 +59601,7 @@ EndLevel=1
 Data0=(-35.02879,173.91415)
 [END]
 
-;sufi=1030000016716
+;linzid=56055
 [POLYLINE]
 Type=0xa
 Label=OHAWINI RD
@@ -59614,7 +59614,7 @@ Nod2=22,3581,0
 Nod3=29,4685,0
 [END]
 
-;sufi=1030000006247
+;linzid=49622
 [POLYLINE]
 Type=0x6
 Label=CHURCH RD
@@ -59634,7 +59634,7 @@ Numbers3=16,O,5,5,E,18,6
 [END]
 
 ;Auto-numbered=20100713
-;sufi=2030000085932
+;linzid=96963
 ;created=11/12/2009
 [POLYLINE]
 Type=0x6
@@ -59649,7 +59649,7 @@ Nod2=6,4689,0
 Nod3=7,4702,0
 [END]
 
-;sufi=2030000083282
+;linzid=95783
 ;created=20/03/2008
 ;Auto-numbered=20090224
 [POLYLINE]
@@ -59665,7 +59665,7 @@ Nod2=7,4499,0
 [END]
 
 ;Auto-numbered=20100713
-;sufi=2030000085942
+;linzid=96967
 ;created=17/12/2009
 [POLYLINE]
 Type=0x6
@@ -59679,7 +59679,7 @@ Nod1=0,4564,0
 Nod2=1,2193,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Walway to Rainbow Falls
@@ -59691,7 +59691,7 @@ Nod1=0,4691,0
 Nod2=18,4690,0
 [END]
 
-;sufi=1030000005741
+;linzid=49209
 [POLYLINE]
 Type=0xa
 Label=TOWAI RD
@@ -59705,7 +59705,7 @@ Nod2=6,2342,0
 Numbers1=0,E,400,350,O,395,357
 [END]
 
-;sufi=1030000005856
+;linzid=59933
 [POLYLINE]
 Type=0x6
 Label=RUAPEKAPEKA RD
@@ -59719,7 +59719,7 @@ Nod2=14,2254,0
 Numbers1=0,O,1703,1751,E,1482,1750
 [END]
 
-;sufi=1030000005638
+;linzid=49124
 [POLYLINE]
 Type=0x6
 Label=BOWEN ST
@@ -59733,7 +59733,7 @@ Nod2=1,2210,0
 Numbers1=0,E,6,4,O,5,1
 [END]
 
-;sufi=1030000005446
+;linzid=48965
 [POLYLINE]
 Type=0x6
 Label=HOSPITAL RD
@@ -59749,7 +59749,7 @@ Numbers1=0,E,24,12,O,21,15
 Numbers2=4,E,8,2,O,1,1
 [END]
 
-;sufi=1030000005426
+;linzid=48951
 [POLYLINE]
 Type=0xa
 Label=SMEATH RD
@@ -59763,7 +59763,7 @@ Nod2=5,3923,0
 Numbers1=0,E,16,6,O,19,5
 [END]
 
-;sufi=1030000005797
+;linzid=49255
 [POLYLINE]
 Type=0x6
 Label=CHISWELL CRES
@@ -59778,7 +59778,7 @@ Nod2=10,2225,0
 Nod3=12,2208,0
 [END]
 
-;sufi=1030000005813
+;linzid=49267
 [POLYLINE]
 Type=0x6
 Label=COMMERCIAL ST
@@ -59796,7 +59796,7 @@ Numbers2=1,O,9,25,E,8,22
 Numbers3=4,N,-1,-1,E,24,24
 [END]
 
-;sufi=1030000203596
+;linzid=62327
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -59810,7 +59810,7 @@ Nod2=3,2232,0
 Label2=STATE HIGHWAY 1
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -59822,7 +59822,7 @@ Nod2=28,2767,0
 Nod3=42,4717,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -59833,7 +59833,7 @@ Nod1=0,4718,0
 Nod2=10,4719,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -59844,7 +59844,7 @@ Nod1=0,4720,0
 Nod2=26,4721,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -59855,7 +59855,7 @@ Nod1=0,4722,0
 Nod2=16,4723,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -59866,7 +59866,7 @@ Nod1=0,4724,0
 Nod2=28,4725,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -59877,7 +59877,7 @@ Nod1=0,4726,0
 Nod2=20,2653,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -59888,7 +59888,7 @@ Nod1=0,4727,0
 Nod2=12,4728,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -59899,7 +59899,7 @@ Nod1=0,4729,0
 Nod2=10,4721,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -59910,7 +59910,7 @@ Nod1=0,4730,0
 Nod2=25,4731,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -59921,7 +59921,7 @@ Nod1=0,4732,0
 Nod2=7,4733,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -59932,7 +59932,7 @@ Nod1=0,4721,0
 Nod2=3,4734,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -59943,7 +59943,7 @@ Nod1=0,4736,0
 Nod2=117,4737,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -59954,7 +59954,7 @@ Nod1=0,2666,0
 Nod2=34,2667,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -59965,7 +59965,7 @@ Nod1=0,4738,0
 Nod2=30,2669,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -59976,7 +59976,7 @@ Nod1=0,2670,0
 Nod2=15,4496,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -59987,7 +59987,7 @@ Nod1=0,4740,0
 Nod2=13,4741,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -59998,7 +59998,7 @@ Nod1=0,4742,0
 Nod2=18,4743,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60009,7 +60009,7 @@ Nod1=0,4744,0
 Nod2=15,4745,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60020,7 +60020,7 @@ Nod1=0,4744,0
 Nod2=27,4745,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60031,7 +60031,7 @@ Nod1=0,4746,0
 Nod2=45,4747,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60042,7 +60042,7 @@ Nod1=0,4748,0
 Nod2=42,4749,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60053,7 +60053,7 @@ Nod1=0,4750,0
 Nod2=34,2680,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60064,7 +60064,7 @@ Nod1=0,2681,0
 Nod2=13,2682,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60075,7 +60075,7 @@ Nod1=0,4751,0
 Nod2=9,6030,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60086,7 +60086,7 @@ Nod1=0,4745,0
 Nod2=7,2684,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60097,7 +60097,7 @@ Nod1=0,4752,0
 Nod2=7,4753,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60108,7 +60108,7 @@ Nod1=0,4754,0
 Nod2=5,4753,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60119,7 +60119,7 @@ Nod1=0,4755,0
 Nod2=16,4756,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60130,7 +60130,7 @@ Nod1=0,4757,0
 Nod2=11,4756,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60141,7 +60141,7 @@ Nod1=0,2686,0
 Nod2=3,2687,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60152,7 +60152,7 @@ Nod1=0,4753,0
 Nod2=7,4758,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60163,7 +60163,7 @@ Nod1=0,4754,0
 Nod2=7,4759,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60174,7 +60174,7 @@ Nod1=0,4760,0
 Nod2=6,4761,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60185,7 +60185,7 @@ Nod1=0,4762,0
 Nod2=2,4744,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60196,7 +60196,7 @@ Nod1=0,4757,0
 Nod2=1,4755,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60207,7 +60207,7 @@ Nod1=0,4763,0
 Nod2=3,4752,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60218,7 +60218,7 @@ Nod1=0,4752,0
 Nod2=3,4757,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60229,7 +60229,7 @@ Nod1=0,4755,0
 Nod2=3,2694,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60240,7 +60240,7 @@ Nod1=0,4756,0
 Nod2=5,4754,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60251,7 +60251,7 @@ Nod1=0,4764,0
 Nod2=6,4765,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60262,7 +60262,7 @@ Nod1=0,2696,0
 Nod2=100,4766,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60273,7 +60273,7 @@ Nod1=0,4767,0
 Nod2=56,4768,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60284,7 +60284,7 @@ Nod1=0,4769,0
 Nod2=162,4770,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60295,7 +60295,7 @@ Nod1=0,4761,0
 Nod2=28,4771,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60306,7 +60306,7 @@ Nod1=0,4772,0
 Nod2=71,4773,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60317,7 +60317,7 @@ Nod1=0,4774,0
 Nod2=35,4775,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60328,7 +60328,7 @@ Nod1=0,4765,0
 Nod2=165,4771,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60339,7 +60339,7 @@ Nod1=0,4776,0
 Nod2=58,4773,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60350,7 +60350,7 @@ Nod1=0,2705,0
 Nod2=75,4777,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60361,7 +60361,7 @@ Nod1=0,4796,0
 Nod2=12,4797,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60372,7 +60372,7 @@ Nod1=0,4770,0
 Nod2=9,4767,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60383,7 +60383,7 @@ Nod1=0,4770,0
 Nod2=18,4767,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60394,7 +60394,7 @@ Nod1=0,4773,0
 Nod2=10,4771,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60405,7 +60405,7 @@ Nod1=0,4798,0
 Nod2=12,4799,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60416,7 +60416,7 @@ Nod1=0,4775,0
 Nod2=5,4800,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60427,7 +60427,7 @@ Nod1=0,4775,0
 Nod2=2,4804,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60438,7 +60438,7 @@ Nod1=0,4805,0
 Nod2=18,4811,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60449,7 +60449,7 @@ Nod1=0,4812,0
 Nod2=3,4821,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60460,7 +60460,7 @@ Nod1=0,4822,0
 Nod2=4,4823,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60472,7 +60472,7 @@ Nod2=54,4825,0
 Nod3=84,4826,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Kaitaia Walkway
@@ -60485,7 +60485,7 @@ Nod2=9,2899,0
 Nod3=94,3893,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60497,7 +60497,7 @@ Nod2=36,2926,0
 Nod3=79,4830,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60508,7 +60508,7 @@ Nod1=0,4831,0
 Nod2=79,4832,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60519,7 +60519,7 @@ Nod1=0,4833,0
 Nod2=32,4834,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60530,7 +60530,7 @@ Nod1=0,4835,0
 Nod2=37,4836,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60541,7 +60541,7 @@ Nod1=0,4837,0
 Nod2=54,4838,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60552,7 +60552,7 @@ Nod1=0,4839,0
 Nod2=44,4840,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60563,7 +60563,7 @@ Nod1=0,4841,0
 Nod2=32,900,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60574,7 +60574,7 @@ Nod1=0,4842,0
 Nod2=51,873,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60586,7 +60586,7 @@ Nod2=25,4845,0
 Nod3=47,4844,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60597,7 +60597,7 @@ Nod1=0,4845,0
 Nod2=36,4846,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60608,7 +60608,7 @@ Nod1=0,4847,0
 Nod2=25,4848,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60619,7 +60619,7 @@ Nod1=0,4849,0
 Nod2=47,4850,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60630,7 +60630,7 @@ Nod1=0,6038,0
 Nod2=33,894,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60641,7 +60641,7 @@ Nod1=0,4852,0
 Nod2=34,2958,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60652,7 +60652,7 @@ Nod1=0,4854,0
 Nod2=52,4855,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60663,7 +60663,7 @@ Nod1=0,4856,0
 Nod2=47,2923,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60674,7 +60674,7 @@ Nod1=0,4858,0
 Nod2=22,908,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60685,7 +60685,7 @@ Nod1=0,4859,0
 Nod2=16,4860,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60696,7 +60696,7 @@ Nod1=0,4861,0
 Nod2=54,4862,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60707,7 +60707,7 @@ Nod1=0,4836,0
 Nod2=15,4834,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60718,7 +60718,7 @@ Nod1=0,4863,0
 Nod2=22,4836,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60729,7 +60729,7 @@ Nod1=0,4864,0
 Nod2=23,4865,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60740,7 +60740,7 @@ Nod1=0,4866,0
 Nod2=14,4867,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60751,7 +60751,7 @@ Nod1=0,881,0
 Nod2=15,4868,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60762,7 +60762,7 @@ Nod1=0,899,0
 Nod2=35,4869,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60773,7 +60773,7 @@ Nod1=0,899,0
 Nod2=26,900,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60784,7 +60784,7 @@ Nod1=0,4870,0
 Nod2=16,899,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60795,7 +60795,7 @@ Nod1=0,900,0
 Nod2=3,6001,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Mangamuka Gorge Walkway
@@ -60807,7 +60807,7 @@ Nod1=0,4825,0
 Nod2=10,4871,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60818,7 +60818,7 @@ Nod1=0,4872,0
 Nod2=24,4873,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60829,7 +60829,7 @@ Nod1=0,4874,0
 Nod2=15,4875,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60840,7 +60840,7 @@ Nod1=0,2769,0
 Nod2=29,2770,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60851,7 +60851,7 @@ Nod1=0,4876,0
 Nod2=26,4877,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60862,7 +60862,7 @@ Nod1=0,6032,0
 Nod2=22,4879,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60873,7 +60873,7 @@ Nod1=0,4880,0
 Nod2=45,4881,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60884,7 +60884,7 @@ Nod1=0,4882,0
 Nod2=33,4883,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60895,7 +60895,7 @@ Nod1=0,4884,0
 Nod2=34,909,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60906,7 +60906,7 @@ Nod1=0,4885,0
 Nod2=26,4886,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60917,7 +60917,7 @@ Nod1=0,4887,0
 Nod2=25,4888,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60928,7 +60928,7 @@ Nod1=0,890,0
 Nod2=27,888,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60939,7 +60939,7 @@ Nod1=0,4889,0
 Nod2=39,4890,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60950,7 +60950,7 @@ Nod1=0,4891,0
 Nod2=19,4892,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60961,7 +60961,7 @@ Nod1=0,892,0
 Nod2=21,894,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60972,7 +60972,7 @@ Nod1=0,4893,0
 Nod2=18,4892,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60983,7 +60983,7 @@ Nod1=0,4894,0
 Nod2=20,4895,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -60994,7 +60994,7 @@ Nod1=0,4897,0
 Nod2=27,4898,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61005,7 +61005,7 @@ Nod1=0,4899,0
 Nod2=29,4900,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61016,7 +61016,7 @@ Nod1=0,4901,0
 Nod2=47,894,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61027,7 +61027,7 @@ Nod1=0,6034,0
 Nod2=21,4903,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61038,7 +61038,7 @@ Nod1=0,4904,0
 Nod2=26,4905,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61049,7 +61049,7 @@ Nod1=0,6033,0
 Nod2=30,4907,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61060,7 +61060,7 @@ Nod1=0,4898,0
 Nod2=25,4908,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61071,7 +61071,7 @@ Nod1=0,4909,0
 Nod2=11,4910,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61082,7 +61082,7 @@ Nod1=0,875,0
 Nod2=9,4911,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61093,7 +61093,7 @@ Nod1=0,4912,0
 Nod2=12,875,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61104,7 +61104,7 @@ Nod1=0,877,0
 Nod2=17,875,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61115,7 +61115,7 @@ Nod1=0,4913,0
 Nod2=12,877,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61126,7 +61126,7 @@ Nod1=0,4834,0
 Nod2=17,4914,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61137,7 +61137,7 @@ Nod1=0,4915,0
 Nod2=18,881,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61148,7 +61148,7 @@ Nod1=0,4916,0
 Nod2=17,881,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61159,7 +61159,7 @@ Nod1=0,2804,0
 Nod2=11,873,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61170,7 +61170,7 @@ Nod1=0,4917,0
 Nod2=11,4844,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61181,7 +61181,7 @@ Nod1=0,4844,0
 Nod2=8,4918,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61192,7 +61192,7 @@ Nod1=0,4919,0
 Nod2=15,4920,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61203,7 +61203,7 @@ Nod1=0,4885,0
 Nod2=29,4921,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61214,7 +61214,7 @@ Nod1=0,4922,0
 Nod2=9,4923,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61225,7 +61225,7 @@ Nod1=0,4924,0
 Nod2=13,4925,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61236,7 +61236,7 @@ Nod1=0,4926,0
 Nod2=11,892,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61247,7 +61247,7 @@ Nod1=0,882,0
 Nod2=10,4927,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61258,7 +61258,7 @@ Nod1=0,4927,0
 Nod2=23,882,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61269,7 +61269,7 @@ Nod1=0,882,0
 Nod2=24,4928,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61280,7 +61280,7 @@ Nod1=0,2933,0
 Nod2=10,4931,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61291,7 +61291,7 @@ Nod1=0,4932,0
 Nod2=14,4933,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61302,7 +61302,7 @@ Nod1=0,877,0
 Nod2=7,4934,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61313,7 +61313,7 @@ Nod1=0,4935,0
 Nod2=5,4936,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61324,7 +61324,7 @@ Nod1=0,873,0
 Nod2=4,4937,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61335,7 +61335,7 @@ Nod1=0,892,0
 Nod2=9,4892,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61346,7 +61346,7 @@ Nod1=0,4940,0
 Nod2=3,6031,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61357,7 +61357,7 @@ Nod1=0,4941,0
 Nod2=2,4942,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61368,7 +61368,7 @@ Nod1=0,4943,0
 Nod2=1,4885,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61379,7 +61379,7 @@ Nod1=0,4924,0
 Nod2=1,4927,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61390,7 +61390,7 @@ Nod1=0,4898,0
 Nod2=2,4945,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Mangamuka Gorge Walkway
@@ -61403,7 +61403,7 @@ Nod2=79,6039,0
 Nod3=120,4946,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61415,7 +61415,7 @@ Nod2=44,4948,0
 Nod3=68,4949,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61426,7 +61426,7 @@ Nod1=0,4950,0
 Nod2=61,4951,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61437,7 +61437,7 @@ Nod1=0,961,0
 Nod2=75,4952,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61448,7 +61448,7 @@ Nod1=0,4953,0
 Nod2=84,4954,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61459,7 +61459,7 @@ Nod1=0,4955,0
 Nod2=49,4956,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61470,7 +61470,7 @@ Nod1=0,4957,0
 Nod2=71,4958,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61481,7 +61481,7 @@ Nod1=0,4959,0
 Nod2=135,4960,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61492,7 +61492,7 @@ Nod1=0,4961,0
 Nod2=96,4962,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61503,7 +61503,7 @@ Nod1=0,4965,0
 Nod2=73,2970,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61515,7 +61515,7 @@ Nod2=44,3003,0
 Nod3=63,4968,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61526,7 +61526,7 @@ Nod1=0,4969,0
 Nod2=45,4970,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61537,7 +61537,7 @@ Nod1=0,4971,0
 Nod2=73,4972,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61549,7 +61549,7 @@ Nod2=42,3082,0
 Nod3=44,4976,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61560,7 +61560,7 @@ Nod1=0,4977,0
 Nod2=68,4978,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61571,7 +61571,7 @@ Nod1=0,4979,0
 Nod2=30,4980,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61582,7 +61582,7 @@ Nod1=0,4948,0
 Nod2=31,4981,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61593,7 +61593,7 @@ Nod1=0,4982,0
 Nod2=23,4983,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61604,7 +61604,7 @@ Nod1=0,4984,0
 Nod2=38,4983,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61615,7 +61615,7 @@ Nod1=0,4985,0
 Nod2=32,4986,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61626,7 +61626,7 @@ Nod1=0,4987,0
 Nod2=18,4988,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61637,7 +61637,7 @@ Nod1=0,4989,0
 Nod2=46,4990,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61648,7 +61648,7 @@ Nod1=0,4991,0
 Nod2=40,4992,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61659,7 +61659,7 @@ Nod1=0,4994,0
 Nod2=55,4993,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61670,7 +61670,7 @@ Nod1=0,4996,0
 Nod2=29,2868,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61681,7 +61681,7 @@ Nod1=0,2869,0
 Nod2=52,4994,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61692,7 +61692,7 @@ Nod1=0,4997,0
 Nod2=24,1243,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61703,7 +61703,7 @@ Nod1=0,4999,0
 Nod2=27,3128,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61714,7 +61714,7 @@ Nod1=0,5001,0
 Nod2=70,5002,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61725,7 +61725,7 @@ Nod1=0,5003,0
 Nod2=37,5001,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61736,7 +61736,7 @@ Nod1=0,5004,0
 Nod2=48,5005,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61747,7 +61747,7 @@ Nod1=0,5006,0
 Nod2=50,5007,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61758,7 +61758,7 @@ Nod1=0,5008,0
 Nod2=32,5009,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61769,7 +61769,7 @@ Nod1=0,5010,0
 Nod2=42,5011,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61780,7 +61780,7 @@ Nod1=0,5012,0
 Nod2=58,5013,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61791,7 +61791,7 @@ Nod1=0,5014,0
 Nod2=22,5015,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61802,7 +61802,7 @@ Nod1=0,5016,0
 Nod2=29,4969,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61813,7 +61813,7 @@ Nod1=0,5017,0
 Nod2=53,5018,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61824,7 +61824,7 @@ Nod1=0,5017,0
 Nod2=53,5019,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61836,7 +61836,7 @@ Nod2=10,5021,0
 Nod3=83,5022,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61847,7 +61847,7 @@ Nod1=0,2888,0
 Nod2=67,5023,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61858,7 +61858,7 @@ Nod1=0,5024,0
 Nod2=29,5025,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61869,7 +61869,7 @@ Nod1=0,5026,0
 Nod2=61,5027,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61880,7 +61880,7 @@ Nod1=0,5028,0
 Nod2=30,5029,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61891,7 +61891,7 @@ Nod1=0,5030,0
 Nod2=48,5338,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61902,7 +61902,7 @@ Nod1=0,5032,0
 Nod2=55,5030,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61913,7 +61913,7 @@ Nod1=0,5033,0
 Nod2=43,5034,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61924,7 +61924,7 @@ Nod1=0,5035,0
 Nod2=59,1018,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61935,7 +61935,7 @@ Nod1=0,2896,0
 Nod2=86,5036,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61946,7 +61946,7 @@ Nod1=0,5021,0
 Nod2=55,5037,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61957,7 +61957,7 @@ Nod1=0,1060,0
 Nod2=38,5038,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61968,7 +61968,7 @@ Nod1=0,5039,0
 Nod2=88,5040,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61979,7 +61979,7 @@ Nod1=0,5041,0
 Nod2=71,5042,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -61990,7 +61990,7 @@ Nod1=0,1024,0
 Nod2=42,5043,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62001,7 +62001,7 @@ Nod1=0,5043,0
 Nod2=44,5044,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62012,7 +62012,7 @@ Nod1=0,5042,0
 Nod2=40,5045,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62023,7 +62023,7 @@ Nod1=0,5046,0
 Nod2=46,5047,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62034,7 +62034,7 @@ Nod1=0,5038,0
 Nod2=25,4972,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62045,7 +62045,7 @@ Nod1=0,5050,0
 Nod2=46,5051,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62056,7 +62056,7 @@ Nod1=0,5052,0
 Nod2=24,5053,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62067,7 +62067,7 @@ Nod1=0,5054,0
 Nod2=42,5055,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62078,7 +62078,7 @@ Nod1=0,3063,0
 Nod2=72,5059,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62089,7 +62089,7 @@ Nod1=0,5060,0
 Nod2=32,1023,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62100,7 +62100,7 @@ Nod1=0,5061,0
 Nod2=84,1023,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62111,7 +62111,7 @@ Nod1=0,5062,0
 Nod2=30,5063,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62122,7 +62122,7 @@ Nod1=0,2909,0
 Nod2=31,5062,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62133,7 +62133,7 @@ Nod1=0,5064,0
 Nod2=52,3992,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62144,7 +62144,7 @@ Nod1=0,5066,0
 Nod2=51,3874,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62155,7 +62155,7 @@ Nod1=0,908,0
 Nod2=26,6000,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62166,7 +62166,7 @@ Nod1=0,5070,0
 Nod2=19,5071,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62177,7 +62177,7 @@ Nod1=0,5072,0
 Nod2=34,5073,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62188,7 +62188,7 @@ Nod1=0,5074,0
 Nod2=13,5075,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62199,7 +62199,7 @@ Nod1=0,5076,0
 Nod2=20,5077,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62210,7 +62210,7 @@ Nod1=0,5078,0
 Nod2=15,5077,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62221,7 +62221,7 @@ Nod1=0,5079,0
 Nod2=19,5080,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62232,7 +62232,7 @@ Nod1=0,5082,0
 Nod2=32,961,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62243,7 +62243,7 @@ Nod1=0,4958,0
 Nod2=20,5085,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62254,7 +62254,7 @@ Nod1=0,5086,0
 Nod2=27,5087,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62265,7 +62265,7 @@ Nod1=0,5088,0
 Nod2=41,5089,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62276,7 +62276,7 @@ Nod1=0,5090,0
 Nod2=15,5089,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62287,7 +62287,7 @@ Nod1=0,4959,0
 Nod2=67,4961,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62298,7 +62298,7 @@ Nod1=0,5092,0
 Nod2=22,4961,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62310,7 +62310,7 @@ Nod2=58,5093,0
 Nod3=72,5094,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62321,7 +62321,7 @@ Nod1=0,5095,0
 Nod2=31,5096,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62332,7 +62332,7 @@ Nod1=0,5097,0
 Nod2=35,3016,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62343,7 +62343,7 @@ Nod1=0,5099,0
 Nod2=40,5100,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62354,7 +62354,7 @@ Nod1=0,5001,0
 Nod2=21,5101,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62365,7 +62365,7 @@ Nod1=0,5102,0
 Nod2=69,5103,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62376,7 +62376,7 @@ Nod1=0,5104,0
 Nod2=24,5105,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62387,7 +62387,7 @@ Nod1=0,5106,0
 Nod2=20,5105,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62398,7 +62398,7 @@ Nod1=0,5024,0
 Nod2=24,5107,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62409,7 +62409,7 @@ Nod1=0,5108,0
 Nod2=9,5109,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62420,7 +62420,7 @@ Nod1=0,5011,0
 Nod2=21,5110,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62431,7 +62431,7 @@ Nod1=0,5011,0
 Nod2=32,5111,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62442,7 +62442,7 @@ Nod1=0,5112,0
 Nod2=43,5113,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62453,7 +62453,7 @@ Nod1=0,5114,0
 Nod2=17,5112,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62464,7 +62464,7 @@ Nod1=0,5115,0
 Nod2=15,5114,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62475,7 +62475,7 @@ Nod1=0,5116,0
 Nod2=19,5108,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62486,7 +62486,7 @@ Nod1=0,5117,0
 Nod2=17,5118,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62497,7 +62497,7 @@ Nod1=0,5118,0
 Nod2=10,5120,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62508,7 +62508,7 @@ Nod1=0,5121,0
 Nod2=21,5122,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62519,7 +62519,7 @@ Nod1=0,5123,0
 Nod2=27,5122,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62530,7 +62530,7 @@ Nod1=0,5122,0
 Nod2=20,5123,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62541,7 +62541,7 @@ Nod1=0,5123,0
 Nod2=17,5124,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62552,7 +62552,7 @@ Nod1=0,5125,0
 Nod2=40,5126,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62563,7 +62563,7 @@ Nod1=0,5127,0
 Nod2=28,5128,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62574,7 +62574,7 @@ Nod1=0,5129,0
 Nod2=21,5130,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62585,7 +62585,7 @@ Nod1=0,5054,0
 Nod2=33,5131,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62596,7 +62596,7 @@ Nod1=0,4968,0
 Nod2=20,5132,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62607,7 +62607,7 @@ Nod1=0,5133,0
 Nod2=19,5134,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62618,7 +62618,7 @@ Nod1=0,5134,0
 Nod2=15,1008,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62629,7 +62629,7 @@ Nod1=0,5134,0
 Nod2=8,5135,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62640,7 +62640,7 @@ Nod1=0,5136,0
 Nod2=60,4962,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62652,7 +62652,7 @@ Nod2=14,3045,0
 Nod3=40,5138,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62663,7 +62663,7 @@ Nod1=0,5012,0
 Nod2=47,5022,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62674,7 +62674,7 @@ Nod1=0,5141,0
 Nod2=20,5142,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62685,7 +62685,7 @@ Nod1=0,5143,0
 Nod2=30,5020,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62696,7 +62696,7 @@ Nod1=0,5144,0
 Nod2=42,5019,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62707,7 +62707,7 @@ Nod1=0,5144,0
 Nod2=21,5019,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62718,7 +62718,7 @@ Nod1=0,5145,0
 Nod2=27,5146,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62729,7 +62729,7 @@ Nod1=0,5147,0
 Nod2=26,5148,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62740,7 +62740,7 @@ Nod1=0,5149,0
 Nod2=20,5038,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62751,7 +62751,7 @@ Nod1=0,5093,0
 Nod2=28,5025,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62762,7 +62762,7 @@ Nod1=0,5150,0
 Nod2=45,5151,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62773,7 +62773,7 @@ Nod1=0,5152,0
 Nod2=46,5153,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62784,7 +62784,7 @@ Nod1=0,5027,0
 Nod2=16,5154,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62795,7 +62795,7 @@ Nod1=0,5028,0
 Nod2=27,5027,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62806,7 +62806,7 @@ Nod1=0,5028,0
 Nod2=21,5155,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62817,7 +62817,7 @@ Nod1=0,5026,0
 Nod2=26,5156,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62828,7 +62828,7 @@ Nod1=0,5153,0
 Nod2=16,997,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62839,7 +62839,7 @@ Nod1=0,5157,0
 Nod2=32,5158,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62850,7 +62850,7 @@ Nod1=0,5159,0
 Nod2=27,5160,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62861,7 +62861,7 @@ Nod1=0,1020,0
 Nod2=18,5161,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62872,7 +62872,7 @@ Nod1=0,1018,0
 Nod2=16,5161,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62883,7 +62883,7 @@ Nod1=0,1018,0
 Nod2=36,1020,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62894,7 +62894,7 @@ Nod1=0,5162,0
 Nod2=50,980,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62905,7 +62905,7 @@ Nod1=0,980,0
 Nod2=28,5033,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62916,7 +62916,7 @@ Nod1=0,5163,0
 Nod2=41,5164,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62927,7 +62927,7 @@ Nod1=0,6020,0
 Nod2=13,5166,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62938,7 +62938,7 @@ Nod1=0,5167,0
 Nod2=18,6017,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62949,7 +62949,7 @@ Nod1=0,2896,0
 Nod2=13,5167,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62960,7 +62960,7 @@ Nod1=0,5170,0
 Nod2=28,5171,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62971,7 +62971,7 @@ Nod1=0,5172,0
 Nod2=27,5171,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62982,7 +62982,7 @@ Nod1=0,5173,0
 Nod2=39,6011,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -62993,7 +62993,7 @@ Nod1=0,5175,0
 Nod2=21,5176,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63004,7 +63004,7 @@ Nod1=0,1060,0
 Nod2=15,5177,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63015,7 +63015,7 @@ Nod1=0,4971,0
 Nod2=20,1060,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63026,7 +63026,7 @@ Nod1=0,3625,0
 Nod2=30,5179,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63037,7 +63037,7 @@ Nod1=0,5180,0
 Nod2=25,5181,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63048,7 +63048,7 @@ Nod1=0,5182,0
 Nod2=19,5046,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63059,7 +63059,7 @@ Nod1=0,5183,0
 Nod2=36,5046,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63070,7 +63070,7 @@ Nod1=0,5184,0
 Nod2=13,5185,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63081,7 +63081,7 @@ Nod1=0,5186,0
 Nod2=35,5187,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63092,7 +63092,7 @@ Nod1=0,5049,0
 Nod2=16,5188,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63103,7 +63103,7 @@ Nod1=0,5189,0
 Nod2=20,5190,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63114,7 +63114,7 @@ Nod1=0,5049,0
 Nod2=36,5191,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63125,7 +63125,7 @@ Nod1=0,5191,0
 Nod2=30,4972,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63136,7 +63136,7 @@ Nod1=0,5192,0
 Nod2=31,5193,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63147,7 +63147,7 @@ Nod1=0,3000,0
 Nod2=12,5194,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63158,7 +63158,7 @@ Nod1=0,5195,0
 Nod2=21,5196,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63169,7 +63169,7 @@ Nod1=0,5196,0
 Nod2=16,1074,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63180,7 +63180,7 @@ Nod1=0,5052,0
 Nod2=26,4778,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63191,7 +63191,7 @@ Nod1=0,5197,0
 Nod2=20,1074,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63202,7 +63202,7 @@ Nod1=0,5198,0
 Nod2=11,5199,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63213,7 +63213,7 @@ Nod1=0,6019,0
 Nod2=24,5201,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63224,7 +63224,7 @@ Nod1=0,5202,0
 Nod2=24,5203,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63235,7 +63235,7 @@ Nod1=0,5204,0
 Nod2=24,5203,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63246,7 +63246,7 @@ Nod1=0,5205,0
 Nod2=42,5206,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63257,7 +63257,7 @@ Nod1=0,5207,0
 Nod2=33,5208,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63268,7 +63268,7 @@ Nod1=0,3007,0
 Nod2=25,5209,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63279,7 +63279,7 @@ Nod1=0,6036,0
 Nod2=38,996,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63290,7 +63290,7 @@ Nod1=0,3063,0
 Nod2=15,996,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63301,7 +63301,7 @@ Nod1=0,5210,0
 Nod2=19,5211,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63312,7 +63312,7 @@ Nod1=0,3011,0
 Nod2=40,5212,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63323,7 +63323,7 @@ Nod1=0,5213,0
 Nod2=20,1023,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63334,7 +63334,7 @@ Nod1=0,5214,0
 Nod2=22,5215,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63345,7 +63345,7 @@ Nod1=0,4976,0
 Nod2=22,5217,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63356,7 +63356,7 @@ Nod1=0,5218,0
 Nod2=43,5219,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63367,7 +63367,7 @@ Nod1=0,5220,0
 Nod2=27,5221,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63378,7 +63378,7 @@ Nod1=0,5222,0
 Nod2=21,5218,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63389,7 +63389,7 @@ Nod1=0,5223,0
 Nod2=18,1225,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63400,7 +63400,7 @@ Nod1=0,5062,0
 Nod2=30,5225,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63411,7 +63411,7 @@ Nod1=0,5221,0
 Nod2=18,5226,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63422,7 +63422,7 @@ Nod1=0,5227,0
 Nod2=37,5228,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63433,7 +63433,7 @@ Nod1=0,5226,0
 Nod2=22,5229,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63444,7 +63444,7 @@ Nod1=0,5230,0
 Nod2=44,5223,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63455,7 +63455,7 @@ Nod1=0,5233,0
 Nod2=18,5234,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63466,7 +63466,7 @@ Nod1=0,5234,0
 Nod2=10,5235,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63477,7 +63477,7 @@ Nod1=0,5234,0
 Nod2=5,3030,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63488,7 +63488,7 @@ Nod1=0,3031,0
 Nod2=22,5236,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63499,7 +63499,7 @@ Nod1=0,5237,0
 Nod2=15,5238,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63510,7 +63510,7 @@ Nod1=0,5239,0
 Nod2=10,5076,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63521,7 +63521,7 @@ Nod1=0,5077,0
 Nod2=3,5240,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63532,7 +63532,7 @@ Nod1=0,5241,0
 Nod2=16,5242,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63543,7 +63543,7 @@ Nod1=0,3036,0
 Nod2=12,5243,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63554,7 +63554,7 @@ Nod1=0,5246,0
 Nod2=4,1045,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63565,7 +63565,7 @@ Nod1=0,5247,0
 Nod2=8,4956,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63576,7 +63576,7 @@ Nod1=0,4956,0
 Nod2=7,4994,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63587,7 +63587,7 @@ Nod1=0,5248,0
 Nod2=7,5249,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63598,7 +63598,7 @@ Nod1=0,5250,0
 Nod2=13,5251,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63609,7 +63609,7 @@ Nod1=0,909,0
 Nod2=22,5252,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63620,7 +63620,7 @@ Nod1=0,5253,0
 Nod2=16,5254,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63631,7 +63631,7 @@ Nod1=0,5088,0
 Nod2=27,5253,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63642,7 +63642,7 @@ Nod1=0,5254,0
 Nod2=9,5088,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63653,7 +63653,7 @@ Nod1=0,5254,0
 Nod2=12,5255,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63664,7 +63664,7 @@ Nod1=0,5089,0
 Nod2=13,5256,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63675,7 +63675,7 @@ Nod1=0,5257,0
 Nod2=18,4849,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63686,7 +63686,7 @@ Nod1=0,5258,0
 Nod2=11,5112,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63697,7 +63697,7 @@ Nod1=0,5108,0
 Nod2=18,5259,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63708,7 +63708,7 @@ Nod1=0,5114,0
 Nod2=10,5260,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63719,7 +63719,7 @@ Nod1=0,5261,0
 Nod2=12,5262,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63730,7 +63730,7 @@ Nod1=0,5263,0
 Nod2=10,5264,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63741,7 +63741,7 @@ Nod1=0,5265,0
 Nod2=31,5266,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63752,7 +63752,7 @@ Nod1=0,5267,0
 Nod2=9,5262,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63763,7 +63763,7 @@ Nod1=0,5268,0
 Nod2=25,5267,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63774,7 +63774,7 @@ Nod1=0,5202,0
 Nod2=11,5198,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63785,7 +63785,7 @@ Nod1=0,5202,0
 Nod2=9,5204,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63796,7 +63796,7 @@ Nod1=0,4974,0
 Nod2=7,5204,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63807,7 +63807,7 @@ Nod1=0,3053,0
 Nod2=23,4968,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63818,7 +63818,7 @@ Nod1=0,5269,0
 Nod2=1,5270,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63829,7 +63829,7 @@ Nod1=0,5012,0
 Nod2=9,5271,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63840,7 +63840,7 @@ Nod1=0,5015,0
 Nod2=9,5272,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63851,7 +63851,7 @@ Nod1=0,5015,0
 Nod2=13,5273,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63862,7 +63862,7 @@ Nod1=0,5142,0
 Nod2=13,5274,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63873,7 +63873,7 @@ Nod1=0,4969,0
 Nod2=10,5048,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63884,7 +63884,7 @@ Nod1=0,5275,0
 Nod2=11,5020,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63895,7 +63895,7 @@ Nod1=0,5276,0
 Nod2=8,5144,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63906,7 +63906,7 @@ Nod1=0,5148,0
 Nod2=10,5146,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63917,7 +63917,7 @@ Nod1=0,5148,0
 Nod2=8,5277,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63928,7 +63928,7 @@ Nod1=0,5146,0
 Nod2=11,5277,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63939,7 +63939,7 @@ Nod1=0,5154,0
 Nod2=23,5150,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63950,7 +63950,7 @@ Nod1=0,5153,0
 Nod2=9,5154,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63961,7 +63961,7 @@ Nod1=0,5155,0
 Nod2=16,5278,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63972,7 +63972,7 @@ Nod1=0,5279,0
 Nod2=20,997,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63983,7 +63983,7 @@ Nod1=0,5280,0
 Nod2=18,5281,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -63994,7 +63994,7 @@ Nod1=0,5030,0
 Nod2=20,5282,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64005,7 +64005,7 @@ Nod1=0,5030,0
 Nod2=15,5282,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64016,7 +64016,7 @@ Nod1=0,5283,0
 Nod2=32,5284,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64027,7 +64027,7 @@ Nod1=0,5285,0
 Nod2=27,5286,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64038,7 +64038,7 @@ Nod1=0,5287,0
 Nod2=10,5162,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64049,7 +64049,7 @@ Nod1=0,5163,0
 Nod2=23,5164,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64060,7 +64060,7 @@ Nod1=0,6018,0
 Nod2=21,5289,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64071,7 +64071,7 @@ Nod1=0,5290,0
 Nod2=21,5291,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64082,7 +64082,7 @@ Nod1=0,6015,0
 Nod2=8,5170,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64093,7 +64093,7 @@ Nod1=0,5290,0
 Nod2=18,5170,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64104,7 +64104,7 @@ Nod1=0,5290,0
 Nod2=9,5171,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64115,7 +64115,7 @@ Nod1=0,5167,0
 Nod2=7,3070,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64126,7 +64126,7 @@ Nod1=0,5294,0
 Nod2=24,6014,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64137,7 +64137,7 @@ Nod1=0,1024,0
 Nod2=12,5286,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64148,7 +64148,7 @@ Nod1=0,1055,0
 Nod2=23,5175,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64159,7 +64159,7 @@ Nod1=0,3625,0
 Nod2=16,4971,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64170,7 +64170,7 @@ Nod1=0,5297,0
 Nod2=11,5190,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64181,7 +64181,7 @@ Nod1=0,1073,0
 Nod2=17,5191,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64192,7 +64192,7 @@ Nod1=0,1073,0
 Nod2=19,5192,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64203,7 +64203,7 @@ Nod1=0,5298,0
 Nod2=8,5189,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64214,7 +64214,7 @@ Nod1=0,5192,0
 Nod2=20,5298,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64225,7 +64225,7 @@ Nod1=0,5298,0
 Nod2=13,1097,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64236,7 +64236,7 @@ Nod1=0,5299,0
 Nod2=20,5050,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64247,7 +64247,7 @@ Nod1=0,5053,0
 Nod2=9,5050,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64258,7 +64258,7 @@ Nod1=0,3075,0
 Nod2=27,3076,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64269,7 +64269,7 @@ Nod1=0,1074,0
 Nod2=7,3077,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64280,7 +64280,7 @@ Nod1=0,5300,0
 Nod2=11,5201,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64291,7 +64291,7 @@ Nod1=0,5203,0
 Nod2=11,5201,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64302,7 +64302,7 @@ Nod1=0,5057,0
 Nod2=14,996,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64313,7 +64313,7 @@ Nod1=0,5057,0
 Nod2=12,5301,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64324,7 +64324,7 @@ Nod1=0,5302,0
 Nod2=16,5303,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64335,7 +64335,7 @@ Nod1=0,5304,0
 Nod2=17,5305,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64346,7 +64346,7 @@ Nod1=0,5305,0
 Nod2=9,6013,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64357,7 +64357,7 @@ Nod1=0,5305,0
 Nod2=8,5220,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64368,7 +64368,7 @@ Nod1=0,5306,0
 Nod2=9,5307,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64379,7 +64379,7 @@ Nod1=0,5306,0
 Nod2=8,5307,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64390,7 +64390,7 @@ Nod1=0,3082,0
 Nod2=6,5218,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64401,7 +64401,7 @@ Nod1=0,5308,0
 Nod2=20,5226,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64412,7 +64412,7 @@ Nod1=0,5221,0
 Nod2=23,5309,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64423,7 +64423,7 @@ Nod1=0,5310,0
 Nod2=5,4983,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64434,7 +64434,7 @@ Nod1=0,4995,0
 Nod2=8,4958,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64445,7 +64445,7 @@ Nod1=0,5311,0
 Nod2=13,5312,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64456,7 +64456,7 @@ Nod1=0,5105,0
 Nod2=10,5024,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64467,7 +64467,7 @@ Nod1=0,5313,0
 Nod2=11,5314,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64478,7 +64478,7 @@ Nod1=0,5315,0
 Nod2=6,5314,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64489,7 +64489,7 @@ Nod1=0,5315,0
 Nod2=7,5316,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64500,7 +64500,7 @@ Nod1=0,5315,0
 Nod2=9,5120,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64511,7 +64511,7 @@ Nod1=0,5316,0
 Nod2=9,5120,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64522,7 +64522,7 @@ Nod1=0,5317,0
 Nod2=5,5313,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64533,7 +64533,7 @@ Nod1=0,5267,0
 Nod2=5,5261,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64544,7 +64544,7 @@ Nod1=0,1008,0
 Nod2=6,5269,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64555,7 +64555,7 @@ Nod1=0,4970,0
 Nod2=4,5017,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64566,7 +64566,7 @@ Nod1=0,5150,0
 Nod2=3,5318,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64577,7 +64577,7 @@ Nod1=0,5319,0
 Nod2=11,5026,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64588,7 +64588,7 @@ Nod1=0,5319,0
 Nod2=5,980,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64599,7 +64599,7 @@ Nod1=0,5164,0
 Nod2=3,5319,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64610,7 +64610,7 @@ Nod1=0,5281,0
 Nod2=3,6009,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64621,7 +64621,7 @@ Nod1=0,5161,0
 Nod2=6,5321,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64632,7 +64632,7 @@ Nod1=0,1020,0
 Nod2=3,5286,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64643,7 +64643,7 @@ Nod1=0,6010,0
 Nod2=3,1024,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64654,7 +64654,7 @@ Nod1=0,5175,0
 Nod2=6,1055,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64665,7 +64665,7 @@ Nod1=0,5297,0
 Nod2=11,1073,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64676,7 +64676,7 @@ Nod1=0,5190,0
 Nod2=12,5188,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64687,7 +64687,7 @@ Nod1=0,5324,0
 Nod2=6,5194,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64698,7 +64698,7 @@ Nod1=0,4803,0
 Nod2=6,5053,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64709,7 +64709,7 @@ Nod1=0,5196,0
 Nod2=8,5325,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64720,7 +64720,7 @@ Nod1=0,5326,0
 Nod2=6,5307,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64731,7 +64731,7 @@ Nod1=0,5228,0
 Nod2=16,5226,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64742,7 +64742,7 @@ Nod1=0,5328,0
 Nod2=4,911,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64753,7 +64753,7 @@ Nod1=0,961,0
 Nod2=1,5329,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64764,7 +64764,7 @@ Nod1=0,5076,0
 Nod2=1,5330,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64775,7 +64775,7 @@ Nod1=0,5331,0
 Nod2=1,5311,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64786,7 +64786,7 @@ Nod1=0,5332,0
 Nod2=2,5333,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64797,7 +64797,7 @@ Nod1=0,5253,0
 Nod2=1,5334,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64808,7 +64808,7 @@ Nod1=0,5116,0
 Nod2=3,5335,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64819,7 +64819,7 @@ Nod1=0,5262,0
 Nod2=2,5116,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64830,7 +64830,7 @@ Nod1=0,5264,0
 Nod2=1,5314,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64841,7 +64841,7 @@ Nod1=0,5315,0
 Nod2=4,5264,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64852,7 +64852,7 @@ Nod1=0,5316,0
 Nod2=2,5313,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64863,7 +64863,7 @@ Nod1=0,5263,0
 Nod2=2,5315,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64874,7 +64874,7 @@ Nod1=0,5261,0
 Nod2=1,5268,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64885,7 +64885,7 @@ Nod1=0,5268,0
 Nod2=4,5263,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64896,7 +64896,7 @@ Nod1=0,5267,0
 Nod2=2,5336,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64907,7 +64907,7 @@ Nod1=0,5054,0
 Nod2=1,5198,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64918,7 +64918,7 @@ Nod1=0,5337,0
 Nod2=3,1008,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64929,7 +64929,7 @@ Nod1=0,5142,0
 Nod2=3,4970,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64940,7 +64940,7 @@ Nod1=0,1055,0
 Nod2=5,5277,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64951,7 +64951,7 @@ Nod1=0,5281,0
 Nod2=3,997,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64962,7 +64962,7 @@ Nod1=0,1000,0
 Nod2=2,5282,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64973,7 +64973,7 @@ Nod1=0,5159,0
 Nod2=2,5338,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64984,7 +64984,7 @@ Nod1=0,5162,0
 Nod2=2,5033,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -64995,7 +64995,7 @@ Nod1=0,5163,0
 Nod2=4,5339,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65006,7 +65006,7 @@ Nod1=0,5166,0
 Nod2=3,5199,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65017,7 +65017,7 @@ Nod1=0,5300,0
 Nod2=2,5166,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65028,7 +65028,7 @@ Nod1=0,5199,0
 Nod2=2,5300,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65039,7 +65039,7 @@ Nod1=0,5043,0
 Nod2=3,5042,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65050,7 +65050,7 @@ Nod1=0,5297,0
 Nod2=4,5188,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65061,7 +65061,7 @@ Nod1=0,5340,0
 Nod2=3,5189,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65073,7 +65073,7 @@ Nod2=1,5051,0
 Nod3=2,5341,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65084,7 +65084,7 @@ Nod1=0,5342,0
 Nod2=1,5052,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65095,7 +65095,7 @@ Nod1=0,5220,0
 Nod2=2,1043,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65106,7 +65106,7 @@ Nod1=0,5306,0
 Nod2=3,5344,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Waipapa River Track Upper
@@ -65122,7 +65122,7 @@ Nod5=92,5347,0
 Nod6=95,5348,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Waipapa River Track Lower
@@ -65135,7 +65135,7 @@ Nod2=34,5350,0
 Nod3=112,3146,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65146,7 +65146,7 @@ Nod1=0,5350,0
 Nod2=61,5086,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Pukatea Track
@@ -65159,7 +65159,7 @@ Nod2=67,5353,0
 Nod3=73,5354,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Pukatea Ridge Route
@@ -65171,7 +65171,7 @@ Nod1=0,5353,0
 Nod2=43,5349,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Mangahorehore Track
@@ -65185,7 +65185,7 @@ Nod3=47,1286,0
 Nod4=65,5347,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65196,7 +65196,7 @@ Nod1=0,5359,0
 Nod2=78,5360,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65207,7 +65207,7 @@ Nod1=0,5361,0
 Nod2=34,5362,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65218,7 +65218,7 @@ Nod1=0,5363,0
 Nod2=11,5364,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65229,7 +65229,7 @@ Nod1=0,5365,0
 Nod2=68,5366,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Walnut Track
@@ -65241,7 +65241,7 @@ Nod1=0,5367,0
 Nod2=23,1428,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65253,7 +65253,7 @@ Nod2=36,5345,0
 Nod3=39,5368,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65264,7 +65264,7 @@ Nod1=0,5369,0
 Nod2=16,5370,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65275,7 +65275,7 @@ Nod1=0,5371,0
 Nod2=53,5372,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Onekura Track
@@ -65289,7 +65289,7 @@ Nod3=33,1430,0
 Nod4=38,5373,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65300,7 +65300,7 @@ Nod1=0,5374,0
 Nod2=91,5375,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65311,7 +65311,7 @@ Nod1=0,5376,0
 Nod2=53,5377,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65322,7 +65322,7 @@ Nod1=0,5378,0
 Nod2=22,5379,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65333,7 +65333,7 @@ Nod1=0,1111,0
 Nod2=82,4803,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65344,7 +65344,7 @@ Nod1=0,5380,0
 Nod2=73,5381,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65355,7 +65355,7 @@ Nod1=0,5382,0
 Nod2=29,5383,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65366,7 +65366,7 @@ Nod1=0,5384,0
 Nod2=92,5385,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65377,7 +65377,7 @@ Nod1=0,5386,0
 Nod2=69,5387,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65388,7 +65388,7 @@ Nod1=0,5388,0
 Nod2=84,5389,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65399,7 +65399,7 @@ Nod1=0,5240,0
 Nod2=49,5239,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65410,7 +65410,7 @@ Nod1=0,5364,0
 Nod2=10,5362,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65421,7 +65421,7 @@ Nod1=0,5364,0
 Nod2=16,5390,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Waihoanga Gorge Kauri Walk
@@ -65433,7 +65433,7 @@ Nod1=0,5391,0
 Nod2=28,5392,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65444,7 +65444,7 @@ Nod1=0,1286,0
 Nod2=19,5393,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65455,7 +65455,7 @@ Nod1=0,5394,0
 Nod2=37,1599,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65466,7 +65466,7 @@ Nod1=0,1599,0
 Nod2=26,5395,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65477,7 +65477,7 @@ Nod1=0,5396,0
 Nod2=43,5340,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65488,7 +65488,7 @@ Nod1=0,1097,0
 Nod2=56,5396,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65499,7 +65499,7 @@ Nod1=0,5397,0
 Nod2=17,5398,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65510,7 +65510,7 @@ Nod1=0,1430,0
 Nod2=33,5399,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65521,7 +65521,7 @@ Nod1=0,5375,0
 Nod2=26,5400,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65532,7 +65532,7 @@ Nod1=0,5401,0
 Nod2=10,5402,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65543,7 +65543,7 @@ Nod1=0,5379,0
 Nod2=23,5403,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65554,7 +65554,7 @@ Nod1=0,5404,0
 Nod2=10,5379,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65565,7 +65565,7 @@ Nod1=0,5405,0
 Nod2=14,5375,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65576,7 +65576,7 @@ Nod1=0,5406,0
 Nod2=124,5407,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65587,7 +65587,7 @@ Nod1=0,5408,0
 Nod2=27,1453,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65598,7 +65598,7 @@ Nod1=0,1453,0
 Nod2=31,6005,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65609,7 +65609,7 @@ Nod1=0,1111,0
 Nod2=31,5380,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65620,7 +65620,7 @@ Nod1=0,1136,0
 Nod2=49,3543,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65631,7 +65631,7 @@ Nod1=0,5401,0
 Nod2=16,5410,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65642,7 +65642,7 @@ Nod1=0,5411,0
 Nod2=12,5401,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65653,7 +65653,7 @@ Nod1=0,5412,0
 Nod2=19,1769,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65664,7 +65664,7 @@ Nod1=0,1599,0
 Nod2=17,5413,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65675,7 +65675,7 @@ Nod1=0,5414,0
 Nod2=1,5415,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65686,7 +65686,7 @@ Nod1=0,5416,0
 Nod2=11,1769,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65697,7 +65697,7 @@ Nod1=0,5417,0
 Nod2=16,5418,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65708,7 +65708,7 @@ Nod1=0,5419,0
 Nod2=10,1138,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65719,7 +65719,7 @@ Nod1=0,1138,0
 Nod2=9,3168,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65730,7 +65730,7 @@ Nod1=0,5420,0
 Nod2=27,5396,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65741,7 +65741,7 @@ Nod1=0,5356,0
 Nod2=15,5421,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65752,7 +65752,7 @@ Nod1=0,5421,0
 Nod2=11,5422,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65763,7 +65763,7 @@ Nod1=0,1453,0
 Nod2=20,5423,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65774,7 +65774,7 @@ Nod1=0,5409,0
 Nod2=18,5424,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65785,7 +65785,7 @@ Nod1=0,5193,0
 Nod2=12,1111,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65796,7 +65796,7 @@ Nod1=0,5425,0
 Nod2=15,5380,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65807,7 +65807,7 @@ Nod1=0,5426,0
 Nod2=34,5383,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65818,7 +65818,7 @@ Nod1=0,5427,0
 Nod2=15,1136,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65829,7 +65829,7 @@ Nod1=0,5428,0
 Nod2=26,5429,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Takapau Track
@@ -65841,7 +65841,7 @@ Nod1=0,5352,0
 Nod2=1,5430,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65852,7 +65852,7 @@ Nod1=0,5362,0
 Nod2=5,5332,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65863,7 +65863,7 @@ Nod1=0,5431,0
 Nod2=5,5432,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65874,7 +65874,7 @@ Nod1=0,5370,0
 Nod2=7,5433,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65885,7 +65885,7 @@ Nod1=0,5383,0
 Nod2=6,5434,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65896,7 +65896,7 @@ Nod1=0,5421,0
 Nod2=7,5435,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65907,7 +65907,7 @@ Nod1=0,5436,0
 Nod2=15,5409,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65918,7 +65918,7 @@ Nod1=0,5249,0
 Nod2=5,4957,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65929,7 +65929,7 @@ Nod1=0,5333,0
 Nod2=2,5250,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65940,7 +65940,7 @@ Nod1=0,5368,0
 Nod2=1,5414,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65951,7 +65951,7 @@ Nod1=0,5438,0
 Nod2=1,3546,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65962,7 +65962,7 @@ Nod1=0,5439,0
 Nod2=1,5438,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65973,7 +65973,7 @@ Nod1=0,1138,0
 Nod2=2,5370,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -65985,7 +65985,7 @@ Nod2=56,5441,0
 Nod3=72,6007,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Haruru Falls Track
@@ -65997,7 +65997,7 @@ Nod1=0,3190,0
 Nod2=93,6104,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66008,7 +66008,7 @@ Nod1=0,5443,0
 Nod2=39,5444,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66019,7 +66019,7 @@ Nod1=0,5447,0
 Nod2=61,5448,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66030,7 +66030,7 @@ Nod1=0,5449,0
 Nod2=44,5450,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Coastal Walkway
@@ -66043,7 +66043,7 @@ Nod2=39,3833,0
 Nod3=93,5452,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Coastal Walkway
@@ -66055,7 +66055,7 @@ Nod1=0,5453,0
 Nod2=53,2301,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66066,7 +66066,7 @@ Nod1=0,5455,0
 Nod2=25,5456,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66077,7 +66077,7 @@ Nod1=0,5457,0
 Nod2=10,5458,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66088,7 +66088,7 @@ Nod1=0,5459,0
 Nod2=16,5460,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66099,7 +66099,7 @@ Nod1=0,5461,0
 Nod2=26,3829,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66110,7 +66110,7 @@ Nod1=0,5463,0
 Nod2=23,5464,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66121,7 +66121,7 @@ Nod1=0,2509,0
 Nod2=24,5465,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66132,7 +66132,7 @@ Nod1=0,5465,0
 Nod2=8,2509,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66143,7 +66143,7 @@ Nod1=0,2529,0
 Nod2=15,5466,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66154,7 +66154,7 @@ Nod1=0,5466,0
 Nod2=9,2533,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Kerikeri Walkway
@@ -66166,7 +66166,7 @@ Nod1=0,3211,0
 Nod2=4,5468,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66177,7 +66177,7 @@ Nod1=0,5469,0
 Nod2=8,5470,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66188,7 +66188,7 @@ Nod1=0,5471,0
 Nod2=10,5472,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Coastal Walkway
@@ -66200,7 +66200,7 @@ Nod1=0,5473,0
 Nod2=33,5474,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66211,7 +66211,7 @@ Nod1=0,5475,0
 Nod2=12,5476,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66222,7 +66222,7 @@ Nod1=0,5477,0
 Nod2=16,3485,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66233,7 +66233,7 @@ Nod1=0,5479,0
 Nod2=18,5480,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66244,7 +66244,7 @@ Nod1=0,5481,0
 Nod2=8,5482,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66255,7 +66255,7 @@ Nod1=0,2509,0
 Nod2=2,5483,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66266,7 +66266,7 @@ Nod1=0,5465,0
 Nod2=8,5484,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66277,7 +66277,7 @@ Nod1=0,5485,0
 Nod2=8,5486,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66288,7 +66288,7 @@ Nod1=0,5487,0
 Nod2=2,2529,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66299,7 +66299,7 @@ Nod1=0,5466,0
 Nod2=6,5488,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66310,7 +66310,7 @@ Nod1=0,2529,0
 Nod2=8,5490,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66321,7 +66321,7 @@ Nod1=0,5466,0
 Nod2=4,3231,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66332,7 +66332,7 @@ Nod1=0,2533,0
 Nod2=11,5492,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Kerikeri Walkway
@@ -66344,7 +66344,7 @@ Nod1=0,5493,0
 Nod2=4,5468,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66355,7 +66355,7 @@ Nod1=0,3407,0
 Nod2=7,5469,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66366,7 +66366,7 @@ Nod1=0,5469,0
 Nod2=4,5496,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66377,7 +66377,7 @@ Nod1=0,5497,0
 Nod2=4,2539,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66388,7 +66388,7 @@ Nod1=0,5441,0
 Nod2=6,5498,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66399,7 +66399,7 @@ Nod1=0,5499,0
 Nod2=3,5500,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66410,7 +66410,7 @@ Nod1=0,5501,0
 Nod2=9,5475,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66421,7 +66421,7 @@ Nod1=0,5475,0
 Nod2=6,5502,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66432,7 +66432,7 @@ Nod1=0,5503,0
 Nod2=9,5504,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66443,7 +66443,7 @@ Nod1=0,2533,0
 Nod2=4,5505,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Kerikeri Walkway
@@ -66455,7 +66455,7 @@ Nod1=0,5468,0
 Nod2=5,5506,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Kerikeri Walkway
@@ -66467,7 +66467,7 @@ Nod1=0,5446,0
 Nod2=7,2530,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66478,7 +66478,7 @@ Nod1=0,5507,0
 Nod2=4,2127,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66489,7 +66489,7 @@ Nod1=0,5507,0
 Nod2=4,5509,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66500,7 +66500,7 @@ Nod1=0,3485,0
 Nod2=2,5510,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66511,7 +66511,7 @@ Nod1=0,3503,0
 Nod2=3,2429,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66522,7 +66522,7 @@ Nod1=0,5514,0
 Nod2=3,5515,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Cape Brett Track
@@ -66535,7 +66535,7 @@ Nod2=43,5517,0
 Nod3=100,2564,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66546,7 +66546,7 @@ Nod1=0,2553,0
 Nod2=45,5518,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Whangamumu Track
@@ -66558,7 +66558,7 @@ Nod1=0,5519,0
 Nod2=69,5520,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Whangamumu - Te Toroa Track
@@ -66570,7 +66570,7 @@ Nod1=0,5520,0
 Nod2=73,5517,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66582,7 +66582,7 @@ Nod2=63,2564,0
 Nod3=72,5522,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Russell Forest Walkway
@@ -66594,7 +66594,7 @@ Nod1=0,5523,0
 Nod2=40,5524,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66605,7 +66605,7 @@ Nod1=0,5525,0
 Nod2=32,5526,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66616,7 +66616,7 @@ Nod1=0,5527,0
 Nod2=26,5528,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66627,7 +66627,7 @@ Nod1=0,5529,0
 Nod2=14,2553,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66638,7 +66638,7 @@ Nod1=0,5530,0
 Nod2=22,5531,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66649,7 +66649,7 @@ Nod1=0,5532,0
 Nod2=12,5463,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66660,7 +66660,7 @@ Nod1=0,5518,0
 Nod2=8,5529,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66671,7 +66671,7 @@ Nod1=0,5464,0
 Nod2=6,3263,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66682,7 +66682,7 @@ Nod1=0,5533,0
 Nod2=28,5534,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66693,7 +66693,7 @@ Nod1=0,5527,0
 Nod2=3,5535,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66704,7 +66704,7 @@ Nod1=0,5529,0
 Nod2=4,5536,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66715,7 +66715,7 @@ Nod1=0,5528,0
 Nod2=6,5527,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66726,7 +66726,7 @@ Nod1=0,5526,0
 Nod2=3,5532,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66737,7 +66737,7 @@ Nod1=0,5532,0
 Nod2=1,5537,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66748,7 +66748,7 @@ Nod1=0,5526,0
 Nod2=3,5537,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66759,7 +66759,7 @@ Nod1=0,5537,0
 Nod2=6,5538,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66770,7 +66770,7 @@ Nod1=0,5539,0
 Nod2=6,5540,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66781,7 +66781,7 @@ Nod1=0,5518,0
 Nod2=1,5541,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66792,7 +66792,7 @@ Nod1=0,2553,0
 Nod2=3,5528,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66803,7 +66803,7 @@ Nod1=0,5520,0
 Nod2=3,5542,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Hokianga - Kai Iwi Coastal Track
@@ -66815,7 +66815,7 @@ Nod1=0,5543,0
 Nod2=81,5544,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66826,7 +66826,7 @@ Nod1=0,5545,0
 Nod2=65,5546,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66837,7 +66837,7 @@ Nod1=0,5547,0
 Nod2=52,3547,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66848,7 +66848,7 @@ Nod1=0,768,0
 Nod2=75,5548,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66859,7 +66859,7 @@ Nod1=0,5549,0
 Nod2=12,3276,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66870,7 +66870,7 @@ Nod1=0,5550,0
 Nod2=13,5551,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66881,7 +66881,7 @@ Nod1=0,5552,0
 Nod2=32,5553,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66892,7 +66892,7 @@ Nod1=0,5554,0
 Nod2=16,5549,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66903,7 +66903,7 @@ Nod1=0,5555,0
 Nod2=19,5556,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66914,7 +66914,7 @@ Nod1=0,5557,0
 Nod2=19,5558,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66925,7 +66925,7 @@ Nod1=0,5559,0
 Nod2=14,3286,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66936,7 +66936,7 @@ Nod1=0,5560,0
 Nod2=12,5561,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66947,7 +66947,7 @@ Nod1=0,5562,0
 Nod2=12,5547,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66958,7 +66958,7 @@ Nod1=0,5563,0
 Nod2=13,5564,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66969,7 +66969,7 @@ Nod1=0,5565,0
 Nod2=13,5566,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66980,7 +66980,7 @@ Nod1=0,5549,0
 Nod2=11,5567,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -66991,7 +66991,7 @@ Nod1=0,3293,0
 Nod2=11,5568,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67002,7 +67002,7 @@ Nod1=0,5569,0
 Nod2=9,898,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67013,7 +67013,7 @@ Nod1=0,898,0
 Nod2=6,5570,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67024,7 +67024,7 @@ Nod1=0,5551,0
 Nod2=7,5571,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67035,7 +67035,7 @@ Nod1=0,5572,0
 Nod2=12,5551,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67046,7 +67046,7 @@ Nod1=0,5560,0
 Nod2=8,5573,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67057,7 +67057,7 @@ Nod1=0,5548,0
 Nod2=14,5564,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67068,7 +67068,7 @@ Nod1=0,3300,0
 Nod2=16,5564,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67079,7 +67079,7 @@ Nod1=0,4911,0
 Nod2=5,4909,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67090,7 +67090,7 @@ Nod1=0,3301,0
 Nod2=12,3302,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67101,7 +67101,7 @@ Nod1=0,5574,0
 Nod2=22,5575,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67112,7 +67112,7 @@ Nod1=0,5576,0
 Nod2=3,3303,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67123,7 +67123,7 @@ Nod1=0,5577,0
 Nod2=6,5578,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67134,7 +67134,7 @@ Nod1=0,5579,0
 Nod2=5,5580,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Heritage Track
@@ -67146,7 +67146,7 @@ Nod1=0,5581,0
 Nod2=10,5544,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67157,7 +67157,7 @@ Nod1=0,5560,0
 Nod2=4,5548,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67168,7 +67168,7 @@ Nod1=0,3706,0
 Nod2=6,5574,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67179,7 +67179,7 @@ Nod1=0,5583,0
 Nod2=6,5574,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67190,7 +67190,7 @@ Nod1=0,5576,0
 Nod2=6,5578,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67201,7 +67201,7 @@ Nod1=0,5580,0
 Nod2=17,5578,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Hokianga - Kai Iwi Coastal Track
@@ -67213,7 +67213,7 @@ Nod1=0,5544,0
 Nod2=2,5584,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67224,7 +67224,7 @@ Nod1=0,898,0
 Nod2=2,5585,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67235,7 +67235,7 @@ Nod1=0,5586,0
 Nod2=7,5587,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67246,7 +67246,7 @@ Nod1=0,5580,0
 Nod2=2,5576,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Waima Main Range Track
@@ -67260,7 +67260,7 @@ Nod3=140,5665,0
 Nod4=167,5589,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Hauturu Highpoint Track
@@ -67273,7 +67273,7 @@ Nod2=40,5664,0
 Nod3=57,5594,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Six Foot Track
@@ -67286,7 +67286,7 @@ Nod2=47,5596,0
 Nod3=82,5597,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Taita Bridle Track
@@ -67298,7 +67298,7 @@ Nod1=0,5598,0
 Nod2=44,5588,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67309,7 +67309,7 @@ Nod1=0,5599,0
 Nod2=71,5600,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67320,7 +67320,7 @@ Nod1=0,5601,0
 Nod2=97,5602,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67331,7 +67331,7 @@ Nod1=0,6080,0
 Nod2=37,5604,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67342,7 +67342,7 @@ Nod1=0,5605,0
 Nod2=53,5606,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67353,7 +67353,7 @@ Nod1=0,5607,0
 Nod2=30,5608,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67364,7 +67364,7 @@ Nod1=0,5599,0
 Nod2=26,5610,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67375,7 +67375,7 @@ Nod1=0,5611,0
 Nod2=23,5612,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67386,7 +67386,7 @@ Nod1=0,5613,0
 Nod2=43,5614,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67397,7 +67397,7 @@ Nod1=0,5615,0
 Nod2=34,3664,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67408,7 +67408,7 @@ Nod1=0,5617,0
 Nod2=33,5618,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67419,7 +67419,7 @@ Nod1=0,5619,0
 Nod2=57,5620,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67430,7 +67430,7 @@ Nod1=0,5597,0
 Nod2=49,5619,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67441,7 +67441,7 @@ Nod1=0,3338,0
 Nod2=14,3339,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67452,7 +67452,7 @@ Nod1=0,5621,0
 Nod2=1,5622,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67463,7 +67463,7 @@ Nod1=0,3341,0
 Nod2=13,5623,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67474,7 +67474,7 @@ Nod1=0,5624,0
 Nod2=22,5625,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67485,7 +67485,7 @@ Nod1=0,5626,0
 Nod2=38,5627,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67496,7 +67496,7 @@ Nod1=0,5628,0
 Nod2=23,5629,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67507,7 +67507,7 @@ Nod1=0,5630,0
 Nod2=20,5631,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67518,7 +67518,7 @@ Nod1=0,5632,0
 Nod2=21,5633,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67529,7 +67529,7 @@ Nod1=0,5634,0
 Nod2=28,5633,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67540,7 +67540,7 @@ Nod1=0,5633,0
 Nod2=25,5599,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67551,7 +67551,7 @@ Nod1=0,5635,0
 Nod2=16,5636,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67562,7 +67562,7 @@ Nod1=0,5637,0
 Nod2=57,5638,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67573,7 +67573,7 @@ Nod1=0,5639,0
 Nod2=18,3059,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67584,7 +67584,7 @@ Nod1=0,5639,0
 Nod2=25,5642,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67595,7 +67595,7 @@ Nod1=0,5643,0
 Nod2=11,5644,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67606,7 +67606,7 @@ Nod1=0,5645,0
 Nod2=16,5646,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67617,7 +67617,7 @@ Nod1=0,5647,0
 Nod2=34,5648,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67628,7 +67628,7 @@ Nod1=0,5649,0
 Nod2=22,5650,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67639,7 +67639,7 @@ Nod1=0,1127,0
 Nod2=11,5651,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67650,7 +67650,7 @@ Nod1=0,5652,0
 Nod2=19,5653,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67661,7 +67661,7 @@ Nod1=0,5654,0
 Nod2=19,5655,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67672,7 +67672,7 @@ Nod1=0,3686,0
 Nod2=26,5657,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67683,7 +67683,7 @@ Nod1=0,5658,0
 Nod2=34,5659,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67694,7 +67694,7 @@ Nod1=0,5238,0
 Nod2=37,5660,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67705,7 +67705,7 @@ Nod1=0,5661,0
 Nod2=14,5662,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67716,7 +67716,7 @@ Nod1=0,5663,0
 Nod2=5,5664,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67727,7 +67727,7 @@ Nod1=0,5596,0
 Nod2=30,5619,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67738,7 +67738,7 @@ Nod1=0,5665,0
 Nod2=15,5666,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67749,7 +67749,7 @@ Nod1=0,2962,0
 Nod2=6,5668,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67760,7 +67760,7 @@ Nod1=0,5669,0
 Nod2=11,5583,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67771,7 +67771,7 @@ Nod1=0,5670,0
 Nod2=16,5671,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67782,7 +67782,7 @@ Nod1=0,5672,0
 Nod2=9,5673,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67793,7 +67793,7 @@ Nod1=0,5671,0
 Nod2=6,5673,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67804,7 +67804,7 @@ Nod1=0,5671,0
 Nod2=10,5673,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67815,7 +67815,7 @@ Nod1=0,5674,0
 Nod2=16,5675,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67826,7 +67826,7 @@ Nod1=0,5676,0
 Nod2=14,5621,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67837,7 +67837,7 @@ Nod1=0,5677,0
 Nod2=16,5678,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67848,7 +67848,7 @@ Nod1=0,5679,0
 Nod2=12,5680,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67859,7 +67859,7 @@ Nod1=0,6082,0
 Nod2=5,3393,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67870,7 +67870,7 @@ Nod1=0,3394,0
 Nod2=9,5682,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67881,7 +67881,7 @@ Nod1=0,5683,0
 Nod2=8,5684,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67892,7 +67892,7 @@ Nod1=0,993,0
 Nod2=8,5685,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67903,7 +67903,7 @@ Nod1=0,5662,0
 Nod2=7,5663,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67914,7 +67914,7 @@ Nod1=0,5688,0
 Nod2=7,5689,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67925,7 +67925,7 @@ Nod1=0,5644,0
 Nod2=2,5690,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67936,7 +67936,7 @@ Nod1=0,5653,0
 Nod2=11,993,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67947,7 +67947,7 @@ Nod1=0,5653,0
 Nod2=14,993,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67958,7 +67958,7 @@ Nod1=0,5662,0
 Nod2=7,5663,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67969,7 +67969,7 @@ Nod1=0,5644,0
 Nod2=1,5694,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67980,7 +67980,7 @@ Nod1=0,5695,0
 Nod2=19,5998,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -67991,7 +67991,7 @@ Nod1=0,2360,0
 Nod2=14,5697,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68002,7 +68002,7 @@ Nod1=0,5698,0
 Nod2=27,5697,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68013,7 +68013,7 @@ Nod1=0,5698,0
 Nod2=30,5699,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68024,7 +68024,7 @@ Nod1=0,5700,0
 Nod2=36,5701,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68035,7 +68035,7 @@ Nod1=0,5702,0
 Nod2=43,5703,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68046,7 +68046,7 @@ Nod1=0,5704,0
 Nod2=24,5705,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68057,7 +68057,7 @@ Nod1=0,1427,0
 Nod2=46,5706,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68068,7 +68068,7 @@ Nod1=0,5705,0
 Nod2=37,5707,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68079,7 +68079,7 @@ Nod1=0,1295,0
 Nod2=16,1419,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68090,7 +68090,7 @@ Nod1=0,1419,0
 Nod2=36,1437,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68101,7 +68101,7 @@ Nod1=0,1437,0
 Nod2=58,5709,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68112,7 +68112,7 @@ Nod1=0,5710,0
 Nod2=51,5711,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68123,7 +68123,7 @@ Nod1=0,3419,0
 Nod2=11,1127,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68134,7 +68134,7 @@ Nod1=0,3420,0
 Nod2=19,5712,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68145,7 +68145,7 @@ Nod1=0,5713,0
 Nod2=26,5714,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68156,7 +68156,7 @@ Nod1=0,2360,0
 Nod2=21,5699,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68167,7 +68167,7 @@ Nod1=0,5715,0
 Nod2=33,5699,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68178,7 +68178,7 @@ Nod1=0,5705,0
 Nod2=22,5716,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68189,7 +68189,7 @@ Nod1=0,1427,0
 Nod2=11,5717,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68200,7 +68200,7 @@ Nod1=0,1419,0
 Nod2=11,5710,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68211,7 +68211,7 @@ Nod1=0,5697,0
 Nod2=12,5718,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68222,7 +68222,7 @@ Nod1=0,5695,0
 Nod2=13,1427,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68233,7 +68233,7 @@ Nod1=0,5710,0
 Nod2=10,5695,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68244,7 +68244,7 @@ Nod1=0,5719,0
 Nod2=11,1437,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68255,7 +68255,7 @@ Nod1=0,5720,0
 Nod2=6,5721,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68266,7 +68266,7 @@ Nod1=0,5698,0
 Nod2=8,5722,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68277,7 +68277,7 @@ Nod1=0,1295,0
 Nod2=3,5723,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68288,7 +68288,7 @@ Nod1=0,5724,0
 Nod2=1,2360,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68299,7 +68299,7 @@ Nod1=0,5725,0
 Nod2=48,5713,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68310,7 +68310,7 @@ Nod1=0,5726,0
 Nod2=22,5727,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68321,7 +68321,7 @@ Nod1=0,3433,0
 Nod2=32,5726,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68332,7 +68332,7 @@ Nod1=0,5728,0
 Nod2=54,5729,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68343,7 +68343,7 @@ Nod1=0,5730,0
 Nod2=18,5726,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68354,7 +68354,7 @@ Nod1=0,5714,0
 Nod2=3,5720,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68365,7 +68365,7 @@ Nod1=0,5460,0
 Nod2=4,5497,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68376,7 +68376,7 @@ Nod1=0,2539,0
 Nod2=2,5740,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68387,7 +68387,7 @@ Nod1=0,5741,0
 Nod2=130,5742,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Russell Walkway
@@ -68399,7 +68399,7 @@ Nod1=0,3568,0
 Nod2=125,5744,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68410,7 +68410,7 @@ Nod1=0,5745,0
 Nod2=29,5746,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68421,7 +68421,7 @@ Nod1=0,5747,0
 Nod2=43,5748,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68432,7 +68432,7 @@ Nod1=0,5749,0
 Nod2=47,5750,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68443,7 +68443,7 @@ Nod1=0,5751,0
 Nod2=50,5748,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68454,7 +68454,7 @@ Nod1=0,5752,0
 Nod2=48,5753,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68465,7 +68465,7 @@ Nod1=0,3455,0
 Nod2=38,5754,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68476,7 +68476,7 @@ Nod1=0,5755,0
 Nod2=29,5756,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68487,7 +68487,7 @@ Nod1=0,6083,0
 Nod2=28,5757,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68498,7 +68498,7 @@ Nod1=0,5758,0
 Nod2=33,5759,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68509,7 +68509,7 @@ Nod1=0,5760,0
 Nod2=73,5761,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68520,7 +68520,7 @@ Nod1=0,5762,0
 Nod2=88,5763,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68531,7 +68531,7 @@ Nod1=0,5764,0
 Nod2=51,5765,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68542,7 +68542,7 @@ Nod1=0,5766,0
 Nod2=30,5767,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68553,7 +68553,7 @@ Nod1=0,5768,0
 Nod2=56,5530,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Russell Walkway
@@ -68565,7 +68565,7 @@ Nod1=0,2547,0
 Nod2=67,5744,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Russell Forest Walkway
@@ -68577,7 +68577,7 @@ Nod1=0,5744,0
 Nod2=24,5523,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68588,7 +68588,7 @@ Nod1=0,5770,0
 Nod2=83,5771,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68599,7 +68599,7 @@ Nod1=0,5772,0
 Nod2=22,3472,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68610,7 +68610,7 @@ Nod1=0,5748,0
 Nod2=44,5745,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68621,7 +68621,7 @@ Nod1=0,5749,0
 Nod2=18,5773,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68632,7 +68632,7 @@ Nod1=0,5752,0
 Nod2=32,5749,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68643,7 +68643,7 @@ Nod1=0,5774,0
 Nod2=24,5775,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68654,7 +68654,7 @@ Nod1=0,5776,0
 Nod2=12,5777,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68665,7 +68665,7 @@ Nod1=0,5778,0
 Nod2=12,5758,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68676,7 +68676,7 @@ Nod1=0,5758,0
 Nod2=35,5779,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68687,7 +68687,7 @@ Nod1=0,5780,0
 Nod2=53,5781,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68698,7 +68698,7 @@ Nod1=0,5781,0
 Nod2=17,5782,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68709,7 +68709,7 @@ Nod1=0,5783,0
 Nod2=85,5784,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68720,7 +68720,7 @@ Nod1=0,5785,0
 Nod2=36,5764,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Russell Walkway
@@ -68732,7 +68732,7 @@ Nod1=0,5786,0
 Nod2=34,3486,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68743,7 +68743,7 @@ Nod1=0,3487,0
 Nod2=30,5787,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68755,7 +68755,7 @@ Nod2=19,5791,0
 Nod3=34,5792,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68766,7 +68766,7 @@ Nod1=0,5795,0
 Nod2=8,5796,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68777,7 +68777,7 @@ Nod1=0,5797,0
 Nod2=9,5798,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68788,7 +68788,7 @@ Nod1=0,5745,0
 Nod2=15,5799,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68799,7 +68799,7 @@ Nod1=0,3498,0
 Nod2=7,5752,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68810,7 +68810,7 @@ Nod1=0,5802,0
 Nod2=7,5803,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68821,7 +68821,7 @@ Nod1=0,5804,0
 Nod2=11,5805,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68832,7 +68832,7 @@ Nod1=0,5806,0
 Nod2=22,3506,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68843,7 +68843,7 @@ Nod1=0,5807,0
 Nod2=7,5808,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68854,7 +68854,7 @@ Nod1=0,5809,0
 Nod2=15,5810,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68865,7 +68865,7 @@ Nod1=0,5811,0
 Nod2=20,5812,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68876,7 +68876,7 @@ Nod1=0,5764,0
 Nod2=14,5813,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68887,7 +68887,7 @@ Nod1=0,5790,0
 Nod2=12,5814,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68899,7 +68899,7 @@ Nod2=5,5791,0
 Nod3=15,5815,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68910,7 +68910,7 @@ Nod1=0,5816,0
 Nod2=3,5817,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68921,7 +68921,7 @@ Nod1=0,5818,0
 Nod2=5,3519,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68932,7 +68932,7 @@ Nod1=0,5781,0
 Nod2=6,3520,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68943,7 +68943,7 @@ Nod1=0,5819,0
 Nod2=2,5820,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68954,7 +68954,7 @@ Nod1=0,5821,0
 Nod2=32,5822,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Whananaki Walkway
@@ -68966,7 +68966,7 @@ Nod1=0,3524,0
 Nod2=52,3525,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -68977,7 +68977,7 @@ Nod1=0,3528,0
 Nod2=17,5821,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Otito Track
@@ -68990,7 +68990,7 @@ Nod2=25,5825,0
 Nod3=29,5826,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Otito Track
@@ -69002,7 +69002,7 @@ Nod1=0,5824,0
 Nod2=13,5827,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Otito Track
@@ -69014,7 +69014,7 @@ Nod1=0,5828,0
 Nod2=7,5824,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Motutara Track
@@ -69026,7 +69026,7 @@ Nod1=0,5829,0
 Nod2=10,5830,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69037,7 +69037,7 @@ Nod1=0,5831,0
 Nod2=18,5832,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69048,7 +69048,7 @@ Nod1=0,5833,0
 Nod2=11,5821,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Watkin Powell Track
@@ -69060,7 +69060,7 @@ Nod1=0,5834,0
 Nod2=4,5835,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69071,7 +69071,7 @@ Nod1=0,5825,0
 Nod2=1,5836,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Otito Track
@@ -69084,7 +69084,7 @@ Nod2=1,5827,0
 Nod3=2,3539,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Otito Track
@@ -69096,7 +69096,7 @@ Nod1=0,5824,0
 Nod2=7,5837,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69107,7 +69107,7 @@ Nod1=0,5160,0
 Nod2=27,5159,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69118,7 +69118,7 @@ Nod1=0,5270,0
 Nod2=24,5269,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69129,7 +69129,7 @@ Nod1=0,5278,0
 Nod2=1,5155,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69140,7 +69140,7 @@ Nod1=0,3543,0
 Nod2=1,1136,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69151,7 +69151,7 @@ Nod1=0,5415,0
 Nod2=27,5414,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Takapau Track
@@ -69164,7 +69164,7 @@ Nod2=16,5391,0
 Nod3=23,5352,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69175,7 +69175,7 @@ Nod1=0,3546,0
 Nod2=8,5438,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69186,7 +69186,7 @@ Nod1=0,3547,0
 Nod2=1,5547,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69197,7 +69197,7 @@ Nod1=0,5622,0
 Nod2=49,5621,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69208,7 +69208,7 @@ Nod1=0,5771,0
 Nod2=1,5770,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69219,7 +69219,7 @@ Nod1=0,5792,0
 Nod2=2,5790,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Cape Reinga Coastal Walkway
@@ -69232,7 +69232,7 @@ Nod2=123,5839,0
 Nod3=341,5840,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69244,7 +69244,7 @@ Nod2=138,5865,0
 Nod3=142,5842,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Cape Reinga Coastal Walkway
@@ -69257,7 +69257,7 @@ Nod2=20,6027,0
 Nod3=141,5841,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Cape Reinga Coastal Walkway
@@ -69269,7 +69269,7 @@ Nod1=0,3936,0
 Nod2=300,6026,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Te Werahi Track
@@ -69282,7 +69282,7 @@ Nod2=111,6024,0
 Nod3=113,6023,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Twilight Track
@@ -69294,7 +69294,7 @@ Nod1=0,6024,0
 Nod2=87,5839,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Cape Reinga Coastal Walkway
@@ -69307,7 +69307,7 @@ Nod2=29,5847,0
 Nod3=129,5848,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69318,7 +69318,7 @@ Nod1=0,5849,0
 Nod2=42,5850,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Cape Reinga Coastal Walkway
@@ -69331,7 +69331,7 @@ Nod2=205,6064,0
 Nod3=213,3586,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69342,7 +69342,7 @@ Nod1=0,6022,0
 Nod2=84,3602,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69353,7 +69353,7 @@ Nod1=0,5852,0
 Nod2=140,5853,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Cape Reinga Coastal Walkway
@@ -69365,7 +69365,7 @@ Nod1=0,5854,0
 Nod2=23,5840,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69376,7 +69376,7 @@ Nod1=0,6022,0
 Nod2=47,5855,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69387,7 +69387,7 @@ Nod1=0,3601,0
 Nod2=25,5856,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69398,7 +69398,7 @@ Nod1=0,5857,0
 Nod2=54,5858,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Cape Reinga Coastal Walkway
@@ -69410,7 +69410,7 @@ Nod1=0,5838,0
 Nod2=66,5859,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69421,7 +69421,7 @@ Nod1=0,5860,0
 Nod2=67,5853,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69432,7 +69432,7 @@ Nod1=0,5853,0
 Nod2=29,5861,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69443,7 +69443,7 @@ Nod1=0,5862,0
 Nod2=40,6028,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Kauri Bush Walk
@@ -69455,7 +69455,7 @@ Nod1=0,5864,0
 Nod2=27,5865,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69466,7 +69466,7 @@ Nod1=0,5866,0
 Nod2=17,5867,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69477,7 +69477,7 @@ Nod1=0,6027,0
 Nod2=60,5868,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69488,7 +69488,7 @@ Nod1=0,6021,0
 Nod2=16,6022,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Cape Reinga Coastal Walkway
@@ -69500,7 +69500,7 @@ Nod1=0,5838,0
 Nod2=26,5870,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69511,7 +69511,7 @@ Nod1=0,5871,0
 Nod2=12,5862,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69522,7 +69522,7 @@ Nod1=0,5861,0
 Nod2=27,5872,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69533,7 +69533,7 @@ Nod1=0,6028,0
 Nod2=18,5862,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Cape Reinga Coastal Walkway
@@ -69546,7 +69546,7 @@ Nod2=19,5848,0
 Nod3=26,5874,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69557,7 +69557,7 @@ Nod1=0,5875,0
 Nod2=8,5876,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69568,7 +69568,7 @@ Nod1=0,5861,0
 Nod2=13,5877,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69579,7 +69579,7 @@ Nod1=0,6028,0
 Nod2=13,5878,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Cape Reinga Coastal Walkway
@@ -69591,7 +69591,7 @@ Nod1=0,6026,0
 Nod2=9,5842,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69602,7 +69602,7 @@ Nod1=0,5880,0
 Nod2=61,5875,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69613,7 +69613,7 @@ Nod1=0,5881,0
 Nod2=25,5882,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69624,7 +69624,7 @@ Nod1=0,5883,0
 Nod2=57,5884,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69635,7 +69635,7 @@ Nod1=0,5885,0
 Nod2=25,5886,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69646,7 +69646,7 @@ Nod1=0,5887,0
 Nod2=21,5888,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69657,7 +69657,7 @@ Nod1=0,3637,0
 Nod2=39,3638,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69668,7 +69668,7 @@ Nod1=0,5889,0
 Nod2=13,5890,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69679,7 +69679,7 @@ Nod1=0,5891,0
 Nod2=28,5892,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69690,7 +69690,7 @@ Nod1=0,5858,0
 Nod2=13,5893,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69701,7 +69701,7 @@ Nod1=0,5894,0
 Nod2=37,5895,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69712,7 +69712,7 @@ Nod1=0,5896,0
 Nod2=33,5897,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69723,7 +69723,7 @@ Nod1=0,5898,0
 Nod2=23,5899,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69734,7 +69734,7 @@ Nod1=0,5900,0
 Nod2=24,5901,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69745,7 +69745,7 @@ Nod1=0,5902,0
 Nod2=28,5901,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69756,7 +69756,7 @@ Nod1=0,5901,0
 Nod2=15,5885,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69767,7 +69767,7 @@ Nod1=0,3642,0
 Nod2=31,3641,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69778,7 +69778,7 @@ Nod1=0,5903,0
 Nod2=24,3636,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69789,7 +69789,7 @@ Nod1=0,5885,0
 Nod2=12,3642,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69800,7 +69800,7 @@ Nod1=0,5905,0
 Nod2=10,5906,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69811,7 +69811,7 @@ Nod1=0,5907,0
 Nod2=8,5908,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69822,7 +69822,7 @@ Nod1=0,5909,0
 Nod2=4,5910,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69834,7 +69834,7 @@ Nod2=1,5914,0
 Nod3=42,176,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69845,7 +69845,7 @@ Nod1=0,2720,0
 Nod2=18,5914,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69856,7 +69856,7 @@ Nod1=0,5915,0
 Nod2=70,5916,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69867,7 +69867,7 @@ Nod1=0,3557,0
 Nod2=74,5917,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69878,7 +69878,7 @@ Nod1=0,3559,0
 Nod2=13,5918,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69889,7 +69889,7 @@ Nod1=0,5919,0
 Nod2=179,5920,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69900,7 +69900,7 @@ Nod1=0,3571,0
 Nod2=85,5921,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69911,7 +69911,7 @@ Nod1=0,3571,0
 Nod2=33,5922,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69922,7 +69922,7 @@ Nod1=0,6002,0
 Nod2=10,6003,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69933,7 +69933,7 @@ Nod1=0,3567,0
 Nod2=27,5923,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69944,7 +69944,7 @@ Nod1=0,5924,0
 Nod2=30,5925,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69955,7 +69955,7 @@ Nod1=0,5926,0
 Nod2=35,5927,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69966,7 +69966,7 @@ Nod1=0,3572,0
 Nod2=30,3571,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69977,7 +69977,7 @@ Nod1=0,5927,0
 Nod2=9,5928,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69988,7 +69988,7 @@ Nod1=0,5929,0
 Nod2=7,5927,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -69999,7 +69999,7 @@ Nod1=0,5930,0
 Nod2=80,5931,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Wairakau Stream Track
@@ -70013,7 +70013,7 @@ Nod3=71,5934,0
 Nod4=97,5935,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70024,7 +70024,7 @@ Nod1=0,5936,0
 Nod2=10,5937,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70035,7 +70035,7 @@ Nod1=0,5938,0
 Nod2=28,5939,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70046,7 +70046,7 @@ Nod1=0,5940,0
 Nod2=32,5941,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70057,7 +70057,7 @@ Nod1=0,5942,0
 Nod2=93,3660,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70068,7 +70068,7 @@ Nod1=0,3193,0
 Nod2=46,5945,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70079,7 +70079,7 @@ Nod1=0,5946,0
 Nod2=30,5947,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70090,7 +70090,7 @@ Nod1=0,5948,0
 Nod2=30,5949,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70101,7 +70101,7 @@ Nod1=0,5950,0
 Nod2=83,5949,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70112,7 +70112,7 @@ Nod1=0,3736,0
 Nod2=12,5931,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70123,7 +70123,7 @@ Nod1=0,3737,0
 Nod2=9,5951,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70134,7 +70134,7 @@ Nod1=0,5952,0
 Nod2=9,5933,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70145,7 +70145,7 @@ Nod1=0,5953,0
 Nod2=9,5937,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70156,7 +70156,7 @@ Nod1=0,5954,0
 Nod2=11,5953,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70167,7 +70167,7 @@ Nod1=0,5941,0
 Nod2=18,5955,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70178,7 +70178,7 @@ Nod1=0,5934,0
 Nod2=6,5956,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70189,7 +70189,7 @@ Nod1=0,5957,0
 Nod2=5,3667,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70200,7 +70200,7 @@ Nod1=0,5958,0
 Nod2=19,5959,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70211,7 +70211,7 @@ Nod1=0,5953,0
 Nod2=9,5939,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70222,7 +70222,7 @@ Nod1=0,5945,0
 Nod2=12,5961,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70233,7 +70233,7 @@ Nod1=0,5935,0
 Nod2=6,5962,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70244,7 +70244,7 @@ Nod1=0,5949,0
 Nod2=8,5963,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70255,7 +70255,7 @@ Nod1=0,5937,0
 Nod2=2,4050,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70266,7 +70266,7 @@ Nod1=0,5965,0
 Nod2=1,5931,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70277,7 +70277,7 @@ Nod1=0,5945,0
 Nod2=1,5941,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70288,7 +70288,7 @@ Nod1=0,3720,0
 Nod2=46,5966,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70299,7 +70299,7 @@ Nod1=0,5967,0
 Nod2=30,5968,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70310,7 +70310,7 @@ Nod1=0,5969,0
 Nod2=24,5970,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70321,7 +70321,7 @@ Nod1=0,5971,0
 Nod2=15,5972,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70332,7 +70332,7 @@ Nod1=0,5973,0
 Nod2=6,5972,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70343,7 +70343,7 @@ Nod1=0,5974,0
 Nod2=45,5975,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70354,7 +70354,7 @@ Nod1=0,5972,0
 Nod2=7,5976,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70365,7 +70365,7 @@ Nod1=0,3267,0
 Nod2=52,5978,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70376,7 +70376,7 @@ Nod1=0,6029,0
 Nod2=21,5979,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70387,7 +70387,7 @@ Nod1=0,5980,0
 Nod2=62,6029,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70399,7 +70399,7 @@ Nod2=13,5980,0
 Nod3=34,5981,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70410,7 +70410,7 @@ Nod1=0,5982,0
 Nod2=41,5983,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70421,7 +70421,7 @@ Nod1=0,5984,0
 Nod2=4,5985,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70432,7 +70432,7 @@ Nod1=0,5986,0
 Nod2=50,5987,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70444,7 +70444,7 @@ Nod2=6,5991,0
 Nod3=28,5989,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70455,7 +70455,7 @@ Nod1=0,5989,0
 Nod2=59,5990,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70466,7 +70466,7 @@ Nod1=0,5991,0
 Nod2=36,5992,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70477,7 +70477,7 @@ Nod1=0,5989,0
 Nod2=112,5993,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70488,7 +70488,7 @@ Nod1=0,5994,0
 Nod2=46,5995,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70499,7 +70499,7 @@ Nod1=0,5995,0
 Nod2=6,5996,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70510,7 +70510,7 @@ Nod1=0,5995,0
 Nod2=3,5997,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70521,7 +70521,7 @@ Nod1=0,5999,0
 Nod2=8,1045,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70532,7 +70532,7 @@ Nod1=0,6006,0
 Nod2=22,5409,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70543,7 +70543,7 @@ Nod1=0,3127,0
 Nod2=60,5049,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70554,7 +70554,7 @@ Nod1=0,6012,0
 Nod2=22,5068,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70565,7 +70565,7 @@ Nod1=0,3056,0
 Nod2=40,5057,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -70576,7 +70576,7 @@ Nod1=0,6037,0
 Nod2=33,4974,0
 [END]
 
-;sufi=1030000005851
+;linzid=59932
 [POLYLINE]
 Type=0x6
 Label=OPITO BAY RD
@@ -70591,7 +70591,7 @@ Nod3=11,2126,0
 Numbers1=5,E,410,410,O,449,449
 [END]
 
-;sufi=1030000006479
+;linzid=49817
 [POLYLINE]
 Type=0xa
 Label=SWEETWATER RD
@@ -70605,7 +70605,7 @@ Nod2=20,196,0
 Numbers1=0,O,135,247,E,238,238
 [END]
 
-;sufi=1030000006485
+;linzid=49822
 [POLYLINE]
 Type=0x6
 Label=SPAINS RD
@@ -70619,7 +70619,7 @@ Nod2=16,6047,0
 Numbers1=0,E,354,348,O,393,359
 [END]
 
-;sufi=1030000006485
+;linzid=49822
 [POLYLINE]
 Type=0xa
 Label=SPAINS RD
@@ -70633,7 +70633,7 @@ Nod2=1,219,0
 Numbers1=0,E,346,336,O,357,311
 [END]
 
-;sufi=1030000006485
+;linzid=49822
 [POLYLINE]
 Type=0x6
 Label=SPAINS RD
@@ -70646,7 +70646,7 @@ Nod1=0,6048,0
 Nod2=2,257,0
 [END]
 
-;sufi=1030000005577
+;linzid=59895
 [POLYLINE]
 Type=0x5
 Label=BEECHY ST
@@ -70660,7 +70660,7 @@ Nod2=4,6050,0
 Nod3=5,6051,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0xa
 Label=Access to DOC camping ground
@@ -70672,7 +70672,7 @@ Nod1=0,6056,0
 Nod2=11,6057,0
 [END]
 
-;sufi=1030000006311
+;linzid=49676
 [POLYLINE]
 Type=0xa
 Label=CLOUGH RD
@@ -70686,7 +70686,7 @@ Nod2=23,511,0
 Numbers1=0,E,310,186,O,195,165
 [END]
 
-;sufi=1030000006247
+;linzid=49622
 [POLYLINE]
 Type=0xa
 Label=CHURCH RD
@@ -70700,7 +70700,7 @@ Nod2=40,6059,0
 Numbers1=0,E,532,252,O,549,265
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0xa
 Label=Road
@@ -70712,7 +70712,7 @@ Nod1=0,6059,0
 Nod2=8,6060,0
 [END]
 
-;sufi=1030000006247
+;linzid=49622
 [POLYLINE]
 Type=0x6
 Label=CHURCH RD
@@ -70726,7 +70726,7 @@ Nod2=30,6059,0
 Numbers1=0,O,101,263,E,106,250
 [END]
 
-;sufi=1030000006396
+;linzid=49747
 [POLYLINE]
 Type=0x2
 Label=~[0x2d]1
@@ -70741,7 +70741,7 @@ Nod3=40,4251,0
 Label2=CAPE REINGA ROAD
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Walkway
@@ -70753,7 +70753,7 @@ Nod1=0,6064,0
 Nod2=12,6063,0
 [END]
 
-;sufi=1030000006546
+;linzid=49871
 [POLYLINE]
 Type=0xa
 Label=TAPOTUPOTU RD
@@ -70766,7 +70766,7 @@ Nod1=0,3995,0
 Nod2=49,2739,0
 [END]
 
-;sufi=1030000006534
+;linzid=49862
 [POLYLINE]
 Type=0xa
 Label=RARAWA BEACH RD
@@ -70778,7 +70778,7 @@ Nod1=0,6065,0
 Nod2=20,6066,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Lookout Track
@@ -70790,7 +70790,7 @@ Nod1=0,6067,0
 Nod2=19,6068,0
 [END]
 
-;sufi=1030000006452
+;linzid=49794
 [POLYLINE]
 Type=0xa
 Label=HOUHORA HEADS RD
@@ -70803,7 +70803,7 @@ Nod1=0,6069,0
 Nod2=7,2783,0
 [END]
 
-;sufi=1030000006529
+;linzid=49857
 [POLYLINE]
 Type=0xa
 Label=QUARRY RD
@@ -70816,7 +70816,7 @@ Nod1=0,6074,0
 Nod2=3,456,0
 [END]
 
-;sufi=1030000189678
+;linzid=61684
 [POLYLINE]
 Type=0x6
 Label=DONALD LANE
@@ -70854,7 +70854,7 @@ Nod2=2,6078,0
 Nod3=4,6077,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Six Foot Track
@@ -70866,7 +70866,7 @@ Nod1=0,5597,0
 Nod2=15,6081,0
 [END]
 
-;sufi=2030000082432
+;linzid=95340
 [POLYLINE]
 Type=0x6
 Label=RANGIPUTA RD
@@ -70880,7 +70880,7 @@ Nod2=14,463,0
 Numbers1=0,E,56,2,O,43,1
 [END]
 
-;sufi=1030000006499
+;linzid=49835
 [POLYLINE]
 Type=0xa
 Label=NGATIKAHU RD
@@ -70894,7 +70894,7 @@ Nod2=1,808,0
 Numbers1=0,E,6,6,O,5,5
 [END]
 
-;sufi=1030000006522
+;linzid=49853
 [POLYLINE]
 Type=0x6
 Label=FORESHORE RD
@@ -70908,7 +70908,7 @@ Nod2=1,824,0
 Nod3=4,832,0
 [END]
 
-;sufi=1030000006478
+;linzid=60016
 [POLYLINE]
 Type=0xa
 Label=TAIPA HEIGHTS DR
@@ -70922,7 +70922,7 @@ Nod2=5,6098,0
 Numbers1=0,E,138,74,O,131,67
 [END]
 
-;sufi=1030000006384
+;linzid=49737
 [POLYLINE]
 Type=0xa
 Label=CABLE BAY BLOCK RD
@@ -70938,7 +70938,7 @@ Numbers1=0,E,40,40,O,107,119
 Numbers2=6,O,409,525,E,336,554
 [END]
 
-;sufi=1030000006394
+;linzid=49745
 [POLYLINE]
 Type=0x6
 Label=THOMAS ST
@@ -70952,7 +70952,7 @@ Nod2=3,1053,0
 Numbers1=0,E,6,4,O,3,1
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Walkway
@@ -70964,7 +70964,7 @@ Nod1=0,1057,0
 Nod2=30,6088,0
 [END]
 
-;sufi=1030000006609
+;linzid=60032
 [POLYLINE]
 Type=0x6
 Label=OPARIHI RD
@@ -70978,7 +70978,7 @@ Nod2=6,1076,0
 Numbers1=0,N,-1,-1,O,13,13
 [END]
 
-;sufi=1030000006609
+;linzid=60032
 [POLYLINE]
 Type=0x16
 Label=OPARIHI RD
@@ -71016,7 +71016,7 @@ Nod2=2,6092,0
 Nod3=4,6093,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0xa
 Label=To Cemetary
@@ -71028,7 +71028,7 @@ Nod1=0,6096,0
 Nod2=6,6095,0
 [END]
 
-;sufi=1030000006543
+;linzid=49869
 [POLYLINE]
 Type=0x6
 Label=TE HAPUA RD
@@ -71041,7 +71041,7 @@ Nod1=0,6097,0
 Nod2=18,6021,0
 [END]
 
-;sufi=1030000006543
+;linzid=49869
 [POLYLINE]
 Type=0xa
 Label=TE HAPUA RD
@@ -71056,7 +71056,7 @@ Nod3=32,3942,0
 Nod4=33,8,0
 [END]
 
-;sufi=1030000006478
+;linzid=60016
 [POLYLINE]
 Type=0x6
 Label=TAIPA HEIGHTS DR
@@ -71073,7 +71073,7 @@ Numbers1=0,E,72,64,O,65,57
 Numbers2=3,E,60,18,O,49,11
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Walkway
@@ -71085,7 +71085,7 @@ Nod1=0,6100,0
 Nod2=12,4220,0
 [END]
 
-;sufi=1030000005865
+;linzid=49308
 [POLYLINE]
 Type=0x6
 Label=EDMONDS RD
@@ -71099,7 +71099,7 @@ Nod2=5,2081,0
 Numbers1=0,E,78,24,O,55,17
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Edmond Ruins Walkway
@@ -71111,7 +71111,7 @@ Nod1=0,6102,0
 Nod2=4,6103,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x6
 Label=Haruru Falls Carpark
@@ -71146,7 +71146,7 @@ Nod2=2,6106,0
 Nod3=4,6107,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x6
 Label=Road to Cemetary
@@ -71158,7 +71158,7 @@ Nod1=0,6108,0
 Nod2=1,6109,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x6
 Label=To Opua-Russell Car Ferry
@@ -71171,7 +71171,7 @@ Nod1=0,6110,0
 Nod2=1,6050,0
 [END]
 
-;sufi=1030000005467
+;linzid=48984
 [POLYLINE]
 Type=0x5
 Label=AUCKS RD
@@ -71192,7 +71192,7 @@ Numbers2=11,E,348,348,O,335,335
 Numbers3=12,E,326,190,O,335,135
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 Label=Boardwalk
@@ -71204,7 +71204,7 @@ Nod1=0,6113,0
 Nod2=3,6114,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x16
 EndLevel=1
@@ -71215,7 +71215,7 @@ Nod1=0,3747,0
 Nod2=20,5789,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0xa
 Label=Road
@@ -71227,7 +71227,7 @@ Nod1=0,5768,0
 Nod2=8,6116,0
 [END]
 
-;sufi=1030000006430
+;linzid=49776
 [POLYLINE]
 Type=0x6
 Label=KOTARE ST
@@ -71247,7 +71247,7 @@ Numbers3=2,E,4,2,N,-1,-1
 Numbers4=4,N,-1,-1,N,-1,-1
 [END]
 
-;sufi=1030000006574
+;linzid=49896
 [POLYLINE]
 Type=0x6
 Label=KAKAPO RD
@@ -71269,7 +71269,7 @@ Numbers4=5,E,54,68,O,63,65
 Numbers5=6,E,74,84,O,67,69
 [END]
 
-;sufi=1030000006282
+;linzid=49651
 [POLYLINE]
 Type=0x6
 Label=MOA ST
@@ -71285,7 +71285,7 @@ Numbers1=0,E,20,4,O,21,3
 Numbers2=1,N,-1,-1,N,-1,-1
 [END]
 
-;sufi=1030000006487
+;linzid=60018
 [POLYLINE]
 Type=0x6
 Label=TUI ST
@@ -71301,7 +71301,7 @@ Numbers1=0,E,22,2,O,15,3
 Numbers2=4,N,-1,-1,N,-1,-1
 [END]
 
-;sufi=1030000006550
+;linzid=49874
 [POLYLINE]
 Type=0x6
 Label=TAKAHE RD
@@ -71329,7 +71329,7 @@ Numbers7=11,E,40,22,O,37,23
 Numbers8=13,E,16,2,O,19,9
 [END]
 
-;sufi=1030000005641
+;linzid=59903
 [POLYLINE]
 Type=0x6
 Label=DU FRESNE PL
@@ -71343,7 +71343,7 @@ Nod2=1,3819,0
 Numbers1=0,E,60,52,O,21,25
 [END]
 
-;sufi=1030000005641
+;linzid=59903
 [POLYLINE]
 Type=0x6
 Label=DU FRESNE PL
@@ -71552,7 +71552,7 @@ Data0=(-35.43387,174.44636),(-35.43406,174.44656),(-35.43398,174.44668),(-35.433
 Data0=(-35.43375,174.44476),(-35.43375,174.44488),(-35.43347,174.44520),(-35.43351,174.44531),(-35.43387,174.44499),(-35.43393,174.44471),(-35.43370,174.44450)
 [END]
 
-;sufi=1030000016592
+;linzid=61101
 [POLYLINE]
 Type=0x6
 Label=OWAI AVE
@@ -71570,7 +71570,7 @@ Numbers2=6,E,30,16,O,41,27
 Numbers3=10,E,14,4,O,25,11
 [END]
 
-;sufi=1030000016145
+;linzid=55627
 [POLYLINE]
 Type=0x6
 Label=WEBB RD
@@ -71591,7 +71591,7 @@ Numbers3=43,O,149,149,E,160,160
 Numbers4=44,O,223,223,E,206,334
 [END]
 
-;sufi=1030000000305
+;linzid=47785
 [POLYLINE]
 Type=0x6
 Label=PAIAKA RD
@@ -71604,7 +71604,7 @@ Nod1=0,6118,0
 Nod2=1,2470,0
 [END]
 
-;sufi=1030000016140
+;linzid=55623
 [POLYLINE]
 Type=0x6
 Label=WHANANAKI NORTH RD
@@ -71635,7 +71635,7 @@ Numbers8=121,N,-1,-1,N,-1,-1
 Numbers9=133,O,1263,1663,E,1580,1582
 [END]
 
-;sufi=1030000016493
+;linzid=55883
 [POLYLINE]
 Type=0xa
 Label=PIGS HEAD RD
@@ -71653,7 +71653,7 @@ Numbers2=28,O,461,461,N,-1,-1
 Numbers3=39,N,-1,-1,N,-1,-1
 [END]
 
-;sufi=1030000006118
+;linzid=49514
 [POLYLINE]
 Type=0x6
 Label=WAIOTEHUE RD
@@ -71667,7 +71667,7 @@ Nod2=2,530,0
 Numbers1=0,E,106,102,O,819,819
 [END]
 
-;sufi=1030000006258
+;linzid=49630
 [POLYLINE]
 Type=0x2
 Label=NORTH RD
@@ -71706,7 +71706,7 @@ Nod3=5,6127,0
 Nod4=6,6126,0
 [END]
 
-;sufi=0
+;linzid=0
 [POLYLINE]
 Type=0x7
 Label=Pak'n Save
@@ -71715,5 +71715,3 @@ Data0=(-35.09925,173.25936),(-35.09934,173.25888)
 Nod1=0,6129,0
 Nod2=1,6128,0
 [END]
-
-;@FILE,"C:\Users\Peter\Documents\NZOGPS\Numbers\Northland-numbers.gdb",0,"..\Numbers\Northland-numbers.gdb"

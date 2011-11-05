@@ -106197,7 +106197,7 @@ Data0=(-41.50955,173.93081)
 
 ;1133052
 [POI]
-Type=0x2a0e
+Type=0x2a0d
 Label=YELLOW ROCKET BAGELS & COFFEE NORTHLANDS
 StreetDesc=Shop 2, Northlands Shopping Mall, 55 Main North Rd, Papanui, Chc/ Cafe, bagels, 
 Phone=+6433527500
@@ -202262,7 +202262,7 @@ Data0=(-43.42347,172.65331)
 
 ;1190037
 [POI]
-Type=0x2f
+Type=0x2e
 Label=TOKYO FOOD
 StreetDesc=56 Newtown St. Bromley, Chc/ Japanese Food products and kitchenware
 Phone=+6433764093
@@ -202382,7 +202382,7 @@ Data0=(-43.53764,172.59940)
 
 ;1190080
 [POI]
-Type=0x2a
+Type=0x2a0e
 Label=JOE'S GARAGE
 StreetDesc=19 Marriner St, Sumner, Chc 8081, Canterbury/ Cafe, restaurant, food, coffee, dr
 Phone=+6439622233

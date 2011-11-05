@@ -3,7 +3,7 @@ print "shape-parser.rb #{Time.now}\nLoading library code...\n"
 begin
   require 'rgeo/shapefile'
 rescue LoadError
-  print "Gem missing. See README.txt\n"
+  print "Gem missing (rgeo/shapefile). See README.txt\n"
   exit
 end
 load "nzogps_library.rb"

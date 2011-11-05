@@ -17,10 +17,16 @@ Outputs:
 Polish format LINZ files
 
 Requirements:
-Ruby 1.87+
-Available for Windows from http://rubyinstaller.org/downloads/
+Ruby 1.87+, 1.93 recommeneded
+
+Ruby Windows Installation Instructions:
+Get the latest installer from http://rubyinstaller.org/downloads/
+You will also need the DEVELOPMENT KIT on that page. Instructions for devkit install here
+https://github.com/oneclick/rubyinstaller/wiki/Development-Kit
+(These instructions could do with expansion...)
 
 Rubygems
+These are libraries that we must install to run this script. Run the following from command line.
 gem install rgeo #https://github.com/dazuma/rgeo
 gem install rgeo-shapefile #http://virtuoso.rubyforge.org/rgeo-shapefile/
 gem install dbf

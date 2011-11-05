@@ -255,5 +255,5 @@ sufi=1030000049494	SHORT RD		Waiongana (Taranaki, NZ)
 sufi=1030000050411	WHARF RD		Opunake (Taranaki, NZ)
 sufi=1030000183705	PERERE RD		Rahotu (Taranaki, NZ)
 sufi=1030000183698	RIKI RD			Rahotu (Taranaki, NZ)
-
+sufi=1030000051447	GLASGOW RD		Ratana (Manawatu-Wanganui)
 

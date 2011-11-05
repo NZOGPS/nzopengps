@@ -1,5 +1,11 @@
 print "shape-parser.rb #{Time.now}\nLoading library code...\n"
-require 'rgeo/shapefile'
+
+begin
+  require 'rgeo/shapefile'
+rescue LoadError
+  print "Gem missing. See README.txt\n"
+  exit
+end
 load "nzogps_library.rb"
 
 path = 'lds-nz-road-centre-line-electoral-SHP/nz-road-centre-line-electoral.shp'

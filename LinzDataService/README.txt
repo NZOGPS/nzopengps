@@ -6,10 +6,10 @@ Future:
   Stage 2: Identify differences between LINZ data and NZOGPS data
 
 Inputs:
-
-LINZ Data Service exports from
+The LINZ Data Service exports are available from
 http://data.linz.govt.nz/layer/818-nz-road-centre-line-electoral/
  -- must export using Map Projection NZGD2000 (EPSG: 4167 Lat/Long) NOT the default option NZGD200 / NZ Transverse Mercator 
+These won't be checked into our repository, so each person will need to get it themselves.
 
 Extract into folder LinzDataService/lds-nz-road-centre-line-electoral-SHP
  
@@ -27,8 +27,10 @@ https://github.com/oneclick/rubyinstaller/wiki/Development-Kit
 
 Rubygems
 These are libraries that we must install to run this script. Run the following from command line.
-gem install rgeo #https://github.com/dazuma/rgeo
-gem install rgeo-shapefile #http://virtuoso.rubyforge.org/rgeo-shapefile/
+gem install rgeo
+#documentation https://github.com/dazuma/rgeo
+gem install rgeo-shapefile
+#documetation http://virtuoso.rubyforge.org/rgeo-shapefile/
 gem install dbf
 
 Script developed November 2011 using Ruby 1.8.7 p352

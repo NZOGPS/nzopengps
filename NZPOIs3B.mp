@@ -28668,7 +28668,7 @@ Data0=(-41.47621,173.84210)
 
 ;1090692
 [POI]
-Type=0x2a
+Type=0x2b01
 Label=LAW COURTS HOTEL
 StreetDesc=53 Stuart St, Dud 9016/ Between the Railway Station and the Octagon is Central D
 Phone=+6434778036
@@ -52586,16 +52586,6 @@ Phone=+6433854383
 Data0=(-43.53300,172.63417)
 [END]
 
-;1108474
-[POI]
-Type=0x2b01
-Label=LATIMER HOTEL 24HR
-StreetDesc=30 Latimer Sq, Chc/ Accommodation
-Phone=+6433796760
-zip=24 Hours
-Data0=(-43.53052,172.64352)
-[END]
-
 ;1108475
 [POI]
 Type=0x2f
@@ -52621,16 +52611,6 @@ Label=LAUNDERERS (CHCH) LTD
 StreetDesc=26 Raycroft St, Opawa, Chc/ 
 Phone=+6433665150
 Data0=(-43.54639,172.65520)
-[END]
-
-;1108487
-[POI]
-Type=0x2b01
-Label=LAW COURTS HOTEL
-StreetDesc=53-65 Stuart St, Dud/ 
-Phone=+6434778036
-zip=Mon-Fri 0830-1700
-Data0=(-45.87511,170.50666)
 [END]
 
 ;1108497
@@ -60582,7 +60562,7 @@ Data0=(-43.04615,172.77456)
 
 ;1113229
 [POI]
-Type=0x2b01
+Type=0x2b02
 Label=SHINY PAUA MOTEL B & B
 StreetDesc=240 Spey St, Invercargill/ Accommodation
 Phone=+6432182503

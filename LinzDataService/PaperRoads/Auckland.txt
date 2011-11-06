@@ -1,0 +1,77 @@
+50107	Robert Street	Mahurangi East
+53358	Railway Avenue	Greenlane
+50227	Russell Street	Mahurangi East
+61780	Short Street	Mahurangi East
+50188	Bay Street	Mahurangi East
+50567	Cross Street	Mahurangi East
+60139	James Street	Mahurangi East
+50528	John Street	Mahurangi East
+50263	Frederick St	Mahurangi East
+50716	Hill Street	Mahurangi East
+50098	Wattenbach St	Port Albert
+60072	Market Street	Port Albert
+50254	Garfield Street	Port Albert
+50260	Garibaldi St	Port Albert
+50301	Williamson St	Port Albert
+50316	Brookfield St	Port Albert
+50502	Alexandra St	Port Albert
+50586	Cromwell Street	Port Albert
+50601	Auckland Street	Port Albert
+50736	Victoria Street	Port Albert
+50760	Florence Street	Port Albert
+50820	Graham Street	Port Albert
+50822	Gladstone St	Port Albert
+50901	Clarence Street	Port Albert
+50914	Hanover Street	Port Albert
+50925	Havelock Street	Port Albert
+60208	Omaha Block Access Road	Leigh
+50947	Cook Road	Puhoi
+51862	Byrne Place	Paremoremo
+52156	Cable Place	New Lynn
+52750	Parker Track	Nihotupu
+53168	Arcade 32	Auckland Central
+53358	Railway Avenue	Greenlane
+53536	Imperial Arcade	Auckland Central
+35906	Kawhero Street	Kuaotunu
+36101	Pungarehu St	Kuaotunu
+58359	Jowitt Place	Favona
+61834	Boundary Road	Parnell
+59252	Froude Street	Auckland Central
+59253	Brunswick St	Auckland Central
+59609	Fairmont Place	Albany
+43277	Beach Road	Kuaotunu
+94906	Grivelle Street	Kumeu
+89516	Ansett Place	Auckland Airport
+89983	Old Waipu Road North	Mangawhai
+94604	The Prom	Coatsville
+61443	Boundary Road	Flatbush
+60086	Russell Road	Waiwhiu
+48825	McKinley Road	Ruawai
+1030000184056	Short Street	Sandspit
+50695	Radiata Rd	Warkworth
+54484	Hill Rd		Titirangi
+54589	Kingswood Tce	Titirangi
+55900	Blake Rd	Nukutawhiti
+48611	Noall Rd	Donnellys Crossing
+48814	Leaf Rd		Matakohe
+51435	Pearn Pl	Northcote
+48623	Clotworthy Rd	Tangiteroria
+59797	Te Rore St	Pukehuia
+48503	Te Huia St	Pukehuia
+48619	Miro St		Pukehuia
+48614	Tito St		Pukehuia
+48531	Tui St		Pukehuia
+59071	Leveloff Rd	Paremoremo
+58546	Quarry Rd	Mangare
+50551	BJORKLUND RD	Pakari
+57352	PIGEON MOUNTAIN QUARRY RD	"-36.88803,174.90005"
+58721	Domain Rd	Papatoetoe
+55887	Primrose Alley	Portland
+36135	BILL DONOVAN MEMORIAL DR Purangi
+50603	Barker Rd	Warkworth
+50197	Moirs Rd	Warkworth
+50470	Duke St		Mahurangi East
+60125	Short St	Mahurangi East
+50817	Reef St		Mahurangi East
+
+

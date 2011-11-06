@@ -1,0 +1,57 @@
+4492	O,9,9	Cross Street	Maheno (Otago, NZ)	31/08/2011 3:45p.m.
+660	O,3,3	Island Street	Maheno (Otago, NZ)	31/08/2011 2:58p.m.
+765	O,891,891	Dunrobin Road	Five Forks (Otago, NZ)	31/08/2011 3:53p.m. (Numbered correctly on Canty tile)
+5735	O,1,15	Hampshire Street	Kingston (Southland, NZ)	14/10/2011 12:35p.m.
+5737	B,1,2	Jetty Street	Kingston (Southland, NZ)	31/08/2011 5:01p.m.
+8680	O,3,5	Hereford Street	Kingston (Southland, NZ)	1/09/2011 11:58:10 p.m.
+2685	B,6,9	Woburn Street	Hyde (Otago, NZ)	31/08/2011 6:54p.m.
+2941	E,6,6	Meadow Road	Warrington (Otago, NZ)	31/08/2011 2:40p.m.
+3034	E,30,40	Glasgow Street	Waikouaiti (Otago, NZ)	11/09/2011 12:57:48 a.m.
+3060	E,2,10	Bridge Street	Waitati (Otago, NZ)	1/09/2011 11:53:02 p.m.
+3088	O,1,1	Wick Street	Waikouaiti (Otago, NZ)	31/08/2011 2:00p.m.
+3097	E,10,30	Evansdale Glen Road	Evansdale (Otago, NZ)	4/09/2011 12:48:39 a.m.
+5069	E,8,8	Ethel Street	Osborne (Otago, NZ)	31/08/2011 3:25p.m.
+3128	E,6,6	Lewis Street	Karitane (Otago, NZ)	31/08/2011 1:58p.m.
+3144	O,23,45	Banff Street	Waikouaiti (Otago, NZ)	31/08/2011 2:00p.m.
+3158	B,1,24	Bay Street	Waitati (Otago, NZ)	1/09/2011 11:53:00 p.m.
+3254	O,49,53	Stirling Street	Waikouaiti (Otago, NZ)	31/08/2011 4:45p.m.
+3901	E,2,2	Eden Street	Lawrence (Otago, NZ)	31/08/2011 3:41p.m.
+3916	B,1,10	Cambridge Street	Tapanui (Otago, NZ)	27/09/2011	11:30:39 p.m.
+6160	O,11,47	Boyd Street	Bluff (Southland, NZ)	31/08/2011 7:04p.m.
+6529	O,11,11	Barkly Street	Greenhills (Southland, NZ)	31/08/2011 12:22p.m.
+6647	B,1,8	Luna Street	Lumsden (Southland, NZ)	31/08/2011 5:05p.m.
+6677	E,46,76	Garden Street	Lumsden (Southland, NZ)	13/09/2011 11:59:17 p.m.
+8443	O,15,15	Heron Street	Lumsden (Southland, NZ)	31/08/2011 3:40p.m.
+6976	O,61,61	Hill Road		Lumsden (Southland, NZ)	14/09/2011 12:44:48 a.m.
+7125	O,63,73	Moray Terrace	Fortrose (Southland, NZ)	14/10/2011 6:57p.m.
+7170	O,25,25	EAST ST		Tokanui (Southland, NZ)	3/10/2011 5:04p.m
+7206	E,16,20	Ira Street	Lumsden (Southland, NZ)	31/08/2011 7:38p.m.
+8489	E,4,36	Juno Street	Lumsden (Southland, NZ)	31/08/2011 7:46p.m.
+8493	E,44,98	Farm Street	Lumsden (Southland, NZ)	4/09/2011 12:23:19 a.m.
+7227	E,20,20	Farrar Street	Fortrose (Southland, NZ)	31/08/2011 1:54p.m.
+8753	B,8,21	Vaga Street	Lumsden (Southland, NZ)	31/08/2011 5:03p.m.
+7296	E,14,16	Don Street	Wyndham (Southland, NZ)	31/08/2011 4:56p.m.
+7507	O,25,49	Kauri Street	Colac Bay (Southland, NZ)	1/09/2011 11:19:30 p.m.
+7522	E,8,8	Rata Street	Colac Bay (Southland, NZ)	31/08/2011 3:19p.m.
+7530	B,5,6	Stokes Street	Colac Bay (Southland, NZ)	1/09/2011 11:55:04 p.m.
+7542	O,3,7	Pandora Street	Colac Bay (Southland, NZ)	31/08/2011 7:53p.m.
+7569	O,5,13	Alexandra Street	Riverton (Southland, NZ)	31/08/2011 2:21p.m.
+7579	E,16,16	Aparima Place	Riverton (Southland, NZ)	31/08/2011 2:21p.m.
+7593	B,21,40	Fitzroy Street	Wreys Bush (Southland, NZ)	31/08/2011 4:59p.m.
+8567	E,40,42	High Street	Riverton (Southland, NZ)	30/09/2011 4:42p.m.
+8570	B,9,24	Ngata Street	Riverton (Southland, NZ)	1/09/2011 11:28:43 p.m.
+7672	E,2,2	Lansdowne Crescent	Riverton (Southland, NZ)	31/08/2011 12:23p.m.
+8584	E,50,90	Horrell Road	Eastern Bush (Southland, NZ)	2/09/2011 12:02:16 a.m.
+7816	O,135,135	Daniel Road	Otaitai Bush (Southland, NZ)	1/09/2011 11:33:37 p.m.
+7862	E,198,208	Church Street	Riverton (Southland, NZ)	30/09/2011 4:50p.m.
+7867	O,481,481	Colac Foreshore Road	Colac Bay (Southland, NZ)	8/09/2011 5:21p.m.
+7875	O,7,7	Russell Street	Wairio (Southland, NZ)	31/08/2011 2:31p.m.
+7924	O,3,5	Oldham Street	Waimatuku (Southland, NZ)	31/08/2011 4:23p.m.
+7927	B,16,29	Pomare Street	Riverton (Southland, NZ)	1/09/2011 11:27:11 p.m.
+8624	O,57,57	Pitt Street	Riverton (Southland, NZ)	30/09/2011 4:34p.m.
+7930	O,15,25	Poole Street	Waimatuku (Southland, NZ)	31/08/2011 4:23p.m.
+7936	E,50,70	York Street	Ohai (Southland, NZ)	30/09/2011 12:32p.m.
+8000	E,34,50	Solomon Street	Gummies Bush (Southland, NZ)	31/08/2011 7:32p.m.
+8001	O,29,29	Hodgkinson Street	Gummies Bush (Southland, NZ)	31/08/2011 1:27p.m.
+3246	B,40,49	E,78,78	Stornoway Street	Karitane (Otago, NZ)	19/10/2011 2:10p.m.
+1826	E,200,200	Blacks Road	Opoho, Dunedin (Otago, NZ)	19/10/2011 2:14p.m.

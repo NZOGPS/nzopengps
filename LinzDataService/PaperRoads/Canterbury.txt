@@ -1,0 +1,252 @@
+8981	Old Pigeon Bay Road	Okains Bay
+8988	Eyre Main Drain Road	Wilsons Siding-Clarkville	14/04/2010 9:01p.m.
+9011	Gloucester Arcade	Christchurch Central
+9012	High Street Arcade	Christchurch Central
+9090	BOULDER RD	Glentui (Canterbury, NZ)	8/05/2010 11:39p.m.
+9199	Cottons Road	Okains Bay
+9239	Saddle Road	Teddington
+9300	Old German Bay Road	Akaroa
+407	Hobson Street	Kurow
+425	Stanley Street	Livingstone
+445	Princes Street	Ngapara
+447	Queen Street	Ngapara	28/04/2010 12:08p.m.
+463	WAKEFIELD ST	RICHMOND
+5332	Webster Street	Windsor
+4595	Smith Street	Duntroon
+535	South Street	Waitaki Bridge
+4604	WHITBY ST	RICHMOND
+575	Dee Street	Georgetown
+589	Cairns Road	Maerewhenua
+618	Kildrummy Street	Georgetown
+683	MILNE RD	Pukeuri (Otago, NZ)	7/01/2011 1:11p.m.
+5411	Moffat Street	Livingstone
+4634	Grant Street	Duntroon
+770	Don Street	Georgetown
+774	MacLean Street	Waitaki Bridge
+779	Lowe Street	Waitaki Bridge
+797	Blantyre Street	Livingstone
+4647	Bogie Street	Georgetown
+4676	Strangford Street	Naseby	14/04/2010 8:14p.m.
+1009	Enwright Road	Saint Bathans
+4682	CALDER ST	Wedderburn
+1032	Cambrian Settlement Road	Cambrians	28/04/2010 8:54a.m.
+1038	Holywood Street	Naseby
+1047	BROWN ST	Wedderburn
+1062	Annalee Street	Naseby
+5363	MIDDLE ST	Hills Creek	28/04/2010 10:59a.m.
+1080	Webb Road	Saint Bathans
+1112	Lewis Road	Oturehua
+1121	HAWKDUN STATION RD	Saint Bathans (Otago, NZ)	17/06/2010 10:14a.m.
+4696	Belfast Street	Naseby
+1151	Owel Street	Naseby
+1379	Derby Street	Arrowtown	16/04/2010 5:38p.m.
+1381	Flint Street	Arrowtown
+1426	Kilmuir Street	Kinloch
+1440	CECIL RD	Queenstown (Otago, NZ)	23/06/2010 2:24p.m.
+1453	Corry Street	Kinloch
+1525	Nevis Street	Kinloch
+1527	Tallisker Street	Kinloch
+1552	Skye Street	Kinloch
+1606	Waitiri Road	Roaring Meg
+1679	Dublin Street	Hawea Flat	28/04/2010 10:54a.m.
+1682	Charles Street	Gladstone
+1683	Cork Street	Gladstone
+1688	Seven Street	Gladstone
+5447	Carnsore Street	Hawea Flat
+1705	Kinsale Street	Gladstone
+1712	Fort Street	Gladstone
+1716	Baltimore Street	Gladstone
+1717	Barry Street	Gladstone
+1726	Waterford Terrace	Hawea Flat
+1732	Tuscar Street	Hawea Flat
+9310	Gold Spur Road	Duvauchelle
+9336	Malmanche Road	Long Bay
+9339	SHAWS RD	Little Akaloa	28/04/2010 8:42p.m.
+9342	Ridge Road	Pigeon Bay
+16868	Spur Road	Barrys Bay
+15669	RUE CHARBONNIER	Akaroa 
+20631	DERBY ST	Okarito
+20252	QUEEN ST	Okarito
+20256	JUAN RD	Ruatapu (West Coast, NZ)	1/07/2010 9:56a.m.
+20260	Town Belt	Ross
+20273	H N LINE RD	Totara River	16/04/2010 3:26p.m.
+20276	H F LINE RD	Ruatapu
+20278	HAMPTON ST	Ross
+20279	H G LINE RD	
+20293	Lang Road	Kokatahi
+20583	LEOPOLD ST	Okarito
+20632	FOX ST	Kokatahi (West Coast, NZ)	2/10/2011 10:55:11 p.m.
+20304	FLAGSTAFF RD	Paringa (West Coast, NZ)	23/06/2010 3:34p.m.
+20322	stock rd kokatahi
+20323	ALBION ST	Okarito
+20340	Fitzgerald Street	Jackson Bay
+20342	FERRY RD	Ruatapu (West Coast, NZ)	1/07/2010 9:58a.m.
+20343	Waipara Street	Jackson Bay
+20649	Ward Road	Paringa
+20346	Walsh Road	Gillespies Beach
+20347	WALLACE RD	Westland National Park (West Coast, NZ)	22/06/2010 3:44p.m.
+20363	TUCKER FLAT RD	Blue Spur, Hokitika (West Coast, NZ)	31/05/2011 1:38p.m.
+20594	BUTCHERS GULLY RD	Kokatahi (West Coast, NZ)	31/05/2011 1:44p.m.
+20383	ARTHUR ST	Okarito
+20389	Roto Road	Okarito
+20598	BATTERY RD	Jacksons (West Coast, NZ)	31/08/2010 6:26p.m.
+20397	Bay Road	Jackson Bay
+20414	MCGLOIN RD	Bruce Bay (West Coast, NZ)	23/06/2010 3:33p.m.
+20420	Glass Road	Kokatahi
+20603	OMOEROA RD	Waiho (West Coast, NZ)	22/06/2010 3:45p.m.
+20426	Ollivier Street	Jackson Bay
+20431	Mt Tuhua Track	Kokatahi
+20435	MUNROE RD	Westland National Park (West Coast, NZ)	22/06/2010 3:46p.m.
+20439	MacFarlane Road	Jackson Bay
+20443	MacLean Road	Jackson Bay
+20454	Cliff Road	Jackson Bay
+20608	COCHRANE RD	Ruatapu
+20466	DUFF ST	Ross
+20472	Ryan Road	Fox Glacier
+20473	Scott Road	Karangarua
+20477	Point Road	Jackson Bay
+20478	Pine Road	Paringa
+20612	PRATT RD	Franz Josef Glacier (West Coast, NZ)	22/06/2010 3:40p.m.
+16877	Atkinson Street	Cheviot
+9625	Fitzherbert Street	Cheviot
+9656	SADDLE RD	Lowry Hills Range (Canterbury, NZ)	12/11/2010 11:05:23 p.m.
+9672	Church Street	Waikari
+16880	Queen Street	Waikari	28/04/2010 2:56p.m.
+9714	SMITHS RD	Broomfield (Canterbury, NZ)	5/08/2011 5:52p.m.
+9717	Canterbury Terrace	Leithfield
+9772	GARNET ST	Hawarden (Canterbury, NZ)	1/10/2011 11:35:56 p.m.
+15742	TOBINS RD	Broomfield (Canterbury, NZ)	5/08/2011 5:51p.m.
+9803	MORRIS RD	Broomfield (Canterbury, NZ)	5/08/2011 5:50p.m.
+9812	WATERLOO ST	Hawarden (Canterbury, NZ)	4/04/2011 9:14:03 p.m.
+9813	WAIPARA NORTH BRANCH RD	MacDonald Downs (Canterbury, NZ)	4/04/2011 9:06:22 p.m.
+15756	Hawkhurst Lane	Lyttelton
+9885	Old Sumner Lyttelton Road	Lyttelton
+9904	CASTLE PEAK RD	Diamond Harbour (Canterbury, NZ)	1/07/2010 5:09p.m.
+9908	Kaituna Bush Road	Teddington
+9911	Klondyke Road	Coalgate
+9932	CHURCH GULLY RD	Diamond Harbour (Canterbury, NZ)	1/07/2010 5:10p.m.
+9934	GOLD VALLEY RD	Ataahua (Canterbury, NZ)	4/10/2010 11:46:09 p.m.
+9949	Bush Road	Taitapu
+9963	Fleet Street	Little River
+9971	ARCHIES PEAK RD	Ataahua (Canterbury, NZ)	4/10/2010 11:52:59 p.m.
+9979	Valley Road	Little River
+9993	MacAulay Street	Dunsandel
+10010	Gammacks Road	Motukarara
+10016	Erskine Street	Dunsandel
+10017	Efforts Road	Dunsandel
+15778	Eldon Street	Dunsandel
+10022	Fergusson Street	Southbridge
+10029	Railway Terrace East	Dunsandel
+10040	Taumutu Rakaia Road	Southbridge
+10138	Market Place	Dunsandel
+10140	Mansfield Street	Dunsandel
+10143	Campbell Street	Dunsandel
+10146	Bulwer Street	Dunsandel
+10192	Victoria Square	Dunsandel
+10210	St Leonard Street	Dunsandel
+15815	Park Street	Dunsandel	28/04/2010 9:44a.m.
+10242	George Square	Coalgate
+10290	Wing Street	Coalgate
+16903	Bluff Street	Coalgate
+15835	POLE RD	Darfield (Canterbury, NZ)	16/10/2010 9:21:38 p.m.
+10326	Princes Street	Springfield
+10327	Princes Street	Sheffield	28/04/2010 2:25p.m.
+10339	High Street	Coalgate
+10363	Regent Street	Springfield
+10364	Kowai River Road	Springfield
+10368	Riversdale Road	Arthurs Pass
+10371	Bank Street	Coalgate
+10383	John Street	Coalgate
+10430	Old Coach Road	Arthurs Pass National Park
+10449	VICKERY RD	Sheffield (Canterbury, NZ)	24/11/2010 6:13p.m.
+10451	Upper High Street	Coalgate
+10457	Lyndon Stock Road	Snowdon
+10462	Charles Street	Coalgate
+10520	Burkes Bush Road	Taitapu
+16808	Russell Street	Eiffelton
+15912	HAPPY VALLEY RD	Highbank (Canterbury, NZ)	9/06/2011 5:46p.m.
+10735	GUILDFORD ST	Chertsey (Canterbury, NZ)	26/08/2011 11:10a.m.
+15923	Jollie Street	Eiffelton
+10851	QUARRY RD	Mount Somers (Canterbury, NZ)	3/02/2011 10:49:41 p.m.
+10866	BRUCES RD	Ashburton Forks (Canterbury, NZ)	1/07/2010 9:02p.m.
+17162	Church Street	Eiffelton
+10907	Old Main South Road	Rakaia
+15952	NORTH HINDS RD	Surrey Hills (Canterbury, NZ)	7/04/2011 9:15:57 p.m.
+10993	Henley Street	Eiffelton
+11018	MAYORS RD	Staveley	6/04/2010 6:37p.m.
+11040	Lowerys Road	Winslow
+15976	Lushman Road	Beautiful Valley
+11101	Stevenson Road	Kakahu
+11106	STONELEIGH ST	Woodbury (Canterbury, NZ)	1/07/2010 3:53p.m.
+11110	Sugarloaf Road	Kakahu
+11120	Waller Road	Geraldine Downs
+15988	PRINCES ST	Scarborough (Canterbury, NZ)	10/04/2011 5:43:52 p.m.
+11159	KAHU ST	Temuka (Canterbury, NZ)	19/03/2011 2:58:30 p.m.
+11162	Jollie Street	Rangitata
+11164	Jonsen Road	Four Peaks
+11185	Cox Street	Rangitata
+11187	Cooper Street	Rangitata
+16932	Bary Road	Rangitata Island
+11213	Uprichard Road	Peel Forest
+11221	McBeth Road	Kakahu
+11223	Martin Road	Geraldine Downs
+11249	Manuka Street	Pleasant Point
+16012	McKie Road	Kakahu
+11284	Borrell Road	Kakahu	30/04/2010 12:25a.m.
+11285	Boundary Road	Peel Forest	28/04/2010 12:50p.m.
+11289	Bissett Road	Temuka
+11291	AUSTIN LANE	Orari	5/04/2010 12:39a.m.
+11334	BRUNSWICK TCE	Scarborough (Canterbury, NZ)	10/04/2011 5:43:07 p.m.
+16025	Burma Road	Orari Gorge
+11355	Garforth Road	Kakahu
+11391	Ford Road	Kakahu
+11425	Rata Street	Pleasant Point
+11432	Slip Panel Road	Orari Gorge
+16766	Smith Road	Kakahu	28/04/2010 11:33a.m.
+16045	SMITHFIELD RD	Temuka (Canterbury, NZ)	16/08/2011 11:38:49 p.m.
+16050	Edward Street	Rangitata
+11833	MILL RD	Fairlie (Canterbury, NZ)	28/05/2010 5:44p.m.
+12472	Atom Lane	Woolston
+12632	Cuba Street	Linwood
+13261	STEWARD ST	Waimate (Canterbury, NZ)3/02/2011 10:31:34 p.m.
+13264	Stowells Road	St Andrews
+13410	National Mutual Arcade	Christchurch Central
+17016	Grace Track	Eyrewell Forest
+13534	Headquarters Drive	Eyrewell Forest
+13678	Clarksons Road	Mcleans Island
+16779	Cox's Road	Mcleans Island
+16519	Kennedy Road	Eyrewell Forest
+14576	Cornwall Track	Eyrewell Forest
+14584	Driscolls Road	Swannanoa
+14592	Princes Street	Loburn
+14595	JACKS RD
+14595	Jacks Road	Loburn
+14601	Queen Street	Loburn
+14611	Calthorpe Street	Loburn
+14625	Norfolk Street	Loburn
+14633	BRADYS RD
+14635	Bromsgrove Street	Loburn
+17055	River Road	Loburn
+14660	Westall Street	Loburn
+14673	Worcester Street	Loburn
+14711	Boys Street	Kaiapoi
+14768	BASSETTS RD
+14768	Bassetts Road	View Hill
+14774	McCandlishs Road	Coopers Creek	28/04/2010 9:26a.m.
+14780	TRIG RD
+14825	Clifford Road	Camside
+4092	DEMON TRAIL
+20496	F F Road	Kokatahi
+15190	Paparua Drive	Templeton
+16687	The Crescent	Templeton
+15191	Tahi Rua	Templeton
+4420	CAPLES ST
+4421	NORTH ST
+4422	JOHN ST
+4423	BAY ST
+4424	CAMP ST
+4425	DORNA ST
+4426	DILLA ST
+4427	SOUTH ST
+4428	LAKE ST
+94151	KAIPO BAY WLK

@@ -1,0 +1,193 @@
+5629	FREDERICK ST		McNab (Southland, NZ)		10/09/2011 7:26:17 p.m.
+4542	RAZORBACK TRK		DUNBACK (OTAGO)
+4543	MAY ST	South Hill, Oamaru (Otago, NZ)	28/10/2010 11:40:15 p.m.
+4558	ST PATRICK ST		MacRaes Flat (Otago, NZ)
+5340	WRIGHT RD		Palmerston (Otago, NZ)
+321	UNION ST		MacRaes Flat (Otago, NZ)
+330	BOWKER RD		Otago / Southland Region (Otago / Southland, NZ)
+338	ALEXANDRA RD		OTAGO
+346	WILD RAM RD		GREEN VALLEY (OTAGO)
+347	SANDAY ST		PALMERSTON (OTAGO)
+350	ELIZABETH ST		MacRaes Flat (Otago, NZ)
+352	LEES RD		GREEN VALLEY (OTAGO)
+354	ST ANDREW ST		MacRaes Flat (Otago, NZ)
+356	ST DAVID ST		MacRaes Flat (Otago, NZ)
+357	ST GEORGE ST		MacRaes Flat (Otago, NZ)
+363	DEEM RD		OTAGO
+390	JANETS PEAK RD		Palmerston (Otago, NZ)
+4574	MACRAES BACK RD		MacRaes Flat (Otago, NZ)
+421	SWANSEA ST	Moeraki (Otago, NZ)	8/10/2010 8:50:46 p.m.
+4584	WEST ST			Moeraki (Otago, NZ)			31/08/2011 6:57p.m.
+498	LONG ST		Reidston (Otago, NZ)
+498	LONG ST	Reidston (Otago, NZ)	28/08/2010 12:19:18 a.m.
+675	ASCOT RD		Weston (Otago, NZ)
+1088	WHITEHEAD RD	Naseby (Otago, NZ)	6/11/2010 10:36:05 p.m.
+1099	RING FENCE RD		Kyeburn (Otago, NZ)
+4719	BURTON ST		Omakau (Otago, NZ)
+1295	HARREX RD	Moa Creek (Otago, NZ)	7/11/2010 12:42:21 a.m.
+1762	WINTON ST		Upper Junction (Otago, NZ)
+1947	LEANDER ST		Dunedin (Otago, NZ)
+2318	ISABEL RD		Maia, Dunedin (Otago, NZ)
+2358	SCOBIE RD		Vauxhall, Dunedin (Otago, NZ)
+2550	LEWIS RD		DUNEDIN
+2592	THIRLSTANE ST		North East Valley (Otago, NZ)
+2890	TOWNSEND RD		Bucklands Crossing (Otago, NZ)	9/07/2010 8:10p.m.
+2917	CEDAR RD		Leith Valley, Dunedin (Otago, NZ)	10:01 p.m. 21/02/2011
+2920	CEDAR CREEK RD		Mihiwaka (Otago, NZ)
+2941	MEADOW RD		Warrington (Otago, NZ)
+2954	SHANNON-PUKERANGI RD	Otago / Southland Region (Otago / Southland, NZ)
+2962	DAPHNE RD		Kuri Bush (Otago, NZ)
+2981	MCKESSAR RD		Osborne (Otago, NZ)
+2998	NANT RD		Ngapuna (Otago)
+3033	GORDON ST		Nenthorn (Otago, NZ)
+3037	GRANT ST		Nenthorn (Otago, NZ)
+3041	CAMERON ST		Nenthorn (Otago, NZ)
+3056	BROTHERS PEAK RD	Bucklands Crossing (Otago, NZ)	9/07/2010 8:18p.m.
+3057	BOWFELL ST		Otago / Southland Region (Otago / Southland, NZ)
+3093	EMIN ST		Nenthorn (Otago, NZ)
+3111	Nenthorn (Otago, NZ)	Nenthorn (Otago, NZ)
+5501	LIVINGSTONE ST		Nenthorn (Otago, NZ)
+3148	BAKER ST		Nenthorn (Otago, NZ)
+3158	BAY ST		Waitati (Otago, NZ)
+3183	SKIDDAW ST		Otago / Southland Region (Otago / Southland, NZ)
+5504	SPEKE ST		Nenthorn (Otago, NZ)
+3207	DERG ST		Waitati (Otago, NZ)
+5092	DERDAN HILL RD		Bucklands Crossing (Otago, NZ)
+3226	GLADSMUIR RD	Middlemarch (Otago, NZ)	11/08/2010 11:40:50 p.m.
+3245	STANLEY ST		Nenthorn (Otago, NZ)
+5100	STONEY HILL RD	Bucklands Crossing (Otago, NZ)	9/07/2010 8:12p.m.
+3254	STIRLING ST		WAIKOUAITI (OTAGO)
+5115	LOUP ST		Milton (Otago, NZ)
+3333	LIMEKILN ST	Milburn (Otago, NZ)	18/07/2010 11:08:09 p.m.
+3351	MICHIE ST		Waihola (Otago, NZ)
+3352	MCKINNON ST		Kaitangata (Otago, NZ)
+3353	MCLEOD RD	Milton (Otago, NZ)	11/07/2010 12:13:53 p.m.
+3356	LANARK ST		Lawrence (Otago, NZ)
+3358	LONGVIEW RD		Merino Downs (Otago, NZ)
+5125	RYHOPE ST		Milburn (Otago, NZ)
+3423	GALWAY ST		Milton (Otago, NZ)
+3424	GILLIES ST		Milton (Otago, NZ)
+3436	HISLOP ST		Kaitangata (Otago, NZ)
+3439	HILL ST	Kaitangata (Otago, NZ)	12/11/2010 12:23:25 a.m.
+5137	CATHERINE ST		Kaitangata (Otago, NZ)
+3472	EAGLE ST		Milton (Otago, NZ)
+3482	DUNCAN ST		Waihola (Otago, NZ)
+5379	SLIGO ST		Milton (Otago, NZ)
+3488	SHORT ST	Kaitangata (Otago, NZ)	12/11/2010 12:20:38 a.m.
+3489	SIDE ST	Kaitangata (Otago, NZ)	12/11/2010 12:23:27 a.m.
+3496	LEED ST		Taieri Mouth (Otago, NZ)
+3540	FLAT ST	Kaitangata (Otago, NZ)	12/11/2010 12:23:24 a.m.
+3575	DISTRICT RD		Waihola (Otago, NZ)
+3578	TUNSTALL ST	Milburn (Otago, NZ)	18/07/2010 11:07:24 p.m.
+3580	YORK ST		Taieri Mouth (Otago, NZ)
+5173	ROUND HILL RD		Clinton (Otago, NZ)
+3669	REID RD		Kuriwao (Otago, NZ)
+5184	THE ESPLANADE		PAPATOWAI (OTAGO)
+3748	ETTRICK ST		Kelso (Otago, NZ)
+3829	CROSSAN ST		OWAKA (OTAGO)
+5351	YARROW ST		Kelso (Otago, NZ)
+3876	DENHOLM ST		Kelso (Otago, NZ)
+3901	EDEN ST		Lawrence (Otago, NZ)
+3902	RIDGE ST		Lawrence (Otago, NZ)
+5228	DON ST		Beaumont (Otago, NZ)
+3939	ATKINS RD		Tapanui (Otago, NZ)	9/07/2010 7:42p.m.
+3954	NESS ST		Beaumont (Otago, NZ)
+5231	NORTHCOTE ST		Raes Junction (Otago, NZ)
+3963	CARRON ST		Beaumont (Otago, NZ)
+3965	NAIRN ST		Beaumont (Otago, NZ)
+3969	BRUNSWICK ST		Raes Junction (Otago, NZ)
+3976	MCKAY RD		Raes Junction (Otago, NZ)
+3986	HAWICK ST		Kelso (Otago, NZ)
+3997	FALSTONE ST		Beaumont (Otago, NZ)
+5242	LEADER ST	Heriot (Otago, NZ)
+5245	EDEN ST		Beaumont (Otago, NZ)
+4026	TEVIOT ST		Kelso (Otago, NZ)
+4031	RIVER RD		Kononi (Otago, NZ)
+5248	ANNAN ST		Heriot (Otago, NZ)
+4037	ANDERSON RD		LAWRENCE (SOUTHLAND)	
+4042	WATER ST		Raes Junction (Otago, NZ)
+4052	HENRY ST		Waitahuna (Otago, NZ)
+5938	HULL ST		Mataura (Southland, NZ)
+5963	SANDOW LANE		Mataura (Southland, NZ)
+5983	WARD COMMONS RD		Waikana (Southland, NZ)
+5997	CAVAN ST		Waikaka (Southland, NZ)			20/07/2010 11:07:56 p.m.
+8674	RAILWAY ESP		MCNAB (SOUTHLAND)
+6008	REINKE RD		Knapdale (Southland, NZ)
+6016	GALLAGHERS RD		Kaiwera (Southland, NZ)			9/08/2010 11:52:20 p.m.
+6031	BRUCE ST		Waikaka (Southland, NZ)			20/07/2010 11:09:00 p.m.
+6050	AYSON RD		Charlton, Gore (Southland, NZ)
+6070	TRAPSKI RD		Kaiwera (Southland, NZ)			9/08/2010 11:51:48 p.m.
+6079	MCFADZIEN RD		Ferndale (Southland, NZ)
+6095	CLONES ST		Waikaka (Southland, NZ)			20/07/2010 11:08:21 p.m.
+6160	BOYD ST			Bluff (Southland, NZ)			31/07/2010 7:52:40 p.m.
+6521	GELL RDGELL RD		Woodend, Invercargill (Southland, NZ)	8:52 a.m. 6/02/2011
+6571	CRAWFORD RD		OTATARA (SOUTHLAND)
+6577	Ridgeway Road		Oreti Beach
+6603	TOI TOI RD		Oreti Beach
+6647	LUNA ST			Lumsden (Southland, NZ)
+6664	PASCOE RD		Rimu (Southland, NZ)			1/09/2011 3:03:32 a.m.
+6702	BATH ST		Edendale (Southland, NZ)		11/09/2011 12:39:23 a.m.
+6734	RUDDENKLAU RD		Tokanui (Southland, NZ)			12/11/2010 10:13:05 p.m.
+6771	SOUTH ST		Tokanui (Southland, NZ)		3/10/2011 5:03p.m.
+8413	LEWIS ST		FORTROSE (SOUTHLAND)
+6812	CASTLE ST		Waikawa (Southland, NZ)			11/07/2010 1:42:50 p.m.
+6866	REDAN MILL RD		Redan (Southland, NZ)			3/09/2011 3:20:56 p.m.
+6894	KELLEHER RD		Otahuti (Southland, NZ)			24/10/2010 12:54:57 a.m.
+6926	MARION TCE		MENZIES FERRY (SOUTHLAND)
+6971	HAY RD			Hokonui (Southland, NZ)			5/10/2010 11:13:15 p.m.
+6987	MEDEA ST		Lumsden (Southland, NZ)
+8450	MENZIES RD		Hedgehope (Southland, NZ)		5/10/2010 11:20:55 p.m.
+7037	CRINO ST		Lumsden (Southland, NZ)
+8466	RIVER ST		Waikawa (Southland, NZ)			11/07/2010 1:41:56 p.m.
+8469	BRIGHTON ST		Riversdale (Southland, NZ)		14/08/2010 9:44:24 p.m.
+7138	MILL ST			Waikawa (Southland, NZ)			11/07/2010 1:43:50 p.m.
+7139	MOKORETA ESP		Mokoreta (Southland, NZ)		3/11/2010 10:08:53 p.m.
+7170	EAST ST		Tokanui (Southland, NZ)		3/10/2011 5:04p.m
+7206	IRA ST			Lumsden (Southland, NZ)
+8489	JUNO ST			Lumsden (Southland, NZ)
+7214	FIELD ST		Lumsden (Southland, NZ)
+7227	FARRAR ST		FORTROSE (SOUTHLAND)
+7231	FIFTH ST		Kennington (Southland, NZ)		12:49 a.m. 9/02/2011
+7249	VEGA ST			MENZIES FERRY (SOUTHLAND)	
+8753	VAGA ST			Lumsden (Southland, NZ)
+7256	WAIAU ST		Mokoreta (Southland, NZ)		3/11/2010 10:08:26 p.m.
+8501	TAUNA PL		Lumsden (Southland, NZ)
+7288	DOWN ST			Lumsden (Southland, NZ)
+7294	DOVER ST		Edendale (Southland, NZ)		11/09/2011 12:39:53 a.m.
+7296	DON ST			Wyndham (Southland, NZ)			1:19 a.m. 8/02/2011
+7317	DARION ST		Lumsden (Southland, NZ)
+7318	DARIEN ST		FORTROSE (SOUTHLAND)
+7343	NEVA ST			Limehills (Southland, NZ)		16/10/2010 10:12:31 p.m.
+7471	MCCULLOCH ST		CLIFTON (SOUTHLAND)
+8538	LINCOLN ST		Feldwick (Southland, NZ)		17/07/2010 6:40:28 p.m.
+8543	KENDAL ST		OTAUTAU (SOUTHLAND)
+7510	KING TERRACE		CLIFTON (SOUTHLAND)
+7576	AITKEN ST		CLIFTON (SOUTHLAND)
+7584	FORDE RD		Drummond (Southland, NZ)		26/10/2010 9:02:35 p.m.
+7593	FITZROY ST		Wreys Bush (Southland, NZ)		9:42 a.m. 6/02/2011
+7609	DURHAM ST		Flints Bush (Southland, NZ)		20/07/2010 9:34:27 p.m.
+7642	NORFOLK ST		Wreys Bush (Southland, NZ)		9:32 a.m. 6/02/2011
+8584	HORRELL RD		CLIFTON (SOUTHLAND)
+7718	HOWELL RD		CLIFTON (SOUTHLAND)
+8589	HASTINGS ST		Otautau (Southland, NZ)			9/07/2010 5:13p.m.
+8591	RIPON ST		Wreys Bush (Southland, NZ)		9:33 a.m. 6/02/2011
+7765	MILLER RD		WAIKOURO (SOUTHLAND)
+7783	BOG RD			Isla Bank (Southland, NZ)		26/10/2010 9:20:48 p.m.
+7784	BLUECLIFFS BEACH RD	PAPATOTARA (SOUTHLAND)
+7841	MAIN RD			CLIFTON (SOUTHLAND)
+7845	MANOR ST		Nightcaps (Southland, NZ)		8/08/2010 11:02:34 p.m.
+7872	SEALY ST		RIVERTON SOUTH (SOUTHLAND)
+7875	RUSSELL ST 		WAIRIO (SOUTHLAND)
+7906	TAPPER ST		CLIFTON (SOUTHLAND)
+7909	SURREY ST		Wreys Bush (Southland, NZ)		14/10/2011 7:54p.m.
+7998	DAN ST			Gummies Bush (Southland, NZ)		12/11/2010 12:41:21 p.m.
+7999	THEOPHILUS ST 		Gummies Bush (Southland, NZ)		12/11/2010 12:41:21 p.m.
+8000	SOLOMON ST		Gummies Bush (Southland, NZ)		12/11/2010 12:41:33 p.m.
+8001	HODGKINSON ST		Gummies Bush (Southland, NZ)		12/11/2010 12:41:19 p.m.
+8003	ORAWIA ST		Eastern Bush (Southland, NZ)		17/07/2010 6:09:24 p.m.
+8021	BATES RD		Raymonds Gap (Southland, NZ)		9:11 a.m. 6/02/2011
+8022	TRURO ST		Otautau (Southland, NZ)			9/07/2010 5:14p.m.
+85218	LONGBEACH RD		PROGRESS VALLEY (SOUTHLAND)
+8204	APARIMA ST		Mokoreta (Southland, NZ)		3/11/2010 10:07:40 p.m.
+93653	ARMSTRONG LANE		Abbotsford, Dunedin (Otago, NZ)		6/10/2010 12:04:44 a.m.
+93666	DALHOUSIE TCE		Dunedin (Otago, NZ)			12/11/2010 12:41:18 p.m.

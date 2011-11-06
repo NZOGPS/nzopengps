@@ -1,0 +1,89 @@
+8893	O,355,363		Worsleys Road	Hoon Hay, Christchurch (Canterbury, NZ)
+35	E,422,422		Weston-Ngapara Road	Number is on southland tile.
+9233	O,213,213	B,233,234	RAVEN QY	Kaiapoi (Canterbury, NZ)
+513	E,4,4			RAUPO CREEK RD	Five Forks (Otago, NZ)	Number is on southland tile.
+1477	E,664,664		Glenorchy-Queenstown Road	Number is on southland tile.
+9347	E,144,144		View Hill Road
+9660	E,884,884		RIVERVIEW RD	Domett (Canterbury, NZ)
+9905	E,500,500		Camp Bay Road
+10291	O,9,25	E,6,6		JAMES ST	Coalgate (Canterbury,	NZ)
+10412	O,17,17	E,16,20		EVERETT ST	Coalgate (Canterbury,	NZ)
+10420	O,19,85	E,20,30	E,66,66	QUEEN	ST	Coalgate (Canterbury,	NZ)
+10946	E,2064,2064		Barford Road
+14097	O,1,27	E,2,76		TWO CHAIN RD	Swannanoa (Canterbury, NZ)
+14240	O,23,37	E,20,20		Beacon Street	Brooklands, Christchurch (Canterbury, NZ)
+14633	O,203,203		BRADYS RD	Loburn (Canterbury, NZ)
+14738	O,2715,2715 		WOODSTOCK RD	Springfield (Canterbury, NZ)
+14754	O,175,603	E,222,564	Rampaddock Road
+14785	O,141,387	E,122,390		Mill Road	Oxford (Canterbury, NZ)
+14866	E,352,354	Gladstone Road		Pegasus (Canterbury, NZ)
+14877	O,121,121		Kings Avenue
+14962	O,131,143	E,128,128	Topito Road	
+4345	E,600,600		Kawarau Gorge Road	Number is on southland tile.
+10453	E,22,24	O,13,13		Lower High Street	Coalgate (Canterbury, NZ)
+15869	O,351,351	Kennedys Bush Road	Halswell, Christchurch (Canterbury, NZ)
+9202	E,700,700	Memorial Avenue	Christchurch Airport, Christchurch (Canterbury, NZ)
+9161	E,388,388	Main Drain Road	Flaxton (Canterbury, NZ)
+1275	E,240,240	Muddy Creek Road	Drybread (Otago, NZ)	Number is on southland tile.
+14836	E,36,50	O,71,71	Power Road	Flaxton (Canterbury, NZ)
+10759	E,66,66	Cracroft Street	Hinds (Canterbury, NZ)
+13537	E,4,16	O,1,1	Edmunds Road	Ohoka (Canterbury, NZ)
+85082	E,4,14	Closeburn Road	Closeburn (Otago, NZ)	Number is on southland tile.
+14606	E,534,534	Smarts Road	Loburn
+16602	E,110,110	O,87,99	Harpers Road	Okuku (Canterbury, NZ)
+14780	E,2,90	O,1,69	E,578,580	Trig Road	View Hill (Canterbury, NZ)
+9754	E,38,40	Valley Road	Greta Valley (Canterbury, NZ)
+10481	O,1,1	Bridle Path Road	Heathcote Valley
+1603	E,16,16	O,9,9	Warren Street	Wanaka (Otago, NZ)
+9947	E,300,300	O,253,253	Warren Street	Sefton (Canterbury, NZ)
+13123	O,121,121	Wairoa Street	Bexley, Christchurch (Canterbury, NZ)
+14770	E,786,886	O,807,881	Bay Road	Oxford (Canterbury, NZ)
+14814	E,314,440	Perhams Road	View Hill (Canterbury, NZ)	8/05/2011 7:30:22 p.m.
+14547	E,38,56	Audley Street	Kaiapoi (Canterbury, NZ)	8/05/2011 7:35:48 p.m.
+9251	E,874,874	Springbank Road	Swannanoa (Canterbury, NZ)	14/05/2011 7:52:09 p.m.
+14692	O,1,1	O,5,21	E,2,2	Raven Street North	Kaiapoi (Canterbury, NZ)	11/06/2011 8:04:20 p.m.
+9576	O,181,181	Constitution Road	Rotherham (Canterbury, NZ)	11/06/2011 8:05:25 p.m.
+14939	E,186,230	O,203,205	Ferry Road	Kaiapoi (Canterbury, NZ)	11/06/2011 8:08:05 p.m.
+14949	E,74,94	O,1,227	Lees Road	Woodend Beach, Woodend (Canterbury, NZ)	11/06/2011 8:18:10 p.m.
+14653	O,221,319	E,300,346	E,768,768	E,840,844	Mountain Road	Okuku (Canterbury, NZ)	19/06/2011 5:02:45 p.m.
+13000	E,362,368	Major Hornbrook Road	Mount Pleasant, Christchurch (Canterbury, NZ)	19/06/2011 5:04:04 p.m.
+14870	O,255,265	Gardiners Road	Cust (Canterbury, NZ)	19/06/2011 5:14:24 p.m.
+16644	O,133,137	Park Terrace	Waikuku Beach (Canterbury, NZ)	13/08/2011 12:28:00 p.m.
+14603	B,1,2	Alice Pass Road	Okuku (Canterbury, NZ)	13/08/2011 12:29:16 p.m.
+17061	E,342,480	McPhedrons Road	View Hill (Canterbury, NZ)	13/08/2011 12:44:01 p.m.
+14825	E,122,170	Clifford Road	Camside	16/08/2011 8:49:39 p.m.
+4428	E,64,104	LAKE ST	16/08/2011 6:09:27 p.m.
+15912	O,53,53	Happy Valley Road	RAKAIA RIVER RD	16/08/2011 9:16:49 p.m.
+11249	O,39,39	Manuka Street	Pleasant Point (Canterbury, NZ)	16/08/2011 9:26:05 p.m.
+94151	B,321,399	Kaipo Bay Walk	Westland	16/08/2011 9:40:34 p.m.
+14595	E,40,40	Jacks Road	Loburn (Canterbury, NZ)	16/08/2011 9:08:30 p.m.
+14601	B,3,49	Queen Street	Loburn (Canterbury, NZ)	16/08/2011 9:39:17 p.m.
+14625	B,3,10	Norfolk Street	Loburn (Canterbury, NZ)	16/08/2011 10:40:27 p.m.
+14660	B,3,17	Westall Street	Loburn (Canterbury, NZ)	16/08/2011 9:39:37 p.m.
+14592	B,6,55	Princes Street	Loburn (Canterbury, NZ)	16/08/2011 10:39:35 p.m.
+14611	B,3,23	Calthorpe Street	Loburn (Canterbury, NZ)	16/08/2011 9:38:42 p.m.
+14673	B,3,19	Worcester Street	Loburn (Canterbury, NZ)	16/08/2011 10:47:51 p.m.
+14635	B,7,29	Bromsgrove Street	Loburn (Canterbury, NZ)	16/08/2011 10:11:29 p.m.
+10383	B,3,22	John Street	Coalgate (Canterbury, NZ)	16/08/2011 9:50:48 p.m.
+10339	B,2,16	High Street	Coalgate (Canterbury, NZ)	16/08/2011 10:44:21 p.m.
+16903	B,1,12	Bluff Street	Coalgate (Canterbury, NZ)	16/08/2011 9:29:59 p.m.
+10462	B,4,12	Charles Street	Coalgate (Canterbury, NZ)	16/08/2011 10:16:45 p.m.
+10451	B,1,29	Upper High Street	Coalgate (Canterbury, NZ)	16/08/2011 10:45:15 p.m.
+10363	B,4,36	Regent Street	Springfield (Canterbury, NZ)	16/08/2011 10:48:49 p.m.
+10326	B,1,14	Princes Street	Springfield (Canterbury, NZ)	16/08/2011 10:27:27 p.m.
+12124	E,810,810	Mt Studholme Road	16/08/2011 9:51:53 p.m.
+14671	O,543,561	Loburn Kowai Road	
+12472	O,5,9	Atom Lane	Woolston, Christchurch (Canterbury, NZ)	16/08/2011 9:55:53 p.m.
+13678	E,88,96	Clarksons Road	McLeans Island, Christchurch (Canterbury, NZ)	16/08/2011 10:02:51 p.m.
+14774	B,42,133	McCandlishs Road	Oxford	16/08/2011 10:10:28 p.m.
+1381	B,2,3	Flint Street	Arrowtown (Otago, NZ)	16/08/2011 10:37:18 p.m.
+14768	B,136,196	Bassetts Road	View Hill (Canterbury, NZ)	16/08/2011 10:38:40 p.m.
+14555	O,155,155	Baynons Road	Clarkville (Canterbury, NZ)	26/08/2011 12:24p.m.
+13526	B,105,118	Taylors Road	Clarkville (Canterbury, NZ)	26/08/2011 12:26p.m.
+15244	B,66,128	Madeleys Road	Clarkville (Canterbury, NZ)	26/08/2011 12:29p.m.
+17004	E,50,50	Selleck Street	Mount Pleasant, Christchurch (Canterbury, NZ)	26/08/2011 1:35p.m.
+1424	O,11,17	Upton Street	Wanaka (Otago, NZ)	2/09/2011 5:00p.m.
+13939	E,70,84	Division Street	Riccarton, Christchurch (Canterbury, NZ)	2/09/2011 6:07p.m.
+7774	E,68,68	Brook Street	Riverton (Southland, NZ)	17/09/2011 4:41:03 p.m.
+14563	B,7,47	Old Harewood Road	Swannanoa (Canterbury, NZ)	26/09/2011 3:44p.m.
+9678	E,2,10	Jervois Street	Hawarden (Canterbury, NZ)	1/10/2011 11:33:57 p.m.

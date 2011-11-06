@@ -1,2 +1,10 @@
 set PROCESSING_LIBRARY=2
-for /l %tile in (1,1,8) ruby parseMP.rb %tile %PROCESSING_LIBRARY
+ruby parseMP.rb 1 %PROCESSING_LIBRARY
+ruby parseMP.rb 2 %PROCESSING_LIBRARY
+ruby parseMP.rb 3 %PROCESSING_LIBRARY
+ruby parseMP.rb 4 %PROCESSING_LIBRARY
+ruby parseMP.rb 5 %PROCESSING_LIBRARY
+ruby parseMP.rb 6 %PROCESSING_LIBRARY
+ruby parseMP.rb 7 %PROCESSING_LIBRARY
+ruby parseMP.rb 8 %PROCESSING_LIBRARY
+pause

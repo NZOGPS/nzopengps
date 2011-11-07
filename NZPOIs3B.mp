@@ -116566,8 +116566,10 @@ Data0=(-45.87968,170.50026)
 ;1138111
 [POI]
 Type=0x2f
-Label=DIGNITY FUNERAL SERVICES LTD
-StreetDesc=183 Middleton Rd, Dud/ Funeral Directors
+Label=DIGNITY FUNERAL SERVICES 24HR
+StreetDesc=183 Middleton Rd, Dud/ Funeral Directors,
+Phone=+6434878600
+zip=8.30am - 5pm on call 24hours
 Data0=(-45.90923,170.47393)
 [END]
 
@@ -202368,5 +202370,34 @@ StreetDesc=19 Marriner St, Sumner, Chc 8081, Canterbury/ Cafe, restaurant, food,
 Phone=+6439622233
 zip=Mon  Sun 7.00am  4.00pm
 Data0=(-43.56786,172.75891)
+[END]
+
+;1190091
+[POI]
+Type=0x2f
+Label=JUMPIN JACKS BOUNCY CASTLES
+StreetDesc=103 Cavell St, Tainui, Dud, 9013/ bouncy castle, castle hire, bouncy castle hire
+Phone=+6434562200
+zip=8:00 am to 9:30 pm everyday
+Data0=(-45.90186,170.52217)
+[END]
+
+;1190097
+[POI]
+Type=0x2f
+Label=BIOTECHNOLOGIES LIMITED
+StreetDesc=3 Elmdale Lane, Chc, New Zealand/ Septic tank cleaning by Biotechnologies Limite
+Phone=+6433317298
+Data0=(-43.53466,172.65419)
+[END]
+
+;1190122
+[POI]
+Type=0x2f
+Label=JETTS GYM DUNEDIN 24HR
+StreetDesc=84 Filleul St, Dud 9059/ Gym
+Phone=0800JETTS247
+zip=24 Hours 7 Days
+Data0=(-45.86919,170.50445)
 [END]
 

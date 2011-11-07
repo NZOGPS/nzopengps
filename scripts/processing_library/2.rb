@@ -53,13 +53,21 @@ def pre_processing()
   }
   print "#{@linz_file_ids.size} distinct ids found in #{linz_data_service_file}\n"
 
+  @paper_road_ids = {}
+  paper_roads_file = File.join(@base, '..', 'LinzDataService', 'PaperRoads', "#{@tile}.txt")
+  File.open(paper_roads_file).each{|line|
+    linzid = line.split("\t")[0]
+    @paper_road_ids[linzid] = true
+  }
+  print "#{@paper_road_ids.size} distinct ids found in #{paper_roads_file}\n"
+  
 end
 
 def post_processing()
   
   @reporting_file.print "#############################\n\n"
   
-  in_linz_but_missing_from_nzogps = @linz_file_ids.keys - @nzogps_file_ids.keys
+  in_linz_but_missing_from_nzogps = @linz_file_ids.keys - @nzogps_file_ids.keys - @paper_road_ids.keys
   print "#{in_linz_but_missing_from_nzogps.size} LINZ ids are missing from NZOGPS #{@tile}\n"
   @reporting_file.print "#{in_linz_but_missing_from_nzogps.size} LINZ ids are missing from NZOGPS #{@tile}\n"
   
@@ -69,7 +77,7 @@ def post_processing()
   
   @reporting_file.print "#############################\n\n"
   
-  in_nzogps_but_missing_from_linz = @nzogps_file_ids.keys - @linz_file_ids.keys
+  in_nzogps_but_missing_from_linz = @nzogps_file_ids.keys - @linz_file_ids.keys - @paper_road_ids.keys
   print "#{in_nzogps_but_missing_from_linz.size} LINZ ids are in NZOGPS #{@tile} but missing from LINZ\n"
   @reporting_file.print "#{in_nzogps_but_missing_from_linz.size} LINZ ids are in NZOGPS #{@tile} but missing from LINZ\n"
   

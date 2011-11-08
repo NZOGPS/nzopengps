@@ -1,3 +1,6 @@
+26072	SEYMOUR ST	Linton, Palmerston North (Manawatu-Wanganui, NZ)
+25125	ANDREW ST	Tinui (Wellington, NZ)
+30564	OLIVE ST	Glen Oroua (Manawatu-Wanganui, NZ)
 29632	HILLSIDE RD	Upper Hutt				Wellington
 22064	GILBY GRV	Titahi Bay				Wellington
 25073	VALLANCE ST	Tauweru (Wellington, NZ)

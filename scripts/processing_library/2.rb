@@ -8,7 +8,7 @@ def process_polish_buffer(buffer)
   linzid, street_name, first_lat, first_lon = nil
   
 	buffer.each{|line|
-    if line =~ /;linzid\=(\d+)/ then
+    if line =~ /;linzid\=(\d*)/ then
       linzid = $1
     elsif line =~ /Label\=(.*)/ then
       street_name = $1

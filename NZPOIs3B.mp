@@ -53853,9 +53853,9 @@ Data0=(-43.56300,172.51492)
 [POI]
 Type=0x2f
 Label=MAXWOOD MANUFACTURING LTD
-StreetDesc=236B Main South Rd, Sockburn, Chc/ 
-Phone=+6433585775
-Data0=(-43.54330,172.54520)
+StreetDesc=6/33 Foremans Rd, Hornby, Chc/ 
+Phone=+6433582277
+Data0=(-43.54486,172.50338)
 [END]
 
 ;1109270
@@ -79350,6 +79350,15 @@ Label=ALMOST ALL NEW ZEALAND BOOKS
 StreetDesc=17 Itchen St, Oamaru, Otago/ Secondhand Bookshop, Second Hand Books
 Phone=+6434348400
 Data0=(-45.10231,170.96913)
+[END]
+
+;1120300
+[POI]
+Type=0x2e
+Label=DAVID'S BOOK EXCHANGE
+StreetDesc=14 Bower Ave, New Brighton, Chc/ Secondhand Bookshop, Second Hand Books, Book Ex
+Phone=+6433824370
+Data0=(-43.50325,172.70982)
 [END]
 
 ;1120303
@@ -113848,9 +113857,9 @@ Data0=(-43.52420,172.36942)
 [POI]
 Type=0x2d02
 Label=WHITE HORSE INN MILTON
-StreetDesc=147 Union St, Milton, Dud/ Bar, TAB outlet
+StreetDesc=147 Union St, Milton 9220/ Bar, TAB outlet, accommodation
 Phone=+6434178049
-Data0=(-45.86496,170.51141)
+Data0=(-46.11889,169.96176)
 [END]
 
 ;1137758
@@ -120415,7 +120424,7 @@ Data0=(-45.10698,170.94639)
 [POI]
 Type=0x2f
 Label=RAINBOW CONFECTIONERY LIMITED
-StreetDesc=459 Thames Highway, Oamaru/ 
+StreetDesc=459 Thames Highway, Oamaru/ Lolly shop
 Data0=(-45.07689,170.98628)
 [END]
 
@@ -202399,5 +202408,32 @@ StreetDesc=84 Filleul St, Dud 9059/ Gym
 Phone=0800JETTS247
 zip=24 Hours 7 Days
 Data0=(-45.86919,170.50445)
+[END]
+
+;1190131
+[POI]
+Type=0x2f
+Label=?EVANSDALE CHEESE
+StreetDesc=2 Duncan Ave, Karitane 9471, New Zealand/ Factory shop, tasting
+Phone=+34658101
+Data0=(-45.61677,170.63906)
+[END]
+
+;1190132
+[POI]
+Type=0x2f
+Label=DUNEDIN MALT HOUSE (BREW SHOP)
+StreetDesc=596 Hillside Rd, Caversham, Dud 9012/ brew, beer, spirits, wine, cheese
+Phone=+6434560297
+zip=Mon 12pm - 5:30 pm, Week 9.30am-5.30pm, 
+Data0=(-45.89818,170.48597)
+[END]
+
+;1190133
+[POI]
+Type=0x2f
+Label=NZ BOAT SALES
+StreetDesc=56 Vickerman St, Nelson/ boat dealers, boat sales, marine brokers, ship brokers
+Data0=(-41.26355,173.27860)
 [END]
 

@@ -1,5 +1,23 @@
 26072	SEYMOUR ST	Linton, Palmerston North (Manawatu-Wanganui, NZ)
 25125	ANDREW ST	Tinui (Wellington, NZ)
+22683	NARROW NECK RD	Blue Mountains (Wellington, NZ)
+25024	FREDERICK ST	Tinui (Wellington, NZ)
+25370	BURTS RD	South Featherston (Wellington, NZ)
+25092	STEWART TCE	Mauriceville (Wellington, NZ)
+25574	TAY ST		Linton, Palmerston North (Manawatu-Wanganui, NZ)
+25620	TRAVERS ST	Linton, Palmerston North (Manawatu-Wanganui, NZ)
+26042	SHORTLAND ST	Linton, Palmerston North (Manawatu-Wanganui, NZ)
+27203	WADHAM ST	Glen Oroua (Manawatu-Wanganui, NZ)
+27206	PICKERING ST	Rongotea (Manawatu-Wanganui, NZ)
+27768	HEMA ST		Hokio Beach (Manawatu-Wanganui, NZ)
+27650	RESERVOIR RD	Makuri, Pahiatua (Manawatu-Wanganui, NZ)
+27859	MAIRI ST	Tokomaru (Manawatu-Wanganui, NZ)
+27980	NGAPERA ST	Hokio Beach (Manawatu-Wanganui, NZ)
+29447	EDGAR GRV	Kingsley Heights, Upper Hutt (Wellington, NZ)
+29450	WINDSOR CL	Kingsley Heights, Upper Hutt (Wellington, NZ)
+30346	WAIARIKI BND	Otaki Beach, Otaki (Wellington, NZ)
+
+
 30564	OLIVE ST	Glen Oroua (Manawatu-Wanganui, NZ)
 29632	HILLSIDE RD	Upper Hutt				Wellington
 22064	GILBY GRV	Titahi Bay				Wellington

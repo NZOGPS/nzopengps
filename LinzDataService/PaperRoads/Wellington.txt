@@ -16,7 +16,13 @@
 29447	EDGAR GRV	Kingsley Heights, Upper Hutt (Wellington, NZ)
 29450	WINDSOR CL	Kingsley Heights, Upper Hutt (Wellington, NZ)
 30346	WAIARIKI BND	Otaki Beach, Otaki (Wellington, NZ)
-
+31011	TITOKI ST	Tokomaru (Manawatu-Wanganui, NZ)
+31082	QUEENSGATE RD	Hutt Central, Lower Hutt (Wellington, NZ)
+34506	WILLIAMS RD	Papatawa (Manawatu-Wanganui, NZ)
+35301	PICTON ST	Porangahau (Hawke's Bay, NZ)
+91081	STATION RD E	Porirua (Wellington, NZ)
+94182	KINGSGATE GRV	Highbury, Palmerston North (Manawatu-Wanganui, NZ)
+97222	CONNELLY WAY	Reikorangi (Wellington, NZ)
 
 30564	OLIVE ST	Glen Oroua (Manawatu-Wanganui, NZ)
 29632	HILLSIDE RD	Upper Hutt				Wellington

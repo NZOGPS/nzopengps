@@ -88620,10 +88620,10 @@ Data0=(-43.53992,172.60552)
 ;1123672
 [POI]
 Type=0x2f
-Label=IDEAL ELECTRICAL HORNBY
-StreetDesc=39 Waterloo Rd, Chc/ Electrical trade wholesaler PDL HPM cable
-Phone=+6433492980
-Data0=(-43.53774,172.54091)
+Label=IDEAL ELECTRICAL CHRISTCHURCH SOUTH
+StreetDesc=79 Waterloo Rd, Sockburn, Chc/ Electrical trade wholesaler PDL HPM cable
+Phone=+6433490342
+Data0=(-43.53799,172.53804)
 [END]
 
 ;1123673
@@ -202435,5 +202435,123 @@ Type=0x2f
 Label=NZ BOAT SALES
 StreetDesc=56 Vickerman St, Nelson/ boat dealers, boat sales, marine brokers, ship brokers
 Data0=(-41.26355,173.27860)
+[END]
+
+;1190172
+[POI]
+Type=0x2f
+Label=IDEAL ELECTRICAL BLENHEIM
+StreetDesc=7 Opawa St, Blenheim/ Electrical supplies
+Phone=+6435778818
+Data0=(-41.51411,173.96334)
+[END]
+
+;1190173
+[POI]
+Type=0x2f
+Label=IDEAL ELECTRICAL NELSON
+StreetDesc=72 Pascoe St, Nelson/ Electrical supplies
+Phone=+6435486812
+Data0=(-41.29422,173.24067)
+[END]
+
+;1190174
+[POI]
+Type=0x2f
+Label=IDEAL ELECTRICAL NELSON SOUTH
+StreetDesc=57 Vanguard St, Nelson/ Electrical supplies
+Phone=+6435483531
+Data0=(-41.27481,173.27837)
+[END]
+
+;1190175
+[POI]
+Type=0x2f
+Label=IDEAL ELECTRICAL RICHMOND
+StreetDesc=24 Main Rd, Hope/ Electrical supplies
+Phone=+6435448491
+Data0=(-41.34637,173.16507)
+[END]
+
+;1190176
+[POI]
+Type=0x2f
+Label=IDEAL ELECTRICAL GREYMOUTH
+StreetDesc=14 Arney St, Greymouth/ Electrical supplies
+Phone=+6437689900
+Data0=(-42.44852,171.20396)
+[END]
+
+;1190177
+[POI]
+Type=0x2f
+Label=IDEAL ELECTRICAL WESTPORT
+StreetDesc=187 Palmerston St, Westport/ Electrical supplies
+Phone=+6437888018
+Data0=(-41.75799,171.59956)
+[END]
+
+;1190178
+[POI]
+Type=0x2f
+Label=IDEAL ELECTRICAL ASHBURTON
+StreetDesc=62 Dobson St, Ashburton/ Electrical supplies
+Phone=+6433088588
+Data0=(-43.90751,171.74335)
+[END]
+
+;1190179
+[POI]
+Type=0x2f
+Label=IDEAL ELECTRICAL CHRISTCHURCH
+StreetDesc=84-86 Fitzgerald Ave, Chc/ Electrical supplies
+Phone=+6433798812
+Data0=(-43.53513,172.65082)
+[END]
+
+;1190180
+[POI]
+Type=0x2f
+Label=IDEAL ELECTRICAL CHRISTCHURCH SYDENHAM
+StreetDesc=118 Montreal St, Sydenham, Chc/ Electrical supplies
+Phone=+6433791611
+Data0=(-43.54188,172.63077)
+[END]
+
+;1190181
+[POI]
+Type=0x2f
+Label=IDEAL ELECTRICAL PAPANUI
+StreetDesc=110 Sawyers Arms Rd, Papanui/ Electrical supplies
+Phone=+6433524662
+Data0=(-43.48652,172.60486)
+[END]
+
+;1190182
+[POI]
+Type=0x2f
+Label=IDEAL ELECTRICAL TIMARU
+StreetDesc=24-26 Barnard St, Timaru/ Electrical supplies
+Phone=+6436885440
+Data0=(-44.39836,171.25379)
+[END]
+
+;1190183
+[POI]
+Type=0x2f
+Label=LAKE VILLAS ACCOMMODATION 24HR
+StreetDesc=9 Gavan St, Cromwell 9310, New Zealand/ LUXURY 1, 2 and 3 bedroom Apartments - U
+Phone=+6434454119
+zip=24/7
+Data0=(-45.04671,169.19385)
+[END]
+
+;1190185
+[POI]
+Type=0x2f
+Label=DON HOBBS FLOORING & CARPET LAYING SERVICES
+StreetDesc=112A Palmers Rd, North New Brighton, Chc/ Christchurch specialists in quality ca
+Phone=+6433884009
+Data0=(-43.50087,172.71320)
 [END]
 

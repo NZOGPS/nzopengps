@@ -73,5 +73,8 @@
 50470	Duke St		Mahurangi East
 60125	Short St	Mahurangi East
 50817	Reef St		Mahurangi East
-
-
+55984	BILLAR RD	Ruakaka
+94480	CAPTAINS CRES	Akl
+97209	SHAWCROSS AVE	Mt Roskill
+97210	HENEHAN CRES	Mt Roskill
+97211	PUKETAPAPA ST	Mt Roskill

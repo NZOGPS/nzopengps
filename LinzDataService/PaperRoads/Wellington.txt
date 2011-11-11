@@ -23,6 +23,7 @@
 91081	STATION RD E	Porirua (Wellington, NZ)
 94182	KINGSGATE GRV	Highbury, Palmerston North (Manawatu-Wanganui, NZ)
 97222	CONNELLY WAY	Reikorangi (Wellington, NZ)
+23219	PRIESTS AVE	Petone, Lower Hutt (Wellington, NZ)
 
 30564	OLIVE ST	Glen Oroua (Manawatu-Wanganui, NZ)
 29632	HILLSIDE RD	Upper Hutt				Wellington

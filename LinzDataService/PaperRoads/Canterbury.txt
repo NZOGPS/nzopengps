@@ -250,5 +250,19 @@
 4427	SOUTH ST
 4428	LAKE ST
 94151	KAIPO BAY WLK
-481	THOMAS ST	Duntroon (Canterbury, NZ)	12/11/2011 12:22:03 a.m.
+481		THOMAS ST	Duntroon (Canterbury, NZ)	12/11/2011 12:22:03 a.m.
 16683	RIVER RD	Seadown (Canterbury, NZ)	12/11/2011 12:58:45 a.m.
+15628	BUSH RD	Allandale (Canterbury, NZ)	12/11/2011 1:33:46 p.m.
+1619	LAKE RD	Wanaka (Otago, NZ)	12/11/2011 1:36:24 p.m.
+95820	OTEMATATA STATION RD	Otematata (Canterbury, NZ)	12/11/2011 1:38:58 p.m.
+92251	ROADWAY	12/11/2011 1:48:56 p.m.
+91984	ROADWAY	Little River (Canterbury, NZ)	12/11/2011 1:50:55 p.m.
+91972	ROADWAY	Little River (Canterbury, NZ)	12/11/2011 1:50:55 p.m.
+91981	ROADWAY	Little River (Canterbury, NZ)	12/11/2011 1:50:55 p.m.
+91967	ROADWAY	Little River (Canterbury, NZ)	12/11/2011 1:50:55 p.m.
+92240	ROADWAY	Little River (Canterbury, NZ)	12/11/2011 1:50:55 p.m.
+92239	ROADWAY	Little River (Canterbury, NZ)	12/11/2011 1:50:55 p.m.
+91970	ROADWAY	Little River (Canterbury, NZ)	12/11/2011 1:50:55 p.m.
+92245	ROADWAY	Little River (Canterbury, NZ)	12/11/2011 1:50:55 p.m.
+91966	ROADWAY	Southbridge (Canterbury, NZ)	12/11/2011 2:03:00 p.m.
+91971	ROADWAY	Southbridge (Canterbury, NZ)	12/11/2011 2:05:01 p.m.

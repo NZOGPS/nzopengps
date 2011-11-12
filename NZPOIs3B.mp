@@ -715,15 +715,6 @@ Phone=0800838383
 Data0=(-43.30348,172.59859)
 [END]
 
-;1003101
-[POI]
-Type=0x2a0a
-Label=PIZZA HUT RESTAURANT DUNEDIN
-StreetDesc=5 Malcolm St, Dud/ pizza, dine-in restaurant, takeaways
-Phone=+6434772072
-Data0=(-45.86795,170.51000)
-[END]
-
 ;1003234
 [POI]
 Type=0x2a0a
@@ -845,7 +836,7 @@ Data0=(-44.39352,171.24754)
 [POI]
 Type=0x2e05
 Label=UNICHEM KNOX PHARMACY
-StreetDesc=402 George St, Dud, Southland/ chemist, pharmacy
+StreetDesc=402 George St, Dud/ chemist, pharmacy
 Phone=+6434770635
 zip=Mon 8.00am - 6.00pm,Tue 8.00am - 6.00pm,
 Data0=(-45.86785,170.50735)
@@ -915,7 +906,7 @@ Data0=(-41.11174,173.01132)
 [POI]
 Type=0x2e05
 Label=UNICHEM NELSON CITY PHARMACY
-StreetDesc=207 Trafalgar St, Nelson, Marlborough/ chemist, pharmacy
+StreetDesc=207 Trafalgar St, Nelson,/ chemist, pharmacy
 Phone=+6435484380
 zip=Mon 8.30am - 5.30pm,Tue 8.30am - 5.30pm,
 Data0=(-41.27322,173.28420)
@@ -965,7 +956,7 @@ Data0=(-46.41277,168.35778)
 [POI]
 Type=0x2e05
 Label=UNICHEM GRAYS BALCLUTHE PHARMACY
-StreetDesc=62 Clyde St, Balclutha, Southland/ chemist, pharmacy
+StreetDesc=62 Clyde St, Balclutha, Otago/ chemist, pharmacy
 Phone=+6434181359
 zip=Mon 9.00am - 5.30pm,Tue 9.00am - 5.30pm,
 Data0=(-46.23821,169.73818)
@@ -1152,15 +1143,6 @@ Label=RE:FUEL
 StreetDesc=640 Cumberland St, Dud/ bar, club
 Phone=+6434795309
 Data0=(-45.86703,170.51233)
-[END]
-
-;1004935
-[POI]
-Type=0x2d02
-Label=BATH ST
-StreetDesc=1 Bath St, Dud/ bar, club
-Phone=+6434776750
-Data0=(-45.87328,170.50446)
 [END]
 
 ;1005005
@@ -4793,9 +4775,9 @@ Data0=(-45.07812,170.98252)
 [POI]
 Type=0x2c05
 Label=PHILLIPSTOWN SCHOOL
-StreetDesc=21 Nursery Rd, Phillipstown, Chc/ State Co-Ed Primary, Intermediate School
+StreetDesc=39 Nursery Rd, Phillipstown, Chc/ State Co-Ed Primary, Intermediate School
 Phone=+6433668723
-Data0=(-43.53832,172.65656)
+Data0=(-43.53778,172.65679)
 [END]
 
 ;1017227
@@ -202410,6 +202392,24 @@ zip=24 Hours 7 Days
 Data0=(-45.86919,170.50445)
 [END]
 
+;1190123
+[POI]
+Type=0x2f
+Label=TECHSURE SERVICES LTD
+StreetDesc=15A, Stone St, Kaiapoi, New Zealand/ A wide range of general engineering service
+Phone=+6433270720
+Data0=(-43.39043,172.65547)
+[END]
+
+;1190127
+[POI]
+Type=0x2f
+Label=TRAVEL NEW ZEALAND RENTALS
+StreetDesc=90 Carmen Rd, Chc, New Zealand/ Cheep rental cars Christchurch New Zealand
+Phone=+6433492222
+Data0=(-43.53627,172.53053)
+[END]
+
 ;1190131
 [POI]
 Type=0x2f
@@ -202435,6 +202435,24 @@ Type=0x2f
 Label=NZ BOAT SALES
 StreetDesc=56 Vickerman St, Nelson/ boat dealers, boat sales, marine brokers, ship brokers
 Data0=(-41.26355,173.27860)
+[END]
+
+;1190136
+[POI]
+Type=0x2b01
+Label=FERRYLINK MOTEL
+StreetDesc=43 Kent St, Picton, Marlborough, New Zealand/ Picton Motel Accommodation
+Phone=+35737097
+Data0=(-41.29557,174.00041)
+[END]
+
+;1190137
+[POI]
+Type=0x2f
+Label=PROTRANZ EARTHMOVING LTD
+StreetDesc=625 Johns Rd, Chc, New Zealand/ Earthmoving, Demolition company Christchurch Can
+Phone=+6433593030
+Data0=(-43.47005,172.57462)
 [END]
 
 ;1190172
@@ -202546,6 +202564,15 @@ zip=24/7
 Data0=(-45.04671,169.19385)
 [END]
 
+;1190184
+[POI]
+Type=0x2f
+Label=SERVICE FOODS LTD
+StreetDesc=220 Cumnor Terrace, Chc, New Zealand/ Quality food products distributer througho
+Phone=+6433899909
+Data0=(-43.56095,172.68475)
+[END]
+
 ;1190185
 [POI]
 Type=0x2f
@@ -202553,5 +202580,32 @@ Label=DON HOBBS FLOORING & CARPET LAYING SERVICES
 StreetDesc=112A Palmers Rd, North New Brighton, Chc/ Christchurch specialists in quality ca
 Phone=+6433884009
 Data0=(-43.50087,172.71320)
+[END]
+
+;1190188
+[POI]
+Type=0x2f
+Label=SOUTHERN CONNECTIONS LTD
+StreetDesc=Unit 6 35 Riccarton Rd, Chc, New Zealand/ Private coach tours South Island New Z
+Phone=+33799260
+Data0=(-43.52931,172.60847)
+[END]
+
+;1190189
+[POI]
+Type=0x2f
+Label=BELLAMY AND EAST
+StreetDesc=58 Falsgrave St, Chc, New Zealand/ Car suspensions springs manufacturer
+Phone=+6433654371
+Data0=(-43.54262,172.65087)
+[END]
+
+;1190195
+[POI]
+Type=0x2c05
+Label=MIKE HEDGES BUILDERS
+StreetDesc=47 Marlowe Place Rolleston Chc 7614 New Zealand/ For strong, durable, resilient 
+Phone=+6433472618
+Data0=(-43.58634,172.39218)
 [END]
 

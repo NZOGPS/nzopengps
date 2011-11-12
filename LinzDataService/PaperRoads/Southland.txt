@@ -356,3 +356,37 @@
 91973	ROADWAY		Colac Bay (Southland, NZ)	12/11/2011 9:34:36 p.m.
 91974	ROADWAY		Colac Bay (Southland, NZ)	12/11/2011 9:34:36 p.m.
 3019	KILMOG RD		Evansdale (Otago, NZ)	12/11/2011 9:44:28 p.m.
+502	LEWIS ST		Kakanui (Otago, NZ)	12/11/2011 10:01:16 p.m.
+565	WILLIAM ST		Kakanui (Otago, NZ)	12/11/2011 10:01:16 p.m.
+3128	LEWIS ST		Karitane (Otago, NZ)	12/11/2011 10:04:22 p.m.
+7488	LINCOLN ST		Waimatuku (Southland, NZ)	12/11/2011 10:09:02 p.m.
+7524	STRANG RD		Waimatuku (Southland, NZ)	12/11/2011 10:09:02 p.m.
+7876	RYE ST		Waimatuku (Southland, NZ)	12/11/2011 10:09:02 p.m.
+7930	POOLE ST		Waimatuku (Southland, NZ)	12/11/2011 10:09:02 p.m.
+7924	OLDHAM ST		Waimatuku (Southland, NZ)	12/11/2011 10:09:02 p.m.
+7496	WATERFORD ST		Flints Bush (Southland, NZ)	12/11/2011 10:09:34 p.m.
+8548	STROUD ST		Flints Bush (Southland, NZ)	12/11/2011 10:09:34 p.m.
+505	MAORI CROSSING RD		Moeraki (Otago, NZ)	12/11/2011 10:16:17 p.m.
+5404	MARTIN ST		Deborah (Otago, NZ)	12/11/2011 10:18:26 p.m.
+1284	MCCARTHY RD		Earnscleugh (Otago, NZ)	12/11/2011 10:53:55 p.m.
+93697	MILL RD		Woodside (Otago, NZ)	12/11/2011 10:55:53 p.m.
+5918	NORMANBY ST		Gore (Southland, NZ)	12/11/2011 11:13:55 p.m.
+5869	ROBINSON ST		Gore (Southland, NZ)	12/11/2011 11:13:55 p.m.
+1801	NYHON RD		Sandymount (Otago, NZ)	12/11/2011 11:16:39 p.m.
+1210	OLD PUNT RD		Millers Flat (Otago, NZ)	12/11/2011 11:18:24 p.m.
+97628	QUARANTINE ISLAND (BEACH) Otago Harbour! 	12/11/2011 11:28:46 p.m.
+2871	QUEEN ST		Evansdale (Otago, NZ)	12/11/2011 11:31:21 p.m.
+4581	RAM HILL RD		Herbert (Otago, NZ)	12/11/2011 11:33:38 p.m.
+1344	ROBERTSON RD		Lower Nevis (Otago, NZ)	12/11/2011 11:48:40 p.m.
+7874	RUSSELL PDE		Otautau (Southland, NZ)	12/11/2011 11:53:33 p.m.
+3757	SADDLE RD		Papatowai (Otago, NZ)	12/11/2011 11:56:39 p.m.
+543	SHORT ST		Reidston (Otago, NZ)	12/11/2011 11:58:30 p.m.
+3185	SLOAN RD		Flag Swamp (Otago, NZ)	13/11/2011 12:00:34 a.m.
+2687	STOWE ST		Hyde (Otago, NZ)	13/11/2011 12:02:30 a.m.
+3077	TAIERI TCE		Outram (Otago, NZ)	13/11/2011 12:03:55 a.m.
+7901	TAKITIMU ST		Colac Bay (Southland, NZ)	13/11/2011 12:06:54 a.m.
+7623	TOROA ST		Colac Bay (Southland, NZ)	13/11/2011 12:06:54 a.m.
+7904	TAINUI ST		Colac Bay (Southland, NZ)	13/11/2011 12:06:54 a.m.
+247	TUMAI RD		Goodwood (Otago, NZ)	13/11/2011 12:17:12 a.m.
+2867	WAIHEMA TCE		Evansdale (Otago, NZ)	12/11/2011 11:31:21 p.m.
+4904	WOODLAND TCE		Careys Bay, Dunedin (Otago, NZ)	13/11/2011 12:24:56 a.m.

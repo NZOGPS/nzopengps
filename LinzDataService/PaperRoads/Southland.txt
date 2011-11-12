@@ -267,3 +267,67 @@
 3244	ST ASAPH ST		Middlemarch (Otago, NZ)	12/11/2011 4:15:53 p.m.
 5027	NEATH ST		Middlemarch (Otago, NZ)	12/11/2011 4:15:53 p.m.
 2961	DENBIGH ST		Middlemarch (Otago, NZ)	12/11/2011 4:15:53 p.m.
+
+284	BEACH RD		Oamaru North, Oamaru (Otago, NZ)	12/11/2011 5:04:30 p.m.
+228	COLLINS ST		Oamaru North, Oamaru (Otago, NZ)	12/11/2011 5:04:30 p.m.
+292	FOUR ST		Oamaru North, Oamaru (Otago, NZ)	12/11/2011 5:04:30 p.m.
+5396	LANE ST		South Hill, Oamaru (Otago, NZ)	12/11/2011 5:04:30 p.m.
+
+4594	RAVENSWORTH ST		Maheno (Otago, NZ)	12/11/2011 5:10:16 p.m.
+422	STREAMSIDE ST		Maheno (Otago, NZ)	12/11/2011 5:10:16 p.m.
+660	ISLAND ST		Maheno (Otago, NZ)	12/11/2011 5:10:16 p.m.
+4492	CROSS ST		Maheno (Otago, NZ)	12/11/2011 5:10:16 p.m.
+516	BENSHAM ST		Maheno (Otago, NZ)	12/11/2011 5:10:16 p.m.
+633	LANCHESTER ST		Maheno (Otago, NZ)	12/11/2011 5:10:16 p.m.
+
+7182	BLACK ST		Otara (Southland, NZ)	12/11/2011 5:15:48 p.m.
+7085	REYNOLDS ST		Otara (Southland, NZ)	12/11/2011 5:15:48 p.m.
+7304	DOUGLAS ST		Otara (Southland, NZ)	12/11/2011 5:15:48 p.m.
+8417	CAMPBELL ST		Otara (Southland, NZ)	12/11/2011 5:15:48 p.m.
+
+2516	BOTHWELL ST		North East Valley, Dunedin (Otago, NZ)	12/11/2011 5:21:40 p.m.
+2044	RAEBURN ST		North East Valley, Dunedin (Otago, NZ)	12/11/2011 5:21:40 p.m.
+2462	OUTRAM ST		North East Valley, Dunedin (Otago, NZ)	12/11/2011 5:21:40 p.m.
+2216	GUTHRIE ST		North East Valley, Dunedin (Otago, NZ)	12/11/2011 5:21:40 p.m.
+
+3060	BRIDGE ST		Waitati (Otago, NZ)	12/11/2011 5:43:17 p.m.
+
+3050	BRISTOL ST		Sutton (Otago, NZ)	12/11/2011 5:46:54 p.m.
+2880	WILTS ST		Sutton (Otago, NZ)	12/11/2011 5:46:54 p.m.
+3032	GOSPORT ST		Sutton (Otago, NZ)	12/11/2011 5:46:54 p.m.
+3122	RUTLAND ST		Sutton (Otago, NZ)	12/11/2011 5:46:54 p.m.
+
+94649	CLAWD RD		Conroys Gully (Otago, NZ)	12/11/2011 5:57:50 p.m.
+94648	TOR HILL DR		Conroys Gully (Otago, NZ)	12/11/2011 5:57:50 p.m.
+
+4931	CLYDE ST		Portobello, Dunedin (Otago, NZ)	12/11/2011 6:01:27 p.m.
+7044	CROMEL RD		Lowther (Southland, NZ)	12/11/2011 6:11:39 p.m.
+
+7919	OSWALD ST		Castlerock (Southland, NZ)	12/11/2011 6:15:02 p.m.
+7817	CROMEL ST		Castlerock (Southland, NZ)	12/11/2011 6:15:02 p.m.
+8539	LINCOLN ST		Castlerock (Southland, NZ)	12/11/2011 6:15:02 p.m.
+
+1301	DAIRY GULLY RD		Clyde (Otago, NZ)	12/11/2011 6:19:08 p.m.
+
+6607	DEVON ST		Woodend, Invercargill (Southland, NZ)	12/11/2011 6:24:32 p.m.
+6570	DALE ST		Woodend, Invercargill (Southland, NZ)	12/11/2011 6:24:32 p.m.
+8377	ESSEX ST		Woodend, Invercargill (Southland, NZ)	12/11/2011 6:24:32 p.m.
+8780	SUSSEX ST		Woodend, Invercargill (Southland, NZ)	12/11/2011 6:24:32 p.m.
+8690	DORSET ST		Woodend, Invercargill (Southland, NZ)	12/11/2011 6:24:32 p.m.
+8729	YORK ST		Woodend, Invercargill (Southland, NZ)	12/11/2011 6:24:32 p.m.
+6608	DOVER ST		Woodend, Invercargill (Southland, NZ)	12/11/2011 6:24:32 p.m.
+6574	GRANGE RD		Woodend, Invercargill (Southland, NZ)	12/11/2011 6:24:32 p.m.
+
+6659	PEMBROKE ST		Dacre (Southland, NZ)	12/11/2011 6:32:30 p.m.
+6949	HOWARD ST		Dacre (Southland, NZ)	12/11/2011 6:32:30 p.m.
+7302	DARCY PL		Dacre (Southland, NZ)	12/11/2011 6:32:30 p.m.
+6764	STAFFORD ST		Dacre (Southland, NZ)	12/11/2011 6:32:30 p.m.
+8410	SIDNEY ST		Dacre (Southland, NZ)	12/11/2011 6:32:30 p.m.
+6638	SURREY PL		Dacre (Southland, NZ)	12/11/2011 6:32:30 p.m.
+7341	MOWBRAY TCE		Dacre (Southland, NZ)	12/11/2011 6:32:30 p.m.
+8499	VERE ST		Dacre (Southland, NZ)	12/11/2011 6:32:30 p.m.
+8391	PERCY ST		Dacre (Southland, NZ)	12/11/2011 6:32:30 p.m.
+8517	NEVILLE ST		Dacre (Southland, NZ)	12/11/2011 6:32:30 p.m.
+
+5877	ERIE ST		East Gore, Gore (Southland, NZ)	12/11/2011 6:39:33 p.m.
+8111	WET ST		East Gore, Gore (Southland, NZ)	12/11/2011 6:39:33 p.m.

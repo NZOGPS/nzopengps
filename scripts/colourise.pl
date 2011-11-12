@@ -51,7 +51,7 @@ HEADER: while (<REPORT>) {
 	last HEADER if /[\d]+ LINZ ids are missing/;
 }
 BODY: while (<REPORT>) {
-	last BODY if /#{20}+/;
+	last BODY if /#{29}/;
 	if (/^;linzid=(\d+)\t\D+/){
 		$lids{$1}=1;
 	}

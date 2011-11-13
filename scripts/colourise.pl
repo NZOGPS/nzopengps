@@ -24,17 +24,17 @@ sub process_road(){
 		$type = "0x16";
 		$label = "WALKWAY";
 		$route = "0,0,0,0,1,1,1,1,1,0,0,1";
-		$sufi = "sufi=0\n";
+		$sufi = ";sufi=0\n";
 	}
 	
 	if ($label eq "SERVICE LANE"){
 		$type = "0x15";
 		$route = "1,0,0,0,0,0,0,1,0,0,0,0";
-		$sufi = "sufi=0\n";
+		$sufi = ";sufi=0\n";
 	}
 			
 	print OUT "\n";
-	print OUT ";linzid=$lid\n";
+	print OUT ";linzid=$lid\n$sufi";
 	print OUT "[POLYLINE]\n";
 	print OUT "Type=$type\n";
 	print OUT "Label=$label\n";

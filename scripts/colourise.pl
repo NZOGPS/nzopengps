@@ -1,4 +1,5 @@
 use strict;
+use open IO => ":crlf";
 my $tile = $ARGV[0];
 my %lids;
 my $filename;

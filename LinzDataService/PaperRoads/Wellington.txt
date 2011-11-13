@@ -26,6 +26,14 @@
 31180	SHORT ST	Tinui (Wellington, NZ)
 25585	GLADSTONE SQ	Linton, Palmerston North (Manawatu-Wanganui, NZ)
 23219	PRIESTS AVE	Petone, Lower Hutt (Wellington, NZ)
+25555	FITZROY ST	Linton, Palmerston North (Manawatu-Wanganui, NZ)
+29321	KENNEDY-GOOD BRIDGE	Avalon, Lower Hutt (Wellington, NZ)
+92052	ROADWAY		Dannevirke (Manawatu-Wanganui, NZ)
+87380	ACCESSWAY	Waitarere Beach, Levin (Manawatu-Wanganui, NZ)
+85864	SERVICE LANE	Dannevirke (Manawatu-Wanganui, NZ)
+92053	ROADWAY		Dannevirke (Manawatu-Wanganui, NZ)
+87074	ACCESSWAY	Whitby, Porirua (Wellington, NZ)
+
 
 
 30564	OLIVE ST	Glen Oroua (Manawatu-Wanganui, NZ)

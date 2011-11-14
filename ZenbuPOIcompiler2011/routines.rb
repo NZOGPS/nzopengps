@@ -34,33 +34,16 @@ end
 
 # #####################
 
-require 'iconv' #iconv allows us to convert ("transliterate") or ignore non-ascii characters 
-@utf8_to_latin1 = Iconv.new("LATIN1//TRANSLIT//IGNORE", "UTF-8")
-@utf8_to_latin1_ignore = Iconv.new("LATIN1//IGNORE", "UTF-8")
-
 def fix_special_chars(s)
 	#filter characters that can display poorly on Garmin
 	if s.nil? then return nil end
 
 	begin
-		s = @utf8_to_latin1.iconv(s)
-		return s
+		return s.encode("ISO-8859-1")
 	rescue Exception => e  
-	  #puts e.message  
-	  #puts e.backtrace.inspect 
-		#print "Iconv error #{e.message } on '#{s}'\n"
+    return s
 	end
-		
-	#try the simpler IGNORE algorithm if the above fails
-	begin
-		s = @utf8_to_latin1_ignore.iconv(s)
-		return s
-	rescue Exception => e  
-	  #puts e.message  
-	  #puts e.backtrace.inspect 
-      #print "Iconv error #{e.message } on '#{s}'\n"
-	end
-	
+
 end
 
 # #####################

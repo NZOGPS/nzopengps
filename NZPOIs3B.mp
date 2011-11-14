@@ -11673,7 +11673,7 @@ Data0=(-43.54732,172.67958)
 
 ;1039585
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=MOSSBURN FOUR SQUARE GENERAL STORE
 StreetDesc=37 Devon St, Mossburn/ Supermarket, groceries
 Phone=+6432486011
@@ -14732,7 +14732,7 @@ Type=0x2e0b
 Label=BOND AND BOND NELSON
 StreetDesc=121 Trafalgar St, Nelson/ appliances, whiteware, computers, phones
 Phone=+6435459900
-zip=MonThu 9am5.30pm; Fri 9am7pm; Sat 9am5pm
+zip=Mon–Thu 9am–5.30pm; Fri 9am–7pm; Sat 9am
 Data0=(-41.27158,173.28428)
 [END]
 
@@ -14742,7 +14742,7 @@ Type=0x2e0b
 Label=BOND AND BOND RICCARTON
 StreetDesc=Westfield Shoppingtown Riccarton, 129 Riccarton Rd, Chc/ appliances, whiteware, 
 Phone=+6433489884
-zip=MonWed 9am6pm; ThursFri 9am9pm; Sat 9am6
+zip=Mon–Wed 9am–6pm; Thurs–Fri 9am–9pm; Sat 
 Data0=(-43.53102,172.59698)
 [END]
 
@@ -14752,7 +14752,7 @@ Type=0x2e0b
 Label=BOND AND BOND TIMARU
 StreetDesc=77 Sophia St, Timaru/ appliances, whiteware, computers, phones
 Phone=+6436886880
-zip=MonFri 9.30am5.30pm; SatSun 10am4pm
+zip=Mon–Fri 9.30am–5.30pm; Sat–Sun 10am–4pm
 Data0=(-44.39484,171.25030)
 [END]
 
@@ -31352,7 +31352,7 @@ Data0=(-46.40603,168.39236)
 
 ;1094204
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=LEE'S DAIRY & CAFE
 StreetDesc=29 Balaclava St, Wyndham/ Dairy, cafe
 Phone=+6432064712
@@ -36319,7 +36319,7 @@ Type=0x2e08
 Label=RESENE COLORSHOP BLENHEIM
 StreetDesc=Cnr McArtney and Redwood Streets, Blenheim/ Resene paint, wallpaper and decorati
 Phone=+6435779200
-zip=Mon-Fri 7.30am  5pm; Sat 9am-1pm
+zip=Mon-Fri 7.30am – 5pm; Sat 9am-1pm
 Data0=(-41.51618,173.96069)
 [END]
 
@@ -36369,7 +36369,7 @@ Type=0x2e08
 Label=RESENE COLORSHOP NORTHWOOD
 StreetDesc=Unit E3, Northwood Supa Ctr, Main Rd North, Chc,/ Resene paint, wallpaper and de
 Phone=+6433234492
-zip=Mon-Fri 7.30am  5pm; Sat 9am-4pm; Sun/Pu
+zip=Mon-Fri 7.30am – 5pm; Sat 9am-4pm; Sun/P
 Data0=(-43.46073,172.62426)
 [END]
 
@@ -39660,7 +39660,7 @@ Data0=(-45.89759,170.33873)
 [POI]
 Type=0x2f
 Label=?AHIPARA LUXURY TRAVEL NEW ZEALAND
-StreetDesc=3782 Becks-Lauder Rd, RD2, Omakau, Central Otago/ New Zealands most innovative, 
+StreetDesc=3782 Becks-Lauder Rd, RD2, Omakau, Central Otago/ New Zealand’s most innovative,
 Phone=+34473558
 Data0=(-45.09448,169.60187)
 [END]
@@ -62870,7 +62870,7 @@ Type=0x2f
 Label=TAYLORS ENGINEERING (BLENHEIM) LTD
 StreetDesc=Liverpool St, Riverlands Industrial Estate, Blenheim/ 
 Phone=+6435785787
-Data0=(-41.53231,174.00942)
+Data0=(-41.53285,174.01220)
 [END]
 
 ;1114367
@@ -76088,7 +76088,7 @@ Data0=(-45.41467,167.71068)
 
 ;1119338
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=TE ANAU DAIRY
 StreetDesc=76 Town Ctr, Te Anau/ Dairy
 Phone=+6432497849
@@ -86118,7 +86118,7 @@ Type=0x2f
 Label=ROLLESTON RESOURCE RECOVERY PARK
 StreetDesc=Burnham School Rd Burnham/ Dump
 Phone=+6433472026
-zip=Monday to Friday, 9 to 4.30  Saturday an
+zip=Monday to Friday, 9 to 4.30 • Saturday a
 Data0=(-43.61309,172.34356)
 [END]
 
@@ -88913,7 +88913,7 @@ Data0=(-45.87404,170.50445)
 
 ;1128375
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=10 O'CLOCK DAIRY
 StreetDesc=100 Prince Albert Rd, Dud/ dairy, convenience store
 Data0=(-45.90376,170.50690)
@@ -89150,7 +89150,7 @@ Data0=(-45.86631,170.48544)
 
 ;1128405
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=BALMORAL DAIRY
 StreetDesc=505 Hillside Rd, Dud/ dairy, convenience store
 Data0=(-45.89746,170.48853)
@@ -89858,7 +89858,7 @@ Data0=(-45.89435,170.50407)
 
 ;1128496
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=DUNDAS CORNER DAIRY
 StreetDesc=60 Dundas St, Dud/ dairy, convenience store
 Data0=(-45.86128,170.51453)
@@ -89914,7 +89914,7 @@ Data0=(-45.90443,170.52411)
 
 ;1128503
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=EAST TAIERI DAIRY & TAKEAWAYS
 StreetDesc=71 Main South Rd, East Taieri/ dairy, convenience store, takeaways, Lotto
 Phone=+6434897558
@@ -89948,7 +89948,7 @@ Data0=(-45.86827,170.50638)
 
 ;1128507
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=ELGIN ROAD DAIRY
 StreetDesc=139 Elgin Rd, Dud/ dairy, convenience store
 Data0=(-45.88827,170.47389)
@@ -90184,7 +90184,7 @@ Data0=(-45.87409,170.58546)
 
 ;1128537
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=GLENROSS DAIRY
 StreetDesc=114 Brockville Rd, Dud/ dairy, convenience store
 Data0=(-45.86551,170.46828)
@@ -90289,7 +90289,7 @@ Data0=(-45.87687,170.50180)
 
 ;1128550
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=GREEN ISLAND MILK BAR & LOTTO
 StreetDesc=214 Main South Rd, Green Island/ Dairy, lotto
 Data0=(-45.90216,170.42915)
@@ -90338,7 +90338,7 @@ Data0=(-45.85475,170.46766)
 
 ;1128556
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=HALL & PANDARAM'S DAINTY DAIRY
 StreetDesc=251 Stuart St, Dud/ dairy, convenience store
 Data0=(-45.87343,170.50045)
@@ -90436,7 +90436,7 @@ Data0=(-45.88255,170.50806)
 
 ;1128568
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=HIGHGATE DAIRY
 StreetDesc=457 Highgate, Dud/ dairy, convenience store
 Data0=(-45.86181,170.49536)
@@ -90645,7 +90645,7 @@ Data0=(-45.87011,170.47438)
 
 ;1128597
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=JUMBO DAIRY
 StreetDesc=108 North Rd, Dud/ dairy, convenience store
 Data0=(-45.85218,170.52350)
@@ -90709,7 +90709,7 @@ Data0=(-45.90250,170.50590)
 
 ;1128605
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=KINGS SUPER 7 DAIRY
 StreetDesc=651 Castle St, Dud/ dairy, convenience store
 Data0=(-45.86001,170.51680)
@@ -91218,7 +91218,7 @@ Data0=(-45.87699,170.50173)
 
 ;1128671
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=NEW CARISBROOK DAIRY
 StreetDesc=156 South Rd, Dud/ dairy, convenience store
 Data0=(-45.89357,170.48715)
@@ -91457,7 +91457,7 @@ Data0=(-45.89479,170.49810)
 
 ;1128700
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=PINE HILL DAIRY
 StreetDesc=354 Pine Hill Rd, Dud/ dairy, convenience store
 Data0=(-45.84422,170.51794)
@@ -91562,7 +91562,7 @@ Data0=(-45.87485,170.50566)
 
 ;1128713
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=PRINCE ALBERT ROAD DAIRY
 StreetDesc=18 Prince Albert Rd, Dud/ dairy, convenience store
 Data0=(-45.90032,170.50408)
@@ -91578,7 +91578,7 @@ Data0=(-45.84777,170.53375)
 
 ;1128715
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=RAVENSBOURNE DAIRY
 StreetDesc=217 Ravensbourne Rd Ravensbourne/ dairy, convenience store
 Data0=(-45.86640,170.55232)
@@ -91626,7 +91626,7 @@ Data0=(-45.87284,170.47416)
 
 ;1128721
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=ROB ROY DAIRY
 StreetDesc=498 George St, Dud/ dairy, convenience store
 Data0=(-45.86592,170.50842)
@@ -91682,7 +91682,7 @@ Data0=(-45.88144,170.49818)
 
 ;1128728
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=RUSSELL STREET DAIRY
 StreetDesc=33 Russell St, Dud/ dairy, convenience store
 Data0=(-45.87677,170.49290)
@@ -91876,7 +91876,7 @@ Data0=(-45.87042,170.50543)
 
 ;1128752
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=SPORTS DAIRY
 StreetDesc=410 Hillside Rd, Dud/ dairy, convenience store
 Data0=(-45.89611,170.49108)
@@ -91908,7 +91908,7 @@ Data0=(-45.86346,170.51370)
 
 ;1128756
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=ST KILDA TERMINUS DAIRY
 StreetDesc=125 Prince Albert Rd, Dud/ dairy, convenience store
 Data0=(-45.90569,170.50915)
@@ -92715,7 +92715,7 @@ Data0=(-45.60940,170.67121)
 
 ;1128854
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=WAKARI DAIRY & POSTAL CENTRE
 StreetDesc=286 Taieri Rd, Dud/ dairy, convenience store, Lotto
 Data0=(-45.85767,170.47807)
@@ -92755,7 +92755,7 @@ Data0=(-45.89874,170.48436)
 
 ;1128859
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=WAVERLEY DAIRY 2005
 StreetDesc=144 Larnach Rd, Dud/ dairy, convenience store
 Data0=(-45.88476,170.53155)
@@ -93615,7 +93615,7 @@ Data0=(-43.53315,172.63469)
 
 ;1130437
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=THREE ARROWS DAIRY - ON THE SPOT
 StreetDesc=585 Springs Rd, Prebbleton/ Convenience Store, Dairy
 Phone=+6433498825
@@ -94389,7 +94389,7 @@ Data0=(-43.51497,172.63685)
 
 ;1130835
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=269 DAIRY
 StreetDesc=269 Manchester St, Chc/ dairy, convenience store
 Data0=(-43.52952,172.63943)
@@ -94762,7 +94762,7 @@ Data0=(-43.50379,172.59426)
 
 ;1130885
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=AORANGI DAIRY
 StreetDesc=169F Wairakei Rd, Chc/ dairy, convenience store
 Data0=(-43.50379,172.59426)
@@ -94796,7 +94796,7 @@ Data0=(-43.54243,172.52454)
 
 ;1130889
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=ARANUI DAIRY
 StreetDesc=354 Pages Rd, Chc/ dairy, convenience store
 Data0=(-43.51718,172.70233)
@@ -94847,7 +94847,7 @@ Data0=(-43.52656,172.55376)
 
 ;1130896
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=ARMAGH DAIRY
 StreetDesc=137 Armagh St, Chc/ dairy, convenience store
 Data0=(-43.52866,172.63880)
@@ -94911,7 +94911,7 @@ Data0=(-43.52133,172.65619)
 
 ;1130905
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=AVENUE DAIRY
 StreetDesc=165 Fitzgerald Ave, Chc/ dairy, convenience store
 Data0=(-43.53124,172.65022)
@@ -94935,7 +94935,7 @@ Data0=(-43.50857,172.68561)
 
 ;1130908
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=AVONDALE DAIRY
 StreetDesc=28 Breezes Rd, Chc/ dairy, convenience store
 Data0=(-43.50857,172.68561)
@@ -94967,7 +94967,7 @@ Data0=(-43.53169,172.57339)
 
 ;1130912
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=AVONLEA DAIRY
 StreetDesc=42 Avonhead Rd, Chc/ dairy, convenience store
 Data0=(-43.52505,172.55976)
@@ -95191,7 +95191,7 @@ Data0=(-43.48630,172.71157)
 
 ;1130941
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=BEACHCOMBER DAIRY
 StreetDesc=47 Rawson St, New Brighton, Chc/ dairy, convenience store
 Data0=(-43.50660,172.71671)
@@ -95453,7 +95453,7 @@ Data0=(-43.54722,172.63684)
 
 ;1130977
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=BOWER AVE DAIRY
 StreetDesc=8B Bower Ave, Chc/ dairy, convenience store
 Data0=(-43.50346,172.70989)
@@ -95502,7 +95502,7 @@ Data0=(-43.52357,172.73360)
 
 ;1130983
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=BRIDGE STREET DAIRY
 StreetDesc=86 Estuary Rd, Chc/ dairy, convenience store, Lotto
 Data0=(-43.52307,172.73241)
@@ -95518,7 +95518,7 @@ Data0=(-43.51655,172.68735)
 
 ;1130985
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=BRIGGSTON DAIRY
 StreetDesc=75A Briggs Rd, Shirley, Chc/ dairy, convenience store
 Data0=(-43.49580,172.65477)
@@ -95550,7 +95550,7 @@ Data0=(-43.55863,172.68369)
 
 ;1130989
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=BRONSKI'S MORE THAN A DAIRY
 StreetDesc=243 Ferry Rd, Chc/ dairy, convenience store
 Data0=(-43.53993,172.65781)
@@ -95558,7 +95558,7 @@ Data0=(-43.53993,172.65781)
 
 ;1130990
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=BROOKLANDS DAIRY
 StreetDesc=1040 Lower Styx Rd, Chc/ dairy, convenience store
 Data0=(-43.40380,172.69500)
@@ -95566,7 +95566,7 @@ Data0=(-43.40380,172.69500)
 
 ;1130991
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=BROWN DERBY DAIRY
 StreetDesc=233 Colombo St, Chc/ dairy, convenience store
 Data0=(-43.55276,172.63667)
@@ -95614,7 +95614,7 @@ Data0=(-43.53503,172.65024)
 
 ;1130998
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=BURNSIDE DAIRY AND MINIMART
 StreetDesc=176 Kendal Ave, Russley, Chc/ dairy, convenience store, dairy, convenience store
 Data0=(-43.50068,172.56407)
@@ -95630,7 +95630,7 @@ Data0=(-43.48240,172.68088)
 
 ;1131000
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=BUS STOP DAIRY
 StreetDesc=254 Opawa Rd, Chc/ dairy, convenience store, Lotto
 Data0=(-43.55870,172.67256)
@@ -95880,7 +95880,7 @@ Data0=(-43.53018,172.63687)
 
 ;1131034
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=CAMPUS CORNER DAIRY
 StreetDesc=2 Rountree St, Upper Riccarton, Chc/ dairy, convenience store
 Data0=(-43.52659,172.57933)
@@ -96026,7 +96026,7 @@ Data0=(-43.56694,172.63573)
 
 ;1131053
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=CASHMERE SUPER DAIRY
 StreetDesc=89 Centaurus Rd, Chc/ dairy, convenience store, Lotto
 Phone=+6433323490
@@ -96297,7 +96297,7 @@ Data0=(-43.53072,172.63517)
 
 ;1131091
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=CITY EXPRESS COLOMBO
 StreetDesc=683A Colombo St, Chc/ 
 Data0=(-43.53277,172.63647)
@@ -96377,7 +96377,7 @@ Data0=(-43.49765,172.60822)
 
 ;1131101
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=CLYDE ROAD DAIRY
 StreetDesc=364 Clyde Rd, Chc/ dairy, convenience store
 Data0=(-43.50484,172.58437)
@@ -96385,7 +96385,7 @@ Data0=(-43.50484,172.58437)
 
 ;1131102
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=LYTTELTON STREET CNR DAIRY
 StreetDesc=142 Lyttelton St, Barrington, Chc/ dairy, convenience store
 Data0=(-43.56036,172.61263)
@@ -96393,7 +96393,7 @@ Data0=(-43.56036,172.61263)
 
 ;1131103
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=COACH CORNER DAIRY
 StreetDesc=161B Yaldhurst Rd, Chc/ dairy, convenience store
 Data0=(-43.52656,172.55376)
@@ -96582,7 +96582,7 @@ Data0=(-43.52251,172.62947)
 
 ;1131129
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=COSY NOOK DAIRY
 StreetDesc=806B Main North Rd, Chc/ dairy, convenience store
 Data0=(-43.44535,172.63245)
@@ -96638,7 +96638,7 @@ Data0=(-43.54393,172.61160)
 
 ;1131137
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=CRACROFT DAIRY
 StreetDesc=154 Cashmere Rd, Chc/ dairy, convenience store
 Data0=(-43.57391,172.61536)
@@ -96668,7 +96668,7 @@ Type=0x2a0e
 Label=CUP
 StreetDesc=127 Hackthorne Rd, Cashmere, Chc/ Cafe
 Phone=+6433321270
-zip=Mon  Fri 7.30am  4pm Sat & Sun 8am  5pm
+zip=Mon – Fri 7.30am – 4pm Sat & Sun 8am – 5
 Data0=(-43.57698,172.63024)
 [END]
 
@@ -96682,7 +96682,7 @@ Data0=(-43.52476,172.63155)
 
 ;1131142
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=CURLETTS ROAD DAIRY
 StreetDesc=13 Curletts Rd, Sockburn, Chc/ dairy, convenience store
 Data0=(-43.53400,172.56783)
@@ -96716,7 +96716,7 @@ Data0=(-43.55732,172.58363)
 
 ;1131146
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=DAIRY PARRESH
 StreetDesc=249 Riccarton Rd, Chc/ dairy, convenience store
 Data0=(-43.53100,172.58593)
@@ -96805,7 +96805,7 @@ Data0=(-43.62828,172.74001)
 
 ;1131158
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=DICKIES CORNER DAIRY
 StreetDesc=142 Canon St, Chc/ dairy, convenience store
 Data0=(-43.51579,172.64566)
@@ -96881,7 +96881,7 @@ Data0=(-43.53135,172.59697)
 
 ;1131168
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=DIVISION STREET DAIRY
 StreetDesc=28 Division St, Chc/ dairy, convenience store
 Data0=(-43.53512,172.59968)
@@ -97041,7 +97041,7 @@ Data0=(-43.53325,172.63508)
 
 ;1131189
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=EDGEWARE DAIRY
 StreetDesc=1022 Colombo St, Chc/ dairy, convenience store
 Data0=(-43.51605,172.63675)
@@ -97057,7 +97057,7 @@ Data0=(-43.51386,172.63683)
 
 ;1131191
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=EFFINGHAM DAIRY
 StreetDesc=81 Effingham St, North Beach, Chc/ dairy, convenience store
 Data0=(-43.49081,172.71835)
@@ -97193,7 +97193,7 @@ Data0=(-43.53706,172.63948)
 
 ;1131208
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=FAIRFIELD DAIRY
 StreetDesc=87 Antigua St, Chc/ dairy, convenience store
 Data0=(-43.54393,172.62776)
@@ -97201,7 +97201,7 @@ Data0=(-43.54393,172.62776)
 
 ;1131209
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=FARRINGTON DAIRY
 StreetDesc=2 Bishopdale Ct, Bishopdale, Chc/ dairy, convenience store
 Data0=(-43.48987,172.58746)
@@ -97249,7 +97249,7 @@ Data0=(-43.55863,172.51498)
 
 ;1131215
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=FEATHERSTONES DAIRY
 StreetDesc=163 Harewood Rd, Chc/ dairy, convenience store
 Data0=(-43.49164,172.59634)
@@ -97297,7 +97297,7 @@ Data0=(-43.54953,172.68375)
 
 ;1131222
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=FERRY ROAD MINIMART
 StreetDesc=344 Ferry Rd, Chc/ dairy, convenience store
 Data0=(-43.54242,172.66432)
@@ -97353,7 +97353,7 @@ Data0=(-43.53298,172.64992)
 
 ;1131229
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=FIVEWAYS DAIRY
 StreetDesc=418 Innes Rd, Chc/ dairy, convenience store
 Data0=(-43.49855,172.64149)
@@ -97608,7 +97608,7 @@ Data0=(-43.50695,172.73027)
 
 ;1131262
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=G & A DAIRY LIMITED
 StreetDesc=248 Cranford St, Chc/ dairy, convenience store
 Data0=(-43.50225,172.63266)
@@ -97754,7 +97754,7 @@ Data0=(-43.53394,172.63380)
 
 ;1131281
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=GLOUCESTER & STANMORE CORNER DAIRY
 StreetDesc=108D Stanmore Rd, Chc/ dairy, convenience store
 Data0=(-43.52998,172.65722)
@@ -97852,7 +97852,7 @@ Data0=(-43.52931,172.60218)
 
 ;1131293
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=GOPALS DAIRY
 StreetDesc=297 Main South Rd, Chc/ dairy, convenience store
 Data0=(-43.54337,172.53948)
@@ -97910,7 +97910,7 @@ Data0=(-43.48018,172.60335)
 
 ;1131301
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=GRAMPIAN STREET SUPERETTE
 StreetDesc=16 Grampian St, Casebrook, Chc/ dairy, convenience store
 Data0=(-43.48036,172.60326)
@@ -97974,7 +97974,7 @@ Data0=(-43.54971,172.68398)
 
 ;1131310
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=GREENHAVEN DAIRY
 StreetDesc=253 Burwood Rd, Burwood, Chc/ dairy, convenience store
 Data0=(-43.48369,172.68082)
@@ -98064,7 +98064,7 @@ Data0=(-43.57698,172.56774)
 
 ;1131321
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=HALSWELL DAIRY
 StreetDesc=456 Halswell Rd, Chc/ dairy, convenience store, Lotto
 Data0=(-43.58628,172.57032)
@@ -98105,7 +98105,7 @@ Data0=(-43.58541,172.57141)
 
 ;1131326
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=HAMPSHIRE DAIRY
 StreetDesc=61 Hampshire St, Aranui, Chc/ dairy, convenience store
 Data0=(-43.51074,172.70139)
@@ -98129,7 +98129,7 @@ Data0=(-43.51148,172.70090)
 
 ;1131329
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=HANARO MART
 StreetDesc=135 Farrington Ave, Bishopdale, Chc/ Superette, groceries
 Data0=(-43.49000,172.58729)
@@ -98145,7 +98145,7 @@ Data0=(-43.53967,172.64159)
 
 ;1131332
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=HANSON'S TOO NEIGHBOURHOOD DAIRY
 StreetDesc=73 Rutland St, St Albans, Chc/ dairy, convenience store
 Data0=(-43.50589,172.62802)
@@ -98193,7 +98193,7 @@ Data0=(-43.53793,172.60752)
 
 ;1131339
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=HAREWOOD DAIRY - SUPERETTE
 StreetDesc=2 Trafford St, Harewood, Chc/ dairy, convenience store, dairy, convenience store
 Data0=(-43.48347,172.57652)
@@ -98217,7 +98217,7 @@ Data0=(-43.52064,172.62625)
 
 ;1131342
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=HARRINGTON DAIRY
 StreetDesc=137 Peverel St, Riccarton, Chc/ dairy, convenience store
 Data0=(-43.53488,172.58986)
@@ -98257,7 +98257,7 @@ Data0=(-43.53561,172.52074)
 
 ;1131347
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=HEI HEI DAIRY
 StreetDesc=22 Wycola Ave, Hei Hei, Chc/ dairy, convenience store
 Data0=(-43.53576,172.52123)
@@ -98289,7 +98289,7 @@ Data0=(-43.51879,172.65612)
 
 ;1131351
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=HEREFORD STREET DAIRY
 StreetDesc=262 Hereford St, Chc/ dairy, convenience store
 Data0=(-43.53214,172.64548)
@@ -98337,7 +98337,7 @@ Data0=(-43.55461,172.59404)
 
 ;1131359
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=HILLMORTON DAIRY
 StreetDesc=7 Coppell Place, Chc/ dairy, convenience store
 Data0=(-43.55447,172.59428)
@@ -98345,7 +98345,7 @@ Data0=(-43.55447,172.59428)
 
 ;1131360
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=HILLMORTON SUPERETTE
 StreetDesc=23 Halswell Rd, Chc/ dairy, convenience store
 Data0=(-43.55461,172.59354)
@@ -98353,7 +98353,7 @@ Data0=(-43.55461,172.59354)
 
 ;1131361
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=HILLS ROAD DAIRY
 StreetDesc=349 Hills Rd, Chc/ dairy, convenience store
 Data0=(-43.49680,172.64915)
@@ -98419,7 +98419,7 @@ Data0=(-43.56840,172.75883)
 
 ;1131369
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=HOLMWOOD DAIRY
 StreetDesc=62 Holmwood Rd, Chc/ dairy, convenience store
 Data0=(-43.51989,172.61542)
@@ -98493,7 +98493,7 @@ Data0=(-43.55461,172.59354)
 
 ;1131378
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=HOON HAY SPECIAL DAIRY
 StreetDesc=2B Lewis St, Hoon Hay, Chc/ dairy, convenience store
 Data0=(-43.55991,172.60244)
@@ -98665,7 +98665,7 @@ Data0=(-43.51617,172.57174)
 
 ;1131403
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=ILAM CENTRE DAIRY
 StreetDesc=205A Waimairi Rd, Chc/ dairy, convenience store
 Data0=(-43.51645,172.57179)
@@ -98673,7 +98673,7 @@ Data0=(-43.51645,172.57179)
 
 ;1131404
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=ILAM DAIRY
 StreetDesc=403B Ilam Rd, Chc/ dairy, convenience store
 Data0=(-43.50917,172.58838)
@@ -98802,7 +98802,7 @@ Data0=(-43.54069,172.51451)
 
 ;1131422
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=ISLINGTON SUPERETTE
 StreetDesc=310D Waterloo Rd, Hornby, Chc/ dairy, convenience store, Lotto
 Data0=(-43.54069,172.51397)
@@ -98940,7 +98940,7 @@ Data0=(-43.53398,172.63908)
 
 ;1131439
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=JAY-DEE'S DAIRY
 StreetDesc=377 Selwyn St, Chc/ dairy, convenience store
 Data0=(-43.54422,172.62161)
@@ -98991,7 +98991,7 @@ Data0=(-43.53825,172.63649)
 
 ;1131445
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=JENNYS DAIRY
 StreetDesc=45 Bowhill Rd, New Brighton, Chc/ dairy, convenience store
 Data0=(-43.49579,172.72444)
@@ -99087,7 +99087,7 @@ Data0=(-43.53968,172.64104)
 
 ;1131458
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=K & L'S DAIRY & TAKEAWAY
 StreetDesc=5 Hargood St, Woolston, Chc/ Dairy, convenience store, takeaways
 Data0=(-43.54685,172.67939)
@@ -99103,7 +99103,7 @@ Data0=(-43.52919,172.63646)
 
 ;1131460
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=KAI'S RACECOURSE RD DAIRY
 StreetDesc=99C Epsom Rd, Sockburn, Chc/ dairy, convenience store
 Data0=(-43.53312,172.54911)
@@ -99243,7 +99243,7 @@ Data0=(-43.50068,172.56407)
 
 ;1131479
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=KERRS ROAD DAIRY
 StreetDesc=103 Kerrs Rd, Wainoni, Chc/ dairy, convenience store
 Data0=(-43.52244,172.68115)
@@ -99261,7 +99261,7 @@ Data0=(-41.27411,173.28628)
 
 ;1131481
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=KESGROVE DAIRY
 StreetDesc=135 St Albans St, Chc/ dairy, convenience store
 Data0=(-43.50927,172.63006)
@@ -99277,7 +99277,7 @@ Data0=(-43.53086,172.60222)
 
 ;1131483
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=KEYES ROAD DAIRY
 StreetDesc=152 Keyes Rd, New Brighton, Chc/ dairy, convenience store
 Data0=(-43.49787,172.71639)
@@ -99326,7 +99326,7 @@ Data0=(-43.52602,172.63645)
 
 ;1131489
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=KIRK ROAD DAIRY
 StreetDesc=25 Kirk Rd, Templeton, Chc/ dairy, convenience store
 Data0=(-43.55134,172.47180)
@@ -99382,7 +99382,7 @@ Data0=(-43.52951,172.60161)
 
 ;1131497
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=KOKI DAIRY
 StreetDesc=397 Linwood Ave, Chc/ dairy, convenience store
 Data0=(-43.53866,172.68184)
@@ -99446,7 +99446,7 @@ Data0=(-43.54280,172.63684)
 
 ;1131505
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=KRISHNA DAIRY
 StreetDesc=555 Ferry Rd, Chc/ dairy, convenience store
 Data0=(-43.54595,172.67529)
@@ -99512,7 +99512,7 @@ Data0=(-43.48077,172.70506)
 
 ;1131514
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=LAKE TERRACE DAIRY
 StreetDesc=10 Lake Terrace Rd, Chc/ dairy, convenience store
 Data0=(-43.49964,172.68316)
@@ -99823,7 +99823,7 @@ Data0=(-43.60300,172.72226)
 
 ;1131558
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=LYTTELTON TAKEAWAYS AND DAIRY
 StreetDesc=8 Norwich Qy, Lyttelton, Chc/ dairy, convenience store, takeaways
 Data0=(-43.60376,172.72183)
@@ -100091,7 +100091,7 @@ Data0=(-43.56372,172.58897)
 
 ;1131593
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=HEATHCOTE FOODMARKET
 StreetDesc=82A Port Hills Rd, Chc/ Dairy
 Data0=(-43.57618,172.70404)
@@ -100107,7 +100107,7 @@ Data0=(-43.53684,172.68214)
 
 ;1131596
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=MCGREGORS ROAD SUPERETTE
 StreetDesc=26A Mcgregors Rd, Bromley, Chc/ dairy, convenience store
 Data0=(-43.53667,172.68232)
@@ -100288,7 +100288,7 @@ Data0=(-43.55453,172.51784)
 
 ;1131619
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=MIKE'S DAIRY
 StreetDesc=138A Colombo St, Chc/ dairy, convenience store
 Data0=(-43.55754,172.63712)
@@ -100296,7 +100296,7 @@ Data0=(-43.55754,172.63712)
 
 ;1131620
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=MILTON STREET DAIRY
 StreetDesc=110 Milton St, Chc/ dairy, convenience store
 Data0=(-43.55415,172.62744)
@@ -100590,7 +100590,7 @@ Data0=(-43.53086,172.62720)
 
 ;1131658
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=MW DAIRY
 StreetDesc=453 Colombo St, Chc/ dairy, convenience store
 Data0=(-43.54322,172.63647)
@@ -100614,7 +100614,7 @@ Data0=(-43.54321,172.63685)
 
 ;1131662
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=NANCY AVE DAIRY
 StreetDesc=55 Nancy Ave, Mairehau, Chc/ dairy, convenience store
 Data0=(-43.49795,172.63646)
@@ -100885,7 +100885,7 @@ Data0=(-43.54393,172.61160)
 
 ;1131696
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=NORTH AVON DAIRY
 StreetDesc=117 North Avon Rd, Chc/ dairy, convenience store
 Data0=(-43.51742,172.65888)
@@ -100901,7 +100901,7 @@ Data0=(-43.51786,172.65618)
 
 ;1131698
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=NORTH BEACH DAIRY
 StreetDesc=138 Beach Rd, Chc/ dairy, convenience store
 Data0=(-43.48630,172.71157)
@@ -101146,7 +101146,7 @@ Data0=(-43.52748,172.63680)
 
 ;1131729
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=P AND P DAIRY
 StreetDesc=262B Hoon Hay Rd, Hoon Hay, Chc/ dairy, convenience store
 Data0=(-43.56952,172.61117)
@@ -101186,7 +101186,7 @@ Data0=(-43.53290,172.63647)
 
 ;1131734
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=PAH'S DAIRY
 StreetDesc=969 Colombo St, Chc/ dairy, convenience store
 Data0=(-43.51830,172.63636)
@@ -101202,7 +101202,7 @@ Data0=(-43.53112,172.62834)
 
 ;1131737
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=PANNELL DISCOUNTER
 StreetDesc=22 Wainoni Rd, Chc/ Dairy
 Phone=+6439819295
@@ -101219,7 +101219,7 @@ Data0=(-43.50864,172.65189)
 
 ;1131739
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=PARK DAIRY
 StreetDesc=37 Acheson Ave, Mairehau, Chc/ dairy, convenience store
 Data0=(-43.50084,172.65547)
@@ -101243,7 +101243,7 @@ Data0=(-43.48164,172.70600)
 
 ;1131742
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=PARNWELL STREET SUPERETTE
 StreetDesc=1 Cossar St, Burwood, Chc/ dairy, convenience store
 Data0=(-43.49550,172.68825)
@@ -101251,7 +101251,7 @@ Data0=(-43.49550,172.68825)
 
 ;1131743
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=PARNWELL SUPERETTE
 StreetDesc=75 Bassett St, Burwood, Chc/ dairy, convenience store
 Data0=(-43.49568,172.68890)
@@ -101267,7 +101267,7 @@ Data0=(-43.54321,172.63685)
 
 ;1131745
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=PATELS DAIRY LOTTO
 StreetDesc=206 Waltham Rd, Chc/ dairy, convenience store, Lotto
 Data0=(-43.54542,172.64710)
@@ -101445,7 +101445,7 @@ Data0=(-43.50528,172.67740)
 
 ;1131771
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=PK'S DAIRY (ON THE SPOT)
 StreetDesc=448 Ferry Rd, Chc/ dairy, convenience store, Lotto
 Data0=(-43.54484,172.67070)
@@ -101485,7 +101485,7 @@ Data0=(-43.54371,172.66780)
 
 ;1131776
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=POOLSIDE DAIRY
 StreetDesc=48 Matipo St, Riccarton, Chc/ dairy, convenience store
 Data0=(-43.53533,172.59650)
@@ -101581,7 +101581,7 @@ Data0=(-43.47711,172.69544)
 
 ;1131790
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=QUICKSTOP DAIRY
 StreetDesc=236 Linwood Ave, Chc/ dairy, convenience store
 Data0=(-43.53358,172.67274)
@@ -101678,7 +101678,7 @@ Data0=(-43.56148,172.73856)
 
 ;1131806
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=REDCLIFFS DAIRY
 StreetDesc=85 Main Rd, Redcliffs, Chc/ Convenience store, superette
 Data0=(-43.56153,172.73860)
@@ -101728,7 +101728,7 @@ Data0=(-43.47486,172.57746)
 
 ;1131812
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=REDWOOD MINI MARKET
 StreetDesc=284 Main North Rd, Chc/ Superette, groceries, flowers, Lotto
 Phone=+6433527707
@@ -101794,7 +101794,7 @@ Data0=(-43.53015,172.60211)
 
 ;1131820
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=RICCARTON CONVENIENCE STORE
 StreetDesc=181D Riccarton Rd, Chc/ 
 Phone=+6433485407
@@ -101955,7 +101955,7 @@ Data0=(-43.55417,172.64623)
 
 ;1131841
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=ROLL ON IN DAIRY
 StreetDesc=251 Sawyers Arms Rd, Chc/ dairy, convenience store
 Data0=(-43.48181,172.59333)
@@ -101995,7 +101995,7 @@ Data0=(-43.52984,172.60054)
 
 ;1131846
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=ROUND-A-BOUT DAIRY
 StreetDesc=135 Linwood Ave, Chc/ dairy, convenience store
 Data0=(-43.52990,172.66796)
@@ -102280,7 +102280,7 @@ Data0=(-43.50744,172.72821)
 
 ;1131883
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=SELWYN DAIRY
 StreetDesc=301 Selwyn St, Chc/ dairy, convenience store
 Data0=(-43.54842,172.62160)
@@ -102569,7 +102569,7 @@ Data0=(-43.49980,172.58581)
 
 ;1131918
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=SOCKBURN DAIRY
 StreetDesc=144B Main South Rd, Chc/ dairy, convenience store
 Data0=(-43.53829,172.55496)
@@ -102593,7 +102593,7 @@ Data0=(-43.52896,172.61173)
 
 ;1131921
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=SOMERFIELD DAIRY
 StreetDesc=2 Somerfield St, Somerfield, Chc/ dairy, convenience store
 Data0=(-43.56350,172.62622)
@@ -102626,7 +102626,7 @@ Data0=(-43.53218,172.63563)
 
 ;1131925
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=SOUTH BRIGHTON DAIRY
 StreetDesc=93 Estuary Rd, Chc/ dairy, convenience store
 Data0=(-43.52297,172.73278)
@@ -102738,7 +102738,7 @@ Data0=(-43.57122,172.52124)
 
 ;1131940
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=SPRINGS ROAD DAIRY
 StreetDesc=140 Springs Rd, Chc/ dairy, convenience store
 Data0=(-43.55244,172.53357)
@@ -102762,7 +102762,7 @@ Data0=(-43.53727,172.59704)
 
 ;1131943
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=ST ALBANS PARK DAIRY
 StreetDesc=63 Warrington St, Chc/ dairy, convenience store
 Data0=(-43.50797,172.64609)
@@ -102854,7 +102854,7 @@ Data0=(-43.53301,172.63687)
 
 ;1131955
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=STANMORE DAIRY
 StreetDesc=95A Stanmore Rd, Chc/ dairy, convenience store
 Data0=(-43.53052,172.65688)
@@ -102929,7 +102929,7 @@ Data0=(-43.53300,172.63417)
 
 ;1131964
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=STYX LEA DAIRY
 StreetDesc=356D Main North Rd, Chc/ dairy, convenience store
 Data0=(-43.47272,172.61748)
@@ -102994,7 +102994,7 @@ Data0=(-43.48942,172.54569)
 
 ;1131975
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=SUE'S TAKEAWAY AND CONVENIENCE STORE
 StreetDesc=555 Pound Rd, Chc/ Dairy, convenience store, takeaways
 Data0=(-43.51289,172.50845)
@@ -103509,7 +103509,7 @@ Data0=(-43.55374,172.47351)
 
 ;1132042
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=TENNYSON STREET DAIRY
 StreetDesc=137 Tennyson St, Sydenham, Chc/ dairy, convenience store
 Data0=(-43.55780,172.64703)
@@ -104405,7 +104405,7 @@ Data0=(-43.52972,172.63817)
 
 ;1132161
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=THORRINGTON DAIRY
 StreetDesc=29 Colombo St, Chc/ Dairy, superette, groceries
 Data0=(-43.56506,172.63696)
@@ -104496,7 +104496,7 @@ Data0=(-43.52669,172.55543)
 
 ;1132172
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=TOWN HALL DAIRY
 StreetDesc=237 Kilmore St, Chc/ dairy, convenience store
 Data0=(-43.52645,172.64619)
@@ -104569,7 +104569,7 @@ Data0=(-43.53078,172.65734)
 
 ;1132181
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=TRITON DAIRY
 StreetDesc=400 Colombo St, Chc/ dairy, convenience store
 Data0=(-43.54503,172.63684)
@@ -104585,7 +104585,7 @@ Data0=(-43.80480,172.96685)
 
 ;1132183
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=TUAM STREET DAIRY
 StreetDesc=492 Tuam St, Chc/ dairy, convenience store
 Data0=(-43.53559,172.65824)
@@ -104593,7 +104593,7 @@ Data0=(-43.53559,172.65824)
 
 ;1132184
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=TULIP DAIRY
 StreetDesc=38 Brighton Mall, New Brighton, Chc/ dairy, convenience store
 Data0=(-43.50705,172.72988)
@@ -104609,7 +104609,7 @@ Data0=(-43.54121,172.69758)
 
 ;1132187
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=TURENNE DAIRY AND COFFEE SHOP
 StreetDesc=74 Rue Lavaud, Akaroa, Chc/ dairy, convenience store, Lotto
 Data0=(-43.80503,172.96711)
@@ -104698,7 +104698,7 @@ Data0=(-43.51788,172.73068)
 
 ;1132199
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=UNION ST DAIRY
 StreetDesc=185 Union St, New Brighton, Chc/ dairy, convenience store
 Data0=(-43.51795,172.73075)
@@ -104879,7 +104879,7 @@ Data0=(-43.41882,172.65295)
 
 ;1132225
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=WAINONI DAIRY
 StreetDesc=82 Wainoni Rd, Chc/ dairy, convenience store
 Data0=(-43.51655,172.68735)
@@ -104905,7 +104905,7 @@ Data0=(-43.50710,172.70030)
 
 ;1132228
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=WAIRAKEI DISCOUNT DAIRY
 StreetDesc=264 Wairakei Rd, Chc/ dairy, convenience store
 Data0=(-43.49968,172.58675)
@@ -104945,7 +104945,7 @@ Data0=(-43.53813,172.53678)
 
 ;1132234
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=WAYSIDE DAIRY
 StreetDesc=23 Bassett St, Burwood, Chc/ dairy, convenience store
 Data0=(-43.49837,172.68799)
@@ -104953,7 +104953,7 @@ Data0=(-43.49837,172.68799)
 
 ;1132235
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=WELCOME DAIRY
 StreetDesc=812 Colombo St, Chc/ dairy, convenience store
 Data0=(-43.52613,172.63678)
@@ -105063,7 +105063,7 @@ Data0=(-43.54518,172.54613)
 
 ;1132249
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=WIGRAM MINIMART
 StreetDesc=62 Springs Rd, Chc/ dairy, convenience store
 Data0=(-43.54818,172.54057)
@@ -105081,7 +105081,7 @@ Data0=(-43.46282,172.59409)
 
 ;1132251
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=WILLY DAIRY
 StreetDesc=346 Halswell Rd, Chc/ dairy, convenience store
 Data0=(-43.58021,172.56697)
@@ -105154,7 +105154,7 @@ Data0=(-43.54968,172.68390)
 
 ;1132262
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=WOOLSTON FOOD CENTRE
 StreetDesc=701 Ferry Rd, Chc/ Dairy, Groceries
 Data0=(-43.54948,172.68364)
@@ -105186,7 +105186,7 @@ Data0=(-43.52969,172.60263)
 
 ;1132268
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=WYCOLA DAIRY
 StreetDesc=38 Wycola Ave, Hei Hei, Chc/ dairy, convenience store
 Data0=(-43.53559,172.52066)
@@ -107830,7 +107830,7 @@ Data0=(-46.38338,168.33917)
 
 ;1134401
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=ALRAY DAIRY
 StreetDesc=2-4 Windsor St, Invercargill/ dairy, superette, convenience store
 Phone=+6432174801
@@ -107883,7 +107883,7 @@ Data0=(-46.43159,168.38496)
 
 ;1134407
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=AVENAL DAIRY & LOTTO
 StreetDesc=297 Dee St, Invercargill/ dairy, superette, convenience store, Lotto
 Phone=+6432186290
@@ -108129,7 +108129,7 @@ Data0=(-46.41171,168.34764)
 
 ;1134435
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=BROWN ST FOODCENTRE
 StreetDesc=70 Brown St, Invercargill/ Dairy
 Phone=+6432169275
@@ -108265,7 +108265,7 @@ Data0=(-46.41591,168.37312)
 
 ;1134450
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=COLLINGWOOD FOODCENTRE
 StreetDesc=112 North Rd, Invercargill/ dairy, superette, convenience store, Lotto
 Phone=+6432157405
@@ -108292,7 +108292,7 @@ Data0=(-46.37477,168.34711)
 
 ;1134453
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=CRINAN STREET DAIRY
 StreetDesc=249 Crinan St, Invercargill/ dairy, superette, convenience store
 Phone=+6432140529
@@ -108346,7 +108346,7 @@ Data0=(-46.41150,168.35045)
 
 ;1134459
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=DAWN'S CORNER SHOPPE
 StreetDesc=404-412 Yarrow St, Invercargill/ dairy
 Data0=(-46.40575,168.37624)
@@ -108452,7 +108452,7 @@ Data0=(-46.40814,168.35044)
 
 ;1134471
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=ELLES ROAD MINI MARKET
 StreetDesc=369 Elles Rd, Invercargill/ dairy, superette, convenience store
 Data0=(-46.43283,168.36126)
@@ -108520,7 +108520,7 @@ Data0=(-46.37515,168.36181)
 
 ;1134479
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=FLIPPERS FOODBAR
 StreetDesc=141-143 Dunns Rd, Otatara/ dairy, superette, convenience store
 Data0=(-46.43190,168.29105)
@@ -108555,7 +108555,7 @@ Data0=(-46.42031,168.34633)
 
 ;1134483
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=FOVEAUX DAIRY
 StreetDesc=268 Gore St, Bluff/ dairy, superette, convenience store
 Phone=+6432128748
@@ -108651,7 +108651,7 @@ Data0=(-46.41058,168.34705)
 
 ;1134494
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=GRASMERE GROCERY
 StreetDesc=112 Tanner St, Invercargill/ dairy, superette, convenience store
 Phone=+6432159867
@@ -108713,7 +108713,7 @@ Data0=(-46.43176,168.36128)
 
 ;1134501
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=HERBERT ST STORE
 StreetDesc=120-124 Herbert St, Invercargill/ dairy
 Phone=+6432143219
@@ -109158,7 +109158,7 @@ Data0=(-46.42005,168.36179)
 
 ;1134551
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=MR DAIRY
 StreetDesc=354 Elles Rd, Invercargill/ dairy, superette, convenience store
 Data0=(-46.43213,168.36166)
@@ -109209,7 +109209,7 @@ Data0=(-46.41226,168.34925)
 
 ;1134557
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=NEWFIELD DAIRY
 StreetDesc=154 Ctr St, Invercargill/ dairy, superette, convenience store
 Phone=+6432169945
@@ -109377,7 +109377,7 @@ Data0=(-46.59889,168.34626)
 
 ;1134576
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=POMONA STREET DISCOUNT
 StreetDesc=120 Tramway Rd, Invercargill/ dairy
 Data0=(-46.43220,168.36907)
@@ -109439,7 +109439,7 @@ Data0=(-46.39670,168.36543)
 
 ;1134583
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=REGENT ST DAIRY
 StreetDesc=64 Regent St, Invercargill/ dairy, superette, convenience store
 Data0=(-46.42084,168.38772)
@@ -109456,7 +109456,7 @@ Data0=(-46.42239,168.38054)
 
 ;1134585
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=ROBIN HOOD MILK BAR
 StreetDesc=268 North Rd, Invercargill/ dairy
 Data0=(-46.37749,168.34710)
@@ -109491,7 +109491,7 @@ Data0=(-46.39249,168.37393)
 
 ;1134589
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=ROSEDALE FOODCENTRE
 StreetDesc=72-74 Salford St, Invercargill/ dairy
 Phone=+6432179468
@@ -109500,7 +109500,7 @@ Data0=(-46.39265,168.37398)
 
 ;1134590
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=RUGBY PARK FOODCENTRE
 StreetDesc=318 Tweed St, Invercargill/ dairy
 Phone=+6432167036
@@ -109987,7 +109987,7 @@ Data0=(-46.40929,168.34543)
 
 ;1134646
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=TAY NIGHT N DAY FOODSTORES
 StreetDesc=351 Tay St, Invercargill/ dairy
 Phone=+6432176165
@@ -110135,7 +110135,7 @@ Data0=(-46.41094,168.34766)
 
 ;1134663
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=THRIFTY FOODS DAIRY
 StreetDesc=6 Stapleton St, Invercargill/ dairy, superette, convenience store
 Phone=+6432167388
@@ -110359,7 +110359,7 @@ Data0=(-46.34457,168.34226)
 
 ;1134688
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=WHITETOPS DAIRY
 StreetDesc=2-4 Gore St, Bluff/ dairy, superette, convenience store
 Data0=(-46.60111,168.34843)
@@ -111034,7 +111034,7 @@ Data0=(-41.29827,173.23675)
 
 ;1134996
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=CHANGS DAIRY
 StreetDesc=7 Tahunanui Dr, Tahunanui, Nelson/ dairy, superette, convenience store
 Data0=(-41.28098,173.24975)
@@ -111111,7 +111111,7 @@ Type=0x2f
 Label=DADDIOS PIZZA & MAIN TURKISH KEBAB
 StreetDesc=9 Strawbridge Sq, Stoke, Nelson/ 
 Phone=+6435470440
-zip=10:30am  9:00pm 7 Days
+zip=10:30am – 9:00pm 7 Days
 Data0=(-41.31224,173.23360)
 [END]
 
@@ -111452,7 +111452,7 @@ Data0=(-41.27616,173.28943)
 
 ;1135048
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=KANDY KORNER DAIRY
 StreetDesc=151 Collingwood St, Nelson/ dairy, superette, convenience store
 Phone=+6435390205
@@ -112848,7 +112848,7 @@ Data0=(-46.42774,168.36144)
 
 ;1135559
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=TAPANUI DAIRY
 StreetDesc=35 Northumberland St, Tapanui/ On the Spot convenience store, Lotto
 Data0=(-45.94344,169.26067)
@@ -113176,7 +113176,7 @@ Data0=(-45.10233,170.96927)
 
 ;1136919
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=ITCHEN STREET DAIRY
 StreetDesc=5 Itchen St, Oamaru/ dairy
 Data0=(-45.10237,170.96950)
@@ -114244,7 +114244,7 @@ Data0=(-44.35678,171.23926)
 
 ;1137813
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=DUNROAMIN DAIRY
 StreetDesc=29 North St, Timaru/ dairy, convenience store
 Data0=(-44.40034,171.25241)
@@ -114252,7 +114252,7 @@ Data0=(-44.40034,171.25241)
 
 ;1137814
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=ELIZABETH STREET DAIRY
 StreetDesc=70 Elizabeth St, Timaru/ dairy, convenience store
 Data0=(-44.39495,171.24190)
@@ -114605,7 +114605,7 @@ Data0=(-44.39388,171.25110)
 
 ;1137859
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=HASSALL STREET FAMILY DAIRY
 StreetDesc=14 Hassall St, Timaru/ Dairy, superette
 Data0=(-44.40468,171.24315)
@@ -114670,7 +114670,7 @@ Data0=(-44.39033,171.22637)
 
 ;1137867
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=HILL TOP DAIRY
 StreetDesc=146 Evans St, Timaru/ dairy, convenience store
 Data0=(-44.37797,171.24158)
@@ -114929,7 +114929,7 @@ Data0=(-44.24564,171.27775)
 
 ;1137901
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=NORTH STREET DAIRY
 StreetDesc=108 North St, Timaru/ dairy, convenience store
 Data0=(-44.40068,171.24318)
@@ -115116,7 +115116,7 @@ Data0=(-44.26080,171.13070)
 
 ;1137927
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=PLEASANT POINT DAIRY
 StreetDesc=75 Main Rd, Pleasant Point/ dairy, convenience store
 Data0=(-44.26074,171.13128)
@@ -115553,7 +115553,7 @@ Data0=(-44.39586,171.25351)
 
 ;1137984
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=STAR DAIRY
 StreetDesc=192A North St, Timaru/ dairy, convenience store
 Data0=(-44.40072,171.23028)
@@ -118569,7 +118569,7 @@ Data0=(-46.09929,168.94611)
 
 ;1138744
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=NORTH GORE DAIRY
 StreetDesc=113 Hokonui Dr, Gore/ Dairy
 Phone=+6432085576
@@ -118802,7 +118802,7 @@ Data0=(-42.36354,171.41197)
 
 ;1139025
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=BLAKETOWN CORNER DAIRY
 StreetDesc=67 Blake St, Blaketown/ dairy, superette, convenience store
 Data0=(-42.45014,171.19448)
@@ -118882,7 +118882,7 @@ Data0=(-42.44959,171.31142)
 
 ;1139035
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=DUNOLLIE GOLDEN APPLE DAIRY
 StreetDesc=35 Macdougall Ave, Dunollie/ dairy, superette, convenience store
 Data0=(-42.39531,171.25958)
@@ -119147,7 +119147,7 @@ Data0=(-42.45621,171.20447)
 
 ;1139068
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=SCENICLAND DAIRY & TAKEAWAYS
 StreetDesc=11 Nelson Qy, Cobden/ dairy, convenience store, takeaways
 Data0=(-42.43968,171.20462)
@@ -119221,7 +119221,7 @@ Data0=(-42.44853,171.20849)
 
 ;1139077
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=WESTERN EDGE DAIRY
 StreetDesc=3 Marsden Rd, Greymouth/ dairy, superette, convenience store
 Data0=(-42.46237,171.20077)
@@ -119378,7 +119378,7 @@ Data0=(-46.09786,168.94478)
 
 ;1139097
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=WAIKAKA MINI MARKET
 StreetDesc=19 Main St, Waikaka/ Dairy, Food and Beverages
 Phone=+6432072717
@@ -119505,7 +119505,7 @@ Data0=(-44.60539,170.19445)
 
 ;1139117
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=BG'S DAIRY & TAKEAWAY
 StreetDesc=388 Thames Highway, Oamaru/ dairy, superette, convenience store, takeaways
 Data0=(-45.07839,170.98418)
@@ -120804,7 +120804,7 @@ Data0=(-46.09897,168.94420)
 
 ;1139289
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=SOUTH GORE DAIRY
 StreetDesc=230A Main St, Gore/ Dairy, Food and Beverages
 Data0=(-46.10737,168.93923)
@@ -120812,7 +120812,7 @@ Data0=(-46.10737,168.93923)
 
 ;1139290
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=SUNBEAM MILK BAR
 StreetDesc=25 Coutts Rd, Gore/ Dairy, Food and Beverages
 Phone=+6432087551
@@ -120983,7 +120983,7 @@ Data0=(-45.92268,169.01476)
 
 ;1140810
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=ESPLINS DAIRY
 StreetDesc=38 Anzac St, Gore/ Dairy, Food and Beverages
 Phone=+6432089334
@@ -121001,7 +121001,7 @@ Data0=(-46.08769,168.96031)
 
 ;1140812
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=O' CONNELLS EAST GORE DAIRY
 StreetDesc=44 Hmtn St, Gore/ Dairy, Food and Beverages
 Phone=+6432085155
@@ -121608,7 +121608,7 @@ Data0=(-41.37668,172.07520)
 
 ;1141075
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=LUFFY'S CORNER DAIRY DERBY STREET
 StreetDesc=40 Derby St, Westport/ dairy, superette, convenience store
 Data0=(-41.74841,171.60430)
@@ -121667,7 +121667,7 @@ Data0=(-41.76151,171.60036)
 
 ;1141082
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=MILLHOUSE DAIRY
 StreetDesc=229 Palmerston St, Westport/ dairy, superette, convenience store
 Data0=(-41.76150,171.60036)
@@ -130632,7 +130632,7 @@ Data0=(-43.30405,172.59147)
 
 ;1144761
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=CAROLINE DAIRY
 StreetDesc=62 Ohoka Rd, Kaiapoi/ dairy, superette, convenience store
 Data0=(-43.38561,172.64254)
@@ -131025,7 +131025,7 @@ Data0=(-43.38732,172.65473)
 
 ;1144811
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=KARIKAAS NATURAL DAIRY PRODUCTS
 StreetDesc=156 Loburn Whiterock Rd, Loburn/ dairy, superette, convenience store
 Data0=(-43.25355,172.54044)
@@ -131352,7 +131352,7 @@ Data0=(-43.30338,172.59436)
 
 ;1144854
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=RANGIORA FLOWERS & DAIRY
 StreetDesc=97 High St, Rangiora/ dairy, superette, convenience store
 Data0=(-43.30352,172.59545)
@@ -131409,7 +131409,7 @@ Data0=(-43.31508,172.59847)
 
 ;1144861
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=RED & BLACK DAIRY
 StreetDesc=111 Williams St, Kaiapoi/ dairy, superette, convenience store
 Data0=(-43.38370,172.65650)
@@ -131796,7 +131796,7 @@ Data0=(-43.30036,172.17638)
 
 ;1144911
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=WESTEND DAIRY
 StreetDesc=395 High St, Rangiora/ dairy, superette, convenience store
 Data0=(-43.30504,172.58405)
@@ -131895,7 +131895,7 @@ Data0=(-44.08851,171.24250)
 
 ;1145229
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=SPRINGSTON DAIRY
 StreetDesc=5 Leeston Rd, Springston/ Dairy
 Phone=+6433295857
@@ -132199,7 +132199,7 @@ Data0=(-43.50611,172.68176)
 
 ;1146610
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=APPLE DAIRY
 StreetDesc=138A Colombo St, Chc/ dairy, superette, convenience store
 Data0=(-43.55754,172.63712)
@@ -136689,7 +136689,7 @@ Data0=(-46.59094,169.35642)
 
 ;1147224
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=MIDWAY DAIRY
 StreetDesc=144 Union St, Milton/ dairy, superette, convenience store
 Data0=(-46.11888,169.96131)
@@ -139759,7 +139759,7 @@ Data0=(-45.80546,168.58320)
 
 ;1150735
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=BALMORAL DAIRY
 StreetDesc=17 Northland St, Ranfurly/ Dairy, superette, groceries
 Data0=(-45.12752,170.10032)
@@ -139908,7 +139908,7 @@ Data0=(-45.04081,169.19688)
 
 ;1150785
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=CURIO BAY CAMP GROUND STORE
 StreetDesc=601 Waikawa Curio Bay Rd, Curio Bay/ Dairy, superette, groceries
 Data0=(-46.66103,169.10421)
@@ -140078,7 +140078,7 @@ Data0=(-45.24332,169.37877)
 
 ;1150841
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=J B & S G PRICE LTD
 StreetDesc=39 Balaclava St, Wyndham/ Dairy, superette, groceries
 Data0=(-46.32885,168.84857)
@@ -140207,7 +140207,7 @@ Data0=(-45.73578,168.44684)
 
 ;1150887
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=MAC'S AT TARAMEA
 StreetDesc=32 Taramea Bay Rd, Riverton/ Dairy, superette, groceries
 Data0=(-46.36652,168.01963)
@@ -140215,7 +140215,7 @@ Data0=(-46.36652,168.01963)
 
 ;1150888
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=MAC'S DAIRY & GARDEN CENTRE
 StreetDesc=100 Palmerston St, Riverton/ Dairy, superette, groceries
 Data0=(-46.34939,168.01728)
@@ -140272,7 +140272,7 @@ Data0=(-45.65525,168.27025)
 
 ;1150911
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=MURPHY'S DAIRY
 StreetDesc=25 Kirkoswald St, Wallacetown/ Dairy, superette, groceries
 Data0=(-46.33499,168.28900)
@@ -140312,7 +140312,7 @@ Data0=(-45.09970,169.59496)
 
 ;1150927
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=ONE STOP LOLLY SHOP
 StreetDesc=102 Palmerston St, Riverton/ Dairy, superette, groceries
 Data0=(-46.34963,168.01690)
@@ -140515,7 +140515,7 @@ Data0=(-45.04808,169.19509)
 
 ;1151024
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=THE CLYDE DAIRY
 StreetDesc=18-20 Sunderland St, Clyde/ Dairy, superette, groceries
 Data0=(-45.18594,169.31551)
@@ -140571,7 +140571,7 @@ Data0=(-46.13643,167.68903)
 
 ;1151038
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=THE LITTLE SHOPPE
 StreetDesc=174 Slope Point Rd, Tokanui/ Dairy, superette, groceries
 Data0=(-46.64276,169.00997)
@@ -140785,7 +140785,7 @@ Data0=(-41.04250,173.01613)
 ;1151141
 [POI]
 Type=0x2f
-Label=XCLINT GRAPHIC DESIGN  THE CREATIVE BUSINESS ADVANTAGE
+Label=XCLINT GRAPHIC DESIGN – THE CREATIVE BUSINESS ADVANTAGE
 StreetDesc=Sheridan Dr, Rolleston/ XClint Graphic Design for new, small-medium & large busi
 Phone=+6421114401
 Data0=(-43.61248,172.36320)
@@ -145991,7 +145991,7 @@ Type=0x2F02
 Label=OMEGA RENTAL CARS NELSON
 StreetDesc=Trent Dr, Tahunanui, Nelson, 7011/ Nelson Car Rental, Nelson Car Hire
 Phone=+6435467780
-zip=8:00am  5:00pm Mon - Fri, 8:30am  4:00pm
+zip=8:00am – 5:00pm Mon - Fri, 8:30am – 4:00
 Data0=(-41.30007,173.22477)
 [END]
 
@@ -146001,7 +146001,7 @@ Type=0x2F02
 Label=OMEGA RENTAL CARS CHRISTCHURCH
 StreetDesc=20 Lichfield St, Chc, Canterbury 8011/ Christchurch Car Rental, Christchurch Car
 Phone=+6433774558
-zip=8:00am  5:30pm Mon - Fri, 8:00am  5:00pm
+zip=8:00am – 5:30pm Mon - Fri, 8:00am – 5:00
 Data0=(-43.53424,172.63400)
 [END]
 
@@ -146011,7 +146011,7 @@ Type=0x2F02
 Label=OMEGA RENTAL CARS CHRISTCHURCH AIRPORT
 StreetDesc=2 Export Ave, Harewood, Chc, Canterbury 8051/ Christchurch Airport Car Rental, C
 Phone=+6433602885
-zip=7:30am  5:00pm Mon - Sun
+zip=7:30am – 5:00pm Mon - Sun
 Data0=(-43.47207,172.55862)
 [END]
 
@@ -146021,7 +146021,7 @@ Type=0x2F02
 Label=OMEGA RENTAL CARS PICTON
 StreetDesc=1 Lagoon Rd, Picton, Marlborough/ Picton Car Rental, Picton Car Hire
 Phone=+6435735580
-zip=8:00am  5:30pm Mon - Fri, 8:00am  5:00pm
+zip=8:00am – 5:30pm Mon - Fri, 8:00am – 5:00
 Data0=(-41.29043,174.00047)
 [END]
 
@@ -146031,7 +146031,7 @@ Type=0x2F02
 Label=OMEGA RENTAL CARS QUEENSTOWN
 StreetDesc=20 Shotover St, Queenstown/ Queenstown Car Rental, Queenstown Car Hire
 Phone=+6434425224
-zip=8:00am  5:30pm Mon - Fri, 8:00am  5:00pm
+zip=8:00am – 5:30pm Mon - Fri, 8:00am – 5:00
 Data0=(-45.03079,168.66064)
 [END]
 
@@ -150292,7 +150292,7 @@ Data0=(-43.48955,172.10784)
 
 ;1157618
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=DARFIELD TEAROOMS & DAIRY
 StreetDesc=11 South Terrace, Darfield/ dairy, superette, groceries
 Data0=(-43.49033,172.11542)
@@ -150707,7 +150707,7 @@ Data0=(-43.53970,172.52643)
 
 ;1157670
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=ROLLESTON DAIRY
 StreetDesc=10a Chaucer St, Rolleston/ dairy, superette, groceries
 Data0=(-43.59270,172.37596)
@@ -151114,7 +151114,7 @@ Data0=(-42.32328,173.71787)
 
 ;1157722
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=LYSUN DAIRY
 StreetDesc=183 Beach Rd, Kaikoura/ dairy, superette, groceries
 Data0=(-42.38233,173.67983)
@@ -151219,7 +151219,7 @@ Data0=(-42.40095,173.68166)
 
 ;1157734
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=WEST END DAIRY
 StreetDesc=16 - 24 West End, Kaikoura/ dairy, superette, groceries
 Phone=+6433196052
@@ -151842,7 +151842,7 @@ Type=0x2e07
 Label=THE CARPENTERS DAUGHTER CHRISTCHURCH
 StreetDesc=5A Robert St, Lincoln, Chc/ Clothing and fashionwear for bigger women, fashion f
 Phone=+6439431633
-zip=Monday  Friday 9.30  5.30 Saturday 10.00
+zip=Monday – Friday 9.30 – 5.30 Saturday 10.
 Data0=(-43.64070,172.48458)
 [END]
 
@@ -163227,7 +163227,7 @@ Type=0x2e0b
 Label=BOND AND BOND BLENHEIM
 StreetDesc=Cnr Queen & Charles St, Blenheim/ appliances, whiteware, computers, phones
 Phone=+6435791594
-zip=MonThurs 9am5.30pm; Fri 9am7pm; Sat 9am5
+zip=Mon–Thurs 9am–5.30pm; Fri 9am–7pm; Sat 9
 Data0=(-41.51287,173.95553)
 [END]
 
@@ -163321,7 +163321,7 @@ Data0=(-45.88270,170.50598)
 [POI]
 Type=0x2c0a
 Label=SARASTRO WINES
-StreetDesc=439 Old Renwick Rd Blenheim/ Winery
+StreetDesc=439 Old Renwick Rd Blenheim/ Vinyard
 Phone=+35776190
 Data0=(-41.50092,173.89495)
 [END]
@@ -164655,7 +164655,7 @@ Data0=(-44.94531,168.83537)
 
 ;1165312
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=THE VILLAGE DAIRY
 StreetDesc=2/32 Adamson Dr, Arrowtown/ Dairy
 Phone=+6434421671
@@ -174761,7 +174761,7 @@ Type=0x2e08
 Label=RESENE COLORSHOP GREYMOUTH
 StreetDesc=80 Mackay St, Greymouth/ Resene paint, wallpaper and decorating accessories
 Phone=+6437685250
-zip=Mon-Fri 8am  5pm; Sat 9.30am-12.30pm
+zip=Mon-Fri 8am – 5pm; Sat 9.30am-12.30pm
 Data0=(-42.44882,171.21047)
 [END]
 
@@ -174781,7 +174781,7 @@ Type=0x2e08
 Label=RESENE COLORSHOP HILLMORTON
 StreetDesc=10 Clarence St South, Hillmorton/ Resene paint, wallpaper and decorating accesso
 Phone=+6433386212
-zip=Mon-Fri 7am  5pm
+zip=Mon-Fri 7am – 5pm
 Data0=(-43.54359,172.61039)
 [END]
 
@@ -174791,7 +174791,7 @@ Type=0x2e08
 Label=RESENE COLORSHOP HOKITIKA
 StreetDesc=85 Revell St, Hokitika/ Resene paint, wallpaper and decorating accessories
 Phone=+6437558516
-zip=Mon-Fri 8am  5pm; Sat 10am-12pm
+zip=Mon-Fri 8am – 5pm; Sat 10am-12pm
 Data0=(-42.71731,170.96119)
 [END]
 
@@ -174811,7 +174811,7 @@ Type=0x2e08
 Label=RESENE COLORSHOP INVERCARGILL
 StreetDesc=65 Yarrow St, Invercargill/ Resene paint, wallpaper and decorating accessories
 Phone=+6432144079
-zip=Mon-Fri 7.30am  5.30pm; Sat 9am-3pm
+zip=Mon-Fri 7.30am – 5.30pm; Sat 9am-3pm
 Data0=(-46.40874,168.35191)
 [END]
 
@@ -175547,7 +175547,7 @@ Data0=(-41.27060,173.28429)
 
 ;1171019
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=NIGHT OWL OTS
 StreetDesc=58 Waimea Rd, Nelson 7010/ Dairy, Post Office
 Data0=(-41.28324,173.27722)
@@ -183059,7 +183059,7 @@ Type=0x2f
 Label=UR COMPUTER RICCARTON
 StreetDesc=127 Riccarton Rd, Riccarton, Chch/ computer parts, service
 Phone=+33488368
-zip=MonFri: 11am6pm Sat-Sun: 11am3pm
+zip=Mon–Fri: 11am–6pm Sat-Sun: 11am–3pm
 Data0=(-43.52999,172.59831)
 [END]
 
@@ -183069,7 +183069,7 @@ Type=0x2f
 Label=UR COMPUTER SYDENHAM
 StreetDesc=95 Montreal St, Sydenham/ computer parts, service
 Phone=+33799598
-zip=MonFri: 10am5:30pm Sat: 10am2:30pm
+zip=Mon–Fri: 10am–5:30pm Sat: 10am–2:30pm
 Data0=(-43.54295,172.63042)
 [END]
 
@@ -185346,7 +185346,7 @@ Data0=(-44.00464,170.47745)
 [POI]
 Type=0x2f
 Label=FISHERMANS LOFT
-StreetDesc=359 Lincoln Rd/ Christchurchs premier specialist fishing tackle store and angler
+StreetDesc=359 Lincoln Rd/ Christchurch’s premier specialist fishing tackle store and angle
 Phone=+6433383131
 Data0=(-43.54133,172.61325)
 [END]
@@ -185958,7 +185958,7 @@ Type=0x2a0e
 Label=GRINDHOUSE CAFE
 StreetDesc=102 Major Hornbrook Rd, Mt Pleasant, Chch/ cafe
 Phone=+6433845044
-zip=8am  5pm Tues Sun
+zip=8am – 5pm Tues –Sun
 Data0=(-43.56329,172.71581)
 [END]
 
@@ -191235,7 +191235,7 @@ Type=0x2F02
 Label=OMEGA RENTAL CARS QUEENSTOWN AIRPORT
 StreetDesc=20 Shotover St, Queenstown, New Zealand/ Queenstown Airport Car Rental, Queensto
 Phone=+6434425224
-zip=8:00am  5:30pm Mon - Fri, 8:00am  5:00pm
+zip=8:00am – 5:30pm Mon - Fri, 8:00am – 5:00
 Data0=(-45.03086,168.66074)
 [END]
 
@@ -195941,7 +195941,7 @@ Data0=(-41.51331,173.96100)
 [POI]
 Type=0x2f
 Label=PC GEEKS
-StreetDesc=15 Neill St, Hornby, Chc/ Mobile Computer Repair  Laptop Repair - PC Repair - Vi
+StreetDesc=15 Neill St, Hornby, Chc/ Mobile Computer Repair – Laptop Repair - PC Repair - V
 Phone=+6433441111
 Data0=(-43.54415,172.53282)
 [END]
@@ -196939,7 +196939,7 @@ Data0=(-41.28506,173.64007)
 
 ;1181169
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=REDWOOD VILLAGE DAIRY
 StreetDesc=83 Cleghorn St, Blenheim/ 
 Data0=(-41.53041,173.95507)
@@ -197100,7 +197100,7 @@ Data0=(-41.53725,173.92364)
 
 ;1181189
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=HOSPITAL DAIRY
 StreetDesc=215 Maxwell Rd, Blenheim/ 
 Data0=(-41.53425,173.94226)
@@ -198546,7 +198546,7 @@ Data0=(-43.63186,171.64821)
 [POI]
 Type=0x2a
 Label=ANGUS RESTAURANT & BAR
-StreetDesc=7 St Andrew St, Central Dud, Dud, 9016/ Dunedins premier steak restaurant. Servi
+StreetDesc=7 St Andrew St, Central Dud, Dud, 9016/ Dunedin’s premier steak restaurant. Serv
 Phone=+6434792018
 zip=5.30 Till Late 7 Days
 Data0=(-45.87148,170.50386)
@@ -199462,7 +199462,7 @@ Data0=(-43.54063,172.64412)
 
 ;1188459
 [POI]
-Type=0x2e06
+Type=0x2e
 Label=DISCOUNT TOBACCO DAIRY
 StreetDesc=403 Worcester St, Linwood, Chc/ Dairy Shop
 Data0=(-43.53074,172.65753)
@@ -200180,7 +200180,7 @@ Data0=(-43.87185,168.98947)
 ;1188949
 [POI]
 Type=0x2e09
-Label=YOULL SAY WOW CARPET CLEANING
+Label=YOU’LL SAY WOW CARPET CLEANING
 StreetDesc=8 Churchill St St. Kilda Dud 9012/ For carpet cleaning, stain removal, water dam
 Phone=+6434553874
 Data0=(-45.90142,170.50059)
@@ -201558,7 +201558,7 @@ Data0=(-43.55577,172.68480)
 [POI]
 Type=0x2e
 Label=CORPORATE CONSUMABLES
-StreetDesc=1/142 Pascoe St Tahunanui Nelson 7011/ Corporate Consumables is New Zealands lar
+StreetDesc=1/142 Pascoe St Tahunanui Nelson 7011/ Corporate Consumables is New Zealand’s la
 Phone=+6435471578
 zip=Monday to Friday - 8am - 5pm
 Data0=(-41.29804,173.23878)
@@ -201568,7 +201568,7 @@ Data0=(-41.29804,173.23878)
 [POI]
 Type=0x2e
 Label=CORPORATE CONSUMABLES
-StreetDesc=72 Byron St Sydenham Chc 8140/ Corporate Consumables is New Zealands largest 100
+StreetDesc=72 Byron St Sydenham Chc 8140/ Corporate Consumables is New Zealand’s largest 10
 Phone=+6433655060
 zip=Monday to Friday - 8am - 5pm
 Data0=(-43.54278,172.64335)
@@ -201578,7 +201578,7 @@ Data0=(-43.54278,172.64335)
 [POI]
 Type=0x2e
 Label=CORPORATE CONSUMABLES
-StreetDesc=27 Waverley St Dud 9012/ Corporate Consumables is New Zealands largest 100% Kiwi
+StreetDesc=27 Waverley St Dud 9012/ Corporate Consumables is New Zealand’s largest 100% Kiw
 Phone=+6434559661
 zip=Monday to Friday - 8am - 5pm
 Data0=(-45.89377,170.50110)
@@ -202359,7 +202359,7 @@ Type=0x2a0e
 Label=JOE'S GARAGE
 StreetDesc=19 Marriner St, Sumner, Chc 8081, Canterbury/ Cafe, restaurant, food, coffee, dr
 Phone=+6439622233
-zip=Mon  Sun 7.00am  4.00pm
+zip=Mon – Sun 7.00am – 4.00pm
 Data0=(-43.56786,172.75891)
 [END]
 

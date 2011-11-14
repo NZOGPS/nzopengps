@@ -81,7 +81,7 @@
 'ShoeStore' => '0x2e07', #Shopping - Apparel 0x2e07
 'ComputerStore' => '0x2e0b', #Shopping - Computer Software 0x2e0b
 'ElectronicsStore' => '0x2e0b', #Shopping - Computer Software 0x2e0b
-'ConvenienceStore' => '0x2e06', #Shopping - Convenience Store 0x2e06
+'ConvenienceStore' => '0x2e', #Shopping 0x2e
 'DepartmentStore' => '0x2e01', #Shopping - Department Store 0x2e01
 'OutletStore' => '0x2e03', #Shopping - General Merchandiser 0x2e03
 'FurnitureStore' => '0x2e09', #Shopping - Home Furnishing 0x2e09

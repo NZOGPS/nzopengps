@@ -57,3 +57,7 @@
 1030000027274	E,200,200	Blacks Road	Opoho, Dunedin (Otago, NZ)	19/10/2011 2:14p.m.
 1030000036916	O,1989,1989	Aitchison Runs Road	Wilden (Otago, NZ)	14/11/2011 11:39:47 p.m.
 1030000025874	E,110,110	Durham Street	Hampden (Otago, NZ)	14/11/2011 11:46:59 p.m.
+1030000058463	O,13,13	O,45,47	Swale Street	Otautau (Southland, NZ)	15/11/2011 11:24:12 p.m.
+1030000028054	E,70,70	Cleghorn Street	Upper Junction, Dunedin (Otago, NZ)	15/11/2011 11:28:16 p.m.
+1030000058432	O,23,69	Frederick Street		Otautau (Southland, NZ)	15/11/2011 11:29:39 p.m.
+

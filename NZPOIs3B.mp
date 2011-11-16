@@ -3344,7 +3344,7 @@ Data0=(-43.37623,172.66312)
 [POI]
 Type=0x2c05
 Label=KAIKORAI SCHOOL
-StreetDesc=22 Tyne St, Roslyn, Dud/ State Co-Ed Primary School
+StreetDesc=Wright St, Roslyn, Dud/ State Co-Ed Primary School
 Phone=+6434640065
 Data0=(-45.86561,170.49094)
 [END]
@@ -5986,15 +5986,6 @@ Phone=+6433515590
 Data0=(-43.51231,172.60456)
 [END]
 
-;1020538
-[POI]
-Type=0x2c05
-Label=ST PATRICK'S SCHOOL (DUNEDIN)
-StreetDesc=110 Melbourne St, Dud/ State Integrated Co-Ed Primary School
-Phone=+6434554702
-Data0=(-45.89817,170.49973)
-[END]
-
 ;1020545
 [POI]
 Type=0x2c05
@@ -7793,7 +7784,7 @@ Data0=(-41.51216,173.95672)
 [POI]
 Type=0x2e
 Label=WHITCOULLS - ASHBURTON
-StreetDesc=238 East St, Ashburton/ bookshop, books
+StreetDesc=238-240 East St, Ashburton/ bookshop, books
 Phone=+6433081796
 Data0=(-43.90516,171.74693)
 [END]
@@ -8071,15 +8062,6 @@ Phone=+6434775062
 Data0=(-45.87085,170.50917)
 [END]
 
-;1028476
-[POI]
-Type=0x2e
-Label=LIQUOR KING FRANKTON
-StreetDesc=Cnr Frankton Rd & McBride Sts, Frankton/ liquor, beer, wine, spirits
-Phone=+6434423491
-Data0=(-45.01597,168.73052)
-[END]
-
 ;1028553
 [POI]
 Type=0x2e
@@ -8172,10 +8154,10 @@ Data0=(-46.09869,168.94460)
 ;1028973
 [POI]
 Type=0x2e02
-Label=WAIKIWI WOOLWORTHS
+Label=COUNTDOWN WAIKIWI
 StreetDesc=Cnr North Rd & Durham St, Waikiwi, Invercargill/ supermarket
-Phone=+6432158178
-zip=Mon-Sun, 8am-10pm
+Phone=+6432115190
+zip=Mon-Sun 8am-10pm
 Data0=(-46.37543,168.34696)
 [END]
 
@@ -8534,7 +8516,7 @@ Data0=(-45.88102,170.47963)
 Type=0x2e02
 Label=ANDERSONS BAY WOOLWORTHS
 StreetDesc=560 Andersons Bay Rd, Dud/ supermarket
-Phone=+6434551053
+Phone=+6434663225
 zip=Mon - Sun, 7am - 10pm
 Data0=(-45.89660,170.50881)
 [END]
@@ -9455,7 +9437,7 @@ Data0=(-41.51387,173.95898)
 ;1032228
 [POI]
 Type=0x2f01
-Label=BP GATEWAY SERVICE STN LTD
+Label=GATEWAY SERVICE STN LTD
 StreetDesc=17 Akl St, Picton/ BP petrol station
 Phone=+6435736105
 Data0=(-41.28947,174.00540)
@@ -9483,10 +9465,10 @@ Data0=(-45.81987,170.60388)
 ;1032305
 [POI]
 Type=0x2f01
-Label=BP GEOFF NOAD ENERGY CENTRE
-StreetDesc=49 Grove Rd, Blenheim/ BP petrol station
+Label=AUTOMOTIVE SOLUTIONS CLEANER
+StreetDesc=42 Grove Rd, Blenheim/ BP petrol station
 Phone=+6435783209
-Data0=(-41.50523,173.95977)
+Data0=(-41.50560,173.96017)
 [END]
 
 ;1032326
@@ -9848,15 +9830,6 @@ Label=BP 2GO MORNINGTON
 StreetDesc=34 Mailer St, Mornington, Dud/ BP service station, petrol, trailer hire
 Phone=+6434536039
 Data0=(-45.88135,170.47976)
-[END]
-
-;1033299
-[POI]
-Type=0x2f01
-Label=BP 2GO MILTON
-StreetDesc=44-48 Union St, Milton/ BP petrol station
-Phone=+6434178105
-Data0=(-46.12202,169.95771)
 [END]
 
 ;1033334
@@ -10383,15 +10356,6 @@ zip=24hrs
 Data0=(-43.53279,172.67137)
 [END]
 
-;1035175
-[POI]
-Type=0x2f01
-Label=SHELL MILTON - GRAEME PAUL MOTORS
-StreetDesc=39 Union St, Milton/ Shell petrol station
-Phone=+6434178404
-Data0=(-46.12245,169.95769)
-[END]
-
 ;1035210
 [POI]
 Type=0x2f01
@@ -10439,15 +10403,6 @@ StreetDesc=250 Lincoln Rd, Addington/ Shell petrol station
 Phone=+6433388795
 zip=24hrs
 Data0=(-43.54573,172.60853)
-[END]
-
-;1035434
-[POI]
-Type=0x2f01
-Label=SHELL REDWOOD
-StreetDesc=225A Scott St, Blenheim/ Shell petrol station
-Phone=+6435781818
-Data0=(-41.52979,173.95827)
 [END]
 
 ;1035455
@@ -10651,7 +10606,7 @@ Data0=(-44.00454,170.47714)
 ;1036001
 [POI]
 Type=0x2f01
-Label=SHELL WARRENS GARAGE
+Label=WARRENS GARAGE
 StreetDesc=112 Ronaldsay St, Palmerston/ Shell petrol station
 Phone=+6434651115
 Data0=(-45.48543,170.71459)
@@ -10784,15 +10739,6 @@ Phone=+6433047678
 Data0=(-43.80977,172.96340)
 [END]
 
-;1036547
-[POI]
-Type=0x2d03
-Label=REGENT ON WORCESTER
-StreetDesc=94 Worcester St, Chc/ cinema
-Phone=+6433666367
-Data0=(-43.53109,172.63505)
-[END]
-
 ;1036554
 [POI]
 Type=0x2d03
@@ -10809,15 +10755,6 @@ Label=HOYTS RICCARTON
 StreetDesc=Westfield Riccarton, Riccarton, Chc/ cinema
 Phone=+6433666367
 Data0=(-43.53081,172.60018)
-[END]
-
-;1036568
-[POI]
-Type=0x2d03
-Label=RIALTO CHRISTCHURCH
-StreetDesc=250 Moorhouse Ave, Chc/ cinema, Fully Licenced
-Phone=+6433749404
-Data0=(-43.54014,172.63458)
 [END]
 
 ;1036575
@@ -10845,15 +10782,6 @@ Label=METRO CINEMA
 StreetDesc=Town Hall, Moray Place, Dud/ cinema
 Phone=+6434743350
 Data0=(-45.87285,170.50332)
-[END]
-
-;1036596
-[POI]
-Type=0x2d03
-Label=ACADEMY CINEMA DUNEDIN
-StreetDesc=50 Dundas St, Dud/ cinema
-Phone=+6434792980
-Data0=(-45.86100,170.51367)
 [END]
 
 ;1036603
@@ -12024,15 +11952,6 @@ Phone=+6433474812
 Data0=(-43.59631,172.38319)
 [END]
 
-;1040719
-[POI]
-Type=0x2c0a
-Label=MUDDY WATER
-StreetDesc=424 Omihi Rd, Waipara/ winery
-Phone=+6433777130
-Data0=(-43.04102,172.79189)
-[END]
-
 ;1041251
 [POI]
 Type=0x2f01
@@ -12137,7 +12056,7 @@ Data0=(-43.58251,172.56917)
 [POI]
 Type=0x2f01
 Label=CHALLENGE HILLS RD
-StreetDesc=2 Hills Rd, Mairehau/ Challenge petrol station
+StreetDesc=2 Hills Rd, Richmond/ Challenge petrol station
 Phone=+6433664418
 Data0=(-43.51847,172.65187)
 [END]
@@ -12221,15 +12140,6 @@ Label=CHEVIOT MOTOR CO
 StreetDesc=10 Rolleston St, Cheviot/ Challenge petrol station, mechanic, WOF
 Phone=+6433198886
 Data0=(-42.81180,173.27294)
-[END]
-
-;1041608
-[POI]
-Type=0x2f01
-Label=CRESSWELL MOTORS
-StreetDesc=90 Cresswell Ave, Dallington/ Challenge petrol station
-Phone=+6433851399
-Data0=(-43.50562,172.67478)
 [END]
 
 ;1041615
@@ -12474,15 +12384,6 @@ Label=SPRING CREEK SERVICE STATION
 StreetDesc=State Highway 1, Spring Creek/ Challenge petrol station
 Phone=+6435705899
 Data0=(-41.46111,173.96190)
-[END]
-
-;1041860
-[POI]
-Type=0x2f01
-Label=SUMNER AUTO REPAIRS
-StreetDesc=1 Wakefield Ave, Sumner/ Challenge petrol station
-Phone=+6433265102
-Data0=(-43.56866,172.75931)
 [END]
 
 ;1041874
@@ -12762,9 +12663,10 @@ Data0=(-41.12352,173.01019)
 [POI]
 Type=0x2f01
 Label=CALTEX OAMARU
-StreetDesc=192 Thames St, Oamaru/ Caltex petrol station
+StreetDesc=192 Thames St, Oamaru/ Caltex petrol station, LPG
 Phone=+6434340940
-Data0=(-45.09464,170.97212)
+zip=Mon-Fri 5:30am-10pm, Sat 6am-10pm, Sun 7
+Data0=(-45.09465,170.97217)
 [END]
 
 ;1042623
@@ -13014,19 +12916,10 @@ Phone=+6433489906
 Data0=(-43.54428,172.56806)
 [END]
 
-;1043449
-[POI]
-Type=0x2f01
-Label=CALTEX PIONEER MOTORS (1985) LTD
-StreetDesc=11 Greenwood St, Motueka/ Caltex petrol station
-Phone=+6435287020
-Data0=(-41.11023,173.01199)
-[END]
-
 ;1043498
 [POI]
 Type=0x2f01
-Label=CALTEX RIVERTON SERVICE STATION
+Label=RIVERTON AUTOMATIC CENTRE
 StreetDesc=105 Palmerston St, Riverton/ Caltex petrol station
 Phone=+6432348564
 Data0=(-46.34996,168.01701)
@@ -13307,15 +13200,6 @@ Phone=+6434350760
 Data0=(-44.26475,170.08949)
 [END]
 
-;1044758
-[POI]
-Type=0x2f01
-Label=HAWARDEN GARAGE & TRANSPORT
-StreetDesc=4 Allandale Rd, Hawarden/ G.A.S. Petrol Station, Phone cards, Car repair worksho
-Phone=+6433144421
-Data0=(-42.92341,172.64058)
-[END]
-
 ;1044800
 [POI]
 Type=0x2f01
@@ -13473,10 +13357,10 @@ Data0=(-41.51422,173.95695)
 [POI]
 Type=0x2f05
 Label=CROMWELL POST SHOP
-StreetDesc=68 The Mall, Cromwell/ post office, KiwiBank banking
+StreetDesc=17-19 The Mall, Cromwell/ post office, KiwiBank banking
 Phone=+6434451166
 zip=Monday 9am-5:30pm, Tuesday 9am-5:30pm, W
-Data0=(-45.03698,169.19767)
+Data0=(-45.03737,169.19639)
 [END]
 
 ;1045395
@@ -13497,16 +13381,6 @@ StreetDesc=366 Great King St, Dud/ post office, KiwiBank banking
 Phone=+6434773526
 zip=Monday 8:30am-5:30pm, Tuesday 8:30am-5:3
 Data0=(-45.86653,170.50923)
-[END]
-
-;1045444
-[POI]
-Type=0x2f05
-Label=DUNEDIN POSTSHOP
-StreetDesc=243 Princes St, Dud/ post office, KiwiBank banking
-Phone=+6434773517
-zip=Monday 8:30am-5:30pm, Tuesday 8:30am-5:3
-Data0=(-45.87790,170.50219)
 [END]
 
 ;1045451
@@ -13663,7 +13537,7 @@ Data0=(-43.76277,172.29835)
 [POI]
 Type=0x2f05
 Label=LINCOLN POSTSHOP
-StreetDesc=7 Gerald St, Lincoln/ post office, KiwiBank banking
+StreetDesc=9B Gerald St, Lincoln/ post office, KiwiBank banking
 Phone=+6433252254
 zip=Monday 9am-5:30pm, Tuesday 9am-5:30pm, W
 Data0=(-43.64052,172.48394)
@@ -13909,16 +13783,6 @@ zip=Monday 9am-5:30pm, Tuesday 9am-5:30pm, W
 Data0=(-43.56896,172.75927)
 [END]
 
-;1046914
-[POI]
-Type=0x2f05
-Label=SYDENHAM POSTSHOP
-StreetDesc=389 Colombo St, Sydenham/ post office, KiwiBank banking
-Phone=+6433650638
-zip=Monday 8:30am-5pm, Tuesday 8:30am-5pm, W
-Data0=(-43.54523,172.63648)
-[END]
-
 ;1046935
 [POI]
 Type=0x2e
@@ -13933,10 +13797,10 @@ Data0=(-40.85947,172.80592)
 [POI]
 Type=0x2f05
 Label=TE ANAU POSTSHOP
-StreetDesc=102-104 Town Ctr, Te Anau,/ post office, KiwiBank banking
+StreetDesc=100 Town Ctr, Te Anau,/ post office, KiwiBank banking
 Phone=+6432497348
 zip=Monday 8:30am-5pm, Tuesday 8:30am-5pm, W
-Data0=(-45.41506,167.71662)
+Data0=(-45.41516,167.71643)
 [END]
 
 ;1047068
@@ -14338,7 +14202,7 @@ Data0=(-43.52936,172.63643)
 [POI]
 Type=0x2f11
 Label=FLIGHT CENTRE TIMARU
-StreetDesc=Shop 14, Stafford Mall, 251 Stafford St, Timaru/ travel agent
+StreetDesc=249 Stafford St, Timaru/ travel agent
 Phone=+6436881226
 zip=Mon-Fri 9:00-5:30, Sat 10:00-1:00
 Data0=(-44.39471,171.25204)
@@ -42180,6 +42044,15 @@ Label=BLIS TECHNOLOGIES LIMITED
 StreetDesc=87 St David St, Dud/ 
 Phone=+6434795337
 Data0=(-45.86333,170.51431)
+[END]
+
+;1102277
+[POI]
+Type=0x2f
+Label=BLOCH & BEHRENS WOOL (NZ) LTD
+StreetDesc=503 Blenheim Rd, Sockburn, Chc 8042/ "QUALITY SUPPLIERS OF NEW ZEALAND WOOL TO T
+Phone=+6433439100
+Data0=(-43.54008,172.56213)
 [END]
 
 ;1102293
@@ -202607,5 +202480,15 @@ Label=MIKE HEDGES BUILDERS
 StreetDesc=47 Marlowe Place Rolleston Chc 7614 New Zealand/ For strong, durable, resilient 
 Phone=+6433472618
 Data0=(-43.58634,172.39218)
+[END]
+
+;1190220
+[POI]
+Type=0x2e07
+Label=TAMSIN COOPER
+StreetDesc=L 1 Moray Chambers, 30 Moray Pl, Dud, 9016/ Silk Fashion Accessories & Clothing
+Phone=+6434710909
+zip=9.30am-5.00pm Mon-Fri
+Data0=(-45.87505,170.50205)
 [END]
 

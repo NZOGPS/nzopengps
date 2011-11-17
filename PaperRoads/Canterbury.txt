@@ -3,6 +3,7 @@
 1030000001389	Gloucester Arcade	Christchurch Central
 1030000001390	High Street Arcade	Christchurch Central
 1030000001640	BOULDER RD	Glentui (Canterbury, NZ)	8/05/2010 11:39p.m.
+1030000001952	BUSH RD	Allandale (Canterbury, NZ)	12/11/2011 1:33:46 p.m.
 1030000003141	Cottons Road	Okains Bay
 1030000003854	Saddle Road	Teddington
 1030000017623	Old German Bay Road	Akaroa
@@ -12,6 +13,7 @@
 1030000025451	Queen Street	Ngapara	28/04/2010 12:08p.m.
 1030000025473	WAKEFIELD ST	RICHMOND
 1030000025475	Webster Street	Windsor
+1030000025497	THOMAS ST	Duntroon (Canterbury, NZ)	12/11/2011 12:22:03 a.m.
 1030000025562	Smith Street	Duntroon
 1030000025569	South Street	Waitaki Bridge
 1030000025615	WHITBY ST	RICHMOND
@@ -28,6 +30,7 @@
 1030000025923	Bogie Street	Georgetown
 1030000026148	Strangford Street	Naseby	14/04/2010 8:14p.m.
 1030000026184	Enwright Road	Saint Bathans
+1030000026198	CROSS ST	Hills Creek (Otago, NZ)	17/11/2011 4:53p.m.
 1030000026211	CALDER ST	Wedderburn
 1030000026212	Cambrian Settlement Road	Cambrians	28/04/2010 8:54a.m.
 1030000026219	Holywood Street	Naseby
@@ -48,6 +51,7 @@
 1030000026880	Tallisker Street	Kinloch
 1030000026914	Skye Street	Kinloch
 1030000026984	Waitiri Road	Roaring Meg
+1030000027001	LAKE RD	Wanaka (Otago, NZ)	12/11/2011 1:36:24 p.m.
 1030000027085	Dublin Street	Hawea Flat	28/04/2010 10:54a.m.
 1030000027088	Charles Street	Gladstone
 1030000027089	Cork Street	Gladstone
@@ -237,6 +241,7 @@
 1030000055910	Clifford Road	Camside
 1030000056764	DEMON TRAIL
 1030000182264	F F Road	Kokatahi
+1030000183280	RIVER RD	Seadown (Canterbury, NZ)	12/11/2011 12:58:45 a.m.
 1030000184893	Paparua Drive	Templeton
 1030000184895	The Crescent	Templeton
 1030000184897	Tahi Rua	Templeton
@@ -250,8 +255,4 @@
 1030000193321	SOUTH ST
 1030000193443	LAKE ST
 2030000004957	KAIPO BAY WLK
-1030000025497	THOMAS ST	Duntroon (Canterbury, NZ)	12/11/2011 12:22:03 a.m.
-1030000183280	RIVER RD	Seadown (Canterbury, NZ)	12/11/2011 12:58:45 a.m.
-1030000001952	BUSH RD	Allandale (Canterbury, NZ)	12/11/2011 1:33:46 p.m.
-1030000027001	LAKE RD	Wanaka (Otago, NZ)	12/11/2011 1:36:24 p.m.
 2030000083354	OTEMATATA STATION RD	Otematata (Canterbury, NZ)	12/11/2011 1:38:58 p.m.

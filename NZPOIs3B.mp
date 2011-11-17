@@ -32426,7 +32426,7 @@ Data0=(-45.03261,168.66072)
 
 ;1094895
 [POI]
-Type=0x2c04
+Type=0x6508
 Label=MARUIA FALLS
 StreetDesc=SH 65/ Tourist Spot, Maruia River
 Data0=(-41.85890,172.25303)
@@ -97367,7 +97367,7 @@ Data0=(-43.50852,172.72479)
 Type=0x2a02
 Label=FREIYA'S AUTHENTIC INDIAN
 StreetDesc=Eastgate Shopping Ctr, Cnr Linwood Ave and Buckleys Rd, Chc/ Indian restaurant
-Phone=+6439820890
+Phone=+6439820889
 Data0=(-43.53320,172.67400)
 [END]
 
@@ -202136,7 +202136,7 @@ Data0=(-43.48513,172.65670)
 
 ;1190042
 [POI]
-Type=0x2f
+Type=0x2e
 Label=EDGEWARE MOWERS & CHAINSAWS
 StreetDesc=237 Westminster St Chc/ Small Engine Experts
 Phone=+6433663924
@@ -202257,7 +202257,7 @@ Data0=(-43.53466,172.65419)
 
 ;1190122
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=JETTS GYM DUNEDIN 24HR
 StreetDesc=84 Filleul St, Dud 9059/ Gym
 Phone=0800JETTS247
@@ -202276,7 +202276,7 @@ Data0=(-43.39043,172.65547)
 
 ;1190127
 [POI]
-Type=0x2f
+Type=0x2F02
 Label=TRAVEL NEW ZEALAND RENTALS
 StreetDesc=90 Carmen Rd, Chc, New Zealand/ Cheep rental cars Christchurch New Zealand
 Phone=+6433492222
@@ -202429,7 +202429,7 @@ Data0=(-44.39836,171.25379)
 
 ;1190183
 [POI]
-Type=0x2f
+Type=0x2b00
 Label=LAKE VILLAS ACCOMMODATION 24HR
 StreetDesc=9 Gavan St, Cromwell 9310, New Zealand/ LUXURY 1, 2 and 3 bedroom Apartments - U
 Phone=+6434454119
@@ -202490,5 +202490,24 @@ StreetDesc=L 1 Moray Chambers, 30 Moray Pl, Dud, 9016/ Silk Fashion Accessories 
 Phone=+6434710909
 zip=9.30am-5.00pm Mon-Fri
 Data0=(-45.87505,170.50205)
+[END]
+
+;1190289
+[POI]
+Type=0x2F07
+Label=AVON CITY SUZUKI
+StreetDesc=5 Epsom Rd, Sockbur, Chc/ Suzuki Motorcycle, ATV, Helmets, Paradise Motorcycle T
+Phone=0800655551
+zip=M-F 8 to 5, Sa 9-1
+Data0=(-43.53815,172.55217)
+[END]
+
+;1190303
+[POI]
+Type=0x2f
+Label=PUNAKAIKI CAVE 24HR
+StreetDesc=SH6 Punakaiki/ Tourist attraction & visitor activity
+zip=24/7
+Data0=(-42.11257,171.33202)
 [END]
 

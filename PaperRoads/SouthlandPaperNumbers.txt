@@ -60,4 +60,13 @@
 1030000058463	O,13,13	O,45,47	Swale Street	Otautau (Southland, NZ)	15/11/2011 11:24:12 p.m.
 1030000028054	E,70,70	Cleghorn Street	Upper Junction, Dunedin (Otago, NZ)	15/11/2011 11:28:16 p.m.
 1030000058432	O,23,69	Frederick Street		Otautau (Southland, NZ)	15/11/2011 11:29:39 p.m.
+1030000035124	E,2,14	Church Road	Warrington (Otago, NZ)	16/11/2011 10:38:35 p.m.
+1030000035614	B,1,6	Stonehaven Street	Waikouaiti (Otago, NZ)	16/11/2011 10:47:19 p.m.
+1030000035266	E,4,4	Kirkwall Street	Waikouaiti (Otago, NZ)	16/11/2011 10:47:19 p.m.
+1030000035549	E,80,80	Dumbarton Street	Waikouaiti (Otago, NZ)	16/11/2011 10:47:19 p.m.
+1030000035113	O,19,19	Clackmannan Street	Waikouaiti (Otago, NZ)	16/11/2011 11:12:43 p.m.
+1030000058021	O,31,31	Albany Street	Riverton (Southland, NZ)	16/11/2011 11:44:33 p.m.
+1030000057897	E,18,22	Lucknow Street	Riverton (Southland, NZ)	16/11/2011 11:44:33 p.m
+1030000058216	B,32,33	Irwin Street	Riverton (Southland, NZ)	16/11/2011 11:49:33 p.m
+1030000058280	E,68,68	Brook Street	Riverton (Southland, NZ)	16/11/2011 11:56:33 p.m
 

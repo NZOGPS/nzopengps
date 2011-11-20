@@ -256,4 +256,6 @@ NO SUFI			ARDEN ST		New Plymouth (Taranaki, NZ)
 47200	PERERE RD		Rahotu (Taranaki, NZ)
 47199	RIKI RD			Rahotu (Taranaki, NZ)
 28622	GLASGOW RD		Ratana (Manawatu-Wanganui)
-
+45882	TANGAHOE RD		Parinui (Manawatu-Wanganui, NZ)
+45713	TAUMATAMAHOE RD		Whanganui National Park (Manawatu-Wanganui, NZ)
+45891	MANGAWAI ITI RD		Whanganui National Park (Manawatu-Wanganui, NZ)

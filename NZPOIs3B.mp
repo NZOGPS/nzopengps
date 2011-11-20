@@ -46041,8 +46041,8 @@ Data0=(-43.53520,172.63463)
 ;1104633
 [POI]
 Type=0x2e09
-Label=DREAMWOOL BEDS
-StreetDesc=105 Blenheim Rd, Chc/ Handmade beds, mattresses, accessories
+Label=DREAMWOOL - WOOL AND LATEX MATTRESS
+StreetDesc=105 Blenheim Rd, Chc/ Handmade beds, mattresses, latex mattress, wool mattress, 
 Phone=+6433435105
 Data0=(-43.53723,172.60224)
 [END]
@@ -47802,8 +47802,8 @@ Data0=(-43.48558,172.61591)
 ;1105681
 [POI]
 Type=0x2f
-Label=FOOT SCIENCE INTERNATIONAL LTD
-StreetDesc=26 Dakota Cres, Sockburn, Chc/ 
+Label=FOOT SCIENCE INTERNATIONAL - FORMTHOTICS CUSTOM MEDICAL ORTHOTICS
+StreetDesc=26 Dakota Cres, Sockburn, Chc/ athletic insoles, athletic shoe inserts, orthotic
 Phone=+6433482115
 Data0=(-43.54309,172.55617)
 [END]
@@ -55223,9 +55223,9 @@ Data0=(-41.26632,173.27704)
 [POI]
 Type=0x2f
 Label=NELRIG WIRE ROPE SERVICES LTD
-StreetDesc=8 Akersten St, Port Nelson, Nelson/ 
-Phone=+6435469004
-Data0=(-41.26555,173.27990)
+StreetDesc=82 Vickerman St, Port Nelson/ 
+Phone=+6435487942
+Data0=(-41.26183,173.27932)
 [END]
 
 ;1110099
@@ -73542,7 +73542,7 @@ Type=0x2f
 Label=SYNLAIT MILK POWDER FACTORY
 StreetDesc=Heslerton Rd, Dunsandel, Canterbury/ Milk Powder Factory
 Phone=+33733000
-Data0=(-43.69171,172.11958)
+Data0=(-43.69092,172.12023)
 [END]
 
 ;1118280
@@ -85433,8 +85433,8 @@ Data0=(-43.39256,170.17866)
 ;1122182
 [POI]
 Type=0x2b01
-Label=GLENFERN VILLAS
-StreetDesc=State Highway 6, Franz Josef/ Motel accommodation
+Label=GLENFERN VILLAS - FRANZ JOSEF ACCOMMODATION
+StreetDesc=State Highway 6, Franz Josef/ Motel accommodation, accommodation franz josef, we
 Phone=+6437520054
 zip=0800 GLENFERN (453 633)
 Data0=(-43.36627,170.19390)
@@ -156690,8 +156690,9 @@ Data0=(-42.40139,171.26353)
 ;1160143
 [POI]
 Type=0x2b00
-Label=WESTWOOD LODGE
-StreetDesc=State Highway 6, Franz Josef/ Accommodation
+Label=WESTWOOD LODGE - WEST COAST BED & BREAKFAST
+StreetDesc=State Highway 6, Franz Josef/ accommodation west coast, bed & breakfast franz jo
+Phone=0800200209
 Data0=(-43.37151,170.18334)
 [END]
 
@@ -199577,9 +199578,9 @@ Data0=(-45.87494,170.50716)
 
 ;1188607
 [POI]
-Type=0x2f
+Type=0x2c00
 Label=BLACK CAT NATURE CRUISES
-StreetDesc=87 Beach Rd, Akaroa 7520, New Zealand/ Swimming with Dolphins
+StreetDesc=87 Beach Rd, Akaroa 7520, New Zealand/ Swimming with Dolphins, Akaroa Harbour, A
 Phone=+33047641
 Data0=(-43.80915,172.95986)
 [END]
@@ -202509,5 +202510,158 @@ Label=PUNAKAIKI CAVE 24HR
 StreetDesc=SH6 Punakaiki/ Tourist attraction & visitor activity
 zip=24/7
 Data0=(-42.11257,171.33202)
+[END]
+
+;1190392
+[POI]
+Type=0x2f
+Label=ALISON ALDRIDGE
+StreetDesc=130 Colombo St, Beckenham, Chc, New Zealand/ Real Estate Agent Christchurch
+Phone=+6433371316
+Data0=(-43.55809,172.63702)
+[END]
+
+;1190393
+[POI]
+Type=0x2f
+Label=ALISON CARTER
+StreetDesc=1020 Ferry Rd, Chc/ Senior Property Consultant Real Estate Agent Christchurch
+Phone=+6433842190
+Data0=(-43.55791,172.70466)
+[END]
+
+;1190394
+[POI]
+Type=0x2f
+Label=ARC INNOVATIONS - ADVANCED METER INFRASTRUCTURE
+StreetDesc=15 Print Place, Middleton, Chc 8024/ smart meter, advanced metering, electricity
+Data0=(-43.54175,172.58998)
+[END]
+
+;1190397
+[POI]
+Type=0x2f
+Label=CFD ENGINEERING
+StreetDesc=25 Carlyle St Sydenham Chc 8023/ engineering design, computational fluid dynamic
+Phone=+33659004
+Data0=(-43.54116,172.63978)
+[END]
+
+;1190398
+[POI]
+Type=0x2f
+Label=BENCHMARK HOMES CHRISTCHURCH
+StreetDesc=241 Blenhaim Rd, Chc 8042/ Home builders Christchurch
+Phone=0800660066
+Data0=(-43.53838,172.58726)
+[END]
+
+;1190399
+[POI]
+Type=0x2a
+Label=GFTREETS - GLUTEN FREE TAKEAWAYS
+StreetDesc=33c Connal St, Woolston, Chc 8241/ gluten free, takeaway food, battered fish, gl
+Phone=+6433844039
+Data0=(-43.55335,172.68257)
+[END]
+
+;1190400
+[POI]
+Type=0x2f
+Label=IZON - NANOPARTICLE ANALYSIS SYSTEMS
+StreetDesc=175 Roydvale Ave Burnside, Chc 8053/ particle analysis, nanoparticle, particle s
+Phone=+33574270
+Data0=(-43.49053,172.56443)
+[END]
+
+;1190401
+[POI]
+Type=0x2f
+Label=ENVIRO MASTER
+StreetDesc=41A Shakespeare Rd, Waltham, Chc 8023, New Zealand/ Heat pump, air conditioning 
+Phone=+6433660525
+Data0=(-43.54541,172.64939)
+[END]
+
+;1190404
+[POI]
+Type=0x2f
+Label=ELITE HARDWARE
+StreetDesc=Unit 3, 38 Dakota Cres, Wigram, Chc, New Zealand/ High Quality Kitchen Handles K
+Phone=+6433480296
+Data0=(-43.54371,172.55595)
+[END]
+
+;1190406
+[POI]
+Type=0x2f
+Label=WEB ANGELS
+StreetDesc=164 Hardy St, Nelson/ online services, SEO services, Social Media services, Sear
+Phone=+6422031542
+zip=Monday - Friday: 8am - 5pm
+Data0=(-41.27453,173.28310)
+[END]
+
+;1190407
+[POI]
+Type=0x2f
+Label=BOB HOWDEN LIMITED
+StreetDesc=24 Yukon Place Hornby Chc/ Christchurch Engineering company
+Phone=+6433494325
+Data0=(-43.55708,172.51780)
+[END]
+
+;1190410
+[POI]
+Type=0x2f
+Label=ALPINE IMAGE COMPANY
+StreetDesc=2 Lindsay Place, Wanaka/ Wanaka & Queenstown wedding photographers
+Phone=+6434431989
+Data0=(-44.68206,169.12640)
+[END]
+
+;1190411
+[POI]
+Type=0x2f
+Label=CP MAC'S
+StreetDesc=5 Dearsley St, Chc, New Zealand/ Conveyor Systems Christchurch Engineering Desig
+Phone=+6433811337
+Data0=(-43.53479,172.65634)
+[END]
+
+;1190414
+[POI]
+Type=0x2f
+Label=OAKLEYS PLUMBING SUPPLIES SOUTHERN LTD
+StreetDesc=46 Timaru St, Dud/ Oakleys bathroom centre and plumbing supplies have experience
+zip=7.30am
+Data0=(-45.89450,170.50710)
+[END]
+
+;1190415
+[POI]
+Type=0x2f
+Label=METALCORP NZ LTD
+StreetDesc=615 Halswell Junction Rd, Hornby, Chc/ Scrap Metal Recycling Yard Christchurch
+Phone=0800735572
+Data0=(-43.55558,172.52145)
+[END]
+
+;1190416
+[POI]
+Type=0x2b00
+Label=PARK LANE QUEENTOWN
+StreetDesc=138 Park St, Queenstown, New Zealand/ Queenstown boutique lakeside accommodation
+Phone=+6434090715
+Data0=(-45.03609,168.67261)
+[END]
+
+;1190417
+[POI]
+Type=0x2b00
+Label=SETTLERS COTTAGE MOTEL
+StreetDesc=22 Hertford St, Arrowtown/ Cottage Accommodation Arrowtown
+Phone=+34421734
+Data0=(-44.94127,168.83480)
 [END]
 

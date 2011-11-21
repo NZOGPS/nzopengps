@@ -36856,10 +36856,10 @@ Data0=(-43.50343,172.59330)
 ;1098718
 [POI]
 Type=0x2f
-Label=?VETSOUTH TAPANUI
+Label=VETSOUTH TAPANUI
 StreetDesc=Main Rd, Tapanui/ Veterinarians, vets
 Phone=+6432048233
-Data0=(-45.94000,169.26000)
+Data0=(-45.94734,169.24125)
 [END]
 
 ;1098719
@@ -86014,15 +86014,6 @@ zip=Mon-Thu 9am-5.30pm, Fri 9am-7pm, Sat 9am
 Data0=(-44.39432,171.25112)
 [END]
 
-;1122342
-[POI]
-Type=0x2a05
-Label=RANGIORA BAKERY
-StreetDesc=90 High St, Rangiora/ Retail bakery, cakes, hot bread
-Phone=+6433137346
-Data0=(-43.30324,172.59553)
-[END]
-
 ;1122344
 [POI]
 Type=0x2a05
@@ -122990,7 +122981,7 @@ Data0=(-42.12041,171.86680)
 ;1141293
 [POI]
 Type=0x2b00
-Label=PINEDALE BACKPACKER LODGE
+Label=PINEDALE BACKPACKER LODGE & APARTMENT
 StreetDesc=11 Alford St, Methven/ Award winning budget accommodation
 Phone=+6433028621
 zip=All year round
@@ -202658,10 +202649,29 @@ Data0=(-45.03609,168.67261)
 
 ;1190417
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=SETTLERS COTTAGE MOTEL
 StreetDesc=22 Hertford St, Arrowtown/ Cottage Accommodation Arrowtown
 Phone=+34421734
 Data0=(-44.94127,168.83480)
+[END]
+
+;1190425
+[POI]
+Type=0x2a05
+Label=ARTISAN CAFE
+StreetDesc=18 High St, Rangiora, 7400/ Cafe, bakery, boardroom
+Phone=+6433118633
+zip=Daily 7 - 5:30, Closed Xmas, Boxing, NY 
+Data0=(-43.30282,172.59844)
+[END]
+
+;1190430
+[POI]
+Type=0x2f
+Label=SUNWISE AWNINGS
+StreetDesc=236 Major Hornbrook Rd, Mt Pleasant, Chc, New Zealand/ Retractable Awning, Retra
+Phone=+6433844779
+Data0=(-43.57121,172.71821)
 [END]
 

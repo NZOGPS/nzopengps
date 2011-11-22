@@ -3830,9 +3830,9 @@ Data0=(-43.60268,172.72314)
 [POI]
 Type=0x2c05
 Label=LYTTELTON WEST SCHOOL
-StreetDesc=Voelas Rd, Lyttelton/ State Co-Ed Primary, Intermediate School
+StreetDesc=41 Voelas Rd, Lyttelton/ State Co-Ed Primary, Intermediate School
 Phone=+6433288369
-Data0=(-43.60138,172.70956)
+Data0=(-43.60162,172.70922)
 [END]
 
 ;1013468
@@ -14052,10 +14052,10 @@ Data0=(-44.39473,171.25156)
 [POI]
 Type=0x2e01
 Label=FARMERS DUNEDIN
-StreetDesc=211 George St, Dud/ Fashion department store, Clothing, Whiteware, Appliances, C
+StreetDesc=150-180 George St, Dud/ Fashion department store, Clothing, Whiteware, Appliance
 Phone=+6434773171
 zip=Mon 9-5:30,Tue 9-5:30,Wed 9-5:30,Thu 9-5
-Data0=(-45.87112,170.50498)
+Data0=(-45.87221,170.50499)
 [END]
 
 ;1048027
@@ -14521,7 +14521,7 @@ Type=0x2e08
 Label=PLACEMAKERS QUEENSTOWN
 StreetDesc=1 Glenda Dr, Frankton Industrial, Queenstown/ Building supplies, Timber, Power T
 Phone=+6434509000
-zip=Mon-Fri 7am-5.30pm, Sat  8am-3pm, Sun  9
+zip=Mon-Fri 7am-5.30pm, Sat 8am-3pm, Sun 9:3
 Data0=(-45.00726,168.74827)
 [END]
 
@@ -14618,15 +14618,6 @@ StreetDesc=77 Sophia St, Timaru/ appliances, whiteware, computers, phones
 Phone=+6436886880
 zip=Mon–Fri 9.30am–5.30pm; Sat–Sun 10am–4pm
 Data0=(-44.39484,171.25030)
-[END]
-
-;1049819
-[POI]
-Type=0x2e0b
-Label=BOND AND BOND DUNEDIN
-StreetDesc=233 George St, Dud/ appliances, whiteware, computers, phones
-Phone=+6434777706
-Data0=(-45.87093,170.50510)
 [END]
 
 ;1049826
@@ -15558,7 +15549,7 @@ Data0=(-41.29094,174.00653)
 Type=0x2d
 Label=UNITED VIDEO QUEENSTOWN
 StreetDesc=58 Stanley St, Queenstown/ Video & DVD rental
-Phone=+6434424666
+Phone=+6434424226
 Data0=(-45.03061,168.66184)
 [END]
 
@@ -15995,15 +15986,6 @@ Phone=+6434360720
 Data0=(-44.73307,170.46976)
 [END]
 
-;1054782
-[POI]
-Type=0x2e02
-Label=FRASERS FOUR SQUARE SUPERMARKET
-StreetDesc=421 Thames Highway, Oamaru/ supermarket, groceries
-Phone=+6434370653
-Data0=(-45.08008,170.98313)
-[END]
-
 ;1054789
 [POI]
 Type=0x2e02
@@ -16074,15 +16056,6 @@ Label=MILLERS FLAT FOUR SQUARE SUPERMARKET
 StreetDesc=Teviot Rd, Millers Flat/ supermarket, groceries
 Phone=+6434466801
 Data0=(-45.66299,169.41193)
-[END]
-
-;1054852
-[POI]
-Type=0x2e02
-Label=ROXBURGH FOUR SQUARE
-StreetDesc=110 Scotland St, Roxburgh/ supermarket, groceries
-Phone=+6434468282
-Data0=(-45.54092,169.31529)
 [END]
 
 ;1054859
@@ -16514,7 +16487,7 @@ Data0=(-43.53032,172.59788)
 [POI]
 Type=0x2f
 Label=RAY WHITE QUEENSTOWN
-StreetDesc=1 Church St, Queenstown/ Real estate agency
+StreetDesc=1 Church Lane, Queenstown/ Real estate agency
 Phone=+6434427177
 Data0=(-45.03227,168.66213)
 [END]
@@ -16541,9 +16514,9 @@ Data0=(-43.55865,172.67315)
 [POI]
 Type=0x2f
 Label=RAY WHITE WANAKA
-StreetDesc=123 Ardmore St, Wanaka/ Real estate agency
+StreetDesc=Cnr Helwick and Dunmore St, Wanaka/ Real estate agency
 Phone=+6434437121
-Data0=(-44.69532,169.13459)
+Data0=(-44.69599,169.13517)
 [END]
 
 ;1057302
@@ -16659,9 +16632,9 @@ Data0=(-43.52503,172.66422)
 [POI]
 Type=0x2f
 Label=RAY WHITE MAPUA
-StreetDesc=69 Aranui Rd, Mapua/ Real estate agency
+StreetDesc=2A Iwa St, Mapua/ Real estate agency
 Phone=+6435403433
-Data0=(-41.25252,173.09456)
+Data0=(-41.25572,173.10084)
 [END]
 
 ;1057785
@@ -16687,9 +16660,9 @@ Data0=(-43.56175,172.73890)
 [POI]
 Type=0x2f
 Label=RAY WHITE INVERCARGILL
-StreetDesc=99 Spey St, Invercargill/ Real estate agency
+StreetDesc=231 Dee St, Invercargill/ Real estate agency
 Phone=+6432186117
-Data0=(-46.40980,168.34871)
+Data0=(-46.40395,168.34751)
 [END]
 
 ;1057848
@@ -16911,15 +16884,6 @@ Phone=+6433078760
 Data0=(-43.90592,171.74581)
 [END]
 
-;1058471
-[POI]
-Type=0x2f11
-Label=KEMP AND YOUNG HOUSE OF TRAVEL
-StreetDesc=195 Stafford St, Timaru/ Travel agents
-Phone=+6436848025
-Data0=(-44.39604,171.25355)
-[END]
-
 ;1058478
 [POI]
 Type=0x2f11
@@ -16969,9 +16933,9 @@ Data0=(-42.71736,170.96179)
 [POI]
 Type=0x2f11
 Label=MARK DAVIDSON HOUSE OF TRAVEL WESTPORT
-StreetDesc=196 Palmerston St, Westport/ Travel agents
+StreetDesc=208 Palmerston St, Westport/ Travel agents
 Phone=+6437888120
-Data0=(-41.75563,171.59846)
+Data0=(-41.75595,171.59853)
 [END]
 
 ;1058548
@@ -17169,10 +17133,10 @@ Data0=(-45.88154,170.50152)
 [POI]
 Type=0x2F07
 Label=REPCO GORE
-StreetDesc=36 Hokonui Dr, Gore/ Automotive parts, Car parts, Auto accessories
+StreetDesc=Corner Ordsal and Lyne Streets, Gore/ Automotive parts, Car parts, Auto accessor
 Phone=+6432039192
 zip=8am-5.30pm Mon-Sat, 9am-5pm Sun
-Data0=(-46.09594,168.94536)
+Data0=(-46.09555,168.94540)
 [END]
 
 ;1059570
@@ -17722,10 +17686,10 @@ Data0=(-46.14334,168.32526)
 [POI]
 Type=0x2f06
 Label=HSBC CHRISTCHURCH (B)
-StreetDesc=141 Cambridge Terrace, Chc/ Bank branch
+StreetDesc=L 11, 62 Worcester Boulevard, Chc/ Bank branch
 Phone=+6433665658
 zip=Mon-Fri 9am-4.30pm
-Data0=(-43.53046,172.63265)
+Data0=(-43.53116,172.63192)
 [END]
 
 ;1061404
@@ -18043,9 +18007,9 @@ Data0=(-45.25427,169.39149)
 [POI]
 Type=0x4c
 Label=ASHBURTON I-SITE VISITOR CENTRE
-StreetDesc=East St/ Visitor information
+StreetDesc=East St Ashburton/ Visitor information
 Phone=+6433081050
-Data0=(-43.90420,171.74792)
+Data0=(-43.90082,171.75333)
 [END]
 
 ;1062608
@@ -18189,9 +18153,9 @@ Data0=(-43.60327,172.72271)
 [POI]
 Type=0x4c
 Label=METHVEN I-SITE VISITOR CENTRE
-StreetDesc=121 Main St, Methven/ Visitor information
+StreetDesc=160 Main St, Methven/ Visitor information
 Phone=+6433028955
-Data0=(-43.63421,171.64576)
+Data0=(-43.63056,171.64761)
 [END]
 
 ;1062720
@@ -18314,19 +18278,10 @@ Data0=(-41.11126,173.01083)
 ;1063350
 [POI]
 Type=0x2e05
-Label=AMCAL NELSON UFS DISPENSARY
+Label=AMCAL HARDY STREET PHARMACY
 StreetDesc=131 Hardy St, Nelson/ pharmacy, chemist
 Phone=+6435484366
 Data0=(-41.27407,173.28230)
-[END]
-
-;1063378
-[POI]
-Type=0x2e05
-Label=AMCAL VICTORIA SQUARE
-StreetDesc=748 Colombo St, Chc/ pharmacy, chemist, photo processing in store
-Phone=+6433792049
-Data0=(-43.52935,172.63679)
 [END]
 
 ;1063392
@@ -18345,15 +18300,6 @@ Label=ASHBURY PHARMACY
 StreetDesc=Ashbury Pharmacy Timaru, Northtown Shopping Mall, 98 Evans St, Timaru/ pharmacy,
 Phone=+6436889736
 Data0=(-44.38247,171.23796)
-[END]
-
-;1063406
-[POI]
-Type=0x2e05
-Label=BARNETT'S AMCAL PHARMACY
-StreetDesc=78 Queen St, Blenheim/ pharmacy, chemist
-Phone=+6435787007
-Data0=(-41.51469,173.95540)
 [END]
 
 ;1063490
@@ -18510,18 +18456,9 @@ Data0=(-46.40726,168.34520)
 [POI]
 Type=0x2d
 Label=VIDEO EZY ASHBURTON
-StreetDesc=110 East St, Ashburton, Canterbury/ videos, dvd & game rentals
+StreetDesc=26 Moore St, Ashburton, Canterbury/ videos, dvd & game rentals
 Phone=+6433070530
-Data0=(-43.90691,171.74434)
-[END]
-
-;1063987
-[POI]
-Type=0x2d
-Label=VIDEO EZY KAIKOURA
-StreetDesc=Unit 2, 78 Beach Rd, Kaikoura/ videos, dvd & game rentals
-Phone=+6433197290
-Data0=(-42.39309,173.67946)
+Data0=(-43.90430,171.74317)
 [END]
 
 ;1063994
@@ -18531,15 +18468,6 @@ Label=VIDEO EZY KAIAPOI
 StreetDesc=73-77 Hilton St, Kaiapoi, Chc/ videos, dvd & game rentals
 Phone=+6433273355
 Data0=(-43.38456,172.65664)
-[END]
-
-;1064008
-[POI]
-Type=0x2d
-Label=VIDEO EZY ADDINGTON
-StreetDesc=283 Lincoln Rd, Addington, Chc/ videos, dvd & game rentals
-Phone=+6433387060
-Data0=(-43.54380,172.61107)
 [END]
 
 ;1064015
@@ -18609,9 +18537,9 @@ Data0=(-43.50824,172.65118)
 [POI]
 Type=0x2d
 Label=VIDEO EZY OAMARU
-StreetDesc=39  Ribble St, Oamaru/ videos, dvd & game rentals
+StreetDesc=24 Thames St, Oamaru/ videos, dvd & game rentals
 Phone=+6434349611
-Data0=(-45.09591,170.97272)
+Data0=(-45.10068,170.96910)
 [END]
 
 ;1064078
@@ -18735,18 +18663,18 @@ Data0=(-41.51029,173.94062)
 [POI]
 Type=0x2d
 Label=VIDEO EZY TEMUKA
-StreetDesc=86 King St, Temuka, Canterbury/ videos, dvd & game rentals
+StreetDesc=111 King St, Temuka, Canterbury/ videos, dvd & game rentals
 Phone=+6436156971
-Data0=(-44.24498,171.27798)
+Data0=(-44.24397,171.27731)
 [END]
 
 ;1064176
 [POI]
 Type=0x2d
 Label=VIDEO EZY TIMARU
-StreetDesc=1/111 Stafford St, Timaru, Timaru/ videos, dvd & game rentals
+StreetDesc=54 Wilkin St, Timaru/ videos, dvd & game rentals
 Phone=+6436881908
-Data0=(-44.39769,171.25557)
+Data0=(-44.24200,171.28613)
 [END]
 
 ;1064183
@@ -18837,15 +18765,6 @@ Label=CIVIC VIDEO GREYMOUTH
 StreetDesc=173 Tainui St, Greymouth/ videos, dvd & game rentals
 Phone=+6437686699
 Data0=(-42.45582,171.20741)
-[END]
-
-;1065198
-[POI]
-Type=0x2d
-Label=CIVIC VIDEO KAIKORAI
-StreetDesc=130 Kaikorai Valley Rd, Dud/ videos, dvd & game rentals
-Phone=+6434775570
-Data0=(-45.86770,170.47842)
 [END]
 
 ;1065205
@@ -18969,9 +18888,9 @@ Data0=(-41.34278,173.18682)
 [POI]
 Type=0x2f06
 Label=RABOBANK OAMARU (B)
-StreetDesc=32 Ribble St, Oamaru/ Bank branch, rural & agribusiness banking
+StreetDesc=12 Wear St, Oamaru/ Bank branch, rural & agribusiness banking
 Phone=+6434331133
-Data0=(-45.09573,170.97330)
+Data0=(-45.09889,170.97199)
 [END]
 
 ;1065443
@@ -19037,10 +18956,10 @@ Data0=(-43.52972,172.59857)
 [POI]
 Type=0x2e
 Label=KATHMANDU QUEENSTOWN
-StreetDesc=45 Beach St, Queenstown/ Outdoor Adventure clothing & supplies, Tramping, Hiking
+StreetDesc=Mountaineer Blg, Corner Rees and Beach Streets, Queenstown/ Outdoor Adventure cl
 Phone=+6434090880
 zip=Mon-Thu 10:00-6:00, Fri 10:00-8:00, Sat 
-Data0=(-45.03214,168.65932)
+Data0=(-45.03298,168.65785)
 [END]
 
 ;1065702
@@ -157062,7 +156981,7 @@ Data0=(-43.81547,173.07693)
 
 ;1160384
 [POI]
-Type=0x2b00
+Type=0x2c00
 Label=KOWHAI RESIDENTIAL SCHOOL OF RIDING
 StreetDesc=711 Island Rd. View Hill, Oxford/ Horse riding holidays, treks & courses, farm s
 Phone=+6433124309
@@ -194701,7 +194620,7 @@ Data0=(-43.51971,172.65910)
 
 ;1179731
 [POI]
-Type=0x2e07
+Type=0x2e
 Label=MT OUTDOORS
 StreetDesc=17 Dunmore St, Wanaka/ Outdoor equipment, gear and clothing. Ski & snowboard ren
 Phone=+6434432888
@@ -202673,5 +202592,42 @@ Label=SUNWISE AWNINGS
 StreetDesc=236 Major Hornbrook Rd, Mt Pleasant, Chc, New Zealand/ Retractable Awning, Retra
 Phone=+6433844779
 Data0=(-43.57121,172.71821)
+[END]
+
+;1190439
+[POI]
+Type=0x2f
+Label=CARISMA CARS SERVICE
+StreetDesc=21 Macandrew Rd Dud 9012/ Automotive repairs and servicing of all European vehic
+Phone=+6434550026
+zip=8.00am - 5.00pm Monday - Friday
+Data0=(-45.89524,170.50406)
+[END]
+
+;1190441
+[POI]
+Type=0x2f
+Label=BUSHNELL BUILDERS
+StreetDesc=198 - 200 Springs Rd, Hornby 8042, Chc, New Zealand/ Residential Commercial Buil
+Phone=+33445972
+Data0=(-43.55888,172.52928)
+[END]
+
+;1190442
+[POI]
+Type=0x2F07
+Label=JAYCO CANTERBURY
+StreetDesc=280 Main South Rd, Hornby, Chc, New Zealand/ Caravans Campervans Motorhomes RVs 
+Phone=+6433497963
+Data0=(-43.54309,172.54085)
+[END]
+
+;1190443
+[POI]
+Type=0x2F07
+Label=CAR CITY CHCH
+StreetDesc=206 Ferry Rd, Chc, New Zealand/ Car Yard Christchurch Used Cars Sales
+Phone=+6433794254
+Data0=(-43.53959,172.65567)
 [END]
 

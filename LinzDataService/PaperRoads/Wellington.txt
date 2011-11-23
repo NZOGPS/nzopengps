@@ -37,7 +37,10 @@
 25427	MCIVORS RD	Featherston (Wellington, NZ)
 30953	HODDERS RD	Featherston (Wellington, NZ)
 23244	BROWN ST	Featherston (Wellington, NZ)
-
+27232	DUNDAS ST	Awahuri (Manawatu-Wanganui, NZ)
+27245	RARURARU ST	Awahuri (Manawatu-Wanganui, NZ)
+27259	TAPA ST		Awahuri (Manawatu-Wanganui, NZ)
+27296	SCHULTZ ST	Awahuri (Manawatu-Wanganui, NZ)
 
 
 30564	OLIVE ST	Glen Oroua (Manawatu-Wanganui, NZ)

@@ -90,4 +90,7 @@ NO SUFI		LADDER FERN	KELVIN GROVE (MANAWATU-WANGANUI)
 1030000180042	PIGEON BUSH RD	Western Lake (Wellington, NZ)
 1030000048445	BELSHAW RD	Papatawa (Manawatu-Wanganui, NZ)
 1030000024509	MOORES RD	Te Ore Ore, Masterton (Wellington, NZ)
-
+	DUNDAS ST	Awahuri (Manawatu-Wanganui, NZ)
+	RARURARU ST	Awahuri (Manawatu-Wanganui, NZ)
+	TAPA ST		Awahuri (Manawatu-Wanganui, NZ)
+	SCHULTZ ST	Awahuri (Manawatu-Wanganui, NZ)

@@ -200049,7 +200049,7 @@ Data0=(-45.87962,170.50018)
 ;1188984
 [POI]
 Type=0x2f
-Label=?HAIR STUDIO LEAF
+Label=?LEAF HAIR STUDIO
 StreetDesc=1st Fl, 83 Upper Moray Place, Dud ( Blue Blg )/ Hairdresser, Stylist, Make-up, P
 Phone=+6434701279
 zip=10am - 6pm (Tuesday - Sunday)
@@ -202596,7 +202596,7 @@ Data0=(-43.57121,172.71821)
 
 ;1190439
 [POI]
-Type=0x2f
+Type=0x2f03
 Label=CARISMA CARS SERVICE
 StreetDesc=21 Macandrew Rd Dud 9012/ Automotive repairs and servicing of all European vehic
 Phone=+6434550026
@@ -202629,5 +202629,24 @@ Label=CAR CITY CHCH
 StreetDesc=206 Ferry Rd, Chc, New Zealand/ Car Yard Christchurch Used Cars Sales
 Phone=+6433794254
 Data0=(-43.53959,172.65567)
+[END]
+
+;1190449
+[POI]
+Type=0x2f
+Label=REID CONSTRUCTION
+StreetDesc=5 Quarry Rd Kinmont Park Dud 9024 New Zealand/ Top quality building contractor i
+Phone=+6434847564
+zip=Monday - Friday 8.00am - 5.00pm
+Data0=(-45.88661,170.35501)
+[END]
+
+;1190452
+[POI]
+Type=0x2f
+Label=STRATEGY FINANCIAL SERVICES LTD
+StreetDesc=45 Johnson Rd West Melton/ Insurance brokers, insurance analysts
+Phone=+6433474101
+Data0=(-43.54002,172.39462)
 [END]
 

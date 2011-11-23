@@ -415,6 +415,7 @@ end
 '0x6402' => 'Man-made - Building',
 '0x6403' => 'Manmade - Cemetery',
 '0x6404' => 'Church place of worship',
+'0x6407' => 'Dam',
 '0x6412' => 'Trailhead',
 '0x6508' => 'Water - Waterfall',
 '0x650D' => 'Water Feature - Lake',

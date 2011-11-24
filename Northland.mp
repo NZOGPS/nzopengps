@@ -2920,11 +2920,10 @@ Nod1=0,127,0
 Nod2=2,126,0
 [END]
 
-;linzid=49914
-;sufi=1030000006596
+;linzid=97607
 [POLYLINE]
-Type=0x6
-Label=WEKA ST
+Type=0xa
+Label=BEATSON PL
 EndLevel=1
 CityIdx=27
 RoadID=214
@@ -61925,30 +61924,16 @@ Numbers2=17,O,473,473,N,-1,-1
 ;linzid=49914
 ;sufi=1030000006596
 [POLYLINE]
-Type=0x6
+Type=0xa
 Label=WEKA ST
 EndLevel=1
 CityIdx=27
 RoadID=3668
 RouteParam=2,0,0,0,0,0,0,0,0,0,0,0
-Data0=(-35.16320,173.15805),(-35.16344,173.15826),(-35.16357,173.15849),(-35.16367,173.15893),(-35.16365,173.15916),(-35.16357,173.15939),(-35.16350,173.15942),(-35.16320,173.15968),(-35.16305,173.15983)
-Nod1=0,120,0
-Nod2=3,4634,0
-Nod3=8,4633,0
-[END]
-
-;linzid=0
-;sufi=0
-[POLYLINE]
-Type=0x6
-Label=POSEDIN WAY
-EndLevel=9
-CityIdx=27
-RoadID=3669
-RouteParam=2,0,0,0,0,0,0,0,0,0,0,0
-Data0=(-35.16367,173.15893),(-35.16378,173.15896),(-35.16384,173.15913),(-35.16408,173.15963)
-Nod1=0,4634,0
-Nod2=3,4635,0
+Data0=(-35.16275,173.15722),(-35.16320,173.15805)
+Nod1=0,121,0
+Nod2=1,120,0
+Numbers1=0,O,5,5,N,-1,-1
 [END]
 
 ;linzid=49714
@@ -75927,4 +75912,52 @@ Nod1=0,8981,0
 Nod2=10,8470,0
 [END]
 
-;@FILE,"C:\Users\Peter\Documents\NZOGPS\Numbers\Northland-numbers.gdb",0,"..\Numbers\Northland-numbers.gdb"
+;linzid=96506
+[POLYLINE]
+Type=0x6
+Label=POSEIDON WAY
+EndLevel=1
+CityIdx=27
+RoadID=4810
+RouteParam=2,0,0,0,0,0,0,0,0,0,0,0
+Data0=(-35.16426,173.16003),(-35.16355,173.16058),(-35.16321,173.16081)
+Nod1=0,9272,0
+Nod2=2,9226,0
+Numbers1=0,O,1,11,E,2,18
+[END]
+
+;linzid=96505
+[POLYLINE]
+Type=0x6
+Label=ALBATROSS ALLEY
+EndLevel=1
+CityIdx=27
+RoadID=4809
+RouteParam=2,0,0,0,0,0,0,0,0,0,0,0
+Data0=(-35.16367,173.15893),(-35.16365,173.15916),(-35.16350,173.15939),(-35.16302,173.15985)
+Nod1=0,4634,0
+Nod2=3,9225,0
+Numbers1=2,N,-1,-1,E,2,10
+[END]
+
+;linzid=49914
+;sufi=1030000006596
+;
+;linzid=0
+;sufi=0
+[POLYLINE]
+Type=0x6
+Label=WEKA ST
+EndLevel=9
+CityIdx=27
+RoadID=4808
+RouteParam=2,0,0,0,0,0,0,0,0,0,0,0
+Data0=(-35.16320,173.15805),(-35.16344,173.15826),(-35.16357,173.15849),(-35.16367,173.15893),(-35.16378,173.15896),(-35.16384,173.15913),(-35.16426,173.16003)
+Nod1=0,120,0
+Nod2=3,4634,0
+Nod3=6,9272,0
+Numbers1=2,O,15,15,E,16,16
+Numbers2=3,B,24,25,E,18,22
+[END]
+
+;@FILE,"C:\Users\Peter\Documents\NZOGPS\Numbers\Northland-numbers.gdb",1,"..\Numbers\Northland-numbers.gdb"

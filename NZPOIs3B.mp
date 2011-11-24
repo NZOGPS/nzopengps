@@ -30293,7 +30293,7 @@ Data0=(-43.44458,172.63350)
 
 ;1093717
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=AWAMOA TOILETS
 StreetDesc=Awamoa Rd, Oamaru/ Public Toilets
 Data0=(-45.10286,170.95518)
@@ -30301,7 +30301,7 @@ Data0=(-45.10286,170.95518)
 
 ;1093718
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=CROMWELL SHOPPING CENTRE TOILETS
 StreetDesc=Barry Ave, Cromwell/ Public Toilets
 Data0=(-45.03693,169.19868)
@@ -30309,7 +30309,7 @@ Data0=(-45.03693,169.19868)
 
 ;1093719
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=LAKE DUNSTAN TOILETS
 StreetDesc=SH8, Cromwell/ Public Toilets
 Data0=(-44.93962,169.28846)
@@ -30317,7 +30317,7 @@ Data0=(-44.93962,169.28846)
 
 ;1093720
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=DUNTROON TOILETS
 StreetDesc=SH83, Duntroon/ Public Toilets
 Data0=(-44.85356,170.68126)
@@ -30325,7 +30325,7 @@ Data0=(-44.85356,170.68126)
 
 ;1093721
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=QUEENSTOWN LAKE TOILETS 1
 StreetDesc=Rees St, Queenstown/ Public Toilets
 Data0=(-45.03367,168.66175)
@@ -30333,7 +30333,7 @@ Data0=(-45.03367,168.66175)
 
 ;1093722
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=QUEENSTOWN LAKE TOILETS 2
 StreetDesc=Rees St, Queenstown/ Public Toilets
 Data0=(-45.03264,168.65893)
@@ -30341,7 +30341,7 @@ Data0=(-45.03264,168.65893)
 
 ;1093723
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=WANAKA LAKE TOILETS 1
 StreetDesc=Ardmore St, Wanaka/ Public Toilets
 Data0=(-44.69916,169.12593)
@@ -30349,7 +30349,7 @@ Data0=(-44.69916,169.12593)
 
 ;1093725
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=EDEN ST TOILETS
 StreetDesc=Eden St, Oamaru/ Public Toilets
 Data0=(-45.09709,170.97261)
@@ -30357,7 +30357,7 @@ Data0=(-45.09709,170.97261)
 
 ;1093728
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=ASHBURTON TOILETS
 StreetDesc=East St, Ashburton/ Public Toilets
 Data0=(-43.90451,171.74742)
@@ -30365,7 +30365,7 @@ Data0=(-43.90451,171.74742)
 
 ;1093729
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=AVONHEAD PARK TOILETS
 StreetDesc=Hawthornden Rd, Avonhead/ Public Toilets
 Data0=(-43.50996,172.54584)
@@ -30373,7 +30373,7 @@ Data0=(-43.50996,172.54584)
 
 ;1093730
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=CAROLINE BAY TOILETS
 StreetDesc=Evans St, Timaru/ Public Toilets
 Data0=(-44.39061,171.24678)
@@ -30381,7 +30381,7 @@ Data0=(-44.39061,171.24678)
 
 ;1093731
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=CROSBIE PARK TOILETS
 StreetDesc=Woodbury St, Russley/ Public Toilets
 Data0=(-43.51797,172.54994)
@@ -30389,7 +30389,7 @@ Data0=(-43.51797,172.54994)
 
 ;1093732
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=DIAMOND HARBOUR BEACH TOILETS
 StreetDesc=Diamond Harbour/ Public Toilets
 Data0=(-43.62648,172.73742)
@@ -30397,7 +30397,7 @@ Data0=(-43.62648,172.73742)
 
 ;1093733
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=DUNSANDEL TOILETS
 StreetDesc=Main South Rd, Dunsandel/ Public Toilets
 Data0=(-43.66032,172.19390)
@@ -30405,7 +30405,7 @@ Data0=(-43.66032,172.19390)
 
 ;1093734
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=FERRIER PARK TOILETS
 StreetDesc=Nortons Rd, Avonhead/ Public Toilets
 Data0=(-43.52429,172.55721)
@@ -30413,7 +30413,7 @@ Data0=(-43.52429,172.55721)
 
 ;1093735
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=HAKATERE TOILETS
 StreetDesc=River Rd, Hakatere/ Public Toilets
 Data0=(-44.05056,171.80611)
@@ -30421,7 +30421,7 @@ Data0=(-44.05056,171.80611)
 
 ;1093736
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=HORORATA DOMAIN TOILETS
 StreetDesc=Bridge St, Hororata/ Public Toilets
 Data0=(-43.53099,171.95221)
@@ -30429,7 +30429,7 @@ Data0=(-43.53099,171.95221)
 
 ;1093737
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=HUSSEY RD TOILETS
 StreetDesc=Hussey Rd/ Public Toilets
 Data0=(-43.46273,172.60189)
@@ -30437,7 +30437,7 @@ Data0=(-43.46273,172.60189)
 
 ;1093738
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=LEITHFIELD BEACH TOILETS
 StreetDesc=Lucas Dr, Leithfield/ Public Toilets
 Data0=(-43.21307,172.75375)
@@ -30445,7 +30445,7 @@ Data0=(-43.21307,172.75375)
 
 ;1093739
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=HALL ST TOILETS
 StreetDesc=Hall St, Kaiapoi/ Public Toilets
 Data0=(-43.38595,172.67161)
@@ -30453,7 +30453,7 @@ Data0=(-43.38595,172.67161)
 
 ;1093740
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=SHELDON PARK TOILETS
 StreetDesc=Main North Rd, Belfast/ Public Toilets
 Data0=(-43.45285,172.62794)
@@ -30461,7 +30461,7 @@ Data0=(-43.45285,172.62794)
 
 ;1093741
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=SYDENHAM SHOPS TOILETS
 StreetDesc=Wordsworth St, Sydenham/ Public Toilets
 Data0=(-43.54493,172.63618)
@@ -30469,7 +30469,7 @@ Data0=(-43.54493,172.63618)
 
 ;1093742
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=TEKAPO TOILETS
 StreetDesc=SH8, Tekapo/ Public Toilets
 Data0=(-44.00456,170.47752)
@@ -30477,7 +30477,7 @@ Data0=(-44.00456,170.47752)
 
 ;1093743
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=TWIZEL SQUARE TOILETS
 StreetDesc=Market Place, Twizel/ Public Toilets
 Data0=(-44.25716,170.09866)
@@ -30485,7 +30485,7 @@ Data0=(-44.25716,170.09866)
 
 ;1093744
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=VICTORIA PARK TOILETS
 StreetDesc=Botanical Gardens, Chc/ Public Toilets
 Data0=(-43.52823,172.61960)
@@ -30493,7 +30493,7 @@ Data0=(-43.52823,172.61960)
 
 ;1093745
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=WAIMATE TOILETS
 StreetDesc=Queen St, Waimate/ Public Toilets
 Data0=(-44.73429,171.04630)
@@ -30501,7 +30501,7 @@ Data0=(-44.73429,171.04630)
 
 ;1093746
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=WOOLSTON VILLAGE TOILETS
 StreetDesc=Ferry Rd, Woolston/ Public Toilets
 Data0=(-43.54877,172.68329)
@@ -30572,7 +30572,7 @@ Data0=(-45.87050,170.50716)
 
 ;1093788
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=DENTON PARK TOILETS
 StreetDesc=Main South Rd, Hornby/ Public Toilets
 Data0=(-43.54352,172.52117)
@@ -30580,7 +30580,7 @@ Data0=(-43.54352,172.52117)
 
 ;1093789
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=LITTLE RIVER STATION TOILETS 24HR
 StreetDesc=Chc Akaroa Rd, Little River/ Public Toilets
 zip=24/7
@@ -31102,7 +31102,7 @@ Data0=(-46.40737,168.34769)
 
 ;1094191
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=CLYDE TOILETS
 StreetDesc=Sunderland St, Clyde/ Public Toilets
 Data0=(-45.18604,169.31575)
@@ -31110,7 +31110,7 @@ Data0=(-45.18604,169.31575)
 
 ;1094192
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=ALEXANDRA TOILETS
 StreetDesc=Centennial Ave, Alexandra/ Public Toilets
 Data0=(-45.25407,169.39143)
@@ -31118,7 +31118,7 @@ Data0=(-45.25407,169.39143)
 
 ;1094193
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=ALEXANDRA TOILETS 2
 StreetDesc=Centennial Ave, Alexandra/ Public Toilets
 Data0=(-45.25241,169.38797)
@@ -31813,7 +31813,7 @@ Data0=(-43.48198,172.70689)
 
 ;1094500
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=PARKLANDS MALL PUBLIC TOILETS
 StreetDesc=Parklands Mall, Queenspark Dr/ Public toilets
 Data0=(-43.48100,172.70590)
@@ -32353,7 +32353,7 @@ Data0=(-41.85890,172.25303)
 
 ;1094896
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=GLADSTONE ROAD PUBLIC TOILETS 24HR
 StreetDesc=Gladstone Rd, Richmond/ Public toilet
 zip=24 hours
@@ -32380,7 +32380,7 @@ Data0=(-41.30586,173.21912)
 
 ;1094900
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=GOWANBRIDGE PUBLIC TOILET 24HR
 StreetDesc=Gowan River Bridge, SH 6/ Public toilet
 zip=24 hours
@@ -32389,7 +32389,7 @@ Data0=(-41.71230,172.55831)
 
 ;1094901
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=MURCHISON PUBLIC TOILET
 StreetDesc=Waller St, Murchison/ Public toilet
 Data0=(-41.80013,172.32936)
@@ -32426,7 +32426,7 @@ Data0=(-41.68674,172.45499)
 
 ;1095308
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=SOMERSET CRES TOILETS
 StreetDesc=Cnr Selwyn St & Somerset Cr, Chc/ Public Toilets
 Data0=(-43.54775,172.62162)
@@ -32434,7 +32434,7 @@ Data0=(-43.54775,172.62162)
 
 ;1095309
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=S NEW BRIGHTON PK TOILETS
 StreetDesc=Beatty St, New Brighton/ Public Toilets
 Data0=(-43.52979,172.73293)
@@ -35213,7 +35213,7 @@ Data0=(-43.56301,172.65701)
 
 ;1097293
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=DOMAIN TOILETS
 StreetDesc=Ranfurly St, Kaiapoi/ 
 Data0=(-43.37375,172.65776)
@@ -35221,7 +35221,7 @@ Data0=(-43.37375,172.65776)
 
 ;1097294
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=KAIAPOI LAKES TOILET
 StreetDesc=Williams St, Kaiapoi/ 
 Data0=(-43.36013,172.66508)
@@ -35465,7 +35465,7 @@ Data0=(-45.02179,168.73936)
 
 ;1097434
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=WAIRAU RD PUBLIC TOILET, PICTON
 StreetDesc=Wairau Rd, Picton/ 
 Data0=(-41.29373,174.00505)
@@ -35473,7 +35473,7 @@ Data0=(-41.29373,174.00505)
 
 ;1097435
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=PICTON MARINA PUBLIC TOILET
 StreetDesc=Marina, Picton/ Public toilets
 Data0=(-41.28603,174.01035)
@@ -35600,7 +35600,7 @@ Data0=(-41.51318,173.95678)
 
 ;1097505
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=HINEMOA PARK TOILETS
 StreetDesc=Hinemoa Park, Kaiapoi/ 
 Data0=(-43.39345,172.64721)
@@ -35608,7 +35608,7 @@ Data0=(-43.39345,172.64721)
 
 ;1097506
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=RAVEN ST TOILETS
 StreetDesc=Raven St, Kaiapoi/ Toilet
 Data0=(-43.38205,172.65618)
@@ -35939,7 +35939,7 @@ Data0=(-43.24839,172.66868)
 
 ;1098477
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=CATHEDRAL SQUARE PUBLIC TOILETS
 StreetDesc=Southwest corner of Cathedral Sq, Chc/ Public toilets, showers, lockers
 Data0=(-43.53168,172.63565)
@@ -35985,7 +35985,7 @@ Data0=(-43.44347,172.63375)
 
 ;1098485
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=REEFTON TOILETS
 StreetDesc=Cnr Bridge St & Broadway, Reefton/ toilet
 Data0=(-42.11985,171.86810)
@@ -35993,7 +35993,7 @@ Data0=(-42.11985,171.86810)
 
 ;1098486
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=TAINUI ST TOILETS
 StreetDesc=Tainui St, Greymouth/ toilet
 Data0=(-42.44821,171.21115)
@@ -36001,7 +36001,7 @@ Data0=(-42.44821,171.21115)
 
 ;1098487
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=HARIHARI TOILET
 StreetDesc=Main Rd,  Harihari/ toilet
 Data0=(-43.14927,170.55584)
@@ -36009,7 +36009,7 @@ Data0=(-43.14927,170.55584)
 
 ;1098488
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=LAKE MATHESON TOILET
 StreetDesc=Lake Matheson Rd, Fox Glacier/ toilet
 Data0=(-43.44780,169.96966)
@@ -36017,7 +36017,7 @@ Data0=(-43.44780,169.96966)
 
 ;1098489
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=LAKE PARINGA TOILETS
 StreetDesc=Haast Hwy, Lake Paringa/ toilet
 Data0=(-43.72201,169.41195)
@@ -36025,7 +36025,7 @@ Data0=(-43.72201,169.41195)
 
 ;1098490
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=PLEASANT FLAT TOILETS
 StreetDesc=Haast Pass Hwy/ toilet
 Data0=(-44.01209,169.38119)
@@ -36033,7 +36033,7 @@ Data0=(-44.01209,169.38119)
 
 ;1098491
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=TE MOANA VALLEY TOILETS 1
 StreetDesc=Te Moana Rd, Woodbury/ toilet
 Data0=(-44.04124,171.09089)
@@ -36041,7 +36041,7 @@ Data0=(-44.04124,171.09089)
 
 ;1098492
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=TE MOANA VALLEY TOILETS 2
 StreetDesc=Te Moana Rd, Woodbury/ toilet
 Data0=(-44.04252,171.08543)
@@ -36049,7 +36049,7 @@ Data0=(-44.04252,171.08543)
 
 ;1098493
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=TE MOANA VALLEY TOILETS 3
 StreetDesc=Te Moana Rd, Woodbury/ toilet
 Data0=(-44.04765,171.07108)
@@ -36057,7 +36057,7 @@ Data0=(-44.04765,171.07108)
 
 ;1098494
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=COURTENAY DOMAIN TOILET
 StreetDesc=Old West Coast Rd, Courtenay/ toilet
 Data0=(-43.45779,172.20593)
@@ -36065,7 +36065,7 @@ Data0=(-43.45779,172.20593)
 
 ;1098495
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=RAWHITI DOMAIN TOILET 1
 StreetDesc=Shaw Ave, New Brighton/ toilet
 Data0=(-43.50374,172.72524)
@@ -36073,7 +36073,7 @@ Data0=(-43.50374,172.72524)
 
 ;1098496
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=RAWHITI DOMAIN TOILET 2
 StreetDesc=Shaw Ave, New Brighton/ toilet
 Data0=(-43.50275,172.72226)
@@ -36081,7 +36081,7 @@ Data0=(-43.50275,172.72226)
 
 ;1098497
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=TAWHAI PICNIC AREA TOILET
 StreetDesc=SH7, West of Reefton/ Rest Area Toilets
 Data0=(-42.14586,171.81441)
@@ -36447,7 +36447,7 @@ Data0=(-43.30335,172.59587)
 
 ;1098613
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=AMBERLEY TOILETS
 StreetDesc=Carters Rd, Amberley/ toilet
 Data0=(-43.15248,172.72949)
@@ -36455,7 +36455,7 @@ Data0=(-43.15248,172.72949)
 
 ;1098614
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=AMBERLEY DOMAIN TOILETS
 StreetDesc=Douglas Rd, Amberley/ toilet
 Data0=(-43.15003,172.72054)
@@ -36968,7 +36968,7 @@ Data0=(-45.25751,169.39172)
 
 ;1098789
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=PUBLIC TOILETS VERNON TCE
 StreetDesc=Vernon Tce, St Martins, Chc/ Public Toilets
 Data0=(-43.56299,172.66395)
@@ -36976,7 +36976,7 @@ Data0=(-43.56299,172.66395)
 
 ;1098790
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=HANSEN PARK PUBLIC TOILET
 StreetDesc=Hansen Park, Chc/ Public Toilets, Play Ground
 Data0=(-43.56073,172.66026)
@@ -37021,7 +37021,7 @@ Data0=(-45.87727,170.50158)
 
 ;1098826
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=GOVERNORS BAY TOILETS
 StreetDesc=Ernest Adams Dr, Governors Bay/ toilets
 Data0=(-43.62705,172.64683)
@@ -37272,7 +37272,7 @@ Data0=(-43.49839,172.60891)
 
 ;1099029
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=PUBLIC TOILETS SOUTHBRIDGE
 StreetDesc=High St, Southbridge/ Public Toilet
 Data0=(-43.81118,172.25086)
@@ -37280,7 +37280,7 @@ Data0=(-43.81118,172.25086)
 
 ;1099030
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=PUBLIC TOILET WORCESTER STREET
 StreetDesc=Worcester St, Linwood, Chc/ Public Toilet
 Data0=(-43.53104,172.65765)
@@ -37612,7 +37612,7 @@ Data0=(-43.39065,170.18102)
 
 ;1099204
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=PUBLIC TOILET BOTTLE LAKE FOREST
 StreetDesc=100 Waitikiri Dr Chc Canterbury 8083/ Public Toilet
 Data0=(-43.46825,172.68146)
@@ -37638,7 +37638,7 @@ Data0=(-43.81253,172.25153)
 
 ;1099207
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=PUBLIC TOILET TAYLOR'S MISTAKE
 StreetDesc=Taylors Mistake Rd, Taylors Mistake/ Public Toilet, Changing Room
 Data0=(-43.58411,172.77618)
@@ -37646,7 +37646,7 @@ Data0=(-43.58411,172.77618)
 
 ;1099208
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=PUBLIC TOILET GODLEY HEADS
 StreetDesc=2 Summit Rd Chc Canterbury 8081/ Public Toilet
 Data0=(-43.58912,172.79827)
@@ -72514,7 +72514,7 @@ Data0=(-41.92335,173.92705)
 
 ;1117644
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=WOODEND BEACH TOILETS 1
 StreetDesc=Woodend Beach Rd, Woodend/ Toilet
 Data0=(-43.33780,172.70717)
@@ -73598,7 +73598,7 @@ Data0=(-43.52340,172.58425)
 
 ;1118295
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=WOOLSTON PARK TOILETS
 StreetDesc=Ferry Rd, Woolston/ Toilets
 Data0=(-43.54605,172.67428)
@@ -73606,7 +73606,7 @@ Data0=(-43.54605,172.67428)
 
 ;1118296
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=MINARET BURN  WALKWAY TOILET
 StreetDesc=West Wanaka Rd, Wanaka/ Toilet
 Data0=(-44.61851,169.00393)
@@ -74020,7 +74020,7 @@ Data0=(-43.53554,172.65732)
 
 ;1118383
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=LEESTON TOILET
 StreetDesc=Leeston and Lake Rd, Leeston/ Toilet
 Data0=(-43.76411,172.29535)
@@ -74028,7 +74028,7 @@ Data0=(-43.76411,172.29535)
 
 ;1118384
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=RAKAIA GORGE TOILET
 StreetDesc=Rakaia Gorge Rd/ Toilet
 Data0=(-43.51919,171.65540)
@@ -74036,7 +74036,7 @@ Data0=(-43.51919,171.65540)
 
 ;1118385
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=KAITUNA TOILET
 StreetDesc=Kaituna Valley Rd/ Toilet
 Data0=(-43.74442,172.68833)
@@ -74285,7 +74285,7 @@ Data0=(-44.39835,171.25169)
 
 ;1118468
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=DARFIELD TOILET
 StreetDesc=South Tce, Darfield/ Toilet
 Data0=(-43.48980,172.11340)
@@ -74293,7 +74293,7 @@ Data0=(-43.48980,172.11340)
 
 ;1118469
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=OXFORD TOILET
 StreetDesc=Main St, Oxford/ Toilet
 Data0=(-43.29753,172.19394)
@@ -74301,7 +74301,7 @@ Data0=(-43.29753,172.19394)
 
 ;1118470
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=HEATHCOTE CRICKET CLUB TOILETS
 StreetDesc=Bridle Path Rd, Heathcote Valley/ Public Toilet
 Data0=(-43.58115,172.70846)
@@ -74365,7 +74365,7 @@ Data0=(-43.56767,172.44486)
 
 ;1118508
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=BISHOPDALE PARK TOILETS
 StreetDesc=Harewood Rd, Bishopdale, Chc/ Toilet
 Data0=(-43.48712,172.58449)
@@ -74373,7 +74373,7 @@ Data0=(-43.48712,172.58449)
 
 ;1118509
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=WOOLSHED CREEK TOILETS 24HR
 StreetDesc=Jig Rd, Mt Somers/ Toilet
 zip=24/7
@@ -74382,7 +74382,7 @@ Data0=(-43.63113,171.30074)
 
 ;1118510
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=ALFORD TOILETS
 StreetDesc=Arundel Rakaia Gorge Rd, Alford Forest/ Toilet
 Data0=(-43.61177,171.50383)
@@ -74390,7 +74390,7 @@ Data0=(-43.61177,171.50383)
 
 ;1118511
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=AWA AWA RATA TOILETS
 StreetDesc=McLennans Bush Rd, Mt Hutt/ Toilet
 Data0=(-43.56306,171.52994)
@@ -74418,7 +74418,7 @@ Data0=(-43.57715,172.70763)
 
 ;1118515
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=VICTORIA LAKE TOILETS
 StreetDesc=Hagley Park, Chc/ Toilet
 Data0=(-43.52846,172.62235)
@@ -74426,7 +74426,7 @@ Data0=(-43.52846,172.62235)
 
 ;1118516
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=WEST HAGLEY PARK TOILETS
 StreetDesc=Hagley Park, Chc/ Toilet
 Data0=(-43.52742,172.61293)
@@ -74526,7 +74526,7 @@ Data0=(-44.30793,171.25956)
 
 ;1118560
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=FAIRLIE GOOD TOILET 24HR
 StreetDesc=Main St, Fairlie/ Toilet
 zip=24/7
@@ -74535,7 +74535,7 @@ Data0=(-44.09936,170.82930)
 
 ;1118561
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=RAY BLANK PARK TOILETS
 StreetDesc=Maidstone Rd, Chc/ Toilet
 Data0=(-43.51655,172.57279)
@@ -74700,7 +74700,7 @@ Data0=(-45.07135,170.99126)
 
 ;1118623
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=GLENMARK STATION TOILETS
 StreetDesc=Glenmark Dr, Waipara/ Toilet
 Data0=(-43.05488,172.75812)
@@ -74708,7 +74708,7 @@ Data0=(-43.05488,172.75812)
 
 ;1118624
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=HALSWELL DOMAIN TOILET
 StreetDesc=William Brittan Ave, Halswell/ Toilet
 Data0=(-43.57868,172.57354)
@@ -74716,7 +74716,7 @@ Data0=(-43.57868,172.57354)
 
 ;1118625
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=AKAROA HERITAGE PARK TOILET
 StreetDesc=Long Bay Rd, Akaroa/ Toilet
 Data0=(-43.79891,172.99754)
@@ -74724,7 +74724,7 @@ Data0=(-43.79891,172.99754)
 
 ;1118626
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=SPENCER PARK BEACH TOILET
 StreetDesc=Off Heyders Rd, Spencerville/ Toilet
 Data0=(-43.43228,172.71252)
@@ -74741,7 +74741,7 @@ Data0=(-42.51919,172.85664)
 
 ;1118645
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=WEST END PARK TOILETS
 StreetDesc=Wai-iti Rd, Timaru/ Toilets
 Data0=(-44.39064,171.22538)
@@ -74749,7 +74749,7 @@ Data0=(-44.39064,171.22538)
 
 ;1118646
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=TIMARU PUBLIC TOILETS 24HR
 StreetDesc=Stafford St, Timaru/ Toilets
 zip=24 hours
@@ -74908,7 +74908,7 @@ Data0=(-43.80851,172.96328)
 
 ;1118729
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=WESTBURN PARK TOILETS
 StreetDesc=Westburn Tce, Ilam/ Toilet
 Data0=(-43.50901,172.57209)
@@ -75075,7 +75075,7 @@ Data0=(-43.52044,172.60720)
 
 ;1118952
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=HINDS TOILETS
 StreetDesc=Isleworth Rd, Hinds/ 
 Data0=(-44.00288,171.57121)
@@ -75453,7 +75453,7 @@ Data0=(-41.27473,173.28494)
 
 ;1119217
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=SPRINGFIELD PUBLIC TOILETS
 StreetDesc=19-41 W Coast Rd Springfield Canterbury 7681/ Public Toilet
 Data0=(-43.33779,171.92898)
@@ -75935,7 +75935,7 @@ Data0=(-43.52970,172.60094)
 
 ;1119348
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=NUNWEEK PARK TOILETS
 StreetDesc=Wooldridge Rd, Harewood/ Toilet
 Data0=(-43.48293,172.56957)
@@ -75943,7 +75943,7 @@ Data0=(-43.48293,172.56957)
 
 ;1119349
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=GORGE CREEK TOILETS 24HR
 StreetDesc=Fruitlands-Roxburgh Rd, Tawhiti/ Toilet
 zip=24/7
@@ -75952,7 +75952,7 @@ Data0=(-45.37616,169.27639)
 
 ;1119350
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=BENMORE INFORMATION CENTRE TOILETS
 StreetDesc=Loch Laird Rd, Otematata/ Toilet
 Data0=(-44.56530,170.18608)
@@ -75960,7 +75960,7 @@ Data0=(-44.56530,170.18608)
 
 ;1119351
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=KUROW TOILET
 StreetDesc=Wynyard St, Kurow/ Toilet
 Data0=(-44.73319,170.47066)
@@ -75968,7 +75968,7 @@ Data0=(-44.73319,170.47066)
 
 ;1119352
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=ST BATHANS BLUE LAKE TOILET
 StreetDesc=Loop Rd, St Bathans/ Toilet
 Data0=(-44.87102,169.81195)
@@ -75976,7 +75976,7 @@ Data0=(-44.87102,169.81195)
 
 ;1119353
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=SUDELEY PARK TOILETS
 StreetDesc=Selwyn Lake Rd, Irwell/ Toilet
 Data0=(-43.70515,172.36291)
@@ -76635,7 +76635,7 @@ Data0=(-41.31258,173.23444)
 
 ;1119632
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=KUMARA TOILETS
 StreetDesc=Seddon St, Kumara/ toilet
 Data0=(-42.62853,171.18467)
@@ -76643,7 +76643,7 @@ Data0=(-42.62853,171.18467)
 
 ;1119633
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=HOKITIKA TOILETS
 StreetDesc=Tancred St, Hokitika/ Public toilet
 Data0=(-42.71897,170.96120)
@@ -78565,7 +78565,7 @@ Data0=(-44.09774,170.83015)
 
 ;1120109
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=GERALDINE TOILETS
 StreetDesc=Cox St, Geraldine/ Toilet
 Data0=(-44.09279,171.24388)
@@ -78573,7 +78573,7 @@ Data0=(-44.09279,171.24388)
 
 ;1120110
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=HALSWELL QUARRY TOILET 1
 StreetDesc=Kennedys Bush Rd, Halswell/ Toilet
 Data0=(-43.59961,172.57742)
@@ -78581,7 +78581,7 @@ Data0=(-43.59961,172.57742)
 
 ;1120111
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=HALSWELL QUARRY TOILET 2
 StreetDesc=Kennedys Bush Rd, Halswell/ Toilet
 Data0=(-43.59908,172.58114)
@@ -79829,7 +79829,7 @@ Data0=(-43.49622,172.60826)
 
 ;1120648
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=CHAMPAGNE GULLY TOILET
 StreetDesc=SH8, Clyde/ Public Toilets
 Data0=(-45.12926,169.31656)
@@ -79837,7 +79837,7 @@ Data0=(-45.12926,169.31656)
 
 ;1120649
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=CLYDE BOAT RAMP TOILET
 StreetDesc=SH8, Clyde/ Public Toilets
 Data0=(-45.17114,169.31047)
@@ -79872,7 +79872,7 @@ Data0=(-41.11355,173.01088)
 
 ;1120692
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=?MOTUEKA TOILETS
 StreetDesc=Wallace St, Motueka/ toilet
 Data0=(-41.11183,173.01315)
@@ -79880,7 +79880,7 @@ Data0=(-41.11183,173.01315)
 
 ;1120693
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=HAWKER LOOKOUT TOILET
 StreetDesc=Hawker Lookout car park, Takaka Hill Hwy/ toilet
 Data0=(-41.02335,172.90754)
@@ -80126,7 +80126,7 @@ Data0=(-43.65569,172.56571)
 
 ;1120816
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=WAITOHI BUSH RESERVE TOILET 24HR
 StreetDesc=Galbraith Rd, Upper Waitohi/ Toilet
 zip=24/7
@@ -84823,7 +84823,7 @@ Data0=(-43.52148,172.64145)
 
 ;1121927
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=WAIHI GORGE CAMP TOILET 24HR
 StreetDesc=Waihi Gorge Rd/ Toilet
 zip=24/7
@@ -84832,7 +84832,7 @@ Data0=(-44.00285,171.15560)
 
 ;1121928
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=DOBSON DRIVE TOILET 24HR
 StreetDesc=Dobson Dr, Kaiapoi/ Toilet
 zip=24/7
@@ -85455,7 +85455,7 @@ Data0=(-43.75806,169.14770)
 
 ;1122206
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=KNIGHTS POINT LOOKOUT
 StreetDesc=Haast Highway/ Scenic viewpoint, public toilets
 Data0=(-43.71550,169.22555)
@@ -85834,7 +85834,7 @@ Data0=(-45.86324,170.50997)
 
 ;1122317
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=WOODEND TOILET
 StreetDesc=School Rd, Woodend/ Toilet
 Data0=(-43.32429,172.66466)
@@ -85842,7 +85842,7 @@ Data0=(-43.32429,172.66466)
 
 ;1122318
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=MONA VALE TOILET
 StreetDesc=Mona Vale Ave, Chc/ Toilet
 Data0=(-43.52368,172.60866)
@@ -85850,7 +85850,7 @@ Data0=(-43.52368,172.60866)
 
 ;1122319
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=AKAROA TOILET
 StreetDesc=cnr Bruce Tce and Beach Rd, Akaroa/ Toilet
 Data0=(-43.80977,172.96108)
@@ -86128,7 +86128,7 @@ Data0=(-41.27168,173.28182)
 
 ;1122459
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=SHEFFIELD DOMAIN TOILET 24HR
 StreetDesc=West Coast Rd, Sheffield/ Toilet
 zip=24/7
@@ -86146,7 +86146,7 @@ Data0=(-43.38735,172.01654)
 
 ;1122462
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=LAKE PEARSON TOILETS 24HR
 StreetDesc=West Coast Rd, Lake Pearson/ Toilet
 zip=24/7
@@ -86155,7 +86155,7 @@ Data0=(-43.09393,171.77932)
 
 ;1122463
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=IVEAGH BAY TOILETS
 StreetDesc=Centennial Dr, Moana/ Toilet
 Data0=(-42.61421,171.50156)
@@ -86163,7 +86163,7 @@ Data0=(-42.61421,171.50156)
 
 ;1122464
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=CASTLE HILL TOILET 24HR
 StreetDesc=Castle Hill Dr, Castle Hill/ Toilet
 zip=24/7
@@ -86172,7 +86172,7 @@ Data0=(-43.20868,171.71504)
 
 ;1122465
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=OTEMATATA PARK TOILETS
 StreetDesc=West Rd, Otematata/ Toilet
 Data0=(-44.60565,170.19243)
@@ -86493,7 +86493,7 @@ Data0=(-45.86710,170.49014)
 
 ;1122616
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=JELLIE PARK TOILETS 24HR
 StreetDesc=Greers Rd, Chc/ Toilet
 zip=24/7
@@ -86502,7 +86502,7 @@ Data0=(-43.50718,172.57926)
 
 ;1122617
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=WARREN PARK TOILET
 StreetDesc=Oakley Cres, Hornby/ Toilet
 Data0=(-43.55652,172.53410)
@@ -88421,7 +88421,7 @@ Data0=(-43.60130,172.71709)
 
 ;1126086
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=SUMNER SURF CLUB PUBLIC TOILET
 StreetDesc=Main Rd, Sumner/ Public Toilet, Changing Room
 Data0=(-43.56624,172.75615)
@@ -88429,7 +88429,7 @@ Data0=(-43.56624,172.75615)
 
 ;1126087
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=HILLSBOROUGH PARK TOILET
 StreetDesc=Opawa Rd, Opawa/ Public Toilet
 Data0=(-43.56076,172.67323)
@@ -92664,7 +92664,7 @@ Data0=(-42.51742,172.82936)
 
 ;1128896
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=CHISHOLM AVE TOILETS
 StreetDesc=Chisholm Ave, Hanmer Springs/ Toilet
 Data0=(-42.51983,172.82842)
@@ -92672,7 +92672,7 @@ Data0=(-42.51983,172.82842)
 
 ;1128907
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=CULVERDEN TOILETS
 StreetDesc=Mountainview Rd, Culverden/ Toilet
 Data0=(-42.77502,172.84682)
@@ -112258,7 +112258,7 @@ Data0=(-43.54060,172.60310)
 
 ;1135198
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=RANGITATA HUTS TOILET 24HR
 StreetDesc=Rangitata Huts Rd/ Toilet
 zip=24/7
@@ -112277,7 +112277,7 @@ Data0=(-43.53521,172.64081)
 
 ;1135218
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=QUEENS GARDENS TOILET DUNEDIN 24HR
 StreetDesc=Queen Gardens, Dud/ Public toilet
 zip=24 hours
@@ -112916,7 +112916,7 @@ Data0=(-43.53910,172.56717)
 
 ;1136908
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=?TIMARU PORT TOILETS
 StreetDesc=78 Caroline Bay Canterbury 7910/ Public toilet
 Data0=(-44.39188,171.25108)
@@ -113094,7 +113094,7 @@ Data0=(-42.52153,172.82960)
 
 ;1136959
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=BURNSIDE PARK TOILET
 StreetDesc=Avonhead Rd, Burnside/ Toilet
 Data0=(-43.50502,172.56427)
@@ -113102,7 +113102,7 @@ Data0=(-43.50502,172.56427)
 
 ;1136960
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=MT GREY CARPARK TOILET
 StreetDesc=Mt Grey Rd/ Toilet
 Data0=(-43.13640,172.55390)
@@ -113110,7 +113110,7 @@ Data0=(-43.13640,172.55390)
 
 ;1136961
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=MAYFIELD DOMAIN TOILET
 StreetDesc=Arundel Rakaia Gorge Rd, Mayfield/ Toilet
 Data0=(-43.82015,171.42445)
@@ -113118,7 +113118,7 @@ Data0=(-43.82015,171.42445)
 
 ;1136962
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=HORSESHOE LAKE TOILET 24HR
 StreetDesc=Lake Terrace Rd, Burwood/ Toilet
 zip=24/7
@@ -118469,7 +118469,7 @@ Data0=(-46.41174,168.34929)
 
 ;1139009
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=SHARK PARK TOILET
 StreetDesc=McCormacks Bay Rd, McCormacks Bay, Chc/ Toilet
 Data0=(-43.55807,172.72867)
@@ -121015,7 +121015,7 @@ Data0=(-45.02369,168.66235)
 
 ;1140874
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=GREY NATURE RESERVETOILET
 StreetDesc=Okuku Rd, Ashley Forest/ Toilet
 Data0=(-43.11714,172.49713)
@@ -130181,7 +130181,7 @@ Data0=(-41.27364,173.26106)
 
 ;1144714
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=CASCADE CREEK TOILET 2 24HR
 StreetDesc=Te Anau-Milford Hwy/ Basic Toilet
 zip=24/7
@@ -130190,7 +130190,7 @@ Data0=(-44.89570,168.07915)
 
 ;1144715
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=CASCADE CREEK TOILET 1 24HR
 StreetDesc=Te Anau-Milford Hwy/ Basic Toilet
 zip=24/7
@@ -130199,7 +130199,7 @@ Data0=(-44.89462,168.08210)
 
 ;1144716
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=DEER FLAT TOILET 1 24HR
 StreetDesc=Te Anau-Milford Hwy/ Basic Toilet
 zip=24/7
@@ -130208,7 +130208,7 @@ Data0=(-44.99982,168.00773)
 
 ;1144717
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=HOMER HUT TOILET 24HR
 StreetDesc=Te Anau-Milford Hwy/ Basic Toilet
 zip=24/7
@@ -130217,7 +130217,7 @@ Data0=(-44.76822,168.00270)
 
 ;1144718
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=MARIAN FALLS CARPARK TOILET 24HR
 StreetDesc=Lower Hollyford Rd/ Basic Toilet
 zip=24/7
@@ -130226,7 +130226,7 @@ Data0=(-44.80793,168.10323)
 
 ;1144719
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=TEMUKA GARDENS TOILET
 StreetDesc=Domain Ave, Temuka/ Toilet
 Data0=(-44.24883,171.28235)
@@ -130234,7 +130234,7 @@ Data0=(-44.24883,171.28235)
 
 ;1144720
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=TE ANAU FORESHORE TOILET
 StreetDesc=Te Anau Tce, Te Anau/ Toilet
 Data0=(-45.41660,167.71130)
@@ -130242,7 +130242,7 @@ Data0=(-45.41660,167.71130)
 
 ;1144721
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=OAMARU GARDENS TOILET
 StreetDesc=Chelmer St, Oamaru/ Toilet
 Data0=(-45.09783,170.96022)
@@ -131697,7 +131697,7 @@ Data0=(-44.48847,169.96808)
 
 ;1145231
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=HAWEA ESPLANADE TOILET
 StreetDesc=Esplanade Reserve, Lake Hawea/ toilet
 Data0=(-44.61017,169.27358)
@@ -137186,7 +137186,7 @@ Data0=(-43.70636,171.39772)
 
 ;1148311
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=BARNETT PARK TOILETS 1
 StreetDesc=Barnett Park, Main Rd, Redcliffs/ Toilet
 Data0=(-43.56357,172.74003)
@@ -137194,7 +137194,7 @@ Data0=(-43.56357,172.74003)
 
 ;1148312
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=BARNETT PARK TOILETS 2
 StreetDesc=Barnett Park, Main Rd, Redcliffs/ Toilet
 Data0=(-43.56510,172.74027)
@@ -142938,7 +142938,7 @@ Data0=(-46.34859,168.39235)
 
 ;1152143
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=ROLLESTON RESERVE TOILETS
 StreetDesc=Opp. 57 Tennyson St./ Public Toilets
 Data0=(-43.59518,172.38232)
@@ -145753,7 +145753,7 @@ Data0=(-43.52994,172.63562)
 
 ;1153954
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=CHAMBERLAINS FORD TOILET
 StreetDesc=Leeston Rd, Irwell, Canterbury 7683, New Zealand/ Public Toilet
 Data0=(-43.68821,172.37447)
@@ -151704,7 +151704,7 @@ Data0=(-42.39342,173.67940)
 
 ;1158553
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=MOTUKARARA TOILET
 StreetDesc=180-232 Park Rd, Canterbury 7672, New Zealand/ Toilet
 Data0=(-43.73003,172.59147)
@@ -163122,7 +163122,7 @@ Data0=(-43.30234,172.05918)
 
 ;1164583
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=TOWER JUNCTION TOILET
 StreetDesc=Tower Junction, Near Foster St, Riccarton/ Toilet
 Data0=(-43.53798,172.60613)
@@ -163691,7 +163691,7 @@ Data0=(-43.56271,172.65702)
 
 ;1165162
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=SOUTH HAGLEY PARK TOILET
 StreetDesc=Deans Ave, Chc/ toilet
 Data0=(-43.53663,172.61338)
@@ -163715,7 +163715,7 @@ Data0=(-43.47288,172.70772)
 
 ;1165193
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=BROADHAVEN PARK TOILET
 StreetDesc=Cnr Aston Dr & Bower Ave, Chc/ Toilet
 Data0=(-43.47315,172.70847)
@@ -174818,7 +174818,7 @@ Data0=(-45.86255,170.51375)
 
 ;1170710
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=KAIKOURA PUBLIC TOILETS 24HR
 StreetDesc=Northern end of the West End carpark, Ctr of Kaikoura township/ Public Toilet Ka
 zip=24/7
@@ -174827,7 +174827,7 @@ Data0=(-42.40122,173.68187)
 
 ;1170711
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=NORTH HAGLEY PARK TOILETS 24HR
 StreetDesc=Chc, Canterbury, New Zealand/ Toilet
 zip=24/7
@@ -175339,7 +175339,7 @@ Data0=(-41.28324,173.27722)
 
 ;1171020
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=SUPERLOO
 StreetDesc=75 Montgomery Sq Nelson 7010/ Public Toilet
 Data0=(-41.27350,173.28243)
@@ -175939,7 +175939,7 @@ Data0=(-43.53343,172.63625)
 
 ;1171232
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=CASHMERE ROAD PARK PUBLIC TOILETS
 StreetDesc=Cashmere Rd/ Public Toilets
 Data0=(-43.56890,172.62570)
@@ -177647,7 +177647,7 @@ Data0=(-41.32088,173.22557)
 
 ;1171862
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=BOTANICAL GARDEN TOILETS 24HR
 StreetDesc=121 Domain Ave Timaru Canterbury 7910/ Toilet
 zip=24 hours
@@ -178928,7 +178928,7 @@ Data0=(-41.27451,173.28648)
 
 ;1172350
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=ELTERWATER? TOILET
 StreetDesc=State Hwy 1, North of Ward/ Toilet
 Data0=(-41.79620,174.14788)
@@ -183249,7 +183249,7 @@ Data0=(-41.51462,173.95660)
 
 ;1173595
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=LYTTLETON PUBLIC TOILETS
 StreetDesc=20 Oxford St, Lyttelton/ Public Toilets
 Data0=(-43.60329,172.72267)
@@ -184366,7 +184366,7 @@ Data0=(-43.55863,172.67338)
 
 ;1173880
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=HEATHCOTE DOMAIN TOILET
 StreetDesc=Port Hills Rd, Heathcote Valley/ toilet
 Data0=(-43.57983,172.70674)
@@ -184374,7 +184374,7 @@ Data0=(-43.57983,172.70674)
 
 ;1173881
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=SUMNER SHOPS PUBLIC TOILET
 StreetDesc=Outside Library, Wakefield Ave, Sumner/ toilet
 Data0=(-43.56905,172.75891)
@@ -184382,7 +184382,7 @@ Data0=(-43.56905,172.75891)
 
 ;1173882
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=SUMNER ESPLANADE TOILET
 StreetDesc=The Esplanade, Sumner/ toilet
 Data0=(-43.57337,172.77003)
@@ -185082,7 +185082,7 @@ Data0=(-43.57718,172.63030)
 
 ;1174273
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=FROME ST TOILET
 StreetDesc=415 Thames Hwy Casa Nova 9400/ Toilet
 Data0=(-45.08058,170.98242)
@@ -186253,7 +186253,7 @@ Data0=(-43.46172,172.59220)
 
 ;1174656
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=TOILET OF DESPERATION 24HR
 StreetDesc=Kerr Rd, Cave/ toilet
 zip=24 hours
@@ -186262,7 +186262,7 @@ Data0=(-44.30728,170.95538)
 
 ;1174659
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=AHURIRI RIVER TOILET
 StreetDesc=Birchwood Rd, Omarama/ Toilet
 Data0=(-44.33025,169.61315)
@@ -189886,7 +189886,7 @@ Data0=(-43.53028,172.57544)
 
 ;1177233
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=OUTRAM PUBLIC TOILETS 24HR
 StreetDesc=Outram/ toilet
 zip=24 hours
@@ -190044,7 +190044,7 @@ Data0=(-43.48896,172.56544)
 
 ;1177308
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=BEACH RD TOILETS
 StreetDesc=Beach Rd, Kaikoura/ Public Toilets
 Data0=(-42.37657,173.68126)
@@ -190052,7 +190052,7 @@ Data0=(-42.37657,173.68126)
 
 ;1177309
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=SOUTH BAY TOILET
 StreetDesc=South Bay at the start of the Peninsula Walkway/ Public Toilet South Bay Kaikour
 Data0=(-42.42504,173.68741)
@@ -190060,7 +190060,7 @@ Data0=(-42.42504,173.68741)
 
 ;1177310
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=MOA POINT PUBLIC TOILETS, KAIKOURA
 StreetDesc=Near the Whale Watch boat moorings/ Public Toilet South Bay, Kaikoura
 Data0=(-42.42612,173.68232)
@@ -190068,7 +190068,7 @@ Data0=(-42.42612,173.68232)
 
 ;1177311
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=GOOCNES BEACH PUBLIC TOILETS, KAIKOURA
 StreetDesc=Gooches Beach Playground, just past the swimming pool/ Public Toilet Kaikoura
 Data0=(-42.41375,173.69106)
@@ -190076,7 +190076,7 @@ Data0=(-42.41375,173.69106)
 
 ;1177312
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=JIMMY ARMERS BEACH TOILETS, KAIKOURA
 StreetDesc=Jimmy Armers Beach (on the way to the Seal Colony)/ Public Toilet, Kaikoura
 Data0=(-42.41890,173.70590)
@@ -190084,7 +190084,7 @@ Data0=(-42.41890,173.70590)
 
 ;1177313
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=PUBLIC TOILETS, MANGAMAUNU SURF, KAIKOURA
 StreetDesc=Seaward side Kiwa Rd, Mangamaunu (Meatworks) Surf Spot/ Public Toilets, Mangamau
 Data0=(-42.32016,173.74947)
@@ -190683,7 +190683,7 @@ Data0=(-43.56247,172.64739)
 
 ;1177605
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=BLUE LAGOON DRIVE TOILETS
 StreetDesc=15 Blue Lagoon Dr, Brooklands, Chc 8083, New Zealand/ Toilet
 Data0=(-43.39693,172.70122)
@@ -190691,7 +190691,7 @@ Data0=(-43.39693,172.70122)
 
 ;1177606
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=KAINGA HALL TOILETS
 StreetDesc=159 Kainga Rd, Kainga, Chc 8083, New Zealand/ Toilet
 Data0=(-43.40952,172.66408)
@@ -193944,7 +193944,7 @@ Data0=(-43.54520,172.64867)
 
 ;1179216
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=CHEVIOT PUBLIC TOILET
 StreetDesc=Cnr SH1 & Cadman St, Cheviot/ Toilet
 Data0=(-42.81115,173.27403)
@@ -194776,7 +194776,7 @@ Data0=(-43.96488,171.77312)
 
 ;1179817
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=PUBLIC TOILETS LAKE HOOD
 StreetDesc=Lake Hood, Ashburton/ Public Toilet
 Data0=(-43.96397,171.77307)
@@ -195082,7 +195082,7 @@ Data0=(-43.53367,172.60645)
 
 ;1180167
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=WAIHOLA PUBLIC TOILETS.
 StreetDesc=Waihola pl. Waihola./ Community public toilets
 Data0=(-46.02291,170.09282)
@@ -195109,7 +195109,7 @@ Data0=(-45.87669,170.50239)
 
 ;1180181
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=GLENDHU BAY TOILET
 StreetDesc=Glendhu Bay/ Toilet
 Data0=(-44.66870,169.03332)
@@ -195117,7 +195117,7 @@ Data0=(-44.66870,169.03332)
 
 ;1180182
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=WANAKA LAKEFRONT TOILET
 StreetDesc=Ardmore St, Wanaka/ Public Toilet
 Data0=(-44.69422,169.13537)
@@ -195125,7 +195125,7 @@ Data0=(-44.69422,169.13537)
 
 ;1180183
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=DUNGARVON ST TOILET
 StreetDesc=Dungarvon St, Wanaka/ Public Toilet
 Data0=(-44.69675,169.13333)
@@ -195152,7 +195152,7 @@ Data0=(-44.48483,169.97118)
 
 ;1180186
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=LUGGATE TOILET
 StreetDesc=Luggate/ Toilet
 Data0=(-44.74962,169.27108)
@@ -195160,7 +195160,7 @@ Data0=(-44.74962,169.27108)
 
 ;1180187
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=HAMPDEN TOILET
 StreetDesc=Hampden/ Toilet
 Data0=(-45.32460,170.81710)
@@ -195168,7 +195168,7 @@ Data0=(-45.32460,170.81710)
 
 ;1180189
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=DUNEDIN STATION PUBLIC TOILETS 24HR
 StreetDesc=South end of Dud Railway Station in carpark./ Community public toilets.
 zip=24 Hrs.
@@ -195177,7 +195177,7 @@ Data0=(-45.87589,170.50804)
 
 ;1180190
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=MOSGIEL PUBLIC TOILETS 24HR
 StreetDesc=Corner of Factory Rd and Gordon Rd, Mosgiel./ Community public toilets
 zip=24 Hrs.
@@ -195186,7 +195186,7 @@ Data0=(-45.87396,170.34797)
 
 ;1180192
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=PALMERSTON PUBLIC TOILETS
 StreetDesc=North end of Palmerston Railway Station./ Community public toilets
 Data0=(-45.48434,170.71622)
@@ -195194,7 +195194,7 @@ Data0=(-45.48434,170.71622)
 
 ;1180193
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=RANFURLY PUBLIC TOILETS
 StreetDesc=3 Charlemont St, Ranfurly./ Community public toilets
 Data0=(-45.13025,170.09936)
@@ -195510,7 +195510,7 @@ Data0=(-44.82617,169.42935)
 
 ;1180435
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=ARAMOANA PUBLIC TOILETS
 StreetDesc=36 Moana St, Aramoana/ Community public toilets
 Data0=(-45.77923,170.70375)
@@ -195845,7 +195845,7 @@ Data0=(-46.40955,168.34871)
 
 ;1180803
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=MIDDLEMARCH PUBLIC TOILETS
 StreetDesc=11 Browns Rd, Middlemarch./ Community public toilets
 Data0=(-45.50756,170.11858)
@@ -196212,7 +196212,7 @@ Data0=(-45.03236,168.68360)
 
 ;1181012
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=RAKAIA TOILETS
 StreetDesc=/ Public Toilet
 Data0=(-43.75513,172.02501)
@@ -196324,7 +196324,7 @@ Data0=(-43.52859,171.69835)
 
 ;1181054
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=RAKAIA GORGE REST AREA
 StreetDesc=SH77 Rakaia Gorge/ Rest Area Toilets Tables
 Data0=(-43.51925,171.65419)
@@ -196364,7 +196364,7 @@ Data0=(-42.00842,174.00619)
 
 ;1181059
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=PAIA POINT REST AREA & CAMPING GROUND
 StreetDesc=SH1 Paia Point/ Rest Area Toilets Tables
 Data0=(-42.47223,173.53574)
@@ -196513,7 +196513,7 @@ Data0=(-45.65258,170.58480)
 
 ;1181105
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=CAROLINE BAY REST AREA
 StreetDesc=Marine Parade Caroline Bay Timaru/ Rest Area Toilets Tables
 Data0=(-44.39064,171.25302)
@@ -196521,7 +196521,7 @@ Data0=(-44.39064,171.25302)
 
 ;1181109
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=LAKE BENMORE REST AREA
 StreetDesc=SH83 Lake Benmore/ Rest Area Toilets
 Data0=(-44.53301,170.06940)
@@ -198163,7 +198163,7 @@ Data0=(-46.24404,168.32273)
 
 ;1181437
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=VICTORIA SQUARE TOLIETS
 StreetDesc=62 Russell St Westport 7825/ Toliets
 Data0=(-41.75438,171.60009)
@@ -198179,7 +198179,7 @@ Data0=(-43.51763,171.80219)
 
 ;1181443
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=TOILET NUMBER 1
 StreetDesc=-43.290665, 171.526288/ Toilet
 Data0=(-43.29066,171.52629)
@@ -198187,7 +198187,7 @@ Data0=(-43.29066,171.52629)
 
 ;1181444
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=TOILET NUMBER 2
 StreetDesc=785-1063 Algidus Rd, Lake Coleridge 7572, New Zealand/ Toilet
 Data0=(-43.28917,171.52809)
@@ -198195,7 +198195,7 @@ Data0=(-43.28917,171.52809)
 
 ;1181445
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=OAKDENTOILET
 StreetDesc=Oakden Canal, Lake Coleridge/ Toilet
 Data0=(-43.22906,171.44117)
@@ -198203,7 +198203,7 @@ Data0=(-43.22906,171.44117)
 
 ;1181450
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=CHARTERIS BAY TOILETS
 StreetDesc=6 Ohinehau Ln, Charteris Bay 8971, New Zealand/ Toilet
 Data0=(-43.63418,172.71159)
@@ -198238,7 +198238,7 @@ Data0=(-41.12725,173.02166)
 
 ;1181465
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=ASHBURTON DOMAIN TOILET 1
 StreetDesc=Hinds Hwy, Ashburton Central 7700, New Zealand/ Toilet, Domain, Photos
 Data0=(-43.89824,171.75531)
@@ -198246,7 +198246,7 @@ Data0=(-43.89824,171.75531)
 
 ;1181466
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=ASHBURTON DOMAIN TOILET 2
 StreetDesc=358 West St, Allenton 7700, New Zealand/ Toilet, Domain, Photos
 Data0=(-43.89800,171.75241)
@@ -198254,7 +198254,7 @@ Data0=(-43.89800,171.75241)
 
 ;1181467
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=TINWALD DOMAIN TOILET
 StreetDesc=62 Maronan Rd, Tinwald 7778, New Zealand/ Toilet, Domain, Photos
 Data0=(-43.92401,171.70667)
@@ -199834,7 +199834,7 @@ Data0=(-45.03234,168.65893)
 
 ;1188865
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=GALLERY TOILETS
 StreetDesc=9 Rolleston Ave Chc Central 8013/ Public toilets
 Data0=(-43.53097,172.62585)
@@ -200251,7 +200251,7 @@ Data0=(-43.47718,172.68581)
 
 ;1189119
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=TOILETS
 StreetDesc=Oparara/ Toilets
 Data0=(-41.15148,172.19053)
@@ -201183,7 +201183,7 @@ Data0=(-43.54550,172.64344)
 
 ;1189613
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=LORNE ST TOILET
 StreetDesc=Lorne St, South Dud/ Public toilet
 Data0=(-45.89400,170.49920)
@@ -201829,7 +201829,7 @@ Data0=(-43.54510,172.63364)
 
 ;1189973
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=WAIKAWA MARINA TOILETS
 StreetDesc=Marina Dr, Waikawa Bay/ Toilet
 Data0=(-41.26552,174.03660)
@@ -201837,7 +201837,7 @@ Data0=(-41.26552,174.03660)
 
 ;1189974
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=WAIKAWA MARINA TOILETS
 StreetDesc=Marina Dr, Waikawa Bay/ Toilet
 zip=6am-7pm
@@ -201846,7 +201846,7 @@ Data0=(-41.26343,174.03772)
 
 ;1189975
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=WAIKAWA MARINA TOILETS
 StreetDesc=Beach Rd, Waikawa Bay/ Toilet
 Data0=(-41.26702,174.03967)
@@ -201854,7 +201854,7 @@ Data0=(-41.26702,174.03967)
 
 ;1189976
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=WAIKAWA BAY TOILETS
 StreetDesc=Waikawa Rd, Waikawa Bay/ Toilet
 Data0=(-41.26707,174.04747)
@@ -201862,7 +201862,7 @@ Data0=(-41.26707,174.04747)
 
 ;1189977
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=ENDEAVOUR PARK TOILETS
 StreetDesc=Admiralty Pl, Waikawa/ Toilet
 Data0=(-41.27650,174.02452)
@@ -201870,7 +201870,7 @@ Data0=(-41.27650,174.02452)
 
 ;1189978
 [POI]
-Type=0x2f0c
+Type=0x4e00
 Label=PICTON FORESHORE TOILETS
 StreetDesc=London Qy, Picton/ Toilet
 Data0=(-41.28915,174.00873)

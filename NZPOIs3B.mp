@@ -375,7 +375,7 @@ Data0=(-43.49839,172.60891)
 
 ;1001820
 [POI]
-Type=0x2a
+Type=0x2a08
 Label=LA PORCHETTA RICCARTON MALL
 StreetDesc=Shop S314, Rotherham St, Riccarton, Chc/ italian restaurant, pizza, pasta, takea
 Phone=+6433487990
@@ -591,7 +591,7 @@ Data0=(-44.38317,171.23869)
 
 ;1002632
 [POI]
-Type=0x2a
+Type=0x2a0a
 Label=PIZZA HUT ASHBURTON
 StreetDesc=84 East St, Ashburton/ pizza, takeaways
 Phone=0800838383
@@ -600,7 +600,7 @@ Data0=(-43.90742,171.74354)
 
 ;1002653
 [POI]
-Type=0x2a
+Type=0x2a0a
 Label=PIZZA HUT BLENHEIM
 StreetDesc=17C Maxwell Rd, Blenheim/ pizza, takeaways
 Phone=0800838383
@@ -609,7 +609,7 @@ Data0=(-41.51491,173.95579)
 
 ;1002674
 [POI]
-Type=0x2a
+Type=0x2a0a
 Label=PIZZA HUT BRYNDWR
 StreetDesc=261 Greers Rd, Bryndwr, Chc/ pizza, takeaways
 Phone=0800838383
@@ -618,7 +618,7 @@ Data0=(-43.49985,172.58579)
 
 ;1002688
 [POI]
-Type=0x2a
+Type=0x2a0a
 Label=PIZZA HUT CHURCH CORNER
 StreetDesc=Corner Riccarton & Waimairi Roads, Chc/ pizza, takeaways
 Phone=0800838383
@@ -627,7 +627,7 @@ Data0=(-43.53019,172.57476)
 
 ;1002709
 [POI]
-Type=0x2a
+Type=0x2a0a
 Label=PIZZA HUT DUNEDIN NORTH
 StreetDesc=808 Great King St, Dud North/ pizza, takeaways
 Phone=0800838383
@@ -636,7 +636,7 @@ Data0=(-45.85795,170.51419)
 
 ;1002716
 [POI]
-Type=0x2a
+Type=0x2a0a
 Label=PIZZA HUT DUNEDIN SOUTH
 StreetDesc=111 Hillside Rd, Dud South/ pizza, takeaways
 Phone=0800838383
@@ -645,7 +645,7 @@ Data0=(-45.89291,170.49952)
 
 ;1002737
 [POI]
-Type=0x2a
+Type=0x2a0a
 Label=PIZZA HUT FERRYMEAD
 StreetDesc=Shop 13, 1005 Ferry Rd, Ferrymead, Chc/ pizza, takeaways
 Phone=0800838383
@@ -654,7 +654,7 @@ Data0=(-43.55680,172.70008)
 
 ;1002772
 [POI]
-Type=0x2a
+Type=0x2a0a
 Label=PIZZA HUT GORE
 StreetDesc=121 Main St, Gore/ pizza, takeaways
 Phone=0800838383
@@ -28688,7 +28688,7 @@ Data0=(-46.36433,168.35630)
 
 ;1091287
 [POI]
-Type=0x2a07
+Type=0x2a0a
 Label=HELL PIZZA INVERCARGILL
 StreetDesc=10 Dee St, Invercargill/ Gourmet pizza restaurant, takeaways, deliveries
 Phone=+6432150666
@@ -30219,7 +30219,7 @@ Data0=(-45.09944,170.96973)
 
 ;1093706
 [POI]
-Type=0x2a
+Type=0x2a08
 Label=FILADELFIO'S CHRISTCHURCH
 StreetDesc=150 Colombo St, Chc/ Gourmet pizza restaurant & bar, pasta, coffee, deserts, big
 Phone=+6433316674
@@ -32326,7 +32326,7 @@ Data0=(-43.53543,172.63648)
 
 ;1094864
 [POI]
-Type=0x2a0e
+Type=0x2a0a
 Label=WINNIE BAGOES
 StreetDesc=Unit 3, 2 Waterman Place, Ferrymead, Chc/ Gourmet pizza restaurant
 Phone=+6433666315
@@ -32336,7 +32336,7 @@ Data0=(-43.55617,172.69747)
 
 ;1094865
 [POI]
-Type=0x2a0e
+Type=0x2a0a
 Label=WINNIES
 StreetDesc=7-9 The Mall, Queenstown/ Gourmet Pizza Restaurant & Bar
 Phone=+6434428635
@@ -37845,7 +37845,7 @@ Data0=(-43.50943,172.72023)
 
 ;1099283
 [POI]
-Type=0x2a07
+Type=0x2a0a
 Label=SPAGALIMIS BECKENHAM
 StreetDesc=300 Colombo St, Chc/ Pizza Takeaway or delivery
 Phone=0800113113
@@ -37855,7 +37855,7 @@ Data0=(-43.54909,172.63692)
 
 ;1099284
 [POI]
-Type=0x2a
+Type=0x2a0a
 Label=SPAGALIMIS CENTRAL CITY
 StreetDesc=155 Victoria St, Chc/ Pizza Restaurant, takeaway or delivery
 Phone=0800113113
@@ -37865,7 +37865,7 @@ Data0=(-43.52244,172.62898)
 
 ;1099285
 [POI]
-Type=0x2a
+Type=0x2a0a
 Label=SPAGALIMIS CHURCH CORNER
 StreetDesc=374 Riccarton Rd, Chc/ Pizza Restaurant, takeaway or delivery
 Phone=0800113113
@@ -37875,7 +37875,7 @@ Data0=(-43.53168,172.57352)
 
 ;1099286
 [POI]
-Type=0x2a
+Type=0x2a0a
 Label=SPAGALIMIS NEW BRIGHTON
 StreetDesc=218 Marine Parade, Chc/ Pizza Restaurant, takeaway or delivery
 Phone=0800113113
@@ -37885,7 +37885,7 @@ Data0=(-43.50738,172.73080)
 
 ;1099287
 [POI]
-Type=0x2a
+Type=0x2a0a
 Label=SPAGALIMIS PAPANUI
 StreetDesc=Shop 1, Northlands Shopping Mall, 55 Main North Rd, Papanui, Chc/ Pizza Restaura
 Phone=0800113113
@@ -73623,7 +73623,7 @@ Data0=(-44.69398,169.13682)
 
 ;1118299
 [POI]
-Type=0x2a
+Type=0x2a0a
 Label=THE COW RESTAURANT WANAKA
 StreetDesc=Post Office La, Wanaka/ Pizza, Pasta
 Phone=+6434435010
@@ -73660,7 +73660,7 @@ Data0=(-45.61867,170.66420)
 
 ;1118316
 [POI]
-Type=0x2a
+Type=0x2a0a
 Label=ZEST PIZZA, RESTAURANT AND BAR
 StreetDesc=4A Elizabeth St/ cafe, restaurant, coffee, takeaways
 Phone=+6436888313
@@ -74935,7 +74935,7 @@ Data0=(-43.60246,172.72018)
 
 ;1118743
 [POI]
-Type=0x2a
+Type=0x2a08
 Label=LA TOSCANA PIZZERIA & SPAGHETTERIA
 StreetDesc=108 Town Ctr, Te Anau/ Italian restaurant, BYO, pizza, takeaways, delivery
 Phone=+6432497756
@@ -76183,7 +76183,7 @@ Data0=(-41.27261,173.28555)
 
 ;1119575
 [POI]
-Type=0x2a
+Type=0x2a0a
 Label=THE HOT ROCK GOURMET PIZZA PASTA BAR
 StreetDesc=10 Tahunanui Dr,   Tahunanui, Nelson/ Pizza
 Phone=+6435464421
@@ -76572,7 +76572,7 @@ Data0=(-41.10967,173.01138)
 
 ;1119624
 [POI]
-Type=0x2a
+Type=0x2a0a
 Label=PIZZA BAR
 StreetDesc=105 Hardy St, Nelson/ Italian restaurant, takeaways
 Phone=+6435488990
@@ -78821,7 +78821,7 @@ Data0=(-43.53110,172.59738)
 
 ;1120175
 [POI]
-Type=0x2a07
+Type=0x2a0a
 Label=NEW SLICE PIZZA
 StreetDesc=34E Shotover St, Queenstown/ Pizza restaurant. Takeaways, home delivery
 Phone=+6434424240
@@ -88559,7 +88559,7 @@ Data0=(-45.04064,168.69375)
 
 ;1128354
 [POI]
-Type=0x2a07
+Type=0x2a0a
 Label=HELL PIZZA DUNEDIN SOUTH
 StreetDesc=17 Hillside Rd, Dud/ Gourmet pizza restaurant, takeaways, deliveries
 Phone=+6434558666
@@ -90921,7 +90921,7 @@ Data0=(-45.88281,170.35305)
 
 ;1128659
 [POI]
-Type=0x2a
+Type=0x2a0a
 Label=MOSGIEL PIZZA AND FOOD BAR
 StreetDesc=167 Gordon Rd, Mosgiel/ Pizza restaurant
 Data0=(-45.87225,170.34691)
@@ -91280,7 +91280,7 @@ Data0=(-45.87449,170.50421)
 
 ;1128705
 [POI]
-Type=0x2f
+Type=0x2a0a
 Label=POPPA'S PIZZA
 StreetDesc=74 Albany St, Dud/ 
 Data0=(-45.86724,170.51183)
@@ -98235,7 +98235,7 @@ Data0=(-43.50763,172.72836)
 
 ;1131373
 [POI]
-Type=0x2a
+Type=0x2a0a
 Label=HONEY POT PIZZA BAR
 StreetDesc=112A Lichfield St, Chc/ bar, restaurant
 Data0=(-43.53432,172.63930)
@@ -100994,7 +100994,7 @@ Data0=(-43.52031,172.68307)
 
 ;1131738
 [POI]
-Type=0x2f
+Type=0x2a0a
 Label=PAPAS PIZZAS
 StreetDesc=204 Hills Rd, Chc/ 
 Data0=(-43.50864,172.65189)
@@ -101983,7 +101983,7 @@ Data0=(-43.50736,172.72855)
 
 ;1131872
 [POI]
-Type=0x2f
+Type=0x2a0a
 Label=SASHA'S PIZZA
 StreetDesc=266 High St, Chc/ 
 Data0=(-43.53234,172.63733)
@@ -108111,7 +108111,7 @@ Data0=(-46.41813,168.35658)
 
 ;1134457
 [POI]
-Type=0x2a07
+Type=0x2a0a
 Label=DA VINCIS PIZZERIA
 StreetDesc=300 Dee St, Invercargill/ Pizza, takeaways
 Phone=+6432182184
@@ -108189,7 +108189,7 @@ Data0=(-46.41065,168.34878)
 
 ;1134466
 [POI]
-Type=0x2a07
+Type=0x2a0a
 Label=DOMINO'S PIZZA INVERCARGILL
 StreetDesc=Shop 4, 82 Dee St, Invercargill/ Pizza, takeaways
 Phone=+6432145454
@@ -110584,7 +110584,7 @@ Data0=(-41.80213,172.84705)
 
 ;1134968
 [POI]
-Type=0x2a07
+Type=0x2a0a
 Label=HELL PIZZA NELSON
 StreetDesc=42 Tahunanui Dr, Nelson/ Gourmet pizza restaurant, takeaways, deliveries
 Phone=+6435486664
@@ -110890,7 +110890,7 @@ Data0=(-41.32057,173.22489)
 
 ;1135005
 [POI]
-Type=0x2f
+Type=0x2a0a
 Label=DADDIOS PIZZA & MAIN TURKISH KEBAB
 StreetDesc=9 Strawbridge Sq, Stoke, Nelson/ 
 Phone=+6435470440
@@ -111072,7 +111072,7 @@ Data0=(-41.20849,173.34146)
 
 ;1135027
 [POI]
-Type=0x2f
+Type=0x2a0a
 Label=GIANNI PIZZA
 StreetDesc=24 Alton St, Nelson/ 
 Data0=(-41.27599,173.28947)
@@ -114009,7 +114009,7 @@ Data0=(-44.39959,171.25582)
 
 ;1137811
 [POI]
-Type=0x2a07
+Type=0x2a0a
 Label=DOMINO'S PIZZA TIMARU
 StreetDesc=88C Evans St, Timaru/ Takeaway pizza
 Phone=+6436883160
@@ -120651,7 +120651,7 @@ Data0=(-41.27421,173.28636)
 
 ;1139442
 [POI]
-Type=0x2a07
+Type=0x2a0a
 Label=DA VINCIS PIZZERIA
 StreetDesc=78 Medway St, Gore/ Pizza, takeaways
 Phone=0800727476
@@ -120847,7 +120847,7 @@ Data0=(-43.55676,172.70124)
 
 ;1140848
 [POI]
-Type=0x2a
+Type=0x2a0a
 Label=WINNIE BAGOES FERRYMEAD
 StreetDesc=Unit 3, 2 Waterman Pl, Ferrymead, Chc/ Gourmet pizza restaurant
 Phone=+6433764900
@@ -123411,7 +123411,7 @@ Data0=(-41.49128,173.87581)
 
 ;1141626
 [POI]
-Type=0x2a
+Type=0x2a0a
 Label=THE BEACHED WHALE
 StreetDesc=Inlet Rd, Kaiteriteri/ Restaurant, bar, gourmet pizza
 Phone=+6435278114
@@ -131076,7 +131076,7 @@ Data0=(-43.31056,172.59501)
 
 ;1144847
 [POI]
-Type=0x2f
+Type=0x2a0a
 Label=PIZZA PLUS
 StreetDesc=141C Williams St, Kaiapoi/ 
 Data0=(-43.38196,172.65808)
@@ -132674,7 +132674,7 @@ Data0=(-43.53481,172.65567)
 
 ;1146711
 [POI]
-Type=0x2f
+Type=0x2a0a
 Label=DOMINO'S PIZZA - ST ALBANS
 StreetDesc=72 Edgeware Rd, Chc/ 
 Data0=(-43.51356,172.63752)
@@ -133374,7 +133374,7 @@ Data0=(-43.48841,172.53879)
 
 ;1146803
 [POI]
-Type=0x2a07
+Type=0x2a0a
 Label=HELL PIZZA RICCARTON
 StreetDesc=70 Riccarton Rd, Chc/ Gourmet pizza restaurant, takeaways, deliveries
 Data0=(-43.52931,172.60390)
@@ -136109,7 +136109,7 @@ Data0=(-45.94306,169.25770)
 
 ;1147179
 [POI]
-Type=0x2a
+Type=0x2a0a
 Label=DA VINCIS PIZZERIA
 StreetDesc=81 Union St, Milton/ Pizza restaurant
 Data0=(-46.12110,169.95921)
@@ -149250,7 +149250,7 @@ Data0=(-43.53810,172.63949)
 
 ;1157182
 [POI]
-Type=0x2a07
+Type=0x2a0a
 Label=FAT PIPPI PIZZA
 StreetDesc=83 Revell St, Hokitika/ Pizza, takeaways
 Data0=(-42.71736,170.96111)
@@ -192370,7 +192370,7 @@ Data0=(-45.12916,170.09683)
 
 ;1178654
 [POI]
-Type=0x2a07
+Type=0x2a0a
 Label=HELL PIZZA QUEENSTOWN
 StreetDesc=Searle Lane, Queenstown/ Gourmet pizza restaurant, takeaways, deliveries
 Phone=+6434412666
@@ -193132,7 +193132,7 @@ Data0=(-45.87042,170.50543)
 
 ;1178906
 [POI]
-Type=0x2a
+Type=0x2a0a
 Label=SPAGALIMIS ITALIAN PIZZERIA
 StreetDesc=155 Victoria St, Central City, Chc Central 8013, Canterbury/ Pizza restaurants. 
 Phone=+6433773113
@@ -194650,7 +194650,7 @@ Data0=(-46.39279,168.35183)
 
 ;1179739
 [POI]
-Type=0x2a07
+Type=0x2a0a
 Label=PIZZA HUT WOOLSTON
 StreetDesc=642 Ferry Rd, Woolston/ pizza, takeaways
 Data0=(-43.55021,172.68398)
@@ -194658,7 +194658,7 @@ Data0=(-43.55021,172.68398)
 
 ;1179740
 [POI]
-Type=0x2a07
+Type=0x2a0a
 Label=DOMINO'S PIZZA GREYMOUTH
 StreetDesc=124 High St, Greymouth/ pizza takeaway
 Data0=(-42.46245,171.19606)

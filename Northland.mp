@@ -75828,7 +75828,7 @@ RouteParam=2,0,0,0,0,0,0,0,0,0,0,0
 Data0=(-34.98845,173.52197),(-34.98877,173.52255)
 Nod1=0,1003,0
 Nod2=1,1004,0
-Numbers1=0,O,3,3,E,2,2
+Numbers1=0,N,-1,-1,E,2,2
 [END]
 
-;@FILE,"C:\Users\Peter\Documents\NZOGPS\Numbers\Northland-numbers.gdb",0,"..\Numbers\Northland-numbers.gdb"
+;@FILE,"C:\Users\Peter\Documents\NZOGPS\Numbers\Northland-numbers.gdb",1,"..\Numbers\Northland-numbers.gdb"

@@ -111636,7 +111636,8 @@ Data0=(-41.28901,173.24016)
 [POI]
 Type=0x2b00
 Label=THE NELSON HOTEL
-StreetDesc=152 Bridge St, Nelson/ 
+StreetDesc=152 Bridge St, Nelson/ Hotel, Accomodation, Bar, Restaurant, Off license
+Phone=+6435469279
 Data0=(-41.27276,173.28677)
 [END]
 
@@ -122739,7 +122740,7 @@ Data0=(-45.17591,170.15376)
 
 ;1141262
 [POI]
-Type=0x2a
+Type=0x2a07
 Label=MCDONALD'S RESTAURANT - MOTUEKA
 StreetDesc=Cnr Whakarewa St & High St, Motueka/ Family restaurant. Burgers, fast food, take
 Phone=+6435390164
@@ -123134,11 +123135,11 @@ Data0=(-43.52068,172.63422)
 ;1141439
 [POI]
 Type=0x2f
-Label=?CASHMERE RADIOLOGY
+Label=CASHMERE RADIOLOGY
 StreetDesc=Princess Margaret Hospital, 95 Cashmere Rd, Chc/ Cashmere Radiology provides med
 Phone=+6433790770
 zip=Hours: Monday - Friday 8:00am - 5:00pm
-Data0=(-43.57148,172.61959)
+Data0=(-43.57071,172.62064)
 [END]
 
 ;1141440
@@ -151171,11 +151172,11 @@ Data0=(-43.54014,172.63458)
 ;1158094
 [POI]
 Type=0x2e07
-Label=?PUMPKIN PATCH OUTLET STORE DRESSMART FACTORY
+Label=PUMPKIN PATCH OUTLET STORE DRESSMART FACTORY
 StreetDesc=Shop 307, Cnr Main South Rd and Shands Rd, Chc/ Outlet store. Childrens fashion,
 Phone=+6433495069
 zip=Mon-Sun 10am-5pm
-Data0=(-43.54370,172.52416)
+Data0=(-43.54388,172.52460)
 [END]
 
 ;1158108
@@ -166188,14 +166189,6 @@ StreetDesc=Cnr Bealey Ave & Colombo St, Chc/
 Data0=(-43.52074,172.63644)
 [END]
 
-;1166129
-[POI]
-Type=0x2f
-Label=?CHRISTCHURCH RADIOLOGY GROUP, CASHMERE RADIOLOGY
-StreetDesc=Cashmere Rd, Cashmere, Chc/ 
-Data0=(-43.57530,172.60331)
-[END]
-
 ;1166130
 [POI]
 Type=0x2f
@@ -178155,9 +178148,9 @@ Data0=(-43.72884,172.24079)
 ;1172022
 [POI]
 Type=0x2d00
-Label=?KIRWEE TENNIS CLUB
+Label=KIRWEE TENNIS CLUB
 StreetDesc=High St, Kirwee, Canterbury/ Tennis club
-Data0=(-43.49739,172.21235)
+Data0=(-43.49668,172.21150)
 [END]
 
 ;1172025
@@ -178471,7 +178464,7 @@ Data0=(-43.51326,172.66448)
 ;1172137
 [POI]
 Type=0x2d00
-Label=?SOUTHBRIDGE TENNIS CLUB
+Label=SOUTHBRIDGE TENNIS CLUB
 StreetDesc=Cryer St, Southbridge, Canterbury/ Tennis club
 Data0=(-43.81033,172.25437)
 [END]
@@ -194983,7 +194976,7 @@ Data0=(-41.33639,173.18106)
 
 ;1180108
 [POI]
-Type=0x2a
+Type=0x2a07
 Label=MCDONALD'S RESTAURANT - QUEENSTOWN, FRANKTON 24HR
 StreetDesc=1055-1063 Frankton Rd, Frankton, Queenstown/ Family restaurant. Burgers, fast fo
 Phone=+6434414257
@@ -194993,7 +194986,7 @@ Data0=(-45.01613,168.72917)
 
 ;1180109
 [POI]
-Type=0x2a
+Type=0x2a07
 Label=MCDONALD'S RESTAURANT - GORE 24HR
 StreetDesc=140 Main St, Gore/ Family restaurant. Burgers, fast food, takeaways. McCafe cafe
 Phone=+6432039120
@@ -202672,5 +202665,23 @@ StreetDesc=17A Murray Terrace, Cromwell/ Surveying and Resource Management
 Phone=+6434450376
 zip=9am-5pm
 Data0=(-45.03621,169.19626)
+[END]
+
+;1190470
+[POI]
+Type=0x2e
+Label=LAWNTECH MOWING & GARDENING
+StreetDesc=293 Queens Dr, Invercargill, NZ/ Gardening, Lawnmowing, Rubbish Removal, Lawn re
+zip=7.30am
+Data0=(-46.39871,168.36173)
+[END]
+
+;1190472
+[POI]
+Type=0x2c00
+Label=WHALE WATCH - KAIKOURA NEW ZEALAND
+StreetDesc=Whaleway Station Rd, Kaikoura, South Island, New Zealand/ attractions in new zea
+Phone=+33196767
+Data0=(-42.39597,173.68063)
 [END]
 

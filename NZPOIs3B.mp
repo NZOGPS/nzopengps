@@ -2597,9 +2597,9 @@ Data0=(-43.46281,170.00865)
 [POI]
 Type=0x2c05
 Label=?FRANZ JOSEF GLACIER SCHOOL
-StreetDesc=State Highway 6, Franz Josef/ State Co-Ed Primary, Intermediate School
+StreetDesc=40 State Highway 6, Franz Josef/ State Co-Ed Primary, Intermediate School
 Phone=+6437520733
-Data0=(-43.39033,170.18183)
+Data0=(-43.41032,170.10224)
 [END]
 
 ;1010213
@@ -9962,10 +9962,10 @@ Data0=(-46.56545,168.94347)
 ;1033677
 [POI]
 Type=0x2f01
-Label=BP WHITE HORSE MOTORS
-StreetDesc=High St, Waimate/ BP petrol station
+Label=WHITE HORSE MOTORS
+StreetDesc=73 High St, Waimate/ BP petrol station
 Phone=+6436897309
-Data0=(-44.73379,171.04936)
+Data0=(-44.73367,171.04946)
 [END]
 
 ;1033691
@@ -9995,24 +9995,6 @@ StreetDesc=250-270 High St, Motueka/ Shell service station, petrol
 Phone=+6435289600
 zip=24hrs
 Data0=(-41.11401,173.01066)
-[END]
-
-;1034209
-[POI]
-Type=0x2f01
-Label=SHELL COCHRANES DARFIELD
-StreetDesc=Cnr South Terrace And Thornton St, Darfield/ Shell petrol station
-Phone=+6433188521
-Data0=(-43.49035,172.11492)
-[END]
-
-;1034230
-[POI]
-Type=0x2f01
-Label=SHELL D K AUTO SERVICES
-StreetDesc=175 Main Rd, Waikouaiti/ Shell petrol station
-Phone=+6434657213
-Data0=(-45.59514,170.67120)
 [END]
 
 ;1034237
@@ -10258,15 +10240,6 @@ StreetDesc=417-423 Ferry Rd, Chc/ Shell petrol station
 Phone=+6433892292
 zip=24hrs
 Data0=(-43.54336,172.66774)
-[END]
-
-;1034790
-[POI]
-Type=0x2f01
-Label=SHELL GERALDINE
-StreetDesc=Cnr Waihi Terrace & Pine St, Geraldine/ Shell petrol station
-Phone=+6436931300
-Data0=(-44.08999,171.24261)
 [END]
 
 ;1034797
@@ -12865,7 +12838,7 @@ Data0=(-44.73222,170.46998)
 ;1043344
 [POI]
 Type=0x2f01
-Label=CALTEX MGL ALMA MOTORS
+Label=MGL ALMA MOTORS
 StreetDesc=State Highway 1, Alma/ Caltex petrol station
 Phone=+6434348282
 Data0=(-45.11227,170.91042)
@@ -12892,10 +12865,10 @@ Data0=(-44.41284,171.24816)
 ;1043365
 [POI]
 Type=0x2f01
-Label=CALTEX MOCKETTS MOTORS (1989) LTD
-StreetDesc=Mountainview Rd, Culverden/ Caltex petrol station
+Label=CALTEX MOCKETTS MOTORS LTD
+StreetDesc=18 Mountainview Rd, Culverden/ Caltex petrol station, car workshop, WOFs
 Phone=+6433158050
-Data0=(-42.77574,172.84730)
+Data0=(-42.77533,172.84730)
 [END]
 
 ;1043372
@@ -14443,16 +14416,6 @@ StreetDesc=Cnr Wildman Ave and Vickerman St, Nelson/ Building supplies, Timber, 
 Phone=+6435489069
 zip=Mon-Fri 7.30am-5.30pm, Sat 8am-4pm, Sun 
 Data0=(-41.26465,173.27727)
-[END]
-
-;1049385
-[POI]
-Type=0x2e08
-Label=PLACEMAKERS RICHMOND
-StreetDesc=178-190 Queen St, Richmond/ Building supplies, Timber, Power Tools, Hand Tools, 
-Phone=+6435446079
-zip=Mon-Fri 7.30am-5.30pm,Sat-Sun Saturday: 
-Data0=(-41.34057,173.18713)
 [END]
 
 ;1049399
@@ -16373,15 +16336,6 @@ Label=KARAMEA FOUR SQUARE SUPERMARKET
 StreetDesc=103 Bridge St, Karamea/ supermarket, groceries, Lotto
 Phone=+6437826701
 Data0=(-41.25155,172.12849)
-[END]
-
-;1056602
-[POI]
-Type=0x2e02
-Label=NORTH END MINIMARKET
-StreetDesc=244 Main St, Otautau/ supermarket, groceries
-Phone=+6492258436
-Data0=(-46.13655,167.99280)
 [END]
 
 ;1056763
@@ -18305,7 +18259,7 @@ Data0=(-44.38247,171.23796)
 ;1063490
 [POI]
 Type=0x2e05
-Label=HURST & TAYLOR  AMCAL PHARMACY
+Label=HURST & TAYLOR AMCAL PHARMACY
 StreetDesc=512 Main Rd, Stoke, Nelson/ pharmacy, chemist
 Phone=+6435479689
 Data0=(-41.31263,173.23410)
@@ -18834,9 +18788,9 @@ Data0=(-43.90466,171.74560)
 [POI]
 Type=0x2f06
 Label=RABOBANK BLENHEIM (B)
-StreetDesc=L 1 AMI Blg, 12 Main St, Blenheim/ Bank branch, rural & agribusiness banking
+StreetDesc=Youell House, 1 Hutcheson St, Blenheim/ Bank branch, rural & agribusiness bankin
 Phone=+6435771758
-Data0=(-41.51378,173.95847)
+Data0=(-41.50879,173.95566)
 [END]
 
 ;1065296
@@ -20011,7 +19965,7 @@ Data0=(-43.52984,172.60071)
 ;1068936
 [POI]
 Type=0x2f06
-Label=PSIS DUNEDIN
+Label=THE COOPERATIVE BANK DUNEDIN
 StreetDesc=64 George St, Dud/ Banking, financial services, investments, loans, insurance
 Phone=+6434776711
 Data0=(-45.87319,170.50432)
@@ -20029,7 +19983,7 @@ Data0=(-46.40984,168.35039)
 ;1069041
 [POI]
 Type=0x2f06
-Label=PSIS PAPANUI
+Label=THE CO-OPERATIVE BANK PAPANUI
 StreetDesc=19 Main North Rd, Papanui/ Banking, financial services, investments, loans, insu
 Phone=+6433543561
 Data0=(-43.49590,172.60810)
@@ -20038,7 +19992,7 @@ Data0=(-43.49590,172.60810)
 ;1069048
 [POI]
 Type=0x2f06
-Label=PSIS RICCARTON
+Label=THE COOPERATEVE BANK RICCARTON
 StreetDesc=107 Riccarton Rd, Riccarton/ Banking, financial services, investments, loans, in
 Phone=+6433414430
 Data0=(-43.52984,172.60071)
@@ -20162,15 +20116,6 @@ Phone=+6433224600
 Data0=(-43.58016,172.56680)
 [END]
 
-;1069258
-[POI]
-Type=0x2a05
-Label=KB'S BAKERY LINWOOD
-StreetDesc=5 Buckleys Rd, Linwood, Chc/ Bakery
-Phone=+6433896729
-Data0=(-43.53317,172.67326)
-[END]
-
 ;1069265
 [POI]
 Type=0x2a05
@@ -20244,15 +20189,6 @@ zip=Mon-Fri 7-7, Sat-Sun 8-6
 Data0=(-43.53845,172.60743)
 [END]
 
-;1069650
-[POI]
-Type=0x2f
-Label=L.J. HOOKER LINWOOD
-StreetDesc=Shop 1, State Insurance Complex, 9 Buckleys Rd, Linwood/ Real estate agents
-Phone=+6433811214
-Data0=(-43.53298,172.67348)
-[END]
-
 ;1069671
 [POI]
 Type=0x2f
@@ -20274,10 +20210,10 @@ Data0=(-45.41633,167.71312)
 ;1069685
 [POI]
 Type=0x2f
-Label=L.J. HOOKER ASHBURTON
-StreetDesc=508 East St, Ashburton/ Real estate agents
+Label=ASHBURTON REAL ESTATE LTD
+StreetDesc=61 Glassworks Rd, Ashburton/ Real estate agents
 Phone=+6433088125
-Data0=(-43.90154,171.75253)
+Data0=(-43.89089,171.78156)
 [END]
 
 ;1069692
@@ -20319,10 +20255,10 @@ Data0=(-45.09652,170.97190)
 ;1069727
 [POI]
 Type=0x2f
-Label=L.J. HOOKER WANAKA
-StreetDesc=101 Ardmore St, Wanaka/ Real estate agents
+Label=THE PROFESSIONALS WANAKA WIDE REALTY LIMITED
+StreetDesc=38 Ardmore St, Wanaka/ Real estate agents
 Phone=+6434437191
-Data0=(-44.69487,169.13542)
+Data0=(-44.69386,169.13903)
 [END]
 
 ;1069734
@@ -20352,15 +20288,6 @@ Phone=+6434896800
 Data0=(-45.87340,170.34881)
 [END]
 
-;1069762
-[POI]
-Type=0x2f
-Label=L.J. HOOKER NELSON
-StreetDesc=166 Hardy St, Nelson/ Real estate agents
-Phone=+6435489500
-Data0=(-41.27453,173.28309)
-[END]
-
 ;1069769
 [POI]
 Type=0x2f
@@ -20374,9 +20301,9 @@ Data0=(-41.51181,173.95552)
 [POI]
 Type=0x2f
 Label=L.J. HOOKER TEMUKA
-StreetDesc=111 King St, Temuka/ Real estate agents
+StreetDesc=98 King St, Temuka/ Real estate agents
 Phone=+6436159462
-Data0=(-44.24397,171.27731)
+Data0=(-44.24442,171.27785)
 [END]
 
 ;1069783
@@ -20427,7 +20354,7 @@ Data0=(-44.25773,170.09831)
 ;1070700
 [POI]
 Type=0x2f
-Label=PROFESSIONALS BLENHEIM REAL ESTATE LTD MREINZ
+Label=RAY WHITE BLENHEIM
 StreetDesc=21 Queen St, Blenheim/ Real estate agents
 Phone=+6435780555
 Data0=(-41.51262,173.95584)
@@ -20490,7 +20417,7 @@ Data0=(-46.40126,168.34754)
 ;1071106
 [POI]
 Type=0x2f
-Label=PROFESSIONALS PICTON REAL ESTATE LTD MREINZ
+Label=SUMMIT REAL ESTATE LTD
 StreetDesc=37 High St, Picton/ Real estate agents
 Phone=+6435736166
 Data0=(-41.29000,174.00657)
@@ -20527,9 +20454,9 @@ Data0=(-45.25771,169.39294)
 [POI]
 Type=0x2f
 Label=AVON REALTY FIRST NATIONAL
-StreetDesc=83 Brighton Mall, New Brighton/ Real estate agents
+StreetDesc=Unit 1, 78 Brighton Mall, New Brighton/ Real estate agents
 Phone=+6433820062
-Data0=(-43.50753,172.72878)
+Data0=(-43.50736,172.72855)
 [END]
 
 ;1071400
@@ -20544,7 +20471,7 @@ Data0=(-45.03663,169.19749)
 ;1071407
 [POI]
 Type=0x2f
-Label=DUNEDIN FIRST NATIONAL
+Label=CUTLERS LTD
 StreetDesc=284 Stuart St, Dud/ Real estate agents
 Phone=+6434677277
 Data0=(-45.87278,170.49937)
@@ -20553,16 +20480,16 @@ Data0=(-45.87278,170.49937)
 ;1071414
 [POI]
 Type=0x2f
-Label=DUNEDIN PROPERTY MANAGEMENT
-StreetDesc=603 George St, Dud/ Real estate agents
+Label=CUTLERS LTD
+StreetDesc=709 Great King St, Dud/ Real estate agents
 Phone=+6434779977
-Data0=(-45.86402,170.50899)
+Data0=(-45.86717,170.50945)
 [END]
 
 ;1071421
 [POI]
 Type=0x2f
-Label=E V ARTHUR & SON FIRST NATIONAL
+Label=PROPERTY BROKERS EV ARTHUR LTD - GREYMOUTH
 StreetDesc=45 Tainui St, Greymouth/ Real estate agents
 Phone=+6437687145
 Data0=(-42.44944,171.21126)
@@ -20575,15 +20502,6 @@ Label=FORD BAKER REALTY FIRST NATIONAL
 StreetDesc=L 3, 48 Fitzgerald Ave, Chc/ Real estate agents
 Phone=+6433797830
 Data0=(-43.53715,172.65084)
-[END]
-
-;1071449
-[POI]
-Type=0x2f
-Label=GERALDINE FIRST NATIONAL
-StreetDesc=20 - 22 Wilson St, Geraldine/ Real estate agents
-Phone=+6436937960
-Data0=(-44.09158,171.24317)
 [END]
 
 ;1071463
@@ -20627,7 +20545,7 @@ Data0=(-43.52979,172.59788)
 Type=0x2f
 Label=JENKINSON FIRST NATIONAL
 StreetDesc=53 Irk St, Gore/ Real estate agents
-Phone=+6432089800
+Phone=+6432089801
 Data0=(-46.10004,168.94368)
 [END]
 
@@ -20649,31 +20567,22 @@ Phone=+6435788059
 Data0=(-41.51295,173.95648)
 [END]
 
-;1071603
-[POI]
-Type=0x2f
-Label=MARK STEVENSON FIRST NATIONAL - HAVELOCK
-StreetDesc=69 Main Rd, Havelock/ Real estate agents
-Phone=+6435741181
-Data0=(-41.27868,173.76667)
-[END]
-
 ;1071610
 [POI]
 Type=0x2f
-Label=MARK STEVENSON FIRST NATIONAL - PICTON
-StreetDesc=29 High St, Picton/ Real estate agents
+Label=SUMMIT REAL ESTATE LTD - PICTON
+StreetDesc=37 High St, Picton/ Real estate agents
 Phone=+6435736089
-Data0=(-41.28976,174.00656)
+Data0=(-41.29000,174.00657)
 [END]
 
 ;1071617
 [POI]
 Type=0x2f
 Label=MID CANTERBURY FIRST NATIONAL
-StreetDesc=217 West St, Ashburton/ Real estate agents
+StreetDesc=96 Tancred St, Ashburton/ Real estate agents
 Phone=+6433078317
-Data0=(-43.90366,171.74713)
+Data0=(-43.90588,171.74719)
 [END]
 
 ;1071624
@@ -20689,9 +20598,9 @@ Data0=(-41.11296,173.01127)
 [POI]
 Type=0x2f
 Label=NELSON CITY FIRST NATIONAL
-StreetDesc=5 Halifax St, Nelson/ Real estate agents
+StreetDesc=102 Hardy St, Nelson/ Real estate agents
 Phone=+6435482000
-Data0=(-41.27049,173.28065)
+Data0=(-41.27442,173.28154)
 [END]
 
 ;1071687
@@ -20716,9 +20625,9 @@ Data0=(-44.39642,171.25422)
 [POI]
 Type=0x2f
 Label=RICHMOND FIRST NATIONAL
-StreetDesc=186 Queen St, Richmond/ Real estate agents
+StreetDesc=307 Queen St, Richmond/ Real estate agents
 Phone=+6435446159
-Data0=(-41.34097,173.18729)
+Data0=(-41.33731,173.18218)
 [END]
 
 ;1071743
@@ -20787,16 +20696,6 @@ StreetDesc=340 Tuam St, Chc/ Tyre Service Centres, Fitting, Balancing, Alignment
 Phone=+6433665919
 zip=Mon-Fri 8am-5pm, Sat 9am-noon
 Data0=(-43.53540,172.64818)
-[END]
-
-;1072534
-[POI]
-Type=0x2f03
-Label=BEAUREPAIRES CHRISTCHURCH - DURHAM ST
-StreetDesc=222 Durham St, Chc/ Tyre Service Centres, Fitting, Balancing, Alignments
-Phone=+6433665279
-zip=Mon-Fri 8am-5pm, Sat 9am-noon
-Data0=(-43.53488,172.63377)
 [END]
 
 ;1072541
@@ -21297,15 +21196,6 @@ Phone=+6435787487
 Data0=(-41.51313,173.96352)
 [END]
 
-;1073633
-[POI]
-Type=0x2b00
-Label=THE LAUGHING KIWI
-StreetDesc=310 High St, Motueka/ Backpacker accommodation
-Phone=+6435289229
-Data0=(-41.11660,173.01054)
-[END]
-
 ;1073647
 [POI]
 Type=0x2b00
@@ -21459,15 +21349,6 @@ Phone=+6435258463
 Data0=(-40.75584,172.71658)
 [END]
 
-;1073927
-[POI]
-Type=0x2b00
-Label=SKIWI HOUSE
-StreetDesc=30 Chapman St, Mt Hutt Village, Methven/ Backpacker accommodation
-Phone=+6433028772
-Data0=(-43.63213,171.64298)
-[END]
-
 ;1073941
 [POI]
 Type=0x2b00
@@ -21511,15 +21392,6 @@ Label=TE ANAU LAKEFRONT BACKPACKERS
 StreetDesc=48 Lakefront Dr, Lake Te Anau/ Backpacker accommodation
 Phone=+6432497713
 Data0=(-45.42048,167.71527)
-[END]
-
-;1074032
-[POI]
-Type=0x2b00
-Label=THE GRAPEVINE
-StreetDesc=29 Park Terrace, Blenheim/ Backpacker accommodation
-Phone=+6435786062
-Data0=(-41.51238,173.96699)
 [END]
 
 ;1074039
@@ -21637,15 +21509,6 @@ Label=BLOWHOLE BACKPACKERS
 StreetDesc=24 Main Rd, Owaka, Catlins/ Backpacker accommodation
 Phone=+6434128111
 Data0=(-46.45072,169.66379)
-[END]
-
-;1074228
-[POI]
-Type=0x2b00
-Label=WRIGHTS MILL LODGE
-StreetDesc=865 Tahakopa Valley Rd, Catlins/ Backpacker accommodation
-Phone=+6434879445
-Data0=(-46.51390,169.38892)
 [END]
 
 ;1074235
@@ -21828,15 +21691,6 @@ Phone=+6434421466
 Data0=(-44.93852,168.83499)
 [END]
 
-;1074424
-[POI]
-Type=0x2b00
-Label=RIVERDOWN GUESTHOUSE
-StreetDesc=7 Bedford St, Arrowtown/ Backpacker accommodation
-Phone=+6434098499
-Data0=(-44.93863,168.83633)
-[END]
-
 ;1074452
 [POI]
 Type=0x2b00
@@ -21882,15 +21736,6 @@ Phone=+6433771897
 Data0=(-43.52779,172.64685)
 [END]
 
-;1074494
-[POI]
-Type=0x2b00
-Label=SIR CEDRIC'S CITY OASIS BACKPACKERS
-StreetDesc=180 Peterborough St, Chc/ Backpacker accommodation
-Phone=+6433669531
-Data0=(-43.52561,172.64082)
-[END]
-
 ;1074508
 [POI]
 Type=0x2b00
@@ -21925,15 +21770,6 @@ Label=CHALET BACKPACKERS
 StreetDesc=296 High St, Dud/ Accommodation. BBH.
 Phone=+6434792075
 Data0=(-45.87957,170.49550)
-[END]
-
-;1074606
-[POI]
-Type=0x2b00
-Label=ADVENTURER BACKPACKERS
-StreetDesc=37 Dowling St, Dud/ Backpacker accommodation
-Phone=+6434777367
-Data0=(-45.87644,170.50136)
 [END]
 
 ;1074613
@@ -22072,15 +21908,6 @@ Phone=+6433195152
 Data0=(-42.41331,173.68982)
 [END]
 
-;1074774
-[POI]
-Type=0x2b00
-Label=TOP SPOT BACKPACKERS
-StreetDesc=22 Deal St, Kaikoura/ Backpacker accommodation
-Phone=+6433195540
-Data0=(-42.40381,173.68165)
-[END]
-
 ;1074781
 [POI]
 Type=0x2b01
@@ -22207,15 +22034,6 @@ Phone=+6433028887
 Data0=(-43.63469,171.64524)
 [END]
 
-;1074914
-[POI]
-Type=0x2b00
-Label=REDWOOD LODGE
-StreetDesc=3 Wayne Place, Methven/ Backpacker accommodation
-Phone=+6433028964
-Data0=(-43.63670,171.64330)
-[END]
-
 ;1074921
 [POI]
 Type=0x2b00
@@ -22250,15 +22068,6 @@ Label=THE LAZY COW ACCOMMODATION
 StreetDesc=37 Waller St, Murchison/ Backpacker. BBH member. Zenbu Wi-Fi wireless internet h
 Phone=+6435239451
 Data0=(-41.79993,172.32444)
-[END]
-
-;1074998
-[POI]
-Type=0x2b00
-Label=CLUB NELSON
-StreetDesc=18 Mount St, Nelson/ Backpacker accommodation
-Phone=+6435483466
-Data0=(-41.27668,173.27899)
 [END]
 
 ;1075005
@@ -22587,15 +22396,6 @@ Phone=+6434780389
 Data0=(-45.84315,170.63581)
 [END]
 
-;1075530
-[POI]
-Type=0x2b00
-Label=?THE OLD CHURCH
-StreetDesc=Kakapotahi River, SH 6, Ross/ Backpacker accommodation
-Phone=+6437554000
-Data0=(-42.89000,170.81000)
-[END]
-
 ;1075544
 [POI]
 Type=0x2b00
@@ -22645,7 +22445,7 @@ Data0=(-41.86290,171.49303)
 [POI]
 Type=0x2b00
 Label=CURIO BAY BACKPACKER ACCOMMODATION
-StreetDesc=501 Waikawa Curio Bay Rd, Curio Bay/ Backpacker accommodation
+StreetDesc=521A Curio Bay Rd, Curio Bay/ Backpacker accommodation
 Phone=+6432468797
 Data0=(-46.65480,169.10134)
 [END]
@@ -22675,15 +22475,6 @@ Label=TRAMPERS REST
 StreetDesc=31 Alton St, Nelson/ Backpacker accommodation
 Phone=+6435457477
 Data0=(-41.27691,173.28983)
-[END]
-
-;1075719
-[POI]
-Type=0x2b00
-Label=THE ASYLUM LODGE
-StreetDesc=36 Russell Rd, Seacliff/ Backpacker accommodation
-Phone=+6434658123
-Data0=(-45.67703,170.62279)
 [END]
 
 ;1076251
@@ -23274,9 +23065,9 @@ Data0=(-44.48882,169.96733)
 [POI]
 Type=0x3008
 Label=NEW ZEALAND FIRE SERVICE LOOKOUT POINT
-StreetDesc=180 Mornington Rd, Dud/ fire station
+StreetDesc=184 Mornington Rd, Dud/ fire station
 Phone=+6434877444
-Data0=(-45.89591,170.46260)
+Data0=(-45.89648,170.46250)
 [END]
 
 ;1077826
@@ -150842,10 +150633,11 @@ Data0=(-42.39665,173.67932)
 
 ;1157715
 [POI]
-Type=0x2f
-Label=?HISLOPS FLOUR MILL
-StreetDesc=670 Main Highway South, Kaikoura/ Flour Mill
-Data0=(-42.42735,173.59376)
+Type=0x2a
+Label=HISLOPS FLOUR MILL
+StreetDesc=670 SH1 South Rd, Kaikoura/ Flour Mill
+Phone=+6433195557
+Data0=(-42.42721,173.59369)
 [END]
 
 ;1157716
@@ -153788,14 +153580,6 @@ Type=0x2b02
 Label=HIGHBRAE GUEST HOUSE BED AND BREAKFAST
 StreetDesc=376 High St, Dud/ B&B Accommodation
 Data0=(-45.88061,170.49217)
-[END]
-
-;1159259
-[POI]
-Type=0x2b00
-Label=HIGHVIEW
-StreetDesc=66-70 Thompson St, Queenstown/ Accommodation
-Data0=(-45.03567,168.64815)
 [END]
 
 ;1159260
@@ -197194,8 +196978,9 @@ Data0=(-41.51330,173.95650)
 ;1181230
 [POI]
 Type=0x2d02
-Label=SUTHERLAND ARMS
-StreetDesc=74 Main St, Blenheim/ 
+Label=THE ASTON BAR & LICENSED RESTAURANT
+StreetDesc=74 Main St, Blenheim/ Restaurant & Bar
+Phone=+6435775111
 Data0=(-41.51329,173.96806)
 [END]
 
@@ -202373,7 +202158,7 @@ Data0=(-43.54262,172.65087)
 
 ;1190195
 [POI]
-Type=0x2c05
+Type=0x2f
 Label=MIKE HEDGES BUILDERS
 StreetDesc=47 Marlowe Place Rolleston Chc 7614 New Zealand/ For strong, durable, resilient 
 Phone=+6433472618
@@ -202402,7 +202187,7 @@ Data0=(-43.53815,172.55217)
 
 ;1190303
 [POI]
-Type=0x2f
+Type=0x2c00
 Label=PUNAKAIKI CAVE 24HR
 StreetDesc=SH6 Punakaiki/ Tourist attraction & visitor activity
 zip=24/7
@@ -202455,7 +202240,7 @@ Data0=(-43.53838,172.58726)
 
 ;1190399
 [POI]
-Type=0x2a
+Type=0x2a07
 Label=GFTREETS - GLUTEN FREE TAKEAWAYS
 StreetDesc=33c Connal St, Woolston, Chc 8241/ gluten free, takeaway food, battered fish, gl
 Phone=+6433844039
@@ -202628,6 +202413,15 @@ zip=Monday - Friday 8.00am - 5.00pm
 Data0=(-45.88661,170.35501)
 [END]
 
+;1190450
+[POI]
+Type=0x2b00
+Label=HIGHVIEW APARTMENTS
+StreetDesc=66-70 Thompson St, Queenstown, New Zealand/ Queenstown Luxury Apartment Accommod
+Phone=+6434502142
+Data0=(-45.03547,168.64872)
+[END]
+
 ;1190452
 [POI]
 Type=0x2f
@@ -202637,9 +202431,18 @@ Phone=+6433474101
 Data0=(-43.54002,172.39462)
 [END]
 
+;1190455
+[POI]
+Type=0x2e
+Label=SADDLERY BARN
+StreetDesc=1 Columbia Ave, Hornby, Chc, New Zealand/ Equestrian Gear Equipment Saddles Hors
+Phone=+6433498806
+Data0=(-43.55925,172.52534)
+[END]
+
 ;1190457
 [POI]
-Type=0x2f
+Type=0x2f03
 Label=SIMS BROS (1992)
 StreetDesc=4 Harrow St Dud 9016/ Conveniently located, friendly & efficient auto repairs an
 Phone=+6434771110

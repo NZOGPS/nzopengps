@@ -201969,10 +201969,10 @@ Data0=(-43.53627,172.53053)
 ;1190131
 [POI]
 Type=0x2f
-Label=?EVANSDALE CHEESE
+Label=EVANSDALE CHEESE
 StreetDesc=2 Duncan Ave, Karitane 9471, New Zealand/ Factory shop, tasting
 Phone=+34658101
-Data0=(-45.61677,170.63906)
+Data0=(-45.61676,170.63911)
 [END]
 
 ;1190132
@@ -202486,5 +202486,44 @@ Label=WHALE WATCH - KAIKOURA NEW ZEALAND
 StreetDesc=Whaleway Station Rd, Kaikoura, South Island, New Zealand/ attractions in new zea
 Phone=+33196767
 Data0=(-42.39597,173.68063)
+[END]
+
+;1190488
+[POI]
+Type=0x2e
+Label=WATCH DOCTOR LTD
+StreetDesc=182 Hoon Hay Rd Hoon Hay Chc/ watchmakers
+Phone=+6433381109
+zip=8.30
+Data0=(-43.56490,172.60894)
+[END]
+
+;1190491
+[POI]
+Type=0x2f
+Label=NEAS FURNITURE SERVICES
+StreetDesc=1017 Motu Rimu Rd, Invercargill/ Furniture removal specialists who are local and
+Phone=+6432188648
+zip=8am
+Data0=(-46.47117,168.43555)
+[END]
+
+;1190492
+[POI]
+Type=0x2f
+Label=MULFORD HOLDINGS LTD
+StreetDesc=3 Brighton Rd Green Island Dud 9018 New Zealand/ Expert applicators & suppliers 
+Phone=+6434884151
+zip=Monday - Friday 8.00am - 5.00pm, Saturda
+Data0=(-45.90333,170.42298)
+[END]
+
+;1190495
+[POI]
+Type=0x2e
+Label=GARDEN CITY FLOWERS CHRISTCHURCH FLORISTS, WEDDING FLOWERS CHRISTCHURCH
+StreetDesc=380 Riccarton Rd, Chc/ Florists, Christchruch Florists, Bouquets,
+Phone=+6433410002
+Data0=(-43.53172,172.57290)
 [END]
 

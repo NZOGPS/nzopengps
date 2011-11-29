@@ -69,4 +69,6 @@
 1030000057897	E,18,22	Lucknow Street	Riverton (Southland, NZ)	16/11/2011 11:44:33 p.m
 1030000058216	B,32,33	Irwin Street	Riverton (Southland, NZ)	16/11/2011 11:49:33 p.m
 1030000058280	E,68,68	Brook Street	Riverton (Southland, NZ)	16/11/2011 11:56:33 p.m
+1030000058132	O,375,375	Waimeamea Road	Bald Hill (Southland, NZ)	29/11/2011 12:41p.m.	-46.260126,167.749035
+
 

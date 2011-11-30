@@ -182551,20 +182551,10 @@ zip=Online Only
 Data0=(-43.53708,172.63649)
 [END]
 
-;1173474
-[POI]
-Type=0x2f
-Label=SMART
-StreetDesc=301 Lincoln Rd, Addington, Chc/ Save time and money. Discover the benefits of ou
-Phone=+6439431949
-zip=Monday to Friday 9 - 5
-Data0=(-43.54358,172.61181)
-[END]
-
 ;1173475
 [POI]
 Type=0x2f
-Label=SMART
+Label=SMART VIRTUAL OFFICE
 StreetDesc=211 Ferry Rd, Waltham, Chc/ Save time and money. Discover the benefits of outsou
 Phone=+6433770299
 zip=Monday to Friday 9 - 5
@@ -202512,10 +202502,10 @@ Data0=(-45.90333,170.42298)
 ;1190495
 [POI]
 Type=0x2e
-Label=GARDEN CITY FLOWERS CHRISTCHURCH FLORISTS, WEDDING FLOWERS CHRISTCHURCH
-StreetDesc=380 Riccarton Rd, Chc/ Florists, Christchruch Florists, Bouquets,
+Label=GARDEN CITY FLORIST, CHRISTCHURCH FLORISTS, WEDDING FLOWERS CHRISTCHURCH
+StreetDesc=336 Riccarton Rd, Chc/ Florists, Christchurch Florists, Bouquets,gift baskets, w
 Phone=+6433410002
-Data0=(-43.53172,172.57290)
+Data0=(-43.53030,172.57520)
 [END]
 
 ;1190500
@@ -202562,5 +202552,63 @@ Label=CARPET ONE MOBILE - INVERCARGILL
 StreetDesc=Invercargill/ Carpet, Carpets, Carpeting, Carpet Retailer, Carpet Store, Mobile 
 Phone=0800227738
 Data0=(-46.41319,168.35377)
+[END]
+
+;1190516
+[POI]
+Type=0x2b01
+Label=BIRCHWOOD MANOR MOTEL
+StreetDesc=189 Tay St, Invercargill/ If you're looking for Invercargill accommodation with 
+zip=7am
+Data0=(-46.41331,168.35917)
+[END]
+
+;1190518
+[POI]
+Type=0x2f
+Label=BJ CARTER LTD
+StreetDesc=15 Waianiwa-Oporo Rd, Oporo, Invercargill/ Whether it's replacing a door handle 
+Phone=+6432352848
+zip=7am
+Data0=(-46.29441,168.25364)
+[END]
+
+;1190520
+[POI]
+Type=0x2e
+Label=TOTAL GOLF
+StreetDesc=38 Bolt Rd, Tahunanui/ Nelson, Golf, apparel, putters, irons, wedges, golf balls
+Phone=+6435485028
+Data0=(-41.29203,173.23272)
+[END]
+
+;1190521
+[POI]
+Type=0x2f
+Label=FLINTOFFS CHARTERED ACCOUNTANTS
+StreetDesc=85 Gala St, Invercargill/ Chartered accountants for small to medium sized busine
+Phone=+6432147979
+zip=8am
+Data0=(-46.40661,168.35218)
+[END]
+
+;1190522
+[POI]
+Type=0x2a0e
+Label=FIRST IN WINDSOR
+StreetDesc=72 King St, Invercargill/ First in windsor is a fully licensed, popular, up-mark
+Phone=+6432173905
+zip=7am
+Data0=(-46.39826,168.36602)
+[END]
+
+;1190526
+[POI]
+Type=0x2b00
+Label=WEBSTERS ON WANAKA LODGE
+StreetDesc=137 Anderson Rd/ Accomodation Lodge, self catering, B&B, Wedding and events venu
+Phone=+6434431961
+zip=check in 1500hrs and check out1000hrs
+Data0=(-44.68324,169.14765)
 [END]
 

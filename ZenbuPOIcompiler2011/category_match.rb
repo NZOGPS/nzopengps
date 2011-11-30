@@ -417,6 +417,7 @@ end
 '0x6404' => 'Church place of worship',
 '0x6407' => 'Dam',
 '0x6412' => 'Trailhead',
+'0x640c' => 'Mine',
 '0x6508' => 'Water - Waterfall',
 '0x650D' => 'Water Feature - Lake',
 '0x6604' => 'Land - Beach',

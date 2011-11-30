@@ -35224,7 +35224,7 @@ Type=0x2f04
 Label=CHRISTCHURCH INTERNATIONAL AIRPORT LTD
 StreetDesc=L 4, Parking Blg, Chc Airport, Memorial Ave Chc/ International airport
 Phone=+6433585029
-Data0=(-43.50386,172.56684)
+Data0=(-43.48951,172.54054)
 [END]
 
 ;1097428
@@ -68858,9 +68858,9 @@ Data0=(-42.15129,173.55099)
 ;1116984
 [POI]
 Type=0x6402
-Label=?GORGE RIVER HUT
+Label=GORGE RIVER HUT
 StreetDesc=Stewardship Land - South Island > West Coast > South Westland/ DOC Backcountry h
-Data0=(-44.18346,168.19341)
+Data0=(-44.18381,168.19409)
 [END]
 
 ;1116985
@@ -71434,9 +71434,9 @@ Data0=(-43.99623,168.54512)
 ;1117458
 [POI]
 Type=0x6402
-Label=?STAIRCASE HUT
+Label=STAIRCASE HUT
 StreetDesc=Waianakarua Scenic Reserve - South Island > Otago > Coastal Otago/ DOC Backcount
-Data0=(-45.29354,170.68011)
+Data0=(-45.29347,170.68024)
 [END]
 
 ;1117460
@@ -88759,7 +88759,7 @@ Data0=(-45.89761,170.50958)
 Type=0x2f
 Label=ISLAND PARK MOTOR SPEEDWAY, DUNEDIN
 StreetDesc=130 Friendship Dr Waldronville/ 
-Data0=(-45.92561,170.40691)
+Data0=(-45.92453,170.40823)
 [END]
 
 ;1128410
@@ -202129,15 +202129,6 @@ Phone=+6433899909
 Data0=(-43.56095,172.68475)
 [END]
 
-;1190185
-[POI]
-Type=0x2f
-Label=DON HOBBS FLOORING & CARPET LAYING SERVICES
-StreetDesc=112A Palmers Rd, North New Brighton, Chc/ Christchurch specialists in quality ca
-Phone=+6433884009
-Data0=(-43.50087,172.71320)
-[END]
-
 ;1190188
 [POI]
 Type=0x2f
@@ -202525,5 +202516,51 @@ Label=GARDEN CITY FLOWERS CHRISTCHURCH FLORISTS, WEDDING FLOWERS CHRISTCHURCH
 StreetDesc=380 Riccarton Rd, Chc/ Florists, Christchruch Florists, Bouquets,
 Phone=+6433410002
 Data0=(-43.53172,172.57290)
+[END]
+
+;1190500
+[POI]
+Type=0x2f
+Label=CUSTOM MADE GARAGE DOORS LTD
+StreetDesc=37 Mandeville St, Riccarton/ Custom Made Garage Doors Christchurch, Cedar Garage
+Phone=+6433478333
+Data0=(-43.53479,172.60629)
+[END]
+
+;1190501
+[POI]
+Type=0x2f
+Label=DOMINATOR GATE AND GARAGE DOOR CENTRE
+StreetDesc=6 Newtown St, Bromley, Chc, New Zealand/ Gate Openers Garage Door Openers Specia
+Phone=+6433799662
+Data0=(-43.54187,172.69753)
+[END]
+
+;1190502
+[POI]
+Type=0x2f
+Label=GARDENMAKERS
+StreetDesc=4 Parkhouse Rd, Sockburn, Chc, New Zealand/ Christchurch Garden Supplies Timber 
+Phone=+6433415688
+zip=Monday - Friday 7:30am - 5pm, Saturday 8
+Data0=(-43.54707,172.56349)
+[END]
+
+;1190503
+[POI]
+Type=0x2f
+Label=HALL MACHINERY
+StreetDesc=114 Antigua St, Chc, New Zealand/ New Zealand Industrial Pumping Design Supply I
+Phone=+6433797129
+Data0=(-43.54357,172.62828)
+[END]
+
+;1190509
+[POI]
+Type=0x2f
+Label=CARPET ONE MOBILE - INVERCARGILL
+StreetDesc=Invercargill/ Carpet, Carpets, Carpeting, Carpet Retailer, Carpet Store, Mobile 
+Phone=0800227738
+Data0=(-46.41319,168.35377)
 [END]
 

@@ -2300,9 +2300,9 @@ Data0=(-45.89042,168.35152)
 [POI]
 Type=0x2c05
 Label=DISCOVERY ONE SCHOOL
-StreetDesc=L 2 The Crossing, Cnr Colombo St & Cashel Mall, Chc/ State Co-Ed Primary, Interm
+StreetDesc=90 McMahon Dr, Halswell, Chc/ State Co-Ed Primary, Intermediate School
 Phone=+6433654678
-Data0=(-43.53337,172.63689)
+Data0=(-43.56224,172.56603)
 [END]
 
 ;1009492
@@ -15335,15 +15335,6 @@ zip=24 Hours
 Data0=(-45.09704,170.97169)
 [END]
 
-;1053207
-[POI]
-Type=0x2f06
-Label=ASB ATM 24HR
-StreetDesc=The Crossing, 1st Fl, Cnr City Mall & Colombo Streets, Chc/ ATM, FastCash, Money
-zip=24 Hours
-Data0=(-43.53330,172.63686)
-[END]
-
 ;1053221
 [POI]
 Type=0x2f06
@@ -19830,7 +19821,7 @@ Data0=(-44.39490,171.25228)
 Type=0x2f06
 Label=WESTPAC UNI OF CANTERBURY (A) 24HR
 StreetDesc=Registry Blg, University Dr, Chc/ ATM
-zip=24-Jul
+zip=24/7
 Data0=(-43.52326,172.58189)
 [END]
 
@@ -23832,7 +23823,7 @@ Type=0x3008
 Label=NEW ZEALAND FIRE SERVICE NELSON 24HR
 StreetDesc=Gloucester St, Nelson/ fire station
 Phone=+6435462100
-zip=24-Jul
+zip=24 / 7
 Data0=(-41.27374,173.27682)
 [END]
 
@@ -26757,7 +26748,7 @@ Type=0x2f0b
 Label=WILSON PARKING ST ANDREWS 24HR
 StreetDesc=Chc/ carpark, parking
 Phone=08004PARKING
-zip=24-Jul
+zip=24/7
 Data0=(-43.53488,172.62707)
 [END]
 
@@ -26767,7 +26758,7 @@ Type=0x2f0b
 Label=WILSON PARKING PILGRIM PLACE 24HR
 StreetDesc=Pilgrim Place, Chc/ carpark, parking
 Phone=08004PARKING
-zip=24-Jul
+zip=24/7
 Data0=(-43.54055,172.63718)
 [END]
 
@@ -30374,7 +30365,7 @@ Data0=(-43.54352,172.52117)
 Type=0x2f0c
 Label=LITTLE RIVER STATION TOILETS 24HR
 StreetDesc=Chc Akaroa Rd, Little River/ Public Toilets
-zip=24-Jul
+zip=24/7
 Data0=(-43.77062,172.79039)
 [END]
 
@@ -32997,15 +32988,6 @@ StreetDesc=Shop 4, Northlands Mall, 71 Main North Rd, Papanui, Chc/ Surfwear, st
 Phone=+6433544359
 zip=Mon-Wed 9am-6pm, Thu-Fri 9am-9pm, Sat-Su
 Data0=(-43.49400,172.60849)
-[END]
-
-;1095762
-[POI]
-Type=0x2e07
-Label=AMAZON SURF COLOMBO ST
-StreetDesc=702 Colombo St, Chc/ Surfwear, street and denim. Rip curl, Dickies, Billabong, Q
-Phone=+6433664231
-Data0=(-43.53278,172.63679)
 [END]
 
 ;1095763
@@ -36333,6 +36315,7 @@ Data0=(-44.38600,171.23363)
 Type=0x2f
 Label=PETS N VETS, FERRYMEAD
 StreetDesc=2 Waterman Place, Ferrymead Speights Ale House, Chc/ Vet
+Phone=0800738768
 Data0=(-43.55617,172.69747)
 [END]
 
@@ -36832,7 +36815,7 @@ Data0=(-43.52113,172.54067)
 Type=0x2f06
 Label=ANZ AVONHEAD ATM 24HR
 StreetDesc=Avonhead Mall, Upper Riccarton, Chc/ ATM
-zip=24-Jul
+zip=24/7
 Data0=(-43.51061,172.55719)
 [END]
 
@@ -39234,6 +39217,7 @@ Data0=(-45.89759,170.33873)
 Type=0x2f
 Label=?AHIPARA LUXURY TRAVEL NEW ZEALAND
 StreetDesc=3782 Becks-Lauder Rd, RD2, Omakau, Central Otago/ New Zealand’s most innovative,
+Phone=+34473558
 Data0=(-45.09448,169.60187)
 [END]
 
@@ -44801,15 +44785,6 @@ Phone=+6433483191
 Data0=(-43.53941,172.56429)
 [END]
 
-;1104051
-[POI]
-Type=0x2f
-Label=CURTIS JEWELLERS
-StreetDesc=The Guthrey Ctr, 126 Cashel St, Chc/ 
-Phone=+6433660108
-Data0=(-43.53325,172.63560)
-[END]
-
 ;1104054
 [POI]
 Type=0x2f
@@ -49160,7 +49135,7 @@ Type=0x2b01
 Label=HAAST WORLD HERITAGE HOTEL 24HR
 StreetDesc=State Highway 6, Haast, West Coast/ Hotel, Accommodation, Bar, Restaurant, Off l
 Phone=+37500828
-zip=24-Jul
+zip=24/7
 Data0=(-43.85894,169.04275)
 [END]
 
@@ -65407,9 +65382,9 @@ Data0=(-46.15261,168.32974)
 [POI]
 Type=0x2f
 Label=WIRED INTERNET GROUP
-StreetDesc=107 Cashel St, Chc/ 
+StreetDesc=56 Carlton Mill Rd, Merivale, Chc/ Website designers
 Phone=+6433778460
-Data0=(-43.53299,172.63557)
+Data0=(-43.52126,172.62308)
 [END]
 
 ;1116177
@@ -69049,7 +69024,7 @@ Data0=(-40.98660,172.11032)
 [POI]
 Type=0x6402
 Label=HEATHER JOCK HUT
-StreetDesc=#NAME?/ DOC Backcountry hut
+StreetDesc=- South Island > Otago > Queenstown/Wakatipu/ DOC Backcountry hut
 Data0=(-44.85423,168.45574)
 [END]
 
@@ -73552,6 +73527,7 @@ Data0=(-42.46810,171.19086)
 Type=0x2b01
 Label=HERITAGE COURT MOTEL
 StreetDesc=50 Thomson St, Invercargill/ Accommodation, Zenbu Wi-Fi wireless broadband inter
+Phone=+6432147911
 Data0=(-46.40310,168.34857)
 [END]
 
@@ -73783,6 +73759,7 @@ Data0=(-44.39186,171.24736)
 Type=0x6404
 Label=CHURCH OF CHRIST DUNEDIN
 StreetDesc=685 George St, Dud/ A place where Christians meet; FriendSpeak office; 412 Stude
+Phone=+6434778386
 zip=Sun 10am, 11am, 6pm - Wed 7pm, Fri 7pm (
 Data0=(-45.86270,170.50982)
 [END]
@@ -74163,7 +74140,7 @@ Data0=(-43.48712,172.58449)
 Type=0x2f0c
 Label=WOOLSHED CREEK TOILETS 24HR
 StreetDesc=Jig Rd, Mt Somers/ Toilet
-zip=24-Jul
+zip=24/7
 Data0=(-43.63113,171.30074)
 [END]
 
@@ -74316,7 +74293,7 @@ Data0=(-44.30793,171.25956)
 Type=0x2f0c
 Label=FAIRLIE GOOD TOILET 24HR
 StreetDesc=Main St, Fairlie/ Toilet
-zip=24-Jul
+zip=24/7
 Data0=(-44.09936,170.82930)
 [END]
 
@@ -74828,16 +74805,6 @@ Label=PORTOBELLO MOTEL
 StreetDesc=10 Harington Point Rd, Portobello, Dud/ Motel accommodation, studio units. Zenbu
 Phone=+6434780155
 Data0=(-45.83965,170.65204)
-[END]
-
-;1118917
-[POI]
-Type=0x2e07
-Label=COUNTRY ROAD CHRISTCHURCH
-StreetDesc=118-120 Cashel St, Chc/ Menswear, Womenswear, Kidswear & Homeware
-Phone=+6433667870
-zip=Mon-Thu 9am-5.30pm, Fri 9am-8pm, Sat 10a
-Data0=(-43.53325,172.63529)
 [END]
 
 ;1118918
@@ -75733,7 +75700,7 @@ Data0=(-43.48293,172.56957)
 Type=0x2f0c
 Label=GORGE CREEK TOILETS 24HR
 StreetDesc=Fruitlands-Roxburgh Rd, Tawhiti/ Toilet
-zip=24-Jul
+zip=24/7
 Data0=(-45.37616,169.27639)
 [END]
 
@@ -76236,7 +76203,7 @@ Data0=(-41.11069,173.01086)
 Type=0x2f
 Label=THE TRASHCAN BBS 24HR
 StreetDesc=127 Kennedys Bush Rd, Halswell, Chc/ Trashcan,Bulletin Board System, BBS, Hobby,
-zip=24-Jul
+zip=24/7
 Data0=(-43.59587,172.57249)
 [END]
 
@@ -78345,6 +78312,7 @@ Data0=(-41.33829,173.18328)
 Type=0x2a0e
 Label=THE OLD LIBRARY
 StreetDesc=6 Allandale Rd, Fairlie/ Cafe, Bar
+Phone=+36858999
 zip=11am-late
 Data0=(-44.09774,170.83015)
 [END]
@@ -79915,7 +79883,7 @@ Data0=(-43.65569,172.56571)
 Type=0x2f0c
 Label=WAITOHI BUSH RESERVE TOILET 24HR
 StreetDesc=Galbraith Rd, Upper Waitohi/ Toilet
-zip=24-Jul
+zip=24/7
 Data0=(-44.17869,171.11729)
 [END]
 
@@ -79924,6 +79892,7 @@ Data0=(-44.17869,171.11729)
 Type=0x2f
 Label=NORGREN CHRISTCHURCH
 StreetDesc=230 Antigua St, Chc/ Pneumatic / Compressed Air Equipment
+Phone=+33652305
 Data0=(-43.53740,172.62804)
 [END]
 
@@ -79932,6 +79901,7 @@ Data0=(-43.53740,172.62804)
 Type=0x2e
 Label=KATHMANDU TOWER JUNCTION
 StreetDesc=63 Clarence St, Riccarton, Chc/ Outdoor Adventure clothing & supplies, Tramping,
+Phone=+33480152
 zip=Mon - Fri 9:00-5:30, Sat - Sun 10:00-5:0
 Data0=(-43.53783,172.60591)
 [END]
@@ -84102,14 +84072,6 @@ StreetDesc=389 Colombo St, Sydenham, Chc/ ATM
 Data0=(-43.54523,172.63648)
 [END]
 
-;1121712
-[POI]
-Type=0x2f06
-Label=KIWIBANK QUICKCASH ATM THE CROSSING
-StreetDesc=690 Colombo St, Chc/ ATM
-Data0=(-43.53330,172.63681)
-[END]
-
 ;1121714
 [POI]
 Type=0x2f06
@@ -84507,6 +84469,7 @@ Data0=(-41.27450,173.28511)
 Type=0x2a0e
 Label=VIVACE CAFE
 StreetDesc=86 Hereford St, Chc/ cafe, coffee beans
+Phone=+33658248
 Data0=(-43.53219,172.63456)
 [END]
 
@@ -84515,6 +84478,7 @@ Data0=(-43.53219,172.63456)
 Type=0x2a0e
 Label=VIVACE ROASTERY AND CAFE
 StreetDesc=474 Tuam St, Chc/ cafe, coffee beans
+Phone=+33812474
 Data0=(-43.53559,172.65703)
 [END]
 
@@ -84608,7 +84572,7 @@ Data0=(-43.52148,172.64145)
 Type=0x2f0c
 Label=WAIHI GORGE CAMP TOILET 24HR
 StreetDesc=Waihi Gorge Rd/ Toilet
-zip=24-Jul
+zip=24/7
 Data0=(-44.00285,171.15560)
 [END]
 
@@ -84617,7 +84581,7 @@ Data0=(-44.00285,171.15560)
 Type=0x2f0c
 Label=DOBSON DRIVE TOILET 24HR
 StreetDesc=Dobson Dr, Kaiapoi/ Toilet
-zip=24-Jul
+zip=24/7
 Data0=(-43.41174,172.64916)
 [END]
 
@@ -84680,7 +84644,7 @@ Data0=(-43.56478,172.68685)
 Type=0x2f01
 Label=SHELL TRUCKSTOP HILLSBOROUGH 24HR
 StreetDesc=Port Hills Rd, Hillsborough/ Shell petrol station (diesel/shellcard only)
-zip=24-Jul
+zip=24/7
 Data0=(-43.56634,172.68057)
 [END]
 
@@ -85856,6 +85820,7 @@ Data0=(-43.54385,172.58398)
 Type=0x2a0e
 Label=CAFE ONETWOFOUR ON MACKAY
 StreetDesc=124 Mackay St, Greymouth/ cafe, bar
+Phone=+37687503
 Data0=(-42.44881,171.21222)
 [END]
 
@@ -85912,7 +85877,7 @@ Data0=(-41.27168,173.28182)
 Type=0x2f0c
 Label=SHEFFIELD DOMAIN TOILET 24HR
 StreetDesc=West Coast Rd, Sheffield/ Toilet
-zip=24-Jul
+zip=24/7
 Data0=(-43.38592,172.01127)
 [END]
 
@@ -85921,7 +85886,7 @@ Data0=(-43.38592,172.01127)
 Type=0x2f01
 Label=SHEFFIELD SERVICE STATION 24HR
 StreetDesc=81 West Coast Rd, Sheffield/ Unmanned Mobil Card Only Petrol station
-zip=24-Jul
+zip=24/7
 Data0=(-43.38735,172.01654)
 [END]
 
@@ -85930,7 +85895,7 @@ Data0=(-43.38735,172.01654)
 Type=0x2f0c
 Label=LAKE PEARSON TOILETS 24HR
 StreetDesc=West Coast Rd, Lake Pearson/ Toilet
-zip=24-Jul
+zip=24/7
 Data0=(-43.09393,171.77932)
 [END]
 
@@ -85947,7 +85912,7 @@ Data0=(-42.61421,171.50156)
 Type=0x2f0c
 Label=CASTLE HILL TOILET 24HR
 StreetDesc=Castle Hill Dr, Castle Hill/ Toilet
-zip=24-Jul
+zip=24/7
 Data0=(-43.20868,171.71504)
 [END]
 
@@ -86063,6 +86028,7 @@ Data0=(-44.19799,171.04019)
 Type=0x2a02
 Label=INDIAN MINAR
 StreetDesc=300 East St, Ashburton/ Indian Restaurant, Takeaway, Curry
+Phone=+33081076
 zip=12-2 Tue-Fri, 4:30-9 Tue-Sun
 Data0=(-43.90447,171.74796)
 [END]
@@ -86276,7 +86242,7 @@ Data0=(-45.86710,170.49014)
 Type=0x2f0c
 Label=JELLIE PARK TOILETS 24HR
 StreetDesc=Greers Rd, Chc/ Toilet
-zip=24-Jul
+zip=24/7
 Data0=(-43.50718,172.57926)
 [END]
 
@@ -87933,6 +87899,7 @@ Data0=(-43.54445,172.61003)
 Type=0x2a
 Label=KELLY'S CAF� BAR
 StreetDesc=234 East St, Ashburton/ restaurant, cafe, bar
+Phone=+33088811
 zip=8am-late 7 days
 Data0=(-43.90516,171.74693)
 [END]
@@ -89878,6 +89845,7 @@ Data0=(-45.87074,170.51150)
 Type=0x2a0e
 Label=GUILTY BY CONFECTION
 StreetDesc=46 Stuart St, Dud/ Gift Boutique & Confectionery Cafe
+Phone=+6427286178
 Data0=(-45.87494,170.50705)
 [END]
 
@@ -90466,6 +90434,7 @@ Data0=(-45.85836,170.49983)
 Type=0x2a07
 Label=MAORI HILL TAKEAWAYS
 StreetDesc=575 Highgate, Dud/ Chinese takeaways and fish and chips
+Phone=+6434675606
 zip=11am - 9.30pm
 Data0=(-45.85830,170.49919)
 [END]
@@ -93169,6 +93138,7 @@ Data0=(-43.55052,172.51468)
 Type=0x2f
 Label=ONE FAT SHEEP
 StreetDesc=102 Cashel Mall/ 
+Phone=+6433661512
 Data0=(-43.53315,172.63469)
 [END]
 
@@ -94981,6 +94951,7 @@ Data0=(-43.50438,172.62049)
 Type=0x2a0e
 Label=BLAX ESPRESSO BAR
 StreetDesc=384 Montreal St, Chc/ cafe
+Phone=+6433668982
 zip=Monday-Friday 8am to 5pm, Saturday and S
 Data0=(-43.52388,172.63072)
 [END]
@@ -95144,14 +95115,6 @@ Type=0x2a
 Label=BUBBLE CUP
 StreetDesc=Riccarton Mall, 145 Riccarton Rd, Chc/ Bubble Tea, Icecream
 Data0=(-43.53084,172.60022)
-[END]
-
-;1130994
-[POI]
-Type=0x2f
-Label=BUBBLE CUP
-StreetDesc=The Crossing, 146 Cashel St, Chc/ 
-Data0=(-43.53326,172.63682)
 [END]
 
 ;1130995
@@ -95346,14 +95309,6 @@ Type=0x2a0e
 Label=CAFE METRO - ESTUARY
 StreetDesc=23A Humphreys Dr, Ferrymead, Chc/ cafe
 Data0=(-43.55638,172.70390)
-[END]
-
-;1131021
-[POI]
-Type=0x2a0e
-Label=CAFE PURE
-StreetDesc=The Crossing, 146 Cashel St, Chc/ cafe
-Data0=(-43.53326,172.63682)
 [END]
 
 ;1131022
@@ -98149,14 +98104,6 @@ StreetDesc=The Palms Mall, Cnr New Brighton & Marshland Rds, Chc/ Chinese takeaw
 Data0=(-43.50657,172.66299)
 [END]
 
-;1131393
-[POI]
-Type=0x2a07
-Label=HUNGRY WOK - THE CROSSING
-StreetDesc=The Crossing, 146 Cashel St, Chc/ Chinese takeaways
-Data0=(-43.53326,172.63682)
-[END]
-
 ;1131394
 [POI]
 Type=0x2f
@@ -98276,14 +98223,6 @@ Type=0x2f
 Label=ILAM SEAFOOD
 StreetDesc=211A Waimairi Rd, Chc/ 
 Data0=(-43.51608,172.57172)
-[END]
-
-;1131410
-[POI]
-Type=0x2f
-Label=IN ITALIA
-StreetDesc=126 Cashel St, Chc/ 
-Data0=(-43.53325,172.63560)
 [END]
 
 ;1131412
@@ -98721,14 +98660,6 @@ Type=0x2f
 Label=KB'S HOT BREAD SHOP
 StreetDesc=6 Elgin St, Chc/ 
 Data0=(-43.54596,172.63414)
-[END]
-
-;1131469
-[POI]
-Type=0x2f
-Label=KEBAB HABEEBEE
-StreetDesc=126 Cashel St, Chc/ 
-Data0=(-43.53325,172.63560)
 [END]
 
 ;1131470
@@ -99721,14 +99652,6 @@ StreetDesc=South City Shopping Mall, 555 Colombo St, Chc/ Souvlaki, Pasta Takeaw
 Data0=(-43.53859,172.63524)
 [END]
 
-;1131603
-[POI]
-Type=0x2f
-Label=MEDITERRANEAN TASTE LIMITED
-StreetDesc=The Crossing, 146 Cashel St, Chc/ 
-Data0=(-43.53326,172.63682)
-[END]
-
 ;1131604
 [POI]
 Type=0x2a0e
@@ -99802,14 +99725,6 @@ StreetDesc=75 Rutland St, St Albans, Chc/ cafe
 Phone=+6433552449
 zip=7 days
 Data0=(-43.50589,172.62802)
-[END]
-
-;1131614
-[POI]
-Type=0x2a
-Label=METRO SUSHI
-StreetDesc=The Crossing, 146 Cashel St, Chc/ Japanese food
-Data0=(-43.53326,172.63682)
 [END]
 
 ;1131615
@@ -99995,6 +99910,7 @@ Data0=(-43.53975,172.63263)
 Type=0x2f
 Label=MORGAN'S VINEYARD CAFE
 StreetDesc=355 Buchanans Rd, Chc/ A delightful vineyard setting in the rural fringes of Chr
+Phone=+6433488038
 zip=Brunch: Wed to Fri from 11am, Sat & Sun 
 Data0=(-43.51942,172.50372)
 [END]
@@ -101229,6 +101145,7 @@ Data0=(-43.55052,172.63714)
 Type=0x2e
 Label=REDCLIFFS BUTCHERY
 StreetDesc=85A Main Rd, Chc/ butcher
+Phone=+6433841361
 Data0=(-43.56148,172.73856)
 [END]
 
@@ -101297,14 +101214,6 @@ Type=0x2f
 Label=RELISH CATERING COMPANY
 StreetDesc=2 Battersea St, Chc/ 
 Data0=(-43.54376,172.63223)
-[END]
-
-;1131814
-[POI]
-Type=0x2f
-Label=RELOAD THE CROSSING
-StreetDesc=The Crossing, 146 Cashel St, Chc/ 
-Data0=(-43.53326,172.63682)
 [END]
 
 ;1131815
@@ -102400,14 +102309,6 @@ StreetDesc=112 Hereford St, Chc/ Japanese food, takeaway
 Data0=(-43.53218,172.63563)
 [END]
 
-;1131954
-[POI]
-Type=0x2a07
-Label=ST PIERRES TRIANGLE SUSHI
-StreetDesc=127 Cashel St, Chc/ Japanese food, takeaway
-Data0=(-43.53301,172.63687)
-[END]
-
 ;1131955
 [POI]
 Type=0x2e
@@ -102913,14 +102814,6 @@ Type=0x2f
 Label=TANAKA YA
 StreetDesc=125 Gloucester St, Chc/ 
 Data0=(-43.52973,172.63708)
-[END]
-
-;1132023
-[POI]
-Type=0x2f
-Label=TANDOORI MASALA
-StreetDesc=The Crossing, 146 Cashel St, Chc/ 
-Data0=(-43.53326,172.63682)
 [END]
 
 ;1132024
@@ -104016,14 +103909,6 @@ StreetDesc=179 Tuam St, Chc/ cafe, bar
 Data0=(-43.53518,172.63875)
 [END]
 
-;1132168
-[POI]
-Type=0x2f
-Label=TOKYO SAMURAI
-StreetDesc=692 Colombo St, Chc/ 
-Data0=(-43.53300,172.63680)
-[END]
-
 ;1132169
 [POI]
 Type=0x2f
@@ -104283,14 +104168,6 @@ Label=UPPER RICCARTON FISH SUPPLY
 StreetDesc=10B Yaldhurst Rd, Chc/ Fish and Chips, Seafood
 Phone=+6433487522
 Data0=(-43.53152,172.57126)
-[END]
-
-;1132204
-[POI]
-Type=0x2f
-Label=URBAN EATERY
-StreetDesc=126 Cashel St, Chc/ 
-Data0=(-43.53325,172.63560)
 [END]
 
 ;1132206
@@ -105460,6 +105337,7 @@ Data0=(-43.36383,171.52885)
 Type=0x2b01
 Label=ANCHORAGE LODGE 24HR
 StreetDesc=4 Rutland St, Picton/ self-contained accommodation, motel, apartment
+Phone=+6435736192
 zip=24 hours
 Data0=(-41.28977,174.01444)
 [END]
@@ -105544,7 +105422,7 @@ Data0=(-46.40846,168.35043)
 Type=0x2f06
 Label=WESTPAC ATM COUNTDOWN MOORHOUSE 24HR
 StreetDesc=Moorhouse Ave/ ATM
-zip=24-Jul
+zip=24/7
 Data0=(-43.53906,172.64201)
 [END]
 
@@ -106161,6 +106039,7 @@ Data0=(-41.75253,171.59789)
 Type=0x2f
 Label=OTAHUNA HORSE RIDING
 StreetDesc=Otahuna Rd, Tai Tapu, New Zealand/ Build a Bond Beyond Belief
+Phone=+6433290160
 zip=All year.
 Data0=(-43.66201,172.58585)
 [END]
@@ -106170,6 +106049,7 @@ Data0=(-43.66201,172.58585)
 Type=0x2b00
 Label=MT. LYFORD HORSE RIDING
 StreetDesc=Inland Rd, North Canterbury, New Zealand./ Build a Bond Beyond Belief, Treking, 
+Phone=+6433156361
 zip=All Year
 Data0=(-42.50830,173.15200)
 [END]
@@ -110707,6 +110587,7 @@ Data0=(-41.27895,173.27319)
 Type=0x2a0e
 Label=DEVILLE
 StreetDesc=22 New St, Nelson/ Cafe
+Phone=+6435456911
 Data0=(-41.27188,173.28560)
 [END]
 
@@ -112031,7 +111912,7 @@ Data0=(-43.54060,172.60310)
 Type=0x2f0c
 Label=RANGITATA HUTS TOILET 24HR
 StreetDesc=Rangitata Huts Rd/ Toilet
-zip=24-Jul
+zip=24/7
 Data0=(-44.19155,171.49985)
 [END]
 
@@ -112858,7 +112739,7 @@ Data0=(-43.53740,172.60095)
 Type=0x2f06
 Label=BNZ ATM HANMER 24HR
 StreetDesc=Conical Hill Rd, Hanmer Springs/ ATM
-zip=24-Jul
+zip=24/7
 Data0=(-42.52153,172.82960)
 [END]
 
@@ -112891,7 +112772,7 @@ Data0=(-43.82015,171.42445)
 Type=0x2f0c
 Label=HORSESHOE LAKE TOILET 24HR
 StreetDesc=Lake Terrace Rd, Burwood/ Toilet
-zip=24-Jul
+zip=24/7
 Data0=(-43.49542,172.67195)
 [END]
 
@@ -116112,6 +115993,7 @@ Data0=(-45.87968,170.50026)
 Type=0x2f
 Label=DIGNITY FUNERAL SERVICES 24HR
 StreetDesc=183 Middleton Rd, Dud/ Funeral Directors,
+Phone=+6434878600
 zip=8.30am - 5pm on call 24hours
 Data0=(-45.90923,170.47393)
 [END]
@@ -117506,6 +117388,7 @@ Data0=(-45.61170,170.67287)
 Type=0x2f
 Label=WAKARI HAIR
 StreetDesc=122 Helensburgh Rd, Dud/ Hairdressers
+Phone=+6434762104
 zip=Monday - Friday (Saturday by appointment
 Data0=(-45.85754,170.47804)
 [END]
@@ -118839,6 +118722,7 @@ Data0=(-42.46189,171.19717)
 Type=0x2f
 Label=?STYLIZ HAIR SALON
 StreetDesc=11 nelson St/ Hairdresser
+Phone=+6437684440
 zip=8.30 - 5pm Tuesday,Thursday,Friday. Late
 Data0=(-42.46666,171.19243)
 [END]
@@ -120241,6 +120125,7 @@ Data0=(-44.73391,170.47018)
 Type=0x2b03
 Label=WAITAKI WATERS HOLIDAY PARK
 StreetDesc=305 Kaik Rd, Oamaru/ Camping Ground, Holiday Park, Caravan park
+Phone=+6434313880
 zip=Open always, year round
 Data0=(-44.94614,171.13067)
 [END]
@@ -123137,14 +123022,6 @@ Type=0x2e04
 Label=SOUTH CITY SHOPPING MALL
 StreetDesc=South City Shopping Mall, 555 Colombo St, Chc/ Shopping centre, mall
 Data0=(-43.53841,172.63560)
-[END]
-
-;1141616
-[POI]
-Type=0x2e04
-Label=THE CROSSING
-StreetDesc=The Crossing, 146 Cashel St, Chc/ Shopping centre, mall
-Data0=(-43.53326,172.63682)
 [END]
 
 ;1141619
@@ -129950,7 +129827,7 @@ Data0=(-41.27364,173.26106)
 Type=0x2f0c
 Label=CASCADE CREEK TOILET 2 24HR
 StreetDesc=Te Anau-Milford Hwy/ Basic Toilet
-zip=24-Jul
+zip=24/7
 Data0=(-44.89570,168.07915)
 [END]
 
@@ -129959,7 +129836,7 @@ Data0=(-44.89570,168.07915)
 Type=0x2f0c
 Label=CASCADE CREEK TOILET 1 24HR
 StreetDesc=Te Anau-Milford Hwy/ Basic Toilet
-zip=24-Jul
+zip=24/7
 Data0=(-44.89462,168.08210)
 [END]
 
@@ -129968,7 +129845,7 @@ Data0=(-44.89462,168.08210)
 Type=0x2f0c
 Label=DEER FLAT TOILET 1 24HR
 StreetDesc=Te Anau-Milford Hwy/ Basic Toilet
-zip=24-Jul
+zip=24/7
 Data0=(-44.99982,168.00773)
 [END]
 
@@ -129977,7 +129854,7 @@ Data0=(-44.99982,168.00773)
 Type=0x2f0c
 Label=HOMER HUT TOILET 24HR
 StreetDesc=Te Anau-Milford Hwy/ Basic Toilet
-zip=24-Jul
+zip=24/7
 Data0=(-44.76822,168.00270)
 [END]
 
@@ -129986,7 +129863,7 @@ Data0=(-44.76822,168.00270)
 Type=0x2f0c
 Label=MARIAN FALLS CARPARK TOILET 24HR
 StreetDesc=Lower Hollyford Rd/ Basic Toilet
-zip=24-Jul
+zip=24/7
 Data0=(-44.80793,168.10323)
 [END]
 
@@ -130392,6 +130269,7 @@ Data0=(-43.29198,172.68189)
 Type=0x2f
 Label=HI GORGEOUS!
 StreetDesc=Lilybrook Village, 67 Percival St, Rangiora/ Hairdresser, Hair Salon, Beauty Sal
+Phone=+6433136552
 Data0=(-43.31166,172.59577)
 [END]
 
@@ -132115,14 +131993,6 @@ StreetDesc=62 Riccarton Rd, Chc/ Hairdresser
 Data0=(-43.52921,172.60518)
 [END]
 
-;1146661
-[POI]
-Type=0x2f
-Label=CENTRAL HAIR
-StreetDesc=126 Cashel St, Chc/ Hairdresser
-Data0=(-43.53325,172.63560)
-[END]
-
 ;1146662
 [POI]
 Type=0x2f
@@ -133609,14 +133479,6 @@ StreetDesc=571 Barbadoes St, Chc/
 Data0=(-43.51326,172.64578)
 [END]
 
-;1146867
-[POI]
-Type=0x2f
-Label=LEE HAIR SHOP
-StreetDesc=692 Colombo St, Chc/ Hairdresser
-Data0=(-43.53300,172.63680)
-[END]
-
 ;1146868
 [POI]
 Type=0x2f
@@ -134445,8 +134307,10 @@ Data0=(-43.56161,172.71198)
 [POI]
 Type=0x2f
 Label=SATCHMO HAIRDRESSING
-StreetDesc=183 Victoria St, Chc/ Hairdresser
-Data0=(-43.52115,172.62808)
+StreetDesc=176 Papanui Rd, Merivale, Chc/ Hairdresser
+Phone=+6433559791
+zip=Tues to Fri: 9am-8pm, Sat: 9am-5pm
+Data0=(-43.51293,172.62253)
 [END]
 
 ;1146982
@@ -134816,14 +134680,6 @@ Type=0x2a02
 Label=SUSHI CAFE & RESTAURANT
 StreetDesc=289 Colombo St, Chc/ Japanese restaurant, cafe
 Data0=(-43.54992,172.63656)
-[END]
-
-;1147031
-[POI]
-Type=0x2f
-Label=SUSHI EXPRESS
-StreetDesc=126 Cashel St, Chc/ Japanese food
-Data0=(-43.53325,172.63560)
 [END]
 
 ;1147032
@@ -137995,6 +137851,7 @@ Data0=(-44.09887,170.82885)
 Type=0x2a0e
 Label=MAINSTREET CAFE
 StreetDesc=81 Main St, Fairlie/ cafe, takeaways
+Phone=+6436858139
 Data0=(-44.09838,170.82881)
 [END]
 
@@ -140386,6 +140243,7 @@ Data0=(-45.87473,170.50346)
 Type=0x2f
 Label=?AFFORDABLE STEEL FENCING BY AFFORDABLE SHEDS
 StreetDesc=2F Traders Lane McNaulty Rd Cromwell/ Smartascreen Colorbond Steel Fencing and s
+Phone=0800344556
 Data0=(-45.04962,169.18701)
 [END]
 
@@ -142712,7 +142570,7 @@ Data0=(-43.59518,172.38232)
 Type=0x2c06
 Label=HORSESHOE LAKE DOG PARK 24HR
 StreetDesc=Horseshoe Lake Rd, Chc/ Dog exercise area
-zip=24-Jul
+zip=24/7
 Data0=(-43.50061,172.67057)
 [END]
 
@@ -142840,7 +142698,7 @@ Type=0x2f
 Label=PETER WALSH & ASSOCIATES 24HR
 StreetDesc=341 Seadown Rd RD3 Timaru/ Livestock brokers
 Phone=+6436882239
-zip=24-Jul
+zip=24/7
 Data0=(-44.32720,171.26220)
 [END]
 
@@ -145510,7 +145368,7 @@ Data0=(-43.53432,172.63841)
 Type=0x2e02
 Label=STAR MART GLOUCESTER ST 24HR
 StreetDesc=108 Gloucester St, Chc/ Groceries, Convenience Store, Superette
-zip=24-Jul
+zip=24/7
 Data0=(-43.52994,172.63562)
 [END]
 
@@ -145669,6 +145527,7 @@ Data0=(-43.52268,172.65675)
 Type=0x2b01
 Label=GLENFALLOCH COTTAGE
 StreetDesc=1598 Niagara - Tokanui Highway, 1RD, Tokanui, Southland/ Catlins, Farmstay, Acco
+Phone=+6432468741
 Data0=(-46.56012,169.12506)
 [END]
 
@@ -148195,6 +148054,7 @@ Data0=(-43.98109,171.68304)
 Type=0x2f
 Label=WINGATUI HALL
 StreetDesc=270 Gladstone Rd North, Wingatui/ Venue for hire for wedding receptions, birthda
+Phone=+6434894278
 Data0=(-45.87688,170.38732)
 [END]
 
@@ -149078,6 +148938,7 @@ Data0=(-42.57637,172.80246)
 Type=0x2b01
 Label=LE PETIT HOTEL B & B
 StreetDesc=16 Marriner St, Sumner, 8081/ Bed & Breakfast, hotel, accommodation
+Phone=+6433266675
 zip=6am - 11pm
 Data0=(-43.56752,172.75758)
 [END]
@@ -149315,6 +149176,7 @@ Data0=(-43.53216,172.63933)
 Type=0x3003
 Label=MINISTRY OF HEALTH CHRISTCHURCH OFFICE
 StreetDesc=L 1, MWH Blg, 6 Hazeldean Rd, Hazeldean Business Park, Addington, Chc/ Health, H
+Phone=+6433721000
 zip=Mon-Fri 0800-1700
 Data0=(-43.54164,172.61646)
 [END]
@@ -149334,6 +149196,7 @@ Data0=(-43.54164,172.61646)
 Type=0x3003
 Label=MINISTRY OF HEALTH DUNEDIN OFFICE
 StreetDesc=L 4, 229 Moray Place, Dud 9016/ Health, Health Policy and funding, government de
+Phone=+6434748040
 zip=Mon-Fri 0800-1700
 Data0=(-45.87237,170.50334)
 [END]
@@ -154719,6 +154582,7 @@ Data0=(-43.52999,172.63034)
 Type=0x2b00
 Label=ORCHARD VIEW COTTAGE
 StreetDesc=275 Riwaka Valley Rd, Motueka, 7198/ Self contained accommodation. Quiet locatio
+Phone=+6435284030
 zip=9 am - 9 pm
 Data0=(-41.05120,172.93506)
 [END]
@@ -156438,6 +156302,7 @@ Data0=(-41.25149,172.12881)
 Type=0x2f
 Label=FULL ON
 StreetDesc=Unit 2, 201 Opawa Rd, Hillsboroug, Chc/ Team Building, Confernece Activities, Yo
+Phone=+6433374949
 Data0=(-43.55622,172.67136)
 [END]
 
@@ -156658,6 +156523,7 @@ Data0=(-41.50787,173.82812)
 Type=0x2f
 Label=KITESCOOL
 StreetDesc=13 Beachville Cres, Nelson 7001/ Kitesurfing, Kites, boarding, Kite surfing, gea
+Phone=+6421354837
 zip=9am-6pm Seven days a week
 Data0=(-41.26839,173.27554)
 [END]
@@ -156724,6 +156590,7 @@ Data0=(-43.81547,173.07693)
 Type=0x2c00
 Label=KOWHAI RESIDENTIAL SCHOOL OF RIDING
 StreetDesc=711 Island Rd. View Hill, Oxford/ Horse riding holidays, treks & courses, farm s
+Phone=+6433124309
 zip=See web site
 Data0=(-43.29581,172.04694)
 [END]
@@ -162466,7 +162333,7 @@ Data0=(-45.89353,170.48951)
 Type=0x2c08
 Label=THOMAS BURNS SKATEPARK 24HR
 StreetDesc=Thomas Burns St, Dud/ Skate park, skating
-zip=24-Jul
+zip=24 / 7
 Data0=(-45.87601,170.50894)
 [END]
 
@@ -162930,6 +162797,7 @@ Data0=(-43.54922,172.68312)
 Type=0x2f
 Label=FISHER & PAYKEL SPARES
 StreetDesc=79 Shands Rd, Hornby, Chc/ spare parts for F&P products: dishwashers, washing ma
+Phone=0800287746
 zip=Mon-Fri 0800-1700
 Data0=(-43.54838,172.52025)
 [END]
@@ -162959,7 +162827,7 @@ Data0=(-43.54366,172.52593)
 Type=0x2f
 Label=CROCKFORDS BRIDGE CLUB
 StreetDesc=218 Riccarton Rd, Chc/ bridge club, cards
-zip=-3487417
+zip=+64-3-3487478
 Data0=(-43.53032,172.58784)
 [END]
 
@@ -163473,7 +163341,7 @@ Data0=(-43.60289,172.72172)
 Type=0x2c04
 Label=SIGNAL HILL MONUMENT & LOOKOUT 24HR
 StreetDesc=Signal Hill Rd Dud/ Monument,Scenic Lookout, Awesome view of Dunedin
-zip=24-Jul
+zip=24/7
 Data0=(-45.85871,170.54682)
 [END]
 
@@ -174553,7 +174421,7 @@ Data0=(-45.86255,170.51375)
 Type=0x2f0c
 Label=KAIKOURA PUBLIC TOILETS 24HR
 StreetDesc=Northern end of the West End carpark, Ctr of Kaikoura township/ Public Toilet Ka
-zip=24-Jul
+zip=24/7
 Data0=(-42.40122,173.68187)
 [END]
 
@@ -174562,7 +174430,7 @@ Data0=(-42.40122,173.68187)
 Type=0x2f0c
 Label=NORTH HAGLEY PARK TOILETS 24HR
 StreetDesc=Chc, Canterbury, New Zealand/ Toilet
-zip=24-Jul
+zip=24/7
 Data0=(-43.52685,172.62455)
 [END]
 
@@ -174785,7 +174653,7 @@ Data0=(-45.88311,170.53273)
 Type=0x2f
 Label=OTAGO CENTRAL RAIL TRAIL 24HR
 StreetDesc=Clyde-Middlemarch/ A non-profit project managed by the Otago Central Rail Trail 
-zip=24-Jul
+zip=24/7
 Data0=(-45.24797,169.39746)
 [END]
 
@@ -175690,6 +175558,7 @@ Data0=(-43.60645,172.64502)
 Type=0x2a0e
 Label=HARBOURSTREETDELI
 StreetDesc=4b Harbour St, Oamaru/ deli, small cafe, cheeses and small goods, gluten free go
+Phone=+6421076634
 zip=Tue-Sun 10am-4.30pm
 Data0=(-45.10310,170.97063)
 [END]
@@ -177444,6 +177313,7 @@ Data0=(-46.44755,168.26207)
 Type=0x2a07
 Label=WASSUP PRIMO FISH AND CHIPS
 StreetDesc=202 Waltham Rd Chc Canterbury 8023/ Fish and Chips
+Phone=+6433669679
 zip=4.30pm till 8:30pm
 Data0=(-43.54542,172.64710)
 [END]
@@ -179402,14 +179272,6 @@ Type=0x2c04
 Label=DARESBURY (DWELLING)
 StreetDesc=67 Fendalton Rd, Chc/ Historic Place: Category 1
 Data0=(-43.52095,172.60627)
-[END]
-
-;1172537
-[POI]
-Type=0x2c04
-Label=GUTHREY CENTRE (FORMER ANDERSON'S FOUNDRY)
-StreetDesc=124-126 Cashel St, Chc/ Historic Place: Category 1
-Data0=(-43.53325,172.63543)
 [END]
 
 ;1172538
@@ -182562,6 +182424,7 @@ Data0=(-45.41157,167.72338)
 Type=0x2f
 Label=UR COMPUTER RICCARTON
 StreetDesc=127 Riccarton Rd, Riccarton, Chch/ computer parts, service
+Phone=+33488368
 zip=Mon–Fri: 11am–6pm Sat-Sun: 11am–3pm
 Data0=(-43.52999,172.59831)
 [END]
@@ -182571,6 +182434,7 @@ Data0=(-43.52999,172.59831)
 Type=0x2f
 Label=UR COMPUTER SYDENHAM
 StreetDesc=95 Montreal St, Sydenham/ computer parts, service
+Phone=+33799598
 zip=Mon–Fri: 10am–5:30pm Sat: 10am–2:30pm
 Data0=(-43.54295,172.63042)
 [END]
@@ -182960,6 +182824,7 @@ Data0=(-43.55720,172.73797)
 Type=0x2a0e
 Label=FIGARO'S
 StreetDesc=8 Scott St, Blenheim/ Cafe and bar open all day for breakfast lunch and dinner. 
+Phone=+6435777277
 zip=7.30 - late weekdays 8.30 - late weekend
 Data0=(-41.51462,173.95660)
 [END]
@@ -183595,6 +183460,7 @@ Data0=(-43.38303,172.65529)
 Type=0x2f
 Label=AZKO ROOFING LIMITED
 StreetDesc=41 Shakespeare Rd, Chc/ Roofing
+Phone=+33659808
 Data0=(-43.54558,172.64931)
 [END]
 
@@ -183767,6 +183633,7 @@ Data0=(-46.20159,169.38040)
 Type=0x2a07
 Label=AGGY'S SHACK
 StreetDesc=Cnr church St and marine parade Queenstown/ Fish and chips, seafood , takeaways
+Phone=+6434424076
 zip=10am-10pm
 Data0=(-45.03313,168.66096)
 [END]
@@ -184808,6 +184675,7 @@ Data0=(-45.08058,170.98242)
 Type=0x6404
 Label=NELSON BAPTIST CHURCH
 StreetDesc=193 Bridge St, Nelson./ Christian church, baptistic in style. First Baptist chur
+Phone=+6435487026
 Data0=(-41.27249,173.28890)
 [END]
 
@@ -186533,6 +186401,7 @@ Data0=(-43.52944,172.60252)
 Type=0x2e
 Label=?ARCADIAN UPHOLSTERY
 StreetDesc=212 Parnham Rd, Scargill, North. Canterbury/ I can Re-Upholster all types of fur
+Phone=+6433143803
 zip=9am - 5pm
 Data0=(-42.90659,172.95350)
 [END]
@@ -187598,6 +187467,7 @@ Data0=(-43.54102,172.64755)
 Type=0x2f
 Label=PARK VIEW OPTICIANS
 StreetDesc=130 Percival St Rangiora 7400/ Eye exams Frames Lenses Honest and reliable advic
+Phone=+6433130501
 Data0=(-43.30550,172.59401)
 [END]
 
@@ -189350,7 +189220,7 @@ Type=0x2f
 Label=SPRINGFREE TRAMPOLINES
 StreetDesc=347 Blenheim Rd, Riccarton, Chc/ Trampolines safety outdoor play equipment tramp
 Phone=+6439610529
-zip=9-May
+zip=9 - 5
 Data0=(-43.53903,172.57859)
 [END]
 
@@ -189667,7 +189537,7 @@ Type=0x2e05
 Label=AVA GREEN COLLAGEN CAPSULES 24HR
 StreetDesc=Northlands shopping Ctr, papanui rd/ Collagen Capsules - Ava green now stocked a
 Phone=0800886868
-zip=24-Jul
+zip=24/7
 Data0=(-43.49397,172.61032)
 [END]
 
@@ -189723,6 +189593,7 @@ Data0=(-43.53341,172.63492)
 Type=0x2f
 Label=KAIKOURA LANDFILL & RECYCLING CENTRE
 StreetDesc=75 Scarborough St, South Bay 7300, New Zealand/ Landfill, Recycling, 2nd Hand Sh
+Phone=+6433197148
 zip=Mon-Fri 8am to 4.30pm, Sat-Sun-Public Ho
 Data0=(-42.41199,173.68110)
 [END]
@@ -190442,7 +190313,7 @@ Type=0x2a
 Label=LATIMER HOTEL 24HR
 StreetDesc=195 Worcester St, Chc/ Hotel & Apartment Accommodation, Conference Venue, Weddin
 Phone=+33796760
-zip=24-Jul
+zip=24-7
 Data0=(-43.53093,172.64399)
 [END]
 
@@ -190739,6 +190610,7 @@ Data0=(-45.03086,168.66074)
 Type=0x2d02
 Label=PUB ON WHARF
 StreetDesc=88 Beach St, steamer wharf, queenstown/ Pub, restaurant, bar, live music,
+Phone=+6434412155
 zip=10am to late
 Data0=(-45.03313,168.65800)
 [END]
@@ -191860,6 +191732,7 @@ Data0=(-42.39342,173.67940)
 Type=0x2a0e
 Label=SMOKORUN
 StreetDesc=1 Glenda Dr Lower Shotover Queenstown 9300/ Cafe
+Phone=+6421766564
 zip=Mon-Fri: 6am to 4pm, Sat: 7am to 2 pm
 Data0=(-45.00729,168.74852)
 [END]
@@ -193961,7 +193834,7 @@ Type=0x2f
 Label=LOCAL'S CHOICE PROFESSIONAL CARPET & HOME CLEANING 24HR
 StreetDesc=5 Hawkesbury Ave, Merivale, Chc/ Professional cleaning company that cleans, carp
 Phone=0800742728
-zip=24-Jul
+zip=24/7
 Data0=(-43.50758,172.62472)
 [END]
 
@@ -193999,7 +193872,7 @@ Data0=(-43.53215,172.63620)
 Type=0x2f
 Label=DESIGN SIGHT
 StreetDesc=24 Doncaster St Timaru/ Design Sight provides your business with fast, effective
-Phone=+27360804
+Phone=+6406427360
 Data0=(-44.35265,171.23183)
 [END]
 
@@ -194026,6 +193899,7 @@ Data0=(-44.99642,168.78567)
 Type=0x2f
 Label=SMITH WOOD & WOODS
 StreetDesc=Westpac Blg, Mersey St, Gore/ Law firm, lawyers, solicitors, barristers
+Phone=+6432089184
 zip=8.00am - 5.00pm Monday to Friday
 Data0=(-46.10091,168.94393)
 [END]
@@ -194757,6 +194631,7 @@ Data0=(-45.87744,170.50248)
 Type=0x2f
 Label=RABBIT VIBRATORS
 StreetDesc=22 Hargest Cres, Sydenham 8023, New Zealand/ Rabbit Vibrators NZ Shop
+Phone=+6439290018
 Data0=(-43.54954,172.64465)
 [END]
 
@@ -195064,7 +194939,7 @@ Data0=(-41.29195,173.29145)
 Type=0x2a07
 Label=TE BROS FISH SUPPLY 24HR
 StreetDesc=10 Main St, Weston/ Fish and Chip shop/takeaway
-zip=34343240
+zip=034343240
 Data0=(-45.08020,170.91835)
 [END]
 
@@ -195211,6 +195086,7 @@ Data0=(-45.54760,170.05338)
 Type=0x2b00
 Label=TOWER COTTAGE ACCOMMODATION
 StreetDesc=Statehighway 8 Tarras/ Selfcontained Accommodation
+Phone=+6434452074
 Data0=(-44.82617,169.42935)
 [END]
 
@@ -195395,6 +195271,7 @@ Data0=(-43.53156,172.63384)
 Type=0x2a0e
 Label=DOG AND FROG CAFE
 StreetDesc=22 High St, Picton/ Cafe
+Phone=+6435735650
 Data0=(-41.28946,174.00715)
 [END]
 
@@ -195488,6 +195365,7 @@ Data0=(-45.87865,170.50310)
 Type=0x2f
 Label=MERIVALE ORTHODONTIX
 StreetDesc=363 Papanui Rd/ Orthodontics
+Phone=+6433553930
 zip=8.00am-5.00pm
 Data0=(-43.50558,172.61529)
 [END]
@@ -195516,6 +195394,7 @@ Data0=(-45.93738,170.34658)
 Type=0x2f
 Label=ASHBURTON DENTAL CENTRE
 StreetDesc=72 Cass St Ashburton 7700/ Dentist
+Phone=+6433081953
 Data0=(-43.90561,171.75058)
 [END]
 
@@ -197997,6 +197876,7 @@ Data0=(-43.58708,171.52988)
 Type=0x2b02
 Label=AORAKI COTTAGE
 StreetDesc=246 Gualter Rd , Geraldine/ Adventure, B+B, Farm Stay, Deer farm, Dairy Farm, Ka
+Phone=+6436974866
 zip=All hours
 Data0=(-44.13541,171.15944)
 [END]
@@ -198006,6 +197886,7 @@ Data0=(-44.13541,171.15944)
 Type=0x2f
 Label=ARTHOUSEMEDIA RECORDING STUDIO, DUNEDIN
 StreetDesc=Lonsdale St, Belleknowes, Dud 9011/ arthousemedia is an electronic media creatio
+Phone=+6434530446
 zip=10:00 am - 10:00pm, By Appointment Only
 Data0=(-45.87809,170.48114)
 [END]
@@ -198988,6 +198869,7 @@ Data0=(-43.53391,172.62803)
 Type=0x2e
 Label=BLUFF BOTTLE STORE
 StreetDesc=70 Gore St Bluff/ Beer, Wine, Spirits
+Phone=+6432127521
 zip=10am to 9pm Monday to Sunday
 Data0=(-46.59931,168.34479)
 [END]
@@ -199097,6 +198979,7 @@ Data0=(-44.09022,170.59954)
 Type=0x2f
 Label=MULFORD PLASTICS (NZ) LTD
 StreetDesc=18 Sonter Rd, Sockburn, Chc/ plastic sheet, plastic film, plastic rollroll
+Phone=+6433437950
 Data0=(-43.54716,172.56991)
 [END]
 
@@ -199407,6 +199290,7 @@ Data0=(-45.87237,170.50482)
 Type=0x2f
 Label=PLANKTON WEB DESIGN
 StreetDesc=17 Chilcombe St, Ilam, Chc, New Zealand/ Michael Story Christchurch Web Designer
+Phone=+6421295448
 Data0=(-43.51537,172.58438)
 [END]
 
@@ -199703,6 +199587,7 @@ Data0=(-43.48291,172.65022)
 Type=0x2f
 Label=WEST COAST SHUTTLE
 StreetDesc=Riccarton Mall Chc/ coach, bus, transport,ChCh Airport, arthurs'pass,Greymouth, 
+Phone=+6427492748
 zip=2.30 pm
 Data0=(-43.53013,172.59667)
 [END]
@@ -200096,6 +199981,7 @@ Data0=(-41.10502,173.01552)
 Type=0x2f
 Label=WARREN VOIGHT
 StreetDesc=26 Bank St, The Gardens, Dud/ Massage, Bowen Therapy, Deep Tissue Massage, Facia
+Phone=0800459612
 zip=Tuesday to Friday 10am - 6pm
 Data0=(-45.85457,170.51768)
 [END]
@@ -200152,6 +200038,7 @@ Data0=(-45.03116,168.66264)
 Type=0x2f
 Label=EASTERN LINGUISTICS
 StreetDesc=453 Halswell Rd, Halswell, Chc 8025/ Translation and language services
+Phone=+6433226125
 zip=8:30-5:00
 Data0=(-43.59105,172.56845)
 [END]
@@ -200310,6 +200197,7 @@ Data0=(-43.55729,172.51210)
 Type=0x2e01
 Label=?UPGRADE APPLIANCES
 StreetDesc=Restell St Papanui Chc/ A discount code to get $10 off at Upgrade Appliances.co.
+Phone=0800101068
 zip=All the time
 Data0=(-43.49504,172.60668)
 [END]
@@ -200498,6 +200386,7 @@ Data0=(-43.53355,172.65015)
 Type=0x2f
 Label=INAPPROPRIATE MARKETING
 StreetDesc=L 1 Skyline Arcade Queenstown/ Marketing Consulting Services --> branding, strat
+Phone=+6427485540
 Data0=(-45.03220,168.66069)
 [END]
 
@@ -200506,6 +200395,7 @@ Data0=(-45.03220,168.66069)
 Type=0x2f
 Label=WEBNZ WEBSITE DESIGN DUNEDIN
 StreetDesc=Highcliff Rd/ Website Design, Website Development, Website Hosting, Search Engin
+Phone=+6434545790
 Data0=(-45.88419,170.54887)
 [END]
 
@@ -200569,6 +200459,7 @@ Data0=(-43.50991,172.61935)
 Type=0x2f
 Label=?ROCKMYBABY
 StreetDesc=canterbury/ Babysitting, nannying agency.
+Phone=+6422176276
 zip=8am-8pm 7 days a week
 Data0=(-43.75423,171.16372)
 [END]
@@ -201016,7 +200907,7 @@ Data0=(-43.53191,172.63822)
 Type=0x2f
 Label=MYTAX.CO.NZ LIMITED
 StreetDesc=105 Trafalgar St, Nelson, New Zealand/ tax refund, tax refunds, tax return, tax,
-zip=9-May
+zip=9-5
 Data0=(-41.27124,173.28419)
 [END]
 
@@ -201083,6 +200974,7 @@ Data0=(-44.00200,171.68477)
 Type=0x2d00
 Label=BELFAST PONY CLUB
 StreetDesc=Spencerville Rd/ North Canterbury Pony Club
+Phone=+6433139974
 Data0=(-43.42656,172.66843)
 [END]
 
@@ -201101,7 +200993,7 @@ Type=0x2f
 Label=HANSON REMOVALS DUNEDIN 24HR
 StreetDesc=313 Kaikorai Valley Rd Dud 9011 New Zealand/ Hanson Removals Dunedin for timely,
 Phone=+6434536575
-zip=24-Jul
+zip=24-7
 Data0=(-45.87664,170.47128)
 [END]
 
@@ -201315,6 +201207,7 @@ Data0=(-43.55577,172.51471)
 Type=0x2f
 Label=CONTEXT ARCHITECTS CHRISTCHURCH
 StreetDesc=1/235 Lincoln Rd, Addington, Chc, 8024/ Architects, Architecture, Interior Desig
+Phone=+6435501550
 Data0=(-43.54537,172.60795)
 [END]
 
@@ -202034,7 +201927,7 @@ Type=0x2b00
 Label=LAKE VILLAS ACCOMMODATION 24HR
 StreetDesc=9 Gavan St, Cromwell 9310, New Zealand/ LUXURY 1, 2 and 3 bedroom Apartments - U
 Phone=+6434454119
-zip=24-Jul
+zip=24/7
 Data0=(-45.04671,169.19385)
 [END]
 
@@ -202099,7 +201992,7 @@ Data0=(-43.53815,172.55217)
 Type=0x2c00
 Label=PUNAKAIKI CAVE 24HR
 StreetDesc=SH6 Punakaiki/ Tourist attraction & visitor activity
-zip=24-Jul
+zip=24/7
 Data0=(-42.11257,171.33202)
 [END]
 
@@ -202161,6 +202054,7 @@ Data0=(-43.55335,172.68257)
 Type=0x2f
 Label=IZON - NANOPARTICLE ANALYSIS SYSTEMS
 StreetDesc=175 Roydvale Ave Burnside, Chc 8053/ particle analysis, nanoparticle, particle s
+Phone=+33574270
 Data0=(-43.49053,172.56443)
 [END]
 
@@ -202402,7 +202296,7 @@ Type=0x2e
 Label=WATCH DOCTOR LTD
 StreetDesc=182 Hoon Hay Rd Hoon Hay Chc/ watchmakers
 Phone=+6433381109
-zip=8.3
+zip=8.30
 Data0=(-43.56490,172.60894)
 [END]
 
@@ -202411,6 +202305,7 @@ Data0=(-43.56490,172.60894)
 Type=0x2f
 Label=NEAS FURNITURE SERVICES
 StreetDesc=1017 Motu Rimu Rd, Invercargill/ Furniture removal specialists who are local and
+Phone=+6432188648
 zip=8am
 Data0=(-46.47117,168.43555)
 [END]
@@ -202494,6 +202389,7 @@ Data0=(-46.41331,168.35917)
 Type=0x2f
 Label=BJ CARTER LTD
 StreetDesc=15 Waianiwa-Oporo Rd, Oporo, Invercargill/ Whether it's replacing a door handle 
+Phone=+6432352848
 zip=7am
 Data0=(-46.29441,168.25364)
 [END]
@@ -202512,6 +202408,7 @@ Data0=(-41.29203,173.23272)
 Type=0x2f
 Label=FLINTOFFS CHARTERED ACCOUNTANTS
 StreetDesc=85 Gala St, Invercargill/ Chartered accountants for small to medium sized busine
+Phone=+6432147979
 zip=8am
 Data0=(-46.40661,168.35218)
 [END]
@@ -202521,6 +202418,7 @@ Data0=(-46.40661,168.35218)
 Type=0x2a0e
 Label=FIRST IN WINDSOR
 StreetDesc=72 King St, Invercargill/ First in windsor is a fully licensed, popular, up-mark
+Phone=+6432173905
 zip=7am
 Data0=(-46.39826,168.36602)
 [END]
@@ -202533,5 +202431,42 @@ StreetDesc=137 Anderson Rd/ Accomodation Lodge, self catering, B&B, Wedding and 
 Phone=+6434431961
 zip=check in 1500hrs and check out1000hrs
 Data0=(-44.68324,169.14765)
+[END]
+
+;1190529
+[POI]
+Type=0x2f
+Label=HE WAKA TAPU
+StreetDesc=161 Pages Rd, Chc, New Zealand/ Health and Social Services Provider for Maori Wh
+Phone=+6433738150
+Data0=(-43.52140,172.69501)
+[END]
+
+;1190530
+[POI]
+Type=0x2f
+Label=KENN BUTLER INSURANCE BROKER & CONSULTANT
+StreetDesc=1A Waimea Rd, Nelson/ Insurance Broker, Insurance Consultant
+Phone=+6435482211
+Data0=(-41.28065,173.28010)
+[END]
+
+;1190532
+[POI]
+Type=0x2f
+Label=SKINWORKS
+StreetDesc=191 Papanui Rd, Merivale, Chc, New Zealand/ Non-Invasive Treatment Skin Treatmen
+Phone=+6433551980
+Data0=(-43.51231,172.62179)
+[END]
+
+;1190535
+[POI]
+Type=0x2e07
+Label=AMAZON SURF RICCARTON MALL
+StreetDesc=Shop 117 Riccarton Mall, 145 Riccarton Rd, Chc/ Surfwear, street and denim. Rip 
+Phone=+6433485689
+zip=Mon-Wed 9am-6pm, Thu-Fri 9am-9pm, Sat 9a
+Data0=(-43.53043,172.59686)
 [END]
 

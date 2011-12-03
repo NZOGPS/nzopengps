@@ -41167,6 +41167,7 @@ Type=0x2e01
 Label=BALLANTYNES
 StreetDesc=City Mall, Corner Cashel & Colombo Streets, Chc/ Department store. Fashion, Clot
 Phone=+6433797400
+zip=Mon-Sat 10am-6pm, Sun 10am-5pm
 Data0=(-43.53335,172.63627)
 [END]
 
@@ -89681,9 +89682,10 @@ Data0=(-45.63977,170.65649)
 
 ;1128533
 [POI]
-Type=0x2a05
+Type=0x2a0e
 Label=GARDEN SEAT CAFE & LUNCH BAR
-StreetDesc=6 North Rd, Dud/ cafe, bakery
+StreetDesc=6 North Rd, North East Valley, Dud/ cafe, bakery
+Phone=+6434738354
 Data0=(-45.85489,170.51949)
 [END]
 
@@ -90583,14 +90585,6 @@ Type=0x2f
 Label=MITCHELLS FAMILY FOOD CENTRE
 StreetDesc=43A Holyhead St, Outram/ 
 Data0=(-45.85668,170.23094)
-[END]
-
-;1128649
-[POI]
-Type=0x2f
-Label=MOCCA INTERNATIONAL STUDENT LOUNGE
-StreetDesc=72 Albany St, Dud/ 
-Data0=(-45.86715,170.51156)
 [END]
 
 ;1128650
@@ -91835,8 +91829,10 @@ Data0=(-45.86958,170.50653)
 [POI]
 Type=0x2a0e
 Label=THE GREEN ACORN CAFE
-StreetDesc=765 Cumberland St, Dud/ cafe
-Data0=(-45.86326,170.51289)
+StreetDesc=72 Albany St, Dud/ cafe & catering
+Phone=+6434776826
+zip=Mon-Fri 7am-5pm, Sat 10am-5pm
+Data0=(-45.86719,170.51153)
 [END]
 
 ;1128805
@@ -94590,14 +94586,6 @@ StreetDesc=220 Cumnor Tce, Woolston, Chc/
 Data0=(-43.56018,172.68511)
 [END]
 
-;1130925
-[POI]
-Type=0x2f
-Label=BALLANTYNES - THE PANTRY
-StreetDesc=126 Cashel St, Chc/ 
-Data0=(-43.53325,172.63560)
-[END]
-
 ;1130926
 [POI]
 Type=0x2f
@@ -95293,14 +95281,6 @@ Type=0x2a0e
 Label=CAFE MANO
 StreetDesc=363 Colombo St, Chc/ cafe
 Data0=(-43.54641,172.63643)
-[END]
-
-;1131019
-[POI]
-Type=0x2a0e
-Label=CAFE METRO
-StreetDesc=783 Colombo St, Chc/ cafe
-Data0=(-43.52647,172.63645)
 [END]
 
 ;1131020
@@ -98353,14 +98333,6 @@ StreetDesc=636 Pages Rd, Chc/
 Data0=(-43.51059,172.71834)
 [END]
 
-;1131429
-[POI]
-Type=0x2f
-Label=J. BALLANTYNE & CO.
-StreetDesc=126 Cashel St, Chc/ 
-Data0=(-43.53325,172.63560)
-[END]
-
 ;1131430
 [POI]
 Type=0x2a07
@@ -98516,14 +98488,6 @@ Type=0x2f
 Label=J-MART OPAWA
 StreetDesc=134 Opawa Rd, Chc/ 
 Data0=(-43.55370,172.66537)
-[END]
-
-;1131449
-[POI]
-Type=0x2f
-Label=JOHNSON SPECIALIST GROCERIES
-StreetDesc=787 Colombo St, Chc/ 
-Data0=(-43.52638,172.63645)
 [END]
 
 ;1131451
@@ -101579,14 +101543,6 @@ StreetDesc=184 Clarence St, Chc/ Vietnamese Restaurant
 Data0=(-43.53015,172.60211)
 [END]
 
-;1131861
-[POI]
-Type=0x2a
-Label=SALA THAI RESTAURANT
-StreetDesc=800 Colombo St, Chc/ restaurant
-Data0=(-43.52637,172.63679)
-[END]
-
 ;1131862
 [POI]
 Type=0x2a0e
@@ -103087,10 +103043,11 @@ Data0=(-43.53218,172.63593)
 
 ;1132061
 [POI]
-Type=0x2f
+Type=0x2a
 Label=THE BODHI TREE
-StreetDesc=806 Colombo St, Chc/ 
-Data0=(-43.52628,172.63678)
+StreetDesc=399 Ilam Rd, Bryndwr, Chc/ Restaurant, cuisine of Burma
+Phone=+6433776808
+Data0=(-43.50912,172.58874)
 [END]
 
 ;1132062
@@ -103123,14 +103080,6 @@ Type=0x2f
 Label=THE BUCKS HEAD
 StreetDesc=31 Victoria St, Chc/ 
 Data0=(-43.52639,172.63307)
-[END]
-
-;1132067
-[POI]
-Type=0x2f
-Label=THE CAKE TIN
-StreetDesc=785 Colombo St, Chc/ 
-Data0=(-43.52642,172.63645)
 [END]
 
 ;1132068
@@ -202468,5 +202417,273 @@ StreetDesc=Shop 117 Riccarton Mall, 145 Riccarton Rd, Chc/ Surfwear, street and 
 Phone=+6433485689
 zip=Mon-Wed 9am-6pm, Thu-Fri 9am-9pm, Sat 9a
 Data0=(-43.53043,172.59686)
+[END]
+
+;1190582
+[POI]
+Type=0x2e07
+Label=COUNTRY ROAD DUNEDIN
+StreetDesc=Wall St Shopping Ctr, Shop G09, 209-233 George St, Dud/ Clothing for women, men 
+Phone=+6434779451
+zip=Mon-Thu 9am-5.30pm, Fri 9am-8pm, Sat 10a
+Data0=(-45.87097,170.50521)
+[END]
+
+;1190588
+[POI]
+Type=0x2e04
+Label=RE:START
+StreetDesc=Restart, Cashel St City Mall, Chc Central/ Shopping centre, mall
+Data0=(-43.53316,172.63545)
+[END]
+
+;1190589
+[POI]
+Type=0x2f
+Label=SUAN FOO ACUPUNCTURIST
+StreetDesc=965 Colombo St St Albans Chc 8014/ Medical, alternative medicine, tcm, acupunctu
+Phone=+21689979
+zip=9am to 5.30pm
+Data0=(-43.51842,172.63629)
+[END]
+
+;1190608
+[POI]
+Type=0x2f
+Label=COSMIC
+StreetDesc=Restart, Cashel St City Mall, Chc Central/ 
+Phone=+6433772949
+Data0=(-43.53316,172.63545)
+[END]
+
+;1190609
+[POI]
+Type=0x2f
+Label=HAPA
+StreetDesc=Restart, Cashel St City Mall, Chc Central/ Gifts
+Phone=+6433729335
+Data0=(-43.53316,172.63545)
+[END]
+
+;1190610
+[POI]
+Type=0x2f
+Label=MIMCO
+StreetDesc=Restart, Cashel St City Mall, Chc Central/ 
+Data0=(-43.53316,172.63545)
+[END]
+
+;1190611
+[POI]
+Type=0x2e07
+Label=SIMPLY NZ
+StreetDesc=Restart, Cashel St City Mall, Chc Central/ Souvenirs, Giftware, Jewellery, Knitw
+Phone=+6433659776
+Data0=(-43.53316,172.63545)
+[END]
+
+;1190612
+[POI]
+Type=0x2f
+Label=TOI TOI
+StreetDesc=Restart, Cashel St City Mall, Chc Central/ Design store, gifts, jewellery
+Phone=+6433579900
+Data0=(-43.53316,172.63545)
+[END]
+
+;1190614
+[POI]
+Type=0x2f06
+Label=ASB (B)
+StreetDesc=Restart, Cashel St City Mall, Chc Central/ Bank branch
+zip=Mon-Sat 10am-6pm, Sun 10am-5pm
+Data0=(-43.53316,172.63545)
+[END]
+
+;1190616
+[POI]
+Type=0x2e07
+Label=BARKERS
+StreetDesc=Restart, Cashel St City Mall, Chc Central/ Mens clothing store
+Phone=+6433745734
+Data0=(-43.53316,172.63545)
+[END]
+
+;1190618
+[POI]
+Type=0x2e07
+Label=CONTEMPORARY LOUNGE
+StreetDesc=Restart, Cashel St City Mall, Chc Central/ high fashion, streetwear, footwear, a
+Data0=(-43.53316,172.63545)
+[END]
+
+;1190620
+[POI]
+Type=0x2a0e
+Label=CRAFTED COFFEE
+StreetDesc=Restart, Cashel St City Mall, Chc Central/ Cafe
+Phone=+6433742328
+Data0=(-43.53316,172.63545)
+[END]
+
+;1190622
+[POI]
+Type=0x2e07
+Label=D'FUSION
+StreetDesc=Restart, Cashel St City Mall, Chc Central/ Clothing & denim gallery
+Phone=+6421242333
+Data0=(-43.53316,172.63545)
+[END]
+
+;1190624
+[POI]
+Type=0x2e07
+Label=HOT DAMN
+StreetDesc=Restart, Cashel St City Mall, Chc Central/ lingerie
+Phone=+6433746694
+Data0=(-43.53316,172.63545)
+[END]
+
+;1190626
+[POI]
+Type=0x2a0e
+Label=HUMMINGBIRD COFFEE
+StreetDesc=Restart, Cashel St City Mall, Chc Central/ Cafe
+Phone=+6439412141
+Data0=(-43.53316,172.63545)
+[END]
+
+;1190627
+[POI]
+Type=0x2e07
+Label=HUNTERS & COLLECTORS
+StreetDesc=Restart, Cashel St City Mall, Chc Central/ Clothing
+Phone=+6433653751
+Data0=(-43.53316,172.63545)
+[END]
+
+;1190628
+[POI]
+Type=0x2e07
+Label=INFINITE DEFINITE
+StreetDesc=Restart, Cashel St City Mall, Chc Central/ Clothing
+Phone=+6433717465
+Data0=(-43.53316,172.63545)
+[END]
+
+;1190629
+[POI]
+Type=0x2e02
+Label=JOHNSON'S GROCERY
+StreetDesc=Restart, Cashel St City Mall, Chc Central/ Groceries, imported foods
+Phone=+6433663027
+Data0=(-43.53316,172.63545)
+[END]
+
+;1190630
+[POI]
+Type=0x2e
+Label=KATHMANDU
+StreetDesc=Restart, Cashel St City Mall, Chc Central/ Outdoor clothing and equipment for tr
+Data0=(-43.53316,172.63545)
+[END]
+
+;1190631
+[POI]
+Type=0x2e07
+Label=KINGAN JONES
+StreetDesc=Restart, Cashel St City Mall, Chc Central/ Fashion, clothing
+Phone=+6433660143
+Data0=(-43.53316,172.63545)
+[END]
+
+;1190633
+[POI]
+Type=0x2e07
+Label=KOOKY
+StreetDesc=Restart, Cashel St City Mall, Chc Central/ Fashion, clothing
+Phone=+6439433959
+Data0=(-43.53316,172.63545)
+[END]
+
+;1190634
+[POI]
+Type=0x2e07
+Label=MAHER SHOES
+StreetDesc=Restart, Cashel St City Mall, Chc Central/ Shoes, designer footwear
+Phone=+6433771975
+Data0=(-43.53316,172.63545)
+[END]
+
+;1190635
+[POI]
+Type=0x2e07
+Label=MINNIE COOPER
+StreetDesc=Restart, Cashel St City Mall, Chc Central/ Women shoes, boots, sandals and knitw
+Phone=+6433778232
+Data0=(-43.53316,172.63545)
+[END]
+
+;1190636
+[POI]
+Type=0x2e07
+Label=PLUSH
+StreetDesc=Restart, Cashel St City Mall, Chc Central/ Women's designer clothing
+Phone=+6433656493
+Data0=(-43.53316,172.63545)
+[END]
+
+;1190637
+[POI]
+Type=0x2e07
+Label=RUBY
+StreetDesc=Restart, Cashel St City Mall, Chc Central/ Clothing, jewellery
+Phone=+6433723465
+Data0=(-43.53316,172.63545)
+[END]
+
+;1190639
+[POI]
+Type=0x2e
+Label=SCORPIO BOOKS
+StreetDesc=Restart, Cashel St City Mall, Chc Central/ Book store
+Phone=+6433778462
+Data0=(-43.53316,172.63545)
+[END]
+
+;1190641
+[POI]
+Type=0x2e07
+Label=STORM
+StreetDesc=Restart, Cashel St City Mall, Chc Central/ Women's designer clothing
+Phone=+6433530232
+Data0=(-43.53316,172.63545)
+[END]
+
+;1190642
+[POI]
+Type=0x2e07
+Label=TRELISE COOPER
+StreetDesc=Restart, Cashel St City Mall, Chc Central/ Fashion, clothing
+Phone=+6433771222
+Data0=(-43.53316,172.63545)
+[END]
+
+;1190644
+[POI]
+Type=0x2e0b
+Label=YOOBEE
+StreetDesc=Restart, Cashel St City Mall, Chc Central/ Apple computers premium reseller. iPo
+Phone=+6439434011
+Data0=(-43.53316,172.63545)
+[END]
+
+;1190646
+[POI]
+Type=0x2e07
+Label=3 WISE MEN
+StreetDesc=Restart, Cashel St City Mall, Chc Central/ Men's fashion, clothing
+Phone=+6433666179
+Data0=(-43.53316,172.63545)
 [END]
 

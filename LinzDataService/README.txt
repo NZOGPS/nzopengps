@@ -8,6 +8,9 @@ Future:
 Inputs:
 The LINZ Data Service exports are available from
 http://data.linz.govt.nz/layer/818-nz-road-centre-line-electoral/
+You can also get NUMBERS although they aren't specifically needed for this step
+http://data.linz.govt.nz/layer/779-nz-street-address-electoral/
+
  -- must export using Map Projection NZGD2000 (EPSG: 4167 Lat/Long) NOT the default option NZGD200 / NZ Transverse Mercator 
 These won't be checked into our repository, so each person will need to get it themselves.
 
@@ -36,19 +39,3 @@ gem install dbf
 Script developed November 2011 using Ruby 1.8.7 p352
 
 ###########################
-Processing
-Download and extract the current complete Zenbu export file
-www.zenbu.co.nz/export/all
-into ZenbuPOIcompiler2011
-
-The batch files contain the calls which need to be executed, in the designated order
-0-PullSVNpoiFiles.bat
-1-Process.bat
-2-SVN commit.bat
-####
-NOTES
-
-routines.rb contains all the methods
-process.rb is the simple process
-
-The text "#NZ CUSTOMISED" is used to mark code that has NZ specific functionality (particularly for anyone wanting to use this for other Zenbu country data (2010 Cook Islands only))

@@ -99,7 +99,7 @@ STRIP_PREVIOUS_NUMBERING = false; print "STRIP_PREVIOUS_NUMBERING=#{STRIP_PREVIO
 ONLY_ADD_NUMBERING_TO_SECTIONS_WITHOUT_ANY = true; print "ONLY_ADD_NUMBERING_TO_SECTIONS_WITHOUT_ANY=#{ONLY_ADD_NUMBERING_TO_SECTIONS_WITHOUT_ANY}\n"
 
 ALLOWED_ROAD_TYPES_FOR_NUMBERING = ['0x1','0x2','0x3','0x4','0x5','0x6','0x7','0xa']
-AUTONUMBERDATESTRING = Time.now.strftime(";Auto-numbered=%Y%m%d")
+#AUTONUMBERDATESTRING = Time.now.strftime(";Auto-numbered=%Y%m%d")
 
 ###############
 WORKING_SRID = 4167
@@ -395,6 +395,7 @@ def get_dx_dy(point1,point2,k)
   x1_gt_x2 = point1x>point2x
 
   if (y1_gt_y2 && x1_gt_x2) || (x1_gt_x2 && !y1_gt_y2) then
+  #if (point1x > point2x) then #20111205 I'm pretty sure this simple test is correct. Who knows what I was thinking when I wrote the above in 2008.
     #right is up
     left1x = dx
     left1y = dy
@@ -631,7 +632,7 @@ def nearest_address_working_single_section(rna_id,data0)
   if count_of_houses_on_street == 0 then
     return ";fail-no_houses_on_street-nearest_address_working_single_section"
   end
-  debugger
+  
   wkt = convert_data0_to_wkt(data0)
   #print "data0 = #{data0}\n"
   #print "wkt = #{wkt}\n"

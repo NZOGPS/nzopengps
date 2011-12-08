@@ -589,24 +589,6 @@ Phone=+6436883755
 Data0=(-44.38317,171.23869)
 [END]
 
-;1002632
-[POI]
-Type=0x2a0a
-Label=PIZZA HUT ASHBURTON
-StreetDesc=84 East St, Ashburton/ pizza, takeaways
-Phone=0800838383
-Data0=(-43.90742,171.74354)
-[END]
-
-;1002653
-[POI]
-Type=0x2a0a
-Label=PIZZA HUT BLENHEIM
-StreetDesc=17C Maxwell Rd, Blenheim/ pizza, takeaways
-Phone=0800838383
-Data0=(-41.51491,173.95579)
-[END]
-
 ;1002674
 [POI]
 Type=0x2a0a
@@ -679,15 +661,6 @@ Phone=0800838383
 Data0=(-46.42783,168.36114)
 [END]
 
-;1002996
-[POI]
-Type=0x2a0a
-Label=PIZZA HUT NELSON
-StreetDesc=27 Hardy St, Nelson/ pizza, takeaways
-Phone=0800838383
-Data0=(-41.27405,173.27944)
-[END]
-
 ;1003003
 [POI]
 Type=0x2a0a
@@ -704,15 +677,6 @@ Label=PIZZA HUT NORTHWOOD
 StreetDesc=Northwood Supa Ctr, Cnr Main North & Radcliffe Roads, Belfast, Chc/ pizza, takea
 Phone=0800838383
 Data0=(-43.45901,172.62368)
-[END]
-
-;1003094
-[POI]
-Type=0x2a0a
-Label=PIZZA HUT RANGIORA
-StreetDesc=Tenancy 3, Warehouse Shopping Ctr, 15 High St, Rangiora, Chc/ pizza, takeaways
-Phone=0800838383
-Data0=(-43.30348,172.59859)
 [END]
 
 ;1003234
@@ -733,21 +697,12 @@ Phone=0800838383
 Data0=(-43.50875,172.65128)
 [END]
 
-;1003262
-[POI]
-Type=0x2a0a
-Label=PIZZA HUT SYDENHAM
-StreetDesc=289 Colombo St, Sydenham, Chc/ pizza, takeaways
-Phone=0800838383
-Data0=(-43.54992,172.63656)
-[END]
-
 ;1003304
 [POI]
 Type=0x2a0a
 Label=PIZZA HUT TIMARU
 StreetDesc=90C Evans St, Timaru/ pizza, takeaways
-Phone=0800838383
+Phone=+6436831714
 Data0=(-44.38339,171.23829)
 [END]
 
@@ -836,7 +791,7 @@ Data0=(-44.39352,171.24754)
 [POI]
 Type=0x2e05
 Label=UNICHEM KNOX PHARMACY
-StreetDesc=402 George St, Dud/ chemist, pharmacy
+StreetDesc=402 George St, Dud, Southland/ chemist, pharmacy
 Phone=+6434770635
 zip=Mon 8.00am - 6.00pm,Tue 8.00am - 6.00pm,
 Data0=(-45.86785,170.50735)
@@ -882,16 +837,6 @@ zip=Mon 8.30am - 5.30pm,Tue 8.30am - 5.30pm,
 Data0=(-43.58021,172.56697)
 [END]
 
-;1003885
-[POI]
-Type=0x2e05
-Label=UNICHEM APOTHECARY
-StreetDesc=33 Tainui St, Greymouth, Westcoast/ chemist, pharmacy
-Phone=+6437685871
-zip=Mon 8.30am - 5.30pm,Tue 8.30am - 5.30pm,
-Data0=(-42.44908,171.21126)
-[END]
-
 ;1003913
 [POI]
 Type=0x2e05
@@ -906,7 +851,7 @@ Data0=(-41.11174,173.01132)
 [POI]
 Type=0x2e05
 Label=UNICHEM NELSON CITY PHARMACY
-StreetDesc=207 Trafalgar St, Nelson,/ chemist, pharmacy
+StreetDesc=207 Trafalgar St, Nelson, Marlborough/ chemist, pharmacy
 Phone=+6435484380
 zip=Mon 8.30am - 5.30pm,Tue 8.30am - 5.30pm,
 Data0=(-41.27322,173.28420)
@@ -956,7 +901,7 @@ Data0=(-46.41277,168.35778)
 [POI]
 Type=0x2e05
 Label=UNICHEM GRAYS BALCLUTHE PHARMACY
-StreetDesc=62 Clyde St, Balclutha, Otago/ chemist, pharmacy
+StreetDesc=62 Clyde St, Balclutha, Southland/ chemist, pharmacy
 Phone=+6434181359
 zip=Mon 9.00am - 5.30pm,Tue 9.00am - 5.30pm,
 Data0=(-46.23821,169.73818)
@@ -1085,7 +1030,7 @@ Data0=(-46.40205,168.38536)
 ;1004249
 [POI]
 Type=0x2e05
-Label=UNICHEM STEWARTS PHARMACY
+Label=STEWARTS PHARMACY INVERCARGILL
 StreetDesc=150 Dee St, Invercargill, Southland/ chemist, pharmacy
 Phone=+6432183079
 Data0=(-46.40860,168.34696)
@@ -1130,7 +1075,7 @@ Data0=(-44.39033,171.22637)
 ;1004543
 [POI]
 Type=0x2e05
-Label=UNICHEM WANAKA PHARMACY
+Label=WANAKA PHARMACY
 StreetDesc=41 Helwick St, Wanaka, Southland/ chemist, pharmacy
 Phone=+6434438000
 Data0=(-44.69617,169.13581)
@@ -2453,7 +2398,7 @@ Data0=(-43.51374,172.61496)
 [POI]
 Type=0x2c05
 Label=EMMANUEL CHRISTIAN SCHOOL
-StreetDesc=322 a Sawyers Arms Rd, Bishopdale, Chc/ State Integrated Co-Ed Primary, Intermed
+StreetDesc=322A Sawyers Arms Rd, Bishopdale, Chc/ State Integrated Co-Ed Primary, Intermedi
 Phone=+6433593595
 Data0=(-43.47875,172.58817)
 [END]
@@ -2573,15 +2518,6 @@ Label=FLAGSWAMP SCHOOL
 StreetDesc=Palmerston-Waikouaiti Rd, Flag Swamp/ State Co-Ed Primary School
 Phone=+6434657296
 Data0=(-45.54600,170.70323)
-[END]
-
-;1010108
-[POI]
-Type=0x2c05
-Label=FORBURY SCHOOL
-StreetDesc=158 Oxford St, Dud/ State Co-Ed Primary, Intermediate School
-Phone=+6434554356
-Data0=(-45.89899,170.50118)
 [END]
 
 ;1010143
@@ -2732,7 +2668,7 @@ Data0=(-43.48171,171.93250)
 [POI]
 Type=0x2c05
 Label=GLORIAVALE CHRISTIAN COMMUNITY SCHOOL
-StreetDesc=189 Heaphy Rd, Lake Haupiri, Grey/ Private Co-Ed Primary, Intermediate, Secondar
+StreetDesc=189 Heaphy Rd, Lake Haupiri, Grey District/ Private Co-Ed Primary, Intermediate,
 Phone=+6437380265
 Data0=(-42.60203,171.70029)
 [END]
@@ -7798,15 +7734,6 @@ Phone=+6433598111
 Data0=(-43.48981,172.58622)
 [END]
 
-;1027685
-[POI]
-Type=0x2e
-Label=WHITCOULLS CASHEL STREET
-StreetDesc=111 Cashel St, Chc/ bookshop, books, Lotto
-Phone=+6433794580
-Data0=(-43.53299,172.63587)
-[END]
-
 ;1027692
 [POI]
 Type=0x2e
@@ -7975,9 +7902,9 @@ Data0=(-46.40908,168.34573)
 [POI]
 Type=0x2e0b
 Label=DICK SMITH ELECTRONICS PAPANUI
-StreetDesc=Cnr Main North Rd & Langdons Rd, Papanui/ electronic appliances, computers, phon
+StreetDesc=Main North Rd, Papanui/ electronic appliances, computers, phones
 Phone=+6433528770
-Data0=(-43.49491,172.60883)
+Data0=(-43.49489,172.60855)
 [END]
 
 ;1028147
@@ -8404,10 +8331,10 @@ Data0=(-43.53873,172.64208)
 ;1029176
 [POI]
 Type=0x2e02
-Label=COUNTDOWN EASTGATE 24HR
+Label=COUNTDOWN EASTGATE
 StreetDesc=Eastgate Mall, Cnr Linwood Ave & Buckleys Rd, Linwood/ supermarket, Lotto
 Phone=+6433811396
-zip=Mon-Sun, 24 hours
+zip=Mon-Sun, 7am-11pm
 Data0=(-43.53258,172.67522)
 [END]
 
@@ -13888,7 +13815,7 @@ Data0=(-43.54982,172.68420)
 
 ;1047383
 [POI]
-Type=0x2e
+Type=0x2f
 Label=THE MAD BUTCHER - COLOMBO
 StreetDesc=303 Colombo St, Chc/ butcher, fresh meat, steak, lamb, chicken
 Phone=+6433322255
@@ -13897,7 +13824,7 @@ Data0=(-43.54941,172.63655)
 
 ;1047390
 [POI]
-Type=0x2e
+Type=0x2f
 Label=THE MAD BUTCHER - RICCARTON
 StreetDesc=227 Blenheim Rd, Riccarton/ butcher, fresh meat, steak, lamb, chicken
 Phone=+6433487766
@@ -13906,7 +13833,7 @@ Data0=(-43.53866,172.58878)
 
 ;1047397
 [POI]
-Type=0x2e
+Type=0x2f
 Label=THE MAD BUTCHER - NORTHCOTE
 StreetDesc=Cnr Main North and Northcote Rd, Chc/ butcher, fresh meat, steak, lamb, chicken.
 Phone=+6433524444
@@ -13915,7 +13842,7 @@ Data0=(-43.48489,172.61575)
 
 ;1047404
 [POI]
-Type=0x2e
+Type=0x2f
 Label=THE MAD BUTCHER - WOOLSTON
 StreetDesc=Corner Ferry Rd and Aldwins Rd, Chc/ butcher, fresh meat, steak, lamb, chicken
 Phone=+6433766141
@@ -13924,7 +13851,7 @@ Data0=(-43.53764,172.66917)
 
 ;1047411
 [POI]
-Type=0x2e
+Type=0x2f
 Label=THE MAD BUTCHER - SHIRLEY
 StreetDesc=Cnr Shirley and Hills Rd, Chc/ butcher, fresh meat, steak, lamb, chicken
 Phone=+6433860034
@@ -14951,16 +14878,6 @@ zip=Mon-Fri 9am-4.30pm
 Data0=(-41.51266,173.95645)
 [END]
 
-;1051065
-[POI]
-Type=0x2f06
-Label=ASB BANK CASHEL MALL BRANCH (B&A)
-StreetDesc=117-119 Cashel St, Chc/ Bank branch, ATM
-Phone=+6433799671
-zip=Mon-Fri 9am-4.30pm
-Data0=(-43.53301,172.63622)
-[END]
-
 ;1051128
 [POI]
 Type=0x2f06
@@ -15117,15 +15034,6 @@ Label=ASB ATM 24HR
 StreetDesc=Bush Inn Shopping Ctr, Corner Riccarton and Waimairi Roads, Riccarton, Chc/ ATM,
 zip=24 Hours
 Data0=(-43.53009,172.57509)
-[END]
-
-;1052115
-[POI]
-Type=0x2f06
-Label=ASB ATM
-StreetDesc=117-119 Cashel St, Chc/ ATM, FastCash, Money Machine
-zip=Limited Hours
-Data0=(-43.53301,172.63622)
 [END]
 
 ;1052122
@@ -24704,9 +24612,9 @@ Data0=(-45.32434,170.81790)
 [POI]
 Type=0x3001
 Label=NEW ZEALAND POLICE HANMER SPRINGS
-StreetDesc=43 Conical Hill Rd, Hanmer Springs/ police
+StreetDesc=39 Amuri Ave, Hanmer Springs/ police
 Phone=+6433157117
-Data0=(-42.51871,172.82946)
+Data0=(-42.52318,172.82976)
 [END]
 
 ;1081277
@@ -29994,7 +29902,7 @@ Data0=(-43.38285,172.65706)
 [POI]
 Type=0x2a
 Label=FILADELFIOS OAMARU
-StreetDesc=70 Thames St, Oamaru/ Pizza, Bar, Coffee
+StreetDesc=70 Thames St, Oamaru/ Gourmet Pizza Restaurant, Bar & Cafe
 Phone=+6434348884
 Data0=(-45.09944,170.96973)
 [END]
@@ -30013,9 +29921,9 @@ Data0=(-43.55701,172.63701)
 [POI]
 Type=0x2a
 Label=FILADELFIOS DUNEDIN GARDENS
-StreetDesc=3 North Rd, Dud/ Pizza, Bar, Coffee
+StreetDesc=3 North Rd, Dud/ Restaurant & Bar, Cafe, gourmet pizza
 Phone=+6434736232
-zip=9am- 11.30pm
+zip=7 days 9am-11.30pm
 Data0=(-45.85493,170.51875)
 [END]
 
@@ -30023,7 +29931,7 @@ Data0=(-45.85493,170.51875)
 [POI]
 Type=0x2a
 Label=FILADELFIOS THE TERMINUS
-StreetDesc=3 Tomahawk Rd, Anderson's Bay,  Dud/ Pizza, Bar, Coffee
+StreetDesc=3 Tomahawk Rd, Anderson's Bay, Dud/ Gourmet Pizza Restaurant, Bar & Cafe
 Phone=+6434542088
 Data0=(-45.89725,170.53137)
 [END]
@@ -38232,7 +38140,7 @@ Data0=(-43.54014,172.63927)
 
 ;1100163
 [POI]
-Type=0x2e
+Type=0x2f
 Label=CROSS BROS BUTCHERY, SYDENHAM
 StreetDesc=357 Colombo St, Sydenham, Chc/ Meat sales, Butcher
 Phone=+6433668394
@@ -50011,9 +49919,9 @@ Data0=(-45.87196,170.50151)
 [POI]
 Type=0x2f
 Label=HOT PYJAMA PRODUCTIONS LTD
-StreetDesc=L 1 Suite 3 Old Weekly Press Blg, 107-109 Cashel St, Chc/ 
+StreetDesc=24 Rempstone Dr, Halswell, Chc/ Graphic & website designers
 Phone=+6433749929
-Data0=(-43.53299,172.63571)
+Data0=(-43.57346,172.55073)
 [END]
 
 ;1107050
@@ -58187,10 +58095,9 @@ Data0=(-46.38412,168.34942)
 ;1112082
 [POI]
 Type=0x2f
-Label=PUNTS PAINTING & WATERBLASTING LTD
-StreetDesc=80 Beatty St, Tahunanui, Nelson/ 
+Label=GALBRAITH PLASTERERS
+StreetDesc=80 Beatty St, Tahunanui, Nelson/ Sandblasting, Powdercoating, Abrasive blasting
 Phone=+6435477500
-zip=Mon-Fri 0800-1700
 Data0=(-41.29430,173.23663)
 [END]
 
@@ -79549,7 +79456,7 @@ Data0=(-44.73237,171.04851)
 
 ;1120501
 [POI]
-Type=0x2e02
+Type=0x2f
 Label=GORDON'S QUALITY PRODUCE
 StreetDesc=88 Victoria Sreet, Chc, Canterbury/ Fruit, Vegetables, Produce , Grocers
 Data0=(-43.52386,172.63038)
@@ -83205,9 +83112,9 @@ Data0=(-43.49191,172.63696)
 [POI]
 Type=0x2c05
 Label=ST ALBANS PLAYGROUP
-StreetDesc=412 Innes Rd, St Albans, Chc/ Play Group
-Phone=+6433857028
-Data0=(-43.49917,172.64239)
+StreetDesc=166 North Parade, Richmond, Chc/ Play Group
+Phone=+6433857392
+Data0=(-43.50862,172.66326)
 [END]
 
 ;1121392
@@ -86642,7 +86549,7 @@ Data0=(-43.54207,172.66558)
 
 ;1123194
 [POI]
-Type=0x2e02
+Type=0x2f
 Label=RAEWARD FRESH JOHNS RD
 StreetDesc=Cnr of Johns & Harewood Rds, 800 Harewood Rd, Harewood, Chc, Canterbury/ Fresh f
 Phone=+6433592772
@@ -86652,7 +86559,7 @@ Data0=(-43.47792,172.55536)
 
 ;1123196
 [POI]
-Type=0x2e02
+Type=0x2f
 Label=RAEWARD FRESH TOWER JUNCTION
 StreetDesc=Tower Junction Ctr, Chc/ fresh fruit, vegetables, meat
 Phone=+6433411110
@@ -86661,7 +86568,7 @@ Data0=(-43.54002,172.60550)
 
 ;1123197
 [POI]
-Type=0x2e02
+Type=0x2f
 Label=RAEWARD FRESH NELSON
 StreetDesc=912 Main Rd, Stoke/ fresh fruit, vegetables, meat
 Phone=+6435440824
@@ -89983,7 +89890,7 @@ Data0=(-45.89781,170.48766)
 
 ;1128570
 [POI]
-Type=0x2e02
+Type=0x2f
 Label=HINTON'S FRUIT & PRODUCE
 StreetDesc=178 North Rd, Dud/ fresh fruit, vegetables
 Data0=(-45.85020,170.52667)
@@ -90637,7 +90544,7 @@ Data0=(-45.87457,170.34822)
 
 ;1128656
 [POI]
-Type=0x2e
+Type=0x2f
 Label=MOSGIEL MEAT WAREHOUSE
 StreetDesc=114 Gordon Rd, Mosgiel/ butcher
 Data0=(-45.87598,170.34860)
@@ -94239,7 +94146,7 @@ Data0=(-43.52960,172.60825)
 
 ;1130877
 [POI]
-Type=0x2e
+Type=0x2f
 Label=ANGUS MEAT WHOLESALERS
 StreetDesc=95 Westminster St, Chc/ butcher
 Data0=(-43.50626,172.63631)
@@ -94388,7 +94295,7 @@ Data0=(-43.52628,172.63292)
 
 ;1130899
 [POI]
-Type=0x2e
+Type=0x2f
 Label=ASHBYS BUTCHERY
 StreetDesc=491 Papanui Rd, Chc/ butcher
 Data0=(-43.49765,172.60822)
@@ -94484,7 +94391,7 @@ Data0=(-43.51083,172.55641)
 
 ;1130911
 [POI]
-Type=0x2e
+Type=0x2f
 Label=AVONHEAD QUALITY MEAT
 StreetDesc=376 Riccarton Rd, Chc/ butcher
 Data0=(-43.53169,172.57339)
@@ -94904,7 +94811,7 @@ Data0=(-43.48955,172.58667)
 
 ;1130965
 [POI]
-Type=0x2e
+Type=0x2f
 Label=BISHOPDALE BUTCHERY
 StreetDesc=35 Bishopdale Ct, Bishopdale, Chc/ butcher
 Data0=(-43.48883,172.58734)
@@ -94912,7 +94819,7 @@ Data0=(-43.48883,172.58734)
 
 ;1130966
 [POI]
-Type=0x2e02
+Type=0x2f
 Label=BISHOPDALE FRUIT & VEGES
 StreetDesc=17D Bishopdale Ct, Bishopdale, Chc/ fresh fruit, vegetables
 Data0=(-43.48942,172.58683)
@@ -96115,7 +96022,7 @@ Data0=(-43.51078,172.62034)
 
 ;1131134
 [POI]
-Type=0x2e02
+Type=0x2f
 Label=COVENT FRUIT CENTRE
 StreetDesc=181 Victoria St, Chc/ fresh fruit, vegetables
 Data0=(-43.52130,172.62816)
@@ -96542,7 +96449,7 @@ Data0=(-43.51605,172.63675)
 
 ;1131190
 [POI]
-Type=0x2e02
+Type=0x2f
 Label=EDGEWARE FRUIT & VEGETABLES
 StreetDesc=1066 Colombo St, Chc/ fresh fruit, vegetables
 Data0=(-43.51386,172.63683)
@@ -97057,7 +96964,7 @@ Data0=(-43.52999,172.63772)
 
 ;1131257
 [POI]
-Type=0x2e02
+Type=0x2f
 Label=FULL SEASON FRESH FRUIT AND VEGETABLE SHOP
 StreetDesc=15A Leslie St, Upper Riccarton, Chc/ fresh fruit, vegetables
 Data0=(-43.53095,172.57250)
@@ -97507,7 +97414,7 @@ Data0=(-43.45902,172.62308)
 
 ;1131315
 [POI]
-Type=0x2e02
+Type=0x2f
 Label=GROWERS DIRECT MARKET LTD
 StreetDesc=28 Yaldhurst Rd, Chc/ Fruit, Vegetables
 Phone=+6433489925
@@ -97742,7 +97649,7 @@ Data0=(-43.52486,172.54960)
 
 ;1131346
 [POI]
-Type=0x2e
+Type=0x2f
 Label=HEI HEI BUTCHERY
 StreetDesc=36 Wycola Ave, Hei Hei, Chc/ butcher
 Data0=(-43.53561,172.52074)
@@ -97790,7 +97697,7 @@ Data0=(-43.53214,172.64548)
 
 ;1131352
 [POI]
-Type=0x2e
+Type=0x2f
 Label=HIBBARDS BUTCHERY
 StreetDesc=91A Stanmore Rd, Chc/ butcher
 Data0=(-43.53063,172.65688)
@@ -99568,7 +99475,7 @@ Data0=(-43.53667,172.68232)
 
 ;1131597
 [POI]
-Type=0x2e
+Type=0x2f
 Label=MEAT @ MILLERS
 StreetDesc=407A Ilam Rd, Chc/ butcher
 Data0=(-43.50890,172.58977)
@@ -99929,7 +99836,7 @@ Data0=(-43.52496,172.66782)
 
 ;1131646
 [POI]
-Type=0x2e
+Type=0x2f
 Label=MR BUTCHER
 StreetDesc=86 Wainoni Rd, Chc/ butcher
 Data0=(-43.51640,172.68745)
@@ -101106,7 +101013,7 @@ Data0=(-43.55052,172.63714)
 
 ;1131805
 [POI]
-Type=0x2e
+Type=0x2f
 Label=REDCLIFFS BUTCHERY
 StreetDesc=85A Main Rd, Chc/ butcher
 Phone=+6433841361
@@ -101215,7 +101122,7 @@ Data0=(-43.52783,172.63870)
 
 ;1131819
 [POI]
-Type=0x2e
+Type=0x2f
 Label=RICCARTON BUTCHERY
 StreetDesc=184 Clarence St, Chc/ butcher
 Data0=(-43.53015,172.60211)
@@ -101998,7 +101905,7 @@ Data0=(-43.53829,172.55496)
 
 ;1131919
 [POI]
-Type=0x2e02
+Type=0x2f
 Label=SOCKBURN FRUIT AND VEGES
 StreetDesc=142 Main South Rd, Chc/ fresh fruit, vegetables
 Data0=(-43.53822,172.55510)
@@ -102987,7 +102894,7 @@ Data0=(-43.53466,172.63342)
 
 ;1132054
 [POI]
-Type=0x2e
+Type=0x2f
 Label=THE APSLEY BUTCHERY
 StreetDesc=345 Stanmore Rd, Chc/ butcher
 Data0=(-43.51786,172.65618)
@@ -103787,7 +103694,7 @@ Data0=(-43.54135,172.55482)
 
 ;1132159
 [POI]
-Type=0x2e
+Type=0x2f
 Label=THE WURST BUTCHERY
 StreetDesc=275 Greers Rd, Chc/ butcher
 Data0=(-43.49930,172.58628)
@@ -103878,7 +103785,7 @@ Data0=(-43.53953,172.56603)
 
 ;1132171
 [POI]
-Type=0x2e
+Type=0x2f
 Label=TOWN DAY MOON
 StreetDesc=180A Yaldhurst Rd, Chc/ butcher
 Data0=(-43.52669,172.55543)
@@ -104403,7 +104310,7 @@ Data0=(-43.50657,172.66299)
 
 ;1132244
 [POI]
-Type=0x2e
+Type=0x2f
 Label=WESTMEAT CHRISTCHURCH
 StreetDesc=394 Blenheim Rd, Upper Riccarton, Chc/ Butcher
 Phone=+6433495078
@@ -107360,7 +107267,7 @@ Data0=(-46.42818,168.36203)
 
 ;1134417
 [POI]
-Type=0x2e
+Type=0x2f
 Label=BIG REDS BUTCHERY
 StreetDesc=479 Tay St, Invercargill/ butcher
 Phone=+6432177773
@@ -107484,7 +107391,7 @@ Data0=(-46.40836,168.34536)
 
 ;1134432
 [POI]
-Type=0x2e
+Type=0x2f
 Label=BOWMONT WHOLESALE MEATS
 StreetDesc=122 Otepuni Ave, Invercargill/ butcher
 Phone=+6432164721
@@ -107963,7 +107870,7 @@ Data0=(-46.41215,168.34764)
 
 ;1134486
 [POI]
-Type=0x2e02
+Type=0x2f
 Label=FRUIT AND VEG WHOLESALE
 StreetDesc=164 Mersey St, Invercargill/ fresh fruit, vegetables
 Phone=+6432188004
@@ -108767,7 +108674,7 @@ Data0=(-46.43220,168.36907)
 
 ;1134577
 [POI]
-Type=0x2e
+Type=0x2f
 Label=PRIME RANGE LIVESTOCK
 StreetDesc=111 Bond St, Invercargill/ Butcher
 Phone=+6432144135
@@ -109042,7 +108949,7 @@ Data0=(-46.59720,168.33539)
 
 ;1134609
 [POI]
-Type=0x2e
+Type=0x2f
 Label=SOUTHLAMB GOURMET MEATS
 StreetDesc=302 Yarrow St, Invercargill/ butcher
 Data0=(-46.40738,168.36876)
@@ -110351,7 +110258,7 @@ Data0=(-41.26912,173.29340)
 
 ;1134988
 [POI]
-Type=0x2e
+Type=0x2f
 Label=BUTCHER BOY'S
 StreetDesc=2 Russell St, Nelson/ 
 Data0=(-41.26494,173.27183)
@@ -111372,7 +111279,7 @@ Data0=(-41.31254,173.23417)
 
 ;1135115
 [POI]
-Type=0x2e02
+Type=0x2f
 Label=STOKE FRUIT & VEGES
 StreetDesc=520 Main Rd, Stoke, Nelson/ fresh fruit, vegetables
 Data0=(-41.31281,173.23394)
@@ -111666,7 +111573,7 @@ Data0=(-41.28040,173.26943)
 
 ;1135153
 [POI]
-Type=0x2e02
+Type=0x2f
 Label=VICTORY FRUIT & VEGES
 StreetDesc=144 Toi Toi St, Nelson/ fresh fruit, vegetables
 Data0=(-41.28074,173.26940)
@@ -113342,7 +113249,7 @@ Data0=(-44.39760,171.25508)
 
 ;1137774
 [POI]
-Type=0x2e02
+Type=0x2f
 Label=BARKERS FRUIT PROCESSORS
 StreetDesc=76B Talbot St, Geraldine/ fresh fruit, vegetables
 Data0=(-44.09285,171.24496)
@@ -113980,7 +113887,7 @@ Data0=(-44.26024,171.12809)
 
 ;1137858
 [POI]
-Type=0x2e
+Type=0x2f
 Label=HASSALL STREET BUTCHERY ON STAFFORD
 StreetDesc=293 Stafford St, Timaru/ Butcher
 Data0=(-44.39388,171.25110)
@@ -118514,7 +118421,7 @@ Data0=(-42.44803,171.21407)
 
 ;1139066
 [POI]
-Type=0x2e
+Type=0x2f
 Label=RUNANGA BUTCHERY
 StreetDesc=15 McGowan St, Runanga/ butcher
 Data0=(-42.39931,171.25125)
@@ -118962,7 +118869,7 @@ Data0=(-45.09591,170.97272)
 
 ;1139127
 [POI]
-Type=0x2e
+Type=0x2f
 Label=CAMPBELLS BUTCHERY
 StreetDesc=160 Thames St, Oamaru/ butcher
 Data0=(-45.09590,170.97153)
@@ -119170,7 +119077,7 @@ Data0=(-45.09566,170.97299)
 
 ;1139157
 [POI]
-Type=0x2e
+Type=0x2f
 Label=GORDON MCKEAN'S BUTCHERY
 StreetDesc=45 Tiverton St, Palmerston/ butcher
 Data0=(-45.48454,170.71448)
@@ -119282,7 +119189,7 @@ Data0=(-45.06809,170.99436)
 
 ;1139173
 [POI]
-Type=0x2e02
+Type=0x2f
 Label=JOE'S FRUIT & VEGIE MARKET
 StreetDesc=11 - 15 Ribble St, Oamaru/ fresh fruit, vegetables
 Data0=(-45.09610,170.97341)
@@ -119812,7 +119719,7 @@ Data0=(-45.09191,170.97030)
 
 ;1139241
 [POI]
-Type=0x2e
+Type=0x2f
 Label=RIBBLE STREET BUTCHERY
 StreetDesc=40 Ribble St, Oamaru/ butcher
 Data0=(-45.09566,170.97299)
@@ -121091,7 +120998,7 @@ Data0=(-41.60673,171.87791)
 
 ;1141087
 [POI]
-Type=0x2e
+Type=0x2f
 Label=OXNAMS BUTCHERY
 StreetDesc=131 Palmerston St., Westport/ butcher
 Phone=+6437897958
@@ -121407,7 +121314,7 @@ Data0=(-43.17478,172.77722)
 
 ;1141130
 [POI]
-Type=0x2e02
+Type=0x2f
 Label=AMBERLEY FRUIT AND VEGETABLES
 StreetDesc=96a Carters Rd, Amberley/ fresh fruit, vegetables
 Data0=(-43.15441,172.72959)
@@ -121690,7 +121597,7 @@ Data0=(-42.52289,172.82995)
 
 ;1141165
 [POI]
-Type=0x2e
+Type=0x2f
 Label=HARRIS MEATS & DELI
 StreetDesc=28 Hall St, Cheviot/ Butcher, Delicatessen
 Phone=+33198553
@@ -121699,7 +121606,7 @@ Data0=(-42.81252,173.27437)
 
 ;1141166
 [POI]
-Type=0x2e
+Type=0x2f
 Label=HARRIS MEATS
 StreetDesc=150 Hurunui Mouth Rd, Cheviot/ Butcher
 Phone=0800352435
@@ -121782,10 +121689,11 @@ Data0=(-42.51972,172.82915)
 
 ;1141177
 [POI]
-Type=0x2f
-Label=LOG CABIN LTD
-StreetDesc=41 Amuri Ave, Hanmer Springs/ 
-Data0=(-42.52301,172.82991)
+Type=0x2a
+Label=THE LOG CABIN
+StreetDesc=41 Amuri Ave, Hanmer Springs/ Restaurant
+Phone=+6433157192
+Data0=(-42.52307,172.82986)
 [END]
 
 ;1141178
@@ -133729,7 +133637,7 @@ Data0=(-43.52843,172.63876)
 
 ;1146911
 [POI]
-Type=0x2e
+Type=0x2f
 Label=MOOTS MEAT MARKET
 StreetDesc=181A Riccarton Rd, Chc/ Butchers, Meat
 Phone=+6433485571
@@ -134323,7 +134231,7 @@ Data0=(-43.47760,172.61711)
 
 ;1146989
 [POI]
-Type=0x2e
+Type=0x2f
 Label=SHIRLEY BUTCHER SHOP
 StreetDesc=118 Marshland Rd, Chc/ butcher
 Data0=(-43.49891,172.66228)
@@ -135517,7 +135425,7 @@ Data0=(-46.23730,169.74130)
 
 ;1147159
 [POI]
-Type=0x2e
+Type=0x2f
 Label=BOTTINGS BUTCHERY BALCLUTHA LTD
 StreetDesc=10 Clyde St, Balclutha/ butcher
 Data0=(-46.23681,169.74164)
@@ -135525,7 +135433,7 @@ Data0=(-46.23681,169.74164)
 
 ;1147160
 [POI]
-Type=0x2e
+Type=0x2f
 Label=BOTTINGS ROSEBANK BUTCHERY
 StreetDesc=188 Clyde St, Balclutha/ butcher
 Data0=(-46.24232,169.72800)
@@ -135808,7 +135716,7 @@ Data0=(-46.09505,169.54662)
 
 ;1147195
 [POI]
-Type=0x2e02
+Type=0x2f
 Label=GWS FRUIT SUPPLY
 StreetDesc=186 Clyde St, Balclutha/ fresh fruit, vegetables
 Data0=(-46.24227,169.72813)
@@ -136090,7 +135998,7 @@ Data0=(-46.47277,169.71777)
 
 ;1147230
 [POI]
-Type=0x2e02
+Type=0x2f
 Label=NGOK AND NANCYS FRUIT
 StreetDesc=42 Clyde St, Balclutha/ fresh fruit, vegetables
 Data0=(-46.23783,169.73908)
@@ -136252,7 +136160,7 @@ Data0=(-46.12323,169.95679)
 
 ;1147251
 [POI]
-Type=0x2e
+Type=0x2f
 Label=SUZIE'S MILTON BUTCHERY
 StreetDesc=64-66 Union St, Milton/ butcher
 Data0=(-46.12130,169.95853)
@@ -139447,7 +139355,7 @@ Data0=(-45.04184,169.18899)
 
 ;1150846
 [POI]
-Type=0x2e02
+Type=0x2f
 Label=JONES FAMILY FRUIT STALL
 StreetDesc=489 Kawarau Gorge Rd (SH6), Cromwell/ fresh fruit, vegetables
 Data0=(-45.06073,169.15112)
@@ -140030,7 +139938,7 @@ Data0=(-46.14011,168.32532)
 
 ;1151084
 [POI]
-Type=0x2e
+Type=0x2f
 Label=WOODLANDS BUTCHERY
 StreetDesc=4 Wyeth Rd, Woodlands, Invercargill/ Butcher, meat
 Data0=(-46.35520,168.54998)
@@ -146304,8 +146212,9 @@ Data0=(-46.40194,168.34689)
 [POI]
 Type=0x2F07
 Label=MARK LAUGHTON MOTORS
-StreetDesc=272 Andersons Bay Rd, Dud/ Car dealer
+StreetDesc=580 Andersons Bay Rd, Dud/ Mark Laughton Motors Ltd (MLM) Dunedin Otago We have 
 Phone=+6434555590
+zip=Mon - Sun 8am to 5.30pm
 Data0=(-45.89010,170.50213)
 [END]
 
@@ -149629,7 +149538,7 @@ Data0=(-43.48657,172.10140)
 
 ;1157616
 [POI]
-Type=0x2e02
+Type=0x2f
 Label=DARFIELD FRUIT SUPPLY
 StreetDesc=53a South Terrace, Darfield/ fresh fruit, vegetables
 Data0=(-43.48955,172.10784)
@@ -149920,7 +149829,7 @@ Data0=(-43.55762,171.90118)
 
 ;1157653
 [POI]
-Type=0x2e
+Type=0x2f
 Label=MALVERN BUTCHERY
 StreetDesc=35 South Terrace, Darfield/ butcher
 Data0=(-43.48998,172.11198)
@@ -149969,7 +149878,7 @@ Data0=(-43.57384,172.10167)
 
 ;1157659
 [POI]
-Type=0x2e02
+Type=0x2f
 Label=OWENS FRESH FRUIT & VEGE
 StreetDesc=Shop 14, Rolleston Sq, Rolleston/ fresh fruit, vegetables
 Data0=(-43.59549,172.38536)
@@ -162809,7 +162718,7 @@ Data0=(-45.25120,169.38770)
 
 ;1164662
 [POI]
-Type=0x2e
+Type=0x2f
 Label=EXPORT MEAT WAREHOUSE
 StreetDesc=305 Church St, Timaru/ Butcher
 Phone=+6436889338
@@ -177187,7 +177096,7 @@ Data0=(-42.57723,171.47822)
 
 ;1171861
 [POI]
-Type=0x2e
+Type=0x2f
 Label=PESTELL'S
 StreetDesc=22 McMahon St, Stoke Nelson 7011/ Butcher, meat
 Phone=+6435470116
@@ -189074,7 +188983,7 @@ Data0=(-43.53463,172.62811)
 [POI]
 Type=0x2f
 Label=VIASTRADA PLANNING AND TRAFFIC ENGINEERING
-StreetDesc=10 Bishop St, Saint Albans, Chc/ Professional consultancy services
+StreetDesc=10 Bishop St St Albans Chc 8014/ Planning, resource management, traffic engineer
 Phone=+6432818003
 zip=Mon-Fri 8:30am to 5pm
 Data0=(-43.52028,172.64125)
@@ -189501,7 +189410,7 @@ Data0=(-44.98842,168.81564)
 
 ;1177269
 [POI]
-Type=0x2e
+Type=0x2f
 Label=APSLY BUTCHERY
 StreetDesc=345 Stanmore Rd, Richmond, Chc 8013/ Butcher
 Phone=+6433898135
@@ -189641,7 +189550,7 @@ Data0=(-45.88152,170.49760)
 
 ;1177326
 [POI]
-Type=0x2e02
+Type=0x2f
 Label=CRAZY DAVE
 StreetDesc=Blenheim Sq, 227 Blenheim Rd, Riccarton, Chc/ Fresh fruit, vegetables
 Phone=+6433659535
@@ -195526,7 +195435,7 @@ Data0=(-45.87168,170.50135)
 
 ;1180881
 [POI]
-Type=0x2e
+Type=0x2f
 Label=WESTMEAT BLENHEIM
 StreetDesc=385 Alabama Rd, Blenheim/ Butcher, meat wholesaler
 Phone=+6435784554
@@ -195536,7 +195445,7 @@ Data0=(-41.52282,173.98237)
 
 ;1180882
 [POI]
-Type=0x2e
+Type=0x2f
 Label=WESTMEAT NELSON
 StreetDesc=41-42 McGlashan Ave, Richmond, Nelson/ Butcher, meat wholesaler
 Phone=+6435446137
@@ -199647,7 +199556,7 @@ Data0=(-45.09314,170.96990)
 
 ;1189022
 [POI]
-Type=0x2e
+Type=0x2f
 Label=MEATERS OF MARLBOROUGH
 StreetDesc=133 Maxwell Rd, Blenheim, Marlborough 7201/ Butcher, Delicatessen
 Phone=+6435783751
@@ -201597,7 +201506,7 @@ Data0=(-43.55639,172.70410)
 
 ;1190045
 [POI]
-Type=0x2e
+Type=0x2f
 Label=MY BUTCHER - THE ONLINE MEAT SHOP
 StreetDesc=33 Sir William Pickering Dr, Burnside, Chc/ Online meat, buying meat online, mea
 Phone=0800692882
@@ -202462,14 +202371,15 @@ Type=0x2f
 Label=HAPA
 StreetDesc=Restart, Cashel St City Mall, Chc Central/ Gifts
 Phone=+6433729335
-Data0=(-43.53316,172.63545)
+Data0=(-43.53285,172.63600)
 [END]
 
 ;1190610
 [POI]
-Type=0x2f
+Type=0x2e07
 Label=MIMCO
-StreetDesc=Restart, Cashel St City Mall, Chc Central/ 
+StreetDesc=Restart, Cashel St City Mall, Chc Central/ Shoes, handbags, women's hair & fashi
+Phone=+6433743526
 Data0=(-43.53316,172.63545)
 [END]
 
@@ -202494,10 +202404,11 @@ Data0=(-43.53316,172.63545)
 ;1190614
 [POI]
 Type=0x2f06
-Label=ASB (B)
+Label=ASB CASHEL MALL TEMPORARY BRANCH (B)
 StreetDesc=Restart, Cashel St City Mall, Chc Central/ Bank branch
-zip=Mon-Sat 10am-6pm, Sun 10am-5pm
-Data0=(-43.53316,172.63545)
+Phone=+6433799672
+zip=Mon-Fri 9am-4.30pm, Sat-Sun 10am-4pm
+Data0=(-43.53301,172.63545)
 [END]
 
 ;1190616
@@ -202583,9 +202494,11 @@ Data0=(-43.53316,172.63545)
 ;1190630
 [POI]
 Type=0x2e
-Label=KATHMANDU
+Label=KATHMANDU CASHEL STREET
 StreetDesc=Restart, Cashel St City Mall, Chc Central/ Outdoor clothing and equipment for tr
-Data0=(-43.53316,172.63545)
+Phone=+6439433980
+zip=Mon-Fri 9am-6pm, Sat 10am-6pm, Sun 10am-
+Data0=(-43.53272,172.63584)
 [END]
 
 ;1190631
@@ -202672,10 +202585,10 @@ Data0=(-43.53316,172.63545)
 ;1190644
 [POI]
 Type=0x2e0b
-Label=YOOBEE
+Label=YOOBEE RESTART
 StreetDesc=Restart, Cashel St City Mall, Chc Central/ Apple computers premium reseller. iPo
 Phone=+6439434011
-Data0=(-43.53316,172.63545)
+Data0=(-43.53282,172.63605)
 [END]
 
 ;1190646
@@ -202685,5 +202598,111 @@ Label=3 WISE MEN
 StreetDesc=Restart, Cashel St City Mall, Chc Central/ Men's fashion, clothing
 Phone=+6433666179
 Data0=(-43.53316,172.63545)
+[END]
+
+;1190661
+[POI]
+Type=0x2e
+Label=SKELTS JEWELLER
+StreetDesc=61 Esk ST, Invercargill/ Manufacturing Jewellers who are local and don't send yo
+Phone=+6432183223
+zip=Mon-Thurs 9am - 5.30pm, Fri 9am - 6pm, S
+Data0=(-46.41197,168.34937)
+[END]
+
+;1190663
+[POI]
+Type=0x2f
+Label=BODYWORKS MASSAGE THERAPY
+StreetDesc=24 Nairn St, Spreydon, Chc/ massage therapy, sports massage, therapeutic massage
+Phone=+6427497752
+Data0=(-43.54900,172.60507)
+[END]
+
+;1190673
+[POI]
+Type=0x2F07
+Label=SOUTHLAND HONDA
+StreetDesc=77 Clyde St, Invercargill/ Being a Honda Power House dealer allows us to carry a
+Phone=+6432144254
+zip=Mon - Fri 8am to 5.30pm. Sat - 8am to 12
+Data0=(-46.41720,168.34704)
+[END]
+
+;1190677
+[POI]
+Type=0x2f
+Label=MUNRO ELECTRICAL 2001 LTD
+StreetDesc=157 Tyne St, Invercargill/ Munroe Electrical, Invercargill. Rural Electrical Spe
+Phone=+6432144330
+zip=Mon - Fri 8am to 5pm
+Data0=(-46.41569,168.35718)
+[END]
+
+;1190679
+[POI]
+Type=0x2e
+Label=THE PAWNSHOP
+StreetDesc=71 Yarrow St, Invercargill 9810/ The Pawnshop and Jewelry Centre – a.k.a. The In
+Phone=+6432144696
+zip=Mon - Fri 9am to 5.30pm, Sat 9.30am to 4
+Data0=(-46.40874,168.35215)
+[END]
+
+;1190684
+[POI]
+Type=0x2f
+Label=?BULLER CANYON JET BOATING NEW ZEALAND
+StreetDesc=Murchison, New Zealand/ jet boat, jet boating, jet boats, new Zealand adventure
+Phone=+6435239883
+Data0=(-41.80018,172.33368)
+[END]
+
+;1190685
+[POI]
+Type=0x2f
+Label=MC PLUMBER
+StreetDesc=10 ennis St alexandra/ plumber, plumbers, plumbing, gasfitting, gasfitter, drain
+Phone=+6421311490
+Data0=(-45.25643,169.39161)
+[END]
+
+;1190686
+[POI]
+Type=0x2f
+Label=JORY BUILDERS LTD
+StreetDesc=26 Patrick St Dud 9011 New Zealand/ Building contractors servicing Dunedin, Mosg
+Phone=+6434530577
+zip=Monday - Friday 8.00am - 5.00pm
+Data0=(-45.88656,170.48735)
+[END]
+
+;1190687
+[POI]
+Type=0x2f
+Label=CACI INVERCARGILL
+StreetDesc=102 Spey St, Invercargill/ Hair Removal, Beauty Therapy, Skin Care, Tattoo Remov
+Phone=+6432189557
+zip=Mon 9.30am – 2.30pm Tues 9.00am – 7.00pm
+Data0=(-46.40955,168.34887)
+[END]
+
+;1190694
+[POI]
+Type=0x2e02
+Label=COUNTDOWN ROLLESTON
+StreetDesc=2 Masefield Dr, Rolleston 7614, New Zealand/ Supermarket, beer, wine, groceries,
+Phone=+6433478264
+zip=Monday - Sunday : 7am-9pm
+Data0=(-43.59513,172.38733)
+[END]
+
+;1190695
+[POI]
+Type=0x2e
+Label=BRISCOES HOMEWARE - NORTHLANDS
+StreetDesc=11 Langdons Rd, Papanui, Chc/ Homeware, home decor, bedding
+Phone=+6433525122
+Data0=(-43.49474,172.60841)
 [END]
 

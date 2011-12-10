@@ -1,0 +1,85 @@
+=begin
+
+A library that outputs gpx files
+and prints the command to be used for running gdb conversion with GPSbabel http://www.gpsbabel.org/
+
+=end
+WORKING_SRID = 4167
+require 'progressbar'
+
+def process_polish_buffer(buffer)
+end
+
+def pre_processing()
+
+  top,right,bottom,left = @bounds
+  sql_query = "SELECT address, to_char(st_x(the_geom),'9999D999999'), to_char(st_y(the_geom),'9999D999999'), rna_id FROM \"nz-street-address-elector\" WHERE ST_Contains(ST_SetSRID(ST_MakeBox2D(ST_Point(#{left}, #{bottom}), ST_Point(#{right} ,#{top})),#{WORKING_SRID}), the_geom);"
+  require 'pg'
+  require 'yaml'
+  
+  raw_config = File.read("config.yml")
+  app_config = YAML.load(raw_config)
+  
+  begin
+  @conn = PGconn.connect("localhost", 5432, "", "", "nzopengps", "postgres", app_config['postgres']['password'])
+  rescue
+    if $! == 'Invalid argument' then
+      retry #bollocks error
+    end
+
+    print "An error occurred connecting to database: ",$!, "\nTry again (y/n)?"
+    user_says = STDIN.gets.chomp
+    if user_says == 'y' then
+      retry
+    else
+      print "Could not connect to database. Exiting.\n"
+      exit
+    end
+  end
+  
+  @output_file_path = File.join(@base, 'outputs', "#{@tile}.gpx") #put outputs in outputs folder
+  print "Output : #{@output_file_path}\n"
+
+  File.open(@output_file_path, "w") do |f|
+    f.print <<-eos
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="Zenbu - http://www.zenbu.co.nz" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    eos
+    res  = @conn.exec(sql_query)
+    @pbar = ProgressBar.new("Progress", res.num_tuples) 
+
+    res.values.each{|row|
+      @pbar.inc
+      address = row[0]
+      lon = row[1].strip
+      lat = row[2].strip
+      linzid = row[3]
+      f.print <<-eos
+<wpt lat="#{lat}" lon="#{lon}">
+<name>#{address}</name>
+<desc>#{linzid}</desc>
+</wpt>
+      eos
+    }
+    f.print <<-eos
+</gpx>
+    eos
+
+  end
+  
+  print "\nCompile to gdb with\n"
+  gdb_path = File.join(File.dirname(@output_file_path),File.basename(@output_file_path, '.gpx'))
+  gpsbabel_path = app_config['gpsbabel']['path']
+  gpsbabel_exec_command = "\"#{gpsbabel_path}\" -i gpx -o gdb -f #{@output_file_path} -F #{gdb_path}.gdb\n"
+  print gpsbabel_exec_command
+  
+  if app_config['gpsbabel']['execute_inline'] then
+    print "Compiling...\n"
+    system(gpsbabel_exec_command)
+  end
+  
+  exit
+end
+
+def post_processing()
+end

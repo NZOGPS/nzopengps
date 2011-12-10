@@ -1,6 +1,6 @@
 =begin
 
-A library that outputs csv files for gdb conversion
+A library that outputs csv files from the LINZ address database. (Probably better to use 5.rb)
 
 =end
 WORKING_SRID = 4167

@@ -1,2 +1,5 @@
 postgres:
   password: your_install_password
+gpsbabel:
+  path: C:\Program Files\GPSBabel\gpsbabel.exe
+  execute_inline: true

@@ -7948,9 +7948,9 @@ Data0=(-43.53114,172.60025)
 [POI]
 Type=0x2e
 Label=LIQUOR KING BUCKHAMS
-StreetDesc=Gorge Rd, Frankton, Queenstown/ liquor, beer, wine, spirits
+StreetDesc=93 Gorge Rd, Queenstown/ liquor, beer, wine, spirits
 Phone=+6434427468
-Data0=(-45.02224,168.66255)
+Data0=(-45.02218,168.66250)
 [END]
 
 ;1028441
@@ -7978,15 +7978,6 @@ Label=LIQUOR KING CHRISTCHURCH
 StreetDesc=153-157 Cranford St, Chc/ liquor, beer, wine, spirits
 Phone=+6433660352
 Data0=(-43.50691,172.63642)
-[END]
-
-;1028462
-[POI]
-Type=0x2e
-Label=LIQUOR KING DUNEDIN
-StreetDesc=Cnr Hanover & Cumberland Sts, Dud North/ liquor, beer, wine, spirits
-Phone=+6434775062
-Data0=(-45.87085,170.50917)
 [END]
 
 ;1028553
@@ -9045,22 +9036,13 @@ Phone=+6433083059
 Data0=(-43.88950,171.76465)
 [END]
 
-;1031416
-[POI]
-Type=0x2e
-Label=SUPER LIQUOR BALCLUTHA
-StreetDesc=265 Clyde St, Balclutha/ liquor, beer, wine, spirits
-Phone=+6434184779
-Data0=(-46.24559,169.71420)
-[END]
-
 ;1031423
 [POI]
 Type=0x2e
 Label=SUPER LIQUOR BARRINGTON
-StreetDesc=Shop 17, Barrington Mall, Barrington/ liquor, beer, wine, spirits
+StreetDesc=Shop 72, Barrington Mall, 256 Barrington St, Spreydon, Chc/ liquor, beer, wine, 
 Phone=+6433375055
-Data0=(-43.55582,172.61982)
+Data0=(-43.55671,172.61857)
 [END]
 
 ;1031430
@@ -9095,7 +9077,7 @@ Data0=(-43.54909,172.63692)
 Type=0x2e
 Label=SUPER LIQUOR CROMWELL
 StreetDesc=Barry Ave, Cromwell/ liquor, beer, wine, spirits
-Phone=+6434451777
+Phone=+6434451708
 Data0=(-45.03608,169.19991)
 [END]
 
@@ -9257,9 +9239,9 @@ Data0=(-41.34206,173.18840)
 [POI]
 Type=0x2e
 Label=SUPER LIQUOR SOUTHLAND
-StreetDesc=Elles Rd, Invercargill/ liquor, beer, wine, spirits
+StreetDesc=406 Elles Rd, Invercargill/ liquor, beer, wine, spirits
 Phone=+6432165329
-Data0=(-46.43552,168.36209)
+Data0=(-46.43444,168.36169)
 [END]
 
 ;1031934
@@ -10643,7 +10625,7 @@ Data0=(-43.80977,172.96340)
 [POI]
 Type=0x2d03
 Label=HOYTS NORTHLANDS
-StreetDesc=Northlands Shopping Ctr, Main North Rd, Papanui, Chc/ cinema
+StreetDesc=Northlands Shopping Ctr, 55 Main North Rd, Papanui, Chc/ cinema
 Phone=+6433666367
 Data0=(-43.49126,172.61117)
 [END]
@@ -10863,16 +10845,6 @@ StreetDesc=Cnr Hokonui Dr & Trafford St, Gore/ liquor, beer, wines, spirits
 Phone=+6432087731
 zip=Monday 9:30am-7:00pm, Tuesday 9:30am-7:0
 Data0=(-46.09680,168.94568)
-[END]
-
-;1037485
-[POI]
-Type=0x2e
-Label=LIQUORLAND CENTREPOINT
-StreetDesc=Cnr Dee & Thames Sts, Invercargill/ liquor, beer, wines, spirits
-Phone=+6432182847
-zip=Monday 10:00am-7:00pm, Tuesday 10:00am-7
-Data0=(-46.40295,168.34647)
 [END]
 
 ;1037492
@@ -25373,15 +25345,6 @@ Phone=0800662726
 Data0=(-44.48757,169.96377)
 [END]
 
-;1083398
-[POI]
-Type=0x2a
-Label=CLAY CLIFFS ESTATE
-StreetDesc=1 Pinot Noir Court, Omarama/ Winery, Restaurant
-Phone=+34389654
-Data0=(-44.49096,169.96081)
-[END]
-
 ;1083405
 [POI]
 Type=0x2b01
@@ -26026,20 +25989,10 @@ Data0=(-46.15024,168.32957)
 [POI]
 Type=0x2a02
 Label=LITTLE INDIA NELSON
-StreetDesc=269 Hardy St,  Nelson/ Indian Restaurant, Takeaway, Curry, Licensed, Home Delive
+StreetDesc=269 Hardy St, Nelson/ Indian Restaurant, Takeaway, Curry, Licensed, Home Deliver
 Phone=+6435391155
 zip=Lunch Mon - Fri Dinner 7 days from 5:00p
 Data0=(-41.27415,173.28610)
-[END]
-
-;1084966
-[POI]
-Type=0x2a02
-Label=LITTLE INDIA CHRISTCHURCH
-StreetDesc=Cnr New Regent & Gloucester Sts, Chc/ Indian Restaurant, Takeaway, Curry, Licens
-Phone=+6433777997
-zip=Lunch Mon - Fri Dinner 7 days from 5:00p
-Data0=(-43.52974,172.63852)
 [END]
 
 ;1084980
@@ -26050,16 +26003,6 @@ StreetDesc=308 Moray Place, Dud/ Indian Restaurant, Takeaway, Curry, Licensed, H
 Phone=+6434776559
 zip=Lunch Mon - Fri Dinner 7 days from 5:00p
 Data0=(-45.87339,170.50538)
-[END]
-
-;1085001
-[POI]
-Type=0x2a02
-Label=LITTLE INDIA SUMNER
-StreetDesc=6 A Wakefield Ave, Sumner/ Indian Restaurant, Takeaway, Curry, Licensed, Home De
-Phone=+6433267879
-zip=Lunch Mon - Fri Dinner 7 days from 5:00p
-Data0=(-43.56871,172.75895)
 [END]
 
 ;1085022
@@ -28133,7 +28076,7 @@ Data0=(-45.87328,170.50798)
 ;1090706
 [POI]
 Type=0x2a
-Label=COBB & CO NORTHWOOD
+Label=CAESARS FAMILY RESTAURANT AND BAR
 StreetDesc=Northwood Supa Centa, Main North Rd, Belfast/ Family Restaurant, licensed
 Phone=+6433235420
 Data0=(-43.45880,172.62380)
@@ -30749,7 +30692,7 @@ Data0=(-44.73300,171.04809)
 [POI]
 Type=0x2a
 Label=LONE STAR CAFE & BAR NELSON
-StreetDesc=90 Hardy St, Nelson/ Licensed restaurant & bar
+StreetDesc=88-90 Hardy St, Nelson/ Licensed restaurant & bar
 Phone=+6435481441
 Data0=(-41.27439,173.28115)
 [END]
@@ -31385,7 +31328,7 @@ Data0=(-45.93967,170.34350)
 ;1094439
 [POI]
 Type=0x2a07
-Label=LACEY'S STORE & TAKEAWAYS
+Label=MAC'S STORE AND TAKEAWAYS
 StreetDesc=9a McGowan St, Runanga/ takeaways
 Phone=+6437627714
 Data0=(-42.39997,171.25122)
@@ -34306,10 +34249,10 @@ Data0=(-43.50916,172.58990)
 [POI]
 Type=0x2a02
 Label=INDIAN FENDALTON
-StreetDesc=10/250 Clyde Rd, Fendalton, Chc/ Indian Restaurant
+StreetDesc=Shop 10, 250 Clyde Rd, Fendalton, Chc/ Indian Restaurant
 Phone=+6433519999
 zip=Closed Monday
-Data0=(-43.50931,172.59010)
+Data0=(-43.50984,172.58963)
 [END]
 
 ;1096673
@@ -34328,15 +34271,6 @@ Label=EWART DOUGLAS PHARMACY
 StreetDesc=403 Ilam Rd, Fendalton/ Chemist
 Phone=+6433519148
 Data0=(-43.50915,172.58889)
-[END]
-
-;1096676
-[POI]
-Type=0x2d02
-Label=ALBERT ARMS TAVERN
-StreetDesc=387 George St, Dud/ Irish bar
-Phone=+6434772952
-Data0=(-45.86823,170.50670)
 [END]
 
 ;1096689
@@ -35099,15 +35033,6 @@ Phone=+6434468757
 Data0=(-45.54109,169.31503)
 [END]
 
-;1097421
-[POI]
-Type=0x2a0a
-Label=PISA PIZZA ALEXANDRA
-StreetDesc=70 Centennial Ave, Alexandra/ Pizza, Takeaway
-Phone=+6430448944
-Data0=(-45.25194,169.38847)
-[END]
-
 ;1097426
 [POI]
 Type=0x2f04
@@ -35414,15 +35339,6 @@ Phone=+6433137438
 Data0=(-43.30165,172.61028)
 [END]
 
-;1098411
-[POI]
-Type=0x2a
-Label=THE ROOFTOP RESTAURANT & BAR
-StreetDesc=487C George St, Dud/ Restaurant & Bar
-Phone=+6434776647
-Data0=(-45.86617,170.50780)
-[END]
-
 ;1098433
 [POI]
 Type=0x2a
@@ -35633,16 +35549,6 @@ Label=NORTHLANDS ANIMAL CARE HOSPITAL
 StreetDesc=160 Main North Rd, Papanui, Chc/ Vet
 Phone=+6433524335
 Data0=(-43.48774,172.61633)
-[END]
-
-;1098482
-[POI]
-Type=0x2a
-Label=VOLCANO CAFE AND LAVA BAR
-StreetDesc=42 London St, Lyttelton/ restaurant, cafe, bar
-Phone=+6433287077
-zip=5-?
-Data0=(-43.60233,172.72076)
 [END]
 
 ;1098483
@@ -37446,7 +37352,7 @@ Data0=(-43.89674,171.75843)
 ;1099252
 [POI]
 Type=0x2a
-Label=ROBBIE'S BAR & BISTRO TIMARU
+Label=THE HIBERNIAN
 StreetDesc=4 Latter St, Timaru/ Bar & restaurant
 Phone=+6436888125
 Data0=(-44.39990,171.25284)
@@ -37513,15 +37419,6 @@ Label=ROBBIE'S BAR & BISTRO RICCARTON
 StreetDesc=201 Clarence St, Riccarton/ Bar & restaurant. TAB outlet. Zenbu Wi-Fi wireless b
 Phone=+6433430567
 Data0=(-43.53132,172.60193)
-[END]
-
-;1099260
-[POI]
-Type=0x2a
-Label=ROBBIE'S BAR & BISTRO NEW BRIGHTON
-StreetDesc=655 Pages Rd, New Brighton/ Bar & restaurant
-Phone=+6439822262
-Data0=(-43.50943,172.72023)
 [END]
 
 ;1099283
@@ -38404,15 +38301,6 @@ StreetDesc=4 Market Place, Twizel 7901 South Canterbury, McKenzie Country/ cafe,
 Phone=+6434353155
 zip=Shawty's Mon: 8.30am - 4.00pm Tues-Sun: 
 Data0=(-44.25746,170.09810)
-[END]
-
-;1100321
-[POI]
-Type=0x2a
-Label=THE KORNER KAFE
-StreetDesc=1/20 Market Place, Twizel/ cafe, restaurant
-Phone=+6434350501
-Data0=(-44.25781,170.09832)
 [END]
 
 ;1100322
@@ -116239,8 +116127,9 @@ Data0=(-45.87331,170.51307)
 [POI]
 Type=0x2f
 Label=JAN LANE - BEAUTY THERAPIST
-StreetDesc=Fl 3, 1 Dowling St, Dud/ Beauty Therapist
-Phone=+6421259676
+StreetDesc=166a Gordon Rd, Mosgiel, Dud/ Beauty Therapist
+Phone=+6434890330
+zip=Tues - Fri, 9:30am - 2:30pm Sat 9am - 5p
 Data0=(-45.87663,170.50337)
 [END]
 
@@ -202704,5 +202593,63 @@ Label=BRISCOES HOMEWARE - NORTHLANDS
 StreetDesc=11 Langdons Rd, Papanui, Chc/ Homeware, home decor, bedding
 Phone=+6433525122
 Data0=(-43.49474,172.60841)
+[END]
+
+;1190697
+[POI]
+Type=0x2e09
+Label=JAMES WREN & CO
+StreetDesc=65 Yarrow St, Invercargill/ We are you one stop shop for Paint, Furniture, Wallp
+Phone=+6432144079
+zip=Mon - Fri 8am to 5.30pm, Sat 9am to 3pm
+Data0=(-46.40872,168.35182)
+[END]
+
+;1190698
+[POI]
+Type=0x2f
+Label=MILLER STUDIOS
+StreetDesc=332 Durham St, Chc/ Leave Shopfitting, Office Fit-outs & Brand Management with t
+Phone=+6433655414
+zip=08.30 till 17.00
+Data0=(-43.52547,172.63363)
+[END]
+
+;1190699
+[POI]
+Type=0x2f
+Label=THE RETAILERS SHOWROOM
+StreetDesc=332 Durham St, Chc/ We can provide you with all of your merchandising requiremen
+Phone=+6433655414
+zip=08.30 - 17.00
+Data0=(-43.52547,172.63363)
+[END]
+
+;1190700
+[POI]
+Type=0x2f
+Label=DESIGNABILITY
+StreetDesc=332 Durham St, Chc/ Commercial Interior Design. At Designability we have the goo
+Phone=+6433655452
+zip=08.30 - 17.00
+Data0=(-43.52547,172.63363)
+[END]
+
+;1190701
+[POI]
+Type=0x2f
+Label=HONEY SOFTWARE
+StreetDesc=212 Antigua St/ HR software, payroll , recruitment, rostering, time sheet and le
+Phone=+6433660920
+Data0=(-43.53810,172.62790)
+[END]
+
+;1190705
+[POI]
+Type=0x2b01
+Label=TIMARA LODGE
+StreetDesc=Dog Point Rd, Blenheim , Marlborough/ Luxury lodge accommodation
+Phone=+35728276
+Data0=(-41.52657,173.81122)
 [END]
 

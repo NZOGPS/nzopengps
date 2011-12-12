@@ -5,7 +5,13 @@ and prints the command to be used for running gdb conversion with GPSbabel http:
 
 =end
 WORKING_SRID = 4167
-require 'progressbar'
+require 'cgi'
+begin
+  require 'progressbar'
+rescue LoadError
+  puts "Gem missing. Please run: gem install progressbar\n" 
+  exit
+end
 
 def process_polish_buffer(buffer)
 end
@@ -38,14 +44,16 @@ def pre_processing()
   end
   
   @output_file_path = File.join(@base, 'outputs', "#{@tile}.gpx") #put outputs in outputs folder
-  print "Output : #{@output_file_path}\n"
 
   File.open(@output_file_path, "w") do |f|
     f.print <<-eos
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" creator="Zenbu - http://www.zenbu.co.nz" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
     eos
+    
+    print "Running database query...\n"
     res  = @conn.exec(sql_query)
+    print "Creating #{@output_file_path}\n"
     @pbar = ProgressBar.new("Progress", res.num_tuples) 
 
     res.values.each{|row|
@@ -56,7 +64,7 @@ def pre_processing()
       linzid = row[3]
       f.print <<-eos
 <wpt lat="#{lat}" lon="#{lon}">
-<name>#{address}</name>
+<name>#{CGI::escapeHTML(address)}</name>
 <desc>#{linzid}</desc>
 </wpt>
       eos

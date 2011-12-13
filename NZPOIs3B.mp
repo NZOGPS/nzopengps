@@ -34433,7 +34433,7 @@ Data0=(-43.53326,172.67439)
 [POI]
 Type=0x2e
 Label=MICHAEL HILL JEWELLER HORNBY
-StreetDesc=Shop 28, The Hub Hornby, 418 Main South Rd, Hornby, Chc/ Jewellery
+StreetDesc=418 Main South Rd, Shop 28 The Hub Hornby, Hornby, Chc/ Jewellery
 Phone=+6433497131
 zip=Mon-Wed 9am-6pm, Thu-Fri 9am-6:30pm, Sat
 Data0=(-43.54268,172.52348)
@@ -34452,7 +34452,7 @@ Data0=(-46.41174,168.34981)
 [POI]
 Type=0x2e
 Label=MICHAEL HILL JEWELLER MERIVALE
-StreetDesc=Merivale Mall, 189 Papanui Rd, Chc/ Jewellery
+StreetDesc=189 Papanui Rd, Merivale Mall, Chc/ Jewellery
 Phone=+6433551100
 Data0=(-43.51253,172.62182)
 [END]
@@ -34470,7 +34470,7 @@ Data0=(-41.27273,173.28369)
 [POI]
 Type=0x2e
 Label=MICHAEL HILL JEWELLER NORTHLANDS
-StreetDesc=Shop 30, Northlands Shopping Mall, 55 Main North Rd, Papanui, Chc/ Jewellery
+StreetDesc=55 Main North Rd, Shop 30 Northlands Shopping Mall, Papanui, Chc/ Jewellery
 Phone=+6433522733
 zip=Mon-Wed 9am-6pm, Thu-Fri 9am-9pm, Sat-Su
 Data0=(-43.49236,172.61006)
@@ -34479,8 +34479,8 @@ Data0=(-43.49236,172.61006)
 ;1096797
 [POI]
 Type=0x2e
-Label=MICHAEL HILL JEWELLER PALMS
-StreetDesc=Shop 53, The Palms Mall, Cnr New Brighton & Marshland Rds, Chc/ Jewellery
+Label=MICHAEL HILL JEWELLER THE PALMS MALL
+StreetDesc=Shop 53 The Palms Mall, Cnr New Brighton & Marshland Rds, Chc/ Jewellery
 Phone=+6433861081
 Data0=(-43.50634,172.66430)
 [END]
@@ -34498,7 +34498,7 @@ Data0=(-45.03217,168.65981)
 [POI]
 Type=0x2e
 Label=MICHAEL HILL JEWELLER RICCARTON
-StreetDesc=Shop 72, Westfield Riccarton, Chc/ Jewellery
+StreetDesc=129 Riccarton Rd, Shop 72 Westfield Riccarton, Chc/ Jewellery
 Phone=+6433488577
 Data0=(-43.53085,172.59783)
 [END]
@@ -34508,6 +34508,7 @@ Data0=(-43.53085,172.59783)
 Type=0x2e
 Label=MICHAEL HILL JEWELLER RICHMOND MALL
 StreetDesc=Shop 18 Richmond Mall, Corner of Queen, Croucher & Talbot Streets, Richmond/ Jew
+Phone=+6435438080
 Data0=(-41.33857,173.18620)
 [END]
 
@@ -63582,7 +63583,7 @@ Data0=(-45.91300,169.68691)
 ;1115289
 [POI]
 Type=0x2f
-Label=TUBE FAB 2005 LIMITED
+Label=TUBE FAB LIMITED
 StreetDesc=97 Harman St, Addington, Chc/ 
 Phone=+6433381142
 zip=Mon-Fri 0800-1700
@@ -106811,7 +106812,7 @@ Data0=(-45.89537,170.50575)
 [POI]
 Type=0x2e
 Label=MICHAEL HILL JEWELLER SOUTH CITY
-StreetDesc=Shop 32 South City Ctr, 555 Colombo St, Chc/ Jewellery
+StreetDesc=555 Colombo St, Shop 32 South City Ctr, Chc/ Jewellery
 Phone=+6433658245
 zip=Mon-Thu 9am-6pm, Fri 9am-8pm, Sat 10am-6
 Data0=(-43.53828,172.63537)
@@ -122752,14 +122753,6 @@ Type=0x2e04
 Label=RICCARTON MALL
 StreetDesc=Riccarton Mall, 145 Riccarton Rd, Chc/ Shopping centre, mall
 Data0=(-43.53035,172.59740)
-[END]
-
-;1141606
-[POI]
-Type=0x2e04
-Label=RICHMOND MALL
-StreetDesc=Richmond Mall, Corner of Croucher & Talbot Streets, Richmond/ Shopping centre, m
-Data0=(-41.33857,173.18620)
 [END]
 
 ;1141609
@@ -202651,5 +202644,44 @@ Label=TIMARA LODGE
 StreetDesc=Dog Point Rd, Blenheim , Marlborough/ Luxury lodge accommodation
 Phone=+35728276
 Data0=(-41.52657,173.81122)
+[END]
+
+;1190709
+[POI]
+Type=0x2a0e
+Label=SMOKORUN INVERCARGILL
+StreetDesc=85 Liddel St Invercargill/ Cafe
+Phone=+6432149101
+zip=6:30 am to 4:00 pm Monday to Friday, 7:3
+Data0=(-46.41721,168.34500)
+[END]
+
+;1190713
+[POI]
+Type=0x2f
+Label=ABS SANDBLASTING & SPRAY PAINTING LTD 24HR
+StreetDesc=722 Kaikorai Valley Rd Dud 9011 New Zealand/ Dunedin specialists in residential 
+Phone=+6434882035
+zip=24 hours 7 days a week
+Data0=(-45.89901,170.45455)
+[END]
+
+;1190727
+[POI]
+Type=0x2f
+Label=GAVAN PRODUCTS LTD
+StreetDesc=112 Antigua St, Sydenham 8022, Chc/ 
+Phone=+6433650521
+Data0=(-43.54353,172.62817)
+[END]
+
+;1190729
+[POI]
+Type=0x2f
+Label=JASON DOWDEN PROPERTY VALUATION
+StreetDesc=484 Riccarton Rd Mosgiel 9092 New Zealand/ Property valuers for residential, com
+Phone=+6434890554
+zip=Monday – Friday, 8:30 – 5:30
+Data0=(-45.85105,170.30901)
 [END]
 

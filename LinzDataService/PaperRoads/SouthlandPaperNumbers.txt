@@ -55,3 +55,29 @@
 8001	O,29,29	Hodgkinson Street	Gummies Bush (Southland, NZ)	31/08/2011 1:27p.m.
 3246	B,40,49	E,78,78	Stornoway Street	Karitane (Otago, NZ)	19/10/2011 2:10p.m.
 1826	E,200,200	Blacks Road	Opoho, Dunedin (Otago, NZ)	19/10/2011 2:14p.m.
+4034	O,1989,1989	Aitchison Runs Road	Wilden (Otago, NZ)	14/11/2011 11:39:47 p.m.	S45°39.222' E169°10.708'
+764	E,110,110	Durham Street	Hampden (Otago, NZ)	14/11/2011 11:46:59 p.m.	S45 19.419 E170 48.865
+7913	O,13,13	O,45,47	Swale Street	Otautau (Southland, NZ)	15/11/2011 11:24:12 p.m.	S46 08.121 E167 59.220
+2447	E,70,70	Cleghorn Street	Upper Junction, Dunedin (Otago, NZ)	15/11/2011 11:28:16 p.m.	S45 50.220 E170 34.283
+7889	O,23,69	Frederick Street		Otautau (Southland, NZ)	15/11/2011 11:29:39 p.m.	S46 08.183 E167 59.213
+2919	E,2,14	Church Road	Warrington (Otago, NZ)	16/11/2011 10:38:35 p.m.	S45 42.663 E170 35.977
+3256	B,1,6	Stonehaven Street	Waikouaiti (Otago, NZ)	16/11/2011 10:47:19 p.m.	S45 35.484 E170 41.151
+5051	E,4,4	Kirkwall Street	Waikouaiti (Otago, NZ)	16/11/2011 10:47:19 p.m.
+5091	E,80,80	Dumbarton Street	Waikouaiti (Otago, NZ)	16/11/2011 10:47:19 p.m.	S45 36.073 E170 41.283
+2912	O,19,19	Clackmannan Street	Waikouaiti (Otago, NZ)	16/11/2011 11:12:43 p.m.	S45 35.817 E170 40.908
+8696	O,31,31	Albany Street	Riverton (Southland, NZ)	16/11/2011 11:44:33 p.m.	S46 20.489 E168 01.492
+7479	E,18,22	Lucknow Street	Riverton (Southland, NZ)	16/11/2011 11:44:33 p.m		S46 20.696 E168 01.181
+7722	B,32,33	Irwin Street	Riverton (Southland, NZ)	16/11/2011 11:49:33 p.m
+7774	E,68,68	Brook Street	Riverton (Southland, NZ)	16/11/2011 11:56:33 p.m	S46 21.768' E168 00.285'
+8573	O,375,375	Waimeamea Road	Bald Hill (Southland, NZ)	29/11/2011 12:41p.m.	-46.260126,167.749035
+4368	E,662,678	O,667,667	Bull Creek Road	Glenledi (Otago, NZ)	30/11/2011 1:12p.m.	-46.176818,170.129226
+3903	B,3,8	Rea Street	Lawrence (Otago, NZ)	30/11/2011 1:36p.m.	-45.917947,169.686929
+8305	E,298,298	Bann Street	Bluff (Southland, NZ)	13/12/2011 10:40:55 p.m.	-46.600461,168.325386
+2744	O,27,27	Inglis Street	Mosgiel (Otago, NZ)	13/12/2011 10:43:54 p.m.	-45.883783,170.342847
+8486	E,2,18	Boston Street	Riversdale (Southland, NZ)	13/12/2011 10:46:49 p.m.	-45.903897,168.750862
+6602	E,1730,1730	Tiwai Road	Tiwai Point (Southland, NZ)	13/12/2011 10:49:24 p.m.	-46.598250,168.362565
+5642	O,21,35	WINTON ST	Winton (Southland, NZ)	15/12/2011 10:51:57 p.m.
+5643	O,11,51	VICTORIA ST	Winton (Southland, NZ)	15/12/2011 10:58:07 p.m.
+7432	E,50,58	Norman Street	Centre Bush (Southland, NZ)	16/12/2011 12:20:34 a.m.	-46.056043,168.334656
+
+

@@ -392,3 +392,15 @@
 4904	WOODLAND TCE		Careys Bay, Dunedin (Otago, NZ)	13/11/2011 12:24:56 a.m.
 7160	DUNSTAN ST		Waikaia (Southland, NZ)	15/11/2011 12:06:33 a.m.
 8467	RIVERSIDE TCE		Waikaia (Southland, NZ)	15/11/2011 12:06:33 a.m.
+8212	SALFORD ST	Centre Bush (Southland, NZ)	15/12/2011 8:40:13 p.m.
+5648	ELGIN ST	Benmore (Southland, NZ)	15/12/2011 8:41:04 p.m.
+8213	BEDFORD ST	Benmore (Southland, NZ)	15/12/2011 8:41:04 p.m.
+8462	CRESSY ST	Limehills (Southland, NZ)	15/12/2011 8:55:43 p.m.
+7437	OMER ST	Limehills (Southland, NZ)	15/12/2011 9:46:26 p.m.
+6927	MARION ST	Limehills (Southland, NZ)	15/12/2011 9:52:08 p.m.
+6674	FROME ST	Lochiel (Southland, NZ)	15/12/2011 10:45:52 p.m.
+5642	WINTON ST	Winton (Southland, NZ)	15/12/2011 10:51:57 p.m.
+8211	SIDE ST	Winton (Southland, NZ)	15/12/2011 10:55:52 p.m.
+5643	VICTORIA ST	Winton (Southland, NZ)	15/12/2011 10:58:07 p.m.
+7342	NAIRN ST	Fortrose (Southland, NZ)	15/12/2011 11:38:45 p.m.
+

@@ -45208,7 +45208,7 @@ Data0=(-41.51122,173.95770)
 [POI]
 Type=0x2f
 Label=DESTINATION QUEENSTOWN
-StreetDesc=44 Stanley St, Queenstown/ 
+StreetDesc=44 Stanley St, Queenstown/ Regional tourism organisation
 Phone=+6434411800
 Data0=(-45.03138,168.66292)
 [END]
@@ -202683,5 +202683,15 @@ StreetDesc=484 Riccarton Rd Mosgiel 9092 New Zealand/ Property valuers for resid
 Phone=+6434890554
 zip=Monday – Friday, 8:30 – 5:30
 Data0=(-45.85105,170.30901)
+[END]
+
+;1190743
+[POI]
+Type=0x2f
+Label=PRO STORAGE
+StreetDesc=45 Etrrick St, Invercargill/ ProStorage is a southland owned and operated busine
+Phone=+6432140920
+zip=Mon - Fri 8am to 5pm, Sat 9am to 12pm
+Data0=(-46.42030,168.34145)
 [END]
 

@@ -202695,3 +202695,106 @@ zip=Mon - Fri 8am to 5pm, Sat 9am to 12pm
 Data0=(-46.42030,168.34145)
 [END]
 
+;1190747
+[POI]
+Type=0x2f
+Label=RAPID RE-INKING
+StreetDesc=339 Yarrow St, Invercargill/ Rapid Re-Inking, Invercargill. Printers and graphic
+Phone=+6432176648
+zip=Mon - Fri 8.30am to 5pm
+Data0=(-46.40717,168.37176)
+[END]
+
+;1190750
+[POI]
+Type=0x2e
+Label=?REAL AOTEAROA CHRISTCHURCH
+StreetDesc=Upper Riccarton Post Shop Bush Inn Shopping Ctr 20 Waimari Rd Chc/ New Zealand J
+Phone=+6433416287
+zip=Open Monday to Friday 9.00am to 5.00pm (
+Data0=(-43.53205,172.63622)
+[END]
+
+;1190754
+[POI]
+Type=0x2f
+Label=SINGLETON SIGNS LTD
+StreetDesc=73 Gala St, Invercargill/ No matter what size your business, you understand the 
+Phone=+6432140035
+zip=Mon - Fri 8am to 5pm
+Data0=(-46.40659,168.35166)
+[END]
+
+;1190766
+[POI]
+Type=0x2e
+Label=OCS - NELSON
+StreetDesc=104 Vanguard St Nelson 7010/ waste management, linen hire, pest control, fumigat
+Phone=0800332333
+Data0=(-41.27739,173.27563)
+[END]
+
+;1190767
+[POI]
+Type=0x2e
+Label=OCS - BLENHEIM
+StreetDesc=66 Scott St Blenheim 7240/ waste management, linen hire, pest control, fumigatio
+Phone=0800332333
+Data0=(-41.51794,173.95700)
+[END]
+
+;1190768
+[POI]
+Type=0x2e
+Label=OCS - WEST COAST
+StreetDesc=10 Johnstone St Greymouth 7840/ waste management, linen hire, pest control, fumi
+Phone=+6437685609
+Data0=(-42.44884,171.20591)
+[END]
+
+;1190769
+[POI]
+Type=0x2e
+Label=OCS - CHRISTCHURCH
+StreetDesc=Unit 6, 38 Hayton Rd Sockburn Chc 8042/ waste management, linen hire, pest contr
+Phone=+6433455500
+Data0=(-43.54155,172.55583)
+[END]
+
+;1190770
+[POI]
+Type=0x2e
+Label=OCS - TIMARU
+StreetDesc=59 Theodosia St Timaru 7910/ waste management, linen hire, pest control, fumigat
+Phone=+6436848148
+Data0=(-44.39514,171.24858)
+[END]
+
+;1190771
+[POI]
+Type=0x2e
+Label=OCS - DUNEDIN
+StreetDesc=13 Turakina Rd Andersons Bay Dud 9012/ waste management, linen hire, pest contro
+Phone=+6434552936
+Data0=(-45.89198,170.50737)
+[END]
+
+;1190772
+[POI]
+Type=0x2e
+Label=OCS - INVERCARGILL
+StreetDesc=157 Liddel St Invercargill 9812/ waste management, linen hire, pest control, fum
+Phone=+6432140277
+Data0=(-46.42110,168.34534)
+[END]
+
+;1190773
+[POI]
+Type=0x2e09
+Label=SOFT FURNISHINGS WITH FLAIR
+StreetDesc=226a Yarrow St, Invercargill/ Soft Furnishings with Flair, a locally owned and o
+Phone=+6432171100
+zip=Mon - 9am to 5pm, Tues - Fri 10am to 4pm
+Data0=(-46.40837,168.36364)
+[END]
+

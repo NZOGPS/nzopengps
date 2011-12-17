@@ -79,5 +79,10 @@
 5642	O,21,35	WINTON ST	Winton (Southland, NZ)	15/12/2011 10:51:57 p.m.
 5643	O,11,51	VICTORIA ST	Winton (Southland, NZ)	15/12/2011 10:58:07 p.m.
 7432	E,50,58	Norman Street	Centre Bush (Southland, NZ)	16/12/2011 12:20:34 a.m.	-46.056043,168.334656
-
+7437	E,66,66	OMER ST	Limehills (Southland, NZ)	17/12/2011 2:56:19 p.m.
+8462	O,3,31	CRESSY ST	Limehills (Southland, NZ)	15/12/2011 8:55:43 p.m.
+6927	O,9,11	B,30,35	MARION ST	Limehills (Southland, NZ)	17/12/2011 3:00:17 p.m.
+6874	B,21,30	Atlas Street	Limehills (Southland, NZ)	17/12/2011 3:01:50 p.m.	-46.058900,168.329790
+8504	E,20,20	E,54,62	Danube Road	Limehills (Southland, NZ)	17/12/2011 3:09:18 p.m.	-46.060551,168.329974
+6791	O,13,95	Severn Street	Limehills (Southland, NZ)	17/12/2011 3:11:28 p.m.	-46.064624,168.332677
 

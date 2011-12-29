@@ -136,4 +136,5 @@ NO SUFI		LADDER FERN	KELVIN GROVE (MANAWATU-WANGANUI)
 29226	PIGEON BUSH RD	Western Lake (Wellington, NZ)
 34510	BELSHAW RD	Papatawa (Manawatu-Wanganui, NZ)
 30199	MOORES RD	Te Ore Ore, Masterton (Wellington, NZ)
-
+25252	GREY ST		Gladstone (Wellington, NZ)
+30945	FOX ST		Gladstone (Wellington, NZ)

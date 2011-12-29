@@ -65927,9 +65927,9 @@ Data0=(-41.20093,174.06487)
 ;1116518
 [POI]
 Type=0x2b03
-Label=?BLUMINE ISLAND CAMPSITE (DOC)
+Label=BLUMINE ISLAND CAMPSITE (DOC)
 StreetDesc=Blumine Island Scenic Reserve - South Island > Marlborough > Sounds Area/ DOC co
-Data0=(-41.16954,174.23361)
+Data0=(-41.16803,174.23364)
 [END]
 
 ;1116522
@@ -66071,9 +66071,9 @@ Data0=(-43.40810,169.82861)
 ;1116549
 [POI]
 Type=0x2b03
-Label=?GLENCOE CAMPSITE (DOC)
+Label=GLENCOE CAMPSITE (DOC)
 StreetDesc=Glencoe Scenic Reserve - South Island > Otago > Coastal Otago/ DOC conservation 
-Data0=(-45.22806,170.75700)
+Data0=(-45.22732,170.75704)
 [END]
 
 ;1116551
@@ -66434,7 +66434,7 @@ Type=0x2b03
 Label=PAPATOWAI MOTOR CAMP
 StreetDesc=Papatowai Scenic Reserve, Catlins, Coastal Otago/ Accommodation, powered sites f
 Phone=+6434158565
-Data0=(-46.55718,169.46979)
+Data0=(-46.55786,169.46881)
 [END]
 
 ;1116631
@@ -66513,9 +66513,9 @@ Data0=(-41.20499,174.11264)
 ;1116649
 [POI]
 Type=0x2b03
-Label=?ROBIN HOOD BAY CAMPSITE (DOC)
+Label=ROBIN HOOD BAY CAMPSITE (DOC)
 StreetDesc=Robin Hood Bay Recreation Reserve - South Island > Marlborough > South Marlborou
-Data0=(-41.35939,174.06983)
+Data0=(-41.35895,174.07037)
 [END]
 
 ;1116652
@@ -144081,10 +144081,10 @@ Data0=(-43.49499,172.70987)
 ;1153650
 [POI]
 Type=0x2e05
-Label=?QUEEN CHARLOTTE PHARMACY
+Label=QUEEN CHARLOTTE PHARMACY
 StreetDesc=High St, Picton/ Pharmacy
 Phone=+6435737927
-Data0=(-41.29085,174.00681)
+Data0=(-41.29170,174.00691)
 [END]
 
 ;1153651

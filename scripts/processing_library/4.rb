@@ -12,7 +12,7 @@ end
 def pre_processing()
 
   top,right,bottom,left = @bounds
-  sql_query = "SELECT * FROM \"nz-street-address-elector\" WHERE ST_Contains(ST_SetSRID(ST_MakeBox2D(ST_Point(#{left}, #{bottom}), ST_Point(#{right} ,#{top})),#{WORKING_SRID}), the_geom);"
+  sql_query = "SELECT  DISTINCT ON (rna_id, range_low) range_low, road_name, to_char(st_x(the_geom),'9999D999999'), to_char(st_y(the_geom),'9999D999999'), rna_id FROM \"nz-street-address-elector\" WHERE ST_Contains(ST_SetSRID(ST_MakeBox2D(ST_Point(#{left}, #{bottom}), ST_Point(#{right} ,#{top})),#{WORKING_SRID}), the_geom);"
   require 'pg'
   require 'yaml'
   
@@ -36,14 +36,16 @@ def pre_processing()
     end
   end
   
-  @output_file_path = File.join(@base, 'outputs', "#{@tile} number.csv") #put outputs in outputs folder
+  @output_file_path = File.join(@base, 'outputs', "#{@tile}-numbers-linzid.csv") #put outputs in outputs folder
   print "Output : #{@output_file_path}\n"
   CSV.open(@output_file_path, "w") do |csv|
     res  = @conn.exec(sql_query)
-
-    csv << res.fields
+		i = 0
+    csv << ["No","Latitude","Longitude","Name","Description","Symbol"]
     res.values.each{|row|
-      csv << row
+    	i += 1
+			next if row[0] == nil
+    	csv << [i, row[3].strip, row[2].strip, (row[0]+" "+row[1]), row[4], "Waypoint"]
     }
 
   end

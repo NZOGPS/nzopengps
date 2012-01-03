@@ -8,7 +8,7 @@ rescue LoadError
 end
 load "nzogps_library.rb"
 
-path = 'lds-nz-road-centre-line-electoral-SHP/nz-road-centre-line-electoral.shp'
+path = 'lds-nz-road-centre-line-electoral-SHP/nz-road-centre-line-elect.shp'
 
 initialise_tile_file_handles
 

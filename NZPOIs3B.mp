@@ -202701,3 +202701,13 @@ Phone=+6435765249
 Data0=(-40.94170,173.94977)
 [END]
 
+;1190877
+[POI]
+Type=0x2f
+Label=GREG YEE "BY APPOINTMENT"
+StreetDesc=42 E Valley Rd, Cashmere, Chc/ Hairdressing Salon
+Phone=+6421332002
+zip=Wednesday - Saturday, late nights Thursd
+Data0=(-43.57405,172.62678)
+[END]
+

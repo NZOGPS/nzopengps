@@ -8675,10 +8675,10 @@ Data0=(-46.14156,168.32547)
 [POI]
 Type=0x2e02
 Label=NEW WORLD ASHBURTON
-StreetDesc=75 Moore St, Ashburton/ supermarket, Lotto
+StreetDesc=23 Moore St, Ashburton/ supermarket, Lotto
 Phone=+6433084050
 zip=8am-9pm, 7 days a week
-Data0=(-43.90546,171.74517)
+Data0=(-43.90409,171.74348)
 [END]
 
 ;1030520
@@ -132917,8 +132917,10 @@ Data0=(-43.54958,172.68388)
 [POI]
 Type=0x2e02
 Label=LIBERTY MARKET
-StreetDesc=495 Moorhouse Ave, Chc/ Supermarket
-Data0=(-43.53980,172.65156)
+StreetDesc=491 Moorehouse Ave, Chc/ Organic Supermarket
+Phone=+6433660887
+zip=M-S 9-6, Sun 10am-3pm.
+Data0=(-43.53977,172.65101)
 [END]
 
 ;1146871
@@ -184800,7 +184802,6 @@ Type=0x2f
 Label=VAMP HAIR DESIGN
 StreetDesc=9a Martin St, South City, Invercargill/ Hair Dresser, Make Up and Beautician
 Phone=+6432184431
-zip=Monday - By appoinment
 Data0=(-46.42817,168.36220)
 [END]
 
@@ -190060,10 +190061,10 @@ Data0=(-43.51226,172.50391)
 ;1177848
 [POI]
 Type=0x2f
-Label=DR PETER RIPLEY
-StreetDesc=at Dud Urgent Doctors, 95 Hanover St, Dud,/ GP with special interest in minor (s
+Label=DR PETER RIPLEY, GENERAL PRACTITIONER
+StreetDesc=at Dud Urgent Doctors, 95 Hanover St., Dud 9016,/ GP with special interest in mi
 Phone=+6434792900
-zip=Tues & Thurs, 3-6pm, by appointment.
+zip=Tuesday & Thursday, 3pm to 6pm, by appoi
 Data0=(-45.87062,170.50831)
 [END]
 
@@ -199017,7 +199018,7 @@ Data0=(-43.54372,172.65302)
 [POI]
 Type=0x2f
 Label=A+ PHYSIO
-StreetDesc=1 Greenacres Str., Macandrew Bay, Dud/ We provide you with the highest standard 
+StreetDesc=Memorial Ctr, Cnr of Portobello Rd and Greenacres St, Macandrew Bay, Dud/ We pro
 Phone=+6422126349
 Data0=(-45.86839,170.59814)
 [END]
@@ -202664,5 +202665,39 @@ Label=M.V. TUHOE
 StreetDesc=Tom Ayers Dr, Kaiapoi/ Historic Schooner
 Phone=+6433273134
 Data0=(-43.38402,172.65959)
+[END]
+
+;1190866
+[POI]
+Type=0x2c06
+Label=TRAILL PARK
+StreetDesc=Golden Bay Rd, Halfmoon Bay, Stewart Island/ Park
+Data0=(-46.90089,168.12438)
+[END]
+
+;1190867
+[POI]
+Type=0x2a0e
+Label=JUST CAFE
+StreetDesc=6 Main Rd, Halfmoon Bay, Stewart Island/ Cafe, restaurant
+Phone=+6432191422
+Data0=(-46.89786,168.12749)
+[END]
+
+;1190868
+[POI]
+Type=0x6403
+Label=HALFMOON BAY CEMETERY
+StreetDesc=Mapau Rd, Stewart Island/ Cemetery
+Data0=(-46.89410,168.12498)
+[END]
+
+;1190870
+[POI]
+Type=0x2b00
+Label=CEDARVIEW COTTAGES
+StreetDesc=Bulwer, Outer Pelorus Sound, Marlborough, New Zealand/ 
+Phone=+6435765249
+Data0=(-40.94170,173.94977)
 [END]
 

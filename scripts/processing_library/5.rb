@@ -78,7 +78,7 @@ def pre_processing()
   print "\nCompile to gdb with\n"
   gdb_path = File.join(File.dirname(@output_file_path),File.basename(@output_file_path, '.gpx'))
   gpsbabel_path = app_config['gpsbabel']['path']
-  gpsbabel_exec_command = "\"#{gpsbabel_path}\" -i gpx -o gdb -f #{@output_file_path} -F #{gdb_path}.gdb\n"
+  gpsbabel_exec_command = "\"#{gpsbabel_path}\" -i gpx -o gdb -f \"#{@output_file_path}\" -F \"#{gdb_path}.gdb\"\n"
   print gpsbabel_exec_command
   
   if app_config['gpsbabel']['execute_inline'] then

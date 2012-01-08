@@ -5,4 +5,5 @@
 34525	E,18,24			Fergusson Street	Woodville (Manawatu-Wanganui, NZ)
 27281	E,2,2			Burt Street		Sanson (Manawatu-Wanganui, NZ)
 31209	E,2,22 O,1,19		Matai Street		Tokomaru (Manawatu-Wanganui, NZ)
-27264	E,194,194		HAMILTONS LINE	Tiakitahuna (Manawatu-Wanganui, NZ)
+27264	E,194,194		HAMILTONS LINE		Tiakitahuna (Manawatu-Wanganui, NZ)
+23707	E,22,22			KENSINGTON ST		Te Aro, Wellington (Wellington, NZ)

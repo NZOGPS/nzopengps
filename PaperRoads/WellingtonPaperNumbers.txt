@@ -7,3 +7,4 @@
 1030000048817	E,2,22 O,1,19		Matai Street		Tokomaru (Manawatu-Wanganui, NZ)
 1030000047513	E,194,194		HAMILTONS LINE		Tiakitahuna (Manawatu-Wanganui, NZ)
 1030000049098	O,35,35			SKYE ST			Levin (Manawatu-Wanganui, NZ)
+1030000022851	E,22,22			KENSINGTON ST		Te Aro, Wellington (Wellington, NZ)

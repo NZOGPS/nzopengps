@@ -1,0 +1,6 @@
+WINFORD ST		linzid=17755  	sufi=1030000038647		Larrys Creek (West Coast, NZ)
+CHURCH ST		linzid=17833	sufi=1030000038753		Larrys Creek (West Coast, NZ)
+CAPLIN ST		linzid=17805	sufi=1030000038715		Larrys Creek (West Coast, NZ)
+HEALY ST		linzid=17768	sufi=1030000038665		Larrys Creek (West Coast, NZ)
+MT ST			linzid=19373	sufi=1030000038661		Larrys Creek (West Coast, NZ)
+DOUGHBOY RD		linzid=18606	sufi=1030000059502		Shenandoah (Tasman, NZ)

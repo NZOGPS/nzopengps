@@ -10097,7 +10097,7 @@ Data0=(-46.11403,168.93406)
 ;1034657
 [POI]
 Type=0x2f01
-Label=SHELL CROMWELL
+Label=Z ENERGY CROMWELL (SHELL )
 StreetDesc=Cnr Barry Ave And Murray Tce, Cromwell/ Shell petrol station
 Phone=+6434450804
 Data0=(-45.03659,169.19881)
@@ -130723,7 +130723,7 @@ Data0=(-43.32296,172.68852)
 Type=0x2f
 Label=WOODFORD GLEN SPEEDWAY ASS INC
 StreetDesc=Doubledays Rd, Kaiapoi/ SNZ, Stockar
-Data0=(-43.39775,172.66075)
+Data0=(-43.39971,172.65864)
 [END]
 
 ;1144920
@@ -137653,6 +137653,15 @@ Label=SMITHS SPORTS SHOES NELSON
 StreetDesc=Richmond Mall, Queen St, Nelson/ Sports shoes specialists. Running, walking, cro
 Phone=+6435410412
 Data0=(-41.33986,173.18623)
+[END]
+
+;1150432
+[POI]
+Type=0x2e07
+Label=SMITHS SPORTS SHOES CHRISTCHURCH
+StreetDesc=46 Birmingham Dr, Chc/ Sports shoes specialists. Running, walking, cross trainer
+Phone=+6433770787
+Data0=(-43.54334,172.58488)
 [END]
 
 ;1150433
@@ -155058,14 +155067,6 @@ StreetDesc=476 Fortrose-Otara Rd, Fortrose/ Accommodation
 Data0=(-46.59879,168.84615)
 [END]
 
-;1159938
-[POI]
-Type=0x2b00
-Label=THE GARDEN ROOM HOLIDAY ACCOMMODATION
-StreetDesc=17 Jessie St, Mapua/ Accommodation
-Data0=(-41.25402,173.09190)
-[END]
-
 ;1159941
 [POI]
 Type=0x2b00
@@ -162792,15 +162793,6 @@ Label=HIMALAYA
 StreetDesc=20 London St, Lyttelton/ shopping
 Phone=+6433287600
 Data0=(-43.60258,172.72174)
-[END]
-
-;1165200
-[POI]
-Type=0x2f03
-Label=ADENS TYRE SHOP
-StreetDesc=34A Main St , Weston/ Tyres, Auto Repairs, Parts
-Phone=0800ADENSTYRES0212935222
-Data0=(-45.07856,170.91631)
 [END]
 
 ;1165201
@@ -202384,7 +202376,7 @@ Label=?REAL AOTEAROA CHRISTCHURCH
 StreetDesc=Upper Riccarton Post Shop Bush Inn Shopping Ctr 20 Waimari Rd Chc/ New Zealand J
 Phone=+6433416287
 zip=Open Monday to Friday 9.00am to 5.00pm (
-Data0=(-43.53205,172.63622)
+Data0=(-43.53090,172.57516)
 [END]
 
 ;1190754
@@ -202709,5 +202701,96 @@ StreetDesc=42 E Valley Rd, Cashmere, Chc/ Hairdressing Salon
 Phone=+6421332002
 zip=Wednesday - Saturday, late nights Thursd
 Data0=(-43.57405,172.62678)
+[END]
+
+;1190894
+[POI]
+Type=0x2e
+Label=CANNON HYGIENE - NELSON
+StreetDesc=104 Vanguard St Nelson 7010/ commercial cleaning, airblade dyson, computer clean
+Phone=0800494436
+Data0=(-41.27739,173.27563)
+[END]
+
+;1190895
+[POI]
+Type=0x2f
+Label=CANNON HYGIENE - BLENHEIM
+StreetDesc=66 Scott St Blenheim 7240/ commercial cleaning, airblade dyson, computer cleanin
+Phone=0800494436
+Data0=(-41.51794,173.95700)
+[END]
+
+;1190896
+[POI]
+Type=0x2e
+Label=CANNON HYGIENE - GREYMOUTH, WEST COAST
+StreetDesc=10 Johnstone St Greymouth 7840/ commercial cleaning, airblade dyson, computer cl
+Phone=0800494436
+Data0=(-42.44884,171.20591)
+[END]
+
+;1190897
+[POI]
+Type=0x2e
+Label=CANNON HYGIENE - CHRISTCHURCH
+StreetDesc=Unit 6, 38 Hayton Rd Sockburn Chc 8042/ commercial cleaning, airblade dyson, com
+Phone=0800494436
+Data0=(-43.54155,172.55583)
+[END]
+
+;1190898
+[POI]
+Type=0x2e
+Label=CANNON HYGIENE - TIMARU
+StreetDesc=59 Theodosia St Timaru 7910/ commercial cleaning, airblade dyson, computer clean
+Phone=0800494436
+Data0=(-44.39514,171.24858)
+[END]
+
+;1190899
+[POI]
+Type=0x2f
+Label=CANNON HYGIENE - DUNEDIN
+StreetDesc=13 Turakina Rd Andersons Bay Dud 9012/ commercial cleaning, airblade dyson, comp
+Phone=0800494436
+Data0=(-45.89198,170.50737)
+[END]
+
+;1190900
+[POI]
+Type=0x2e
+Label=CANNON HYGIENE - INVERCARGILL
+StreetDesc=157 Liddel St Invercargill 9812/ commercial cleaning, airblade dyson, computer c
+Phone=0800494436
+Data0=(-46.42110,168.34534)
+[END]
+
+;1190901
+[POI]
+Type=0x2a07
+Label=SUBWAY CROMWELL
+StreetDesc=2 The Mall, Cromwell/ Fast food restaurant, sandwiches, salads, takeaways
+Phone=+6434450926
+zip=7:00a.m. to 10:00p.m.
+Data0=(-45.03654,169.19727)
+[END]
+
+;1190905
+[POI]
+Type=0x2f
+Label=BA+D | BARRETT ARCHITECTURE + DESIGN
+StreetDesc=21 Tovey St, South New Brighton, Chc 8061/ We are a creatively led multidiscipli
+Phone=+6421048560
+Data0=(-43.51742,172.73260)
+[END]
+
+;1190913
+[POI]
+Type=0x2c05
+Label=?BANKS PENINSULA PLUNKET PRESCHOOL
+StreetDesc=duvauchelle/ The only preschool in the Akaroa region, duvaucehelle
+zip=8.30 - 3.30
+Data0=(-43.75038,172.93336)
 [END]
 

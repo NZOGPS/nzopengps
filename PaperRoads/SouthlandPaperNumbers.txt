@@ -97,4 +97,5 @@
 1030000025380	O,33,33	Craig Street	Palmerston (Otago, NZ)	11/01/2012 2:38p.m.	-45.487088,170.719367
 1030000025802	O,53,53	Clayton Street	Kakanui (Otago, NZ)	11/01/2012 3:57p.m.	-45.181570,170.901966
 1030000035162	E,74,80	Moana Street	Aramoana (Otago, NZ)	11/01/2012 4:29p.m.	-45.782869,170.714974
+1030000034686	B,5,12	Edward Street	Abbotsford, Dunedin (Otago, NZ)	11/01/2012 11:18:25 p.m.	-45.896806,170.433030
 	

@@ -42774,9 +42774,9 @@ Data0=(-44.39690,171.25583)
 [POI]
 Type=0x2f
 Label=CENTRAL SOUTHLAND FREIGHT
-StreetDesc=17-25 Moore Rd, Winton/ 
+StreetDesc=35 Winton Lorneville Highway, Winton/ 
 Phone=+6432360999
-Data0=(-46.14740,168.32947)
+Data0=(-46.15717,168.32983)
 [END]
 
 ;1103062
@@ -84703,10 +84703,9 @@ Data0=(-43.39256,170.17866)
 ;1122182
 [POI]
 Type=0x2b01
-Label=GLENFERN VILLAS
-StreetDesc=State Highway 6, Franz Josef/ Motel accommodation
+Label=GLENFERN VILLAS - FRANZ JOSEF ACCOMMODATION
+StreetDesc=State Highway 6, Franz Josef/ accommodation franz josef, glacier accommodation, 
 Phone=+6437520054
-zip=0800 GLENFERN (453 633)
 Data0=(-43.36627,170.19390)
 [END]
 
@@ -87610,9 +87609,9 @@ Data0=(-45.25718,169.39450)
 [POI]
 Type=0x2e09
 Label=4 SEASONS NELSON
-StreetDesc=Cnr Selwyn Place & Rutherford St, Nelson/ barbeques, heating, spa pools, outdoor
-Phone=+6435487700
-Data0=(-41.27543,173.28106)
+StreetDesc=3 Nayland Rd, Stoke, Nelson/ BBQs, barbeques, Home Heating and Fires, Spas and S
+Phone=+6435474732
+Data0=(-41.29962,173.23868)
 [END]
 
 ;1123605
@@ -87967,8 +87966,9 @@ Data0=(-41.76102,171.59971)
 [POI]
 Type=0x2b01
 Label=554 MOANA COURT MOTEL
-StreetDesc=554 Tay St, Hawthorndale, Invercargill 9810, Southland/ Apartment style accommod
+StreetDesc=554 Tay St, Hawthorndale, Invercargill 9810, Southland/ Self-contained tourist, 
 Phone=+6432178443
+zip=7.00am - 10.00pm
 Data0=(-46.40831,168.38336)
 [END]
 
@@ -142191,7 +142191,7 @@ Data0=(-43.66044,172.19215)
 ;1152648
 [POI]
 Type=0x2b01
-Label=PUNGA GROVE
+Label=PUNGA GROVE - WEST COAST ACCOMMODATION
 StreetDesc=40 Cron St, Franz Josef, South Westland/ Motel accommodation. Fully equipped kit
 Phone=+6437520001
 Data0=(-43.38631,170.18345)
@@ -155629,8 +155629,8 @@ Data0=(-42.40139,171.26353)
 ;1160143
 [POI]
 Type=0x2b00
-Label=WESTWOOD LODGE
-StreetDesc=State Highway 6, Franz Josef/ West Coast Bed & Breakfast accommodation
+Label=WESTWOOD LODGE - WEST COAST BED & BREAKFAST
+StreetDesc=State Highway 6, Franz Josef/ accommodation west coast, bed & breakfast franz jo
 Phone=0800200209
 Data0=(-43.37151,170.18334)
 [END]
@@ -186043,10 +186043,10 @@ Data0=(-45.02452,168.74133)
 [POI]
 Type=0x2f03
 Label=RAKAIA SERVICE CENTRE
-StreetDesc=78 Elizabeth Ave Rakaia/ Automotive Repair, Vehicle Servicing, Tyres, Wheel alig
-Phone=+6433027040
+StreetDesc=68 Elizabeth Ave Rakaia/ Automotive Repair, Vehicle Servicing, Tyres, Wheel alig
+Phone=+6433035100
 zip=8am - 5pm Monday to Friday
-Data0=(-43.75622,172.02469)
+Data0=(-43.75628,172.02400)
 [END]
 
 ;1175684
@@ -202792,5 +202792,23 @@ Label=?BANKS PENINSULA PLUNKET PRESCHOOL
 StreetDesc=duvauchelle/ The only preschool in the Akaroa region, duvaucehelle
 zip=8.30 - 3.30
 Data0=(-43.75038,172.93336)
+[END]
+
+;1190918
+[POI]
+Type=0x2f
+Label=GRIMBLE WEBSITE SERVICES
+StreetDesc=46 Mountbatten St New Brighton Chc New Zealand/ Web Design Services - affordable
+Phone=+6433886603
+Data0=(-43.51584,172.73023)
+[END]
+
+;1190923
+[POI]
+Type=0x2b01
+Label=BEACH LODGE MOTELS
+StreetDesc=38 Victoria Rd, St Kilda, Dud/ 
+Phone=+6434555043
+Data0=(-45.90470,170.51539)
 [END]
 

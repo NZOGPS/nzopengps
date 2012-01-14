@@ -436,15 +436,6 @@ Phone=+6433855995
 Data0=(-43.50790,172.66180)
 [END]
 
-;1002513
-[POI]
-Type=0x2a07
-Label=KFC - ALEXANDRA
-StreetDesc=37 Centennial Ave, Alexandra/ Fast food restaurant, chicken, burgers, takeaways
-Phone=+6434486671
-Data0=(-45.25274,169.38997)
-[END]
-
 ;1002520
 [POI]
 Type=0x2a07
@@ -481,15 +472,6 @@ Phone=+6434551316
 Data0=(-45.89848,170.50228)
 [END]
 
-;1002548
-[POI]
-Type=0x2a07
-Label=KFC - GORE
-StreetDesc=10 Main St, Gore/ Fast food restaurant, chicken, burgers, takeaways
-Phone=+6432081520
-Data0=(-46.09912,168.94556)
-[END]
-
 ;1002555
 [POI]
 Type=0x2a07
@@ -515,15 +497,6 @@ Label=KFC - INVERCARGILL SOUTH
 StreetDesc=76 Elles Rd, Invercargill South/ Fast food restaurant, chicken, burgers, takeawa
 Phone=+6432140808
 Data0=(-46.41876,168.36165)
-[END]
-
-;1002576
-[POI]
-Type=0x2a07
-Label=KFC - MOTUEKA
-StreetDesc=276 High St, Motueka/ Fast food restaurant, chicken, burgers, takeaways
-Phone=+6435280352
-Data0=(-41.11495,173.01066)
 [END]
 
 ;1002583
@@ -14851,7 +14824,7 @@ Label=ASB BANK LINCOLN UNIVERSITY BRANCH (B&A)
 StreetDesc=Cnr Ellesmere Junction & Springs Rds, Lincoln, Chc/ Bank branch, ATM
 Phone=+6433487066
 zip=Mon-Fri 9am-4.30pm
-Data0=(-43.64314,172.46886)
+Data0=(-43.63967,172.48428)
 [END]
 
 ;1051471
@@ -28284,12 +28257,12 @@ Data0=(-46.41222,168.34704)
 
 ;1091294
 [POI]
-Type=0x2e02
+Type=0x2e
 Label=QUEENSTOWN NIGHT 'N DAY FOODSTORE 24HR
-StreetDesc=24 Rees St, Queenstown/ Takeaways, Ice Creams, Fish N Chips, Bakery, Deli, Fruit
+StreetDesc=Cnr Church and Camp Streets, Queenstown/ Takeaways, Ice Creams, Fish N Chips, Ba
 Phone=+6434428289
 zip=24 Hours
-Data0=(-45.03228,168.65953)
+Data0=(-45.03228,168.66244)
 [END]
 
 ;1091301
@@ -28409,16 +28382,6 @@ zip=6am - 11pm
 Data0=(-43.54890,172.68244)
 [END]
 
-;1091385
-[POI]
-Type=0x2e02
-Label=VICTORIA NIGHT 'N DAY FOODSTORE 24HR
-StreetDesc=53 Victoria St, Chc/ Takeaways, Ice Creams, Fish N Chips, Bakery, Deli, Fruit & 
-Phone=+6433654620
-zip=24 Hours
-Data0=(-43.52625,172.63286)
-[END]
-
 ;1091406
 [POI]
 Type=0x2e02
@@ -28496,16 +28459,6 @@ StreetDesc=60 Main St,  Blenheim/ Takeaways, Ice Creams, Fish N Chips, Bakery, D
 Phone=+6435772299
 zip=7am - 11pm
 Data0=(-41.51337,173.96619)
-[END]
-
-;1091462
-[POI]
-Type=0x2e02
-Label=KAIKOURA NIGHT 'N DAY FOODSTORE
-StreetDesc=49 Beach Rd,  Kaikoura/ Takeaways, Ice Creams, Fish N Chips, Bakery, Deli, Fruit
-Phone=+6433196160
-zip=7am - 11pm
-Data0=(-42.39525,173.67882)
 [END]
 
 ;1091518
@@ -30559,15 +30512,6 @@ Label=HARCOURTS NEW BRIGHTON
 StreetDesc=95 Seaview Rd, New Brighton, Chc/ Real estate agents
 Phone=+6433820043
 Data0=(-43.50794,172.72726)
-[END]
-
-;1094008
-[POI]
-Type=0x2f
-Label=HARCOURTS ST ALBANS
-StreetDesc=96 Cranford St, St Albans, Chc/ Real estate agents
-Phone=+6433552300
-Data0=(-43.50893,172.63852)
 [END]
 
 ;1094027
@@ -34243,15 +34187,6 @@ Label=THE CRAIC IRISH BAR
 StreetDesc=24 The Octagon, Dud/ Irish bar
 Phone=+6434790781
 Data0=(-45.87470,170.50367)
-[END]
-
-;1096737
-[POI]
-Type=0x2d02
-Label=THE IRISH PUB
-StreetDesc=17A London St, Lyttelton, Chc/ Irish bar, restaurant
-Phone=+6433288085
-Data0=(-43.60284,172.72170)
 [END]
 
 ;1096739
@@ -55324,6 +55259,15 @@ Phone=+6433076162
 Data0=(-43.90732,171.74492)
 [END]
 
+;1110452
+[POI]
+Type=0x2f
+Label=NIGHT 'N' DAY FOODSTORES LTD
+StreetDesc=268 Stuart St, Dud/ Franchise chain of convenience stores
+Phone=+6434772340
+Data0=(-45.87292,170.50000)
+[END]
+
 ;1110454
 [POI]
 Type=0x2f
@@ -62065,10 +62009,10 @@ Data0=(-43.53781,172.60513)
 [POI]
 Type=0x2f
 Label=TAURUS LOGISTICS LTD
-StreetDesc=5 Ivan Jamieson Place, Chc/ 
+StreetDesc=Unit 9, 212 Antigua St, Chc/ International freight forwarder, specialist in ship
 Phone=+6433585154
 zip=Mon-Fri 0830-1700
-Data0=(-43.49544,172.54609)
+Data0=(-43.53810,172.62790)
 [END]
 
 ;1114344
@@ -89034,15 +88978,6 @@ StreetDesc=139 Elgin Rd, Dud/ dairy, convenience store
 Data0=(-45.88827,170.47389)
 [END]
 
-;1128508
-[POI]
-Type=0x2a07
-Label=EMILES LEBANESE FOOD & KEBABS
-StreetDesc=Golden Ctr Mall, 251 George St, Dud/ kebabs, takeaways
-Phone=+6434777210
-Data0=(-45.87071,170.50525)
-[END]
-
 ;1128509
 [POI]
 Type=0x2f
@@ -103735,14 +103670,6 @@ StreetDesc=97 Shakespeare Rd, Chc/ caterers
 Data0=(-43.54648,172.65289)
 [END]
 
-;1132215
-[POI]
-Type=0x2f
-Label=VICTORIA NIGHT'N DAY FOODSTORE
-StreetDesc=53 Victoria St, Chc/ 
-Data0=(-43.52625,172.63286)
-[END]
-
 ;1132216
 [POI]
 Type=0x2f
@@ -111629,8 +111556,10 @@ Data0=(-45.48380,170.71698)
 ;1135465
 [POI]
 Type=0x2e
-Label=MILTON NIGHT N DAY FOODSTORES
-StreetDesc=24 Union St, Milton/ Lotto
+Label=MILTON NIGHT 'N DAY FOODSTORE
+StreetDesc=24 Union St, Milton/ Convenience store, Lotto
+Phone=+6434178769
+zip=5am - 11pm, 7 days
 Data0=(-46.12340,169.95638)
 [END]
 
@@ -131381,9 +131310,11 @@ Data0=(-43.50748,172.72900)
 ;1146656
 [POI]
 Type=0x2f
-Label=CARLA THOMPSON HAIR ART
-StreetDesc=60 North Avon Rd, Chc/ Hairdresser
-Data0=(-43.51773,172.65572)
+Label=CARLA THOMPSON HAIR ART & BEAUTY
+StreetDesc=96 Cranford St, St Albans, Chc/ Hairdresser, beauty salon
+Phone=+6433818939
+zip=Mon-Fri 9am-late, Sat 9am-5pm
+Data0=(-43.50880,172.63848)
 [END]
 
 ;1146657
@@ -134933,14 +134864,6 @@ Label=BALCLUTHA MITSUBISHI
 StreetDesc=79 Clyde St, Balclutha/ Les Bamford Motors. Car dealers, new & used, parts, serv
 Phone=+6434180034
 Data0=(-46.23923,169.73678)
-[END]
-
-;1147153
-[POI]
-Type=0x2a05
-Label=BALCLUTHA NIGHT 'N DAY STORE
-StreetDesc=25 Essex St, Tapanui/ Takeaways, Ice Creams, Fish N Chips, Bakery, Deli, Fruit &
-Data0=(-45.94397,169.25949)
 [END]
 
 ;1147154
@@ -144695,7 +144618,7 @@ Data0=(-45.03340,168.66162)
 ;1153909
 [POI]
 Type=0x2a
-Label=GUILTY BAR
+Label=1876 BAR AND RESTAURANT
 StreetDesc=45 Ballarat St, Queenstown/ Bar, restaurant, private functions
 Phone=+6434092178
 Data0=(-45.03143,168.66249)
@@ -149967,7 +149890,7 @@ Data0=(-42.49825,173.51862)
 ;1157724
 [POI]
 Type=0x2a
-Label=PLAZA INDIA
+Label=CORIANDER'S ETHNIC INDIAN RESTAURANT
 StreetDesc=17 Beach Rd, Kaikoura/ Indian restaurant, BYO, takeaways
 Phone=+6433196844
 Data0=(-42.39805,173.67989)
@@ -202810,5 +202733,59 @@ Label=BEACH LODGE MOTELS
 StreetDesc=38 Victoria Rd, St Kilda, Dud/ 
 Phone=+6434555043
 Data0=(-45.90470,170.51539)
+[END]
+
+;1190948
+[POI]
+Type=0x2f
+Label=PURE HAIR
+StreetDesc=60 North Avon Rd Richmond Chc/ Hairdresser, GHDs, hair care,
+Phone=+6439433480
+zip=Mon tues: 9-5 Wens-fri: 9-8 Sat: 9-4
+Data0=(-43.51767,172.65572)
+[END]
+
+;1190949
+[POI]
+Type=0x2d00
+Label=CHRISTCHURCH SCHOOL OF MARTIAL ARTS (MMA "SAMURAI" DO-JO)
+StreetDesc=40 Broad St, Woolston, Chc, New Zealand/ BJJ (Brazilian Ju-Jutsu), MMA (Mixed Ma
+Phone=+6421153907
+zip=6.00-9.30pm
+Data0=(-43.56000,172.68654)
+[END]
+
+;1191032
+[POI]
+Type=0x2f
+Label=NGA NIHO PA
+StreetDesc=Scarborough St, Kaikoura/ Pa site
+Data0=(-42.41567,173.68830)
+[END]
+
+;1191056
+[POI]
+Type=0x2f
+Label=ONAWE PA
+StreetDesc=Onawe Flat Rd, Duvauchelle/ Pa site
+Data0=(-43.77083,172.92646)
+[END]
+
+;1191070
+[POI]
+Type=0x2f
+Label=ORUAKA PA
+StreetDesc=Bossu Rd, Te Oka/ Pa site
+Data0=(-43.82285,172.71199)
+[END]
+
+;1191248
+[POI]
+Type=0x2e
+Label=SHOTOVER NIGHT 'N DAY FOODSTORE 24HR
+StreetDesc=48 Shotover St, Queenstown 9300/ Convenience store
+Phone=+6434090240
+zip=24hrs
+Data0=(-45.03203,168.65896)
 [END]
 

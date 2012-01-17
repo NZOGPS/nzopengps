@@ -31317,11 +31317,11 @@ Data0=(-43.48100,172.70590)
 ;1094501
 [POI]
 Type=0x2f
-Label=AMI NEW BRIGHTON
-StreetDesc=Carnaby Mall, New Brighton Mall, Chc/ Insurance
+Label=?AMI NEW BRIGHTON
+StreetDesc=Shop 5,Carnaby Mall, New Brighton, Chc 8061/ Insurance
 Phone=+6433718354
-zip=8.30am - 5.00pm Mon-Fri
-Data0=(-43.50713,172.72834)
+zip=Mon - Fri, 8.30am - 5.00pm
+Data0=(-43.50733,172.72933)
 [END]
 
 ;1094502
@@ -32819,36 +32819,38 @@ Data0=(-43.54216,172.52379)
 [POI]
 Type=0x2f
 Label=AMI PAPANUI
-StreetDesc=34 Main North Rd, Papanui/ House, vehicle, car, motorcycle, boat, contents, fire
+StreetDesc=34a Main North Rd, Papanui/ House, vehicle, car, motorcycle, boat, contents, fir
 Phone=+6433718353
+zip=Mon - Fri, 8.30pm - 5.00pm
 Data0=(-43.49534,172.60904)
 [END]
 
 ;1095875
 [POI]
 Type=0x2f
-Label=AMI RICCARTON
-StreetDesc=AMI House, 116 Riccarton Rd, Riccarton/ House, vehicle, car, motorcycle, boat, c
+Label=AMI RICCARTON - TEMPORARILY CLOSED.
+StreetDesc=AMI House, 116 Riccarton Rd, Riccarton/ House, Vehicle, Car, Motorcycle, Boat, C
 Phone=+6433718352
-Data0=(-43.52968,172.59925)
+Data0=(-43.52977,172.59920)
 [END]
 
 ;1095876
 [POI]
 Type=0x2f
 Label=AMI SYDENHAM
-StreetDesc=444 Colombo St, Sydenham/ House, vehicle, car, motorcycle, boat, contents, fire 
+StreetDesc=428 Colombo St, Sydenham/ House, vehicle, car, motorcycle, boat, contents, fire 
 Phone=+6433718357
-Data0=(-43.54346,172.63686)
+zip=Mon - Fri, 8.30pm - 5.00pm
+Data0=(-43.54383,172.63687)
 [END]
 
 ;1095877
 [POI]
 Type=0x2f
 Label=AMI ALEXANDRA
-StreetDesc=50 Centennial Ave, Alexandra/ House, vehicle, car, motorcycle, boat, contents, f
+StreetDesc=50 Centennial Ave, Alexandra 9320/ House, vehicle, car, motorcycle, boat, conten
 Phone=+6434402160
-Data0=(-45.25262,169.38922)
+Data0=(-45.25259,169.38923)
 [END]
 
 ;1095878
@@ -32866,7 +32868,8 @@ Type=0x2f
 Label=AMI BALCLUTHA
 StreetDesc=36 Clyde St, Balclutha/ House, vehicle, car, motorcycle, boat, contents, fire an
 Phone=+6434182795
-Data0=(-46.23766,169.73950)
+zip=Mon - Fri, 8.30am - 5.00pm
+Data0=(-46.23767,169.73956)
 [END]
 
 ;1095880
@@ -32900,9 +32903,9 @@ Data0=(-42.44883,171.20909)
 [POI]
 Type=0x2f
 Label=AMI HOKITIKA
-StreetDesc=60 Tancred St, Hokitika/ House, vehicle, car, motorcycle, boat, contents, fire a
+StreetDesc=47 Revell St, Hokitika/ House, vehicle, car, motorcycle, boat, contents, fire an
 Phone=+6437568244
-Data0=(-42.71697,170.96346)
+Data0=(-42.71811,170.96022)
 [END]
 
 ;1095884
@@ -33017,9 +33020,9 @@ Data0=(-45.87407,170.50269)
 [POI]
 Type=0x2f
 Label=AMI SOUTH DUNEDIN
-StreetDesc=111 Hillside Rd, South Dud/ House, vehicle, car, motorcycle, boat, contents, fir
+StreetDesc=149 King Edward St, South Dud/ House, vehicle, car, motorcycle, boat, contents, 
 Phone=+6434561473
-Data0=(-45.89291,170.49952)
+Data0=(-45.89384,170.49866)
 [END]
 
 ;1095897
@@ -39518,9 +39521,9 @@ Data0=(-43.51790,172.69399)
 [POI]
 Type=0x2f
 Label=AMI INSURANCE LTD
-StreetDesc=6 Show Place, Addington, Chc/ Head office
-Phone=+6433719000
-Data0=(-43.54147,172.60337)
+StreetDesc=6 Show Place, Addington, Chc/ Insurance, Canterbury Earthquake Management Team
+Phone=0800100200
+Data0=(-43.54142,172.60336)
 [END]
 
 ;1101127
@@ -66207,9 +66210,9 @@ Data0=(-42.77535,172.24959)
 ;1116588
 [POI]
 Type=0x2b03
-Label=?LAKE TENNYSON CAMPSITE (DOC)
+Label=LAKE TENNYSON CAMPSITE (DOC)
 StreetDesc=Lake Tennyson Scenic Reserve - South Island > Marlborough > South Marlborough/ D
-Data0=(-42.21126,172.73962)
+Data0=(-42.21143,172.73999)
 [END]
 
 ;1116591
@@ -88568,14 +88571,6 @@ Type=0x2f
 Label=CHRISTOPHER PAUL BAKER
 StreetDesc=22 Thornicroft Rd Waitati/ 
 Data0=(-45.74430,170.59583)
-[END]
-
-;1128458
-[POI]
-Type=0x2f
-Label=CIA COFFEE
-StreetDesc=84 Albany St, Dud/ 
-Data0=(-45.86751,170.51279)
 [END]
 
 ;1128459
@@ -168463,9 +168458,10 @@ Data0=(-43.37602,172.57326)
 ;1167809
 [POI]
 Type=0x2f
-Label=?KIMI HAUORA WAIRAU MARLBOROUGH PHO
-StreetDesc=Cnr Alfred & Market Streets, Blenheim, Marlborough/ 
-Data0=(-41.51280,173.95659)
+Label=KIMI HAUORA WAIRAU MARLBOROUGH PHO
+StreetDesc=Cnr Alfred & Market Streets, Blenheim, Marlborough/ http://www.tokaanuskihire.co
+Phone=+6435781198
+Data0=(-41.51115,173.95720)
 [END]
 
 ;1167814
@@ -175979,10 +175975,10 @@ Data0=(-45.03071,168.66049)
 ;1171545
 [POI]
 Type=0x2c00
-Label=?CLASSIC FIGHTERS MARLBOROUGH
+Label=CLASSIC FIGHTERS MARLBOROUGH
 StreetDesc=Aerodrome Rd, Blenheim/ Tourist attraction & visitor activity
 Phone=+6435788227
-Data0=(-41.52964,173.92664)
+Data0=(-41.53859,173.92817)
 [END]
 
 ;1171547
@@ -182905,10 +182901,10 @@ Data0=(-46.41873,168.34702)
 ;1173787
 [POI]
 Type=0x2c00
-Label=?PRECISION HELICOPTERS LTD - BLENHEIM
+Label=PRECISION HELICOPTERS LTD - BLENHEIM
 StreetDesc=Aviation Heritage Ctr, Omaka. Marlborough/ Scenic flights; joy rides; tours & ge
 Phone=0800246359
-Data0=(-41.53704,173.92768)
+Data0=(-41.53847,173.92821)
 [END]
 
 ;1173788
@@ -194001,11 +193997,11 @@ Data0=(-46.02291,170.09282)
 ;1180172
 [POI]
 Type=0x2f
-Label=WAVETECH LTD
-StreetDesc=4/9 Washington Way, Sydenham, Chc/ We sell car audio. We repair car audio.
+Label=WAVETECH IMPORTS
+StreetDesc=124F Wordsworth St, Sydenham, Chc/ We sell car audio. We repair car audio.
 Phone=+6433742329
 zip=Mon-Fri 8am-5pm
-Data0=(-43.54073,172.64366)
+Data0=(-43.54489,172.64092)
 [END]
 
 ;1180180
@@ -196840,9 +196836,9 @@ Data0=(-41.51226,173.86222)
 ;1181327
 [POI]
 Type=0x2f
-Label=?JIM FRASER CENTRE
+Label=JIM FRASER CENTRE
 StreetDesc=Lansdowne St, Blenheim/ 
-Data0=(-41.50025,173.95622)
+Data0=(-41.50135,173.95847)
 [END]
 
 ;1181328
@@ -197309,9 +197305,9 @@ Data0=(-41.33657,173.18134)
 [POI]
 Type=0x2d02
 Label=ALTITUDE BAR QUEENSTOWN
-StreetDesc=47-49 Shotover St Queenstown 9300/ Nightclub, bar, backpacker accommodation, par
+StreetDesc=47-49 Shotover St Queenstown 9300/ Nightclub, bar, party
 Phone=+34420344
-zip=6pm - late
+zip=4pm - 4am
 Data0=(-45.03193,168.65868)
 [END]
 
@@ -201583,7 +201579,7 @@ Data0=(-45.87285,170.51151)
 [POI]
 Type=0x2f
 Label=C HUGHES AND ASSOCIATES WANAKA
-StreetDesc=80 Ardmore St, Wanaka/ Surveying and Resource Management
+StreetDesc=80 Ardmore St, Wanaka/ Surveyors and Resource Management Consultants
 Phone=+6434435052
 zip=9am-5pm
 Data0=(-44.69383,169.13667)
@@ -201593,7 +201589,7 @@ Data0=(-44.69383,169.13667)
 [POI]
 Type=0x2f
 Label=C HUGHES AND ASSOCIATES CROMWELL
-StreetDesc=17A Murray Terrace, Cromwell/ Surveying and Resource Management
+StreetDesc=17A Murray Terrace, Cromwell/ Surveyors and Resource Management Consultants
 Phone=+6434450376
 zip=9am-5pm
 Data0=(-45.03621,169.19626)
@@ -202787,5 +202783,14 @@ StreetDesc=48 Shotover St, Queenstown 9300/ Convenience store
 Phone=+6434090240
 zip=24hrs
 Data0=(-45.03203,168.65896)
+[END]
+
+;1191254
+[POI]
+Type=0x2f
+Label=SOUTHERN GAS SERVICES LTD.
+StreetDesc=26 Railway Rd, Rolleston/ Industrial & Medical Gas. Cylinder hire and sale.
+Phone=+6433472691
+Data0=(-43.58877,172.37123)
 [END]
 

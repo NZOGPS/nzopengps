@@ -76,28 +76,30 @@
 2744	O,27,27	Inglis Street	Mosgiel (Otago, NZ)	13/12/2011 10:43:54 p.m.	-45.883783,170.342847
 8486	E,2,18	Boston Street	Riversdale (Southland, NZ)	13/12/2011 10:46:49 p.m.	-45.903897,168.750862
 6602	E,1730,1730	Tiwai Road	Tiwai Point (Southland, NZ)	13/12/2011 10:49:24 p.m.	-46.598250,168.362565
-5642	O,21,35	WINTON ST	Winton (Southland, NZ)	15/12/2011 10:51:57 p.m.
-5643	O,11,51	VICTORIA ST	Winton (Southland, NZ)	15/12/2011 10:58:07 p.m.
+5642	O,21,35	Winton St	Winton (Southland, NZ)	15/12/2011 10:51:57 p.m.
+5643	O,11,51	Victoria St	Winton (Southland, NZ)	15/12/2011 10:58:07 p.m.
 7432	E,50,58	Norman Street	Centre Bush (Southland, NZ)	16/12/2011 12:20:34 a.m.	-46.056043,168.334656
-7437	E,66,66	OMER ST	Limehills (Southland, NZ)	17/12/2011 2:56:19 p.m.
-8462	O,3,31	CRESSY ST	Limehills (Southland, NZ)	15/12/2011 8:55:43 p.m.
-6927	O,9,11	B,30,35	MARION ST	Limehills (Southland, NZ)	17/12/2011 3:00:17 p.m.
+7437	E,66,66	Omer St	Limehills (Southland, NZ)	17/12/2011 2:56:19 p.m.
+8462	O,3,31	Cressy St	Limehills (Southland, NZ)	15/12/2011 8:55:43 p.m.
+6927	O,9,11	B,30,35	Marion St	Limehills (Southland, NZ)	17/12/2011 3:00:17 p.m.
 6874	B,21,30	Atlas Street	Limehills (Southland, NZ)	17/12/2011 3:01:50 p.m.	-46.058900,168.329790
-8504	E,20,20	E,54,62	Danube Road	Limehills (Southland, NZ)	17/12/2011 3:09:18 p.m.	-46.060551,168.329974
+8504	E,20,20	E,54,62	Danube Rd	Limehills (Southland, NZ)	17/12/2011 3:09:18 p.m.	-46.060551,168.329974
 6791	O,13,95	Severn Street	Limehills (Southland, NZ)	17/12/2011 3:11:28 p.m.	-46.064624,168.332677
-6909	E,16,30	O,3,3	ALOWAY STREET	Wallacetown (Southland, NZ)	8/01/2012 10:05:39 p.m.	-46.331859,168.283248
-7351	E,124,126	LARGS STREET	Wallacetown (Southland, NZ)	8/01/2012 10:11:06 p.m.	-46.339336,168.289287
-7166	E,8,14	EAST ROAD	Athol (Southland, NZ)	8/01/2012 11:11:47 p.m.	-45.510478,168.585386
-3385	O,7,7	SANDHEAD STREET	Waihola (Otago, NZ)	8/01/2012 11:51:59 p.m.	-46.020580,170.100499
-8291	O,1401,1425	O,875,875	VENLAW ROAD	Oware (Southland, NZ)	9/01/2012 11:11:16 p.m.	-46.291165,169.099797
-6833	E,396,402	CAMPBELL ROAD	Oware (Southland, NZ)	9/01/2012 11:23:06 p.m.	-46.319153,168.964506
-85082	O,31,31	CLOSEBURN RD	Closeburn (Otago, NZ)	11/01/2012 11:32a.m.	S45°03.372' E168°34.666'
+6909	E,16,30	O,3,3	Aloway St	Wallacetown (Southland, NZ)	8/01/2012 10:05:39 p.m.	-46.331859,168.283248
+7351	E,124,126	Largs Street	Wallacetown (Southland, NZ)	8/01/2012 10:11:06 p.m.	-46.339336,168.289287
+7166	E,8,14	East Road	Athol (Southland, NZ)	8/01/2012 11:11:47 p.m.	-45.510478,168.585386
+3385	O,7,7	Sandhead St	Waihola (Otago, NZ)	8/01/2012 11:51:59 p.m.	-46.020580,170.100499
+8291	O,1401,1425	O,875,875	Venlaw Rd	Oware (Southland, NZ)	9/01/2012 11:11:16 p.m.	-46.291165,169.099797
+6833	E,396,402	Campbell Rd	Oware (Southland, NZ)	9/01/2012 11:23:06 p.m.	-46.319153,168.964506
+85082	O,31,31	Closeburn Rd	Closeburn (Otago, NZ)	11/01/2012 11:32a.m.	S45°03.372' E168°34.666'
 569	O,863,863	Whitstone-Five Forks Road	Five Forks (Otago, NZ)	11/01/2012 1:49p.m.	-45.059524,170.786781
 653	O,17,17	Jarrow Street	Maheno (Otago, NZ)	11/01/2012 2:08p.m.	-45.166115,170.840638
 4571	O,33,33	Craig Street	Palmerston (Otago, NZ)	11/01/2012 2:38p.m.	-45.487088,170.719367
 711	O,53,53	Clayton Street	Kakanui (Otago, NZ)	11/01/2012 3:57p.m.	-45.181570,170.901966
 2944	E,74,80	Moana Street	Aramoana (Otago, NZ)	11/01/2012 4:29p.m.	-45.782869,170.714974
-97628	O,1,1	QUARANTINE ISLAND (BEACH)	Aramoana (Otago, NZ)	11/01/2012 10:40:15 p.m.
+97628	O,1,1	Quarantine Island (Beach)	Aramoana (Otago, NZ)	11/01/2012 10:40:15 p.m.
 2634	B,5,12	Edward Street	Abbotsford, Dunedin (Otago, NZ)	11/01/2012 11:18:25 p.m.	-45.896806,170.433030
-
+8543	E,52,52	Kendal St	Otautau (Southland, NZ)	17/01/2012 4:20p.m.
+7693	O,11,11	Devon St	Otautau (Southland, NZ)	17/01/2012 6:34p.m.
+7773	B,80,140	Yellowbluff Rd	Otautau (Southland, NZ)	17/01/2012 6:39p.m.
 

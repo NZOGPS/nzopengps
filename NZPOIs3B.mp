@@ -28258,206 +28258,210 @@ Data0=(-46.41222,168.34704)
 ;1091294
 [POI]
 Type=0x2e
-Label=QUEENSTOWN NIGHT 'N DAY FOODSTORE 24HR
-StreetDesc=Cnr Church and Camp Streets, Queenstown/ Takeaways, Ice Creams, Fish N Chips, Ba
+Label=CHURCH STREET NIGHT 'N DAY FOODSTORE 24HR
+StreetDesc=Cnr Church and Camp Streets, Queenstown 9300/ Convenience store. Takeaways, Ice 
 Phone=+6434428289
-zip=24 Hours
+zip=24hrs
 Data0=(-45.03228,168.66244)
 [END]
 
 ;1091301
 [POI]
-Type=0x2e02
+Type=0x2e
 Label=GEORGE STREET NIGHT 'N DAY FOODSTORE 24HR
-StreetDesc=197 George St, Dud/ Takeaways, Ice Creams, Fish N Chips, Bakery, Deli, Fruit & V
-Phone=+6434470313
-zip=24 Hours
+StreetDesc=197 George St, Dud 9016/ Convenience store. Takeaways, Ice Creams, Fish N Chips,
+Phone=+6434770313
+zip=24hrs
 Data0=(-45.87173,170.50471)
 [END]
 
 ;1091308
 [POI]
-Type=0x2e02
+Type=0x2e
 Label=REGENT NIGHT 'N DAY FOODSTORE 24HR
-StreetDesc=2 Regent Rd, Dud/ Takeaways, Ice Creams, Fish N Chips, Bakery, Deli, Fruit & Veg
-Phone=+6434470610
-zip=24 Hours
+StreetDesc=2 Regent Rd, Dud 9016/ Convenience store. Takeaways, Ice Creams, Fish N Chips, B
+Phone=+6434770610
+zip=24hrs
 Data0=(-45.86228,170.50996)
 [END]
 
 ;1091315
 [POI]
-Type=0x2e02
+Type=0x2e
 Label=MORNINGTON NIGHT 'N DAY FOODSTORE
-StreetDesc=165 Eglinton Rd, Dud/ Takeaways, Ice Creams, Fish N Chips, Bakery, Deli, Fruit &
+StreetDesc=165 Eglinton Rd, Dud 9011/ Convenience store. Takeaways, Ice Creams, Fish N Chip
 Phone=+6434536163
-zip=7am - 11pm
+zip=7am - 11pm, 7 days
 Data0=(-45.88214,170.48313)
 [END]
 
 ;1091322
 [POI]
-Type=0x2e02
+Type=0x2e
 Label=GREEN ISLAND NIGHT 'N DAY FOODSTORE
-StreetDesc=194 b  Main South Rd, Green Island, Dud/ Takeaways, Ice Creams, Fish N Chips, Ba
+StreetDesc=194B Main South Rd, Green Island, Dud 9018/ Convenience store. Takeaways, Ice Cr
 Phone=+6434882685
-Data0=(-45.90176,170.43216)
+zip=6am - 11pm, 7 days
+Data0=(-45.90173,170.43186)
 [END]
 
 ;1091329
 [POI]
-Type=0x2e02
-Label=BALCLUTHA NIGHT 'N DAY FOODSTORES
-StreetDesc=25 Essex St, Balclutha/ Takeaways, Ice Creams, Fish N Chips, Bakery, Deli, Fruit
+Type=0x2e
+Label=BALCLUTHA NIGHT 'N DAY FOODSTORE
+StreetDesc=25 Essex St, Balclutha 9230/ Convenience store. Takeaways, Ice Creams, Fish N Ch
 Phone=+6434182157
-zip=7am - 11pm
+zip=7am - 11pm, 7 days
 Data0=(-46.23147,169.75049)
 [END]
 
 ;1091336
 [POI]
-Type=0x2e02
+Type=0x2e
 Label=ALEXANDRA NIGHT 'N DAY FOODSTORE
-StreetDesc=120 Centennial Ave, Alexandra/ Takeaways, Ice Creams, Fish N Chips, Bakery, Deli
+StreetDesc=120 Centennial Ave, Alexandra 9320/ Convenience store. Takeaways, Ice Creams, Fi
 Phone=+6434402345
-zip=7am - 11pm
+zip=7am - 11pm, 7 days
 Data0=(-45.24817,169.38439)
 [END]
 
 ;1091343
 [POI]
-Type=0x2e02
+Type=0x2e
 Label=ARROWTOWN NIGHT 'N DAY FOODSTORE
-StreetDesc=39 Buckingham St, Arrowtown/ Takeaways, Ice Creams, Fish N Chips, Bakery, Deli, 
+StreetDesc=39 Buckingham St, Arrowtown 9302/ Convenience store. Takeaways, Ice Creams, Fish
 Phone=+6434421866
+zip=7am - 11pm, 7 days
 Data0=(-44.93847,168.83250)
 [END]
 
 ;1091350
 [POI]
-Type=0x2e02
+Type=0x2e
 Label=WINTON NIGHT 'N DAY FOODSTORE
-StreetDesc=346 Great North Rd, Winton/ Takeaways, Ice Creams, Fish N Chips, Bakery, Deli, F
+StreetDesc=346 Great North Rd, Winton 9720/ Convenience store. Takeaways, Ice Creams, Fish 
 Phone=+6432366111
-zip=5am - 11pm
+zip=7am - 11pm, 7 days
 Data0=(-46.13762,168.32651)
 [END]
 
 ;1091357
 [POI]
-Type=0x2e02
+Type=0x2e
 Label=ELLES ROAD NIGHT 'N DAY FOODSTORE 24HR
-StreetDesc=235 Elles Rd, Invercargill/ Takeaways, Ice Creams, Fish N Chips, Bakery, Deli, F
+StreetDesc=235 Elles Rd, Invercargill 9812/ Convenience store. Takeaways, Ice Creams, Fish 
 Phone=+6432188395
-zip=24 Hours
+zip=24hrs
 Data0=(-46.42664,168.36126)
 [END]
 
 ;1091364
 [POI]
-Type=0x2e02
+Type=0x2e
 Label=ESK NIGHT 'N DAY FOODSTORE 24HR
-StreetDesc=Cnr Esk and Dee St, Invercargill/ Takeaways, Ice Creams, Fish N Chips, Bakery, D
+StreetDesc=Cnr Esk and Dee Streets, Invercargill 9810/ Convenience store. Takeaways, Ice Cr
 Phone=+6432188708
-zip=24 Hours
+zip=24hrs
 Data0=(-46.41202,168.34769)
 [END]
 
 ;1091371
 [POI]
-Type=0x2e02
-Label=DEE NIGHT 'N DAY FOODSTORE
-StreetDesc=452 Dee St, Invercargill/ Takeaways, Ice Creams, Fish N Chips, Bakery, Deli, Fru
+Type=0x2e
+Label=DEE NIGHT 'N DAY FOODSTORE 24HR
+StreetDesc=452 Dee St, Invercargill 9810/ Convenience store. Takeaways, Ice Creams, Fish N 
 Phone=+6432186311
+zip=24hrs
 Data0=(-46.39341,168.34702)
 [END]
 
 ;1091378
 [POI]
-Type=0x2e02
-Label=WOOLSTON NIGHT 'N DAY FOODSTORE
-StreetDesc=679 Ferry Rd, Chc/ Takeaways, Ice Creams, Fish N Chips, Bakery, Deli, Fruit & Ve
+Type=0x2e
+Label=WOOLSTON NIGHT 'N DAY FOODSTORE 24HR
+StreetDesc=679 Ferry Rd, Chc 8023/ Convenience store. Takeaways, Ice Creams, Fish N Chips, 
 Phone=+6433840340
-zip=6am - 11pm
+zip=24hrs
 Data0=(-43.54890,172.68244)
 [END]
 
 ;1091406
 [POI]
-Type=0x2e02
+Type=0x2e
 Label=HAGLEY NIGHT 'N DAY FOODSTORE 24HR
-StreetDesc=11 Riccarton Rd, Chc/ Takeaways, Ice Creams, Fish N Chips, Bakery, Deli, Fruit &
+StreetDesc=11 Riccarton Rd, Chc 8011/ Convenience store. Takeaways, Ice Creams, Fish N Chip
 Phone=+6433487673
-zip=24 Hours
+zip=24hrs
 Data0=(-43.52902,172.61121)
 [END]
 
 ;1091413
 [POI]
-Type=0x2e02
+Type=0x2e
 Label=SUMNER NIGHT 'N DAY FOODSTORE
-StreetDesc=21 Marriner St, Sumner, Chc/ Takeaways, Ice Creams, Fish N Chips, Bakery, Deli, 
+StreetDesc=21 Marriner St, Sumner, Chc 8081/ Convenience store. Takeaways, Ice Creams, Fish
 Phone=+6433265155
-zip=7am - 11pm
+zip=7am - 11pm, 7 days
 Data0=(-43.56808,172.75886)
 [END]
 
 ;1091420
 [POI]
-Type=0x2e02
+Type=0x2e
 Label=TEMUKA NIGHT 'N DAY FOODSTORE
-StreetDesc=217 King St, Temuka/ Takeaways, Ice Creams, Fish N Chips, Bakery, Deli, Fruit & 
+StreetDesc=217 King St, Temuka 7920/ Convenience store. Takeaways, Ice Creams, Fish N Chips
 Phone=+6436150100
-zip=5am - 11pm
+zip=7am - 11pm, 7 days
 Data0=(-44.23788,171.27585)
 [END]
 
 ;1091427
 [POI]
-Type=0x2e02
+Type=0x2e
 Label=WASHDYKE NIGHT 'N DAY FOODSTORE
-StreetDesc=186 Hilton Highway, Washdyke, Timaru/ Takeaways, Ice Creams, Fish N Chips, Baker
+StreetDesc=198 Hilton Highway, Timaru 7910/ Convenience store. Takeaways, Ice Creams, Fish 
 Phone=+6436839393
-Data0=(-44.35649,171.23804)
+zip=Mon- Sat 5.30am- 11pm, Sun 7am-11pm
+Data0=(-44.35554,171.23793)
 [END]
 
 ;1091434
 [POI]
-Type=0x2e02
+Type=0x2e
 Label=PARK NIGHT 'N DAY FOODSTORE
-StreetDesc=24A King St, Timaru/ Takeaways, Ice Creams, Fish N Chips, Bakery, Deli, Fruit & 
+StreetDesc=24A King St, Timaru 7910/ Convenience store. Takeaways, Ice Creams, Fish N Chips
 Phone=+6436844421
-zip=6am - 11pm
+zip=7am - 11pm, 7 days
 Data0=(-44.40810,171.25172)
 [END]
 
 ;1091441
 [POI]
-Type=0x2e02
+Type=0x2e
 Label=RICHMOND NIGHT 'N DAY FOODSTORE
-StreetDesc=205A Queen St, Richmond/ Takeaways, Ice Creams, Fish N Chips, Bakery, Deli, Frui
-Phone=+6435439953
-zip=7am - 11pm
+StreetDesc=205A Queen St, Richmond, Nelson/ Convenience store. Takeaways, Ice Creams, Fish 
+Phone=+6434539953
+zip=7am - 11pm, 7 days
 Data0=(-41.34033,173.18550)
 [END]
 
 ;1091448
 [POI]
-Type=0x2e02
+Type=0x2e
 Label=STOKE NIGHT 'N DAY FOODSTORE
-StreetDesc=504 Main Rd, Stoke, Nelson/ Takeaways, Ice Creams, Fish N Chips, Bakery, Deli, F
+StreetDesc=504 Main Rd, Stoke, Nelson 7011/ Convenience store. Takeaways, Ice Creams, Fish 
 Phone=+6435477878
-zip=7 days 7am - 11pm
+zip=7am - 11pm, 7 days
 Data0=(-41.31233,173.23435)
 [END]
 
 ;1091455
 [POI]
-Type=0x2e02
+Type=0x2e
 Label=BLENHEIM NIGHT 'N DAY FOODSTORE
-StreetDesc=60 Main St,  Blenheim/ Takeaways, Ice Creams, Fish N Chips, Bakery, Deli, Fruit 
+StreetDesc=60 Main St, Blenheim 7201/ Convenience store. Takeaways, Ice Creams, Fish N Chip
 Phone=+6435772299
-zip=7am - 11pm
+zip=7am - 11pm, 7 days
 Data0=(-41.51337,173.96619)
 [END]
 
@@ -33298,9 +33302,9 @@ Data0=(-43.54516,172.63078)
 [POI]
 Type=0x2e
 Label=NUPLEX CHRISTCHURCH
-StreetDesc=55 Montreal St, Chc/ Fibreglass, Epoxy, Resin, Construction
+StreetDesc=112 Carlyle St, Chc/ Fibreglass, Epoxy, Resin, Construction
 Phone=+6433666802
-Data0=(-43.54481,172.63045)
+Data0=(-43.54167,172.63970)
 [END]
 
 ;1096184
@@ -95665,7 +95669,7 @@ Data0=(-43.47795,172.61706)
 
 ;1131144
 [POI]
-Type=0x2f
+Type=0x2e
 Label=CUTTS MINI MART
 StreetDesc=1 Cutts Rd, Avonhead, Chc/ Food, Milk, Dairy, Bread
 Phone=+6433427001
@@ -108810,9 +108814,10 @@ Data0=(-46.40929,168.34543)
 ;1134646
 [POI]
 Type=0x2e
-Label=TAY NIGHT N DAY FOODSTORES
-StreetDesc=351 Tay St, Invercargill/ dairy
+Label=TAY NIGHT 'N DAY FOODSTORE 24HR
+StreetDesc=351 Tay St, Invercargill 9810/ Convenience store
 Phone=+6432176165
+zip=24hrs
 Data0=(-46.41163,168.37095)
 [END]
 
@@ -111552,10 +111557,10 @@ Data0=(-45.48380,170.71698)
 [POI]
 Type=0x2e
 Label=MILTON NIGHT 'N DAY FOODSTORE
-StreetDesc=24 Union St, Milton/ Convenience store, Lotto
+StreetDesc=24 Union St, Milton 9220/ Convenience store, Lotto
 Phone=+6434178769
 zip=5am - 11pm, 7 days
-Data0=(-46.12340,169.95638)
+Data0=(-46.12326,169.95631)
 [END]
 
 ;1135470
@@ -116109,10 +116114,11 @@ Data0=(-45.90199,170.43049)
 
 ;1138202
 [POI]
-Type=0x2a05
-Label=OCTAGON NIGHT N DAY
-StreetDesc=18 Princes St, Dud/ Takeaways, Ice Creams, Fish N Chips, Bakery, Deli, Fruit & V
+Type=0x2e
+Label=OCTAGON NIGHT 'N DAY FOODSTORE 24HR
+StreetDesc=18 Princes St, Dud 9016/ Convenience store. Takeaways, Ice Creams, Fish N Chips,
 Phone=+6434772424
+zip=24hrs
 Data0=(-45.87471,170.50305)
 [END]
 
@@ -129038,10 +129044,10 @@ Data0=(-41.62956,171.85408)
 ;1142446
 [POI]
 Type=0x2f15
-Label=PAYPHONE
+Label=?PAYPHONE
 StreetDesc=SHW 6 O/S Inangahua Camp Westport/ Telecom, payphone, public phone box
 Phone=+6437890204
-Data0=(-41.85804,171.95233)
+Data0=(-41.85706,171.95216)
 [END]
 
 ;1142448
@@ -182604,9 +182610,9 @@ Data0=(-43.52109,172.63459)
 
 ;1173719
 [POI]
-Type=0x2f
+Type=0x2e0b
 Label=OLIFF'S COMPUTER CENTRE
-StreetDesc=6 Straven Rd, Riccarton/ Computer parts, servicing
+StreetDesc=6 Straven Rd, Riccarton/ Custom computers, Computer parts, servicing
 Phone=+6433434865
 Data0=(-43.52924,172.60221)
 [END]
@@ -185534,9 +185540,10 @@ Data0=(-43.46404,170.01892)
 [POI]
 Type=0x2b01
 Label=BELLA VISTA MOTEL MOSGIEL
-StreetDesc=85 Gordon Rd, Mosgiel/ Motel accommodation
+StreetDesc=85 Gordon Rd, Mosgiel, Dud 9024/ Cosy 4 star Mosgiel Motel. In a peaceful rural 
 Phone=+6434847258
-Data0=(-45.87770,170.34999)
+zip=7.30am - 9.30pm 7 days
+Data0=(-45.87782,170.35014)
 [END]
 
 ;1174768
@@ -202792,5 +202799,43 @@ Label=SOUTHERN GAS SERVICES LTD.
 StreetDesc=26 Railway Rd, Rolleston/ Industrial & Medical Gas. Cylinder hire and sale.
 Phone=+6433472691
 Data0=(-43.58877,172.37123)
+[END]
+
+;1191270
+[POI]
+Type=0x2e
+Label=WILLEMS TOY EMPIRE LTD
+StreetDesc=43 Clyde St Kinmont Park Mosgiel 9024 New Zealand/ Mosgiel, Dunedin toy retailer
+Phone=+6434898162
+zip=9:00am – 6:00pm, Monday – Friday or by a
+Data0=(-45.89393,170.35065)
+[END]
+
+;1191274
+[POI]
+Type=0x2f
+Label=LAYBURN HODGINS SOLICITORS
+StreetDesc=L 1, 47 Montreal St, Chc/ Lawyer Christchurch, Solicitors, Lawyers, Barrister, B
+Phone=+6433662332
+zip=Mon- Fri 8:30 am to 5 pm
+Data0=(-43.54540,172.63023)
+[END]
+
+;1191276
+[POI]
+Type=0x2a
+Label=FLAME BAR & GRILL LTD
+StreetDesc=61 Beach St Queenstown 9300/ Restaurant, Finest Steak Restaurant in Queenstown
+Phone=+6434092342
+Data0=(-45.03247,168.65864)
+[END]
+
+;1191282
+[POI]
+Type=0x2a
+Label=GORILLA
+StreetDesc=2 Waterman Place, Ferrymead, Chc/ Restaurant
+Phone=+6433843186
+Data0=(-43.55604,172.69802)
 [END]
 

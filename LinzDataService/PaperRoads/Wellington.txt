@@ -41,8 +41,6 @@
 27245	RARURARU ST	Awahuri (Manawatu-Wanganui, NZ)
 27259	TAPA ST		Awahuri (Manawatu-Wanganui, NZ)
 27296	SCHULTZ ST	Awahuri (Manawatu-Wanganui, NZ)
-
-
 30564	OLIVE ST	Glen Oroua (Manawatu-Wanganui, NZ)
 29632	HILLSIDE RD	Upper Hutt				Wellington
 22064	GILBY GRV	Titahi Bay				Wellington
@@ -141,3 +139,5 @@ NO SUFI		LADDER FERN	KELVIN GROVE (MANAWATU-WANGANUI)
 27221	WEST SQ		Tangimoana (Manawatu-Wanganui, NZ)
 27458	WAIHORO RD	Pongaroa (Manawatu-Wanganui, NZ)
 27468	MANGAHUIA RD	Akitio (Manawatu-Wanganui, NZ)
+30943	FABIANS RD	Mauriceville (Wellington, NZ)
+25153	RUARIKI RD	Bideford (Wellington, NZ)

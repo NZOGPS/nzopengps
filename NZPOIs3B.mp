@@ -27674,7 +27674,7 @@ Type=0x2b04
 Label=TERRACE DOWNS HIGH COUNTRY RESORT & GOLF CLUB
 StreetDesc=Coleridge Rd, Rakaia Gorge, Darfield/ golf course
 Phone=+6433186943
-Data0=(-43.48575,171.65606)
+Data0=(-43.49920,171.64975)
 [END]
 
 ;1089495
@@ -29043,7 +29043,7 @@ Data0=(-45.03675,169.19797)
 [POI]
 Type=0x2a
 Label=THE LAZY DOG
-StreetDesc=Gladsmuir Rd, Queensberry/ restaurant / cellar door
+StreetDesc=2 Gladsmuir Rd, Queensberry/ restaurant / cellar door
 Phone=+6434453211
 Data0=(-44.84074,169.32922)
 [END]
@@ -30779,7 +30779,7 @@ Data0=(-43.49799,172.57214)
 ;1094280
 [POI]
 Type=0x2a07
-Label=MCGREGOR'S ON REECE
+Label=MCGREGOR'S BAKERY
 StreetDesc=54 Reece Cres, Wanaka/ fish & chips, takeaways
 Phone=+6434435200
 Data0=(-44.69139,169.14284)
@@ -35247,15 +35247,6 @@ zip=7 days 10am-late
 Data0=(-43.53316,172.62684)
 [END]
 
-;1098443
-[POI]
-Type=0x2a
-Label=LIQUIDITY DINING & LOUNGE
-StreetDesc=128 Oxford Tce, Chc/ Restaurant & Bar. XO Lounge private functions
-Phone=+6433656088
-Data0=(-43.53264,172.63406)
-[END]
-
 ;1098444
 [POI]
 Type=0x2a
@@ -35303,16 +35294,6 @@ StreetDesc=111 Riccarton Rd, Riccarton, Chc/ Thai restaurant, Fully licensed & B
 Phone=+6439636603
 zip=Lunch 11.30am-2.30pm. Dinner 5pm-10pm
 Data0=(-43.52978,172.60004)
-[END]
-
-;1098454
-[POI]
-Type=0x2a
-Label=SIGN OF THE TAKAHE
-StreetDesc=200 Hackthorne Rd, Chc/ Licensed restaurant, bar & cafe. Devonshire teas. Functi
-Phone=+6433324052
-zip=7 days 10am-4pm, 6pm-late
-Data0=(-43.58172,172.63550)
 [END]
 
 ;1098463
@@ -36783,9 +36764,9 @@ Data0=(-45.24455,169.39461)
 [POI]
 Type=0x4c
 Label=DEPARTMENT OF CONSERVATION, CHRISTCHURCH VISITOR CENTRE
-StreetDesc=38 Orchard Rd, Chc/ DOC visitor information, Mahaanui (North Canterbury) Area Of
-Phone=+6433713706
-Data0=(-43.48801,172.54722)
+StreetDesc=31 Nga Mahi Rd, Sockburn, Chc/ DOC visitor information, Mahaanui (North Canterbu
+Phone=+6433419113
+Data0=(-43.54045,172.55611)
 [END]
 
 ;1099051
@@ -73074,7 +73055,7 @@ Data0=(-45.61867,170.66420)
 [POI]
 Type=0x2a0a
 Label=ZEST PIZZA, RESTAURANT AND BAR
-StreetDesc=4A Elizabeth St/ cafe, restaurant, coffee, takeaways
+StreetDesc=4 A Elizabeth Place, Timaru/ cafe, restaurant, coffee, takeaways
 Phone=+6436888313
 Data0=(-44.39490,171.24915)
 [END]
@@ -73462,15 +73443,6 @@ StreetDesc=47 Riccarton Rd, Riccarton/ cafe
 Phone=+6433430048
 zip=Mon-Fri 0730-1530, Sat-Sun 0830-1430
 Data0=(-43.52932,172.60740)
-[END]
-
-;1118389
-[POI]
-Type=0x2a
-Label=PIRANHA BAR & CAFE
-StreetDesc=35 Riccarton Rd, Riccarton/ bar, restaurant, cafe
-Phone=+6433434088
-Data0=(-43.52924,172.60840)
 [END]
 
 ;1118390
@@ -74266,7 +74238,7 @@ Data0=(-43.60416,172.72231)
 ;1118723
 [POI]
 Type=0x2a
-Label=SHE CAFE & RESTAURANT
+Label=SHE CHOCOLAT
 StreetDesc=79 Main Rd, Governors Bay, Lyttelton/ Cafe & Restaurant, private functions & wed
 Phone=+6433299825
 Data0=(-43.62386,172.64857)
@@ -75613,9 +75585,9 @@ Data0=(-41.25292,173.09549)
 [POI]
 Type=0x2a
 Label=THE BOATSHED CAFE RESTAURANT
-StreetDesc=351 Wakefield Qy, Britannia Heights, Nelson/ Cafe & Restaurant
+StreetDesc=350 Wakefield Qy, Britannia Heights, Nelson/ Cafe & Restaurant
 Phone=+6435469783
-Data0=(-41.26700,173.26569)
+Data0=(-41.26635,173.26571)
 [END]
 
 ;1119586
@@ -76333,23 +76305,13 @@ Phone=+6435458555
 Data0=(-41.27451,173.28449)
 [END]
 
-;1119674
-[POI]
-Type=0x2a
-Label=HOUSE OF ALES
-StreetDesc=296 Trafalgar St, Nelson/ Bar & restaurant
-Phone=+6435484220
-zip=Tue-Thu 10am-late. Fri-Sat 9.30am-late
-Data0=(-41.27505,173.28361)
-[END]
-
 ;1119675
 [POI]
 Type=0x2a
 Label=HARRY'S BAR
-StreetDesc=306 Hardy St, Nelson/ Bar & restaurant
+StreetDesc=296 Trafalgar St, Nelson/ Bar & restaurant
 Phone=+6435390905
-Data0=(-41.27455,173.28751)
+Data0=(-41.27503,173.28357)
 [END]
 
 ;1119676
@@ -76902,15 +76864,6 @@ Phone=+6433388715
 Data0=(-43.55387,172.59463)
 [END]
 
-;1119762
-[POI]
-Type=0x2a
-Label=CHRISTCHURCH WORKING MEN'S CLUB
-StreetDesc=202 Oxford Terrace, Chc/ Working Mens Club Hotel Bar Restaurant TAB Self-Service
-Phone=+6433660289
-Data0=(-43.52926,172.63518)
-[END]
-
 ;1119771
 [POI]
 Type=0x2f
@@ -77120,7 +77073,7 @@ Data0=(-45.81619,170.62126)
 ;1119802
 [POI]
 Type=0x2d02
-Label=CHAMPIONS OF OTAGO
+Label=THE FEVER CLUB
 StreetDesc=140 George St, Dud/ Sports Bar TAB Self-Service Outlet
 Phone=+6434775101
 Data0=(-45.87235,170.50491)
@@ -91015,15 +90968,6 @@ StreetDesc=25 Great King St, Dud/
 Data0=(-45.87293,170.50621)
 [END]
 
-;1128769
-[POI]
-Type=0x2a
-Label=TABLE SEVEN RESTAURANT & COCKTAIL BAR
-StreetDesc=44 Hanover St, Dud/ restaurant, bar
-Phone=+6434776877
-Data0=(-45.86976,170.50654)
-[END]
-
 ;1128770
 [POI]
 Type=0x2f
@@ -93086,7 +93030,7 @@ Data0=(-44.39013,171.22730)
 [POI]
 Type=0x2e
 Label=HENRY'S RANGIORA
-StreetDesc=18 Southbrook Rd, Rangiora/ Beer, Wine, Spirits
+StreetDesc=16 Southbrook Rd, Rangiora/ Beer, Wine, Spirits
 Phone=+6433136684
 Data0=(-43.32369,172.59867)
 [END]
@@ -107905,10 +107849,10 @@ Data0=(-46.41938,168.35042)
 ;1134539
 [POI]
 Type=0x2f
-Label=MACDONALD & WESTON
-StreetDesc=175 Spey St, Invercargill/ Funeral Directors
+Label=MACDONALD & WESTON FUNERAL HOME
+StreetDesc=131 Yarrow St, Invercargill/ Funeral Directors
 Phone=+6432182156
-Data0=(-46.40982,168.35427)
+Data0=(-46.40870,168.35638)
 [END]
 
 ;1134540
@@ -108891,15 +108835,6 @@ StreetDesc=H&J Smith, 66 Tay St, Invercargill/ Cafe, restaurant
 Data0=(-46.41272,168.35087)
 [END]
 
-;1134655
-[POI]
-Type=0x2a
-Label=THE FAT INDIAN CURRYHOUSE
-StreetDesc=38-40 Dee St, Invercargill/ restaurant
-Phone=+6432189933
-Data0=(-46.41134,168.34704)
-[END]
-
 ;1134656
 [POI]
 Type=0x2a07
@@ -109044,9 +108979,9 @@ Data0=(-46.41147,168.34701)
 [POI]
 Type=0x2a07
 Label=TURKISH KEBAB'S
-StreetDesc=31-35 Esk St, Invercargill/ Takeaways
+StreetDesc=29 Esk St, Invercargill/ Takeaways
 Phone=+6432183399
-Data0=(-46.41197,168.34806)
+Data0=(-46.41197,168.34772)
 [END]
 
 ;1134673
@@ -112505,7 +112440,7 @@ Data0=(-43.30472,172.58397)
 ;1137645
 [POI]
 Type=0x2d02
-Label=PUB ALE HOUSE
+Label=CROMWELL BREWHOUSE
 StreetDesc=71 The Mall, Cromwell/ Bar, TAB outlet
 Phone=+6434450725
 Data0=(-45.03674,169.19776)
@@ -120532,7 +120467,7 @@ Data0=(-41.76000,171.64592)
 [POI]
 Type=0x2d02
 Label=PINES TAVERN
-StreetDesc=Fairdown, Westport/ Bar, Restaurant
+StreetDesc=RD 1 Fairdown, Westport/ Bar, Restaurant
 Phone=+6437899872
 Data0=(-41.73918,171.70559)
 [END]
@@ -133868,16 +133803,6 @@ StreetDesc=1 Trafalgar St, Chc/ Hairdresser
 Data0=(-43.51325,172.63611)
 [END]
 
-;1147008
-[POI]
-Type=0x2a07
-Label=SPUDBAR PALMS
-StreetDesc=Food court, The Palms Mall, Corner Marshland & New Brighton Roads, Chc/ Healthy,
-Phone=+6437411323
-zip=Sat-Wed 11am-6pm, Thu-Fri 11am-9pm
-Data0=(-43.50657,172.66299)
-[END]
-
 ;1147009
 [POI]
 Type=0x2f
@@ -141085,9 +141010,9 @@ Data0=(-43.63260,171.64747)
 [POI]
 Type=0x2d02
 Label=?BUCK'S HEAD TAVERN
-StreetDesc=18 Taylor St, Taylorville,West Coast/ Bar,
+StreetDesc=18 Taylor St, Taylorville/ Bar, restaurant
 Phone=+6437625890
-Data0=(-42.43974,171.31601)
+Data0=(-42.44207,171.31518)
 [END]
 
 ;1151761
@@ -141446,7 +141371,7 @@ Data0=(-43.50796,172.72048)
 ;1151898
 [POI]
 Type=0x2d02
-Label=NEW EAGLE HOTEL
+Label=EAGLE HOTEL
 StreetDesc=134 Gore St, Bluff/ 
 Phone=+6432128134
 Data0=(-46.59910,168.34194)
@@ -141520,7 +141445,7 @@ Data0=(-41.29146,174.00808)
 [POI]
 Type=0x2d02
 Label=PREBBLETON HOTEL
-StreetDesc=Springs Rd, Prebbleton, Canterbury/ 
+StreetDesc=585 Springs Rd, Prebbleton, Canterbury/ 
 Phone=+33496031
 Data0=(-43.58107,172.51237)
 [END]
@@ -141779,6 +141704,15 @@ Type=0x2d02
 Label=WAIMATE HOTEL
 StreetDesc=113 Queen St, Waimate, South Canterbury/ 
 Data0=(-44.73436,171.04607)
+[END]
+
+;1152080
+[POI]
+Type=0x2d02
+Label=WAIMATE HOTEL MANAIA
+StreetDesc=49 Main South Rd, Manaia/ 
+Phone=+6462748341
+Data0=(-43.69678,172.09943)
 [END]
 
 ;1152081
@@ -142063,6 +141997,16 @@ StreetDesc=Hangar 1, 82 Airport Ave, Invercargill/ Browse for your team, club or
 Data0=(-46.41514,168.32468)
 [END]
 
+;1152604
+[POI]
+Type=0x2f
+Label=META SOLUTIONS
+StreetDesc=93 Main South Rd, Chc/ Website Design & Development, Web Promotion & Online Mark
+Phone=+6439633739
+zip=9:00 - 5:30 weekdays
+Data0=(-43.53589,172.56060)
+[END]
+
 ;1152606
 [POI]
 Type=0x2f
@@ -142127,15 +142071,6 @@ Type=0x2e07
 Label=KRANK DIRTWEAR
 StreetDesc=Connical Hill Rd, Hanmer Springs/ Bike Clothing
 Data0=(-42.52076,172.82930)
-[END]
-
-;1152704
-[POI]
-Type=0x2a07
-Label=SPUDBAR NORTHLANDS
-StreetDesc=Food Court Shop 13, Northlands Shopping Mall, 55 Main North Rd, Papanui, Chc/ He
-Phone=+6437411422
-Data0=(-43.49350,172.60895)
 [END]
 
 ;1152746
@@ -149879,15 +149814,6 @@ StreetDesc=183 Beach Rd, Kaikoura/ dairy, superette, groceries
 Data0=(-42.38233,173.67983)
 [END]
 
-;1157723
-[POI]
-Type=0x2a
-Label=OCEANVIEW RESTAURANT
-StreetDesc=State Highway 1, Oaro, Kaikoura/ restaurant
-Phone=+6433195450
-Data0=(-42.49825,173.51862)
-[END]
-
 ;1157724
 [POI]
 Type=0x2a
@@ -155888,9 +155814,9 @@ Data0=(-43.54956,172.68313)
 [POI]
 Type=0x2a
 Label=THREESIXTY RESTAURANT & BAR
-StreetDesc=Corner of Beach & Lake Streets, Queenstown/ Restaurant, bar
+StreetDesc=93 Beach St, Queenstown/ Restaurant, bar
 Phone=+6434425360
-Data0=(-45.03391,168.65574)
+Data0=(-45.03326,168.65698)
 [END]
 
 ;1160349
@@ -167030,9 +166956,10 @@ Data0=(-41.51728,173.95769)
 ;1167045
 [POI]
 Type=0x2f
-Label=FRANKTON DENTAL SURGERY
-StreetDesc=16 McBride St, Queenstown/ Dentist
-Data0=(-45.89396,170.50215)
+Label=FRANKTON DENTAL CENTRE
+StreetDesc=16 McBride St, Frankton, Queenstown/ Dentist, oral surgery
+Phone=+6434422711
+Data0=(-45.01687,168.73098)
 [END]
 
 ;1167049
@@ -174064,15 +173991,6 @@ Phone=+6433372233
 Data0=(-43.55667,172.63667)
 [END]
 
-;1170863
-[POI]
-Type=0x2a
-Label=THE BANGALORE POLO CLUB
-StreetDesc=136 Oxford Tce, Chc/ Bar, Cafe, Restaurant, Lounge
-Phone=+6433779968
-Data0=(-43.53238,172.63406)
-[END]
-
 ;1170864
 [POI]
 Type=0x2d02
@@ -174692,7 +174610,7 @@ Data0=(-41.49447,173.82138)
 ;1171158
 [POI]
 Type=0x2a
-Label=DODSON STREET BISTRO AND ALE HOUSE
+Label=YE OLDE MALTHOUSE
 StreetDesc=1 Dodson St, Blenheim/ Bar, restaurant, pizza
 Phone=+6435778348
 zip=Monday closed, Tue-Fri 11am-late, Sat-Su
@@ -177841,10 +177759,10 @@ Data0=(-40.76543,172.56317)
 [POI]
 Type=0x2a
 Label=THE SPRIG AND FERN TAVERN
-StreetDesc=108 Queen St, Richmond, Nelson/ Bar, restaurant
+StreetDesc=126 Queen St, Richmond, Nelson/ Bar, restaurant
 Phone=+6435444900
 zip=7 days
-Data0=(-41.34755,173.19409)
+Data0=(-41.34626,173.19274)
 [END]
 
 ;1172349
@@ -181331,15 +181249,6 @@ StreetDesc=24 Scott St, Blenheim/ Cafe, Wine Bar
 Phone=+6435793242
 zip=Sun-Mon 9am-9pm Tue-Sat 9am-late
 Data0=(-41.51502,173.95662)
-[END]
-
-;1173269
-[POI]
-Type=0x2a02
-Label=CHUNG WAH PALACE
-StreetDesc=14 Scott St, Blenheim/ Chinese Restaurant, Takeaways
-Phone=+6435780338
-Data0=(-41.51485,173.95661)
 [END]
 
 ;1173270
@@ -202837,5 +202746,33 @@ Label=GORILLA
 StreetDesc=2 Waterman Place, Ferrymead, Chc/ Restaurant
 Phone=+6433843186
 Data0=(-43.55604,172.69802)
+[END]
+
+;1191300
+[POI]
+Type=0x2f
+Label=?INFLUENCE CREATIVE ADVERTISING
+StreetDesc=Manchester St, Chc/ Advertising, Design, Web Design, Media, Christchurch
+Phone=+6439741311
+zip=9.00 - 5.00
+Data0=(-43.52660,172.63963)
+[END]
+
+;1191303
+[POI]
+Type=0x2f01
+Label=SHELL DARFIELD
+StreetDesc=15 South Tce, Darfield 7961/ Shell Service Station
+Phone=+6433188523
+Data0=(-43.49032,172.11514)
+[END]
+
+;1191319
+[POI]
+Type=0x2f
+Label=ORION HEALTH CHRISTCHURCH
+StreetDesc=L 2, Blg 4, 4 Hazeldean Rd, Hazeldean Business Park, Addington, Chc/ Provider of
+Phone=+6439743720
+Data0=(-43.54183,172.61614)
 [END]
 

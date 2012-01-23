@@ -8,3 +8,4 @@
 1030000047513	E,194,194		HAMILTONS LINE		Tiakitahuna (Manawatu-Wanganui, NZ)
 1030000049098	O,35,35			SKYE ST			Levin (Manawatu-Wanganui, NZ)
 1030000022851	E,22,22			KENSINGTON ST		Te Aro, Wellington (Wellington, NZ)
+1030000024999	E,660,660		RUAKOKOPUTUNA RD	Hillside (Wellington, NZ)

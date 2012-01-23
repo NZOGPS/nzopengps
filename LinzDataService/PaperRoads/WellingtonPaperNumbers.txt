@@ -7,3 +7,4 @@
 31209	E,2,22 O,1,19		Matai Street		Tokomaru (Manawatu-Wanganui, NZ)
 27264	E,194,194		HAMILTONS LINE		Tiakitahuna (Manawatu-Wanganui, NZ)
 23707	E,22,22			KENSINGTON ST		Te Aro, Wellington (Wellington, NZ)
+25461	E,660,660		RUAKOKOPUTUNA RD	Hillside (Wellington, NZ)

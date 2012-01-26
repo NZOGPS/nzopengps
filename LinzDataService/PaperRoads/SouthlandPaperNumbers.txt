@@ -102,4 +102,5 @@
 8543	E,52,52	Kendal St	Otautau (Southland, NZ)	17/01/2012 4:20p.m.
 7693	O,11,11	Devon St	Otautau (Southland, NZ)	17/01/2012 6:34p.m.
 7773	B,80,140	Yellowbluff Rd	Otautau (Southland, NZ)	17/01/2012 6:39p.m.
-
+8764	B,120,125	APARIMA ST	Otautau(Southland,NZ)	2012/01/26 16:13	-46.129162,168.006927
+6142	E,114,114	SUIR ST	Bluff(Southland,NZ)	2012/01/26 16:15	-46.599281,168.325821

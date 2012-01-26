@@ -63195,10 +63195,10 @@ Data0=(-43.54019,172.62839)
 [POI]
 Type=0x2f
 Label=TRAFALGAR INSURANCE BROKERS LIMITED
-StreetDesc=63 Trafalgar St, Nelson/ 
-Phone=+6435468686
+StreetDesc=3/72 Oxford St, Richmond, Nelson/ 
+Phone=+6435468336
 zip=Mon-Fri 0830-1700
-Data0=(-41.26919,173.28434)
+Data0=(-41.33802,173.18132)
 [END]
 
 ;1115130
@@ -74324,15 +74324,6 @@ Label=CHINA CITY
 StreetDesc=6 The Lane, Te Anau/ Chinese restaurant, licensed, BYO, takeaways
 Phone=+6432498337
 Data0=(-45.41439,167.71606)
-[END]
-
-;1118747
-[POI]
-Type=0x2e
-Label=BORDERS CHRISTCHURCH
-StreetDesc=Westfield Riccarton, 129 Riccarton Rd, Chc/ Bookshop, books, magazines, dvds
-Phone=+6433436792
-Data0=(-43.53073,172.60062)
 [END]
 
 ;1118908
@@ -115937,9 +115928,9 @@ Data0=(-45.86959,170.49718)
 [POI]
 Type=0x2a0e
 Label=MOJO COFFEE
-StreetDesc=333 Princes St, Dud/ Cafe, food, coffee, cabinet food, menu, great coffee, great
-Phone=+6437421061
-Data0=(-45.87922,170.50105)
+StreetDesc=329 Princes St, Dud/ Cafe, coffee, cabinet food
+Phone=+6434779511
+Data0=(-45.87920,170.50105)
 [END]
 
 ;1138189
@@ -200618,7 +200609,7 @@ Data0=(-41.29127,173.24341)
 Type=0x2f
 Label=WEDDERBURN SCALES LTD - CHRISTCHURCH
 StreetDesc=84 Carmen Rd, Hornby, Chc/ Wedderburn has branches nationwide for Scales & Weigh
-Phone=+6433430095
+Phone=+6433444034
 Data0=(-43.53627,172.52994)
 [END]
 
@@ -202774,5 +202765,51 @@ Label=ORION HEALTH CHRISTCHURCH
 StreetDesc=L 2, Blg 4, 4 Hazeldean Rd, Hazeldean Business Park, Addington, Chc/ Provider of
 Phone=+6439743720
 Data0=(-43.54183,172.61614)
+[END]
+
+;1191325
+[POI]
+Type=0x2F02
+Label=ICONIC MOTORHOMES
+StreetDesc=260 Ferry Rd Chc 8011/ 
+Phone=+6433664364
+zip=10-4
+Data0=(-43.54042,172.65912)
+[END]
+
+;1191328
+[POI]
+Type=0x2b02
+Label=DUNNS INN B & B
+StreetDesc=230 Dunns Crossing Rd, Rolleston 7675, New Zealand/ B & B
+Phone=+33473477
+Data0=(-43.61459,172.36317)
+[END]
+
+;1191331
+[POI]
+Type=0x2b01
+Label=MOUTERE INN
+StreetDesc=1406 Moutere Highway Upper Moutere/ Hotel, Accomodation, Bar, Restaurant, Off li
+Data0=(-41.26736,173.00695)
+[END]
+
+;1191338
+[POI]
+Type=0x2e07
+Label=THE CHILDREN'S GUIDE
+StreetDesc=Nelson/ kids in Nelson, nelson kids, children activities, children clothing, kid
+Phone=+6435446698
+Data0=(-41.27063,173.28396)
+[END]
+
+;1191344
+[POI]
+Type=0x2e
+Label=JEWELLERS NZ, PETERSENS JEWELLERS, ESTABLISHED 1863
+StreetDesc=121 Papanui Rd, Merivale, Chc/ Diamond rings, diamond engagement rings, loose di
+Phone=+6433555780
+zip=Monday to Friday 8.30am to 5.30pm, Satur
+Data0=(-43.51567,172.62403)
 [END]
 

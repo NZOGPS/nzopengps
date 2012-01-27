@@ -13,6 +13,7 @@ rescue LoadError
   exit
 end
 
+
 def process_polish_buffer(buffer)
 end
 
@@ -20,6 +21,7 @@ def pre_processing()
 
   top,right,bottom,left = @bounds
   sql_query = "SELECT address, to_char(st_x(the_geom),'9999D999999'), to_char(st_y(the_geom),'9999D999999'), rna_id FROM \"nz-street-address-elector\" WHERE ST_Contains(ST_SetSRID(ST_MakeBox2D(ST_Point(#{left}, #{bottom}), ST_Point(#{right} ,#{top})),#{WORKING_SRID}), the_geom);"
+  require '..\linzdataservice\nzogps_library.rb'
   require 'pg'
   require 'yaml'
   
@@ -43,7 +45,7 @@ def pre_processing()
     end
   end
   
-  @output_file_path = File.join(@base, 'outputs', "#{@tile}.gpx") #put outputs in outputs folder
+  @output_file_path = File.join(@base, 'outputs', "#{@tile}-numbers.gpx") #put outputs in outputs folder
 
   File.open(@output_file_path, "w") do |f|
     f.print <<-eos
@@ -58,7 +60,10 @@ def pre_processing()
 
     res.values.each{|row|
       @pbar.inc
-      address = row[0]
+      address = doContractions(row[0]).gsub(/\w+/) do |word|
+        word.capitalize
+      end
+
       lon = row[1].strip
       lat = row[2].strip
       linzid = row[3]

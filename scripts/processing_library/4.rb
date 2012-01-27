@@ -1,6 +1,7 @@
 =begin
 
-A library that outputs csv files from the LINZ address database. (Probably better to use 5.rb)
+A library that outputs csv files from the LINZ address database. 
+Put this file in your numbers directory, where the number checker will use it for finding missing numbering.
 
 =end
 WORKING_SRID = 4167

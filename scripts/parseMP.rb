@@ -42,17 +42,17 @@ end
 
 # #####################################
 def load_processing_library(processing_library)
-  case processing_library
-  when '1'
-    load 'processing_library/1_copy_only.rb' #simple template, only copies data
-  else
-    if File.exists?("processing_library/#{processing_library}.rb") then 
-      print "processing_library = #{processing_library}\n"
-      load "processing_library/#{processing_library}.rb"
+
+  scripts_filename_array = Dir.entries('processing_library')
+  scripts_filename_array.each{|script_name|
+    if script_name =~ /^#{processing_library}_/ then
+      print "processing_library = #{script_name}\n"
+      load "processing_library/#{script_name}"
       return
     end
-    raise ArgumentError.new("library argument missing")
-  end
+  }
+  raise ArgumentError.new("library argument missing")
+
 end
 # #####################################
 def load_paths

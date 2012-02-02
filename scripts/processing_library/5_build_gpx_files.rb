@@ -80,6 +80,9 @@ def pre_processing()
 
   end
   
+  print "Finish Database query = #{Time.now}\n"
+   @reporting_file.print "Finish Database query = #{Time.now}\n"
+
   print "\nCompile to gdb with\n"
   gdb_path = File.join(File.dirname(@output_file_path),File.basename(@output_file_path, '.gpx'))
   gpsbabel_path = app_config['gpsbabel']['path']

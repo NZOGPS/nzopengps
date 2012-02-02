@@ -4314,7 +4314,7 @@ Data0=(-43.49607,172.71758)
 ;1015666
 [POI]
 Type=0x2c05
-Label=NORTHCOTE SCHOOL (CHRISTCHURCH)
+Label=NORTHCOTE SCHOOL
 StreetDesc=26 Tuckers Rd, Redwood, Chc/ State Co-Ed Primary School
 Phone=+6433529371
 Data0=(-43.47955,172.61268)
@@ -11492,7 +11492,8 @@ Data0=(-41.22778,173.58327)
 [POI]
 Type=0x2f01
 Label=MOBIL REEFTON MOTORS
-StreetDesc=60 Broadway, Reefton/ Mobil petrol station
+StreetDesc=60 Broadway, Reefton 7853/ Mobil petrol station
+Phone=+6437328454
 Data0=(-42.11944,171.86555)
 [END]
 
@@ -31159,9 +31160,9 @@ Data0=(-45.86063,170.51269)
 [POI]
 Type=0x2a07
 Label=CJS TAKEAWAYS
-StreetDesc=65a Atawhai Cres, Nelson/ takeaways
+StreetDesc=664A Atawhai Cres, Nelson/ takeaways
 Phone=+6435452415
-Data0=(-41.23660,173.31687)
+Data0=(-41.23682,173.31751)
 [END]
 
 ;1094417
@@ -33873,8 +33874,8 @@ Data0=(-45.87049,170.50568)
 [POI]
 Type=0x2f
 Label=RODNEY WAYNE PALMS MALL
-StreetDesc=Palms Mall, Chc/ Hairdresser
-Phone=+6433850563
+StreetDesc=The Palms Mall, Cnr New Brighton & Marshland Rds, Chc/ Hairdresser
+Phone=+6433850304
 zip=Mon, Tues, Wed, Sat 9-6pm Thu, Fri 9-9pm
 Data0=(-43.50613,172.66432)
 [END]
@@ -37302,16 +37303,6 @@ StreetDesc=Shop 1, Northlands Shopping Mall, 55 Main North Rd, Papanui, Chc/ Piz
 Phone=0800113113
 zip=from 4:30pm
 Data0=(-43.49414,172.60823)
-[END]
-
-;1099288
-[POI]
-Type=0x2a
-Label=STICKY FINGERS RESTAURANT & BAR
-StreetDesc=Clarendon Tower, Oxford Terrace, Chc, Canterbury/ Restaurant, fully licensed, Gr
-Phone=+6433666451
-zip=7am-late
-Data0=(-43.53137,172.63405)
 [END]
 
 ;1099290
@@ -63028,11 +63019,11 @@ Data0=(-43.53025,172.60427)
 
 ;1114995
 [POI]
-Type=0x2b03
-Label=TOP 10 HOLIDAY PARKS - NZ ACCOMMODATION
-StreetDesc=L 1, 294 Montreal St, Chc/ Holiday park, campground, motorhomes, campervans, ten
-Phone=+6433779900
-Data0=(-43.53147,172.63078)
+Type=0x2f
+Label=TOP 10 HOLIDAY PARKS GROUP CENTRAL OFFICE
+StreetDesc=13 Tyne St, Tower Junction, Chc/ 
+Phone=+6433438800
+Data0=(-43.53787,172.60951)
 [END]
 
 ;1115007
@@ -64792,9 +64783,9 @@ Data0=(-41.33169,173.18931)
 [POI]
 Type=0x2f
 Label=WILKIE & BRUCE ARCHITECTS LTD
-StreetDesc=307 Durham St, Chc/ 
+StreetDesc=25 Mandeville St, Chc/ 
 Phone=+6433797739
-Data0=(-43.53466,172.63342)
+Data0=(-43.53550,172.60622)
 [END]
 
 ;1116095
@@ -64920,9 +64911,9 @@ Data0=(-46.11003,169.97311)
 [POI]
 Type=0x2f
 Label=WINDFLOW TECHNOLOGY LTD
-StreetDesc=L 2, 315 Manchester St, Chc/ 
+StreetDesc=44 Mandeville St, Chc/ 
 Phone=+6433658960
-Data0=(-43.52641,172.63946)
+Data0=(-43.53448,172.60815)
 [END]
 
 ;1116141
@@ -73960,16 +73951,6 @@ Label=GOLDEN ISLAND CHINESE RESTAURANT
 StreetDesc=243 Thames St, Oamaru/ Chinese Restaurant, byo
 Phone=+6434348840
 Data0=(-45.09515,170.97260)
-[END]
-
-;1118569
-[POI]
-Type=0x2a0e
-Label=LATITUDE 45 RESTAURANT
-StreetDesc=346 Thames Highway, Oamaru North/ Cafe style lunches, more substantial meals by 
-Phone=+6434370838
-zip=Tues through Saturday lunch 11:30am to 2
-Data0=(-45.08190,170.98093)
 [END]
 
 ;1118570
@@ -85603,7 +85584,7 @@ Type=0x2a
 Label=INDIA GARDEN
 StreetDesc=10 Hanover St, Dud/ Indian restaurant, Tandoori
 Phone=+6434772495
-zip=Lunch: Mon - Fri 11.30am - 2.00pm  Dinne
+zip=Lunch: Mon - Fri 11.30am - 2.00pm Dinner
 Data0=(-45.86957,170.50515)
 [END]
 
@@ -85620,7 +85601,7 @@ Data0=(-46.11409,168.93350)
 [POI]
 Type=0x2c02
 Label=OTAGO MUSEUM AND DISCOVERY WORLD
-StreetDesc=419 Great King St, Dud/ Museum
+StreetDesc=419 Great King St, Dud/ Museum, Historic Place: Category 1
 Phone=+6434747474
 zip=Daily 10am-5pm, Closed Christmas
 Data0=(-45.86585,170.51061)
@@ -89223,15 +89204,6 @@ StreetDesc=438 George St, Dud/ cafe
 Data0=(-45.86728,170.50769)
 [END]
 
-;1128547
-[POI]
-Type=0x2a
-Label=GRAND STAR RESTAURANT
-StreetDesc=18 Stuart St, Dud/ Chinese restaurant
-Phone=+6434740418
-Data0=(-45.87510,170.50755)
-[END]
-
 ;1128548
 [POI]
 Type=0x2a
@@ -90202,9 +90174,10 @@ Data0=(-45.86935,170.47418)
 
 ;1128676
 [POI]
-Type=0x2a07
-Label=NIKHIL INDIAN TAKEAWAYS
-StreetDesc=11 Tomahawk Rd, Dud/ Indian takeaways
+Type=0x2a
+Label=INDIAN TASTE
+StreetDesc=11 Tomahawk Rd, Andersons Bay, Dud/ Indian restaurant, BYO and licensed, takeawa
+Phone=+6434546353
 Data0=(-45.89732,170.53136)
 [END]
 
@@ -92859,16 +92832,6 @@ Label=THE FLYING BURRITO BROTHERS
 StreetDesc=Cnr New Regent St & Armagh St, Chc/ Mexican restaurant. Cantina & Tequileria, Ba
 Phone=+6433777626
 Data0=(-43.52887,172.63882)
-[END]
-
-;1130529
-[POI]
-Type=0x2a02
-Label=KURASHIKI RESTAURANT
-StreetDesc=First Fl MFL House, Cnr Colombo St & Glouchester St, Chc/ Japanese Restaurant, f
-Phone=+6433667092
-zip=Lunch Mon-Fri 11:30am-2pm, Dinner Mon-Fr
-Data0=(-43.52970,172.63647)
 [END]
 
 ;1130530
@@ -98886,16 +98849,6 @@ Type=0x2f
 Label=MANDEVILLE COFFEE SHOP
 StreetDesc=25 Mandeville St, Chc/ 
 Data0=(-43.53551,172.60675)
-[END]
-
-;1131584
-[POI]
-Type=0x2a02
-Label=MANEE THAI RESTAURANT
-StreetDesc=241 Manchester St, Chc/ Thai restaurant, BYO & licensed, takeaways
-Phone=+6433779983
-zip=7 days
-Data0=(-43.53012,172.63950)
 [END]
 
 ;1131585
@@ -109217,15 +109170,6 @@ Phone=+6439620023
 Data0=(-43.55412,172.59421)
 [END]
 
-;1134702
-[POI]
-Type=0x2e
-Label=CHANNEL X STOKE
-StreetDesc=27 Putaitai St, Stoke, Nelson, Stoke/ Videos, dvd & game rental
-Phone=+6435473155
-Data0=(-41.31196,173.23363)
-[END]
-
 ;1134704
 [POI]
 Type=0x2e
@@ -116514,10 +116458,10 @@ Data0=(-45.86902,170.59788)
 [POI]
 Type=0x2a04
 Label=CHINESE GARDEN DUNEDIN
-StreetDesc=2 Thomas Burns St, Dud/ Chinese Restaurant
+StreetDesc=Rattray St, Dud/ Chinese Restaurant
 Phone=+34773248
 zip=10 am to 5 pm, 7 days
-Data0=(-45.87853,170.50546)
+Data0=(-45.87481,170.49834)
 [END]
 
 ;1138261
@@ -120555,14 +120499,6 @@ Phone=+6437328477
 Data0=(-42.12000,171.86941)
 [END]
 
-;1141101
-[POI]
-Type=0x2f
-Label=REEFTON MOTORS LIMITED
-StreetDesc=58-62 Broadway, Refton/ 
-Data0=(-42.11964,171.86528)
-[END]
-
 ;1141102
 [POI]
 Type=0x2f
@@ -121199,7 +121135,7 @@ Data0=(-42.87891,172.75823)
 Type=0x2a
 Label=MONTEITH'S BREWERY BAR HANMER
 StreetDesc=47 Amuri Ave, Hanmer Springs/ Monteith's bar, restaurant, pub
-Phone=+03315513
+Phone=+33155133
 Data0=(-42.52267,172.83003)
 [END]
 
@@ -122196,8 +122132,8 @@ Data0=(-45.41677,167.71239)
 ;1141566
 [POI]
 Type=0x2f
-Label=RENAISSANCE MAN PRODUCTIONS
-StreetDesc=36 Fovant St, Russley, Chc/ music, guitar tuition, guitar lessons, photographic 
+Label=RENAISSANCE MAN MUSIC
+StreetDesc=36 Fovant St, Russley, Chc/ guitar, bass guitar, music theory, lessons, tuition,
 Phone=+6433424232
 zip=9 am - midnight
 Data0=(-43.51955,172.53910)
@@ -128970,10 +128906,10 @@ Data0=(-41.62956,171.85408)
 ;1142446
 [POI]
 Type=0x2f15
-Label=?PAYPHONE
+Label=PAYPHONE
 StreetDesc=SHW 6 O/S Inangahua Camp Westport/ Telecom, payphone, public phone box
 Phone=+6437890204
-Data0=(-41.85706,171.95216)
+Data0=(-41.85731,171.95229)
 [END]
 
 ;1142448
@@ -129912,7 +129848,7 @@ Data0=(-43.30370,172.59187)
 Type=0x2f
 Label=MONTEITH'S BREWERY BAR RANGIORA
 StreetDesc=75 Victoria St, Rangiora/ Monteith's bar, restaurant, pub
-Phone=+03313292
+Phone=+33132929
 Data0=(-43.30423,172.59515)
 [END]
 
@@ -144753,16 +144689,6 @@ Label=HOTEL D'URVILLE
 StreetDesc=52 Queen St, Blenheim, Marlborough/ Boutique hotel accommodation, licensed resta
 Phone=+6435779945
 Data0=(-41.51381,173.95539)
-[END]
-
-;1154011
-[POI]
-Type=0x2a02
-Label=MANEE 2 THAI RESTAURANT
-StreetDesc=293 Durham St, Chc/ Thai restaurant, BYO & licensed, takeaways
-Phone=+6433654654
-zip=Mon-Thu 9am-9:30pm, Fri 9am-10pm. Sat 5:
-Data0=(-43.52922,172.63338)
 [END]
 
 ;1154013
@@ -162317,10 +162243,10 @@ Data0=(-42.48906,171.17990)
 ;1164711
 [POI]
 Type=0x2f
-Label=PBT TRANSPORT/COURIERS NELSON
-StreetDesc=5 Orion St, Tahunanui, Nelson/ Freight, Logistics, Transport, Couriers
-Phone=+6435486456
-Data0=(-41.29203,173.24227)
+Label=PBT TRANSPORT / COURIERS NELSON
+StreetDesc=13 Elms St, Wakatu Industrial State, Stoke, Nelson/ Freight, Logistics, Transpor
+Phone=+6435440472
+Data0=(-41.32645,173.21024)
 [END]
 
 ;1164712
@@ -186931,16 +186857,6 @@ Phone=+33196966
 Data0=(-42.40231,173.68056)
 [END]
 
-;1176461
-[POI]
-Type=0x2a02
-Label=YAMAGEN
-StreetDesc=Crowne Plaza, Corner Kilmore & Durham Streets, Chc/ Japanese restaurant, Teppan-
-Phone=+6433657799
-zip=Dinner 7 days 6pm-late, Lunch Fri 12noon
-Data0=(-43.52676,172.63395)
-[END]
-
 ;1176465
 [POI]
 Type=0x2f03
@@ -188243,15 +188159,6 @@ Phone=+6432358825
 Data0=(-46.33555,168.28752)
 [END]
 
-;1176894
-[POI]
-Type=0x2a
-Label=MURPHYS RESTAURANT
-StreetDesc=67 Williams St, Kaiapoi 7630/ Restaurant
-Phone=+6433278014
-Data0=(-43.38680,172.65491)
-[END]
-
 ;1176910
 [POI]
 Type=0x2e07
@@ -189417,7 +189324,7 @@ Data0=(-45.16534,170.83818)
 [POI]
 Type=0x2a07
 Label=HUNGS CHINESE TAKEAWAY
-StreetDesc=86A Wainoni Rd, Wainoni, Chc/ Chinese Takeaways
+StreetDesc=88 Wainoni Rd, Wainoni, Chc/ Chinese Takeaways
 Phone=+6433896872
 Data0=(-43.51636,172.68748)
 [END]
@@ -191274,7 +191181,7 @@ Data0=(-41.29095,174.00978)
 [POI]
 Type=0x2a
 Label=CORIANDER'S ETHNIC INDIAN RESTAURANT
-StreetDesc=Cnr Conical Hill Rd & Chisolm Cres, Hanmer Springs/ Indian Restaurant, Takeaway,
+StreetDesc=Shop 5/30 Cnr Conical Hill Rd & Chisolm Cres, Hanmer Springs/ Indian Restaurant,
 Phone=+6433157616
 Data0=(-42.51974,172.82917)
 [END]
@@ -192580,16 +192487,6 @@ Phone=+6437894219
 Data0=(-41.75273,171.59855)
 [END]
 
-;1179136
-[POI]
-Type=0x2d02
-Label=LYME BAR
-StreetDesc=817 Colombo St, Chc/ Cocktail bar
-Phone=+6433652393
-zip=Tue 5pm-late, Wed-Sat 4:30pm-late
-Data0=(-43.52572,172.63647)
-[END]
-
 ;1179145
 [POI]
 Type=0x2a
@@ -193086,16 +192983,6 @@ Label=SNIP SNIP SNIP
 StreetDesc=7 Moray Place, Dud/ Hairdressers
 zip=10 to 4 weekdays
 Data0=(-45.87555,170.50248)
-[END]
-
-;1179463
-[POI]
-Type=0x2a07
-Label=WENDY'S OLD FASHIONED HAMBURGERS - CHRISTCHURCH 24HR
-StreetDesc=120 Hereford St, Chc 8011, New Zealand/ fast food, burgers
-Phone=+6433770506
-zip=Sun-Wed 7am-Midnight, Thu 7am-2am, Fri-S
-Data0=(-43.53215,172.63620)
 [END]
 
 ;1179491
@@ -202753,7 +202640,7 @@ Data0=(-43.52660,172.63963)
 [POI]
 Type=0x2f01
 Label=SHELL DARFIELD
-StreetDesc=15 South Tce, Darfield 7961/ Shell Service Station
+StreetDesc=15 South Tce, Darfield 7961/ Shell petrol station
 Phone=+6433188523
 Data0=(-43.49032,172.11514)
 [END]
@@ -202811,5 +202698,61 @@ StreetDesc=121 Papanui Rd, Merivale, Chc/ Diamond rings, diamond engagement ring
 Phone=+6433555780
 zip=Monday to Friday 8.30am to 5.30pm, Satur
 Data0=(-43.51567,172.62403)
+[END]
+
+;1191354
+[POI]
+Type=0x2e
+Label=SEAEAGLE NZ
+StreetDesc=7E Blyth St, Clyde, Central Otago/ We sell Inflatable Kayaks and Inflatable Boat
+Phone=+6434493155
+zip=9am-7pm
+Data0=(-45.18983,169.31764)
+[END]
+
+;1191355
+[POI]
+Type=0x2b00
+Label=WATERS EDGE B AND B KAIKOURA
+StreetDesc=27 Avoca St, Kaikoura, New Zealand/ Bed and Breakfast Accommodation Kaikoura
+Phone=+6433195196
+Data0=(-42.41504,173.70273)
+[END]
+
+;1191357
+[POI]
+Type=0x2f
+Label=TONY MOUNCE MORTAGES
+StreetDesc=6 Rotherham St Riccarton, Chc 8041/ experience opens doors *Allied Kiwi Mortgage
+Phone=+6433658625
+Data0=(-43.53244,172.60111)
+[END]
+
+;1191371
+[POI]
+Type=0x2e0b
+Label=THE ELECTRONIC SERVICE COMPANY LTD
+StreetDesc=Corner Spey & Deveron Streets, Invercargill, 9810/ Electronics service and insta
+Phone=+6432182814
+zip=0830 - 1730 Mon - Fri
+Data0=(-46.40959,168.35396)
+[END]
+
+;1191373
+[POI]
+Type=0x2f
+Label=JAMES MACKAY BUILDERS
+StreetDesc=Unit 2, 21 Barton St, Chc, New Zealand/ New housing, renovations, alterations Ch
+Phone=+6433766362
+Data0=(-43.55423,172.68044)
+[END]
+
+;1191390
+[POI]
+Type=0x2f
+Label=TOMLINSON LAW
+StreetDesc=30 Sir William Pickering Dr, Burnside, Chc/ Lawyers, taxation, trust, charities
+Phone=+6433779900
+Data0=(-43.49704,172.55827)
 [END]
 

@@ -12224,7 +12224,7 @@ Data0=(-43.41019,172.64867)
 
 ;1041916
 [POI]
-Type=0x2f01
+Type=0x2f03
 Label=WHEEL ALIGNMENT SERVICES
 StreetDesc=281 Tuam St, Chc City/ Challenge petrol station
 Phone=+6433664738
@@ -16105,7 +16105,7 @@ Data0=(-42.11982,171.86626)
 Type=0x2e02
 Label=FERN GROVE FOODCENTRE
 StreetDesc=Main Rd, Franz Josef/ Four Square Supermarket, groceries, bakery, deli, beer, wi
-Phone=+6437520731
+Phone=+6437520177
 zip=7 days 7.45am-dark
 Data0=(-43.38818,170.18201)
 [END]
@@ -38982,9 +38982,9 @@ Data0=(-45.08479,169.18083)
 
 ;1100898
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=ALAN MCCORKINDALE WINES
-StreetDesc=478 Omihi Rd, Waipara, Chc/ 
+StreetDesc=478 Omihi Rd, Waipara, Chc/ Winery
 Phone=0800423532
 Data0=(-43.04290,172.79838)
 [END]
@@ -41251,9 +41251,9 @@ Data0=(-43.45220,172.63293)
 
 ;1102243
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=BLACKENBROOK WINES LTD
-StreetDesc=50 Baldwin Rd, RD 1, Tasman, Nelson/ 
+StreetDesc=50 Baldwin Rd, RD 1, Tasman, Nelson/ Winery
 Phone=+6435266888
 Data0=(-41.19421,173.04815)
 [END]
@@ -42801,9 +42801,9 @@ Data0=(-43.54577,172.59456)
 [POI]
 Type=0x2c0a
 Label=CHARD FARM VINEYARD
-StreetDesc=Chard Rd, RD 1, Queenstown/ Winery
+StreetDesc=Chard Rd, RD 1, Queenstown/ Winery, cellar door
 Phone=+6434426110
-zip=Freephone 0800 THE FARM
+zip=10am - 5pm 7 Days
 Data0=(-45.01181,168.88012)
 [END]
 
@@ -43358,6 +43358,7 @@ Type=0x2c0a
 Label=CLOS HENRI VINEYARD
 StreetDesc=639 State Highway 63, West Coast Rd, R D 1, Blenheim/ Winery, cellar door, tasti
 Phone=+6435727923
+zip=10 am to 4 pm, 7 days
 Data0=(-41.51796,173.76287)
 [END]
 
@@ -44798,9 +44799,9 @@ Data0=(-45.06464,170.99758)
 
 ;1104270
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=DE GYFFARDE WINES LTD
-StreetDesc=309 Rapaura Rd, Blenheim/ 
+StreetDesc=309 Rapaura Rd, Blenheim/ Winery
 Phone=+6435791729
 Data0=(-41.48178,173.85172)
 [END]
@@ -45389,9 +45390,9 @@ Data0=(-45.25672,169.37553)
 
 ;1104642
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=DRYLANDS ESTATE WINERY
-StreetDesc=Hammerichs Rd, Blenheim/ 
+StreetDesc=Hammerichs Rd, Blenheim/ Winery, cellar door
 Phone=+6435705252
 zip=Mon-Sun 1000-1700
 Data0=(-41.48233,173.90660)
@@ -46060,8 +46061,9 @@ Data0=(-45.87801,170.50176)
 [POI]
 Type=0x2f
 Label=EMERSON BREWING CO LTD
-StreetDesc=14 Wickliffe St, Dud/ 
+StreetDesc=14 Wickliffe St, Dud/ Brewery shop
 Phone=+6434771812
+zip=■Monday - Wednesday: 9 am - 5 pm and Thu
 Data0=(-45.87164,170.51711)
 [END]
 
@@ -46494,9 +46496,9 @@ Data0=(-41.27706,173.27576)
 
 ;1105347
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=FAIRHALL DOWNS ESTATE WINES LIMITED
-StreetDesc=70 Wrekin Rd, RD2, Blenheim/ 
+StreetDesc=70 Wrekin Rd, RD2, Blenheim/ Winery, cellar door
 Phone=+6435728356
 zip=Mon-Fri 0900-1600
 Data0=(-41.56705,173.84682)
@@ -46689,7 +46691,7 @@ Data0=(-43.54606,172.52369)
 [POI]
 Type=0x2c0a
 Label=FELTON ROAD WINES LTD
-StreetDesc=Felton Rd, Bannockburn, Dud/ 
+StreetDesc=Felton Rd, Bannockburn, Dud/ Winery
 Phone=+6434450885
 Data0=(-45.07395,169.12972)
 [END]
@@ -46780,9 +46782,9 @@ Data0=(-41.33906,173.18413)
 
 ;1105461
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=FIDDLER'S GREEN WINES
-StreetDesc=246 Georges Rd, Amberley,/ 
+StreetDesc=246 Georges Rd, Amberley,/ Winery, cellar door
 Phone=+6433146979
 Data0=(-43.07675,172.71695)
 [END]
@@ -47307,9 +47309,9 @@ Data0=(-43.32905,172.59991)
 
 ;1105752
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=FOXES ISLAND WINES LIMITED
-StreetDesc=153 Giffords Rd, Blenheim/ 
+StreetDesc=153 Giffords Rd, Blenheim/ Winery
 Phone=+6435727940
 Data0=(-41.46552,173.86997)
 [END]
@@ -47343,11 +47345,12 @@ Data0=(-43.53833,172.69303)
 
 ;1105762
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=FRAMINGHAM WINE COMPANY LTD
-StreetDesc=Conders Bend Rd, Renwick, Blenheim/ 
+StreetDesc=19 Conders Bend Rd, Renwick, Blenheim/ Winery, cellar door
 Phone=+6435728884
-Data0=(-41.49495,173.81440)
+zip=10.30 - 4.30 7 days
+Data0=(-41.49562,173.81500)
 [END]
 
 ;1105763
@@ -47929,7 +47932,7 @@ Data0=(-45.03131,168.65895)
 [POI]
 Type=0x2c0a
 Label=GIBBSTON VALLEY WINES LTD
-StreetDesc=State Highway 6, Gibbston R D 1, Queenstown/ 
+StreetDesc=State Highway 6, Gibbston R D 1, Queenstown/ Winery, cellar door, Restaurant
 Phone=+6434426910
 zip=Mon-Fri 1000am-0500pm
 Data0=(-45.01225,168.91447)
@@ -49704,11 +49707,11 @@ Data0=(-43.54448,172.58611)
 
 ;1107102
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=HUIA VINEYARDS
-StreetDesc=22 Boyces Rd, Blenheim/ 
+StreetDesc=22 Boyces Rd, Blenheim/ Winery, cellar door
 Phone=+6435728326
-zip=Mon-Fri (Winter) 1030-0500, 7 Days Open 
+zip=Winter Mon-Fri 10.30am-5pm, Summer 7 Day
 Data0=(-41.48274,173.82837)
 [END]
 
@@ -49751,10 +49754,11 @@ Data0=(-41.33341,173.18726)
 
 ;1107124
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=HUNTER'S WINES (NZ) LTD
-StreetDesc=Rapaura Rd, Blenheim/ 
+StreetDesc=Rapaura Rd, Blenheim/ Winery, cellar door
 Phone=+6435728489
+zip=Daily 9.30 - 4.30
 Data0=(-41.47561,173.88715)
 [END]
 
@@ -50158,9 +50162,9 @@ Data0=(-43.54473,172.55969)
 
 ;1107344
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=INDEVIN LTD
-StreetDesc=Cloudy Bay Business Park State Highway 1, 17-19 Winefair Close, Blenheim/ 
+StreetDesc=Cloudy Bay Business Park State Highway 1, 17-19 Winefair Close, Blenheim/ Wine B
 Phone=+6435783036
 Data0=(-41.54228,174.02328)
 [END]
@@ -50572,9 +50576,9 @@ Data0=(-44.41851,171.24901)
 
 ;1107726
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=JACKSON ESTATE
-StreetDesc=22 Liverpool St, Riverlands, Blenheim/ 
+StreetDesc=22 Liverpool St, Riverlands, Blenheim/ Winery,
 Phone=+6435795523
 Data0=(-41.53294,174.01104)
 [END]
@@ -50782,12 +50786,12 @@ Data0=(-45.25343,169.38676)
 
 ;1107847
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=JOHANNESHOF CELLARS LTD
-StreetDesc=State Highway 1, RD 3, Koromiko, Blenheim/ 
+StreetDesc=State Highway 1, RD 3, Koromiko, Blenheim/ Winery, cellar door
 Phone=+6435737035
 zip=Tue-Sun 1000-1600
-Data0=(-41.35876,173.95415)
+Data0=(-41.36001,173.95412)
 [END]
 
 ;1107848
@@ -51535,9 +51539,9 @@ Data0=(-41.56367,173.74309)
 
 ;1108314
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=KOURA BAY WINES LTD
-StreetDesc=7 Nursery Rd, Seddon, Blenheim/ 
+StreetDesc=7 Nursery Rd, Seddon, Blenheim/ Winery
 Phone=+6435783882
 Data0=(-41.66749,174.06646)
 [END]
@@ -51607,12 +51611,12 @@ Data0=(-42.63224,171.39399)
 
 ;1108384
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=LAKE CHALICE WINES
-StreetDesc=Vintage Lane, Renwick, Blenheim/ 
+StreetDesc=93 Vintage Lane, Renwick, Blenheim/ Winery, cellar door
 Phone=+6435729327
-zip=Mon-Fri 0830-1600
-Data0=(-41.49549,173.83661)
+zip=Mon-Fri 1100 -1600( Summer)
+Data0=(-41.49228,173.83730)
 [END]
 
 ;1108388
@@ -51774,11 +51778,11 @@ Data0=(-43.54639,172.65520)
 
 ;1108497
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=LAWSONS DRY HILLS WINERY LTD
-StreetDesc=238 Alabama Rd, Blenheim/ 
+StreetDesc=238 Alabama Rd, Blenheim/ Winery, cellar door
 Phone=+6435787674
-zip=Mon-Fri 0800-1700
+zip=7 days 1000 -1700
 Data0=(-41.52812,173.97104)
 [END]
 
@@ -54132,17 +54136,18 @@ Data0=(-44.65284,169.21948)
 [POI]
 Type=0x2c0a
 Label=MOUNT MICHAEL WINES & ESTATES LTD
-StreetDesc=McNabb Rd, R D 2, Cromwell/ 
+StreetDesc=McNabb Rd, R D 2, Cromwell/ Winery
 Phone=+6434451351
 Data0=(-45.03255,169.19229)
 [END]
 
 ;1109872
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=MOUNT RILEY WINES LTD
-StreetDesc=10 Malthouse Rd, Blenheim/ 
+StreetDesc=10 Malthouse Rd, Blenheim/ Winery, cellar door
 Phone=+6435779900
+zip=Mon-Fri 10.30am - 4.30pm
 Data0=(-41.52698,174.00353)
 [END]
 
@@ -54215,7 +54220,7 @@ Data0=(-41.20059,172.99913)
 [POI]
 Type=0x2c0a
 Label=MT DIFFICULTY WINES
-StreetDesc=Felton Rd, RD 2, Bannockburn, Dud/ 
+StreetDesc=Felton Rd, RD 2, Bannockburn, Dud/ Winery, cellar door, Restaurant
 Phone=+6434453445
 Data0=(-45.08203,169.15462)
 [END]
@@ -54249,9 +54254,9 @@ Data0=(-45.03904,168.98142)
 
 ;1109913
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=MUD HOUSE WINE COMPANY LTD
-StreetDesc=16 Liverpool St, Riverlands, Blenheim/ 
+StreetDesc=16 Liverpool St, Riverlands, Blenheim/ Winery
 Phone=+6435785070
 Data0=(-41.53253,174.00962)
 [END]
@@ -55645,9 +55650,9 @@ Data0=(-45.88802,170.35161)
 
 ;1110777
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=OBSERVING WINES LTD
-StreetDesc=83 Vintage Lane, R D 3, Blenheim/ 
+StreetDesc=83 Vintage Lane, R D 3, Blenheim/ Winery
 Phone=+6435729275
 Data0=(-41.49181,173.84044)
 [END]
@@ -55819,10 +55824,11 @@ Data0=(-45.07157,169.13206)
 
 ;1110867
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=OMAKA SPRINGS ESTATE LTD
-StreetDesc=47 Kennedys Rd,  Blenheim/ 
+StreetDesc=47 Kennedys Rd, Blenheim/ Winery, cellar door
 Phone=+6435729933
+zip=10am - 4.30pm - Mon to Fri
 Data0=(-41.54601,173.82011)
 [END]
 
@@ -56612,9 +56618,10 @@ Data0=(-43.53542,172.63192)
 [POI]
 Type=0x2f
 Label=PATERSON & POLAND (2000) LTD
-StreetDesc=34 Glasgow St, South Dud, Dud/ 
+StreetDesc=34 Glasgow St, South Dud, Dud/ Sales, service & repairs in Dunedin & Otago of cl
 Phone=+6434554654
-Data0=(-45.89457,170.49821)
+zip=Monday - Friday 8am - 4.30pm
+Data0=(-45.89461,170.49814)
 [END]
 
 ;1111316
@@ -56769,8 +56776,9 @@ Data0=(-45.88977,170.50252)
 [POI]
 Type=0x2c0a
 Label=PEREGRINE WINES CENTRAL OTAGO LTD
-StreetDesc=Kawarau Gorge Rd, RD 1, Queenstown/ 
+StreetDesc=Kawarau Gorge Rd, RD 1, Queenstown/ Winery, cellar door
 Phone=+6434424000
+zip=10am - 5pm 7 Days
 Data0=(-45.02128,168.94968)
 [END]
 
@@ -57899,9 +57907,9 @@ Data0=(-46.41420,168.39266)
 
 ;1112133
 [POI]
-Type=0x2f
-Label=QUALITY WINES OF MARLBOROUGH LTD
-StreetDesc=39 Pauls Rd, Rapaura, Blenheim/ 
+Type=0x2c0a
+Label=WHITEHAVEN QUALITY WINES OF MARLBOROUGH LTD
+StreetDesc=39 Pauls Rd, Rapaura, Blenheim/ Winery, cellar door
 Phone=+6435727588
 Data0=(-41.48087,173.83318)
 [END]
@@ -57919,7 +57927,7 @@ Data0=(-45.02649,168.69314)
 [POI]
 Type=0x2c0a
 Label=QUARTZ REEF WINES
-StreetDesc=Blg 10 Hughes Cres, Lake Dunstan Estate McNulty Rd, Cromwell/ 
+StreetDesc=Blg 10 Hughes Cres, Lake Dunstan Estate McNulty Rd, Cromwell/ Winery, cellar doo
 Phone=+6434453084
 Data0=(-45.05140,169.18173)
 [END]
@@ -58510,10 +58518,11 @@ Data0=(-41.34281,173.17151)
 
 ;1112535
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=RICHMOND PLAINS WINES
-StreetDesc=108  McShane Rd, Richmond, Nelson/ 
+StreetDesc=108 McShane Rd, Richmond, Nelson/ Winery, cellar door
 Phone=+6435444541
+zip=Summer: Daily 10.30am - 4.30pm Winter: M
 Data0=(-41.33272,173.16181)
 [END]
 
@@ -58558,8 +58567,9 @@ Data0=(-41.35690,173.18247)
 [POI]
 Type=0x2c0a
 Label=RIPPON VINEYARD & WINERY LTD
-StreetDesc=246 Mount Aspiring Rd, Wanaka/ 
+StreetDesc=246 Mount Aspiring Rd, Wanaka/ Winery, cellar door
 Phone=+6434438084
+zip=Summer (December – April) 11am – 5pm :Wi
 Data0=(-44.69322,169.10551)
 [END]
 
@@ -58755,8 +58765,9 @@ Data0=(-43.53623,172.66309)
 [POI]
 Type=0x2c0a
 Label=ROCKBURN WINES LIMITED
-StreetDesc=Mc Nulty Rd Cromwell/ 
+StreetDesc=Mc Nulty Rd Cromwell/ Winery, cellar door
 Phone=+6434450555
+zip=11am-4pm Summer hours
 Data0=(-45.04895,169.18548)
 [END]
 
@@ -59101,9 +59112,9 @@ Data0=(-43.55516,172.69794)
 
 ;1112878
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=SAINT CLAIR ESTATE WINES
-StreetDesc=156 New Renwick Rd, RD 2, Blenheim/ 
+StreetDesc=156 New Renwick Rd, RD 2, Blenheim/ Vinyard
 Phone=+6435788695
 Data0=(-41.52938,173.92363)
 [END]
@@ -59607,11 +59618,12 @@ Data0=(-41.58797,173.73332)
 
 ;1113145
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=SERESIN ESTATE LTD
-StreetDesc=Bedford Rd, Renwick, Blenheim/ 
+StreetDesc=85 Bedford Rd, Renwick, Blenheim/ Winery, cellar door
 Phone=+6435729408
-Data0=(-41.50803,173.79675)
+zip=10am to 4.30pm 7 Days a week
+Data0=(-41.50904,173.79531)
 [END]
 
 ;1113148
@@ -59796,10 +59808,11 @@ Data0=(-43.48778,172.56222)
 ;1113263
 [POI]
 Type=0x2f
-Label=SIGGIES SIGNS
-StreetDesc=71 Parkers Rd, Tahunanui, Nelson/ 
-Phone=+6435486640
-Data0=(-41.28942,173.24010)
+Label=SIGGIE'S SIGNS
+StreetDesc=15 McGlashen Ave, Richmond, Nelson/ Signwriters
+Phone=+6435446596
+zip=Monday-Friday 8am-5pm
+Data0=(-41.33708,173.18434)
 [END]
 
 ;1113266
@@ -61424,9 +61437,9 @@ Data0=(-43.54595,172.64126)
 
 ;1114043
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=SUMMERHOUSE WINE CO. LTD
-StreetDesc=74 Fareham Lane, Blenheim/ 
+StreetDesc=74 Fareham Lane, Blenheim/ Winery
 Phone=+6435729446
 Data0=(-41.51467,173.74988)
 [END]
@@ -63065,10 +63078,11 @@ Data0=(-43.54908,172.56954)
 
 ;1115016
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=TORLESSE WINES LTD
-StreetDesc=1 Loffhagen Dr, Waipara, Chc/ 
+StreetDesc=1 Loffhagen Dr, Waipara, Chc/ Winery, cellar door
 Phone=+6433146929
+zip=7 days 11a.m.-5p.m.
 Data0=(-43.05330,172.76105)
 [END]
 
@@ -63771,9 +63785,9 @@ Data0=(-44.41622,171.24753)
 
 ;1115499
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=VAVASOUR WINES LTD
-StreetDesc=1549 Redwood Pass Rd, Awatere Valley, Blenheim/ 
+StreetDesc=1549 Redwood Pass Rd, Awatere Valley, Blenheim/ Winery
 Phone=+6435757481
 Data0=(-41.62451,174.11435)
 [END]
@@ -64131,9 +64145,9 @@ Data0=(-41.29086,173.24025)
 
 ;1115752
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=WAIPARA DOWNS WINES
-StreetDesc=167 Bain Rd, Waipara, Canterbury/ 
+StreetDesc=167 Bain Rd, Waipara, Canterbury/ Winery
 Phone=+6433146873
 Data0=(-43.05284,172.70958)
 [END]
@@ -64168,10 +64182,11 @@ Data0=(-41.50421,173.84645)
 
 ;1115769
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=WAIRAU RIVER WINES
-StreetDesc=264 Rapaura Rd, Marlborough/ 
+StreetDesc=264 Rapaura Rd, Marlborough/ Winery,
 Phone=+6435727950
+zip=Daily 10 -5
 Data0=(-41.48306,173.84838)
 [END]
 
@@ -64706,15 +64721,6 @@ Phone=+6433530650
 Data0=(-43.52889,172.63526)
 [END]
 
-;1116058
-[POI]
-Type=0x2f
-Label=WHITEHAVEN WINE COMPANY
-StreetDesc=39 Pauls Rd, RD 3, Rapaura, Blenheim/ 
-Phone=+6435727588
-Data0=(-41.48087,173.83318)
-[END]
-
 ;1116063
 [POI]
 Type=0x2f
@@ -64957,7 +64963,7 @@ Data0=(-43.55513,172.69740)
 [POI]
 Type=0x2f
 Label=WINE TECHNOLOGY MARLBOROUGH
-StreetDesc=Corner Boyces & Rapaura Roads, Renwick, Blenheim/ 
+StreetDesc=Corner Boyces & Rapaura Roads, Renwick, Blenheim/ Wine technology
 Phone=+6435728511
 Data0=(-41.48410,173.82826)
 [END]
@@ -71948,6 +71954,7 @@ Type=0x2a
 Label=DUNSANDEL STORE
 StreetDesc=Main South Rd, Dunsandel/ Cafe, restaurant
 Phone=+6433254037
+zip=7am-5pm
 Data0=(-43.66012,172.19332)
 [END]
 
@@ -89241,6 +89248,7 @@ Data0=(-45.90187,170.42918)
 Type=0x2f
 Label=GREEN MAN BREWERY
 StreetDesc=9 Grange St, Dud/ 
+Phone=+6434777755
 Data0=(-45.87074,170.51150)
 [END]
 
@@ -93412,8 +93420,9 @@ Data0=(-43.53112,172.62834)
 [POI]
 Type=0x2a02
 Label=ACE WASABI JAPANESE RESTAURANT
-StreetDesc=55 Victoria St, Chc/ Japanese Restaurant
-Data0=(-43.52625,172.63286)
+StreetDesc=106 Papanui Rd, Merivale, Chc/ Japanese Restaurant
+Phone=+6433551028
+Data0=(-43.51589,172.62470)
 [END]
 
 ;1130851
@@ -111650,17 +111659,19 @@ Data0=(-41.48355,173.83933)
 [POI]
 Type=0x2c0a
 Label=BOULDEVINES ESTATE VINEYARD
-StreetDesc=198 Dog Point Rd, Blenheim./ Wine makers vinyard
+StreetDesc=198 Dog Point Rd, Blenheim./ Winery, cellar door
 Phone=+6435728010
+zip=Cellar Door at Vines Village 193 Rapaura
 Data0=(-41.52697,173.82260)
 [END]
 
 ;1136192
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=BOULDEVINES WINE CELLAR
-StreetDesc=193 Rapaura Rd, Marlborough/ Fine Wine
+StreetDesc=193 Rapaura Rd, Marlborough/ Winery, cellar door
 Phone=+6435728444
+zip=Open 7 days, 10am until 5pm
 Data0=(-41.48374,173.83938)
 [END]
 
@@ -111683,10 +111694,11 @@ Data0=(-41.28894,174.00768)
 
 ;1136195
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=RIVER FARM WINES
-StreetDesc=36 Godfrey Rd, Blenheim/ boutique limited release Marlborough wines
+StreetDesc=36 Godfrey Rd, Blenheim/ Winery, cellar door - boutique limited release Marlboro
 Phone=+6435729091
+zip=11.00 AM – 5.30 PM - 7 days
 Data0=(-41.51535,173.84396)
 [END]
 
@@ -111713,9 +111725,9 @@ Data0=(-41.46572,173.92628)
 [POI]
 Type=0x2c0a
 Label=YEALANDS ESTATE
-StreetDesc=Cnr Seaview and Reserve Roads, Seddon/ Winery
+StreetDesc=534 Seaview Rd, Seddon/ Winery, cellar door
 Phone=+6435757618
-Data0=(-41.64909,174.13004)
+Data0=(-41.64799,174.13027)
 [END]
 
 ;1136201
@@ -121973,9 +121985,9 @@ Data0=(-43.35110,172.66384)
 [POI]
 Type=0x2f
 Label=CHRISTCHURCH RADIOLOGY GROUP
-StreetDesc=291 Madras St, Chc/ Christchurch Radiology Provides services including X-ray, Ul
+StreetDesc=144a Leinster Rd, Merivale, Chc 8014/ Christchurch Radiology Provides services i
 Phone=0800869729
-Data0=(-43.52816,172.64245)
+Data0=(-43.51146,172.61891)
 [END]
 
 ;1141435
@@ -169276,8 +169288,10 @@ Data0=(-43.54072,172.63971)
 ;1168304
 [POI]
 Type=0x2f
-Label=MOORHOUSE RADIOLOGY LTD
+Label=MOORHOUSE RADIOLOGY
 StreetDesc=3 Pilgrim Place, Chc/ 
+Phone=+6433774920
+zip=Mon - Fri 8:00am - 8:00pm
 Data0=(-43.54072,172.63971)
 [END]
 
@@ -170920,8 +170934,10 @@ Data0=(-46.41090,168.35262)
 ;1169183
 [POI]
 Type=0x2f
-Label=REFLECT ULTRASOUND
-StreetDesc=13 Rutland St, St Albans, Chc, Canterbury/ 
+Label=REFLECT RADIOLOGY
+StreetDesc=13 Rutland St, St Albans, Chc, Canterbury/ Medical Imaging, Ultrasound, Xray, CT
+Phone=+6433555666
+zip=Mon to Wed and Fri 8:30 - 5:30 Thursday 
 Data0=(-43.50849,172.63045)
 [END]
 
@@ -174177,7 +174193,7 @@ Type=0x6403
 Label=HAREWOOD MEMORIAL GARDENS & CREMATORIUM
 StreetDesc=Cnr Wilkinsons & Johns Rd, Harewood/ Crematorium, Cemetery, Funerals
 Phone=+6433599039
-Data0=(-43.46585,172.58136)
+Data0=(-43.46469,172.58474)
 [END]
 
 ;1171076
@@ -184511,6 +184527,7 @@ Type=0x2a0e
 Label=CRUIZIES CAFE
 StreetDesc=10 Maxwell Rd Blenheim/ cafe
 Phone=+6435786939
+zip=7am - 3 pm
 Data0=(-41.51418,173.95624)
 [END]
 
@@ -185264,8 +185281,8 @@ Data0=(-43.49139,172.61091)
 [POI]
 Type=0x2e07
 Label=SHOE CONNECTION RICCARTON
-StreetDesc=Store 6, Westfield Riccarton, 129 Riccarton Rd, Riccarton/ shoes, footwear
-Phone=+33431064
+StreetDesc=Shop 6, Westfield Riccarton, 129 Riccarton Rd, Riccarton, Chc/ fashion, dress, c
+Phone=+6433431064
 zip=Mon-Wed 9am-6pm, Thu-Fri 9am-9pm, Sat 9a
 Data0=(-43.53072,172.59766)
 [END]
@@ -185274,7 +185291,7 @@ Data0=(-43.53072,172.59766)
 [POI]
 Type=0x2e07
 Label=SHOE CONNECTION NORTHLANDS
-StreetDesc=Shop 106, Northlands Shopping Ctr, Main North Rd, Papanui/ shoes, footwear
+StreetDesc=Shop 106, Northlands Shopping Ctr, Main North Rd, Papanui, Chc/ fashion, dress, 
 Phone=+6433548414
 zip=Mon-Wed 9am-6pm, Thu-Fri 9am-9pm, Sat 9a
 Data0=(-43.49368,172.60941)
@@ -195590,14 +195607,6 @@ StreetDesc=215 Maxwell Rd, Blenheim/
 Data0=(-41.53425,173.94226)
 [END]
 
-;1181190
-[POI]
-Type=0x2f
-Label=CLOS HENRI LIMITED
-StreetDesc=639 SH 63, Waihopai/ 
-Data0=(-41.53311,173.75568)
-[END]
-
 ;1181191
 [POI]
 Type=0x2f
@@ -195649,9 +195658,11 @@ Data0=(-41.53023,173.95559)
 
 ;1181197
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=HIGHFIELD ESTATE
-StreetDesc=27 Brookby Rd Hawkesbury/ 
+StreetDesc=27 Brookby Rd Hawkesbury/ Winery, cellar door
+Phone=+6435729244
+zip=10am to 5pm
 Data0=(-41.52851,173.83738)
 [END]
 
@@ -195812,15 +195823,18 @@ Data0=(-41.51491,173.95579)
 [POI]
 Type=0x2a0e
 Label=SECRET GARDEN CAFE WINE BAR EATERY
-StreetDesc=30 Maxwell Rd, Blenheim/ 
+StreetDesc=30 Maxwell Rd, Blenheim/ Bar, Restaurant
+Phone=+6435795025
 Data0=(-41.51487,173.95515)
 [END]
 
 ;1181218
 [POI]
 Type=0x2d02
-Label=SCOTCH WINE BAR
-StreetDesc=4 George St, Blenheim/ 
+Label=SCOTCH WINE BAR & BISTRO
+StreetDesc=4 George St, Blenheim/ Wine Bar
+Phone=+6435791176
+zip=Mon - Sat from 5pm
 Data0=(-41.51435,173.95585)
 [END]
 
@@ -195947,9 +195961,10 @@ Data0=(-41.51262,173.95669)
 
 ;1181235
 [POI]
-Type=0x2f
+Type=0x2a
 Label=ZUPPA
-StreetDesc=59 Market St, Blenheim/ 
+StreetDesc=59 Market St, Blenheim/ Cafe
+Phone=+6435791739
 Data0=(-41.51262,173.95669)
 [END]
 
@@ -196005,7 +196020,9 @@ Data0=(-41.51208,173.95717)
 [POI]
 Type=0x2a
 Label=CHI CHI RESTAURANT LIMITED
-StreetDesc=35 High St, Blenheim/ 
+StreetDesc=35 High St, Blenheim/ Thai & Chinese restaurant
+Phone=+6435775188
+zip=11.30 - 2 & 5.30 - 9.30 7 days
 Data0=(-41.51208,173.95717)
 [END]
 
@@ -196214,8 +196231,9 @@ Data0=(-41.50379,173.96719)
 [POI]
 Type=0x2a08
 Label=ROCCO'S ITALIAN RESTAURANT
-StreetDesc=5 Dodson St, Blenheim/ 
-Data0=(-41.50179,173.95988)
+StreetDesc=5 Dodson St, Blenheim/ Restaurant
+Phone=+6435786940
+Data0=(-41.50189,173.96003)
 [END]
 
 ;1181269
@@ -196262,7 +196280,9 @@ Data0=(-41.48842,173.94416)
 [POI]
 Type=0x2e
 Label=WAIRAU RIVER WINE SHOP
-StreetDesc=11 Rapaura Rd, Rapaura/ 
+StreetDesc=11 Rapaura Rd, Rapaura/ Cellar door
+Phone=+6435729800
+zip=OPEN 10AM-5PM EVERY DAY
 Data0=(-41.48600,173.81813)
 [END]
 
@@ -196316,18 +196336,11 @@ Data0=(-41.47536,173.95747)
 
 ;1181281
 [POI]
-Type=0x2c0a
+Type=0x2a
 Label=CREEKSIDE OLIVE & WINE ORCHARD
-StreetDesc=774 Rapaura Rd, Rapaura/ 
+StreetDesc=774 Rapaura Rd, Rapaura/ Olives & Wine
+Phone=+6435705372
 Data0=(-41.47077,173.90675)
-[END]
-
-;1181282
-[POI]
-Type=0x2e
-Label=MAKANA CONFECTIONS
-StreetDesc=180 O'Dwyers Rd, Rapaura/ 
-Data0=(-41.46579,173.92596)
 [END]
 
 ;1181283
@@ -201440,10 +201453,10 @@ Data0=(-45.90333,170.42298)
 ;1190495
 [POI]
 Type=0x2e
-Label=GARDEN CITY FLORIST, CHRISTCHURCH FLORISTS, WEDDING FLOWERS CHRISTCHURCH
-StreetDesc=336 Riccarton Rd, Chc/ Florists, Christchurch Florists, Bouquets,gift baskets, w
+Label=GARDEN CITY FLORIST, CHRISTCHURCH FLORIST, WEDDING FLOWERS CHRISTCHURCH
+StreetDesc=338 Riccarton Rd, Chc/ Christchurch Florist, beautiful flowers, Bouquets,gift ba
 Phone=+6433410002
-Data0=(-43.53030,172.57520)
+Data0=(-43.53141,172.57611)
 [END]
 
 ;1190500
@@ -202592,7 +202605,7 @@ Data0=(-43.58877,172.37123)
 [POI]
 Type=0x2e
 Label=WILLEMS TOY EMPIRE LTD
-StreetDesc=43 Clyde St Kinmont Park Mosgiel 9024 New Zealand/ Mosgiel, Dunedin toy retailer
+StreetDesc=43 Clyde St Kinmont Park Dud 9024 New Zealand/ Dunedin toy retailer importing qu
 Phone=+6434898162
 zip=9:00am – 6:00pm, Monday – Friday or by a
 Data0=(-45.89393,170.35065)
@@ -202754,5 +202767,130 @@ Label=TOMLINSON LAW
 StreetDesc=30 Sir William Pickering Dr, Burnside, Chc/ Lawyers, taxation, trust, charities
 Phone=+6433779900
 Data0=(-43.49704,172.55827)
+[END]
+
+;1191392
+[POI]
+Type=0x2f
+Label=LION STONE MASONS
+StreetDesc=22 St Clair Close Dud Otago 9012 New Zealand/ Reliable, certified stonemason in 
+Phone=+6434876363
+zip=6am - 8pm
+Data0=(-45.91143,170.46806)
+[END]
+
+;1191394
+[POI]
+Type=0x2f
+Label=WAIPAPA LIMESTONE
+StreetDesc=420 Waipapa Rd, Clarence Bridge, Kaikoura 7371/ High-Quality Aglime, Limestone C
+Phone=+6433194414
+Data0=(-42.15732,173.87128)
+[END]
+
+;1191397
+[POI]
+Type=0x2f
+Label=SWORD PRODUCTIONS LTD
+StreetDesc=112 Ripponvale Rd Cromwell, Otago/ Internet video, Weddings music videos
+Phone=+6421505818
+zip=9-5pm Monday to Saturday except Wednesda
+Data0=(-45.03342,169.16354)
+[END]
+
+;1191403
+[POI]
+Type=0x2e07
+Label=CRADLE
+StreetDesc=290 Highgate Roslyn Dud 9010/ Cradlebaby for stylish baby clothes, children’s cl
+Phone=+6434792283
+zip=Monday - Friday 10am - 4.30pm, Saturday 
+Data0=(-45.86739,170.49017)
+[END]
+
+;1191407
+[POI]
+Type=0x2e
+Label=CARLEY JONES FLORAL DESIGN
+StreetDesc=250 Forbury Rd St Clair Dud 9012 New Zealand/ Dunedin florists & flower shop spe
+Phone=+6434556545
+zip=9:30am – 4:00pm, Tuesday – Friday: 9:30 
+Data0=(-45.91159,170.49026)
+[END]
+
+;1191447
+[POI]
+Type=0x2c0a
+Label=GEORGES MICHEL ESTATE
+StreetDesc=56 Vintage Lane, Blenheim, New Zealand/ Winery, cellar door
+Phone=+6435727230
+Data0=(-41.48955,173.83617)
+[END]
+
+;1191448
+[POI]
+Type=0x2c0a
+Label=FORREST ESTATE WINE
+StreetDesc=19 Blicks Lane Renwick Marlborough/ Winery, cellar door
+Phone=+6435729084
+zip=10 am to 4.30 pm, 7 days
+Data0=(-41.49827,173.82101)
+[END]
+
+;1191449
+[POI]
+Type=0x2c0a
+Label=HUIA VINEYARDS
+StreetDesc=22 Boyces Rd, Blenheim/ Winery,
+Phone=+6435728326
+Data0=(-41.50935,173.94035)
+[END]
+
+;1191450
+[POI]
+Type=0x2c0a
+Label=ROCK FERRY WINES
+StreetDesc=66 Jeffries Rd, Rapaura, Blenheim/ Winery, cellar door
+Phone=+35796430
+Data0=(-41.47674,173.84535)
+[END]
+
+;1191451
+[POI]
+Type=0x2c0a
+Label=GIBSON BRIDGE WINERY AND VINEYARD,
+StreetDesc=Corner Gee St & SH6 Renwick/ Winery, cellar door
+Phone=+6435725180
+zip=11am - 5pm daily
+Data0=(-41.50623,173.81901)
+[END]
+
+;1191452
+[POI]
+Type=0x2c0a
+Label=NAUTILUS ESTATE WINES
+StreetDesc=12 Rapaura Rd Renwick, Marlborough/ Winery, cellar door
+Phone=+35726008
+zip=10am - 4.30pm 7 days
+Data0=(-41.48670,173.81854)
+[END]
+
+;1191453
+[POI]
+Type=0x2c0a
+Label=SANCTUARY WINES
+StreetDesc=13 Waihopai Valley Rd, Renwick, Marlborough/ Winery
+Phone=+35728200
+Data0=(-41.51677,173.79758)
+[END]
+
+;1191454
+[POI]
+Type=0x2c0a
+Label=TE WHARE RA WINES
+StreetDesc=56 Anglesea St Renwick Marlborough/ Winery, cellar door
+Phone=+35728581
+zip=Summer OCT-MAR 11:00AM-4:30PM Winter by 
+Data0=(-41.51119,173.81617)
 [END]
 

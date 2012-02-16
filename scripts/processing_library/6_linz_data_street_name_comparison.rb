@@ -5,6 +5,8 @@ read the LINZ Data Service output tile and the NZOGPS tile and report on the dif
 expects that the LinzDataService data has been processed already to form the -LINZ.mp tiles
 =end
 
+require '..\linzdataservice\nzogps_library.rb'
+
 def process_polish_buffer(buffer)
   linzid, street_name, street_name_2 = nil
   
@@ -30,9 +32,9 @@ def process_polish_buffer(buffer)
   street_name = "#{street_name}".squeeze(' ').strip.upcase
   street_name_2 = "#{street_name_2}".squeeze(' ').strip.upcase
   
-  if official_street_name == street_name then
+  if (official_street_name == street_name)||(official_street_name == doContractions(street_name)) then
     match = true
-  elsif official_street_name == street_name_2 then
+  elsif (official_street_name == street_name_2)||(official_street_name == doContractions(street_name_2)) then
     match = true
   elsif street_name =~ /~\[0x2d\](.+)/i || street_name_2 =~ /~\[0x2d\](.+)/i then
     highway_number = $1

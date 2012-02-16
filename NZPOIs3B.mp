@@ -11231,7 +11231,7 @@ Data0=(-43.51764,172.70130)
 ;1038689
 [POI]
 Type=0x2f01
-Label=MOBIL BEALEY AVE
+Label=MOBIL BEALEY AVE (CLOSED DUE TO EARTHQUAKE)
 StreetDesc=268-270 Bealey Ave, Chc/ Mobil petrol station, LPG, carwash
 Data0=(-43.52107,172.64520)
 [END]
@@ -11242,14 +11242,6 @@ Type=0x2f01
 Label=MOBIL CREYKE ROAD
 StreetDesc=106-108 Creyke Rd, Fendalton, Chc/ Mobil petrol station
 Data0=(-43.51945,172.57959)
-[END]
-
-;1038822
-[POI]
-Type=0x2f01
-Label=MOBIL ESTUARY ENERGY CENTRE
-StreetDesc=1105 Ferry Rd, Ferrymead, Chc/ Mobil petrol station, LPG, carwash
-Data0=(-43.55821,172.70728)
 [END]
 
 ;1038829
@@ -11279,7 +11271,7 @@ Data0=(-43.54025,172.61715)
 ;1039053
 [POI]
 Type=0x2f01
-Label=MOBIL MADRAS ST
+Label=MOBIL MADRAS ST (CLOSED DUE TO EARTHQUAKE)
 StreetDesc=Cnr Tuam & Madras St, Chc/ Mobil petrol station, carwash
 Data0=(-43.53551,172.64241)
 [END]
@@ -11388,14 +11380,6 @@ Type=0x2f01
 Label=MOBIL WIGRAM
 StreetDesc=243 Main South Rd, Hornby, Chc/ Mobil petrol station, LPG, carwash
 Data0=(-43.54345,172.54634)
-[END]
-
-;1039578
-[POI]
-Type=0x2f01
-Label=MOBIL WOOLSTON
-StreetDesc=619 Ferry Rd, Woolston, Chc/ Mobil petrol station
-Data0=(-43.54732,172.67958)
 [END]
 
 ;1039585
@@ -14360,15 +14344,6 @@ Label=HARVEY NORMAN INVERCARGILL
 StreetDesc=245 Tay St, Invercargill/ Electrical, Computers, Appliances, Furniture, Whitewar
 Phone=+6432199100
 Data0=(-46.41322,168.36372)
-[END]
-
-;1049602
-[POI]
-Type=0x2e0b
-Label=HARVEY NORMAN CHRISTCHURCH
-StreetDesc=250 Moorhouse Ave, Chc/ Electrical, Computers, Appliances, Furniture, Whiteware,
-Phone=+6433532440
-Data0=(-43.54014,172.63458)
 [END]
 
 ;1049609
@@ -28925,9 +28900,10 @@ Data0=(-45.05361,169.67299)
 [POI]
 Type=0x2b01
 Label=OMAKAU COMMERCIAL HOTEL
-StreetDesc=1 Harvey St, Omakau/ Hotel
+StreetDesc=1 Harvey St, Omakau/ Historic Hotel located in Omakau, close to the Otago Centra
 Phone=+6434473715
-Data0=(-45.09407,169.60162)
+zip=11 am till late - Hours vary depending o
+Data0=(-45.09419,169.60164)
 [END]
 
 ;1091952
@@ -31762,11 +31738,11 @@ Data0=(-43.52139,172.69876)
 
 ;1094773
 [POI]
-Type=0x2f
+Type=0x2e
 Label=THE ECO SHOP
-StreetDesc=191 Blenheim Rd, Chc/ Recycling
+StreetDesc=191 Blenheim Rd, Chc/ Recycling & second hand goods
 Phone=+6439828467
-zip=Open 7 Days: 9am-5pm
+zip=7 Days: 9am-5pm
 Data0=(-43.53805,172.59171)
 [END]
 
@@ -37381,11 +37357,11 @@ Data0=(-41.51797,173.95846)
 
 ;1099401
 [POI]
-Type=0x2f
-Label=BLUEBRIDGE FERRY
-StreetDesc=Picton/ Ferry Shipping
+Type=0x2f08
+Label=BLUEBRIDGE COOK STRAIT FERRY CHECK IN
+StreetDesc=Picton/ Ferry, Cook Straight Ferry, Vehicle and Passenger Ferry
 Phone=0800844844
-Data0=(-41.28461,174.00466)
+Data0=(-41.28942,174.00051)
 [END]
 
 ;1099402
@@ -39179,7 +39155,7 @@ Data0=(-45.85837,170.51273)
 [POI]
 Type=0x2c0a
 Label=ALLAN SCOTT WINES & ESTATES LTD
-StreetDesc=Jacksons Rd, RD 3, Blenheim/ Winery, cellar door tastings & sales
+StreetDesc=Jacksons Rd, RD 3, Blenheim/ Winery, cellar door tastings & sales, Restaurant
 Phone=+6435729054
 zip=Mon-Fri 0900-1700
 Data0=(-41.49188,173.87573)
@@ -43366,7 +43342,7 @@ Data0=(-41.51796,173.76287)
 [POI]
 Type=0x2c0a
 Label=CLOUDY BAY VINEYARDS
-StreetDesc=Jacksons Rd, Blenheim/ Winery, cellar door, tastings
+StreetDesc=Jacksons Rd, Blenheim/ Winery, cellar door, tastings, Restaurant
 Phone=+6435209147
 zip=Daily 10am-5pm
 Data0=(-41.49132,173.87630)
@@ -45392,7 +45368,7 @@ Data0=(-45.25672,169.37553)
 [POI]
 Type=0x2c0a
 Label=DRYLANDS ESTATE WINERY
-StreetDesc=Hammerichs Rd, Blenheim/ Winery, cellar door
+StreetDesc=Hammerichs Rd, Blenheim/ Winery, cellar door, Restaurant
 Phone=+6435705252
 zip=Mon-Sun 1000-1700
 Data0=(-41.48233,173.90660)
@@ -47494,11 +47470,11 @@ Data0=(-43.54366,172.56098)
 
 ;1105840
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=FROMM WINERY LA STRADA
-StreetDesc=Godfrey Rd, RD 2, Blenheim/ 
+StreetDesc=Godfrey Rd, RD 2, Blenheim/ Winery, cellar door
 Phone=+6435729355
-zip=Mon-Fri 0900-1700
+zip=Mon-Fri 1100-1700
 Data0=(-41.51467,173.84593)
 [END]
 
@@ -49756,7 +49732,7 @@ Data0=(-41.33341,173.18726)
 [POI]
 Type=0x2c0a
 Label=HUNTER'S WINES (NZ) LTD
-StreetDesc=Rapaura Rd, Blenheim/ Winery, cellar door
+StreetDesc=Rapaura Rd, Blenheim/ Winery, cellar door, Restaurant
 Phone=+6435728489
 zip=Daily 9.30 - 4.30
 Data0=(-41.47561,173.88715)
@@ -50580,6 +50556,7 @@ Type=0x2c0a
 Label=JACKSON ESTATE
 StreetDesc=22 Liverpool St, Riverlands, Blenheim/ Winery,
 Phone=+6435795523
+zip=Tastings by Appointment
 Data0=(-41.53294,174.01104)
 [END]
 
@@ -52538,15 +52515,6 @@ StreetDesc=10C Sheffield Cres, Chc/
 Phone=+6433589223
 zip=Mon-Fri 0800am - 1700pm
 Data0=(-43.49092,172.56297)
-[END]
-
-;1108955
-[POI]
-Type=0x2c0a
-Label=MAHI WINES LTD
-StreetDesc=78 Hawkesbury Rd, Renwick,Marlborough/ Vinyards, Winery
-Phone=+6435728859
-Data0=(-41.52157,173.81682)
 [END]
 
 ;1108964
@@ -56789,6 +56757,15 @@ Label=PERFECT PACKAGING LTD
 StreetDesc=Unit 9, 20 Dakota Cres, Sockburn, Chc/ 
 Phone=+6433790890
 Data0=(-43.54232,172.55589)
+[END]
+
+;1111453
+[POI]
+Type=0x2f
+Label=PEST MANAGEMENT SERVICES LTD
+StreetDesc=Unit 3, 4-6 O'Briens Rd, Chc/ 
+Phone=+6433489293
+Data0=(-43.53641,172.54880)
 [END]
 
 ;1111454
@@ -61076,10 +61053,11 @@ Data0=(-46.44207,168.35338)
 
 ;1113792
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=STAETE LANDT VINEYARDS
-StreetDesc=275 Rapaura Rd, R D 3, Blenheim/ 
+StreetDesc=275 Rapaura Rd, Blenheim/ Winery, cellar door
 Phone=+6435729886
+zip=11.00am - 4.00pm Mon - Fri - Weekends by
 Data0=(-41.48237,173.84682)
 [END]
 
@@ -65009,7 +64987,7 @@ Data0=(-41.51507,173.95663)
 [POI]
 Type=0x2f
 Label=WINTON STOCK FEED
-StreetDesc=39 Great North Rd, Winton/ 
+StreetDesc=156 Florence Rd, Winton/ NZ's Independant Molasses Importers
 Phone=+6432366089
 Data0=(-46.15261,168.32974)
 [END]
@@ -65036,7 +65014,7 @@ Data0=(-43.50970,172.64619)
 [POI]
 Type=0x2c0a
 Label=WITHER HILLS VINEYARDS MARLBOROUGH LTD
-StreetDesc=211 New Renwick Rd, Blenheim/ Winery, tasting room, cellar door, private functio
+StreetDesc=211 New Renwick Rd, Blenheim/ Winery, tasting room, cellar door, Restaurant for 
 Phone=+6435784036
 zip=7 days - 10:00am - 4:30pm
 Data0=(-41.53073,173.91763)
@@ -81204,6 +81182,7 @@ Type=0x2c05
 Label=GUMDROPS EARLY LEARNING CENTRE
 StreetDesc=477 Greers Rd, Bishopdale, Chc/ Childcare Centre
 Phone=+6433523604
+zip=7.30am-5.30pm, Monday to Friday
 Data0=(-43.48627,172.59725)
 [END]
 
@@ -99195,14 +99174,6 @@ StreetDesc=106 Victoria St, Chc/ restaurant, bar
 Data0=(-43.52302,172.62978)
 [END]
 
-;1131632
-[POI]
-Type=0x2a0e
-Label=MOKKA ESPRESSO BAR
-StreetDesc=250 Moorhouse Ave, Chc/ cafe, bar
-Data0=(-43.54014,172.63458)
-[END]
-
 ;1131633
 [POI]
 Type=0x2a0e
@@ -102828,14 +102799,6 @@ StreetDesc=235 Riccarton Rd, Chc/ kebabs, souvlaki
 Data0=(-43.53085,172.58758)
 [END]
 
-;1132116
-[POI]
-Type=0x2f
-Label=THE LITTLE CURIOSITY SHOP
-StreetDesc=8 Somerfield St, Somerfield, Chc/ 
-Data0=(-43.56326,172.62655)
-[END]
-
 ;1132117
 [POI]
 Type=0x2d02
@@ -106027,10 +105990,10 @@ Data0=(-40.88223,172.81223)
 
 ;1134118
 [POI]
-Type=0x2f
-Label=INTERISLANDER FERRY VEHICLE CHECKIN PICTON
-StreetDesc=Picton/ ferry
-Data0=(-41.28858,174.00265)
+Type=0x2f08
+Label=INTERISLANDER COOK STRAIT FERRY VEHICLE CHECK IN PICTON
+StreetDesc=Picton/ Ferry, Cook Straight Ferry, Vehicle and Passenger Ferry
+Data0=(-41.28816,174.00258)
 [END]
 
 ;1134121
@@ -118655,7 +118618,7 @@ Data0=(-45.09646,170.93465)
 Type=0x2a0e
 Label=KAHU CAFE
 StreetDesc=68 Airport Rd, Omarama/ Licensed cafe
-Data0=(-44.48648,169.97779)
+Data0=(-44.48654,169.97890)
 [END]
 
 ;1139180
@@ -141082,8 +141045,10 @@ Data0=(-44.73361,171.04660)
 ;1151803
 [POI]
 Type=0x2d02
-Label=FAIRWEATHER ON SCOTT
-StreetDesc=36 Scott St, Blenheim, Marlborough/ 
+Label=FAIRWEATHERS ON SCOTT
+StreetDesc=36 Scott St, Blenheim, Marlborough/ Bar, restaurant
+Phone=+6435794800
+zip=7.30am (or earlier by prior arrangement)
 Data0=(-41.51555,173.95668)
 [END]
 
@@ -148708,14 +148673,6 @@ Phone=+6434774579
 Data0=(-45.86934,170.50600)
 [END]
 
-;1157590
-[POI]
-Type=0x2f
-Label=KEVIN EDER CONSULTING
-StreetDesc=Moorhouse Ave, Chc/ New Zealand Public Speaking & Business Coaching
-Data0=(-43.53983,172.63454)
-[END]
-
 ;1157592
 [POI]
 Type=0x2f
@@ -149988,15 +149945,6 @@ StreetDesc=Shop 37, Northlands Shopping Ctr, 55 Main North Rd, Papanui, Chc/ Chi
 Phone=+6433524107
 zip=Mon-Wed 9am-6pm, Thu-Fri 9-9pm, Sat-Sun 
 Data0=(-43.49193,172.61037)
-[END]
-
-;1158093
-[POI]
-Type=0x2e07
-Label=PUMPKIN PATCH OUTLET STORE CHRISTCHURCH MOORHOUSE AVE
-StreetDesc=Harvey Norman Ctr, 250 Moorhouse Ave, Chc/ Outlet store. Childrens fashion, boy 
-zip=Mon-Sat 9am-5pm, Sun 10am-5pm
-Data0=(-43.54014,172.63458)
 [END]
 
 ;1158094
@@ -153438,6 +153386,8 @@ Data0=(-44.65742,169.21606)
 Type=0x2b00
 Label=MCCORMICK HOUSE LUXURY ACCOMMODATION
 StreetDesc=21 Leicester St, Picton/ Accommodation
+Phone=+6435735253
+zip=8am to 10pm
 Data0=(-41.28270,174.02272)
 [END]
 
@@ -158799,7 +158749,7 @@ Data0=(-45.86471,170.48546)
 [POI]
 Type=0x2f
 Label=MONTESSORI HOUSE OF CHILDREN - BLENHEIM
-StreetDesc=5 Francis St, Blenheim/ 
+StreetDesc=5 Francis St, Blenheim/ Preschool education
 Phone=+6435778443
 Data0=(-41.51705,173.95595)
 [END]
@@ -161835,8 +161785,9 @@ Data0=(-43.49664,172.21275)
 [POI]
 Type=0x2c0a
 Label=SPY VALLEY WINES
-StreetDesc=37 Lake Timara Rd, Blenheim/ Winery
+StreetDesc=37 Lake Timara Rd, Blenheim/ Winery, cellar door
 Phone=+6435729840
+zip=10am - 4pm 7 Days - Summer
 Data0=(-41.52911,173.79626)
 [END]
 
@@ -164887,9 +164838,11 @@ Data0=(-45.89733,170.52947)
 ;1166090
 [POI]
 Type=0x2f
-Label=CHILDRENS SPECIALIST CENTRE
-StreetDesc=249 Papanui Rd, Chc/ 
-Data0=(-43.50984,172.61939)
+Label=CHILDREN'S SPECIALIST CENTRE
+StreetDesc=58 Colombo St, Cashmere, Chc 8022/ Paediatric specialists
+Phone=+6433379470
+zip=Mon-Thu 9am-5pm, Fri 9am-12pm
+Data0=(-43.56220,172.63725)
 [END]
 
 ;1166091
@@ -166605,7 +166558,8 @@ Data0=(-45.09531,170.97026)
 [POI]
 Type=0x2f
 Label=ELANZ CLINIC
-StreetDesc=24 George St, Blenheim/ 
+StreetDesc=24 George St, Blenheim/ Skin Clinic
+Phone=+6435781665
 Data0=(-41.51420,173.95484)
 [END]
 
@@ -166994,7 +166948,8 @@ Data0=(-44.68583,169.14455)
 [POI]
 Type=0x2f
 Label=GEORGE STREET MEDICAL
-StreetDesc=24 George St, Blenheim, Marlborough/ 
+StreetDesc=24 George St, Blenheim, Marlborough/ Medical Centre
+Phone=+6435778757
 Data0=(-41.51420,173.95484)
 [END]
 
@@ -168686,7 +168641,8 @@ Data0=(-44.51892,171.19674)
 [POI]
 Type=0x2f
 Label=MAATAA WAKA KI TE TAU IHU TRUST CLINIC
-StreetDesc=82 Seymour St, Blenheim, Marlborough/ 
+StreetDesc=82 Seymour St, Blenheim, Marlborough/ Kaupapa Māori Health Provider
+Phone=+6435779256
 Data0=(-41.51657,173.95598)
 [END]
 
@@ -170103,9 +170059,10 @@ Data0=(-45.87922,170.50105)
 ;1168723
 [POI]
 Type=0x2f
-Label=PACIFIC HEALTH CLINIC
-StreetDesc=163 Worcester Steet, Chc/ 
-Data0=(-43.53081,172.64124)
+Label=PACIFIC HEALTH CENTRE
+StreetDesc=L One, 177 Montreal St, Chc/ General practice, doctors, health clinic
+Phone=+6433778159
+Data0=(-43.53842,172.62959)
 [END]
 
 ;1168749
@@ -175628,15 +175585,6 @@ Label=LAKE WANAKA CRUISES
 StreetDesc=82 Meadowstone Dr, Lake wanaka/ Tourist attraction & visitor activity
 Phone=+6434431230
 Data0=(-44.69424,169.13418)
-[END]
-
-;1171503
-[POI]
-Type=0x2c00
-Label=LASER STRIKE
-StreetDesc=L 2, Harvey Norman Ctr, 250 Moorhouse Ave, Chc/ Tourist attraction & visitor act
-Phone=+6433667595
-Data0=(-43.54015,172.63457)
 [END]
 
 ;1171505
@@ -188326,11 +188274,11 @@ Data0=(-45.02613,168.69474)
 ;1176992
 [POI]
 Type=0x2f
-Label=BVT CONSULTING LTD
-StreetDesc=170 Wordsworth St, Sydenham, Chc/ Design and Certifying Mechanical Engineering C
-Phone=+6436690748
+Label=BVT MECHANICAL ENGINEERING CONSULTANTS
+StreetDesc=170 Wordsworth St, Sydenham, Chc/ New Zealand's leading Plant, Equipment and Mac
+Phone=+6433717593
 zip=8am-5.30pm Monday to Friday
-Data0=(-43.54486,172.64364)
+Data0=(-43.54486,172.64369)
 [END]
 
 ;1176995
@@ -188850,7 +188798,7 @@ Data0=(-45.88152,170.49760)
 Type=0x2f
 Label=CRAZY DAVE
 StreetDesc=Blenheim Sq, 227 Blenheim Rd, Riccarton, Chc/ Fresh fruit, vegetables
-Phone=+6433659535
+Phone=+6433436234
 zip=Mon-Sat 8.30am-6pm, Sun 9am-5.30pm
 Data0=(-43.53851,172.58823)
 [END]
@@ -193260,10 +193208,10 @@ Data0=(-45.87587,170.34858)
 [POI]
 Type=0x2f
 Label=EDINBURGH REALTY LTD 24HR
-StreetDesc=123b Gordon Rd, Mosgiel, 9024/ Real Estate Agents, Mosgiel, Dunedin, Jenny Lambe
+StreetDesc=123b Gordon Rd, Mosgiel 9024/ Real Estate Agents
 Phone=+6434895444
-zip=Office = 9 - 5 Mon-Fri | Agents = 24/7
-Data0=(-45.87498,170.34849)
+zip=Office: 9am-5pm Mon-Fri | Agents: 24/7
+Data0=(-45.87500,170.34841)
 [END]
 
 ;1179687
@@ -194618,8 +194566,9 @@ Data0=(-41.37769,173.11208)
 [POI]
 Type=0x2e07
 Label=CARVIN STREETWEAR
-StreetDesc=84 Main St, Gore 9712, Southland/ Clothes, Zenbu Wi-Fi wireless internet, cheap,
+StreetDesc=84 Main St, Gore 9712, Southland/ Clothes, Skate-wear, Surf-wear, Footwear, Acce
 Phone=+6432089165
+zip=Mon - Fri 9am - 5.30pm / Sat 10am - 1pm
 Data0=(-46.10059,168.94425)
 [END]
 
@@ -195660,7 +195609,7 @@ Data0=(-41.53023,173.95559)
 [POI]
 Type=0x2c0a
 Label=HIGHFIELD ESTATE
-StreetDesc=27 Brookby Rd Hawkesbury/ Winery, cellar door
+StreetDesc=27 Brookby Rd Hawkesbury/ Winery, cellar door, Restaurant
 Phone=+6435729244
 zip=10am to 5pm
 Data0=(-41.52851,173.83738)
@@ -195758,7 +195707,9 @@ Data0=(-41.51753,173.95725)
 [POI]
 Type=0x2a02
 Label=BAMBOO GARDEN RESTAURANT
-StreetDesc=31 Maxwell Rd, Blenheim/ 
+StreetDesc=31 Maxwell Rd, Blenheim/ Restaurant
+Phone=+6435791118
+zip=Lunch 11-3 Dinner from 5.30 pm
 Data0=(-41.51607,173.95414)
 [END]
 
@@ -195807,7 +195758,8 @@ Data0=(-41.51492,173.95661)
 [POI]
 Type=0x2a
 Label=BELLAFICO RESTAURANT & WINE BAR
-StreetDesc=17 A Maxwell Rd, Blenheim/ 
+StreetDesc=17 A Maxwell Rd, Blenheim/ Restaurant
+Phone=+6435776072
 Data0=(-41.51491,173.95579)
 [END]
 
@@ -195815,7 +195767,8 @@ Data0=(-41.51491,173.95579)
 [POI]
 Type=0x2a02
 Label=VILLAGE INDIA RESTAURANT & BAR
-StreetDesc=17 B Maxwell Rd, Blenheim/ 
+StreetDesc=17 B Maxwell Rd, Blenheim/ Indian food
+Phone=+6435775000
 Data0=(-41.51491,173.95579)
 [END]
 
@@ -195832,7 +195785,7 @@ Data0=(-41.51487,173.95515)
 [POI]
 Type=0x2d02
 Label=SCOTCH WINE BAR & BISTRO
-StreetDesc=4 George St, Blenheim/ Wine Bar
+StreetDesc=4 George St, Blenheim/ Restaurant Wine Bar
 Phone=+6435791176
 zip=Mon - Sat from 5pm
 Data0=(-41.51435,173.95585)
@@ -195866,15 +195819,17 @@ Data0=(-41.51410,173.95574)
 [POI]
 Type=0x2a0e
 Label=CHANTILLY COFFEE LOUNGE
-StreetDesc=77 Queen St, Blenheim/ 
+StreetDesc=77 Queen St, Blenheim/ Cafe
+Phone=+6435783750
 Data0=(-41.51462,173.95568)
 [END]
 
 ;1181223
 [POI]
-Type=0x2f
+Type=0x2a
 Label=GRANNYS SWEET TOOTH
-StreetDesc=73 Queen St, Blenheim/ 
+StreetDesc=73 Queen St, Blenheim/ Cakes, Cocolate etc
+Phone=+6435794657
 Data0=(-41.51458,173.95564)
 [END]
 
@@ -196189,9 +196144,11 @@ Data0=(-41.50764,173.82833)
 
 ;1181263
 [POI]
-Type=0x2f
-Label=MAHI
-StreetDesc=9 Terrace Rd, Renwick/ 
+Type=0x2c0a
+Label=MAHI WINES
+StreetDesc=9 Terrace Rd, Renwick/ Winery, cellar door
+Phone=+35728859
+zip=10 am to 4.30 pm, 7 days
 Data0=(-41.50662,173.81762)
 [END]
 
@@ -196613,6 +196570,16 @@ Type=0x2f
 Label=HOOK & SINKER
 StreetDesc=14 Ruataniwha Place, Okiwi Bay, Croisilles/ 
 Data0=(-41.11605,173.66466)
+[END]
+
+;1181322
+[POI]
+Type=0x2a
+Label=THE WINERY
+StreetDesc=3430 SH 1 Riverlands/ Winery, cellar door, Restaurant
+Phone=+35206902
+zip=10 am to 4.30 pm, 7 days
+Data0=(-41.53192,174.01760)
 [END]
 
 ;1181324
@@ -202069,7 +202036,7 @@ Data0=(-43.54353,172.62817)
 [POI]
 Type=0x2f
 Label=JASON DOWDEN PROPERTY VALUATION
-StreetDesc=484 Riccarton Rd Mosgiel 9092 New Zealand/ Property valuers for residential, com
+StreetDesc=484 Riccarton Rd Mosgiel Dud 9092 New Zealand/ Property valuers for residential,
 Phone=+6434890554
 zip=Monday – Friday, 8:30 – 5:30
 Data0=(-45.85105,170.30901)
@@ -202827,31 +202794,13 @@ Phone=+6435727230
 Data0=(-41.48955,173.83617)
 [END]
 
-;1191448
-[POI]
-Type=0x2c0a
-Label=FORREST ESTATE WINE
-StreetDesc=19 Blicks Lane Renwick Marlborough/ Winery, cellar door
-Phone=+6435729084
-zip=10 am to 4.30 pm, 7 days
-Data0=(-41.49827,173.82101)
-[END]
-
-;1191449
-[POI]
-Type=0x2c0a
-Label=HUIA VINEYARDS
-StreetDesc=22 Boyces Rd, Blenheim/ Winery,
-Phone=+6435728326
-Data0=(-41.50935,173.94035)
-[END]
-
 ;1191450
 [POI]
 Type=0x2c0a
 Label=ROCK FERRY WINES
 StreetDesc=66 Jeffries Rd, Rapaura, Blenheim/ Winery, cellar door
 Phone=+35796430
+zip=10 - 4 Mon - Fri
 Data0=(-41.47674,173.84535)
 [END]
 
@@ -202892,5 +202841,118 @@ StreetDesc=56 Anglesea St Renwick Marlborough/ Winery, cellar door
 Phone=+35728581
 zip=Summer OCT-MAR 11:00AM-4:30PM Winter by 
 Data0=(-41.51119,173.81617)
+[END]
+
+;1191475
+[POI]
+Type=0x2b03
+Label=?DANSEYS PASS CAMPSITE (DOC)
+StreetDesc=-44.981784,170.294373/ DOC camping camp area
+Phone=+34402040
+Data0=(-44.98178,170.29437)
+[END]
+
+;1191481
+[POI]
+Type=0x2f
+Label=STRESS RELEASE PHYSIOTHERAPY
+StreetDesc=65 Major Hornbrook Rd, Mt Pleasant,Chc/ learn to relax and breathe with ease
+Phone=+6433764588
+Data0=(-43.56204,172.71664)
+[END]
+
+;1191484
+[POI]
+Type=0x2f
+Label=THE FIREMAN LTD
+StreetDesc=4/1 Settlers Cres, Ferrymead, Chc/ At The Fireman we have a passion for complete
+Phone=0800347362
+zip=Mon - Fri 8.30am to 5pm
+Data0=(-43.55806,172.70406)
+[END]
+
+;1191495
+[POI]
+Type=0x2f
+Label=ENOW BUSINESS SUCCESS ONLINE
+StreetDesc=175 Montreal St, Chc CBD/ Search engine optimisation, SEO services, website desi
+Phone=+6436692003
+zip=Business Hours Monday to Friday
+Data0=(-43.53841,172.63001)
+[END]
+
+;1191496
+[POI]
+Type=0x2c0a
+Label=VILLA MARIA
+StreetDesc=Cnr Paynters & New Renwick Rd Blenheim/ Winery, cellar door
+Phone=+6435208284
+zip=10am - 5pm 7 Days
+Data0=(-41.53088,173.88431)
+[END]
+
+;1191497
+[POI]
+Type=0x2c0a
+Label=CLARK ESTATE
+StreetDesc=1829 Awatere Valley Rd Seddon 7240/ Winery
+Phone=+35757954
+Data0=(-41.71925,173.89421)
+[END]
+
+;1191498
+[POI]
+Type=0x2c0a
+Label=BRANCOTT ESTATE HERITAGE CENTRE
+StreetDesc=180 Brancott Rd, Blenheim/ Winery, cellar door, Restaurant
+Phone=+35206975
+zip=10 am to 4.30 pm, 7 days
+Data0=(-41.54406,173.85112)
+[END]
+
+;1191505
+[POI]
+Type=0x2b03
+Label=WOODEND CHRISTIAN CAMP
+StreetDesc=124 Woodend Beach Rd/ Christian Camp
+Phone=+6433127149
+Data0=(-43.33499,172.69081)
+[END]
+
+;1191506
+[POI]
+Type=0x2a
+Label=IL PICCOLO RISTORANTE ITALIANO
+StreetDesc=8 Somerfield St, Somerfield, Chc/ Italian restaurant
+Phone=+6433379424
+zip=Wed-Sun from 5pm
+Data0=(-43.56328,172.62651)
+[END]
+
+;1191515
+[POI]
+Type=0x2e
+Label=WOODWRIGHTS DIRECT - DISTINCTION IN FURNITURE
+StreetDesc=33 College St, Motueka, Tasman/ nz, new zealand, woodwrights, nelson, motueka, w
+zip=9am - 5pm Monday to Friday
+Data0=(-41.12378,172.99062)
+[END]
+
+;1191516
+[POI]
+Type=0x2f
+Label=CLASSIC COOKERS
+StreetDesc=151 Bramleys Rd, Kaiapoi, New Zealand/ Cooking and Heating Systems Christchurch
+Phone=+6433106534
+Data0=(-43.34586,172.63061)
+[END]
+
+;1191517
+[POI]
+Type=0x2f
+Label=PACIFIC TRUST CANTERBURY
+StreetDesc=177 Montreal St, Chc/ 
+Phone=+6433663900
+Data0=(-43.53840,172.62965)
 [END]
 

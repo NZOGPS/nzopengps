@@ -13,23 +13,54 @@ rescue LoadError
   exit
 end
 
+begin
+  require 'pg'
+rescue LoadError
+  puts "Gem missing. Please run: gem install pg\n" 
+  exit
+end
+
+def load_config
+
+  require 'yaml'
+  config_path = "config.yml"
+  if File.exist?(config_path)
+    raw_config = File.read(config_path)
+    @app_config = YAML.load(raw_config)
+  else
+    print "#{config_path} missing.\n"
+    exit
+  end
+  
+  if @app_config['gpsbabel']['execute_inline'] == true then
+    @gpsbabel_path = @app_config['gpsbabel']['path']
+    if @gpsbabel_path.empty? then
+      print "GPSbabel path not found in #{config_path}.\n"
+    elsif !File.exist?(@gpsbabel_path) then
+      print "GPSbabel not found at provided path #{@gpsbabel_path}.\n"
+    else
+      @do_compile = true
+      print "Do inline gdb compilation? Yes. Using: #{@gpsbabel_path}\n"
+    end
+  else
+    print "Do inline gdb compilation? No.\n"
+  end
+
+end
 
 def process_polish_buffer(buffer)
 end
 
 def pre_processing()
 
+  load_config()
+
   top,right,bottom,left = @bounds
   sql_query = "SELECT address, to_char(st_x(the_geom),'9999D999999'), to_char(st_y(the_geom),'9999D999999'), rna_id FROM \"nz-street-address-elector\" WHERE ST_Contains(ST_SetSRID(ST_MakeBox2D(ST_Point(#{left}, #{bottom}), ST_Point(#{right} ,#{top})),#{WORKING_SRID}), the_geom);"
   require '..\linzdataservice\nzogps_library.rb'
-  require 'pg'
-  require 'yaml'
-  
-  raw_config = File.read("config.yml")
-  app_config = YAML.load(raw_config)
   
   begin
-  @conn = PGconn.connect("localhost", 5432, "", "", "nzopengps", "postgres", app_config['postgres']['password'])
+  @conn = PGconn.connect("localhost", 5432, "", "", "nzopengps", "postgres", @app_config['postgres']['password'])
   rescue
     if $! == 'Invalid argument' then
       retry #bollocks error
@@ -81,16 +112,14 @@ def pre_processing()
   end
   
   print "Finish Database query = #{Time.now}\n"
-   @reporting_file.print "Finish Database query = #{Time.now}\n"
+  @reporting_file.print "Finish Database query = #{Time.now}\n"
 
-  print "\nCompile to gdb with\n"
-  gdb_path = File.join(File.dirname(@output_file_path),File.basename(@output_file_path, '.gpx'))
-  gpsbabel_path = app_config['gpsbabel']['path']
-  gpsbabel_exec_command = "\"#{gpsbabel_path}\" -i gpx -o gdb -f \"#{@output_file_path}\" -F \"#{gdb_path}.gdb\"\n"
-  print gpsbabel_exec_command
-  
-  if app_config['gpsbabel']['execute_inline'] then
-    print "Compiling...\n"
+  if @do_compile then
+    print "\nCompile to gdb with\n"
+    gdb_path = File.join(File.dirname(@output_file_path),File.basename(@output_file_path, '.gpx'))
+    gpsbabel_exec_command = "\"#{@gpsbabel_path}\" -i gpx -o gdb -f \"#{@output_file_path}\" -F \"#{gdb_path}.gdb\""
+    
+    print "#{gpsbabel_exec_command}\nCompiling...\n"
     system(gpsbabel_exec_command)
   end
   

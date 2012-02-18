@@ -55,7 +55,7 @@ def load_processing_library(processing_library)
 
 end
 # #####################################
-def load_paths
+def load_paths(processing_library)
   @base = File.expand_path(File.dirname(__FILE__)) #this folder
   #print "@base = #{@base}\n"
 
@@ -68,7 +68,7 @@ def load_paths
   if !File.exists?(@this_file) then raise "input missing #{@this_file}\n" end
   
   @output_file_path = File.join(output_folder,"#{@tile}.mp")
-  @reporting_file_path = File.join(output_folder,"#{@tile}-report.txt")
+  @reporting_file_path = File.join(output_folder,"#{@tile}-report-#{processing_library}.txt")
 
   @reporting_file = File.open(@reporting_file_path, "w")
   print "Parsing: #{@this_file}\n"
@@ -123,7 +123,7 @@ begin
   print "library=#{library}; tile=#{tile}\n"
   
   choose_tile(tile)
-  load_paths
+  load_paths(library)
   
   load_processing_library(library)
   

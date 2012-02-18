@@ -261,3 +261,8 @@ NO SUFI			ARDEN ST		New Plymouth (Taranaki, NZ)
 45891	MANGAWAI ITI RD		Whanganui National Park (Manawatu-Wanganui, NZ)
 27382	RIVERBANK RD		Halcombe (Manawatu-Wanganui, NZ)
 27340	PARORANGI RD W		Halcombe (Manawatu-Wanganui, NZ)
+26232	TARU ST	Kaitieke(Manawatu-Wanganui,NZ)	2012/02/19 10:48	-39.098709,175.267761
+26241	IHAKA ST	Kaitieke(Manawatu-Wanganui,NZ)	2012/02/19 10:49	-39.099701,175.267075
+30384	MANIA ST	Kaitieke(Manawatu-Wanganui,NZ)	2012/02/19 10:49	-39.100830,175.268707
+26222	POA ST	Kaitieke(Manawatu-Wanganui,NZ)	2012/02/19 10:50	-39.099510,175.272766
+26273	MARAMA ST	Kaitieke(Manawatu-Wanganui,NZ)	2012/02/19 10:50	-39.098450,175.270294

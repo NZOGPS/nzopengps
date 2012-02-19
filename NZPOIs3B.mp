@@ -116295,6 +116295,7 @@ Data0=(-45.89681,170.53163)
 Type=0x2f
 Label=SPECIAL TOUCH BEAUTY MASSAGE
 StreetDesc=81 Lonsdale St, Dud/ Beautician
+Phone=+6434533022
 zip=By appointment Mondays to Fridays 8.00am
 Data0=(-45.87837,170.48084)
 [END]
@@ -134137,9 +134138,11 @@ Data0=(-43.49500,172.60651)
 ;1147069
 [POI]
 Type=0x2f
-Label=THE GROOM ROOM LIMITED
-StreetDesc=13 New Regent St, Chc/ Hairdresser
-Data0=(-43.52947,172.63861)
+Label=?THE GROOM ROOM
+StreetDesc=Now at Studholme St, Somerfield / Lower Cashmere, Chc/ Hairdresser / Mens Groomi
+Phone=+6433669212
+zip=Mon to Friday 9.30 to 5.30 Sat 8.30 to 2
+Data0=(-43.56792,172.62679)
 [END]
 
 ;1147070
@@ -168051,7 +168054,8 @@ Data0=(-43.52611,172.65429)
 [POI]
 Type=0x2f
 Label=JORDAN & ROBERTSON
-StreetDesc=38 Windsor St, Invercargill/ 
+StreetDesc=38 Windsor St, Invercargill/ Dentists
+Phone=+6432177134
 Data0=(-46.39629,168.36543)
 [END]
 
@@ -202954,5 +202958,33 @@ Label=PACIFIC TRUST CANTERBURY
 StreetDesc=177 Montreal St, Chc/ 
 Phone=+6433663900
 Data0=(-43.53840,172.62965)
+[END]
+
+;1191535
+[POI]
+Type=0x2a
+Label=EAT ON WINDSOR
+StreetDesc=38 Windsor St, Windsor, Invercargill/ Deli, cafe, restaurant, bar, functions. Ze
+Phone=+6432177722
+zip=7 days
+Data0=(-46.39634,168.36541)
+[END]
+
+;1191536
+[POI]
+Type=0x2e07
+Label=1903 MOTORCLOTHES
+StreetDesc=35 Manchester St, Chc, New Zealand/ Online Motorcycle Clothing Shop
+Phone=+6433660129
+Data0=(-43.53825,172.63924)
+[END]
+
+;1191540
+[POI]
+Type=0x2f
+Label=MOTORCENTRAL - MOTOR VEHICLE DEALERSHIP SOFTWARE
+StreetDesc=324 cashel St, Chc/ Dealership management software system. Motorcentral lets you
+Phone=0800623687
+Data0=(-43.53323,172.64874)
 [END]
 

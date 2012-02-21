@@ -31,7 +31,7 @@ sub process_road(){
 	}
 	
 	if ($label eq "SERVICE LANE"){
-		$type = "0x15";
+		$type = "0x07";
 		$route = "1,0,0,0,0,0,0,1,0,0,0,0";
 		$sufi = ";sufi=0\n";
 	}

@@ -8114,16 +8114,6 @@ zip=Mon - Fri, 8am - 7pm, Sat, 9am - 5pm, Su
 Data0=(-43.29790,172.19174)
 [END]
 
-;1029043
-[POI]
-Type=0x2e02
-Label=RANGIORA WOOLWORTHS
-StreetDesc=Cnr Queen & Victoria Sts, Rangiora/ supermarket
-Phone=+6433130510
-zip=Mon - Sun, 8am - 9pm
-Data0=(-43.30537,172.59515)
-[END]
-
 ;1029050
 [POI]
 Type=0x2e02
@@ -32317,67 +32307,64 @@ zip=Monday to Friday 9:00am to 5:30pm, Satur
 Data0=(-41.27260,173.28070)
 [END]
 
-;1095551
-[POI]
-Type=0x2e
-Label=TRENTS PAPANUI
-StreetDesc=167 Main North Rd, Papanui/ 
-Phone=+6433538674
-Data0=(-43.48558,172.61591)
-[END]
-
 ;1095552
 [POI]
 Type=0x2e
-Label=TRENTS GREYMOUTH
-StreetDesc=58 Arney St, Greymouth/ 
+Label=TRENTS CASH'N CARRY GREYMOUTH
+StreetDesc=68 Arney St, Greymouth/ Trents was established to target the supply of specialis
 Phone=+6437685139
-Data0=(-42.45049,171.20247)
+zip=Monday - Friday 8:00a.m. - 4:30p.m.
+Data0=(-42.45025,171.20258)
 [END]
 
 ;1095553
 [POI]
 Type=0x2e
-Label=TRENTS INVERCARGILL
-StreetDesc=Ettrick St, Invercargill/ 
+Label=TRENTS CASH'N CARRY INVERCARGILL
+StreetDesc=87 Ettrick St, Invercargill/ Trents was established to target the supply of spec
 Phone=+6432187059
-Data0=(-46.42036,168.34589)
+zip=Monday - Friday 8:00a.m. - 4:30p.m.
+Data0=(-46.42034,168.34633)
 [END]
 
 ;1095554
 [POI]
 Type=0x2e
-Label=TRENTS TIMARU
-StreetDesc=Hilton Highway, Timaru/ 
+Label=TRENTS CASH'N CARRY TIMARU
+StreetDesc=84 Hilton Highway, Timaru/ Trents was established to target the supply of specia
 Phone=+6436882053
+zip=Monday - Friday 8:00a.m. - 4:30p.m.
 Data0=(-44.36273,171.24158)
 [END]
 
 ;1095555
 [POI]
 Type=0x2e
-Label=TRENTS DUNEDIN
-StreetDesc=Midland St, Dud/ 
+Label=TRENTS CASH'N CARRY DUNEDIN
+StreetDesc=17 Midland St, Dud/ Trents was established to target the supply of specialist qu
 Phone=+6434664100
-Data0=(-45.89261,170.50974)
+zip=Monday - Friday 8:00a.m. - 4:30p.m.
+Data0=(-45.89283,170.50854)
 [END]
 
 ;1095556
 [POI]
 Type=0x2e
-Label=TRENTS NELSON
-StreetDesc=Parkers Rd, Nelson/ 
+Label=TRENTS CASH'N CARRY NELSON
+StreetDesc=2 beatty St, nelson/ Trents was established to target the supply of specialist q
 Phone=+6435485199
-Data0=(-41.29005,173.24036)
+zip=Monday - Friday 8:00a.m. - 4:30p.m.
+Data0=(-41.29008,173.24017)
 [END]
 
 ;1095557
 [POI]
 Type=0x2e
-Label=TRENTS BLENHEIM
-StreetDesc=38a Stuart St, Blenheim/ 
+Label=TRENTS CASH'N CARRY BLENHEIM
+StreetDesc=38A Stuart St, Blenheim/ Trents was established to target the supply of speciali
 Phone=+6435783289
-Data0=(-41.51815,173.96631)
+zip=Monday - Friday 8:00a.m. - 4:30p.m.
+Data0=(-41.51815,173.96560)
 [END]
 
 ;1095580
@@ -52356,8 +52343,8 @@ Data0=(-45.09623,170.97387)
 ;1108848
 [POI]
 Type=0x2f
-Label=M J SHARDLOW & CO LTD
-StreetDesc=20 Saxon St, Chc/ 
+Label=SHARDLOWS - THE PACKAGING SPECIALISTS
+StreetDesc=20 Saxon St, Chc/ packaging products, packaging supplies christchurch, packaging
 Phone=+6433893014
 Data0=(-43.53447,172.65570)
 [END]
@@ -59330,9 +59317,9 @@ Data0=(-43.54205,172.63588)
 [POI]
 Type=0x2f
 Label=SCOTT AUTOMATION LIMITED
-StreetDesc=123 Crawford St, Dud/ 
-Phone=+6434770974
-Data0=(-45.88222,170.50115)
+StreetDesc=630 Kaikorai Valley Rd/ 
+Phone=+6434788110
+Data0=(-45.89378,170.45909)
 [END]
 
 ;1113009
@@ -63294,15 +63281,6 @@ Phone=+6433792205
 Data0=(-43.53460,172.63206)
 [END]
 
-;1115209
-[POI]
-Type=0x2f
-Label=TRENTS WHOLESALE LTD
-StreetDesc=167 Main North Rd, Papanui, Chc/ 
-Phone=+6433538699
-Data0=(-43.48558,172.61591)
-[END]
-
 ;1115230
 [POI]
 Type=0x2f
@@ -64694,9 +64672,9 @@ Data0=(-43.52891,172.64136)
 [POI]
 Type=0x2f
 Label=WHITE FOX & JONES
-StreetDesc=L 7, 90 Armagh St, Chc/ 
+StreetDesc=White Fox & Jones House, 22 Moorhouse Ave, Chc/ 
 Phone=+6433530650
-Data0=(-43.52889,172.63526)
+Data0=(-43.54030,172.61492)
 [END]
 
 ;1116063
@@ -68173,9 +68151,9 @@ Data0=(-42.89563,172.22223)
 ;1116946
 [POI]
 Type=0x6402
-Label=?ESQUILANT BIVVY HUT
+Label=ESQUILANT BIVVY HUT
 StreetDesc=Mount Aspiring Ntl Park, Wanaka - South Island > Otago > Queenstown/Wakatipu/ DO
-Data0=(-44.61482,168.40639)
+Data0=(-44.61530,168.40709)
 [END]
 
 ;1116947
@@ -134135,16 +134113,6 @@ StreetDesc=1 Restell St, Chc/
 Data0=(-43.49500,172.60651)
 [END]
 
-;1147069
-[POI]
-Type=0x2f
-Label=?THE GROOM ROOM
-StreetDesc=Now at Studholme St, Somerfield / Lower Cashmere, Chc/ Hairdresser / Mens Groomi
-Phone=+6433669212
-zip=Mon to Friday 9.30 to 5.30 Sat 8.30 to 2
-Data0=(-43.56792,172.62679)
-[END]
-
 ;1147070
 [POI]
 Type=0x2f
@@ -198408,9 +198376,9 @@ Data0=(-41.26472,173.27163)
 ;1188809
 [POI]
 Type=0x6402
-Label=?PAKITUHI HUT
+Label=PAKITUHI HUT
 StreetDesc=Hawea Conservation Area - South Island > Otago > Wanaka / Makarora > Pakituhi Hu
-Data0=(-44.58166,169.35617)
+Data0=(-44.58179,169.35655)
 [END]
 
 ;1188810
@@ -202986,5 +202954,80 @@ Label=MOTORCENTRAL - MOTOR VEHICLE DEALERSHIP SOFTWARE
 StreetDesc=324 cashel St, Chc/ Dealership management software system. Motorcentral lets you
 Phone=0800623687
 Data0=(-43.53323,172.64874)
+[END]
+
+;1191545
+[POI]
+Type=0x2f
+Label=THE GROOM ROOM FOR GENTLEMEN
+StreetDesc=16 Studholme St Somerfield Chc 8024/ Mens Barber Shop catering to all grooming f
+Phone=+6433669212
+zip=Mon-Fri 9.30am-5.30pm, Sat 8.30am-2pm
+Data0=(-43.56151,172.62495)
+[END]
+
+;1191549
+[POI]
+Type=0x2a
+Label=COUNTDOWN RANGIORA
+StreetDesc=cnr Queen & Victoria Sts Rangiora/ Supermarket
+Phone=+6433130510
+Data0=(-43.30547,172.59561)
+[END]
+
+;1191550
+[POI]
+Type=0x2f
+Label=CENTRAL OTAGO OPTICAL LTD
+StreetDesc=Central Lakes Health Ctr, 23 Cardrona Valley Rd, Wanaka/ Optometrist
+Phone=+6434432733
+zip=9am-5.30pm
+Data0=(-44.70785,169.13602)
+[END]
+
+;1191566
+[POI]
+Type=0x2f
+Label=ECYCLE COMPUTER RECYCLING
+StreetDesc=73 memorial ave, fendalton, Chc/ ecycle, e-cycle, computer recycling, crt recycl
+Data0=(-43.51458,172.58363)
+[END]
+
+;1191568
+[POI]
+Type=0x2f
+Label=THE KORORA TRADING COMPANY
+StreetDesc=Unit 11 Shotover Ridge Business Park, 179 Glenda Dr, Frankton 9300/ New Zealand'
+Phone=+6421239180
+zip=Monday to Friday 9am -5pm
+Data0=(-45.01219,168.75601)
+[END]
+
+;1191583
+[POI]
+Type=0x2f
+Label=AIRCRAFT LOGISTICS
+StreetDesc=Airfield Rd, Rangiora Airfield, Rangiora 747, New Zealand/ New Zealand aircraft 
+Phone=+6433107290
+Data0=(-43.28798,172.54101)
+[END]
+
+;1191599
+[POI]
+Type=0x2f
+Label=AMAZING AUTO ELECTRIC
+StreetDesc=65 Coleridge St, Waltham, Chc, Canterbury 8023/ Car/Auto Electricians Christchur
+Phone=+6433794250
+Data0=(-43.54550,172.64329)
+[END]
+
+;1191606
+[POI]
+Type=0x2f
+Label=PLUMB'IN BATHROOM AND KITCHEN FACTORY SHOP - CHRISTCHURCH
+StreetDesc=7c Mandeville St, Riccarton, Chc/ Bathrooms, bathroom supplies, bathroom design,
+Phone=+6433436020
+zip=M - F: 9.00 - 5.00, Sat: 9.00 - 4.00, Su
+Data0=(-43.53635,172.60657)
 [END]
 

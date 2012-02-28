@@ -17,7 +17,7 @@ end
 def choose_tile(tile_reference)
   case tile_reference
     when "1"
-  @tile = 'Northland';@bounds = [-34.039501, 174.858505, -35.575802, 171.921432];@tileregion = 1
+  @tile = 'Northland';@bounds = [-34.039501, 174.858505, -35.572380, 171.921432];@tileregion = 1
     when "2"
   @tile = 'Auckland';@bounds = [-35.572380, 176.104294, -37.105228, 173.259384];@tileregion = 2
     when "3"

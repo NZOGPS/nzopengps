@@ -37294,7 +37294,7 @@ Type=0x2a02
 Label=@TONYS JAPANESE RESTAURANT
 StreetDesc=85 Riccarton Rd, Chc/ Teppan yaki Japanese Restaurant, licensed
 Phone=+6433416608
-zip=Lunch: Tue-Fri 12:00-2:30pm, Dinner: Tue
+zip=Closed until further notice due to earth
 Data0=(-43.52960,172.60351)
 [END]
 
@@ -40292,9 +40292,10 @@ Data0=(-43.49748,172.55842)
 [POI]
 Type=0x2f
 Label=ATHCO LOCKSMITH'S SUPPLIES LTD
-StreetDesc=36 Harewood Rd, Papanui, Chc/ 
+StreetDesc=36 Harewood Rd, Papanui, Chc/ New Zealands wholesale supplier of locksmithing, k
 Phone=+6433527564
-Data0=(-43.49568,172.60536)
+zip=8.30am to 5.30pm - Monday to Friday
+Data0=(-43.49561,172.60541)
 [END]
 
 ;1101571
@@ -58054,15 +58055,6 @@ Phone=+6433851748
 Data0=(-43.45868,172.66474)
 [END]
 
-;1112212
-[POI]
-Type=0x2f
-Label=R5 SOLUTIONS (NZ) LTD
-StreetDesc=193A Durham St, Chc/ 
-Phone=+6433778822
-Data0=(-43.53787,172.63348)
-[END]
-
 ;1112213
 [POI]
 Type=0x2f
@@ -62206,11 +62198,11 @@ Data0=(-43.53416,172.70150)
 
 ;1114503
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=TERRACE HEIGHTS ESTATE
-StreetDesc=279 West Coast Rd, Renwick, Blenheim/ 
-Phone=+6435779096
-Data0=(-41.51525,173.80351)
+StreetDesc=279 West Coast Rd, Renwick, Blenheim/ Winery
+Phone=0800834337
+Data0=(-41.51505,173.80381)
 [END]
 
 ;1114508
@@ -64926,11 +64918,11 @@ Data0=(-41.48410,173.82826)
 
 ;1116152
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=WINEGROWERS OF ARA LIMITED
-StreetDesc=1003 State Highway 63, Renwick, Blenheim/ 
+StreetDesc=1003 State Highway 63, Renwick, Blenheim/ Winery
 Phone=+6435727295
-Data0=(-41.52913,173.72544)
+Data0=(-41.52861,173.72372)
 [END]
 
 ;1116155
@@ -75950,9 +75942,10 @@ Data0=(-41.33772,173.18332)
 ;1119638
 [POI]
 Type=0x2a
-Label=FLAVOUR RESTAURANT
-StreetDesc=67 Aranui Rd,   Mapua, Tasman/ 
-Phone=+6435402526
+Label=THE TAP ALE HOUSE BAR AND RESTAURANT
+StreetDesc=67 Aranui Rd, Mapua, Tasman/ Bar,restaurant , pizza
+Phone=+6435403465
+zip=12.00 pm til late
 Data0=(-41.25299,173.09497)
 [END]
 
@@ -96388,14 +96381,6 @@ StreetDesc=178 St Asaph St, Chc/ restaurant
 Data0=(-43.53652,172.63622)
 [END]
 
-;1131256
-[POI]
-Type=0x2a02
-Label=FUJI JAPANESE RESTAURANT
-StreetDesc=144 Gloucester St, Chc/ Japanese Restaurant
-Data0=(-43.52999,172.63772)
-[END]
-
 ;1131257
 [POI]
 Type=0x2f
@@ -97463,14 +97448,6 @@ Type=0x2f
 Label=ICHIRIN
 StreetDesc=284 Worcester St, Chc/ 
 Data0=(-43.53105,172.65015)
-[END]
-
-;1131400
-[POI]
-Type=0x2f
-Label=ICONIC
-StreetDesc=200 Manchester St, Chc/ 
-Data0=(-43.53030,172.63986)
 [END]
 
 ;1131401
@@ -99322,14 +99299,6 @@ Type=0x2a
 Label=MULBERRY CAFE AND RESTAURANT
 StreetDesc=818 Colombo St, Chc/ restaurant, cafe
 Data0=(-43.52596,172.63678)
-[END]
-
-;1131655
-[POI]
-Type=0x2a
-Label=MUM'S 24 RESTAURANT
-StreetDesc=728 Colombo St, Chc/ restaurant
-Data0=(-43.53001,172.63684)
 [END]
 
 ;1131656
@@ -104406,10 +104375,10 @@ Data0=(-43.64091,172.48253)
 [POI]
 Type=0x2c03
 Label=LINCOLN COMMUNITY TOY LIBRARY INC
-StreetDesc=Cnr James & Gerald St, Lincoln, Selwyn/ Toy Library
-Phone=+6433295787
-zip=Saturday 9:30am - Noon
-Data0=(-43.63985,172.48604)
+StreetDesc=158 North Belt, Lincoln, Selwyn/ Toy Library
+Phone=+6433187111
+zip=Saturday 9:30am - Noon, 1st & 3rd Wednes
+Data0=(-43.63787,172.48306)
 [END]
 
 ;1132463
@@ -136458,7 +136427,7 @@ Data0=(-46.10392,168.93873)
 Type=0x2f
 Label=PLUNKET INVERCARGILL
 StreetDesc=132 Kelvin St, Invercargill/ Childcare Services
-Phone=+6432140848
+Phone=+6432184764
 Data0=(-46.40510,168.35079)
 [END]
 
@@ -138557,14 +138526,6 @@ Type=0x2a0e
 Label=FUSEE ROUGE CAFE
 StreetDesc=64b The Mall, Cromwell/ Cafe
 Data0=(-45.03701,169.19813)
-[END]
-
-;1150816
-[POI]
-Type=0x2f
-Label=GALLERY FARE ON 6
-StreetDesc=Rapid 344 Kawarau Gorge Rd (SH 6), Cromwell/ 
-Data0=(-45.05526,169.16410)
 [END]
 
 ;1150818
@@ -170482,14 +170443,6 @@ StreetDesc=67 Otipua Rd, Kensington, Timaru, South Canterbury/
 Data0=(-44.40901,171.23978)
 [END]
 
-;1168975
-[POI]
-Type=0x2f
-Label=PLUNKET SOUTHLAND
-StreetDesc=132 Kelvin St, Invercargill/ 
-Data0=(-46.40510,168.35080)
-[END]
-
 ;1169004
 [POI]
 Type=0x2f
@@ -182430,9 +182383,9 @@ Data0=(-43.52960,172.60360)
 [POI]
 Type=0x2f
 Label=ROTHERHAMS LAW
-StreetDesc=L 1 85 Riccarton Rd, Riccarton/ Lawyers, Barristers & Solicitors
+StreetDesc=C/- Currie Lawyers, 113 Blenheim Rd, Riccarton, Chc/ Lawyer, Riccarton, friendly
 Phone=+33436380
-Data0=(-43.52960,172.60360)
+Data0=(-43.53742,172.60118)
 [END]
 
 ;1173733
@@ -201596,7 +201549,7 @@ Data0=(-43.53316,172.63545)
 
 ;1190611
 [POI]
-Type=0x2e07
+Type=0x2e
 Label=SIMPLY NZ
 StreetDesc=Restart, Cashel St City Mall, Chc Central/ Souvenirs, Giftware, Jewellery, Knitw
 Phone=+6433659776
@@ -202664,7 +202617,7 @@ Data0=(-45.18983,169.31764)
 
 ;1191355
 [POI]
-Type=0x2b00
+Type=0x2b02
 Label=WATERS EDGE B AND B KAIKOURA
 StreetDesc=27 Avoca St, Kaikoura, New Zealand/ Bed and Breakfast Accommodation Kaikoura
 Phone=+6433195196
@@ -202783,7 +202736,7 @@ Label=GIBSON BRIDGE WINERY AND VINEYARD,
 StreetDesc=Corner Gee St & SH6 Renwick/ Winery, cellar door
 Phone=+6435725180
 zip=11am - 5pm daily
-Data0=(-41.50623,173.81901)
+Data0=(-41.50611,173.81928)
 [END]
 
 ;1191452
@@ -203029,5 +202982,100 @@ StreetDesc=7c Mandeville St, Riccarton, Chc/ Bathrooms, bathroom supplies, bathr
 Phone=+6433436020
 zip=M - F: 9.00 - 5.00, Sat: 9.00 - 4.00, Su
 Data0=(-43.53635,172.60657)
+[END]
+
+;1191618
+[POI]
+Type=0x2f
+Label=?NELSON IYENGAR YOGA
+StreetDesc=Nelson, New Zealand/ iyengar yoga, yoga, nelson yoga
+Phone=+6435476008
+Data0=(-41.27063,173.28396)
+[END]
+
+;1191619
+[POI]
+Type=0x2f
+Label=HILLS CLEANING SERVICE NELSON
+StreetDesc=183 Bridge Str, Nelson, New Zealand/ cleaning, carpet cleaning, commercial clean
+Phone=+6435484186
+zip=Monday - Friday: 9am - 2pm
+Data0=(-41.27256,173.28812)
+[END]
+
+;1191620
+[POI]
+Type=0x2f
+Label=KIWI DESIGN SOLUTIONS
+StreetDesc=164, Hardy st, Nelson, New Zealand/ engineering, engineer, mechanical engineer, 
+Phone=+35467368
+zip=Monday - Friday
+Data0=(-41.27453,173.28310)
+[END]
+
+;1191622
+[POI]
+Type=0x2f
+Label=CHRISTCHURCH ENGINE CENTRE, PRATT & WHITNEY AIR NZ SERVICES
+StreetDesc=115 Orchard Rd, Chc Airport/ Aircraft Engine Service
+Phone=+6433747000
+Data0=(-43.48243,172.55056)
+[END]
+
+;1191626
+[POI]
+Type=0x2f03
+Label=BODYLINE COLLISION CENTRE
+StreetDesc=6 Wharf St, Dud, NZ/ Bodyline Collision was formed in 2005 by Owner and Manager 
+Phone=+6434773667
+zip=Mon to Fri 8am - 5pm . Sat 8am to 12pm
+Data0=(-45.88348,170.50537)
+[END]
+
+;1191634
+[POI]
+Type=0x2a0e
+Label=48 ON FITZ CAFE
+StreetDesc=48 Fitzgerald Ave, Chc/ Cafe
+Phone=+6433660258
+Data0=(-43.53732,172.65126)
+[END]
+
+;1191635
+[POI]
+Type=0x2a
+Label=A DROP OF RED
+StreetDesc=344 Kawarau Gorge Rd, Cromwell/ Restaurant, bistro, cafe
+Phone=+6434454151
+zip=Tue-Thu 11am-6pm, Fri-Sat 11am-8pm, Sun 
+Data0=(-45.05546,169.16413)
+[END]
+
+;1191639
+[POI]
+Type=0x2b00
+Label=TRIPLE TUI
+StreetDesc=2454 Tadmor-Glenhope Rd, Glenhope, Nelson/ Eco friendly Holiday Accommodation
+Phone=+6435484481
+Data0=(-41.60696,172.66279)
+[END]
+
+;1191650
+[POI]
+Type=0x2f
+Label=HOTROT ORGANIC SOLUTIONS
+StreetDesc=193a, Durham St Chc/ waste management, copost, organic compost, in vessel compos
+Phone=+6433778822
+Data0=(-43.53793,172.63361)
+[END]
+
+;1191656
+[POI]
+Type=0x2f
+Label=CHRISTCHURCH SECURITY CENTRE
+StreetDesc=36 harewood Rd, papanui/ Your One Stop Security Centre
+Phone=+6433527963
+zip=8.30am to 5.00pm - Monday to Friday
+Data0=(-43.49561,172.60541)
 [END]
 

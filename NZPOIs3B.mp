@@ -80826,10 +80826,10 @@ Data0=(-43.49624,172.68916)
 [POI]
 Type=0x2c05
 Label=BELFAST PLAYCENTRE
-StreetDesc=Sheldon Park Pavillion, Main North Rd, Belfast, Chc/ Playcentre
-Phone=+6421041947
-zip=Wed & Thurs 9:15am - 11:45am
-Data0=(-43.45330,172.62991)
+StreetDesc=Sheldon Park, 710 Main North Rd, Belfast, Chc/ Playcentre
+Phone=+6421058372
+zip=Tuesday & Wednesday 9:15am - 11:45am
+Data0=(-43.45272,172.62815)
 [END]
 
 ;1121170
@@ -102151,9 +102151,9 @@ Data0=(-43.52970,172.60218)
 ;1132035
 [POI]
 Type=0x2a05
-Label=TASTY TUCKER BAKERY AND COFFEE BAR
-StreetDesc=380A Colombo St, Chc/ bakery, cafe
-Data0=(-43.54564,172.63685)
+Label=TASTY TUCKER LUNCH BAR
+StreetDesc=206 Waltham Rd Sydenham, Chc/ bakery
+Data0=(-43.54541,172.64708)
 [END]
 
 ;1132036
@@ -103422,10 +103422,12 @@ Data0=(-43.52093,172.68949)
 
 ;1132208
 [POI]
-Type=0x2f
-Label=VANGIONI'S LIMITED
-StreetDesc=40F Rue Lavaud, Akaroa, Chc/ 
-Data0=(-43.80321,172.96838)
+Type=0x2a
+Label=VANGIONIS TRATTORIA AND BAR
+StreetDesc=40F Rue Lavaud, Akaroa, Chc/ Meditteranean Restaurant
+Phone=+6433047714
+zip=5 pm until late
+Data0=(-43.80304,172.96837)
 [END]
 
 ;1132209
@@ -170188,8 +170190,9 @@ Data0=(-45.85836,170.49926)
 [POI]
 Type=0x2f
 Label=PHIL G MURFITT ORTHODONTIST
-StreetDesc=137 Cambridge Terrace, Chc/ 
-Data0=(-43.53071,172.63265)
+StreetDesc=26 Innes Rd, Merivale, Chc/ 
+Phone=+6433754418
+Data0=(-43.50876,172.62085)
 [END]
 
 ;1168881
@@ -189021,11 +189024,11 @@ Data0=(-43.54171,172.57942)
 ;1177481
 [POI]
 Type=0x2f
-Label=KAYE LE FLEUR 24HR
-StreetDesc=Chc/ Wedding Photographer Christchurch
-Phone=+6427354844
+Label=?KAYE LE FLEUR CHRISTCHURCH WEDDING AND FREELANCE PHOTOGRAPHY 24HR
+StreetDesc=Chc/ Wedding Photographer, Christchurch Wedding Photography, Photographers, Even
+Phone=+6427510593
 zip=24 x 7
-Data0=(-43.50461,172.72834)
+Data0=(-43.53205,172.63622)
 [END]
 
 ;1177484
@@ -202723,7 +202726,7 @@ Data0=(-41.48955,173.83617)
 [POI]
 Type=0x2c0a
 Label=ROCK FERRY WINES
-StreetDesc=66 Jeffries Rd, Rapaura, Blenheim/ Winery, cellar door
+StreetDesc=66 Jeffries Rd, Rapaura, Blenheim/ Winery, cellar door, Restaurant
 Phone=+35796430
 zip=10 - 4 Mon - Fri
 Data0=(-41.47674,173.84535)
@@ -203069,6 +203072,34 @@ Phone=+6433778822
 Data0=(-43.53793,172.63361)
 [END]
 
+;1191652
+[POI]
+Type=0x2f
+Label=HAPPY LEGS LTD MEDICAL COMPRESSION STOCKINGS
+StreetDesc=79B Orrick Cres, Avondale Chc/ Mobile Sales and Fitting Service
+Phone=+6433836142
+zip=9am - 5pm
+Data0=(-43.50184,172.69888)
+[END]
+
+;1191653
+[POI]
+Type=0x2f
+Label=CHRISTCHURCH GASKET CO.
+StreetDesc=81B Magdala Place, Middleton, Chc 8024, New Zealand/ Manufacture and supply of G
+Phone=+6433386338
+Data0=(-43.54630,172.57744)
+[END]
+
+;1191654
+[POI]
+Type=0x2f
+Label=CHRISTCHURCH WROUGHT IRON AND METAL WORK LTD
+StreetDesc=104 - 106 Sawyers Arms Rd, Papanui, Chc/ Structural Steel, Canopies, Balustrades
+Phone=+6433523406
+Data0=(-43.48676,172.60518)
+[END]
+
 ;1191656
 [POI]
 Type=0x2f
@@ -203077,5 +203108,23 @@ StreetDesc=36 harewood Rd, papanui/ Your One Stop Security Centre
 Phone=+6433527963
 zip=8.30am to 5.00pm - Monday to Friday
 Data0=(-43.49561,172.60541)
+[END]
+
+;1191658
+[POI]
+Type=0x2f
+Label=CONCRETE SEALING NZ LTD
+StreetDesc=57 Stonebridge Way, Prebbleton,/ Concrete Sealing, Polish, Repair, Leveling
+Phone=0800266732
+Data0=(-43.58614,172.51296)
+[END]
+
+;1191664
+[POI]
+Type=0x2f
+Label=CROPP ENGINEERING
+StreetDesc=68B Wickham St, Bromley, Chc 8062, New Zealand/ Crumpets Manufacturing Equipment
+Phone=+6439603300
+Data0=(-43.53645,172.69636)
 [END]
 

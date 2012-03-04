@@ -15140,8 +15140,9 @@ Data0=(-43.55665,172.70205)
 Type=0x2e
 Label=THE BODY SHOP RICHMOND MALL
 StreetDesc=Richmond Mall, Shop 43, Richmond/ health & beauty, cosmetics
-Phone=+6435410460
-Data0=(-41.33915,173.18615)
+Phone=+6435438280
+zip=Mon-Wed 9am-5:30pm, Thu 9am-8:00pm, Sun 
+Data0=(-41.33898,173.18612)
 [END]
 
 ;1053550
@@ -83889,6 +83890,7 @@ Data0=(-41.27462,173.28539)
 Type=0x2e
 Label=THE BODY SHOP NELSON
 StreetDesc=Fashion Island, 244 Hardy St, Nelson/ health & beauty, cosmetics
+Phone=+6435457216
 zip=Mon-Thu 9am-5:30pm, Fri 9am-8pm, Sat 9am
 Data0=(-41.27461,173.28549)
 [END]
@@ -137352,9 +137354,9 @@ Data0=(-41.33986,173.18623)
 [POI]
 Type=0x2e07
 Label=SMITHS SPORTS SHOES CHRISTCHURCH
-StreetDesc=46 Birmingham Dr, Chc/ Sports shoes specialists. Running, walking, cross trainer
-Phone=+6433770787
-Data0=(-43.54334,172.58488)
+StreetDesc=223 Annex Rd, Middleton, Chc/ Sports shoes specialists. Running, walking, cross 
+Phone=+6433350603
+Data0=(-43.54353,172.58225)
 [END]
 
 ;1150433
@@ -203126,5 +203128,51 @@ Label=CROPP ENGINEERING
 StreetDesc=68B Wickham St, Bromley, Chc 8062, New Zealand/ Crumpets Manufacturing Equipment
 Phone=+6439603300
 Data0=(-43.53645,172.69636)
+[END]
+
+;1191674
+[POI]
+Type=0x2c00
+Label=WESTPORT SEA CHARTERS
+StreetDesc=Palmerston St, Westport/ charter, fishing trips, fishing charters, Westport fish
+Phone=+6437899718
+Data0=(-41.74673,171.59649)
+[END]
+
+;1191676
+[POI]
+Type=0x2b00
+Label=THISTLE GUEST HOUSE
+StreetDesc=21 Main South Rd, Church Corner, Upper Riccarton, Chc, New Zealand/ 
+Phone=+6433481499
+Data0=(-43.53241,172.56910)
+[END]
+
+;1191677
+[POI]
+Type=0x2e
+Label=FLYSHOP NZ LTD
+StreetDesc=The Sq, Forrest Dr, Methven, Canterbury, New Zealand/ Fly Fishing Shop
+Phone=+33033171
+Data0=(-43.63279,171.64668)
+[END]
+
+;1191678
+[POI]
+Type=0x2e
+Label=THE COMPLETE ANGLER
+StreetDesc=Cnr Cashel & 236 Barbadoes St, Chc/ Fishing Supplies and Equipment
+Phone=+6433669885
+Data0=(-43.53329,172.64598)
+[END]
+
+;1191679
+[POI]
+Type=0x2c0a
+Label=MARBLE POINT WINERY
+StreetDesc=2254 Mouse Point Rd State Highway 7 (Lewis Pass) Hanmer Springs/ Winery, cellar 
+Phone=+6433157679
+zip=7 days from 10am to 5pm.
+Data0=(-42.62309,172.76411)
 [END]
 

@@ -10079,8 +10079,8 @@ Data0=(-43.53905,172.56781)
 ;1034671
 [POI]
 Type=0x2f01
-Label=SHELL DEE STREET 24HR
-StreetDesc=206-214 Dee St, Invercargill/ Shell petrol station
+Label=Z ENERGY DEE STREET (SHELL) 24HR
+StreetDesc=206-214 Dee St, Invercargill/ Z Energy, formerly Shell petrol station
 Phone=+6432188442
 zip=24hrs
 Data0=(-46.40508,168.34706)
@@ -10099,8 +10099,8 @@ Data0=(-43.54336,172.66774)
 ;1034797
 [POI]
 Type=0x2f01
-Label=SHELL GLADSTONE 24HR
-StreetDesc=455 Dee St, Invercargill/ Shell petrol station
+Label=Z ENERGY GLADSTONE (SHELL) 24HR
+StreetDesc=455 Dee St, Invercargill/ Z Energy, formerly Shell petrol station
 Phone=+6432188537
 zip=24hrs
 Data0=(-46.39287,168.34749)
@@ -19273,10 +19273,9 @@ Data0=(-43.64011,172.48406)
 ;1067788
 [POI]
 Type=0x2f06
-Label=WESTPAC LINWOOD (B&A)
-StreetDesc=101 Stanmore Rd, Chc/ Bank branch, ATM
+Label=WESTPAC ATM LINWOOD
+StreetDesc=101 Stanmore Rd, Chc/ ATM
 Phone=0800400600
-zip=Mon-Tue 9am-4.30pm, Wed 9.30am-4.30pm, T
 Data0=(-43.53021,172.65688)
 [END]
 
@@ -39700,11 +39699,11 @@ Data0=(-44.39516,171.25267)
 
 ;1101228
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=AORAKI POLYTECHNIC
 StreetDesc=32 Arthur St, Timaru/ 
-Phone=+6436848240
-zip=Mon-Fri 0800-1700
+Phone=+6436871800
+zip=Mon-Fri 8am-5pm
 Data0=(-44.39867,171.24812)
 [END]
 
@@ -87680,7 +87679,7 @@ Data0=(-43.52451,172.58251)
 
 ;1127985
 [POI]
-Type=0x2f
+Type=0x2e0b
 Label=DRAGONPC RICCARTON
 StreetDesc=376 Riccarton Rd, Riccarton/ Computer Parts
 Phone=+6433418880
@@ -96264,10 +96263,11 @@ Data0=(-43.53300,172.65094)
 
 ;1131239
 [POI]
-Type=0x2a
+Type=0x2a04
 Label=FOODSING RESTAURANT
-StreetDesc=376 Riccarton Rd, Chc/ restaurant
-Data0=(-43.53169,172.57339)
+StreetDesc=376 Riccarton Rd, Chc/ chinese restaurant
+Phone=+6433416992
+Data0=(-43.53125,172.57335)
 [END]
 
 ;1131240
@@ -97120,8 +97120,10 @@ Data0=(-43.53214,172.64548)
 [POI]
 Type=0x2f
 Label=HIBBARDS BUTCHERY
-StreetDesc=91A Stanmore Rd, Chc/ butcher
-Data0=(-43.53063,172.65688)
+StreetDesc=101 Stanmore Rd, Chc/ butcher
+Phone=+6433898065
+zip=Mon 8am-5:30pm, Tue-Fri 7:30am-6pm, Sat 
+Data0=(-43.53021,172.65688)
 [END]
 
 ;1131354
@@ -109025,9 +109027,9 @@ Data0=(-46.39792,168.36582)
 [POI]
 Type=0x2d0a
 Label=WORLD HEALTH & FITNESS
-StreetDesc=34 Leet St, Invercargill/ Gym
+StreetDesc=Cnr Clyde St and Tyne St, Invercargill/ Gym
 Phone=+6432189387
-Data0=(-46.40738,168.34850)
+Data0=(-46.41569,168.34738)
 [END]
 
 ;1134694
@@ -112041,16 +112043,6 @@ StreetDesc=Main Rd, Oxford/ Cemetery
 Data0=(-43.29770,172.20005)
 [END]
 
-;1137343
-[POI]
-Type=0x2e0b
-Label=DRAGONPC SYDENHAM
-StreetDesc=376 Riccarton Rd, Chc/ Dragon PC - Computer Parts
-Phone=+6433666621
-zip=Mon-Fri 11:30am-7pm Sat-Sun 12-4pm
-Data0=(-43.53169,172.57339)
-[END]
-
 ;1137367
 [POI]
 Type=0x2b01
@@ -112530,8 +112522,8 @@ Data0=(-44.37859,171.20649)
 [POI]
 Type=0x2a0e
 Label=AORAKI POLYTECHNIC CAMPUS CAFE
-StreetDesc=28 Arthur St, Timaru/ cafe
-Data0=(-44.39871,171.24897)
+StreetDesc=32 Arthur St, Timaru/ cafe
+Data0=(-44.39869,171.24719)
 [END]
 
 ;1137769
@@ -114180,8 +114172,9 @@ Data0=(-44.40072,171.23028)
 [POI]
 Type=0x2a
 Label=STARZ RESTAURANT
-StreetDesc=28 Arthur St, Timaru/ Licensed restaurant
-Data0=(-44.39871,171.24897)
+StreetDesc=32 Arthur St, Timaru/ Licensed restaurant
+Phone=0800426725
+Data0=(-44.39874,171.24706)
 [END]
 
 ;1137986
@@ -115452,7 +115445,7 @@ Data0=(-45.87777,170.50132)
 ;1138145
 [POI]
 Type=0x2f
-Label=HANNAH HAIR DESIGN
+Label=HANNAH'S HAIR DESIGN
 StreetDesc=47 County Rd, Dud/ Hairdressers
 Data0=(-45.86444,170.48059)
 [END]
@@ -121753,24 +121746,6 @@ Label=RAY WHITE
 StreetDesc=Shop 10, Rolleston Sq, Rolleston/ Residential and lifestyle property real estate
 Phone=+6433479988
 Data0=(-43.59551,172.38529)
-[END]
-
-;1141298
-[POI]
-Type=0x2e07
-Label=MARY IMMACULATE
-StreetDesc=Shop 12, Rolleston Sq, Rolleston/ Boutique clothing store, Apparel
-Phone=+6433477227
-Data0=(-43.59535,172.38548)
-[END]
-
-;1141299
-[POI]
-Type=0x2f
-Label=PGG WRIGHTSON REAL ESTATE
-StreetDesc=Shop 13, Rolleston Sq, Rolleston/ Residential and lifestyle property real estate
-Phone=+6433473660
-Data0=(-43.59531,172.38559)
 [END]
 
 ;1141300
@@ -131384,9 +131359,10 @@ Data0=(-43.53311,172.67285)
 ;1146701
 [POI]
 Type=0x2f
-Label=CUTZ - HAIR THERAPY
-StreetDesc=8 Rotherham St, Chc/ Hairdresser
-Data0=(-43.53234,172.60084)
+Label=CUTZ HAIR DESIGN
+StreetDesc=Unit 1, 8 Rotherham St, Chc/ Hairdressers
+Phone=+6433485759
+Data0=(-43.53231,172.60092)
 [END]
 
 ;1146702
@@ -131736,6 +131712,8 @@ Data0=(-43.57531,172.56035)
 Type=0x2f
 Label=GARRY SULLIVAN HAIRDRESSING
 StreetDesc=6A Wai-Iti Tce, Chc/ Hairdresser
+Phone=+6433515181
+zip=Mon to Fri 9.00am to 8.00pm
 Data0=(-43.51201,172.58810)
 [END]
 
@@ -131977,8 +131955,10 @@ Data0=(-43.43403,172.69881)
 [POI]
 Type=0x2f
 Label=HAIR THERAPY
-StreetDesc=8 Rotherham St, Chc/ Hairdresser
-Data0=(-43.53234,172.60084)
+StreetDesc=Unit 1, 8 Rotherham St, Chc/ Medical wig specialists
+Phone=+6433434093
+zip=By appointment
+Data0=(-43.53231,172.60090)
 [END]
 
 ;1146782
@@ -133482,8 +133462,9 @@ Data0=(-43.62401,172.65137)
 [POI]
 Type=0x2f
 Label=SELVAGGIA HAIR CO
-StreetDesc=176 Oxford Terrace, Chc/ Hairdresser
-Data0=(-43.53033,172.63416)
+StreetDesc=Unit 2, 8 Rotherham St, Riccarton, Chc/ Hairdresser
+Phone=+6433488076
+Data0=(-43.53233,172.60102)
 [END]
 
 ;1146986
@@ -137775,10 +137756,10 @@ Data0=(-41.33476,173.17854)
 ;1150608
 [POI]
 Type=0x2f
-Label=METLIFECARE MERIVALE
+Label=MERIVALE RETIREMENT VILLAGE
 StreetDesc=60 Browns Rd, Merivale, Chc/ Retirement village, rest home & hospital
-Phone=0800909303
-Data0=(-43.50850,172.62522)
+Phone=+6433754117
+Data0=(-43.50847,172.62522)
 [END]
 
 ;1150614
@@ -149127,14 +149108,6 @@ Type=0x2f
 Label=?OK BINS
 StreetDesc=Adams Rd, Chc/ 
 Data0=(-43.57384,172.10167)
-[END]
-
-;1157659
-[POI]
-Type=0x2f
-Label=OWENS FRESH FRUIT & VEGE
-StreetDesc=Shop 14, Rolleston Sq, Rolleston/ fresh fruit, vegetables
-Data0=(-43.59549,172.38536)
 [END]
 
 ;1157660
@@ -190744,7 +190717,7 @@ Data0=(-43.38753,170.18451)
 ;1178471
 [POI]
 Type=0x2f
-Label=INFLAME BBQ'S DIRECT
+Label=INFLAME FIRE UP | HEAT | EXCITE
 StreetDesc=18 Birmingham Dr, Middleton, Chc/ We are experts in natural flame home & lifesty
 Phone=+6433392375
 zip=Mon-Fri 9AM-5PM
@@ -192854,11 +192827,11 @@ Data0=(-43.51343,172.55920)
 ;1179448
 [POI]
 Type=0x2f
-Label=LOCAL'S CHOICE PROFESSIONAL CARPET & HOME CLEANING 24HR
+Label=LOCAL'S CHOICE 24HR
 StreetDesc=5 Hawkesbury Ave, Merivale, Chc/ Professional cleaning company that cleans, carp
 Phone=0800742728
 zip=24/7
-Data0=(-43.50758,172.62472)
+Data0=(-43.50766,172.62479)
 [END]
 
 ;1179450
@@ -203174,5 +203147,212 @@ StreetDesc=2254 Mouse Point Rd State Highway 7 (Lewis Pass) Hanmer Springs/ Wine
 Phone=+6433157679
 zip=7 days from 10am to 5pm.
 Data0=(-42.62309,172.76411)
+[END]
+
+;1191682
+[POI]
+Type=0x2f
+Label=?HOWARD LANDSCAPE ARTISTRY
+StreetDesc=Loburn Whiterock Rd, North Loburn, Rangiora, Canterbury, New Zealand/ Stylish, b
+Phone=+6433128365
+zip=NA
+Data0=(-43.25639,172.53303)
+[END]
+
+;1191688
+[POI]
+Type=0x2f
+Label=YOUR SHOUT
+StreetDesc=239A Linwood Ave, Linwood, Chc 8011, New Zealand/ brew, beer, spirits, wine, che
+Phone=+6433812299
+zip=Mon 12noon-5.30pm, Tues-Fri 9am-5.30pm, 
+Data0=(-43.53328,172.67305)
+[END]
+
+;1191714
+[POI]
+Type=0x2f
+Label=MYQRCODE.CO.NZ
+StreetDesc=4 severn st, oamaru/ QR Code Generator, Custom QR, QR Code Marketing
+Data0=(-45.09768,170.97002)
+[END]
+
+;1191722
+[POI]
+Type=0x2e
+Label=?RIDE DEMO CENTRE - OUTSIDE SPORTS
+StreetDesc=Brecon St, Queenstown/ Mountain bike Queenstown with Outside Sports, rental bike
+Phone=+6434429442
+zip=9.30am - 8.00pm
+Data0=(-45.03016,168.65748)
+[END]
+
+;1191729
+[POI]
+Type=0x2f
+Label=WELDWORX
+StreetDesc=91 Kingsley St, Sydenham, Chc/ Welding equipment and supplies
+Phone=+6433655505
+Data0=(-43.54348,172.64479)
+[END]
+
+;1191730
+[POI]
+Type=0x2f
+Label=TOTAL FOOD EQUIPMENT (TFE)
+StreetDesc=140 Cumberland St, Dud/ Kitchenware, Bakeware, Glassware, Knives
+Phone=+6434740568
+zip=Mon-Fri 9-5:30, Sat-Sun 10-4
+Data0=(-45.87948,170.50489)
+[END]
+
+;1191731
+[POI]
+Type=0x2f
+Label=TOTAL FOOD EQUIPMENT (TFE)
+StreetDesc=46 Coleridge St, Chc/ Kitchenware, Bakeware, Glassware, Knives
+Phone=+6433666912
+zip=Mon-Fri 9-5, Sat-Sun 10-4
+Data0=(-43.54584,172.64181)
+[END]
+
+;1191732
+[POI]
+Type=0x2e0b
+Label=HARVEY NORMAN COMPUTER SUPERSTORE CHCH
+StreetDesc=55 Montreal St, Sydenham/ Computers
+Phone=+6439405300
+zip=Mon-Sun 9am-5.30pm
+Data0=(-43.54481,172.63036)
+[END]
+
+;1191733
+[POI]
+Type=0x2e0b
+Label=HARVEY NORMAN ELECTRICAL CHCH
+StreetDesc=120 Carlyle St, Sydenham/ Electrical Appliances
+Phone=+6433532454
+zip=Mon-Sun 9am-5.30pm
+Data0=(-43.54150,172.64040)
+[END]
+
+;1191734
+[POI]
+Type=0x2e0b
+Label=HARVEY NORMAN FURNITURE HORNBY
+StreetDesc=21 Foremans Rd, Hornby/ Furniture/Bedding
+Phone=+6433490658
+zip=Mon-Sun 9am-5.30pm
+Data0=(-43.54524,172.50195)
+[END]
+
+;1191735
+[POI]
+Type=0x2f
+Label=CORYS HORNBY
+StreetDesc=40 Carmen Rd Hornby/ Electrical Supplies
+Phone=+6433495029
+zip=Mon-Fri 7am-5pm Sat 8:30am-12pm
+Data0=(-43.53906,172.52801)
+[END]
+
+;1191736
+[POI]
+Type=0x2f
+Label=CORYS CHRISTCHURCH
+StreetDesc=220 Antigua St Chc/ Electrical Supplies
+Phone=+6433667560
+zip=Mon-Fri 7:30am-5pm Sat 9am-12pm
+Data0=(-43.53787,172.62809)
+[END]
+
+;1191737
+[POI]
+Type=0x2f
+Label=CORYS RANGIORA
+StreetDesc=5 Albert St Rangiora/ Electrical Supplies
+Phone=+6433132980
+zip=Mon-Fri 7:30am-5pm Sat 8am-11am
+Data0=(-43.30260,172.59697)
+[END]
+
+;1191738
+[POI]
+Type=0x2f
+Label=CORYS ASHBURTON
+StreetDesc=62 Dobson St, Ashburton/ Electrical Supplies
+Phone=+6433076060
+zip=Mon-Fri 7:30am-5:30pm
+Data0=(-43.90804,171.74381)
+[END]
+
+;1191739
+[POI]
+Type=0x2f
+Label=CORYS DUNEDIN
+StreetDesc=100 Cumberland St Dud/ Electrical Supplies
+Phone=+6434740682
+zip=Mon-Fri 7am-5pm
+Data0=(-45.88198,170.50303)
+[END]
+
+;1191740
+[POI]
+Type=0x2f
+Label=CORYS BALCLUTHA
+StreetDesc=92 Charlotte St Balclutha/ Electrical Supplies
+Phone=+6434184590
+zip=Mon-Fri 7am-5pm
+Data0=(-46.24095,169.72829)
+[END]
+
+;1191741
+[POI]
+Type=0x2f
+Label=CORYS INVERCARGILL
+StreetDesc=5 Liddel St Invercargill/ Electrical Supplies
+Phone=+6432186054
+zip=Mon-Fri 7:30am-5pm
+Data0=(-46.41313,168.34539)
+[END]
+
+;1191742
+[POI]
+Type=0x2f
+Label=CORYS NELSON
+StreetDesc=29 Vanguard St Nelson/ Electrical Supplies
+Phone=+6435480149
+zip=Mon-Fri 7:30am-5pm
+Data0=(-41.27343,173.27963)
+[END]
+
+;1191743
+[POI]
+Type=0x2f
+Label=CORYS BLENHEIM
+StreetDesc=9 Main St Blenheim/ Electrical Supplies
+Phone=+6435775643
+zip=Mon-Fri 7am-5pm
+Data0=(-41.51341,173.96029)
+[END]
+
+;1191744
+[POI]
+Type=0x2f
+Label=CORYS GREYMOUTH
+StreetDesc=4-6 Gresson St, Greymouth/ Electrical Supplies
+Phone=+6437684462
+zip=Mon-Fri 7am-5pm
+Data0=(-42.44829,171.20714)
+[END]
+
+;1191757
+[POI]
+Type=0x2f
+Label=CORYS QUEENSTOWN
+StreetDesc=124 Gorge Rd, Queenstown/ Electrical Supplies
+Phone=+6434412434
+zip=Mon-Fri 7am-5pm
+Data0=(-45.02125,168.66216)
 [END]
 

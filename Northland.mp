@@ -71033,6 +71033,9 @@ Numbers7=65,O,1009,1201,E,1010,1200
 Label2=STATE HIGHWAY 10
 [END]
 
+<<<<<<< .mine
+;@FILE,"C:\Users\Peter\Documents\NZOGPS\nzopengps\Numbers\Northland-numbers.gdb",0,".\Numbers\Northland-numbers.gdb"
+=======
 ;linzid=62328
 ;sufi=1030000203597
 [POLYLINE]
@@ -73228,3 +73231,4 @@ Numbers1=0,O,87,155,E,88,156
 ;@BM,custom_poi,poi-Northland_missing,0,0.000000,174.193878,-35.300964,,0,0,0,"",0,0,0,comment="90315",label="5263 RUSSELL WHAKAPARA ROAD",
 ;@BM,custom_poi,poi-Northland_missing,0,0.000000,174.194199,-35.298214,,0,0,0,"",0,0,0,comment="90315",label="5284 RUSSELL WHAKAPARA ROAD",
 ;@FILE,"C:\Maps\nzopengps\numbers\Northland-numbers.gdb",1,".\numbers\Northland-numbers.gdb"
+>>>>>>> .r4188

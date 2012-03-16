@@ -6988,9 +6988,9 @@ Data0=(-43.51116,172.57105)
 [POI]
 Type=0x2c05
 Label=WESTLAND HIGH SCHOOL
-StreetDesc=Sale St, Hokitika/ State Co-Ed Intermediate, Secondary School
+StreetDesc=140 Hampden St, Hokitika/ State Co-Ed Intermediate, Secondary School
 Phone=+6437556169
-Data0=(-42.71808,170.97306)
+Data0=(-42.71807,170.97313)
 [END]
 
 ;1024738
@@ -31922,7 +31922,7 @@ Type=0x2e
 Label=SPOTLIGHT DUNEDIN
 StreetDesc=143 Vogel St, Dud/ Fabric, Craft and Home Interiors Superstore
 Phone=+6434771478
-zip=Sun 10.00am-5.00pm, Mon 9.00am-5.30pm, T
+zip=Mon-Thu 9am-5.30pm, Fri 9am-7pm, Sat 9am
 Data0=(-45.88294,170.50171)
 [END]
 
@@ -36539,26 +36539,6 @@ StreetDesc=64 Spey St, Invercargill/ Container and storage solutions
 Phone=+6432186869
 zip=Mon 9.00-5.30 Tue 9.00-5.30 Wed 9.00-5.3
 Data0=(-46.40955,168.34581)
-[END]
-
-;1098903
-[POI]
-Type=0x2e
-Label=PLASTIC BOX MARLBOROUGH
-StreetDesc=24 Market St, Blenheim/ Container and storage solutions
-Phone=+6435794300
-zip=Mon 8.30-5.30 Tue 8.30-5.30 Wed 8.30-5.3
-Data0=(-41.51148,173.95652)
-[END]
-
-;1098905
-[POI]
-Type=0x2e
-Label=PLASTIC BOX NELSON
-StreetDesc=209 Hardy St, Nelson/ Container and storage solutions
-Phone=+6435487777
-zip=Mon 9.00-5.30 Tue 9.00-5.30 Wed 9.00-5.3
-Data0=(-41.27414,173.28470)
 [END]
 
 ;1098911
@@ -54442,9 +54422,9 @@ Data0=(-43.52921,172.60518)
 
 ;1110057
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=NAUTILUS ESTATE LIMITED
-StreetDesc=12 Rapaura Rd, Renwick, Blenheim/ 
+StreetDesc=12 Rapaura Rd, Renwick, Blenheim/ Winery
 Phone=+6435729364
 Data0=(-41.48670,173.81854)
 [END]
@@ -68975,9 +68955,9 @@ Data0=(-42.32135,173.40643)
 ;1117075
 [POI]
 Type=0x6402
-Label=?KAIPO HUT
+Label=KAIPO HUT
 StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland > Fiordland/ DOC Backcoun
-Data0=(-44.48858,167.94382)
+Data0=(-44.48861,167.94376)
 [END]
 
 ;1117076
@@ -102160,14 +102140,6 @@ StreetDesc=206 Waltham Rd Sydenham, Chc/ bakery
 Data0=(-43.54541,172.64708)
 [END]
 
-;1132036
-[POI]
-Type=0x2f
-Label=TATSUMI
-StreetDesc=100 Gloucester St, Chc/ 
-Data0=(-43.53000,172.63516)
-[END]
-
 ;1132037
 [POI]
 Type=0x2d02
@@ -111518,10 +111490,10 @@ Data0=(-44.93859,168.83219)
 [POI]
 Type=0x2f
 Label=ZIP PLUMBING PLUS
-StreetDesc=32 Kingsley St , Chc/ Plumbing, bathroom and drainage supplies
+StreetDesc=73 Moorhouse Avenuet , Chc 8011/ Plumbing, bathroom and drainage supplies
 Phone=+6433798240
 zip=Mon-Fri 7.30-5.00, Sat 8.30-Noon
-Data0=(-43.54368,172.64113)
+Data0=(-43.53978,172.62328)
 [END]
 
 ;1135613
@@ -150154,8 +150126,10 @@ Data0=(-41.28900,174.00503)
 [POI]
 Type=0x2b00
 Label=POUNAMU APARTMENTS
-StreetDesc=110 Frankton Rd, Queenstown/ Accommodation
-Data0=(-45.03453,168.67249)
+StreetDesc=110 Frankton Rd, Queenstown/ 5 star luxury accommodation
+Phone=+6434424868
+zip=7 days 8am-8pm
+Data0=(-45.03467,168.67334)
 [END]
 
 ;1158271
@@ -166466,9 +166440,10 @@ Data0=(-45.09531,170.97026)
 ;1166895
 [POI]
 Type=0x2f
-Label=ELANZ CLINIC
-StreetDesc=24 George St, Blenheim/ Skin Clinic
+Label=THE SKIN CLINIC MARLBOROUGH
+StreetDesc=24 George St, Blenheim/ Skin Clinic, mole mapping, skin cancer checks, skin canc
 Phone=+6435781665
+zip=Mon - Fri. 9am to 5pm. Wed evening till 
 Data0=(-41.51420,173.95484)
 [END]
 
@@ -196653,9 +196628,10 @@ Data0=(-40.92492,173.83613)
 ;1181344
 [POI]
 Type=0x2a0e
-Label=?PELORUS BRIDGE CAFE
-StreetDesc=SH 6, Rai/ 
-Data0=(-41.23887,173.57957)
+Label=PELORUS BRIDGE CAFE
+StreetDesc=SH 6, Rai/ Cafe
+Phone=+6435716019
+Data0=(-41.29930,173.57249)
 [END]
 
 ;1181345
@@ -203177,6 +203153,16 @@ StreetDesc=4 severn st, oamaru/ QR Code Generator, Custom QR, QR Code Marketing
 Data0=(-45.09768,170.97002)
 [END]
 
+;1191720
+[POI]
+Type=0x2f
+Label=VIDEO TECH PARTY HIRE
+StreetDesc=686 Great King St Dud 9016 New Zealand/ Party hire in Dunedin providing entertai
+Phone=+6434776541
+zip=8.30 - 5.30 Mon - Fri
+Data0=(-45.86024,170.51306)
+[END]
+
 ;1191722
 [POI]
 Type=0x2e
@@ -203354,5 +203340,89 @@ StreetDesc=124 Gorge Rd, Queenstown/ Electrical Supplies
 Phone=+6434412434
 zip=Mon-Fri 7am-5pm
 Data0=(-45.02125,168.66216)
+[END]
+
+;1191785
+[POI]
+Type=0x2f
+Label=DC BUILDING
+StreetDesc=18 Harris Cres, Papanui, Chc, New Zealand/ Christchurch Home Builder, Design and
+Phone=+6433524134
+Data0=(-43.49492,172.59929)
+[END]
+
+;1191786
+[POI]
+Type=0x2f
+Label=?SAM BECKINGSALE
+StreetDesc=Mappleton ave, burnside, christchrurch/ Website & Graphic Design Solutions Chris
+Phone=+6421146151
+zip=9am - 5pm
+Data0=(-43.49682,172.57472)
+[END]
+
+;1191794
+[POI]
+Type=0x2f
+Label=OTAGO INSULATION
+StreetDesc=138 Gladstone Rd Dud Dud 9010 New Zealand/ Keep warm with safe, genuine pure she
+Phone=+6434651992
+zip=Monday - Friday 8.00am - 5.00pm
+Data0=(-45.85035,170.51515)
+[END]
+
+;1191800
+[POI]
+Type=0x2f
+Label=LEEDINGSIGN DESIGN
+StreetDesc=Unit 2, 4 Spencerville Rd, Belfast, Chc/ Complete Sign Service Christchurch
+Phone=+6433412097
+Data0=(-43.43231,172.65096)
+[END]
+
+;1191804
+[POI]
+Type=0x2b01
+Label=NOAH'S ARK TRAVELLERS LODGE
+StreetDesc=16 Chapel St, Greymouth 7805, New Zealand/ Budget Accommodation Greymouth Motel 
+Phone=0800662472
+Data0=(-42.45062,171.21232)
+[END]
+
+;1191807
+[POI]
+Type=0x2e
+Label=WHITECLOUDPEWTER
+StreetDesc=334 West Melton Rd West Melton Canterbury/ pewter, jewellery
+Phone=+6433479832
+zip=9-5
+Data0=(-43.55090,172.37135)
+[END]
+
+;1191808
+[POI]
+Type=0x2f
+Label=INTEGRAL VAX
+StreetDesc=11 March Place, Belfast, Chc/ central vacuum systems, central vacuums, built in 
+Phone=0800822797
+Data0=(-43.45220,172.63294)
+[END]
+
+;1191817
+[POI]
+Type=0x2f
+Label=SIERRA VISTA ALPACAS
+StreetDesc=740 Two Chain Rd, Swannanoa, Rangiora 7471, New Zealand/ Sierra Vista Alpacas St
+Phone=+6433126120
+Data0=(-43.38466,172.47806)
+[END]
+
+;1191822
+[POI]
+Type=0x2f
+Label=?RURAL DELIVERY MIDWIVES
+StreetDesc=Rangiora and North Canterbury/ Rangiora and North Canterbury
+Phone=+6433133102
+Data0=(-43.30336,172.59572)
 [END]
 

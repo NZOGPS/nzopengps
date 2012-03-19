@@ -267,3 +267,4 @@
 9971	ARCHIES PEAK RD	Ataahua (Canterbury, NZ)	4/10/2010 11:52:59 p.m.
 9979	Valley Road	Little River
 9993	MacAulay Street	Dunsandel
+11419	LEISHMAN ST	Kakahu(Canterbury,NZ)	2012/03/19 13:56	-44.155830,171.099533

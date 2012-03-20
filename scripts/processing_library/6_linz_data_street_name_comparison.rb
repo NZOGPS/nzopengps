@@ -8,7 +8,7 @@ expects that the LinzDataService data has been processed already to form the -LI
 require '..\linzdataservice\nzogps_library.rb'
 
 def process_polish_buffer(buffer)
-  linzid, street_name, street_name_2 = nil
+  linzid, street_name, street_name_2, first_lat, first_lon  = nil
   
 	buffer.each{|line|
     if line =~ /;linzid\=(\d*)/ then
@@ -17,6 +17,9 @@ def process_polish_buffer(buffer)
       street_name = $1
     elsif line =~ /Label2\=(.*)/ then
       street_name_2 = $1
+    elsif line =~ /Data0\=\(([-.\d]+),([-.\d]+)\).*/ then
+      first_lat = $1
+      first_lon = $2
     end
 	}
   
@@ -41,11 +44,15 @@ def process_polish_buffer(buffer)
     if official_street_name =~ /STATE HIGHWAY #{highway_number}/ then
       match = true
     end
+  elsif official_street_name == "ACCESSWAY" then
+    if street_name == "WALKWAY" || street_name == "OVERBRIDGE" || street_name == "UNDERPASS" || street_name == "" then
+      match = true
+    end
   end
     
   if !match then 
-    print "#{linzid}\t#{street_name}\t#{street_name_2}\t#{official_street_name}\n"
-    @reporting_file.print "#{linzid}\t#{street_name}\t#{street_name_2}\t#{official_street_name}\n"
+    print "#{linzid}\t#{street_name}\t#{street_name_2}\t#{official_street_name}\t#{first_lat},#{first_lon}\n"
+    @reporting_file.print "#{linzid}\t#{street_name}\t#{street_name_2}\t#{official_street_name}\t#{first_lat},#{first_lon}\n"
   end
   
 end

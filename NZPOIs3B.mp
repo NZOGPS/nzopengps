@@ -22394,7 +22394,7 @@ Data0=(-43.30342,172.59912)
 ;1076356
 [POI]
 Type=0x2e01
-Label=THE WAREHOUSE RICCARTON
+Label=THE WAREHOUSE EXTRA RICCARTON
 StreetDesc=265 Blenheim Rd, Riccarton, Chc/ Household, clothing, general merchandise
 Phone=+6433486500
 zip=8:30am - 9:00pm, 7 days per week
@@ -50999,9 +50999,9 @@ Data0=(-45.87804,170.50938)
 
 ;1107972
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=KAHURANGI ESTATE WINERY
-StreetDesc=Sunrise Rd, RD 1, Upper Moutere, Nelson/ 
+StreetDesc=Sunrise Rd, Upper Moutere, Nelson/ Winery, cellar door
 Phone=+6435432980
 Data0=(-41.27547,173.01249)
 [END]
@@ -54418,15 +54418,6 @@ Label=NAUTICAL INSURANCE
 StreetDesc=Unit 1, 62 Riccarton Rd, Chc/ 
 Phone=+6433841694
 Data0=(-43.52921,172.60518)
-[END]
-
-;1110057
-[POI]
-Type=0x2c0a
-Label=NAUTILUS ESTATE LIMITED
-StreetDesc=12 Rapaura Rd, Renwick, Blenheim/ Winery
-Phone=+6435729364
-Data0=(-41.48670,173.81854)
 [END]
 
 ;1110065
@@ -64112,9 +64103,9 @@ Data0=(-41.50421,173.84645)
 [POI]
 Type=0x2c0a
 Label=WAIRAU RIVER WINES
-StreetDesc=264 Rapaura Rd, Marlborough/ Winery,
+StreetDesc=264 Rapaura Rd, Marlborough/ Winery, cellar door, Restaurant
 Phone=+6435727950
-zip=Daily 10 -5
+zip=Daily 10 -5 LUNCH SERVED 12PM-3PM
 Data0=(-41.48306,173.84838)
 [END]
 
@@ -68259,9 +68250,9 @@ Data0=(-44.42863,168.69386)
 ;1116966
 [POI]
 Type=0x6402
-Label=?FRESHWATER HUT
+Label=FRESHWATER HUT
 StreetDesc=Rakiura Ntl Park - South Island > Southland > Stewart Island/Rakiura/ DOC Backco
-Data0=(-46.86863,167.91966)
+Data0=(-46.86841,167.91977)
 [END]
 
 ;1116967
@@ -72665,7 +72656,7 @@ Data0=(-43.07844,172.74855)
 [POI]
 Type=0x2c0a
 Label=CHARLES WIFFEN WINES LTD
-StreetDesc=1639 Parnassus Rd, Cheviot/ Winery
+StreetDesc=1639 Parnassus Rd, Cheviot/ Winery, Head Office
 Phone=+33192826
 Data0=(-42.68055,173.30586)
 [END]
@@ -105524,7 +105515,7 @@ Data0=(-43.89773,171.75617)
 ;1133622
 [POI]
 Type=0x2f
-Label=STONEWOOD HOMES WANAKA BUILDERS
+Label=WANAKA BUILDERS, STONEWOOD HOMES WANAKA
 StreetDesc=39 Reece Cres, Wanaka/ Wanaka Builders, New Home Builders Wanaka, Show Homes Wan
 Phone=+6434435229
 Data0=(-44.69148,169.14331)
@@ -120526,9 +120517,10 @@ Data0=(-42.11455,171.33006)
 
 ;1141118
 [POI]
-Type=0x2f
+Type=0x2d02
 Label=WILSONS HOTEL
-StreetDesc=32-34 Broadway, Reefton/ 
+StreetDesc=32-34 Broadway, Reefton/ Hotel, Bar
+Phone=+6437328800
 Data0=(-42.11952,171.86739)
 [END]
 
@@ -130450,9 +130442,9 @@ Data0=(-44.61017,169.27358)
 [POI]
 Type=0x2f
 Label=CENTENNIAL HEALTH
-StreetDesc=32 Centennial ave, alexandra/ Doctor, medical, health
-Phone=+6434487570
-Data0=(-45.25378,169.39050)
+StreetDesc=93 Tarbert St, Alexandra/ General practice, doctors
+Phone=+6434400290
+Data0=(-45.25306,169.39482)
 [END]
 
 ;1146347
@@ -131682,7 +131674,7 @@ Data0=(-43.57531,172.56035)
 ;1146747
 [POI]
 Type=0x2f
-Label=GARRY SULLIVAN HAIRDRESSING
+Label=GARRY SULLIVAN CURLY HAIR SPECIALIST
 StreetDesc=6A Wai-Iti Tce, Chc/ Hairdresser
 Phone=+6433515181
 zip=Mon to Fri 9.00am to 8.00pm
@@ -147800,11 +147792,11 @@ Data0=(-43.51491,172.66363)
 ;1156509
 [POI]
 Type=0x2f
-Label=JAIME LES MACARONS
+Label=J'AIME LES MACARONS
 StreetDesc=9F Normans Rd, Strowan, Chc/ Hand made french macaroons
-Phone=+6433552018
-zip=Tue to Fri 10am-5pm, Sat 10am-2pm
-Data0=(-43.50978,172.60753)
+Phone=+6433550597
+zip=Tue-Fri 10am-5pm, Sat 10am-2pm
+Data0=(-43.50961,172.60788)
 [END]
 
 ;1156514
@@ -164112,7 +164104,8 @@ Data0=(-41.28463,173.27461)
 [POI]
 Type=0x2f
 Label=BESTER MCKAY FAMILY DOCTORS
-StreetDesc=106 Don St, Invercargill/ 
+StreetDesc=106 Don St, Invercargill/ General practice, doctors
+Phone=+6432186325
 Data0=(-46.41063,168.35461)
 [END]
 
@@ -164569,8 +164562,9 @@ Data0=(-43.53001,172.63684)
 [POI]
 Type=0x2f
 Label=CATHERINE STREET MEDICAL CENTRE
-StreetDesc=63 Catherine St, Invercargill/ 
-Data0=(-46.39580,168.36596)
+StreetDesc=63 Catherine St, Invercargill/ General practice, doctors
+Phone=+6432176656
+Data0=(-46.39581,168.36585)
 [END]
 
 ;1166028
@@ -165542,7 +165536,8 @@ Data0=(-41.51790,173.95727)
 [POI]
 Type=0x2f
 Label=DR DE CROOS PRACTICE
-StreetDesc=169 Don St, Invercargill/ 
+StreetDesc=169 Don St, Invercargill/ General practice, doctors
+Phone=+6432186039
 Data0=(-46.41091,168.35898)
 [END]
 
@@ -165903,7 +165898,8 @@ Data0=(-45.86787,170.48997)
 [POI]
 Type=0x2f
 Label=DR MARTIN TOOKE
-StreetDesc=112 Don St, Invercargill/ 
+StreetDesc=2/ 112 Don St, Invercargill/ General practice, doctors
+Phone=+6432144858
 Data0=(-46.41061,168.35504)
 [END]
 
@@ -166857,7 +166853,8 @@ Data0=(-46.40954,168.35113)
 [POI]
 Type=0x2f
 Label=GLENGARRY MEDICAL CENTRE
-StreetDesc=75 Glengarry Cres, Invercargill/ 
+StreetDesc=75 Glengarry Cres, Invercargill/ General practice, doctors
+Phone=+6432174863
 Data0=(-46.40179,168.38547)
 [END]
 
@@ -170166,9 +170163,10 @@ Data0=(-44.39456,171.25184)
 ;1168887
 [POI]
 Type=0x2f
-Label=PHO MANAGEMENT SERVICES SOUTHLAND
-StreetDesc=40 Clyde St, Invercargill, Southland/ 
-Data0=(-46.41578,168.34734)
+Label=SOUTHERN PHO
+StreetDesc=40 Clyde St, Invercargill, Southland/ Primary health organisation
+Phone=+6432146436
+Data0=(-46.41535,168.34775)
 [END]
 
 ;1168888
@@ -172560,8 +172558,9 @@ Data0=(-42.39858,173.68063)
 ;1170190
 [POI]
 Type=0x2f
-Label=WAIHOPAI HEALTH SERVICES LTD
-StreetDesc=1 Herbert St, Invercargill/ 
+Label=WAIHOPAI HEALTH SERVICES
+StreetDesc=1 Herbert St, Invercargill/ General practice, doctors
+Phone=+6432110999
 Data0=(-46.39494,168.34776)
 [END]
 
@@ -189609,8 +189608,8 @@ Data0=(-43.49108,172.56215)
 ;1177833
 [POI]
 Type=0x2f
-Label=GNOMES SNOW SPORTS DAREFIELD
-StreetDesc=57 South Terrace darfield/ Gnomes snow sports
+Label=GNOMES ALPINE SPORTS - DARFIELD
+StreetDesc=57 South Terrace darfield/ ski, skiing, ski shop, ski hire, snowboard hire, snow
 Phone=+6433188433
 zip=7am - 6.30pm, 7 days a week.
 Data0=(-43.48960,172.10997)
@@ -189619,10 +189618,10 @@ Data0=(-43.48960,172.10997)
 ;1177834
 [POI]
 Type=0x2f
-Label=GNOMES SNOW SPORTS YALDHURST
-StreetDesc=39 West Coast Rd Yaldhurst Chc/ snow sports
+Label=GNOMES ALPINE SPORTS - YALDHURST
+StreetDesc=39 West Coast Rd Yaldhurst Chc/ Ski, skiing, skis, hire, yaldhurst
 Phone=+6433425757
-zip=7am - 6.30pm, 7 days a week.
+zip=7am - 6.30pm, 7 days a week. (june-octob
 Data0=(-43.51226,172.50391)
 [END]
 
@@ -192897,6 +192896,7 @@ Data0=(-41.22048,172.98064)
 Type=0x2c0a
 Label=PARR & SIMPSON LIMESTONE BAY
 StreetDesc=51 Falconer Rd, Pohara/ Winery
+Phone=+35256223
 Data0=(-40.83616,172.90074)
 [END]
 
@@ -203424,5 +203424,109 @@ Label=?RURAL DELIVERY MIDWIVES
 StreetDesc=Rangiora and North Canterbury/ Rangiora and North Canterbury
 Phone=+6433133102
 Data0=(-43.30336,172.59572)
+[END]
+
+;1191824
+[POI]
+Type=0x2c0a
+Label=GIESEN WINES
+StreetDesc=Cnr Vernon & Bristol St's Riverland Blenheim/ Winery
+Phone=+03578905
+Data0=(-41.53109,174.01152)
+[END]
+
+;1191825
+[POI]
+Type=0x2c0a
+Label=GIESENS CELLAR DOOR
+StreetDesc=26 Rapaura Rd, Blenheim, Marlborough/ Cellar Door
+Phone=+35728500
+zip=Open seven days from 10am to 4:30pm
+Data0=(-41.48617,173.82051)
+[END]
+
+;1191827
+[POI]
+Type=0x2f
+Label=CASH FOR CARS CHRISTCHURCH, CARS FOR CASH
+StreetDesc=149 Maces Rd Bromley Chc/ Cash for cars 0800203050 Pays top cash for any Car, Va
+Phone=0800203050
+zip=7 Days A week
+Data0=(-43.53631,172.69343)
+[END]
+
+;1191836
+[POI]
+Type=0x2a
+Label=NO 5 CHURCH LANE
+StreetDesc=5 Church Lane, Queenstown/ Restaurant, bar
+Phone=+6434410004
+zip=Wed-Sun 4:30pm-2am
+Data0=(-45.03247,168.66190)
+[END]
+
+;1191855
+[POI]
+Type=0x2f
+Label=?ONYA BAGS TRAVEL BAGS
+StreetDesc=Canterbury/ Environmentally friendly bags such as reusable bags and green bags f
+Phone=+6433350005
+Data0=(-43.75423,171.16372)
+[END]
+
+;1191857
+[POI]
+Type=0x2f
+Label=SOUTHERN PHO
+StreetDesc=1 Bond St, Dud/ Primary health organisation
+Phone=+6434771163
+Data0=(-45.87793,170.50272)
+[END]
+
+;1191872
+[POI]
+Type=0x2f
+Label=MARSHALL DAY ACOUSTICS
+StreetDesc=L 3, 69 Cambridge Tce, Chc/ Acoustic Consultants
+Phone=+6433658455
+Data0=(-43.53397,172.63143)
+[END]
+
+;1191878
+[POI]
+Type=0x2e
+Label=THE LISTENING POST CHRISTCHURCH
+StreetDesc=19 mandeville st riccarton Chc/ Home Theatre, Hi Fi, stereo systems, multi-room 
+Phone=+6433777299
+zip=9am-5:30pm
+Data0=(-43.53586,172.60657)
+[END]
+
+;1191879
+[POI]
+Type=0x2f
+Label=TRANSNATIONAL TRANSLATIONS LTD.
+StreetDesc=32 A Matipo St Riccarton Chc/ TransNational provides translation services in ove
+zip=Monday to Friday - 09:30 a.m. to 05:00 p
+Data0=(-43.53644,172.59731)
+[END]
+
+;1191880
+[POI]
+Type=0x2f
+Label=PARTY SHOP
+StreetDesc=133 Blenheim Rd, Chc/ Party supplies online store
+Phone=+6433778244
+Data0=(-43.53764,172.59891)
+[END]
+
+;1191883
+[POI]
+Type=0x2f
+Label=MULFORD HOLDINGS LTD
+StreetDesc=Unit 6 100 Fitzgerald Ave Chc 8011 New Zealand/ Expert suppliers & applicators o
+Phone=+6434884151
+zip=Monday - Friday 8.00am - 5.00pm, Saturda
+Data0=(-43.53418,172.65080)
 [END]
 

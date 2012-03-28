@@ -2568,9 +2568,9 @@ Data0=(-44.91484,171.09878)
 ;1010451
 [POI]
 Type=0x2c05
-Label=GLENELG HEALTH CAMP SCHOOL
+Label=TE PUNA WHAIORA KI CHRISTCHURCH
 StreetDesc=23 Glenelg Spur, St Martins, Chc/ State Co-Ed Health Camp School
-Phone=+6433329615
+Phone=+6433322541
 Data0=(-43.56324,172.66688)
 [END]
 
@@ -2919,9 +2919,9 @@ Data0=(-44.65163,169.29063)
 ;1011165
 [POI]
 Type=0x2c05
-Label=HEALTH CAMP SCHOOL (OTAGO-SOUTHLAND)
-StreetDesc=Teviot St, Roxburgh/ State Co-Ed Health Camp School
-Phone=+6434468690
+Label=ROXBURGH CHILDREN'S HEALTH CAMP
+StreetDesc=13 Teviot St, Roxburgh/ State Co-Ed Health Camp School
+Phone=+6434468119
 Data0=(-45.54623,169.31799)
 [END]
 
@@ -10137,9 +10137,9 @@ Data0=(-42.44925,171.21246)
 ;1034867
 [POI]
 Type=0x2f01
-Label=SHELL GROVE ROAD 24HR
-StreetDesc=Cnr Grove Rd And Budge St, Blenheim/ Shell petrol station
-Phone=+6435782850
+Label=Z ENERGY GROVE ROAD 24HR
+StreetDesc=Cnr Grove Rd And Budge St, Blenheim/ Z petrol station
+Phone=+6435792350
 zip=24hrs
 Data0=(-41.50313,173.96104)
 [END]
@@ -10303,8 +10303,8 @@ Data0=(-41.39436,173.06619)
 ;1035560
 [POI]
 Type=0x2f01
-Label=SHELL SPRINGLANDS
-StreetDesc=165 Middle Renwick Rd, Blenheim/ Shell petrol station
+Label=Z ENERGY SPRINGLANDS
+StreetDesc=165 Middle Renwick Rd, Blenheim/ Z petrol station
 Phone=+6435785952
 Data0=(-41.51026,173.93026)
 [END]
@@ -32327,16 +32327,6 @@ zip=Monday - Friday 8:00a.m. - 4:30p.m.
 Data0=(-46.42034,168.34633)
 [END]
 
-;1095554
-[POI]
-Type=0x2e
-Label=TRENTS CASH'N CARRY TIMARU
-StreetDesc=84 Hilton Highway, Timaru/ Trents was established to target the supply of specia
-Phone=+6436882053
-zip=Monday - Friday 8:00a.m. - 4:30p.m.
-Data0=(-44.36273,171.24158)
-[END]
-
 ;1095555
 [POI]
 Type=0x2e
@@ -38918,8 +38908,9 @@ Data0=(-45.01392,168.75650)
 [POI]
 Type=0x2c0a
 Label=AKARUA
-StreetDesc=Cairnmuir Rd, Bannockburn, Dud/ 
+StreetDesc=210 Cairnmuir Rd, Bannockburn, Dud/ Winery, cellar door
 Phone=+6434450897
+zip=Mon-Fri 10am-5pm, Weekends 11am-4pm
 Data0=(-45.08479,169.18083)
 [END]
 
@@ -47151,12 +47142,12 @@ Data0=(-45.88078,170.50069)
 
 ;1105721
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=FORREST ESTATE WINERY LTD
-StreetDesc=Blicks Rd, Renwick, Blenheim/ 
+StreetDesc=19 Blicks Rd, Renwick, Blenheim/ Winery, cellar door
 Phone=+6435729084
-zip=Mon-Fri 0830am-1700pm
-Data0=(-41.50259,173.82244)
+zip=Open 7 days 10am-4.30pm
+Data0=(-41.49476,173.81833)
 [END]
 
 ;1105723
@@ -51560,8 +51551,8 @@ Type=0x2c0a
 Label=LAKE CHALICE WINES
 StreetDesc=93 Vintage Lane, Renwick, Blenheim/ Winery, cellar door
 Phone=+6435729327
-zip=Mon-Fri 1100 -1600( Summer)
-Data0=(-41.49228,173.83730)
+zip=Mon-Fri 1100 -1600( Summer) Weekends/Win
+Data0=(-41.49222,173.83751)
 [END]
 
 ;1108388
@@ -56370,9 +56361,9 @@ Data0=(-43.54692,172.50724)
 [POI]
 Type=0x2c0a
 Label=?PACKSPUR VINEYARD
-StreetDesc=Heaney Rd, RD 2, Cromwell/ 
+StreetDesc=Heaney Rd, RD 2, Cromwell/ Winery
 Phone=+6434451638
-Data0=(-44.99495,169.18677)
+Data0=(-44.99083,169.19429)
 [END]
 
 ;1111183
@@ -67258,9 +67249,9 @@ Data0=(-44.78762,168.67351)
 ;1116811
 [POI]
 Type=0x6402
-Label=?BUNGAREE HUT
+Label=BUNGAREE HUT
 StreetDesc=Rakiura Ntl Park - South Island > Southland > Stewart Island/Rakiura/ DOC Backco
-Data0=(-46.80890,168.03375)
+Data0=(-46.80904,168.03352)
 [END]
 
 ;1116812
@@ -71106,9 +71097,9 @@ Data0=(-46.55379,169.32480)
 ;1117493
 [POI]
 Type=0x6402
-Label=?TE ONEROA A-FRAME HUT
+Label=TE ONEROA A-FRAME HUT
 StreetDesc=Fiordland Ntl Park, Te Anau - South Island > Fiordland > Fiordland/ DOC Backcoun
-Data0=(-46.12242,166.67244)
+Data0=(-46.12245,166.67246)
 [END]
 
 ;1117505
@@ -73491,10 +73482,10 @@ Data0=(-42.72326,170.97828)
 
 ;1118439
 [POI]
-Type=0x2b00
+Type=0x2b03
 Label=HANMER RIVER HOLIDAY PARK
-StreetDesc=26 Medway Rd, Hanmer Springs/ Accommodation. Holiday park. Dump station
-Phone=+6494079773
+StreetDesc=26 Medway Rd, Hanmer Springs/ Accommodation. Holiday park. Camp Ground, Dump sta
+Phone=+33157111
 Data0=(-42.57894,172.78993)
 [END]
 
@@ -87461,7 +87452,7 @@ Type=0x6404
 Label=ILAM SEVENTH DAY ADVENTIST CHURCH
 StreetDesc=24 Ilam Rd, Ilam, Chc/ Church, Seventh Day Adventist, SDA
 Phone=+6433434967
-zip=9.30am - 12am Saturday
+zip=9.30am - 1pm Saturday
 Data0=(-43.52950,172.58007)
 [END]
 
@@ -121385,7 +121376,9 @@ Data0=(-42.77415,172.84781)
 [POI]
 Type=0x2a0e
 Label=TWO RIVERS CAFE
-StreetDesc=11 Hall St, Cheviot/ cafe
+StreetDesc=11 Hall St, Cheviot/ Cafe
+Phone=+6433198505
+zip=Open Daily from 8.30 a.m. - 4.30 p.m.
 Data0=(-42.81437,173.27338)
 [END]
 
@@ -140093,15 +140086,6 @@ Phone=+6433326487
 Data0=(-43.55611,172.63664)
 [END]
 
-;1151503
-[POI]
-Type=0x2f
-Label=PHYSIO SOUTH @ CRICHTON COBBERS
-StreetDesc=Cnr Chester St East and Fitzgerald Ave/ Physiotherapist, physio
-Phone=+6433660144
-Data0=(-43.52756,172.65021)
-[END]
-
 ;1151504
 [POI]
 Type=0x2f
@@ -141750,9 +141734,9 @@ Data0=(-45.09835,170.97276)
 [POI]
 Type=0x2f
 Label=WAITAKI FINANCIAL SERVICES
-StreetDesc=1 Coquet St, Oamaru/ Life Insurance, Income Protection, Medical Finance, Mortgag
+StreetDesc=120 Thames St, Oamaru/ Life Insurance, Income Protection, Medical Finance, Mortg
 Phone=+6434345542
-Data0=(-45.09831,170.97256)
+Data0=(-45.09699,170.97103)
 [END]
 
 ;1152598
@@ -181659,8 +181643,9 @@ Data0=(-46.15256,168.32972)
 ;1173560
 [POI]
 Type=0x2f01
-Label=SHELL TRUCK STOP, BLENHEIM 24HR
+Label=Z ENERGY TRUCK STOP, BLENHEIM 24HR
 StreetDesc=Cnr Grove Rd & Budge St, Blenheim/ Diesel, Fuel Cards only
+Phone=+6435792350
 zip=24 hr
 Data0=(-41.50309,173.96087)
 [END]
@@ -203528,5 +203513,51 @@ StreetDesc=Unit 6 100 Fitzgerald Ave Chc 8011 New Zealand/ Expert suppliers & ap
 Phone=+6434884151
 zip=Monday - Friday 8.00am - 5.00pm, Saturda
 Data0=(-43.53418,172.65080)
+[END]
+
+;1191905
+[POI]
+Type=0x2f01
+Label=Z ENERGY REDWOOD
+StreetDesc=225 Scott St, Redwood, Blenheim/ Z petrol station
+Phone=+6435795790
+Data0=(-41.52980,173.95828)
+[END]
+
+;1191907
+[POI]
+Type=0x2b00
+Label=AIRPORT PALMS MOTEL
+StreetDesc=56 Roydvale ave, Chc/ Accommodation
+Phone=0800200529
+Data0=(-43.49903,172.56174)
+[END]
+
+;1191908
+[POI]
+Type=0x2f
+Label=INSTILL PHOTOGRAPHY
+StreetDesc=31 duke st, Chc, NZ/ 
+Phone=+6433661775
+Data0=(-43.53475,172.64938)
+[END]
+
+;1191943
+[POI]
+Type=0x2f
+Label=AFFINITY MORTGAGE ADVISORS LTD
+StreetDesc=51 Beresford St Dud 9010 New Zealand/ Authorized financial advisor & mortgage br
+Phone=+6434728790
+zip=Monday - Friday 8.00am - 5.00pm
+Data0=(-45.86188,170.48407)
+[END]
+
+;1191952
+[POI]
+Type=0x2f
+Label=AT TAREEN PHOTOGRAPHY
+StreetDesc=33 Willis St, Invercargill,9810/ Professional Photographer, Commercial Photograp
+Phone=+6422194639
+Data0=(-46.38573,168.34508)
 [END]
 

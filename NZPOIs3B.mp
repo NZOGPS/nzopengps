@@ -42865,11 +42865,11 @@ Data0=(-46.41331,168.38815)
 ;1103216
 [POI]
 Type=0x2f
-Label=CHISHOLM'S LTD
-StreetDesc=15 Wharf St, Dud/ 
+Label=?CHISHOLM'S LTD
+StreetDesc=18 McBride St, Dud/ Adhesives and Sealants
 Phone=+6434773200
-zip=Mon-Fri 0830-1700
-Data0=(-45.88423,170.50463)
+zip=Mon-Fri 0700-1700
+Data0=(-45.89424,170.50181)
 [END]
 
 ;1103227
@@ -48789,15 +48789,6 @@ Label=HAMISH THOMAS EXPORTS LTD
 StreetDesc=26 Hackthorne Rd, Cashmere, Chc/ 
 Phone=+6433376591
 Data0=(-43.57237,172.62378)
-[END]
-
-;1106571
-[POI]
-Type=0x2f
-Label=HAMPTON & CO LTD
-StreetDesc=151 Ferry Rd, Chc/ 
-Phone=+6433743333
-Data0=(-43.53857,172.65231)
 [END]
 
 ;1106594
@@ -85926,8 +85917,9 @@ Data0=(-45.86727,170.49048)
 [POI]
 Type=0x2a
 Label=ZUCCHINI BROTHERS
-StreetDesc=292 Highgate, Roslyn, Dud/ Zucchini Bros. Italian restaurant, licensed & BYO
+StreetDesc=292 Highgate, Roslyn, Dud/ Superb pasta & pizza restaurant in Dunedin with an in
 Phone=+6434779373
+zip=5pm - late, 7 days
 Data0=(-45.86737,170.49019)
 [END]
 
@@ -95691,14 +95683,6 @@ Type=0x2f
 Label=DOROTHY'S
 StreetDesc=2 Latimer Sq, Chc/ 
 Data0=(-43.53180,172.64350)
-[END]
-
-;1131171
-[POI]
-Type=0x2a0e
-Label=DOSE CAFE
-StreetDesc=77 Tuam St, Chc/ cafe
-Data0=(-43.53521,172.63159)
 [END]
 
 ;1131172
@@ -130969,8 +130953,9 @@ Data0=(-43.52924,172.60840)
 [POI]
 Type=0x2f
 Label=CANTERBURY BILTONG LIMITED
-StreetDesc=1010 Ferry Rd, Chc/ 
-Data0=(-43.55763,172.70256)
+StreetDesc=42 Leeds St, Phillipstown, Chc/ Biltong, beef sticks & healthy snacks
+Phone=+6433660455
+Data0=(-43.53789,172.65317)
 [END]
 
 ;1146649
@@ -203526,7 +203511,7 @@ Data0=(-41.52980,173.95828)
 
 ;1191907
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=AIRPORT PALMS MOTEL
 StreetDesc=56 Roydvale ave, Chc/ Accommodation
 Phone=0800200529

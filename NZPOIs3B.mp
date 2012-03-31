@@ -56172,6 +56172,15 @@ Phone=+6432131516
 Data0=(-46.42691,168.37085)
 [END]
 
+;1111063
+[POI]
+Type=0x2c0a
+Label=OYSTER BAY MARLBOROUGH VINEYARDS LTD
+StreetDesc=634 West Coast Rd Renwick Marlborough/ Winery ( No Cellar Door)
+Phone=+6435726300
+Data0=(-41.51709,173.75935)
+[END]
+
 ;1111064
 [POI]
 Type=0x2f
@@ -203544,5 +203553,41 @@ Label=AT TAREEN PHOTOGRAPHY
 StreetDesc=33 Willis St, Invercargill,9810/ Professional Photographer, Commercial Photograp
 Phone=+6422194639
 Data0=(-46.38573,168.34508)
+[END]
+
+;1191978
+[POI]
+Type=0x2a
+Label=CHEF’S HIRE
+StreetDesc=60 Hayton Rd, Sockburn, Chc, New Zealand/ Catering Hire Equipment Supplier Chris
+Phone=+6439827030
+Data0=(-43.54325,172.55740)
+[END]
+
+;1191982
+[POI]
+Type=0x2f
+Label=CAREER ZONE CONSULTING
+StreetDesc=90A Rossall St , Merivale, Chc 8014/ How to write CV, Cover letter, Interview co
+Phone=+6433556723
+Data0=(-43.51823,172.61574)
+[END]
+
+;1192020
+[POI]
+Type=0x2f
+Label=BODY WISE HEALTH
+StreetDesc=142 Gayhurst Rd, Dallington, Chc 8061/ Physiotherapy services catering to all ne
+Phone=+6433853114
+zip=8.00 am to 6.00 with late night Wednesda
+Data0=(-43.51417,172.67439)
+[END]
+
+;1192074
+[POI]
+Type=0x2f
+Label=ANTONIO HALL
+StreetDesc=265 riccarton Rd,upper Riccaton,Chc/ telecom payhone with free wifi hotspot
+Data0=(-43.53106,172.58556)
 [END]
 

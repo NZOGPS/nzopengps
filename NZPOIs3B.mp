@@ -203591,3 +203591,12 @@ StreetDesc=265 riccarton Rd,upper Riccaton,Chc/ telecom payhone with free wifi h
 Data0=(-43.53106,172.58556)
 [END]
 
+;1192101
+[POI]
+Type=0x2c05
+Label=SCHOOL ZONE - HAREWOOD SCHOOL@40
+StreetDesc=721 Harewood Rd, Chc/ Harewood School
+Phone=+6433598382
+Data0=(-43.47941,172.55944)
+[END]
+

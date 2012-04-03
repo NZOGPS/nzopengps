@@ -49,7 +49,7 @@ sub process_road(){
 	
 die "usage: $0 tilename\n" if $tile eq ""; 
 
-$filename = "outputs/$tile-report.txt";
+$filename = "outputs/$tile-report-2.txt";
 open (REPORT, $filename) or die "$filename not found\n";
 HEADER: while (<REPORT>) {
 	last HEADER if /[\d]+ LINZ ids are missing/;

@@ -7644,6 +7644,15 @@ Phone=+6432367636
 Data0=(-46.14277,168.32474)
 [END]
 
+;1027209
+[POI]
+Type=0x2e
+Label=PAPER PLUS BOOKS THE PALMS
+StreetDesc=Shop 92 The Palms Shopping Ctr Shirley, Chc/ Bookshop, Books, Magazines, Cards, 
+Phone=+6433861547
+Data0=(-43.50699,172.66373)
+[END]
+
 ;1027643
 [POI]
 Type=0x2e
@@ -66336,9 +66345,9 @@ Data0=(-46.54289,169.60925)
 ;1116645
 [POI]
 Type=0x2b03
-Label=?RARANGI CAMPSITE (DOC)
+Label=RARANGI CAMPSITE (DOC)
 StreetDesc=Rarangi Recreation Reserve - South Island > Marlborough > South Marlborough/ DOC
-Data0=(-41.39292,174.04646)
+Data0=(-41.39312,174.04664)
 [END]
 
 ;1116647
@@ -66529,9 +66538,9 @@ Data0=(-43.71877,170.09332)
 ;1116698
 [POI]
 Type=0x2b03
-Label=?WHITES BAY CAMPSITE (DOC)
+Label=WHITES BAY CAMPSITE (DOC)
 StreetDesc=Whites Bay Recreation Reserve - South Island > Marlborough > South Marlborough/ 
-Data0=(-41.38292,174.05706)
+Data0=(-41.38477,174.05726)
 [END]
 
 ;1116700
@@ -66619,7 +66628,7 @@ Data0=(-43.47458,170.20855)
 Type=0x6402
 Label=ANATOKI FORKS HUT
 StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Golden Bay/ DOC Backcountry 
-Data0=(-40.93893,172.60781)
+Data0=(-40.93919,172.60826)
 [END]
 
 ;1116713
@@ -155446,7 +155455,7 @@ Data0=(-41.28289,173.71805)
 ;1160304
 [POI]
 Type=0x4a00
-Label=RAI VALLEY REST AREA
+Label=COLLINS VALLEY REST AREA
 StreetDesc=State Highway 6, Rai Valley, Marlborough/ Rest area
 Data0=(-41.17917,173.55892)
 [END]
@@ -203598,5 +203607,33 @@ Label=SCHOOL ZONE - HAREWOOD SCHOOL@40
 StreetDesc=721 Harewood Rd, Chc/ Harewood School
 Phone=+6433598382
 Data0=(-43.47941,172.55944)
+[END]
+
+;1192111
+[POI]
+Type=0x2e0b
+Label=PAYBACK COMPUTER SERVICE ~ FOR ALL PC REPAIRS
+StreetDesc=59 Centaurus Rd, Huntsbury, Chc/ Christchurch PC Repairs, Virus removal & Spywar
+Phone=+6433370447
+zip=9.00 am to 5.30 pm
+Data0=(-43.56842,172.64588)
+[END]
+
+;1192124
+[POI]
+Type=0x2e
+Label=BELLA GIFTS
+StreetDesc=83 Centaurus Rd, Cashmere, Chc/ Bella Gifts Christchurch is built on the philoso
+Phone=+6433370903
+Data0=(-43.56706,172.64663)
+[END]
+
+;1192128
+[POI]
+Type=0x2f11
+Label=ASPIRING ADVENTURES
+StreetDesc=13 Wickliffe St, Mosgiel, Otago/ Adventure travel company with hiking, biking, c
+Phone=+6434897474
+Data0=(-45.87847,170.35472)
 [END]
 

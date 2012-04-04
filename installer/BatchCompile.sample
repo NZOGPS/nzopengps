@@ -1,23 +1,23 @@
-set cgpsmapperLocation="C:\Program Files\cgpsmapper"
-set innoSetupLocation="C:\Program Files\Inno Setup 5"
+set cgpsmapperLocation="C:/Program Files (x86)/cgpsmapper"
+set innoSetupLocation="C:/Program Files (x86)/Inno Setup 5"
 
 cd tmp
 :: Compile Map Tiles
-%cgpsmapperLocation\cgpsmapper ac "..\..\Northland.mp" > NorthlandcompileLog.txt
-%cgpsmapperLocation\cgpsmapper ac "..\..\Auckland.mp" > AucklandcompileLog.txt 
-%cgpsmapperLocation\cgpsmapper ac "..\..\Waikato.mp" > WaikatocompileLog.txt 
-%cgpsmapperLocation\cgpsmapper ac "..\..\Central.mp" > CentralcompileLog.txt 
-%cgpsmapperLocation\cgpsmapper ac "..\..\Wellington.mp" > WellingtoncompileLog.txt 
-%cgpsmapperLocation\cgpsmapper ac "..\..\Tasman.mp" > TasmancompileLog.txt 
-%cgpsmapperLocation\cgpsmapper ac "..\..\Canterbury.mp" > CanterburycompileLog.txt 
-%cgpsmapperLocation\cgpsmapper ac "..\..\Southland.mp" > SouthlandcompileLog.txt 
+%cgpsmapperLocation%\cgpsmapper ac "../../Northland.mp" > NorthlandcompileLog.txt
+%cgpsmapperLocation%\cgpsmapper ac "..\..\Auckland.mp" > AucklandcompileLog.txt 
+%cgpsmapperLocation%\cgpsmapper ac "..\..\Waikato.mp" > WaikatocompileLog.txt 
+%cgpsmapperLocation%\cgpsmapper ac "..\..\Central.mp" > CentralcompileLog.txt 
+%cgpsmapperLocation%\cgpsmapper ac "..\..\Wellington.mp" > WellingtoncompileLog.txt 
+%cgpsmapperLocation%\cgpsmapper ac "..\..\Tasman.mp" > TasmancompileLog.txt 
+%cgpsmapperLocation%\cgpsmapper ac "..\..\Canterbury.mp" > CanterburycompileLog.txt 
+%cgpsmapperLocation%\cgpsmapper ac "..\..\Southland.mp" > SouthlandcompileLog.txt 
 
 ::  Compile POIFiles
-%cgpsmapperLocation\cgpsmapper ac "..\..\NZPOIs3A.mp
-%cgpsmapperLocation\cgpsmapper ac "..\..\NZPOIs3B.mp
+%cgpsmapperLocation%\cgpsmapper ac "..\..\NZPOIs3A.mp
+%cgpsmapperLocation%\cgpsmapper ac "..\..\NZPOIs3B.mp
 
 ::  Compile TYP files
-rem %cgpsmapperLocation\cgpsmapper typ "..\..\Traffic Lights TYP.txt"
+rem %cgpsmapperLocation%\cgpsmapper typ "..\..\Traffic Lights TYP.txt"
 
 cd ..
 :: PREPARE NEW PV FILE WITH CURRENT DATE FOR MAPSOURCE VERSION IDENTIFICATION
@@ -30,17 +30,25 @@ cscript /nologo DateScript.vbs  > tmp/NZO5_pv.txt
 cd tmp
 :: Compile Global Index's and preview maps
 ::
-%cgpsmapperLocation\cpreview "NZO5_pv.txt"
+%cgpsmapperLocation%\cpreview "NZO5_pv.txt"
 
 
 :: Compile Preview File
 ::
-::   *** Remove Codepage from  Free Open GPS NZ Autorouting.mp....then hit return to continue ***
-::
-::Pause
-%cgpsmapperLocation\cgpsmapper ac "Free Open GPS NZ Autorouting.mp" -o "Free Open GPS NZ Autorouting.img"
+rem
+rem
+rem  *** Removing Codepage from  Free Open GPS NZ Autorouting.mp.... ***
+rem
+rem
+
+C:\Ruby193\devkit\bin\perl ../RemoveCodepage.pl "Free Open GPS NZ Autorouting.mp"
+
+rem
+
+%cgpsmapperLocation%\cgpsmapper ac "Free Open GPS NZ Autorouting.mp" -o "Free Open GPS NZ Autorouting.img"
+
 
 cd ..
 :: Compile Installer
-%innoSetupLocation\iscc "NZ OpenGPS Setup.iss"
+%innoSetupLocation%\iscc "NZ OpenGPS Setup.iss"
 pause

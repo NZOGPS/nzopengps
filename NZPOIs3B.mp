@@ -203637,3 +203637,42 @@ Phone=+6434897474
 Data0=(-45.87847,170.35472)
 [END]
 
+;1192134
+[POI]
+Type=0x2f
+Label=THE HEATING COMPANY DUNEDIN
+StreetDesc=40-42 Prince Albert Rd St Kilda Dud 9012 New Zealand/ Heat pumps specialists for
+Phone=+6434553333
+zip=Monday - Friday 8am - 5pm
+Data0=(-45.90106,170.50470)
+[END]
+
+;1192135
+[POI]
+Type=0x2f
+Label=AA JAPANESE DIESEL DISMANTLERS
+StreetDesc=848 Jones Rd, Rolleston, Canterbury, New Zealand/ Japanese 4WD, Diesel Vehicles 
+Phone=+6433479025
+Data0=(-43.58879,172.37791)
+[END]
+
+;1192137
+[POI]
+Type=0x2d02
+Label=THE PEDAL PUSHER
+StreetDesc=284/286 Lincoln Rd, Addington, Chc 8024, New Zealand/ funky gastro pub. restaura
+Phone=+6433350095
+zip=10am - Late Mon - Fri, 9am - Late Sat & 
+Data0=(-43.54431,172.61091)
+[END]
+
+;1192138
+[POI]
+Type=0x2f
+Label=FRANK J. VISSER PHOTOGRAPHY LTD
+StreetDesc=35 Reserve Terrace, Lyttelton/ Wedding Photography Studio
+Phone=+6433287376
+zip=always
+Data0=(-43.60485,172.72545)
+[END]
+

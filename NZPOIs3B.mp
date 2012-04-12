@@ -15187,7 +15187,7 @@ Data0=(-43.50685,172.66421)
 Type=0x2e
 Label=THE BODY SHOP DUNEDIN
 StreetDesc=Golden Center, 251 George St, Dud/ health & beauty, cosmetics
-Phone=+6434719383
+Phone=+6434719313
 Data0=(-45.87071,170.50525)
 [END]
 
@@ -21323,10 +21323,10 @@ Data0=(-43.51705,172.63985)
 ;1074270
 [POI]
 Type=0x2b00
-Label=?HU HA BIKEPACKERS
+Label=HU HA BIKEPACKERS
 StreetDesc=State Highway 6, Glenhope/ Backpacker accommodation. BBH. Small farm hostel. Ope
 Phone=+6435482707
-Data0=(-41.64326,172.66016)
+Data0=(-41.64066,172.68268)
 [END]
 
 ;1074277
@@ -33751,7 +33751,7 @@ Data0=(-43.53077,172.60001)
 [POI]
 Type=0x2e07
 Label=SHOE CLINIC INVERCARGILL
-StreetDesc=38 Esk St, Invercargill/ Sports shoes and apparel
+StreetDesc=38 Esk St, Invercargill/ shoes
 Phone=+6432182266
 Data0=(-46.41174,168.34859)
 [END]
@@ -36860,7 +36860,7 @@ Data0=(-42.11513,171.33029)
 [POI]
 Type=0x4c
 Label=DEPARTMENT OF CONSERVATION, QUEENSTOWN VISITOR CENTRE
-StreetDesc=37 Shotover St, Queenstown/ DOC visitor information
+StreetDesc=36 Shotover St, Queenstown/ DOC visitor information
 Phone=+6434427935
 Data0=(-45.03131,168.65959)
 [END]
@@ -87632,10 +87632,10 @@ Data0=(-44.39655,171.25592)
 ;1127980
 [POI]
 Type=0x2e0b
-Label=YOOBEE FREDERICKS ST
+Label=YOOBEE FREDERICK ST
 StreetDesc=21 Frederick St, Dud/ Educational discounts, Apple computers, iPhone, iPod, iMac
 Phone=08004966233
-zip=Mon-Fri 9am-5:30pm, Sat 10am-3pm
+zip=Mon-Fri 9am-5:30pm, Sat 10am-4pm
 Data0=(-45.86801,170.50785)
 [END]
 
@@ -92569,7 +92569,7 @@ Type=0x2e0b
 Label=YOOBEE DUNEDIN
 StreetDesc=80 Crawford St, Dud/ Apple computers authorised sales and service centre. iPods,
 Phone=08004966233
-zip=Mon-Fri 9am-5.30pm, Sat-Sun 10am-5pm
+zip=Mon-Fri 9am-5.30pm, Sat 10am-4pm, Sun 11
 Data0=(-45.88042,170.50150)
 [END]
 
@@ -93707,14 +93707,6 @@ Type=0x2a
 Label=ASIAN DELIGHTS RESTAURANT
 StreetDesc=10 Yaldhurst Rd, Chc/ restaurant
 Data0=(-43.53152,172.57126)
-[END]
-
-;1130901
-[POI]
-Type=0x2f
-Label=ASIAN FOOD WAREHOUSE
-StreetDesc=300 Manchester St, Chc/ 
-Data0=(-43.52398,172.63984)
 [END]
 
 ;1130902
@@ -95049,9 +95041,11 @@ Data0=(-43.53627,172.48368)
 
 ;1131084
 [POI]
-Type=0x2f
+Type=0x2e02
 Label=CHRISTCHURCH WHOLESALE SEAFOODS
-StreetDesc=1/303 Colombo St, Chc/ 
+StreetDesc=1/303 Colombo St, Chc/ christchurch fish, fish shop christchurch, fresh fish chr
+Phone=+6433326969
+zip=Monday - Friday 9.00am - 6.00pm Saturday
 Data0=(-43.54941,172.63655)
 [END]
 
@@ -171101,8 +171095,9 @@ Data0=(-45.86740,170.45550)
 [POI]
 Type=0x2f
 Label=SALISBURY HEALTH CENTRE
-StreetDesc=47 Salisbury St, Chc/ 
-Data0=(-43.52429,172.63117)
+StreetDesc=912 Colombo St Chc/ Medical centre, Medical practice, GPs, Family Doctors, Gener
+zip=8-6 Mon, Wed Thurs, Fri. Late night Tues
+Data0=(-43.52136,172.63692)
 [END]
 
 ;1169335
@@ -183433,6 +183428,14 @@ StreetDesc=Penguin Bay, East Coast, D'Urville Island - South Island > Marlboroug
 Data0=(-40.84400,173.91000)
 [END]
 
+;1173999
+[POI]
+Type=0x2b03
+Label=?PIPI BEACH CAMPSITE (DOC)
+StreetDesc=Sounds Foreshore Reserve, Hikapu Reach, Inner Pelorus Sound - South Island > Mar
+Data0=(-41.17038,173.86173)
+[END]
+
 ;1174000
 [POI]
 Type=0x2b03
@@ -188390,9 +188393,9 @@ Data0=(-46.33952,168.05593)
 
 ;1177181
 [POI]
-Type=0x2b00
-Label=WEST COAST TRAVEL CENTRE
-StreetDesc=164 Mackay St, Greymouth/ Travel Bookings & Visitor Information. Expert advice a
+Type=0x2f11
+Label=GREYMOUTH I-SITE WEST COAST TRAVEL CENTRE
+StreetDesc=164 Mackay St, Greymouth/ The official Greymouth visitor information centre offe
 Phone=+6437687080
 Data0=(-42.44843,171.21399)
 [END]
@@ -190167,7 +190170,7 @@ Data0=(-41.11486,173.76408)
 Type=0x4700
 Label=BOAT RAMP
 StreetDesc=Queen Charlotte Dr, Ngakuta Bay, Picton/ Boat Ramp
-Data0=(-41.27248,173.96009)
+Data0=(-41.27309,173.96160)
 [END]
 
 ;1177941
@@ -196494,9 +196497,10 @@ Data0=(-41.29059,174.00100)
 ;1181329
 [POI]
 Type=0x2a0e
-Label=?ATAWHAI CAFE
+Label=ATAWHAI CAFE
 StreetDesc=Lagoon Rd, Picton/ 
-Data0=(-41.28928,174.00065)
+Phone=+6435736030
+Data0=(-41.28723,174.00578)
 [END]
 
 ;1181330
@@ -196544,9 +196548,10 @@ Data0=(-41.27432,173.92461)
 ;1181335
 [POI]
 Type=0x2a0e
-Label=?LOCHMARA LODGE CAFE
-StreetDesc=Lochmara Bay, Queen Charlotte Sound/ 
-Data0=(-41.27073,173.95220)
+Label=LOCHMARA LODGE CAFE
+StreetDesc=Lochmara Bay, Queen Charlotte Sound/ Cafe
+Phone=+35734554
+Data0=(-41.22940,173.99579)
 [END]
 
 ;1181336
@@ -201343,7 +201348,7 @@ Data0=(-46.41319,168.35377)
 [POI]
 Type=0x2b01
 Label=BIRCHWOOD MANOR MOTEL
-StreetDesc=189 Tay St, Invercargill/ If you're looking for Invercargill accommodation with 
+StreetDesc=189 Tay St, Invercargill/ accommodation
 zip=7am
 Data0=(-46.41331,168.35917)
 [END]
@@ -201694,6 +201699,7 @@ Type=0x2e0b
 Label=YOOBEE RESTART
 StreetDesc=Restart, Cashel St City Mall, Chc Central/ Apple computers premium reseller. iPo
 Phone=+6439434011
+zip=Mon-Sat 10am-6pm, Sun 10am-5pm
 Data0=(-43.53282,172.63605)
 [END]
 
@@ -203674,5 +203680,504 @@ StreetDesc=35 Reserve Terrace, Lyttelton/ Wedding Photography Studio
 Phone=+6433287376
 zip=always
 Data0=(-43.60485,172.72545)
+[END]
+
+;1192163
+[POI]
+Type=0x2a0e
+Label=RODDY NUGGET CAFE AND BAR
+StreetDesc=5 Moorhouse St, Ross/ Cafe, Bar, Internet
+Phone=+6437554245
+Data0=(-42.89904,170.81711)
+[END]
+
+;1192177
+[POI]
+Type=0x2f
+Label=KIWI SPAN MARLBOROUGH
+StreetDesc=32 Timandra Place, Blenheim/ Garage, Carport & Shed Builders
+Phone=+6435792284
+Data0=(-41.51845,173.96970)
+[END]
+
+;1192178
+[POI]
+Type=0x2f
+Label=KIWI SPAN CHRISTCHURCH
+StreetDesc=21 Tyne St, Riccarton, Chc/ Garage, Carport & Shed Builders
+Phone=+6433430021
+Data0=(-43.53747,172.60900)
+[END]
+
+;1192179
+[POI]
+Type=0x2f
+Label=KIWI SPAN CANTERBURY
+StreetDesc=122 Hilton Highway, Washdyke, Timaru/ Garage, Carport & Shed Builders
+Phone=+6436887213
+Data0=(-44.36048,171.24025)
+[END]
+
+;1192180
+[POI]
+Type=0x2f
+Label=KIWI SPAN NORTH OTAGO
+StreetDesc=423 Thames Highway, Oamaru/ Garage, Carport & Shed Builders
+Phone=+6434371009
+Data0=(-45.07991,170.98330)
+[END]
+
+;1192181
+[POI]
+Type=0x2f
+Label=KIWI SPAN CENTRAL OTAGO
+StreetDesc=44 McNulty Rd, Cromwell/ Garage, Carport & Shed Builders
+Phone=+6434454810
+Data0=(-45.04914,169.18292)
+[END]
+
+;1192182
+[POI]
+Type=0x2f
+Label=KIWI SPAN DUNEDIN
+StreetDesc=149 Kaikorai Valley Rd, Dud/ Garage, Carport & Shed Builders
+Phone=+6434766236
+Data0=(-45.86883,170.47562)
+[END]
+
+;1192183
+[POI]
+Type=0x2f
+Label=KIWI SPAN INVERCARGILL
+StreetDesc=245 Bond St, Invercargill/ Garage, Carport & Shed Builders
+Phone=+6432188663
+Data0=(-46.41908,168.33986)
+[END]
+
+;1192207
+[POI]
+Type=0x2f
+Label=SKYLINE BUILDINGS BLENHEIM
+StreetDesc=22 Bomford St, Blenheim/ Garage, Carport & Shed Builders
+Phone=+6435786070
+Data0=(-41.50679,173.95832)
+[END]
+
+;1192208
+[POI]
+Type=0x2f
+Label=SKYLINE BUILDINGS NELSON
+StreetDesc=44A Beach Rd, Richmond/ Garage, Carport & Shed Builders
+Phone=+6435445669
+Data0=(-41.33443,173.18694)
+[END]
+
+;1192209
+[POI]
+Type=0x2f
+Label=SKYLINE BUILDINGS WESTPORT
+StreetDesc=5/7 Cobden St, Westport 7825, New Zealand/ Garage, Carport & Shed Builders
+Phone=+6437898228
+Data0=(-41.74909,171.59619)
+[END]
+
+;1192210
+[POI]
+Type=0x2f
+Label=SKYLINE BUILDINGS GREYMOUTH
+StreetDesc=1729C Coast Rd, Barrytown 7873, New Zealand/ Garage, Carport & Shed Builders
+Phone=+6437311134
+Data0=(-42.32614,171.26750)
+[END]
+
+;1192211
+[POI]
+Type=0x2f
+Label=SKYLINE BUILDINGS CHRISTCHURCH
+StreetDesc=40 Main North Rd, Papanui/ Garage, Carport & Shed Builders
+Phone=+6433544500
+Data0=(-43.49497,172.60958)
+[END]
+
+;1192212
+[POI]
+Type=0x2f
+Label=SKYLINE BUILDINGS ASHBURTON
+StreetDesc=4 Graham St, Tinwald, Ashburton 7700, New Zealand/ Garage, Carport & Shed Builde
+Phone=+6433080297
+Data0=(-43.92129,171.71889)
+[END]
+
+;1192213
+[POI]
+Type=0x2f
+Label=SKYLINE BUILDINGS TIMARU
+StreetDesc=252 Hilton Highway Timaru/ Garage, Carport & Shed Builders
+Phone=+6436882777
+Data0=(-44.35232,171.23746)
+[END]
+
+;1192214
+[POI]
+Type=0x2f
+Label=SKYLINE BUILDINGS OAMARU
+StreetDesc=77 Humber St Oamaru/ Garage, Carport & Shed Builders
+Phone=+6434340919
+Data0=(-45.08930,170.98061)
+[END]
+
+;1192215
+[POI]
+Type=0x2f
+Label=SKYLINE BUILDINGS DUNEDIN
+StreetDesc=1 McGlashan St, Mosgiel, Dud/ Garage, Carport & Shed Builders
+Phone=+6434898885
+Data0=(-45.88721,170.35280)
+[END]
+
+;1192216
+[POI]
+Type=0x2f
+Label=SKYLINE BUILDINGS CROMWELL
+StreetDesc=36 Inniscort St Cromwell/ Garage, Carport & Shed Builders
+Phone=+6434453306
+Data0=(-45.04863,169.20827)
+[END]
+
+;1192217
+[POI]
+Type=0x2f
+Label=SKYLINE BUILDINGS BALCLUTHA
+StreetDesc=13 Salcombe St, Kaitangata Balclutha/ Garage, Carport & Shed Builders
+Phone=+6434139585
+Data0=(-46.29043,169.84718)
+[END]
+
+;1192218
+[POI]
+Type=0x2f
+Label=SKYLINE BUILDINGS GORE
+StreetDesc=24 Traford St Gore/ Garage, Carport & Shed Builders
+Phone=+6432084794
+Data0=(-46.09629,168.94612)
+[END]
+
+;1192219
+[POI]
+Type=0x2f
+Label=SKYLINE BUILDINGS INVERCARGILL
+StreetDesc=245 Bond St, Invercargill/ Garage, Carport & Shed Builders
+Phone=+6432188663
+Data0=(-46.41908,168.33986)
+[END]
+
+;1192222
+[POI]
+Type=0x2f
+Label=MASTER ELECTRICS
+StreetDesc=Flat 3, 510 Wairakei Rd Bishopdale, Chc 8053/ We are Master Electrics and we pro
+Phone=+6433596841
+Data0=(-43.48900,172.56921)
+[END]
+
+;1192244
+[POI]
+Type=0x2f
+Label=TOTALSPAN STEEL BUILDINGS BLENHEIM
+StreetDesc=105 Middle Renwick Rd, Springlands, Blenheim 7201, New Zealand/ Garage, Carport 
+Phone=+6435794723
+Data0=(-41.50927,173.93696)
+[END]
+
+;1192245
+[POI]
+Type=0x2f
+Label=TOTALSPAN STEEL BUILDINGS NELSON
+StreetDesc=4a Kotua Place, Stoke, Nelson/ Garage, Carport & Shed Builders
+Phone=+6435410607
+Data0=(-41.32778,173.20808)
+[END]
+
+;1192246
+[POI]
+Type=0x2f
+Label=TOTALSPAN STEEL BUILDINGS WEST COAST
+StreetDesc=32 Otira Highway, Kumara Junction, Kumara/ Garage, Carport & Shed Builders
+Phone=+6437369302
+Data0=(-42.58744,171.12980)
+[END]
+
+;1192247
+[POI]
+Type=0x2f
+Label=TOTALSPAN STEEL BUILDINGS NORTH CANTERBURY
+StreetDesc=122 Main North Rd, Woodend 7610, New Zealand/ Garage, Carport & Shed Builders
+Phone=+6433100247
+Data0=(-43.31636,172.66899)
+[END]
+
+;1192248
+[POI]
+Type=0x2f
+Label=TOTALSPAN STEEL BUILDINGS CANTERBURY
+StreetDesc=738 Main South Rd, Templeton, Chc/ Garage, Carport & Shed Builders
+Phone=+6433440331
+Data0=(-43.55030,172.48633)
+[END]
+
+;1192249
+[POI]
+Type=0x2f
+Label=TOTALSPAN STEEL BUILDINGS TIMARU/OAMARU
+StreetDesc=30 Racecourse Rd, Washdyke, Timaru/ Garage, Carport & Shed Builders
+Phone=+6436887066
+Data0=(-44.35319,171.23661)
+[END]
+
+;1192250
+[POI]
+Type=0x2f
+Label=TOTALSPAN STEEL BUILDINGS OTAGO
+StreetDesc=11 Brighton Rd, Green Island, Dud 9018, New Zealand/ Garage, Carport & Shed Buil
+Phone=+6434885637
+Data0=(-45.90518,170.42031)
+[END]
+
+;1192252
+[POI]
+Type=0x2f
+Label=TOTALSPAN STEEL BUILDINGS CENTRAL OTAGO
+StreetDesc=2 Ree Cres, Cromwell 9310, New Zealand/ Garage, Carport & Shed Builders
+Phone=+6434454462
+Data0=(-45.05050,169.18903)
+[END]
+
+;1192254
+[POI]
+Type=0x2f
+Label=TOTALSPAN STEEL BUILDINGS SOUTHLAND
+StreetDesc=Cnr North Rd and Moores Rd, Invercargill/ Garage, Carport & Shed Builders
+Phone=+6432159580
+Data0=(-46.35832,168.34703)
+[END]
+
+;1192296
+[POI]
+Type=0x2e
+Label=JVC VALUERS
+StreetDesc=10a Athelstan St Barrington, Chc/ Jewellers, Jewellery Repairs
+Phone=+6433324233
+Data0=(-43.55733,172.61992)
+[END]
+
+;1192304
+[POI]
+Type=0x2e
+Label=SILVERMOON TIMARU
+StreetDesc=286 Stafford St, Timaru Central, Timaru 7910, New Zealand/ Jewellers, Jewellery 
+Phone=+6436849250
+zip=Mon-Wed 9am-6pm, Thu-Fri 9am-6:30pm, Sat
+Data0=(-44.39420,171.25120)
+[END]
+
+;1192310
+[POI]
+Type=0x2e
+Label=STEWART DAWSONS CHRISTCHURCH CITY
+StreetDesc=Shop 1, Triangle Ctr, Cnr Cashel & Colombo St, Chc/ Jewellers, Jewellery Repairs
+zip=Mon-Wed 9am-6pm, Thu-Fri 9am-9pm, Sat 9a
+Data0=(-43.53335,172.63688)
+[END]
+
+;1192311
+[POI]
+Type=0x2e
+Label=STEWART DAWSONS CHRISTCHURCH
+StreetDesc=Shop 80, Northlands Mall, Chc/ Jewellers, Jewellery Repairs
+Phone=+6433540905
+zip=Mon-Wed 9am-6pm, Thu-Fri 9am-9pm, Sat 9a
+Data0=(-43.49170,172.61194)
+[END]
+
+;1192312
+[POI]
+Type=0x2e
+Label=STEWART DAWSONS RICCARTON CHRISTCHURCH
+StreetDesc=Shop 139, Westfield Riccarton, Chc/ Jewellers, Jewellery Repairs
+Phone=+6433431315
+zip=Mon-Wed 9am-6pm, Thu-Fri 9am-9pm, Sat 9a
+Data0=(-43.53029,172.59792)
+[END]
+
+;1192313
+[POI]
+Type=0x2e
+Label=STEWART DAWSONS DUNEDIN
+StreetDesc=Shop 19 Golden Ctr, Dud/ Jewellers, Jewellery Repairs
+Phone=+6434778852
+zip=Mon-Wed 9am-6pm, Thu-Fri 9am-9pm, Sat 9a
+Data0=(-45.87026,170.50548)
+[END]
+
+;1192315
+[POI]
+Type=0x2c06
+Label=THOMPSONS BUSH
+StreetDesc=574 Queens Dr Rosedale Invercargill 9810/ Park
+Data0=(-46.38470,168.35984)
+[END]
+
+;1192318
+[POI]
+Type=0x2b00
+Label=?MATTPACKERS HOSTEL CHRISTCHURCH
+StreetDesc=Linwood, Chc,/ hostel, backpackers, backpacker, accommodation Christchurch
+Data0=(-43.53243,172.67423)
+[END]
+
+;1192319
+[POI]
+Type=0x2f
+Label=?CHRISTCHURCH LOCKSMITH
+StreetDesc=Linwood, Chc,/ locksmith, locked out, keys cut, car alarms, car security
+Phone=0800562533688
+Data0=(-43.53205,172.63622)
+[END]
+
+;1192360
+[POI]
+Type=0x2f
+Label=MASTERCRAFT KITCHENS CANTERBURY SOUTH
+StreetDesc=96 Byron St, Sydenham, Chc/ Kitchen Builders
+Phone=+6433796840
+Data0=(-43.54269,172.64488)
+[END]
+
+;1192361
+[POI]
+Type=0x2f
+Label=MASTERCRAFT KITCHENS CENTRAL OTAGO
+StreetDesc=99 Glenda Dr, Frankton, Queenstown/ Kitchen Builders
+Phone=+6434423700
+Data0=(-45.00780,168.75378)
+[END]
+
+;1192362
+[POI]
+Type=0x2f
+Label=MASTERCRAFT KITCHENS MARLBOROUGH
+StreetDesc=15 Bristol St, Riverlands, Blenheim/ Kitchen Builders
+Phone=+6435783375
+Data0=(-41.52975,174.00800)
+[END]
+
+;1192363
+[POI]
+Type=0x2f
+Label=MASTERCRAFT KITCHENS OTAGO
+StreetDesc=2 Gow St, Mosgiel/ Kitchen Builders
+Phone=+6434898598
+Data0=(-45.88782,170.35239)
+[END]
+
+;1192364
+[POI]
+Type=0x2f
+Label=MASTERCRAFT KITCHENS SOUTHLAND
+StreetDesc=300 Great North Rd, Winton, Invercargill/ Kitchen Builders
+Phone=+6432360399
+Data0=(-46.14057,168.32506)
+[END]
+
+;1192365
+[POI]
+Type=0x2f
+Label=MASTERCRAFT KITCHENS WEST COAST
+StreetDesc=5 Leonard St, Greymouth/ Kitchen Builders
+Phone=+6437687643
+Data0=(-42.45055,171.20679)
+[END]
+
+;1192377
+[POI]
+Type=0x2f
+Label=THE CHRISTCHURCH DOCTORS
+StreetDesc=912 Colombo St Chc/ Medical centre, Medical practice, GPs, Family Doctors, Gener
+zip=8-6 Mon, Wed Thurs, Fri. Late night Tues
+Data0=(-43.52136,172.63692)
+[END]
+
+;1192379
+[POI]
+Type=0x2f
+Label=HARBOUR PHYSIO
+StreetDesc=10 Meridian St, Port Chalmers/ Physiotherapist, ACC accredited, massage, persona
+Phone=+6427631047
+zip=Mon- Sat 7am-9pm
+Data0=(-45.82375,170.61671)
+[END]
+
+;1192386
+[POI]
+Type=0x2f05
+Label=DX MAIL CHRISTCHURCH
+StreetDesc=12 Ivan Cres, Chc Airport, Chc 8053, New Zealand/ Mail Processing
+Phone=+6430335891
+Data0=(-43.48409,172.54427)
+[END]
+
+;1192389
+[POI]
+Type=0x2f05
+Label=DX MAIL INVERCARGILL
+StreetDesc=193 Bond St, West Invercargill, Invercargill 9810, New Zealand/ Mail Processing
+Phone=+6427438091
+Data0=(-46.41519,168.33880)
+[END]
+
+;1192407
+[POI]
+Type=0x2d02
+Label=BOWL LINE LTD
+StreetDesc=34 Kaikorai Valley Rd Dud 9052 New Zealand/ Fun family entertainment in Dunedin,
+Phone=+6434764944
+zip=Monday - Saturday 11.30am - 11.00pm, Sun
+Data0=(-45.86614,170.48394)
+[END]
+
+;1192438
+[POI]
+Type=0x2f
+Label=THE NEW ZEALAND DRUG DETECTION AGENCY LIMITED NELSON
+StreetDesc=11/1 Koru Pl, Stoke, Nelson 7011, New Zealand/ 
+Phone=+6435380173
+Data0=(-41.32375,173.21286)
+[END]
+
+;1192439
+[POI]
+Type=0x2f
+Label=THE NEW ZEALAND DRUG DETECTION AGENCY LIMITED CANTERBURY
+StreetDesc=10/114A Sawyers Arms Rd, Northcote, Chc 8052, New Zealand/ 
+Phone=+6433545352
+Data0=(-43.48610,172.60492)
+[END]
+
+;1192440
+[POI]
+Type=0x2f
+Label=THE NEW ZEALAND DRUG DETECTION AGENCY LIMITED OTAGO
+StreetDesc=16 Roberts St, Dud, 9016, New Zealand/ 
+Phone=+6434771494
+Data0=(-45.88292,170.50535)
+[END]
+
+;1192441
+[POI]
+Type=0x2f
+Label=THE NEW ZEALAND DRUG DETECTION AGENCY LIMITED SOUTHLAND
+StreetDesc=200B Clyde St Invercargill/ 
+Phone=+6432140697
+Data0=(-46.42365,168.34786)
 [END]
 

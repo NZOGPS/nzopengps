@@ -715,15 +715,6 @@ Phone=+6433493386
 Data0=(-43.53827,172.52866)
 [END]
 
-;1003528
-[POI]
-Type=0x2a07
-Label=BURGER KING COLOMBO
-StreetDesc=699 Colombo St, Chc/ Fast food restaurant, burgers, takeaways, drive-thru
-Phone=+6433774618
-Data0=(-43.53243,172.63646)
-[END]
-
 ;1003619
 [POI]
 Type=0x2a07
@@ -37253,7 +37244,7 @@ Type=0x2a
 Label=CLINK RESTAURANT
 StreetDesc=29 Wakefield Ave, Sumner, Chc/ Restaurant, Wine, Bar
 Phone=+6433265353
-zip=Tuesday-Friday 3pm till late: Saturday &
+zip=Monday and Tuesday From 5pm. Wednesday t
 Data0=(-43.57018,172.75924)
 [END]
 
@@ -42269,6 +42260,15 @@ Phone=+6433296866
 Data0=(-43.65813,172.51787)
 [END]
 
+;1102812
+[POI]
+Type=0x2f
+Label=CANTERBURY REFRESHMENTS LTD
+StreetDesc=unit 2, 2 Maldon St, Sydenham, Chc/ 
+Phone=+6433663051
+Data0=(-43.54671,172.63933)
+[END]
+
 ;1102813
 [POI]
 Type=0x2f
@@ -46152,7 +46152,7 @@ Data0=(-43.54135,172.63978)
 
 ;1105111
 [POI]
-Type=0x2f
+Type=0x3003
 Label=ENVIRONMENT CANTERBURY
 StreetDesc=24 Edward St, Lincoln, Chc/ 
 Phone=+6433653828
@@ -46162,7 +46162,7 @@ Data0=(-43.64140,172.49000)
 
 ;1105112
 [POI]
-Type=0x2f
+Type=0x3003
 Label=ENVIRONMENT SOUTHLAND
 StreetDesc=Corner North Rd & Price St, Waikiwi, Invercargill/ 
 Phone=+6432115115
@@ -47337,10 +47337,10 @@ Data0=(-45.87202,170.51220)
 [POI]
 Type=0x2f
 Label=FRASER LAWRENCE MEMORIAL LTD
-StreetDesc=484 Colombo St, Sydenham, Chc/ 
+StreetDesc=41 Hawdon St, Sydenham, Chc/ Headstones and tombstones
 Phone=+6433660627
 zip=Mon-Fri 0900-1700
-Data0=(-43.54226,172.63681)
+Data0=(-43.54542,172.63882)
 [END]
 
 ;1105793
@@ -56092,7 +56092,7 @@ Data0=(-45.87677,170.50917)
 
 ;1111018
 [POI]
-Type=0x2f
+Type=0x3003
 Label=OTAGO REGIONAL COUNCIL
 StreetDesc=70 Stafford St, Dud/ 
 Phone=+6434740827
@@ -62749,8 +62749,9 @@ Data0=(-42.44950,171.20858)
 [POI]
 Type=0x2c0a
 Label=THREE MINERS VINEYARDS LTD
-StreetDesc=89 McPherson Rd, R D 1, Alexandra/ 
+StreetDesc=89 McPherson Rd, R D 1, Alexandra/ Winery, cellar door
 Phone=+6434492343
+zip=10am-5pm daily
 Data0=(-45.22785,169.34374)
 [END]
 
@@ -63634,9 +63635,9 @@ Data0=(-46.59712,168.33454)
 [POI]
 Type=0x2f
 Label=USER FRIENDLY RESOURCES
-StreetDesc=L 3 Fidelity House, 167 Victoria St, Chc/ 
+StreetDesc=39 Brookfield Dr, Northwoord, Chc 8051/ 
 Phone=+6433772886
-Data0=(-43.52175,172.62849)
+Data0=(-43.45679,172.60646)
 [END]
 
 ;1115468
@@ -64440,7 +64441,7 @@ Data0=(-42.46372,171.19347)
 
 ;1115983
 [POI]
-Type=0x2f
+Type=0x3003
 Label=WEST COAST REGIONAL COUNCIL
 StreetDesc=388 Main South Rd, Greymouth/ 
 Phone=+6437680466
@@ -67631,14 +67632,6 @@ StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Golden Bay/ DOC B
 Data0=(-41.05590,172.52514)
 [END]
 
-;1116870
-[POI]
-Type=0x6402
-Label=?COLD STM HUT
-StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
-Data0=(-42.74411,172.38216)
-[END]
-
 ;1116871
 [POI]
 Type=0x6402
@@ -68877,14 +68870,6 @@ Type=0x6402
 Label=JOHNSON HUT
 StreetDesc=Stewardship Land - South Island > West Coast > Buller/ DOC Backcountry hut
 Data0=(-41.46771,172.27578)
-[END]
-
-;1117063
-[POI]
-Type=0x6402
-Label=?JOLLIE BROOK HUT
-StreetDesc=Lake Sumner Conservation Park, Waimakariri/ DOC Backcountry hut
-Data0=(-42.72063,172.33392)
 [END]
 
 ;1117064
@@ -71154,9 +71139,9 @@ Data0=(-41.35300,172.43729)
 ;1117511
 [POI]
 Type=0x6402
-Label=?THREE MILE STREAM HUT
+Label=THREE MILE STREAM HUT
 StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > Canterbury > North C
-Data0=(-42.65593,172.15947)
+Data0=(-42.65707,172.15554)
 [END]
 
 ;1117513
@@ -116393,9 +116378,11 @@ Data0=(-45.87158,170.50696)
 
 ;1138268
 [POI]
-Type=0x2f
-Label=THE RAINFOREST
-StreetDesc=95 Filleul St, Dud/ 
+Type=0x2a
+Label=THE RAINFOREST MALAYSIAN RESTAURANT
+StreetDesc=95 Filleul St, Dud/ Restaurant
+Phone=+6434719265
+zip=Tues-Sat: 11.30am to 2.30pm, Tues-Sun: 5
 Data0=(-45.86897,170.50507)
 [END]
 
@@ -176240,7 +176227,7 @@ Type=0x2f0c
 Label=BOTANICAL GARDEN TOILETS 24HR
 StreetDesc=121 Domain Ave Timaru Canterbury 7910/ Toilet
 zip=24 hours
-Data0=(-44.41069,171.25027)
+Data0=(-44.40961,171.25368)
 [END]
 
 ;1171866
@@ -197150,14 +197137,6 @@ StreetDesc=Lake Sumner Conservation Park - South Island > Canterbury > North Can
 Data0=(-42.72093,172.33329)
 [END]
 
-;1183336
-[POI]
-Type=0x6402
-Label=LAKE GUYON HUT
-StreetDesc=Pastoral Lease - South Island > Canterbury > North Canterbury & Arthur’s Pass/ D
-Data0=(-42.31832,172.64820)
-[END]
-
 ;1183337
 [POI]
 Type=0x6402
@@ -197326,14 +197305,6 @@ StreetDesc=Oteake Conservation Park - South Island > Otago > Central Otago/ DOC 
 Data0=(-44.72802,169.85494)
 [END]
 
-;1183369
-[POI]
-Type=0x6402
-Label=FIDGET BIVVY
-StreetDesc=Clarence Reserve/ DOC Backcountry hut
-Data0=(-42.17662,173.62993)
-[END]
-
 ;1183370
 [POI]
 Type=0x6402
@@ -197348,14 +197319,6 @@ Type=0x6402
 Label=LAKE ALEXANDER HUT
 StreetDesc=Ferny Gair Conservation Area - South Island > Marlborough > South Marlborough/ D
 Data0=(-41.74929,173.66164)
-[END]
-
-;1183372
-[POI]
-Type=0x6402
-Label=MACKENZIE BIVVY (EAST BRANCH) BIVOUAC
-StreetDesc=Lake Sumner Conservation Park - South Island > Canterbury > North Canterbury & A
-Data0=(-42.76444,172.43378)
 [END]
 
 ;1183374
@@ -204137,9 +204100,9 @@ Data0=(-46.41519,168.33880)
 
 ;1192407
 [POI]
-Type=0x2d02
+Type=0x2d
 Label=BOWL LINE LTD
-StreetDesc=34 Kaikorai Valley Rd Dud 9052 New Zealand/ Fun family entertainment in Dunedin,
+StreetDesc=34 Kaikorai Valley Rd Dud 9010 New Zealand/ Fun family entertainment in Dunedin,
 Phone=+6434764944
 zip=Monday - Saturday 11.30am - 11.00pm, Sun
 Data0=(-45.86614,170.48394)
@@ -204179,5 +204142,62 @@ Label=THE NEW ZEALAND DRUG DETECTION AGENCY LIMITED SOUTHLAND
 StreetDesc=200B Clyde St Invercargill/ 
 Phone=+6432140697
 Data0=(-46.42365,168.34786)
+[END]
+
+;1192454
+[POI]
+Type=0x2f
+Label=TELARC SAI LIMITED CHRISTCHURCH
+StreetDesc=Unit 4, Tussock Lane, 24 Settlers Cres, Ferrymead, Chc 8023/ Business & Manageme
+Phone=+6433765163
+zip=Mon-Fri 0830-1700
+Data0=(-43.55981,172.70665)
+[END]
+
+;1192472
+[POI]
+Type=0x2F02
+Label=ABLE RENTAL CARS DUNEDIN
+StreetDesc=59 Tay St/ Rent a Car at Dunedin Airport, Hire budget and affordable Rental Cars
+Phone=+6434718139
+zip=8:00am till 9:00pm 7 Day`s
+Data0=(-45.87460,170.33878)
+[END]
+
+;1192475
+[POI]
+Type=0x2c06
+Label=ROSELLA RESERVE
+StreetDesc=21 Rosella St Broomfield Chc 8042/ Park, Playground
+Data0=(-43.52217,172.53385)
+[END]
+
+;1192488
+[POI]
+Type=0x2b01
+Label=ADDINGTON COURT MOTEL
+StreetDesc=197 Lincoln Rd/ Christchurch accommodation at the Addington Court Motel, ideal f
+Phone=+6433394211
+Data0=(-43.54653,172.60622)
+[END]
+
+;1192509
+[POI]
+Type=0x2f
+Label=ICON LOGISTICS
+StreetDesc=220 Fryatt St Dud 9016 New Zealand/ Largest container transport & logistics comp
+Phone=+6434779595
+zip=Monday - Friday 8.00am - 5.00pm
+Data0=(-45.87296,170.52316)
+[END]
+
+;1192512
+[POI]
+Type=0x2a
+Label=HURUNUI VILLAGE 24HR
+StreetDesc=1208 Karaka Rd, Hurunui, North Canterbury, 7385/ wedding venue north canterbury,
+Phone=+6433144162
+zip=24 hours
+Data0=(-42.87999,172.75606)
 [END]
 

@@ -56969,7 +56969,7 @@ Data0=(-43.54708,172.56662)
 Type=0x2f
 Label=PIONEER GENERATION LTD
 StreetDesc=11 Ellis St, Alexandra/ 
-Phone=+6434486081
+Phone=+6434400022
 zip=Mon-Fri 0800-1700
 Data0=(-45.24684,169.37720)
 [END]
@@ -67563,9 +67563,9 @@ Data0=(-45.63220,167.78573)
 ;1116861
 [POI]
 Type=0x6402
-Label=?CHEWTOBACCO HUNTERS HUT
+Label=CHEWTOBACCO HUNTERS HUT
 StreetDesc=Legal Rd, Southern Islands/ DOC Backcountry hut
-Data0=(-47.01698,168.21083)
+Data0=(-47.01779,168.21488)
 [END]
 
 ;1116862
@@ -69339,9 +69339,9 @@ Data0=(-45.39183,168.19964)
 ;1117145
 [POI]
 Type=0x6402
-Label=?LITTLE GLORY HUNTERS HUT
+Label=LITTLE GLORY HUNTERS HUT
 StreetDesc=Glory Cove Scenic Reserve - South Island > Southland > Stewart Island/Rakiura/ D
-Data0=(-46.97428,168.15416)
+Data0=(-46.97429,168.15412)
 [END]
 
 ;1117146
@@ -70363,9 +70363,9 @@ Data0=(-41.61415,172.32207)
 ;1117356
 [POI]
 Type=0x6402
-Label=?PORT ADVENTURE HUNTERS HUT
+Label=PORT ADVENTURE HUNTERS HUT
 StreetDesc=Port Adventure Scenic Reserve - South Island > Southland > Stewart Island/Rakiur
-Data0=(-47.04805,168.17676)
+Data0=(-47.04946,168.17667)
 [END]
 
 ;1117357
@@ -70483,9 +70483,9 @@ Data0=(-43.80179,169.99934)
 ;1117382
 [POI]
 Type=0x6402
-Label=?RED HILLS HUT
+Label=RED HILLS HUT
 StreetDesc=Six Mile Scenic Reserve - South Island > Nelson/Tasman > Nelson Lakes/ DOC Backc
-Data0=(-41.73116,172.99149)
+Data0=(-41.73114,172.99160)
 [END]
 
 ;1117383
@@ -70643,9 +70643,9 @@ Data0=(-44.72557,168.21532)
 ;1117411
 [POI]
 Type=0x6402
-Label=?SABINE HUT
+Label=SABINE HUT
 StreetDesc=Nelson Lakes Ntl Park - South Island > Nelson/Tasman > Nelson Lakes/ DOC Backcou
-Data0=(-41.90067,172.68138)
+Data0=(-41.90107,172.68141)
 [END]
 
 ;1117412
@@ -110700,14 +110700,6 @@ StreetDesc=150 Toi Toi St, Nelson/
 Data0=(-41.28113,173.27014)
 [END]
 
-;1135135
-[POI]
-Type=0x2f
-Label=THE GINGERBREAD FACTORY
-StreetDesc=21 Rata St, Nelson/ 
-Data0=(-41.28796,173.29300)
-[END]
-
 ;1135136
 [POI]
 Type=0x2f
@@ -116552,8 +116544,8 @@ Data0=(-45.86611,170.48665)
 ;1138289
 [POI]
 Type=0x2f
-Label=MOHA E GLI AMICI
-StreetDesc=14 Dowling St, Dud/ Beautician, hairdresser
+Label=MOHA HAIRDRESSING
+StreetDesc=14 Dowling St Dud 9016 New Zealand/ Spoil yourself with friendly, professional h
 Phone=+6434777667
 Data0=(-45.87663,170.50337)
 [END]
@@ -173288,10 +173280,10 @@ Data0=(-43.53054,172.59898)
 ;1170658
 [POI]
 Type=0x3003
-Label=?PLANT & FOOD RESEARCH, NELSON REGION
+Label=PLANT & FOOD RESEARCH NELSON REGION
 StreetDesc=Old Mill Rd, Motueka/ Horticulture Crop Research, CRI
 Phone=+39073595
-Data0=(-41.09602,172.97169)
+Data0=(-41.09610,172.97429)
 [END]
 
 ;1170659
@@ -195731,8 +195723,8 @@ Data0=(-41.51330,173.95650)
 
 ;1181230
 [POI]
-Type=0x2d02
-Label=THE ASTON BAR & LICENSED RESTAURANT
+Type=0x2a
+Label=GRAMADO'S BAR & LICENSED RESTAURANT
 StreetDesc=74 Main St, Blenheim/ Restaurant & Bar
 Phone=+6435775111
 Data0=(-41.51329,173.96806)
@@ -198890,6 +198882,16 @@ Label=O'REILLY MINI EXCAVATING LTD
 StreetDesc=803 Tweed St, Invercargill/ Excavating Company, with 1.6 tonne and 3.5 tonne Dig
 Phone=+6432165191
 Data0=(-46.41812,168.39799)
+[END]
+
+;1189162
+[POI]
+Type=0x2f
+Label=BIKEFITTER
+StreetDesc=Chc, Wlg, Taupo, Hmtn/ Get your road, tri, mtb or time trial bike setup from Spo
+Phone=+6427464019
+zip=Flexible
+Data0=(-43.53528,172.58678)
 [END]
 
 ;1189173

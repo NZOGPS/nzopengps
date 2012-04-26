@@ -9955,8 +9955,8 @@ Data0=(-46.24125,169.73127)
 ;1034468
 [POI]
 Type=0x2f01
-Label=SHELL BARRINGTON
-StreetDesc=253 Barrington St, Chc/ Shell petrol station
+Label=Z ENERGY (SHELL) BARRINGTON
+StreetDesc=253 Barrington St, Chc/ Petrol Station
 Phone=+6433384285
 Data0=(-43.55754,172.61856)
 [END]
@@ -9974,8 +9974,8 @@ Data0=(-43.45144,172.62787)
 ;1034496
 [POI]
 Type=0x2f01
-Label=SHELL BISHOPDALE
-StreetDesc=210 Harewood Rd, Bishopdale/ Shell petrol station
+Label=Z ENERGY (SHELL) BISHOPDALE
+StreetDesc=210 Harewood Rd, Bishopdale/ Petrol Station
 Phone=+6433594681
 Data0=(-43.48989,172.59312)
 [END]
@@ -9993,17 +9993,17 @@ Data0=(-43.54818,172.65728)
 ;1034531
 [POI]
 Type=0x2f01
-Label=SHELL BRYNDWR
-StreetDesc=52 Strowan Rd, Bryndwr/ Shell petrol station
+Label=SHELL Z ENERGY (SHELL) BRYNDWR / STROWAN
+StreetDesc=52 Strowan Rd, Bryndwr/ Petrol Station
 Phone=+6433558902
-Data0=(-43.51053,172.60741)
+Data0=(-43.51056,172.60766)
 [END]
 
 ;1034538
 [POI]
 Type=0x2f01
-Label=SHELL BURNSIDE
-StreetDesc=449 Wairakei Rd, Chc/ Shell petrol station
+Label=Z ENERGY (SHELL) BURNSIDE
+StreetDesc=449 Wairakei Rd, Chc/ Petrol Station
 Phone=+6433598021
 Data0=(-43.49179,172.57281)
 [END]
@@ -10161,16 +10161,6 @@ StreetDesc=82 Williams St, Kaiapoi/ Shell petrol station
 Phone=+6433277209
 zip=24hrs
 Data0=(-43.38926,172.65438)
-[END]
-
-;1035077
-[POI]
-Type=0x2f01
-Label=SHELL LANCASTER PARK 24HR
-StreetDesc=515 Moorhouse Ave, Chc/ Shell petrol station
-Phone=+6433667399
-zip=24hrs
-Data0=(-43.53975,172.65277)
 [END]
 
 ;1035098
@@ -32347,16 +32337,6 @@ zip=Monday - Friday 8:00a.m. - 4:30p.m.
 Data0=(-41.29008,173.24017)
 [END]
 
-;1095557
-[POI]
-Type=0x2e
-Label=TRENTS CASH'N CARRY BLENHEIM
-StreetDesc=38A Stuart St, Blenheim/ Trents was established to target the supply of speciali
-Phone=+6435783289
-zip=Monday - Friday 8:00a.m. - 4:30p.m.
-Data0=(-41.51815,173.96560)
-[END]
-
 ;1095580
 [POI]
 Type=0x2d
@@ -36796,10 +36776,10 @@ Data0=(-43.72742,172.58486)
 ;1099071
 [POI]
 Type=0x4c
-Label=DEPARTMENT OF CONSERVATION, MT ASPIRING NATIONAL PARK VISITOR CENTRE
+Label=DEPARTMENT OF CONSERVATION (DOC), MT ASPIRING NATIONAL PARK VISITOR CENTRE
 StreetDesc=Ardmore St, Wanaka/ DOC visitor information, Wanaka Area Office
 Phone=+6434437660
-Data0=(-44.69450,169.14228)
+Data0=(-44.69478,169.14273)
 [END]
 
 ;1099072
@@ -40299,10 +40279,11 @@ Data0=(-43.54264,172.59578)
 
 ;1101681
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=AUNTSFIELD ESTATE LTD
-StreetDesc=270 Paynters Rd, Blenheim/ 
-Phone=+03578062
+StreetDesc=270 Paynters Rd, Blenheim/ Winery, cellar door
+Phone=+35780622
+zip=12 to 5 Monday to Friday for winter mont
 Data0=(-41.55467,173.88118)
 [END]
 
@@ -55217,9 +55198,9 @@ Data0=(-46.41206,168.39076)
 
 ;1110477
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=NO. 1 FAMILY ESTATE
-StreetDesc=169 Rapaura Rd, R D 3, Blenheim/ 
+StreetDesc=169 Rapaura Rd, R D 3, Blenheim/ Winery
 Phone=+6435729876
 Data0=(-41.48372,173.83653)
 [END]
@@ -64104,9 +64085,8 @@ Data0=(-41.50421,173.84645)
 [POI]
 Type=0x2c0a
 Label=WAIRAU RIVER WINES
-StreetDesc=264 Rapaura Rd, Marlborough/ Winery, cellar door, Restaurant
+StreetDesc=264 Rapaura Rd, Marlborough/ Winery,
 Phone=+6435727950
-zip=Daily 10 -5 LUNCH SERVED 12PM-3PM
 Data0=(-41.48306,173.84838)
 [END]
 
@@ -75245,16 +75225,6 @@ Label=WAIPARA HOTEL
 StreetDesc=Waipara Flat Rd, Amberley/ Accommodation, restaurant, bar
 Phone=+6433146800
 Data0=(-43.06514,172.75374)
-[END]
-
-;1119379
-[POI]
-Type=0x2f
-Label=DUBDUBDUB
-StreetDesc=48 Helwick St, Wanaka/ Internet cafe, photos to CD, scanning, printing
-Phone=+6434434440
-zip=7 days 8am-10pm
-Data0=(-44.69635,169.13647)
 [END]
 
 ;1119396
@@ -187758,14 +187728,6 @@ StreetDesc=85 Musselburgh Rise, Sunshine, Dud/ Motel accommodation
 Data0=(-45.89758,170.51681)
 [END]
 
-;1176815
-[POI]
-Type=0x2b01
-Label=ARCHWAY MOTELS, CHALETS AND APARTMENTS
-StreetDesc=64 Hedditch St, Reece, Lake Wanaka/ Motel accommodation
-Data0=(-44.69327,169.14176)
-[END]
-
 ;1176817
 [POI]
 Type=0x2b01
@@ -189030,7 +188992,7 @@ Data0=(-41.26831,173.26534)
 Type=0x2f
 Label=GUTTER SOLUTIONZ - GUTTERING CHRISTCHURCH NEW ZEALAND
 StreetDesc=9 Craft Place, Middlton, Chc 8024/ Guttering, Gutter Installation and Cleaning o
-Phone=+33383985
+Phone=0800333101
 zip=Sun - Sat, 9:00am - 5:00pm
 Data0=(-43.54225,172.58487)
 [END]
@@ -193114,7 +193076,7 @@ Data0=(-43.53433,172.63609)
 ;1179719
 [POI]
 Type=0x2b00
-Label=RAIL TRAIL PLANNER LTD
+Label=RAIL TRAIL PLANNER
 StreetDesc=47 Browns Rd, Middlemarch Otago 9597/ The Otago Rail Trail Planner provides acco
 Phone=+6434643755
 zip=8am until 8pm
@@ -196084,8 +196046,8 @@ Data0=(-41.48842,173.94416)
 ;1181274
 [POI]
 Type=0x2e
-Label=WAIRAU RIVER WINE SHOP
-StreetDesc=11 Rapaura Rd, Rapaura/ Cellar door
+Label=WAIRAU RIVER CELLAR DOOR
+StreetDesc=11 Rapaura Rd, Rapaura/ Cellar door, Restaurant
 Phone=+6435729800
 zip=OPEN 10AM-5PM EVERY DAY
 Data0=(-41.48600,173.81813)
@@ -203136,9 +203098,10 @@ Data0=(-45.03016,168.65748)
 [POI]
 Type=0x2f
 Label=WELDWORX
-StreetDesc=91 Kingsley St, Sydenham, Chc/ Welding equipment and supplies
+StreetDesc=41 Coleridge St, Sydenham, Chc/ Welding equipment and supplies
 Phone=+6433655505
-Data0=(-43.54348,172.64479)
+zip=8-5 Mon-Fri, 9-12 Sat
+Data0=(-43.54552,172.64164)
 [END]
 
 ;1191730
@@ -204201,5 +204164,146 @@ StreetDesc=1208 Karaka Rd, Hurunui, North Canterbury, 7385/ wedding venue north 
 Phone=+6433144162
 zip=24 hours
 Data0=(-42.87999,172.75606)
+[END]
+
+;1192525
+[POI]
+Type=0x2b00
+Label=VILLA SOUTH PACIFIC WANAKA ACCOMMODATION
+StreetDesc=155 Stone St, Wanaka 9305/ Luxury boutique lodge accommodation in Wanaka.
+Phone=+6434439044
+Data0=(-44.70689,169.13018)
+[END]
+
+;1192529
+[POI]
+Type=0x2f0c
+Label=SHORTCUT ROAD TOILET 24HR
+StreetDesc=Shortcut Rd, Luggate/ Toilet
+zip=24/7
+Data0=(-44.73327,169.27667)
+[END]
+
+;1192530
+[POI]
+Type=0x2f0c
+Label=FOX GLACIER CARPARK TOILET 24HR
+StreetDesc=Fox Glacier Access Rd, Fox Glacier/ Toilet
+zip=24/7
+Data0=(-43.49632,170.04298)
+[END]
+
+;1192531
+[POI]
+Type=0x2f0c
+Label=SHIP CREEK TOILET 24HR
+StreetDesc=Haast Highway/ Toilet
+zip=24/7
+Data0=(-43.75802,169.14773)
+[END]
+
+;1192532
+[POI]
+Type=0x2f0c
+Label=FRANZ JOSEF GLACIER CARPARK TOILET 24HR
+StreetDesc=Franz Josef Glacier Carpark/ Toilet
+zip=24/7
+Data0=(-43.42287,170.16953)
+[END]
+
+;1192537
+[POI]
+Type=0x2f
+Label=PRINT IT WANAKA LTD
+StreetDesc=11 Brownston St, Wanaka/ Digital Printing, Graphic Design and Copy Centre. Publi
+Phone=+6434437804
+zip=Monday - Friday 8.30 to 5.30
+Data0=(-44.69504,169.13913)
+[END]
+
+;1192538
+[POI]
+Type=0x2f
+Label=OUTREACH SOFTWARE LIMITED
+StreetDesc=L 3, Moran Blg, 8 The Octagon, Dud/ Business Consultation and Web based software
+Phone=+34716751
+zip=Monday to Friday, 8.30am - 5.30pm
+Data0=(-45.87392,170.50438)
+[END]
+
+;1192539
+[POI]
+Type=0x2f
+Label=OROKONUI ECOSANCTUARY
+StreetDesc=600-602 Blueskin Rd Mt Cargill 9081/ zoo, wildlife, sanctuary
+Data0=(-45.77707,170.60358)
+[END]
+
+;1192540
+[POI]
+Type=0x2f
+Label=HAIR@116
+StreetDesc=116 Norfolk St, Dud/ Hairstyling Haircutting Haircuts Colouring
+Phone=+6434557814
+zip=By appointment
+Data0=(-45.91446,170.48566)
+[END]
+
+;1192543
+[POI]
+Type=0x2c0a
+Label=?BLADEN WINES
+StreetDesc=83 Condors Bend Rd Renwick/ Winery, cellar door
+Phone=+35729417
+zip=Daily 11am to 5pm Labour Weekend (late O
+Data0=(-41.50808,173.82668)
+[END]
+
+;1192544
+[POI]
+Type=0x2c0a
+Label=ISABEL WINES
+StreetDesc=70-72 Hawkesbury Rd, Renwick, Marlborough/ Winery, cellar door
+Phone=+35728300
+zip=11am – 5pm Monday to Friday
+Data0=(-41.52156,173.81392)
+[END]
+
+;1192545
+[POI]
+Type=0x2c0a
+Label=TERRAVIN WINES
+StreetDesc=367 Brookby Rd, Hawkesbury, Blenheim/ Winery, cellar door
+Phone=+35729890
+zip=Monday - Friday 10am - 5pm.
+Data0=(-41.55717,173.82003)
+[END]
+
+;1192546
+[POI]
+Type=0x2f
+Label=GREENWOOD ACTIVE HEALTH
+StreetDesc=25 Greenwood St, Motueka/ physio, physiotherapy, acupuncture, massage, health se
+Phone=+6435286239
+Data0=(-41.11030,173.01300)
+[END]
+
+;1192550
+[POI]
+Type=0x2f
+Label=THE ANGEL NETWORK
+StreetDesc=164, Hardy st, Nelson, New Zealand/ graphic design, copywriting, website optimis
+Phone=+6435468269
+Data0=(-41.27453,173.28310)
+[END]
+
+;1192554
+[POI]
+Type=0x2f
+Label=?RAIL TRAIL PLANNER
+StreetDesc=47 Browns Rd, Middlemarch RD2, Otago 9597/ Providing Otago Rail Trail itinerarie
+Phone=+34643755
+zip=8a.m until 8p.m 7 days a week
+Data0=(-45.64364,169.85939)
 [END]
 

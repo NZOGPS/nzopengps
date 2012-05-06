@@ -3030,7 +3030,7 @@ Type=0x2c05
 Label=HIRA SCHOOL
 StreetDesc=Main Rd, Hira, Nelson/ State Co-Ed Primary School
 Phone=+6435450942
-Data0=(-41.21253,173.39647)
+Data0=(-41.21630,173.39515)
 [END]
 
 ;1011466
@@ -4785,7 +4785,7 @@ Type=0x2c05
 Label=RAI VALLEY AREA SCHOOL
 StreetDesc=Main Rd, Rai Valley/ State Co-Ed Primary, Intermediate, Secondary School
 Phone=+6435716016
-Data0=(-41.22686,173.58352)
+Data0=(-41.23443,173.58101)
 [END]
 
 ;1017899
@@ -9834,7 +9834,7 @@ Data0=(-44.61290,169.24786)
 ;1034188
 [POI]
 Type=0x2f01
-Label=SHELL AKAROA AUTO CENTRE
+Label=AKAROA AUTO CENTRE
 StreetDesc=55 Rue Lavaud, Akaroa/ Shell petrol station, Wheel Alignment & Balancing, Punctu
 Phone=+6433047055
 zip=Mon-Fri 7am-6pm, Sat 8am-1pm
@@ -9844,8 +9844,8 @@ Data0=(-43.80406,172.96810)
 ;1034202
 [POI]
 Type=0x2f01
-Label=SHELL BOWATER MOTORS MOTUEKA 24HR
-StreetDesc=250-270 High St, Motueka/ Shell service station, petrol
+Label=Z BOWATER MOTORS 24HR
+StreetDesc=250-270 High St, Motueka/ Z petrol station & groceries
 Phone=+6435289600
 zip=24hrs
 Data0=(-41.11401,173.01066)
@@ -9854,8 +9854,8 @@ Data0=(-41.11401,173.01066)
 ;1034237
 [POI]
 Type=0x2f01
-Label=SHELL DUNBACK STORE
-StreetDesc=State Highway 85, Dunback/ Shell petrol station
+Label=DUNBACK STORE
+StreetDesc=State Highway 85, Dunback/ petrol station
 Phone=+6434650899
 Data0=(-45.38445,170.62868)
 [END]
@@ -9863,8 +9863,8 @@ Data0=(-45.38445,170.62868)
 ;1034265
 [POI]
 Type=0x2f01
-Label=SHELL INSTONE MOTORS
-StreetDesc=213 Castle St, Dud/ Shell petrol station
+Label=INSTONE MOTORS
+StreetDesc=213 Castle St, Dud/ Garage
 Phone=+6434779584
 Data0=(-45.87073,170.51074)
 [END]
@@ -9891,7 +9891,7 @@ Data0=(-40.67839,172.68115)
 ;1034349
 [POI]
 Type=0x2f01
-Label=SHELL PORT CHALMERS MOTORS
+Label=PORT CHALMERS MOTORS
 StreetDesc=53 George St, Port Chalmers/ Shell petrol station
 Phone=+6434728766
 Data0=(-45.81683,170.62039)
@@ -9900,8 +9900,8 @@ Data0=(-45.81683,170.62039)
 ;1034370
 [POI]
 Type=0x2f01
-Label=SHELL SEFTON GARAGE
-StreetDesc=Main Rd, Sefton/ Shell petrol station
+Label=SEFTON GARAGE
+StreetDesc=Main Rd, Sefton/ Garage
 Phone=+6433129713
 Data0=(-43.24850,172.66830)
 [END]
@@ -9909,26 +9909,26 @@ Data0=(-43.24850,172.66830)
 ;1034384
 [POI]
 Type=0x2f01
-Label=SHELL ALEXANDRA
-StreetDesc=105 Tarbert St, Alexandra/ Shell petrol station
+Label=Z ALEXANDRA
+StreetDesc=105 Tarbert St, Alexandra/ Z petrol station; LPG Bottleswap; Trailers
 Phone=+6434485265
-Data0=(-45.25224,169.39540)
+Data0=(-45.25216,169.39524)
 [END]
 
 ;1034398
 [POI]
 Type=0x2f01
 Label=SHELL AMBERLEY
-StreetDesc=Cnr Carters Rd & Courage Rd, Amberley/ Shell service station, petrol
+StreetDesc=47 Carters Rd, Amberley/ petrol station; LPG Bottleswap
 Phone=+6433147060
-Data0=(-43.15048,172.73006)
+Data0=(-43.15077,172.72968)
 [END]
 
 ;1034405
 [POI]
 Type=0x2f01
-Label=SHELL ANDY BAY 24HR
-StreetDesc=333 Andersons Bay Rd, Dud/ Shell petrol station
+Label=Z ANDY BAY 24HR
+StreetDesc=333 Andersons Bay Rd, Dud/ Z petrol station
 Phone=+6434556235
 zip=24hrs
 Data0=(-45.89266,170.50335)
@@ -9937,8 +9937,8 @@ Data0=(-45.89266,170.50335)
 ;1034440
 [POI]
 Type=0x2f01
-Label=SHELL ASHBURTON
-StreetDesc=141 West St, Ashburton/ Shell petrol station
+Label=Z ASHBURTON
+StreetDesc=141 West St, Ashburton/ Z petrol station
 Phone=+6433081612
 Data0=(-43.90486,171.74537)
 [END]
@@ -9946,8 +9946,8 @@ Data0=(-43.90486,171.74537)
 ;1034461
 [POI]
 Type=0x2f01
-Label=SHELL BALCLUTHA
-StreetDesc=147-149 Clyde St, Balclutha/ Shell petrol station
+Label=Z BALCLUTHA
+StreetDesc=147-149 Clyde St, Balclutha/ Z petrol station
 Phone=+6434182700
 Data0=(-46.24125,169.73127)
 [END]
@@ -9955,8 +9955,8 @@ Data0=(-46.24125,169.73127)
 ;1034468
 [POI]
 Type=0x2f01
-Label=Z ENERGY (SHELL) BARRINGTON
-StreetDesc=253 Barrington St, Chc/ Petrol Station
+Label=Z BARRINGTON
+StreetDesc=253 Barrington St, Chc/ Z petrol station
 Phone=+6433384285
 Data0=(-43.55754,172.61856)
 [END]
@@ -9974,8 +9974,8 @@ Data0=(-43.45144,172.62787)
 ;1034496
 [POI]
 Type=0x2f01
-Label=Z ENERGY (SHELL) BISHOPDALE
-StreetDesc=210 Harewood Rd, Bishopdale/ Petrol Station
+Label=Z BISHOPDALE
+StreetDesc=210 Harewood Rd, Bishopdale/ Z petrol station
 Phone=+6433594681
 Data0=(-43.48989,172.59312)
 [END]
@@ -9993,8 +9993,8 @@ Data0=(-43.54818,172.65728)
 ;1034531
 [POI]
 Type=0x2f01
-Label=SHELL Z ENERGY (SHELL) BRYNDWR / STROWAN
-StreetDesc=52 Strowan Rd, Bryndwr/ Petrol Station
+Label=Z BRYNDWR
+StreetDesc=52 Strowan Rd, Bryndwr/ Z petrol station
 Phone=+6433558902
 Data0=(-43.51056,172.60766)
 [END]
@@ -10002,8 +10002,8 @@ Data0=(-43.51056,172.60766)
 ;1034538
 [POI]
 Type=0x2f01
-Label=Z ENERGY (SHELL) BURNSIDE
-StreetDesc=449 Wairakei Rd, Chc/ Petrol Station
+Label=Z BURNSIDE
+StreetDesc=449 Wairakei Rd, Chc/ Z petrol station
 Phone=+6433598021
 Data0=(-43.49179,172.57281)
 [END]
@@ -10031,8 +10031,8 @@ Data0=(-43.53793,172.52870)
 ;1034573
 [POI]
 Type=0x2f01
-Label=SHELL CAROLINE BAY 24HR
-StreetDesc=62 Theodosia St, Central City/ Shell petrol station
+Label=Z CAROLINE BAY 24HR
+StreetDesc=62 Theodosia St, Central City/ Z petrol station
 Phone=+6436888199
 zip=24hrs
 Data0=(-44.39375,171.24780)
@@ -10048,20 +10048,11 @@ zip=24hrs
 Data0=(-43.56536,172.63633)
 [END]
 
-;1034608
-[POI]
-Type=0x2f01
-Label=SHELL CHARLTON ROAD
-StreetDesc=Cnr Main South Rd And Charlton Rd, Gore/ Shell petrol station
-Phone=+6432087234
-Data0=(-46.11403,168.93406)
-[END]
-
 ;1034657
 [POI]
 Type=0x2f01
-Label=Z ENERGY CROMWELL (SHELL )
-StreetDesc=Cnr Barry Ave And Murray Tce, Cromwell/ Shell petrol station
+Label=Z CROMWELL
+StreetDesc=Cnr Barry Ave And Murray Tce, Cromwell/ Z petrol station
 Phone=+6434450804
 Data0=(-45.03659,169.19881)
 [END]
@@ -10079,8 +10070,8 @@ Data0=(-43.53905,172.56781)
 ;1034671
 [POI]
 Type=0x2f01
-Label=Z ENERGY DEE STREET (SHELL) 24HR
-StreetDesc=206-214 Dee St, Invercargill/ Z Energy, formerly Shell petrol station
+Label=Z DEE STREET 24HR
+StreetDesc=206-214 Dee St, Invercargill/ Z petrol station
 Phone=+6432188442
 zip=24hrs
 Data0=(-46.40508,168.34706)
@@ -10099,8 +10090,8 @@ Data0=(-43.54336,172.66774)
 ;1034797
 [POI]
 Type=0x2f01
-Label=Z ENERGY GLADSTONE (SHELL) 24HR
-StreetDesc=455 Dee St, Invercargill/ Z Energy, formerly Shell petrol station
+Label=Z GLADSTONE 24HR
+StreetDesc=455 Dee St, Invercargill/ Z petrol station
 Phone=+6432188537
 zip=24hrs
 Data0=(-46.39287,168.34749)
@@ -10109,8 +10100,8 @@ Data0=(-46.39287,168.34749)
 ;1034818
 [POI]
 Type=0x2f01
-Label=SHELL GORE
-StreetDesc=Cnr Hokonui Dr And Irwell St, Gore/ Shell petrol station
+Label=Z GORE
+StreetDesc=Cnr Hokonui Dr And Irwell St, Gore/ Z petrol station
 Phone=+6432088326
 Data0=(-46.09756,168.94511)
 [END]
@@ -10127,8 +10118,8 @@ Data0=(-45.90137,170.43112)
 ;1034860
 [POI]
 Type=0x2f01
-Label=SHELL GREYMOUTH 24HR
-StreetDesc=Whall St, Greymouth/ Shell petrol station
+Label=Z GREYMOUTH 24HR
+StreetDesc=Whall St, Greymouth/ Z petrol station
 Phone=+6437686490
 zip=24hrs
 Data0=(-42.44925,171.21246)
@@ -10147,8 +10138,8 @@ Data0=(-41.50313,173.96104)
 ;1034874
 [POI]
 Type=0x2f01
-Label=SHELL HALIFAX STREET
-StreetDesc=20-22 Halifax St, Nelson/ Shell petrol station
+Label=Z HALIFAX STREET
+StreetDesc=20-22 Halifax St, Nelson/ Z petrol station
 Phone=+6435488744
 Data0=(-41.27092,173.28248)
 [END]
@@ -10156,8 +10147,8 @@ Data0=(-41.27092,173.28248)
 ;1034979
 [POI]
 Type=0x2f01
-Label=SHELL KAIAPOI 24HR
-StreetDesc=82 Williams St, Kaiapoi/ Shell petrol station
+Label=Z KAIAPOI 24HR
+StreetDesc=82 Williams St, Kaiapoi/ Z petrol station
 Phone=+6433277209
 zip=24hrs
 Data0=(-43.38926,172.65438)
@@ -10166,8 +10157,8 @@ Data0=(-43.38926,172.65438)
 ;1035098
 [POI]
 Type=0x2f01
-Label=Z ENERGY LINWOOD (SHELL) 24HR
-StreetDesc=Cnr Linwood Ave And Cashel St, Chc/ Shell petrol station
+Label=Z LINWOOD 24HR
+StreetDesc=Cnr Linwood Ave And Cashel St, Chc/ Z petrol station
 Phone=+6433898115
 zip=24hrs
 Data0=(-43.53279,172.67137)
@@ -10176,8 +10167,8 @@ Data0=(-43.53279,172.67137)
 ;1035210
 [POI]
 Type=0x2f01
-Label=SHELL MOSGIEL 24HR
-StreetDesc=Cnr Gladstone Rd And Quarry Rd, Mosgiel/ Shell petrol station
+Label=Z MOSGIEL 24HR
+StreetDesc=Cnr Gladstone Rd And Quarry Rd, Mosgiel/ Z petrol station
 Phone=+6434890390
 zip=24hrs
 Data0=(-45.88666,170.35379)
@@ -10195,8 +10186,8 @@ Data0=(-43.50634,172.72787)
 ;1035350
 [POI]
 Type=0x2f01
-Label=SHELL PICTON 24HR
-StreetDesc=101 High St, Picton/ Shell service station, petrol
+Label=Z PICTON 24HR
+StreetDesc=101 High St, Picton/ Z petrol station
 Phone=+6435737949
 zip=24hrs
 Data0=(-41.29209,174.00648)
@@ -10205,8 +10196,8 @@ Data0=(-41.29209,174.00648)
 ;1035406
 [POI]
 Type=0x2f01
-Label=SHELL QUEENSTOWN 24HR
-StreetDesc=846 Frankton Rd, Queenstown/ Shell petrol station
+Label=Z QUEENSTOWN 24HR
+StreetDesc=846 Frankton Rd, Queenstown/ Z petrol station
 Phone=+6434423500
 zip=24hrs
 Data0=(-45.01707,168.71659)
@@ -10235,8 +10226,8 @@ Data0=(-43.52917,172.60912)
 ;1035462
 [POI]
 Type=0x2f01
-Label=SHELL RICHMOND 24HR
-StreetDesc=8 Gladstone Rd, Richmond/ Shell petrol station
+Label=Z RICHMOND 24HR
+StreetDesc=8 Gladstone Rd, Richmond/ Z petrol station
 Phone=+6433415471
 zip=24hrs
 Data0=(-41.33743,173.18016)
@@ -10245,8 +10236,8 @@ Data0=(-41.33743,173.18016)
 ;1035497
 [POI]
 Type=0x2f01
-Label=SHELL RUTHERFORD 24HR
-StreetDesc=106 Rutherford St, Nelson/ Shell petrol station
+Label=Z RUTHERFORD 24HR
+StreetDesc=106 Rutherford St, Nelson/ Z petrol station
 Phone=+6435466626
 zip=24hrs
 Data0=(-41.27454,173.28059)
@@ -10255,8 +10246,8 @@ Data0=(-41.27454,173.28059)
 ;1035518
 [POI]
 Type=0x2f01
-Label=SHELL SEVERN STREET 24HR
-StreetDesc=22 Severn St, Oamaru/ Shell petrol station
+Label=Z OAMARU 24HR
+StreetDesc=22 Severn St, Oamaru/ Z petrol station
 Phone=+6434331441
 zip=24hrs
 Data0=(-45.09831,170.96805)
@@ -10265,8 +10256,8 @@ Data0=(-45.09831,170.96805)
 ;1035525
 [POI]
 Type=0x2f01
-Label=Z ENERGY SHIRLEY (SHELL) 24HR
-StreetDesc=7 Marshland Rd, Shirley/ Shell petrol station
+Label=Z SHIRLEY 24HR
+StreetDesc=7 Marshland Rd, Shirley/ Z petrol station
 Phone=+6433852706
 zip=24hrs
 Data0=(-43.50750,172.66260)
@@ -10284,8 +10275,8 @@ Data0=(-43.32714,172.59994)
 ;1035553
 [POI]
 Type=0x2f01
-Label=SHELL SPRING GROVE
-StreetDesc=State Highway 6, Wakefield, Nelson/ Shell petrol station
+Label=SOUTHFUELS SPRING GROVE
+StreetDesc=State Highway 6, Wakefield, Nelson/ petrol station
 Phone=+6435418444
 Data0=(-41.39436,173.06619)
 [END]
@@ -10302,8 +10293,8 @@ Data0=(-41.51026,173.93026)
 ;1035567
 [POI]
 Type=0x2f01
-Label=SHELL STAFFORD STREET 24HR
-StreetDesc=32 Stafford St, Timaru/ Shell petrol station
+Label=Z STAFFORD STREET 24HR
+StreetDesc=32 Stafford St, Timaru/ Z petrol station
 Phone=+6436847388
 zip=24hrs
 Data0=(-44.40071,171.25624)
@@ -10312,8 +10303,8 @@ Data0=(-44.40071,171.25624)
 ;1035574
 [POI]
 Type=0x2f01
-Label=SHELL STOKE
-StreetDesc=666-668 Main Rd, Stoke/ Shell petrol station
+Label=Z STOKE
+StreetDesc=666-668 Main Rd, Stoke/ Z petrol station
 Phone=+6435479098
 Data0=(-41.31903,173.22514)
 [END]
@@ -10321,8 +10312,8 @@ Data0=(-41.31903,173.22514)
 ;1035700
 [POI]
 Type=0x2f01
-Label=SHELL TEMPLETON 24HR
-StreetDesc=720 Main South Rd, Templeton/ Shell petrol station
+Label=SHELL TEMPLETON & TRUCKSTOP 24HR
+StreetDesc=720 Main South Rd, Templeton/ Shell petrol station & truckstop
 Phone=+6433499632
 zip=24hrs
 Data0=(-43.54949,172.48814)
@@ -10331,8 +10322,8 @@ Data0=(-43.54949,172.48814)
 ;1035707
 [POI]
 Type=0x2f01
-Label=SHELL TEMUKA
-StreetDesc=46 King St, Temuka/ Shell petrol station
+Label=Z TEMUKA
+StreetDesc=46 King St, Temuka/ Z petrol station
 Phone=+6436159314
 zip=5:00-22:00 7 days
 Data0=(-44.24690,171.27845)
@@ -10341,8 +10332,8 @@ Data0=(-44.24690,171.27845)
 ;1035721
 [POI]
 Type=0x2f01
-Label=SHELL TINWALD
-StreetDesc=Main South Rd, State Highway 1, Tinwald/ Shell petrol station
+Label=Z TINWALD
+StreetDesc=Main South Rd, State Highway 1, Tinwald/ Z petrol station
 Phone=+6433087471
 Data0=(-43.92002,171.72071)
 [END]
@@ -10350,8 +10341,8 @@ Data0=(-43.92002,171.72071)
 ;1035777
 [POI]
 Type=0x2f01
-Label=SHELL TWIZEL
-StreetDesc=50 Mackenzie Dr, Twizel/ Shell petrol station
+Label=Z TWIZEL
+StreetDesc=50 Mackenzie Dr, Twizel/ Z petrol station
 Phone=+6434350844
 Data0=(-44.25798,170.10002)
 [END]
@@ -10359,8 +10350,8 @@ Data0=(-44.25798,170.10002)
 ;1035791
 [POI]
 Type=0x2f01
-Label=SHELL VALLEY 24HR
-StreetDesc=248 Kaikorai Valley Rd, Kaikorai/ Shell petrol station
+Label=Z VALLEY 24HR
+StreetDesc=248 Kaikorai Valley Rd, Kaikorai/ Z petrol station
 Phone=+6434536728
 zip=24hrs
 Data0=(-45.87248,170.47232)
@@ -10378,8 +10369,8 @@ Data0=(-43.29515,172.68398)
 ;1035882
 [POI]
 Type=0x2f01
-Label=SHELL WASHDYKE
-StreetDesc=197 Hilton Highway, Timaru/ Shell petrol station
+Label=Z WASHDYKE & TRUCKSTOP
+StreetDesc=197 Hilton Highway, Timaru/ Z petrol station, Truck Stop
 Phone=+6436882141
 Data0=(-44.35588,171.23859)
 [END]
@@ -10396,8 +10387,8 @@ Data0=(-43.51235,172.50425)
 ;1035938
 [POI]
 Type=0x2f01
-Label=SHELL HAVELOCK SERVICE STATION
-StreetDesc=82 Main Rd, State Highway 6, Havelock/ Shell petrol station, LPG
+Label=HAVELOCK SERVICE STATION
+StreetDesc=82 Main Rd, State Highway 6, Havelock/ petrol station, LPG
 Phone=+6435742436
 Data0=(-41.27643,173.76568)
 [END]
@@ -10414,7 +10405,7 @@ Data0=(-44.83716,169.41171)
 ;1035966
 [POI]
 Type=0x2f01
-Label=SHELL TEKAPO SERVICES
+Label=TEKAPO SERVICES
 StreetDesc=State Highway 8, Lake Tekapo/ Shell petrol station
 Phone=+6436806809
 Data0=(-44.00454,170.47714)
@@ -10423,8 +10414,8 @@ Data0=(-44.00454,170.47714)
 ;1036001
 [POI]
 Type=0x2f01
-Label=WARRENS GARAGE
-StreetDesc=112 Ronaldsay St, Palmerston/ Shell petrol station
+Label=Z PALMERSTON
+StreetDesc=112 Ronaldsay St, Palmerston/ Z petrol station
 Phone=+6434651115
 Data0=(-45.48543,170.71459)
 [END]
@@ -10442,7 +10433,7 @@ Data0=(-42.53695,172.81785)
 ;1036029
 [POI]
 Type=0x2f01
-Label=SHELL WYLIES GARAGE
+Label=WYLIES GARAGE
 StreetDesc=22 Northumberland St, Tapanui/ Shell petrol station
 Phone=+6432048237
 Data0=(-45.94317,169.25993)
@@ -13431,9 +13422,9 @@ Data0=(-43.48100,172.70590)
 [POI]
 Type=0x2f05
 Label=PHILLIPSTOWN POSTSHOP
-StreetDesc=244 Ferry Rd, Chc/ post office, KiwiBank banking
+StreetDesc=244 Ferry Rd, Chc/ Post Office, KiwiBank banking, currency exchange, passport ph
 Phone=+6433660081
-zip=Monday 8am-5:45pm, Tuesday 8am-5:45pm, W
+zip=Monday - Friday 8:30am-5:30pm, Saturday 
 Data0=(-43.54038,172.65853)
 [END]
 
@@ -22155,7 +22146,7 @@ Data0=(-45.84315,170.63581)
 Type=0x2b00
 Label=STONEY ACRE BACKPACKERS
 StreetDesc=9 Marldene Ave, Seddon/ Backpacker accommodation
-Phone=+6435786303
+Phone=+6435757940
 Data0=(-41.66991,174.07875)
 [END]
 
@@ -28462,7 +28453,7 @@ Data0=(-45.24581,169.40403)
 [POI]
 Type=0x2b01
 Label=ALMOND COURT MOTEL
-StreetDesc=53 Killarney St, Alexandra/ Motel, Accommodation
+StreetDesc=53 Killarney St, Alexandra/ Motel, Host, Accommodation, "host accommodation"
 Phone=+6434487667
 Data0=(-45.24813,169.38812)
 [END]
@@ -28664,7 +28655,7 @@ Data0=(-45.19323,169.32514)
 [POI]
 Type=0x2b01
 Label=COLONIAL MANOR
-StreetDesc=2 Mead Ave, Cromwell/ Motel Accommodation
+StreetDesc=2 Mead Ave, Cromwell/ Motel accommodation, "host accommodation"
 Phone=+6434450184
 Data0=(-45.03817,169.19896)
 [END]
@@ -42380,8 +42371,8 @@ Data0=(-45.89388,170.49719)
 ;1102894
 [POI]
 Type=0x2b01
-Label=CARGILLS HOTEL 24HR
-StreetDesc=678 George St, Dud/ Hotel accommodation
+Label=QUALITY HOTEL CARGILLS 24HR
+StreetDesc=678 George St, Dud/ Accommodation, Hotel, Choice Hotels
 Phone=+6434777983
 zip=24 Hours, 7 Days a Week
 Data0=(-45.86285,170.51027)
@@ -42620,9 +42611,9 @@ Data0=(-46.15717,168.32983)
 
 ;1103062
 [POI]
-Type=0x2f
-Label=CENTREFIRE MCCARTHY
-StreetDesc=358 Moray Place, Dud/ 
+Type=0x2e
+Label=CENTREFIRE MCCARTHYS
+StreetDesc=358 Moray Place, Dud/ Specialist hunting & fishing store in Dunedin with a huge 
 Phone=+6434773266
 zip=Mon-Thu 0900-0530, Fri 0900-0700, Sat 10
 Data0=(-45.87413,170.50553)
@@ -42791,9 +42782,10 @@ Data0=(-45.87367,170.50417)
 ;1103150
 [POI]
 Type=0x2b01
-Label=CHATEAU BLANC SUITES
+Label=CHATEAU BLANC SUITES - CLARION COLLECTION 24HR
 StreetDesc=Corner Kilmore & Montreal Streets, Chc/ This boutique hotel provides spacious fu
 Phone=+33651600
+zip=24 Hours
 Data0=(-43.52623,172.63030)
 [END]
 
@@ -46020,15 +46012,6 @@ Phone=+6433650404
 Data0=(-43.52942,172.63679)
 [END]
 
-;1105035
-[POI]
-Type=0x2f
-Label=EMSLIE & FLOCKTON (DN) LTD
-StreetDesc=94 Glasgow St, Dud/ 
-Phone=+6434555047
-Data0=(-45.89592,170.49927)
-[END]
-
 ;1105036
 [POI]
 Type=0x2f
@@ -46451,7 +46434,7 @@ Data0=(-44.64870,169.29281)
 [POI]
 Type=0x2b01
 Label=FAIRWAY LODGE MOTEL
-StreetDesc=Corner MacPherson St & Main Rd, State Highway 84/ Motel accommodation
+StreetDesc=Corner MacPherson St & Main Rd, State Highway 84/ Motel accommodation, "host acc
 Phone=+6434437285
 zip=Mon-Sun 0730-2200
 Data0=(-44.69332,169.14507)
@@ -51798,9 +51781,10 @@ Data0=(-43.54398,172.56886)
 ;1108547
 [POI]
 Type=0x2b01
-Label=LEISURE LODGE MOTOR INN
+Label=QUALITY HOTEL LEISURE LODGE
 StreetDesc=40 Waimea Rd, Nelson/ Motel accommodation, conference & function centre, restaur
 Phone=+6435482089
+zip=Front Desk Hours: 6:45am-10:30pm
 Data0=(-41.28215,173.27821)
 [END]
 
@@ -53933,7 +53917,7 @@ Data0=(-46.38783,168.45402)
 [POI]
 Type=0x2b01
 Label=MOTEL ON YORK
-StreetDesc=47 York Place, Dud/ Motel accommodation
+StreetDesc=47 York Place, Dud/ Motel accommodation, "host accommodation"
 Phone=+6434776120
 Data0=(-45.87129,170.50160)
 [END]
@@ -56416,9 +56400,9 @@ Data0=(-43.49686,172.60762)
 [POI]
 Type=0x2f
 Label=PARAFLEX FOOTWEAR 2003 LTD
-StreetDesc=409 Tuam St, Chc/ 
+StreetDesc=409 Tuam St, Chc/ Boots
 Phone=+6433896147
-zip=Mon-Fri 0800-1700
+zip=Mon-Thu 0700-1600 Fri 0700-1330
 Data0=(-43.53532,172.65492)
 [END]
 
@@ -71866,7 +71850,7 @@ Type=0x2b01
 Label=BELMONT MOTOR INN
 StreetDesc=172 Bealey Ave, Chc/ Motel accommodation
 Phone=+6433794037
-Data0=(-43.52115,172.63839)
+Data0=(-43.52113,172.63853)
 [END]
 
 ;1117708
@@ -71875,6 +71859,7 @@ Type=0x2b01
 Label=COMFORT INN ALCALA MOTOR LODGE
 StreetDesc=704 George St, Dud 9016, Otago [Corner of Saint David St]/ Accommodation, Motel,
 Phone=+6434779073
+zip=Front Desk hours are 7am to 9:30pm
 Data0=(-45.86231,170.51060)
 [END]
 
@@ -72725,9 +72710,9 @@ Data0=(-44.68957,170.42275)
 [POI]
 Type=0x2b01
 Label=ASPEN ON KING MOTEL AND RESTAURANT
-StreetDesc=51 King St Timaru/ dining, food, lodging, accommodation
+StreetDesc=51 King St Timaru/ dining, food, lodging, accommodation, "host accommodation"
 Phone=+6436883054
-zip=Sun-Sat 6pm (Tussock Restaurant)
+zip=Tussock Restaurant Open 7 Days Breakfast
 Data0=(-44.40695,171.25210)
 [END]
 
@@ -74201,8 +74186,8 @@ Data0=(-45.41439,167.71606)
 ;1118908
 [POI]
 Type=0x2e07
-Label=?PAGANI RICHMOND
-StreetDesc=Shop 22, Richmond Mall, Cnr Croucher & Talbot St, Nelson, Richmond/ Womens fashi
+Label=?PAGANI NELSON RICHMOND
+StreetDesc=Shop 31, Richmond Mall, Cnr Croucher and Talbot St, Nelson 7020/ Womens fashion 
 Phone=+6435410700
 Data0=(-41.33857,173.18620)
 [END]
@@ -74210,45 +74195,36 @@ Data0=(-41.33857,173.18620)
 ;1118909
 [POI]
 Type=0x2e07
-Label=PAGANI NORTHLANDS
-StreetDesc=Shop 82b, Northlands Shopping Ctr, Main North Rd, Papanui, Chc/ Womens fashion. 
+Label=?PAGANI CHRISTCHURCH NORTHLANDS
+StreetDesc=Shop 82b, Northlands Shopping Ctr, Main North Rd, Papanui, Chc/ Womens fashion &
 Phone=+6433522656
 Data0=(-43.49272,172.61017)
-[END]
-
-;1118910
-[POI]
-Type=0x2e07
-Label=PAGANI SOUTH CITY
-StreetDesc=Shop 6-8, 555 Colombo St Chc/ Womens fashion. Jeans, ball gowns, jewellery, sung
-Phone=+6433798029
-Data0=(-43.53832,172.63468)
 [END]
 
 ;1118911
 [POI]
 Type=0x2e07
-Label=PAGANI EASTGATE
-StreetDesc=Shop 43-45, Eastgate Shopping Ctr, Cnr Linwood Ave and Buckleys Rd, Chc/ Womens 
-Phone=+6433812867
-Data0=(-43.53293,172.67469)
+Label=?PAGANI CHRISTCHURCH EASTGATE
+StreetDesc=Shop 605, 20 Buckleys Rd, Corner Linwood Ave & Buckleys Rd, Chc/ Womens fashion 
+Phone=+6433894892
+Data0=(-43.52972,172.67789)
 [END]
 
 ;1118912
 [POI]
 Type=0x2e07
-Label=PAGANI HORNBY
+Label=PAGANI CHRISTCHURCH HORNBY
 StreetDesc=Shop 5a, The Hub Hornby, 418 Main South Rd, Hornby, Chc/ Womens fashion & clothi
 Phone=+6433441407
 zip=Mon-Wed 9am-6pm, Thu-Fri 9am-6:30pm, Sat
-Data0=(-43.54261,172.52316)
+Data0=(-43.54335,172.52314)
 [END]
 
 ;1118913
 [POI]
 Type=0x2e07
 Label=PAGANI DUNEDIN
-StreetDesc=Shop G10, 267-287 George St Dud/ Womens fashion. Jeans, ball gowns, jewellery, s
+StreetDesc=Shop G10, 267-287 George St Dud/ Womens fashion & clothing. Jeans, ball gowns, j
 Phone=+6434701083
 Data0=(-45.87042,170.50543)
 [END]
@@ -74257,7 +74233,7 @@ Data0=(-45.87042,170.50543)
 [POI]
 Type=0x2e07
 Label=PAGANI INVERCARGILL
-StreetDesc=72 Esk St, Invercargill/ Womens fashion. Jeans, ball gowns, jewellery, sunglasse
+StreetDesc=72 Esk St, Invercargill/ Womens fashion & clothing. Jeans, ball gowns, jewellery
 Phone=+6432182945
 Data0=(-46.41175,168.35014)
 [END]
@@ -74946,7 +74922,7 @@ Data0=(-45.42159,167.71847)
 [POI]
 Type=0x2b01
 Label=ARRAN MOTEL
-StreetDesc=64 Quintin Dr, Te Anau/ Motel
+StreetDesc=64 Quintin Dr, Te Anau/ Motel accommodation, "host accommodation"
 Phone=+6432498826
 Data0=(-45.42258,167.71951)
 [END]
@@ -80286,7 +80262,7 @@ Data0=(-44.39407,171.25082)
 [POI]
 Type=0x2b01
 Label=ANATOKI LODGE MOTEL
-StreetDesc=87 Commercial St, Takaka/ Motel accommodation
+StreetDesc=87 Commercial St, Takaka/ Motel accommodation, "host accommodation"
 Phone=+6435258047
 Data0=(-40.85699,172.80632)
 [END]
@@ -84025,7 +84001,7 @@ Data0=(-43.56478,172.68685)
 ;1121955
 [POI]
 Type=0x2f01
-Label=SHELL TRUCKSTOP HILLSBOROUGH 24HR
+Label=SHELL TRUCKSTOP WOOLSTON 24HR
 StreetDesc=Port Hills Rd, Hillsborough/ Shell petrol station (diesel/shellcard only)
 zip=24/7
 Data0=(-43.56634,172.68057)
@@ -85632,7 +85608,7 @@ Data0=(-43.80532,172.96693)
 [POI]
 Type=0x2b01
 Label=193 AORANGI MANOR MOTEL
-StreetDesc=193 High St, Blenheim/ Motel accommodation, wireless broadband
+StreetDesc=193 High St, Blenheim/ Motel accommodation, wireless broadband, "host accommodat
 Phone=+6435782022
 Data0=(-41.51178,173.94760)
 [END]
@@ -86108,7 +86084,7 @@ Data0=(-45.86125,170.51070)
 [POI]
 Type=0x2b01
 Label=AAA MARLIN MOTEL
-StreetDesc=33 Devon St, Picton/ Motel accommodation
+StreetDesc=33 Devon St, Picton/ Motel accommodation, "host accommodation"
 Phone=+6435736784
 Data0=(-41.29432,174.00329)
 [END]
@@ -86216,7 +86192,7 @@ Data0=(-45.90541,170.50996)
 [POI]
 Type=0x2b01
 Label=AIRPORT CHRISTCHURCH MOTEL
-StreetDesc=55 Roydvale Ave, Burnside, Chc/ Four star motel accommodation
+StreetDesc=55 Roydvale Ave, Burnside, Chc/ Four star motel accommodation, "host accommodati
 Phone=+6439774970
 Data0=(-43.49865,172.56145)
 [END]
@@ -86315,7 +86291,7 @@ Data0=(-41.28975,174.00711)
 [POI]
 Type=0x2b01
 Label=AMITY LODGE MOTEL
-StreetDesc=7 Melbourne St, Queenstown/ Motel accommodation
+StreetDesc=7 Melbourne St, Queenstown/ Motel accommodation, "host accommodation"
 Phone=+6434427288
 Data0=(-45.03316,168.66777)
 [END]
@@ -86387,7 +86363,7 @@ Data0=(-44.69329,169.14176)
 [POI]
 Type=0x2b01
 Label=ARROW MOTEL APARTMENTS
-StreetDesc=24 Golf Rd, Tahunanui, Nelson/ Motel accommodation
+StreetDesc=24 Golf Rd, Tahunanui, Nelson/ Motel accommodation, "host accommodation"
 Phone=+6435464030
 Data0=(-41.28498,173.24089)
 [END]
@@ -93502,8 +93478,9 @@ Data0=(-43.52960,172.60825)
 ;1130877
 [POI]
 Type=0x2f
-Label=ANGUS MEAT WHOLESALERS
+Label=ANGUS MEAT WHOLESALERS (DEMOLISHED)
 StreetDesc=95 Westminster St, Chc/ butcher
+zip=Demolished due to Earthquake
 Data0=(-43.50626,172.63631)
 [END]
 
@@ -111168,8 +111145,9 @@ Data0=(-43.50882,172.65189)
 [POI]
 Type=0x2e05
 Label=FERRY ROAD PHARMACY
-StreetDesc=244 Ferry Rd, Waltham, Chc/ Pharmacy, Lotto
+StreetDesc=244a Ferry Rd, Waltham, Chc/ Pharmacy, PostShop, Kiwibank, currency exchange, pa
 Phone=+6433660081
+zip=Monday - Friday 8:30am - 5:30pm Saturday
 Data0=(-43.54039,172.65853)
 [END]
 
@@ -116913,7 +116891,7 @@ Type=0x2b01
 Label=TERRACE MOTEL
 StreetDesc=Cowan St, Franz Josef, South Westland, West Coast/ Accommodation. Zenbu Wi-Fi wi
 Phone=+6437520130
-Data0=(-43.38732,170.18371)
+Data0=(-43.38732,170.18382)
 [END]
 
 ;1138592
@@ -122860,7 +122838,7 @@ Data0=(-43.90393,171.74839)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=141 West St O/S Shell Station Ashburton/ Telecom, payphone, public phone box
+StreetDesc=141 West St O/S Z Station Ashburton/ Telecom, payphone, public phone box
 Phone=+6433082096
 Data0=(-43.90456,171.74607)
 [END]
@@ -123266,7 +123244,7 @@ Data0=(-43.57939,172.56671)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=713 Main North Rd Shell Station Forecourt Belfast Chc/ Telecom, payphone, public
+StreetDesc=713 Main North Rd Z Station Forecourt Belfast Chc/ Telecom, payphone, public pho
 Phone=+6433236458
 Data0=(-43.45166,172.62804)
 [END]
@@ -123347,7 +123325,7 @@ Data0=(-43.38203,172.65808)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=124 Williams St O/S Shell Station Kaiapoi Chc/ Telecom, payphone, public phone b
+StreetDesc=124 Williams St O/S Z Station Kaiapoi Chc/ Telecom, payphone, public phone box
 Phone=+6433275451
 Data0=(-43.38934,172.65410)
 [END]
@@ -124868,7 +124846,7 @@ Data0=(-43.53364,172.67325)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=Linwood Ave cnr Cashel St Shell Linwood Linwood Chc/ Telecom, payphone, public p
+StreetDesc=Linwood Ave cnr Cashel St Z Linwood Linwood Chc/ Telecom, payphone, public phone
 Phone=+6433898015
 Data0=(-43.53291,172.67178)
 [END]
@@ -125048,7 +125026,7 @@ Data0=(-45.09665,170.97164)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=22 Severn St Shell Station Forecourt Oamaru/ Telecom, payphone, public phone box
+StreetDesc=22 Severn St Z Station Forecourt Oamaru/ Telecom, payphone, public phone box
 Phone=+6434349346
 Data0=(-45.09868,170.96776)
 [END]
@@ -125795,7 +125773,7 @@ Data0=(-45.02399,170.14655)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=Barry Ave Opp Shell Station Cromwell/ Telecom, payphone, public phone box
+StreetDesc=Barry Ave Opp Z Station Cromwell/ Telecom, payphone, public phone box
 Phone=+6434450005
 Data0=(-45.03672,169.19929)
 [END]
@@ -127784,7 +127762,7 @@ Data0=(-41.51370,173.95790)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=167 Middle Renwick Rd O/S Shell Station Springlands Blenheim/ Telecom, payphone,
+StreetDesc=167 Middle Renwick Rd O/S Z Station Springlands Blenheim/ Telecom, payphone, pub
 Phone=+6435786433
 Data0=(-41.50943,173.93004)
 [END]
@@ -127811,7 +127789,7 @@ Data0=(-41.51319,173.96605)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=Grove Rd cnr Budge St O/S Shell Station Blenheim/ Telecom, payphone, public phon
+StreetDesc=Grove Rd cnr Budge St O/S Z Station Blenheim/ Telecom, payphone, public phone bo
 Phone=+6435786548
 Data0=(-41.50295,173.96073)
 [END]
@@ -128045,7 +128023,7 @@ Data0=(-44.38942,171.21802)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=Theodosia St O/S Shell Caroline Bay Seaview Timaru/ Telecom, payphone, public ph
+StreetDesc=Theodosia St O/S Z Caroline Bay Seaview Timaru/ Telecom, payphone, public phone 
 Phone=+6436848927
 Data0=(-44.39440,171.24867)
 [END]
@@ -128090,7 +128068,7 @@ Data0=(-44.40830,171.25619)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=SHW 1 197 Hilton HW O/S Shell Station Washdyke/ Telecom, payphone, public phone 
+StreetDesc=SHW 1 197 Hilton HW O/S Z Station Washdyke/ Telecom, payphone, public phone box
 Phone=+6436882795
 Data0=(-44.35612,171.23843)
 [END]
@@ -131802,8 +131780,9 @@ Data0=(-43.52865,172.63836)
 [POI]
 Type=0x2f
 Label=HAIR 'N' BEYOND
-StreetDesc=310A Waterloo Rd, Chc/ Hairdresser
-Data0=(-43.54069,172.51414)
+StreetDesc=35 Denise Cres, Hornby, Chc/ Hairdresser
+Phone=+6433495930
+Data0=(-43.54812,172.51524)
 [END]
 
 ;1146775
@@ -147108,7 +147087,7 @@ Data0=(-43.52369,172.63641)
 [POI]
 Type=0x2b01
 Label=RIVERSTONE MOTEL
-StreetDesc=18 Southbrook Rd, Rangiora/ Motel accommodation
+StreetDesc=18 Southbrook Rd, Rangiora/ Motel accommodation, "host accommodation"
 Phone=0800778663
 Data0=(-43.32357,172.59853)
 [END]
@@ -147217,7 +147196,7 @@ Data0=(-41.76325,171.59814)
 [POI]
 Type=0x2b01
 Label=BULLER COURT MOTEL
-StreetDesc=235 Palmerston St, Westport, West Coast/ Accommodation. Zenbu Wi-Fi wireless int
+StreetDesc=235 Palmerston St, Westport, West Coast/ "Host Accommodation". Zenbu Wi-Fi wirel
 Phone=+6437897979
 Data0=(-41.76206,171.60050)
 [END]
@@ -147262,7 +147241,7 @@ Data0=(-43.52258,172.63680)
 [POI]
 Type=0x2b01
 Label=CLASSIQUE LODGE MOTEL
-StreetDesc=290 Blenheim Rd, Upper Riccarton, Chc/ Motel accommodation
+StreetDesc=290 Blenheim Rd, Upper Riccarton, Chc/ Motel accommodation, "host accommodation"
 Phone=+6433489795
 Data0=(-43.53832,172.58423)
 [END]
@@ -150058,7 +150037,8 @@ Data0=(-45.03467,168.67334)
 [POI]
 Type=0x2b00
 Label=QUALITY INN HURLEY'S OF QUEENSTOWN
-StreetDesc=Cnr Frankton Rd & Melbourne St, Queenstown/ Accommodation
+StreetDesc=Cnr Frankton Rd & Melbourne St, Queenstown/ Accommodation, Hotel, Choice Hotels
+zip=Front Desk Hours: 8:00am to 8:00pm
 Data0=(-45.03353,168.66829)
 [END]
 
@@ -150412,7 +150392,8 @@ Data0=(-42.41506,173.68685)
 [POI]
 Type=0x2b01
 Label=AAA NORTHLANDS MOTEL
-StreetDesc=232 Main North Rd, Redwood, Chc/ Accommodation
+StreetDesc=232 Main North Rd, Redwood, Chc/ Motel accommodation, "host accommodation"
+Phone=+6433528478
 Data0=(-43.48196,172.61677)
 [END]
 
@@ -151611,7 +151592,8 @@ Data0=(-42.37678,173.68086)
 [POI]
 Type=0x2b00
 Label=COMFORT INN MELBOURNE LODGE
-StreetDesc=35 Melbourne St, Queenstown/ Accommodation
+StreetDesc=35 Melbourne St, Queenstown/ Accommodation, Hotel, Choice Hotels
+zip=Front Desk Hours: 7am-7pm
 Data0=(-45.03165,168.66573)
 [END]
 
@@ -151863,7 +151845,8 @@ Data0=(-43.51013,172.62020)
 [POI]
 Type=0x2b01
 Label=EQUESTRIAN LODGE MOTEL
-StreetDesc=2 Avalon Court, Motueka/ Accommodation
+StreetDesc=2 Avalon Court, Motueka/ Motel accommodation, "host accommodation"
+Phone=+6435289369
 Data0=(-41.11425,173.01408)
 [END]
 
@@ -151889,14 +151872,6 @@ Type=0x2b00
 Label=EYREWELL DOWNS
 StreetDesc=899 Downs Rd, West Eyreton, Rangiora/ Accommodation
 Data0=(-43.37350,172.37160)
-[END]
-
-;1159129
-[POI]
-Type=0x2b01
-Label=FAIRWAY MOTEL
-StreetDesc=2 MacPherson St, Wanaka/ Accommodation
-Data0=(-44.69317,169.14502)
 [END]
 
 ;1159130
@@ -156218,8 +156193,8 @@ Data0=(-41.23662,173.31722)
 ;1160676
 [POI]
 Type=0x2f
-Label=AU PAIR LINK CHRISTCHURCH
-StreetDesc=288 Westminister St, St Albans, Chc/ 
+Label=AU PAIR LINK - CHRISTCHURCH
+StreetDesc=Ground Fl, 7 Falcon St, Parnell, Akl 1052/ 
 Phone=+6433855259
 Data0=(-43.49934,172.64746)
 [END]
@@ -181627,7 +181602,7 @@ Data0=(-41.32870,173.20689)
 ;1173564
 [POI]
 Type=0x2f01
-Label=SHELL TRUCK STOP, TAKAKA
+Label=SHELL TAKAKA TRUCKSTOP
 StreetDesc=96 Commercial St, Takaka/ Diesel, Fuel Cards only
 Data0=(-40.85675,172.80673)
 [END]
@@ -181701,15 +181676,6 @@ Label=?SHELL TRUCK STOP, PAPANUI 24HR
 StreetDesc=Sawyers Arms Rd, Papanui, Chc/ Diesel, Fuel Cards only
 zip=24 hr
 Data0=(-43.48168,172.59209)
-[END]
-
-;1173573
-[POI]
-Type=0x2f01
-Label=SHELL TRUCK STOP, TEMPLETON 24HR
-StreetDesc=Main South Rd, Templeton/ Diesel, Fuel Cards only
-zip=24 hr
-Data0=(-43.54937,172.48815)
 [END]
 
 ;1173577
@@ -185238,9 +185204,10 @@ Data0=(-43.52067,172.63750)
 ;1174783
 [POI]
 Type=0x2b00
-Label=THE MARQUE HOTEL CHRISTCHURCH
-StreetDesc=166 Gloucester St, Chc/ Accommodation
+Label=THE MARQUE HOTEL - CLARION COLLECTION
+StreetDesc=166 Gloucester St, Chc/ Accommodation, Hotel, Choice Hotels
 Phone=+6439433888
+zip=Currently Closed due to Earthquake Damag
 Data0=(-43.52999,172.63903)
 [END]
 
@@ -186976,7 +186943,8 @@ Data0=(-45.03310,168.66236)
 [POI]
 Type=0x2b01
 Label=QUEENSTOWN MOTEL APARTMENTS
-StreetDesc=62 Frankton Rd, Queenstown/ Apartment accommodation
+StreetDesc=62 Frankton Rd, Queenstown/ Motel, Apartments, "host accommodation"
+Phone=+6434426095
 Data0=(-45.03383,168.66944)
 [END]
 
@@ -187740,7 +187708,7 @@ Data0=(-44.70496,169.10929)
 [POI]
 Type=0x2b01
 Label=BONNIE KNIGHTS MOTEL
-StreetDesc=18-20 Quarry Rd, Mosgiel, Dud/ Motel accommodation
+StreetDesc=18-20 Quarry Rd, Mosgiel, Dud/ Motel accommodation, "host accommodation"
 Phone=+6434892415
 Data0=(-45.88784,170.35434)
 [END]
@@ -187773,7 +187741,8 @@ Data0=(-43.52418,172.63681)
 [POI]
 Type=0x2b01
 Label=COMMODORE MOTELS
-StreetDesc=932 Cumberland St, Dud City, Dud/ Motel accommodation
+StreetDesc=932 Cumberland St, Dud City, Dud/ Motel accommodation, "host accommodation"
+Phone=+6434777766
 Data0=(-45.85820,170.51613)
 [END]
 
@@ -192146,7 +192115,8 @@ Data0=(-44.70919,169.13021)
 [POI]
 Type=0x2b01
 Label=SUNDOWNER MOTEL
-StreetDesc=14 Smith St, Greymouth/ Motel accommodation
+StreetDesc=14 Smith St, Greymouth/ Motel accommodation, "host accommodation"
+Phone=+6437684666
 Data0=(-42.44942,171.21489)
 [END]
 
@@ -196919,7 +196889,7 @@ Data0=(-41.33657,173.18134)
 ;1183269
 [POI]
 Type=0x2a07
-Label=NOODLE CANTEEN
+Label=NOODLE CANTEEN NELSON
 StreetDesc=321 Queen St, Richmond, Nelson/ Fastfood
 Data0=(-41.33657,173.18134)
 [END]
@@ -198767,7 +198737,7 @@ Data0=(-42.40005,173.68089)
 ;1189141
 [POI]
 Type=0x2f
-Label=ANDREUS PAINT PAPER DESIGN
+Label=ANDREUS PAINTERS PAINT + PAPER + DESIGN
 StreetDesc=9 Bridger St Maryhill Dud 9011 New Zealand/ Painting, paperhanging, wallpapering
 Phone=+6427221848
 zip=8.00am - 5.00pm Monday-Friday
@@ -199508,7 +199478,8 @@ Data0=(-44.00903,170.49279)
 [POI]
 Type=0x2b01
 Label=AKAROA CRITERION MOTEL
-StreetDesc=75 Rue Jolie, Akaroa/ Motel accommodation
+StreetDesc=75 Rue Jolie, Akaroa/ Motel accommodation, "host accommodation"
+Phone=+6433047775
 Data0=(-43.80479,172.96686)
 [END]
 
@@ -201114,9 +201085,10 @@ Data0=(-45.88661,170.35501)
 ;1190450
 [POI]
 Type=0x2b00
-Label=HIGHVIEW APARTMENTS
+Label=CLARION SUITES HIGHVIEW APARTMENTS
 StreetDesc=66-70 Thompson St, Queenstown, New Zealand/ Queenstown Luxury Apartment Accommod
 Phone=+6434502142
+zip=Office hours are 0830am till 0500pm
 Data0=(-45.03547,168.64872)
 [END]
 
@@ -204305,5 +204277,173 @@ StreetDesc=47 Browns Rd, Middlemarch RD2, Otago 9597/ Providing Otago Rail Trail
 Phone=+34643755
 zip=8a.m until 8p.m 7 days a week
 Data0=(-45.64364,169.85939)
+[END]
+
+;1192558
+[POI]
+Type=0x2f03
+Label=EMSLIE & FLOCKTON PANEL BEATERS
+StreetDesc=94 Glasgow St Dud 9012 New Zealand/ Expert Panel Beaters in Dunedin for collisio
+Phone=+6434555047
+zip=7.30am - 4.30pm Mon- Fri
+Data0=(-45.89572,170.49925)
+[END]
+
+;1192561
+[POI]
+Type=0x2e0b
+Label=?FLASHTECH
+StreetDesc=Shirley, Chc/ Computer sales and service, offering free pickup and dropoff for s
+Phone=+6439741470
+Data0=(-43.50796,172.66525)
+[END]
+
+;1192563
+[POI]
+Type=0x2a0e
+Label=THE STRAWBERRY BAKEHOUSE
+StreetDesc=70 Achilles Ave, Nelson/ Cafe, Catering, espresso, takeaway, dine in
+Phone=+6435484489
+Data0=(-41.27135,173.28205)
+[END]
+
+;1192579
+[POI]
+Type=0x2e08
+Label=?TAPANUI HAMMER HARDWARE
+StreetDesc=Tapanui, West Otago/ Hardware, DIY supplies, paint, timber, key cutting, Otago, 
+Phone=+6432048642
+Data0=(-45.94332,169.26053)
+[END]
+
+;1192581
+[POI]
+Type=0x2a07
+Label=NOODLE CANTEEN BLENHEIM
+StreetDesc=89 Queen St. Blenheim/ Restaurant, Takeaways
+Phone=+6435778873
+Data0=(-41.51429,173.95568)
+[END]
+
+;1192593
+[POI]
+Type=0x2e07
+Label=PAGANI BLENHEIM
+StreetDesc=85 Market St, Blenheim/ Womens fashion & clothing. Jeans, ball gowns, jewellery,
+Phone=+6435796182
+Data0=(-41.51324,173.95679)
+[END]
+
+;1192603
+[POI]
+Type=0x2e07
+Label=?PAGANI RICCARTON
+StreetDesc=Shop S263, Westfield Riccarton, 129 Riccarton Rd, Riccarton, Chc/ Womens fashion
+Phone=+6433433874
+Data0=(-43.53032,172.59788)
+[END]
+
+;1192608
+[POI]
+Type=0x2f
+Label=CASTLE STREET PANELBEATERS
+StreetDesc=211 Castle St Dud 9016/ For panel beating, chassis straightening & car painting 
+Phone=+6434777540
+zip=Mon - Fri 8.00am - 5.00pm
+Data0=(-45.87089,170.51065)
+[END]
+
+;1192609
+[POI]
+Type=0x2c05
+Label=OMNI TREE
+StreetDesc=14 Fox St Port Chalmers Dud 9023 New Zealand/ Sustainable Tree Services! Our exp
+Phone=+6434727684
+zip=Mon- Fri 8.30am - 4.30pm
+Data0=(-45.82446,170.61623)
+[END]
+
+;1192618
+[POI]
+Type=0x2F0E
+Label=CLEANMYCAR 24HR
+StreetDesc=376a Memorial Ave, Russley, Chc/ Car valet vehicle grooming mobile fleet carwash
+Phone=0508253261
+zip=24 hours
+Data0=(-43.49892,172.55944)
+[END]
+
+;1192619
+[POI]
+Type=0x2d
+Label=QUORUM 24HR
+StreetDesc=376a Memorial Ave, Russley, Chc/ Wedding band Live music acoustic duo
+Phone=0508253261
+zip=24 hours
+Data0=(-43.49892,172.55944)
+[END]
+
+;1192630
+[POI]
+Type=0x2f
+Label=BREEN
+StreetDesc=56a RUSSELL St, ALEXANDRA,/ breen, alexandra, construction , residential, commer
+Phone=+6434400190
+zip=5 DAYS 9-5
+Data0=(-45.24464,169.39227)
+[END]
+
+;1192639
+[POI]
+Type=0x2e
+Label=NEW ZEALAND OFFICE SUPPLIES - AUCKLAND L WELLINGTON L CHRISTCHURCH - NEW ZEALAND
+StreetDesc=6 Knight Place, Chc 8041/ The New Zealand Office Supplies (NZOS) online web stor
+Phone=+6433431974
+zip=8am to 5pm - Monday to Friday
+Data0=(-43.53993,172.59854)
+[END]
+
+;1192644
+[POI]
+Type=0x2f
+Label=THE LAUNDRY
+StreetDesc=135 Seaview Rd, New Brighton/ laundry, laundrette, laundromat, self service, coi
+Data0=(-43.50848,172.72483)
+[END]
+
+;1192649
+[POI]
+Type=0x2b01
+Label=CHERYLEA MOTOR LODGE
+StreetDesc=73-79 Nelson St, Blenheim/ Motel accommodation, "host accommodation"
+Data0=(-41.50888,173.94094)
+[END]
+
+;1192650
+[POI]
+Type=0x2b01
+Label=MILANO MOTOR LODGE
+StreetDesc=87 Papanui Rd, Merivale, Chc, 8024/ Motel accommodation, "host accommodation"
+Phone=+6433552800
+Data0=(-43.51696,172.62498)
+[END]
+
+;1192655
+[POI]
+Type=0x2e08
+Label=QUEENSTOWN LANDSCAPING
+StreetDesc=55 Gorge Rd Queenstown/ Queenstown Landscaping Ltd for all of your Queenstown la
+Phone=+6434428892
+Data0=(-45.02361,168.66263)
+[END]
+
+;1192656
+[POI]
+Type=0x2f
+Label=ANDREW GRESHAM
+StreetDesc=118 Leinster Rd, Merivale, Chc 8014/ Psychotherapy, Analysis, Counselling
+Phone=+6433560542
+zip=Monday to Friday, 9am to 6.30pm
+Data0=(-43.51192,172.61786)
 [END]
 

@@ -9892,7 +9892,7 @@ Data0=(-40.67839,172.68115)
 [POI]
 Type=0x2f01
 Label=PORT CHALMERS MOTORS
-StreetDesc=53 George St, Port Chalmers/ Shell petrol station
+StreetDesc=53 George St, Port Chalmers/ Shell petrol station, service station
 Phone=+6434728766
 Data0=(-45.81683,170.62039)
 [END]
@@ -9937,9 +9937,10 @@ Data0=(-45.89266,170.50335)
 ;1034440
 [POI]
 Type=0x2f01
-Label=Z ASHBURTON
-StreetDesc=141 West St, Ashburton/ Z petrol station
+Label=Z ASHBURTON 24HR
+StreetDesc=141 West St, Ashburton/ Z petrol station, Forecourt Concierge, Toilets, LPG Swap
 Phone=+6433081612
+zip=24hrs
 Data0=(-43.90486,171.74537)
 [END]
 
@@ -9947,36 +9948,39 @@ Data0=(-43.90486,171.74537)
 [POI]
 Type=0x2f01
 Label=Z BALCLUTHA
-StreetDesc=147-149 Clyde St, Balclutha/ Z petrol station
+StreetDesc=147-149 Clyde St, Balclutha/ Z petrol station, Forecourt Concierge, Toilets, LPG
 Phone=+6434182700
-Data0=(-46.24125,169.73127)
+zip=7 days : 6am – 10pm
+Data0=(-46.24166,169.73142)
 [END]
 
 ;1034468
 [POI]
 Type=0x2f01
 Label=Z BARRINGTON
-StreetDesc=253 Barrington St, Chc/ Z petrol station
+StreetDesc=253 Barrington St, Chc/ Z petrol station, Forecourt Concierge, Toilets, LPG Swap
 Phone=+6433384285
-Data0=(-43.55754,172.61856)
+zip=7 days : 6am – midnight
+Data0=(-43.55732,172.61857)
 [END]
 
 ;1034489
 [POI]
 Type=0x2f01
 Label=SHELL BELFAST 24HR
-StreetDesc=Cnr Main North Rd And Johns Rd, Belfast/ Shell petrol station
+StreetDesc=Cnr Main North Rd And Johns Rd, Belfast/ Shell petrol station; car wash, LPG bot
 Phone=+6433238715
 zip=24hrs
-Data0=(-43.45144,172.62787)
+Data0=(-43.45148,172.62819)
 [END]
 
 ;1034496
 [POI]
 Type=0x2f01
 Label=Z BISHOPDALE
-StreetDesc=210 Harewood Rd, Bishopdale/ Z petrol station
+StreetDesc=210 Harewood Rd, Bishopdale/ Z petrol station, Forecourt Concierge, Toilets, LPG
 Phone=+6433594681
+zip=7 days : 6am – 10pm
 Data0=(-43.48989,172.59312)
 [END]
 
@@ -9984,27 +9988,29 @@ Data0=(-43.48989,172.59312)
 [POI]
 Type=0x2f01
 Label=SHELL BROUGHAM STREET 24HR
-StreetDesc=495 Brougham St, Chc/ Shell petrol station
+StreetDesc=495 Brougham St, Chc/ Shell petrol station, LPG Swap n Go, Trailer hire, LPG Fue
 Phone=+6433796421
 zip=24hrs
-Data0=(-43.54818,172.65728)
+Data0=(-43.54838,172.65670)
 [END]
 
 ;1034531
 [POI]
 Type=0x2f01
 Label=Z BRYNDWR
-StreetDesc=52 Strowan Rd, Bryndwr/ Z petrol station
+StreetDesc=52 Strowan Rd, Bryndwr/ Z petrol station, Forecourt Concierge, Toilets, LPG Swap
 Phone=+6433558902
-Data0=(-43.51056,172.60766)
+zip=7 days : 6am – midnight
+Data0=(-43.51054,172.60743)
 [END]
 
 ;1034538
 [POI]
 Type=0x2f01
 Label=Z BURNSIDE
-StreetDesc=449 Wairakei Rd, Chc/ Z petrol station
+StreetDesc=449 Wairakei Rd, Chc/ Z petrol station, Forecourt Concierge, Toilets, LPG Swap n
 Phone=+6433598021
+zip=7 days : 6am – 10pm
 Data0=(-43.49179,172.57281)
 [END]
 
@@ -10012,20 +10018,20 @@ Data0=(-43.49179,172.57281)
 [POI]
 Type=0x2f01
 Label=SHELL CARLTON CORNER 24HR
-StreetDesc=1 Papanui Rd, Papanui/ Shell petrol station
+StreetDesc=1 Papanui Rd, Papanui/ Shell petrol station, Cupcakes, Z pies, Espresso coffee, 
 Phone=+6433559532
 zip=24hrs
-Data0=(-43.52042,172.62753)
+Data0=(-43.52003,172.62741)
 [END]
 
 ;1034566
 [POI]
 Type=0x2f01
 Label=SHELL CARMEN ROAD 24HR
-StreetDesc=Cnr Carmen Rd And Waterloo Rd, Hornby/ Shell petrol station
+StreetDesc=Cnr Carmen Rd And Waterloo Rd, Hornby/ Shell petrol station, ATM, Car wash, LPG 
 Phone=+6433499129
 zip=24hrs
-Data0=(-43.53793,172.52870)
+Data0=(-43.53800,172.52823)
 [END]
 
 ;1034573
@@ -10042,19 +10048,20 @@ Data0=(-44.39375,171.24780)
 [POI]
 Type=0x2f01
 Label=SHELL CASHMERE 24HR
-StreetDesc=23-25 Colombo St, Beckenham/ Shell petrol station
+StreetDesc=23-25 Colombo St, Beckenham, Chc/ Shell petrol station; LPG bottleswap, trailers
 Phone=+6433322646
 zip=24hrs
-Data0=(-43.56536,172.63633)
+Data0=(-43.56535,172.63658)
 [END]
 
 ;1034657
 [POI]
 Type=0x2f01
 Label=Z CROMWELL
-StreetDesc=Cnr Barry Ave And Murray Tce, Cromwell/ Z petrol station
+StreetDesc=Cnr Barry Ave And Murray Tce, Cromwell/ Z petrol station, Forecourt Concierge, T
 Phone=+6434450804
-Data0=(-45.03659,169.19881)
+zip=7 days : 5am – midnight
+Data0=(-45.03644,169.19887)
 [END]
 
 ;1034664
@@ -10064,7 +10071,7 @@ Label=SHELL CURLETTS ROAD 24HR
 StreetDesc=Cnr Curletts And Blenheim Roads, Sockburn (Entry from Curletts Rd)/ Shell petrol
 Phone=+6433485155
 zip=24hrs
-Data0=(-43.53905,172.56781)
+Data0=(-43.53880,172.56829)
 [END]
 
 ;1034671
@@ -10080,49 +10087,51 @@ Data0=(-46.40508,168.34706)
 ;1034755
 [POI]
 Type=0x2f01
-Label=SHELL FERRY ROAD 24HR
-StreetDesc=417-423 Ferry Rd, Chc/ Shell petrol station
+Label=SHELL FERRY ROAD
+StreetDesc=417-423 Ferry Rd, Chc/ Shell petrol station, LPG Swap n Go, Trailer hire, LPG Fu
 Phone=+6433892292
-zip=24hrs
-Data0=(-43.54336,172.66774)
+zip=7 days : 5am – midnight
+Data0=(-43.54350,172.66761)
 [END]
 
 ;1034797
 [POI]
 Type=0x2f01
 Label=Z GLADSTONE 24HR
-StreetDesc=455 Dee St, Invercargill/ Z petrol station
+StreetDesc=455 Dee St, Invercargill/ Z petrol station, Forecourt Concierge, Cupcakes, Z pie
 Phone=+6432188537
 zip=24hrs
-Data0=(-46.39287,168.34749)
+Data0=(-46.39301,168.34755)
 [END]
 
 ;1034818
 [POI]
 Type=0x2f01
 Label=Z GORE
-StreetDesc=Cnr Hokonui Dr And Irwell St, Gore/ Z petrol station
+StreetDesc=Cnr Hokonui Dr And Irwell St, Gore/ Z petrol station, Forecourt Concierge, Toile
 Phone=+6432088326
-Data0=(-46.09756,168.94511)
+zip=7 days : 6am – 10pm
+Data0=(-46.09739,168.94502)
 [END]
 
 ;1034839
 [POI]
 Type=0x2f01
 Label=SHELL GREEN ISLAND
-StreetDesc=185 Main South Rd, Green Island/ Shell petrol station
+StreetDesc=185 Main South Rd, Green Island/ Shell petrol station, LPG Swap n Go, Trailer hi
 Phone=+6434885180
-Data0=(-45.90137,170.43112)
+zip=7 days : 6am – 10pm
+Data0=(-45.90154,170.43143)
 [END]
 
 ;1034860
 [POI]
 Type=0x2f01
 Label=Z GREYMOUTH 24HR
-StreetDesc=Whall St, Greymouth/ Z petrol station
+StreetDesc=Whall St, Greymouth/ Z petrol station, Forecourt Concierge, Toilets, LPG Swap n 
 Phone=+6437686490
 zip=24hrs
-Data0=(-42.44925,171.21246)
+Data0=(-42.44940,171.21243)
 [END]
 
 ;1034867
@@ -10178,8 +10187,9 @@ Data0=(-45.88666,170.35379)
 [POI]
 Type=0x2f01
 Label=SHELL NEW BRIGHTON
-StreetDesc=40 Hawke St, New Brighton/ Shell petrol station
+StreetDesc=40 Hawke St, New Brighton/ Shell petrol station, LPG Swap n Go, Trailer hire, LP
 Phone=+6433888435
+zip=7 days : 6am – 10pm
 Data0=(-43.50634,172.72787)
 [END]
 
@@ -10207,20 +10217,20 @@ Data0=(-45.01707,168.71659)
 [POI]
 Type=0x2f01
 Label=SHELL RACEWAY 24HR
-StreetDesc=250 Lincoln Rd, Addington/ Shell petrol station
+StreetDesc=250 Lincoln Rd, Addington, Chc/ Shell petrol station, car wash, LPG bottleswap, 
 Phone=+6433388795
 zip=24hrs
-Data0=(-43.54573,172.60853)
+Data0=(-43.54588,172.60869)
 [END]
 
 ;1035455
 [POI]
 Type=0x2f01
 Label=SHELL RICCARTON ROAD 24HR
-StreetDesc=33 Riccarton Rd, Riccarton/ Shell petrol station
+StreetDesc=33 Riccarton Rd, Riccarton/ Shell petrol station, LPG Swap n Go, Trailer hire
 Phone=+6433433433
 zip=24hrs
-Data0=(-43.52917,172.60912)
+Data0=(-43.52915,172.60905)
 [END]
 
 ;1035462
@@ -10266,10 +10276,10 @@ Data0=(-43.50750,172.66260)
 ;1035539
 [POI]
 Type=0x2f01
-Label=SHELL SOUTHBROOK
-StreetDesc=611 Lineside Rd, Rangiora/ Shell petrol station
+Label=SHELL SOUTHBROOK & TRUCKSTOP
+StreetDesc=611 Lineside Rd, Rangiora/ Shell petrol station & truckstop, LPG Bottleswap, Tra
 Phone=+6433137377
-Data0=(-43.32714,172.59994)
+Data0=(-43.32714,172.60033)
 [END]
 
 ;1035553
@@ -10313,7 +10323,7 @@ Data0=(-41.31903,173.22514)
 [POI]
 Type=0x2f01
 Label=SHELL TEMPLETON & TRUCKSTOP 24HR
-StreetDesc=720 Main South Rd, Templeton/ Shell petrol station & truckstop
+StreetDesc=720 Main South Rd, Templeton/ Shell petrol station & truckstop, LPG Swap n Go, T
 Phone=+6433499632
 zip=24hrs
 Data0=(-43.54949,172.48814)
@@ -10361,9 +10371,9 @@ Data0=(-45.87248,170.47232)
 [POI]
 Type=0x2f01
 Label=SHELL WAIKUKU
-StreetDesc=1413 Main North Rd, Waikuku, North Canterbury/ Shell petrol station
+StreetDesc=1413 Main North Rd, Waikuku, North Canterbury/ Shell petrol station, LPG Bottles
 Phone=+6433127705
-Data0=(-43.29515,172.68398)
+Data0=(-43.29515,172.68434)
 [END]
 
 ;1035882
@@ -10379,9 +10389,9 @@ Data0=(-44.35588,171.23859)
 [POI]
 Type=0x2f01
 Label=SHELL YALDHURST
-StreetDesc=Main West Coast Rd, Yaldhurst Rd 6/ Shell petrol station
+StreetDesc=Main West Coast Rd, Yaldhurst Rd 6, Chc/ Shell petrol station, LPG Swap n Go, LP
 Phone=+6433428979
-Data0=(-43.51235,172.50425)
+Data0=(-43.51206,172.50419)
 [END]
 
 ;1035938
@@ -10406,7 +10416,7 @@ Data0=(-44.83716,169.41171)
 [POI]
 Type=0x2f01
 Label=TEKAPO SERVICES
-StreetDesc=State Highway 8, Lake Tekapo/ Shell petrol station
+StreetDesc=State Highway 8, Lake Tekapo/ Shell petrol station, four square supermarket
 Phone=+6436806809
 Data0=(-44.00454,170.47714)
 [END]
@@ -27556,9 +27566,9 @@ Data0=(-45.84441,170.38216)
 [POI]
 Type=0x2d05
 Label=TAKAKA GOLF CLUB
-StreetDesc=Golf Course Rd, Clifton, Takaka/ golf course, 9 holes
+StreetDesc=Boyle St, Clifton, Takaka/ golf course, 9 holes
 Phone=+6435259054
-Data0=(-40.84106,172.80170)
+Data0=(-40.83304,172.86242)
 [END]
 
 ;1089306
@@ -38851,9 +38861,10 @@ Data0=(-46.09530,168.94679)
 [POI]
 Type=0x2f
 Label=AITKEN PLUMBERS LTD
-StreetDesc=6 Durham St, Mornington, Dud/ 
-Phone=+6434534176
-Data0=(-45.88222,170.47857)
+StreetDesc=6 Serpentine Ave Dud 9016 New Zealand/ Reliable expert plumbers in Dunedin with 
+Phone=+6434770410
+zip=Monday - Friday 8.00am - 5.00pm
+Data0=(-45.87844,170.49421)
 [END]
 
 ;1100883
@@ -62227,10 +62238,10 @@ Data0=(-43.52384,172.63003)
 [POI]
 Type=0x2f
 Label=THE CLEANERS WAREHOUSE LTD
-StreetDesc=184 Ferry Rd, Chc/ 
+StreetDesc=521 Blenheim Rd Sockburn Chc/ 
 Phone=+6433666077
 zip=Mon-Fri 0800-1700;Sat 1000-1500
-Data0=(-43.53938,172.65452)
+Data0=(-43.53934,172.56074)
 [END]
 
 ;1114581
@@ -64224,9 +64235,10 @@ Data0=(-43.52342,172.62966)
 ;1115847
 [POI]
 Type=0x2f
-Label=WARREN AUTO-ELECTRICAL LTD
-StreetDesc=376 Ferry Rd, Chc (Hart St Entry)/ Auto Electricians
+Label=WARREN AUTO ELECTRICAL LTD
+StreetDesc=376 Ferry Rd, Chc (Hart St Entry)/ Auto Electricians, Batteries, Workshop
 Phone=+6433665188
+zip=7am till late.
 Data0=(-43.54342,172.66633)
 [END]
 
@@ -65844,7 +65856,7 @@ Data0=(-45.00040,168.00805)
 ;1116539
 [POI]
 Type=0x2b03
-Label=?DEER VALLEY CAMPING AREA (DOC)
+Label=DEER VALLEY CAMPING AREA (DOC)
 StreetDesc=Lewis Pass Scenic Reserve (Ntl Reserve), Waimakariri - South Island > Canterbury
 Data0=(-42.40486,172.39770)
 [END]
@@ -66575,9 +66587,9 @@ Data0=(-44.34198,169.03489)
 ;1116708
 [POI]
 Type=0x6402
-Label=?ALFRED HUT
+Label=ALFRED HUT
 StreetDesc=Clarence Conservation Area - South Island > Marlborough > South Marlborough/ DOC
-Data0=(-42.32511,173.34883)
+Data0=(-42.32527,173.34866)
 [END]
 
 ;1116710
@@ -68087,9 +68099,9 @@ Data0=(-42.68256,172.27876)
 ;1116948
 [POI]
 Type=0x6402
-Label=?EVANS HUT
+Label=EVANS HUT
 StreetDesc=Rakaia Forest Conservation Area, Raukapuka - South Island > Canterbury > Mid & S
-Data0=(-43.25854,171.03664)
+Data0=(-43.25969,171.03090)
 [END]
 
 ;1116949
@@ -71095,9 +71107,9 @@ Data0=(-43.89336,169.19477)
 ;1117510
 [POI]
 Type=0x6402
-Label=?THOR HUT
+Label=THOR HUT
 StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Motueka/ DOC Backcountry hut
-Data0=(-41.35300,172.43729)
+Data0=(-41.35312,172.43761)
 [END]
 
 ;1117511
@@ -74277,8 +74289,8 @@ Data0=(-43.94025,171.68465)
 [POI]
 Type=0x2F02
 Label=SPACESHIPS CHRISTCHURCH OFFICE
-StreetDesc=57 West Coast Rd, Chc/ Campervans Hire and Motorhome Rental
-Phone=+6433776192
+StreetDesc=28 Sheffield Cres Burnside Chc, Canterbury/ Campervans Hire and Motorhome Rental
+Phone=+6433587384
 Data0=(-43.51211,172.50165)
 [END]
 
@@ -78781,9 +78793,10 @@ Data0=(-44.39792,171.25210)
 [POI]
 Type=0x2e
 Label=PORTOBELLO ANTIQUES
-StreetDesc=10 Grassmere St, Papanui, Chc/ Antiques, Antique Shop, EQC Valuations,Insurance 
+StreetDesc=7 Elgin St,. Sydenham, Chc/ Antiques, Antique Shop, EQC Valuations,Insurance val
 Phone=+6433771772
-Data0=(-43.49250,172.61304)
+zip=10 - 5 Monday - Sunday
+Data0=(-43.54550,172.63434)
 [END]
 
 ;1120476
@@ -82356,8 +82369,9 @@ Data0=(-43.52020,172.65541)
 [POI]
 Type=0x2c05
 Label=ROSA GIARDINO MONTESSORI NURSERY SCHOOL
-StreetDesc=Truro st, Sumner, Chc (in Van Asch campus)/ Childcare Centre, montessori
+StreetDesc=Marriner St, Sumner (near DotCom cafe)/ Childcare Centre, montessori
 Phone=+6421619150
+zip=8am-3pm Mon-Fri. School holiday programm
 Data0=(-43.55809,172.72406)
 [END]
 
@@ -91983,7 +91997,7 @@ Data0=(-43.64061,172.48225)
 Type=0x2f
 Label=RAVENSDOWN - HORNBY WORKS
 StreetDesc=312 Main South Rd, Hornby/ Fertiliser
-Phone=+6433440800
+Phone=+6433711800
 Data0=(-43.54277,172.53600)
 [END]
 
@@ -92116,10 +92130,10 @@ Data0=(-46.20003,169.37178)
 ;1130387
 [POI]
 Type=0x2f
-Label=RAVENSDOWN - INVERTIEL STORE
-StreetDesc=Owaka Highway, Balclutha/ Fertiliser
+Label=RAVENSDOWN - BALCLUTHA STORE
+StreetDesc=TeHocka Rd, Balclutha/ Fertiliser
 Phone=+6434182689
-Data0=(-46.25638,169.73813)
+Data0=(-46.23970,169.68538)
 [END]
 
 ;1130388
@@ -104413,8 +104427,9 @@ Data0=(-43.90433,171.74768)
 ;1132534
 [POI]
 Type=0x2f
-Label=RAVENSDOWN BALFOUR
+Label=RAVENSDOWN - BALFOUR STORE
 StreetDesc=420 Sandstone-Kingston Crossing Rd, Balfour/ 
+Phone=+6432016221
 Data0=(-45.88207,168.60665)
 [END]
 
@@ -105933,7 +105948,7 @@ Data0=(-40.83447,172.87919)
 
 ;1134182
 [POI]
-Type=0x2c06
+Type=0x2f
 Label=GOLDEN BAY KAYAKS
 StreetDesc=Tennyson St, Pohara/ Freedom kayak hire and guided half day kayak tours in Abel 
 Phone=+6435259095
@@ -114730,9 +114745,11 @@ Data0=(-45.86832,170.50624)
 ;1138072
 [POI]
 Type=0x2f
-Label=ACCENT ON IMAGE LIMITED
-StreetDesc=116 St Andrew St, Dud/ Beautician
-Data0=(-45.87209,170.50715)
+Label=ACCENT ON IMAGE
+StreetDesc=116 St Andrew St, Dud/ Beauty Therapy in Dunedin to pamper you from head to toe 
+Phone=+6434741311
+zip=Monday Tuesday Thursday Friday 9.00am - 
+Data0=(-45.87207,170.50716)
 [END]
 
 ;1138073
@@ -131548,7 +131565,8 @@ Data0=(-43.51156,172.62152)
 [POI]
 Type=0x2f
 Label=FUSION HAIR AND BEAUTY LIMITED
-StreetDesc=4 Opawa Rd, Chc/ Hairdresser
+StreetDesc=6 Opawa Rd, Chc/ Hairdresser
+Phone=+6433791275
 Data0=(-43.54717,172.65376)
 [END]
 
@@ -136113,9 +136131,9 @@ Data0=(-43.53602,172.52144)
 [POI]
 Type=0x2f
 Label=PLUNKET GREYMOUTH
-StreetDesc=8 Frickleton St, Greymouth/ Childcare Services
+StreetDesc=7 Tarapuhi St, Greymouth/ Provider of support services for the development, heal
 Phone=+6437687293
-Data0=(-42.45732,171.20721)
+Data0=(-42.44980,171.20874)
 [END]
 
 ;1148390
@@ -145828,7 +145846,7 @@ Data0=(-41.37054,173.10431)
 [POI]
 Type=0x6404
 Label=ST MICHAEL'S CHURCH
-StreetDesc=Waimea West Rd Brightwater/ Waimea Community Anglican Church
+StreetDesc=68 Waimea West Rd, Brightwater 7022/ Waimea Community Anglican Church
 Phone=+6435423694
 Data0=(-41.33835,173.10574)
 [END]
@@ -149414,6 +149432,7 @@ Data0=(-42.41494,173.70094)
 Type=0x2a0e
 Label=HISLOPS CAFE
 StreetDesc=33 Beach Rd, Kaikoura/ cafe
+Phone=+6433196971
 Data0=(-42.39665,173.67932)
 [END]
 
@@ -184797,7 +184816,7 @@ Data0=(-41.51673,173.96084)
 Type=0x2e02
 Label=BIN INN GORE
 StreetDesc=82 Broughton St, Gore/ Wholefoods & Specialty Groceries, Bulk Foods, Gluten Free
-Phone=+6432039331
+Phone=+6432081616
 zip=Monday - Friday: 8.30am - 5.30pm | Satur
 Data0=(-46.10525,168.93448)
 [END]
@@ -195195,7 +195214,7 @@ Data0=(-41.53037,173.95531)
 [POI]
 Type=0x2e
 Label=SPRINGLANDS GARDEN CENTRE & CAFE
-StreetDesc=131 Middle Renwick Rd, Blenheim/ 
+StreetDesc=131 Middle Renwick Rd, Blenheim/ Cafe, Garden Centre, Nursery
 Phone=+6435784353
 Data0=(-41.50933,173.93531)
 [END]
@@ -195656,10 +195675,11 @@ Data0=(-41.51330,173.95650)
 ;1181230
 [POI]
 Type=0x2a
-Label=GRAMADO'S BAR & LICENSED RESTAURANT
+Label=GRAMADO'S BAR & RESTAURANT
 StreetDesc=74 Main St, Blenheim/ Restaurant & Bar
-Phone=+6435775111
-Data0=(-41.51329,173.96806)
+Phone=+6435791192
+zip=Monday to Friday 4pm- Late, Saturday and
+Data0=(-41.51327,173.96812)
 [END]
 
 ;1181231
@@ -195814,7 +195834,8 @@ Data0=(-41.51186,173.95075)
 [POI]
 Type=0x2a0e
 Label=CENTREPOINT CAFE
-StreetDesc=27 A Market St, Blenheim/ 
+StreetDesc=27 A Market St, Blenheim/ Cafe
+Phone=+6435780694
 Data0=(-41.51166,173.95692)
 [END]
 
@@ -202392,9 +202413,10 @@ Data0=(-43.52660,172.63963)
 [POI]
 Type=0x2f01
 Label=SHELL DARFIELD
-StreetDesc=15 South Tce, Darfield 7961/ Shell petrol station
+StreetDesc=15 South Tce, Darfield 7961/ Shell petrol station, LPG Swap n Go, Trailer hire
 Phone=+6433188523
-Data0=(-43.49032,172.11514)
+zip=7 days : 6am – 9pm
+Data0=(-43.49014,172.11517)
 [END]
 
 ;1191319
@@ -204445,5 +204467,157 @@ StreetDesc=118 Leinster Rd, Merivale, Chc 8014/ Psychotherapy, Analysis, Counsel
 Phone=+6433560542
 zip=Monday to Friday, 9am to 6.30pm
 Data0=(-43.51192,172.61786)
+[END]
+
+;1192668
+[POI]
+Type=0x2f
+Label=COMPUTER TROUBLESHOOTERS - CHRISTCHURCH WEST
+StreetDesc=50 Kathleen Cres, Hornby, Chc/ Computer Troubleshooters focuses on providing tec
+Phone=+6434239011
+zip=Mon - Fri 8:30am - 5:30pm
+Data0=(-43.54202,172.51853)
+[END]
+
+;1192678
+[POI]
+Type=0x2c04
+Label=DUNEDIN SYNAGOGUE (FORMER)
+StreetDesc=29 Moray Place, Dud/ Historic Place: Category 1
+Data0=(-45.87555,170.50159)
+[END]
+
+;1192679
+[POI]
+Type=0x2c04
+Label=WILLOWBANK RAILWAY WINDMILL AND WATER TANK
+StreetDesc=Waikaka Rd, WILLOWBANK/ Historic Place: Category 1
+Data0=(-46.03345,169.03057)
+[END]
+
+;1192680
+[POI]
+Type=0x2c04
+Label=SEACLIFF LUNATIC ASYLUM SITE
+StreetDesc=36 Russell Rd, SEACLIFF/ Historic Place: Category 1
+Data0=(-45.67553,170.62406)
+[END]
+
+;1192681
+[POI]
+Type=0x2c04
+Label=EMPIRE HOTEL
+StreetDesc=396 Princes St, Dud/ Historic Place: Category 1
+Data0=(-45.88014,170.49998)
+[END]
+
+;1192689
+[POI]
+Type=0x2f
+Label=RED RIBBON BEAUTY
+StreetDesc=615a Hillside Rd Dud New Zealand/ Beauty Therapy, Waxing, Massage Therapy
+Phone=+6434564561
+Data0=(-45.89876,170.48563)
+[END]
+
+;1192699
+[POI]
+Type=0x6403
+Label=CLIFTON HISTORIC CEMETERY
+StreetDesc=35 Boyle St, Clifton 7183, New Zealand/ 
+Data0=(-40.83613,172.85898)
+[END]
+
+;1192700
+[POI]
+Type=0x2c00
+Label=FAREWELL SPIT DOC VISITOR CENTRE & CAFE
+StreetDesc=Freeman Access, New Zealand/ 
+Data0=(-40.52117,172.74143)
+[END]
+
+;1192704
+[POI]
+Type=0x2e
+Label=SILK SENSATION
+StreetDesc=56 Fox St, St Clair, Dud/ Silk Sensation sells silk duvet inners and luxury bed 
+Phone=+6434555618
+Data0=(-45.89566,170.49801)
+[END]
+
+;1192710
+[POI]
+Type=0x2c05
+Label=AVON LOOP COMMUNITY PLAYGROUP
+StreetDesc=28 Hurley St, Chc/ Playgroup
+zip=Monday 9.30 to 12.00
+Data0=(-43.52523,172.64822)
+[END]
+
+;1192712
+[POI]
+Type=0x2a
+Label=TUTIS RESTAURANT & BAR
+StreetDesc=35 Beach Rd, Kaikoura 7300, New Zealand/ 
+Phone=+6433193370
+zip=Monday - Saturday 1100am - Late.
+Data0=(-42.39644,173.67921)
+[END]
+
+;1192714
+[POI]
+Type=0x2f
+Label=ROGER SMITH DENTIST
+StreetDesc=504 George St Dud 9016 New Zealand/ Experienced dentist in Dunedin providing att
+Phone=+6434740075
+zip=Monday, Tues, Thurs, Fri 8.30am - 5.30pm
+Data0=(-45.86596,170.50848)
+[END]
+
+;1192716
+[POI]
+Type=0x2b01
+Label=PACIFIC VIEW PARADISE BED AND BREAKFAST
+StreetDesc=17 Harry Ell Dr, Cashmere, Chc 8022/ Traveller's Choice 2012 winner on TripAdvis
+Phone=+33326992
+Data0=(-43.58132,172.64223)
+[END]
+
+;1192717
+[POI]
+Type=0x2d
+Label=HIGHLY FLAMMABLE LTD
+StreetDesc=87 Saint David St North Dud, Dud 9016/ Highly Flammable is a creative visual ent
+Phone=+6427310493
+Data0=(-45.86332,170.51436)
+[END]
+
+;1192723
+[POI]
+Type=0x2e0b
+Label=JAYCAR BLENHEIM
+StreetDesc=8C Scott St Blenheim/ Electrical supplies
+Phone=+6435777710
+zip=09:00am - 05:30pm - Saturday:09:00am - 0
+Data0=(-41.51467,173.95667)
+[END]
+
+;1192733
+[POI]
+Type=0x2e07
+Label=THE UNIFORM FACTORY
+StreetDesc=Dud/ Screen printers & embroidery for all uniforms, teamwear and sports clothing
+Phone=0800335646
+Data0=(-45.87876,170.50280)
+[END]
+
+;1192745
+[POI]
+Type=0x2f
+Label=AUTO RECOVERY SOUTH ISLAND LTD 24HR
+StreetDesc=376 Ferry Rd, Woolston, Chc, 8023./ Vehicle Towing, Recovery, Auto service, Auto
+Phone=+6433665188
+zip=24 Hours - 7 Days
+Data0=(-43.54320,172.66605)
 [END]
 

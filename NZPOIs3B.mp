@@ -19255,10 +19255,10 @@ Data0=(-43.76278,172.29811)
 [POI]
 Type=0x2f06
 Label=WESTPAC LINCOLN (B&A)
-StreetDesc=18 Gerald St, Lincoln/ Bank branch, ATM
+StreetDesc=9 Gerald St, Lincoln/ Bank branch, ATM
 Phone=0800400600
 zip=Mon-Tue 9am-4.30pm, Wed 9.30am-4.30pm, T
-Data0=(-43.64011,172.48406)
+Data0=(-43.64014,172.48398)
 [END]
 
 ;1067788
@@ -153551,6 +153551,7 @@ Data0=(-41.05120,172.93506)
 Type=0x2b02
 Label=ORPINGTON HOUSE B&B
 StreetDesc=3 Marion Place, Lincoln/ B&B Accommodation
+Phone=+6433257790
 Data0=(-43.64292,172.47618)
 [END]
 
@@ -154489,6 +154490,7 @@ Data0=(-44.69535,169.13835)
 Type=0x2b00
 Label=TE WHARAU
 StreetDesc=5 Edward St, Lincoln, Chc/ Accommodation
+Phone=+6433252065
 Data0=(-43.64030,172.48681)
 [END]
 
@@ -182113,8 +182115,8 @@ Data0=(-45.84808,170.51577)
 ;1173696
 [POI]
 Type=0x2a07
-Label=LINCOLN LUNCHBAR AND TAKEAWAYS
-StreetDesc=12 Robert St, Lincoln/ Great fish and chips, baked goods
+Label=ROCKEY'S LUNCHBAR AND TAKEAWAYS
+StreetDesc=9 Robert St, Lincoln/ Great fish and chips, baked goods, Pizza & Pasta Takeaways
 Phone=+6433252627
 Data0=(-43.64146,172.48432)
 [END]
@@ -187374,6 +187376,7 @@ Data0=(-40.85294,172.80684)
 Type=0x2b02
 Label=SILVERSTREAM LODGE
 StreetDesc=214 Englishs Rd, Lincoln, Chc RD4/ Bed and Breakfast accommodation, B&B
+Phone=+6433255707
 Data0=(-43.67867,172.48020)
 [END]
 
@@ -204619,5 +204622,78 @@ StreetDesc=376 Ferry Rd, Woolston, Chc, 8023./ Vehicle Towing, Recovery, Auto se
 Phone=+6433665188
 zip=24 Hours - 7 Days
 Data0=(-43.54320,172.66605)
+[END]
+
+;1192770
+[POI]
+Type=0x2f
+Label=RELAX: MASSAGE AND BODY THERAPIES
+StreetDesc=L Two, Moray Chambers, 30 Moray Place, Dud/ Therapeutic massage, Relaxation Mass
+Phone=+6421295181
+zip=Thursday and Friday 9am-6pm, Saturday 10
+Data0=(-45.87510,170.50205)
+[END]
+
+;1192775
+[POI]
+Type=0x2f
+Label=BATTERYSTORE
+StreetDesc=10 Aidanfield Dr, Wigram, 基督城 8025新西兰/ HP battery,laptop battery
+Data0=(-43.56461,172.57299)
+[END]
+
+;1192779
+[POI]
+Type=0x2f
+Label=DOWN BY THE LIFFEY GALLERY
+StreetDesc=1 James St, Lincoln, Selwyn/ Art Gallery
+Phone=+6433252832
+zip=Wed-Sun 10am - 4pm
+Data0=(-43.63988,172.48602)
+[END]
+
+;1192780
+[POI]
+Type=0x2f
+Label=LINCOLN FAMILY BARBER
+StreetDesc=14 Gerald St, Lincoln/ Barber
+zip=Mon-Tue 9am-5pm, Wed Closed, Thu 9am-6pm
+Data0=(-43.64019,172.48325)
+[END]
+
+;1192781
+[POI]
+Type=0x2f
+Label=DEUTSCHES ECK - GERMAN BUTCHERY
+StreetDesc=9 Gerald St, Lincoln/ Butcher
+Phone=+6433252268
+Data0=(-43.64051,172.48383)
+[END]
+
+;1192782
+[POI]
+Type=0x2a07
+Label=CURRY POT ON LINCOLN
+StreetDesc=5 Robert St, Lincoln/ Takeaway, Dine In, Fully Licensed, BYO (wine only)
+Phone=+6433257500
+Data0=(-43.64081,172.48457)
+[END]
+
+;1192783
+[POI]
+Type=0x2a
+Label=THE TEA HOUSE
+StreetDesc=6 Robert St, Lincoln/ Cafe & Restaurant, High Tea
+Phone=+6433257242
+Data0=(-43.64090,172.48419)
+[END]
+
+;1192784
+[POI]
+Type=0x2f
+Label=COZY CATS ON ELLESMERE CATTERY
+StreetDesc=321 Ellesmere Rd, Lincoln/ Cattery
+Phone=+6433226245
+Data0=(-43.61562,172.52903)
 [END]
 

@@ -44,12 +44,22 @@ def process_polish_buffer(buffer)
     if official_street_name =~ /STATE HIGHWAY #{highway_number}/ then
       match = true
     end
-  elsif official_street_name == "ACCESSWAY" then
-    if street_name == "WALKWAY" || street_name == "OVERBRIDGE" || street_name == "UNDERPASS" || street_name == "" then
-      match = true
-    end
   end
-    
+	if !match then
+		if @acceptables[official_street_name] then
+			@acceptables[official_street_name].each{|alternate|
+				if street_name == alternate then
+					match = true
+					break
+				end
+				if street_name_2 == alternate then
+					match = true
+					break
+				end
+			}
+		end
+  end
+  
   if !match then 
     print "#{linzid}\t#{street_name}\t#{street_name_2}\t#{official_street_name}\t#{first_lat},#{first_lon}\n"
     @reporting_file.print "#{linzid}\t#{street_name}\t#{street_name_2}\t#{official_street_name}\t#{first_lat},#{first_lon}\n"
@@ -81,9 +91,19 @@ def pre_processing()
     end
   }
   print "#{@linz_street_names_by_linzid.size} distinct linz ids found in #{linz_data_service_file}\n"
+  
+	alternates_file = 'acceptable.names'
+	@acceptables = Hash.new
+	if File.exists?(alternates_file) then
+		File.open(alternates_file).each{|line|
+			if line =~ /(.+),(.*)/ then
+				(@acceptables[$1] ||=[]) << $2
+			end
+		}
+	end
 
-    print "linzid\tstreet_name\tstreet_name_2\tofficial_street_name\n"
-    @reporting_file.print "linzid\tstreet_name\tstreet_name_2\tofficial_street_name\n"
+	print "linzid\tstreet_name\tstreet_name_2\tofficial_street_name\n"
+	@reporting_file.print "linzid\tstreet_name\tstreet_name_2\tofficial_street_name\n"
 end
 
 def post_processing()

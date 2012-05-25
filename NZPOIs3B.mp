@@ -8218,8 +8218,8 @@ Data0=(-43.50941,172.59001)
 [POI]
 Type=0x2e02
 Label=COUNTDOWN NORTHLANDS 24HR
-StreetDesc=Northlands Shopping Mall, 55 Main North Rd, Papanui, Chc/ supermarket, groceries
-Phone=+6433523664
+StreetDesc=Northlands Shopping Mall, 85 Main North Rd, Papanui, Chc/ supermarket, groceries
+Phone=+6433750092
 zip=Mon - Sun, 24 hours
 Data0=(-43.49162,172.61180)
 [END]
@@ -10157,17 +10157,17 @@ Data0=(-41.27092,173.28248)
 [POI]
 Type=0x2f01
 Label=Z KAIAPOI 24HR
-StreetDesc=82 Williams St, Kaiapoi/ Z petrol station
+StreetDesc=82 Williams St, Kaiapoi/ Z petrol station, Forecourt Concierge, Toilets, ATM, LP
 Phone=+6433277209
 zip=24hrs
-Data0=(-43.38926,172.65438)
+Data0=(-43.38909,172.65435)
 [END]
 
 ;1035098
 [POI]
 Type=0x2f01
 Label=Z LINWOOD 24HR
-StreetDesc=Cnr Linwood Ave And Cashel St, Chc/ Z petrol station
+StreetDesc=Cnr Linwood Ave And Cashel St, Chc/ Z petrol station, Forecourt Concierge, Cupca
 Phone=+6433898115
 zip=24hrs
 Data0=(-43.53279,172.67137)
@@ -16967,16 +16967,6 @@ StreetDesc=8 Gladstone Rd, Richmond/ Automotive parts, Car parts, Auto accessori
 Phone=+6435439300
 zip=8am-5.30pm Mon-Sat, 9am-5pm Sun
 Data0=(-41.33743,173.18016)
-[END]
-
-;1059899
-[POI]
-Type=0x2F07
-Label=REPCO SYDENHAM
-StreetDesc=154 Carlyle St, Sydenham/ Automotive parts, Car parts, Auto accessories
-Phone=+6433770714
-zip=8am-5.30pm Mon-Sat, 9am-5pm Sun
-Data0=(-43.54160,172.64189)
 [END]
 
 ;1059962
@@ -55008,6 +54998,15 @@ zip=Mon-Fri 0900-1700
 Data0=(-41.34025,173.18542)
 [END]
 
+;1110343
+[POI]
+Type=0x2f
+Label=ROAD TRANSPORT ASSOCIATION NEW ZEALAND INC
+StreetDesc=41 Carlyle St, Sydenham, Chc/ 
+Phone=0800367782
+Data0=(-43.54122,172.64195)
+[END]
+
 ;1110362
 [POI]
 Type=0x2f
@@ -58317,11 +58316,11 @@ Data0=(-43.53794,172.69961)
 ;1112396
 [POI]
 Type=0x2f
-Label=REG VOICE ENGINEERING
-StreetDesc=Main Rd, Pukerau, Southland/ 
+Label=?PUKERAU ENGINEERING
+StreetDesc=1204 Waipahi Highway, RD1, Pukerau, Gore 9771/ General Engineering
 Phone=+6432053897
-zip=Mon-Fri 0830-1700
-Data0=(-46.09627,169.09886)
+zip=Mon-Fri 0800-1700 Sat 0800-1200
+Data0=(-46.09658,169.10255)
 [END]
 
 ;1112404
@@ -67739,9 +67738,9 @@ Data0=(-45.47536,168.35792)
 ;1116891
 [POI]
 Type=0x6402
-Label=?CROW HUT
+Label=CROW HUT
 StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Motueka/ DOC Backcountry hut
-Data0=(-41.29373,172.46884)
+Data0=(-41.29262,172.46864)
 [END]
 
 ;1116892
@@ -68915,9 +68914,9 @@ Data0=(-44.48861,167.94376)
 ;1117076
 [POI]
 Type=0x6402
-Label=?KAKAPO HUT
+Label=KAKAPO HUT
 StreetDesc=Kahurangi Ntl Park - South Island > West Coast > Buller/ DOC Backcountry hut
-Data0=(-41.33238,172.30395)
+Data0=(-41.33238,172.30384)
 [END]
 
 ;1117079
@@ -69107,7 +69106,7 @@ Data0=(-41.56788,173.32020)
 ;1117115
 [POI]
 Type=0x6402
-Label=?LAKE CHRISTABEL HUT
+Label=LAKE CHRISTABEL HUT
 StreetDesc=Lewis Pass Scenic Reserve (Ntl Reserve) - South Island > West Coast > Greymouth/
 Data0=(-42.43715,172.25519)
 [END]
@@ -69443,9 +69442,9 @@ Data0=(-45.50689,168.19603)
 ;1117163
 [POI]
 Type=0x6402
-Label=?LUCRETIA HUT
+Label=LUCRETIA HUT
 StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > Canterbury > North C
-Data0=(-42.42702,172.34869)
+Data0=(-42.42701,172.34863)
 [END]
 
 ;1117165
@@ -70043,9 +70042,9 @@ Data0=(-45.35282,169.18499)
 ;1117291
 [POI]
 Type=0x6402
-Label=?NINA HUT
+Label=NINA HUT
 StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > Canterbury > North C
-Data0=(-42.46591,172.32173)
+Data0=(-42.46584,172.32217)
 [END]
 
 ;1117292
@@ -71435,9 +71434,9 @@ Data0=(-41.17121,172.69626)
 ;1117567
 [POI]
 Type=0x6402
-Label=?UPPER NINA BIVVY (BIVOUAC)
+Label=UPPER NINA BIVVY (BIVOUAC)
 StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > Canterbury > North C
-Data0=(-42.46956,172.27204)
+Data0=(-42.46954,172.27224)
 [END]
 
 ;1117568
@@ -71515,9 +71514,9 @@ Data0=(-43.38659,170.68011)
 ;1117580
 [POI]
 Type=0x6402
-Label=?VENUS HUT
+Label=VENUS HUT
 StreetDesc=Kahurangi Ntl Park - South Island > Nelson/Tasman > Motueka/ DOC Backcountry hut
-Data0=(-41.31700,172.43999)
+Data0=(-41.31665,172.43932)
 [END]
 
 ;1117589
@@ -71635,9 +71634,9 @@ Data0=(-45.20624,168.15388)
 ;1117616
 [POI]
 Type=0x6402
-Label=?WEST HARPER HUT
+Label=WEST HARPER HUT
 StreetDesc=Craigieburn Conservation Park, Waimakariri - South Island > Canterbury > North C
-Data0=(-43.09970,171.60678)
+Data0=(-43.09974,171.60699)
 [END]
 
 ;1117617
@@ -110881,8 +110880,8 @@ Data0=(-41.31446,173.23308)
 [POI]
 Type=0x2b01
 Label=GRAND MERCURE NELSON MONACO
-StreetDesc=6 Point Rd, Monaco, Nelson/ Monaco hotel & resort. Hotel accommodation
-Phone=0508666226
+StreetDesc=6 Point Rd, Monaco, Nelson/ Monaco Four Star Hotel and Resort provides luxury bo
+Phone=+6435478233
 Data0=(-41.30569,173.22055)
 [END]
 
@@ -146307,8 +146306,9 @@ Data0=(-42.81132,173.27404)
 ;1155390
 [POI]
 Type=0x2f
-Label=IDEA SERVICES CENTRE
-StreetDesc=14 Sandringham St, Oamaru/ 
+Label=IDEA SERVICES
+StreetDesc=18 Severn St, Oamaru/ 
+Phone=+6434331016
 Data0=(-45.07127,170.98756)
 [END]
 
@@ -182953,7 +182953,7 @@ Data0=(-45.88487,170.49960)
 Type=0x2f
 Label=ROCKGAS CHRISTCHURCH
 StreetDesc=95 Byron St, Sydenham, Chc/ LPG, Gas fills, cylinder testing
-Phone=+6433531267
+Phone=0800762542
 Data0=(-43.54240,172.64585)
 [END]
 
@@ -182962,7 +182962,7 @@ Data0=(-43.54240,172.64585)
 Type=0x2f
 Label=ROCKGAS WOOLSTON
 StreetDesc=12 Caerphilly Place, Woolston, Chc/ LPG, Gas fills, cylinder testing
-Phone=0800ROCKGAS08007625427
+Phone=0800762542
 Data0=(-43.56636,172.69030)
 [END]
 
@@ -183993,8 +183993,8 @@ Data0=(-43.49437,172.60955)
 [POI]
 Type=0x2f
 Label=ADVANCING BUSINESSES
-StreetDesc=79 Glenstrae Rd, Redcliffs, Chc 8081/ Personal & Business Coaching - New Zealand
-Phone=+6433844311
+StreetDesc=1 Awaroa Lane, Sumner, Chc 8081/ Personal & Business Coaching - New Zealand
+Phone=+6433266723
 Data0=(-43.56407,172.73113)
 [END]
 
@@ -188028,10 +188028,9 @@ Data0=(-43.53463,172.62811)
 [POI]
 Type=0x2f
 Label=VIASTRADA PLANNING AND TRAFFIC ENGINEERING
-StreetDesc=10 Bishop St St Albans Chc 8014/ Planning, resource management, traffic engineer
-Phone=+6432818003
+StreetDesc=294 Kilmore St Chc Central Chc 8011/ traffic
 zip=Mon-Fri 8:30am to 5pm
-Data0=(-43.52028,172.64125)
+Data0=(-43.52678,172.64992)
 [END]
 
 ;1176985
@@ -201831,9 +201830,9 @@ Data0=(-43.54353,172.62817)
 ;1190729
 [POI]
 Type=0x2f
-Label=JASON DOWDEN PROPERTY VALUATION
-StreetDesc=484 Riccarton Rd Mosgiel Dud 9092 New Zealand/ Property valuers for residential,
-Phone=+6434890554
+Label=JASON DOWDEN VALUER
+StreetDesc=484 Riccarton Rd Dud 9092 New Zealand/ Property valuers for residential, commerc
+Phone=+6427228918
 zip=Monday – Friday, 8:30 – 5:30
 Data0=(-45.85105,170.30901)
 [END]
@@ -203799,9 +203798,10 @@ Data0=(-46.41908,168.33986)
 ;1192222
 [POI]
 Type=0x2f
-Label=MASTER ELECTRICS
-StreetDesc=Flat 3, 510 Wairakei Rd Bishopdale, Chc 8053/ We are Master Electrics and we pro
-Phone=+6433596841
+Label=MASTER ELECTRICS 24HR
+StreetDesc=510 Wairakei Rd Bishopdale, Chc 8053/ We are Master Electrics and we provide our
+Phone=0800GETPOWER
+zip=24HR call first
 Data0=(-43.48900,172.56921)
 [END]
 
@@ -204458,7 +204458,7 @@ Data0=(-43.51696,172.62498)
 Type=0x2e08
 Label=QUEENSTOWN LANDSCAPING
 StreetDesc=55 Gorge Rd Queenstown/ Queenstown Landscaping Ltd for all of your Queenstown la
-Phone=+6434428892
+Phone=+6421395060
 Data0=(-45.02361,168.66263)
 [END]
 
@@ -204695,5 +204695,33 @@ Label=COZY CATS ON ELLESMERE CATTERY
 StreetDesc=321 Ellesmere Rd, Lincoln/ Cattery
 Phone=+6433226245
 Data0=(-43.61562,172.52903)
+[END]
+
+;1192791
+[POI]
+Type=0x2f
+Label=NOVO GROUP LIMITED
+StreetDesc=10 Bishop St St Albans Chc 8014/ Traffic, traffic engineering, traffic engineer,
+Phone=+6433655570
+zip=Mon-Fri: 9am to 5pm
+Data0=(-43.52028,172.64141)
+[END]
+
+;1192801
+[POI]
+Type=0x2f
+Label=ALIARTS WEBSITE MARKETING AND SEO
+StreetDesc=18 Gow Place, Chc/ Website marketing, website design, online marketing, search e
+Phone=+6433810009
+Data0=(-43.53876,172.67794)
+[END]
+
+;1192821
+[POI]
+Type=0x2f
+Label=?INSURANCE CLAIM PREPARERS
+StreetDesc=Montreal St, Chc/ Insurance claim preparation, insurance claim review
+Phone=+6421937529
+Data0=(-43.53424,172.63059)
 [END]
 

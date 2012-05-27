@@ -20623,15 +20623,6 @@ zip=Mon-Fri 8am-5pm, Sat 9am-noon
 Data0=(-45.01752,168.66234)
 [END]
 
-;1072891
-[POI]
-Type=0x2e08
-Label=NELSON TOOLSHED
-StreetDesc=107 Pascoe St, Nelson/ Tools & Machinery
-Phone=+6435472830
-Data0=(-41.29654,173.24038)
-[END]
-
 ;1072898
 [POI]
 Type=0x2e08
@@ -204723,5 +204714,43 @@ Label=?INSURANCE CLAIM PREPARERS
 StreetDesc=Montreal St, Chc/ Insurance claim preparation, insurance claim review
 Phone=+6421937529
 Data0=(-43.53424,172.63059)
+[END]
+
+;1192831
+[POI]
+Type=0x2f
+Label=ADDRIVER MEDIA LTD.
+StreetDesc=82a Maidstone Rd, Ilam, Chc/ Ads on Cars, AdDriver, Outdoor Advertising, Transit
+Phone=+6421102538
+Data0=(-43.51635,172.57055)
+[END]
+
+;1192832
+[POI]
+Type=0x2f
+Label=WILDERNESS GUIDES PICTON
+StreetDesc=3 Akl St, picton/ Guides to the Queen Charlotte Track, Independent Walks, Kayaki
+Phone=+6435735432
+zip=8am-6pm
+Data0=(-41.28854,174.00408)
+[END]
+
+;1192833
+[POI]
+Type=0x2f
+Label=PEGASUS RENTAL CARS CHRISTCHURCH AIRPORT
+StreetDesc=578 Wairakei Rd, Harewood, Chc/ The team at Pegasus Rental Cars in Christchurch 
+Phone=+6433585890
+Data0=(-43.48803,172.56166)
+[END]
+
+;1192834
+[POI]
+Type=0x2f
+Label=INTUNE MASSAGE & FELDENKRAIS®
+StreetDesc=205 Musselburgh Rise, Andersons Bay, Dud 9013/ Sports Massage, Deep Tissue Massa
+Phone=+6437421232
+zip=by appointment Mo - Fr 9am-8pm, Sat 10am
+Data0=(-45.89540,170.52488)
 [END]
 

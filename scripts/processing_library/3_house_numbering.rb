@@ -421,7 +421,7 @@ end
 
 def nearest_address_sql_fullside(rna_id,point1x,point1y,point2x,point2y,side1x,side1y,side2x,side2y,originalside)
   sql_query = <<-EOS
-SELECT range_low, rna_id, distance(SetSRID(MakePoint(#{point1x},#{point1y}), #{WORKING_SRID}),#{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance FROM #{STREET_ADDRESS_TABLE} WHERE
+SELECT range_low, rna_id, distance(ST_SetSRID(MakePoint(#{point1x},#{point1y}), #{WORKING_SRID}),#{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance FROM #{STREET_ADDRESS_TABLE} WHERE
 #{STREET_ADDRESS_TABLE_INDEX_NAME} @ GeomFromText( 'POLYGON((#{originalside},#{point2x} #{point2y},#{side2x} #{side2y},#{side1x} #{side1y},#{point1x} #{point1y}))', #{WORKING_SRID} )
 AND rna_id = #{rna_id}
 ORDER BY distance
@@ -451,7 +451,7 @@ end
 #############
 def geomAsText(text,srid=WORKING_SRID)
 #I'm having trouble passing the geoms around so using txt as intermediate. nasty but works.
-	return "SetSRID(ST_GeomFromText('#{text}'),#{srid})"
+	return "ST_SetSRID(ST_GeomFromText('#{text}'),#{srid})"
 end
 #############
 
@@ -521,7 +521,7 @@ first_point_astext_point = first_point_astext.slice(6,first_point_astext.length-
 #exit
 
 #polygon = "GeomFromText( 'POLYGON((#{line_astext_points}, #{translated_line_astext_points}, #{first_point_astext_point}))', #{WORKING_SRID} )"
-#sql_query = "INSERT INTO testshapes (\"shape\") VALUES (SetSRID(#{polygon}, 2193));"
+#sql_query = "INSERT INTO testshapes (\"shape\") VALUES (ST_SetSRID(#{polygon}, 2193));"
 #get_first_result(sql_query)
 
 polygon = "'POLYGON((#{line_astext_points}, #{translated_line_astext_points}, #{first_point_astext_point}))'"
@@ -595,16 +595,16 @@ end
 ###
 def get_low_high_odds_evens_plus_distance_on_street(rna_id,first_point)
   
-sql_query = "SELECT range_low, distance(SetSRID(#{first_point}, #{WORKING_SRID}),#{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance FROM #{STREET_ADDRESS_TABLE} WHERE rna_id = #{rna_id} AND is_odd = TRUE ORDER BY range_low ASC LIMIT 1;"
+sql_query = "SELECT range_low, distance(ST_SetSRID(#{first_point}, #{WORKING_SRID}),#{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance FROM #{STREET_ADDRESS_TABLE} WHERE rna_id = #{rna_id} AND is_odd = TRUE ORDER BY range_low ASC LIMIT 1;"
 min_odd, min_odd_distance = get_number_and_distance(sql_query)
 
-sql_query = "SELECT range_low, distance(SetSRID(#{first_point}, #{WORKING_SRID}),#{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance FROM #{STREET_ADDRESS_TABLE} WHERE rna_id = #{rna_id} AND is_odd = FALSE ORDER BY range_low ASC LIMIT 1;"
+sql_query = "SELECT range_low, distance(ST_SetSRID(#{first_point}, #{WORKING_SRID}),#{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance FROM #{STREET_ADDRESS_TABLE} WHERE rna_id = #{rna_id} AND is_odd = FALSE ORDER BY range_low ASC LIMIT 1;"
 min_even, min_even_distance = get_number_and_distance(sql_query)
 
-sql_query = "SELECT range_low, distance(SetSRID(#{first_point}, #{WORKING_SRID}),#{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance FROM #{STREET_ADDRESS_TABLE} WHERE rna_id = #{rna_id} AND is_odd = TRUE ORDER BY range_low DESC LIMIT 1;"
+sql_query = "SELECT range_low, distance(ST_SetSRID(#{first_point}, #{WORKING_SRID}),#{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance FROM #{STREET_ADDRESS_TABLE} WHERE rna_id = #{rna_id} AND is_odd = TRUE ORDER BY range_low DESC LIMIT 1;"
 max_odd, max_odd_distance = get_number_and_distance(sql_query)
 
-sql_query = "SELECT range_low, distance(SetSRID(#{first_point}, #{WORKING_SRID}),#{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance FROM #{STREET_ADDRESS_TABLE} WHERE rna_id = #{rna_id} AND is_odd = FALSE ORDER BY range_low DESC LIMIT 1;"
+sql_query = "SELECT range_low, distance(ST_SetSRID(#{first_point}, #{WORKING_SRID}),#{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance FROM #{STREET_ADDRESS_TABLE} WHERE rna_id = #{rna_id} AND is_odd = FALSE ORDER BY range_low DESC LIMIT 1;"
 max_even, max_even_distance = get_number_and_distance(sql_query)
 
 
@@ -819,7 +819,7 @@ end
 def get_nearest_address_inside_buffer(rna_id,polygon_geom,first_point)
 
   sql_query = <<-EOS
-SELECT range_low, distance(SetSRID(#{first_point}, #{WORKING_SRID}),#{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance 
+SELECT range_low, distance(ST_SetSRID(#{first_point}, #{WORKING_SRID}),#{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance 
 FROM #{STREET_ADDRESS_TABLE} WHERE
 ST_Intersects(ST_Buffer(#{STREET_ADDRESS_TABLE_INDEX_NAME},100),#{polygon_geom})
 AND rna_id = #{rna_id}
@@ -854,7 +854,7 @@ def check_parity_of_neighbours(rna_id,first_point)
 
 # find the nearest address, doesn't really matter which
   sql_query = <<-EOS
-SELECT range_low, is_odd, longitude, latitude, distance(SetSRID(#{first_point}, #{WORKING_SRID}),#{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance 
+SELECT range_low, is_odd, longitude, latitude, distance(ST_SetSRID(#{first_point}, #{WORKING_SRID}),#{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance 
 FROM #{STREET_ADDRESS_TABLE} WHERE
 rna_id = #{rna_id}
 ORDER BY distance
@@ -874,7 +874,7 @@ end
 
 # now check if its nearest neighbour is of the same parity
   sql_query = <<-EOS
-SELECT range_low, is_odd, distance(Transform(SetSRID(MakePoint(#{longitude_a},#{latitude_a}), #{WORKING_SRID}),#{WORKING_SRID}),#{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance 
+SELECT range_low, is_odd, distance(Transform(ST_SetSRID(MakePoint(#{longitude_a},#{latitude_a}), #{WORKING_SRID}),#{WORKING_SRID}),#{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance 
 FROM #{STREET_ADDRESS_TABLE} WHERE
 rna_id = #{rna_id} and
 range_low != #{range_low_a}

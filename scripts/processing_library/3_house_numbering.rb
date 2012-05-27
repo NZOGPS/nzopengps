@@ -155,7 +155,8 @@ def pre_processing()
       exit
     end
   end
-  
+  check_postgresql_version
+  check_postgis_version
 end
 
 #################
@@ -362,8 +363,9 @@ def extract_xy_from_point_geometry(point)
 			return [x,y]
 		end
 	
-	rescue
-		print "extract_xy_from_point_geometry error sql_query = \"#{sql_query}\"\n###################\n"
+	rescue Exception => e
+    print "extract_xy_from_point_geometry error sql_query = \"#{sql_query}\"\n###################\n"
+    print "#{e.message}\n"
 		#print "res.entries[0]['st_x'] = #{res.entries[0]['st_x']}\n"
 		#exit
 		return nil
@@ -928,4 +930,30 @@ end
 
 print "###################\n"
 	
+end
+#########################
+def check_postgis_version
+  begin
+    sql_query = "SELECT PostGIS_full_version();"
+    res  = @conn.exec(sql_query)
+    print res.entries[0].to_s
+  
+  rescue Exception => e
+    print "#{e.message}\n"
+    print "Postgis not installed\n"
+    exit
+  end
+end
+#########################
+def check_postgresql_version
+  begin
+    sql_query = "SELECT version();"
+    res  = @conn.exec(sql_query)
+    print res.entries[0].to_s
+  
+  rescue Exception => e
+    print "#{e.message}\n"
+    print "Postgresql not installed\n"
+    exit
+  end
 end

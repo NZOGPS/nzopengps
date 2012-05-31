@@ -10177,10 +10177,10 @@ Data0=(-43.53279,172.67137)
 [POI]
 Type=0x2f01
 Label=Z MOSGIEL 24HR
-StreetDesc=Cnr Gladstone Rd And Quarry Rd, Mosgiel/ Z petrol station
+StreetDesc=Cnr Gladstone Rd And Quarry Rd, Mosgiel/ Z petrol station, Forecourt Concierge, 
 Phone=+6434890390
 zip=24hrs
-Data0=(-45.88666,170.35379)
+Data0=(-45.88617,170.35399)
 [END]
 
 ;1035231
@@ -10197,7 +10197,7 @@ Data0=(-43.50634,172.72787)
 [POI]
 Type=0x2f01
 Label=Z PICTON 24HR
-StreetDesc=101 High St, Picton/ Z petrol station
+StreetDesc=101 High St, Picton/ Z petrol station, Forecourt Concierge, Cupcakes, Z pies, Es
 Phone=+6435737949
 zip=24hrs
 Data0=(-41.29209,174.00648)
@@ -10207,10 +10207,10 @@ Data0=(-41.29209,174.00648)
 [POI]
 Type=0x2f01
 Label=Z QUEENSTOWN 24HR
-StreetDesc=846 Frankton Rd, Queenstown/ Z petrol station
+StreetDesc=846 Frankton Rd, Queenstown/ Z petrol station, Forecourt Concierge, Cupcakes, Z 
 Phone=+6434423500
 zip=24hrs
-Data0=(-45.01707,168.71659)
+Data0=(-45.01737,168.71614)
 [END]
 
 ;1035413
@@ -10237,7 +10237,7 @@ Data0=(-43.52915,172.60905)
 [POI]
 Type=0x2f01
 Label=Z RICHMOND 24HR
-StreetDesc=8 Gladstone Rd, Richmond/ Z petrol station
+StreetDesc=8 Gladstone Rd, Richmond/ Z petrol station, Forecourt Concierge, Toilets, LPG Sw
 Phone=+6433415471
 zip=24hrs
 Data0=(-41.33743,173.18016)
@@ -10247,17 +10247,17 @@ Data0=(-41.33743,173.18016)
 [POI]
 Type=0x2f01
 Label=Z RUTHERFORD 24HR
-StreetDesc=106 Rutherford St, Nelson/ Z petrol station
+StreetDesc=106 Rutherford St, Nelson/ Z petrol station, Forecourt Concierge, Toilets, LPG S
 Phone=+6435466626
 zip=24hrs
-Data0=(-41.27454,173.28059)
+Data0=(-41.27471,173.28067)
 [END]
 
 ;1035518
 [POI]
 Type=0x2f01
 Label=Z OAMARU 24HR
-StreetDesc=22 Severn St, Oamaru/ Z petrol station
+StreetDesc=22 Severn St, Oamaru/ Z petrol station, Forecourt Concierge, Toilets, Car wash, 
 Phone=+6434331441
 zip=24hrs
 Data0=(-45.09831,170.96805)
@@ -10267,7 +10267,7 @@ Data0=(-45.09831,170.96805)
 [POI]
 Type=0x2f01
 Label=Z SHIRLEY 24HR
-StreetDesc=7 Marshland Rd, Shirley/ Z petrol station
+StreetDesc=7 Marshland Rd, Shirley/ Z petrol station, Forecourt Concierge, Cupcakes, Z pies
 Phone=+6433852706
 zip=24hrs
 Data0=(-43.50750,172.66260)
@@ -14276,7 +14276,7 @@ Type=0x2e08
 Label=PLACEMAKERS QUEENSTOWN
 StreetDesc=1 Glenda Dr, Frankton Industrial, Queenstown/ Building supplies, Timber, Power T
 Phone=+6434509000
-zip=Mon-Fri 7am-5.30pm, Sat 8am-3pm, Sun 9:3
+zip=Mon-Fri 7am-5.30pm, Sat 10am-2pm
 Data0=(-45.00726,168.74827)
 [END]
 
@@ -120478,14 +120478,6 @@ StreetDesc=47 Carters Rd, Amberley/
 Data0=(-43.15073,172.73004)
 [END]
 
-;1141128
-[POI]
-Type=0x2f
-Label=AMBERELY HAIRWORX
-StreetDesc=115 Carters Rd, Amberley/ Hairdressers
-Data0=(-43.15567,172.73033)
-[END]
-
 ;1141129
 [POI]
 Type=0x2b03
@@ -149354,9 +149346,9 @@ Data0=(-42.41087,173.68722)
 [POI]
 Type=0x2a
 Label=ADELPHI BAR & BISTRO
-StreetDesc=West End, Kaikoura/ Restaurant, bar
+StreetDesc=26 West End, Kaikoura/ Restaurant, bar
 Phone=+6433196555
-Data0=(-42.40044,173.68091)
+Data0=(-42.40034,173.68093)
 [END]
 
 ;1157705
@@ -182785,7 +182777,7 @@ Data0=(-43.54273,172.63110)
 [POI]
 Type=0x2e08
 Label=TILE WAREHOUSE ASHBURTON
-StreetDesc=The Arcade, 174 Burnett St, Ashburton/ Surface specialists. Floor & Wall Tiles
+StreetDesc=Redmonds, The Arcade, 174 Burnett St, Ashburton/ Surface specialists. Floor & Wa
 Phone=+6433088347
 Data0=(-43.90497,171.74809)
 [END]
@@ -182793,8 +182785,8 @@ Data0=(-43.90497,171.74809)
 ;1173849
 [POI]
 Type=0x2e08
-Label=TILE WAREHOUSE TIMARU
-StreetDesc=41 Bank St, Timaru/ Surface specialists. Floor & Wall Tiles
+Label=DORE'S FOR FLOORS
+StreetDesc=41 Bank St, Timaru/ Tile Warehouse. Surface specialists. Floor & Wall Tiles
 Phone=+6436844049
 Data0=(-44.39720,171.25029)
 [END]
@@ -204752,5 +204744,71 @@ StreetDesc=205 Musselburgh Rise, Andersons Bay, Dud 9013/ Sports Massage, Deep T
 Phone=+6437421232
 zip=by appointment Mo - Fr 9am-8pm, Sat 10am
 Data0=(-45.89540,170.52488)
+[END]
+
+;1192842
+[POI]
+Type=0x2f
+Label=LIMELIGHT ONLINE
+StreetDesc=116 Buchan St, Sydenham, Chc/ From website design & development and Content Mana
+Phone=+6433746518
+Data0=(-43.54180,172.63830)
+[END]
+
+;1192843
+[POI]
+Type=0x2f
+Label=LATIN LINK
+StreetDesc=Wanaka/ Latin Link Adventure are small group escorted tour specialists to South 
+Phone=+6434435036
+Data0=(-44.69689,169.13143)
+[END]
+
+;1192847
+[POI]
+Type=0x2f
+Label=DESIGN SYSTEMS
+StreetDesc=21 grosvenor St Dud/ aluminium joinery flyscreens balustrade security doors ward
+Phone=+6434563938
+zip=8.00am - 4.30pm
+Data0=(-45.88977,170.49906)
+[END]
+
+;1192851
+[POI]
+Type=0x2f
+Label=JOHN GIBSON CHIROPRACTIC
+StreetDesc=upstairs, 9 Isle St, Central Queenstown/ Muscle and Joint Care
+Phone=0800111421
+Data0=(-45.03001,168.65850)
+[END]
+
+;1192852
+[POI]
+Type=0x2f
+Label=JOHN GIBSON CHIROPRACTIC
+StreetDesc=Unit 21H, Gordon Rd. Wanaka/ Muscle and Joint Care
+Phone=0800111421
+Data0=(-44.70441,169.14619)
+[END]
+
+;1192854
+[POI]
+Type=0x2f
+Label=HRV OTAGO SOUTHLAND
+StreetDesc=252 Cumberland St, Dud/ HRV, ventilation, condensation, health, heat, dry, warm,
+Phone=+6434790855
+zip=8:30am to 7:30pm
+Data0=(-45.87542,170.50632)
+[END]
+
+;1192868
+[POI]
+Type=0x2f
+Label=HAIR WE GO HAIRDRESSING
+StreetDesc=101 Carters Rd, Amberley/ Hairdresser
+Phone=+6433149443
+zip=Tue-Sat
+Data0=(-43.15422,172.73020)
 [END]
 

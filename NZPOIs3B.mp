@@ -10314,9 +10314,10 @@ Data0=(-44.40071,171.25624)
 [POI]
 Type=0x2f01
 Label=Z STOKE
-StreetDesc=666-668 Main Rd, Stoke/ Z petrol station
+StreetDesc=666-668 Main Rd, Stoke/ Z petrol station, Forecourt Concierge, Toilets, LPG Swap
 Phone=+6435479098
-Data0=(-41.31903,173.22514)
+zip=7 days : 6am – 10pm
+Data0=(-41.31915,173.22520)
 [END]
 
 ;1035700
@@ -10333,7 +10334,7 @@ Data0=(-43.54949,172.48814)
 [POI]
 Type=0x2f01
 Label=Z TEMUKA
-StreetDesc=46 King St, Temuka/ Z petrol station
+StreetDesc=46 King St, Temuka/ Z petrol station, Forecourt Concierge, Toilets, LPG Swap n G
 Phone=+6436159314
 zip=5:00-22:00 7 days
 Data0=(-44.24690,171.27845)
@@ -10343,9 +10344,10 @@ Data0=(-44.24690,171.27845)
 [POI]
 Type=0x2f01
 Label=Z TINWALD
-StreetDesc=Main South Rd, State Highway 1, Tinwald/ Z petrol station
+StreetDesc=Main South Rd, State Highway 1, Tinwald/ Z petrol station, Forecourt Concierge, 
 Phone=+6433087471
-Data0=(-43.92002,171.72071)
+zip=7 days : 6am – 10pm
+Data0=(-43.91995,171.72070)
 [END]
 
 ;1035777
@@ -30005,7 +30007,7 @@ Type=0x2d
 Label=BLOCKBUSTER HORNBY
 StreetDesc=53 Chalmers St, Hornby, Chc/ video, dvd & game rental
 Phone=+6433492250
-Data0=(-43.54233,172.52530)
+Data0=(-43.54258,172.52517)
 [END]
 
 ;1093751
@@ -56684,15 +56686,6 @@ Phone=+6433790890
 Data0=(-43.54232,172.55589)
 [END]
 
-;1111453
-[POI]
-Type=0x2f
-Label=PEST MANAGEMENT SERVICES LTD
-StreetDesc=Unit 3, 4-6 O'Briens Rd, Chc/ 
-Phone=+6433489293
-Data0=(-43.53641,172.54880)
-[END]
-
 ;1111454
 [POI]
 Type=0x2f
@@ -66889,9 +66882,9 @@ Data0=(-45.34678,168.43540)
 ;1116764
 [POI]
 Type=0x6402
-Label=?BEGLEY HUT
+Label=BEGLEY HUT
 StreetDesc=Rainbow Conservation Area - South Island > Nelson/Tasman > Nelson Lakes/ DOC Bac
-Data0=(-42.03402,172.79955)
+Data0=(-42.03406,172.79906)
 [END]
 
 ;1116765
@@ -92489,15 +92482,6 @@ Phone=+6433252268
 Data0=(-43.64050,172.48380)
 [END]
 
-;1130450
-[POI]
-Type=0x2d
-Label=VIDEO VAULT
-StreetDesc=14 Gerald St Lincoln/ Video Hire
-Phone=+6433252187
-Data0=(-43.64022,172.48321)
-[END]
-
 ;1130454
 [POI]
 Type=0x2e0b
@@ -102120,9 +102104,11 @@ Data0=(-43.49218,172.56522)
 
 ;1132045
 [POI]
-Type=0x2f
-Label=THAI KITCHEN
-StreetDesc=239D Colombo St, Chc/ 
+Type=0x2a02
+Label=THE THAI KITCHEN
+StreetDesc=239A Colombo St, Chc/ Thai restaurant
+Phone=+6433328280
+zip=5pm-9pm
 Data0=(-43.55252,172.63666)
 [END]
 
@@ -145264,7 +145250,7 @@ Data0=(-43.55089,172.59912)
 [POI]
 Type=0x2F07
 Label=JEFF GRAY BMW CHRISTCHURCH
-StreetDesc=30 Manchester St, Chc/ Car dealer, BMW, Mini
+StreetDesc=30 Manchester St, Chc/ Car dealer, BMW, Mini, Motorrad
 Phone=+6433637240
 Data0=(-43.53847,172.63983)
 [END]
@@ -145902,7 +145888,7 @@ Data0=(-45.01604,168.72995)
 [POI]
 Type=0x6404
 Label=MASJID AL HUDA / DUNEDIN ISLAMIC CENTRE
-StreetDesc=21 Clyde St, Dud/ Mosque
+StreetDesc=21 Clyde St, Dud/ Mosque, Masjid, Islamic Centre, Library
 Phone=+6434771838
 Data0=(-45.86903,170.51483)
 [END]
@@ -155793,14 +155779,6 @@ Label=ABC DEVELOPMENTAL CENTRES BLENHEIM CENTRAL
 StreetDesc=1 B Richmond St, Blenheim/ 
 Phone=+6435784211
 Data0=(-41.51214,173.95135)
-[END]
-
-;1160449
-[POI]
-Type=0x2f
-Label=ABC DEVELOPMENTAL CENTRES BLENHEIM CENTRAL
-StreetDesc=129 High St, Blenheim/ 
-Data0=(-41.51193,173.95182)
 [END]
 
 ;1160450
@@ -168108,7 +168086,9 @@ Data0=(-43.51706,172.63936)
 [POI]
 Type=0x2f
 Label=KNOX DENTAL CENTRE
-StreetDesc=483 George St, Dud/ Dentist
+StreetDesc=483 George St, Dud,9016/ Dentist toothache wisdom teeth hygienist
+Phone=+6434771179
+zip=8am to 5pm Mon to Fri
 Data0=(-45.86639,170.50773)
 [END]
 
@@ -189286,7 +189266,7 @@ Data0=(-46.09925,168.94584)
 ;1177689
 [POI]
 Type=0x2f
-Label=STONEWOOD HOMES QUEENSTOWN
+Label=QUEENSTOWN BUILDERS, STONEWOOD HOMES QUEENSTOWN
 StreetDesc=Cnr Glenda Dr and Margaret Place Queenstown/ Queenstown Builders, New Home Build
 Phone=+6434090924
 Data0=(-45.00677,168.75193)
@@ -190647,7 +190627,7 @@ Type=0x2f06
 Label=BNZ ROLLESTON (B&A)
 StreetDesc=Shop 1, Rolleston Sq, 70 Rolleston Dr, Rolleston/ Bank branch, ATM
 Phone=+6439244530
-zip=Mon, Tue, Wed, Fri 9am-4.30pm, Thu 9am-7
+zip=Mon, Tue, Wed, Fri 9am-4.30pm, Thu 9am-6
 Data0=(-43.59571,172.38529)
 [END]
 
@@ -195809,10 +195789,10 @@ Data0=(-41.51187,173.95079)
 ;1181248
 [POI]
 Type=0x2a07
-Label=CODFATHERS TAKEAWAY
-StreetDesc=149 High St, Blenheim/ Takeaways, Fish & Chips, Hamburgers
+Label=CODFATHERS TAKEAWAYS
+StreetDesc=151 High St, Blenheim/ Takeaways, Fish & Chips, Hamburgers
 Phone=+6435777797
-Data0=(-41.51186,173.95075)
+Data0=(-41.51191,173.95076)
 [END]
 
 ;1181249
@@ -198203,15 +198183,6 @@ Phone=+6435793283
 Data0=(-41.51098,173.95816)
 [END]
 
-;1188815
-[POI]
-Type=0x2a07
-Label=HIGH ST TAKEAWAYS
-StreetDesc=151 High St Blenheim Marlborough/ Takeaways
-Phone=+6435791393
-Data0=(-41.51186,173.95075)
-[END]
-
 ;1188821
 [POI]
 Type=0x2f11
@@ -199338,9 +199309,9 @@ Data0=(-43.75423,171.16372)
 
 ;1189459
 [POI]
-Type=0x2f
+Type=0x2f03
 Label=MCR MOTORCYCLE REPLACEMENTS LTD
-StreetDesc=79 Crawford St, Dud, NZ/ Motorbike parts, service, Yamaha, BMW, Moto Guzzi, Apri
+StreetDesc=79 Crawford St, Dud, NZ/ Motorrad, Motorbike parts, service, Yamaha, BMW, Moto G
 Phone=+6434770366
 Data0=(-45.88043,170.50211)
 [END]
@@ -200079,9 +200050,9 @@ Data0=(-43.55577,172.51471)
 [POI]
 Type=0x2f
 Label=CONTEXT ARCHITECTS CHRISTCHURCH
-StreetDesc=1/235 Lincoln Rd, Addington, Chc, 8024/ Architects, Architecture, Interior Desig
+StreetDesc=75 Perry St, Papanui/ Architects, Architecture, Interior Design, Commercial Desi
 Phone=+6435501550
-Data0=(-43.54537,172.60795)
+Data0=(-43.49936,172.61619)
 [END]
 
 ;1189924
@@ -204810,5 +204781,62 @@ StreetDesc=101 Carters Rd, Amberley/ Hairdresser
 Phone=+6433149443
 zip=Tue-Sat
 Data0=(-43.15422,172.73020)
+[END]
+
+;1192870
+[POI]
+Type=0x2e0b
+Label=MUSSELBURGH COMPUTER REPAIRS
+StreetDesc=2 Gresham St, Tainui, Dud 9013/ A computer repair business for Dunedin residents
+Phone=+6434545597
+zip=8:30 to 5pm Mon to Fri
+Data0=(-45.90103,170.52862)
+[END]
+
+;1192874
+[POI]
+Type=0x2b00
+Label=ALUMNI HOUSE
+StreetDesc=51A Middelton Rd Riccarton Chc/ Boutique Bed and Breakfast
+Phone=+6439809000
+Data0=(-43.53521,172.58147)
+[END]
+
+;1192875
+[POI]
+Type=0x2f
+Label=MURRAYS VETINARY CLINIC
+StreetDesc=10 Dukes Rd South Mosgiel Dud 9092 New Zealand/ Visit our friendly vet clinic fo
+Phone=+6434895540
+zip=Monday - Friday 9.00am- 5.00pm Evening C
+Data0=(-45.86232,170.33895)
+[END]
+
+;1192891
+[POI]
+Type=0x2f
+Label=MORAY GALLERY
+StreetDesc=55 Princes St Dud 9016 New Zealand/ Boutique art gallery in Dunedin supporting N
+Phone=+6434778060
+zip=Mon- Fri 10am - 5pm, Sat 11am - 3pm
+Data0=(-45.87523,170.50331)
+[END]
+
+;1192893
+[POI]
+Type=0x2f
+Label=HEADSPACE SALON
+StreetDesc=Unit 7 / 245 St Asaph St, Chc/ For excellence in hairdressing, make an appointme
+Phone=+6433661896
+Data0=(-43.53617,172.64043)
+[END]
+
+;1192900
+[POI]
+Type=0x2f
+Label=LOAF SALON
+StreetDesc=71 Rutland St, St Albans, Chc/ At Loaf Salon in St Albans, Christchurch you will
+Phone=+6433558560
+Data0=(-43.50643,172.62856)
 [END]
 

@@ -35887,10 +35887,11 @@ Data0=(-43.55617,172.69747)
 ;1098645
 [POI]
 Type=0x2f
-Label=GARDENS VETERINARY CLINIC
-StreetDesc=30 Bank St, Dud/ Vet
+Label=GARDENS VET & PET PLANET
+StreetDesc=14 Bank St, Dud/ Vet, Pet supplies, Pet Grooming, Pets
 Phone=+6434730387
-Data0=(-45.85453,170.51739)
+zip=Mon - Fri 8am to 6pm, Sat - Sun 10am to 
+Data0=(-45.85470,170.51829)
 [END]
 
 ;1098647
@@ -57222,9 +57223,9 @@ Data0=(-43.54152,172.61456)
 [POI]
 Type=0x2f
 Label=POTATOPAK NZ LTD
-StreetDesc=34 Inkerman St, Renwick, Blenheim/ 
-Phone=+6435728977
-Data0=(-41.50811,173.82428)
+StreetDesc=Cloudy Bay Business Park, L 1, 4 Seafair Close, Blenheim/ 
+Phone=+6435791705
+Data0=(-41.54229,174.02233)
 [END]
 
 ;1111761
@@ -60161,6 +60162,7 @@ Type=0x2f
 Label=SONNTAG FOX ELECTRIC
 StreetDesc=381 Princes St, Dud, 9016/ Washing machines, dishwashers, ovens, dryers, fridges
 Phone=+6434778845
+zip=Monday - Friday 8am - 5.00pm
 Data0=(-45.88002,170.50063)
 [END]
 
@@ -73427,10 +73429,10 @@ Data0=(-41.27887,173.76829)
 
 ;1118438
 [POI]
-Type=0x2b00
+Type=0x2c06
 Label=HOKITIKA HOLIDAY PARK
-StreetDesc=242 Stafford St, Hokitika/ Accommodation: self contained units, cabins, tent sit
-Phone=+6437500703
+StreetDesc=242 Stafford St, Hokitika/ Hokitika Holiday Park is a great west coast accommoda
+Phone=+6437558172
 Data0=(-42.72326,170.97828)
 [END]
 
@@ -93295,7 +93297,8 @@ Data0=(-43.53326,172.53722)
 [POI]
 Type=0x2f
 Label=ADDINGTON EVENTS CENTRE
-StreetDesc=75 Jack Hinton Dr, Chc/ 
+StreetDesc=75 Jack Hinton Dr, Addington, Chc/ New Zealand Trotting Cup Day is one of the tr
+Phone=+6433382572
 Data0=(-43.54445,172.60110)
 [END]
 
@@ -96298,10 +96301,10 @@ Data0=(-43.51878,172.55271)
 ;1131261
 [POI]
 Type=0x2a0e
-Label=FUZE CAFE NEW BRIGHTON
+Label=CREMA SANDWICH AND COFFEE BAR
 StreetDesc=Shop 8, Brighton Mall, New Brighton, Chc/ cafe, restaurant
-Phone=+6433888116
-zip=Tue-Sat 8am-4pm, Sun 9am-4pm
+Phone=+6433822120
+zip=8am-4pm, 7 days
 Data0=(-43.50695,172.73027)
 [END]
 
@@ -146235,8 +146238,9 @@ Data0=(-41.26934,173.28976)
 ;1155365
 [POI]
 Type=0x2f
-Label=HALFWAY BUSH COMMUNITY HALL
-StreetDesc=54 Ashmore St, Halfway Bush/ 
+Label=HALFWAY BUSH HALL
+StreetDesc=54 Ashmore St, Halfway Bush/ The school hall is available to the community for $
+Phone=+6434763207
 Data0=(-45.85700,170.46566)
 [END]
 
@@ -192935,9 +192939,9 @@ Data0=(-44.71532,169.13871)
 
 ;1179622
 [POI]
-Type=0x2f
+Type=0x2c0a
 Label=MAVEN WINES
-StreetDesc=Cravens Rd Marlborough, New Zealand/ Pinot Noir, Pinot Gris, Chardonnay, Sauvign
+StreetDesc=Cravens Rd Marlborough, New Zealand/ Winery
 Phone=+6495263600
 Data0=(-41.45048,173.93881)
 [END]
@@ -202657,7 +202661,7 @@ Label=BRANCOTT ESTATE HERITAGE CENTRE
 StreetDesc=180 Brancott Rd, Blenheim/ Winery, cellar door, Restaurant
 Phone=+35206975
 zip=10 am to 4.30 pm, 7 days
-Data0=(-41.54406,173.85112)
+Data0=(-41.53818,173.85310)
 [END]
 
 ;1191505
@@ -204838,5 +204842,71 @@ Label=LOAF SALON
 StreetDesc=71 Rutland St, St Albans, Chc/ At Loaf Salon in St Albans, Christchurch you will
 Phone=+6433558560
 Data0=(-43.50643,172.62856)
+[END]
+
+;1192919
+[POI]
+Type=0x2b01
+Label=THE MASONIC HOTEL
+StreetDesc=42 Waimate Highway/ Keep entertained at the Masonic with Rooms, Restaurant, Bar,
+Phone=+6436126740
+Data0=(-44.52992,171.19055)
+[END]
+
+;1192922
+[POI]
+Type=0x2a
+Label=THE MARLBOROUGH WINE & FOOD FESTIVAL
+StreetDesc=Brancott Rd Blenheim/ Wine, Food - 2nd Saturday in February
+Phone=+6435779299
+zip=10:30am – 6pm (wine sales will cease at 
+Data0=(-41.54421,173.85088)
+[END]
+
+;1192923
+[POI]
+Type=0x2e
+Label=CYCLE WORLD
+StreetDesc=67 Stuart St, Dud/ Cycling, Biking, Outdoors, Bicycle Hire, Bicycle Repairs, Bic
+Phone=+6434777473
+zip=Mon-Fri 8.30am till 6pm, Sat 9.30am till
+Data0=(-45.87499,170.50627)
+[END]
+
+;1192924
+[POI]
+Type=0x2f
+Label=PANDECT MOBILITY SOLUTIONS
+StreetDesc=Unit 1, 17 Wise St, Addington, Chc/ Pandect Mobility Solutions specialises in th
+Phone=+6433385188
+Data0=(-43.54289,172.61048)
+[END]
+
+;1192930
+[POI]
+Type=0x2c0a
+Label=?TWO DEGREES WINE
+StreetDesc=Gladsmuir Rd, SH6, Cromwell, Otago/ 2 degrees, two, degrees, wine, vineyard, ota
+Data0=(-45.03451,169.20169)
+[END]
+
+;1192935
+[POI]
+Type=0x2a0e
+Label=TIFFANYS CAFE
+StreetDesc=135 Great King St, Dud, NZ/ cafe, restaurant, bakery, fresh food, sandwiches
+Phone=+6434772857
+zip=Mon - Fri 7am to 4pm, Sat 8am to 3pm, Su
+Data0=(-45.87109,170.50701)
+[END]
+
+;1192937
+[POI]
+Type=0x2e02
+Label=ILAM NEW WORLD SUPERMARKET
+StreetDesc=47C - 57C Peer St, Upper Riccarton/ Supermarket
+Phone=+6433435646
+zip=Mon - Sun7.30am - 9.00pm
+Data0=(-43.52551,172.57109)
 [END]
 

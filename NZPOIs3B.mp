@@ -9910,9 +9910,10 @@ Data0=(-43.24850,172.66830)
 [POI]
 Type=0x2f01
 Label=Z ALEXANDRA
-StreetDesc=105 Tarbert St, Alexandra/ Z petrol station; LPG Bottleswap; Trailers
+StreetDesc=105 Tarbert St, Alexandra/ Z petrol station; LPG Bottleswap; Trailer hire, Toile
 Phone=+6434485265
-Data0=(-45.25216,169.39524)
+zip=7 days : 6am – 9pm
+Data0=(-45.25212,169.39548)
 [END]
 
 ;1034398
@@ -9987,8 +9988,8 @@ Data0=(-43.48989,172.59312)
 ;1034510
 [POI]
 Type=0x2f01
-Label=SHELL BROUGHAM STREET 24HR
-StreetDesc=495 Brougham St, Chc/ Shell petrol station, LPG Swap n Go, Trailer hire, LPG Fue
+Label=Z BROUGHAM STREET 24HR
+StreetDesc=495 Brougham St, Chc/ Z petrol station, LPG Swap n Go, Trailer hire, LPG Fuel
 Phone=+6433796421
 zip=24hrs
 Data0=(-43.54838,172.65670)
@@ -10354,16 +10355,17 @@ Data0=(-43.91995,171.72070)
 [POI]
 Type=0x2f01
 Label=Z TWIZEL
-StreetDesc=50 Mackenzie Dr, Twizel/ Z petrol station
+StreetDesc=50 Mackenzie Dr, Twizel/ Z petrol station, Forecourt Concierge, Toilets, LPG Swa
 Phone=+6434350844
-Data0=(-44.25798,170.10002)
+zip=7 days : 6am – 10pm
+Data0=(-44.25787,170.10009)
 [END]
 
 ;1035791
 [POI]
 Type=0x2f01
 Label=Z VALLEY 24HR
-StreetDesc=248 Kaikorai Valley Rd, Kaikorai/ Z petrol station
+StreetDesc=248 Kaikorai Valley Rd, Kaikorai/ Z petrol station, Forecourt Concierge, Toilets
 Phone=+6434536728
 zip=24hrs
 Data0=(-45.87248,170.47232)
@@ -10427,8 +10429,9 @@ Data0=(-44.00454,170.47714)
 [POI]
 Type=0x2f01
 Label=Z PALMERSTON
-StreetDesc=112 Ronaldsay St, Palmerston/ Z petrol station
+StreetDesc=112 Ronaldsay St, Palmerston/ Z petrol station, Forecourt Concierge, Toilets, LP
 Phone=+6434651115
+zip=7 days : 6am – 10pm
 Data0=(-45.48543,170.71459)
 [END]
 
@@ -29544,7 +29547,7 @@ Data0=(-45.87527,170.34809)
 Type=0x2e01
 Label=POSTIE+ NELSON
 StreetDesc=237 Trafalgar St, Nelson/ mens, womens, childrens clothing & accessories
-Phone=+6435467761
+Phone=+6435390108
 Data0=(-41.27381,173.28420)
 [END]
 
@@ -29636,7 +29639,7 @@ Type=0x2e
 Label=BABY CITY ADDINGTON
 StreetDesc=Station Blg, Tower Junction, Clarence St, Addington, Chc/ baby and mother care p
 Phone=+6433485940
-Data0=(-43.54271,172.60923)
+Data0=(-43.53953,172.60620)
 [END]
 
 ;1093394
@@ -30121,8 +30124,9 @@ Data0=(-43.49089,172.58664)
 [POI]
 Type=0x2f
 Label=HARCOURTS BECKENHAM
-StreetDesc=126-130 Colombo St, Beckenham, Chc/ Real estate agents
+StreetDesc=126-130 Colombo St, Beckenham, Chc/ Real estate agents, Louise McLeavey
 Phone=+6433371316
+zip=Ring Louise McLeavey anytime
 Data0=(-43.55813,172.63703)
 [END]
 
@@ -34745,8 +34749,9 @@ Data0=(-41.31297,173.23312)
 [POI]
 Type=0x2f
 Label=JULIA SAULSBURY VISION CARE
-StreetDesc=128 Riccarton Rd, Riccarton, Chc/ Optometrist, eye exam, eyewear
+StreetDesc=128 Riccarton Rd, Riccarton, Chc 8041/ Optometrist, eye exam, eyewear
 Phone=+6433480008
+zip=8:30am - 5:00pm monday to wednesday and 
 Data0=(-43.52975,172.59817)
 [END]
 
@@ -34910,15 +34915,6 @@ Phone=+6433850650
 Data0=(-43.50692,172.66383)
 [END]
 
-;1097478
-[POI]
-Type=0x2e
-Label=STIRLING SPORTS TOWER JUNCTION
-StreetDesc=Tower Junction Mega Ctr, 66 Clarence St, Chc/ Sports & outdoor equipment, gear, 
-Phone=+6433434546
-Data0=(-43.53840,172.60575)
-[END]
-
 ;1097479
 [POI]
 Type=0x2e
@@ -34932,19 +34928,10 @@ Data0=(-45.87049,170.50568)
 [POI]
 Type=0x2e
 Label=STIRLING SPORTS NORTHLANDS
-StreetDesc=Shop 9, Northlands Shopping Mall, 55 Main North Rd, Papanui, Chc/ Sports & outdo
+StreetDesc=Shop 41, Northlands Shopping Mall, 55 Main North Rd, Papanui, Chc/ Sports & outd
 Phone=+6433522122
 zip=Mon-Wed 9am-6pm, Thu-Fri 9am-9pm, Sat-Su
 Data0=(-43.49371,172.60883)
-[END]
-
-;1097485
-[POI]
-Type=0x2e
-Label=STIRLING SPORTS INVERCARGILL
-StreetDesc=Tay St, Invercargill/ Sports & outdoor equipment, gear, clothing, footwear & acc
-Phone=+6432149235
-Data0=(-46.41253,168.35140)
 [END]
 
 ;1097486
@@ -34969,7 +34956,7 @@ Data0=(-41.27399,173.28420)
 [POI]
 Type=0x2e
 Label=STIRLING SPORTS BLENHEIM
-StreetDesc=83 Market St, Blenheim/ Sports & outdoor equipment, gear, clothing, footwear & a
+StreetDesc=103 Market St, Blenheim/ Sports & outdoor equipment, gear, clothing, footwear & 
 Phone=+6435788017
 Data0=(-41.51318,173.95678)
 [END]
@@ -37563,8 +37550,8 @@ Data0=(-44.74798,169.26747)
 [POI]
 Type=0x2b00
 Label=AWATERE MOTOR CAMP
-StreetDesc=Seymour St, Seddon/ Accommodation: tent sites, powered sites, campervans, dump s
-Phone=+6435757187
+StreetDesc=Seymour St, Seddon/ Camping accommodation: tent sites, powered sites, campervans
+Phone=+6435757285
 Data0=(-41.67278,174.07199)
 [END]
 
@@ -47464,11 +47451,11 @@ Data0=(-41.09255,174.18626)
 ;1105893
 [POI]
 Type=0x2f
-Label=FUSION IT- THE PC SOURCE LTD
-StreetDesc=333 Princes St, Dud/ 
-Phone=+6434770001
+Label=FUSION IT - NOW EXODESK
+StreetDesc=92 Magdala Place, Middleton, Chc/ 
+Phone=+6433433124
 zip=Mon-Fri 0830-1730 (can be contacted afte
-Data0=(-45.87922,170.50105)
+Data0=(-43.54544,172.57729)
 [END]
 
 ;1105909
@@ -60152,7 +60139,7 @@ Data0=(-43.58566,172.38458)
 Type=0x2f
 Label=SOMERSET PRINTING CO. LTD
 StreetDesc=174 Carlyle St, Sydenham, Chc/ 
-Phone=+6439822022
+Phone=+6421307801
 Data0=(-43.54160,172.64339)
 [END]
 
@@ -78877,10 +78864,11 @@ Data0=(-41.27641,173.28485)
 ;1120495
 [POI]
 Type=0x2e
-Label=VAUGHAN ANTIQUES
-StreetDesc=54 Salisbury St, Chc, Canterbury/ Antiques, Antique Shop
-Phone=+6433798521
-Data0=(-43.52452,172.63194)
+Label=?VAUGHAN ANTIQUES
+StreetDesc=312 Fernside Rd, Rangiora 7691/ Antiques dealer & restoration
+Phone=+6433133655
+zip=Tue-Sat 10am-5.30pm
+Data0=(-43.32944,172.58517)
 [END]
 
 ;1120496
@@ -84000,8 +83988,8 @@ Data0=(-43.56478,172.68685)
 ;1121955
 [POI]
 Type=0x2f01
-Label=SHELL TRUCKSTOP WOOLSTON 24HR
-StreetDesc=Port Hills Rd, Hillsborough/ Shell petrol station (diesel/shellcard only)
+Label=Z TRUCKSTOP HILLSBOROUGH 24HR
+StreetDesc=Port Hills Rd, Hillsborough/ Z station (diesel/shellcard only)
 zip=24/7
 Data0=(-43.56634,172.68057)
 [END]
@@ -87261,7 +87249,7 @@ Data0=(-43.31150,172.37825)
 [POI]
 Type=0x2a
 Label=THE LANDING RESTAURANT AND BAR
-StreetDesc=L 1, 80 Ardmore St, Lake Wanaka/ Restaurant, cocktail bar, catering, functions. 
+StreetDesc=L 1, 80 Ardmore St, Lake Wanaka/ Restaurant, cocktail bar, catering, functions.
 Phone=+6434435099
 Data0=(-44.69377,169.13669)
 [END]
@@ -166118,8 +166106,10 @@ Data0=(-41.10814,173.01430)
 ;1166826
 [POI]
 Type=0x2f
-Label=DSC ACUPUNCTURE CLINIC
-StreetDesc=14 -18 Athelstan St, Spreydon, Chc/ 
+Label=ACU CLINIC BARRINGTON (DSC ACUPUNCTURE CLINIC)
+StreetDesc=14 -18 Athelstan St, Spreydon, Chc/ Acupuncture Christchurch, Massage, Reiki, Cu
+Phone=+6433328918
+zip=8:30am to 6:30pm Monday to Friday
 Data0=(-43.55708,172.62033)
 [END]
 
@@ -184846,16 +184836,6 @@ Label=CHINWAG EATHAI 2
 StreetDesc=131 Victoria St, Chc, New Zealand/ Cafe, Restaurant, Thai food.
 Phone=+6433664544
 Data0=(-43.52342,172.62966)
-[END]
-
-;1174696
-[POI]
-Type=0x2f
-Label=GIPZYS RICCARTON
-StreetDesc=Store 20 145 Riccarton Rd, Chc/ New Age Giftware: Incense, Essential Oils, Books
-Phone=+39834624
-zip=Mon-Wed 9am-6pm, Thu-Fri 9am-9pm, Sat 9a
-Data0=(-43.53084,172.59697)
 [END]
 
 ;1174699
@@ -204908,5 +204888,196 @@ StreetDesc=47C - 57C Peer St, Upper Riccarton/ Supermarket
 Phone=+6433435646
 zip=Mon - Sun7.30am - 9.00pm
 Data0=(-43.52551,172.57109)
+[END]
+
+;1192952
+[POI]
+Type=0x2b00
+Label=OAKVIEW LANE
+StreetDesc=15 Oakview Lane, Chc/ Temporary Accommodation, Short Term Stay,
+Data0=(-43.57309,172.64226)
+[END]
+
+;1192953
+[POI]
+Type=0x2a
+Label=FAT CAT COFFEE
+StreetDesc=11 Skerries St Outram, Dud/ Award Winning Boutique Coffee Roaster. Contact us fo
+Phone=+6434861133
+zip=Tuesday & Thursday 10-2
+Data0=(-45.85893,170.22774)
+[END]
+
+;1192956
+[POI]
+Type=0x2f
+Label=?DAN'S MOWING
+StreetDesc=Chc/ Lawn Mowing Services Christchurch Wide Free Quote
+Phone=0800002447
+zip=8am-8pm, 7 days
+Data0=(-43.53205,172.63622)
+[END]
+
+;1192958
+[POI]
+Type=0x2f
+Label=LOUISE MCLEAVEY
+StreetDesc=130 Colombo St Sydenham Chc 8023/ Real Estate Top Agent Professional Award winni
+Phone=+21820610
+zip=Ring Anytime on +6421820610. or 03337131
+Data0=(-43.55829,172.63723)
+[END]
+
+;1192959
+[POI]
+Type=0x2f
+Label=HARCOURTS REAL ESTATE
+StreetDesc=130 Colombo St Beckenham/ listing agent sell house professional top agent award 
+Phone=+21820610
+zip=Ring anytime
+Data0=(-43.55829,172.63723)
+[END]
+
+;1192960
+[POI]
+Type=0x2f
+Label=EXODESK
+StreetDesc=92 Magdala Place, Middleton, Chc/ Managed IT Service and Support and Computer Ha
+Phone=+6433433124
+Data0=(-43.54544,172.57734)
+[END]
+
+;1192961
+[POI]
+Type=0x2f
+Label=ANDREW GA HAMILTON
+StreetDesc=258 Stuart St, Dud/ Accountant, Chartered Accountant, Taxation, Business Coachin
+Phone=+6434777776
+zip=Mon - Fri 8.30am to 5pm
+Data0=(-45.87315,170.50043)
+[END]
+
+;1192964
+[POI]
+Type=0x2b00
+Label=WANAKA ALPINE LODGE
+StreetDesc=114 Albert Town-Lake Hawea Rd/ 
+Phone=+6434435355
+Data0=(-44.68883,169.17996)
+[END]
+
+;1192965
+[POI]
+Type=0x2f
+Label=ALL CARS AUTO DISMANTLERS
+StreetDesc=121 Maces Rd, Bromley 8062/ Automotive Dismantlers
+Phone=+6433842962
+Data0=(-43.53811,172.69293)
+[END]
+
+;1192968
+[POI]
+Type=0x2c05
+Label=CHILDS PLAY PRESCHOOL
+StreetDesc=23-25 Main South St., Tinwald/ Preschool Ashburton, ECE care, early childhood ca
+Phone=+6433082959
+zip=7.30am-5.30pm
+Data0=(-43.91016,171.73845)
+[END]
+
+;1192969
+[POI]
+Type=0x2f
+Label=KIRBY SERVICE CENTRE
+StreetDesc=215 Walnut Ave.,Ashburton/ kirby bags, kirby agent, upright vacuum cleaners,best
+Phone=0800356789
+zip=8am-7pm
+Data0=(-43.90207,171.76166)
+[END]
+
+;1192972
+[POI]
+Type=0x2f
+Label=MY TAX
+StreetDesc=L One, 105 Trafalgar St, Nelson/ My Tax is an IRD-approved tax agent that runs i
+Phone=+6435391485
+Data0=(-41.27124,173.28419)
+[END]
+
+;1192973
+[POI]
+Type=0x2c00
+Label=?TASTY TOURS
+StreetDesc=The Octagon, Dud, NZ/ Tours & Sightseeing, Entertainment, Food & Wine
+zip=Mon - Fri 9am to 5.30pm, Sat 10am to 1pm
+Data0=(-45.87444,170.50315)
+[END]
+
+;1192976
+[POI]
+Type=0x2f
+Label=PRACTICAL SOLUTIONS
+StreetDesc=L 5, Upstart House, 333 Princes St, Dud/ Insurance,Investments, Superannuation
+Phone=+6434701860
+zip=Mon - Fri 9am to 9pm
+Data0=(-45.87939,170.50094)
+[END]
+
+;1192982
+[POI]
+Type=0x2F02
+Label=DRIVEN RENTAL VEHICLES
+StreetDesc=313 Kaikorai Valley Rd, Dud/ Driven Rental Vehicles, Dunedin. Rental cars to get
+Phone=050812DRIVE
+zip=Sunday to Saturday 7.30am-5.45pm
+Data0=(-45.87664,170.47128)
+[END]
+
+;1192983
+[POI]
+Type=0x2f
+Label=RELAX AND BE RADIANT
+StreetDesc=61 Falcon St, New Brighton, Chc 8061/ Reiki, Intuitive Massage
+Phone=+6421269742
+zip=by appointment only (weekdays, evenings 
+Data0=(-43.52182,172.72795)
+[END]
+
+;1192988
+[POI]
+Type=0x2f
+Label=R&L SYSTEMS
+StreetDesc=47 Campbells Rd, Dud/ At R & L Systems Ltd we aim to provide fast & friendly ser
+zip=Sunday to Saturday 9am-6pm
+Data0=(-45.83959,170.52219)
+[END]
+
+;1192989
+[POI]
+Type=0x2d00
+Label=CHRISTCHURCH SQUASH CLUB 24HR
+StreetDesc=182 Chester St East, Chc/ squash court
+Phone=+6433790677
+zip=24/7
+Data0=(-43.52791,172.64886)
+[END]
+
+;1192992
+[POI]
+Type=0x2f
+Label=THE GARAGE RE-USE SHOP
+StreetDesc=303 Bond St/ Re-Use, Re-Sell, Recycling
+Phone=+6432147917
+zip=Mon-Sat 8am to 5.30pm Sun 9am to 5.30om
+Data0=(-46.42243,168.34085)
+[END]
+
+;1192995
+[POI]
+Type=0x2f
+Label=SMITH & SONS QUEENSTOWN
+StreetDesc=41a Panorama Tce, queenstown/ Renovation builders
+Phone=+6421176899
+Data0=(-45.03321,168.67503)
 [END]
 

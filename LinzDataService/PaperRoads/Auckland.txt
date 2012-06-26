@@ -52,7 +52,6 @@
 54589	Kingswood Tce	Titirangi
 55900	Blake Rd	Nukutawhiti
 48611	Noall Rd	Donnellys Crossing
-48814	Leaf Rd		Matakohe
 51435	Pearn Pl	Northcote
 48623	Clotworthy Rd	Tangiteroria
 59797	Te Rore St	Pukehuia

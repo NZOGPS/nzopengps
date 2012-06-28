@@ -10068,11 +10068,11 @@ Data0=(-45.03644,169.19887)
 ;1034664
 [POI]
 Type=0x2f01
-Label=SHELL CURLETTS ROAD 24HR
+Label=Z CURLETTS ROAD 24HR
 StreetDesc=Cnr Curletts And Blenheim Roads, Sockburn (Entry from Curletts Rd)/ Shell petrol
 Phone=+6433485155
 zip=24hrs
-Data0=(-43.53880,172.56829)
+Data0=(-43.53879,172.56811)
 [END]
 
 ;1034671
@@ -12964,7 +12964,7 @@ Data0=(-46.35776,168.00975)
 ;1044737
 [POI]
 Type=0x2f01
-Label=REX MILLER ENGINEERING LTD
+Label=TWIZEL AUTO SERVICES
 StreetDesc=3 Ostler Rd, Twizel/ G.A.S. Petrol Station, Car repair workshop, Warrant of fitn
 Phone=+6434350760
 Data0=(-44.26475,170.08949)
@@ -56132,9 +56132,9 @@ Data0=(-45.87548,170.50241)
 [POI]
 Type=0x2f
 Label=OWEN CORPORATION (NZ) LTD
-StreetDesc=14 John St, RD 9, Invercargill/ 
-Phone=+6432131516
-Data0=(-46.42691,168.37085)
+StreetDesc=10 Loop Rd, Kawarau Falls, Queenstown 9300/ 
+Phone=+6434413423
+Data0=(-45.02937,168.71775)
 [END]
 
 ;1111063
@@ -121069,9 +121069,11 @@ Data0=(-42.77695,172.84613)
 
 ;1141207
 [POI]
-Type=0x2f
-Label=SAINTS
-StreetDesc=6 Jacks Pass Rd, Hanmer Springs/ 
+Type=0x2a
+Label=SAINTS CAFE, RESTAURANT & BAR
+StreetDesc=6 Jacks Pass Rd, Hanmer Springs/ Relax with a drink or famous cocktail, shoot so
+Phone=+6433155262
+zip=Monday - Friday 3.00pm - Late, Weekends 
 Data0=(-42.52161,172.82868)
 [END]
 
@@ -123544,7 +123546,7 @@ Data0=(-43.53263,172.56971)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=Curletts Rd cnr Blenheim Rd O/S Shell Station Middleton Chc/ Telecom, payphone, 
+StreetDesc=Curletts Rd cnr Blenheim Rd O/S Z Station Middleton Chc/ Telecom, payphone, publ
 Phone=+6433433986
 Data0=(-43.53912,172.56829)
 [END]
@@ -130846,14 +130848,6 @@ Type=0x2f
 Label=CABANA HAIR CO
 StreetDesc=1 Thackers Qy, Chc/ Hairdresser
 Data0=(-43.55427,172.67896)
-[END]
-
-;1146644
-[POI]
-Type=0x2a
-Label=CAESARS FAMILY RESTAURANT & BAR
-StreetDesc=1 Radcliffe Rd, Chc/ restaurant, bar
-Data0=(-43.46072,172.62319)
 [END]
 
 ;1146645
@@ -189251,9 +189245,9 @@ Data0=(-46.09925,168.94584)
 [POI]
 Type=0x2f
 Label=QUEENSTOWN BUILDERS, STONEWOOD HOMES QUEENSTOWN
-StreetDesc=Cnr Glenda Dr and Margaret Place Queenstown/ Queenstown Builders, New Home Build
+StreetDesc=161 Glenda Dr, Frankton Queenstown/ Queenstown Builders, New Home Builders Queen
 Phone=+6434090924
-Data0=(-45.00677,168.75193)
+Data0=(-45.01155,168.75554)
 [END]
 
 ;1177695
@@ -194400,8 +194394,8 @@ Data0=(-43.53545,172.64403)
 ;1180879
 [POI]
 Type=0x2f
-Label=SAFARI DR APPEARANCE MEDICINE & COSMETIC SURGERIES
-StreetDesc=75A York Place, Central Dud, Dud 9016/ For non-surgical beauty treatments to tre
+Label=DR SAFARI APPEARANCE MEDICINE & COSMETIC SURGERIES
+StreetDesc=75A York Place, Central Dud, Dud 9016/ For effective, expert care & non-surgical
 Phone=+6434745058
 zip=Monday - Saturday 9.00am - 6.00pm Wednes
 Data0=(-45.87168,170.50135)
@@ -204789,7 +204783,7 @@ Data0=(-43.53521,172.58147)
 ;1192875
 [POI]
 Type=0x2f
-Label=MURRAYS VETINARY CLINIC
+Label=MURRAYS VETERINARY CLINIC
 StreetDesc=10 Dukes Rd South Mosgiel Dud 9092 New Zealand/ Visit our friendly vet clinic fo
 Phone=+6434895540
 zip=Monday - Friday 9.00am- 5.00pm Evening C
@@ -205079,5 +205073,49 @@ Label=SMITH & SONS QUEENSTOWN
 StreetDesc=41a Panorama Tce, queenstown/ Renovation builders
 Phone=+6421176899
 Data0=(-45.03321,168.67503)
+[END]
+
+;1192999
+[POI]
+Type=0x2c0a
+Label=TOITOI WINES
+StreetDesc=41 Gouland Rd Spring Creek Marlborough/ Winery
+Phone=+6421935849
+Data0=(-41.45484,173.96585)
+[END]
+
+;1193003
+[POI]
+Type=0x2f
+Label=CANTERBURY LINEN SERVICES
+StreetDesc=21 Sylvan St, PO Box 9162, Chc 8031/ At Canterbury Linen we service the Canterbu
+Phone=+6433382039
+Data0=(-43.55057,172.59546)
+[END]
+
+;1193007
+[POI]
+Type=0x2f
+Label=WINE PLUS
+StreetDesc=10 Campion Place, Halswell, Chc/ Wineplus offers an alternative to gift baskets 
+Phone=+6433225199
+Data0=(-43.56824,172.55395)
+[END]
+
+;1193021
+[POI]
+Type=0x2f
+Label=POWERHOUSE
+StreetDesc=13 creyke rd Chc/ An intellectual property commercialisation company based in Ch
+Data0=(-43.52213,172.58800)
+[END]
+
+;1193036
+[POI]
+Type=0x2f01
+Label=CUST SERVICE CENTRE
+StreetDesc=1691 scenic highway/ Service station
+Phone=+6433125859
+Data0=(-43.31127,172.37895)
 [END]
 

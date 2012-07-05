@@ -9968,7 +9968,7 @@ Data0=(-43.55732,172.61857)
 ;1034489
 [POI]
 Type=0x2f01
-Label=SHELL BELFAST 24HR
+Label=Z BELFAST 24HR
 StreetDesc=Cnr Main North Rd And Johns Rd, Belfast/ Shell petrol station; car wash, LPG bot
 Phone=+6433238715
 zip=24hrs
@@ -10028,8 +10028,8 @@ Data0=(-43.52003,172.62741)
 ;1034566
 [POI]
 Type=0x2f01
-Label=SHELL CARMEN ROAD 24HR
-StreetDesc=Cnr Carmen Rd And Waterloo Rd, Hornby/ Shell petrol station, ATM, Car wash, LPG 
+Label=Z CARMEN ROAD 24HR
+StreetDesc=Cnr Carmen Rd And Waterloo Rd, Hornby/ Z petrol station, ATM, Car wash, LPG Swap
 Phone=+6433499129
 zip=24hrs
 Data0=(-43.53800,172.52823)
@@ -10048,7 +10048,7 @@ Data0=(-44.39375,171.24780)
 ;1034587
 [POI]
 Type=0x2f01
-Label=SHELL CASHMERE 24HR
+Label=Z CASHMERE 24HR
 StreetDesc=23-25 Colombo St, Beckenham, Chc/ Shell petrol station; LPG bottleswap, trailers
 Phone=+6433322646
 zip=24hrs
@@ -10088,7 +10088,7 @@ Data0=(-46.40508,168.34706)
 ;1034755
 [POI]
 Type=0x2f01
-Label=SHELL FERRY ROAD
+Label=Z FERRY ROAD
 StreetDesc=417-423 Ferry Rd, Chc/ Shell petrol station, LPG Swap n Go, Trailer hire, LPG Fu
 Phone=+6433892292
 zip=7 days : 5am – midnight
@@ -10118,7 +10118,7 @@ Data0=(-46.09739,168.94502)
 ;1034839
 [POI]
 Type=0x2f01
-Label=SHELL GREEN ISLAND
+Label=Z GREEN ISLAND
 StreetDesc=185 Main South Rd, Green Island/ Shell petrol station, LPG Swap n Go, Trailer hi
 Phone=+6434885180
 zip=7 days : 6am – 10pm
@@ -10187,7 +10187,7 @@ Data0=(-45.88617,170.35399)
 ;1035231
 [POI]
 Type=0x2f01
-Label=SHELL NEW BRIGHTON
+Label=Z NEW BRIGHTON
 StreetDesc=40 Hawke St, New Brighton/ Shell petrol station, LPG Swap n Go, Trailer hire, LP
 Phone=+6433888435
 zip=7 days : 6am – 10pm
@@ -10217,7 +10217,7 @@ Data0=(-45.01737,168.71614)
 ;1035413
 [POI]
 Type=0x2f01
-Label=SHELL RACEWAY 24HR
+Label=Z RACEWAY 24HR
 StreetDesc=250 Lincoln Rd, Addington, Chc/ Shell petrol station, car wash, LPG bottleswap, 
 Phone=+6433388795
 zip=24hrs
@@ -10227,8 +10227,8 @@ Data0=(-43.54588,172.60869)
 ;1035455
 [POI]
 Type=0x2f01
-Label=SHELL RICCARTON ROAD 24HR
-StreetDesc=33 Riccarton Rd, Riccarton/ Shell petrol station, LPG Swap n Go, Trailer hire
+Label=Z RICCARTON ROAD 24HR
+StreetDesc=33 Riccarton Rd, Riccarton/ Z petrol station, LPG Swap n Go, Trailer hire
 Phone=+6433433433
 zip=24hrs
 Data0=(-43.52915,172.60905)
@@ -10374,7 +10374,7 @@ Data0=(-45.87248,170.47232)
 ;1035840
 [POI]
 Type=0x2f01
-Label=SHELL WAIKUKU
+Label=Z WAIKUKU
 StreetDesc=1413 Main North Rd, Waikuku, North Canterbury/ Shell petrol station, LPG Bottles
 Phone=+6433127705
 Data0=(-43.29515,172.68434)
@@ -10392,7 +10392,7 @@ Data0=(-44.35588,171.23859)
 ;1035931
 [POI]
 Type=0x2f01
-Label=SHELL YALDHURST
+Label=Z YALDHURST
 StreetDesc=Main West Coast Rd, Yaldhurst Rd 6, Chc/ Shell petrol station, LPG Swap n Go, LP
 Phone=+6433428979
 Data0=(-43.51206,172.50419)
@@ -15146,7 +15146,7 @@ Data0=(-41.33898,173.18612)
 Type=0x2e
 Label=THE BODY SHOP NORTHLANDS
 StreetDesc=Shop 88, Northlands Shopping Mall, 55 Main North Rd, Papanui, Chc/ health & beau
-Phone=+6433523891
+Phone=+6433529254
 zip=Mon-Wed 9am-6pm, Thu-Fri 9am-9pm, Sat-Su
 Data0=(-43.49394,172.60907)
 [END]
@@ -15156,7 +15156,7 @@ Data0=(-43.49394,172.60907)
 Type=0x2e
 Label=THE BODY SHOP RICCARTON MALL
 StreetDesc=Riccarton Mall, Riccarton Rd, Chc/ health & beauty, cosmetics
-Phone=+6433486063
+Phone=+6433488794
 Data0=(-43.53100,172.59805)
 [END]
 
@@ -15165,7 +15165,7 @@ Data0=(-43.53100,172.59805)
 Type=0x2e
 Label=THE BODY SHOP THE PALMS
 StreetDesc=The Palms Shopping Ctr, Chc/ health & beauty, cosmetics
-Phone=+6433859516
+Phone=+6433859532
 Data0=(-43.50685,172.66421)
 [END]
 
@@ -42594,7 +42594,7 @@ Data0=(-46.15717,168.32983)
 ;1103062
 [POI]
 Type=0x2e
-Label=CENTREFIRE MCCARTHYS
+Label=CENTREFIRE MCCARTHYS STREAM & FIELD STORE
 StreetDesc=358 Moray Place, Dud/ Specialist hunting & fishing store in Dunedin with a huge 
 Phone=+6434773266
 zip=Mon-Thu 0900-0530, Fri 0900-0700, Sat 10
@@ -72310,10 +72310,10 @@ Data0=(-43.54568,172.63812)
 [POI]
 Type=0x2a0e
 Label=SAINT CLAIR CELLAR DOOR & CAF�
-StreetDesc=Corner of Rapaura & Selmes Rd, Rapaura, Blenheim/ Cafe. Wine tastings & sales
+StreetDesc=13 Selmes Rd, Rapaura, Blenheim/ Cafe. Wine tastings & sales
 Phone=+6435705280
 zip=7 Days 9am-5pm
-Data0=(-41.46352,173.92624)
+Data0=(-41.46337,173.92443)
 [END]
 
 ;1117939
@@ -91234,10 +91234,11 @@ Data0=(-45.87427,170.50170)
 
 ;1128825
 [POI]
-Type=0x2d02
-Label=THE TERRACE
-StreetDesc=6 The Octagon, Dud/ Sports Bar
+Type=0x2a
+Label=THE TERRACE RESTAURANT & BAR
+StreetDesc=6 The Octagon, Dud/ Sports restaurant & bar in Dunedin offering casual dining wi
 Phone=+6434790010
+zip=Monday - Sunday 10.30am - Late
 Data0=(-45.87383,170.50432)
 [END]
 
@@ -129190,8 +129191,9 @@ Data0=(-43.28775,172.38539)
 [POI]
 Type=0x2f
 Label=GEOFFREY HALL FUNERAL SERVICES
-StreetDesc=14-16 High St, Rangiora/ Funeral director
-Data0=(-43.30279,172.59869)
+StreetDesc=12 High St, Rangiora/ Funeral director
+Phone=+6433136948
+Data0=(-43.30275,172.59910)
 [END]
 
 ;1144781
@@ -140314,7 +140316,7 @@ Data0=(-43.64021,172.48300)
 Type=0x2f
 Label=SOUTHERN PHYSIO SERVICES (SPS)
 StreetDesc=3-7 Charlotte St, Balclutha, Otago/ Physiotherapist, physio
-Phone=+6434190055
+Phone=+6434190435
 Data0=(-46.23675,169.73957)
 [END]
 
@@ -155708,10 +155710,10 @@ Data0=(-41.34255,173.19643)
 ;1160414
 [POI]
 Type=0x2f
-Label=BISHOPDALE CHAPEL
-StreetDesc=Corner Isleworth Rd, Leacroft St, Chc/ Funeral Home
+Label=GEOFFREY HALL FUNERAL SERVICES PAPANUI
+StreetDesc=2 Langstone Lane Papanui 8052 Chc/ Funeral Home
 Phone=0800863378
-Data0=(-43.49070,172.58068)
+Data0=(-43.48983,172.60018)
 [END]
 
 ;1160424
@@ -173935,16 +173937,6 @@ Phone=+6433485632
 Data0=(-43.52942,172.60278)
 [END]
 
-;1171088
-[POI]
-Type=0x2f
-Label=CENTRAL CANTERBURY HELICOPTERS LTD (ASHBURTON)
-StreetDesc=82 Wilkins Rd , Tinwald, Ashburton/ helicopter charters, aerial scenic tours
-Phone=+6427410688
-zip=by charter
-Data0=(-43.92145,171.73454)
-[END]
-
 ;1171090
 [POI]
 Type=0x2f
@@ -189134,10 +189126,11 @@ Data0=(-43.53883,172.69625)
 
 ;1177653
 [POI]
-Type=0x2f
+Type=0x2d00
 Label=CHRISTCHURCH OLYMPIC TAEKWONDO INC
 StreetDesc=Chc Taekwondo Union Dojang (training hall) Mathers Rd, Hoon Hay, Chc/ Martial ar
-Phone=+6427222876
+Phone=+6427439381
+zip=http://www.olympictkd.org.nz/174702/html
 Data0=(-43.55852,172.59797)
 [END]
 
@@ -192685,9 +192678,10 @@ Data0=(-42.52087,172.83175)
 ;1179462
 [POI]
 Type=0x2f
-Label=SNIP SNIP SNIP
+Label=CUTTING BAR
 StreetDesc=7 Moray Place, Dud/ Hairdressers
-zip=10 to 4 weekdays
+Phone=+6434770741
+zip=appointments 10 to 4 weekdays or by arra
 Data0=(-45.87555,170.50248)
 [END]
 
@@ -202346,7 +202340,7 @@ Data0=(-43.52660,172.63963)
 ;1191303
 [POI]
 Type=0x2f01
-Label=SHELL DARFIELD
+Label=Z DARFIELD
 StreetDesc=15 South Tce, Darfield 7961/ Shell petrol station, LPG Swap n Go, Trailer hire
 Phone=+6433188523
 zip=7 days : 6am – 9pm
@@ -205117,5 +205111,72 @@ Label=CUST SERVICE CENTRE
 StreetDesc=1691 scenic highway/ Service station
 Phone=+6433125859
 Data0=(-43.31127,172.37895)
+[END]
+
+;1193045
+[POI]
+Type=0x2a07
+Label=TASTE OF EGYPT
+StreetDesc=7 Croucher St Richmond Nelson/ Souvlaki Takeaway
+zip=7 Days, 11.00am till late
+Data0=(-41.33913,173.18439)
+[END]
+
+;1193059
+[POI]
+Type=0x2f
+Label=GEOFFREY HALL FUNERAL SERVICES ASHBURTON
+StreetDesc=Brantwood Chapel, Trotts Gardens, Racecourse Rd Ashburton/ Funeral director
+Phone=+6433081121
+Data0=(-43.86525,171.73824)
+[END]
+
+;1193060
+[POI]
+Type=0x2f
+Label=TROTT'S GARDEN
+StreetDesc=371 Racecourse Rd, Ashburton/ 
+Phone=+6433089530
+zip=September to May Mon to Sat 9am to 4pm
+Data0=(-43.86524,171.73819)
+[END]
+
+;1193062
+[POI]
+Type=0x2f
+Label=HERBAL VIAGRA NZ 24HR
+StreetDesc=1 cathedral Sq, Chc, new zealand/ New Zealands Best selling herbal viagra produc
+zip=24hr, 365 days
+Data0=(-43.53166,172.63635)
+[END]
+
+;1193063
+[POI]
+Type=0x2f
+Label=SIMPLICITY FUNERALS 24HR
+StreetDesc=2 Langstone Lane, Papanui, Chc/ Funeral Home, Burial, Cremation
+Phone=+6433790196
+zip=24hrs / 7 Days
+Data0=(-43.48976,172.60007)
+[END]
+
+;1193079
+[POI]
+Type=0x2f
+Label=BEAUTY THERAPY CHRISTCHURCH - LOUISE KELLY
+StreetDesc=24 Hartley Ave, Strowan, Chc 8052/ Eyebrow shapes and tints, eye lash extensions
+Phone=+6433560964
+zip=9-5
+Data0=(-43.50751,172.60978)
+[END]
+
+;1193080
+[POI]
+Type=0x2f
+Label=RED RAISIN - STRATEGY & CONSULTANCY ASHBURTON
+StreetDesc=147 West St, Ashburton 7700/ design & Marketing Ashburton - Strategy, Branding, 
+Phone=+6433077232
+zip=9-5
+Data0=(-43.90477,171.74542)
 [END]
 

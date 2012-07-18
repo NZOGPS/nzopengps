@@ -16144,9 +16144,9 @@ Data0=(-46.40657,168.34951)
 Type=0x2f0d
 Label=AA CENTRE - TIMARU
 StreetDesc=26 Church St, Timaru/ Travel advice, maps, accommodation guide, drivers licencin
-Phone=+6498333700
-zip=Mon-Fri 9am-5pm except Tue 9.30am-5pm, S
-Data0=(-44.39683,171.25030)
+Phone=+6436884189
+zip=Mon-Fri 9am-5pm except Tue 9.30am-5pm
+Data0=(-44.39684,171.25028)
 [END]
 
 ;1056840
@@ -16584,7 +16584,7 @@ Data0=(-41.51272,173.95575)
 ;1058443
 [POI]
 Type=0x2f11
-Label=JEFF LECKEY HOUSE OF TRAVEL
+Label=HOUSE OF TRAVEL NELSON
 StreetDesc=256 Trafalgar St, Nelson/ Travel agents
 Phone=+6435468780
 Data0=(-41.27405,173.28360)
@@ -37636,9 +37636,9 @@ Data0=(-42.39404,173.67882)
 
 ;1099543
 [POI]
-Type=0x2b01
+Type=0x2c06
 Label=ALPINE-PACIFIC HOLIDAY PARK
-StreetDesc=69 Beach Rd, Kaikoura/ Motel, cabins, tent sites. Dump station
+StreetDesc=69 Beach Rd, Kaikoura/ Lee & Struan run a 4 star qualmark rated holiday park, ca
 Phone=+6433196275
 Data0=(-42.39348,173.67892)
 [END]
@@ -67007,9 +67007,9 @@ Data0=(-44.85915,168.44899)
 ;1116785
 [POI]
 Type=0x6402
-Label=?BOO BOO HUT
+Label=BOO BOO HUT
 StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
-Data0=(-42.92818,171.19847)
+Data0=(-42.92826,171.19844)
 [END]
 
 ;1116786
@@ -67671,9 +67671,9 @@ Data0=(-42.93356,171.27691)
 ;1116885
 [POI]
 Type=0x6402
-Label=?CRAWFORD JUNCTION HUT
+Label=CRAWFORD JUNCTION HUT
 StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
-Data0=(-42.96038,171.23360)
+Data0=(-42.96042,171.23447)
 [END]
 
 ;1116886
@@ -67839,9 +67839,9 @@ Data0=(-42.78936,171.48666)
 ;1116912
 [POI]
 Type=0x6402
-Label=?DILLONS HOMESTEAD HUT (OLD)
+Label=DILLONS HOMESTEAD HUT (OLD)
 StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
-Data0=(-42.78394,171.48557)
+Data0=(-42.78352,171.48481)
 [END]
 
 ;1116913
@@ -69679,9 +69679,9 @@ Data0=(-41.82544,173.04818)
 ;1117233
 [POI]
 Type=0x6402
-Label=?MID STYX HUT
+Label=MID STYX HUT
 StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
-Data0=(-42.89573,171.24525)
+Data0=(-42.89551,171.24514)
 [END]
 
 ;1117234
@@ -70783,9 +70783,9 @@ Data0=(-43.20901,170.84890)
 ;1117442
 [POI]
 Type=0x6402
-Label=?SNOWGRASS HUT
+Label=SNOWGRASS HUT
 StreetDesc=Clarence Conservation Area - South Island > Marlborough > South Marlborough/ DOC
-Data0=(-42.05171,173.73904)
+Data0=(-42.05176,173.73907)
 [END]
 
 ;1117443
@@ -71119,9 +71119,9 @@ Data0=(-43.42017,170.44059)
 ;1117518
 [POI]
 Type=0x6402
-Label=?TOP CRAWFORD HUT
+Label=TOP CRAWFORD HUT
 StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
-Data0=(-42.94180,171.25497)
+Data0=(-42.94036,171.25583)
 [END]
 
 ;1117519
@@ -75442,9 +75442,10 @@ Data0=(-41.26575,173.26676)
 ;1119591
 [POI]
 Type=0x2a
-Label=EATERY ON THE ROCK
+Label=EATERY ON THE ROCK 24HR
 StreetDesc=2086 Takaka Valley Highway, Takaka, Tasman/ Restaurant and Accommodation Luxury 
 Phone=+6435258096
+zip=Restaurant 5.30pm till late Accommodatio
 Data0=(-40.86704,172.81241)
 [END]
 
@@ -102441,14 +102442,6 @@ Phone=+6433328050
 Data0=(-43.56381,172.67766)
 [END]
 
-;1132094
-[POI]
-Type=0x2f
-Label=THE FINE WINE DELIVERY COMPANY
-StreetDesc=55 Riccarton Rd, Chc/ 
-Data0=(-43.52935,172.60699)
-[END]
-
 ;1132095
 [POI]
 Type=0x2f
@@ -103391,9 +103384,10 @@ Data0=(-43.55781,172.70374)
 
 ;1132223
 [POI]
-Type=0x2f
+Type=0x2a07
 Label=WAIMAIRI FISH SUPPLY
-StreetDesc=255B Greers Rd, Chc/ 
+StreetDesc=255B Greers Rd, Chc/ Deep fried and chinese takeaways
+Phone=+6433595658
 Data0=(-43.49976,172.58568)
 [END]
 
@@ -104482,9 +104476,10 @@ Data0=(-41.51039,173.95901)
 [POI]
 Type=0x2f
 Label=HOMEPLUS OTAGO
-StreetDesc=73 Stone St, Kaikorai Valley, Dud/ Manufacturer of custom-made doors. Gates, Bal
-Phone=+6434530000
-Data0=(-45.87451,170.47262)
+StreetDesc=45 Otaki St Dud/ Manufacturer of custom-made doors. Gates, Balustrade, Awnings, 
+Phone=+6434556134
+zip=8 - 5 Mon - Fri 9 - 12 Sat
+Data0=(-45.89223,170.50769)
 [END]
 
 ;1132639
@@ -105247,10 +105242,10 @@ Data0=(-41.33484,173.19888)
 ;1133543
 [POI]
 Type=0x2f
-Label=DAVID REID HOMES CHRISTCHURCH
-StreetDesc=Unit 1, 107 Wrights Rd, Addington, Chc/ Builders
+Label=DAVID REID HOMES CANTERBURY
+StreetDesc=139 Blenheim Rd, Riccarton, Chc 8041/ Builders
 Phone=+6433350499
-Data0=(-43.54357,172.59498)
+Data0=(-43.53766,172.59828)
 [END]
 
 ;1133545
@@ -116848,8 +116843,9 @@ Data0=(-42.71821,170.97266)
 ;1138588
 [POI]
 Type=0x2f
-Label=SALON 106
-StreetDesc=106 Revell St, Hokitika/ Hairdresser
+Label=THE HAIR LOUNGE
+StreetDesc=106 Revell St, Hokitika/ Come and enjoy Hokitika's premier Hair Salon. Great Hai
+Phone=+6437558920
 Data0=(-42.71679,170.96238)
 [END]
 
@@ -146223,7 +146219,7 @@ Data0=(-41.26934,173.28976)
 [POI]
 Type=0x2f
 Label=HALFWAY BUSH HALL
-StreetDesc=54 Ashmore St, Halfway Bush/ The school hall is available to the community for $
+StreetDesc=54 Ashmore St, Halfway Bush/ The school hall is available to the community for h
 Phone=+6434763207
 Data0=(-45.85700,170.46566)
 [END]
@@ -201880,7 +201876,7 @@ Data0=(-46.40837,168.36364)
 [POI]
 Type=0x2f
 Label=BAYLEYS PROPERTY MANAGEMENT
-StreetDesc=5 Smith St Dud 9016 New Zealand/ Hassle-free, cost efficient property management
+StreetDesc=L 2, 5 Smith St Dud 9016 New Zealand/ Hassle-free, cost efficient property manag
 Phone=+6434677206
 zip=Monday – Friday, 8:30 – 5:30 or by appoi
 Data0=(-45.87276,170.50021)
@@ -204909,8 +204905,8 @@ Data0=(-43.53205,172.63622)
 ;1192958
 [POI]
 Type=0x2f
-Label=LOUISE MCLEAVEY
-StreetDesc=130 Colombo St Sydenham Chc 8023/ Real Estate Top Agent Professional Award winni
+Label=LOUISE MCLEAVEY HARCOURTS BECKENHAM
+StreetDesc=130 Colombo St Sydenham Chc 8023/ Harcourts Real Estate Top Agent Professional A
 Phone=+21820610
 zip=Ring Anytime on +6421820610. or 03337131
 Data0=(-43.55829,172.63723)
@@ -205178,5 +205174,125 @@ StreetDesc=147 West St, Ashburton 7700/ design & Marketing Ashburton - Strategy,
 Phone=+6433077232
 zip=9-5
 Data0=(-43.90477,171.74542)
+[END]
+
+;1193089
+[POI]
+Type=0x2f
+Label=STORMY'S MAN CAVE
+StreetDesc=221-223 Trafalgar St Nelson 7010/ Barber Shop
+Phone=+02733787
+zip=Weekdays 10am-5pm. Sat. 10am-2pm
+Data0=(-41.27345,173.28390)
+[END]
+
+;1193095
+[POI]
+Type=0x2f
+Label=?FRANK NAUGHTON STONE MASON
+StreetDesc=Waimate, South Canterbury/ Stone masonary and all stone work
+Phone=+27613141
+Data0=(-44.73264,171.04814)
+[END]
+
+;1193099
+[POI]
+Type=0x2f
+Label=FRONT-LINE TRAINING CONSULTANCY LTD.
+StreetDesc=416 Dee St. Invercargill/ For Staff Management Solutions! In-house consultancy, 
+Phone=+6432142174
+zip=8.30am - 5pm Monday-Friday
+Data0=(-46.39506,168.34690)
+[END]
+
+;1193100
+[POI]
+Type=0x2f
+Label=CLAYMORE FORGE
+StreetDesc=25 Irvine St, Wallacetown, Southland/ Blacksmith, hand wrought iron fire ware, k
+Data0=(-46.34029,168.28523)
+[END]
+
+;1193103
+[POI]
+Type=0x2a
+Label=TATLER RESTAURANT & BAR
+StreetDesc=5 Ballarat St, Queenstown/ Restaurant - Breakfast Lunch and dinner
+Phone=+6434428372
+Data0=(-45.03264,168.66068)
+[END]
+
+;1193115
+[POI]
+Type=0x2d
+Label=BUBBLING WITH ENERGY
+StreetDesc=97E Sawyers Arms Rd, Northcote, Chc/ Inflatable Bouncy Castles, Interactives, Sl
+Data0=(-43.48892,172.60542)
+[END]
+
+;1193116
+[POI]
+Type=0x2f
+Label=SIGNBIZ - SIGNS + DESIGN + PRINT
+StreetDesc=218 Hills Rd, Chc, New Zealand/ Signbiz, Signs, Signwriting, Signs Christchurch,
+Phone=0800NZSIGNS
+zip=8.30am to 5pm
+Data0=(-43.50749,172.65194)
+[END]
+
+;1193126
+[POI]
+Type=0x2f
+Label=KEEP IT LOCAL PROJECT 24HR
+StreetDesc=26 The Octagon, Dud/ Advertising Online, Webdesign, Marketing
+zip=24 hours
+Data0=(-45.87464,170.50353)
+[END]
+
+;1193127
+[POI]
+Type=0x2f
+Label=ID CREATIVE
+StreetDesc=smith + church Blg, 50 Moore St, Ashburton/ Website and graphic design company. 
+Phone=+6433087523
+zip=9-3 Mon - Fri, outside these hours by ap
+Data0=(-43.90512,171.74415)
+[END]
+
+;1193130
+[POI]
+Type=0x2e08
+Label=GROWING GOURMET - MAD ABOUT TRUFFLES
+StreetDesc=1133 Main South Rd, Templeton, Chc/ Truffle infected seedlings, Truffle site set
+Phone=+6433479221
+Data0=(-43.56823,172.44189)
+[END]
+
+;1193132
+[POI]
+Type=0x2c06
+Label=REGROWTH WOOD SCULPTURE SYMPOSIUM 2013
+StreetDesc=The end of Beatty St/ Inaugural Christchurch International Wood Sculpture Sympos
+Data0=(-43.52901,172.73302)
+[END]
+
+;1193137
+[POI]
+Type=0x2f
+Label=NIGEL STANLEY
+StreetDesc=10 Otepuni Ave Invercargill/ Designer, kitchens ,Invercargill,modern,free 3d des
+Phone=+6432160061
+zip=8am till 5pm
+Data0=(-46.41479,168.37437)
+[END]
+
+;1193156
+[POI]
+Type=0x2f11
+Label=ORBIT CORPORATE TRAVEL NELSON 24HR
+StreetDesc=L 1, Phoenix Arcade,39 Montgomery Sq, Nelson/ Corporate Travel Agent, Travel Man
+Phone=+6435463904
+zip=24/7
+Data0=(-41.27299,173.28197)
 [END]
 

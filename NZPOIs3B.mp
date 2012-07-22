@@ -16133,9 +16133,9 @@ Data0=(-43.50747,172.66450)
 [POI]
 Type=0x2f0d
 Label=AA CENTRE - INVERCARGILL
-StreetDesc=47-51 Gala St, Invercargill/ Travel advice, maps, accommodation guide, drivers l
-Phone=+6432189033
-zip=Mon-Fri 8.30am-5pm except Tue 9-5pm
+StreetDesc=47-51 Gala St, Invercargill/ You can join the AA, arrange car, home & contents, 
+Phone=+6432189030
+zip=Mon-Fri 8.30am-5pm except Tue 9am-5pm
 Data0=(-46.40657,168.34951)
 [END]
 
@@ -16143,9 +16143,9 @@ Data0=(-46.40657,168.34951)
 [POI]
 Type=0x2f0d
 Label=AA CENTRE - TIMARU
-StreetDesc=26 Church St, Timaru/ Travel advice, maps, accommodation guide, drivers licencin
+StreetDesc=26 Church St, Timaru/ You can join the AA, arrange car, home & contents, life or
 Phone=+6436884189
-zip=Mon-Fri 9am-5pm except Tue 9.30am-5pm
+zip=Mon-Fri 8.30am-5pm except Tue 9.00am-5pm
 Data0=(-44.39684,171.25028)
 [END]
 
@@ -16153,7 +16153,7 @@ Data0=(-44.39684,171.25028)
 [POI]
 Type=0x2f0d
 Label=AA CENTRE - BLENHEIM
-StreetDesc=23 Maxwell Rd, Blenheim/ Travel advice, maps, accommodation guide, drivers licen
+StreetDesc=23 Maxwell Rd, Blenheim/ You can join the AA, arrange car, home & contents, life
 Phone=+6435783399
 zip=Mon-Fri 8.30am-5pm except Tue 9am-5pm
 Data0=(-41.51539,173.95527)
@@ -16163,17 +16163,17 @@ Data0=(-41.51539,173.95527)
 [POI]
 Type=0x2f0d
 Label=AA CENTRE - NELSON
-StreetDesc=45 Halifax St, Nelson/ Travel advice, maps, accommodation guide, drivers licenci
+StreetDesc=45 Halifax St, Nelson/ You can join the AA, arrange car, home & contents, life o
 Phone=+6435488339
-zip=Mon-Fri 8.30am-5pm except Tue 9-5pm
+zip=Mon-Fri 8.30am-5pm except Tue 9am-5pm
 Data0=(-41.27064,173.28566)
 [END]
 
 ;1056987
 [POI]
 Type=0x2f0d
-Label=AA CENTRE RICCARTON
-StreetDesc=126 Riccarton Rd, Riccarton, Chc/ Travel advice, maps, accommodation guide, driv
+Label=AA CENTRE - RICCARTON
+StreetDesc=126 Riccarton Rd, Riccarton, Chc/ You can join the AA, arrange car, home & conte
 Phone=+6439645530
 zip=Mon-Fri 8.30am-5pm except Tue 9am-5pm, S
 Data0=(-43.52976,172.59838)
@@ -16183,7 +16183,7 @@ Data0=(-43.52976,172.59838)
 [POI]
 Type=0x2f0d
 Label=AA CENTRE - OAMARU
-StreetDesc=273 Thames St, Oamaru/ Travel advice, maps, accommodation guide, drivers licenci
+StreetDesc=273 Thames St, Oamaru/ You can join the AA, arrange car, home & contents, life o
 Phone=+6434331047
 zip=Mon-Fri 8.30am-5pm except Tue 9am-5pm
 Data0=(-45.09345,170.97347)
@@ -36476,11 +36476,11 @@ Data0=(-45.87944,170.50474)
 ;1098899
 [POI]
 Type=0x2e
-Label=PLASTIC BOX INVERCARGILL
-StreetDesc=64 Spey St, Invercargill/ Container and storage solutions
+Label=STORAGE BOX INVERCARGILL
+StreetDesc=12 Don St, Invercargill/ Container and storage solutions
 Phone=+6432186869
-zip=Mon 9.00-5.30 Tue 9.00-5.30 Wed 9.00-5.3
-Data0=(-46.40955,168.34581)
+zip=Mon-Fri 9am-5.30pm, Sat 10am-4pm Sun 11a
+Data0=(-46.41061,168.34800)
 [END]
 
 ;1098911
@@ -42905,8 +42905,8 @@ Data0=(-43.52086,172.56855)
 ;1103237
 [POI]
 Type=0x2c05
-Label=CCEL
-StreetDesc=University of Canterbury Campus, Solway Ave, Ilam, Chc/ College of English. Engl
+Label=CHRISTCHURCH COLLEGE OF ENGLISH LTD
+StreetDesc=University of Canterbury Campus, Solway Ave, Ilam, Chc/ The Christchurch College
 Phone=+6433433790
 Data0=(-43.52230,172.56720)
 [END]
@@ -87165,15 +87165,6 @@ Label=WEST MELTON AERODROME
 StreetDesc=/ NZWL
 zip=Non-certificated
 Data0=(-43.47667,172.39667)
-[END]
-
-;1123534
-[POI]
-Type=0x2f04
-Label=WIGRAM AERODROME
-StreetDesc=/ NZWG
-zip=Non-certificated
-Data0=(-43.55111,172.55278)
 [END]
 
 ;1123551
@@ -135646,7 +135637,7 @@ Label=MOA BREWING COMPANY
 StreetDesc=Jacksons Rd, Blenheim, Marlborough/ Brewery, beer tastings, cellar door
 Phone=+6435725146
 zip=7 days 11am-5pm
-Data0=(-41.48855,173.87540)
+Data0=(-41.48737,173.88144)
 [END]
 
 ;1148051
@@ -177251,40 +177242,40 @@ Data0=(-43.30413,172.59114)
 [POI]
 Type=0x2f0d
 Label=AA CENTRE - DUNEDIN
-StreetDesc=450 Moray Place, Dud/ Travel advice, maps, accommodation guide, drivers licencin
+StreetDesc=450 Moray Place, Dud/ You can join the AA, arrange car, home & contents, life or
 Phone=+6434775945
-zip=Mon-Fri 8.30am-5pm except Tue 9-5pm
-Data0=(-45.87539,170.50407)
+zip=Mon-Fri 8.30am-5pm except Tue 9am-5pm
+Data0=(-45.87543,170.50410)
 [END]
 
 ;1172301
 [POI]
 Type=0x2f0d
 Label=AA CENTRE - RANGIORA
-StreetDesc=128 High St, Rangiora/ Travel advice, maps, accommodation guide, drivers licenci
+StreetDesc=358 Flaxton Rd, Rangiora/ You can join the AA, arrange car, home & contents, lif
 Phone=+6433136944
-zip=Mon-Fri 8.30am-5pm except Tue 9-5pm
-Data0=(-43.30333,172.59469)
+zip=Mon-Fri 8.30am-5pm except Tue 9am-5pm
+Data0=(-43.32782,172.59962)
 [END]
 
 ;1172303
 [POI]
 Type=0x2f0d
 Label=AA CENTRE - SHIRLEY
-StreetDesc=205 Hills Rd, Shirley, Chc/ Travel advice, maps, accommodation guide, drivers li
+StreetDesc=205 Hills Rd, Shirley, Chc/ You can join the AA, arrange car, home & contents, l
 Phone=+6433861090
 zip=Mon-Fri 8.30am-5pm except Tue 9am-5pm, S
-Data0=(-43.50881,172.65141)
+Data0=(-43.50866,172.65147)
 [END]
 
 ;1172304
 [POI]
 Type=0x2f0d
 Label=AA CENTRE - SYDENHAM
-StreetDesc=Cnr Brougham & Buchan Streets, Sydenham, Chc/ Travel advice, maps, accommodation
-Phone=+6433630777
+StreetDesc=12 Buchan Streets, Sydenham, Chc/ You can join the AA, arrange car, home & conte
+Phone=+6439645570
 zip=Mon-Fri 8.30am-5pm except Tue 9-5pm
-Data0=(-43.54724,172.63846)
+Data0=(-43.54713,172.63862)
 [END]
 
 ;1172321
@@ -203355,7 +203346,7 @@ Data0=(-43.53644,172.59731)
 [POI]
 Type=0x2f
 Label=PARTY SHOP
-StreetDesc=133 Blenheim Rd, Chc/ Party supplies online store
+StreetDesc=133 Blenheim Rd, Chc/ Party supplies, party decorations and party themes galore!
 Phone=+6433778244
 Data0=(-43.53764,172.59891)
 [END]
@@ -204895,11 +204886,11 @@ Data0=(-45.85893,170.22774)
 ;1192956
 [POI]
 Type=0x2f
-Label=?DAN'S MOWING
-StreetDesc=Chc/ Lawn Mowing Services Christchurch Wide Free Quote
+Label=DAN'S MOWING
+StreetDesc=17 Riselaw St, Mairehau, 8013 Chc/ Lawn Mowing Services Christchurch Wide Free Q
 Phone=0800002447
 zip=8am-8pm, 7 days
-Data0=(-43.53205,172.63622)
+Data0=(-43.50648,172.65323)
 [END]
 
 ;1192958
@@ -205179,7 +205170,7 @@ Data0=(-43.90477,171.74542)
 ;1193089
 [POI]
 Type=0x2f
-Label=STORMY'S MAN CAVE
+Label=STORMY'S MAN CAVE - BARBER
 StreetDesc=221-223 Trafalgar St Nelson 7010/ Barber Shop
 Phone=+02733787
 zip=Weekdays 10am-5pm. Sat. 10am-2pm
@@ -205294,5 +205285,32 @@ StreetDesc=L 1, Phoenix Arcade,39 Montgomery Sq, Nelson/ Corporate Travel Agent,
 Phone=+6435463904
 zip=24/7
 Data0=(-41.27299,173.28197)
+[END]
+
+;1193175
+[POI]
+Type=0x2F02
+Label=?SUNRISE HOLIDAYS CAMPERVAN HIRE
+StreetDesc=PO Box 2266, Stoke, Nelson/ Enjoy NZ at your pace in a Sunrise Holidays Camperva
+Phone=+6435470015
+Data0=(-41.31829,173.22706)
+[END]
+
+;1193177
+[POI]
+Type=0x2f
+Label=ACE CARPET SERVICE
+StreetDesc=39 Chain Hills Rd Dud 9076 New Zealand/ Enhance the look & life of your carpets.
+Phone=+6434890453
+Data0=(-45.89539,170.36940)
+[END]
+
+;1193181
+[POI]
+Type=0x2f
+Label=EUROPICA TILES
+StreetDesc=45 Mandeville St Riccarton , Chc 8011 New Zealand/ Ceramic, porcelain and natura
+Phone=+6433483766
+Data0=(-43.53447,172.60646)
 [END]
 

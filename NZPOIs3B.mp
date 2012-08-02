@@ -31616,10 +31616,11 @@ Data0=(-43.54264,172.59578)
 ;1094707
 [POI]
 Type=0x2f
-Label=DOWNIE STEWART
-StreetDesc=L 8 John Wickliffe House, 265 Princes St, Dud/ Lawyers
+Label=DOWNIE STEWART LAWYERS DUNEDIN
+StreetDesc=8/265 Princes St Dud 9016/ relationship-property-lawyers-dunedin
 Phone=+6434772262
-Data0=(-45.87801,170.50176)
+zip=8:30 am - 5:00 pm
+Data0=(-45.87804,170.50178)
 [END]
 
 ;1094713
@@ -46544,10 +46545,10 @@ Data0=(-45.87662,170.51202)
 ;1105390
 [POI]
 Type=0x2b01
-Label=FARRYS MOTEL / APARTMENTS
-StreetDesc=575 George St, Dud/ Affordable, quality accommodation from studio to 1, 2 and 3 
+Label=FARRYS MOTEL APARTMENTS
+StreetDesc=575 George St, Dud, 9016/ Affordable, quality accommodation from studio to 1, 2 
 Phone=+6434779333
-Data0=(-45.86463,170.50863)
+Data0=(-45.86463,170.50870)
 [END]
 
 ;1105408
@@ -60850,9 +60851,10 @@ Data0=(-46.41063,168.35166)
 [POI]
 Type=0x2f
 Label=SPORT TASMAN
-StreetDesc=134 Rutherford St, Nelson/ 
+StreetDesc=142 Saxton Raod East, Stoke, Nelson 7011/ Regional Sports Trust
 Phone=+6435467910
-Data0=(-41.27549,173.28054)
+zip=Monday - Friday 8.30am - 5pm Closed Publ
+Data0=(-41.32903,173.22049)
 [END]
 
 ;1113743
@@ -62220,8 +62222,9 @@ Data0=(-43.53934,172.56074)
 [POI]
 Type=0x2f
 Label=THE COLLECTION COMPANY
-StreetDesc=52B Mandeville St, Riccarton, Chc/ 
+StreetDesc=63A Cashmere Rd, Cashmere, Chc/ 
 Phone=+6433773475
+zip=9-5 Monday - Friday
 Data0=(-43.53405,172.60701)
 [END]
 
@@ -77973,7 +77976,7 @@ Data0=(-41.26614,173.27454)
 ;1120197
 [POI]
 Type=0x2e
-Label=ADDINGTON SECONDHAND BOOKS
+Label=ADDINGTON BOOKS
 StreetDesc=261 Lincoln Rd, Addington, Chc/ Secondhand Bookshop, Second Hand Books
 Phone=+6433383144
 Data0=(-43.54436,172.61019)
@@ -79244,9 +79247,9 @@ Data0=(-44.17869,171.11729)
 [POI]
 Type=0x2f
 Label=NORGREN CHRISTCHURCH
-StreetDesc=230 Antigua St, Chc/ Pneumatic / Compressed Air Equipment
-Phone=+33652305
-Data0=(-43.53740,172.62804)
+StreetDesc=11f Parkhouse Rd, Wigram, Chc/ Pneumatic / Compressed Air Equipment
+Phone=+6433652305
+Data0=(-43.54659,172.56346)
 [END]
 
 ;1120822
@@ -132018,10 +132021,10 @@ Data0=(-43.42998,172.70387)
 ;1146809
 [POI]
 Type=0x2a0e
-Label=HILLYERS AT SOCKBURN
-StreetDesc=11E Parkhouse Rd, Chc/ Cafe, Good Coffee, Great Food.
+Label=HILLYER'S AT SOCKBURN
+StreetDesc=11E Parkhouse Rd, Chc/ Cafe, Bakery, Good Coffee, Great Food.
 Phone=+6433488909
-Data0=(-43.54659,172.56351)
+Data0=(-43.54651,172.56376)
 [END]
 
 ;1146810
@@ -183502,10 +183505,10 @@ Data0=(-41.32750,173.21694)
 ;1174270
 [POI]
 Type=0x2c08
-Label=SAXTON FIELD SPORTS STADIUM
-StreetDesc=Saxton Rd East/ Sports Stadium Nelson, Saxton Sports Stadium
+Label=SAXTON STADIUM
+StreetDesc=142 Saxton Raod East, Stoke, Nelson 7011/ Sports Stadium Nelson, Saxton Sports S
 Phone=+6435380072
-Data0=(-41.32826,173.21770)
+Data0=(-41.32903,173.22049)
 [END]
 
 ;1174272
@@ -201127,8 +201130,8 @@ Data0=(-45.90333,170.42298)
 ;1190495
 [POI]
 Type=0x2e
-Label=GARDEN CITY FLORIST, CHRISTCHURCH FLORIST, WEDDING FLOWERS CHRISTCHURCH
-StreetDesc=338 Riccarton Rd, Chc/ Christchurch Florist, beautiful flowers, Bouquets,gift ba
+Label=CHRISTCHURCH FLORIST, GARDEN CITY FLORIST CHRISTCHURCH,
+StreetDesc=338 Riccarton Rd, Chc/ Christchurch Florist, Flower delivery, send flowers, Bouq
 Phone=+6433410002
 Data0=(-43.53141,172.57611)
 [END]
@@ -205312,5 +205315,120 @@ Label=EUROPICA TILES
 StreetDesc=45 Mandeville St Riccarton , Chc 8011 New Zealand/ Ceramic, porcelain and natura
 Phone=+6433483766
 Data0=(-43.53447,172.60646)
+[END]
+
+;1193200
+[POI]
+Type=0x2f
+Label=ILAM ORTHODONTICS
+StreetDesc=3 Clyde Rd, Riccarton, Chc/ Specialist Orthodontists using clear braces and Invi
+Phone=+6439620288
+zip=8.00am-5.00pm
+Data0=(-43.53042,172.58640)
+[END]
+
+;1193206
+[POI]
+Type=0x2f
+Label=RICHMOND RECREATION CENTRE
+StreetDesc=9 Cambridge St, Richmond, Nelson 7050/ Excersise classes, Holiday Programme, Aft
+Phone=+6435443955
+zip=Monday - Friday 9am - 5.30pm Closed Publ
+Data0=(-41.33906,173.18336)
+[END]
+
+;1193212
+[POI]
+Type=0x2c05
+Label=PLATINUM PROPERTIES
+StreetDesc=44B Filleul St Dud 9016 New Zealand/ Expert property management in Dunedin to ca
+Phone=+6434777270
+zip=Mon- Fri 8.30am - 5.00pm or by appointme
+Data0=(-45.87060,170.50365)
+[END]
+
+;1193220
+[POI]
+Type=0x2d02
+Label=REVIVAL CONTAINER BAR
+StreetDesc=92-96 Victoria St, Chc/ Bar, pub, live music, salon, DJs, cocktails
+zip=3pm till midnight Sun-Wed, 3pm till 3am 
+Data0=(-43.52354,172.63015)
+[END]
+
+;1193230
+[POI]
+Type=0x2f
+Label=GILLIES PHOTOGRAPHY
+StreetDesc=49 Glenbrook Dr Dud 9024 New Zealand/ Professional photographers based in Dunedi
+Phone=+6434847433
+zip=8.30am - 6.00pm Monday to Friday or by a
+Data0=(-45.87249,170.36473)
+[END]
+
+;1193232
+[POI]
+Type=0x2f
+Label=JENNY BECK LAW
+StreetDesc=L 3, 480 Moray Place, Dud/ Dunedin Laywers
+Phone=+6434790340
+zip=9am-5pm Mon-Fri
+Data0=(-45.87552,170.50334)
+[END]
+
+;1193233
+[POI]
+Type=0x2f
+Label=GREEVES MASONRY SERVICES
+StreetDesc=59 Kinmont Cres Dud 9024 New Zealand/ Highly experienced bricklayers in Dunedin.
+Phone=+6434895570
+zip=Monday - Friday 8.00am - 5.00pm
+Data0=(-45.89159,170.35143)
+[END]
+
+;1193238
+[POI]
+Type=0x2f
+Label=AR COMMERCIAL
+StreetDesc=5 Washington Way, Chc 8011/ Commercial real estate Christchurch, real estate age
+Phone=+6427437626
+Data0=(-43.54063,172.64412)
+[END]
+
+;1193239
+[POI]
+Type=0x2e
+Label=MODEHUS LTD
+StreetDesc=12/27 Waterman Pl, Woolston, Chc 8023/ lighting christchurch, lighting stores ch
+Phone=+6433847333
+Data0=(-43.55508,172.69746)
+[END]
+
+;1193247
+[POI]
+Type=0x2f
+Label=QUALITY PROPERTY MANAGEMENT
+StreetDesc=332 Blenheim Rd, Riccarton, Chc/ Quality Property Management Ltd is a locally ow
+Phone=+6433410985
+zip=8.30am - 5pm Monday-Friday
+Data0=(-43.53849,172.57953)
+[END]
+
+;1193252
+[POI]
+Type=0x2f
+Label=NIKI PASCO MAKEUP
+StreetDesc=5 Tillman Ave Strowan Chc 8052/ Niki Pasco - Professional makeup artist based in
+Phone=+6421024926
+Data0=(-43.50404,172.60441)
+[END]
+
+;1193259
+[POI]
+Type=0x2f
+Label=ASHWELL SEALING AND WATERPROOFING
+StreetDesc=127B LANGDONS Rd/ highly professional team of Applicators in *Waterproofing*Pane
+Phone=+6433543565
+Data0=(-43.49137,172.60074)
 [END]
 

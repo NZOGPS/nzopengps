@@ -51939,11 +51939,11 @@ Data0=(-45.87749,170.51119)
 ;1108660
 [POI]
 Type=0x2f
-Label=LINK ELECTROSYSTEMS LTD
-StreetDesc=243d Annex Rd Sockburn, Chc/ 
+Label=ELECTRONZ LTD
+StreetDesc=22 Mowbray St, Waltham, Chc 8023/ Link Engine Management Systems - plug-in & wir
 Phone=+6433488854
-zip=Mon-Fri 0830-1700
-Data0=(-43.54247,172.57988)
+zip=Mon-Fri 8.30am-5pm
+Data0=(-43.54429,172.64793)
 [END]
 
 ;1108684
@@ -105181,10 +105181,10 @@ Data0=(-46.11211,168.92845)
 [POI]
 Type=0x2f
 Label=FRENZI GROUP LTD (QUEENSTOWN)
-StreetDesc=Unit 54, 159 Gorge Rd, Queenstown/ Hospitality, Service, Functions, Loyalty
+StreetDesc=Unit 22, 193 Glenda Dr, Frankton, Queenstown/ Hospitality, Service, Functions, L
 Phone=+6434428781
 zip=09:00 - 17:30
-Data0=(-45.01962,168.66283)
+Data0=(-45.01305,168.75637)
 [END]
 
 ;1133479
@@ -140691,7 +140691,8 @@ Data0=(-43.63254,171.64683)
 [POI]
 Type=0x2d02
 Label=CENTRAL SOUTHLAND LODGE
-StreetDesc=232 Great North Rd, Winton, Southland/ 
+StreetDesc=232 Great North Rd, Winton, Southland/ Wintons Middle Pub - Hotel, Accommodation
+Phone=+6432368413
 Data0=(-46.14314,168.32509)
 [END]
 
@@ -148052,15 +148053,6 @@ StreetDesc=The Palms Shopping Ctr, Cnr Marshland & New Brighton Rds, Shirley, Ch
 Phone=+6433859647
 zip=Monday to Saturday 9am-6pm, Late Night T
 Data0=(-43.50654,172.66371)
-[END]
-
-;1157417
-[POI]
-Type=0x2d0a
-Label=LES MILLS FERRYMEAD
-StreetDesc=14 Settlers Cres, Ferrymead, Chc/ Gym, Fitness centre
-Phone=+6433840496
-Data0=(-43.55928,172.70509)
 [END]
 
 ;1157424
@@ -161754,8 +161746,8 @@ Data0=(-45.25120,169.38770)
 ;1164662
 [POI]
 Type=0x2f
-Label=EXPORT MEAT WAREHOUSE
-StreetDesc=305 Church St, Timaru/ Butcher
+Label=EXPORT MEAT WAREHOUSE TIMARU (FRASER PARK)
+StreetDesc=305 Church St, Fraser Park, Timaru/ Butcher
 Phone=+6436889338
 zip=Mon-Fri 7am-5pm, Sat 9am-1pm
 Data0=(-44.39582,171.22961)
@@ -165074,8 +165066,10 @@ Data0=(-45.87793,170.50148)
 ;1166342
 [POI]
 Type=0x2f
-Label=DENTAL ARTS LTD
+Label=MERIVALE DENTAL GROUP
 StreetDesc=184 Papanui Rd, Merivale, Chc/ Dentist
+Phone=+6433553888
+zip=Monday to Friday 8am - 5pm with late nig
 Data0=(-43.51256,172.62235)
 [END]
 
@@ -186717,9 +186711,10 @@ Data0=(-43.49843,172.60843)
 [POI]
 Type=0x2f03
 Label=AA AUTO SERVICE & REPAIR DUNEDIN
-StreetDesc=428 Andersons Bay Rd, Dud/ Automotive repairs, vehicle services, warrant of fitn
-Phone=+6434564488
-Data0=(-45.89467,170.50579)
+StreetDesc=61 Timaru St, Andersons Bay, Dud/ Automotive repairs, vehicle services, warrant 
+Phone=+6434555588
+zip=Mon-Fri 8am-5pm
+Data0=(-45.89641,170.51000)
 [END]
 
 ;1176551
@@ -190532,16 +190527,6 @@ Label=10 COTTAGES
 StreetDesc=6 Graham Place, Franz Josef, South Westland, West Coast./ Motel accommodation, i
 Phone=+6437520211
 Data0=(-43.38753,170.18451)
-[END]
-
-;1178471
-[POI]
-Type=0x2f
-Label=INFLAME FIRE UP | HEAT | EXCITE
-StreetDesc=18 Birmingham Dr, Middleton, Chc/ We are experts in natural flame home & lifesty
-Phone=+6433392375
-zip=Mon-Fri 9AM-5PM
-Data0=(-43.54387,172.59061)
 [END]
 
 ;1178484
@@ -201130,10 +201115,11 @@ Data0=(-45.90333,170.42298)
 ;1190495
 [POI]
 Type=0x2e
-Label=CHRISTCHURCH FLORIST, GARDEN CITY FLORIST CHRISTCHURCH,
-StreetDesc=338 Riccarton Rd, Chc/ Christchurch Florist, Flower delivery, send flowers, Bouq
+Label=GARDEN CITY FLORIST CHRISTCHRUCH| CHRISTCHRUCH FLORISTS| SEND FLOWERS CHRISTCHUR
+StreetDesc=338 Riccarton Rd,Chc, New Zealand/ Christchurch Florist, Flower delivery Christc
 Phone=+6433410002
-Data0=(-43.53141,172.57611)
+zip=see website
+Data0=(-43.53138,172.57604)
 [END]
 
 ;1190500
@@ -205389,7 +205375,7 @@ Data0=(-45.89159,170.35143)
 ;1193238
 [POI]
 Type=0x2f
-Label=AR COMMERCIAL
+Label=ALAN ROBERTSON LICENCED SALESPERSON REAA2008
 StreetDesc=5 Washington Way, Chc 8011/ Commercial real estate Christchurch, real estate age
 Phone=+6427437626
 Data0=(-43.54063,172.64412)
@@ -205430,5 +205416,43 @@ Label=ASHWELL SEALING AND WATERPROOFING
 StreetDesc=127B LANGDONS Rd/ highly professional team of Applicators in *Waterproofing*Pane
 Phone=+6433543565
 Data0=(-43.49137,172.60074)
+[END]
+
+;1193275
+[POI]
+Type=0x2f
+Label=MANGO LTD
+StreetDesc=104 Infinity Dr, Pegasus, Chc/ Mango is a cloud-computing software designed by i
+Phone=+39200059
+Data0=(-43.31333,172.68946)
+[END]
+
+;1193282
+[POI]
+Type=0x2f
+Label=?EXPORT MEAT WAREHOUSE TIMARU (PLEASANT POINT)
+StreetDesc=Main Rd, Pleasant Point, Timaru/ Butcher
+Phone=+6436147400
+Data0=(-44.26024,171.12809)
+[END]
+
+;1193295
+[POI]
+Type=0x2f
+Label=TIGER TINT NZ LIMITED
+StreetDesc=3/7 Nga Mahi Rd, Sockburn, Chc, 8042/ Window Tinting
+Phone=+6433481148
+zip=8.00am-5.00pm Monday to Friday. Sat by A
+Data0=(-43.53989,172.56015)
+[END]
+
+;1193298
+[POI]
+Type=0x2f
+Label=RICHARDS' ORCHARD FRUIT STALL
+StreetDesc=668 The Coastal Highway, Bronte 7173, New Zealand/ Heritage, Tree-Ripened, Apple
+Phone=+6427630808
+zip=Daily mid-January to early September
+Data0=(-41.26755,173.07199)
 [END]
 

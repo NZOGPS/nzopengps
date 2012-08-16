@@ -10018,7 +10018,7 @@ Data0=(-43.49179,172.57281)
 ;1034552
 [POI]
 Type=0x2f01
-Label=SHELL CARLTON CORNER 24HR
+Label=Z CARLTON CORNER 24HR
 StreetDesc=1 Papanui Rd, Papanui/ Shell petrol station, Cupcakes, Z pies, Espresso coffee, 
 Phone=+6433559532
 zip=24hrs
@@ -11217,7 +11217,7 @@ Data0=(-43.51764,172.70130)
 ;1038689
 [POI]
 Type=0x2f01
-Label=MOBIL BEALEY AVE (CLOSED DUE TO EARTHQUAKE)
+Label=MOBIL BEALEY AVE
 StreetDesc=268-270 Bealey Ave, Chc/ Mobil petrol station, LPG, carwash
 Data0=(-43.52107,172.64520)
 [END]
@@ -13167,9 +13167,9 @@ Data0=(-43.53268,172.67463)
 [POI]
 Type=0x2f05
 Label=FENDALTON POSTSHOP
-StreetDesc=19-23 Memorial Ave, Fendalton, Chc/ post office, KiwiBank banking
+StreetDesc=19-23 Memorial Ave, Fendalton, Chc/ New Zealand Post office, KiwiBank banking
 Phone=+6433518203
-zip=Monday 8:30am-5:30pm, Tuesday 8:30am-5:3
+zip=Mon-Fri 8.30am5.30pm
 Data0=(-43.51824,172.58758)
 [END]
 
@@ -33185,7 +33185,7 @@ Data0=(-45.89462,170.49544)
 ;1096163
 [POI]
 Type=0x2e
-Label=HISHON LIGHTHOUSE
+Label=HISHON LIGHTING
 StreetDesc=169 Dee St, Invercargill/ lamps, lights, light fittings. Lighting design service
 Phone=+6432189669
 zip=Mon-Fri 8.30am-5.30pm, Sat 10am-1pm
@@ -42251,15 +42251,6 @@ Phone=+6433669172
 Data0=(-43.54267,172.63989)
 [END]
 
-;1102818
-[POI]
-Type=0x2f
-Label=CANTERBURY TRANSPORT SPARES
-StreetDesc=129 Waterloo Rd, Hornby, Chc/ 
-Phone=+6433499202
-Data0=(-43.53850,172.53332)
-[END]
-
 ;1102819
 [POI]
 Type=0x2f
@@ -48398,8 +48389,8 @@ Data0=(-45.10095,170.93829)
 ;1106387
 [POI]
 Type=0x2f
-Label=GREEN FERN BREWERY
-StreetDesc=10 Lyndhurst St, Westport/ 
+Label=WEST COAST BREWERY
+StreetDesc=10 Lyndhurst St, Westport/ Green Fern Brewery
 Phone=+6437896253
 Data0=(-41.75351,171.59898)
 [END]
@@ -55803,7 +55794,7 @@ Data0=(-43.54252,172.59468)
 ;1110938
 [POI]
 Type=0x2f
-Label=OPZEELAND TRANSPORT (HORNBY) LTD
+Label=OPZEELAND TRANSPORT (HORNBY) LTD - CHRISTCHURCH BRANCH
 StreetDesc=12 Mount View Place, Hornby, Chc/ Transport Operators
 Phone=+6433496119
 Data0=(-43.55417,172.51638)
@@ -100683,9 +100674,11 @@ Data0=(-43.55054,172.63694)
 ;1131858
 [POI]
 Type=0x2f
-Label=SAFARI MEATS LIMITED
-StreetDesc=235A Linwood Ave, Chc/ 
-Data0=(-43.53311,172.67285)
+Label=SAFARI MEATS AND SA SHOP
+StreetDesc=100 Carmen Rd, Hornby, Chc/ Safari meats and SA shop specializes in non-organic 
+Phone=+6433897703
+zip=Mon-Fri 9am-5.30pm, Sat 9am-2pm
+Data0=(-43.53530,172.53006)
 [END]
 
 ;1131859
@@ -102676,9 +102669,10 @@ Data0=(-43.52339,172.63004)
 ;1132126
 [POI]
 Type=0x2f
-Label=THE OLDE BREWERY INN
-StreetDesc=284 Kilmore St, Chc/ 
-Data0=(-43.52669,172.64964)
+Label=POMEROY'S OLD BREWERY INN
+StreetDesc=292 Kilmore St, Chc/ 
+Phone=+6433651523
+Data0=(-43.52669,172.64975)
 [END]
 
 ;1132127
@@ -110085,6 +110079,7 @@ Data0=(-41.29962,173.22514)
 Type=0x2f
 Label=NELSON BAYS BREWERY
 StreetDesc=89 Pascoe St, Nelson/ 
+Phone=+6435478097
 Data0=(-41.29547,173.24119)
 [END]
 
@@ -132603,6 +132598,7 @@ Data0=(-43.57270,172.61436)
 Type=0x2f
 Label=MATSON'S BREWERY LIMITED
 StreetDesc=6 Tenahaun Place, Chc/ 
+Phone=+6433413229
 Data0=(-43.54330,172.56868)
 [END]
 
@@ -151573,9 +151569,10 @@ Data0=(-45.05392,169.20357)
 
 ;1159036
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=CORONET PEAK HOTEL
-StreetDesc=161 Arthurs Point Rd, Queenstown/ Accommodation
+StreetDesc=161 Arthurs Point Rd, Queenstown/ Budget hotel accommodation
+Phone=+6434427850
 Data0=(-44.97996,168.68551)
 [END]
 
@@ -161569,9 +161566,10 @@ Data0=(-43.06837,172.60378)
 ;1164443
 [POI]
 Type=0x2b00
-Label=CLYDESTAY B&B
-StreetDesc=23 Pyke St, Clyde/ Accommodation
-Data0=(-45.19197,169.31851)
+Label=CLYDESTAY ACCOMODATION
+StreetDesc=600 Dunstan Rd Clyde/ Accommodation
+Phone=+6434493349
+Data0=(-45.20308,169.35620)
 [END]
 
 ;1164446
@@ -182356,7 +182354,7 @@ Data0=(-43.54629,172.55822)
 ;1173763
 [POI]
 Type=0x2f
-Label=X STREAM FISHING
+Label=CLEARWATER FISHING
 StreetDesc=O'Regans Wharf, Beach St, Queenstown Bay (opposite Crown Plaza hotel)/ Lake boat
 Phone=+6421062256
 zip=Departures on request
@@ -186806,7 +186804,8 @@ Data0=(-43.63348,171.64836)
 [POI]
 Type=0x2b00
 Label=CHRISTCHURCH ACCOMMODATION
-StreetDesc=66 Armagh St, Chc/ Apartment accommodation
+StreetDesc=66 Armagh St, Chc/ We specialise in providing quality Christchurch City central 
+Phone=+6433723408
 Data0=(-43.52916,172.63200)
 [END]
 
@@ -188387,15 +188386,6 @@ StreetDesc=Departs from outside Gibby's Cafe - 194 Palmerston St Westport 7825, 
 Phone=+6437898749
 zip=8 am to 8 pm 7 days
 Data0=(-41.75532,171.59841)
-[END]
-
-;1177293
-[POI]
-Type=0x2e
-Label=EXCLUSIVE SUIT HIRE QUEENSTOWN
-StreetDesc=7 Duke St, Queenstown/ Suit Hire, Weddings, Corporate & Formal Events, School Ba
-Phone=+6434411178
-Data0=(-45.03097,168.65954)
 [END]
 
 ;1177301
@@ -195295,7 +195285,7 @@ Data0=(-41.53053,174.01221)
 ;1181194
 [POI]
 Type=0x2f
-Label=THE OLD BANK
+Label=THE OLD BANK TAVERN
 StreetDesc=81 Cleghorn St, Blenheim/ 
 Data0=(-41.53038,173.95516)
 [END]
@@ -205454,5 +205444,106 @@ StreetDesc=668 The Coastal Highway, Bronte 7173, New Zealand/ Heritage, Tree-Rip
 Phone=+6427630808
 zip=Daily mid-January to early September
 Data0=(-41.26755,173.07199)
+[END]
+
+;1193310
+[POI]
+Type=0x2f
+Label=HEARING TECHNOLOGY
+StreetDesc=29 Marshland Rd , Shirley , Chc 8064/ Hearing Technology offers a complete range
+Phone=+6433860388
+Data0=(-43.50543,172.66225)
+[END]
+
+;1193311
+[POI]
+Type=0x2f
+Label=HEARING TECHNOLOGY TIMARU
+StreetDesc=159 Stafford St , Timaru 7910/ Hearing Technology's Free Hearing Check includes 
+Phone=+6436888934
+Data0=(-44.39649,171.25437)
+[END]
+
+;1193331
+[POI]
+Type=0x2f
+Label=TOPP REALTORS
+StreetDesc=Shop B, 135 Farrington Ave Bishopdale, Chc 8053/ Welcome to the company, and its
+Phone=+6433595595
+Data0=(-43.48941,172.58792)
+[END]
+
+;1193339
+[POI]
+Type=0x2f
+Label=SKI SHACK
+StreetDesc=Fairlie/ Ski Hire, Ski
+Phone=+6436858088
+Data0=(-44.09796,170.82948)
+[END]
+
+;1193341
+[POI]
+Type=0x2f
+Label=GOLDEN BEAR BREWING
+StreetDesc=12 Aranui Rd, Mapua/ 
+Phone=+6435403210
+Data0=(-41.25626,173.10091)
+[END]
+
+;1193342
+[POI]
+Type=0x2f
+Label=THE FREE HOUSE
+StreetDesc=95 Collingwood St, Nelson/ Dead Good Beers
+Phone=+6435489391
+zip=Mon-Fri from 4pm, Sat-Sun from Noon
+Data0=(-41.27328,173.28712)
+[END]
+
+;1193361
+[POI]
+Type=0x2f
+Label=TAX REFUND NZ
+StreetDesc=105 Trafalgar St, Nelson/ tax refund, taxrefunds, tax returns, tax agents, tax p
+Phone=0800672878
+zip=8am - 5pm
+Data0=(-41.27124,173.28419)
+[END]
+
+;1193364
+[POI]
+Type=0x2f
+Label=CANTERBURY TRANSPORT SPARES LTD
+StreetDesc=129 Waterloo Rd, Hornby, Chc/ Transport Parts
+Phone=+6433491970
+Data0=(-43.53851,172.53332)
+[END]
+
+;1193365
+[POI]
+Type=0x2F02
+Label=ABELL RENTALS
+StreetDesc=189 Blenheim Rd, Chc/ Car Hire, Van Rental, Truck Hire, Mini-Bus Rental, Motorbi
+Phone=+6433482002
+Data0=(-43.53848,172.59178)
+[END]
+
+;1193370
+[POI]
+Type=0x2f
+Label=KIWI BOX LTD
+StreetDesc=69 Chapmans Rd, Woolston, Chc/ If you are looking for cold storage options in th
+Phone=0800222906
+Data0=(-43.56257,172.68694)
+[END]
+
+;1193372
+[POI]
+Type=0x2f
+Label=SUB16
+StreetDesc=7 Mason St, Dud/ Sub 16 is an innovative Dunedin based company offering you the 
+Phone=0800478216
+Data0=(-45.87597,170.51092)
 [END]
 

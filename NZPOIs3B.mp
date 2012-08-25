@@ -94707,10 +94707,11 @@ Data0=(-43.53323,172.63754)
 
 ;1131052
 [POI]
-Type=0x2a
+Type=0x2f
 Label=CASHMERE CUISINE
-StreetDesc=18 Colombo St, Beckenham, Chc/ Cafe, Restaurant, Bar
-Phone=+6439827545
+StreetDesc=18 Colombo St, Cashmere 8022 , Chc/ Butcher, Deli, Wine Shop, Meat Shop Butchery
+Phone=+6433326071
+zip=Monday-Friday: 7.30am-6.00pm Saturday-Su
 Data0=(-43.56694,172.63573)
 [END]
 
@@ -138606,9 +138607,10 @@ Data0=(-45.77938,167.61466)
 
 ;1150907
 [POI]
-Type=0x2b00
+Type=0x2b03
 Label=MOSSBURN COUNTRY PARK
 StreetDesc=333 Mossburn Five Rivers Rd, RD 3, Lumsden/ Camping ground accommodation
+Phone=+6432486444
 Data0=(-45.65525,168.27025)
 [END]
 
@@ -156123,11 +156125,11 @@ Data0=(-44.70102,169.13396)
 
 ;1160668
 [POI]
-Type=0x2f
-Label=ATAWHAI BRIGHTSPARKS PRESCHOOL
-StreetDesc=12 Dodsons Valley Rd, Atawhai, Nelson/ 
+Type=0x2c05
+Label=ATAWHAI KIDS PRESCHOOL
+StreetDesc=8 Dodson Valley Rd, Atawhai, Nelson/ 
 Phone=+6435452233
-Data0=(-41.23706,173.31796)
+Data0=(-41.23718,173.31805)
 [END]
 
 ;1160669
@@ -173576,10 +173578,10 @@ Data0=(-43.55394,172.53430)
 [POI]
 Type=0x2f
 Label=GROSSMAN TRADE TOOLS
-StreetDesc=439 St Asaph St, Chc/ Electric power tools, trade tools, Powertool centre. Sales
-Phone=+6433650539
+StreetDesc=429 Tuam St, Chc/ Electric power tools, trade tools, Powertool centre. Sales & r
+Phone=+6433899230
 zip=Mon-Fri 8am-5pm
-Data0=(-43.53614,172.65323)
+Data0=(-43.53532,172.65653)
 [END]
 
 ;1170855
@@ -175759,6 +175761,16 @@ Label=RAKAIA HEALTH POST & PHOTO
 StreetDesc=Elizabeth Ave Rakaia/ Postal Services, Health, Pharmacy
 Phone=+6433027224
 Data0=(-43.75534,172.02153)
+[END]
+
+;1171640
+[POI]
+Type=0x2b03
+Label=RAKAIA RIVER HOLIDAY PARK
+StreetDesc=16 Main South Rd, Rakaia/ Holiday Accommodation, Holiday Parks & Camping Grounds
+Phone=+6433027257
+zip=7 days 8:30am-10pm
+Data0=(-43.75164,172.02901)
 [END]
 
 ;1171642
@@ -203919,9 +203931,10 @@ Data0=(-42.45055,171.20679)
 [POI]
 Type=0x2f
 Label=THE CHRISTCHURCH DOCTORS
-StreetDesc=912 Colombo St Chc/ Medical centre, Medical practice, GPs, Family Doctors, Gener
-zip=8-6 Mon, Wed Thurs, Fri. Late night Tues
-Data0=(-43.52136,172.63692)
+StreetDesc=912 Colombo St, Chc/ Medical centre, Medical practice, GPs, Family Doctors, Gene
+Phone=+6433663391
+zip=Mon-Fri 8am-6pm, Tue late night to 7pm
+Data0=(-43.52136,172.63681)
 [END]
 
 ;1192379
@@ -205545,5 +205558,30 @@ Label=SUB16
 StreetDesc=7 Mason St, Dud/ Sub 16 is an innovative Dunedin based company offering you the 
 Phone=0800478216
 Data0=(-45.87597,170.51092)
+[END]
+
+;1193384
+[POI]
+Type=0x2f
+Label=RICCARTON FREEMASONS
+StreetDesc=84 Totara St, Riccarton, Chc/ Riccarton Freemasons web site
+Data0=(-43.52744,172.59270)
+[END]
+
+;1193401
+[POI]
+Type=0x2f
+Label=?AIESEC CANTERBURY
+StreetDesc=University Dr Ilam 8041/ AIESEC Canterbury, AIESEC New Zealand, Leadership, Over
+Phone=+6433642752
+Data0=(-43.52565,172.58293)
+[END]
+
+;1193407
+[POI]
+Type=0x2f
+Label=COACH CORNER BOTTLE STORE
+StreetDesc=163 Yaldhurst Rd Sockburn Chc 8042/ Bottle store
+Data0=(-43.52654,172.55343)
 [END]
 

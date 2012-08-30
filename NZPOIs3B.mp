@@ -17866,9 +17866,10 @@ Data0=(-43.63056,171.64761)
 ;1062720
 [POI]
 Type=0x4c
-Label=MOTUEKA VISITOR INFORMATION CENTRE
+Label=MOTUEKA I-SITE VISITOR INFORMATION CENTRE
 StreetDesc=20 Wallace St, Motueka/ Visitor information. Abel Tasman Region i-SITE.
 Phone=+6435286543
+zip=Winter Hours: Mon - Fri 9am to 4.30pm, S
 Data0=(-41.11166,173.01233)
 [END]
 
@@ -40480,8 +40481,8 @@ Data0=(-43.53917,172.57239)
 ;1101806
 [POI]
 Type=0x2f
-Label=AWARD PLASTICS LTD
-StreetDesc=42 Wordsworth St, Sydenham, Chc/ 
+Label=AWARD PLASTICS & DISPLAYS
+StreetDesc=42 Wordsworth St, Sydenham, Chc/ Award Plastics & Displays is a manufacturer and
 Phone=+6433745500
 zip=Mon-Fri 0800-1700
 Data0=(-43.54487,172.63491)
@@ -45952,7 +45953,7 @@ Data0=(-45.87801,170.50176)
 [POI]
 Type=0x2f
 Label=EMERSON BREWING CO LTD
-StreetDesc=14 Wickliffe St, Dud/ Brewery shop
+StreetDesc=14 Wickliffe St, Dud/ Brewery shop (www.beertourist.co.nz 2010: Off Licence)
 Phone=+6434771812
 zip=■Monday - Wednesday: 9 am - 5 pm and Thu
 Data0=(-45.87164,170.51711)
@@ -47155,9 +47156,9 @@ Data0=(-43.54729,172.63917)
 
 ;1105742
 [POI]
-Type=0x2f
+Type=0x2d02
 Label=FOUNDERS BREWERY
-StreetDesc=87 Atawhai Dr, Nelson/ 
+StreetDesc=87 Atawhai Dr, Nelson/ (www.beertourist.co.nz 2010: Meals, Off Licence, Tours by
 Phone=+6435484638
 Data0=(-41.26155,173.29639)
 [END]
@@ -48816,7 +48817,7 @@ Data0=(-45.90199,170.43542)
 [POI]
 Type=0x2f
 Label=HARRINGTONS BREWERIES
-StreetDesc=199 Ferry Rd, Philipstown, Chc/ 
+StreetDesc=199 Ferry Rd, Philipstown, Chc/ (www.beertourist.co.nz 2010: Off Licence)
 Phone=+6433666323
 zip=Mon-Thu 9-8 Fri-Sat 9-9
 Data0=(-43.53918,172.65487)
@@ -62112,9 +62113,9 @@ Data0=(-43.53416,172.70150)
 [POI]
 Type=0x2c0a
 Label=TERRACE HEIGHTS ESTATE
-StreetDesc=279 West Coast Rd, Renwick, Blenheim/ Winery
+StreetDesc=113 Hammond Rd Renwick Blenheim/ Winery
 Phone=0800834337
-Data0=(-41.51505,173.80381)
+Data0=(-41.50564,173.80673)
 [END]
 
 ;1114508
@@ -66190,9 +66191,9 @@ Data0=(-41.15006,173.78168)
 ;1116623
 [POI]
 Type=0x2b03
-Label=?ONAMALUTU CAMPSITE (DOC)
+Label=ONAMALUTU DOMAIN & CAMPSITE (DOC)
 StreetDesc=Onamalutu Scenic Reserve - South Island > Marlborough > South Marlborough/ DOC c
-Data0=(-41.45853,173.70634)
+Data0=(-41.45861,173.70615)
 [END]
 
 ;1116625
@@ -87795,7 +87796,7 @@ Data0=(-45.87325,170.34703)
 [POI]
 Type=0x2d02
 Label=ALBAR
-StreetDesc=135 Stuart St, Dud/ Bar
+StreetDesc=135 Stuart St, Dud/ Bar (www.beertourist.co.nz 2010)
 Phone=+6434792468
 Data0=(-45.87460,170.50477)
 [END]
@@ -88765,7 +88766,8 @@ Data0=(-45.87529,170.50255)
 [POI]
 Type=0x2a0e
 Label=EUREKA BAR & CAFE
-StreetDesc=118 Albany St, Dud/ cafe, bar
+StreetDesc=118 Albany St, Dud/ cafe, bar (www.beertourist.co.nz 2010: Meals)
+Phone=+6434777977
 Data0=(-45.86805,170.51484)
 [END]
 
@@ -89074,7 +89076,7 @@ Data0=(-45.90187,170.42918)
 [POI]
 Type=0x2f
 Label=GREEN MAN BREWERY
-StreetDesc=9 Grange St, Dud/ 
+StreetDesc=9 Grange St, Dud/ (www.beertourist.co.nz 2010: Off Licence, Tours by appointment
 Phone=+6434777755
 Data0=(-45.87074,170.51150)
 [END]
@@ -94590,6 +94592,7 @@ Type=0x2a05
 Label=CANTERBURY CHEESEMONGERS
 StreetDesc=The Arts Ctr, Old Registry Blg, 301 Montreal St, Chc/ cheese, bakery, groceries
 Phone=+6433790075
+zip=Tue-Fri 9am-5pm (ish), Sat 10am-4pm (ish
 Data0=(-43.53142,172.63045)
 [END]
 
@@ -117130,7 +117133,7 @@ Data0=(-43.56758,172.75751)
 [POI]
 Type=0x2a0e
 Label=BREW MOON CAFE & BREWERY
-StreetDesc=150 Ashworths Rd, Amberley/ Cafe, Micro Brewery.
+StreetDesc=150 Ashworths Rd, Amberley/ Cafe, Micro Brewery. (www.beertourist.co.nz 2010: Me
 Phone=+6433148030
 Data0=(-43.17815,172.74397)
 [END]
@@ -120538,14 +120541,6 @@ StreetDesc=16 Lyndon St, Waiau/
 Data0=(-42.65601,173.04006)
 [END]
 
-;1141141
-[POI]
-Type=0x2a0e
-Label=BREW MOON GARDEN CAFE & BREWERY
-StreetDesc=150 Ashworths Rd, Amberley/ cafe
-Data0=(-43.17878,172.74289)
-[END]
-
 ;1141142
 [POI]
 Type=0x2f
@@ -122164,7 +122159,7 @@ Data0=(-46.10179,168.94364)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=39 Medway St O/S Eagle Motorcycles Gore/ Telecom, payphone, public phone box
+StreetDesc=39 Medway St, Gore/ Telecom, payphone, public phone box
 Phone=+6432085622
 Data0=(-46.09897,168.94820)
 [END]
@@ -161894,9 +161889,9 @@ Data0=(-45.04916,169.18656)
 [POI]
 Type=0x2f
 Label=PBT TRANSPORT/COURIERS DUNEDIN
-StreetDesc=56 Parry St, Dud/ Freight, Logistics, Transport, Couriers
-Phone=+6434745388
-Data0=(-45.87047,170.52278)
+StreetDesc=19 Strathallen St, Dud/ Freight, Logistics, Transport, Couriers
+Phone=+6434551468
+Data0=(-45.88815,170.50347)
 [END]
 
 ;1164707
@@ -200461,9 +200456,9 @@ Data0=(-43.51660,172.62477)
 [POI]
 Type=0x2f
 Label=MILES CONSTRUCTION
-StreetDesc=10 Stirling St, Merivale, Chc, New Zealand/ Registered Master Builder Christchur
-Phone=+6433557234
-Data0=(-43.51476,172.61566)
+StreetDesc=106 Coleridge St, Sydenham Chc 8023/ Registered Master Builder Christchurch, Bui
+Phone=+6433748000
+Data0=(-43.54595,172.64613)
 [END]
 
 ;1190058
@@ -205499,7 +205494,7 @@ Data0=(-44.09796,170.82948)
 [POI]
 Type=0x2f
 Label=GOLDEN BEAR BREWING
-StreetDesc=12 Aranui Rd, Mapua/ 
+StreetDesc=12 Aranui Rd, Mapua/ (www.beertourist.co.nz 2010: Meals)
 Phone=+6435403210
 Data0=(-41.25626,173.10091)
 [END]
@@ -205583,5 +205578,98 @@ Type=0x2f
 Label=COACH CORNER BOTTLE STORE
 StreetDesc=163 Yaldhurst Rd Sockburn Chc 8042/ Bottle store
 Data0=(-43.52654,172.55343)
+[END]
+
+;1193433
+[POI]
+Type=0x2f
+Label=MEDLICOTTS LAWYERS DUNEDIN
+StreetDesc=Queens Gardens Court 3 Crawford St Dud 9016 New Zealand/ Specialist family lawye
+Phone=+6434777401
+zip=9.00am - 5.00pm Mon -Fri
+Data0=(-45.87809,170.50337)
+[END]
+
+;1193441
+[POI]
+Type=0x2c04
+Label=TOTARA ESTATE
+StreetDesc=Alma-Maheno Rd (State Highway 1), Totara Centennial Park, TOTARA/ Historic Place
+Data0=(-45.12762,170.88073)
+[END]
+
+;1193464
+[POI]
+Type=0x2b00
+Label=BEACH ST ANIMOTELS
+StreetDesc=191 Beach St Waikouaiti Dud Otago 9510 New Zealand/ Treat your pet to a holiday 
+Phone=+6427221677
+zip=8.30am - 10.30am & 3.00pm - 6.00pm 7 Day
+Data0=(-45.61272,170.67277)
+[END]
+
+;1193466
+[POI]
+Type=0x2b00
+Label=RYLAND ESTATE 24HR
+StreetDesc=92 Pauls Rd, Blenheim, Marlborough/ B & B Marlborough
+Phone=+35728892
+zip=24 hours
+Data0=(-41.47540,173.83392)
+[END]
+
+;1193470
+[POI]
+Type=0x2f
+Label=CRAIG SCOULLAR ELECTRICAL
+StreetDesc=11 McNab St Kenmure Dud 9011 New Zealand/ Registered Electricians in Dunedin for
+Phone=+6434882097
+zip=8.00am - 5.00pm Mon - Fri
+Data0=(-45.88967,170.45962)
+[END]
+
+;1193471
+[POI]
+Type=0x2e
+Label=SHOOTERS WORLD
+StreetDesc=40 Medway St Gore/ Shooting, fishing, outdoors, guns, ammunition
+Phone=+6432087456
+Data0=(-46.09903,168.94722)
+[END]
+
+;1193472
+[POI]
+Type=0x2f
+Label=SOUTHERN WIDE REAL ESTATE
+StreetDesc=39a Medway St, Gore/ Real estate agents
+Phone=+6432089283
+Data0=(-46.09903,168.94714)
+[END]
+
+;1193479
+[POI]
+Type=0x2f
+Label=ARROW BREWING COMPANY
+StreetDesc=48/50 Buckingham St, Arrowtown 9302, New Zealand,/ Craft beer (www.beertourist.c
+Phone=+6434098849
+Data0=(-44.93865,168.83256)
+[END]
+
+;1193482
+[POI]
+Type=0x2d02
+Label=CASSELS & SONS BREWERY
+StreetDesc=3 Garlands Rd, Woolston, Chc/ (www.beertourist.co.nz 2010: Meals, Off Licence)
+Phone=+6433891894
+Data0=(-43.55681,172.68026)
+[END]
+
+;1193483
+[POI]
+Type=0x2d02
+Label=DARKROOM BAR
+StreetDesc=336 St Asaph St, Chc/ (www.beertourist.co.nz 2010: Meals)
+Phone=+6439742425
+Data0=(-43.53662,172.64797)
 [END]
 

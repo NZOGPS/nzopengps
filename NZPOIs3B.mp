@@ -24577,15 +24577,6 @@ Phone=+6433780150
 Data0=(-43.76012,172.30480)
 [END]
 
-;1081613
-[POI]
-Type=0x3001
-Label=NEW ZEALAND POLICE LINCOLN
-StreetDesc=30 Gerald St, Lincoln/ police
-Phone=+6433252800
-Data0=(-43.64047,172.48088)
-[END]
-
 ;1081634
 [POI]
 Type=0x3001
@@ -30009,9 +30000,9 @@ Data0=(-43.38150,172.65960)
 [POI]
 Type=0x2d
 Label=BLOCKBUSTER HORNBY
-StreetDesc=53 Chalmers St, Hornby, Chc/ video, dvd & game rental
+StreetDesc=21 Shands Rd, Hornby, Chc/ video, dvd & game rental
 Phone=+6433492250
-Data0=(-43.54258,172.52517)
+Data0=(-43.54556,172.52460)
 [END]
 
 ;1093751
@@ -48391,7 +48382,7 @@ Data0=(-45.10095,170.93829)
 [POI]
 Type=0x2f
 Label=WEST COAST BREWERY
-StreetDesc=10 Lyndhurst St, Westport/ Green Fern Brewery
+StreetDesc=10 Lyndhurst St, Westport/ Green Fern Brewery, (www.beertourist.co.nz 2010: Off 
 Phone=+6437896253
 Data0=(-41.75351,171.59898)
 [END]
@@ -50222,7 +50213,7 @@ Data0=(-42.52873,171.16001)
 [POI]
 Type=0x2f
 Label=INVERCARGILL BREWERY
-StreetDesc=8 Wood St, Invercargill/ 
+StreetDesc=8 Wood St, Invercargill/ (www.beertourist.co.nz 2010: Off Licence, Tours by appo
 Phone=+6432145070
 zip=Mon-Wed 1100am-0600pm, Thur-Sat 1100am-0
 Data0=(-46.41342,168.34620)
@@ -53315,7 +53306,7 @@ Data0=(-46.41171,168.35505)
 [POI]
 Type=0x2e
 Label=MEENAN WINES & SPIRITS LTD
-StreetDesc=750 Great King St North, Dud/ Beer, wine, liquor, spirits
+StreetDesc=750 Great King St North, Dud/ Beer, wine, liquor, spirits, (www.beertourist.co.n
 Phone=+6434772047
 Data0=(-45.85887,170.51370)
 [END]
@@ -54848,7 +54839,7 @@ Data0=(-43.52066,172.62666)
 [POI]
 Type=0x2f
 Label=NEW ZEALAND HOPS LTD
-StreetDesc=Blackbyre Rd, Appleby, Richmond, Nelson/ 
+StreetDesc=Blackbyre Rd, Appleby, Richmond, Nelson/ (www.beertourist.co.nz 2010: Tours by a
 Phone=+6435448989
 Data0=(-41.31867,173.13679)
 [END]
@@ -56884,15 +56875,6 @@ Label=PIMM & CO LTD
 StreetDesc=283 Bannockburn Rd, Bannockburn/ Accountants
 Phone=+6434450521
 Data0=(-45.07545,169.17146)
-[END]
-
-;1111577
-[POI]
-Type=0x2f
-Label=?PINK ELEPHANT BREWERY
-StreetDesc=Raupara Rd, Blenheim/ Specialist micro brewery
-Phone=+6435729467
-Data0=(-41.47572,173.88720)
 [END]
 
 ;1111584
@@ -75228,9 +75210,9 @@ Data0=(-40.67755,172.68243)
 [POI]
 Type=0x2a
 Label=THE MUSSEL INN
-StreetDesc=SH 60, Onekaka, Takaka/ Bar, restaurant, brewery, accommodation
+StreetDesc=SH 60, Onekaka, Takaka/ Bar, restaurant, brewery, accommodation, (www.beertouris
 Phone=+6435259241
-Data0=(-40.75933,172.70333)
+Data0=(-40.75910,172.70341)
 [END]
 
 ;1119405
@@ -89247,7 +89229,7 @@ Data0=(-45.86942,170.50596)
 [POI]
 Type=0x2d02
 Label=INCH BAR
-StreetDesc=8 Bank St, Dud/ bar
+StreetDesc=8 Bank St, Dud/ bar, (www.beertourist.co.nz 2010)
 Data0=(-45.85484,170.51842)
 [END]
 
@@ -89731,7 +89713,8 @@ Data0=(-45.85418,170.24379)
 [POI]
 Type=0x2f
 Label=MCDUFFS BREWERY LIMITED
-StreetDesc=695 Great King St, Dud/ 
+StreetDesc=695 Great King St, Dud/ (www.beertourist.co.nz 2010)
+Phone=+6434777276
 Data0=(-45.86717,170.50945)
 [END]
 
@@ -91323,9 +91306,10 @@ Data0=(-45.87071,170.50525)
 
 ;1128837
 [POI]
-Type=0x2f
+Type=0x2d02
 Label=TONIC
-StreetDesc=138 Princes St, Dud/ 
+StreetDesc=138 Princes St, Dud/ (www.beertourist.co.nz 2010)
+Phone=+6434719194
 Data0=(-45.87623,170.50222)
 [END]
 
@@ -102674,7 +102658,7 @@ Data0=(-43.52339,172.63004)
 [POI]
 Type=0x2f
 Label=POMEROY'S OLD BREWERY INN
-StreetDesc=292 Kilmore St, Chc/ 
+StreetDesc=292 Kilmore St, Chc/ (www.beertourist.co.nz 2010: Accomodation, Meals)
 Phone=+6433651523
 Data0=(-43.52669,172.64975)
 [END]
@@ -109953,7 +109937,8 @@ Data0=(-41.26214,173.29773)
 [POI]
 Type=0x2f
 Label=LIGHTHOUSE BREWERY
-StreetDesc=21 Echodale Place, Stoke, Nelson/ 
+StreetDesc=21 Echodale Place, Stoke, Nelson/ (www.beertourist.co.nz 2010: Off Licence, Tour
+Phone=+6435470983
 Data0=(-41.32047,173.21874)
 [END]
 
@@ -110082,7 +110067,7 @@ Data0=(-41.29962,173.22514)
 [POI]
 Type=0x2f
 Label=NELSON BAYS BREWERY
-StreetDesc=89 Pascoe St, Nelson/ 
+StreetDesc=89 Pascoe St, Nelson/ (www.beertourist.co.nz 2010: Off Licence, Tours by appoint
 Phone=+6435478097
 Data0=(-41.29547,173.24119)
 [END]
@@ -110441,7 +110426,7 @@ Data0=(-41.30784,173.23094)
 [POI]
 Type=0x2d02
 Label=THE SPRIG AND FERN TAVERN
-StreetDesc=134 Milton St, Nelson/ Bar, restaurant
+StreetDesc=134 Milton St, Nelson/ Bar, restaurant, (www.beertourist.co.nz 2010)
 Phone=+6435457117
 zip=7 days 10am-10pm
 Data0=(-41.26892,173.29452)
@@ -129871,8 +129856,10 @@ Data0=(-43.30303,172.59707)
 ;1144870
 [POI]
 Type=0x2f
-Label=SCOTTY'S WOODEND DINER
-StreetDesc=54 Main North Rd, SH 1 Woodend/ 
+Label=MONTY'S
+StreetDesc=54 Main North Rd, SH 1 Woodend/ Cafe takeaway/ pizza fish and chips
+Phone=+6433127546
+zip=8.30 am to late
 Data0=(-43.32284,172.66599)
 [END]
 
@@ -129904,7 +129891,8 @@ Data0=(-43.30603,172.59562)
 [POI]
 Type=0x2f
 Label=SOUTHERN GRAIN SPIRITS (NZ) LTD
-StreetDesc=9A Peraki St, Kaiapoi/ 
+StreetDesc=9A Peraki St, Kaiapoi/ Kaiapoi Distillery (www.beertourist.co.nz 2010: Off Licen
+Phone=+6433276389
 Data0=(-43.38704,172.65163)
 [END]
 
@@ -132593,7 +132581,7 @@ Data0=(-43.57270,172.61436)
 [POI]
 Type=0x2f
 Label=MATSON'S BREWERY LIMITED
-StreetDesc=6 Tenahaun Place, Chc/ 
+StreetDesc=6 Tenahaun Place, Chc/ (www.beertourist.co.nz 2010)
 Phone=+6433413229
 Data0=(-43.54330,172.56868)
 [END]
@@ -134297,7 +134285,7 @@ Data0=(-43.49585,172.65440)
 [POI]
 Type=0x2f
 Label=WIGRAM BREWING COMPANY
-StreetDesc=Unit 1, 34 Sonter Rd, Wigram, Chc/ Brewery
+StreetDesc=Unit 1, 34 Sonter Rd, Wigram, Chc/ Brewery, (www.beertourist.co.nz 2010)
 Phone=+6433434493
 Data0=(-43.54843,172.56768)
 [END]
@@ -135629,7 +135617,7 @@ Data0=(-40.52599,172.73333)
 [POI]
 Type=0x2f
 Label=MOA BREWING COMPANY
-StreetDesc=Jacksons Rd, Blenheim, Marlborough/ Brewery, beer tastings, cellar door
+StreetDesc=Jacksons Rd, Blenheim, Marlborough/ Brewery, beer tastings, cellar door, (www.be
 Phone=+6435725146
 zip=7 days 11am-5pm
 Data0=(-41.48737,173.88144)
@@ -174227,7 +174215,7 @@ Data0=(-41.49447,173.82138)
 [POI]
 Type=0x2a
 Label=YE OLDE MALTHOUSE
-StreetDesc=1 Dodson St, Blenheim/ Bar, restaurant, pizza
+StreetDesc=1 Dodson St, Blenheim/ Bar, restaurant, pizza, (www.beertourist.co.nz 2010: Meal
 Phone=+6435778348
 zip=Monday closed, Tue-Fri 11am-late, Sat-Su
 Data0=(-41.50160,173.95923)
@@ -177376,7 +177364,7 @@ Data0=(-40.76543,172.56317)
 [POI]
 Type=0x2a
 Label=THE SPRIG AND FERN TAVERN
-StreetDesc=126 Queen St, Richmond, Nelson/ Bar, restaurant
+StreetDesc=126 Queen St, Richmond, Nelson/ Bar, restaurant, (www.beertourist.co.nz 2010)
 Phone=+6435444900
 zip=7 days
 Data0=(-41.34626,173.19274)
@@ -177386,7 +177374,7 @@ Data0=(-41.34626,173.19274)
 [POI]
 Type=0x2a
 Label=THE SPRIG AND FERN TAVERN
-StreetDesc=280 Hardy St, Nelson/ Bar, restaurant
+StreetDesc=280 Hardy St, Nelson/ Bar, restaurant, (www.beertourist.co.nz 2010)
 Phone=+6435481154
 zip=Mon-Fri 2pm-late, Sat-Sun 10am-late
 Data0=(-41.27451,173.28648)
@@ -186270,7 +186258,7 @@ Data0=(-43.56141,172.61561)
 [POI]
 Type=0x2e
 Label=BIG ORANGE DVDS, BOOKS, & MUSIC
-StreetDesc=209 King Edward St,South Dud 9012./ Buy,Sell or Exchange Movies and Music DVDS,C
+StreetDesc=209 King Edward St, South Dud 9012./ Buy, Sell or Exchange Movies and Music DVDS
 Phone=+6434563923
 zip=About 10 am to 4.30 pm
 Data0=(-45.89500,170.49952)
@@ -192554,7 +192542,7 @@ Data0=(-43.53370,172.52155)
 [POI]
 Type=0x2f
 Label=MCCASHIN'S BREWERY
-StreetDesc=660 Main Rd, Stoke/ Brewery tours, beer, wine, cider, spirits, water
+StreetDesc=660 Main Rd, Stoke/ Brewery tours, beer, wine, cider, spirits, water, (www.beert
 Phone=+6435475357
 Data0=(-41.31860,173.22603)
 [END]
@@ -193949,7 +193937,7 @@ Data0=(-45.87865,170.50422)
 [POI]
 Type=0x2f
 Label=MONKEY WIZARD BREWERY
-StreetDesc=483 Main Rd, Riwaka/ Ales, Pilsners, Ciders
+StreetDesc=483 Main Rd, Riwaka/ Ales, Pilsners, Ciders, (www.beertourist.co.nz 2010: Off Li
 Phone=+6427677726
 zip=Summer: 10-6pm every day, Winter: 12-6pm
 Data0=(-41.07998,172.99713)
@@ -195291,9 +195279,9 @@ Data0=(-41.53053,174.01221)
 
 ;1181194
 [POI]
-Type=0x2f
+Type=0x2d02
 Label=THE OLD BANK TAVERN
-StreetDesc=81 Cleghorn St, Blenheim/ 
+StreetDesc=81 Cleghorn St, Blenheim/ (www.beertourist.co.nz 2010: Meals)
 Data0=(-41.53038,173.95516)
 [END]
 
@@ -195493,7 +195481,7 @@ Data0=(-41.51487,173.95515)
 [POI]
 Type=0x2d02
 Label=SCOTCH WINE BAR & BISTRO
-StreetDesc=4 George St, Blenheim/ Restaurant Wine Bar
+StreetDesc=4 George St, Blenheim/ Restaurant Wine Bar, (www.beertourist.co.nz 2010: Meals)
 Phone=+6435791176
 zip=Mon - Sat from 5pm
 Data0=(-41.51435,173.95585)
@@ -195901,14 +195889,6 @@ Label=ROCCO'S ITALIAN RESTAURANT
 StreetDesc=5 Dodson St, Blenheim/ Restaurant
 Phone=+6435786940
 Data0=(-41.50189,173.96003)
-[END]
-
-;1181269
-[POI]
-Type=0x2f
-Label=YE OLDE MALTHOUSE LIMITED
-StreetDesc=1 Dodson St, Blenheim/ 
-Data0=(-41.50174,173.95964)
 [END]
 
 ;1181270
@@ -197323,11 +197303,11 @@ Data0=(-43.64401,172.47896)
 ;1184642
 [POI]
 Type=0x2e
-Label=CYCLE SURGERY - MIDDLEMARCH
-StreetDesc=26 Snow Ave, Middlemarch/ Cycle Hire, Transport, Cycle Repairs
+Label=CYCLE SURGERY
+StreetDesc=26 Snow Ave Dud Otago 9597 New Zealand/ Discover NZ's best rail trail, on the be
 Phone=0800292534
 zip=8.30am 5.30pm 7 Days
-Data0=(-45.50685,170.12295)
+Data0=(-45.50776,170.12282)
 [END]
 
 ;1184643
@@ -202353,6 +202333,7 @@ Data0=(-43.61459,172.36317)
 Type=0x2b01
 Label=MOUTERE INN
 StreetDesc=1406 Moutere Highway Upper Moutere/ Hotel, Accomodation, Bar, Restaurant, Off li
+Phone=+6435432759
 Data0=(-41.26736,173.00695)
 [END]
 
@@ -205503,7 +205484,7 @@ Data0=(-41.25626,173.10091)
 [POI]
 Type=0x2f
 Label=THE FREE HOUSE
-StreetDesc=95 Collingwood St, Nelson/ Dead Good Beers
+StreetDesc=95 Collingwood St, Nelson/ Dead Good Beers, (www.beertourist.co.nz 2010)
 Phone=+6435489391
 zip=Mon-Fri from 4pm, Sat-Sun from Noon
 Data0=(-41.27328,173.28712)
@@ -205671,5 +205652,155 @@ Label=DARKROOM BAR
 StreetDesc=336 St Asaph St, Chc/ (www.beertourist.co.nz 2010: Meals)
 Phone=+6439742425
 Data0=(-43.53662,172.64797)
+[END]
+
+;1193494
+[POI]
+Type=0x2f
+Label=RENAISSANCE BREWING LIMITED
+StreetDesc=1 Dodson St Blenheim/ (www.beertourist.co.nz 2010: Off Licence, Tours by appoint
+Phone=+6435793400
+Data0=(-41.50140,173.95983)
+[END]
+
+;1193496
+[POI]
+Type=0x2a
+Label=THE SPRIG AND FERN BREWERY
+StreetDesc=53 Beach Rd, Richmond/ (www.beertourist.co.nz 2010: Off Licence, Tours by appoin
+Phone=+6435448675
+zip=12pm-6pm Tue to Thu, 10am-6pm Fri & Sat
+Data0=(-41.33389,173.18589)
+[END]
+
+;1193498
+[POI]
+Type=0x2d02
+Label=THE SPRIG AND FERN TAVERN
+StreetDesc=54 Ellis St, Brightwater/ Bar, restaurant, (www.beertourist.co.nz 2010)
+Phone=+6435422323
+zip=7 days 10am-10pm
+Data0=(-41.37630,173.10993)
+[END]
+
+;1193500
+[POI]
+Type=0x2f
+Label=THE TWISTED HOP
+StreetDesc=7b Parkhouse Rd, Wigram/ Brewery Shop, (www.beertourist.co.nz 2010: Off Licence)
+Phone=+6439623688
+Data0=(-43.54643,172.56283)
+[END]
+
+;1193502
+[POI]
+Type=0x2f
+Label=?THE TOTARA BREWING CO.
+StreetDesc=249 STATE HIGHWAY 6, Wakefield/ (www.beertourist.co.nz 2010)
+Phone=+6421624322
+Data0=(-41.41806,173.00905)
+[END]
+
+;1193503
+[POI]
+Type=0x2f
+Label=?TOWNSHEND BREWERY
+StreetDesc=Rosedale Rd, Upper Moutere/ (www.beertourist.co.nz 2010: Tours by appointment)
+Phone=+6421137047
+Data0=(-41.23944,172.96085)
+[END]
+
+;1193505
+[POI]
+Type=0x2f
+Label=WANAKA BEERWORKS
+StreetDesc=891 Wanaka-Luggate Hwy, Luggate/ (www.beertourist.co.nz 2010: Tours by appointme
+Phone=+6434431865
+Data0=(-44.72268,169.23992)
+[END]
+
+;1193508
+[POI]
+Type=0x2c05
+Label=RIVERSIDE EDUCARE
+StreetDesc=8 Rifleman St, Albert Town, Wanaka/ Early childhood centre
+Phone=+6434434073
+zip=7.30am - 6pm Monday to Friday
+Data0=(-44.68358,169.18907)
+[END]
+
+;1193517
+[POI]
+Type=0x2d
+Label=BLAST ENTERTAINMENT HIRE NELSON
+StreetDesc=66 William St, Richmond, Nelson, 7020/ Bouncy Castles, Slide Castles, Kids parti
+Phone=0800025278
+zip=7 days a week
+Data0=(-41.34126,173.19356)
+[END]
+
+;1193524
+[POI]
+Type=0x2f03
+Label=KINMONT MOTORS
+StreetDesc=23 Gladstone Rd South, Mosgiel, Dud/ Based in Mosgiel Dunedin, Kinmont Motors of
+Phone=+6434894939
+zip=8am - 5pm Mon-Fri
+Data0=(-45.88739,170.34965)
+[END]
+
+;1193534
+[POI]
+Type=0x2d0a
+Label=CHRISTCHURCH CHOI KWANG DO
+StreetDesc=96 Bristol St St Albans Chc 8014/ Looking for Martial Arts in Christchurch? Choi
+Phone=0800362464
+zip=4:30 to 7:30 p.m(Monday & Thursday)
+Data0=(-43.51357,172.62712)
+[END]
+
+;1193538
+[POI]
+Type=0x2f11
+Label=BLACK SHEEP TOURING COMPANY
+StreetDesc=Mapua, Nelson/ Black Sheep Touring Co. is a New Zealand luxury travel & escorted
+Phone=+6435403221
+Data0=(-41.27063,173.28396)
+[END]
+
+;1193540
+[POI]
+Type=0x2f
+Label=BLUE SOUTH NEW ZEALAND
+StreetDesc=Unit 3A, 35 Shands Rd, Hornby, Chc/ We are a business translation service compan
+Phone=+6433492818
+Data0=(-43.54651,172.52414)
+[END]
+
+;1193542
+[POI]
+Type=0x2f
+Label=LITTLE WONDERS CHILDCARE - TIMARU
+StreetDesc=210 Otipua Rd, Timaru/ At Little Wonders early childhood centres we work with yo
+Phone=+6436888816
+Data0=(-44.39836,171.22442)
+[END]
+
+;1193543
+[POI]
+Type=0x2f
+Label=LEOPARD COACH HIRE
+StreetDesc=26 Birmingham Dr, Middleton/ Leopard Coachlines provide a range of bus services 
+Phone=+6433738100
+Data0=(-43.54256,172.58884)
+[END]
+
+;1193545
+[POI]
+Type=0x2f
+Label=?PHIL BUTLER EMPLOYMENT LAW
+StreetDesc=PO Box 158, Chc/ Along with employment lawyers, we provide specialist advice on 
+Phone=+6433652150
+Data0=(-43.53205,172.63622)
 [END]
 

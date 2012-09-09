@@ -89,7 +89,7 @@ begin
 # Chatham Islands points have long of -176 (correctly displays in google maps...)
 # range long in linz is 166.71 to 178.55
 # range lat in linz is -46 to -34 - but Stewart Island is at 47.32
-	if latitude.to_f < -47.32 || latitude.to_f > -34 || longitude.to_f < 166 || longitude.to_f > 179 then return end
+#	if latitude.to_f < -47.32 || latitude.to_f > -34 || longitude.to_f < 166 || longitude.to_f > 179 then return end
 	
 	# look for black, orange, blue markers
 	correctly_placed = @masterZenbuDataHash[zid]['correctly_placed']
@@ -104,11 +104,16 @@ begin
 
 #NZ CUSTOMISED
 # choose output file based on rudimentary North Island / South Island definition
-if latitude.to_f > -40.4 then mpfileoutref = @mpfileoutA #higher than top of south
-elsif latitude.to_f < -41.7 then mpfileoutref = @mpfileoutB # lower than bottom of north
-elsif longitude.to_f > 174.5 then mpfileoutref = @mpfileoutA # more east than most east of south
-else mpfileoutref = @mpfileoutB end #everything else
-
+# if latitude.to_f > -40.4 then mpfileoutref = @mpfileoutA #higher than top of south
+# elsif latitude.to_f < -41.7 then mpfileoutref = @mpfileoutB # lower than bottom of north
+# elsif longitude.to_f > 174.5 then mpfileoutref = @mpfileoutA # more east than most east of south
+# else mpfileoutref = @mpfileoutB end #everything else
+# 1st capture the south island bounding box
+if latitude.to_f <  -40.4 && longitude.to_f < 174.5 && longitude.to_f > 165 then mpfileoutref = @mpfileoutB
+# 2nd capture the Chathams island box
+elsif latitude.to_f <  -40.4 && longitude.to_f < -173 && longitude.to_f > -178 then mpfileoutref = @mpfileoutC
+# 3rd Remainder is North island
+else mpfileoutref = @mpfileoutA end
 	streetdesc = "#{address}/ #{tags}"
 	streetdesc = streetdesc.slice(0,80)
 	
@@ -342,7 +347,7 @@ Data0=(-34.5,178.5)
 
 POIEND
 
-else
+elsif mapid == "64000021" then #South Island
 
 mpfileoutref.print <<POIEND
 [POI]
@@ -350,6 +355,17 @@ Type=0x2800
 Label=SI POI from www.zenbu.co.nz
 EndLevel=1
 Data0=(-47,173)
+[END]
+
+POIEND
+else
+
+mpfileoutref.print <<POIEND
+[POI]
+Type=0x2800
+Label=CI POI from www.zenbu.co.nz
+EndLevel=1
+Data0=(-44,-178)
 [END]
 
 POIEND

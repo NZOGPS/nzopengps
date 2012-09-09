@@ -21,8 +21,10 @@ print "\nDoing Polish Format (MP) output\n"
 #NZ CUSTOMISED
 @mpfileoutA = File.open("../NZPOIs3A.mp", "w")
 @mpfileoutB = File.open("../NZPOIs3B.mp", "w")
+@mpfileoutC = File.open("../NZPOIs3C.mp", "w")
 printMPHeader(@mpfileoutA,'64000012')
 printMPHeader(@mpfileoutB,'64000021')
+printMPHeader(@mpfileoutC,'64000022')
 
 @masterZenbuDataHash.keys.sort.each{|zid|
 	if @categories_from_nzogps.has_key?(zid) then
@@ -38,6 +40,7 @@ printMPHeader(@mpfileoutB,'64000021')
 
 @mpfileoutA.close
 @mpfileoutB.close
+@mpfileoutC.close
 
 writeCategoryOverrideSummaryFile
 

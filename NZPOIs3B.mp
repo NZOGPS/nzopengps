@@ -192924,10 +192924,10 @@ Data0=(-43.48722,172.58733)
 ;1179701
 [POI]
 Type=0x2c02
-Label=OTAGO SETTLERS MUSEUM
+Label=TOITū OTAGO SETTLERS MUSEUM
 StreetDesc=31 Queens Gardens, Dud/ Historical Museum
 Phone=+6434775052
-zip=10am.-5pm. Closed public holidays.
+zip=10am - 5pm Closed public holidays.
 Data0=(-45.87693,170.50577)
 [END]
 
@@ -205850,5 +205850,59 @@ Label=AA AUTO SERVICE & REPAIR - NELSON
 StreetDesc=122 Vanguard St, Nelson South/ Our team of friendly mechanics offer menu priced 
 Phone=+6435394690
 Data0=(-41.27836,173.27455)
+[END]
+
+;1194920
+[POI]
+Type=0x2f
+Label=AA BLENHEIM VEHICLE INSPECTION CENTRE
+StreetDesc=23 Maxwell Rd, Blenheim/ A full range of vehicle inspections are available inclu
+Phone=+6435783399
+Data0=(-41.51533,173.95521)
+[END]
+
+;1194924
+[POI]
+Type=0x2f
+Label=AA INVERCARGILL VEHICLE INSPECTION & COMPLIANCE CENTRE
+StreetDesc=47 Gala St, Invercargill/ A full range of vehicle inspections are available incl
+Phone=+6432189033
+Data0=(-46.40664,168.34928)
+[END]
+
+;1194927
+[POI]
+Type=0x2f
+Label=AA OAMARU VEHICLE INSPECTION CENTRE
+StreetDesc=273 Thames St, Oamaru/ A full range of vehicle inspections are available includi
+Phone=+6434331079
+Data0=(-45.09345,170.97348)
+[END]
+
+;1194930
+[POI]
+Type=0x2f
+Label=AA VEHICLE TESTING - HORNBY
+StreetDesc=47 Shands Rd, Hornby/ Drive through Warrant of Fitness (WoF) & Certificate of Fi
+Phone=+6433493434
+Data0=(-43.54706,172.52267)
+[END]
+
+;1194931
+[POI]
+Type=0x2f
+Label=AA VEHICLE TESTING - NELSON
+StreetDesc=122 Vanguard St, Nelson South/ Drive through Warrant of Fitness (WoF) & Certific
+Phone=+6435394690
+Data0=(-41.27836,173.27455)
+[END]
+
+;1194936
+[POI]
+Type=0x2f
+Label=OUTRIGHT LANDSCAPE DESIGN
+StreetDesc=33 Riccarton Rd East, East Taieri, Mosgiel/ Garden and Landscaping Design Servic
+Phone=+6427278778
+Data0=(-45.89399,170.33509)
 [END]
 

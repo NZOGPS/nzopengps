@@ -24914,9 +24914,9 @@ Data0=(-46.35269,168.01618)
 [POI]
 Type=0x3001
 Label=NEW ZEALAND POLICE ROLLESTON
-StreetDesc=834 Jones Rd, Rolleston/ police
+StreetDesc=75 Tennyson St, Rolleston/ police
 Phone=+6433479248
-Data0=(-43.58837,172.37914)
+Data0=(-43.59620,172.38371)
 [END]
 
 ;1082586
@@ -34621,7 +34621,7 @@ Data0=(-45.89448,170.49906)
 ;1097316
 [POI]
 Type=0x2f
-Label=VISIQUE FOATE OPTOMETRISTS - BISHOPDALE
+Label=FOATE OPTOMETRISTS - BISHOPDALE
 StreetDesc=1 Bishopdale Mall, Bishopdale, Chc/ Optometrist, Eye Examinations, Eyewear, Cont
 Phone=+6433599074
 zip=Mon to Fri 8:30am to 5:30pm (Late night 
@@ -132375,8 +132375,10 @@ Data0=(-43.49606,172.59534)
 [POI]
 Type=0x2f
 Label=KUDOS HAIRDRESSERS
-StreetDesc=256 Barrington St, Chc/ Hairdresser
-Data0=(-43.55671,172.61857)
+StreetDesc=204, Papanui Rd, Merivale/ Hairdresser
+Phone=+6433554734
+zip=Tues, Weds, Friday 9-5.30. Thurs 9-8. Sa
+Data0=(-43.51184,172.62154)
 [END]
 
 ;1146860
@@ -169868,7 +169870,7 @@ Data0=(-43.47990,172.69540)
 ;1168798
 [POI]
 Type=0x2f
-Label=VISIQUE FOATE OPTOMETRISTS - FERRYMEAD
+Label=FOATE OPTOMETRISTS - FERRYMEAD
 StreetDesc=1025 Ferry Rd Ferrymead Chc 8023/ Optometrists, Eye Care, Spectacles, Contact Le
 Phone=+6433842224
 zip=Mon to Fri: 8:30am to 5:30pm (Late Night
@@ -186694,8 +186696,8 @@ Data0=(-43.54999,172.48797)
 ;1176539
 [POI]
 Type=0x2f03
-Label=AA AUTO SERVICE & REPAIR PAPANUI
-StreetDesc=66 Bellvue Ave, Papanui, Chc/ Automotive repairs, vehicle services, warrant of f
+Label=AA AUTO SERVICE & REPAIR - PAPANUI
+StreetDesc=66 Bellvue Ave, Papanui, Chc/ Our team of friendly mechanics offer menu priced v
 Phone=+6433520083
 Data0=(-43.49843,172.60843)
 [END]
@@ -186703,10 +186705,9 @@ Data0=(-43.49843,172.60843)
 ;1176540
 [POI]
 Type=0x2f03
-Label=AA AUTO SERVICE & REPAIR DUNEDIN
-StreetDesc=61 Timaru St, Andersons Bay, Dud/ Automotive repairs, vehicle services, warrant 
+Label=AA AUTO SERVICE & REPAIR - DUNEDIN
+StreetDesc=61 Timaru St, Andersons Bay, Dud/ Our team of friendly mechanics offer menu pric
 Phone=+6434555588
-zip=Mon-Fri 8am-5pm
 Data0=(-45.89641,170.51000)
 [END]
 
@@ -186799,7 +186800,7 @@ Data0=(-43.63348,171.64836)
 [POI]
 Type=0x2b00
 Label=CHRISTCHURCH ACCOMMODATION
-StreetDesc=66 Armagh St, Chc/ We specialise in providing quality Christchurch City central 
+StreetDesc=66 Armagh St, Chc Central, Chc 8013/ We specialise in providing quality Christch
 Phone=+6433723408
 Data0=(-43.52916,172.63200)
 [END]
@@ -204833,6 +204834,15 @@ zip=Mon - Sun7.30am - 9.00pm
 Data0=(-43.52551,172.57109)
 [END]
 
+;1192947
+[POI]
+Type=0x2a
+Label=PADDINGTON ARMS - INVERCARGILL RESTAURANT
+StreetDesc=220 Bainfield Rd, Waikiwi, Invercargill 9801/ Invercargill restaurant
+Phone=+6432158156
+Data0=(-46.37515,168.36182)
+[END]
+
 ;1192952
 [POI]
 Type=0x2b00
@@ -205581,7 +205591,7 @@ Data0=(-45.12762,170.88073)
 
 ;1193464
 [POI]
-Type=0x2b00
+Type=0x2f
 Label=BEACH ST ANIMOTELS
 StreetDesc=191 Beach St Waikouaiti Dud Otago 9510 New Zealand/ Treat your pet to a holiday 
 Phone=+6427221677
@@ -205802,5 +205812,43 @@ Label=?PHIL BUTLER EMPLOYMENT LAW
 StreetDesc=PO Box 158, Chc/ Along with employment lawyers, we provide specialist advice on 
 Phone=+6433652150
 Data0=(-43.53205,172.63622)
+[END]
+
+;1194897
+[POI]
+Type=0x2f
+Label=NZ TOOLS LTD
+StreetDesc=10 Wear St, Oamaru, Akl, New Zealand/ NZ Tools is New Zealand's leading online s
+Phone=0800269880
+zip=M-F/11AM - 10PM, Saturday 11:30AM - 10PM
+Data0=(-45.09905,170.97190)
+[END]
+
+;1194900
+[POI]
+Type=0x2f
+Label=NIRVANA CRUISES
+StreetDesc=Picton Marina, Picton/ Boat hire Marlborough Sounds, Marlborough Sounds cruise
+Phone=+22043028
+Data0=(-41.28894,174.00872)
+[END]
+
+;1194904
+[POI]
+Type=0x2e08
+Label=BUNNINGS BLENHEIM
+StreetDesc=10 Westwood Ave Blenheim/ Hardware Store
+Phone=+6435209050
+zip=7 - 7 Mon - Fri & 8 - 6 Weekends & Publi
+Data0=(-41.50646,173.92483)
+[END]
+
+;1194914
+[POI]
+Type=0x2f
+Label=AA AUTO SERVICE & REPAIR - NELSON
+StreetDesc=122 Vanguard St, Nelson South/ Our team of friendly mechanics offer menu priced 
+Phone=+6435394690
+Data0=(-41.27836,173.27455)
 [END]
 

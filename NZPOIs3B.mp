@@ -162770,7 +162770,7 @@ Data0=(-43.56200,172.64068)
 ;1165285
 [POI]
 Type=0x2d00
-Label=BOWLS PAPANUI (INCORPORATING PAPANUI BOWLING CLUB)
+Label=BOWLS PAPANUI
 StreetDesc=181 Condell Ave, Papanui, Chc/ Bowling Club
 Phone=+6433529399
 Data0=(-43.49777,172.59476)
@@ -198305,7 +198305,7 @@ Data0=(-43.87185,168.98947)
 
 ;1188949
 [POI]
-Type=0x2e09
+Type=0x2f
 Label=YOU’LL SAY WOW CARPET CLEANING
 StreetDesc=8 Churchill St St. Kilda Dud 9012/ For carpet cleaning, stain removal, water dam
 Phone=+6434553874

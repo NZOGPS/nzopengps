@@ -34785,9 +34785,9 @@ Data0=(-45.25242,169.38932)
 
 ;1097419
 [POI]
-Type=0x2a0e
-Label=RED BRICK CAFE & WINE BAR
-StreetDesc=Centerpiont Carpark, Ennis St, Alexandra/ 
+Type=0x2a
+Label=RED BRICK RESTAURANT & BAR
+StreetDesc=Centerpiont Carpark off Limerick St, Alexandra/ 
 Phone=+6434489174
 Data0=(-45.25710,169.39242)
 [END]
@@ -115392,10 +115392,10 @@ Data0=(-45.87331,170.51307)
 [POI]
 Type=0x2f
 Label=JAN LANE - BEAUTY THERAPIST
-StreetDesc=166a Gordon Rd, Mosgiel, Dud/ Beauty Therapist
+StreetDesc=109b Gordon Rd, Mosgiel, Dud/ Beauty Therapist
 Phone=+6434890330
-zip=Tues - Fri, 9:30am - 2:30pm Sat 9am - 5p
-Data0=(-45.87663,170.50337)
+zip=Mon - Fri, 9:30am - 2:30pm Sat 9am - 5pm
+Data0=(-45.87552,170.34869)
 [END]
 
 ;1138160
@@ -205904,5 +205904,14 @@ Label=OUTRIGHT LANDSCAPE DESIGN
 StreetDesc=33 Riccarton Rd East, East Taieri, Mosgiel/ Garden and Landscaping Design Servic
 Phone=+6427278778
 Data0=(-45.89399,170.33509)
+[END]
+
+;1194953
+[POI]
+Type=0x2f
+Label=FLORAX INDOOR PLANTS
+StreetDesc=9 Craft Place/ Plant Hire, Indoor Plants, Hydroplant, Hydroculture
+Phone=+6433386534
+Data0=(-43.54210,172.58438)
 [END]
 

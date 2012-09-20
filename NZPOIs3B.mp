@@ -57592,10 +57592,10 @@ Data0=(-43.16116,172.75053)
 ;1112011
 [POI]
 Type=0x2f
-Label=PROSPERITY SYSTEMS LIMITED
-StreetDesc=28 MacLaggan St, Dud/ 
+Label=PROSPERITY PLUS
+StreetDesc=151-155 Princes St, Dud/ Personal & Business Risk Management and Planning
 Phone=+6434774993
-Data0=(-45.87778,170.49741)
+Data0=(-45.87668,170.50239)
 [END]
 
 ;1112016
@@ -198112,10 +198112,10 @@ Data0=(-41.51098,173.95816)
 [POI]
 Type=0x2f11
 Label=ACTIVE TRAVEL COMPANY
-StreetDesc=45 The Mall Cromwell/ Tours & Travel: Otago Central Rail Trail, Vietnam, Cambodi
-Phone=+03445492
+StreetDesc=27 Fache St Clyde/ Specialist tour operator and travel wholesaler for Asia, Afri
+Phone=+03442927
 zip=Monday to Friday 8.30am to 5pm
-Data0=(-45.03723,169.19748)
+Data0=(-45.18606,169.31676)
 [END]
 
 ;1188830
@@ -205913,5 +205913,52 @@ Label=FLORAX INDOOR PLANTS
 StreetDesc=9 Craft Place/ Plant Hire, Indoor Plants, Hydroplant, Hydroculture
 Phone=+6433386534
 Data0=(-43.54210,172.58438)
+[END]
+
+;1194959
+[POI]
+Type=0x2e
+Label=HOTVIBEZ SEXY R18 ADULT ITEMS 24HR
+StreetDesc=Hotvibez INSIDE Boots n All 35 Queen St Blenheim/ Discete shopping,Sex Toys,Adul
+zip=hotvibez.co.nz is open 24/7
+Data0=(-41.51325,173.95584)
+[END]
+
+;1194960
+[POI]
+Type=0x2e07
+Label=BOOTS N ALL
+StreetDesc=35 Queen St Blenheim Marlborough 7201/ Shoe Repairs & Keys Cut
+Phone=+6435778851
+zip=Mon to Fri 9:00am-5:30pm and Sat 9:30-12
+Data0=(-41.51325,173.95584)
+[END]
+
+;1194966
+[POI]
+Type=0x2a0e
+Label=THE UDDER DAIRY
+StreetDesc=1992 Arundel Rakaia Gorge rd/ Cafe Diner take away
+Phone=+6433036210
+Data0=(-43.82079,171.42247)
+[END]
+
+;1194973
+[POI]
+Type=0x2c05
+Label=NATURE'S PLAY PRESCHOOL
+StreetDesc=45 Pegasus Main St, Canterbury/ New preschool in Pegasus catering for babies fro
+zip=7.30am - 5.30pm
+Data0=(-43.31522,172.69817)
+[END]
+
+;1194982
+[POI]
+Type=0x2a
+Label=?URBAN HIPPIE
+StreetDesc=Montgomery Sq, Nelson Saturday Market/ It's the only Miso, made in Nelson New Ze
+Phone=+6421031352
+zip=8:00-13:00 Every Saturday
+Data0=(-41.27313,173.28261)
 [END]
 

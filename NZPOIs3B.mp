@@ -37918,11 +37918,11 @@ Data0=(-42.70803,170.97390)
 
 ;1100298
 [POI]
-Type=0x2b00
-Label=?BETHANY PARK CHRISTIAN CAMP
+Type=0x2b03
+Label=BETHANY PARK CHRISTIAN CAMP
 StreetDesc=Martins Farm Rd, Kaiteriteri/ Accommodation: powered caravan/campervan sites, te
 Phone=+6435278123
-Data0=(-41.04104,173.01480)
+Data0=(-41.03869,173.00651)
 [END]
 
 ;1100300
@@ -56116,7 +56116,7 @@ Data0=(-45.87548,170.50241)
 [POI]
 Type=0x2f
 Label=OWEN CORPORATION (NZ) LTD
-StreetDesc=10 Loop Rd, Kawarau Falls, Queenstown 9300/ 
+StreetDesc=10 Loop Rd, Kawarau Falls, Queenstown 9300/ Refractory, Fire Bricks, Ceramic Fib
 Phone=+6434413423
 Data0=(-45.02937,168.71775)
 [END]
@@ -62923,7 +62923,7 @@ Data0=(-41.26328,173.27078)
 ;1115011
 [POI]
 Type=0x2f
-Label=TOPMAQ
+Label=TOPMAQ CHRISTCHURCH
 StreetDesc=40 Hammersmith Dr, Sockburn, Chc/ Chinese-made tools.
 Phone=+6433666143
 zip=Mon-Fri 0830-1700
@@ -97542,10 +97542,10 @@ Data0=(-43.49853,172.66211)
 ;1131435
 [POI]
 Type=0x2a0e
-Label=JAMAICA BLUE - RICCARTON MALL
-StreetDesc=Store K11 Riccarton Mall, 145 Riccarton Rd, Chc/ cafe
-Phone=+33482642
-zip=Mon-Wed 9am-6pm, Thu-Fri 9am-9pm, Sat 9a
+Label=JAMAICA BLUE RICCARTON
+StreetDesc=Kiosk 11, Riccarton Mall, 129 Riccarton Rd, Chc/ Cafe
+Phone=+6433482642
+zip=Mon-Wed 8am-6pm, Thu-Fri 8am-9pm, Sat 8a
 Data0=(-43.53106,172.59781)
 [END]
 
@@ -111347,9 +111347,9 @@ Data0=(-44.93859,168.83219)
 
 ;1135609
 [POI]
-Type=0x2f
+Type=0x2e08
 Label=ZIP PLUMBING PLUS
-StreetDesc=73 Moorhouse Avenuet , Chc 8011/ Plumbing, bathroom and drainage supplies
+StreetDesc=73 Moorhouse Ave , Chc 8011/ Plumbing, bathroom and drainage supplies
 Phone=+6433798240
 zip=Mon-Fri 7.30-5.00, Sat 8.30-Noon
 Data0=(-43.53978,172.62328)
@@ -111474,7 +111474,7 @@ Type=0x2c0a
 Label=YEALANDS ESTATE
 StreetDesc=534 Seaview Rd, Seddon/ Winery, cellar door
 Phone=+6435757618
-Data0=(-41.64799,174.13027)
+Data0=(-41.64891,174.13095)
 [END]
 
 ;1136201
@@ -147701,12 +147701,12 @@ Data0=(-43.63573,171.64713)
 
 ;1157117
 [POI]
-Type=0x2f
-Label=PROSOUTH COMPUTING SOLUTIONS CENTRE
-StreetDesc=161 High St, Dud/ Computer and IT services and sales company
+Type=0x2e0b
+Label=PROSOUTH IT SOLUTIONS
+StreetDesc=9 Midland St, South Dud 9012/ Computer and IT services and sales company
 Phone=+6434701321
 zip=Mon-Fri 8.30am-5.30pm
-Data0=(-45.87866,170.49966)
+Data0=(-45.89380,170.50729)
 [END]
 
 ;1157119
@@ -171033,10 +171033,11 @@ Data0=(-45.86726,170.50941)
 
 ;1169366
 [POI]
-Type=0x2f
-Label=?SEAVIEW HOME
-StreetDesc=Seaview Cres, Picton, Blenheim/ 
-Data0=(-41.29146,174.01162)
+Type=0x3002
+Label=SEAVIEW HOME
+StreetDesc=Seaview Cres, Picton,Marlborough/ Rest Home , Hospital
+Phone=+6435736027
+Data0=(-41.29138,174.01164)
 [END]
 
 ;1169372
@@ -175835,10 +175836,10 @@ Data0=(-43.48998,172.62199)
 [POI]
 Type=0x2f
 Label=DEBBIE HARVEY 24HR
-StreetDesc=17 Prestwick St, Maori Hill, Dud/ Registered Midwife, Lead maternity Carer (LMC)
+StreetDesc=292 South Rd, Caversham, Dud/ Registered Midwife, Lead maternity Carer (LMC)
 Phone=+6427202160
 zip=24hrs a day!
-Data0=(-45.85764,170.49786)
+Data0=(-45.89607,170.48036)
 [END]
 
 ;1171774
@@ -177385,9 +177386,9 @@ Data0=(-41.27451,173.28648)
 ;1172350
 [POI]
 Type=0x2f0c
-Label=ELTERWATER? TOILET
+Label=ELTERWATER TOILET
 StreetDesc=State Hwy 1, North of Ward/ Toilet
-Data0=(-41.79620,174.14788)
+Data0=(-41.79429,174.14783)
 [END]
 
 ;1172352
@@ -185358,7 +185359,7 @@ Data0=(-45.87528,170.50610)
 ;1175083
 [POI]
 Type=0x2f
-Label=TOPMAQ
+Label=TOPMAQ DUNEDIN
 StreetDesc=116 Cumberland St, Dud/ Chinese-made tools
 Phone=+6434745072
 zip=Mon-Fri 0830-1700
@@ -195045,9 +195046,9 @@ Data0=(-41.50156,173.88471)
 ;1181163
 [POI]
 Type=0x2f
-Label=?ROBRIAN ESTATE
+Label=ROBRIAN ESTATE
 StreetDesc=38 Ward Beach Rd, Flaxbourne/ Olive oil
-Data0=(-41.83261,174.17519)
+Data0=(-41.80810,174.14986)
 [END]
 
 ;1181165
@@ -201664,9 +201665,9 @@ Data0=(-43.52547,172.63363)
 [POI]
 Type=0x2f
 Label=HONEY SOFTWARE
-StreetDesc=212 Antigua St/ HR software, payroll , recruitment, rostering, time sheet and le
+StreetDesc=186 Manchester St/ HR software, payroll , recruitment, rostering, time sheet and
 Phone=+6433660920
-Data0=(-43.53810,172.62790)
+Data0=(-43.53079,172.63983)
 [END]
 
 ;1190705
@@ -205943,6 +205944,16 @@ Phone=+6433036210
 Data0=(-43.82079,171.42247)
 [END]
 
+;1194970
+[POI]
+Type=0x2e
+Label=POWER TOOL PEOPLE LTD
+StreetDesc=23 Saxon St, Phillipstown, Chc/ Powertool repairs and servicing. Authorised warr
+Phone=+6433661317
+zip=8 am till 5 pm Monday-Thursday. 8am-4.30
+Data0=(-43.53420,172.65523)
+[END]
+
 ;1194973
 [POI]
 Type=0x2c05
@@ -205955,10 +205966,19 @@ Data0=(-43.31522,172.69817)
 ;1194982
 [POI]
 Type=0x2a
-Label=?URBAN HIPPIE
-StreetDesc=Montgomery Sq, Nelson Saturday Market/ It's the only Miso, made in Nelson New Ze
+Label=URBAN HIPPIE
+StreetDesc=2/83 Muritai St, Tahunanui, Nelson/ It's the only Miso, made in Nelson New Zeala
 Phone=+6421031352
-zip=8:00-13:00 Every Saturday
-Data0=(-41.27313,173.28261)
+zip=Nelson Saturday Market 8am-1pm
+Data0=(-41.28725,173.24471)
+[END]
+
+;1195022
+[POI]
+Type=0x2f
+Label=ELECCOM
+StreetDesc=Unit 1 – 41 Sawyers Arms Rd Northcote/ Eleccom represents a team of specialist e
+Phone=+6434239266
+Data0=(-43.48980,172.60982)
 [END]
 

@@ -104979,9 +104979,10 @@ Data0=(-42.71731,170.96168)
 ;1133419
 [POI]
 Type=0x2e
-Label=TAKE NOTE SOUTH CITY MALL INVERCARGILL
-StreetDesc=253 Elles Rd, Invercargill/ Books, Magazines, Cards, NZ Post
+Label=SOUTH CITY GIFTS & LOTTO SOUTH CITY MALL INVERCARGILL
+StreetDesc=253 Elles Rd, Invercargill/ Books, Magazines, Cards, NZ Post/Kiwibank, Lotto
 Phone=+6432141747
+zip=Weekdays 8.30am Saturday 9am
 Data0=(-46.42761,168.36124)
 [END]
 
@@ -111292,14 +111293,6 @@ Type=0x2e
 Label=SOUTH CITY LOTTO & POST
 StreetDesc=South City Mall, 555 Colombo St, Sydenham, Chc/ Lotto
 Data0=(-43.53774,172.63664)
-[END]
-
-;1135544
-[POI]
-Type=0x2e
-Label=SOUTH CITY LOTTO & STATIONERY
-StreetDesc=South City Mall, 253 Elles Rd, Strathern, Invercargill/ Lotto
-Data0=(-46.42774,168.36144)
 [END]
 
 ;1135559

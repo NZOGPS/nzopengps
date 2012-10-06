@@ -11846,7 +11846,7 @@ Type=0x2f01
 Label=CHALLENGE LINCOLN
 StreetDesc=23 Gerald St, Lincoln/ Challenge petrol station
 Phone=+6433252129
-Data0=(-43.64077,172.48162)
+Data0=(-43.64067,172.48173)
 [END]
 
 ;1041475
@@ -21059,7 +21059,7 @@ Data0=(-43.50821,172.72734)
 [POI]
 Type=0x2b00
 Label=RAWHITI HOUSE & BACKPACKERS
-StreetDesc=27 Hewlings St, Geraldine 7930, Canterbury/ Backpacker accommodation. BBH
+StreetDesc=27 Hewlings St, Geraldine 7930, Canterbury/ Realistic Prices, Exceptionally Clea
 Phone=+6436938252
 Data0=(-44.09450,171.23714)
 [END]
@@ -36459,7 +36459,7 @@ Data0=(-43.53831,172.58880)
 ;1098894
 [POI]
 Type=0x2e
-Label=PLASTIC BOX DUNEDIN
+Label=STORAGE BOX DUNEDIN (FORMERLY PLASTIC BOX)
 StreetDesc=140D Cumberland St, Dud/ Container and storage solutions
 Phone=+6434790939
 zip=Mon 9.00-5.30 Tue 9.00-5.30 Wed 9.00-5.3
@@ -36479,8 +36479,8 @@ Data0=(-46.41061,168.34800)
 ;1098911
 [POI]
 Type=0x2e
-Label=PLASTIC BOX PAPANUI
-StreetDesc=29 Main North Rd, Chc/ Container and storage solutions
+Label=STORAGE BOX PAPANUI (FORMERLY PLASTIC BOX)
+StreetDesc=29a Main North Rd, Chc/ Container and storage solutions
 Phone=+6433520605
 zip=Mon-Fri 9.00-5.30 Sat 9.30-5.00 Sun 10.0
 Data0=(-43.49511,172.60811)
@@ -36489,7 +36489,7 @@ Data0=(-43.49511,172.60811)
 ;1098917
 [POI]
 Type=0x2e
-Label=PLASTIC BOX TIMARU
+Label=STORAGE BOX TIMARU (FORMERLY PLASTIC BOX)
 StreetDesc=79 Sophia St, Timaru/ Container and storage solutions
 Phone=+6436846667
 zip=Mon 9.00-5.30 Tue 9.00-5.30 Wed 9.00-5.3
@@ -57483,8 +57483,9 @@ Data0=(-45.88971,170.45906)
 [POI]
 Type=0x2f
 Label=PRODIRECTIONS LTD
-StreetDesc=L 12, BNZ House, 129 Hereford St, Chc/ 
+StreetDesc=Unit 2, 107 Deans Ave, Riccarton, Chc 8011/ 
 Phone=+6439779977
+zip=0800 - 1700 Monday to Friday
 Data0=(-43.53189,172.63698)
 [END]
 
@@ -58697,10 +58698,10 @@ Data0=(-45.87669,170.50239)
 [POI]
 Type=0x2f
 Label=ROSE & ASSOCIATES LIMITED
-StreetDesc=336 Durham St, Chc/ 
+StreetDesc=114 Memorial Ave, Burnside, Chc/ Accountants
 Phone=+6433660483
 zip=Mon-Fri 0830-1700
-Data0=(-43.53488,172.63377)
+Data0=(-43.51176,172.57977)
 [END]
 
 ;1112731
@@ -75021,15 +75022,6 @@ Label=TE ANAU DAIRY
 StreetDesc=76 Town Ctr, Te Anau/ Dairy
 Phone=+6432497849
 Data0=(-45.41589,167.71498)
-[END]
-
-;1119339
-[POI]
-Type=0x2e05
-Label=TE ANAU PHARMACY
-StreetDesc=60 Town Ctr, Te Anau/ Pharmacy
-Phone=+6432497134
-Data0=(-45.41620,167.71436)
 [END]
 
 ;1119340
@@ -92162,7 +92154,7 @@ Type=0x2f03
 Label=MCCORMICK MOTORS LINCOLN
 StreetDesc=25 Gerald St, Lincoln/ Automotive Repairs
 Phone=+6433252447
-Data0=(-43.64072,172.48157)
+Data0=(-43.64089,172.48157)
 [END]
 
 ;1130397
@@ -92704,7 +92696,7 @@ Data0=(-45.87548,170.50336)
 
 ;1130668
 [POI]
-Type=0x2f03
+Type=0x2e07
 Label=ALLURE OF LINCOLN
 StreetDesc=The Vale, 19 Gerald St, Lincoln/ Clothing Shop, Fashion
 Phone=+6433252390
@@ -96741,7 +96733,7 @@ Type=0x2a07
 Label=HALSWELL FISH SUPPLY
 StreetDesc=21 Lillian St, Halswell, Chc/ Fish & chips, takeaways
 Phone=+6433229178
-Data0=(-43.57682,172.56727)
+Data0=(-43.57680,172.56738)
 [END]
 
 ;1131323
@@ -99331,9 +99323,10 @@ Data0=(-43.53102,172.59838)
 
 ;1131680
 [POI]
-Type=0x2f
+Type=0x2a
 Label=NEWBERY LODGE
-StreetDesc=15 Newbery St, Opawa, Chc/ 
+StreetDesc=15 Newbery St, Opawa, Chc/ Restaurant, Function Centre, Wedding Venue
+Phone=+6433322503
 Data0=(-43.55649,172.66452)
 [END]
 
@@ -107796,7 +107789,7 @@ Type=0x2a0e
 Label=OUTPOST AT THE CABBAGE TREE
 StreetDesc=379 Dunns Rd, Otatara/ cafe
 Phone=+6432131443
-Data0=(-46.43469,168.25889)
+Data0=(-46.43394,168.26029)
 [END]
 
 ;1134567
@@ -111700,7 +111693,7 @@ Data0=(-43.51119,172.67826)
 [POI]
 Type=0x2f
 Label=DAWSON & ASSOCIATES LIMITED
-StreetDesc=23 Salisbury Rd, Richmond, Nelson/ Maritime & Commercial Lawyers
+StreetDesc=23 Salisbury Rd, Richmond, Nelson/ Maritime Lawyers
 Phone=+6435441967
 zip=8.30am - 5.00pm Monday to Friday
 Data0=(-41.34093,173.19029)
@@ -133012,9 +133005,11 @@ Data0=(-43.49118,172.57128)
 ;1146949
 [POI]
 Type=0x2f
-Label=PALMER FUNERAL SERVICES LIMITED
-StreetDesc=515 Wairakei Rd, Chc/ Funeral director
-Data0=(-43.48958,172.56831)
+Label=PALMER FUNERAL SERVICES LIMITED 24HR
+StreetDesc=150 Harewood Rd, Chc/ Funeral Director
+Phone=+6433599422
+zip=24 Hours
+Data0=(-43.49209,172.59861)
 [END]
 
 ;1146950
@@ -158023,7 +158018,7 @@ Type=0x2c05
 Label=LINCOLN PLAYCENTRE
 StreetDesc=24 Gerald St, Lincoln/ Playcentre
 Phone=+6433252008
-Data0=(-43.64037,172.48174)
+Data0=(-43.63778,172.48339)
 [END]
 
 ;1161902
@@ -205973,5 +205968,69 @@ Label=ELECCOM
 StreetDesc=Unit 1 – 41 Sawyers Arms Rd Northcote/ Eleccom represents a team of specialist e
 Phone=+6434239266
 Data0=(-43.48980,172.60982)
+[END]
+
+;1195037
+[POI]
+Type=0x2f
+Label=SANDBLASTING SPECIALISTS DUNEDIN
+StreetDesc=52 Parry St, Dud/ Blasting and specialized coatings for all types of machinery a
+Phone=+6434719401
+zip=8:00 - 5:00 Mon - Fri
+Data0=(-45.87008,170.52248)
+[END]
+
+;1195047
+[POI]
+Type=0x2f
+Label=CANTERBURY CHRISTIAN FUNERAL SERVICES 24HR
+StreetDesc=24 Sheffield Cres, Burnside, Chc/ 
+Phone=+6433588807
+zip=24 Hours
+Data0=(-43.49084,172.56095)
+[END]
+
+;1195051
+[POI]
+Type=0x2f03
+Label=WEST EYRETON MOTORS LTD
+StreetDesc=1510 North Eyre Rd West Eyreton Waimakariri/ 
+Phone=+6433125421
+zip=SundayClosed Monday:08:00am - 05:30pm Tu
+Data0=(-43.35263,172.37635)
+[END]
+
+;1195053
+[POI]
+Type=0x2e05
+Label=FIORDLAND COMMUNITY PHARMACY
+StreetDesc=70b Town Ctr, Te Anau/ Pharmacy
+Phone=+6432499268
+Data0=(-45.41600,167.71478)
+[END]
+
+;1195054
+[POI]
+Type=0x2f
+Label=REDLIGHT CAMERA
+StreetDesc=Barbadoes St and Lichfield St, Chc/ Redlight Camera
+Data0=(-43.53418,172.64564)
+[END]
+
+;1195056
+[POI]
+Type=0x2D06
+Label=MT OLYMPUS SKIFIELD
+StreetDesc=Lake Coleridge/ Ski / Snowboard Area
+Phone=+6433185840
+Data0=(-43.19357,171.60663)
+[END]
+
+;1195057
+[POI]
+Type=0x2D06
+Label=MT OLYMPUS BOTTOM HUT
+StreetDesc=Lake Coleridge/ Ski / Snowboard Area
+Data0=(-43.21505,171.60607)
 [END]
 

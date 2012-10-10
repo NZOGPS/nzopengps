@@ -26037,16 +26037,6 @@ zip=Mon-Fri 8am -5pm, Sat 9am-12 noon
 Data0=(-46.10522,168.94337)
 [END]
 
-;1085463
-[POI]
-Type=0x2f03
-Label=FIRESTONE DIRECT - HORNBY
-StreetDesc=13 Carmen Rd, Hornby, Chc/ Wheel Alignment & Balancing, Puncture Repair, Car & 4
-Phone=+6433495505
-zip=Mon-Fri 8am-5.00pm, Sat 9am-1pm
-Data0=(-43.54243,172.52588)
-[END]
-
 ;1085484
 [POI]
 Type=0x2f03
@@ -46648,10 +46638,10 @@ Data0=(-43.56448,172.68986)
 [POI]
 Type=0x2f
 Label=FICO FINANCE LTD
-StreetDesc=247 Queen St, Richmond, Nelson/ 
-Phone=+6435440617
+StreetDesc=L 1 Alam House, 134 Bridge St, Nelson/ Loans, mortgage finance
+Phone=+6435489932
 zip=Mon-Fri 0830-1700
-Data0=(-41.33906,173.18413)
+Data0=(-41.27269,173.28616)
 [END]
 
 ;1105461
@@ -57935,9 +57925,9 @@ Data0=(-43.54245,172.54726)
 [POI]
 Type=0x2f
 Label=R.A.C.E. SERVICES LTD
-StreetDesc=5 Kotzikas Place, Wigram, Chc/ 
+StreetDesc=Unit 1, 103 Sturrocks Rd, Redwood, Chc/ Specialists in business processes and au
 Phone=+6433442995
-Data0=(-43.54538,172.57001)
+Data0=(-43.47480,172.60714)
 [END]
 
 ;1112210
@@ -72044,7 +72034,7 @@ Data0=(-42.45135,171.20987)
 ;1117812
 [POI]
 Type=0x2a0e
-Label=LAKE MATHESON WALKWAY & CAFé FOX GLACIER
+Label=MATHESON CAFé
 StreetDesc=Lake Mathieson Rd, Fox Glacier/ Lake Matheson, famous for its picture perfect re
 Phone=+6437510878
 Data0=(-43.44797,169.96966)
@@ -75270,15 +75260,6 @@ StreetDesc=164 Waterloo Rd, Hornby, Chc/ Powerbase Electrical Electrician Cable 
 Phone=+6433445505
 zip=8 to 5:30 Sat: 8:30 to 12
 Data0=(-43.53822,172.52966)
-[END]
-
-;1119572
-[POI]
-Type=0x2a
-Label=BOUTEREY'S RESTAURANT
-StreetDesc=251 Queen St, Richmond, Nelson/ Restaurant & Bar
-Phone=+6435441114
-Data0=(-41.33900,173.18408)
 [END]
 
 ;1119574
@@ -84960,9 +84941,9 @@ Data0=(-43.61309,172.34356)
 ;1122334
 [POI]
 Type=0x2b01
-Label=JASMINE COURT TRAVELLERS' INN PICTON NEW ZEALAND
+Label=JASMINE COURT TRAVELLERS' INN
 StreetDesc=78 Wlg St, Picton/ Quiet 5 star motel accommodation with king beds, spa baths, S
-Phone=+35737110
+Phone=+6435737110
 Data0=(-41.29187,174.00777)
 [END]
 
@@ -87511,10 +87492,10 @@ Data0=(-44.39655,171.25592)
 ;1127980
 [POI]
 Type=0x2e0b
-Label=YOOBEE FREDERICK ST
-StreetDesc=21 Frederick St, Dud/ Educational discounts, Apple computers, iPhone, iPod, iMac
-Phone=08004966233
-zip=Mon-Fri 9am-5:30pm, Sat 10am-4pm
+Label=CYCLONE COMPUTER CO LTD
+StreetDesc=21 Frederick St, Dud/ Educational discounts, Apple computers, iPod, iMac, Laptop
+Phone=+6434701055
+zip=Mon-Fri 9am-5:00pm
 Data0=(-45.86801,170.50785)
 [END]
 
@@ -145817,11 +145798,11 @@ Data0=(-43.53650,172.63332)
 ;1155221
 [POI]
 Type=0x2F02
-Label=BACKROADS BIKES - MOTORCYCLE RENTALS AND TOURS.
-StreetDesc=3 Fairfax St, Dud/ Motorcycle rental, motorcycle tours, riding gear, guided ride
-Phone=+6434667623
+Label=BACKROADS BIKES
+StreetDesc=25 De Bettencor Place, Cromwell, Central Otago/ Motorcycle rental, motorcycle to
+Phone=+6434450020
 zip=8.00 - 6.00 daily
-Data0=(-45.86167,170.49487)
+Data0=(-44.97103,169.24918)
 [END]
 
 ;1155228
@@ -147525,9 +147506,9 @@ Data0=(-45.83638,170.55317)
 
 ;1156453
 [POI]
-Type=0x2c08
+Type=0x2d00
 Label=CHINGFORD PARK
-StreetDesc=413 North Rd, Normanby, Dud/ Sportsground, Football, Cricket
+StreetDesc=413 North Rd, Normanby, Dud/ Sportsground, Soccer, Cricket
 Phone=+6421340879
 Data0=(-45.84442,170.53905)
 [END]
@@ -151145,14 +151126,6 @@ StreetDesc=197 Grant Rd, Otatara, Invercargill/ Accommodation
 Data0=(-46.45306,168.31702)
 [END]
 
-;1158909
-[POI]
-Type=0x2b02
-Label=BYGONE ERA BED & BREAKFAST
-StreetDesc=396 North Rd, North East Valley, Dud/ Accommodation
-Data0=(-45.84541,170.53848)
-[END]
-
 ;1158911
 [POI]
 Type=0x2b02
@@ -152472,14 +152445,6 @@ Type=0x2b01
 Label=JAFA'S MOTELS
 StreetDesc=4 Lancaster St, Lawrence/ Accommodation
 Data0=(-45.91328,169.68606)
-[END]
-
-;1159323
-[POI]
-Type=0x2b00
-Label=JASMINE COURT - TRAVELLERS' INN
-StreetDesc=78 Wlg St, Picton, Picton/ Accommodation
-Data0=(-41.29188,174.00802)
 [END]
 
 ;1159325
@@ -185029,7 +184994,7 @@ Type=0x2b01
 Label=BELLA VISTA MOTEL FOX GLACIER
 StreetDesc=55 Main Rd, Fox Glacier/ Good quality, clean, comfortable accommodation in a cen
 Phone=+6437510129
-Data0=(-43.46404,170.01892)
+Data0=(-43.46670,170.01750)
 [END]
 
 ;1174761
@@ -191818,6 +191783,7 @@ Data0=(-44.67772,169.13160)
 Type=0x2b01
 Label=JAG ESCAPE FOX ALPINE RETREAT
 StreetDesc=Cook Flat Rd, Fox Glacier/ Motel accommodation
+Phone=0800JAGESCAPE
 Data0=(-43.45742,169.94777)
 [END]
 
@@ -196026,14 +195992,6 @@ Type=0x2a07
 Label=T & O TAKEAWAYS
 StreetDesc=81 High St, Picton/ 
 Data0=(-41.29156,174.00651)
-[END]
-
-;1181289
-[POI]
-Type=0x2f
-Label=PICTON RETURNED SERVICES ASSOCIATION INC
-StreetDesc=64 Wlg St, Picton/ 
-Data0=(-41.29139,174.00832)
 [END]
 
 ;1181290
@@ -201895,6 +201853,16 @@ zip=8am to 5pm
 Data0=(-43.54774,172.53836)
 [END]
 
+;1190810
+[POI]
+Type=0x2e
+Label=FLOWERS 4 NELSON
+StreetDesc=45 Tui Glen Rd Nelson/ Flower Shop, Online Flower Shop, Flowers Nelson
+Phone=+6435452196
+zip=Monday - Friday: 8am - 5pm
+Data0=(-41.23965,173.31791)
+[END]
+
 ;1190811
 [POI]
 Type=0x2f
@@ -204476,15 +204444,6 @@ zip=09:00am - 05:30pm - Saturday:09:00am - 0
 Data0=(-41.51467,173.95667)
 [END]
 
-;1192733
-[POI]
-Type=0x2e07
-Label=THE UNIFORM FACTORY
-StreetDesc=Dud/ Screen printers & embroidery for all uniforms, teamwear and sports clothing
-Phone=0800335646
-Data0=(-45.87876,170.50280)
-[END]
-
 ;1192745
 [POI]
 Type=0x2f
@@ -206032,5 +205991,71 @@ Type=0x2D06
 Label=MT OLYMPUS BOTTOM HUT
 StreetDesc=Lake Coleridge/ Ski / Snowboard Area
 Data0=(-43.21505,171.60607)
+[END]
+
+;1195094
+[POI]
+Type=0x2a
+Label=INDIA GATE
+StreetDesc=102 Princes St Dud Central Dud/ Indian Restaurant / Takeaway
+Phone=+6434771818
+Data0=(-45.87574,170.50244)
+[END]
+
+;1195099
+[POI]
+Type=0x2a
+Label=FIVE STAR VIETNAMESE
+StreetDesc=Fendalton Village Mall, Cnr Clyde and Ilam Rd, Fendalton, Chc/ Vietnamese restau
+Phone=+6433517178
+Data0=(-43.50957,172.59007)
+[END]
+
+;1195107
+[POI]
+Type=0x2f
+Label=SOUTHERN LANDMARX
+StreetDesc=114 Burn Cottage Rd Cromwell 9384 New Zealand/ Landscape architecture to enhance
+Phone=+6434454301
+zip=Mon -Fri 8.00am - 5.00pm
+Data0=(-45.01745,169.18767)
+[END]
+
+;1195113
+[POI]
+Type=0x2c0a
+Label=CRACROFT_CHASE_VINEYARD
+StreetDesc=110 Shalamar Dr, Cashmere, Chc/ From growing the grapes, to making and bottling 
+Phone=+6433374343
+zip=Friday to Sunday from 2 to 3 pm, other d
+Data0=(-43.58612,172.62973)
+[END]
+
+;1195115
+[POI]
+Type=0x2a0e
+Label=THE WOODEN SPOON
+StreetDesc=251 Queen St, Richmond, Nelson/ Cafe
+Phone=+6435444314
+Data0=(-41.33892,173.18411)
+[END]
+
+;1195116
+[POI]
+Type=0x2e07
+Label=MADE FOR MEN
+StreetDesc=249 Queen St, Richmond, Nelson/ Men's clothing, suit hire
+Phone=+6435439977
+Data0=(-41.33901,173.18422)
+[END]
+
+;1195118
+[POI]
+Type=0x2e0b
+Label=?SECURE OFFICE LIMITED
+StreetDesc=Chc/ Computer Consulting, Your Local IT Solutions Expert
+Phone=+6439290410
+zip=Mon - Fri 9:00am - 5:00pm
+Data0=(-43.53205,172.63622)
 [END]
 

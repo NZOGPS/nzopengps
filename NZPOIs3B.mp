@@ -8017,10 +8017,10 @@ Data0=(-44.38290,171.23746)
 ;1028966
 [POI]
 Type=0x2e02
-Label=GORE WOOLWORTHS
+Label=COUNTDOWN GORE
 StreetDesc=24 Medway St, Gore/ supermarket
 Phone=+6432039043
-zip=Mon - Fri, 7am - 10pm, Sat-Sun 8am-9pm
+zip=Mon - Sun 8am-9pm
 Data0=(-46.09869,168.94460)
 [END]
 
@@ -8117,7 +8117,7 @@ Data0=(-43.29790,172.19174)
 ;1029050
 [POI]
 Type=0x2e02
-Label=NORTHWOOD WOOLWORTHS
+Label=COUNTDOWN NORTHWOOD
 StreetDesc=1 Radcliffe Rd, Northwood Supa Ctr, Belfast, Chc/ supermarket
 Phone=+6433239710
 zip=Mon - Sun, 7am - 10pm
@@ -8307,7 +8307,7 @@ Data0=(-43.55663,172.70227)
 ;1029204
 [POI]
 Type=0x2e02
-Label=THE PALMS WOOLWORTHS
+Label=COUNTDOWN THE PALMS
 StreetDesc=Marshland Rd, Shirley, Chc/ supermarket
 Phone=+6433856454
 zip=Mon - Sun, 7am - 10pm
@@ -8317,10 +8317,10 @@ Data0=(-43.50547,172.66423)
 ;1029211
 [POI]
 Type=0x2e02
-Label=NEW BRIGHTON WOOLWORTHS
+Label=COUNTDOWN NEW BRIGHTON
 StreetDesc=12 Hawke St, New Brighton, Chc/ supermarket, Lotto
 Phone=+6433889206
-zip=Mon - Sun, 7am - 10pm
+zip=Mon - Sun, 7am - 9pm
 Data0=(-43.50663,172.72968)
 [END]
 
@@ -8377,7 +8377,7 @@ Data0=(-45.88102,170.47963)
 ;1029253
 [POI]
 Type=0x2e02
-Label=ANDERSONS BAY WOOLWORTHS
+Label=COUNTDOWN ANDERSONS BAY
 StreetDesc=560 Andersons Bay Rd, Dud/ supermarket
 Phone=+6434663225
 zip=Mon - Sun, 7am - 10pm
@@ -8457,8 +8457,8 @@ Data0=(-41.33825,173.18517)
 ;1029309
 [POI]
 Type=0x2e02
-Label=NELSON WOOLWORTHS
-StreetDesc=Cnr Hali & Paru Paru Rd, Nelson/ supermarket
+Label=COUNTDOWN TRAFALGAR PARK
+StreetDesc=Cnr Halifax & Paru Paru Rd, Nelson/ supermarket
 Phone=+6435466466
 zip=Mon-Sun, 7am-10pm
 Data0=(-41.27057,173.28117)
@@ -8537,21 +8537,21 @@ Data0=(-41.51387,173.95351)
 ;1029372
 [POI]
 Type=0x2e02
-Label=COUNTDOWN TIMARU
-StreetDesc=Church St, Timaru/ supermarket
+Label=COUNTDOWN CHURCH STREET TIMARU
+StreetDesc=129 Church St, Timaru/ supermarket
 Phone=+6436883136
 zip=Mon - Sun, 8am - 9pm
-Data0=(-44.39565,171.23875)
+Data0=(-44.39604,171.23886)
 [END]
 
 ;1029379
 [POI]
 Type=0x2e02
 Label=COUNTDOWN TIMARU
-StreetDesc=9 Browne St, Timaru/ supermarket, Lotto
+StreetDesc=Cnr Victoria & Browne St, Timaru/ supermarket, Lotto
 Phone=+6436889143
 zip=Mon - Sun, 8am - 9pm
-Data0=(-44.40250,171.25410)
+Data0=(-44.40239,171.25363)
 [END]
 
 ;1029386
@@ -15126,7 +15126,7 @@ Data0=(-45.86668,170.51238)
 [POI]
 Type=0x2f06
 Label=ASB ATM 24HR
-StreetDesc=Woolworths Ferrymead, 999 Ferrymead Terrace, Ferrymead, Chc/ ATM, FastCash, Mone
+StreetDesc=Countdown Ferrymead, 999 Ferrymead Terrace, Ferrymead, Chc/ ATM, FastCash, Money
 zip=24 Hours
 Data0=(-43.55665,172.70205)
 [END]
@@ -19743,7 +19743,7 @@ Data0=(-43.49590,172.60810)
 ;1069048
 [POI]
 Type=0x2f06
-Label=THE COOPERATEVE BANK RICCARTON
+Label=THE CO-OPERATIVE BANK RICCARTON
 StreetDesc=107 Riccarton Rd, Riccarton/ Banking, financial services, investments, loans, in
 Phone=+6433414430
 Data0=(-43.52984,172.60071)
@@ -83493,6 +83493,7 @@ Type=0x2a0e
 Label=THE COFFEE CLUB RICCARTON
 StreetDesc=Westfield Riccarton, 129 Riccarton Rd, Riccarton, Chc/ Cafe
 Phone=+6433410085
+zip=Mon-Wed: 8am – 6pm; Thu & Fri: 8am - 9pm
 Data0=(-43.53113,172.59694)
 [END]
 
@@ -127845,7 +127846,7 @@ Data0=(-44.38678,171.24064)
 [POI]
 Type=0x2f15
 Label=PAYPHONE
-StreetDesc=Church St O/S Woolworths Timaru/ Telecom, payphone, public phone box
+StreetDesc=Church St O/S Countdown Timaru/ Telecom, payphone, public phone box
 Phone=+6436846111
 Data0=(-44.39569,171.23945)
 [END]
@@ -206057,5 +206058,23 @@ StreetDesc=Chc/ Computer Consulting, Your Local IT Solutions Expert
 Phone=+6439290410
 zip=Mon - Fri 9:00am - 5:00pm
 Data0=(-43.53205,172.63622)
+[END]
+
+;1195136
+[POI]
+Type=0x2f
+Label=CLEANTASTIC NELSON/MARLBOROUGH/CANTERBURY & SOUTH ISLAND
+StreetDesc=Unit 1, 29 Acheron Dr, Riccarton, Chc City, Canterbury/ Commercial and office cl
+Phone=0800800055
+Data0=(-43.53894,172.58788)
+[END]
+
+;1195141
+[POI]
+Type=0x2f03
+Label=COCKRAM MOTOR GROUP SERVICE
+StreetDesc=131b St Asaph st, Chc/ Hyundai, Euromarque
+Phone=+6439635777
+Data0=(-43.53626,172.63282)
 [END]
 

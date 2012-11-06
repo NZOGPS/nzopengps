@@ -28004,7 +28004,7 @@ Data0=(-41.50197,173.96115)
 [POI]
 Type=0x2b03
 Label=CHRISTCHURCH TOP 10 HOLIDAY PARK
-StreetDesc=39 Meadow St, Chc/ Holiday park, campground, motorhomes, campervans, tent sites
+StreetDesc=39 Meadow St, Chc/ Holiday park providing budget accommodation in Christchurch. 
 Phone=+6433529176
 Data0=(-43.49067,172.61791)
 [END]
@@ -52320,9 +52320,9 @@ Data0=(-43.53383,172.70165)
 [POI]
 Type=0x2f
 Label=MACLEOD & ASSOCIATES (NZ) LTD
-StreetDesc=L 1, 80 Filleul St, Dud/ 
+StreetDesc=Lower Ground Fl, 66 Tennyson St, Dud/ Electrical & Mechanical Consulting Enginee
 Phone=+6434772402
-Data0=(-45.86978,170.50414)
+Data0=(-45.87440,170.49997)
 [END]
 
 ;1108903
@@ -72178,10 +72178,10 @@ Data0=(-43.54217,172.66368)
 [POI]
 Type=0x2f
 Label=ALL ABOUT YOU
-StreetDesc=Shop 37, L 0, Westfield Riccarton, 129 Riccarton Rd, Riccarton, Chc/ Beauty ther
+StreetDesc=162 Clarence St, Riccarton, Chc/ Beauty therapy salon, skincare, tanning, nails
 Phone=+6433483949
-zip=7 days Late nights Thu/Fri to 9pm
-Data0=(-43.53147,172.59692)
+zip=Tue-Sat 9am-6pm, Late nights Tue-Thu
+Data0=(-43.53240,172.60247)
 [END]
 
 ;1117856
@@ -87904,9 +87904,9 @@ Data0=(-45.89761,170.50958)
 
 ;1128409
 [POI]
-Type=0x2f
-Label=ISLAND PARK MOTOR SPEEDWAY, DUNEDIN
-StreetDesc=130 Friendship Dr Waldronville/ 
+Type=0x2c06
+Label=BEACHLANDS SPEEDWAY, DUNEDIN
+StreetDesc=130 Friendship Dr Waldronville/ SNZ, Island Park, Saloons, Streetstocks
 Data0=(-45.92453,170.40823)
 [END]
 
@@ -111351,16 +111351,6 @@ Label=SOUNDS CONNECTION
 StreetDesc=10 London Qy, Picton/ Marlborough wine, arts and crafts, and fishing tours
 Phone=0800742866
 Data0=(-41.28894,174.00768)
-[END]
-
-;1136195
-[POI]
-Type=0x2c0a
-Label=RIVER FARM WINES
-StreetDesc=36 Godfrey Rd, Blenheim/ Winery, cellar door - boutique limited release Marlboro
-Phone=+6435729091
-zip=11.00 AM – 5.30 PM - 7 days
-Data0=(-41.51535,173.84396)
 [END]
 
 ;1136196
@@ -153644,8 +153634,9 @@ Data0=(-43.48730,171.64953)
 [POI]
 Type=0x2b00
 Label=RAETIHI LODGE
-StreetDesc=7124 Kenepuru Sound Rd, Kenepuru Sound, Marlborough Sounds/ Accommodation
-Data0=(-41.18555,173.93838)
+StreetDesc=7124 Kenepuru Rd, Raetihi, Marlborough Sounds/ Raetihi lodge offers luxury lodge
+Phone=+6435734300
+Data0=(-41.18616,173.93797)
 [END]
 
 ;1159725
@@ -206182,5 +206173,70 @@ StreetDesc=18 Birmingham Dr, Middleton, Chc/ BBQs, Barbeques, Barbecues - spare 
 Phone=+6433392375
 zip=Mon-Fri 9am-4.30pm. Sat 10am-2pm
 Data0=(-43.54375,172.59069)
+[END]
+
+;1195353
+[POI]
+Type=0x2f
+Label=MAGELLAN SOFTWARE LTD
+StreetDesc=65 Mount St, Nelson 7010/ Magellan Software provides custom software solutions f
+Phone=+6435468622
+Data0=(-41.27994,173.27648)
+[END]
+
+;1195354
+[POI]
+Type=0x2f
+Label=SMITHS HIRE
+StreetDesc=1190 Main North Rd, Chaneys, Chc/ Rental Equipment Specialists. Tractors, digger
+Phone=+6433238029
+zip=Mon-Sat 7:30am-5:30pm, Sun 11am-2pm
+Data0=(-43.42428,172.65078)
+[END]
+
+;1195355
+[POI]
+Type=0x2c08
+Label=FORSYTH BARR STADIUM
+StreetDesc=130 Anzac Ave Dud/ Rugby, Market days (Sunday)
+Phone=+6434792823
+Data0=(-45.86927,170.52656)
+[END]
+
+;1195370
+[POI]
+Type=0x2f
+Label=HEALTHPOST NZ
+StreetDesc=30 Orion St, Collingwood 7073/ Online shop for supplements, natural health and b
+Phone=0800148148
+Data0=(-40.68429,172.68026)
+[END]
+
+;1195377
+[POI]
+Type=0x2b01
+Label=LINCOLN MOTEL
+StreetDesc=4-6 Maurice St, Lincoln, New Zealand/ Accommodation, double-glazed windows in al
+Phone=+6439741620
+Data0=(-43.64125,172.48277)
+[END]
+
+;1195385
+[POI]
+Type=0x2f
+Label=QUICKCASH FINANCE RICHMOND
+StreetDesc=278 Queen St, Richmond, 7020/ Finance company that offers personal and business 
+Phone=0800784252
+zip=8:30am - 5:00pm
+Data0=(-41.33836,173.18386)
+[END]
+
+;1195393
+[POI]
+Type=0x2f
+Label=FIRST AVENUE PROPERTY MANAGEMENT
+StreetDesc=918 Colombo St, Chc/ First Avenue offers a personal service for property managem
+Phone=+6433770509
+Data0=(-43.52114,172.63681)
 [END]
 

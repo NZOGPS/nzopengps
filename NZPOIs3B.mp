@@ -39507,9 +39507,9 @@ Data0=(-43.54465,172.63294)
 [POI]
 Type=0x2f
 Label=ANIMATION RESEARCH LTD
-StreetDesc=442 Moray Place, Dud/ 
+StreetDesc=8 Dowling St, Dud 9016/ 
 Phone=+6434772995
-Data0=(-45.87534,170.50430)
+Data0=(-45.87674,170.50382)
 [END]
 
 ;1101194
@@ -44203,7 +44203,7 @@ Data0=(-43.52687,172.63396)
 [POI]
 Type=0x2b01
 Label=CROWNE PLAZA QUEENSTOWN
-StreetDesc=Beach St, Queenstown/ Accommodation
+StreetDesc=Beach St, Queenstown/ Hotel accommodation
 Phone=+6434410095
 Data0=(-45.03326,168.65684)
 [END]
@@ -91158,7 +91158,7 @@ Data0=(-45.87427,170.50170)
 [POI]
 Type=0x2a
 Label=THE TERRACE RESTAURANT & BAR
-StreetDesc=6 The Octagon, Dud/ Sports restaurant & bar in Dunedin offering casual dining wi
+StreetDesc=6 The Octagon, Dud/ Dunedin restaurant & sports bar. Enjoy casual dining with ou
 Phone=+6434790010
 zip=Monday - Sunday 10.30am - Late
 Data0=(-45.87383,170.50432)
@@ -96217,10 +96217,10 @@ Data0=(-43.54014,172.62946)
 ;1131264
 [POI]
 Type=0x2d07
-Label=GARDEN CITY BOWL
-StreetDesc=15 Iversen Tce, Chc/ Ten-pin bowling alley
+Label=AMF GARDEN CITY
+StreetDesc=15 Iversen Tce, Chc/ Ten-pin bowling alley, cafe, bar, proshop
 Phone=+6433663323
-zip=every day 9am until late
+zip=Mon-Fri 10am-late, Weekends and Public H
 Data0=(-43.54156,172.64856)
 [END]
 
@@ -104377,15 +104377,6 @@ StreetDesc=45 Otaki St Dud/ Manufacturer of custom-made doors. Gates, Balustrade
 Phone=+6434556134
 zip=8 - 5 Mon - Fri 9 - 12 Sat
 Data0=(-45.89223,170.50769)
-[END]
-
-;1132639
-[POI]
-Type=0x2f
-Label=HOMEPLUS NELSON
-StreetDesc=74 Pascoe St, Nelson/ Manufacturer of custom-made doors. Gates, Balustrade, Awni
-Phone=+6435465680
-Data0=(-41.29451,173.24067)
 [END]
 
 ;1132640
@@ -138966,9 +138957,10 @@ Data0=(-44.29944,170.11270)
 ;1151109
 [POI]
 Type=0x2f
-Label=ROSLYN MILLS STORAGE
-StreetDesc=229 Kaikorai Valley Rd, Bradford, Otago 9011/ Self-storage
+Label=ROSLYN STORAGE - KAIKORAI
+StreetDesc=229 Kaikorai Valley Rd, Bradford, Otago 9011/ Storage, Self-Storage, Commercial 
 Phone=+6434536009
+zip=Monday - Friday: 8am to 5pm. Saturdays: 
 Data0=(-45.87174,170.47341)
 [END]
 
@@ -202390,7 +202382,7 @@ Data0=(-44.98178,170.29437)
 [POI]
 Type=0x2f
 Label=STRESS RELEASE PHYSIOTHERAPY
-StreetDesc=65 Major Hornbrook Rd, Mt Pleasant,Chc/ learn to relax and breathe with ease
+StreetDesc=65 Major Hornbrook Rd, Mt Pleasant,Chc/ breathing therapist,learn to relax and b
 Phone=+6433764588
 Data0=(-43.56204,172.71664)
 [END]
@@ -206238,5 +206230,110 @@ Label=FIRST AVENUE PROPERTY MANAGEMENT
 StreetDesc=918 Colombo St, Chc/ First Avenue offers a personal service for property managem
 Phone=+6433770509
 Data0=(-43.52114,172.63681)
+[END]
+
+;1195396
+[POI]
+Type=0x2e
+Label=ANIMAL ATTRACTION
+StreetDesc=203 Crawford St, Dud/ Animal Attraction, pet shop, Quality goods, pet store, cat
+Phone=+6434771774
+zip=Mon-Fri 8.30am till 5.30, Sat-Sun 10am t
+Data0=(-45.88435,170.49979)
+[END]
+
+;1195411
+[POI]
+Type=0x2f
+Label=FERGS HOME KILL SERVICES LIMITED
+StreetDesc=115 Turner St, Edendale/ home kill, meat, sheep, beef, venison, butcher, edendal
+Phone=+6432066999
+Data0=(-46.31673,168.79421)
+[END]
+
+;1195425
+[POI]
+Type=0x2f03
+Label=CV JOINTS
+StreetDesc=11 Kilronan Place, Wigram Chc 8042/ CV Specialists at cvspecialists.co.nz offer 
+Phone=+6433790436
+Data0=(-43.54419,172.56659)
+[END]
+
+;1195431
+[POI]
+Type=0x2f
+Label=HOMEPLUS TIMARU
+StreetDesc=27 North St, Timaru/ Manufacturer of custom-made doors. Gates, Balustrade, Awnin
+Phone=+6436871296
+Data0=(-44.40051,171.25300)
+[END]
+
+;1195433
+[POI]
+Type=0x2f
+Label=HOMEPLUS ASHBURTON
+StreetDesc=51 Robinson St, Ashburton 7700/ Manufacturer of custom-made doors. Gates, Balust
+Phone=+6433082966
+Data0=(-43.90229,171.73869)
+[END]
+
+;1195441
+[POI]
+Type=0x2a0e
+Label=MATHESON CAFE
+StreetDesc=1 Lake Matheson Rd, Fox Glacier 7859/ Cafe
+Phone=+6437510878
+zip=8am – 4pm
+Data0=(-43.44644,169.96940)
+[END]
+
+;1195454
+[POI]
+Type=0x2f
+Label=LOANS 2 GO
+StreetDesc=1/45 Mandeville St Chc 8011/ Get a quick cash loan or a personal loan with onlin
+Phone=+6433432260
+zip=8:30am - 5:00pm Monday - Friday
+Data0=(-43.53447,172.60646)
+[END]
+
+;1195462
+[POI]
+Type=0x2f
+Label=STUDIO KOI - CHRISTCHURCH WEDDING PHOTOGRAPHERS
+StreetDesc=18 Creedon Glen, Casebrook, Chc New Zealand/ Wedding Photographers, Wedding phot
+Phone=+21337988
+zip=8am - 9pm
+Data0=(-43.46821,172.60913)
+[END]
+
+;1195473
+[POI]
+Type=0x2f
+Label=ROSLYN STORAGE - GARDENS
+StreetDesc=149 North Rd, North East Valley, Dud 9010/ Storage, Self-Storage, Commercial Sto
+Phone=0800270270
+zip=Monday to Friday: 8:30am – 5pm. Saturday
+Data0=(-45.85060,170.52485)
+[END]
+
+;1195484
+[POI]
+Type=0x2a07
+Label=BURGER KING ADDINGTON
+StreetDesc=366 Lincoln Rd, Chc/ Fast food restaurant, burgers, takeaways, drive-thru
+Phone=+6433396497
+Data0=(-43.54221,172.61463)
+[END]
+
+;1195493
+[POI]
+Type=0x2f
+Label=CONTINUUM ARCHITECTURE
+StreetDesc=26 Stansell Ave, Nelson 7011/ We offer a full Architectural service from concept
+Phone=+6435486778
+zip=8.30 - 5.30 Monday-Friday
+Data0=(-41.28249,173.25265)
 [END]
 

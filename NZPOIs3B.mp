@@ -12569,15 +12569,6 @@ Phone=+6432085129
 Data0=(-46.10665,168.94053)
 [END]
 
-;1043190
-[POI]
-Type=0x2f01
-Label=CALTEX FAVORIT SERVICE CENTRE LTD
-StreetDesc=362 King Edward St, Dud/ Caltex petrol station
-Phone=+6434553517
-Data0=(-45.89804,170.50258)
-[END]
-
 ;1043197
 [POI]
 Type=0x2f01
@@ -32786,9 +32777,10 @@ Data0=(-46.23767,169.73956)
 [POI]
 Type=0x2f
 Label=AMI BLENHEIM
-StreetDesc=12 Main St, Blenheim/ House, vehicle, car, motorcycle, boat, contents, fire and 
+StreetDesc=7 Scott St/ House, vehicle, car, motorcycle, boat, contents, fire and general in
 Phone=+6435209340
-Data0=(-41.51378,173.95847)
+zip=Mon - Fri, 8.30 - 5pm
+Data0=(-41.51438,173.95703)
 [END]
 
 ;1095881
@@ -39355,15 +39347,6 @@ zip=Mon-Fri 0800-1630
 Data0=(-43.51790,172.69399)
 [END]
 
-;1101126
-[POI]
-Type=0x2f
-Label=AMI INSURANCE LTD
-StreetDesc=6 Show Place, Addington, Chc/ Insurance, Canterbury Earthquake Management Team
-Phone=0800100200
-Data0=(-43.54142,172.60336)
-[END]
-
 ;1101127
 [POI]
 Type=0x2f
@@ -39968,9 +39951,9 @@ Data0=(-43.97508,171.29738)
 [POI]
 Type=0x2f
 Label=ASCO CARBON DIOXIDE LTD
-StreetDesc=7 Canterbury St, Hornby, Chc/ 
+StreetDesc=7 Canterbury St, Hornby, Chc/ Manufacturer and exporter of carbon dioxide and dr
 Phone=+6433497029
-zip=Mon-Fri 0800-1700
+zip=Mon-Fri 8am-5pm
 Data0=(-43.54178,172.53197)
 [END]
 
@@ -54245,11 +54228,11 @@ Data0=(-43.52203,172.58222)
 
 ;1110002
 [POI]
-Type=0x2f
-Label=NATCOLL DESIGN TECHNOLOGY
-StreetDesc=L 16, 151 Kilmore St, Chc/ 
+Type=0x2c05
+Label=YOOBEE SCHOOL OF DESIGN
+StreetDesc=CSM College, 537-541 Innes Rd, Mairehau, Chc/ 
 Phone=+6433774328
-Data0=(-43.52646,172.63834)
+Data0=(-43.49204,172.65318)
 [END]
 
 ;1110023
@@ -74579,15 +74562,6 @@ StreetDesc=19-41 W Coast Rd Springfield Canterbury 7681/ Public Toilet
 Data0=(-43.33779,171.92898)
 [END]
 
-;1119218
-[POI]
-Type=0x2a
-Label=LAKE HAWEA MOTOR INN
-StreetDesc=1 Capell Ave, Lake Hawea/ Accommodation, bar, restaurant, bottle store, function
-Phone=0800429324
-Data0=(-44.60954,169.25369)
-[END]
-
 ;1119220
 [POI]
 Type=0x2a
@@ -87607,7 +87581,7 @@ Data0=(-41.76102,171.59971)
 [POI]
 Type=0x2b01
 Label=554 MOANA COURT MOTEL
-StreetDesc=554 Tay St, Hawthorndale, Invercargill 9810, Southland/ Self-contained tourist, 
+StreetDesc=554 Tay St, Hawthorndale, Invercargill 9810, Southland/ Self-contained Invercarg
 Phone=+6432178443
 zip=7.00am - 10.00pm
 Data0=(-46.40831,168.38336)
@@ -88504,7 +88478,8 @@ Data0=(-45.87729,170.50019)
 [POI]
 Type=0x2a
 Label=CROWN MILL RESTAURANT
-StreetDesc=2 Manor Place, Dud/ restaurant
+StreetDesc=2 Manor Place, Dud/ restaurant, bar
+Phone=+34773630
 Data0=(-45.88221,170.49850)
 [END]
 
@@ -92400,10 +92375,10 @@ Data0=(-43.64050,172.48380)
 [POI]
 Type=0x2e0b
 Label=YOOBEE DUNEDIN
-StreetDesc=80 Crawford St, Dud/ Apple computers authorised sales and service centre. iPods,
+StreetDesc=293 George St, Dud/ Apple computers authorised sales and service centre. iPods, 
 Phone=08004966233
-zip=Mon-Fri 9am-5.30pm, Sat 10am-4pm, Sun 11
-Data0=(-45.88042,170.50150)
+zip=Mon-Fri 9am-5.30pm, Fri 9am-7pm, Sat 10a
+Data0=(-45.86997,170.50575)
 [END]
 
 ;1130456
@@ -116110,7 +116085,7 @@ Label=CHINESE GARDEN DUNEDIN
 StreetDesc=Rattray St, Dud/ Chinese Restaurant
 Phone=+34773248
 zip=10 am to 5 pm, 7 days
-Data0=(-45.87481,170.49834)
+Data0=(-45.87846,170.50507)
 [END]
 
 ;1138261
@@ -135886,7 +135861,7 @@ Data0=(-43.47756,172.61659)
 Type=0x2f
 Label=PLUNKET RUSSLEY
 StreetDesc=18 Pinehurst Cres, Russley, Chc/ Childcare Services
-Phone=+6433478028
+Phone=+6433429782
 Data0=(-43.51722,172.54069)
 [END]
 
@@ -140807,9 +140782,10 @@ Data0=(-45.86504,170.48771)
 
 ;1151859
 [POI]
-Type=0x2d02
+Type=0x2b01
 Label=LAKE HAWEA HOTEL
-StreetDesc=Capell Ave, Hawea Flat, Otago/ 
+StreetDesc=1 Capell Ave, Lake Hawea/ Hotel accommodation. The Grill Room restaurant. The St
+Phone=+6434431224
 Data0=(-44.60984,169.25372)
 [END]
 
@@ -178599,7 +178575,7 @@ Data0=(-45.81503,170.62067)
 Type=0x2c04
 Label=DONAGHY'S ROPE WALK
 StreetDesc=186 Macandrew Rd, Dud/ Historic Place: Category 1
-Data0=(-45.89893,170.49433)
+Data0=(-45.89649,170.49090)
 [END]
 
 ;1172671
@@ -179402,6 +179378,7 @@ Type=0x2c04
 Label=DUNEDIN GASWORKS MUSEUM
 StreetDesc=20 Braemar St,, Dud/ Historic Place: Category 1
 Phone=+6434555063
+zip=Sunday & Tuesday 12:00 noon - 4:00 pm
 Data0=(-45.89318,170.50212)
 [END]
 
@@ -181856,15 +181833,6 @@ Label=RODGERS AND CO LTD, CHARTERED ACCOUNTANTS
 StreetDesc=1/47 Mandeville St, Riccarton, Chc/ Accountants and Business Consultants. We pro
 Phone=+6433433068
 Data0=(-43.53415,172.60650)
-[END]
-
-;1173690
-[POI]
-Type=0x2b01
-Label=LAKE HAWEA MOTEL
-StreetDesc=60 Capell Ave, Lake Hawea/ Motel accommodation, Self Catering, Studio Units
-Phone=+6434411188
-Data0=(-44.61041,169.25840)
 [END]
 
 ;1173691
@@ -205444,7 +205412,7 @@ Data0=(-41.47540,173.83392)
 [POI]
 Type=0x2f
 Label=CRAIG SCOULLAR ELECTRICAL
-StreetDesc=11 McNab St Kenmure Dud 9011 New Zealand/ Registered Electricians in Dunedin for
+StreetDesc=11 McNab St Kenmure Dud 9011 New Zealand/ Registered Dunedin electricians for fa
 Phone=+6434882097
 zip=8.00am - 5.00pm Mon - Fri
 Data0=(-45.88967,170.45962)
@@ -206335,5 +206303,33 @@ StreetDesc=26 Stansell Ave, Nelson 7011/ We offer a full Architectural service f
 Phone=+6435486778
 zip=8.30 - 5.30 Monday-Friday
 Data0=(-41.28249,173.25265)
+[END]
+
+;1195522
+[POI]
+Type=0x2f
+Label=FORBURY PARK TROTTING CLUB INC.
+StreetDesc=146 Victoria Rd, St Kilda, Dud/ Harness Racing Track
+Phone=+6434552154
+Data0=(-45.90798,170.49889)
+[END]
+
+;1195528
+[POI]
+Type=0x2f
+Label=WORKPLACE FIRST AID LTD
+StreetDesc=26 Glengyle St, Dud/ First Aid for the Workplace. All Dunedin businesses must me
+Phone=+6434543040
+zip=The hours are everyday and at anytime. W
+Data0=(-45.88507,170.52640)
+[END]
+
+;1195529
+[POI]
+Type=0x2e08
+Label=CHESTER ELECTRICS 2010 LTD
+StreetDesc=74 Kingsley St/ Electric motors, power tool repairs
+Phone=+6433663834
+Data0=(-43.54395,172.64384)
 [END]
 

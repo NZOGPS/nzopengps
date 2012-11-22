@@ -685,7 +685,7 @@ Type=0x2a07
 Label=BURGER KING SHIRLEY
 StreetDesc=7 Marshland Rd, Shirley, Chc/ Fast food restaurant, burgers, takeaways, drive-th
 Phone=+6433856522
-Data0=(-43.50750,172.66260)
+Data0=(-43.50729,172.66241)
 [END]
 
 ;1003486
@@ -30609,8 +30609,9 @@ Data0=(-46.35008,168.01682)
 [POI]
 Type=0x2a07
 Label=THE FLYING FISH
-StreetDesc=117F Carters Rd, Amberley/ fish & chips, takeaways
+StreetDesc=117F Carters Rd, Amberley/ fish & chips, chinese takeaways
 Phone=+6433148260
+zip=till 9
 Data0=(-43.15597,172.73033)
 [END]
 
@@ -36214,10 +36215,10 @@ Data0=(-43.54065,172.64371)
 [POI]
 Type=0x2e
 Label=CYCLE TRADING COMPANY
-StreetDesc=27 Manchester St, Chc/ Bicycles, Sales, Service, Bikes, cycle touring
+StreetDesc=24 Bath St, Chc/ Bicycles, Sales, Service, Bikes, cycle touring
 Phone=+6433663760
 zip=Mon-Fri 8.30am-5.30pm Sat 10.00am-2.00pm
-Data0=(-43.53850,172.63968)
+Data0=(-43.53928,172.63518)
 [END]
 
 ;1098777
@@ -38799,7 +38800,7 @@ Data0=(-46.09530,168.94679)
 [POI]
 Type=0x2f
 Label=AITKEN PLUMBERS LTD
-StreetDesc=6 Serpentine Ave Dud 9016 New Zealand/ Reliable expert plumbers in Dunedin with 
+StreetDesc=6 Serpentine Ave Dud 9016 New Zealand/ Reliable expert Dunedin plumbers. Quality
 Phone=+6434770410
 zip=Monday - Friday 8.00am - 5.00pm
 Data0=(-45.87844,170.49421)
@@ -47002,9 +47003,9 @@ Data0=(-41.27570,173.28660)
 [POI]
 Type=0x2f
 Label=FOREVER BEECH LTD
-StreetDesc=15 Hauhau Rd, Hokitika 7810/ Timber Suppliers
-Phone=+6437568155
-Data0=(-42.72364,170.98433)
+StreetDesc=10 Gannons Rd RD 1 Reefton 7895/ Timber Suppliers
+Phone=+6437328414
+Data0=(-42.09299,171.85016)
 [END]
 
 ;1105705
@@ -58798,15 +58799,6 @@ Phone=+6434556660
 Data0=(-45.89619,170.50163)
 [END]
 
-;1112815
-[POI]
-Type=0x2f
-Label=RUSSLEY ENGINEERING LTD
-StreetDesc=511 Wairakei Rd, Chc/ 
-Phone=+6433591202
-Data0=(-43.48983,172.56872)
-[END]
-
 ;1112816
 [POI]
 Type=0x2f
@@ -62985,9 +62977,9 @@ Data0=(-43.51059,172.67396)
 [POI]
 Type=0x2f
 Label=TRADE SIGNS LIMITED
-StreetDesc=223 Annex Rd, Middleton, Chc/ 
+StreetDesc=513 Wairakei Rd, Burnside Chc 8053/ 
 Phone=+6433388558
-Data0=(-43.54358,172.58243)
+Data0=(-43.49003,172.56845)
 [END]
 
 ;1115116
@@ -78566,9 +78558,10 @@ Data0=(-41.50277,173.96048)
 [POI]
 Type=0x2e
 Label=HAUNT ANTIQUES
-StreetDesc=1 Wakefield Ave, Sumner, Chc/ Antiques, Antique Shop
+StreetDesc=80 Coleridge St, Sydenham, Chc/ Antiques for the modern interior
 Phone=+6421328896
-Data0=(-43.56866,172.75931)
+zip=Saturdays 11am-4pm
+Data0=(-43.54600,172.64410)
 [END]
 
 ;1120453
@@ -85486,9 +85479,9 @@ Data0=(-46.89702,168.12906)
 [POI]
 Type=0x4c
 Label=AKAROA VISITOR CENTRE
-StreetDesc=80 Rue Lavaud, Akaroa/ Tourist & Visitor information, New Zealand Post Agency an
+StreetDesc=120 Rue Jolie, Akaroa/ Tourist & Visitor information, New Zealand Post Agency an
 Phone=+6433048600
-Data0=(-43.80532,172.96693)
+Data0=(-43.80985,172.96293)
 [END]
 
 ;1122648
@@ -104112,8 +104105,8 @@ Data0=(-43.64091,172.48253)
 Type=0x2c03
 Label=LINCOLN COMMUNITY TOY LIBRARY INC
 StreetDesc=158 North Belt, Lincoln, Selwyn/ Toy Library
-Phone=+6433187111
-zip=Saturday 9:30am - Noon, 1st & 3rd Wednes
+Phone=+6433798700
+zip=Saturday 9:30am - Noon, and 1st & 3rd We
 Data0=(-43.63787,172.48306)
 [END]
 
@@ -105234,16 +105227,6 @@ StreetDesc=19A Portsmouth Dr, Dud/ Builders
 Phone=+6434701122
 zip=Mon-Fri 0830-1700
 Data0=(-45.88646,170.50626)
-[END]
-
-;1133579
-[POI]
-Type=0x2f
-Label=G.J. GARDNER HOMES SOUTHLAND
-StreetDesc=113 North Rd, Invercargill/ Builders
-Phone=+6432158015
-zip=Mon-Fri 0830-1700
-Data0=(-46.38499,168.34756)
 [END]
 
 ;1133601
@@ -124448,7 +124431,7 @@ Type=0x2f15
 Label=PAYPHONE
 StreetDesc=Marshlands Rd cnr Shirley Rd, Shirley Chc/ Telecom, payphone, public phone box, 
 Phone=+6433856459
-Data0=(-43.50779,172.66292)
+Data0=(-43.50739,172.66294)
 [END]
 
 ;1141960
@@ -127184,7 +127167,7 @@ Type=0x2f15
 Label=PAYPHONE
 StreetDesc=SHW 1 cnr Rapaura Rd O/S Spring Creek Supermarket Spring Creek/ Telecom, payphon
 Phone=+6435705320
-Data0=(-41.45461,173.96157)
+Data0=(-41.46049,173.96201)
 [END]
 
 ;1142289
@@ -127517,7 +127500,7 @@ Type=0x2f15
 Label=PAYPHONE
 StreetDesc=Seymour St cnr Arthur St O/S Countdown Supermarket Blenheim/ Telecom, payphone, 
 Phone=+6435777652
-Data0=(-41.51360,173.95461)
+Data0=(-41.51370,173.95453)
 [END]
 
 ;1142329
@@ -133786,10 +133769,12 @@ Data0=(-43.54395,172.63340)
 
 ;1147072
 [POI]
-Type=0x2f
+Type=0x2d02
 Label=THE IRISHMAN
-StreetDesc=192 Manchester St, Chc/ 
-Data0=(-43.53056,172.63985)
+StreetDesc=177 St Asaph St, Chc/ Bar, Cafe
+Phone=+6433774787
+zip=8 am to 3 am
+Data0=(-43.53608,172.63583)
 [END]
 
 ;1147073
@@ -147470,10 +147455,10 @@ Data0=(-42.41462,173.70091)
 [POI]
 Type=0x2f
 Label=MT COOK ALPINE SALMON
-StreetDesc=Lake Pukaki/ Salmon farm
-Phone=+6421370038
-zip=10am-5pm
-Data0=(-44.09586,170.23999)
+StreetDesc=Lake Pukaki/ 
+Phone=+6434350427
+zip=8.30am-sunset
+Data0=(-44.18990,170.14029)
 [END]
 
 ;1156487
@@ -147907,11 +147892,11 @@ Data0=(-43.53150,172.60036)
 ;1157384
 [POI]
 Type=0x2e
-Label=?BED BATH AND BEYOND THE PALMS
+Label=BED BATH AND BEYOND THE PALMS
 StreetDesc=The Palms Shopping Ctr, Cnr Marshland & New Brighton Rds, Shirley, Chc/ Bedding,
 Phone=+6433859647
 zip=Monday to Saturday 9am-6pm, Late Night T
-Data0=(-43.50654,172.66371)
+Data0=(-43.50599,172.66410)
 [END]
 
 ;1157424
@@ -148049,10 +148034,10 @@ Data0=(-43.53096,172.59767)
 ;1157475
 [POI]
 Type=0x2e
-Label=?PASCOES SHIRLEY
+Label=PASCOES SHIRLEY
 StreetDesc=Shop 50, The Palms Mall, Cnr New Brighton & Marshland Rds, Shirley, Chc/ Jewelle
 Phone=+6433850683
-Data0=(-43.50654,172.66371)
+Data0=(-43.50644,172.66456)
 [END]
 
 ;1157477
@@ -149561,11 +149546,11 @@ Data0=(-43.53011,172.59790)
 ;1158116
 [POI]
 Type=0x2e07
-Label=?PUMPKIN PATCH THE PALMS
+Label=PUMPKIN PATCH THE PALMS
 StreetDesc=The Palms Shopping Ctr, Cnr New Brighton & Marshlands Rds, Shirley, Chc/ Childre
 Phone=+6433862010
 zip=Mon-Wed 9am-6pm, Thu-Fri 9-9pm, Sat 10am
-Data0=(-43.50654,172.66371)
+Data0=(-43.50729,172.66493)
 [END]
 
 ;1158117
@@ -159897,11 +159882,12 @@ Data0=(-46.57936,168.94391)
 
 ;1163461
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=TOKOMAIRIRO EARLY LEARNING CENTRE
-StreetDesc=30 Johnson St, Milton/ 
+StreetDesc=94 Johnson St, Milton/ 0-6 years
 Phone=+6434178180
-Data0=(-46.12318,169.96072)
+zip=Mon-Fri 6:45am-5:30pm
+Data0=(-46.11864,169.96587)
 [END]
 
 ;1163507
@@ -160857,10 +160843,10 @@ Data0=(-41.33857,173.18620)
 ;1164068
 [POI]
 Type=0x2f
-Label=?SPECSAVERS SHIRLEY
+Label=SPECSAVERS SHIRLEY
 StreetDesc=The Palms Mall, Cnr New Brighton & Marshland Rds, Shirley, Chc/ Optometrist. Eye
 Phone=+6433852780
-Data0=(-43.50654,172.66371)
+Data0=(-43.50576,172.66413)
 [END]
 
 ;1164078
@@ -161277,8 +161263,9 @@ Data0=(-43.31508,172.59847)
 [POI]
 Type=0x2f03
 Label=SPECIALISED PANEL & PAINT
-StreetDesc=243 - 245 Lichfield St, Chc/ Panelbeaters
+StreetDesc=243 - 245 Lichfield St, Chc/ Panelbeaters Car repairers crash insurance approved
 Phone=+6433771106
+zip=Mon - Fri 7.30am - 5pm
 Data0=(-43.53408,172.64933)
 [END]
 
@@ -162595,7 +162582,7 @@ Label=COFFEE CULTURE BECKENHAM
 StreetDesc=Cnr Colombo & Tennyson St, Chc/ Cafe
 Phone=+6433318100
 zip=Open until 10pm everyday
-Data0=(-43.55801,172.63688)
+Data0=(-43.55753,172.63707)
 [END]
 
 ;1165284
@@ -173374,11 +173361,11 @@ Data0=(-45.88311,170.53273)
 
 ;1170849
 [POI]
-Type=0x2f
+Type=0x2c00
 Label=OTAGO CENTRAL RAIL TRAIL 24HR
-StreetDesc=Clyde-Middlemarch/ A non-profit project managed by the Otago Central Rail Trail 
-zip=24/7
-Data0=(-45.24797,169.39746)
+StreetDesc=43 Dunstan Rd Alexandra 9320 | Clyde-Middlemarch-Clyde/ A non-profit project man
+zip=Otago Central Rail Trail 24/7
+Data0=(-45.24457,169.39450)
 [END]
 
 ;1170850
@@ -183804,10 +183791,10 @@ Data0=(-43.53115,172.59811)
 ;1174420
 [POI]
 Type=0x2e
-Label=?STRANDBAGS SHIRLEY
+Label=STRANDBAGS SHIRLEY
 StreetDesc=The Palms Mall, Cnr New Brighton & Marshland Rds, Shirley, Chc/ Bags, handbags, 
 Phone=+6433757023
-Data0=(-43.50654,172.66371)
+Data0=(-43.50697,172.66444)
 [END]
 
 ;1174424
@@ -184661,11 +184648,11 @@ Data0=(-43.49423,172.60967)
 ;1174703
 [POI]
 Type=0x2e07
-Label=?GLASSONS SHIRLEY
+Label=GLASSONS SHIRLEY
 StreetDesc=The Palms Shopping Ctr, Shop 38 Corner Marshland and New Brighton Roads Shirley/
 Phone=+6433859869
 zip=Mon-Wed 9am-6pm, Thu-Fri 9am-9pm, Sat-Su
-Data0=(-43.50778,172.66329)
+Data0=(-43.50724,172.66455)
 [END]
 
 ;1174704
@@ -188838,9 +188825,9 @@ Data0=(-43.50356,172.71129)
 [POI]
 Type=0x2f
 Label=SHADE PLUS
-StreetDesc=223 Annex Rd, Middleton, Chc/ Shade Sails, Outdoor Fabrics, Awnings, Canopies
+StreetDesc=513 Wairakei Rd, Burnside, Chc 8053/ Shade Sails, Outdoor Fabrics, Awnings, Cano
 Phone=+6433383355
-Data0=(-43.54358,172.58243)
+Data0=(-43.48997,172.56845)
 [END]
 
 ;1177576
@@ -189071,26 +189058,26 @@ Data0=(-43.53692,172.55778)
 ;1177717
 [POI]
 Type=0x2b00
-Label=SEASIDE LUXURY
-StreetDesc=34/265 Wakefield Qy, Stepneyville, Nelson 7010/ Apartment holiday home accommoda
+Label=WATERFRONT LUXURY
+StreetDesc=22/269 Wakefield Qy, Stepneyville, Nelson 7010/ Nelson Waterfront Apartment Acco
 Phone=+6435485822
-Data0=(-41.26344,173.26998)
+Data0=(-41.26373,173.26963)
 [END]
 
 ;1177718
 [POI]
 Type=0x2b00
-Label=FRANKLYN HOUSE
-StreetDesc=35 Franklyn St, Nelson South, Nelson 7010/ Holiday home accommodation
+Label=INNER-CITY PAD HOLIDAY HOME
+StreetDesc=370A Hardy St, Nelson/ Nelson City Central Holiday Home Accommodation
 Phone=+6435485822
-Data0=(-41.28542,173.27256)
+Data0=(-41.27502,173.29242)
 [END]
 
 ;1177720
 [POI]
 Type=0x2b00
-Label=WAIKAWA VIEWS
-StreetDesc=312A Waikawa Rd, Picton 7220/ Holiday home accommodation
+Label=WAIKAWA VIEWS HOLIDAY HOME
+StreetDesc=312A Waikawa Rd, Picton 7220/ Picton Holiday Home Accommodation
 Phone=+6435485822
 Data0=(-41.27114,174.04327)
 [END]
@@ -191820,7 +191807,8 @@ Data0=(-44.08577,171.24402)
 Type=0x2b00
 Label=SEASIDE LUXURY
 StreetDesc=34/269 Wakefield Qy, Stepneyville, Nelson/ Waterfront Apartment accommodation
-Data0=(-41.26374,173.26961)
+Phone=+6435485822
+Data0=(-41.26373,173.26963)
 [END]
 
 ;1179083
@@ -194413,7 +194401,7 @@ Data0=(-43.75513,172.02501)
 [POI]
 Type=0x4a00
 Label=LAKE ELTERWATER REST AREA
-StreetDesc=SH1 Lake Elterwater/ Rest Area
+StreetDesc=SH1 Lake Elterwater/ Rest Area, Toilets
 Data0=(-41.79420,174.14754)
 [END]
 
@@ -200944,15 +200932,6 @@ Phone=+6433797129
 Data0=(-43.54357,172.62828)
 [END]
 
-;1190509
-[POI]
-Type=0x2f
-Label=CARPET ONE MOBILE - INVERCARGILL
-StreetDesc=Invercargill/ Carpet, Carpets, Carpeting, Carpet Retailer, Carpet Store, Mobile 
-Phone=0800227738
-Data0=(-46.41319,168.35377)
-[END]
-
 ;1190516
 [POI]
 Type=0x2b01
@@ -205494,11 +205473,11 @@ Data0=(-41.37630,173.10993)
 
 ;1193500
 [POI]
-Type=0x2f
+Type=0x2e
 Label=THE TWISTED HOP
-StreetDesc=7b Parkhouse Rd, Wigram/ Brewery Shop, (www.beertourist.co.nz 2010: Off Licence)
+StreetDesc=7b Parkhouse Rd, Wigram/ Brewery Shop
 Phone=+6439623688
-Data0=(-43.54643,172.56283)
+Data0=(-43.54635,172.56280)
 [END]
 
 ;1193502
@@ -205933,6 +205912,7 @@ Data0=(-43.53626,172.63282)
 Type=0x2f
 Label=?IT ITCH
 StreetDesc=Chc/ web, search engine optimisation, seo, web hosting, domain names, SSL, web d
+Phone=0800002901
 Data0=(-43.53205,172.63622)
 [END]
 
@@ -206331,5 +206311,237 @@ Label=CHESTER ELECTRICS 2010 LTD
 StreetDesc=74 Kingsley St/ Electric motors, power tool repairs
 Phone=+6433663834
 Data0=(-43.54395,172.64384)
+[END]
+
+;1195532
+[POI]
+Type=0x2c05
+Label=SOUTHERN WINGS LTD.
+StreetDesc=76 Airport Ave Invercargill 9879 New Zealand/ Flight Training Aviation College.
+Phone=+32186171
+zip=9:00am - 5:00pm Monday to Friday
+Data0=(-46.41516,168.32525)
+[END]
+
+;1195556
+[POI]
+Type=0x4a00
+Label=ALFORD FOREST REST AREA
+StreetDesc=Arundel Rakaia Gorge Rd, Alford Forest. New Zealand/ Rest Area
+Data0=(-43.61190,171.50365)
+[END]
+
+;1195557
+[POI]
+Type=0x4a00
+Label=AWAKINO REST AREA
+StreetDesc=State Highway 83, Kurow, New Zealand/ Rest Area
+Data0=(-44.70148,170.44078)
+[END]
+
+;1195558
+[POI]
+Type=0x4a00
+Label=CAVE REST AREA
+StreetDesc=Cave Township, New Zealand/ Rest Area
+Data0=(-44.31010,170.95235)
+[END]
+
+;1195559
+[POI]
+Type=0x4a00
+Label=EDWARDS STREAM REST AREA
+StreetDesc=Fairlie-Tekapo Rd, Tekapo, New Zealand/ Rest Area
+Data0=(-44.06192,170.50174)
+[END]
+
+;1195560
+[POI]
+Type=0x4a00
+Label=LAKE PUKAKI REST AREA
+StreetDesc=Tekapo-Twizel Rd, Pukaki, New Zealand/ Rest Area
+Data0=(-44.19022,170.14123)
+[END]
+
+;1195561
+[POI]
+Type=0x4a00
+Label=LAKE WARDELL REST AREA
+StreetDesc=Tekapo-Twizel Rd, Ben Ohau, New Zealand/ Rest Area
+Data0=(-44.19673,170.12190)
+[END]
+
+;1195562
+[POI]
+Type=0x4a00
+Label=PAREORA RIVER REST AREA
+StreetDesc=Main South Rd, Pareora, New Zealand/ Rest Area
+Data0=(-44.49720,171.19757)
+[END]
+
+;1195563
+[POI]
+Type=0x4a00
+Label=ST. ANDREWS REST AREA
+StreetDesc=St. Andrews Township, New Zealand/ Rest Area
+Data0=(-44.52925,171.19350)
+[END]
+
+;1195564
+[POI]
+Type=0x4a00
+Label=STAVELEY REST AREA
+StreetDesc=Staveley, Arundel-Rakaia Gorge Rd, New Zealand/ Rest Area
+Data0=(-43.65305,171.44262)
+[END]
+
+;1195565
+[POI]
+Type=0x4a00
+Label=TAYLOR STREAM REST AREA
+StreetDesc=Arundel-Rakaia Gorge Rd, New Zealand/ Rest Area
+Data0=(-43.62080,171.48090)
+[END]
+
+;1195566
+[POI]
+Type=0x4a00
+Label=TWIZEL-OMARAMA REST AREA
+StreetDesc=Twizel-Omarama Rd, New Zealand/ Rest Area
+Data0=(-44.38253,169.99815)
+[END]
+
+;1195567
+[POI]
+Type=0x4a00
+Label=TWIZEL RIVER REST AREA
+StreetDesc=Tekapo-Twizel Rd, New Zealand/ Rest Area
+Data0=(-44.25403,170.11492)
+[END]
+
+;1195570
+[POI]
+Type=0x2b00
+Label=ABOVE THE CUT
+StreetDesc=130 Queen's Rd, Stepneyville, Nelson/ Nelson Waterfront Holiday Home
+Phone=+6435485822
+Data0=(-41.26767,173.26884)
+[END]
+
+;1195571
+[POI]
+Type=0x2b00
+Label=THE PENTHOUSE APARTMENT
+StreetDesc=41/269 Wakefield Qy, Stepneyville, Nelson/ Nelson Waterfront Apartment
+Phone=+6435485822
+Data0=(-41.26373,173.26963)
+[END]
+
+;1195572
+[POI]
+Type=0x2b00
+Label=ANCHORAGE VIEW
+StreetDesc=31 poynters Cres, stepneyville, nelson/ Nelson Waterfront Holiday Home Accommoda
+Phone=+6435485822
+Data0=(-41.26737,173.26802)
+[END]
+
+;1195573
+[POI]
+Type=0x2b00
+Label=BEACHVIEWS LUXURY HOLIDAY HOME
+StreetDesc=53 the Cliffs, Britannia Heights, Nelson/ Nelson Waterfront Holiday Home
+Phone=+6435485822
+Data0=(-41.27482,173.25915)
+[END]
+
+;1195574
+[POI]
+Type=0x2b00
+Label=OCEAN DREAMING HOLIDAY HOME WITH SPA & HARBOUR VIEWS!
+StreetDesc=37 fifeshire Cres, stepneyville, nelson/ Nelson Waterfront Holiday Home Accommod
+Phone=+6435485822
+Data0=(-41.26912,173.26576)
+[END]
+
+;1195575
+[POI]
+Type=0x2b00
+Label=CAPTAIN'S COTTAGE HOLIDAY ACCOMMODATION ON THE NELSON WATERFRONT!
+StreetDesc=369 wakefield Qy, stepneyville, nelson/ Nelson Waterfront Holiday Home Accommoda
+Phone=+6435485822
+Data0=(-41.26806,173.26470)
+[END]
+
+;1195576
+[POI]
+Type=0x2b00
+Label=QUEEN'S VISTA HOLIDAY HOME WITH 3 BEDROOMS & 3 BATHROOMS, STUNNING SEA VIEWS!
+StreetDesc=57 queens Rd, stepneyville, nelson/ Nelson Waterfront Holiday Home Accommodation
+Phone=+6435485822
+Data0=(-41.26474,173.27012)
+[END]
+
+;1195577
+[POI]
+Type=0x2b00
+Label=THE TREEHOUSE - LUXURY 2 BED, 2 BATH COASTAL ACCOMMODATION WITH SPA!
+StreetDesc=736a atawhai Cres, nelson/ Nelson Holiday Home Accommodation
+Phone=+6435485822
+Data0=(-41.23301,173.31957)
+[END]
+
+;1195578
+[POI]
+Type=0x2b00
+Label=COMMODORE - SEA VIEWS, MODERN HOLIDAY HOME IN TASMAN HEIGHTS!
+StreetDesc=29 commodore place, britannia heights, nelson/ Nelson Holiday Home Accommodation
+Phone=+6435485822
+Data0=(-41.29016,173.25332)
+[END]
+
+;1195579
+[POI]
+Type=0x2b00
+Label=RIVERSIDE VILLA - CENTRAL CITY HOLIDAY HOME
+StreetDesc=14 ajax St, nelson/ Nelson Central City Holiday Home
+Phone=+6435485822
+Data0=(-41.26981,173.28654)
+[END]
+
+;1195580
+[POI]
+Type=0x2b00
+Label=TRESILLIAN ONE FAMILY HOLIDAY HOME
+StreetDesc=71 tresillian Ave, atawhai, nelson/ Nelson Atawhai Holiday Home Accommodation
+Phone=+6435485822
+Data0=(-41.22826,173.32499)
+[END]
+
+;1195581
+[POI]
+Type=0x2f0c
+Label=HOKITIKA BEACH TOILET
+StreetDesc=Beach St, Hokitika/ Public Toilet
+Data0=(-42.71682,170.96063)
+[END]
+
+;1195606
+[POI]
+Type=0x2c0a
+Label=ORINOCO VINEYARDS
+StreetDesc=149 McShane Rd Richmond/ Winery, Cellar Door, Art Gallery
+Phone=+6435442320
+zip=Tues-Sun: 10am to 4pm
+Data0=(-41.33566,173.15755)
+[END]
+
+;1195607
+[POI]
+Type=0x2c05
+Label=TOKOMAIRIRO EARLY LEARNING CENTRE ON SPENSER
+StreetDesc=71 Spenser St, Milton/ 0-6 years
+zip=Mon-Fri 6:45am-5:30pm
+Data0=(-46.11862,169.96406)
 [END]
 

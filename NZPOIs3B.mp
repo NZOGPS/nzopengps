@@ -433,7 +433,7 @@ Type=0x2a07
 Label=KFC - SHIRLEY
 StreetDesc=75 Shirley Rd, Shirley, Chc/ Fast food restaurant, chicken, burgers, takeaways
 Phone=+6433855995
-Data0=(-43.50790,172.66180)
+Data0=(-43.50790,172.66217)
 [END]
 
 ;1002520
@@ -5244,7 +5244,7 @@ Type=0x2c05
 Label=SHIRLEY BOYS' HIGH SCHOOL
 StreetDesc=North Parade, Shirley, Chc/ State Boys Secondary School
 Phone=+6433757057
-Data0=(-43.51025,172.66203)
+Data0=(-43.51205,172.66063)
 [END]
 
 ;1019138
@@ -5253,7 +5253,7 @@ Type=0x2c05
 Label=SHIRLEY INTERMEDIATE
 StreetDesc=Cnr North Parade & Shirley Rd, Chc/ State Co-Ed Intermediate School
 Phone=+6433852229
-Data0=(-43.50865,172.66164)
+Data0=(-43.50887,172.66217)
 [END]
 
 ;1019145
@@ -10585,7 +10585,7 @@ Data0=(-43.53081,172.60018)
 [POI]
 Type=0x2d03
 Label=READING CINEMAS THE PALMS
-StreetDesc=Arena at The Palms, Cnr Marshland and New Brighton Roads, Chc/ cinema
+StreetDesc=Arena at The Palms, Cnr Marshland and New Brighton Roads, Chc/ Movie cinema
 Phone=+6433757080
 Data0=(-43.50755,172.66388)
 [END]
@@ -11303,14 +11303,6 @@ Type=0x2f01
 Label=MOBIL QUEENSPARK
 StreetDesc=169 Queenspark Dr, Parklands, Chc/ Mobil petrol station
 Data0=(-43.47777,172.69538)
-[END]
-
-;1039298
-[POI]
-Type=0x2f01
-Label=MOBIL RANGIORA
-StreetDesc=19 Ashley St, Rangiora, Canterbury/ Mobil petrol station, LPG, carwash
-Data0=(-43.30193,172.59565)
 [END]
 
 ;1039319
@@ -13873,10 +13865,10 @@ Data0=(-43.53957,172.63613)
 ;1048216
 [POI]
 Type=0x2e
-Label=REBEL SPORT-RICCARTON
-StreetDesc=Shop 129, Westfield Riccarton, 133 Riccarton Rd, Chc/ Sports gear & apparel, Fit
+Label=REBEL SPORT RICCARTON
+StreetDesc=Shop 129, Westfield Riccarton, 129 Riccarton Rd, Chc/ Sports gear & apparel, Fit
 Phone=+6433483492
-zip=Mo-We,Sa 9-6, Th-Fr 9-9, Su 10-6
+zip=Mon-Wed,Sat 9am-6pm, Thu-Fri 9am-9pm, Su
 Data0=(-43.53131,172.59979)
 [END]
 
@@ -14117,7 +14109,7 @@ Label=FLIGHT CENTRE THE PALMS
 StreetDesc=Shop 60, The Palms, Shirley Shopping Ctr, Shirley, Chc/ travel agent
 Phone=+6433850017
 zip=Mon-Wed 9:00-6:00, Thurs-Fri 9:00-9:00, 
-Data0=(-43.50360,172.66260)
+Data0=(-43.50594,172.66454)
 [END]
 
 ;1048440
@@ -16552,7 +16544,7 @@ Label=HOUSE OF TRAVEL SHIRLEY
 StreetDesc=Homebase Ctr, 199-201 Marshland Rd, Chc/ Travel agents
 Phone=+6433850710
 zip=Mon-Fri 9am-5.30pm, Sat 10am-1pm
-Data0=(-43.49298,172.66110)
+Data0=(-43.49296,172.66102)
 [END]
 
 ;1058401
@@ -17319,8 +17311,8 @@ Data0=(-45.41668,167.71351)
 [POI]
 Type=0x2f06
 Label=BANK OF NEW ZEALAND - BNZ THE PALMS (B)
-StreetDesc=Shop 93, The Palms, Shirley/ bank branch
-Data0=(-43.50546,172.66336)
+StreetDesc=Shop 29, The Palms, Shirley/ bank branch
+Data0=(-43.50722,172.66380)
 [END]
 
 ;1061131
@@ -25676,7 +25668,7 @@ Label=MITRE 10 MEGA HORNBY
 StreetDesc=350 Main South Rd Hornby/ Hardware, Building Supplies, Plumbing
 Phone=+6433498497
 zip=7:00am - 6:00pm Mon to Fri, Sat 7:30am -
-Data0=(-43.54268,172.53138)
+Data0=(-43.54212,172.52886)
 [END]
 
 ;1084483
@@ -34605,7 +34597,7 @@ Data0=(-45.89448,170.49906)
 ;1097316
 [POI]
 Type=0x2f
-Label=FOATE OPTOMETRISTS - BISHOPDALE
+Label=FOATE OPTOMETRY - BISHOPDALE
 StreetDesc=1 Bishopdale Mall, Bishopdale, Chc/ Optometrist, Eye Examinations, Eyewear, Cont
 Phone=+6433599074
 zip=Mon to Fri 8:30am to 5:30pm (Late night 
@@ -35991,7 +35983,7 @@ Type=0x2f
 Label=SHIRLEY VETERINARY CENTRE - SHIRLEY
 StreetDesc=15 Marshland Rd, Shirley, Chc/ Vet
 Phone=+6433856156
-Data0=(-43.50674,172.66276)
+Data0=(-43.50676,172.66243)
 [END]
 
 ;1098683
@@ -38190,16 +38182,6 @@ StreetDesc=5 Avon Gate, Avonhead, Chc/
 Phone=+6433798168
 zip=Mon-Fri 0830-1700
 Data0=(-43.51273,172.54046)
-[END]
-
-;1100431
-[POI]
-Type=0x2f
-Label=AAA CARTRIDGE RECHARGE
-StreetDesc=L 2, 61 Kilmore St, Chc/ 
-Phone=0800900002
-zip=Mon-Fri 0900-1700
-Data0=(-43.52647,172.63255)
 [END]
 
 ;1100432
@@ -46208,10 +46190,11 @@ Data0=(-43.54893,172.56995)
 ;1105240
 [POI]
 Type=0x2f
-Label=EVERY EDUCAID (WHOLESALE) LTD
-StreetDesc=1 Brisbane St, Sydenham Chc/ 
+Label=EVERY EDUCAID LTD
+StreetDesc=21 Jipcho Rd, Wigram, Chc/ Head office
 Phone=+6433656675
-Data0=(-43.54668,172.64493)
+zip=Monday to Friday 8:30am - 5:00pm
+Data0=(-43.54328,172.56794)
 [END]
 
 ;1105246
@@ -47570,7 +47553,7 @@ Type=0x2f
 Label=GARDNER SMITH NZ LTD
 StreetDesc=193 Marshland Rd, Shirley, Chc/ 
 Phone=+6433790100
-Data0=(-43.49407,172.66122)
+Data0=(-43.49413,172.66106)
 [END]
 
 ;1105994
@@ -76527,11 +76510,11 @@ Data0=(-43.54492,172.68113)
 
 ;1119751
 [POI]
-Type=0x2a
+Type=0x2d02
 Label=O'SHEA'S PUBLIC HOUSE
 StreetDesc=122 Marshland Rd, Shirley, Chc/ Bar, restaurant, TAB Agents
 Phone=+6433853080
-Data0=(-43.49891,172.66228)
+Data0=(-43.49877,172.66228)
 [END]
 
 ;1119752
@@ -76563,11 +76546,11 @@ Data0=(-43.53315,172.54741)
 
 ;1119758
 [POI]
-Type=0x2a
-Label=THE SHIRLEY LODGE
-StreetDesc=110 Marshland Rd, Chc/ Bar, restaurant, TAB Self-Service Outlet, Slodge, Tavern
-Phone=+6433853034
-Data0=(-43.49990,172.66254)
+Type=0x2d02
+Label=STOCK XCHANGE BAR
+StreetDesc=112 Marshland Rd, Chc/ Bar
+Phone=+6433127941
+Data0=(-43.49985,172.66280)
 [END]
 
 ;1119760
@@ -82855,7 +82838,7 @@ Type=0x2e
 Label=HENRY'S BEER WINE & SPIRITS DUNEDIN CITY
 StreetDesc=Cnr Hanover St & Great King Sts, Dud/ Liquor, beer, wine, spirits
 Phone=+6434774433
-Data0=(-45.87049,170.50771)
+Data0=(-45.87050,170.50792)
 [END]
 
 ;1121466
@@ -85570,11 +85553,11 @@ Data0=(-43.53544,172.63347)
 ;1122678
 [POI]
 Type=0x2e
-Label=OFFICEMAX
-StreetDesc=141 Trafalgar St, Nelson/ Office Supplies & Furniture, Packaging, Cafeteria & Cl
+Label=?OFFICEMAX
+StreetDesc=Cnr Rutherford St & Selwyn Place, Nelson/ Office Supplies & Furniture, Packaging
 Phone=+6435483616
 zip=Monday to Friday 8.00am - 5.00pm, Saturd
-Data0=(-41.27195,173.28424)
+Data0=(-41.27524,173.28381)
 [END]
 
 ;1122680
@@ -85656,7 +85639,7 @@ Label=BUNNINGS WAREHOUSE SHIRLEY
 StreetDesc=197 Marshland Rd, Shirley/ hardware, tools, building supplies, DIY, gardening, h
 Phone=+6433757004
 zip=Mon-Fri 7-7, Sat-Sun 8-6
-Data0=(-43.49356,172.66114)
+Data0=(-43.49353,172.65972)
 [END]
 
 ;1122702
@@ -87164,7 +87147,7 @@ Label=GLOBAL PC HOMEBASE - SHIRLEY BRANCH
 StreetDesc=199 Marshland Rd, Shirley, Chc/ IT products and services to the home and busines
 Phone=+6433543333
 zip=Mon-Fri 9am-5:30pm, Sat-Sun 9am-5pm
-Data0=(-43.49342,172.66112)
+Data0=(-43.49381,172.66052)
 [END]
 
 ;1123589
@@ -87555,8 +87538,8 @@ Data0=(-41.29128,173.24610)
 [POI]
 Type=0x2b01
 Label=BELLA VISTA MOTEL QUEENSTOWN
-StreetDesc=36 Robins Rd, Queenstown/ Good quality, clean, comfortable accommodation in a qu
-Phone=+6434424468
+StreetDesc=36 Robins Rd, Queenstown/ Queenstown accommodation. Quality, clean, comfortable 
+Phone=+6434424491
 zip=8.00am - 8.00pm 7 Days
 Data0=(-45.02703,168.65998)
 [END]
@@ -89923,10 +89906,11 @@ Data0=(-45.89732,170.53136)
 ;1128677
 [POI]
 Type=0x2a0e
-Label=NO 8 CAFE
-StreetDesc=8 Holyhead St, Outram/ cafe, coffee, food, gluten free options, all food cooked 
-Phone=+6434861160
-Data0=(-45.85752,170.22668)
+Label=TOPIARY CAFE AT WAL'S PLANTLAND (PREVIOUSLY NO8 WITH HERBS AT OUTRAM)
+StreetDesc=Wal's Plantland, Bush Rd, Mosgiel/ cafe, coffee, food, gluten free options, all 
+Phone=+6434891990
+zip=7 days
+Data0=(-45.88033,170.33173)
 [END]
 
 ;1128678
@@ -92575,15 +92559,6 @@ Phone=+6433660055
 Data0=(-43.52951,172.54209)
 [END]
 
-;1130531
-[POI]
-Type=0x2a
-Label=ITS INDI
-StreetDesc=72-74 North Avon Rd, Richmond Village, Chc/ Indian Restaurant, Takeaway
-Phone=+6433899997
-Data0=(-43.51773,172.65611)
-[END]
-
 ;1130532
 [POI]
 Type=0x2a
@@ -93756,8 +93731,8 @@ Data0=(-43.56884,172.75893)
 [POI]
 Type=0x2a0e
 Label=BB'S CAFE
-StreetDesc=201 Marshland Rd, Chc/ cafe
-Data0=(-43.49298,172.66110)
+StreetDesc=201 Marshland Rd, Chc/ Cafe
+Data0=(-43.49381,172.66111)
 [END]
 
 ;1130937
@@ -94253,6 +94228,16 @@ Type=0x2a07
 Label=C J TAKEAWAYS
 StreetDesc=6 Birmingham Dr, Middleton, Chc/ takeaways
 Data0=(-43.54455,172.59377)
+[END]
+
+;1131004
+[POI]
+Type=0x2a0e
+Label=C1 ESPRESSO
+StreetDesc=185 High St, Chc/ Cafe, restaurant
+Phone=+6421380386
+zip=7 days 7am-10pm
+Data0=(-43.53517,172.64054)
 [END]
 
 ;1131005
@@ -96839,14 +96824,6 @@ StreetDesc=144 Maces Rd, Bromley, Chc/
 Data0=(-43.53697,172.69367)
 [END]
 
-;1131350
-[POI]
-Type=0x2f
-Label=HENRY AFRICA'S
-StreetDesc=325 Stanmore Rd, Chc/ 
-Data0=(-43.51879,172.65612)
-[END]
-
 ;1131351
 [POI]
 Type=0x2e
@@ -97431,7 +97408,7 @@ Data0=(-43.53080,172.63897)
 Type=0x2a07
 Label=JADE CHINESE TAKEAWAYS
 StreetDesc=136 Marshland Rd, Chc/ Chinese takeaways
-Data0=(-43.49853,172.66211)
+Data0=(-43.49868,172.66224)
 [END]
 
 ;1131435
@@ -99357,14 +99334,6 @@ StreetDesc=300 Lincoln Rd, Chc/ restaurant
 Data0=(-43.54393,172.61160)
 [END]
 
-;1131696
-[POI]
-Type=0x2e
-Label=NORTH AVON DAIRY
-StreetDesc=117 North Avon Rd, Chc/ dairy, convenience store
-Data0=(-43.51742,172.65888)
-[END]
-
 ;1131697
 [POI]
 Type=0x2a07
@@ -99773,11 +99742,12 @@ Data0=(-43.53474,172.62847)
 
 ;1131749
 [POI]
-Type=0x2f
-Label=PEPPERONI
-StreetDesc=230A Stanmore Rd, Chc/ 
-Phone=+33897044
-Data0=(-43.52328,172.65691)
+Type=0x2a
+Label=?PEPPERONI
+StreetDesc=Madras St, Chc (Opp. Polytech)/ Italian-inspired restaurant and cafe
+Phone=+6433772726
+zip=Mon-Fri 10am-Late, Sat 5pm-Late, Sun Clo
+Data0=(-43.53850,172.64212)
 [END]
 
 ;1131750
@@ -100940,10 +100910,10 @@ Data0=(-43.50695,172.73027)
 
 ;1131907
 [POI]
-Type=0x2f
-Label=SIMGA MART
+Type=0x2e
+Label=MOKO PRICE CUTTER
 StreetDesc=118 Marshland Rd, Chc/ 
-Data0=(-43.49891,172.66228)
+Data0=(-43.49904,172.66226)
 [END]
 
 ;1131908
@@ -103460,10 +103430,10 @@ Data0=(-43.54818,172.54057)
 [POI]
 Type=0x2c00
 Label=WILLOWBANK WILDLIFE RESERVE
-StreetDesc=60 Hussey Rd, Chc/ Wildlife reserve. Tourist attraction & visitor activity. Rest
+StreetDesc=60 Hussey Rd, Chc/ Wildlife reserve, zoo. Tourist attraction & visitor activity.
 Phone=+6433596226
 zip=7 days 9.30am-10pm
-Data0=(-43.46282,172.59409)
+Data0=(-43.46277,172.59447)
 [END]
 
 ;1132251
@@ -104633,7 +104603,7 @@ Label=EB GAMES
 StreetDesc=The Palms Shopping Center, Cnr Marshlands & New Brighton Roads, Shirley, Chc/ Vi
 Phone=+6433853838
 zip=7 days
-Data0=(-43.50769,172.66341)
+Data0=(-43.50599,172.66453)
 [END]
 
 ;1133307
@@ -110811,8 +110781,8 @@ Data0=(-44.19155,171.49985)
 Type=0x2e
 Label=ALICE IN VIDEOLAND
 StreetDesc=Cnr Tuam and High Streets, Chc/ Video, DVD rentals. Arthouse, Film Noir, Amazing
-Phone=+33650615
-zip=9am-11pm Every Day
+Phone=+6433650615
+zip=Sun-Thu 9am-9pm, Fri-Sat 9am-10pm
 Data0=(-43.53521,172.64081)
 [END]
 
@@ -111023,7 +110993,7 @@ Data0=(-43.76229,172.29834)
 Type=0x2e
 Label=LOTTO AND WILD THINGZ
 StreetDesc=Shop 82 - The Palms, Marshland Rd, Shirley, Chc/ Lotto
-Data0=(-43.50534,172.66281)
+Data0=(-43.50572,172.66430)
 [END]
 
 ;1135438
@@ -113196,14 +113166,6 @@ StreetDesc=7 Church St, Timaru/ Hairdresser
 Data0=(-44.39556,171.25201)
 [END]
 
-;1137898
-[POI]
-Type=0x2f
-Label=?MVHS - CHATTER @ MOUTAINVIEW
-StreetDesc=Pages Rd, Timaru/ 
-Data0=(-44.37663,171.21991)
-[END]
-
 ;1137899
 [POI]
 Type=0x2f
@@ -114401,14 +114363,6 @@ Label=WEST END BOWLING CLUB
 StreetDesc=Maltby Ave, Timaru/ 
 Phone=+6436843508
 Data0=(-44.39406,171.22920)
-[END]
-
-;1138053
-[POI]
-Type=0x2f
-Label=?WESTEND AFC
-StreetDesc=Wai-iti Rd, Timaru/ 
-Data0=(-44.39006,171.22186)
 [END]
 
 ;1138054
@@ -124440,7 +124394,7 @@ Type=0x2f15
 Label=PAYPHONE
 StreetDesc=128 Marshlands Rd O/S Shops Shirley Chc/ Telecom, payphone, public phone box, wi
 Phone=+6433857568
-Data0=(-43.49921,172.66214)
+Data0=(-43.49885,172.66215)
 [END]
 
 ;1141961
@@ -124548,7 +124502,7 @@ Type=0x2f15
 Label=PAYPHONE
 StreetDesc=Stanmore Rd cnr Swanns Rd O/S Shops Linwood Chc/ Telecom, payphone, public phone
 Phone=+6433893768
-Data0=(-43.52350,172.65681)
+Data0=(-43.52343,172.65686)
 [END]
 
 ;1141974
@@ -133178,14 +133132,6 @@ Phone=+6433527526
 Data0=(-43.47760,172.61711)
 [END]
 
-;1146989
-[POI]
-Type=0x2f
-Label=SHIRLEY BUTCHER SHOP
-StreetDesc=118 Marshland Rd, Chc/ butcher
-Data0=(-43.49891,172.66228)
-[END]
-
 ;1146990
 [POI]
 Type=0x2a02
@@ -133590,14 +133536,6 @@ zip=7 Days, 11.00am till late
 Data0=(-43.49871,172.60922)
 [END]
 
-;1147046
-[POI]
-Type=0x2f
-Label=TAYLOR'S MENS HAIRDRESSING
-StreetDesc=115B North Avon Rd, Chc/ Hairdresser
-Data0=(-43.51742,172.65888)
-[END]
-
 ;1147047
 [POI]
 Type=0x2f
@@ -133628,14 +133566,6 @@ Type=0x2f
 Label=TEMPTATIONZ
 StreetDesc=101 Main North Rd, Chc/ 
 Data0=(-43.49093,172.61282)
-[END]
-
-;1147051
-[POI]
-Type=0x2f
-Label=TEN DOLLAR HAIRCUTS
-StreetDesc=129 Stanmore Rd, Chc/ Hairdresser
-Data0=(-43.52851,172.65686)
 [END]
 
 ;1147052
@@ -135462,7 +135392,7 @@ Label=PAYLESS SHIRLEY
 StreetDesc=199 Marshland Rd, Chc/ Plastic storage, entertainment & cooling. Chilly bins
 Phone=+6433861301
 zip=Mon-Fri: 9am-5.30pm, Sat: 9am-5pm, Sun: 
-Data0=(-43.49253,172.66060)
+Data0=(-43.49384,172.66013)
 [END]
 
 ;1148048
@@ -143725,7 +143655,8 @@ Type=0x2e05
 Label=URGENT PHARMACY
 StreetDesc=95 Hanover St, Dud/ Pharmacy
 Phone=+6434776344
-Data0=(-45.87050,170.50776)
+zip=7 days 10am-10pm
+Data0=(-45.87061,170.50840)
 [END]
 
 ;1153759
@@ -161303,7 +161234,7 @@ Type=0x2e
 Label=TOYWORLD MARSHLANDS
 StreetDesc=Homebase Unit D 199 Marshland Rd, Chc, Canterbury/ Toys, games
 Phone=+6439828697
-Data0=(-43.49342,172.66112)
+Data0=(-43.49382,172.66036)
 [END]
 
 ;1164387
@@ -165974,8 +165905,10 @@ Data0=(-45.87163,170.49835)
 [POI]
 Type=0x2f
 Label=DUNEDIN URGENT DOCTORS & ACCIDENT CENTRE
-StreetDesc=95 Hanover St, Dud/ 
-Data0=(-45.87050,170.50776)
+StreetDesc=95 Hanover St, Dud/ Doctors, general practice, accident & emergency
+Phone=+6434792900
+zip=7 days 8am-11.30pm
+Data0=(-45.87063,170.50848)
 [END]
 
 ;1166839
@@ -169697,7 +169630,7 @@ Data0=(-43.47990,172.69540)
 ;1168798
 [POI]
 Type=0x2f
-Label=FOATE OPTOMETRISTS - FERRYMEAD
+Label=FOATE OPTOMETRY - FERRYMEAD
 StreetDesc=1025 Ferry Rd Ferrymead Chc 8023/ Optometrists, Eye Care, Spectacles, Contact Le
 Phone=+6433842224
 zip=Mon to Fri: 8:30am to 5:30pm (Late Night
@@ -184737,11 +184670,11 @@ Data0=(-43.53102,172.59739)
 ;1174716
 [POI]
 Type=0x2e
-Label=?KING OF KNIVES THE PALMS
+Label=KING OF KNIVES THE PALMS
 StreetDesc=Shop TN4 The Palms Shopping Ctr, Cnr Marshlands & New Brighton Rds, Shirley, Chc
-Phone=+33860580
+Phone=+6433860580
 zip=Mon-Wed 9am-6pm, Thu-Fri 9am-9pm, Sat 9a
-Data0=(-43.50358,172.66258)
+Data0=(-43.50614,172.66476)
 [END]
 
 ;1174717
@@ -189067,8 +189000,8 @@ Data0=(-41.26373,173.26963)
 ;1177718
 [POI]
 Type=0x2b00
-Label=INNER-CITY PAD HOLIDAY HOME
-StreetDesc=370A Hardy St, Nelson/ Nelson City Central Holiday Home Accommodation
+Label=INNER-CITY PAD
+StreetDesc=370A Hardy St, Nelson/ Nelson City Central Holiday Home Accommodation with 3 bed
 Phone=+6435485822
 Data0=(-41.27502,173.29242)
 [END]
@@ -189076,8 +189009,8 @@ Data0=(-41.27502,173.29242)
 ;1177720
 [POI]
 Type=0x2b00
-Label=WAIKAWA VIEWS HOLIDAY HOME
-StreetDesc=312A Waikawa Rd, Picton 7220/ Picton Holiday Home Accommodation
+Label=WAIKAWA VIEWS
+StreetDesc=312A Waikawa Rd, Picton 7220/ Picton Holiday Home Accommodation with 4 bedrooms 
 Phone=+6435485822
 Data0=(-41.27114,174.04327)
 [END]
@@ -193159,7 +193092,7 @@ Data0=(-44.70796,169.15019)
 [POI]
 Type=0x2a07
 Label=MCDONALD'S RESTAURANT - RICHMOND FREESTANDER 24HR
-StreetDesc=321 Gladstone Rd, Richmond/ burgers, fast food, takeaways
+StreetDesc=321 Gladstone Rd, Richmond, Nelson/ Family restaurant. Burgers, fast food, takea
 Phone=+6435437018
 zip=24 Hours
 Data0=(-41.33639,173.18106)
@@ -196597,14 +196530,6 @@ StreetDesc=41 Ballarat St Queenstown 9300/ Cafe, breakfast, coffee, catering, lu
 Phone=+34428238
 zip=7:30am - 4pm daily
 Data0=(-45.03174,168.66189)
-[END]
-
-;1183268
-[POI]
-Type=0x2a07
-Label=MCDONALDS 24 HOURS RICHMOND
-StreetDesc=321 Lower Queen St, Richmond, Nelson/ Fastfood
-Data0=(-41.33657,173.18134)
 [END]
 
 ;1183269
@@ -204463,10 +204388,10 @@ Data0=(-45.88977,170.49906)
 ;1192851
 [POI]
 Type=0x2f
-Label=JOHN GIBSON CHIROPRACTIC
-StreetDesc=upstairs, 9 Isle St, Central Queenstown/ Muscle and Joint Care
-Phone=0800111421
-Data0=(-45.03001,168.65850)
+Label=THE MUSCLE JOINT
+StreetDesc=Upstairs, The Gables, 96 High St, Rangiora/ Muscle and Joint Care
+Phone=+6433130111
+Data0=(-43.30323,172.59541)
 [END]
 
 ;1192852
@@ -206449,7 +206374,7 @@ Data0=(-41.26737,173.26802)
 ;1195573
 [POI]
 Type=0x2b00
-Label=BEACHVIEWS LUXURY HOLIDAY HOME
+Label=BEACHVIEWS
 StreetDesc=53 the Cliffs, Britannia Heights, Nelson/ Nelson Waterfront Holiday Home
 Phone=+6435485822
 Data0=(-41.27482,173.25915)
@@ -206458,7 +206383,7 @@ Data0=(-41.27482,173.25915)
 ;1195574
 [POI]
 Type=0x2b00
-Label=OCEAN DREAMING HOLIDAY HOME WITH SPA & HARBOUR VIEWS!
+Label=OCEAN DREAMING
 StreetDesc=37 fifeshire Cres, stepneyville, nelson/ Nelson Waterfront Holiday Home Accommod
 Phone=+6435485822
 Data0=(-41.26912,173.26576)
@@ -206467,7 +206392,7 @@ Data0=(-41.26912,173.26576)
 ;1195575
 [POI]
 Type=0x2b00
-Label=CAPTAIN'S COTTAGE HOLIDAY ACCOMMODATION ON THE NELSON WATERFRONT!
+Label=CAPTAIN'S COTTAGE
 StreetDesc=369 wakefield Qy, stepneyville, nelson/ Nelson Waterfront Holiday Home Accommoda
 Phone=+6435485822
 Data0=(-41.26806,173.26470)
@@ -206476,7 +206401,7 @@ Data0=(-41.26806,173.26470)
 ;1195576
 [POI]
 Type=0x2b00
-Label=QUEEN'S VISTA HOLIDAY HOME WITH 3 BEDROOMS & 3 BATHROOMS, STUNNING SEA VIEWS!
+Label=QUEEN'S VISTA
 StreetDesc=57 queens Rd, stepneyville, nelson/ Nelson Waterfront Holiday Home Accommodation
 Phone=+6435485822
 Data0=(-41.26474,173.27012)
@@ -206485,8 +206410,8 @@ Data0=(-41.26474,173.27012)
 ;1195577
 [POI]
 Type=0x2b00
-Label=THE TREEHOUSE - LUXURY 2 BED, 2 BATH COASTAL ACCOMMODATION WITH SPA!
-StreetDesc=736a atawhai Cres, nelson/ Nelson Holiday Home Accommodation
+Label=THE TREEHOUSE
+StreetDesc=736a atawhai Cres, nelson/ Nelson Holiday Home Accommodation offering 2 bedrooms
 Phone=+6435485822
 Data0=(-41.23301,173.31957)
 [END]
@@ -206494,8 +206419,8 @@ Data0=(-41.23301,173.31957)
 ;1195578
 [POI]
 Type=0x2b00
-Label=COMMODORE - SEA VIEWS, MODERN HOLIDAY HOME IN TASMAN HEIGHTS!
-StreetDesc=29 commodore place, britannia heights, nelson/ Nelson Holiday Home Accommodation
+Label=COMMODORE
+StreetDesc=29 commodore place, britannia heights, nelson/ 3 bedroom, 2 bathroom Nelson Holi
 Phone=+6435485822
 Data0=(-41.29016,173.25332)
 [END]
@@ -206503,7 +206428,7 @@ Data0=(-41.29016,173.25332)
 ;1195579
 [POI]
 Type=0x2b00
-Label=RIVERSIDE VILLA - CENTRAL CITY HOLIDAY HOME
+Label=RIVERSIDE VILLA
 StreetDesc=14 ajax St, nelson/ Nelson Central City Holiday Home
 Phone=+6435485822
 Data0=(-41.26981,173.28654)
@@ -206512,7 +206437,7 @@ Data0=(-41.26981,173.28654)
 ;1195580
 [POI]
 Type=0x2b00
-Label=TRESILLIAN ONE FAMILY HOLIDAY HOME
+Label=TRESILLIAN ONE
 StreetDesc=71 tresillian Ave, atawhai, nelson/ Nelson Atawhai Holiday Home Accommodation
 Phone=+6435485822
 Data0=(-41.22826,173.32499)
@@ -206543,5 +206468,206 @@ Label=TOKOMAIRIRO EARLY LEARNING CENTRE ON SPENSER
 StreetDesc=71 Spenser St, Milton/ 0-6 years
 zip=Mon-Fri 6:45am-5:30pm
 Data0=(-46.11862,169.96406)
+[END]
+
+;1195620
+[POI]
+Type=0x2f
+Label=CHARLES THOMAS ARCHITECTS
+StreetDesc=41 Holliss Ave, Chc, New Zealand/ Charles Thomas + Associates specialises in Com
+Phone=+6433663382
+Data0=(-43.57409,172.63800)
+[END]
+
+;1195624
+[POI]
+Type=0x2f11
+Label=SOUTH AMERICA JOURNEYS
+StreetDesc=34 Eely Point Rd, Wanaka/ South America Journeys offer a range of eco travel (in
+Phone=+6434435036
+Data0=(-44.68288,169.12714)
+[END]
+
+;1195642
+[POI]
+Type=0x2b00
+Label=CHERRYCAMP 24HR
+StreetDesc=52 Budge St, Riversdale, Blenheim 7201, New Zealand/ blenheim, backpacker hostel
+Phone=+6435795445
+zip=24 hours
+Data0=(-41.50402,173.96337)
+[END]
+
+;1195645
+[POI]
+Type=0x2f
+Label=HOT SPOTS BLENHEIM 24HR
+StreetDesc=52 budge st riversdale Blenheim/ zenbu hot spot wi-fi
+Phone=+6435795445
+zip=24 hours
+Data0=(-41.50402,173.96337)
+[END]
+
+;1195647
+[POI]
+Type=0x2f
+Label=NZ SAFETY
+StreetDesc=264 Ferry Rd, Waltham, Chc 8011/ Protective equipment, workwear and related safe
+Phone=+6433444355
+zip=Mon-Fri 8.00am-5.00pm
+Data0=(-43.54080,172.65960)
+[END]
+
+;1195648
+[POI]
+Type=0x2f
+Label=?NZ SAFETY
+StreetDesc=81 Shands Rd, Hornby, Chc 8042/ Protective equipment, workwear and related safet
+Phone=+6433444355
+zip=Mon-Fri 8.00am-5.00pm, Sat 9.00am-12.00p
+Data0=(-43.54885,172.51913)
+[END]
+
+;1195650
+[POI]
+Type=0x2f
+Label=PAKINGTON HOUSE FOR ACCOMMODATION
+StreetDesc=12 Pakington St, Westport/ Accommoadation
+Phone=+6437895657
+zip=9am to 9pm
+Data0=(-41.74999,171.60285)
+[END]
+
+;1195669
+[POI]
+Type=0x2e
+Label=EVERY EDUCAID LTD
+StreetDesc=467 Papanui Rd, Chc/ New Zealand Education Specialists of NZ Curriculum Resource
+Phone=+6433546318
+zip=Mon-Fri 9am-5:30pm, Sat 9am-3pm
+Data0=(-43.49936,172.60963)
+[END]
+
+;1195673
+[POI]
+Type=0x2f0b
+Label=ALLWAYS CHRISTCHURCH PARK & FLY
+StreetDesc=12b Sheffield Cres, Burnside, Chc/ Affordable short and long term Christchurch A
+Phone=08002559297
+zip=6am-10pm
+Data0=(-43.49108,172.56215)
+[END]
+
+;1195687
+[POI]
+Type=0x2e02
+Label=KOSCO SHIRLEY
+StreetDesc=201 Marshland Rd, Chc/ Asian Supermarket
+Phone=+6433859000
+zip=9am-7pm
+Data0=(-43.49381,172.66064)
+[END]
+
+;1195688
+[POI]
+Type=0x2d0a
+Label=ANYTIME FITNESS SHIRLEY
+StreetDesc=Homebase Ctr, Unit G, Marshlands Rd, Shirley, Chc/ 
+Phone=+6433859181
+Data0=(-43.49381,172.66077)
+[END]
+
+;1195689
+[POI]
+Type=0x2f
+Label=SHIRLEY TAB
+StreetDesc=122 Marshland Rd, Chc/ TAB Agency
+Phone=+6433859216
+Data0=(-43.49891,172.66227)
+[END]
+
+;1195691
+[POI]
+Type=0x2e04
+Label=HOMEBASE CENTRE
+StreetDesc=199-201 Marshland Rd, Chc/ 
+Data0=(-43.49336,172.66067)
+[END]
+
+;1195696
+[POI]
+Type=0x2e05
+Label=SELWYN COMMUNITY PHARMACY
+StreetDesc=5B Gerald St, Lincoln, 7608/ Prescriptions, Eye Care Aids, Eyebrow Pencils, Eye 
+Phone=+6433252285
+zip=Monday to Friday 8:15am - 5:15pm, Saturd
+Data0=(-43.64045,172.48476)
+[END]
+
+;1195699
+[POI]
+Type=0x2e
+Label=BICYCLE BUSINESS
+StreetDesc=199 Marshland Rd, Shirley, Chc/ 
+Phone=+6433858815
+Data0=(-43.49300,172.66029)
+[END]
+
+;1195700
+[POI]
+Type=0x2e
+Label=HENRY'S SHIRLEY
+StreetDesc=199 Marshlands Rd, Chc/ Beer, wine & spirits
+Phone=+6433855740
+zip=Mon 10am-9pm, Tue-Wed 9am-9pm, Thu-Sat 9
+Data0=(-43.49299,172.66042)
+[END]
+
+;1195701
+[POI]
+Type=0x2e
+Label=CYBERPETS
+StreetDesc=199 Marshalnd Rd, Shirley, Chc/ Pet supplies
+Phone=+6433862650
+zip=Mon-Fri 9am-5:30pm, Sat 9am-5pm, Sun 10a
+Data0=(-43.49299,172.66055)
+[END]
+
+;1195702
+[POI]
+Type=0x2f
+Label=EVOLVE HAIR & BEAUTY
+StreetDesc=Homebase, Shirley, Chc/ 
+Phone=+6433853440
+zip=Mon 9am-5pm, Tue-Thu 9am-8pm, Fri 9am-5p
+Data0=(-43.49297,172.66080)
+[END]
+
+;1195703
+[POI]
+Type=0x2e07
+Label=CC COLLECTIONS
+StreetDesc=199 Marshland Rd, Shirley, Chc/ 
+Phone=+6433850696
+zip=Mon-Fri 9am-5:30pm, Sat-Sun 10am-5pm
+Data0=(-43.49297,172.66091)
+[END]
+
+;1195709
+[POI]
+Type=0x2d00
+Label=OPEN WATER SWIMMING - OCEAN SWIM SERIES NZ
+StreetDesc=P. O. Box 33-1057/ Introducing the State New Zealand Ocean Swim Series to active
+Phone=+6494860240
+Data0=(-43.37923,172.65929)
+[END]
+
+;1195710
+[POI]
+Type=0x2f
+Label=?SOLAR ELECTRIC TECHNOLOGY LTD
+StreetDesc=Nelson, New Zealand/ We can design and install an off the grid or grid connected
+Phone=+6435443213
+Data0=(-41.27063,173.28396)
 [END]
 

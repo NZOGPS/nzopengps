@@ -8674,6 +8674,16 @@ zip=Mon-Fri 8am-9pm, Sat & Sun 8am-8pm
 Data0=(-43.58027,172.56579)
 [END]
 
+;1030548
+[POI]
+Type=0x2e02
+Label=NEW WORLD ST MARTINS
+StreetDesc=96 Wilsons Rd, Chc/ Supermarket, groceries, beer, wine, Lotto
+Phone=+6433370811
+zip=7 days 7.30am-10pm
+Data0=(-43.55802,172.65473)
+[END]
+
 ;1030555
 [POI]
 Type=0x2e02
@@ -17262,8 +17272,10 @@ Data0=(-42.11953,171.86763)
 ;1060956
 [POI]
 Type=0x2f06
-Label=BANK OF NEW ZEALAND - BNZ RICCARTON BANKING CENTRE (B)
-StreetDesc=81 Riccarton Rd, Riccarton, Chc/ bank branch
+Label=BNZ PARTNERS - RICCARTON BUSINESS CENTRE
+StreetDesc=81 Riccarton Rd, Riccarton, Chc/ Business centre
+Phone=0800955455
+zip=Mon-Fri 8:30am-5pm
 Data0=(-43.52958,172.60386)
 [END]
 
@@ -25865,7 +25877,7 @@ Data0=(-43.55770,172.63710)
 [POI]
 Type=0x2a02
 Label=TANDOORI PALACE FERRY RD
-StreetDesc=2 Waterman Place, Ferrymead, Chc/ Indian Restaurant, Takeaway, Curry, Licensed, 
+StreetDesc=Ferrymead Central, 2 Waterman Pl, Ferrymead, Chc/ Indian Restaurant, Takeaway, C
 Phone=+6433843186
 zip=Dinner 7 Days 4.30pm - 9.30pm Lunch Mon-
 Data0=(-43.55615,172.69822)
@@ -31736,16 +31748,6 @@ Phone=+6433653381
 Data0=(-43.53543,172.63648)
 [END]
 
-;1094864
-[POI]
-Type=0x2a0a
-Label=WINNIE BAGOES
-StreetDesc=Unit 3, 2 Waterman Place, Ferrymead, Chc/ Gourmet pizza restaurant
-Phone=+6433666315
-zip=7 days, 10am-late
-Data0=(-43.55617,172.69747)
-[END]
-
 ;1094865
 [POI]
 Type=0x2a0a
@@ -33338,9 +33340,9 @@ Data0=(-45.87437,170.34759)
 [POI]
 Type=0x2f11
 Label=FERRYMEAD UNITED TRAVEL
-StreetDesc=Unit 5, 960 Ferry Rd, Chc/ Travel agents
+StreetDesc=Unit 5, 960 Ferry Rd, Ferrymead, Chc/ Travel agents
 Phone=+6433842700
-Data0=(-43.55683,172.69810)
+Data0=(-43.55691,172.69803)
 [END]
 
 ;1096276
@@ -35084,15 +35086,6 @@ zip=7 days
 Data0=(-43.53410,172.63302)
 [END]
 
-;1098435
-[POI]
-Type=0x2a02
-Label=TWO FAT INDIANS - CITY
-StreetDesc=112-114 Manchester St, Chc/ Indian restaurant, takeaways, licensed
-Phone=+6433717273
-Data0=(-43.53503,172.63981)
-[END]
-
 ;1098437
 [POI]
 Type=0x2a
@@ -35829,15 +35822,6 @@ Label=ASHBURY VETERINARY CLINIC
 StreetDesc=41 Grasmere St, Timaru/ Vet
 Phone=+6436848181
 Data0=(-44.38600,171.23363)
-[END]
-
-;1098643
-[POI]
-Type=0x2f
-Label=PETS N VETS, FERRYMEAD
-StreetDesc=2 Waterman Place, Ferrymead Speights Ale House, Chc/ Vet
-Phone=0800738768
-Data0=(-43.55617,172.69747)
 [END]
 
 ;1098645
@@ -57347,11 +57331,12 @@ Data0=(-46.36953,168.33369)
 
 ;1111882
 [POI]
-Type=0x2f
+Type=0x2e
 Label=PRIMEPAC INDUSTRIAL
-StreetDesc=280 Hilton Highway, Timaru/ 
-Phone=+6436882773
-Data0=(-44.35027,171.23721)
+StreetDesc=65 Racecourse Rd, Washdyke, Timaru/ Primepac is a leading manufacturer & distrib
+Phone=0800277772
+zip=7.30am - 5.00pm
+Data0=(-44.34928,171.23388)
 [END]
 
 ;1111883
@@ -58914,10 +58899,10 @@ Data0=(-43.51200,172.62142)
 [POI]
 Type=0x2f
 Label=SALCOM NZ LTD
-StreetDesc=96 Tuam St, Chc/ Sea Air Land Communications
+StreetDesc=10 Magdala Place, Middleton/ Sea Air Land Communications
 Phone=+6433792298
 zip=Mon-Fri 0800-1700
-Data0=(-43.53546,172.63187)
+Data0=(-43.54450,172.58198)
 [END]
 
 ;1112895
@@ -63136,7 +63121,7 @@ Data0=(-43.49113,172.56957)
 [POI]
 Type=0x2f
 Label=TRIPLE ONE CARE
-StreetDesc=1 Tokomaru Pl, Stoke, Nelson/ First aid course and kits, Supplies, AEDs, medical
+StreetDesc=1 Tokomaru Pl, Stoke, Nelson/ Providing First Aid Training and First Aid Supplie
 Phone=+6435449180
 Data0=(-41.32588,173.21206)
 [END]
@@ -74373,7 +74358,7 @@ Type=0x2e
 Label=RICHMOND LIQUOR CENTRE - CHRISTCHURCH
 StreetDesc=68 North Avon Rd, Richmond, Chc/ Liquor, beer, wine, spirits
 Phone=+6433815980
-Data0=(-43.51773,172.65572)
+Data0=(-43.51776,172.65595)
 [END]
 
 ;1119108
@@ -78623,9 +78608,9 @@ Data0=(-44.39855,171.25230)
 [POI]
 Type=0x2e
 Label=MR MOD
-StreetDesc=110A Manchester St, Chc, Canterbury/ Antiques, Antique Shop, Secondhand Dealer
-Phone=+6421588130
-Data0=(-43.53512,172.63966)
+StreetDesc=88 Wilsons Rd, Chc/ Antiques, Antique Shop, Secondhand Dealer
+Phone=+6433371388
+Data0=(-43.55865,172.65461)
 [END]
 
 ;1120467
@@ -85324,7 +85309,7 @@ Data0=(-46.11409,168.93350)
 [POI]
 Type=0x2c02
 Label=OTAGO MUSEUM AND DISCOVERY WORLD
-StreetDesc=419 Great King St, Dud/ Museum, Historic Place: Category 1
+StreetDesc=419 Great King St, Dud/ Looking for things to do in Dunedin? Whether you’ve got 
 Phone=+6434747474
 zip=Daily 10am-5pm, Closed Christmas
 Data0=(-45.86585,170.51061)
@@ -87040,16 +87025,6 @@ Label=WEST MELTON AERODROME
 StreetDesc=/ NZWL
 zip=Non-certificated
 Data0=(-43.47667,172.39667)
-[END]
-
-;1123551
-[POI]
-Type=0x2f
-Label=BROOKE GIFFORD GALLERY
-StreetDesc=First Fl, 112 Manchester St,Chc/ Art Gallery
-Phone=+6433665288
-zip=Tuesday to Friday  11am-5pm, Saturday  1
-Data0=(-43.53505,172.63966)
 [END]
 
 ;1123557
@@ -92083,6 +92058,7 @@ Type=0x3002
 Label=LINCOLN MEDICAL LTD
 StreetDesc=Gerald St, Lincoln/ Medical Centre, Clinic, Doctor
 Phone=+6433252411
+zip=8:00am to 5:00pm Mon-Fri, 8:30am to 12:0
 Data0=(-43.64045,172.48518)
 [END]
 
@@ -92637,7 +92613,7 @@ Data0=(-43.53618,172.64552)
 [POI]
 Type=0x2e
 Label=HENRY'S FERRYMEAD
-StreetDesc=Waterman Place, Chc/ Beer, Wine, Spirits
+StreetDesc=Ferrymead Central, 2 Waterman Pl, Ferrymead, Chc/ Beer, Wine, Spirits
 Phone=+6433764167
 Data0=(-43.55615,172.69843)
 [END]
@@ -93497,10 +93473,10 @@ Data0=(-43.54841,172.66843)
 
 ;1130904
 [POI]
-Type=0x2a
-Label=AUSTIENO'S PIANO RESTAURANT
-StreetDesc=271 Stanmore Rd, Chc/ restaurant
-Data0=(-43.52133,172.65619)
+Type=0x2d02
+Label=JANE'S BAR & CAFE
+StreetDesc=271 Stanmore Rd, Chc/ Wine Bar and Cafe
+Data0=(-43.52129,172.65621)
 [END]
 
 ;1130905
@@ -93595,8 +93571,8 @@ Data0=(-43.54311,172.63809)
 [POI]
 Type=0x2a
 Label=BAHN THAI RESTAURANT
-StreetDesc=319 Stanmore Rd, Chc/ restaurant
-Data0=(-43.51903,172.65611)
+StreetDesc=319 Stanmore Rd, Chc/ Restaurant
+Data0=(-43.51899,172.65620)
 [END]
 
 ;1130917
@@ -93942,7 +93918,7 @@ Label=BIN INN STANMORE ROAD
 StreetDesc=341A Stanmore Rd, Richmond Village, Chc/ Wholefoods & Specialty Groceries, Bulk 
 Phone=+6433815199
 zip=Monday - Friday: 8.30am - 6pm | Saturday
-Data0=(-43.51805,172.65580)
+Data0=(-43.51818,172.65606)
 [END]
 
 ;1130963
@@ -94324,8 +94300,10 @@ Data0=(-43.80949,172.96168)
 [POI]
 Type=0x2a0e
 Label=CAFE DEL MAR
-StreetDesc=2 Waterman Place, Ferrymead, Chc/ cafe
-Data0=(-43.55653,172.69815)
+StreetDesc=Ferrymead Central, 2 Waterman Pl, Ferrymead, Chc/ cafe
+Phone=+6433843481
+zip=7 days
+Data0=(-43.55658,172.69836)
 [END]
 
 ;1131016
@@ -95077,10 +95055,10 @@ Data0=(-43.57756,172.70879)
 
 ;1131120
 [POI]
-Type=0x2f
+Type=0x2e
 Label=CONVENIENCE PLUS
 StreetDesc=267 Stanmore Rd, Chc/ 
-Data0=(-43.52153,172.65618)
+Data0=(-43.52145,172.65622)
 [END]
 
 ;1131121
@@ -95773,14 +95751,6 @@ Type=0x2a07
 Label=FARRINGTON TAKEAWAY
 StreetDesc=135 Farrington Ave, Bishopdale, Chc/ takeaways
 Data0=(-43.49089,172.58664)
-[END]
-
-;1131211
-[POI]
-Type=0x2a07
-Label=FAST WOK TAKEAWAYS
-StreetDesc=330A Stanmore Rd, Chc/ takeaways
-Data0=(-43.51863,172.65657)
 [END]
 
 ;1131212
@@ -96477,14 +96447,6 @@ StreetDesc=125 Moorhouse Ave, Chc/ cafe
 Data0=(-43.53970,172.62632)
 [END]
 
-;1131304
-[POI]
-Type=0x2a0e
-Label=GRAVITY CAFE DELI
-StreetDesc=158 High St, Chc/ cafe
-Data0=(-43.53487,172.64078)
-[END]
-
 ;1131305
 [POI]
 Type=0x2a
@@ -96848,14 +96810,6 @@ Type=0x2f
 Label=HIGH NET
 StreetDesc=230 High St, Chc/ 
 Data0=(-43.53287,172.63802)
-[END]
-
-;1131355
-[POI]
-Type=0x2f
-Label=HIGH STREET BISTRO
-StreetDesc=178 High St, Chc/ 
-Data0=(-43.53454,172.64032)
 [END]
 
 ;1131356
@@ -98349,8 +98303,8 @@ Data0=(-43.53105,172.65669)
 [POI]
 Type=0x2a0e
 Label=MA & PA'S CAFE
-StreetDesc=319 Stanmore Rd, Chc/ cafe
-Data0=(-43.51903,172.65611)
+StreetDesc=319 Stanmore Rd, Chc/ Cafe
+Data0=(-43.51908,172.65620)
 [END]
 
 ;1131563
@@ -99339,7 +99293,7 @@ Data0=(-43.54393,172.61160)
 Type=0x2a07
 Label=NORTH AVON FISH FRY
 StreetDesc=347 Stanmore Rd, Chc/ 
-Data0=(-43.51786,172.65618)
+Data0=(-43.51803,172.65596)
 [END]
 
 ;1131698
@@ -100512,10 +100466,10 @@ Data0=(-43.50656,172.62864)
 
 ;1131856
 [POI]
-Type=0x2a05
-Label=S B BAKERY AND CAFE
-StreetDesc=337 Stanmore Rd, Richmond Village, Chc/ bakery, cafe
-Data0=(-43.51826,172.65623)
+Type=0x2e
+Label=RICHMOND DAIRY
+StreetDesc=337 Stanmore Rd, Richmond Village, Chc/ 
+Data0=(-43.51824,172.65621)
 [END]
 
 ;1131857
@@ -100874,14 +100828,6 @@ StreetDesc=210 Withells Rd, Avonhead, Chc/ cafe
 Data0=(-43.51083,172.55641)
 [END]
 
-;1131903
-[POI]
-Type=0x2f
-Label=SILK ROAD
-StreetDesc=215 High St, Chc/ 
-Data0=(-43.53470,172.64012)
-[END]
-
 ;1131904
 [POI]
 Type=0x2a0e
@@ -101113,9 +101059,10 @@ Data0=(-43.54569,172.64082)
 ;1131932
 [POI]
 Type=0x2a
-Label=SPEIGHTS ALEHOUSE FERRYMEAD
-StreetDesc=2 Waterman Place, Ferrymead, Chc/ Restaurant, Bar
-Data0=(-43.55607,172.69780)
+Label=THE FERRY SPEIGHTS ALEHOUSE FERRYMEAD
+StreetDesc=Ferrymead Central, 2 Waterman Place, Ferrymead, Chc/ Restaurant, Bar
+Phone=+6433764071
+Data0=(-43.55603,172.69777)
 [END]
 
 ;1131933
@@ -101948,14 +101895,6 @@ zip=5pm-9pm
 Data0=(-43.55252,172.63666)
 [END]
 
-;1132046
-[POI]
-Type=0x2a07
-Label=THAI ORCHID TAKEAWAY
-StreetDesc=240 Stanmore Rd, Chc/ takeaways
-Data0=(-43.52291,172.65682)
-[END]
-
 ;1132047
 [POI]
 Type=0x2a02
@@ -101987,14 +101926,6 @@ Type=0x2a
 Label=THAI TRAY RESTAURANT
 StreetDesc=293 Durham St Nth, Chc/ restaurant
 Data0=(-43.53466,172.63342)
-[END]
-
-;1132054
-[POI]
-Type=0x2f
-Label=THE APSLEY BUTCHERY
-StreetDesc=345 Stanmore Rd, Chc/ butcher
-Data0=(-43.51786,172.65618)
 [END]
 
 ;1132055
@@ -102598,10 +102529,11 @@ Data0=(-43.53056,172.63985)
 
 ;1132137
 [POI]
-Type=0x2f
-Label=THE SAUCE
-StreetDesc=164 High St, Chc/ 
-Data0=(-43.53477,172.64063)
+Type=0x2a
+Label=THE SAUCE KITCHEN
+StreetDesc=91 a Clarendon Terrace, Opawa, Chc/ Food to go and catering
+Phone=+6433663325
+Data0=(-43.55122,172.67291)
 [END]
 
 ;1132138
@@ -102800,10 +102732,10 @@ Data0=(-43.56497,172.63697)
 
 ;1132163
 [POI]
-Type=0x2f
-Label=THREE THIRTY ONE
-StreetDesc=331 Stanmore Rd, Chc/ 
-Data0=(-43.51836,172.65614)
+Type=0x2d02
+Label=THE SIDELINE SPORTS BAR
+StreetDesc=331 Stanmore Rd, Chc/ Gaming Room, Function Room, Restaurant, Garden Bar, Sky TV
+Data0=(-43.51839,172.65612)
 [END]
 
 ;1132164
@@ -104555,16 +104487,6 @@ StreetDesc=Cnr Nith St & Forth St, Invercargill/ Bedroom, Lounge, Office Furnitu
 Phone=+6432140351
 zip=Mon-Fri 0900-1730, Sat 0930-1700, Sun 10
 Data0=(-46.41430,168.35082)
-[END]
-
-;1133086
-[POI]
-Type=0x2f
-Label=PHASEILL.COM MULTIMEDIA DESIGN
-StreetDesc=228 Dee St, Invercargill/ maori graphic design, graphic design Invercargill,web 
-Phone=+6439310485
-zip=8.30am
-Data0=(-46.40448,168.34705)
 [END]
 
 ;1133097
@@ -108981,10 +108903,10 @@ Data0=(-46.40079,168.34787)
 ;1134906
 [POI]
 Type=0x2e0b
-Label=PB TECHNOLOGIES DUNEDIN
-StreetDesc=277 Andersons Bay Rd, Dud/ PB Tech. Your computer superstore. Computer Systems, 
+Label=CELLO TECHNOLOGY HUB
+StreetDesc=277 Andersons Bay Rd, Dud/ Your computer superstore. Computer Systems, Hardware,
 Phone=+6434550004
-zip=Mon-Fri: 9am-5.30pm, Sat 10am-4pm
+zip=Mon-Fri: 9am-5.30pm, Sat- Sun 10am-4pm
 Data0=(-45.89128,170.50238)
 [END]
 
@@ -111566,11 +111488,11 @@ Data0=(-43.51253,172.62181)
 ;1136947
 [POI]
 Type=0x2a
-Label=IT'S INDI
-StreetDesc=72-74 North Avon Rd, Richmond, Chc/ Indian / Pizza Restaurant, Takeaway, Home de
+Label=LITTLE SAIGON
+StreetDesc=72-74 North Avon Rd, Richmond, Chc/ Vietnamese restaurant
 Phone=+6433899997
-zip=Lunch Wed& Fri only 11:30am-2pm, Dinner 
-Data0=(-43.51773,172.65611)
+zip=Mon-Thu 11:30am-2:30pm/5pm-9pm, Fri-Sat 
+Data0=(-43.51775,172.65605)
 [END]
 
 ;1136956
@@ -116308,8 +116230,8 @@ Data0=(-43.38734,170.18330)
 
 ;1138549
 [POI]
-Type=0x2f
-Label=FOX GLACIER GUIDING
+Type=0x2c00
+Label=FOX GLACIER GUIDING NEW ZEALAND
 StreetDesc=44 Main Rd, Fox Glacier/ New Zealand's most experienced glacier guiding company,
 Phone=+6437510825
 Data0=(-43.46529,170.01742)
@@ -119314,9 +119236,9 @@ Data0=(-43.55676,172.70124)
 [POI]
 Type=0x2a0a
 Label=WINNIE BAGOES FERRYMEAD
-StreetDesc=Unit 3, 2 Waterman Pl, Ferrymead, Chc/ Gourmet pizza restaurant
+StreetDesc=Unit 3, Ferrymead Central, 2 Waterman Pl, Ferrymead, Chc/ Gourmet pizza restaura
 Phone=+6433764900
-zip=7 days, 10am-late
+zip=7 days 10am-late
 Data0=(-43.55613,172.69822)
 [END]
 
@@ -119369,9 +119291,9 @@ Data0=(-45.02171,168.73945)
 [POI]
 Type=0x2e07
 Label=WILD SOUTH FERRYMEAD
-StreetDesc=2 Waterman Pl, Ferrymead, Chc/ Mens, Womens Clothing, Merino
+StreetDesc=Ferrymead Central, 2 Waterman Pl, Ferrymead, Chc/ Mens, Womens Clothing, Merino
 Phone=+6433764205
-Data0=(-43.55640,172.69817)
+Data0=(-43.55645,172.69843)
 [END]
 
 ;1140856
@@ -119452,10 +119374,10 @@ Data0=(-45.03429,169.19087)
 [POI]
 Type=0x2f
 Label=PETS N VETS FERRYMEAD
-StreetDesc=2 Waterman Place, Ferrymead, Chc/ Veterinarian
+StreetDesc=Ferrymead Central, 2 Waterman Pl, Ferrymead, Chc/ Veterinarian
 Phone=0800738768
-zip=Mon- Fri: 8am - 7pm Sat: 9am - 4pm Sun: 
-Data0=(-43.55617,172.69837)
+zip=Mon-Fri 8am-7pm, Sat 9am-4pm, Sun 10am-4
+Data0=(-43.55621,172.69847)
 [END]
 
 ;1140872
@@ -124169,7 +124091,7 @@ Type=0x2f15
 Label=PAYPHONE
 StreetDesc=Hills Rd cnr Avalon St O/S Shell Station Richmond Chc/ Telecom, payphone, public
 Phone=+6433779022
-Data0=(-43.51869,172.65124)
+Data0=(-43.51831,172.65162)
 [END]
 
 ;1141930
@@ -124556,7 +124478,7 @@ Type=0x2f15
 Label=PAYPHONE
 StreetDesc=Stanmore Rd cnr North Avon Rd O/S Mall Linwood Chc/ Telecom, payphone, public ph
 Phone=+6433896527
-Data0=(-43.51816,172.65631)
+Data0=(-43.51832,172.65627)
 [END]
 
 ;1141981
@@ -131458,9 +131380,10 @@ Data0=(-43.53679,172.68221)
 ;1146765
 [POI]
 Type=0x2f
-Label=HAIR AND NOW ($10 HAIR CUTS)
-StreetDesc=330C Stanmore Rd, Chc/ Hairdresser
-Data0=(-43.51863,172.65657)
+Label=BLUE TIKI HAIR STUDIO
+StreetDesc=330C Stanmore Rd, Chc/ Colour Specialist
+Phone=+6433814105
+Data0=(-43.51839,172.65652)
 [END]
 
 ;1146766
@@ -132595,7 +132518,7 @@ Data0=(-43.52118,172.55669)
 [POI]
 Type=0x2a
 Label=NANDO'S FERRYMEAD
-StreetDesc=2 Waterman Place, Ferrymead, Chc/ Periperi chicken. Fast food restaurant, burger
+StreetDesc=Ferrymead Central, 2 Waterman Pl, Ferrymead, Chc/ Periperi chicken. Fast food re
 Phone=+6433844043
 Data0=(-43.55626,172.69843)
 [END]
@@ -132771,10 +132694,10 @@ Data0=(-43.69791,173.06166)
 
 ;1146942
 [POI]
-Type=0x2f
+Type=0x2a05
 Label=ON A ROLL
 StreetDesc=267A Stanmore Rd, Chc/ 
-Data0=(-43.52153,172.65618)
+Data0=(-43.52141,172.65622)
 [END]
 
 ;1146943
@@ -133132,14 +133055,6 @@ Phone=+6433527526
 Data0=(-43.47760,172.61711)
 [END]
 
-;1146990
-[POI]
-Type=0x2a02
-Label=SIAM THAI RESTAURANT
-StreetDesc=108 Manchester St, Chc/ Thai restaurant
-Data0=(-43.53518,172.63981)
-[END]
-
 ;1146991
 [POI]
 Type=0x2f
@@ -133218,14 +133133,6 @@ Type=0x2f
 Label=SOHO HAIR STYLING
 StreetDesc=203 Tuam St, Chc/ Hairdresser
 Data0=(-43.53519,172.64001)
-[END]
-
-;1147002
-[POI]
-Type=0x2a0e
-Label=SOUL CAFE HIGH STREET
-StreetDesc=158 High St, Chc/ cafe
-Data0=(-43.53487,172.64078)
 [END]
 
 ;1147003
@@ -133775,9 +133682,10 @@ Data0=(-43.49810,172.63654)
 ;1147081
 [POI]
 Type=0x2f
-Label=THE WASH HOUSE HAIR AND BEAUTY STUDIO
-StreetDesc=335 Stanmore Rd, Chc/ Hairdresser, beauty salon
-Data0=(-43.51830,172.65625)
+Label=ASPYA HAIRSTYLING
+StreetDesc=335 Stanmore Rd, Chc/ 
+Phone=+6433894858
+Data0=(-43.51828,172.65621)
 [END]
 
 ;1147082
@@ -143278,7 +143186,7 @@ Type=0x2e05
 Label=NORTH AVON PHARMACY PRACTICE
 StreetDesc=76 North Avon Rd, Chc/ Pharmacy
 Phone=+6433896275
-Data0=(-43.51771,172.65657)
+Data0=(-43.51776,172.65620)
 [END]
 
 ;1153587
@@ -150899,14 +150807,6 @@ StreetDesc=8 Bridge St, Nelson/ Accommodation
 Data0=(-41.27262,173.28146)
 [END]
 
-;1158902
-[POI]
-Type=0x2b00
-Label=BURBERY APARTMENTS
-StreetDesc=154 High St, Chc, Chc/ Accommodation
-Data0=(-43.53487,172.64078)
-[END]
-
 ;1158904
 [POI]
 Type=0x2b02
@@ -156768,10 +156668,11 @@ Data0=(-43.32121,172.53600)
 
 ;1161203
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=FINGERPRINTS CHRISTIAN PRESCHOOL
-StreetDesc=130 Wilsons Rd, St Martins, Chc/ 
+StreetDesc=130 Wilsons Rd, St Martins, Chc/ Fingerprints Christian Preschool in Christchurc
 Phone=+6433322001
+zip=8.30am - 3.30pm
 Data0=(-43.55276,172.65107)
 [END]
 
@@ -162104,9 +162005,9 @@ Data0=(-45.05186,169.18109)
 [POI]
 Type=0x2f
 Label=STEVE'S MARINE
-StreetDesc=12 Hughes Cres, Cromwell/ Boat & outboard servicing
+StreetDesc=16 Rogers St, Cromwell/ Boat & outboard servicing
 Phone=+6434454368
-Data0=(-45.05194,169.18168)
+Data0=(-45.05171,169.19410)
 [END]
 
 ;1165229
@@ -179104,8 +179005,9 @@ Data0=(-45.11037,169.60250)
 [POI]
 Type=0x2c04
 Label=CUSTOM HOUSE (FORMER)
-StreetDesc=Corner Tyne St And Wansbeck St, Oamaru/ Historic Place: Category 1
-Data0=(-45.10438,170.96969)
+StreetDesc=Corner Tyne St And Wansbeck St, Oamaru/ Historic Place: Category 1, North Otago 
+zip=Friday, Saturday and Sunday 12.30pm-3.00
+Data0=(-45.10434,170.96968)
 [END]
 
 ;1172861
@@ -183660,7 +183562,7 @@ Data0=(-43.49437,172.60955)
 [POI]
 Type=0x2f
 Label=ADVANCING BUSINESSES
-StreetDesc=1 Awaroa Lane, Sumner, Chc 8081/ Personal & Business Coaching - New Zealand
+StreetDesc=1 Awaroa Lane, Sumner, Chc 8081/ Business Coaching - New Zealand
 Phone=+6433266723
 Data0=(-43.56407,172.73113)
 [END]
@@ -183769,14 +183671,6 @@ Type=0x2e
 Label=DIVA
 StreetDesc=191 Hardy St, Nelson/ Fashion jewellery
 Data0=(-41.27412,173.28416)
-[END]
-
-;1174442
-[POI]
-Type=0x2e
-Label=?DIVA
-StreetDesc=High St, Chc/ Fashion jewellery
-Data0=(-43.53489,172.64058)
 [END]
 
 ;1174445
@@ -188115,10 +188009,10 @@ Data0=(-44.98842,168.81564)
 ;1177269
 [POI]
 Type=0x2f
-Label=APSLY BUTCHERY
+Label=RICHMOND VILLAGE MEATS
 StreetDesc=345 Stanmore Rd, Richmond, Chc 8013/ Butcher
 Phone=+6433898135
-Data0=(-43.51812,172.65596)
+Data0=(-43.51808,172.65596)
 [END]
 
 ;1177273
@@ -196964,10 +196858,10 @@ Data0=(-45.87604,170.51085)
 ;1183408
 [POI]
 Type=0x2f15
-Label=PAYPHONE
+Label=?PAYPHONE
 StreetDesc=120 Manchester St New Excelsior Backpackers Flr 2 City Chc/ Telecom, payphone, p
 Phone=+6433663584
-Data0=(-43.53470,172.71402)
+Data0=(-43.53457,172.63982)
 [END]
 
 ;1183410
@@ -197689,7 +197583,7 @@ Data0=(-43.54027,172.61362)
 [POI]
 Type=0x2a02
 Label=@TONYS JAPANESE RESTAURANT
-StreetDesc=2 Waterman Place, Ferrymead, Chc/ Teppan yaki Japanese Restaurant, licensed
+StreetDesc=Ferrymead Central, 2 Waterman Pl, Ferrymead, Chc/ Teppanyaki Japanese Restaurant
 Phone=+6433485644
 zip=Lunch: Tue-Fri 12-2:30, Dinner: Tue-Sun 
 Data0=(-43.55607,172.69834)
@@ -200152,6 +200046,15 @@ Phone=+6433748000
 Data0=(-43.54595,172.64613)
 [END]
 
+;1190052
+[POI]
+Type=0x2c00
+Label=CLUTHA RIVER CRUISES
+StreetDesc=Dunorling St, Alexandra Central Otago/ Clutha River Cruises is the only licensed
+zip=8am-8pm
+Data0=(-45.25761,169.38879)
+[END]
+
 ;1190058
 [POI]
 Type=0x2b02
@@ -201904,11 +201807,9 @@ Data0=(-45.90470,170.51539)
 ;1190948
 [POI]
 Type=0x2f
-Label=PURE HAIR
-StreetDesc=60 North Avon Rd Richmond Chc/ Hairdresser, GHDs, hair care,
-Phone=+6439433480
-zip=Mon tues: 9-5 Wens-fri: 9-8 Sat: 9-4
-Data0=(-43.51767,172.65572)
+Label=NEXT GEN HAIR
+StreetDesc=60 North Avon Rd Richmond Chc/ Avonmore Hairdressing School
+Data0=(-43.51776,172.65571)
 [END]
 
 ;1190949
@@ -201997,7 +201898,7 @@ Data0=(-45.03247,168.65864)
 [POI]
 Type=0x2a
 Label=GORILLA
-StreetDesc=2 Waterman Place, Ferrymead, Chc/ Restaurant
+StreetDesc=Ferrymead Central, 2 Waterman Place, Ferrymead, Chc/ Restaurant, tapas
 Phone=+6433843186
 Data0=(-43.55604,172.69802)
 [END]
@@ -206669,5 +206570,232 @@ Label=?SOLAR ELECTRIC TECHNOLOGY LTD
 StreetDesc=Nelson, New Zealand/ We can design and install an off the grid or grid connected
 Phone=+6435443213
 Data0=(-41.27063,173.28396)
+[END]
+
+;1195721
+[POI]
+Type=0x2f
+Label=THE GREEN GROCER
+StreetDesc=343 Stanmore Rd, Richmond, Chc/ Fruit & Veges
+Data0=(-43.51814,172.65596)
+[END]
+
+;1195722
+[POI]
+Type=0x2e07
+Label=MADAM BUTTERFLY'S
+StreetDesc=330 Stanmore Rd, Chc/ Vintage clothing
+Data0=(-43.51844,172.65653)
+[END]
+
+;1195723
+[POI]
+Type=0x2c00
+Label=CLUTHA RIVER CRUISES
+StreetDesc=7E Blyth St, CLyde, Central Otago/ Boat Cruise, Historical Tour
+zip=8am-8pm
+Data0=(-45.18992,169.31781)
+[END]
+
+;1195727
+[POI]
+Type=0x2e
+Label=CHALKD
+StreetDesc=62 Dodson Valley Rd. Atawhai, Nelson 7010/ Real chalkboards designed and hand cr
+Phone=+6435451144
+zip=9AM - 6PM
+Data0=(-41.24015,173.32029)
+[END]
+
+;1195728
+[POI]
+Type=0x2e
+Label=LUCY FINCH
+StreetDesc=64 North Avon Rd, Richmond, Chc 8013/ Fashion, Jewellery and Presents.
+Phone=+6433891712
+Data0=(-43.51771,172.65580)
+[END]
+
+;1195729
+[POI]
+Type=0x2e
+Label=RICHMOND VILLAGE BOOKSHOP
+StreetDesc=66 North Avon Rd, Richmond, Chc/ 
+Data0=(-43.51776,172.65587)
+[END]
+
+;1195733
+[POI]
+Type=0x2e07
+Label=NATURAL HEALTH AND SKIN CARE PRODUCTS - NZ NATURE 24HR
+StreetDesc=107 Bolt Rd, Nelson. 7011/ Over 1,000 products online include ranges of clothing
+Phone=0800771133
+zip=24/7
+Data0=(-41.29392,173.23458)
+[END]
+
+;1195734
+[POI]
+Type=0x2a07
+Label=SUN NING TAKEAWAYS
+StreetDesc=273 Stanmore Rd, Richmond Chc 8013/ Chinese Meals, Hamburgers, Fish & Chips, Pho
+Phone=+6433893113
+zip=Mon Closed, Tue-Wed 11:30am-2pm/4:30pm-8
+Data0=(-43.52121,172.65621)
+[END]
+
+;1195735
+[POI]
+Type=0x2c06
+Label=RICHMOND VILLAGE GREEN
+StreetDesc=295 Stanmore Rd, Richmond, Chc 8013, New Zealand/ 
+Data0=(-43.52052,172.65582)
+[END]
+
+;1195736
+[POI]
+Type=0x2e
+Label=SOCIETY OF SAINT VINCENT DE PAUL
+StreetDesc=265 Stanmore Rd, Richmond, Chc 8013, New Zealand/ Books, clothes, bric-a-brac, e
+Phone=+6433897484
+zip=Mon-Fri 9am-4pm
+Data0=(-43.52156,172.65619)
+[END]
+
+;1195737
+[POI]
+Type=0x2a
+Label=KING OF SNAKE
+StreetDesc=145 Victoria St, Chc/ Restaurant & bar, modern Thai cuisine
+Phone=+6433657363
+zip=Mon-Fri 8am-late, Sat-Sun 4pm-late
+Data0=(-43.52278,172.62920)
+[END]
+
+;1195738
+[POI]
+Type=0x2e
+Label=WOODFORD GLEN SHOP
+StreetDesc=Corner North Parade and North Avon Rd, Richmond, Chc/ 
+Phone=+6433851515
+zip=Mon Closed, Tue-Fri 9am-4:30pm, Sat 9am-
+Data0=(-43.51730,172.65956)
+[END]
+
+;1195740
+[POI]
+Type=0x2b00
+Label=LAKE BRUNNER COUNTRY MOTEL & HOLIDAY PARK
+StreetDesc=2014 Arnold Valley Rd/ Unique cottage motels & accommodation to suit all budgets
+Phone=+6437380144
+zip=0830 - 2030
+Data0=(-42.56206,171.47712)
+[END]
+
+;1195742
+[POI]
+Type=0x2c05
+Label=MAINZ
+StreetDesc=191 High St, Chc/ Music & Audio Institute of NZ
+Phone=+6433659195
+Data0=(-43.53504,172.64054)
+[END]
+
+;1195745
+[POI]
+Type=0x2f
+Label=SOUTHERN PANELBEATERS LTD
+StreetDesc=313 kaikroai valley Rd Dud/ panel beater accident repairs rust removal
+zip=8.00 to 4.30 Monday to friday
+Data0=(-45.87647,170.47102)
+[END]
+
+;1195746
+[POI]
+Type=0x2f03
+Label=J.D. MOTORS
+StreetDesc=129 North Avon Rd, Richmond, Chc/ 
+Phone=+6433854343
+Data0=(-43.51723,172.65944)
+[END]
+
+;1195747
+[POI]
+Type=0x2F07
+Label=STANMORE ROAD AUTO SPARES
+StreetDesc=245 Stanmore Rd, Richmond, Chc/ 
+Data0=(-43.52280,172.65628)
+[END]
+
+;1195748
+[POI]
+Type=0x2e09
+Label=RICHMOND DISCOUNT FURNITURE & BEDDING
+StreetDesc=233 Stanmore Rd, Richmond, Chc/ 
+Phone=+6433890536
+Data0=(-43.52323,172.65647)
+[END]
+
+;1195755
+[POI]
+Type=0x2f06
+Label=BNZ RICCARTON (B&A)
+StreetDesc=Shop S140 Westfield Riccarton, Rotherham St, Riccarton, Chc/ Bank branch, ATM
+Data0=(-43.53119,172.60034)
+[END]
+
+;1195757
+[POI]
+Type=0x2f06
+Label=BNZ FERRYMEAD (B&A)
+StreetDesc=Unit 9, Ferrymead Central, 2 Waterman Pl, Ferrymead, Chc/ Bank branch, ATM
+Phone=0800ASKBNZ
+zip=Mon-Fri 9am-4:30pm, Sat 10am-1pm
+Data0=(-43.55635,172.69845)
+[END]
+
+;1195761
+[POI]
+Type=0x2e
+Label=PORTABLE SOLAR SYSTEMS
+StreetDesc=347 Blenheim Rd, Riccarton, Chc/ Portable solar systems have a large range of po
+Phone=0800002033
+zip=9am - 5pm and by appointment
+Data0=(-43.53920,172.57906)
+[END]
+
+;1195764
+[POI]
+Type=0x2a0e
+Label=RED FIX ESPRESSO BAR
+StreetDesc=238 Tuam St, Chc/ Cafe
+Data0=(-43.53541,172.64064)
+[END]
+
+;1195773
+[POI]
+Type=0x2f
+Label=CALCON
+StreetDesc=63 Pilkington Way, Wigram, Chc/ Calcon is a Christchurch roading and civil const
+Phone=+6433488010
+Data0=(-43.54735,172.55591)
+[END]
+
+;1195782
+[POI]
+Type=0x2f
+Label=LIMITLESS PROTEIN SUPPLEMENTS
+StreetDesc=56 aikmans rd, merivale, Chc/ protein powder, whey protein powder, gym supplemen
+Phone=+27413164
+Data0=(-43.51407,172.61572)
+[END]
+
+;1195784
+[POI]
+Type=0x2f0c
+Label=RAI VALLEY PUBLIC TOILET 24HR
+StreetDesc=SH 6, Rai Valley/ Public Toilet
+zip=24/7
+Data0=(-41.23188,173.58132)
 [END]
 

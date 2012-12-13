@@ -48639,9 +48639,9 @@ Data0=(-43.54071,172.65039)
 [POI]
 Type=0x2f
 Label=HAMILTON HINDIN GREENE
-StreetDesc=355 Lincoln Rd, Addington, Chc/ 
+StreetDesc=L 1, 184 Manchester St, Chc/ Stock brokers, share trading, stock brokerage, fina
 Phone=+6433798420
-Data0=(-43.54187,172.61429)
+Data0=(-43.53081,172.63984)
 [END]
 
 ;1106562
@@ -59026,54 +59026,48 @@ Data0=(-44.35112,171.24417)
 ;1112965
 [POI]
 Type=0x2b01
-Label=HEARTLAND HOTEL QUEENSTOWN
+Label=HEARTLAND HOTEL QUEENSTOWN 24HR
 StreetDesc=27 Stanley St, Queenstown/ Hotel accommodation
 Phone=+6434427700
-zip=Mon-Fri 0630-2300
+zip=24 hours
 Data0=(-45.03239,168.66492)
 [END]
 
 ;1112967
 [POI]
 Type=0x2b01
-Label=HEARTLAND HOTEL MARLBOROUGH
-StreetDesc=Corner Alfred & Henry Streets, Blenheim/ Hotel
+Label=SCENIC HOTEL MARLBOROUGH 24HR
+StreetDesc=Corner Alfred & Henry Streets, Blenheim/ Hotel accommodation
 Phone=+6435785079
+zip=24 hours
 Data0=(-41.51104,173.95289)
 [END]
 
 ;1112968
 [POI]
 Type=0x2b01
-Label=HEARTLAND HOTEL CROYDON
-StreetDesc=Main Queenstown Highway, Gore/ Hotel
+Label=HEARTLAND HOTEL CROYDON 24HR
+StreetDesc=Main Queenstown Highway, Gore/ Hotel accommodation
 Phone=+6432089029
+zip=24 hours
 Data0=(-46.08398,168.93707)
 [END]
 
 ;1112969
 [POI]
 Type=0x2b01
-Label=SCENIC HOTEL DUNEDIN CITY
+Label=SCENIC HOTEL DUNEDIN CITY 24HR
 StreetDesc=Corner Princes & Dowling Streets, Dud/ Hotel accommodation
 Phone=+6434701470
+zip=24 hours
 Data0=(-45.87634,170.50251)
-[END]
-
-;1112970
-[POI]
-Type=0x2b01
-Label=SCENIC SUITES CHRISTCHURCH
-StreetDesc=88-96 Papanui Rd, Chc/ Hotel
-Phone=+6433668444
-Data0=(-43.51643,172.62516)
 [END]
 
 ;1112971
 [POI]
 Type=0x2b01
 Label=SCENIC HOTEL GROUP
-StreetDesc=9 Sheffield Cres, Chc/ 
+StreetDesc=9 Sheffield Cres, Chc/ Corporate Office
 Phone=+6433571900
 Data0=(-43.49088,172.56336)
 [END]
@@ -74158,7 +74152,7 @@ Type=0x2F02
 Label=SPACESHIPS CHRISTCHURCH OFFICE
 StreetDesc=28 Sheffield Cres Burnside Chc, Canterbury/ Campervans Hire and Motorhome Rental
 Phone=+6433587384
-Data0=(-43.51211,172.50165)
+Data0=(-43.49041,172.56152)
 [END]
 
 ;1118988
@@ -95134,14 +95128,6 @@ StreetDesc=806B Main North Rd, Chc/ dairy, convenience store
 Data0=(-43.44535,172.63245)
 [END]
 
-;1131130
-[POI]
-Type=0x2f
-Label=COTSWOLD HOTEL
-StreetDesc=88 Papanui Rd, Chc/ 
-Data0=(-43.51670,172.62534)
-[END]
-
 ;1131131
 [POI]
 Type=0x2a05
@@ -114371,9 +114357,10 @@ Data0=(-44.40889,171.25617)
 ;1138067
 [POI]
 Type=0x2b01
-Label=SCENIC HOTEL SOUTHERN CROSS
+Label=SCENIC HOTEL SOUTHERN CROSS 24HR
 StreetDesc=Cnr Princes & High Streets, Dud/ Hotel accommodation
 Phone=+6434770752
+zip=24 hours
 Data0=(-45.87792,170.50095)
 [END]
 
@@ -116722,10 +116709,10 @@ Data0=(-46.09919,168.94618)
 ;1138741
 [POI]
 Type=0x2f
-Label=STEPHEN FUNERAL HOME
+Label=SOUTHERN FUNERAL HOME
 StreetDesc=106 Hokonui Dr, Gore/ Funeral Home
 Phone=+6432088004
-Data0=(-46.08907,168.94498)
+Data0=(-46.08910,168.94481)
 [END]
 
 ;1138742
@@ -140817,9 +140804,10 @@ Data0=(-45.96976,168.03052)
 ;1151965
 [POI]
 Type=0x2b01
-Label=SCENIC HOTEL FRANZ JOSEF GLACIER
+Label=SCENIC HOTEL FRANZ JOSEF GLACIER 24HR
 StreetDesc=State Highway 6, Franz Josef, Westland/ Hotel
 Phone=+6437520729
+zip=24 hours
 Data0=(-43.37795,170.17899)
 [END]
 
@@ -143964,15 +143952,6 @@ Label=PUNAKAIKI RESORT
 StreetDesc=State Highway 6, Punakaiki, West Coast/ Accommodation complex. Studio & Resort R
 Phone=+6437311168
 Data0=(-42.11845,171.33070)
-[END]
-
-;1153936
-[POI]
-Type=0x2a
-Label=PRINCES ON DOWLING
-StreetDesc=Scenic Hotel Dud City, Cnr Princes & Dowling Streets, Dud City/ Restaurant & bar
-Phone=+6434701470
-Data0=(-45.87642,170.50251)
 [END]
 
 ;1153939
@@ -151862,17 +151841,21 @@ Data0=(-42.09243,171.34492)
 
 ;1159240
 [POI]
-Type=0x2b00
-Label=HEARTLAND HOTEL COTSWOLD
-StreetDesc=88 Papanui Rd, Merivale, Chc/ Accommodation
+Type=0x2b01
+Label=HEARTLAND HOTEL COTSWOLD 24HR
+StreetDesc=88 Papanui Rd, Merivale, Chc/ Hotel accommodation
+Phone=+6433553535
+zip=24 hours
 Data0=(-43.51670,172.62534)
 [END]
 
 ;1159241
 [POI]
-Type=0x2b00
-Label=HEARTLAND HOTEL GLACIER COUNTRY
-StreetDesc=State Highway 6, Fox Glacier/ Accommodation
+Type=0x2b01
+Label=HEARTLAND HOTEL GLACIER COUNTRY 24HR
+StreetDesc=State Highway 6, Fox Glacier/ Hotel accommodation
+Phone=+6437510847
+zip=24 hours
 Data0=(-43.46465,170.01746)
 [END]
 
@@ -153708,9 +153691,11 @@ Data0=(-43.77168,172.78981)
 
 ;1159791
 [POI]
-Type=0x2b00
-Label=SCENIC SUITES QUEENSTOWN
-StreetDesc=19 Stanley St, Queenstown/ Accommodation
+Type=0x2b01
+Label=SCENIC SUITES QUEENSTOWN 24HR
+StreetDesc=27 Stanley St, Queenstown/ Hotel accommodation
+Phone=+6434424718
+zip=24 hours
 Data0=(-45.03247,168.66527)
 [END]
 
@@ -154115,10 +154100,10 @@ Data0=(-45.87492,170.49770)
 
 ;1159922
 [POI]
-Type=0x2b00
-Label=THE BROWN PUB, MT HUTT VILLAGE, METHVEN
-StreetDesc=Cnr Main St & Forest Dr, Methven/ A true kiwi country pub with a warm, friendly 
-Phone=+33028045
+Type=0x2d02
+Label=THE BROWN PUB
+StreetDesc=Cnr Main St & Forest Dr, Mt Hutt Village, Methven/ A true kiwi country pub with 
+Phone=+6433028045
 Data0=(-43.63244,171.64681)
 [END]
 
@@ -156673,7 +156658,7 @@ Label=FINGERPRINTS CHRISTIAN PRESCHOOL
 StreetDesc=130 Wilsons Rd, St Martins, Chc/ Fingerprints Christian Preschool in Christchurc
 Phone=+6433322001
 zip=8.30am - 3.30pm
-Data0=(-43.55276,172.65107)
+Data0=(-43.55686,172.65322)
 [END]
 
 ;1161206
@@ -160795,15 +160780,6 @@ Type=0x2c06
 Label=WOODHAM PARK
 StreetDesc=157 Woodham Rd, Linwood, Chc/ public park, mulberry tree, aviary, playground, ga
 Data0=(-43.52441,172.67115)
-[END]
-
-;1164129
-[POI]
-Type=0x2c08
-Label=SCENIC CIRCLE HOTELS TENNIS CENTRE
-StreetDesc=113 Woodham Rd, Chc/ Tennis Centre, courts, coaching, shop, catering
-Phone=+6433896484
-Data0=(-43.52496,172.66782)
 [END]
 
 ;1164130
@@ -175059,9 +175035,9 @@ Data0=(-42.46433,171.19926)
 ;1171521
 [POI]
 Type=0x2c00
-Label=SKYDIVE ABEL TASMAN
+Label=SKYDIVE ABEL TASMAN NEW ZEALAND'S HIGHEST SKYDIVE!
 StreetDesc=Hangar 1, 16 College St, Motueka Airport, Nelson/ Tandem skydiving. Tourist attr
-Phone=+6435284091
+Phone=+35284091
 Data0=(-41.12370,172.99235)
 [END]
 
@@ -180999,10 +180975,10 @@ Data0=(-43.54514,172.63047)
 ;1173507
 [POI]
 Type=0x2f
-Label=BROADBASE INTERNATIONAL LTD
-StreetDesc=217 Gloucester St, Chc/ pension transfers, uk pensions, uk pension specialists, 
-Phone=+6439613709
-Data0=(-43.52972,172.64216)
+Label=HENDERSON INTERNATIONAL
+StreetDesc=L 1, Westende House, 184 Manchester St, Chc/ pension transfers, uk pension speci
+Phone=+6433798420
+Data0=(-43.53083,172.63983)
 [END]
 
 ;1173510
@@ -184704,18 +184680,20 @@ Data0=(-45.02238,168.69893)
 ;1174769
 [POI]
 Type=0x2b01
-Label=HEARTLAND HOTEL FOX GLACIER
+Label=HEARTLAND HOTEL FOX GLACIER 24HR
 StreetDesc=Cook Flat Rd, Fox Glacier/ Hotel accommodation
 Phone=+6437510839
+zip=24 hours
 Data0=(-43.45742,169.94777)
 [END]
 
 ;1174770
 [POI]
 Type=0x2b01
-Label=HEARTLAND WORLD HERITAGE HOTEL
+Label=HEARTLAND WORLD HERITAGE HOTEL 24HR
 StreetDesc=State Highway 6, Haast/ Hotel accommodation
 Phone=+6437500828
+zip=24 hours
 Data0=(-43.94355,169.14859)
 [END]
 
@@ -184749,9 +184727,10 @@ Data0=(-45.03500,168.65373)
 ;1174780
 [POI]
 Type=0x2b01
-Label=TE WAONUI FOREST RETREAT
-StreetDesc=State Highway 6, Franz Josef Glacier/ Hotel accommodation
+Label=TE WAONUI FOREST RETREAT 24HR
+StreetDesc=3 Wallace St off State Highway 6, Franz Josef Glacier/ Hotel accommodation
 Phone=+6437520555
+zip=24 hours
 Data0=(-43.38568,170.18241)
 [END]
 
@@ -206797,5 +206776,62 @@ Label=RAI VALLEY PUBLIC TOILET 24HR
 StreetDesc=SH 6, Rai Valley/ Public Toilet
 zip=24/7
 Data0=(-41.23188,173.58132)
+[END]
+
+;1195799
+[POI]
+Type=0x2f
+Label=PRESTIGE COMMERCIAL VEHICLE
+StreetDesc=135 Branston St, Hornby/ Light & Heavy Vehicle, Workshop
+Phone=+6433444900
+Data0=(-43.55601,172.52381)
+[END]
+
+;1195812
+[POI]
+Type=0x2f0b
+Label=AIRPARK CANTERBURY
+StreetDesc=17-25 Logistics Dr Harewood 8544 Chc/ Airpark Canterbury provides safe and secur
+Phone=0800247727
+Data0=(-43.47210,172.56271)
+[END]
+
+;1195814
+[POI]
+Type=0x2f
+Label=DOUG KAMO CREATIVE MANAGEMENT
+StreetDesc=70 Macandrew Rd, Dud 9012/ Corporate Entertainment. Planning a corporate event i
+Phone=+6434556400
+zip=Mon-Sat 9am till 5pm
+Data0=(-45.89657,170.49993)
+[END]
+
+;1195824
+[POI]
+Type=0x2d0a
+Label=ACTIVELY HEALTHY
+StreetDesc=252 Cumberland St, Dud/ Actively Healthy – Vibration Training for Dunedin. Fitne
+Phone=+6434740330
+zip=Mon to Fri 6am till 7pm, Sat to Sun 8am 
+Data0=(-45.87542,170.50632)
+[END]
+
+;1195830
+[POI]
+Type=0x2f
+Label=NETWORK CAR RENTALS - AFFORDABLE QUEENSTOWN CAR RENTAL
+StreetDesc=34 Shotover St, Queenstown/ We are a locally family owned and operated Rental Ca
+Phone=0800427055
+Data0=(-45.03133,168.65997)
+[END]
+
+;1195833
+[POI]
+Type=0x2d09
+Label=GRAHAM CONDON RECREATION AND SPORTS CENTRE
+StreetDesc=3 Sisson Dr, Chc, 8154/ Leisure, Swimming Pool, Recreation, Fitness
+Phone=+6439416888
+zip=Mon-Fri: 5:30am to 9:30pm, Weekends and 
+Data0=(-43.49141,172.60895)
 [END]
 

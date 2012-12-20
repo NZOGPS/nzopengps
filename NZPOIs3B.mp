@@ -16741,11 +16741,11 @@ Data0=(-46.40731,168.34729)
 ;1059269
 [POI]
 Type=0x2F07
-Label=SUPERCHEAP AUTO, RICCARTON, CHCH
-StreetDesc=Blenheim Rd, Middleton/ automotive spare parts, hand tools, power tools, paint a
+Label=SUPERCHEAP AUTO RICCARTON
+StreetDesc=394 Blenheim Rd, Middleton, Chc/ automotive spare parts, hand tools, power tools
 Phone=+6433415087
-zip=Sun 08:00-17:30 Mon 08:00-18:00 Tue 08:0
-Data0=(-43.53920,172.57142)
+zip=7 days 8.30am-5.30pm
+Data0=(-43.53925,172.57148)
 [END]
 
 ;1059276
@@ -35677,10 +35677,10 @@ Data0=(-41.27459,173.27858)
 [POI]
 Type=0x2a05
 Label=COUPLANDS RICHMOND
-StreetDesc=Cnr Salisbury & Champion St, Richmond/ bakery
+StreetDesc=186c Queen St, Richmond, Nelson/ bakery
 Phone=+6435440103
-zip=Mon-Sun 7.00am-6.00pm, Thu 7.00am-7.30pm
-Data0=(-41.33318,173.20192)
+zip=7am-6pm 7 days
+Data0=(-41.34090,173.18705)
 [END]
 
 ;1098600
@@ -61700,7 +61700,7 @@ Data0=(-41.21359,173.05568)
 [POI]
 Type=0x2f
 Label=TASMAN CARTER LTD
-StreetDesc=286 Trafalgar St, Nelson/ 
+StreetDesc=Nelson/ Landscape Design, Site Planning, Urban Design
 Phone=+6435467847
 Data0=(-41.27479,173.28356)
 [END]
@@ -83949,85 +83949,13 @@ Phone=+6433778050
 Data0=(-43.51629,172.63829)
 [END]
 
-;1122059
-[POI]
-Type=0x2e
-Label=DIGITAL MOBILE ASHBURTON
-StreetDesc=272 East St, Ashburton/ Vodafone mobiles, cellphones & accessories
-Phone=08004DIGITAL
-Data0=(-43.90467,171.74768)
-[END]
-
-;1122062
-[POI]
-Type=0x2e
-Label=DIGITAL MOBILE BLENHEIM
-StreetDesc=1 Redwood St, Blenheim/ Vodafone mobiles, cellphones & accessories
-Phone=08004DIGITAL
-Data0=(-41.51456,173.96052)
-[END]
-
-;1122065
-[POI]
-Type=0x2e
-Label=DIGITAL MOBILE BUSINESS SOLUTIONS TEAM
-StreetDesc=Suite A7, The Palms Mall, Chc/ Vodafone mobiles, cellphones & accessories
-Phone=08004DIGITAL
-Data0=(-43.50654,172.66371)
-[END]
-
-;1122066
-[POI]
-Type=0x2e
-Label=DIGITAL MOBILE CHRISTCHURCH COLOMBO
-StreetDesc=574 Colombo St, Chc/ Vodafone mobiles, cellphones & accessories
-Phone=+6433798803
-Data0=(-43.53726,172.63680)
-[END]
-
-;1122067
-[POI]
-Type=0x2e
-Label=DIGITAL MOBILE CHRISTCHURCH CORPORATE
-StreetDesc=Unit 5, 422 Innes Rd, St Albans, Chc/ Vodafone mobiles, cellphones & accessories
-Phone=+6433850096
-Data0=(-43.49845,172.64167)
-[END]
-
 ;1122068
 [POI]
 Type=0x2e
-Label=DIGITAL MOBILE CHRISTCHURCH THE PALMS
+Label=VODAFONE THE PALMS
 StreetDesc=Shop 61, The Palms Mall, Shirley, Chc/ Vodafone mobiles, cellphones & accessorie
-Phone=+6433862266
+Phone=0800434448
 Data0=(-43.50654,172.66371)
-[END]
-
-;1122077
-[POI]
-Type=0x2e
-Label=DIGITAL MOBILE INVERCARGILL
-StreetDesc=Cnr Kelvin & Tay Streets, Invercargill/ Vodafone mobiles, cellphones & accessori
-Phone=+6432182562
-Data0=(-46.41282,168.35041)
-[END]
-
-;1122088
-[POI]
-Type=0x2e
-Label=DIGITAL MOBILE NELSON
-StreetDesc=41 Halifax St, Nelson/ Vodafone mobiles, cellphones & accessories
-Phone=+6435466970
-Data0=(-41.27075,173.28910)
-[END]
-
-;1122104
-[POI]
-Type=0x2e
-Label=DIGITAL MOBILE TIMARU
-StreetDesc=288 Stafford St, Timaru/ Vodafone mobiles, cellphones & accessories
-Phone=+6436888805
-Data0=(-44.39417,171.25098)
 [END]
 
 ;1122118
@@ -85789,7 +85717,7 @@ Data0=(-41.82787,174.13245)
 [POI]
 Type=0x2b01
 Label=CEDAR MOTOR LODGE
-StreetDesc=36 King St, Timaru/ Motel accommodation. Zenbu Wi-Fi wireless internet, cheap, n
+StreetDesc=36 King St, Timaru/ Motel accommodation. Zenbu Wi-Fi wireless internet
 Phone=+6436844084
 Data0=(-44.41203,171.24910)
 [END]
@@ -100037,10 +99965,11 @@ Data0=(-43.53311,172.67285)
 
 ;1131802
 [POI]
-Type=0x2f
-Label=RED ELEPHANT OFF MOORHOUSE
-StreetDesc=5 Pilgrim Pl, Chc/ 
-Data0=(-43.54066,172.63918)
+Type=0x2a
+Label=RED ELEPHANT
+StreetDesc=5 Pilgrim Pl, Chc/ Thai Restaurant
+Phone=+6433771122
+Data0=(-43.54081,172.63907)
 [END]
 
 ;1131803
@@ -136315,6 +136244,16 @@ Phone=+6434437883
 Data0=(-44.70139,169.12835)
 [END]
 
+;1149016
+[POI]
+Type=0x2f
+Label=EVA CAHILL NATUROPATH QUEENSTOWN
+StreetDesc=9 Isle St, Queenstown 9300/ Registered Naturopath and Medical Herbalist, Eva Cah
+Phone=+6421782724
+zip=Mon - Fri: 1.30pm - 7.30pm
+Data0=(-45.02994,168.65826)
+[END]
+
 ;1149078
 [POI]
 Type=0x2a0e
@@ -148881,15 +148820,6 @@ Label=TRENT ESTATE VINEYARDS
 StreetDesc=150 Trents Rd, Chc/ Vineyard, Restaurant, Weddings
 Phone=+6433496940
 Data0=(-43.56746,172.48261)
-[END]
-
-;1157696
-[POI]
-Type=0x2f
-Label=TRENTS ROAD BERRY FARM
-StreetDesc=Trents Rd, Prebbleton/ 
-Phone=+6433494982
-Data0=(-43.58228,172.49973)
 [END]
 
 ;1157697
@@ -165492,14 +165422,6 @@ Type=0x2f
 Label=DR R L GRIFFITHS & DR G S MAWSON'S SURGERY
 StreetDesc=10 Elizabeth St, Timaru/ 
 Data0=(-44.39495,171.24803)
-[END]
-
-;1166735
-[POI]
-Type=0x2f
-Label=?DR RICHARD HILLIKER
-StreetDesc=Wood St, Temuka, Timaru/ 
-Data0=(-44.24220,171.27756)
 [END]
 
 ;1166737
@@ -190641,7 +190563,7 @@ Type=0x2f
 Label=PGG WRIGHTSON CHRISTCHURCH
 StreetDesc=411 Blenheim Rd, Chc/ 
 Phone=+6433414318
-zip=Mon-Fri 8am-5pm, Sat 9am-12pm
+zip=Mon-Fri 7.30am-5pm, Sat 9am-12pm
 Data0=(-43.53950,172.57227)
 [END]
 
@@ -197227,7 +197149,7 @@ Data0=(-43.53391,172.62803)
 ;1188493
 [POI]
 Type=0x2e
-Label=BLUFF BOTTLE STORE
+Label=BLUFF LIQUOR CENTRE
 StreetDesc=70 Gore St Bluff/ Beer, Wine, Spirits
 Phone=+6432127521
 zip=10am to 9pm Monday to Sunday
@@ -197615,15 +197537,6 @@ Label=HAKA LODGE
 StreetDesc=518 Linwood Ave, Chc/ Amazing value boutique backpacker accommodation just outsi
 Phone=+6439804252
 Data0=(-43.54384,172.68961)
-[END]
-
-;1188776
-[POI]
-Type=0x2e
-Label=DIGITAL MOBILE GORE
-StreetDesc=47 Main St, Gore/ Vodafone mobiles, cellphones & accessories
-Phone=+6439731111
-Data0=(-46.09998,168.94557)
 [END]
 
 ;1188783
@@ -199266,7 +199179,7 @@ Data0=(-43.53191,172.63822)
 ;1189671
 [POI]
 Type=0x2f
-Label=MYTAX.CO.NZ LIMITED
+Label=MYTAX.CO.NZ
 StreetDesc=105 Trafalgar St, Nelson, New Zealand/ tax refund, tax refunds, tax return, tax,
 zip=9-5
 Data0=(-41.27124,173.28419)
@@ -205500,10 +205413,11 @@ Data0=(-43.54210,172.58438)
 
 ;1194959
 [POI]
-Type=0x2e
-Label=HOTVIBEZ SEXY R18 ADULT ITEMS 24HR
-StreetDesc=Hotvibez INSIDE Boots n All 35 Queen St Blenheim/ Discete shopping,Sex Toys,Adul
-zip=hotvibez.co.nz is open 24/7
+Type=0x2f
+Label=HOTVIBEZ 24HR
+StreetDesc=Inside Boots n All, 35 Queen St, Blenheim/ Discete shopping, Sex Toys, Adult Gif
+Phone=+6435778851
+zip=24/7
 Data0=(-41.51325,173.95584)
 [END]
 
@@ -205951,8 +205865,8 @@ Data0=(-45.86927,170.52656)
 ;1195370
 [POI]
 Type=0x2f
-Label=HEALTHPOST NZ
-StreetDesc=30 Orion St, Collingwood 7073/ Online shop for supplements, natural health and b
+Label=SUPPLEMENTS ONLINE - HEALTHPOST NZ
+StreetDesc=30 Orion St, Collingwood 7073/ HealthPost is New Zealand’s favourite online shop
 Phone=0800148148
 Data0=(-40.68429,172.68026)
 [END]
@@ -206816,6 +206730,16 @@ zip=Mon to Fri 6am till 7pm, Sat to Sun 8am
 Data0=(-45.87542,170.50632)
 [END]
 
+;1195827
+[POI]
+Type=0x2f
+Label=HARRISONS CARPET ONE ASHBURTON
+StreetDesc=113 McMurdo St, Tinwald, Ashburton 7700/ Give your house a unique feel with carp
+Phone=+6433087156
+zip=Mon-Fri 9am-5pm
+Data0=(-43.92099,171.72129)
+[END]
+
 ;1195830
 [POI]
 Type=0x2f
@@ -206833,5 +206757,174 @@ StreetDesc=3 Sisson Dr, Chc, 8154/ Leisure, Swimming Pool, Recreation, Fitness
 Phone=+6439416888
 zip=Mon-Fri: 5:30am to 9:30pm, Weekends and 
 Data0=(-43.49141,172.60895)
+[END]
+
+;1195843
+[POI]
+Type=0x2f
+Label=FLUID RECRUITMENT
+StreetDesc=43 Princes St, Dud/ Fluid Recruitment – Making the Process Easy, South Island - 
+Phone=+6434677720
+zip=Mon-Fri 8am till 6pm
+Data0=(-45.87509,170.50335)
+[END]
+
+;1195850
+[POI]
+Type=0x2f
+Label=HARRISONS CARPET ONE CANTERBURY COUNTRY
+StreetDesc=30 Young St, Somerfield, Chc 8242/ Give your home a unique feel with carpeting s
+Phone=+6433107457
+zip=Mon - Fri 9:00am to 5:00pm
+Data0=(-43.56094,172.63235)
+[END]
+
+;1195851
+[POI]
+Type=0x2f
+Label=HARRISONS CARPET ONE CHRISTCHURCH SOUTH
+StreetDesc=569 Johns Rd, Harewood, Chc 8051/ Give your home a warm and unique feel with car
+Phone=+6433316332
+zip=Mon - Fri 9:00am to 5:00pm
+Data0=(-43.46804,172.57851)
+[END]
+
+;1195852
+[POI]
+Type=0x2f
+Label=HARRISONS CARPET ONE CHRISTCHURCH WEST
+StreetDesc=105 Nazareth Ave, Middleton, Chc 8024/ Harrisons Carpet One, Christchurch West a
+Phone=+6433410105
+zip=Mon - Fri 9:00am to 5:00pm
+Data0=(-43.54403,172.57982)
+[END]
+
+;1195855
+[POI]
+Type=0x2f
+Label=HARRISONS CARPET ONE DUNEDIN SOUTH
+StreetDesc=67 Rutherford St, Dud 9012/ Give your home a unique feel with carpeting solution
+Phone=+6434717205
+zip=Mon - Fri 9:00am to 5:00pm
+Data0=(-45.89880,170.48315)
+[END]
+
+;1195858
+[POI]
+Type=0x2f
+Label=HARRISONS CARPET ONE GREYMOUTH
+StreetDesc=23 Leith Cres, Greymouth 7805/ Give your home a unique feel with carpeting optio
+Phone=+6437680817
+zip=Mon - Fri 9:00am to 5:00pm
+Data0=(-42.46769,171.19845)
+[END]
+
+;1195863
+[POI]
+Type=0x2f
+Label=HARRISONS CARPET ONE INVERCARGILL
+StreetDesc=66 Rimu St, Invercargill 9812/ Harrisons Carpet One, Invercargill are your carpe
+Phone=+6432140098
+zip=Mon - Fri 9:00am to 5:00pm
+Data0=(-46.42476,168.37913)
+[END]
+
+;1195868
+[POI]
+Type=0x2f
+Label=HARRISONS CARPET ONE MARLBOROUGH
+StreetDesc=11 Main St, Blenheim 7201/ Give your house a unique feel with flooring options f
+Phone=+6435792978
+zip=Mon - Fri 9:00am to 5:00pm
+Data0=(-41.51328,173.96071)
+[END]
+
+;1195870
+[POI]
+Type=0x2f
+Label=HARRISONS CARPET ONE NELSON
+StreetDesc=36 Golf Haven Way, Nelson 7011/ Explore a range of flooring solutions from Harri
+Phone=+6435458160
+zip=Mon - Fri 9:00am to 5:00pm
+Data0=(-41.29093,173.23470)
+[END]
+
+;1195877
+[POI]
+Type=0x2f
+Label=HARRISONS CARPET ONE SOUTHERN LAKES
+StreetDesc=370 Littles Rd, RD1, The Barn, Queenstown 9371/ Harrisons Carpet One, Queenstown
+Phone=+6434092913
+zip=Mon - Fri 9:00am to 5:00pm
+Data0=(-44.97576,168.72464)
+[END]
+
+;1195878
+[POI]
+Type=0x2f
+Label=HARRISONS CARPET ONE SOUTHLAND
+StreetDesc=116 Ariki Ave, Otatara, Invercargill 9879/ Mobile carpet showroom with hundreds 
+Phone=+6432130674
+zip=Mon - Fri 9:00am to 5:00pm
+Data0=(-46.44042,168.27876)
+[END]
+
+;1195881
+[POI]
+Type=0x2f
+Label=HARRISONS CARPET ONE TIMARU
+StreetDesc=29 Kowhai St, Highfield, Timaru 7910/ Give your home a unique feel with carpetin
+Phone=+6436883574
+zip=Mon - Fri 9:00am to 5:00pm
+Data0=(-44.39230,171.21101)
+[END]
+
+;1195890
+[POI]
+Type=0x2f
+Label=HARRISONS CARPET ONE CANTERBURY NORTH
+StreetDesc=569 Johns Rd, Harewood, Chc 8051/ Give your home a unique feel with flooring opt
+Phone=+6433559712
+zip=Mon - Fri 9:00am to 5:00pm
+Data0=(-43.46804,172.57851)
+[END]
+
+;1195897
+[POI]
+Type=0x2f
+Label=WOOD STREET SURGERY TEMUKA
+StreetDesc=7 Wood St Temuka/ Family Medicine, General Practice GP
+Phone=+6436157677
+zip=8:30am to 5:00pm Monday to Friday
+Data0=(-44.24205,171.27794)
+[END]
+
+;1195922
+[POI]
+Type=0x2f
+Label=JUMP FROG WEB DEVELOPMENT
+StreetDesc=165 Spey St, Invercargill/ We make professional, top quality websites. We specia
+Phone=+6427505014
+zip=9:00am - 5:30pm, Monday to Friday (avail
+Data0=(-46.41024,168.35351)
+[END]
+
+;1195928
+[POI]
+Type=0x2f
+Label=?YOUNG & SUCCESS CHARTERED ACCOUNTANTS
+StreetDesc=Unit 9, 41 Sir William Pickering Dr, Burnside, Chc/ Accountants, Taxation, Busin
+Phone=+6433586070
+Data0=(-43.49755,172.55993)
+[END]
+
+;1195936
+[POI]
+Type=0x2c07
+Label=PENGUIN PLACE
+StreetDesc=45 Pakihau Rd, Harington Point 9077, Dud, New Zealand/ Penguin Place is a privat
+Phone=+34780286
+zip=Summer (Oct – Mar) Tours begin at 10:15a
+Data0=(-45.79629,170.73090)
 [END]
 

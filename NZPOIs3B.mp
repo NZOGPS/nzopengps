@@ -12057,7 +12057,7 @@ Data0=(-43.54730,172.65437)
 ;1041769
 [POI]
 Type=0x2f01
-Label=MCKEOWN PETROLEUM 24HR
+Label=MCKEOWN OTEMATATA 24HR
 StreetDesc=Main Rd, Otematata/ Petrol station
 Phone=+6434331022
 zip=24 hours
@@ -21554,10 +21554,10 @@ Data0=(-43.38949,170.18324)
 ;1074662
 [POI]
 Type=0x2b00
-Label=OLD FIRE-STATION BACKPACKER
+Label=THE FIRE STATION BACKPACKERS
 StreetDesc=19 Hokonui Dr, Gore/ Backpacker accommodation. BBH
 Phone=+6432081925
-Data0=(-46.09724,168.94509)
+Data0=(-46.09725,168.94509)
 [END]
 
 ;1074669
@@ -25400,10 +25400,10 @@ Data0=(-43.63507,172.48959)
 ;1083832
 [POI]
 Type=0x3002
-Label=LYNDHURST HOSPITAL
-StreetDesc=440 Montreal St, Chc/ Outpatients, Community Health
-Phone=+6433790213
-Data0=(-43.52131,172.63071)
+Label=LYNDHURST CLINIC
+StreetDesc=L 4, Riverside, Chc Hospital, Riccarton Ave, Chc/ Outpatients, Community Health
+Phone=+6433786386
+Data0=(-43.53352,172.62645)
 [END]
 
 ;1083895
@@ -53331,9 +53331,9 @@ Data0=(-43.53889,172.58040)
 [POI]
 Type=0x2f
 Label=METROTEST NEW ZEALAND
-StreetDesc=56 Camerons Rd, Okaramio, Blenheim/ 
-Phone=+6435727070
-Data0=(-41.43338,173.75728)
+StreetDesc=211 Middle Renwick Rd, Springlands, Blenheim/ Electrical safety testing
+Phone=0800638768
+Data0=(-41.50978,173.92468)
 [END]
 
 ;1109555
@@ -89164,9 +89164,11 @@ Data0=(-45.89196,170.50091)
 
 ;1128601
 [POI]
-Type=0x2f
-Label=KENSINGTON TUI CLUBROOMS
-StreetDesc=4 King Edward St, Dud/ 
+Type=0x2d02
+Label=THE KENSINGTON
+StreetDesc=4 King Edward St, Kensington, Dud/ Bar & restaurant
+Phone=+6434558001
+zip=Mon-Tue 11am-10pm, Wed 11am-11pm. Thu-Sa
 Data0=(-45.89023,170.49600)
 [END]
 
@@ -91640,9 +91642,9 @@ Data0=(-45.66022,169.40942)
 [POI]
 Type=0x2f
 Label=SONS & CO
-StreetDesc=207 Cambridge Terrace, Chc/ Website design & development
+StreetDesc=78 Poulson St, Addington, Chc 8024/ Website design & development
 Phone=+6433742365
-Data0=(-43.52693,172.63754)
+Data0=(-43.54454,172.61716)
 [END]
 
 ;1130239
@@ -93572,24 +93574,26 @@ Data0=(-43.56884,172.75893)
 ;1130936
 [POI]
 Type=0x2a0e
-Label=BB'S CAFE
-StreetDesc=201 Marshland Rd, Chc/ Cafe
+Label=BB'S CAFE MARSHLAND
+StreetDesc=Unit A Homebase Retail Ctr, 199 Marshlands Rd, Chc/ Cafe
 Data0=(-43.49381,172.66111)
 [END]
 
 ;1130937
 [POI]
 Type=0x2a0e
-Label=BB'S ESPRESSO
-StreetDesc=403 Main South Rd, Chc/ cafe
+Label=BB'S CAFE DRESSSMART HORNBY
+StreetDesc=Shop 17 Dress Smart Factory Outlet, 409 Main South Rd, Hornby, Chc/ cafe
+Phone=+6433496020
 Data0=(-43.54363,172.52495)
 [END]
 
 ;1130938
 [POI]
 Type=0x2a0e
-Label=BB'S ESPRESSO
-StreetDesc=189 Papanui Rd, Chc/ cafe
+Label=BB'S CAFE MERIVALE
+StreetDesc=Shop 13A Merivale Mall, 189 Papanui Rd, Chc/ cafe
+Phone=+6439643900
 Data0=(-43.51253,172.62182)
 [END]
 
@@ -96899,14 +96903,6 @@ StreetDesc=113 Riccarton Rd, Chc/
 Data0=(-43.52991,172.59967)
 [END]
 
-;1131388
-[POI]
-Type=0x2a07
-Label=HUANGS CHINESE TAKEAWAYS
-StreetDesc=8 Bower Ave, Chc/ Chinese, takeaways
-Data0=(-43.50346,172.70989)
-[END]
-
 ;1131389
 [POI]
 Type=0x2a07
@@ -98489,14 +98485,6 @@ StreetDesc=218 Manchester St, Chc/
 Data0=(-43.52904,172.63987)
 [END]
 
-;1131609
-[POI]
-Type=0x2f
-Label=MEMPHIS BELLE PIZZERIA
-StreetDesc=391 Worcester St, Chc/ 
-Data0=(-43.53078,172.65677)
-[END]
-
 ;1131610
 [POI]
 Type=0x2a05
@@ -99115,10 +99103,11 @@ Data0=(-43.52889,172.63705)
 
 ;1131692
 [POI]
-Type=0x2f
+Type=0x2a07
 Label=NOMADS ETHNIC FOODS
-StreetDesc=251B Riccarton Rd, Chc/ 
-Data0=(-43.53101,172.58577)
+StreetDesc=251B Riccarton Rd, Chc/ Souvlakis, kebabs
+Phone=+6433481883
+Data0=(-43.53099,172.58573)
 [END]
 
 ;1131693
@@ -100505,14 +100494,6 @@ StreetDesc=108A Seaview Rd, New Brighton, Chc/
 Data0=(-43.50784,172.72656)
 [END]
 
-;1131881
-[POI]
-Type=0x2a
-Label=SECRET GARDEN KOREAN RESTAURANT
-StreetDesc=62 Manchester St, Chc/ restaurant
-Data0=(-43.53689,172.63982)
-[END]
-
 ;1131882
 [POI]
 Type=0x2f
@@ -101633,9 +101614,10 @@ Data0=(-43.56840,172.75938)
 ;1132030
 [POI]
 Type=0x2a07
-Label=TASOS FRY, SEAFOOD & BURGER CENTRE
-StreetDesc=274 Wairakei Rd, Chc/ Takeaways
-Data0=(-43.49968,172.58675)
+Label=TASO'S SEAFOOD
+StreetDesc=274 Wairakei Rd, Chc/ Takeaways, fish and chips, burgers
+Phone=+6433597411
+Data0=(-43.49967,172.58664)
 [END]
 
 ;1132031
@@ -101754,29 +101736,12 @@ zip=5pm-9pm
 Data0=(-43.55252,172.63666)
 [END]
 
-;1132047
-[POI]
-Type=0x2a02
-Label=THAI PAN THONG RESTAURANT
-StreetDesc=64 Manchester St, Chc/ Thai restaurant
-Data0=(-43.53689,172.63982)
-[END]
-
 ;1132049
 [POI]
 Type=0x2a
 Label=THAI SMILE RESTAURANT
 StreetDesc=818 Colombo St, Chc/ restaurant
 Data0=(-43.52596,172.63678)
-[END]
-
-;1132050
-[POI]
-Type=0x2a02
-Label=THAI SQUARE
-StreetDesc=17B Main North Rd, Chc/ Thai Restaurant
-Phone=+6433546818
-Data0=(-43.49641,172.60778)
 [END]
 
 ;1132051
@@ -101894,10 +101859,12 @@ Data0=(-43.41880,172.65249)
 
 ;1132070
 [POI]
-Type=0x2f
+Type=0x2a
 Label=THE CHINA KITCHEN
-StreetDesc=147 Hereford St, Chc/ Fresh authentic Chinese cuisine. Dine-in or take away. One
-Data0=(-43.53190,172.63807)
+StreetDesc=17B Main North Rd, Papanui, Chc/ Restaurant. Fresh authentic Chinese cuisine. Di
+Phone=+6433546818
+zip=Tue-Sun 11:30am-10pm
+Data0=(-43.49640,172.60779)
 [END]
 
 ;1132071
@@ -102528,7 +102495,9 @@ Data0=(-43.56694,172.64687)
 [POI]
 Type=0x2a
 Label=THE WATERSHED
-StreetDesc=23 Humphreys Dr, Chc/ Restaurant, Bar
+StreetDesc=12/23 Humphreys Dr, Woolston, Chc/ Restaurant, Bar
+Phone=+6433841326
+zip=Mon-Fri 11.30am-late, Sat 11am-late, Sun
 Data0=(-43.55680,172.70499)
 [END]
 
@@ -105943,14 +105912,6 @@ Phone=+6432187569
 Data0=(-46.41757,168.35665)
 [END]
 
-;1134400
-[POI]
-Type=0x2a07
-Label=ALEX'S FISH
-StreetDesc=114 Tanner St, Invercargill/ Takeaways
-Data0=(-46.38338,168.33917)
-[END]
-
 ;1134401
 [POI]
 Type=0x2e
@@ -106770,15 +106731,6 @@ Type=0x2b00
 Label=GRAND HALL OF RESIDENCE
 StreetDesc=76-86 Dee St, Invercargill/ accommodation
 Data0=(-46.41058,168.34705)
-[END]
-
-;1134494
-[POI]
-Type=0x2e
-Label=GRASMERE GROCERY
-StreetDesc=112 Tanner St, Invercargill/ dairy, superette, convenience store
-Phone=+6432159867
-Data0=(-46.38346,168.33916)
 [END]
 
 ;1134495
@@ -110362,16 +110314,17 @@ Data0=(-41.28040,173.26943)
 Type=0x2f
 Label=VICTORY FRUIT & VEGES
 StreetDesc=144 Toi Toi St, Nelson/ fresh fruit, vegetables
-Data0=(-41.28074,173.26940)
+Phone=+6435467205
+Data0=(-41.28076,173.26954)
 [END]
 
 ;1135154
 [POI]
-Type=0x2a
+Type=0x2a07
 Label=VICTORY SQUARE FISH & CHIPS
-StreetDesc=corner Toi Toi St & St Vincent St, Nelson/ Fish & Chips, takeaways
+StreetDesc=corner Toi Toi St & St Vincent St, Nelson/ Fish & chips, gourmet burgers, takeaw
 Phone=+6435391115
-Data0=(-41.28087,173.26933)
+Data0=(-41.28081,173.26955)
 [END]
 
 ;1135155
@@ -116083,10 +116036,10 @@ Data0=(-41.02575,173.02324)
 ;1138548
 [POI]
 Type=0x2a
-Label=?ALICE MAY TAVERN
-StreetDesc=Cron & Cowan Streets, Franz Josef/ Bar, restaurant
+Label=ALICE MAY TAVERN
+StreetDesc=Cnr Cron & Cowan Streets, Franz Josef/ Bar, restaurant
 Phone=+6437520740
-Data0=(-43.38734,170.18330)
+Data0=(-43.38717,170.18352)
 [END]
 
 ;1138549
@@ -117413,7 +117366,8 @@ Data0=(-46.19299,168.86756)
 Type=0x2a0e
 Label=COSTELLOS CAFE
 StreetDesc=19 Irwell St, Gore/ Cafe
-Data0=(-46.09786,168.94478)
+Phone=+6432087770
+Data0=(-46.09782,168.94478)
 [END]
 
 ;1139097
@@ -119690,9 +119644,10 @@ Data0=(-41.80659,171.57872)
 ;1141082
 [POI]
 Type=0x2e
-Label=MILLHOUSE DAIRY
-StreetDesc=229 Palmerston St, Westport/ dairy, superette, convenience store
-Data0=(-41.76150,171.60036)
+Label=THE MILL HOUSE DAIRY
+StreetDesc=229 Palmerston St, Westport/ On The Spot. Dairy, superette
+Phone=+6437897215
+Data0=(-41.76146,171.60025)
 [END]
 
 ;1141083
@@ -120983,16 +120938,6 @@ Label=THE GECKO THEATRE
 StreetDesc=23B Wallace St, Motueka/ Motueka's independent movie cinema
 Phone=+6435289996
 Data0=(-41.11203,173.01210)
-[END]
-
-;1141265
-[POI]
-Type=0x2d
-Label=MOTUEKA MINI GOLF
-StreetDesc=390 Chamberlain St, Motueka/ 18 hole mini-golf
-Phone=+6427205424
-zip=Summer School Holidays 10am-5pm
-Data0=(-41.14973,172.97765)
 [END]
 
 ;1141266
@@ -142800,15 +142745,6 @@ Label=KIRK ROAD TEMPLETON PHARMACY
 StreetDesc=5 Kirk Rd, Templeton/ Pharmacy
 Phone=+6433495180
 Data0=(-43.55346,172.47324)
-[END]
-
-;1153488
-[POI]
-Type=0x2e05
-Label=LARSON'S CENTRAL PHARMACY
-StreetDesc=22 Princes St, Dud/ Pharmacy
-Phone=+6434770501
-Data0=(-45.87478,170.50302)
 [END]
 
 ;1153489
@@ -165588,7 +165524,7 @@ Data0=(-45.87802,170.50175)
 Type=0x2f
 Label=DUNEDIN CHIROPRACTIC CLINIC
 StreetDesc=8 Jones St, Dud/ Chiropractor
-Data0=(-45.88524,170.49649)
+Data0=(-45.88516,170.49644)
 [END]
 
 ;1166834
@@ -184161,10 +184097,10 @@ Data0=(-44.33025,169.61315)
 [POI]
 Type=0x2a
 Label=THE LITTLE BISTRO
-StreetDesc=33 Rue Lauvaud Akaroa/ Restaurant, Bistro
-Phone=+33047314
-zip=Wed - Sun: 18:00 - 00:00
-Data0=(-43.80282,172.96897)
+StreetDesc=33 Rue Lauvaud, Akaroa/ Restaurant, Bistro
+Phone=+6433047314
+zip=Wed-Sun 6pm-late
+Data0=(-43.80278,172.96899)
 [END]
 
 ;1174672
@@ -192048,15 +191984,6 @@ zip=Mon-Fri 7:30am-5:30pm Sat 8am-noon
 Data0=(-45.09537,170.97176)
 [END]
 
-;1179416
-[POI]
-Type=0x2a0e
-Label=?BB'S CAFE MERIVALE
-StreetDesc=13A Merivale Mall, Papanui Rd, Chc/ cafe
-Phone=+6439643900
-Data0=(-43.51253,172.62206)
-[END]
-
 ;1179422
 [POI]
 Type=0x2f
@@ -192375,9 +192302,9 @@ Data0=(-43.48722,172.58733)
 [POI]
 Type=0x2c02
 Label=TOITū OTAGO SETTLERS MUSEUM
-StreetDesc=31 Queens Gardens, Dud/ Historical Museum
+StreetDesc=31 Queens Gardens, Dud/ Encounter history at the Toitū Otago Settlers Museum. Le
 Phone=+6434775052
-zip=10am - 5pm Closed public holidays.
+zip=October-March 10am-5pm. April-September 
 Data0=(-45.87693,170.50577)
 [END]
 
@@ -206812,5 +206739,69 @@ Label=FUN PLAY CYBER CAFE
 StreetDesc=388c Riccarton Rd, Upper Riccarton, Chc, New Zealand/ Ultra-Fast Dedicated Fiber
 zip=Mon - Sun ( 11AM - till Late )
 Data0=(-43.53173,172.57320)
+[END]
+
+;1196054
+[POI]
+Type=0x2f
+Label=INFINITY PARAGLIDING SCHOOL
+StreetDesc=Flightpark, 793 Malaghans Rd, Wharehuanui/ Queenstown Paragliding School
+Phone=+6434425145
+Data0=(-44.94098,168.77929)
+[END]
+
+;1196055
+[POI]
+Type=0x2a0e
+Label=FLIGHTPARK
+StreetDesc=793 Malaghans Rd, Wharehuanui, Queenstown/ Cafe
+Phone=+6434421586
+Data0=(-44.94122,168.77963)
+[END]
+
+;1196057
+[POI]
+Type=0x2f01
+Label=MCKEOWN CARDPAY FAIRLIE 24HR
+StreetDesc=Allendale Rd, Fairlie/ Petrol station
+zip=24 hours
+Data0=(-44.09443,170.84072)
+[END]
+
+;1196073
+[POI]
+Type=0x2f
+Label=LOGICAL FREIGHT SOLUTIONS NZ LTD
+StreetDesc=2/12 Marylands Place Middleton, Chc/ 
+Phone=+6433384692
+Data0=(-43.54599,172.59434)
+[END]
+
+;1196087
+[POI]
+Type=0x2a07
+Label=MILL HOUSE FAST FOOD
+StreetDesc=229 Palmerston St, Westport/ 
+Phone=+6437896112
+Data0=(-41.76144,171.60045)
+[END]
+
+;1196089
+[POI]
+Type=0x2a07
+Label=MOON WAH TAKEAWAYS
+StreetDesc=8 Bower Ave, North New Brighton, Chc/ Chinese takeaways
+Phone=+6433880005
+Data0=(-43.50342,172.70985)
+[END]
+
+;1196090
+[POI]
+Type=0x2a
+Label=MUM'S 24 RESTAURANT
+StreetDesc=62 Manchester St, Chc/ Restaurant, Korean & Japanese cuisine
+Phone=+6433652211
+zip=7 Days lunch 11.30am-3pm, dinner 5pm-Lat
+Data0=(-43.53695,172.63983)
 [END]
 

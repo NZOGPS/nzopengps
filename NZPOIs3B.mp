@@ -20933,10 +20933,10 @@ Data0=(-41.51313,173.96352)
 ;1073647
 [POI]
 Type=0x2b00
-Label=LE GITE BACKPACKERS
-StreetDesc=3 Devon St, Hanmer Springs/ Backpacker accommodation BBH
+Label=JACK IN THE GREEN BACKPACKERS
+StreetDesc=3 Devon St, Hanmer Springs/ Backpacker budget accommodation. BBH. Formerly Le Gi
 Phone=+6433155111
-Data0=(-42.51940,172.81807)
+Data0=(-42.51935,172.81813)
 [END]
 
 ;1073661
@@ -27588,8 +27588,8 @@ Data0=(-44.24757,171.28540)
 ;1089460
 [POI]
 Type=0x2b04
-Label=TERRACE DOWNS HIGH COUNTRY RESORT & GOLF CLUB
-StreetDesc=Coleridge Rd, Rakaia Gorge, Darfield/ golf course
+Label=TERRACE DOWNS RESORT
+StreetDesc=Coleridge Rd, Rakaia Gorge, Darfield/ Luxury resort, hotel accommodation, restau
 Phone=+6433186943
 Data0=(-43.49920,171.64975)
 [END]
@@ -37055,16 +37055,6 @@ zip=from 4:30pm
 Data0=(-43.54909,172.63692)
 [END]
 
-;1099284
-[POI]
-Type=0x2a0a
-Label=SPAGALIMIS CENTRAL CITY
-StreetDesc=155 Victoria St, Chc/ Pizza Restaurant, takeaway or delivery
-Phone=0800113113
-zip=from 11:00am
-Data0=(-43.52244,172.62898)
-[END]
-
 ;1099285
 [POI]
 Type=0x2a0a
@@ -38219,15 +38209,6 @@ Label=ABRAHAM & ASSOCIATES LTD
 StreetDesc=12 Princess St, (Corner Clarence & Princes St), Riccarton, Chc/ Insurance, Inves
 Phone=+6433482943
 Data0=(-43.53842,172.60352)
-[END]
-
-;1100497
-[POI]
-Type=0x2f
-Label=ABSOLUTE COMMUNICATIONS LTD
-StreetDesc=78 Worcester Boulevard, Chc/ 
-Phone=+6433484030
-Data0=(-43.53097,172.63420)
 [END]
 
 ;1100505
@@ -47023,10 +47004,11 @@ Data0=(-43.54372,172.58460)
 
 ;1105733
 [POI]
-Type=0x2f
-Label=FOSSIL RIDGE
-StreetDesc=Hart Rd, Richmond, Nelson/ 
+Type=0x2c0a
+Label=FOSSIL RIDGE WINERY
+StreetDesc=Hart Rd, Richmond, Nelson/ Winery, cellar door
 Phone=+6435447459
+zip=Winter 12 - 3pm Mon to Fri. Summer hours
 Data0=(-41.35439,173.17723)
 [END]
 
@@ -55185,8 +55167,8 @@ Data0=(-43.54641,172.63643)
 ;1110584
 [POI]
 Type=0x2b01
-Label=NOVOTEL QUEENSTOWN GARDENS
-StreetDesc=Corner of Earl St and Marine Parade, Queenstown/ Hotel accommodation, bar, resta
+Label=NOVOTEL QUEENSTOWN LAKESIDE
+StreetDesc=Corner of Earl St and Marine Parade, Queenstown/ Hotel accommodation
 Phone=+6434427750
 Data0=(-45.03370,168.66217)
 [END]
@@ -58060,10 +58042,9 @@ Data0=(-43.56961,172.54202)
 [POI]
 Type=0x2f
 Label=READYTREE NURSERIES LTD
-StreetDesc=340 Halswell Junction Rd, Chc/ 
-Phone=+6433498228
-zip=7 Days Open 0900am - 0500pm
-Data0=(-43.56961,172.54202)
+StreetDesc=308 Trents Rd, Prebbleton, Chc/ 
+zip=Mon-Fri 8.30am-5pm
+Data0=(-43.57842,172.49194)
 [END]
 
 ;1112336
@@ -58815,9 +58796,9 @@ Data0=(-43.48945,172.60058)
 [POI]
 Type=0x2f
 Label=SAFETY SIGN SALES LTD
-StreetDesc=Unit 4, 44 Clarence St, Addington, Chc/ 
-Phone=+6433385139
-Data0=(-43.53933,172.60601)
+StreetDesc=195 Barrington St, Somerfield, Chc/ 
+Phone=+6433328235
+Data0=(-43.55964,172.62124)
 [END]
 
 ;1112875
@@ -64892,11 +64873,11 @@ Data0=(-43.53856,172.63872)
 
 ;1116259
 [POI]
-Type=0x2c05
+Type=0x2f
 Label=WRENS PAINTING & DECORATING
 StreetDesc=50 Carroll St, Dud/ Commercial & residential painting, decorating, wallpapering,
 Phone=+6434779384
-zip=Mon-Fri 08.00am-5.00pm
+zip=Mon-Fri 8am-5pm
 Data0=(-45.88113,170.49754)
 [END]
 
@@ -90297,7 +90278,8 @@ Data0=(-45.89317,170.53954)
 [POI]
 Type=0x2d02
 Label=SHIEL HILL TAVERN
-StreetDesc=140 Highcliff Rd, Dud/ bar
+StreetDesc=140 Highcliff Rd, Shiel Hill, Dud/ bar, restaurant
+Phone=+6434544453
 Data0=(-45.89213,170.54018)
 [END]
 
@@ -109519,9 +109501,10 @@ Data0=(-41.32047,173.21874)
 
 ;1135053
 [POI]
-Type=0x2a0e
-Label=LITTLE ROCK CAFE
-StreetDesc=165 Bridge St, Nelson/ cafe
+Type=0x2d02
+Label=THE LITTLE ROCK BAR & NIGHTCLUB
+StreetDesc=165 Bridge St, Nelson/ Bar,
+Phone=+6435468800
 Data0=(-41.27244,173.28747)
 [END]
 
@@ -114031,6 +114014,8 @@ Data0=(-44.40033,171.25082)
 Type=0x2a0e
 Label=VERDE CAFE DELI
 StreetDesc=45C Talbot St, Geraldine/ Licensed cafe, deli
+Phone=+6436939616
+zip=7 days 9am-4pm
 Data0=(-44.09206,171.24515)
 [END]
 
@@ -116137,14 +116122,6 @@ Phone=+6437510700
 Data0=(-43.46487,170.01799)
 [END]
 
-;1138560
-[POI]
-Type=0x2a05
-Label=EAT ON REVELL CAFE & BAKERY
-StreetDesc=105 Revell St, Hokitika/ Cafe, bakery
-Data0=(-42.71675,170.96197)
-[END]
-
 ;1138561
 [POI]
 Type=0x2b01
@@ -117776,6 +117753,7 @@ Data0=(-45.09737,170.97152)
 Type=0x2a04
 Label=GOLDEN DRAGON RESTAURANT
 StreetDesc=36-38 Ribble St, Oamaru/ Chinese restaurant, BYO
+Phone=+6434348670
 Data0=(-45.09566,170.97299)
 [END]
 
@@ -124553,7 +124531,7 @@ Data0=(-43.73297,170.09282)
 ;1142012
 [POI]
 Type=0x2f15
-Label=PAYPHONE
+Label=??PAYPHONE
 StreetDesc=Bowen Dr YHA Mt Cook/ Telecom, payphone, public phone box
 Phone=+6434351703
 Data0=(-43.73674,170.10086)
@@ -136389,9 +136367,11 @@ Data0=(-43.98423,170.46696)
 ;1149112
 [POI]
 Type=0x2a0e
-Label=OLD MOUNTAINEERS CAFE
+Label=??OLD MOUNTAINEERS CAFE
 StreetDesc=Mt Cook Ntl Park/ cafe
-Data0=(-43.73551,170.10372)
+Phone=+6434351890
+zip=10.00am until late
+Data0=(-43.73681,170.09711)
 [END]
 
 ;1149114
@@ -143709,7 +143689,7 @@ Label=MONTEITH'S BREWERY BAR MERRIN ST
 StreetDesc=Shop 4/5 Avonhead Mall, 210 Withells Rd, Avonhead, Chc/ Bar, restaurant
 Phone=+6433588184
 zip=Sun-Thu 9.30am-11pm, Fri-Sat 9.30am-12pm
-Data0=(-43.51092,172.55683)
+Data0=(-43.51058,172.55734)
 [END]
 
 ;1153915
@@ -149396,14 +149376,6 @@ zip=0800 279 088
 Data0=(-41.80569,172.32453)
 [END]
 
-;1158259
-[POI]
-Type=0x2b00
-Label=NOVOTEL QUEENSTOWN LAKESIDE
-StreetDesc=Cnr Earl St And Marine Parade, Queenstown/ Accommodation
-Data0=(-45.03332,168.66134)
-[END]
-
 ;1158265
 [POI]
 Type=0x2b00
@@ -153874,7 +153846,7 @@ Data0=(-44.01118,170.48846)
 Type=0x2b00
 Label=RAKAIA VILLAS AT TERRACE DOWNS
 StreetDesc=Coleridge Rd, Rakaia Gorge, Darfield RD2/ Rakaia Villas at Terrace Downs operate
-Phone=+32818713
+Phone=+6432818713
 zip=10:00am to 10:00pm
 Data0=(-43.50250,171.65116)
 [END]
@@ -155601,9 +155573,11 @@ Data0=(-41.67460,174.07322)
 
 ;1160708
 [POI]
-Type=0x2f
+Type=0x2c05
 Label=BABYSPACE
-StreetDesc=5 Chelsea Ave, Richmond, Nelson/ 
+StreetDesc=5 Chelsea Ave, Richmond, Nelson/ ChildCare & Education for Infants & Toddlers in
+Phone=+6435441106
+zip=Monday to Friday 8am to 5pm
 Data0=(-41.34824,173.17971)
 [END]
 
@@ -167968,7 +167942,8 @@ Data0=(-41.53461,173.94534)
 Type=0x2f
 Label=MARLBOROUGH FAMILY CHIROPRACTIC
 StreetDesc=23 Henry St, Blenheim/ Chiropractor
-Data0=(-41.51478,173.95317)
+Phone=+6435779800
+Data0=(-41.51482,173.95311)
 [END]
 
 ;1168106
@@ -171676,14 +171651,6 @@ Type=0x2f
 Label=TURNER OCC MED LTD
 StreetDesc=50 Main North Rd, Belfast, Chc/ 
 Data0=(-43.49448,172.60988)
-[END]
-
-;1170086
-[POI]
-Type=0x2f
-Label=TWIZEL PHYSIOTHERAPY
-StreetDesc=38 Tasman Rd, Twizel, Timaru/ Physiotherapist
-Data0=(-44.25605,170.09601)
 [END]
 
 ;1170094
@@ -188233,9 +188200,10 @@ Data0=(-45.02079,168.66270)
 [POI]
 Type=0x2f
 Label=AFFORDABLE MOTORHOMES
-StreetDesc=159 Waterloo Rd, Chc/ Motor Home, Camper Van
-Phone=+33440519
-Data0=(-43.53865,172.52954)
+StreetDesc=480 Johns Rd, Harewood, Chc/ Motor Home, Camper Van
+Phone=+33603587
+zip=Week Days: 8.30am till 5pm, Weekends by 
+Data0=(-43.46189,172.58529)
 [END]
 
 ;1177506
@@ -204978,10 +204946,11 @@ Data0=(-44.93865,168.83256)
 ;1193482
 [POI]
 Type=0x2d02
-Label=CASSELS & SONS BREWERY
-StreetDesc=3 Garlands Rd, Woolston, Chc/ (www.beertourist.co.nz 2010: Meals, Off Licence)
+Label=THE BREWERY
+StreetDesc=3 Garlands Rd, Woolston, Chc/ Cassels & Sons. Bar, brewery, deli, cafe, wood fir
 Phone=+6433891894
-Data0=(-43.55681,172.68026)
+zip=7am-late
+Data0=(-43.55678,172.68032)
 [END]
 
 ;1193483
@@ -206803,5 +206772,83 @@ StreetDesc=62 Manchester St, Chc/ Restaurant, Korean & Japanese cuisine
 Phone=+6433652211
 zip=7 Days lunch 11.30am-3pm, dinner 5pm-Lat
 Data0=(-43.53695,172.63983)
+[END]
+
+;1196135
+[POI]
+Type=0x2a
+Label=STELLA'S GREEK RESTAURANT
+StreetDesc=37 Ribble St, Ribble Way, Oamaru/ Greek restaurant
+Phone=+6434346611
+zip=Tue-Sat 5pm-late
+Data0=(-45.09589,170.97275)
+[END]
+
+;1196136
+[POI]
+Type=0x2f
+Label=KAMAHI ELECTRONICS LTD
+StreetDesc=6 Birch St Dud 9016 New Zealand/ Kamahi Electronics are designers and manufactur
+Phone=+6434811884
+Data0=(-45.88124,170.50626)
+[END]
+
+;1196139
+[POI]
+Type=0x2e
+Label=CYCLEWAYS
+StreetDesc=1 Garlands Rd, Woolston, Chc/ Road bikes, mountain bikes, service, parts & acces
+Phone=+6433840355
+zip=Mon-Fri 8am-6pm, Sat 9am-5pm, Sun 10am-4
+Data0=(-43.55645,172.68026)
+[END]
+
+;1196147
+[POI]
+Type=0x2e0b
+Label=?COMPUTING SOLUTIONS
+StreetDesc=144 Moore St Ashburton/ Computers
+Phone=+6433083400
+zip=08:00 17:00
+Data0=(-43.90697,171.74678)
+[END]
+
+;1196148
+[POI]
+Type=0x2a05
+Label=STONE OVEN BAKERY
+StreetDesc=105 Revell St, Hokitika/ Bakery
+Phone=+6437558412
+Data0=(-42.71678,170.96198)
+[END]
+
+;1196150
+[POI]
+Type=0x2a07
+Label=NANCY AVE FISH & CHIPS
+StreetDesc=53 Nancy Ave, Mairehau, Chc/ Takeaways
+Phone=+6433855489
+zip=7 days
+Data0=(-43.49800,172.63649)
+[END]
+
+;1196158
+[POI]
+Type=0x2F07
+Label=SILVESTER V8 PERFORMANCE
+StreetDesc=144 Moorhouse Ave, Chc/ American V8 performance engine parts and racing equipmen
+Phone=+6433799873
+zip=8.30am to 5.30pm Monday - Friday and 10.
+Data0=(-43.54022,172.62762)
+[END]
+
+;1196162
+[POI]
+Type=0x2a
+Label=ELEMENTS
+StreetDesc=Novotel, Corner of Earl St and Marine Parade, Queenstown/ Restaurant, bar, cafe
+Phone=+6434427750
+zip=7 days 6am-10pm
+Data0=(-45.03368,168.66212)
 [END]
 

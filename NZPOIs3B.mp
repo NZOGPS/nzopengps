@@ -9105,7 +9105,7 @@ Type=0x2e
 Label=SUPER LIQUOR HOKITIKA
 StreetDesc=111 Revell St, Westland/ liquor, beer, wine, spirits
 Phone=+6437558344
-Data0=(-42.71660,170.96216)
+Data0=(-42.71626,170.96268)
 [END]
 
 ;1031591
@@ -31016,9 +31016,9 @@ Data0=(-43.32372,172.66548)
 [POI]
 Type=0x2a07
 Label=SEABREEZE CITY TAKEAWAYS
-StreetDesc=51 Vanguard St, Nelson/ takeaways
+StreetDesc=51 Vanguard St, Nelson/ takeaways, fish & chips
 Phone=+6435466299
-Data0=(-41.27461,173.27866)
+Data0=(-41.27472,173.27865)
 [END]
 
 ;1094397
@@ -31355,10 +31355,10 @@ Data0=(-42.44975,171.20762)
 ;1094556
 [POI]
 Type=0x2f
-Label=SAUNDERS & CO
-StreetDesc=L 3 Ernst & Young Blg, 227 Cambridge Terrace, Chc/ Barristers & solicitors
+Label=SAUNDERS & CO LAWYERS
+StreetDesc=162 Kendal Ave, Burnside, Chc/ Barristers & solicitors
 Phone=+6433797690
-Data0=(-43.52753,172.63836)
+Data0=(-43.50037,172.56470)
 [END]
 
 ;1094561
@@ -55618,9 +55618,9 @@ Data0=(-46.40846,168.35164)
 [POI]
 Type=0x2f
 Label=ONLINE DISTRIBUTION SERVICES
-StreetDesc=9 Iversen Terrace, Chc/ 
-Phone=+6433652800
-Data0=(-43.54165,172.64917)
+StreetDesc=306 Port Hills Rd, Chc/ Supply chain management and distribution logistics
+Phone=+6433317700
+Data0=(-43.56815,172.68279)
 [END]
 
 ;1110913
@@ -75814,15 +75814,6 @@ Phone=+6435464084
 Data0=(-41.28250,173.24847)
 [END]
 
-;1119663
-[POI]
-Type=0x2a
-Label=SEABREEZE CITY TAKEAWAYS
-StreetDesc=51 Vanguard St,   Nelson/ 
-Phone=+6435466299
-Data0=(-41.27461,173.27866)
-[END]
-
 ;1119664
 [POI]
 Type=0x2a
@@ -85386,11 +85377,11 @@ Data0=(-43.53544,172.63347)
 ;1122678
 [POI]
 Type=0x2e
-Label=?OFFICEMAX
+Label=OFFICEMAX NELSON
 StreetDesc=Cnr Rutherford St & Selwyn Place, Nelson/ Office Supplies & Furniture, Packaging
 Phone=+6435483616
-zip=Monday to Friday 8.00am - 5.00pm, Saturd
-Data0=(-41.27524,173.28381)
+zip=Mon-Fri 8am-5pm, Sat 9.30am-1.30pm
+Data0=(-41.27536,173.28123)
 [END]
 
 ;1122680
@@ -89670,10 +89661,11 @@ Data0=(-45.77757,170.73256)
 
 ;1128669
 [POI]
-Type=0x2f
-Label=NECTAR
-StreetDesc=286 Princes St, Dud/ 
-Data0=(-45.87836,170.50096)
+Type=0x2a0e
+Label=NECTAR ESPRESSO BAR & CAFE
+StreetDesc=286 Princes St, Dud/ Licensed cafe, functions, catering
+Phone=+6434778976
+Data0=(-45.87841,170.50104)
 [END]
 
 ;1128670
@@ -98860,14 +98852,6 @@ StreetDesc=1 Puriri St, Chc/ Lotto
 Data0=(-43.53022,172.59159)
 [END]
 
-;1131664
-[POI]
-Type=0x2a05
-Label=NATTY'S BAKERY
-StreetDesc=390 Ferry Rd, Chc/ bakery
-Data0=(-43.54347,172.66708)
-[END]
-
 ;1131665
 [POI]
 Type=0x2f
@@ -99537,8 +99521,8 @@ Data0=(-43.53850,172.64212)
 [POI]
 Type=0x2b04
 Label=PEPPERS CLEARWATER RESORT
-StreetDesc=38 Clearwater Ave, Coutts Island, Chc 8051/ Accommodation, golf, property. The L
-Phone=+6433601000
+StreetDesc=Clearwater Ave, Northwood, Chc/ Resort accommodation. The Lakes restaurant and b
+Phone=+6433601009
 Data0=(-43.44857,172.59688)
 [END]
 
@@ -113416,7 +113400,8 @@ Data0=(-44.39633,171.25347)
 [POI]
 Type=0x2f
 Label=SOUTH CANTERBURY AERO CLUB
-StreetDesc=Falvey Rd, Timaru Airport/ 
+StreetDesc=Falvey Rd, Timaru Airport/ Flight training
+Phone=+6436882355
 Data0=(-44.30751,171.22544)
 [END]
 
@@ -134620,10 +134605,11 @@ Data0=(-46.47598,169.69397)
 
 ;1147241
 [POI]
-Type=0x2f
+Type=0x2b01
 Label=ROSEBANK LODGE
-StreetDesc=265-267 Clyde St, Balclutha/ 
-Data0=(-46.24559,169.71420)
+StreetDesc=265 Clyde St, Balclutha/ Motel accommodation
+Phone=+6434190021
+Data0=(-46.24550,169.71460)
 [END]
 
 ;1147242
@@ -138313,10 +138299,11 @@ Data0=(-45.18679,169.31606)
 
 ;1151023
 [POI]
-Type=0x2b00
+Type=0x2b03
 Label=THE CHALETS HOLIDAY PARK
-StreetDesc=102 Barry Ave, Cromwell/ Holiday park accommodation, camping ground
-Data0=(-45.04808,169.19509)
+StreetDesc=102 Barry Ave, Cromwell/ Holiday park accommodation, camping ground, backpackers
+Phone=+6434451260
+Data0=(-45.04840,169.19484)
 [END]
 
 ;1151024
@@ -138954,15 +138941,6 @@ Label=CANTERBURY PHYSIOTHERAPY
 StreetDesc=Central City Physiotherapy, 1st Fl, AXA Arcade, 248 High St, Chc/ Physiotherapis
 Phone=+6433777885
 Data0=(-43.53245,172.63747)
-[END]
-
-;1151330
-[POI]
-Type=0x2f
-Label=CASHMERE PHYSIOTHERAPY
-StreetDesc=4 Colombo St, Chc/ Physiotherapist, physio
-Phone=+6433321351
-Data0=(-43.56720,172.63544)
 [END]
 
 ;1151331
@@ -149321,7 +149299,8 @@ Data0=(-45.02765,168.66404)
 [POI]
 Type=0x2b00
 Label=HUNTLEY HOUSE
-StreetDesc=67 Yaldhurst Rd, Upper Riccarton, Chc/ Accommodation
+StreetDesc=67 Yaldhurst Rd, Upper Riccarton, Chc/ Boutique luxuty hotel accommodation
+Phone=+6433488435
 Data0=(-43.53145,172.56485)
 [END]
 
@@ -153360,14 +153339,6 @@ StreetDesc=38 Riccarton Rd, Riccarton, Chc/ Accommodation
 Data0=(-43.52902,172.60755)
 [END]
 
-;1159771
-[POI]
-Type=0x2b00
-Label=ROSEBANK LODGE HOTEL
-StreetDesc=265 Clyde St, Balclutha/ Accommodation
-Data0=(-46.24470,169.71566)
-[END]
-
 ;1159772
 [POI]
 Type=0x2b02
@@ -153623,9 +153594,10 @@ Data0=(-41.48304,173.86467)
 
 ;1159839
 [POI]
-Type=0x2b00
+Type=0x2b02
 Label=STONELEIGH LODGE
-StreetDesc=55 Threlkelds Rd, Ohoka, Chc/ Accommodation
+StreetDesc=55 Threlkelds Rd, Ohoka, Chc/ Luxury Bed and Breakfast. B&B Lodge Accommodation
+Phone=+6433133832
 Data0=(-43.36516,172.60007)
 [END]
 
@@ -161222,9 +161194,9 @@ Data0=(-41.29030,173.24176)
 ;1164688
 [POI]
 Type=0x2f
-Label=ARATUNA FREIGHTERS LTD (MAINFREIGHT)
-StreetDesc=Arney St, GREYMOUTH/ Freight, Logistics, Transport
-Phone=+37684039
+Label=ARATUNA FREIGHTERS LTD
+StreetDesc=Arney St, Greymouth/ Freight, Logistics, Transport
+Phone=+6437684038
 Data0=(-42.44833,171.20437)
 [END]
 
@@ -161699,8 +161671,8 @@ Data0=(-45.04961,169.18556)
 Type=0x2f
 Label=VINPRO AMBERLEY
 StreetDesc=22 Markham St, Amberley/ Mobile Wine Bottling & Storage
-Phone=+33147277
-Data0=(-43.15350,172.72674)
+Phone=+6433147277
+Data0=(-43.15350,172.72676)
 [END]
 
 ;1165224
@@ -163760,9 +163732,10 @@ Data0=(-43.56707,172.63510)
 ;1166015
 [POI]
 Type=0x2f
-Label=CASHMERE HEALTH & PHYSIO
-StreetDesc=6 Colombo St, Chc/ Physiotherapist
-Data0=(-43.56716,172.63549)
+Label=CASHMERE HEALTH
+StreetDesc=4 Colombo St, Cashmere, Chc/ General practice
+Phone=+6433321351
+Data0=(-43.56718,172.63547)
 [END]
 
 ;1166017
@@ -165602,9 +165575,10 @@ Data0=(-43.53119,172.58348)
 ;1166854
 [POI]
 Type=0x2f
-Label=EAR HEALTH NELSON MARLBOROUGH LTD
-StreetDesc=21B Howick Rd, Blenheim/ 
-Data0=(-41.52510,173.94953)
+Label=EAR HEALTH BLENHEIM
+StreetDesc=Physiotherapy Ctr, 11 Francis St, Blenheim/ Professional ear care
+Phone=+6435788310
+Data0=(-41.51695,173.95837)
 [END]
 
 ;1166855
@@ -166359,7 +166333,8 @@ Data0=(-43.48921,172.59042)
 [POI]
 Type=0x2f
 Label=GYM COMPANY MEDICAL LTD
-StreetDesc=54 Cass St, Ashburton/ 
+StreetDesc=54 Cass St, Ashburton/ General practice
+Phone=+6433089489
 Data0=(-43.90649,171.74907)
 [END]
 
@@ -193308,16 +193283,6 @@ Phone=+6433195748
 Data0=(-42.41087,173.68723)
 [END]
 
-;1180528
-[POI]
-Type=0x2f
-Label=BETTER LAWYERS LTD (NICK ROUT & MIRANDA BLACK)
-StreetDesc=17 Blighs Rd, Strowan, Chc 8052/ Family, Criminal, Conveyancing and Small Busine
-Phone=+6433654900
-zip=9:00am to 5:00 pm
-Data0=(-43.50533,172.59947)
-[END]
-
 ;1180530
 [POI]
 Type=0x6404
@@ -202102,9 +202067,9 @@ Data0=(-43.48243,172.55056)
 [POI]
 Type=0x2f03
 Label=BODYLINE COLLISION CENTRE
-StreetDesc=6 Wharf St, Dud, NZ/ Bodyline Collision was formed in 2005 by Owner and Manager 
+StreetDesc=6 Wharf St, Dud/ One stop shop for all your auto body and collision repairs
 Phone=+6434773667
-zip=Mon to Fri 8am - 5pm . Sat 8am to 12pm
+zip=Mon-Fri 8am-5pm, Sat 8am-12pm
 Data0=(-45.88348,170.50537)
 [END]
 
@@ -206850,5 +206815,213 @@ StreetDesc=Novotel, Corner of Earl St and Marine Parade, Queenstown/ Restaurant,
 Phone=+6434427750
 zip=7 days 6am-10pm
 Data0=(-45.03368,168.66212)
+[END]
+
+;1196184
+[POI]
+Type=0x2d05
+Label=CLEARWATER GOLF CLUB
+StreetDesc=40a Clearwater Ave, Northwood, Chc/ Championship golf course
+Phone=+6433602146
+Data0=(-43.44796,172.59618)
+[END]
+
+;1196201
+[POI]
+Type=0x2a
+Label=THAI SIAM RESTAURANT
+StreetDesc=Beach St, Queenstown/ Thai Restaurant
+Phone=+6434424815
+Data0=(-45.03195,168.66015)
+[END]
+
+;1196230
+[POI]
+Type=0x2a
+Label=NINS BIN
+StreetDesc=Rakautara, Kaikoura/ Roadside stall. Fresh crayfish.
+Phone=+6433196454
+Data0=(-42.26310,173.80877)
+[END]
+
+;1196238
+[POI]
+Type=0x2f
+Label=?MORTON DENTISTRY
+StreetDesc=Clyde Rd, Bryndwr, Chc/ Morton Dentistry is a Clyde Road, Christchurch dental cl
+Phone=+6433665351
+Data0=(-43.50662,172.58735)
+[END]
+
+;1196239
+[POI]
+Type=0x2f
+Label=JERICHO WALKER SHEET METAL ENGINEERING
+StreetDesc=440 Selwyn St, Addington, Christchuch/ Sheet Metal Engineering, Manufacture, Fab
+Phone=+6433650226
+zip=8am - 4pm Monday - Friday
+Data0=(-43.54178,172.62225)
+[END]
+
+;1196260
+[POI]
+Type=0x2f
+Label=SAUNDERS & CO LAWYERS
+StreetDesc=1063 Ferry Rd, Ferrymead, Chc/ Barristers & solicitors
+Phone=+6439402435
+Data0=(-43.55755,172.70519)
+[END]
+
+;1196261
+[POI]
+Type=0x2f
+Label=SAUNDERS & CO LAWYERS
+StreetDesc=5 Goulding Ave, Hornby, Chc/ Barristers & solicitors
+Phone=+6433495111
+Data0=(-43.54421,172.52295)
+[END]
+
+;1196262
+[POI]
+Type=0x2f
+Label=WAXEYE WRITING
+StreetDesc=Waxeye Writing 63 Aotea St Tainui Dud 9013 New Zealand/ Comprehensive copywritin
+Phone=+6434545319
+Data0=(-45.90017,170.52754)
+[END]
+
+;1196268
+[POI]
+Type=0x2e
+Label=SUPER LIQUOR AMBERLEY
+StreetDesc=20 Markham St, Amberley, North Canterbury/ Liquor, beer, wine, spirits
+Phone=+6433149030
+Data0=(-43.15343,172.72728)
+[END]
+
+;1196269
+[POI]
+Type=0x2e
+Label=SUPER LIQUOR BLENHEIM ROAD
+StreetDesc=280 Blenheim Rd, Upper Riccarton, Chc 8041/ Liquor, beer, wine, spirits
+Phone=+6433431523
+Data0=(-43.53796,172.58621)
+[END]
+
+;1196271
+[POI]
+Type=0x2e
+Label=SUPER LIQUOR BALCLUTHA
+StreetDesc=265 Clyde St, Balclutha 9230/ Liquor, beer, wine, spirits
+Phone=+6434190021
+Data0=(-46.24585,169.71425)
+[END]
+
+;1196272
+[POI]
+Type=0x2a
+Label=PICASSO'S CAFE & BAR
+StreetDesc=265 Clyde St, Balclutha/ Restaurant
+Phone=+6434190021
+Data0=(-46.24536,169.71487)
+[END]
+
+;1196273
+[POI]
+Type=0x2e
+Label=SUPER LIQUOR AVONHEAD
+StreetDesc=120 Withells Rd, Avonhead, Chc/ Liquor, beer, wine, spirits
+Phone=+6433588960
+Data0=(-43.51713,172.55282)
+[END]
+
+;1196278
+[POI]
+Type=0x2e
+Label=SUPER LIQUOR WANAKA
+StreetDesc=52 Reece Cres, Wanaka 9305/ Liquor, beer, wine, spirits
+Phone=+6434431120
+Data0=(-44.69124,169.14296)
+[END]
+
+;1196279
+[POI]
+Type=0x2e
+Label=SUPER LIQUOR KAIKORAI VALLEY
+StreetDesc=185 Kaikorai Valley Rd, Dud/ Liquor, beer, wine, spirits
+Phone=+6434535575
+Data0=(-45.87007,170.47433)
+[END]
+
+;1196280
+[POI]
+Type=0x2e
+Label=SUPER LIQUOR DUNEDIN
+StreetDesc=5 Malcolm St, Dud North 9016/ Liquor, beer, wine, spirits
+Phone=+6434790373
+Data0=(-45.86800,170.51004)
+[END]
+
+;1196281
+[POI]
+Type=0x2e
+Label=SUPER LIQUOR EVANS STREET
+StreetDesc=99/111 Evans St, Waimataitai, Timaru/ Liquor, beer, wine, spirits
+Phone=+6436866052
+Data0=(-44.38176,171.23869)
+[END]
+
+;1196282
+[POI]
+Type=0x2e
+Label=SUPER LIQUOR GORE
+StreetDesc=225 Main South Rd, Gore 9710/ Liquor, beer, wine, spirits
+Phone=+6432085388
+Data0=(-46.10724,168.93996)
+[END]
+
+;1196283
+[POI]
+Type=0x2e
+Label=SUPER LIQUOR LINCOLN
+StreetDesc=5C Gerald St, Lincoln/ Liquor, beer, wine, spirits
+Phone=+6433257360
+Data0=(-43.64038,172.48448)
+[END]
+
+;1196284
+[POI]
+Type=0x2e
+Label=SUPER LIQUOR WOOLSTON
+StreetDesc=604 Ferry Rd, Woolston, Chc/ Liquor, beer, wine, spirits
+Phone=+6433764500
+Data0=(-43.54892,172.68205)
+[END]
+
+;1196288
+[POI]
+Type=0x2e
+Label=SUPER LIQUOR TAHUNANUI
+StreetDesc=2 Muritai St, Tahunanui, Nelson 7011/ Liquor, beer, wine, spirits
+Phone=+6435486623
+Data0=(-41.28210,173.24879)
+[END]
+
+;1196290
+[POI]
+Type=0x2e
+Label=SUPER LIQUOR EDGEWARE
+StreetDesc=1067A Colombo St, St Albans, Chc 8014/ Liquor, beer, wine, spirits
+Phone=+6433794564
+Data0=(-43.51361,172.63640)
+[END]
+
+;1196291
+[POI]
+Type=0x2e
+Label=SUPER LIQUOR FERRYMEAD
+StreetDesc=9 Humphreys Dr, Ferrymead, Chc/ Liquor, beer, wine, spirits
+Phone=+6433764097
+Data0=(-43.55709,172.70508)
 [END]
 

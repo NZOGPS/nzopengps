@@ -299,3 +299,4 @@ NO SUFI			ARDEN ST		New Plymouth (Taranaki, NZ)
 45893	OTIKOKI RD	Whanganui National Park(Manawatu-Wanganui,NZ)	2013/01/13 18:43	-39.322060,174.927850
 45745	WHAKAIHUWAKA RD	Whanganui National Park(Manawatu-Wanganui,NZ)	2013/01/13 18:46	-39.324770,174.819730
 45603	KOTEKIEKIE RD	Whanganui National Park(Manawatu-Wanganui,NZ)	2013/01/13 18:47	-39.377490,174.857660
+26940	POHONUITANE RD	Papanui Junction(Manawatu-Wanganui,NZ)	2013/02/04 07:05	-39.708790,175.462870

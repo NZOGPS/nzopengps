@@ -10676,11 +10676,11 @@ Data0=(-45.09530,170.97249)
 
 ;1037016
 [POI]
-Type=0x2a0e
-Label=PARADISO CINEMA 1
-StreetDesc=1 Ardmore St, Wanaka/ cinema, cafe, bar
+Type=0x2d03
+Label=CINEMA PARADISO
+StreetDesc=72 Browston St, Wanaka/ Movie theatre. Cinema, cafe, bar
 Phone=+6434431505
-Data0=(-44.69492,169.14149)
+Data0=(-44.69724,169.13566)
 [END]
 
 ;1037037
@@ -73060,10 +73060,10 @@ Data0=(-44.39186,171.24736)
 [POI]
 Type=0x6404
 Label=CHURCH OF CHRIST DUNEDIN
-StreetDesc=685 George St, Dud/ A place where Christians meet; FriendSpeak office; 412 Stude
+StreetDesc=3 Prince Albert Rd, Dud 9012/ A place where Christians meet; FriendSpeak office;
 Phone=+6434778386
 zip=Sun 10am, 11am, 6pm - Wed 7pm, Fri 7pm (
-Data0=(-45.86270,170.50982)
+Data0=(-45.89954,170.50387)
 [END]
 
 ;1118380
@@ -120549,7 +120549,7 @@ Type=0x2a
 Label=SAINTS CAFE, RESTAURANT & BAR
 StreetDesc=6 Jacks Pass Rd, Hanmer Springs/ Relax with a drink or famous cocktail, shoot so
 Phone=+6433155262
-zip=10am till 10pm Daily For Your Leisure
+zip=11am till 10pm Weekdays & 10am till 10pm
 Data0=(-42.52161,172.82868)
 [END]
 
@@ -206839,9 +206839,9 @@ Data0=(-45.03195,168.66015)
 [POI]
 Type=0x2a
 Label=NINS BIN
-StreetDesc=Rakautara, Kaikoura/ Roadside stall. Fresh crayfish.
+StreetDesc=SH1, Rakautara, Kaikoura Coast/ Roadside stall. Fresh crayfish.
 Phone=+6433196454
-Data0=(-42.26310,173.80877)
+Data0=(-42.26448,173.80752)
 [END]
 
 ;1196238
@@ -207023,5 +207023,31 @@ Label=SUPER LIQUOR FERRYMEAD
 StreetDesc=9 Humphreys Dr, Ferrymead, Chc/ Liquor, beer, wine, spirits
 Phone=+6433764097
 Data0=(-43.55709,172.70508)
+[END]
+
+;1196319
+[POI]
+Type=0x2b00
+Label=THE MINERS COTTAGE
+StreetDesc=Puponga/ Environmentally friendly, bach, cottage, eco friendly, romantic, Cape F
+Data0=(-40.52581,172.73275)
+[END]
+
+;1196323
+[POI]
+Type=0x2e07
+Label=TIDDYWINKLE TEXTILES
+StreetDesc=121 King St, Rangiora/ Tiddywinkle Textiles specialises in hand-made custom baby
+Phone=+6433132169
+Data0=(-43.30877,172.59126)
+[END]
+
+;1196327
+[POI]
+Type=0x2a05
+Label=GROCERY KING
+StreetDesc=366 King Edward St Dud 9012 New Zealand/ Supermarket in Dunedin with all groceri
+Phone=+6434551679
+Data0=(-45.89817,170.50270)
 [END]
 

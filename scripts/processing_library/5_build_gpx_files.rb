@@ -121,6 +121,8 @@ def pre_processing()
     
     print "#{gpsbabel_exec_command}\nCompiling...\n"
     system(gpsbabel_exec_command)
+    print "Finish convert to gdb = #{Time.now}\n"
+    @reporting_file.print "Finish convert to gdb = #{Time.now}\n"
   end
   
   exit

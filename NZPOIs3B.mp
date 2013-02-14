@@ -31592,8 +31592,8 @@ Data0=(-43.54264,172.59578)
 [POI]
 Type=0x2f
 Label=DOWNIE STEWART LAWYERS DUNEDIN
-StreetDesc=8/265 Princes St Dud 9016/ relationship-property-lawyers-dunedin
-Phone=+6434772262
+StreetDesc=8/265 Princes St Dud 9016/ If you are looking for Lawyers in Dunedin, consider D
+Phone=+6434772263
 zip=8:30 am - 5:00 pm
 Data0=(-45.87804,170.50178)
 [END]
@@ -41796,10 +41796,10 @@ Data0=(-43.49148,172.56306)
 ;1102681
 [POI]
 Type=0x2f
-Label=C & R EQUIPMENT LTD
-StreetDesc=80 Francella St, Bromley, Chc/ 
-Phone=+6433843154
-Data0=(-43.53448,172.69970)
+Label=?C & R EQUIPMENT LTD
+StreetDesc=200 Maces Rd, Bromley, Chc/ 
+Phone=+6433844360
+Data0=(-43.53315,172.69548)
 [END]
 
 ;1102686
@@ -58431,16 +58431,6 @@ zip=Mon-Fri 0900-1800
 Data0=(-44.69532,169.13491)
 [END]
 
-;1112621
-[POI]
-Type=0x2f
-Label=ROBERTS ENGINEERING LTD
-StreetDesc=Unit 2, 50 Wickham St, Chc/ 
-Phone=+6433844360
-zip=Mon-Fri 0830-1700
-Data0=(-43.53742,172.69832)
-[END]
-
 ;1112624
 [POI]
 Type=0x2f
@@ -67685,9 +67675,9 @@ Data0=(-43.49581,171.26135)
 ;1116917
 [POI]
 Type=0x6402
-Label=?DOUBTFUL HUT
+Label=DOUBTFUL HUT
 StreetDesc=Lake Sumner Conservation Park, Waimakariri - South Island > Canterbury > North C
-Data0=(-42.53160,172.28420)
+Data0=(-42.53122,172.28296)
 [END]
 
 ;1116918
@@ -69229,9 +69219,9 @@ Data0=(-45.77930,167.94054)
 ;1117162
 [POI]
 Type=0x6402
-Label=?LOWER WINDLEY HUT
+Label=LOWER WINDLEY HUT
 StreetDesc=Eyre Mountains Conservation Park, Murihiku - South Island > Southland > Southlan
-Data0=(-45.50689,168.19603)
+Data0=(-45.50700,168.19586)
 [END]
 
 ;1117163
@@ -69621,9 +69611,9 @@ Data0=(-41.54824,172.17848)
 ;1117253
 [POI]
 Type=0x6402
-Label=?MOLE HUT
+Label=MOLE HUT
 StreetDesc=Tutaki Conservation Area - South Island > Nelson/Tasman > Nelson Lakes/ DOC Back
-Data0=(-41.96164,172.57173)
+Data0=(-41.96160,172.57174)
 [END]
 
 ;1117254
@@ -69693,9 +69683,9 @@ Data0=(-41.19777,172.71560)
 ;1117264
 [POI]
 Type=0x6402
-Label=?MT BEE BUNKROOMS
+Label=MT BEE BUNKROOMS
 StreetDesc=Eyre Mountains Conservation Park, Murihiku - South Island > Southland > Southlan
-Data0=(-45.52484,168.37277)
+Data0=(-45.52513,168.37222)
 [END]
 
 ;1117265
@@ -69965,9 +69955,9 @@ Data0=(-43.60947,170.30690)
 ;1117317
 [POI]
 Type=0x6402
-Label=?ORETI HUT
+Label=ORETI HUT
 StreetDesc=Eyre Mountains Conservation Park, Murihiku - South Island > Fiordland > Fiordlan
-Data0=(-45.48158,168.12669)
+Data0=(-45.48171,168.12671)
 [END]
 
 ;1117319
@@ -69997,9 +69987,9 @@ Data0=(-43.70217,172.69257)
 ;1117331
 [POI]
 Type=0x6402
-Label=?PALMER BIVVY (BIVOUAC)
+Label=PALMER BIVVY (BIVOUAC)
 StreetDesc=Clarence Conservation Area - South Island > Marlborough > South Marlborough/ DOC
-Data0=(-42.33617,173.25651)
+Data0=(-42.33618,173.25658)
 [END]
 
 ;1117335
@@ -70917,9 +70907,9 @@ Data0=(-42.65707,172.15554)
 ;1117513
 [POI]
 Type=0x6402
-Label=?TIRAUMEA HUT
+Label=TIRAUMEA HUT
 StreetDesc=Tutaki Conservation Area - South Island > Nelson/Tasman > Nelson Lakes/ DOC Back
-Data0=(-41.90797,172.58200)
+Data0=(-41.90796,172.58191)
 [END]
 
 ;1117514
@@ -87271,9 +87261,9 @@ Data0=(-45.04064,168.69375)
 [POI]
 Type=0x2a0a
 Label=HELL PIZZA DUNEDIN SOUTH
-StreetDesc=17 Hillside Rd, Dud/ Gourmet pizza restaurant, takeaways, deliveries
+StreetDesc=272 Andersons Bay Rd, South Dud/ Gourmet pizza restaurant, takeaways, deliveries
 Phone=+6434558666
-Data0=(-45.89168,170.50250)
+Data0=(-45.88980,170.50189)
 [END]
 
 ;1128355
@@ -104909,10 +104899,10 @@ Data0=(-45.01054,168.75438)
 [POI]
 Type=0x2f
 Label=G.J. GARDNER HOMES OTAGO
-StreetDesc=19A Portsmouth Dr, Dud/ Builders
+StreetDesc=272 Andersons Bay Rd, South Dud/ Builders
 Phone=+6434701122
-zip=Mon-Fri 0830-1700
-Data0=(-45.88646,170.50626)
+zip=Monday to Friday 8.30am-5pm
+Data0=(-45.88987,170.50191)
 [END]
 
 ;1133601
@@ -144715,10 +144705,10 @@ Data0=(-46.40194,168.34689)
 [POI]
 Type=0x2F07
 Label=MARK LAUGHTON MOTORS
-StreetDesc=580 Andersons Bay Rd, Dud/ Mark Laughton Motors Ltd (MLM) Dunedin Otago We have 
+StreetDesc=61 Timaru St, South Dud/ New & used cars Mazda, Hyundai, Toyota, Subaru, Mercede
 Phone=+6434555590
 zip=Mon - Sun 8am to 5.30pm
-Data0=(-45.89010,170.50213)
+Data0=(-45.89634,170.51008)
 [END]
 
 ;1154909
@@ -182097,10 +182087,11 @@ Data0=(-46.36067,168.34568)
 ;1173852
 [POI]
 Type=0x2e08
-Label=TILE WAREHOUSE DUNEDIN
-StreetDesc=366 King Edward St, Dud/ Surface specialists. Floor & Wall Tiles
+Label=SOUTHTILE OTAGO
+StreetDesc=7 Turakina Rd, South Dud/ Surface specialists. Insulation, Bricks, Floor & Wall 
 Phone=+6434563294
-Data0=(-45.89826,170.50275)
+zip=Monday - Thursday 8:00am - 5:00pm Friday
+Data0=(-45.89240,170.50662)
 [END]
 
 ;1173853
@@ -182703,9 +182694,9 @@ Data0=(-42.21171,173.87114)
 [POI]
 Type=0x2e07
 Label=THE FOOTWEAR OUTLET
-StreetDesc=55, Ranfurly St, Kaiapoi/ Men's and Women's Shoes.
+StreetDesc=55 Ranfurly St, Kaiapoi/ Men's and Women's Shoes
 Phone=+6433270574
-zip=Mon - Fri 9am - 5pm, Sat 10am - 2pm
+zip=Mon-Fri 9am-5pm, Sat 10am-3pm
 Data0=(-43.37382,172.65663)
 [END]
 
@@ -205393,15 +205384,6 @@ Phone=+6439635777
 Data0=(-43.53626,172.63282)
 [END]
 
-;1195157
-[POI]
-Type=0x2f
-Label=?IT ITCH
-StreetDesc=Chc/ web, search engine optimisation, seo, web hosting, domain names, SSL, web d
-Phone=0800002901
-Data0=(-43.53205,172.63622)
-[END]
-
 ;1195164
 [POI]
 Type=0x2a0e
@@ -206508,7 +206490,7 @@ Data0=(-45.03133,168.65997)
 
 ;1195833
 [POI]
-Type=0x2d09
+Type=0x2d00
 Label=GRAHAM CONDON RECREATION AND SPORTS CENTRE
 StreetDesc=3 Sisson Dr, Chc, 8154/ Leisure, Swimming Pool, Recreation, Fitness
 Phone=+6439416888
@@ -206617,16 +206599,18 @@ Data0=(-46.10517,168.94304)
 Type=0x2a0e
 Label=THE NOSE CAFE
 StreetDesc=Highlands Motorsport Park, 1 Sandflat Rd, Cromwell/ Cafe / Restaurant and Wine T
+Phone=+6434452277
+zip=9 am to 5 pm
 Data0=(-45.05775,169.16461)
 [END]
 
 ;1195989
 [POI]
 Type=0x2c08
-Label=?HIGHLANDS MOTORSPORT PARK
+Label=HIGHLANDS MOTORSPORT PARK
 StreetDesc=Corner SH6 & Sandflat Rd, Cromwell/ 
 Phone=+6434454052
-Data0=(-45.05548,169.16815)
+Data0=(-45.05609,169.16458)
 [END]
 
 ;1195994
@@ -206636,15 +206620,6 @@ Label=THE GARAGE AUDIO
 StreetDesc=38 Redruth Ave, Spreydon, Chc/ The Garage Audio is a recording and audio post pr
 Phone=+6421777439
 Data0=(-43.54973,172.62514)
-[END]
-
-;1195995
-[POI]
-Type=0x2c06
-Label=HIGHLANDS MOTORSPORT PARK
-StreetDesc=Corner SH 6 and Sandflat Rd, Cromwell, New Zealand/ cromwell motorsport park, na
-Phone=+6434454052
-Data0=(-45.05606,169.16456)
 [END]
 
 ;1195999
@@ -207044,10 +207019,48 @@ Data0=(-43.30877,172.59126)
 
 ;1196327
 [POI]
-Type=0x2a05
+Type=0x2e02
 Label=GROCERY KING
-StreetDesc=366 King Edward St Dud 9012 New Zealand/ Supermarket in Dunedin with all groceri
+StreetDesc=366 King Edward St, Dud 9012/ Supermarket in Dunedin with all groceries, fresh f
 Phone=+6434551679
-Data0=(-45.89817,170.50270)
+Data0=(-45.89820,170.50271)
+[END]
+
+;1196359
+[POI]
+Type=0x2e
+Label=THE HERBAL DISPENSARY
+StreetDesc=160 Hills Rd, Edgeware, Chc City/ Retail Health Store, Herbal Dispensary, Natura
+Phone=+6433859530
+zip=Monday to Friday 9.00 - 5.00, Saturday 1
+Data0=(-43.51064,172.65209)
+[END]
+
+;1196368
+[POI]
+Type=0x2e
+Label=?IRONHORSE HOBBIES
+StreetDesc=210a St Asaph St, Chc/ New Zealand's Model Railway & Slot Car Specialist
+Phone=+6433666117
+zip=Mon-Fri 9am-5pm, Sat 9:30am-3:30pm
+Data0=(-43.53653,172.63851)
+[END]
+
+;1196370
+[POI]
+Type=0x2e
+Label=THIRSTY LIQUOR ANDY BAY
+StreetDesc=272 Andersons Bay Rd, South Dud/ Liquor, beer, wine, spirits
+Phone=+6434554240
+Data0=(-45.88975,170.50183)
+[END]
+
+;1196371
+[POI]
+Type=0x2f
+Label=THE MAD BUTCHER - DUNEDIN
+StreetDesc=280 Andersons Bay Rd, South Dud/ butcher, fresh meat, steak, lamb, chicken
+Phone=+6434556042
+Data0=(-45.89041,170.50229)
 [END]
 

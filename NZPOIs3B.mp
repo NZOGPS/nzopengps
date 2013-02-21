@@ -21753,10 +21753,10 @@ Data0=(-41.17032,173.89521)
 ;1074900
 [POI]
 Type=0x2b00
-Label=?TE MAHOERANGI
-StreetDesc=Nydia Track, Nydia Bay, Marlborough Sounds/ Backpacker accommodation
+Label=ON THE TRACK LODGE
+StreetDesc=Nydia Track, Nydia Bay, Marlborough Sounds (BOAT or TRAMPING access ONLY)/ Backp
 Phone=+6435798411
-Data0=(-41.17562,173.77530)
+Data0=(-41.17339,173.77593)
 [END]
 
 ;1074907
@@ -30573,9 +30573,9 @@ Data0=(-45.25241,169.38797)
 [POI]
 Type=0x2a07
 Label=ASCOT CHINESE TAKEAWAYS
-StreetDesc=698A Tay St, Invercargill/ Chinese takeaways
+StreetDesc=698A Tay St, Invercargill/ Chinese takeaways, fish n chips
 Phone=+6432177261
-Data0=(-46.40603,168.39236)
+Data0=(-46.40606,168.39228)
 [END]
 
 ;1094204
@@ -52501,7 +52501,7 @@ Data0=(-44.25634,169.83051)
 ;1109112
 [POI]
 Type=0x2f
-Label=MARKHAMS CHRISTCHURCH LIMITED
+Label=MOORE STEPHENS MARKHAMS CHRISTCHURCH LIMITED
 StreetDesc=116 Marshland Rd, Shirley, Chc/ Chartered Accountants and Business Advisors
 Phone=+6433796710
 Data0=(-43.49920,172.66240)
@@ -64901,10 +64901,10 @@ Data0=(-43.53786,172.53973)
 
 ;1116276
 [POI]
-Type=0x2f
+Type=0x2b00
 Label=WWW.TAKEABREAK.CO.NZ LTD
-StreetDesc=88 Bishopdale Ave, Nelson/ 
-Phone=+6435488157
+StreetDesc=88 Bishopdale Ave, Nelson/ New Zealand Accommodation Guide
+Phone=+6435488365
 Data0=(-41.30115,173.26676)
 [END]
 
@@ -65504,9 +65504,9 @@ Data0=(-42.99399,171.79291)
 ;1116513
 [POI]
 Type=0x2b03
-Label=?AUSSIE BAY CAMPSITE (DOC)
-StreetDesc=Sounds Foreshore Reserve - South Island > Marlborough > Sounds Area/ DOC conserv
-Data0=(-41.27235,173.92875)
+Label=AUSSIE BAY CAMPSITE (DOC)
+StreetDesc=Sounds Foreshore Reserve, Queen Charlotte Dr, Marlborough Sounds/ DOC conservati
+Data0=(-41.27325,173.92934)
 [END]
 
 ;1116514
@@ -65936,9 +65936,10 @@ Data0=(-41.50111,173.51084)
 ;1116606
 [POI]
 Type=0x2b03
-Label=?MISTLETOE BAY CAMPING AREA (DOC)
+Label=MISTLETOE BAY TRUST ECO VILLIAGE & CAMPING GROUND
 StreetDesc=Mistletoe Bay Recreation Reserve, Marlborough Sounds/ Accommodation, camping
-Data0=(-41.22427,173.97221)
+Phone=+6435734048
+Data0=(-41.22306,173.97231)
 [END]
 
 ;1116608
@@ -66000,9 +66001,9 @@ Data0=(-41.19555,174.04983)
 ;1116619
 [POI]
 Type=0x2b03
-Label=?NYDIA CAMPSITE (DOC)
+Label=NYDIA CAMPSITE (DOC)
 StreetDesc=Tennyson Inlet Scenic Reserve - South Island > Marlborough > Sounds Area/ DOC co
-Data0=(-41.15006,173.78168)
+Data0=(-41.17289,173.77596)
 [END]
 
 ;1116623
@@ -66060,7 +66061,8 @@ Data0=(-43.89001,171.26617)
 Type=0x2b03
 Label=PELORUS BRIDGE CAMPGROUND (DOC)
 StreetDesc=Pelorus Bridge Scenic Reserve - South Island > Marlborough > Sounds Area/ DOC co
-Data0=(-41.29952,173.57165)
+Phone=+6435716019
+Data0=(-41.30137,173.56955)
 [END]
 
 ;1116633
@@ -78230,7 +78232,7 @@ Type=0x2e
 Label=ASCOT COLLECTABLES
 StreetDesc=704 Tay St, Invercargill, Southland/ Antiques, Antique Shop
 Phone=+6432174276
-Data0=(-46.40603,168.39236)
+Data0=(-46.40602,168.39240)
 [END]
 
 ;1120412
@@ -84873,10 +84875,10 @@ Data0=(-46.41174,168.34859)
 [POI]
 Type=0x2e
 Label=MARLBOROUGH HUNTING & FISHING
-StreetDesc=33 Scott St, Blenheim/ Fishing equipment, firearms, bait, outdoor gear
+StreetDesc=46 Main St Blenheim/ Fishing equipment, firearms, bait, outdoor gear
 Phone=+6435791600
-zip=Mon-Thu 0800-1730, Fri 0800-2100, Sat,09
-Data0=(-41.51533,173.95682)
+zip=Monday to Friday 9.00am - 5.30pm Saturda
+Data0=(-41.51340,173.96451)
 [END]
 
 ;1122440
@@ -92997,14 +92999,6 @@ StreetDesc=129 Manchester St, Chc/
 Data0=(-43.53510,172.63950)
 [END]
 
-;1130861
-[POI]
-Type=0x2a05
-Label=AKAROA BAKERY & CAFE
-StreetDesc=51 Beach Rd, Chc/ bakery, cafe
-Data0=(-43.48642,172.72056)
-[END]
-
 ;1130862
 [POI]
 Type=0x2f
@@ -94154,7 +94148,7 @@ Type=0x2a
 Label=CAFE KUDOS
 StreetDesc=235 Annex Rd, Hillmorton, Chc, Canterbury 8024/ Restaurant. Breakfast, lunch. Fo
 Phone=+6433381801
-zip=Mon to Fri 7am to 4pm. Saturday 8am to 4
+zip=Mon to Thu 7am to 4pm. Fri 7am to 6:30pm
 Data0=(-43.54320,172.58106)
 [END]
 
@@ -105907,9 +105901,9 @@ Data0=(-46.42240,168.38042)
 [POI]
 Type=0x2f
 Label=ASCOT SNIPPS
-StreetDesc=698-706 Tay St, Invercargill/ Hairdressers
+StreetDesc=702 Tay St, Invercargill/ Hairdressers
 Phone=+6432176645
-Data0=(-46.40603,168.39236)
+Data0=(-46.40603,168.39232)
 [END]
 
 ;1134406
@@ -150890,8 +150884,9 @@ Data0=(-45.03399,168.67634)
 [POI]
 Type=0x2b01
 Label=COMFORT INN MEDITERRANEAN MOTEL
-StreetDesc=239 Beach Rd, Kaikoura/ Accommodation
-Data0=(-42.37678,173.68086)
+StreetDesc=239 Beach Rd, Kaikoura/ Motel accommodation
+Phone=+6433196776
+Data0=(-42.37661,173.68088)
 [END]
 
 ;1159024
@@ -165392,8 +165387,9 @@ Data0=(-46.23723,169.73745)
 ;1166816
 [POI]
 Type=0x2f
-Label=DRS BRYCE, BUCKMAN, GELLATLY, LEONARD, REES & TURN
-StreetDesc=47 Scott St, Blenheim/ 
+Label=SCOTT ST HEALTH
+StreetDesc=47 Scott St, Blenheim/ Medical Centre
+Phone=+6435780199
 Data0=(-41.51581,173.95710)
 [END]
 
@@ -173975,9 +173971,9 @@ Data0=(-43.11286,170.56129)
 ;1171313
 [POI]
 Type=0x4b00
-Label=?ST JOHN HAVELOCK
-StreetDesc=Inglis St, Havelock/ Ambulance station
-Data0=(-41.27926,173.76640)
+Label=ST JOHN HAVELOCK
+StreetDesc=51 Main Rd, Havelock/ Ambulance station
+Data0=(-41.28076,173.76691)
 [END]
 
 ;1171315
@@ -179081,9 +179077,9 @@ Data0=(-45.87561,170.50228)
 ;1172951
 [POI]
 Type=0x2c04
-Label=?BROWNLEE HOMESTEAD
+Label=BROWNLEE HOMESTEAD
 StreetDesc=Cook St, Havelock/ Historic Place: Category 1
-Data0=(-41.27551,173.76707)
+Data0=(-41.27543,173.76703)
 [END]
 
 ;1172956
@@ -182537,10 +182533,11 @@ Data0=(-43.56862,172.68313)
 
 ;1173985
 [POI]
-Type=0x2b03
-Label=?DAVIES BAY CAMPSITE (DOC)
-StreetDesc=Grove Arm, Queen Charlotte Sound - South Island > Marlborough > Sounds Area/ DOC
-Data0=(-41.25200,173.94000)
+Type=0x2b00
+Label=DAVIES BAY CAMPSITE
+StreetDesc=Iwituaroa Scenic Reserve, Grove Arm, Queen Charlotte Sound Marlborough/ DOC cons
+Phone=+6435203002
+Data0=(-41.25415,173.93998)
 [END]
 
 ;1173986
@@ -182626,17 +182623,18 @@ Data0=(-40.84400,173.91000)
 ;1173999
 [POI]
 Type=0x2b03
-Label=?PIPI BEACH CAMPSITE (DOC)
-StreetDesc=Sounds Foreshore Reserve, Hikapu Reach, Inner Pelorus Sound - South Island > Mar
-Data0=(-41.17038,173.86173)
+Label=PIPI BEACH CAMPSITE (DOC)
+StreetDesc=Sounds Foreshore Reserve, Hikapau Reach, Pelorus Sound Marlborough Sounds/ DOC c
+Data0=(-41.17018,173.86045)
 [END]
 
 ;1174000
 [POI]
 Type=0x2b03
-Label=?PUTANUI POINT CAMPSITE (DOC)
-StreetDesc=Putanui Point, Pelorus Sound - South Island > Marlborough > Sounds Area/ DOC con
-Data0=(-41.22100,173.86800)
+Label=PUTANUI POINT CAMPSITE (DOC)
+StreetDesc=Putanui Point, Pelorus Sound Marlborough Sounds (BOAT ACCESS ONLY)/ DOC conserva
+Phone=+6435203113
+Data0=(-41.22113,173.86769)
 [END]
 
 ;1174002
@@ -186406,14 +186404,6 @@ StreetDesc=33 Kilmarnock St, Chc/ Bed and Breakfast accommodation, B&B
 Data0=(-43.52703,172.60716)
 [END]
 
-;1176660
-[POI]
-Type=0x2b02
-Label=GREY HERON ITALIAN ORGANIC B&B
-StreetDesc=110, Trewavas St, Motueka/ Bed and Breakfast accommodation, B&B
-Data0=(-41.13289,173.02188)
-[END]
-
 ;1176663
 [POI]
 Type=0x2b02
@@ -188476,15 +188466,6 @@ Label=STONEWOOD HOMES BLENHEIM
 StreetDesc=68 High St Blenheim 7201/ Blenheim Builders, New Home Builders Blenheim, Show Ho
 Phone=+6435780405
 Data0=(-41.51181,173.95565)
-[END]
-
-;1177676
-[POI]
-Type=0x2f
-Label=?STONEWOOD HOMES HAWKES BAY
-StreetDesc=Shop 12 Village Court, Te Mata Rd, Havelock/ Hawkes Bay builders, new home build
-Phone=+6468772958
-Data0=(-41.28036,173.76716)
 [END]
 
 ;1177677
@@ -194312,10 +194293,10 @@ Data0=(-41.59740,173.72348)
 ;1181159
 [POI]
 Type=0x2b00
-Label=?TE RAWA RESORT
+Label=TE RAWA RESORT
 StreetDesc=Wilson Bay, Pelorus Sound/ Accommodation
 Phone=+6435798285
-Data0=(-41.16279,173.86321)
+Data0=(-41.07450,173.90643)
 [END]
 
 ;1181160
@@ -194421,9 +194402,9 @@ Data0=(-41.50933,173.93531)
 ;1181173
 [POI]
 Type=0x2a0e
-Label=?INTERISLANDER PIER CAFE
-StreetDesc=Lagoon Rd, Picton/ 
-Data0=(-41.28928,174.00065)
+Label=INTERISLANDER PIER CAFE
+StreetDesc=On the upper Fl at the Picton Terminal/ 
+Data0=(-41.28551,174.00515)
 [END]
 
 ;1181174
@@ -194750,15 +194731,6 @@ Label=ACCENT RESTAURANT LTD
 StreetDesc=14 Scott St, Blenheim/ Restaurant
 Phone=+6435787895
 Data0=(-41.51492,173.95661)
-[END]
-
-;1181215
-[POI]
-Type=0x2a
-Label=BELLAFICO RESTAURANT & WINE BAR
-StreetDesc=17 A Maxwell Rd, Blenheim/ Restaurant
-Phone=+6435776072
-Data0=(-41.51491,173.95579)
 [END]
 
 ;1181216
@@ -195470,9 +195442,10 @@ Data0=(-41.28948,173.85707)
 
 ;1181306
 [POI]
-Type=0x2f
-Label=PUKEKOS
-StreetDesc=21 High St, Picton/ 
+Type=0x2e
+Label=PUKEKOS GIFTS & HOMEWARE
+StreetDesc=21 High St, Picton/ Gift shop
+Phone=+6435735553
 Data0=(-41.28946,174.00656)
 [END]
 
@@ -195649,7 +195622,7 @@ Label=SLIP INN
 StreetDesc=50 Main Rd, Havelock Marina, Havelock, Marlborough Sounds/ Cafe, restaurant and 
 Phone=+6435742345
 zip=8am until late, every day.
-Data0=(-41.27952,173.76685)
+Data0=(-41.27612,173.76905)
 [END]
 
 ;1181334
@@ -198396,10 +198369,10 @@ Data0=(-43.80751,172.96842)
 ;1189415
 [POI]
 Type=0x2f
-Label=KAIAPOI ALUMINIUM
-StreetDesc=1261 Main North Rd ,Bridgend Belfast, New Zealand/ High Quality Aluminium Doors,
+Label=KAIAPOI ALUMINIUM JOINERY
+StreetDesc=1261 Main North Rd, Bridgend, Belfast/ High Quality Aluminium Doors, Windows Chr
 Phone=+6433237808
-Data0=(-43.41984,172.65262)
+Data0=(-43.41977,172.65252)
 [END]
 
 ;1189423
@@ -207062,5 +207035,69 @@ Label=THE MAD BUTCHER - DUNEDIN
 StreetDesc=280 Andersons Bay Rd, South Dud/ butcher, fresh meat, steak, lamb, chicken
 Phone=+6434556042
 Data0=(-45.89041,170.50229)
+[END]
+
+;1196392
+[POI]
+Type=0x2f
+Label=NATURAL LIVING
+StreetDesc=87 Atawhai Dr Nelson/ Yoga, Natural Therapies, Massage
+Phone=+6435291402
+Data0=(-41.26206,173.29787)
+[END]
+
+;1196393
+[POI]
+Type=0x2f
+Label=?TOPSHELF WEB DESIGN
+StreetDesc=63c Carmichael Rd/ Web Design Company based in Tauranga - Beautiful web sites - 
+Phone=+6472811618
+zip=9-5pm
+Data0=(-46.31029,168.02300)
+[END]
+
+;1196394
+[POI]
+Type=0x2f
+Label=SWITCHED ON PRINT
+StreetDesc=14 Nazareth Ave, Chc/ Graphic Design - Web Design - Digital & Offset Printers
+Phone=+6439610702
+zip=8:30am - 5:00pm
+Data0=(-43.54379,172.58043)
+[END]
+
+;1196408
+[POI]
+Type=0x2e
+Label=THIRSTY LIQUOR BRIDGEND
+StreetDesc=1275 Main North Rd, Bridgend, Chc/ Liquor, beer, wine, spirits
+Data0=(-43.41878,172.65257)
+[END]
+
+;1196412
+[POI]
+Type=0x2e
+Label=THIRSTY LIQUOR QUEENSTOWN
+StreetDesc=47 Camp St, Queenstown/ Liquor, beer, wine, spirits
+Phone=+6434424155
+Data0=(-45.03032,168.66011)
+[END]
+
+;1196413
+[POI]
+Type=0x2e
+Label=THIRSTY LIQUOR RANGIORA
+StreetDesc=398 High St, Rangiora/ Liquor, beer, wine, spirits
+Phone=+6433137207
+Data0=(-43.30483,172.58363)
+[END]
+
+;1196434
+[POI]
+Type=0x2e
+Label=THIRSTY LIQUOR LINWOOOD
+StreetDesc=21b Aldwins Rd, Phillipstown, Linwoood/ Liquor, beer, wine, spirits
+Phone=+6439821753
+Data0=(-43.54152,172.66622)
 [END]
 

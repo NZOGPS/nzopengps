@@ -18032,8 +18032,9 @@ Data0=(-45.87357,170.50412)
 [POI]
 Type=0x2e05
 Label=PARKLANDS PHARMACY
-StreetDesc=Queens Park Dr, Parklands Shopping Ctr, Parklands, Chc/ pharmacy, chemist
+StreetDesc=Queens Park Dr, Parklands Shopping Ctr, Parklands, Chc/ pharmacy, chemist, photo
 Phone=+6433831330
+zip=Mon-Fri: 08.30-18.00, Sat: 09.30-.14.00,
 Data0=(-43.48084,172.70551)
 [END]
 
@@ -36743,10 +36744,10 @@ Data0=(-41.28950,174.00576)
 ;1099091
 [POI]
 Type=0x3003
-Label=?DEPARTMENT OF CONSERVATION, SOUTH MARLBOROUGH AREA OFFICE
+Label=DEPARTMENT OF CONSERVATION, SOUTH MARLBOROUGH AREA OFFICE
 StreetDesc=Gee St, Renwick, Marlborough/ DOC
 Phone=+6435729100
-Data0=(-41.50605,173.82132)
+Data0=(-41.50606,173.82009)
 [END]
 
 ;1099092
@@ -54370,10 +54371,10 @@ Data0=(-41.29656,173.22848)
 ;1110110
 [POI]
 Type=0x2f
-Label=?NELSON HONEY & MARKETING (NZ) LTD
-StreetDesc=276 State Highway 6, Motupiko/ 
+Label=NELSON HONEY & MARKETING (NZ) LTD
+StreetDesc=276 State Highway 6, Motupiko/ Food
 Phone=0800289992
-Data0=(-41.44906,172.83008)
+Data0=(-41.45972,172.81127)
 [END]
 
 ;1110111
@@ -60788,6 +60789,15 @@ Phone=+6433428596
 Data0=(-43.53445,172.54119)
 [END]
 
+;1113810
+[POI]
+Type=0x2f
+Label=STANDARD COMPANIES LTD
+StreetDesc=12 McCrea St, Dud/ 
+Phone=+6498899160
+Data0=(-45.88081,170.48201)
+[END]
+
 ;1113822
 [POI]
 Type=0x2f
@@ -66285,9 +66295,9 @@ Data0=(-41.17972,174.29102)
 ;1116696
 [POI]
 Type=0x2b03
-Label=?WHATAMANGO BAY CAMPING AREA (DOC)
+Label=WHATAMANGO BAY CAMPING AREA (DOC)
 StreetDesc=Whatamango Bay Recreation Reserve - South Island > Marlborough > Sounds Area/ DO
-Data0=(-41.26928,174.07553)
+Data0=(-41.27036,174.07406)
 [END]
 
 ;1116697
@@ -102222,9 +102232,9 @@ Data0=(-43.52339,172.63004)
 
 ;1132126
 [POI]
-Type=0x2f
+Type=0x2d02
 Label=POMEROY'S OLD BREWERY INN
-StreetDesc=292 Kilmore St, Chc/ (www.beertourist.co.nz 2010: Accomodation, Meals)
+StreetDesc=292 Kilmore St, Chc/ Bar, restaurant
 Phone=+6433651523
 Data0=(-43.52669,172.64975)
 [END]
@@ -133711,14 +133721,6 @@ StreetDesc=43 Main North Rd, Chc/ bar
 Data0=(-43.49499,172.60896)
 [END]
 
-;1147120
-[POI]
-Type=0x2f
-Label=WHITE TIE CATERING
-StreetDesc=284 Kilmore St, Chc/ 
-Data0=(-43.52669,172.64964)
-[END]
-
 ;1147121
 [POI]
 Type=0x2a07
@@ -148326,9 +148328,9 @@ Data0=(-43.57384,172.10167)
 [POI]
 Type=0x2f
 Label=WHITE TIE CATERING
-StreetDesc=210 Tosswill Rd, Chc/ Caterer, Function Centre, Weddings
+StreetDesc=84 Gasson St, Chc/ Caterer, Function Centre, Weddings
 Phone=+6433652837
-Data0=(-43.59562,172.52882)
+Data0=(-43.54315,172.64283)
 [END]
 
 ;1157661
@@ -153003,7 +153005,8 @@ Data0=(-44.37881,171.24650)
 [POI]
 Type=0x2b00
 Label=POMEROYS ON KILMORE
-StreetDesc=292 Kilmore St, Chc Central, Chc/ Accommodation
+StreetDesc=292 Kilmore St, Chc Central, Chc/ Boutique accommodation
+Phone=+6433743532
 Data0=(-43.52672,172.64950)
 [END]
 
@@ -194418,9 +194421,9 @@ Data0=(-41.48330,173.83976)
 ;1181175
 [POI]
 Type=0x2a0e
-Label=?RAINBOW CAFE
-StreetDesc=Rainbow, Wairau Valley/ 
-Data0=(-41.78541,172.89366)
+Label=RAINBOW CAFE
+StreetDesc=Rainbow Ski Area, Wairau Valley/ Cafe @ 1500m above sealevel
+Data0=(-41.87577,172.86178)
 [END]
 
 ;1181176
@@ -195647,25 +195650,28 @@ Data0=(-41.22940,173.99579)
 ;1181336
 [POI]
 Type=0x2a0e
-Label=?ECHO CAFE / BAR
-StreetDesc=Picton Harbour, Queen Charlotte Sound/ 
-Data0=(-41.18033,174.18617)
+Label=ECHO HISTORICAL CAFE / BAR
+StreetDesc=Picton Harbour, Queen Charlotte Sound/ Cafe on 1905 scow Echo
+Phone=+35737498
+Data0=(-41.28805,174.01026)
 [END]
 
 ;1181337
 [POI]
 Type=0x2a0e
-Label=?THE GREEN CAFE
-StreetDesc=401 Anakiwa Rd, Queen Charlotte Sound/ 
-Data0=(-41.18033,174.18617)
+Label=THE GREEN CARAVAN CAFE
+StreetDesc=401 Anakiwa Rd, Queen Charlotte Sound/ Cafe
+Phone=+6435741388
+Data0=(-41.26384,173.92069)
 [END]
 
 ;1181338
 [POI]
 Type=0x2a
-Label=?SPINNAKER RESTAURANT
-StreetDesc=Waikawa Marina Waikawa Bay, Queen Charlotte Sound/ 
-Data0=(-41.18033,174.18617)
+Label=SPINNAKER RESTAURANT WAIKAWA MARINA
+StreetDesc=Waikawa Marina Waikawa Bay, Queen Charlotte Sound/ Restaurant
+Phone=+6435739152
+Data0=(-41.26800,174.03736)
 [END]
 
 ;1181339
@@ -195720,9 +195726,9 @@ Data0=(-41.29930,173.57249)
 ;1181345
 [POI]
 Type=0x2e
-Label=?ST OMER SHOP
+Label=ST OMER SHOP
 StreetDesc=52 St Omer Rd, Kenepuru Sound/ 
-Data0=(-41.18179,173.97374)
+Data0=(-41.18080,173.97351)
 [END]
 
 ;1181364
@@ -203375,11 +203381,11 @@ Data0=(-45.91446,170.48566)
 ;1192543
 [POI]
 Type=0x2c0a
-Label=?BLADEN WINES
+Label=BLADEN WINES
 StreetDesc=83 Condors Bend Rd Renwick/ Winery, cellar door
 Phone=+35729417
 zip=Daily 11am to 5pm Labour Weekend (late O
-Data0=(-41.49518,173.80820)
+Data0=(-41.49839,173.80831)
 [END]
 
 ;1192544
@@ -204932,10 +204938,10 @@ Data0=(-43.54635,172.56280)
 ;1193502
 [POI]
 Type=0x2f
-Label=?THE TOTARA BREWING CO.
-StreetDesc=249 STATE HIGHWAY 6, Wakefield/ (www.beertourist.co.nz 2010)
+Label=THE TOTARA BREWING CO.
+StreetDesc=249 STATE HIGHWAY 6, Wakefield/ Brewery, Off License,
 Phone=+6421624322
-Data0=(-41.41806,173.00905)
+Data0=(-41.41791,173.00944)
 [END]
 
 ;1193503
@@ -206037,11 +206043,11 @@ Data0=(-43.54080,172.65960)
 ;1195648
 [POI]
 Type=0x2f
-Label=?NZ SAFETY
+Label=NZ SAFETY
 StreetDesc=81 Shands Rd, Hornby, Chc 8042/ Protective equipment, workwear and related safet
 Phone=+6433444355
 zip=Mon-Fri 8.00am-5.00pm, Sat 9.00am-12.00p
-Data0=(-43.54885,172.51913)
+Data0=(-43.54885,172.51914)
 [END]
 
 ;1195650
@@ -206574,7 +206580,7 @@ Label=THE NOSE CAFE
 StreetDesc=Highlands Motorsport Park, 1 Sandflat Rd, Cromwell/ Cafe / Restaurant and Wine T
 Phone=+6434452277
 zip=9 am to 5 pm
-Data0=(-45.05775,169.16461)
+Data0=(-45.05640,169.16429)
 [END]
 
 ;1195989
@@ -206583,7 +206589,7 @@ Type=0x2c08
 Label=HIGHLANDS MOTORSPORT PARK
 StreetDesc=Corner SH6 & Sandflat Rd, Cromwell/ 
 Phone=+6434454052
-Data0=(-45.05609,169.16458)
+Data0=(-45.05682,169.16475)
 [END]
 
 ;1195994
@@ -207099,5 +207105,61 @@ Label=THIRSTY LIQUOR LINWOOOD
 StreetDesc=21b Aldwins Rd, Phillipstown, Linwoood/ Liquor, beer, wine, spirits
 Phone=+6439821753
 Data0=(-43.54152,172.66622)
+[END]
+
+;1196449
+[POI]
+Type=0x2f
+Label=MARCOLIN SINGING & MUSIC STUDIO
+StreetDesc=25 George St, Windsor, Invercargill/ VOCAL COACH, Singing Teacher (Incl Classica
+Phone=+6432175395
+zip=9am to 8pm
+Data0=(-46.39664,168.36322)
+[END]
+
+;1196450
+[POI]
+Type=0x2f
+Label=ALLIED PICKFORDS CHRISTCHURCH
+StreetDesc=3 Parkhouse Rd, Sockburn 8042 Chc/ Relax,we carry the load.
+Phone=+6433482400
+Data0=(-43.54621,172.56242)
+[END]
+
+;1196462
+[POI]
+Type=0x2f
+Label=RADCLIFFE ELECTRICAL TUAM STREET
+StreetDesc=350 Tuam St/ Electrical Trade Wholesale
+Phone=+6433793008
+Data0=(-43.53537,172.64875)
+[END]
+
+;1196463
+[POI]
+Type=0x2f
+Label=HIGHLANDER HEATING
+StreetDesc=53 Hawthorn Ave Mornington Dud 9011/ Dunedin contractors of commercial & home ce
+Phone=+6421059528
+zip=8am - 5.30 pm
+Data0=(-45.88036,170.47908)
+[END]
+
+;1196493
+[POI]
+Type=0x2f
+Label=LASER PLUMBING DUNEDIN CENTRAL
+StreetDesc=5 Lorne St Dud 9012 New Zealand/ Plumbers, roofers, drainlayers & gasfitters in 
+Phone=+6434563178
+Data0=(-45.89333,170.50129)
+[END]
+
+;1196500
+[POI]
+Type=0x2e
+Label=THIRSTY LIQUOR QEII LIQUOR
+StreetDesc=5/251 Travis Rd, New Brighton, Chc/ Liquor, beer, wine, spirits
+Phone=+6433885016
+Data0=(-43.49497,172.70989)
 [END]
 

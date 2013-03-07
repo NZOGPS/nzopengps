@@ -57889,7 +57889,7 @@ Data0=(-45.87673,170.50965)
 Type=0x2f
 Label=RAINER IRRIGATION LTD
 StreetDesc=10 Robinson St, Ashburton/ 
-Phone=+6433081593
+Phone=+6433079049
 Data0=(-43.90009,171.73647)
 [END]
 
@@ -84874,10 +84874,10 @@ Data0=(-43.53892,172.60480)
 ;1122434
 [POI]
 Type=0x2e
-Label=ALLAN WHITE SPORTS HUNTING & FISHING
+Label=ALLAN WHITE SPORTS
 StreetDesc=38 Esk St, Invercargill/ Fishing equipment, firearms, bait, outdoor gear
 Phone=+6432182266
-zip=Mon-Thu 0800-1730, Fri 0800-2100, Sat,09
+zip=Mon-Sat
 Data0=(-46.41174,168.34859)
 [END]
 
@@ -106165,10 +106165,10 @@ Data0=(-46.39402,168.35055)
 ;1134434
 [POI]
 Type=0x2f
-Label=BRONZE CONNECTION
-StreetDesc=35 Dee St, Invercargill/ Hairdressers
+Label=BRONZE CONNECTION - HAIR MECHANICS
+StreetDesc=26B Esk St, Invercargill/ Hairdressers
 Phone=+6432184221
-Data0=(-46.41171,168.34764)
+Data0=(-46.41175,168.34782)
 [END]
 
 ;1134435
@@ -121025,9 +121025,9 @@ Data0=(-42.12041,171.86680)
 ;1141293
 [POI]
 Type=0x2b00
-Label=PINEDALE BACKPACKER LODGE & APARTMENT
-StreetDesc=11 Alford St, Methven/ Award winning budget accommodation
-Phone=+6433028621
+Label=PINEDALE LODGE & APARTMENT
+StreetDesc=11 Alford St, Methven/ Methven's largest holiday home with capacity for 24 . Pin
+Phone=+6439304449
 zip=All year round
 Data0=(-43.62971,171.64283)
 [END]
@@ -153911,14 +153911,6 @@ StreetDesc=234 William Stephen Rd, Te Anau/ Accommodation
 Data0=(-45.44931,167.69121)
 [END]
 
-;1159950
-[POI]
-Type=0x2b00
-Label=THE LAZY FISH
-StreetDesc=35 Burrows St, Bluff/ Accommodation
-Data0=(-46.60308,168.34966)
-[END]
-
 ;1159952
 [POI]
 Type=0x2b02
@@ -160212,9 +160204,9 @@ Data0=(-41.27395,173.28615)
 [POI]
 Type=0x2f
 Label=MATTHEWS EYEWEAR & EYECARE
-StreetDesc=211 Queen St, Richmond, Nelson/ Optometrist. Eye exams, frames, glasses, contact
+StreetDesc=355 Lower Queen St, Richmond, Nelson/ Optometrist. Eye exams, frames, glasses, c
 Phone=+6435445319
-Data0=(-41.34008,173.18525)
+Data0=(-41.33493,173.17976)
 [END]
 
 ;1163991
@@ -192377,11 +192369,11 @@ Data0=(-45.88117,170.16681)
 ;1179768
 [POI]
 Type=0x2F02
-Label=USAVE CAR & TRUCK RENTALS CHRISTCHURCH
-StreetDesc=26 Sheffield Cres, Burnside, Chc, 8053/ Christchurch car rental close to the Air
+Label=?USAVE CAR & TRUCK RENTALS CHRISTCHURCH
+StreetDesc=232 Roydvale Ave, Burnside, Chc, 8053/ Christchurch car rental close to the Airp
 Phone=+6433582299
 zip=8.00-5.30
-Data0=(-43.49093,172.56178)
+Data0=(-43.49071,172.56590)
 [END]
 
 ;1179770
@@ -203741,20 +203733,10 @@ Data0=(-41.51467,173.95667)
 [POI]
 Type=0x2f
 Label=AUTO RECOVERY SOUTH ISLAND LTD 24HR
-StreetDesc=376 Ferry Rd, Woolston, Chc, 8023./ Vehicle Towing, Recovery, Auto service, Auto
+StreetDesc=376 Ferry Rd, Woolston, Chc, 8023/ Vehicle Towing, Recovery, Auto service, Auto 
 Phone=+6433665188
-zip=24 Hours - 7 Days
+zip=24 Hours 7 Days
 Data0=(-43.54320,172.66605)
-[END]
-
-;1192770
-[POI]
-Type=0x2f
-Label=RELAX: MASSAGE AND BODY THERAPIES
-StreetDesc=L Two, Moray Chambers, 30 Moray Place, Dud/ Therapeutic massage, Relaxation Mass
-Phone=+6421295181
-zip=Thursday and Friday 9am-6pm, Saturday 10
-Data0=(-45.87510,170.50205)
 [END]
 
 ;1192775
@@ -206801,10 +206783,10 @@ Data0=(-42.26448,173.80752)
 ;1196238
 [POI]
 Type=0x2f
-Label=?MORTON DENTISTRY
-StreetDesc=Clyde Rd, Bryndwr, Chc/ Morton Dentistry is a Clyde Road, Christchurch dental cl
+Label=MORTON DENTISTRY
+StreetDesc=294 Clyde Rd, Bryndwr, Chc/ Morton Dentistry is a Clyde Road, Christchurch denta
 Phone=+6433665351
-Data0=(-43.50662,172.58735)
+Data0=(-43.50849,172.58913)
 [END]
 
 ;1196239
@@ -207161,5 +207143,52 @@ Label=THIRSTY LIQUOR QEII LIQUOR
 StreetDesc=5/251 Travis Rd, New Brighton, Chc/ Liquor, beer, wine, spirits
 Phone=+6433885016
 Data0=(-43.49497,172.70989)
+[END]
+
+;1196510
+[POI]
+Type=0x2f
+Label=VICE ESPRESSO
+StreetDesc=595 Halswell Junction Rd/ Wholesale coffee suppliers based in Christchurch.
+Phone=08003779899
+Data0=(-43.55718,172.52328)
+[END]
+
+;1196519
+[POI]
+Type=0x2f
+Label=INSTANT FINANCE CHRISTCHURCH
+StreetDesc=9B Buckleys Rd, Linwood, Chc/ Personal Loans, Cash Loans and Finance
+Phone=+6433742480
+zip=Mon - Fri 8:30am - 5:00pm, Sat - Sun - C
+Data0=(-43.53276,172.67328)
+[END]
+
+;1196521
+[POI]
+Type=0x2f
+Label=INSTANT FINANCE DUNEDIN
+StreetDesc=136 King Edward St, south Dud/ Personal Loans, Cash Loans and Finance
+Phone=+6434663111
+zip=Mon - Fri 8:30am - 5:00pm Sat - Sun - Cl
+Data0=(-45.89348,170.49873)
+[END]
+
+;1196573
+[POI]
+Type=0x2f
+Label=MCPHERSON PROPERTY MANAGEMENT
+StreetDesc=14 Lowe St, Chc/ Christchurch based Property Management business specialising in
+Phone=+6433433206
+Data0=(-43.53806,172.60918)
+[END]
+
+;1196577
+[POI]
+Type=0x2e07
+Label=BRIARWOOD
+StreetDesc=205B Papanui Rd, Merivale Chc/ Women's fashion shoes & handbags
+Phone=+6433553860
+Data0=(-43.51191,172.62126)
 [END]
 

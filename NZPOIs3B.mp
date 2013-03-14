@@ -101771,9 +101771,9 @@ Data0=(-43.50912,172.58874)
 
 ;1132062
 [POI]
-Type=0x2f
+Type=0x2a
 Label=THE BRICKWORKS
-StreetDesc=69 Centaurus Rd, Chc/ 
+StreetDesc=69 Centaurus Rd, Chc/ Bar, Restaurant
 Data0=(-43.56742,172.64657)
 [END]
 
@@ -106779,15 +106779,6 @@ Label=IAN HAWTHORNE WOOLS & DAG
 StreetDesc=210 Steel Rd, West Plains/ 
 Phone=+6432159415
 Data0=(-46.35001,168.32774)
-[END]
-
-;1134505
-[POI]
-Type=0x2f
-Label=INFRINGE HAIR DESIGN
-StreetDesc=32-36 Tanner St, Invercargill/ Hairdressers
-Phone=+6432156300
-Data0=(-46.38707,168.33911)
 [END]
 
 ;1134506
@@ -147153,6 +147144,15 @@ StreetDesc=211 Pine Hill Rd, Dud/
 Data0=(-45.84937,170.51073)
 [END]
 
+;1157137
+[POI]
+Type=0x6404
+Label=GRACE VINEYARD CHURCH
+StreetDesc=Spreydon Baptist Church, 246 Lyttelton St, Chrstchurch/ Church
+Phone=+6433798463
+Data0=(-43.55582,172.60781)
+[END]
+
 ;1157139
 [POI]
 Type=0x6404
@@ -149572,15 +149572,6 @@ Label=TASMAN BAY VETS
 StreetDesc=400D High St, Motueka/ Vets
 Phone=+6435288459
 Data0=(-41.12403,173.01022)
-[END]
-
-;1158513
-[POI]
-Type=0x2e
-Label=BLACKS PET EMPORIUM
-StreetDesc=14b Opawa Rd, Chc, Canterbury 8023, New Zealand/ Pet Shop
-Phone=+6433652361
-Data0=(-43.54794,172.65387)
 [END]
 
 ;1158528
@@ -160921,10 +160912,10 @@ Data0=(-46.55204,169.45931)
 [POI]
 Type=0x2f
 Label=NAVCOM ELECTRONICS LTD
-StreetDesc=Cnr French and Buller St, Harbour Basin, Dud/ Marine Electronics, Radio Communic
-Phone=+6434776655
+StreetDesc=561 Kaikorai Valley Rd Dud/ Marine Electronics, Radio Communications, Garmin Han
+Phone=+6434881644
 zip=8am-5.30pm
-Data0=(-45.88270,170.50598)
+Data0=(-45.88950,170.46226)
 [END]
 
 ;1164530
@@ -192617,15 +192608,6 @@ zip=11a.m.-5p.m.
 Data0=(-45.07176,169.19183)
 [END]
 
-;1180103
-[POI]
-Type=0x2f
-Label=?WINDSOR DOORS CENTRAL
-StreetDesc=Frederick St, Wanaka/ For sale, installation and service - Windsor Doors, Custom
-Phone=+6434435366
-Data0=(-44.70796,169.15019)
-[END]
-
 ;1180107
 [POI]
 Type=0x2a07
@@ -202547,9 +202529,9 @@ Data0=(-43.53586,172.60657)
 [POI]
 Type=0x2f
 Label=TRANSNATIONAL TRANSLATIONS LTD.
-StreetDesc=32 A Matipo St Riccarton Chc/ TransNational provides translation services in ove
+StreetDesc=35 B Riccarton Rd Riccarton Chc/ TransNational provides translation services in 
 zip=Monday to Friday - 09:30 a.m. to 05:00 p
-Data0=(-43.53644,172.59731)
+Data0=(-43.52939,172.60836)
 [END]
 
 ;1191880
@@ -207190,5 +207172,69 @@ Label=BRIARWOOD
 StreetDesc=205B Papanui Rd, Merivale Chc/ Women's fashion shoes & handbags
 Phone=+6433553860
 Data0=(-43.51191,172.62126)
+[END]
+
+;1196613
+[POI]
+Type=0x2d00
+Label=SNAP FITNESS PAPANUI 24HR
+StreetDesc=7 Horner St Chc New Zealand/ Gym
+Phone=+6439433638
+zip=24/7
+Data0=(-43.49655,172.60876)
+[END]
+
+;1196615
+[POI]
+Type=0x2d00
+Label=?SNAP FITNESS THE PALMS 24HR
+StreetDesc=11 New Brighton Rd Shirley , Chc 8061 New Zealand/ Gym
+zip=24/7
+Data0=(-43.50792,172.66448)
+[END]
+
+;1196616
+[POI]
+Type=0x2d00
+Label=SNAP FITNESS UPPER RICCARTON 24HR
+StreetDesc=5 newnham terrace Chc 8041/ Gym
+Phone=+6433481251
+zip=24/7
+Data0=(-43.53095,172.57657)
+[END]
+
+;1196628
+[POI]
+Type=0x2f
+Label=ALLURE HAIR DESIGN
+StreetDesc=36 Tanner St, Invercargill/ Hairdressers
+Phone=+6439310904
+Data0=(-46.38704,168.33908)
+[END]
+
+;1196629
+[POI]
+Type=0x6404
+Label=GRACE VINEYARD BEACH CAMPUS
+StreetDesc=111-113 Seaview Rd, New Brighton, Chc 8061/ Church
+Phone=+6433885459
+Data0=(-43.50822,172.72607)
+[END]
+
+;1196630
+[POI]
+Type=0x2f
+Label=?CRAZY DAZE
+StreetDesc=Parklands, Chc/ Parasol, pagoda and umbrella hire
+Data0=(-43.48603,172.70181)
+[END]
+
+;1196634
+[POI]
+Type=0x2a
+Label=STRAWBERRY FARE RESTAURANT
+StreetDesc=19 Bealey Ave, Merivale, Chc/ 
+Phone=+33654897
+Data0=(-43.52068,172.62627)
 [END]
 

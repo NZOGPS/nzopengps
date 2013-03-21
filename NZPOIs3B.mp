@@ -13881,11 +13881,11 @@ Data0=(-43.53131,172.59979)
 ;1048223
 [POI]
 Type=0x2e
-Label=REBEL SPORT-DUNEDIN
+Label=REBEL SPORT DUNEDIN
 StreetDesc=185 Crawford St, Dud/ Sports gear & apparel, Fitness Equipment
 Phone=+6434717300
-zip=Mon-Thurs 9.00am-5.30pm, Friday (Late Ni
-Data0=(-45.88364,170.50027)
+zip=Mon-Thu 9am-5.30pm, Fri 9am-8.30pm, Sat 
+Data0=(-45.88359,170.50022)
 [END]
 
 ;1048230
@@ -36366,16 +36366,6 @@ Label=LAKE MATHESON MOTEL
 StreetDesc=Cnr Cook Flat Rd & Pekanga Dr, Fox Glacier/ Motel
 Phone=08004522437
 Data0=(-43.46368,170.01252)
-[END]
-
-;1098877
-[POI]
-Type=0x2e
-Label=PAYLESS PLASTICS RICCARTON
-StreetDesc=Blenheim Sq, 227 Blenheim Rd, Chc/ Plastic storage
-Phone=+6433436750
-zip=Mon: 9.00-5.30, Tue: 9.00-5.30, Wed: 9.0
-Data0=(-43.53831,172.58880)
 [END]
 
 ;1098894
@@ -61264,12 +61254,12 @@ Data0=(-43.53894,172.60484)
 
 ;1114136
 [POI]
-Type=0x2f
+Type=0x2e02
 Label=SWIFT'S COFFEETIME NEW ZEALAND LTD
-StreetDesc=121 Fryatt St, Dud/ 
-Phone=+6434778430
+StreetDesc=13 Lorne St, South Dud/ Your Business Supermarket
+Phone=+6434664192
 zip=Mon-Fri 0830-1700
-Data0=(-45.87590,170.51556)
+Data0=(-45.89363,170.50050)
 [END]
 
 ;1114140
@@ -78813,10 +78803,11 @@ Data0=(-43.53088,172.60066)
 ;1120719
 [POI]
 Type=0x2e
-Label=BRISCOES HOMEWARE - DUNEDIN
-StreetDesc=175 Crawford St, Dud/ Homeware, home decor, bedding
-Phone=+6434741410
-Data0=(-45.88338,170.50042)
+Label=BRISCOES HOMEWARE DUNEDIN
+StreetDesc=175 Crawford St, Dud/ Homeware & home accessories, bed & bath, electrical applia
+Phone=+6434701838
+zip=Mon-Thu 9am-5:30pm, Fri 9am-7pm, Sat 9am
+Data0=(-45.88345,170.50028)
 [END]
 
 ;1120720
@@ -83327,26 +83318,6 @@ zip=Bookings from 12pm, bar open from 2pm-la
 Data0=(-45.03341,168.65752)
 [END]
 
-;1121827
-[POI]
-Type=0x2e
-Label=PAYLESS RICHMOND
-StreetDesc=3 Gladstone Rd, Richmond, Nelson/ Plastic storage, entertainment & cooling. Chil
-Phone=+6435449658
-zip=Mon-Fri: 9am-5.30pm, Sat: 9am-5pm, Sun: 
-Data0=(-41.33709,173.18137)
-[END]
-
-;1121828
-[POI]
-Type=0x2e
-Label=PAYLESS SYDENHAM
-StreetDesc=Sydenham Central, Elgin St, Chc/ Plastic storage, entertainment & cooling. Chill
-Phone=+6433772601
-zip=Mon-Fri: 9am-5.30pm, Sat: 9am-5pm, Sun: 
-Data0=(-43.54601,172.63546)
-[END]
-
 ;1121841
 [POI]
 Type=0x2b00
@@ -87708,14 +87679,6 @@ StreetDesc=30 Stuart St, Dud/ Seafood restaurant
 Phone=+6434778059
 zip=Mon-Fri 11:30am-7pm
 Data0=(-45.87505,170.50739)
-[END]
-
-;1128414
-[POI]
-Type=0x2f
-Label=BIERNAT
-StreetDesc=40 Scurr Rd, Scroggs Hill, Dud/ 
-Data0=(-45.91831,170.33204)
 [END]
 
 ;1128415
@@ -120534,7 +120497,7 @@ Type=0x2a
 Label=SAINTS CAFE, RESTAURANT & BAR
 StreetDesc=6 Jacks Pass Rd, Hanmer Springs/ Relax with a drink or famous cocktail, shoot so
 Phone=+6433155262
-zip=11am till 10pm Weekdays & 10am till 10pm
+zip=3pm - 10pm Monday - Thursdays. 11am - 10
 Data0=(-42.52161,172.82868)
 [END]
 
@@ -135034,16 +134997,6 @@ Phone=+6433433293
 Data0=(-43.54548,172.56687)
 [END]
 
-;1147591
-[POI]
-Type=0x2e
-Label=PAYLESS SHIRLEY
-StreetDesc=199 Marshland Rd, Chc/ Plastic storage, entertainment & cooling. Chilly bins
-Phone=+6433861301
-zip=Mon-Fri: 9am-5.30pm, Sat: 9am-5pm, Sun: 
-Data0=(-43.49384,172.66013)
-[END]
-
 ;1148048
 [POI]
 Type=0x2b03
@@ -138918,6 +138871,15 @@ Label=CANTERBURY PHYSIOTHERAPY
 StreetDesc=Central City Physiotherapy, 1st Fl, AXA Arcade, 248 High St, Chc/ Physiotherapis
 Phone=+6433777885
 Data0=(-43.53245,172.63747)
+[END]
+
+;1151330
+[POI]
+Type=0x2f
+Label=CASHMERE PHYSIOTHERAPY
+StreetDesc=91 Cashmere Rd, Chc/ Physiotherapist, physio
+Phone=+6433318376
+Data0=(-43.56978,172.62284)
 [END]
 
 ;1151331
@@ -172484,8 +172446,8 @@ Data0=(-43.48545,172.67393)
 ;1170579
 [POI]
 Type=0x2f
-Label=MENZ MEDICAL
-StreetDesc=158 Fitzgerald Ave, Chc/ General Practitioner, Doctor, Dr. Brendan Kane, Dr. Rob
+Label=MENZ MEDICAL CENTRE
+StreetDesc=158 Fitzgerald Ave, Chc/ A specialised men’s health clinic, vasectomies
 Phone=+6439818181
 Data0=(-43.53108,172.65122)
 [END]
@@ -206177,7 +206139,7 @@ Data0=(-43.51844,172.65653)
 [POI]
 Type=0x2c00
 Label=CLUTHA RIVER CRUISES
-StreetDesc=7E Blyth St, CLyde, Central Otago/ Boat Cruise, Historical Tour
+StreetDesc=51 Sunderland St, CLyde, Central Otago/ Boat Cruise, Historical Tour
 zip=8am-8pm
 Data0=(-45.18992,169.31781)
 [END]
@@ -207236,5 +207198,88 @@ Label=STRAWBERRY FARE RESTAURANT
 StreetDesc=19 Bealey Ave, Merivale, Chc/ 
 Phone=+33654897
 Data0=(-43.52068,172.62627)
+[END]
+
+;1196638
+[POI]
+Type=0x2f
+Label=?HOMETECH SOLATUBE CANTERBURY
+StreetDesc=Unit A 15/D Stone St Kaiapoi/ Installed home comfort solutions, Solatube Dayligh
+Phone=+6433792558
+zip=9 am to 5 pm weekdays
+Data0=(-43.38509,172.64190)
+[END]
+
+;1196644
+[POI]
+Type=0x2f
+Label=SOUTHERN EDUCATION
+StreetDesc=L 1 S202, Westfield Mall, Riccarton, Chc 8041/ English language study
+Phone=+6433480640
+zip=9.00-5.00
+Data0=(-43.52996,172.59715)
+[END]
+
+;1196647
+[POI]
+Type=0x2f
+Label=FIRE PROTECTION COMPLIANCE LIMITED
+StreetDesc=30 Mersey St Invercargill/ Fire Protection Compliance has qualified IQPs with 20
+Phone=+6432144198
+Data0=(-46.40752,168.34174)
+[END]
+
+;1196677
+[POI]
+Type=0x2d00
+Label=SNAP FITNESS HORNBY 24HR
+StreetDesc=The Clock Tower 375 Main South Rd Chc , New Zealand/ Gym
+Phone=+6439407114
+zip=24/7
+Data0=(-43.54337,172.52842)
+[END]
+
+;1196678
+[POI]
+Type=0x2d00
+Label=SNAP FITNESS BARRINGTON 24HR
+StreetDesc=141 Somerfield St, Somerfield, Chc 8024, New Zealand/ Gym
+zip=24/7
+Data0=(-43.55703,172.63612)
+[END]
+
+;1196706
+[POI]
+Type=0x2f
+Label=FOX WEB SOLUTIONS
+StreetDesc=2 Moncks Spur Rd/ Fox Services, Mobile Website Design, Custom Web Design & Devel
+Phone=+6433842445
+zip=8.30am to 6pm weekdays
+Data0=(-43.56300,172.73967)
+[END]
+
+;1196707
+[POI]
+Type=0x2f
+Label=SWB DESIGN LIMITED
+StreetDesc=22 Templetons Rd/ Licensed Building Practitioner and Christchurch based architec
+Phone=+6433384768
+Data0=(-43.56051,172.57892)
+[END]
+
+;1196712
+[POI]
+Type=0x2f0c
+Label=MOTUNAU BEACH PUBLIC TOILET
+StreetDesc=S43 02.871 E173 04.745/ Public Toilet
+Data0=(-43.04784,173.07916)
+[END]
+
+;1196713
+[POI]
+Type=0x4700
+Label=MOTUNAU BEACH BOAT RAMP
+StreetDesc=S43.04783 E173.07949/ Boat Ramp
+Data0=(-43.04787,173.07944)
 [END]
 

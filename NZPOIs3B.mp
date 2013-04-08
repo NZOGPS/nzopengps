@@ -8020,7 +8020,7 @@ Type=0x2e02
 Label=COUNTDOWN GORE
 StreetDesc=24 Medway St, Gore/ supermarket
 Phone=+6432039043
-zip=Mon - Sun 8am-9pm
+zip=Mon-Friday 8am-10pm, Sat-Sun 8am-9pm
 Data0=(-46.09869,168.94460)
 [END]
 
@@ -8190,7 +8190,7 @@ Type=0x2e02
 Label=COUNTDOWN BUSH INN
 StreetDesc=Waimairi Rd, Upper Riccarton, Chc/ supermarket
 Phone=+6433430912
-zip=Mon - Sun, 8am - 10pm
+zip=Mon - Sun, 7am - 10pm
 Data0=(-43.52991,172.57442)
 [END]
 
@@ -8260,7 +8260,7 @@ Type=0x2e02
 Label=COUNTDOWN MOORHOUSE
 StreetDesc=Cnr Moorhouse Ave and Madras St, Chc/ supermarket, Lotto
 Phone=+6433664804
-zip=7 days 8am-8pm
+zip=Monday - Sunday 7am-11pm
 Data0=(-43.53873,172.64208)
 [END]
 
@@ -8367,10 +8367,10 @@ Data0=(-45.54003,169.31399)
 ;1029246
 [POI]
 Type=0x2e02
-Label=COUNTDOWN MAILER STREET
+Label=COUNTDOWN, DUNEDIN SOUTH
 StreetDesc=43 Mailer St, Dud/ supermarket
 Phone=+6434534361
-zip=Mon - Sun, 8am - 9pm
+zip=Mon - Sun, 7am - 10pm
 Data0=(-45.88102,170.47963)
 [END]
 
@@ -8397,10 +8397,10 @@ Data0=(-45.86751,170.48914)
 ;1029267
 [POI]
 Type=0x2e02
-Label=COUNTDOWN DUNEDIN 24HR
+Label=COUNTDOWN DUNEDIN CENTRAL
 StreetDesc=309 Cumberland St Central, Dud/ supermarket, Lotto
 Phone=+6434777283
-zip=Mon - Sun, 24 hours
+zip=Monday - Sunday 6am-Midnight
 Data0=(-45.87384,170.50610)
 [END]
 
@@ -8420,7 +8420,7 @@ Type=0x2e02
 Label=COUNTDOWN MOSGIEL
 StreetDesc=Factory Rd, Mosgiel/ supermarket
 Phone=+6434890041
-zip=Mon - Sun, 8am - 8pm
+zip=Mon - Sun, 8am - 9pm
 Data0=(-45.87332,170.34855)
 [END]
 
@@ -8470,7 +8470,7 @@ Type=0x2e02
 Label=COUNTDOWN NELSON
 StreetDesc=35 St Vincent St, Nelson/ supermarket, Lotto
 Phone=+6435467443
-zip=Mon - Sun, 7am - 11pm
+zip=Mon - Sun, 7am - 10pm
 Data0=(-41.27251,173.27761)
 [END]
 
@@ -8480,7 +8480,7 @@ Type=0x2e02
 Label=COUNTDOWN STOKE
 StreetDesc=12-24 Putaitai St, Nelson/ supermarket, Lotto
 Phone=+6435479298
-zip=Mon - Sun, 7am - 9pm
+zip=Mon - Sun, 7am - 10pm
 Data0=(-41.31179,173.23407)
 [END]
 
@@ -86978,7 +86978,7 @@ Data0=(-43.53820,172.60612)
 ;1123611
 [POI]
 Type=0x2c05
-Label=SOUTHERN LAKES CHRISTIAN SCHOOL
+Label=KINGSVIEW SCHOOL
 StreetDesc=14 Yewlett Cres, Frankton/ Private Co-Ed Composite (Year 1-15) School
 Phone=+6434511444
 Data0=(-45.01737,168.72748)
@@ -112702,8 +112702,8 @@ Data0=(-44.40711,171.23748)
 ;1137888
 [POI]
 Type=0x2f
-Label=MAORI PARK POOL
-StreetDesc=Te Weka St, Timaru/ 
+Label=C-BAY SWIMMING COMPLEX
+StreetDesc=Te Weka St, Timaru/ swimming
 Data0=(-44.38602,171.24231)
 [END]
 
@@ -113596,9 +113596,9 @@ Data0=(-44.24416,171.27781)
 ;1138005
 [POI]
 Type=0x2f
-Label=?TENNIS SOUTH CANTERBURY INC
+Label=TENNIS SOUTH CANTERBURY INC
 StreetDesc=Benvenue Ave, Timaru/ 
-Data0=(-44.38508,171.24413)
+Data0=(-44.38533,171.24525)
 [END]
 
 ;1138006
@@ -143875,15 +143875,6 @@ StreetDesc=Appleby Highway, Appleby, Tasman/ Kindy, Play Centre, Early Learning
 Data0=(-41.30747,173.12616)
 [END]
 
-;1154540
-[POI]
-Type=0x2F07
-Label=73 MOORHOUSE LMVD
-StreetDesc=73 Moorhouse Ave, Chc/ Used car dealer
-Phone=+6433666379
-Data0=(-43.53972,172.62316)
-[END]
-
 ;1154542
 [POI]
 Type=0x2F07
@@ -170105,8 +170096,9 @@ Data0=(-46.40830,168.37446)
 [POI]
 Type=0x2f
 Label=ROIMATA MEDICAL PRACTICE
-StreetDesc=382 Ferry Rd, Chc/ 
-Data0=(-43.54321,172.66647)
+StreetDesc=665 Ferry Rd, Chc/ 
+Phone=+6433849187
+Data0=(-43.54842,172.68174)
 [END]
 
 ;1169276
@@ -180873,7 +180865,7 @@ Data0=(-44.35533,171.23853)
 ;1173571
 [POI]
 Type=0x2f01
-Label=SHELL TRUCK STOP, HORNBY 24HR
+Label=Z TRUCK STOP, HORNBY 24HR
 StreetDesc=Edmonton Rd, Hornby, Chc/ Diesel, Fuel Cards only
 zip=24 hr
 Data0=(-43.55478,172.51760)
@@ -193283,6 +193275,14 @@ StreetDesc=105 Tay St, Invercargill/ Church
 Data0=(-46.45132,168.36450)
 [END]
 
+;1180531
+[POI]
+Type=0x2f
+Label=THE SALVATION ARMY COMMUNITY MINISTRIES
+StreetDesc=101 Tay St, Invercargill, 9810/ Foodbank etc
+Data0=(-46.41330,168.35306)
+[END]
+
 ;1180547
 [POI]
 Type=0x2f
@@ -196978,7 +196978,7 @@ Data0=(-41.28860,172.80733)
 ;1188531
 [POI]
 Type=0x4a00
-Label=WHANGAMOA REST AREA
+Label=GRAHAMS STREAM REST AREA
 StreetDesc=SH6/ Rest Area
 Data0=(-41.18582,173.48709)
 [END]
@@ -201945,6 +201945,7 @@ Type=0x2a
 Label=COUNTDOWN RANGIORA
 StreetDesc=cnr Queen & Victoria Sts Rangiora/ Supermarket
 Phone=+6433130510
+zip=Monday-Sunday 7am-10pm
 Data0=(-43.30547,172.59561)
 [END]
 
@@ -204703,6 +204704,16 @@ Phone=+6436888934
 Data0=(-44.39649,171.25437)
 [END]
 
+;1193313
+[POI]
+Type=0x2e07
+Label=THE SUPPLY ROOM
+StreetDesc=13 Ballarat St, Queenstown, 9300/ The Supply Room prides itself by catering not 
+Phone=+6434413025
+zip=Mon - Thurs 10am-6pm Fri 10am-7pm Sat 10
+Data0=(-45.03247,168.66099)
+[END]
+
 ;1193331
 [POI]
 Type=0x2f
@@ -205574,9 +205585,9 @@ Data0=(-43.54375,172.59069)
 [POI]
 Type=0x2f
 Label=MAGELLAN SOFTWARE LTD
-StreetDesc=65 Mount St, Nelson 7010/ Magellan Software provides custom software solutions f
+StreetDesc=83B Tukuka St, Nelson 7010/ Magellan Software provides custom software solutions
 Phone=+6435468622
-Data0=(-41.27994,173.27648)
+Data0=(-41.29274,173.27444)
 [END]
 
 ;1195354
@@ -205981,6 +205992,34 @@ StreetDesc=Beach St, Hokitika/ Public Toilet
 Data0=(-42.71682,170.96063)
 [END]
 
+;1195592
+[POI]
+Type=0x2f
+Label=BEDROCK SOLUTIONS
+StreetDesc=17 Birdwood Ave/ Health and safety training, assessment and certificates for New
+Phone=+6433370493
+Data0=(-43.56953,172.64197)
+[END]
+
+;1195600
+[POI]
+Type=0x2f
+Label=BARRY KLOOGH
+StreetDesc=34 MacLaggan St Dud, New Zealand 9016/ Debt Breaker, Get Out of Debt, Pay Off Mo
+Phone=+6430800332
+zip=9:00 am
+Data0=(-45.87787,170.49712)
+[END]
+
+;1195601
+[POI]
+Type=0x2f
+Label=DEBT BREAKER
+StreetDesc=19 Barnard St Timaru, New Zealand 7910/ Pay Off Mortgage, Debt Breaker, Debt Con
+zip=9:00 am
+Data0=(-44.39937,171.25457)
+[END]
+
 ;1195606
 [POI]
 Type=0x2c0a
@@ -205998,6 +206037,16 @@ Label=TOKOMAIRIRO EARLY LEARNING CENTRE ON SPENSER
 StreetDesc=71 Spenser St, Milton/ 0-6 years
 zip=Mon-Fri 6:45am-5:30pm
 Data0=(-46.11862,169.96406)
+[END]
+
+;1195612
+[POI]
+Type=0x2f
+Label=DR WILFRIED J RADEMAKER - LASER VISION CORRECTION
+StreetDesc=1025 Ferry Rd/ Laser Eye Corrective Surgery for most prescriptions
+Phone=0800733327
+zip=by appointment
+Data0=(-43.55704,172.70369)
 [END]
 
 ;1195620
@@ -206437,6 +206486,15 @@ Phone=+6433444900
 Data0=(-43.55601,172.52381)
 [END]
 
+;1195801
+[POI]
+Type=0x2f
+Label=FAR REACH LIMITED
+StreetDesc=171 Totara View Rd, Wakefield, Nelson 7095/ Export Marketing Consultant
+Phone=+27541824
+Data0=(-41.42692,173.04061)
+[END]
+
 ;1195812
 [POI]
 Type=0x2f0b
@@ -206532,6 +206590,15 @@ StreetDesc=45 Pakihau Rd, Harington Point 9077, Dud, New Zealand/ Penguin Place 
 Phone=+34780286
 zip=Summer (Oct – Mar) Tours begin at 10:15a
 Data0=(-45.79629,170.73090)
+[END]
+
+;1195940
+[POI]
+Type=0x2f
+Label=HOMETRENDS BUILDERS
+StreetDesc=20 Mcsaveneys Rd, Marshland, Chc 8051/ Registered Master Builders based in Chris
+Phone=+6433852413
+Data0=(-43.48574,172.65223)
 [END]
 
 ;1195961
@@ -207399,5 +207466,53 @@ Label=?THE CATERING BELLE
 StreetDesc=1 dollans lane Chc/ Cafe selling food and coffee
 zip=8am - 3:30pm M - F
 Data0=(-43.52144,172.64156)
+[END]
+
+;1196807
+[POI]
+Type=0x2f
+Label=NATURAL PATH WELLNESS CENTRE
+StreetDesc=243 Trafalgar St, Nelson/ 
+Phone=+6435466544
+Data0=(-41.27391,173.28405)
+[END]
+
+;1196811
+[POI]
+Type=0x2f
+Label=REMARKABLE GLASS LTD
+StreetDesc=157 Glenda Dr Frankton Queenstown 9300/ Queenstown glass, double glazing, glass,
+Phone=+03451000
+Data0=(-45.01138,168.75523)
+[END]
+
+;1196815
+[POI]
+Type=0x2f
+Label=?FARRY RIDDELL CONSULTANCY
+StreetDesc=L 6, Forsyth Barr House, The Octagon, Dud/ business consultants
+Phone=+6434770927
+zip=9:00am to 5:00pm weekdays
+Data0=(-45.87398,170.50308)
+[END]
+
+;1196820
+[POI]
+Type=0x2f
+Label=SAVE MY BACON
+StreetDesc=12a St Albans St, St Albans, Chc, New Zealand/ payday loans, cash loans
+Phone=0800272836
+zip=9am - 5pm
+Data0=(-43.51302,172.62334)
+[END]
+
+;1196822
+[POI]
+Type=0x2e07
+Label=LITTLE PEANUTS - HANDMADE IN NZ
+StreetDesc=Arrowtown/ Baby & Children's toys, clothing, hats, decor, educational toys handm
+Phone=+6434421511
+zip=Visits by appointment only
+Data0=(-44.94710,168.83815)
 [END]
 

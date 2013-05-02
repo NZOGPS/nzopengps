@@ -8276,22 +8276,12 @@ Data0=(-43.48164,172.70600)
 
 ;1029190
 [POI]
-Type=0x2e02
-Label=WOOLSTON SUPERVALUE
-StreetDesc=7-11 St Johns St, Woolston/ supermarket, Lotto
+Type=0x2e
+Label=WOOLSTON NEW WORLD
+StreetDesc=7-11 St Johns St, Woolston/ Supermarket, Lotto, Fresh Fruit & Vegetables
 Phone=+6433841140
 zip=8am - 8pm, 7 days
 Data0=(-43.54947,172.68461)
-[END]
-
-;1029197
-[POI]
-Type=0x2e02
-Label=COUNTDOWN FERRYMEAD
-StreetDesc=999 Ferry Rd, Chc/ supermarket
-Phone=+6433848420
-zip=Mon - Sun, 7am - 10pm
-Data0=(-43.55663,172.70227)
 [END]
 
 ;1029204
@@ -11298,14 +11288,6 @@ Type=0x2f01
 Label=MOBIL PAPANUI
 StreetDesc=23 Main North Rd, Papanui, Chc/ Mobil petrol station, carwash
 Data0=(-43.49571,172.60822)
-[END]
-
-;1039291
-[POI]
-Type=0x2f01
-Label=MOBIL QUEENSPARK
-StreetDesc=169 Queenspark Dr, Parklands, Chc/ Mobil petrol station
-Data0=(-43.47777,172.69538)
 [END]
 
 ;1039319
@@ -18013,9 +17995,9 @@ Data0=(-41.31263,173.23410)
 [POI]
 Type=0x2e05
 Label=KAIAPOI AMCAL PHARMACY
-StreetDesc=172A Williams St, Kaiapoi/ pharmacy, chemist
+StreetDesc=40 Charles St, Kaiapoi/ pharmacy, chemist
 Phone=+6433278069
-Data0=(-43.38330,172.65702)
+Data0=(-43.38146,172.65835)
 [END]
 
 ;1063553
@@ -29638,9 +29620,9 @@ Data0=(-45.19195,169.32028)
 [POI]
 Type=0x4c
 Label=KAIAPOI I-SITE VISITOR CENTRE
-StreetDesc=Corner of Raven St and Williams St, Kaiapoi/ Visitor information
+StreetDesc=Old Railway Station, Charles St, Kaiapoi/ Visitor information
 Phone=+6433273134
-Data0=(-43.38285,172.65706)
+Data0=(-43.38273,172.65894)
 [END]
 
 ;1093705
@@ -77095,15 +77077,6 @@ Phone=+6433148202
 Data0=(-43.15261,172.72454)
 [END]
 
-;1119861
-[POI]
-Type=0x2a
-Label=BRIDGE TAVERN
-StreetDesc=178 Williams St, Kaiapoi North, Canterbury/ Hotel Bar Restaurant TAB Self-Servic
-Phone=+6433279304
-Data0=(-43.38240,172.65812)
-[END]
-
 ;1119862
 [POI]
 Type=0x2f
@@ -78550,15 +78523,6 @@ Label=SUE TODD ANTIQUES & COLLECTABLES
 StreetDesc=122 Stuart St, Dud/ Antiques, Antique Shop
 Phone=+6434777547
 Data0=(-45.87443,170.50514)
-[END]
-
-;1120491
-[POI]
-Type=0x2e
-Label=THE WOODEN ROSE
-StreetDesc=143 Wlliams St, Kaiapoi, Canterbury/ Antiques, Antique Shop
-Phone=+6433272071
-Data0=(-43.38176,172.65850)
 [END]
 
 ;1120494
@@ -101708,14 +101672,6 @@ StreetDesc=86 Gloucester St, Chc/
 Data0=(-43.53000,172.63461)
 [END]
 
-;1132059
-[POI]
-Type=0x2a
-Label=THE BLUE LAGOON RESTAURANT
-StreetDesc=87 Harbour Rd, Brooklands, Chc/ restaurant
-Data0=(-43.39892,172.70204)
-[END]
-
 ;1132060
 [POI]
 Type=0x2a0e
@@ -105727,10 +105683,10 @@ Data0=(-43.53297,172.64882)
 [POI]
 Type=0x2e09
 Label=CARPET COURT KAIAPOI
-StreetDesc=182 Williams St, Kaiapoi/ Carpets & Flooring
+StreetDesc=98 Williams St, Kaiapoi/ Carpets & Flooring
 Phone=+6433277116
 zip=Mon-Fri 0900-1700, Sat 0930-1200
-Data0=(-43.38235,172.65829)
+Data0=(-43.38753,172.65533)
 [END]
 
 ;1134371
@@ -128398,14 +128354,6 @@ StreetDesc=35 Williams St, Kaiapoi/ Hairdresser
 Data0=(-43.38954,172.65370)
 [END]
 
-;1144752
-[POI]
-Type=0x2a
-Label=BENTLEY'S BAR AND BISTRO
-StreetDesc=52 Charles St, Kaiapoi/ bar, restaurant
-Data0=(-43.38240,172.65915)
-[END]
-
 ;1144753
 [POI]
 Type=0x2f
@@ -128449,14 +128397,6 @@ Phone=+6433100629
 Data0=(-43.29025,172.68456)
 [END]
 
-;1144758
-[POI]
-Type=0x2a07
-Label=BUATHONG THAI TAKEAWAYS
-StreetDesc=135 Williams St, Kaiapoi/ takeaways
-Data0=(-43.38212,172.65781)
-[END]
-
 ;1144759
 [POI]
 Type=0x2f
@@ -128489,14 +128429,6 @@ StreetDesc=1673 Cust Rd, Cust/ Hairdresser
 Data0=(-43.31112,172.38083)
 [END]
 
-;1144764
-[POI]
-Type=0x2f
-Label=CHINOS 186 LTD
-StreetDesc=186 Williams St, Kaiapoi/ 
-Data0=(-43.38228,172.65840)
-[END]
-
 ;1144765
 [POI]
 Type=0x2f
@@ -128507,9 +128439,11 @@ Data0=(-43.28748,172.63161)
 
 ;1144766
 [POI]
-Type=0x2a0e
-Label=CLASSIC CAFE
-StreetDesc=196 High St, Rangiora/ cafe
+Type=0x2f
+Label=BURGER CRAFT
+StreetDesc=196 High St, Rangiora/ Gourmet Burger Joint
+Phone=+6433138388
+zip=Thurs, Fri, Sat 5 - 8 pm
 Data0=(-43.30353,172.59321)
 [END]
 
@@ -128949,14 +128883,6 @@ StreetDesc=2 Johns Rd, Rangiora/
 Data0=(-43.31225,172.59595)
 [END]
 
-;1144821
-[POI]
-Type=0x2a0e
-Label=LITTLE ROOSTER CAFE
-StreetDesc=172 Williams St, Kaiapoi/ cafe
-Data0=(-43.38323,172.65704)
-[END]
-
 ;1144822
 [POI]
 Type=0x2f
@@ -129137,14 +129063,6 @@ StreetDesc=81 Percival St, Rangiora/
 Data0=(-43.31056,172.59501)
 [END]
 
-;1144847
-[POI]
-Type=0x2a0a
-Label=PIZZA PLUS
-StreetDesc=141C Williams St, Kaiapoi/ 
-Data0=(-43.38196,172.65808)
-[END]
-
 ;1144848
 [POI]
 Type=0x2a0e
@@ -129259,14 +129177,6 @@ Type=0x2e
 Label=RED & BLACK DAIRY
 StreetDesc=111 Williams St, Kaiapoi/ dairy, superette, convenience store
 Data0=(-43.38370,172.65650)
-[END]
-
-;1144862
-[POI]
-Type=0x2f
-Label=RENEGADE HAIR DESIGN
-StreetDesc=42 Charles St, Kaiapoi/ Hairdresser
-Data0=(-43.38152,172.65818)
 [END]
 
 ;1144864
@@ -129444,14 +129354,6 @@ StreetDesc=79B Main North Rd, Woodend/ cafe
 Data0=(-43.32116,172.66535)
 [END]
 
-;1144885
-[POI]
-Type=0x2a
-Label=TEPPANYAKI TAKAO JAPANESE RESTAURANT
-StreetDesc=Riverside Shopping Ctr, 52 Charles St, Kaiapoi/ restaurant
-Data0=(-43.38240,172.65915)
-[END]
-
 ;1144886
 [POI]
 Type=0x2a0e
@@ -129577,14 +129479,6 @@ Label=VIDEO EZY RANGIORA
 StreetDesc=75 Victoria St, Rangiora/ videos, dvd & game rentals
 Phone=+6433107719
 Data0=(-43.30422,172.59515)
-[END]
-
-;1144903
-[POI]
-Type=0x2a07
-Label=VINNIES FISH N' CHIPS
-StreetDesc=133 Williams St, Kaiapoi/ Fish and chips, takeaways
-Data0=(-43.38216,172.65775)
 [END]
 
 ;1144904
@@ -129720,8 +129614,9 @@ Data0=(-43.39971,172.65864)
 [POI]
 Type=0x2f
 Label=YUMWOK COMPANY LTD
-StreetDesc=52C Charles St, Kaiapoi/ 
-Data0=(-43.38240,172.65915)
+StreetDesc=61 Williams St, Kaiapoi/ 
+Phone=+6433277976
+Data0=(-43.38721,172.65490)
 [END]
 
 ;1145217
@@ -195931,7 +195826,7 @@ Data0=(-43.30336,172.59572)
 [POI]
 Type=0x2f
 Label=GRACE REMOVALS GROUP CHRISTCHURCH
-StreetDesc=88 Carmen Rd, Hornby, Chc/ Local and international removal specialists
+StreetDesc=88 Carmen Rd, Hornby 8042/ 
 Phone=+6433446164
 Data0=(-43.53590,172.52965)
 [END]
@@ -207924,5 +207819,43 @@ Label=WHITCOULLS REMARKABLES PARK QUEENSTOWN
 StreetDesc=Remarkable Park Town Ctr, 12 Hawthorne Dr, Frankton, Queenstown/ Books, magazine
 Phone=+6439010100
 Data0=(-45.02756,168.74386)
+[END]
+
+;1197022
+[POI]
+Type=0x2f
+Label=?GLOBAL GOURMETS
+StreetDesc=9/27 Waterman Place, Ferrymead Chc./ Global Gourmets connects travelers that lov
+Phone=+6433770803
+Data0=(-43.55584,172.69687)
+[END]
+
+;1197024
+[POI]
+Type=0x2f
+Label=IMMIGRATION LAWYER - SIMON GRAHAM
+StreetDesc=88 Holly rd, St Albans, Chc/ Immigration lawyer to help assist with work visa, s
+Phone=+6433793880
+zip=8.30am - 5pm
+Data0=(-43.51629,172.63138)
+[END]
+
+;1197035
+[POI]
+Type=0x2e07
+Label=EBONY BOUTIQUE HORNBY
+StreetDesc=Shop 404 Dressmart, 411 Main South Rd, Hornby, Chc/ Ladies clothing, fashion
+Phone=+6433499909
+Data0=(-43.54391,172.52425)
+[END]
+
+;1197049
+[POI]
+Type=0x2a0e
+Label=CAFE CREMA
+StreetDesc=196 High St, Rangiora/ Cafe & Coffee Roastery
+Phone=+6433138388
+zip=8:30 - 4:00
+Data0=(-43.30358,172.59317)
 [END]
 

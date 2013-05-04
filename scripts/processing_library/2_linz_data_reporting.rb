@@ -77,7 +77,7 @@ def post_processing()
   
   @reporting_file.print "#############################\n\n"
   
-  in_nzogps_but_missing_from_linz = @nzogps_file_ids.keys - @linz_file_ids.keys - @paper_road_ids.keys
+  in_nzogps_but_missing_from_linz = @nzogps_file_ids.keys - @linz_file_ids.keys - @paper_road_ids.keys - ["0"]
   print "#{in_nzogps_but_missing_from_linz.size} LINZ ids are in NZOGPS #{@tile} but missing from LINZ\n"
   @reporting_file.print "#{in_nzogps_but_missing_from_linz.size} LINZ ids are in NZOGPS #{@tile} but missing from LINZ\n"
   

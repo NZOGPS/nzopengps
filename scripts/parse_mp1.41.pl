@@ -1,5 +1,5 @@
 use strict;
-use feature "switch";
+use feature qw "switch say";
 use File::Basename;
 use Cwd;
 use Getopt::Std;
@@ -11,6 +11,7 @@ my $basesuff;
 my $paperdir = "PaperRoads";
 my $linzpaper = "LinzDataService\\$paperdir";
 my $nzogps = "nzopengps";
+my $maxlbl = 3;
 my $comment;
 my @roads;
 my @namesnot2index;
@@ -20,13 +21,13 @@ my $byid;
 my %papernumbers;
 
 my %debug = (
-	nothing => 1,
-	overlaperr    => 0,
-	olcheck       => 0,
-	ol1numtype    => 0,
-	readpapernums => 0,
-	unnumbered    => 0,
-	addnode       => 0,
+	sbid			=> 0,
+	overlaperr  	  	=> 0,
+	olcheck			=> 0,
+	ol1numtype		=> 0,
+	readpapernums	=> 0,
+	unnumbered		=> 0,
+	addnode		=> 0,
 );
 
 my %cmdopts=();
@@ -182,83 +183,6 @@ sub do_polyline{
 sub do_poi {
 }
 
-sub id_check {
-	my $road;
-	my $cmt;
-	my @lines;
-	my $line;
-	my $autonum;
-	my $ancnt;
-	my $noancnt;
-	
-	print "Check for valid sufis/linzids...\n";
-	for $road (@roads) {
-		$cmt = $$road[0];
-		@lines = split/\n/,$cmt;
-		$autonum = 0;
-		for $line (@lines){
-#			print "comment line is: $line\n";
-
-			if ($line=~/sufi([23]?)=(\d+)/) {
-				my $i = $1?$1-1:0;
-				if ($$road[8][$i]==-1){
-					$$road[8][$i]=$2;
-				} else {
-					if ($2==$$road[8][$i]){
-						print "Warning: multiple copies of same sufi${1}\n";
-					} else {
-						print " * Error: multiple sufi${1}s $2,$$road[8][$i]\n";
-					}
-					dump_id2($road,0,-1);
-					print "\n";
-				}
-			}
-			else {
-				if ($line=~/sufi=(\d+)/i) {
-					print "Warning: odd sufi capitalisation: $line\n";
-					dump_id2($road,0,-1);
-					print "\n";
-				}
-			}
-
-			if ($line=~/^linzid([23]?)=(\d+)/) {
-				my $i = $1?$1-1:0;
-				if ($$road[18][$i]==-1){
-					$$road[18][$i]=$2;
-				} else {
-					if ($2==$$road[18][$i]){
-						print "Warning: multiple copies of same linzid${1}\n";
-					} else {
-						print " * Error: multiple linzid${1}s $2,$$road[18][$i]\n";
-					}
-					dump_id2($road,0,-1);
-					print "\n";
-				}
-			}
-			else {
-				if ($line=~/linzid=/i) {
-					print "Warning: odd linzid capitalisation: $line\n";
-					dump_id2($road,0,-1);
-					print "\n";
-				}
-			}
-
-			if ($line=~/Auto-numbered=(\d+)/){
-				if ($$road[17]==-1){
-					$$road[17]=$1;
-					$autonum = 1;
-				} else {
-					print "Warning: multiple Autonumber lines\n";
-					dump_id2($road,0,-1);
-				}
-			}
-		}
-		$autonum ? $ancnt++ : $noancnt++;
-	}
-	print sprintf "%s roads autonumbered, %s roads manually numbered.\n", $ancnt ? $ancnt : "No", $noancnt ? $noancnt : "no";
-}
-
-
 sub dump_id2 {
 	my $ridptr = shift;
 	my $nodno = shift;
@@ -285,6 +209,192 @@ sub dump_id2 {
 		print "Road is $roadname, Line $road[7], Coords are $x[$nodno],$y[$nodno] and\t$x[$nodn2],$y[$nodn2]\n";
 	}
 }
+
+
+sub id_check {
+	my $road;
+	my $cmt;
+	my @lines;
+	my $line;
+	my $autonum;
+	my $ancnt;
+	my $noancnt;
+	my $i;
+	
+	# parse comments, and...
+	print "Check for valid sufis/linzids...\n";
+	for $road (@roads) {
+		$cmt = $$road[0];
+		@lines = split/\n/,$cmt;
+		$autonum = 0;
+		for $line (@lines){
+#			print "comment line is: $line\n";
+
+			if ($line=~/^sufi([23]?)=(\d+)/) {
+				my $i = $1?$1-1:0;
+				if ($$road[8][$i]==-1){
+					$$road[8][$i]=$2;
+				} else {
+					if ($2==$$road[8][$i]){
+						print "Warning: multiple copies of same sufi${1}\n";
+					} else {
+						print " * Error: multiple sufi${1}s $2,$$road[8][$i]\n";
+					}
+					dump_id2($road,0,-1);
+					print "\n";
+				}
+			}
+			else {
+				if ($line=~/sufi=/i) {
+					print "Warning: odd sufi definition: $line\n";
+					dump_id2($road,0,-1);
+					print "\n";
+				}
+			}
+
+			if ($line=~/^linzid([23]?)=(\d+)/) {
+				my $i = $1?$1-1:0;
+				if ($$road[18][$i]==-1){
+					$$road[18][$i]=$2;
+				} else {
+					if ($2==$$road[18][$i]){
+						print "Warning: multiple copies of same linzid${1}\n";
+					} else {
+						print " * Error: multiple linzid${1}s $2,$$road[18][$i]\n";
+					}
+					dump_id2($road,0,-1);
+					print "\n";
+				}
+			}
+			else {
+				if ($line=~/linzid=/i) {
+					print "Warning: odd linzid definition: $line\n";
+					dump_id2($road,0,-1);
+					print "\n";
+				}
+			}
+
+			if ($line=~/Auto-numbered=(\d+)/){
+				if ($$road[17]==-1){
+					$$road[17]=$1;
+					$autonum = 1;
+				} else {
+					print "Warning: multiple Autonumber lines\n";
+					dump_id2($road,0,-1);
+				}
+			}
+		}
+
+		if ($$road[18][0]==-1){
+			for $i (2..$maxlbl){
+				if ($$road[18][$i-1]!=-1){
+					print "Warning: linzid$i is set, but linzid is not\n";
+					dump_id2($road,0,-1);
+				}
+			}
+		}
+
+		if ($$road[8][0]==-1){
+			for $i (2..$maxlbl){
+				if ($$road[8][$i-1]!=-1){
+					print "Warning: sufi$i is set, but sufi is not\n";
+					dump_id2($road,0,-1);
+				}
+			}
+		}
+
+		$autonum ? $ancnt++ : $noancnt++;
+	}
+	print sprintf "%s roads autonumbered, %s roads manually numbered.\n", $ancnt ? $ancnt : "No", $noancnt ? $noancnt : "no";
+}
+
+sub sort_by_id {
+	#must call id_check first to populate sufi & linzid field
+	my $sufi;
+	my $linzid;
+	my $idn;
+	my $i = 0;
+	
+	if ($debug{'sbid'}){print "Sort By ID\n"};
+	for my $road (@roads) {
+		for $idn (0..$maxlbl-1){
+			$sufi = $$road[8][$idn];
+			$linzid = $$road[18][$idn];
+			if (($idn = 0) || ($sufi!=-1)){ 
+				if (exists($bysufi{$sufi})){
+					if ($debug{'sbid'}){print "in sbid - another road for sufi $sufi\n"}
+					push(@{$bysufi{$sufi}},[$i,$idn]);
+				} else {
+					if ($debug{'sbid'}){print "in sbid - new sufi $sufi\n"};
+					$bysufi{$sufi}[0]=[$i,$idn];
+				}
+			}
+			if (($idn = 0) || ($linzid!=-1)){ 
+				if (exists($bylinzid{$linzid})){
+					if ($debug{'sbid'}){print "in sbid - another road for linzid $linzid\n"};
+				push(@{$bylinzid{$linzid}},[$i,$idn]);
+				} else {
+					if ($debug{'sbid'}){print "in sbid - new linzid $linzid\n"};
+					$bylinzid{$linzid}[0]=[$i,$idn];
+				}
+			}
+		}
+		$i++;
+	}
+}
+
+
+sub nosufiset {
+	my $dec;
+	
+	print "Check for roads with no sufi set:\n";
+	if ( exists($bysufi{-1})){
+		my @nosufi = @{$bysufi{-1}};
+		for my $j (@nosufi){
+			$dec = oct(${$roads[$j->[0]]}[1]);
+			if ( $dec <= oct("0xC")) {	#<+roundabout
+				if ( ${$roads[$j->[0]]}[2][0] ne "") {
+					print "Type is ${$roads[$j->[0]]}[1]/$roadtype{$dec}, ";
+					dump_id2($roads[$j->[0]],0,-1);
+				}
+			}
+		}
+	} else {
+		print "None found\n";
+	}
+}
+
+
+sub nolinzidset {
+	my $dec;
+	
+	print "Check for roads with no linzid set:\n";
+	if ( exists($bylinzid{-1})){
+		my @nolinzid = @{$bylinzid{-1}};
+		for my $j (@nolinzid){
+			$dec = oct(${$roads[$j->[0]]}[1]);
+			if ( $dec <= oct("0xC")) {	#<+roundabout
+				if ( ${$roads[$j->[0]]}[2][0] ne "") {
+					print "Type is ${$roads[$j->[0]]}[1]/$roadtype{$dec}, ";
+					dump_id2($roads[$j->[0]],0,-1);
+				}
+			}
+		}
+	} else {
+		print "None found\n";
+	}
+}
+
+
+sub dump_by_id{
+	while( my( $key, $value ) = each( %{$byid} ) ) {
+		for my $j (@$value){
+			print "$key is - $j->[0] - ${$roads[$j->[0]]}[2][0] ${$roads[$j->[0]]}[5]\n";
+		}
+		print "\n";
+	}
+}
+
 
 
 sub overlap_err{
@@ -493,11 +603,14 @@ sub overlap_check {
 	
 	print "Check for overlaps on number ranges...\n";
 	if ($debug{'olcheck'}){print "*** Overlap_Check ***\n"};
-	while( my( $idval, $roadlsta ) = each( %{$byid} ) ) { # for each id
+	while( my( $idval, $roadlstp ) = each( %{$byid} ) ) { # for each id
 		my %numset;	# scoped in loop to clear for each new road
-
+		
+		if ($debug{'olcheck'}){print "overlap_check: id = $idval\n"};
 		next if $idval == 0 || $idval == -1;	# ignore sufi=0 and no sufi roads
-		for my $j (@$roadlsta){ #for each road of this id
+		for my $jp (@$roadlstp){ #for each road of this id
+			my $j = $jp->[0];
+			if ($debug{'olcheck'}){print "overlap_check: j = $j\n"};
 			$road = $roads[$j];			
 			if ($debug{'olcheck'}){print "overlap_check - Road: ${$road}[2], RoadID: ${$road}[5]\n"}
 			$rid = $$road[5];
@@ -617,85 +730,6 @@ sub odd_even_zero_check {
 }
 
 
-sub sort_by_id {
-	#must call id_check first to populate sufi & linzid field
-	my $sufi;
-	my $linzid;
-	my $i = 0;
-	
-	for my $road (@roads) {
-		$sufi = $$road[8][0];
-		$linzid = $$road[18][0];
-		if (exists($bysufi{$sufi})){
-#			print "in sbid - another road for sufi $sufi\n";
-			push(@{$bysufi{$sufi}},$i);
-		} else {
-#			print "in sbid - new sufi $sufi\n";
-			$bysufi{$sufi}=[$i];
-		}
-		if (exists($bylinzid{$linzid})){
-#			print "in sbid - another road for linzid $linzid\n";
-			push(@{$bylinzid{$linzid}},$i);
-		} else {
-#			print "in sbid - new linzid $linzid\n";
-			$bylinzid{$linzid}=[$i];
-		}
-		$i++;
-	}
-}
-
-
-sub nosufiset {
-	my $dec;
-	
-	print "Check for roads with no sufi set:\n";
-	if ( exists($bysufi{-1})){
-		my @nosufi = @{$bysufi{-1}};
-		for my $j (@nosufi){
-			$dec = oct(${$roads[$j]}[1]);
-			if ( $dec <= oct("0xC")) {	#<+roundabout
-				if ( ${$roads[$j]}[2][0] ne "") {
-					print "Type is ${$roads[$j]}[1]/$roadtype{$dec}, ";
-					dump_id2($roads[$j],0,-1);
-				}
-			}
-		}
-	} else {
-		print "None found\n";
-	}
-}
-
-
-sub nolinzidset {
-	my $dec;
-	
-	print "Check for roads with no linzid set:\n";
-	if ( exists($bylinzid{-1})){
-		my @nolinzid = @{$bylinzid{-1}};
-		for my $j (@nolinzid){
-			$dec = oct(${$roads[$j]}[1]);
-			if ( $dec <= oct("0xC")) {	#<+roundabout
-				if ( ${$roads[$j]}[2][0] ne "") {
-					print "Type is ${$roads[$j]}[1]/$roadtype{$dec}, ";
-					dump_id2($roads[$j],0,-1);
-				}
-			}
-		}
-	} else {
-		print "None found\n";
-	}
-}
-
-
-sub dump_by_id{
-	while( my( $key, $value ) = each( %{$byid} ) ) {
-		for my $j (@$value){
-			print "$key is - $j - ${$roads[$j]}[2][0] ${$roads[$j]}[5]\n";
-		}
-		print "\n";
-	}
-}
-
 
 sub routing_check {
 	my @routeprm;
@@ -773,20 +807,17 @@ sub dump_by_roadid {
 		my $anum;
 		my @nods; 
 		my $i;
-		my @id;
+		my $id;
 		
-		@id = $cmdopts{l} ? $$_[18] : $$_[8];
-#		print "checking id $id[0][0]\n";
-		if ($all or ($id[0][0] == $rid)){
+		$id = $cmdopts{l} ? $$_[18] : $$_[8];
+		my @slice =($id->[0],$id->[1],$id->[2]);
+#		for $i (@slice){ print "element is $i\n";};
+		if ($all or ( grep /$rid/,@slice)){
 			print "\{\n";
-				print "\tComment:\n";
-				for ( split/\n/,$$_[0]){
-					print "\t\t$_\n";
-				}
 				print "\tType:     $$_[1]\n";
 				print "\tLabel:    $$_[2][0]\n";
 				for $i(2..3) {
-					if ($$_[2][$i-1]>=0){
+					if ($$_[2][$i-1]ne""){
 						print "\tLabel$i:   $$_[2][$i-1]\n";
 					}
 				}	
@@ -801,14 +832,18 @@ sub dump_by_roadid {
 						print "\tsufi$i:    $$_[8][$i-1]\n";
 					}
 				}	
-				print "\tlinzid:   $$_[8][0]\n";
+				print "\tlinzid:   $$_[18][0]\n";
 				for $i(2..3) {
-					if ($$_[18][$i-1]){
-						print "\tlinzid$i:   $$_[18][$i-1]\n";
+					if ($$_[18][$i-1]>=0){
+						print "\tlinzid$i:  $$_[18][$i-1]\n";
 					}
 				}	
 				print "\tNumnum:   $$_[14]\n";
 				print "\tDirindic: $$_[16]\n";
+				print "\tComment:\n";
+				for ( split/\n/,$$_[0]){
+					print "\t\t$_\n";
+				}
 				print "\tData:\n";
 					@x = @{$$_[9]};
 					@y = @{$$_[10]};
@@ -1038,15 +1073,16 @@ sub numbered_id0 {
 		my @id0 = @{${$byid}{0}};
 		for $i (@id0){
 			$isnum = -1;
-			$dec = oct(${$roads[$i]}[1]);
+		#	print "numbered_id0 - i is @id0[0..6]\n";
+			$dec = oct(${$roads[$i->[0]]}[1]);
 			if ( $dec <= oct("0xC")) {	#<+roundabout
-				$numptr = ${$roads[$i]}[11];
+				$numptr = ${$roads[$i->[0]]}[11];
 				if ( @{$numptr} ) {
 					for (@{$numptr}) {
 						if (${$_}[1] ne "N" or ${$_}[4] ne "N"){ $isnum = ${$_}[0] }
 						if ($isnum >= 0){
-							print "Type is ${$roads[$i]}[1]/$roadtype{$dec}, ";
-							dump_id2($roads[$i],$isnum,-1);
+							print "Type is ${$roads[$i->[0]]}[1]/$roadtype{$dec}, ";
+							dump_id2($roads[$i->[0]],$isnum,-1);
 						}
 					}
 				}
@@ -1302,7 +1338,7 @@ sub findnumberinseg {
 sub check_for_number_present{
 	my $onerdid;
 	my $number;
-	my $rdsegno;
+	my $rdsegptr;
 	my $numseg;
 	my @numa;
 	my $missnum;
@@ -1351,9 +1387,9 @@ sub check_for_number_present{
 			$manual = 0;
 			
 			NUM: for $number ( sort {$a <=> $b} keys %{$x{$onerdid}}){
-				for $rdsegno (@{$byid->{$onerdid}}){
-					if ($roads[$rdsegno][17]==-1) {$manual = 1};
-					for $numseg( @{$roads[$rdsegno][11]} ){
+				for $rdsegptr (@{$byid->{$onerdid}}){
+					if ($roads[$rdsegptr->[0]][17]==-1) {$manual = 1};
+					for $numseg( @{$roads[$rdsegptr->[0]][11]} ){
 						next NUM if findnumberinseg($number,@{$numseg}[1..3]);
 						next NUM if findnumberinseg($number,@{$numseg}[4..6]);
 					}
@@ -1434,7 +1470,8 @@ sort_by_id;
 
 #dump_by_roadid;
 #dump_by_roadid(52131);
-dump_by_roadid(11883);
+#dump_by_roadid(15441); #parkinson - canterbury
+#dump_by_roadid(11883); #simpson/lakeside - canterbury
 
 if ($cmdopts{l}) {
 	print "Using LINZ Ids\n";

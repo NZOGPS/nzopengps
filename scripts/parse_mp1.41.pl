@@ -1412,7 +1412,10 @@ sub check_for_number_present{
 			}
 		} 
 	}
-	print "$missnum missing numbers on $missid roads\n";
+	print $missnum?$missnum:"No";
+	print " missing number";
+	print $missnum!=1?"s ":" ";
+	print $missnum?("on $missid road",$missid!=1?"s\n":"\n"):"YAY!!!\n";
 }
 
 ##### Main program starts...
@@ -1422,7 +1425,7 @@ if (!($cmdopts{s} or $cmdopts{l})){
 	$cmdopts{l}=1;
 }
 
-die "Under development - do not use!" unless $cmdopts{x};
+# die "Under development - do not use!" unless $cmdopts{x};
 
 die "No filename specified" if ($ARGV[0] eq "");
 ($basefile, $basedir, $basesuff) = fileparse($ARGV[0],qr/\.[^.]*/);

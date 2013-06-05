@@ -8039,7 +8039,7 @@ Data0=(-46.40874,168.35481)
 Type=0x2e02
 Label=COUNTDOWN INVERCARGILL
 StreetDesc=172 Tay St, Invercargill/ supermarket, Lotto
-Phone=+6432186716
+Phone=+6432113100
 zip=Mon - Sun, 8am - midnight
 Data0=(-46.41245,168.35792)
 [END]
@@ -99459,7 +99459,7 @@ Type=0x2a
 Label=?PEPPERONI
 StreetDesc=Madras St, Chc (Opp. Polytech)/ Italian-inspired restaurant and cafe
 Phone=+6433772726
-zip=Mon-Fri 10am-Late, Sat 5pm-Late, Sun Clo
+zip=Open 7 days from 5pm until close, Closed
 Data0=(-43.53850,172.64212)
 [END]
 
@@ -111640,7 +111640,7 @@ Type=0x2d02
 Label=REEFTON HOTEL
 StreetDesc=75 Broadway, Reefton/ Bar, TAB outlet
 Phone=+6437328447
-Data0=(-42.11976,171.86475)
+Data0=(-42.11966,171.86404)
 [END]
 
 ;1137667
@@ -136558,8 +136558,8 @@ Data0=(-45.89629,170.47909)
 ;1150417
 [POI]
 Type=0x2f08
-Label=INTERCITY & RITCHIES TERMINAL, DUNEDIN
-StreetDesc=205 St Andrew St, Dud, Otago 9016/ intercity ritchies bus
+Label=INTERCITY TRAVEL CENTRE DUNEDIN
+StreetDesc=7 Halsey St, Dud, Otago 9016/ intercity, dunedin, bus, ritchies,
 Phone=+6434717143
 Data0=(-45.87311,170.50974)
 [END]
@@ -146531,7 +146531,7 @@ Type=0x2b01
 Label=BELLBIRD MOTEL
 StreetDesc=93 Broadway, Reefton/ Motel accommodation
 Phone=+6437328444
-Data0=(-42.11967,171.86260)
+Data0=(-42.11959,171.86275)
 [END]
 
 ;1155718
@@ -160864,6 +160864,15 @@ zip=10am - 4pm 7 Days - Summer
 Data0=(-41.52911,173.79626)
 [END]
 
+;1164413
+[POI]
+Type=0x2f
+Label=BABY ON THE MOVE HEAD OFFICE
+StreetDesc=4 Sterling Way, Stoke, Nelson/ Baby On The Move are specialists in the rental an
+Phone=+6435472244
+Data0=(-41.32180,173.21988)
+[END]
+
 ;1164419
 [POI]
 Type=0x2e
@@ -163113,14 +163122,6 @@ Type=0x2f
 Label=B M CRAIG & ASSOCIATES
 StreetDesc=8 Latimer Sq, Chc/ 
 Data0=(-43.53161,172.64349)
-[END]
-
-;1165694
-[POI]
-Type=0x2f
-Label=BABY MOVES TREATMENT CENTRE
-StreetDesc=180 Atawhai Dr, Nelson/ 
-Data0=(-41.25793,173.30024)
 [END]
 
 ;1165697
@@ -168321,6 +168322,8 @@ Data0=(-43.52955,172.60121)
 Type=0x2f
 Label=MOORHOUSE MEDICAL CENTRE
 StreetDesc=3 Pilgrim Place, Chc/ 
+Phone=+6433657900
+zip=8am to 8pm 7 days
 Data0=(-43.54072,172.63971)
 [END]
 
@@ -184041,7 +184044,7 @@ Data0=(-44.33025,169.61315)
 [POI]
 Type=0x2a
 Label=THE LITTLE BISTRO
-StreetDesc=33 Rue Lauvaud, Akaroa/ Restaurant, Bistro
+StreetDesc=33a Rue Lauvaud, Akaroa/ Restaurant, Bistro
 Phone=+6433047314
 zip=Wed-Sun 6pm-late
 Data0=(-43.80278,172.96899)
@@ -184367,8 +184370,8 @@ Data0=(-43.53993,172.63665)
 
 ;1174749
 [POI]
-Type=0x2b00
-Label=161 THE HEREFORD
+Type=0x2b01
+Label=161 HEREFORD SUITES
 StreetDesc=161 Hereford St, Chc/ 5 star luxury suites and apartment accommodation
 Phone=+6439689101
 Data0=(-43.53192,172.63882)
@@ -185997,7 +186000,7 @@ Data0=(-43.54585,172.59635)
 Type=0x2f03
 Label=SHEPHERD & KIME LTD
 StreetDesc=35 Sheffield Cres, Harewood/ Panelbeaters
-Phone=+6433660663
+Phone=+6433484448
 Data0=(-43.48922,172.56203)
 [END]
 
@@ -192378,11 +192381,11 @@ Data0=(-44.69598,169.13498)
 
 ;1179732
 [POI]
-Type=0x2e
+Type=0x2e07
 Label=BIG TUMS LITTLE BUMS
-StreetDesc=Spencer House Mall, 31 Dunmore St, Wanaka/ Toys
+StreetDesc=68 Ardmore St, Wanaka/ Kids clothing, toys, baby gear
 Phone=+6434432340
-Data0=(-44.69633,169.13430)
+Data0=(-44.69373,169.13739)
 [END]
 
 ;1179735
@@ -205258,15 +205261,6 @@ Phone=+6433738100
 Data0=(-43.54256,172.58884)
 [END]
 
-;1193545
-[POI]
-Type=0x2f
-Label=?PHIL BUTLER EMPLOYMENT LAW
-StreetDesc=PO Box 158, Chc/ Along with employment lawyers, we provide specialist advice on 
-Phone=+6433652150
-Data0=(-43.53205,172.63622)
-[END]
-
 ;1194897
 [POI]
 Type=0x2f
@@ -208189,5 +208183,101 @@ StreetDesc=17 Main st, Otautau, Southland New Zealand./ Jet boating,Adventure,Fi
 Phone=+6406432258
 zip=On Demand all year round.
 Data0=(-46.15301,168.00501)
+[END]
+
+;1198325
+[POI]
+Type=0x2a
+Label=MEDIAN CAFE
+StreetDesc=32, clyde st, Balclutha 9230/ Kebab Shop
+zip=11 00 AM TO 10 00 PM
+Data0=(-46.23765,169.74005)
+[END]
+
+;1198331
+[POI]
+Type=0x2f
+Label=ALEX CUNNINGHAM QS LTD
+StreetDesc=10 Arena Ave, Invercargill/ Invercargill Quantity Surveyor
+Data0=(-46.40508,168.34330)
+[END]
+
+;1198336
+[POI]
+Type=0x2f
+Label=GREEN DOG INSULATION
+StreetDesc=Green Dog House 36 Tanya St Bromley Chc 8062/ Making your home healthy, warm and
+Phone=+6433849001
+zip=Mon-Fri 8am-6pm
+Data0=(-43.54003,172.69693)
+[END]
+
+;1198339
+[POI]
+Type=0x2f
+Label=WORLDWISE TRAVELLERS HEALTH CHRISTCHURCH
+StreetDesc=Moorhouse Medical Ctr 3 Pilgrim Place, Chc/ Travellers health and vaccination ce
+Phone=+6433657900
+Data0=(-43.54070,172.63968)
+[END]
+
+;1198342
+[POI]
+Type=0x2e
+Label=BABY ON THE MOVE NELSON
+StreetDesc=4 Akersten St, Port Nelson, Nelson/ Baby On The Move are specialists in the rent
+Phone=+6435472555
+Data0=(-41.26554,173.27902)
+[END]
+
+;1198350
+[POI]
+Type=0x2e
+Label=BABY ON THE MOVE WAINONI CHRISTCHURCH
+StreetDesc=34 Cuffs Rd, Wainoni, Chc/ Baby On The Move are specialists in the rental and sa
+Phone=+6433897066
+Data0=(-43.52037,172.68423)
+[END]
+
+;1198351
+[POI]
+Type=0x2e
+Label=BABY ON THE MOVE ST ALBANS CHRISTCHURCH
+StreetDesc=192 Cranford St, St Albans, Chc/ Baby On The Move are specialists in the rental 
+Phone=+6439609752
+Data0=(-43.50475,172.63517)
+[END]
+
+;1198352
+[POI]
+Type=0x2e
+Label=BABY ON THE MOVE DUNEDIN
+StreetDesc=126 Kaikorai Valley Rd, Dud/ Baby On The Move are specialists in the rental and 
+Phone=+6434762222
+Data0=(-45.86763,170.47837)
+[END]
+
+;1200011
+[POI]
+Type=0x2c04
+Label=RUNANGA MINERS' HALL (FORMER)
+StreetDesc=Mills St and McGowan St, RUNANGA/ Historic Place: Category 1
+Data0=(-42.40044,171.25131)
+[END]
+
+;1200012
+[POI]
+Type=0x2c04
+Label=?TUAPEKA MOUTH PUNT AND JETTY
+StreetDesc=Clutha River Rd and Ferry Rd, Clutha River, TUAPEKA MOUTH/ Historic Place: Categ
+Data0=(-46.04252,169.49734)
+[END]
+
+;1200013
+[POI]
+Type=0x2c04
+Label=?BLACK HORSE BREWERY SITE
+StreetDesc=Wetherstons Rd, Gabriels Gully 9591, New Zealand/ Historic Place: Category 1
+Data0=(-45.89655,169.70581)
 [END]
 

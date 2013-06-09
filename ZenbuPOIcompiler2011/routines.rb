@@ -23,12 +23,12 @@ def preloadZenbuFile(path)
 		print "EXITING! File not found at #{path}\n"
 		exit
 	end
-	
+
 	CSV.foreach(path, {:encoding => 'UTF-8', :headers => true}) do |row|
-#zid,name,tags,website,physical_address,phone,opening_hours,longitude,latitude,gisprecision,correctly_placed,created_at,updated_at,updated_by,version,facebook_page,categories	
+#zid,name,tags,website,physical_address,phone,opening_hours,longitude,latitude,gisprecision,correctly_placed,created_at,updated_at,updated_by,version,facebook_page,categories
 	  @masterZenbuDataHash[row['zid']] = row
 	end
-	
+
 	print "#{@masterZenbuDataHash.size} entries\n"
 end
 
@@ -40,7 +40,7 @@ def fix_special_chars(s)
 
 	begin
 		return s.encode("ISO-8859-1")
-	rescue Exception => e  
+	rescue Exception => e
     return s
 	end
 
@@ -52,7 +52,7 @@ def processMPpoint(zid,poitypecode)
 # zid,name,tags,website,physical_address,phone,opening_hours,longitude,latitude,gisprecision,correctly_placed,created_at,updated_at,updated_by
 
 begin
-	
+
 	if !@masterZenbuDataHash.has_key?(zid)
 		# p "#{zid} not in data file\n"
 		return
@@ -61,36 +61,36 @@ begin
 	label = @masterZenbuDataHash[zid]['name']||''
 	label = fix_special_chars(label)
 	label = label.slice(0,80) #only first 80 characters allowed, Garmin limitation
-	
+
 	tags = @masterZenbuDataHash[zid]['tags']||''
 	tags = fix_special_chars(tags)
-	
+
 	website = @masterZenbuDataHash[zid]['website']||''
 	phone = tidyPhoneNumber(zid,@masterZenbuDataHash[zid]['phone'])
-	
+
 	opening = @masterZenbuDataHash[zid]['opening_hours']||''
 	opening = fix_special_chars(opening)
-	
+
 	#some customised markup for particular local entries
 	label = processPOITypeSpecificRules(label,tags,website,poitypecode,opening)
-	
+
 	address = @masterZenbuDataHash[zid]['physical_address']||''
 	address = processStandardAddressAbbreviations(address)
-	
+
 	longitude = @masterZenbuDataHash[zid]['longitude']
 	if longitude == "0.0" then return end
 	longitude = sprintf("%.5f",longitude)
 	latitude = @masterZenbuDataHash[zid]['latitude']
 	if latitude == "0.0" then return end
 	latitude = sprintf("%.5f",latitude)
-	
+
 #NZ CUSTOMISED
 # let's also skip the Chatham Islands POIs, technically NZ but no use for us (and anything else outside standard NZ lon/lat)
 # Chatham Islands points have long of -176 (correctly displays in google maps...)
 # range long in linz is 166.71 to 178.55
 # range lat in linz is -46 to -34 - but Stewart Island is at 47.32
 #	if latitude.to_f < -47.32 || latitude.to_f > -34 || longitude.to_f < 166 || longitude.to_f > 179 then return end
-	
+
 	# look for black, orange, blue markers
 	correctly_placed = @masterZenbuDataHash[zid]['correctly_placed']
  	if correctly_placed == '1' then #black marker
@@ -116,12 +116,12 @@ elsif latitude.to_f <  -40.4 && longitude.to_f < -173 && longitude.to_f > -178 t
 else mpfileoutref = @mpfileoutA end
 	streetdesc = "#{address}/ #{tags}"
 	streetdesc = streetdesc.slice(0,80)
-	
+
 	# zip_hours always in UPCASE and seems to truncate streetdesc
 	zip_hours = "#{opening}"
 	#zip_hours = zip_hours.slice(0,80)
 	zip_hours = zip_hours.slice(0,40) #trying smaller slot for hours to stop it truncating streetdesc
-	
+
 mpfileoutref.print <<POIEND
 ;#{zid}
 [POI]
@@ -152,9 +152,9 @@ def tidyPhoneNumber(zid,phonenumber)
 #format phone numbers in Garmin friendly way - leading country code, nothing but numbers
 
 	if phonenumber.nil? || phonenumber.empty? then return "" end
-		
+
 	#attempt to fix some common cases
-	
+
 	if phonenumber =~ /(.*)\s\bor\b/i then #if the number contains the text ' or ' then try to grab the 1st number on left hand side of 'or'
 		#print "Phone OR #{zid} #{phonenumber} #{$1}\n"
 		phonenumber = $1
@@ -165,7 +165,7 @@ def tidyPhoneNumber(zid,phonenumber)
 		phonenumber = $1
 	end
 	phonenumber = phonenumber.gsub(/[^\d\w]/,'')
-	
+
 	#NZ CUSTOMISED
 	if phonenumber =~ /^(0800|0508|0900)/ then
 		#freephone, do nothing
@@ -187,21 +187,24 @@ def processPOITypeSpecificRules(label,tags,website,poitypecode,opening)
 
   case poitypecode
   when "0x2f01" # petrol stations 0x2f01.txt
-  
+
   	#make sure garage names have the brand in the name for easy identification
   	if website =~ /\.Bp\./i && label !~ /^BP/i then
   	  label = "BP " + label
   	end
-  	if website =~ /\.Shell\./i && label !~ /^Shell/i then
-  	  label = "Shell " + label
+  	if website =~ /\.z\./i && label !~ /^z/i then
+  	  label = "Z " + label
   	end
-  	if website =~ /\.Mobil\./i && label !~ /^Mobil/i then
-  	  label = "Mobil " + label
-  	end
+    if website =~ /\.Mobil\./i && label !~ /^Mobil/i then
+      label = "Mobil " + label
+    end
+    if website =~ /\.gasolinealley\./i && label !~ /^GAS /i then
+      label = "GAS " + label
+    end
   	if website =~ /\.Caltex\./i && label !~ /^Caltex/i then
   	  label = "Caltex " + label
   	end
-  	
+
   when "0x2f06" # banks 0x2f06.txt
   	#custom suffix to identify banks and atms
   	if tags =~ /\bbank\b/i && tags =~ /\bATM\b/i then
@@ -211,19 +214,19 @@ def processPOITypeSpecificRules(label,tags,website,poitypecode,opening)
   	elsif tags =~ /\bATM\b/i then
   	  label += " (A)" if label !~ /\bATM\b/i
   	end
-  
+
   when "0x2b03" # Accommodation - Camping, RV Park 0x2b03.txt
   	#custom suffix to identify DOC (department of conservation) campsites
   	if website =~ /\.doc\./i && label !~ /^doc/i then
   	  label += " (DOC)"
   	end
   end
-  
+
   #custom suffix to identify 24hr establishments such as petrol stations
   if opening =~ /24/ then
   	label += " 24hr"
   end
-  
+
   label = label.upcase
 	return label
 end
@@ -245,7 +248,7 @@ def processStandardAddressAbbreviations(address)
 	address = address.gsub(/\bApartment\b/i,'Apt')
 	address = address.gsub(/\bInternational\b/i,'Intl')
 	address = address.gsub(/\bNational\b/i,'Ntl')
-	
+
 #NZ CUSTOMISED
 	address = address.gsub(/\bChristchurch\b/i,'Chc')
 	address = address.gsub(/\bAuckland\b/i,'Akl')
@@ -409,7 +412,7 @@ def loadCategoriesFromCategoryFiles(p)
 		print "path to categories not found #{p}\n"
 		return
 	end
-	
+
 	Find.find(p) do |path|
 	  if FileTest.directory?(path)
 	    next # don't do anything with dirs in this folder
@@ -447,11 +450,11 @@ end
 @notforuseZIDs = Hash.new
 
 def loadSingleCategory(path)
-	
+
 	if !File.exists?(path) then
 		return
 	end
-	
+
 	#extract POI type code from filename
 	poitype = File.basename(path,'.*')#e.g. poitype = "Public Office Government 0x3003"
 	space_index = poitype.rindex(' ')
@@ -459,7 +462,7 @@ def loadSingleCategory(path)
 	category = poitype.slice(space_index+1,6)
 	@category_name_table[category] = poitype
 	@category_path_table[category] = path
-	
+
 
 	File.open(path){|infile|
 		while (line = infile.gets)
@@ -472,23 +475,23 @@ def loadSingleCategory(path)
 #					print "Removing #{zid} from #{poitype} - dupe handled\n"
 #					next
 #				end
-				
+
 				if @categories_from_nzogps.has_key?(zid) then
 					print "#{zid} in multiple categories #{category} and #{@categories_from_nzogps[zid]}. Using #{@categories_from_nzogps[zid]}\n"
 					next
 				end
-				
+
 				if category == '0x00' then
 					if (@masterZenbuDataHash.delete(zid)) then
 						@notforuseZIDs[zid] = 1
 					end
 				end
-				
+
 				@categories_from_nzogps[zid] = category
 			end
 		end
 	}
-	
+
 end
 
 # #####################
@@ -508,7 +511,7 @@ def writeCategoryOverrideSummaryFile
 	#no_match = Hash.new(0)
 	@categories_from_zenbu.each{|zid,category|
 		if @categories_from_nzogps.has_key?(zid) && @categories_from_nzogps[zid] != category then
-			#no_match["#{@categories_from_nzogps[zid]} #{@garmin_category_descriptions[@categories_from_nzogps[zid]]} <-> #{category} #{@garmin_category_descriptions[category]}"] += 1 
+			#no_match["#{@categories_from_nzogps[zid]} #{@garmin_category_descriptions[@categories_from_nzogps[zid]]} <-> #{category} #{@garmin_category_descriptions[category]}"] += 1
 			out << [zid, @masterZenbuDataHash[zid]['name'], @masterZenbuDataHash[zid]['tags'], @categories_from_nzogps[zid], @garmin_category_descriptions[@categories_from_nzogps[zid]], category, @garmin_category_descriptions[category]]
 		end
 	};nil

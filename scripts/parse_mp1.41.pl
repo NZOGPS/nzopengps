@@ -920,7 +920,7 @@ sub road_overlap{
 								(abs($$roads[$j][15][$l][0]-$m)==1)){
 									
 								$done{$$roads[$i][15][$k][1]}=$nodv;
-								print "Roads $$roads[$i][2] and $$roads[$j][2] have two common nodes:\n";
+								print "Roads $$roads[$i][2][0] and $$roads[$j][2][0] have two common nodes:\n";
 #								print "m: $m n: $n k0: $$roads[$i][15][$k][0] l0: $$roads[$j][15][$l][0]\n";
 								print "$$roads[$i][15][$k][1] at $$roads[$i][15][$k][3],$$roads[$i][15][$k][4] and \n";
 								print "$nodv at $x,$y\n\n";

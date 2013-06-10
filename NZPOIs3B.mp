@@ -9300,7 +9300,7 @@ Data0=(-40.85997,172.80621)
 ;1032242
 [POI]
 Type=0x2f01
-Label=SAWYERS BAY MOTORS
+Label=GAS SAWYERS BAY MOTORS
 StreetDesc=21 Station Rd, Sawyers Bay/ G.A.S. petrol station
 Phone=+6434728853
 Data0=(-45.81987,170.60388)
@@ -9400,7 +9400,7 @@ Data0=(-42.39232,173.67942)
 ;1032515
 [POI]
 Type=0x2f01
-Label=ALLENTON AUTO CENTRE
+Label=GAS ALLENTON AUTO CENTRE
 StreetDesc=102 Harrison St, Ashburton/ G.A.S. petrol station
 Phone=+6433086194
 Data0=(-43.88672,171.74243)
@@ -9825,7 +9825,7 @@ Data0=(-44.61290,169.24786)
 ;1034188
 [POI]
 Type=0x2f01
-Label=AKAROA AUTO CENTRE
+Label=Z AKAROA AUTO CENTRE
 StreetDesc=55 Rue Lavaud, Akaroa/ Shell petrol station, Wheel Alignment & Balancing, Punctu
 Phone=+6433047055
 zip=Mon-Fri 7am-6pm, Sat 8am-1pm
@@ -9863,7 +9863,7 @@ Data0=(-45.87073,170.51074)
 ;1034293
 [POI]
 Type=0x2f01
-Label=G.A.S LEWIS PASS 24HR
+Label=GAS G.A.S LEWIS PASS 24HR
 StreetDesc=State Highway 7, Springs Junction/ Petrol station
 Phone=+6435238812
 zip=24hrs
@@ -9882,7 +9882,7 @@ Data0=(-40.67839,172.68115)
 ;1034349
 [POI]
 Type=0x2f01
-Label=PORT CHALMERS MOTORS
+Label=Z PORT CHALMERS MOTORS
 StreetDesc=53 George St, Port Chalmers/ Shell petrol station, service station
 Phone=+6434728766
 Data0=(-45.81683,170.62039)
@@ -10269,7 +10269,7 @@ Data0=(-43.50750,172.66260)
 ;1035539
 [POI]
 Type=0x2f01
-Label=SHELL SOUTHBROOK & TRUCKSTOP
+Label=Z SHELL SOUTHBROOK & TRUCKSTOP
 StreetDesc=611 Lineside Rd, Rangiora/ Shell petrol station & truckstop, LPG Bottleswap, Tra
 Phone=+6433137377
 Data0=(-43.32714,172.60033)
@@ -10316,7 +10316,7 @@ Data0=(-41.31915,173.22520)
 ;1035700
 [POI]
 Type=0x2f01
-Label=SHELL TEMPLETON & TRUCKSTOP 24HR
+Label=Z SHELL TEMPLETON & TRUCKSTOP 24HR
 StreetDesc=720 Main South Rd, Templeton/ Shell petrol station & truckstop, LPG Swap n Go, T
 Phone=+6433499632
 zip=24hrs
@@ -10412,7 +10412,7 @@ Data0=(-44.83716,169.41171)
 ;1035966
 [POI]
 Type=0x2f01
-Label=TEKAPO SERVICES
+Label=Z TEKAPO SERVICES
 StreetDesc=State Highway 8, Lake Tekapo/ Shell petrol station, four square supermarket
 Phone=+6436806809
 Data0=(-44.00454,170.47714)
@@ -10441,7 +10441,7 @@ Data0=(-42.53695,172.81785)
 ;1036029
 [POI]
 Type=0x2f01
-Label=WYLIES GARAGE
+Label=Z WYLIES GARAGE
 StreetDesc=22 Northumberland St, Tapanui/ Shell petrol station
 Phone=+6432048237
 Data0=(-45.94317,169.25993)
@@ -12882,7 +12882,7 @@ Data0=(-44.39471,171.25204)
 ;1044597
 [POI]
 Type=0x2f01
-Label=FOX'S AUTO SERVICES LTD
+Label=GAS FOX'S AUTO SERVICES LTD
 StreetDesc=1 Whitehaven St, Lawrence/ G.A.S. Petrol Station, Convenience Store, Phone cards
 Phone=+6434859008
 Data0=(-45.91327,169.68933)
@@ -12891,7 +12891,7 @@ Data0=(-45.91327,169.68933)
 ;1044604
 [POI]
 Type=0x2f01
-Label=AWATERE AUTO SERVICES LTD
+Label=GAS AWATERE AUTO SERVICES LTD
 StreetDesc=10 Goulter St, Seddon/ G.A.S. Petrol Station, Car repair workshop, Warrant of fi
 Phone=+6435757494
 Data0=(-41.67099,174.07528)
@@ -12900,7 +12900,7 @@ Data0=(-41.67099,174.07528)
 ;1044618
 [POI]
 Type=0x2f01
-Label=RODGERS GARAGE
+Label=GAS RODGERS GARAGE
 StreetDesc=12 Balaclava St, Wyndham/ G.A.S. Petrol Station, Convenience Store, Phone cards,
 Phone=+6432064770
 Data0=(-46.32719,168.84949)
@@ -12909,7 +12909,7 @@ Data0=(-46.32719,168.84949)
 ;1044632
 [POI]
 Type=0x2f01
-Label=BAIRDS MOTORDROME TEMUKA LTD
+Label=GAS BAIRDS MOTORDROME TEMUKA LTD
 StreetDesc=149 King St, Temuka/ G.A.S. Petrol Station, LPG bottle fill, Convenience Store, 
 Phone=+6436157265
 Data0=(-44.24262,171.27698)
@@ -12918,7 +12918,7 @@ Data0=(-44.24262,171.27698)
 ;1044639
 [POI]
 Type=0x2f01
-Label=AGNEW BROS
+Label=GAS AGNEW BROS
 StreetDesc=15 Seaward Rd, Edendale/ G.A.S. Petrol Station, Car repair workshop, Warrant of 
 Phone=+6432066600
 Data0=(-46.31233,168.78492)
@@ -12927,7 +12927,7 @@ Data0=(-46.31233,168.78492)
 ;1044660
 [POI]
 Type=0x2f01
-Label=BAY ROAD SERVICE CENTRE
+Label=GAS BAY ROAD SERVICE CENTRE
 StreetDesc=17 Bay Rd, Riverton/ G.A.S. Petrol Station, Convenience Store, Phone cards, Car 
 Phone=+6432348483
 Data0=(-46.35776,168.00975)
@@ -12936,7 +12936,7 @@ Data0=(-46.35776,168.00975)
 ;1044737
 [POI]
 Type=0x2f01
-Label=TWIZEL AUTO SERVICES
+Label=GAS TWIZEL AUTO SERVICES
 StreetDesc=3 Ostler Rd, Twizel/ G.A.S. Petrol Station, Car repair workshop, Warrant of fitn
 Phone=+6434350760
 Data0=(-44.26475,170.08949)
@@ -12945,7 +12945,7 @@ Data0=(-44.26475,170.08949)
 ;1044800
 [POI]
 Type=0x2f01
-Label=WALLACETOWN MOTORS LTD
+Label=GAS WALLACETOWN MOTORS LTD
 StreetDesc=49 Dalry St, Wallacetown/ G.A.S. Petrol Station, Convenience Store, Phone cards,
 Phone=+6432358429
 Data0=(-46.32977,168.29096)
@@ -12963,7 +12963,7 @@ Data0=(-45.08057,170.91835)
 ;1044961
 [POI]
 Type=0x2f01
-Label=HARI HARI MOTORS LTD
+Label=GAS HARI HARI MOTORS LTD
 StreetDesc=106 Main Rd, Harihari/ G.A.S. Petrol Station, Convenience Store, Phone cards, Po
 Phone=+6437533133
 Data0=(-43.14930,170.55715)
@@ -12972,7 +12972,7 @@ Data0=(-43.14930,170.55715)
 ;1045017
 [POI]
 Type=0x2f01
-Label=LAUDER SERVICE STATION LTD
+Label=GAS LAUDER SERVICE STATION LTD
 StreetDesc=Omakau/ G.A.S. Petrol Station, Convenience Store, Phone cards, Car repair worksh
 Phone=+6434473708
 Data0=(-45.09462,169.60205)
@@ -12981,7 +12981,7 @@ Data0=(-45.09462,169.60205)
 ;1045045
 [POI]
 Type=0x2f01
-Label=KINGSTON TRADING LTD
+Label=GAS KINGSTON TRADING LTD
 StreetDesc=Sh 6, Kingston/ G.A.S. Petrol Station, Convenience Store, Phone cards
 Phone=+6432488998
 Data0=(-45.33807,168.72407)
@@ -12990,7 +12990,7 @@ Data0=(-45.33807,168.72407)
 ;1045052
 [POI]
 Type=0x2f01
-Label=MOMONA GARAGE (1985) LTD
+Label=GAS MOMONA GARAGE (1985) LTD
 StreetDesc=cnr Ctr & Miller Rds, Dud/ G.A.S. Petrol Station, Convenience Store, Phone cards
 Phone=+6434862723
 Data0=(-45.91778,170.21256)
@@ -12999,7 +12999,7 @@ Data0=(-45.91778,170.21256)
 ;1045101
 [POI]
 Type=0x2f01
-Label=MIDDLEMARCH MOTORS LTD
+Label=GAS MIDDLEMARCH MOTORS LTD
 StreetDesc=Swansea St, Middlemarch/ G.A.S. Petrol Station, Convenience Store, Phone cards, 
 Phone=+6434643717
 Data0=(-45.50703,170.11963)
@@ -172754,7 +172754,7 @@ Data0=(-43.52865,172.63778)
 ;1170756
 [POI]
 Type=0x2f01
-Label=G.A.S HORNBY
+Label=GAS G.A.S HORNBY
 StreetDesc=45 Carmen Rd, Hornby, Chc City/ G.A.S. Petrol Station
 Data0=(-43.53886,172.52753)
 [END]
@@ -173107,7 +173107,7 @@ Data0=(-45.87008,170.50560)
 ;1170989
 [POI]
 Type=0x2f01
-Label=G.A.S. HINDS
+Label=GAS G.A.S. HINDS
 StreetDesc=Peters St, Hinds/ Gasoline Alley petrol station
 Phone=+6433037098
 Data0=(-44.00272,171.56933)
@@ -180753,7 +180753,7 @@ Data0=(-43.55613,172.62042)
 ;1173550
 [POI]
 Type=0x2f01
-Label=SHELL TRUCK STOP, ALEXANDRA 24HR
+Label=Z SHELL TRUCK STOP, ALEXANDRA 24HR
 StreetDesc=Dunstan Rd, Alexandra/ Diesel, Fuel Cards only
 zip=24 hr
 Data0=(-45.23843,169.38904)
@@ -180762,7 +180762,7 @@ Data0=(-45.23843,169.38904)
 ;1173551
 [POI]
 Type=0x2f01
-Label=SHELL TRUCK STOP, CROMWELL 24HR
+Label=Z SHELL TRUCK STOP, CROMWELL 24HR
 StreetDesc=McNaulty Rd, Cromwell/ Diesel, Fuel Cards only
 zip=24 hr
 Data0=(-45.04765,169.17617)
@@ -180771,7 +180771,7 @@ Data0=(-45.04765,169.17617)
 ;1173552
 [POI]
 Type=0x2f01
-Label=SHELL TRUCK STOP, DUNEDIN 24HR
+Label=Z SHELL TRUCK STOP, DUNEDIN 24HR
 StreetDesc=Cnr Cumberland St & WorsleySt, Dud/ Diesel, Fuel Cards only
 zip=24 hr
 Data0=(-45.88410,170.50114)
@@ -180780,7 +180780,7 @@ Data0=(-45.88410,170.50114)
 ;1173553
 [POI]
 Type=0x2f01
-Label=SHELL TRUCK STOP, OAMARU 24HR
+Label=Z SHELL TRUCK STOP, OAMARU 24HR
 StreetDesc=Main South Rd, Oamaru/ Diesel, Fuel Cards only
 zip=24 hr
 Data0=(-45.06537,170.99689)
@@ -180789,7 +180789,7 @@ Data0=(-45.06537,170.99689)
 ;1173554
 [POI]
 Type=0x2f01
-Label=SHELL TRUCK STOP, WANAKA 24HR
+Label=Z SHELL TRUCK STOP, WANAKA 24HR
 StreetDesc=42 Reece Cres, Wanaka/ Diesel, Fuel Cards only
 zip=24 hr
 Data0=(-44.69056,169.14301)
@@ -180798,7 +180798,7 @@ Data0=(-44.69056,169.14301)
 ;1173555
 [POI]
 Type=0x2f01
-Label=SHELL TRUCK STOP, BALCLUTHA 24HR
+Label=Z SHELL TRUCK STOP, BALCLUTHA 24HR
 StreetDesc=Barnego Rd, Balclutha/ Diesel, Fuel Cards only
 zip=24 hr
 Data0=(-46.23272,169.74159)
@@ -180807,7 +180807,7 @@ Data0=(-46.23272,169.74159)
 ;1173556
 [POI]
 Type=0x2f01
-Label=SHELL TRUCK STOP, GORE 24HR
+Label=Z SHELL TRUCK STOP, GORE 24HR
 StreetDesc=Cnr Main South Rd & Charlton Rd, Gore/ Diesel, Fuel Cards only
 zip=24 hr
 Data0=(-46.11409,168.93407)
@@ -180826,7 +180826,7 @@ Data0=(-43.52011,172.62852)
 ;1173558
 [POI]
 Type=0x2f01
-Label=SHELL TRUCK STOP, INVERCARGILL
+Label=Z SHELL TRUCK STOP, INVERCARGILL
 StreetDesc=206-214 Dee St, Invercargill/ Diesel, Fuel Cards only
 Data0=(-46.40502,168.34653)
 [END]
@@ -180853,7 +180853,7 @@ Data0=(-41.50309,173.96087)
 ;1173561
 [POI]
 Type=0x2f01
-Label=?SHELL TRUCK STOP, GREYMOUTH 24HR
+Label=?Z SHELL TRUCK STOP, GREYMOUTH 24HR
 StreetDesc=Whall St, Greymouth/ Diesel, Fuel Cards only
 zip=24 hr
 Data0=(-42.44969,171.21210)
@@ -180862,7 +180862,7 @@ Data0=(-42.44969,171.21210)
 ;1173562
 [POI]
 Type=0x2f01
-Label=SHELL TRUCK STOP, NELSON 24HR
+Label=Z SHELL TRUCK STOP, NELSON 24HR
 StreetDesc=Haven Rd, Nelson/ Diesel, Fuel Cards only
 zip=24 hr
 Data0=(-41.26589,173.27491)
@@ -180871,7 +180871,7 @@ Data0=(-41.26589,173.27491)
 ;1173563
 [POI]
 Type=0x2f01
-Label=SHELL TRUCK STOP, RICHMOND 24HR
+Label=Z SHELL TRUCK STOP, RICHMOND 24HR
 StreetDesc=7-11 Kotua Place, Richmond/ Diesel, Fuel Cards only
 zip=24 hr
 Data0=(-41.32870,173.20689)
@@ -180880,7 +180880,7 @@ Data0=(-41.32870,173.20689)
 ;1173564
 [POI]
 Type=0x2f01
-Label=SHELL TAKAKA TRUCKSTOP
+Label=Z SHELL TAKAKA TRUCKSTOP
 StreetDesc=96 Commercial St, Takaka/ Diesel, Fuel Cards only
 Data0=(-40.85675,172.80673)
 [END]
@@ -180898,7 +180898,7 @@ Data0=(-43.15039,172.72996)
 ;1173566
 [POI]
 Type=0x2f01
-Label=SHELL TRUCK STOP, ASHBURTON
+Label=Z SHELL TRUCK STOP, ASHBURTON
 StreetDesc=West St, Ashburton/ Diesel, Fuel Cards only
 Data0=(-43.90474,171.74519)
 [END]
@@ -180906,7 +180906,7 @@ Data0=(-43.90474,171.74519)
 ;1173567
 [POI]
 Type=0x2f01
-Label=SHELL TRUCK STOP, KAIKOURA 24HR
+Label=Z SHELL TRUCK STOP, KAIKOURA 24HR
 StreetDesc=Beach Rd, Kaikoura/ Diesel, Fuel Cards only
 zip=24 hr
 Data0=(-42.39089,173.67938)
@@ -180915,7 +180915,7 @@ Data0=(-42.39089,173.67938)
 ;1173568
 [POI]
 Type=0x2f01
-Label=?SHELL TRUCK STOP, METHVEN 24HR
+Label=?Z SHELL TRUCK STOP, METHVEN 24HR
 StreetDesc=Line Rd, Methven/ Diesel, Fuel Cards only
 zip=24 hr
 Data0=(-43.63873,171.65425)
@@ -180924,7 +180924,7 @@ Data0=(-43.63873,171.65425)
 ;1173569
 [POI]
 Type=0x2f01
-Label=SHELL TRUCK STOP, SOUTHBROOK 24HR
+Label=Z SHELL TRUCK STOP, SOUTHBROOK 24HR
 StreetDesc=Lineside Rd, Southbrook/ Diesel, Fuel Cards only
 zip=24 hr
 Data0=(-43.32724,172.60021)
@@ -180933,7 +180933,7 @@ Data0=(-43.32724,172.60021)
 ;1173570
 [POI]
 Type=0x2f01
-Label=SHELL TRUCK STOP, TIMARU 24HR
+Label=Z SHELL TRUCK STOP, TIMARU 24HR
 StreetDesc=197 Hilton Highway, Timaru/ Diesel, Fuel Cards only
 zip=24 hr
 Data0=(-44.35533,171.23853)
@@ -180951,7 +180951,7 @@ Data0=(-43.55478,172.51760)
 ;1173572
 [POI]
 Type=0x2f01
-Label=?SHELL TRUCK STOP, PAPANUI 24HR
+Label=?Z SHELL TRUCK STOP, PAPANUI 24HR
 StreetDesc=Sawyers Arms Rd, Papanui, Chc/ Diesel, Fuel Cards only
 zip=24 hr
 Data0=(-43.48168,172.59209)

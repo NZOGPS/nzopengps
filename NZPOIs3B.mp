@@ -3074,7 +3074,7 @@ Type=0x2c05
 Label=HORNBY PRIMARY SCHOOL
 StreetDesc=190 Waterloo Rd, Hornby, Chc/ State Co-Ed Primary School
 Phone=+6433497238
-Data0=(-43.53839,172.52640)
+Data0=(-43.53861,172.52376)
 [END]
 
 ;1011585
@@ -58484,15 +58484,6 @@ Phone=+6433227780
 Data0=(-43.60949,172.57023)
 [END]
 
-;1112732
-[POI]
-Type=0x2f
-Label=ROSSLYN GALLERY
-StreetDesc=320 George St, Dud/ 
-Phone=+6434779899
-Data0=(-45.86950,170.50658)
-[END]
-
 ;1112755
 [POI]
 Type=0x2f
@@ -84133,7 +84124,7 @@ Data0=(-43.46457,170.01731)
 [POI]
 Type=0x2f
 Label=ICEHOUSE GALLERY
-StreetDesc=Cnr McMillan St and Forest Dr, Methven/ Art Gallery with painting. photography a
+StreetDesc=Cnr McMillan St and Forest Dr, Methven/ Art Gallery with painting, photography a
 Phone=+6433028417
 Data0=(-43.63233,171.64577)
 [END]
@@ -86752,7 +86743,7 @@ Type=0x2e07
 Label=EZIBUY CHRISTCHURCH
 StreetDesc=Tower Junction Mega Ctr, Clarence St, Chc/ mens, womens clothing, homeware
 Phone=+6439627030
-zip=Mon-Fri 9am-5.30pm Thu 9am-8pm Sat 9am-5
+zip=Mon-Fri 9am-5.30pm Thu 9am-7pm Sat 9am-5
 Data0=(-43.53912,172.60695)
 [END]
 
@@ -114636,7 +114627,8 @@ Type=0x2f
 Label=GALLERY ON BLUESKIN
 StreetDesc=1 Harvey St, Waitati, Blueskin Bay/ Art gallery
 Phone=+6434822080
-Data0=(-45.74676,170.57003)
+zip=Wed-Sun 10.30am-4.30pm
+Data0=(-45.74687,170.56955)
 [END]
 
 ;1138129
@@ -138639,8 +138631,8 @@ Data0=(-43.54393,172.62811)
 ;1151213
 [POI]
 Type=0x2f06
-Label=BNZ ATM REMARKABLES PARK
-StreetDesc=Remarkables Park, Frankton/ ATM
+Label=BNZ REMARKABLES PARK (B&A)
+StreetDesc=Remarkables Park, Frankton/ ATM, Bank,
 Data0=(-45.02742,168.74441)
 [END]
 
@@ -158870,7 +158862,7 @@ Data0=(-43.59412,172.38583)
 ;1162871
 [POI]
 Type=0x2c05
-Label=SERENITY PRESCHOOL
+Label=LITTLE PEPPERTREE PRESCHOOL
 StreetDesc=74 East Belt, Rangiora/ Preschool, childcare
 Phone=+6433133440
 Data0=(-43.30343,172.60095)
@@ -169787,6 +169779,7 @@ Data0=(-45.02692,168.66132)
 Type=0x2f
 Label=QUEENSTOWN MEDICAL CENTRE
 StreetDesc=9 Isle St, Queenstown/ 
+Phone=+6434410500
 Data0=(-45.02993,168.65841)
 [END]
 
@@ -174428,6 +174421,16 @@ Phone=+6435756801
 Data0=(-41.82435,174.16958)
 [END]
 
+;1171450
+[POI]
+Type=0x2c00
+Label=MOLESWORTH HIGH COUNTRY TOURS
+StreetDesc=50 State Highway 63, Renwick. Blenheim/ Tourist attraction & visitor activity
+Phone=+6435728025
+zip=8am-9pm daily
+Data0=(-41.51411,173.82131)
+[END]
+
 ;1171451
 [POI]
 Type=0x2c00
@@ -174593,10 +174596,11 @@ Data0=(-41.34436,173.19893)
 
 ;1171493
 [POI]
-Type=0x2c00
+Type=0x2f
 Label=DUNEDIN PUBLIC ART GALLERY
-StreetDesc=30 The Octagon, Dud/ Tourist attraction & visitor activity
+StreetDesc=30 The Octagon, Dud/ Art gallery, tourist attraction & visitor activity
 Phone=+6434743240
+zip=7 days 10am-5pm
 Data0=(-45.87443,170.50290)
 [END]
 
@@ -204187,7 +204191,7 @@ Data0=(-45.86232,170.33895)
 [POI]
 Type=0x2f
 Label=MORAY GALLERY
-StreetDesc=55 Princes St Dud 9016 New Zealand/ Boutique art gallery in Dunedin supporting N
+StreetDesc=55 Princes St Dud 9016/ Boutique art gallery in Dunedin supporting New Zealand a
 Phone=+6434778060
 zip=Mon- Fri 10am - 5pm, Sat 11am - 3pm
 Data0=(-45.87523,170.50331)
@@ -205199,7 +205203,7 @@ Data0=(-44.68358,169.18907)
 [POI]
 Type=0x2d
 Label=BLAST ENTERTAINMENT HIRE NELSON
-StreetDesc=66 William St, Richmond, Nelson, 7020/ Bouncy Castles, Slide Castles, Kids parti
+StreetDesc=/ Bouncy Castles, Slide Castles, Kids parties, childrens entertainment, Adult Ca
 Phone=0800025278
 zip=7 days a week
 Data0=(-41.34126,173.19356)
@@ -207400,10 +207404,10 @@ Data0=(-43.54621,172.56242)
 ;1196462
 [POI]
 Type=0x2f
-Label=RADCLIFFE ELECTRICAL TUAM STREET
-StreetDesc=350 Tuam St/ Electrical Trade Wholesale
+Label=RADCLIFFE ELECTRICAL PHILIPSTOWN
+StreetDesc=15 Philips St, Philipstown/ Electrical Trade Wholesale
 Phone=+6433793008
-Data0=(-43.53537,172.64875)
+Data0=(-43.53829,172.65418)
 [END]
 
 ;1196463
@@ -208279,5 +208283,133 @@ Type=0x2c04
 Label=?BLACK HORSE BREWERY SITE
 StreetDesc=Wetherstons Rd, Gabriels Gully 9591, New Zealand/ Historic Place: Category 1
 Data0=(-45.89655,169.70581)
+[END]
+
+;1200033
+[POI]
+Type=0x2d09
+Label=?DUDLEY PARK AQUATIC CENTRE
+StreetDesc=47 Church St Rangiora/ AQUATIC CENTRE
+Phone=+6433118905
+zip=Phone for details
+Data0=(-43.30790,172.58987)
+[END]
+
+;1200037
+[POI]
+Type=0x2f
+Label=NZ VAN LINES BLENHEIM MOVERS
+StreetDesc=10 Timandra Place, Blenheim/ Moving to Blenheim is not a worry with NZ Van Lines
+Phone=+6435475698
+Data0=(-41.51821,173.96728)
+[END]
+
+;1200038
+[POI]
+Type=0x2f
+Label=NZ VAN LINES CHRISTCHURCH MOVERS
+StreetDesc=33 Treffers Rd, Sockburn, Chc/ Renowned for so long as the Garden City, Christch
+Phone=+6433480604
+Data0=(-43.54542,172.57300)
+[END]
+
+;1200039
+[POI]
+Type=0x2f
+Label=NZ VAN LINES DUNEDIN MOVERS
+StreetDesc=65 Bridgman St, Dud/ NZ Van Lines Dunedin Movers manages a lot more internationa
+Phone=+6434550171
+Data0=(-45.89089,170.49909)
+[END]
+
+;1200043
+[POI]
+Type=0x2f
+Label=NZ VAN LINES INVERCARGILL MOVERS
+StreetDesc=40 Benmore St, Prestonville/ Moving to Invercargill in the deep south? (A lot of
+Phone=+6432156849
+Data0=(-46.38408,168.34995)
+[END]
+
+;1200044
+[POI]
+Type=0x2f
+Label=NZ VAN LINES NELSON MOVERS
+StreetDesc=6 Rotherham St, Tahunanui/ Relocating to Nelson? Lucky you! NZ Van Lines Nelson 
+Phone=+6435475698
+Data0=(-41.29318,173.23617)
+[END]
+
+;1200067
+[POI]
+Type=0x2f
+Label=REALCOLD
+StreetDesc=71 Harman St/ Refrigeration & Air Conditioning Parts, Equipment
+Phone=+6433388084
+Data0=(-43.54215,172.61938)
+[END]
+
+;1200068
+[POI]
+Type=0x2f
+Label=REALCOLD
+StreetDesc=18 Roberts St, Dud/ Refrigeration & Air Conditioning Parts, Equipment
+Phone=+6434677106
+Data0=(-45.88301,170.50514)
+[END]
+
+;1200069
+[POI]
+Type=0x2b03
+Label=PASCOE PARK
+StreetDesc=20 Farrells Rd, Chc/ Camper & tourist park owned by the Seventh-Day Adventist Ch
+Phone=+6433238973
+Data0=(-43.43504,172.65770)
+[END]
+
+;1200070
+[POI]
+Type=0x2f
+Label=RADCLIFFE ELECTRICAL HORNBY
+StreetDesc=52 Waterloo Rd, Hornby/ Electrical Trade Wholesale
+Phone=+6433440535
+Data0=(-43.53720,172.54186)
+[END]
+
+;1200071
+[POI]
+Type=0x2e07
+Label=?CRUISY BABY
+StreetDesc=Pipiri St, Pegasus, Canterbury, 7612/ Cruisy Baby is all about making parent’s &
+Phone=+6439607359
+Data0=(-43.31892,172.69665)
+[END]
+
+;1200073
+[POI]
+Type=0x2f
+Label=QUEENSTOWN MEDICAL CENTRE - REMARKABLES PARK SURGERY
+StreetDesc=L 2, 12 Remarkables Park Shopping Ctr, Hawthorne Dr, Frankton, Queenstown/ 
+Phone=+6434509199
+Data0=(-45.02730,168.74359)
+[END]
+
+;1200435
+[POI]
+Type=0x2e0b
+Label=PERSONAL COMPUTER SOLUTIONS
+StreetDesc=716 Frankton Rd/ Queenstown computer & laptop reapir, Queenstown Iphone repair
+Phone=+6421149543
+zip=9-6
+Data0=(-45.02080,168.70426)
+[END]
+
+;1200453
+[POI]
+Type=0x2f
+Label=?STADIUM FINANCE
+StreetDesc=200 Ferry Rd, Phillipstown, Chc 8011/ Financial Service, Loans
+Phone=05085225885
+Data0=(-43.53955,172.65541)
 [END]
 

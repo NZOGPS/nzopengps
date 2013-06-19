@@ -1,4 +1,4 @@
-my $fn = "lds-new-zealand-2layers-SHP.zip";
+my $fn = shift || "lds-new-zealand-2layers-SHP.zip";
 die "$fn not found\n" if not -f $fn;
 my @stats = stat $fn;
 my @lt = localtime $stats[9];

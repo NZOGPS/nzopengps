@@ -9500,8 +9500,8 @@ Data0=(-45.09364,170.97264)
 [POI]
 Type=0x2f01
 Label=BP 2GO SOCKBURN
-StreetDesc=222 Main South Rd, Sockburn, Chc/ BP petrol station, Low Sulphur diesel
-Phone=+6433487364
+StreetDesc=222 Main South Rd, Sockburn, Chc/ BP petrol station, Low Sulphur diesel, trailer
+Phone=+6433410109
 Data0=(-43.54300,172.54614)
 [END]
 
@@ -17749,7 +17749,7 @@ Data0=(-45.87358,170.50343)
 ;1062650
 [POI]
 Type=0x4c
-Label=GERALDINE I-SITE VISITOR CENTRE
+Label=GERALDINE VISITOR CENTRE
 StreetDesc=Cnr Talbot & Cox St, Geraldine/ Visitor information
 Phone=+6436931006
 zip=8.30am-5.00pm Mon-Fri, 10am-4pm Weekends
@@ -17768,7 +17768,7 @@ Data0=(-40.86138,172.80582)
 ;1062664
 [POI]
 Type=0x4c
-Label=GORE I-SITE VISITOR CENTRE
+Label=DESTINATION GORE VISITOR CENTRE
 StreetDesc=Cnr Hokonui Dr & Norfolk St, Gore/ Visitor information
 Phone=+6432089908
 Data0=(-46.09789,168.94591)
@@ -17822,10 +17822,10 @@ Data0=(-42.40269,173.68297)
 ;1062706
 [POI]
 Type=0x4c
-Label=LYTTELTON I-SITE VISITOR CENTRE
-StreetDesc=20 Oxford St, Lyttelton/ Visitor information
+Label=LYTTELTON HARBOUR INFORMATION CENTRE
+StreetDesc=65 London St, Lyttelton/ Visitor information
 Phone=+6433289093
-Data0=(-43.60327,172.72271)
+Data0=(-43.60224,172.71934)
 [END]
 
 ;1062713
@@ -42439,9 +42439,10 @@ Data0=(-41.22089,173.01258)
 ;1103114
 [POI]
 Type=0x2f
-Label=CHAMPION FREIGHT (N.Z.) LIMITED
-StreetDesc=483 Durham St North, Chc/ 
-Phone=+6439611860
+Label=CHAMPION FREIGHT
+StreetDesc=483 Durham St North, St Albans, Chc/ Champion Freight is a global freight forwar
+Phone=+6433780560
+zip=8:30 AM to 5:00 PM, Monday to Friday
 Data0=(-43.51838,172.63335)
 [END]
 
@@ -57261,16 +57262,6 @@ zip=Mon-Fri 0800-1700
 Data0=(-45.88971,170.45906)
 [END]
 
-;1111938
-[POI]
-Type=0x2f
-Label=PRODIRECTIONS LTD
-StreetDesc=Unit 2, 107 Deans Ave, Riccarton, Chc 8011/ 
-Phone=+6439779977
-zip=0800 - 1700 Monday to Friday
-Data0=(-43.53189,172.63698)
-[END]
-
 ;1111946
 [POI]
 Type=0x2f
@@ -64024,10 +64015,11 @@ Data0=(-45.87427,170.50170)
 ;1115896
 [POI]
 Type=0x2f
-Label=WAYNE WARDELL MOTORS
-StreetDesc=207 Main South Rd, Sockburn, Chc/ 
+Label=WAYNE WARDELL MOTORS LTD T/A SIMPLY TRUCKS
+StreetDesc=185 Shands Rd, Hornby South, Chc 8042/ Truck Sales
 Phone=+6433433877
-Data0=(-43.54221,172.54898)
+zip=Mon to Fri 8am - 5pm, Sat 8am - 1pm
+Data0=(-43.55617,172.51230)
 [END]
 
 ;1115910
@@ -76550,15 +76542,6 @@ Phone=+6434536099
 Data0=(-45.88126,170.47922)
 [END]
 
-;1119800
-[POI]
-Type=0x2a
-Label=CAPTAIN COOK TAVERN
-StreetDesc=354 Great King St, Dud North/ Hotel Bar Restaurant TAB Outlet
-Phone=+6434741935
-Data0=(-45.86653,170.50923)
-[END]
-
 ;1119801
 [POI]
 Type=0x2a
@@ -85122,15 +85105,6 @@ StreetDesc=24 Richardson St, Britannia Heights, Nelson/ Accommodation Bed & Brea
 Phone=+6435487621
 zip=All year
 Data0=(-41.27183,173.26261)
-[END]
-
-;1122641
-[POI]
-Type=0x4c
-Label=STEWART ISLAND I-SITE VISITOR CENTRE
-StreetDesc=12 Elgin Terrace, Halfmoon Bay, Stewart Island/ Tourist & visitor information
-Phone=+6432191400
-Data0=(-46.89702,168.12906)
 [END]
 
 ;1122642
@@ -136616,10 +136590,10 @@ Data0=(-45.03235,168.66067)
 ;1150464
 [POI]
 Type=0x2f
-Label=MEDLAB SOUTH - ST GEORGE'S CLINIC
+Label=CANTERBURY SCL - ST GEORGE'S CLINIC
 StreetDesc=Block 1 Milford Chambers, 245 Papanui Rd, Christchuch/ Laboratory testing, blood
 Phone=+6433555314
-zip=Weekdays: 7.30am - 5.30pm
+zip=Weekdays: 7.30am - 5.30pm, Saturday 8am-
 Data0=(-43.51026,172.61929)
 [END]
 
@@ -136636,38 +136610,28 @@ Data0=(-43.54810,172.62199)
 ;1150466
 [POI]
 Type=0x2f
-Label=MEDLAB SOUTH - NEW BRIGHTON CLINIC
+Label=CANTERBURY SCL - NEW BRIGHTON CLINIC
 StreetDesc=18 Union St, New Brighton, Chc 8061/ Laboratory testing, blood tests.
-Phone=+6433555314
-zip=Weekdays: 7.30am - 5.30pm
+Phone=+6433824093
+zip=Weekdays: 7.30am - 4.30pm
 Data0=(-43.50891,172.72752)
 [END]
 
 ;1150467
 [POI]
 Type=0x2f
-Label=MEDLAB SOUTH - RANGIORA CLINIC
+Label=CANTERBURY SCL - RANGIORA CLINIC
 StreetDesc=237c High St, Rangiora, Canterbury 7400/ Laboratory testing, blood tests
 Phone=+6433131496
 zip=Weekdays: 7.30am - 5.00pm
 Data0=(-43.30398,172.59191)
 [END]
 
-;1150468
-[POI]
-Type=0x2f
-Label=MEDLAB SOUTH - 24 HOUR SURGERY 24HR
-StreetDesc=Cnr Bealey Ave & Colombo St, Chc/ Laboratory testing, blood tests.
-Phone=+6433657777
-zip=24 hours/day, 7days/week.
-Data0=(-43.52064,172.63637)
-[END]
-
 ;1150469
 [POI]
 Type=0x2f
-Label=MEDLAB SOUTH - ST ALBANS CLINIC
-StreetDesc=134 St Albans St, Chc/ Laboratory testing, blood tests.
+Label=CANTERBURY SCL- ST ALBANS CLINIC
+StreetDesc=Corner of St Albans and Springfield Rd/ Laboratory testing, blood tests.
 Phone=+6433562317
 zip=Weekdays: 8.30am-12.30pm
 Data0=(-43.50950,172.63043)
@@ -136686,10 +136650,10 @@ Data0=(-43.54440,172.52865)
 ;1150471
 [POI]
 Type=0x2f
-Label=MEDLAB SOUTH - BECKENHAM CLINIC
+Label=CANTERBURY SCL - BECKENHAM CLINIC
 StreetDesc=163 Colombo St, Sydenham, Chc 8023/ Laboratory testing, blood tests.
 Phone=+6433317295
-zip=Weekdays: 8.00am - 12.30pm
+zip=Weekdays: 7.30am - 12pm
 Data0=(-43.55626,172.63665)
 [END]
 
@@ -170617,14 +170581,6 @@ StreetDesc=72 Newington Ave, Maori Hill, Dud/
 Data0=(-45.86205,170.50098)
 [END]
 
-;1169471
-[POI]
-Type=0x2f
-Label=SOUTHERN COMMUNITY LABORATORIES
-StreetDesc=444 Durham St, Chc/ 
-Data0=(-43.51966,172.63374)
-[END]
-
 ;1169473
 [POI]
 Type=0x2f
@@ -204322,8 +204278,8 @@ Data0=(-45.85893,170.22774)
 [POI]
 Type=0x2f
 Label=DAN'S MOWING
-StreetDesc=17 Riselaw St, Mairehau, 8013 Chc/ Lawn Mowing Services Christchurch Wide Free Q
-Phone=0800002447
+StreetDesc=17 Riselaw St, Mairehau, 8013 Chc/ Lawn Mowing and Hedge Trimming Services Chris
+Phone=+6427872759
 zip=8am-8pm, 7 days
 Data0=(-43.50648,172.65323)
 [END]
@@ -205197,16 +205153,6 @@ StreetDesc=8 Rifleman St, Albert Town, Wanaka/ Early childhood centre
 Phone=+6434434073
 zip=7.30am - 6pm Monday to Friday
 Data0=(-44.68358,169.18907)
-[END]
-
-;1193517
-[POI]
-Type=0x2d
-Label=BLAST ENTERTAINMENT HIRE NELSON
-StreetDesc=/ Bouncy Castles, Slide Castles, Kids parties, childrens entertainment, Adult Ca
-Phone=0800025278
-zip=7 days a week
-Data0=(-41.34126,173.19356)
 [END]
 
 ;1193524
@@ -208411,5 +208357,90 @@ Label=?STADIUM FINANCE
 StreetDesc=200 Ferry Rd, Phillipstown, Chc 8011/ Financial Service, Loans
 Phone=05085225885
 Data0=(-43.53955,172.65541)
+[END]
+
+;1200455
+[POI]
+Type=0x2a
+Label=PASSENGERS+CO
+StreetDesc=92 Russley Rd, Russley, Chc 8042, New Zealand/ Airport Business Park. breakfast 
+Phone=+6433486190
+zip=Mon-Fri from 7am
+Data0=(-43.51415,172.53870)
+[END]
+
+;1201840
+[POI]
+Type=0x2f
+Label=GRANT SHAND
+StreetDesc=60 Fitzgerald Ave, Chc 8011/ Insurance Lawyer, Legal Help, EQC, Legal help EQC, 
+Phone=+6427434548
+Data0=(-43.53650,172.65089)
+[END]
+
+;1202746
+[POI]
+Type=0x2f0c
+Label=PUBLIC TOILETS
+StreetDesc=1 Buxton Sq Nelson 7010/ Toilet, bathroom, restroom, dunny
+Data0=(-41.27346,173.28533)
+[END]
+
+;1202759
+[POI]
+Type=0x2d09
+Label=SELWYN AQUATIC CENTRE
+StreetDesc=71 Broadlands Dr, Rolleston/ 
+Phone=+6433472734
+zip=6am - 9pm Mon to Fri, 8am - 8pm Sat and 
+Data0=(-43.60588,172.38700)
+[END]
+
+;1202762
+[POI]
+Type=0x2f
+Label=DR MALCOLM MCKELLAR
+StreetDesc=1 Dallas St, Riccarton, Chc/ Eye surgeon, Eye specialist
+Phone=+6433436033
+Data0=(-43.53130,172.59541)
+[END]
+
+;1202780
+[POI]
+Type=0x2f
+Label=KATS KAIAPOI ALIGNMENT & TYRES
+StreetDesc=80 Williams St, Kaiapoi/ Tyres
+Phone=+6433277789
+Data0=(-43.38953,172.65481)
+[END]
+
+;1202783
+[POI]
+Type=0x2f
+Label=TRAILERSTATION
+StreetDesc=185 Shands Rd, Hornby South, Chc 8042/ Trailer Hire & Sales
+Phone=+6439437333
+zip=Mon to Fri 8am - 5pm, Sat 8am - 1pm
+Data0=(-43.55617,172.51230)
+[END]
+
+;1202785
+[POI]
+Type=0x2e0b
+Label=SUPPORTU TECHNOLOGY SERVICES
+StreetDesc=2/150 Cavendish Rd, Casebrook, Chc/ Customer service for Microsoft software, App
+Phone=+6439290239
+zip=9am to 5pm - Weekdays
+Data0=(-43.47386,172.60768)
+[END]
+
+;1202786
+[POI]
+Type=0x2e
+Label=ONTIME - CLOCK MUSEAM
+StreetDesc=2/150 Cavendish Rd, Casebrook, Chc/ Clock Museam
+Phone=+6433529064
+zip=9am to 5pm Weekdays
+Data0=(-43.47410,172.60787)
 [END]
 

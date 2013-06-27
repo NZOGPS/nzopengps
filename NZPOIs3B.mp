@@ -18587,10 +18587,10 @@ Data0=(-44.39405,171.25037)
 [POI]
 Type=0x2f
 Label=VTNZ VANGUARD ST
-StreetDesc=75 Vanguard St, Nelson/ Vehicle Testing Station, WoF, Warrant of Fitness, Certif
+StreetDesc=87 Vanguard St, Nelson/ Vehicle Testing Station, WoF, Warrant of Fitness, Certif
 Phone=+6435480658
 zip=See VTNZ website
-Data0=(-41.27589,173.27737)
+Data0=(-41.27662,173.27672)
 [END]
 
 ;1065562
@@ -31667,9 +31667,9 @@ Data0=(-43.64105,172.47749)
 [POI]
 Type=0x2a07
 Label=RED STAR LUXURY BURGERS
-StreetDesc=26 Ardmore St, Wanaka/ hamburgers, takeaways, fast food, deluxe, Trudy Pilbrow
+StreetDesc=26 Ardmore St, Wanaka 9305/ hamburgers, takeaways, fast food, deluxe, Trudy Pilb
 Phone=+6434439322
-Data0=(-44.69404,169.13985)
+Data0=(-44.69408,169.13975)
 [END]
 
 ;1094812
@@ -42299,8 +42299,8 @@ Data0=(-43.53905,172.58690)
 ;1103009
 [POI]
 Type=0x2b01
-Label=CEDAR GROVE MOTOR INN
-StreetDesc=Corner Trafalgar & Grove Streets, Nelson/ Accommodation
+Label=CEDAR GROVE MOTOR LODGE
+StreetDesc=Corner Trafalgar & Grove Streets, Nelson/ Luxury motel accommodation
 Phone=+6435451133
 Data0=(-41.26877,173.28386)
 [END]
@@ -51258,7 +51258,7 @@ Data0=(-45.87585,170.50632)
 
 ;1108383
 [POI]
-Type=0x2f
+Type=0x2b02
 Label=LAKE BRUNNER LODGE
 StreetDesc=Carew Bay, Mitchells, Westland/ 
 Phone=+6437380163
@@ -61151,7 +61151,7 @@ Data0=(-46.23980,169.73824)
 Type=0x2f
 Label=SWANNDRI NEW ZEALAND LTD
 StreetDesc=75 Clarence St, Riccarton, Chc/ 
-Phone=+6433410230
+Phone=+6433489042
 zip=Mon-Fri 0800-1730
 Data0=(-43.53894,172.60484)
 [END]
@@ -109961,14 +109961,6 @@ StreetDesc=134 Tahunanui Dr, Tahunanui, Nelson/
 Data0=(-41.28912,173.24665)
 [END]
 
-;1135120
-[POI]
-Type=0x2a
-Label=SUSHI HOUSE & FACTORY
-StreetDesc=87 Vanguard St, Nelson/ Japanese food
-Data0=(-41.27659,173.27677)
-[END]
-
 ;1135121
 [POI]
 Type=0x2b00
@@ -118931,9 +118923,9 @@ Data0=(-46.10004,168.94395)
 ;1140814
 [POI]
 Type=0x2f
-Label=HAMMONDS FUNERAL SERVICES
-StreetDesc=6 Irwell St, Gore/ Funeral Directors
-Phone=+6432085198
+Label=HAMMOND & RYDER FUNERAL SERVICES
+StreetDesc=3 Surrey St, Gore/ Funeral Directors
+Phone=+6432080949
 Data0=(-46.09761,168.94289)
 [END]
 
@@ -134514,10 +134506,11 @@ Data0=(-45.91284,169.68765)
 
 ;1147239
 [POI]
-Type=0x2b00
-Label=POUNAWEA CONVENTION CENTRE-KESWICK CAMPING GROUND
-StreetDesc=350 Pounawea Rd, Owaka/ Camping ground accommodation
-Data0=(-46.47355,169.69455)
+Type=0x2b03
+Label=POUNAWEA ACCOMODATION CENTRE & KESWICK CAMPING GROUND
+StreetDesc=43 Park Lane, Pounawea/ Camping ground accommodation
+Phone=+6434191110
+Data0=(-46.47292,169.69650)
 [END]
 
 ;1147240
@@ -146610,8 +146603,8 @@ Data0=(-42.52262,172.83102)
 ;1155737
 [POI]
 Type=0x2b01
-Label=KAURI MOTEL
-StreetDesc=1 Kauri St, Riccarton, Chc, Canterbury. Corner Kauri and Riccarton/ Luxury accom
+Label=KAURI MOTEL ON RICCARTON
+StreetDesc=Corner Kauri St and Riccarton Rd, Riccarton, Chc, Canterbury/ Luxury accommodati
 Phone=+6433415865
 Data0=(-43.52979,172.59724)
 [END]
@@ -149465,10 +149458,10 @@ Data0=(-43.64070,172.48458)
 ;1158498
 [POI]
 Type=0x2b01
-Label=TOURIST COURT MOTEL, DUNEDIN
-StreetDesc=842 George St, Dud/ Cottages, Motel, Accommodation
+Label=TOURIST COURT COTTAGES
+StreetDesc=842 George St, Dud/ Boutique Retro Motel Accommodation
 Phone=0800244664
-Data0=(-45.85987,170.51190)
+Data0=(-45.85977,170.51190)
 [END]
 
 ;1158505
@@ -150318,7 +150311,8 @@ Data0=(-42.41312,173.68847)
 [POI]
 Type=0x2b02
 Label=BLUE RIDGE BOUTIQUE B&B
-StreetDesc=15 Melland Place, Te Anau/ B&B Accommodation
+StreetDesc=15 Melland Place, Te Anau/ Luxury Studios & Bed & Breakfast Accommodation
+Phone=+6432497740
 Data0=(-45.41498,167.72309)
 [END]
 
@@ -153917,7 +153911,7 @@ Type=0x2b02
 Label=THE POINT BED & BREAKFAST
 StreetDesc=85 Fyffe Qy, Kaikoura/ B&B accommodation
 Phone=+6433195422
-Data0=(-42.39516,173.66577)
+Data0=(-42.42118,173.70856)
 [END]
 
 ;1159971
@@ -195919,10 +195913,11 @@ Data0=(-43.63418,172.71159)
 ;1181453
 [POI]
 Type=0x2a0e
-Label=?SPOON CAFE [FORMERLY COUNTRY CAFE]
-StreetDesc=Rangiora, Canterbury/ Coffee shop, restaurant. Food, drinks. Zenbu Wi-Fi wireles
+Label=?SPOON CAFE
+StreetDesc=47 Carters Rd Amberley 7410/ Coffee shop,Deli, restaurant. Great Food, pizza, dr
 Phone=+6433149146
-Data0=(-43.30336,172.59572)
+zip=6am - till close
+Data0=(-43.15084,172.73005)
 [END]
 
 ;1181459
@@ -198583,14 +198578,6 @@ Label=?SKYDIVE FRANZ
 StreetDesc=Main Rd, Franz Josef Glacier/ Tandem skydiving
 Phone=08004JUMPS
 Data0=(-43.38820,170.18184)
-[END]
-
-;1189492
-[POI]
-Type=0x2b03
-Label=POUNAWEA ACCOMMODATION CENTRE
-StreetDesc=43 Park Lane, Pounawea, Owaka/ Holiday Park accommodation
-Data0=(-46.47288,169.69650)
 [END]
 
 ;1189496
@@ -208442,5 +208429,24 @@ StreetDesc=2/150 Cavendish Rd, Casebrook, Chc/ Clock Museam
 Phone=+6433529064
 zip=9am to 5pm Weekdays
 Data0=(-43.47410,172.60787)
+[END]
+
+;1202799
+[POI]
+Type=0x2f
+Label=?COHERENCE SOLUTIONS
+StreetDesc=11 Lachlan Ave Dud 9016 New Zealand/ Business development coach: driving sales i
+Phone=+6434795849
+Data0=(-45.86015,170.50922)
+[END]
+
+;1202814
+[POI]
+Type=0x2f
+Label=MR STEWART SINCLAIR, PLASTIC SURGEON
+StreetDesc=5 Naseby St Merivale, 8014 Christhcurch/ Plastic surgeon working in private prac
+Phone=+6433556815
+zip=By Appointment
+Data0=(-43.51822,172.61698)
 [END]
 

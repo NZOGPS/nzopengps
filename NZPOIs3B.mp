@@ -17676,17 +17676,17 @@ Data0=(-43.54437,172.63668)
 ;1062594
 [POI]
 Type=0x4c
-Label=ALEXANDRA I-SITE VISITOR CENTRE
-StreetDesc=22 Centenial Ave/ Visitor information
+Label=ALEXANDRA I-SITE VISITOR INFORMATION CENTRE
+StreetDesc=21 Centennial Ave, Central Stories Blg, Alexandra/ Tourist and visitor informati
 Phone=+6434489515
-Data0=(-45.25427,169.39149)
+Data0=(-45.25421,169.39163)
 [END]
 
 ;1062601
 [POI]
 Type=0x4c
-Label=ASHBURTON I-SITE VISITOR CENTRE
-StreetDesc=East St Ashburton/ Visitor information
+Label=ASHBURTON I-SITE VISITOR INFORMATION CENTRE
+StreetDesc=East St, Ashburton/ Tourist and visitor information
 Phone=+6433081050
 Data0=(-43.90082,171.75333)
 [END]
@@ -17694,8 +17694,8 @@ Data0=(-43.90082,171.75333)
 ;1062608
 [POI]
 Type=0x4c
-Label=BALCLUTHA I-SITE VISITOR CENTRE
-StreetDesc=4 Clyde St/ Visitor information
+Label=CLUTHA I-SITE VISITOR INFORMATION CENTRE
+StreetDesc=4 Clyde St, Balclutha/ Tourist and visitor information
 Phone=+6434180388
 Data0=(-46.23650,169.74272)
 [END]
@@ -17703,8 +17703,8 @@ Data0=(-46.23650,169.74272)
 ;1062615
 [POI]
 Type=0x4c
-Label=VISITOR INFORMATION CENTRE BLENHEIM
-StreetDesc=Blenheim Railway Station, Sinclair St, Blenheim/ Visitor information, i-site
+Label=BLENHEIM I-SITE VISITOR INFORMATION CENTRE
+StreetDesc=Blenheim Railway Station, Sinclair St, Blenheim/ Tourist and visitor information
 Phone=+6435778080
 Data0=(-41.50945,173.95953)
 [END]
@@ -17712,27 +17712,27 @@ Data0=(-41.50945,173.95953)
 ;1062622
 [POI]
 Type=0x4c
-Label=CHRISTCHURCH AIRPORT I-SITE VISITOR CENTRE
-StreetDesc=Domestic Terminal, Chc Airport/ Visitor information
+Label=CHRISTCHURCH AIRPORT I-SITE VISITOR INFORMATION CENTRE
+StreetDesc=Chc Airport, Chc/ Tourist and visitor information
 Phone=+6433537774
-Data0=(-43.48906,172.53887)
+Data0=(-43.48668,172.53788)
 [END]
 
 ;1062629
 [POI]
 Type=0x4c
-Label=CHRISTCHURCH I-SITE VISITOR CENTRE
-StreetDesc=Old Chief Post Office, Cathedral Sq/ Visitor information
+Label=CHRISTCHURCH I-SITE VISITOR INFORMATION CENTRE
+StreetDesc=Botanic Gardens, Rolleston Ave, Chc/ Tourist and visitor information
 Phone=+6433799629
 zip=7 days from 8.30am
-Data0=(-43.53135,172.63540)
+Data0=(-43.53095,172.62759)
 [END]
 
 ;1062636
 [POI]
 Type=0x4c
-Label=CROMWELL I-SITE VISITOR CENTRE
-StreetDesc=47 The Mall, Cromwell/ Visitor information
+Label=CROMWELL I-SITE VISITOR INFORMATIONCENTRE
+StreetDesc=47 The Mall, Cromwell/ Tourist and visitor information
 Phone=+6434450212
 Data0=(-45.03716,169.19763)
 [END]
@@ -17740,10 +17740,10 @@ Data0=(-45.03716,169.19763)
 ;1062643
 [POI]
 Type=0x4c
-Label=DUNEDIN I-SITE VISITOR CENTRE
-StreetDesc=48 The Octagon, Dud/ Visitor information
+Label=DUNEDIN I-SITE VISITOR INFORMATION CENTRE
+StreetDesc=26 Princes St, Dud/ Tourist and visitor information
 Phone=+6434743300
-Data0=(-45.87358,170.50343)
+Data0=(-45.87489,170.50294)
 [END]
 
 ;1062650
@@ -17759,8 +17759,8 @@ Data0=(-44.09249,171.24468)
 ;1062657
 [POI]
 Type=0x4c
-Label=GOLDEN BAY I-SITE VISITOR CENTRE
-StreetDesc=Willow St, Takaka/ Visitor information
+Label=GOLDEN BAY I-SITE VISITOR INFORMATION CENTRE (TAKAKA)
+StreetDesc=Willow St, Takaka, Golden Bay/ Tourist and visitor information
 Phone=+6435259136
 Data0=(-40.86138,172.80582)
 [END]
@@ -17786,8 +17786,8 @@ Data0=(-42.44886,171.20761)
 ;1062678
 [POI]
 Type=0x4c
-Label=HANMER SPRINGS I-SITE VISITOR CENTRE
-StreetDesc=42 Arnuri Ave West, Hanmer Springs/ Visitor & tourist information, i-site, accom
+Label=HURUNUI I-SITE VISITOR INFORMATION CENTRE
+StreetDesc=42 Amuri Ave West, Hanmer Springs/ Tourist and visitor information
 Phone=+6433150020
 Data0=(-42.52307,172.82888)
 [END]
@@ -17795,8 +17795,8 @@ Data0=(-42.52307,172.82888)
 ;1062685
 [POI]
 Type=0x4c
-Label=WESTLAND I-SITE VISITOR CENTRE
-StreetDesc=36 Weld St, Hokitika/ Tourist & visitor information
+Label=HOKITIKA I-SITE VISITOR INFORMATION CENTRE
+StreetDesc=36 Weld St, Hokitika/ Tourist and visitor information
 Phone=+6437556166
 Data0=(-42.71809,170.96405)
 [END]
@@ -17804,17 +17804,17 @@ Data0=(-42.71809,170.96405)
 ;1062692
 [POI]
 Type=0x4c
-Label=INVERCARGILL I-SITE VISITOR CENTRE
-StreetDesc=Queens Park, 108 Gala St, Invercargill/ Visitor information
-Phone=+6432146243
+Label=INVERCARGILL I-SITE VISITOR INFORMATION CENTRE
+StreetDesc=Queens Park, 108 Gala St, Invercargill/ Tourist and visitor information
+Phone=+6432110895
 Data0=(-46.40557,168.35358)
 [END]
 
 ;1062699
 [POI]
 Type=0x4c
-Label=KAIKOURA I-SITE VISITOR CENTRE
-StreetDesc=Westend, Kaikoura/ Visitor information
+Label=KAIKOURA I-SITE VISITOR INFORMATION CENTRE
+StreetDesc=Westend, Kaikoura/ Tourist and visitor information
 Phone=+6433195641
 Data0=(-42.40269,173.68297)
 [END]
@@ -17831,8 +17831,8 @@ Data0=(-43.60224,172.71934)
 ;1062713
 [POI]
 Type=0x4c
-Label=METHVEN I-SITE VISITOR CENTRE
-StreetDesc=160 Main St, Methven/ Visitor information
+Label=METHVEN I-SITE VISITOR INFORMATION CENTRE
+StreetDesc=160 Main St, Methven/ Tourist and visitor information
 Phone=+6433028955
 Data0=(-43.63056,171.64761)
 [END]
@@ -17841,7 +17841,7 @@ Data0=(-43.63056,171.64761)
 [POI]
 Type=0x4c
 Label=MOTUEKA I-SITE VISITOR INFORMATION CENTRE
-StreetDesc=20 Wallace St, Motueka/ Visitor information. Abel Tasman Region i-SITE.
+StreetDesc=20 Wallace St, Motueka/ Tourist and visitor information
 Phone=+6435286543
 zip=Winter Hours: Mon - Fri 9am to 4.30pm, S
 Data0=(-41.11166,173.01233)
@@ -17850,8 +17850,8 @@ Data0=(-41.11166,173.01233)
 ;1062727
 [POI]
 Type=0x4c
-Label=NELSON I-SITE VISITOR CENTRE
-StreetDesc=77 Trafalgar St, Nelson/ Visitor information
+Label=NELSON I-SITE VISITOR INFORMATION CENTRE
+StreetDesc=Millers Acre Ctr, Taha o te Awa, 77 Trafalgar St, Nelson/ Tourist and visitor in
 Phone=+6435482304
 Data0=(-41.27058,173.28427)
 [END]
@@ -17859,8 +17859,8 @@ Data0=(-41.27058,173.28427)
 ;1062734
 [POI]
 Type=0x4c
-Label=OAMARU I-SITE VISITOR CENTRE
-StreetDesc=1 Thames St, Oamaru/ Visitor information
+Label=OAMARU I-SITE VISITOR INFORMATION CENTRE
+StreetDesc=1 Thames St, Oamaru/ Tourist and visitor information
 Phone=+6434341656
 Data0=(-45.10195,170.96914)
 [END]
@@ -17868,8 +17868,8 @@ Data0=(-45.10195,170.96914)
 ;1062741
 [POI]
 Type=0x4c
-Label=PICTON I-SITE VISITOR CENTRE
-StreetDesc=The Foreshore, Picton/ Visitor information
+Label=PICTON I-SITE VISITOR INFORMATION CENTRE
+StreetDesc=The Foreshore, Picton/ Tourist and visitor information
 Phone=+6435203113
 Data0=(-41.28601,174.00520)
 [END]
@@ -17877,8 +17877,8 @@ Data0=(-41.28601,174.00520)
 ;1062748
 [POI]
 Type=0x4c
-Label=QUEENSTOWN I-SITE VISITOR CENTRE
-StreetDesc=Cnr Camp & Shotover Streets, Queenstown/ Visitor information
+Label=QUEENSTOWN I-SITE VISITOR INFORMATION CENTRE
+StreetDesc=Cnr Camp & Shotover Streets, Queenstown/ Tourist and visitor information
 Phone=+6434424100
 Data0=(-45.03097,168.66049)
 [END]
@@ -17886,8 +17886,8 @@ Data0=(-45.03097,168.66049)
 ;1062755
 [POI]
 Type=0x4c
-Label=REEFTON I-SITE VISITOR CENTRE
-StreetDesc=67-69 Broadway, Reefton/ Visitor information
+Label=REEFTON I-SITE VISITOR INFORMATION CENTRE
+StreetDesc=67-69 Broadway, Reefton/ Tourist and visitor information
 Phone=+6437328391
 Data0=(-42.11976,171.86475)
 [END]
@@ -17904,9 +17904,9 @@ Data0=(-46.89783,168.12675)
 ;1062769
 [POI]
 Type=0x4c
-Label=FIORDLAND I-SITE VISITOR CENTRE
-StreetDesc=Lake Front Dr, Te Anau/ Visitor information
-Phone=+6436886163
+Label=FIORDLAND I-SITE VISITOR INFORMATION CENTRE
+StreetDesc=Lake Front Dr, Te Anau/ Tourist and visitor information
+Phone=+6432498900
 Data0=(-45.41739,167.71175)
 [END]
 
@@ -17922,8 +17922,8 @@ Data0=(-44.39690,171.25583)
 ;1062783
 [POI]
 Type=0x4c
-Label=WANAKA I-SITE VISITOR CENTRE
-StreetDesc=100 Ardmore St, Lake Front, Wanaka/ Visitor information
+Label=LAKE WANAKA I-SITE VISITOR INFORMATION CENTRE
+StreetDesc=100 Ardmore St, Lake Front, Wanaka/ Tourist and visitor information
 Phone=+6434431233
 Data0=(-44.69444,169.13467)
 [END]
@@ -29609,8 +29609,8 @@ Data0=(-45.19195,169.32028)
 ;1093698
 [POI]
 Type=0x4c
-Label=KAIAPOI I-SITE VISITOR CENTRE
-StreetDesc=Old Railway Station, Charles St, Kaiapoi/ Visitor information
+Label=KAIAPOI I-SITE VISITOR INFORMATION CENTRE
+StreetDesc=Old Railway Station, Charles St, Kaiapoi/ Tourist and visitor information
 Phone=+6433273134
 Data0=(-43.38273,172.65894)
 [END]
@@ -36617,8 +36617,8 @@ Data0=(-45.87488,170.50616)
 ;1099082
 [POI]
 Type=0x4c
-Label=DEPARTMENT OF CONSERVATION, PAPAROA NATIONAL PARK VISITOR CENTRE
-StreetDesc=Paparoa, Main Rd, State Highway, Punakaiki/ DOC visitor information
+Label=PAPAROA NATIONAL PARK I-SITE & DOC VISITOR INFORMATION CENTRE
+StreetDesc=Main Rd, State Highway 6, Punakaiki/ Tourist and visitor information
 Phone=+6437311895
 Data0=(-42.11513,171.33029)
 [END]
@@ -36734,8 +36734,8 @@ Data0=(-42.71959,170.96263)
 ;1099112
 [POI]
 Type=0x4c
-Label=DEPARTMENT OF CONSERVATION, WESTLAND TAI POUTINI NATIONAL PARK VISITOR CENTRE
-StreetDesc=Main Rd, Franz Josef/ DOC visitor information, Franz Josef - Waiau Area Office
+Label=DEPARTMENT OF CONSERVATION, WESTLAND TAI POUTINI NATIONAL PARK VISITOR CENTRE & 
+StreetDesc=Main Rd, State Highway 6, Franz Josef/ DOC visitor information, Franz Josef - Wa
 Phone=+6437520796
 Data0=(-43.39065,170.18102)
 [END]
@@ -42618,10 +42618,10 @@ Data0=(-45.89424,170.50181)
 ;1103227
 [POI]
 Type=0x2f
-Label=CHRISTCHURCH & CANTERBURY MARKETING LTD
-StreetDesc=Old Central Post Office, Cathedral Sq, Chc/ 
-Phone=+6433799629
-Data0=(-43.53133,172.63545)
+Label=CHRISTCHURCH & CANTERBURY TOURISM
+StreetDesc=L 4 Car Park Blg, Chc Intl Airport, Chc 8053/ 
+Phone=+6433782388
+Data0=(-43.48947,172.54064)
 [END]
 
 ;1103228
@@ -43949,11 +43949,11 @@ Data0=(-45.88445,170.35791)
 
 ;1103963
 [POI]
-Type=0x2f
-Label=CROMWELL INFORMATION CENTRE/MUSEUM
+Type=0x2c02
+Label=CROMWELL AND DISTRICTS MUSEUM
 StreetDesc=47 The Mall, Cromwell/ 
 Phone=+6434450212
-zip=Open Daily 1000am-0400pm
+zip=Summer 9am-6pm, Winter 9am-5pm
 Data0=(-45.03716,169.19763)
 [END]
 
@@ -51279,10 +51279,10 @@ Data0=(-41.49222,173.83751)
 [POI]
 Type=0x2f
 Label=LAKE WANAKA TOURISM
-StreetDesc=47 Ardmore St, Wanaka/ 
-Phone=+6434431233
-zip=Weekdays: 0830am - 0530pm
-Data0=(-44.69422,169.13876)
+StreetDesc=99 Ardmore St, Wanaka/ 
+Phone=+6434431574
+zip=Mon-Fri 8.30am-5.30pm
+Data0=(-44.69479,169.13546)
 [END]
 
 ;1108393
@@ -57627,15 +57627,6 @@ Label=QUEENSTOWN TAXIS
 StreetDesc=56 Shotover St, Queenstown/ 
 Phone=+6434427788
 Data0=(-45.03228,168.65851)
-[END]
-
-;1112158
-[POI]
-Type=0x2f
-Label=QUEENSTOWN TRAVEL & VISITOR CENTRE LTD
-StreetDesc=Corner Shotover & Camp Streets, Queenstown/ 
-Phone=+6434424100
-Data0=(-45.03104,168.66050)
 [END]
 
 ;1112175
@@ -103812,16 +103803,16 @@ Data0=(-42.71858,170.96160)
 ;1132476
 [POI]
 Type=0x2f08
-Label=ATOMIC SHUTTLES BUS STOP, INVERCARGILL ISITE, GALA ST
-StreetDesc=Invercargill iSite, Gala St, Invercargill/ Ground Transport
-Data0=(-46.40553,168.35318)
+Label=ATOMIC SHUTTLES BUS STOP, INVERCARGILL
+StreetDesc=Gala St, Invercargill/ Ground Transport
+Data0=(-46.40564,168.35355)
 [END]
 
 ;1132477
 [POI]
 Type=0x2f08
-Label=ATOMIC SHUTTLES BUS STOP, KAIKOURA ISITE, WESTEND
-StreetDesc=Kaikoura iSite, Westend, Kaikoura/ Ground Transport
+Label=ATOMIC SHUTTLES BUS STOP KAIKOURA
+StreetDesc=Westend, Kaikoura/ Ground Transport
 Data0=(-42.40266,173.68290)
 [END]
 
@@ -103868,8 +103859,8 @@ Data0=(-44.69443,169.13419)
 ;1132483
 [POI]
 Type=0x2f08
-Label=ATOMIC SHUTTLES BUS STOP, TIMARU ISITE , 2 GEORGE ST
-StreetDesc=Timaru iSite , 2 George St, Timaru/ Ground Transport
+Label=ATOMIC SHUTTLES BUS STOP, TIMARU
+StreetDesc=2 George St, Timaru/ Ground Transport
 Data0=(-44.39690,171.25582)
 [END]
 
@@ -148465,7 +148456,7 @@ Data0=(-43.64759,172.53368)
 [POI]
 Type=0x2a0e
 Label=STATION 73
-StreetDesc=Springfield Railway Station, King St, Springfield/ Cafe, I-Site
+StreetDesc=Springfield Railway Station, King St, Springfield/ Cafe, tourist information
 Phone=+6433184000
 zip=8.30am - 4.00pm
 Data0=(-43.33420,171.93043)
@@ -187546,8 +187537,8 @@ Data0=(-46.33952,168.05593)
 
 ;1177181
 [POI]
-Type=0x2f11
-Label=GREYMOUTH I-SITE WEST COAST TRAVEL CENTRE
+Type=0x4c
+Label=GREYMOUTH I-SITE VISITOR INFORMATION CENTRE
 StreetDesc=164 Mackay St, Greymouth/ The official Greymouth visitor information centre offe
 Phone=+6437687080
 Data0=(-42.44843,171.21399)
@@ -208448,5 +208439,60 @@ StreetDesc=5 Naseby St Merivale, 8014 Christhcurch/ Plastic surgeon working in p
 Phone=+6433556815
 zip=By Appointment
 Data0=(-43.51822,172.61698)
+[END]
+
+;1203305
+[POI]
+Type=0x4c
+Label=RANFURLY I-SITE VISITOR INFORMATION CENTRE
+StreetDesc=3 Charlemont St East, Ranfurly/ Tourist and visitor information
+Phone=+6434441005
+Data0=(-45.13006,170.09932)
+[END]
+
+;1203319
+[POI]
+Type=0x2f
+Label=CHRISTCHURCH AIRPORT BUSINESS PARK
+StreetDesc=92 Russley Rd, Chc/ 
+Phone=+6421235910
+Data0=(-43.51411,172.53881)
+[END]
+
+;1203341
+[POI]
+Type=0x2c0a
+Label=O'DWYERS CREEK VINEYARD
+StreetDesc=76 O'Dwyers Rd Blenheim/ kosher wine, white wine,
+Phone=+6435705443
+Data0=(-41.47447,173.93154)
+[END]
+
+;1203345
+[POI]
+Type=0x2f
+Label=THE DIFFERENT
+StreetDesc=2 Moncks Spur Rd, Redcliffs, Chc/ The Different is a boutique branding and adver
+Phone=+6433842445
+Data0=(-43.56300,172.73967)
+[END]
+
+;1203351
+[POI]
+Type=0x2f
+Label=?HORSE DEALS
+StreetDesc=13 westcott St, dallington/ Horses for sale, all thing equine related for sale f
+Phone=+6421824030
+Data0=(-43.51291,172.67173)
+[END]
+
+;1203354
+[POI]
+Type=0x2f
+Label=G&E DENTAL
+StreetDesc=369 Main South Rd/ Dentist Christchurch, Emergency dentist christchurch, toothac
+Phone=0800433368
+zip=9am - 10pm (Weekdays) ; 9am - 5pm (Weeke
+Data0=(-43.54361,172.52947)
 [END]
 

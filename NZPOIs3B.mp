@@ -201846,10 +201846,10 @@ Data0=(-41.48955,173.83617)
 [POI]
 Type=0x2c0a
 Label=ROCK FERRY WINES
-StreetDesc=66 Jeffries Rd, Rapaura, Blenheim/ Winery, cellar door, Restaurant
+StreetDesc=80 Hammerichs Rd, Rapaura, Blenheim/ Winery, cellar door, Restaurant
 Phone=+35796430
-zip=10 - 4 Mon - Fri
-Data0=(-41.47674,173.84535)
+zip=10 - 4.30 - 7 Days
+Data0=(-41.49250,173.91549)
 [END]
 
 ;1191451
@@ -207197,7 +207197,7 @@ Data0=(-43.30877,172.59126)
 
 ;1196327
 [POI]
-Type=0x2e02
+Type=0x2e
 Label=GROCERY KING
 StreetDesc=366 King Edward St, Dud 9012/ Supermarket in Dunedin with all groceries, fresh f
 Phone=+6434551679
@@ -208494,5 +208494,25 @@ StreetDesc=369 Main South Rd/ Dentist Christchurch, Emergency dentist christchur
 Phone=0800433368
 zip=9am - 10pm (Weekdays) ; 9am - 5pm (Weeke
 Data0=(-43.54361,172.52947)
+[END]
+
+;1203369
+[POI]
+Type=0x2f
+Label=?EYE DETAIL LTD
+StreetDesc=4 Ensor Dr, Hanmer Springs/ Printing, marketing, web design, sign writing and ph
+Phone=+6433157099
+zip=8am - 8pn Monday to Sunday
+Data0=(-42.53725,172.81798)
+[END]
+
+;1203374
+[POI]
+Type=0x2f
+Label=CANTERBURY BUILDERS
+StreetDesc=330 bryndwar, Chc/ Canterbury Builders, home builders christchurch, builders chr
+Phone=+6434239022
+zip=8.30am - 5.00pm
+Data0=(-43.50893,172.58522)
 [END]
 

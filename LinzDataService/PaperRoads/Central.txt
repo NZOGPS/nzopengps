@@ -231,7 +231,6 @@ NO SUFI			ARDEN ST		New Plymouth (Taranaki, NZ)
 29306	STANLEY RD		WESTMERE
 26629	BURNET TERRACE		Wanganui (Manawatu-Wanganui, NZ)
 26394	WAIPUNA RD		Moawhango (Manawatu-Wanganui, NZ)
-41763	TE MOHO ST		Motuoapa (Waikato, NZ)	
 45841	RERE RD			Ohura (Manawatu-Wanganui, NZ)
 45794	PLATEAU COLLIERY RD	Ohura (Manawatu-Wanganui, NZ)
 45820	MINE RD			Ohura (Manawatu-Wanganui, NZ)

@@ -8276,9 +8276,9 @@ Data0=(-43.48164,172.70600)
 
 ;1029190
 [POI]
-Type=0x2e
+Type=0x2e02
 Label=WOOLSTON NEW WORLD
-StreetDesc=7-11 St Johns St, Woolston/ Supermarket, Lotto, Fresh Fruit & Vegetables
+StreetDesc=7-11 St Johns St, Woolston/ Supermarket, Lotto, Fresh Fruit & Vegetables, Butche
 Phone=+6433841140
 zip=8am - 8pm, 7 days
 Data0=(-43.54947,172.68461)
@@ -8948,7 +8948,7 @@ Data0=(-41.11470,173.01192)
 [POI]
 Type=0x2e
 Label=SUPER LIQUOR ALEXANDRA
-StreetDesc=33 Centennial Ave, Alexandra/ liquor, beer, wine, spirits
+StreetDesc=33 Centennial Ave, Alexandra 9320/ Liquor, beer, wine, spirits
 Phone=+6434487187
 Data0=(-45.25310,169.39037)
 [END]
@@ -8957,7 +8957,7 @@ Data0=(-45.25310,169.39037)
 [POI]
 Type=0x2e
 Label=SUPER LIQUOR ANDY BAY
-StreetDesc=Cnr Andersons Bay Rd & Colston St, Dud/ liquor, beer, wine, spirits
+StreetDesc=460 Andersons Bay Rd, Dud South, Dud 9012/ Liquor, beer, wine, spirits
 Phone=+6434553737
 Data0=(-45.89520,170.50663)
 [END]
@@ -8966,8 +8966,8 @@ Data0=(-45.89520,170.50663)
 [POI]
 Type=0x2e
 Label=SUPER LIQUOR ASHBURTON
-StreetDesc=17-21 Racecourse Rd, Ashburton/ liquor, beer, wine, spirits
-Phone=+6433083059
+StreetDesc=17-21 Racecourse Rd, Canterbury, Ashburton 7700/ Liquor, beer, wine, spirits
+Phone=+6433078887
 Data0=(-43.88977,171.76495)
 [END]
 
@@ -8975,7 +8975,7 @@ Data0=(-43.88977,171.76495)
 [POI]
 Type=0x2e
 Label=SUPER LIQUOR BARRINGTON
-StreetDesc=Shop 72, Barrington Mall, 256 Barrington St, Spreydon, Chc/ liquor, beer, wine, 
+StreetDesc=Shop 72 Barrington Mall, 256 Barrington St, Spreydon, Chc, 8024./ Liquor, beer, 
 Phone=+6433375055
 Data0=(-43.55671,172.61857)
 [END]
@@ -8984,7 +8984,7 @@ Data0=(-43.55671,172.61857)
 [POI]
 Type=0x2e
 Label=SUPER LIQUOR BROUGHAM
-StreetDesc=151 Waltham Rd, Brougham/ liquor, beer, wine, spirits
+StreetDesc=151 Waltham Rd, Sydenham, Chc 8023/ Liquor, beer, wine, spirits
 Phone=+6433665737
 Data0=(-43.54689,172.64650)
 [END]
@@ -8993,7 +8993,7 @@ Data0=(-43.54689,172.64650)
 [POI]
 Type=0x2e
 Label=SUPER LIQUOR COLLINGWOOD
-StreetDesc=44 North Rd, Invercargill/ liquor, beer, wine, spirits
+StreetDesc=44 North Rd, Prestonville, Invercargill 9810/ Liquor, beer, wine, spirits
 Phone=+6432158308
 Data0=(-46.38792,168.34705)
 [END]
@@ -9001,8 +9001,8 @@ Data0=(-46.38792,168.34705)
 ;1031479
 [POI]
 Type=0x2e
-Label=SUPER LIQUOR COLOMBO ST
-StreetDesc=Shop 6, 300 Colombo St, Chc/ liquor, beer, wine, spirits
+Label=SUPER LIQUOR COLOMBO STREET
+StreetDesc=300 Colombo St, Sydenham, Chc 8023/ Liquor, beer, wine, spirits
 Phone=+6433375599
 Data0=(-43.54909,172.63692)
 [END]
@@ -9011,7 +9011,7 @@ Data0=(-43.54909,172.63692)
 [POI]
 Type=0x2e
 Label=SUPER LIQUOR CROMWELL
-StreetDesc=Barry Ave, Cromwell/ liquor, beer, wine, spirits
+StreetDesc=Barry Ave, Cromwell 9310/ Liquor, beer, wine, spirits
 Phone=+6434451708
 Data0=(-45.03608,169.19991)
 [END]
@@ -9019,8 +9019,8 @@ Data0=(-45.03608,169.19991)
 ;1031493
 [POI]
 Type=0x2e
-Label=SUPER LIQUOR CUMBERLAND ST
-StreetDesc=867 Cumberland St, Dud/ liquor, beer, wine, spirits
+Label=SUPER LIQUOR CUMBERLAND STREET
+StreetDesc=867 Cumberland St, Dud 9016/ Liquor, beer, wine, spirits
 Phone=+6434770044
 Data0=(-45.85969,170.51474)
 [END]
@@ -9029,7 +9029,7 @@ Data0=(-45.85969,170.51474)
 [POI]
 Type=0x2e
 Label=SUPER LIQUOR EASTGATE
-StreetDesc=227 Linwood Ave, Chc/ liquor, beer, wine, spirits
+StreetDesc=227 Linwood Ave, Linwood, Chc 8011/ Liquor, beer, wine, spirits
 Phone=+6433813660
 Data0=(-43.53266,172.67281)
 [END]
@@ -9038,7 +9038,7 @@ Data0=(-43.53266,172.67281)
 [POI]
 Type=0x2e
 Label=SUPER LIQUOR GERALDINE
-StreetDesc=31-41 Talbot St, Geraldine/ liquor, beer, wine, spirits
+StreetDesc=41 Talbot St, Geraldine 7930/ Liquor, beer, wine, spirits
 Phone=+6436931003
 Data0=(-44.09175,171.24452)
 [END]
@@ -9047,8 +9047,8 @@ Data0=(-44.09175,171.24452)
 [POI]
 Type=0x2e
 Label=SUPER LIQUOR GREEN ISLAND
-StreetDesc=237 Main South Rd, Green Island, Dud/ liquor, beer, wine, spirits
-Phone=+6434882134
+StreetDesc=237 Main South Rd, Green Island, Dud 9018/ Liquor, beer, wine, spirits
+Phone=+6434882368
 Data0=(-45.90275,170.42423)
 [END]
 
@@ -9056,7 +9056,7 @@ Data0=(-45.90275,170.42423)
 [POI]
 Type=0x2e
 Label=SUPER LIQUOR GREYMOUTH
-StreetDesc=14 Boundary St, Greymouth/ liquor, beer, wine, spirits
+StreetDesc=14 Boundary St, Greymouth 7805/ Liquor, beer, wine, spirits
 Phone=+6437684400
 Data0=(-42.44851,171.20670)
 [END]
@@ -9064,8 +9064,8 @@ Data0=(-42.44851,171.20670)
 ;1031563
 [POI]
 Type=0x2e
-Label=SUPER LIQUOR GROVE RD
-StreetDesc=19 Grove Rd, Blenheim/ liquor, beer, wine, spirits
+Label=SUPER LIQUOR GROVE ROAD
+StreetDesc=19 Grove Rd, Mayfield, Blenheim 7201/ Liquor, beer, wine, spirits
 Phone=+6435778615
 Data0=(-41.50904,173.95894)
 [END]
@@ -9074,7 +9074,7 @@ Data0=(-41.50904,173.95894)
 [POI]
 Type=0x2e
 Label=SUPER LIQUOR HALSWELL
-StreetDesc=344 Halswell Rd, Chc/ liquor, beer, wine, spirits
+StreetDesc=344 Halswell Rd, Halswell, Chc 8025/ Liquor, beer, wine, spirits
 Phone=+6433224205
 Data0=(-43.57976,172.56653)
 [END]
@@ -9083,8 +9083,8 @@ Data0=(-43.57976,172.56653)
 [POI]
 Type=0x2e
 Label=SUPER LIQUOR HOKITIKA
-StreetDesc=111 Revell St, Westland/ liquor, beer, wine, spirits
-Phone=+6437558344
+StreetDesc=Beachfront Hotel, 111 Revell St, Hokitika 7810/ Liquor, beer, wine, spirits
+Phone=+6437569050
 Data0=(-42.71626,170.96268)
 [END]
 
@@ -9102,7 +9102,7 @@ Data0=(-43.54289,172.52243)
 [POI]
 Type=0x2e
 Label=SUPER LIQUOR LORNEVILLE
-StreetDesc=Riverton Wallacetown Hwy, Lorneville/ liquor, beer, wine, spirits
+StreetDesc=31 Wallacetown Riverton Highway, Lorneville, Invercargill 9874/ Liquor, beer, wi
 Phone=+6432358033
 Data0=(-46.34524,168.34217)
 [END]
@@ -9111,7 +9111,7 @@ Data0=(-46.34524,168.34217)
 [POI]
 Type=0x2e
 Label=SUPER LIQUOR MOSGIEL
-StreetDesc=24 Factory Rd, Mosgiel/ liquor, beer, wine, spirits
+StreetDesc=24 Factory Rd, Mosgiel, Dud 9024/ Liquor, beer, wine, spirits
 Phone=+6434896047
 Data0=(-45.87315,170.35083)
 [END]
@@ -9120,7 +9120,7 @@ Data0=(-45.87315,170.35083)
 [POI]
 Type=0x2e
 Label=SUPER LIQUOR MOTUEKA
-StreetDesc=238 High St, Motueka/ liquor, beer, wine, spirits
+StreetDesc=238 High St, Motueka 7120/ Liquor, beer, wine, spirits
 Phone=+6435281113
 Data0=(-41.11373,173.01040)
 [END]
@@ -9129,7 +9129,7 @@ Data0=(-41.11373,173.01040)
 [POI]
 Type=0x2e
 Label=SUPER LIQUOR OAMARU
-StreetDesc=245 Thames St, Oamaru/ liquor, beer, wine, spirits
+StreetDesc=245 Thames St, Oamaru 9400/ Liquor, beer, wine, spirits
 Phone=+6434341544
 Data0=(-45.09499,170.97270)
 [END]
@@ -9137,8 +9137,8 @@ Data0=(-45.09499,170.97270)
 ;1031808
 [POI]
 Type=0x2e
-Label=SUPER LIQUOR PAGES RD
-StreetDesc=51 Pages Rd, Aranui, Chc/ liquor, beer, wine, spirits
+Label=SUPER LIQUOR PAGES ROAD
+StreetDesc=51 Pages Rd, Linwood, Chc 8062/ Liquor, beer, wine, spirits
 Phone=+6433896370
 Data0=(-43.52401,172.68554)
 [END]
@@ -9147,7 +9147,7 @@ Data0=(-43.52401,172.68554)
 [POI]
 Type=0x2e
 Label=SUPER LIQUOR PAPANUI
-StreetDesc=22 Harewood Rd, Chc/ liquor, beer, wine, spirits
+StreetDesc=22 Harewood Rd, Papanui, Chc 8053/ Liquor, beer, wine, spirits
 Phone=+6433526416
 Data0=(-43.49627,172.60650)
 [END]
@@ -9156,7 +9156,7 @@ Data0=(-43.49627,172.60650)
 [POI]
 Type=0x2e
 Label=SUPER LIQUOR PARKLANDS
-StreetDesc=6 Inwoods Rd, Parklands, Chc/ liquor, beer, wine, spirits
+StreetDesc=6 Inwoods Rd, Parklands, Chc 8083/ Liquor, beer, wine, spirits
 Phone=+6433870058
 Data0=(-43.48148,172.69864)
 [END]
@@ -9165,7 +9165,7 @@ Data0=(-43.48148,172.69864)
 [POI]
 Type=0x2e
 Label=SUPER LIQUOR RICHMOND
-StreetDesc=3 Salisbury Rd, Richmond/ liquor, beer, wine, spirits
+StreetDesc=3 Salisbury Rd, Richmond, Nelson 7020/ Liquor, beer, wine, spirits
 Phone=+6435446183
 Data0=(-41.34206,173.18840)
 [END]
@@ -9174,7 +9174,7 @@ Data0=(-41.34206,173.18840)
 [POI]
 Type=0x2e
 Label=SUPER LIQUOR SOUTHLAND
-StreetDesc=406 Elles Rd, Invercargill/ liquor, beer, wine, spirits
+StreetDesc=406 Elles Rd, Invercargill 9812/ Liquor, beer, wine, spirits
 Phone=+6432165329
 Data0=(-46.43444,168.36169)
 [END]
@@ -9183,7 +9183,7 @@ Data0=(-46.43444,168.36169)
 [POI]
 Type=0x2e
 Label=SUPER LIQUOR TIMARU
-StreetDesc=29 Stafford St, Timaru/ liquor, beer, wine, spirits
+StreetDesc=29 Stafford St, Timaru 7910/ Liquor, beer, wine, spirits
 Phone=+6436846721
 Data0=(-44.40013,171.25651)
 [END]
@@ -9192,7 +9192,7 @@ Data0=(-44.40013,171.25651)
 [POI]
 Type=0x2e
 Label=SUPER LIQUOR WINTON
-StreetDesc=232 Great North Rd, Winton/ liquor, beer, wine, spirits
+StreetDesc=232 Great North Rd, Winton 9720/ Liquor, beer, wine, spirits
 Phone=+6432368413
 Data0=(-46.14314,168.32509)
 [END]
@@ -9210,7 +9210,7 @@ Data0=(-43.32853,172.66632)
 [POI]
 Type=0x2f01
 Label=BP CONNECT FENDALTON
-StreetDesc=1 Memorial Ave, Chc/ BP petrol station, Wild Bean cafe, Ultimate
+StreetDesc=1 Memorial Ave, Chc/ Service station. AA Smartfuel, ATM, BP Ultimate, BP Ultimat
 Phone=+6433514760
 Data0=(-43.51863,172.58998)
 [END]
@@ -9218,8 +9218,8 @@ Data0=(-43.51863,172.58998)
 ;1032081
 [POI]
 Type=0x2f01
-Label=BP WESTBOUND MOTORS (1996) LTD
-StreetDesc=2 Diana St, Lumsden/ BP petrol station
+Label=BP WESTBOUND MOTORS
+StreetDesc=2 Diana St, Lumsden/ BP Service station. AA Smartfuel, Diesel, Unleaded 91, Unle
 Phone=+6432487666
 Data0=(-45.73781,168.44152)
 [END]
@@ -9236,9 +9236,9 @@ Data0=(-43.29703,172.19802)
 ;1032116
 [POI]
 Type=0x2f01
-Label=BP ALPINE SERVICES
-StreetDesc=5 Mount Cook Rd, Fairlie/ BP petrol station
-Phone=+6436858605
+Label=BP 2GO FAIRLIE
+StreetDesc=5 Mount Cook Rd, Fairlie/ Service station. AA Smartfuel, Diesel, Road User Charg
+Phone=+6436858106
 Data0=(-44.09698,170.82775)
 [END]
 
@@ -9254,8 +9254,8 @@ Data0=(-45.41683,167.71214)
 ;1032158
 [POI]
 Type=0x2f01
-Label=BP GORE
-StreetDesc=8 Railway Esplanade, Gore/ BP petrol station
+Label=BP 2GO GORE
+StreetDesc=8 Railway Esplanade, Gore/ Service station. AA Smartfuel, Carwash, Diesel, Unlea
 Phone=+6432085658
 Data0=(-46.09723,168.95432)
 [END]
@@ -9273,7 +9273,7 @@ Data0=(-42.97037,172.70550)
 [POI]
 Type=0x2f01
 Label=BP 2GO BLENHEIM
-StreetDesc=14 Main St, Blenheim/ BP petrol station, Ultimate
+StreetDesc=14 Main St, Blenheim/ Service station. AA Smartfuel, ATM, BP Ultimate, Carwash, 
 Phone=+6435788714
 Data0=(-41.51387,173.95898)
 [END]
@@ -9291,7 +9291,7 @@ Data0=(-41.28947,174.00540)
 [POI]
 Type=0x2f01
 Label=BP TAKAKA
-StreetDesc=20 Commercial St, Takaka/ BP petrol station
+StreetDesc=20 Commercial St, Takaka/ Service station. AA Smartfuel, Diesel, LPG Automotive,
 Phone=+6435259985
 zip=Mon-Fri 8am-5pm
 Data0=(-40.85997,172.80621)
@@ -9308,18 +9308,18 @@ Data0=(-45.81987,170.60388)
 
 ;1032305
 [POI]
-Type=0x2f01
-Label=AUTOMOTIVE SOLUTIONS CLEANER
-StreetDesc=42 Grove Rd, Blenheim/ BP petrol station
+Type=0x2f03
+Label=AUTOMOTIVE SOLUTIONS BLENHEIM
+StreetDesc=42 Grove Rd, Blenheim/ Automotive repairs
 Phone=+6435783209
-Data0=(-41.50560,173.96017)
+Data0=(-41.50563,173.96018)
 [END]
 
 ;1032326
 [POI]
 Type=0x2f01
 Label=BP NORTH ROAD
-StreetDesc=52 North Rd, Invercargill/ BP petrol station
+StreetDesc=52 North Rd, Invercargill/ Service station. AA Smartfuel, Diesel, LPG Automotive
 Phone=+6432156119
 Data0=(-46.38736,168.34702)
 [END]
@@ -9328,7 +9328,7 @@ Data0=(-46.38736,168.34702)
 [POI]
 Type=0x2f01
 Label=BP WOODEND SERVICE STATION
-StreetDesc=56 Main North Rd, Woodend, North Canterbury/ BP petrol station
+StreetDesc=56 Main North Rd, Woodend, North Canterbury/ BP Service station. AA Smartfuel, D
 Phone=+6433127703
 Data0=(-43.32236,172.66591)
 [END]
@@ -9337,7 +9337,7 @@ Data0=(-43.32236,172.66591)
 [POI]
 Type=0x2f01
 Label=BP 2GO WANAKA
-StreetDesc=59 Ardmore St, Wanaka/ BP petrol station, 24hr Call Out Service, Wheel Alignment
+StreetDesc=59 Ardmore St, Wanaka/ Service station. AA Smartfuel, Diesel, LPG Automotive, LP
 Phone=+6434437280
 zip=Mon-Fri 7.30am-5pm, Sat 8am-12noon
 Data0=(-44.69413,169.13814)
@@ -9347,7 +9347,7 @@ Data0=(-44.69413,169.13814)
 [POI]
 Type=0x2f01
 Label=BP GRANT WARD
-StreetDesc=63 Centennial Ave, Alexandra/ BP petrol station
+StreetDesc=63 Centennial Ave, Alexandra/ BP Service station. AA Smartfuel, Carwash, Diesel,
 Phone=+6434488122
 Data0=(-45.25139,169.38853)
 [END]
@@ -9364,8 +9364,8 @@ Data0=(-41.25276,173.09533)
 ;1032417
 [POI]
 Type=0x2f01
-Label=BP 2GO ALCO MOTORS 2002 LIMITED
-StreetDesc=72 Gordon Rd, Mosgiel/ BP service station. Petrol. Dump station.
+Label=BP 2GO HIGHWAY
+StreetDesc=72 Gordon Rd, Mosgiel/ Service station. AA Smartfuel, BP Ultimate Diesel, LPG Au
 Phone=+6434897139
 Data0=(-45.87886,170.35021)
 [END]
@@ -9374,7 +9374,7 @@ Data0=(-45.87886,170.35021)
 [POI]
 Type=0x2f01
 Label=BP 2GO AUTOWORLD
-StreetDesc=74 Wansbeck St, Oamaru/ BP petrol station, Ultimate
+StreetDesc=74 Wansbeck St, Oamaru/ Service station. AA Smartfuel, BP Ultimate, BP Ultimate 
 Phone=+6434347521
 Data0=(-45.10214,170.95426)
 [END]
@@ -9383,7 +9383,7 @@ Data0=(-45.10214,170.95426)
 [POI]
 Type=0x2f01
 Label=BP 2GO BALCLUTHA
-StreetDesc=79 Clyde St, Balclutha/ BP petrol station
+StreetDesc=79 Clyde St, Balclutha/ Service station. AA Smartfuel, BP Ultimate Diesel, LPG A
 Phone=+6434180034
 Data0=(-46.23920,169.73660)
 [END]
@@ -9392,7 +9392,7 @@ Data0=(-46.23920,169.73660)
 [POI]
 Type=0x2f01
 Label=BP 2GO KAIKOURA
-StreetDesc=84 Beach Rd, Kaikoura/ BP service station. Petrol, Ultimate. Dump station.
+StreetDesc=84 Beach Rd, Kaikoura/ Service station. AA Smartfuel, BP Ultimate, BP Ultimate D
 Phone=+6433195036
 Data0=(-42.39232,173.67942)
 [END]
@@ -9419,7 +9419,7 @@ Data0=(-45.85148,170.52455)
 [POI]
 Type=0x2f01
 Label=BP 2GO HAVEN ROAD
-StreetDesc=161 Haven Rd, Port Nelson/ BP petrol station
+StreetDesc=161 Haven Rd, Port Nelson/ Service station. AA Smartfuel, Carwash, Diesel, LPG A
 Phone=+6435468219
 Data0=(-41.26672,173.27588)
 [END]
@@ -9437,7 +9437,7 @@ Data0=(-46.41326,168.35752)
 [POI]
 Type=0x2f01
 Label=BP 2GO REDCLIFFS
-StreetDesc=170 Main Rd, Redcliffs, Chc/ BP petrol station, Ultimate
+StreetDesc=170 Main Rd, Redcliffs, Chc/ Service station. AA Smartfuel, BP Ultimate, BP Ulti
 Phone=+6433847954
 Data0=(-43.56146,172.73781)
 [END]
@@ -9464,7 +9464,7 @@ Data0=(-46.59864,168.33918)
 [POI]
 Type=0x2f01
 Label=BP 2GO RICHMOND
-StreetDesc=177 Queen St, Richmond, Nelson/ BP petrol station
+StreetDesc=177 Queen St, Richmond, Nelson/ Service station. AA Smartfuel, Carwash, Diesel, 
 Phone=+6435439231
 Data0=(-41.34243,173.18782)
 [END]
@@ -9472,8 +9472,8 @@ Data0=(-41.34243,173.18782)
 ;1032767
 [POI]
 Type=0x2f01
-Label=BP WESTBURN
-StreetDesc=196 Waimairi Rd, Chc/ BP petrol station
+Label=BP 2GO WESTBURN
+StreetDesc=196 Waimairi Rd, Chc/ Service station. AA Smartfuel, BP Ultimate Diesel, Trailer
 Phone=+6433583371
 Data0=(-43.51584,172.57211)
 [END]
@@ -9482,7 +9482,7 @@ Data0=(-43.51584,172.57211)
 [POI]
 Type=0x2f01
 Label=BP 2GO HIGHFIELD SERVICE STATION
-StreetDesc=199 Wai Iti Rd, Timaru/ BP petrol station
+StreetDesc=199 Wai Iti Rd, Timaru/ Service station. AA Smartfuel, Diesel, Trailer Hire, Unl
 Phone=+6436889340
 Data0=(-44.38913,171.21819)
 [END]
@@ -9490,8 +9490,8 @@ Data0=(-44.38913,171.21819)
 ;1032795
 [POI]
 Type=0x2f01
-Label=BP HI WAY AUTO CENTRE
-StreetDesc=214 Thames St, Oamaru/ BP petrol station
+Label=BP 2GO OAMARU
+StreetDesc=214 Thames St, Oamaru/ Service station. AA Smartfuel, BP Ultimate Diesel, Road U
 Phone=+6434348798
 Data0=(-45.09364,170.97264)
 [END]
@@ -9500,8 +9500,8 @@ Data0=(-45.09364,170.97264)
 [POI]
 Type=0x2f01
 Label=BP 2GO SOCKBURN
-StreetDesc=222 Main South Rd, Sockburn, Chc/ BP petrol station, Low Sulphur diesel, trailer
-Phone=+6433410109
+StreetDesc=222 Main South Rd, Sockburn, Chc/ Service station. AA Smartfuel, BP Ultimate Die
+Phone=+6433411019
 Data0=(-43.54300,172.54614)
 [END]
 
@@ -9509,7 +9509,7 @@ Data0=(-43.54300,172.54614)
 [POI]
 Type=0x2f01
 Label=BP 2GO HALSWELL
-StreetDesc=246 Halswell Rd, Chc/ BP petrol station, Lotto
+StreetDesc=246 Halswell Rd, Chc/ Service station. AA Smartfuel, ATM, BP Ultimate Diesel, LP
 Phone=+6433227134
 Data0=(-43.57193,172.57102)
 [END]
@@ -9526,8 +9526,8 @@ Data0=(-44.23727,171.27625)
 ;1032844
 [POI]
 Type=0x2f01
-Label=BP SAWYERS ARMS RD BP LTD
-StreetDesc=260 Sawyers Arms Rd, Papanui, Chc/ BP petrol station
+Label=BP SAWYERS ARMS BP
+StreetDesc=260 Sawyers Arms Rd, Papanui, Chc/ Service station. AA Smartfuel, Diesel, Traile
 Phone=+6433598645
 Data0=(-43.48127,172.59292)
 [END]
@@ -9545,8 +9545,8 @@ Data0=(-42.74540,171.00149)
 [POI]
 Type=0x2f01
 Label=BP CONNECT BUSH INN
-StreetDesc=330 Riccarton Rd, Chc/ BP petrol station
-Phone=+6433413430
+StreetDesc=330 Riccarton Rd, Chc/ Service station. AA Smartfuel, ATM, BP Ultimate Diesel, R
+Phone=+6439827330
 Data0=(-43.53139,172.57668)
 [END]
 
@@ -9554,7 +9554,7 @@ Data0=(-43.53139,172.57668)
 [POI]
 Type=0x2f01
 Label=BP 2GO ASHBURTON
-StreetDesc=358 West St, Ashburton/ BP petrol station, Ultimate
+StreetDesc=358 West St, Ashburton/ Service station. AA Smartfuel, BP Ultimate, BP Ultimate 
 Phone=+6433070167
 Data0=(-43.89695,171.75811)
 [END]
@@ -9563,7 +9563,7 @@ Data0=(-43.89695,171.75811)
 [POI]
 Type=0x2f01
 Label=BP MARSHLANDS
-StreetDesc=432 Marshland Rd, Chc/ BP petrol station
+StreetDesc=432 Marshlands Rd, Chc/ Service station. AA Smartfuel, BP Ultimate Diesel, LPG A
 Phone=+6433857600
 Data0=(-43.47472,172.65967)
 [END]
@@ -9572,7 +9572,7 @@ Data0=(-43.47472,172.65967)
 [POI]
 Type=0x2f01
 Label=BP 2GO MAIREHAU
-StreetDesc=435 Innes Rd, Mairehau, Chc/ BP petrol station, Lotto, Ultimate
+StreetDesc=435 Innes Rd, Mairehau, Chc/ Service station. AA Smartfuel, BP Ultimate, BP Ulti
 Phone=+6433853477
 Data0=(-43.49764,172.64250)
 [END]
@@ -9580,8 +9580,8 @@ Data0=(-43.49764,172.64250)
 ;1032998
 [POI]
 Type=0x2f01
-Label=BP LINWOOD BP
-StreetDesc=457 Linwood Ave, Linwood, Chc/ BP petrol station
+Label=BP 2GO LINWOOD
+StreetDesc=457 Linwood Ave, Linwood, Chc/ Service station. AA Smartfuel, BP Ultimate Diesel
 Phone=+6433895919
 Data0=(-43.54199,172.68746)
 [END]
@@ -9589,8 +9589,8 @@ Data0=(-43.54199,172.68746)
 ;1033005
 [POI]
 Type=0x2f01
-Label=BP PAPANUI
-StreetDesc=461 Papanui Rd, Chc/ BP petrol station, Ultimate
+Label=BP 2GO PAPANUI
+StreetDesc=461 Papanui Rd, Chc/ Service station. AA Smartfuel, ATM, BP Ultimate, BP Ultimat
 Phone=+6433524035
 Data0=(-43.49950,172.60996)
 [END]
@@ -9599,7 +9599,7 @@ Data0=(-43.49950,172.60996)
 [POI]
 Type=0x2f01
 Label=BP CONNECT BAYS JUNCTION
-StreetDesc=574 Andersons Bay Rd, Dud/ BP petrol station, Wild Bean cafe, Ultimate
+StreetDesc=574 Andersons Bay Rd, Dud/ Service station. AA Smartfuel, BP Ultimate, BP Ultima
 Phone=+6434561740
 Data0=(-45.89736,170.50999)
 [END]
@@ -9608,8 +9608,8 @@ Data0=(-45.89736,170.50999)
 [POI]
 Type=0x2f01
 Label=BP CONNECT DALLINGTON
-StreetDesc=712 Gloucester St, Avonside, Chc/ BP petrol station, Wild Bean cafe, Ultimate
-Phone=+6433814780
+StreetDesc=712 Gloucester St, Avonside, Chc/ Service station. AA Smartfuel, BP Ultimate, BP
+Phone=+6439827280
 Data0=(-43.52537,172.67297)
 [END]
 
@@ -9617,7 +9617,7 @@ Data0=(-43.52537,172.67297)
 [POI]
 Type=0x2f01
 Label=BP 2GO REGENT
-StreetDesc=715 George St, Dud/ BP petrol station
+StreetDesc=715 George St, Dud/ Service station. AA Smartfuel, ATM, BP Ultimate Diesel, Carw
 Phone=+6434778851
 Data0=(-45.86184,170.51031)
 [END]
@@ -9626,7 +9626,7 @@ Data0=(-45.86184,170.51031)
 [POI]
 Type=0x2f01
 Label=BP 2GO THE OVAL
-StreetDesc=828 Princes St, Dud/ BP petrol station, Ultimate
+StreetDesc=828 Princes St, Dud/ Service station. AA Smartfuel, BP Ultimate, BP Ultimate Die
 Phone=+6434775566
 Data0=(-45.88676,170.49619)
 [END]
@@ -9635,7 +9635,7 @@ Data0=(-45.88676,170.49619)
 [POI]
 Type=0x2f01
 Label=BP 2GO DUNEDIN NORTH
-StreetDesc=867 Cumberland St North, Dud North/ BP petrol station, Ultimate
+StreetDesc=867 Cumberland St North, Dud North/ Service station. AA Smartfuel, BP Ultimate, 
 Phone=+6434790918
 Data0=(-45.85987,170.51481)
 [END]
@@ -9644,7 +9644,7 @@ Data0=(-45.85987,170.51481)
 [POI]
 Type=0x2f01
 Label=BP 2GO GREYMOUTH
-StreetDesc=157-169 Tainui St, Greymouth/ BP petrol station, Ultimate
+StreetDesc=157-169 Tainui St, Greymouth/ Service station. AA Smartfuel, BP Ultimate, Diesel
 Phone=+6437680144
 Data0=(-42.45533,171.20775)
 [END]
@@ -9653,8 +9653,8 @@ Data0=(-42.45533,171.20775)
 [POI]
 Type=0x2f01
 Label=BP CONNECT TIMARU
-StreetDesc=193-207 Evans St, Timaru/ BP petrol station, Ultimate
-Phone=+6436883970
+StreetDesc=193 Evans St, Waimataitai, Timaru/ Service station. AA Smartfuel, ATM, BP Ultima
+Phone=+6436866565
 Data0=(-44.37421,171.24203)
 [END]
 
@@ -9662,7 +9662,7 @@ Data0=(-44.37421,171.24203)
 [POI]
 Type=0x2f01
 Label=BP ELLES ROAD
-StreetDesc=228-232 Elles Rd, Invercargill/ BP petrol station
+StreetDesc=228-232 Elles Rd, Invercargill/ Service station. AA Smartfuel, Diesel, LPG Autom
 Phone=+6432184333
 Data0=(-46.42654,168.36166)
 [END]
@@ -9671,7 +9671,7 @@ Data0=(-46.42654,168.36166)
 [POI]
 Type=0x2f01
 Label=BP 2GO MORNINGTON
-StreetDesc=34 Mailer St, Mornington, Dud/ BP service station, petrol, trailer hire
+StreetDesc=29-37 Mailer St, Mornington, Dud/ Service station. AA Smartfuel, BP Ultimate Die
 Phone=+6434536039
 Data0=(-45.88135,170.47976)
 [END]
@@ -9688,8 +9688,8 @@ Data0=(-41.50821,173.82623)
 ;1033362
 [POI]
 Type=0x2f01
-Label=BP WESTPORT
-StreetDesc=75-79 Palmerston St, Westport/ BP petrol station
+Label=BP 2GO WESTPORT
+StreetDesc=75-79 Palmerston St, Westport/ Service station. AA Smartfuel, Diesel, LPG Automo
 Phone=+6437897379
 Data0=(-41.75114,171.59798)
 [END]
@@ -9707,7 +9707,7 @@ Data0=(-46.10251,169.52741)
 [POI]
 Type=0x2f01
 Label=BP CONNECT ROLLESTON
-StreetDesc=Cnr Main South Rd & Tennyson St, Rolleston, Chc/ BP petrol station, Ultimate, Wi
+StreetDesc=Cnr Main South Rd & Tennyson St, Rolleston, Chc/ Service station. AA Smartfuel, 
 Phone=+6433477790
 Data0=(-43.59073,172.37989)
 [END]
@@ -9715,8 +9715,8 @@ Data0=(-43.59073,172.37989)
 ;1033579
 [POI]
 Type=0x2f01
-Label=BP WEST MELTON SERVICE STATION
-StreetDesc=Main West Rd, West Melton, Chc/ BP petrol station
+Label=BP 2GO WEST MELTON SERVICE STATION
+StreetDesc=Main West Rd, West Melton, Chc/ Service station. AA Smartfuel, Diesel, Trailer H
 Phone=+6433478305
 Data0=(-43.52391,172.36957)
 [END]
@@ -9725,8 +9725,8 @@ Data0=(-43.52391,172.36957)
 [POI]
 Type=0x2f01
 Label=BP CONNECT EDGEWARE
-StreetDesc=Cnr Edgeware Rd & Cranford St, Chc/ BP petrol station, Wild Bean cafe, Ultimate
-Phone=+6433534380
+StreetDesc=Cnr Edgeware Rd & Cranford St, Chc/ Service station. AA Smartfuel, ATM, BP Ultim
+Phone=+6439827380
 Data0=(-43.51330,172.63784)
 [END]
 
@@ -9734,8 +9734,8 @@ Data0=(-43.51330,172.63784)
 [POI]
 Type=0x2f01
 Label=BP CONNECT QE II
-StreetDesc=Cnr Travis Rd & Bower Ave, Chc/ BP petrol station, Wild Bean cafe
-Phone=+6433829390
+StreetDesc=Cnr Travis Rd & Bower Ave, Chc/ Service station. AA Smartfuel, BP Ultimate Diese
+Phone=+6439829390
 Data0=(-43.49534,172.71035)
 [END]
 
@@ -9743,7 +9743,7 @@ Data0=(-43.49534,172.71035)
 [POI]
 Type=0x2f01
 Label=BP 2GO CROMWELL
-StreetDesc=Sargood Dr, Cromwell/ BP petrol station
+StreetDesc=Cnr Iles St & Sargood Rd, Cromwell/ Service station. AA Smartfuel, Diesel, Trail
 Phone=+6434454455
 Data0=(-45.03607,169.19409)
 [END]
@@ -9752,7 +9752,7 @@ Data0=(-45.03607,169.19409)
 [POI]
 Type=0x2f01
 Label=BP CONNECT SOUTHERN
-StreetDesc=Cumberland St, Dud/ BP petrol station, Ultimate, Wild Bean cafe
+StreetDesc=52 Cumberland St, Dud/ Service station. AA Smartfuel, ATM, BP Ultimate, BP Ultim
 Phone=+6434748260
 Data0=(-45.88461,170.50139)
 [END]
@@ -9761,7 +9761,7 @@ Data0=(-45.88461,170.50139)
 [POI]
 Type=0x2f01
 Label=BP FOX GLACIER MOTORS 24HR
-StreetDesc=Main Rd, Fox Glacier/ BP petrol station
+StreetDesc=41 Main Rd, Fox Glacier/ BP Service station. Diesel, LPG Automotive, LPG Bottle,
 Phone=+6437510823
 zip=24hrs w/ card
 Data0=(-43.46599,170.01712)
@@ -9789,7 +9789,7 @@ Data0=(-43.36364,172.57686)
 [POI]
 Type=0x2f01
 Label=BP CONNECT QUEENSTOWN 24HR
-StreetDesc=Cnr State Highway 6 & Frankton Rd, Frankton, Queenstown/ BP petrol station, Camp
+StreetDesc=Cnr State Highway 6 & Frankton Rd, Frankton, Queenstown/ Service station. AA Sma
 Phone=+6434414850
 zip=24hrs
 Data0=(-45.01532,168.73140)
@@ -10927,8 +10927,8 @@ Data0=(-43.53866,172.58856)
 ;1037730
 [POI]
 Type=0x2e
-Label=LIQUORLAND NEW BRIGHTON
-StreetDesc=15 Beresford St, New Brighton, Chc/ liquor, beer, wines, spirits
+Label=SUPER LIQUOR BRIGHTON
+StreetDesc=15 Beresford St, New Brighton, Chc 8061/ Liquor, beer, wine, spirits
 Phone=+6433889186
 zip=Monday 9am-10pm, Tuesday 9am-10pm, Wedne
 Data0=(-43.50790,172.73017)
@@ -10967,8 +10967,8 @@ Data0=(-43.91954,171.72144)
 ;1037758
 [POI]
 Type=0x2e
-Label=LIQUORLAND TOWER STREET
-StreetDesc=8 Tower St, Hornby, Chc/ liquor, beer, wines, spirits
+Label=SUPER LIQUOR HORNBY
+StreetDesc=8 Tower St, Hornby/ Liquor, beer, wine, spirits
 Phone=+6433442044
 zip=Monday 10:00am-8:00pm, Tuesday 10:00am-8
 Data0=(-43.54423,172.52650)
@@ -11246,14 +11246,6 @@ Type=0x2f01
 Label=MOBIL HAGLEY SOUTH
 StreetDesc=Cnr Moorhouse Ave & Lincoln Rd, Addington, Chc/ Mobil petrol station, carwash
 Data0=(-43.54025,172.61715)
-[END]
-
-;1039053
-[POI]
-Type=0x2f01
-Label=MOBIL MADRAS ST (CLOSED DUE TO EARTHQUAKE)
-StreetDesc=Cnr Tuam & Madras St, Chc/ Mobil petrol station, carwash
-Data0=(-43.53551,172.64241)
 [END]
 
 ;1039095
@@ -26317,8 +26309,8 @@ Data0=(-45.89607,170.50092)
 [POI]
 Type=0x2f01
 Label=BP CONNECT HOON HAY
-StreetDesc=Cnr Sparks Rd and Hoonhay Rd/ BP, Petrol Station, ANZ atm, Wild Bean cafe, Ultim
-Phone=+6433393600
+StreetDesc=Cnr Hoon Hay & Sparks Rd, Chc/ Service station. AA Smartfuel, ATM, BP Ultimate, 
+Phone=+6439827300
 Data0=(-43.56439,172.60839)
 [END]
 
@@ -26796,8 +26788,8 @@ Data0=(-41.29231,173.15101)
 [POI]
 Type=0x2d05
 Label=GREENDALE GOLF CLUB
-StreetDesc=Coaltrack Rd, Darfield/ golf course, 18 holes
-Phone=+6433188846
+StreetDesc=987 Coaltrack Rd, Darfield/ golf course, 18 holes
+Phone=+6433188046
 Data0=(-43.60948,172.13482)
 [END]
 
@@ -63915,7 +63907,7 @@ Data0=(-43.52342,172.62966)
 [POI]
 Type=0x2f
 Label=WARREN AUTO ELECTRICAL LTD
-StreetDesc=376 Ferry Rd, Chc (Hart St Entry)/ Auto Electricians, Batteries, Workshop
+StreetDesc=376 Ferry Rd, Chc 8023 (Hart St Entry)/ Auto Electricians, Batteries, Workshop, 
 Phone=+6433665188
 zip=7am till late.
 Data0=(-43.54342,172.66633)
@@ -74116,8 +74108,8 @@ Data0=(-46.14316,167.99713)
 ;1119090
 [POI]
 Type=0x2e
-Label=PICTON LIQUOR CENTRE
-StreetDesc=43 Wlg St, Picton/ Liquor, beer, wine, spirits
+Label=SUPER LIQUOR PICTON
+StreetDesc=43 Wlg St, Picton 7220/ Liquor, beer, wine, spirits
 Phone=+6435736419
 Data0=(-41.29039,174.00783)
 [END]
@@ -82574,18 +82566,20 @@ Data0=(-43.52029,172.64089)
 ;1121462
 [POI]
 Type=0x2e
-Label=HENRY'S BEER WINE & SPIRITS QUEENSTOWN
-StreetDesc=Shotover St, Queenstown/ Liquor, beer, wine, spirits
+Label=HENRY'S - QUEENSTOWN
+StreetDesc=6-10 Shotover St, Queenstown/ Liquor, beer, wines, spirits
 Phone=+6434428750
+zip=Mon-Sun 10am-10pm
 Data0=(-45.03039,168.66144)
 [END]
 
 ;1121464
 [POI]
 Type=0x2e
-Label=HENRY'S BEER WINE & SPIRITS DUNEDIN CITY
-StreetDesc=Cnr Hanover St & Great King Sts, Dud/ Liquor, beer, wine, spirits
+Label=HENRY'S - DUNEDIN - CITY CENTRE
+StreetDesc=Cnr Hanover St & Great King Sts, Dud/ Liquor, beer, wines, spirits
 Phone=+6434774433
+zip=Mon-Tue 9am-8pm Wed 9am-9pm Thu-Sat 9am-
 Data0=(-45.87050,170.50792)
 [END]
 
@@ -92287,71 +92281,78 @@ Data0=(-43.52107,172.64209)
 ;1130686
 [POI]
 Type=0x2e
-Label=HENRY'S HORNBY
-StreetDesc=21 Shands Rd, Hornby/ Beer, Wine, Spirits
+Label=HENRY'S - HORNBY
+StreetDesc=21 Shands Rd, Hornby, Chc/ Liquor, beer, wines, spirits
 Phone=+6439828992
+zip=Mon-Wed 10am-9pm Thu-Sat 10am-10pm Sun 1
 Data0=(-43.54543,172.52478)
 [END]
 
 ;1130687
 [POI]
 Type=0x2e
-Label=HENRY'S BARBADOES ST
-StreetDesc=182 Barbadoes St, Chc/ Beer, Wine, Spirits
-Phone=+6433664966
+Label=HENRY'S - BARBADOES
+StreetDesc=182 Barbadoes St, Chc/ Liquor, beer, wines, spirits
+Phone=+6433666624
+zip=Mon-Wed 9am-8pm Thu-Sat 9am-9pm Sun 11am
 Data0=(-43.53618,172.64552)
 [END]
 
 ;1130689
 [POI]
 Type=0x2e
-Label=HENRY'S FERRYMEAD
-StreetDesc=Ferrymead Central, 2 Waterman Pl, Ferrymead, Chc/ Beer, Wine, Spirits
+Label=HENRY'S - FERRYMEAD
+StreetDesc=Ferrymead Central, 2 Waterman Pl, Ferrymead, Chc/ Liquor, beer, wines, spirits
 Phone=+6433764167
+zip=Mon-Wed 10am-9pm Thu-Sat 10am-10pm Sun 1
 Data0=(-43.55615,172.69843)
 [END]
 
 ;1130690
 [POI]
 Type=0x2e
-Label=HENRY'S MOOREHOUSE AVE
-StreetDesc=305 Moorehouse Ave, Chc/ Beer, Wine, Spirits
+Label=HENRY'S - MOORHOUSE
+StreetDesc=305 Moorhouse Ave, Chc/ Liquor, beer, wines, spirits
 Phone=+6433771160
+zip=Mon-Thu 9am-10pm Fri-Sat 9am-11pm Sun 10
 Data0=(-43.53916,172.63872)
 [END]
 
 ;1130692
 [POI]
 Type=0x2e
-Label=HENRY'S ROLLESTON
-StreetDesc=Unit 2, Rolleston Dr, Rolleston/ Beer, Wine, Spirits
-Phone=+6433473026
+Label=HENRY'S - ROLLESTON
+StreetDesc=Unit 2, Rolleston Dr, Rolleston/ Liquor, beer, wines, spirits
+Phone=+6433473025
+zip=Mon-Wed 10am-8pm Thu-Sat 10am-10pm Sun 1
 Data0=(-43.59582,172.38471)
 [END]
 
 ;1130694
 [POI]
 Type=0x2e
-Label=HENRY'S TOWER JUNCTION
-StreetDesc=Tower Junction, Unit 4, 55 Clarence St, Chc/ Beer, Wine, Spirits
+Label=HENRY'S - TOWER JUNCTION
+StreetDesc=Tower Junction, Unit 4, 55 Clarence St, Chc/ Liquor, beer, wines, spirits
 Phone=+6439828990
+zip=Mon-Thu 9am-8pm Fri-Sat 9am-9pm Sun 10am
 Data0=(-43.53921,172.60512)
 [END]
 
 ;1130696
 [POI]
 Type=0x2e
-Label=HENRY'S WOOLSTON
-StreetDesc=8 Portman St, Chc/ Beer, Wine, Spirits
+Label=HENRY'S - WOOLSTON
+StreetDesc=8 Portman St, Chc/ Liquor, beer, wines, spirits
 Phone=+6439823778
+zip=Mon-Wed 10am-9pm Thu-Sat 10am-10pm Sun 1
 Data0=(-43.54836,172.68227)
 [END]
 
 ;1130698
 [POI]
 Type=0x2e
-Label=HENRY'S BEER WINE & SPIRITS TIMARU
-StreetDesc=Cnr Wai-iti Rd & Sealy St, Timaru/ Liquor, Beer, Wine, Spirits
+Label=HENRY'S - TIMARU
+StreetDesc=Cnr Wai-iti Rd & Sealy St, Timaru/ Liquor, beer, wines, spirits
 Phone=+6436884186
 zip=7 days 9am-9pm
 Data0=(-44.39017,171.22679)
@@ -92360,18 +92361,20 @@ Data0=(-44.39017,171.22679)
 ;1130699
 [POI]
 Type=0x2e
-Label=HENRY'S RANGIORA
-StreetDesc=16 Southbrook Rd, Rangiora/ Beer, Wine, Spirits
+Label=HENRY'S - RANGIORA
+StreetDesc=16 Southbrook Rd, Rangiora/ Liquor, beer, wines, spirits
 Phone=+6433136684
+zip=Mon-Thu 10am-9pm Fri-Sat 10am-10pm Sun 1
 Data0=(-43.32369,172.59867)
 [END]
 
 ;1130702
 [POI]
 Type=0x2e
-Label=HENRY'S KAIKOURA
-StreetDesc=98 Edmund Ave Kaikoura/ Beer, Wine, Spirits
-Phone=+6433197918
+Label=HENRY'S - KAIKOURA
+StreetDesc=98 Edmund Ave, Kaikoura/ Liquor, beer, wines, spirits
+Phone=+6433197919
+zip=Mon-Wed 9am-8pm Thu 9am-9pm Fri-Sat 9am-
 Data0=(-42.39150,173.67966)
 [END]
 
@@ -103162,9 +103165,9 @@ Data0=(-43.52529,172.67542)
 [POI]
 Type=0x2a05
 Label=WOOLSTON BAKERY
-StreetDesc=711B Ferry Rd, Chc/ bakery
+StreetDesc=622 Ferry Rd, Chc/ Bakery
 Phone=+6433841602
-Data0=(-43.54968,172.68390)
+Data0=(-43.54970,172.68324)
 [END]
 
 ;1132262
@@ -139884,7 +139887,7 @@ Data0=(-43.54457,172.64296)
 [POI]
 Type=0x2f01
 Label=BP 2GO HOKITIKA 24HR
-StreetDesc=51 Fitzherbert St, Hokitika/ Petrol Service Station
+StreetDesc=51 Fitzherbert St, Hokitika/ Service station. AA Smartfuel, Diesel, Unleaded 91,
 Phone=+6437569060
 zip=24hrs
 Data0=(-42.71784,170.96564)
@@ -154983,15 +154986,6 @@ zip=All day 7 days
 Data0=(-45.87129,170.50491)
 [END]
 
-;1160432
-[POI]
-Type=0x2f
-Label=4 KIDS CHILDCARE
-StreetDesc=38 Pacific Rd, New Brighton Central, Chc/ 
-Phone=+6433887797
-Data0=(-43.48952,172.72206)
-[END]
-
 ;1160434
 [POI]
 Type=0x2f
@@ -161029,9 +161023,10 @@ Data0=(-45.85806,170.50026)
 ;1164658
 [POI]
 Type=0x2e
-Label=HENRY'S BEER WINE & SPIRITS
-StreetDesc=78-80 Centennial Ave, Alexandra/ Liquor Outlet
+Label=HENRY'S - ALEXANDRA
+StreetDesc=78-80 Centennial Ave, Alexandra/ Liquor, beer, wines, spirits
 Phone=+6434487278
+zip=Mon-Wed 9am-8pm Thu-Sat 9am-9pm Sun 10am
 Data0=(-45.25120,169.38770)
 [END]
 
@@ -162739,8 +162734,9 @@ Data0=(-45.10183,170.96219)
 [POI]
 Type=0x2f
 Label=AMANDA NIVEN PODIATRIST
-StreetDesc=137 Yarrow St, Invercargill/ Podiatrist
-Data0=(-46.40871,168.35716)
+StreetDesc=385 Dee St, Invercargill/ Podiatrist
+Phone=+6432189838
+Data0=(-46.39661,168.34752)
 [END]
 
 ;1165504
@@ -165431,7 +165427,7 @@ Data0=(-45.87163,170.49835)
 [POI]
 Type=0x2f
 Label=DUNEDIN URGENT DOCTORS & ACCIDENT CENTRE
-StreetDesc=95 Hanover St, Dud/ Doctors, general practice, accident & emergency
+StreetDesc=95 Hanover St, Dud,/ Doctors, General Practice, Accident & Medical, Fracture Cli
 Phone=+6434792900
 zip=7 days 8am-11.30pm
 Data0=(-45.87063,170.50848)
@@ -188776,10 +188772,10 @@ Data0=(-43.51226,172.50391)
 ;1177848
 [POI]
 Type=0x2f
-Label=DR PETER RIPLEY, GENERAL PRACTITIONER
-StreetDesc=at Dud Urgent Doctors, 95 Hanover St., Dud 9016,/ GP with special interest in mi
+Label=DR. PETER RIPLEY, GP MINOR SURGERY CLINIC
+StreetDesc=At Urgent Doctors, 95 Hanover St, Dud,/ GP with Special Interest in Minor Surger
 Phone=+6434792900
-zip=Tuesday & Thursday, 3pm to 6pm, by appoi
+zip=Tuesdays and Thursdays 2 - 6pm. (Recepti
 Data0=(-45.87062,170.50831)
 [END]
 
@@ -192451,16 +192447,6 @@ StreetDesc=193 Kina Peninsula Rd, Tasman, Nelson/ luxury, boutique coastal premi
 Phone=+6435266840
 zip=8am-10pm
 Data0=(-41.17000,173.04746)
-[END]
-
-;1179797
-[POI]
-Type=0x2f
-Label=PHOENIX CLINIC THERAPEUTIC MASSAGE AND BODYWORK
-StreetDesc=492 Moray Place, Dud Central/ Massage Therapy, Therapeutic Massage and Bodywork
-Phone=+6427428529
-zip=9.30am - 6.30pm Week Days
-Data0=(-45.87546,170.50319)
 [END]
 
 ;1179816
@@ -205105,6 +205091,15 @@ Phone=+6439623688
 Data0=(-43.54635,172.56280)
 [END]
 
+;1193501
+[POI]
+Type=0x2f
+Label=THREE BOYS BREWERY LTD
+StreetDesc=592 Ferry Rd, Woolston, Chc/ Brewer, Beer, Boutique Brewery
+Phone=+6421615688
+Data0=(-43.54900,172.68117)
+[END]
+
 ;1193502
 [POI]
 Type=0x2f
@@ -206318,10 +206313,10 @@ Data0=(-43.49300,172.66029)
 ;1195700
 [POI]
 Type=0x2e
-Label=HENRY'S SHIRLEY
-StreetDesc=199 Marshlands Rd, Chc/ Beer, wine & spirits
+Label=HENRY'S - SHIRLEY
+StreetDesc=199 Marshlands Rd, Chc/ Liquor, beer, wines, spirits
 Phone=+6433855740
-zip=Mon 10am-9pm, Tue-Wed 9am-9pm, Thu-Sat 9
+zip=Mon 10am-9pm Tue-Wed 9am-9pm Thu-Sat 9am
 Data0=(-43.49299,172.66042)
 [END]
 
@@ -207101,7 +207096,7 @@ Data0=(-44.69124,169.14296)
 [POI]
 Type=0x2e
 Label=SUPER LIQUOR KAIKORAI VALLEY
-StreetDesc=185 Kaikorai Valley Rd, Dud/ Liquor, beer, wine, spirits
+StreetDesc=185 Kaikorai Valley, Dud/ Liquor, beer, wine, spirits
 Phone=+6434535575
 Data0=(-45.87007,170.47433)
 [END]
@@ -207432,10 +207427,10 @@ Data0=(-43.30281,172.59874)
 ;1196615
 [POI]
 Type=0x2d00
-Label=?SNAP FITNESS THE PALMS 24HR
+Label=SNAP FITNESS THE PALMS 24HR
 StreetDesc=11 New Brighton Rd Shirley , Chc 8061 New Zealand/ Gym
 zip=24/7
-Data0=(-43.50792,172.66448)
+Data0=(-43.50785,172.66393)
 [END]
 
 ;1196616
@@ -208514,5 +208509,99 @@ StreetDesc=330 bryndwar, Chc/ Canterbury Builders, home builders christchurch, b
 Phone=+6434239022
 zip=8.30am - 5.00pm
 Data0=(-43.50893,172.58522)
+[END]
+
+;1203410
+[POI]
+Type=0x2e
+Label=SUPER LIQUOR RANGIORA
+StreetDesc=28 High St, Rangiora/ Liquor, beer, wine, spirits
+Phone=+6433108200
+Data0=(-43.30307,172.59704)
+[END]
+
+;1203414
+[POI]
+Type=0x2c06
+Label=AVONHEAD PARK
+StreetDesc=148 Russley Rd Avonhead Chc 8042/ Park, Playground
+Data0=(-43.51074,172.54253)
+[END]
+
+;1203416
+[POI]
+Type=0x2e
+Label=HENRY'S - YALDHURST
+StreetDesc=148-150 Yaldhurst Rd, Sockburn, Chc/ Liquor, beer, wines, spirits
+Phone=+6433489375
+zip=Mon-Wed 9am-9pm Thu-Sat 9am-10pm Sun 9am
+Data0=(-43.52756,172.55872)
+[END]
+
+;1203418
+[POI]
+Type=0x2e
+Label=HENRY'S - BISHOPDALE
+StreetDesc=333 Harewood Rd, Chc/ Liquor, beer, wines, spirits
+Phone=+6433596690
+zip=Mon-Wed 9am-9pm Thu-Sat 9am-10pm Sun 10a
+Data0=(-43.48781,172.58638)
+[END]
+
+;1203420
+[POI]
+Type=0x2e
+Label=HENRY'S - GREYMOUTH
+StreetDesc=Corner High & Marlborough Streets, Greymouth/ Liquor, beer, wines, spirits
+Phone=+6437689640
+zip=Mon-Sun 11am-9pm
+Data0=(-42.46259,171.19591)
+[END]
+
+;1203432
+[POI]
+Type=0x2f
+Label=BP BLENHEIM TRUCKSTOP
+StreetDesc=49 Grove Rd, Blenheim/ Road User Charges (RUC)
+Phone=+6435783209
+Data0=(-41.50558,173.95977)
+[END]
+
+;1203433
+[POI]
+Type=0x2f03
+Label=SHOWGROUNDS AUTO SERVICES
+StreetDesc=199 Evans St, Timaru/ 
+Phone=+6436883716
+Data0=(-44.37402,171.24195)
+[END]
+
+;1203448
+[POI]
+Type=0x2e02
+Label=THE SYDENHAM GROCER
+StreetDesc=50 Wordsworth St, Sydenham, Chc/ Groceries, Food Store.
+Phone=+6433650163
+Data0=(-43.54496,172.63557)
+[END]
+
+;1203460
+[POI]
+Type=0x2F02
+Label=GO RENTALS QUEENSTOWN AIRPORT
+StreetDesc=20 Lucas Place, Frankton, Queenstown/ New Zealand Car Rentals and Vehicle Hire
+Phone=0508246984
+zip=8:00am - 5:00pm
+Data0=(-45.02372,168.73695)
+[END]
+
+;1203461
+[POI]
+Type=0x2F02
+Label=GO RENTALS CHRISTCHURCH AIRPORT
+StreetDesc=16 Ivan Cres, Chc Airport, Chc/ New Zealand Car Rentals and Vehicle Hire
+Phone=0508246784
+zip=8:00am - 5:00pm
+Data0=(-43.48315,172.54604)
 [END]
 

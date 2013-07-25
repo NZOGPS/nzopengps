@@ -5835,9 +5835,9 @@ Data0=(-46.12499,169.96094)
 [POI]
 Type=0x2c05
 Label=ST MARY'S SCHOOL (MOSGIEL)
-StreetDesc=62 Church St, Mosgiel, Dud/ State Integrated Co-Ed Primary, Intermediate School
+StreetDesc=79 Church St, Mosgiel, Dud/ State Integrated Co-Ed Primary, Intermediate School
 Phone=+6434897716
-Data0=(-45.88016,170.35266)
+Data0=(-45.88138,170.35455)
 [END]
 
 ;1020468
@@ -52563,16 +52563,6 @@ Phone=+6436877122
 Data0=(-44.39421,171.25013)
 [END]
 
-;1109171
-[POI]
-Type=0x2f
-Label=MARVELOX (NZ) LTD
-StreetDesc=27 Heywards Rd Clarkville, RD 2, Kaiapoi, Chc/ 
-Phone=+6433755000
-zip=Mon-Fri 0800-1700
-Data0=(-43.40924,172.62593)
-[END]
-
 ;1109175
 [POI]
 Type=0x2f
@@ -59371,10 +59361,10 @@ Data0=(-43.48778,172.56222)
 [POI]
 Type=0x2f
 Label=SIGGIE'S SIGNS
-StreetDesc=15 McGlashen Ave, Richmond, Nelson/ Signwriters
+StreetDesc=51 William St, Richmond, Nelson/ Signwriters
 Phone=+6435446596
 zip=Monday-Friday 8am-5pm
-Data0=(-41.33708,173.18434)
+Data0=(-41.34070,173.19240)
 [END]
 
 ;1113266
@@ -63834,8 +63824,9 @@ Data0=(-41.27024,173.28379)
 [POI]
 Type=0x2f
 Label=WALKERS UPHOLSTERY (2005) LTD
-StreetDesc=89 Tarbert St, Alexandra/ 
+StreetDesc=89 Tarbert St, Alexandra/ Upholstery, also fabric sales. Car & aircraft trimming
 Phone=+6434487524
+zip=8am-5pm
 Data0=(-45.25339,169.39461)
 [END]
 
@@ -101008,7 +100999,7 @@ Data0=(-43.53300,172.63931)
 
 ;1131962
 [POI]
-Type=0x2f
+Type=0x2a07
 Label=STOURBRIDGE FISH AND CHIPS
 StreetDesc=5 Stourbridge St, Barrington, Chc/ Best Fish & Chips in South CHCH
 Phone=+6433398388
@@ -104694,9 +104685,9 @@ Data0=(-45.03384,168.66689)
 ;1133500
 [POI]
 Type=0x2f
-Label=S I BRICK SOLUTIONS
-StreetDesc=538 Marshland Rd, Marshland, Chc/ Clay Bricks & Pavers, Bricklaying, Blockwork
-Phone=+6433436620
+Label=BRICK AND STONE SI
+StreetDesc=35 Edmonton Rd Chc/ Clay Bricks & Pavers, Bricklaying, Blockwork
+Phone=+6433495006
 Data0=(-43.46464,172.65885)
 [END]
 
@@ -140483,7 +140474,7 @@ Label=SCENIC HOTEL FRANZ JOSEF GLACIER 24HR
 StreetDesc=State Highway 6, Franz Josef, Westland/ Hotel
 Phone=+6437520729
 zip=24 hours
-Data0=(-43.37795,170.17899)
+Data0=(-43.38673,170.18200)
 [END]
 
 ;1151967
@@ -140707,15 +140698,6 @@ Type=0x2d02
 Label=WAIMATE HOTEL
 StreetDesc=113 Queen St, Waimate, South Canterbury/ 
 Data0=(-44.73436,171.04607)
-[END]
-
-;1152080
-[POI]
-Type=0x2d02
-Label=WAIMATE HOTEL MANAIA
-StreetDesc=49 Main South Rd, Manaia/ 
-Phone=+6462748341
-Data0=(-43.69678,172.09943)
 [END]
 
 ;1152081
@@ -164337,10 +164319,10 @@ Data0=(-45.87793,170.50148)
 ;1166342
 [POI]
 Type=0x2f
-Label=MERIVALE DENTAL GROUP
-StreetDesc=184 Papanui Rd, Merivale, Chc/ Dentist
+Label=MERIVALE DENTAL GROUP CHRISTCHURCH
+StreetDesc=184 Papanui Rd, Merivale, Chc/ Christchurch Dentists based in Merviale offering 
 Phone=+6433553888
-zip=Monday to Friday 8am - 5pm with late nig
+zip=Monday to Friday 8am - 5pm
 Data0=(-43.51256,172.62235)
 [END]
 
@@ -171285,7 +171267,7 @@ Data0=(-43.68373,172.20722)
 [POI]
 Type=0x2f
 Label=THE MOBILE PODIATRIST
-StreetDesc=29 Tyrone St, Belfast, Chc/ Podiatrist
+StreetDesc=Chc/ Podiatrist
 Data0=(-43.44542,172.63623)
 [END]
 
@@ -172413,7 +172395,7 @@ Data0=(-43.53327,172.64442)
 
 ;1170577
 [POI]
-Type=0x2f
+Type=0x3002
 Label=NOVA TRUST
 StreetDesc=Nova Lodge, Newtons Rd, Templeton, Chc/ Alcohol and Drug Rehabilitation Centre
 Phone=+6433492053
@@ -184363,7 +184345,7 @@ Label=HEARTLAND WORLD HERITAGE HOTEL 24HR
 StreetDesc=State Highway 6, Haast/ Hotel accommodation
 Phone=+6437500828
 zip=24 hours
-Data0=(-43.94355,169.14859)
+Data0=(-43.85819,169.04289)
 [END]
 
 ;1174771
@@ -187364,16 +187346,6 @@ zip=7.30am - 7pm, 7 days
 Data0=(-44.69615,169.13568)
 [END]
 
-;1177033
-[POI]
-Type=0x2f
-Label=WALKERS UPHOLSTERY(2005)LTD
-StreetDesc=89 Tarbert St,Alexandra./ Upholstery,also fabric sales.Car & aircraft trimming.
-Phone=+6434487524
-zip=8am-5pm.
-Data0=(-45.25339,169.39460)
-[END]
-
 ;1177044
 [POI]
 Type=0x2a
@@ -188095,7 +188067,7 @@ Data0=(-43.56494,172.70113)
 
 ;1177479
 [POI]
-Type=0x2f
+Type=0x2f03
 Label=RACECOURSE VEHICLE SERVICES
 StreetDesc=252A Annex Rd, Middleton, Chc 8024, New Zealand/ WOF, Car repairs, motor mechani
 Phone=+6433416762
@@ -200813,7 +200785,7 @@ Type=0x2e07
 Label=RUBY CHRISTCHURCH
 StreetDesc=111 Cashel St/ Clothing
 Phone=+6433723465
-zip=Mon - Fri 9.30-5.30pm, Sat 10-5, Sun 11-
+zip=Mon - Fri 9.30-5.30pm, Sat 10-5pm, Sun 1
 Data0=(-43.53278,172.63583)
 [END]
 
@@ -203732,12 +203704,12 @@ Data0=(-43.51192,172.61786)
 
 ;1192668
 [POI]
-Type=0x2f
+Type=0x2e0b
 Label=COMPUTER TROUBLESHOOTERS - CHRISTCHURCH WEST
-StreetDesc=50 Kathleen Cres, Hornby, Chc/ Computer Troubleshooters focuses on providing tec
-Phone=+6434239011
-zip=Mon - Fri 8:30am - 5:30pm
-Data0=(-43.54202,172.51853)
+StreetDesc=35 Main South Rd, Sockburn, Chc 8042/ Computer Troubleshooters focuses on provid
+Phone=+6439282150
+zip=Mon - Fri 8:30am - 5:30pm, Sat - 10am - 
+Data0=(-43.53266,172.56715)
 [END]
 
 ;1192678
@@ -207576,7 +207548,8 @@ Data0=(-43.04787,173.07944)
 Type=0x2e07
 Label=RUBY DUNEDIN
 StreetDesc=352 George St, Dud CBD/ Women's Fashion
-zip=Mon - Fri 9.30-5.30pm, Sat 10-5, Sun 11-
+Phone=+6434775306
+zip=Mon - Fri 9.30-5.30pm, Sat 10-5pm, Sun 1
 Data0=(-45.86881,170.50674)
 [END]
 
@@ -208436,6 +208409,15 @@ zip=By Appointment
 Data0=(-43.51822,172.61698)
 [END]
 
+;1202816
+[POI]
+Type=0x2e07
+Label=LEEDSAFE LIMITED
+StreetDesc=443 St Asaph St Chc 8011 New Zealand/ Leedsafe is a supplier of extensive range 
+Phone=+6433792055
+Data0=(-43.53610,172.65349)
+[END]
+
 ;1203305
 [POI]
 Type=0x4c
@@ -208585,6 +208567,14 @@ Phone=+6433650163
 Data0=(-43.54496,172.63557)
 [END]
 
+;1203449
+[POI]
+Type=0x2e
+Label=DISCOUNT DAIRY WOOLSTON
+StreetDesc=713 Ferry Rd, Woodston, Chc./ Dairy, Foodstore.
+Data0=(-43.54974,172.68422)
+[END]
+
 ;1203460
 [POI]
 Type=0x2F02
@@ -208603,5 +208593,14 @@ StreetDesc=16 Ivan Cres, Chc Airport, Chc/ New Zealand Car Rentals and Vehicle H
 Phone=0508246784
 zip=8:00am - 5:00pm
 Data0=(-43.48315,172.54604)
+[END]
+
+;1203478
+[POI]
+Type=0x2e05
+Label=ALEXANDRA MEDICAL CENTRE PHARMACY
+StreetDesc=93 Tarbert St, Alexandra/ 
+Phone=+6434487211
+Data0=(-45.25306,169.39483)
 [END]
 

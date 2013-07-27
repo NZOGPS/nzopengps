@@ -207649,12 +207649,12 @@ Data0=(-44.39859,171.25553)
 
 ;1196848
 [POI]
-Type=0x2d02
-Label=PAUA ROCK CAFE & BAR
-StreetDesc=1800 State Highway 1 Oaro Kaikoura RD2/ A beautiful Cafe & Bar situated on the C
+Type=0x2a0e
+Label=?PAUA ROCK CAFE & BAR
+StreetDesc=1800 Kaikoura South Rd, Kaikoura RD2/ A beautiful Cafe & Bar situated on the Coa
 Phone=+6433195900
 zip=7am - Late
-Data0=(-43.11702,173.29833)
+Data0=(-42.50482,173.51030)
 [END]
 
 ;1196883
@@ -207884,7 +207884,7 @@ Data0=(-43.30358,172.59317)
 
 ;1197071
 [POI]
-Type=0x2d09
+Type=0x2f
 Label=MAYFAIR POOLS NELSON
 StreetDesc=141 Pascoe St Tahunanui Nelson/ Swimming Pools, inground pools, heated pools, la
 Phone=+6435475982
@@ -207893,7 +207893,7 @@ Data0=(-41.29830,173.23885)
 
 ;1197072
 [POI]
-Type=0x2d09
+Type=0x2f
 Label=MAYFAIR POOLS BLENHEIM
 StreetDesc=23 Grove Rd, Blenheim 7201/ Marlborough Pools & Spas. Swimming Pools, inground p
 Phone=+6435796300
@@ -207902,7 +207902,7 @@ Data0=(-41.50889,173.95905)
 
 ;1197073
 [POI]
-Type=0x2d09
+Type=0x2f
 Label=MAYFAIR POOLS OTAGO
 StreetDesc=17 Murray Tce, Cromwell/ Swimming Pools, inground pools, heated pools, lap pools
 Phone=+6434450934
@@ -208602,5 +208602,33 @@ Label=ALEXANDRA MEDICAL CENTRE PHARMACY
 StreetDesc=93 Tarbert St, Alexandra/ 
 Phone=+6434487211
 Data0=(-45.25306,169.39483)
+[END]
+
+;1203502
+[POI]
+Type=0x2f
+Label=FREEFORM LAMINATES
+StreetDesc=343 Kaikorai Valley Rd, Dud 9093/ Laminated benchtops
+Phone=+6434259693
+Data0=(-45.87819,170.47170)
+[END]
+
+;1203503
+[POI]
+Type=0x2d00
+Label=REALSWIM ADVENTURES
+StreetDesc=553 Williams St, Kaiapoi, Chc/ RealSwim Adventures are swimming adventure tours 
+Phone=+6435208052
+Data0=(-43.35553,172.66445)
+[END]
+
+;1203505
+[POI]
+Type=0x2d00
+Label=ST ALBANS TENNIS CLUB
+StreetDesc=Chc/ social tennis, junior coaching, mid-week tennis
+Phone=+6439805584
+zip=Thursday 6pm -8pm, Saturday 1pm - 5 pm
+Data0=(-43.51162,172.63455)
 [END]
 

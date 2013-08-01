@@ -52694,10 +52694,10 @@ Data0=(-41.26220,173.27928)
 [POI]
 Type=0x2f
 Label=MCBURNEY'S JOINERY
-StreetDesc=198 Marama Ave North, Invercargill/ 
+StreetDesc=211 Dunns Rd, Otatara/ 
 Phone=+6432130589
 zip=Mon-Fri 0830-1700
-Data0=(-46.42260,168.29394)
+Data0=(-46.43201,168.28063)
 [END]
 
 ;1109287
@@ -109676,10 +109676,11 @@ Data0=(-41.31969,173.22886)
 
 ;1135086
 [POI]
-Type=0x2f
-Label=POMEROYS COFFEE & TEA CO
-StreetDesc=80 Hardy St, St, Nelson/ 
-Data0=(-41.27438,173.28099)
+Type=0x2a0e
+Label=?POMEROYS COFFEE & TEA CO
+StreetDesc=105 Montgomery Sq, Nelson/ 
+Phone=+6435466944
+Data0=(-41.27377,173.28198)
 [END]
 
 ;1135087
@@ -111067,10 +111068,10 @@ Data0=(-45.10406,170.96751)
 
 ;1136918
 [POI]
-Type=0x2d01
+Type=0x2f
 Label=OAMARU REPERTORY THEATRE
 StreetDesc=15 Itchen St, Oamaru/ theatre
-Phone=+6434347667
+Phone=+6434348868
 Data0=(-45.10233,170.96927)
 [END]
 
@@ -208180,11 +208181,11 @@ Data0=(-45.89655,169.70581)
 ;1200033
 [POI]
 Type=0x2d09
-Label=?DUDLEY PARK AQUATIC CENTRE
+Label=DUDLEY PARK AQUATIC CENTRE
 StreetDesc=47 Church St Rangiora/ AQUATIC CENTRE
 Phone=+6433118905
 zip=Phone for details
-Data0=(-43.30790,172.58987)
+Data0=(-43.30727,172.58965)
 [END]
 
 ;1200037
@@ -208630,5 +208631,24 @@ StreetDesc=Chc/ social tennis, junior coaching, mid-week tennis
 Phone=+6439805584
 zip=Thursday 6pm -8pm, Saturday 1pm - 5 pm
 Data0=(-43.51162,172.63455)
+[END]
+
+;1203509
+[POI]
+Type=0x2a
+Label=PAULA'S PLATE
+StreetDesc=80 Hardy St Nelson/ Restaurant by Paula Saengthian-ngam, Masterchef NZ 2013
+Phone=+6435488057
+zip=8am-4pm. Monday-Saturday
+Data0=(-41.27430,173.28100)
+[END]
+
+;1203511
+[POI]
+Type=0x2a05
+Label=GASSON ST BAKERY & CAFE
+StreetDesc=68 Gasson St, Sydenham, Chc/ Bakery, Cafe
+Phone=+6433797904
+Data0=(-43.54387,172.64293)
 [END]
 

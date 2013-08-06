@@ -2,13 +2,13 @@
 .SECONDARY:
 TILES = Northland Southland Tasman Waikato Central Wellington Canterbury Auckland
 
-BASE = C:\Gary\NZOGPS\nzopengps
+BASE = d:\nzopengps
 DLOAD = C:\docume~1\turner\mydocu~1\Downloads
 LINZ = $(BASE)\LinzDataService
 LINZO = $(LINZ)\outputslinz
 NUMBERS = $(BASE)\numbers
 OUTPUTS = $(BASE)\scripts\outputs
-PSQL = "C:\Program Files\PostgreSQL\9.1\bin\"
+PSQL = "C:\Program Files\PostgreSQL\9.2\bin\"
 
 tilenum = $(subst Northland,1,$(subst Auckland,2,$(subst Waikato,3,$(subst Central,4,$(subst Wellington,5,$(subst Tasman,6,$(subst Canterbury,7,$(subst Southland,8,$(1)))))))))
  

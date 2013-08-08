@@ -83675,15 +83675,6 @@ Phone=+6433778050
 Data0=(-43.51629,172.63829)
 [END]
 
-;1122068
-[POI]
-Type=0x2e
-Label=VODAFONE THE PALMS
-StreetDesc=Shop 61, The Palms Mall, Shirley, Chc/ Vodafone mobiles, cellphones & accessorie
-Phone=0800434448
-Data0=(-43.50654,172.66371)
-[END]
-
 ;1122118
 [POI]
 Type=0x2c03
@@ -103321,7 +103312,7 @@ Data0=(-43.53030,172.63986)
 Type=0x2f
 Label=ZOOM IN KOREA
 StreetDesc=182 Clarence St, Chc/ 
-Data0=(-43.53086,172.60222)
+Data0=(-43.53038,172.60231)
 [END]
 
 ;1132285
@@ -140762,10 +140753,10 @@ Data0=(-43.54067,172.63864)
 ;1152113
 [POI]
 Type=0x2f
-Label=FIREBRAND CREATIVE LTD
-StreetDesc=L One, Kirkland Chambers, 83 Moray Place Dud/ Graphic Design, Marketing, Print M
-Phone=+6434773666
-Data0=(-45.87445,170.50126)
+Label=FIREBRAND HOLDINGS LTD
+StreetDesc=Ground Fl, Bracken Court, 480 Moray Place, Dud/ Graphic Design, Marketing, Print
+Phone=+6434773473
+Data0=(-45.87550,170.50336)
 [END]
 
 ;1152115
@@ -153428,14 +153419,6 @@ Type=0x2b02
 Label=SOUNDS VISTA B&B
 StreetDesc=58 Dorset St, Picton/ B&B Accommodation
 Data0=(-41.30112,173.99870)
-[END]
-
-;1159823
-[POI]
-Type=0x2b01
-Label=SOUTH CATLINS MOTELS
-StreetDesc=21 Duncan St, Tokanui, Tokanui/ Accommodation
-Data0=(-46.56309,168.94586)
 [END]
 
 ;1159825
@@ -168810,7 +168793,8 @@ Data0=(-46.41064,168.35192)
 [POI]
 Type=0x2f
 Label=FAMILY PLANNING TIMARU
-StreetDesc=2 Perth St, Timaru/ Contraception, Sexually Transmissible Infection checks and t
+StreetDesc=14 Butler St/ Contraception, Sexually Transmissible Infection checks and treatme
+Phone=+6436843872
 Data0=(-44.39814,171.25141)
 [END]
 
@@ -188745,10 +188729,10 @@ Data0=(-43.51226,172.50391)
 ;1177848
 [POI]
 Type=0x2f
-Label=DR. PETER RIPLEY, GP MINOR SURGERY CLINIC
-StreetDesc=At Urgent Doctors, 95 Hanover St, Dud,/ GP with Special Interest in Minor Surger
+Label=DR PETER RIPLEY, GP MINOR SURGERY CLINIC
+StreetDesc=At Dunedn Urgent Doctors, 95 Hanover St, Dud,/ GP, with special Interest in Mino
 Phone=+6434792900
-zip=Tuesdays and Thursdays 2 - 6pm. (Recepti
+zip=Tuesday and Thursday 2 - 6pm. (Reception
 Data0=(-45.87062,170.50831)
 [END]
 
@@ -191023,8 +191007,9 @@ Data0=(-43.60372,172.38381)
 [POI]
 Type=0x2b01
 Label=CHRISTCHURCH PARK MOTEL
-StreetDesc=250 Westminster St, St Albans, Chc/ Motel accommodation
-Data0=(-43.50159,172.64537)
+StreetDesc=250 Westminster St, St Albans, Chc/ Motel accommodation. Ideal for Family Groups
+Phone=+6433851991
+Data0=(-43.50155,172.64538)
 [END]
 
 ;1178980
@@ -191368,9 +191353,10 @@ Data0=(-43.63297,171.64794)
 ;1179103
 [POI]
 Type=0x2b01
-Label=THE ST JAMES HOTEL
-StreetDesc=Chisholm Cres, Hanmer Springs/ Hotel accommodation
-Data0=(-42.51999,172.82753)
+Label=THE ST JAMES PREMIUM ACCOMODATION
+StreetDesc=20 Chisholm Cres, Hanmer Springs/ Hotel accommodation
+Phone=+33155225
+Data0=(-42.52000,172.82799)
 [END]
 
 ;1179107
@@ -208650,5 +208636,54 @@ Label=GASSON ST BAKERY & CAFE
 StreetDesc=68 Gasson St, Sydenham, Chc/ Bakery, Cafe
 Phone=+6433797904
 Data0=(-43.54387,172.64293)
+[END]
+
+;1203922
+[POI]
+Type=0x2e
+Label=LIQUORLAND MOTUEKA
+StreetDesc=90 High St, Motueka/ Liquor, beer, wines, spirits
+Phone=+6435281416
+Data0=(-41.10889,173.01106)
+[END]
+
+;1203928
+[POI]
+Type=0x2f
+Label=MCGRATH BENCHTOP SOLUTIONS LTD
+StreetDesc=15B Gladstone Rd South, Mosgiel, Dud 9024/ Solid Surface, Bench Top Fabrication
+Phone=+6434897377
+zip=Monday - Thursday 8.30am - 4.30pm, Frida
+Data0=(-45.88710,170.35149)
+[END]
+
+;1203940
+[POI]
+Type=0x2f
+Label=VEGGIE BOYS DUNEDIN
+StreetDesc=105 Cumberland St Dud/ Family favourites the Veggie Boys cut out the middleman -
+Phone=+6434777987
+zip=8:00am-6:00pm seven days
+Data0=(-45.88173,170.50236)
+[END]
+
+;1203941
+[POI]
+Type=0x2f
+Label=RANKED BY REVIEW
+StreetDesc=26 The Octagon Dud/ Find the top businesses as rated by you and your peers. You 
+Phone=+6434530597
+zip=Mon-Fri- 9:00am-5:00pm Saturday 9:00am-1
+Data0=(-45.87471,170.50355)
+[END]
+
+;1203945
+[POI]
+Type=0x2f
+Label=IFAS-INDUSTRY FIRST AID SPECIALISTS 24HR
+StreetDesc=98 Otipua Rd, Watlington, Timaru 7910/ First Aid Kit Servicing, Supply, Medical 
+Phone=+6436849179
+zip=24 hours per day - 7 days per week
+Data0=(-44.40813,171.23763)
 [END]
 

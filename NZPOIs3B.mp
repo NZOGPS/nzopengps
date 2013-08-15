@@ -10721,9 +10721,9 @@ Data0=(-42.44872,171.20728)
 [POI]
 Type=0x2d03
 Label=GERALDINE CINEMA
-StreetDesc=74 Talbot St, Geraldine/ cinema
+StreetDesc=74 Talbot St, Geraldine/ Movie theatre
 Phone=+6436938118
-Data0=(-44.09268,171.24488)
+Data0=(-44.09296,171.24517)
 [END]
 
 ;1037233
@@ -10848,7 +10848,7 @@ Data0=(-41.27358,173.27947)
 [POI]
 Type=0x2e
 Label=LIQUORLAND CLUTHA
-StreetDesc=70 Clyde St, Balclutha/ liquor, beer, wines, spirits
+StreetDesc=70 Clyde St, Clutha/ liquor, beer, wines, spirits
 Phone=+6434180099
 zip=Monday 10:00am-6:00pm, Tuesday 9:00am-6:
 Data0=(-46.23833,169.73781)
@@ -10918,7 +10918,7 @@ Data0=(-43.55646,172.63665)
 [POI]
 Type=0x2e
 Label=LIQUORLAND BLENHEIM ROAD
-StreetDesc=Blenheim Sq, 227 Blenheim Rd, Chc/ liquor, beer, wines, spirits
+StreetDesc=227 Blenheim Rd, Blenheim Rd/ liquor, beer, wines, spirits
 Phone=+6433415333
 zip=Monday 9:00am-9:00pm, Tuesday 9:00am-9:0
 Data0=(-43.53866,172.58856)
@@ -10958,7 +10958,7 @@ Data0=(-44.24564,171.27818)
 [POI]
 Type=0x2e
 Label=LIQUORLAND TINWALD
-StreetDesc=Main South Rd, Ashburton/ liquor, beer, wines, spirits
+StreetDesc=99 Archibald St, Tinwald/ liquor, beer, wines, spirits
 Phone=+6433076470
 zip=Monday 9:30am-7:00pm, Tuesday 9:30am-9:0
 Data0=(-43.91954,171.72144)
@@ -10978,8 +10978,8 @@ Data0=(-43.54423,172.52650)
 [POI]
 Type=0x2e
 Label=LIQUORLAND BLENHEIM
-StreetDesc=Cnr Symons & High Sts, Blenheim/ liquor, beer, wines, spirits
-Phone=+6435782376
+StreetDesc=7 High St, Blenheim/ liquor, beer, wines, spirits
+Phone=+6435792376
 zip=Monday 9:00am-6:00pm, Tuesday 9:00am-6:0
 Data0=(-41.51216,173.95850)
 [END]
@@ -18543,9 +18543,9 @@ Data0=(-46.10225,168.94316)
 [POI]
 Type=0x2f06
 Label=RABOBANK INVERCARGILL (B)
-StreetDesc=L 1, 136 Spey St, Invercargill/ Bank branch, rural & agribusiness banking
+StreetDesc=243 Dee St, Invercargill/ Bank branch, rural & agribusiness banking
 Phone=+6432181955
-Data0=(-46.40954,168.35113)
+Data0=(-46.40329,168.34762)
 [END]
 
 ;1065380
@@ -25823,16 +25823,6 @@ StreetDesc=134 Colombo St, Chc/ Indian Takeaway, Curry
 Phone=+6439822860
 zip=7 Days (4.30pm - 9.30pm)
 Data0=(-43.55770,172.63710)
-[END]
-
-;1085029
-[POI]
-Type=0x2a02
-Label=TANDOORI PALACE FERRY RD
-StreetDesc=Ferrymead Central, 2 Waterman Pl, Ferrymead, Chc/ Indian Restaurant, Takeaway, C
-Phone=+6433843186
-zip=Dinner 7 Days 4.30pm - 9.30pm Lunch Mon-
-Data0=(-43.55615,172.69822)
 [END]
 
 ;1085036
@@ -40499,9 +40489,9 @@ Data0=(-43.54688,172.60624)
 [POI]
 Type=0x2f
 Label=BARKER FRUIT PROCESSORS LTD
-StreetDesc=Shaw  Rd, Geraldine/ 
+StreetDesc=72 Shaw Rd, Geraldine/ Food service, food ingredients
 Phone=+6436938969
-Data0=(-44.09285,171.19898)
+Data0=(-44.09312,171.19937)
 [END]
 
 ;1101944
@@ -47582,15 +47572,6 @@ StreetDesc=19 Parere St, Nelson/
 Phone=+6435483039
 zip=Mon-Fri 0830-1700
 Data0=(-41.27736,173.27502)
-[END]
-
-;1106112
-[POI]
-Type=0x2f
-Label=GIBBS INDUSTRIES (WAIKATO) LTD
-StreetDesc=82 Duke St, Frankton, Waikato/ 
-Phone=+6478478193
-Data0=(-45.03131,168.65895)
 [END]
 
 ;1106113
@@ -61364,7 +61345,7 @@ Type=0x2f
 Label=TALBOT FOREST CHEESE LTD
 StreetDesc=76G Talbot St, Geraldine/ 
 Phone=+6436931111
-Data0=(-44.09285,171.24496)
+Data0=(-44.09289,171.24452)
 [END]
 
 ;1114238
@@ -91141,9 +91122,9 @@ Data0=(-43.52108,172.63178)
 
 ;1128893
 [POI]
-Type=0x2a
+Type=0x2d02
 Label=JOLLIE JACKS
-StreetDesc=12a Conical Hill Rd, Hanmer Springs/ Restaurant, Bar
+StreetDesc=12a Conical Hill Rd, Hanmer Springs/ Restaurant and bar
 Phone=+6433157381
 Data0=(-42.52112,172.82913)
 [END]
@@ -96473,7 +96454,8 @@ Data0=(-43.53576,172.52123)
 Type=0x2a0e
 Label=HELLER & HIBBS SEASIDE CAFE & BAR
 StreetDesc=3 Brighton Mall, New Brighton, Chc/ cafe, bar
-Data0=(-43.50712,172.73060)
+Phone=+6433885599
+Data0=(-43.50709,172.73068)
 [END]
 
 ;1131349
@@ -99379,9 +99361,11 @@ Data0=(-43.51899,172.62698)
 ;1131747
 [POI]
 Type=0x2a
-Label=PEDROS RESTAURANTES LIMITED
-StreetDesc=143 Worcester St, Chc/ 
-Data0=(-43.53081,172.64014)
+Label=PEDROS HOUSE OF LAMB
+StreetDesc=17 Papanui Rd, Chc/ Lamb, phone orders, takeaways
+Phone=+6433870707
+zip=Tuesday to Saturday from 4pm
+Data0=(-43.51951,172.62689)
 [END]
 
 ;1131748
@@ -103616,9 +103600,9 @@ Data0=(-45.03706,169.19536)
 [POI]
 Type=0x2f
 Label=FLOORING XTRA - QUEENSTOWN
-StreetDesc=8 Industrial Pl Queenstown/ Floor Coverings
-Phone=+6434411017
-Data0=(-45.01806,168.66243)
+StreetDesc=186 Glenda Dr, Frankton/ Floor Coverings
+Phone=+6434422036
+Data0=(-45.01158,168.75473)
 [END]
 
 ;1132451
@@ -111837,10 +111821,11 @@ Data0=(-44.39760,171.25508)
 
 ;1137774
 [POI]
-Type=0x2f
-Label=BARKERS FRUIT PROCESSORS
-StreetDesc=76B Talbot St, Geraldine/ fresh fruit, vegetables
-Data0=(-44.09285,171.24496)
+Type=0x2a
+Label=BARKER'S OF GERALDINE SHOP
+StreetDesc=Four Peak Plaza, 76B Talbot St, Geraldine/ Jam, chutney, fruit syrup, condiments
+Phone=0508BARKERS
+Data0=(-44.09273,171.24481)
 [END]
 
 ;1137775
@@ -111888,8 +111873,9 @@ Data0=(-44.38906,171.24504)
 [POI]
 Type=0x2a05
 Label=BERRY BARN BAKERY
-StreetDesc=74-76 Talbot St, Geraldine/ bakery
-Data0=(-44.09270,171.24484)
+StreetDesc=74-76 Talbot St, Geraldine/ bakery, cafe
+Phone=+6436939900
+Data0=(-44.09273,171.24496)
 [END]
 
 ;1137783
@@ -113370,7 +113356,7 @@ Data0=(-44.41818,171.24974)
 ;1137978
 [POI]
 Type=0x2a
-Label=SOUTH OF THE BORDER
+Label=KOBI JAPANESE RESTAURANT
 StreetDesc=88 Evans St, Timaru/ Licensed restaurant
 Data0=(-44.38365,171.23842)
 [END]
@@ -113664,9 +113650,10 @@ Data0=(-44.39586,171.25351)
 ;1138014
 [POI]
 Type=0x2a0e
-Label=THE EASY WAY CAFE
+Label=THE COUNTRY CAFE
 StreetDesc=76F Talbot St, Geraldine/ Licensed cafe
-Data0=(-44.09285,171.24496)
+Phone=+6436938090
+Data0=(-44.09275,171.24478)
 [END]
 
 ;1138015
@@ -113713,9 +113700,10 @@ Data0=(-44.39334,171.24971)
 ;1138020
 [POI]
 Type=0x2a
-Label=THE SAIL
-StreetDesc=51 Sophia St, Timaru/ Licensed restaurant
-Data0=(-44.39569,171.25125)
+Label=THE SAIL & ANCHOR BAR & CAFE
+StreetDesc=51 Sophia St, Timaru/ Licensed restaurant, bar, cafe
+Phone=+6436888177
+Data0=(-44.39578,171.25123)
 [END]
 
 ;1138021
@@ -119914,14 +119902,6 @@ Phone=+6433148257
 Data0=(-43.15492,172.72962)
 [END]
 
-;1141134
-[POI]
-Type=0x2a02
-Label=AYUTTHAYA THAI CUISINE
-StreetDesc=Shop 5, 30 Conical Hill Rd, Hanmer Springs/ Thai restaurant
-Data0=(-42.51972,172.82915)
-[END]
-
 ;1141135
 [POI]
 Type=0x2b03
@@ -120595,14 +120575,6 @@ Label=THE DUTCH STATION
 StreetDesc=135 Bentleys Rd, Hawarden/ Accommodation
 Phone=+33142200
 Data0=(-42.90630,172.65168)
-[END]
-
-;1141221
-[POI]
-Type=0x2a
-Label=THE LAURELS RESTAURANT
-StreetDesc=31 Amuri Ave, Hanmer Springs/ restaurant
-Data0=(-42.52446,172.82957)
 [END]
 
 ;1141222
@@ -130511,6 +130483,16 @@ StreetDesc=10A Senior Place, Chc/ bakery
 Data0=(-43.53009,172.69537)
 [END]
 
+;1146691
+[POI]
+Type=0x2a
+Label=CORIANDER'S ETHNIC INDIAN RESTAURANT
+StreetDesc=76 Edgeware Rd, Edgeware Village, Chc/ Indian Restaurant, Takeaway, Fully licens
+Phone=+6433667223
+zip=Lunch: Mon-Fri 11:30am-2pm, Dinner: Mon-
+Data0=(-43.51359,172.63789)
+[END]
+
 ;1146692
 [POI]
 Type=0x2a0e
@@ -136095,14 +136077,6 @@ StreetDesc=5 Market Place, Twizel/
 Data0=(-44.25704,170.09805)
 [END]
 
-;1149091
-[POI]
-Type=0x2f
-Label=RIMUWHARE
-StreetDesc=53 Mt Cook Rd, Fairlie/ 
-Data0=(-44.09316,170.82279)
-[END]
-
 ;1149092
 [POI]
 Type=0x2f
@@ -140590,8 +140564,9 @@ Data0=(-45.66504,169.40799)
 [POI]
 Type=0x2d02
 Label=THE BUFFALO CLUB
-StreetDesc=10 Brecon St, Queenstown/ 
-Data0=(-45.03145,168.65856)
+StreetDesc=8 Brecon St, Queenstown/ Bar
+Phone=+6434424144
+Data0=(-45.03149,168.65860)
 [END]
 
 ;1152039
@@ -154487,7 +154462,7 @@ Label=GERALDINE LIBRARY
 StreetDesc=78 Talbot St, Geraldine/ Public Library, Books, Internet, WiFi
 Phone=+6436939336
 zip=Mon-Thu 8:30am-5pm, Fri 8:30am-6pm, Sat 
-Data0=(-44.09312,171.24519)
+Data0=(-44.09340,171.24519)
 [END]
 
 ;1160278
@@ -175002,10 +174977,10 @@ Data0=(-43.75534,172.02153)
 [POI]
 Type=0x2b03
 Label=RAKAIA RIVER HOLIDAY PARK
-StreetDesc=16 Main South Rd, Rakaia/ Holiday Accommodation, Holiday Parks & Camping Grounds
+StreetDesc=Main South Rd, Rakaia/ Holiday Accommodation, Holiday Parks & Camping Grounds, M
 Phone=+6433027257
 zip=7 days 8:30am-10pm
-Data0=(-43.75164,172.02901)
+Data0=(-43.75149,172.02905)
 [END]
 
 ;1171642
@@ -176504,10 +176479,10 @@ Data0=(-43.32782,172.59962)
 [POI]
 Type=0x2f0d
 Label=AA CENTRE - SHIRLEY
-StreetDesc=205 Hills Rd, Shirley, Chc/ You can join the AA, arrange car, home & contents, l
+StreetDesc=114 Marshland Rd, Shirley, Chc/ You can join the AA, arrange car, home & content
 Phone=+6433861090
 zip=Mon-Fri 8.30am-5pm except Tue 9am-5pm, S
-Data0=(-43.50866,172.65147)
+Data0=(-43.49958,172.66239)
 [END]
 
 ;1172304
@@ -179012,9 +178987,9 @@ Data0=(-41.27645,173.28651)
 ;1172970
 [POI]
 Type=0x2c04
-Label=?PIPE SHED
-StreetDesc=South Belt, Methven/ Historic Place: Category 1
-Data0=(-43.63593,171.64312)
+Label=PIPE SHED
+StreetDesc=South-western corner of South Belt and Ashburton-Rakaia Gorge Rd (State Highway 
+Data0=(-43.63615,171.64558)
 [END]
 
 ;1172973
@@ -179509,9 +179484,9 @@ Data0=(-45.00896,168.89952)
 ;1173117
 [POI]
 Type=0x2c04
-Label=?BLACKBALL COAL MINE CHIMNEYS
+Label=BLACKBALL COAL MINE CHIMNEYS
 StreetDesc=Blackball/ Historic Place: Category 1
-Data0=(-42.36660,171.41300)
+Data0=(-42.36082,171.40672)
 [END]
 
 ;1173118
@@ -179519,7 +179494,7 @@ Data0=(-42.36660,171.41300)
 Type=0x2c04
 Label=?RETURN AIR VENT AND FAN CHAMBER, BLACKBALL MINE
 StreetDesc=Blackball/ Historic Place: Category 1
-Data0=(-42.36660,171.41300)
+Data0=(-42.36093,171.40665)
 [END]
 
 ;1173119
@@ -199161,10 +199136,10 @@ Data0=(-45.05041,169.18984)
 [POI]
 Type=0x2f
 Label=R REDPATH LTD
-StreetDesc=186 Glenda Dr, Frankton/ Electrical wholesale
+StreetDesc=105 Glenda Dr, Frankton/ Electrical wholesale
 Phone=0800273372
 zip=Mon-Fri 7am-5pm, Sat 8am-1pm
-Data0=(-45.01159,168.75457)
+Data0=(-45.00821,168.75388)
 [END]
 
 ;1189886
@@ -204089,7 +204064,7 @@ Data0=(-43.53617,172.64043)
 [POI]
 Type=0x2f
 Label=LOAF SALON
-StreetDesc=71 Rutland St, St Albans, Chc/ At Loaf Salon in St Albans, Christchurch you will
+StreetDesc=71 Rutland St, St Albans, Chc/ Relax and unwind as you enjoy being pampered by o
 Phone=+6433558560
 Data0=(-43.50643,172.62856)
 [END]
@@ -204393,7 +204368,7 @@ Data0=(-41.45484,173.96585)
 [POI]
 Type=0x2f
 Label=CANTERBURY LINEN SERVICES
-StreetDesc=21 Sylvan St, PO Box 9162, Chc 8031/ At Canterbury Linen we service the Canterbu
+StreetDesc=21 Sylvan St, Middleton, Chc 8024/ Providing our clients with top quality linen 
 Phone=+6433382039
 Data0=(-43.55057,172.59546)
 [END]
@@ -208685,5 +208660,344 @@ StreetDesc=98 Otipua Rd, Watlington, Timaru 7910/ First Aid Kit Servicing, Suppl
 Phone=+6436849179
 zip=24 hours per day - 7 days per week
 Data0=(-44.40813,171.23763)
+[END]
+
+;1203962
+[POI]
+Type=0x2a
+Label=BELLA CUCINA
+StreetDesc=6 Brecon St, Queenstown/ Italian restaurant
+Phone=+6434426762
+zip=7 days from 5pm
+Data0=(-45.03149,168.65861)
+[END]
+
+;1203963
+[POI]
+Type=0x2e
+Label=VERTIGO BIKES
+StreetDesc=4 Brecon St, Queenstown/ Bike shop, repairs, sales, rentals, tours
+Phone=+6434428378
+Data0=(-45.03164,168.65875)
+[END]
+
+;1203968
+[POI]
+Type=0x2d02
+Label=THE BALLARAT TRADING CO
+StreetDesc=7-9 The Mall, Queenstown/ Gasto pub, bar, restaurant
+Phone=+6434424222
+zip=7 days
+Data0=(-45.03255,168.66072)
+[END]
+
+;1203969
+[POI]
+Type=0x2f
+Label=CASEY INDUSTRIES LIMITED
+StreetDesc=150 Vanguard St, Nelson South, Nelson 7010/ Specialists in lacquered kitchens, v
+Phone=+6435484066
+zip=8.30 am to 5.00 pm Monday - Friday
+Data0=(-41.28001,173.27305)
+[END]
+
+;1203973
+[POI]
+Type=0x2d02
+Label=SPEIGHT'S ALE HOUSE NELSON
+StreetDesc=99 Quarantine Rd, Nelson/ Bar, restaurant, private function centre
+Phone=+6435477336
+Data0=(-41.29809,173.23989)
+[END]
+
+;1203978
+[POI]
+Type=0x2a
+Label=PIERSIDE CAFE AND BAR
+StreetDesc=3 Brighton Mall, New Brighton, Chc/ Cafe, bar, restaurant
+Phone=+6433884902
+zip=Mon-Wed 10.30am-10.30pm, Thu 10.30am-Mid
+Data0=(-43.50711,172.73065)
+[END]
+
+;1203980
+[POI]
+Type=0x2a
+Label=RED STAG RESTAURANT
+StreetDesc=53 Mount Cook Rd, Fairlie/ Restaurant
+Phone=+6436858058
+Data0=(-44.09331,170.82290)
+[END]
+
+;1203983
+[POI]
+Type=0x2a
+Label=PASSIONE ITALIAN RESTAURANT
+StreetDesc=40 West End, Kaikoura/ Italian restaurant, pizza
+Phone=+6433196999
+Data0=(-42.40077,173.68118)
+[END]
+
+;1203984
+[POI]
+Type=0x2a
+Label=NO 31 RESTAURANT & BAR
+StreetDesc=31 Amuri Ave, Hanmer Springs/ Restaurant
+Phone=+6433157031
+Data0=(-42.52442,172.82951)
+[END]
+
+;1203985
+[POI]
+Type=0x2d02
+Label=THE IRISH PUB
+StreetDesc=17A London St, Lyttelton/ The Irish Diner. Bar and restaurant
+Phone=+6433288085
+Data0=(-43.60285,172.72171)
+[END]
+
+;1203986
+[POI]
+Type=0x2a
+Label=GREENCHILLI THAI RESTAURANT
+StreetDesc=12 Conical Hill Rd, Hanmer Springs/ Thai Restaurant
+Phone=+6433155188
+Data0=(-42.52057,172.82922)
+[END]
+
+;1203987
+[POI]
+Type=0x2e07
+Label=RATBAGZ
+StreetDesc=Shop 1, 30 Conical Hill Rd, Hanmer Springs/ Kids clothing with attitude. Boys an
+Phone=+6433157221
+Data0=(-42.51975,172.82921)
+[END]
+
+;1203991
+[POI]
+Type=0x2a
+Label=MINT DINING ROOM
+StreetDesc=20 Harley St, Nelson/ Restaurant
+Phone=+6435467092
+Data0=(-41.27345,173.28778)
+[END]
+
+;1203992
+[POI]
+Type=0x2a
+Label=LOUIE'S
+StreetDesc=142 Dee St, Invercargill/ Cafe, bar, restaurant
+Phone=+6432142913
+Data0=(-46.40881,168.34695)
+[END]
+
+;1203993
+[POI]
+Type=0x2a0e
+Label=103 THE STORE
+StreetDesc=103 Scotland St, Roxburgh/ Cafe
+Phone=+6434468158
+Data0=(-45.54035,169.31441)
+[END]
+
+;1203998
+[POI]
+Type=0x2a
+Label=BLAZING COPPER RESTAURANT & BAR
+StreetDesc=Heartland Hotel Croydon, Waimea Highway, Gore/ 
+Phone=+6432089029
+zip=Breakfast lunch and dinner 7 days
+Data0=(-46.08398,168.93725)
+[END]
+
+;1203999
+[POI]
+Type=0x2a
+Label=CASA BELLA RESTAURANT
+StreetDesc=81 Hokonui Dr, Gore/ Restaurant
+Phone=+6432080154
+Data0=(-46.09143,168.94412)
+[END]
+
+;1204001
+[POI]
+Type=0x2a
+Label=CAFE 39
+StreetDesc=39 Tancred St, Hokitika/ 
+Phone=+6437558379
+Data0=(-42.71769,170.96224)
+[END]
+
+;1204003
+[POI]
+Type=0x2a07
+Label=FISHERMAN'S WHARF
+StreetDesc=39 Norwich Qy, Lyttelton, Chc/ Fish and chips, takeaways
+Phone=+6433287530
+Data0=(-43.60325,172.71880)
+[END]
+
+;1204004
+[POI]
+Type=0x2f
+Label=RADCLIFFE ELECTRICAL QUEENSTOWN
+StreetDesc=149 Glenda Dr, Frankton, Queenstown/ Electrical Trade Wholesale
+Phone=+6434422772
+Data0=(-45.01102,168.75505)
+[END]
+
+;1204007
+[POI]
+Type=0x2f
+Label=BOUTIQUE WEDDINGS NEW ZEALAND
+StreetDesc=4 Little St, Wanaka, Queenstown, Otago/ wedding planner, destination weddings, w
+Phone=+6434431989
+Data0=(-44.69365,169.13929)
+[END]
+
+;1204010
+[POI]
+Type=0x2a0e
+Label=RELISHES CAFE
+StreetDesc=1/99 Ardmore St, Wanaka/ Cafe
+Phone=+6434439018
+Data0=(-44.69482,169.13552)
+[END]
+
+;1204011
+[POI]
+Type=0x2a0e
+Label=KAI WHAKAPAI
+StreetDesc=Cnr Helwick & Ardmore St, Wanaka/ Cafe & Bar
+Phone=+6434437795
+Data0=(-44.69519,169.13477)
+[END]
+
+;1204012
+[POI]
+Type=0x2a0e
+Label=CAFE GUSTO
+StreetDesc=1 Lakeside Rd, Wanaka/ Cafe
+Phone=+6434436639
+Data0=(-44.69377,169.13645)
+[END]
+
+;1204013
+[POI]
+Type=0x2a
+Label=ALIVATE RESTAURANT
+StreetDesc=141 Ardmore St, Wanaka/ Restaurant
+Phone=+6434431188
+Data0=(-44.69568,169.13399)
+[END]
+
+;1204014
+[POI]
+Type=0x2a
+Label=BOMBAY PALACE
+StreetDesc=Pembroke Mall, 139 Ardmore St, Wanaka/ Indian Restaurant & Takeaways
+Phone=+6434436086
+Data0=(-44.69566,169.13415)
+[END]
+
+;1204015
+[POI]
+Type=0x2a0e
+Label=CHEEKY MONKEY CAFE
+StreetDesc=71 Ardmore St, Wanaka/ Cafe
+Phone=+6434436722
+Data0=(-44.69412,169.13747)
+[END]
+
+;1204016
+[POI]
+Type=0x2a0e
+Label=RITUAL ESPRESSO CAFE
+StreetDesc=18 Helwick St, Wanaka/ Cafe
+Phone=+6434436662
+Data0=(-44.69546,169.13553)
+[END]
+
+;1204017
+[POI]
+Type=0x2a07
+Label=SNACK SHACK TURKISH KEBABS
+StreetDesc=Pembroke Mall, 139 Ardmore St, Wanaka/ Kebabs, takeaways
+Phone=+6434437622
+Data0=(-44.69575,169.13442)
+[END]
+
+;1204018
+[POI]
+Type=0x2a
+Label=THE SPICE ROOM
+StreetDesc=43 Helwick St, Wanaka/ Indian restaurant
+Phone=+6434431133
+Data0=(-44.69625,169.13588)
+[END]
+
+;1204019
+[POI]
+Type=0x2d02
+Label=TROUT BAR
+StreetDesc=151 Ardmore St, Wanaka/ Bar
+Phone=+6434432600
+Data0=(-44.69582,169.13372)
+[END]
+
+;1204020
+[POI]
+Type=0x2d02
+Label=WANAKA ALE HOUSE
+StreetDesc=155 Ardmore St, Wanaka/ Bar, restaurant
+Phone=+6434432920
+Data0=(-44.69600,169.13351)
+[END]
+
+;1204021
+[POI]
+Type=0x2e05
+Label=AMCAL BLENHEIM PHARMACY
+StreetDesc=78 Queen St, Blenheim/ Pharmacy
+Phone=+6435787007
+Data0=(-41.51475,173.95546)
+[END]
+
+;1204022
+[POI]
+Type=0x2e05
+Label=AMCAL KENDAL PHARMACY
+StreetDesc=64 Kendal Ave, Burnside, Chc/ Pharmacy
+Phone=+6433588714
+Data0=(-43.49791,172.57282)
+[END]
+
+;1204027
+[POI]
+Type=0x2e05
+Label=LIFE PHARMACY DUNEDIN
+StreetDesc=Shop G1, 211 George St, Dud Central, Dud/ Pharmacy
+Phone=+6434775433
+Data0=(-45.87113,170.50515)
+[END]
+
+;1204029
+[POI]
+Type=0x2e05
+Label=NELSON CARE CHEMIST
+StreetDesc=105 Collingwood St, Nelson/ Pharmacy
+Phone=+6435394900
+Data0=(-41.27368,173.28718)
+[END]
+
+;1204048
+[POI]
+Type=0x2f03
+Label=?CITY NORTH AUTO DUNEDIN
+StreetDesc=492 Great King St Dud/ We are a dedicated Team of certified specialists, committ
+Phone=+6434718496
+zip=Mon-Fri 8:00am-5:30pm
+Data0=(-45.86399,170.51099)
 [END]
 

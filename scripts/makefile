@@ -60,10 +60,12 @@ $(OUTPUTS)\\%-report-6.txt : ..\%.mp $(LINZO)\%-LINZ.mp
 	ruby parseMP.rb $(call tilenum, $(notdir $*)) 6
 
 $(NUMBERS)\\%-numbers.gdb : $(OUTPUTS)\%-numbers.gdb
-	copy /Y  $(subst /,\,$<)  $(subst /,\,$@)
+	[ -f $(subst /,\,$@) ] && mv $(subst /,\,$@) $(addsuffix .old,$(subst /,\,$@))
+	cp  $(subst /,\,$<)  $(subst /,\,$@)
 
 $(NUMBERS)\\%-numbers-linzid.csv : $(OUTPUTS)\%-numbers-linzid.csv
-	copy /Y  $(subst /,\,$<)  $(subst /,\,$@)
+	[ -f $(subst /,\,$@) ] && mv $(subst /,\,$@) $(addsuffix .old,$(subst /,\,$@))
+	cp  $(subst /,\,$<)  $(subst /,\,$@)
 	
 $(OUTPUTS)\\%-numbers.gdb : database.date
 	ruby parseMP.rb $(call tilenum, $(notdir $*)) 5

@@ -67281,9 +67281,9 @@ Data0=(-43.42863,171.36647)
 ;1116875
 [POI]
 Type=0x6402
-Label=?CONE CREEK HUT
+Label=CONE CREEK HUT
 StreetDesc=Stewardship Land - South Island > West Coast > Greymouth/ DOC Backcountry hut
-Data0=(-42.68253,171.73334)
+Data0=(-42.68236,171.73311)
 [END]
 
 ;1116877
@@ -67689,9 +67689,9 @@ Data0=(-43.93131,169.83073)
 ;1116941
 [POI]
 Type=0x6402
-Label=?ELIZABETH HUT
+Label=ELIZABETH HUT
 StreetDesc=Stewardship Land - South Island > West Coast > Greymouth/ DOC Backcountry hut
-Data0=(-42.68938,171.78323)
+Data0=(-42.68845,171.78346)
 [END]
 
 ;1116942
@@ -68113,9 +68113,9 @@ Data0=(-44.15550,169.63980)
 ;1116998
 [POI]
 Type=0x6402
-Label=?HALFWAY HUT
+Label=HALFWAY HUT
 StreetDesc=Fiordland Ntl Park, Murihiku - South Island > Fiordland > Fiordland/ DOC Backcou
-Data0=(-45.75432,167.14380)
+Data0=(-45.75981,167.14313)
 [END]
 
 ;1117000
@@ -68809,9 +68809,9 @@ Data0=(-41.65603,172.33006)
 ;1117123
 [POI]
 Type=0x6402
-Label=?LAKE MORGAN HUT
+Label=LAKE MORGAN HUT
 StreetDesc=Stewardship Land - South Island > West Coast > Greymouth/ DOC Backcountry hut
-Data0=(-42.66351,171.70934)
+Data0=(-42.66338,171.70924)
 [END]
 
 ;1117124
@@ -70801,9 +70801,9 @@ Data0=(-42.94036,171.25583)
 ;1117519
 [POI]
 Type=0x6402
-Label=?TOP CROOKED HUT
+Label=TOP CROOKED HUT
 StreetDesc=Stewardship Land - South Island > West Coast > Greymouth/ DOC Backcountry hut
-Data0=(-42.70414,171.69105)
+Data0=(-42.70439,171.69101)
 [END]
 
 ;1117520
@@ -142886,9 +142886,9 @@ Data0=(-43.57530,172.60331)
 [POI]
 Type=0x2e05
 Label=QEII PHARMACY
-StreetDesc=251 Travis Rd, North Beach, Chc/ Pharmacy, chemist, cosmetics
+StreetDesc=251 Travis Rd, North New Brighton, Chc/ Pharmacy, chemist, cosmetics
 Phone=+6433889286
-Data0=(-43.49499,172.70987)
+Data0=(-43.49490,172.70990)
 [END]
 
 ;1153650
@@ -146729,9 +146729,9 @@ Data0=(-41.26829,173.28420)
 [POI]
 Type=0x2b01
 Label=HANMER SPRINGS APARTMENTS
-StreetDesc=4 Woodbank Rd, Hanmer Springs 7334, North Canterbury/ Self-contained motel accom
+StreetDesc=4 Woodbank Rd, Hanmer Springs 7334, North Canterbury/ Modern, affordable, spacio
 Phone=+33157135
-zip=8am to 9pm
+zip=8:30am to 8:30pm
 Data0=(-42.53359,172.81964)
 [END]
 
@@ -182368,10 +182368,10 @@ Data0=(-43.54747,172.65455)
 ;1173966
 [POI]
 Type=0x2f03
-Label=A.B.S COLLISION REPAIR CENTRE SOCKBURN
+Label=RO JONES SOUTHERN
 StreetDesc=224 Main South Rd, Sockburn/ Panelbeaters, Auto body repair, painting, restorati
 Phone=+6433484500
-Data0=(-43.54306,172.54600)
+Data0=(-43.54300,172.54561)
 [END]
 
 ;1173967
@@ -182569,10 +182569,10 @@ Data0=(-42.21171,173.87114)
 
 ;1174191
 [POI]
-Type=0x2e07
+Type=0x2e
 Label=THE FOOTWEAR OUTLET
 StreetDesc=55 Ranfurly St, Kaiapoi/ Men's and Women's Shoes
-Phone=+6433270574
+Phone=+6433270576
 zip=Mon-Fri 9am-5pm, Sat 10am-3pm
 Data0=(-43.37382,172.65663)
 [END]
@@ -207288,7 +207288,7 @@ Type=0x2e
 Label=THIRSTY LIQUOR QEII LIQUOR
 StreetDesc=5/251 Travis Rd, New Brighton, Chc/ Liquor, beer, wine, spirits
 Phone=+6433885016
-Data0=(-43.49497,172.70989)
+Data0=(-43.49472,172.70996)
 [END]
 
 ;1196510
@@ -208999,5 +208999,126 @@ StreetDesc=492 Great King St Dud/ We are a dedicated Team of certified specialis
 Phone=+6434718496
 zip=Mon-Fri 8:00am-5:30pm
 Data0=(-45.86399,170.51099)
+[END]
+
+;1204050
+[POI]
+Type=0x2a
+Label=THE WHITE HOUSE
+StreetDesc=cnr Dunmore & Dungarvon St, Wanaka/ Cafe, bar, restaurant
+Phone=+6434439595
+Data0=(-44.69652,169.13390)
+[END]
+
+;1204058
+[POI]
+Type=0x2f
+Label=WENDY BOWMAN HARCOURTS DUNEDIN
+StreetDesc=16 Queens Gardens Dud/ Real Estate
+Phone=+6434747070
+zip=Mon-Sun, 8:00am-5:00pm
+Data0=(-45.87711,170.50351)
+[END]
+
+;1204059
+[POI]
+Type=0x2f
+Label=YOUR BUSINESS TEAM DUNEDIN
+StreetDesc=35 Crawford St Dud/ Accounting and Bookkeeping
+Phone=+6434793890
+zip=Mon-Fri, 8:30am-5:30pm
+Data0=(-45.87915,170.50272)
+[END]
+
+;1204064
+[POI]
+Type=0x2f
+Label=TUI ELECTRICAL
+StreetDesc=21 English St/ ELECTRICIAN
+Phone=0800884669
+zip=Monday to Friday 7.30am-5.30pm
+Data0=(-43.53222,172.56278)
+[END]
+
+;1204065
+[POI]
+Type=0x2e07
+Label=FLORIAN LEATHERGOODS
+StreetDesc=163 Ferry Rd/ Leather handbags and accessories,handcrafted and made in New Zeala
+Phone=+33667178
+zip=Monday to Friday 9am - 4:30pm; Saturday 
+Data0=(-43.53868,172.65281)
+[END]
+
+;1204070
+[POI]
+Type=0x2f03
+Label=TERRY STEVENSON PANELBEATERS
+StreetDesc=302 Travis Rd, New Brighton, Chc/ Panel beaters & spraypainters. WOF & Rust Repa
+Phone=+6433885187
+zip=Mon-Fri 7am-5:30pm Sat 9am-12:30pm
+Data0=(-43.49524,172.70990)
+[END]
+
+;1204071
+[POI]
+Type=0x2f03
+Label=HAGLEY PANEL & PAINT
+StreetDesc=20 Tyne St, Addington, Chc/ Panelbeaters
+Phone=+6433483077
+Data0=(-43.53697,172.60883)
+[END]
+
+;1204072
+[POI]
+Type=0x2f03
+Label=ATKINS PANELBEATERS LTD
+StreetDesc=80 Buchan St, Sydenham, Chc 8023/ Panelbeaters, collision repairs
+Phone=+6433797966
+Data0=(-43.54332,172.63846)
+[END]
+
+;1204073
+[POI]
+Type=0x2f03
+Label=HAMMONDS PANELBEATERS
+StreetDesc=20 Southwark St, Chc/ 
+Phone=+6433661809
+Data0=(-43.53735,172.64111)
+[END]
+
+;1204074
+[POI]
+Type=0x2f03
+Label=RO JONES CITY
+StreetDesc=20 Bath St, Chc/ Panelbeaters
+Phone=+6433663483
+Data0=(-43.53914,172.63506)
+[END]
+
+;1204075
+[POI]
+Type=0x2f03
+Label=TOTAL BODY WORKS
+StreetDesc=38 Hands Rd, Middleton, Chc/ Panelbeaters
+Phone=+6433667007
+Data0=(-43.54234,172.59323)
+[END]
+
+;1204091
+[POI]
+Type=0x2f
+Label=BETTA ELECTRICAL, NEW ZEALAND
+StreetDesc=359 Lincoln Rd, Chc/ Betta Electrical - The best online store for all household 
+Data0=(-43.54140,172.61503)
+[END]
+
+;1204097
+[POI]
+Type=0x2f
+Label=SAB ACCOUNTANTS
+StreetDesc=225 high St, Chc/ SAB Accountants Christchurch
+zip=09:00 am to 05:00 pm
+Data0=(-43.53384,172.63894)
 [END]
 

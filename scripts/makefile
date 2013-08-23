@@ -2,13 +2,13 @@
 .SECONDARY:
 TILES = Northland Southland Tasman Waikato Central Wellington Canterbury Auckland
 
-BASE = d:\nzopengps
+BASE = C:\Gary\NZOGPS\nzopengps
 DLOAD = C:\docume~1\turner\mydocu~1\Downloads
 LINZ = $(BASE)\LinzDataService
 LINZO = $(LINZ)\outputslinz
 NUMBERS = $(BASE)\numbers
 OUTPUTS = $(BASE)\scripts\outputs
-PSQL = "C:\Program Files\PostgreSQL\9.2\bin\"
+PSQL = "C:\Program Files\PostgreSQL\9.1\bin\"
 
 tilenum = $(subst Northland,1,$(subst Auckland,2,$(subst Waikato,3,$(subst Central,4,$(subst Wellington,5,$(subst Tasman,6,$(subst Canterbury,7,$(subst Southland,8,$(1)))))))))
  
@@ -60,12 +60,12 @@ $(OUTPUTS)\\%-report-6.txt : ..\%.mp $(LINZO)\%-LINZ.mp
 	ruby parseMP.rb $(call tilenum, $(notdir $*)) 6
 
 $(NUMBERS)\\%-numbers.gdb : $(OUTPUTS)\%-numbers.gdb
-	[ -f $(subst /,\,$@) ] && mv $(subst /,\,$@) $(addsuffix .old,$(subst /,\,$@))
-	cp  $(subst /,\,$<)  $(subst /,\,$@)
+	if exist $(subst /,\,$@) move /Y $(subst /,\,$@) $(addsuffix .old,$(subst /,\,$@))
+	copy  $(subst /,\,$<)  $(subst /,\,$@)
 
 $(NUMBERS)\\%-numbers-linzid.csv : $(OUTPUTS)\%-numbers-linzid.csv
-	[ -f $(subst /,\,$@) ] && mv $(subst /,\,$@) $(addsuffix .old,$(subst /,\,$@))
-	cp  $(subst /,\,$<)  $(subst /,\,$@)
+	if exist $(subst /,\,$@)  move /Y $(subst /,\,$@) $(addsuffix .old,$(subst /,\,$@))
+	copy  $(subst /,\,$<)  $(subst /,\,$@)
 	
 $(OUTPUTS)\\%-numbers.gdb : database.date
 	ruby parseMP.rb $(call tilenum, $(notdir $*)) 5

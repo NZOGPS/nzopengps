@@ -2,7 +2,7 @@
 .SECONDARY:
 TILES = Northland Southland Tasman Waikato Central Wellington Canterbury Auckland
 
-BASE = C:\Gary\NZOGPS\nzopengps
+BASE = D:\nzopengps
 DLOAD = C:\docume~1\turner\mydocu~1\Downloads
 LINZ = $(BASE)\LinzDataService
 LINZO = $(LINZ)\outputslinz

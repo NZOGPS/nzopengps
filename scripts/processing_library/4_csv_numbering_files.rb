@@ -21,7 +21,7 @@ def pre_processing()
   app_config = YAML.load(raw_config)
   
   begin
-  @conn = PGconn.connect("localhost", 5432, "", "", "nzopengps", "postgres", app_config['postgres']['password'])
+  @conn = PGconn.connect(app_config['postgres']['host'], 5432, "", "", "nzopengps", "postgres", app_config['postgres']['password'])
   rescue
     if $! == 'Invalid argument' then
       retry #bollocks error

@@ -56,11 +56,11 @@ def pre_processing()
   load_config()
 
   top,right,bottom,left = @bounds
-  sql_query = "SELECT address, to_char(st_x(the_geom),'9999D999999'), to_char(st_y(the_geom),'9999D999999'), rna_id FROM \"nz-street-address-elector\" WHERE ST_Contains(ST_SetSRID(ST_MakeBox2D(ST_Point(#{left}, #{bottom}), ST_Point(#{right} ,#{top})),#{WORKING_SRID}), the_geom);"
+  sql_query = "SELECT address, to_char(st_x(the_geom),'9999D999999'), to_char(st_y(the_geom),'9999D999999'), rna_id, id FROM \"nz-street-address-elector\" WHERE ST_Contains(ST_SetSRID(ST_MakeBox2D(ST_Point(#{left}, #{bottom}), ST_Point(#{right} ,#{top})),#{WORKING_SRID}), the_geom);"
   require '..\linzdataservice\nzogps_library.rb'
   
   begin
-  @conn = PGconn.connect("localhost", 5432, "", "", "nzopengps", "postgres", @app_config['postgres']['password'])
+  @conn = PGconn.connect(@app_config['postgres']['host'], 5432, "", "", "nzopengps", "postgres", @app_config['postgres']['password'])
   rescue
     if $! == 'Invalid argument' then
       retry #bollocks error
@@ -98,10 +98,11 @@ def pre_processing()
       lon = row[1].strip
       lat = row[2].strip
       linzid = row[3]
+      pointid = row[4]
       f.print <<-eos
 <wpt lat="#{lat}" lon="#{lon}">
 <name>#{CGI::escapeHTML(address)}</name>
-<desc>#{linzid}</desc>
+<desc>#{linzid}-#{pointid}</desc>
 </wpt>
       eos
     }

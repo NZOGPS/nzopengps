@@ -62739,12 +62739,12 @@ EndLevel=1
 CityIdx=80
 RoadID=3182
 RouteParam=4,0,0,0,0,0,0,0,0,0,0,0
-Data0=(-35.57238,174.21524),(-35.57205,174.21568),(-35.57210,174.21606),(-35.57214,174.21635),(-35.57238,174.21635)
-Nod1=0,4568,1
-Nod2=3,2535,0
-Nod3=4,3536,1
-Numbers1=0,N,-1,-1,O,275,263
-Numbers2=3,N,-1,-1,N,-1,-1
+Data0=(-35.57238,174.21635),(-35.57214,174.21635),(-35.57210,174.21606),(-35.57205,174.21568),(-35.57238,174.21524)
+Nod1=0,3536,1
+Nod2=1,2535,0
+Nod3=4,4568,1
+Numbers1=0,N,-1,-1,N,-1,-1
+Numbers2=1,N,-1,-1,N,-1,-1
 [END]
 
 ;linzid=55825
@@ -68378,4 +68378,4 @@ Numbers3=15,N,-1,-1,O,543,537
 Numbers4=16,E,480,430,O,505,505
 [END]
 
-;@FILE,"D:\nzopengps\Numbers\Northland-numbers.gdb",1,".\Numbers\Northland-numbers.gdb"
+;@FILE,"C:\Gary\NZOGPS\nzopengps\Numbers\Northland-numbers.gdb",1,".\Numbers\Northland-numbers.gdb"

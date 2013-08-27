@@ -407,7 +407,7 @@ sub write_sql {
 		print SQLFILE "}',ST_GeomFromText('LINESTRING(";
 		# for geom
 		for ($i=0;$i<=$#x;$i++){
-			print SQLFILE "$x[$i] $y[$i]";
+			print SQLFILE "$y[$i] $x[$i]";
 			if ($i<$#x){
 				print SQLFILE ",";
 			}

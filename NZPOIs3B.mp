@@ -7166,53 +7166,58 @@ Data0=(-43.49218,172.56522)
 ;1025368
 [POI]
 Type=0x2a07
-Label=MCDONALD'S RESTAURANT - ANDERSONS BAY
-StreetDesc=Cnr Andersons Bay & MacAndrew Roads, Dud/ Family restaurant. Burgers, fast food,
+Label=MCDONALD'S ANDERSONS BAY 24HR
+StreetDesc=391 Andersons Bay Rd, Dud/ Family restaurant. Burgers, fast food, takeaways. McC
 Phone=+6434555515
+zip=24 hours
 Data0=(-45.89446,170.50444)
 [END]
 
 ;1025375
 [POI]
 Type=0x2a07
-Label=MCDONALD'S RESTAURANT - ASHBURTON
-StreetDesc=Cnr West & Moore Streets, Ashburton/ burgers, fast food, takeaways
+Label=MCDONALD'S ASHBURTON 24HR
+StreetDesc=Cnr West & Moore Streets, Ashburton/ Family restaurant. Burgers, fast food, take
 Phone=+6433076183
+zip=24 hours
 Data0=(-43.90506,171.74481)
 [END]
 
 ;1025396
 [POI]
 Type=0x2a07
-Label=MCDONALD'S RESTAURANT - BLENHEIM
-StreetDesc=Cnr Freswick & Main Streets, Blenheim/ burgers, fast food, takeaways
+Label=MCDONALD'S BLENHEIM 24HR
+StreetDesc=Cnr Freswick & Main Sts, Bleheim/ Family restaurant. Burgers, fast food, takeawa
 Phone=+6435778030
+zip=24 hours
 Data0=(-41.51370,173.96123)
 [END]
 
 ;1025445
 [POI]
 Type=0x2a07
-Label=MCDONALD'S RESTAURANT - DUNEDIN
-StreetDesc=232 George St, Dud/ Family restaurant. Burgers, fast food, takeaways. McCafe caf
+Label=MCDONALD'S DUNEDIN 24HR
+StreetDesc=232 George St, Dud/ Family restaurant. Burgers, fast food, takeaways. McCafé, pl
 Phone=+6434790576
+zip=24 hours
 Data0=(-45.87114,170.50548)
 [END]
 
 ;1025452
 [POI]
 Type=0x2a07
-Label=MCDONALD'S RESTAURANT - DUNEDIN NORTH
-StreetDesc=711 Great King St, Dud North/ Fast food restaurant, burgers, takeaways
+Label=MCDONALD'S DUNEDIN NORTH 24HR
+StreetDesc=711 Great King St, Dud/ Family restaurant. Burgers, fast food, takeaways. drive 
 Phone=+6434777774
+zip=24 hours
 Data0=(-45.85957,170.51369)
 [END]
 
 ;1025459
 [POI]
 Type=0x2a07
-Label=MCDONALD'S RESTAURANT - EASTGATE EXPRESS
-StreetDesc=Eastgate Mall, Linwood, Chc/ burgers, fast food, takeaways
+Label=MCDONALD'S EASTGATE EXPRESS
+StreetDesc=6 Buckleys Rd, Sydenham/ Family restaurant. Burgers, fast food, takeaways.
 Phone=+6433815405
 Data0=(-43.53298,172.67431)
 [END]
@@ -7220,8 +7225,8 @@ Data0=(-43.53298,172.67431)
 ;1025494
 [POI]
 Type=0x2a07
-Label=MCDONALD'S RESTAURANT - GREYMOUTH
-StreetDesc=Cnr Tainui & Chapel Streets, Greymouth/ burgers, fast food, takeaways
+Label=MCDONALD'S GREYMOUTH
+StreetDesc=Cnr Tainui & Chapel Sts, Greymouth/ Family restaurant. Burgers, fast food, takea
 Phone=+6437680780
 Data0=(-42.45036,171.21115)
 [END]
@@ -7229,45 +7234,50 @@ Data0=(-42.45036,171.21115)
 ;1025522
 [POI]
 Type=0x2a07
-Label=MCDONALD'S RESTAURANT - HILLMORTON
-StreetDesc=43-45 Lincoln Rd, Hillmorton, Chc/ burgers, fast food, takeaways
+Label=MCDONALD'S HILLMORTON 24HR
+StreetDesc=43 - 45 Lincoln Rd, Hillmorton/ Family restaurant. Burgers, fast food, takeaways
 Phone=+6433386360
+zip=24 hours
 Data0=(-43.55110,172.59880)
 [END]
 
 ;1025529
 [POI]
 Type=0x2a07
-Label=MCDONALD'S RESTAURANT - HORNBY
-StreetDesc=420 Main South Rd, Hornby, Chc/ burgers, fast food, takeaways
+Label=MCDONALD'S HORNBY 24HR
+StreetDesc=420 Main South Rd, Hornby, Chc/ Family restaurant. Burgers, fast food, takeaways
 Phone=+6433492999
+zip=24 hours
 Data0=(-43.54348,172.52204)
 [END]
 
 ;1025543
 [POI]
 Type=0x2a07
-Label=MCDONALD'S RESTAURANT - INVERCARGILL
+Label=MCDONALD'S INVERCARGILL 24HR
 StreetDesc=Cnr Dee St & Victoria Ave, Invercargill/ Family restaurant. Burgers, fast food, 
 Phone=+6432143020
+zip=24 hours
 Data0=(-46.40581,168.34641)
 [END]
 
 ;1025564
 [POI]
 Type=0x2a07
-Label=MCDONALD'S RESTAURANT - KAIAPOI
-StreetDesc=Cnr Williams & Hilton St, Kaiapoi/ burgers, fast food, takeaways
+Label=MCDONALD'S KAIAPOI 24HR
+StreetDesc=Cnr Williams And Hilton St/ Family restaurant. Burgers, fast food, takeaways. Mc
 Phone=+6433273969
+zip=24 hours
 Data0=(-43.38450,172.65654)
 [END]
 
 ;1025613
 [POI]
 Type=0x2a07
-Label=MCDONALD'S RESTAURANT - LINWOOD
-StreetDesc=Cnr Linwood Ave & Buckleys Rd, Linwood, Chc/ drive through, burgers, fast food, 
+Label=MCDONALD'S LINWOOD 24HR
+StreetDesc=Cnr Linwood Ave & Buckleys Rd, Linwood/ Family restaurant. Burgers, fast food, t
 Phone=+6433891099
+zip=24 hours
 Data0=(-43.53364,172.67363)
 [END]
 
@@ -7283,26 +7293,28 @@ Data0=(-43.53561,172.64248)
 ;1025669
 [POI]
 Type=0x2a07
-Label=MCDONALD'S RESTAURANT - MERIVALE
-StreetDesc=Papanui Rd, Merivale, Chc/ Family restaurant. Burgers, fast food, takeaways. McC
+Label=MCDONALD'S MERIVALE 24HR
+StreetDesc=Papanui Rd, Merivale/ Family restaurant. Burgers, fast food, takeaways. McCafé, 
 Phone=+6433557643
+zip=24 hours
 Data0=(-43.51133,172.62078)
 [END]
 
 ;1025683
 [POI]
 Type=0x2a07
-Label=MCDONALD'S RESTAURANT - NELSON
+Label=MCDONALD'S NELSON 24HR
 StreetDesc=111 Rutherford St, Nelson/ Family restaurant. Burgers, fast food, takeaways. McC
 Phone=+6435482888
+zip=24 hours
 Data0=(-41.27485,173.28108)
 [END]
 
 ;1025711
 [POI]
 Type=0x2a07
-Label=MCDONALD'S RESTAURANT - NORTHLANDS
-StreetDesc=Shop 13 Foodcourt, Northlands Shopping Ctr, Main North Rd, Chc/ burgers, fast fo
+Label=MCDONALD'S NORTHLANDS
+StreetDesc=Shop 13 Foodcourt Northlands Shopping Ctr, 55 Main North Rd, Chc/ Family restaur
 Phone=+6433528720
 Data0=(-43.49216,172.60766)
 [END]
@@ -7310,17 +7322,17 @@ Data0=(-43.49216,172.60766)
 ;1025718
 [POI]
 Type=0x2a07
-Label=MCDONALD'S RESTAURANT - OAMARU
-StreetDesc=210-212 Thames St, Oamaru/ burgers, fast food, takeaways
-Phone=+6434331148
+Label=MCDONALD'S OAMARU
+StreetDesc=210-212 Thames St, Oamaru/ Family restaurant. Burgers, fast food, takeaways. pla
+Phone=+6434333114
 Data0=(-45.09385,170.97254)
 [END]
 
 ;1025788
 [POI]
 Type=0x2a07
-Label=MCDONALD'S RESTAURANT - QUEENSTOWN
-StreetDesc=O'Connell's Pavilion, Camp St, Queenstown/ Family restaurant. Burgers, fast food
+Label=MCDONALD'S QUEENSTOWN FOOD COURT
+StreetDesc=O'Connell's Shopping Ctr, 23 Camp St, Queenstown/ Family restaurant. Burgers, fa
 Phone=+6434429796
 Data0=(-45.03159,168.66112)
 [END]
@@ -7328,17 +7340,18 @@ Data0=(-45.03159,168.66112)
 ;1025802
 [POI]
 Type=0x2a07
-Label=MCDONALD'S RESTAURANT - RICCARTON
-StreetDesc=Cnr Riccarton Rd & Matipo St, Riccarton, Chc/ burgers, fast food, takeaways
+Label=MCDONALD'S RICCARTON 24HR
+StreetDesc=Cnr Riccarton Rd & Matipo St, Riccarton/ Family restaurant. Burgers, fast food, 
 Phone=+6433430549
+zip=24 hours
 Data0=(-43.53041,172.59607)
 [END]
 
 ;1025809
 [POI]
 Type=0x2a07
-Label=MCDONALD'S RESTAURANT - RICCARTON FOODCOURT
-StreetDesc=Tenancy No. 57, Riccarton Shopping Ctr, Chc/ burgers, fast food, takeaways
+Label=MCDONALD'S RICCARTON FOODCOURT
+StreetDesc=Tenancy No. 57, Riccarton Shopping Ctr, Chc/ Family restaurant. Burgers, fast fo
 Phone=+6433431517
 Data0=(-43.53080,172.59880)
 [END]
@@ -7346,8 +7359,8 @@ Data0=(-43.53080,172.59880)
 ;1025816
 [POI]
 Type=0x2a07
-Label=MCDONALD'S RESTAURANT - RICHMOND
-StreetDesc=Richmond Mall, Foodcourt 3, Cnr Talbot & Groupher Streets, Richmond/ burgers, fa
+Label=MCDONALD'S RICHMOND
+StreetDesc=Cnr Talbot & Croucher St, Richmond Mall/ Family restaurant. Burgers, fast food, 
 Phone=+6435438230
 Data0=(-41.33856,173.18644)
 [END]
@@ -7355,8 +7368,8 @@ Data0=(-41.33856,173.18644)
 ;1025844
 [POI]
 Type=0x2a07
-Label=MCDONALD'S RESTAURANT - SOUTH CITY FOODCOURT
-StreetDesc=South City Shopping Ctr, Cnr Colmbo, Bath & Durham Streets, Sydenham, Chc/ burge
+Label=MCDONALD'S SOUTH CITY FOODCOURT
+StreetDesc=South City Shopping Ctr, 555 Colombo St/ Family restaurant. Burgers, fast food, 
 Phone=+6433746780
 Data0=(-43.53842,172.63506)
 [END]
@@ -7364,17 +7377,18 @@ Data0=(-43.53842,172.63506)
 ;1025858
 [POI]
 Type=0x2a07
-Label=MCDONALD'S RESTAURANT - SYDENHAM
-StreetDesc=326 Colombo St, Sydenham, Chc/ burgers, fast food, takeaways
+Label=MCDONALD'S SYDENHAM 24HR
+StreetDesc=326 Colombo St, Sydenham, Chc/ Family restaurant. Burgers, fast food, takeaways.
 Phone=+6433379217
+zip=24 hours
 Data0=(-43.54830,172.63687)
 [END]
 
 ;1025865
 [POI]
 Type=0x2a07
-Label=MCDONALD'S RESTAURANT - TAHUNANUI BEACH
-StreetDesc=32 Tahunanui Dr, Tahunanui, Nelson/ burgers, fast food, takeaways
+Label=MCDONALD'S TAHUNANUI
+StreetDesc=32 Tahunanui Dr, Nelson/ Family restaurant. Burgers, fast food, takeaways. drive
 Phone=+6435464740
 Data0=(-41.28288,173.24856)
 [END]
@@ -7382,8 +7396,8 @@ Data0=(-41.28288,173.24856)
 ;1025921
 [POI]
 Type=0x2a07
-Label=MCDONALD'S RESTAURANT - THE PALMS
-StreetDesc=Shop 17 (Foodcourt), Cnr Marshlands & New Brighton Rd, Shirley, Chc/ burgers, fa
+Label=MCDONALD'S THE PALMS
+StreetDesc=Cnr Marshlands & New Brighton Rd, Shirley/ Family restaurant. Burgers, fast food
 Phone=+6433850383
 Data0=(-43.50690,172.66475)
 [END]
@@ -7391,9 +7405,10 @@ Data0=(-43.50690,172.66475)
 ;1025928
 [POI]
 Type=0x2a07
-Label=MCDONALD'S RESTAURANT - TIMARU
-StreetDesc=93-97 Evans St, Ashbury Park, Timaru/ burgers, fast food, takeaways
+Label=MCDONALD'S TIMARU 24HR
+StreetDesc=93-97 Evans St, Ashbury Park, Timaru/ Family restaurant. Burgers, fast food, tak
 Phone=+6436846595
+zip=24 hours
 Data0=(-44.38256,171.23847)
 [END]
 
@@ -10432,10 +10447,10 @@ Data0=(-45.48543,170.71459)
 [POI]
 Type=0x2f01
 Label=CALTEX HANMER SPRINGS SERVICE STATION
-StreetDesc=Main Rd, Hanmer Springs/ Caltex petrol station
+StreetDesc=154 Hanmer Springs Rd Hanmer Springs 8273/ Caltex petrol station
 Phone=+6433157107
 zip=Mon-Sun 7:30am - 6:00pm
-Data0=(-42.53695,172.81785)
+Data0=(-42.53690,172.81804)
 [END]
 
 ;1036029
@@ -34164,25 +34179,6 @@ Phone=+6436849373
 Data0=(-44.39611,171.25315)
 [END]
 
-;1096815
-[POI]
-Type=0x2e07
-Label=SUSSAN RICCARTON
-StreetDesc=Shops 68/69, Riccarton Mall, 129 Riccarton Rd, Riccarton, Chc/ Women's fashion
-Phone=+6433433787
-zip=Mo-We,Sa 9-6, Th-Fr 9-9, Su 10-6
-Data0=(-43.53090,172.59827)
-[END]
-
-;1096816
-[POI]
-Type=0x2e07
-Label=SUSSAN DUNEDIN
-StreetDesc=Shop G15, Meridian Mall, Cnr George & Hanover Sts, Dud/ Women's fashion
-Phone=+6434745410
-Data0=(-45.86992,170.50515)
-[END]
-
 ;1097125
 [POI]
 Type=0x3003
@@ -40095,9 +40091,9 @@ Data0=(-43.53729,172.62507)
 
 ;1101720
 [POI]
-Type=0x2f
+Type=0x2f03
 Label=AUTO TUNING & ELECTRICAL
-StreetDesc=58 King Edward St, Dud/ 
+StreetDesc=58 King Edward St, Dud/ Auto electrical
 Phone=+6434554939
 zip=Mon-Fri 0830-1700
 Data0=(-45.89151,170.49711)
@@ -40469,9 +40465,9 @@ Data0=(-46.41303,168.36519)
 
 ;1101934
 [POI]
-Type=0x2f
+Type=0x2f03
 Label=BARCLAY AUTO ELECTRICAL
-StreetDesc=90 Clyde St, Balclutha/ 
+StreetDesc=90 Clyde St, Balclutha/ Auto electrical
 Phone=+6434182111
 Data0=(-46.23914,169.73587)
 [END]
@@ -40515,9 +40511,9 @@ Data0=(-41.54100,173.82916)
 
 ;1101954
 [POI]
-Type=0x2f
+Type=0x2f03
 Label=BARRETT AUTO ELECTRICAL LTD
-StreetDesc=2 Charlotte St, Balclutha, Dud/ 
+StreetDesc=2 Charlotte St, Balclutha, Dud/ Auto electrical
 Phone=+6434181151
 Data0=(-46.23600,169.74052)
 [END]
@@ -41855,9 +41851,9 @@ Data0=(-43.21734,172.66159)
 
 ;1102794
 [POI]
-Type=0x2f
+Type=0x2f03
 Label=CANTERBURY AUTO ELECTRIC SERVICE LTD
-StreetDesc=159-161 Waterloo Rd, Hornby, Chc/ 
+StreetDesc=159-161 Waterloo Rd, Hornby, Chc/ Auto electrical
 Phone=+6433669600
 zip=Mon-Fri 0800-1700
 Data0=(-43.53865,172.52955)
@@ -45323,10 +45319,11 @@ Data0=(-43.55282,172.51890)
 ;1104731
 [POI]
 Type=0x2f
-Label=E B MCDONALD LTD
-StreetDesc=16 Wilkie Rd, South Dud, Dud/ 
-Phone=+6434552808
-Data0=(-45.89257,170.49605)
+Label=EB ENGINEERING SOLUTIONS
+StreetDesc=16 Wilkie Rd, Kensington, Dud 9012/ An engineering company that specialises in b
+Phone=+6434714770
+zip=Monday to Friday 7:00am to 5:30pm
+Data0=(-45.89247,170.49623)
 [END]
 
 ;1104734
@@ -50811,7 +50808,7 @@ Data0=(-43.53730,172.60534)
 
 ;1108067
 [POI]
-Type=0x2f
+Type=0x2f03
 Label=KEITH JACKSON AUTO ELECTRICAL
 StreetDesc=23A Gladstone Rd South, Mosgiel, Dud/ Auto Electrician
 Phone=+6434895873
@@ -56071,9 +56068,9 @@ Data0=(-44.18581,171.27441)
 
 ;1111191
 [POI]
-Type=0x2f
+Type=0x2f03
 Label=PAGEL AUTO ELECTRICAL
-StreetDesc=14 Elizabeth St, Balclutha, Dud/ 
+StreetDesc=14 Elizabeth St, Balclutha, Dud/ Auto electrical
 Phone=+6434183525
 Data0=(-46.23715,169.73922)
 [END]
@@ -85223,9 +85220,10 @@ Data0=(-43.53296,172.67512)
 ;1122697
 [POI]
 Type=0x2e
-Label=THE FLOWERSHOP - THE PALMS
-StreetDesc=cnr Marshlands & New Brighton Roads/ christchurch fresh flowers, christchurch fl
-Phone=+6433862816
+Label=THE FLOWERSHOP - THE PALMS FLORIST
+StreetDesc=The Palms Shopping Ctr, cnr Marshlands & New Brighton Roads, Shirley, Chc/ Flori
+Phone=+6433858800
+zip=9am to 6pm
 Data0=(-43.50709,172.66420)
 [END]
 
@@ -120789,9 +120787,9 @@ Data0=(-45.17591,170.15376)
 ;1141262
 [POI]
 Type=0x2a07
-Label=MCDONALD'S RESTAURANT - MOTUEKA
-StreetDesc=Cnr Whakarewa St & High St, Motueka/ Family restaurant. Burgers, fast food, take
-Phone=+6435390164
+Label=MCDONALD'S MOTUEKA
+StreetDesc=296 High St, Motueka/ Family restaurant. Burgers, fast food, takeaways. McCafé, 
+Phone=+6435482830
 Data0=(-41.11535,173.01050)
 [END]
 
@@ -131435,8 +131433,10 @@ Data0=(-43.54871,172.56775)
 ;1146817
 [POI]
 Type=0x2f
-Label=IDENTAFI
-StreetDesc=110 Hereford St, Chc/ Hairdresser
+Label=IDENTAFI MOBILE HAIRDRESSER
+StreetDesc=20 Farnborough St, Chc/ Mobile Hairdresser
+Phone=+6433799567
+zip=Always Open
 Data0=(-43.53218,172.63563)
 [END]
 
@@ -160946,9 +160946,10 @@ Data0=(-43.53032,172.58784)
 ;1164656
 [POI]
 Type=0x2a07
-Label=MCDONALD'S RESTAURANT - MOORHOUSE
-StreetDesc=14 Washington Way, Chc/ burgers, fast food, takeaways
+Label=MCDONALD'S MOORHOUSE AVE 24HR
+StreetDesc=14 Washington Way, Sydenham/ Family restaurant. Burgers, fast food, takeaways. M
 Phone=+6433655721
+zip=24 hours
 Data0=(-43.54042,172.64319)
 [END]
 
@@ -172803,7 +172804,7 @@ Data0=(-43.53532,172.65653)
 
 ;1170855
 [POI]
-Type=0x2f
+Type=0x2f03
 Label=NEWLAND'S AUTO ELECTRICAL
 StreetDesc=80 Kermode St, Ashburton/ Auto Electrics, Electric power tools, trade tools, Pow
 Phone=+33087234
@@ -178311,7 +178312,7 @@ Data0=(-41.34990,173.09595)
 Type=0x2c04
 Label=?FORMER PROVINCIAL BUILDINGS FIRE ENGINE HOUSE
 StreetDesc=Hardy St, Nelson/ Historic Place: Category 1
-Data0=(-41.27437,173.28620)
+Data0=(-41.27438,173.28924)
 [END]
 
 ;1172823
@@ -178341,9 +178342,9 @@ Data0=(-44.09062,171.68655)
 ;1172826
 [POI]
 Type=0x2c04
-Label=?GLENMARK STATION STABLES
+Label=GLENMARK STATION STABLES
 StreetDesc=Glenmark Dr, Waipara/ Historic Place: Category 1
-Data0=(-43.02583,172.77815)
+Data0=(-43.02597,172.77852)
 [END]
 
 ;1172827
@@ -178405,9 +178406,9 @@ Data0=(-43.53322,172.64300)
 ;1172837
 [POI]
 Type=0x2c04
-Label=?ST HELEN'S STATION HOMESTEAD
+Label=ST HELEN'S STATION HOMESTEAD
 StreetDesc=Chatterton Rd, Hanmer Springs/ Historic Place: Category 1
-Data0=(-42.50510,172.81682)
+Data0=(-42.55457,172.80678)
 [END]
 
 ;1172838
@@ -179660,9 +179661,9 @@ Data0=(-45.31235,170.55510)
 ;1173173
 [POI]
 Type=0x2c04
-Label=?SURVEY TEST MARKS
+Label=SURVEY TEST MARKS
 StreetDesc=200-204 Bridge St; 319 Hardy St, Albion Sq, Nelson/ Historic Place: Category 1
-Data0=(-41.27282,173.28925)
+Data0=(-41.27279,173.28955)
 [END]
 
 ;1173174
@@ -179994,11 +179995,11 @@ Data0=(-43.53076,172.58702)
 
 ;1173236
 [POI]
-Type=0x2c04
-Label=PIONEER POOL & BUILDING CHRISTCHURCH
-StreetDesc=230 Riccarton Rd Chc/ Pools, Spa pools, pool construction
+Type=0x2f
+Label=?PIONEER POOL AND BUILDING LTD
+StreetDesc=28 Stevens St, Waltham Chc 8011/ For a beautiful swimming pool, custom designed 
 Phone=+6433484592
-Data0=(-43.53076,172.58706)
+Data0=(-43.54096,172.65242)
 [END]
 
 ;1173240
@@ -185372,8 +185373,9 @@ Data0=(-45.01961,168.66284)
 [POI]
 Type=0x2e
 Label=RICCARTON FLORIST
-StreetDesc=237 Durham St, Chc/ Florist, flowers
+StreetDesc=237 Brougham St, Chc/ Florist, flowers Christchurch florists
 Phone=+6433487933
+zip=9am to 6pm
 Data0=(-43.53567,172.63347)
 [END]
 
@@ -189366,10 +189368,10 @@ Data0=(-44.39390,171.25031)
 ;1178260
 [POI]
 Type=0x2a07
-Label=MCDONALD'S RESTAURANT - RANGIORA 24HR
-StreetDesc=366 Flaxton Rd/ burgers, fast food, takeaways
+Label=MCDONALD'S RANGIORA 24HR
+StreetDesc=366 Flaxton Rd, Rangiora/ Family restaurant. Burgers, fast food, takeaways. McCa
 Phone=+6433106510
-zip=24/7 Drive-Thru
+zip=24 hours
 Data0=(-43.32677,172.59981)
 [END]
 
@@ -192588,30 +192590,30 @@ Data0=(-45.07176,169.19183)
 ;1180107
 [POI]
 Type=0x2a07
-Label=MCDONALD'S RESTAURANT - RICHMOND FREESTANDER 24HR
+Label=MCDONALD'S RICHMOND FREESTANDER 24HR
 StreetDesc=321 Gladstone Rd, Richmond, Nelson/ Family restaurant. Burgers, fast food, takea
 Phone=+6435437018
-zip=24 Hours
+zip=24 hours
 Data0=(-41.33639,173.18106)
 [END]
 
 ;1180108
 [POI]
 Type=0x2a07
-Label=MCDONALD'S RESTAURANT - QUEENSTOWN, FRANKTON 24HR
-StreetDesc=1055-1063 Frankton Rd, Frankton, Queenstown/ Family restaurant. Burgers, fast fo
+Label=MCDONALD'S QUEENSTOWN, FRANKTON 24HR
+StreetDesc=1063 Frankton Rd, Frankton/ Family restaurant. Burgers, fast food, takeaways. Mc
 Phone=+6434414257
-zip=24 Hours
+zip=24 hours
 Data0=(-45.01613,168.72917)
 [END]
 
 ;1180109
 [POI]
 Type=0x2a07
-Label=MCDONALD'S RESTAURANT - GORE 24HR
-StreetDesc=140 Main St, Gore/ Family restaurant. Burgers, fast food, takeaways. McCafe cafe
+Label=MCDONALD'S GORE 24HR
+StreetDesc=140 Main St, Gore/ Family restaurant. Burgers, fast food, takeaways. McCafé, pla
 Phone=+6432039120
-zip=24 Hours
+zip=24 hours
 Data0=(-46.10260,168.94286)
 [END]
 
@@ -199518,7 +199520,7 @@ Data0=(-43.48948,172.56254)
 
 ;1190003
 [POI]
-Type=0x2f
+Type=0x2f03
 Label=NORTHWEST AUTO ELECTRICAL
 StreetDesc=24B Sheffield Cres, Burnside, Chc 8053/ Automotive electrics, Commercial and Mar
 Phone=+6433583819
@@ -203640,7 +203642,7 @@ Data0=(-41.50888,173.94094)
 [POI]
 Type=0x2b01
 Label=MILANO MOTOR LODGE
-StreetDesc=87 Papanui Rd, Merivale, Chc, 8024/ Motel accommodation, "host accommodation"
+StreetDesc=87 Papanui Rd, Merivale, Chc, 8024/ Quiet, comfortable, affordable motels in cen
 Phone=+6433552800
 Data0=(-43.51696,172.62498)
 [END]
@@ -207156,7 +207158,7 @@ Data0=(-43.53653,172.63851)
 ;1196370
 [POI]
 Type=0x2e
-Label=THIRSTY LIQUOR ANDY BAY
+Label=THIRSTY LIQUOR DUNEDIN
 StreetDesc=272 Andersons Bay Rd, South Dud/ Liquor, beer, wine, spirits
 Phone=+6434554240
 Data0=(-45.88975,170.50183)
@@ -207229,7 +207231,7 @@ Data0=(-43.30483,172.58363)
 ;1196434
 [POI]
 Type=0x2e
-Label=THIRSTY LIQUOR LINWOOOD
+Label=THIRSTY LIQUOR LINWOOD
 StreetDesc=21b Aldwins Rd, Phillipstown, Linwoood/ Liquor, beer, wine, spirits
 Phone=+6439821753
 Data0=(-43.54152,172.66622)
@@ -208375,7 +208377,7 @@ Data0=(-43.51822,172.61698)
 [POI]
 Type=0x2e07
 Label=LEEDSAFE LIMITED
-StreetDesc=443 St Asaph St Chc 8011 New Zealand/ Leedsafe is a supplier of extensive range 
+StreetDesc=443 St Asaph St Chc 8011 New Zealand/ Leedsafe supplies high quality workwear an
 Phone=+6433792055
 Data0=(-43.53610,172.65349)
 [END]
@@ -209120,5 +209122,62 @@ Label=SAB ACCOUNTANTS
 StreetDesc=225 high St, Chc/ SAB Accountants Christchurch
 zip=09:00 am to 05:00 pm
 Data0=(-43.53384,172.63894)
+[END]
+
+;1204113
+[POI]
+Type=0x2a07
+Label=MCDONALD'S CHRISTCHURCH AIRPORT 24HR
+StreetDesc=512 Memorial Ave, Chc Airport, Chc/ Family restaurant. Burgers, fast food, takea
+Phone=+6433583595
+zip=24 hours
+Data0=(-43.49156,172.54841)
+[END]
+
+;1204122
+[POI]
+Type=0x2a
+Label=THE LAST POST CAFE
+StreetDesc=Main St, Methven/ Restaurant and Cafe
+Phone=+6433028259
+Data0=(-43.63426,171.64698)
+[END]
+
+;1204315
+[POI]
+Type=0x2e07
+Label=SUZANNE GRAE THE PALMS
+StreetDesc=Shop 47, The Palms Shopping Ctr, Cnr Marshlands & New Brighton Rds, Shirley, Chc
+Phone=+6439432006
+Data0=(-43.50680,172.66386)
+[END]
+
+;1204323
+[POI]
+Type=0x2e
+Label=THIRSTY LIQUOR BRIDGEND
+StreetDesc=1275 Main North Rd, Woodend/ Liquor, beer, wine, spirits
+Phone=+6433238833
+Data0=(-43.30640,172.67790)
+[END]
+
+;1204326
+[POI]
+Type=0x2f
+Label=FAIR DEAL ROOF INSPECTIONS LTD
+StreetDesc=28 Nicholls St, Richmond, Chc 8013/ Over 35 years in the building and roofing in
+Phone=+6433890476
+zip=8.30 - 4.30 weekdays (weekends on reques
+Data0=(-43.51629,172.65495)
+[END]
+
+;1204338
+[POI]
+Type=0x2e02
+Label=?PAK 'N SAVE BLENHEIM
+StreetDesc=1 Westwood Ave, Springlands, Blenheim/ supermarket, Lotto
+Phone=+6435208275
+zip=7am - 10pm, 7 days a week
+Data0=(-41.50852,173.92417)
 [END]
 

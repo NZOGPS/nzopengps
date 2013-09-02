@@ -14,6 +14,6 @@ ALTER TABLE "Canterbury" ADD COLUMN nztm_line geometry(LineString,2193);
 ALTER TABLE "Canterbury" ADD COLUMN nztm_left_poly geometry(polygon,2193);
 ALTER TABLE "Canterbury" ADD COLUMN nztm_right_poly geometry(polygon,2193);
 update "Canterbury" set nztm_line = st_transform(the_geom,2193);
-update "Canterbury" set nztm_right_poly = st_makepolygon(st_addpoint(st_makeline(nztm_line,st_offsetcurve(nztm_line,-100)),st_startpoint(nztm_line))) where ST_NumGeometries(st_offsetcurve(nztm_line,-100))=1;
-update "Canterbury" set nztm_left_poly = st_makepolygon(st_addpoint(st_makeline(nztm_line,st_reverse(st_offsetcurve(nztm_line,100))),st_startpoint(nztm_line))) where ST_NumGeometries(st_offsetcurve(nztm_line,-100))=1;
+update "Canterbury" set nztm_right_poly = st_makepolygon(st_addpoint(st_makeline(nztm_line,st_offsetcurve(nztm_line,-100)),st_startpoint(nztm_line))) where to_number(linzid,'999999')>0 and ST_NumGeometries(st_offsetcurve(nztm_line,-100))=1;
+update "Canterbury" set nztm_left_poly = st_makepolygon(st_addpoint(st_makeline(nztm_line,st_reverse(st_offsetcurve(nztm_line,100))),st_startpoint(nztm_line))) where to_number(linzid,'999999')>0 and ST_NumGeometries(st_offsetcurve(nztm_line,100))=1;
 

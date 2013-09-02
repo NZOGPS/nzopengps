@@ -371,6 +371,7 @@ sub write_sql {
 	my $i;
 	my $rdname;
 	my $j;
+	my $first = 1;
 	open(SQLFILE, '>', "${basefile}.sql") or die "can't create sql file\n";
 	print SQLFILE "DROP TABLE \"${basefile}\";\n";
 #	print SQLFILE "BEGIN;\n";
@@ -381,15 +382,22 @@ sub write_sql {
 	print SQLFILE "\"numbers\" varchar(6)[][]);\n";
 	print SQLFILE "SELECT AddGeometryColumn('','${basefile}','the_geom','4167','LINESTRING',2);\n";
 	for $road (@roads){
-		next if $$road[1] eq "0x14";
+#		next if ( $$road[1] eq "0x14" or  $$road[1] eq "0x1c" or $$road[1] eq "0x18" or $$road[1] eq "0x1f");
+		next if $$road[5] eq "";
 		@x = @{$$road[9]};
 		@y = @{$$road[10]};
 		@nums = @{$$road[11]};
 		$rdname = $$road[2][0];
 		$rdname =~ s/\'/\'\'/g;
-		print SQLFILE "INSERT INTO \"${basefile}\" ";
-		print SQLFILE "(\"roadid\",\"label\",\"type\",\"linzid\",\"numbers\",the_geom)";
-		print SQLFILE " VALUES ('$$road[5]','$rdname','$$road[1]','$$road[18][0]','{";
+		if ($first) {
+			print SQLFILE "INSERT INTO \"${basefile}\" ";
+			print SQLFILE "(\"roadid\",\"label\",\"type\",\"linzid\",\"numbers\",the_geom)";
+			print SQLFILE " VALUES \n ";
+			$first = 0;
+		} else {
+			print SQLFILE ",";
+		}
+		print SQLFILE "('$$road[5]','$rdname','$$road[1]','$$road[18][0]','{";
 		# for nodes
 		for ($i=0;$i<=$#nums;$i++){
 			print SQLFILE "{";
@@ -412,9 +420,9 @@ sub write_sql {
 				print SQLFILE ",";
 			}
 		}
-		print SQLFILE ")',4167));\n";
+		print SQLFILE ")',4167))\n";
 	}	
-	print SQLFILE "COMMIT;\n";
+	print SQLFILE ";\n";
 }	
 ##### Main program starts...
 

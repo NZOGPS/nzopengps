@@ -92525,7 +92525,7 @@ Data0=(-43.30118,172.59549)
 [POI]
 Type=0x2e08
 Label=RENTON HAMMER HARDWARE
-StreetDesc=21 Hmtn St, Hokitika/ DIY Hardware
+StreetDesc=21 Hamil-ton St, Hokitika/ DIY Hardware
 Phone=+6437558520
 Data0=(-42.71883,170.96187)
 [END]
@@ -104749,10 +104749,10 @@ Data0=(-41.26286,173.27045)
 [POI]
 Type=0x2f
 Label=G.J. GARDNER HOMES NELSON
-StreetDesc=199 Queen St, Richmond/ Builders
-Phone=+6435444520
-zip=Mon-Fri 0800-1700, Sat 1000-1300
-Data0=(-41.34084,173.18604)
+StreetDesc=195 Queen St, Richmond/ Builders
+Phone=+6435439502
+zip=Mon-Fri 9-5pm, Showhomes 11-4pm Monday -
+Data0=(-41.34099,173.18642)
 [END]
 
 ;1133572
@@ -130050,16 +130050,6 @@ StreetDesc=297 Ferry Rd, Chc/ Funeral director
 Data0=(-43.54027,172.66141)
 [END]
 
-;1146627
-[POI]
-Type=0x2f
-Label=BENSONS HAIR & BEAUTY SALON
-StreetDesc=Store 21, Riccarton Mall, 145 Riccarton Rd, Chc/ Hairdresser
-Phone=+33482764
-zip=Mon-Wed 9am-6pm, Thu-Fri 9am-9pm, Sat 9a
-Data0=(-43.53078,172.59697)
-[END]
-
 ;1146628
 [POI]
 Type=0x2f
@@ -131834,8 +131824,10 @@ Data0=(-43.55820,172.70404)
 [POI]
 Type=0x2f
 Label=LITTLE BRITAIN
-StreetDesc=113 Riccarton Rd, Chc/ 
-Data0=(-43.52991,172.59967)
+StreetDesc=385 Riccarton Rd, Upper Riccarton, Chc/ For all the UK food you've been missing.
+Phone=+6433431959
+zip=Mon-Fri 9am-5pm, Sat 10am-5pm, Sun 10am-
+Data0=(-43.53231,172.57339)
 [END]
 
 ;1146874
@@ -139963,10 +139955,10 @@ Data0=(-43.63260,171.64747)
 ;1151758
 [POI]
 Type=0x2d02
-Label=?BUCK'S HEAD TAVERN
+Label=BUCKS HEAD TAVERN
 StreetDesc=18 Taylor St, Taylorville/ Bar, restaurant
 Phone=+6437625890
-Data0=(-42.44207,171.31518)
+Data0=(-42.44237,171.31553)
 [END]
 
 ;1151761
@@ -164528,9 +164520,11 @@ Data0=(-41.31507,173.24508)
 ;1166468
 [POI]
 Type=0x2f
-Label=DR C M BURKE CHIROPRACTIC
-StreetDesc=293 Hill St, Richmond, Nelson/ Chiropractor
-Data0=(-41.35120,173.19079)
+Label=CHIROPRACTIC ELECTRONICS
+StreetDesc=69 Washbourn Dr, Richmond, Nelson/ Dr C M Burke. Chiropractor
+Phone=+6435446735
+zip=Monday, Wednesday, Friday 9am-12:30pm & 
+Data0=(-41.34981,173.18661)
 [END]
 
 ;1166469
@@ -171432,14 +171426,6 @@ Type=0x2f
 Label=TRAVIS MEDICAL CENTRE
 StreetDesc=225 Travis Rd, New Brighton, Chc/ 
 Data0=(-43.49493,172.70960)
-[END]
-
-;1170056
-[POI]
-Type=0x2f
-Label=TRICK CHIROPRACTIC HEALTH AND WELLNESS LTD
-StreetDesc=56 Wensley Rd, Richmond, Nelson/ Chiropractor
-Data0=(-41.34689,173.18077)
 [END]
 
 ;1170059
@@ -206656,16 +206642,6 @@ Phone=+6433852413
 Data0=(-43.48574,172.65223)
 [END]
 
-;1195961
-[POI]
-Type=0x2e0b
-Label=DRAGON PC
-StreetDesc=376 Riccarton Rd, Chc/ 
-Phone=+6433411888
-zip=Mon-Fri 9:30am-6pm, Sat-Sun 11am-3pm
-Data0=(-43.53169,172.57339)
-[END]
-
 ;1195962
 [POI]
 Type=0x2f
@@ -209179,5 +209155,25 @@ StreetDesc=1 Westwood Ave, Springlands, Blenheim/ supermarket, Lotto
 Phone=+6435208275
 zip=7am - 10pm, 7 days a week
 Data0=(-41.50852,173.92417)
+[END]
+
+;1204355
+[POI]
+Type=0x2f
+Label=CUSTOM SOFT
+StreetDesc=225 high St, Chc/ Custom Soft Software and Web Development Solutions.
+Phone=+6432889018
+zip=09:00 am to 05:00 pm
+Data0=(-43.53384,172.63894)
+[END]
+
+;1204374
+[POI]
+Type=0x2f
+Label=ECOTECH SERVICES
+StreetDesc=107 Warrington St, Mairehau, Chc/ electronics repairs, e-waste management, techn
+Phone=+6433853830
+zip=by appointment
+Data0=(-43.50785,172.64924)
 [END]
 

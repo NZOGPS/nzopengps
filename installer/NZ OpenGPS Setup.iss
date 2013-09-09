@@ -49,7 +49,7 @@ Name: {group}\NZ Open GPS Project Forum; Filename: http://gwprojects.org/forum/
 ;BMAPfile: String;
 ;ProductCode: String
 
-Source: tmp/64000012.img; DestDir: {app}; Flags: promptifolder; Check: CreateRegistry(ExpandConstant('{app}\Free Open GPS NZ Autorouting.MDX'),ExpandConstant('{app}\FREE OPEN GPS NZ AUTOROUTING_MDR.IMG'), ExpandConstant('{app}'), ExpandConstant('{app}\Free Open GPS NZ Autorouting.TDB'), ExpandConstant('{app}\Free Open GPS NZ Autorouting.img'), '1')
+Source: tmp/64000012.img; DestDir: {app}; Flags: promptifolder; Check: CreateRegistry(ExpandConstant('{app}\OS_type.typ'), {app}\Free Open GPS NZ Autorouting.MDX'),ExpandConstant('{app}\FREE OPEN GPS NZ AUTOROUTING_MDR.IMG'), ExpandConstant('{app}'), ExpandConstant('{app}\Free Open GPS NZ Autorouting.TDB'), ExpandConstant('{app}\Free Open GPS NZ Autorouting.img'), '1')
 Source: tmp/64000013.img; DestDir: {app}; Flags: promptifolder
 Source: tmp/64000014.img; DestDir: {app}; Flags: promptifolder
 Source: tmp/64000015.img; DestDir: {app}; Flags: promptifolder
@@ -65,7 +65,8 @@ Source: tmp/Free Open GPS NZ Autorouting.TDB; DestDir: {app}; Flags: promptifold
 Source: tmp/FREE OPEN GPS NZ AUTOROUTING_MDR.IMG; DestDir: {app}; Flags: promptifolder
 Source: installer_readme.txt; DestDir: {app}; Flags: promptifolder
 Source: installer-license.txt; DestDir: {app}; Flags: promptifolder
-
+Source: tmp/TYPNUL00.typ; DestDir: "{app}"; Flags: promptifolder; DestName: OS_type.typ; Check: S0
+Source: tmp/TYPOPT01.typ; DestDir: "{app}"; Flags: promptifolder; DestName: OS_typ.typ; Check: S1
 
 
 [Code]
@@ -79,6 +80,26 @@ var
 const
   FID = 963;
 
+function S0(): Boolean;
+begin
+  preresult := false;
+  if Page.Values[0] then
+  begin
+    preresult := true;
+  end;
+  Result := preresult;
+end;
+
+function S1(): Boolean;
+begin
+  preresult := false;
+  if not Page.Values[0] then
+  begin
+    preresult := true;
+  end;
+  Result := preresult;
+end;
+
 function MapsourceCheck(): Boolean;
 begin
   MyProgCheckResult := False;
@@ -89,7 +110,7 @@ begin
   Result := MyProgCheckResult;
 end;
 
-function CreateRegistry(MDXfile: String; MDRfile: String; LOCfile: String; TDBfile: String; BMAPfile: String; ProductCode: String): Boolean;
+function CreateRegistry(TYPfile: String; MDXfile: String; MDRfile: String; LOCfile: String; TDBfile: String; BMAPfile: String; ProductCode: String): Boolean;
 var
   TmpFID: String;
   TF: Byte;
@@ -102,7 +123,7 @@ begin
     TmpFID[1] := Chr(TF);
     TF := (FID / 256);
     TmpFID[2] := Chr(TF);
-
+    RegWriteStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free Open GPS NZ Autorouting' ,'TYP', TYPfile );
     RegWriteBinaryValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free Open GPS NZ Autorouting' ,'ID',TmpFID );
     RegWriteStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free Open GPS NZ Autorouting' ,'IDX', MDXfile);
     RegWriteStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free Open GPS NZ Autorouting' ,'MDR', MDRfile);
@@ -192,3 +213,11 @@ begin
     end;
     Result := nocloseit;
 end;
+
+procedure InitializeWizard();
+begin
+  Page := CreateInputOptionPage(wpWelcome, 'Display options', 'What option would you prefer?', 'Please select your display option, then click Next.', False, False);
+  Page.Add('Use the bundled typ file - Leave this selected if you want the enhanced OS type file installed - uncheck if you would prefer the default garmin skin.');
+  Page.Values[0] := true;
+end;
+

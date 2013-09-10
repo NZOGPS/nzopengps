@@ -49,7 +49,7 @@ Name: {group}\NZ Open GPS Project Forum; Filename: http://gwprojects.org/forum/
 ;BMAPfile: String;
 ;ProductCode: String
 
-Source: tmp/64000012.img; DestDir: {app}; Flags: promptifolder; Check: CreateRegistry(ExpandConstant('{app}\OS_type.typ'), {app}\Free Open GPS NZ Autorouting.MDX'),ExpandConstant('{app}\FREE OPEN GPS NZ AUTOROUTING_MDR.IMG'), ExpandConstant('{app}'), ExpandConstant('{app}\Free Open GPS NZ Autorouting.TDB'), ExpandConstant('{app}\Free Open GPS NZ Autorouting.img'), '1')
+Source: tmp/64000012.img; DestDir: {app}; Flags: promptifolder; Check: CreateRegistry(ExpandConstant('{app}\OS_type.typ'), ExpandConstant('{app}\Free Open GPS NZ Autorouting.MDX'),ExpandConstant('{app}\FREE OPEN GPS NZ AUTOROUTING_MDR.IMG'), ExpandConstant('{app}'), ExpandConstant('{app}\Free Open GPS NZ Autorouting.TDB'), ExpandConstant('{app}\Free Open GPS NZ Autorouting.img'), '1')
 Source: tmp/64000013.img; DestDir: {app}; Flags: promptifolder
 Source: tmp/64000014.img; DestDir: {app}; Flags: promptifolder
 Source: tmp/64000015.img; DestDir: {app}; Flags: promptifolder
@@ -65,8 +65,8 @@ Source: tmp/Free Open GPS NZ Autorouting.TDB; DestDir: {app}; Flags: promptifold
 Source: tmp/FREE OPEN GPS NZ AUTOROUTING_MDR.IMG; DestDir: {app}; Flags: promptifolder
 Source: installer_readme.txt; DestDir: {app}; Flags: promptifolder
 Source: installer-license.txt; DestDir: {app}; Flags: promptifolder
-Source: tmp/TYPNUL00.typ; DestDir: "{app}"; Flags: promptifolder; DestName: OS_type.typ; Check: S0
-Source: tmp/TYPOPT01.typ; DestDir: "{app}"; Flags: promptifolder; DestName: OS_typ.typ; Check: S1
+Source: TYPNUL00.typ; DestDir: "{app}"; Flags: promptifolder; DestName: OS_type.typ; Check: S0
+Source: TYPOPT01.typ; DestDir: "{app}"; Flags: promptifolder; DestName: OS_type.typ; Check: S1
 
 
 [Code]
@@ -75,6 +75,7 @@ var
   MapSourceDir: String;
   MapSourceReg: String;
   RegistryCreated: Boolean;
+  preresult: Boolean;
 
 // BE SURE to change BELOW FID to be consistent with your FID
 const

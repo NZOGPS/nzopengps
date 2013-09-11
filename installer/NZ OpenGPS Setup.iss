@@ -65,8 +65,8 @@ Source: tmp/Free Open GPS NZ Autorouting.TDB; DestDir: {app}; Flags: promptifold
 Source: tmp/FREE OPEN GPS NZ AUTOROUTING_MDR.IMG; DestDir: {app}; Flags: promptifolder
 Source: installer_readme.txt; DestDir: {app}; Flags: promptifolder
 Source: installer-license.txt; DestDir: {app}; Flags: promptifolder
-Source: tmp/TYPNUL00.typ; DestDir: "{app}"; Flags: promptifolder; DestName: OS_type.typ; Check: S0
-Source: tmp/TYPOPT01.typ; DestDir: "{app}"; Flags: promptifolder; DestName: OS_type.typ; Check: S1
+Source: ../TypeFiles/TYPNUL00.typ; DestDir: "{app}"; Flags: promptifolder; DestName: OS_type.typ; Check: S0
+Source: ../TypeFiles/TYPOPT01.typ; DestDir: "{app}"; Flags: promptifolder; DestName: OS_type.typ; Check: S1
 
 
 [Code]

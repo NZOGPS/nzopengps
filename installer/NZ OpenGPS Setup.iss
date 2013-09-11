@@ -65,74 +65,74 @@ Source: tmp/Free Open GPS NZ Autorouting.TDB; DestDir: {app}; Flags: promptifold
 Source: tmp/FREE OPEN GPS NZ AUTOROUTING_MDR.IMG; DestDir: {app}; Flags: promptifolder
 Source: installer_readme.txt; DestDir: {app}; Flags: promptifolder
 Source: installer-license.txt; DestDir: {app}; Flags: promptifolder
-Source: TYPNUL00.typ; DestDir: "{app}"; Flags: promptifolder; DestName: OS_type.typ; Check: S0
-Source: TYPOPT01.typ; DestDir: "{app}"; Flags: promptifolder; DestName: OS_type.typ; Check: S1
+Source: tmp/TYPNUL00.typ; DestDir: "{app}"; Flags: promptifolder; DestName: OS_type.typ; Check: S0
+Source: tmp/TYPOPT01.typ; DestDir: "{app}"; Flags: promptifolder; DestName: OS_type.typ; Check: S1
 
 
 [Code]
 var
-  MyProgCheckResult: Boolean;
-  MapSourceDir: String;
-  MapSourceReg: String;
-  RegistryCreated: Boolean;
-  preresult: Boolean;
-
+MyProgCheckResult: Boolean;
+MapSourceDir: String;
+MapSourceReg: String;
+RegistryCreated: Boolean;
+preresult: Boolean;
+Page: TInputOptionWizardPage;
 // BE SURE to change BELOW FID to be consistent with your FID
 const
-  FID = 963;
+FID = 963;
 
 function S0(): Boolean;
 begin
-  preresult := false;
-  if Page.Values[0] then
-  begin
-    preresult := true;
-  end;
-  Result := preresult;
+preresult := false;
+if Page.Values[0] then
+begin
+preresult := true;
+end;
+Result := preresult;
 end;
 
 function S1(): Boolean;
 begin
-  preresult := false;
-  if not Page.Values[0] then
-  begin
-    preresult := true;
-  end;
-  Result := preresult;
+preresult := false;
+if not Page.Values[0] then
+begin
+preresult := true;
+end;
+Result := preresult;
 end;
 
 function MapsourceCheck(): Boolean;
 begin
-  MyProgCheckResult := False;
-  if RegQueryStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\Applications\MapSource','InstallDir', MapSourceDir) then
-  begin
-    MyProgCheckResult := True;
-  end;
-  Result := MyProgCheckResult;
+MyProgCheckResult := False;
+if RegQueryStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\Applications\MapSource','InstallDir', MapSourceDir) then
+begin
+MyProgCheckResult := True;
+end;
+Result := MyProgCheckResult;
 end;
 
 function CreateRegistry(TYPfile: String; MDXfile: String; MDRfile: String; LOCfile: String; TDBfile: String; BMAPfile: String; ProductCode: String): Boolean;
 var
-  TmpFID: String;
-  TF: Byte;
+TmpFID: String;
+TF: Byte;
 begin
-  if not RegistryCreated then
-  begin
-    RegistryCreated := True;
-    TF := FID;
-    TmpFID := '00';
-    TmpFID[1] := Chr(TF);
-    TF := (FID / 256);
-    TmpFID[2] := Chr(TF);
-    RegWriteStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free Open GPS NZ Autorouting' ,'TYP', TYPfile );
-    RegWriteBinaryValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free Open GPS NZ Autorouting' ,'ID',TmpFID );
-    RegWriteStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free Open GPS NZ Autorouting' ,'IDX', MDXfile);
-    RegWriteStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free Open GPS NZ Autorouting' ,'MDR', MDRfile);
-    RegWriteStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free Open GPS NZ Autorouting' + '\' + ProductCode ,'LOC', LOCfile);
-    RegWriteStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free Open GPS NZ Autorouting' + '\' + ProductCode ,'TDB', TDBfile);
-    RegWriteStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free Open GPS NZ Autorouting' + '\' + ProductCode ,'BMAP', BMAPfile);
-  end
-  Result := True;
+if not RegistryCreated then
+begin
+RegistryCreated := True;
+TF := FID;
+TmpFID := '00';
+TmpFID[1] := Chr(TF);
+TF := (FID / 256);
+TmpFID[2] := Chr(TF);
+RegWriteStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free Open GPS NZ Autorouting' ,'TYP', TYPfile );
+RegWriteBinaryValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free Open GPS NZ Autorouting' ,'ID',TmpFID );
+RegWriteStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free Open GPS NZ Autorouting' ,'IDX', MDXfile);
+RegWriteStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free Open GPS NZ Autorouting' ,'MDR', MDRfile);
+RegWriteStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free Open GPS NZ Autorouting' + '\' + ProductCode ,'LOC', LOCfile);
+RegWriteStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free Open GPS NZ Autorouting' + '\' + ProductCode ,'TDB', TDBfile);
+RegWriteStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free Open GPS NZ Autorouting' + '\' + ProductCode ,'BMAP', BMAPfile);
+end
+Result := True;
 end;
 
 
@@ -140,85 +140,84 @@ end;
 // If REMOVE set to true - remove duplicated entry from registry
 function CheckFIDDuplicate(FIDcheck : Integer; Remove: Boolean): Boolean;
 var
-  I : Integer;
-  FidNames: TArrayOfString;
-  TmpFID: String;
-  LocalFID: Integer;
+I : Integer;
+FidNames: TArrayOfString;
+TmpFID: String;
+LocalFID: Integer;
 
 begin
-  MyProgCheckResult := False;
-  if RegGetSubkeyNames(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\', FidNames) then
-  begin
-    for I := 0 to GetArrayLength(FidNames)-1 do
-    begin
-      MapSourceReg := 'Software\Garmin\MapSource\Families\' + FidNames[I];
-      if RegQueryBinaryValue(HKEY_LOCAL_MACHINE, MapSourceReg, 'ID', TmpFID) then
-      begin
-        if Length(TmpFID) = 2 then
-          LocalFID := Ord(TmpFID[2])* 256 + Ord(TmpFID[1])
-        else
-          LocalFID := Ord(TmpFID[1])
-        if FIDcheck = LocalFID then begin
-          if Remove then begin
-            RegDeleteKeyIncludingSubkeys(HKEY_LOCAL_MACHINE, MapSourceReg)
-          end;
-          MyProgCheckResult := True;
-        end;
-      end;
-    end;
-  end;
-  Result := MyProgCheckResult;
+MyProgCheckResult := False;
+if RegGetSubkeyNames(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\', FidNames) then
+begin
+for I := 0 to GetArrayLength(FidNames)-1 do
+begin
+MapSourceReg := 'Software\Garmin\MapSource\Families\' + FidNames[I];
+if RegQueryBinaryValue(HKEY_LOCAL_MACHINE, MapSourceReg, 'ID', TmpFID) then
+begin
+if Length(TmpFID) = 2 then
+LocalFID := Ord(TmpFID[2])* 256 + Ord(TmpFID[1])
+else
+LocalFID := Ord(TmpFID[1])
+if FIDcheck = LocalFID then begin
+if Remove then begin
+RegDeleteKeyIncludingSubkeys(HKEY_LOCAL_MACHINE, MapSourceReg)
+end;
+MyProgCheckResult := True;
+end;
+end;
+end;
+end;
+Result := MyProgCheckResult;
 end;
 
 //Be sure to uninstall map entry from registry
 function InitializeUninstall(): Boolean;
 var
-  tFID: String;
+tFID: String;
 begin
-  tFID := IntToStr(FID);
+tFID := IntToStr(FID);
 
-  RegDeleteKeyIncludingSubkeys(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free Open GPS NZ Autorouting');
-  Result := True;
+RegDeleteKeyIncludingSubkeys(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free Open GPS NZ Autorouting');
+Result := True;
 end;
 
 function InitializeSetup(): Boolean;
 var
-  nocloseit: Boolean;
+nocloseit: Boolean;
 begin
-    nocloseit := True;
-    RegistryCreated := False;
+nocloseit := True;
+RegistryCreated := False;
 
-    // Check if Mapsource is present
-    if not MapsourceCheck then
-    begin
-      if MsgBox('Gamin MapSource application has not been found on this PC' + #13 +
-                'This program expects that Garmin MapSource is already installed on your PC, however ' +  #13 +
-                'you may use sendmap20 program from http://cgpsmapper.com to upload maps to your GPS device' + #13 +
-                ' if you do not have Garmin Mapsource.' + #13 + #13 +
-                'Do you want to continue installation?', mbConfirmation, MB_YESNO) = idNo then
-        begin
-          nocloseit := False;
-        end;
-    end;
+// Check if Mapsource is present
+if not MapsourceCheck then
+begin
+if MsgBox('Gamin MapSource application has not been found on this PC' + #13 +
+'This program expects that Garmin MapSource is already installed on your PC, however ' + #13 +
+'you may use sendmap20 program from http://cgpsmapper.com to upload maps to your GPS device' + #13 +
+' if you do not have Garmin Mapsource.' + #13 + #13 +
+'Do you want to continue installation?', mbConfirmation, MB_YESNO) = idNo then
+begin
+nocloseit := False;
+end;
+end;
 
-    if nocloseit and CheckFIDDuplicate(FID,False) then
-    begin
-      if MsgBox('NZ Open GPS Maps are already installed in MapSource (FID: ' + IntToStr(FID) + ')'+ #13 + #13 +
-               'Do you want to remove existing map and install this version?', mbConfirmation, MB_YESNO) = idYes then
-       begin
-          // remove existing map!
-          CheckFIDDuplicate(FID,True);
-       end
-       else
-          nocloseit := False;
-    end;
-    Result := nocloseit;
+if nocloseit and CheckFIDDuplicate(FID,False) then
+begin
+if MsgBox('NZ Open GPS Maps are already installed in MapSource (FID: ' + IntToStr(FID) + ')'+ #13 + #13 +
+'Do you want to remove existing map and install this version?', mbConfirmation, MB_YESNO) = idYes then
+begin
+// remove existing map!
+CheckFIDDuplicate(FID,True);
+end
+else
+nocloseit := False;
+end;
+Result := nocloseit;
 end;
 
 procedure InitializeWizard();
 begin
-  Page := CreateInputOptionPage(wpWelcome, 'Display options', 'What option would you prefer?', 'Please select your display option, then click Next.', False, False);
-  Page.Add('Use the bundled typ file - Leave this selected if you want the enhanced OS type file installed - uncheck if you would prefer the default garmin skin.');
-  Page.Values[0] := true;
+Page := CreateInputOptionPage(wpWelcome, 'Display options', 'What option would you prefer?', 'Please select your display option, then click Next.', False, False);
+Page.Add('Use the bundled typ file - Leave this selected if you want the enhanced OS type file installed - uncheck if you would prefer the default garmin skin.');
+Page.Values[0] := true;
 end;
-

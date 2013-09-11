@@ -84,7 +84,7 @@ FID = 963;
 function S0(): Boolean;
 begin
 preresult := false;
-if Page.Values[0] then
+if not Page.Values[0] then
 begin
 preresult := true;
 end;
@@ -94,7 +94,7 @@ end;
 function S1(): Boolean;
 begin
 preresult := false;
-if not Page.Values[0] then
+if Page.Values[0] then
 begin
 preresult := true;
 end;
@@ -218,6 +218,6 @@ end;
 procedure InitializeWizard();
 begin
 Page := CreateInputOptionPage(wpWelcome, 'Display options', 'What option would you prefer?', 'Please select your display option, then click Next.', False, False);
-Page.Add('Use the bundled typ file - Leave this selected if you want the enhanced OS type file installed - uncheck if you would prefer the default garmin skin.');
+Page.Add('Leave this selected if you want the enhanced Open Source Skin applied to the map - uncheck if you would prefer the default garmin skin.');
 Page.Values[0] := true;
 end;

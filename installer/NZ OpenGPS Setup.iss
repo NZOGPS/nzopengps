@@ -77,9 +77,15 @@ MapSourceReg: String;
 RegistryCreated: Boolean;
 preresult: Boolean;
 Page: TInputOptionWizardPage;
+
+
 // BE SURE to change BELOW FID to be consistent with your FID
 const
 FID = 963;
+
+//
+// CHECKING WHETHER THE STANDARD GAMIN TYPE FILE OR THE NZOPENGPS HAS BEEN USER SELECTED
+//
 
 function S0(): Boolean;
 begin
@@ -138,6 +144,7 @@ end;
 
 // Check if our FID is not already installed in Mapsource
 // If REMOVE set to true - remove duplicated entry from registry
+
 function CheckFIDDuplicate(FIDcheck : Integer; Remove: Boolean): Boolean;
 var
 I : Integer;

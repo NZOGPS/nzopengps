@@ -766,10 +766,10 @@ Data0=(-45.03261,168.66039)
 [POI]
 Type=0x2e05
 Label=UNICHEM BRIGHTON VILLAGE PHARMACY
-StreetDesc=104 / 108 Brighton Mall, Canterbury/ chemist, pharmacy
+StreetDesc=183 Shaw Ave, Canterbury/ chemist, pharmacy
 Phone=+6433889546
 zip=Mon 8.30am - 5.30pm,Tue 8.30am - 5.30pm,
-Data0=(-43.50752,172.72788)
+Data0=(-43.50722,172.72673)
 [END]
 
 ;1003864
@@ -44232,9 +44232,9 @@ Data0=(-43.54028,172.70183)
 [POI]
 Type=0x2f
 Label=DALMAN ARCHITECTURE LTD
-StreetDesc=1st Fl 184 Papanui Rd, Merivale Chc/ 
+StreetDesc=387 Colombo St, Sydenham, Chc 8023/ At Dalman Architecture, our work is the perf
 Phone=+6433665445
-Data0=(-43.51256,172.62235)
+Data0=(-43.54518,172.63647)
 [END]
 
 ;1104150
@@ -46312,11 +46312,11 @@ Data0=(-45.86463,170.50870)
 
 ;1105408
 [POI]
-Type=0x2f
+Type=0x2e
 Label=MRC TRANSMARK
-StreetDesc=360 Tuam St, Chc/ 
-Phone=+6433795460
-Data0=(-43.53540,172.64928)
+StreetDesc=40 Byron St, Chc 8023/ Valves, Actuation, Pipe, Flanges and fittings
+Phone=+6433712293
+Data0=(-43.54267,172.64120)
 [END]
 
 ;1105411
@@ -48079,9 +48079,9 @@ Data0=(-46.41689,168.34787)
 [POI]
 Type=0x2f
 Label=GRANT THORNTON CHRISTCHURCH
-StreetDesc=L 1, The Antarctic Attraction, 38 Orchard Rd, Chc/ 
+StreetDesc=L 3, 2 Hazeldean Rd, Addington, Chc 8024/ Accounting Firm. Business Consultancy
 Phone=+6433799580
-Data0=(-43.48801,172.54722)
+Data0=(-43.54162,172.61592)
 [END]
 
 ;1106357
@@ -64334,10 +64334,10 @@ Data0=(-43.53550,172.60622)
 ;1116095
 [POI]
 Type=0x2f
-Label=WILKIN RIVER JETS
-StreetDesc=Makarora-Lake Hawea Rd, Makarora, Otago/ Jet Boats. Tourist attraction & visitor
-Phone=+6434438351
-Data0=(-44.23237,169.23162)
+Label=?WILKIN RIVER JETS
+StreetDesc=5860 Makarora-Lake Hawea Rd, Makarora Otago/ Join Wilkin River Jets for the best
+Phone=0800538945
+Data0=(-44.24606,169.22231)
 [END]
 
 ;1116097
@@ -72910,8 +72910,8 @@ Data0=(-44.39186,171.24736)
 Type=0x6404
 Label=CHURCH OF CHRIST DUNEDIN
 StreetDesc=3 Prince Albert Rd, Dud 9012/ A place where Christians meet; FriendSpeak office;
-Phone=+6434778386
-zip=Sun 10am, 11am, 6pm - Wed 7pm, Fri 7pm (
+Phone=+6434555312
+zip=Sun 10am, 11am, 6pm - Wed 7pm, (& genera
 Data0=(-45.89954,170.50387)
 [END]
 
@@ -94401,12 +94401,12 @@ Data0=(-43.52972,172.63737)
 
 ;1131076
 [POI]
-Type=0x2a07
-Label=CHIPMUNKS - CHRISTCHURCH
-StreetDesc=472 Cranford St, Papanui/Redwood, Chc 8051, Canterbury/ Childrens pay for playgr
+Type=0x2f
+Label=CHIPMUNKS CRANFORD STREET - CHRISTCHURCH
+StreetDesc=472 Cranford St, Papanui, Chc 8051/ Childrens pay for playground, cafe, coffee, 
 Phone=+6433524476
-zip=Tues-Sun
-Data0=(-43.49016,172.62320)
+zip=7 days 9.30am-5pm
+Data0=(-43.48973,172.62344)
 [END]
 
 ;1131077
@@ -120334,8 +120334,9 @@ Data0=(-42.50786,173.15311)
 ;1141189
 [POI]
 Type=0x2f
-Label=MUD HOUSE WINERY
+Label=WAIPARA HILLS CELLAR DOOR AND CAFé
 StreetDesc=780 Glasnevin Rd, Glasnevin/ 
+Phone=+33146900
 Data0=(-43.07872,172.74752)
 [END]
 
@@ -138762,7 +138763,7 @@ Data0=(-41.51406,173.95500)
 [POI]
 Type=0x2f
 Label=BRIAN J MCKENZIE PHYSIOTHERAPIST
-StreetDesc=545 Manchester St, Chc/ Physiotherapist, physio
+StreetDesc=545 Manchester St, Chc/ Physiotherapist, physio, gymnasium, gym
 Phone=+6433667740
 zip=Mon-Fri 7am-7pm, Sat 9am-1pm
 Data0=(-43.51502,172.63932)
@@ -179639,9 +179640,9 @@ Data0=(-41.28696,174.00567)
 ;1173168
 [POI]
 Type=0x2c04
-Label=?SHAG VALLEY STATION BUILDINGS
-StreetDesc=2353 State Highway 87), Morrisons, Otago/ Historic Place: Category 1
-Data0=(-45.31235,170.55510)
+Label=SHAG VALLEY STATION BUILDINGS
+StreetDesc=2353 Dunback-Morrisons Rd (State Highway 85) Otago/ Historic Place: Category 1
+Data0=(-45.31799,170.54917)
 [END]
 
 ;1173173
@@ -183446,9 +183447,10 @@ Data0=(-45.50919,168.57750)
 ;1174555
 [POI]
 Type=0x2f
-Label=VAMP HAIR DESIGN
-StreetDesc=9a Martin St, South City, Invercargill/ Hair Dresser, Make Up and Beautician
+Label=VAMP
+StreetDesc=9a Martin St, South City, Invercargill/ Hair Dresser, Make Up, Salon, Fudge Hair
 Phone=+6432184431
+zip=9.00 - 8.00 Tues - Thurs 9.00 - 5.00 Fri
 Data0=(-46.42817,168.36220)
 [END]
 
@@ -209175,5 +209177,91 @@ StreetDesc=107 Warrington St, Mairehau, Chc/ electronics repairs, e-waste manage
 Phone=+6433853830
 zip=by appointment
 Data0=(-43.50785,172.64924)
+[END]
+
+;1204380
+[POI]
+Type=0x2a0e
+Label=SODA CAFE AND BAR
+StreetDesc=Fairview place, Fernside 7471, New Zealand/ Cafe
+Phone=+33107788
+Data0=(-43.30376,172.57653)
+[END]
+
+;1204388
+[POI]
+Type=0x2f
+Label=NEW ZEALAND MEDICAL & DIGNOSTICS
+StreetDesc=159 Waltham Rd, Sydenham, Chc/ Medical Supplies, Hospital Supplies, Physio Suppl
+Phone=0508327897
+zip=M-F 7:30am-6:30pm, Sat 8:30am-1:30pm
+Data0=(-43.54672,172.64624)
+[END]
+
+;1204392
+[POI]
+Type=0x2f
+Label=STYLE WITH SHAREEN
+StreetDesc=24 Orrick Cres Chc, Canterbury/ Fashion Stylist and Image Consultant
+Phone=+6421842467
+Data0=(-43.50476,172.70203)
+[END]
+
+;1204396
+[POI]
+Type=0x2f
+Label=CHIPMUNKS WIGRAM - CHRISTCHURCH
+StreetDesc=218 Main South Rd, Wigram, Chc/ Childrens pay for playground, cafe
+Phone=+6433487256
+zip=School days 9.30am-5.30pm, Weekends & Sc
+Data0=(-43.54285,172.54638)
+[END]
+
+;1204405
+[POI]
+Type=0x2f
+Label=OVERLAND EXPRESS LTD
+StreetDesc=15 March Pl, Belfast, Chc 8051/ Christchurch based, general carriers, freight, t
+Phone=+6433238610
+Data0=(-43.45246,172.63273)
+[END]
+
+;1204416
+[POI]
+Type=0x2f
+Label=PAGEMAP
+StreetDesc=111 Bridge St, Nelson/ A new online tool that makes reviewing complex legal docu
+Phone=+6435458008
+Data0=(-41.27239,173.28554)
+[END]
+
+;1204419
+[POI]
+Type=0x2f
+Label=CHILD CANCER FOUNDATION CHRISTCHURCH FAMILY PLACE
+StreetDesc=297 Russley Rd, Chc/ 
+Phone=+6433651485
+zip=Mon-Fri 0830-1700
+Data0=(-43.50196,172.54413)
+[END]
+
+;1204420
+[POI]
+Type=0x2f
+Label=CHILD CANCER FOUNDATION DUNEDIN FAMILY PLACE
+StreetDesc=28 London St, Dud/ 
+Phone=+6434717258
+zip=Mon-Fri 0830-1700
+Data0=(-45.86855,170.50576)
+[END]
+
+;1204427
+[POI]
+Type=0x2e
+Label=THE RED DOG GIFT SHOP MOTUEKA NELSON
+StreetDesc=134 High St Motueka 7120/ Open 7 days a week in sun-drenched Motueka. Featuring 
+Phone=+6435280600
+zip=10am to 6pm
+Data0=(-41.11052,173.01067)
 [END]
 

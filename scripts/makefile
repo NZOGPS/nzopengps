@@ -15,7 +15,13 @@ tilenum = $(subst Northland,1,$(subst Auckland,2,$(subst Waikato,3,$(subst Centr
 all : $(addsuffix .zip,$(TILES))
 .PHONY: all
 
-install : $(addsuffix -numbers.gdb,$(addprefix $(NUMBERS)\,$(TILES))) $(addsuffix -numbers-linzid.csv,$(addprefix $(NUMBERS)\,$(TILES)))
+install-csv : $(addsuffix -numbers-linzid.csv,$(addprefix $(NUMBERS)\,$(TILES)))
+.PHONY: install
+
+install-gdb : $(addsuffix -numbers.gdb,$(addprefix $(NUMBERS)\,$(TILES)))
+.PHONY: install
+
+install :  install-csv install-gdb
 .PHONY: install
 
 %.zip : $(LINZO)\%-LINZ-V4.mp $(OUTPUTS)\%-report-2.txt $(OUTPUTS)\%-report-6.txt $(OUTPUTS)\%-numbers-linzid.csv $(OUTPUTS)\%-numbers.gdb

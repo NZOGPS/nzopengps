@@ -9,4 +9,4 @@ time /t
 time /t
 %nzogps_psql_bin%psql -U postgres -d nzopengps < postproc.sql
 time /t
-touch ..\database.date
+touch ../database.date

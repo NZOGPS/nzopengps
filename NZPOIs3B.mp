@@ -37417,20 +37417,11 @@ StreetDesc=Curletts Rd, Addington, Chc/ Dump station
 Data0=(-43.55041,172.58543)
 [END]
 
-;1099542
-[POI]
-Type=0x2b01
-Label=ALPINE-PACIFIC HOLIDAY PARK
-StreetDesc=69 Beach Rd, Kaikoura/ Motel, cabins, tent sites. Dump station
-Phone=+6433196275
-Data0=(-42.39404,173.67882)
-[END]
-
 ;1099543
 [POI]
 Type=0x2c06
 Label=ALPINE-PACIFIC HOLIDAY PARK
-StreetDesc=69 Beach Rd, Kaikoura/ Lee & Struan run a 4 star qualmark rated holiday park, ca
+StreetDesc=69 Beach Rd, Kaikoura/ We offer an excellent range of accommodation facilities f
 Phone=+6433196275
 Data0=(-42.39348,173.67892)
 [END]
@@ -63939,8 +63930,8 @@ Data0=(-42.68966,170.99556)
 ;1115885
 [POI]
 Type=0x2f
-Label=WAUGH CONSULTANTS LTD
-StreetDesc=L 2, 18 Woollcombe St, Timaru/ 
+Label=WAUGH INFRASTRUCTURE MANAGEMENT LTD.
+StreetDesc=L 2, 18 Woollcombe St, Timaru/ infrastructure management, infrastructure asset m
 Phone=+6436866994
 Data0=(-44.39892,171.25526)
 [END]
@@ -73071,7 +73062,7 @@ Data0=(-46.40532,168.34328)
 [POI]
 Type=0x2b00
 Label=IKAMATUA CAMPING GROUND & HOTEL
-StreetDesc=218 Main Rd, Ikamatua/ Accommodation: tent sites, powered caravan/campervan site
+StreetDesc=218 Main Rd, Ikamatua, westland/ Accommodation: tent sites, powered caravan/camp
 Phone=+6434394439
 Data0=(-42.27068,171.68506)
 [END]
@@ -97466,8 +97457,10 @@ Data0=(-43.52844,172.64550)
 [POI]
 Type=0x2a07
 Label=KIWI ROAST
-StreetDesc=2 Straven Rd, Chc/ 
-Data0=(-43.52931,172.60218)
+StreetDesc=14 Broad St, Woolston, Chc/ 
+Phone=+6439824980
+zip=mon-fri 10-2 4-9 Sat 9-11:30am sun 4-9pm
+Data0=(-43.55922,172.68448)
 [END]
 
 ;1131492
@@ -97476,14 +97469,6 @@ Type=0x2f
 Label=KIWI ROAST
 StreetDesc=103 Bamford St, Woolston, Chc/ 
 Data0=(-43.55863,172.68369)
-[END]
-
-;1131494
-[POI]
-Type=0x2f
-Label=KIWI ROASTS
-StreetDesc=135 Warrington St, Chc/ 
-Data0=(-43.50798,172.65127)
 [END]
 
 ;1131495
@@ -101135,9 +101120,11 @@ Data0=(-43.55312,172.66448)
 
 ;1131985
 [POI]
-Type=0x2f
+Type=0x2e02
 Label=SUN-MART
-StreetDesc=227 Blenheim Rd, Chc/ 
+StreetDesc=227 Blenheim Rd, Chc/ Asian Food, Grocery,
+Phone=+6433487327
+zip=9.00am-7:30pm 7 Days
 Data0=(-43.53852,172.58820)
 [END]
 
@@ -158913,6 +158900,15 @@ Phone=+6432173477
 Data0=(-46.40733,168.37794)
 [END]
 
+;1163000
+[POI]
+Type=0x2f
+Label=?SWANNANOA PRESCHOOL INC
+StreetDesc=1303 Tram Rd Rangiora ,Canterbury/ 
+Phone=+6433126198
+Data0=(-43.36971,172.49778)
+[END]
+
 ;1163010
 [POI]
 Type=0x2f
@@ -179691,6 +179687,14 @@ Type=0x2c04
 Label=REDWOOD RACING STABLES MAIN BLOCK
 StreetDesc=Croucher St, Richmond/ Historic Place: Category 1
 Data0=(-41.33813,173.18517)
+[END]
+
+;1173184
+[POI]
+Type=0x2c04
+Label=CHURCH STEPS
+StreetDesc=Church Hill, Cathedral Sq, Nelson/ Historic Place: Category 1
+Data0=(-41.27533,173.28381)
 [END]
 
 ;1173185
@@ -205617,10 +205621,10 @@ Data0=(-46.09748,168.94595)
 [POI]
 Type=0x2e
 Label=BBQS DIRECT
-StreetDesc=18 Birmingham Dr, Middleton, Chc/ BBQs, Barbeques, Barbecues - spare parts - acc
+StreetDesc=121 Wrights Rd, Addington, Chc/ BBQs, Barbeques, Barbecues - spare parts - acces
 Phone=+6433392375
-zip=Mon-Fri 9am-4.30pm. Sat 10am-2pm
-Data0=(-43.54375,172.59069)
+zip=Mon-Fri 9am-5.30pm. Sat 10am-4pm
+Data0=(-43.54213,172.59587)
 [END]
 
 ;1195353
@@ -206248,10 +206252,10 @@ Data0=(-43.49299,172.66042)
 [POI]
 Type=0x2e
 Label=CYBERPETS
-StreetDesc=199 Marshalnd Rd, Shirley, Chc/ Pet supplies
+StreetDesc=199 Marshland Rd, Shirley, Chc/ Pet supplies
 Phone=+6433862650
 zip=Mon-Fri 9am-5:30pm, Sat 9am-5pm, Sun 10a
-Data0=(-43.49299,172.66055)
+Data0=(-43.49392,172.66089)
 [END]
 
 ;1195702
@@ -208578,9 +208582,9 @@ Data0=(-43.51162,172.63455)
 [POI]
 Type=0x2a
 Label=PAULA'S PLATE
-StreetDesc=80 Hardy St Nelson/ Restaurant by Paula Saengthian-ngam, Masterchef NZ 2013
+StreetDesc=80 Hardy St Nelson/ Restaurant by Paula Saengthian-ngam, Masterchef NZ 2013 Fina
 Phone=+6435488057
-zip=8am-4pm. Monday-Saturday
+zip=10am-4pm Tuesday-Saturday
 Data0=(-41.27430,173.28100)
 [END]
 
@@ -209263,5 +209267,50 @@ StreetDesc=134 High St Motueka 7120/ Open 7 days a week in sun-drenched Motueka.
 Phone=+6435280600
 zip=10am to 6pm
 Data0=(-41.11052,173.01067)
+[END]
+
+;1204429
+[POI]
+Type=0x2f
+Label=BURKE LAW
+StreetDesc=18 Princes St Dud/ At Chris Burke Law, Chris and the team appreciate the frustra
+Phone=+6434259718
+zip=mon-fri, 8:30am-5:00pm
+Data0=(-45.87460,170.50309)
+[END]
+
+;1204440
+[POI]
+Type=0x2e09
+Label=COUNTRY MANOR
+StreetDesc=284 East St Ashburton/ Based in Ashburton, Canterbury, Country Manor offers a ra
+Phone=+33077335
+Data0=(-43.90449,171.74800)
+[END]
+
+;1204443
+[POI]
+Type=0x2c05
+Label=LITTLE WONDERS EARLY CHILDHOOD CENTRE, GLENWOOD
+StreetDesc=307 Wai-Iti Rd, Glenwood, Timaru/ Our mission is to provide high quality childca
+Phone=+6436860519
+Data0=(-44.38867,171.20997)
+[END]
+
+;1204480
+[POI]
+Type=0x2d00
+Label=OAMARU PONY CLUB
+StreetDesc=2 Pukeuri-oamaru Rd, Oamaru, Waitaki-Otago/ 
+Data0=(-45.06088,170.99576)
+[END]
+
+;1204483
+[POI]
+Type=0x2a
+Label=COUNTDOWN RANGIORA EAST
+StreetDesc=40 Ivory St, Rangiora/ Supermarket
+zip=Monday-Sunday 7am-10pm
+Data0=(-43.30789,172.59807)
 [END]
 

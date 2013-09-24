@@ -378,7 +378,7 @@ sub write_sql {
 	print SQLFILE "CREATE TABLE \"${basefile}\" (\"roadid\"  int PRIMARY KEY,\n";
 	print SQLFILE "\"label\" varchar(50),\n";
 	print SQLFILE "\"type\" varchar(10),\n";
-	print SQLFILE "\"linzid\" varchar(9),\n";
+	print SQLFILE "\"linzid\" integer,\n";
 	print SQLFILE "\"numbers\" varchar(6)[][]);\n";
 	print SQLFILE "SELECT AddGeometryColumn('','${basefile}','the_geom','4167','LINESTRING',2);\n";
 	for $road (@roads){
@@ -391,7 +391,7 @@ sub write_sql {
 		$rdname =~ s/\'/\'\'/g;
 		if ($first) {
 			print SQLFILE "INSERT INTO \"${basefile}\" ";
-			print SQLFILE "(\"roadid\",\"label\",\"type\",\"linzid\",\"numbers\",the_geom)";
+			print SQLFILE "(\"roadid\",\"label\",\"type\",linzid,\"numbers\",the_geom)";
 			print SQLFILE " VALUES \n ";
 			$first = 0;
 		} else {

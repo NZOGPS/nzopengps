@@ -53,25 +53,27 @@ Alter Table "Southland-Nums" Add Column isect_segment smallint;
 Alter Table "Southland-Nums" Add Column isect_distance double precision;
 
 
-create or replace function gt_splitline(line geometry, nodes smallint[]) returns geometry(LineString,2193)[] as $$
+create or replace function gt_splitline(line geometry, nodes character varying[]) returns geometry(LineString,2193)[] as $$
 DECLARE 
 	j smallint;
 	nlines geometry(LineString,2193)[];
 	
 BEGIN
 	for i in 1.. array_length(nodes,1) loop
-		j = nodes[i]::integer;
-		nlines[i] = ST_MakeLine(ST_PointN(line,j),ST_PointN(line,j+1));
+		j = nodes[i][1]::integer;
+		nlines[i] = ST_MakeLine(ST_PointN(line,j+1),ST_PointN(line,j+2));
 		j=j+1;
-		while j < ST_NPoints(line) and j < nodes[i+1]::integer loop
+		while j < ST_NPoints(line) and j < nodes[i+1][1]::integer loop
 			j = j + 1;
 			nlines[i] = ST_AddPoint(nlines[i],ST_PointN(line,j),-1);
 		end loop;
 	end loop;
+	return nlines;
 END;
 $$ language plpgsql;
 
 select st_astext(the_geom) from "Southland" where roadid=43
 "LINESTRING(167.61198 -45.56451,167.61102 -45.56498,167.61006 -45.56565,167.60928 -45.56599,167.60902 -45.56614,167.60881 -45.56644,167.60844 -45.5674,167.60833 -45.56758,167.6078 -45.5682,167.60783 -45.56837,167.60867 -45.56882,167.60916 -45.56903,167.60948 -45.56908,167.61064 -45.56908,167.61128 -45.56906)"
 
-select gt_splitline(the_geom,numbers[1:nnums][1:1]) from "Southland" where roadid=43
+select gt_splitline(nztm_line,numbers[1:nnums][1:1]) from "Southland" where roadid=43
+update "Southland" set numberlines = gt_splitline(nztm_line,numbers[1:nnums][1:1]) where roadid=43

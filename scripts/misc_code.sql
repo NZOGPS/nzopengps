@@ -77,3 +77,47 @@ select st_astext(the_geom) from "Southland" where roadid=43
 
 select gt_splitline(nztm_line,numbers[1:nnums][1:1]) from "Southland" where roadid=43
 update "Southland" set numberlines = gt_splitline(nztm_line,numbers[1:nnums][1:1]) where roadid=43
+
+select range_low,start,"end",type,address from "Southland-Nums" join "SouthlandPaperNumbers" on "Southland-Nums".rna_id = "SouthlandPaperNumbers".linzid
+select range_low,start,"end",type,address from "Southland-Nums" join "SouthlandPaperNumbers" on "Southland-Nums".rna_id = "SouthlandPaperNumbers".linzid where gt_within(range_low,start,"end",type)
+
+update "Southland-Nums" set asnum_side = 2 from "SouthlandPaperNumbers" where  "Southland-Nums".rna_id = "SouthlandPaperNumbers".linzid and gt_within(range_low,start,"end",type) 
+
+CREATE OR REPLACE FUNCTION gt_within(number integer, start integer, last integer, type character varying)
+  RETURNS boolean AS
+$BODY$
+DECLARE 
+	ret boolean;
+	
+BEGIN
+	if type = 'E' then
+		if mod(number,2)=1 then
+			return FALSE;
+		end if;
+		if number/2 between start/2 and last/2 then
+			return TRUE;
+		else
+			return FALSE;
+		end if;
+	end if;
+	if type = 'O' then
+		if mod(number,2)=0 then
+			return FALSE;
+		end if;
+		if (number-1)/2 between (start-1)/2 and (last-1)/2 then
+			return TRUE;
+		else
+			return FALSE;
+		end if;
+	end if;
+	if type = 'B' then
+		if number between start and last then
+			return TRUE;
+		else
+			return FALSE;
+		end if;
+	end if;
+
+END;
+$BODY$
+  LANGUAGE plpgsql

@@ -34219,16 +34219,6 @@ zip=Last Fri of the Month
 Data0=(-42.81135,173.27435)
 [END]
 
-;1097135
-[POI]
-Type=0x3003
-Label=WORK & INCOME CHRISTCHURCH CENTRAL
-StreetDesc=231 High St, Chc/ WINZ
-Phone=0800559009
-zip=Mon Tue Thu Fri 8:30 am-5:00 pm, Wed 9:3
-Data0=(-43.53373,172.63873)
-[END]
-
 ;1097152
 [POI]
 Type=0x3003
@@ -34282,11 +34272,11 @@ Data0=(-42.39309,173.67946)
 ;1097179
 [POI]
 Type=0x3003
-Label=WORK & INCOME LINWOOD
-StreetDesc=218 Linwood Ave, Linwood/ WINZ
+Label=?WORK AND INCOME, LINWOOD COMMUNITY LINK
+StreetDesc=154 Aldwins Rd, Linwood/ work and income
 Phone=0800559009
 zip=Mon Tue Thu Fri 8:30 am-5:00 pm, Wed 9:3
-Data0=(-43.53319,172.67212)
+Data0=(-43.53451,172.67207)
 [END]
 
 ;1097189
@@ -34389,16 +34379,6 @@ zip=Mon Tue Thu Fri 8:30 am-5:00 pm, Wed 9:3
 Data0=(-43.50894,172.65142)
 [END]
 
-;1097234
-[POI]
-Type=0x3003
-Label=WORK & INCOME STANMORE
-StreetDesc=405 Worcester St, Linwood/ WINZ
-Phone=0800559009
-zip=Mon Tue Thu Fri 8:30 am-5:00 pm, Wed 9:3
-Data0=(-43.53094,172.65778)
-[END]
-
 ;1097235
 [POI]
 Type=0x3003
@@ -34412,11 +34392,11 @@ Data0=(-41.31322,173.23354)
 ;1097237
 [POI]
 Type=0x3003
-Label=WORK & INCOME SYDENHAM
-StreetDesc=Cnr Elgin & Colombo Streets, Sydenham/ WINZ
+Label=WORK & INCOME SYDENHAM, NEW ZEALAND GOVERNMENT SERVICES
+StreetDesc=39 Durham St, Sydenham/ work and income
 Phone=0800559009
 zip=Mon Tue Thu Fri 8:30 am-5:00 pm, Wed 9:3
-Data0=(-43.54567,172.63637)
+Data0=(-43.54587,172.63344)
 [END]
 
 ;1097239
@@ -42654,7 +42634,7 @@ Data0=(-43.52086,172.56855)
 [POI]
 Type=0x2c05
 Label=CHRISTCHURCH COLLEGE OF ENGLISH LTD
-StreetDesc=University of Canterbury Campus, Solway Ave, Ilam, Chc/ The Christchurch College
+StreetDesc=University of Canterbury Campus, Solway Ave, Ilam, Chc/ Looking to study English
 Phone=+6433433790
 Data0=(-43.52230,172.56720)
 [END]
@@ -91662,16 +91642,6 @@ Phone=+6433252528
 Data0=(-43.64031,172.48474)
 [END]
 
-;1130394
-[POI]
-Type=0x2a
-Label=FELIX THE CAFE
-StreetDesc=9 Gerald St, Lincoln/ Cafe, Restaurant
-Phone=+6433253228
-zip=Mon -Sat 10am-9pm
-Data0=(-43.64051,172.48376)
-[END]
-
 ;1130395
 [POI]
 Type=0x2a
@@ -130374,6 +130344,7 @@ Data0=(-43.49539,172.54718)
 Type=0x2f
 Label=CLASS HAIR DESIGN
 StreetDesc=123 Farrington Ave, Chc/ Hairdresser
+Phone=+6433598606
 Data0=(-43.49089,172.58664)
 [END]
 
@@ -139887,8 +139858,9 @@ Data0=(-41.31462,173.24994)
 [POI]
 Type=0x2d02
 Label=ALBERT TOWN TAVERN
-StreetDesc=20 Alison Ave, Albert Town/ bar
-Data0=(-44.68260,169.18834)
+StreetDesc=20 Alison Ave, Albert Town/ Bar and restaurant, dine in or takeaway
+Phone=+6434434545
+Data0=(-44.68314,169.18888)
 [END]
 
 ;1151736
@@ -192821,21 +192793,13 @@ zip=Mon- Fri 8.00am to 5.30 pm, 24/7 after-h
 Data0=(-43.90733,171.74694)
 [END]
 
-;1180204
-[POI]
-Type=0x2e
-Label=MADDISON ROSE FLORIST
-StreetDesc=Northlands Shopping Mall, 55 Main North Rd, Papanui, Chc/ Florist
-Phone=+6433524010
-Data0=(-43.49231,172.61046)
-[END]
-
 ;1180205
 [POI]
 Type=0x2e
 Label=MADDISON ROSE FLORIST
-StreetDesc=L 1, Kiosk 6, Westfield Riccarton, 129 Riccarton Rd, Riccarton, Chc/ Florist
+StreetDesc=L 1, Kiosk 6, Westfield Riccarton, 129 Riccarton Rd, Riccarton, Chc/ Florist Int
 Phone=+6433488222
+zip=Monday-Wednesday 9am-6pm Thursday-Friday
 Data0=(-43.53110,172.59697)
 [END]
 
@@ -204180,10 +204144,10 @@ Data0=(-43.50648,172.65323)
 [POI]
 Type=0x2f
 Label=LOUISE MCLEAVEY HARCOURTS BECKENHAM
-StreetDesc=130 Colombo St Sydenham Chc 8023/ Harcourts Real Estate Top Agent Professional A
+StreetDesc=130 Colombo St Beckenham Chc 8023/ Harcourts Real Estate Top Agent Professional 
 Phone=+21820610
 zip=Ring Anytime on +6421820610. or 03337131
-Data0=(-43.55829,172.63723)
+Data0=(-43.55807,172.63706)
 [END]
 
 ;1192959
@@ -206108,7 +206072,7 @@ Data0=(-43.57409,172.63800)
 [POI]
 Type=0x2f11
 Label=SOUTH AMERICA JOURNEYS
-StreetDesc=34 Eely Point Rd, Wanaka/ South America Journeys offer a range of eco travel (in
+StreetDesc=34 Eely Point Rd, Wanaka/ Whatever countries in South America you are keen to vi
 Phone=+6434435036
 Data0=(-44.68288,169.12714)
 [END]
@@ -207803,7 +207767,7 @@ Data0=(-43.55584,172.69687)
 [POI]
 Type=0x2f
 Label=IMMIGRATION LAWYER - SIMON GRAHAM
-StreetDesc=88 Holly rd, St Albans, Chc/ Immigration lawyer: work visas, student visas, skil
+StreetDesc=134 Victoria St, Chc/ Immigration lawyer: work visas, student visas, skilled mig
 Phone=+6433793880
 zip=8.30am - 5pm
 Data0=(-43.51629,172.63138)
@@ -209312,5 +209276,133 @@ Label=COUNTDOWN RANGIORA EAST
 StreetDesc=40 Ivory St, Rangiora/ Supermarket
 zip=Monday-Sunday 7am-10pm
 Data0=(-43.30789,172.59807)
+[END]
+
+;1204490
+[POI]
+Type=0x2f
+Label=KIWI BOX REFRIGERATED CONTAINERS - TIMARU
+StreetDesc=148 Meadows Rd, Washdyke, Timaru 7973/ We offer fantastic cool storage facilitie
+Phone=0800222906
+Data0=(-44.34830,171.24831)
+[END]
+
+;1204491
+[POI]
+Type=0x2f
+Label=KIWI BOX REFRIGERATED CONTAINERS - NELSON
+StreetDesc=38a Pascoe St, Nelson 7011/ We have utilised second hand shipping containers to 
+Phone=0800222906
+Data0=(-41.29287,173.24083)
+[END]
+
+;1204492
+[POI]
+Type=0x2f
+Label=KIWI BOX REFRIGERATED CONTAINERS - BLENHEIM
+StreetDesc=3 Bristol St, Riverlands, Blenheim/ Through our years of experience, we have bee
+Phone=0800222906
+Data0=(-41.52926,174.00646)
+[END]
+
+;1204493
+[POI]
+Type=0x2f
+Label=?KIWI BOX REFRIGERATED CONTAINERS - GREYMOUTH
+StreetDesc=Arney St, Greymouth/ Our second hand shipping containers range in temperature fr
+Phone=0800222906
+Data0=(-42.44933,171.20363)
+[END]
+
+;1204494
+[POI]
+Type=0x2f
+Label=KIWI BOX REFRIGERATED CONTAINERS - CROMWELL
+StreetDesc=28 McNulty Rd, Cromwell/ Our shipping containers are perfect for both short term
+Phone=0800222906
+Data0=(-45.05001,169.18816)
+[END]
+
+;1204495
+[POI]
+Type=0x2f
+Label=?KIWI BOX REFRIGERATED CONTAINERS - ALEXANDRA
+StreetDesc=103 Dunstan Rd, Alexandra/ We have a range of temperature controlled shipping co
+Phone=0800222906
+Data0=(-45.24013,169.38917)
+[END]
+
+;1204496
+[POI]
+Type=0x2f
+Label=KIWI BOX REFRIGERATED CONTAINERS - DUNEDIN
+StreetDesc=220 Fryatt St, Dud/ We have utilised our second hand shipping containers to meet
+Phone=0800222906
+Data0=(-45.87296,170.52316)
+[END]
+
+;1204497
+[POI]
+Type=0x2f
+Label=KIWI BOX REFRIGERATED CONTAINERS - INVERCARGILL
+StreetDesc=230 Scott St, Kingswell/ Our 20ft and 40ft containers are available for hire for
+Phone=0800222906
+Data0=(-46.43793,168.37421)
+[END]
+
+;1204500
+[POI]
+Type=0x2a0e
+Label=CAFE IZONE
+StreetDesc=92 Izone Dr Rolleston 7675/ Cafes
+Phone=+6433474960
+Data0=(-43.58207,172.36975)
+[END]
+
+;1204506
+[POI]
+Type=0x2f
+Label=LOUISE MCLEAVEY
+StreetDesc=130 Colombo St Sydenham 8023/ Real Estate, Land Agent, Agent, listings, Sold ,Ha
+Phone=+21820610
+zip=9.30am to 10.30pm 7 days
+Data0=(-43.55829,172.63723)
+[END]
+
+;1204519
+[POI]
+Type=0x2a
+Label=ISUSHI
+StreetDesc=9 Gerald St, Lincoln/ Japanese Sushi and donburi Bar. Phone orders welcome
+Phone=+6433253260
+zip=Mon-Fri 9:30am - 8:00pm, Sat 10:30am - 8
+Data0=(-43.64051,172.48376)
+[END]
+
+;1204530
+[POI]
+Type=0x2d02
+Label=BOWL & JACK TAVERN BAR & GRILL
+StreetDesc=15 Opawa Rd, Opawa, Chc/ Bar, Restaurant, TAB, Gaming Room, Pool Table, Live Ban
+Phone=+6433776223
+Data0=(-43.54756,172.65473)
+[END]
+
+;1204533
+[POI]
+Type=0x2a
+Label=?PERSIAN KITCHEN
+StreetDesc=325 Stanmore Rd, Richmond, Chc/ Licensed cafe, restaurant and bar. Ancient Persi
+Phone=+6433890400
+Data0=(-43.51882,172.65612)
+[END]
+
+;1204540
+[POI]
+Type=0x2f
+Label=EMPLOYMENT LAWYER - SIMON GRAHAM
+StreetDesc=134 Victoria St, Chc/ Employment disputes, personal grievance, redundancy, unlaw
+zip=8.30am - 5pm
+Data0=(-43.52184,172.62933)
 [END]
 

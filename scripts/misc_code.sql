@@ -121,3 +121,28 @@ BEGIN
 END;
 $BODY$
   LANGUAGE plpgsql
+  
+create or replace function gt_splitline2(roadid integer, linzid integer, line geometry, nodes character varying[]) returns set of record as $$
+DECLARE 
+	j smallint;
+	nlines geometry(LineString,2193)[];
+	
+BEGIN
+	for i in 1.. array_length(nodes,1) loop
+		j = nodes[i][1]::integer;
+		nlines[i] = ST_MakeLine(ST_PointN(line,j+1),ST_PointN(line,j+2));
+		j=j+1;
+		while j < ST_NPoints(line) and j < nodes[i+1][1]::integer loop
+			j = j + 1;
+			nlines[i] = ST_AddPoint(nlines[i],ST_PointN(line,j),-1);
+		end loop;
+	end loop;
+	return nlines;
+END;
+$$ language plpgsql;
+
+create type numberedline as
+(
+  line geometry(LineString,2193),
+  nodes character varying[7]
+);

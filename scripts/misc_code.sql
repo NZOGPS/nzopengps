@@ -34,6 +34,7 @@ CREATE INDEX idx_ak_rna_id ON "Auckland-Nums" USING btree (rna_id);
 ALTER TABLE "Auckland-Nums" ADD COLUMN nztm geometry(Point,2193);
 update "Auckland-Nums" set nztm = st_transform(the_geom,2193);
 
+
 Create table "Southland-Nums" as select * from "nz-street-address-elector" where st_y(the_geom)<-45.055931 and st_y(the_geom)>-47.450901;
 
 Alter table "Southland-Nums" add primary key (gid);
@@ -47,7 +48,6 @@ Alter Table "Southland-Nums" Add Column asnum_roadid numeric(10);
 Alter Table "Southland-Nums" Add Column asnum_segment smallint;
 Alter Table "Southland-Nums" Add Column asnum_distance double precision;
 Alter Table "Southland-Nums" Add Column asnum_position geometry(Point,2193);
-
 
 Alter Table "Southland-Nums" Add Column isect_side smallint;
 Alter Table "Southland-Nums" Add Column isect_roadid numeric(10);
@@ -166,6 +166,7 @@ Alter Table "Southland-numberlines" Add Column leftpoly geometry(polygon,2193);
 Alter Table "Southland-numberlines" Add Column rightpoly geometry(polygon,2193);
 update "Southland-numberlines" set rightpoly = st_makepolygon(st_addpoint(st_makeline(nztm_line,st_offsetcurve(nztm_line,-100)),st_startpoint(nztm_line))) where linzid>0 and ST_NumGeometries(st_offsetcurve(nztm_line,-100))=1;
 update "Southland-numberlines" set leftpoly = st_makepolygon(st_addpoint(st_makeline(nztm_line,st_reverse(st_offsetcurve(nztm_line,100))),st_startpoint(nztm_line))) where linzid>0 and ST_NumGeometries(st_offsetcurve(nztm_line,100))=1;
+
 update "Southland-Nums" set asnum_roadid = -1 from "SouthlandPaperNumbers" where  "Southland-Nums".rna_id = "SouthlandPaperNumbers".linzid and gt_within(range_low,start,"end",type) 
 select address,rna_id from "Southland-Nums", "Southland-numberlines" where  "Southland-Nums".rna_id = "Southland-numberlines".linzid and gt_within(range_low,lstart,"lend",ltype) and "Southland-Nums".asnum_roadid=-1
 update "Southland-Nums" set asnum_roadid="Southland-numberlines".gid,asnum_side=-1,asnum_segment=nnum  from "Southland-numberlines" where  "Southland-Nums".rna_id = "Southland-numberlines".linzid and gt_within(range_low,lstart,"lend",ltype) ;
@@ -184,5 +185,252 @@ update "Southland-Nums" set asnum_distance=gt_distance(range_low,asnum_side,lsta
 update "Southland-Nums" set asnum_distance=gt_distance(range_low,asnum_side,rstart,rend) from "Southland-numberlines" where "Southland-numberlines".gid=asnum_roadid and asnum_side=1;
 update "Southland-Nums" set asnum_position=ST_Line_Interpolate_Point(nztm_line,asnum_distance) from "Southland-numberlines" where "Southland-numberlines".gid=asnum_roadid;
 update "Southland-Nums" set asnum_dist_err=ST_Distance(nztm,asnum_position) ;
-update "Southland-Nums" set isect_side=1, isect_roadid="Southland-numberlines".gid from "Southland-numberlines" where rna_id=linzid and ST_Intersects(nztm,rightpoly) and asnum_side=-1;
-update "Southland-Nums" set isect_side=-1, isect_roadid="Southland-numberlines".gid from "Southland-numberlines" where rna_id=linzid and ST_Intersects(nztm,leftpoly) and asnum_side=-1;
+update "Southland-Nums" set isect_side=1, isect_roadid="Southland-numberlines".gid from "Southland-numberlines" where rna_id=linzid and ST_Intersects(nztm,rightpoly);
+update "Southland-Nums" set isect_side=-1, isect_roadid="Southland-numberlines".gid from "Southland-numberlines" where rna_id=linzid and ST_Intersects(nztm,leftpoly);
+select address,st_y(the_geom),st_x(the_geom) from "Southland-Nums" where asnum_roadid = isect_roadid and asnum_side*isect_side=-1
+ copy(select st_x(the_geom),st_y(the_geom),address,'Wrong Side' from "Southland-Nums" where asnum_roadid = isect_roadid and asnum_side*isect_side=-1) to 'C:\Gary\NZOGPS\nzopengps\scripts\Southland-Wrongside.csv' with CSV;
+
+
+Alter Table "Canterbury-numberlines" Add Column nztm_line geometry(LineString,2193);
+Update "Canterbury-numberlines" set nztm_line = st_transform(the_geom,2193);
+Alter Table "Canterbury-numberlines" Add Column leftpoly geometry(polygon,2193);
+Alter Table "Canterbury-numberlines" Add Column rightpoly geometry(polygon,2193);
+update "Canterbury-numberlines" set rightpoly = st_makepolygon(st_addpoint(st_makeline(nztm_line,st_offsetcurve(nztm_line,-100)),st_startpoint(nztm_line))) where linzid>0 and ST_NumGeometries(st_offsetcurve(nztm_line,-100))=1;
+update "Canterbury-numberlines" set leftpoly = st_makepolygon(st_addpoint(st_makeline(nztm_line,st_reverse(st_offsetcurve(nztm_line,100))),st_startpoint(nztm_line))) where linzid>0 and ST_NumGeometries(st_offsetcurve(nztm_line,100))=1;
+
+
+Create table "Canterbury-Nums" as select * from "nz-street-address-elector" where st_y(the_geom)<-42.731949 and st_y(the_geom)>-45.055931 and st_x(the_geom) > 0;
+
+Alter table "Canterbury-Nums" add primary key (gid);
+Create Index idx_can_rna_id ON "Canterbury-Nums" USING btree (rna_id);
+
+Alter Table "Canterbury-Nums" Add Column  nztm geometry(Point,2193);
+update "Canterbury-Nums" set nztm = st_transform(the_geom,2193);
+
+Alter Table "Canterbury-Nums" Add Column asnum_side smallint;
+Alter Table "Canterbury-Nums" Add Column asnum_roadid numeric(10);
+Alter Table "Canterbury-Nums" Add Column asnum_segment smallint;
+Alter Table "Canterbury-Nums" Add Column asnum_distance double precision;
+Alter Table "Canterbury-Nums" Add Column asnum_position geometry(Point,2193);
+
+Alter Table "Canterbury-Nums" Add Column isect_side smallint;
+Alter Table "Canterbury-Nums" Add Column isect_roadid numeric(10);
+Alter Table "Canterbury-Nums" Add Column isect_segment smallint;
+Alter Table "Canterbury-Nums" Add Column isect_distance double precision;
+Alter Table "Canterbury-Nums" Add Column asnum_dist_err double precision;
+
+update "Canterbury-Nums" set asnum_roadid="Canterbury-numberlines".gid,asnum_side=-1,asnum_segment=nnum  from "Canterbury-numberlines" where  "Canterbury-Nums".rna_id = "Canterbury-numberlines".linzid and gt_within(range_low,lstart,lend,ltype) ;
+update "Canterbury-Nums" set asnum_roadid="Canterbury-numberlines".gid,asnum_side=1,asnum_segment=nnum  from "Canterbury-numberlines" where  "Canterbury-Nums".rna_id = "Canterbury-numberlines".linzid and gt_within(range_low,rstart,rend,rtype) ;
+update "Canterbury-Nums" set asnum_distance=gt_distance(range_low,asnum_side,lstart,lend) from "Canterbury-numberlines" where "Canterbury-numberlines".gid=asnum_roadid and asnum_side=-1;
+update "Canterbury-Nums" set asnum_distance=gt_distance(range_low,asnum_side,rstart,rend) from "Canterbury-numberlines" where "Canterbury-numberlines".gid=asnum_roadid and asnum_side=1;
+update "Canterbury-Nums" set asnum_position=ST_Line_Interpolate_Point(nztm_line,asnum_distance) from "Canterbury-numberlines" where "Canterbury-numberlines".gid=asnum_roadid;
+update "Canterbury-Nums" set asnum_dist_err=ST_Distance(nztm,asnum_position) ;
+update "Canterbury-Nums" set isect_side=1, isect_roadid="Canterbury-numberlines".gid from "Canterbury-numberlines" where rna_id=linzid and ST_Intersects(nztm,rightpoly);
+update "Canterbury-Nums" set isect_side=-1, isect_roadid="Canterbury-numberlines".gid from "Canterbury-numberlines" where rna_id=linzid and ST_Intersects(nztm,leftpoly);
+
+
+Alter Table "Tasman-numberlines" Add Column nztm_line geometry(LineString,2193);
+Update "Tasman-numberlines" set nztm_line = st_transform(the_geom,2193);
+Alter Table "Tasman-numberlines" Add Column leftpoly geometry(polygon,2193);
+Alter Table "Tasman-numberlines" Add Column rightpoly geometry(polygon,2193);
+update "Tasman-numberlines" set rightpoly = st_makepolygon(st_addpoint(st_makeline(nztm_line,st_offsetcurve(nztm_line,-100)),st_startpoint(nztm_line))) where linzid>0 and ST_NumGeometries(st_offsetcurve(nztm_line,-100))=1;
+update "Tasman-numberlines" set leftpoly = st_makepolygon(st_addpoint(st_makeline(nztm_line,st_reverse(st_offsetcurve(nztm_line,100))),st_startpoint(nztm_line))) where linzid>0 and ST_NumGeometries(st_offsetcurve(nztm_line,100))=1;
+
+
+Create table "Tasman-Nums" as select * from "nz-street-address-elector" where st_y(the_geom)<-40.407970 and st_y(the_geom)>-41.703838 and st_x(the_geom) <174.561661;
+
+Alter table "Tasman-Nums" add primary key (gid);
+Create Index idx_tas_rna_id ON "Tasman-Nums" USING btree (rna_id);
+
+Alter Table "Tasman-Nums" Add Column  nztm geometry(Point,2193);
+update "Tasman-Nums" set nztm = st_transform(the_geom,2193);
+
+Alter Table "Tasman-Nums" Add Column asnum_side smallint;
+Alter Table "Tasman-Nums" Add Column asnum_roadid numeric(10);
+Alter Table "Tasman-Nums" Add Column asnum_segment smallint;
+Alter Table "Tasman-Nums" Add Column asnum_distance double precision;
+Alter Table "Tasman-Nums" Add Column asnum_position geometry(Point,2193);
+
+Alter Table "Tasman-Nums" Add Column isect_side smallint;
+Alter Table "Tasman-Nums" Add Column isect_roadid numeric(10);
+Alter Table "Tasman-Nums" Add Column isect_segment smallint;
+Alter Table "Tasman-Nums" Add Column isect_distance double precision;
+Alter Table "Tasman-Nums" Add Column asnum_dist_err double precision;
+
+update "Tasman-Nums" set asnum_roadid="Tasman-numberlines".gid,asnum_side=-1,asnum_segment=nnum  from "Tasman-numberlines" where  "Tasman-Nums".rna_id = "Tasman-numberlines".linzid and gt_within(range_low,lstart,lend,ltype) ;
+update "Tasman-Nums" set asnum_roadid="Tasman-numberlines".gid,asnum_side=1,asnum_segment=nnum  from "Tasman-numberlines" where  "Tasman-Nums".rna_id = "Tasman-numberlines".linzid and gt_within(range_low,rstart,rend,rtype) ;
+update "Tasman-Nums" set asnum_distance=gt_distance(range_low,asnum_side,lstart,lend) from "Tasman-numberlines" where "Tasman-numberlines".gid=asnum_roadid and asnum_side=-1;
+update "Tasman-Nums" set asnum_distance=gt_distance(range_low,asnum_side,rstart,rend) from "Tasman-numberlines" where "Tasman-numberlines".gid=asnum_roadid and asnum_side=1;
+update "Tasman-Nums" set asnum_position=ST_Line_Interpolate_Point(nztm_line,asnum_distance) from "Tasman-numberlines" where "Tasman-numberlines".gid=asnum_roadid;
+update "Tasman-Nums" set asnum_dist_err=ST_Distance(nztm,asnum_position) ;
+update "Tasman-Nums" set isect_side=1, isect_roadid="Tasman-numberlines".gid from "Tasman-numberlines" where rna_id=linzid and ST_Intersects(nztm,rightpoly);
+update "Tasman-Nums" set isect_side=-1, isect_roadid="Tasman-numberlines".gid from "Tasman-numberlines" where rna_id=linzid and ST_Intersects(nztm,leftpoly);
+
+copy(select st_x(the_geom),st_y(the_geom),address,'Wrong Side' from "Tasman-Nums" where asnum_roadid = isect_roadid and asnum_side*isect_side=-1) to 'C:\Gary\NZOGPS\nzopengps\scripts\Tasman-Wrongside.csv' with CSV;
+
+Alter Table "Wellington-numberlines" Add Column nztm_line geometry(LineString,2193);
+Update "Wellington-numberlines" set nztm_line = st_transform(the_geom,2193);
+Alter Table "Wellington-numberlines" Add Column leftpoly geometry(polygon,2193);
+Alter Table "Wellington-numberlines" Add Column rightpoly geometry(polygon,2193);
+update "Wellington-numberlines" set rightpoly = st_makepolygon(st_addpoint(st_makeline(nztm_line,st_offsetcurve(nztm_line,-100)),st_startpoint(nztm_line))) where linzid>0 and ST_NumGeometries(st_offsetcurve(nztm_line,-100))=1;
+update "Wellington-numberlines" set leftpoly = st_makepolygon(st_addpoint(st_makeline(nztm_line,st_reverse(st_offsetcurve(nztm_line,100))),st_startpoint(nztm_line))) where linzid>0 and ST_NumGeometries(st_offsetcurve(nztm_line,100))=1;
+
+Create table "Wellington-Nums" as select * from "nz-street-address-elector" where st_y(the_geom)<-40.170971 and st_y(the_geom)>-41.703838 and st_x(the_geom) >174.561661;
+
+Alter table "Wellington-Nums" add primary key (gid);
+Create Index idx_wlg_rna_id ON "Wellington-Nums" USING btree (rna_id);
+
+Alter Table "Wellington-Nums" Add Column  nztm geometry(Point,2193);
+update "Wellington-Nums" set nztm = st_transform(the_geom,2193);
+
+Alter Table "Wellington-Nums" Add Column asnum_side smallint;
+Alter Table "Wellington-Nums" Add Column asnum_roadid numeric(10);
+Alter Table "Wellington-Nums" Add Column asnum_segment smallint;
+Alter Table "Wellington-Nums" Add Column asnum_distance double precision;
+Alter Table "Wellington-Nums" Add Column asnum_position geometry(Point,2193);
+
+Alter Table "Wellington-Nums" Add Column isect_side smallint;
+Alter Table "Wellington-Nums" Add Column isect_roadid numeric(10);
+Alter Table "Wellington-Nums" Add Column isect_segment smallint;
+Alter Table "Wellington-Nums" Add Column isect_distance double precision;
+Alter Table "Wellington-Nums" Add Column asnum_dist_err double precision;
+
+update "Wellington-Nums" set asnum_roadid="Wellington-numberlines".gid,asnum_side=-1,asnum_segment=nnum  from "Wellington-numberlines" where  "Wellington-Nums".rna_id = "Wellington-numberlines".linzid and gt_within(range_low,lstart,lend,ltype) ;
+update "Wellington-Nums" set asnum_roadid="Wellington-numberlines".gid,asnum_side=1,asnum_segment=nnum  from "Wellington-numberlines" where  "Wellington-Nums".rna_id = "Wellington-numberlines".linzid and gt_within(range_low,rstart,rend,rtype) ;
+update "Wellington-Nums" set asnum_distance=gt_distance(range_low,asnum_side,lstart,lend) from "Wellington-numberlines" where "Wellington-numberlines".gid=asnum_roadid and asnum_side=-1;
+update "Wellington-Nums" set asnum_distance=gt_distance(range_low,asnum_side,rstart,rend) from "Wellington-numberlines" where "Wellington-numberlines".gid=asnum_roadid and asnum_side=1;
+update "Wellington-Nums" set asnum_position=ST_Line_Interpolate_Point(nztm_line,asnum_distance) from "Wellington-numberlines" where "Wellington-numberlines".gid=asnum_roadid;
+update "Wellington-Nums" set asnum_dist_err=ST_Distance(nztm,asnum_position) ;
+update "Wellington-Nums" set isect_side=1, isect_roadid="Wellington-numberlines".gid from "Wellington-numberlines" where rna_id=linzid and ST_Intersects(nztm,rightpoly);
+update "Wellington-Nums" set isect_side=-1, isect_roadid="Wellington-numberlines".gid from "Wellington-numberlines" where rna_id=linzid and ST_Intersects(nztm,leftpoly);
+
+
+Create table "Central-Nums" as select * from "nz-street-address-elector" where st_y(the_geom)<-38.638100 and st_y(the_geom)>-40.170971;
+
+Alter table "Central-Nums" add primary key (gid);
+Create Index idx_ctl_rna_id ON "Central-Nums" USING btree (rna_id);
+
+Alter Table "Central-Nums" Add Column  nztm geometry(Point,2193);
+update "Central-Nums" set nztm = st_transform(the_geom,2193);
+
+Alter Table "Central-Nums" Add Column asnum_side smallint;
+Alter Table "Central-Nums" Add Column asnum_roadid numeric(10);
+Alter Table "Central-Nums" Add Column asnum_segment smallint;
+Alter Table "Central-Nums" Add Column asnum_distance double precision;
+Alter Table "Central-Nums" Add Column asnum_position geometry(Point,2193);
+
+Alter Table "Central-Nums" Add Column isect_side smallint;
+Alter Table "Central-Nums" Add Column isect_roadid numeric(10);
+Alter Table "Central-Nums" Add Column isect_segment smallint;
+Alter Table "Central-Nums" Add Column isect_distance double precision;
+Alter Table "Central-Nums" Add Column asnum_dist_err double precision;
+
+update "Central-Nums" set asnum_roadid="Central-numberlines".gid,asnum_side=-1,asnum_segment=nnum  from "Central-numberlines" where  "Central-Nums".rna_id = "Central-numberlines".linzid and gt_within(range_low,lstart,lend,ltype) ;
+update "Central-Nums" set asnum_roadid="Central-numberlines".gid,asnum_side=1,asnum_segment=nnum  from "Central-numberlines" where  "Central-Nums".rna_id = "Central-numberlines".linzid and gt_within(range_low,rstart,rend,rtype) ;
+update "Central-Nums" set asnum_distance=gt_distance(range_low,asnum_side,lstart,lend) from "Central-numberlines" where "Central-numberlines".gid=asnum_roadid and asnum_side=-1;
+update "Central-Nums" set asnum_distance=gt_distance(range_low,asnum_side,rstart,rend) from "Central-numberlines" where "Central-numberlines".gid=asnum_roadid and asnum_side=1;
+update "Central-Nums" set asnum_position=ST_Line_Interpolate_Point(nztm_line,asnum_distance) from "Central-numberlines" where "Central-numberlines".gid=asnum_roadid;
+update "Central-Nums" set asnum_dist_err=ST_Distance(nztm,asnum_position) ;
+update "Central-Nums" set isect_side=1, isect_roadid="Central-numberlines".gid from "Central-numberlines" where rna_id=linzid and ST_Intersects(nztm,rightpoly);
+update "Central-Nums" set isect_side=-1, isect_roadid="Central-numberlines".gid from "Central-numberlines" where rna_id=linzid and ST_Intersects(nztm,leftpoly);
+
+
+
+Create table "Waikato-Nums" as select * from "nz-street-address-elector" where st_y(the_geom)<-37.105228 and st_y(the_geom)>-38.638100;
+
+Alter table "Waikato-Nums" add primary key (gid);
+Create Index idx_wkt_rna_id ON "Waikato-Nums" USING btree (rna_id);
+
+Alter Table "Waikato-Nums" Add Column  nztm geometry(Point,2193);
+update "Waikato-Nums" set nztm = st_transform(the_geom,2193);
+
+Alter Table "Waikato-Nums" Add Column asnum_side smallint;
+Alter Table "Waikato-Nums" Add Column asnum_roadid numeric(10);
+Alter Table "Waikato-Nums" Add Column asnum_segment smallint;
+Alter Table "Waikato-Nums" Add Column asnum_distance double precision;
+Alter Table "Waikato-Nums" Add Column asnum_position geometry(Point,2193);
+
+Alter Table "Waikato-Nums" Add Column isect_side smallint;
+Alter Table "Waikato-Nums" Add Column isect_roadid numeric(10);
+Alter Table "Waikato-Nums" Add Column isect_segment smallint;
+Alter Table "Waikato-Nums" Add Column isect_distance double precision;
+Alter Table "Waikato-Nums" Add Column asnum_dist_err double precision;
+
+update "Waikato-Nums" set asnum_roadid="Waikato-numberlines".gid,asnum_side=-1,asnum_segment=nnum  from "Waikato-numberlines" where  "Waikato-Nums".rna_id = "Waikato-numberlines".linzid and gt_within(range_low,lstart,lend,ltype) ;
+update "Waikato-Nums" set asnum_roadid="Waikato-numberlines".gid,asnum_side=1,asnum_segment=nnum  from "Waikato-numberlines" where  "Waikato-Nums".rna_id = "Waikato-numberlines".linzid and gt_within(range_low,rstart,rend,rtype) ;
+update "Waikato-Nums" set asnum_distance=gt_distance(range_low,asnum_side,lstart,lend) from "Waikato-numberlines" where "Waikato-numberlines".gid=asnum_roadid and asnum_side=-1;
+update "Waikato-Nums" set asnum_distance=gt_distance(range_low,asnum_side,rstart,rend) from "Waikato-numberlines" where "Waikato-numberlines".gid=asnum_roadid and asnum_side=1;
+update "Waikato-Nums" set asnum_position=ST_Line_Interpolate_Point(nztm_line,asnum_distance) from "Waikato-numberlines" where "Waikato-numberlines".gid=asnum_roadid;
+update "Waikato-Nums" set asnum_dist_err=ST_Distance(nztm,asnum_position) ;
+update "Waikato-Nums" set isect_side=1, isect_roadid="Waikato-numberlines".gid from "Waikato-numberlines" where rna_id=linzid and ST_Intersects(nztm,rightpoly);
+update "Waikato-Nums" set isect_side=-1, isect_roadid="Waikato-numberlines".gid from "Waikato-numberlines" where rna_id=linzid and ST_Intersects(nztm,leftpoly);
+
+
+
+Create table "Auckland-Nums" as select * from "nz-street-address-elector" where st_y(the_geom)<-35.572380 and st_y(the_geom)>-37.105228;
+
+Alter table "Auckland-Nums" add primary key (gid);
+Create Index idx_akl_rna_id ON "Auckland-Nums" USING btree (rna_id);
+
+Alter Table "Auckland-Nums" Add Column  nztm geometry(Point,2193);
+update "Auckland-Nums" set nztm = st_transform(the_geom,2193);
+
+Alter Table "Auckland-Nums" Add Column asnum_side smallint;
+Alter Table "Auckland-Nums" Add Column asnum_roadid numeric(10);
+Alter Table "Auckland-Nums" Add Column asnum_segment smallint;
+Alter Table "Auckland-Nums" Add Column asnum_distance double precision;
+Alter Table "Auckland-Nums" Add Column asnum_position geometry(Point,2193);
+
+Alter Table "Auckland-Nums" Add Column isect_side smallint;
+Alter Table "Auckland-Nums" Add Column isect_roadid numeric(10);
+Alter Table "Auckland-Nums" Add Column isect_segment smallint;
+Alter Table "Auckland-Nums" Add Column isect_distance double precision;
+Alter Table "Auckland-Nums" Add Column asnum_dist_err double precision;
+
+update "Auckland-Nums" set asnum_roadid="Auckland-numberlines".gid,asnum_side=-1,asnum_segment=nnum  from "Auckland-numberlines" where  "Auckland-Nums".rna_id = "Auckland-numberlines".linzid and gt_within(range_low,lstart,lend,ltype) ;
+update "Auckland-Nums" set asnum_roadid="Auckland-numberlines".gid,asnum_side=1,asnum_segment=nnum  from "Auckland-numberlines" where  "Auckland-Nums".rna_id = "Auckland-numberlines".linzid and gt_within(range_low,rstart,rend,rtype) ;
+update "Auckland-Nums" set asnum_distance=gt_distance(range_low,asnum_side,lstart,lend) from "Auckland-numberlines" where "Auckland-numberlines".gid=asnum_roadid and asnum_side=-1;
+update "Auckland-Nums" set asnum_distance=gt_distance(range_low,asnum_side,rstart,rend) from "Auckland-numberlines" where "Auckland-numberlines".gid=asnum_roadid and asnum_side=1;
+update "Auckland-Nums" set asnum_position=ST_Line_Interpolate_Point(nztm_line,asnum_distance) from "Auckland-numberlines" where "Auckland-numberlines".gid=asnum_roadid;
+update "Auckland-Nums" set asnum_dist_err=ST_Distance(nztm,asnum_position) ;
+update "Auckland-Nums" set isect_side=1, isect_roadid="Auckland-numberlines".gid from "Auckland-numberlines" where rna_id=linzid and ST_Intersects(nztm,rightpoly);
+update "Auckland-Nums" set isect_side=-1, isect_roadid="Auckland-numberlines".gid from "Auckland-numberlines" where rna_id=linzid and ST_Intersects(nztm,leftpoly);
+
+
+Alter Table "Northland-numberlines" Add Column nztm_line geometry(LineString,2193);
+Update "Northland-numberlines" set nztm_line = st_transform(the_geom,2193);
+Alter Table "Northland-numberlines" Add Column leftpoly geometry(polygon,2193);
+Alter Table "Northland-numberlines" Add Column rightpoly geometry(polygon,2193);
+update "Northland-numberlines" set rightpoly = st_makepolygon(st_addpoint(st_makeline(nztm_line,st_offsetcurve(nztm_line,-100)),st_startpoint(nztm_line))) where linzid>0 and ST_NumGeometries(st_offsetcurve(nztm_line,-100))=1;
+update "Northland-numberlines" set leftpoly = st_makepolygon(st_addpoint(st_makeline(nztm_line,st_reverse(st_offsetcurve(nztm_line,100))),st_startpoint(nztm_line))) where linzid>0 and ST_NumGeometries(st_offsetcurve(nztm_line,100))=1;
+
+Create table "Northland-Nums" as select * from "nz-street-address-elector" where  st_y(the_geom)> -35.572380;
+
+Alter table "Northland-Nums" add primary key (gid);
+Create Index idx_nth_rna_id ON "Northland-Nums" USING btree (rna_id);
+
+Alter Table "Northland-Nums" Add Column  nztm geometry(Point,2193);
+update "Northland-Nums" set nztm = st_transform(the_geom,2193);
+
+Alter Table "Northland-Nums" Add Column asnum_side smallint;
+Alter Table "Northland-Nums" Add Column asnum_roadid numeric(10);
+Alter Table "Northland-Nums" Add Column asnum_segment smallint;
+Alter Table "Northland-Nums" Add Column asnum_distance double precision;
+Alter Table "Northland-Nums" Add Column asnum_position geometry(Point,2193);
+
+Alter Table "Northland-Nums" Add Column isect_side smallint;
+Alter Table "Northland-Nums" Add Column isect_roadid numeric(10);
+Alter Table "Northland-Nums" Add Column isect_segment smallint;
+Alter Table "Northland-Nums" Add Column isect_distance double precision;
+Alter Table "Northland-Nums" Add Column asnum_dist_err double precision;
+
+update "Northland-Nums" set asnum_roadid="Northland-numberlines".gid,asnum_side=-1,asnum_segment=nnum  from "Northland-numberlines" where  "Northland-Nums".rna_id = "Northland-numberlines".linzid and gt_within(range_low,lstart,lend,ltype) ;
+update "Northland-Nums" set asnum_roadid="Northland-numberlines".gid,asnum_side=1,asnum_segment=nnum  from "Northland-numberlines" where  "Northland-Nums".rna_id = "Northland-numberlines".linzid and gt_within(range_low,rstart,rend,rtype) ;
+update "Northland-Nums" set asnum_distance=gt_distance(range_low,asnum_side,lstart,lend) from "Northland-numberlines" where "Northland-numberlines".gid=asnum_roadid and asnum_side=-1;
+update "Northland-Nums" set asnum_distance=gt_distance(range_low,asnum_side,rstart,rend) from "Northland-numberlines" where "Northland-numberlines".gid=asnum_roadid and asnum_side=1;
+update "Northland-Nums" set asnum_position=ST_Line_Interpolate_Point(nztm_line,asnum_distance) from "Northland-numberlines" where "Northland-numberlines".gid=asnum_roadid;
+update "Northland-Nums" set asnum_dist_err=ST_Distance(nztm,asnum_position) ;
+update "Northland-Nums" set isect_side=1, isect_roadid="Northland-numberlines".gid from "Northland-numberlines" where rna_id=linzid and ST_Intersects(nztm,rightpoly);
+update "Northland-Nums" set isect_side=-1, isect_roadid="Northland-numberlines".gid from "Northland-numberlines" where rna_id=linzid and ST_Intersects(nztm,leftpoly);
+
+copy(select st_x(the_geom),st_y(the_geom),address,'Wrong Side' from "Northland-Nums" where asnum_roadid = isect_roadid and asnum_side*isect_side=-1) to 'C:\Gary\NZOGPS\nzopengps\scripts\Northland-Wrongside.csv' with CSV;

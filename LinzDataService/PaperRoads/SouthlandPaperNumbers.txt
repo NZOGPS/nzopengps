@@ -39,7 +39,7 @@
 7579	E,16,16	Aparima Place	Riverton (Southland, NZ)	31/08/2011 2:21p.m.
 7593	B,21,40	Fitzroy Street	Wreys Bush (Southland, NZ)	31/08/2011 4:59p.m.
 8567	E,40,42	High Street	Riverton (Southland, NZ)	30/09/2011 4:42p.m.
-8570	B,9,24	Ngata Street	Riverton (Southland, NZ)	1/09/2011 11:28:43 p.m.
+8570	B,17,24	Ngata Street	Riverton (Southland, NZ)	1/09/2011 11:28:43 p.m.
 7672	E,2,2	Lansdowne Crescent	Riverton (Southland, NZ)	31/08/2011 12:23p.m.
 8584	E,50,90	Horrell Road	Eastern Bush (Southland, NZ)	2/09/2011 12:02:16 a.m.
 7816	O,135,135	Daniel Road	Otaitai Bush (Southland, NZ)	1/09/2011 11:33:37 p.m.

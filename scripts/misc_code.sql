@@ -46,11 +46,14 @@ Alter Table "Southland-Nums" Add Column asnum_side smallint;
 Alter Table "Southland-Nums" Add Column asnum_roadid numeric(10);
 Alter Table "Southland-Nums" Add Column asnum_segment smallint;
 Alter Table "Southland-Nums" Add Column asnum_distance double precision;
+Alter Table "Southland-Nums" Add Column asnum_position geometry(Point,2193);
+
 
 Alter Table "Southland-Nums" Add Column isect_side smallint;
 Alter Table "Southland-Nums" Add Column isect_roadid numeric(10);
 Alter Table "Southland-Nums" Add Column isect_segment smallint;
 Alter Table "Southland-Nums" Add Column isect_distance double precision;
+Alter Table "Southland-Nums" Add Column asnum_dist_err double precision;
 
 
 create or replace function gt_splitline(line geometry, nodes character varying[]) returns geometry(LineString,2193)[] as $$
@@ -81,20 +84,31 @@ update "Southland" set numberlines = gt_splitline(nztm_line,numbers[1:nnums][1:1
 select range_low,start,"end",type,address from "Southland-Nums" join "SouthlandPaperNumbers" on "Southland-Nums".rna_id = "SouthlandPaperNumbers".linzid
 select range_low,start,"end",type,address from "Southland-Nums" join "SouthlandPaperNumbers" on "Southland-Nums".rna_id = "SouthlandPaperNumbers".linzid where gt_within(range_low,start,"end",type)
 
-update "Southland-Nums" set asnum_side = 2 from "SouthlandPaperNumbers" where  "Southland-Nums".rna_id = "SouthlandPaperNumbers".linzid and gt_within(range_low,start,"end",type) 
 
 CREATE OR REPLACE FUNCTION gt_within(number integer, start integer, last integer, type character varying)
   RETURNS boolean AS
 $BODY$
 DECLARE 
 	ret boolean;
+	n1 integer;
+	n2 integer;
 	
 BEGIN
+	if last >= start then
+		n1 = start;
+		n2 = last;
+	else
+		n2 = start;
+		n1 = last;	
+	end if;
+	if type = 'N' then
+		return FALSE;
+	end if;
 	if type = 'E' then
 		if mod(number,2)=1 then
 			return FALSE;
 		end if;
-		if number/2 between start/2 and last/2 then
+		if number/2 between n1/2 and n2/2 then
 			return TRUE;
 		else
 			return FALSE;
@@ -104,20 +118,19 @@ BEGIN
 		if mod(number,2)=0 then
 			return FALSE;
 		end if;
-		if (number-1)/2 between (start-1)/2 and (last-1)/2 then
+		if (number-1)/2 between (n1-1)/2 and (n2-1)/2 then
 			return TRUE;
 		else
 			return FALSE;
 		end if;
 	end if;
 	if type = 'B' then
-		if number between start and last then
+		if number between n1 and n2 then
 			return TRUE;
 		else
 			return FALSE;
 		end if;
 	end if;
-
 END;
 $BODY$
   LANGUAGE plpgsql
@@ -146,3 +159,30 @@ create type numberedline as
   line geometry(LineString,2193),
   nodes character varying[7]
 );
+
+Alter Table "Southland-numberlines" Add Column nztm_line geometry(LineString,2193);
+Update "Southland-numberlines" set nztm_line = st_transform(the_geom,2193);
+Alter Table "Southland-numberlines" Add Column leftpoly geometry(polygon,2193);
+Alter Table "Southland-numberlines" Add Column rightpoly geometry(polygon,2193);
+update "Southland-numberlines" set rightpoly = st_makepolygon(st_addpoint(st_makeline(nztm_line,st_offsetcurve(nztm_line,-100)),st_startpoint(nztm_line))) where linzid>0 and ST_NumGeometries(st_offsetcurve(nztm_line,-100))=1;
+update "Southland-numberlines" set leftpoly = st_makepolygon(st_addpoint(st_makeline(nztm_line,st_reverse(st_offsetcurve(nztm_line,100))),st_startpoint(nztm_line))) where linzid>0 and ST_NumGeometries(st_offsetcurve(nztm_line,100))=1;
+update "Southland-Nums" set asnum_roadid = -1 from "SouthlandPaperNumbers" where  "Southland-Nums".rna_id = "SouthlandPaperNumbers".linzid and gt_within(range_low,start,"end",type) 
+select address,rna_id from "Southland-Nums", "Southland-numberlines" where  "Southland-Nums".rna_id = "Southland-numberlines".linzid and gt_within(range_low,lstart,"lend",ltype) and "Southland-Nums".asnum_roadid=-1
+update "Southland-Nums" set asnum_roadid="Southland-numberlines".gid,asnum_side=-1,asnum_segment=nnum  from "Southland-numberlines" where  "Southland-Nums".rna_id = "Southland-numberlines".linzid and gt_within(range_low,lstart,"lend",ltype) ;
+update "Southland-Nums" set asnum_roadid="Southland-numberlines".gid,asnum_side=1,asnum_segment=nnum  from "Southland-numberlines" where  "Southland-Nums".rna_id = "Southland-numberlines".linzid and gt_within(range_low,rstart,"rend",rtype) ;
+
+create or replace function gt_distance(number integer, side integer, n1 integer, n2 integer) returns double precision as $$	
+BEGIN
+	if n1 = n2 then
+		return 0.5;
+	end if;
+	return (number - n1)::double precision/(n2-n1)::double precision;
+END;
+$$ language plpgsql;
+
+update "Southland-Nums" set asnum_distance=gt_distance(range_low,asnum_side,lstart,lend) from "Southland-numberlines" where "Southland-numberlines".gid=asnum_roadid and asnum_side=-1;
+update "Southland-Nums" set asnum_distance=gt_distance(range_low,asnum_side,rstart,rend) from "Southland-numberlines" where "Southland-numberlines".gid=asnum_roadid and asnum_side=1;
+update "Southland-Nums" set asnum_position=ST_Line_Interpolate_Point(nztm_line,asnum_distance) from "Southland-numberlines" where "Southland-numberlines".gid=asnum_roadid;
+update "Southland-Nums" set asnum_dist_err=ST_Distance(nztm,asnum_position) ;
+update "Southland-Nums" set isect_side=1, isect_roadid="Southland-numberlines".gid from "Southland-numberlines" where rna_id=linzid and ST_Intersects(nztm,rightpoly) and asnum_side=-1;
+update "Southland-Nums" set isect_side=-1, isect_roadid="Southland-numberlines".gid from "Southland-numberlines" where rna_id=linzid and ST_Intersects(nztm,leftpoly) and asnum_side=-1;

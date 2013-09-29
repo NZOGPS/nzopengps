@@ -1,7 +1,7 @@
-@echo off
+@echo on
 if xx%1xx==xxxx echo tile not specified. Usage process tile tilename & goto :eof
-if not exist %nzogps_base%\%1.mp echo %nzogps_base%\%1.mp not found & goto :eof
 if xx%nzogps_psql_bin%xx==xxxx echo NZOGPS Environment Variables not set - run setlocals.bat & goto :eof
+if not exist %nzogps_base%\%1.mp echo %nzogps_base%\%1.mp not found & goto :eof
 set nzogps_psqlc=%nzogps_psql_bin%psql -U postgres -d nzopengps
 
 if /i %1 equ Northland	%nzogps_psqlc% -c "drop table if exists %1_nums; Create table %1_Nums as select * from \"nz-street-address-elector\" where st_y(the_geom)> -35.572380;"
@@ -15,10 +15,8 @@ if /i %1 equ Southland	%nzogps_psqlc% -c "drop table if exists %1_nums; Create t
 
 %nzogps_psqlc% -v numstable=%1_nums  -f postpro-nums.sql
 
-rem after this has not been tested
-
 mp_2_n_sql.pl %nzogps_base%\%1.mp
-%nzogps_psqlc%   -f %1-numlines.sql
+%nzogps_psqlc%   -f %1_numberlines.sql
 %nzogps_psqlc% -v linestable=%1_numberlines -v distance=100 -f postpro-lines.sql
 %nzogps_psqlc% -v linestable=%1_numberlines  -v numstable=%1_nums -v outfile='%nzogps_base%\scripts\wrongside\%1-WrongSide.csv' -f intersect.sql
 

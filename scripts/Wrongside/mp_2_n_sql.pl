@@ -373,10 +373,11 @@ sub write_sql {
 	my $j;
 	my $jmax;
 	my $first = 1;
-	open(SQLFILE, '>', "${basefile}-numberlines.sql") or die "can't create sql file\n";
-	print SQLFILE "DROP TABLE \"${basefile}-numberlines\";\n";
+	my $tablename = "${basefile}_numberlines";
+	open(SQLFILE, '>', "${tablename}.sql") or die "can't create sql file\n";
+	print SQLFILE "DROP TABLE  IF EXISTS ${tablename};\n";
 #	print SQLFILE "BEGIN;\n";
-	print SQLFILE "CREATE TABLE \"${basefile}-numberlines\" (";
+	print SQLFILE "CREATE TABLE ${tablename} (";
 	print SQLFILE "\"gid\"  serial PRIMARY KEY,\n";
 	print SQLFILE "\"roadid\" integer,\n";
 	print SQLFILE "\"label\" varchar(50),\n";
@@ -387,10 +388,10 @@ sub write_sql {
 	print SQLFILE "\"lstart\" integer,\n";
 	print SQLFILE "\"lend\" integer,\n";
 	print SQLFILE "\"rtype\" character(1),\n";
-	print SQLFILE "\"rstart\" integer,\n";
-	print SQLFILE "\"rend\" integer);\n";
-	print SQLFILE "SELECT AddGeometryColumn('','${basefile}-numberlines','the_geom','4167','LINESTRING',2);\n";
-	print SQLFILE "INSERT INTO \"${basefile}-numberlines\" ";
+	print SQLFILE "rstart integer,\n";
+	print SQLFILE "rend integer,\n";
+	print SQLFILE "the_geom geometry(LineString,4167));\n";
+	print SQLFILE "INSERT INTO ${tablename} ";
 	print SQLFILE "(\"roadid\",\"label\",\"type\",linzid,\"nnum\",\"ltype\",\"lstart\",\"lend\",\"rtype\",\"rstart\",\"rend\",the_geom)";
 	print SQLFILE " VALUES \n ";
 	for $road (@roads){

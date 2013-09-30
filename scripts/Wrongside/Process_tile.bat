@@ -1,4 +1,4 @@
-@echo on
+@echo off
 if xx%1xx==xxxx echo tile not specified. Usage process tile tilename & goto :eof
 if xx%nzogps_psql_bin%xx==xxxx echo NZOGPS Environment Variables not set - run setlocals.bat & goto :eof
 if not exist %nzogps_base%\%1.mp echo %nzogps_base%\%1.mp not found & goto :eof

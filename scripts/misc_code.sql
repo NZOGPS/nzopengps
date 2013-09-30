@@ -434,3 +434,8 @@ update "Northland-Nums" set isect_side=1, isect_roadid="Northland-numberlines".g
 update "Northland-Nums" set isect_side=-1, isect_roadid="Northland-numberlines".gid from "Northland-numberlines" where rna_id=linzid and ST_Intersects(nztm,leftpoly);
 
 copy(select st_x(the_geom),st_y(the_geom),address,'Wrong Side' from "Northland-Nums" where asnum_roadid = isect_roadid and asnum_side*isect_side=-1) to 'C:\Gary\NZOGPS\nzopengps\scripts\Northland-Wrongside.csv' with CSV;
+
+select st_length (nztm_line) as len,label,st_y(st_startpoint(the_geom)),st_x(st_startpoint(the_geom)),lstart from canterbury_numberlines where lstart=lend and lstart > 0 order by len desc;
+select st_length (nztm_line) as len,label,st_y(st_startpoint(the_geom)),st_x(st_startpoint(the_geom)),rstart from canterbury_numberlines where rstart=rend and rstart > 0 order by len desc;
+select st_length (nztm_line)/(abs(lstart-lend)) as len,label,st_y(st_startpoint(the_geom)),st_x(st_startpoint(the_geom)),lstart,lend from canterbury_numberlines where lstart<>lend and lstart > 0 order by len desc;
+select st_length (nztm_line)/(abs(rstart-rend)) as len,label,st_y(st_startpoint(the_geom)),st_x(st_startpoint(the_geom)),rstart,rend from canterbury_numberlines where rstart<>rend and rstart > 0 order by len desc;

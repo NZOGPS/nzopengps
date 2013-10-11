@@ -34272,7 +34272,7 @@ Data0=(-42.39309,173.67946)
 ;1097179
 [POI]
 Type=0x3003
-Label=?WORK AND INCOME, LINWOOD COMMUNITY LINK
+Label=WORK AND INCOME, LINWOOD COMMUNITY LINK
 StreetDesc=154 Aldwins Rd, Linwood/ work and income
 Phone=0800559009
 zip=Mon Tue Thu Fri 8:30 am-5:00 pm, Wed 9:3
@@ -67065,9 +67065,9 @@ Data0=(-40.96169,172.95357)
 ;1116844
 [POI]
 Type=0x6402
-Label=?CASTLE ROCKS HUT
+Label=CASTLE ROCKS HUT
 StreetDesc=Westland Ntl Park - South Island > West Coast > Glaciers/ DOC Backcountry hut
-Data0=(-43.45301,170.16622)
+Data0=(-43.45276,170.16578)
 [END]
 
 ;1116845
@@ -67673,9 +67673,9 @@ Data0=(-41.23770,172.68595)
 ;1116943
 [POI]
 Type=0x6402
-Label=?EMPRESS HUT
+Label=EMPRESS HUT
 StreetDesc=Aoraki / Mount Cook Ntl Park - South Island > Canterbury > Aoraki / Mount Cook/ 
-Data0=(-43.59508,170.12115)
+Data0=(-43.59474,170.12177)
 [END]
 
 ;1116944
@@ -67873,9 +67873,9 @@ Data0=(-42.72111,172.28967)
 ;1116971
 [POI]
 Type=0x6402
-Label=?GARDINER HUT
+Label=GARDINER HUT
 StreetDesc=Aoraki / Mount Cook Ntl Park - South Island > Canterbury > Aoraki / Mount Cook/ 
-Data0=(-43.62008,170.11252)
+Data0=(-43.61928,170.11231)
 [END]
 
 ;1116972
@@ -70065,9 +70065,9 @@ Data0=(-43.01148,171.01110)
 ;1117381
 [POI]
 Type=0x6402
-Label=?REARDON HUT
+Label=REARDON HUT
 StreetDesc=Ruataniwha Conservation Park, Twizel Te Manahuna - South Island > Canterbury > M
-Data0=(-43.80179,169.99934)
+Data0=(-43.80295,169.99927)
 [END]
 
 ;1117382
@@ -91646,10 +91646,10 @@ Data0=(-43.64031,172.48474)
 [POI]
 Type=0x2a
 Label=DREXELS BREAKFAST RESTAURANT
-StreetDesc=Rotherham St Riccarton, Chc/ Breakfast Restaurant
+StreetDesc=Westfield Riccarton, Shop 413, L 1, Rotherham St, Riccarton, Chc/ Breakfast Rest
 Phone=+6433798089
 zip=Weekdays 6:30am - 2:00pm Weekends 7:00 -
-Data0=(-43.53135,172.60053)
+Data0=(-43.53113,172.60100)
 [END]
 
 ;1130396
@@ -103655,11 +103655,11 @@ Data0=(-43.64091,172.48253)
 
 ;1132461
 [POI]
-Type=0x2c03
+Type=0x2f
 Label=LINCOLN COMMUNITY TOY LIBRARY INC
 StreetDesc=158 North Belt, Lincoln, Selwyn/ Toy Library
-Phone=+6433798700
-zip=Saturday 9:30am - Noon, and 1st & 3rd We
+Phone=+6421238907
+zip=Saturday 9:30am - Noon
 Data0=(-43.63787,172.48306)
 [END]
 
@@ -117064,9 +117064,10 @@ Data0=(-42.36342,171.41249)
 ;1139080
 [POI]
 Type=0x2f
-Label=R T HAIR DESIGN
+Label=RT HAIR DESIGN
 StreetDesc=2 Albert St, Greymouth/ Hairdresser
-Data0=(-42.44817,171.20951)
+Phone=+6437689269
+Data0=(-42.44807,171.20955)
 [END]
 
 ;1139081
@@ -117074,7 +117075,8 @@ Data0=(-42.44817,171.20951)
 Type=0x2f
 Label=SORBET HAIR COMPANY
 StreetDesc=141 High St, Greymouth/ Hairdresser
-Data0=(-42.46381,171.19485)
+Phone=+6437689502
+Data0=(-42.46366,171.19468)
 [END]
 
 ;1139082
@@ -117082,7 +117084,8 @@ Data0=(-42.46381,171.19485)
 Type=0x2f
 Label=ARTICO HAIR
 StreetDesc=37 Albert St, Greymouth/ Hairdresser
-Data0=(-42.44918,171.20981)
+Phone=+6437685427
+Data0=(-42.44920,171.20974)
 [END]
 
 ;1139083
@@ -117090,25 +117093,18 @@ Data0=(-42.44918,171.20981)
 Type=0x2f
 Label=HAIRWORKS
 StreetDesc=65 Mackay St, Greymouth/ Hairdresser
-Data0=(-42.44853,171.20983)
-[END]
-
-;1139084
-[POI]
-Type=0x2f
-Label=MURRAY GLEN HAIRDRESSERS
-StreetDesc=112 High St, Greymouth/ Hairdresser
-Data0=(-42.46189,171.19717)
+Phone=+6437684906
+Data0=(-42.44859,171.21022)
 [END]
 
 ;1139085
 [POI]
 Type=0x2f
-Label=?STYLIZ HAIR SALON
-StreetDesc=11 nelson St/ Hairdresser
+Label=STYLIZ HAIR SALON
+StreetDesc=11 Nelson St, Greymouth/ Hairdresser
 Phone=+6437684440
 zip=8.30 - 5pm Tuesday,Thursday,Friday. Late
-Data0=(-42.46666,171.19243)
+Data0=(-42.46652,171.19245)
 [END]
 
 ;1139086
@@ -117116,7 +117112,8 @@ Data0=(-42.46666,171.19243)
 Type=0x2f
 Label=PIZZAZZ FOR HAIR
 StreetDesc=37-45 Tainui St, Greymouth/ Hairdresser
-Data0=(-42.44927,171.21126)
+Phone=+6437687492
+Data0=(-42.44929,171.21125)
 [END]
 
 ;1139087
@@ -117124,7 +117121,8 @@ Data0=(-42.44927,171.21126)
 Type=0x2f
 Label=SPLIT ENZ HAIRSTYLISTS
 StreetDesc=27 Mackay St, Greymouth/ Hairdresser
-Data0=(-42.44853,171.20856)
+Phone=+6437680060
+Data0=(-42.44859,171.20845)
 [END]
 
 ;1139088
@@ -135629,7 +135627,7 @@ Data0=(-41.51584,173.86937)
 ;1148434
 [POI]
 Type=0x2F02
-Label=?HERTZ - CHRISTCHURCH AIRPORT 24HR
+Label=?HERTZ CHRISTCHURCH AIRPORT CAR HIRE 24HR
 StreetDesc=Memorial Ave, Chc/ Car Rentals
 Phone=+6433586730
 zip=Mon-Sun 0600-2400
@@ -140669,12 +140667,12 @@ Data0=(-46.32771,168.84267)
 
 ;1152110
 [POI]
-Type=0x2f
-Label=THE GAME STATION
-StreetDesc=3/7 Pilgrim Place, Chc/ NZ's largest game store. The place to rent, buy, and sel
+Type=0x2e
+Label=THE PORTAL
+StreetDesc=Westfield Riccarton, L 1, 129 Riccarton Rd, Riccarton, Chc/ Pop culture merchand
 Phone=+6433666321
 zip=7 days a week, 9:30am until late
-Data0=(-43.54067,172.63864)
+Data0=(-43.53080,172.59801)
 [END]
 
 ;1152113
@@ -141545,7 +141543,7 @@ Data0=(-43.54548,172.61211)
 ;1153010
 [POI]
 Type=0x6404
-Label=SPREYDON BAPTIST CHURCH
+Label=SOUTH WEST BAPTIST CHURCH
 StreetDesc=244 Lyttleton St, Spreydon, Christchuch, Canterbury/ Community Church. Zenbu Wi-
 Phone=+6433384163
 zip=Office hours: 9am - 5pm Monday to Friday
@@ -146976,7 +146974,7 @@ Data0=(-45.84937,170.51073)
 [POI]
 Type=0x6404
 Label=GRACE VINEYARD CHURCH
-StreetDesc=Spreydon Baptist Church, 246 Lyttelton St, Chrstchurch/ Church
+StreetDesc=South West Baptist Church, 246 Lyttelton St, Chrstchurch/ Church
 Phone=+6433798463
 Data0=(-43.55582,172.60781)
 [END]
@@ -161304,16 +161302,6 @@ Phone=08006948626
 Data0=(-43.53054,172.59898)
 [END]
 
-;1165118
-[POI]
-Type=0x2d02
-Label=CIBURB BAR & GRILL
-StreetDesc=15 Opawa Rd/ Bar, Cafe, Tab, Pokies, Pool, Darts, Music, Live Bands
-Phone=+6433776223
-zip=Early till Late
-Data0=(-43.54768,172.65482)
-[END]
-
 ;1165121
 [POI]
 Type=0x2c03
@@ -165618,9 +165606,11 @@ Data0=(-41.52362,173.94564)
 ;1166963
 [POI]
 Type=0x2f
-Label=FAMILY DENTAL CENTRE
+Label=GREYMOUTH FAMILY DENTAL CENTRE
 StreetDesc=38 Albert Mall, Greymouth/ Dentist
-Data0=(-42.44913,171.20962)
+Phone=+6437686243
+zip=Mon-Thu 9am–1pm & 2pm-5pm, Fri 9am–1pm &
+Data0=(-42.44906,171.20954)
 [END]
 
 ;1166967
@@ -165966,7 +165956,9 @@ Data0=(-45.87693,170.34911)
 [POI]
 Type=0x2f
 Label=GORE COUNSELLING CENTRE
-StreetDesc=17 Traford St, Gore/ 
+StreetDesc=17 Traford St, Gore/ Counselling, psychotherapy and Alcohol and Other Drug (AOD)
+Phone=+6432085366
+zip=8:30am - 5:00pm Monday-Thursday
 Data0=(-46.09677,168.94443)
 [END]
 
@@ -187535,9 +187527,9 @@ Data0=(-43.52711,172.64302)
 [POI]
 Type=0x2f
 Label=THE CRYSTAL PEOPLE
-StreetDesc=312a Oxford Tce Chc 8011/ Crystals Stones Minerals Neclaces
+StreetDesc=12c Main North Rd, Papanui, Chc/ Crystals, Stones, Minerals, Necklaces, Incense,
 Phone=+6439303272
-Data0=(-43.52645,172.64447)
+Data0=(-43.49646,172.60813)
 [END]
 
 ;1177264
@@ -196408,10 +196400,10 @@ Data0=(-45.86496,170.48505)
 [POI]
 Type=0x2f
 Label=CHEM DRY OTAGO 24HR
-StreetDesc=7 Mason St Dud/ Superior Carpet and Upholstery Cleaning
-Phone=+6434771444
+StreetDesc=57-59 Rankeilor St, South Dud, New Zealand/ Superior Carpet and Upholstery Clean
+Phone=+6434664660
 zip=24 hour Response
-Data0=(-45.87604,170.51085)
+Data0=(-45.89440,170.50028)
 [END]
 
 ;1183408
@@ -204150,16 +204142,6 @@ zip=Ring Anytime on +6421820610. or 03337131
 Data0=(-43.55807,172.63706)
 [END]
 
-;1192959
-[POI]
-Type=0x2f
-Label=HARCOURTS REAL ESTATE
-StreetDesc=130 Colombo St Beckenham/ listing agent sell house professional top agent award 
-Phone=+21820610
-zip=Ring anytime
-Data0=(-43.55829,172.63723)
-[END]
-
 ;1192960
 [POI]
 Type=0x2f
@@ -204557,7 +204539,7 @@ Data0=(-45.89539,170.36940)
 [POI]
 Type=0x2f
 Label=EUROPICA TILES
-StreetDesc=45 Mandeville St Riccarton , Chc 8011 New Zealand/ Ceramic, porcelain and natura
+StreetDesc=45 Mandeville St Riccarton , Chc 8011 New Zealand/ The best variety of ceramic, 
 Phone=+6433483766
 Data0=(-43.53447,172.60646)
 [END]
@@ -209151,9 +209133,9 @@ Data0=(-43.50785,172.64924)
 [POI]
 Type=0x2a0e
 Label=SODA CAFE AND BAR
-StreetDesc=Fairview place, Fernside 7471, New Zealand/ Cafe
+StreetDesc=305 lehmans Rd rangiora/ Cafe
 Phone=+33107788
-Data0=(-43.30376,172.57653)
+Data0=(-43.29638,172.56319)
 [END]
 
 ;1204388
@@ -209359,16 +209341,6 @@ Phone=+6433474960
 Data0=(-43.58207,172.36975)
 [END]
 
-;1204506
-[POI]
-Type=0x2f
-Label=LOUISE MCLEAVEY
-StreetDesc=130 Colombo St Sydenham 8023/ Real Estate, Land Agent, Agent, listings, Sold ,Ha
-Phone=+21820610
-zip=9.30am to 10.30pm 7 days
-Data0=(-43.55829,172.63723)
-[END]
-
 ;1204519
 [POI]
 Type=0x2a
@@ -209382,7 +209354,7 @@ Data0=(-43.64051,172.48376)
 ;1204530
 [POI]
 Type=0x2d02
-Label=BOWL & JACK TAVERN BAR & GRILL
+Label=OPAWA BOWL & JACK TAVERN
 StreetDesc=15 Opawa Rd, Opawa, Chc/ Bar, Restaurant, TAB, Gaming Room, Pool Table, Live Ban
 Phone=+6433776223
 Data0=(-43.54756,172.65473)
@@ -209404,5 +209376,110 @@ Label=EMPLOYMENT LAWYER - SIMON GRAHAM
 StreetDesc=134 Victoria St, Chc/ Employment disputes, personal grievance, redundancy, unlaw
 zip=8.30am - 5pm
 Data0=(-43.52184,172.62933)
+[END]
+
+;1204563
+[POI]
+Type=0x2f
+Label=BROCKLEBANK DRYCLEANERS DUNEDIN
+StreetDesc=191 King Edward St, South Dud, Dud/ drycleaners
+Phone=+6434554065
+zip=mon,tues,wed, 7:45am-5:30pm, thurs, 7:45
+Data0=(-45.89479,170.49883)
+[END]
+
+;1204564
+[POI]
+Type=0x2a
+Label=DE SOL
+StreetDesc=12 Moray Place, Dud, New Zealand/ Authentic Mexican/Latin America Food
+Phone=+6434777560
+zip=Hours:Monday - Friday, Saturday, Sunday 
+Data0=(-45.87522,170.50246)
+[END]
+
+;1204583
+[POI]
+Type=0x2e07
+Label=INTO JEANS
+StreetDesc=1B Guinness St, Greymouth/ Women's and men's clothing, jeans
+Phone=+6437684118
+Data0=(-42.44971,171.21070)
+[END]
+
+;1204584
+[POI]
+Type=0x2f
+Label=JADE BOULDER GALLERY
+StreetDesc=1 Guinness St, Greymouth/ 
+Phone=+6437680700
+Data0=(-42.44973,171.21078)
+[END]
+
+;1204588
+[POI]
+Type=0x2f
+Label=STACKIT STORAGE SOLUTIONS
+StreetDesc=2A South Belt Rangiora 7400 New Zealand/ Stackit Storage Solutions provide safe,
+Phone=+6433137300
+Data0=(-43.31734,172.60130)
+[END]
+
+;1204591
+[POI]
+Type=0x2F02
+Label=HERTZ DUNEDIN AIRPORT CAR HIRE
+StreetDesc=Miller Rd, Momona, Dud (Dud), 9073/ Car Rentals
+Phone=+6434862778
+zip=Mon-Fri 0700-2100, Sat 0830-1700 Sun 090
+Data0=(-45.92417,170.20009)
+[END]
+
+;1204592
+[POI]
+Type=0x2F02
+Label=?HERTZ QUEENSTOWN AIRPORT CAR HIRE
+StreetDesc=Airport Ave, Frankton, Queenstown/ Car Rentals
+Phone=+6434424106
+zip=Mon-Sun 0830-1730
+Data0=(-45.02169,168.73960)
+[END]
+
+;1204594
+[POI]
+Type=0x2b03
+Label=?VICTORIA PARK CAMPING
+StreetDesc=Corner Naylor St and Tennant St, Waimate/ Tent sites, Power sites, Cabins
+Phone=+6436890000
+Data0=(-44.73731,171.03770)
+[END]
+
+;1204595
+[POI]
+Type=0x2b03
+Label=?KNOTTINGLEY PARK
+StreetDesc=Waiho Back Rd, Waimate/ Tent sites, Power sites, Playground, BBQ
+Phone=+6436890000
+Data0=(-44.75066,171.05457)
+[END]
+
+;1204614
+[POI]
+Type=0x2a
+Label=WINNIE BAGOES PIZZA BAR
+StreetDesc=10 Allen St Chc Central Chc 8011/ Restaurant
+Phone=+6433666315
+zip=Daily from 11.30am for lunch and dinner
+Data0=(-43.53784,172.64000)
+[END]
+
+;1204615
+[POI]
+Type=0x2a0e
+Label=BLACK BETTY
+StreetDesc=165 Madras St Chc Central Chc 8011/ Cafe
+Phone=+6433658522
+zip=7.30am till 4.00pm Monday to Friday, 8.0
+Data0=(-43.53754,172.64240)
 [END]
 

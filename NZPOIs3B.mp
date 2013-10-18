@@ -30473,9 +30473,9 @@ Data0=(-43.49434,172.60864)
 [POI]
 Type=0x2a
 Label=LONE STAR CAFE & BAR DUNEDIN
-StreetDesc=417 Princes St, Dud/ Licensed restaurant & bar
+StreetDesc=484 George St, Dud/ Licensed restaurant & bar
 Phone=+6434741955
-Data0=(-45.88066,170.50024)
+Data0=(-45.86653,170.50836)
 [END]
 
 ;1094188
@@ -34595,7 +34595,7 @@ Data0=(-41.31297,173.23312)
 [POI]
 Type=0x2f
 Label=JULIA SAULSBURY VISION CARE
-StreetDesc=128 Riccarton Rd, Riccarton, Chc 8041/ Optometrist, eye exam, eyewear
+StreetDesc=128 Riccarton Rd, Riccarton, Chc 8041/ Top quality & best value for glasses or c
 Phone=+6433480008
 zip=8:30am - 5:00pm monday to wednesday and 
 Data0=(-43.52975,172.59817)
@@ -38540,9 +38540,10 @@ Data0=(-43.49531,172.56361)
 [POI]
 Type=0x2F02
 Label=AIRPORT RENTALS LTD
-StreetDesc=530 Sawyers Arms Rd, Chc/ car and minibus rental
+StreetDesc=15b Wilkinsons Rd, Harewood, Chc/ car and minibus rental
 Phone=+6433595123
-Data0=(-43.47045,172.56959)
+zip=7.30am - 7.00pm
+Data0=(-43.46543,172.58387)
 [END]
 
 ;1100874
@@ -48053,15 +48054,6 @@ Label=GRANT THORNTON CHRISTCHURCH
 StreetDesc=L 3, 2 Hazeldean Rd, Addington, Chc 8024/ Accounting Firm. Business Consultancy
 Phone=+6433799580
 Data0=(-43.54162,172.61592)
-[END]
-
-;1106357
-[POI]
-Type=0x2f
-Label=GRANT THORNTON OTAGO LTD
-StreetDesc=L 7 Radio Otago House,248 Cumberland St, Dud/ 
-Phone=+6434740475
-Data0=(-45.87585,170.50632)
 [END]
 
 ;1106370
@@ -58532,15 +58524,6 @@ Label=RX PLASTICS LTD - IRRIGATION AND EFFLUENT SYSTEMS
 StreetDesc=445 West St, Ashburton/ Irrigation products, irrigation systems, effluent manage
 Phone=+6433088399
 Data0=(-43.89348,171.76283)
-[END]
-
-;1112822
-[POI]
-Type=0x2f
-Label=RYAN RECRUITMENT LIMITED
-StreetDesc=L 9 ABN AMRO Craigs House, 90 Armagh St, Chc/ 
-Phone=+6433650294
-Data0=(-43.52889,172.63526)
 [END]
 
 ;1112830
@@ -71592,9 +71575,9 @@ Data0=(-43.51510,172.62351)
 [POI]
 Type=0x2b01
 Label=COLONIAL MOTEL
-StreetDesc=143 Mary St, Invercargill/ Motel accommodation, MANZ, SKY
+StreetDesc=143 Mary St, Richmond, Invercargill 9810 Southland/ Accommodation, MANZ, SKY, Ze
 Phone=+6432176119
-Data0=(-46.40772,168.36405)
+Data0=(-46.40770,168.36449)
 [END]
 
 ;1117768
@@ -137797,7 +137780,8 @@ Data0=(-45.74953,168.46722)
 [POI]
 Type=0x2a07
 Label=LUMSDEN TAKEAWAYS
-StreetDesc=62 Garden St, Lumsden/ Takeaway
+StreetDesc=36 Diana St, Lumsden/ Takeaway
+Phone=+6432487776
 Data0=(-45.73578,168.44684)
 [END]
 
@@ -195957,6 +195941,15 @@ StreetDesc=321 Queen St, Richmond, Nelson/ food
 Data0=(-41.33657,173.18134)
 [END]
 
+;1182790
+[POI]
+Type=0x2f
+Label=SCOTTS BREWING COMPANY
+StreetDesc=1 Wansbeck St South Hill Oamaru/ (www.beertourist.co.nz 2010)
+Phone=+6434342244
+Data0=(-45.10479,170.97022)
+[END]
+
 ;1183248
 [POI]
 Type=0x2d02
@@ -209481,5 +209474,32 @@ StreetDesc=165 Madras St Chc Central Chc 8011/ Cafe
 Phone=+6433658522
 zip=7.30am till 4.00pm Monday to Friday, 8.0
 Data0=(-43.53754,172.64240)
+[END]
+
+;1204658
+[POI]
+Type=0x2f
+Label=FUGRO GEOTECHNICAL (NZ)
+StreetDesc=Unit B 32A Birmingham Dr, Middleton, Chc, 8024/ cone penetration test, CPT, seis
+Phone=+6439281690
+zip=8-5:30 Monday to Friday
+Data0=(-43.54253,172.58703)
+[END]
+
+;1204661
+[POI]
+Type=0x2b00
+Label=?MAKARORA RIVER RANCH
+StreetDesc=5766 State Highway 6, Makarora 9382/ Accommodation, farm, hunting, hiking, wilde
+Phone=+34438293
+Data0=(-44.24527,169.22289)
+[END]
+
+;1204667
+[POI]
+Type=0x2a07
+Label=?MCDONALD'S ROLLESTON
+StreetDesc=Kidman St, Rolleston 7614, New Zealand/ Family restaurant. Burgers, fast food, t
+Data0=(-43.59073,172.38137)
 [END]
 

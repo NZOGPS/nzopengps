@@ -714,9 +714,10 @@ EndLevel=1
 CityIdx=25
 RoadID=103
 RouteParam=3,0,0,0,0,0,0,0,0,0,0,0
-Data0=(-34.80368,173.09962),(-34.80310,173.10078),(-34.80265,173.10191),(-34.80222,173.10223),(-34.80157,173.10345)
-Nod1=0,2765,0
-Nod2=4,55,0
+Data0=(-34.80157,173.10345),(-34.80222,173.10223),(-34.80265,173.10191),(-34.80310,173.10078),(-34.80368,173.09962)
+Nod1=0,55,0
+Nod2=4,2765,0
+Numbers1=0,N,-1,-1,E,2,34
 [END]
 
 ;linzid=49893
@@ -1229,36 +1230,6 @@ Data0=(-35.16670,173.15559),(-35.16640,173.15510)
 Nod1=0,2810,0
 Nod2=1,117,0
 Numbers1=0,E,42,42,N,-1,-1
-[END]
-
-;linzid=60011
-;sufi=1030000006441
-[POLYLINE]
-Type=0xa
-Label=BIG FLAT RD
-EndLevel=1
-CityIdx=3
-RoadID=262
-RouteParam=3,0,0,0,0,0,0,0,0,0,0,0
-Data0=(-34.92232,173.17306),(-34.92221,173.17343),(-34.92116,173.17529),(-34.92086,173.17634),(-34.92056,173.17701),(-34.92026,173.17781),(-34.91942,173.17944),(-34.91865,173.18028),(-34.91828,173.18045),(-34.91802,173.18086),(-34.91725,173.18240),(-34.91699,173.18336),(-34.91680,173.18373),(-34.91669,173.18385),(-34.91663,173.18399)
-Nod1=0,149,0
-Nod2=14,160,0
-Numbers1=0,E,134,42,O,73,73
-[END]
-
-;linzid=60011
-;sufi=1030000006441
-[POLYLINE]
-Type=0xa
-Label=BIG FLAT RD
-EndLevel=1
-CityIdx=3
-RoadID=261
-RouteParam=3,0,0,0,0,0,0,0,0,0,0,0
-Data0=(-34.91882,173.17025),(-34.91888,173.17030),(-34.91891,173.17030),(-34.91912,173.17091),(-34.91893,173.17163),(-34.91897,173.17199),(-34.91910,173.17221),(-34.91974,173.17236),(-34.91989,173.17294),(-34.92071,173.17268),(-34.92131,173.17268),(-34.92146,173.17294),(-34.92208,173.17306),(-34.92232,173.17306)
-Nod1=0,2812,0
-Nod2=13,149,0
-Numbers1=0,E,134,134,N,-1,-1
 [END]
 
 ;linzid=49671
@@ -2840,10 +2811,10 @@ EndLevel=1
 CityIdx=37
 RoadID=640
 RouteParam=2,0,0,0,0,0,0,0,0,0,0,0
-Data0=(-34.89000,173.30360),(-34.89002,173.30313),(-34.89022,173.30247),(-34.89054,173.30209),(-34.89069,173.30186),(-34.89075,173.30151),(-34.89039,173.30114),(-34.89009,173.30099),(-34.88959,173.30085),(-34.88861,173.30067),(-34.88837,173.30070)
+Data0=(-34.89000,173.30360),(-34.89002,173.30313),(-34.89022,173.30247),(-34.89054,173.30209),(-34.89069,173.30186),(-34.89075,173.30151),(-34.89039,173.30114),(-34.89009,173.30099),(-34.88966,173.30053),(-34.88941,173.30046)
 Nod1=0,468,0
-Nod2=10,2908,0
-Numbers1=0,E,2,44,N,-1,-1
+Nod2=9,2908,0
+Numbers1=0,N,-1,-1,E,2,44
 [END]
 
 ;linzid=49499
@@ -4239,10 +4210,10 @@ EndLevel=1
 CityIdx=43
 RoadID=1032
 RouteParam=3,0,0,0,0,0,0,0,0,0,0,0
-Data0=(-35.48631,173.42997),(-35.48672,173.43008),(-35.48693,173.43023),(-35.48796,173.43153),(-35.48790,173.43202),(-35.48803,173.43240),(-35.48801,173.43261),(-35.48796,173.43275),(-35.48805,173.43348),(-35.48751,173.43388),(-35.48721,173.43370)
+Data0=(-35.48631,173.42997),(-35.48672,173.43008),(-35.48693,173.43023),(-35.48796,173.43153),(-35.48790,173.43202),(-35.48803,173.43240),(-35.48801,173.43261),(-35.48796,173.43275),(-35.48792,173.43313),(-35.48768,173.43341),(-35.48753,173.43346)
 Nod1=0,758,0
 Nod2=10,6049,0
-Numbers1=0,O,27,27,E,26,38
+Numbers1=0,O,1,41,E,2,42
 [END]
 
 ;linzid=49369
@@ -13969,7 +13940,7 @@ RouteParam=2,0,0,0,0,0,0,0,0,0,0,0
 Data0=(-35.21251,173.94273),(-35.21253,173.94296),(-35.21240,173.94380),(-35.21210,173.94470)
 Nod1=0,1805,0
 Nod2=3,3661,0
-Numbers1=0,O,1,21,N,-1,-1
+Numbers1=0,O,1,21,E,2,20
 [END]
 
 ;linzid=89563
@@ -14025,10 +13996,10 @@ EndLevel=1
 CityIdx=43
 RoadID=991
 RouteParam=3,0,0,0,0,0,0,0,0,0,0,0
-Data0=(-35.47824,173.41084),(-35.47848,173.41110),(-35.47874,173.41142),(-35.47925,173.41249),(-35.47932,173.41302)
-Nod1=0,3669,0
-Nod2=4,726,0
-Numbers1=0,N,-1,-1,E,26,4
+Data0=(-35.47932,173.41302),(-35.47925,173.41249),(-35.47874,173.41142),(-35.47848,173.41110),(-35.47809,173.41073)
+Nod1=0,726,0
+Nod2=4,3669,0
+Numbers1=0,N,-1,-1,E,2,26
 [END]
 
 ;linzid=89586
@@ -15329,10 +15300,10 @@ EndLevel=1
 CityIdx=48
 RoadID=1080
 RouteParam=3,0,0,0,0,0,0,0,0,0,0,0
-Data0=(-35.47994,173.44708),(-35.48004,173.44792),(-35.48026,173.44833),(-35.48007,173.44877),(-35.47981,173.44883),(-35.47979,173.44917),(-35.47996,173.44963),(-35.48007,173.45013),(-35.47987,173.45042),(-35.47966,173.45062),(-35.47949,173.45132),(-35.47962,173.45195),(-35.47949,173.45268),(-35.47929,173.45352),(-35.47922,173.45390),(-35.47932,173.45425)
-Nod1=0,3768,0
-Nod2=15,802,0
-Numbers1=0,N,-1,-1,E,70,50
+Data0=(-35.47932,173.45425),(-35.47922,173.45390),(-35.47929,173.45352),(-35.47949,173.45268),(-35.47962,173.45195),(-35.47949,173.45132),(-35.47966,173.45062),(-35.47987,173.45042),(-35.48007,173.45013),(-35.47996,173.44963),(-35.47979,173.44917),(-35.47981,173.44883),(-35.48007,173.44877),(-35.48026,173.44833),(-35.48004,173.44792),(-35.47994,173.44708)
+Nod1=0,802,0
+Nod2=15,3768,0
+Numbers1=0,N,-1,-1,E,2,70
 [END]
 
 ;linzid=49052
@@ -40704,10 +40675,11 @@ EndLevel=1
 CityIdx=37
 RoadID=3650
 RouteParam=2,0,0,0,0,0,0,0,0,0,0,0
-Data0=(-34.87522,173.37498),(-34.87419,173.37576),(-34.87414,173.37582),(-34.87374,173.37652),(-34.87367,173.37666),(-34.87361,173.37681),(-34.87361,173.37695),(-34.87363,173.37710),(-34.87372,173.37727),(-34.87380,173.37745),(-34.87408,173.37797),(-34.87412,173.37809),(-34.87412,173.37820),(-34.87410,173.37835),(-34.87406,173.37846),(-34.87397,173.37866),(-34.87387,173.37878),(-34.87384,173.37884),(-34.87376,173.37898)
-Nod1=0,4603,0
-Nod2=18,4602,0
-Numbers1=0,O,21,1,E,22,2
+Data0=(-34.87376,173.37898),(-34.87384,173.37884),(-34.87397,173.37866),(-34.87406,173.37846),(-34.87410,173.37835),(-34.87412,173.37820),(-34.87412,173.37809),(-34.87408,173.37797),(-34.87380,173.37745),(-34.87372,173.37727),(-34.87363,173.37710),(-34.87361,173.37695),(-34.87361,173.37681),(-34.87367,173.37666),(-34.87374,173.37652),(-34.87414,173.37582),(-34.87419,173.37576),(-34.87505,173.37511),(-34.87522,173.37498)
+Nod1=0,4602,0
+Nod2=18,4603,0
+Numbers1=0,O,1,13,E,2,18
+Numbers2=17,O,15,21,E,20,22
 [END]
 
 ;linzid=96687
@@ -55378,10 +55350,10 @@ EndLevel=1
 CityIdx=63
 RoadID=1873
 RouteParam=2,0,0,0,0,0,0,0,0,0,0,0
-Data0=(-35.45106,173.78143),(-35.45097,173.78163),(-35.45065,173.78288),(-35.45050,173.78575),(-35.45086,173.78782),(-35.45074,173.78819),(-35.44935,173.78970),(-35.44935,173.78999),(-35.45131,173.79104),(-35.45200,173.79051),(-35.45361,173.79045),(-35.45464,173.79051)
+Data0=(-35.45106,173.78143),(-35.45097,173.78163),(-35.45065,173.78288),(-35.45050,173.78575),(-35.45086,173.78782),(-35.45074,173.78819),(-35.44935,173.78970),(-35.44935,173.78999),(-35.45131,173.79104),(-35.45243,173.79057),(-35.45361,173.79045),(-35.45411,173.79059),(-35.45436,173.79030),(-35.45481,173.79012)
 Nod1=0,1465,0
-Nod2=11,3674,0
-Numbers1=0,O,1,141,E,2,142
+Nod2=13,3674,0
+Numbers1=0,O,1,143,E,2,144
 [END]
 
 ;linzid=91696
@@ -59133,9 +59105,9 @@ EndLevel=1
 CityIdx=22
 RoadID=48
 RouteParam=3,0,0,0,0,0,0,0,0,0,0,0
-Data0=(-34.52088,172.90284),(-34.52050,172.90489),(-34.52031,172.90542),(-34.52056,172.90681),(-34.52042,172.90722),(-34.52011,172.90786),(-34.51782,172.90928),(-34.51720,172.91006),(-34.51668,172.91015)
+Data0=(-34.52063,172.90351),(-34.52103,172.90403),(-34.52107,172.90420),(-34.52113,172.90534),(-34.52129,172.90634),(-34.52129,172.90670),(-34.52115,172.90709),(-34.52092,172.90754),(-34.52070,172.90778),(-34.51940,172.90848),(-34.51861,172.90910),(-34.51804,172.90966),(-34.51775,172.90980),(-34.51662,172.90993)
 Nod1=0,2743,0
-Nod2=8,16,0
+Nod2=13,16,0
 Numbers1=0,E,96,2,O,99,1
 [END]
 
@@ -59148,7 +59120,7 @@ EndLevel=1
 CityIdx=22
 RoadID=47
 RouteParam=3,0,0,0,0,0,0,0,0,0,0,0
-Data0=(-34.51353,172.90542),(-34.51424,172.90661),(-34.51466,172.90693),(-34.51527,172.90800),(-34.51550,172.90844),(-34.51574,172.90870),(-34.51621,172.90916),(-34.51649,172.90960),(-34.51668,172.91015),(-34.51672,172.91084),(-34.51692,172.91171),(-34.51701,172.91229),(-34.51696,172.91276),(-34.51651,172.91412),(-34.51625,172.91493),(-34.51614,172.91531),(-34.51634,172.91716),(-34.51670,172.91914),(-34.51662,172.91987),(-34.51634,172.92123),(-34.51602,172.92265)
+Data0=(-34.51353,172.90542),(-34.51424,172.90661),(-34.51466,172.90693),(-34.51527,172.90800),(-34.51550,172.90844),(-34.51574,172.90870),(-34.51621,172.90916),(-34.51649,172.90960),(-34.51662,172.90993),(-34.51672,172.91084),(-34.51692,172.91171),(-34.51701,172.91229),(-34.51696,172.91276),(-34.51651,172.91412),(-34.51625,172.91493),(-34.51614,172.91531),(-34.51634,172.91716),(-34.51670,172.91914),(-34.51662,172.91987),(-34.51634,172.92123),(-34.51602,172.92265)
 Nod1=0,10,0
 Nod2=8,16,0
 Nod3=14,5890,0
@@ -68383,28 +68355,386 @@ Numbers2=7,O,197,229,E,198,230
 Numbers3=10,O,231,551,E,232,552
 [END]
 
-;@BMT,custom_poi,"poi-Northland_missing","poi",{},"Northland_missing",0,0,
-;@BM,custom_poi,poi-Northland_missing,0,0.000000,173.543348,-35.363577,,0,0,0,"",0,0,0,comment="98596",label="1 OLD BEACH ROAD",
-;@BM,custom_poi,poi-Northland_missing,0,0.000000,173.543293,-35.363387,,0,0,0,"",0,0,0,comment="98596",label="3 OLD BEACH ROAD",
-;@BM,custom_poi,poi-Northland_missing,0,0.000000,173.543249,-35.363209,,0,0,0,"",0,0,0,comment="98596",label="5 OLD BEACH ROAD",
-;@BM,custom_poi,poi-Northland_missing,0,0.000000,173.543201,-35.363032,,0,0,0,"",0,0,0,comment="98596",label="7 OLD BEACH ROAD",
-;@BM,custom_poi,poi-Northland_missing,0,0.000000,173.543017,-35.362826,,0,0,0,"",0,0,0,comment="98596",label="9 OLD BEACH ROAD",
-;@BM,custom_poi,poi-Northland_missing,0,0.000000,173.543199,-35.362825,,0,0,0,"",0,0,0,comment="98596",label="11 OLD BEACH ROAD",
-;@BM,custom_poi,poi-Northland_missing,0,0.000000,173.543218,-35.362720,,0,0,0,"",0,0,0,comment="98596",label="13 OLD BEACH ROAD",
-;@BM,custom_poi,poi-Northland_missing,0,0.000000,173.543349,-35.362592,,0,0,0,"",0,0,0,comment="98596",label="15 OLD BEACH ROAD",
-;@BM,custom_poi,poi-Northland_missing,0,0.000000,173.543491,-35.362465,,0,0,0,"",0,0,0,comment="98596",label="17 OLD BEACH ROAD",
-;@BM,custom_poi,poi-Northland_missing,0,0.000000,173.543645,-35.362333,,0,0,0,"",0,0,0,comment="98596",label="19 OLD BEACH ROAD",
-;@BM,custom_poi,poi-Northland_missing,0,0.000000,173.501678,-34.996679,,0,0,0,"",0,0,0,comment="49737",label="84 CABLE BAY BLOCK ROAD",
-;@BM,custom_poi,poi-Northland_missing,0,0.000000,173.501946,-34.996705,,0,0,0,"",0,0,0,comment="49737",label="86 CABLE BAY BLOCK ROAD",
-;@BM,custom_poi,poi-Northland_missing,0,0.000000,173.502337,-34.996680,,0,0,0,"",0,0,0,comment="49737",label="88 CABLE BAY BLOCK ROAD",
-;@BM,custom_poi,poi-Northland_missing,0,0.000000,173.502858,-34.996705,,0,0,0,"",0,0,0,comment="49737",label="90 CABLE BAY BLOCK ROAD",
-;@BM,custom_poi,poi-Northland_missing,0,0.000000,173.502843,-34.996870,,0,0,0,"",0,0,0,comment="49737",label="92 CABLE BAY BLOCK ROAD",
-;@BM,custom_poi,poi-Northland_missing,0,0.000000,173.986472,-35.122208,,0,0,0,"",0,0,0,comment="49025",label="54 TARONUI ROAD",
-;@BM,custom_poi,poi-Northland_missing,0,0.000000,173.986694,-35.121639,,0,0,0,"",0,0,0,comment="49025",label="56 TARONUI ROAD",
-;@BM,custom_poi,poi-Northland_missing,0,0.000000,173.987030,-35.121786,,0,0,0,"",0,0,0,comment="49025",label="58 TARONUI ROAD",
-;@BM,custom_poi,poi-Northland_missing,0,0.000000,173.986986,-35.121506,,0,0,0,"",0,0,0,comment="49025",label="60 TARONUI ROAD",
-;@BM,custom_poi,poi-Northland_missing,0,0.000000,173.987302,-35.121385,,0,0,0,"",0,0,0,comment="49025",label="62 TARONUI ROAD",
-;@BM,custom_poi,poi-Northland_missing,0,0.000000,173.987677,-35.121558,,0,0,0,"",0,0,0,comment="49025",label="64 TARONUI ROAD",
-;@BM,custom_poi,poi-Northland_missing,0,0.000000,173.987593,-35.121200,,0,0,0,"",0,0,0,comment="49025",label="66 TARONUI ROAD",
-;@BM,custom_poi,poi-Northland_missing,0,0.000000,173.987891,-35.121478,,0,0,0,"",0,0,0,comment="49025",label="68 TARONUI ROAD",
+;linzid=60011
+;sufi=1030000006441
+[POLYLINE]
+Type=0xa
+Label=BIG FLAT RD
+EndLevel=1
+CityIdx=3
+RoadID=262
+RouteParam=3,0,0,0,0,0,0,0,0,0,0,0
+Data0=(-34.91663,173.18399),(-34.91669,173.18385),(-34.91680,173.18373),(-34.91699,173.18336),(-34.91725,173.18240),(-34.91802,173.18086),(-34.91828,173.18045),(-34.91865,173.18028),(-34.91942,173.17944),(-34.92026,173.17781),(-34.92056,173.17701),(-34.92086,173.17634),(-34.92116,173.17529),(-34.92221,173.17343),(-34.92232,173.17306),(-34.92208,173.17306),(-34.92146,173.17294),(-34.92131,173.17268),(-34.92071,173.17268),(-34.91989,173.17294),(-34.91974,173.17236),(-34.91910,173.17221),(-34.91897,173.17199),(-34.91893,173.17163),(-34.91912,173.17091),(-34.91891,173.17030),(-34.91888,173.17030),(-34.91882,173.17025)
+Nod1=0,160,0
+Nod2=27,2812,0
+Numbers1=0,O,1,175,E,2,176
+[END]
+
+;@BMT,custom_poi,"poi-Northland-WrongSide","poi",{},"Northland-WrongSide",0,0,
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.070714,-35.378786,,0,0,0,"",0,0,0,comment="Wrong Side: 995054",label="1-9 MARSHALL STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.063628,-35.378948,,0,0,0,"",0,0,0,comment="Wrong Side: 1288340",label="2-4 RAYNER STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.683597,-35.088031,,0,0,0,"",0,0,0,comment="Wrong Side: 2087086",label="196A-196B WAIHAPA ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.763343,-35.324008,,0,0,0,"",0,0,0,comment="Wrong Side: 2143363",label="2-4 HULME DRIVE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.036103,-35.379681,,0,0,0,"",0,0,0,comment="Wrong Side: 995056",label="1 TE ORO PLACE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.035909,-35.379872,,0,0,0,"",0,0,0,comment="Wrong Side: 1273980",label="3 TE ORO PLACE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.001466,-35.196684,,0,0,0,"",0,0,0,comment="Wrong Side: 2180383",label="58 RANGITANE LOOP ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.999579,-35.196570,,0,0,0,"",0,0,0,comment="Wrong Side: 2180370",label="40 RANGITANE LOOP ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.999358,-35.196549,,0,0,0,"",0,0,0,comment="Wrong Side: 2180368",label="38 RANGITANE LOOP ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.999140,-35.196527,,0,0,0,"",0,0,0,comment="Wrong Side: 2180367",label="36 RANGITANE LOOP ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.998933,-35.196498,,0,0,0,"",0,0,0,comment="Wrong Side: 2180366",label="34 RANGITANE LOOP ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.262649,-35.529557,,0,0,0,"",0,0,0,comment="Wrong Side: 2194922",label="44 WAIARIKI ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.448396,-35.481407,,0,0,0,"",0,0,0,comment="Wrong Side: 2314274",label="498 ROCKELL ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.448150,-35.481323,,0,0,0,"",0,0,0,comment="Wrong Side: 2314273",label="500 ROCKELL ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.503083,-34.995587,,0,0,0,"",0,0,0,comment="Wrong Side: 2324295",label="2 FRANGIPANI STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.503289,-34.996130,,0,0,0,"",0,0,0,comment="Wrong Side: 2330746",label="8 FRANGIPANI STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.503093,-34.995746,,0,0,0,"",0,0,0,comment="Wrong Side: 2330744",label="4 FRANGIPANI STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.503157,-34.995948,,0,0,0,"",0,0,0,comment="Wrong Side: 2330745",label="6 FRANGIPANI STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.054949,-35.279892,,0,0,0,"",0,0,0,comment="Wrong Side: 2349397",label="23 WILSON ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.447798,-35.481199,,0,0,0,"",0,0,0,comment="Wrong Side: 2360783",label="502 ROCKELL ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.441764,-35.467142,,0,0,0,"",0,0,0,comment="Wrong Side: 2448043",label="76 ROIMATA LANE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.501905,-34.992161,,0,0,0,"",0,0,0,comment="Wrong Side: 2449025",label="3 WALTERS WAY",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.502703,-34.991487,,0,0,0,"",0,0,0,comment="Wrong Side: 2449030",label="27 WALTERS WAY",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.502556,-34.991489,,0,0,0,"",0,0,0,comment="Wrong Side: 2449029",label="23 WALTERS WAY",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.502358,-34.991557,,0,0,0,"",0,0,0,comment="Wrong Side: 2449028",label="19 WALTERS WAY",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.502141,-34.991638,,0,0,0,"",0,0,0,comment="Wrong Side: 2449027",label="15 WALTERS WAY",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.501901,-34.991967,,0,0,0,"",0,0,0,comment="Wrong Side: 2449026",label="7 WALTERS WAY",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.097845,-35.291315,,0,0,0,"",0,0,0,comment="Wrong Side: 2470919",label="6 COUTTS AVENUE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.932559,-35.193971,,0,0,0,"",0,0,0,comment="Wrong Side: 2487503",label="11 TANEKAHA LANE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.932603,-35.194440,,0,0,0,"",0,0,0,comment="Wrong Side: 2512480",label="19 TANEKAHA LANE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.266018,-34.920116,,0,0,0,"",0,0,0,comment="Wrong Side: 2524689",label="20 LAKE ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.265762,-34.920003,,0,0,0,"",0,0,0,comment="Wrong Side: 2524688",label="22 LAKE ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.252668,-35.112437,,0,0,0,"",0,0,0,comment="Wrong Side: 976754",label="8 RATA PLACE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.797207,-35.409553,,0,0,0,"",0,0,0,comment="Wrong Side: 988331",label="2 NGAPUA PLACE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.063396,-35.379961,,0,0,0,"",0,0,0,comment="Wrong Side: 1063200",label="8 STATION ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.063066,-35.379184,,0,0,0,"",0,0,0,comment="Wrong Side: 1077532",label="8 RAYNER STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.062577,-35.380336,,0,0,0,"",0,0,0,comment="Wrong Side: 1082406",label="16 STATION ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.063680,-35.379864,,0,0,0,"",0,0,0,comment="Wrong Side: 1082397",label="6 STATION ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.062041,-35.380529,,0,0,0,"",0,0,0,comment="Wrong Side: 1097557",label="18 STATION ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.062803,-35.380256,,0,0,0,"",0,0,0,comment="Wrong Side: 1097550",label="14 STATION ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.097653,-35.291367,,0,0,0,"",0,0,0,comment="Wrong Side: 1104479",label="4 COUTTS AVENUE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.063213,-35.380069,,0,0,0,"",0,0,0,comment="Wrong Side: 1106307",label="10 STATION ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.946279,-35.224538,,0,0,0,"",0,0,0,comment="Wrong Side: 1119845",label="2 WENTWORTH TERRACE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.501025,-34.994298,,0,0,0,"",0,0,0,comment="Wrong Side: 1134515",label="6 HAEKARO LANE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.062992,-35.380150,,0,0,0,"",0,0,0,comment="Wrong Side: 1154943",label="12 STATION ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.501154,-34.993877,,0,0,0,"",0,0,0,comment="Wrong Side: 1159405",label="2 HAEKARO LANE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.098315,-35.291808,,0,0,0,"",0,0,0,comment="Wrong Side: 1163455",label="12 COUTTS AVENUE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.097857,-35.291437,,0,0,0,"",0,0,0,comment="Wrong Side: 1182514",label="8 COUTTS AVENUE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.063249,-35.379100,,0,0,0,"",0,0,0,comment="Wrong Side: 1196939",label="6 RAYNER STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.071274,-35.378617,,0,0,0,"",0,0,0,comment="Wrong Side: 1210832",label="4 MARSHALL STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.071057,-35.378492,,0,0,0,"",0,0,0,comment="Wrong Side: 1210863",label="6 MARSHALL STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.490878,-34.990991,,0,0,0,"",0,0,0,comment="Wrong Side: 1212661",label="16 HERETAUNGA CRESCENT",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.490689,-34.991020,,0,0,0,"",0,0,0,comment="Wrong Side: 1212660",label="14 HERETAUNGA CRESCENT",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.492038,-34.991136,,0,0,0,"",0,0,0,comment="Wrong Side: 1212668",label="34 HERETAUNGA CRESCENT",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.491337,-34.991280,,0,0,0,"",0,0,0,comment="Wrong Side: 1212667",label="32 HERETAUNGA CRESCENT",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.491201,-34.991201,,0,0,0,"",0,0,0,comment="Wrong Side: 1212666",label="30 HERETAUNGA CRESCENT",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.491560,-34.990830,,0,0,0,"",0,0,0,comment="Wrong Side: 1212665",label="28 HERETAUNGA CRESCENT",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.491915,-34.990849,,0,0,0,"",0,0,0,comment="Wrong Side: 1212664",label="26 HERETAUNGA CRESCENT",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.491588,-34.990724,,0,0,0,"",0,0,0,comment="Wrong Side: 1212663",label="24 HERETAUNGA CRESCENT",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.491071,-34.991102,,0,0,0,"",0,0,0,comment="Wrong Side: 1212662",label="20 HERETAUNGA CRESCENT",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.146402,-35.170491,,0,0,0,"",0,0,0,comment="Wrong Side: 1213175",label="66 FORESHORE ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.146182,-35.170613,,0,0,0,"",0,0,0,comment="Wrong Side: 1213172",label="68 FORESHORE ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.146005,-35.170713,,0,0,0,"",0,0,0,comment="Wrong Side: 1213171",label="70 FORESHORE ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.064215,-35.379731,,0,0,0,"",0,0,0,comment="Wrong Side: 1226892",label="2 STATION ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.946101,-35.224498,,0,0,0,"",0,0,0,comment="Wrong Side: 1244194",label="4 WENTWORTH TERRACE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.064003,-35.379741,,0,0,0,"",0,0,0,comment="Wrong Side: 1244858",label="4 STATION ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.491063,-34.990900,,0,0,0,"",0,0,0,comment="Wrong Side: 1261125",label="18 HERETAUNGA CRESCENT",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.272463,-35.121859,,0,0,0,"",0,0,0,comment="Wrong Side: 1277197",label="2 HESTER PLACE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.491423,-34.990818,,0,0,0,"",0,0,0,comment="Wrong Side: 1285186",label="22 HERETAUNGA CRESCENT",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.541235,-34.974009,,0,0,0,"",0,0,0,comment="Wrong Side: 1347038",label="2 MARCHANT ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.541112,-34.974299,,0,0,0,"",0,0,0,comment="Wrong Side: 1347032",label="4 MARCHANT ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.540984,-34.974605,,0,0,0,"",0,0,0,comment="Wrong Side: 1347027",label="6 MARCHANT ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.540570,-34.974632,,0,0,0,"",0,0,0,comment="Wrong Side: 1347018",label="8 MARCHANT ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.540851,-34.974929,,0,0,0,"",0,0,0,comment="Wrong Side: 1347015",label="10 MARCHANT ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.539527,-34.975845,,0,0,0,"",0,0,0,comment="Wrong Side: 1346999",label="18 MARCHANT ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.539784,-34.975558,,0,0,0,"",0,0,0,comment="Wrong Side: 1346993",label="14 MARCHANT ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.539357,-34.975495,,0,0,0,"",0,0,0,comment="Wrong Side: 1346988",label="16 MARCHANT ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.539078,-34.975822,,0,0,0,"",0,0,0,comment="Wrong Side: 1346980",label="20 MARCHANT ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.538934,-34.976006,,0,0,0,"",0,0,0,comment="Wrong Side: 1346976",label="22 MARCHANT ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.538618,-34.976394,,0,0,0,"",0,0,0,comment="Wrong Side: 1346968",label="26 MARCHANT ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.539110,-34.976313,,0,0,0,"",0,0,0,comment="Wrong Side: 1346965",label="24 MARCHANT ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.809749,-35.456309,,0,0,0,"",0,0,0,comment="Wrong Side: 2038601",label="238 NGAPUHI ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.810709,-35.450300,,0,0,0,"",0,0,0,comment="Wrong Side: 2038599",label="176 NGAPUHI ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.814328,-35.444429,,0,0,0,"",0,0,0,comment="Wrong Side: 2038597",label="82 NGAPUHI ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.814653,-35.441864,,0,0,0,"",0,0,0,comment="Wrong Side: 2038596",label="52 NGAPUHI ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.815860,-35.440093,,0,0,0,"",0,0,0,comment="Wrong Side: 2038595",label="34 NGAPUHI ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.818257,-35.439966,,0,0,0,"",0,0,0,comment="Wrong Side: 2038593",label="12 NGAPUHI ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.684006,-35.278190,,0,0,0,"",0,0,0,comment="Wrong Side: 2039067",label="182 FOREST ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.691456,-35.280528,,0,0,0,"",0,0,0,comment="Wrong Side: 2039058",label="98 FOREST ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.265264,-34.921041,,0,0,0,"",0,0,0,comment="Wrong Side: 2039117",label="11 HAGGER STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.265450,-34.920920,,0,0,0,"",0,0,0,comment="Wrong Side: 2039116",label="9 HAGGER STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.265600,-34.920832,,0,0,0,"",0,0,0,comment="Wrong Side: 2039115",label="7 HAGGER STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.265786,-34.920730,,0,0,0,"",0,0,0,comment="Wrong Side: 2039114",label="5 HAGGER STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.265957,-34.920635,,0,0,0,"",0,0,0,comment="Wrong Side: 2039113",label="3 HAGGER STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.762352,-35.148019,,0,0,0,"",0,0,0,comment="Wrong Side: 2046977",label="788 MATAWHEROHIA ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.745028,-35.049715,,0,0,0,"",0,0,0,comment="Wrong Side: 2049081",label="7 OLD CHURCH ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.937103,-35.408193,,0,0,0,"",0,0,0,comment="Wrong Side: 2053227",label="16 ROGERS ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.929361,-35.161469,,0,0,0,"",0,0,0,comment="Wrong Side: 2057201",label="308 SOMERVILLE ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.938393,-35.161525,,0,0,0,"",0,0,0,comment="Wrong Side: 2057200",label="214 SOMERVILLE ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.960228,-35.209626,,0,0,0,"",0,0,0,comment="Wrong Side: 2079944",label="10 WATERS LANE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.960537,-35.209722,,0,0,0,"",0,0,0,comment="Wrong Side: 2079942",label="8 WATERS LANE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.960129,-35.210081,,0,0,0,"",0,0,0,comment="Wrong Side: 2079940",label="4 WATERS LANE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.211844,-35.238270,,0,0,0,"",0,0,0,comment="Wrong Side: 2080289",label="36 MANUKAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.212402,-35.237951,,0,0,0,"",0,0,0,comment="Wrong Side: 2080288",label="32 MANUKAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,172.973670,-34.665602,,0,0,0,"",0,0,0,comment="Wrong Side: 2083179",label="6454 FAR NORTH ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,172.971872,-34.664094,,0,0,0,"",0,0,0,comment="Wrong Side: 2083178",label="6474 FAR NORTH ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.264018,-35.134372,,0,0,0,"",0,0,0,comment="Wrong Side: 2087692",label="214 OKAHU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.264808,-35.133211,,0,0,0,"",0,0,0,comment="Wrong Side: 2087686",label="202 OKAHU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.265614,-35.132125,,0,0,0,"",0,0,0,comment="Wrong Side: 2087682",label="188 OKAHU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.332413,-35.285187,,0,0,0,"",0,0,0,comment="Wrong Side: 2088202",label="88 HICKS ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.285411,-35.439483,,0,0,0,"",0,0,0,comment="Wrong Side: 2089053",label="28 HOHAIA ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,172.968706,-34.663124,,0,0,0,"",0,0,0,comment="Wrong Side: 2092479",label="6516 FAR NORTH ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.372597,-35.264129,,0,0,0,"",0,0,0,comment="Wrong Side: 2108514",label="4 PUKEMIRO ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.534742,-35.367340,,0,0,0,"",0,0,0,comment="Wrong Side: 2108868",label="45 TAUTEIHIIHI ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.535672,-35.368702,,0,0,0,"",0,0,0,comment="Wrong Side: 2108867",label="33 TAUTEIHIIHI ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.387153,-35.084561,,0,0,0,"",0,0,0,comment="Wrong Side: 2108860",label="42 METCALFE ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.723966,-35.300664,,0,0,0,"",0,0,0,comment="Wrong Side: 2110366",label="114 LAMBERG ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.998509,-35.278859,,0,0,0,"",0,0,0,comment="Wrong Side: 2110561",label="398 WAKELIN ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.597534,-35.112040,,0,0,0,"",0,0,0,comment="Wrong Side: 2111502",label="58 AIRSTRIP ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.668404,-35.021408,,0,0,0,"",0,0,0,comment="Wrong Side: 2111548",label="20 SALVATION ROAD EXTENSION",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.058198,-35.371251,,0,0,0,"",0,0,0,comment="Wrong Side: 2118334",label="2 WHANGAE ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.587525,-35.492152,,0,0,0,"",0,0,0,comment="Wrong Side: 2143895",label="40 WAIMA SCHOOL ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.489698,-34.991422,,0,0,0,"",0,0,0,comment="Wrong Side: 1212654",label="2A HERETAUNGA CRESCENT",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.946564,-35.224578,,0,0,0,"",0,0,0,comment="Wrong Side: 1257146",label="2C WENTWORTH TERRACE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.496872,-35.129850,,0,0,0,"",0,0,0,comment="Wrong Side: 2087262",label="42A DUTTON ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.325954,-35.027387,,0,0,0,"",0,0,0,comment="Wrong Side: 2202724",label="4 MILL ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.449116,-35.481457,,0,0,0,"",0,0,0,comment="Wrong Side: 2156650",label="17/484 ROCKELL ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.976315,-35.315734,,0,0,0,"",0,0,0,comment="Wrong Side: 2620341",label="1530 OROMAHOE ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.129996,-35.180213,,0,0,0,"",0,0,0,comment="Wrong Side: 1288348",label="336A FORESHORE ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.256561,-35.116338,,0,0,0,"",0,0,0,comment="Wrong Side: 1012012",label="5 ORCHARD PLACE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.313781,-35.146188,,0,0,0,"",0,0,0,comment="Wrong Side: 2110627",label="70 MUNN ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.430679,-35.021650,,0,0,0,"",0,0,0,comment="Wrong Side: 2086925",label="36 TE MOHO ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.489941,-34.990996,,0,0,0,"",0,0,0,comment="Wrong Side: 1212656",label="6 HERETAUNGA CRESCENT",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.622207,-35.014848,,0,0,0,"",0,0,0,comment="Wrong Side: 2039693",label="10 CONAGLEN ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.620972,-35.016565,,0,0,0,"",0,0,0,comment="Wrong Side: 2039696",label="40 CONAGLEN ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.691339,-35.280248,,0,0,0,"",0,0,0,comment="Wrong Side: 2039059",label="100 FOREST ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.689305,-35.278921,,0,0,0,"",0,0,0,comment="Wrong Side: 2039061",label="120 FOREST ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.754300,-35.523885,,0,0,0,"",0,0,0,comment="Wrong Side: 2057329",label="10 STEWARD ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.806433,-35.412702,,0,0,0,"",0,0,0,comment="Wrong Side: 1155534",label="2 BELMONT PLACE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.467335,-35.508394,,0,0,0,"",0,0,0,comment="Wrong Side: 2518183",label="8 WHANANAKI WHARF ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.098119,-35.291617,,0,0,0,"",0,0,0,comment="Wrong Side: 1102877",label="10 COUTTS AVENUE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.152393,-35.434648,,0,0,0,"",0,0,0,comment="Wrong Side: 2039842",label="178 HAY ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.152443,-35.429904,,0,0,0,"",0,0,0,comment="Wrong Side: 2039840",label="248 HAY ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.501043,-34.994114,,0,0,0,"",0,0,0,comment="Wrong Side: 1191648",label="4 HAEKARO LANE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.501003,-34.994486,,0,0,0,"",0,0,0,comment="Wrong Side: 1009307",label="8 HAEKARO LANE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.932598,-35.231668,,0,0,0,"",0,0,0,comment="Wrong Side: 2347923",label="4 RIVERSTONE LANE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.501919,-34.991725,,0,0,0,"",0,0,0,comment="Wrong Side: 2183598",label="11 WALTERS WAY",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.049405,-35.279129,,0,0,0,"",0,0,0,comment="Wrong Side: 2459774",label="8 RIVERGLEN DRIVE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.049443,-35.278924,,0,0,0,"",0,0,0,comment="Wrong Side: 2459773",label="6 RIVERGLEN DRIVE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.049301,-35.279356,,0,0,0,"",0,0,0,comment="Wrong Side: 2459775",label="10 RIVERGLEN DRIVE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.049734,-35.279273,,0,0,0,"",0,0,0,comment="Wrong Side: 2459770",label="2 RIVERGLEN DRIVE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.049625,-35.279017,,0,0,0,"",0,0,0,comment="Wrong Side: 2459772",label="4 RIVERGLEN DRIVE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.168454,-35.179446,,0,0,0,"",0,0,0,comment="Wrong Side: 2084610",label="1306 KAITAIA-AWAROA ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.167947,-35.180711,,0,0,0,"",0,0,0,comment="Wrong Side: 2084613",label="1320 KAITAIA-AWAROA ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.145386,-35.171012,,0,0,0,"",0,0,0,comment="Wrong Side: 1213164",label="78 FORESHORE ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.115376,-35.309967,,0,0,0,"",0,0,0,comment="Wrong Side: 1033027",label="9 RICHARDSON STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.333598,-35.047077,,0,0,0,"",0,0,0,comment="Wrong Side: 2098750",label="314 PURIRI BLOCK ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.616506,-35.330947,,0,0,0,"",0,0,0,comment="Wrong Side: 2501094",label="514 RANGIAHUA ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.158813,-35.181456,,0,0,0,"",0,0,0,comment="Wrong Side: 2084440",label="144 ROMA ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.158538,-35.181008,,0,0,0,"",0,0,0,comment="Wrong Side: 2084418",label="136 ROMA ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.255223,-34.923245,,0,0,0,"",0,0,0,comment="Wrong Side: 2084822",label="738 KAIMAUMAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.621888,-35.016908,,0,0,0,"",0,0,0,comment="Wrong Side: 2039700",label="45 CONAGLEN ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.063376,-35.379355,,0,0,0,"",0,0,0,comment="Wrong Side: 994454",label="3 RAYNER STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.066030,-35.387434,,0,0,0,"",0,0,0,comment="Wrong Side: 1130360",label="19 SMEATH ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.066262,-35.387500,,0,0,0,"",0,0,0,comment="Wrong Side: 1223979",label="17 SMEATH ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.065875,-35.387455,,0,0,0,"",0,0,0,comment="Wrong Side: 1005819",label="21 SMEATH ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.753292,-35.524696,,0,0,0,"",0,0,0,comment="Wrong Side: 2057330",label="27 STEWARD ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.140990,-35.441136,,0,0,0,"",0,0,0,comment="Wrong Side: 2039841",label="45 HAY ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.095607,-35.288920,,0,0,0,"",0,0,0,comment="Wrong Side: 2330734",label="15A-15E GREYS LANE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.095732,-35.288846,,0,0,0,"",0,0,0,comment="Wrong Side: 2324511",label="11 GREYS LANE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.099297,-35.291459,,0,0,0,"",0,0,0,comment="Wrong Side: 1094989",label="4 VERONICA STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.031689,-35.195701,,0,0,0,"",0,0,0,comment="Wrong Side: 2126813",label="105 DOVES BAY ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.955349,-35.481497,,0,0,0,"",0,0,0,comment="Wrong Side: 2049342",label="25 PARAHA ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.097872,-35.290407,,0,0,0,"",0,0,0,comment="Wrong Side: 2511503",label="18 PANORAMA AVENUE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.946518,-35.224760,,0,0,0,"",0,0,0,comment="Wrong Side: 1309075",label="1 WENTWORTH TERRACE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.121060,-35.259701,,0,0,0,"",0,0,0,comment="Wrong Side: 1173510",label="3 KENT STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.042418,-35.191526,,0,0,0,"",0,0,0,comment="Wrong Side: 2126205",label="9 TIKORANGI ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.761129,-35.362001,,0,0,0,"",0,0,0,comment="Wrong Side: 2577456",label="140 TOIA ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.684725,-35.279684,,0,0,0,"",0,0,0,comment="Wrong Side: 2039063",label="163 FOREST ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.683331,-35.278272,,0,0,0,"",0,0,0,comment="Wrong Side: 2039066",label="185 FOREST ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.123075,-35.262517,,0,0,0,"",0,0,0,comment="Wrong Side: 977975",label="4 CHURCH STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.918876,-35.511923,,0,0,0,"",0,0,0,comment="Wrong Side: 2049009",label="1115 ORAKAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.131182,-35.261181,,0,0,0,"",0,0,0,comment="Wrong Side: 1206921",label="23 RUSSELL HEIGHTS",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.122153,-35.263104,,0,0,0,"",0,0,0,comment="Wrong Side: 997823",label="1 WALKER PASSAGE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.926945,-35.247243,,0,0,0,"",0,0,0,comment="Wrong Side: 2051023",label="17 POPLAR LANE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.123151,-35.258287,,0,0,0,"",0,0,0,comment="Wrong Side: 1126881",label="7-9 PROSPECT STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.012658,-35.386470,,0,0,0,"",0,0,0,comment="Wrong Side: 1006353",label="4 MARSHALL STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.720529,-35.467937,,0,0,0,"",0,0,0,comment="Wrong Side: 2053225",label="139 ROGER ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.542326,-35.304375,,0,0,0,"",0,0,0,comment="Wrong Side: 2091381",label="19 WOOD ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.288230,-35.270818,,0,0,0,"",0,0,0,comment="Wrong Side: 2088186",label="39 AWAROA ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.335820,-35.280113,,0,0,0,"",0,0,0,comment="Wrong Side: 2088198",label="17 HICKS ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.548233,-35.299402,,0,0,0,"",0,0,0,comment="Wrong Side: 2264893",label="54 KAHIKATOA ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.550790,-35.299853,,0,0,0,"",0,0,0,comment="Wrong Side: 2091171",label="26 KAHIKATOA ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.797068,-35.409890,,0,0,0,"",0,0,0,comment="Wrong Side: 1226574",label="3 NGAPUA PLACE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.796989,-35.409730,,0,0,0,"",0,0,0,comment="Wrong Side: 998915",label="1 NGAPUA PLACE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.799073,-35.407341,,0,0,0,"",0,0,0,comment="Wrong Side: 1319282",label="2 CROWN CRESCENT",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.263745,-35.124345,,0,0,0,"",0,0,0,comment="Wrong Side: 1078145",label="70 OKAHU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.806591,-35.412965,,0,0,0,"",0,0,0,comment="Wrong Side: 1155799",label="1 BELMONT PLACE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.259339,-35.104744,,0,0,0,"",0,0,0,comment="Wrong Side: 1177783",label="2 FARRIMOND PLACE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.254588,-35.112205,,0,0,0,"",0,0,0,comment="Wrong Side: 1040782",label="9 FOLEY STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.252572,-35.112662,,0,0,0,"",0,0,0,comment="Wrong Side: 1067687",label="3 RATA PLACE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.257059,-35.116414,,0,0,0,"",0,0,0,comment="Wrong Side: 1284106",label="2 ORCHARD PLACE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.190781,-35.176893,,0,0,0,"",0,0,0,comment="Wrong Side: 2087771",label="77 MASTERS ACCESS ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.165856,-35.183092,,0,0,0,"",0,0,0,comment="Wrong Side: 2084452",label="223 ROMA ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.188820,-35.030204,,0,0,0,"",0,0,0,comment="Wrong Side: 2086326",label="315 WEST COAST ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,172.925538,-34.541291,,0,0,0,"",0,0,0,comment="Wrong Side: 2049328",label="591 PAUA ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,172.924173,-34.539889,,0,0,0,"",0,0,0,comment="Wrong Side: 2049329",label="605A-605C PAUA ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.235024,-35.276849,,0,0,0,"",0,0,0,comment="Wrong Side: 2088102",label="157 SMITH ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.490912,-34.996158,,0,0,0,"",0,0,0,comment="Wrong Side: 2327947",label="44 MOREY ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.490553,-34.991417,,0,0,0,"",0,0,0,comment="Wrong Side: 2255784",label="1 HERETAUNGA CRESCENT",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,172.965092,-34.626571,,0,0,0,"",0,0,0,comment="Wrong Side: 2092524",label="6959 FAR NORTH ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.148870,-35.171154,,0,0,0,"",0,0,0,comment="Wrong Side: 1236791",label="29 FORESHORE ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.148722,-35.170969,,0,0,0,"",0,0,0,comment="Wrong Side: 1279938",label="31 FORESHORE ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.148437,-35.170828,,0,0,0,"",0,0,0,comment="Wrong Side: 1105151",label="33 FORESHORE ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.129005,-35.186924,,0,0,0,"",0,0,0,comment="Wrong Side: 2087920",label="175 GUMFIELDS ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.128171,-35.186319,,0,0,0,"",0,0,0,comment="Wrong Side: 2087919",label="149 GUMFIELDS ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.262674,-34.922165,,0,0,0,"",0,0,0,comment="Wrong Side: 2041035",label="797 KAIMAUMAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.263510,-34.921946,,0,0,0,"",0,0,0,comment="Wrong Side: 2041041",label="807 KAIMAUMAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.265844,-34.921671,,0,0,0,"",0,0,0,comment="Wrong Side: 2041052",label="827 KAIMAUMAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.266104,-34.921653,,0,0,0,"",0,0,0,comment="Wrong Side: 2041053",label="829 KAIMAUMAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.263686,-34.921905,,0,0,0,"",0,0,0,comment="Wrong Side: 2041042",label="809 KAIMAUMAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.264794,-34.921690,,0,0,0,"",0,0,0,comment="Wrong Side: 2041051",label="819 KAIMAUMAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.267304,-34.921579,,0,0,0,"",0,0,0,comment="Wrong Side: 2041057",label="843 KAIMAUMAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.262848,-34.922109,,0,0,0,"",0,0,0,comment="Wrong Side: 2041036",label="799 KAIMAUMAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.264271,-34.921792,,0,0,0,"",0,0,0,comment="Wrong Side: 2041045",label="815A KAIMAUMAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.262044,-34.922366,,0,0,0,"",0,0,0,comment="Wrong Side: 2041029",label="787 KAIMAUMAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.263959,-34.921854,,0,0,0,"",0,0,0,comment="Wrong Side: 2041043",label="811 KAIMAUMAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.263031,-34.922046,,0,0,0,"",0,0,0,comment="Wrong Side: 2202775",label="799A KAIMAUMAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.262279,-34.922292,,0,0,0,"",0,0,0,comment="Wrong Side: 2041032",label="791 KAIMAUMAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.266988,-34.921596,,0,0,0,"",0,0,0,comment="Wrong Side: 2041056",label="837 KAIMAUMAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.262424,-34.922245,,0,0,0,"",0,0,0,comment="Wrong Side: 2041033",label="793 KAIMAUMAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.266699,-34.921624,,0,0,0,"",0,0,0,comment="Wrong Side: 2041055",label="833 KAIMAUMAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.266359,-34.921644,,0,0,0,"",0,0,0,comment="Wrong Side: 2041054",label="831 KAIMAUMAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.261792,-34.922430,,0,0,0,"",0,0,0,comment="Wrong Side: 2041028",label="785 KAIMAUMAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.263239,-34.921997,,0,0,0,"",0,0,0,comment="Wrong Side: 2041038",label="803 KAIMAUMAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.264572,-34.921735,,0,0,0,"",0,0,0,comment="Wrong Side: 2041049",label="817A KAIMAUMAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.267252,-34.918627,,0,0,0,"",0,0,0,comment="Wrong Side: 2041064",label="875 KAIMAUMAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.267554,-34.920011,,0,0,0,"",0,0,0,comment="Wrong Side: 2041059",label="861 KAIMAUMAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.267491,-34.919801,,0,0,0,"",0,0,0,comment="Wrong Side: 2041060",label="863 KAIMAUMAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.267300,-34.919027,,0,0,0,"",0,0,0,comment="Wrong Side: 2041063",label="871 KAIMAUMAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.267331,-34.919216,,0,0,0,"",0,0,0,comment="Wrong Side: 2041062",label="869 KAIMAUMAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.267383,-34.919368,,0,0,0,"",0,0,0,comment="Wrong Side: 2041061",label="867 KAIMAUMAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.267601,-34.920347,,0,0,0,"",0,0,0,comment="Wrong Side: 2041058",label="855 KAIMAUMAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.268456,-34.912459,,0,0,0,"",0,0,0,comment="Wrong Side: 2041065",label="949 KAIMAUMAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.269279,-34.910915,,0,0,0,"",0,0,0,comment="Wrong Side: 2041066",label="961 KAIMAUMAU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.184154,-35.132042,,0,0,0,"",0,0,0,comment="Wrong Side: 2087644",label="79 CLARKE ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.464326,-34.999876,,0,0,0,"",0,0,0,comment="Wrong Side: 2572027",label="46 ORURU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.854221,-35.026191,,0,0,0,"",0,0,0,comment="Wrong Side: 2098492",label="135 WAINUI VALLEY ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.701411,-35.053360,,0,0,0,"",0,0,0,comment="Wrong Side: 2107349",label="33 TOTARA NORTH ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.262154,-35.529914,,0,0,0,"",0,0,0,comment="Wrong Side: 2156238",label="41 WAIARIKI ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.375101,-35.558165,,0,0,0,"",0,0,0,comment="Wrong Side: 2083061",label="61 MADDREN ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.340113,-35.377652,,0,0,0,"",0,0,0,comment="Wrong Side: 2554560",label="99 OHAWINI ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.448524,-35.480431,,0,0,0,"",0,0,0,comment="Wrong Side: 2359570",label="1 MATAPIKO ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.450087,-35.479337,,0,0,0,"",0,0,0,comment="Wrong Side: 2141096",label="29 MATAPIKO ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.490039,-35.562134,,0,0,0,"",0,0,0,comment="Wrong Side: 2535114",label="1139 MATAPOURI ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.489919,-35.562094,,0,0,0,"",0,0,0,comment="Wrong Side: 1325659",label="1141 MATAPOURI ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.472238,-35.555959,,0,0,0,"",0,0,0,comment="Wrong Side: 2069164",label="23 MCAUSLIN ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.058643,-35.280943,,0,0,0,"",0,0,0,comment="Wrong Side: 2103616",label="1 JOHNSON LANE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.058622,-35.281080,,0,0,0,"",0,0,0,comment="Wrong Side: 2103618",label="3 JOHNSON LANE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.058569,-35.281246,,0,0,0,"",0,0,0,comment="Wrong Side: 2103621",label="4 JOHNSON LANE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.058543,-35.281368,,0,0,0,"",0,0,0,comment="Wrong Side: 2103623",label="7 JOHNSON LANE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.980602,-35.213087,,0,0,0,"",0,0,0,comment="Wrong Side: 1184417",label="1 TASMAN PLACE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.763044,-35.324160,,0,0,0,"",0,0,0,comment="Wrong Side: 2143361",label="3 HULME DRIVE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.959720,-35.210175,,0,0,0,"",0,0,0,comment="Wrong Side: 2079939",label="3 WATERS LANE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.057888,-35.282861,,0,0,0,"",0,0,0,comment="Wrong Side: 1076606",label="4 ASH GROVE CIRCLE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.122410,-35.307254,,0,0,0,"",0,0,0,comment="Wrong Side: 2106282",label="35 DEEMING ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.799884,-35.408583,,0,0,0,"",0,0,0,comment="Wrong Side: 1182857",label="9 DICKESON STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.254751,-35.111409,,0,0,0,"",0,0,0,comment="Wrong Side: 1035577",label="1 MASTERS PLACE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.230619,-35.299764,,0,0,0,"",0,0,0,comment="Wrong Side: 2099089",label="455 PUHATA ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.370844,-35.109989,,0,0,0,"",0,0,0,comment="Wrong Side: 2142669",label="19 MEFFIN ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.186385,-34.915295,,0,0,0,"",0,0,0,comment="Wrong Side: 2084820",label="29 SRHOJ ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.255410,-35.004810,,0,0,0,"",0,0,0,comment="Wrong Side: 2082338",label="7 TAMATEA ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.509600,-34.991055,,0,0,0,"",0,0,0,comment="Wrong Side: 1338639",label="66 BAYSIDE DRIVE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.091634,-35.303863,,0,0,0,"",0,0,0,comment="Wrong Side: 1291595",label="42 HIHITAHI RISE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.294036,-35.511346,,0,0,0,"",0,0,0,comment="Wrong Side: 2156196",label="5 HODGSON ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.492200,-34.993280,,0,0,0,"",0,0,0,comment="Wrong Side: 1295841",label="1 THOMPSON PLACE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.464010,-34.994994,,0,0,0,"",0,0,0,comment="Wrong Side: 2440910",label="578 SH 10",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.469570,-34.998913,,0,0,0,"",0,0,0,comment="Wrong Side: 2057346",label="11 TAIPA TIDES DRIVE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.946552,-35.214876,,0,0,0,"",0,0,0,comment="Wrong Side: 2150262",label="23 KARAKA DRIVE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.753851,-35.053135,,0,0,0,"",0,0,0,comment="Wrong Side: 2192830",label="15 OHAKIRI WAY",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.502932,-34.996010,,0,0,0,"",0,0,0,comment="Wrong Side: 2330749",label="7 FRANGIPANI STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.502887,-34.995857,,0,0,0,"",0,0,0,comment="Wrong Side: 2330748",label="5 FRANGIPANI STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.502877,-34.995713,,0,0,0,"",0,0,0,comment="Wrong Side: 2330747",label="3 FRANGIPANI STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.502865,-34.995586,,0,0,0,"",0,0,0,comment="Wrong Side: 2324294",label="1 FRANGIPANI STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.503602,-34.995827,,0,0,0,"",0,0,0,comment="Wrong Side: 2330736",label="5 MAGNOLIA DRIVE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.503639,-34.996013,,0,0,0,"",0,0,0,comment="Wrong Side: 2330737",label="7 MAGNOLIA DRIVE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.503525,-34.995658,,0,0,0,"",0,0,0,comment="Wrong Side: 2330735",label="3 MAGNOLIA DRIVE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.503444,-34.995522,,0,0,0,"",0,0,0,comment="Wrong Side: 2324296",label="1 MAGNOLIA DRIVE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.932847,-35.230875,,0,0,0,"",0,0,0,comment="Wrong Side: 2347920",label="3 FIELD VIEW",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.965418,-35.224181,,0,0,0,"",0,0,0,comment="Wrong Side: 2478308",label="19 KERIDALE LANE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.964959,-35.224222,,0,0,0,"",0,0,0,comment="Wrong Side: 2478309",label="21 KERIDALE LANE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.049126,-35.279691,,0,0,0,"",0,0,0,comment="Wrong Side: 2459766",label="7 RIVERGLEN DRIVE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.049627,-35.279630,,0,0,0,"",0,0,0,comment="Wrong Side: 2459761",label="3 RIVERGLEN DRIVE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.049376,-35.279665,,0,0,0,"",0,0,0,comment="Wrong Side: 2459763",label="5 RIVERGLEN DRIVE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.049836,-35.279602,,0,0,0,"",0,0,0,comment="Wrong Side: 2459757",label="1 RIVERGLEN DRIVE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.466493,-35.507095,,0,0,0,"",0,0,0,comment="Wrong Side: 2518169",label="15 HUGH BARRON WAY",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.621101,-35.016039,,0,0,0,"",0,0,0,comment="Wrong Side: 2039694",label="36 CONAGLEN ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.945955,-35.224292,,0,0,0,"",0,0,0,comment="Wrong Side: 1247009",label="6 WENTWORTH TERRACE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.973219,-35.209949,,0,0,0,"",0,0,0,comment="Wrong Side: 1064536",label="69 KENDALL ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.925735,-35.247571,,0,0,0,"",0,0,0,comment="Wrong Side: 2051025",label="28 POPLAR LANE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.924920,-35.248030,,0,0,0,"",0,0,0,comment="Wrong Side: 2051026",label="30A-30D POPLAR LANE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.070746,-35.378342,,0,0,0,"",0,0,0,comment="Wrong Side: 1224019",label="8 MARSHALL STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.655795,-35.288396,,0,0,0,"",0,0,0,comment="Wrong Side: 2346223",label="26 HARRIS ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.544999,-35.328891,,0,0,0,"",0,0,0,comment="Wrong Side: 2082172",label="806 TE TIO ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.548909,-35.300338,,0,0,0,"",0,0,0,comment="Wrong Side: 2446306",label="49 KAHIKATOA ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.538848,-34.976779,,0,0,0,"",0,0,0,comment="Wrong Side: 1346954",label="28 MARCHANT ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.346021,-35.095375,,0,0,0,"",0,0,0,comment="Wrong Side: 2098808",label="474 SNELGAR ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.489911,-34.991350,,0,0,0,"",0,0,0,comment="Wrong Side: 1212655",label="4 HERETAUNGA CRESCENT",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.490459,-34.991114,,0,0,0,"",0,0,0,comment="Wrong Side: 1212659",label="12 HERETAUNGA CRESCENT",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.490201,-34.991214,,0,0,0,"",0,0,0,comment="Wrong Side: 1212658",label="8 HERETAUNGA CRESCENT",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.491471,-34.991449,,0,0,0,"",0,0,0,comment="Wrong Side: 1212657",label="42 HERETAUNGA CRESCENT",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.489670,-34.991193,,0,0,0,"",0,0,0,comment="Wrong Side: 2470262",label="2B HERETAUNGA CRESCENT",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.145131,-35.171127,,0,0,0,"",0,0,0,comment="Wrong Side: 1116175",label="84 FORESHORE ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.144940,-35.171216,,0,0,0,"",0,0,0,comment="Wrong Side: 1015797",label="86 FORESHORE ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.145802,-35.170811,,0,0,0,"",0,0,0,comment="Wrong Side: 1213167",label="72 FORESHORE ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.145579,-35.170922,,0,0,0,"",0,0,0,comment="Wrong Side: 1213165",label="76 FORESHORE ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.168556,-35.179207,,0,0,0,"",0,0,0,comment="Wrong Side: 2084607",label="1304 KAITAIA-AWAROA ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.909053,-35.073194,,0,0,0,"",0,0,0,comment="Wrong Side: 2110067",label="236 TEPENE TABLELANDS ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.274140,-35.545401,,0,0,0,"",0,0,0,comment="Wrong Side: 2588523",label="16 MCLENNAN ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.482925,-35.558970,,0,0,0,"",0,0,0,comment="Wrong Side: 2037488",label="6 WOOLLEY STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.483130,-35.559577,,0,0,0,"",0,0,0,comment="Wrong Side: 2037492",label="14 WOOLLEY STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.308581,-35.475321,,0,0,0,"",0,0,0,comment="Wrong Side: 2156164",label="42 MATHESON ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.980728,-35.212829,,0,0,0,"",0,0,0,comment="Wrong Side: 1027214",label="2 TASMAN PLACE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.111601,-35.320712,,0,0,0,"",0,0,0,comment="Wrong Side: 2183526",label="2A BEAUFORT STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.989569,-35.362882,,0,0,0,"",0,0,0,comment="Wrong Side: 2144816",label="60A NGAHUHU ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.998473,-35.196413,,0,0,0,"",0,0,0,comment="Wrong Side: 2180361",label="30 RANGITANE LOOP ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.998713,-35.196452,,0,0,0,"",0,0,0,comment="Wrong Side: 2180362",label="32 RANGITANE LOOP ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.998245,-35.196389,,0,0,0,"",0,0,0,comment="Wrong Side: 2180360",label="28 RANGITANE LOOP ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.115885,-35.312355,,0,0,0,"",0,0,0,comment="Wrong Side: 1031892",label="14 SIR GEORGE BACK STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.114601,-35.311901,,0,0,0,"",0,0,0,comment="Wrong Side: 992158",label="2 SIR GEORGE BACK STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.115441,-35.312240,,0,0,0,"",0,0,0,comment="Wrong Side: 1149468",label="10 SIR GEORGE BACK STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.115247,-35.312204,,0,0,0,"",0,0,0,comment="Wrong Side: 1157803",label="8 SIR GEORGE BACK STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.115647,-35.312278,,0,0,0,"",0,0,0,comment="Wrong Side: 1132895",label="12 SIR GEORGE BACK STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.115035,-35.312165,,0,0,0,"",0,0,0,comment="Wrong Side: 1164048",label="6 SIR GEORGE BACK STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.114828,-35.312114,,0,0,0,"",0,0,0,comment="Wrong Side: 1126815",label="4 SIR GEORGE BACK STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.116072,-35.312410,,0,0,0,"",0,0,0,comment="Wrong Side: 1120180",label="16 SIR GEORGE BACK STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.350947,-35.252285,,0,0,0,"",0,0,0,comment="Wrong Side: 2081071",label="350 PUKEMIRO ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.371404,-35.260522,,0,0,0,"",0,0,0,comment="Wrong Side: 2081068",label="48 PUKEMIRO ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.364447,-35.255911,,0,0,0,"",0,0,0,comment="Wrong Side: 2081070",label="164 PUKEMIRO ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.371082,-35.259574,,0,0,0,"",0,0,0,comment="Wrong Side: 2081069",label="64 PUKEMIRO ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.799992,-35.408325,,0,0,0,"",0,0,0,comment="Wrong Side: 1086565",label="8A-8B DICKESON STREET",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.254490,-35.111499,,0,0,0,"",0,0,0,comment="Wrong Side: 1030499",label="6 MASTERS PLACE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.141928,-35.175382,,0,0,0,"",0,0,0,comment="Wrong Side: 1261108",label="52 TASMAN HEIGHTS",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.744731,-35.055631,,0,0,0,"",0,0,0,comment="Wrong Side: 2093369",label="424 WHANGAROA ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.709406,-35.043893,,0,0,0,"",0,0,0,comment="Wrong Side: 2039081",label="6 GANGWAY ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.706552,-35.044103,,0,0,0,"",0,0,0,comment="Wrong Side: 2039085",label="28 GANGWAY ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.706157,-35.044102,,0,0,0,"",0,0,0,comment="Wrong Side: 2039086",label="34 GANGWAY ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.705036,-35.044111,,0,0,0,"",0,0,0,comment="Wrong Side: 2039089",label="46 GANGWAY ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.365632,-35.438599,,0,0,0,"",0,0,0,comment="Wrong Side: 2156684",label="11 OWAI AVENUE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.366451,-35.438686,,0,0,0,"",0,0,0,comment="Wrong Side: 2156681",label="5 OWAI AVENUE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.366186,-35.438685,,0,0,0,"",0,0,0,comment="Wrong Side: 2156682",label="7 OWAI AVENUE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.365365,-35.438627,,0,0,0,"",0,0,0,comment="Wrong Side: 2156685",label="13 OWAI AVENUE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.365930,-35.438642,,0,0,0,"",0,0,0,comment="Wrong Side: 2156683",label="9 OWAI AVENUE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.946910,-35.231682,,0,0,0,"",0,0,0,comment="Wrong Side: 2112441",label="13B WOODLEY PLACE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.946758,-35.231698,,0,0,0,"",0,0,0,comment="Wrong Side: 2112440",label="13A WOODLEY PLACE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.946581,-35.231929,,0,0,0,"",0,0,0,comment="Wrong Side: 2105521",label="9 WOODLEY PLACE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.946688,-35.231810,,0,0,0,"",0,0,0,comment="Wrong Side: 2105523",label="11 WOODLEY PLACE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.177884,-35.285834,,0,0,0,"",0,0,0,comment="Wrong Side: 2049338",label="216 PAROA BAY ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,174.173696,-35.286165,,0,0,0,"",0,0,0,comment="Wrong Side: 2049341",label="250 PAROA BAY ROAD",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.752393,-35.052378,,0,0,0,"",0,0,0,comment="Wrong Side: 2192831",label="30 OHAKIRI WAY",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.503971,-34.995962,,0,0,0,"",0,0,0,comment="Wrong Side: 2330741",label="8 MAGNOLIA DRIVE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.503727,-34.995607,,0,0,0,"",0,0,0,comment="Wrong Side: 2330743",label="4 MAGNOLIA DRIVE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.503621,-34.995437,,0,0,0,"",0,0,0,comment="Wrong Side: 2324297",label="2 MAGNOLIA DRIVE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.503819,-34.995791,,0,0,0,"",0,0,0,comment="Wrong Side: 2330742",label="6 MAGNOLIA DRIVE",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.933078,-35.230385,,0,0,0,"",0,0,0,comment="Wrong Side: 2347916",label="4 FIELD VIEW",
+;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.932017,-35.231388,,0,0,0,"",0,0,0,comment="Wrong Side: 2347924",label="6 RIVERSTONE LANE",
 ;@FILE,"D:\nzopengps\Numbers\Northland-numbers.gdb",1,".\Numbers\Northland-numbers.gdb"

@@ -18,7 +18,6 @@
 4574	MACRAES BACK RD		MacRaes Flat (Otago, NZ)
 421	SWANSEA ST	Moeraki (Otago, NZ)	8/10/2010 8:50:46 p.m.
 4584	WEST ST			Moeraki (Otago, NZ)			31/08/2011 6:57p.m.
-498	LONG ST		Reidston (Otago, NZ)
 498	LONG ST	Reidston (Otago, NZ)	28/08/2010 12:19:18 a.m.
 675	ASCOT RD		Weston (Otago, NZ)
 1088	WHITEHEAD RD	Naseby (Otago, NZ)	6/11/2010 10:36:05 p.m.

@@ -4,7 +4,6 @@
 9607	Anglesey St	Conway (Canterbury, NZ)
 9616	MERTHYR-TYDVIL TCE	Conway (Canterbury, NZ)
 9654	Cardiff Rd	Conway (Canterbury, NZ)
-1030000039618  E B RD		Kumara (West Coast, NZ)
 20263	TOWN BELT W	Kumara (West Coast, NZ)
 20261	TOWN BELT N	Kumara (West Coast, NZ)
 20285	CAMP ST		Kumara (West Coast, NZ)
@@ -18,12 +17,6 @@
 20630	HAMILTON ST	Marsden (West Coast, NZ)
 20026	CARD ST		Marsden (West Coast, NZ)
 19121	CLIFTON RD	Clifton (Tasman, NZ)
-No Sufi		NEWMAN ST	Clifton (Tasman, NZ)
-No Sufi		BLESSINGTON S	Clifton (Tasman, NZ)
-No Sufi		SHELLEY ST	Clifton (Tasman, NZ)
-No Sufi		FRANCIS ST	Clifton (Tasman, NZ)
-No Sufi		MILLER ST	Pakawau (Tasman, NZ)
-No Sufi		LEICHARDT ST	Pakawau (Tasman, NZ)
 90108	WARD PL		Puponga (Tasman, NZ)
 19496	PITT ST		Puponga (Tasman, NZ)
 18279	MILLS ST	Puponga (Tasman, NZ)
@@ -64,7 +57,6 @@ No Sufi		LEICHARDT ST	Pakawau (Tasman, NZ)
 19844	DICKINSON PDE	Punakaiki (West Coast, NZ)
 91235	TODD BUSH RD	Todds Valley (Nelson, NZ)
 19363	BEACH RD	Granity (West Coast, NZ)
-No Sufi		DRIVER RD	Lower Moutere (Tasman, NZ)
 17840	DONOVAN ST	Reefton (West Coast, NZ)	3/11/2011 2:24p.m.
 19721	BOUNDARY RD	Reefton (West Coast, NZ)	3/11/2011 2:26p
 19383	RAMSY ST	RAHU SADDLE

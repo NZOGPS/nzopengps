@@ -35574,7 +35574,7 @@ Type=0x2a05
 Label=COUPLANDS DUNEDIN
 StreetDesc=560 Kaikorai Valley Rd, Dud/ bakery
 Phone=+6434884215
-zip=Mon-Sun 6.00am-6.00pm
+zip=Mon-Sun 7am-6pm
 Data0=(-45.88922,170.46180)
 [END]
 
@@ -38464,7 +38464,7 @@ Data0=(-45.89759,170.33873)
 
 ;1100813
 [POI]
-Type=0x2f
+Type=0x2f11
 Label=?AHIPARA LUXURY TRAVEL NEW ZEALAND
 StreetDesc=3782 Becks-Lauder Rd, RD2, Omakau, Central Otago/ New Zealand’s most innovative,
 Phone=+34473558
@@ -62222,10 +62222,10 @@ Data0=(-43.52697,172.61195)
 ;1114818
 [POI]
 Type=0x2b00
-Label=THE VINTNERS RETREAT
+Label=VINTNERS RETREAT
 StreetDesc=55 Rapaura Rd, Renwick, Blenheim/ Accommodation
 Phone=+6435727420
-Data0=(-41.47597,173.88694)
+Data0=(-41.48575,173.82209)
 [END]
 
 ;1114819
@@ -78261,15 +78261,6 @@ Label=LINDSAY'S ANTIQUES
 StreetDesc=351 Tay St, Invercargill, Southland/ Antiques, Antique Shop
 Phone=+6432174555
 Data0=(-46.41163,168.37095)
-[END]
-
-;1120461
-[POI]
-Type=0x2e
-Label=MARLBOROUGH TRADERS LTD
-StreetDesc=14 Market St, Blenheim, Marlborough/ Antiques, Antique Shop, Secondhand Dealer
-Phone=+6435794343
-Data0=(-41.51131,173.95670)
 [END]
 
 ;1120463
@@ -102006,20 +101997,14 @@ StreetDesc=110 Lichfield St, Chc/ cafe, bar
 Data0=(-43.53432,172.63922)
 [END]
 
-;1132119
-[POI]
-Type=0x2f
-Label=THE LOTUS-HEART
-StreetDesc=31 Cathedral Sq, Chc/ 
-Data0=(-43.53134,172.63549)
-[END]
-
 ;1132120
 [POI]
-Type=0x2f
-Label=THE LOTUS-HEART
-StreetDesc=595 Colombo St, Chc/ 
-Data0=(-43.53619,172.63647)
+Type=0x2a
+Label=?THE LOTUS-HEART
+StreetDesc=363 At Asaph St, Chc/ vegetarian restaurant and boutique health store
+Phone=+6433772727
+zip=Tues-Sun 7.30am to 3pm, Fri-Sat 5.00-9.0
+Data0=(-43.53636,172.64790)
 [END]
 
 ;1132121
@@ -144592,7 +144577,7 @@ Data0=(-41.26695,173.27650)
 ;1154940
 [POI]
 Type=0x2F07
-Label=NELSON BAYS HOLDEN
+Label=NELSON BAYS HOLDEN & NISSAN
 StreetDesc=cnr Collingwood & Halifax Sts, Nelson/ Car dealer
 Phone=+6435469232
 Data0=(-41.27101,173.28688)
@@ -147708,7 +147693,7 @@ Data0=(-43.61336,172.29502)
 [POI]
 Type=0x2f
 Label=CHARLIES TAKEAWAYS
-StreetDesc=32 West Town Belt, Rakaia/ Septic tank cleaner
+StreetDesc=32 West Town Belt, Rakaia/ Septic tank cleaner. Effluent services.Jetting.Unbloc
 Phone=+6427433514
 Data0=(-43.75024,172.01851)
 [END]
@@ -157326,8 +157311,8 @@ Data0=(-42.40112,173.67616)
 ;1161949
 [POI]
 Type=0x2c05
-Label=LITTLE WONDERS OAMARU
-StreetDesc=303 Thames Highway, Oamaru/ Early Childhood Centre, Preschool, childcare
+Label=LITTLE WONDERS EARLY CHILDHOOD CENTRE, OAMARU
+StreetDesc=303 Thames St, Oamaru 9400/ We have fantastic learning facilities and resources 
 Phone=+6434342459
 Data0=(-45.09038,170.97502)
 [END]
@@ -157335,17 +157320,17 @@ Data0=(-45.09038,170.97502)
 ;1161951
 [POI]
 Type=0x2c05
-Label=LITTLE WONDERS ST KILDA
-StreetDesc=146 Victoria Rd, St Clair, Dud/ Early Childhood Centre, Preschool, childcare
+Label=LITTLE WONDERS EARLY CHILDHOOD CENTRE, ST KILDA
+StreetDesc=146A Victoria Rd, St Kilda, Dud/ Let your children learn, play and develop frien
 Phone=+6434553337
-Data0=(-45.90928,170.49533)
+Data0=(-45.90920,170.49528)
 [END]
 
 ;1161953
 [POI]
 Type=0x2c05
-Label=LITTLE WONDERS CROMWELL
-StreetDesc=102 Barry Ave, Cromwell/ Early Childhood Centre, Preschool, childcare
+Label=LITTLE WONDERS EARLY CHILDHOOD CENTRE, CROMWELL
+StreetDesc=102A Barry Ave, Cromwell/ Our team are skilled in dealing with the needs and req
 Phone=+6434454550
 Data0=(-45.04808,169.19509)
 [END]
@@ -203889,15 +203874,6 @@ zip=by appointment Mo - Fr 9am-8pm, Sat 10am
 Data0=(-45.89540,170.52488)
 [END]
 
-;1192842
-[POI]
-Type=0x2f
-Label=LIMELIGHT ONLINE
-StreetDesc=116 Buchan St, Sydenham, Chc/ From website design & development and Content Mana
-Phone=+6433746518
-Data0=(-43.54180,172.63830)
-[END]
-
 ;1192843
 [POI]
 Type=0x2f
@@ -205035,9 +205011,9 @@ Data0=(-43.54651,172.52414)
 
 ;1193542
 [POI]
-Type=0x2f
-Label=LITTLE WONDERS CHILDCARE - TIMARU
-StreetDesc=210 Otipua Rd, Timaru/ At Little Wonders early childhood centres we work with yo
+Type=0x2c05
+Label=LITTLE WONDERS EARLY CHILDHOOD CENTRE - OTIPUA RD, TIMARU
+StreetDesc=210 Otipua Rd, Timaru/ Allow your children to explore and learn about the world 
 Phone=+6436888816
 Data0=(-44.39836,171.22442)
 [END]
@@ -205663,9 +205639,9 @@ Data0=(-43.54419,172.56659)
 [POI]
 Type=0x2f
 Label=HOMEPLUS TIMARU
-StreetDesc=27 North St, Timaru/ Manufacturer of custom-made doors. Gates, Balustrade, Awnin
+StreetDesc=11 Martin St, Washdyke Timaru/ Manufacturer of custom-made doors. Gates, Balustr
 Phone=+6436871296
-Data0=(-44.40051,171.25300)
+Data0=(-44.35116,171.23223)
 [END]
 
 ;1195433
@@ -209498,8 +209474,37 @@ Data0=(-44.24527,169.22289)
 ;1204667
 [POI]
 Type=0x2a07
-Label=?MCDONALD'S ROLLESTON
+Label=MCDONALD'S ROLLESTON 24HR
 StreetDesc=Kidman St, Rolleston 7614, New Zealand/ Family restaurant. Burgers, fast food, t
-Data0=(-43.59073,172.38137)
+zip=24hrs
+Data0=(-43.59048,172.38112)
+[END]
+
+;1204674
+[POI]
+Type=0x2f
+Label=WANAKA INTERNET CAFELOUNGE
+StreetDesc=upstair 3 Helwick St/ Internet cafe and wireless Wi-Fi Hotstpot
+Phone=+34436846
+zip=9am - 7pm daily
+Data0=(-44.69520,169.13486)
+[END]
+
+;1204691
+[POI]
+Type=0x2F07
+Label=NELSON BAYS SUZUKI & SUBARU
+StreetDesc=Cnr Collingwood St and Halifax St, Nelson/ Car dealer
+Phone=+6435482235
+Data0=(-41.27071,173.28687)
+[END]
+
+;1204692
+[POI]
+Type=0x2F07
+Label=NELSON BAYS MOTOR GROUP, RUTHERFORD
+StreetDesc=Cnr Rutherford St and Nile St West Nelson/ Car dealer
+Phone=+6435480683
+Data0=(-41.27590,173.28105)
 [END]
 

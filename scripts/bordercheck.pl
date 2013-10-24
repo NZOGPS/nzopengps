@@ -286,13 +286,13 @@ sub CheckTiles{
 	CheckEdge($tile1,$edge1,$tile2,$edge2);
 }
 
-CheckTiles ('Southland',0,'Canterbury',2);
-CheckTiles ('Canterbury',0,'Tasman',2);
-CheckTiles ('Tasman',1,'Wellington',3);
-CheckTiles ('Wellington',0,'Central',2);
+#CheckTiles ('Southland',0,'Canterbury',2);
+#CheckTiles ('Canterbury',0,'Tasman',2);
+#CheckTiles ('Tasman',1,'Wellington',3);
+#CheckTiles ('Wellington',0,'Central',2);
 CheckTiles ('Central',0,'Waikato',2);
 CheckTiles ('Waikato',0,'Auckland',2);
-CheckTiles ('Auckland',0,'Northland',2);
+#CheckTiles ('Auckland',0,'Northland',2);
 
 #for my $key (keys %tiles){
 #	my $tk = $tiles{$key};

@@ -12816,7 +12816,6 @@ RouteParam=3,0,0,0,0,0,0,0,0,0,0,0
 Data0=(-35.57238,174.32202),(-35.57214,174.32217),(-35.57204,174.32217)
 Nod1=0,3575,1
 Nod2=2,2612,0
-Numbers1=0,O,23,71,N,-1,-1
 [END]
 
 ;linzid=56009
@@ -68432,6 +68431,5 @@ Numbers2=7,O,849,877,N,-1,-1
 ;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.129005,-35.186924,,0,0,0,"",0,0,0,comment="Wrong Side: 2087920",label="175 GUMFIELDS ROAD",
 ;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.128171,-35.186319,,0,0,0,"",0,0,0,comment="Wrong Side: 2087919",label="149 GUMFIELDS ROAD",
 ;@BM,custom_poi,poi-Northland-WrongSide,0,0.000000,173.141928,-35.175382,,0,0,0,"",0,0,0,comment="Wrong Side: 1261108",label="52 TASMAN HEIGHTS",
-;@FILE,"C:\Gary\NZOGPS\nzopengps\Numbers\Northland-numbers.gdb",1,".\Numbers\Northland-numbers.gdb"
-;@FILE,"C:\Documents and Settings\turner\My Documents\Downloads\Northland Addons\All.gdb",1,"..\..\..\Documents and Settings\turner\My Documents\Downloads\Northland Addons\All.gdb"
+;@FILE,"C:\Users\Peter\Documents\NZOGPS\nzopengps\Numbers\Northland-numbers.gdb",1,".\Numbers\Northland-numbers.gdb"
 ;@WEBMAPSHIFT,"bing-maps-sat",-7.0,0.0

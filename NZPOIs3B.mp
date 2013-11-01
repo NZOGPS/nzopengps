@@ -16316,10 +16316,11 @@ Data0=(-43.38250,172.65877)
 ;1057694
 [POI]
 Type=0x2f
-Label=IRELANDS REAL ESTATE AGENTS AND PROPERTY MANAGERS
-StreetDesc=57 Woodham Rd, Avonside, Chc/ Real estate agency
-Phone=+6433890000
-Data0=(-43.52503,172.66422)
+Label=IRELANDS PROPERTY MANAGEMENT
+StreetDesc=57 Woodham Rd, Linwood, Chc 8062/ Irelands Property Management offer free market
+Phone=+6433772090
+zip=8.30am - 5pm Monday to Friday
+Data0=(-43.52502,172.66426)
 [END]
 
 ;1057750
@@ -56668,9 +56669,9 @@ Data0=(-43.48846,172.56261)
 [POI]
 Type=0x2f
 Label=ELITE POWDER COATING
-StreetDesc=110 Orbell St, Sydenham, Chc/ 
+StreetDesc=41 Leeds st, Phillipstown, Chc/ Abrasive blasting, Powder coating, Performance C
 Phone=+6433663388
-Data0=(-43.54226,172.63223)
+Data0=(-43.53766,172.65331)
 [END]
 
 ;1111638
@@ -72260,7 +72261,7 @@ Data0=(-44.39184,171.24731)
 ;1118255
 [POI]
 Type=0x2e02
-Label=ONLY NATURAL ORGANICS
+Label=ONLY NATURAL ORGANICS CLOSED DOWN
 StreetDesc=30A Elizabeth St, Seaview, Timaru/ Supermarket, food
 Phone=+6436866613
 zip=9am-5pm, Mon-Fri
@@ -72906,7 +72907,7 @@ Data0=(-43.51919,171.65540)
 ;1118385
 [POI]
 Type=0x2f0c
-Label=KAITUNA TOILET
+Label=KAITUNA VALLEY TOILET
 StreetDesc=Kaituna Valley Rd/ Toilet
 Data0=(-43.74442,172.68833)
 [END]
@@ -74431,9 +74432,9 @@ Data0=(-45.56036,167.61831)
 [POI]
 Type=0x2b01
 Label=DISTINCTION LUXMORE HOTEL
-StreetDesc=corner of Mokonui St and Town Ctr Rd, Te Anau/ Luxury hotel accommodation
+StreetDesc=41 Town Ctr, Te Anau/ Luxury hotel accommodation
 Phone=+6432497526
-Data0=(-45.41576,167.71432)
+Data0=(-45.41618,167.71340)
 [END]
 
 ;1119304
@@ -117593,9 +117594,11 @@ Data0=(-44.73908,171.04718)
 ;1139160
 [POI]
 Type=0x2f
-Label=?HAIR & BEAUTY SALON
-StreetDesc=Harbour View Rest Home, Waterfront Rd, Oamaru/ Hairdressers
-Data0=(-45.10736,170.97087)
+Label=HAIR & BEAUTY SALON KAKANUI
+StreetDesc=115 FORTIFICATION RD KAKANUI/ Hairdressers
+Phone=+6434395103
+zip=MONDAY TO FRIDAY BY APPOINTMENT
+Data0=(-45.16764,170.89712)
 [END]
 
 ;1139161
@@ -129974,6 +129977,16 @@ StreetDesc=297 Ferry Rd, Chc/ Funeral director
 Data0=(-43.54027,172.66141)
 [END]
 
+;1146627
+[POI]
+Type=0x2f
+Label=BENSONS HAIR & BEAUTY
+StreetDesc=266 Lincoln Rd, Addington Chc/ Hair & Beauty
+Phone=+33482764
+zip=Tues - Fri 9am-6pm, Thu9am-9pm, Sat 9am-
+Data0=(-43.54500,172.60993)
+[END]
+
 ;1146628
 [POI]
 Type=0x2f
@@ -132979,8 +132992,9 @@ Data0=(-43.50798,172.65145)
 ;1147042
 [POI]
 Type=0x2f
-Label=TALKING HEADS
-StreetDesc=466A Colombo St, Chc/ Hairdresser
+Label=TALKING HEADS HAIR DESIGN
+StreetDesc=466 Colombo St, Chc/ Hairdresser
+Phone=+6433657517
 Data0=(-43.54273,172.63683)
 [END]
 
@@ -165347,7 +165361,7 @@ Data0=(-43.50984,172.61939)
 [POI]
 Type=0x2f
 Label=EAR HEALTH CANTERBURY
-StreetDesc=275 Riccarton Rd, Chc/ 
+StreetDesc=275 Riccarton Rd, Chc/ Ear cleaning, microsuction
 Phone=+6433488716
 Data0=(-43.53119,172.58348)
 [END]
@@ -175293,8 +175307,9 @@ Data0=(-43.57689,172.56746)
 [POI]
 Type=0x2d00
 Label=HAVE A SHOT SHOOTING COMPLEX
-StreetDesc=7 Mt Barker Rd, Wanaka, Otago 9382, New Zealand/ Mini golf, Golf Driving Range, 
-Phone=+6434436657
+StreetDesc=87 Mt Barker Rd, Wanaka, Otago 9382, New Zealand/ Mini golf, Golf Driving Range,
+Phone=+6434436656
+zip=9.00am to 5.00pm
 Data0=(-44.72443,169.23977)
 [END]
 
@@ -187777,16 +187792,6 @@ StreetDesc=Bank St, Timaru/ Hardware, Building Supplies, Plumbing, Gardening, Po
 Data0=(-44.39825,171.25051)
 [END]
 
-;1177389
-[POI]
-Type=0x2f
-Label=IRELANDS PROPERTY MANAGEMENT CHRISTCHURCH
-StreetDesc=307 Durham St, Chc/ Real Estate Agents and Property Managers
-Phone=+6433772090
-zip=9am-5pm, Monday-Friday
-Data0=(-43.52722,172.63341)
-[END]
-
 ;1177390
 [POI]
 Type=0x2f
@@ -192231,15 +192236,6 @@ Label=ACTION PLASTICS
 StreetDesc=94 Shortland St, Aranui, Chc/ Action Plastics, Specialists in plastic injection 
 Phone=+6433820422
 Data0=(-43.51765,172.69489)
-[END]
-
-;1179744
-[POI]
-Type=0x2f
-Label=ELITE POWDER COATING
-StreetDesc=10 Orbell St, Sydenham, Chc/ Powder Coating specialists in Christchurch, New Zea
-Phone=+6433663388
-Data0=(-43.54614,172.63210)
 [END]
 
 ;1179745
@@ -209506,5 +209502,60 @@ Label=NELSON BAYS MOTOR GROUP, RUTHERFORD
 StreetDesc=Cnr Rutherford St and Nile St West Nelson/ Car dealer
 Phone=+6435480683
 Data0=(-41.27590,173.28105)
+[END]
+
+;1204723
+[POI]
+Type=0x2e
+Label=FANTAIL GIFTS
+StreetDesc=Shop 6 Cathedral Junction, 111 Worcester St, Chc/ Gifts, Cards, Wrap, Jewellery,
+Phone=+6432601258
+Data0=(-43.53081,172.63867)
+[END]
+
+;1204727
+[POI]
+Type=0x2c02
+Label=?WARBIRDS & WHEELS
+StreetDesc=11 Lloyd Dunn Ave, Wanaka Airport/ Airoplanes, classic cars
+zip=9am - 5pm Nov-Apr, 9am-4pm May-Oct
+Data0=(-44.72405,169.24351)
+[END]
+
+;1204728
+[POI]
+Type=0x2c02
+Label=?NATIONAL TRANSPORT & TOY MUSEUM
+StreetDesc=851/905 Wanaka-Luggate Highway, Luggate 9382, New Zealand/ rare and unusual airc
+Phone=+6434438765
+zip=8.30am - 5pm
+Data0=(-44.72274,169.23862)
+[END]
+
+;1204733
+[POI]
+Type=0x2f
+Label=BLAIR MCNAB PLUMBING LTD
+StreetDesc=30 McBride St, Dud, New Zealand/ Offering Dunedin customers a range of Plumbing 
+Phone=+6434550899
+zip=Monday - Friday 8:00 am - 4:30pm
+Data0=(-45.89448,170.50069)
+[END]
+
+;1204735
+[POI]
+Type=0x2f0c
+Label=KAITUNA QUARRY TOILET 24HR
+StreetDesc=SH75, Kaituna/ Toilet
+zip=24/7
+Data0=(-43.78205,172.65512)
+[END]
+
+;1204741
+[POI]
+Type=0x2f0c
+Label=HAWEA PUBLIC TOILET
+StreetDesc=Esplanade Reserve, Lake Hawea/ Toilet
+Data0=(-44.61069,169.25847)
 [END]
 

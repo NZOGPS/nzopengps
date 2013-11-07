@@ -12046,7 +12046,7 @@ Data0=(-43.54730,172.65437)
 ;1041769
 [POI]
 Type=0x2f01
-Label=MCKEOWN OTEMATATA 24HR
+Label=MCKEOWN CARDFUEL OTEMATATA 24HR
 StreetDesc=Main Rd, Otematata/ Petrol station
 Phone=+6434331022
 zip=24 hours
@@ -28925,6 +28925,7 @@ Type=0x2a
 Label=THE LAZY DOG
 StreetDesc=2 Gladsmuir Rd, Queensberry/ restaurant / cellar door
 Phone=+6434453211
+zip=Tues - Sun: 11.00am – 4.00pm, Sat: 5.30p
 Data0=(-44.84074,169.32922)
 [END]
 
@@ -29575,15 +29576,6 @@ Label=BABY CITY DUNEDIN
 StreetDesc=140 Cumberland St, Dud/ baby and mother care products
 Phone=+6434774420
 Data0=(-45.87948,170.50489)
-[END]
-
-;1093415
-[POI]
-Type=0x2e
-Label=BABY CITY INVERCARGILL
-StreetDesc=42 Tay St, Invercargill/ baby and mother care products
-Phone=+6432183899
-Data0=(-46.41282,168.34960)
 [END]
 
 ;1093436
@@ -42064,9 +42056,9 @@ Data0=(-43.48084,172.60223)
 [POI]
 Type=0x2b01
 Label=CARDRONA HOTEL
-StreetDesc=Crown Range Rd, RD 1, Wanaka/ Accommodation, restaurant, bar, weddings & functio
+StreetDesc=2310 Cardrona Valley Rd, Cardrona/ Accommodation, restaurant, bar, weddings & fu
 Phone=+6434438153
-Data0=(-44.88149,169.00345)
+Data0=(-44.88139,169.00380)
 [END]
 
 ;1102893
@@ -60747,9 +60739,9 @@ Data0=(-43.55051,172.56772)
 
 ;1113920
 [POI]
-Type=0x2f
+Type=0x2e08
 Label=STIHL SHOP INVERCARGILL
-StreetDesc=110 Yarrow St, Invercargill/ Outdoor power equipment, lawn mowers, chainsaws, va
+StreetDesc=120 Tay St, Invercargill/ Outdoor power equipment. Chainsaws, brushcutters, powe
 Phone=+6432189364
 zip=Mon-Fri 0800-1730, Sat 1000-1300
 Data0=(-46.40845,168.35506)
@@ -67089,9 +67081,9 @@ Data0=(-41.46714,172.47882)
 ;1116851
 [POI]
 Type=0x6402
-Label=?CEDAR FLAT HUT (HISTORIC)
+Label=CEDAR FLAT HUT (HISTORIC)
 StreetDesc=Stewardship Land - South Island > West Coast > Hokitika/ DOC Backcountry hut
-Data0=(-42.96297,171.14422)
+Data0=(-42.96293,171.14437)
 [END]
 
 ;1116853
@@ -77278,10 +77270,10 @@ Data0=(-46.42715,168.36084)
 [POI]
 Type=0x2e
 Label=SMITH'S BOOKSHOP
-StreetDesc=117 Manchester St, Chc/ Secondhand Bookshop, Second Hand Books
+StreetDesc=The Tannery, 3 Garlands Rd, Woolston/ Secondhand Bookshop, Second Hand Books
 Phone=+6433797976
-zip=Mon-Fri 10:30am-5:30pm, Sat 10:30am-2:30
-Data0=(-43.53499,172.63950)
+zip=10.00am - 5.00pm Sunday 4.00pm
+Data0=(-43.55681,172.68026)
 [END]
 
 ;1120128
@@ -101690,14 +101682,6 @@ StreetDesc=51 Chester St West, Chc/
 Data0=(-43.52753,172.63321)
 [END]
 
-;1132076
-[POI]
-Type=0x2a0e
-Label=THE COFFEE SMITHS (CASHEL ST) LIMITED
-StreetDesc=192 Cashel St, Chc/ Cafe, Coffee
-Data0=(-43.53324,172.64019)
-[END]
-
 ;1132077
 [POI]
 Type=0x2f
@@ -104128,16 +104112,6 @@ zip=Monday to Friday
 Data0=(-43.50428,172.64102)
 [END]
 
-;1133283
-[POI]
-Type=0x2f
-Label=WINDOW TREATMENTS DUNEDIN
-StreetDesc=247 Hanover St, Dud/ Blinds, Shutters, Awnings
-Phone=+6434740461
-zip=Mon-Fri 0800-1730, Sat 0900-1300
-Data0=(-45.87164,170.51234)
-[END]
-
 ;1133304
 [POI]
 Type=0x2e
@@ -104156,25 +104130,6 @@ StreetDesc=330 Cashel St, Chc/ Blind Cleaning, Blind Repairs
 Phone=+6433770770
 zip=8:00 to 5:00
 Data0=(-43.53322,172.64898)
-[END]
-
-;1133309
-[POI]
-Type=0x2f
-Label=WINDOW TREATMENTS NELSON
-StreetDesc=11 McGlashen Ave/ Blinds, Shutters, Awnings
-Phone=+6435438015
-zip=By Appointment
-Data0=(-41.33749,173.18447)
-[END]
-
-;1133310
-[POI]
-Type=0x2f
-Label=READY MADE BLINDS NZ LTD
-StreetDesc=330 Cashel St, Chc/ Aluminium Blinds, Basswood Blinds, PVC Blinds, Roller Blinds
-zip=Mon-Fri 0800-1730, Sat 0900-1500
-Data0=(-43.53321,172.64898)
 [END]
 
 ;1133311
@@ -136731,15 +136686,6 @@ Phone=+6434426768
 Data0=(-45.03139,168.66055)
 [END]
 
-;1150577
-[POI]
-Type=0x2e
-Label=BABY CITY BLENHEIM
-StreetDesc=93 Market St, Blenheim/ Baby products. Apparel, clothing, babywear and childrens
-Phone=+6435792985
-Data0=(-41.51344,173.95701)
-[END]
-
 ;1150580
 [POI]
 Type=0x2f
@@ -137717,14 +137663,6 @@ Label=LAKE ROXBURGH LODGE
 StreetDesc=20A Tamblyn Dr, Lake Roxburgh/ Restaurant / Bar
 Phone=+6434468220
 Data0=(-45.47807,169.31588)
-[END]
-
-;1150876
-[POI]
-Type=0x2a0e
-Label=LAZYDOG CAFE & WINE BAR
-StreetDesc=210 Cairnmuir Rd, Cromwell/ cafe, bar
-Data0=(-45.08519,169.18102)
 [END]
 
 ;1150877
@@ -175163,6 +175101,15 @@ Phone=+6435239196
 Data0=(-41.79845,172.33171)
 [END]
 
+;1171830
+[POI]
+Type=0x2f
+Label=SPACECRAFT: THE CHRISTCHURCH CREATIVE SPACE
+StreetDesc=200 Armagh St, Chc/ community space hack craft create
+zip=Wednesday 7pm-11pm
+Data0=(-43.52895,172.64046)
+[END]
+
 ;1171836
 [POI]
 Type=0x2b03
@@ -193079,9 +193026,9 @@ Data0=(-41.34792,173.95490)
 
 ;1180471
 [POI]
-Type=0x2f
-Label=STIHL SHOP SMITH SAW & MOWER
-StreetDesc=475 Andersons Bay Rd Dud 9012/ Whether it's lawnmowers, hedgecutters, blowers, l
+Type=0x2e08
+Label=STIHL SHOP DUNEDIN
+StreetDesc=475 Andersons Bay Rd, Dud/ Whether it's lawnmowers, hedgecutters, blowers, linet
 Phone=+6434554667
 Data0=(-45.89596,170.50661)
 [END]
@@ -202046,6 +201993,15 @@ Phone=+6435484481
 Data0=(-41.60696,172.66279)
 [END]
 
+;1191646
+[POI]
+Type=0x2f
+Label=EXPORT SOLUTIONS LTD
+StreetDesc=Unit 5A/7 Burdale St, Riccarton, Chc 8442/ Building materials supplier, Complete
+Phone=+33415957
+Data0=(-43.53384,172.60582)
+[END]
+
 ;1191650
 [POI]
 Type=0x2f
@@ -206673,7 +206629,7 @@ Data0=(-44.94122,168.77963)
 ;1196057
 [POI]
 Type=0x2f01
-Label=MCKEOWN CARDPAY FAIRLIE 24HR
+Label=MCKEOWN CARDFUEL FAIRLIE 24HR
 StreetDesc=Allendale Rd, Fairlie/ Petrol station
 zip=24 hours
 Data0=(-44.09443,170.84072)
@@ -207669,7 +207625,7 @@ Data0=(-45.10233,170.97027)
 Type=0x2f
 Label=BUY SILVER & GOLD BULLION
 StreetDesc=10 George St Dud, Otago 9016/ Buying gold in NZ? Buy silver bullion, buy gold bu
-Phone=+6439552898
+Phone=+6434779178
 Data0=(-45.87349,170.50420)
 [END]
 
@@ -209517,7 +209473,7 @@ Data0=(-43.53081,172.63867)
 [POI]
 Type=0x2c02
 Label=?WARBIRDS & WHEELS
-StreetDesc=11 Lloyd Dunn Ave, Wanaka Airport/ Airoplanes, classic cars
+StreetDesc=11 Lloyd Dunn Ave, Wanaka Airport/ Airoplanes, classic cars, cafe
 zip=9am - 5pm Nov-Apr, 9am-4pm May-Oct
 Data0=(-44.72405,169.24351)
 [END]
@@ -209557,5 +209513,323 @@ Type=0x2f0c
 Label=HAWEA PUBLIC TOILET
 StreetDesc=Esplanade Reserve, Lake Hawea/ Toilet
 Data0=(-44.61069,169.25847)
+[END]
+
+;1204745
+[POI]
+Type=0x2f
+Label=THE REMARKABLE SWEET SHOP
+StreetDesc=27 Buckinham St, Arrowtown/ 
+Phone=+6434421374
+zip=8:30am – 6:00pm
+Data0=(-44.93842,168.83180)
+[END]
+
+;1204746
+[POI]
+Type=0x2f
+Label=THE REMARKABLE SWEET SHOP
+StreetDesc=39 Beach St, Queenstown/ 
+Phone=+6434092630
+zip=9:00am – 11:00pm
+Data0=(-45.03200,168.65964)
+[END]
+
+;1204747
+[POI]
+Type=0x2f
+Label=THE GIBBSTON VALLEY CHEESE COMPANY
+StreetDesc=1820 Gibbston Highway, Gibbston 9371/ sheep, cow and goat milk cheeses. caf�, re
+Phone=+6434411388
+Data0=(-45.01233,168.91522)
+[END]
+
+;1204751
+[POI]
+Type=0x2e08
+Label=STIHL SHOP WEST COAST
+StreetDesc=11 Herbert St, Greymouth/ Outdoor power equipment. Chainsaws, brushcutters, powe
+Phone=+6437680230
+Data0=(-42.45000,171.20756)
+[END]
+
+;1204753
+[POI]
+Type=0x2e08
+Label=STIHL SHOP OAMARU
+StreetDesc=394 Thames Highway, Oamaru/ Outdoor power equipment. Chainsaws, brushcutters, po
+Phone=+6434371850
+Data0=(-45.07747,170.98393)
+[END]
+
+;1204757
+[POI]
+Type=0x2e08
+Label=STIHL SHOP CROADS
+StreetDesc=30 Redwood St, Blenheim/ Outdoor power equipment. Chainsaws, brushcutters, power
+Phone=+6435783600
+Data0=(-41.51638,173.96025)
+[END]
+
+;1204758
+[POI]
+Type=0x2e08
+Label=STIHL SHOP FOSTERS
+StreetDesc=559 Blenheim Rd, Sockburn, Chc/ Outdoor power equipment. Chainsaws, brushcutters
+Phone=+6433436339
+Data0=(-43.53938,172.55723)
+[END]
+
+;1204760
+[POI]
+Type=0x2e08
+Label=STIHL SHOP GORE
+StreetDesc=189 Main St, Gore/ Outdoor power equipment. Chainsaws, brushcutters, power tools
+Phone=+6432087518
+Data0=(-46.10495,168.94182)
+[END]
+
+;1204761
+[POI]
+Type=0x2e08
+Label=STIHL SHOP NORTHWOOD
+StreetDesc=554 Main North Rd, Northwood, Chc/ Outdoor power equipment. Chainsaws, brushcutt
+Phone=+6439742469
+Data0=(-43.45835,172.62406)
+[END]
+
+;1204771
+[POI]
+Type=0x2e08
+Label=STIHL SHOP MILTON
+StreetDesc=101 Union St, Milton/ Outdoor power equipment. Chainsaws, brushcutters, power to
+Phone=+6434178959
+Data0=(-46.12033,169.96008)
+[END]
+
+;1204773
+[POI]
+Type=0x2e08
+Label=STIHL SHOP MOTUEKA
+StreetDesc=1a 396 High St, Motueka/ Outdoor power equipment. Chainsaws, brushcutters, power
+Phone=+6435289159
+Data0=(-41.12329,173.01028)
+[END]
+
+;1204775
+[POI]
+Type=0x2e08
+Label=STIHL SHOP MOSGIEL
+StreetDesc=22b Gordon Rd, Mosgiel/ Outdoor power equipment. Chainsaws, brushcutters, power 
+Phone=+6434893572
+Data0=(-45.88386,170.35316)
+[END]
+
+;1204777
+[POI]
+Type=0x2e08
+Label=STIHL SHOP NELSON
+StreetDesc=66-68 Vanguard St, Nelson/ Outdoor power equipment. Chainsaws, brushcutters, pow
+Phone=+6435480179
+Data0=(-41.27538,173.27730)
+[END]
+
+;1204780
+[POI]
+Type=0x2e08
+Label=?STIHL SHOP QUEENSTOWN
+StreetDesc=208 Glenda Dr, Queenstown/ Outdoor power equipment. Chainsaws, brushcutters, pow
+Phone=+6434423896
+Data0=(-45.03041,168.66134)
+[END]
+
+;1204789
+[POI]
+Type=0x2e08
+Label=STIHL SHOP TIMARU
+StreetDesc=115 Hilton Highway, Timaru/ Outdoor power equipment. Chainsaws, brushcutters, po
+Phone=+6436882557
+Data0=(-44.36062,171.24113)
+[END]
+
+;1204790
+[POI]
+Type=0x2e08
+Label=STIHL SHOP WANAKA
+StreetDesc=3 Reece Cres, Wanaka/ Outdoor power equipment. Chainsaws, brushcutters, power to
+Phone=+6434437916
+Data0=(-44.68880,169.14378)
+[END]
+
+;1204796
+[POI]
+Type=0x2e08
+Label=STIHL SHOP WINTON
+StreetDesc=177 Great North Rd, Winton/ Outdoor power equipment. Chainsaws, brushcutters, po
+Phone=+6432368585
+Data0=(-46.14642,168.32766)
+[END]
+
+;1204797
+[POI]
+Type=0x2e08
+Label=STIHL SHOP RICHMOND
+StreetDesc=62 Gladstone Rd, Richmond/ Outdoor power equipment. Chainsaws, brushcutters, pow
+Phone=+6435446122
+Data0=(-41.34374,173.17011)
+[END]
+
+;1204799
+[POI]
+Type=0x2a
+Label=CAPRI RESTAURANT
+StreetDesc=71 Main St, Gore/ Restaurant
+Phone=+6432086368
+Data0=(-46.10048,168.94510)
+[END]
+
+;1204800
+[POI]
+Type=0x2f
+Label=SHARPS FRUIT SUPPLY
+StreetDesc=77 Main St, Gore/ Fruit and veges
+Phone=+6432086311
+zip=7 days
+Data0=(-46.10061,168.94494)
+[END]
+
+;1204801
+[POI]
+Type=0x2e
+Label=B & B SPORTS LTD
+StreetDesc=65 Main St, Gore/ Sports goods specialists. Fishing, hockey, clothing, footwear,
+Phone=+6432080801
+Data0=(-46.10038,168.94512)
+[END]
+
+;1204802
+[POI]
+Type=0x2e
+Label=ROCKLEIGH JEWELLERS
+StreetDesc=59 Main St, Gore/ Jewellery, engraving, valuations, giftware & repairs
+Phone=+6432089260
+Data0=(-46.10022,168.94534)
+[END]
+
+;1204803
+[POI]
+Type=0x2f
+Label=RUNWAY HAIR SALON
+StreetDesc=61 Main St, Gore/ 
+Phone=+6432086926
+Data0=(-46.10028,168.94529)
+[END]
+
+;1204804
+[POI]
+Type=0x2a
+Label=LITTLE INDIA
+StreetDesc=11 The Cres, Invercargill Central/ Indian restaurant
+Phone=+6432141555
+Data0=(-46.41311,168.34628)
+[END]
+
+;1204806
+[POI]
+Type=0x2a0e
+Label=KOHATU FLAT ROCK CAFE
+StreetDesc=5087 Motueka Valley Highway, Kohatu/ Cafe
+Phone=+6435224440
+Data0=(-41.45168,172.83666)
+[END]
+
+;1204807
+[POI]
+Type=0x2d02
+Label=LUGGATE HOTEL
+StreetDesc=60 Main Rd, Luggate/ historic bar & restaurant
+Phone=+6434438523
+Data0=(-44.74973,169.27018)
+[END]
+
+;1204808
+[POI]
+Type=0x2f
+Label=MANKIND BARBERS
+StreetDesc=The Tannery, 3 Garlands Rd, Woolston/ 
+Phone=+6433899517
+zip=10am - 5pm
+Data0=(-43.55681,172.68026)
+[END]
+
+;1204814
+[POI]
+Type=0x2f01
+Label=MCKEOWN CARDFUEL KUMARA 24HR
+StreetDesc=State Highway 73 Kumara/ Petrol station
+zip=24 hours
+Data0=(-42.63077,171.18675)
+[END]
+
+;1204816
+[POI]
+Type=0x2f0c
+Label=ARTHURS PASS PUBLIC TOILET 24HR
+StreetDesc=State Highway 73 Arthurs Pass/ Toilet
+zip=24/7
+Data0=(-42.94220,171.56321)
+[END]
+
+;1204817
+[POI]
+Type=0x2f0c
+Label=OKARITO PUBLIC TOILET
+StreetDesc=Russell St, Okarito/ Toilet
+Data0=(-43.22218,170.16332)
+[END]
+
+;1204818
+[POI]
+Type=0x2f
+Label=VEGELAND
+StreetDesc=310 Marshland Rd Marshland/ Vegetables, Fruit
+Phone=+6433853718
+Data0=(-43.48366,172.66070)
+[END]
+
+;1204828
+[POI]
+Type=0x2d09
+Label=WREN CREEK HOT POOL
+StreetDesc=Toaroha Valley, Kokatahi/ Hot Pool
+Data0=(-42.96467,171.14947)
+[END]
+
+;1204835
+[POI]
+Type=0x2f0c
+Label=CASCADE CREEK TOILET 24HR
+StreetDesc=Cascade Saddle/ Basic Toilet
+zip=24/7
+Data0=(-44.49380,168.63077)
+[END]
+
+;1204844
+[POI]
+Type=0x2f
+Label=CLEAN AZ CLEANING SERVICES
+StreetDesc=536 Three Mile Hill Rd, North Taieri, New Zealand/ Cleaning service
+Phone=+6434892904
+zip=7 Days, 08:30am-5:00pm
+Data0=(-45.84578,170.40330)
+[END]
+
+;1204854
+[POI]
+Type=0x2f
+Label=LITTLE METALS COMPANY
+StreetDesc=Unit 6, 33 Nga Mahi Rd, Sockburn,/ Small quantities of Aluminium, Brass, Copper,
+Phone=+6433657731
+Data0=(-43.54048,172.55604)
 [END]
 

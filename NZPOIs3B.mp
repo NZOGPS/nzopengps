@@ -25661,26 +25661,6 @@ zip=8:00am - 5:30pm Mon to Fri, Sat 8:30am -
 Data0=(-43.48931,172.58746)
 [END]
 
-;1084490
-[POI]
-Type=0x2e08
-Label=SMITHS MITRE 10 SOLUTIONS UPPER RICCARTON
-StreetDesc=Cnr Brake & Leslie Streets, Upper Riccarton, Chc/ Hardware, Building Supplies, P
-Phone=+6433487468
-zip=8:00am - 5:30pm Mon to Fri, Sat 8:30am -
-Data0=(-43.53082,172.57144)
-[END]
-
-;1084497
-[POI]
-Type=0x2e08
-Label=SMITHS MITRE 10 SOLUTIONS EDGEWARE
-StreetDesc=59 Edgeware Rd, Edgeware, Chc/ Hardware, Building Supplies, Plumbing
-Phone=+6433797052
-zip=8:30am - 5:30pm Mon to Fri, Sat 8:30am -
-Data0=(-43.51329,172.63640)
-[END]
-
 ;1084504
 [POI]
 Type=0x2e08
@@ -27193,7 +27173,7 @@ Type=0x2d05
 Label=NORTH OTAGO GOLF CLUB
 StreetDesc=Beach Rd, Oamaru/ golf course, 18 holes
 Phone=+6434345531
-Data0=(-45.12453,170.95748)
+Data0=(-45.11972,170.95744)
 [END]
 
 ;1088627
@@ -50711,9 +50691,9 @@ Data0=(-41.74546,171.66031)
 [POI]
 Type=0x2f
 Label=KATHMANDU LTD
-StreetDesc=4 Mary Muller Dr, Heathcote Valley, Chc/ 
+StreetDesc=11 Mary Muller Dr, Heathcote Valley, Chc/ Head office
 Phone=+6433736110
-Data0=(-43.56813,172.68868)
+Data0=(-43.56822,172.69097)
 [END]
 
 ;1108034
@@ -64809,9 +64789,9 @@ Data0=(-45.85891,170.37190)
 [POI]
 Type=0x2f
 Label=YOUNG HUNTER
-StreetDesc=L 4, Guardian Assurance House, 79-83 Hereford St, Chc/ 
+StreetDesc=L 2, Young Hunter House, 134 Victoria St, City Ctr, Chc/ 
 Phone=+6433793880
-Data0=(-43.53191,172.63434)
+Data0=(-43.52191,172.62899)
 [END]
 
 ;1116327
@@ -102240,14 +102220,6 @@ StreetDesc=310 Waterloo Rd, Hornby, Chc/
 Data0=(-43.54069,172.51428)
 [END]
 
-;1132153
-[POI]
-Type=0x2f
-Label=THE VESPA ROOM
-StreetDesc=5 Poplar St, Chc/ 
-Data0=(-43.53495,172.64124)
-[END]
-
 ;1132154
 [POI]
 Type=0x2f
@@ -117933,14 +117905,6 @@ Type=0x2f
 Label=NORTH OTAGO CLUB.
 StreetDesc=Cnr Itchen & Tees St, Oamaru/ 
 Data0=(-45.10222,170.96872)
-[END]
-
-;1139209
-[POI]
-Type=0x2f
-Label=NORTH OTAGO GOLF CLUB
-StreetDesc=Beach Rd, Oamaru/ 
-Data0=(-45.11957,170.95752)
 [END]
 
 ;1139210
@@ -204820,15 +204784,6 @@ Phone=+6432089283
 Data0=(-46.09903,168.94714)
 [END]
 
-;1193479
-[POI]
-Type=0x2f
-Label=ARROW BREWING COMPANY
-StreetDesc=48/50 Buckingham St, Arrowtown 9302, New Zealand,/ Craft beer (www.beertourist.c
-Phone=+6434098849
-Data0=(-44.93865,168.83256)
-[END]
-
 ;1193482
 [POI]
 Type=0x2d02
@@ -208894,10 +208849,10 @@ Data0=(-43.53222,172.56278)
 ;1204065
 [POI]
 Type=0x2e07
-Label=FLORIAN LEATHERGOODS
-StreetDesc=163 Ferry Rd/ Leather handbags and accessories,handcrafted and made in New Zeala
+Label=FLORIAN
+StreetDesc=Shop 36, The Tannery, 3 Garlands Rd, Woolston, Chc/ Leather handbags and accesso
 Phone=+33667178
-zip=Monday to Friday 9am - 4:30pm; Saturday 
+zip=Monday to Friday10am - 5pm; Saturday 10a
 Data0=(-43.53868,172.65281)
 [END]
 
@@ -209831,5 +209786,101 @@ Label=LITTLE METALS COMPANY
 StreetDesc=Unit 6, 33 Nga Mahi Rd, Sockburn,/ Small quantities of Aluminium, Brass, Copper,
 Phone=+6433657731
 Data0=(-43.54048,172.55604)
+[END]
+
+;1204858
+[POI]
+Type=0x2f
+Label=AUTO TUNING & ELECTRICAL, MECHANICS, CAR REPAIRS, SERVICING
+StreetDesc=631 Princess St, Dud City/ Auto Tuning & Electrical, servicing the Dunedin City,
+Phone=+6434773992
+zip=8:00am - 5:00pm
+Data0=(-45.88412,170.49836)
+[END]
+
+;1204861
+[POI]
+Type=0x2f
+Label=PRINTABLE SOLUTIONS
+StreetDesc=12 Opawa Rd, Opawa, Chc, New Zealand 8023/ Business Cards, Printing, Digital Pri
+Phone=+33776644
+zip=9am to 6pm, Monday to Friday, excluding 
+Data0=(-43.54752,172.65404)
+[END]
+
+;1204863
+[POI]
+Type=0x2d02
+Label=VESPA
+StreetDesc=Strange's Blg, 219-223 High St, Chc/ Bar
+Data0=(-43.53394,172.63917)
+[END]
+
+;1204866
+[POI]
+Type=0x2f
+Label=BISHOPDALE PARK
+StreetDesc=364 Harewood Rd Bishopdale Chc 8053/ Playground
+Data0=(-43.48676,172.58425)
+[END]
+
+;1204892
+[POI]
+Type=0x2d02
+Label=LA RUMBLA
+StreetDesc=54 Buckingham St, Arrowtown/ Tapas Bar & Restaurant
+Phone=+6434420509
+zip=4pm-midnight
+Data0=(-44.93876,168.83295)
+[END]
+
+;1204900
+[POI]
+Type=0x2f
+Label=RD1 LEESTON
+StreetDesc=3 Market St Leeston/ Farm Supplies & Services
+Phone=+6433243645
+zip=Mon-Fri 8am-5pm, Sat 9am-12pm
+Data0=(-43.76373,172.29498)
+[END]
+
+;1204903
+[POI]
+Type=0x2f
+Label=AFFORDABLE GUTTERING & ROOFING LIMITED
+StreetDesc=42 Tilford St, Woolston, Chc City/ Spouting, Guttering, Roofing, Snow Straps, Gu
+Phone=0508113399
+zip=8am - 5.30pm
+Data0=(-43.54360,172.67753)
+[END]
+
+;1204905
+[POI]
+Type=0x2f
+Label=?ACTIVATE DESIGN LIMITED
+StreetDesc=336 Durham St Chc, New Zealand 8025/ Activate Design is a creative graphic desig
+Phone=+80030899
+zip=9:00 AM - 5:00 PM
+Data0=(-43.52525,172.63360)
+[END]
+
+;1204909
+[POI]
+Type=0x2f
+Label=PLASTALINK TRADE CENTRE KNAUF CHRISTCHURCH
+StreetDesc=23 braeburn Dr hornby Chc 8042/ Plastalink trade centre Christchurch are your nu
+Phone=+6427699100
+zip=7.30-4.30 Mon-Fri
+Data0=(-43.53916,172.53721)
+[END]
+
+;1204910
+[POI]
+Type=0x2f
+Label=ANOA DESIGN LIMITED
+StreetDesc=163 Ferry Rd, Waltham, Chc/ Manufacturer of Florian Leather handbags and accesso
+Phone=+6433667178
+zip=Monday - Friday 9am - 4pm
+Data0=(-43.53854,172.65287)
 [END]
 

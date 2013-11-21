@@ -18615,10 +18615,10 @@ Data0=(-43.91121,171.74566)
 [POI]
 Type=0x2e
 Label=KATHMANDU NELSON
-StreetDesc=28 Halifax St, Nelson/ Outdoor Adventure clothing & supplies, Tramping, Hiking &
+StreetDesc=50 Achilles Ave, Nelson/ Outdoor Adventure clothing & supplies, Tramping, Hiking
 Phone=+6435469065
 zip=Mon-Thu 9:00-5:30, Fri 9:00-7:00, Sat 9:
-Data0=(-41.27091,173.28286)
+Data0=(-41.27090,173.28230)
 [END]
 
 ;1065681
@@ -18634,7 +18634,7 @@ Data0=(-43.53433,172.63512)
 ;1065688
 [POI]
 Type=0x2e
-Label=KATHMANDU RICCARTON RD
+Label=KATHMANDU RICCARTON OUTLET
 StreetDesc=124 Riccarton Rd, Chc/ Outdoor Adventure clothing & supplies, Tramping, Hiking &
 Phone=+6433434634
 zip=Mon-Wed,Fri 9:00-5:30, Thu 9:00-6:00, Sa
@@ -18645,17 +18645,17 @@ Data0=(-43.52972,172.59857)
 [POI]
 Type=0x2e
 Label=KATHMANDU QUEENSTOWN
-StreetDesc=Mountaineer Blg, Corner Rees and Beach Streets, Queenstown/ Outdoor Adventure cl
+StreetDesc=Mountaineer Retail Blg, Cnr Beach & Rees St, Queenstown/ Outdoor Adventure cloth
 Phone=+6434090880
 zip=Mon-Thu 10:00-6:00, Fri 10:00-8:00, Sat 
-Data0=(-45.03298,168.65785)
+Data0=(-45.03317,168.65772)
 [END]
 
 ;1065702
 [POI]
 Type=0x2e
 Label=KATHMANDU DUNEDIN
-StreetDesc=144 Great King St, Dud/ Outdoor Adventure clothing & supplies, Tramping, Hiking 
+StreetDesc=Shop B, 144 Great King St, Dud/ Outdoor Adventure clothing & supplies, Tramping,
 Phone=+6434745178
 zip=Mon-Thu 9:00-5:30, Fri 9:00-7:00, Sat 10
 Data0=(-45.87064,170.50701)
@@ -18665,10 +18665,10 @@ Data0=(-45.87064,170.50701)
 [POI]
 Type=0x2e
 Label=KATHMANDU INVERCARGILL
-StreetDesc=63 Leven St, Invercargill/ Outdoor Adventure clothing & supplies, Tramping, Hiki
+StreetDesc=50 Leven St, Invercargill/ Outdoor Adventure clothing & supplies, Tramping, Hiki
 Phone=+6432141568
 zip=Mon-Thu 9:00-5:30, Fri 9:00-6:00, Sat 10
-Data0=(-46.40878,168.34581)
+Data0=(-46.40906,168.34542)
 [END]
 
 ;1066003
@@ -78764,8 +78764,8 @@ Data0=(-43.54659,172.56346)
 [POI]
 Type=0x2e
 Label=KATHMANDU TOWER JUNCTION
-StreetDesc=63 Clarence St, Riccarton, Chc/ Outdoor Adventure clothing & supplies, Tramping,
-Phone=+33480152
+StreetDesc=Tower Junction Mega Ctr, Blenheim Rd, Chc/ Outdoor Adventure clothing & supplies
+Phone=+6433480152
 zip=Mon - Fri 9:00-5:30, Sat - Sun 10:00-5:0
 Data0=(-43.53783,172.60591)
 [END]
@@ -84717,6 +84717,7 @@ Type=0x2b01
 Label=MOERAKI TAVERN
 StreetDesc=144 Haven St Moeraki 8950/ Hotel, Tavern, opened 2001
 Phone=+6434394705
+zip=11am till late, 7 days
 Data0=(-45.35983,170.85527)
 [END]
 
@@ -132093,14 +132094,6 @@ StreetDesc=6A Beatty St, Chc/ Hairdresser
 Data0=(-43.52664,172.73691)
 [END]
 
-;1146928
-[POI]
-Type=0x2f
-Label=NIQ JAMES HAIRDRESSING
-StreetDesc=112 Hereford St, Chc/ Hairdresser
-Data0=(-43.53218,172.63563)
-[END]
-
 ;1146930
 [POI]
 Type=0x2f
@@ -149931,9 +149924,10 @@ Data0=(-43.42489,172.57905)
 
 ;1158792
 [POI]
-Type=0x2b00
+Type=0x2b01
 Label=BAY CREST MOTOR LODGE
-StreetDesc=87 Golf Rd, Tahunanui, Nelson/ Accommodation
+StreetDesc=87 Golf Rd, Tahunanui, Nelson/ Offering luxury motel accommodation in the heart 
+Phone=+6435464138
 Data0=(-41.28683,173.23667)
 [END]
 
@@ -200524,11 +200518,11 @@ Data0=(-43.53316,172.63545)
 ;1190630
 [POI]
 Type=0x2e
-Label=KATHMANDU CASHEL STREET
-StreetDesc=Restart, Cashel St City Mall, Chc Central/ Outdoor clothing and equipment for tr
+Label=KATHMANDU CHRISTCHURCH CBD
+StreetDesc=Northern Precinct, Cashel Mall, Chc/ Outdoor Adventure clothing & supplies, Tram
 Phone=+6439433980
 zip=Mon-Fri 9am-6pm, Sat 10am-6pm, Sun 10am-
-Data0=(-43.53272,172.63584)
+Data0=(-43.53328,172.63731)
 [END]
 
 ;1190631
@@ -203890,7 +203884,7 @@ Data0=(-45.87523,170.50331)
 [POI]
 Type=0x2f
 Label=HEADSPACE SALON
-StreetDesc=Unit 7 / 245 St Asaph St, Chc/ For excellence in hairdressing, make an appointme
+StreetDesc=Unit 7 / 245 St Asaph St, Chc/ Get a fantastic new look this season from our tea
 Phone=+6433661896
 Data0=(-43.53617,172.64043)
 [END]
@@ -209882,5 +209876,153 @@ StreetDesc=163 Ferry Rd, Waltham, Chc/ Manufacturer of Florian Leather handbags 
 Phone=+6433667178
 zip=Monday - Friday 9am - 4pm
 Data0=(-43.53854,172.65287)
+[END]
+
+;1204912
+[POI]
+Type=0x2f
+Label=INDEPENDENT VEHICLE SERVICES - THE LOCAL MECHANIC YOU CAN TRUST
+StreetDesc=11 Lyne St, Gore/ Receive a 12 month guarantee on all new mechanical parts and l
+Phone=+6432081185
+zip=8:00am - 5:00pm
+Data0=(-46.09569,168.94591)
+[END]
+
+;1204921
+[POI]
+Type=0x2a
+Label=HALSWELL BUTCHERY
+StreetDesc=490 Sparks Rd, Halswell, Chc, New Zealand 8025/ Halswell Butchery is one of the 
+Phone=+6433228747
+zip=mon - fri: 7.00am - 6.00pm sat: 7.00am -
+Data0=(-43.58536,172.57143)
+[END]
+
+;1204924
+[POI]
+Type=0x2f
+Label=LIZARDKING DESIGNZ 24HR
+StreetDesc=8 Nicholson Terrace, Oamaru/ Lizardking Designz is the home of Graphic Design, L
+zip=24 hours
+Data0=(-45.10046,170.96103)
+[END]
+
+;1204982
+[POI]
+Type=0x2e
+Label=KATHMANDU TIMARU
+StreetDesc=307 Stafford St, Timaru/ Outdoor Adventure clothing & supplies, Tramping, Hiking
+Phone=+6436886758
+Data0=(-44.39436,171.25188)
+[END]
+
+;1204983
+[POI]
+Type=0x2e
+Label=KATHMANDU ASHBURTON
+StreetDesc=Mitre 10 Complex, Cnr Moore & Kermode Streets, Ashburton/ Outdoor Adventure clot
+Phone=+6433071438
+Data0=(-43.90537,171.74437)
+[END]
+
+;1204984
+[POI]
+Type=0x2e
+Label=KATHMANDU THE PALMS
+StreetDesc=The Palms Shopping Ctr, Cnr Marshlands & New Brighton Roads, Chc/ Outdoor Advent
+Phone=+6439433921
+Data0=(-43.50763,172.66240)
+[END]
+
+;1204985
+[POI]
+Type=0x2e
+Label=KATHMANDU PAPANUI
+StreetDesc=29 Main North Rd, Chc/ Outdoor Adventure clothing & supplies, Tramping, Hiking &
+Phone=+6439827183
+Data0=(-43.49534,172.60843)
+[END]
+
+;1204986
+[POI]
+Type=0x2e
+Label=KATHMANDU BLENHEIM
+StreetDesc=13 Scott St, Blenheim/ Outdoor Adventure clothing & supplies, Tramping, Hiking &
+Phone=+6435794960
+Data0=(-41.51458,173.95673)
+[END]
+
+;1205039
+[POI]
+Type=0x2f
+Label=MOERAKI BAYVIEW LIMITED
+StreetDesc=104 Haven St, Moeraki 9482, New Zealand/ Electrician, heat pumps servicing and i
+Phone=+6434394550
+Data0=(-45.36065,170.85119)
+[END]
+
+;1205040
+[POI]
+Type=0x2c00
+Label=?MOERAKI FISHING CHARTERS
+StreetDesc=142 Haven St, Moeraki 9482, New Zealand/ Fishing, Charters, Sightseeing, Meals, 
+Phone=080066372540276637254034394444
+Data0=(-45.35934,170.85581)
+[END]
+
+;1205047
+[POI]
+Type=0x2a07
+Label=WENDY'S OLD FASHIONED HAMBURGERS - HORNBY
+StreetDesc=1 Chappie Place, Hornby/ fast food, burgers
+Phone=+6433445850
+zip=7am-12am Sun-Wed, 7am-1am Thu-Sat
+Data0=(-43.54283,172.52923)
+[END]
+
+;1205052
+[POI]
+Type=0x2f
+Label=TRADEWORX LIMITED
+StreetDesc=433 St Asaph St, Phillipstown, Chc/ Business Advice Services and Accounting & Co
+Phone=+6433667502
+zip=8:30am to 5pm
+Data0=(-43.53611,172.65263)
+[END]
+
+;1205057
+[POI]
+Type=0x2c02
+Label=STEAM SCENE
+StreetDesc=621 McLeans Island Rd, McLeans Island, Chc/ The Canterbury Steam Preservation So
+zip=1st Sunday of every month
+Data0=(-43.46872,172.49731)
+[END]
+
+;1205058
+[POI]
+Type=0x2f08
+Label=CHRISTCHURCH LIVE STEAMERS
+StreetDesc=621 McLeans Island Rd, McLeans Island, Chc/ Miniture railway
+zip=1st and 3rd Sunday of the month
+Data0=(-43.46933,172.49902)
+[END]
+
+;1205059
+[POI]
+Type=0x2f08
+Label=INTERCITY CHRISTCHURCH - MAIN STOP
+StreetDesc=180 Armagh St, Chc/ Bus
+Phone=+6433651113
+Data0=(-43.52882,172.63909)
+[END]
+
+;1205060
+[POI]
+Type=0x2a05
+Label=SHIRLEY BAKERY
+StreetDesc=Shop 2, 202 Hills Rd, Chc/ 
+Phone=+6433856286
+Data0=(-43.50841,172.65216)
 [END]
 

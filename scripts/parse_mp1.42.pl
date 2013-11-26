@@ -28,6 +28,7 @@ my %debug = (
 	readpapernums	=> 0,
 	unnumbered		=> 0,
 	addnode		=> 0,
+	numberedid0		=> 0,
 );
 
 my %cmdopts=();
@@ -45,6 +46,7 @@ my %roadtype = (
 	10 => "Unpaved Rd",
 	11 => "Connector",
 	12 => "Roundabout",
+	22 => "Walkway",
 );
 
 my %sufiroadname;
@@ -1082,12 +1084,13 @@ sub numbered_id0 {
 		my @id0 = @{${$byid}{0}};
 		for $i (@id0){
 			$isnum = -1;
-		#	print "numbered_id0 - i is @id0[0..6]\n";
 			$dec = oct(${$roads[$i->[0]]}[1]);
-			if ( $dec <= oct("0xC")) {	#<+roundabout
+			if ($debug{'numberedid0'}){print "numbered_id0 - type is $dec\n";}
+			if ( $dec <= oct("0xC") or $dec == oct("0x16")) {	#<+roundabout
 				$numptr = ${$roads[$i->[0]]}[11];
 				if ( @{$numptr} ) {
 					for (@{$numptr}) {
+					if ($debug{'numberedid0'}){print "numbered_id0 - ${$_}[1],${$_}[4] \n";}
 						if (${$_}[1] ne "N" or ${$_}[4] ne "N"){ $isnum = ${$_}[0] }
 						if ($isnum >= 0){
 							print "Type is ${$roads[$i->[0]]}[1]/$roadtype{$dec}, ";

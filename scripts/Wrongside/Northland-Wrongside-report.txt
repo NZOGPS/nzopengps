@@ -1,0 +1,5 @@
+23 entries in ..\..\LinzDataService\PaperRoads\Northland-LINZWrongSide.txt
+60 wrongside numbers, 38 not in Exclusion files
+1 entries in Linz list are no longer on the wrong side
+2098750	314 PURIRI BLOCK ROAD	2013/10/22 17:30	-35.047077,173.333598
+

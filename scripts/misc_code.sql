@@ -439,3 +439,14 @@ select st_length (nztm_line) as len,label,st_y(st_startpoint(the_geom)),st_x(st_
 select st_length (nztm_line) as len,label,st_y(st_startpoint(the_geom)),st_x(st_startpoint(the_geom)),rstart from canterbury_numberlines where rstart=rend and rstart > 0 order by len desc;
 select st_length (nztm_line)/(abs(lstart-lend)) as len,label,st_y(st_startpoint(the_geom)),st_x(st_startpoint(the_geom)),lstart,lend from canterbury_numberlines where lstart<>lend and lstart > 0 order by len desc;
 select st_length (nztm_line)/(abs(rstart-rend)) as len,label,st_y(st_startpoint(the_geom)),st_x(st_startpoint(the_geom)),rstart,rend from canterbury_numberlines where rstart<>rend and rstart > 0 order by len desc;
+
+create or replace function border() returns table(x real, sum bigint) as $$
+declare x real;
+begin   
+    x := -45.05594;
+    while x < -44.2 loop
+        return query select x,sum(st_npoints(st_intersection(the_geom,st_setsrid(st_makeline(st_point(167.7,x),st_point(171.5,x)),4167)))) from auckland_numberlines;
+        x := x + 0.0004;
+    end loop;
+end
+$$ language plpgsql;

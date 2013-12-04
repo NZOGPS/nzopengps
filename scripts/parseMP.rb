@@ -29,9 +29,9 @@ def choose_tile(tile_reference)
     when "6"
   @tile = 'Tasman';@bounds = [-40.407970, 174.561661, -42.732010, 170.839737];@tileregion = 6
     when "7"
-  @tile = 'Canterbury';@bounds = [-42.731949, 173.600006, -45.055931, 167.000000];@tileregion = 7
+  @tile = 'Canterbury';@bounds = [-42.731949, 173.600006, -44.55553, 167.000000];@tileregion = 7
     when "8"
-  @tile = 'Southland';@bounds = [-45.055931, 171.464127, -47.450901, 166.121124];@tileregion = 8
+  @tile = 'Southland';@bounds = [-44.55553, 171.464127, -47.450901, 166.121124];@tileregion = 8
     when "0"
   @tile = 'sample';@bounds = [-34.039501, 179.505753, -47.450901, 166.121124];@tileregion = 0
     else

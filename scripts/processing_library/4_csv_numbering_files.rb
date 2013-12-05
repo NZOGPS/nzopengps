@@ -48,6 +48,8 @@ def pre_processing()
 			next if row[0] == nil
     	csv << [i, row[3].strip, row[2].strip, (row[0]+" "+row[1]), row[4], "Waypoint"]
     }
+  print "Finish  = #{Time.now}\n"
+  @reporting_file.print "Finish  = #{Time.now}\n"
 
   end
   

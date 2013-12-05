@@ -250,22 +250,22 @@ def identify_tile_from_wkt_envelope(record)
     tiles << "Chathams"
   else
 
-    if ((maxy >= -35.572369)) then tiles << "Northland" end
-    if ((miny <= -35.572369) && (miny >= -37.105228)) then tiles << "Auckland" end
+    if ((maxy >= -36.38880)) then tiles << "Northland" end
+    if ((miny <= -36.38880) && (miny >= -37.105228)) then tiles << "Auckland" end
     if ((miny <= -37.105228) && (miny >= -38.638100)) then tiles << "Waikato" end
     if ((miny <= -38.638100) && (miny >= -40.170971)) then tiles << "Central" end
     if (((miny <= -40.170971) && (miny >= -41.703838)) && (minx >= 174.3)) then tiles << "Wellington" end
     if (((miny <= -40.407970) && (miny >= -42.731949)) && (maxx <= 174.3)) then tiles << "Tasman" end
-    if ((miny <= -42.731949) && (miny >= -45.055931)) then tiles << "Canterbury" end
-    if ((miny <= -45.055931) && (miny >= -47.379910)) then tiles << "Southland" end
+    if ((miny <= -42.731949) && (miny >=  -44.55553)) then tiles << "Canterbury" end
+    if ((miny <=  -44.555530) && (miny >= -47.379910)) then tiles << "Southland" end
     #bastardised way of doing it, once for max and min each
-    if ((maxy <= -35.572369) && (maxy >= -37.105228)) then tiles << "Auckland" end 
+    if ((maxy <= -36.38880) && (maxy >= -37.105228)) then tiles << "Auckland" end 
     if ((maxy <= -37.105228) && (maxy >= -38.638100)) then tiles << "Waikato" end 
     if ((maxy <= -38.638100) && (maxy >= -40.170971)) then tiles << "Central" end
     if (((maxy <= -40.170971) && (maxy >= -41.703838)) && (minx >= 174.3)) then tiles << "Wellington" end 
     if (((maxy <= -40.407970) && (maxy >= -42.731949)) && (maxx <= 174.3)) then tiles << "Tasman" end 
-    if ((maxy <= -42.731949) && (maxy >= -45.055931)) then tiles << "Canterbury" end
-    if ((maxy <= -45.055931) && (maxy >= -47.379910)) then tiles << "Southland" end 
+    if ((maxy <= -42.731949) && (maxy >=  -44.55553)) then tiles << "Canterbury" end
+    if ((maxy <=  -44.555530) && (maxy >= -47.379910)) then tiles << "Southland" end 
 
   end #skip chathams
 

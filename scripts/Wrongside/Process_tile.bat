@@ -4,8 +4,8 @@ if xx%nzogps_psql_bin%xx==xxxx echo NZOGPS Environment Variables not set - run s
 if not exist %nzogps_base%\%1.mp echo %nzogps_base%\%1.mp not found & goto :eof
 set nzogps_psqlc=%nzogps_psql_bin%psql -U postgres -d nzopengps
 
-if /i %1 equ Northland	%nzogps_psqlc% -c "drop table if exists %1_nums; Create table %1_Nums as select * from \"nz-street-address-elector\" where st_y(the_geom)> -35.572380;"
-if /i %1 equ Auckland	%nzogps_psqlc% -c "drop table if exists %1_nums; Create table %1_Nums as select * from \"nz-street-address-elector\" where st_y(the_geom)<-35.572380 and st_y(the_geom)>-37.105228;"
+if /i %1 equ Northland	%nzogps_psqlc% -c "drop table if exists %1_nums; Create table %1_Nums as select * from \"nz-street-address-elector\" where st_y(the_geom)> -36.38880;"
+if /i %1 equ Auckland	%nzogps_psqlc% -c "drop table if exists %1_nums; Create table %1_Nums as select * from \"nz-street-address-elector\" where st_y(the_geom)<-36.38880 and st_y(the_geom)>-37.105228;"
 if /i %1 equ Waikato		%nzogps_psqlc% -c "drop table if exists %1_nums; Create table %1_Nums as select * from \"nz-street-address-elector\" where st_y(the_geom)<-37.105228 and st_y(the_geom)>-38.638100;"
 if /i %1 equ Central		%nzogps_psqlc% -c "drop table if exists %1_nums; Create table %1_Nums as select * from \"nz-street-address-elector\" where st_y(the_geom)<-38.638100 and st_y(the_geom)>-40.170971;"
 if /i %1 equ Wellington	%nzogps_psqlc% -c "drop table if exists %1_nums; Create table %1_Nums as select * from \"nz-street-address-elector\" where st_y(the_geom)<-40.170971 and st_y(the_geom)>-41.703838 and st_x(the_geom) >174.561661;"

@@ -20,7 +20,6 @@
 4584	WEST ST			Moeraki (Otago, NZ)			31/08/2011 6:57p.m.
 498	LONG ST	Reidston (Otago, NZ)	28/08/2010 12:19:18 a.m.
 675	ASCOT RD		Weston (Otago, NZ)
-1088	WHITEHEAD RD	Naseby (Otago, NZ)	6/11/2010 10:36:05 p.m.
 1099	RING FENCE RD		Kyeburn (Otago, NZ)
 4719	BURTON ST		Omakau (Otago, NZ)
 1295	HARREX RD	Moa Creek (Otago, NZ)	7/11/2010 12:42:21 a.m.
@@ -519,3 +518,77 @@
 8004	WAIAU ST	Eastern Bush(Southland,NZ)	2013/10/03 15:09	-45.978320,167.770690
 8637	MORLEY ST	Eastern Bush(Southland,NZ)	2013/10/03 15:09	-45.978320,167.770690
 8002	WAIRAKI ST	Eastern Bush(Southland,NZ)	2013/10/03 15:09	-45.978230,167.775970
+5256	DUNEDIN NORTHERN MWY	-45.8003267333,170.5158191833
+>>> Below moved from Canterbury - 6/12/2013 10:57:59 p.m.
+407	Hobson Street	Kurow
+463	WAKEFIELD ST	RICHMOND
+4604	WHITBY ST	RICHMOND
+95820	OTEMATATA STATION RD	Otematata (Canterbury, NZ)	12/11/2011 1:38:58 p.m.
+481		THOMAS ST	Duntroon (Canterbury, NZ)	12/11/2011 12:22:03 a.m.
+4634	Grant Street	Duntroon
+4595	Smith Street	Duntroon
+535	South Street	Waitaki Bridge
+774	MacLean Street	Waitaki Bridge
+779	Lowe Street	Waitaki Bridge
+575	Dee Street	Georgetown
+618	Kildrummy Street	Georgetown
+770	Don Street	Georgetown
+4647	Bogie Street	Georgetown
+683	MILNE RD	Pukeuri (Otago, NZ)	7/01/2011 1:11p.m.
+425	Stanley Street	Livingstone
+797	Blantyre Street	Livingstone
+5411	Moffat Street	Livingstone
+445	Princes Street	Ngapara
+447	Queen Street	Ngapara	28/04/2010 12:08p.m.
+1038	Holywood Street	Naseby
+1062	Annalee Street	Naseby
+1088	WHITEHEAD RD	Naseby (Otago, NZ)	6/11/2010 10:36:05 p.m.
+1151	Owel Street	Naseby
+4676	Strangford Street	Naseby	14/04/2010 8:14p.m.
+4696	Belfast Street	Naseby
+1009	Enwright Road	Saint Bathans
+1080	Webb Road	Saint Bathans
+1121	HAWKDUN STATION RD	Saint Bathans (Otago, NZ)	17/06/2010 10:14a.m.
+1047	BROWN ST	Wedderburn
+4682	CALDER ST	Wedderburn
+13261	STEWARD ST	Waimate (Canterbury, NZ)3/02/2011 10:31:34 p.m.
+1440	CECIL RD	Queenstown (Otago, NZ)	23/06/2010 2:24p.m.
+1619	LAKE RD	Wanaka (Otago, NZ)	12/11/2011 1:36:24 p.m.
+1606	Waitiri Road	Roaring Meg
+1381	Flint Street	Arrowtown
+4493	MARLBOROUGH ST		2012/04/23 14:16	-45.043930,170.871323
+4494	OXFORD ST		2012/04/23 14:15	-44.926571,169.340866
+5363	MIDDLE ST	Hills Creek	28/04/2010 10:59a.m.
+589	Cairns Road	Maerewhenua
+5332	Webster Street	Windsor
+1032	Cambrian Settlement Road	Cambrians	28/04/2010 8:54a.m.
+1679	Dublin Street	Hawea Flat	28/04/2010 10:54a.m.
+1726	Waterford Terrace	Hawea Flat
+1732	Tuscar Street	Hawea Flat
+5447	Carnsore Street	Hawea Flat
+1682	Charles Street	Gladstone
+1683	Cork Street	Gladstone
+1688	Seven Street	Gladstone
+1705	Kinsale Street	Gladstone
+1712	Fort Street	Gladstone
+1716	Baltimore Street	Gladstone
+1717	Barry Street	Gladstone
+1426	Kilmuir Street	Kinloch
+1453	Corry Street	Kinloch
+1525	Nevis Street	Kinloch
+1527	Tallisker Street	Kinloch
+1552	Skye Street	Kinloch
+4486	STATE HIGHWAY  6A	-45.0341077167,168.67649711667	Duplicated SH	17:00 2012/06/20
+4487	STATE HIGHWAY  8A	-44.736903,169.3223056	Duplicated SH	17:00 2012/06/20
+5328	STATE HIGHWAY 83	-44.6228043833,170.2598973	Duplicated SH	17:00 2012/06/20
+5338	STATE HIGHWAY 84	-44.69448155,169.15751323333	Duplicated SH	17:00 2012/06/20
+8803	STATE HIGHWAY 94	-44.7636272167,167.97480275	Duplicated SH	17:00 2012/06/20
+17307	STATE HIGHWAY  1	-44.6997336167,171.1294265667	Duplicated SH	17:00 2012/06/20
+17310	STATE HIGHWAY  1	-44.9166219833,171.1008115333	Duplicated SH	17:00 2012/06/20
+17351	STATE HIGHWAY 82	-44.7201510833,171.0832054667	Duplicated SH	17:00 2012/06/20
+17352	STATE HIGHWAY 82	-44.7403074167,171.0415272	Duplicated SH	17:00 2012/06/20
+20670	STATE HIGHWAY  6	-44.3532769167,169.16950875	Duplicated SH	17:00 2012/06/20
+91169	STATE HIGHWAY  8	-44.5884322333,169.64251445	Duplicated SH	17:00 2012/06/20
+91302	STATE HIGHWAY  6	-45.0282042167,168.73338693333	Duplicated SH	17:00 2012/06/20
+91403	STATE HIGHWAY  6	-44.7007308833,169.18783225	Duplicated SH	17:00 2012/06/20
+91404	STATE HIGHWAY  6	-44.7505362167,169.2737979	Duplicated SH	17:00 2012/06/20

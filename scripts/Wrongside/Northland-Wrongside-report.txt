@@ -1,5 +1,8 @@
-23 entries in ..\..\LinzDataService\PaperRoads\Northland-LINZWrongSide.txt
-308 wrongside numbers, 286 not in Exclusion files
-1 entries in Linz list are no longer on the wrong side
+Warning: duplicate entries for 1330375 on line 47 in ..\..\LinzDataService\PaperRoads\Northland-LINZWrongSide.txt
+75 entries in ..\..\LinzDataService\PaperRoads\Northland-LINZWrongSide.txt
+212 wrongside numbers, 140 not in Exclusion files
+3 entries in Linz list are no longer on the wrong side
+2464715	250 PARAKIORE ROAD	2013/12/14 16:24	-35.657777,174.282660
 2098750	314 PURIRI BLOCK ROAD	2013/10/22 17:30	-35.047077,173.333598
+1006353	4 MARSHALL STREET	2013/12/14 12:35	-35.386470,174.012658
 

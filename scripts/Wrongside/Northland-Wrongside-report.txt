@@ -1,7 +1,9 @@
 Warning: duplicate entries for 1330375 on line 47 in ..\..\LinzDataService\PaperRoads\Northland-LINZWrongSide.txt
-75 entries in ..\..\LinzDataService\PaperRoads\Northland-LINZWrongSide.txt
-212 wrongside numbers, 140 not in Exclusion files
-3 entries in Linz list are no longer on the wrong side
+Warning: duplicate entries for 1355944 on line 86 in ..\..\LinzDataService\PaperRoads\Northland-LINZWrongSide.txt
+113 entries in ..\..\LinzDataService\PaperRoads\Northland-LINZWrongSide.txt
+197 wrongside numbers, 88 not in Exclusion files
+4 entries in Linz list are no longer on the wrong side
+1358909	333 MOONEY ROAD	2013/12/16 23:44	-36.134341,174.252504
 2464715	250 PARAKIORE ROAD	2013/12/14 16:24	-35.657777,174.282660
 2098750	314 PURIRI BLOCK ROAD	2013/10/22 17:30	-35.047077,173.333598
 1006353	4 MARSHALL STREET	2013/12/14 12:35	-35.386470,174.012658

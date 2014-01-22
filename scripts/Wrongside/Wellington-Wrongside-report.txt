@@ -1,1 +1,14 @@
-1087 wrongside numbers, 1087 not in Exclusion files
+Warning: duplicate entries for 2471273 on line 7 in ..\..\LinzDataService\PaperRoads\Wellington-WrongSide.txt
+Warning: duplicate entries for 2182824 on line 19 in ..\..\LinzDataService\PaperRoads\Wellington-WrongSide.txt
+Warning: duplicate entries for 408582 on line 23 in ..\..\LinzDataService\PaperRoads\Wellington-WrongSide.txt
+29 entries in ..\..\LinzDataService\PaperRoads\Wellington-WrongSide.txt
+18 entries in ..\..\LinzDataService\PaperRoads\Wellington-LINZWrongSide.txt
+645 wrongside numbers, 602 not in Exclusion files
+3 entries in Ignore list are no longer on the wrong side
+411915	11 TULSA GROVE	2013/12/22 17:55	-41.107343,175.079813
+2595876	1B CALISTEMON GROVE	2013/12/27 06:24	-40.868732,175.063380
+2595347	3 FOREST WALK	2013/12/27 06:19	-40.867362,175.059858
+
+1 entries in Linz list are no longer on the wrong side
+2413068	11 LLOYD PLACE	2013/12/28 11:26	-40.898681,174.988998
+

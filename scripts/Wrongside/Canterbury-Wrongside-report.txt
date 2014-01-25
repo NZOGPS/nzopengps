@@ -1,8 +1,8 @@
 10 entries in ..\..\LinzDataService\PaperRoads\Canterbury-WrongSide.txt
 Warning: 2392279 on line 135 in ..\..\LinzDataService\PaperRoads\Canterbury-LINZWrongSide.txt - This ID is also set in the ignore file
 155 entries in ..\..\LinzDataService\PaperRoads\Canterbury-LINZWrongSide.txt
-153 wrongside numbers,  not in Exclusion files
-12 entries in Linz list are no longer on the wrong side
+151 wrongside numbers,  not in Exclusion files
+14 entries in Linz list are no longer on the wrong side
 2017749	121 RUSHBROOKS ROAD	2013/10/09 17:02	-43.745648,172.353294	Probably right side, but possibly way too far north. Buildings nearer S end of road?
 2635554	2 FINDLAY AVENUE	2013/12/22 13:42	-43.591786,172.572347
 300406	29 OXFORD CROSSING ROAD	2013/10/09 12:35	-44.223669,171.268950
@@ -12,6 +12,8 @@ Warning: 2392279 on line 135 in ..\..\LinzDataService\PaperRoads\Canterbury-LINZ
 2596508	28 LINK DRIVE	2013/10/09 17:09	-43.583863,172.376376
 2316063	78 WAIPARI ROAD	2013/10/21 17:15	-44.861200,170.827482	With this road, it's not clear to me which side of the road is odd/even. If 8 is on the correct side, it's actually 77/76 which are placed on the wrong side...
 2342494	8 DUREY ROAD	2013/10/21 16:40	-43.489378,172.543118	On  the median strip! 
+184168	10 PATRICIA PLACE	2013/10/21 16:41	-43.481546,172.576582	These two/three perhaps further West?
+187105	8 PATRICIA PLACE	2013/10/21 16:41	-43.481407,172.576703
 255494	2-30 LYN CHRISTIE PLACE	2013/12/01 14:12	-43.523237,172.684138
 2392279	58 GOWERTON PLACE	2013/10/18 12:52	-43.519762,172.657319	55 is also close to centreline
 239044	30 WHITEWASH HEAD ROAD	2013/10/16 10:40	-43.570800,172.773846	All the numbers here are quite close to the road 

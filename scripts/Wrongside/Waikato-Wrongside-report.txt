@@ -13,7 +13,7 @@ Warning: duplicate entries for 878383 on line 100 in ..\..\LinzDataService\Paper
 Warning: duplicate entries for 878383 on line 101 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
 Warning: duplicate entries for 2125586 on line 104 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
 Warning: duplicate entries for 2125586 on line 105 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
-90 entries in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
+91 entries in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
 Warning: duplicate entries for 915584 on line 8 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
 Warning: 808459 on line 42 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
 Warning: 808459 on line 43 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
@@ -73,7 +73,7 @@ Warning: duplicate entries for 763960 on line 83 in ..\..\LinzDataService\PaperR
 Warning: 763960 on line 84 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
 Warning: duplicate entries for 763960 on line 84 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
 58 entries in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-957 wrongside numbers, 819 not in Exclusion files
+958 wrongside numbers, 819 not in Exclusion files
 5 entries in Ignore list are no longer on the wrong side
 772795	4 VILLAGE ROAD	2013/10/15 19:47	-38.516940,175.552521
 2461091	7/387 POKURU ROAD NORTH	2013/10/15 19:55	-38.443894,175.836596

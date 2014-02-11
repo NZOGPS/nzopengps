@@ -1,7 +1,7 @@
 Warning: duplicate entries for 2182824 on line 18 in ..\..\LinzDataService\PaperRoads\Wellington-WrongSide.txt
 31 entries in ..\..\LinzDataService\PaperRoads\Wellington-WrongSide.txt
-20 entries in ..\..\LinzDataService\PaperRoads\Wellington-LINZWrongSide.txt
-577 wrongside numbers, 530 not in Exclusion files
+25 entries in ..\..\LinzDataService\PaperRoads\Wellington-LINZWrongSide.txt
+476 wrongside numbers, 424 not in Exclusion files
 3 entries in Ignore list are no longer on the wrong side
 411915	11 TULSA GROVE	2013/12/22 17:55	-41.107343,175.079813
 2595876	1B CALISTEMON GROVE	2013/12/27 06:24	-40.868732,175.063380

@@ -1,5 +1,5 @@
 132 entries in ..\..\LinzDataService\PaperRoads\Northland-LINZWrongSide.txt
-146 wrongside numbers, 18 not in Exclusion files
+147 wrongside numbers, 19 not in Exclusion files
 4 entries in Linz list are no longer on the wrong side
 2464715	250 PARAKIORE ROAD	2013/12/14 16:24	-35.657777,174.282660
 2098750	314 PURIRI BLOCK ROAD	2013/10/22 17:30	-35.047077,173.333598

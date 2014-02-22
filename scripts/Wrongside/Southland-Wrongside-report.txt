@@ -1,8 +1,10 @@
 4 entries in ..\..\LinzDataService\PaperRoads\Southland-WrongSide.txt
 110 entries in ..\..\LinzDataService\PaperRoads\Southland-LINZWrongSide.txt
-116 wrongside numbers, 5 not in Exclusion files
-3 entries in Linz list are no longer on the wrong side
+115 wrongside numbers, 6 not in Exclusion files
+5 entries in Linz list are no longer on the wrong side
 2570906	590 PARK HILL ROAD	2013/10/26 22:58	-45.836467,169.199786
 94036	127 BEN LOCH LANE	2013/10/26 22:30	-45.434238,167.737960
 2496132	94 BROOKDALE ROAD	2013/12/01 12:33	-46.372976,169.772718
+2546490	100 FRUITGROWERS ROAD	2013/10/05 23:14	-45.183868,169.306325
+50996	93 BAKER ROAD	2013/10/26 23:23	-46.016597,170.069094
 

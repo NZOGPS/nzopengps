@@ -105,6 +105,7 @@
 'PetStore' => '0x2e', #Shopping 0x2e
 'SportingGoodsStore' => '0x2e', #Shopping 0x2e
 'Store' => '0x2e', #Shopping 0x2e
+'Store/Fruit' => '0x2e', #Shopping 0x2e
 'ToyStore' => '0x2e', #Shopping 0x2e
 'WholesaleStore' => '0x2e', #Shopping 0x2e
 'BowlingAlley' => '0x2d07', #Sport - Bowling 0x2d07

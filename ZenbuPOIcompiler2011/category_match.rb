@@ -106,6 +106,7 @@
 'SportingGoodsStore' => '0x2e', #Shopping 0x2e
 'Store' => '0x2e', #Shopping 0x2e
 'Store/Fruit' => '0x2e', #Shopping 0x2e
+'Store/Meat' => '0x2e', #Shopping 0x2e
 'ToyStore' => '0x2e', #Shopping 0x2e
 'WholesaleStore' => '0x2e', #Shopping 0x2e
 'BowlingAlley' => '0x2d07', #Sport - Bowling 0x2d07
@@ -131,11 +132,8 @@
 'ArtGallery' => '0x2f', #Services - Other 0x2f
 'Attorney' => '0x2f', #Services - Other 0x2f
 'BeautySalon' => '0x2f', #Services - Other 0x2f
-'BodyOfWater' => '0x2f', #Services - Other 0x2f
 'Brewery' => '0x2f', #Services - Other 0x2f
-'Canal' => '0x2f', #Services - Other 0x2f
 'CityHall' => '0x2f', #Services - Other 0x2f
-'Continent' => '0x2f', #Services - Other 0x2f
 'Corporation' => '0x2f', #Services - Other 0x2f
 'DaySpa' => '0x2f', #Services - Other 0x2f
 'DefenceEstablishment' => '0x2f', #Services - Other 0x2f
@@ -157,7 +155,6 @@
 'HVACBusiness' => '0x2f', #Services - Other 0x2f
 'InsuranceAgency' => '0x2f', #Services - Other 0x2f
 'InternetCafe' => '0x2f', #Services - Other 0x2f
-'Landform' => '0x2f', #Services - Other 0x2f
 'LegislativeBuilding' => '0x2f', #Services - Other 0x2f
 'LocalBusiness' => '0x2f', #Services - Other 0x2f
 'Locksmith' => '0x2f', #Services - Other 0x2f
@@ -167,8 +164,6 @@
 'MusicVenue' => '0x2f', #Services - Other 0x2f
 'NailSalon' => '0x2f', #Services - Other 0x2f
 'NGO' => '0x2f', #Services - Other 0x2f
-'Notary' => '0x2f', #Services - Other 0x2f
-'OceanBodyOfWater' => '0x2f', #Services - Other 0x2f
 'Optician' => '0x2f', #Services - Other 0x2f
 'Physician' => '0x2f', #Services - Other 0x2f
 'Playground' => '0x2f', #Services - Other 0x2f
@@ -178,15 +173,11 @@
 'RadioStation' => '0x2f', #Services - Other 0x2f
 'RealEstateAgent' => '0x2f', #Services - Other 0x2f
 'RecyclingCenter' => '0x2f', #Services - Other 0x2f
-'Reservoir' => '0x2f', #Services - Other 0x2f
-'RiverBodyOfWater' => '0x2f', #Services - Other 0x2f
 'RoofingContractor' => '0x2f', #Services - Other 0x2f
-'SeaBodyOfWater' => '0x2f', #Services - Other 0x2f
 'SelfStorage' => '0x2f', #Services - Other 0x2f
 'TattooParlor' => '0x2f', #Services - Other 0x2f
 'TelevisionStation' => '0x2f', #Services - Other 0x2f
 'VeterinaryCare' => '0x2f', #Services - Other 0x2f
-'Volcano' => '0x2f', #Services - Other 0x2f
 'Thing/NEC' => '0x2f' #Services - Other 0x2f
 }
 

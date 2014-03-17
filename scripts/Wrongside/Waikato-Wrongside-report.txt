@@ -73,13 +73,12 @@ Warning: duplicate entries for 763960 on line 83 in ..\..\LinzDataService\PaperR
 Warning: 763960 on line 84 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
 Warning: duplicate entries for 763960 on line 84 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
 58 entries in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-962 wrongside numbers, 825 not in Exclusion files
-6 entries in Ignore list are no longer on the wrong side
+963 wrongside numbers, 825 not in Exclusion files
+5 entries in Ignore list are no longer on the wrong side
 772795	4 VILLAGE ROAD	2013/10/15 19:47	-38.516940,175.552521
 2461091	7/387 POKURU ROAD NORTH	2013/10/15 19:55	-38.443894,175.836596
 846823	387 POKURU ROAD NORTH	2013/10/15 19:55	-38.443810,175.838029
 862068	31 MOUNTAIN VIEW ROAD	2013/10/15 19:06	-38.176986,175.209272
-1012448	34 ANZAC ROAD	2013/11/14 21:37	-37.220375,174.897643
 689277	2 VILLAGE ROAD	2013/10/15 19:47	-38.516915,175.552757
 
 6 entries in Linz list are no longer on the wrong side

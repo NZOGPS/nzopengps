@@ -1,9 +1,10 @@
 Warning: duplicate entries for 2182824 on line 18 in ..\..\LinzDataService\PaperRoads\Wellington-WrongSide.txt
-33 entries in ..\..\LinzDataService\PaperRoads\Wellington-WrongSide.txt
+35 entries in ..\..\LinzDataService\PaperRoads\Wellington-WrongSide.txt
 Warning: 570597 on line 27 in ..\..\LinzDataService\PaperRoads\Wellington-LINZWrongSide.txt - This ID is also set in the ignore file
-27 entries in ..\..\LinzDataService\PaperRoads\Wellington-LINZWrongSide.txt
-406 wrongside numbers, 353 not in Exclusion files
-4 entries in Ignore list are no longer on the wrong side
+28 entries in ..\..\LinzDataService\PaperRoads\Wellington-LINZWrongSide.txt
+370 wrongside numbers, 315 not in Exclusion files
+5 entries in Ignore list are no longer on the wrong side
+576541	2 COOLIDGE STREET	2014/03/03 14:39	-41.308922,174.768024
 411915	11 TULSA GROVE	2013/12/22 17:55	-41.107343,175.079813
 2595876	1B CALISTEMON GROVE	2013/12/27 06:24	-40.868732,175.063380
 435834	9 ALDERSGATE GROVE	2014/02/19 17:06	-41.169373,174.972525

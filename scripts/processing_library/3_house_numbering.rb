@@ -39,7 +39,7 @@ Name: nzopengps
 template: template_postgis
 
 Now use the "PostGIS Shapefile and DBF Loader" application to import these shape files
-Shapefile: nz-street-address-elector.shp (the one downloaded above)
+Shapefile: nz-street-address-electoral.shp (the one downloaded above)
 Username: postgres
 Password: #master password entered during install
 Database: nzopengps
@@ -50,7 +50,7 @@ Connection succeeded
 Configuration
 SRID: 4167
 Options -> DBF File Character Encoding -> UTF-8
-Destination Table: nz-street-address-elector
+Destination Table: nz-street-address-electoral
 
 Import
 
@@ -60,24 +60,24 @@ In the Object Browser -> select Databases / nzopengps
 Menu -> Tools -> Query tool
 Paste in the following between =====
 =====
-ALTER TABLE "nz-street-address-elector" ADD COLUMN range_low integer;
-ALTER TABLE "nz-street-address-elector" ADD COLUMN is_odd boolean;
+ALTER TABLE "nz-street-address-electoral" ADD COLUMN range_low integer;
+ALTER TABLE "nz-street-address-electoral" ADD COLUMN is_odd boolean;
 --house_numb: 8
-UPDATE "nz-street-address-elector" SET range_low = cast(house_numb AS INTEGER) WHERE house_numb ~* E'^\\d+$';
+UPDATE "nz-street-address-electoral" SET range_low = cast(house_numb AS INTEGER) WHERE house_numb ~* E'^\\d+$';
 --house_numb: 8A
-UPDATE "nz-street-address-elector" SET range_low = cast(substring(house_numb FROM E'^(\\d+)\\w$') AS INTEGER) WHERE range_low IS NULL AND house_numb ~* E'^\\d+\\w$';
+UPDATE "nz-street-address-electoral" SET range_low = cast(substring(house_numb FROM E'^(\\d+)\\w$') AS INTEGER) WHERE range_low IS NULL AND house_numb ~* E'^\\d+\\w$';
 --house_numb: 8-10
-UPDATE "nz-street-address-elector" SET range_low = cast(substring(house_numb FROM E'^(\\d+)[A-Z]?\-\\d+[A-Z]?$') AS INTEGER) WHERE range_low IS NULL AND house_numb ~* E'^(\\d+)[A-Z]?\-\\d+[A-Z]?$';
+UPDATE "nz-street-address-electoral" SET range_low = cast(substring(house_numb FROM E'^(\\d+)[A-Z]?\-\\d+[A-Z]?$') AS INTEGER) WHERE range_low IS NULL AND house_numb ~* E'^(\\d+)[A-Z]?\-\\d+[A-Z]?$';
 --house_numb: 1A/10
-UPDATE "nz-street-address-elector" SET range_low = cast(substring(house_numb FROM E'^\\d+\/(\\d+)\-?') AS INTEGER) WHERE range_low IS NULL AND house_numb ~* E'^\\d+\/(\\d+)\-?';
+UPDATE "nz-street-address-electoral" SET range_low = cast(substring(house_numb FROM E'^\\d+\/(\\d+)\-?') AS INTEGER) WHERE range_low IS NULL AND house_numb ~* E'^\\d+\/(\\d+)\-?';
 --house_numb: 1/10 and 1/10-5/10
-UPDATE "nz-street-address-elector" SET range_low = cast(substring(house_numb FROM E'^\\d+\/(\\d+)\-?') AS INTEGER) WHERE range_low IS NULL AND house_numb ~* E'^\\d+\/(\\d+)\-?';
+UPDATE "nz-street-address-electoral" SET range_low = cast(substring(house_numb FROM E'^\\d+\/(\\d+)\-?') AS INTEGER) WHERE range_low IS NULL AND house_numb ~* E'^\\d+\/(\\d+)\-?';
 --set is_odd
-UPDATE "nz-street-address-elector" SET is_odd = MOD(range_low,2) = 1;
+UPDATE "nz-street-address-electoral" SET is_odd = MOD(range_low,2) = 1;
 
 --now add indexes for speed
-CREATE INDEX idx_rna_id ON "nz-street-address-elector" USING btree (rna_id);
-CREATE INDEX idx_rna_id_is_odd ON "nz-street-address-elector" USING btree (rna_id,is_odd);
+CREATE INDEX idx_rna_id ON "nz-street-address-electoral" USING btree (rna_id);
+CREATE INDEX idx_rna_id_is_odd ON "nz-street-address-electoral" USING btree (rna_id,is_odd);
 =====
 Menu -> Query -> Execute
 
@@ -104,7 +104,7 @@ ALLOWED_ROAD_TYPES_FOR_NUMBERING = ['0x1','0x2','0x3','0x4','0x5','0x6','0x7','0
 ###############
 WORKING_SRID = 4167
 #K = 200 # buffer distance to search inside, not currently used
-STREET_ADDRESS_TABLE = "\"nz-street-address-elector\""
+STREET_ADDRESS_TABLE = "\"nz-street-address-electoral\""
 STREET_ADDRESS_TABLE_INDEX_NAME = 'the_geom'
 
 def pre_processing()

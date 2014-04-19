@@ -33,10 +33,10 @@ install :  install-csv install-gdb
 %-LINZ-V4.mp : $(LINZO)\%-LINZ-V3.mp database.date
 	ruby parseLinzMP.rb $(call tilenum, $(notdir $*)) 3
 
-%-LINZ.mp : $(LINZ)\lds-nz-road-centre-line-electoral-SHP\nz-road-centre-line-elect.shp
+%-LINZ.mp : $(LINZ)\lds-nz-road-centre-line-electoral-SHP\nz-road-centre-line-electoral.shp
 	cd $(LINZ) && ruby shape-parser.rb
 
-postgres\nz-street-address.sql : $(LINZ)\lds-nz-street-address-electoral-SHP\nz-street-address-elector.shp
+postgres\nz-street-address.sql : $(LINZ)\lds-nz-street-address-electoral-SHP\nz-street-address-electoral.shp
 	time /t
 	$(PSQL)shp2pgsql -d -D -s4167 $<  nz-street-address-elector > postgres\nz-street-address.sql
 	time /t
@@ -49,12 +49,12 @@ database.date : postgres\nz-street-address.sql
 	touch database.date
 	time /t
 
-$(LINZ)\lds-nz-road-centre-line-electoral-SHP\nz-road-centre-line-elect.shp : $(DLOAD)\lds-nz-road-centre-line-electoral-SHP.zip 
+$(LINZ)\lds-nz-road-centre-line-electoral-SHP\nz-road-centre-line-electoral.shp : $(DLOAD)\lds-nz-road-centre-line-electoral-SHP.zip 
 	wzunzip -o $< $(dir $@)
 	move $(DLOAD)\lds-nz-road-centre-line-electoral-SHP.zip $(LINZ)
 	perl $(LINZ)\renzip.pl $(LINZ)\lds-nz-road-centre-line-electoral-SHP
 
-$(LINZ)\lds-nz-street-address-electoral-SHP\nz-street-address-elector.shp : $(DLOAD)\lds-nz-street-address-electoral-SHP.zip
+$(LINZ)\lds-nz-street-address-electoral-SHP\nz-street-address-electoral.shp : $(DLOAD)\lds-nz-street-address-electoral-SHP.zip
 	wzunzip -o $< $(dir $@)
 	move $(DLOAD)\lds-nz-street-address-electoral-SHP.zip $(LINZ)
 	perl $(LINZ)\renzip.pl $(LINZ)\lds-nz-street-address-electoral-SHP

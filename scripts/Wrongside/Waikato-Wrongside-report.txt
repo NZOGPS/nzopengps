@@ -13,7 +13,7 @@ Warning: duplicate entries for 878383 on line 100 in ..\..\LinzDataService\Paper
 Warning: duplicate entries for 878383 on line 101 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
 Warning: duplicate entries for 2125586 on line 104 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
 Warning: duplicate entries for 2125586 on line 105 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
-91 entries in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
+129 entries in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
 Warning: duplicate entries for 915584 on line 8 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
 Warning: 808459 on line 42 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
 Warning: 808459 on line 43 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
@@ -72,20 +72,25 @@ Warning: 763960 on line 83 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrong
 Warning: duplicate entries for 763960 on line 83 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
 Warning: 763960 on line 84 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
 Warning: duplicate entries for 763960 on line 84 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-58 entries in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-963 wrongside numbers, 825 not in Exclusion files
-5 entries in Ignore list are no longer on the wrong side
+Warning: duplicate entries for 1353059 on line 100 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
+104 entries in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
+819 wrongside numbers, 601 not in Exclusion files
+8 entries in Ignore list are no longer on the wrong side
 772795	4 VILLAGE ROAD	2013/10/15 19:47	-38.516940,175.552521
+1220112	4 COMRIE PLACE	2014/04/18 13:29	-37.188903,174.903821
 2461091	7/387 POKURU ROAD NORTH	2013/10/15 19:55	-38.443894,175.836596
 846823	387 POKURU ROAD NORTH	2013/10/15 19:55	-38.443810,175.838029
 862068	31 MOUNTAIN VIEW ROAD	2013/10/15 19:06	-38.176986,175.209272
+2535839	1/2-24/2 ALTHORP AVENUE	2014/04/26 03:22	-37.741673,176.124811
 689277	2 VILLAGE ROAD	2013/10/15 19:47	-38.516915,175.552757
+725338	103 KURANUI STREET	2014/04/18 15:24	-37.128510,175.533247
 
-6 entries in Linz list are no longer on the wrong side
+7 entries in Linz list are no longer on the wrong side
 776836	9 SNOWDEN PLACE	2013/11/14 21:35	-37.802525,174.875703
-808459	15 KING STREET	2013/11/14 18:55	-37.784515,176.331834
 2328395	2 NOBLE JOHNSTON DRIVE	2013/12/09 19:49	-37.550184,175.920490
-878383	834 WRIGHT ROAD	2013/12/12 19:52	-37.668424,175.921860
 2113468	1626 MOKAUITI ROAD	2013/10/15 19:44	-38.589150,175.162474
+2374724	9 EASTFIELD	2014/04/18 15:37	-37.399505,175.145367
+808459	15 KING STREET	2013/11/14 18:55	-37.784515,176.331834
+878383	834 WRIGHT ROAD	2013/12/12 19:52	-37.668424,175.921860
 763960	29A SCHOOL ROAD	2013/12/12 20:24	-37.421890,175.724025
 

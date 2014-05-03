@@ -2,7 +2,7 @@ Warning: duplicate entries for 2182824 on line 18 in ..\..\LinzDataService\Paper
 35 entries in ..\..\LinzDataService\PaperRoads\Wellington-WrongSide.txt
 Warning: 570597 on line 27 in ..\..\LinzDataService\PaperRoads\Wellington-LINZWrongSide.txt - This ID is also set in the ignore file
 28 entries in ..\..\LinzDataService\PaperRoads\Wellington-LINZWrongSide.txt
-370 wrongside numbers, 315 not in Exclusion files
+369 wrongside numbers, 314 not in Exclusion files
 5 entries in Ignore list are no longer on the wrong side
 576541	2 COOLIDGE STREET	2014/03/03 14:39	-41.308922,174.768024
 411915	11 TULSA GROVE	2013/12/22 17:55	-41.107343,175.079813

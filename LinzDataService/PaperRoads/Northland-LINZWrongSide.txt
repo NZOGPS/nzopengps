@@ -131,3 +131,14 @@
 2104669	11 TE WAIROA LANE	2013/12/22 16:43	-36.210038,174.160351
 2049329	605A-605C PAUA ROAD	2013/12/22 16:44	-34.539889,172.924173	These two are ones where the whole lot seems shifted
 2049328	591 PAUA ROAD	2013/12/22 16:44	-34.541291,172.925538
+--------------------------Not sure if above sent to LINZ
+2660983	1357 TE MAIRE ROAD	2014/05/04 12:24	-36.126961,173.957646
+2660863	994 BABYLON COAST ROAD	2014/05/04 12:29	-35.898843,173.724576
+2660192	32 BROOKE LANE	2014/05/04 12:30	-36.096453,174.528133
+2657138	19 BORROWS ROAD	2014/05/04 12:32	-36.285016,174.546891 A seemingly randomly allocated road. I may have reported this one before.
+2641083	53 BECROFT ROAD	2014/05/04 12:38	-36.284175,174.471337
+2459909	1 POTAHI ROAD	2014/05/04 12:44	-34.649729,172.971211	This may be correct, but all the other numbers on this road bear no relation whatsoever to the residences.
+2264294	101 GREENSIDE ROAD	2014/05/04 12:46	-36.266462,175.508781
+2104670	12 TE WAIROA LANE	2014/05/04 12:47	-36.210107,174.159707	A seemingly randomly allocated road. I may have reported this one before.
+2103623	7 JOHNSON LANE	2014/05/04 12:49	-35.281368,174.058543	A seemingly randomly allocated road. I may have reported this one before.
+--------------------------Above sent to LINZ  4/05/2014 

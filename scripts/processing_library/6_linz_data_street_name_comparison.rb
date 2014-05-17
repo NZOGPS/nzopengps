@@ -8,7 +8,7 @@ expects that the LinzDataService data has been processed already to form the -LI
 require '..\linzdataservice\nzogps_library.rb'
 
 def process_polish_buffer(buffer)
-  linzid, street_name, street_name_2, first_lat, first_lon  = nil
+  linzid, street_name, street_name_2, street_name_3, first_lat, first_lon  = nil
   
 	buffer.each{|line|
     if line =~ /;linzid\=(\d*)/ then
@@ -17,6 +17,8 @@ def process_polish_buffer(buffer)
       street_name = $1
     elsif line =~ /Label2\=(.*)/ then
       street_name_2 = $1
+    elsif line =~ /Label3\=(.*)/ then
+      street_name_3 = $1
     elsif line =~ /Data0\=\(([-.\d]+),([-.\d]+)\).*/ then
       first_lat = $1
       first_lon = $2
@@ -34,10 +36,13 @@ def process_polish_buffer(buffer)
   official_street_name = official_street_name.squeeze(' ').strip.upcase
   street_name = "#{street_name}".squeeze(' ').strip.upcase
   street_name_2 = "#{street_name_2}".squeeze(' ').strip.upcase
+  street_name_3 = "#{street_name_3}".squeeze(' ').strip.upcase
   
   if (official_street_name == street_name)||(official_street_name == doContractions(street_name)) then
     match = true
   elsif (official_street_name == street_name_2)||(official_street_name == doContractions(street_name_2)) then
+    match = true
+  elsif (official_street_name == street_name_3)||(official_street_name == doContractions(street_name_3)) then
     match = true
   elsif street_name =~ /~\[0x2d\](.+)/i || street_name_2 =~ /~\[0x2d\](.+)/i then
     highway_number = $1

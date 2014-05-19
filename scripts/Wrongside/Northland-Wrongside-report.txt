@@ -1,5 +1,5 @@
-132 entries in ..\..\LinzDataService\PaperRoads\Northland-LINZWrongSide.txt
-153 wrongside numbers, 26 not in Exclusion files
+141 entries in ..\..\LinzDataService\PaperRoads\Northland-LINZWrongSide.txt
+153 wrongside numbers, 17 not in Exclusion files
 5 entries in Linz list are no longer on the wrong side
 2118334	2 WHANGAE ROAD	2013/12/14 15:49	-35.371251,174.058198
 2464715	250 PARAKIORE ROAD	2013/12/14 16:24	-35.657777,174.282660

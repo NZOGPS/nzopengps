@@ -1,5 +1,10 @@
 use strict;
 
+need to do: 
+	paper roads files
+		3 x files! 
+	linzid2s
+	
 my $mappingfilename = "..\\LinzDataService\\rna_mappings.csv";
 my %idmap;
 my $cnt;

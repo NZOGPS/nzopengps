@@ -1,433 +1,433 @@
-46530	HENUI JUNCTION RD	Hurworth (Taranaki, NZ)
-46660	SCOUT RD		Egmont Village (Taranaki, NZ)
-46565	HUMPHRIES RD		Hurworth (Taranaki, NZ)
-45379	FRANKLEY RD		New Plymouth (Taranaki, NZ)
-46521	TAHANA RD		Hillsborough (Taranaki, NZ)
-30572	ASSAYE ST		Cheltenham (Manawatu-Wanganui, NZ)
-27373	SOBRAON ST		Cheltenham (Manawatu-Wanganui, NZ)
-27402	POLASSY ST		Cheltenham (Manawatu-Wanganui, NZ)
-27151	ALBUERA ST		Cheltenham (Manawatu-Wanganui, NZ)
-27118	CARR ST			Cheltenham (Manawatu-Wanganui, NZ)
-30535	STANLEY ST		Cheltenham (Manawatu-Wanganui, NZ)
-27131	BALACLAVA ST		Cheltenham (Manawatu-Wanganui, NZ)
-27174	TRAFALGAR ST		Cheltenham (Manawatu-Wanganui, NZ)
-27087	TALAVERA ST		Cheltenham (Manawatu-Wanganui, NZ)
-27100	ALMA ST			Cheltenham (Manawatu-Wanganui, NZ)
-27103	INKERMANN ST		Cheltenham (Manawatu-Wanganui, NZ)
-27084	OROUA ST		Rangiwahia (Manawatu-Wanganui, NZ)
-30527	CROSS RD		Rangiwahia (Manawatu-Wanganui, NZ)
-31223	STAFFORD ST		Kiwitea (Manawatu-Wanganui, NZ)
-27161	FOX ST			Kiwitea (Manawatu-Wanganui, NZ)
-27094	FERGUSSON ST		Kiwitea (Manawatu-Wanganui, NZ)
-31193	BOWEN ST		Kiwitea (Manawatu-Wanganui, NZ)
-27095	FITZROY ST		Kiwitea (Manawatu-Wanganui, NZ)
-27106	GORE BROWNE ST		Kiwitea (Manawatu-Wanganui, NZ)
-27136	WELD ST			Kiwitea (Manawatu-Wanganui, NZ)
-27165	DOMETT ST		Kiwitea (Manawatu-Wanganui, NZ)
-27140	SHORTLAND ST		Kiwitea (Manawatu-Wanganui, NZ)
-27158	VOGEL ST		Kiwitea (Manawatu-Wanganui, NZ)
-27096	EYRE ST			Kiwitea (Manawatu-Wanganui, NZ)
-31661	NEWTON RD		Central North Island Region (Waikato, NZ)
-45586	JONES ST		Tariki (Taranaki, NZ)
-45569	FOOKES ST		Tariki (Taranaki, NZ)
-45566	FENWICK ST		Tariki (Taranaki, NZ)
-45636	MCMILLAN ST		Tariki (Taranaki, NZ)
-27081	HINAU RD		Rangiwahia (Manawatu-Wanganui, NZ)
-27167	SPUR RD			KIMBOLTON (MANAWATU-WANGANUI)
-27101	ARNEY ST		Kiwitea (Manawatu-Wanganui, NZ)
-30519	NORMANBY TCE		Kiwitea (Manawatu-Wanganui, NZ)
-27127	RICHMOND ST		Kiwitea (Manawatu-Wanganui, NZ)
-30525	ATKINSON ST		Kiwitea (Manawatu-Wanganui, NZ)
-27082	HOBSON ST		Kiwitea (Manawatu-Wanganui, NZ)
-47005	PATU ST			Ohawe (Taranaki, NZ)
-47525	PAORA ST		Ohawe (Taranaki, NZ)
-46996	OHAWE TCE		Ohawe (Taranaki, NZ)
-47019	TOMA ST			Ohawe (Taranaki, NZ)
-26787	HERSCHELL ST		Maxwell (Manawatu-Wanganui, NZ)
-47134	QUEEN ST		Manutahi (Taranaki, NZ)
-47110	MANUTAHI SCHOOL RD	Manutahi (Taranaki, NZ)
-26227	BEST ST			Kakahi (Manawatu-Wanganui, NZ)
-47172	WAIOKURA RD		Manaia (Taranaki, NZ)
-45651	NORMANBY ST		Midhirst (Taranaki, NZ)
-47201	GERMAN TCE		Midhirst (Taranaki, NZ)
-47198	SCOTIA ST		Midhirst (Taranaki, NZ)
-45706	SYME ST			Midhirst (Taranaki, NZ)
-45733	BRACKEN ST		Midhirst (Taranaki, NZ)
-28580	TUNA RD			Mangaweka (Manawatu-Wanganui, NZ)
-28567	CREEK RD		Mangaweka (Manawatu-Wanganui, NZ)
-45519	MABEN RD		Patea (Taranaki, NZ)
-47142	PIUPIU RD		Patea (Taranaki, NZ)
-47128	TUTANGI RD		Patea (Taranaki, NZ)
-47557	TAMAITI RD		Patea (Taranaki, NZ)
-45957	MESSENGER RD		Mount Messenger (Taranaki, NZ)
-45955	PAGE ST			Waiiti (Taranaki, NZ)
-45946	ROTTER ST		Waiiti (Taranaki, NZ)
-46005	STIRLING ST		Waiiti (Taranaki, NZ)
-47393	GREGORY ST		Waiiti (Taranaki, NZ)
-45958	MESSENGER ST		Waiiti (Taranaki, NZ)
-45933	BADDELEY ST		Waiiti (Taranaki, NZ)
-46842	LITTLE WAIHI RD		Hawera (Taranaki, NZ)
-46918	FERGUSSON ST		Normanby (Taranaki, NZ)
-47523	TURNER ST		Normanby (Taranaki, NZ)
-46947	MOOREHOUSE ST		Normanby (Taranaki, NZ)
-28561	HOWE ST			Halcombe (Manawatu-Wanganui, NZ)
-27099	ASSOCIATION RD		KIMBOLTON (MANAWATU-WANGANUI)
-27166	STUARTS RD		KIMBOLTON (MANAWATU-WANGANUI)
-47038	LOWER TAUMAHA RD	Manutahi (Taranaki, NZ)
-47090	MATAPOURI TCE		Ngamatapouri (Taranaki, NZ)
-47121	WAITOTARA RD		Ngamatapouri (Taranaki, NZ)
-47053	OTAWETA RD		Taumatatahi (Taranaki, NZ)
-47108	ROTOKOHU RD		Ngamatapouri (Taranaki, NZ)
-45402	POKEKA RD		Ngamatapouri (Taranaki, NZ)
-47034	OMARU RD		Taumatatahi (Taranaki, NZ)
-45514	EPERO RD		Matemateaonga (Taranaki, NZ)
-45517	KOANE RD		Makahu (Taranaki, NZ)
-46815	ARENO RD		Matemateaonga (Taranaki, NZ)
-45639	MOEAWATEA RD		Matemateaonga (Taranaki, NZ)
-47002	PATUPUREMU RD		Matemateaonga (Taranaki, NZ)
-46834	HAUHA RD		Matemateaonga (Taranaki, NZ)
-46866	PARANGA ST		Matemateaonga (Taranaki, NZ)
-45612	MANGA RD		Puniwhakau (Taranaki, NZ)
-45675	PUTEORE RD		Makahu (Taranaki, NZ)
-45744	WHAKA RD		Makahu (Taranaki, NZ)
-45643	MT HUMPHRIES RD		Puniwhakau (Taranaki, NZ)
-47278	Forest Rd		Egmont Village (Taranaki, NZ)
-47589	Forest Rd		Egmont National Park (Taranaki, NZ)
-47663	Forest Rd		Newall (Taranaki, NZ)
-47279	Forest Rd		Makaka (Taranaki, NZ)
-47277	Forest Rd		Pembroke (Taranaki, NZ)
-47157	LESLIE RD		Otakeho (Taranaki, NZ)
-47155	CAMPBELL RD		Otakeho (Taranaki, NZ)
-46033	CAMBRIDGE RD		Kaimiro (Taranaki, NZ)
-46634	PATTEN RD		Koru (Taranaki, NZ)
-47484	HEATH RD		Koru (Taranaki, NZ)
-46559	LETT ST			Koru (Taranaki, NZ)
-46647	WHITE ST		Koru (Taranaki, NZ)
-46654	WALSH ST		Koru (Taranaki, NZ)
-46618	MOORE ST		Koru (Taranaki, NZ)
-28364	WHENUAKURA RD		Waverley (Taranaki, NZ)
-46793	REPO RD			Eltham (Taranaki, NZ)
-46630	PERCIVAL ST		Lepperton (Taranaki, NZ)
-46626	BAKER ST		Lepperton (Taranaki, NZ)
-45505	RODDY ST		Lepperton (Taranaki, NZ)
-46599	JEAN ST			Lepperton (Taranaki, NZ)
-46664	EWART ST		Lepperton (Taranaki, NZ)
-46641	SPURR ST		Lepperton (Taranaki, NZ)
-47195	HALCOMBE RD		Onaero (Taranaki, NZ)
-47667	TUPARI RD		Mimi (Taranaki, NZ)
-46720	TOHU RD			Newall (Taranaki, NZ)
-46758	ITI RD			Oaonui (Taranaki, NZ)
-46738	RUA RD			Oaonui (Taranaki, NZ)
-47658	MANAWAPOU RD		Patea (Taranaki, NZ)
+1817071	HENUI JUNCTION RD	Hurworth (Taranaki, NZ)
+1817210	SCOUT RD		Egmont Village (Taranaki, NZ)
+1817106	HUMPHRIES RD		Hurworth (Taranaki, NZ)
+1809284	FRANKLEY RD		New Plymouth (Taranaki, NZ)
+1817061	TAHANA RD		Hillsborough (Taranaki, NZ)
+1801013	ASSAYE ST		Cheltenham (Manawatu-Wanganui, NZ)
+1797636	SOBRAON ST		Cheltenham (Manawatu-Wanganui, NZ)
+1797665	POLASSY ST		Cheltenham (Manawatu-Wanganui, NZ)
+1797408	ALBUERA ST		Cheltenham (Manawatu-Wanganui, NZ)
+1797375	CARR ST			Cheltenham (Manawatu-Wanganui, NZ)
+1800975	STANLEY ST		Cheltenham (Manawatu-Wanganui, NZ)
+1797389	BALACLAVA ST		Cheltenham (Manawatu-Wanganui, NZ)
+1797431	TRAFALGAR ST		Cheltenham (Manawatu-Wanganui, NZ)
+1797344	TALAVERA ST		Cheltenham (Manawatu-Wanganui, NZ)
+1797358	ALMA ST			Cheltenham (Manawatu-Wanganui, NZ)
+1797361	INKERMANN ST		Cheltenham (Manawatu-Wanganui, NZ)
+1797341	OROUA ST		Rangiwahia (Manawatu-Wanganui, NZ)
+1800967	CROSS RD		Rangiwahia (Manawatu-Wanganui, NZ)
+1801695	STAFFORD ST		Kiwitea (Manawatu-Wanganui, NZ)
+1797418	FOX ST			Kiwitea (Manawatu-Wanganui, NZ)
+1797352	FERGUSSON ST		Kiwitea (Manawatu-Wanganui, NZ)
+1801666	BOWEN ST		Kiwitea (Manawatu-Wanganui, NZ)
+1797353	FITZROY ST		Kiwitea (Manawatu-Wanganui, NZ)
+1797364	GORE BROWNE ST		Kiwitea (Manawatu-Wanganui, NZ)
+1797393	WELD ST			Kiwitea (Manawatu-Wanganui, NZ)
+1797422	DOMETT ST		Kiwitea (Manawatu-Wanganui, NZ)
+1797397	SHORTLAND ST		Kiwitea (Manawatu-Wanganui, NZ)
+1797415	VOGEL ST		Kiwitea (Manawatu-Wanganui, NZ)
+1797354	EYRE ST			Kiwitea (Manawatu-Wanganui, NZ)
+1800710	NEWTON RD		Central North Island Region (Waikato, NZ)
+1812518	JONES ST		Tariki (Taranaki, NZ)
+1812211	FOOKES ST		Tariki (Taranaki, NZ)
+1812145	FENWICK ST		Tariki (Taranaki, NZ)
+1813427	MCMILLAN ST		Tariki (Taranaki, NZ)
+1797338	HINAU RD		Rangiwahia (Manawatu-Wanganui, NZ)
+1797424	SPUR RD			KIMBOLTON (MANAWATU-WANGANUI)
+1797359	ARNEY ST		Kiwitea (Manawatu-Wanganui, NZ)
+1800959	NORMANBY TCE		Kiwitea (Manawatu-Wanganui, NZ)
+1797385	RICHMOND ST		Kiwitea (Manawatu-Wanganui, NZ)
+1800965	ATKINSON ST		Kiwitea (Manawatu-Wanganui, NZ)
+1797339	HOBSON ST		Kiwitea (Manawatu-Wanganui, NZ)
+1817586	PATU ST			Ohawe (Taranaki, NZ)
+1818151	PAORA ST		Ohawe (Taranaki, NZ)
+1817577	OHAWE TCE		Ohawe (Taranaki, NZ)
+1817600	TOMA ST			Ohawe (Taranaki, NZ)
+1797033	HERSCHELL ST		Maxwell (Manawatu-Wanganui, NZ)
+1817727	QUEEN ST		Manutahi (Taranaki, NZ)
+1817703	MANUTAHI SCHOOL RD	Manutahi (Taranaki, NZ)
+1796447	BEST ST			Kakahi (Manawatu-Wanganui, NZ)
+1817774	WAIOKURA RD		Manaia (Taranaki, NZ)
+1813684	NORMANBY ST		Midhirst (Taranaki, NZ)
+1817806	GERMAN TCE		Midhirst (Taranaki, NZ)
+1817803	SCOTIA ST		Midhirst (Taranaki, NZ)
+1814720	SYME ST			Midhirst (Taranaki, NZ)
+1815235	BRACKEN ST		Midhirst (Taranaki, NZ)
+1798915	TUNA RD			Mangaweka (Manawatu-Wanganui, NZ)
+1798904	CREEK RD		Mangaweka (Manawatu-Wanganui, NZ)
+1811591	MABEN RD		Patea (Taranaki, NZ)
+1817739	PIUPIU RD		Patea (Taranaki, NZ)
+1817721	TUTANGI RD		Patea (Taranaki, NZ)
+1818184	TAMAITI RD		Patea (Taranaki, NZ)
+1816435	MESSENGER RD		Mount Messenger (Taranaki, NZ)
+1816433	PAGE ST			Waiiti (Taranaki, NZ)
+1816424	ROTTER ST		Waiiti (Taranaki, NZ)
+1816488	STIRLING ST		Waiiti (Taranaki, NZ)
+1818006	GREGORY ST		Waiiti (Taranaki, NZ)
+1816436	MESSENGER ST		Waiiti (Taranaki, NZ)
+1816408	BADDELEY ST		Waiiti (Taranaki, NZ)
+1817410	LITTLE WAIHI RD		Hawera (Taranaki, NZ)
+1817489	FERGUSSON ST		Normanby (Taranaki, NZ)
+1818146	TURNER ST		Normanby (Taranaki, NZ)
+1817522	MOOREHOUSE ST		Normanby (Taranaki, NZ)
+1798898	HOWE ST			Halcombe (Manawatu-Wanganui, NZ)
+1797357	ASSOCIATION RD		KIMBOLTON (MANAWATU-WANGANUI)
+1797423	STUARTS RD		KIMBOLTON (MANAWATU-WANGANUI)
+1817623	LOWER TAUMAHA RD	Manutahi (Taranaki, NZ)
+1817681	MATAPOURI TCE		Ngamatapouri (Taranaki, NZ)
+1817714	WAITOTARA RD		Ngamatapouri (Taranaki, NZ)
+1817642	OTAWETA RD		Taumatatahi (Taranaki, NZ)
+1817701	ROTOKOHU RD		Ngamatapouri (Taranaki, NZ)
+1809677	POKEKA RD		Ngamatapouri (Taranaki, NZ)
+1817619	OMARU RD		Taumatatahi (Taranaki, NZ)
+1811526	EPERO RD		Matemateaonga (Taranaki, NZ)
+1811559	KOANE RD		Makahu (Taranaki, NZ)
+1817381	ARENO RD		Matemateaonga (Taranaki, NZ)
+1813479	MOEAWATEA RD		Matemateaonga (Taranaki, NZ)
+1817583	PATUPUREMU RD		Matemateaonga (Taranaki, NZ)
+1817402	HAUHA RD		Matemateaonga (Taranaki, NZ)
+1817434	PARANGA ST		Matemateaonga (Taranaki, NZ)
+1812998	MANGA RD		Puniwhakau (Taranaki, NZ)
+1814035	PUTEORE RD		Makahu (Taranaki, NZ)
+1815479	WHAKA RD		Makahu (Taranaki, NZ)
+1813524	MT HUMPHRIES RD		Puniwhakau (Taranaki, NZ)
+1817889	Forest Rd		Egmont Village (Taranaki, NZ)
+1818217	Forest Rd		Egmont National Park (Taranaki, NZ)
+1818283	Forest Rd		Newall (Taranaki, NZ)
+1817890	Forest Rd		Makaka (Taranaki, NZ)
+1817888	Forest Rd		Pembroke (Taranaki, NZ)
+1817754	LESLIE RD		Otakeho (Taranaki, NZ)
+1817752	CAMPBELL RD		Otakeho (Taranaki, NZ)
+1816515	CAMBRIDGE RD		Kaimiro (Taranaki, NZ)
+1817180	PATTEN RD		Koru (Taranaki, NZ)
+1818106	HEATH RD		Koru (Taranaki, NZ)
+1817100	LETT ST			Koru (Taranaki, NZ)
+1817197	WHITE ST		Koru (Taranaki, NZ)
+1817204	WALSH ST		Koru (Taranaki, NZ)
+1817164	MOORE ST		Koru (Taranaki, NZ)
+1798680	WHENUAKURA RD		Waverley (Taranaki, NZ)
+1817359	REPO RD			Eltham (Taranaki, NZ)
+1817176	PERCIVAL ST		Lepperton (Taranaki, NZ)
+1817172	BAKER ST		Lepperton (Taranaki, NZ)
+1811364	RODDY ST		Lepperton (Taranaki, NZ)
+1817141	JEAN ST			Lepperton (Taranaki, NZ)
+1817214	EWART ST		Lepperton (Taranaki, NZ)
+1817187	SPURR ST		Lepperton (Taranaki, NZ)
+1817800	HALCOMBE RD		Onaero (Taranaki, NZ)
+1818287	TUPARI RD		Mimi (Taranaki, NZ)
+1817277	TOHU RD			Newall (Taranaki, NZ)
+1817318	ITI RD			Oaonui (Taranaki, NZ)
+1817298	RUA RD			Oaonui (Taranaki, NZ)
+1818278	MANAWAPOU RD		Patea (Taranaki, NZ)
 NO SUFI			CASTLE ST		New Plymouth (Taranaki, NZ)
 NO SUFI			KING ST			New Plymouth (Taranaki, NZ)
 NO SUFI			FRYER RD		New Plymouth (Taranaki, NZ)
 NO SUFI			ARDEN ST		New Plymouth (Taranaki, NZ)
-45582	HUINGA RD		Huinga (Taranaki, NZ)
-45386	KAIKOURA RD		Huiroa (Taranaki, NZ)
-46640	BARTON ST		Lepperton (Taranaki, NZ)
-47684	BLACK ST		Huirangi (Taranaki, NZ)
-46535	PURDIE ST		Huirangi (Taranaki, NZ)
-46551	KELLY ST		Huirangi (Taranaki, NZ)
-46689	BISHOP ST		Huirangi (Taranaki, NZ)
-46688	BLACK RD		Huirangi (Taranaki, NZ)
-29596	PIPIRIKI RD		Pipiriki (Manawatu-Wanganui, NZ)
-47325	HOTSPUR ST		Stratford (Taranaki, NZ)
-47197	WHITEHEAD RD		Onaero (Taranaki, NZ)
-46651	THORP RD		Huirangi (Taranaki, NZ)
-47510	SAUNDERS RD		Rahotu (Taranaki, NZ)
-46746	HAMUERA RD		Rahotu (Taranaki, NZ)
-47539	WAINGONGORO HEADS RD	Okaiawa (Taranaki, NZ)
-46013	WIRI RD			Tarata (Taranaki, NZ)
-46040	NGATIMARU TCE		Tarata (Taranaki, NZ)
-45987	JUPP ST			Tikorangi (Taranaki, NZ)
-47669	BLACK ST		Tikorangi (Taranaki, NZ)
-26862	BUCKLEY ST		Maxwell (Manawatu-Wanganui, NZ)
-26885	FARADAY ST		Maxwell (Manawatu-Wanganui, NZ)
-46761	MOA ST			Te Kiri (Taranaki, NZ)
-47592	WEKA ST			Te Kiri (Taranaki, NZ)
-46727	KIWI RD			Te Kiri (Taranaki, NZ)
-46796	AUI ST			Awatuna (Taranaki, NZ)
-45601	KOREPO RD		Ngaere (Taranaki, NZ)
-45650	NGAERE RD		Rawhitiroa (Taranaki, NZ)
-46633	PATUHA RD		Kaitake (Taranaki, NZ)
-45556	EASON ST		Huiroa (Taranaki, NZ)
-45721	TOCKER ST		Huiroa (Taranaki, NZ)
-45587	JULIAN ST		Huiroa (Taranaki, NZ)
-45679	QUEEN CRES		Midhirst (Taranaki, NZ)
-47475	KOTUKU RD		Egmont Village (Taranaki, NZ)
-46524	SURREY HILL RD		Oakura (Taranaki, NZ)
-30742	RICHARDSON RD		Waverley (Taranaki, NZ)
-47130	TRENT ST		Patea (Taranaki, NZ)
-35187	STOCK RD		Otane (Hawkes Bay)
-47348	TIROHANGA RD		Whangamomona (Manawatu-Wanganui, NZ)
-45613	MANGAEHU RD		Strathmore (Taranaki, NZ)
-45712	TAUMATA RD		Aotuhia (Manawatu-Wanganui, NZ)
-45604	KURAPETE RD		Aotuhia (Manawatu-Wanganui, NZ)
-32788	HINEMANA ST		NUHAKA (HAWKES BAY)
-32915	WAIOIRA ST		NUHAKA (HAWKES BAY)
-32921	WHAREKI ST		NUHAKA (HAWKES BAY)
-32832	MARAHAERE ST		NUHAKA (HAWKES BAY)
-32904	TUREIA ST		NUHAKA (HAWKES BAY)
-32797	KAIMOANA ST		NUHAKA (HAWKES BAY)
-32894	TE AIHURANGI ST		NUHAKA (HAWKES BAY)
-32891	TAWA ST			NUHAKA (HAWKES BAY)
-45918	WAIHI RD		Waitara (Taranaki, NZ)
-32859	PAUA LANE		MAHIA (HAWKES BAY)
-35136	STAFFORD ST		MAHIA (HAWKES BAY)
-32899	THE CRESCENT		WAIROA (HAWKES BAY)
-31907	SEAVIEW PL		GISBORNE
-26292	DOE RD			Raurimu (Manawatu-Wanganui, NZ)
-30877	SCHOOL RD		Raurimu (Manawatu-Wanganui, NZ)
-27077	WILLIAMS RD		Rangiwahia (Manawatu-Wanganui, NZ)
-28690	KAREAREA ST		Mangaweka (Manawatu-Wanganui, NZ)
-28551	PAPAROA RD		Mangaweka (Manawatu-Wanganui, NZ)
-26412	MAUIUI ST		Tangiwai (Manawatu-Wanganui, NZ)
-30413	WAITAIKI RD		Tangiwai (Manawatu-Wanganui, NZ)
-26321	MAHORA ST		Tangiwai (Manawatu-Wanganui, NZ)
-26422	KARAPITANGI ST		Tangiwai (Manawatu-Wanganui, NZ)
-26450	TUTONU ST		Tangiwai (Manawatu-Wanganui, NZ)
-26431	KOHATU ST		Tangiwai (Manawatu-Wanganui, NZ)
-26322	MAIORO TCE		Tangiwai (Manawatu-Wanganui, NZ)
-26312	OMARAE RD		Tangiwai (Manawatu-Wanganui, NZ)
-45676	PUTI ST			Matau (Taranaki, NZ)
-45723	TUMAI ST		Matau (Taranaki, NZ)
-45664	PATON TCE		Matau (Taranaki, NZ)
-45580	HOE RD			Matau (Taranaki, NZ)
-46010	PURANGI TCE		Purangi (Taranaki, NZ)
-46012	WILLOW TCE		Purangi (Taranaki, NZ)
-46061	SILK RD			Purangi (Taranaki, NZ)
-46031	TAPU RD			Purangi (Taranaki, NZ)
-35409	TATARAAKINA RD		Tarawera (Hawke's Bay, NZ)
-33320	RICHMOND RD		Te Pohue (Hawke's Bay, NZ)
-26309	OTUMANGU RD		Whanganui National park
-39588	DONNE ST		Glenholme (ROTORUA) (Bay of Plenty, NZ)
-28576	DEATHS RD		MARTON (MANAWATU-WANGANUI)
-45625	MANUTANGIHIA RD		Matau (Taranaki, NZ)
-45746	WHETU RD		Matau (Taranaki, NZ)
-45682	RAKORAKO RD		Matau (Taranaki, NZ)
-47326	AUKAWA RD		Matau (Taranaki, NZ)
-45884	MANGAPITO RD		Purangi (Taranaki, NZ)
-47386	MANGAORAKA RD		Mimi (Taranaki, NZ)
-27420	KAKA ST			Mt Richards (Manawatu-Wanganui, NZ)
-27436	RURU ST			Mt Richards (Manawatu-Wanganui, NZ)
-28625	MCLEAYS RD		KAUANGAROA MANAWATU-WANGANUI
-30368	POHE ST			WAIOURU MANAWATU-WANGANUI
-26453	TOWAI RD		Ohakune (Manawatu-Wanganui, NZ)
-27135	WATT ST			Rangiwahia (Manawatu-Wanganui, NZ)
-27091	HAMMOND ST		Rangiwahia (Manawatu-Wanganui, NZ)
-30476	NGATARUA NORTH RD	Putiki, Wanganui (Manawatu-Wanganui, NZ)
-26807	HORI KINGI ST		Putiki, Wanganui (Manawatu-Wanganui, NZ)
-28557	HOUPUNUI RD		Hunterville (Manawatu-Wanganui, NZ)
-28648	BELL ST			Ohingaiti (Manawatu-Wanganui, NZ)
-28511	THE TERRACE		Ohingaiti (Manawatu-Wanganui, NZ)
-28650	BATTLEY RD		Mangaweka (Manawatu-Wanganui, NZ)
-30957	HAMMOND RD		Taihape (Manawatu-Wanganui, NZ)
-21738	TE MOANA RD		PUTIKI WANGANUI
-26909	WILLIAMS RD		WESTMERE
-30487	DAY RD			WESTMERE
-89946	GREAT WESTERN LINE	BRUNSWICK (MANAWATU WANGANUI)
-21799	BRADLEYS LINE		BRUNSWICK
-29306	STANLEY RD		WESTMERE
-26629	BURNET TERRACE		Wanganui (Manawatu-Wanganui, NZ)
-26394	WAIPUNA RD		Moawhango (Manawatu-Wanganui, NZ)
-45841	RERE RD			Ohura (Manawatu-Wanganui, NZ)
-45794	PLATEAU COLLIERY RD	Ohura (Manawatu-Wanganui, NZ)
-45820	MINE RD			Ohura (Manawatu-Wanganui, NZ)
-28611	HARTLEYS RD		Ratana (Manawatu-Wanganui, NZ)
-47350	TUNUPO RD		Huiroa (Taranaki, NZ)
-45717	TE WERA RD		Matau (Taranaki, NZ)
-29399	MISSION LINE		Brunswick (Manawatu-Wanganui, NZ)
-45956	CLIFTON RD		Waiiti (Taranaki, NZ)
-30584	WAITAPU TERRACE		Apiti (Manawatu-Wanganui, NZ)
-27435	SHORT ST		Apiti (Manawatu-Wanganui, NZ)
-31194	SOUTH ST		Apiti (Manawatu-Wanganui, NZ)
-27424	MT ST			Apiti (Manawatu-Wanganui, NZ)
-27414	NORTH ST		Apiti (Manawatu-Wanganui, NZ)
-47524	PANUI RD		Hawera (Taranaki, NZ)
-45736	WAIKAUWIA RD		Tangarakau (Manawatu-Wanganui, NZ)
-45662	PAPAWAI RD		Tahora (Taranaki, NZ)
-45626	MARAEKOWHAI RD		Tangarakau (Manawatu-Wanganui, NZ)
-45710	TANGARAKAU RD		Kohuratahi (Manawatu-Wanganui, NZ)
-46060	SHORT RD		Waiongana (Taranaki, NZ)
-46736	WHARF RD		Opunake (Taranaki, NZ)
-47200	PERERE RD		Rahotu (Taranaki, NZ)
-47199	RIKI RD			Rahotu (Taranaki, NZ)
-28622	GLASGOW RD		Ratana (Manawatu-Wanganui)
-45882	TANGAHOE RD		Parinui (Manawatu-Wanganui, NZ)
-45713	TAUMATAMAHOE RD		Whanganui National Park (Manawatu-Wanganui, NZ)
-45891	MANGAWAI ITI RD		Whanganui National Park (Manawatu-Wanganui, NZ)
-27382	RIVERBANK RD		Halcombe (Manawatu-Wanganui, NZ)
-27340	PARORANGI RD W		Halcombe (Manawatu-Wanganui, NZ)
-26232	TARU ST	Kaitieke(Manawatu-Wanganui,NZ)	2012/02/19 10:48	-39.098709,175.267761
-26241	IHAKA ST	Kaitieke(Manawatu-Wanganui,NZ)	2012/02/19 10:49	-39.099701,175.267075
-30384	MANIA ST	Kaitieke(Manawatu-Wanganui,NZ)	2012/02/19 10:49	-39.100830,175.268707
-26222	POA ST	Kaitieke(Manawatu-Wanganui,NZ)	2012/02/19 10:50	-39.099510,175.272766
-26273	MARAMA ST	Kaitieke(Manawatu-Wanganui,NZ)	2012/02/19 10:50	-39.098450,175.270294
-47358	KOKAKO RD	Waitaanga(Manawatu-Wanganui,NZ)	2012/02/21 07:17	-38.856750,174.830841
-46508	YARDLEY AVE	Waitara(Taranaki,NZ)	2012/02/22 06:20	-38.992840,174.221893
-47148	ROUND BUSH RD	Manaia(Taranaki,NZ)	2012/02/23 21:19	-39.547710,174.095001
-45914	LYNCH RD	Urenui(Taranaki,NZ)	2012/02/24 17:25	-38.997002,174.427246
-45944	MANGU ST	Urenui(Taranaki,NZ)	2012/02/24 17:45	-39.000629,174.377533
-45947	RUAHINE RD	Onaero(Taranaki,NZ)	2012/02/24 17:51	-39.057529,174.368042
-26452	UREWERA RD	Tongariro National Park(Manawatu-Wanganui,NZ)	2012/02/24 18:10	-39.405701,175.422104
-46691	POTTER TCE	Omata(Taranaki,NZ)	2012/02/29 21:21	-39.109161,173.958786
-46650	THOMPSON ST	Kaitake(Taranaki,NZ)	2012/02/29 22:02	-39.144711,173.936066
-45938	MANGAHIA RD	Ahititi(Taranaki,NZ)	2012/03/21 05:16	-38.924480,174.632477
-45959	MAY RD	Uruti(Taranaki,NZ)	2012/03/21 05:18	-38.936722,174.627197
-45959	MAY RD	Uruti(Taranaki,NZ)	2012/03/21 05:21	-38.936722,174.627197
-45999	PARI RD	Ahititi(Taranaki,NZ)	2012/03/21 05:22	-38.931938,174.662704
-45905	TOII RD	Ahititi(Taranaki,NZ)	2012/03/21 05:23	-38.909409,174.666504
-45905	TOII RD	Ahititi(Taranaki,NZ)	2012/03/21 05:25	-38.909409,174.666504
-45962	STRATTON RD	Tongaporutu(Taranaki,NZ)	2012/03/21 05:37	-38.848560,174.687485
-45967	BOAR RD	Ahititi(Taranaki,NZ)	2012/03/21 05:50	-38.898251,174.704330
-46043	KAWAU RD	Tarata(Taranaki,NZ)	2012/08/08 22:35	-39.168300,174.385280
-92392	PITA RD	Matau(Taranaki,NZ)	2012/09/16 21:30	-39.186320,174.513210
-45775	KOPUHA RD	Ohura(Manawatu-Wanganui,NZ)	2012/09/16 21:33	-38.838360,175.013900
-45791	WAIORA RD	Ohura(Manawatu-Wanganui,NZ)	2012/09/16 21:43	-38.822810,175.014050
-47388	MAKARAKIA RD	Uruti(Taranaki,NZ)	2012/09/16 21:54	-38.971940,174.682610
-45609	MAIKAI RD	Kohuratahi(Manawatu-Wanganui,NZ)	2012/09/16 22:10	-39.048630,174.729150
-28502	PUHIRUA RD	Taihape(Manawatu-Wanganui,NZ)	2012/09/23 16:31	-39.702850,175.864130
-46932	KAITOKE RD	Ohangai(Taranaki,NZ)	2012/09/25 18:34	-39.521170,174.417720
-34002	ANDERSON RD	Ashley Clinton(Hawke's Bay,NZ)	2012/09/25 20:53	-39.902730,176.275570
-34028	CRUMP RD	Ashley Clinton(Hawke's Bay,NZ)	2012/09/25 21:00	-39.973116,176.204080
-32274	RUSSELL PDE S	Frasertown(Hawke's Bay,NZ)	2012/09/27 20:49	-38.967880,177.397180
-45883	PARINUI RD	Whanganui National Park(Manawatu-Wanganui,NZ)	2013/01/13 18:40	-39.367300,174.978100
-45876	STOCK RD	Parinui(Manawatu-Wanganui,NZ)	2013/01/13 18:41	-39.322540,174.986660
-45893	OTIKOKI RD	Whanganui National Park(Manawatu-Wanganui,NZ)	2013/01/13 18:43	-39.322060,174.927850
-45745	WHAKAIHUWAKA RD	Whanganui National Park(Manawatu-Wanganui,NZ)	2013/01/13 18:46	-39.324770,174.819730
-45603	KOTEKIEKIE RD	Whanganui National Park(Manawatu-Wanganui,NZ)	2013/01/13 18:47	-39.377490,174.857660
-26940	POHONUITANE RD	Papanui Junction(Manawatu-Wanganui,NZ)	2013/02/04 07:05	-39.708790,175.462870
-28689	KAI RD	Rangiwaea(Manawatu-Wanganui,NZ)	2013/02/04 21:48	-39.571120,175.514290
-28604	MAUNGATOTARA RD	Rangiwaea(Manawatu-Wanganui,NZ)	2013/02/04 21:52	-39.590160,175.514250
-26310	OTARA RD	Rangiwaea(Manawatu-Wanganui,NZ)	2013/02/04 21:57	-39.549940,175.522750
-26904	RURATAHI RD	Kakatahi(Manawatu-Wanganui,NZ)	2013/02/04 22:36	-39.714500,175.391230
-26818	NGAMATEA RD	Papanui Junction(Manawatu-Wanganui,NZ)	2013/02/04 22:43	-39.677890,175.421110
-28695	KARETU RD	Papanui Junction(Manawatu-Wanganui,NZ)	2013/02/05 08:04	-39.738790,175.544080
-21853	KAUAEKEKE RD	Papanui Junction(Manawatu-Wanganui,NZ)	2013/02/10 05:57	-39.670020,175.554640
-28500	PUWEHEA RD	Taihape(Manawatu-Wanganui,NZ)	2013/02/10 05:59	-39.639630,175.568020
-21884	NGAURUKEHU RD	Taihape(Manawatu-Wanganui,NZ)	2013/02/10 06:11	-39.656250,175.677840
-21951	WAITOKA RD	Taihape(Manawatu-Wanganui,NZ)	2013/02/10 06:17	-39.677902,175.604760
-28514	TE RUANUI RD	Taihape(Manawatu-Wanganui,NZ)	2013/02/10 06:19	-39.624530,175.625910
-28578	TUI RD	Taihape(Manawatu-Wanganui,NZ)	2013/02/10 06:34	-39.704590,175.607570
-32900	TIRIKAWA RAKATAU RD	Wairoa(Hawke's Bay,NZ)	2013/03/04 06:34	-39.085940,177.241010
-47375	TOKIRIMA RD	Tokirima(Manawatu-Wanganui,NZ)	2013/03/12 07:17	-38.918660,174.978620
-45817	NGUTU RD	Aukopae, Taumarunui(Manawatu-Wanganui,NZ)	2013/03/12 07:24	-38.912050,175.046430
-45842	RANGI TCE	Matiere(Manawatu-Wanganui,NZ)	2013/03/19 15:51	-38.765230,175.093900
-45830	KAHU ST	Matiere(Manawatu-Wanganui,NZ)	2013/03/19 15:52	-38.760650,175.094770
-45819	MOKO ST	Matiere(Manawatu-Wanganui,NZ)	2013/03/19 15:53	-38.762250,175.094750
-45792	PIPI ST	Matiere(Manawatu-Wanganui,NZ)	2013/03/19 15:53	-38.762230,175.097040
-47678	KAKA ST	Matiere(Manawatu-Wanganui,NZ)	2013/03/19 15:56	-38.764960,175.100260
-45771	KOE ST	Matiere(Manawatu-Wanganui,NZ)	2013/03/19 15:59	-38.762210,175.100660
-45769	KUKU ST	Matiere(Manawatu-Wanganui,NZ)	2013/03/19 16:03	-38.759460,175.092830
-45846	RIRO TCE	Matiere(Manawatu-Wanganui,NZ)	2013/03/19 16:04	-38.761160,175.092600
-47371	WHIO ST	Matiere(Manawatu-Wanganui,NZ)	2013/03/19 16:06	-38.763970,175.092420
-45862	TUHI RD	Matiere(Manawatu-Wanganui,NZ)	2013/03/19 16:09	-38.767290,175.095760
-45807	HAMILTON RD	Matiere(Manawatu-Wanganui,NZ)	2013/03/19 16:09	-38.767290,175.095760
-47369	JENNINGS RD	Matiere(Manawatu-Wanganui,NZ)	2013/03/19 16:10	-38.769080,175.091320
-26239	MATAWHERO TCE	Manunui, Taumarunui(Manawatu-Wanganui,NZ)	2013/03/21 18:40	-38.918250,175.336300
-26283	TUHUA TCE	Manunui, Taumarunui(Manawatu-Wanganui,NZ)	2013/03/21 18:40	-38.919170,175.339840
-26256	WHAKAPAKI ST	Manunui, Taumarunui(Manawatu-Wanganui,NZ)	2013/03/21 18:46	-38.922200,175.338850
-97935	MIDDLE RD		2013/04/19 02:06	-39.983581,175.743300
-27168	KIWITEA RD		2013/04/19 02:07	-40.016700,175.752901
-28671	MANGAIO RD	Taoroa Junction(Manawatu-Wanganui,NZ)	2013/04/21 08:23	-39.659610,175.971510
-47570	MOTUMATE RD	Manaia(Taranaki,NZ)	2013/04/21 21:50	-39.573400,174.092830
-46825	CHAPMAN RD	Eltham(Taranaki,NZ)	2013/04/22 22:40	-39.429670,174.318310
-45614	MANGAMINGI RD	Huinga(Taranaki,NZ)	2013/04/22 22:53	-39.393340,174.457650
-45658	OMOANA RD	Mangamingi(Taranaki,NZ)	2013/04/22 22:54	-39.416220,174.467600
-26795	WAITAHANUI RD		2013/04/23 21:31	-39.954060,175.064440
-26815	NO  1 LINE		2013/04/23 21:35	-39.962830,175.100110
-30481	ARUNDELL RD		2013/04/23 23:20	-39.552220,174.988870
-29543	TE MUTU RD		2013/04/23 23:21	-39.533100,174.929020
-26379	HUAMANGO RD		2013/04/23 23:22	-39.336190,175.373860
-26375	HOUHOU RD		2013/04/23 23:22	-39.336190,175.373860
-26365	HARAKEKE RD		2013/04/23 23:22	-39.341340,175.371850
-26363	HARORE RD		2013/04/23 23:22	-39.345200,175.370540
-26368	HUTOTOI RD		2013/04/23 23:22	-39.340850,175.376030
-26426	HOHERE RD		2013/04/23 23:23	-39.339660,175.379650
-26373	HURU ST		2013/04/23 23:23	-39.341620,175.379990
-26364	HATRICK AVE		2013/04/23 23:23	-39.343430,175.387060
-47283	BERTRAND RD		2013/04/24 23:59	-39.052770,174.245490
-26371	HUA ST		2013/04/25 07:11	-39.343040,175.375350
-26429	HINAU ST		2013/04/25 07:11	-39.340850,175.376030
-26427	HIWAI ST		2013/04/25 07:11	-39.341620,175.379990
-26428	HIOI ST		2013/04/25 07:11	-39.340260,175.379710
-26372	HOROKIO ST		2013/04/25 07:11	-39.339730,175.381500
-26369	HUNE ST		2013/04/25 07:12	-39.343010,175.382300
-26370	HUKA ST		2013/04/25 07:12	-39.342290,175.384790
-30400	HORUHORU TCE		2013/04/25 07:12	-39.344320,175.382900
-26382	MERSON ST		2013/04/25 07:12	-39.341940,175.386080
-26325	RIMU ST		2013/04/25 07:13	-39.341330,175.392200
-32826	MAHANGA ROADWAY	Mahia(Hawke's Bay,NZ)	2013/06/12 06:38	-39.030580,177.863140
-33350	TE POHUE-TUTIRA RD	Tutira(Hawke's Bay,NZ)	2013/06/12 18:50	-39.174480,176.789620
-34075	NEWMAN ST	Ongaonga(Hawke's Bay,NZ)	2013/06/17 21:10	-39.915130,176.413800
-27425	PARSONS FORD RD	Pohangina(Manawatu-Wanganui,NZ)	2013/06/23 20:52	-40.078060,175.787780
-45409	RODDY RD	Everett Park(Taranaki,NZ)	2013/06/29 11:37	-39.092360,174.260794
-45607	MA RD	Te Wera(Taranaki,NZ)	2013/07/01 18:51	-39.264130,174.567090
-41653	TUKINO ST	Tauranga Taupo(Waikato,NZ)	2013/07/04 23:06	-38.911210,175.895980
-26430	KOPURUTUKU RD	Waimarino(Manawatu-Wanganui,NZ)	2013/07/06 21:40	-39.471860,175.438720
-26902	RIRIPO RD	Ranana(Manawatu-Wanganui,NZ)	2013/07/06 22:12	-39.610970,175.106440
-30480	TAWAPIKO RD	Whanganui National Park(Manawatu-Wanganui,NZ)	2013/07/06 22:13	-39.627210,175.105390
-30410	PEKAPEKA RD	Pipiriki(Manawatu-Wanganui,NZ)	2013/07/06 22:16	-39.478510,175.036620
-26391	PAPARENGARENGA ST	Pipiriki(Manawatu-Wanganui,NZ)	2013/07/06 22:23	-39.476790,175.046380
-26419	KAUKORE ST	Pipiriki(Manawatu-Wanganui,NZ)	2013/07/06 22:23	-39.477690,175.046900
-26440	PUKEHINAU ST	Pipiriki(Manawatu-Wanganui,NZ)	2013/07/06 22:24	-39.478000,175.044110
-30397	AKAPUKA RD	Pipiriki(Manawatu-Wanganui,NZ)	2013/07/06 22:27	-39.476580,175.037700
-30404	PAPAROA RD	Pipiriki(Manawatu-Wanganui,NZ)	2013/07/06 22:29	-39.478620,175.041529
-26895	RATA RD	Kakatahi(Manawatu-Wanganui,NZ)	2013/07/06 22:59	-39.684180,175.272720
-26825	TE KOMAI RD	Kakatahi(Manawatu-Wanganui,NZ)	2013/07/06 23:00	-39.675680,175.257750
-26845	ATENE TRK	Whanganui National Park(Manawatu-Wanganui,NZ)	2013/07/06 23:17	-39.721540,175.148110
-46964	WAIMATE ST	Ohawe(Taranaki,NZ)	2013/07/07 01:13	-39.585800,174.208770
-47022	POMA ST	Ohawe(Taranaki,NZ)	2013/07/07 01:13	-39.587750,174.206280
-46894	HOKA ST	Ohawe(Taranaki,NZ)	2013/07/07 01:14	-39.584940,174.202590
-47627	ROTOKARE RD	Rawhitiroa(Taranaki,NZ)	2013/07/07 18:05	-39.458400,174.401030
-47133	KOKOPU RD		2013/07/07 20:49	-39.641980,174.393840
-92101	ROADWAY		2013/07/07 20:49	-39.653260,174.414730
-45526	TANGAHOE RD		2013/07/07 20:50	-39.637450,174.356460
-42475	WAITANGI RD	Taringamotu(Manawatu-Wanganui,NZ)	2013/07/08 07:05	-38.836710,175.368530
-31671	MANGAPAHI RD	Nuhaka(Hawke's Bay,NZ)	2013/07/10 07:21	-38.904950,177.660180
-32250	KOREPE RD	Whakaki(Hawke's Bay,NZ)	2013/07/10 07:43	-38.980590,177.634030
-34706	HEREHERETAU STATION RD	Whakaki(Hawke's Bay,NZ)	2013/07/10 07:45	-38.991350,177.594390
-26240	MANGANUI-A-TE-AO RD	Orautoha(Manawatu-Wanganui,NZ)	2013/07/15 23:31	-39.296830,175.277230
-47561	WHARARIKI RD	Moeawatea(Taranaki,NZ)	2013/07/16 06:44	-39.532220,174.625300
-86306	OPAKU RD	Moeawatea(Taranaki,NZ)	2013/07/16 06:51	-39.516600,174.662270
-45518	LOWER MOEAWATEA RD	Moeawatea(Taranaki,NZ)	2013/07/16 06:54	-39.505100,174.653940
-45642	MOTU RD	Makahu(Taranaki,NZ)	2013/07/16 07:02	-39.292560,174.631070
-45711	TAPUNI RD	Makahu(Taranaki,NZ)	2013/07/16 07:02	-39.312820,174.645660
-45689	RIVER TCE	Puniwhakau(Taranaki,NZ)	2013/07/16 07:11	-39.327360,174.615060
-45608	MAARAMA TCE	Puniwhakau(Taranaki,NZ)	2013/07/16 07:12	-39.327360,174.615060
-45725	TUPIA RD	Puniwhakau(Taranaki,NZ)	2013/07/16 07:12	-39.330200,174.619210
-47400	APITI RD	Ratapiko(Taranaki,NZ)	2013/07/18 21:40	-39.206850,174.299360
-33320	RICHMOND RD	Te Pohue(Hawke's Bay,NZ)	2013/07/26 18:16	-39.268630,176.674190
-28399	MCGREGOR RD	Waitotara(Taranaki,NZ)	2013/08/04 18:41	-39.779070,174.838010
-26722	WAITOTARA RD	Waitotara(Taranaki,NZ)	2013/08/04 21:26	-39.744150,174.833460
-26637	PIRAUNUI RD	Ngamatapouri(Taranaki,NZ)	2013/08/04 21:52	-39.667400,174.863260
-47070	KAHAROA RD	Patea(Taranaki,NZ)	2013/08/05 20:00	-39.675091,174.562892
-45594	AWA TCE	Tututawa(Taranaki,NZ)	2013/08/05 20:23	-39.323970,174.527370
-45720	TITOKI TCE	Tututawa(Taranaki,NZ)	2013/08/05 20:24	-39.322730,174.531170
-45684	RATANUI RD	Puniwhakau(Taranaki,NZ)	2013/08/05 20:40	-39.372060,174.679090
-47057	MOTUROA RD	Waverley(Taranaki,NZ)	2013/08/05 20:55	-39.624270,174.664670
-28367	RIDGE RD	Mangawhio(Taranaki,NZ)	2013/08/05 21:18	-39.575560,174.752990
-45597	KIORE RD	Huiroa(Taranaki,NZ)	2013/08/06 07:53	-39.221510,174.475630
-30483	HEAO RD	Mangamahu(Manawatu-Wanganui,NZ)	2013/08/07 23:06	-39.831920,175.357310
-28381	UPOKONUI RD	Ngamatapouri(Taranaki,NZ)	2013/08/13 22:37	-39.558130,174.887198
-28342	KAKAHO RD	Ngamatapouri(Taranaki,NZ)	2013/08/13 22:40	-39.531640,174.896280
-47343	ROBSON RD	Pukengahu(Taranaki,NZ)	2013/08/22 07:16	-39.365600,174.402340
-26898	RAORIKIA RD	Brunswick(Manawatu-Wanganui,NZ)	2013/08/28 07:21	-39.801650,175.073370
-28671	MANGAIO RD	Taoroa Junction(Manawatu-Wanganui,NZ)	2013/09/21 15:58	-39.658760,175.997540
-28553	PAHAKI ST	Taihape (Manawatu-Wanganui, NZ)	2013/09/28 10:18	-39.648360,175.725480
-30949	TITIRANGI RD	Mangaweka(Manawatu-Wanganui,NZ)	2013/10/11 21:46	-39.851680,175.981230
-27122	TAWAI RD	Mangaweka(Manawatu-Wanganui,NZ)	2013/10/11 21:48	-39.846550,175.985530
-30949	TITIRANGI RD	Mangaweka(Manawatu-Wanganui,NZ)	2013/10/11 21:52	-39.845350,175.960550
-31314	STATE HIGHWAY  1		2013/10/12 15:41	-39.672470,175.792400
-45593	KAREWA RD	Puniwhakau(Taranaki,NZ)	2013/10/16 18:49	-39.369770,174.626840
-30479	TAUNOKA RD	Taunoka(Manawatu-Wanganui,NZ)	2013/10/30 15:27	-39.505380,175.002010
-26797	PURAROTO RD	Pipiriki(Manawatu-Wanganui,NZ)	2013/10/30 15:45	-39.445270,174.952740
-28328	MURPHY RD	Ngamatapouri(Taranaki,NZ)	2013/10/30 15:48	-39.533080,174.929000
-27157	UMUTOI RD	Rangiwahia(Manawatu-Wanganui,NZ)	2013/11/03 22:09	-39.922810,175.988400
-27116	CROWN RD	Rangiwahia(Manawatu-Wanganui,NZ)	2013/11/03 22:10	-39.926700,175.996170
-30520	OROUA ST	Beaconsfield(Manawatu-Wanganui,NZ)	2013/11/28 20:51	-40.095480,175.653270
-47030	OMA RD	Waverley(Taranaki,NZ)	2013/12/01 08:18	-39.612450,174.706390
-28367	RIDGE RD	Mangawhio(Taranaki,NZ)	2013/12/01 08:20	-39.586960,174.753430
-26228	BOON RD	Retaruke(Manawatu-Wanganui,NZ)	2013/12/12 07:34	-39.139520,175.208430
-35211	KUPA RD	Raupunga(Hawke's Bay,NZ)	2014/03/13 21:15	-39.062797,177.130077
+1812483	HUINGA RD		Huinga (Taranaki, NZ)
+1809381	KAIKOURA RD		Huiroa (Taranaki, NZ)
+1817186	BARTON ST		Lepperton (Taranaki, NZ)
+1818302	BLACK ST		Huirangi (Taranaki, NZ)
+1817076	PURDIE ST		Huirangi (Taranaki, NZ)
+1817091	KELLY ST		Huirangi (Taranaki, NZ)
+1817242	BISHOP ST		Huirangi (Taranaki, NZ)
+1817241	BLACK RD		Huirangi (Taranaki, NZ)
+1800011	PIPIRIKI RD		Pipiriki (Manawatu-Wanganui, NZ)
+1817936	HOTSPUR ST		Stratford (Taranaki, NZ)
+1817802	WHITEHEAD RD		Onaero (Taranaki, NZ)
+1817201	THORP RD		Huirangi (Taranaki, NZ)
+1818134	SAUNDERS RD		Rahotu (Taranaki, NZ)
+1817306	HAMUERA RD		Rahotu (Taranaki, NZ)
+1818165	WAINGONGORO HEADS RD	Okaiawa (Taranaki, NZ)
+1816495	WIRI RD			Tarata (Taranaki, NZ)
+1816524	NGATIMARU TCE		Tarata (Taranaki, NZ)
+1816467	JUPP ST			Tikorangi (Taranaki, NZ)
+1818289	BLACK ST		Tikorangi (Taranaki, NZ)
+1797111	BUCKLEY ST		Maxwell (Manawatu-Wanganui, NZ)
+1797135	FARADAY ST		Maxwell (Manawatu-Wanganui, NZ)
+1817321	MOA ST			Te Kiri (Taranaki, NZ)
+1818219	WEKA ST			Te Kiri (Taranaki, NZ)
+1817284	KIWI RD			Te Kiri (Taranaki, NZ)
+1817362	AUI ST			Awatuna (Taranaki, NZ)
+1812824	KOREPO RD		Ngaere (Taranaki, NZ)
+1813653	NGAERE RD		Rawhitiroa (Taranaki, NZ)
+1817179	PATUHA RD		Kaitake (Taranaki, NZ)
+1811947	EASON ST		Huiroa (Taranaki, NZ)
+1815051	TOCKER ST		Huiroa (Taranaki, NZ)
+1812551	JULIAN ST		Huiroa (Taranaki, NZ)
+1814131	QUEEN CRES		Midhirst (Taranaki, NZ)
+1818098	KOTUKU RD		Egmont Village (Taranaki, NZ)
+1817064	SURREY HILL RD		Oakura (Taranaki, NZ)
+1801187	RICHARDSON RD		Waverley (Taranaki, NZ)
+1817723	TRENT ST		Patea (Taranaki, NZ)
+1805559	STOCK RD		Otane (Hawkes Bay)
+1817961	TIROHANGA RD		Whangamomona (Manawatu-Wanganui, NZ)
+1813031	MANGAEHU RD		Strathmore (Taranaki, NZ)
+1814884	TAUMATA RD		Aotuhia (Manawatu-Wanganui, NZ)
+1812860	KURAPETE RD		Aotuhia (Manawatu-Wanganui, NZ)
+1803051	HINEMANA ST		NUHAKA (HAWKES BAY)
+1803184	WAIOIRA ST		NUHAKA (HAWKES BAY)
+1803192	WHAREKI ST		NUHAKA (HAWKES BAY)
+1803098	MARAHAERE ST		NUHAKA (HAWKES BAY)
+1803173	TUREIA ST		NUHAKA (HAWKES BAY)
+1803061	KAIMOANA ST		NUHAKA (HAWKES BAY)
+1803163	TE AIHURANGI ST		NUHAKA (HAWKES BAY)
+1803160	TAWA ST			NUHAKA (HAWKES BAY)
+1816393	WAIHI RD		Waitara (Taranaki, NZ)
+1803126	PAUA LANE		MAHIA (HAWKES BAY)
+1805506	STAFFORD ST		MAHIA (HAWKES BAY)
+1803168	THE CRESCENT		WAIROA (HAWKES BAY)
+1802165	SEAVIEW PL		GISBORNE
+1796513	DOE RD			Raurimu (Manawatu-Wanganui, NZ)
+1801338	SCHOOL RD		Raurimu (Manawatu-Wanganui, NZ)
+1797335	WILLIAMS RD		Rangiwahia (Manawatu-Wanganui, NZ)
+1799030	KAREAREA ST		Mangaweka (Manawatu-Wanganui, NZ)
+1798885	PAPAROA RD		Mangaweka (Manawatu-Wanganui, NZ)
+1796633	MAUIUI ST		Tangiwai (Manawatu-Wanganui, NZ)
+1800847	WAITAIKI RD		Tangiwai (Manawatu-Wanganui, NZ)
+1796540	MAHORA ST		Tangiwai (Manawatu-Wanganui, NZ)
+1796645	KARAPITANGI ST		Tangiwai (Manawatu-Wanganui, NZ)
+1796675	TUTONU ST		Tangiwai (Manawatu-Wanganui, NZ)
+1796654	KOHATU ST		Tangiwai (Manawatu-Wanganui, NZ)
+1796541	MAIORO TCE		Tangiwai (Manawatu-Wanganui, NZ)
+1796531	OMARAE RD		Tangiwai (Manawatu-Wanganui, NZ)
+1814067	PUTI ST			Matau (Taranaki, NZ)
+1815084	TUMAI ST		Matau (Taranaki, NZ)
+1813908	PATON TCE		Matau (Taranaki, NZ)
+1812448	HOE RD			Matau (Taranaki, NZ)
+1816492	PURANGI TCE		Purangi (Taranaki, NZ)
+1816494	WILLOW TCE		Purangi (Taranaki, NZ)
+1816545	SILK RD			Purangi (Taranaki, NZ)
+1816513	TAPU RD			Purangi (Taranaki, NZ)
+1805791	TATARAAKINA RD		Tarawera (Hawke's Bay, NZ)
+1803611	RICHMOND RD		Te Pohue (Hawke's Bay, NZ)
+1796528	OTUMANGU RD		Whanganui National park
+1810154	DONNE ST		Glenholme (ROTORUA) (Bay of Plenty, NZ)
+1798911	DEATHS RD		MARTON (MANAWATU-WANGANUI)
+1813234	MANUTANGIHIA RD		Matau (Taranaki, NZ)
+1815509	WHETU RD		Matau (Taranaki, NZ)
+1814147	RAKORAKO RD		Matau (Taranaki, NZ)
+1817937	AUKAWA RD		Matau (Taranaki, NZ)
+1816354	MANGAPITO RD		Purangi (Taranaki, NZ)
+1818000	MANGAORAKA RD		Mimi (Taranaki, NZ)
+1797685	KAKA ST			Mt Richards (Manawatu-Wanganui, NZ)
+1797701	RURU ST			Mt Richards (Manawatu-Wanganui, NZ)
+1798964	MCLEAYS RD		KAUANGAROA MANAWATU-WANGANUI
+1800799	POHE ST			WAIOURU MANAWATU-WANGANUI
+1796678	TOWAI RD		Ohakune (Manawatu-Wanganui, NZ)
+1797392	WATT ST			Rangiwahia (Manawatu-Wanganui, NZ)
+1797348	HAMMOND ST		Rangiwahia (Manawatu-Wanganui, NZ)
+1800914	NGATARUA NORTH RD	Putiki, Wanganui (Manawatu-Wanganui, NZ)
+1797053	HORI KINGI ST		Putiki, Wanganui (Manawatu-Wanganui, NZ)
+1798894	HOUPUNUI RD		Hunterville (Manawatu-Wanganui, NZ)
+1798987	BELL ST			Ohingaiti (Manawatu-Wanganui, NZ)
+1798843	THE TERRACE		Ohingaiti (Manawatu-Wanganui, NZ)
+1798989	BATTLEY RD		Mangaweka (Manawatu-Wanganui, NZ)
+1801420	HAMMOND RD		Taihape (Manawatu-Wanganui, NZ)
+1791829	TE MOANA RD		PUTIKI WANGANUI
+1797161	WILLIAMS RD		WESTMERE
+1800925	DAY RD			WESTMERE
+1837717	GREAT WESTERN LINE	BRUNSWICK (MANAWATU WANGANUI)
+1791890	BRADLEYS LINE		BRUNSWICK
+1799709	STANLEY RD		WESTMERE
+1796862	BURNET TERRACE		Wanganui (Manawatu-Wanganui, NZ)
+1796615	WAIPUNA RD		Moawhango (Manawatu-Wanganui, NZ)
+1816311	RERE RD			Ohura (Manawatu-Wanganui, NZ)
+1816263	PLATEAU COLLIERY RD	Ohura (Manawatu-Wanganui, NZ)
+1816289	MINE RD			Ohura (Manawatu-Wanganui, NZ)
+1798947	HARTLEYS RD		Ratana (Manawatu-Wanganui, NZ)
+1817963	TUNUPO RD		Huiroa (Taranaki, NZ)
+1814952	TE WERA RD		Matau (Taranaki, NZ)
+1799806	MISSION LINE		Brunswick (Manawatu-Wanganui, NZ)
+1816434	CLIFTON RD		Waiiti (Taranaki, NZ)
+1801025	WAITAPU TERRACE		Apiti (Manawatu-Wanganui, NZ)
+1797699	SHORT ST		Apiti (Manawatu-Wanganui, NZ)
+1801667	SOUTH ST		Apiti (Manawatu-Wanganui, NZ)
+1797689	MT ST			Apiti (Manawatu-Wanganui, NZ)
+1797679	NORTH ST		Apiti (Manawatu-Wanganui, NZ)
+1818147	PANUI RD		Hawera (Taranaki, NZ)
+1815316	WAIKAUWIA RD		Tangarakau (Manawatu-Wanganui, NZ)
+1813875	PAPAWAI RD		Tahora (Taranaki, NZ)
+1813263	MARAEKOWHAI RD		Tangarakau (Manawatu-Wanganui, NZ)
+1814851	TANGARAKAU RD		Kohuratahi (Manawatu-Wanganui, NZ)
+1816544	SHORT RD		Waiongana (Taranaki, NZ)
+1817296	WHARF RD		Opunake (Taranaki, NZ)
+1817805	PERERE RD		Rahotu (Taranaki, NZ)
+1817804	RIKI RD			Rahotu (Taranaki, NZ)
+1798961	GLASGOW RD		Ratana (Manawatu-Wanganui)
+1816352	TANGAHOE RD		Parinui (Manawatu-Wanganui, NZ)
+1814885	TAUMATAMAHOE RD		Whanganui National Park (Manawatu-Wanganui, NZ)
+1816362	MANGAWAI ITI RD		Whanganui National Park (Manawatu-Wanganui, NZ)
+1797645	RIVERBANK RD		Halcombe (Manawatu-Wanganui, NZ)
+1797600	PARORANGI RD W		Halcombe (Manawatu-Wanganui, NZ)
+1796452	TARU ST	Kaitieke(Manawatu-Wanganui,NZ)	2012/02/19 10:48	-39.098709,175.267761
+1796461	IHAKA ST	Kaitieke(Manawatu-Wanganui,NZ)	2012/02/19 10:49	-39.099701,175.267075
+1800817	MANIA ST	Kaitieke(Manawatu-Wanganui,NZ)	2012/02/19 10:49	-39.100830,175.268707
+1796442	POA ST	Kaitieke(Manawatu-Wanganui,NZ)	2012/02/19 10:50	-39.099510,175.272766
+1796493	MARAMA ST	Kaitieke(Manawatu-Wanganui,NZ)	2012/02/19 10:50	-39.098450,175.270294
+1817971	KOKAKO RD	Waitaanga(Manawatu-Wanganui,NZ)	2012/02/21 07:17	-38.856750,174.830841
+1817048	YARDLEY AVE	Waitara(Taranaki,NZ)	2012/02/22 06:20	-38.992840,174.221893
+1817745	ROUND BUSH RD	Manaia(Taranaki,NZ)	2012/02/23 21:19	-39.547710,174.095001
+1816385	LYNCH RD	Urenui(Taranaki,NZ)	2012/02/24 17:25	-38.997002,174.427246
+1816422	MANGU ST	Urenui(Taranaki,NZ)	2012/02/24 17:45	-39.000629,174.377533
+1816425	RUAHINE RD	Onaero(Taranaki,NZ)	2012/02/24 17:51	-39.057529,174.368042
+1796677	UREWERA RD	Tongariro National Park(Manawatu-Wanganui,NZ)	2012/02/24 18:10	-39.405701,175.422104
+1817244	POTTER TCE	Omata(Taranaki,NZ)	2012/02/29 21:21	-39.109161,173.958786
+1817200	THOMPSON ST	Kaitake(Taranaki,NZ)	2012/02/29 22:02	-39.144711,173.936066
+1816413	MANGAHIA RD	Ahititi(Taranaki,NZ)	2012/03/21 05:16	-38.924480,174.632477
+1816437	MAY RD	Uruti(Taranaki,NZ)	2012/03/21 05:18	-38.936722,174.627197
+1816437	MAY RD	Uruti(Taranaki,NZ)	2012/03/21 05:21	-38.936722,174.627197
+1816479	PARI RD	Ahititi(Taranaki,NZ)	2012/03/21 05:22	-38.931938,174.662704
+1816376	TOII RD	Ahititi(Taranaki,NZ)	2012/03/21 05:23	-38.909409,174.666504
+1816376	TOII RD	Ahititi(Taranaki,NZ)	2012/03/21 05:25	-38.909409,174.666504
+1816439	STRATTON RD	Tongaporutu(Taranaki,NZ)	2012/03/21 05:37	-38.848560,174.687485
+1816444	BOAR RD	Ahititi(Taranaki,NZ)	2012/03/21 05:50	-38.898251,174.704330
+1816527	KAWAU RD	Tarata(Taranaki,NZ)	2012/08/08 22:35	-39.168300,174.385280
+1786713	PITA RD	Matau(Taranaki,NZ)	2012/09/16 21:30	-39.186320,174.513210
+1816243	KOPUHA RD	Ohura(Manawatu-Wanganui,NZ)	2012/09/16 21:33	-38.838360,175.013900
+1816260	WAIORA RD	Ohura(Manawatu-Wanganui,NZ)	2012/09/16 21:43	-38.822810,175.014050
+1818002	MAKARAKIA RD	Uruti(Taranaki,NZ)	2012/09/16 21:54	-38.971940,174.682610
+1812962	MAIKAI RD	Kohuratahi(Manawatu-Wanganui,NZ)	2012/09/16 22:10	-39.048630,174.729150
+1798834	PUHIRUA RD	Taihape(Manawatu-Wanganui,NZ)	2012/09/23 16:31	-39.702850,175.864130
+1817503	KAITOKE RD	Ohangai(Taranaki,NZ)	2012/09/25 18:34	-39.521170,174.417720
+1804295	ANDERSON RD	Ashley Clinton(Hawke's Bay,NZ)	2012/09/25 20:53	-39.902730,176.275570
+1804324	CRUMP RD	Ashley Clinton(Hawke's Bay,NZ)	2012/09/25 21:00	-39.973116,176.204080
+1802551	RUSSELL PDE S	Frasertown(Hawke's Bay,NZ)	2012/09/27 20:49	-38.967880,177.397180
+1816353	PARINUI RD	Whanganui National Park(Manawatu-Wanganui,NZ)	2013/01/13 18:40	-39.367300,174.978100
+1816346	STOCK RD	Parinui(Manawatu-Wanganui,NZ)	2013/01/13 18:41	-39.322540,174.986660
+1816364	OTIKOKI RD	Whanganui National Park(Manawatu-Wanganui,NZ)	2013/01/13 18:43	-39.322060,174.927850
+1815480	WHAKAIHUWAKA RD	Whanganui National Park(Manawatu-Wanganui,NZ)	2013/01/13 18:46	-39.324770,174.819730
+1812859	KOTEKIEKIE RD	Whanganui National Park(Manawatu-Wanganui,NZ)	2013/01/13 18:47	-39.377490,174.857660
+1797193	POHONUITANE RD	Papanui Junction(Manawatu-Wanganui,NZ)	2013/02/04 07:05	-39.708790,175.462870
+1799029	KAI RD	Rangiwaea(Manawatu-Wanganui,NZ)	2013/02/04 21:48	-39.571120,175.514290
+1798940	MAUNGATOTARA RD	Rangiwaea(Manawatu-Wanganui,NZ)	2013/02/04 21:52	-39.590160,175.514250
+1796529	OTARA RD	Rangiwaea(Manawatu-Wanganui,NZ)	2013/02/04 21:57	-39.549940,175.522750
+1797154	RURATAHI RD	Kakatahi(Manawatu-Wanganui,NZ)	2013/02/04 22:36	-39.714500,175.391230
+1797066	NGAMATEA RD	Papanui Junction(Manawatu-Wanganui,NZ)	2013/02/04 22:43	-39.677890,175.421110
+1799034	KARETU RD	Papanui Junction(Manawatu-Wanganui,NZ)	2013/02/05 08:04	-39.738790,175.544080
+1791948	KAUAEKEKE RD	Papanui Junction(Manawatu-Wanganui,NZ)	2013/02/10 05:57	-39.670020,175.554640
+1798832	PUWEHEA RD	Taihape(Manawatu-Wanganui,NZ)	2013/02/10 05:59	-39.639630,175.568020
+1791982	NGAURUKEHU RD	Taihape(Manawatu-Wanganui,NZ)	2013/02/10 06:11	-39.656250,175.677840
+1792051	WAITOKA RD	Taihape(Manawatu-Wanganui,NZ)	2013/02/10 06:17	-39.677902,175.604760
+1798846	TE RUANUI RD	Taihape(Manawatu-Wanganui,NZ)	2013/02/10 06:19	-39.624530,175.625910
+1798913	TUI RD	Taihape(Manawatu-Wanganui,NZ)	2013/02/10 06:34	-39.704590,175.607570
+1803169	TIRIKAWA RAKATAU RD	Wairoa(Hawke's Bay,NZ)	2013/03/04 06:34	-39.085940,177.241010
+1817988	TOKIRIMA RD	Tokirima(Manawatu-Wanganui,NZ)	2013/03/12 07:17	-38.918660,174.978620
+1816286	NGUTU RD	Aukopae, Taumarunui(Manawatu-Wanganui,NZ)	2013/03/12 07:24	-38.912050,175.046430
+1816312	RANGI TCE	Matiere(Manawatu-Wanganui,NZ)	2013/03/19 15:51	-38.765230,175.093900
+1816300	KAHU ST	Matiere(Manawatu-Wanganui,NZ)	2013/03/19 15:52	-38.760650,175.094770
+1816288	MOKO ST	Matiere(Manawatu-Wanganui,NZ)	2013/03/19 15:53	-38.762250,175.094750
+1816261	PIPI ST	Matiere(Manawatu-Wanganui,NZ)	2013/03/19 15:53	-38.762230,175.097040
+1818296	KAKA ST	Matiere(Manawatu-Wanganui,NZ)	2013/03/19 15:56	-38.764960,175.100260
+1816239	KOE ST	Matiere(Manawatu-Wanganui,NZ)	2013/03/19 15:59	-38.762210,175.100660
+1816237	KUKU ST	Matiere(Manawatu-Wanganui,NZ)	2013/03/19 16:03	-38.759460,175.092830
+1816316	RIRO TCE	Matiere(Manawatu-Wanganui,NZ)	2013/03/19 16:04	-38.761160,175.092600
+1817984	WHIO ST	Matiere(Manawatu-Wanganui,NZ)	2013/03/19 16:06	-38.763970,175.092420
+1816332	TUHI RD	Matiere(Manawatu-Wanganui,NZ)	2013/03/19 16:09	-38.767290,175.095760
+1816276	HAMILTON RD	Matiere(Manawatu-Wanganui,NZ)	2013/03/19 16:09	-38.767290,175.095760
+1817982	JENNINGS RD	Matiere(Manawatu-Wanganui,NZ)	2013/03/19 16:10	-38.769080,175.091320
+1796459	MATAWHERO TCE	Manunui, Taumarunui(Manawatu-Wanganui,NZ)	2013/03/21 18:40	-38.918250,175.336300
+1796502	TUHUA TCE	Manunui, Taumarunui(Manawatu-Wanganui,NZ)	2013/03/21 18:40	-38.919170,175.339840
+1796477	WHAKAPAKI ST	Manunui, Taumarunui(Manawatu-Wanganui,NZ)	2013/03/21 18:46	-38.922200,175.338850
+1841980	MIDDLE RD		2013/04/19 02:06	-39.983581,175.743300
+1797425	KIWITEA RD		2013/04/19 02:07	-40.016700,175.752901
+1799008	MANGAIO RD	Taoroa Junction(Manawatu-Wanganui,NZ)	2013/04/21 08:23	-39.659610,175.971510
+1818197	MOTUMATE RD	Manaia(Taranaki,NZ)	2013/04/21 21:50	-39.573400,174.092830
+1817393	CHAPMAN RD	Eltham(Taranaki,NZ)	2013/04/22 22:40	-39.429670,174.318310
+1813032	MANGAMINGI RD	Huinga(Taranaki,NZ)	2013/04/22 22:53	-39.393340,174.457650
+1813782	OMOANA RD	Mangamingi(Taranaki,NZ)	2013/04/22 22:54	-39.416220,174.467600
+1797041	WAITAHANUI RD		2013/04/23 21:31	-39.954060,175.064440
+1797061	NO  1 LINE		2013/04/23 21:35	-39.962830,175.100110
+1800919	ARUNDELL RD		2013/04/23 23:20	-39.552220,174.988870
+1799956	TE MUTU RD		2013/04/23 23:21	-39.533100,174.929020
+1796598	HUAMANGO RD		2013/04/23 23:22	-39.336190,175.373860
+1796594	HOUHOU RD		2013/04/23 23:22	-39.336190,175.373860
+1796584	HARAKEKE RD		2013/04/23 23:22	-39.341340,175.371850
+1796582	HARORE RD		2013/04/23 23:22	-39.345200,175.370540
+1796587	HUTOTOI RD		2013/04/23 23:22	-39.340850,175.376030
+1796649	HOHERE RD		2013/04/23 23:23	-39.339660,175.379650
+1796592	HURU ST		2013/04/23 23:23	-39.341620,175.379990
+1796583	HATRICK AVE		2013/04/23 23:23	-39.343430,175.387060
+1817894	BERTRAND RD		2013/04/24 23:59	-39.052770,174.245490
+1796590	HUA ST		2013/04/25 07:11	-39.343040,175.375350
+1796652	HINAU ST		2013/04/25 07:11	-39.340850,175.376030
+1796650	HIWAI ST		2013/04/25 07:11	-39.341620,175.379990
+1796651	HIOI ST		2013/04/25 07:11	-39.340260,175.379710
+1796591	HOROKIO ST		2013/04/25 07:11	-39.339730,175.381500
+1796588	HUNE ST		2013/04/25 07:12	-39.343010,175.382300
+1796589	HUKA ST		2013/04/25 07:12	-39.342290,175.384790
+1800833	HORUHORU TCE		2013/04/25 07:12	-39.344320,175.382900
+1796603	MERSON ST		2013/04/25 07:12	-39.341940,175.386080
+1796544	RIMU ST		2013/04/25 07:13	-39.341330,175.392200
+1803092	MAHANGA ROADWAY	Mahia(Hawke's Bay,NZ)	2013/06/12 06:38	-39.030580,177.863140
+1803643	TE POHUE-TUTIRA RD	Tutira(Hawke's Bay,NZ)	2013/06/12 18:50	-39.174480,176.789620
+1804383	NEWMAN ST	Ongaonga(Hawke's Bay,NZ)	2013/06/17 21:10	-39.915130,176.413800
+1797690	PARSONS FORD RD	Pohangina(Manawatu-Wanganui,NZ)	2013/06/23 20:52	-40.078060,175.787780
+1809840	RODDY RD	Everett Park(Taranaki,NZ)	2013/06/29 11:37	-39.092360,174.260794
+1812927	MA RD	Te Wera(Taranaki,NZ)	2013/07/01 18:51	-39.264130,174.567090
+1812384	TUKINO ST	Tauranga Taupo(Waikato,NZ)	2013/07/04 23:06	-38.911210,175.895980
+1796653	KOPURUTUKU RD	Waimarino(Manawatu-Wanganui,NZ)	2013/07/06 21:40	-39.471860,175.438720
+1797152	RIRIPO RD	Ranana(Manawatu-Wanganui,NZ)	2013/07/06 22:12	-39.610970,175.106440
+1800918	TAWAPIKO RD	Whanganui National Park(Manawatu-Wanganui,NZ)	2013/07/06 22:13	-39.627210,175.105390
+1800844	PEKAPEKA RD	Pipiriki(Manawatu-Wanganui,NZ)	2013/07/06 22:16	-39.478510,175.036620
+1796612	PAPARENGARENGA ST	Pipiriki(Manawatu-Wanganui,NZ)	2013/07/06 22:23	-39.476790,175.046380
+1796642	KAUKORE ST	Pipiriki(Manawatu-Wanganui,NZ)	2013/07/06 22:23	-39.477690,175.046900
+1796663	PUKEHINAU ST	Pipiriki(Manawatu-Wanganui,NZ)	2013/07/06 22:24	-39.478000,175.044110
+1800830	AKAPUKA RD	Pipiriki(Manawatu-Wanganui,NZ)	2013/07/06 22:27	-39.476580,175.037700
+1800837	PAPAROA RD	Pipiriki(Manawatu-Wanganui,NZ)	2013/07/06 22:29	-39.478620,175.041529
+1797145	RATA RD	Kakatahi(Manawatu-Wanganui,NZ)	2013/07/06 22:59	-39.684180,175.272720
+1797073	TE KOMAI RD	Kakatahi(Manawatu-Wanganui,NZ)	2013/07/06 23:00	-39.675680,175.257750
+1797093	ATENE TRK	Whanganui National Park(Manawatu-Wanganui,NZ)	2013/07/06 23:17	-39.721540,175.148110
+1817538	WAIMATE ST	Ohawe(Taranaki,NZ)	2013/07/07 01:13	-39.585800,174.208770
+1817608	POMA ST	Ohawe(Taranaki,NZ)	2013/07/07 01:13	-39.587750,174.206280
+1817463	HOKA ST	Ohawe(Taranaki,NZ)	2013/07/07 01:14	-39.584940,174.202590
+1818249	ROTOKARE RD	Rawhitiroa(Taranaki,NZ)	2013/07/07 18:05	-39.458400,174.401030
+1817726	KOKOPU RD		2013/07/07 20:49	-39.641980,174.393840
+1782051	ROADWAY		2013/07/07 20:49	-39.653260,174.414730
+1811653	TANGAHOE RD		2013/07/07 20:50	-39.637450,174.356460
+1813241	WAITANGI RD	Taringamotu(Manawatu-Wanganui,NZ)	2013/07/08 07:05	-38.836710,175.368530
+1800940	MANGAPAHI RD	Nuhaka(Hawke's Bay,NZ)	2013/07/10 07:21	-38.904950,177.660180
+1802527	KOREPE RD	Whakaki(Hawke's Bay,NZ)	2013/07/10 07:43	-38.980590,177.634030
+1805063	HEREHERETAU STATION RD	Whakaki(Hawke's Bay,NZ)	2013/07/10 07:45	-38.991350,177.594390
+1796460	MANGANUI-A-TE-AO RD	Orautoha(Manawatu-Wanganui,NZ)	2013/07/15 23:31	-39.296830,175.277230
+1818188	WHARARIKI RD	Moeawatea(Taranaki,NZ)	2013/07/16 06:44	-39.532220,174.625300
+1833799	OPAKU RD	Moeawatea(Taranaki,NZ)	2013/07/16 06:51	-39.516600,174.662270
+1811590	LOWER MOEAWATEA RD	Moeawatea(Taranaki,NZ)	2013/07/16 06:54	-39.505100,174.653940
+1813523	MOTU RD	Makahu(Taranaki,NZ)	2013/07/16 07:02	-39.292560,174.631070
+1814852	TAPUNI RD	Makahu(Taranaki,NZ)	2013/07/16 07:02	-39.312820,174.645660
+1814292	RIVER TCE	Puniwhakau(Taranaki,NZ)	2013/07/16 07:11	-39.327360,174.615060
+1812928	MAARAMA TCE	Puniwhakau(Taranaki,NZ)	2013/07/16 07:12	-39.327360,174.615060
+1815114	TUPIA RD	Puniwhakau(Taranaki,NZ)	2013/07/16 07:12	-39.330200,174.619210
+1818012	APITI RD	Ratapiko(Taranaki,NZ)	2013/07/18 21:40	-39.206850,174.299360
+1803611	RICHMOND RD	Te Pohue(Hawke's Bay,NZ)	2013/07/26 18:16	-39.268630,176.674190
+1798719	MCGREGOR RD	Waitotara(Taranaki,NZ)	2013/08/04 18:41	-39.779070,174.838010
+1796962	WAITOTARA RD	Waitotara(Taranaki,NZ)	2013/08/04 21:26	-39.744150,174.833460
+1796872	PIRAUNUI RD	Ngamatapouri(Taranaki,NZ)	2013/08/04 21:52	-39.667400,174.863260
+1817659	KAHAROA RD	Patea(Taranaki,NZ)	2013/08/05 20:00	-39.675091,174.562892
+1812623	AWA TCE	Tututawa(Taranaki,NZ)	2013/08/05 20:23	-39.323970,174.527370
+1815018	TITOKI TCE	Tututawa(Taranaki,NZ)	2013/08/05 20:24	-39.322730,174.531170
+1814197	RATANUI RD	Puniwhakau(Taranaki,NZ)	2013/08/05 20:40	-39.372060,174.679090
+1817646	MOTUROA RD	Waverley(Taranaki,NZ)	2013/08/05 20:55	-39.624270,174.664670
+1798683	RIDGE RD	Mangawhio(Taranaki,NZ)	2013/08/05 21:18	-39.575560,174.752990
+1812724	KIORE RD	Huiroa(Taranaki,NZ)	2013/08/06 07:53	-39.221510,174.475630
+1800921	HEAO RD	Mangamahu(Manawatu-Wanganui,NZ)	2013/08/07 23:06	-39.831920,175.357310
+1798701	UPOKONUI RD	Ngamatapouri(Taranaki,NZ)	2013/08/13 22:37	-39.558130,174.887198
+1798654	KAKAHO RD	Ngamatapouri(Taranaki,NZ)	2013/08/13 22:40	-39.531640,174.896280
+1817954	ROBSON RD	Pukengahu(Taranaki,NZ)	2013/08/22 07:16	-39.365600,174.402340
+1797148	RAORIKIA RD	Brunswick(Manawatu-Wanganui,NZ)	2013/08/28 07:21	-39.801650,175.073370
+1799008	MANGAIO RD	Taoroa Junction(Manawatu-Wanganui,NZ)	2013/09/21 15:58	-39.658760,175.997540
+1798890	PAHAKI ST	Taihape (Manawatu-Wanganui, NZ)	2013/09/28 10:18	-39.648360,175.725480
+1801412	TITIRANGI RD	Mangaweka(Manawatu-Wanganui,NZ)	2013/10/11 21:46	-39.851680,175.981230
+1797378	TAWAI RD	Mangaweka(Manawatu-Wanganui,NZ)	2013/10/11 21:48	-39.846550,175.985530
+1801412	TITIRANGI RD	Mangaweka(Manawatu-Wanganui,NZ)	2013/10/11 21:52	-39.845350,175.960550
+1801785	STATE HIGHWAY  1		2013/10/12 15:41	-39.672470,175.792400
+1812622	KAREWA RD	Puniwhakau(Taranaki,NZ)	2013/10/16 18:49	-39.369770,174.626840
+1800917	TAUNOKA RD	Taunoka(Manawatu-Wanganui,NZ)	2013/10/30 15:27	-39.505380,175.002010
+1797043	PURAROTO RD	Pipiriki(Manawatu-Wanganui,NZ)	2013/10/30 15:45	-39.445270,174.952740
+1798641	MURPHY RD	Ngamatapouri(Taranaki,NZ)	2013/10/30 15:48	-39.533080,174.929000
+1797414	UMUTOI RD	Rangiwahia(Manawatu-Wanganui,NZ)	2013/11/03 22:09	-39.922810,175.988400
+1797373	CROWN RD	Rangiwahia(Manawatu-Wanganui,NZ)	2013/11/03 22:10	-39.926700,175.996170
+1800960	OROUA ST	Beaconsfield(Manawatu-Wanganui,NZ)	2013/11/28 20:51	-40.095480,175.653270
+1817615	OMA RD	Waverley(Taranaki,NZ)	2013/12/01 08:18	-39.612450,174.706390
+1798683	RIDGE RD	Mangawhio(Taranaki,NZ)	2013/12/01 08:20	-39.586960,174.753430
+1796448	BOON RD	Retaruke(Manawatu-Wanganui,NZ)	2013/12/12 07:34	-39.139520,175.208430
+1805582	KUPA RD	Raupunga(Hawke's Bay,NZ)	2014/03/13 21:15	-39.062797,177.130077

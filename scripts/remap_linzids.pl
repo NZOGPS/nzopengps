@@ -3,7 +3,8 @@ use File::Basename;
 	
 my $lds = "..\\LinzDataService\\";
 my $pdn = "${lds}PaperRoads\\";
-my $mappingfilename = "${lds}rna_mappings.csv";
+# my $mappingfilename = "${lds}rna_mappings.csv";
+my $mappingfilename = "${lds}street_address_ids.csv";
 my %idmap;
 my $cnt;
 my $oldfn;
@@ -64,34 +65,44 @@ die "No filename specified" if ($ARGV[0] eq "");
 $oldfn = $ARGV[0];
 ($basefile, $basedir, $basesuff) = fileparse($oldfn,qr/\.[^.]*/);
 
-open INF, $oldfn or die "Cannot find map $oldfn\n";
-$newfn = $oldfn;
-$newfn =~ s!\.(?=[^.]*$)!\.remapped\.!;
-print "Creating new file $newfn\n";
-open MAPPEDF,">",$newfn or die "Cannot create new map file $newfn\n";
-while (<INF>){
-	if (/linzid\d?=(\d+)/){
-		$oldid = $1;
-		if (defined($idmap{$oldid})) {
-			s/$oldid/$idmap{$oldid}/;
-			$cnt++;
-		} else {
-			print "ERROR! linzid map for $1 not found! File $oldfn line $.\n";
-			s/$oldid/###$oldid### - no new mapping for linzid found/;			
-		}  
+if (0){
+	open INF, $oldfn or die "Cannot find map $oldfn\n";
+	$newfn = $oldfn;
+	$newfn =~ s!\.(?=[^.]*$)!\.remapped\.!;
+	print "Creating new file $newfn\n";
+	open MAPPEDF,">",$newfn or die "Cannot create new map file $newfn\n";
+	while (<INF>){
+		if (/linzid\d?=(\d+)/){
+			$oldid = $1;
+			if (defined($idmap{$oldid})) {
+				s/$oldid/$idmap{$oldid}/;
+				$cnt++;
+			} else {
+				print "ERROR! linzid map for $1 not found! File $oldfn line $.\n";
+				s/$oldid/###$oldid### - no new mapping for linzid found/;			
+			}  
+		}
+		print MAPPEDF $_;
 	}
-	print MAPPEDF $_;
+	close INF;
+	close MAPPEDF;
+	print "$cnt linzids remapped\n";
+	
+	#Paper roads
+	
+	$oldfn = "${pdn}${basefile}.txt";
+	$mode = "Paper road";
+	do_paper_file;
+	
+	$oldfn = "${pdn}${basefile}PaperNumbers.txt";
+	$mode = "Paper Numbers";
+	do_paper_file;
 }
-close INF;
-close MAPPEDF;
-print "$cnt linzids remapped\n";
 
-#Paper roads
-
-$oldfn = "${pdn}${basefile}.txt";
-$mode = "Paper road";
+$oldfn = "${pdn}${basefile}-LINZWrongSide.txt";
+$mode = "LINZ Wrongside";
 do_paper_file;
 
-$oldfn = "${pdn}${basefile}PaperNumbers.txt";
-$mode = "Paper Numbers";
+$oldfn = "${pdn}${basefile}-WrongSide.txt";
+$mode = "Wrongside";
 do_paper_file;

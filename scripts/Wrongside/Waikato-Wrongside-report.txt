@@ -1,97 +1,95 @@
-Warning: duplicate entries for 894356 on line 49 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
-Warning: duplicate entries for 808459 on line 77 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
-Warning: duplicate entries for 808459 on line 78 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
-Warning: duplicate entries for 808459 on line 79 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
-Warning: duplicate entries for 808459 on line 80 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
-Warning: duplicate entries for 808459 on line 81 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
-Warning: duplicate entries for 776836 on line 85 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
-Warning: duplicate entries for 776836 on line 86 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
-Warning: duplicate entries for 878383 on line 97 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
-Warning: duplicate entries for 878383 on line 98 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
-Warning: duplicate entries for 878383 on line 99 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
-Warning: duplicate entries for 878383 on line 100 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
-Warning: duplicate entries for 878383 on line 101 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
-Warning: duplicate entries for 2125586 on line 104 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
-Warning: duplicate entries for 2125586 on line 105 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
-129 entries in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
-Warning: duplicate entries for 915584 on line 8 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-Warning: 808459 on line 42 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
-Warning: 808459 on line 43 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
-Warning: duplicate entries for 808459 on line 43 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-Warning: 808459 on line 44 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
-Warning: duplicate entries for 808459 on line 44 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-Warning: 776836 on line 48 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
-Warning: 776836 on line 49 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
-Warning: duplicate entries for 776836 on line 49 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-Warning: 776836 on line 50 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
-Warning: duplicate entries for 776836 on line 50 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-Warning: 776836 on line 51 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
-Warning: duplicate entries for 776836 on line 51 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-Warning: 776836 on line 52 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
-Warning: duplicate entries for 776836 on line 52 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-Warning: 2328395 on line 60 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
-Warning: 878383 on line 63 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
-Warning: 878383 on line 64 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
-Warning: duplicate entries for 878383 on line 64 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-Warning: 878383 on line 65 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
-Warning: duplicate entries for 878383 on line 65 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-Warning: 878383 on line 66 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
-Warning: duplicate entries for 878383 on line 66 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-Warning: 878383 on line 67 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
-Warning: duplicate entries for 878383 on line 67 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-Warning: 878383 on line 68 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
-Warning: duplicate entries for 878383 on line 68 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-Warning: 878383 on line 69 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
-Warning: duplicate entries for 878383 on line 69 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-Warning: 878383 on line 70 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
-Warning: duplicate entries for 878383 on line 70 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-Warning: 878383 on line 71 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
-Warning: duplicate entries for 878383 on line 71 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-Warning: 878383 on line 72 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
-Warning: duplicate entries for 878383 on line 72 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-Warning: 878383 on line 73 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
-Warning: duplicate entries for 878383 on line 73 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-Warning: 878383 on line 74 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
-Warning: duplicate entries for 878383 on line 74 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-Warning: 878383 on line 75 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
-Warning: duplicate entries for 878383 on line 75 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-Warning: 878383 on line 76 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
-Warning: duplicate entries for 878383 on line 76 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-Warning: 878383 on line 77 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
-Warning: duplicate entries for 878383 on line 77 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-Warning: 878383 on line 78 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
-Warning: duplicate entries for 878383 on line 78 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-Warning: 878383 on line 79 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
-Warning: duplicate entries for 878383 on line 79 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-Warning: 763960 on line 80 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
-Warning: 763960 on line 81 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
-Warning: duplicate entries for 763960 on line 81 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-Warning: 763960 on line 82 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
-Warning: duplicate entries for 763960 on line 82 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-Warning: 763960 on line 83 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
-Warning: duplicate entries for 763960 on line 83 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-Warning: 763960 on line 84 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
-Warning: duplicate entries for 763960 on line 84 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-Warning: duplicate entries for 1353059 on line 100 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-104 entries in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-814 wrongside numbers, 597 not in Exclusion files
+Warning: duplicate entries for 852825 on line 49 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
+Warning: duplicate entries for 830646 on line 77 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
+Warning: duplicate entries for 830646 on line 78 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
+Warning: duplicate entries for 830646 on line 79 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
+Warning: duplicate entries for 830646 on line 80 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
+Warning: duplicate entries for 830646 on line 81 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
+Warning: duplicate entries for 644546 on line 85 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
+Warning: duplicate entries for 644546 on line 86 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
+Warning: duplicate entries for 760603 on line 97 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
+Warning: duplicate entries for 760603 on line 98 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
+Warning: duplicate entries for 760603 on line 99 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
+Warning: duplicate entries for 760603 on line 100 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
+Warning: duplicate entries for 760603 on line 101 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
+Warning: duplicate entries for 1377512 on line 104 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
+Warning: duplicate entries for 1377512 on line 105 in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
+128 entries in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
+Warning: duplicate entries for 652110 on line 8 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
+Warning: 830646 on line 40 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
+Warning: 830646 on line 41 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
+Warning: duplicate entries for 830646 on line 41 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
+Warning: 830646 on line 42 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
+Warning: duplicate entries for 830646 on line 42 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
+Warning: 644546 on line 46 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
+Warning: 644546 on line 47 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
+Warning: duplicate entries for 644546 on line 47 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
+Warning: 644546 on line 48 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
+Warning: duplicate entries for 644546 on line 48 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
+Warning: 644546 on line 49 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
+Warning: duplicate entries for 644546 on line 49 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
+Warning: 644546 on line 50 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
+Warning: duplicate entries for 644546 on line 50 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
+Warning: 1010387 on line 56 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
+Warning: 760603 on line 59 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
+Warning: 760603 on line 60 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
+Warning: duplicate entries for 760603 on line 60 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
+Warning: 760603 on line 61 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
+Warning: duplicate entries for 760603 on line 61 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
+Warning: 760603 on line 62 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
+Warning: duplicate entries for 760603 on line 62 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
+Warning: 760603 on line 63 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
+Warning: duplicate entries for 760603 on line 63 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
+Warning: 760603 on line 64 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
+Warning: duplicate entries for 760603 on line 64 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
+Warning: 760603 on line 65 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
+Warning: duplicate entries for 760603 on line 65 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
+Warning: 760603 on line 66 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
+Warning: duplicate entries for 760603 on line 66 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
+Warning: 760603 on line 67 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
+Warning: duplicate entries for 760603 on line 67 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
+Warning: 760603 on line 68 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
+Warning: duplicate entries for 760603 on line 68 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
+Warning: 760603 on line 69 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
+Warning: duplicate entries for 760603 on line 69 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
+Warning: 760603 on line 70 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
+Warning: duplicate entries for 760603 on line 70 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
+Warning: 760603 on line 71 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
+Warning: duplicate entries for 760603 on line 71 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
+Warning: 760603 on line 72 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
+Warning: duplicate entries for 760603 on line 72 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
+Warning: 760603 on line 73 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
+Warning: duplicate entries for 760603 on line 73 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
+Warning: 760603 on line 74 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
+Warning: duplicate entries for 760603 on line 74 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
+Warning: 760603 on line 75 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
+Warning: duplicate entries for 760603 on line 75 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
+Warning: 733292 on line 76 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
+Warning: 733292 on line 77 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
+Warning: duplicate entries for 733292 on line 77 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
+Warning: 733292 on line 78 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
+Warning: duplicate entries for 733292 on line 78 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
+Warning: 733292 on line 79 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
+Warning: duplicate entries for 733292 on line 79 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
+Warning: 733292 on line 80 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt - This ID is also set in the ignore file
+Warning: duplicate entries for 733292 on line 80 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
+Warning: duplicate entries for 1282854 on line 96 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
+100 entries in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
+812 wrongside numbers, 598 not in Exclusion files
 8 entries in Ignore list are no longer on the wrong side
-772795	4 VILLAGE ROAD	2013/10/15 19:47	-38.516940,175.552521
-1220112	4 COMRIE PLACE	2014/04/18 13:29	-37.188903,174.903821
-2461091	7/387 POKURU ROAD NORTH	2013/10/15 19:55	-38.443894,175.836596
-846823	387 POKURU ROAD NORTH	2013/10/15 19:55	-38.443810,175.838029
-862068	31 MOUNTAIN VIEW ROAD	2013/10/15 19:06	-38.176986,175.209272
-2535839	1/2-24/2 ALTHORP AVENUE	2014/04/26 03:22	-37.741673,176.124811
-689277	2 VILLAGE ROAD	2013/10/15 19:47	-38.516915,175.552757
-725338	103 KURANUI STREET	2014/04/18 15:24	-37.128510,175.533247
+721243	4 VILLAGE ROAD	2013/10/15 19:47	-38.516940,175.552521
+744143	387 POKURU ROAD NORTH	2013/10/15 19:55	-38.443810,175.838029
+1600349	7/387 POKURU ROAD NORTH	2013/10/15 19:55	-38.443894,175.836596
+721241	2 VILLAGE ROAD	2013/10/15 19:47	-38.516915,175.552757
+655294	31 MOUNTAIN VIEW ROAD	2013/10/15 19:06	-38.176986,175.209272
+1242202	4 COMRIE PLACE	2014/04/18 13:29	-37.188903,174.903821
+1666034	1/2-24/2 ALTHORP AVENUE	2014/04/26 03:22	-37.741673,176.124811
+1244010	34 ANZAC ROAD	2013/11/14 21:37	-37.220375,174.897643
 
-8 entries in Linz list are no longer on the wrong side
-776836	9 SNOWDEN PLACE	2013/11/14 21:35	-37.802525,174.875703
-2328395	2 NOBLE JOHNSTON DRIVE	2013/12/09 19:49	-37.550184,175.920490
-2113468	1626 MOKAUITI ROAD	2013/10/15 19:44	-38.589150,175.162474
-2374724	9 EASTFIELD	2014/04/18 15:37	-37.399505,175.145367
-808459	15 KING STREET	2013/11/14 18:55	-37.784515,176.331834
-878383	834 WRIGHT ROAD	2013/12/12 19:52	-37.668424,175.921860
-614835	13 PAROA ROAD	2013/10/15 20:40	-38.292522,178.268018
-763960	29A SCHOOL ROAD	2013/12/12 20:24	-37.421890,175.724025
+6 entries in Linz list are no longer on the wrong side
+644546	9 SNOWDEN PLACE	2013/11/14 21:35	-37.802525,174.875703
+830646	15 KING STREET	2013/11/14 18:55	-37.784515,176.331834
+1010387	2 NOBLE JOHNSTON DRIVE	2013/12/09 19:49	-37.550184,175.920490
+1535801	9 EASTFIELD	2014/04/18 15:37	-37.399505,175.145367
+733292	29A SCHOOL ROAD	2013/12/12 20:24	-37.421890,175.724025
+760603	834 WRIGHT ROAD	2013/12/12 19:52	-37.668424,175.921860
 

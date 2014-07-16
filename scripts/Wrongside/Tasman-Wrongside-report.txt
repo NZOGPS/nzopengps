@@ -1,5 +1,5 @@
-Warning: duplicate entries for 2549648 on line 6 in ..\..\LinzDataService\PaperRoads\Tasman-LINZWrongSide.txt
-Warning: duplicate entries for 2549648 on line 7 in ..\..\LinzDataService\PaperRoads\Tasman-LINZWrongSide.txt
-Warning: duplicate entries for 2549648 on line 8 in ..\..\LinzDataService\PaperRoads\Tasman-LINZWrongSide.txt
-15 entries in ..\..\LinzDataService\PaperRoads\Tasman-LINZWrongSide.txt
-370 wrongside numbers, 355 not in Exclusion files
+51 entries in ..\..\LinzDataService\PaperRoads\Tasman-LINZWrongSide.txt
+222 wrongside numbers, 172 not in Exclusion files
+1 entries in Linz list are no longer on the wrong side
+1308038	765 BILL BRYANTS ROAD	2014/06/10 20:36	-41.042752,173.727465
+

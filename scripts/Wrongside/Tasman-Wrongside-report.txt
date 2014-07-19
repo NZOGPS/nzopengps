@@ -1,5 +1,7 @@
-51 entries in ..\..\LinzDataService\PaperRoads\Tasman-LINZWrongSide.txt
-222 wrongside numbers, 172 not in Exclusion files
-1 entries in Linz list are no longer on the wrong side
+1 entries in ..\..\LinzDataService\PaperRoads\Tasman-WrongSide.txt
+70 entries in ..\..\LinzDataService\PaperRoads\Tasman-LINZWrongSide.txt
+141 wrongside numbers, 72 not in Exclusion files
+2 entries in Linz list are no longer on the wrong side
 1308038	765 BILL BRYANTS ROAD	2014/06/10 20:36	-41.042752,173.727465
+1769854	30 Tyler Road	2014/07/18 23:33	-41.607705,171.876390
 

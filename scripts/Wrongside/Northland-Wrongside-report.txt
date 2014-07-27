@@ -1,5 +1,6 @@
+1 entries in ..\..\LinzDataService\PaperRoads\Northland-WrongSide.txt
 140 entries in ..\..\LinzDataService\PaperRoads\Northland-LINZWrongSide.txt
-157 wrongside numbers, 21 not in Exclusion files
+156 wrongside numbers, 19 not in Exclusion files
 4 entries in Linz list are no longer on the wrong side
 1603491	250 PARAKIORE ROAD	2013/12/14 16:24	-35.657777,174.282660
 927365	333 MOONEY ROAD	2013/12/16 23:44	-36.134341,174.252504

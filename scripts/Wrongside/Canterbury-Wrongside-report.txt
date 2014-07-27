@@ -1,8 +1,9 @@
 10 entries in ..\..\LinzDataService\PaperRoads\Canterbury-WrongSide.txt
 Warning: 1549567 on line 131 in ..\..\LinzDataService\PaperRoads\Canterbury-LINZWrongSide.txt - This ID is also set in the ignore file
 158 entries in ..\..\LinzDataService\PaperRoads\Canterbury-LINZWrongSide.txt
-162 wrongside numbers, 4 not in Exclusion files
-10 entries in Linz list are no longer on the wrong side
+165 wrongside numbers, 10 not in Exclusion files
+13 entries in Linz list are no longer on the wrong side
+290956	582 FLEA BAY ROAD	2013/10/13 23:21	-43.862402,172.997329
 180111	8 PATRICIA PLACE	2013/10/21 16:41	-43.481407,172.576703
 286963	30 WHITEWASH HEAD ROAD	2013/10/16 10:40	-43.570800,172.773846	All the numbers here are quite close to the road 
 290960	747 OVERTONS ROAD	2013/10/09 11:11	-42.894565,173.014233
@@ -11,6 +12,8 @@ Warning: 1549567 on line 131 in ..\..\LinzDataService\PaperRoads\Canterbury-LINZ
 904520	121 RUSHBROOKS ROAD	2013/10/09 17:02	-43.745648,172.353294	Probably right side, but possibly way too far north. Buildings nearer S end of road?
 1618778	723/4 BROKEN HUT ROAD	2013/10/06 20:49	-44.527347,169.887328	Correct side - but is there a standard order for number/flat?
 947708	78 WAIPARI ROAD	2013/10/21 17:15	-44.861200,170.827482	With this road, it's not clear to me which side of the road is odd/even. If 8 is on the correct side, it's actually 77/76 which are placed on the wrong side...
+26172	8 DUREY ROAD	2013/10/21 16:40	-43.489378,172.543118	On  the median strip! 
+1705745	220 MULLVIHILL ROAD	2013/10/09 12:45	-44.126539,171.046648	This is an odd one. Id=299372 is also 220! (and other side)
 273586	12 CLEMENTINE LANE	2013/10/16 12:02	-43.561727,172.713428
 179521	10 PATRICIA PLACE	2013/10/21 16:41	-43.481546,172.576582	These two/three perhaps further West?
 

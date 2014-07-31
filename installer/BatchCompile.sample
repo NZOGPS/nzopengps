@@ -1,6 +1,25 @@
 set cgpsmapperLocation="C:/Program Files (x86)/cgpsmapper"
 set innoSetupLocation="C:/Program Files (x86)/Inno Setup 5"
 
+call tortoiseproc /command:update /path:".." /closeonend:1
+
+rem
+rem
+rem  *** Removing Codepage from Map .mp files.... ***
+rem
+rem
+
+:: C:\Ruby193\devkit\bin\perl RemoveCodepage.pl "../Northland.mp"
+:: C:\Ruby193\devkit\bin\perl RemoveCodepage.pl "../Auckland.mp"
+:: C:\Ruby193\devkit\bin\perl RemoveCodepage.pl "../Waikato.mp"
+:: C:\Ruby193\devkit\bin\perl RemoveCodepage.pl "../Central.mp"
+:: C:\Ruby193\devkit\bin\perl RemoveCodepage.pl "../Wellington.mp"
+:: C:\Ruby193\devkit\bin\perl RemoveCodepage.pl "../Tasman.mp"
+:: C:\Ruby193\devkit\bin\perl RemoveCodepage.pl "../Canterbury.mp"
+:: C:\Ruby193\devkit\bin\perl RemoveCodepage.pl "../Southland.mp"
+
+
+
 cd tmp
 :: Compile Map Tiles
 %cgpsmapperLocation%\cgpsmapper ac "../../Northland.mp" > NorthlandcompileLog.txt
@@ -12,7 +31,8 @@ cd tmp
 %cgpsmapperLocation%\cgpsmapper ac "..\..\Canterbury.mp" > CanterburycompileLog.txt 
 %cgpsmapperLocation%\cgpsmapper ac "..\..\Southland.mp" > SouthlandcompileLog.txt 
 
-::  Compile POIFiles
+
+::  Compile POI Files
 %cgpsmapperLocation%\cgpsmapper ac "..\..\NZPOIs3A.mp
 %cgpsmapperLocation%\cgpsmapper ac "..\..\NZPOIs3B.mp
 
@@ -20,6 +40,16 @@ cd tmp
 rem %cgpsmapperLocation%\cgpsmapper typ "..\..\Traffic Lights TYP.txt"
 
 cd ..
+
+::
+::
+:: *** changing POI file TRE to 1,3,17,9
+::
+
+call "NZ Open Zenbu POI Single Mapset.bat"
+
+
+
 :: PREPARE NEW PV FILE WITH CURRENT DATE FOR MAPSOURCE VERSION IDENTIFICATION
 ::
 :: Delete previous pv file so new file with current date can be generated

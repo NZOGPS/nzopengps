@@ -5,7 +5,14 @@ Put this file in your numbers directory, where the number checker will use it fo
 
 =end
 WORKING_SRID = 4167
-require 'csv'
+
+begin
+  require 'csv'
+rescue LoadError
+  puts "Gem missing. Please run: gem install csv\n" 
+  exit
+end
+
 
 def process_polish_buffer(buffer)
 end
@@ -16,8 +23,20 @@ def pre_processing()
   sql_query = "SELECT  DISTINCT ON (rna_id, range_low) range_low, road_name, to_char(st_x(the_geom),'9999D999999'), to_char(st_y(the_geom),'9999D999999'), rna_id FROM \"nz-street-address-electoral\" WHERE ST_Contains(ST_SetSRID(ST_MakeBox2D(ST_Point(#{left}, #{bottom}), ST_Point(#{right} ,#{top})),#{WORKING_SRID}), the_geom);"
   sql_high_query = sql_query.gsub("range_low","range_high");
   sql_high_query = sql_high_query.gsub("WHERE ST_Contains","WHERE range_high is not null and range_high <> range_low and ST_Contains");
+
+begin
   require 'pg'
+rescue LoadError
+  puts "Gem missing. Please run: gem install pg\n" 
+  exit
+end
+
+begin
   require 'yaml'
+rescue LoadError
+  puts "Gem missing. Please run: gem install yaml\n" 
+  exit
+end
   
   raw_config = File.read("config.yml")
   app_config = YAML.load(raw_config)

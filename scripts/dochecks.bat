@@ -1,21 +1,21 @@
 set PROCESSING_LIBRARY=2
-ruby parseMP.rb 1 %PROCESSING_LIBRARY%
-ruby parseMP.rb 6 %PROCESSING_LIBRARY%
-ruby parseMP.rb 8 %PROCESSING_LIBRARY%
-ruby parseMP.rb 4 %PROCESSING_LIBRARY%
-ruby parseMP.rb 5 %PROCESSING_LIBRARY%
-ruby parseMP.rb 7 %PROCESSING_LIBRARY%
-ruby parseMP.rb 3 %PROCESSING_LIBRARY%
-ruby parseMP.rb 2 %PROCESSING_LIBRARY%
+%nzogps_ruby_cmd% parseMP.rb 1 %PROCESSING_LIBRARY%
+%nzogps_ruby_cmd% parseMP.rb 6 %PROCESSING_LIBRARY%
+%nzogps_ruby_cmd% parseMP.rb 8 %PROCESSING_LIBRARY%
+%nzogps_ruby_cmd% parseMP.rb 4 %PROCESSING_LIBRARY%
+%nzogps_ruby_cmd% parseMP.rb 5 %PROCESSING_LIBRARY%
+%nzogps_ruby_cmd% parseMP.rb 7 %PROCESSING_LIBRARY%
+%nzogps_ruby_cmd% parseMP.rb 3 %PROCESSING_LIBRARY%
+%nzogps_ruby_cmd% parseMP.rb 2 %PROCESSING_LIBRARY%
 set PROCESSING_LIBRARY=6
-ruby parseMP.rb 1 %PROCESSING_LIBRARY%
-ruby parseMP.rb 6 %PROCESSING_LIBRARY%
-ruby parseMP.rb 8 %PROCESSING_LIBRARY%
-ruby parseMP.rb 4 %PROCESSING_LIBRARY%
-ruby parseMP.rb 5 %PROCESSING_LIBRARY%
-ruby parseMP.rb 7 %PROCESSING_LIBRARY%
-ruby parseMP.rb 3 %PROCESSING_LIBRARY%
-ruby parseMP.rb 2 %PROCESSING_LIBRARY%
+%nzogps_ruby_cmd% parseMP.rb 1 %PROCESSING_LIBRARY%
+%nzogps_ruby_cmd% parseMP.rb 6 %PROCESSING_LIBRARY%
+%nzogps_ruby_cmd% parseMP.rb 8 %PROCESSING_LIBRARY%
+%nzogps_ruby_cmd% parseMP.rb 4 %PROCESSING_LIBRARY%
+%nzogps_ruby_cmd% parseMP.rb 5 %PROCESSING_LIBRARY%
+%nzogps_ruby_cmd% parseMP.rb 7 %PROCESSING_LIBRARY%
+%nzogps_ruby_cmd% parseMP.rb 3 %PROCESSING_LIBRARY%
+%nzogps_ruby_cmd% parseMP.rb 2 %PROCESSING_LIBRARY%
 
 
 

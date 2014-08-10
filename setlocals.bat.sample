@@ -1,7 +1,9 @@
+set nzogps_base="C:\nzopengps"
 set nzogps_download="C:\Documents and Settings\All Users\Documents\Downloads\"
 set nzogps_perl_cmd=perl
 set nzogps_ruby_cmd=ruby
-set nzogps_unzip_cmd=wzunzip
-rem set nzogps_unzip_cmd="7z e"
+rem set nzogps_unzip_cmd=wzunzip
+set nzogps_unzip_cmd="c:\Program Files\7-Zip\7z" e -aoa
+set nzogps_zip_cmd="c:\Program Files\7-Zip\7z" a
 set nzogps_psql_bin="C:\Program Files\PostgreSQL\9.1\bin\"
 set nzogps_psql_svc="postgresql-9.1 - PostgreSQL Server 9.1"

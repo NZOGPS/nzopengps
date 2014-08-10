@@ -1,14 +1,20 @@
+ifndef nzogps_base
+$(error nzogps_base environment variable not set)
+endif
+
 .SUFFIXES:
 .SECONDARY:
 TILES = Northland Southland Tasman Waikato Central Wellington Canterbury Auckland
 
 BASE = $(subst ",,$(nzogps_base))
-DLOAD = C:\docume~1\turner\mydocu~1\Downloads
+DLOAD = $(subst ",,$(nzogps_download))
 LINZ = $(BASE)\LinzDataService
 LINZO = $(LINZ)\outputslinz
 NUMBERS = $(BASE)\numbers
 OUTPUTS = $(BASE)\scripts\outputs
-PSQL = "C:\Program Files\PostgreSQL\9.1\bin\"
+PSQL = $(nzogps_psql_bin)
+ZIPIT = $(nzogps_zip_cmd)
+UNZIP = $(nzogps_unzip_cmd)
 
 tilenum = $(subst Northland,1,$(subst Auckland,2,$(subst Waikato,3,$(subst Central,4,$(subst Wellington,5,$(subst Tasman,6,$(subst Canterbury,7,$(subst Southland,8,$(1)))))))))
  
@@ -25,7 +31,7 @@ install :  install-csv install-gdb
 .PHONY: install
 
 %.zip : $(LINZO)\%-LINZ-V4.mp $(OUTPUTS)\%-report-2.txt $(OUTPUTS)\%-report-6.txt $(OUTPUTS)\%-numbers-linzid.csv $(OUTPUTS)\%-numbers.gdb
-	wzzip $@ $?
+	$(ZIPIT) $@ $?
 	
 %-LINZ-V3.mp : %-LINZ.mp $(OUTPUTS)\%-report-2.txt
 	perl colourisenodise.pl $(notdir $*)
@@ -50,12 +56,12 @@ database.date : postgres\nz-street-address.sql
 	time /t
 
 $(LINZ)\lds-nz-road-centre-line-electoral-SHP\nz-road-centre-line-electoral.shp : $(DLOAD)\lds-nz-road-centre-line-electoral-SHP.zip 
-	wzunzip -o $< $(dir $@)
+	$(UNZIP) -o $< $(dir $@)
 	move $(DLOAD)\lds-nz-road-centre-line-electoral-SHP.zip $(LINZ)
 	perl $(LINZ)\renzip.pl $(LINZ)\lds-nz-road-centre-line-electoral-SHP
 
 $(LINZ)\lds-nz-street-address-electoral-SHP\nz-street-address-electoral.shp : $(DLOAD)\lds-nz-street-address-electoral-SHP.zip
-	wzunzip -o $< $(dir $@)
+	$(UNZIP) -o $< $(dir $@)
 	move $(DLOAD)\lds-nz-street-address-electoral-SHP.zip $(LINZ)
 	perl $(LINZ)\renzip.pl $(LINZ)\lds-nz-street-address-electoral-SHP
 

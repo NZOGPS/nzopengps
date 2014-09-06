@@ -14,7 +14,7 @@ if %ERRORLEVEL% GTR 0 echo Road centre line  files not found in zip file & goto 
 cd ..\scripts\postgres
 call update.bat
 cd ..
-start /low GenerateNumbers.bat
+start %nzogps_donumbers%
 cd ..\linzdataservice
 ruby shape-parser.rb
 cd ..\scripts

@@ -39,7 +39,7 @@
 1153816	00 Not For Maps	Speed Camera SH2 Edgecumbe@50	Mobile Speed Camera - 50km/h	http://www.police.govt.nz/	SH2 outside Fonterra, Edgecumbe			176.831399	-37.978579	manual	true	2009-06-15 18:07:42.62824	2009-06-15 18:23:50.747176	Spiker	3
 1141278	00 Not For Maps	Speed Camera Mahia Rd@50	fixed speed camera - 50km/h	http://www.police.govt.nz/				0.0	0.0		false	2009-01-04 13:18:06.28766	2009-01-04 13:32:46.802767	vrod_rider	2
 1141288	00 Not For Maps	Speed Camera Wainui Road@50	Fixed Speed Camera - 50 Km/h		Wainui Road, Gisborne			178.04284	-38.67455	manual	true	2009-01-05 18:44:39.421003	2009-01-05 18:56:57.876658	rodo	6
-1134810	Speed Camera Johnston St Foxton@50	Fixed Speed Camera - 50km		Johnston St, Foxton			175.28432	-40.47617	manual	true	2008-10-20 16:48:05.623173	2008-10-20 16:48:05.623173	vrod_rider	1
+
 1134810
 1121467
 1093829
@@ -130,3 +130,6 @@
 1093849
 1191781
 1192092
+1210336
+1210361
+1210362

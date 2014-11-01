@@ -1,4 +1,6 @@
 #!/usr/bin/ruby
+#encoding: UTF-8
+
 =begin
   a bunch of methods and common code for handling conversion of LINZ shape file geometry records to Polish format
 =end
@@ -83,7 +85,22 @@
 
 
 def doContractions(streetname)
+	demacron = {
+				"\u0100" => 'A',
+				"\u0101" => 'a',
+				"\u0112" => 'E',
+				"\u0113" => 'e',
+				"\u012A" => 'I',
+				"\u012B" => 'i',
+				"\u014C" => 'O',
+				"\u014D" => 'o',
+				"\u016A" => 'U',
+				"\u016B" => 'u'
+			}
+
 	if streetname.nil? then return '' end
+	streetname.force_encoding("UTF-8") #I guess that rgeo::shapefile doesn't read or set the encoding correctly
+	streetname = streetname.encode("ASCII", :fallback => demacron )
 	streetname = streetname.strip.upcase
   #streetname = streetname.gsub(/\-/, ' ')#why remove -s?
 
@@ -166,7 +183,7 @@ POIIndex=Y
 MG=Y
 Numbering=Y
 Routing=Y
-Copyright=GRAEME WILLIAMS NZ OPEN MAP PROJECT
+Copyright=NZ OPEN MAP PROJECT
 Levels=5
 Level0=24
 Level1=22

@@ -1,4 +1,4 @@
 $^I = "~";
 while (<>){
-	print unless /Codepage/;
+	print unless /Codepage/ or /LblCoding/;
 }

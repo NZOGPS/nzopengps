@@ -32,7 +32,11 @@ def choose_tile(tile_reference)
   @tile = 'Canterbury';@bounds = [-42.731949, 173.600006, -44.55553, 167.000000];@tileregion = 7
     when "8"
   @tile = 'Southland';@bounds = [-44.55553, 171.464127, -47.450901, 166.121124];@tileregion = 8
-    when "0"
+    when "12"
+  @tile = 'NZPOIs3A';@bounds = [-34.39, 172.65, -41.62, 178.55];@tileregion = 12
+    when "21"
+  @tile = 'NZPOIs3B';@bounds = [-40.51, 166.55, -47.45, 174.38];@tileregion = 21
+      when "0"
   @tile = 'sample';@bounds = [-34.039501, 179.505753, -47.450901, 166.121124];@tileregion = 0
     else
       raise ArgumentError.new("tile reference argument missing")

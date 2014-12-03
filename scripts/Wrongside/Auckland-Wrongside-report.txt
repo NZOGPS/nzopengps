@@ -1,6 +1,6 @@
 5 entries in ..\..\LinzDataService\PaperRoads\Auckland-WrongSide.txt
 30 entries in ..\..\LinzDataService\PaperRoads\Auckland-LINZWrongSide.txt
-1564 wrongside numbers, 1564 not in Exclusion files
+1460 wrongside numbers, 1460 not in Exclusion files
 5 entries in Ignore list are no longer on the wrong side
 933164	17 TITOKI PLACE	2013/11/21 20:11	-35.704131,174.310709
 929121	104 NGAHERE DRIVE	2013/11/21 22:11	-35.736475,174.293782

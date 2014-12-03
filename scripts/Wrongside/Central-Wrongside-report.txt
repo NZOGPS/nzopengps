@@ -1,6 +1,6 @@
 12 entries in ..\..\LinzDataService\PaperRoads\Central-WrongSide.txt
 7 entries in ..\..\LinzDataService\PaperRoads\Central-LINZWrongSide.txt
-448 wrongside numbers, 431 not in Exclusion files
+445 wrongside numbers, 428 not in Exclusion files
 1 entries in Ignore list are no longer on the wrong side
 761967	40 BOOJUM DELL	2014/03/27 07:38	-38.666426,175.926972
 

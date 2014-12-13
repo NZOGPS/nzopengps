@@ -1,6 +1,6 @@
 =begin
 
-A library that simply copies the input to the output with no change
+A library that mostly copies the input to the output, except tweaking the headers, and decapitalising labels ready for 9 bit label coding.
 
 =end
 

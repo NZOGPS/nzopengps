@@ -1,5 +1,6 @@
 use strict;
 use feature qw "switch say";
+no if $] >= 5.018, warnings => "experimental::smartmatch";
 use File::Basename;
 use Cwd;
 use Getopt::Std;

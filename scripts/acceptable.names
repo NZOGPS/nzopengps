@@ -48,5 +48,57 @@ STATE HIGHWAY 2,~[0X2D]29
 PūRāKAUNUI STATION RD,PURAKAUNUI STATION RD
 PūRāKAUNUI RD,PURAKAUNUI RD
 PūRāKAUNUI SCHOOL RD,PURAKAUNUI SCHOOL RD
-			
 
+###
+#### Copy in Proper Case
+###		
+	
+#Generic Names
+Accessway,Walkway
+Accessway,Overbridge
+Accessway,Underpass
+Accessway,
+Service Lane,Walkway
+Service Lane,Accessway
+Service Lane,Access Lane
+Service Lane,Parking Area
+Service Lane,Carpark
+Service Lane,Alleyway
+Service Lane,Driveway
+Service Lane,Carpark Access
+
+#Stuff in Auckland tile
+Pōtaka Lane,Potaka Lane
+
+#Stuff in Central tile
+Access Road No 3,Access Road Number 3
+Access Road No 4,Access Road Number 4
+Access Road No 5,Access Road Number 5
+Access Road No 17,Access Road Number 17
+
+#Stuff in Wellington tile
+Sowry Road (No Exit),Sowry Rd
+Old Main Rd Tauweru,Main Rd Tauweru
+Waikakahi Rd,Waikakahi Settlement Rd
+Cuba St,Cuba Mall
+Marine Pde,Marine Parade Walkway
+Athletic Track Access Rd,Best Rd
+
+#Stuff in Canterbury tile
+Sunny Bight Road Waiano,Sunny Bight Rd Waiano
+Milltown Road Arawhataraki,Milltown Rd Arawhataraki
+Hans Bay Road Arahutika,Hans Bay Rd Arahutika
+Taylors Mistake Bay (Beach),Taylors Mistake Bay
+Queen Elizabeth Ii Dr,Queen Elizabeth 2 Dr
+Queen Elizabeth-Ii-Dr,Queen Elizabeth 2 Dr
+
+#Stuff in Waikato tile
+Lorenzen Bay Rd,Sunshine Rise
+Eleventh Ave,Accadia Lane
+Maungawhare Pl,Vale St W
+State Highway 2,~[0x2d]29
+
+#Stuff in Southland tile
+Pūrākaunui Station Rd,Purakaunui Station Rd
+Pūrākaunui Rd,Purakaunui Rd
+Pūrākaunui School Rd,Purakaunui School Rd

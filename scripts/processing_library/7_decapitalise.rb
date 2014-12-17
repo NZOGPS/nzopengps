@@ -12,12 +12,16 @@ def process_polish_buffer(buffer)
 		if line =~ /Copyright=/ then
 			line = 'Copyright=NZ Open GPS Map Project'
 		end
-		if line =~ /Label\=/ then
+		if line =~ /Label[23]?\=/ then
 			if line =~ /~\[.*\]/ then
 				print "Line: #{line}\n" unless line.gsub!(/~\[0x2d\]/,"~[0x04]") or line.gsub!(/~\[0x1b2c\]/,"~[0x1c]")
 			end
-			line.gsub!(/\w+/) do |word|
-				word.capitalize
+			line.gsub!(/\w+/) do |word|					
+				word.capitalize!
+				if word.length > 3 and word[0,2] == "Mc" then
+					word[2] = word[2].upcase
+				end
+				word
 			end
 		end
 		@output_file.print "#{line}\n"

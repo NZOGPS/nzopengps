@@ -1,0 +1,29 @@
+Things to do for case insensitive coding...
+
+Convert maps over:
+	ruby parseMP.rb tilenum 7
+	(still do do: McX... )
+	
+	This can be run for testing, where you then compile from the files in scripts\outputs, or for a final commit, copy the files from outputs over the master files.
+
+Zenbu processing:
+	Delete line 230 in ZenbuPOIcompiler2011\routines.rb label = label.upcase
+	Add: 
+		CodePage=1252
+		LblCoding=9
+	To printMPHeader line 280 in ZenbuPOIcompiler2011\routines.rb
+	Make sure that any compiler processing doesn't separately decapitalise
+	
+Street name comparison:
+	Line 8 - library temporarily changed to _lc
+	Lines 36-39 of 6_linz_data_street_name_comparison.rb - delete .upcase
+	Line 47 0x2d -> 0x04
+	Line 49 Decapitalise STATE HIGHWAY
+	
+	Decapitalise acceptable.names (currently entries are duplicated)
+	
+
+	
+
+
+	

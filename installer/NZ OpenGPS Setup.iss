@@ -73,6 +73,7 @@ Source: ../TypeFiles/TYPOPT01.typ; DestDir: "{app}"; Flags: promptifolder; DestN
 var
 MyProgCheckResult: Boolean;
 MapSourceDir: String;
+BaseCampDir: String;
 MapSourceReg: String;
 RegistryCreated: Boolean;
 preresult: Boolean;
@@ -109,12 +110,18 @@ end;
 
 function MapsourceCheck(): Boolean;
 begin
-MyProgCheckResult := False;
-if RegQueryStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\Applications\MapSource','InstallDir', MapSourceDir) then
-begin
-MyProgCheckResult := True;
-end;
-Result := MyProgCheckResult;
+  MyProgCheckResult := False;
+  if RegQueryStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\Applications\MapSource','InstallDir', MapSourceDir) then
+  begin
+    MyProgCheckResult := True;
+  end;
+  
+  if RegQueryStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\Applications\BaseCamp','InstallDir', BaseCampDir) then
+  begin
+    MyProgCheckResult := True;
+  end;
+
+  Result := MyProgCheckResult;
 end;
 
 function CreateRegistry(TYPfile: String; MDXfile: String; MDRfile: String; LOCfile: String; TDBfile: String; BMAPfile: String; ProductCode: String): Boolean;
@@ -195,18 +202,18 @@ begin
 nocloseit := True;
 RegistryCreated := False;
 
-// Check if Mapsource is present
-if not MapsourceCheck then
-begin
-if MsgBox('Gamin MapSource application has not been found on this PC' + #13 +
-'This program expects that Garmin MapSource is already installed on your PC, however ' + #13 +
-'you may use sendmap20 program from http://cgpsmapper.com to upload maps to your GPS device' + #13 +
-' if you do not have Garmin Mapsource.' + #13 + #13 +
-'Do you want to continue installation?', mbConfirmation, MB_YESNO) = idNo then
-begin
-nocloseit := False;
-end;
-end;
+    // Check if Mapsource is present
+    if not MapsourceCheck then
+    begin
+      if MsgBox('Gamin BaseCamp or MapSource have not been found on this PC' + #13 +
+                'This program expects that Garmin MapSource or Basecamp is already installed on your PC, however ' +  #13 +
+                'you may use sendmap20 program from http://cgpsmapper.com to upload maps to your GPS device' + #13 +
+                ' if you do not have Garmin Mapsource.' + #13 + #13 +
+                'Do you want to continue installation?', mbConfirmation, MB_YESNO) = idNo then
+        begin
+          nocloseit := False;
+        end;
+    end;
 
 if nocloseit and CheckFIDDuplicate(FID,False) then
 begin

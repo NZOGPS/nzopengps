@@ -15,6 +15,7 @@ Zenbu processing:
 	Make sure that any compiler processing doesn't separately decapitalise
 	
 Street name comparison:
+	(Temporarily use library 66)
 	Line 8 - library temporarily changed to _lc
 	Lines 36-39 of 6_linz_data_street_name_comparison.rb - delete .upcase
 	Line 47 0x2d -> 0x04

@@ -102,9 +102,9 @@ def run_parse
   # #####################################
   post_processing()
 
-  print "End = #{Time.now}\n"
+  print "Finish = #{Time.now}\n"
   print "Processing time = #{Time.now - startTime}\n"
-  @reporting_file.print "End = #{Time.now}\n"
+  @reporting_file.print "Finish = #{Time.now}\n"
   @reporting_file.print "Processing time = #{Time.now - startTime}\n"
 end
 # #####################################

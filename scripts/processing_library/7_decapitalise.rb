@@ -3,6 +3,14 @@
 A library that mostly copies the input to the output, except tweaking the headers, and decapitalising labels ready for 9 bit label coding.
 
 =end
+	puts "in decapitalise"
+
+def set_paths(myio)
+	myio.ipath = '..'
+	myio.opath = 'xxoutputs'
+	myio.ifileadd = ''
+	myio.ofileadd = ''
+end
 
 def process_polish_buffer(buffer)
 	buffer.each{|line|

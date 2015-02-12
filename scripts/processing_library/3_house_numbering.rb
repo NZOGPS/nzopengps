@@ -107,6 +107,13 @@ WORKING_SRID = 4167
 STREET_ADDRESS_TABLE = "\"nz-street-address-electoral\""
 STREET_ADDRESS_TABLE_INDEX_NAME = 'the_geom'
 
+def set_paths(myio)
+	myio.ipath = File.join('..','LinzDataService','outputslinz')
+	myio.opath = File.join('..','LinzDataService','outputslinz')
+	myio.ifileadd = '-LINZ-V3'
+	myio.ofileadd = '-LINZ-V4'
+end
+
 def pre_processing()
 
   ###############

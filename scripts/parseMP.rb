@@ -64,6 +64,7 @@ def load_paths(processing_library)
   #print "@base = #{@base}\n"
 
   input_folder = File.join(@base, '..') #look for inputs in parent folder
+  input_folder = File.expand_path(input_folder)
   output_folder = File.join(@base, 'outputs') #put outputs in outputs folder
   if !File.exists?(input_folder) then raise "input folder missing #{input_folder}\n" end
   if !File.exists?(output_folder) then FileUtils.mkdir output_folder end

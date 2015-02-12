@@ -7,7 +7,7 @@ A library that mostly copies the input to the output, except tweaking the header
 
 def set_paths(myio)
 	myio.ipath = '..'
-	myio.opath = 'xxoutputs'
+	myio.opath = 'outputs'
 	myio.ifileadd = ''
 	myio.ofileadd = ''
 end

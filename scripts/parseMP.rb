@@ -56,27 +56,38 @@ def load_processing_library(processing_library)
     end
   }
   raise ArgumentError.new("library argument missing")
-
 end
+
+class IOData
+	attr_accessor :ipath, :opath, :ifileadd, :ofileadd
+	def initialize
+		@ipath = '..'
+		@opath = 'outputs'
+		@ifileadd = ''
+		@ofileadd = ''
+	end
+end
+
 # #####################################
 def load_paths(processing_library)
-  @base = File.expand_path(File.dirname(__FILE__)) #this folder
-  #print "@base = #{@base}\n"
+	@base = File.expand_path(File.dirname(__FILE__)) #this folder
+	#print "@base = #{@base}\n"
+	myio = IOData.new
+	if defined? set_paths then set_paths(myio) end
+	input_folder = File.join(@base, "#{myio.ipath}") #look for inputs in parent folder
+	input_folder = File.expand_path(input_folder)
+	output_folder = File.join(@base, "#{myio.opath}") #put outputs in outputs folder
+	if !File.exists?(input_folder) then raise "input folder missing #{input_folder}\n" end
+	if !File.exists?(output_folder) then FileUtils.mkdir output_folder end
 
-  input_folder = File.join(@base, '..') #look for inputs in parent folder
-  input_folder = File.expand_path(input_folder)
-  output_folder = File.join(@base, 'outputs') #put outputs in outputs folder
-  if !File.exists?(input_folder) then raise "input folder missing #{input_folder}\n" end
-  if !File.exists?(output_folder) then FileUtils.mkdir output_folder end
+	@this_file = File.join(input_folder,"#{@tile}#{myio.ifileadd}.mp")
+	if !File.exists?(@this_file) then raise "input missing #{@this_file}\n" end
 
-  @this_file = File.join(input_folder,"#{@tile}.mp")
-  if !File.exists?(@this_file) then raise "input missing #{@this_file}\n" end
-  
-  @output_file_path = File.join(output_folder,"#{@tile}.mp")
-  @reporting_file_path = File.join(output_folder,"#{@tile}-report-#{processing_library}.txt")
+	@output_file_path = File.join(output_folder,"#{@tile}#{myio.ofileadd}.mp")
+	@reporting_file_path = File.join(output_folder,"#{@tile}-report-#{processing_library}.txt")
 
-  @reporting_file = File.open(@reporting_file_path, "w")
-  print "Parsing: #{@this_file}\n"
+	@reporting_file = File.open(@reporting_file_path, "w")
+	print "Parsing: #{@this_file}\n"
 end
 # #####################################
 
@@ -128,9 +139,8 @@ begin
   print "library=#{library}; tile=#{tile}\n"
   
   choose_tile(tile)
-  load_paths(library)
-  
   load_processing_library(library)
+  load_paths(library)
   
 rescue ArgumentError => e
   print "################################\n"

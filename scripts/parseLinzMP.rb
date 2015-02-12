@@ -17,7 +17,7 @@ end
 def choose_tile(tile_reference)
   case tile_reference
     when "1"
-  @tile = 'Northland';@bounds = [-34.039501, 174.858505, -36.38880, 171.921432];@tileregion = 1
+  @tile = 'Northland';@bounds = [-34.039501, 175.8, -36.38880, 171.9];@tileregion = 1
     when "2"
   @tile = 'Auckland';@bounds = [-36.38880, 176.104294, -37.105228, 173.259384];@tileregion = 2
     when "3"
@@ -32,7 +32,11 @@ def choose_tile(tile_reference)
   @tile = 'Canterbury';@bounds = [-42.731949, 173.600006, -44.55553, 167.000000];@tileregion = 7
     when "8"
   @tile = 'Southland';@bounds = [-44.55553, 171.464127, -47.450901, 166.121124];@tileregion = 8
-    when "0"
+    when "12"
+  @tile = 'NZPOIs3A';@bounds = [-34.39, 172.65, -41.62, 178.55];@tileregion = 12
+    when "21"
+  @tile = 'NZPOIs3B';@bounds = [-40.51, 166.55, -47.45, 174.38];@tileregion = 21
+      when "0"
   @tile = 'sample';@bounds = [-34.039501, 179.505753, -47.450901, 166.121124];@tileregion = 0
     else
       raise ArgumentError.new("tile reference argument missing")
@@ -101,9 +105,9 @@ def run_parse
   # #####################################
   post_processing()
 
-  print "End = #{Time.now}\n"
+  print "Finish = #{Time.now}\n"
   print "Processing time = #{Time.now - startTime}\n"
-  @reporting_file.print "End = #{Time.now}\n"
+  @reporting_file.print "Finish = #{Time.now}\n"
   @reporting_file.print "Processing time = #{Time.now - startTime}\n"
 end
 # #####################################

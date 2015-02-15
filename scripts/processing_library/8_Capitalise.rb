@@ -6,7 +6,7 @@ A library that mostly copies the input to the output, except tweaking the header
 
 def set_paths(myio)
 	myio.ipath = '..'
-	myio.opath = File.join('..','installer','7bit')
+	myio.opath = File.join('..','installer','6bit')
 	myio.ifileadd = ''
 	myio.ofileadd = ''
 end

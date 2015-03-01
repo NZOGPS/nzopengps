@@ -227,7 +227,7 @@ def processPOITypeSpecificRules(label,tags,website,poitypecode,opening)
   	label += " 24hr"
   end
 
-  label = label.upcase
+#  label = label.upcase
 	return label
 end
 
@@ -277,6 +277,8 @@ mpfileoutref.print <<POIEND
 [IMG ID]
 ID=#{mapid}
 Name=POI Zenbu
+CodePage=1252
+LblCoding=9
 Elevation=M
 Preprocess=F
 TreSize=#{tresize}

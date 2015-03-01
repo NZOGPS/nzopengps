@@ -12,7 +12,7 @@ Transparent=Y
 Levels=2
 Level0=14
 Level1=12
-;Codepage=1252
+Codepage=1252
 Zoom0=5
 Zoom1=6
 

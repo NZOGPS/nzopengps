@@ -33,20 +33,21 @@ def process_polish_buffer(buffer)
   match = false
   
   #standardise whitespace and case
-  official_street_name = official_street_name.squeeze(' ').strip.upcase
-  street_name = "#{street_name}".squeeze(' ').strip.upcase
-  street_name_2 = "#{street_name_2}".squeeze(' ').strip.upcase
-  street_name_3 = "#{street_name_3}".squeeze(' ').strip.upcase
-  
+  official_street_name = official_street_name.squeeze(' ').strip
+  street_name = "#{street_name}".squeeze(' ').strip
+  street_name_2 = "#{street_name_2}".squeeze(' ').strip
+  street_name_3 = "#{street_name_3}".squeeze(' ').strip
+	#### NOTE! Check which library file is referenced!
+	
   if (official_street_name == street_name)||(official_street_name == doContractions(street_name)) then
     match = true
   elsif (official_street_name == street_name_2)||(official_street_name == doContractions(street_name_2)) then
     match = true
   elsif (official_street_name == street_name_3)||(official_street_name == doContractions(street_name_3)) then
     match = true
-  elsif street_name =~ /~\[0x2d\](.+)/i || street_name_2 =~ /~\[0x2d\](.+)/i then
+  elsif street_name =~ /~\[0x04\](.+)/i || street_name_2 =~ /~\[0x04\](.+)/i then
     highway_number = $1
-    if official_street_name =~ /STATE HIGHWAY #{highway_number}/ then
+    if official_street_name =~ /State Highway #{highway_number}/ then
       match = true
     end
   end

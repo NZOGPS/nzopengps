@@ -52,3 +52,4 @@ These 3 are on the wrong side and out of sequence:
 The marker is on the wrong side of the road. Correct location should be -35.777230 174.429690:
 1567218	44 WOODLANDS HEIGHTS DRIVE	2013/11/21 22:37	-35.777052,174.429672
 
+2359281	2 MARAE ROAD	2015/02/26 13:00	-36.851653,175.473761

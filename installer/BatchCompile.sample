@@ -71,7 +71,7 @@ rem  *** Removing Codepage from  Free Open GPS NZ Autorouting.mp.... ***
 rem
 rem
 
-C:\Ruby193\devkit\bin\perl ../RemoveCodepage.pl "Free Open GPS NZ Autorouting.mp"
+:: C:\Ruby193\devkit\bin\perl ../RemoveCodepage.pl "Free Open GPS NZ Autorouting.mp"
 
 rem
 

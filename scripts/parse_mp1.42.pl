@@ -55,12 +55,27 @@ my %x;
 my %y;
 
 sub do_header {
+	my $lblcfnd = 0;
+	my $codepg = -1;
 	while (<>){
-		if (/^LblCoding=9/) {
-			print "\nError: LblCoding=9 found in header\n\n";
+		if (/^LblCoding=9/i) {
+			$lblcfnd = 1;
+		}
+		if (/^CodePage=(1252)/i) {
+			$codepg = $1;
 		}
 		if (/^\[END-IMG ID\]$/)	{ #end of header
 			last;
+		}
+	}
+	if (!$lblcfnd) {
+		print "\nError: LblCoding=9 not found in header\n\n";
+	}
+	if ($codepg == -1) {
+		print "\nError: No CodePage found in header\n\n";
+	} else {
+		if ($codepg != 1252) {
+			print "\nError: Odd CodePage: $codepg found in header\n\n";
 		}
 	}
 }

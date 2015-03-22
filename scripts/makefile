@@ -12,6 +12,7 @@ LINZ = $(BASE)\LinzDataService
 LINZO = $(LINZ)\outputslinz
 NUMBERS = $(BASE)\numbers
 OUTPUTS = $(BASE)\scripts\outputs
+PAPERRDS = $(LINZ)\PaperRoads
 PSQL = $(nzogps_psql_bin)
 ZIPIT = $(nzogps_zip_cmd)
 UNZIP = $(nzogps_unzip_cmd)
@@ -65,7 +66,7 @@ $(LINZ)\lds-nz-street-address-electoral-SHP\nz-street-address-electoral.shp : $(
 	move $(DLOAD)\lds-nz-street-address-electoral-SHP.zip $(LINZ)
 	perl $(LINZ)\renzip.pl $(LINZ)\lds-nz-street-address-electoral-SHP
 
-$(OUTPUTS)\\%-report-2.txt : ..\%.mp
+$(OUTPUTS)\\%-report-2.txt : ..\%.mp $(PAPERRDS)\%.txt
 	ruby parseMP.rb $(call tilenum, $(notdir $*)) 2
 	
 $(OUTPUTS)\\%-report-6.txt : ..\%.mp $(LINZO)\%-LINZ.mp

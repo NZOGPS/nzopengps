@@ -52,14 +52,16 @@ my %x;
 my %y;
 
 sub do_header {
+	my $found = 0;
 	while (<>){
-		if (/^LblCoding=9/) {
-			print "\nError: LblCoding=9 found in header\n\n";
+		if (/^LblCoding=9/i) {
+			$found = 1;
 		}
 		if (/^\[END-IMG ID\]$/)	{ #end of header
 			last;
 		}
 	}
+	print "\nError: LblCoding=9 found in header\n\n" unless $found;
 }
 
 sub do_polygon {

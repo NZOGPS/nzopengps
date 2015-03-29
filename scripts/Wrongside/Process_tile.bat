@@ -20,4 +20,5 @@ mp_2_n_sql.pl %nzogps_base%\%1.mp
 %nzogps_psqlc%   -f %1_numberlines.sql
 %nzogps_psqlc% -v linestable=%1_numberlines -v distance=100 -f postpro-lines.sql
 %nzogps_psqlc% -v linestable=%1_numberlines  -v numstable=%1_nums -v outfile='%nzogps_base%\scripts\wrongside\%1-WrongSide.csv' -f intersect.sql
+%nzogps_psqlc% -v linestable=%1_numberlines -v distance=2000 -v outfile='%nzogps_base%\scripts\wrongside\%1-Sparsest.csv' -f Sparsest.sql
 perl wrongsidereport.pl %1 > %1-Wrongside-report.txt

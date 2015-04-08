@@ -1,12 +1,11 @@
 1 entries in ..\..\LinzDataService\PaperRoads\Tasman-WrongSide.txt
 73 entries in ..\..\LinzDataService\PaperRoads\Tasman-LINZWrongSide.txt
-71 wrongside numbers, 5 not in Exclusion files
-8 entries in Linz list are no longer on the wrong side
+72 wrongside numbers, 5 not in Exclusion files
+7 entries in Linz list are no longer on the wrong side
 1308038	765 BILL BRYANTS ROAD	2014/06/10 20:36	-41.042752,173.727465
 1676913	589 UMERE ROAD	2014/06/09 22:48	-41.256113,172.186505	 Change of side compared to further south
 331929	176 Speeds Road South	2014/07/18 23:44	-41.352987,173.919110
 297534	49 GREEN LANE	2014/06/10 20:13	-41.117671,172.996488
-301206	106 Bryant Road	2014/07/19 15:03	-41.364699,173.108788
 1769854	30 Tyler Road	2014/07/18 23:33	-41.607705,171.876390
 1377429	8 Fourth Lane	2014/07/19 13:52	-41.515052,173.954068	2 and 8 on either side
 1676843	585 UMERE ROAD	2014/06/09 22:48	-41.256351,172.186081	 Change of side compared to further south

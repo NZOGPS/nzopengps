@@ -7,5 +7,5 @@ update :numstable set asnum_position=ST_Line_Interpolate_Point(nztm_line,asnum_d
 update :numstable set asnum_dist_err=ST_Distance(nztm,asnum_position);
 update :numstable set isect_side=1, isect_roadid=:linestable.gid from :linestable where rna_id=linzid and ST_Intersects(nztm,rightpoly);
 update :numstable set isect_side=-1, isect_roadid=:linestable.gid from :linestable where rna_id=linzid and ST_Intersects(nztm,leftpoly);
-copy(select st_x(the_geom),st_y(the_geom),address,'Wrong Side: ' || id from :numstable where asnum_roadid = isect_roadid and asnum_side*isect_side=-1) to :outfile with CSV;
+copy(select st_x(the_geom),st_y(the_geom),address,'Wrong Side: ' || id from :numstable where asnum_roadid = isect_roadid and asnum_side*isect_side=-1 order by id) to :outfile with CSV;
 select current_time;

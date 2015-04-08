@@ -74,7 +74,7 @@ Warning: 733292 on line 80 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrong
 Warning: duplicate entries for 733292 on line 80 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
 Warning: duplicate entries for 1282854 on line 96 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
 100 entries in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-841 wrongside numbers, 629 not in Exclusion files
+839 wrongside numbers, 626 not in Exclusion files
 8 entries in Ignore list are no longer on the wrong side
 721243	4 VILLAGE ROAD	2013/10/15 19:47	-38.516940,175.552521
 744143	387 POKURU ROAD NORTH	2013/10/15 19:55	-38.443810,175.838029
@@ -85,13 +85,12 @@ Warning: duplicate entries for 1282854 on line 96 in ..\..\LinzDataService\Paper
 1666034	1/2-24/2 ALTHORP AVENUE	2014/04/26 03:22	-37.741673,176.124811
 1276349	108 FLANAGAN ROAD	2014/04/18 12:44	-37.107512,174.950217
 
-8 entries in Linz list are no longer on the wrong side
+7 entries in Linz list are no longer on the wrong side
 644546	9 SNOWDEN PLACE	2013/11/14 21:35	-37.802525,174.875703
 830646	15 KING STREET	2013/11/14 18:55	-37.784515,176.331834
 1010387	2 NOBLE JOHNSTON DRIVE	2013/12/09 19:49	-37.550184,175.920490
 1535801	9 EASTFIELD	2014/04/18 15:37	-37.399505,175.145367
 733292	29A SCHOOL ROAD	2013/12/12 20:24	-37.421890,175.724025
-571089	4606 SH 35	2013/10/15 20:51	-37.858773,177.613847
 852595	1205 WHITE PINE BUSH ROAD	2013/10/15 21:42	-38.054051,176.996395
 760603	834 WRIGHT ROAD	2013/12/12 19:52	-37.668424,175.921860
 

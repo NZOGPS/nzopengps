@@ -1,6 +1,6 @@
 4 entries in ..\..\LinzDataService\PaperRoads\Southland-WrongSide.txt
 113 entries in ..\..\LinzDataService\PaperRoads\Southland-LINZWrongSide.txt
-111 wrongside numbers, 3 not in Exclusion files
+115 wrongside numbers, 7 not in Exclusion files
 9 entries in Linz list are no longer on the wrong side
 401426	32 RUNBRAKE STREET	2013/10/05 23:20	-45.480887,170.716836
 1603679	5/2 JACOB STREET	2013/10/26 22:54	-46.092584,168.944842	5/2 or 2/5?

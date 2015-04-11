@@ -160,3 +160,6 @@
 1760181	911 PORT LEVY-PIGEON BAY ROAD	2014/04/22 21:21	-43.660353,172.828044	There is a group here between these two ids (...313 and ...318) on this side of the road, which are all new. There are two other properties at the 'low' end of the road that are numbered opposite.
 1760186	905A PORT LEVY-PIGEON BAY ROAD	2014/04/22 21:21	-43.660723,172.828394
 --------------------------Above sent to LINZ  4/05/2014 
+1755647	3 Dalleys Lane	2015/04/10 10:48	-43.601240,172.710777
+1697577	221 Office Road	2015/04/10 10:49	-43.870224,171.809581
+120766	2846 Hakatere Potts Road	2015/04/10 10:52	-43.519740,170.874271

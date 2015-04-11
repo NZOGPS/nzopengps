@@ -8,3 +8,7 @@
 1812365	O,1125,1125	Whangamata Rd	Kinloch(Waikato,NZ)	2015/04/12 00:26	-38.638100,175.921920	Numbered on Waikato tile
 1812365	O,1679,1679	Whangamata Rd	Kinloch(Waikato,NZ)	2015/04/12 00:27	-38.638100,175.921920	Numbered on Waikato tile
 1816220	O,179,179	Hitiri Rd		2015/04/12 00:29	-38.635510,175.943270	Numbered on Waikato tile
+1817505	O,7,7	Bowen St		2015/04/12 02:26	-39.541890,174.275570
+1817522	O,5,5	Moorehouse St		2015/04/12 02:26	-39.544690,174.275060
+1817505	O,31,31	Bowen St		2015/04/12 02:27	-39.540810,174.276540
+1796905	E,38,38	Ashton Terrace	Castlecliff, Wanganui(Manawatu-Wanganui,NZ)	2015/04/12 02:51	-39.943330,174.984680

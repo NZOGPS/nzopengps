@@ -1,9 +1,10 @@
-12 entries in ..\..\LinzDataService\PaperRoads\Central-WrongSide.txt
-7 entries in ..\..\LinzDataService\PaperRoads\Central-LINZWrongSide.txt
-441 wrongside numbers, 424 not in Exclusion files
+13 entries in ..\..\LinzDataService\PaperRoads\Central-WrongSide.txt
+32 entries in ..\..\LinzDataService\PaperRoads\Central-LINZWrongSide.txt
+378 wrongside numbers, 336 not in Exclusion files
 1 entries in Ignore list are no longer on the wrong side
 761967	40 BOOJUM DELL	2014/03/27 07:38	-38.666426,175.926972
 
-1 entries in Linz list are no longer on the wrong side
+2 entries in Linz list are no longer on the wrong side
 945205	135 RIMU ROAD	2014/04/13 07:56	-38.772397,175.033767
+596034	408 McVicar Road	2015/04/12 02:58	-39.197276,176.613057
 

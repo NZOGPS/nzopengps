@@ -12,3 +12,4 @@
 1816235	E,10,10	Kuku St		2015/04/12 13:44	-38.847380,174.982990	Maybe wrong street?
 1816001	E,410,410	State Highway  1		2015/04/12 13:45	-38.647615,176.087167	Should be Wairakei Dr?
 1814755	O,627,761	Minginui Rd	Minginui(Bay of Plenty,NZ)	2015/04/12 14:45	-38.642840,176.723020	Numbered on Waikato tile
+1801996	O,2689,2689	Pehiri Rd	Rere(Gisborne,NZ)	2015/04/12 14:50	-38.638100,177.585430

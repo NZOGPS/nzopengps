@@ -1,11 +1,14 @@
-17 entries in ..\..\LinzDataService\PaperRoads\Central-WrongSide.txt
-47 entries in ..\..\LinzDataService\PaperRoads\Central-LINZWrongSide.txt
-260 wrongside numbers, 200 not in Exclusion files
+19 entries in ..\..\LinzDataService\PaperRoads\Central-WrongSide.txt
+Warning: duplicate entries for 1572541 on line 92 in ..\..\LinzDataService\PaperRoads\Central-LINZWrongSide.txt
+111 entries in ..\..\LinzDataService\PaperRoads\Central-LINZWrongSide.txt
+166 wrongside numbers, 42 not in Exclusion files
 1 entries in Ignore list are no longer on the wrong side
 761967	40 BOOJUM DELL	2014/03/27 07:38	-38.666426,175.926972
 
-3 entries in Linz list are no longer on the wrong side
+5 entries in Linz list are no longer on the wrong side
 647106	84 Charlotte Street	2015/04/12 17:13	-40.030488,176.347441
 945205	135 RIMU ROAD	2014/04/13 07:56	-38.772397,175.033767
+650375	2 Onslow Street West	2015/04/14 02:24	-39.862065,175.707149
 596034	408 McVicar Road	2015/04/12 02:58	-39.197276,176.613057
+1355068	156 Kaimata Road	2015/04/14 02:40	-39.403409,176.867091
 

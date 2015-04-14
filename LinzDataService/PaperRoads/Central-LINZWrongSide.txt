@@ -110,3 +110,32 @@
 1432898	1072 Whanawhana Road	2015/04/14 04:38	-39.517318,176.403533
 1375906	395 Rakaupiko Road	2015/04/14 04:39	-39.771505,174.510798
 1064600	1813 State Highway  1	2015/04/14 04:47	-40.042392,175.440085
+1334380	83 Redoubt Street	2015/04/14 19:21	-38.686672,176.065579	All these numbers seem to be near the middle of the road, and also don't seem to address anything obvious on the imagery. I haven't included the ids, but 59,65,75 are the same.
+1334376	95 Redoubt Street	2015/04/14 19:21	-38.686844,176.065310
+1334375	100 Redoubt Street	2015/04/14 19:21	-38.687020,176.065166
+1407350	970 Puniwhakau Road	2015/04/14 19:26	-39.323650,174.693088
+1407352	972 Puniwhakau Road	2015/04/14 19:26	-39.323410,174.694097
+1407353	369 Puniwhakau Road	2015/04/14 19:26	-39.325347,174.645154
+1407353	369 Puniwhakau Road	2015/04/14 19:29	-39.325347,174.645154	This middle section of the road seems to change sides! 112 and 131 are also on the opposite.
+1473528	1012 Acacia Bay Road	2015/04/14 19:31	-38.719901,176.022088	between 941 and 949.
+1560780	5 Dawson Street	2015/04/14 19:34	-39.463193,175.677589	Your data seems to have an offset here - maybe 50m out to the ENE. Your roads and addresses are consistent, but the numbers are out for us when the roads are moved to where GPS says they should be. This north section of the camp is worst.
+1560824	2 Paterson Place	2015/04/14 19:40	-39.460885,175.677810
+1560826	4 Paterson Place	2015/04/14 19:40	-39.460870,175.677984
+1560828	6 Paterson Place	2015/04/14 19:40	-39.460846,175.678163
+1604030	16 Upoko Road	2015/04/14 19:41	-39.086604,175.238881	i'm guessing this is the wrong one, based on the number being quite low for this far along the road.
+1604121	194 Soldiers Road	2015/04/14 19:43	-39.393909,175.436266
+1606715	380 Durham Drive	2015/04/14 19:44	-39.690646,176.907176
+1677470	1/1136-12/1136 Matea Road	2015/04/14 19:47	-38.814870,176.466022 ditto below, but 400m.
+835147	1134 Matea Road	2015/04/14 19:47	-38.816205,176.465912	Middle of the road, and 550m south.
+835147	1134 Matea Road	2015/04/14 19:49	-38.816205,176.465912	ok - maybe not 100% this is wrong...
+526247	1 Stouts Road	2015/04/14 19:51	-39.469720,175.592505
+596601	299 Waikareao Road	2015/04/14 19:51	-39.793211,176.638766
+596787	95 Haronga Road	2015/04/14 19:52	-39.791550,176.656464	middle of the road
+626144	8 Flanders Road	2015/04/14 19:53	-39.637224,176.891917
+636683	236 Mill Road	2015/04/14 19:53	-39.604845,176.927519
+862659	92 Feaver Road	2015/04/14 19:54	-39.405778,173.892101
+880008	45 Holly Oak Terrace	2015/04/14 19:55	-39.088875,174.098397
+898707	60 Hartnet Road	2015/04/14 19:56	-39.347110,174.444957
+899605	632 Mangaotuku Road	2015/04/14 19:56	-39.328747,174.535997
+899950	660 Moki Road	2015/04/14 19:57	-38.978840,174.753089
+899957	570 Tongaporutu-Ohura Road	2015/04/14 19:58	-38.859907,174.755868

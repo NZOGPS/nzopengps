@@ -2,10 +2,12 @@
 #Generic Names
 	
 #Generic Names
+
 Accessway,Walkway
 Accessway,Overbridge
 Accessway,Underpass
 Accessway,
+
 Service Lane,Walkway
 Service Lane,Accessway
 Service Lane,Access Lane
@@ -14,6 +16,8 @@ Service Lane,Carpark
 Service Lane,Alleyway
 Service Lane,Driveway
 Service Lane,Carpark Access
+Service Lane,Service Rd
+
 Roadway,Forestry Roadway
 
 #Stuff in Auckland tile
@@ -24,6 +28,7 @@ Access Road No 3,Access Road Number 3
 Access Road No 4,Access Road Number 4
 Access Road No 5,Access Road Number 5
 Access Road No 17,Access Road Number 17
+Service Lane,Airfield Access Rd
 
 #Stuff in Wellington tile
 Sowry Road (No Exit),Sowry Rd

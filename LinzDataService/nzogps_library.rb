@@ -16,14 +16,14 @@
   "Northwest" => "NW",
   "Southwest" => "SW",
   "Central" => "Ctrl",
-  "Extension" => "Ext"
+  "Extension" => "Ext",
+  "Upper" => "Upper",	#Keep Upper and Lower here to trigger contraction of previous word
+  "Lower" => "Lower"
 }
 @@addr_Match = {}
 @@addr_Match['directions'] = '\b(?:' + @@roadextensions.keys.join("|") + "|" + @@roadextensions.values.join("|") + ')\b'
 @@addr_Match['streetwithdirection'] = /(.*)\s(#{@@addr_Match['directions']})$/i
 
-# point may not be nzpost, but is standard?
-#"POINT" => "PT",
 @@roadprepositions = {
   "Mount" => "Mt",
   "Saint" => "St"
@@ -81,7 +81,6 @@
   "Motorway" => "Mwy" #the one unofficial abbreviation we will accept
 }
 
-
 def doContractions(streetname)
 	demacron = {
 				"\u0100" => 'A',
@@ -130,17 +129,6 @@ def doContractions(streetname)
     }
     streetname = streetname + ' ' + streetext
   end
-
-
-  #if (streetname =~ /(.*)\bSOUTH$/) then streetname = $1 + "S" end
-  #if (streetname =~ /(.*)\bNORTH$/) then streetname = $1 + "N" end
-  #if (streetname =~ /^SOUTH\b(.*)/) then streetname = "S" + $1 end
-  #if (streetname =~ /^NORTH\b(.*)/) then streetname = "N" + $1  end
-  #  
-  #if (streetname =~ /(.*)\bEAST$/) then streetname = $1 + "E" end
-  #if (streetname =~ /(.*)\bWEST$/) then streetname = $1 + "W" end
-  #if (streetname =~ /^EAST\b(.*)/) then streetname = "E" + $1 end
-  #if (streetname =~ /^WEST\b(.*)/) then streetname = "W" + $1  end
     
   return streetname
 end

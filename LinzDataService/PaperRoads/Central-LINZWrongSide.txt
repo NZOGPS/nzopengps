@@ -154,3 +154,4 @@
 1560778	3 Dawson Street	2015/04/15 13:48	-39.463393,175.677551
 1560776	1B Dawson Street	2015/04/15 13:48	-39.463560,175.677567
 1560775	1A Dawson Street	2015/04/15 13:48	-39.463680,175.677556
+1612752	70 Bredow Road	2015/04/15 16:49	-39.311996,174.462831	Looks like this road was renamed from xxx old rd at some stage. Maybe the side inconsistency was a hangover from that?

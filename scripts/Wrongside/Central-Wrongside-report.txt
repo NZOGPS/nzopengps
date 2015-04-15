@@ -1,12 +1,6 @@
 21 entries in ..\..\LinzDataService\PaperRoads\Central-WrongSide.txt
-Warning: duplicate entries for 1572541 on line 92 in ..\..\LinzDataService\PaperRoads\Central-LINZWrongSide.txt
-Warning: duplicate entries for 1407353 on line 119 in ..\..\LinzDataService\PaperRoads\Central-LINZWrongSide.txt
-Warning: duplicate entries for 835147 on line 130 in ..\..\LinzDataService\PaperRoads\Central-LINZWrongSide.txt
-138 entries in ..\..\LinzDataService\PaperRoads\Central-LINZWrongSide.txt
-166 wrongside numbers, 14 not in Exclusion files
-1 entries in Ignore list are no longer on the wrong side
-761967	40 BOOJUM DELL	2014/03/27 07:38	-38.666426,175.926972
-
+155 entries in ..\..\LinzDataService\PaperRoads\Central-LINZWrongSide.txt
+172 wrongside numbers, 2 not in Exclusion files
 6 entries in Linz list are no longer on the wrong side
 647106	84 Charlotte Street	2015/04/12 17:13	-40.030488,176.347441
 945205	135 RIMU ROAD	2014/04/13 07:56	-38.772397,175.033767

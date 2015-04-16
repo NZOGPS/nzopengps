@@ -5,11 +5,15 @@ read the LINZ Data Service output tile and the NZOGPS tile and report on the dif
 =end
 
 def process_polish_buffer(buffer)
-  linzid, street_name, first_lat, first_lon = nil
+  linzid, linzid2, linzid3, street_name, first_lat, first_lon = nil
   
 	buffer.each{|line|
     if line =~ /;linzid\=(\d*)/ then
       linzid = $1
+    elsif line =~ /;linzid2\=(\d*)/ then
+      linzid2 = $1
+    elsif line =~ /;linzid3\=(\d*)/ then
+      linzid3 = $1
     elsif line =~ /Label\=(.*)/ then
       street_name = $1
     elsif line =~ /Data0\=\(([-.\d]+),([-.\d]+)\).*/ then
@@ -21,7 +25,13 @@ def process_polish_buffer(buffer)
   if linzid then
     @nzogps_file_ids[linzid] = "#{street_name}\t#{first_lat},#{first_lon}"
   end
-  
+  if linzid2 then
+    @nzogps_file_ids[linzid2] = "#{street_name}\t#{first_lat},#{first_lon}"
+  end
+  if linzid3 then
+    @nzogps_file_ids[linzid3] = "#{street_name}\t#{first_lat},#{first_lon}"
+  end
+   
 end
 
 def pre_processing()

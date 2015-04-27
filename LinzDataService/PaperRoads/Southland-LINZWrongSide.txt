@@ -114,3 +114,5 @@
 1845847	156 Teschemaker Valley Road	2014/07/18 00:07	-44.602644,171.078406
 1845841	58 Little Roderick Road	2014/07/18 00:07	-44.777460,170.572715
 1845835	692 Morven Glenavy Road	2014/07/18 00:07	-44.861827,171.113275
+38284	162 Caversham Valley Road	2015/04/27 20:12	-45.895969,170.465851	Wrong side/on lane of new divided highway
+----- Above sent to LINZ 27/04/2015 

@@ -76,9 +76,15 @@ $(NUMBERS)\\%-numbers.gdb : $(OUTPUTS)\%-numbers.gdb
 	if exist $(subst /,\,$@) move /Y $(subst /,\,$@) $(addsuffix .old,$(subst /,\,$@))
 	copy  $(subst /,\,$<)  $(subst /,\,$@)
 
+$(NUMBERS)\\%-numbers.gdb : %.zip
+	$(UNZIP) -o$(NUMBERS) $< $(notdir $@)
+
 $(NUMBERS)\\%-numbers-linzid.csv : $(OUTPUTS)\%-numbers-linzid.csv
 	if exist $(subst /,\,$@)  move /Y $(subst /,\,$@) $(addsuffix .old,$(subst /,\,$@))
 	copy  $(subst /,\,$<)  $(subst /,\,$@)
+	
+$(NUMBERS)\\%-numbers-linzid.csv : %.zip
+	$(UNZIP) -o$(NUMBERS) $< $(notdir $@)
 	
 $(OUTPUTS)\\%-numbers.gdb : database.date
 	ruby parseMP.rb $(call tilenum, $(notdir $*)) 5

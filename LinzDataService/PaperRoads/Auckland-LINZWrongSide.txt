@@ -53,4 +53,11 @@ The marker is on the wrong side of the road. Correct location should be -35.7772
 1567218	44 WOODLANDS HEIGHTS DRIVE	2013/11/21 22:37	-35.777052,174.429672
 
 2359281	2 MARAE ROAD	2015/02/26 13:00	-36.851653,175.473761
-1169764	19 Hapimana Street	2015/05/02 01:15	-36.845853,174.824123
+1169764	19 Hapimana Street	2015/05/02 01:15	-36.845853,174.824123	Seems to be in the middle of the road
+1153131	4 Tanners Road	2015/05/02 13:21	-36.951185,174.791275
+706216	160 Stony Bay Road	2015/05/02 15:43	-36.512262,175.442234	Not sure if this is wrong, or the road changes numbering side.
+708158	32 Adlor Hill Road	2015/05/02 15:48	-36.529868,175.467603	Numbers change side and direction from 32 (but 18's on the other side)
+1494191	22 Shamrock Drive	2015/05/02 17:02	-36.775355,174.552605
+1738314	125 Tuparekura Road	2015/05/02 17:10	-36.595384,174.351886
+1519984	100 Edwards Road	2015/05/02 17:58	-36.435931,174.697027
+1519984	100 Edwards Road	2015/05/02 17:58	-36.435931,174.697027

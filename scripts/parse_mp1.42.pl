@@ -1056,8 +1056,12 @@ sub unnumbered_node_check {
 
 
 sub read_roads_not_2_index {
-	my $d1 = shift;
-	my $fn = "$d1$paperdir\\IgnoreIndexing.txt";
+	my $fn;
+	if (defined ($cmdopts{l})){
+		$fn = "$basedir\\$linzpaper\\IgnoreIndexing.txt";
+	} else {
+		$fn = "$basedir\\$paperdir\\IgnoreIndexing.txt";
+	}
 	if ( !open INF, $fn ){
 		print "File $fn not found\n";
 		return;
@@ -1065,7 +1069,9 @@ sub read_roads_not_2_index {
 
 	while (<INF>){
 		chomp;
+#		print "$_\n";
 		next if $_ eq "";
+		next if substr($_,1,1) eq "#";
 		push @namesnot2index,$_;
 	}
 }
@@ -1528,7 +1534,7 @@ overlap_check;
 
 unnumbered_node_check;
 
-read_roads_not_2_index($basedir);
+read_roads_not_2_index;
 no_city_index;
 
 read_number_csv($basefile,$basedir);

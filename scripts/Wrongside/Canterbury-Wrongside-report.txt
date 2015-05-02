@@ -1,19 +1,18 @@
 10 entries in ..\..\LinzDataService\PaperRoads\Canterbury-WrongSide.txt
 Warning: 1549567 on line 131 in ..\..\LinzDataService\PaperRoads\Canterbury-LINZWrongSide.txt - This ID is also set in the ignore file
 162 entries in ..\..\LinzDataService\PaperRoads\Canterbury-LINZWrongSide.txt
-148 wrongside numbers, 2 not in Exclusion files
+149 wrongside numbers, 2 not in Exclusion files
 3 entries in Ignore list are no longer on the wrong side
 1709873	21A UPPER CRICHTON TERRACE	2013/10/18 15:41	-43.569960,172.627782
 1709882	19A UPPER CRICHTON TERRACE	2013/10/18 15:41	-43.569670,172.627176
 1709884	21B UPPER CRICHTON TERRACE	2013/10/18 15:41	-43.569875,172.627296
 
-23 entries in Linz list are no longer on the wrong side
+22 entries in Linz list are no longer on the wrong side
 290956	582 FLEA BAY ROAD	2013/10/13 23:21	-43.862402,172.997329
 180111	8 PATRICIA PLACE	2013/10/21 16:41	-43.481407,172.576703
 286963	30 WHITEWASH HEAD ROAD	2013/10/16 10:40	-43.570800,172.773846	All the numbers here are quite close to the road 
 1760181	911 PORT LEVY-PIGEON BAY ROAD	2014/04/22 21:21	-43.660353,172.828044	There is a group here between these two ids (...313 and ...318) on this side of the road, which are all new. There are two other properties at the 'low' end of the road that are numbered opposite.
 1409014	283 MASKELLS ROAD	2013/10/09 11:45	-43.180344,172.664272
-287171	5 WESTRIDGE	2013/10/16 10:37	-43.576500,172.771289	Middle of the road
 290960	747 OVERTONS ROAD	2013/10/09 11:11	-42.894565,173.014233
 1549567	58 GOWERTON PLACE	2013/10/18 12:52	-43.519762,172.657319	55 is also close to centreline
 1420274	41 TAYLORS MISTAKE BAY (BEACH)	2013/10/16 10:32	-43.584981,172.776415	All the numbers here are quite close to the road - but this one's on the other side.

@@ -2,7 +2,7 @@ Warning: duplicate entries for 1418498 on line 18 in ..\..\LinzDataService\Paper
 35 entries in ..\..\LinzDataService\PaperRoads\Wellington-WrongSide.txt
 Warning: 411021 on line 25 in ..\..\LinzDataService\PaperRoads\Wellington-LINZWrongSide.txt - This ID is also set in the ignore file
 26 entries in ..\..\LinzDataService\PaperRoads\Wellington-LINZWrongSide.txt
-407 wrongside numbers, 356 not in Exclusion files
+408 wrongside numbers, 357 not in Exclusion files
 7 entries in Ignore list are no longer on the wrong side
 439823	9 ALDERSGATE GROVE	2014/02/19 17:06	-41.169373,174.972525
 1451595	13 KEEL PLACE	2013/12/30 16:38	-41.114430,174.889217

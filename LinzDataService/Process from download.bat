@@ -5,7 +5,7 @@ call ..\setlocals.bat
 start tortoiseproc /command:update /path:".." /closeonend:1
 @if not exist %nzogps_download%"lds-new-zealand-2layers-SHP.zip" echo new shapefile download not found. & goto :eof
 move %nzogps_download%"lds-new-zealand-2layers-SHP.zip" .
-%nzogps_unzip_cmd% lds-new-zealand-2layers-SHP.zip -olds-nz-street-address-electoral-SHP *\nz-street-address-electoral.*
+%nzogps_unzip_cmd% lds-new-zealand-2layers-SHP.zip -olds-nz-street-address-electoral-SHP *\nz-street-address-electoral-?.*
 if %ERRORLEVEL% GTR 0 echo Street address files not found in zip file & goto :eof
 %nzogps_unzip_cmd% lds-new-zealand-2layers-SHP.zip -olds-nz-road-centre-line-electoral-SHP *\nz-road-centre-line-electoral.*
 if %ERRORLEVEL% GTR 0 echo Road centre line  files not found in zip file & goto :eof

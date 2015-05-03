@@ -1,6 +1,6 @@
 5 entries in ..\..\LinzDataService\PaperRoads\Auckland-WrongSide.txt
-48 entries in ..\..\LinzDataService\PaperRoads\Auckland-LINZWrongSide.txt
-389 wrongside numbers, 374 not in Exclusion files
+49 entries in ..\..\LinzDataService\PaperRoads\Auckland-LINZWrongSide.txt
+349 wrongside numbers, 334 not in Exclusion files
 5 entries in Ignore list are no longer on the wrong side
 933164	17 TITOKI PLACE	2013/11/21 20:11	-35.704131,174.310709
 929121	104 NGAHERE DRIVE	2013/11/21 22:11	-35.736475,174.293782
@@ -8,7 +8,7 @@
 944252	18 ARAWA PLACE	2013/11/21 22:21	-35.756484,174.365036
 932922	35 HOEY STREET	2013/11/21 19:14	-35.689818,174.306720
 
-33 entries in Linz list are no longer on the wrong side
+34 entries in Linz list are no longer on the wrong side
 2359281	2 MARAE ROAD	2015/02/26 13:00	-36.851653,175.473761
 925035	1326 GIRLS HIGH SCHOOL ROAD	2013/11/01 17:18	-35.903032,174.093253
 1102494	14A GRANFIELD PLACE	2013/11/21 18:54	-35.687222,174.298581
@@ -38,6 +38,7 @@
 1567218	44 WOODLANDS HEIGHTS DRIVE	2013/11/21 22:37	-35.777052,174.429672
 929788	14A BUSH LANE	2013/10/27 15:18	-35.684554,174.296489
 1494191	22 Shamrock Drive	2015/05/02 17:02	-36.775355,174.552605
+1206118	77 Aulyn Drive	2015/05/03 16:27	-37.071558,174.858429	This road seems to change from odd to even on the left between 77 and 78
 919003	20 THIRD AVENUE	2013/11/01 17:00	-35.929945,173.874954
 708158	32 Adlor Hill Road	2015/05/02 15:48	-36.529868,175.467603	Numbers change side and direction from 32 (but 18's on the other side)
 929789	14B BUSH LANE	2013/10/27 15:18	-35.684675,174.296662

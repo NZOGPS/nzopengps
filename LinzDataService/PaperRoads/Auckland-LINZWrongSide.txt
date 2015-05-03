@@ -71,3 +71,4 @@ The marker is on the wrong side of the road. Correct location should be -35.7772
 1520050	85 Guy Road	2015/05/03 15:25	-36.436521,174.548354
 740556	2563 Tairua Road	2015/05/03 15:54	-37.069145,175.786416	S37.066494° E175.789241° may be better - on a drive.
 1206118	77 Aulyn Drive	2015/05/03 16:27	-37.071558,174.858429	This road seems to change from odd to even on the left between 77 and 78
+1031189	3 Frizell Street	2015/05/04 00:04	-36.786884,174.695195	Weird! 1,4 on one side, 2,3 on the other!

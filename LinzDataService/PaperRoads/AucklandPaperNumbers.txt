@@ -41,3 +41,4 @@
 1825772	E,130,130	LUNN AVE	Mount Wellington, Auckland(Auckland,NZ)	2013/09/19 17:04	-36.888010,174.831490
 1823751	E,16,18	RENDALL PL	Eden Terrace, Auckland(Auckland,NZ)	2013/09/20 14:41	-36.864806,174.757211
 1842979	O,3,11	TE HORETA RD, Panmure, Auckland	2014/11/04 manual entry	-36.90337 174.84187
+1821286	O,7,7	Hoteo River Rd	Mangakura(Auckland,NZ)	2015/05/03 21:54	-36.385240,174.516900	On Northland tile

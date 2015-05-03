@@ -1,7 +1,7 @@
 5 entries in ..\..\LinzDataService\PaperRoads\Auckland-WrongSide.txt
 Warning: duplicate entries for 1519984 on line 63 in ..\..\LinzDataService\PaperRoads\Auckland-LINZWrongSide.txt
 38 entries in ..\..\LinzDataService\PaperRoads\Auckland-LINZWrongSide.txt
-867 wrongside numbers, 862 not in Exclusion files
+572 wrongside numbers, 567 not in Exclusion files
 5 entries in Ignore list are no longer on the wrong side
 933164	17 TITOKI PLACE	2013/11/21 20:11	-35.704131,174.310709
 929121	104 NGAHERE DRIVE	2013/11/21 22:11	-35.736475,174.293782

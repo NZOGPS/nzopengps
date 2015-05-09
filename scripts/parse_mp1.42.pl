@@ -1251,7 +1251,7 @@ sub read_paper_road_numbers {
 		@chunks = split/\t/;
 		$idval = $chunks[0];
 		if (defined ($papernumbers{$idval})) {
-			print "Warning - in paper numbers file - Multiple definitions for sufi $idval\n";
+			print "Warning - in paper numbers file - Multiple definitions for id $idval\n";
 		}
 
 		while ($chunks[$i]=~/([OBE])\,(\d+),(\d+)/){

@@ -44,3 +44,7 @@
 1821286	O,7,7	Hoteo River Rd	Mangakura(Auckland,NZ)	2015/05/03 21:54	-36.385240,174.516900	On Northland tile
 1806599	O,455,455	Wade Rd	Whitianga(Waikato,NZ)	2015/05/05 22:04	-36.835270,175.645960
 1818882	O,57,81	Masons Rd	East Tamaki Heights, Manukau(Auckland,NZ)	2015/05/08 23:40	-36.938670,174.933150
+1824586	O,1,15	Norwich St	Eden Terrace, Auckland(Auckland,NZ)	2015/05/09 18:34	-36.864140,174.757660
+1823234	B,32,53	Morrison Dr	Hobsonville, Waitakere(Auckland,NZ)	2015/05/09 19:18	-36.797320,174.655040
+1823008	E,136,138	Clark Rd	Hobsonville, Waitakere(Auckland,NZ)	2015/05/09 19:18	-36.798430,174.648780
+1827130	E,10,34	O,25,25	Miro St	Drury(Auckland,NZ)	2015/05/09 19:20	-37.095960,174.946910

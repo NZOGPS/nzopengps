@@ -99,11 +99,26 @@ create type numberedline as
 
 
 create or replace function gt_distance(number integer, side integer, n1 integer, n2 integer) returns double precision as $$	
+DECLARE
+	nx double precision;
+	str text;
 BEGIN
 	if n1 = n2 then
 		return 0.5;
 	end if;
-	return (number - n1)::double precision/(n2-n1)::double precision;
+	nx = (number - n1)::double precision/(n2-n1)::double precision;
+	if nx > 1 then
+--		str = 'nx: '|| nx||' n1: '||n1||' n2: '||n2||' number: '||number;
+--		raise notice 'nx greater than 1: %',str;
+		return 1;
+	end if;
+	if nx < 0 then
+--		str = 'nx: '|| nx||' n1: '||n1||' n2: '||n2||' number: '||number;
+--		raise notice 'nx less than 0: %',str;
+		return 0;
+	end if;
+	return nx;
+	
 END;
 $$ language plpgsql;
 

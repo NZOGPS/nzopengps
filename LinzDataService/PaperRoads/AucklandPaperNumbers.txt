@@ -43,3 +43,4 @@
 1842979	O,3,11	TE HORETA RD, Panmure, Auckland	2014/11/04 manual entry	-36.90337 174.84187
 1821286	O,7,7	Hoteo River Rd	Mangakura(Auckland,NZ)	2015/05/03 21:54	-36.385240,174.516900	On Northland tile
 1806599	O,455,455	Wade Rd	Whitianga(Waikato,NZ)	2015/05/05 22:04	-36.835270,175.645960
+1818882	O,57,81	Masons Rd	East Tamaki Heights, Manukau(Auckland,NZ)	2015/05/08 23:40	-36.938670,174.933150

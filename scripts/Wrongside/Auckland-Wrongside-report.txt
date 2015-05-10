@@ -1,6 +1,6 @@
 5 entries in ..\..\LinzDataService\PaperRoads\Auckland-WrongSide.txt
-81 entries in ..\..\LinzDataService\PaperRoads\Auckland-LINZWrongSide.txt
-193 wrongside numbers, 151 not in Exclusion files
+86 entries in ..\..\LinzDataService\PaperRoads\Auckland-LINZWrongSide.txt
+159 wrongside numbers, 113 not in Exclusion files
 5 entries in Ignore list are no longer on the wrong side
 933164	17 TITOKI PLACE	2013/11/21 20:11	-35.704131,174.310709
 929121	104 NGAHERE DRIVE	2013/11/21 22:11	-35.736475,174.293782
@@ -8,7 +8,7 @@
 944252	18 ARAWA PLACE	2013/11/21 22:21	-35.756484,174.365036
 932922	35 HOEY STREET	2013/11/21 19:14	-35.689818,174.306720
 
-39 entries in Linz list are no longer on the wrong side
+40 entries in Linz list are no longer on the wrong side
 1426040	430 OTUHI ROAD	2013/11/01 17:34	-35.814084,174.152760
 916299	2013 SH 12	2013/11/01 16:28	-35.840170,173.757843
 915750	1753 BABYLON COAST ROAD	2013/10/28 22:19	-35.865169,173.668793
@@ -45,6 +45,7 @@
 918962	12B SECOND AVENUE	2013/11/01 16:58	-35.930372,173.874113
 1031189	3 Frizell Street	2015/05/04 00:04	-36.786884,174.695195	Weird! 1,4 on one side, 2,3 on the other!
 1567218	44 WOODLANDS HEIGHTS DRIVE	2013/11/21 22:37	-35.777052,174.429672
+1505541	115 Dormer Road	2015/05/09 23:14	-36.653442,174.532720	The road seems to change sides here.
 929788	14A BUSH LANE	2013/10/27 15:18	-35.684554,174.296489
 708158	32 Adlor Hill Road	2015/05/02 15:48	-36.529868,175.467603	Numbers change side and direction from 32 (but 18's on the other side)
 929789	14B BUSH LANE	2013/10/27 15:18	-35.684675,174.296662

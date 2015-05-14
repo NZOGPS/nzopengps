@@ -108,3 +108,5 @@ The marker is on the wrong side of the road. Correct location should be -35.7772
 1509579	99 Tender Road	2015/05/09 23:28	-36.663721,174.609369	Middle of the road?
 1510317	67 Matakatia Parade	2015/05/09 23:51	-36.623004,174.776264
 1519721	321 Spur Road	2015/05/10 00:34	-36.622085,174.691525	S36.622251° E174.691184° looks better
+294257	60 Masons Road	2015/05/15 01:28	-36.723273,174.715589	Middle of the formed road.
+1523514	2 Marae Road	2015/05/15 01:40	-36.851653,175.473761

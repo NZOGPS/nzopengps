@@ -1,13 +1,6 @@
-5 entries in ..\..\LinzDataService\PaperRoads\Auckland-WrongSide.txt
-86 entries in ..\..\LinzDataService\PaperRoads\Auckland-LINZWrongSide.txt
-159 wrongside numbers, 113 not in Exclusion files
-5 entries in Ignore list are no longer on the wrong side
-933164	17 TITOKI PLACE	2013/11/21 20:11	-35.704131,174.310709
-929121	104 NGAHERE DRIVE	2013/11/21 22:11	-35.736475,174.293782
-929124	106 NGAHERE DRIVE	2013/11/21 22:10	-35.736457,174.293566
-944252	18 ARAWA PLACE	2013/11/21 22:21	-35.756484,174.365036
-932922	35 HOEY STREET	2013/11/21 19:14	-35.689818,174.306720
-
+1 entries in ..\..\LinzDataService\PaperRoads\Auckland-WrongSide.txt
+88 entries in ..\..\LinzDataService\PaperRoads\Auckland-LINZWrongSide.txt
+51 wrongside numbers, 2 not in Exclusion files
 40 entries in Linz list are no longer on the wrong side
 1426040	430 OTUHI ROAD	2013/11/01 17:34	-35.814084,174.152760
 916299	2013 SH 12	2013/11/01 16:28	-35.840170,173.757843

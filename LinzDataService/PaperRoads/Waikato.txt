@@ -535,5 +535,8 @@
 1816031	STATE HIGHWAY 2
 1774011 ROADWAY
 1816184 sh 31
+1936303	Rangiwaea Island (Beach)
+1935790	Motuhoa Island (Beach)
+
 
 

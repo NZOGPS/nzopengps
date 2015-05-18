@@ -1,6 +1,6 @@
 1 entries in ..\..\LinzDataService\PaperRoads\Auckland-WrongSide.txt
 88 entries in ..\..\LinzDataService\PaperRoads\Auckland-LINZWrongSide.txt
-51 wrongside numbers, 2 not in Exclusion files
+52 wrongside numbers, 3 not in Exclusion files
 40 entries in Linz list are no longer on the wrong side
 1426040	430 OTUHI ROAD	2013/11/01 17:34	-35.814084,174.152760
 916299	2013 SH 12	2013/11/01 16:28	-35.840170,173.757843

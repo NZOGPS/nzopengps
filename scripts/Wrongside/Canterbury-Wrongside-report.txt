@@ -1,13 +1,14 @@
 10 entries in ..\..\LinzDataService\PaperRoads\Canterbury-WrongSide.txt
 Warning: 1549567 on line 131 in ..\..\LinzDataService\PaperRoads\Canterbury-LINZWrongSide.txt - This ID is also set in the ignore file
 162 entries in ..\..\LinzDataService\PaperRoads\Canterbury-LINZWrongSide.txt
-146 wrongside numbers,  not in Exclusion files
+144 wrongside numbers, 1 not in Exclusion files
 3 entries in Ignore list are no longer on the wrong side
 1709873	21A UPPER CRICHTON TERRACE	2013/10/18 15:41	-43.569960,172.627782
 1709882	19A UPPER CRICHTON TERRACE	2013/10/18 15:41	-43.569670,172.627176
 1709884	21B UPPER CRICHTON TERRACE	2013/10/18 15:41	-43.569875,172.627296
 
-23 entries in Linz list are no longer on the wrong side
+26 entries in Linz list are no longer on the wrong side
+120766	2846 Hakatere Potts Road	2015/04/10 10:52	-43.519740,170.874271
 290956	582 FLEA BAY ROAD	2013/10/13 23:21	-43.862402,172.997329
 180111	8 PATRICIA PLACE	2013/10/21 16:41	-43.481407,172.576703
 286963	30 WHITEWASH HEAD ROAD	2013/10/16 10:40	-43.570800,172.773846	All the numbers here are quite close to the road 
@@ -24,11 +25,13 @@ Warning: 1549567 on line 131 in ..\..\LinzDataService\PaperRoads\Canterbury-LINZ
 947708	78 WAIPARI ROAD	2013/10/21 17:15	-44.861200,170.827482	With this road, it's not clear to me which side of the road is odd/even. If 8 is on the correct side, it's actually 77/76 which are placed on the wrong side...
 1736376	323 BAXTERS ROAD	2013/12/01 13:37	-43.900926,171.301051
 1577963	46 ZIG ZAG ROAD	2013/10/21 17:24	-43.518296,171.662775
+1331225	222 McEvedys Road	2015/04/27 19:39	-43.869990,172.299244	better coords might be -43.867240,172.297483
 1423985	1140 MILLTOWN ROAD ARAWHATARAKI	2013/10/06 20:34	-42.822676,171.247770
 292363	21 THE CRESCENT	2013/10/21 16:23	-43.644621,172.471110	Your centreline and addresses appears perhaps a bit far north of the formed road here?
 1705745	220 MULLVIHILL ROAD	2013/10/09 12:45	-44.126539,171.046648	This is an odd one. Id=299372 is also 220! (and other side)
 273586	12 CLEMENTINE LANE	2013/10/16 12:02	-43.561727,172.713428
 1760186	905A PORT LEVY-PIGEON BAY ROAD	2014/04/22 21:21	-43.660723,172.828394
 290212	15 LIBEAU LANE	2013/10/13 23:19	-43.803704,172.973165	Middle of the road
+1697577	221 Office Road	2015/04/10 10:49	-43.870224,171.809581	Middle of the road
 179521	10 PATRICIA PLACE	2013/10/21 16:41	-43.481546,172.576582	These two/three perhaps further West?
 

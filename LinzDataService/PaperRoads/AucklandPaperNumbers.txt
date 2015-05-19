@@ -42,7 +42,7 @@
 1842979	O,3,11	TE HORETA RD, Panmure, Auckland	2014/11/04 manual entry	-36.90337 174.84187
 1821286	O,7,7	Hoteo River Rd	Mangakura(Auckland,NZ)	2015/05/03 21:54	-36.385240,174.516900	On Northland tile
 1806599	O,455,455	Wade Rd	Whitianga(Waikato,NZ)	2015/05/05 22:04	-36.835270,175.645960
-1818882	O,57,81	Masons Rd	East Tamaki Heights, Manukau(Auckland,NZ)	2015/05/08 23:40	-36.938670,174.933150
+1818882	O,81,81	Masons Rd	East Tamaki Heights, Manukau(Auckland,NZ)	2015/05/08 23:40	-36.938670,174.933150
 1824586	O,1,15	Norwich St	Eden Terrace, Auckland(Auckland,NZ)	2015/05/09 18:34	-36.864140,174.757660
 1823234	B,32,53	Morrison Dr	Hobsonville, Waitakere(Auckland,NZ)	2015/05/09 19:18	-36.797320,174.655040
 1823008	E,136,138	Clark Rd	Hobsonville, Waitakere(Auckland,NZ)	2015/05/09 19:18	-36.798430,174.648780
@@ -50,3 +50,4 @@
 1833160	O,91,91	~[0x04]1	Warkworth(Auckland,NZ)	2015/05/09 22:59	-36.391670,174.651090
 1831012	O,111,137	Kaipara Flats Rd	Dome Forest(Auckland,NZ)	2015/05/09 22:59	-36.388800,174.624480
 1830470	O,4321,4355	Great North Rd	Glendene, Waitakere(Auckland,NZ)	2015/05/15 01:56	-36.888760,174.644480	Have to paper these rather than linzid2 as the other side end duplicates
+1833163	O,119,119	~[0x04]1	Freemans Bay, Auckland(Auckland,NZ)	2015/05/19 19:16	-36.625090,174.662960

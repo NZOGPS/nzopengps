@@ -1,6 +1,6 @@
 1 entries in ..\..\LinzDataService\PaperRoads\Northland-WrongSide.txt
 140 entries in ..\..\LinzDataService\PaperRoads\Northland-LINZWrongSide.txt
-156 wrongside numbers, 27 not in Exclusion files
+157 wrongside numbers, 28 not in Exclusion files
 12 entries in Linz list are no longer on the wrong side
 1344529	517 WEST COAST ROAD	2013/12/14 16:12	-35.039396,173.170404
 1525950	515 WEST COAST ROAD	2013/12/14 16:12	-35.039306,173.170499

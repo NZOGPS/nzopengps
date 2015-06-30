@@ -1,6 +1,6 @@
 21 entries in ..\..\LinzDataService\PaperRoads\Central-WrongSide.txt
 156 entries in ..\..\LinzDataService\PaperRoads\Central-LINZWrongSide.txt
-175 wrongside numbers, 4 not in Exclusion files
+174 wrongside numbers, 3 not in Exclusion files
 6 entries in Linz list are no longer on the wrong side
 647106	84 Charlotte Street	2015/04/12 17:13	-40.030488,176.347441
 945205	135 RIMU ROAD	2014/04/13 07:56	-38.772397,175.033767

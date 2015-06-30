@@ -1,7 +1,7 @@
 10 entries in ..\..\LinzDataService\PaperRoads\Canterbury-WrongSide.txt
 Warning: 1549567 on line 131 in ..\..\LinzDataService\PaperRoads\Canterbury-LINZWrongSide.txt - This ID is also set in the ignore file
 162 entries in ..\..\LinzDataService\PaperRoads\Canterbury-LINZWrongSide.txt
-144 wrongside numbers, 1 not in Exclusion files
+145 wrongside numbers, 2 not in Exclusion files
 3 entries in Ignore list are no longer on the wrong side
 1709873	21A UPPER CRICHTON TERRACE	2013/10/18 15:41	-43.569960,172.627782
 1709882	19A UPPER CRICHTON TERRACE	2013/10/18 15:41	-43.569670,172.627176
@@ -14,7 +14,6 @@ Warning: 1549567 on line 131 in ..\..\LinzDataService\PaperRoads\Canterbury-LINZ
 286963	30 WHITEWASH HEAD ROAD	2013/10/16 10:40	-43.570800,172.773846	All the numbers here are quite close to the road 
 1760181	911 PORT LEVY-PIGEON BAY ROAD	2014/04/22 21:21	-43.660353,172.828044	There is a group here between these two ids (...313 and ...318) on this side of the road, which are all new. There are two other properties at the 'low' end of the road that are numbered opposite.
 1409014	283 MASKELLS ROAD	2013/10/09 11:45	-43.180344,172.664272
-287171	5 WESTRIDGE	2013/10/16 10:37	-43.576500,172.771289	Middle of the road
 290960	747 OVERTONS ROAD	2013/10/09 11:11	-42.894565,173.014233
 1549567	58 GOWERTON PLACE	2013/10/18 12:52	-43.519762,172.657319	55 is also close to centreline
 1420274	41 TAYLORS MISTAKE BAY (BEACH)	2013/10/16 10:32	-43.584981,172.776415	All the numbers here are quite close to the road - but this one's on the other side.
@@ -26,6 +25,7 @@ Warning: 1549567 on line 131 in ..\..\LinzDataService\PaperRoads\Canterbury-LINZ
 1736376	323 BAXTERS ROAD	2013/12/01 13:37	-43.900926,171.301051
 1577963	46 ZIG ZAG ROAD	2013/10/21 17:24	-43.518296,171.662775
 1331225	222 McEvedys Road	2015/04/27 19:39	-43.869990,172.299244	better coords might be -43.867240,172.297483
+26172	8 DUREY ROAD	2013/10/21 16:40	-43.489378,172.543118	On  the median strip! 
 1423985	1140 MILLTOWN ROAD ARAWHATARAKI	2013/10/06 20:34	-42.822676,171.247770
 292363	21 THE CRESCENT	2013/10/21 16:23	-43.644621,172.471110	Your centreline and addresses appears perhaps a bit far north of the formed road here?
 1705745	220 MULLVIHILL ROAD	2013/10/09 12:45	-44.126539,171.046648	This is an odd one. Id=299372 is also 220! (and other side)

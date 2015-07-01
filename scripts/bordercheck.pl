@@ -71,6 +71,7 @@ sub readtile{
 	my @datax;
 	my @datay;
 	my $label;
+	my $level;
 
 	open (INF,$ffn) or die "Can't open $ffn\n";
 	print "reading $ffn\n";
@@ -106,10 +107,15 @@ sub readtile{
 			$label = $1;
 		}
 		
+		if (/^EndLevel=(.*)/){
+			$level = $1;
+		}
+		
 		if (/^\[END\]/){
 			@datax=();
 			@datay=();
 			$label = "";
+			$level = 0;
 		}
 		
 		if (/^Nod\d+=(\d+),(\d+),1/){
@@ -118,7 +124,8 @@ sub readtile{
 #			print "External node: $nodnum,$nodid : $label - $datay[$nodnum],$datax[$nodnum]\n";
 			push @{$vals{bx}},$datax[$nodnum];
 			push @{$vals{by}},$datay[$nodnum];
-			push @{$vals{bl}},$label;			
+			push @{$vals{bl}},$label;
+			push @{$vals{be}},$level;
 		}
 	}
 	close(INF);
@@ -142,7 +149,8 @@ sub AssignEdge{
 			$val = $edge % 2 ? ${$bx}[$i] : ${$by}[$i];
 #			print "\tcompare: $max[$edge] to $val\n";
 			if ( $val == $max[$edge]){
-				push @{$tiles{$tile}->{bn}[$edge]},[$tiles{$tile}->{bl}[$i],${bx}->[$i],${by}->[$i],0];
+				#be (endlevel) at end since it was 'retrofitted'...
+				push @{$tiles{$tile}->{bn}[$edge]},[$tiles{$tile}->{bl}[$i],${bx}->[$i],${by}->[$i],0,$tiles{$tile}->{be}[$i]];
 				$tiles{$tile}->{en}[$i] += 1 << $edge;
 				$ok[$edge]++;
 #				print "node is on edge $edge\n";
@@ -151,7 +159,7 @@ sub AssignEdge{
 					$tiles{$tile}->{en}[$i] += 1 << $edge + 4;
 					$err[$edge]++;
 					$err = 1;
-					push @{$tiles{$tile}->{bn}[$edge]},[$tiles{$tile}->{bl}[$i],${bx}->[$i],${by}->[$i],1];
+					push @{$tiles{$tile}->{bn}[$edge]},[$tiles{$tile}->{bl}[$i],${bx}->[$i],${by}->[$i],1,$tiles{$tile}->{be}[$i]];
 #					print "node is near edge $edge\n";
 				}
 			}				
@@ -189,7 +197,7 @@ sub PrintNodes{
 	my @bxp = sort {$a->[1] <=> $b->[1]} @{$bnp};
 	print "all nodes on tile $tile\n";
 	for $i (0..$#bxp) {
-		print "\t$bxp[$i][0] at $bxp[$i][2],$bxp[$i][1]\n";
+		print "\t$bxp[$i][0] EndLevel $bxp[$i][4] at $bxp[$i][2],$bxp[$i][1]\n";
 	}
 }
 
@@ -205,8 +213,12 @@ sub CheckEdgeNodes{
 		T2: for $j (0..$#{$bnp2}){
 			if (uc($bnp1->[$i][0]) eq uc($bnp2->[$j][0]) and $bnp1->[$i][1]==$bnp2->[$j][1] and $bnp1->[$i][1]==$bnp2->[$j][1]){
 #				print "nodes for $bnp1->[$i][0] at $bnp1->[$i][2],$bnp1->[$i][1] are the same\n";
-				$bnp1->[$i][4]=1;
-				$bnp2->[$j][4]=1;
+				$bnp1->[$i][5]=1;
+				$bnp2->[$j][5]=1;
+				if (($bnp1->[$i][4]) !=($bnp2->[$j][4])){ #check end levels
+					print "End Levels are different!\n";
+					print "\t$bnp1->[$i][0] at $bnp1->[$i][2],$bnp1->[$i][1] - Levels are $bnp1->[$i][4],$bnp2->[$j][4]\n";
+				}
 				next T1;
 			}
 		}
@@ -214,7 +226,7 @@ sub CheckEdgeNodes{
 		
 	$i=$#{$bnp1};
 	while ($i>=0){
-		if ($bnp1->[$i][4]){
+		if ($bnp1->[$i][5]){
 			splice @{$bnp1},$i,1;
 		}
 		$i--;
@@ -230,7 +242,7 @@ sub CheckEdgeNodes{
 	
 	$i=$#{$bnp2};
 	while ($i>=0){
-		if ($bnp2->[$i][4]){
+		if ($bnp2->[$i][5]){
 			splice @{$bnp2},$i,1;
 		}
 		$i--;

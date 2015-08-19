@@ -1,6 +1,6 @@
 1 entries in ..\..\LinzDataService\PaperRoads\Tasman-WrongSide.txt
 73 entries in ..\..\LinzDataService\PaperRoads\Tasman-LINZWrongSide.txt
-72 wrongside numbers, 6 not in Exclusion files
+73 wrongside numbers, 7 not in Exclusion files
 8 entries in Linz list are no longer on the wrong side
 1308038	765 BILL BRYANTS ROAD	2014/06/10 20:36	-41.042752,173.727465
 1676913	589 UMERE ROAD	2014/06/09 22:48	-41.256113,172.186505	 Change of side compared to further south

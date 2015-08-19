@@ -1,10 +1,15 @@
 21 entries in ..\..\LinzDataService\PaperRoads\Central-WrongSide.txt
 156 entries in ..\..\LinzDataService\PaperRoads\Central-LINZWrongSide.txt
-174 wrongside numbers, 3 not in Exclusion files
-6 entries in Linz list are no longer on the wrong side
+176 wrongside numbers, 8 not in Exclusion files
+2 entries in Ignore list are no longer on the wrong side
+630775	1A Reeve Drive	2015/04/12 18:28	-39.671535,176.899066
+622902	2 Crosses Road	2015/04/14 19:53	-39.661864,176.883372
+
+7 entries in Linz list are no longer on the wrong side
 647106	84 Charlotte Street	2015/04/12 17:13	-40.030488,176.347441
 945205	135 RIMU ROAD	2014/04/13 07:56	-38.772397,175.033767
-596034	408 McVicar Road	2015/04/12 02:58	-39.197276,176.613057
+596271	859 Farm Road	2015/04/14 02:57	-40.044307,176.616262
+1849926	201 Huka Falls Road	2015/04/12 01:02	-38.657972,176.083104
 650375	2 Onslow Street West	2015/04/14 02:24	-39.862065,175.707149
 617115	155 Kaimata Road	2015/04/14 02:40	-39.403010,176.866925
 1355068	156 Kaimata Road	2015/04/14 02:40	-39.403409,176.867091

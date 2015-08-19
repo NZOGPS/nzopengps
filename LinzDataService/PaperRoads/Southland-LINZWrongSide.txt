@@ -116,3 +116,4 @@
 1845835	692 Morven Glenavy Road	2014/07/18 00:07	-44.861827,171.113275
 38284	162 Caversham Valley Road	2015/04/27 20:12	-45.895969,170.465851	Wrong side/on lane of new divided highway
 ----- Above sent to LINZ 27/04/2015 
+12268	121 Strathearn Road	2015/08/18 15:46	-46.153176,169.279527

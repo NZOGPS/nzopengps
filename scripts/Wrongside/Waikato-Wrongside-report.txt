@@ -74,7 +74,7 @@ Warning: 733292 on line 80 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrong
 Warning: duplicate entries for 733292 on line 80 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
 Warning: duplicate entries for 1282854 on line 96 in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
 100 entries in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-852 wrongside numbers, 639 not in Exclusion files
+849 wrongside numbers, 636 not in Exclusion files
 8 entries in Ignore list are no longer on the wrong side
 721243	4 VILLAGE ROAD	2013/10/15 19:47	-38.516940,175.552521
 744143	387 POKURU ROAD NORTH	2013/10/15 19:55	-38.443810,175.838029

@@ -2,7 +2,7 @@ Warning: duplicate entries for 1418498 on line 18 in ..\..\LinzDataService\Paper
 35 entries in ..\..\LinzDataService\PaperRoads\Wellington-WrongSide.txt
 Warning: 411021 on line 25 in ..\..\LinzDataService\PaperRoads\Wellington-LINZWrongSide.txt - This ID is also set in the ignore file
 26 entries in ..\..\LinzDataService\PaperRoads\Wellington-LINZWrongSide.txt
-407 wrongside numbers, 361 not in Exclusion files
+411 wrongside numbers, 365 not in Exclusion files
 9 entries in Ignore list are no longer on the wrong side
 439823	9 ALDERSGATE GROVE	2014/02/19 17:06	-41.169373,174.972525
 1418498	238 ALBERT STREET	2013/12/21 08:09	-40.357751,175.629047

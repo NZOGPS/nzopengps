@@ -1,6 +1,6 @@
 3 entries in ..\..\LinzDataService\PaperRoads\Auckland-WrongSide.txt
 88 entries in ..\..\LinzDataService\PaperRoads\Auckland-LINZWrongSide.txt
-35 wrongside numbers, 6 not in Exclusion files
+36 wrongside numbers, 7 not in Exclusion files
 62 entries in Linz list are no longer on the wrong side
 1169764	19 Hapimana Street	2015/05/02 01:15	-36.845853,174.824123	Seems to be in the middle of the road
 1153131	4 Tanners Road	2015/05/02 13:21	-36.951185,174.791275

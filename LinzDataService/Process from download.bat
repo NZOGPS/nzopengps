@@ -2,7 +2,8 @@
 if not exist ..\setlocals.bat echo ..\setlocals.bat not found. You need to copy and customise the sample file & goto :eof
 call ..\setlocals.bat
 @echo on
-start tortoiseproc /command:update /path:".." /closeonend:1
+rem start tortoiseproc /command:update /path:".." /closeonend:1
+start git pull -v
 @if not exist %nzogps_download%"lds-new-zealand-2layers-SHP.zip" echo new shapefile download not found. & goto :eof
 move %nzogps_download%"lds-new-zealand-2layers-SHP.zip" .
 del lds-nz-street-address-electoral-SHP\nz*.*

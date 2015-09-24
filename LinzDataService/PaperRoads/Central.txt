@@ -697,3 +697,4 @@ NO SUFI			ARDEN ST		New Plymouth (Taranaki, NZ)
 1837832	State Highway  2B	18/05/15 23:38	-39.4966666333,176.8739761333	Bulk import from Report2
 1839459	State Highway 44	18/05/15 23:38	-39.06239725,174.0370846167	Bulk import from Report2
 1798874	Kokopunui Rd	Pukeokahu(Manawatu-Wanganui,NZ)	2015/08/30 08:03	-39.643480,175.979790
+1798876	Mokai Horse Trk		2015/09/25 10:23	-39.731970,176.075380

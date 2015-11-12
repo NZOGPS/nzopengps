@@ -1,3 +1,4 @@
 cd ..
-svn up
+rem svn up
+%nzogps_git% pull
 pause

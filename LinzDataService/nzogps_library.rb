@@ -267,8 +267,8 @@ def identify_tile_from_wkt_envelope(record)
     if ((maxy <= -36.38880) && (maxy >= -37.105228)) then tiles << "Auckland" end 
     if ((maxy <= -37.105228) && (maxy >= -38.638100)) then tiles << "Waikato" end 
     if ((maxy <= -38.638100) && (maxy >= -40.170971)) then tiles << "Central" end
-    if (((maxy <= -40.170971) && (maxy >= -41.703838)) && (minx >= 174.3)) then tiles << "Wellington" end 
-    if (((maxy <= -40.407970) && (maxy >= -42.731949)) && (maxx <= 174.3)) then tiles << "Tasman" end 
+    if (((maxy <= -40.170971) && (maxy >= -41.703838)) && (minx >= 174.56166)) then tiles << "Wellington" end 
+    if (((maxy <= -40.407970) && (maxy >= -42.731949)) && (maxx <= 174.56166)) then tiles << "Tasman" end 
     if ((maxy <= -42.731949) && (maxy >=  -44.55553)) then tiles << "Canterbury" end
     if ((maxy <=  -44.555530) && (maxy >= -47.379910)) then tiles << "Southland" end 
 

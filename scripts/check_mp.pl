@@ -1104,7 +1104,8 @@ sub rbout_level_check {
 					my $road2 = $_;
 					@routeprm = split /,/,$$road2[6];
 					if ( $routeprm[1] > $rbclass ){
-						print "road id $$road2[5] - class $routeprm[1] is higher class than roundabout id $$road[5] class $rbclass at $nodid[3],$nodid[4]\n"
+						print "road id $$road2[5] - class $routeprm[1] is higher class than roundabout id $$road[5] class $rbclass at $nodid[3],$nodid[4]\n";
+						print MISSFILE "$nodid[4],$nodid[3],Low class Roundabout,Road Id $$road[5]\n";
 					}
 				}
 			}

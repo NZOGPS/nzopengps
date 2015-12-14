@@ -774,6 +774,7 @@ sub routing_check {
 		$walkway = (oct($$road[1])==0x16);
 		$roundabout = (oct($$road[1])==0xc);
 
+		@routeprm = split /,/,$$road[6];
 		$diri = $$road[16];
 		$dirr = $routeprm[2];
 		$speed7 =(oct($routeprm[0])==0x7);

@@ -1061,7 +1061,9 @@ sub rbout_level_check {
 	my @routeprm;
 	my $rbclass;
 	my @nodid;
-#	my $i;
+	my $hiclass;
+	my $hiroad;
+	my @hinode;
 
 	print "Check roundabouts are high enough level...\n";
 	for $road (@roads) {	# go through all roads - put node ids into %bynodid
@@ -1094,6 +1096,9 @@ sub rbout_level_check {
 		if(oct($$road[1])==0xc){	# this time only look at roundabouts
 			@routeprm = split /,/,$$road[6];
 			$rbclass = $routeprm[1];
+			$hiclass = $rbclass;
+			undef $hiroad;
+			undef @hinode;
 			if($debug{'rblvlchk'}>1){
 				print "checking road id $$road[5] - class $rbclass\n"
 			}			
@@ -1103,11 +1108,16 @@ sub rbout_level_check {
 				for (@{$bynodid{${$_}[1]}}){
 					my $road2 = $_;
 					@routeprm = split /,/,$$road2[6];
-					if ( $routeprm[1] > $rbclass ){
-						print "road id $$road2[5] - class $routeprm[1] is higher class than roundabout id $$road[5] class $rbclass at $nodid[3],$nodid[4]\n";
-						print MISSFILE "$nodid[4],$nodid[3],Low class Roundabout,Road Id $$road[5]\n";
+					if ( $routeprm[1] > $hiclass ){
+						$hiclass = $routeprm[1];
+						@hinode = @nodid;
+						$hiroad = $road2;
 					}
 				}
+			}
+			if (@hinode){
+				print "road id $$hiroad[5] - class $hiclass is higher class than roundabout id $$road[5] class $rbclass at $hinode[3],$hinode[4]\n";
+				print MISSFILE "$hinode[4],$hinode[3],Low class Roundabout,Road Id $$road[5]\n";
 			}
 		}
 	}

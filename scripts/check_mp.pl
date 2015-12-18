@@ -1117,7 +1117,7 @@ sub rbout_level_check {
 			}
 			if (@hinode){
 				print "road id $$hiroad[5] - class $hiclass is higher class than roundabout id $$road[5] class $rbclass at $hinode[3],$hinode[4]\n";
-				print MISSFILE "$hinode[4],$hinode[3],Low class Roundabout,Road Id $$road[5]\n";
+				print MISSFILE "$hinode[4],$hinode[3],Low class RBout-$hiclass,Road Id $$road[5]\n";
 			}
 		}
 	}

@@ -1,9 +1,10 @@
-set nzogps_cgps=e:\bin\cgpsmapper_route_100d
-set nzogps_cprv=e:\bin\cpreview6.9
-set nzogps_iscc="E:/Program Files/Inno Setup 5/iscc"
+if  defined %nzogps_cgps% goto itsset
+call ..\setlocals.bat
+:itsset
 
-call tortoiseproc /command:update /path:"..\.." /closeonend:1
+%nzogps_git% pull
 
+:: Make 7 bit copies of map files here. 
 set capit=8
 cd ..\..\scripts
 ruby parseMP.rb 1 %capit%
@@ -29,24 +30,21 @@ cd ..\installer\uppercase
 %nzogps_cgps% ac "Southland.mp" > SouthlandcompileLog.txt 
 
 ::  Compile POI Files
-%nzogps_cgps% ac NZPOIs3A.mp
-%nzogps_cgps% ac NZPOIs3B.mp
+%nzogps_cgps% ac NZPOIs3A.mp > NIPOIcompileLog.txt
+%nzogps_cgps% ac NZPOIs3B.mp > SIPOIcompileLog.txt
 
-
-::
 ::
 :: *** changing POI file TRE to 1,3,17,9
 ::
 
 :: call "NZ Open Zenbu POI Single Mapset.bat"
 
-
-
 :: PREPARE NEW PV FILE WITH CURRENT DATE FOR MAPSOURCE VERSION IDENTIFICATION
 ::
 :: Delete previous pv file so new file with current date can be generated
 del NZO5_pv.txt
 ::Run vbscript that generates newfile with current date for Mapsourse Copyright (version)
+
 cscript /nologo ..\DateScript.vbs  > NZO5_pv.txt
 
 :: Compile Global Index's and preview maps
@@ -62,9 +60,7 @@ rem  *** Removing Codepage from  Free Open GPS NZ Autorouting.mp.... ***
 rem
 rem
 
-C:\Ruby193\devkit\bin\perl ../RemoveCodepage.pl "Free Open GPS NZ Autorouting.mp"
-
-rem
+%nzogps_perl_cmd% ../RemoveCodepage.pl "Free Open GPS NZ Autorouting.mp"
 
 %nzogps_cgps% ac "Free Open GPS NZ Autorouting.mp" -o "Free Open GPS NZ Autorouting.img"
 

@@ -9,6 +9,11 @@ set nzogps_psql_bin="C:\Program Files\PostgreSQL\9.1\bin\"
 set nzogps_psql_svc="postgresql-9.1 - PostgreSQL Server 9.1"
 set nzogps_donumbers=/low GenerateNumbers.bat
 set nzogps_git="c:\Program Files\Git\bin\git.exe"
+rem for getting zenbu files...
 set nzogps_curl="C:\Program Files\Git\mingw64\bin\curl"
 set nzogps_bunzip="C:\Program Files\Git\mingw64\bin\bunzip2"
 set nzogps_zenbu_user=user:password
+rem for compiling maps...
+set nzogps_cgps=e:\bin\cgpsmapper_route_100d
+set nzogps_cprv=e:\bin\cpreview6.9
+set nzogps_iscc="E:/Program Files/Inno Setup 5/iscc"

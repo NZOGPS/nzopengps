@@ -537,6 +537,7 @@
 1816184 sh 31
 1936303	Rangiwaea Island (Beach)
 1935790	Motuhoa Island (Beach)
+1774011	Roadway 
 
 
 

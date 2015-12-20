@@ -1,6 +1,4 @@
-if  defined %nzogps_cgps% goto itsset
-call ..\setlocals.bat
-:itsset
+if not defined nzogps_cgps call ..\..\setlocals.bat
 
 %nzogps_git% pull
 

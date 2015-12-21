@@ -698,3 +698,5 @@ NO SUFI			ARDEN ST		New Plymouth (Taranaki, NZ)
 1798874	Kokopunui Rd	Pukeokahu(Manawatu-Wanganui,NZ)	2015/08/30 08:03	-39.643480,175.979790
 1798876	Mokai Horse Trk		2015/09/25 10:23	-39.731970,176.075380
 1803839	Racecourse Rd	Bay View, Napier(Hawke's Bay,NZ)	2015/12/13 16:28	-39.417530,176.862030
+1812409	Mamaha St	Taupo(Waikato,NZ)	2015/12/21 16:50	-38.678590,176.076500
+1812447	Waikato Street Lane	Taupo(Waikato,NZ)	2015/12/21 16:50	-38.680260,176.074230

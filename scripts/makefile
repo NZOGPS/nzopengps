@@ -1,5 +1,5 @@
 ifndef nzogps_base
-$(error nzogps_base environment variable not set)
+$(error nzogps_base environment variable not set - run setlocals first)
 endif
 
 .SUFFIXES:

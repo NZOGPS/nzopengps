@@ -1,7 +1,6 @@
 @echo off
 if not exist ..\setlocals.bat echo ..\setlocals.bat not found. You need to copy and customise the sample file & goto :eof
 if not defined nzogps_base call ..\setlocals.bat
-call ..\setlocals.bat
 @echo on
 rem start tortoiseproc /command:update /path:".." /closeonend:1
 %nzogps_git% pull -v

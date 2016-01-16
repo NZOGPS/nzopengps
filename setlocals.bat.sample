@@ -14,6 +14,9 @@ set nzogps_curl="C:\Program Files\Git\mingw64\bin\curl"
 set nzogps_bunzip="C:\Program Files\Git\mingw64\bin\bunzip2"
 set nzogps_zenbu_user=user:password
 rem for compiling maps...
-set nzogps_cgps=e:\bin\cgpsmapper_route_100d
-set nzogps_cprv=e:\bin\cpreview6.9
-set nzogps_iscc="E:/Program Files/Inno Setup 5/iscc"
+set nzogps_cgps="C:\Program Files\cgpsmapper"
+set nzogps_cprv="C:\Program Files\cpreview"
+set nzogps_iscc="C:\Program Files\Inno Setup 5\iscc"
+set nzogps_inst_creator=Unknown
+set nzogps_inst_image=installer-image.bmp
+set nzogps_inst_loc=tmp

@@ -1,66 +1,74 @@
-set cgpsmapperLocation="C:/Program Files (x86)/cgpsmapper"
-set innoSetupLocation="C:/Program Files (x86)/Inno Setup 5"
+:: set up environment variables if not already set
+::
+if not defined nzogps_git call ..\setlocals.bat
 
-call tortoiseproc /command:update /path:".." /closeonend:1
+: update map files
+:
+: tortoiseproc was old svn update
+: call tortoiseproc /command:update /path:".." /closeonend:1
 
-rem
-rem
-rem  *** Removing Codepage from Map .mp files.... ***
-rem
-rem
+%nzogps_git% pull -v
 
-:: C:\Ruby193\devkit\bin\perl RemoveCodepage.pl "../Northland.mp"
-:: C:\Ruby193\devkit\bin\perl RemoveCodepage.pl "../Auckland.mp"
-:: C:\Ruby193\devkit\bin\perl RemoveCodepage.pl "../Waikato.mp"
-:: C:\Ruby193\devkit\bin\perl RemoveCodepage.pl "../Central.mp"
-:: C:\Ruby193\devkit\bin\perl RemoveCodepage.pl "../Wellington.mp"
-:: C:\Ruby193\devkit\bin\perl RemoveCodepage.pl "../Tasman.mp"
-:: C:\Ruby193\devkit\bin\perl RemoveCodepage.pl "../Canterbury.mp"
-:: C:\Ruby193\devkit\bin\perl RemoveCodepage.pl "../Southland.mp"
+:
+:  *** Removing Codepage from Map .mp files.... ***
+:  no longer relevant for 9 bit maps
+:
 
+:: %nzogps_perl_cmd% RemoveCodepage.pl "../Northland.mp"
+:: %nzogps_perl_cmd% RemoveCodepage.pl "../Auckland.mp"
+:: %nzogps_perl_cmd% RemoveCodepage.pl "../Waikato.mp"
+:: %nzogps_perl_cmd% RemoveCodepage.pl "../Central.mp"
+:: %nzogps_perl_cmd% RemoveCodepage.pl "../Wellington.mp"
+:: %nzogps_perl_cmd% RemoveCodepage.pl "../Tasman.mp"
+:: %nzogps_perl_cmd% RemoveCodepage.pl "../Canterbury.mp"
+:: %nzogps_perl_cmd% RemoveCodepage.pl "../Southland.mp"
 
+:: set up base location to come back to
+set nzogps_inst_pwd=%CD%
+:: check that compile location exists
+if not exist %nzogps_inst_loc% echo %nzogps_inst_loc% does not exist &goto :eof
+cd %nzogps_inst_loc%
 
-cd tmp
 :: Compile Map Tiles
-%cgpsmapperLocation%\cgpsmapper ac "../../Northland.mp" > NorthlandcompileLog.txt
-%cgpsmapperLocation%\cgpsmapper ac "..\..\Auckland.mp" > AucklandcompileLog.txt 
-%cgpsmapperLocation%\cgpsmapper ac "..\..\Waikato.mp" > WaikatocompileLog.txt 
-%cgpsmapperLocation%\cgpsmapper ac "..\..\Central.mp" > CentralcompileLog.txt 
-%cgpsmapperLocation%\cgpsmapper ac "..\..\Wellington.mp" > WellingtoncompileLog.txt 
-%cgpsmapperLocation%\cgpsmapper ac "..\..\Tasman.mp" > TasmancompileLog.txt 
-%cgpsmapperLocation%\cgpsmapper ac "..\..\Canterbury.mp" > CanterburycompileLog.txt 
-%cgpsmapperLocation%\cgpsmapper ac "..\..\Southland.mp" > SouthlandcompileLog.txt 
-
+%nzogps_cgps% ac "%nzogps_base%\Northland.mp" > NorthlandcompileLog.txt
+%nzogps_cgps% ac "%nzogps_base%\Auckland.mp" > AucklandcompileLog.txt 
+%nzogps_cgps% ac "%nzogps_base%\Waikato.mp" > WaikatocompileLog.txt 
+%nzogps_cgps% ac "%nzogps_base%\Central.mp" > CentralcompileLog.txt 
+%nzogps_cgps% ac "%nzogps_base%\Wellington.mp" > WellingtoncompileLog.txt 
+%nzogps_cgps% ac "%nzogps_base%\Tasman.mp" > TasmancompileLog.txt 
+%nzogps_cgps% ac "%nzogps_base%\Canterbury.mp" > CanterburycompileLog.txt 
+%nzogps_cgps% ac "%nzogps_base%\Southland.mp" > SouthlandcompileLog.txt 
 
 ::  Compile POI Files
-%cgpsmapperLocation%\cgpsmapper ac "..\..\NZPOIs3A.mp
-%cgpsmapperLocation%\cgpsmapper ac "..\..\NZPOIs3B.mp
+%nzogps_cgps% ac "%nzogps_base%\NZPOIs3A.mp" > NIPOIcompileLog.txt 
+%nzogps_cgps% ac "%nzogps_base%\NZPOIs3B.mp" > SIPOIcompileLog.txt 
 
-::  Compile TYP files
-rem %cgpsmapperLocation%\cgpsmapper typ "..\..\Traffic Lights TYP.txt"
-
-cd ..
-
+:: go back to compile start location
 ::
+cd %nzogps_inst_pwd%
+
 ::
 :: *** changing POI file TRE to 1,3,17,9
 ::
 
-call "NZ Open Zenbu POI Single Mapset.bat"
+:: call "NZ Open Zenbu POI Single Mapset.bat"
 
 
-
+::
 :: PREPARE NEW PV FILE WITH CURRENT DATE FOR MAPSOURCE VERSION IDENTIFICATION
 ::
+
 :: Delete previous pv file so new file with current date can be generated
 del NZO5_pv.txt
-::Run vbscript that generates newfile with current date for Mapsourse Copyright (version)
-cscript /nologo DateScript.vbs  > tmp/NZO5_pv.txt
 
-cd tmp
+::Run vbscript that generates newfile with current date for Mapsourse Copyright (version)
+cscript /nologo DateScript.vbs  > %nzogps_inst_loc%/NZO5_pv.txt
+
+cd %nzogps_inst_loc%
+
 :: Compile Global Index's and preview maps
 ::
-%cgpsmapperLocation%\cpreview "NZO5_pv.txt"
+%nzogps_cprv% "NZO5_pv.txt"
 
 
 :: Compile Preview File
@@ -71,14 +79,15 @@ rem  *** Removing Codepage from  Free Open GPS NZ Autorouting.mp.... ***
 rem
 rem
 
-:: C:\Ruby193\devkit\bin\perl ../RemoveCodepage.pl "Free Open GPS NZ Autorouting.mp"
+:: %nzogps_perl_cmd% ../RemoveCodepage.pl "Free Open GPS NZ Autorouting.mp"
 
 rem
 
-%cgpsmapperLocation%\cgpsmapper ac "Free Open GPS NZ Autorouting.mp" -o "Free Open GPS NZ Autorouting.img"
+%nzogps_cgps% ac "Free Open GPS NZ Autorouting.mp" -o "Free Open GPS NZ Autorouting.img"
 
 
-cd ..
+cd %nzogps_inst_pwd%
+
 :: Compile Installer
-%innoSetupLocation%\iscc "NZ OpenGPS Setup.iss"
+%nzogps_iscc% /dSdir=%nzogps_inst_loc% /dBdir=%nzogps_base% /dWImg=installer-image.bmp "NZ OpenGPS Setup.iss"
 pause

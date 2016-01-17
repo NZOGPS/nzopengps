@@ -1,6 +1,9 @@
 ' ---------------------------------------------------------------------------------------------------------------------------------------------------------
-' AUTHOR: 	Brett Hodgson
+' AUTHOR:	Brett Hodgson
 ' DATE:		16 May 2010
+' MODIFIED:	Gary Turner
+' DATE:		16 Jan 2015
+' PURPOSE:	Get author from Environment
 '
 'PURPOSE: 
 'This script creates a cgpsmapper .pv file with the current date for Mapsource Version Identification.  
@@ -19,16 +22,25 @@ Set objFS = CreateObject("Scripting.FileSystemObject")
 strFile = "NZO5_pv_template.txt"
 Set objFile = objFS.OpenTextFile(strFile)
 
+Set wshShell = CreateObject( "WScript.Shell" )
+creator = wshShell.ExpandEnvironmentStrings( "%nzogps_inst_creator%" )
+if creator = "%nzogps_inst_creator%" then creator = "Unknown"
+subdir = wshShell.ExpandEnvironmentStrings( "%nzogps_inst_loc%" )
+if subdir = "%nzogps_inst_loc%" then subdir = ""
+
 Dim sCurPath
 sCurPath = objFS.GetAbsolutePathName(".")
+sCurPath = objFS.BuildPath(sCurPath,subdir)
+
 'find #DATE# line in pv template file and replace with actual date and time 
 Do Until objFile.AtEndOfStream
-    strLine = objFile.ReadLine
-    If InStr(strLine,"Copy1")> 0 Then
-        strLine = Replace(strLine,"#{DATE}",newDate)
+	strLine = objFile.ReadLine
+	If InStr(strLine,"Copy1")> 0 Then
+		strLine = Replace(strLine,"#{DATE}",newDate)
+		strLine = Replace(strLine,"#{CREATOR}",creator)
 	End If
 	If InStr(strLine,"#{PATH}")> 0 Then
-        strLine = Replace(strLine,"#{PATH}",sCurPath)
+		strLine = Replace(strLine,"#{PATH}",sCurPath)
 	End If
 	
 	' write eachline of existing NZO5_pv_template.txt file and updated Copy1 string to newfile.txt

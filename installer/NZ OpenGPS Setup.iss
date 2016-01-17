@@ -17,15 +17,15 @@ AppUpdatesURL=http://gwprojects.org/gps/
 DefaultDirName={pf}\NZ Open Autorouting GPS Project
 DefaultGroupName=NZ Open Autorouting GPS Project
 LicenseFile=installer-license.txt
-OutputDir=tmp
+OutputDir={#Sdir}
 OutputBaseFilename={#MyVersion}_FREE_OpenGPS_NZ_Maps_Setup
 Compression=lzma/max
 SolidCompression=true
-WizardImageFile=installer-image.bmp
+WizardImageFile={#WImg}
 WizardSmallImageFile=compiler:WizModernSmallImage-IS.bmp
 WizardImageStretch=false
 InfoAfterFile=installer_readme.txt
-AppCopyright=Copyright © 2004, 2005, 2006, 2007, 2008, 2009, 2010
+AppCopyright=Copyright © 2004-2016
 UninstallFilesDir={app}
 UninstallLogMode=overwrite
 InternalCompressLevel=max
@@ -49,24 +49,24 @@ Name: {group}\NZ Open GPS Project Forum; Filename: http://gwprojects.org/forum/
 ;BMAPfile: String;
 ;ProductCode: String
 
-Source: tmp/64000012.img; DestDir: {app}; Flags: promptifolder; Check: CreateRegistry(ExpandConstant('{app}\OS_type.typ'), ExpandConstant('{app}\Free Open GPS NZ Autorouting.MDX'),ExpandConstant('{app}\FREE OPEN GPS NZ AUTOROUTING_MDR.IMG'), ExpandConstant('{app}'), ExpandConstant('{app}\Free Open GPS NZ Autorouting.TDB'), ExpandConstant('{app}\Free Open GPS NZ Autorouting.img'), '1')
-Source: tmp/64000013.img; DestDir: {app}; Flags: promptifolder
-Source: tmp/64000014.img; DestDir: {app}; Flags: promptifolder
-Source: tmp/64000015.img; DestDir: {app}; Flags: promptifolder
-Source: tmp/64000016.img; DestDir: {app}; Flags: promptifolder
-Source: tmp/64000017.img; DestDir: {app}; Flags: promptifolder
-Source: tmp/64000018.img; DestDir: {app}; Flags: promptifolder
-Source: tmp/64000019.img; DestDir: {app}; Flags: promptifolder
-Source: tmp/64000020.img; DestDir: {app}; Flags: promptifolder
-Source: tmp/64000021.img; DestDir: {app}; Flags: promptifolder
-Source: tmp/Free Open GPS NZ Autorouting.img; DestDir: {app}; Flags: promptifolder
-Source: tmp/Free Open GPS NZ Autorouting.MDX; DestDir: {app}; Flags: promptifolder
-Source: tmp/Free Open GPS NZ Autorouting.TDB; DestDir: {app}; Flags: promptifolder
-Source: tmp/FREE OPEN GPS NZ AUTOROUTING_MDR.IMG; DestDir: {app}; Flags: promptifolder
+Source: {#Sdir}\64000012.img; DestDir: {app}; Flags: promptifolder; Check: CreateRegistry(ExpandConstant('{app}\OS_type.typ'), ExpandConstant('{app}\Free Open GPS NZ Autorouting.MDX'),ExpandConstant('{app}\FREE OPEN GPS NZ AUTOROUTING_MDR.IMG'), ExpandConstant('{app}'), ExpandConstant('{app}\Free Open GPS NZ Autorouting.TDB'), ExpandConstant('{app}\Free Open GPS NZ Autorouting.img'), '1')
+Source: {#Sdir}\64000013.img; DestDir: {app}; Flags: promptifolder
+Source: {#Sdir}\64000014.img; DestDir: {app}; Flags: promptifolder
+Source: {#Sdir}\64000015.img; DestDir: {app}; Flags: promptifolder
+Source: {#Sdir}\64000016.img; DestDir: {app}; Flags: promptifolder
+Source: {#Sdir}\64000017.img; DestDir: {app}; Flags: promptifolder
+Source: {#Sdir}\64000018.img; DestDir: {app}; Flags: promptifolder
+Source: {#Sdir}\64000019.img; DestDir: {app}; Flags: promptifolder
+Source: {#Sdir}\64000020.img; DestDir: {app}; Flags: promptifolder
+Source: {#Sdir}\64000021.img; DestDir: {app}; Flags: promptifolder
+Source: {#Sdir}\Free Open GPS NZ Autorouting.img; DestDir: {app}; Flags: promptifolder
+Source: {#Sdir}\Free Open GPS NZ Autorouting.MDX; DestDir: {app}; Flags: promptifolder
+Source: {#Sdir}\Free Open GPS NZ Autorouting.TDB; DestDir: {app}; Flags: promptifolder
+Source: {#Sdir}\FREE OPEN GPS NZ AUTOROUTING_MDR.IMG; DestDir: {app}; Flags: promptifolder
 Source: installer_readme.txt; DestDir: {app}; Flags: promptifolder
 Source: installer-license.txt; DestDir: {app}; Flags: promptifolder
-Source: ../TypeFiles/TYPNUL00.typ; DestDir: "{app}"; Flags: promptifolder; DestName: OS_type.typ; Check: S0
-Source: ../TypeFiles/TYPOPT01.typ; DestDir: "{app}"; Flags: promptifolder; DestName: OS_type.typ; Check: S1
+Source: {#Bdir}/TypeFiles/TYPNUL00.typ; DestDir: "{app}"; Flags: promptifolder; DestName: OS_type.typ; Check: S0
+Source: {#Bdir}/TypeFiles/TYPOPT01.typ; DestDir: "{app}"; Flags: promptifolder; DestName: OS_type.typ; Check: S1
 
 
 [Code]

@@ -31,6 +31,7 @@ if subdir = "%nzogps_inst_loc%" then subdir = ""
 Dim sCurPath
 sCurPath = objFS.GetAbsolutePathName(".")
 sCurPath = objFS.BuildPath(sCurPath,subdir)
+sCurPath = objFS.GetAbsolutePathName(sCurPath)
 
 'find #DATE# line in pv template file and replace with actual date and time 
 Do Until objFile.AtEndOfStream

@@ -155,3 +155,9 @@
 1560775	1A Dawson Street	2015/04/15 13:48	-39.463680,175.677556
 1612752	70 Bredow Road	2015/04/15 16:49	-39.311996,174.462831	Looks like this road was renamed from xxx old rd at some stage. Maybe the side inconsistency was a hangover from that?
 ----- Above sent to LINZ 27/04/2015 
+1938258	609 Waituna Tapuae Road	2016/01/31 16:10	-40.026555,175.696019	no obvious dwelling here on 2010 streetview 
+1858324	750 Paget Road	2016/01/31 16:11	-40.008456,176.235922	Streetview shows dwelling with 750, but it's the wrong side compared to all others on the road. Looks like it should be 763.
+1955937	650 Craggy Range Road	2016/01/31 16:14	-39.683172,176.988627	 Odd numbering. Right next to 513.
+884808	396 King Road	2016/01/31 16:17	-39.123438,174.184507
+1574343	151 Napier Road	2016/01/31 16:39	-38.705044,176.105475
+591522	11 Carsons Road	2016/01/31 16:42	-39.793182,176.228221	Both your centreline and the two dwellings are offset about 40m West from the actual road. As we have corrected the road, these dwelling points appear on the wrong side.  This dwelling appears to be at S39°47.642' E176°13.823'

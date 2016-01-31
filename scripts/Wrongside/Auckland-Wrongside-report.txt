@@ -1,10 +1,14 @@
 3 entries in ..\..\LinzDataService\PaperRoads\Auckland-WrongSide.txt
 88 entries in ..\..\LinzDataService\PaperRoads\Auckland-LINZWrongSide.txt
-36 wrongside numbers, 7 not in Exclusion files
-62 entries in Linz list are no longer on the wrong side
+31 wrongside numbers, 8 not in Exclusion files
+68 entries in Linz list are no longer on the wrong side
+1519721	321 Spur Road	2015/05/10 00:34	-36.622085,174.691525	S36.622251° E174.691184° looks better
 1169764	19 Hapimana Street	2015/05/02 01:15	-36.845853,174.824123	Seems to be in the middle of the road
 1153131	4 Tanners Road	2015/05/02 13:21	-36.951185,174.791275
 1131828	3 Sir Peter Blake Parade	2015/05/03 14:42	-36.816616,174.768886	Most of these points seem to be in the middle of the road
+1509579	99 Tender Road	2015/05/09 23:28	-36.663721,174.609369	Middle of the road?
+1523514	2 Marae Road	2015/05/15 01:40	-36.851653,175.473761
+1513439	114 Scandrett Road	2015/05/08 23:44	-36.443884,174.767758
 1426040	430 OTUHI ROAD	2013/11/01 17:34	-35.814084,174.152760
 916299	2013 SH 12	2013/11/01 16:28	-35.840170,173.757843
 915750	1753 BABYLON COAST ROAD	2013/10/28 22:19	-35.865169,173.668793
@@ -14,6 +18,7 @@
 740556	2563 Tairua Road	2015/05/03 15:54	-37.069145,175.786416	S37.066494° E175.789241° may be better - on a drive.
 1289144	95 Pioneer Road	2015/05/05 23:39	-37.024392,175.064234	S37°01.4891' E175°03.8256' looks better
 917868	870 SH 12	2013/11/01 16:51	-35.921393,173.820757
+294257	60 Masons Road	2015/05/15 01:28	-36.723273,174.715589	Middle of the formed road.
 922757	1074 PUKEHUIA ROAD	2013/11/01 17:20	-35.885913,174.008957
 916296	1981 SH 12	2013/11/01 16:26	-35.843725,173.758622
 1279045	232 Brownhill Road	2015/05/08 23:13	-36.974550,174.967974	S36.974001° E174.968231° looks better
@@ -62,6 +67,7 @@
 954092	236 Piha Road	2015/05/03 15:10	-36.969044,174.507368
 708158	32 Adlor Hill Road	2015/05/02 15:48	-36.529868,175.467603	Numbers change side and direction from 32 (but 18's on the other side)
 706216	160 Stony Bay Road	2015/05/02 15:43	-36.512262,175.442234	Not sure if this is wrong, or the road changes numbering side.
+1513149	190 Ngarewa Drive	2015/05/08 23:43	-36.511580,174.720083
 1569353	644 North Road	2015/05/05 23:50	-36.942483,175.065672
 929789	14B BUSH LANE	2013/10/27 15:18	-35.684675,174.296662
 

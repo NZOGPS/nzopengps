@@ -5,16 +5,16 @@ if not defined nzogps_cgps call ..\..\setlocals.bat
 :: Make 7 bit copies of map files here. 
 set capit=8
 cd ..\..\scripts
-ruby parseMP.rb 1 %capit%
-ruby parseMP.rb 2 %capit%
-ruby parseMP.rb 3 %capit%
-ruby parseMP.rb 4 %capit%
-ruby parseMP.rb 5 %capit%
-ruby parseMP.rb 6 %capit%
-ruby parseMP.rb 7 %capit%
-ruby parseMP.rb 8 %capit%
-ruby parseMP.rb 12 %capit%
-ruby parseMP.rb 21 %capit%
+%nzogps_ruby_cmd% parseMP.rb 1 %capit%
+%nzogps_ruby_cmd% parseMP.rb 2 %capit%
+%nzogps_ruby_cmd% parseMP.rb 3 %capit%
+%nzogps_ruby_cmd% parseMP.rb 4 %capit%
+%nzogps_ruby_cmd% parseMP.rb 5 %capit%
+%nzogps_ruby_cmd% parseMP.rb 6 %capit%
+%nzogps_ruby_cmd% parseMP.rb 7 %capit%
+%nzogps_ruby_cmd% parseMP.rb 8 %capit%
+%nzogps_ruby_cmd% parseMP.rb 12 %capit%
+%nzogps_ruby_cmd% parseMP.rb 21 %capit%
 cd ..\installer\uppercase
 
 :: Compile Map Tiles

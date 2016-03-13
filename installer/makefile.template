@@ -1,9 +1,14 @@
-.SUFFIXES:
+ifndef nzogps_base
+$(error nzogps_base environment variable not set - run setlocals first)
+endif
 
-CGPS = cgpsmapper_route
-CPV = cpreview
-ISCC = "C:\Program Files\Inno Setup 5\ISCC.exe"
-MPPATH = ..\..
+CGPS = $(nzogps_cgps)
+CPV = $(nzogps_cprv)
+ISCC = $(nzogps_iscc)
+MPPATH = $(subst $\",,$(nzogps_base))
+
+# $(info mppath is $(MPPATH))
+.SUFFIXES:
 
 MPIMGS = 64000013.img 64000014.img 64000015.img 64000016.img 64000017.img 64000018.img 64000019.img 64000020.img
 POIIMGS = 64000012.img 64000021.img
@@ -11,10 +16,9 @@ POIIMGS = 64000012.img 64000021.img
 SETUP = $(wildcard *FREE_OpenGPS_NZ*)
 
 $(SETUP) : Free\ Open\ GPS\ NZ\ Autorouting.img 
-	$(ISCC) "NZ OpenGPS Setup.iss"
+	$(ISCC) /dSdir=. /dBdir=$(nzogps_base) /dWImg=$(nzogps_inst_image) "NZ OpenGPS Setup.iss"
 
 Free\ Open\ GPS\ NZ\ Autorouting.img : Free\ Open\ GPS\ NZ\ Autorouting.mp
-	perl RemoveCodePage.pl "$<"
 	$(CGPS) "$<"
 
 Free\ Open\ GPS\ NZ\ Autorouting.mp : $(MPIMGS) $(POIIMGS) NZO5_pv_template.txt
@@ -22,7 +26,6 @@ Free\ Open\ GPS\ NZ\ Autorouting.mp : $(MPIMGS) $(POIIMGS) NZO5_pv_template.txt
 	$(CPV) NZO5_pv.txt
 
 define compile
-cmd /c "grep CodePage $< & if not ERRORLEVEL 1 exit 1" 
 $(CGPS) ac -l $< > $(notdir $(basename $<))compileLog.txt
 endef
 

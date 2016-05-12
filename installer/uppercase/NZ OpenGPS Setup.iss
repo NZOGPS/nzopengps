@@ -17,15 +17,15 @@ AppUpdatesURL=http://gwprojects.org/gps/
 DefaultDirName={pf}\NZ Open Autorouting GPS Project
 DefaultGroupName=NZ Open Autorouting GPS Project
 LicenseFile=..\installer-license.txt
-OutputDir=.
+OutputDir={#Sdir}
 OutputBaseFilename={#MyVersion}_FREE_Uppercase_OpenGPS_NZ_Maps_Setup
 Compression=lzma/max
 SolidCompression=true
-WizardImageFile=..\installer-image.bmp
+WizardImageFile={#WImg}
 WizardSmallImageFile=compiler:WizModernSmallImage-IS.bmp
 WizardImageStretch=false
 InfoAfterFile=..\installer_readme.txt
-AppCopyright=Copyright © 2004, 2005, 2006, 2007, 2008, 2009, 2010
+AppCopyright=Copyright © 2004-2016
 UninstallFilesDir={app}
 UninstallLogMode=overwrite
 InternalCompressLevel=max
@@ -49,7 +49,7 @@ Name: {group}\NZ Open GPS Project Forum; Filename: http://gwprojects.org/forum/
 ;BMAPfile: String;
 ;ProductCode: String
 
-Source: 64000012.img; DestDir: {app}; Flags: promptifolder; Check: CreateRegistry(ExpandConstant('{app}\OS_type.typ'), ExpandConstant('{app}\Free Open GPS NZ Autorouting.MDX'),ExpandConstant('{app}\FREE OPEN GPS NZ AUTOROUTING_MDR.IMG'), ExpandConstant('{app}'), ExpandConstant('{app}\Free Open GPS NZ Autorouting.TDB'), ExpandConstant('{app}\Free Open GPS NZ Autorouting.img'), '1')
+Source: 64000012.img; DestDir: {app}; Flags: promptifolder; Check: CreateRegistry(ExpandConstant('{app}\OS_type.typ'), ExpandConstant('{app}\Free Open GPS NZ Autorouting.MDX'),ExpandConstant('{app}\FREE OPEN GPS NZ AUTOROUTING_MDR.IMG'), ExpandConstant('{app}'), ExpandConstant('{app}\Free Open GPS NZ Autorouting.TDB'), ExpandConstant('{app}\Free Open GPS NZ Autorouting.img'))
 Source: 64000013.img; DestDir: {app}; Flags: promptifolder
 Source: 64000014.img; DestDir: {app}; Flags: promptifolder
 Source: 64000015.img; DestDir: {app}; Flags: promptifolder
@@ -83,9 +83,23 @@ Page: TInputOptionWizardPage;
 // BE SURE to change BELOW FID to be consistent with your FID
 const
 FID = 963;
+Prod = 1;
 
+function ToAscii(Num : Integer ) : String;
+var 
+	B1 : Byte;
+	Tmp : string;
+begin
+	while num > 0 do
+		begin
+			B1 := num mod 256;
+			Tmp := Tmp + Chr(B1);
+			Num := Num div 256;
+		end;
+	Result := Tmp;
+end;
 //
-// CHECKING WHETHER THE STANDARD GAMIN TYPE FILE OR THE NZOPENGPS HAS BEEN USER SELECTED
+// CHECKING WHETHER THE STANDARD GARMIN TYPE FILE OR THE NZOPENGPS HAS BEEN USER SELECTED
 //
 
 function S0(): Boolean;
@@ -124,21 +138,21 @@ begin
   Result := MyProgCheckResult;
 end;
 
-function CreateRegistry(TYPfile: String; MDXfile: String; MDRfile: String; LOCfile: String; TDBfile: String; BMAPfile: String; ProductCode: String): Boolean;
+function CreateRegistry(TYPfile: String; MDXfile: String; MDRfile: String; LOCfile: String; TDBfile: String; BMAPfile: String): Boolean;
 var
-TmpFID: String;
-TF: Byte;
+mru: Longint;
+ProductCode: String;
 begin
 if not RegistryCreated then
 begin
 RegistryCreated := True;
-TF := FID;
-TmpFID := '00';
-TmpFID[1] := Chr(TF);
-TF := (FID / 256);
-TmpFID[2] := Chr(TF);
+ProductCode := IntToStr(Prod)
+mru := FID*65536+Prod;
+
 RegWriteStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free Open GPS NZ Autorouting' ,'TYP', TYPfile );
-RegWriteBinaryValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free Open GPS NZ Autorouting' ,'ID',TmpFID );
+RegWriteBinaryValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free Open GPS NZ Autorouting' ,'ID',ToAscii(FID));
+RegWriteDwordValue (HKEY_CURRENT_USER,  'Software\Garmin\MapSource\Settings','MRUProduct',mru);
+RegWriteBinaryValue(HKEY_CURRENT_USER,  'Software\Garmin\Basecamp\Settings', 'MRUProduct',ToAscii(mru));
 RegWriteStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free Open GPS NZ Autorouting' ,'IDX', MDXfile);
 RegWriteStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free Open GPS NZ Autorouting' ,'MDR', MDRfile);
 RegWriteStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free Open GPS NZ Autorouting' + '\' + ProductCode ,'LOC', LOCfile);

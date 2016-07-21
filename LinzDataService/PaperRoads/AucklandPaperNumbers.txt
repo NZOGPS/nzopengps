@@ -51,3 +51,4 @@
 1831012	O,111,137	Kaipara Flats Rd	Dome Forest(Auckland,NZ)	2015/05/09 22:59	-36.388800,174.624480
 1830470	O,4321,4355	Great North Rd	Glendene, Waitakere(Auckland,NZ)	2015/05/15 01:56	-36.888760,174.644480	Have to paper these rather than linzid2 as the other side end duplicates
 1833163	O,119,119	~[0x04]1	Freemans Bay, Auckland(Auckland,NZ)	2015/05/19 19:16	-36.625090,174.662960
+1821370	E,96,96	Radiata Rd		2016/07/21 14:47	-36.433820,174.650910

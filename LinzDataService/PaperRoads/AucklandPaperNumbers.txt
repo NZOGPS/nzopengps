@@ -52,3 +52,6 @@
 1830470	O,4321,4355	Great North Rd	Glendene, Waitakere(Auckland,NZ)	2015/05/15 01:56	-36.888760,174.644480	Have to paper these rather than linzid2 as the other side end duplicates
 1833163	O,119,119	~[0x04]1	Freemans Bay, Auckland(Auckland,NZ)	2015/05/19 19:16	-36.625090,174.662960
 1821370	E,96,96	Radiata Rd		2016/07/21 14:47	-36.433820,174.650910
+1934806	E,4,56	Vivian Bay (Beach)		2016/08/04 13:44	-36.398770,174.835850
+1934792	E,66,70	Pembles Bay (Beach)		2016/08/04 13:45	-36.406830,174.825140
+1934791	E,192,192	North Cove (Beach)		2016/08/04 13:46	-36.412410,174.828010

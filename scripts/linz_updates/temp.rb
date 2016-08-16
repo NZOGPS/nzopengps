@@ -36,6 +36,7 @@ def put_csv_in_postgres()
 	system("#{ogr_cmd} --config PG_USE_COPY TRUE -lco OVERWRITE=YES -f \"PostgreSQL\" \"PG:host=localhost user=postgres  dbname=nzopengps\"  layer-779-cs.csv")
 	@conn.exec "ALTER TABLE \"layer_779_cs\" ADD COLUMN is_odd boolean"
 	@conn.exec "SELECT AddGeometryColumn('','layer_779_cs','the_geom',4167,'POINT',2)"
+	#PROBLEM - ogr is creating text fields. I can't remember how to make it make numbers...
 #	@conn.exec "UPDATE \"layer_779_cs\" SET is_odd = MOD(range_low,2) = 1"
 	@conn.exec "UPDATE \"layer_779_cs\" SET the_geom = ST_FlipCoordinates(ST_GeomFromText(shape,4167))"
 end

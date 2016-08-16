@@ -13,8 +13,9 @@ rem for getting zenbu files...
 set nzogps_curl="C:\Program Files\Git\mingw64\bin\curl"
 set nzogps_bunzip="C:\Program Files\Git\mingw64\bin\bunzip2"
 set nzogps_zenbu_user=user:password
-rem for linz updates
+rem for linz updates - use your own linz api key
 set nzogps_linz_api_key=123456789abcdef12345
+set nzogps_ogr2ogr="c:\Program Files\QGIS Brighton\bin\ogr2ogr.exe"
 rem for compiling maps...
 set nzogps_cgps="C:\Program Files\cgpsmapper"
 set nzogps_cprv="C:\Program Files\cpreview"

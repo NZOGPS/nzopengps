@@ -1,6 +1,6 @@
 LINZ_URL="https://data.linz.govt.nz/services;"
 FN_779="layer_779_cs"
-ADDR_TABLE="\"nz-street-address-electoral-2016-01-09\""
+ADDR_TABLE="\"nz-street-address-electoral-2016-07-16\""
 
 def get_linz_updates()
 	#need to check these for validity
@@ -11,7 +11,7 @@ def get_linz_updates()
 
 	#curl_cmd = "echo #{curl_cmd}"
 
-	from_date = "2016-07-30T02:06:14.066745"
+	from_date = "2016-07-17T12:00:00"
 	#to_date = "2016-08-13T02:06:09.394426"
 
 	nztime = Time.new

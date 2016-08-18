@@ -136,7 +136,7 @@ def do_updates()
 			"road_name=subquery.road_name, locality=subquery.locality, territoria=subquery.territorial_authority,"\
 			"road_name_=subquery.road_name_utf8, address_ut=subquery.address_utf8, locality_u=subquery.locality_utf8, the_geom=subquery.the_geom "\
 		"FROM (SELECT id,rna_id,rcl_id,address,house_number,range_low,range_high,is_odd,road_name,locality,territorial_authority,road_name_utf8,address_utf8,locality_utf8,the_geom "\
-		"FROM #{FN_779} ) AS subquery WHERE sae.id=subquery.id and cs.__change__ = 'UPDATE'"
+		"FROM #{FN_779} where __change__ = 'UPDATE') AS subquery WHERE sae.id=subquery.id"
 
 	@conn.exec "DELETE FROM #{ROAD_TABLE} rcl USING #{FN_818} cs WHERE rcl.id = cs.id AND cs.__change__ = 'DELETE'"
 
@@ -149,7 +149,7 @@ def do_updates()
 		"SET id=subquery.id, name=subquery.name, locality=subquery.locality, territoria=subquery.territorial_authority, "\
 			"name_utf8=subquery.name_utf8, locality_u=subquery.locality_utf8, the_geom=subquery.the_geom "\
 		"FROM (SELECT id,name,locality,territorial_authority,name_utf8,locality_utf8,the_geom "\
-		"FROM #{FN_818} ) AS subquery WHERE rcl.id=subquery.id and cs.__change__ = 'UPDATE'"
+		"FROM #{FN_818} where __change__ = 'UPDATE') AS subquery WHERE rcl.id=subquery.id"
 
 end
 

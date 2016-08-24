@@ -1,4 +1,5 @@
-print "shape-parser.rb #{Time.now}\nLoading library code...\n"
+tstart = Time.now
+print "shape-parser.rb #{tstart}\nLoading library code...\n"
 
 begin
   require 'rgeo/shapefile'
@@ -20,3 +21,6 @@ RGeo::Shapefile::Reader.open(path, :srid => 4167 ) do |file|
     progress
   end
 end
+
+tend = Time.new
+print "\nDone #{tend} - #{'%.01f' % (tend-tstart)} seconds\n"

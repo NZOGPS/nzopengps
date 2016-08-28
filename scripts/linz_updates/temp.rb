@@ -28,7 +28,6 @@ def do_options(options)
 		end
 
 		opts.on("-f", "--from FROM", DateTime, "Specify a start time/date") do |from|
-			p from
 			options[:from] = from.strftime("%FT%T")
 		end
 
@@ -52,10 +51,6 @@ def get_linz_updates(options)
 	curl_cmd = ENV['nzogps_curl']
 	abort("Processing aborted! nzogps_linz_api_key or nzogps_curl environment variable not set!") if !linz_key || !curl_cmd
 
-	#curl_cmd = "echo #{curl_cmd}"
-
-	#from_date = "2016-07-17T12:00:00"
-
 	if (options[:until])
 		to_date = options[:until]
 	else
@@ -68,7 +63,6 @@ def get_linz_updates(options)
 	url3 = "-changeset^&viewparams=from:#{options[:from]}Z;to:#{to_date}Z^&outputFormat=csv"
 	puts url3
 
-	#need to add checks for valid return?
 	layer = 779
 	system("#{curl_cmd} -o #{FN_779}.csv #{url1}#{layer}#{url2}#{layer}#{url3}")
 	layer = 818
@@ -146,8 +140,8 @@ def put_csv_in_postgres()
 	@conn.exec "VACUUM ANALYSE #{FN_793}"
 
 	#just export 793 for now
-	system("del #{FN_793}.gpx")
-	system("#{ogr_cmd} -overwrite -f GPX #{FN_793}.gpx \"PG:user=postgres dbname=nzopengps tables=#{FN_793}\"")
+	system("del #{FN_793}.gpx") if File.file?("#{FN_793}.gpx")
+	system("#{ogr_cmd} -dsco FORCE_GPX_TRACK=yes -select name,__change__ -f GPX #{FN_793}.gpx \"PG:user=postgres dbname=nzopengps tables=#{FN_793}\"")
 
 end
 
@@ -187,6 +181,13 @@ def check_for_errors()
 end
 
 def do_updates()
+	print "Address changes: "
+	rs = @conn.exec "select  __change__,count  (__change__)  from #{FN_779} group by __change__"
+	rs.each do |row|
+		print "%s %s " % [row['__change__'],row['count']]
+	end
+	puts
+	
 	@conn.exec "DELETE FROM #{ADDR_TABLE} sae USING #{FN_779} cs WHERE sae.id = cs.id AND cs.__change__ = 'DELETE'"
 
 	@conn.exec "INSERT INTO #{ADDR_TABLE} "\
@@ -202,6 +203,13 @@ def do_updates()
 		"FROM (SELECT id,rna_id,rcl_id,address,house_number,range_low,range_high,is_odd,road_name,locality,territorial_authority,road_name_utf8,address_utf8,locality_utf8,the_geom "\
 		"FROM #{FN_779} where __change__ = 'UPDATE') AS subquery WHERE sae.id=subquery.id"
 
+	print "Road CL changes: "
+	rs = @conn.exec "select  __change__,count  (__change__)  from #{FN_818} group by __change__"
+	rs.each do |row|
+		print "%s %s " % [row['__change__'],row['count']]
+	end
+	puts
+	
 	@conn.exec "DELETE FROM #{ROAD_TABLE} rcl USING #{FN_818} cs WHERE rcl.id = cs.id AND cs.__change__ = 'DELETE'"
 
 	@conn.exec "INSERT INTO #{ROAD_TABLE} "\
@@ -214,6 +222,14 @@ def do_updates()
 			"name_utf8=subquery.name_utf8, locality_u=subquery.locality_utf8, the_geom=subquery.the_geom "\
 		"FROM (SELECT id,name,locality,territorial_authority,name_utf8,locality_utf8,the_geom "\
 		"FROM #{FN_818} where __change__ = 'UPDATE') AS subquery WHERE rcl.id=subquery.id"
+
+	print "Road SS changes: "
+	rs = @conn.exec "select  __change__,count  (__change__)  from #{FN_793} group by __change__"
+	rs.each do |row|
+		print "%s %s " % [row['__change__'],row['count']]
+	end
+	puts
+	
 
 end
 do_options(options)

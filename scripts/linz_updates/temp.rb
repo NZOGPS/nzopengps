@@ -7,6 +7,8 @@ FN_779="layer_779_cs"
 FN_818="layer_818_cs"
 FN_793="layer_793_cs"
 
+LAST_FN="LINZ_last.date"
+
 ADDR_TABLE="\"nz-street-address-electoral-2016-07-16\""
 ROAD_TABLE="\"nz-road-centre-line-electoral-2016-07-16\""
 
@@ -27,6 +29,7 @@ def do_options(options)
 			options[:updates] = nil;
 		end
 
+		# from date needs to read from file, not hardcode
 		opts.on("-f", "--from FROM", DateTime, "Specify a start time/date") do |from|
 			options[:from] = from.strftime("%FT%T")
 		end
@@ -56,12 +59,12 @@ def get_linz_updates(options)
 	else
 		nztime = Time.new
 		to_date = nztime.utc.strftime("%FT%T")
+		options[:until] = to_date #bit of a hack - store the time here for later
 	end
 
 	url1 = "#{LINZ_URL}key=#{linz_key}/wfs/layer-"
 	url2 = "-changeset?SERVICE=WFS^&VERSION=2.0.0^&REQUEST=GetFeature^&typeNames=layer-"
 	url3 = "-changeset^&viewparams=from:#{options[:from]}Z;to:#{to_date}Z^&outputFormat=csv"
-	puts url3
 
 	layer = 779
 	system("#{curl_cmd} -o #{FN_779}.csv #{url1}#{layer}#{url2}#{layer}#{url3}")
@@ -140,12 +143,34 @@ def put_csv_in_postgres()
 	@conn.exec "VACUUM ANALYSE #{FN_793}"
 
 	#just export 793 for now
+	#ideally want to split into individual tiles
 	system("del #{FN_793}.gpx") if File.file?("#{FN_793}.gpx")
-	system("#{ogr_cmd} -dsco FORCE_GPX_TRACK=yes -select name,__change__ -f GPX #{FN_793}.gpx \"PG:user=postgres dbname=nzopengps tables=#{FN_793}\"")
+	system("#{ogr_cmd} -sql \"SELECT name, __change__ as desc, the_geom from #{FN_793}\" -nlt MULTILINESTRING -f GPX #{FN_793}.gpx \"PG:user=postgres dbname=nzopengps\"")
 
 end
 
 def check_for_errors()
+	print "Address changes: "
+	rs = @conn.exec "select  __change__,count  (__change__)  from #{FN_779} group by __change__"
+	rs.each do |row|
+		print "%s %s " % [row['__change__'],row['count']]
+	end
+	puts
+
+	print "Road CL changes: "
+	rs = @conn.exec "select  __change__,count  (__change__)  from #{FN_818} group by __change__"
+	rs.each do |row|
+		print "%s %s " % [row['__change__'],row['count']]
+	end
+	puts
+
+	print "Road SS changes: "
+	rs = @conn.exec "select  __change__,count  (__change__)  from #{FN_793} group by __change__"
+	rs.each do |row|
+		print "%s %s " % [row['__change__'],row['count']]
+	end
+	puts
+
 	rs = @conn.exec "SELECT sae.gid, cs.id, cs.address, cs.__change__ "\
 	"from #{FN_779} cs join #{ADDR_TABLE} sae on sae.id = cs.id where cs.__change__ = 'INSERT'"
 	if rs.count > 0 then
@@ -181,13 +206,6 @@ def check_for_errors()
 end
 
 def do_updates()
-	print "Address changes: "
-	rs = @conn.exec "select  __change__,count  (__change__)  from #{FN_779} group by __change__"
-	rs.each do |row|
-		print "%s %s " % [row['__change__'],row['count']]
-	end
-	puts
-	
 	@conn.exec "DELETE FROM #{ADDR_TABLE} sae USING #{FN_779} cs WHERE sae.id = cs.id AND cs.__change__ = 'DELETE'"
 
 	@conn.exec "INSERT INTO #{ADDR_TABLE} "\
@@ -203,13 +221,6 @@ def do_updates()
 		"FROM (SELECT id,rna_id,rcl_id,address,house_number,range_low,range_high,is_odd,road_name,locality,territorial_authority,road_name_utf8,address_utf8,locality_utf8,the_geom "\
 		"FROM #{FN_779} where __change__ = 'UPDATE') AS subquery WHERE sae.id=subquery.id"
 
-	print "Road CL changes: "
-	rs = @conn.exec "select  __change__,count  (__change__)  from #{FN_818} group by __change__"
-	rs.each do |row|
-		print "%s %s " % [row['__change__'],row['count']]
-	end
-	puts
-	
 	@conn.exec "DELETE FROM #{ROAD_TABLE} rcl USING #{FN_818} cs WHERE rcl.id = cs.id AND cs.__change__ = 'DELETE'"
 
 	@conn.exec "INSERT INTO #{ROAD_TABLE} "\
@@ -222,14 +233,6 @@ def do_updates()
 			"name_utf8=subquery.name_utf8, locality_u=subquery.locality_utf8, the_geom=subquery.the_geom "\
 		"FROM (SELECT id,name,locality,territorial_authority,name_utf8,locality_utf8,the_geom "\
 		"FROM #{FN_818} where __change__ = 'UPDATE') AS subquery WHERE rcl.id=subquery.id"
-
-	print "Road SS changes: "
-	rs = @conn.exec "select  __change__,count  (__change__)  from #{FN_793} group by __change__"
-	rs.each do |row|
-		print "%s %s " % [row['__change__'],row['count']]
-	end
-	puts
-	
 
 end
 do_options(options)
@@ -247,4 +250,8 @@ end
 
 if (options[:updates]) 
 	do_updates()
+end
+
+if (options[:download]) # && options[:postgres] && options[:updates])
+	File.open(LAST_FN, 'w') { |file| file.write("#{options[:until]}") }
 end

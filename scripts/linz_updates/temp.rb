@@ -12,9 +12,19 @@ LAST_FN="LINZ_last.date"
 ADDR_TABLE="\"nz-street-address-electoral-2016-07-16\""
 ROAD_TABLE="\"nz-road-centre-line-electoral-2016-07-16\""
 
-options = {:download => 1, :postgres => 1, :updates => 1, :from => "2016-07-17T12:00:00", :until => nil}
+options = {:download => 1, :postgres => 1, :updates => 1, :from => nil, :until => nil}
 
 def do_options(options)
+	if File.exists?(LAST_FN) 
+		tline = ""
+		File.open(LAST_FN) do |lfile|
+			tline = lfile.gets
+		end
+		if DateTime.strptime(tline,"%FT%T")
+			options[:from] = tline
+		end
+	end
+
 	parser = OptionParser.new do|opts|
 		opts.banner = "Usage: #{$0} [options]"
 		opts.on('-d', '--nodownload', 'Don\'t download') do |nodown|
@@ -45,6 +55,8 @@ def do_options(options)
 	end
 
 	parser.parse!
+
+	abort("No start date specifed, and no valid base date found in #{LAST_FN}") if options[:from] == nil
 end
 
 def get_linz_updates(options)
@@ -65,6 +77,7 @@ def get_linz_updates(options)
 	url1 = "#{LINZ_URL}key=#{linz_key}/wfs/layer-"
 	url2 = "-changeset?SERVICE=WFS^&VERSION=2.0.0^&REQUEST=GetFeature^&typeNames=layer-"
 	url3 = "-changeset^&viewparams=from:#{options[:from]}Z;to:#{to_date}Z^&outputFormat=csv"
+	puts("Getting updates from #{options[:from]} to #{to_date}")
 
 	layer = 779
 	system("#{curl_cmd} -o #{FN_779}.csv #{url1}#{layer}#{url2}#{layer}#{url3}")
@@ -252,6 +265,6 @@ if (options[:updates])
 	do_updates()
 end
 
-if (options[:download]) # && options[:postgres] && options[:updates])
+if (options[:download] && options[:postgres] && options[:updates])
 	File.open(LAST_FN, 'w') { |file| file.write("#{options[:until]}") }
 end

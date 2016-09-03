@@ -9,8 +9,8 @@ FN_793="layer_793_cs"
 
 LAST_FN="LINZ_last.date"
 
-ADDR_TABLE="\"nz-street-address-electoral-2016-07-16\""
-ROAD_TABLE="\"nz-road-centre-line-electoral-2016-07-16\""
+ADDR_TABLE="\"nz-street-address-electoral\""
+ROAD_TABLE="\"nz-road-centre-line-electoral\""
 
 options = {:download => 1, :postgres => 1, :updates => 1, :from => nil, :until => nil}
 

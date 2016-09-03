@@ -4,11 +4,11 @@ if not defined nzogps_base call ..\setlocals.bat
 @echo on
 %nzogps_git% pull -v
 cd ..\scripts\linz_updates
-%nzogps_ruby_cmd% test.rb
+%nzogps_ruby_cmd% temp.rb
 cd ..
 start %nzogps_donumbers%
 cd ..\linzdataservice
-ruby pg-road-parser.rb
+%nzogps_ruby_cmd% pg-road-parser.rb
 cd ..\scripts
 call dochecks.bat
 call colouriseall.bat

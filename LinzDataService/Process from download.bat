@@ -18,7 +18,7 @@ call update.bat
 cd ..
 start %nzogps_donumbers%
 cd ..\linzdataservice
-ruby shape-parser.rb
+%nzogps_ruby_cmd% shape-parser.rb
 cd ..\scripts
 call dochecks.bat
 call colouriseall.bat

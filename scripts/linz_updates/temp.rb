@@ -18,7 +18,7 @@ def do_options(options)
 	if File.exists?(LAST_FN) 
 		tline = ""
 		File.open(LAST_FN) do |lfile|
-			tline = lfile.gets
+			tline = lfile.gets.chomp
 		end
 		if DateTime.strptime(tline,"%FT%T")
 			options[:from] = tline

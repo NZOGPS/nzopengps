@@ -57,3 +57,8 @@
 1934791	E,192,192	North Cove (Beach)		2016/08/04 13:46	-36.412410,174.828010
 1837517	E,70,70	Business Pde S	East Tamaki, Manukau(Auckland,NZ)	2016/09/28 19:24	-36.941810,174.869990
 1831307	E,42,42	Te Aute Ridge Rd	Bethells Beach(Auckland,NZ)	2016/09/28 19:46	-36.868660,174.490950
+1820842	E,2,2	Matija Pl	Red Beach(Auckland,NZ)	2016/10/02 11:28	-36.605740,174.684550
+1822573	E,40,80	Ashley Ave	Long Bay, North Shore City(Auckland,NZ)	2016/10/02 11:33	-36.691780,174.738000
+1828242	O,41,45	Adamson Rd	Flat Bush, Manukau(Auckland,NZ)	2016/10/02 11:43	-36.983120,174.910880
+1982685	E,74,76	Bomb Point Dr	Hobsonville, Waitakere(Auckland,NZ)	2016/10/02 11:55	-36.794510,174.663770
+1982685	E,74,76	Bomb Point Dr	Hobsonville, Waitakere(Auckland,NZ)	2016/10/02 11:55	-36.794510,174.663770

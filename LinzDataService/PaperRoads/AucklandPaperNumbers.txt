@@ -62,3 +62,6 @@
 1828242	O,41,45	Adamson Rd	Flat Bush, Manukau(Auckland,NZ)	2016/10/02 11:43	-36.983120,174.910880
 1982685	E,74,76	Bomb Point Dr	Hobsonville, Waitakere(Auckland,NZ)	2016/10/02 11:55	-36.794510,174.663770
 1982685	E,74,76	Bomb Point Dr	Hobsonville, Waitakere(Auckland,NZ)	2016/10/02 11:55	-36.794510,174.663770
+1828217	O,1,1	Andrew McKee Ave	Auckland Airport, Manukau(Auckland,NZ)	2016/11/12 16:31	-37.006240,174.789730
+1830528	E,170,170	Brigham Creek Rd	Whenuapai, Waitakere(Auckland,NZ)	2016/11/12 20:22	-36.798920,174.633600
+1830962	E,92,92	Bankside Rd	Silverdale(Auckland,NZ)	2016/11/12 20:24	-36.604670,174.673860

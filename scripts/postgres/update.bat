@@ -17,7 +17,7 @@ if errorlevel 1 echo Wrong projection  & pause & exit 1
 if exist "%nzogps_sae%\nz-street-address-electoral-4.shp" echo 4th shapefile found & pause & exit 1
 del nz-street-address*.sql
 time /t
-psql_bin%shp2pgsql -d -g the_geom -D -s4167 "%nzogps_sae%\nz-street-address-electoral%nzogps_2xsae%.shp"  nz-street-address-electoral > nz-street-address-1.sql
+%nzogps_psql_bin%shp2pgsql -d -g the_geom -D -s4167 "%nzogps_sae%\nz-street-address-electoral%nzogps_2xsae%.shp"  nz-street-address-electoral > nz-street-address-1.sql
 if not "%nzogps_2xsae%"=="" %nzogps_psql_bin%shp2pgsql -a -g the_geom -D -s4167 "%nzogps_sae%\nz-street-address-electoral-3.shp"  nz-street-address-electoral > nz-street-address-2.sql
 rem roads
 %nzogps_psql_bin%shp2pgsql -d -g the_geom -D -s4167 "%nzogps_rcl%\nz-road-centre-line-electoral.shp"  nz-road-centre-line-electoral > nz-road-centre.sql

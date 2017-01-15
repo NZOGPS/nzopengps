@@ -105,31 +105,31 @@ def doContractions(streetname)
   if (streetname =~ /^The (\w*)$/i) then return streetname end 
 
   # needs to be above for sufi comparison, below for sufi checking... why? dunno.
-  if (streetname =~ /^SH (.*)$/i) then streetname = 'State Highway ' + $1 	end 
-  #if (streetname =~ /^STATE HIGHWAY (.*)$/i) then streetname = 'SH ' + $1 	end # this way wrong, majority other way
+  if (streetname =~ /^SH (.*)$/i) then streetname = 'State Highway ' + $1 end 
+  #if (streetname =~ /^STATE HIGHWAY (.*)$/i) then streetname = 'SH ' + $1 end # this way wrong, majority other way
 
   if (md = @@addr_Match['streetwithdirection'].match(streetname)) then
-    streetname = md[1]
-    streetext = md[2]
+	streetname = md[1]
+	streetext = md[2]
   end
 
   @@contractions.each_pair{|key,value|
-    #streetname = streetname.sub(/\b#{key}\b/, value) # incorrectly handles case of 'avenue road' - contracts both.
-    #if (streetname =~ /^.+\b#{key}\b.*$/i) then streetname = streetname.sub(/\b#{key}\b/, value) end # contracts all words that look like a contraction not just last one
-    if (streetname =~ /^.+\b#{key}$/i) then streetname = streetname.sub(/\b#{key}$/, value) end
+	#streetname = streetname.sub(/\b#{key}\b/, value) # incorrectly handles case of 'avenue road' - contracts both.
+	#if (streetname =~ /^.+\b#{key}\b.*$/i) then streetname = streetname.sub(/\b#{key}\b/, value) end # contracts all words that look like a contraction not just last one
+	if (streetname =~ /^.+\b#{key}$/i) then streetname = streetname.sub(/\b#{key}$/, value) end
   }
 
   @@roadprepositions.each_pair{|key,value|
-    if (streetname =~ /^#{key}\b.*$/i) then streetname = streetname.sub(/^#{key}\b/, value) end
+	if (streetname =~ /^#{key}\b.*$/i) then streetname = streetname.sub(/^#{key}\b/, value) end
   }
 
   if (streetext) then
-    @@roadextensions.each_pair{|key,value|
-      if (streetext =~ /^.*\b#{key}$/i) then streetext = streetext.sub(/\b#{key}$/, value) end
-    }
-    streetname = streetname + ' ' + streetext
+	@@roadextensions.each_pair{|key,value|
+	  if (streetext =~ /^.*\b#{key}$/i) then streetext = streetext.sub(/\b#{key}$/, value) end
+	}
+	streetname = streetname + ' ' + streetext
   end
-    
+	
   return streetname
 end
 
@@ -228,53 +228,55 @@ EOF
 
 #'
 	
-	
 }
 
 end
 
 # ###############
 def identify_tile_from_wkt_envelope(record)
-  #slightly nasty method of identifying tile(s) that record intersects
-  
-  bounds = record.geometry.envelope # [(MINX, MINY), (MAXX, MINY), (MAXX, MAXY), (MINX, MAXY), (MINX, MINY)]
-  if bounds.to_s =~ /POLYGON\s?\(\((.*) (.*),.*,(.*) (.*),.*,.*\)\)/ then
-    minx = $1.to_f
-    miny = $2.to_f
-    maxx = $3.to_f
-    maxy = $4.to_f
-    #print "#{i} #{sufi} minx #{minx} miny #{miny} maxx #{maxx} maxy #{maxy}\n"
-  else
-    raise "bounds unrecognised #{bounds} #{record.attributes.inspect}\n"
-  end
+	#slightly nasty method of identifying tile(s) that record intersects
 
-  tiles = []
+	bounds = record.geometry.envelope # [(MINX, MINY), (MAXX, MINY), (MAXX, MAXY), (MINX, MAXY), (MINX, MINY)]
+	#print "#{bounds.to_s}\n"
+	if bounds.to_s =~ /POLYGON\s?\(\((.*) (.*),.*,(.*) (.*),.*,.*\)\)/ then
+		minx = $1.to_f
+		miny = $2.to_f
+		maxx = $3.to_f
+		maxy = $4.to_f
+		#print "#{i} #{sufi} minx #{minx} miny #{miny} maxx #{maxx} maxy #{maxy}\n"
+	elsif bounds.to_s =~ /LINESTRING\s?\((.*) (.*), (.*) (.*)*\)/ then
+		minx = $1.to_f
+		miny = $2.to_f
+		maxx = $3.to_f
+		maxy = $4.to_f
+		#print "#{i} #{sufi} minx #{minx} miny #{miny} maxx #{maxx} maxy #{maxy}\n"
+	else
+		raise "bounds unrecognised #{bounds} #{record.attributes.inspect}\n"
+	end
 
-  #skip chathams
-  if (minx < 166 || minx > 179 || miny < -48 || miny > -34) then
-    tiles << "Chathams"
-  else
+	tiles = []
 
-    if ((maxy >= -36.38880)) then tiles << "Northland" end
-    if ((miny <= -36.38880) && (miny >= -37.105228)) then tiles << "Auckland" end
-    if ((miny <= -37.105228) && (miny >= -38.638100)) then tiles << "Waikato" end
-    if ((miny <= -38.638100) && (miny >= -40.170971)) then tiles << "Central" end
-    if (((miny <= -40.170971) && (miny >= -41.703838)) && (minx >= 174.56166)) then tiles << "Wellington" end
-    if (((miny <= -40.407970) && (miny >= -42.731949)) && (maxx <= 174.56166)) then tiles << "Tasman" end
-    if ((miny <= -42.731949) && (miny >=  -44.55553)) then tiles << "Canterbury" end
-    if ((miny <=  -44.555530) && (miny >= -47.379910)) then tiles << "Southland" end
-    #bastardised way of doing it, once for max and min each
-    if ((maxy <= -36.38880) && (maxy >= -37.105228)) then tiles << "Auckland" end 
-    if ((maxy <= -37.105228) && (maxy >= -38.638100)) then tiles << "Waikato" end 
-    if ((maxy <= -38.638100) && (maxy >= -40.170971)) then tiles << "Central" end
-    if (((maxy <= -40.170971) && (maxy >= -41.703838)) && (minx >= 174.56166)) then tiles << "Wellington" end 
-    if (((maxy <= -40.407970) && (maxy >= -42.731949)) && (maxx <= 174.56166)) then tiles << "Tasman" end 
-    if ((maxy <= -42.731949) && (maxy >=  -44.55553)) then tiles << "Canterbury" end
-    if ((maxy <=  -44.555530) && (maxy >= -47.379910)) then tiles << "Southland" end 
-
-  end #skip chathams
-
-  return tiles.uniq
+	if (minx < 166 || minx > 179 || miny < -48 || miny > -34) then
+		tiles << "Chathams"
+	else
+		if ((maxy >= -36.38880)) then tiles << "Northland" end
+		if ((miny <= -36.38880) && (miny >= -37.105228)) then tiles << "Auckland" end
+		if ((miny <= -37.105228) && (miny >= -38.638100)) then tiles << "Waikato" end
+		if ((miny <= -38.638100) && (miny >= -40.170971)) then tiles << "Central" end
+		if (((miny <= -40.170971) && (miny >= -41.703838)) && (minx >= 174.56166)) then tiles << "Wellington" end
+		if (((miny <= -40.407970) && (miny >= -42.731949)) && (maxx <= 174.56166)) then tiles << "Tasman" end
+		if ((miny <= -42.731949) && (miny >=  -44.55553)) then tiles << "Canterbury" end
+		if ((miny <=  -44.555530) && (miny >= -47.379910)) then tiles << "Southland" end
+		#bastardised way of doing it, once for max and min each
+		if ((maxy <= -36.38880) && (maxy >= -37.105228)) then tiles << "Auckland" end 
+		if ((maxy <= -37.105228) && (maxy >= -38.638100)) then tiles << "Waikato" end 
+		if ((maxy <= -38.638100) && (maxy >= -40.170971)) then tiles << "Central" end
+		if (((maxy <= -40.170971) && (maxy >= -41.703838)) && (minx >= 174.56166)) then tiles << "Wellington" end 
+		if (((maxy <= -40.407970) && (maxy >= -42.731949)) && (maxx <= 174.56166)) then tiles << "Tasman" end 
+		if ((maxy <= -42.731949) && (maxy >=  -44.55553)) then tiles << "Canterbury" end
+		if ((maxy <=  -44.555530) && (maxy >= -47.379910)) then tiles << "Southland" end 
+	end
+	return tiles.uniq
 end
 
 
@@ -299,9 +301,9 @@ def process_geom_record(record)
 
   tiles.each{|tile|
 
-    polishformatarray.each{|polishformat|
+	polishformatarray.each{|polishformat|
 
-      @tileFH[tile].print <<POIEND
+		@tileFH[tile].print <<POIEND
 ;linzid=#{linzid}
 [POLYLINE]
 Type=0x6
@@ -312,19 +314,19 @@ RouteParam=#{routeParam},0,0,0,0,0,0,0,0,0,0,0
 [END]
 
 POIEND
-    }
+		}
 
-  }#eachtile
+	}#eachtile
 
 end
 
 @total_count = 0
 def progress
-  @total_count += 1;
-  limit = 1000
-  if @total_count % limit == 0
-    STDERR.print "."
-    STDERR.print "\n #{@total_count}\t" if @total_count % (limit * 5) == 0
-    STDERR.flush
-  end
+	@total_count += 1;
+	limit = 1000
+	if @total_count % limit == 0
+		STDERR.print "."
+		STDERR.print "\n #{@total_count}\t" if @total_count % (limit * 5) == 0
+		STDERR.flush
+	  end
 end

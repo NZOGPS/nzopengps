@@ -5,7 +5,7 @@ set nzogps_sae=..\..\LinzDataService\lds-nz-street-address-electoral-SHP
 set nzogps_rcl=..\..\LinzDataService\lds-nz-road-centre-line-electoral-SHP
 set nzogps_2xsae=
 
-%nzogps_ruby_cmd% -e 'puts File.mtime(ENV["nzogps_sae"]).strftime("%%FT%%T")' > ..\linz_updates\LINZ_last.date
+%nzogps_ruby_cmd% -e 'puts File.mtime(ENV["nzogps_sae"]).utc.strftime("%%FT%%T")+"\n#note time is in UTC\n#set by %0"' > ..\linz_updates\LINZ_last.date
 
 if not exist ..\..\setlocals.bat echo setlocals.bat not found. You need to copy and customise the sample file 
 call ..\..\setlocals.bat

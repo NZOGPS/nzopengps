@@ -461,3 +461,24 @@ begin
 	end loop;
 end
 $$ language plpgsql;
+
+DO
+$do$
+DECLARE
+   _name text;
+   _date text;
+BEGIN
+   SELECT CURRENT_DATE into _date;
+   FOR _name IN
+      SELECT name FROM _bounds
+   LOOP
+      EXECUTE format('COPY (select st_ymin(wkb_geometry),st_xmin(wkb_geometry),full_road_name,road_id
+                            FROM   _bounds b
+                            JOIN   layer_3383_cs p ON ST_INTERSECTS(st_flipcoordinates(geom), wkb_geometry)
+                            WHERE  b.name = %L and __change__ = ''INSERT'' and road_section_id not in (select road_section_id  from layer_3383_cs where __change__ = ''DELETE'') and road_id > 3000000
+                            ) TO %L (FORMAT csv)'
+                   , _name
+                   , 'd:\nzopengps\linzdataservice\' || _name || '_' || _date || '.csv');
+   END LOOP;
+END
+$do$;

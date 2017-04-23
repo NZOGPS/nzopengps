@@ -1473,10 +1473,11 @@ sub check_for_number_present{
 				} else {
 					print "\n";
 				}
-				local $, = ',';
-				for my $i(0..$#nums) {
-					print MISSFILE $x{$onerdid}{$nums[$i]},$y{$onerdid}{$nums[$i]},"$nums[$i] $sufiroadname{$onerdid}","$onerdid\n";
-				}
+#	Temporarily stop saving missing numbers on missing roads to CSV (while there's heaps of them)
+#				local $, = ',';
+#				for my $i(0..$#nums) {
+#					print MISSFILE $x{$onerdid}{$nums[$i]},$y{$onerdid}{$nums[$i]},"$nums[$i] $sufiroadname{$onerdid}","$onerdid\n";
+#				}
 			}
 		}
 	}

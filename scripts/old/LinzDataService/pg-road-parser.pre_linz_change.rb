@@ -1,4 +1,4 @@
-ROAD_TABLE="nz_roads_subsections_addressing"
+ROAD_TABLE="\"nz-road-centre-line-electoral\""
 
 tstart = Time.new
 print "pg-road-parser.rb #{tstart}\nLoading library code...\n"
@@ -14,7 +14,6 @@ class RecEnv
 	def initialize(rec)
 		@attributes = Hash.new
 		@attributes = rec
-		#print "#{rec["id"]} #{rec["name"]}\n"
 		fac = RGeo::Cartesian.factory
 		@geometry=fac.parse_wkt(rec['wkt'])
 	end
@@ -62,8 +61,8 @@ load "nzogps_library.rb"
 initialise_tile_file_handles
 pg_connect
 
-rs = @conn.exec("SELECT road_id as id, case full_road_name_ascii when '' then road_type else full_road_name_ascii end as name,left_suburb_locality as locality,left_territorial_authority as territoria,st_astext(wkb_geometry) as wkt from #{ROAD_TABLE} where geometry_class = 'Addressing Road'")
-puts "Database contains #{rs.count} Addressing Roads."
+rs = @conn.exec("SELECT id,name,locality,territoria,st_astext(the_geom) as wkt from #{ROAD_TABLE}")
+puts "Database contains #{rs.count} records."
 rs.each do |record|
 	rgeorec=RecEnv.new(record)
 	process_geom_record(rgeorec)

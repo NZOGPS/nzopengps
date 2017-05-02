@@ -5,6 +5,7 @@ if not defined nzogps_base call ..\setlocals.bat
 %nzogps_git% pull -v
 cd ..\scripts\linz_updates
 %nzogps_ruby_cmd% temp.rb
+if %errorlevel% neq 0 exit /b %errorlevel%
 cd ..
 start %nzogps_donumbers%
 cd ..\linzdataservice

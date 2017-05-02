@@ -104,9 +104,8 @@ ALLOWED_ROAD_TYPES_FOR_NUMBERING = ['0x1','0x2','0x3','0x4','0x5','0x6','0x7','0
 ###############
 WORKING_SRID = 4167
 #K = 200 # buffer distance to search inside, not currently used
-STREET_ADDRESS_TABLE = 'nz_street_address'
-STREET_ADDRESS_TABLE_INDEX_NAME = 'wkb_geometry'
-STREET_ADDRESS_NUM_COL = 'address_number'
+STREET_ADDRESS_TABLE = "\"nz-street-address-electoral\""
+STREET_ADDRESS_TABLE_INDEX_NAME = 'the_geom'
 
 def set_paths(myio)
 	myio.ipath = File.join('..','LinzDataService','outputslinz')
@@ -176,7 +175,6 @@ def post_processing
 Stats
 ================================
 EOF
-print "\nStats:\n"
 @stats.keys.sort.each{|key|
 @reporting_file.print "#{key}\t#{@stats[key]}\n"
 print "#{key}\t#{@stats[key]}\n"
@@ -233,8 +231,7 @@ def process_polish_buffer(buffer)
 	#################
 	numberingCount = 0
 	if run_numberer then
-	##GT
-#    print "run_numberer #{id_set}\n"
+    #print "run_numberer #{id_set}\n"
 		#NodX refers to the routing nodes, need to do one NumbersX line for each section between nodes (ie. NodXMAX-1 as NumbersX-1 has numbers up to last node)
 		
 		#strip previous numbering
@@ -349,7 +346,7 @@ def return_neat_result(sql_query)
 res  = @conn.exec(sql_query)
 
 if res.num_tuples == 1 then
-	range_low = res.entries[0]["#{STREET_ADDRESS_NUM_COL}"]
+	range_low = res.entries[0]["range_low"]
 	parity = parity_of(range_low)
 	return [range_low, parity]
 else
@@ -431,7 +428,7 @@ end
 
 def nearest_address_sql_fullside(rna_id,point1x,point1y,point2x,point2y,side1x,side1y,side2x,side2y,originalside)
   sql_query = <<-EOS
-SELECT #{STREET_ADDRESS_NUM_COL}, rna_id, ST_Distance(ST_SetSRID(ST_MakePoint(#{point1x},#{point1y}), #{WORKING_SRID}),#{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance FROM #{STREET_ADDRESS_TABLE} WHERE
+SELECT range_low, rna_id, ST_Distance(ST_SetSRID(ST_MakePoint(#{point1x},#{point1y}), #{WORKING_SRID}),#{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance FROM #{STREET_ADDRESS_TABLE} WHERE
 #{STREET_ADDRESS_TABLE_INDEX_NAME} @ ST_GeomFromText( 'POLYGON((#{originalside},#{point2x} #{point2y},#{side2x} #{side2y},#{side1x} #{side1y},#{point1x} #{point1y}))', #{WORKING_SRID} )
 AND rna_id = #{rna_id}
 ORDER BY distance
@@ -496,13 +493,10 @@ return get_first_result(sql_query).to_f
 end
 ########
 def get_first_result(sql_query)
-##GT
-#  print "sql_query = \"#{sql_query}\"\n###################\n"
+  #print "sql_query = \"#{sql_query}\"\n###################\n"
   res  = @conn.exec(sql_query)
   if res.num_tuples == 1 then
-##GT 
-#   print "#{res.entries[0][res.fields[0]]} returned\n"
-   return res.entries[0][res.fields[0]] #postgres 8.3
+    return res.entries[0][res.fields[0]] #postgres 8.3
     #return res.entries[0][0] #postgres 8.1
   end
 
@@ -550,15 +544,12 @@ def get_nearest_address_inside_polygon(rna_id,polygon_geom,first_point)
 #ST_Contains(geometry A, geometry B)
 #    Returns 1 (TRUE) if Geometry A "spatially contains" Geometry B.
   sql_query = <<-EOS
-SELECT #{STREET_ADDRESS_NUM_COL}, rna_id, ST_Distance(#{first_point},#{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance FROM #{STREET_ADDRESS_TABLE} WHERE
+SELECT range_low, rna_id, ST_Distance(#{first_point},#{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance FROM #{STREET_ADDRESS_TABLE} WHERE
 ST_Contains(#{polygon_geom}, #{STREET_ADDRESS_TABLE_INDEX_NAME})
 AND rna_id = #{rna_id}
 ORDER BY distance
 LIMIT 1;
 EOS
-
-##GT
-#print sql_query
 
 end
 
@@ -570,7 +561,7 @@ SELECT count(*)
 FROM #{STREET_ADDRESS_TABLE} WHERE
 ST_Contains(#{polygon_geom}, #{STREET_ADDRESS_TABLE_INDEX_NAME})
 AND is_odd = #{is_odd}
-AND rna_id = #{rna_id};
+AND rna_id = '#{rna_id}';
 EOS
 
 end
@@ -587,23 +578,23 @@ end
 ##############
 def count_houses_on_street(rna_id)
 
-  sql_query = "SELECT COUNT(*) FROM #{STREET_ADDRESS_TABLE} WHERE rna_id = #{rna_id};"
+  sql_query = "SELECT COUNT(*) FROM #{STREET_ADDRESS_TABLE} WHERE rna_id = '#{rna_id}';"
   return get_first_result(sql_query).to_i
 
 end
 ###
 def get_low_high_on_street(rna_id)
 
-sql_query = "SELECT min(#{STREET_ADDRESS_NUM_COL}) FROM #{STREET_ADDRESS_TABLE} WHERE rna_id = #{rna_id} AND is_odd = TRUE;"
+sql_query = "SELECT min(range_low) FROM #{STREET_ADDRESS_TABLE} WHERE rna_id = #{rna_id} AND is_odd = TRUE;"
 min_odd = get_first_result(sql_query).to_i
 
-sql_query = "SELECT min(#{STREET_ADDRESS_NUM_COL}) FROM #{STREET_ADDRESS_TABLE} WHERE rna_id = #{rna_id} AND is_odd = FALSE;"
+sql_query = "SELECT min(range_low) FROM #{STREET_ADDRESS_TABLE} WHERE rna_id = #{rna_id} AND is_odd = FALSE;"
 min_even = get_first_result(sql_query).to_i
 
-sql_query = "SELECT max(#{STREET_ADDRESS_NUM_COL}) FROM #{STREET_ADDRESS_TABLE} WHERE rna_id = #{rna_id} AND is_odd = TRUE;"
+sql_query = "SELECT max(range_low) FROM #{STREET_ADDRESS_TABLE} WHERE rna_id = #{rna_id} AND is_odd = TRUE;"
 max_odd = get_first_result(sql_query).to_i
 
-sql_query = "SELECT max(#{STREET_ADDRESS_NUM_COL}) FROM #{STREET_ADDRESS_TABLE} WHERE rna_id = #{rna_id} AND is_odd = FALSE;"
+sql_query = "SELECT max(range_low) FROM #{STREET_ADDRESS_TABLE} WHERE rna_id = #{rna_id} AND is_odd = FALSE;"
 max_even = get_first_result(sql_query).to_i
 
 return [min_odd,min_even,max_odd,max_even]
@@ -611,16 +602,16 @@ end
 ###
 def get_low_high_odds_evens_plus_distance_on_street(rna_id,first_point)
   
-sql_query = "SELECT #{STREET_ADDRESS_NUM_COL}, ST_Distance(ST_SetSRID(#{first_point}, #{WORKING_SRID}),#{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance FROM #{STREET_ADDRESS_TABLE} WHERE rna_id = #{rna_id} AND is_odd = TRUE ORDER BY #{STREET_ADDRESS_NUM_COL} ASC LIMIT 1;"
+sql_query = "SELECT range_low, ST_Distance(ST_SetSRID(#{first_point}, #{WORKING_SRID}),#{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance FROM #{STREET_ADDRESS_TABLE} WHERE rna_id = #{rna_id} AND is_odd = TRUE ORDER BY range_low ASC LIMIT 1;"
 min_odd, min_odd_distance = get_number_and_distance(sql_query)
 
-sql_query = "SELECT #{STREET_ADDRESS_NUM_COL}, ST_Distance(ST_SetSRID(#{first_point}, #{WORKING_SRID}),#{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance FROM #{STREET_ADDRESS_TABLE} WHERE rna_id = #{rna_id} AND is_odd = FALSE ORDER BY #{STREET_ADDRESS_NUM_COL} ASC LIMIT 1;"
+sql_query = "SELECT range_low, ST_Distance(ST_SetSRID(#{first_point}, #{WORKING_SRID}),#{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance FROM #{STREET_ADDRESS_TABLE} WHERE rna_id = #{rna_id} AND is_odd = FALSE ORDER BY range_low ASC LIMIT 1;"
 min_even, min_even_distance = get_number_and_distance(sql_query)
 
-sql_query = "SELECT #{STREET_ADDRESS_NUM_COL}, ST_Distance(ST_SetSRID(#{first_point}, #{WORKING_SRID}),#{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance FROM #{STREET_ADDRESS_TABLE} WHERE rna_id = #{rna_id} AND is_odd = TRUE ORDER BY #{STREET_ADDRESS_NUM_COL} DESC LIMIT 1;"
+sql_query = "SELECT range_low, ST_Distance(ST_SetSRID(#{first_point}, #{WORKING_SRID}),#{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance FROM #{STREET_ADDRESS_TABLE} WHERE rna_id = #{rna_id} AND is_odd = TRUE ORDER BY range_low DESC LIMIT 1;"
 max_odd, max_odd_distance = get_number_and_distance(sql_query)
 
-sql_query = "SELECT #{STREET_ADDRESS_NUM_COL}, ST_Distance(ST_SetSRID(#{first_point}, #{WORKING_SRID}),#{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance FROM #{STREET_ADDRESS_TABLE} WHERE rna_id = #{rna_id} AND is_odd = FALSE ORDER BY #{STREET_ADDRESS_NUM_COL} DESC LIMIT 1;"
+sql_query = "SELECT range_low, ST_Distance(ST_SetSRID(#{first_point}, #{WORKING_SRID}),#{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance FROM #{STREET_ADDRESS_TABLE} WHERE rna_id = #{rna_id} AND is_odd = FALSE ORDER BY range_low DESC LIMIT 1;"
 max_even, max_even_distance = get_number_and_distance(sql_query)
 
 
@@ -630,7 +621,7 @@ end
 def get_number_and_distance(sql_query)
   res  = @conn.exec(sql_query)
   if res.num_tuples == 1 then
-  	return res.entries[0]["#{STREET_ADDRESS_NUM_COL}"].to_i,  res.entries[0]["distance"].to_f
+  	return res.entries[0]["range_low"].to_i,  res.entries[0]["distance"].to_f
   end
 
   return 0,0
@@ -834,7 +825,7 @@ end
 def get_nearest_address_inside_buffer(rna_id,polygon_geom,first_point)
 
   sql_query = <<-EOS
-SELECT #{STREET_ADDRESS_NUM_COL}, ST_Distance(ST_SetSRID(#{first_point}, #{WORKING_SRID}), #{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance 
+SELECT range_low, ST_Distance(ST_SetSRID(#{first_point}, #{WORKING_SRID}), #{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance 
 FROM #{STREET_ADDRESS_TABLE} WHERE
 ST_Intersects(ST_Buffer(#{STREET_ADDRESS_TABLE_INDEX_NAME},100),#{polygon_geom})
 AND rna_id = #{rna_id}
@@ -845,7 +836,7 @@ LIMIT 1;
 res  = @conn.exec(sql_query)
 
 if res.num_tuples == 1 then
-	range_low = res.entries[0]["#{STREET_ADDRESS_NUM_COL}"]
+	range_low = res.entries[0]["range_low"]
 	return range_low
 else
 	return nil
@@ -869,7 +860,7 @@ def check_parity_of_neighbours(rna_id,first_point)
 
 # find the nearest address, doesn't really matter which
   sql_query = <<-EOS
-SELECT #{STREET_ADDRESS_NUM_COL}, is_odd, longitude, latitude, ST_Distance(ST_SetSRID(#{first_point}, #{WORKING_SRID}),#{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance 
+SELECT range_low, is_odd, longitude, latitude, ST_Distance(ST_SetSRID(#{first_point}, #{WORKING_SRID}),#{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance 
 FROM #{STREET_ADDRESS_TABLE} WHERE
 rna_id = #{rna_id}
 ORDER BY distance
@@ -879,7 +870,7 @@ LIMIT 1;
 res  = @conn.exec(sql_query)
 
 if res.num_tuples == 1 then
-	range_low_a = res.entries[0]["#{STREET_ADDRESS_NUM_COL}"]
+	range_low_a = res.entries[0]["range_low"]
 	parity_a = res.entries[0]["is_odd"]
 	longitude_a = res.entries[0]["longitude"]
 	latitude_a = res.entries[0]["latitude"]
@@ -889,10 +880,10 @@ end
 
 # now check if its nearest neighbour is of the same parity
   sql_query = <<-EOS
-SELECT #{STREET_ADDRESS_NUM_COL}, is_odd, ST_Distance(ST_SetSRID(ST_MakePoint(#{longitude_a},#{latitude_a}), #{WORKING_SRID}), #{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance 
+SELECT range_low, is_odd, ST_Distance(ST_SetSRID(ST_MakePoint(#{longitude_a},#{latitude_a}), #{WORKING_SRID}), #{STREET_ADDRESS_TABLE_INDEX_NAME}) AS distance 
 FROM #{STREET_ADDRESS_TABLE} WHERE
 rna_id = #{rna_id} and
-#{STREET_ADDRESS_NUM_COL} != #{range_low_a}
+range_low != #{range_low_a}
 ORDER BY distance
 LIMIT 1;
   EOS
@@ -900,7 +891,7 @@ LIMIT 1;
 res  = @conn.exec(sql_query)
 
 if res.num_tuples == 1 then
-	range_low_b = res.entries[0]["#{STREET_ADDRESS_NUM_COL}"]
+	range_low_b = res.entries[0]["range_low"]
 	parity_b = res.entries[0]["is_odd"]
 else
 	return nil
@@ -936,7 +927,7 @@ def print_neat_result(sql_query)
 res  = @conn.exec(sql_query)
 
 if res.num_tuples == 1 then
-	range_low = res.entries[0]["#{STREET_ADDRESS_NUM_COL}"]
+	range_low = res.entries[0]["range_low"]
 	parity = parity_of(range_low)
 	print "#{range_low}, #{parity}\n"
 else

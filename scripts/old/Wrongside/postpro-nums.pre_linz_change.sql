@@ -1,8 +1,8 @@
-Alter table :numstable add primary key (ogc_fid);
+Alter table :numstable add primary key (gid);
 Create Index idx_:numstable ON :numstable USING btree (rna_id);
 
 Alter Table :numstable Add Column  nztm geometry(Point,2193);
-update :numstable set nztm = st_transform(wkb_geometry,2193);
+update :numstable set nztm = st_transform(the_geom,2193);
 
 Alter Table :numstable Add Column asnum_side smallint;
 Alter Table :numstable Add Column asnum_roadid numeric(10);

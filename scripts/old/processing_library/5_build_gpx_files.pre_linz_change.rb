@@ -56,7 +56,7 @@ def pre_processing()
   load_config()
 
   top,right,bottom,left = @bounds
-  sql_query = "SELECT full_address_number, full_road_name, suburb_locality, to_char(shape_x,'9999D999999'), to_char(shape_y,'9999D999999'), rna_id, address_id FROM nz_street_address WHERE ST_Contains(ST_SetSRID(ST_MakeBox2D(ST_Point(#{left}, #{bottom}), ST_Point(#{right} ,#{top})),#{WORKING_SRID}), wkb_geometry);"
+  sql_query = "SELECT address, to_char(st_x(the_geom),'9999D999999'), to_char(st_y(the_geom),'9999D999999'), rna_id, id FROM \"nz-street-address-electoral\" WHERE ST_Contains(ST_SetSRID(ST_MakeBox2D(ST_Point(#{left}, #{bottom}), ST_Point(#{right} ,#{top})),#{WORKING_SRID}), the_geom);"
   require '..\linzdataservice\nzogps_library.rb'
   
   begin
@@ -91,16 +91,18 @@ def pre_processing()
 
     res.values.each{|row|
       @pbar.inc
-      address = "#{row[0]} #{doContractions(row[1])}, #{row[2]}"
+      address = doContractions(row[0]).gsub(/\w+/) do |word|
+        word.capitalize
+      end
 
-      lon = row[3].strip
-      lat = row[4].strip
-      linzid = row[5]
-      pointid = row[6]
+      lon = row[1].strip
+      lat = row[2].strip
+      linzid = row[3]
+      pointid = row[4]
       f.print <<-eos
 <wpt lat="#{lat}" lon="#{lon}">
 <name>#{CGI::escapeHTML(address)}</name>
-<desc>Rd:#{linzid}-ID:#{pointid}</desc>
+<desc>#{linzid}-#{pointid}</desc>
 </wpt>
       eos
     }

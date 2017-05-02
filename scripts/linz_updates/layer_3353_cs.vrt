@@ -1,0 +1,33 @@
+<OGRVRTDataSource>
+  <OGRVRTLayer name="layer_3353_cs">
+    <SrcDataSource relativeToVRT="1">layer_3353_cs.csv</SrcDataSource>
+    <GeometryType>wkbPoint</GeometryType>
+    <LayerSRS>EPSG:4167</LayerSRS>
+    <GeometryField encoding="WKT" field="shape" reportSrcColumn="FALSE" />
+    <FID>address_id</FID>
+    <Field name="__change__" src="__change__" type="String" width="40" />
+    <Field name="address_id" src="address_id" type="Integer" />
+    <Field name="change_id" src="change_id" type="Integer" />
+    <Field name="address_type" src="address_type" type="String" width="20" />
+    <Field name="unit_value" src="unit_value" type="String" width="70" />
+    <Field name="address_number" src="address_number" type="Integer" />
+    <Field name="address_number_suffix" src="address_number_suffix" type="String" width="10" />
+    <Field name="address_number_high" src="address_number_high" type="Integer" />
+    <Field name="water_route_name" src="water_route_name" type="String" width="100" />
+    <Field name="water_name" src="water_name" type="String" width="100" />
+    <Field name="suburb_locality" src="suburb_locality" type="String" width="80" />
+    <Field name="town_city" src="town_city" type="String" width="80" />
+    <Field name="full_address_number" src="full_address_number" type="String" width="100" />
+    <Field name="full_road_name" src="full_road_name" type="String" width="250" />
+    <Field name="full_address" src="full_address" type="String" width="400" />
+    <Field name="road_section_id" src="road_section_id" type="Integer" />
+    <Field name="gd2000_xcoord" precision="8" src="gd2000_xcoord" type="Real" width="20" />
+    <Field name="gd2000_ycoord" precision="8" src="gd2000_ycoord" type="Real" width="20" />
+    <Field name="water_route_name_ascii" src="water_route_name_ascii" type="String" width="100" />
+    <Field name="water_name_ascii" src="water_name_ascii" type="String" width="100" />
+    <Field name="suburb_locality_ascii" src="suburb_locality_ascii" type="String" width="100" />
+    <Field name="town_city_ascii" src="town_city_ascii" type="String" width="100" />
+    <Field name="full_road_name_ascii" src="full_road_name_ascii" type="String" width="100" />
+    <Field name="full_address_ascii" src="full_address_ascii" type="String" width="100" />
+  </OGRVRTLayer>
+</OGRVRTDataSource>

@@ -1,18 +1,9 @@
-ALTER TABLE "nz-street-address-electoral" ADD COLUMN is_odd boolean;
---ALTER TABLE "nz-street-address-electoral" ADD COLUMN range_low integer;
---house_numb: 8
---UPDATE "nz-street-address-electoral" SET range_low = cast(house_numb AS INTEGER) WHERE house_numb ~* E'^\\d+$';
---house_numb: 8A
---UPDATE "nz-street-address-electoral" SET range_low = cast(substring(house_numb FROM E'^(\\d+)\\w$') AS INTEGER) WHERE range_low IS NULL AND house_numb ~* E'^\\d+\\w$';
---house_numb: 8-10
---UPDATE "nz-street-address-electoral" SET range_low = cast(substring(house_numb FROM E'^(\\d+)[A-Z]?\-\\d+[A-Z]?$') AS INTEGER) WHERE range_low IS NULL AND house_numb ~* E'^(\\d+)[A-Z]?\-\\d+[A-Z]?$';
---house_numb: 1A/10
---UPDATE "nz-street-address-electoral" SET range_low = cast(substring(house_numb FROM E'^\\d+\/(\\d+)\-?') AS INTEGER) WHERE range_low IS NULL AND house_numb ~* E'^\\d+\/(\\d+)\-?';
---house_numb: 1/10 and 1/10-5/10
---UPDATE "nz-street-address-electoral" SET range_low = cast(substring(house_numb FROM E'^\\d+\/(\\d+)\-?') AS INTEGER) WHERE range_low IS NULL AND house_numb ~* E'^\\d+\/(\\d+)\-?';
---set is_odd
-UPDATE "nz-street-address-electoral" SET is_odd = MOD(range_low,2) = 1;
+CREATE INDEX idx_road_id ON nz_roads_subsections_addressing USING btree (road_id);
+ALTER TABLE nz_street_address ADD COLUMN is_odd boolean;
+ALTER TABLE nz_street_address ADD COLUMN rna_id integer;
+UPDATE nz_street_address SET is_odd = MOD(address_number,2) = 1;
+UPDATE nz_street_address sa SET rna_id = rsa.road_id from nz_roads_subsections_addressing rsa where rsa.road_section_id = sa.road_section_id;
 
 --now add indexes for speed
-CREATE INDEX idx_rna_id ON "nz-street-address-electoral" USING btree (rna_id);
-CREATE INDEX idx_rna_id_is_odd ON "nz-street-address-electoral" USING btree (rna_id,is_odd);
+CREATE INDEX idx_rna_sae_id ON nz_street_address USING btree (rna_id);
+CREATE INDEX idx_rna_sae_id_is_odd ON nz_street_address USING btree (rna_id,is_odd);

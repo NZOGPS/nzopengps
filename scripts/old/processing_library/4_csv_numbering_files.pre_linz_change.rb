@@ -20,9 +20,9 @@ end
 def pre_processing()
 
   top,right,bottom,left = @bounds
-  sql_query = "SELECT  DISTINCT ON (rna_id, address_number) address_number, full_road_name, to_char(shape_x,'9999D999999'), to_char(shape_y,'9999D999999'), rna_id FROM nz_street_address WHERE rna_id is not null and ST_Contains(ST_SetSRID(ST_MakeBox2D(ST_Point(#{left}, #{bottom}), ST_Point(#{right} ,#{top})),#{WORKING_SRID}), wkb_geometry);"
-  sql_high_query = sql_query.gsub("address_number","address_number_high");
-  sql_high_query = sql_high_query.gsub("and ST_Contains","and address_number_high is not null and address_number_high <> 0 and address_number_high <> address_number and ST_Contains");
+  sql_query = "SELECT  DISTINCT ON (rna_id, range_low) range_low, road_name, to_char(st_x(the_geom),'9999D999999'), to_char(st_y(the_geom),'9999D999999'), rna_id FROM \"nz-street-address-electoral\" WHERE ST_Contains(ST_SetSRID(ST_MakeBox2D(ST_Point(#{left}, #{bottom}), ST_Point(#{right} ,#{top})),#{WORKING_SRID}), the_geom);"
+  sql_high_query = sql_query.gsub("range_low","range_high");
+  sql_high_query = sql_high_query.gsub("WHERE ST_Contains","WHERE range_high is not null and range_high <> range_low and ST_Contains");
 
 begin
   require 'pg'
@@ -70,7 +70,6 @@ end
       csv << [i, row[3].strip, row[2].strip, (row[0]+" "+row[1]), row[4], "Waypoint"]
     }
     # run extra query for range_high data
-#	print "Hi Qry: #{sql_high_query}\n"
     res  = @conn.exec(sql_high_query)
     res.values.each{|row|
       i += 1

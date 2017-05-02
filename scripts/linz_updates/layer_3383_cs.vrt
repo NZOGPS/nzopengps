@@ -1,0 +1,41 @@
+<OGRVRTDataSource>
+  <OGRVRTLayer name="layer_3383_cs">
+    <SrcDataSource relativeToVRT="1">layer_3383_cs.csv</SrcDataSource>
+    <GeometryType>wkbMultiLineString</GeometryType>
+    <LayerSRS>EPSG:4167</LayerSRS>
+    <GeometryField encoding="WKT" field="shape" reportSrcColumn="FALSE" />
+    <FID>road_section_geometry_id</FID>
+    <Field name="__change__" src="__change__" type="String" width="40" />
+    <Field name="road_section_geometry_id" src="road_section_geometry_id" type="Integer" />
+    <Field name="road_section_id" src="road_section_id" type="Integer" />
+    <Field name="geometry_class" src="geometry_class" type="String" width="40" />
+    <Field name="road_type" src="road_type" type="String" width="40" />
+    <Field name="road_section_type" src="road_section_type" type="String" width="40" />
+    <Field name="address_range_road_id" src="address_range_road_id" type="Integer" />
+    <Field name="road_id" src="road_id" type="Integer" />
+    <Field name="full_road_name" src="full_road_name" type="String" width="250" />
+    <Field name="road_name_label" src="road_name_label" type="String" width="100" />
+    <Field name="road_name_prefix" src="road_name_prefix" type="String" width="100" />
+    <Field name="road_name_body" src="road_name_body" type="String" width="80" />
+    <Field name="road_name_type" src="road_name_type" type="String" width="80" />
+    <Field name="road_name_suffix" src="road_name_suffix" type="String" width="100" />
+    <Field name="secondary_road_name" src="secondary_road_name" type="String" width="250" />
+    <Field name="full_route_name" src="full_route_name" type="String" width="250" />
+    <Field name="secondary_route_name" src="secondary_route_name" type="String" width="250" />
+    <Field name="tertiary_route_name" src="tertiary_route_name" type="String" width="250" />
+    <Field name="left_suburb_locality" src="left_suburb_locality" type="String" width="80" />
+    <Field name="right_suburb_locality" src="right_suburb_locality" type="String" width="80" />
+    <Field name="left_town_city" src="left_town_city" type="String" width="80" />
+    <Field name="right_town_city" src="right_town_city" type="String" width="80" />
+    <Field name="left_territorial_authority" src="left_territorial_authority" type="String" width="80" />
+    <Field name="right_territorial_authority" src="right_territorial_authority" type="String" width="80" />
+    <Field name="full_road_name_ascii" src="full_road_name_ascii" type="String" width="250" />
+    <Field name="road_name_label_ascii" src="road_name_label_ascii" type="String" width="250" />
+    <Field name="road_name_body_ascii" src="road_name_body_ascii" type="String" width="250" />
+    <Field name="secondary_road_name_ascii" src="secondary_road_name_ascii" type="String" width="250" />
+    <Field name="left_suburb_locality_ascii" src="left_suburb_locality_ascii" type="String" width="80" />
+    <Field name="right_suburb_locality_ascii" src="right_suburb_locality_ascii" type="String" width="80" />
+    <Field name="left_town_city_ascii" src="left_town_city_ascii" type="String" width="80" />
+    <Field name="right_town_city_ascii" src="right_town_city_ascii" type="String" width="80" />
+  </OGRVRTLayer>
+</OGRVRTDataSource>

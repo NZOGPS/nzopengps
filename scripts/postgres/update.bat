@@ -19,6 +19,6 @@ time /t
 rem roads
 %nzogps_ogr2ogr% --config PG_USE_COPY TRUE -f "PostgreSQL" "PG:host=localhost user=postgres  dbname=nzopengps" -lco OVERWRITE=yes -nlt MULTILINESTRING "%nzogps_rcl%"
 time /t
-%nzogps_psql_bin%psql -U postgres -d nzopengps < postproc999.sql
+%nzogps_psql_bin%psql -U postgres -d nzopengps < postproc.sql
 time /t
 touch ../database.date

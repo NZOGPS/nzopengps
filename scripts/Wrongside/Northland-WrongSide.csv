@@ -1,31 +1,43 @@
-174.0599706,-35.39038025,1 Domain Road,Wrong Side: 923952
-174.0916903167,-35.2826333333,5 Williams Road,Wrong Side: 924822
-174.3908179333,-36.1417761833,141 Point Curtis Road,Wrong Side: 944923
-173.2692790333,-34.9109146333,961 Kaimaumau Road,Wrong Side: 1306105
-173.4551334833,-35.1070111167,299 Peria Road,Wrong Side: 1340287
-172.9718719667,-34.6640944833,6474 Far North Road,Wrong Side: 1342233
-172.9736697833,-34.6656023167,6454 Far North Road,Wrong Side: 1342234
-172.96870625,-34.6631242333,6516 Far North Road,Wrong Side: 1349847
-172.9650915333,-34.6265714667,6959 Far North Road,Wrong Side: 1349895
-173.4626842667,-35.4772687667,38 Whirinaki School Road,Wrong Side: 1351937
-174.0586434667,-35.28094295,1 Johnson Lane,Wrong Side: 1359559
-174.0586224,-35.28108025,3 Johnson Lane,Wrong Side: 1359560
-174.1577677333,-36.2111340833,16 Te Wairoa Lane,Wrong Side: 1360545
-174.2859071833,-35.7387679667,1 Sutton Close,Wrong Side: 1646757
-173.2657617833,-34.9200026167,22 Lake Road,Wrong Side: 1656252
-173.5125297167,-34.9933223167,34 Berghan Road,Wrong Side: 1685644
-174.28623915,-35.7388516667,9 Sutton Close,Wrong Side: 1847378
-174.2861209667,-35.73845425,3 Sutton Close,Wrong Side: 1847395
-174.2399256167,-35.9278695333,59 Gunson Road,Wrong Side: 1848798
-174.17522575,-35.6631118167,32 Appian Way,Wrong Side: 1851343
-174.1737046667,-35.6620747,50 Appian Way,Wrong Side: 1851344
-174.1727417,-35.6623891667,35 Appian Way,Wrong Side: 1851346
-174.2400752667,-36.0971970167,3243 Paparoa-Oakleigh Road,Wrong Side: 1930827
-174.2394340167,-36.0976405,3245 Paparoa-Oakleigh Road,Wrong Side: 1930828
-174.2388872167,-36.0979905833,3255 Paparoa-Oakleigh Road,Wrong Side: 1930829
-174.23913325,-36.0978206333,3251 Paparoa-Oakleigh Road,Wrong Side: 1930830
-174.4827955667,-36.11738935,207 Wonderview Lane,Wrong Side: 1935697
-173.2988898667,-35.3155075333,280 Kohe Road,Wrong Side: 1937848
-174.4278275667,-35.7531356667,134 Kohinui Road,Wrong Side: 1941976
-174.3515674,-36.0949540667,205 Gorge Road,Wrong Side: 1950920
-174.4766943333,-36.1324660667,463 Baldrock Road,Wrong Side: 1951127
+173.94072623,-35.89391250,"295 Tangowahine Settlement West Road, Tangowahine",Wrong Side: 920836
+174.05997060,-35.39038025,"1 Domain Road, Kawakawa",Wrong Side: 923952
+174.09169032,-35.28263333,"5 Williams Road, Paihia",Wrong Side: 924822
+174.20027437,-35.84388422,"11 Maddendale Place, Maungakaramea",Wrong Side: 926787
+174.30344907,-35.69655188,"15 Freehold Lane, Kamo, Whangarei",Wrong Side: 930889
+174.30394860,-35.72992337,"17 Lester Heights Drive, Woodhill, Whangarei",Wrong Side: 931028
+174.39081793,-36.14177618,"141 Point Curtis Road, Maungaturoto",Wrong Side: 944923
+174.54457668,-36.04782540,"29 Gazelle Way, Langs Beach",Wrong Side: 956127
+174.54471308,-36.05032480,"7 Kingswood Place, Langs Beach",Wrong Side: 956220
+173.45513348,-35.10701112,"299 Peria Road, Peria",Wrong Side: 1340287
+174.05864347,-35.28094295,"1 Johnson Lane, Haruru",Wrong Side: 1359559
+174.05862240,-35.28108025,"3 Johnson Lane, Haruru",Wrong Side: 1359560
+174.15776773,-36.21113408,"16 Te Wairoa Lane, Tinopai",Wrong Side: 1360545
+174.52168248,-35.61009107,"13 Spinnaker Lane, Tutukaka",Wrong Side: 1442639
+174.75823108,-36.32081508,"25 Dunbar Road, Point Wells",Wrong Side: 1492209
+174.30465557,-35.70782947,"18 Kensington Heights Rise, Kensington, Whangarei",Wrong Side: 1551298
+174.28590718,-35.73876797,"1 Sutton Close, Maunu, Whangarei",Wrong Side: 1646757
+173.26576178,-34.92000262,"22 Lake Road, Kaimaumau",Wrong Side: 1656252
+173.51252972,-34.99332232,"34 Berghan Road, Coopers Beach",Wrong Side: 1685644
+174.28623915,-35.73885167,"9 Sutton Close, Maunu, Whangarei",Wrong Side: 1847378
+174.28612097,-35.73845425,"3 Sutton Close, Maunu, Whangarei",Wrong Side: 1847395
+174.23992562,-35.92786953,"59 Gunson Road, Waiotira",Wrong Side: 1848798
+174.17522575,-35.66311182,"32 Appian Way, Ruatangata West",Wrong Side: 1851343
+174.17370467,-35.66207470,"50 Appian Way, Ruatangata West",Wrong Side: 1851344
+174.17274170,-35.66238917,"35 Appian Way, Ruatangata West",Wrong Side: 1851346
+173.29888987,-35.31550753,"280 Kohe Road, Pawarenga",Wrong Side: 1937848
+174.42782757,-35.75313567,"134 Kohinui Road, Parua Bay",Wrong Side: 1941976
+174.35156740,-36.09495407,"205 Gorge Road, Maungaturoto",Wrong Side: 1950920
+174.47669433,-36.13246607,"463 Baldrock Road, Kaiwaka",Wrong Side: 1951127
+173.12133730,-35.18014008,"40 Wreck Bay Road, Ahipara, Kaitaia",Wrong Side: 1981071
+173.76931522,-35.07144658,"140B Waikoura Road, Kaeo",Wrong Side: 1996495
+174.59604028,-36.12766082,"22 Tern Point, Mangawhai",Wrong Side: 1999430
+173.68354720,-35.08808713,"196A Waihapa Road, Kaeo",Wrong Side: 2001384
+173.68368855,-35.08808622,"196B Waihapa Road, Kaeo",Wrong Side: 2001385
+174.09544640,-35.28885437,"15A Greys Lane, Paihia",Wrong Side: 2001429
+174.09552192,-35.28890193,"15B Greys Lane, Paihia",Wrong Side: 2001430
+174.17108897,-35.66108003,"74 Appian Way, Ruatangata West",Wrong Side: 2006554
+173.43367497,-35.13379815,"285 Peria Valley Road, Peria",Wrong Side: 2010835
+173.40605003,-35.42543700,"358 Te Karaka Road, Panguru",Wrong Side: 2014448
+173.40603598,-35.42530013,"356 Te Karaka Road, Panguru",Wrong Side: 2014460
+173.86487295,-35.95658555,"152 Logan Street, Dargaville",Wrong Side: 2028290
+174.19174273,-35.82399072,"12 Porter Road, Maungakaramea",Wrong Side: 2030804
+174.28427553,-35.67408312,"2 Parakiore Road, Ngararatunua",Wrong Side: 2032906

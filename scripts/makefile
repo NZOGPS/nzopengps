@@ -31,8 +31,10 @@ install-gdb : $(addsuffix -numbers.gdb,$(addprefix $(NUMBERS)\,$(TILES)))
 install :  install-csv install-gdb
 .PHONY: install
 
-%.zip : $(LINZO)\%-LINZ-V4.mp $(OUTPUTS)\%-report-2.txt $(OUTPUTS)\%-report-6.txt $(OUTPUTS)\%-numbers-linzid.csv $(OUTPUTS)\%-numbers.gdb $(wildcard $(LINZO)\%_20*.csv)
-	$(ZIPIT) $@ $?
+
+%.zip : $(LINZO)\%-LINZ-V4.mp $(OUTPUTS)\%-report-2.txt $(OUTPUTS)\%-report-6.txt $(OUTPUTS)\%-numbers-linzid.csv $(OUTPUTS)\%-numbers.gdb $(wildcard $(LINZO)/%_20*.csv)
+	$(info wc is $(wildcard $(LINZO)/%_20*.csv))
+	$(ZIPIT) $@ $? $(LINZO)/$*_20*.csv
 	
 %-LINZ-V3.mp : %-LINZ.mp $(OUTPUTS)\%-report-2.txt
 	perl colourisenodise.pl $(notdir $*)

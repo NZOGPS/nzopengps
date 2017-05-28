@@ -14,3 +14,5 @@ cd ..\scripts
 call dochecks.bat
 call colouriseall.bat
 call numberlinz.bat
+cd linz_updates
+%nzogps_psql_bin%\psql -U postgres -d nzopengps -c "select NewRoadBookmarks()"

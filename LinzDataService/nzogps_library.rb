@@ -235,21 +235,19 @@ end
 # ###############
 def identify_tile_from_wkt_envelope(record)
 	#slightly nasty method of identifying tile(s) that record intersects
-
 	bounds = record.geometry.envelope # [(MINX, MINY), (MAXX, MINY), (MAXX, MAXY), (MINX, MAXY), (MINX, MINY)]
-	#print "#{bounds.to_s}\n"
 	if bounds.to_s =~ /POLYGON\s?\(\((.*) (.*),.*,(.*) (.*),.*,.*\)\)/ then
 		minx = $1.to_f
 		miny = $2.to_f
 		maxx = $3.to_f
 		maxy = $4.to_f
 		#print "#{i} #{sufi} minx #{minx} miny #{miny} maxx #{maxx} maxy #{maxy}\n"
-	elsif bounds.to_s =~ /LINESTRING\s?\((.*) (.*), (.*) (.*)*\)/ then
+	elsif bounds.to_s =~ /LINESTRING\s?\((.*) (.*), (.*) (.*)\)/ then
 		minx = $1.to_f
 		miny = $2.to_f
 		maxx = $3.to_f
 		maxy = $4.to_f
-		#print "#{i} #{sufi} minx #{minx} miny #{miny} maxx #{maxx} maxy #{maxy}\n"
+		#print "#{record.attributes['id']} minx #{minx} miny #{miny} maxx #{maxx} maxy #{maxy}\n"
 	else
 		raise "bounds unrecognised #{bounds} #{record.attributes.inspect}\n"
 	end
@@ -276,6 +274,7 @@ def identify_tile_from_wkt_envelope(record)
 		if ((maxy <= -42.731949) && (maxy >=  -44.55553)) then tiles << "Canterbury" end
 		if ((maxy <=  -44.555530) && (maxy >= -47.379910)) then tiles << "Southland" end 
 	end
+
 	return tiles.uniq
 end
 

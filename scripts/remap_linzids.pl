@@ -4,7 +4,7 @@ use File::Basename;
 my $lds = "..\\LinzDataService\\";
 my $pdn = "${lds}PaperRoads\\";
 # my $mappingfilename = "${lds}rna_mappings.csv";
-my $mappingfilename = "${lds}street_address_ids.csv";
+my $mappingfilename = "${lds}new_street_address_ids.csv";
 my %idmap;
 my $cnt;
 my $oldfn;
@@ -14,6 +14,7 @@ my $basedir;
 my $basesuff;
 my $oldid;
 my $mode;
+my $dienomatch = 0;
 
 $idmap{0}=0;
 
@@ -33,9 +34,11 @@ sub do_paper_file{
 					s/^$oldid/$idmap{$oldid}/;
 					$cnt++;
 				} else {
-					print "ERROR! linzid map for $1 not found! File $oldfn line $.\n";
-					s/^$oldid/###$oldid### - no new mapping for linzid found/;			
-				}  
+					if ($dienomatch){
+						print "ERROR! linzid map for $1 not found! File $oldfn line $.\n";
+						s/^$oldid/###$oldid### - no new mapping for linzid found/;
+					}
+				}
 			}
 			print MAPPEDF $_;
 		}
@@ -65,7 +68,7 @@ die "No filename specified" if ($ARGV[0] eq "");
 $oldfn = $ARGV[0];
 ($basefile, $basedir, $basesuff) = fileparse($oldfn,qr/\.[^.]*/);
 
-if (0){
+if (1){
 	open INF, $oldfn or die "Cannot find map $oldfn\n";
 	$newfn = $oldfn;
 	$newfn =~ s!\.(?=[^.]*$)!\.remapped\.!;
@@ -78,8 +81,10 @@ if (0){
 				s/$oldid/$idmap{$oldid}/;
 				$cnt++;
 			} else {
-				print "ERROR! linzid map for $1 not found! File $oldfn line $.\n";
-				s/$oldid/###$oldid### - no new mapping for linzid found/;			
+				if ($dienomatch){
+					print "ERROR! linzid map for $1 not found! File $oldfn line $.\n";
+					s/$oldid/###$oldid### - no new mapping for linzid found/;
+				}
 			}  
 		}
 		print MAPPEDF $_;

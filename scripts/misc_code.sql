@@ -482,3 +482,8 @@ BEGIN
    END LOOP;
 END
 $nrbm$ language plpgsql;
+
+copy ( select * from ( select name, old.id, new.road_id, st_hausdorffdistance(new.the_geom,old.the_geom) d from nz_road_centre_line old  join nz_roads_addressing new on new.full_road_ = old.name and id<>road_id ) as t where d < 0.01 order by d ) to 'd:\nzopengps\scripts\outputs\same_name_id_trans.txt' 
+
+copy ( select * from ( select name, old.id, new.road_id, st_hausdorffdistance(new.the_geom,old.the_geom) d from nz_road_centre_line old  join nz_roads_addressing new on new.road_type = old.name and id<>road_id ) as t where d < 0.01 order by d ) to 'd:\nzopengps\scripts\outputs\access-service_id_trans.txt'
+

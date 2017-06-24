@@ -65,3 +65,7 @@
 1828217	O,1,1	Andrew McKee Ave	Auckland Airport, Manukau(Auckland,NZ)	2016/11/12 16:31	-37.006240,174.789730
 1830528	E,170,170	Brigham Creek Rd	Whenuapai, Waitakere(Auckland,NZ)	2016/11/12 20:22	-36.798920,174.633600
 1830962	E,92,92	Bankside Rd	Silverdale(Auckland,NZ)	2016/11/12 20:24	-36.604670,174.673860
+1818739	O,21,21	Bittern Pl	Henderson, Waitakere(Auckland,NZ)	2017/06/20 22:55	-36.856300,174.620330
+1827966	E,30,30	Onslow Ave	Papatoetoe, Manukau(Auckland,NZ)	2017/06/21 19:00	-36.993780,174.859610
+1832212	O,145,145	Deerys Rd	Orere Point(Auckland,NZ)	2017/06/22 11:20	-36.983730,175.248680
+1821783	E,28,28	Homewood Pl	Chatswood, North Shore City(Auckland,NZ)	2017/06/25 00:14	-36.818670,174.711830

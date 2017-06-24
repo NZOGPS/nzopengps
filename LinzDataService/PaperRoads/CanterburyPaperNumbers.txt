@@ -1,15 +1,15 @@
-1778250	O,355,363		Worsleys Road	Hoon Hay, Christchurch (Canterbury, NZ)
+3043375	O,355,363		Worsleys Road	Hoon Hay, Christchurch (Canterbury, NZ)
 1779306	O,213,213	B,233,234	RAVEN QY	Kaiapoi (Canterbury, NZ)
 1779431	E,144,144		View Hill Road
-1780018	E,500,500		Camp Bay Road
+3040015	E,500,500		Camp Bay Road
 1780424	O,9,25	E,6,6		JAMES ST	Coalgate (Canterbury,	NZ)
 1780545	O,17,17	E,16,20		EVERETT ST	Coalgate (Canterbury,	NZ)
 1780554	O,19,85	E,20,30	E,66,66	QUEEN	ST	Coalgate (Canterbury,	NZ)
-1781104	E,2064,2064		Barford Road
+3020447	E,2064,2064		Barford Road
 1784405	O,1,27	E,2,76		TWO CHAIN RD	Swannanoa (Canterbury, NZ)
 1784558	O,23,37	E,20,20		Beacon Street	Brooklands, Christchurch (Canterbury, NZ)
 1784979	O,203,203		BRADYS RD	Loburn (Canterbury, NZ)
-1785094	O,2715,2715 		WOODSTOCK RD	Springfield (Canterbury, NZ)
+3036608	O,2715,2715 		WOODSTOCK RD	Springfield (Canterbury, NZ)
 1785110	O,175,603	E,222,564	Rampaddock Road
 1785144	O,141,387	E,122,390		Mill Road	Oxford (Canterbury, NZ)
 1785230	E,352,354	Gladstone Road		Pegasus (Canterbury, NZ)
@@ -17,13 +17,13 @@
 1785331	O,131,143	E,128,128	Topito Road	
 1780585	E,22,24	O,13,13		Lower High Street	Coalgate (Canterbury, NZ)
 1786269	O,351,351	Kennedys Bush Road	Halswell, Christchurch (Canterbury, NZ)
-1779272	E,700,700	Memorial Avenue	Christchurch Airport, Christchurch (Canterbury, NZ)
-1779230	E,388,388	Main Drain Road	Flaxton (Canterbury, NZ)
+3044768	E,700,700	Memorial Avenue	Christchurch Airport, Christchurch (Canterbury, NZ)
+3056430	E,388,388	Main Drain Road	Flaxton (Canterbury, NZ)
 1785199	E,36,50	O,71,71	Power Road	Flaxton (Canterbury, NZ)
 1780903	E,66,66	Cracroft Street	Hinds (Canterbury, NZ)
 1783813	E,4,16	O,1,1	Edmunds Road	Ohoka (Canterbury, NZ)
 1784950	E,534,534	Smarts Road	Loburn
-1787034	E,110,110	O,87,99	Harpers Road	Okuku (Canterbury, NZ)
+3023127	E,110,110	O,87,99	Harpers Road	Okuku (Canterbury, NZ)
 1785139	E,2,90	O,1,69	E,578,580	Trig Road	View Hill (Canterbury, NZ)
 1779857	E,38,40	Valley Road	Greta Valley (Canterbury, NZ)
 1780612	O,1,1	Bridle Path Road	Heathcote Valley
@@ -32,7 +32,7 @@
 1785129	E,786,886	O,807,881	Bay Road	Oxford (Canterbury, NZ)
 1785175	E,314,440	Perhams Road	View Hill (Canterbury, NZ)	8/05/2011 7:30:22 p.m.
 1784886	E,38,56	Audley Street	Kaiapoi (Canterbury, NZ)	8/05/2011 7:35:48 p.m.
-1779325	E,874,874	Springbank Road	Swannanoa (Canterbury, NZ)	14/05/2011 7:52:09 p.m.
+3030294	E,874,874	Springbank Road	Swannanoa (Canterbury, NZ)	14/05/2011 7:52:09 p.m.
 1785043	O,1,1	O,5,21	E,2,2	Raven Street North	Kaiapoi (Canterbury, NZ)	11/06/2011 8:04:20 p.m.
 1779676	O,181,181	Constitution Road	Rotherham (Canterbury, NZ)	11/06/2011 8:05:25 p.m.
 1785306	E,186,230	O,203,205	Ferry Road	Kaiapoi (Canterbury, NZ)	11/06/2011 8:08:05 p.m.
@@ -45,9 +45,9 @@
 1787510	E,342,480	McPhedrons Road	View Hill (Canterbury, NZ)	13/08/2011 12:44:01 p.m.
 1785188	E,122,170	Clifford Road	Camside	16/08/2011 8:49:39 p.m.
 1774506	E,64,104	LAKE ST	16/08/2011 6:09:27 p.m.
-1786313	O,53,53	Happy Valley Road	RAKAIA RIVER RD	16/08/2011 9:16:49 p.m.
+3042449	O,53,53	Happy Valley Road	RAKAIA RIVER RD	16/08/2011 9:16:49 p.m.
 1781417	O,39,39	Manuka Street	Pleasant Point (Canterbury, NZ)	16/08/2011 9:26:05 p.m.
-1835594	B,321,399	Kaipo Bay Walk	Westland	16/08/2011 9:40:34 p.m.
+3038310	B,321,399	Kaipo Bay Walk	Westland	16/08/2011 9:40:34 p.m.
 1784939	E,40,40	Jacks Road	Loburn (Canterbury, NZ)	16/08/2011 9:08:30 p.m.
 1784945	B,3,49	Queen Street	Loburn (Canterbury, NZ)	16/08/2011 9:39:17 p.m.
 1784971	B,3,10	Norfolk Street	Loburn (Canterbury, NZ)	16/08/2011 10:40:27 p.m.
@@ -76,12 +76,12 @@
 1777874	E,68,68	Brook Street	Riverton (Southland, NZ)	17/09/2011 4:41:03 p.m.
 1784905	B,7,47	Old Harewood Road	Swannanoa (Canterbury, NZ)	26/09/2011 3:44p.m.
 1779780	E,2,10	Jervois Street	Hawarden (Canterbury, NZ)	1/10/2011 11:33:57 p.m.
-1784921	E,6,22	B,194,237	Wolffs Road	Eyrewell Forest (Canterbury, NZ)	17/11/2011 5:32p.m.
+3052898	E,6,22	B,194,237	Wolffs Road	Eyrewell Forest (Canterbury, NZ)	17/11/2011 5:32p.m.
 1782013	E,352,352	Max Smith Drive	Pukaki (Canterbury, NZ)	24/11/2011 1:36p.m.
 1790539	O,11,11	Gow Street	Ross (West Coast, NZ)	24/11/2011 1:38p.m.
 1779175	E,254,254	Barters Road	Islington, Christchurch (Canterbury, NZ)	26/12/2011 6:19:33 p.m.	-43.529689,172.475023
 1780522	E,2,6	HECTOR STREET	Glentunnel (Canterbury, NZ)	26/12/2011 6:21:37 p.m.	-43.469696,171.900178
-1784911	O,145,147	E,476,476	PASHBYS ROAD	Swannanoa (Canterbury, NZ)	26/12/2011 6:24:16 p.m.	-43.423977,172.496568
+3072874	O,145,147	E,476,476	PASHBYS ROAD	Swannanoa (Canterbury, NZ)	26/12/2011 6:24:16 p.m.	-43.423977,172.496568
 1784974	E,368,400	MAORI RESERVE ROAD	Glentui (Canterbury, NZ)	26/12/2011 6:29:14 p.m.	-43.196596,172.299788
 1784943	E,374,390	RAKAHURI ROAD	Glentui (Canterbury, NZ)	26/12/2011 6:33:16 p.m.	-43.254998,172.380446
 1785156	O,599,599	GLENTUI BENNETTS ROAD	Starvation Hill (Canterbury, NZ)	26/12/2011 6:35:28 p.m.	-43.246017,172.279682
@@ -89,7 +89,7 @@
 1788749	O,43,43	GOLF LINKS ROAD	Ruatapu (West Coast, NZ)	26/12/2011 6:45:23 p.m.	-42.731956,170.954414
 1784157	B,120,121	VICKERYS ROAD		Wigram, Christchurch (Canterbury, NZ)	26/12/2011 6:59:04 p.m.	-43.551986,172.559414
 1785112	O,121,149	RAINEYS ROAD	View Hill (Canterbury, NZ)	26/12/2011 7:02:47 p.m.v-43.337326,172.066574
-1780935	B,330,345	PLANTATION ROAD	Winslow (Canterbury, NZ)	26/12/2011 7:04:36 p.m.	-43.915982,171.597312
+3073407	B,330,345	PLANTATION ROAD	Winslow (Canterbury, NZ)	26/12/2011 7:04:36 p.m.	-43.915982,171.597312
 1840360	E,30,30	SHALLOW RUSH ROAD	Seaview (West Coast, NZ)	2/01/2012 4:11p.m.	-42.732135,171.006666
 1785337	B,56,149	JELFS RD	Woodend Beach, Woodend(Canterbury,NZ)	2012/04/13 17:35	-43.334419,172.686447
 1779761	O,661,661	E,884,884	RIVERVIEW RD	Domett(Canterbury,NZ)	2012/10/25 23:23	-42.905090,173.247650
@@ -100,7 +100,7 @@
 1780081	O,179,179	BREITMEYERS RD	Little River(Canterbury,NZ)	2013/08/07 22:28	-43.778480,172.791010
 1781670	O,1,1	HOLLAND ST	Temuka(Canterbury,NZ)	2013/09/03 09:29	-44.236340,171.271150
 1785109	E,66,88	HORNS RD	Starvation Hill(Canterbury,NZ)	2013/10/09 23:34	-43.290950,172.224530
-1790541	E,1340,1340	OLD CHRISTCHURCH RD	Awatuna(West Coast,NZ)	2013/12/01 13:21	-42.731940,171.175350	Tasman Tile
+3005843	E,1340,1340	OLD CHRISTCHURCH RD	Awatuna(West Coast,NZ)	2013/12/01 13:21	-42.731940,171.175350	Tasman Tile
 1783575	E,808,810	WOOLSHED VALLEY RD	Otaio(Canterbury,NZ)	2013/12/06 23:31	-44.555530,171.063480
 1775635	E,1122,1122	BROKEN HUT RD	Omarama(Canterbury,NZ)	2013/12/06 23:32	-44.536250,169.871410
 1786055	E,154,154	DONOVANS RD	Wainui(Canterbury,NZ)	2014/03/16 14:46	-43.809050,172.892240
@@ -108,16 +108,17 @@
 1779387	B,331,442	HAMILTONS RD	Akaroa(Canterbury,NZ)	2014/03/16 15:28	-43.838060,172.951430
 1779284	B,458,605	DALGLISHS RD	Le Bons Bay(Canterbury,NZ)	2014/03/16 15:56	-43.762130,173.094980
 1840379	B,50,55	KNAPPS RD	Okains Bay(Canterbury,NZ)	2014/03/16 16:18	-43.702260,173.057170
-1779381	E,1396,1396	OKAINS BAY RD	Okains Bay(Canterbury,NZ)	2014/03/16 16:19	-43.704000,173.054960
+3065662	E,1396,1396	OKAINS BAY RD	Okains Bay(Canterbury,NZ)	2014/03/16 16:19	-43.704000,173.054960
 1787203	B,451,468	WHITES RD	Little River(Canterbury,NZ)	2014/03/16 23:45	-43.744830,172.831430
 1786160	O,503,507	RICHFIELD RD	Port Levy(Canterbury,NZ)	2014/03/16 23:46	-43.663540,172.821880
-1787165	O,449,449	BAYVIEW RD	Diamond Harbour(Canterbury,NZ)	2014/03/17 23:19	-43.636530,172.720760
+3073577	O,449,449	BAYVIEW RD	Diamond Harbour(Canterbury,NZ)	2014/03/17 23:19	-43.636530,172.720760
 1787005	E,80,80	PINE AVE	Kainga, Christchurch(Canterbury,NZ)	2014/03/25 22:29	-43.407540,172.666900
 1784838	O,21,21	PIKES TRK	Kainga, Christchurch(Canterbury,NZ)	2014/03/25 22:30	-43.407710,172.666150
 1779998	B,150,231	OLD SUMNER LYTTELTON RD		2014/03/30 10:13	-43.602324,172.741532
 1786051	E,392,450	HOLMES BAY VALLEY RD	Pigeon Bay(Canterbury,NZ)	2014/07/06 14:19	-43.675540,172.876480
-1779226	O,831,831	Harewood Rd	Harewood, Christchurch(Canterbury,NZ)	2016/01/23 22:13	-43.478600,172.555720
+3033397	O,831,831	Harewood Rd	Harewood, Christchurch(Canterbury,NZ)	2016/01/23 22:13	-43.478600,172.555720
 1779637	E,24,24	St Leonards St	Culverden(Canterbury,NZ)	2016/08/14 12:21	-42.772560,172.849270
 1786104	E,26,46	Reeves St	Cheviot(Canterbury,NZ)	2016/08/14 12:21	-42.815090,173.275080
 1779692	E,2,2	Levin St	Cheviot(Canterbury,NZ)	2016/08/14 12:26	-42.812300,173.268080
 1779436	E,800,800	Starvation Gully Rd	Pigeon Bay(Canterbury,NZ)	2016/08/14 12:29	-43.686380,172.898950
+3006333	E,10,40	O,177,181	Eyre Main Drain Rd		2017/06/24 23:16	-43.402710,172.593210

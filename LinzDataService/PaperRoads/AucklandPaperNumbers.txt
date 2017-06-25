@@ -69,3 +69,4 @@
 1827966	E,30,30	Onslow Ave	Papatoetoe, Manukau(Auckland,NZ)	2017/06/21 19:00	-36.993780,174.859610
 1832212	O,145,145	Deerys Rd	Orere Point(Auckland,NZ)	2017/06/22 11:20	-36.983730,175.248680
 1821783	E,28,28	Homewood Pl	Chatswood, North Shore City(Auckland,NZ)	2017/06/25 00:14	-36.818670,174.711830
+1832251	O,143,143	Karaka Rd	Beachlands, Manukau(Auckland,NZ)	2017/06/25 13:02	-36.886280,174.992520

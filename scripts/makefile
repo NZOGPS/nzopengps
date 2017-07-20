@@ -33,7 +33,6 @@ install :  install-csv install-gdb
 
 
 %.zip : $(LINZO)\%-LINZ-V4.mp $(OUTPUTS)\%-report-2.txt $(OUTPUTS)\%-report-6.txt $(OUTPUTS)\%-numbers-linzid.csv $(OUTPUTS)\%-numbers.gdb $(wildcard $(LINZO)/%_20*.csv)
-	$(info wc is $(wildcard $(LINZO)/%_20*.csv))
 	$(ZIPIT) $@ $? $(LINZO)/$*_20*.csv
 	
 %-LINZ-V3.mp : %-LINZ.mp $(OUTPUTS)\%-report-2.txt

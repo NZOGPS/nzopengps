@@ -283,17 +283,22 @@ end
 def process_geom_record(record)
 
   linzid = record.attributes['id']
+  addrdid = record.attributes['addrid']
+  if (addrdid != "0") then	# No address_range_road_id results in string "0"
+    addrdid_str = "\n;linznumbid=#{addrdid}"
+    #STDERR.print "addrdid is: #{addrdid}\n"
+end
   streetname = record.attributes['name']
   streetname = doContractions(streetname)
 
-  suburb = record.attributes['locality']
-  region = record.attributes['territoria']
+#  suburb = record.attributes['locality']
+#  region = record.attributes['territoria']
 
   polishformatarray = convertGeometrytoPolish(record)
 
   #routeParam = 2 #yellow in GPSMapEdit
   #routeParam = 4 #light blue in GPSMapEdit
-  routeParam = 7 #red in GPSMapEdit
+  routeParam = 7 #purple in GPSMapEdit
 
   tiles = identify_tile_from_wkt_envelope(record)
   tiles << 'LINZ-NZ-ALL' #catch all tile
@@ -303,7 +308,7 @@ def process_geom_record(record)
 	polishformatarray.each{|polishformat|
 
 		@tileFH[tile].print <<POIEND
-;linzid=#{linzid}
+;linzid=#{linzid}#{addrdid_str}
 [POLYLINE]
 Type=0x6
 Label=#{streetname}

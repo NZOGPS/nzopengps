@@ -8,6 +8,7 @@ my %lids;
 my $filename;
 my $line;
 my $lid;
+my $lnid;
 my $type;
 my $label;
 my $data0;
@@ -15,7 +16,6 @@ my $data0;
 sub process_road(){
 	my $endlevel = 1;
 	my $route = "2,0,0,0,0,0,0,0,0,0,0,0";
-	my $sufi = "";
 	
 	if ($lids{$lid}){
 		if (not $label =~ /STATE HIGHWAY/){
@@ -27,17 +27,18 @@ sub process_road(){
 		$type = "0x16";
 		$label = "WALKWAY";
 		$route = "0,0,0,0,1,1,1,1,1,0,0,1";
-		$sufi = ";sufi=0\n";
 	}
 	
 	if ($label eq "SERVICE LANE"){
 		$type = "0x07";
 		$route = "1,0,0,0,0,0,0,1,0,0,0,0";
-		$sufi = ";sufi=0\n";
 	}
 			
 	print OUT "\n";
-	print OUT ";linzid=$lid\n$sufi";
+	print OUT ";linzid=$lid\n";
+	if ( defined $lnid ){
+		print OUT ";linznumbid=$lnid\n";
+	}
 	print OUT "[POLYLINE]\n";
 	print OUT "Type=$type\n";
 	print OUT "Label=$label\n";
@@ -78,7 +79,11 @@ LINE: while (<MP>) {
 	next LINE if $_ eq "";
 	$line = $_;
 	if ($line =~ /;linzid=(\d+)/) {$lid = $1} else {die "linzid not found line $. - $line\n"};
-	$line = <MP>; #skip the polyline;
+	$line = <MP>;
+	if ($line =~ /;linznumbid=(\d+)/) { #skip the polyline;
+		$lnid = $1;
+		$line = <MP>;
+	} else { undef $lnid }
 	$line = <MP>;
 	if ($line =~ /Type=(.+)/) {$type = $1} else {die "type not found line $. - $line\n"};
 	$line = <MP>;

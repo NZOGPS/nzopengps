@@ -35,7 +35,7 @@
 3030294	E,874,874	Springbank Road	Swannanoa (Canterbury, NZ)	14/05/2011 7:52:09 p.m.
 1785043	O,1,1	O,5,21	E,2,2	Raven Street North	Kaiapoi (Canterbury, NZ)	11/06/2011 8:04:20 p.m.
 1779676	O,181,181	Constitution Road	Rotherham (Canterbury, NZ)	11/06/2011 8:05:25 p.m.
-1785306	E,186,230	O,203,205	Ferry Road	Kaiapoi (Canterbury, NZ)	11/06/2011 8:08:05 p.m.
+3030206	E,186,230	O,203,205	Ferry Road	Kaiapoi (Canterbury, NZ)	11/06/2011 8:08:05 p.m.
 1785318	E,74,94	O,1,227	Lees Road	Woodend Beach, Woodend (Canterbury, NZ)	11/06/2011 8:18:10 p.m.
 1785001	O,221,319	E,300,346	E,768,768	E,840,844	Mountain Road	Okuku (Canterbury, NZ)	19/06/2011 5:02:45 p.m.
 1783249	E,362,368	Major Hornbrook Road	Mount Pleasant, Christchurch (Canterbury, NZ)	19/06/2011 5:04:04 p.m.

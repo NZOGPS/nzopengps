@@ -1,10 +1,13 @@
 use strict;
+use warnings;
 use open IO => ":crlf";
 use Cwd;
+use Data::Dumper;
 use Win32::OLE;
 
 my $tile = $ARGV[0];
 my %lids;
+my %lnids;
 my $filename;
 my $line;
 my $lid;
@@ -12,6 +15,23 @@ my $lnid;
 my $type;
 my $label;
 my $data0;
+
+sub assign_colours_to_lnids(){
+	my %roadnames;
+
+	for (keys %lnids){
+		my $aref = ${$lnids{$_}};
+		my $rdname = $aref->[0];
+		if ( defined $roadnames{$rdname}) {
+			$roadnames{$rdname}++;
+			$roadnames{$rdname}++ if $roadnames{$rdname} == 2; #avoid 2 which is 'ordinary'.
+			$roadnames{$rdname} = 0 if $roadnames{$rdname} >= 7;	#wrap around if 7 which is 'no linzid' or greater.
+			$aref->[1]=$roadnames{$rdname};
+		} else {
+			$roadnames{$rdname} = $aref->[1]
+		}
+	}
+}
 
 sub process_road(){
 	my $endlevel = 1;
@@ -23,6 +43,12 @@ sub process_road(){
 			$route = "7,0,0,0,0,0,0,0,0,0,0,0";
 		}
 	}
+
+	if (defined $lnid && $lnids{$lnid}){
+		$endlevel = 1;
+		$route =  ${$lnids{$lnid}}->[1] . ",0,0,0,0,0,0,0,0,0,0,0";
+	}
+
 	if ($label eq "ACCESSWAY"){
 		$type = "0x16";
 		$label = "WALKWAY";
@@ -46,22 +72,34 @@ sub process_road(){
 	print OUT "Data0=$data0\n";
 	print OUT "RouteParam=$route\n";
 	print OUT "[END]\n";
-}	
-	
+}
+
 die "usage: $0 tilename\n" if $tile eq ""; 
 
 $filename = "outputs/$tile-report-2.txt";
 open (REPORT, $filename) or die "$filename not found\n";
+
 HEADER: while (<REPORT>) {
 	last HEADER if /[\d]+ LINZ ids are missing/;
 }
-BODY: while (<REPORT>) {
-	last BODY if /#{29}/;
+GETLIDS: while (<REPORT>) {
+	last GETLIDS if /#{29}/; #29 #'s?
 	if (/^;linzid=(\d+)\t\D+/){
 		$lids{$1}=1;
 	}
 }
+INTERIM: while (<REPORT>) {
+	last INTERIM if /[\d]+ Number range ids are missing/;
+}
+GETLNMIDS: while (<REPORT>) {
+	last GETLNMIDS if /#{29}/; #29 #'s?
+	if (/^;linznumbid=(\d+)\t(\D.*)\t/){
+		$lnids{$1}=\[$2,0];
+	}
+}
 close REPORT;
+
+assign_colours_to_lnids();
 
 $filename = "../LinzDataService/outputslinz/$tile-LINZ.mp";
 open (MP, $filename) or die "$filename not found\n";

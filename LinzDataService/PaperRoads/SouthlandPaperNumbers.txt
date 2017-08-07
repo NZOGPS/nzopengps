@@ -96,7 +96,7 @@
 1774641	O,33,33	Craig Street	Palmerston (Otago, NZ)	11/01/2012 2:38p.m.	-45.487088,170.719367
 1770720	O,53,53	Clayton Street	Kakanui (Otago, NZ)	11/01/2012 3:57p.m.	-45.181570,170.901966
 1773018	E,74,80	Moana Street	Aramoana (Otago, NZ)	11/01/2012 4:29p.m.	-45.782869,170.714974
-1841695	O,1,1	Quarantine Island (Beach)	Aramoana (Otago, NZ)	11/01/2012 10:40:15 p.m.
+3056183	O,1,3	Quarantine Island (Beach)	Aramoana (Otago, NZ)	11/01/2012 10:40:15 p.m.
 1772713	B,5,12	Edward Street	Abbotsford, Dunedin (Otago, NZ)	11/01/2012 11:18:25 p.m.	-45.896806,170.433030
 1778633	E,52,52	Kendal St	Otautau (Southland, NZ)	17/01/2012 4:20p.m.
 1777791	O,11,11	Devon St	Otautau (Southland, NZ)	17/01/2012 6:34p.m.

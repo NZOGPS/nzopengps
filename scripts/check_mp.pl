@@ -1,9 +1,12 @@
-use strict;
+#use strict;
+use warnings;
 use feature qw "switch say";
+use Carp qw(shortmess);
 no if $] >= 5.018, warnings => "experimental::smartmatch";
 use File::Basename;
 use Cwd;
 use Getopt::Std;
+use Data::Dumper;
 
 my $basefile;
 my $basedir;
@@ -18,16 +21,19 @@ my @roads;
 my @namesnot2index;
 my %bysufi;
 my %bylinzid;
+my %bylinznumbid;
 my $byid;
 my %papernumbers;
 my %bynodid;
 
 my %debug = (
 	sbid			=> 0,
-	overlaperr		=> 0,
+	overlaperr		=> 1950606,	#1 or linzid
 	olcheck			=> 0,
-	ol1numtype		=> 0,
+	ol1numtype		=> 1950606,	#1 or linzid
+	rdoverlap		=> 0,
 	readpapernums	=> 0,
+	routecheck		=> 0,
 	unnumbered		=> 0,
 	addnode			=> 0,
 	numberedid0		=> 0,
@@ -127,6 +133,9 @@ sub parsenods{
 
 
 sub do_polyline{
+#
+# comments are just stored for now. IDs are parsed into the data structure in id_check later.
+#
 	my $comment = shift;	#0
 	my $type;		#1
 	my @label;		#2
@@ -137,6 +146,7 @@ sub do_polyline{
 	my $lineno = $.;	#7
 	my @sufi=(-1,-1,-1);	#8
 	my @linzid=(-1,-1,-1);	#18
+	my $linznumid=-1;	#19
 	my @data;
 	my @numbers; #for now?
 	my $coordstr;
@@ -189,12 +199,12 @@ sub do_polyline{
 		}
 		if (/^\[END\]$/)	{ #end of def - collect everything up and exit
 			for $i (@label) {
-				$i=~s/~\[0x[[:xdigit:]]+\]/SH/;
+				if ( defined $1 ) { $i=~s/~\[0x[[:xdigit:]]+\]/SH/};
 			}
 			parsenums(\@numarray,@numbers);
 			parsenods(\@nodarray,\@x,\@y,@nods);
-			push @roads,[$comment,$type,\@label,$endlevel,$cityidx,$roadid,$routeparam,$lineno,\@sufi,\@x,\@y,\@numarray,\@nods,$label2,$numnum,\@nodarray,$dirindicator,$autonum,\@linzid];
-#			-------------0--------1-------2-----3---------4--------5-------6-----------7--------8------9---10--11---------12----13------14-------15---------16-----------17--------18-------			
+			push @roads,[$comment,$type,\@label,$endlevel,$cityidx,$roadid,$routeparam,$lineno,\@sufi,\@x,\@y,\@numarray,\@nods,$label2,$numnum,\@nodarray,$dirindicator,$autonum,\@linzid,$linznumid];
+#			-------------0--------1-------2-----3---------4--------5-------6-----------7--------8------9---10--11---------12----13------14-------15---------16-----------17-------18-------19
 			last;
 		}
 	}
@@ -211,19 +221,17 @@ sub dump_id2 {
 	my @road = @$ridptr;
 	my @x = @{$road[9]};
 	my @y = @{$road[10]};
-	my $roadname = $road[2][0];
+	my $roadname = $road[2][0] || "unnamed";
 	my $i;
-		
-	if ( $roadname eq ""){
-		$roadname = "unnamed";
-	}
+
 	for $i (1..2) {
 		if ($road[2][$i]){
 			$roadname .= " / " . $road[2][$i];
 		}
 	} 
-	
+
 	if ( $nodn2 < 0 ){
+	print shortmess() if not defined $nodno;
 		print "Road is $roadname, Line $road[7], Coord is\t$x[$nodno],$y[$nodno]\n";
 	} else {
 		print "Road is $roadname, Line $road[7], Coords are $x[$nodno],$y[$nodno] and\t$x[$nodn2],$y[$nodn2]\n";
@@ -239,9 +247,11 @@ sub id_check {
 	my $autonum;
 	my $ancnt;
 	my $noancnt;
+	my $lnidcnt;
 	my $i;
-	
-	# parse comments, and...
+#
+# parse comments, set linzid, sufi, count autonumber lines, check for errors
+#
 	print "Check for valid sufis/linzids...\n";
 	for $road (@roads) {
 		$cmt = $$road[0];
@@ -273,7 +283,7 @@ sub id_check {
 			}
 
 			if ($line=~/^linzid([23]?)=(\d+)/) {
-				my $i = $1?$1-1:0;
+				my $i = $1?$1-1:0;	#set id value - none->0
 				if ($$road[18][$i]==-1){
 					$$road[18][$i]=$2;
 				} else {
@@ -289,6 +299,28 @@ sub id_check {
 			else {
 				if ($line=~/linzid=/i) {
 					print "Warning: odd linzid definition: $line\n";
+					dump_id2($road,0,-1);
+					print "\n";
+				}
+			}
+
+			if ($line=~/^linznumbid=(\d+)/) {
+				if ($$road[19]==-1){
+					$$road[19]=$1;
+					$lnidcnt++;
+				} else {
+					if ($1==$$road[19]){
+						print "Warning: multiple copies of same linznumbid${1}\n";
+					} else {
+						print " * Error: multiple linznumbids $1,$$road[19]\n";
+					}
+					dump_id2($road,0,-1);
+					print "\n";
+				}
+			}
+			else {
+				if ($line=~/linznumbid=/i) {
+					print "Warning: odd linznumbid definition: $line\n";
 					dump_id2($road,0,-1);
 					print "\n";
 				}
@@ -325,13 +357,17 @@ sub id_check {
 
 		$autonum ? $ancnt++ : $noancnt++;
 	}
-	print sprintf "%s roads autonumbered, %s roads manually numbered.\n", $ancnt ? $ancnt : "No", $noancnt ? $noancnt : "no";
+	print sprintf "%s roads autonumbered, %s roads manually numbered, %s roads with linznumids.\n", $ancnt ? $ancnt : "No", $noancnt ? $noancnt : "no", $lnidcnt ? $lnidcnt : "no";
 }
 
 sub sort_by_id {
-	#must call id_check first to populate sufi & linzid field
+#
+# must call id_check first to populate sufi & linzid field
+# this populates @bysufi @bylinzid and @bylinznumbid
+#
 	my $sufi;
 	my $linzid;
+	my $linznumbid;
 	my $idn;
 	my $i = 0;
 	
@@ -340,7 +376,9 @@ sub sort_by_id {
 		for $idn (0..$maxlbl-1){
 			$sufi = $$road[8][$idn];
 			$linzid = $$road[18][$idn];
-			if (($idn = 0) || ($sufi!=-1)){ 
+			$linznumbid = $$road[19];
+
+			if (($idn == 0) || ($sufi!=-1)){ 
 				if (exists($bysufi{$sufi})){
 					if ($debug{'sbid'}){print "in sbid - another road for sufi $sufi\n"}
 					push(@{$bysufi{$sufi}},[$i,$idn]);
@@ -349,13 +387,23 @@ sub sort_by_id {
 					$bysufi{$sufi}[0]=[$i,$idn];
 				}
 			}
-			if (($idn = 0) || ($linzid!=-1)){ 
+
+			if (($idn == 0) || ($linzid!=-1)){ 
 				if (exists($bylinzid{$linzid})){
 					if ($debug{'sbid'}){print "in sbid - another road for linzid $linzid\n"};
-				push(@{$bylinzid{$linzid}},[$i,$idn]);
+					push(@{$bylinzid{$linzid}},[$i,$idn]);
 				} else {
 					if ($debug{'sbid'}){print "in sbid - new linzid $linzid\n"};
 					$bylinzid{$linzid}[0]=[$i,$idn];
+				}
+				if ($linznumbid > 0) {
+					if (exists($bylinznumbid{$linzid}{$linznumbid})){
+						if ($debug{'sbid'}){print "in sbid - another road for linzid $linzid\n"};
+						push(@{$bylinznumbid{$linzid}{$linznumbid}},[$i,$idn]);
+					} else {
+						if ($debug{'sbid'}){print "in sbid - new linzid $linzid\n"};
+						$bylinznumbid{$linzid}{$linznumbid}[0]=[$i,$idn];
+					}
 				}
 			}
 		}
@@ -373,7 +421,7 @@ sub nosufiset {
 		for my $j (@nosufi){
 			$dec = oct(${$roads[$j->[0]]}[1]);
 			if ( $dec <= oct("0xC")) {	#<+roundabout
-				if ( ${$roads[$j->[0]]}[2][0] ne "") {
+				if ( defined ${$roads[$j->[0]]}[2][0] && ${$roads[$j->[0]]}[2][0] ne "") {
 					print "Type is ${$roads[$j->[0]]}[1]/$roadtype{$dec}, ";
 					dump_id2($roads[$j->[0]],0,-1);
 				}
@@ -388,20 +436,21 @@ sub nosufiset {
 sub nolinzidset {
 	my $dec;
 	
-	print "Check for roads with no linzid set:\n";
+	print "Check for roads with no linzid set: ";
 	if ( exists($bylinzid{-1})){
+		print "\n"; # keep the 'none found' on the same line
 		my @nolinzid = @{$bylinzid{-1}};
 		for my $j (@nolinzid){
 			$dec = oct(${$roads[$j->[0]]}[1]);
 			if ( $dec <= oct("0xC")) {	#<+roundabout
-				if ( ${$roads[$j->[0]]}[2][0] ne "") {
+				if ( defined ${$roads[$j->[0]]}[2][0] && ${$roads[$j->[0]]}[2][0] ne "") {
 					print "Type is ${$roads[$j->[0]]}[1]/$roadtype{$dec}, ";
 					dump_id2($roads[$j->[0]],0,-1);
 				}
 			}
 		}
 	} else {
-		print "None found\n";
+		print "none found\n";
 	}
 }
 
@@ -416,7 +465,6 @@ sub dump_by_id{
 }
 
 
-
 sub overlap_err{
 	my $beg   = shift; #start number
 	my $lst   = shift; #end number
@@ -429,20 +477,23 @@ sub overlap_err{
 	my $lasta = $nid; 
 	my $lastb;
 	my $rangestr;
+	my $debugthis = 0;
+	
+	$debugthis = $debug{'overlaperr'} && ( $debug{'overlaperr'} == 1 || grep {/$debug{'overlaperr'}/} $$road[18][0] );
 
-	if ($debug{'overlaperr'}){print "overlap_err: beg:$beg lst:$lst isend:$isend nid:$nid nno:$nno red(1):$$red[1] red(2):$$red[2] red(3):$$red[3] red(0,14): $$red[0][14]\n"}
+	if ($debugthis){print "overlap_err: beg:$beg lst:$lst isend:$isend nid:$nid nno:$nno red(1):$$red[1] red(2):$$red[2] red(3):$$red[3] red(0,14): $$red[0][14]\n"}
 	if ($lst == $beg){
 		if ( $isend and $$red[2]){ #both nodes are ends
 			# have to convolve $nid and $isend to get right end...
 			if ( $isend & 1 ){
 				$x1 = $$road[9][$nid];
 				$y1 = $$road[10][$nid];
-				if ($debug{'overlaperr'}){print "overlap_err: isend=1 x1,y1= $x1,$y1\n"}
+				if ($debugthis){print "overlap_err: isend=1 x1,y1= $x1,$y1\n"}
 
 				if ( $$red[2] & 1){
-					if ($debug{'overlaperr'}){print "overlap_err: red2=1 x2,y2= $$red[0][9][$$red[1]],$$red[0][10][$$red[1]]\n"}
+					if ($debugthis){print "overlap_err: red2=1 x2,y2= $$red[0][9][$$red[1]],$$red[0][10][$$red[1]]\n"}
 					if (($x1 == $$red[0][9][$$red[1]])&&($y1 == $$red[0][10][$$red[1]])){
-						if ($debug{'overlaperr'}){print "match 1,1\n"}
+						if ($debugthis){print "match 1,1\n"}
 						return 0;
 					}
 				}
@@ -452,9 +503,9 @@ sub overlap_err{
 					} else {
 						$lastb = $#{$$red[0][9]}; #last node
 					}
-					if ($debug{'overlaperr'}){print "overlap_err: red2=2 lastb=$lastb x2,y2= $$red[0][9][$lastb],$$red[0][10][$lastb]\n"}
+					if ($debugthis){print "overlap_err: red2=2 lastb=$lastb x2,y2= $$red[0][9][$lastb],$$red[0][10][$lastb]\n"}
 					if (($x1 == $$red[0][9][$lastb])&&($y1 == $$red[0][10][$lastb])){
-						if ($debug{'overlaperr'}){print "match 1,2\n"}
+						if ($debugthis){print "match 1,2\n"}
 						return 0;
 					}
 				}
@@ -462,19 +513,19 @@ sub overlap_err{
 			if ( $isend & 2 ){
 				if (($nno+1) < $$road[14]){ #this node numberx < max numbers
 					$lasta = $$road[11][$nno+1][0];
-					if ($debug{'overlaperr'}){print "overlap_err: red2=2,isend=2,set lasta=road[11][$nid+1][0]=$lasta\n"}
+					if ($debugthis){print "overlap_err: red2=2,isend=2,set lasta=road[11][$nid+1][0]=$lasta\n"}
 				} else {
 					$lasta = $#{$$road[9]}; #last node
 				}
 				
 				$x1 = $$road[9][$lasta];
 				$y1 = $$road[10][$lasta];
-				if ($debug{'overlaperr'}){print "overlap_err: isend=2 nid=$nid, road(14)=$$road[14],lasta=$lasta x1,y1= $x1,$y1\n"}
+				if ($debugthis){print "overlap_err: isend=2 nid=$nid, road(14)=$$road[14],lasta=$lasta x1,y1= $x1,$y1\n"}
 
 				if ( $$red[2] & 1){
 #					print "overlap_err: red2=1 x2,y2= $$red[0][9][$$red[1]],$$red[0][10][$$red[1]]\n";
 					if (($x1 == $$red[0][9][$$red[1]])&&($y1 == $$red[0][10][$$red[1]])){
-						if ($debug{'overlaperr'}){print "match 2,1\n"}
+						if ($debugthis){print "match 2,1\n"}
 						return 0;
 					}
 				}
@@ -484,7 +535,7 @@ sub overlap_err{
 					} else {
 						$lastb = $#{$$red[0][9]}; #last node
 					}
-					if($debug{'overlaperr'}){print "overlap_err: red2=2 lastb = $lastb x2,y2= $$red[0][9][$lastb],$$red[0][10][$lastb]\n"}
+					if($debugthis){print "overlap_err: red2=2 lastb = $lastb x2,y2= $$red[0][9][$lastb],$$red[0][10][$lastb]\n"}
 					if (($x1 == $$red[0][9][$lastb])&&($y1 == $$red[0][10][$lastb])){
 #						print "match 2,2\n";
 						return 0;
@@ -500,7 +551,7 @@ sub overlap_err{
 		$rangestr = "$beg to $lst";
 	}
 	print "previous definition:\n";
-	if($debug{'overlaperr'}){print sprintf "overlap_err: node: %s\n", defined($lastb) ? $lastb : "(undefined)" }
+	if($debugthis){print sprintf "overlap_err: node: %s\n", defined($lastb) ? $lastb : "(undefined)" }
 	dump_id2($$red[0],$lastb,-1);
 	local $, = ',';
 	print MISSFILE $$red[0][10][$lastb],$$red[0][9][$lastb],"Previous Overlap of $rangestr","$$red[0][2][0]\n";
@@ -524,8 +575,11 @@ sub overlap_one_numtype {
 	my $err = 0;
 	my $iserr = 0;
 	my $errnod = 0;
-
-	if ($debug{'ol1numtype'}){print "overlap_one_numtype: beg: $beg end: $end dif: $dif nid: $nid nno: $nno road: $$road[2][0]\n"}
+	my $debugthis = 0;
+	
+	$debugthis = $debug{'ol1numtype'} && ( $debug{'ol1numtype'} == 1 || grep {/$debug{'ol1numtype'}/} $$road[18][0] );
+	
+	if ($debugthis){print "overlap_one_numtype: beg: $beg end: $end dif: $dif nid: $nid nno: $nno road: $$road[2][0]\n"}
 	
 	if ( $beg > $end ){ 
 		$dif = -$dif;
@@ -537,7 +591,7 @@ sub overlap_one_numtype {
 		if ($i == $end) {$isend |= 2};
 		if (exists $$srf{$i}){
 			if ( ! $ste ){
-				if ($debug{'ol1numtype'}){print "overlap_one_numtype: setting ste to $i\n";}
+				if ($debugthis){print "overlap_one_numtype: setting ste to $i\n";}
 				$ste = $i;
 				$err++;
 			}
@@ -554,20 +608,20 @@ sub overlap_one_numtype {
 		}
 	} until ( $i == $end );
 
-	if ($debug{'ol1numtype'}){print "overlap_one_numtype: isend is $isend\n"}	 
+	if ($debugthis){print "overlap_one_numtype: isend is $isend\n"}	 
 	$isend = 0;
 	if ( $ste ){
 		if ( $ste == $i){
 			$isend |= 2;
 		}
-		if ($debug{'ol1numtype'}){print "overlap_one_numtype, end - ste: $ste i: $i isend: $isend\n"}
+		if ($debugthis){print "overlap_one_numtype, end - ste: $ste i: $i isend: $isend\n"}
 		($iserr,$errnod) = overlap_err($ste,$i,$road,$$srf{$ste},$isend,$nid,$nno);
 		if (!$iserr){
 			$err--;
 		}
 	}
 	
-	if ($debug{'ol1numtype'}){print "overlap_one_numtype returning $err, $errnod\n"}
+	if ($debugthis){print sprintf "overlap_one_numtype returning %s, %s\n",$err || "(undef)", $errnod || "(undef)"}
 	return ($err,$errnod);
 }
 
@@ -614,54 +668,63 @@ sub overlap_one_side {
 	}
 }	
 
-
-sub overlap_check {
+sub overlap_one_numbered_section {
 	my $road;
 	my $rid;
-	my @numprm;
-
-	my @numa;
 	my $nptr;
-
+	my @numa;
 	my $i;
 	my $l; my $r;
 	my $errnod;
-	
+	my %numset;
+
+	my $roadlstp = shift;
+
+	for my $jp (@$roadlstp){ #for each road of this id
+		my $j = $jp->[0];
+		if ($debug{'olcheck'}){print "overlap_check: j = $j\n"};
+		$road = $roads[$j];
+		if ($debug{'olcheck'}){print "overlap_check - Road: ${$road}[2], RoadID: ${$road}[5]\n"}
+		$rid = $$road[5];
+		@numa = @{$$road[11]};
+
+		for ($i=0; $i<$$road[14];$i++) {	# for each numbered segment
+			$nptr = $numa[$i];
+			($l,$errnod) = overlap_one_side(@$nptr[1..3],$$nptr[0],$i,$road,\%numset);
+			local $, = ',';
+			if ($l) { 
+				if ($debug{'olcheck'}){print sprintf "overlap_check - errnod is %s\n",defined($errnod) ? $errnod : "(undefined)"}
+				print "conflicting definition:\n";
+				dump_id2($road,$errnod,-1); 
+				print "\n";
+				print MISSFILE $$road[10][$errnod],$$road[9][$errnod],"Conflicting Overlap","$$road[2][0]\n";
+			}
+			($r,$errnod) = overlap_one_side(@$nptr[4..6],$$nptr[0],$i,$road,\%numset);
+			if ($r) { 
+				if ($debug{'olcheck'}){print sprintf "overlap_check - errnod is %s\n",defined($errnod) ? $errnod : "(undefined)"}
+				print "conflicting definition:\n";
+				dump_id2($road,$errnod,-1); 
+				print "\n";
+				print MISSFILE $$road[10][$errnod],$$road[9][$errnod],"Conflicting Overlap","$$road[2][0]\n";
+			}
+		}
+	}
+}
+
+sub overlap_check {
+	my @numprm;
+
 	print "Check for overlaps on number ranges...\n";
 	if ($debug{'olcheck'}){print "*** Overlap_Check ***\n"};
-	while( my( $idval, $roadlstp ) = each( %{$byid} ) ) { # for each id
-		my %numset;	# scoped in loop to clear for each new road
-		
+	while( my( $idval, $roadlstp ) = each( %{$byid} ) ) { # for each id, roadlstp is 1-3 e.g linzid, linzid2...
 		if ($debug{'olcheck'}){print "overlap_check: id = $idval\n"};
 		next if $idval == 0 || $idval == -1;	# ignore sufi=0 and no sufi roads
-		for my $jp (@$roadlstp){ #for each road of this id
-			my $j = $jp->[0];
-			if ($debug{'olcheck'}){print "overlap_check: j = $j\n"};
-			$road = $roads[$j];			
-			if ($debug{'olcheck'}){print "overlap_check - Road: ${$road}[2], RoadID: ${$road}[5]\n"}
-			$rid = $$road[5];
-			@numa = @{$$road[11]};
-
-			for ($i=0; $i<$$road[14];$i++) {	# for each numbered segment
-				$nptr = $numa[$i];
-				($l,$errnod) = overlap_one_side(@$nptr[1..3],$$nptr[0],$i,$road,\%numset);
-				local $, = ',';
-				if ($l) { 
-					if ($debug{'olcheck'}){print sprintf "overlap_check - errnod is %s\n",defined($errnod) ? $errnod : "(undefined)"}
-					print "conflicting definition:\n";
-					dump_id2($road,$errnod,-1); 
-					print "\n";
-					print MISSFILE $$road[10][$errnod],$$road[9][$errnod],"Conflicting Overlap","$$road[2][0]\n";
-				}
-				($r,$errnod) = overlap_one_side(@$nptr[4..6],$$nptr[0],$i,$road,\%numset);
-				if ($r) { 
-					if ($debug{'olcheck'}){print sprintf "overlap_check - errnod is %s\n",defined($errnod) ? $errnod : "(undefined)"}
-					print "conflicting definition:\n";
-					dump_id2($road,$errnod,-1); 
-					print "\n";
-					print MISSFILE $$road[10][$errnod],$$road[9][$errnod],"Conflicting Overlap","$$road[2][0]\n";
-				}
+		if ( defined $bylinznumbid{$idval} ) { 
+			for (values %{$bylinznumbid{$idval}}) {
+				overlap_one_numbered_section($_);
 			}
+		} else {
+			overlap_one_numbered_section($roadlstp);
 		}
 	}
 }
@@ -767,17 +830,26 @@ sub routing_check {
 	my $motorway;
 	my $walkway;
 	my $speed7;
-	
+
 	print "Check correct routing: roundabouts 1-way, walkways=no cars, motorways=no bikes/peds, no speed 7\n";
 	for my $road(@roads) {
-		$motorway = (oct($$road[1])==0x1);
-		$walkway = (oct($$road[1])==0x16);
+		if ($debug{'routecheck'}){ print sprintf "in routing_check. Road is %s\n", $$road[2][0] ? $$road[2][0] : "(unnamed)"}
+
+		$motorway   = (oct($$road[1])==0x1);
+		$walkway    = (oct($$road[1])==0x16);
 		$roundabout = (oct($$road[1])==0xc);
 
-		@routeprm = split /,/,$$road[6];
+		if ( defined $$road[6]) { 
+		if ($debug{'routecheck'}){ print sprintf "routing_check: it has routing\n"}
+			@routeprm = split /,/,$$road[6];
+			$speed7 =(oct($routeprm[0])==0x7);
+			$dirr = $routeprm[2];
+		} else {
+			undef $dirr;
+			undef $speed7;
+		}
+
 		$diri = $$road[16];
-		$dirr = $routeprm[2];
-		$speed7 =(oct($routeprm[0])==0x7);
 
 		if ($diri and !$dirr) {
 			print "Warning - road has dirindicator set, but routing is not one-way\n";
@@ -789,14 +861,13 @@ sub routing_check {
 			dump_id2($road,0,-1); 
 			print "\n";
 		}
-		
+
 		if ($speed7) {
 			print "Warning - road has no speed limit (speed 7) set\n";
 			dump_id2($road,0,-1); 
 			print "\n";
 		}
 
-		
 		next if !$motorway and !$walkway and !$roundabout;
 		if ($roundabout) {
 			if (!$dirr and !$diri){
@@ -825,7 +896,7 @@ sub routing_check {
 
 sub dump_by_roadid {
 	my $rid = shift;
-	my $all = ($rid == undef);
+	my $all = ! defined $rid;
 
 	print sprintf "Dump by RoadID (%s)\n",$all ? "all" : $rid;
 	
@@ -836,38 +907,41 @@ sub dump_by_roadid {
 		my @nods; 
 		my $i;
 		my $id;
+		my $label;
 		
 		$id = $cmdopts{l} ? $$_[18] : $$_[8];
 		my @slice =($id->[0],$id->[1],$id->[2]);
-#		for $i (@slice){ print "element is $i\n";};
-		if ($all or ( grep /$rid/,@slice)){
+		$label = $$_[2][0] ? $$_[2][0] : "(none)";
+		if ($all or ( grep /$rid/,@slice) or (grep /$rid/,$label)){
 			print "\{\n";
-				print "\tType:     $$_[1]\n";
-				print "\tLabel:    $$_[2][0]\n";
+				print "\tType:      $$_[1]";
+				if ( defined $roadtype{hex($$_[1])} ){ print  "- $roadtype{hex($$_[1])}\n"} else { print "\n" }
+				print sprintf "\tLabel:     $label\n";
 				for $i(2..3) {
-					if ($$_[2][$i-1]ne""){
-						print "\tLabel$i:   $$_[2][$i-1]\n";
+					if (defined $$_[2][$i-1] ){
+						print "\tLabel$i:    $$_[2][$i-1]\n";
 					}
 				}	
-				print "\tEndLevel: $$_[3]\n";
-				print "\tCityIdx:  $$_[4]\n";
-				print "\tRoadId:   $$_[5]\n";
-				print "\tRoutePrm: $$_[6]\n";
-				print "\tLine No:  $$_[7]\n";
-				print "\tsufi:     $$_[8][0]\n";
+				print "\tEndLevel:  $$_[3]\n";
+				print sprintf "\tCityIdx:   %s\n", $$_[4] ? $$_[4] : "(none)";
+				print sprintf "\tRoadId:    %s\n", $$_[5] ? $$_[5] : "(none)";
+				print sprintf "\tRoutePrm:  %s\n", $$_[6] ? $$_[6] : "(none)";
+				print "\tLine No:   $$_[7]\n";
+				print "\tsufi:      $$_[8][0]\n";
 				for $i(2..3) {
 					if ($$_[8][$i-1]>=0){
-						print "\tsufi$i:    $$_[8][$i-1]\n";
+						print "\tsufi$i:     $$_[8][$i-1]\n";
 					}
-				}	
-				print "\tlinzid:   $$_[18][0]\n";
+				}
+				print "\tlinzid:    $$_[18][0]\n";
 				for $i(2..3) {
 					if ($$_[18][$i-1]>=0){
-						print "\tlinzid$i:  $$_[18][$i-1]\n";
+						print "\tlinzid$i:   $$_[18][$i-1]\n";
 					}
-				}	
-				print "\tNumnum:   $$_[14]\n";
-				print "\tDirindic: $$_[16]\n";
+				}
+				print "\tlinznumid: $$_[19]\n";
+				print "\tNumnum:    $$_[14]\n";
+				print sprintf "\tDirindic:  %s\n", $$_[16] ? $$_[16] : "-";
 				print "\tComment:\n";
 				for ( split/\n/,$$_[0]){
 					print "\t\t$_\n";
@@ -878,13 +952,13 @@ sub dump_by_roadid {
 					for ($i=0;$i<$#x;$i++){
 						print "\t\t$x[$i],$y[$i]\n";
 					}
-				print "\tNumbers\n";
+				print "\tNumbers:\n";
 					@numbers = @{$$_[11]};
 					if ( @numbers ) {
 						for $anum (@numbers) {
 							print "\t\t";
 							for (@{$anum}){
-								 print; print "   ";
+								print; print "   ";
 							}
 							print "\n";
 						}
@@ -904,55 +978,56 @@ sub road_overlap{
 	my %done;
 	my @n1;
 	my $n2;
+	my $rdn;
 	my $i; my $j; my $k; my $l;
 	my $road;
 	my $x; my $y; my $m; my $n;
 	
 	print "Check roads for multiple interconnect points\n";
 	for $road (@roads) {
-#		print "$$road[2][0]\n";
+		$rdn = defined $$road[2][0] ? $$road[2][0] : "(blank)";
+		if ($debug{'rdoverlap'}){ print "$rdn\n" }
 		@n1 = @{$$road[15]};
 		for $n2 (@n1){
-#			print "adding $$road[2][0] to node $$n2[1]\n";
+			if ($debug{'rdoverlap'}){ print "adding $rdn to node $$n2[1]\n" }
 			push @{$nodids{$$n2[1]}},$road;
 		}
 	}
 
 	while( my( $nodv, $roads ) = each( %nodids ) ) {
-#		print "node $nodv\n";
+		if ($debug{'rdoverlap'}){ print "node $nodv\n" }
 		for $i(0..$#$roads){
 			for $k (0..$#{$$roads[$i][15]}){
-				if ( $$roads[$i][15][$k][1]==$nodv ){
+				if ( defined $$roads[$i][15][$k][1] && $$roads[$i][15][$k][1]==$nodv ){
 					$x = $$roads[$i][15][$k][3];
 					$y = $$roads[$i][15][$k][4];
 					$n = $$roads[$i][15][$k][0];
 				}
 			} 
-#			print "connects to $$roads[$i][2] - $#{$$roads[$i][15]} nodes\n";
+			if ($debug{'rdoverlap'}){ print sprintf "connects to %s - $#{$$roads[$i][15]} nodes\n",defined $$roads[$i][2][0] ? $$roads[$i][2][0] : "(blank)"}
 			for $j($i+1..$#$roads){
-#				print "check against $$roads[$j][2] - $#{$$roads[$j][15]} nodes\n";
+				if ($debug{'rdoverlap'}){ print sprintf "check against %s - $#{$$roads[$j][15]} nodes\n", defined $$roads[$j][2][0] ? $$roads[$j][2][0] : "(blank)"}
 				for $l(0..$#{$$roads[$j][15]}){
-					if ( $$roads[$j][15][$l][1]==$nodv ){
+					if ( defined $$roads[$j][15][$l][1] && $$roads[$j][15][$l][1]==$nodv ){
 						$m = $$roads[$j][15][$l][0];
 					}
 				}
 				for $k (0..$#{$$roads[$i][15]}){
 					next if $$roads[$i][15][$k][1]==$nodv;
-#					print "check node $$roads[$i][15][$k][0]\n";
+					if ($debug{'rdoverlap'}){ print "check node $$roads[$i][15][$k][0]\n" }
 					for $l(0..$#{$$roads[$j][15]}){
-#						print "compare to node $$roads[$j][15][$l][0]\n";						
+						if ($debug{'rdoverlap'}){ print "compare to node $$roads[$j][15][$l][0]\n" }
 						if ( $$roads[$i][15][$k][1]==$$roads[$j][15][$l][1]){
-							if (($$roads[$i][15][$k][1]!=$nodv) && 
-								($done{$nodv}!=$$roads[$i][15][$k][1]) && 
-								(abs($$roads[$i][15][$k][0]-$n)==1) &&
-								(abs($$roads[$j][15][$l][0]-$m)==1)){
-									
+							if ( defined $$roads[$i][15][$k][1] && defined $$roads[$i][15][$k][0] && defined $done{$nodv}){
+							if (($$roads[$i][15][$k][1]!=$nodv) && ($done{$nodv}!=$$roads[$i][15][$k][1])){
+								if ($debug{'rdoverlap'}){ print "done is:$done{$nodv}\n"}
+								if ((abs($$roads[$i][15][$k][0]-$n)==1) && (abs($$roads[$j][15][$l][0]-$m)==1)){
 								$done{$$roads[$i][15][$k][1]}=$nodv;
 								print "Roads $$roads[$i][2][0] and $$roads[$j][2][0] have two common nodes:\n";
-#								print "m: $m n: $n k0: $$roads[$i][15][$k][0] l0: $$roads[$j][15][$l][0]\n";
+								if ($debug{'rdoverlap'}){ print "m: $m n: $n k0: $$roads[$i][15][$k][0] l0: $$roads[$j][15][$l][0]\n" }
 								print "$$roads[$i][15][$k][1] at $$roads[$i][15][$k][3],$$roads[$i][15][$k][4] and \n";
 								print "$nodv at $x,$y\n\n";
-							}
+							}}}
 						}
 					}
 				}
@@ -1055,6 +1130,7 @@ sub unnumbered_node_check {
 	print sprintf "%s incorrectly numbered node%s",$uncnt ? $uncnt : "No",$uncnt==1?"\n":"s\n";
 }	
 
+
 sub rbout_level_check {
 	my $road;
 	my @nods;
@@ -1073,17 +1149,19 @@ sub rbout_level_check {
 			if($debug{'rblvlchk'}>3){
 				print "@{$_}\n"
 			}
-			if ($bynodid{${$_}[1]}){
-				if($debug{'rblvlchk'}>2){
-					print "Adding road id $$road[5] - ($$road[2][0]) to node ${$_}[1]\n";
+			if ( defined ${$_}[1] ) {
+				if ( $bynodid{${$_}[1]}){
+					if($debug{'rblvlchk'}>2){
+						print "Adding road id $$road[5] - ($$road[2][0]) to node ${$_}[1]\n";
+					}
+					push @{$bynodid{${$_}[1]}},$road;
+				} else {
+					$bynodid{${$_}[1]} = [$road];
 				}
-				push @{$bynodid{${$_}[1]}},$road;
-			} else {
-				$bynodid{${$_}[1]} = [$road];
 			}
 		}
 	}
-	
+
 	if($debug{'rblvlchk'}>1){
 		print "Roads connected to node 19047:\n";
 		print "$bynodid{19047}\n";
@@ -1091,7 +1169,7 @@ sub rbout_level_check {
 			print "${$_}[2][0]\n";
 		}
 	}
-	
+
 	for $road (@roads) {	# go back through roads
 		if(oct($$road[1])==0xc){	# this time only look at roundabouts
 			@routeprm = split /,/,$$road[6];
@@ -1105,13 +1183,17 @@ sub rbout_level_check {
 			@nods = @{$$road[15]};
 			for (@nods) {			# for each node
 				@nodid = @{$_};
-				for (@{$bynodid{${$_}[1]}}){
-					my $road2 = $_;
-					@routeprm = split /,/,$$road2[6];
-					if ( $routeprm[1] > $hiclass ){
-						$hiclass = $routeprm[1];
-						@hinode = @nodid;
-						$hiroad = $road2;
+				if ( defined ${$_}[1]){
+					for (@{$bynodid{${$_}[1]}}){
+						my $road2 = $_;
+						if ( defined $$road2[6] ) {
+							@routeprm = split /,/,$$road2[6];
+							if ( $routeprm[1] > $hiclass ){
+								$hiclass = $routeprm[1];
+								@hinode = @nodid;
+								$hiroad = $road2;
+							}
+						}
 					}
 				}
 			}
@@ -1485,7 +1567,6 @@ sub check_for_number_present{
 	print "check for house numbers missing from the map...\n";
 	
 	foreach $onerdid ( keys %sufiroadname ){
-		#$onerdid = 1030000054126; {
 		if (defined($byid->{$onerdid})){
 			$missthis = 0;
 			$manual = 0;
@@ -1572,15 +1653,15 @@ while (<>){
 
 open(MISSFILE, '>', "${basefile}_missing.csv") or die "can't create missing csv file\n";
 
-id_check;	
+id_check;
 routing_check;
 odd_even_zero_check;
 sort_by_id;
 
-#dump_by_roadid;
-#dump_by_roadid(52131);
+#dump_by_roadid(); # does all
+#dump_by_roadid("aihop");
+#dump_by_roadid(1775424);
 #dump_by_roadid(15441); #parkinson - canterbury
-#dump_by_roadid(11883); #simpson/lakeside - canterbury
 
 if ($cmdopts{l}) {
 	print "Using LINZ Ids\n";

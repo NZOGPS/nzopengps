@@ -475,7 +475,7 @@ sub overlap_err{
 	my $nno   = shift; #numbering number
 	my $x1; my $y1;
 	my $lasta = $nid; 
-	my $lastb;
+	my $lastb = 0;
 	my $rangestr;
 	my $debugthis = 0;
 	

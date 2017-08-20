@@ -270,8 +270,6 @@
 1772957	WILTS ST		Sutton (Otago, NZ)	12/11/2011 5:46:54 p.m.
 1773102	GOSPORT ST		Sutton (Otago, NZ)	12/11/2011 5:46:54 p.m.
 1773191	RUTLAND ST		Sutton (Otago, NZ)	12/11/2011 5:46:54 p.m.
-1838025	CLAWD RD		Conroys Gully (Otago, NZ)	12/11/2011 5:57:50 p.m.
-1838024	TOR HILL DR		Conroys Gully (Otago, NZ)	12/11/2011 5:57:50 p.m.
 1775019	CLYDE ST		Portobello, Dunedin (Otago, NZ)	12/11/2011 6:01:27 p.m.
 1777159	CROMEL RD		Lowther (Southland, NZ)	12/11/2011 6:11:39 p.m.
 1778016	OSWALD ST		Castlerock (Southland, NZ)	12/11/2011 6:15:02 p.m.

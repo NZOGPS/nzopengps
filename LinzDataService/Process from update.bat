@@ -12,7 +12,9 @@ cd ..\linzdataservice
 %nzogps_ruby_cmd% pg-road-parser.rb
 cd ..\scripts
 call dochecks.bat
-call colouriseall.bat
-call numberlinz.bat
 cd linz_updates
 %nzogps_psql_bin%\psql -U postgres -d nzopengps -c "select NewRoadBookmarks()"
+cd ..
+call colouriseall.bat
+if errorlevel 1 goto :eof
+call numberlinz.bat

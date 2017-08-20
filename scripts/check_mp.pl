@@ -28,9 +28,9 @@ my %bynodid;
 
 my %debug = (
 	sbid			=> 0,
-	overlaperr		=> 1950606,	#1 or linzid
+	overlaperr		=> 0,	#1 or linzid
 	olcheck			=> 0,
-	ol1numtype		=> 1950606,	#1 or linzid
+	ol1numtype		=> 0,	#1 or linzid
 	rdoverlap		=> 0,
 	readpapernums	=> 0,
 	routecheck		=> 0,

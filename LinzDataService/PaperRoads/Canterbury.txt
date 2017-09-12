@@ -322,3 +322,4 @@
 1784919	Davies Rd	Eyrewell Forest(Canterbury,NZ)	2017/06/24 21:20	-43.435410,172.375920
 1786187	Bellfield St	Southbridge(Canterbury,NZ)	2017/09/11 21:18	-43.814640,172.251140
 1780260	Robinson St	Southbridge(Canterbury,NZ)	2017/09/11 21:18	-43.813990,172.249882
+1779268	McQueens Rd	Teddington(Canterbury,NZ)	2017/09/12 23:39	-43.687310,172.659460

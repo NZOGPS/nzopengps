@@ -320,3 +320,5 @@
 3015073	Old Harewood Rd		2017/06/24 21:18	-43.444510,172.427670
 1784898	Corby Rd	Eyrewell Forest(Canterbury,NZ)	2017/06/24 21:19	-43.419450,172.358000
 1784919	Davies Rd	Eyrewell Forest(Canterbury,NZ)	2017/06/24 21:20	-43.435410,172.375920
+1786187	Bellfield St	Southbridge(Canterbury,NZ)	2017/09/11 21:18	-43.814640,172.251140
+1780260	Robinson St	Southbridge(Canterbury,NZ)	2017/09/11 21:18	-43.813990,172.249882

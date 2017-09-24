@@ -122,3 +122,6 @@
 1779692	E,2,2	Levin St	Cheviot(Canterbury,NZ)	2016/08/14 12:26	-42.812300,173.268080
 1779436	E,800,800	Starvation Gully Rd	Pigeon Bay(Canterbury,NZ)	2016/08/14 12:29	-43.686380,172.898950
 3006333	E,10,40	O,177,181	Eyre Main Drain Rd		2017/06/24 23:16	-43.402710,172.593210
+1779314	O,135,135	Savills Rd	Yaldhurst, Christchurch(Canterbury,NZ)	2017/09/24 16:27	-43.491610,172.504860
+3048864	B,15,35	Guthries Rd	Styx, Christchurch(Canterbury,NZ)	2017/09/24 16:28	-43.448530,172.647290
+3055845	O,607,615	Avonhead Rd	Avonhead, Christchurch(Canterbury,NZ)	2017/09/24 16:31	-43.497710,172.547190

@@ -1,4 +1,4 @@
-#use strict;
+use strict;
 use warnings;
 use feature qw "switch say";
 use Carp qw(shortmess);
@@ -34,6 +34,7 @@ my %debug = (
 	rdoverlap		=> 0,
 	readpapernums	=> 0,
 	routecheck		=> 0,
+	lnidcheck		=> 0,	# >0 is basic >1 is dump
 	unnumbered		=> 0,
 	addnode			=> 0,
 	numberedid0		=> 0,
@@ -231,7 +232,7 @@ sub dump_id2 {
 	} 
 
 	if ( $nodn2 < 0 ){
-	print shortmess() if not defined $nodno;
+		print shortmess() if not defined $nodno;
 		print "Road is $roadname, Line $road[7], Coord is\t$x[$nodno],$y[$nodno]\n";
 	} else {
 		print "Road is $roadname, Line $road[7], Coords are $x[$nodno],$y[$nodno] and\t$x[$nodn2],$y[$nodn2]\n";
@@ -397,6 +398,10 @@ sub sort_by_id {
 					$bylinzid{$linzid}[0]=[$i,$idn];
 				}
 				if ($linznumbid > 0) {
+					if ($linzid == 0){
+						print "Error: Linznumbid $linznumbid on linzid=0 road\n";
+						dump_id2($road,0,-1);
+					}
 					if (exists($bylinznumbid{$linzid}{$linznumbid})){
 						if ($debug{'sbid'}){print "in sbid - another road for linzid $linzid\n"};
 						push(@{$bylinznumbid{$linzid}{$linznumbid}},[$i,$idn]);
@@ -1197,10 +1202,74 @@ sub rbout_level_check {
 					}
 				}
 			}
-			if (@hinode){
-				print "road id $$hiroad[5] - class $hiclass is higher class than roundabout id $$road[5] class $rbclass at $hinode[3],$hinode[4]\n";
-				print MISSFILE "$hinode[4],$hinode[3],Low class RBout-$hiclass,Road Id $$road[5]\n";
+			if ($rbclass < 1){
+				print "roundabout id $$road[5] class $rbclass is too low at $nodid[3],$nodid[4]\n";
+				print MISSFILE "$nodid[4],$nodid[3],Low class RBout-$rbclass,Road Id $$road[5]\n";
+			} else {
+				if (@hinode){
+					print "road id $$hiroad[5] - class $hiclass is higher class than roundabout id $$road[5] class $rbclass at $hinode[3],$hinode[4]\n";
+					print MISSFILE "$hinode[4],$hinode[3],Low class RBout-$hiclass,Road Id $$road[5]\n";
+				}
 			}
+		}
+	}
+}
+
+
+sub lnid_check {
+	my %rdids;
+	my %usedrnids;
+	
+	print "Check LinzNumbIDs are valid...\n";
+	for my $linzid (keys %bylinznumbid){
+		if ($debug{'lnidcheck'}>0) {print "linzid is $linzid\n"}
+		if ($debug{'lnidcheck'}>1){
+			print Dumper($bylinznumbid{$linzid});
+			print Dumper($bylinzid{$linzid});
+		}
+		for my $rdptr (@{$bylinzid{$linzid}}){
+			if ($debug{'lnidcheck'}>0) {print "\troad [$rdptr->[0]], defined in linzid$rdptr->[1]\n"}
+			$rdids{$rdptr->[0]} = 1;
+		}
+		for my $lnid (keys %{$bylinznumbid{$linzid}}){
+			if ($debug{'lnidcheck'}>0) {print "\tlinznumbid is $lnid\n"}
+			if ($usedrnids{$lnid}){
+				if ( $usedrnids{$lnid}->[0] != $linzid ){
+					print "Error! Linznumbid $lnid associated with two different Linzids\n";
+					print "Linzid $linzid : ";
+					dump_id2($roads[$bylinznumbid{$linzid}{$lnid}[0][0]],0,-1);
+					print "Linzid $usedrnids{$lnid}->[0] : ";
+					dump_id2($roads[$usedrnids{$lnid}->[1]],0,-1);
+				}
+			} else {
+				$usedrnids{$lnid} = [$linzid,$bylinznumbid{$linzid}{$lnid}[0][0]];
+			}
+			for my $rdptr (@{$bylinznumbid{$linzid}{$lnid}}){
+				if ($debug{'lnidcheck'}>0) {print "\t\troad [$rdptr->[0]], defined in linzid$rdptr->[1]\n"}
+				if ($rdids{$rdptr->[0]}){
+					delete $rdids{$rdptr->[0]}
+				} else {
+					print "Strange error: road [$rdptr->[0]], linzid$rdptr->[1], has linznumbid $lnid but wasn't set in bylinzid\n";
+					dump_id2($roads[$rdptr->[0]],0,-1);
+				}
+			}
+		}
+		if($debug{'lnidcheck'}>1){
+			print "rdids is:\n";
+			print Dumper(%rdids);
+		}
+		if (keys %rdids){
+			print "Warning: linzid $linzid has sections with linznumbids defined. The following road ids have no linznumbid\n";
+			for my $key (keys %rdids) {
+				dump_id2($roads[$key],0,-1);
+			}
+			undef %rdids;
+		}
+	}
+	if($debug{'lnidcheck'}>0){
+		print "Used rnids:\n";
+		for my $rnid(sort keys %usedrnids){
+			print "linznumid: $rnid, linzid: ${usedrnids{$rnid}->[0]}, road[${usedrnids{$rnid}->[1]}]\n";
 		}
 	}
 }
@@ -1555,11 +1624,11 @@ sub check_for_number_present{
 				} else {
 					print "\n";
 				}
-#	Temporarily stop saving missing numbers on missing roads to CSV (while there's heaps of them)
-#				local $, = ',';
-#				for my $i(0..$#nums) {
-#					print MISSFILE $x{$onerdid}{$nums[$i]},$y{$onerdid}{$nums[$i]},"$nums[$i] $sufiroadname{$onerdid}","$onerdid\n";
-#				}
+# comment out next 4 lines to temporarily stop saving missing numbers on missing roads to CSV (if there are heaps of them)
+				local $, = ',';
+				for my $i(0..$#nums) {
+					print MISSFILE $x{$onerdid}{$nums[$i]},$y{$onerdid}{$nums[$i]},"$nums[$i] $sufiroadname{$onerdid}","$onerdid\n";
+				}
 			}
 		}
 	}
@@ -1686,6 +1755,7 @@ overlap_check;
 unnumbered_node_check;
 
 rbout_level_check;
+lnid_check;
 
 read_roads_not_2_index;
 no_city_index;

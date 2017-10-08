@@ -73,3 +73,12 @@
 1030000004199	O,75,75	Stanley St	Auckland Central, Auckland(Auckland,NZ)	2017/07/21 16:44	-36.853380,174.773020
 1030000011667	E,136,136	Hamer St	Auckland Central, Auckland(Auckland,NZ)	2017/07/21 17:38	-36.840330,174.754910
 1030000031079	E,490,490	Oruarangi Rd	Mangere, Manukau(Auckland,NZ)	2017/07/24 18:00	-36.984870,174.763970
+1030000012841	O,27,27	Anzac Rd	Waiheke Island(Auckland,NZ)	2017/09/09 22:23	-36.842630,175.145950
+1030000001524	O,23,23	Jim Titchener Pde	Devonport, North Shore City(Auckland,NZ)	2017/09/09 23:07	-36.823320,174.788270
+1030000008089	O,69,69	Rawene Rd	Birkenhead, North Shore City(Auckland,NZ)	2017/10/01 14:36	-36.812360,174.726430
+1030000008503	E,24,24	Tarahanga St	Northcote, North Shore City(Auckland,NZ)	2017/10/01 14:42	-36.808390,174.747650
+1030000011747	O,91,91	Endeavour St	Blockhouse Bay, Auckland(Auckland,NZ)	2017/10/01 15:18	-36.930660,174.700360
+1030000012708	O,21,21	Marinich Dr	Ranui, Waitakere(Auckland,NZ)	2017/10/01 15:23	-36.863460,174.605560
+1030000008621	O,17,17	Sylvan Park Ave	Milford, North Shore City(Auckland,NZ)	2017/10/01 15:26	-36.773730,174.769240
+1030000010323	E,10,10	Epping Rd	Henderson, Waitakere(Auckland,NZ)	2017/10/02 11:45	-36.868250,174.635170
+1030000008513	E,20,20	Council Tce	Northcote, North Shore City(Auckland,NZ)	2017/10/09 00:01	-36.815700,174.740140

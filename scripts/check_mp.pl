@@ -1294,6 +1294,7 @@ sub read_roads_not_2_index {
 		next if substr($_,1,1) eq "#";
 		push @namesnot2index,$_;
 	}
+	close INF;
 }
 
 
@@ -1432,6 +1433,7 @@ sub read_number_csv {
 		}
 	}
 
+	close INF;
 	$numsufi = keys %sufiroadname;
 	print "$count lines, $numsufi ${idnm}s\n";
 }
@@ -1441,7 +1443,6 @@ sub read_paper_road_numbers {
 	my $f1 = shift;
 	my $d1 = shift;
 	my $idval;
-	my @nums;
 	my @chunks;
 	my $type;
 	my $start;
@@ -1450,6 +1451,7 @@ sub read_paper_road_numbers {
 	my $j;
 	my $error;
 	my $fn;
+	my $chaff;
 	
 	
 	if (defined ($cmdopts{l})){
@@ -1468,57 +1470,68 @@ sub read_paper_road_numbers {
 	while (<INF>){
 		chomp;
 		$i = 1;
+		my @nums;
 		@chunks = split/\t/;
 		$idval = $chunks[0];
 		if (defined ($papernumbers{$idval})) {
 			print "Warning - in paper numbers file - Multiple definitions for id $idval\n";
 		}
 
-		while ($chunks[$i]=~/([OBE])\,(\d+),(\d+)/){
-			if ($debug{'readpapernums'}){print "valid number line: @chunks\n";}
-			($type,$start,$end)=($1,$2,$3);
+		while ($i <= $#chunks and $chunks[$i]=~/([OBE])\,(\d+),(\d+)(.*)/ ) {
+			($type,$start,$end,$chaff)=($1,$2,$3,$4);
+			if ($debug{'readpapernums'}){
+				print "valid number line for $idval, chunk[$i] is $chunks[$i] \n";
+				print "i: $i Type: $type Start: $start End: $end Chaff: \"$chaff\"\n";
+			}
+			if ($chaff ne '') {
+				print "Warning - in paper numbers file, line $. - extra characters \"$chaff\" after end number $end\n";
+				if (substr($chaff,0,1) eq ' ') { print "\tDid you use a space instead of a tab?\n"; }
+			}
 			if ($start<=0) {
-				print "Warning - in paper numbers file - Start number $start is zero or negative\n";
+				print "Warning - in paper numbers file, line $. - Start number $start is zero or negative\n";
 				$error |= 1;
 			}
 			if ($end<=0) {
-				print "Warning - in paper numbers file - End number $end is zero or negative\n";
+				print "Warning - in paper numbers file, line $. - End number $end is zero or negative\n";
 				$error |= 1;
 			}
 			if ($type eq "E"){
 				if ($start>0 && $start%2) { # >0 to avoid reiterating for -1
-					print "Warning - in paper numbers file - $start is not even\n";
+					print "Warning - in paper numbers file, line $. - $start is not even\n";
 					$error |= 1;
 				}
 				if ($end>0 && $end%2) { # >0 to avoid reiterating for -1
-					print "Warning - in paper numbers file - $end is not even\n";
+					print "Warning - in paper numbers file, line $. - $end is not even\n";
 					$error |= 1;
 				}
 			}
 			if ($type eq "O"){
 				if ($start>0 && !($start%2)) { 
-					print "Warning - in paper numbers file - $start is not odd\n";
+					print "Warning - in paper numbers file, line $. - $start is not odd\n";
 					$error |= 1;
 				}
 				if (($end+1)%2) {
-					print "Warning - in paper numbers file - $end is not odd\n";
+					print "Warning - in paper numbers file, line $. - $end is not odd\n";
 					$error |= 2;
 				}
 			}
 			if ($start > $end) {
-				print "Warning - in paper numbers file - $end is less than $start. Please put your numbers in ascending order\n";
+				print "Warning - in paper numbers file, line $. - $end is less than $start. Please put your numbers in ascending order\n";
 				$error |= 2;
 			}
 			$i++;
 			if (!$error){
 				$j = $start;
+				if ($debug{'readpapernums'}){ print "adding: " };
 				while ($j <= $end){
 					push @nums,$j;
+					if ($debug{'readpapernums'}){ print "$j " };
 					$j++;
 					if ($type =~/[OE]/){
 						$j++;
 					}
 				}
+				if ($debug{'readpapernums'}){ print "to numbers\n" };
 				$papernumbers{$idval}=\@nums;
 			}
 		}
@@ -1526,6 +1539,7 @@ sub read_paper_road_numbers {
 			print "Warning! - No valid numbering found for $_ on line $.\n";
 		} 
 	}
+	close INF;
 	
 	if ($debug{'readpapernums'}){
 		foreach $idval ( keys %papernumbers ){

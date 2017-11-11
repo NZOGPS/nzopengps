@@ -82,4 +82,3 @@
 1030000008621	O,17,17	Sylvan Park Ave	Milford, North Shore City(Auckland,NZ)	2017/10/01 15:26	-36.773730,174.769240
 1030000010323	E,10,10	Epping Rd	Henderson, Waitakere(Auckland,NZ)	2017/10/02 11:45	-36.868250,174.635170
 1030000008513	E,20,20	Council Tce	Northcote, North Shore City(Auckland,NZ)	2017/10/09 00:01	-36.815700,174.740140
-1030000006995	O,93,95	Sandspit Rd	Warkworth(Auckland,NZ)	2017/11/01 06:50	-36.395700,174.673600

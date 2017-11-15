@@ -153,7 +153,7 @@ def post_processing()
 	print "#{numbid_in_nzogps_but_missing_from_linz.size} Number range ids are in NZOGPS #{@tile} but missing from LINZ\n"
 	@reporting_file.print "#{numbid_in_nzogps_but_missing_from_linz.size} Number range ids are in NZOGPS #{@tile} but missing from LINZ\n"
 
-	numbid_in_nzogps_but_missing_from_linz.each{|x|
+	numbid_in_nzogps_but_missing_from_linz.sort.each{|x|
 		@reporting_file.print ";linznumbid=#{x}\t#{@nzogps_file_num_ids[x]}\n"
 	}
 

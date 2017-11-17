@@ -82,3 +82,9 @@
 1030000008621	O,17,17	Sylvan Park Ave	Milford, North Shore City(Auckland,NZ)	2017/10/01 15:26	-36.773730,174.769240
 1030000010323	E,10,10	Epping Rd	Henderson, Waitakere(Auckland,NZ)	2017/10/02 11:45	-36.868250,174.635170
 1030000008513	E,20,20	Council Tce	Northcote, North Shore City(Auckland,NZ)	2017/10/09 00:01	-36.815700,174.740140
+1030000008848	O,59,59	Tauhinu Rd	Greenhithe, North Shore City(Auckland,NZ)	2017/11/17 09:59	-36.776770,174.669400
+1030000009205	E,74,74	Routley Dr	Glen Eden, Waitakere(Auckland,NZ)	2017/11/17 10:01	-36.916290,174.649843
+1030000010077	E,192,192	Buckley Ave	Hobsonville, Waitakere(Auckland,NZ)	2017/11/17 10:05	-36.788730,174.662640
+1030000011419	E,76,76	Tohunga Cres	Parnell, Auckland(Auckland,NZ)	2017/11/17 10:14	-36.861170,174.789650
+1030000030583	E,98,98	Bader Dr	Mangere Bridge, Manukau(Auckland,NZ)	2017/11/17 14:33	-36.966030,174.795970
+1030000009320	O,317,317	Te Atatu Rd	Te Atatu Peninsula, Waitakere(Auckland,NZ)	2017/11/17 15:20	-36.858330,174.652950

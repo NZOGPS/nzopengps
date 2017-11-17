@@ -87,3 +87,11 @@
 3023858	E,20,20	Council Tce	Northcote, North Shore City(Auckland,NZ)	2017/10/09 00:01	-36.815700,174.740140
 3027695	O,119,119	~[0x04]1	Freemans Bay, Auckland(Auckland,NZ)	2017/11/10 21:54	-36.860370,174.760740
 3034111	O,1,1	Rotoroa Island		2017/11/10 22:03	-36.816420,175.197322
+1821346	E,76,76	Naumai Rd	Tauhoa(Auckland,NZ)	2017/11/17 09:52	-36.378050,174.451580
+1822449	O,59,59	Tauhinu Rd	Greenhithe, North Shore City(Auckland,NZ)	2017/11/17 09:59	-36.776770,174.669400
+1822746	E,74,74	Routley Dr	Glen Eden, Waitakere(Auckland,NZ)	2017/11/17 10:01	-36.916290,174.649843
+1823458	E,192,192	Buckley Ave	Hobsonville, Waitakere(Auckland,NZ)	2017/11/17 10:05	-36.788730,174.662640
+1824546	E,76,76	Tohunga Cres	Parnell, Auckland(Auckland,NZ)	2017/11/17 10:14	-36.861170,174.789650
+1842979	O,3,3	Te Horeta Rd	Panmure, Auckland(Auckland,NZ)	2017/11/17 11:10	-36.903340,174.841870
+3013816	E,98,98	Bader Dr	Mangere Bridge, Manukau(Auckland,NZ)	2017/11/17 14:33	-36.966030,174.795970
+3035115	O,317,317	Te Atatu Rd	Te Atatu Peninsula, Waitakere(Auckland,NZ)	2017/11/17 15:20	-36.858330,174.652950

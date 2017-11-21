@@ -1,20 +1,20 @@
-3043375	O,355,363		Worsleys Road	Hoon Hay, Christchurch (Canterbury, NZ)
+3043375	O,355,363	Worsleys Road	Hoon Hay, Christchurch (Canterbury, NZ)
 1779306	O,213,213	B,233,234	RAVEN QY	Kaiapoi (Canterbury, NZ)
-1779431	E,144,144		View Hill Road
-3040015	E,500,500		Camp Bay Road
-1780424	O,9,25	E,6,6		JAMES ST	Coalgate (Canterbury,	NZ)
-1780545	O,17,17	E,16,20		EVERETT ST	Coalgate (Canterbury,	NZ)
+1779431	E,144,144	View Hill Road
+3040015	E,500,500	Camp Bay Road
+1780424	O,9,25	E,6,6	JAMES ST	Coalgate (Canterbury,	NZ)
+1780545	O,17,17	E,16,20	EVERETT ST	Coalgate (Canterbury,	NZ)
 1780554	O,19,85	E,20,30	E,66,66	QUEEN	ST	Coalgate (Canterbury,	NZ)
-3020447	E,2064,2064		Barford Road
-1784405	O,1,27	E,2,76		TWO CHAIN RD	Swannanoa (Canterbury, NZ)
-1784558	O,23,37	E,20,20		Beacon Street	Brooklands, Christchurch (Canterbury, NZ)
-1784979	O,203,203		BRADYS RD	Loburn (Canterbury, NZ)
-3036608	O,2715,2715 		WOODSTOCK RD	Springfield (Canterbury, NZ)
+3020447	E,2064,2064	Barford Road
+1784405	O,1,27	E,2,76	TWO CHAIN RD	Swannanoa (Canterbury, NZ)
+1784558	O,23,37	E,20,20	Beacon Street	Brooklands, Christchurch (Canterbury, NZ)
+1784979	O,203,203	BRADYS RD	Loburn (Canterbury, NZ)
+3036608	O,2715,2715	WOODSTOCK RD	Springfield (Canterbury, NZ)
 1785110	O,175,603	E,222,564	Rampaddock Road
-1785144	O,141,387	E,122,390		Mill Road	Oxford (Canterbury, NZ)
-1785230	E,352,354	Gladstone Road		Pegasus (Canterbury, NZ)
-1785241	O,121,121		Kings Avenue
-1785331	O,131,143	E,128,128	Topito Road	
+1785144	O,141,387	E,122,390	Mill Road	Oxford (Canterbury, NZ)
+1785230	E,352,354	Gladstone Road	Pegasus (Canterbury, NZ)
+1785241	O,121,121	Kings Avenue
+1785331	O,131,143	E,128,128	Topito Road
 1780585	E,22,24	O,13,13		Lower High Street	Coalgate (Canterbury, NZ)
 1786269	O,351,351	Kennedys Bush Road	Halswell, Christchurch (Canterbury, NZ)
 3044768	E,700,700	Memorial Avenue	Christchurch Airport, Christchurch (Canterbury, NZ)

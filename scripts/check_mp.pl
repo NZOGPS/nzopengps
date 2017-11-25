@@ -39,6 +39,7 @@ my %debug = (
 	addnode			=> 0,
 	numberedid0		=> 0,
 	rblvlchk		=> 0,
+	numpresent		=> 0,
 );
 
 my %cmdopts=();
@@ -1368,7 +1369,7 @@ sub read_number_csv {
 	my $f1 = shift;
 	my $d1 = shift;
 	my $fn;
-	my $idformat;		
+	my $idformat;
 	my $idval;
 	my $count;
 	my $numsufi;
@@ -1655,6 +1656,7 @@ sub check_for_number_present{
 			$manual = 0;
 			
 			NUM: for $number ( sort {$a <=> $b} keys %{$x{$onerdid}}){
+				if ($debug{'numpresent'}==$onerdid){ print "numpres: $number\n"; }
 				for $rdsegptr (@{$byid->{$onerdid}}){
 					if ($roads[$rdsegptr->[0]][17]==-1) {$manual = 1};
 					for $numseg( @{$roads[$rdsegptr->[0]][11]} ){
@@ -1664,7 +1666,6 @@ sub check_for_number_present{
 				}
 				
 				next NUM if numberisinpaperfile($number,$onerdid);
-				
 				local $, = ',';
 				print "$number $sufiroadname{$onerdid} not found. ";
 				print "$idnm is $onerdid. ";

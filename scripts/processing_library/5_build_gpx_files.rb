@@ -100,7 +100,7 @@ def pre_processing()
       f.print <<-eos
 <wpt lat="#{lat}" lon="#{lon}">
 <name>#{CGI::escapeHTML(address)}</name>
-<desc>Rd:#{linzid}-ID:#{pointid}</desc>
+<desc>Rd: #{linzid}-ID: #{pointid}</desc>
 </wpt>
       eos
     }

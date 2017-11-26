@@ -482,9 +482,10 @@ sub overlap_err{
 	my $x1; my $y1;
 	my $lasta = $nid; 
 	my $lastb = 0;
+	my $lbcoord = 0;
 	my $rangestr;
 	my $debugthis = 0;
-	
+
 	$debugthis = $debug{'overlaperr'} && ( $debug{'overlaperr'} == 1 || grep {/$debug{'overlaperr'}/} $$road[18][0] );
 
 	if ($debugthis){print "overlap_err: beg:$beg lst:$lst isend:$isend nid:$nid nno:$nno red(1):$$red[1] red(2):$$red[2] red(3):$$red[3] red(0,14): $$red[0][14]\n"}
@@ -529,7 +530,7 @@ sub overlap_err{
 				if ($debugthis){print "overlap_err: isend=2 nid=$nid, road(14)=$$road[14],lasta=$lasta x1,y1= $x1,$y1\n"}
 
 				if ( $$red[2] & 1){
-#					print "overlap_err: red2=1 x2,y2= $$red[0][9][$$red[1]],$$red[0][10][$$red[1]]\n";
+					if ($debugthis) {print "overlap_err: red2=1 x2,y2= $$red[0][9][$$red[1]],$$red[0][10][$$red[1]]\n"}
 					if (($x1 == $$red[0][9][$$red[1]])&&($y1 == $$red[0][10][$$red[1]])){
 						if ($debugthis){print "match 2,1\n"}
 						return 0;
@@ -543,25 +544,25 @@ sub overlap_err{
 					}
 					if($debugthis){print "overlap_err: red2=2 lastb = $lastb x2,y2= $$red[0][9][$lastb],$$red[0][10][$lastb]\n"}
 					if (($x1 == $$red[0][9][$lastb])&&($y1 == $$red[0][10][$lastb])){
-#						print "match 2,2\n";
+						if ($debugthis){print "match 2,2\n"}
 						return 0;
 					}
 				}
-			}					
+			}
 		}
 		print "RoadID $$road[5]: number $beg already set in RoadID $$red[0][5]\n";
 		$rangestr = "$beg";
-	} else {	
+	} else {
 		print "RoadID $$road[5]: numbers $beg to $lst already set in RoadID $$red[0][5] (at least)\n";
 		$lastb = $$red[3];
 		$rangestr = "$beg to $lst";
 	}
 	print "previous definition:\n";
-	if($debugthis){print sprintf "overlap_err: node: %s\n", defined($lastb) ? $lastb : "(undefined)" }
-	dump_id2($$red[0],$lastb,-1);
+	if($debugthis){print sprintf "overlap_err: node: %s\n", defined($lastb) ? $lastb : "(undefined)"}
+	$lbcoord = $$red[0][11][$lastb][0];
+	dump_id2($$red[0],$lbcoord,-1);
 	local $, = ',';
-	print MISSFILE $$red[0][10][$lastb],$$red[0][9][$lastb],"Previous Overlap of $rangestr","$$red[0][2][0]\n";
-
+	print MISSFILE $$red[0][10][$lbcoord],$$red[0][9][$lbcoord],"Previous Overlap of $rangestr","$$red[0][2][0]\n";
 	return (1,$lasta);
 }	
 

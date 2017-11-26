@@ -540,9 +540,6 @@
 1936303	Rangiwaea Island (Beach)
 1935790	Motuhoa Island (Beach)
 1774011	Roadway 
-
-
-
 1810998	Puputahi Rd	Kopaki(Waikato,NZ)	2017/11/12 01:12	-38.532290,175.298840
 3021295	State Highway 32		2017/11/12 01:13	-38.227940,175.868500
 3075189	Service Lane		2017/11/12 01:15	-37.200110,174.904130

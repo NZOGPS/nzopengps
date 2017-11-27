@@ -86,7 +86,6 @@
 1777020	E,16,30	O,3,3	Aloway St	Wallacetown (Southland, NZ)	8/01/2012 10:05:39 p.m.	-46.331859,168.283248
 1777453	E,124,126	Largs Street	Wallacetown (Southland, NZ)	8/01/2012 10:11:06 p.m.	-46.339336,168.289287
 1777270	E,8,14	East Road	Athol (Southland, NZ)	8/01/2012 11:11:47 p.m.	-45.510478,168.585386
-1773450	O,7,7	Sandhead St	Waihola (Otago, NZ)	8/01/2012 11:51:59 p.m.	-46.020580,170.100499
 3049346	O,1401,1425	O,875,875	Venlaw Rd	Oware (Southland, NZ)	9/01/2012 11:11:16 p.m.	-46.291165,169.099797
 1776950	E,396,402	Campbell Rd	Oware (Southland, NZ)	9/01/2012 11:23:06 p.m.	-46.319153,168.964506
 1788486	O,31,31	Closeburn Rd	Closeburn (Otago, NZ)	11/01/2012 11:32a.m.	S45°03.372' E168°34.666'

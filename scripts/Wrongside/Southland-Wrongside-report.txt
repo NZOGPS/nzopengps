@@ -1,7 +1,10 @@
-5 entries in ..\..\LinzDataService\PaperRoads\Southland-WrongSide.txt
-115 entries in ..\..\LinzDataService\PaperRoads\Southland-LINZWrongSide.txt
-123 wrongside numbers, 23 not in Exclusion files
-20 entries in Linz list are no longer on the wrong side
+6 entries in ..\..\LinzDataService\PaperRoads\Southland-WrongSide.txt
+121 entries in ..\..\LinzDataService\PaperRoads\Southland-LINZWrongSide.txt
+108 wrongside numbers, 3 not in Exclusion files
+1 entries in Ignore list are no longer on the wrong side
+71695	30A Chelmer Street	2015/04/27 20:08	-45.096988,170.956477
+
+21 entries in Linz list are no longer on the wrong side
 1604690	34 ARAMOANA ROAD	2013/10/26 23:35	-45.805825,170.625299
 401426	32 RUNBRAKE STREET	2013/10/05 23:20	-45.480887,170.716836
 12268	121 Strathearn Road	2015/08/18 15:46	-46.153176,169.279527
@@ -13,6 +16,7 @@
 78304	127 BEN LOCH LANE	2013/10/26 22:30	-45.434238,167.737960
 1845835	692 Morven Glenavy Road	2014/07/18 00:07	-44.861827,171.113275
 1659059	1 TOKO MOUTH DOMAIN ROAD	2013/10/26 23:07	-46.217525,170.042124
+1651879	23 CARDRONA VALLEY ROAD	2013/10/06 21:15	-44.709425,169.136483
 1402710	749 BANNOCKBURN ROAD	2013/10/05 23:11	-45.113702,169.158118
 1678564	300 DUNSTAN CREEK ROAD	2013/10/06 21:26	-44.914169,169.762525
 1065214	10 ORETI ROAD	2013/10/26 23:12	-46.432728,168.305135

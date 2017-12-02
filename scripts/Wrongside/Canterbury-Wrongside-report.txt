@@ -1,13 +1,13 @@
 10 entries in ..\..\LinzDataService\PaperRoads\Canterbury-WrongSide.txt
 Warning: 1549567 on line 131 in ..\..\LinzDataService\PaperRoads\Canterbury-LINZWrongSide.txt - This ID is also set in the ignore file
 162 entries in ..\..\LinzDataService\PaperRoads\Canterbury-LINZWrongSide.txt
-179 wrongside numbers, 44 not in Exclusion files
+152 wrongside numbers, 19 not in Exclusion files
 3 entries in Ignore list are no longer on the wrong side
 1709873	21A UPPER CRICHTON TERRACE	2013/10/18 15:41	-43.569960,172.627782
 1709882	19A UPPER CRICHTON TERRACE	2013/10/18 15:41	-43.569670,172.627176
 1709884	21B UPPER CRICHTON TERRACE	2013/10/18 15:41	-43.569875,172.627296
 
-34 entries in Linz list are no longer on the wrong side
+36 entries in Linz list are no longer on the wrong side
 906972	2 CARTERS ROAD	2013/10/13 23:38	-43.674369,172.509625
 120766	2846 Hakatere Potts Road	2015/04/10 10:52	-43.519740,170.874271
 290956	582 FLEA BAY ROAD	2013/10/13 23:21	-43.862402,172.997329
@@ -17,11 +17,13 @@ Warning: 1549567 on line 131 in ..\..\LinzDataService\PaperRoads\Canterbury-LINZ
 1409014	283 MASKELLS ROAD	2013/10/09 11:45	-43.180344,172.664272
 287171	5 WESTRIDGE	2013/10/16 10:37	-43.576500,172.771289	Middle of the road
 290960	747 OVERTONS ROAD	2013/10/09 11:11	-42.894565,173.014233
+1549568	57 GOWERTON PLACE	2013/10/18 12:51	-43.519762,172.657440
 1549567	58 GOWERTON PLACE	2013/10/18 12:52	-43.519762,172.657319	55 is also close to centreline
 1420274	41 TAYLORS MISTAKE BAY (BEACH)	2013/10/16 10:32	-43.584981,172.776415	All the numbers here are quite close to the road - but this one's on the other side.
 1573458	153 OAKWOOD ROAD	2013/10/21 17:12	-44.362751,171.169286
 266266	101R INWOODS CLOSE	2013/10/16 12:29	-43.474947,172.703490
 136950	29 OXFORD CROSSING ROAD	2013/10/09 12:35	-44.223669,171.268950
+1363411	5 ARTHUR STREET	2013/10/09 12:33	-44.085536,170.819888
 1553372	414 WHITES ROAD	2013/10/13 23:44	-43.363705,172.576961
 904520	121 RUSHBROOKS ROAD	2013/10/09 17:02	-43.745648,172.353294	Probably right side, but possibly way too far north. Buildings nearer S end of road?
 1618778	723/4 BROKEN HUT ROAD	2013/10/06 20:49	-44.527347,169.887328	Correct side - but is there a standard order for number/flat?

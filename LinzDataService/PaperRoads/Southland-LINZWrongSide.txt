@@ -118,3 +118,9 @@
 ----- Above sent to LINZ 27/04/2015 
 12268	121 Strathearn Road	2015/08/18 15:46	-46.153176,169.279527
 ----- Above sent to LINZ 23/08/2015 
+114290	48 Perkins Road, Tuturau	2017/12/02 14:02	-46.231180,168.887562	Dwelling appears to be at S46°13.9160' E168°53.2055'
+2101460	1025 Dunrobin Valley Road, Beaumont	2017/12/02 14:05	-45.742736,168.016029
+2004285	48 McMillan Road, Arthurs Point	2017/12/02 14:06	-44.988638,168.670336
+1991076	10 Weldon Lane, Lower Shotover	2017/12/02 14:27	-45.005301,168.775713	Dwelling appears to be at S45°00.3235' E168°46.5419'
+1982197	2028 Tapanui Raes Junction Highway, Edievale	2017/12/02 14:30	-45.799213,169.372261
+1605014	121 Otakou Golf Course Road, Otakou	2017/12/02 14:35	-45.806536,170.686062

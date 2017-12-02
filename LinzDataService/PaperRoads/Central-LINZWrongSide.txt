@@ -161,3 +161,4 @@
 884808	396 King Road	2016/01/31 16:17	-39.123438,174.184507
 1574343	151 Napier Road	2016/01/31 16:39	-38.705044,176.105475
 591522	11 Carsons Road	2016/01/31 16:42	-39.793182,176.228221	Both your centreline and the two dwellings are offset about 40m West from the actual road. As we have corrected the road, these dwelling points appear on the wrong side.  This dwelling appears to be at S39°47.642' E176°13.823'
+2067422	12/1136 Matea Road, Rangitaiki	2017/12/02 15:20	-38.814870,176.466022

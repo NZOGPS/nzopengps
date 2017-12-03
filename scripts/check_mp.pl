@@ -28,6 +28,7 @@ my %bynodid;
 
 my %debug = (
 	sbid			=> 0,
+	OEZCheck		=> 0,	#1 or linzid or regex e.g '3063230|1830369'
 	overlaperr		=> 0,	#1 or linzid
 	olcheck			=> 0,
 	ol1numtype		=> 0,	#1 or linzid
@@ -554,15 +555,15 @@ sub overlap_err{
 		$rangestr = "$beg";
 	} else {
 		print "RoadID $$road[5]: numbers $beg to $lst already set in RoadID $$red[0][5] (at least)\n";
-		$lastb = $$red[3];
+		$lastb = $$red[1]; #changed from 3 to 1
 		$rangestr = "$beg to $lst";
 	}
 	print "previous definition:\n";
 	if($debugthis){print sprintf "overlap_err: node: %s\n", defined($lastb) ? $lastb : "(undefined)"}
-	$lbcoord = $$red[0][11][$lastb][0];
-	dump_id2($$red[0],$lbcoord,-1);
+#	$lbcoord = $$red[0][11][$lastb][0]; wrong - coord is stored, not number index
+	dump_id2($$red[0],$lastb,-1);
 	local $, = ',';
-	print MISSFILE $$red[0][10][$lbcoord],$$red[0][9][$lbcoord],"Previous Overlap of $rangestr","$$red[0][2][0]\n";
+	print MISSFILE $$red[0][10][$lastb],$$red[0][9][$lastb],"Previous Overlap of $rangestr","$$red[0][2][0]\n";
 	return (1,$lasta);
 }	
 
@@ -791,36 +792,41 @@ sub odd_even_zero_check {
 	my $nptr;
 	my $l; my $r; my $stend;
 	my $n1; my $n2;
+	my $debugthis = 0;
 	
 	print "Check numbers for incorrect odd/even values...\n";
+	
 	for my $road (@roads) {
+		$debugthis = $debug{'OEZCheck'} && ( $debug{'OEZCheck'} eq '1' || grep {/$debug{'OEZCheck'}/} $$road[18][0] );
 		@numa = @{$$road[11]};
-#		print "$$road[2][0]\n"; #label
+		if ($debugthis){ print "OEZCh-Label: $$road[2][0]\n" }#label
 		for ($i=0; $i<$$road[14];$i++) {	
 			$nptr = $numa[$i];
-#			print "@$nptr\n";
-			$l = OEZ_check_one_side(@$nptr[1..3,8,7]);
+			if ($debugthis){ print "OEZCh index: $i nptr: @$nptr\n"}
+			$l = OEZ_check_one_side(@$nptr[1..3,8,7]); #returns bitmask start = 1 end = 2
 			$r = OEZ_check_one_side(@$nptr[4..6,8,7]);
 			$stend = $l | $r;
 			$n2 = -1;
-#			print "l,r,s: $l, $r, $stend\n";
 			if ( $stend & 1 ){
+				if ($debugthis){ print "OEZCh-l,r,s: $l, $r, $stend\n"}
 				$n1 = $$nptr[0];
 				if ( $stend & 2 ){
 					if ( $i >= ($$road[14]-1)){
 						$n2 = $#{$$road[9]}; #last node
 					} else {
-						$n2 = ${$numa[$i+1]}[7];
+						$n2 = ${$numa[$i+1]}[0];
 					}
 				}
-			} else {
+			} else { # only end 2
+				if ($debugthis){ print "OEZCh-l,r,s: $l, $r, $stend\n"}
 				if ( $i >= ($$road[14]-1)){
 						$n1 = $#{$$road[9]}; #last node
 					} else {
-						$n1 = ${$numa[$i+1]}[7];
+						$n1 = ${$numa[$i+1]}[0];
 					}
 			}
 			if ( $stend ){			
+				if ($debugthis){ print "OEZ - nodes $n1, $n2\n"}
 				dump_id2($road,$n1,$n2);
 				print "\n";
 			}

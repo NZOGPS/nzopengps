@@ -1,0 +1,71 @@
+Start = 2017-12-11 00:01:22 +1300
+#############################
+
+0 LINZ ids are missing from NZOGPS Central
+#############################
+
+0 LINZ ids are in NZOGPS Central but missing from LINZ
+#############################
+
+0 Number range ids are missing from NZOGPS Central
+#############################
+
+54 Number range ids are in NZOGPS Central but missing from LINZ
+;linznumbid=9400001	Turakina Valley Rd	-39.60710,175.57655
+;linznumbid=9400002	Turakina Valley Rd	-39.47960,175.57370
+;linznumbid=9400003	Whanganui River Rd	-39.47876,175.04295
+;linznumbid=9400004	Whanganui River Rd	-39.49094,175.05377
+;linznumbid=9400005	Ohangai Rd	-39.54840,174.27433
+;linznumbid=9400006	Ohangai Rd	-39.53186,174.25079
+;linznumbid=9400007	Ohangai Rd	-39.54748,174.27308
+;linznumbid=9400008	Rama Rd	-39.55646,174.05990
+;linznumbid=9400009	Rama Rd	-39.54574,174.06440
+;linznumbid=9400010	~[0x04]45	-39.58803,174.25537
+;linznumbid=9400011	Winks Rd	-39.54170,174.14131
+;linznumbid=9400012	Winks Rd	-39.57645,174.14319
+;linznumbid=9400013	~[0x04]41	-38.89291,175.33252
+;linznumbid=9400014	~[0x04]41	-38.94973,175.73859
+;linznumbid=9400015	Pungarehu Rd	-39.27818,173.80725
+;linznumbid=9400016	Pungarehu Rd	-39.27818,173.80725
+;linznumbid=9400017	Pembroke Rd	-39.33372,174.27119
+;linznumbid=9400018	Pembroke Rd	-39.33365,174.27255
+;linznumbid=9400019	Mataroa Rd	-39.65092,175.72363
+;linznumbid=9400020	~[0x04]1	-39.64648,175.76798
+;linznumbid=9400021	Ketemarae Rd	-39.53158,174.27621
+;linznumbid=9400022	Ketemarae Rd	-39.54310,174.26582
+;linznumbid=9400023	~[0x04]3	-39.84606,174.92648
+;linznumbid=9400024	~[0x04]3	-39.76379,174.54408
+;linznumbid=9400025	Waiinu Beach Rd	-39.86438,174.74704
+;linznumbid=9400026	Waiinu Beach Rd	-39.80830,174.72885
+;linznumbid=9400027	Ratana Rd	-40.04242,175.17668
+;linznumbid=9400028	Ratana Rd	-40.02776,175.19412
+;linznumbid=9400029	Moki Rd	-38.97897,174.76077
+;linznumbid=9400030	Moki Rd	-38.96376,174.55386
+;linznumbid=9400031	Cornwall Rd	-39.40575,174.26463
+;linznumbid=9400032	Cornwall Rd	-39.40596,174.28189
+;linznumbid=9400033	Division Rd	-39.54175,174.18769
+;linznumbid=9400034	Division Rd	-39.54175,174.19630
+;linznumbid=9400035	Frasertown Rd	-38.97235,177.41438
+;linznumbid=9400036	Frasertown Rd	-38.96683,177.41029
+;linznumbid=9400037	Tuai Main Rd	-38.81982,177.14451
+;linznumbid=9400038	Tuai Main Rd	-38.81287,177.14639
+;linznumbid=9400039	Austin Rd	-39.51955,174.27053
+;linznumbid=9400040	Austin Rd	-39.52576,174.27908
+;linznumbid=9400041	~[0x04]3	-39.95090,175.05595
+;linznumbid=9400042	~[0x04]3	-40.08246,175.25259
+;linznumbid=9400043	~[0x04]3	-40.04147,175.21203
+;linznumbid=9400044	Haumoana Rd	-39.60599,176.94112
+;linznumbid=9400045	Haumoana Rd	-39.60882,176.93974
+;linznumbid=9400046	Arawhata Rd	-39.42047,173.80541
+;linznumbid=9400047	Arawhata Rd	-39.40989,173.82272
+;linznumbid=9400048	Arawhata Rd	-39.36416,173.91954
+;linznumbid=9400049	Owhakura Rd	-39.54473,175.48818
+;linznumbid=9400050	Owhakura Rd	-39.54619,175.45265
+;linznumbid=9400051	Normanby Rd	-39.53065,174.15896
+;linznumbid=9400052	Normanby Rd	-39.57394,174.10064
+;linznumbid=9400053	Crosses Rd	-39.65288,176.87559
+;linznumbid=9400054	Crosses Rd	-39.66224,176.88390
+#############################
+
+Finish = 2017-12-11 00:01:24 +1300
+Processing time = 1.549067

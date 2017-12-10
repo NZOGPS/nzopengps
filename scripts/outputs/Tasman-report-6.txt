@@ -1,0 +1,23 @@
+Start = 2017-12-10 18:13:30 +1300
+linzid	street_name	street_name_2	official_street_name
+1788043	Burkes Rd		Burkes Creek Rd	-42.08560,171.87457
+3058888	Gannet Hts W		Bees Lane	-41.01979,173.00837
+1789135	School Rd		Mahana School Rd	-41.26398,173.03770
+1838240	Pine Hill Rd W		Pippin Lane	-41.22478,173.07031
+1788243	Mcglashen Qy		McGlashen Qy	-41.26207,173.27310
+3032989	Settlement Rd ( 4WD Only)		Settlement Rd	-42.68954,171.22630
+3034665	~[0x04]6		Nelson St	-41.50804,173.95912
+1788429	Old Waterworks Track		Brook St	-41.30892,173.29224
+1838240	Pine Hill Rd W		Pippin Lane	-41.22639,173.07361
+1788712	Wills Rd (4wd Only Ford)		Wills Rd	-41.21287,172.99981
+3012174	~[0x04]7	State Highway 7	Ikamatua Hwy	-42.28687,171.67111
+3077383	Utopia St		Utopia Rd	-41.55336,171.98910
+1790396	Greenstone Rd (Unmaintained)		Greenstone Rd	-42.66869,171.18008
+1789630	Selwyn Pl W		Selwyn Pl	-41.27518,173.28076
+1787903	Karamea-Kohaihai Rd		Kohaihai Rd	-41.14614,172.10570
+1785559	Charming Creek Walkway		Charming Creek Rd	-41.60949,171.88025
+1779672	Davidson Rd		Davison Rd	-42.69455,172.95579
+#############################
+
+Finish = 2017-12-10 18:13:32 +1300
+Processing time = 1.314261

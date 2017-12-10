@@ -1,0 +1,12 @@
+Start = 2017-12-10 18:13:37 +1300
+linzid	street_name	street_name_2	official_street_name
+3029728	Riverside Dr N		Riverside Dr	-41.21422,174.93195
+3077489	~[0x04]1	State Highway 1	Main Hwy	-40.76035,175.15766
+3029728	Riverside Dr N		Riverside Dr	-41.21236,174.93632
+1792440	Tutu Pl		Tutuira Pl	-41.12783,174.84008
+1792440	Tutu Pl		Tutuira Pl	-41.12771,174.83799
+1792440	Tutu Pl		Tutuira Pl	-41.12771,174.83799
+#############################
+
+Finish = 2017-12-10 18:13:39 +1300
+Processing time = 2.040459

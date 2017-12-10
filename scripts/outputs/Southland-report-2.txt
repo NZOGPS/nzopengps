@@ -1,0 +1,29 @@
+Start = 2017-12-11 00:01:10 +1300
+#############################
+
+0 LINZ ids are missing from NZOGPS Southland
+#############################
+
+0 LINZ ids are in NZOGPS Southland but missing from LINZ
+#############################
+
+0 Number range ids are missing from NZOGPS Southland
+#############################
+
+12 Number range ids are in NZOGPS Southland but missing from LINZ
+;linznumbid=9800001	Old Dunstan Rd	-45.33246,169.79798
+;linznumbid=9800002	Old Dunstan Rd	-45.67439,169.98837
+;linznumbid=9800003	Ferry Rd	-44.89943,171.03494
+;linznumbid=9800004	Ferry Rd	-45.02091,171.02055
+;linznumbid=9800005	Morris Rd	-45.89709,170.36526
+;linznumbid=9800006	Morris Rd	-45.90023,170.38638
+;linznumbid=9800007	~[0x04]1	-44.63226,171.14079
+;linznumbid=9800008	~[0x04]1	-44.62865,171.14160
+;linznumbid=9800009	Ramrock Rd	-45.59577,170.62324
+;linznumbid=9800010	Ramrock Rd	-45.45308,170.33387
+;linznumbid=9800011	Porteous Rd	-45.70832,170.58952
+;linznumbid=9800012	Porteous Rd	-45.69040,170.57020
+#############################
+
+Finish = 2017-12-11 00:01:12 +1300
+Processing time = 1.873501

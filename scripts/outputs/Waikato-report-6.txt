@@ -1,0 +1,7 @@
+Start = 2017-12-10 18:13:42 +1300
+linzid	street_name	street_name_2	official_street_name
+1840614	Seachange Way		Bayside Ave	-37.71696,176.30816
+#############################
+
+Finish = 2017-12-10 18:13:45 +1300
+Processing time = 3.321339

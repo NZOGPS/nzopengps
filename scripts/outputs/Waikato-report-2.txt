@@ -1,0 +1,78 @@
+Start = 2017-12-10 18:13:23 +1300
+#############################
+
+4 LINZ ids are missing from NZOGPS Waikato
+;linzid=3078541	Ronalds Lane	-37.77159275,176.308783616905
+;linzid=3078540	KeAhi Rise	-37.7506288667,176.09487845
+;linzid=3078546	Evans Crt	-37.6443844203724,176.034143680783
+;linzid=3078547	Kanuka Lane	-37.42207865,175.7221748667
+#############################
+
+1 LINZ ids are in NZOGPS Waikato but missing from LINZ
+;linzid=1817447	Evans Crt	-37.64440,176.03413
+#############################
+
+0 Number range ids are missing from NZOGPS Waikato
+#############################
+
+56 Number range ids are in NZOGPS Waikato but missing from LINZ
+;linznumbid=9300001	Tuakau Bridge-Port Waikato Rd	-37.36233,174.76495
+;linznumbid=9300002	Tuakau Bridge-Port Waikato Rd	-37.38605,174.73051
+;linznumbid=9300003	River Rd	-37.66584,175.15786
+;linznumbid=9300004	River Rd	-37.72472,175.23110
+;linznumbid=9300005	Waipapa Rd	-38.35638,175.74076
+;linznumbid=9300006	Waipapa Rd	-38.14646,175.54833
+;linznumbid=9300007	~[0x04]2	-37.27517,175.50365
+;linznumbid=9300008	Orchard East Rd	-37.27168,175.52802
+;linznumbid=9300009	~[0x04]2	-37.27576,175.50018
+;linznumbid=9300010	Kaikahu Rd	-37.30219,175.54818
+;linznumbid=9300011	Kaikahu Rd	-37.29841,175.54663
+;linznumbid=9300012	Ngamotu Rd	-38.26843,176.75365
+;linznumbid=9300013	Ngamotu Rd	-38.29527,176.54154
+;linznumbid=9300014	Paradise Valley Rd	-38.08976,176.19723
+;linznumbid=9300015	Paradise Valley Rd	-38.08870,176.20116
+;linznumbid=9300016	Rangiora Rd	-37.33485,175.63705
+;linznumbid=9300017	Rangiora Rd	-37.33777,175.67596
+;linznumbid=9300018	Pipiroa Rd	-37.22119,175.45584
+;linznumbid=9300019	Pipiroa Rd	-37.27612,175.48919
+;linznumbid=9300020	Campbell Rd	-37.91742,176.60070
+;linznumbid=9300021	Campbell Rd	-37.86118,176.56849
+;linznumbid=9300022	Te Teko Rd	-38.03332,176.79755
+;linznumbid=9300023	Te Teko Rd	-38.03606,176.79658
+;linznumbid=9300024	Mathers Rd	-37.42618,175.88532
+;linznumbid=9300025	Mathers Rd	-37.45264,175.89209
+;linznumbid=9300026	Parton Rd	-37.73295,176.30589
+;linznumbid=9300027	Parton Rd	-37.71133,176.31301
+;linznumbid=9300028	Mangawara Rd	-37.51142,175.42501
+;linznumbid=9300029	Mangawara Rd	-37.38360,175.43692
+;linznumbid=9300030	Motu Rd	-38.01154,177.41403
+;linznumbid=9300031	Motu Rd	-38.16927,177.51022
+;linznumbid=9300032	Rotoehu Rd	-38.00808,176.43901
+;linznumbid=9300033	Rotoehu Rd	-37.94648,176.50888
+;linznumbid=9300034	~[0x04]38	-38.40402,176.50688
+;linznumbid=9300035	~[0x04]38	-38.30815,176.39166
+;linznumbid=9300036	Ohauiti Rd	-37.75355,176.16568
+;linznumbid=9300037	Ohauiti Rd	-37.81850,176.19124
+;linznumbid=9300038	~[0x04]30	-38.33308,176.06601
+;linznumbid=9300039	~[0x04]30	-38.29630,176.14354
+;linznumbid=9300040	Ohakuri Rd	-38.40945,176.08702
+;linznumbid=9300041	Ohakuri Rd	-38.40301,176.08668
+;linznumbid=9300042	Te Teko Rd	-38.03407,176.79684
+;linznumbid=9300043	Paraonui Rd	-38.20596,175.85247
+;linznumbid=9300044	Paraonui Rd	-38.20596,175.85247
+;linznumbid=9300045	Mangarino Rd	-38.32563,175.17125
+;linznumbid=9300046	Mangarino Rd	-38.25615,175.19174
+;linznumbid=9300047	~[0x04]30	-38.39256,175.20642
+;linznumbid=9300048	~[0x04]30	-38.51642,175.37074
+;linznumbid=9300049	~[0x04]2	-38.09367,177.03735
+;linznumbid=9300050	~[0x04]2	-38.04786,177.14541
+;linznumbid=9300051	Welcome Bay Rd	-37.71984,176.24883
+;linznumbid=9300052	Welcome Bay Rd	-37.72759,176.17014
+;linznumbid=9300053	~[0x04]2	-37.82130,176.58111
+;linznumbid=9300054	~[0x04]2	-37.68232,176.22599
+;linznumbid=9300055	Overdale Rd	-38.04408,175.77224
+;linznumbid=9300056	Overdale Rd	-38.02814,175.75363
+#############################
+
+Finish = 2017-12-10 18:13:26 +1300
+Processing time = 3.205617

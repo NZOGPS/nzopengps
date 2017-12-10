@@ -1617,7 +1617,7 @@ sub check_for_number_present{
 	my $rdsegptr;
 	my $numseg;
 	my @numa;
-	my $missnum;
+	my $missnum = 0;
 	my $missid;
 	my $missthis;
 	my $manual;

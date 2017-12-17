@@ -1,7 +1,9 @@
-Start = 2017-12-11 00:01:33 +1300
+Start = 2017-12-18 00:01:55 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Canterbury
+2 LINZ ids are missing from NZOGPS Canterbury
+;linzid=3078558	Brancion St	-43.5654696817928,172.585105746186
+;linzid=3078562	Wandle St	-43.4771522989388,172.67082070768
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
@@ -28,5 +30,5 @@ Start = 2017-12-11 00:01:33 +1300
 ;linznumbid=700015	~[0x04]1	-43.32870,172.66609
 #############################
 
-Finish = 2017-12-11 00:01:34 +1300
-Processing time = 1.758314
+Finish = 2017-12-18 00:01:57 +1300
+Processing time = 2.757203

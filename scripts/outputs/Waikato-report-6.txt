@@ -1,7 +1,7 @@
-Start = 2017-12-10 18:13:42 +1300
+Start = 2017-12-18 00:02:18 +1300
 linzid	street_name	street_name_2	official_street_name
-1840614	Seachange Way		Bayside Ave	-37.71696,176.30816
+1812822	MacAulay St		Macaulay St	-37.90760,175.48020
 #############################
 
-Finish = 2017-12-10 18:13:45 +1300
-Processing time = 3.321339
+Finish = 2017-12-18 00:02:22 +1300
+Processing time = 3.658005

@@ -1,8 +1,8 @@
-Start = 2017-12-10 18:13:26 +1300
+Start = 2017-12-18 00:02:01 +1300
 #############################
 
-31 LINZ ids are missing from NZOGPS Auckland
-;linzid=3078476	Tahuhu Rd	-36.9278416624296,174.846586385385
+32 LINZ ids are missing from NZOGPS Auckland
+;linzid=3078476	Tahuhu Rd	-36.9273660859808,174.846459565364
 ;linzid=3078480	Waka Moana Dr	-36.7896423751435,174.665045329612
 ;linzid=3078481	Desalt Dr	-36.7910739525352,174.665035348214
 ;linzid=3078482	Sioux Rd	-36.7910739525352,174.665035348214
@@ -33,6 +33,7 @@ Start = 2017-12-10 18:13:26 +1300
 ;linzid=3078531	Bush View Lane	-36.810598424809,174.739701531378
 ;linzid=3078536	Pukio Lane	-36.8880631670456,174.814840886968
 ;linzid=3078539	Turret Lane	-36.8043804329279,174.668085769281
+;linzid=3078561	Komanawa Lane	-36.9271851198548,174.847888010102
 #############################
 
 15 LINZ ids are in NZOGPS Auckland but missing from LINZ
@@ -59,5 +60,5 @@ Start = 2017-12-10 18:13:26 +1300
 0 Number range ids are in NZOGPS Auckland but missing from LINZ
 #############################
 
-Finish = 2017-12-10 18:13:29 +1300
-Processing time = 3.127038
+Finish = 2017-12-18 00:02:04 +1300
+Processing time = 3.064194

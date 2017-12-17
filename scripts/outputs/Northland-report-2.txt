@@ -1,7 +1,7 @@
-Start = 2017-12-10 18:13:09 +1300
+Start = 2017-12-18 00:01:44 +1300
 #############################
 
-10 LINZ ids are missing from NZOGPS Northland
+13 LINZ ids are missing from NZOGPS Northland
 ;linzid=3030295	Springbank Rd	-35.2538088333,173.9319846333
 ;linzid=3078490	Frear Rise	-35.0014397264202,173.537182454212
 ;linzid=3078491	Piwakawaka Rise	-35.3527912738125,174.123232312802
@@ -12,6 +12,9 @@ Start = 2017-12-10 18:13:09 +1300
 ;linzid=3078516	Te Kahikatoa Peninsula Rd	-35.0064306167,173.7861776667
 ;linzid=3078523	Bennett St	-36.2784543623689,174.434424617891
 ;linzid=3078548	Moorey Lane	-35.7865901038085,174.256917544017
+;linzid=3078549	Hinemoana Lane	-35.840187509995,174.473770719323
+;linzid=3078559	Kotata Rise	-35.742314159762,174.315944278977
+;linzid=3078560	Millview Pl	-35.742314159762,174.315944278977
 #############################
 
 2 LINZ ids are in NZOGPS Northland but missing from LINZ
@@ -25,5 +28,5 @@ Start = 2017-12-10 18:13:09 +1300
 0 Number range ids are in NZOGPS Northland but missing from LINZ
 #############################
 
-Finish = 2017-12-10 18:13:10 +1300
-Processing time = 1.166117
+Finish = 2017-12-18 00:01:45 +1300
+Processing time = 1.306915

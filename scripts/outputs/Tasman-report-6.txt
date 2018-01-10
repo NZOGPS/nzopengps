@@ -1,4 +1,4 @@
-Start = 2017-12-18 00:02:06 +1300
+Start = 2018-01-10 19:46:14 +1300
 linzid	street_name	street_name_2	official_street_name
 3032989	Settlement Rd ( 4WD Only)		Settlement Rd	-42.68954,171.22630
 3034665	~[0x04]6		Nelson St	-41.50804,173.95912
@@ -9,5 +9,5 @@ linzid	street_name	street_name_2	official_street_name
 1785559	Charming Creek Walkway		Charming Creek Rd	-41.60949,171.88025
 #############################
 
-Finish = 2017-12-18 00:02:07 +1300
-Processing time = 1.409841
+Finish = 2018-01-10 19:46:15 +1300
+Processing time = 1.238763

@@ -1,12 +1,14 @@
-Start = 2017-12-18 00:01:50 +1300
+Start = 2018-01-10 19:45:58 +1300
 #############################
 
-5 LINZ ids are missing from NZOGPS Central
+7 LINZ ids are missing from NZOGPS Central
 ;linzid=3078555	Harkness Rice Way	-39.1355443902998,174.002789723507
 ;linzid=3078550	Riverview Dr	-39.8993429312907,176.717695920082
 ;linzid=3078556	Mackillop Way	-39.0761227200042,174.083630159876
 ;linzid=3078553	Customhouse St	-39.0306784043762,174.161372330781
 ;linzid=3078554	Kararaina Cl	-39.0895021786167,174.030877452044
+;linzid=3078596	Drovers Way	-39.6179804965512,176.827528388601
+;linzid=3078595	McKay Cl	-39.6168321792462,176.828174065518
 #############################
 
 0 LINZ ids are in NZOGPS Central but missing from LINZ
@@ -72,5 +74,5 @@ Start = 2017-12-18 00:01:50 +1300
 ;linznumbid=9400054	Crosses Rd	-39.66224,176.88390
 #############################
 
-Finish = 2017-12-18 00:01:52 +1300
-Processing time = 2.447886
+Finish = 2018-01-10 19:46:01 +1300
+Processing time = 2.508523

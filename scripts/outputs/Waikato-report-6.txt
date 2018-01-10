@@ -1,7 +1,7 @@
-Start = 2017-12-18 00:02:18 +1300
+Start = 2018-01-10 19:46:25 +1300
 linzid	street_name	street_name_2	official_street_name
-1812822	MacAulay St		Macaulay St	-37.90760,175.48020
+3078316	Harriet Johnson Dr		Harriet Johnston Dr	-37.24730,175.01497
 #############################
 
-Finish = 2017-12-18 00:02:22 +1300
-Processing time = 3.658005
+Finish = 2018-01-10 19:46:28 +1300
+Processing time = 2.954854

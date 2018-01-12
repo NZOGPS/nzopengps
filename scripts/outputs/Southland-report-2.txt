@@ -1,4 +1,4 @@
-Start = 2018-01-10 19:45:55 +1300
+Start = 2018-01-11 01:43:45 +1300
 #############################
 
 0 LINZ ids are missing from NZOGPS Southland
@@ -25,5 +25,5 @@ Start = 2018-01-10 19:45:55 +1300
 ;linznumbid=9800012	Porteous Rd	-45.69040,170.57020
 #############################
 
-Finish = 2018-01-10 19:45:58 +1300
-Processing time = 3.139922
+Finish = 2018-01-11 01:43:48 +1300
+Processing time = 2.971102

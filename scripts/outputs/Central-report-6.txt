@@ -1,7 +1,9 @@
-Start = 2018-01-13 14:14:01 +1300
+Start = 2018-01-14 16:17:56 +1300
 linzid	street_name	street_name_2	official_street_name
+1812511			Paora Hapi St	-38.68434,176.07052
 3075450	Outback Rd		Service Lane	-39.67700,175.79747
+1798666	Trent St		Ihupuku St	-39.80647,174.73396
 #############################
 
-Finish = 2018-01-13 14:14:03 +1300
-Processing time = 1.530543
+Finish = 2018-01-14 16:17:57 +1300
+Processing time = 1.526509

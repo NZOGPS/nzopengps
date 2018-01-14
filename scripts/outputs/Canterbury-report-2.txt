@@ -1,7 +1,9 @@
-Start = 2018-01-14 16:18:01 +1300
+Start = 2018-01-14 16:23:56 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Canterbury
+2 LINZ ids are missing from NZOGPS Canterbury
+;linzid=3078615	Corriedale Lane	-43.5231943306381,172.365859691944
+;linzid=3078635	Chatsworth Ave	-43.3020971605786,172.565582590638
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
@@ -28,5 +30,5 @@ Start = 2018-01-14 16:18:01 +1300
 ;linznumbid=700015	~[0x04]1	-43.32870,172.66609
 #############################
 
-Finish = 2018-01-14 16:18:04 +1300
-Processing time = 2.404587
+Finish = 2018-01-14 16:23:59 +1300
+Processing time = 3.058434

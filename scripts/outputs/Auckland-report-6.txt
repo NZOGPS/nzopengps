@@ -1,4 +1,4 @@
-Start = 2018-01-10 19:46:28 +1300
+Start = 2018-01-14 16:24:22 +1300
 linzid	street_name	street_name_2	official_street_name
 3047073	~[0x04]18	Upper Harbour Hwy	Upper Harbour Mwy	-36.78855,174.65875
 3047073	~[0x04]18	Upper Harbour Hwy	Upper Harbour Mwy	-36.81614,174.61282
@@ -7,5 +7,5 @@ linzid	street_name	street_name_2	official_street_name
 3077499	Frontier Lane		Frontiere Lane	-36.60956,174.67137
 #############################
 
-Finish = 2018-01-10 19:46:32 +1300
-Processing time = 3.936021
+Finish = 2018-01-14 16:24:27 +1300
+Processing time = 4.493954

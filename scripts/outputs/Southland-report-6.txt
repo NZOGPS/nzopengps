@@ -1,6 +1,7 @@
-Start = 2018-01-14 16:24:09 +1300
+Start = 2018-01-28 15:01:10 +1300
 linzid	street_name	street_name_2	official_street_name
+3078087	Toetoe Way		Shand Way	-46.44642,168.30345
 #############################
 
-Finish = 2018-01-14 16:24:11 +1300
-Processing time = 2.798536
+Finish = 2018-01-28 15:01:14 +1300
+Processing time = 3.595948

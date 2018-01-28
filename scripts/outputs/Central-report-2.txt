@@ -1,7 +1,9 @@
-Start = 2018-01-15 00:30:44 +1300
+Start = 2018-01-28 15:00:49 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Central
+2 LINZ ids are missing from NZOGPS Central
+;linzid=3078636	Nukanoa Lane	-39.6460627549649,176.754143836628
+;linzid=3078662	Netherton Rd	-40.0128080103775,176.86655720285
 #############################
 
 0 LINZ ids are in NZOGPS Central but missing from LINZ
@@ -67,5 +69,5 @@ Start = 2018-01-15 00:30:44 +1300
 ;linznumbid=9400054	Crosses Rd	-39.66224,176.88390
 #############################
 
-Finish = 2018-01-15 00:30:46 +1300
-Processing time = 2.148886
+Finish = 2018-01-28 15:00:52 +1300
+Processing time = 3.342762

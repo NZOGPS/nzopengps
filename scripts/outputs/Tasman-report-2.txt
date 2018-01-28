@@ -1,7 +1,7 @@
-Start = 2018-01-14 16:23:46 +1300
+Start = 2018-01-28 15:00:43 +1300
 #############################
 
-11 LINZ ids are missing from NZOGPS Tasman
+17 LINZ ids are missing from NZOGPS Tasman
 ;linzid=3066099	State Highway 7	-42.3757911621212,172.362385564133
 ;linzid=3026942	Main Rd	-41.6073389595259,171.87619698491
 ;linzid=3026936	Main Rd	-42.4385285833,171.3419094833
@@ -13,15 +13,22 @@ Start = 2018-01-14 16:23:46 +1300
 ;linzid=3060412	Malfroys Tram	-42.70472515,171.1049672333
 ;linzid=3027408	State Highway 67	-41.52923665,171.9670456167
 ;linzid=3027683	State Highway 1	-42.6398559333,173.3232341667
+;linzid=3078664	George Glenn Pl	-42.503688913273,171.175774255016
+;linzid=3078666	Windhawk Rise	-41.5414056310279,173.828827462437
+;linzid=3078670	Manu Cl	-41.351721251735,173.179713079172
+;linzid=3078668	Bacca Crt	-41.3527190360286,173.180785398104
+;linzid=3078669	Lago Way	-41.3514940830004,173.179734466044
+;linzid=3078671	Divita Pl	-41.3520015066654,173.179893253363
 #############################
 
-43 LINZ ids are in NZOGPS Tasman but missing from LINZ
+44 LINZ ids are in NZOGPS Tasman but missing from LINZ
 ;linzid=1786077	Conical Hill Rd	-42.50705,172.82833
 ;linzid=1770862	Service Lane	-41.34232,173.18710
 ;linzid=1789618	Airlie St	-41.18437,173.36407
 ;linzid=1790674	Arnott Lane	-42.45194,171.21147
 ;linzid=1791700	~[0x04]1	-42.51061,173.50714
 ;linzid=1791693	~[0x04]6	-41.50620,173.81877
+;linzid=3075883	Accessway	-41.50817,173.87196
 ;linzid=1791697	~[0x04]1	-41.57535,174.03736
 ;linzid=1789941	~[0x04]6	-41.38011,173.11050
 ;linzid=1787884	Main Rd	-41.61644,171.86584
@@ -71,5 +78,5 @@ Start = 2018-01-14 16:23:46 +1300
 0 Number range ids are in NZOGPS Tasman but missing from LINZ
 #############################
 
-Finish = 2018-01-14 16:23:47 +1300
-Processing time = 1.51535
+Finish = 2018-01-28 15:00:45 +1300
+Processing time = 1.915479

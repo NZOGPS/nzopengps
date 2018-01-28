@@ -1,8 +1,7 @@
-Start = 2018-01-28 15:00:55 +1300
+Start = 2018-01-29 00:50:23 +1300
 #############################
 
-1 LINZ ids are missing from NZOGPS Canterbury
-;linzid=3078658	John Morten Pl	-43.5772174309668,172.3782645795
+0 LINZ ids are missing from NZOGPS Canterbury
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
@@ -29,5 +28,5 @@ Start = 2018-01-28 15:00:55 +1300
 ;linznumbid=700015	~[0x04]1	-43.32870,172.66609
 #############################
 
-Finish = 2018-01-28 15:00:59 +1300
-Processing time = 3.540466
+Finish = 2018-01-29 00:50:26 +1300
+Processing time = 2.408589

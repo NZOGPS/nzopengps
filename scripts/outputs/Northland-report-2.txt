@@ -1,22 +1,8 @@
-Start = 2018-01-28 15:00:41 +1300
+Start = 2018-01-29 21:49:01 +1300
 #############################
 
-15 LINZ ids are missing from NZOGPS Northland
+1 LINZ ids are missing from NZOGPS Northland
 ;linzid=3078523	Bennett St	-36.2784543623689,174.434424617891
-;linzid=3078548	Moorey Lane	-35.7865901038085,174.256917544017
-;linzid=3078549	Hinemoana Lane	-35.840187509995,174.473770719323
-;linzid=3078559	Kotata Rise	-35.742314159762,174.315944278977
-;linzid=3078560	Millview Pl	-35.742314159762,174.315944278977
-;linzid=3078616	Korakanui A Rua Rd	-34.8190240787246,173.106913602064
-;linzid=3078618	View Lane	-34.8132743922603,173.116118027102
-;linzid=3078617	Harrys Lane	-34.8129704340581,173.117290935557
-;linzid=3078619	Wagener Grv	-34.8260018592665,173.127725221356
-;linzid=3078620	Te Rawhitiroa Rd	-34.6525257729572,172.970082821845
-;linzid=3078621	Tu Moana Cl	-35.0118985832717,173.466490132772
-;linzid=3078622	Matahourua Cl	-35.012598387833,173.466608133616
-;linzid=3078623	Kyla Pl	-36.1385735733469,174.497237626343
-;linzid=3078637	Orotere Lane	-35.1248846297825,173.830590211678
-;linzid=3078667	Vintage Lane	-35.6528244755887,174.306926134668
 #############################
 
 2 LINZ ids are in NZOGPS Northland but missing from LINZ
@@ -30,5 +16,5 @@ Start = 2018-01-28 15:00:41 +1300
 0 Number range ids are in NZOGPS Northland but missing from LINZ
 #############################
 
-Finish = 2018-01-28 15:00:43 +1300
-Processing time = 1.625554
+Finish = 2018-01-29 21:49:02 +1300
+Processing time = 0.833815

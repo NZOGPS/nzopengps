@@ -1,11 +1,9 @@
-Start = 2018-01-28 15:01:27 +1300
+Start = 2018-01-30 00:26:31 +1300
 linzid	street_name	street_name_2	official_street_name
 3047073	~[0x04]18	Upper Harbour Hwy	Upper Harbour Mwy	-36.78855,174.65875
 3047073	~[0x04]18	Upper Harbour Hwy	Upper Harbour Mwy	-36.81614,174.61282
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
-2018182	Tikumu Rd		Daisy Burrell Dr	-36.62480,174.79366
-3077499	Frontier Lane		Frontiere Lane	-36.60956,174.67137
 #############################
 
-Finish = 2018-01-28 15:01:32 +1300
-Processing time = 4.986824
+Finish = 2018-01-30 00:26:34 +1300
+Processing time = 2.815438

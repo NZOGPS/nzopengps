@@ -1,4 +1,4 @@
-Start = 2018-01-29 21:49:01 +1300
+Start = 2018-01-29 22:29:02 +1300
 #############################
 
 1 LINZ ids are missing from NZOGPS Northland
@@ -16,5 +16,5 @@ Start = 2018-01-29 21:49:01 +1300
 0 Number range ids are in NZOGPS Northland but missing from LINZ
 #############################
 
-Finish = 2018-01-29 21:49:02 +1300
-Processing time = 0.833815
+Finish = 2018-01-29 22:29:03 +1300
+Processing time = 0.87342

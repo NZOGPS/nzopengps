@@ -1481,6 +1481,7 @@ sub read_paper_road_numbers {
 		my @nums;
 		@chunks = split/\t/;
 		$idval = $chunks[0];
+		next if not defined $idval; #blank line?
 		if (defined ($papernumbers{$idval})) {
 			print "Warning - in paper numbers file - Multiple definitions for id $idval\n";
 		}

@@ -48,7 +48,7 @@
 1823008	E,136,138	Clark Rd	Hobsonville, Waitakere(Auckland,NZ)	2015/05/09 19:18	-36.798430,174.648780
 1827130	E,10,34	O,25,25	Miro St	Drury(Auckland,NZ)	2015/05/09 19:20	-37.095960,174.946910
 1833160	O,91,91	~[0x04]1	Warkworth(Auckland,NZ)	2015/05/09 22:59	-36.391670,174.651090
-3029817	O,111,137	Kaipara Flats Rd	Dome Forest(Auckland,NZ)	2015/05/09 22:59	-36.388800,174.624480
+3029817	O,109,137	Kaipara Flats Rd	Dome Forest(Auckland,NZ)	2015/05/09 22:59	-36.388800,174.624480
 1830470	O,4321,4355	Great North Rd	Glendene, Waitakere(Auckland,NZ)	2015/05/15 01:56	-36.888760,174.644480	Have to paper these rather than linzid2 as the other side end duplicates
 1833163	O,119,119	~[0x04]1	Freemans Bay, Auckland(Auckland,NZ)	2015/05/19 19:16	-36.625090,174.662960
 1821370	E,96,96	Radiata Rd		2016/07/21 14:47	-36.433820,174.650910
@@ -60,8 +60,6 @@
 1820842	E,2,2	Matija Pl	Red Beach(Auckland,NZ)	2016/10/02 11:28	-36.605740,174.684550
 1822573	E,40,80	Ashley Ave	Long Bay, North Shore City(Auckland,NZ)	2016/10/02 11:33	-36.691780,174.738000
 1828242	O,41,45	Adamson Rd	Flat Bush, Manukau(Auckland,NZ)	2016/10/02 11:43	-36.983120,174.910880
-1982685	E,74,76	Bomb Point Dr	Hobsonville, Waitakere(Auckland,NZ)	2016/10/02 11:55	-36.794510,174.663770
-1982685	E,74,76	Bomb Point Dr	Hobsonville, Waitakere(Auckland,NZ)	2016/10/02 11:55	-36.794510,174.663770
 1828217	O,1,1	Andrew McKee Ave	Auckland Airport, Manukau(Auckland,NZ)	2016/11/12 16:31	-37.006240,174.789730
 3016990	E,170,170	Brigham Creek Rd	Whenuapai, Waitakere(Auckland,NZ)	2016/11/12 20:22	-36.798920,174.633600
 1830962	E,92,92	Bankside Rd	Silverdale(Auckland,NZ)	2016/11/12 20:24	-36.604670,174.673860
@@ -92,6 +90,6 @@
 1822746	E,74,74	Routley Dr	Glen Eden, Waitakere(Auckland,NZ)	2017/11/17 10:01	-36.916290,174.649843
 1823458	E,192,192	Buckley Ave	Hobsonville, Waitakere(Auckland,NZ)	2017/11/17 10:05	-36.788730,174.662640
 1824546	E,76,76	Tohunga Cres	Parnell, Auckland(Auckland,NZ)	2017/11/17 10:14	-36.861170,174.789650
-1842979	O,3,3	Te Horeta Rd	Panmure, Auckland(Auckland,NZ)	2017/11/17 11:10	-36.903340,174.841870
 3013816	E,98,98	Bader Dr	Mangere Bridge, Manukau(Auckland,NZ)	2017/11/17 14:33	-36.966030,174.795970
 3035115	O,317,317	Te Atatu Rd	Te Atatu Peninsula, Waitakere(Auckland,NZ)	2017/11/17 15:20	-36.858330,174.652950
+

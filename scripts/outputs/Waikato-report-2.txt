@@ -1,14 +1,7 @@
-Start = 2018-01-28 15:00:59 +1300
+Start = 2018-01-31 14:43:30 +1300
 #############################
 
-7 LINZ ids are missing from NZOGPS Waikato
-;linzid=3078600	James Elliot Way	-37.2489052749723,175.006010576858
-;linzid=3078597	Flemings Way	-37.6572479535651,175.145069827689
-;linzid=3078598	Harry Richards Way	-37.2469694385666,175.006124095382
-;linzid=3078602	Peter Bourne Rd	-37.2488495673181,175.009078142795
-;linzid=3078599	Herbert Oldham Rd	-37.249149112928,175.008196330173
-;linzid=3078601	Moyle St	-37.2478551571387,175.009275762461
-;linzid=3078603	Skiffington Rd	-37.249149112928,175.008196330173
+0 LINZ ids are missing from NZOGPS Waikato
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -76,5 +69,5 @@ Start = 2018-01-28 15:00:59 +1300
 ;linznumbid=9300056	Overdale Rd	-38.02814,175.75363
 #############################
 
-Finish = 2018-01-28 15:01:03 +1300
-Processing time = 3.878019
+Finish = 2018-01-31 14:43:33 +1300
+Processing time = 2.504804

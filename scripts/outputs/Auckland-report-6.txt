@@ -1,9 +1,9 @@
-Start = 2018-01-31 00:38:14 +1300
+Start = 2018-01-31 14:43:38 +1300
 linzid	street_name	street_name_2	official_street_name
 3047073	~[0x04]18	Upper Harbour Hwy	Upper Harbour Mwy	-36.78855,174.65875
 3047073	~[0x04]18	Upper Harbour Hwy	Upper Harbour Mwy	-36.81614,174.61282
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
 #############################
 
-Finish = 2018-01-31 00:38:17 +1300
-Processing time = 2.492681
+Finish = 2018-01-31 14:43:41 +1300
+Processing time = 2.987002

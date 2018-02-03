@@ -146,6 +146,9 @@ def put_csv_in_postgres()
 	@conn.exec "ALTER TABLE #{FN_3353}  ADD COLUMN rna_id integer;"
 	@conn.exec "UPDATE #{FN_3353}  SET rna_id = nz_roads_subsections_addressing.road_id from nz_roads_subsections_addressing where nz_roads_subsections_addressing.road_section_id = #{FN_3353}.road_section_id"
 	@conn.exec "UPDATE #{FN_3353}  SET rna_id = #{FN_3383}.road_id from #{FN_3383} where #{FN_3383}.road_section_id = #{FN_3353}.road_section_id"
+	@conn.exec "ALTER TABLE #{FN_3353}  ADD COLUMN linz_numb_id integer;"
+	@conn.exec "UPDATE #{FN_3353}  SET linz_numb_id = nz_roads_subsections_addressing.address_range_road_id from nz_roads_subsections_addressing where nz_roads_subsections_addressing.road_section_id = #{FN_3353}.road_section_id"
+	@conn.exec "UPDATE #{FN_3353}  SET linz_numb_id = #{FN_3383}.address_range_road_id from #{FN_3383} where #{FN_3383}.road_section_id = #{FN_3353}.road_section_id"
 	
 	@conn.exec "VACUUM ANALYSE #{FN_3353}"
 
@@ -235,12 +238,12 @@ def do_updates()
 		"( wkb_geometry, address_id, change_id, address_type, unit_value, address_number, address_number_suffix, address_number_high, "\
 		"water_route_name, water_name, suburb_locality, town_city, full_address_number, full_road_name, full_address, road_section_id, "\
 		"gd2000_xcoord, gd2000_ycoord, water_route_name_ascii, water_name_ascii, suburb_locality_ascii, "\
-		"town_city_ascii, full_road_name_ascii, full_address_ascii, shape_x, shape_y, is_odd, rna_id ) "\
+		"town_city_ascii, full_road_name_ascii, full_address_ascii, shape_x, shape_y, is_odd, rna_id, linz_numb_id ) "\
 	"SELECT "\
 		"st_flipcoordinates(wkb_geometry), address_id, change_id, address_type, unit_value, address_number, address_number_suffix, address_number_high, "\
 		"water_route_name, water_name, suburb_locality, town_city, full_address_number, full_road_name, full_address, road_section_id, "\
 		"gd2000_xcoord, gd2000_ycoord, water_route_name_ascii, water_name_ascii, suburb_locality_ascii, "\
-		"town_city_ascii, full_road_name_ascii, full_address_ascii, gd2000_xcoord, gd2000_ycoord, is_odd, rna_id "\
+		"town_city_ascii, full_road_name_ascii, full_address_ascii, gd2000_xcoord, gd2000_ycoord, is_odd, rna_id, linz_numb_id "\
 	"FROM #{FN_3353} where __change__ = 'INSERT'"
 # note gd2000_x/ycoord twice
 
@@ -251,12 +254,12 @@ def do_updates()
 		"full_address_number=subquery.full_address_number, full_road_name=subquery.full_road_name, full_address=subquery.full_address, road_section_id=subquery.road_section_id, "\
 		"gd2000_xcoord=subquery.gd2000_xcoord, gd2000_ycoord=subquery.gd2000_ycoord, water_route_name_ascii=subquery.water_route_name_ascii, water_name_ascii=subquery.water_name_ascii, "\
 		"suburb_locality_ascii=subquery.suburb_locality_ascii, town_city_ascii=subquery.town_city_ascii, full_road_name_ascii=subquery.full_road_name_ascii, "\
-		"full_address_ascii=subquery.full_address_ascii, shape_x=subquery.gd2000_xcoord, shape_y=subquery.gd2000_ycoord, is_odd=subquery.is_odd, rna_id=subquery.rna_id "\
+		"full_address_ascii=subquery.full_address_ascii, shape_x=subquery.gd2000_xcoord, shape_y=subquery.gd2000_ycoord, is_odd=subquery.is_odd, rna_id=subquery.rna_id, linz_numb_id=subquery.linz_numb_id "\
 	"FROM ( SELECT "\
 		"wkb_geometry, address_id, change_id, address_type, unit_value, address_number, address_number_suffix, address_number_high, "\
 		"water_route_name, water_name, suburb_locality, town_city, full_address_number, full_road_name, full_address, road_section_id, "\
 		"gd2000_xcoord, gd2000_ycoord, water_route_name_ascii, water_name_ascii, suburb_locality_ascii, "\
-		"town_city_ascii, full_road_name_ascii, full_address_ascii, is_odd, rna_id "\
+		"town_city_ascii, full_road_name_ascii, full_address_ascii, is_odd, rna_id, linz_numb_id "\
 	"FROM #{FN_3353} where __change__ = 'UPDATE') AS subquery WHERE sae.address_id=subquery.address_id"
 
 	@conn.exec "DELETE FROM #{ROAD_TABLE} rcl USING #{FN_3383} cs WHERE rcl.road_section_geometry_id = cs.road_section_geometry_id AND cs.__change__ = 'DELETE'"

@@ -1,7 +1,19 @@
-Start = 2018-02-02 10:05:13 +1300
+Start = 2018-02-12 00:29:15 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Waikato
+12 LINZ ids are missing from NZOGPS Waikato
+;linzid=3078699	Mangarino St	-38.3257137333,175.171801
+;linzid=3078682	Taiatea Dr	-37.7640662304752,175.223812478674
+;linzid=3078684	Wairua Ave	-37.7620892910116,175.226115205536
+;linzid=3078687	Hapu Ave	-37.7611875402086,175.224640928262
+;linzid=3078686	Iwi Rd	-37.7631398349663,175.224907823776
+;linzid=3078685	Pukenga Ave	-37.7614506012699,175.224050818314
+;linzid=3078688	Mana Dr	-37.7624636852735,175.225499053725
+;linzid=3078683	Hapori Ave	-37.7638888334301,175.22620926589
+;linzid=3078689	Whanau Ave	-37.7634816728811,175.224691551747
+;linzid=3078690	Whakapono Ave	-37.7631398349663,175.224907823776
+;linzid=3078694	Monarch Park Lane	-37.9195692833,175.4778828667
+;linzid=3078697	Te Paea Cres	-37.688150980338,176.243565859572
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -69,5 +81,5 @@ Start = 2018-02-02 10:05:13 +1300
 ;linznumbid=9300056	Overdale Rd	-38.02814,175.75363
 #############################
 
-Finish = 2018-02-02 10:05:15 +1300
-Processing time = 2.239478
+Finish = 2018-02-12 00:29:18 +1300
+Processing time = 3.040918

@@ -1,11 +1,15 @@
-Start = 2018-01-29 09:55:21 +1300
+Start = 2018-02-12 00:29:07 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Central
+2 LINZ ids are missing from NZOGPS Central
+;linzid=3078677	Cape Grv	-39.6159946959486,176.95486600816
+;linzid=3078698	Magdalinos Way	-39.6653164155508,176.880614012469
 #############################
 
-1 LINZ ids are in NZOGPS Central but missing from LINZ
+3 LINZ ids are in NZOGPS Central but missing from LINZ
+;linzid=3075183	Walkway	-38.89484,175.76852
 ;linzid=999	Ihupuku St	-39.80647,174.73396
+;linzid=1804110	Fleming Pl	-39.50962,176.90197
 #############################
 
 0 Number range ids are missing from NZOGPS Central
@@ -68,5 +72,5 @@ Start = 2018-01-29 09:55:21 +1300
 ;linznumbid=9400054	Crosses Rd	-39.66224,176.88390
 #############################
 
-Finish = 2018-01-29 09:55:23 +1300
-Processing time = 1.678307
+Finish = 2018-02-12 00:29:09 +1300
+Processing time = 2.419318

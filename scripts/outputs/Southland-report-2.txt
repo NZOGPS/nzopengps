@@ -1,7 +1,11 @@
-Start = 2018-01-29 09:48:55 +1300
+Start = 2018-02-12 00:29:04 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Southland
+4 LINZ ids are missing from NZOGPS Southland
+;linzid=3078679	Avoca Dr	-45.0946262629611,170.932481382239
+;linzid=3078680	Stringer Cres	-45.0954784574496,170.932121235919
+;linzid=3078695	Old Saleyard Rd	-45.049165498879,169.173279088925
+;linzid=3078696	Arion Crt	-44.9697973481471,169.251577506961
 #############################
 
 0 LINZ ids are in NZOGPS Southland but missing from LINZ
@@ -25,5 +29,5 @@ Start = 2018-01-29 09:48:55 +1300
 ;linznumbid=9800012	Porteous Rd	-45.69040,170.57020
 #############################
 
-Finish = 2018-01-29 09:48:57 +1300
-Processing time = 1.868241
+Finish = 2018-02-12 00:29:07 +1300
+Processing time = 2.784674

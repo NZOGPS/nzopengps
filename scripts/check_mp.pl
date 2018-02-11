@@ -1370,7 +1370,7 @@ sub levels_check{
 	
 	
 sub read_number_csv {
-	my $header = "No,Latitude,Longitude,Name,Description,Symbol";
+	my $header = "No,Latitude,Longitude,Name,Description,Symbol,LNID";
 	my $hline;
 	my @aline;
 	my $f1 = shift;
@@ -1378,6 +1378,7 @@ sub read_number_csv {
 	my $fn;
 	my $idformat;
 	my $idval;
+	my $nlid;
 	my $count;
 	my $numsufi;
 	my $number;
@@ -1399,14 +1400,14 @@ sub read_number_csv {
 	$hline = <INF>;
 	chomp $hline;
 	if ($hline ne $header){
-		print "expected header not found. Expected:\n$header\nfound:\n$hline\n\n";
+		print "expected header not found in CSV file. Expected:\n$header\nfound:\n$hline\n\n";
 		die;
 	}
 	while (<INF>){
 		chomp;
 		@aline = split /,/;
-		if ($#aline != 5){
-			die "unexpected line length: $#aline, line $.\nLine is: $_\n";
+		if ($#aline != 6){
+			die "unexpected number of values in CSV file: $#aline, line $.\nLine is: $_\n";
 		}
 		$count++;
 		if ($aline[3]=~/(\"?)(\d+) (.*)(\.\d+)?\1/){ #digits for the number, road name, optional .digits for multiples
@@ -1414,9 +1415,20 @@ sub read_number_csv {
 			$road = $3;
 #			print "read num csv: $number $road ($1) from $aline[3]\n";
 		} else {
-			die "odd address: $aline[3] line $.\nLine is: $_\n";
+			die "odd address in CSV file: $aline[3] line $.\nLine is: $_\n";
 		}
-	
+
+		if ($aline[6]=~/(\d+)/) { #digits for linz_num_id
+			$nlid = $1;
+			if ($nlid != 0) {
+				# do checks here? or below? ...
+			} else {
+				# hmmm
+			}
+		} else {
+			die "odd linz_num_id in CSV file: $aline[6] line $.\nLine is: $_\n";
+		}	
+			
 		if ($aline[4]=~/$idformat/){ 
 			$idval = $2;
 			if (defined($sufiroadname{$idval})){
@@ -1429,8 +1441,8 @@ sub read_number_csv {
 			}
 	
 			if (defined($x{$idval}{$number})){
-				print "error: multiple definitions for $number $sufiroadname{$idval} ($idval}\n";
-				print "prev: $x{$idval}{$number},$y{$idval}{$number} - current $aline[2],$aline[1] line $_\n";
+				print "error: multiple definitions for $number $sufiroadname{$idval} ($idval)\n";
+				print "prev: $y{$idval}{$number},$x{$idval}{$number} - current $aline[2],$aline[1] line $_\n";
 			} else {
 				$x{$idval}{$number}=$aline[2];
 				$y{$idval}{$number}=$aline[1];

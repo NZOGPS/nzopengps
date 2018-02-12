@@ -18,6 +18,7 @@ my $nzogps = "nzopengps";
 my $maxlbl = 3;
 my $comment;
 my @roads;
+my @polygons;
 my @namesnot2index;
 my %bysufi;
 my %bylinzid;
@@ -61,9 +62,33 @@ my %roadtype = (
 	22 => "Walkway",
 );
 
+my %polytype = (
+	0    => "--Unknown--  ",
+	0x2  => "City Area    ",
+	0x4  => "Military Area",
+	0x5  => "Parking lot  ",
+	0x6  => "Parking Bldg ",
+	0x7  => "Airport      ",
+	0x8  => "Shopping Cntr",
+	0x9  => "Marina       ",
+	0xa  => "School/Uni	  ",
+	0xb  => "Hospital     ",
+	0xe  => "Airport Runwy",
+	0x13 => "Building     ",
+	0x17 => "City Park    ",
+	0x18 => "Golf Course  ",
+	0x19 => "Sporting Area",
+	0x1a => "Cemetery     ",
+	0x28 => "Sea/Ocean    ",
+	0x40 => "Small Lake   ",
+	0x41 => "Smallish Lake",
+	0x4a => "Map Selection",
+	0x47 => "Large River  ",
+	0x50 => "Forest       ",
+);
 my %sufiroadname;
-my %x;
-my %y;
+my %csv_x;
+my %csv_y;
 
 sub do_header {
 	my $lblcfnd = 0;
@@ -92,6 +117,48 @@ sub do_header {
 }
 
 sub do_polygon {
+	my $type;		#1
+	my @label;		#2
+	my $endlevel = 0;	#3
+	my $cityidx;	#4
+	my $lineno = $.;	#7
+	my @data;
+	my $coordstr;
+	my @coords;
+	my @x;	#9
+	my @y;	#10
+	my @nods;	#11
+	my $i;
+	while (<>){
+		if (/^Type=(.*)$/)			{ $type = $1 };
+		if (/^Label([23]?)=(.*)$/)	{ $label[$1?$1-1:0] = $2 };
+		if (/^EndLevel=(.*)$/)		{ $endlevel = $1 };
+		if (/^CityIdx=(.*)$/)		{ $cityidx = $1 };
+		if (/^Data(\d+)=(.*)$/)	{ # bit of work here...
+			my $level = $1;
+			my $coordstr = $2;
+			if (! ($coordstr =~ s/^\(// )){
+				print "Error - leading ( not found in coords- line $.\n";
+			}
+			if (! ($coordstr =~ s/\)$// )){
+				print "Error - trailing ( not found in coords- line $.\n";
+			}
+			$coordstr =~ s/\),\(/\#/g;
+			@coords = split(/\#/,$coordstr);
+			for (@coords){
+				if (/^(-*\d+\.\d+),(-*\d+\.\d+)$/){
+					push @x,$1;
+					push @y,$2;
+				} else {
+					print "invalid coord: $_ line $.\n";
+				}
+			}
+		}
+		if (/^\[END\]$/)	{ #end of def - collect everything up and exit
+			push @polygons,[$comment,$type,\@label,$endlevel,$cityidx,$lineno,\@x,\@y];
+			last;
+		}
+	}
 }
 
 sub parsenums{
@@ -238,6 +305,29 @@ sub dump_id2 {
 		print "Road is $roadname, Line $road[7], Coord is\t$x[$nodno],$y[$nodno]\n";
 	} else {
 		print "Road is $roadname, Line $road[7], Coords are $x[$nodno],$y[$nodno] and\t$x[$nodn2],$y[$nodn2]\n";
+	}
+}
+sub dump_poly2 {
+	my $pidptr = shift;
+	my $ptype;
+	my $ptypename;
+	my $nodno = shift;
+	my $nodn2 = shift;
+	if ($debug{'dumppoly2'}) { print "dump_poly2: $pidptr, $nodno, $nodn2\n" }
+	my @poly = @$pidptr;
+	my @x = @{$poly[6]};
+	my @y = @{$poly[7]};
+	my $polyname = $poly[2][0] || "unnamed";
+	my $i;
+	my $space = '';
+	$ptype = hex($poly[1]);
+	if ( $ptype < 0x10 ) { $space = ' '; }
+	$ptypename = $polytype{$ptype} || $polytype{0};
+	if ( $nodn2 < 0 ){
+		print shortmess() if not defined $nodno;
+		print "$poly[1]$space/$ptypename Polygon is $polyname, Line $poly[5], Coord is\t$x[$nodno],$y[$nodno]\n";
+	} else {
+		print "$poly[1]$space/$ptypename Polygon is $polyname, Line $poly[5], Coords are $x[$nodno],$y[$nodno] and\t$x[$nodn2],$y[$nodn2]\n";
 	}
 }
 
@@ -1358,12 +1448,48 @@ sub numbered_id0 {
 
 
 sub levels_check{
-	print "check for roads on level 0 only...\n";
+	my %roads_for_level_3 = (
+		0x01 => 1, #major highway
+		0x02 => 1, #principal highway
+		0x1e => 1, #international border
+	);
+	my %polys_for_level_3 = (
+		0x3c => 1, #large lake
+		0x3d => 1, #large lake
+		0x42 => 1, #major lake
+		0x43 => 1, #major lake
+		0x44 => 1, #large lake
+		0x46 => 1, #major lake
+	);
+	print "check for roads on too low a level...\n";
 	for my $road (@roads) {
 		my $level = $$road[3];
+		my $type = $$road[1];
 		if ($level < 1) {
 			print "Road on level 0 only:\t";
 			dump_id2($road,0,-1);
+		} else {
+			if ( $roads_for_level_3{$type} && $level < 3 ){
+				print "Road on level$level only:\t";
+				dump_id2($road,0,-1);
+			}
+		}
+	}	
+	print "check for polygons on too low a level...\n";
+	for my $poly (@polygons) {
+		my $level = $$poly[3];
+		my $ptype = hex($$poly[1]);
+		my $ptypename = $polytype{$ptype} || $polytype{0};
+		my $pname = $$poly[2][0] || "unnamed";
+		if ($level < 1) {
+			print "Polygon on level 0 only:\t";
+			dump_poly2($poly,0,-1);
+			print MISSFILE "$$poly[7][0],$$poly[6][0],$ptypename on level0 only,$pname\n";
+		} else {
+			if ( $polys_for_level_3{$ptype} && $level < 3 ){
+				print "Polygon on level$level only:\t";
+				dump_poly2($poly,0,-1);
+			}
 		}
 	}	
 }
@@ -1378,7 +1504,7 @@ sub read_number_csv {
 	my $fn;
 	my $idformat;
 	my $idval;
-	my $nlid;
+	my $lnid;
 	my $count;
 	my $numsufi;
 	my $number;
@@ -1419,14 +1545,11 @@ sub read_number_csv {
 		}
 
 		if ($aline[6]=~/(\d+)/) { #digits for linz_num_id
-			$nlid = $1;
-			if ($nlid != 0) {
+			$lnid = $1;
 				# do checks here? or below? ...
-			} else {
 				# hmmm
-			}
 		} else {
-			die "odd linz_num_id in CSV file: $aline[6] line $.\nLine is: $_\n";
+			die "Non-numeric linz_num_id in CSV file: $aline[6] line $.\nLine is: $_\n";
 		}	
 			
 		if ($aline[4]=~/$idformat/){ 
@@ -1439,13 +1562,22 @@ sub read_number_csv {
 				$sufiroadname{$idval}=$road;
 				if ($debug{'readcsvnums'}){print "read_number_csv: setting sufiroadname($idval) to $road\n";} 
 			}
-	
-			if (defined($x{$idval}{$number})){
-				print "error: multiple definitions for $number $sufiroadname{$idval} ($idval)\n";
-				print "prev: $y{$idval}{$number},$x{$idval}{$number} - current $aline[2],$aline[1] line $_\n";
+			if ($lnid == 0) {
+				if (grep /\d{5,}/,keys %{$csv_x{$idval}} ) {
+					print "Error in CSV file: Line $.: Section with no Num ID on Road ID $idval - $sufiroadname{$idval} which has sections with a Num ID\n";
+				}
 			} else {
-				$x{$idval}{$number}=$aline[2];
-				$y{$idval}{$number}=$aline[1];
+				if (exists $csv_x{$idval}{0}) {
+					print "Error in CSV file: Line $.: Num ID $lnid on Road ID $idval - $sufiroadname{$idval} which has sections with no Num ID\n";
+				}
+			}
+	
+			if (defined($csv_x{$idval}{$lnid}{$number})){
+				print "warning: multiple definitions for $number $sufiroadname{$idval} ($idval)\n";
+				print "prev: $csv_y{$idval}{$lnid}{$number},$csv_x{$idval}{$lnid}{$number} - current $aline[1],$aline[2] line $.\n";
+			} else {
+				$csv_x{$idval}{$lnid}{$number}=$aline[2];
+				$csv_y{$idval}{$lnid}{$number}=$aline[1];
 				if ($debug{'readcsvnums'}){print "read_number_csv: x,y($idval,$number) = $aline[2],$aline[1]\n";} 
 			}
 		} else {
@@ -1494,6 +1626,9 @@ sub read_paper_road_numbers {
 		@chunks = split/\t/;
 		$idval = $chunks[0];
 		next if not defined $idval; #blank line?
+		if ($idval !~ /^\d{7}(\/\d{7})?$/){
+			print "Warning - in paper numbers file - $idval is not a 7 digit ID, or a 7 digit / 7 digit ID/Num ID\n";
+		}
 		if (defined ($papernumbers{$idval})) {
 			print "Warning - in paper numbers file - Multiple definitions for id $idval\n";
 		}
@@ -1626,6 +1761,7 @@ sub findnumberinseg {
 
 sub check_for_number_present{
 	my $onerdid;
+	my $onelnid;
 	my $number;
 	my $rdsegptr;
 	my $numseg;
@@ -1645,24 +1781,26 @@ sub check_for_number_present{
 	print "check for house numbers with no corresponding $idnm on the map...\n";
 	foreach $onerdid ( keys %sufiroadname ){
 		if (!defined($byid->{$onerdid})){
-			for $number ( keys %{$x{$onerdid}}){
+			foreach $onelnid ( keys %{$csv_x{$onerdid}}){
+				for $number  ( keys %{$csv_x{$onerdid}{onelnid}}){
 				if ( numberisinpaperfile($number,$onerdid)){
-					delete $x{$onerdid}{$number};
-					delete $y{$onerdid}{$number};
+						delete $csv_x{$onerdid}{onelnid}{$number};
+						delete $csv_y{$onerdid}{onelnid}{$number};
+					}
 				}
 			}
-			my @nums = sort{ $a <=> $b } keys %{$x{$onerdid}};
+			my @nums = sort{ $a <=> $b } keys %{$csv_x{$onerdid}{onelnid}};
 			if ($#nums >= 0 ){
-				print "$sufiroadname{$onerdid}\t$onerdid\tnot found in map.\t$nums[0]\t$y{$onerdid}{$nums[0]},$x{$onerdid}{$nums[0]}";
+				print "$sufiroadname{$onerdid}\t$onerdid\tnot found in map.\t$nums[0]\t$csv_y{$onerdid}{onelnid}{$nums[0]},$csv_x{$onerdid}{onelnid}{$nums[0]}";
 				if ($#nums > 0 ){
-					print "\t$nums[$#nums]\t$y{$onerdid}{$nums[$#nums]},$x{$onerdid}{$nums[$#nums]}\n";
+					print "\t$nums[$#nums]\t$csv_y{$onerdid}{onelnid}{$nums[$#nums]},$csv_x{$onerdid}{onelnid}{$nums[$#nums]}\n";
 				} else {
 					print "\n";
 				}
 # comment out next 4 lines to temporarily stop saving missing numbers on missing roads to CSV (if there are heaps of them)
 				local $, = ',';
 				for my $i(0..$#nums) {
-					print MISSFILE $x{$onerdid}{$nums[$i]},$y{$onerdid}{$nums[$i]},"$nums[$i] $sufiroadname{$onerdid}","$onerdid\n";
+					print MISSFILE $csv_x{$onerdid}{onelnid}{$nums[$i]},$csv_y{$onerdid}{onelnid}{$nums[$i]},"$nums[$i] $sufiroadname{$onerdid}","$onerdid\n";
 				}
 			}
 		}
@@ -1674,8 +1812,8 @@ sub check_for_number_present{
 		if (defined($byid->{$onerdid})){
 			$missthis = 0;
 			$manual = 0;
-			
-			NUM: for $number ( sort {$a <=> $b} keys %{$x{$onerdid}}){
+			foreach $onelnid ( keys %{$csv_x{$onerdid}}){
+				NUM: for $number ( sort {$a <=> $b} keys %{$csv_x{$onerdid}{$onelnid}}){
 				if ($debug{'numpresent'}==$onerdid){ print "numpres: $number\n"; }
 				for $rdsegptr (@{$byid->{$onerdid}}){
 					if ($roads[$rdsegptr->[0]][17]==-1) {$manual = 1};
@@ -1685,19 +1823,20 @@ sub check_for_number_present{
 					}
 				}
 				
-				next NUM if numberisinpaperfile($number,$onerdid);
+					next NUM if numberisinpaperfile($number,$onerdid,$onelnid);
 				local $, = ',';
 				print "$number $sufiroadname{$onerdid} not found. ";
 				print "$idnm is $onerdid. ";
-				print "Should be ~ $y{$onerdid}{$number},$x{$onerdid}{$number}";
+					print "LINZ Num ID is $onelnid. " if $onelnid != 0;
+					print "Should be ~ $csv_y{$onerdid}{$onelnid}{$number},$csv_x{$onerdid}{$onelnid}{$number}";
 				print $manual ? " *Manual*\n" : "\n";
-				print MISSFILE $x{$onerdid}{$number},$y{$onerdid}{$number},"$number $sufiroadname{$onerdid}","$onerdid\n";
+					print MISSFILE $csv_x{$onerdid}{$onelnid}{$number},$csv_y{$onerdid}{$onelnid}{$number},"$number $sufiroadname{$onerdid}","$onerdid\n";
 				$missnum++;
 				if ($missthis == 0){
 					$missid++;
 					$missthis++;
 				} 
-				 
+				}
 			}
 		} 
 	}

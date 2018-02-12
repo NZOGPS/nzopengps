@@ -1,7 +1,6 @@
-Start = 2018-02-12 00:29:24 +1300
+Start = 2018-02-12 22:51:39 +1300
 linzid	street_name	street_name_2	official_street_name
-1771412	York St		Blue Mines Rd	-44.92608,169.34422
 #############################
 
-Finish = 2018-02-12 00:29:26 +1300
-Processing time = 2.387292
+Finish = 2018-02-12 22:51:41 +1300
+Processing time = 1.671796

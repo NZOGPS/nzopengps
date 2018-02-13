@@ -1635,7 +1635,7 @@ sub read_paper_road_numbers {
 		$idval = $chunks[0];
 		next if not defined $idval; #blank line?
 		if ($idval !~ /^\d{7}(\/\d{7})?$/){
-			print "Warning - in paper numbers file - $idval is not a 7 digit ID, or a 7 digit / 7 digit ID/Num ID\n";
+			print "Warning - in paper numbers file, line $. - $idval is not a 7 digit ID, or a 7 digit / 7 digit ID/Num ID\n";
 		}
 		if (defined ($papernumbers{$idval})) {
 			print "Warning - in paper numbers file - Multiple definitions for id $idval\n";

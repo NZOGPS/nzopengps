@@ -1,19 +1,7 @@
-Start = 2018-02-12 00:29:15 +1300
+Start = 2018-02-14 02:52:00 +1300
 #############################
 
-12 LINZ ids are missing from NZOGPS Waikato
-;linzid=3078699	Mangarino St	-38.3257137333,175.171801
-;linzid=3078682	Taiatea Dr	-37.7640662304752,175.223812478674
-;linzid=3078684	Wairua Ave	-37.7620892910116,175.226115205536
-;linzid=3078687	Hapu Ave	-37.7611875402086,175.224640928262
-;linzid=3078686	Iwi Rd	-37.7631398349663,175.224907823776
-;linzid=3078685	Pukenga Ave	-37.7614506012699,175.224050818314
-;linzid=3078688	Mana Dr	-37.7624636852735,175.225499053725
-;linzid=3078683	Hapori Ave	-37.7638888334301,175.22620926589
-;linzid=3078689	Whanau Ave	-37.7634816728811,175.224691551747
-;linzid=3078690	Whakapono Ave	-37.7631398349663,175.224907823776
-;linzid=3078694	Monarch Park Lane	-37.9195692833,175.4778828667
-;linzid=3078697	Te Paea Cres	-37.688150980338,176.243565859572
+0 LINZ ids are missing from NZOGPS Waikato
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -22,7 +10,7 @@ Start = 2018-02-12 00:29:15 +1300
 0 Number range ids are missing from NZOGPS Waikato
 #############################
 
-56 Number range ids are in NZOGPS Waikato but missing from LINZ
+55 Number range ids are in NZOGPS Waikato but missing from LINZ
 ;linznumbid=9300001	Tuakau Bridge-Port Waikato Rd	-37.36233,174.76495
 ;linznumbid=9300002	Tuakau Bridge-Port Waikato Rd	-37.38605,174.73051
 ;linznumbid=9300003	River Rd	-37.66584,175.15786
@@ -68,7 +56,6 @@ Start = 2018-02-12 00:29:15 +1300
 ;linznumbid=9300043	Paraonui Rd	-38.20596,175.85247
 ;linznumbid=9300044	Paraonui Rd	-38.20596,175.85247
 ;linznumbid=9300045	Mangarino Rd	-38.32563,175.17125
-;linznumbid=9300046	Mangarino Rd	-38.25615,175.19174
 ;linznumbid=9300047	~[0x04]30	-38.39256,175.20642
 ;linznumbid=9300048	~[0x04]30	-38.51642,175.37074
 ;linznumbid=9300049	~[0x04]2	-38.09367,177.03735
@@ -81,5 +68,5 @@ Start = 2018-02-12 00:29:15 +1300
 ;linznumbid=9300056	Overdale Rd	-38.02814,175.75363
 #############################
 
-Finish = 2018-02-12 00:29:18 +1300
-Processing time = 3.040918
+Finish = 2018-02-14 02:52:02 +1300
+Processing time = 2.212426

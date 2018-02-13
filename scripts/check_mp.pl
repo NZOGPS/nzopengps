@@ -80,11 +80,18 @@ my %polytype = (
 	0x19 => "Sporting Area",
 	0x1a => "Cemetery     ",
 	0x28 => "Sea/Ocean    ",
+	0x3c => "Large Lake   ",
+	0x3d => "Large Lake   ",
 	0x40 => "Small Lake   ",
 	0x41 => "Smallish Lake",
+	0x42 => "Major Lake   ",
+	0x43 => "Major Lake   ",
+	0x44 => "Large Lake   ",
+	0x46 => "Major Lake   ",
 	0x4a => "Map Selection",
 	0x47 => "Large River  ",
 	0x50 => "Forest       ",
+
 );
 my %sufiroadname;
 my %csv_x;
@@ -1489,6 +1496,7 @@ sub levels_check{
 			if ( $polys_for_level_3{$ptype} && $level < 3 ){
 				print "Polygon on level$level only:\t";
 				dump_poly2($poly,0,-1);
+				print MISSFILE "$$poly[7][0],$$poly[6][0],Large $ptypename on level$level only,$pname\n";
 			}
 		}
 	}	

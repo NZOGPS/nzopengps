@@ -135,3 +135,28 @@
 1939283	5305 Kawhia Road, Kawhia	2018/02/18 13:24	-38.042009,174.836721
 2013129	89 Neil Road, Otaua	2018/02/18 14:48	-37.291975,174.733173
 2012343	379 Braemar Road, Rotoma	2018/02/18 14:47	-37.958210,176.744943	There's a driveway at S37°17.5150' E174°43.6652' that matches the correct RAPID numbering 
+2014085	130 Hauturu Road, Hauturu	2018/02/18 14:52	-38.115912,174.931356
+2024123	132 Te Arapipi Road, Thames	2018/02/18 14:53	-37.165216,175.563407
+2033930	144 Driver Road, Ngaruawahia	2018/02/18 14:56	-37.667828,175.184264
+2027052	852 Ruatoki Valley Road, Ruatoki	2018/02/18 19:51	-38.209179,177.003556
+2043993	144 Aitken Road, Onewhero	2018/02/18 19:55	-37.280696,174.893542
+2089296	68 Dunrobin Lane, Ararimu	2018/02/18 19:56	-37.132825,175.056508
+2092110	387 Coalfields Road, Kopuku	2018/02/18 19:57	-37.279053,175.171466
+2092269	1335 Klondyke Road, Port Waikato	2018/02/18 19:58	-37.370466,174.798185
+2092695	2 Te Onetea Road, Rangiriri	2018/02/18 19:58	-37.432327,175.137969
+2092877	14 Waikaretu Valley Road, Glen Murray	2018/02/18 20:13	-37.475275,174.936213
+2093231	70 West Mine Road, Huntly	2018/02/18 20:14	-37.542266,175.115388
+390366	1 Stock Road, Te Puke	2018/02/18 20:16	-37.782653,176.332081
+568573	1849A State Highway 2, Waiotahe, Opotiki	2018/02/18 20:29	There's a driveway at S38°00.0694' E177°15.7499' that matches the correct RAPID numbering
+568574	1849B State Highway 2, Waiotahe, Opotiki	2018/02/18 20:29	There's a driveway at S38°00.0694' E177°15.7499' that matches the correct RAPID numbering
+645041	59 Jacobs Road, Pepepe	2018/02/18 20:53	-37.613852,174.958099	This appears to be in the middle of the road. There is a drive a little further north, at S37°36.8189' E174°57.4941'
+645064	630 Otorohaea Trig Road, Pukemiro	2018/02/18 20:59	-37.635557,174.974063
+945837	400 Robinson Road, Rotoorangi	2018/02/19 00:55	-38.008158,175.497331
+938373	150 Schollum Road, Eureka	2018/02/19 00:56	-37.725135,175.426865
+9212	34 Strawbridge Road, Otorohanga	2018/02/19 00:58	-38.148649,175.237413
+904939	274 Brien Road, Onewhero	2018/02/19 01:03	-37.410444,174.825925
+845193	186 Aerodrome Road, Thornton	2018/02/19 01:18	-37.924855,176.919598	This appears to be in the middle of the road. There is a drive a little further north, at S37°55.4832' E176°55.1834'
+842543	45 Seccombe Road, Putauaki	2018/02/19 01:21	-38.049587,176.790647
+842545	47 Seccombe Road, Putauaki	2018/02/19 01:21	-38.049378,176.790161
+801616	14 Rahui Road, Hamurana	2018/02/19 01:41	-38.064695,176.198355
+782294	7 Bethel Way, Judea, Tauranga	2018/02/19 02:04	-37.696332,176.131484

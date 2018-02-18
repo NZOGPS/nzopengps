@@ -132,3 +132,6 @@
 1753904	120 Woodlands Road, Opotiki	2018/02/18 12:27	-38.028761,177.270980
 1761571	170 Herbert Road, Rotongaro	2018/02/18 12:31	-37.511114,175.071443	There's a driveway at S37°30.4597' E175°04.1535' that matches the correct RAPID numbering 
 1764204	302 Budden Road, Pokuru	2018/02/18 12:37	-38.029851,175.251935
+1939283	5305 Kawhia Road, Kawhia	2018/02/18 13:24	-38.042009,174.836721
+2013129	89 Neil Road, Otaua	2018/02/18 14:48	-37.291975,174.733173
+2012343	379 Braemar Road, Rotoma	2018/02/18 14:47	-37.958210,176.744943	There's a driveway at S37°17.5150' E174°43.6652' that matches the correct RAPID numbering 

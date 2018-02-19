@@ -160,3 +160,12 @@
 842545	47 Seccombe Road, Putauaki	2018/02/19 01:21	-38.049378,176.790161
 801616	14 Rahui Road, Hamurana	2018/02/19 01:41	-38.064695,176.198355
 782294	7 Bethel Way, Judea, Tauranga	2018/02/19 02:04	-37.696332,176.131484
+2013358	1846 Tuakau Bridge-Port Waikato Road, Port Waikato	2018/02/19 22:50	-37.354691,174.769406
+2013359	1836 Tuakau Bridge-Port Waikato Road, Port Waikato	2018/02/19 22:50	-37.352394,174.770436
+643859	1600 Harbour Road, Owhiro	2018/02/19 23:16	-38.133632,174.864232	There is a drive across the road, at S38°07.9970' E174°51.8278' that matches the correct RAPID numbering
+644941	683 Harbour Road, Hauturu	2018/02/19 23:30	-38.101745,174.925444	There is a drive across the road, at S38°06.1635' E174°55.4916' that matches the correct RAPID numbering
+646246	628 Rotowaro Road, Huntly	2018/02/19 23:37	-37.585570,175.097042
+646533	1023 Waitomo Valley Road, Waitomo	2018/02/19 23:45	-38.240262,175.119080
+654661	10 Mangamahoe Road, Otorohanga	2018/02/20 00:20	-38.156216,175.196455	This appears to be in the middle of the road. There is a drive/dwelling a little further north, at S38°09.3622' E175°11.7831'
+656998	53B Walker Road, Taupiri	2018/02/20 00:25	-37.607988,175.230764
+682623	28 Hammond Street, Hamilton Central, Hamilton	2018/02/20 00:36	-37.799251,175.284959

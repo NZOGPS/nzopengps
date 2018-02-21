@@ -162,3 +162,9 @@
 833311	180 Te Tumu Road, Paengaroa	2018/02/20 23:51	-37.778613,176.392693	Looks more like it should be 169 based on RAPID numbering. All the rest locally are very close to it.
 836635	972 Matahi Road, Lake Rotoma	2018/02/20 23:53	-38.064983,176.601935
 844745	1407 State Highway 30, Awakeri	2018/02/21 00:09	-38.007856,176.856494
+1021258	400 Raynes Road, Rukuhia	2018/02/22 00:20	-37.849488,175.342911
+1022381	71 Lewis Road, Otaua	2018/02/22 00:23	-37.275426,174.748663
+844816	9 Thornton Hall Road, Thornton	2018/02/22 00:26	-37.921748,176.866946	In the middle of the road. Perhaps S37°55.3027' E176°52.0071'
+794324	202 Kearoa Road, Horohoro	2018/02/22 00:28	-38.228189,176.160909
+745563	157 Waiomou Road, Tapapa	2018/02/22 00:37	-37.938535,175.847890	In the middle of the road. Perhaps S37°56.2974' E175°50.8798'
+1381869	161 Waiomou Road, Tapapa	2018/02/22 00:37	-37.938425,175.848394	In the middle of the road. Perhaps S37°56.2943' E175°50.9074'

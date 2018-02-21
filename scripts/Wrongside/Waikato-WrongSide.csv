@@ -1,28 +1,13 @@
 176.18918090,-37.75510427,"62 Shady Lane, Welcome Bay, Tauranga",Wrong Side: 136061
 175.14404633,-37.77899337,"56 Casey Road, Whatawhata",Wrong Side: 609944
-174.70166291,-38.33645291,"240 Soundy Road, Marokopa",Wrong Side: 642231
 175.15993707,-37.58316088,"180 Tregoweth Lane, Huntly",Wrong Side: 650644
 175.29844525,-37.46367308,"673 Storey Road, Waiterimu",Wrong Side: 689906
 175.29932193,-37.45722862,"745 Storey Road, Waiterimu",Wrong Side: 689907
-175.29592592,-37.78924625,"21 Kelvin Place, Hamilton East, Hamilton",Wrong Side: 692104
-175.34008575,-37.79767083,"26B Dalbeth Place, Tamahere",Wrong Side: 702596
-175.82028878,-38.17325398,"27 Prendergast Road, Wiltsdown",Wrong Side: 742353
-175.84789042,-37.93853548,"157 Waiomou Road, Tapapa",Wrong Side: 745563
-176.13358162,-37.67786533,"184 Carlton Street, Bellevue, Tauranga",Wrong Side: 780776
-176.14350837,-37.68672470,"166 Kingswood Road, Brookfield, Tauranga",Wrong Side: 785843
-176.14577487,-37.74158143,"74 Waimapu Pa Road, Hairini, Tauranga",Wrong Side: 791151
-176.16090918,-38.22818902,"202 Kearoa Road, Horohoro",Wrong Side: 794324
-176.86694598,-37.92174780,"9 Thornton Hall Road, Thornton",Wrong Side: 844816
-176.13947778,-37.66278187,"554 Otumoetai Road, Matua, Tauranga",Wrong Side: 858811
-176.18967333,-37.73608688,"5 Langdon Way, Welcome Bay, Tauranga",Wrong Side: 901700
-176.18972168,-37.73621218,"3 Langdon Way, Welcome Bay, Tauranga",Wrong Side: 901701
-174.99340373,-37.16244233,"37C Matthew Whitford Drive, Bombay",Wrong Side: 946584
-175.34291075,-37.84948797,"400 Raynes Road, Rukuhia",Wrong Side: 1021258
-174.74866263,-37.27542560,"71 Lewis Road, Otaua",Wrong Side: 1022381
 174.68859370,-37.30822922,"600 Whiriwhiri Road, Otaua",Wrong Side: 1028193
 176.30875725,-37.76596255,"23 Collins Lane, Te Puke",Wrong Side: 1081885
 175.13141087,-38.08449372,"44 Potts Road, Puketotara",Wrong Side: 1267899
 175.95737773,-37.43059135,"147 Emerton Road, Waihi Beach",Wrong Side: 1271424
+176.26315902,-37.69211463,"26F Hartford Avenue, Papamoa Beach, Papamoa",Wrong Side: 1277555
 175.24702703,-37.75046508,"1 Hugh Place, Saint Andrews, Hamilton",Wrong Side: 1294449
 175.46892512,-37.90282975,"2 Housman Place, Leamington, Cambridge",Wrong Side: 1296890
 175.68820988,-37.37941085,"114 Aorangi Road, Paeroa",Wrong Side: 1299618
@@ -39,11 +24,7 @@
 174.91453865,-37.81522540,"530 Okete Road, Raglan",Wrong Side: 1336206
 176.87979847,-37.91329305,"140C Thornton Hall Road, Thornton",Wrong Side: 1349153
 176.27879663,-37.76786935,"332 Te Puke Quarry Road, Papamoa",Wrong Side: 1350208
-176.14612413,-37.74114112,"71 Waimapu Pa Road, Hairini, Tauranga",Wrong Side: 1350210
-176.14638843,-37.74071400,"71A Waimapu Pa Road, Hairini, Tauranga",Wrong Side: 1350211
-176.14528603,-37.74148935,"76-100 Waimapu Pa Road, Hairini, Tauranga",Wrong Side: 1350213
 175.23059580,-37.79653183,"23 Blakewell Lane, Dinsdale, Hamilton",Wrong Side: 1351620
-174.99373413,-37.16200890,"37B Matthew Whitford Drive, Bombay",Wrong Side: 1357037
 176.12774832,-37.67023887,"33 Paradise Place, Matua, Tauranga",Wrong Side: 1357340
 176.12755098,-37.67010935,"41 Paradise Place, Matua, Tauranga",Wrong Side: 1357343
 174.68828760,-37.31130712,"612 Whiriwhiri Road, Otaua",Wrong Side: 1358785
@@ -72,7 +53,6 @@
 176.14961258,-37.69662953,"7 Oak Lane, Judea, Tauranga",Wrong Side: 1377799
 175.67194992,-37.38548345,"2 Rotokohu Road, Paeroa",Wrong Side: 1379141
 176.15941755,-37.66835507,"1 Finlowe Way, Otumoetai, Tauranga",Wrong Side: 1380783
-175.84839427,-37.93842498,"161 Waiomou Road, Tapapa",Wrong Side: 1381869
 175.13904930,-37.95832287,"310 Waite Road, Te Pahu",Wrong Side: 1383862
 176.10797512,-37.70092862,"54 St Regis Way, Bethlehem, Tauranga",Wrong Side: 1383911
 176.21286663,-38.13920510,"16 Kamahi Place, Pukehangi, Rotorua",Wrong Side: 1384167
@@ -80,12 +60,10 @@
 175.75961133,-37.41098818,"121 Princes Street, Waikino, Waihi",Wrong Side: 1389575
 176.28501272,-37.70972343,"R/120 Domain Road, Papamoa Beach, Papamoa",Wrong Side: 1393864
 176.13703118,-38.13970080,"250 Endean Road, Ngongotaha Valley",Wrong Side: 1409141
-175.82085493,-38.17296048,"24 Prendergast Road, Wiltsdown",Wrong Side: 1416846
 176.20782515,-38.15967147,"134 Great West Road, Matipo Heights, Rotorua",Wrong Side: 1420474
 174.76527950,-37.15319185,"2 Selva Road, Waiau Pa",Wrong Side: 1425796
 175.26290458,-37.73675910,"4/3 Turnbury Court, Rototuna, Hamilton",Wrong Side: 1429026
 175.26294303,-37.73686053,"3/3 Turnbury Court, Rototuna, Hamilton",Wrong Side: 1429027
-175.33990805,-37.79741993,"26A Dalbeth Place, Tamahere",Wrong Side: 1429159
 175.77205180,-37.40929045,"2 Abbott Road, Waikino, Waihi",Wrong Side: 1430208
 175.22944732,-37.58181203,"583 Uapoto Road, Taupiri",Wrong Side: 1432131
 175.47830790,-37.91940402,"10 Amelia Place, Leamington, Cambridge",Wrong Side: 1440319
@@ -150,12 +128,8 @@
 175.82587170,-37.39192038,"6 Ridge View Place, Waihi",Wrong Side: 1988914
 175.08624852,-37.16258965,"36A Stuart Road, Mangatawhiri",Wrong Side: 1999899
 175.08620688,-37.16309473,"36B Stuart Road, Mangatawhiri",Wrong Side: 1999900
-175.17897597,-38.31942832,"59A Mangarino Road, Te Kuiti",Wrong Side: 2094772
-176.10533480,-37.69314155,"1 Matipo Lane, Bethlehem, Tauranga",Wrong Side: 2108166
-176.10545144,-37.69321232,"3 Matipo Lane, Bethlehem, Tauranga",Wrong Side: 2108168
-176.10519458,-37.69342724,"3 Pukatea Rise, Bethlehem, Tauranga",Wrong Side: 2108184
-176.10537936,-37.69351898,"5 Pukatea Rise, Bethlehem, Tauranga",Wrong Side: 2108186
-176.10486171,-37.69358581,"1 Kawakawa Grove, Bethlehem, Tauranga",Wrong Side: 2108187
-176.10497966,-37.69364741,"3 Kawakawa Grove, Bethlehem, Tauranga",Wrong Side: 2108189
-176.10509891,-37.69370638,"5 Kawakawa Grove, Bethlehem, Tauranga",Wrong Side: 2108191
-176.10522865,-37.69379025,"7 Kawakawa Grove, Bethlehem, Tauranga",Wrong Side: 2108193
+176.10799735,-37.75759451,"10 Raby Lane, Pyes Pa, Tauranga",Wrong Side: 2109665
+176.03281345,-37.64745846,"95 Bert Wall Drive, Omokoroa",Wrong Side: 2119416
+175.18438318,-38.30996407,"7 Reynolds Road, Te Kuiti",Wrong Side: 2122112
+176.00010856,-37.66452516,"111 Old Highway, Whakamarama",Wrong Side: 2122219
+175.32667379,-37.87057988,"88 Ingram Road, Rukuhia",Wrong Side: 2122555

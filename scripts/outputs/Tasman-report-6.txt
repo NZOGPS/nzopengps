@@ -1,13 +1,16 @@
-Start = 2018-02-12 00:29:22 +1300
+Start = 2018-02-25 14:58:13 +1300
 linzid	street_name	street_name_2	official_street_name
 3032989	Settlement Rd ( 4WD Only)		Settlement Rd	-42.68954,171.22630
+3035522	Saxton Road Off Ramp		State Highway 6	-41.31809,173.21120
+3035522	Saxton Road On Ramp		State Highway 6	-41.32093,173.21162
 3034665	~[0x04]6		Nelson St	-41.50804,173.95912
 1788429	Old Waterworks Track		Brook St	-41.30892,173.29224
 1788712	Wills Rd (4wd Only Ford)		Wills Rd	-41.21287,172.99981
 3012174	~[0x04]7	State Highway 7	Ikamatua Hwy	-42.28687,171.67111
 1790396	Greenstone Rd (Unmaintained)		Greenstone Rd	-42.66869,171.18008
 1785559	Charming Creek Walkway		Charming Creek Rd	-41.60949,171.88025
+3026325	~[0x04]6	State Highway 6	Collins Valley Rd	-41.15883,173.52852
 #############################
 
-Finish = 2018-02-12 00:29:23 +1300
-Processing time = 1.366313
+Finish = 2018-02-25 14:58:15 +1300
+Processing time = 1.35224

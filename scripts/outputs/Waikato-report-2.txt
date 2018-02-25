@@ -1,7 +1,16 @@
-Start = 2018-02-14 02:52:00 +1300
+Start = 2018-02-25 14:58:05 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Waikato
+9 LINZ ids are missing from NZOGPS Waikato
+;linzid=3078707	Warlock Way	-37.7278300050429,176.346183029391
+;linzid=3078708	Mila Paige Cl	-37.8233049650364,175.301194673069
+;linzid=3078710	Tiireke Dr	-37.8224938408017,175.298949208321
+;linzid=3078709	Inuwai St	-37.822962567865,175.30043381217
+;linzid=3078711	Sapling Lane	-37.8217368868976,175.298124179228
+;linzid=3078712	Heke Lane	-37.8218201578697,175.299948240566
+;linzid=3078713	Hahawaru Lane	-37.8224938408017,175.298949208321
+;linzid=3078714	Hourua Lane	-37.822962567865,175.30043381217
+;linzid=3078745	Taotahi Ave	-37.7971169839798,175.231419375107
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -10,7 +19,7 @@ Start = 2018-02-14 02:52:00 +1300
 0 Number range ids are missing from NZOGPS Waikato
 #############################
 
-55 Number range ids are in NZOGPS Waikato but missing from LINZ
+54 Number range ids are in NZOGPS Waikato but missing from LINZ
 ;linznumbid=9300001	Tuakau Bridge-Port Waikato Rd	-37.36233,174.76495
 ;linznumbid=9300002	Tuakau Bridge-Port Waikato Rd	-37.38605,174.73051
 ;linznumbid=9300003	River Rd	-37.66584,175.15786
@@ -55,18 +64,17 @@ Start = 2018-02-14 02:52:00 +1300
 ;linznumbid=9300042	Te Teko Rd	-38.03407,176.79684
 ;linznumbid=9300043	Paraonui Rd	-38.20596,175.85247
 ;linznumbid=9300044	Paraonui Rd	-38.20596,175.85247
-;linznumbid=9300045	Mangarino Rd	-38.32563,175.17125
 ;linznumbid=9300047	~[0x04]30	-38.39256,175.20642
 ;linznumbid=9300048	~[0x04]30	-38.51642,175.37074
 ;linznumbid=9300049	~[0x04]2	-38.09367,177.03735
 ;linznumbid=9300050	~[0x04]2	-38.04786,177.14541
 ;linznumbid=9300051	Welcome Bay Rd	-37.71984,176.24883
-;linznumbid=9300052	Welcome Bay Rd	-37.72759,176.17014
+;linznumbid=9300052	Welcome Bay Rd	-37.72764,176.17025
 ;linznumbid=9300053	~[0x04]2	-37.82130,176.58111
 ;linznumbid=9300054	~[0x04]2	-37.68232,176.22599
 ;linznumbid=9300055	Overdale Rd	-38.04408,175.77224
 ;linznumbid=9300056	Overdale Rd	-38.02814,175.75363
 #############################
 
-Finish = 2018-02-14 02:52:02 +1300
-Processing time = 2.212426
+Finish = 2018-02-25 14:58:08 +1300
+Processing time = 3.42846

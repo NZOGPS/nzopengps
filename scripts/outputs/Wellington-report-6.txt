@@ -1,9 +1,9 @@
-Start = 2018-02-12 00:29:28 +1300
+Start = 2018-02-25 14:58:20 +1300
 linzid	street_name	street_name_2	official_street_name
 3078403	Landesdown Crt		Landsdown Crt	-40.34787,175.62829
 3078420	Hereke Rd		Ara Hereke	-40.86689,175.03435
 3078419	Kawakahia Rd		Te Ara Kawakahia	-40.86732,175.03286
 #############################
 
-Finish = 2018-02-12 00:29:30 +1300
-Processing time = 1.870795
+Finish = 2018-02-25 14:58:22 +1300
+Processing time = 2.089814

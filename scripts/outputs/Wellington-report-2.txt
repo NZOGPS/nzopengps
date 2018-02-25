@@ -1,4 +1,4 @@
-Start = 2018-02-12 00:29:09 +1300
+Start = 2018-02-25 14:57:59 +1300
 #############################
 
 7 LINZ ids are missing from NZOGPS Wellington
@@ -79,7 +79,7 @@ Start = 2018-02-12 00:29:09 +1300
 ;linznumbid=1000118	Hutt Rd	-41.2356246845468,174.833076390428
 ;linznumbid=1000152	State Highway 1	-40.8401647658547,175.087143953875
 ;linznumbid=1000011	Underhill Rd	-41.1039489409732,175.334466717016
-;linznumbid=1000065	State Highway 1	-40.2160317833,175.4172959
+;linznumbid=1000065	State Highway 1	-40.4028356833,175.31111105
 ;linznumbid=1000153	State Highway 1	-41.1320908865893,174.843176021049
 ;linznumbid=1000070	State Highway 1	-40.5917847667,175.2977694667
 ;linznumbid=1000170	Railway Rd	-40.2837400667,175.6315297167
@@ -104,5 +104,5 @@ Start = 2018-02-12 00:29:09 +1300
 ;linznumbid=592280	Te Uri Rd	-40.24683,176.37921
 #############################
 
-Finish = 2018-02-12 00:29:12 +1300
-Processing time = 2.229141
+Finish = 2018-02-25 14:58:02 +1300
+Processing time = 2.476813

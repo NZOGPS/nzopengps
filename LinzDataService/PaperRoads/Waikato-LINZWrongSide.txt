@@ -195,3 +195,39 @@
 1648202	10 Storey Road, Waiterimu	2018/02/25 14:26	-37.514439,175.291905	There is a drive across the road, at S37°30.9198' E175°17.4865' that matches the correct RAPID numbering
 1638553	2A Tui Place, Te Kowhai	2018/02/25 14:28	-37.738960,175.157310	These points seem offset to the north a bit and are in the middle of the road. Try S37°44.3421' E175°09.4391'
 1638554	2B Tui Place, Te Kowhai	2018/02/25 14:28	-37.738955,175.157416	These points seem offset to the north a bit and are in the middle of the road. Try S37°44.3407' E175°09.4477'
+1625471	210 Bayly Road, Okoroire, Tirau	2018/02/25 14:55	-37.934739,175.785629
+1620099	3808 Cambridge Road, Leamington, Cambridge	2018/02/25 14:56	-37.901395,175.451817
+1619498	885 Bond Road, Te Awamutu	2018/02/25 14:57	-37.994927,175.339016
+1619037	24 Hodge Drive, Tamahere	2018/02/25 14:58	-37.818122,175.364398	Hodge Dr seems to swap sides 1/2 way along. Is that correct?
+1619036	21A Hodge Drive, Tamahere	2018/02/25 14:58	-37.817603,175.365645
+1618098	3860 Kawhia Road, Hauturu	2018/02/25 14:59	-38.066657,174.967627	Looks like it should be around 3865
+1611167	15 Hall Road, Peacocke, Hamilton	2018/02/25 15:01	-37.834268,175.301995
+1607678	46 Redbrook Drive, Taupiri	2018/02/25 15:04	-37.637142,175.258071	Looks like it should be around 45
+1605601	670 Taumata Road, Omanawa	2018/02/25 15:12	-37.883912,176.114713
+1598289	2741 State Highway 35, Hawai	2018/02/25 15:17	-37.925413,177.520495
+1572245	562 Kingseat Road, Kingseat	2018/02/25 15:18	-37.147047,174.796813
+1572139	167 Cumberland Drive, Flagstaff, Hamilton	2018/02/25 15:19	-37.724068,175.237298
+1543364	60 Opuhi Road, Matakana Island	2018/02/25 15:38	-37.596537,176.048150
+1329847	62 Opuhi Road, Matakana Island	2018/02/25 15:38	-37.596634,176.048297
+1538219	870 Mangati Road, Puketotara	2018/02/25 15:40	-38.057011,175.099183
+1524370	784 Whataroa Road, Ngawaro	2018/02/25 15:44	-37.918405,176.222031
+1474252	1030 Ngatira Road, Ngatira	2018/02/25 15:47	-38.099753,175.912353	There is a dwelling across the road, at S38°06.0098' E175°54.6810' that matches the correct RAPID numbering
+1440319	10 Amelia Place, Leamington, Cambridge	2018/02/25 15:51	-37.919404,175.478308
+1432131	583 Uapoto Road, Taupiri	2018/02/25 15:52	-37.581812,175.229447
+1430208	2 Abbott Road, Waikino, Waihi	2018/02/25 15:53	-37.409290,175.772052
+1425796	2 Selva Road, Waiau Pa	2018/02/25 15:54	-37.153192,174.765280
+1425796	2 Selva Road, Waiau Pa	2018/02/25 15:55	-37.153192,174.765280	Numbering on this street is very strange. Even RAPID on the W side, Odd/Even on the E side! 
+1420474	134 Great West Road, Matipo Heights, Rotorua	2018/02/25 15:58	-38.159671,176.207825
+1377719	14 Sovereign Isle Lane, Rototuna, Hamilton	2018/02/25 15:58	-37.736391,175.278413	This whole side of the street is offset to the E, and are in the middle of the road. This one should probably be around S37°44.1868' E175°16.6951'
+1377723	16
+1377722	18
+1377728	20 Sovereign Isle Lane, Rototuna, Hamilton	2018/02/25 16:00	-37.736727,175.278542
+1377721	22 Sovereign Isle Lane, Rototuna, Hamilton	2018/02/25 16:00	-37.736823,175.278574
+1377730	24 Sovereign Isle Lane, Rototuna, Hamilton	2018/02/25 16:00	-37.736957,175.278631
+1377729	26 Sovereign Isle Lane, Rototuna, Hamilton	2018/02/25 16:00	-37.737092,175.278682
+1377731	28 Sovereign Isle Lane, Rototuna, Hamilton	2018/02/25 16:00	-37.737196,175.278721
+1377720	30 Sovereign Isle Lane, Rototuna, Hamilton	2018/02/25 15:59	-37.737341,175.278783	And this one S37°44.2478' E175°16.7196'
+1409141	250 Endean Road, Ngongotaha Valley	2018/02/25 16:08	-38.139701,176.137031
+1393864	R/120 Domain Road, Papamoa Beach, Papamoa	2018/02/25 16:09	-37.709723,176.285013
+1389575	121 Princes Street, Waikino, Waihi	2018/02/25 16:10	-37.410988,175.759611	Point is in the middle of the road
+1383911	54 St Regis Way, Bethlehem, Tauranga	2018/02/25 16:15	-37.700929,176.107975

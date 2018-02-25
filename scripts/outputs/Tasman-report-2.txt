@@ -1,27 +1,19 @@
-Start = 2018-02-12 00:29:03 +1300
+Start = 2018-02-25 14:57:51 +1300
 #############################
 
-17 LINZ ids are missing from NZOGPS Tasman
-;linzid=3066099	State Highway 7	-42.3757911621212,172.362385564133
+9 LINZ ids are missing from NZOGPS Tasman
 ;linzid=3026942	Main Rd	-41.6073389595259,171.87619698491
 ;linzid=3026936	Main Rd	-42.4385285833,171.3419094833
-;linzid=3026325	Collins Valley Rd	-41.1590287667,173.5279611167
 ;linzid=3027406	State Highway 67	-41.7522332833,171.6240528667
-;linzid=3035522	State Highway 6	-41.3218185,173.2110978167
 ;linzid=1786097	Jamesons Rd	-42.73674545,173.00537125
 ;linzid=1790705	South Spit Rd	-42.73705205,170.93883505
 ;linzid=3060412	Malfroys Tram	-42.70472515,171.1049672333
 ;linzid=3027408	State Highway 67	-41.52923665,171.9670456167
 ;linzid=3027683	State Highway 1	-42.6398559333,173.3232341667
 ;linzid=3078664	George Glenn Pl	-42.503688913273,171.175774255016
-;linzid=3078666	Windhawk Rise	-41.5414056310279,173.828827462437
-;linzid=3078670	Manu Cl	-41.351721251735,173.179713079172
-;linzid=3078668	Bacca Crt	-41.3527190360286,173.180785398104
-;linzid=3078669	Lago Way	-41.3514940830004,173.179734466044
-;linzid=3078671	Divita Pl	-41.3520015066654,173.179893253363
 #############################
 
-44 LINZ ids are in NZOGPS Tasman but missing from LINZ
+43 LINZ ids are in NZOGPS Tasman but missing from LINZ
 ;linzid=1786077	Conical Hill Rd	-42.50705,172.82833
 ;linzid=1770862	Service Lane	-41.34232,173.18710
 ;linzid=1789618	Airlie St	-41.18437,173.36407
@@ -58,7 +50,6 @@ Start = 2018-02-12 00:29:03 +1300
 ;linzid=1837895	The Anchorage (Beach)	-40.95512,173.06088
 ;linzid=1837897	Awaroa Inlet (Beach)	-40.86170,173.02445
 ;linzid=1837896	Awaroa Bay (Beach)	-40.85880,173.04149
-;linzid=1789973	~[0x04]7	-42.13534,171.88357
 ;linzid=1789960	Takaka Valley Hwy	-41.03359,172.82306
 ;linzid=1789961	Takaka-Collingwood Hwy	-40.71447,172.67801
 ;linzid=1789945	~[0x04]6	-41.79986,172.33622
@@ -78,5 +69,5 @@ Start = 2018-02-12 00:29:03 +1300
 0 Number range ids are in NZOGPS Tasman but missing from LINZ
 #############################
 
-Finish = 2018-02-12 00:29:04 +1300
-Processing time = 1.350297
+Finish = 2018-02-25 14:57:53 +1300
+Processing time = 1.754794

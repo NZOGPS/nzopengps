@@ -1,12 +1,10 @@
-Start = 2018-02-25 14:57:57 +1300
+Start = 2018-02-25 22:42:22 +1300
 #############################
 
-1 LINZ ids are missing from NZOGPS Central
-;linzid=3078715	Dwyer Cl	-39.6630042167,176.9019064
+0 LINZ ids are missing from NZOGPS Central
 #############################
 
-1 LINZ ids are in NZOGPS Central but missing from LINZ
-;linzid=3075519	Roadway	-39.07021,176.59065
+0 LINZ ids are in NZOGPS Central but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Central
@@ -69,5 +67,5 @@ Start = 2018-02-25 14:57:57 +1300
 ;linznumbid=9400054	Crosses Rd	-39.66224,176.88390
 #############################
 
-Finish = 2018-02-25 14:57:59 +1300
-Processing time = 2.647487
+Finish = 2018-02-25 22:42:25 +1300
+Processing time = 2.369984

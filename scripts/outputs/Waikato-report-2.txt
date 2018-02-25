@@ -1,16 +1,7 @@
-Start = 2018-02-25 14:58:05 +1300
+Start = 2018-02-25 22:03:34 +1300
 #############################
 
-9 LINZ ids are missing from NZOGPS Waikato
-;linzid=3078707	Warlock Way	-37.7278300050429,176.346183029391
-;linzid=3078708	Mila Paige Cl	-37.8233049650364,175.301194673069
-;linzid=3078710	Tiireke Dr	-37.8224938408017,175.298949208321
-;linzid=3078709	Inuwai St	-37.822962567865,175.30043381217
-;linzid=3078711	Sapling Lane	-37.8217368868976,175.298124179228
-;linzid=3078712	Heke Lane	-37.8218201578697,175.299948240566
-;linzid=3078713	Hahawaru Lane	-37.8224938408017,175.298949208321
-;linzid=3078714	Hourua Lane	-37.822962567865,175.30043381217
-;linzid=3078745	Taotahi Ave	-37.7971169839798,175.231419375107
+0 LINZ ids are missing from NZOGPS Waikato
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -76,5 +67,5 @@ Start = 2018-02-25 14:58:05 +1300
 ;linznumbid=9300056	Overdale Rd	-38.02814,175.75363
 #############################
 
-Finish = 2018-02-25 14:58:08 +1300
-Processing time = 3.42846
+Finish = 2018-02-25 22:03:36 +1300
+Processing time = 2.362244

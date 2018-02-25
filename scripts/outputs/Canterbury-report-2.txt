@@ -1,17 +1,7 @@
-Start = 2018-02-25 14:58:02 +1300
+Start = 2018-02-25 23:17:26 +1300
 #############################
 
-10 LINZ ids are missing from NZOGPS Canterbury
-;linzid=3078743	Container Dr	-43.5771824556666,172.383290469872
-;linzid=3078741	Iport Dr	-43.5787626610112,172.38654999071
-;linzid=3078742	Freight Dr	-43.5793180711783,172.384271625925
-;linzid=3078744	Transportation Dr	-43.5793180711783,172.384271625925
-;linzid=3078726	Dalwood Lane	-44.4029374999172,171.228731464128
-;linzid=3078746	Depot St	-43.5541013095438,172.509003849518
-;linzid=3078747	Nevermore Pl	-43.5639120641813,172.581654409376
-;linzid=3078748	Headquarters Pl	-43.5549301639897,172.510573732944
-;linzid=3078750	Romanee Lane	-43.5620073754742,172.548760246676
-;linzid=3078751	Wimbledon Lane	-43.564431502185,172.582166273231
+0 LINZ ids are missing from NZOGPS Canterbury
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
@@ -38,5 +28,5 @@ Start = 2018-02-25 14:58:02 +1300
 ;linznumbid=700015	~[0x04]1	-43.32870,172.66609
 #############################
 
-Finish = 2018-02-25 14:58:05 +1300
-Processing time = 3.009135
+Finish = 2018-02-25 23:17:28 +1300
+Processing time = 2.049004

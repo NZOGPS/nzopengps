@@ -73,7 +73,7 @@
 1778394	E,298,298	Bann Street	Bluff (Southland, NZ)	13/12/2011 10:40:55 p.m.	-46.600461,168.325386
 1772823	O,27,27	Inglis Street	Mosgiel (Otago, NZ)	13/12/2011 10:43:54 p.m.	-45.883783,170.342847
 1778577	E,2,18	Boston Street	Riversdale (Southland, NZ)	13/12/2011 10:46:49 p.m.	-45.903897,168.750862
-1776728	E,1730,1730	Tiwai Road	Tiwai Point (Southland, NZ)	13/12/2011 10:49:24 p.m.	-46.598250,168.362565
+1776728	E,1730,1732	Tiwai Road	Tiwai Point (Southland, NZ)	13/12/2011 10:49:24 p.m.	-46.598250,168.362565
 1775757	O,21,35	Winton St	Winton (Southland, NZ)	15/12/2011 10:51:57 p.m.
 1775758	O,11,51	Victoria St	Winton (Southland, NZ)	15/12/2011 10:58:07 p.m.
 1777531	E,50,58	Norman Street	Centre Bush (Southland, NZ)	16/12/2011 12:20:34 a.m.	-46.056043,168.334656

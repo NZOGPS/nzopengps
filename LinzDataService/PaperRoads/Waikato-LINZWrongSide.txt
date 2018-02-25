@@ -168,3 +168,30 @@
 794324	202 Kearoa Road, Horohoro	2018/02/22 00:28	-38.228189,176.160909
 745563	157 Waiomou Road, Tapapa	2018/02/22 00:37	-37.938535,175.847890	In the middle of the road. Perhaps S37°56.2974' E175°50.8798'
 1381869	161 Waiomou Road, Tapapa	2018/02/22 00:37	-37.938425,175.848394	In the middle of the road. Perhaps S37°56.2943' E175°50.9074'
+689906	673 Storey Road, Waiterimu	2018/02/25 13:16	-37.463673,175.298445	There is a dwelling across the road, at S37°27.8138' E175°17.8590' that matches the correct RAPID numbering
+689907	745 Storey Road, Waiterimu	2018/02/25 13:18	-37.457229,175.299322	There is a dwelling across the road, at S37°27.4349' E175°17.9189' that matches the correct RAPID numbering
+650644	180 Tregoweth Lane, Huntly	2018/02/25 13:22	-37.583161,175.159937
+609944	56 Casey Road, Whatawhata	2018/02/25 13:23	-37.778993,175.144046	There is a drive across the road, at S37°46.7545' E175°08.5889' that matches the correct RAPID numbering
+2122555	88 Ingram Road, Rukuhia	2018/02/25 13:26	-37.870580,175.326674	This is on the wrong side based on the centreline as at 11/2/18
+2122219	111 Old Highway, Whakamarama	2018/02/25 13:27	-37.664525,176.000109
+1648690	1 Reynolds Road, Te Kuiti	2018/02/25 13:31	-38.309953,175.184850	Numbering on this road is all over the place. Not sure if these ones are wrong, or 16,27,37 are wrong!
+2122112	7 Reynolds Road, Te Kuiti	2018/02/25 13:31	-38.309964,175.184383
+1976743	12 Reynolds Road, Te Kuiti	2018/02/25 13:31	-38.309533,175.183913
+1751807	1144B Jack Henry Road, Kinleith	2018/02/25 13:44	-38.218739,175.743909	Numbers between 1144B and 1508 seem to have been plonked on the wrong side of the road. There are some
+1651245	1494 Jack Henry Road, Kinleith	2018/02/25 13:45	-38.227777,175.724873	visible residences on the other side of the road on imagery.
+1651244	1496 Jack Henry Road, Kinleith	2018/02/25 13:45	-38.228120,175.725130
+1651239	1502 Jack Henry Road, Kinleith	2018/02/25 13:46	-38.229753,175.722789
+1651215	1504 Jack Henry Road, Kinleith	2018/02/25 13:46	-38.229953,175.722797
+1651212	1506 Jack Henry Road, Kinleith	2018/02/25 13:46	-38.230253,175.722809
+1738549	1262 Kaihere Road, Kaihere	2018/02/25 13:50	-37.353252,175.449699	There is a drive across the road, at S37°21.2292' E175°26.8192' that matches the correct RAPID numbering
+1738025	140 Hawthornden Drive, Tikitere, Rotorua	2018/02/25 13:51	-38.091274,176.347886
+1715263	337 Stannard Road, Waerenga	2018/02/25 13:56	-37.342940,175.325164	RAPID numbering would suggest this dwelling is around 378
+1692477	109 Nickle Road, Cambridge	2018/02/25 14:08	-37.934802,175.490380	Looks like it should be 110
+1692410	70 Gray Road, Te Miro	2018/02/25 14:09	-37.803293,175.553854	Looks like it should be 63
+1677860	123 Slater Road, Ruawaro	2018/02/25 14:11	-37.502139,175.026616	Looks like it should be 128
+1677554	478 Ararimu Road, Ramarama	2018/02/25 14:15	-37.147957,175.005510	Looks like it should be 473
+1658363	160 Hutchinson Road, Richmond Downs	2018/02/25 14:23	-37.733824,175.672600	There is a drive across the road, at S37°44.0170' E175°40.3606' that matches the correct RAPID numbering
+1654024	33 Mellow Road, Ohaupo	2018/02/25 14:25	-37.881717,175.374622
+1648202	10 Storey Road, Waiterimu	2018/02/25 14:26	-37.514439,175.291905	There is a drive across the road, at S37°30.9198' E175°17.4865' that matches the correct RAPID numbering
+1638553	2A Tui Place, Te Kowhai	2018/02/25 14:28	-37.738960,175.157310	These points seem offset to the north a bit and are in the middle of the road. Try S37°44.3421' E175°09.4391'
+1638554	2B Tui Place, Te Kowhai	2018/02/25 14:28	-37.738955,175.157416	These points seem offset to the north a bit and are in the middle of the road. Try S37°44.3407' E175°09.4477'

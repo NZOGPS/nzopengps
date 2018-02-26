@@ -1,4 +1,4 @@
-Start = 2018-02-25 14:57:51 +1300
+Start = 2018-02-27 10:00:19 +1300
 #############################
 
 9 LINZ ids are missing from NZOGPS Tasman
@@ -13,7 +13,7 @@ Start = 2018-02-25 14:57:51 +1300
 ;linzid=3078664	George Glenn Pl	-42.503688913273,171.175774255016
 #############################
 
-43 LINZ ids are in NZOGPS Tasman but missing from LINZ
+41 LINZ ids are in NZOGPS Tasman but missing from LINZ
 ;linzid=1786077	Conical Hill Rd	-42.50705,172.82833
 ;linzid=1770862	Service Lane	-41.34232,173.18710
 ;linzid=1789618	Airlie St	-41.18437,173.36407
@@ -25,7 +25,7 @@ Start = 2018-02-25 14:57:51 +1300
 ;linzid=1789941	~[0x04]6	-41.38011,173.11050
 ;linzid=1787884	Main Rd	-41.61644,171.86584
 ;linzid=1787836	Mouse Point Rd	-42.73194,172.86834
-;linzid=1790779	~[0x04]6	-42.44860,171.21632
+;linzid=1790779	~[0x04]6	-42.44869,171.21622
 ;linzid=1787837	Lewis Pass Rd	-42.59007,172.77719
 ;linzid=1789944	State Highway 6	-41.45166,172.83619
 ;linzid=1789965	Buller Rd	-41.76733,171.59273
@@ -41,10 +41,8 @@ Start = 2018-02-25 14:57:51 +1300
 ;linzid=1789967	State Highway 67	-41.64134,171.84285
 ;linzid=1789966	~[0x04]67	-41.71305,171.76258
 ;linzid=1789964	Nikau Rd	-41.59765,171.88499
-;linzid=1789889	Main Rd	-41.60702,171.87701
+;linzid=1789889	Main Rd	-41.60693,171.87703
 ;linzid=1842378	Atarau Rd	-42.27200,171.68402
-;linzid=1787877	~[0x04]6	-41.90821,171.43688
-;linzid=1789947	Camp St	-41.90821,171.43688
 ;linzid=1789970	~[0x04]69	-42.10653,171.85318
 ;linzid=1837898	Torrent Bay (Beach)	-40.94359,173.04904
 ;linzid=1837895	The Anchorage (Beach)	-40.95512,173.06088
@@ -69,5 +67,5 @@ Start = 2018-02-25 14:57:51 +1300
 0 Number range ids are in NZOGPS Tasman but missing from LINZ
 #############################
 
-Finish = 2018-02-25 14:57:53 +1300
-Processing time = 1.754794
+Finish = 2018-02-27 10:00:20 +1300
+Processing time = 0.991959

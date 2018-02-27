@@ -1,11 +1,7 @@
-Start = 2018-02-25 14:57:50 +1300
+Start = 2018-02-27 23:18:37 +1300
 #############################
 
-4 LINZ ids are missing from NZOGPS Northland
-;linzid=3078716	Busby Way	-35.2309456743598,173.950368059716
-;linzid=3078717	Samuel Way	-35.2308963931598,173.951039278008
-;linzid=3078718	Seddon Way	-35.2306594778042,173.951590929631
-;linzid=3078749	Jean Edwards Pl	-35.7414858745963,174.315491611777
+0 LINZ ids are missing from NZOGPS Northland
 #############################
 
 0 LINZ ids are in NZOGPS Northland but missing from LINZ
@@ -18,5 +14,5 @@ Start = 2018-02-25 14:57:50 +1300
 ;linznumbid=9100001	~[0x04]12	-35.50410,173.39396
 #############################
 
-Finish = 2018-02-25 14:57:51 +1300
-Processing time = 1.429375
+Finish = 2018-02-27 23:18:38 +1300
+Processing time = 0.829345

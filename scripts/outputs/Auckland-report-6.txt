@@ -1,14 +1,9 @@
-Start = 2018-02-25 14:58:29 +1300
+Start = 2018-02-28 00:15:34 +1300
 linzid	street_name	street_name_2	official_street_name
 3047073	~[0x04]18	Upper Harbour Hwy	Upper Harbour Mwy	-36.78855,174.65875
 3047073	~[0x04]18	Upper Harbour Hwy	Upper Harbour Mwy	-36.81614,174.61282
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
-3077888	Mangahoe St		Mangahoe Rd	-36.92835,174.84887
-3078675	Croatia Pl		Reserva Cres	-36.76393,174.55281
-3078676	Meritage Cl		Verdot Cl	-36.76452,174.55250
-3078701	maika lane		Maika Lane	-36.80761,174.73055
-3078701	maika lane		Maika Lane	-36.80761,174.73055
 #############################
 
-Finish = 2018-02-25 14:58:33 +1300
-Processing time = 4.322719
+Finish = 2018-02-28 00:15:36 +1300
+Processing time = 2.698581

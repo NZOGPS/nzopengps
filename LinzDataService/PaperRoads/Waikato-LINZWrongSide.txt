@@ -215,7 +215,6 @@
 1440319	10 Amelia Place, Leamington, Cambridge	2018/02/25 15:51	-37.919404,175.478308
 1432131	583 Uapoto Road, Taupiri	2018/02/25 15:52	-37.581812,175.229447
 1430208	2 Abbott Road, Waikino, Waihi	2018/02/25 15:53	-37.409290,175.772052
-1425796	2 Selva Road, Waiau Pa	2018/02/25 15:54	-37.153192,174.765280
 1425796	2 Selva Road, Waiau Pa	2018/02/25 15:55	-37.153192,174.765280	Numbering on this street is very strange. Even RAPID on the W side, Odd/Even on the E side! 
 1420474	134 Great West Road, Matipo Heights, Rotorua	2018/02/25 15:58	-38.159671,176.207825
 1377719	14 Sovereign Isle Lane, Rototuna, Hamilton	2018/02/25 15:58	-37.736391,175.278413	This whole side of the street is offset to the E, and are in the middle of the road. This one should probably be around S37°44.1868' E175°16.6951'

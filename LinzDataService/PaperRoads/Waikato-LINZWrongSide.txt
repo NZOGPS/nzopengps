@@ -255,3 +255,11 @@
 1294449	1 Hugh Place, Saint Andrews, Hamilton	2018/02/25 17:36	-37.750465,175.247027
 1271424	147 Emerton Road, Waihi Beach	2018/02/25 17:41	-37.430591,175.957378
 1267899	44 Potts Road, Puketotara	2018/02/25 17:41	-38.084494,175.131411
+644923	127 Mangiti Road, Waingaro	2018/03/10 23:27	-37.731082,174.934811
+571519	1477 Tarndale Road, Raukumara	2018/03/10 23:29	-38.209523,177.790046
+1715183	254 Orini Road, Taupiri	2018/03/10 23:31	-37.594290,175.207177
+1709236	1378 Pokairoa Road, Matahina Forest	2018/03/10 23:34	-38.272654,176.780651
+1674583	136B Stewart Road, Hamurana	2018/03/10 23:34	-38.009731,176.194035
+1651237	1500 Jack Henry Road, Kinleith	2018/03/10 23:35	-38.229420,175.722733
+1311825	154 Ruakiwi Road, Waingaro	2018/03/10 23:40	-37.727164,174.956080	There is a driveway across the road, at S37°43.5957' E174°57.3350' that matches the correct RAPID numbering
+1311824	19 Ruakiwi Road, Waingaro	2018/03/10 23:44	-37.732471,174.967318	There is a driveway across the road, at S37°43.9393' E174°57.9995' that matches the correct RAPID numbering

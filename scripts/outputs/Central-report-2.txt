@@ -1,7 +1,8 @@
-Start = 2018-02-25 22:42:22 +1300
+Start = 2018-03-11 17:03:35 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Central
+1 LINZ ids are missing from NZOGPS Central
+;linzid=3078774	Elder Lane	-38.9922662029079,175.816629404319
 #############################
 
 0 LINZ ids are in NZOGPS Central but missing from LINZ
@@ -67,5 +68,5 @@ Start = 2018-02-25 22:42:22 +1300
 ;linznumbid=9400054	Crosses Rd	-39.66224,176.88390
 #############################
 
-Finish = 2018-02-25 22:42:25 +1300
-Processing time = 2.369984
+Finish = 2018-03-11 17:03:38 +1300
+Processing time = 2.674564

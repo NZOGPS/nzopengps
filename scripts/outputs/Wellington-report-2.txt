@@ -1,7 +1,7 @@
-Start = 2018-02-25 14:57:59 +1300
+Start = 2018-03-11 17:03:38 +1300
 #############################
 
-7 LINZ ids are missing from NZOGPS Wellington
+9 LINZ ids are missing from NZOGPS Wellington
 ;linzid=3075310	Accessway	-41.14179265,174.8551202833
 ;linzid=3073843	Accessway	-41.11502405,174.8331097667
 ;linzid=3078660	McGregor Lane	-40.4027136748662,176.629993887737
@@ -9,6 +9,8 @@ Start = 2018-02-25 14:57:59 +1300
 ;linzid=3078691	Tradewinds Dr	-41.1091414400901,174.89853720153
 ;linzid=3078693	Shearwater Lane	-41.1093284128628,174.897338774473
 ;linzid=3078692	Mooring Cl	-41.1093284128628,174.897338774473
+;linzid=3078753	Langbourne Way	-41.1236008128572,174.89776422211
+;linzid=3078788	Flax Mill Lane	-41.0707929376965,175.413244830704
 #############################
 
 60 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -104,5 +106,5 @@ Start = 2018-02-25 14:57:59 +1300
 ;linznumbid=592280	Te Uri Rd	-40.24683,176.37921
 #############################
 
-Finish = 2018-02-25 14:58:02 +1300
-Processing time = 2.476813
+Finish = 2018-03-11 17:03:40 +1300
+Processing time = 2.309213

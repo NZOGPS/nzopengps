@@ -1,7 +1,11 @@
-Start = 2018-02-28 23:35:24 +1300
+Start = 2018-03-11 17:03:43 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Waikato
+4 LINZ ids are missing from NZOGPS Waikato
+;linzid=3078755	Whakapono Rd	-37.2012566070124,174.885904397647
+;linzid=3078789	Litsea Way	-37.72289097002,176.330703970809
+;linzid=3078790	Montiicola Blvd	-37.7234730099932,176.331165128688
+;linzid=3078791	Colpoma Cl	-37.7234730099932,176.331165128688
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -40,7 +44,7 @@ Start = 2018-02-28 23:35:24 +1300
 ;linznumbid=9300027	Parton Rd	-37.71133,176.31301
 ;linznumbid=9300028	Mangawara Rd	-37.51142,175.42501
 ;linznumbid=9300029	Mangawara Rd	-37.38360,175.43692
-;linznumbid=9300030	Motu Rd	-38.01154,177.41403
+;linznumbid=9300030	Motu Rd	-38.01134,177.41444
 ;linznumbid=9300031	Motu Rd	-38.16927,177.51022
 ;linznumbid=9300032	Rotoehu Rd	-38.00808,176.43901
 ;linznumbid=9300033	Rotoehu Rd	-37.94648,176.50888
@@ -67,5 +71,5 @@ Start = 2018-02-28 23:35:24 +1300
 ;linznumbid=9300056	Overdale Rd	-38.02814,175.75363
 #############################
 
-Finish = 2018-02-28 23:35:27 +1300
-Processing time = 2.25621
+Finish = 2018-03-11 17:03:47 +1300
+Processing time = 3.233098

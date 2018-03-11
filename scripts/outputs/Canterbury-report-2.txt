@@ -1,14 +1,7 @@
-Start = 2018-03-11 17:03:41 +1300
+Start = 2018-03-11 21:25:30 +1300
 #############################
 
-7 LINZ ids are missing from NZOGPS Canterbury
-;linzid=3078766	Conifer Crt	-43.5892415160627,172.398165379387
-;linzid=3078765	Woodcroft Way	-43.588869191347,172.398015125778
-;linzid=3078768	Silk Pl	-43.5886976426507,172.398879335198
-;linzid=3078769	Tawa Lane	-43.5883425794643,172.398738223117
-;linzid=3078770	Beech Lane	-43.5885255373285,172.397878150732
-;linzid=3078767	Pine Pl	-43.588869191347,172.398015125778
-;linzid=3078771	Jean Archie Dr	-43.6171988865215,172.370275994913
+0 LINZ ids are missing from NZOGPS Canterbury
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
@@ -35,5 +28,5 @@ Start = 2018-03-11 17:03:41 +1300
 ;linznumbid=700015	~[0x04]1	-43.32870,172.66609
 #############################
 
-Finish = 2018-03-11 17:03:43 +1300
-Processing time = 2.807692
+Finish = 2018-03-11 21:25:32 +1300
+Processing time = 2.501268

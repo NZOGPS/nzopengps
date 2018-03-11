@@ -1,8 +1,7 @@
-Start = 2018-03-11 17:03:29 +1300
+Start = 2018-03-11 22:38:54 +1300
 #############################
 
-1 LINZ ids are missing from NZOGPS Northland
-;linzid=3078783	Amsharlo Dr	-35.2137514767944,173.951585925678
+0 LINZ ids are missing from NZOGPS Northland
 #############################
 
 0 LINZ ids are in NZOGPS Northland but missing from LINZ
@@ -15,5 +14,5 @@ Start = 2018-03-11 17:03:29 +1300
 ;linznumbid=9100001	~[0x04]12	-35.50410,173.39396
 #############################
 
-Finish = 2018-03-11 17:03:31 +1300
-Processing time = 1.317262
+Finish = 2018-03-11 22:38:56 +1300
+Processing time = 1.351333

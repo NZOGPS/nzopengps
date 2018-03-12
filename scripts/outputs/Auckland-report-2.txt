@@ -1,34 +1,11 @@
-Start = 2018-03-11 17:03:47 +1300
+Start = 2018-03-12 22:48:23 +1300
 #############################
 
-23 LINZ ids are missing from NZOGPS Auckland
+1 LINZ ids are missing from NZOGPS Auckland
 ;linzid=1823857	Cowley St	-36.8748246333,174.7046282167
-;linzid=3078752	Navigation Dr	-36.8413470609106,175.753436511447
-;linzid=3078754	Sofs Lane	-36.9127600833,174.8291625333
-;linzid=3078792	Puaki Dr	-37.0018302280249,174.85290667017
-;linzid=3078756	Killick Pl	-36.6862730976106,174.736610565525
-;linzid=3078757	Kuku Ave	-36.6113370049983,174.694394436496
-;linzid=3078759	Kuparu Lane	-36.6088760067347,174.694706045243
-;linzid=3078758	Koura Dr	-36.6087118871465,174.69438623332
-;linzid=3078761	Nga Wai Lane	-36.6084726026225,174.69066346993
-;linzid=3078760	Tiromoana Dr	-36.6096560986642,174.69086853251
-;linzid=3078762	Owen Chapman Dr	-36.6101880332259,174.691870797999
-;linzid=3078763	Fairgray Lane	-36.6101880332259,174.691870797999
-;linzid=3078764	Surf View Cres	-36.6090346319768,174.689095916086
-;linzid=3078773	Temata Lane	-36.8746334160954,174.87500526928
-;linzid=3078779	Glenbrae Glade	-36.8740691426072,174.869371512591
-;linzid=3078780	Doreen Williams Way	-36.8758186020399,174.870194919131
-;linzid=3078781	Poroporo Pl	-36.875843133947,174.869501638423
-;linzid=3078782	Manea Lane	-36.8746345554744,174.869231509129
-;linzid=3078778	Vui Talitu Way	-36.8745883667,174.8698317667
-;linzid=3078784	Piri Pl	-36.8753183827807,174.870695709952
-;linzid=3078785	Te Ao Lane	-36.8760954833,174.86273845
-;linzid=3078786	Timatangi Rise	-36.8745245027989,174.871524106455
-;linzid=3078787	Reg Pearce Way	-36.8746433608987,174.870621435035
 #############################
 
-1 LINZ ids are in NZOGPS Auckland but missing from LINZ
-;linzid=3074346	Walkway	-36.96889,174.85919
+0 LINZ ids are in NZOGPS Auckland but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Auckland
@@ -37,5 +14,5 @@ Start = 2018-03-11 17:03:47 +1300
 0 Number range ids are in NZOGPS Auckland but missing from LINZ
 #############################
 
-Finish = 2018-03-11 17:03:50 +1300
-Processing time = 2.906785
+Finish = 2018-03-12 22:48:25 +1300
+Processing time = 2.058964

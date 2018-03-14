@@ -1,10 +1,10 @@
 6 entries in ..\..\LinzDataService\PaperRoads\Southland-WrongSide.txt
 121 entries in ..\..\LinzDataService\PaperRoads\Southland-LINZWrongSide.txt
-108 wrongside numbers, 3 not in Exclusion files
+114 wrongside numbers, 10 not in Exclusion files
 1 entries in Ignore list are no longer on the wrong side
 71695	30A Chelmer Street	2015/04/27 20:08	-45.096988,170.956477
 
-21 entries in Linz list are no longer on the wrong side
+22 entries in Linz list are no longer on the wrong side
 1604690	34 ARAMOANA ROAD	2013/10/26 23:35	-45.805825,170.625299
 401426	32 RUNBRAKE STREET	2013/10/05 23:20	-45.480887,170.716836
 12268	121 Strathearn Road	2015/08/18 15:46	-46.153176,169.279527
@@ -21,6 +21,7 @@
 1678564	300 DUNSTAN CREEK ROAD	2013/10/06 21:26	-44.914169,169.762525
 1065214	10 ORETI ROAD	2013/10/26 23:12	-46.432728,168.305135
 1556463	82 GILMORE ROAD	2013/10/06 21:27	-44.928392,169.280017
+1605014	121 Otakou Golf Course Road, Otakou	2017/12/02 14:35	-45.806536,170.686062
 1845841	58 Little Roderick Road	2014/07/18 00:07	-44.777460,170.572715
 1578398	97 PUB ROAD	2013/10/09 12:27	-44.861382,170.868779
 1845847	156 Teschemaker Valley Road	2014/07/18 00:07	-44.602644,171.078406

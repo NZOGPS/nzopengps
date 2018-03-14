@@ -10,7 +10,6 @@
 174.76680377,-41.27921008,"41 Patanga Crescent, Thorndon, Wellington",Wrong Side: 356685
 174.77351558,-41.28727698,"4 Athol Crescent, Wellington Central, Wellington",Wrong Side: 357452
 174.77290688,-41.28862687,"7 Allenby Terrace, Wellington Central, Wellington",Wrong Side: 357588
-174.78461462,-41.25489907,"21A Kabul Street, Khandallah, Wellington",Wrong Side: 361809
 174.77624365,-41.30229277,"5 Hayward Terrace, Mount Cook, Wellington",Wrong Side: 365573
 174.77729835,-41.31513300,"28 Brixham Way, Newtown, Wellington",Wrong Side: 367367
 174.77727130,-41.31532460,"30 Brixham Way, Newtown, Wellington",Wrong Side: 367401
@@ -81,10 +80,6 @@
 174.95770228,-41.24758635,"12 Tipperary Grove, Wainuiomata, Lower Hutt",Wrong Side: 438639
 174.96222380,-41.27425312,"4 Riverside Grove, Wainuiomata, Lower Hutt",Wrong Side: 438903
 174.98042907,-41.13467365,"25A Mt Cecil Road, Moonshine Valley",Wrong Side: 443247
-174.97805000,-41.17538837,"11 Logie Street, Stokes Valley, Lower Hutt",Wrong Side: 444296
-174.97789522,-41.17531903,"13 Logie Street, Stokes Valley, Lower Hutt",Wrong Side: 444329
-174.97762308,-41.17529412,"15 Logie Street, Stokes Valley, Lower Hutt",Wrong Side: 444363
-174.97731453,-41.17531885,"17 Logie Street, Stokes Valley, Lower Hutt",Wrong Side: 444392
 174.99494085,-40.90170758,"22A Dennis Taylor Court, Paraparaumu",Wrong Side: 446851
 174.98867767,-40.92894150,"47 Lorna Irene Drive, Raumati South, Paraparaumu",Wrong Side: 447758
 174.99688312,-40.87778630,"46 Olive Terrace, Paraparaumu Beach, Paraparaumu",Wrong Side: 450085
@@ -155,9 +150,9 @@
 175.62652603,-40.37961557,"3 Mountain View Road, Fitzherbert, Palmerston North",Wrong Side: 543159
 175.62635178,-40.37960400,"4 Mountain View Road, Fitzherbert, Palmerston North",Wrong Side: 543189
 175.63972805,-40.34795692,"46 Millar Street, Terrace End, Palmerston North",Wrong Side: 545928
-175.64448683,-40.40358265,"44 Harts Road, Turitea",Wrong Side: 547613
-175.64413103,-40.40378905,"52 Harts Road, Turitea",Wrong Side: 547614
-175.64378182,-40.40399788,"60 Harts Road, Turitea",Wrong Side: 547615
+175.64467871,-40.40340569,"44 Harts Road, Turitea",Wrong Side: 547613
+175.64387580,-40.40387872,"52 Harts Road, Turitea",Wrong Side: 547614
+175.64312260,-40.40432928,"60 Harts Road, Turitea",Wrong Side: 547615
 175.64253520,-40.40476353,"70 Harts Road, Turitea",Wrong Side: 547618
 175.64209567,-40.40500225,"76 Harts Road, Turitea",Wrong Side: 547622
 175.64115093,-40.40560768,"80 Harts Road, Turitea",Wrong Side: 547623
@@ -282,9 +277,7 @@
 175.44603342,-40.57404588,"23 Beech Street, Shannon",Wrong Side: 1303478
 175.03804955,-41.19930055,"16 Russells Road, Whitemans Valley",Wrong Side: 1322493
 175.04018140,-41.13046240,"25A Sandford Street, Trentham, Upper Hutt",Wrong Side: 1322512
-175.11798360,-41.10157802,"14 Mt Marua Way, Timberlea, Upper Hutt",Wrong Side: 1324815
 174.97941558,-40.91247293,"73 Matatua Road, Raumati Beach, Paraparaumu",Wrong Side: 1338794
-174.98022243,-40.91240787,"69 Matatua Road, Raumati Beach, Paraparaumu",Wrong Side: 1338796
 175.02381843,-41.19890940,"123J Johnsons Road, Whitemans Valley",Wrong Side: 1343718
 175.23880447,-40.63869523,"47 Joblins Road, Levin",Wrong Side: 1351162
 175.14201370,-40.75522715,"2 Nikau Place, Otaki",Wrong Side: 1359224
@@ -361,6 +354,7 @@
 175.71827960,-41.39462742,"1470 Pahaoa Road, Hinakura",Wrong Side: 1456595
 174.84426187,-41.14874397,"25 Japonica Crescent, Ranui, Porirua",Wrong Side: 1458080
 174.82794472,-41.15138980,"5 Kapuni Grove, Kenepuru, Porirua",Wrong Side: 1458363
+174.89258352,-41.11612457,"6 Newhaven Way, Whitby, Porirua",Wrong Side: 1461268
 174.89262323,-41.11661013,"40 Newhaven Way, Whitby, Porirua",Wrong Side: 1461272
 174.89262345,-41.11670100,"41 Newhaven Way, Whitby, Porirua",Wrong Side: 1461273
 174.89262178,-41.11680433,"42 Newhaven Way, Whitby, Porirua",Wrong Side: 1461274
@@ -383,6 +377,7 @@
 175.21296700,-41.28929800,"186 Te Hopai Road, Kahutara",Wrong Side: 1534311
 175.30904000,-41.22412200,"153 Whareroto Road, Kahutara",Wrong Side: 1534473
 174.90728752,-41.25317888,"14 Westhill Road, Point Howard, Lower Hutt",Wrong Side: 1537710
+175.69308800,-40.79037500,"1182 Opaki Kaiparoro Road, Mauriceville",Wrong Side: 1546045
 175.72415053,-40.73992555,"1881 Opaki Kaiparoro Road, Mauriceville",Wrong Side: 1546067
 175.67589817,-40.85160823,"147 Millers Road, Kopuaranga",Wrong Side: 1546168
 175.67951858,-40.84106860,"216 Donovans Road, Kopuaranga",Wrong Side: 1546170
@@ -410,7 +405,6 @@
 175.87358675,-40.82747997,"196 Tanglewood Road, Bideford",Wrong Side: 1564169
 175.53345768,-40.37136832,"21 Riddiford Road, Longburn",Wrong Side: 1564841
 174.98890152,-40.89850848,"1 Lloyd Place, Paraparaumu Beach, Paraparaumu",Wrong Side: 1565013
-174.98039433,-41.10111165,"805 Moonshine Road, Judgeford",Wrong Side: 1565464
 174.83823182,-41.14477842,"2 Chapel Drive, Kenepuru, Porirua",Wrong Side: 1565827
 174.94508845,-41.08109188,"450A Flightys Road, Judgeford",Wrong Side: 1566323
 175.27784003,-41.61055175,"3637 Cape Palliser Road, Cape Palliser",Wrong Side: 1570693
@@ -453,8 +447,6 @@
 176.07475725,-41.08668573,"1 Bodle Drive, Riversdale Beach",Wrong Side: 1639488
 175.54231794,-40.38347245,"50 Ngaire Street, Longburn",Wrong Side: 1649796
 174.81345037,-41.20850785,"10/46 Wingfield Place, Churton Park, Wellington",Wrong Side: 1649964
-175.25393945,-40.66396010,"12 Ivy Lane, Ohau",Wrong Side: 1653854
-175.25440588,-40.66376850,"6 Ivy Lane, Ohau",Wrong Side: 1653855
 175.25505103,-40.66390162,"2 Ivy Lane, Ohau",Wrong Side: 1653856
 174.77344448,-41.31993422,"25 Palm Grove, Berhampore, Wellington",Wrong Side: 1659030
 174.77366707,-41.31995360,"23 Palm Grove, Berhampore, Wellington",Wrong Side: 1659031
@@ -550,7 +542,6 @@
 175.28500215,-40.62720803,"22 Cambridge Place, Levin",Wrong Side: 1937656
 175.28495422,-40.62727987,"24 Cambridge Place, Levin",Wrong Side: 1937657
 175.78725495,-40.20780498,"90 Pohangina Valley East Road, Ashhurst",Wrong Side: 1938229
-175.56004525,-40.22425788,"103A Warwick Street, Feilding",Wrong Side: 1938260
 174.78407775,-41.29365842,"10A Cambridge Terrace, Mount Victoria, Wellington",Wrong Side: 1946569
 174.77071747,-41.29046278,"1 Maurice Terrace, Te Aro, Wellington",Wrong Side: 1950524
 174.81515445,-41.31133278,"21A Booth Street, Miramar, Wellington",Wrong Side: 1952926
@@ -578,12 +569,14 @@
 175.68116683,-40.30297510,"35 Hartwell Drive, Bunnythorpe",Wrong Side: 2016542
 175.58341303,-40.38579997,"50 Tip Road, Awapuni, Palmerston North",Wrong Side: 2016558
 174.93050032,-41.20736398,"150A Cambridge Terrace, Epuni, Lower Hutt",Wrong Side: 2023598
+175.51659519,-41.03370009,"60 Ashmore Park Road, Carterton",Wrong Side: 2025475
 175.67312415,-40.94665467,"1/12 Blair Street, Lansdowne, Masterton",Wrong Side: 2085745
 175.67312415,-40.94665467,"2/12 Blair Street, Lansdowne, Masterton",Wrong Side: 2085746
 175.67312415,-40.94665467,"3/12 Blair Street, Lansdowne, Masterton",Wrong Side: 2085747
-174.98904605,-40.93749224,"4A Sydney Crescent, Raumati South, Paraparaumu",Wrong Side: 2099030
 174.89639178,-41.12688099,"47A Banks Boulevard, Whitby, Porirua",Wrong Side: 2104201
 175.64700002,-40.38657290,"52 Johnstone Drive, Fitzherbert, Palmerston North",Wrong Side: 2106412
 175.90704439,-40.28767437,"104BB McConaghty Road, Papatawa",Wrong Side: 2106572
 175.57747287,-40.46697395,"364 Millricks Line, Linton, Palmerston North",Wrong Side: 2106607
 175.58794631,-40.20571772,"31 Accolade Street, Feilding",Wrong Side: 2107979
+175.64389562,-40.40400808,"56 Harts Road, Turitea",Wrong Side: 2118421
+175.25480458,-40.66354785,"10 Ivy Lane, Ohau",Wrong Side: 2125620

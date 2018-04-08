@@ -1,7 +1,7 @@
-Start = 2018-03-11 17:03:38 +1300
+Start = 2018-04-08 17:10:25 +1200
 #############################
 
-9 LINZ ids are missing from NZOGPS Wellington
+12 LINZ ids are missing from NZOGPS Wellington
 ;linzid=3075310	Accessway	-41.14179265,174.8551202833
 ;linzid=3073843	Accessway	-41.11502405,174.8331097667
 ;linzid=3078660	McGregor Lane	-40.4027136748662,176.629993887737
@@ -11,9 +11,12 @@ Start = 2018-03-11 17:03:38 +1300
 ;linzid=3078692	Mooring Cl	-41.1093284128628,174.897338774473
 ;linzid=3078753	Langbourne Way	-41.1236008128572,174.89776422211
 ;linzid=3078788	Flax Mill Lane	-41.0707929376965,175.413244830704
+;linzid=3078793	Breakwater Way	-41.1175588947368,174.896528275959
+;linzid=3078794	Cartographer Way	-41.1175588947368,174.896528275959
+;linzid=3078814	Macpherson Grv	-40.3391328765317,175.64916841996
 #############################
 
-60 LINZ ids are in NZOGPS Wellington but missing from LINZ
+62 LINZ ids are in NZOGPS Wellington but missing from LINZ
 ;linzid=1794488	Penrose Ave	-41.31003,174.77879
 ;linzid=1794344	Regina Tce	-41.30999,174.77904
 ;linzid=1799738	Brendan Beach (Beach)	-41.02945,174.89558
@@ -21,6 +24,8 @@ Start = 2018-03-11 17:03:38 +1300
 ;linzid=1801677	Waikawa Beach Rd	-40.68366,175.17515
 ;linzid=1801870	~[0x04]57	-40.38826,175.63579
 ;linzid=1797682	No 3 Line	-40.19176,175.79301
+;linzid=1817669	Hadfield Crt	-40.74809,175.13831
+;linzid=1817692	Patterson Crt	-40.75868,175.13965
 ;linzid=1801872	~[0x04]57	-40.36908,175.66196
 ;linzid=1801867	~[0x04]57	-40.50770,175.48483
 ;linzid=1801842	~[0x04]53	-41.11669,175.32257
@@ -106,5 +111,5 @@ Start = 2018-03-11 17:03:38 +1300
 ;linznumbid=592280	Te Uri Rd	-40.24683,176.37921
 #############################
 
-Finish = 2018-03-11 17:03:40 +1300
-Processing time = 2.309213
+Finish = 2018-04-08 17:10:28 +1200
+Processing time = 2.697648

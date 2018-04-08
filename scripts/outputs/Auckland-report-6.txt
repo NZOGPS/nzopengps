@@ -1,7 +1,8 @@
-Start = 2018-03-12 22:48:25 +1300
+Start = 2018-04-08 17:10:55 +1200
 linzid	street_name	street_name_2	official_street_name
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
+3078574	Tairana Lane		Tairanga Lane	-36.98367,174.91110
 #############################
 
-Finish = 2018-03-12 22:48:28 +1300
-Processing time = 2.505409
+Finish = 2018-04-08 17:10:59 +1200
+Processing time = 4.608029

@@ -1,10 +1,17 @@
-Start = 2018-03-11 22:57:57 +1300
+Start = 2018-04-08 17:10:22 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Central
+6 LINZ ids are missing from NZOGPS Central
+;linzid=3078827	Western Rise	-39.0927075902543,174.082421611856
+;linzid=3078826	Marsden Pl	-39.0925187351078,174.082398630636
+;linzid=3078828	Twin Way	-39.0925187351078,174.082398630636
+;linzid=3078829	Kotare Dr	-39.0408868,174.1298475667
+;linzid=3078837	Ruahine Rd	-39.4992541737384,176.861266080402
+;linzid=3078838	Hurunui Dr	-39.5219662352039,176.915335806453
 #############################
 
-0 LINZ ids are in NZOGPS Central but missing from LINZ
+1 LINZ ids are in NZOGPS Central but missing from LINZ
+;linzid=3075005	Roadway	-39.95777,176.59872
 #############################
 
 0 Number range ids are missing from NZOGPS Central
@@ -67,5 +74,5 @@ Start = 2018-03-11 22:57:57 +1300
 ;linznumbid=9400054	Crosses Rd	-39.66224,176.88390
 #############################
 
-Finish = 2018-03-11 22:57:59 +1300
-Processing time = 1.738579
+Finish = 2018-04-08 17:10:25 +1200
+Processing time = 2.966656

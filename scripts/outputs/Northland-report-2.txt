@@ -1,7 +1,9 @@
-Start = 2018-03-11 22:38:54 +1300
+Start = 2018-04-08 17:10:15 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Northland
+2 LINZ ids are missing from NZOGPS Northland
+;linzid=3078812	Dennis Yates Way	-35.2314919726005,173.945402448947
+;linzid=3078813	Fairy Pools Lane	-35.2228188384317,173.952923720916
 #############################
 
 0 LINZ ids are in NZOGPS Northland but missing from LINZ
@@ -14,5 +16,5 @@ Start = 2018-03-11 22:38:54 +1300
 ;linznumbid=9100001	~[0x04]12	-35.50410,173.39396
 #############################
 
-Finish = 2018-03-11 22:38:56 +1300
-Processing time = 1.351333
+Finish = 2018-04-08 17:10:17 +1200
+Processing time = 1.523065

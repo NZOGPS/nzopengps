@@ -1,7 +1,12 @@
-Start = 2018-03-11 22:58:06 +1300
+Start = 2018-04-08 17:10:28 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Canterbury
+5 LINZ ids are missing from NZOGPS Canterbury
+;linzid=3078796	Grey View Grv	-43.3015644233275,172.600167422852
+;linzid=3078805	Mueller Dr	-44.3670995710742,171.233635636532
+;linzid=3078823	Pandora Lane	-43.6358731492096,172.522049164025
+;linzid=3078843	Tutton Mews	-43.3030532146692,172.608494142774
+;linzid=3078841	St Marys Lane	-43.3088470589394,172.595882265152
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
@@ -28,5 +33,5 @@ Start = 2018-03-11 22:58:06 +1300
 ;linznumbid=700015	~[0x04]1	-43.32870,172.66609
 #############################
 
-Finish = 2018-03-11 22:58:08 +1300
-Processing time = 2.37404
+Finish = 2018-04-08 17:10:31 +1200
+Processing time = 3.029071

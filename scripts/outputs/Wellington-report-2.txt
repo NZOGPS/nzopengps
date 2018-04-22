@@ -1,7 +1,7 @@
-Start = 2018-04-08 17:10:25 +1200
+Start = 2018-04-22 19:40:17 +1200
 #############################
 
-12 LINZ ids are missing from NZOGPS Wellington
+13 LINZ ids are missing from NZOGPS Wellington
 ;linzid=3075310	Accessway	-41.14179265,174.8551202833
 ;linzid=3073843	Accessway	-41.11502405,174.8331097667
 ;linzid=3078660	McGregor Lane	-40.4027136748662,176.629993887737
@@ -14,6 +14,7 @@ Start = 2018-04-08 17:10:25 +1200
 ;linzid=3078793	Breakwater Way	-41.1175588947368,174.896528275959
 ;linzid=3078794	Cartographer Way	-41.1175588947368,174.896528275959
 ;linzid=3078814	Macpherson Grv	-40.3391328765317,175.64916841996
+;linzid=3078850	Ivy Lane	-40.3292078714325,175.6648562277
 #############################
 
 62 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -111,5 +112,5 @@ Start = 2018-04-08 17:10:25 +1200
 ;linznumbid=592280	Te Uri Rd	-40.24683,176.37921
 #############################
 
-Finish = 2018-04-08 17:10:28 +1200
-Processing time = 2.697648
+Finish = 2018-04-22 19:40:20 +1200
+Processing time = 2.623614

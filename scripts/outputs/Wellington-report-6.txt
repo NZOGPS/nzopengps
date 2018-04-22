@@ -1,4 +1,4 @@
-Start = 2018-04-08 17:10:46 +1200
+Start = 2018-04-22 19:40:38 +1200
 linzid	street_name	street_name_2	official_street_name
 3078403	Landesdown Crt		Landsdown Crt	-40.34787,175.62829
 3078420	Hereke Rd		Ara Hereke	-40.86689,175.03435
@@ -7,5 +7,5 @@ linzid	street_name	street_name_2	official_street_name
 3078308	Bindle Way		Brindle Way	-41.22743,174.82362
 #############################
 
-Finish = 2018-04-08 17:10:48 +1200
-Processing time = 2.182491
+Finish = 2018-04-22 19:40:40 +1200
+Processing time = 2.047323

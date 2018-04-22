@@ -1,8 +1,7 @@
-Start = 2018-04-08 17:10:49 +1200
+Start = 2018-04-22 19:40:40 +1200
 linzid	street_name	street_name_2	official_street_name
 3033541	Cascade Pyke Valley Rd		Cascade Pyke Valley Road - legality not determined	-44.31153,168.22678
-1815540	Slaughterhouse Rd		Old Bridge Rd	-44.24566,171.13998
 #############################
 
-Finish = 2018-04-08 17:10:51 +1200
-Processing time = 2.475271
+Finish = 2018-04-22 19:40:42 +1200
+Processing time = 2.56367

@@ -1,7 +1,7 @@
-Start = 2018-04-08 17:10:17 +1200
+Start = 2018-04-22 19:40:09 +1200
 #############################
 
-10 LINZ ids are missing from NZOGPS Tasman
+13 LINZ ids are missing from NZOGPS Tasman
 ;linzid=3026942	Main Rd	-41.6073389595259,171.87619698491
 ;linzid=3026936	Main Rd	-42.4385285833,171.3419094833
 ;linzid=3027406	State Highway 67	-41.7522332833,171.6240528667
@@ -12,6 +12,9 @@ Start = 2018-04-08 17:10:17 +1200
 ;linzid=3027683	State Highway 1	-42.6398559333,173.3232341667
 ;linzid=3078664	George Glenn Pl	-42.503688913273,171.175774255016
 ;linzid=3078844	Tiro Kina Rd	-41.1954816167324,173.032207176384
+;linzid=3078860	Percival Cl	-42.5325486953061,172.815057421241
+;linzid=3078859	William Jones Pl	-42.5304122544555,172.815888472755
+;linzid=3078861	Balfour Way	-42.5304122544555,172.815888472755
 #############################
 
 41 LINZ ids are in NZOGPS Tasman but missing from LINZ
@@ -68,5 +71,5 @@ Start = 2018-04-08 17:10:17 +1200
 0 Number range ids are in NZOGPS Tasman but missing from LINZ
 #############################
 
-Finish = 2018-04-08 17:10:18 +1200
-Processing time = 1.727998
+Finish = 2018-04-22 19:40:11 +1200
+Processing time = 1.671269

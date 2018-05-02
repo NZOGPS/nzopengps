@@ -1,22 +1,10 @@
-Start = 2018-04-22 19:40:11 +1200
+Start = 2018-05-02 23:19:35 +1200
 #############################
 
-8 LINZ ids are missing from NZOGPS Southland
-;linzid=3078864	St Lauras Lane	-45.0249388166857,168.688613118928
-;linzid=3078865	Bay Rise	-44.6895733120604,169.131587250975
-;linzid=3078869	Marjorie Lane	-45.8639360716121,170.362304728974
-;linzid=3078870	Aviation Lane	-45.8639360716121,170.362304728974
-;linzid=3078868	Abbeyfield Cl	-45.8909126996136,170.417837071882
-;linzid=3078871	Cuddie Cl	-45.8960661035582,170.335263358342
-;linzid=3078872	Errols Crt	-45.7117364786371,170.598418257898
-;linzid=3078873	Mellay Mews	-45.8633151464278,170.364655765465
+0 LINZ ids are missing from NZOGPS Southland
 #############################
 
-4 LINZ ids are in NZOGPS Southland but missing from LINZ
-;linzid=3077307	Walkway	-45.91603,170.47790
-;linzid=3074663	Walkway	-45.91759,170.47830
-;linzid=3074707	Walkway	-45.91787,170.47554
-;linzid=3074890	Walkway	-45.91681,170.47538
+0 LINZ ids are in NZOGPS Southland but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Southland
@@ -33,9 +21,9 @@ Start = 2018-04-22 19:40:11 +1200
 ;linznumbid=9800008	~[0x04]1	-44.62865,171.14160
 ;linznumbid=9800009	Ramrock Rd	-45.59577,170.62324
 ;linznumbid=9800010	Ramrock Rd	-45.45308,170.33387
-;linznumbid=9800011	Porteous Rd	-45.70832,170.58952
+;linznumbid=9800011	Porteous Rd	-45.70830,170.58953
 ;linznumbid=9800012	Porteous Rd	-45.69040,170.57020
 #############################
 
-Finish = 2018-04-22 19:40:14 +1200
-Processing time = 3.161632
+Finish = 2018-05-02 23:19:37 +1200
+Processing time = 2.067051

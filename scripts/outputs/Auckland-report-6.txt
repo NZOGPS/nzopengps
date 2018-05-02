@@ -1,8 +1,7 @@
-Start = 2018-04-22 19:40:46 +1200
+Start = 2018-05-02 22:24:29 +1200
 linzid	street_name	street_name_2	official_street_name
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
-3078007	Catalina Bay Rd		Catalina Bay Dr	-36.79519,174.66905
 #############################
 
-Finish = 2018-04-22 19:40:49 +1200
-Processing time = 3.832574
+Finish = 2018-05-02 22:24:32 +1200
+Processing time = 2.620566

@@ -1,12 +1,7 @@
-Start = 2018-04-22 19:40:23 +1200
+Start = 2018-05-02 23:51:09 +1200
 #############################
 
-5 LINZ ids are missing from NZOGPS Waikato
-;linzid=3078858	Haneanea Way	-37.6947857060967,176.27686278497
-;linzid=3078862	Nithsdale Pl	-37.7378348294115,176.123891846917
-;linzid=3078863	Coad Lane	-37.7374052546817,176.124039083095
-;linzid=3078866	Todd Duncan Dr	-38.0273195,176.1897483
-;linzid=3078867	Korowai Rise	-37.1590284711661,174.94091371922
+0 LINZ ids are missing from NZOGPS Waikato
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -72,5 +67,5 @@ Start = 2018-04-22 19:40:23 +1200
 ;linznumbid=9300056	Overdale Rd	-38.02814,175.75363
 #############################
 
-Finish = 2018-04-22 19:40:26 +1200
-Processing time = 3.436248
+Finish = 2018-05-02 23:51:11 +1200
+Processing time = 2.354342

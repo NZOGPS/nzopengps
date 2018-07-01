@@ -1,10 +1,41 @@
-Start = 2018-05-02 23:19:35 +1200
+Start = 2018-07-01 15:20:53 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Southland
+18 LINZ ids are missing from NZOGPS Southland
+;linzid=3078907	Snowy Pl	-45.018002702707,168.710828072129
+;linzid=3078910	The Heights Ave	-44.6835340881116,169.142130922128
+;linzid=3078911	Scurr Tce	-44.6835340881116,169.142130922128
+;linzid=3078906	Short Crt	-45.0166795005594,168.711950717668
+;linzid=3078909	Lynch Lane	-45.0168986166962,168.711034088347
+;linzid=3078908	O'Kane Lane	-45.0177155310285,168.711436052342
+;linzid=3078912	Reserve Lane	-44.6823122697335,169.143400863775
+;linzid=3078914	Dow Cl	-44.6819137235367,169.140462516284
+;linzid=3078915	Landsborough Lane	-44.6850183167,169.14170615
+;linzid=3078916	Sundance Rise	-44.7180235759956,169.164197017866
+;linzid=3078918	McIntosh Way	-44.7485480225054,169.27614419158
+;linzid=3078917	Cooper Cres	-44.7487919806276,169.27703126531
+;linzid=3078941	Chief Reko Rd	-45.0830660432821,168.738569562387
+;linzid=3078942	Nathanael Pl	-45.0906971904981,168.742816018819
+;linzid=3078945	Deans Dr	-44.7095785220074,169.140693592066
+;linzid=3078946	McDonald St	-44.7121910154499,169.142758954636
+;linzid=3078947	Wallace Pl	-44.7121910154499,169.142758954636
+;linzid=3079033	Isthmus Pl	-44.6171892775971,169.267561812697
 #############################
 
-0 LINZ ids are in NZOGPS Southland but missing from LINZ
+13 LINZ ids are in NZOGPS Southland but missing from LINZ
+;linzid=1777626	Stick Rd	-46.34831,167.85742
+;linzid=1842426	Tui Tce	-45.90684,169.97952
+;linzid=1842427	Morepork Lane	-45.90567,169.98113
+;linzid=1842425	Village Loop Rd	-45.90709,169.98057
+;linzid=1774853	Gibbston Back Rd	-45.03420,168.98539
+;linzid=3077909	Bargour St	-44.67681,169.15760
+;linzid=3077912	Mt Prospect Lane	-44.67522,169.15660
+;linzid=3077913	Hawksburn Lane	-44.67528,169.15747
+;linzid=3077914	Leaning Rock Lane	-44.67552,169.15842
+;linzid=3077915	Matakanui Lane	-44.67576,169.15970
+;linzid=3077910	Sawdon St	-44.67681,169.15760
+;linzid=3077911	Robrosa St	-44.67587,169.15577
+;linzid=3078427	Isthmus Pl	-44.61638,169.26757
 #############################
 
 0 Number range ids are missing from NZOGPS Southland
@@ -25,5 +56,5 @@ Start = 2018-05-02 23:19:35 +1200
 ;linznumbid=9800012	Porteous Rd	-45.69040,170.57020
 #############################
 
-Finish = 2018-05-02 23:19:37 +1200
-Processing time = 2.067051
+Finish = 2018-07-01 15:20:56 +1200
+Processing time = 3.436899

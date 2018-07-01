@@ -1,7 +1,16 @@
-Start = 2018-05-02 22:24:29 +1200
+Start = 2018-07-01 15:21:30 +1200
 linzid	street_name	street_name_2	official_street_name
+3064803	~[0x04]17	Albany Expressway	Dairy Flat Hwy	-36.73361,174.70791
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
+3064803	~[0x04]17	Albany Expressway	Dairy Flat Hwy	-36.73577,174.71667
+3064803	~[0x04]17	Albany Expressway	Dairy Flat Hwy	-36.73617,174.71645
+2018182	Daisy Burrell Dr		Tikumu Rd	-36.62401,174.79408
+3078380	Naganui Ave		Nganui Ave	-37.04396,174.90265
+3078470	Thirteenth View Ave		Angiangi Cres	-36.89001,174.99650
+3078643	Branch Rd		Koroheke Rd	-37.03941,174.94959
+3078736	Pukio Lane		Muriels View Lane	-36.82627,174.62705
+1982810	Tyler Davis Dr		Tyler Davies Dr	-36.60672,174.69588
 #############################
 
-Finish = 2018-05-02 22:24:32 +1200
-Processing time = 2.620566
+Finish = 2018-07-01 15:21:35 +1200
+Processing time = 4.354603

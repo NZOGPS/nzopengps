@@ -1,6 +1,7 @@
-Start = 2018-05-02 22:24:21 +1200
+Start = 2018-07-01 15:21:13 +1200
 linzid	street_name	street_name_2	official_street_name
+1819382	Carters Rd		Carter Rd	-36.15264,174.57144
 #############################
 
-Finish = 2018-05-02 22:24:22 +1200
-Processing time = 0.804782
+Finish = 2018-07-01 15:21:14 +1200
+Processing time = 1.311579

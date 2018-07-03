@@ -1,8 +1,8 @@
-Start = 2018-07-01 15:21:19 +1200
+Start = 2018-07-03 12:18:31 +1200
 linzid	street_name	street_name_2	official_street_name
 3075450	Outback Rd		Service Lane	-39.67700,175.79747
 1803062	Kaimoana St		Kaimoana Rd	-39.02352,177.41763
 #############################
 
-Finish = 2018-07-01 15:21:21 +1200
-Processing time = 2.519188
+Finish = 2018-07-03 12:18:32 +1200
+Processing time = 1.625495

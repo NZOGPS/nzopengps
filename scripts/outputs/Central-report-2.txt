@@ -1,19 +1,16 @@
-Start = 2018-07-01 15:20:57 +1200
+Start = 2018-07-03 12:18:16 +1200
 #############################
 
-4 LINZ ids are missing from NZOGPS Central
+6 LINZ ids are missing from NZOGPS Central
 ;linzid=3078948	Lopdell Lane	-39.4111884802697,176.852744914151
 ;linzid=3078952	Gonda Lane	-39.7316287499617,177.001960493828
 ;linzid=3078950	Haupouri Dr	-39.7316287499617,177.001960493828
 ;linzid=3079034	Kaituna Pl	-39.5220133128184,176.912957002288
+;linzid=3079102	Rich Rise	-39.6634395265368,176.901940022151
+;linzid=3079104	Euchre Way	-39.7224423797193,176.909078769097
 #############################
 
-5 LINZ ids are in NZOGPS Central but missing from LINZ
-;linzid=1798812	Pohe Rd	-39.58230,175.73063
-;linzid=1798778	Stewarts Loop Rd	-39.59397,175.76919
-;linzid=1804805	France Rd	-40.08692,176.14932
-;linzid=2013680	Te Roera Dr	-39.52982,176.83250
-;linzid=3078715	Dwyer Cl	-39.66300,176.90191
+0 LINZ ids are in NZOGPS Central but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Central
@@ -76,5 +73,5 @@ Start = 2018-07-01 15:20:57 +1200
 ;linznumbid=9400054	Crosses Rd	-39.66224,176.88390
 #############################
 
-Finish = 2018-07-01 15:20:59 +1200
-Processing time = 2.753112
+Finish = 2018-07-03 12:18:18 +1200
+Processing time = 1.815428

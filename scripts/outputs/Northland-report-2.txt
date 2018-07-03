@@ -1,7 +1,7 @@
-Start = 2018-07-01 15:20:50 +1200
+Start = 2018-07-03 12:18:12 +1200
 #############################
 
-11 LINZ ids are missing from NZOGPS Northland
+15 LINZ ids are missing from NZOGPS Northland
 ;linzid=3078882	Onekainga Rise	-35.486928666652,174.442854536496
 ;linzid=3078904	James Joseph Lane	-36.350045615986,174.707278339045
 ;linzid=3078905	Moya Dr	-36.3505398842412,174.709509744275
@@ -13,14 +13,15 @@ Start = 2018-07-01 15:20:50 +1200
 ;linzid=3078949	Kopara Lane	-36.1397566785938,174.557034146543
 ;linzid=3078956	Tanner Pl	-35.6725930143471,174.316001489557
 ;linzid=3079076	Cornerstone Pl	-35.6925568833,174.2596890333
+;linzid=3079103	Kupenga Lane	-36.330342906306,174.754528210852
+;linzid=3079105	Ahuru St	-36.2831370332855,174.517404798295
+;linzid=3079106	Tuaraki Dr	-36.2817710862782,174.518455652018
+;linzid=3079107	Raki Lane	-36.2817710862782,174.518455652018
 #############################
 
-6 LINZ ids are in NZOGPS Northland but missing from LINZ
-;linzid=1819784	Doel Rd	-35.36529,174.09011
+3 LINZ ids are in NZOGPS Northland but missing from LINZ
 ;linzid=3074714	Accessway	-35.50288,174.46660
-;linzid=3030126	Bristow Rd	-35.36441,174.08824
 ;linzid=3032639	~[0x04]10	-35.27148,173.94449
-;linzid=1830838	Fryer Rd	-35.12584,173.29353
 ;linzid=3030295	~[0x04]10	-35.25362,173.93179
 #############################
 
@@ -31,5 +32,5 @@ Start = 2018-07-01 15:20:50 +1200
 ;linznumbid=9100001	~[0x04]12	-35.50410,173.39396
 #############################
 
-Finish = 2018-07-01 15:20:51 +1200
-Processing time = 1.48653
+Finish = 2018-07-03 12:18:13 +1200
+Processing time = 0.992682

@@ -1,15 +1,15 @@
-Start = 2018-07-01 15:20:51 +1200
+Start = 2018-07-03 12:18:13 +1200
 #############################
 
 20 LINZ ids are missing from NZOGPS Tasman
-;linzid=3026942	Main Rd	-41.6073389595259,171.87619698491
-;linzid=3026936	Main Rd	-42.4385285833,171.3419094833
-;linzid=3027406	State Highway 67	-41.7522332833,171.6240528667
-;linzid=1786097	Jamesons Rd	-42.73674545,173.00537125
-;linzid=1790705	South Spit Rd	-42.73705205,170.93883505
-;linzid=3060412	Malfroys Tram	-42.70472515,171.1049672333
+;linzid=3026942	Main Rd	-41.614803119157,171.867426420892
+;linzid=1786097	Jamesons Rd	-42.73086345,173.0346001167
 ;linzid=3027408	State Highway 67	-41.52923665,171.9670456167
 ;linzid=3027683	State Highway 1	-42.6398559333,173.3232341667
+;linzid=3026936	Main Rd	-42.4380408,171.34598005
+;linzid=3027406	State Highway 67	-41.7522332833,171.6240528667
+;linzid=1790705	South Spit Rd	-42.73705205,170.93883505
+;linzid=3060412	Malfroys Tram	-42.70472515,171.1049672333
 ;linzid=3078664	George Glenn Pl	-42.503688913273,171.175774255016
 ;linzid=3078926	Rana Pl	-41.249263694527,173.096187831478
 ;linzid=3078927	Schwass Lane	-41.3778652366177,173.11205680336
@@ -24,7 +24,7 @@ Start = 2018-07-01 15:20:51 +1200
 ;linzid=3078981	Brian Waugh Lane	-42.7151661346811,170.983227952641
 #############################
 
-44 LINZ ids are in NZOGPS Tasman but missing from LINZ
+40 LINZ ids are in NZOGPS Tasman but missing from LINZ
 ;linzid=1786077	Conical Hill Rd	-42.50705,172.82833
 ;linzid=1770862	Service Lane	-41.34232,173.18710
 ;linzid=1789618	Airlie St	-41.18437,173.36407
@@ -33,11 +33,7 @@ Start = 2018-07-01 15:20:51 +1200
 ;linzid=1791693	~[0x04]6	-41.50620,173.81877
 ;linzid=3075883	Accessway	-41.50817,173.87196
 ;linzid=1791697	~[0x04]1	-41.57535,174.03736
-;linzid=1791242	Gulch Rd	-41.82763,174.13255
-;linzid=1791104	Tachalls Rd	-41.82518,174.13699
-;linzid=1791069	Wests Rd	-41.83615,174.12611
 ;linzid=1789941	~[0x04]6	-41.38011,173.11050
-;linzid=1836097	Serpentine Rd	-42.57794,171.11999
 ;linzid=1787884	Main Rd	-41.61644,171.86584
 ;linzid=1787836	Mouse Point Rd	-42.73194,172.86834
 ;linzid=1790779	~[0x04]6	-42.44869,171.21622
@@ -72,14 +68,14 @@ Start = 2018-07-01 15:20:51 +1200
 #############################
 
 4 Number range ids are missing from NZOGPS Tasman
-;linznumbid=1000020	Main Rd	-41.6073389595259,171.87619698491
-;linznumbid=1000019	Main Rd	-41.6036124667,171.88034905
 ;linznumbid=1000029	State Highway 1	-42.4163809988021,173.630218889945
+;linznumbid=1000020	Main Rd	-41.614803119157,171.867426420892
+;linznumbid=1000019	Main Rd	-41.6036124667,171.88034905
 ;linznumbid=1000016	State Highway 1	-42.6398559333,173.3232341667
 #############################
 
 0 Number range ids are in NZOGPS Tasman but missing from LINZ
 #############################
 
-Finish = 2018-07-01 15:20:53 +1200
-Processing time = 1.612483
+Finish = 2018-07-03 12:18:14 +1200
+Processing time = 1.08965

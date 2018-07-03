@@ -1,7 +1,6 @@
-Start = 2018-07-01 15:21:16 +1200
+Start = 2018-07-03 12:18:29 +1200
 linzid	street_name	street_name_2	official_street_name
-3026924	~[0x04]1	Main Rd	East Taieri-Allanton Rd	-45.91576,170.27012
 #############################
 
-Finish = 2018-07-01 15:21:19 +1200
-Processing time = 2.74612
+Finish = 2018-07-03 12:18:31 +1200
+Processing time = 1.774423

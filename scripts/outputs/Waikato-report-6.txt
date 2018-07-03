@@ -1,6 +1,7 @@
-Start = 2018-07-01 15:21:27 +1200
+Start = 2018-07-03 12:18:36 +1200
 linzid	street_name	street_name_2	official_street_name
+3078042	Waiwai Dr		Wawai Dr	-37.71893,176.31863
 #############################
 
-Finish = 2018-07-01 15:21:30 +1200
-Processing time = 3.316937
+Finish = 2018-07-03 12:18:38 +1200
+Processing time = 2.108323

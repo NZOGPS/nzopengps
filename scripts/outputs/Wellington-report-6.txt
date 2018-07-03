@@ -1,4 +1,4 @@
-Start = 2018-07-01 15:21:21 +1200
+Start = 2018-07-03 12:18:32 +1200
 linzid	street_name	street_name_2	official_street_name
 3078403	Landesdown Crt		Landsdown Crt	-40.34787,175.62829
 3077642	Reighton Lane		Memory Lane	-40.27403,175.74488
@@ -9,5 +9,5 @@ linzid	street_name	street_name_2	official_street_name
 3078432	Wairau Cl		Wairau Lane	-41.13508,174.84629
 #############################
 
-Finish = 2018-07-01 15:21:24 +1200
-Processing time = 2.049343
+Finish = 2018-07-03 12:18:34 +1200
+Processing time = 1.423532

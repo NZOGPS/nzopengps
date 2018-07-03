@@ -21,7 +21,7 @@ call update.bat
 cd ..
 start Generatenumbers
 cd ..\linzdataservice
-%nzogps_ruby_cmd% pg-road-parser_.rb
+%nzogps_ruby_cmd% pg-road-parser.rb
 cd ..\scripts
 call dochecks.bat
 call colouriseall.bat

@@ -1,13 +1,6 @@
-Start = 2018-07-03 12:18:32 +1200
+Start = 2018-07-13 00:46:07 +1200
 linzid	street_name	street_name_2	official_street_name
-3078403	Landesdown Crt		Landsdown Crt	-40.34787,175.62829
-3077642	Reighton Lane		Memory Lane	-40.27403,175.74488
-3078420	Hereke Rd		Ara Hereke	-40.86689,175.03435
-3078419	Kawakahia Rd		Te Ara Kawakahia	-40.86732,175.03286
-3078308	Bindle Way		Brindle Way	-41.22801,174.82416
-3078308	Bindle Way		Brindle Way	-41.22743,174.82362
-3078432	Wairau Cl		Wairau Lane	-41.13508,174.84629
 #############################
 
-Finish = 2018-07-03 12:18:34 +1200
-Processing time = 1.423532
+Finish = 2018-07-13 00:46:09 +1200
+Processing time = 1.495522

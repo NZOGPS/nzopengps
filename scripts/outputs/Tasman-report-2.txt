@@ -1,7 +1,7 @@
-Start = 2018-07-03 12:18:13 +1200
+Start = 2018-07-12 22:43:17 +1200
 #############################
 
-20 LINZ ids are missing from NZOGPS Tasman
+10 LINZ ids are missing from NZOGPS Tasman
 ;linzid=3026942	Main Rd	-41.614803119157,171.867426420892
 ;linzid=1786097	Jamesons Rd	-42.73086345,173.0346001167
 ;linzid=3027408	State Highway 67	-41.52923665,171.9670456167
@@ -12,23 +12,11 @@ Start = 2018-07-03 12:18:13 +1200
 ;linzid=3060412	Malfroys Tram	-42.70472515,171.1049672333
 ;linzid=3078664	George Glenn Pl	-42.503688913273,171.175774255016
 ;linzid=3078926	Rana Pl	-41.249263694527,173.096187831478
-;linzid=3078927	Schwass Lane	-41.3778652366177,173.11205680336
-;linzid=3078928	Thomas Way	-41.3727778568621,173.105973218405
-;linzid=3078929	Janszoon Lane	-41.2048773252592,173.072849033683
-;linzid=3078931	Honey Lane	-41.2049633996528,173.072511306559
-;linzid=3078937	Tasman Cliffs Lane	-41.2014734982119,173.07190188326
-;linzid=3078934	James Cook Lane	-41.206467217991,173.076035801939
-;linzid=3078936	Decks Rd	-41.2048773252592,173.072849033683
-;linzid=3078939	Mahana Ridge	-41.2752980667,173.0443749167
-;linzid=3078980	Bert Mercer Dr	-42.7144639114497,170.984401477102
-;linzid=3078981	Brian Waugh Lane	-42.7151661346811,170.983227952641
 #############################
 
-40 LINZ ids are in NZOGPS Tasman but missing from LINZ
+38 LINZ ids are in NZOGPS Tasman but missing from LINZ
 ;linzid=1786077	Conical Hill Rd	-42.50705,172.82833
 ;linzid=1770862	Service Lane	-41.34232,173.18710
-;linzid=1789618	Airlie St	-41.18437,173.36407
-;linzid=1790674	Arnott Lane	-42.45194,171.21147
 ;linzid=1791700	~[0x04]1	-42.51061,173.50714
 ;linzid=1791693	~[0x04]6	-41.50620,173.81877
 ;linzid=3075883	Accessway	-41.50817,173.87196
@@ -77,5 +65,5 @@ Start = 2018-07-03 12:18:13 +1200
 0 Number range ids are in NZOGPS Tasman but missing from LINZ
 #############################
 
-Finish = 2018-07-03 12:18:14 +1200
-Processing time = 1.08965
+Finish = 2018-07-12 22:43:18 +1200
+Processing time = 0.999985

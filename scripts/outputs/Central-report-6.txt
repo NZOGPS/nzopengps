@@ -1,7 +1,7 @@
-Start = 2018-07-08 15:05:08 +1200
+Start = 2018-07-12 22:43:26 +1200
 linzid	street_name	street_name_2	official_street_name
 3075450	Outback Rd		Service Lane	-39.67700,175.79747
 #############################
 
-Finish = 2018-07-08 15:05:09 +1200
-Processing time = 1.669446
+Finish = 2018-07-12 22:43:28 +1200
+Processing time = 1.566499

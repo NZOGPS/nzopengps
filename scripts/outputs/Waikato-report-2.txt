@@ -1,9 +1,7 @@
-Start = 2018-07-12 22:43:19 +1200
+Start = 2018-07-13 13:55:09 +1200
 #############################
 
-2 LINZ ids are missing from NZOGPS Waikato
-;linzid=3078902	Welcome Bay Link Rd	-37.7248589139816,176.17035890211
-;linzid=3078900	Welcome Bay Lane	-37.7274662038996,176.171222647288
+0 LINZ ids are missing from NZOGPS Waikato
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -62,12 +60,12 @@ Start = 2018-07-12 22:43:19 +1200
 ;linznumbid=9300049	~[0x04]2	-38.09367,177.03735
 ;linznumbid=9300050	~[0x04]2	-38.04786,177.14541
 ;linznumbid=9300051	Welcome Bay Rd	-37.71984,176.24883
-;linznumbid=9300052	Welcome Bay Rd	-37.72764,176.17025
+;linznumbid=9300052	Welcome Bay Rd	-37.72758,176.17026
 ;linznumbid=9300053	~[0x04]2	-37.82130,176.58111
 ;linznumbid=9300054	~[0x04]2	-37.68232,176.22599
 ;linznumbid=9300055	Overdale Rd	-38.04408,175.77224
 ;linznumbid=9300056	Overdale Rd	-38.02814,175.75363
 #############################
 
-Finish = 2018-07-12 22:43:22 +1200
-Processing time = 2.207295
+Finish = 2018-07-13 13:55:12 +1200
+Processing time = 2.799163

@@ -1,6 +1,7 @@
-Start = 2018-07-13 00:46:07 +1200
+Start = 2018-07-13 15:55:17 +1200
 linzid	street_name	street_name_2	official_street_name
+3023294	~[0x04]58	Paremata Rd	Fitzherbert East Rd	-41.10699,174.91485
 #############################
 
-Finish = 2018-07-13 00:46:09 +1200
-Processing time = 1.495522
+Finish = 2018-07-13 15:55:19 +1200
+Processing time = 1.420555

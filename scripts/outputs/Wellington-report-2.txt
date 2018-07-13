@@ -1,80 +1,51 @@
-Start = 2018-07-13 00:46:06 +1200
+Start = 2018-07-13 15:55:15 +1200
 #############################
 
 0 LINZ ids are missing from NZOGPS Wellington
 #############################
 
-43 LINZ ids are in NZOGPS Wellington but missing from LINZ
+25 LINZ ids are in NZOGPS Wellington but missing from LINZ
 ;linzid=1799738	Brendan Beach (Beach)	-41.02945,174.89558
-;linzid=1801800	~[0x04]1	-40.86671,175.03902
-;linzid=1801870	~[0x04]57	-40.38826,175.63579
-;linzid=1801872	~[0x04]57	-40.36908,175.66196
 ;linzid=1801867	~[0x04]57	-40.50770,175.48483
-;linzid=1801842	~[0x04]53	-41.11669,175.32257
-;linzid=1801860	~[0x04]58	-41.10593,174.88119
 ;linzid=1801822	~[0x04]2	-41.24567,174.81685
-;linzid=1801789	~[0x04]1	-40.21623,175.41764
-;linzid=1838584	~[0x04]3	-40.22013,175.42427
-;linzid=1801801	~[0x04]1	-40.99905,174.94082
+;linzid=1801801	~[0x04]1	-41.10160,174.87010
 ;linzid=1801818	~[0x04]2	-41.04384,175.50770
 ;linzid=1837826	~[0x04]2	-41.09187,175.44551
-;linzid=1795291	Bowen Rd	-40.71386,175.71887
-;linzid=1800466	Wade St E	-41.26504,174.77686
-;linzid=1801791	~[0x04]1	-40.56656,175.26540
-;linzid=1801802	~[0x04]1	-41.27969,174.77333
+;linzid=1838584	~[0x04]3	-40.22013,175.42427
 ;linzid=3026089	Riverside Dr Central	-41.22617,174.91848
 ;linzid=1800285	Riverside Dr S	-41.23334,174.91447
-;linzid=1801861	~[0x04]58	-41.11654,174.93292
 ;linzid=1801847	~[0x04]54	-40.21014,175.59885
-;linzid=1801799	State Highway 1	-40.93269,174.99640
-;linzid=1801798	State Highway 1	-40.89347,175.03233
-;linzid=1801792	~[0x04]1	-40.63749,175.27128
-;linzid=1801871	~[0x04]57	-40.38826,175.63579
+;linzid=1801800	~[0x04]1	-40.87206,175.03088
+;linzid=1801798	State Highway 1	-40.88435,175.05751
 ;linzid=1801848	~[0x04]54	-40.21252,175.59365
+;linzid=1801802	~[0x04]1	-41.24224,174.81168
 ;linzid=1801820	~[0x04]2	-41.07832,175.19531
 ;linzid=1840303	Lake Ferry Rd	-41.39418,175.14360
-;linzid=1801790	~[0x04]1	-40.47146,175.28586
-;linzid=1801809	~[0x04]2	-40.44696,175.84524
 ;linzid=1801868	~[0x04]57	-40.45560,175.51858
 ;linzid=1801862	~[0x04]57	-40.64794,175.26036
 ;linzid=1801863	~[0x04]57	-40.65579,175.28270
-;linzid=1801819	~[0x04]2	-41.05599,175.49606
-;linzid=1801859	~[0x04]56	-40.37828,175.56174
 ;linzid=1801857	~[0x04]56	-40.41271,175.47968
 ;linzid=1791942	~[0x04]2	-41.24910,174.81140
 ;linzid=1801869	~[0x04]57	-40.40765,175.60603
 ;linzid=1801844	~[0x04]53	-41.17376,175.40011
 ;linzid=1791946	~[0x04]2	-41.10531,175.29300
-;linzid=1791947	~[0x04]2	-41.11976,175.33789
-;linzid=1801796	State Highway 1	-40.85977,175.07918
-;linzid=1801794	~[0x04]1	-40.73155,175.20285
+;linzid=1801861	~[0x04]58	-41.11654,174.93292
 #############################
 
-16 Number range ids are missing from NZOGPS Wellington
-;linznumbid=1000152	State Highway 1	-40.8401647658547,175.087143953875
-;linznumbid=1000150	State Highway 1	-40.6705686887499,175.240998504001
-;linznumbid=1000065	State Highway 1	-40.4028356833,175.31111105
-;linznumbid=1000070	State Highway 1	-40.5146852709424,175.277634477585
-;linznumbid=1000052	State Highway 2	-40.5234561802314,175.771810973177
-;linznumbid=1000146	State Highway 1	-40.71045165,175.2180024
-;linznumbid=1000053	State Highway 2	-40.8915427291159,175.660883503017
+1 Number range ids are missing from NZOGPS Wellington
 ;linznumbid=1000151	State Highway 1	-41.1820307,174.8293884
-;linznumbid=1000155	State Highway 1	-41.0339536093554,174.888738334182
-;linznumbid=1000156	State Highway 1	-40.892823438486,175.032252720024
-;linznumbid=1000154	State Highway 1	-40.9416109559886,174.992376701772
-;linznumbid=1000148	State Highway 1	-40.7315316667,175.2029158833
-;linznumbid=1000153	State Highway 1	-41.1320908865893,174.843176021049
-;linznumbid=1000149	State Highway 1	-41.0826226930047,174.8693122457
-;linznumbid=1000064	State Highway 1	-40.18813865,175.3875467333
-;linznumbid=1000147	State Highway 1	-40.9441083833,174.9914551167
 #############################
 
-4 Number range ids are in NZOGPS Wellington but missing from LINZ
-;linznumbid=1470295	Te Uri Rd	-40.20667,176.32019
-;linznumbid=592280	Te Uri Rd	-40.24683,176.37921
+8 Number range ids are in NZOGPS Wellington but missing from LINZ
 ;linznumbid=9500001	Beach Rd	-40.29546,176.64387
 ;linznumbid=9500002	Beach Rd	-40.30251,176.66207
+;linznumbid=9500003	Opaki Kaiparoro Rd	-40.87253,175.66247
+;linznumbid=9500004	Opaki Kaiparoro Rd	-40.72164,175.68382
+;linznumbid=9500005	Bowen Rd	-40.71386,175.71887
+;linznumbid=9500006	Bowen Rd	-40.65632,175.75806
+;linznumbid=9500007	Te Uri Rd	-40.20667,176.32019
+;linznumbid=9500008	Te Uri Rd	-40.29197,176.48840
 #############################
 
-Finish = 2018-07-13 00:46:07 +1200
-Processing time = 1.572491
+Finish = 2018-07-13 15:55:17 +1200
+Processing time = 1.650472

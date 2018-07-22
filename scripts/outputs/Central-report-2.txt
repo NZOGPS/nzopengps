@@ -1,10 +1,7 @@
-Start = 2018-07-22 18:22:46 +1200
+Start = 2018-07-22 21:41:30 +1200
 #############################
 
-3 LINZ ids are missing from NZOGPS Central
-;linzid=3079121	Tiro Lane	-40.1419083207035,175.475520201109
-;linzid=3079120	View Rd	-40.1411242243487,175.476653468459
-;linzid=3079122	Mataki Lane	-40.1411242243487,175.476653468459
+0 LINZ ids are missing from NZOGPS Central
 #############################
 
 0 LINZ ids are in NZOGPS Central but missing from LINZ
@@ -70,5 +67,5 @@ Start = 2018-07-22 18:22:46 +1200
 ;linznumbid=9400054	Crosses Rd	-39.66224,176.88390
 #############################
 
-Finish = 2018-07-22 18:22:48 +1200
-Processing time = 2.730129
+Finish = 2018-07-22 21:41:33 +1200
+Processing time = 2.717129

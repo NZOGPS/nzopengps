@@ -1,16 +1,7 @@
-Start = 2018-07-22 18:22:54 +1200
+Start = 2018-07-22 21:41:53 +1200
 #############################
 
-9 LINZ ids are missing from NZOGPS Waikato
-;linzid=3079115	Terry Came Dr	-37.8716319639508,175.469920766802
-;linzid=3079116	William Paul St	-37.8720394475602,175.470520941693
-;linzid=3079117	Lewis Way	-37.8710026275436,175.468932952496
-;linzid=3079119	Oakridge Pl	-37.6480514216274,175.506210156084
-;linzid=3079123	Sadie Dr	-37.8141153410128,175.78824039301
-;linzid=3079125	Harper Way	-37.6919127719555,176.042018699817
-;linzid=3079126	Pamment Lane	-37.5640475796799,175.922558454885
-;linzid=3079118	Clements Lane	-37.8725233642981,175.469442692632
-;linzid=3079128	Evan Tasman Lane	-37.2575321246103,174.725361197382
+0 LINZ ids are missing from NZOGPS Waikato
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -76,5 +67,5 @@ Start = 2018-07-22 18:22:54 +1200
 ;linznumbid=9300056	Overdale Rd	-38.02814,175.75363
 #############################
 
-Finish = 2018-07-22 18:22:57 +1200
-Processing time = 3.304942
+Finish = 2018-07-22 21:41:56 +1200
+Processing time = 2.745121

@@ -1,7 +1,6 @@
-Start = 2018-07-22 18:23:12 +1200
+Start = 2018-07-22 21:41:46 +1200
 linzid	street_name	street_name_2	official_street_name
-3078710	Tiireke Dr		Te Tiireke Dr	-37.82230,175.30095
 #############################
 
-Finish = 2018-07-22 18:23:15 +1200
-Processing time = 2.911068
+Finish = 2018-07-22 21:41:50 +1200
+Processing time = 3.385918

@@ -1,7 +1,6 @@
-Start = 2018-07-22 18:23:08 +1200
+Start = 2018-07-22 21:41:09 +1200
 linzid	street_name	street_name_2	official_street_name
-3078753	Langbourne Way		Langborn Way	-41.12366,174.89811
 #############################
 
-Finish = 2018-07-22 18:23:10 +1200
-Processing time = 1.971372
+Finish = 2018-07-22 21:41:12 +1200
+Processing time = 2.414228

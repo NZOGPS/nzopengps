@@ -1,30 +1,10 @@
-Start = 2018-07-22 18:22:51 +1200
+Start = 2018-07-22 22:06:30 +1200
 #############################
 
-18 LINZ ids are missing from NZOGPS Canterbury
-;linzid=3079153	Ohoka Rd	-43.3841726553651,172.63259650457
-;linzid=3079137	McKerrow St	-43.4807812392946,172.675962458247
-;linzid=3079112	Halpin Dr	-43.6389287932427,172.500378861731
-;linzid=3079113	Lancelot Cl	-43.6392218955467,172.49926116603
-;linzid=3079114	Bruce McLaren Way	-43.6154553590419,172.368854964653
-;linzid=3079131	Eric Melrose Lane	-43.5653912538591,172.550027139888
-;linzid=3079130	Sholto Duncan Cres	-43.5653912538591,172.550027139888
-;linzid=3079134	Muirhill St	-43.5908009455309,172.577391451881
-;linzid=3079135	Pegson Lane	-43.5908787430064,172.576655307295
-;linzid=3079132	Vildebeest St	-43.5660840857673,172.551265668096
-;linzid=3079129	Air Race Lane	-43.5656109395507,172.549893385817
-;linzid=3079149	Rosa Lane	-43.5599731709611,172.547490765628
-;linzid=3079150	Ranby Pl	-43.3244802060684,172.676195003693
-;linzid=3079155	Loch Tanna Way	-43.5219589629879,172.52696083603
-;linzid=3079156	Lussa Cl	-43.5217284210327,172.52826919516
-;linzid=3079157	Glen Rosa Lane	-43.5217284210327,172.52826919516
-;linzid=3079136	Leyland Lane	-43.5913944400911,172.578016747598
-;linzid=3079158	Western Belfast Bypass	-43.4346499529448,172.637743316785
+0 LINZ ids are missing from NZOGPS Canterbury
 #############################
 
-3 LINZ ids are in NZOGPS Canterbury but missing from LINZ
-;linzid=1786825	Woolsack Lane	-43.53204,172.64163
-;linzid=1782362	Liverpool St	-43.53315,172.64064
+1 LINZ ids are in NZOGPS Canterbury but missing from LINZ
 ;linzid=3074398	Service Lane	-43.38555,172.64283
 #############################
 
@@ -49,5 +29,5 @@ Start = 2018-07-22 18:22:51 +1200
 ;linznumbid=700015	~[0x04]1	-43.32870,172.66609
 #############################
 
-Finish = 2018-07-22 18:22:54 +1200
-Processing time = 3.016033
+Finish = 2018-07-22 22:06:32 +1200
+Processing time = 2.179303

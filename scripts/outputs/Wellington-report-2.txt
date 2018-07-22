@@ -1,8 +1,7 @@
-Start = 2018-07-22 18:22:48 +1200
+Start = 2018-07-22 21:41:16 +1200
 #############################
 
-1 LINZ ids are missing from NZOGPS Wellington
-;linzid=3073903	Service Lane	-41.1628648167,174.9807267
+0 LINZ ids are missing from NZOGPS Wellington
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -26,5 +25,5 @@ Start = 2018-07-22 18:22:48 +1200
 ;linznumbid=9500012	~[0x04]57	-40.53219,175.43243
 #############################
 
-Finish = 2018-07-22 18:22:51 +1200
-Processing time = 2.152312
+Finish = 2018-07-22 21:41:18 +1200
+Processing time = 1.883399

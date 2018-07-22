@@ -1,20 +1,10 @@
-Start = 2018-07-22 18:22:43 +1200
+Start = 2018-07-22 21:40:37 +1200
 #############################
 
-9 LINZ ids are missing from NZOGPS Southland
-;linzid=3079094	Bluff Lane	-45.035011163378,168.984745937874
-;linzid=3079097	McNeill Cres	-44.682109051699,169.141421633819
-;linzid=3079124	Powder Tce	-44.9812106557289,168.685642792992
-;linzid=3079151	Eichardt Pl	-45.0715989333,168.74861171667
-;linzid=3079159	Ginko Ave	-45.0222522167,168.75541808333
-;linzid=3079162	Pin Oak Ave	-45.0269892010556,168.74809722564
-;linzid=3079163	Golden Elm Lane	-45.0258340096751,168.747584968208
-;linzid=3079169	Dallimore Lane	-45.9103745457041,170.463910806494
-;linzid=3079167	Owhiro Ave	-45.8806103586314,170.362986346757
+0 LINZ ids are missing from NZOGPS Southland
 #############################
 
-1 LINZ ids are in NZOGPS Southland but missing from LINZ
-;linzid=3074832	Walkway	-45.90966,170.46301
+0 LINZ ids are in NZOGPS Southland but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Southland
@@ -35,5 +25,5 @@ Start = 2018-07-22 18:22:43 +1200
 ;linznumbid=9800012	Porteous Rd	-45.69040,170.57020
 #############################
 
-Finish = 2018-07-22 18:22:46 +1200
-Processing time = 2.852087
+Finish = 2018-07-22 21:40:40 +1200
+Processing time = 3.012036

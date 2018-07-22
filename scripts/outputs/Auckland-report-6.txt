@@ -1,4 +1,4 @@
-Start = 2018-07-03 12:18:38 +1200
+Start = 2018-07-22 18:23:15 +1200
 linzid	street_name	street_name_2	official_street_name
 3064803	~[0x04]17	Albany Expressway	Dairy Flat Hwy	-36.73361,174.70791
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
@@ -13,5 +13,5 @@ linzid	street_name	street_name_2	official_street_name
 1982810	Tyler Davis Dr		Tyler Davies Dr	-36.60672,174.69588
 #############################
 
-Finish = 2018-07-03 12:18:41 +1200
-Processing time = 2.581199
+Finish = 2018-07-22 18:23:19 +1200
+Processing time = 3.81578

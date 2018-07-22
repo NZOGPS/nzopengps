@@ -1,7 +1,7 @@
-Start = 2018-07-13 15:55:17 +1200
+Start = 2018-07-22 18:23:08 +1200
 linzid	street_name	street_name_2	official_street_name
-3023294	~[0x04]58	Paremata Rd	Fitzherbert East Rd	-41.10699,174.91485
+3078753	Langbourne Way		Langborn Way	-41.12366,174.89811
 #############################
 
-Finish = 2018-07-13 15:55:19 +1200
-Processing time = 1.420555
+Finish = 2018-07-22 18:23:10 +1200
+Processing time = 1.971372

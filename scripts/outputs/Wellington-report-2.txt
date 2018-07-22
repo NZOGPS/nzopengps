@@ -1,42 +1,17 @@
-Start = 2018-07-13 15:55:15 +1200
+Start = 2018-07-22 18:22:48 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Wellington
+1 LINZ ids are missing from NZOGPS Wellington
+;linzid=3073903	Service Lane	-41.1628648167,174.9807267
 #############################
 
-25 LINZ ids are in NZOGPS Wellington but missing from LINZ
-;linzid=1799738	Brendan Beach (Beach)	-41.02945,174.89558
-;linzid=1801867	~[0x04]57	-40.50770,175.48483
-;linzid=1801822	~[0x04]2	-41.24567,174.81685
-;linzid=1801801	~[0x04]1	-41.10160,174.87010
-;linzid=1801818	~[0x04]2	-41.04384,175.50770
-;linzid=1837826	~[0x04]2	-41.09187,175.44551
-;linzid=1838584	~[0x04]3	-40.22013,175.42427
-;linzid=3026089	Riverside Dr Central	-41.22617,174.91848
-;linzid=1800285	Riverside Dr S	-41.23334,174.91447
-;linzid=1801847	~[0x04]54	-40.21014,175.59885
-;linzid=1801800	~[0x04]1	-40.87206,175.03088
-;linzid=1801798	State Highway 1	-40.88435,175.05751
-;linzid=1801848	~[0x04]54	-40.21252,175.59365
-;linzid=1801802	~[0x04]1	-41.24224,174.81168
-;linzid=1801820	~[0x04]2	-41.07832,175.19531
-;linzid=1840303	Lake Ferry Rd	-41.39418,175.14360
-;linzid=1801868	~[0x04]57	-40.45560,175.51858
-;linzid=1801862	~[0x04]57	-40.64794,175.26036
-;linzid=1801863	~[0x04]57	-40.65579,175.28270
-;linzid=1801857	~[0x04]56	-40.41271,175.47968
-;linzid=1791942	~[0x04]2	-41.24910,174.81140
-;linzid=1801869	~[0x04]57	-40.40765,175.60603
-;linzid=1801844	~[0x04]53	-41.17376,175.40011
-;linzid=1791946	~[0x04]2	-41.10531,175.29300
-;linzid=1801861	~[0x04]58	-41.11654,174.93292
+0 LINZ ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-1 Number range ids are missing from NZOGPS Wellington
-;linznumbid=1000151	State Highway 1	-41.1820307,174.8293884
+0 Number range ids are missing from NZOGPS Wellington
 #############################
 
-8 Number range ids are in NZOGPS Wellington but missing from LINZ
+12 Number range ids are in NZOGPS Wellington but missing from LINZ
 ;linznumbid=9500001	Beach Rd	-40.29546,176.64387
 ;linznumbid=9500002	Beach Rd	-40.30251,176.66207
 ;linznumbid=9500003	Opaki Kaiparoro Rd	-40.87253,175.66247
@@ -45,7 +20,11 @@ Start = 2018-07-13 15:55:15 +1200
 ;linznumbid=9500006	Bowen Rd	-40.65632,175.75806
 ;linznumbid=9500007	Te Uri Rd	-40.20667,176.32019
 ;linznumbid=9500008	Te Uri Rd	-40.29197,176.48840
+;linznumbid=9500009	~[0x04]2	-41.07832,175.19531
+;linznumbid=9500010	~[0x04]2	-41.10531,175.29300
+;linznumbid=9500011	~[0x04]57	-40.59004,175.34478
+;linznumbid=9500012	~[0x04]57	-40.53219,175.43243
 #############################
 
-Finish = 2018-07-13 15:55:17 +1200
-Processing time = 1.650472
+Finish = 2018-07-22 18:22:51 +1200
+Processing time = 2.152312

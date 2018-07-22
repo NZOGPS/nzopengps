@@ -1,7 +1,7 @@
-Start = 2018-07-12 22:43:17 +1200
+Start = 2018-07-22 18:22:41 +1200
 #############################
 
-10 LINZ ids are missing from NZOGPS Tasman
+11 LINZ ids are missing from NZOGPS Tasman
 ;linzid=3026942	Main Rd	-41.614803119157,171.867426420892
 ;linzid=1786097	Jamesons Rd	-42.73086345,173.0346001167
 ;linzid=3027408	State Highway 67	-41.52923665,171.9670456167
@@ -12,6 +12,7 @@ Start = 2018-07-12 22:43:17 +1200
 ;linzid=3060412	Malfroys Tram	-42.70472515,171.1049672333
 ;linzid=3078664	George Glenn Pl	-42.503688913273,171.175774255016
 ;linzid=3078926	Rana Pl	-41.249263694527,173.096187831478
+;linzid=3079111	Mellifera Pl	-41.3493559474101,173.173756319768
 #############################
 
 38 LINZ ids are in NZOGPS Tasman but missing from LINZ
@@ -65,5 +66,5 @@ Start = 2018-07-12 22:43:17 +1200
 0 Number range ids are in NZOGPS Tasman but missing from LINZ
 #############################
 
-Finish = 2018-07-12 22:43:18 +1200
-Processing time = 0.999985
+Finish = 2018-07-22 18:22:43 +1200
+Processing time = 1.577495

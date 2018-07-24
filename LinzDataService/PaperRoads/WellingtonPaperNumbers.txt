@@ -40,3 +40,5 @@
 1839302	E,22,22	White Lines E	Woburn Lower Hutt	-41.220936,174.902893
 3061977	O,31,31	O,55,55	E,32,34	E,52,54	E,78,78	E,90,90	Stebbings Rd 	Churton park	-41.201027,174.810022
 3071355	E,20,20	E,30,30	Otereo St	Hokio Beach	
+1839460	B,90,97	Settlement Rd	Morrisons Bush(Wellington,NZ)	2018/07/24 23:07	-41.125792,175.420037
+3059371	O,135,137	Kirton Dr	Riverstone Terraces, Upper Hutt(Wellington,NZ)	2018/07/24 23:08	-41.108560,175.040270

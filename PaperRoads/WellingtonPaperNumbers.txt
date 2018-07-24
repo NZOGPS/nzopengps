@@ -29,3 +29,5 @@
 1030000034135	E,710,710	Mangaone North Rd	Hautere(Wellington,NZ)	2015/12/06 17:50	-40.823260,175.152780
 1030000024768	E,800,800	East Taratahi Rd	West Taratahi(Wellington,NZ)	2015/12/06 17:59	-40.980870,175.585490
 1030000023165	B,5,18	Mercer St	Wellington Central, Wellington(Wellington,NZ)	2015/12/07 01:31	-41.288190,174.775250
+2030000082270	B,90,97	Settlement Rd	Morrisons Bush(Wellington,NZ)	2018/07/24 23:07	-41.125792,175.420037
+1030000191884	O,135,137	Kirton Dr	Riverstone Terraces, Upper Hutt(Wellington,NZ)	2018/07/24 23:08	-41.108560,175.040270

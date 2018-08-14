@@ -1,10 +1,7 @@
-Start = 2018-08-14 12:13:27 +1200
+Start = 2018-08-15 00:54:23 +1200
 #############################
 
-3 LINZ ids are missing from NZOGPS Central
-;linzid=3079188	Karaka Mews	-39.638290754666,176.984043838491
-;linzid=3079210	Kohuhu Pl	-38.9303756305018,175.886196983376
-;linzid=3079209	Komahimahi Way	-38.930620720988,175.885414306097
+0 LINZ ids are missing from NZOGPS Central
 #############################
 
 0 LINZ ids are in NZOGPS Central but missing from LINZ
@@ -70,5 +67,5 @@ Start = 2018-08-14 12:13:27 +1200
 ;linznumbid=9400054	Crosses Rd	-39.66224,176.88390
 #############################
 
-Finish = 2018-08-14 12:13:30 +1200
-Processing time = 3.315939
+Finish = 2018-08-15 00:54:26 +1200
+Processing time = 2.588434

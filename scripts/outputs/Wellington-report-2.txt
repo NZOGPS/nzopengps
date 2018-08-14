@@ -1,8 +1,7 @@
-Start = 2018-08-14 12:13:30 +1200
+Start = 2018-08-14 23:29:43 +1200
 #############################
 
-1 LINZ ids are missing from NZOGPS Wellington
-;linzid=3079198	Kingi Te Ahoaho Pl	-40.7576674775611,175.155131801316
+0 LINZ ids are missing from NZOGPS Wellington
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -26,5 +25,5 @@ Start = 2018-08-14 12:13:30 +1200
 ;linznumbid=9500012	~[0x04]57	-40.53219,175.43243
 #############################
 
-Finish = 2018-08-14 12:13:33 +1200
-Processing time = 2.950056
+Finish = 2018-08-14 23:29:46 +1200
+Processing time = 2.372243

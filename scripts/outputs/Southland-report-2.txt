@@ -1,7 +1,18 @@
-Start = 2018-07-24 00:17:39 +1200
+Start = 2018-08-14 12:13:23 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Southland
+11 LINZ ids are missing from NZOGPS Southland
+;linzid=3079177	Jade Dr	-44.7095149756676,169.126974225032
+;linzid=3079178	Pearl Lane	-44.709256019209,169.126671875869
+;linzid=3079179	Petalite Lane	-44.7095149756676,169.126974225032
+;linzid=3079180	Opal Lane	-44.707961388567,169.125761249801
+;linzid=3079184	Sparrow Lane	-44.6145485912549,169.260089524696
+;linzid=3079181	Woodpecker St	-44.6145591194337,169.261166418526
+;linzid=3079183	Muscovy Lane	-44.6145802053541,169.257389670237
+;linzid=3079182	Magpie Pl	-44.6145591194337,169.261166418526
+;linzid=3079191	Gracefield Lane	-45.0073580333,168.73689311667
+;linzid=3079192	Sutherland Lane	-45.0133694719029,168.755921944258
+;linzid=3079215	St Samantha Lane	-45.0259318201886,168.687156857289
 #############################
 
 0 LINZ ids are in NZOGPS Southland but missing from LINZ
@@ -25,5 +36,5 @@ Start = 2018-07-24 00:17:39 +1200
 ;linznumbid=9800012	Porteous Rd	-45.69040,170.57020
 #############################
 
-Finish = 2018-07-24 00:17:42 +1200
-Processing time = 2.654777
+Finish = 2018-08-14 12:13:26 +1200
+Processing time = 3.326934

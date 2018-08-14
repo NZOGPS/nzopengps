@@ -1,6 +1,9 @@
-Start = 2018-07-22 21:41:46 +1200
+Start = 2018-08-14 12:14:01 +1200
 linzid	street_name	street_name_2	official_street_name
+3063839	McCarthy Rd		McCarthys Rd	-38.05331,177.23975
+3072087	Verrall Rd		Verralls Rd	-38.00843,177.19359
+3078887	Rehua Cl		Whiro Cl	-37.68150,175.16850
 #############################
 
-Finish = 2018-07-22 21:41:50 +1200
-Processing time = 3.385918
+Finish = 2018-08-14 12:14:05 +1200
+Processing time = 3.809781

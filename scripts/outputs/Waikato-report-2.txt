@@ -1,17 +1,7 @@
-Start = 2018-08-14 12:13:37 +1200
+Start = 2018-08-15 23:49:31 +1200
 #############################
 
-10 LINZ ids are missing from NZOGPS Waikato
-;linzid=1808974	Hammond St	-37.7266589398879,176.17223331104
-;linzid=3079189	Mountain View Lane	-38.0597140257674,175.728113372219
-;linzid=3079190	Mahood St	-37.9812211251548,175.762655743974
-;linzid=3079194	Meadowview Cl	-37.2611201960705,174.730530613638
-;linzid=3079205	Arohena Crt	-37.7486864341206,176.16894180682
-;linzid=3079204	Hayward Pl	-37.7486552971536,176.169939971918
-;linzid=3079206	Fothers Lane	-37.5517525883526,175.915359949346
-;linzid=3079203	Vesey Dr	-37.5517525883526,175.915359949346
-;linzid=3079207	Centaine Way	-37.6982214090603,176.260594399474
-;linzid=3079208	Washingtonia Way	-37.6442276575932,176.032487814464
+0 LINZ ids are missing from NZOGPS Waikato
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -77,5 +67,5 @@ Start = 2018-08-14 12:13:37 +1200
 ;linznumbid=9300056	Overdale Rd	-38.02814,175.75363
 #############################
 
-Finish = 2018-08-14 12:13:40 +1200
-Processing time = 3.596849
+Finish = 2018-08-15 23:49:35 +1200
+Processing time = 3.755143

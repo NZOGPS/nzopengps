@@ -1,13 +1,13 @@
 10 entries in ..\..\LinzDataService\PaperRoads\Canterbury-WrongSide.txt
 Warning: 1549567 on line 131 in ..\..\LinzDataService\PaperRoads\Canterbury-LINZWrongSide.txt - This ID is also set in the ignore file
 162 entries in ..\..\LinzDataService\PaperRoads\Canterbury-LINZWrongSide.txt
-158 wrongside numbers, 23 not in Exclusion files
+149 wrongside numbers, 21 not in Exclusion files
 3 entries in Ignore list are no longer on the wrong side
 1709873	21A UPPER CRICHTON TERRACE	2013/10/18 15:41	-43.569960,172.627782
 1709882	19A UPPER CRICHTON TERRACE	2013/10/18 15:41	-43.569670,172.627176
 1709884	21B UPPER CRICHTON TERRACE	2013/10/18 15:41	-43.569875,172.627296
 
-34 entries in Linz list are no longer on the wrong side
+41 entries in Linz list are no longer on the wrong side
 906972	2 CARTERS ROAD	2013/10/13 23:38	-43.674369,172.509625
 120766	2846 Hakatere Potts Road	2015/04/10 10:52	-43.519740,170.874271
 290956	582 FLEA BAY ROAD	2013/10/13 23:21	-43.862402,172.997329
@@ -15,20 +15,27 @@ Warning: 1549567 on line 131 in ..\..\LinzDataService\PaperRoads\Canterbury-LINZ
 286963	30 WHITEWASH HEAD ROAD	2013/10/16 10:40	-43.570800,172.773846	All the numbers here are quite close to the road 
 1760181	911 PORT LEVY-PIGEON BAY ROAD	2014/04/22 21:21	-43.660353,172.828044	There is a group here between these two ids (...313 and ...318) on this side of the road, which are all new. There are two other properties at the 'low' end of the road that are numbered opposite.
 1409014	283 MASKELLS ROAD	2013/10/09 11:45	-43.180344,172.664272
+208611	45 MAIN DRAIN ROAD	2013/10/13 23:45	-43.369399,172.624396
+287171	5 WESTRIDGE	2013/10/16 10:37	-43.576500,172.771289	Middle of the road
+1356040	99B MAIN DRAIN ROAD	2013/10/13 23:46	-43.366926,172.618934
+215820	33 MAIN DRAIN ROAD	2013/10/13 23:45	-43.369949,172.625555
 290960	747 OVERTONS ROAD	2013/10/09 11:11	-42.894565,173.014233
 1549567	58 GOWERTON PLACE	2013/10/18 12:52	-43.519762,172.657319	55 is also close to centreline
 1420274	41 TAYLORS MISTAKE BAY (BEACH)	2013/10/16 10:32	-43.584981,172.776415	All the numbers here are quite close to the road - but this one's on the other side.
 1573458	153 OAKWOOD ROAD	2013/10/21 17:12	-44.362751,171.169286
 266266	101R INWOODS CLOSE	2013/10/16 12:29	-43.474947,172.703490
+208613	57 MAIN DRAIN ROAD	2013/10/13 23:46	-43.368032,172.621362
 136950	29 OXFORD CROSSING ROAD	2013/10/09 12:35	-44.223669,171.268950
 1363411	5 ARTHUR STREET	2013/10/09 12:33	-44.085536,170.819888
 1553372	414 WHITES ROAD	2013/10/13 23:44	-43.363705,172.576961
 904520	121 RUSHBROOKS ROAD	2013/10/09 17:02	-43.745648,172.353294	Probably right side, but possibly way too far north. Buildings nearer S end of road?
+201535	139 MAIN DRAIN ROAD	2013/10/13 23:46	-43.364623,172.614046
 1618778	723/4 BROKEN HUT ROAD	2013/10/06 20:49	-44.527347,169.887328	Correct side - but is there a standard order for number/flat?
 947708	78 WAIPARI ROAD	2013/10/21 17:15	-44.861200,170.827482	With this road, it's not clear to me which side of the road is odd/even. If 8 is on the correct side, it's actually 77/76 which are placed on the wrong side...
 122519	138 MASLIN ROAD	2013/10/21 17:10	-44.112519,171.056978	Wrong side of the _formed_ road.
 1736376	323 BAXTERS ROAD	2013/12/01 13:37	-43.900926,171.301051
 1577963	46 ZIG ZAG ROAD	2013/10/21 17:24	-43.518296,171.662775
+1356041	5 MAIN DRAIN ROAD	2013/10/13 23:45	-43.371605,172.629056
 276986	166 BEXLEY ROAD	2013/10/16 12:53	-43.513613,172.717472	Not an address any more?
 1331225	222 McEvedys Road	2015/04/27 19:39	-43.869990,172.299244	better coords might be -43.867240,172.297483
 1423985	1140 MILLTOWN ROAD ARAWHATARAKI	2013/10/06 20:34	-42.822676,171.247770

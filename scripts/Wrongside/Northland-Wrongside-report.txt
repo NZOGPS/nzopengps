@@ -1,7 +1,7 @@
 1 entries in ..\..\LinzDataService\PaperRoads\Northland-WrongSide.txt
 140 entries in ..\..\LinzDataService\PaperRoads\Northland-LINZWrongSide.txt
-159 wrongside numbers, 52 not in Exclusion files
-34 entries in Linz list are no longer on the wrong side
+158 wrongside numbers, 52 not in Exclusion files
+35 entries in Linz list are no longer on the wrong side
 1344523	505 WEST COAST ROAD	2013/12/14 16:12	-35.038887,173.171036
 1484490	4 HAZELMERE STREET	2013/12/14 21:25	-36.298924,174.522883
 1359561	4 JOHNSON LANE	2013/12/14 15:59	-35.281246,174.058569	Numbers are all over the place on this road...
@@ -19,6 +19,7 @@
 1386012	2 POPLAR GLADE	2013/12/22 14:19	-36.094666,174.533758
 927365	333 MOONEY ROAD	2013/12/16 23:44	-36.134341,174.252504
 927035	468 PAHI ROAD	2013/12/16 23:35	-36.144201,174.223764
+923963	2980 SH 14	2013/12/22 10:54	-35.822889,174.056513
 1344524	509 WEST COAST ROAD	2013/12/14 16:12	-35.039068,173.170808
 1312733	1115 ORAKAU ROAD	2013/10/20 19:13	-35.511923,173.918876
 947450	1785 SH  1	2013/12/16 00:17	-36.175777,174.449657

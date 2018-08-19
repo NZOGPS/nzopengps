@@ -1,6 +1,6 @@
 4 entries in ..\..\LinzDataService\PaperRoads\Auckland-WrongSide.txt
 88 entries in ..\..\LinzDataService\PaperRoads\Auckland-LINZWrongSide.txt
-41 wrongside numbers, 19 not in Exclusion files
+67 wrongside numbers, 45 not in Exclusion files
 70 entries in Linz list are no longer on the wrong side
 1519721	321 Spur Road	2015/05/10 00:34	-36.622085,174.691525	S36.622251° E174.691184° looks better
 1169764	19 Hapimana Street	2015/05/02 01:15	-36.845853,174.824123	Seems to be in the middle of the road

@@ -2,9 +2,8 @@ Warning: duplicate entries for 1418498 on line 18 in ..\..\LinzDataService\Paper
 35 entries in ..\..\LinzDataService\PaperRoads\Wellington-WrongSide.txt
 Warning: 411021 on line 25 in ..\..\LinzDataService\PaperRoads\Wellington-LINZWrongSide.txt - This ID is also set in the ignore file
 26 entries in ..\..\LinzDataService\PaperRoads\Wellington-LINZWrongSide.txt
-625 wrongside numbers, 582 not in Exclusion files
+623 wrongside numbers, 580 not in Exclusion files
 12 entries in Ignore list are no longer on the wrong side
-1418498	238 ALBERT STREET	2013/12/21 08:09	-40.357751,175.629047
 441715	2 KIRKWAY	2013/12/28 11:48	-40.909889,174.978777
 1451595	13 KEEL PLACE	2013/12/30 16:38	-41.114430,174.889217
 411021	12B HERBERT STREET	2014/02/20 16:13	-41.210741,174.894339
@@ -13,6 +12,7 @@ Warning: 411021 on line 25 in ..\..\LinzDataService\PaperRoads\Wellington-LINZWr
 359534	22A ONTARIO STREET	2013/12/22 09:31	-41.321944,174.765542
 479748	43 PEHI KUPA STREET	2013/12/27 06:26	-40.873591,175.068788
 606319	11 CABLE CAR LANE	2014/01/24 15:52	-41.284245,174.774809
+1683138	32B THE SQUARE	2013/12/21 08:02	-40.357001,175.610632
 441662	1 KIRKWAY	2013/12/28 11:48	-40.910058,174.978794
 358974	2 COOLIDGE STREET	2014/03/03 14:39	-41.308922,174.768024
 1710433	3 FOREST WALK	2013/12/27 06:19	-40.867362,175.059858

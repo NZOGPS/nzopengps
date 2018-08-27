@@ -1,7 +1,8 @@
-Start = 2018-08-14 23:29:43 +1200
+Start = 2018-08-27 12:15:30 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Wellington
+1 LINZ ids are missing from NZOGPS Wellington
+;linzid=3079226	Te Ara Takapau	-41.0666606667,175.61881465
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -18,12 +19,12 @@ Start = 2018-08-14 23:29:43 +1200
 ;linznumbid=9500005	Bowen Rd	-40.71386,175.71887
 ;linznumbid=9500006	Bowen Rd	-40.65632,175.75806
 ;linznumbid=9500007	Te Uri Rd	-40.20667,176.32019
-;linznumbid=9500008	Te Uri Rd	-40.29197,176.48840
+;linznumbid=9500008	Te Uri Rd	-40.24683,176.37921
 ;linznumbid=9500009	~[0x04]2	-41.07832,175.19531
 ;linznumbid=9500010	~[0x04]2	-41.10531,175.29300
 ;linznumbid=9500011	~[0x04]57	-40.59004,175.34478
 ;linznumbid=9500012	~[0x04]57	-40.53219,175.43243
 #############################
 
-Finish = 2018-08-14 23:29:46 +1200
-Processing time = 2.372243
+Finish = 2018-08-27 12:15:32 +1200
+Processing time = 2.483206

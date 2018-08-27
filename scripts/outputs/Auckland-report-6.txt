@@ -1,12 +1,9 @@
-Start = 2018-08-14 12:14:05 +1200
+Start = 2018-08-27 12:15:58 +1200
 linzid	street_name	street_name_2	official_street_name
-3064803	~[0x04]17	Albany Expressway	Dairy Flat Hwy	-36.73361,174.70791
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
-3064803	~[0x04]17	Albany Expressway	Dairy Flat Hwy	-36.73577,174.71667
 3064803	~[0x04]17	Albany Expressway	Dairy Flat Hwy	-36.73617,174.71645
-1941598	Angiangi Cres		Ninth View Ave	-36.88895,174.99177
-3078470	Thirteenth View Ave		Angiangi Cres	-36.89001,174.99650
+3079021	Market Cove Rd		Porena Lane	-36.95090,174.79734
 #############################
 
-Finish = 2018-08-14 12:14:09 +1200
-Processing time = 4.450577
+Finish = 2018-08-27 12:16:02 +1200
+Processing time = 3.97573

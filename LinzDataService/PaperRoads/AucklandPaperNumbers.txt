@@ -94,3 +94,5 @@
 3035115	O,317,317	Te Atatu Rd	Te Atatu Peninsula, Waitakere(Auckland,NZ)	2017/11/17 15:20	-36.858330,174.652950
 
 1821845	E,30,30	King Edward Pde	Devonport, North Shore City(Auckland,NZ)	2018/08/20 13:31	-36.831730,174.797070
+1842715	O,69,69	Riverhead Point Dr	Riverhead(Auckland,NZ)	2018/08/28 07:00	-36.765150,174.593630
+1941598	O,101,101	Ninth View Avenue	Beachlands, Manukau(Auckland,NZ)	2018/08/28 07:14	-36.888950,174.991770

@@ -31,3 +31,4 @@
 2023598	150A Cambridge Terrace, Epuni, Lower Hutt	2018/08/21 22:16	-41.207364,174.930500
 1938260	103A Warwick Street, Feilding	2018/08/21 22:39	-40.224258,175.560045
 1849960	26 Gifford Grove, Churton Park, Wellington	2018/08/21 23:12	-41.193073,174.801451
+1318409	50A Waiapu Road, Karori, Wellington	2018/08/28 22:47	-41.290125,174.753133

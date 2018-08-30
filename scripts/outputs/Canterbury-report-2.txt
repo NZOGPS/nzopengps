@@ -1,11 +1,7 @@
-Start = 2018-08-27 12:15:33 +1200
+Start = 2018-08-30 12:16:07 +1200
 #############################
 
-4 LINZ ids are missing from NZOGPS Canterbury
-;linzid=3079222	Billington Dr	-43.584610768098,172.561264458437
-;linzid=3079221	Sheehan St	-43.584610768098,172.561264458437
-;linzid=3079223	Saxby Lane	-43.584610768098,172.561264458437
-;linzid=3079252	Carmella Dr	-43.6108112026452,172.399889044784
+0 LINZ ids are missing from NZOGPS Canterbury
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
@@ -32,5 +28,5 @@ Start = 2018-08-27 12:15:33 +1200
 ;linznumbid=700015	~[0x04]1	-43.32870,172.66609
 #############################
 
-Finish = 2018-08-27 12:15:35 +1200
-Processing time = 2.856084
+Finish = 2018-08-30 12:16:09 +1200
+Processing time = 2.47712

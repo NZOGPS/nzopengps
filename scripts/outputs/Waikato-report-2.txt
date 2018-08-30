@@ -1,11 +1,7 @@
-Start = 2018-08-27 12:15:35 +1200
+Start = 2018-08-30 12:15:57 +1200
 #############################
 
-4 LINZ ids are missing from NZOGPS Waikato
-;linzid=3079216	Erlam Pl	-38.1591628816879,176.220549243645
-;linzid=3079218	Westcott Pl	-37.6963597233206,176.105652081112
-;linzid=3079225	Mahana Way	-37.7381551804623,176.114176994531
-;linzid=3079227	Earl Rd	-37.8141153410128,175.78824039301
+0 LINZ ids are missing from NZOGPS Waikato
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -71,5 +67,5 @@ Start = 2018-08-27 12:15:35 +1200
 ;linznumbid=9300056	Overdale Rd	-38.02814,175.75363
 #############################
 
-Finish = 2018-08-27 12:15:39 +1200
-Processing time = 3.222969
+Finish = 2018-08-30 12:16:00 +1200
+Processing time = 2.999951

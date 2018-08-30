@@ -1,24 +1,10 @@
-Start = 2018-08-27 12:15:22 +1200
+Start = 2018-08-30 12:15:54 +1200
 #############################
 
-12 LINZ ids are missing from NZOGPS Northland
-;linzid=3079152	Fantail Way	-36.1248053230187,174.570178845341
-;linzid=3079154	Spoonbill Dr	-35.1934648063007,173.97876222753
-;linzid=3079171	Tuaraki Rd	-36.0646697997261,174.574475641014
-;linzid=3079196	Carver Cl	-35.2292189833,173.9512876167
-;linzid=3079212	Hills View Lane	-36.115117903363,174.573600846507
-;linzid=3079214	Tangaroa Rd	-36.0734520237312,174.586095420861
-;linzid=3079230	Kapiakauri Rd	-35.8313433210885,174.458519366564
-;linzid=3079232	Kaurinui Cres	-35.829685295555,174.458543784347
-;linzid=3079228	Kahukaka Rd	-35.8299967187863,174.46089937645
-;linzid=3079233	Powhaitere Rd	-35.8293544598978,174.459711667875
-;linzid=3079237	Lin Ave	-36.1461840266245,174.506333981628
-;linzid=3079235	Puroto Pl	-35.8293544598978,174.459711667875
+0 LINZ ids are missing from NZOGPS Northland
 #############################
 
-2 LINZ ids are in NZOGPS Northland but missing from LINZ
-;linzid=3075555	Walkway	-34.99313,173.50335
-;linzid=3076025	Service Lane	-35.22867,173.94934
+0 LINZ ids are in NZOGPS Northland but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Northland
@@ -28,5 +14,5 @@ Start = 2018-08-27 12:15:22 +1200
 ;linznumbid=9100001	~[0x04]12	-35.50410,173.39396
 #############################
 
-Finish = 2018-08-27 12:15:23 +1200
-Processing time = 1.234605
+Finish = 2018-08-30 12:15:56 +1200
+Processing time = 1.374358

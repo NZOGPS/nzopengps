@@ -47,7 +47,7 @@ def process_polish_buffer(buffer)
     match = true
   elsif street_name =~ /~\[0x04\](.+)/i || street_name_2 =~ /~\[0x04\](.+)/i then
     highway_number = $1
-    if official_street_name =~ /State Highway #{highway_number}/ then
+    if official_street_name == "State Highway #{highway_number}"  then
       match = true
     end
   end

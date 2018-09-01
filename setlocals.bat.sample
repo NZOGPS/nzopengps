@@ -23,3 +23,4 @@ set nzogps_iscc="C:\Program Files\Inno Setup 5\iscc"
 set nzogps_inst_creator=Unknown
 set nzogps_inst_image=installer-image.bmp
 set nzogps_inst_loc=tmp
+set nzogps_gmapsupp_loc=d:\garmin

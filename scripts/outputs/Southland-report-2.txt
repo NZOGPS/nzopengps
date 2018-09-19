@@ -1,11 +1,7 @@
-Start = 2018-09-16 15:53:48 +1200
+Start = 2018-09-20 00:09:03 +1200
 #############################
 
-4 LINZ ids are missing from NZOGPS Southland
-;linzid=3079271	Maranatha Mews	-45.8832252705034,170.352054897037
-;linzid=3079293	Fraer St	-45.0473593031431,169.190067204902
-;linzid=3079295	Dawkins St	-45.0486199244361,169.191979061707
-;linzid=3079294	Smitham Dr	-45.0486199244361,169.191979061707
+0 LINZ ids are missing from NZOGPS Southland
 #############################
 
 0 LINZ ids are in NZOGPS Southland but missing from LINZ
@@ -29,5 +25,5 @@ Start = 2018-09-16 15:53:48 +1200
 ;linznumbid=9800012	Porteous Rd	-45.69040,170.57020
 #############################
 
-Finish = 2018-09-16 15:53:51 +1200
-Processing time = 2.971241
+Finish = 2018-09-20 00:09:05 +1200
+Processing time = 2.043288

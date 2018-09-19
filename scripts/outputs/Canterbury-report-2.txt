@@ -1,32 +1,10 @@
-Start = 2018-09-16 15:53:56 +1200
+Start = 2018-09-20 00:09:07 +1200
 #############################
 
-10 LINZ ids are missing from NZOGPS Canterbury
-;linzid=3079273	Aoraki Cres	-44.266928085234,170.096673974385
-;linzid=3079275	Cameron Pl	-44.2407338413484,170.063685952535
-;linzid=3079274	Musterers Way	-44.2423977089028,170.065927344924
-;linzid=3079276	Merino Lane	-44.2431948770098,170.066275425416
-;linzid=3079277	Peak Dr	-44.2716243891782,170.084385823013
-;linzid=3079278	Jocks Tce	-44.2687616774091,170.082684658361
-;linzid=3079279	Avlis Pl	-44.2716243891782,170.084385823013
-;linzid=3079280	Makarora Cres	-44.268841814624,170.085595605663
-;linzid=3079297	Rodman Lane	-44.0081404164038,170.473901166024
-;linzid=3079254	Mostyn Way	-43.6164929333,172.38785185
+0 LINZ ids are missing from NZOGPS Canterbury
 #############################
 
-12 LINZ ids are in NZOGPS Canterbury but missing from LINZ
-;linzid=1785522	Tom Ayers Dr	-43.38379,172.66051
-;linzid=1785026	Hakea Lane	-43.38331,172.67251
-;linzid=1787042	Palmer Pl	-43.38402,172.67225
-;linzid=1785040	Kirk St	-43.38323,172.66845
-;linzid=1785058	Cookson Lane	-43.38409,172.66566
-;linzid=1785045	Shiels Pl	-43.38271,172.67152
-;linzid=1786010	Cherry Vale Lane	-43.38385,172.66506
-;linzid=1785032	Cassia Pl	-43.38477,172.67036
-;linzid=1785059	Askeaton Dr	-43.38701,172.67343
-;linzid=1785073	Azalea Pl	-43.38546,172.67268
-;linzid=1785068	Beswick St	-43.38537,172.66285
-;linzid=1785027	Hall St	-43.38471,172.67145
+0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Canterbury
@@ -50,5 +28,5 @@ Start = 2018-09-16 15:53:56 +1200
 ;linznumbid=700015	~[0x04]1	-43.32870,172.66609
 #############################
 
-Finish = 2018-09-16 15:53:59 +1200
-Processing time = 2.722138
+Finish = 2018-09-20 00:09:09 +1200
+Processing time = 1.936945

@@ -1,9 +1,7 @@
-Start = 2018-09-16 15:53:51 +1200
+Start = 2018-09-19 22:12:52 +1200
 #############################
 
-2 LINZ ids are missing from NZOGPS Central
-;linzid=3079253	Highlands Dr	-39.9250302049808,176.603476940114
-;linzid=3079292	Ruahine Rd	-39.8073558333,175.79435375
+0 LINZ ids are missing from NZOGPS Central
 #############################
 
 0 LINZ ids are in NZOGPS Central but missing from LINZ
@@ -69,5 +67,5 @@ Start = 2018-09-16 15:53:51 +1200
 ;linznumbid=9400054	Crosses Rd	-39.66224,176.88390
 #############################
 
-Finish = 2018-09-16 15:53:53 +1200
-Processing time = 2.379191
+Finish = 2018-09-19 22:12:54 +1200
+Processing time = 2.663397

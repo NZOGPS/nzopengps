@@ -1,7 +1,8 @@
-Start = 2018-09-16 15:54:15 +1200
+Start = 2018-09-20 00:09:09 +1200
 linzid	street_name	street_name_2	official_street_name
 3033541	Cascade Pyke Valley Rd		Cascade Pyke Valley Road - legality not determined	-44.31153,168.22678
+1841160	MTB Track		Eastfield Dr	-43.27967,172.58390
 #############################
 
-Finish = 2018-09-16 15:54:17 +1200
-Processing time = 2.596841
+Finish = 2018-09-20 00:09:11 +1200
+Processing time = 1.765697

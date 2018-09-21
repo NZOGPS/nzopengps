@@ -1,7 +1,6 @@
-Start = 2018-09-16 15:54:17 +1200
+Start = 2018-09-21 22:38:37 +1200
 linzid	street_name	street_name_2	official_street_name
-3078320	Ballenden Cres		Bellenden Cres	-37.24785,175.01428
 #############################
 
-Finish = 2018-09-16 15:54:20 +1200
-Processing time = 3.011178
+Finish = 2018-09-21 22:38:39 +1200
+Processing time = 2.074305

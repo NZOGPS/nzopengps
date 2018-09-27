@@ -1,8 +1,7 @@
-Start = 2018-08-27 12:15:30 +1200
+Start = 2018-09-20 00:31:39 +1200
 #############################
 
-1 LINZ ids are missing from NZOGPS Wellington
-;linzid=3079226	Te Ara Takapau	-41.0666606667,175.61881465
+0 LINZ ids are missing from NZOGPS Wellington
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -26,5 +25,5 @@ Start = 2018-08-27 12:15:30 +1200
 ;linznumbid=9500012	~[0x04]57	-40.53219,175.43243
 #############################
 
-Finish = 2018-08-27 12:15:32 +1200
-Processing time = 2.483206
+Finish = 2018-09-20 00:31:41 +1200
+Processing time = 2.165152

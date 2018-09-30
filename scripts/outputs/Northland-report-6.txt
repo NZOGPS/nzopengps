@@ -1,7 +1,6 @@
-Start = 2018-09-16 15:54:05 +1200
+Start = 2018-09-30 16:16:20 +1300
 linzid	street_name	street_name_2	official_street_name
-3055339	Smith Farm Lane		Ocean Sounds Pl	-36.14045,174.58852
 #############################
 
-Finish = 2018-09-16 15:54:06 +1200
-Processing time = 1.318389
+Finish = 2018-09-30 16:16:21 +1300
+Processing time = 1.210061

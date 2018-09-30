@@ -1,9 +1,10 @@
-Start = 2018-09-16 15:53:45 +1200
+Start = 2018-09-30 16:15:59 +1300
 #############################
 
-2 LINZ ids are missing from NZOGPS Northland
-;linzid=3079281	Torrey Pines Rise	-35.6809383164742,174.310348540442
-;linzid=3079298	Wilson Way	-34.9729518749628,173.543435199818
+3 LINZ ids are missing from NZOGPS Northland
+;linzid=3079326	Ara Lane	-35.2387374524457,173.934113809858
+;linzid=3079352	Maturiki Dr	-35.8350490597415,174.460051185975
+;linzid=3079353	Kitemoana Rd	-35.8444245811087,174.476591606947
 #############################
 
 0 LINZ ids are in NZOGPS Northland but missing from LINZ
@@ -16,5 +17,5 @@ Start = 2018-09-16 15:53:45 +1200
 ;linznumbid=9100001	~[0x04]12	-35.50410,173.39396
 #############################
 
-Finish = 2018-09-16 15:53:46 +1200
-Processing time = 1.216052
+Finish = 2018-09-30 16:16:01 +1300
+Processing time = 1.295928

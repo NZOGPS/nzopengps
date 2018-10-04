@@ -1,14 +1,7 @@
-Start = 2018-09-30 16:16:08 +1300
+Start = 2018-10-04 19:14:33 +1300
 #############################
 
-7 LINZ ids are missing from NZOGPS Wellington
-;linzid=3079328	Porokaiwhiri St	-41.251096273916,174.756854979171
-;linzid=3079329	Riroriro Cl	-41.251096273916,174.756854979171
-;linzid=3079330	Ramarama Lane	-41.2528960685632,174.757043990097
-;linzid=3079331	Kareao Way	-41.2497369631478,174.75701464794
-;linzid=3079336	Yorkshire Cl	-41.1208634976079,174.901948733558
-;linzid=3079338	Weatherdeck Cl	-41.1213095780747,174.902320829948
-;linzid=3079351	Newry Dr	-40.3163799376597,175.624359865829
+0 LINZ ids are missing from NZOGPS Wellington
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -32,5 +25,5 @@ Start = 2018-09-30 16:16:08 +1300
 ;linznumbid=9500012	~[0x04]57	-40.53219,175.43243
 #############################
 
-Finish = 2018-09-30 16:16:10 +1300
-Processing time = 2.221942
+Finish = 2018-10-04 19:14:35 +1300
+Processing time = 2.080192

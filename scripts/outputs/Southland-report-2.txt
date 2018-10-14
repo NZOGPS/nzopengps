@@ -1,9 +1,7 @@
-Start = 2018-10-14 17:24:18 +1300
+Start = 2018-10-14 22:05:17 +1300
 #############################
 
-2 LINZ ids are missing from NZOGPS Southland
-;linzid=3079426	Velden View	-44.9980853281548,169.205878502099
-;linzid=3079427	Judare Dr	-44.9980853281548,169.205878502099
+0 LINZ ids are missing from NZOGPS Southland
 #############################
 
 0 LINZ ids are in NZOGPS Southland but missing from LINZ
@@ -27,5 +25,5 @@ Start = 2018-10-14 17:24:18 +1300
 ;linznumbid=9800012	Porteous Rd	-45.69040,170.57020
 #############################
 
-Finish = 2018-10-14 17:24:21 +1300
-Processing time = 2.669144
+Finish = 2018-10-14 22:05:19 +1300
+Processing time = 2.78411

@@ -1,12 +1,6 @@
-Start = 2018-10-14 17:24:47 +1300
+Start = 2018-10-14 22:01:49 +1300
 linzid	street_name	street_name_2	official_street_name
-3002235	Opotoru Rd Ext		Rangatahi Rd	-37.81169,174.86349
-3077782	Pattie Lane		Balmerino Lane	-37.71947,176.30940
-3079206	Fothers Lane		Vesey Dr	-37.55175,175.91536
-3079203	Vesey Dr		Mural Dr	-37.55049,175.91403
-3079203	Vesey Dr		Mural Dr	-37.55175,175.91536
-3079203	Vesey Dr		Mural Dr	-37.55097,175.91457
 #############################
 
-Finish = 2018-10-14 17:24:51 +1300
-Processing time = 3.47489
+Finish = 2018-10-14 22:01:51 +1300
+Processing time = 2.162307

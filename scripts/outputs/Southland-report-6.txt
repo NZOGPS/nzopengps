@@ -1,8 +1,6 @@
-Start = 2018-10-14 17:24:37 +1300
+Start = 2018-10-14 22:05:20 +1300
 linzid	street_name	street_name_2	official_street_name
-3077597	Ayshire Lane		Ayrshire Lane	-44.97958,168.76623
-3078532	Bilton Dr		Turner Tce	-44.99800,169.20806
 #############################
 
-Finish = 2018-10-14 17:24:40 +1300
-Processing time = 2.515195
+Finish = 2018-10-14 22:05:21 +1300
+Processing time = 1.819414

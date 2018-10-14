@@ -1,29 +1,10 @@
-Start = 2018-10-14 17:24:23 +1300
+Start = 2018-10-14 21:29:16 +1300
 #############################
 
-15 LINZ ids are missing from NZOGPS Wellington
-;linzid=3079411	Karearea Ave	-41.1433349935697,174.836903451063
-;linzid=3079413	Pihoihoi Pl	-41.1434626587849,174.835427589556
-;linzid=3079380	Jane Grace Way	-41.1905379825044,174.949265733131
-;linzid=3079412	Pateke Dr	-41.1452181238728,174.83786017709
-;linzid=3079414	Parekareka Lane	-41.143393266051,174.835450434996
-;linzid=3079416	Titipounamu Pl	-41.1434626587849,174.835427589556
-;linzid=3079415	Kaki Dr	-41.1435335664537,174.836183860929
-;linzid=3079420	Toutouwai Lane	-41.1436145795508,174.836905484068
-;linzid=3079419	Taiko Pl	-41.1442902253966,174.837466780737
-;linzid=3079422	Kamana Way	-41.1444201226862,174.838032306329
-;linzid=3079423	Tieke Lane	-41.1442902253966,174.837466780737
-;linzid=3079425	Moho Lane	-41.1428838292463,174.836363663484
-;linzid=3079424	Korora Way	-41.142945173027,174.836348742912
-;linzid=3079418	Whio Lane	-41.1435335664537,174.836183860929
-;linzid=3079417	Torea Pl	-41.1436145795508,174.836905484068
+0 LINZ ids are missing from NZOGPS Wellington
 #############################
 
-4 LINZ ids are in NZOGPS Wellington but missing from LINZ
-;linzid=1842224	Chapel Dr	-41.14489,174.83903
-;linzid=1799438	Dawson Crt	-40.35944,175.62527
-;linzid=1791477	Hall Rd	-41.14377,174.83451
-;linzid=1842226	Post Office Rd	-41.14276,174.83397
+0 LINZ ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Wellington
@@ -44,5 +25,5 @@ Start = 2018-10-14 17:24:23 +1300
 ;linznumbid=9500012	~[0x04]57	-40.53219,175.43243
 #############################
 
-Finish = 2018-10-14 17:24:25 +1300
-Processing time = 2.305264
+Finish = 2018-10-14 21:29:17 +1300
+Processing time = 1.641472

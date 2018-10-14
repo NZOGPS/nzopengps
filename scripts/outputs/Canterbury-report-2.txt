@@ -1,17 +1,7 @@
-Start = 2018-10-01 00:23:32 +1300
+Start = 2018-10-14 17:24:26 +1300
 #############################
 
-10 LINZ ids are missing from NZOGPS Canterbury
-;linzid=3079341	Rockburn St	-43.6159103850456,172.377676805441
-;linzid=3079340	Fairbairn Rd	-43.6149438541786,172.376484344004
-;linzid=3079342	Will St	-43.6149438541786,172.376484344004
-;linzid=3079343	Charles Major Rd	-43.6151482578056,172.381060106647
-;linzid=3079346	Kiddy Pl	-43.6134533001372,172.381519535427
-;linzid=3079347	Hepburn Pl	-43.6134533001372,172.381519535427
-;linzid=3079345	Marliece St	-43.6136293101081,172.37962895137
-;linzid=3079348	Burrow St	-43.6136293101081,172.37962895137
-;linzid=3079344	Widdowson Rd	-43.6143193271775,172.381284793431
-;linzid=3079349	Fry Pl	-43.6143193271775,172.381284793431
+0 LINZ ids are missing from NZOGPS Canterbury
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
@@ -38,5 +28,5 @@ Start = 2018-10-01 00:23:32 +1300
 ;linznumbid=700015	~[0x04]1	-43.32870,172.66609
 #############################
 
-Finish = 2018-10-01 00:23:34 +1300
-Processing time = 2.412021
+Finish = 2018-10-14 17:24:28 +1300
+Processing time = 2.735126

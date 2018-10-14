@@ -1,10 +1,15 @@
-Start = 2018-09-30 16:15:59 +1300
+Start = 2018-10-14 17:24:15 +1300
 #############################
 
-3 LINZ ids are missing from NZOGPS Northland
+8 LINZ ids are missing from NZOGPS Northland
 ;linzid=3079326	Ara Lane	-35.2387374524457,173.934113809858
 ;linzid=3079352	Maturiki Dr	-35.8350490597415,174.460051185975
 ;linzid=3079353	Kitemoana Rd	-35.8444245811087,174.476591606947
+;linzid=3079355	Pukepuke Pl	-35.7426004972728,174.316154251168
+;linzid=3079357	Topfield Pl	-35.7420476237677,174.315313142768
+;linzid=3079356	Titiro St	-35.7421614148707,174.314956796945
+;linzid=3079358	Limerock Lane	-35.7414853731421,174.314811996806
+;linzid=3079359	Suncrest Lane	-35.7416048791422,174.314484461843
 #############################
 
 0 LINZ ids are in NZOGPS Northland but missing from LINZ
@@ -17,5 +22,5 @@ Start = 2018-09-30 16:15:59 +1300
 ;linznumbid=9100001	~[0x04]12	-35.50410,173.39396
 #############################
 
-Finish = 2018-09-30 16:16:01 +1300
-Processing time = 1.295928
+Finish = 2018-10-14 17:24:16 +1300
+Processing time = 1.422544

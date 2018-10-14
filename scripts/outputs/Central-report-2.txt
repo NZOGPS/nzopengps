@@ -1,7 +1,8 @@
-Start = 2018-10-01 00:23:20 +1300
+Start = 2018-10-14 17:24:21 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Central
+1 LINZ ids are missing from NZOGPS Central
+;linzid=3079392	Clydesdale Way	-39.6168321792462,176.828174065518
 #############################
 
 0 LINZ ids are in NZOGPS Central but missing from LINZ
@@ -67,5 +68,5 @@ Start = 2018-10-01 00:23:20 +1300
 ;linznumbid=9400054	Crosses Rd	-39.66224,176.88390
 #############################
 
-Finish = 2018-10-01 00:23:22 +1300
-Processing time = 2.098503
+Finish = 2018-10-14 17:24:23 +1300
+Processing time = 2.34325

@@ -89,3 +89,4 @@
 1030000030583	E,98,98	Bader Dr	Mangere Bridge, Manukau(Auckland,NZ)	2017/11/17 14:33	-36.966030,174.795970
 1030000009320	O,317,317	Te Atatu Rd	Te Atatu Peninsula, Waitakere(Auckland,NZ)	2017/11/17 15:20	-36.858330,174.652950
 1030000008150	E,30,30	King Edward Pde	Devonport, North Shore City(Auckland,NZ)	2018/08/20 13:31	-36.831730,174.797070
+1030000195441	E,288,288	South-Eastern Hwy	Penrose, Auckland(Auckland,NZ)	2018/10/20 14:37	-36.919420,174.819730

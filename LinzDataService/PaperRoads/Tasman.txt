@@ -278,3 +278,4 @@
 1790469	Malfroys Tram	Awatuna(West Coast,NZ)	2017/11/07 21:51	-42.722660,171.152980
 3029946	Gadd Rd	Paroa, Greymouth(West Coast,NZ)	2018/02/26 21:53	-42.504856,171.171037
 1791386	Fountain St	Kaikoura(Canterbury,NZ)	2018/09/17 20:46	-42.417470,173.701620
+1788220	Low St	Port Nelson, Nelson(Nelson,NZ)	2018/10/25 21:23	-41.264200,173.275660

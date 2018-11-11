@@ -1,6 +1,8 @@
-Start = 2018-10-14 22:01:49 +1300
+Start = 2018-11-11 14:58:26 +1300
 linzid	street_name	street_name_2	official_street_name
+3078790	Montiicola Blvd		Montiicola Dr	-37.72268,176.33404
+3078790	Montiicola Blvd		Montiicola Dr	-37.72347,176.33117
 #############################
 
-Finish = 2018-10-14 22:01:51 +1300
-Processing time = 2.162307
+Finish = 2018-11-11 14:58:30 +1300
+Processing time = 3.944738

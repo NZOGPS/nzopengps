@@ -1,12 +1,10 @@
-Start = 2018-10-14 17:24:51 +1300
+Start = 2018-11-11 14:58:30 +1300
 linzid	street_name	street_name_2	official_street_name
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
 3064803	~[0x04]17	Albany Expressway	Dairy Flat Hwy	-36.73617,174.71645
-2017932	Provost Lane		Prevost Lane	-36.72296,174.71876
-2017932	Provost Lane		Prevost Lane	-36.72286,174.71922
-3078820	Tane Mahuta Way		Wai Rd	-36.82384,174.60442
-3078986	Awhina Rd		Awhina St	-36.95773,174.80018
+3057113	Tiamana Creek Rd		Taimana Stream Rd	-36.89617,174.45101
+3077744	Ibster Lane		Ibister Lane	-37.00720,174.89199
 #############################
 
-Finish = 2018-10-14 17:24:55 +1300
-Processing time = 3.808782
+Finish = 2018-11-11 14:58:34 +1300
+Processing time = 3.848767

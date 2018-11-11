@@ -1,6 +1,8 @@
-Start = 2018-10-14 21:29:17 +1300
+Start = 2018-11-11 14:58:22 +1300
 linzid	street_name	street_name_2	official_street_name
+1840515	Te Ariki Dr		Truebridge Dr	-40.54474,175.21577
+1840515	Te Ariki Dr		Truebridge Dr	-40.53711,175.21484
 #############################
 
-Finish = 2018-10-14 21:29:19 +1300
-Processing time = 1.439539
+Finish = 2018-11-11 14:58:24 +1300
+Processing time = 1.974357

@@ -1,6 +1,7 @@
-Start = 2018-10-14 22:05:20 +1300
+Start = 2018-11-11 14:58:17 +1300
 linzid	street_name	street_name_2	official_street_name
+3079426	Velden View		Velden Pl	-44.99809,169.20588
 #############################
 
-Finish = 2018-10-14 22:05:21 +1300
-Processing time = 1.819414
+Finish = 2018-11-11 14:58:19 +1300
+Processing time = 2.416226

@@ -1,17 +1,7 @@
-Start = 2018-11-14 22:57:48 +1300
+Start = 2018-11-18 14:14:11 +1300
 #############################
 
-10 LINZ ids are missing from NZOGPS Wellington
-;linzid=3079428	Roundhouse Cl	-41.1216678304486,174.90243092971
-;linzid=3079430	Gilruth Rd	-41.1348778600858,175.049897125049
-;linzid=3079431	Filmer Cres	-41.1348778600858,175.049897125049
-;linzid=3079433	Gateway Lane	-41.27576485,174.7826889
-;linzid=3079444	Paterson Lane	-40.3033511870374,175.681409287257
-;linzid=3079445	Colquhoun Way	-40.3039832373055,175.681024196145
-;linzid=3079446	Corsica Crt	-40.3974404838999,175.661312645549
-;linzid=3079447	Erewon Rd	-40.3971400343701,175.661630801494
-;linzid=3079456	Phoenix Palms Grv	-40.6178218895924,175.307606581799
-;linzid=3079517	Te Ariki Dr	-40.5447364,175.2155914333
+0 LINZ ids are missing from NZOGPS Wellington
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -35,5 +25,5 @@ Start = 2018-11-14 22:57:48 +1300
 ;linznumbid=9500012	~[0x04]57	-40.53219,175.43243
 #############################
 
-Finish = 2018-11-14 22:57:50 +1300
-Processing time = 2.002066
+Finish = 2018-11-18 14:14:13 +1300
+Processing time = 1.62476

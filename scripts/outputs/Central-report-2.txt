@@ -1,9 +1,7 @@
-Start = 2018-11-11 14:58:01 +1300
+Start = 2018-11-18 14:14:07 +1300
 #############################
 
-2 LINZ ids are missing from NZOGPS Central
-;linzid=3079498	Hare Puna Lane	-39.59631625989,176.896797198554
-;linzid=3079520	Greenpath Lane	-39.0906641242161,174.082301480926
+0 LINZ ids are missing from NZOGPS Central
 #############################
 
 0 LINZ ids are in NZOGPS Central but missing from LINZ
@@ -69,5 +67,5 @@ Start = 2018-11-11 14:58:01 +1300
 ;linznumbid=9400054	Crosses Rd	-39.66224,176.88390
 #############################
 
-Finish = 2018-11-11 14:58:03 +1300
-Processing time = 2.367243
+Finish = 2018-11-18 14:14:09 +1300
+Processing time = 1.75579

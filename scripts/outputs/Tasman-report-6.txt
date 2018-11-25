@@ -1,4 +1,4 @@
-Start = 2018-11-11 14:58:16 +1300
+Start = 2018-11-25 16:13:36 +1300
 linzid	street_name	street_name_2	official_street_name
 3032989	Settlement Rd ( 4WD Only)		Settlement Rd	-42.68954,171.22630
 3035522	Saxton Road Off Ramp		State Highway 6	-41.31809,173.21120
@@ -13,5 +13,5 @@ linzid	street_name	street_name_2	official_street_name
 3026325	~[0x04]6	State Highway 6	Collins Valley Rd	-41.15883,173.52852
 #############################
 
-Finish = 2018-11-11 14:58:17 +1300
-Processing time = 1.308579
+Finish = 2018-11-25 16:13:38 +1300
+Processing time = 1.303292

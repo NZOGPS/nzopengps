@@ -1,6 +1,6 @@
-Start = 2018-11-18 19:43:03 +1300
+Start = 2018-11-25 16:13:43 +1300
 linzid	street_name	street_name_2	official_street_name
 #############################
 
-Finish = 2018-11-18 19:43:05 +1300
-Processing time = 1.405778
+Finish = 2018-11-25 16:13:46 +1300
+Processing time = 2.363664

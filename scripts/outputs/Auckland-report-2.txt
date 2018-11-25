@@ -1,7 +1,7 @@
-Start = 2018-11-11 14:58:11 +1300
+Start = 2018-11-25 16:13:32 +1300
 #############################
 
-35 LINZ ids are missing from NZOGPS Auckland
+41 LINZ ids are missing from NZOGPS Auckland
 ;linzid=3079474	Whakato Ave	-36.7750714068278,174.558034118694
 ;linzid=3079479	Purapura Lane	-36.7741847437788,174.556980110854
 ;linzid=3079473	Honowai St	-36.7752355399852,174.557430903935
@@ -37,6 +37,12 @@ Start = 2018-11-11 14:58:11 +1300
 ;linzid=3079489	Carthey Rd	-36.6126964096511,174.658362012928
 ;linzid=3079490	Snowden St	-36.6145155272315,174.658279287767
 ;linzid=3079521	Aua Lane	-36.8744681151985,174.700640760701
+;linzid=3079549	Marine Garden Cres	-36.8929743022362,175.003949554026
+;linzid=3079548	Cadwil Dr	-36.8929743022362,175.003949554026
+;linzid=3079550	Sagar Lane	-37.0076052440302,174.889816702611
+;linzid=3079553	Fuselage Lane	-37.041788567162,174.925772653258
+;linzid=3079554	Hundalee Lane	-36.8486297368224,174.607550303469
+;linzid=3079559	Te Hiko Way	-36.9813934944673,174.828133144364
 #############################
 
 1 LINZ ids are in NZOGPS Auckland but missing from LINZ
@@ -49,5 +55,5 @@ Start = 2018-11-11 14:58:11 +1300
 0 Number range ids are in NZOGPS Auckland but missing from LINZ
 #############################
 
-Finish = 2018-11-11 14:58:14 +1300
-Processing time = 2.788108
+Finish = 2018-11-25 16:13:35 +1300
+Processing time = 2.971278

@@ -1,7 +1,7 @@
-Start = 2018-11-11 14:57:56 +1300
+Start = 2018-11-25 16:13:15 +1300
 #############################
 
-14 LINZ ids are missing from NZOGPS Tasman
+16 LINZ ids are missing from NZOGPS Tasman
 ;linzid=3026942	Main Rd	-41.614803119157,171.867426420892
 ;linzid=1786097	Jamesons Rd	-42.73086345,173.0346001167
 ;linzid=3027408	State Highway 67	-41.52923665,171.9670456167
@@ -16,6 +16,8 @@ Start = 2018-11-11 14:57:56 +1300
 ;linzid=3079435	Te Tio Tce	-41.3029615013704,174.109102945477
 ;linzid=3079514	Kakano Lane	-41.33672935,173.2070462
 ;linzid=3079523	Waterson Lane	-41.3278685009256,173.24105028475
+;linzid=3079532	Corleggy Rd	-41.8041197217718,173.863629446757
+;linzid=3079555	Toki Pl	-41.2421594833,173.8113550167
 #############################
 
 39 LINZ ids are in NZOGPS Tasman but missing from LINZ
@@ -70,5 +72,5 @@ Start = 2018-11-11 14:57:56 +1300
 0 Number range ids are in NZOGPS Tasman but missing from LINZ
 #############################
 
-Finish = 2018-11-11 14:57:58 +1300
-Processing time = 1.37656
+Finish = 2018-11-25 16:13:17 +1300
+Processing time = 1.575872

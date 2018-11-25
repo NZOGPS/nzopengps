@@ -1,7 +1,14 @@
-Start = 2018-11-18 14:14:03 +1300
+Start = 2018-11-25 16:13:28 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Waikato
+7 LINZ ids are missing from NZOGPS Waikato
+;linzid=3079530	Chafer Pl	-37.7533189529143,175.227065785151
+;linzid=3079531	Winders Rd	-37.7494592468742,175.227525922556
+;linzid=3079546	Wai Huri Pl	-37.6545872224528,176.023563746031
+;linzid=3079543	Mallard Way	-37.6456697956922,176.032513464103
+;linzid=3079560	Amelia Way	-37.7377283916153,176.115161960539
+;linzid=3079561	Mary Pl	-37.738150766532,176.115164675161
+;linzid=3079562	Lily Way	-37.7389310622072,176.115298816159
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -67,5 +74,5 @@ Start = 2018-11-18 14:14:03 +1300
 ;linznumbid=9300056	Overdale Rd	-38.02814,175.75363
 #############################
 
-Finish = 2018-11-18 14:14:05 +1300
-Processing time = 2.175193
+Finish = 2018-11-25 16:13:32 +1300
+Processing time = 3.4978

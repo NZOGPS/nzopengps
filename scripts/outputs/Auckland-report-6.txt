@@ -1,10 +1,11 @@
-Start = 2018-11-11 14:58:30 +1300
+Start = 2018-11-25 16:13:52 +1300
 linzid	street_name	street_name_2	official_street_name
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
 3064803	~[0x04]17	Albany Expressway	Dairy Flat Hwy	-36.73617,174.71645
 3057113	Tiamana Creek Rd		Taimana Stream Rd	-36.89617,174.45101
 3077744	Ibster Lane		Ibister Lane	-37.00720,174.89199
+3078469	Twelfth View Ave		Marangai Pl	-36.89173,175.00033
 #############################
 
-Finish = 2018-11-11 14:58:34 +1300
-Processing time = 3.848767
+Finish = 2018-11-25 16:13:56 +1300
+Processing time = 4.203117

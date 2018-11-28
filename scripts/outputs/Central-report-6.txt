@@ -1,7 +1,6 @@
-Start = 2018-11-25 16:13:41 +1300
+Start = 2018-11-26 17:58:43 +1300
 linzid	street_name	street_name_2	official_street_name
-1804442	Lake Rd		Lake Station Rd	-40.14996,176.44519
 #############################
 
-Finish = 2018-11-25 16:13:43 +1300
-Processing time = 2.474482
+Finish = 2018-11-26 17:58:45 +1300
+Processing time = 1.628476

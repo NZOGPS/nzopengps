@@ -1,9 +1,7 @@
-Start = 2018-11-25 16:13:25 +1300
+Start = 2018-11-28 22:11:02 +1300
 #############################
 
-2 LINZ ids are missing from NZOGPS Canterbury
-;linzid=3079545	Learners Rd	-43.6106948898486,172.391602928079
-;linzid=3079551	Makayla Lane	-43.6125346927442,172.371607826658
+0 LINZ ids are missing from NZOGPS Canterbury
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
@@ -30,5 +28,5 @@ Start = 2018-11-25 16:13:25 +1300
 ;linznumbid=700015	~[0x04]1	-43.32870,172.66609
 #############################
 
-Finish = 2018-11-25 16:13:28 +1300
-Processing time = 2.999707
+Finish = 2018-11-28 22:11:04 +1300
+Processing time = 1.907375

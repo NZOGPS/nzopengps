@@ -18,3 +18,75 @@
 413048	221 MARINE PARADE	2014/01/26 16:21	-41.297572,174.893048
 363784	1 ECCLESTON HILL	2014/02/13 18:52	-41.276519,174.776920
 1445508	140 MURI ROAD	2014/03/04 16:33	-41.034112,174.896616
+New 1/12/18
+1359224	2 Nikau Place, Otaki	2018/12/01 16:27	-40.755227,175.142014	Point is middle of road. Middle of roof is	-40.755112 175.141980
+1371709	23 Matai Street, Aorangi	2018/12/01 16:32	-40.241576,175.586555	Same side as 12, opposite 7,31
+1393452	22 Giesen Road, Feilding	2018/12/01 16:33	-40.229244,175.552193	After 15,17,19. Typo?
+1394890	178 Mount Stewart Halcombe Road, Sanson	2018/12/01 16:34	-40.225710,175.486114	Between 167 and 185. Otherwise following RAPID.
+1559674	180 Mount Stewart Halcombe Road, Sanson	2018/12/01 16:35	-40.225316,175.485359	Between 167 and 185. Otherwise following RAPID.
+1396178	658 Sugarloaf Road, Pongaroa	2018/12/01 16:36	-40.693186,176.218788	Seems to be same side of road as 609
+1421503	291 Woodlands Road, Woodville	2018/12/01 16:40	-40.308084,175.860620	Same side as 184,224
+1427130	260 Castle Hill Road, Alfredton	2018/12/01 16:45	-40.687741,175.887196	Obvious dwelling opposite. Roof at	-40.688257 175.887349
+1440835	155 Dalrymples Road, Parewanui, Tangimoana	2018/12/01 16:57	-40.225842,175.302768
+1448116	22 Bayview Road, Paremata, Porirua	2018/12/01 17:02	-41.104844,174.875514	Apparently odd location among 43,45,49
+1447862	24 Bayview Road, Paremata, Porirua	2018/12/01 17:02	-41.104784,174.875097	Apparently odd location among 43,45,49
+1456595	1470 Pahaoa Road, Hinakura	2018/12/01 17:06	-41.394627,175.718280	Right in front of 1469
+1458363	5 Kapuni Grove, Kenepuru, Porirua	2018/12/01 17:07	-41.151390,174.827945	Opposite 11. Looks like where 8 would be.
+1477119	996 Rangiotu Road, Rangiotu	2018/12/01 17:17	-40.417406,175.424170	RAPID looks like it would be 993
+1479466	364 Taonui Road, Aorangi	2018/12/01 17:19	-40.234536,175.631112
+1479467	366 Taonui Road, Aorangi	2018/12/01 17:19	-40.233647,175.632568
+1530243	133 Lagoon Hill Road, Tuturumuri	2018/12/01 17:21	-41.386584,175.524336	Road may have been realigned?
+1546045	1182 Opaki Kaiparoro Road, Mauriceville	2018/12/01 17:27	-40.790375,175.693088	RAPID looks like it should be 1183.
+1546168	147 Millers Road, Kopuaranga	2018/12/01 17:30	-40.851608,175.675898	RAPID looks like it should be 146/8.
+1546185	38 Knight Road, Kopuaranga	2018/12/01 17:31	-40.831420,175.665604	Based on imagery, it looks like your road (and this number) are too far north here. Drive at	-40.831555 175.665738 
+1549470	1 Dublin Street West, Martinborough	2018/12/01 17:36	-41.216448,175.452215	Could be historical? 
+1549472	42 Dublin Street West, Martinborough	2018/12/01 17:38	-41.213812,175.448586	Odd ones at end.
+1549469	41 Dublin Street West, Martinborough	2018/12/01 17:38	-41.213602,175.449583	Odd ones at end.
+1546866	263 Coopers Road, Bideford	2018/12/01 17:42	-40.833899,175.923855
+1564841	21 Riddiford Road, Longburn	2018/12/01 17:44	-40.371368,175.533458
+468187	132 Sierra Way, Blue Mountains	2018/12/01 17:44	-41.174988,175.044421
+1572437	30 Paruwai Road, Tuturumuri	2018/12/01 17:49	-41.387682,175.451078	No obvious dwelling, this point is a riverbed beside 209. RAPID would suggest around	-41.389402 175.464440
+1585973	20 Old Main Road, Maharahara	2018/12/01 17:55	-40.274152,176.010550	Next to 19. No dwelling?
+1588629	50 Arcus Road, Dalefield	2018/12/01 17:56	-41.016885,175.466707	Drive here would be RAPID 21. Dwelling that would fit numbering at	-41.015218 175.469577
+1615801	3 Duncan Street, Tauweru	2018/12/01 17:58	-40.964559,175.801303	Looks like your road and this point are too far to the west. Dwelling is at 	-40.964480 175.801590
+1710719	30 Watford Drive, Paraparaumu	2018/12/01 18:01	-40.899895,175.005531	Point appears to be offset from dwelling, which is more at	-40.899871 175.005755
+2025411	25 Ashmore Park Road, Carterton	2018/12/01 18:03	-41.035097,175.515004	Numbering seems a bit odd here. Maybe a work in progress, but will be confusing.
+2025412	27 Ashmore Park Road, Carterton	2018/12/01 18:03	-41.035037,175.514848	Numbering seems a bit odd here. Maybe a work in progress, but will be confusing.
+1612005	1151 Waitawhiti Road, Tinui	2018/12/01 18:09	-40.717486,176.094724	Numbering seems to change sides at the end.
+1612006	1163 Waitawhiti Road, Tinui	2018/12/01 18:09	-40.718580,176.094624	Numbering seems to change sides at the end.
+1718503	77 Nuku Street, Tangimoana	2018/12/01 18:13	-40.297394,175.254592
+1746786	90 Riverstone Drive, Riverstone Terraces, Upper Hutt	2018/12/01 18:14	-41.112792,175.049868	Point is in middle of road. Matching unnumbered dwelling at	-41.112709 175.050385
+444246	9 Oates Street, Stokes Valley, Lower Hutt	2018/12/01 18:22	-41.173795,174.981284	Odd point. Middle of carpark. Perhaps	-41.173730 174.981446
+356685	41 Patanga Crescent, Thorndon, Wellington	2018/12/01 18:34	-41.279210,174.766804	Point is in middle of road. Matching unnumbered dwelling at	-41.279150 174.766630
+641025	7 Avro Road, Blue Mountains	2018/12/01 18:35	-41.171720,175.031881	Looks to be between and behind 10 and 12
+589406	4 Taradale Road, Dannevirke	2018/12/01 18:37	-40.211634,176.088763
+591318	24 Cowper Side Road, Dannevirke	2018/12/01 18:37	-40.233222,176.120610
+591518	41 Ngapaeruru Road, Waitahora	2018/12/01 18:38	-40.266969,176.216147
+591768	25 Mangamaire Road, Weber	2018/12/01 18:40	-40.268291,176.278148	Same side as 356. Maybe that one's wrong?
+1938229	90 Pohangina Valley East Road, Ashhurst	2018/12/01 18:41	-40.207805,175.787255	Another driveway opposite that matches RAPID at	-40.208452 175.787938
+451461	21 Observation Place, Paraparaumu	2018/12/01 18:44	-40.910376,174.995492	Point is in middle of road. Dwelling with 21 on Streetview at	-40.910504 174.996079	23 is misplaced too.
+512178	141 Whitaunui Road, Opiki	2018/12/01 18:53	-40.485497,175.418838	Point is in middle of road. Dwelling is nearer to	-40.485119 175.418672
+464299	73 Russells Road, Whitemans Valley	2018/12/01 18:55	-41.204988,175.033967	Drive that matches my version of RAPID at	-41.203944 175.036702
+564483	36 Murphys Road, Pahiatua	2018/12/01 18:59	-40.412695,175.914365-	Point is in middle of road. Dwelling is nearer to	40.413023 175.914147
+380316	29 Duval Grove, Tawa, Wellington	2018/12/01 19:01	-41.173960,174.810774	Point is in middle of road. Dwelling is nearer to	-41.173877 174.810588
+588971	61 Kearney Road, Maharahara	2018/12/01 19:02	-40.252869,175.962204	Dwelling opposite that matches RAPID at	-40.252221 175.959017
+556784	66 Creek Flat Lane, Aokautere	2018/12/01 19:05	-40.388386,175.706630	Opposite side to 68 and 26. But no dwellings obvious,
+2106412	52 Johnstone Drive, Fitzherbert, Palmerston North	2018/12/01 19:07	-40.386573,175.647000	Odd location. Was this a placeholder? Now next to 87.
+530092	2-24 Olympus Circle, Linton Camp, Palmerston North	2018/12/01 19:11	-40.410598,175.590597	According to google maps, & streetview letterboxes, even nos are on the inside of the loop
+69491	53B Boar Bush Gully Road, Featherston	2018/12/01 19:14	-41.102258,175.321057	Odd number. There's no 53 anyway. Should it be 54B?
+556874	191 Black Rock Road, Te Ore Ore, Masterton	2018/12/01 19:15	-40.939018,175.711613	Wrong road association. Next to 189 Te Ore Ore road_id 556871
+556954	99 Orrs Road, Aokautere	2018/12/01 19:20	-40.331986,175.716522
+492867	103 Kaitoke Waterworks Road, Kaitoke, Upper Hutt	2018/12/01 19:21	-41.070704,175.200112	Appears to be a building that might match numbering at -41.068986 175.198492
+1587888	494 Mt Holdsworth Road, Tararua Forest Park	2018/12/01 19:23	-40.907512,175.484096	Building that might match numbering at -40.906648 175.481173
+551929	212 Parkville Road, Eketahuna	2018/12/01 19:25	-40.660170,175.662745
+1629354	381 Pikarere Street, Colonial Knob	2018/12/01 19:27	-41.129081,174.811000
+491333	305 Mangaone North Road, Hautere	2018/12/01 19:27	-40.835958,175.167128
+475244	545 Sandon Road, Feilding	2018/12/01 19:29	-40.203519,175.498429	Obvious dwelling here, but wrong side.
+1570693	3637 Cape Palliser Road, Cape Palliser	2018/12/01 19:30	-41.610552,175.277840	Middle of road. No construction nearby. RAPID match would be nearer -41.610507 175.278353
+1718487	496 Lethbridge Road, Feilding	2018/12/01 19:33	-40.172789,175.527245
+1852445	895 Putara Road, Eketahuna	2018/12/01 19:33	-40.680257,175.547930
+470858	745 Rongotea Road, Rongotea	2018/12/01 19:34	-40.301792,175.452928
+2120588	772 Tiratu Road, Dannevirke	2018/12/01 19:37	-40.221359,176.191283	Dwelling that might match numbering at	-40.221338 176.189376
+908711	1248 Otope Road, Dannevirke	2018/12/01 19:40	-40.327950,176.080461
+894476	686 Aranui Road, Kairanga	2018/12/01 19:41	-40.349035,175.495446
+1534473	153 Whareroto Road, Kahutara	2018/12/01 19:41	-41.224122,175.309040	This one might be right if Wharetoto bends, and follows Mangatete Rd, which means that is wrong...

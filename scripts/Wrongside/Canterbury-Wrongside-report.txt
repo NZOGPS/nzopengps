@@ -1,13 +1,13 @@
 10 entries in ..\..\LinzDataService\PaperRoads\Canterbury-WrongSide.txt
 Warning: 1549567 on line 131 in ..\..\LinzDataService\PaperRoads\Canterbury-LINZWrongSide.txt - This ID is also set in the ignore file
 162 entries in ..\..\LinzDataService\PaperRoads\Canterbury-LINZWrongSide.txt
-149 wrongside numbers, 21 not in Exclusion files
+152 wrongside numbers, 25 not in Exclusion files
 3 entries in Ignore list are no longer on the wrong side
 1709873	21A UPPER CRICHTON TERRACE	2013/10/18 15:41	-43.569960,172.627782
 1709882	19A UPPER CRICHTON TERRACE	2013/10/18 15:41	-43.569670,172.627176
 1709884	21B UPPER CRICHTON TERRACE	2013/10/18 15:41	-43.569875,172.627296
 
-41 entries in Linz list are no longer on the wrong side
+42 entries in Linz list are no longer on the wrong side
 906972	2 CARTERS ROAD	2013/10/13 23:38	-43.674369,172.509625
 120766	2846 Hakatere Potts Road	2015/04/10 10:52	-43.519740,170.874271
 290956	582 FLEA BAY ROAD	2013/10/13 23:21	-43.862402,172.997329
@@ -20,6 +20,7 @@ Warning: 1549567 on line 131 in ..\..\LinzDataService\PaperRoads\Canterbury-LINZ
 1356040	99B MAIN DRAIN ROAD	2013/10/13 23:46	-43.366926,172.618934
 215820	33 MAIN DRAIN ROAD	2013/10/13 23:45	-43.369949,172.625555
 290960	747 OVERTONS ROAD	2013/10/09 11:11	-42.894565,173.014233
+1549568	57 GOWERTON PLACE	2013/10/18 12:51	-43.519762,172.657440
 1549567	58 GOWERTON PLACE	2013/10/18 12:52	-43.519762,172.657319	55 is also close to centreline
 1420274	41 TAYLORS MISTAKE BAY (BEACH)	2013/10/16 10:32	-43.584981,172.776415	All the numbers here are quite close to the road - but this one's on the other side.
 1573458	153 OAKWOOD ROAD	2013/10/21 17:12	-44.362751,171.169286

@@ -1,10 +1,7 @@
-Start = 2018-11-26 17:58:49 +1300
+Start = 2018-12-02 16:35:11 +1300
 #############################
 
-3 LINZ ids are missing from NZOGPS Wellington
-;linzid=3079552	The Cutting Way	-40.3212270949678,175.630068356187
-;linzid=3079558	Kerrigan Cres	-41.1354500422299,175.050272094791
-;linzid=3079565	Maple Grv	-40.9653201352952,175.622913612131
+0 LINZ ids are missing from NZOGPS Wellington
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -28,5 +25,5 @@ Start = 2018-11-26 17:58:49 +1300
 ;linznumbid=9500012	~[0x04]57	-40.53219,175.43243
 #############################
 
-Finish = 2018-11-26 17:58:50 +1300
-Processing time = 1.629738
+Finish = 2018-12-02 16:35:13 +1300
+Processing time = 1.638605

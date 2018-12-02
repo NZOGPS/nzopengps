@@ -90,3 +90,10 @@ New 1/12/18
 908711	1248 Otope Road, Dannevirke	2018/12/01 19:40	-40.327950,176.080461
 894476	686 Aranui Road, Kairanga	2018/12/01 19:41	-40.349035,175.495446
 1534473	153 Whareroto Road, Kahutara	2018/12/01 19:41	-41.224122,175.309040	This one might be right if Wharetoto bends, and follows Mangatete Rd, which means that is wrong...
+Above sent to LINZ 20181201
+543159	3 Mountain View Road, Fitzherbert, Palmerston North	2018/12/02 16:16	-40.379616,175.626526	Appears to be in the verge between the road and the driveway.
+495107	308 Hokio Beach Road, Hokio Beach	2018/12/02 16:18	-40.621242,175.243871
+2151982	251 Priest Road, Eketahuna	2018/12/02 16:20	-40.645424,175.628846
+2151974	205 Castle Hill Road, Alfredton	2018/12/02 16:21	-40.686356,175.880310
+1547448	21 Orui-Riversdale Road, Riversdale Beach	2018/12/02 16:24	-41.082626,176.072458
+453782	97 Realm Drive, Paraparaumu	2018/12/02 16:33	-40.899046,175.005398	In the middle of the access road. Unnumbered dwelling at	S40°53.9527' E175°00.3220'

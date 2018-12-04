@@ -124,8 +124,7 @@ LINE: while (<MP>) {
 	if ($line =~ /;linznumbid=(\d+)/) { #skip the polyline;
 		$lnid = $1;
 		$line = <MP>;
-	} else { undef $lnid }
-	$line = <MP>;
+	} else { undef $lnid }	$line = <MP>;
 	if ($line =~ /;linz_road_sub_id=(\d+)/) {$lrsid = $1} else {die "linz_road_sub_id not found line $. - $line\n"};
 	$line = <MP>;
 	if ($line =~ /;linz_region=(\d+)/) {$lreg = $1} else {die "linz_region not found line $. - $line\n"};

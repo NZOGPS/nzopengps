@@ -11,6 +11,9 @@ my %lnids;
 my $filename;
 my $line;
 my $lid;
+my $lrsid;
+my $lreg;
+my $lloc;
 my $lnid;
 my $type;
 my $label;
@@ -122,6 +125,12 @@ LINE: while (<MP>) {
 		$lnid = $1;
 		$line = <MP>;
 	} else { undef $lnid }
+	$line = <MP>;
+	if ($line =~ /;linz_road_sub_id=(\d+)/) {$lrsid = $1} else {die "linz_road_sub_id not found line $. - $line\n"};
+	$line = <MP>;
+	if ($line =~ /;linz_region=(\d+)/) {$lreg = $1} else {die "linz_region not found line $. - $line\n"};
+	$line = <MP>;
+	if ($line =~ /;linz_locality=(\d+)/) {$lloc = $1} else {die "linz_locality not found line $. - $line\n"};
 	$line = <MP>;
 	if ($line =~ /Type=(.+)/) {$type = $1} else {die "type not found line $. - $line\n"};
 	$line = <MP>;

@@ -68,6 +68,10 @@ sub process_road(){
 	if ( defined $lnid ){
 		print OUT ";linznumbid=$lnid\n";
 	}
+	print OUT ";linz_road_sub_id=$lrsid\n";
+	print OUT ";linz_region=$lreg\n";
+	print OUT ";linz_locality=$lloc\n";
+	
 	print OUT "[POLYLINE]\n";
 	print OUT "Type=$type\n";
 	print OUT "Label=$label\n";
@@ -124,13 +128,14 @@ LINE: while (<MP>) {
 	if ($line =~ /;linznumbid=(\d+)/) { #skip the polyline;
 		$lnid = $1;
 		$line = <MP>;
-	} else { undef $lnid }	$line = <MP>;
+	} else { undef $lnid }
 	if ($line =~ /;linz_road_sub_id=(\d+)/) {$lrsid = $1} else {die "linz_road_sub_id not found line $. - $line\n"};
 	$line = <MP>;
-	if ($line =~ /;linz_region=(\d+)/) {$lreg = $1} else {die "linz_region not found line $. - $line\n"};
+	if ($line =~ /;linz_region=(.*)/) {$lreg = $1} else {die "linz_region not found line $. - $line\n"};
 	$line = <MP>;
-	if ($line =~ /;linz_locality=(\d+)/) {$lloc = $1} else {die "linz_locality not found line $. - $line\n"};
+	if ($line =~ /;linz_locality=(.*)/) {$lloc = $1} else {die "linz_locality not found line $. - $line\n"};
 	$line = <MP>;
+	$line = <MP>; #skip over polyline
 	if ($line =~ /Type=(.+)/) {$type = $1} else {die "type not found line $. - $line\n"};
 	$line = <MP>;
 	if ($line =~ /Label=(.+)/) {$label = $1} else {die "label not found line $. - $line\n"};

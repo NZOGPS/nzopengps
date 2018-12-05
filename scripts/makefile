@@ -32,14 +32,17 @@ install :  install-csv install-gdb
 .PHONY: install
 
 
-%.zip : $(LINZO)\%-LINZ-V4.mp $(OUTPUTS)\%-report-2.txt $(OUTPUTS)\%-report-6.txt $(OUTPUTS)\%-numbers-linzid.csv $(OUTPUTS)\%-numbers.gdb 
+%.zip : $(LINZO)\%-LINZ-V5.mp $(LINZO)\%-LINZ-V4.mp $(OUTPUTS)\%-report-2.txt $(OUTPUTS)\%-report-6.txt $(OUTPUTS)\%-numbers-linzid.csv $(OUTPUTS)\%-numbers.gdb 
 	$(ZIPIT) $@ $?
-	
+
 %-LINZ-V3.mp : %-LINZ.mp $(OUTPUTS)\%-report-2.txt
 	perl colourisenodise.pl $(notdir $*)
 
 %-LINZ-V4.mp : $(LINZO)\%-LINZ-V3.mp database.date
 	ruby parseLinzMP.rb $(call tilenum, $(notdir $*)) 3
+
+%-LINZ-V5.mp : %-LINZ-V4.mp
+	perl -ne "print unless /;linz_/" $? >$@
 
 %-LINZ.mp : $(LINZ)\lds-nz-road-centre-line-electoral-SHP\nz-road-centre-line-electoral.shp
 	cd $(LINZ) && ruby shape-parser.rb

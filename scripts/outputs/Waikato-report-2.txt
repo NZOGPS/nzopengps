@@ -1,7 +1,17 @@
-Start = 2018-11-30 18:05:25 +1300
+Start = 2019-01-07 14:03:01 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Waikato
+10 LINZ ids are missing from NZOGPS Waikato
+;linzid=3079575	Waitaumanu Way	-38.1324766944572,174.840528925024
+;linzid=3079574	Kowhainui Rise	-38.1332117202641,174.839256647764
+;linzid=3079578	Anglers Way	-37.6565146434157,176.027185176895
+;linzid=3079585	Winspear Pl	-37.6493768226265,176.033043504677
+;linzid=3079588	Josephine Pl	-37.6492274164934,176.033978831904
+;linzid=3079589	Whitworth Lane	-37.6492274164934,176.033978831904
+;linzid=3079591	Kakariki Lane	-37.7493380585372,176.169126759551
+;linzid=3079592	Kokopu Lane	-37.7507098373436,176.16985018519
+;linzid=3079595	Tongameha Way	-37.7334215779962,176.174000077131
+;linzid=3079631	Riroriro Way	-37.7393667613468,176.114391342955
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -67,5 +77,5 @@ Start = 2018-11-30 18:05:25 +1300
 ;linznumbid=9300056	Overdale Rd	-38.02814,175.75363
 #############################
 
-Finish = 2018-11-30 18:05:27 +1300
-Processing time = 2.870987
+Finish = 2019-01-07 14:03:04 +1300
+Processing time = 3.652834

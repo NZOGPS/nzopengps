@@ -1,7 +1,16 @@
-Start = 2018-12-05 12:11:52 +1300
+Start = 2019-01-07 14:02:57 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Canterbury
+9 LINZ ids are missing from NZOGPS Canterbury
+;linzid=3079570	Biggles Pl	-43.6272298553636,172.490196150378
+;linzid=3079569	Veuve Dr	-43.6256491513609,172.488267023549
+;linzid=3079571	Alfie Lane	-43.6272298553636,172.490196150378
+;linzid=3079572	Hull Cres	-43.6256491513609,172.488267023549
+;linzid=3079573	Banashet Dr	-43.6257167807364,172.486204907121
+;linzid=3079632	Kens Lane	-43.6405839682004,172.500244221547
+;linzid=3079633	Polar Lane	-43.6416745960619,172.501816897157
+;linzid=3079634	Florence Dr	-43.6393780208195,172.501117802462
+;linzid=3079635	Wakeman Dr	-43.6388637522435,172.501424046734
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
@@ -28,5 +37,5 @@ Start = 2018-12-05 12:11:52 +1300
 ;linznumbid=700015	~[0x04]1	-43.32870,172.66609
 #############################
 
-Finish = 2018-12-05 12:11:54 +1300
-Processing time = 2.376396
+Finish = 2019-01-07 14:03:01 +1300
+Processing time = 3.408911

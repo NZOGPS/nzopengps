@@ -1,7 +1,20 @@
-Start = 2018-11-28 22:16:40 +1300
+Start = 2019-01-07 14:02:48 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Southland
+13 LINZ ids are missing from NZOGPS Southland
+;linzid=3079566	Aitken Lane	-44.72577604329,168.364677875553
+;linzid=3079568	Cosmos Lane	-44.7254120438242,168.365730114749
+;linzid=3079567	Arcadia Lane	-44.7254120438242,168.365730114749
+;linzid=3079603	Shepherds Hut Way	-45.0676680306825,168.527775414834
+;linzid=3079604	Arbor Lane	-45.0666061756819,168.529339716991
+;linzid=3079605	Cleland Cl	-44.7152469961175,169.134221780956
+;linzid=3079606	Avalon Station Dr	-44.7095785220074,169.140693592066
+;linzid=3079610	Four Peaks Rd	-44.618456082932,169.257371383006
+;linzid=3079611	Lost Burn Rd	-44.6190935211688,169.257363479684
+;linzid=3079629	The Dutch Way	-44.6050721333,170.1914800167
+;linzid=3079630	Albert Pl	-44.6061060128018,170.190811527501
+;linzid=3079642	Central St	-45.0106943208939,168.746355910385
+;linzid=3079644	Glenimrie Cl	-45.8816109904098,170.364287013368
 #############################
 
 0 LINZ ids are in NZOGPS Southland but missing from LINZ
@@ -25,5 +38,5 @@ Start = 2018-11-28 22:16:40 +1300
 ;linznumbid=9800012	Porteous Rd	-45.69040,170.57020
 #############################
 
-Finish = 2018-11-28 22:16:42 +1300
-Processing time = 2.010353
+Finish = 2019-01-07 14:02:51 +1300
+Processing time = 3.142995

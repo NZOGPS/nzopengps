@@ -1,7 +1,8 @@
-Start = 2018-12-22 12:09:58 +1300
+Start = 2019-01-07 14:02:44 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Northland
+1 LINZ ids are missing from NZOGPS Northland
+;linzid=3079609	William Gilbert Dr	-36.1211205167,174.5772424833
 #############################
 
 0 LINZ ids are in NZOGPS Northland but missing from LINZ
@@ -14,5 +15,5 @@ Start = 2018-12-22 12:09:58 +1300
 ;linznumbid=9100001	~[0x04]12	-35.50410,173.39396
 #############################
 
-Finish = 2018-12-22 12:09:59 +1300
-Processing time = 0.933134
+Finish = 2019-01-07 14:02:46 +1300
+Processing time = 1.421548

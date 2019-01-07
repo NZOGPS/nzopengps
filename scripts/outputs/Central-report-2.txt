@@ -1,7 +1,10 @@
-Start = 2018-12-22 12:10:00 +1300
+Start = 2019-01-07 14:02:51 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Central
+3 LINZ ids are missing from NZOGPS Central
+;linzid=3079596	Grooby Pl	-39.6598630778773,176.900885656979
+;linzid=3079597	Leslie Crt	-39.6598630778773,176.900885656979
+;linzid=3079643	Maultsaid Pl	-39.6439669172204,176.800665876048
 #############################
 
 0 LINZ ids are in NZOGPS Central but missing from LINZ
@@ -67,5 +70,5 @@ Start = 2018-12-22 12:10:00 +1300
 ;linznumbid=9400054	Crosses Rd	-39.66224,176.88390
 #############################
 
-Finish = 2018-12-22 12:10:02 +1300
-Processing time = 1.824532
+Finish = 2019-01-07 14:02:54 +1300
+Processing time = 3.017037

@@ -1,12 +1,9 @@
-Start = 2019-01-07 14:03:26 +1300
+Start = 2019-01-13 17:42:02 +1300
 linzid	street_name	street_name_2	official_street_name
-1824757	Harlow Pl		Harlow Cres	-36.87576,174.85829
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
 3064803	~[0x04]17	Albany Expressway	Dairy Flat Hwy	-36.73617,174.71645
-1988551	Kedgley Rd		Kedgley Dr	-36.81573,174.60805
-3078729	Ambar Ridge Ave		Amber Ridge Rd	-36.82655,174.62389
-3078832	Whiro Lane		Takerei Way	-36.87466,174.87088
+3078729	Ambar Ridge Rd		Amber Ridge Rd	-36.82655,174.62389
 #############################
 
-Finish = 2019-01-07 14:03:30 +1300
-Processing time = 4.035712
+Finish = 2019-01-13 17:42:05 +1300
+Processing time = 2.677144

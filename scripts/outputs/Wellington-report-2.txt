@@ -1,18 +1,7 @@
-Start = 2019-01-07 14:02:54 +1300
+Start = 2019-01-13 18:41:45 +1300
 #############################
 
-11 LINZ ids are missing from NZOGPS Wellington
-;linzid=3079598	Niu Sala Way	-40.8912235732965,175.005525775623
-;linzid=3079599	Wi Hape Pakau Pl	-41.2265511921593,174.908318221917
-;linzid=3079600	Kauamo Cl	-41.2265511921593,174.908318221917
-;linzid=3079612	Rotorua Grv	-41.1310199487318,174.855716857145
-;linzid=3079613	Opaoa Way	-41.1327893233097,174.856823737075
-;linzid=3079636	Kanuka Dr	-40.372641876419,175.630656242366
-;linzid=3079640	Te Ara Lane	-40.3689872443399,175.629512584024
-;linzid=3079639	Awanui Ave	-40.3697370800877,175.630098962439
-;linzid=3079638	Te Kowhai Ave	-40.3706407403807,175.630338076683
-;linzid=3079641	Memorial Dr	-40.3716032365997,175.630631745617
-;linzid=3079637	Kura Ave	-40.3716032365997,175.630631745617
+0 LINZ ids are missing from NZOGPS Wellington
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -36,5 +25,5 @@ Start = 2019-01-07 14:02:54 +1300
 ;linznumbid=9500012	~[0x04]57	-40.53219,175.43243
 #############################
 
-Finish = 2019-01-07 14:02:57 +1300
-Processing time = 3.197944
+Finish = 2019-01-13 18:41:47 +1300
+Processing time = 1.738458

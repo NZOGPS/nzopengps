@@ -1,7 +1,7 @@
-Start = 2019-01-07 14:02:46 +1300
+Start = 2019-01-13 17:41:36 +1300
 #############################
 
-16 LINZ ids are missing from NZOGPS Tasman
+9 LINZ ids are missing from NZOGPS Tasman
 ;linzid=3026942	Main Rd	-41.614803119157,171.867426420892
 ;linzid=1786097	Jamesons Rd	-42.73086345,173.0346001167
 ;linzid=3027408	State Highway 67	-41.52923665,171.9670456167
@@ -9,14 +9,7 @@ Start = 2019-01-07 14:02:46 +1300
 ;linzid=3026936	Main Rd	-42.4380408,171.34598005
 ;linzid=3027406	State Highway 67	-41.7522230966366,171.624002127459
 ;linzid=1790705	South Spit Rd	-42.73705205,170.93883505
-;linzid=3060412	Malfroys Tram	-42.70472515,171.1049672333
 ;linzid=3078664	George Glenn Pl	-42.503688913273,171.175774255016
-;linzid=3078926	Rana Pl	-41.2492360187747,173.096172016762
-;linzid=3079365	Old Orchard Lane	-41.2411520380834,173.075737065972
-;linzid=3079435	Te Tio Tce	-41.3029615013704,174.109102945477
-;linzid=3079514	Kakano Lane	-41.33672935,173.2070462
-;linzid=3079523	Waterson Lane	-41.3278685009256,173.24105028475
-;linzid=3079532	Corleggy Rd	-41.8041197217718,173.863629446757
 ;linzid=3079555	Toki Pl	-41.2421594833,173.8113550167
 #############################
 
@@ -72,5 +65,5 @@ Start = 2019-01-07 14:02:46 +1300
 0 Number range ids are in NZOGPS Tasman but missing from LINZ
 #############################
 
-Finish = 2019-01-07 14:02:48 +1300
-Processing time = 1.667466
+Finish = 2019-01-13 17:41:37 +1300
+Processing time = 1.470019

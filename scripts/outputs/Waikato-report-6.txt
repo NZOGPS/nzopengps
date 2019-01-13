@@ -1,8 +1,6 @@
-Start = 2019-01-07 14:03:22 +1300
+Start = 2019-01-13 17:41:42 +1300
 linzid	street_name	street_name_2	official_street_name
-3078267	Kerikori Way		Kerekori Way	-37.87490,175.46398
-3079218	Westcott Pl		Wescott Pl	-37.69636,176.10565
 #############################
 
-Finish = 2019-01-07 14:03:25 +1300
-Processing time = 3.190981
+Finish = 2019-01-13 17:41:44 +1300
+Processing time = 2.211305

@@ -1,8 +1,7 @@
-Start = 2019-02-10 18:02:11 +1300
+Start = 2019-02-11 11:19:47 +1300
 linzid	street_name	street_name_2	official_street_name
 3033541	Cascade Pyke Valley Rd		Cascade Pyke Valley Road - legality not determined	-44.31153,168.22678
-1842441	Durrells Cres		Durells Cres	-43.38269,172.63204
 #############################
 
-Finish = 2019-02-10 18:02:14 +1300
-Processing time = 2.630159
+Finish = 2019-02-11 11:19:49 +1300
+Processing time = 1.876435

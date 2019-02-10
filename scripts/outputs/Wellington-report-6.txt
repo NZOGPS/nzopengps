@@ -1,6 +1,7 @@
-Start = 2019-01-13 18:41:47 +1300
+Start = 2019-02-10 18:02:09 +1300
 linzid	street_name	street_name_2	official_street_name
+3079598	Niu Sala Way		Niu Sila Way	-40.89122,175.00553
 #############################
 
-Finish = 2019-01-13 18:41:48 +1300
-Processing time = 1.511529
+Finish = 2019-02-10 18:02:11 +1300
+Processing time = 2.044346

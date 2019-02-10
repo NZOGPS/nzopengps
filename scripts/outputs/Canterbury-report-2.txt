@@ -1,10 +1,20 @@
-Start = 2019-01-13 17:41:54 +1300
+Start = 2019-02-10 18:01:52 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Canterbury
+9 LINZ ids are missing from NZOGPS Canterbury
+;linzid=3079654	Vaughan Dr	-43.6060871506959,172.367170345382
+;linzid=3079659	Peony Rose Lane	-43.5899761330812,172.517605668997
+;linzid=3079660	La Fontaine Pl	-43.5892364025631,172.51685599974
+;linzid=3079661	William Deans Dr	-43.5826718817591,172.518434181773
+;linzid=3079662	Mary Gebbie Ave	-43.5835335191509,172.518189373119
+;linzid=3079663	James Prebble Dr	-43.582080808912,172.517801382186
+;linzid=3079710	Le Comte Lane	-43.5769194252892,172.495893133288
+;linzid=3079711	Classiebawn Lane	-43.5751803616962,172.497399689056
+;linzid=3079720	Gold Valley Rd	-43.7070990510647,172.652569302629
 #############################
 
-0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
+1 LINZ ids are in NZOGPS Canterbury but missing from LINZ
+;linzid=1842417	Conrad Cl	-43.58967,172.39568
 #############################
 
 0 Number range ids are missing from NZOGPS Canterbury
@@ -28,5 +38,5 @@ Start = 2019-01-13 17:41:54 +1300
 ;linznumbid=700015	~[0x04]1	-43.32870,172.66609
 #############################
 
-Finish = 2019-01-13 17:41:57 +1300
-Processing time = 2.680073
+Finish = 2019-02-10 18:01:55 +1300
+Processing time = 3.025033

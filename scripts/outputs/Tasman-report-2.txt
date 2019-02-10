@@ -1,7 +1,7 @@
-Start = 2019-01-13 17:41:36 +1300
+Start = 2019-02-10 18:01:42 +1300
 #############################
 
-9 LINZ ids are missing from NZOGPS Tasman
+13 LINZ ids are missing from NZOGPS Tasman
 ;linzid=3026942	Main Rd	-41.614803119157,171.867426420892
 ;linzid=1786097	Jamesons Rd	-42.73086345,173.0346001167
 ;linzid=3027408	State Highway 67	-41.52923665,171.9670456167
@@ -11,9 +11,13 @@ Start = 2019-01-13 17:41:36 +1300
 ;linzid=1790705	South Spit Rd	-42.73705205,170.93883505
 ;linzid=3078664	George Glenn Pl	-42.503688913273,171.175774255016
 ;linzid=3079555	Toki Pl	-41.2421594833,173.8113550167
+;linzid=3079699	Piwakawaka Dr	-41.3249729039065,173.23115899419
+;linzid=3079700	Lilyvale Cres	-41.3237360644405,173.229818495797
+;linzid=3079701	Wrights Pl	-41.3249729039065,173.23115899419
+;linzid=3079702	Lloyds Way	-41.2711887861418,173.268138729572
 #############################
 
-39 LINZ ids are in NZOGPS Tasman but missing from LINZ
+40 LINZ ids are in NZOGPS Tasman but missing from LINZ
 ;linzid=1786077	Conical Hill Rd	-42.50705,172.82833
 ;linzid=3074563	Walkway	-41.40097,173.05135
 ;linzid=1770862	Service Lane	-41.34232,173.18710
@@ -37,6 +41,7 @@ Start = 2019-01-13 17:41:36 +1300
 ;linzid=1791699	Beach Rd	-42.39948,173.67991
 ;linzid=1788028	Atarau Rd	-42.33555,171.48304
 ;linzid=1789975	~[0x04]7	-42.11989,171.87101
+;linzid=3073922	Walkway	-41.31687,173.22064
 ;linzid=1789967	State Highway 67	-41.64134,171.84285
 ;linzid=1789966	~[0x04]67	-41.71305,171.76258
 ;linzid=1789964	Nikau Rd	-41.59765,171.88499
@@ -65,5 +70,5 @@ Start = 2019-01-13 17:41:36 +1300
 0 Number range ids are in NZOGPS Tasman but missing from LINZ
 #############################
 
-Finish = 2019-01-13 17:41:37 +1300
-Processing time = 1.470019
+Finish = 2019-02-10 18:01:43 +1300
+Processing time = 1.363563

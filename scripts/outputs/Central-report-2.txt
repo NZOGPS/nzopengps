@@ -1,10 +1,16 @@
-Start = 2019-01-13 17:41:44 +1300
+Start = 2019-02-10 18:01:46 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Central
+5 LINZ ids are missing from NZOGPS Central
+;linzid=3079668	St Pats Grv	-38.6755292833,176.0599946667
+;linzid=3079658	Bridgeman Lane	-39.6322972295194,176.859077015327
+;linzid=3079669	Hato Patariki Lane	-38.67712585,176.0585047667
+;linzid=3079725	Te Ara Kahikatea	-39.6074238214112,176.876926857045
+;linzid=3079736	Elm Pl	-40.0127289984458,176.559543722958
 #############################
 
-0 LINZ ids are in NZOGPS Central but missing from LINZ
+1 LINZ ids are in NZOGPS Central but missing from LINZ
+;linzid=3076488	Service Lane	-39.49081,176.91766
 #############################
 
 0 Number range ids are missing from NZOGPS Central
@@ -67,5 +73,5 @@ Start = 2019-01-13 17:41:44 +1300
 ;linznumbid=9400054	Crosses Rd	-39.66224,176.88390
 #############################
 
-Finish = 2019-01-13 17:41:47 +1300
-Processing time = 2.474171
+Finish = 2019-02-10 18:01:49 +1300
+Processing time = 2.741124

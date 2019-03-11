@@ -1,7 +1,6 @@
-Start = 2019-02-10 18:02:01 +1300
+Start = 2019-03-11 13:23:32 +1300
 linzid	street_name	street_name_2	official_street_name
-1830731	James Rd		Waa Hoterene Rd	-35.51262,173.97662
 #############################
 
-Finish = 2019-02-10 18:02:03 +1300
-Processing time = 1.281589
+Finish = 2019-03-11 13:23:33 +1300
+Processing time = 1.366561

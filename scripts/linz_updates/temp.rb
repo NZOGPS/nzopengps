@@ -137,8 +137,8 @@ def put_csv_in_postgres()
 	abort("Processing aborted! csv definition file #{FN_3383}.vrt not found!") if !File.file?("#{FN_3383}.vrt")
 
 	#use ogr to import csv files into postgres
-	system("#{ogr_cmd} --config PG_USE_COPY TRUE -overwrite -f \"PostgreSQL\" \"PG:host=localhost user=postgres  dbname=nzopengps\" -lco OVERWRITE=yes  #{FN_3353}.vrt")
-	system("#{ogr_cmd} --config PG_USE_COPY TRUE -overwrite -f \"PostgreSQL\" \"PG:host=localhost user=postgres  dbname=nzopengps\" -lco OVERWRITE=yes  #{FN_3383}.vrt")
+	system("#{ogr_cmd} --config PG_USE_COPY TRUE -overwrite -f \"PostgreSQL\" \"PG:host=localhost user=postgres  dbname=nzopengps\" -lco OVERWRITE=yes  #{FN_3353}.vrt") or abort("Failed to run #{ogr_cmd} on #{FN_3353}")
+	system("#{ogr_cmd} --config PG_USE_COPY TRUE -overwrite -f \"PostgreSQL\" \"PG:host=localhost user=postgres  dbname=nzopengps\" -lco OVERWRITE=yes  #{FN_3383}.vrt") or abort("Failed to run #{ogr_cmd} on #{FN_3353}")
 
 	#do postprocessing of addresses in postgres
 	@conn.exec "ALTER TABLE #{FN_3353} ADD COLUMN is_odd boolean"

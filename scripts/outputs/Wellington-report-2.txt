@@ -1,16 +1,11 @@
-Start = 2019-02-10 18:01:49 +1300
+Start = 2019-03-11 13:23:19 +1300
 #############################
 
-9 LINZ ids are missing from NZOGPS Wellington
-;linzid=3079664	Pheasant Lane	-40.3597456076566,175.655055955441
-;linzid=3079673	Highfield Pl	-41.2173616667,174.8639610333
-;linzid=3079703	Coralie Pl	-40.9341994327626,175.668416522316
-;linzid=3079707	Jessie Donald Way	-41.1908504662268,174.937957474013
-;linzid=3079706	Avalon Park Dr	-41.1908504662268,174.937957474013
-;linzid=3079712	Ronalds Way	-41.1692337892826,174.965789751861
-;linzid=3079713	Haunui Pl	-40.3251541144154,175.623436195476
-;linzid=3079714	Teiaroa St	-40.8678151297186,175.067072369823
-;linzid=3079717	Remutaka Lane	-41.0313542348172,175.514429127878
+4 LINZ ids are missing from NZOGPS Wellington
+;linzid=3079752	Robbie Lane	-40.2684528036392,175.733861496015
+;linzid=3079753	Sir Herbert Hart Ave	-40.9341994327626,175.668416522316
+;linzid=3079756	Impala Lane	-40.2704676115172,175.699332619389
+;linzid=3079780	Snappers Lane	-40.4708210038267,175.238198141606
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -34,5 +29,5 @@ Start = 2019-02-10 18:01:49 +1300
 ;linznumbid=9500012	~[0x04]57	-40.53219,175.43243
 #############################
 
-Finish = 2019-02-10 18:01:52 +1300
-Processing time = 2.448216
+Finish = 2019-03-11 13:23:22 +1300
+Processing time = 2.714129

@@ -1,11 +1,7 @@
-Start = 2019-03-11 13:23:16 +1300
+Start = 2019-03-16 16:06:05 +1300
 #############################
 
-4 LINZ ids are missing from NZOGPS Central
-;linzid=3079747	Longstaff Dr	-39.0280345289815,174.158981461961
-;linzid=3079748	Kakariki Lane	-39.0382025062122,174.126870033882
-;linzid=3079759	Riverstone Tce	-39.8961696203142,176.715926889905
-;linzid=3079763	Jack Williams Lane	-39.9946336834293,176.557611022691
+0 LINZ ids are missing from NZOGPS Central
 #############################
 
 0 LINZ ids are in NZOGPS Central but missing from LINZ
@@ -71,5 +67,5 @@ Start = 2019-03-11 13:23:16 +1300
 ;linznumbid=9400054	Crosses Rd	-39.66224,176.88390
 #############################
 
-Finish = 2019-03-11 13:23:19 +1300
-Processing time = 2.681142
+Finish = 2019-03-16 16:06:08 +1300
+Processing time = 2.562783

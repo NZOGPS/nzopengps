@@ -1,11 +1,7 @@
-Start = 2019-03-11 13:23:19 +1300
+Start = 2019-03-17 21:10:46 +1300
 #############################
 
-4 LINZ ids are missing from NZOGPS Wellington
-;linzid=3079752	Robbie Lane	-40.2684528036392,175.733861496015
-;linzid=3079753	Sir Herbert Hart Ave	-40.9341994327626,175.668416522316
-;linzid=3079756	Impala Lane	-40.2704676115172,175.699332619389
-;linzid=3079780	Snappers Lane	-40.4708210038267,175.238198141606
+0 LINZ ids are missing from NZOGPS Wellington
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -29,5 +25,5 @@ Start = 2019-03-11 13:23:19 +1300
 ;linznumbid=9500012	~[0x04]57	-40.53219,175.43243
 #############################
 
-Finish = 2019-03-11 13:23:22 +1300
-Processing time = 2.714129
+Finish = 2019-03-17 21:10:48 +1300
+Processing time = 1.936572

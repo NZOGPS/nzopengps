@@ -14,7 +14,7 @@
 1785144	O,141,387	E,122,390	Mill Road	Oxford (Canterbury, NZ)
 1785230	E,352,354	Gladstone Road	Pegasus (Canterbury, NZ)
 1785241	O,121,121	Kings Avenue
-1785331	O,131,143	E,128,128	Topito Road
+1785331	O,131,153	E,128,128	Topito Road
 1780585	E,22,24	O,13,13		Lower High Street	Coalgate (Canterbury, NZ)
 1786269	O,351,351	Kennedys Bush Road	Halswell, Christchurch (Canterbury, NZ)
 3044768	E,700,700	Memorial Avenue	Christchurch Airport, Christchurch (Canterbury, NZ)

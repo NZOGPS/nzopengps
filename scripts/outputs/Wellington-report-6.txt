@@ -1,8 +1,6 @@
-Start = 2019-03-11 13:23:40 +1300
+Start = 2019-03-17 21:10:48 +1300
 linzid	street_name	street_name_2	official_street_name
-3034488			Buchanan Rd	-41.15948,174.96968
-3034488			Buchanan Rd	-41.16113,174.96894
 #############################
 
-Finish = 2019-03-11 13:23:42 +1300
-Processing time = 2.160309
+Finish = 2019-03-17 21:10:50 +1300
+Processing time = 1.61154

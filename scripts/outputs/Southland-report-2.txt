@@ -1,20 +1,11 @@
-Start = 2019-04-07 14:35:02 +1200
+Start = 2019-04-07 21:43:30 +1200
 #############################
 
-10 LINZ ids are missing from NZOGPS Southland
-;linzid=3079785	Sequoia Cl	-45.2448957965353,169.372696915084
-;linzid=3079789	Livingstone Lane	-45.0188979824517,168.712750413784
-;linzid=3079795	Matipo Way	-46.4443612128228,168.303447344587
-;linzid=3079796	Blairlogie Cl	-46.4317809620434,168.289387519367
-;linzid=3079797	Pegasus Pl	-46.4184500667,168.40779646667
-;linzid=3079799	Ravenhill Rd	-45.0121173061461,168.746083681587
-;linzid=3079801	Greenfield Lane	-45.0111257016409,168.746415959997
-;linzid=3079800	Shire St	-45.0119279855785,168.746357171489
-;linzid=3079802	Pippin Pl	-45.0111257016409,168.746415959997
-;linzid=3079842	Tuwhare Lane	-45.8802997140133,170.363679799965
+0 LINZ ids are missing from NZOGPS Southland
 #############################
 
-0 LINZ ids are in NZOGPS Southland but missing from LINZ
+1 LINZ ids are in NZOGPS Southland but missing from LINZ
+;linzid=1610658	Sunrise Dr	-46.41843,168.40779
 #############################
 
 0 Number range ids are missing from NZOGPS Southland
@@ -35,5 +26,5 @@ Start = 2019-04-07 14:35:02 +1200
 ;linznumbid=9800012	Porteous Rd	-45.69040,170.57020
 #############################
 
-Finish = 2019-04-07 14:35:05 +1200
-Processing time = 3.353801
+Finish = 2019-04-07 21:43:33 +1200
+Processing time = 2.529192

@@ -1,16 +1,8 @@
-Start = 2019-04-07 14:35:11 +1200
+Start = 2019-04-07 21:10:20 +1200
 #############################
 
-9 LINZ ids are missing from NZOGPS Canterbury
+1 LINZ ids are missing from NZOGPS Canterbury
 ;linzid=3079720	Gold Valley Rd	-43.7070990510647,172.652569302629
-;linzid=3079784	Stratford Way	-43.300418671083,172.565658178076
-;linzid=3079812	Long Acre Dr	-43.578124500099,172.618459508428
-;linzid=3079813	Aubrey Lane	-43.578124500099,172.618459508428
-;linzid=3079830	Bunz Rd	-43.584574327847,172.579800064338
-;linzid=3079833	Caro Lane	-43.5792935709616,172.620736313077
-;linzid=3079840	Jimmys Lane	-44.0099950105847,170.474488366958
-;linzid=3079839	Edwards Lane	-44.0099950105847,170.474488366958
-;linzid=3079841	Coulson Lane	-44.0114861467785,170.47256729125
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
@@ -37,5 +29,5 @@ Start = 2019-04-07 14:35:11 +1200
 ;linznumbid=700015	~[0x04]1	-43.32870,172.66609
 #############################
 
-Finish = 2019-04-07 14:35:14 +1200
-Processing time = 3.253532
+Finish = 2019-04-07 21:10:22 +1200
+Processing time = 2.223299

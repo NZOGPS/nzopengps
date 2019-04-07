@@ -1,10 +1,26 @@
-Start = 2019-03-17 21:10:41 +1300
+Start = 2019-04-07 14:35:14 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Waikato
+14 LINZ ids are missing from NZOGPS Waikato
+;linzid=3079803	Crest Rise	-37.7231298040947,175.246043753748
+;linzid=3079814	Union Dr	-37.7308175043556,176.342312390994
+;linzid=3079816	Moko Lane	-37.7276952242263,176.336878555227
+;linzid=3079817	Taniko Lane	-37.7279944680054,176.336745363895
+;linzid=3079818	Haka Pl	-37.7283975642514,176.336565948549
+;linzid=3079819	Pakati Lane	-37.7287622099277,176.336403647286
+;linzid=3079820	Manaia Pl	-37.7291980614832,176.336284689991
+;linzid=3079821	Royal Cres	-37.7281338275143,176.337047631141
+;linzid=3079815	Silver Fern Lane	-37.7284111499702,176.33748794213
+;linzid=3079822	Gold Lane	-37.7289182967913,176.337972858474
+;linzid=3079823	Navy Lane	-37.7284111499702,176.33748794213
+;linzid=3079824	Anchor Cres	-37.7308175043556,176.342312390994
+;linzid=3079825	Hughan Craig Pl	-37.7210919097169,176.130401480912
+;linzid=3079828	Coptic Way	-37.2211707113365,175.012068692957
 #############################
 
-0 LINZ ids are in NZOGPS Waikato but missing from LINZ
+2 LINZ ids are in NZOGPS Waikato but missing from LINZ
+;linzid=3053689	~[0x04]30	-38.50946,175.29980
+;linzid=1806039	Sylvester Rd	-37.72516,175.24629
 #############################
 
 0 Number range ids are missing from NZOGPS Waikato
@@ -67,5 +83,5 @@ Start = 2019-03-17 21:10:41 +1300
 ;linznumbid=9300056	Overdale Rd	-38.02814,175.75363
 #############################
 
-Finish = 2019-03-17 21:10:43 +1300
-Processing time = 2.478701
+Finish = 2019-04-07 14:35:18 +1200
+Processing time = 3.803988

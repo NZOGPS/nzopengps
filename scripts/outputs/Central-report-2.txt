@@ -1,7 +1,9 @@
-Start = 2019-03-16 16:06:05 +1300
+Start = 2019-04-07 14:35:05 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Central
+2 LINZ ids are missing from NZOGPS Central
+;linzid=3079790	Blackwood Lane	-39.6444265837657,176.610105352926
+;linzid=3079806	Maru Tce	-38.7305332464744,176.074870329295
 #############################
 
 0 LINZ ids are in NZOGPS Central but missing from LINZ
@@ -67,5 +69,5 @@ Start = 2019-03-16 16:06:05 +1300
 ;linznumbid=9400054	Crosses Rd	-39.66224,176.88390
 #############################
 
-Finish = 2019-03-16 16:06:08 +1300
-Processing time = 2.562783
+Finish = 2019-04-07 14:35:08 +1200
+Processing time = 2.890619

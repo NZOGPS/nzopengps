@@ -1,10 +1,11 @@
-Start = 2019-03-16 16:06:00 +1300
+Start = 2019-04-07 21:43:30 +1200
 #############################
 
 0 LINZ ids are missing from NZOGPS Southland
 #############################
 
-0 LINZ ids are in NZOGPS Southland but missing from LINZ
+1 LINZ ids are in NZOGPS Southland but missing from LINZ
+;linzid=1610658	Sunrise Dr	-46.41843,168.40779
 #############################
 
 0 Number range ids are missing from NZOGPS Southland
@@ -25,5 +26,5 @@ Start = 2019-03-16 16:06:00 +1300
 ;linznumbid=9800012	Porteous Rd	-45.69040,170.57020
 #############################
 
-Finish = 2019-03-16 16:06:03 +1300
-Processing time = 2.703149
+Finish = 2019-04-07 21:43:33 +1200
+Processing time = 2.529192

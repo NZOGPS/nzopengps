@@ -1,8 +1,15 @@
-Start = 2019-03-16 16:06:17 +1300
+Start = 2019-04-07 14:35:40 +1200
 linzid	street_name	street_name_2	official_street_name
+1814251	South Hwy		South Hwy W	-36.83974,175.68590
+1814251	South Hwy		South Hwy W	-36.84177,175.70137
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
 3064803	~[0x04]17	Albany Expressway	Dairy Flat Hwy	-36.73617,174.71645
+2017931	Mary Potter Cl		May Potter Cl	-36.72342,174.71821
+2017931	Mary Potter Cl		May Potter Cl	-36.72283,174.71873
+3079489	Carthey Rd		Carthy Rd	-36.61270,174.65836
+3079490	Snowden St		Snowden Rd	-36.61434,174.65903
+3079490	Snowden St		Snowden Rd	-36.61452,174.65828
 #############################
 
-Finish = 2019-03-16 16:06:20 +1300
-Processing time = 2.57216
+Finish = 2019-04-07 14:35:45 +1200
+Processing time = 4.678504

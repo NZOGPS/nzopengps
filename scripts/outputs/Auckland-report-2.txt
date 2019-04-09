@@ -1,16 +1,24 @@
-Start = 2019-03-16 16:06:14 +1300
+Start = 2019-04-07 14:35:18 +1200
 #############################
 
-6 LINZ ids are missing from NZOGPS Auckland
-;linzid=3079749	Countryside Way	-36.7083990031912,174.719720902806
-;linzid=3079750	Kanorau Pl	-36.9729851889119,174.795944773232
-;linzid=3079755	Lois Lane	-36.848123138989,175.801836113709
-;linzid=3079758	Clonmany Rd	-36.9838998041213,174.913766246054
-;linzid=3079757	Bushfield Dr	-36.9838998041213,174.913766246054
-;linzid=3079779	Parbhubhai Maken Lane	-36.8771869619152,174.870078270515
+13 LINZ ids are missing from NZOGPS Auckland
+;linzid=3079826	South Hwy E	-36.8397364333,175.69050145
+;linzid=3079786	Waymau Lane	-36.7045168597044,174.63935167669
+;linzid=3079788	Mata Lane	-36.6352017452684,174.736087916825
+;linzid=3079791	Francesco Dr	-37.0687039526108,174.916252833033
+;linzid=3079792	Brianna Pl	-37.0687039526108,174.916252833033
+;linzid=3079805	Waihanga Way	-36.8830826744255,174.911884817955
+;linzid=3079835	Livery Lane	-36.8006402577362,174.573719532217
+;linzid=3079831	McIndoe Rd	-36.7663124413963,174.528409229631
+;linzid=3079832	Cutfield Lane	-36.7639340209769,174.529843400396
+;linzid=3079834	EJ Osborne Lane	-36.7982292102198,174.573822915914
+;linzid=3079836	Champers Way	-36.3990103571055,174.652247125624
+;linzid=3079838	Hikuwai Lane	-36.3990103571055,174.652247125624
+;linzid=3079837	Alfred Peter Cres	-36.3980784772505,174.651103922436
 #############################
 
-0 LINZ ids are in NZOGPS Auckland but missing from LINZ
+1 LINZ ids are in NZOGPS Auckland but missing from LINZ
+;linzid=3074725	Walkway	-36.77609,174.67212
 #############################
 
 0 Number range ids are missing from NZOGPS Auckland
@@ -19,5 +27,5 @@ Start = 2019-03-16 16:06:14 +1300
 0 Number range ids are in NZOGPS Auckland but missing from LINZ
 #############################
 
-Finish = 2019-03-16 16:06:17 +1300
-Processing time = 2.756766
+Finish = 2019-04-07 14:35:22 +1200
+Processing time = 3.424158

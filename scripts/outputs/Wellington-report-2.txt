@@ -1,9 +1,7 @@
-Start = 2019-04-07 14:35:08 +1200
+Start = 2019-04-10 17:40:15 +1200
 #############################
 
-2 LINZ ids are missing from NZOGPS Wellington
-;linzid=3079783	Te Kaeaea Cres	-41.1340477120573,175.052392930123
-;linzid=3079804	Stetson Rise	-40.8611955447155,175.050466265753
+0 LINZ ids are missing from NZOGPS Wellington
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -27,5 +25,5 @@ Start = 2019-04-07 14:35:08 +1200
 ;linznumbid=9500012	~[0x04]57	-40.53219,175.43243
 #############################
 
-Finish = 2019-04-07 14:35:11 +1200
-Processing time = 2.815844
+Finish = 2019-04-10 17:40:18 +1200
+Processing time = 2.687151

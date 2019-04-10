@@ -1,22 +1,10 @@
-Start = 2019-04-07 14:34:58 +1200
+Start = 2019-04-10 17:39:56 +1200
 #############################
 
-11 LINZ ids are missing from NZOGPS Northland
-;linzid=3079787	Ototara Lane	-36.2787647400621,174.600706939572
-;linzid=3079793	Sand Dune Lane	-36.1144300287723,174.591714917754
-;linzid=3079794	Garden Way	-36.1158114714471,174.591107582996
-;linzid=3079798	Horizon View Pl	-36.1148979935693,174.591875963348
-;linzid=3079811	Kahikatea Tree Lane	-35.9895517234818,174.446478882636
-;linzid=3079807	Appletree Lane	-35.2349334668769,173.957036230237
-;linzid=3079808	Green Estate Dr	-35.9895517234818,174.446478882636
-;linzid=3079809	Kermadec Cres	-35.9880145680306,174.446664330344
-;linzid=3079810	Puka Way	-35.9895517234818,174.446478882636
-;linzid=3079827	Waterside Way	-34.8177541308693,173.12119004249
-;linzid=3079829	Peach Lane	-36.2380197854629,174.332667605859
+0 LINZ ids are missing from NZOGPS Northland
 #############################
 
-1 LINZ ids are in NZOGPS Northland but missing from LINZ
-;linzid=3074809	Service Lane	-35.05046,173.74462
+0 LINZ ids are in NZOGPS Northland but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Northland
@@ -26,5 +14,5 @@ Start = 2019-04-07 14:34:58 +1200
 ;linznumbid=9100001	~[0x04]12	-35.50410,173.39396
 #############################
 
-Finish = 2019-04-07 14:35:00 +1200
-Processing time = 1.390621
+Finish = 2019-04-10 17:39:58 +1200
+Processing time = 1.641491

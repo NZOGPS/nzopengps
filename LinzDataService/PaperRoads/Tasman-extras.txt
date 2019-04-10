@@ -1,0 +1,4 @@
+1837895	The Anchorage (Beach)	Torrent Bay(Tasman,NZ)	2019/04/10 19:10	-40.955120,173.060880
+1837898	Torrent Bay (Beach)	Torrent Bay(Tasman,NZ)	2019/04/10 19:11	-40.943590,173.049040
+1837897	Awaroa Inlet (Beach)	Awaroa(Tasman,NZ)	2019/04/10 19:11	-40.861700,173.024450
+1837896	Awaroa Bay (Beach)	Awaroa(Tasman,NZ)	2019/04/10 19:12	-40.858800,173.041490

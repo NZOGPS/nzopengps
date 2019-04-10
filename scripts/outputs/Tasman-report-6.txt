@@ -1,13 +1,9 @@
-Start = 2019-04-10 17:40:07 +1200
+Start = 2019-04-10 18:32:23 +1200
 linzid	street_name	street_name_2	official_street_name
 3032989	Settlement Rd ( 4WD Only)		Settlement Rd	-42.68954,171.22630
-3034665	~[0x04]6		Nelson St	-41.50804,173.95912
 1788712	Wills Rd (4wd Only Ford)		Wills Rd	-41.21287,172.99981
-3012174	~[0x04]7	State Highway 7	Ikamatua Hwy	-42.28687,171.67111
 1790396	Greenstone Rd (Unmaintained)		Greenstone Rd	-42.66869,171.18008
-3023214	Kaipakaki Point Rd		Kaipakati Point Rd	-42.04197,171.36770
-3026325	~[0x04]6	State Highway 6	Collins Valley Rd	-41.15883,173.52852
 #############################
 
-Finish = 2019-04-10 17:40:08 +1200
-Processing time = 1.074655
+Finish = 2019-04-10 18:32:24 +1200
+Processing time = 1.045707

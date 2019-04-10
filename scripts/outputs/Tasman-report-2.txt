@@ -1,8 +1,7 @@
-Start = 2019-04-10 17:40:05 +1200
+Start = 2019-04-10 18:32:22 +1200
 #############################
 
-17 LINZ ids are missing from NZOGPS Tasman
-;linzid=3026942	Main Rd	-41.614803119157,171.867426420892
+16 LINZ ids are missing from NZOGPS Tasman
 ;linzid=1786097	Jamesons Rd	-42.73086345,173.0346001167
 ;linzid=3027408	State Highway 67	-41.52923665,171.9670456167
 ;linzid=3027683	State Highway 1	-42.6398559333,173.3232341667
@@ -21,52 +20,34 @@ Start = 2019-04-10 17:40:05 +1200
 ;linzid=3079762	Youngberry Dr	-41.3345796410044,173.168855197056
 #############################
 
-34 LINZ ids are in NZOGPS Tasman but missing from LINZ
-;linzid=3074563	Walkway	-41.40097,173.05135
-;linzid=1791693	~[0x04]6	-41.51042,173.83723
+17 LINZ ids are in NZOGPS Tasman but missing from LINZ
 ;linzid=1791697	~[0x04]1	-41.28585,174.00436
-;linzid=1789941	~[0x04]6	-41.38011,173.11050
-;linzid=1787884	Main Rd	-41.61644,171.86584
-;linzid=1790779	~[0x04]6	-42.44869,171.21622
+;linzid=1790779	~[0x04]6	-42.44531,171.21675
 ;linzid=1787837	Lewis Pass Rd	-42.59007,172.77719
-;linzid=1789944	State Highway 6	-41.45166,172.83619
-;linzid=1789965	Buller Rd	-41.76733,171.59273
-;linzid=1839276	~[0x04]6	-41.33551,173.18373
-;linzid=1789939	~[0x04]6	-41.22647,173.39697
-;linzid=1790796	~[0x04]7	-42.35015,171.53738
-;linzid=1789976	State Highway 7	-42.28687,171.67111
-;linzid=3073682	~[0x04]63	-41.52090,173.74862
+;linzid=1789965	~[0x04]67	-41.76684,171.59279
+;linzid=1839276	~[0x04]6	-41.33662,173.18176
 ;linzid=1789946	Upper Buller Gorge Rd	-41.78910,172.11462
 ;linzid=1791699	Beach Rd	-42.39948,173.67991
 ;linzid=1788028	Atarau Rd	-42.33555,171.48304
-;linzid=1789975	~[0x04]7	-42.11989,171.87101
-;linzid=1789967	State Highway 67	-41.64134,171.84285
-;linzid=1789966	~[0x04]67	-41.71305,171.76258
-;linzid=1789964	Nikau Rd	-41.59765,171.88499
-;linzid=1789889	Main Rd	-41.60693,171.87703
 ;linzid=1842378	Atarau Rd	-42.27200,171.68402
 ;linzid=1789970	~[0x04]69	-42.10653,171.85318
 ;linzid=1837898	Torrent Bay (Beach)	-40.94359,173.04904
 ;linzid=1837895	The Anchorage (Beach)	-40.95512,173.06088
 ;linzid=1837897	Awaroa Inlet (Beach)	-40.86170,173.02445
 ;linzid=1837896	Awaroa Bay (Beach)	-40.85880,173.04149
-;linzid=1789960	Takaka Valley Hwy	-41.03359,172.82306
 ;linzid=1789961	Takaka-Collingwood Hwy	-40.71447,172.67801
 ;linzid=1789945	~[0x04]6	-41.79986,172.33622
 ;linzid=1790316	Railway Reserve	-42.40080,171.25672
-;linzid=1808511	~[0x04]60	-41.03113,172.86461
-;linzid=3077599	Martin Conway Rd	-41.28550,173.05099
 #############################
 
-4 Number range ids are missing from NZOGPS Tasman
-;linznumbid=1000029	State Highway 1	-42.4163809988021,173.630218889945
-;linznumbid=1000020	Main Rd	-41.614803119157,171.867426420892
-;linznumbid=1000019	Main Rd	-41.6036124667,171.88034905
-;linznumbid=1000016	State Highway 1	-42.6398559333,173.3232341667
+0 Number range ids are missing from NZOGPS Tasman
 #############################
 
 0 Number range ids are in NZOGPS Tasman but missing from LINZ
 #############################
 
-Finish = 2019-04-10 17:40:07 +1200
-Processing time = 1.786422
+;linznumbid=1000016 has inconsistent LINZ Ids! nzogps: 3027684 linz: 3027683	~[0x04]1	-42.64118,173.32217
+#############################
+
+Finish = 2019-04-10 18:32:23 +1200
+Processing time = 1.188605

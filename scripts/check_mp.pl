@@ -90,6 +90,7 @@ my %polytype = (
 	0x46 => "Major Lake   ",
 	0x4a => "Map Selection",
 	0x47 => "Large River  ",
+	0x4E => "Plantation   ",
 	0x50 => "Forest       ",
 
 );

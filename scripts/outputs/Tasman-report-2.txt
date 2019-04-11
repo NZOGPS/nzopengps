@@ -1,15 +1,7 @@
-Start = 2019-04-10 18:32:22 +1200
+Start = 2019-04-12 09:26:25 +1200
 #############################
 
-16 LINZ ids are missing from NZOGPS Tasman
-;linzid=1786097	Jamesons Rd	-42.73086345,173.0346001167
-;linzid=3027408	State Highway 67	-41.52923665,171.9670456167
-;linzid=3027683	State Highway 1	-42.6398559333,173.3232341667
-;linzid=3026936	Main Rd	-42.4380408,171.34598005
-;linzid=3027406	State Highway 67	-41.7522230966366,171.624002127459
-;linzid=3035522	State Highway 6	-41.3218185,173.2110978167
-;linzid=1790705	South Spit Rd	-42.73705205,170.93883505
-;linzid=3078664	George Glenn Pl	-42.503688913273,171.175774255016
+8 LINZ ids are missing from NZOGPS Tasman
 ;linzid=3079555	Toki Pl	-41.2421594833,173.8113550167
 ;linzid=3079699	Piwakawaka Dr	-41.3249729039065,173.23115899419
 ;linzid=3079700	Lilyvale Cres	-41.3237360644405,173.229818495797
@@ -20,34 +12,16 @@ Start = 2019-04-10 18:32:22 +1200
 ;linzid=3079762	Youngberry Dr	-41.3345796410044,173.168855197056
 #############################
 
-17 LINZ ids are in NZOGPS Tasman but missing from LINZ
-;linzid=1791697	~[0x04]1	-41.28585,174.00436
-;linzid=1790779	~[0x04]6	-42.44531,171.21675
-;linzid=1787837	Lewis Pass Rd	-42.59007,172.77719
-;linzid=1789965	~[0x04]67	-41.76684,171.59279
-;linzid=1839276	~[0x04]6	-41.33662,173.18176
-;linzid=1789946	Upper Buller Gorge Rd	-41.78910,172.11462
-;linzid=1791699	Beach Rd	-42.39948,173.67991
-;linzid=1788028	Atarau Rd	-42.33555,171.48304
-;linzid=1842378	Atarau Rd	-42.27200,171.68402
-;linzid=1789970	~[0x04]69	-42.10653,171.85318
-;linzid=1837898	Torrent Bay (Beach)	-40.94359,173.04904
-;linzid=1837895	The Anchorage (Beach)	-40.95512,173.06088
-;linzid=1837897	Awaroa Inlet (Beach)	-40.86170,173.02445
-;linzid=1837896	Awaroa Bay (Beach)	-40.85880,173.04149
-;linzid=1789961	Takaka-Collingwood Hwy	-40.71447,172.67801
-;linzid=1789945	~[0x04]6	-41.79986,172.33622
-;linzid=1790316	Railway Reserve	-42.40080,171.25672
+0 LINZ ids are in NZOGPS Tasman but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Tasman
 #############################
 
-0 Number range ids are in NZOGPS Tasman but missing from LINZ
+2 Number range ids are in NZOGPS Tasman but missing from LINZ
+;linznumbid=9600001	Atarau Rd	-42.27203,171.68394
+;linznumbid=9600002	Atarau Rd	-42.31644,171.53498
 #############################
 
-;linznumbid=1000016 has inconsistent LINZ Ids! nzogps: 3027684 linz: 3027683	~[0x04]1	-42.64118,173.32217
-#############################
-
-Finish = 2019-04-10 18:32:23 +1200
-Processing time = 1.188605
+Finish = 2019-04-12 09:26:26 +1200
+Processing time = 0.988881

@@ -1,15 +1,7 @@
-Start = 2019-04-13 16:38:02 +1200
+Start = 2019-04-28 15:59:48 +1200
 #############################
 
-8 LINZ ids are missing from NZOGPS Tasman
-;linzid=3079555	Toki Pl	-41.2421594833,173.8113550167
-;linzid=3079699	Piwakawaka Dr	-41.3249729039065,173.23115899419
-;linzid=3079700	Lilyvale Cres	-41.3237360644405,173.229818495797
-;linzid=3079701	Wrights Pl	-41.3249729039065,173.23115899419
-;linzid=3079702	Lloyds Way	-41.2711887861418,173.268138729572
-;linzid=3079760	Hatters Tce	-42.4080193270635,171.52008710422
-;linzid=3079761	Kotata St	-41.3337616062015,173.172664092514
-;linzid=3079762	Youngberry Dr	-41.3345796410044,173.168855197056
+0 LINZ ids are missing from NZOGPS Tasman
 #############################
 
 0 LINZ ids are in NZOGPS Tasman but missing from LINZ
@@ -18,10 +10,12 @@ Start = 2019-04-13 16:38:02 +1200
 0 Number range ids are missing from NZOGPS Tasman
 #############################
 
-2 Number range ids are in NZOGPS Tasman but missing from LINZ
+4 Number range ids are in NZOGPS Tasman but missing from LINZ
 ;linznumbid=9600001	Atarau Rd	-42.27203,171.68394
 ;linznumbid=9600002	Atarau Rd	-42.31644,171.53498
+;linznumbid=9600003	~[0x04]6	-41.85699,171.95640
+;linznumbid=9600004	~[0x04]6	-41.83017,172.00008
 #############################
 
-Finish = 2019-04-13 16:38:03 +1200
-Processing time = 0.984374
+Finish = 2019-04-28 15:59:49 +1200
+Processing time = 1.015674

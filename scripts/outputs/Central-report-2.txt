@@ -1,7 +1,10 @@
-Start = 2019-04-07 21:10:16 +1200
+Start = 2019-05-12 18:59:55 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Central
+3 LINZ ids are missing from NZOGPS Central
+;linzid=3079848	Mead Lane	-39.3415073,175.3875360333
+;linzid=3079849	Teitei Dr	-39.420099,175.4045353333
+;linzid=3079868	Willowbrook Pl	-39.5912190931734,176.912213218789
 #############################
 
 0 LINZ ids are in NZOGPS Central but missing from LINZ
@@ -67,5 +70,5 @@ Start = 2019-04-07 21:10:16 +1200
 ;linznumbid=9400054	Crosses Rd	-39.66224,176.88390
 #############################
 
-Finish = 2019-04-07 21:10:18 +1200
-Processing time = 2.031349
+Finish = 2019-05-12 18:59:58 +1200
+Processing time = 3.151613

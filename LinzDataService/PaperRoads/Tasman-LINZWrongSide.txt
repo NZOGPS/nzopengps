@@ -71,3 +71,15 @@
 333748	1 Edith Street	2014/07/19 13:47	-41.529550,173.944233
 1377429	8 Fourth Lane	2014/07/19 13:52	-41.515052,173.954068	2 and 8 on either side
 301206	106 Bryant Road	2014/07/19 15:03	-41.364699,173.108788
+# New 16:48 12/05/19
+1849064	500 Hamama Road, Takaka	2019/05/12 16:48	-40.930313,172.770670	There's a drive matching RAPID numbering at	S40°55.7920' E172°46.2422'
+1932207	590 Abel Tasman Drive, Clifton	2019/05/12 16:55	-40.843652,172.864235	Other addresses on this road match RAPID numbering.
+2000221	124 Anakiwa Road, Anakiwa	2019/05/12 17:29	-41.280879,173.902753	All other addresses are odd numbers. Could be a typo? Or should be on the other side of the road?
+72295	191 Merrifields Road, Blind River	2019/05/12 17:42	-41.694866,174.125546	Other addresses match RAPID. Nothing obvious at RAPID location.
+400288	92 Beach Road, Collingwood	2019/05/12 17:50	-40.682700,172.686505	Seems to be the wrong side of road. Dwelling at S40°40.9688' E172°41.1724'
+297601	89 Grey Street, Motueka	2019/05/12 17:56	-41.118799,173.002859
+2145154	473 Stock Road, Golden Downs	2019/05/12 18:00	-41.554419,172.923744
+2145153	1271 Korere-Tophouse Road, Atapo	2019/05/12 18:02	-41.630960,172.827748
+2130538	583 Tasman View Road, Lower Moutere	2019/05/12 18:13	-41.194807,173.022408	Other addresses match RAPID. Obvious dwelling/construction here. Seems like it should be 546 based on RAPID.
+2040905	2589 Archers Road, Tennyson Inlet	2019/05/12 18:47	-41.114030,173.752623	Nothing at this point. RAPID match would be around	S41°06.7247' E173°45.2126'
+2008383	60 Horizon Way, Riwaka	2019/05/12 18:52	-41.078864,172.976667	This one's a bit strange. There's a dwelling matching 60 at 

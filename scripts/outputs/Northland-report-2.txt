@@ -1,7 +1,9 @@
-Start = 2019-04-10 17:39:56 +1200
+Start = 2019-05-12 18:59:48 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Northland
+2 LINZ ids are missing from NZOGPS Northland
+;linzid=3079844	Fieldstone Lane	-35.7486128372013,174.272164981237
+;linzid=3079888	Pheasant Lane	-35.901592905156,174.424221883507
 #############################
 
 0 LINZ ids are in NZOGPS Northland but missing from LINZ
@@ -14,5 +16,5 @@ Start = 2019-04-10 17:39:56 +1200
 ;linznumbid=9100001	~[0x04]12	-35.50410,173.39396
 #############################
 
-Finish = 2019-04-10 17:39:58 +1200
-Processing time = 1.641491
+Finish = 2019-05-12 18:59:49 +1200
+Processing time = 1.529485

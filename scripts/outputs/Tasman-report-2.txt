@@ -1,10 +1,15 @@
-Start = 2019-04-28 15:59:48 +1200
+Start = 2019-05-12 18:59:50 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Tasman
+4 LINZ ids are missing from NZOGPS Tasman
+;linzid=3079851	Crathie Pl	-41.2896607307722,173.273654503962
+;linzid=3079852	Grampian Oaks Lane	-41.2896607307722,173.273654503962
+;linzid=3079853	Koura Rd	-41.2463397167,173.3274915833
+;linzid=3079854	Komako Way	-41.2474863396003,173.328256386377
 #############################
 
-0 LINZ ids are in NZOGPS Tasman but missing from LINZ
+1 LINZ ids are in NZOGPS Tasman but missing from LINZ
+;linzid=1790620	Domain Terrace Extension	-42.47486,171.18420
 #############################
 
 0 Number range ids are missing from NZOGPS Tasman
@@ -17,5 +22,5 @@ Start = 2019-04-28 15:59:48 +1200
 ;linznumbid=9600004	~[0x04]6	-41.83017,172.00008
 #############################
 
-Finish = 2019-04-28 15:59:49 +1200
-Processing time = 1.015674
+Finish = 2019-05-12 18:59:51 +1200
+Processing time = 1.688073

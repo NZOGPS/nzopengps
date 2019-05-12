@@ -1,1 +1,3 @@
 313837	2A Washington Terrace	2014/07/19 01:45	-41.271540,173.268150
+398715	1479 Aorere Valley Road, Kahurangi National Park	2019/05/12 17:54	-40.847995,172.448039
+2122058	2B Washington Terrace, Washington Valley, Nelson	2019/05/12 18:36	-41.271561,173.268184

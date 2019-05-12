@@ -1,24 +1,33 @@
 40 entries in ..\..\LinzDataService\PaperRoads\Wellington-WrongSide.txt
-96 entries in ..\..\LinzDataService\PaperRoads\Wellington-LINZWrongSide.txt
-120 wrongside numbers, 1 not in Exclusion files
-10 entries in Ignore list are no longer on the wrong side
+97 entries in ..\..\LinzDataService\PaperRoads\Wellington-LINZWrongSide.txt
+155 wrongside numbers, 44 not in Exclusion files
+14 entries in Ignore list are no longer on the wrong side
 1691755	3 ASHFORD LANE	2013/12/22 18:14	-41.123661,175.072152
 1938260	103A Warwick Street, Feilding	2018/08/21 22:39	-40.224258,175.560045
 1451595	13 KEEL PLACE	2013/12/30 16:38	-41.114430,174.889217
 411021	12B HERBERT STREET	2014/02/20 16:13	-41.210741,174.894339
+344454	19 WILLIAMSON WAY	2014/01/24 15:35	-41.292793,174.720227
 1481264	1A SPENCER RUSSELL DRIVE	2013/12/28 11:55	-40.920177,174.999209
 359534	22A ONTARIO STREET	2013/12/22 09:31	-41.321944,174.765542
 606319	11 CABLE CAR LANE	2014/01/24 15:52	-41.284245,174.774809
+1683138	32B THE SQUARE	2013/12/21 08:02	-40.357001,175.610632
 443247	25A Mt Cecil Road, Moonshine Valley	2018/12/01 18:50	-41.134674,174.980429
 358974	2 COOLIDGE STREET	2014/03/03 14:39	-41.308922,174.768024
-1849960	26 Gifford Grove, Churton Park, Wellington	2018/08/21 23:12	-41.193073,174.801451
+1683136	32A THE SQUARE	2013/12/21 08:03	-40.356681,175.610439
+451024	160 Kapiti Road, Paraparaumu	2018/12/01 19:15	-40.903825,174.995408
+495106	306 HOKIO BEACH ROAD	2013/12/26 10:01	-40.620146,175.244992
 
-7 entries in Linz list are no longer on the wrong side
-1564841	21 Riddiford Road, Longburn	2018/12/01 17:44	-40.371368,175.533458
+12 entries in Linz list are no longer on the wrong side
+1396178	658 Sugarloaf Road, Pongaroa	2018/12/01 16:36	-40.693186,176.218788	Seems to be same side of road as 609
 495107	308 Hokio Beach Road, Hokio Beach	2018/12/02 16:18	-40.621242,175.243871
 1458363	5 Kapuni Grove, Kenepuru, Porirua	2018/12/01 17:07	-41.151390,174.827945	Opposite 11. Looks like where 8 would be.
+380316	29 Duval Grove, Tawa, Wellington	2018/12/01 19:01	-41.173960,174.810774	Point is in middle of road. Dwelling is nearer to	-41.173877 174.810588
+356685	41 Patanga Crescent, Thorndon, Wellington	2018/12/01 18:34	-41.279210,174.766804	Point is in middle of road. Matching unnumbered dwelling at	-41.279150 174.766630
+1359224	2 Nikau Place, Otaki	2018/12/01 16:27	-40.755227,175.142014	Point is middle of road. Middle of roof is	-40.755112 175.141980
 556874	191 Black Rock Road, Te Ore Ore, Masterton	2018/12/01 19:15	-40.939018,175.711613	Wrong road association. Next to 189 Te Ore Ore road_id 556871
-1746786	90 Riverstone Drive, Riverstone Terraces, Upper Hutt	2018/12/01 18:14	-41.112792,175.049868	Point is in middle of road. Matching unnumbered dwelling at	-41.112709 175.050385
+1456595	1470 Pahaoa Road, Hinakura	2018/12/01 17:06	-41.394627,175.718280	Right in front of 1469
+453782	97 Realm Drive, Paraparaumu	2018/12/02 16:33	-40.899046,175.005398	In the middle of the access road. Unnumbered dwelling at	S40°53.9527' E175°00.3220'
+1427130	260 Castle Hill Road, Alfredton	2018/12/01 16:45	-40.687741,175.887196	Obvious dwelling opposite. Roof at	-40.688257 175.887349
 556797	24 MOSS ROAD	2013/12/22 09:55	-40.618015,175.705273
 543159	3 Mountain View Road, Fitzherbert, Palmerston North	2018/12/02 16:16	-40.379616,175.626526	Appears to be in the verge between the road and the driveway.
 

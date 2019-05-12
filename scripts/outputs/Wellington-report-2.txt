@@ -1,7 +1,9 @@
-Start = 2019-04-10 17:40:15 +1200
+Start = 2019-05-12 18:59:58 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Wellington
+2 LINZ ids are missing from NZOGPS Wellington
+;linzid=3079845	Rose Way	-41.2115982362279,174.921919972941
+;linzid=3079886	Three Paddock Lane	-40.3839476724946,175.62952329049
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -25,5 +27,5 @@ Start = 2019-04-10 17:40:15 +1200
 ;linznumbid=9500012	~[0x04]57	-40.53219,175.43243
 #############################
 
-Finish = 2019-04-10 17:40:18 +1200
-Processing time = 2.687151
+Finish = 2019-05-12 19:00:01 +1200
+Processing time = 2.868556

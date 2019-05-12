@@ -1,7 +1,13 @@
-Start = 2019-04-28 15:59:43 +1200
+Start = 2019-05-12 18:59:51 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Southland
+6 LINZ ids are missing from NZOGPS Southland
+;linzid=3079881	Campbell Rd	-44.7101226989936,169.141181952922
+;linzid=3079882	Doug Ledgerwood Dr	-44.7098961813627,169.144571797218
+;linzid=3079883	Peterculter Dr	-44.7106212786343,169.141691769464
+;linzid=3079884	Marjon Dr	-44.7119389201805,169.143088338685
+;linzid=3079885	Ferguson Dr	-44.6997287287024,169.157111374894
+;linzid=3079911	Fyall Dr	-46.2457426062065,169.69688818904
 #############################
 
 0 LINZ ids are in NZOGPS Southland but missing from LINZ
@@ -25,5 +31,5 @@ Start = 2019-04-28 15:59:43 +1200
 ;linznumbid=9800012	Porteous Rd	-45.69040,170.57020
 #############################
 
-Finish = 2019-04-28 15:59:45 +1200
-Processing time = 2.15348
+Finish = 2019-05-12 18:59:55 +1200
+Processing time = 3.420432

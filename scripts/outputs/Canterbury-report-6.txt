@@ -1,9 +1,7 @@
-Start = 2019-05-12 19:00:24 +1200
+Start = 2019-05-18 15:00:18 +1200
 linzid	street_name	street_name_2	official_street_name
 3033541	Cascade Pyke Valley Rd		Cascade Pyke Valley Road - legality not determined	-44.31153,168.22678
-3079054	Barred St		Talon Dr	-43.60809,172.40410
-3079078	Talon Dr		Ed Hillary Dr	-43.60678,172.41251
 #############################
 
-Finish = 2019-05-12 19:00:27 +1200
-Processing time = 3.025
+Finish = 2019-05-18 15:00:20 +1200
+Processing time = 1.906393

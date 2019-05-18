@@ -1,9 +1,6 @@
-Start = 2019-05-12 19:00:27 +1200
+Start = 2019-05-18 17:57:38 +1200
 linzid	street_name	street_name_2	official_street_name
-3078602	Peter Bourne Rd		Peter Bourne Dr	-37.24949,175.00948
-3078041	Tiria Ave		Tiria Dr	-37.71893,176.31689
-3079695	Kaitiaki Dr		Mutetai Rd	-37.13643,174.71115
 #############################
 
-Finish = 2019-05-12 19:00:31 +1200
-Processing time = 3.640558
+Finish = 2019-05-18 17:57:41 +1200
+Processing time = 2.113357

@@ -1,8 +1,13 @@
-Start = 2019-05-18 15:00:15 +1200
+Start = 2019-05-26 20:19:24 +1200
 #############################
 
-1 LINZ ids are missing from NZOGPS Canterbury
+6 LINZ ids are missing from NZOGPS Canterbury
 ;linzid=3079720	Gold Valley Rd	-43.7070990510647,172.652569302629
+;linzid=3079951	Stoney Creek Lane	-43.593938064402,172.585578653009
+;linzid=3079952	Broadway Pde	-43.6140332688068,172.400978416815
+;linzid=3079953	Avanda Ave	-43.6145391999343,172.400330453914
+;linzid=3079954	Billy T Lane	-43.6145391999343,172.400330453914
+;linzid=3079965	Winterslow Lane	-43.3005523935732,172.568633509195
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
@@ -29,5 +34,5 @@ Start = 2019-05-18 15:00:15 +1200
 ;linznumbid=700015	~[0x04]1	-43.32870,172.66609
 #############################
 
-Finish = 2019-05-18 15:00:18 +1200
-Processing time = 2.696441
+Finish = 2019-05-26 20:19:27 +1200
+Processing time = 3.057024

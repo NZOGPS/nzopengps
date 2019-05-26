@@ -1,10 +1,16 @@
-Start = 2019-05-18 15:00:12 +1200
+Start = 2019-05-26 20:19:22 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Wellington
+3 LINZ ids are missing from NZOGPS Wellington
+;linzid=3079946	Raumai Reserve Rd	-40.2081856017993,175.787690340493
+;linzid=3079949	Towler Lane	-40.2115863287162,175.562605015779
+;linzid=3079984	Ara Haewai	-41.3400954047607,174.785729216962
 #############################
 
-0 LINZ ids are in NZOGPS Wellington but missing from LINZ
+3 LINZ ids are in NZOGPS Wellington but missing from LINZ
+;linzid=1794394	Inglewood Pl	-41.29248,174.77853
+;linzid=1795602	Mangatete Rd	-41.22143,175.30714
+;linzid=3076044	Accessway	-41.14345,174.86514
 #############################
 
 0 Number range ids are missing from NZOGPS Wellington
@@ -25,5 +31,5 @@ Start = 2019-05-18 15:00:12 +1200
 ;linznumbid=9500012	~[0x04]57	-40.53219,175.43243
 #############################
 
-Finish = 2019-05-18 15:00:14 +1200
-Processing time = 1.811503
+Finish = 2019-05-26 20:19:24 +1200
+Processing time = 2.46722

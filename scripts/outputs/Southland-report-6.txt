@@ -1,8 +1,6 @@
-Start = 2019-05-26 20:19:37 +1200
+Start = 2019-05-30 00:56:20 +1200
 linzid	street_name	street_name_2	official_street_name
-1775037	MacBeth St		Macbeth St	-45.89905,170.47960
-1839475	Maddison Lane		Madison Lane	-45.04476,169.18054
 #############################
 
-Finish = 2019-05-26 20:19:39 +1200
-Processing time = 2.64016
+Finish = 2019-05-30 00:56:22 +1200
+Processing time = 1.888402

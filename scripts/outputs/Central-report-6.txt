@@ -1,7 +1,6 @@
-Start = 2019-05-26 20:19:40 +1200
+Start = 2019-05-30 00:15:48 +1200
 linzid	street_name	street_name_2	official_street_name
-3002532	Charnley Gdns		Charnley Way	-38.66115,175.97500
 #############################
 
-Finish = 2019-05-26 20:19:42 +1200
-Processing time = 2.369247
+Finish = 2019-05-30 00:15:50 +1200
+Processing time = 1.76331

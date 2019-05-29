@@ -1,9 +1,7 @@
-Start = 2019-05-26 20:19:44 +1200
+Start = 2019-05-29 23:46:31 +1200
 linzid	street_name	street_name_2	official_street_name
 3033541	Cascade Pyke Valley Rd		Cascade Pyke Valley Road - legality not determined	-44.31153,168.22678
-3079280	Makarora Cres		Tussock Cres	-44.26884,170.08560
-3079866	Quarry Rim Lane		Kepler Ridge Lane	-43.59299,172.58482
 #############################
 
-Finish = 2019-05-26 20:19:47 +1200
-Processing time = 2.60717
+Finish = 2019-05-29 23:46:33 +1200
+Processing time = 2.019357

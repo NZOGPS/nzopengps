@@ -1,12 +1,7 @@
-Start = 2019-05-26 20:19:19 +1200
+Start = 2019-05-30 00:15:46 +1200
 #############################
 
-5 LINZ ids are missing from NZOGPS Central
-;linzid=3079925	Matau Lane	-39.0900882833,174.0667106
-;linzid=3079926	Westwill Way	-39.0781055843701,174.052353611685
-;linzid=3079966	Tawhai Cres	-38.731372540443,176.07579030373
-;linzid=3079967	Kohia Pl	-38.7322800202014,176.073565659869
-;linzid=3080003	Moa Lane	-39.1661950967247,174.201175185911
+0 LINZ ids are missing from NZOGPS Central
 #############################
 
 0 LINZ ids are in NZOGPS Central but missing from LINZ
@@ -72,5 +67,5 @@ Start = 2019-05-26 20:19:19 +1200
 ;linznumbid=9400054	Crosses Rd	-39.66224,176.88390
 #############################
 
-Finish = 2019-05-26 20:19:22 +1200
-Processing time = 2.512186
+Finish = 2019-05-30 00:15:48 +1200
+Processing time = 1.902396

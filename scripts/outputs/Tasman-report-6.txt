@@ -1,9 +1,9 @@
-Start = 2019-05-26 20:19:35 +1200
+Start = 2019-05-29 23:46:13 +1200
 linzid	street_name	street_name_2	official_street_name
 3032989	Settlement Rd ( 4WD Only)		Settlement Rd	-42.68954,171.22630
 1788712	Wills Rd (4wd Only Ford)		Wills Rd	-41.21287,172.99981
 1790396	Greenstone Rd (Unmaintained)		Greenstone Rd	-42.66869,171.18008
 #############################
 
-Finish = 2019-05-26 20:19:37 +1200
-Processing time = 1.359567
+Finish = 2019-05-29 23:46:14 +1200
+Processing time = 0.926705

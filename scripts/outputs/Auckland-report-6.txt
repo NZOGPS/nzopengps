@@ -1,11 +1,8 @@
-Start = 2019-05-26 20:19:51 +1200
+Start = 2019-06-01 15:29:26 +1200
 linzid	street_name	street_name_2	official_street_name
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
 3064803	~[0x04]17	Albany Expressway	Dairy Flat Hwy	-36.73617,174.71645
-3078729	Amber Ridge Rd		Amber Ridge Ave	-36.82655,174.62389
-3079199	Wan Way		Cloud Way	-37.08091,174.90351
-3079489	Carthy Rd		Carthey Rd	-36.61270,174.65836
 #############################
 
-Finish = 2019-05-26 20:19:54 +1200
-Processing time = 3.916753
+Finish = 2019-06-01 15:29:29 +1200
+Processing time = 2.759126

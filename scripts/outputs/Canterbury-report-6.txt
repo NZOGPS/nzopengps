@@ -1,7 +1,7 @@
-Start = 2019-05-29 23:46:31 +1200
+Start = 2019-06-01 15:29:21 +1200
 linzid	street_name	street_name_2	official_street_name
 3033541	Cascade Pyke Valley Rd		Cascade Pyke Valley Road - legality not determined	-44.31153,168.22678
 #############################
 
-Finish = 2019-05-29 23:46:33 +1200
-Processing time = 2.019357
+Finish = 2019-06-01 15:29:23 +1200
+Processing time = 1.915388

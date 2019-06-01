@@ -1,7 +1,6 @@
-Start = 2019-05-26 20:19:47 +1200
+Start = 2019-06-01 19:08:37 +1200
 linzid	street_name	street_name_2	official_street_name
-3079818	Haka Pl		Haka Way	-37.72840,176.33657
 #############################
 
-Finish = 2019-05-26 20:19:50 +1200
-Processing time = 3.295949
+Finish = 2019-06-01 19:08:39 +1200
+Processing time = 2.335238

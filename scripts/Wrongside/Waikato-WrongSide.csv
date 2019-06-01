@@ -12,12 +12,10 @@
 175.71449317,-37.52249005,"93 Tui Road, Te Aroha",Wrong Side: 732029
 175.83132195,-38.44557723,"359 Pokuru Road North, Whakamaru",Wrong Side: 743115
 176.12731922,-37.72100852,"33 Jones Street, Gate Pa, Tauranga",Wrong Side: 782811
-176.13369078,-37.72245640,"8 Park View Rise, Gate Pa, Tauranga",Wrong Side: 783055
 176.18279610,-37.73581495,"85 Meander Drive, Welcome Bay, Tauranga",Wrong Side: 797421
 176.35384629,-37.74132953,"502 Bell Road, Papamoa",Wrong Side: 832408
 176.82521838,-37.98460475,"33 Rimu Street, Edgecumbe",Wrong Side: 844059
 176.93003417,-38.50793930,"2446A Mataatua Road, Ruatahuna",Wrong Side: 845370
-176.97594118,-38.00338268,"51B Wharenui Road, Poroporo, Whakatane",Wrong Side: 850020
 176.98344295,-38.06331375,"44A Grace Road, Taneatua",Wrong Side: 850079
 177.00316203,-38.13961595,"875 Reid Road, Ruatoki",Wrong Side: 852826
 177.06215372,-38.13927020,"34 Wardlaw Road, Waimana",Wrong Side: 854242
@@ -27,16 +25,15 @@
 174.99417430,-37.15536272,"234 Maxted Road, Ramarama",Wrong Side: 1281931
 175.00329583,-37.13120795,"222 Peach Hill Road, Ramarama",Wrong Side: 1282856
 176.04435128,-37.67524963,"79A Jess Road, Whakamarama",Wrong Side: 1308299
-175.11343767,-37.34877580,"254 Wattle Road, Whangamarino",Wrong Side: 1310383
 174.88949493,-37.18001655,"113 Heights Road, Paerata",Wrong Side: 1338596
 175.03079525,-37.25759705,"27 Pioneer Road, Pokeno",Wrong Side: 1362558
 176.20044483,-37.91120629,"540 Mangatoi Road, Oropi",Wrong Side: 1364319
 176.44475197,-37.93344913,"1500 Maniatutu Road, Pongakawa",Wrong Side: 1366094
 176.03891593,-37.68329800,"35 Te Karaka Drive, Whakamarama",Wrong Side: 1377510
-177.44745075,-38.04876410,"1311 Motu Road, Toatoa",Wrong Side: 1410937
-177.01090897,-37.96792107,"1 Foxglove Drive, Maraetotara, Whakatane",Wrong Side: 1418473
+176.10798762,-37.70073388,"50 St Regis Way, Bethlehem, Tauranga",Wrong Side: 1383903
 175.85459733,-37.39512240,"34 Heath Road, Waihi",Wrong Side: 1421731
 175.23034370,-37.58158822,"581 Uapoto Road, Taupiri",Wrong Side: 1432132
+175.73776395,-37.33080425,"447A Goble Road, Komata",Wrong Side: 1470445
 178.31662032,-38.12625347,"8A Tokomaru Street, Tokomaru Bay",Wrong Side: 1527473
 176.87515092,-38.61407310,"4306 Ruatahuna Road, Ruatahuna",Wrong Side: 1535188
 176.45753261,-37.75557283,"7 Kauri Place, Maketu",Wrong Side: 1585318
@@ -81,7 +78,6 @@
 175.86488602,-38.22373470,"2D Kindergarten Street, Tokoroa",Wrong Side: 2131073
 175.86484726,-38.22359128,"2E Kindergarten Street, Tokoroa",Wrong Side: 2131074
 174.95047172,-37.18764299,"40 Rutherford Road, Pukekohe East",Wrong Side: 2133511
-176.31936266,-37.71572746,"29 Tamapahore Boulevard, Papamoa Beach, Papamoa",Wrong Side: 2134499
 174.70248025,-37.27307935,"205 Butchers Bridge Road, Otaua",Wrong Side: 2138943
 177.26026977,-38.07179544,"686 Woodlands Road, Otara",Wrong Side: 2141743
 175.80489532,-37.11592556,"240 McBeth Road, Hikuai",Wrong Side: 2147439
@@ -92,3 +88,5 @@
 176.19938123,-37.91067760,"550 Mangatoi Road, Oropi",Wrong Side: 2155066
 176.16542580,-37.75159842,"532 Ohauiti Road, Ohauiti",Wrong Side: 2158492
 176.03882255,-37.68367503,"39 Te Karaka Drive, Whakamarama",Wrong Side: 2159768
+177.30060115,-38.26203997,"5978 Waioeka Road, Waioeka",Wrong Side: 2164850
+177.33803866,-38.10259017,"348 Tutaetoko Road, Toatoa",Wrong Side: 2164909

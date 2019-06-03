@@ -124,3 +124,5 @@
 1991076	10 Weldon Lane, Lower Shotover	2017/12/02 14:27	-45.005301,168.775713	Dwelling appears to be at S45°00.3235' E168°46.5419'
 1982197	2028 Tapanui Raes Junction Highway, Edievale	2017/12/02 14:30	-45.799213,169.372261
 1605014	121 Otakou Golf Course Road, Otakou	2017/12/02 14:35	-45.806536,170.686062
+----New 19:11 03/06/19
+1004407	473 Dunstan Road, Alexandra	2019/06/03 19:11	-45.213004,169.359007	No obvious dwelling matching 473. This one looks like 482 to me.

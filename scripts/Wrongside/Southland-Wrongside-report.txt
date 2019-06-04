@@ -1,8 +1,9 @@
-6 entries in ..\..\LinzDataService\PaperRoads\Southland-WrongSide.txt
-121 entries in ..\..\LinzDataService\PaperRoads\Southland-LINZWrongSide.txt
-164 wrongside numbers, 64 not in Exclusion files
-1 entries in Ignore list are no longer on the wrong side
+7 entries in ..\..\LinzDataService\PaperRoads\Southland-WrongSide.txt
+122 entries in ..\..\LinzDataService\PaperRoads\Southland-LINZWrongSide.txt
+156 wrongside numbers, 55 not in Exclusion files
+2 entries in Ignore list are no longer on the wrong side
 71695	30A Chelmer Street	2015/04/27 20:08	-45.096988,170.956477
+111752	309C McKenzie Road, Cattle Flat	2019/06/03 22:45	-45.697336,168.785246
 
 26 entries in Linz list are no longer on the wrong side
 1604690	34 ARAMOANA ROAD	2013/10/26 23:35	-45.805825,170.625299

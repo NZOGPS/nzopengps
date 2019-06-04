@@ -1,12 +1,7 @@
-Start = 2019-05-26 20:19:13 +1200
+Start = 2019-06-04 00:22:39 +1200
 #############################
 
-5 LINZ ids are missing from NZOGPS Northland
-;linzid=3079844	Fieldstone Lane	-35.7486128372013,174.272164981237
-;linzid=3079888	Pheasant Lane	-35.901592905156,174.424221883507
-;linzid=3079948	Matauri Link Rd	-35.112995633715,173.841368153511
-;linzid=3079999	Gordon Coates Ave	-36.1301927752721,174.19128807309
-;linzid=3079998	Minney Casey Rise	-36.1318304742408,174.187569965243
+0 LINZ ids are missing from NZOGPS Northland
 #############################
 
 0 LINZ ids are in NZOGPS Northland but missing from LINZ
@@ -19,5 +14,5 @@ Start = 2019-05-26 20:19:13 +1200
 ;linznumbid=9100001	~[0x04]12	-35.50410,173.39396
 #############################
 
-Finish = 2019-05-26 20:19:14 +1200
-Processing time = 1.241602
+Finish = 2019-06-04 00:22:40 +1200
+Processing time = 0.989692

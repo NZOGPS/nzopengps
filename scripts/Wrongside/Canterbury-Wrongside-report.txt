@@ -1,7 +1,7 @@
 10 entries in ..\..\LinzDataService\PaperRoads\Canterbury-WrongSide.txt
 Warning: 1549567 on line 131 in ..\..\LinzDataService\PaperRoads\Canterbury-LINZWrongSide.txt - This ID is also set in the ignore file
 162 entries in ..\..\LinzDataService\PaperRoads\Canterbury-LINZWrongSide.txt
-169 wrongside numbers, 43 not in Exclusion files
+168 wrongside numbers, 42 not in Exclusion files
 46 entries in Linz list are no longer on the wrong side
 906972	2 CARTERS ROAD	2013/10/13 23:38	-43.674369,172.509625
 120766	2846 Hakatere Potts Road	2015/04/10 10:52	-43.519740,170.874271

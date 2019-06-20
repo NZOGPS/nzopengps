@@ -1,6 +1,6 @@
 3 entries in ..\..\LinzDataService\PaperRoads\Tasman-WrongSide.txt
 84 entries in ..\..\LinzDataService\PaperRoads\Tasman-LINZWrongSide.txt
-74 wrongside numbers, 13 not in Exclusion files
+75 wrongside numbers, 14 not in Exclusion files
 26 entries in Linz list are no longer on the wrong side
 398370	126 Uruwhenua Road	2014/07/18 23:49	-40.996303,172.815299	Slightly the wrong side of the physical road
 1676913	589 UMERE ROAD	2014/06/09 22:48	-41.256113,172.186505	 Change of side compared to further south

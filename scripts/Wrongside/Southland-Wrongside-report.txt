@@ -1,11 +1,11 @@
-7 entries in ..\..\LinzDataService\PaperRoads\Southland-WrongSide.txt
+8 entries in ..\..\LinzDataService\PaperRoads\Southland-WrongSide.txt
 122 entries in ..\..\LinzDataService\PaperRoads\Southland-LINZWrongSide.txt
-156 wrongside numbers, 55 not in Exclusion files
+129 wrongside numbers, 28 not in Exclusion files
 2 entries in Ignore list are no longer on the wrong side
-71695	30A Chelmer Street	2015/04/27 20:08	-45.096988,170.956477
 111752	309C McKenzie Road, Cattle Flat	2019/06/03 22:45	-45.697336,168.785246
+71695	30A Chelmer Street	2015/04/27 20:08	-45.096988,170.956477
 
-26 entries in Linz list are no longer on the wrong side
+27 entries in Linz list are no longer on the wrong side
 1604690	34 ARAMOANA ROAD	2013/10/26 23:35	-45.805825,170.625299
 401426	32 RUNBRAKE STREET	2013/10/05 23:20	-45.480887,170.716836
 12268	121 Strathearn Road	2015/08/18 15:46	-46.153176,169.279527
@@ -16,6 +16,7 @@
 1674105	638 GLENFALLOCH ROAD	2013/10/26 23:02	-46.305258,169.530624
 38284	162 Caversham Valley Road	2015/04/27 20:12	-45.895969,170.465851	Wrong side/on lane of new divided highway
 62743	15 GEORGE KING MEMORIAL DRIVE	2013/10/26 23:26	-45.850646,170.237765
+1678132	83A BRANXHOLM STREET	2013/10/26 22:45	-45.539996,169.309791
 8719	189 BALLANTYNE ROAD	2013/10/06 21:16	-44.713071,169.156695
 1738352	3710 LUGGATE-CROMWELL ROAD	2013/12/01 13:35	-44.750048,169.290949
 1845835	692 Morven Glenavy Road	2014/07/18 00:07	-44.861827,171.113275

@@ -1,7 +1,19 @@
-Start = 2019-06-01 15:29:15 +1200
+Start = 2019-08-04 15:17:52 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Wellington
+12 LINZ ids are missing from NZOGPS Wellington
+;linzid=3080027	Okoutu Lane	-41.232258711258,174.903636549734
+;linzid=3080039	Tide Lane	-41.1109503520505,174.899773370358
+;linzid=3080040	Grapnel Lane	-41.110510132558,174.899890992236
+;linzid=3080042	Genoa Pl	-41.1130615065224,174.897883260961
+;linzid=3080044	Martingale Dr	-41.1120699536698,174.89904992134
+;linzid=3080045	Heron Pl	-41.1130541601328,174.897067438937
+;linzid=3080058	Kens Lane	-41.0424340485162,175.509360047132
+;linzid=3080068	Riverstone Pl	-40.9658471898197,175.621833438368
+;linzid=3080069	Mitre Way	-40.9649953375116,175.620342878521
+;linzid=3080070	Wycliffe Cres	-40.9668549216368,175.623332642663
+;linzid=3080084	Karearea Ave	-40.8695428343267,175.074763025436
+;linzid=3080114	Mary Dobson Way	-41.3324599936334,174.77633928846
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -25,5 +37,5 @@ Start = 2019-06-01 15:29:15 +1200
 ;linznumbid=9500012	~[0x04]57	-40.53219,175.43243
 #############################
 
-Finish = 2019-06-01 15:29:17 +1200
-Processing time = 1.778717
+Finish = 2019-08-04 15:17:55 +1200
+Processing time = 2.971834

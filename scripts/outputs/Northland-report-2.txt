@@ -1,7 +1,16 @@
-Start = 2019-06-04 00:22:39 +1200
+Start = 2019-08-04 15:17:41 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Northland
+9 LINZ ids are missing from NZOGPS Northland
+;linzid=3080124	Hokianga Harbour Dr	-35.52738,173.3897975667
+;linzid=3080029	Ohau Cres	-35.6755513308233,174.320595223862
+;linzid=3080059	Haumako Lane	-36.0891686168167,174.574282533358
+;linzid=3080067	Lort Point Lane	-35.82447585,174.49960035
+;linzid=3080071	Frazer Pl	-34.9981078569373,173.510654706475
+;linzid=3080113	Darligen Lane	-35.7328797873481,174.24124683747
+;linzid=3080116	Astrid Dr	-35.2137352354428,173.95158526675
+;linzid=3080121	Tareha Pl	-35.2078929594782,173.964526330903
+;linzid=3080127	Sea Vista Lane	-35.7635254373324,174.443439364898
 #############################
 
 0 LINZ ids are in NZOGPS Northland but missing from LINZ
@@ -14,5 +23,5 @@ Start = 2019-06-04 00:22:39 +1200
 ;linznumbid=9100001	~[0x04]12	-35.50410,173.39396
 #############################
 
-Finish = 2019-06-04 00:22:40 +1200
-Processing time = 0.989692
+Finish = 2019-08-04 15:17:43 +1200
+Processing time = 1.600599

@@ -1,6 +1,11 @@
-Start = 2019-06-01 15:29:17 +1200
+Start = 2019-08-04 15:18:17 +1200
 linzid	street_name	street_name_2	official_street_name
+1795534	Pah Rd		Pa Rd	-41.09563,175.48452
+1795595	Hinakura Rd		Hinekura Rd	-41.24178,175.55446
+1795595	Martinborough Masterton Rd	Hinakura Rd	Hinekura Rd	-41.22456,175.47331
+1795595	Hinakura Rd		Hinekura Rd	-41.29092,175.63093
+1795595	Martinborough Masterton Rd	Hinakura Rd	Hinekura Rd	-41.23149,175.48971
 #############################
 
-Finish = 2019-06-01 15:29:19 +1200
-Processing time = 1.474542
+Finish = 2019-08-04 15:18:19 +1200
+Processing time = 2.499996

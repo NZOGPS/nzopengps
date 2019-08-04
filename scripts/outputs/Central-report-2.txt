@@ -1,16 +1,36 @@
-Start = 2019-05-30 00:15:46 +1200
+Start = 2019-08-04 15:17:49 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Central
+17 LINZ ids are missing from NZOGPS Central
+;linzid=3080164	State Highway 51	-39.6319052833,176.8645389167
+;linzid=3080010	Giles Lane	-39.6173986314346,176.893461865439
+;linzid=3080014	Blackhawk Cl	-38.6616910830818,175.935544123026
+;linzid=3080188	Tarapunga Cl	-39.0571254684722,177.838730238128
+;linzid=3080062	Kaipeke Lane	-39.00066655949,174.245982788277
+;linzid=3080061	Tangaroa St	-39.00066655949,174.245982788277
+;linzid=3080115	Spooners Rd	-39.0864940221906,177.243217836016
+;linzid=3080189	Tarapuka Way	-39.0571254684722,177.838730238128
+;linzid=3080126	Symmans Lane	-39.8999892333,176.6334732333
+;linzid=3080060	Whenu Way	-39.0277135574006,174.158634730043
+;linzid=3080134	Hodge Park Lane	-39.1613137770904,174.200406400323
+;linzid=3080135	Konukunuku Way	-39.0997567987019,174.015080020858
+;linzid=3080183	Waihinahina Way	-39.0907240167,177.9257430667
+;linzid=3080184	Maru Pl	-39.0576970278433,177.836036733487
+;linzid=3080185	Pukeko Pl	-39.0571243724821,177.836937817357
+;linzid=3080186	Torea Way	-39.0571236868383,177.837871412753
+;linzid=3080187	Kereru Pl	-39.0571236868383,177.837871412753
 #############################
 
-0 LINZ ids are in NZOGPS Central but missing from LINZ
+1 LINZ ids are in NZOGPS Central but missing from LINZ
+;linzid=3080003	Moa Lane	-39.16618,174.20115
 #############################
 
 0 Number range ids are missing from NZOGPS Central
 #############################
 
-54 Number range ids are in NZOGPS Central but missing from LINZ
+56 Number range ids are in NZOGPS Central but missing from LINZ
+;linznumbid=1000136	~[0x04]2	-39.61917,176.89339
+;linznumbid=1000140	~[0x04]2	-39.52329,176.91777
 ;linznumbid=9400001	Turakina Valley Rd	-39.60710,175.57655
 ;linznumbid=9400002	Turakina Valley Rd	-39.47960,175.57370
 ;linznumbid=9400003	Whanganui River Rd	-39.47876,175.04295
@@ -67,5 +87,5 @@ Start = 2019-05-30 00:15:46 +1200
 ;linznumbid=9400054	Crosses Rd	-39.66224,176.88390
 #############################
 
-Finish = 2019-05-30 00:15:48 +1200
-Processing time = 1.902396
+Finish = 2019-08-04 15:17:52 +1200
+Processing time = 3.11567

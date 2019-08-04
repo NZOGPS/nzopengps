@@ -1,6 +1,10 @@
-Start = 2019-06-02 16:26:51 +1200
+Start = 2019-08-04 15:18:22 +1200
 linzid	street_name	street_name_2	official_street_name
+3077837	Walter Lawry Dr		Walter Lawry Rd	-37.14613,174.88775
+3078345	Michelle Thomas Way		Michelle Thomas Lane	-37.13721,174.95432
+3079519	Stevie Way		Stevie Lane	-37.64512,176.03225
+3079518	Stefanie Rd		Stefanie Way	-37.64680,176.03322
 #############################
 
-Finish = 2019-06-02 16:26:53 +1200
-Processing time = 2.359251
+Finish = 2019-08-04 15:18:26 +1200
+Processing time = 3.493772

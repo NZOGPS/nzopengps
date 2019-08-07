@@ -1,16 +1,7 @@
-Start = 2019-08-04 16:01:57 +1200
+Start = 2019-08-07 20:51:21 +1200
 #############################
 
-9 LINZ ids are missing from NZOGPS Southland
-;linzid=3080005	Ashgrove Lane	-44.7010748207258,169.116497966253
-;linzid=3080007	Horrell Lane	-44.7017536706634,169.118070791171
-;linzid=3080008	Brodie Ave	-44.9499256896684,168.83580542399
-;linzid=3080009	Patton Pl	-44.9499256896684,168.83580542399
-;linzid=3080017	Munro Rd	-45.0113265722887,168.747226114661
-;linzid=3080006	Shearers Dr	-45.0125277407874,168.748889871818
-;linzid=3080024	Endeavour St	-44.7098472982129,169.151395732785
-;linzid=3080025	Venture Cres	-44.7098472982129,169.151395732785
-;linzid=3080123	Jameson Lane	-46.3685205446009,168.019828895217
+0 LINZ ids are missing from NZOGPS Southland
 #############################
 
 0 LINZ ids are in NZOGPS Southland but missing from LINZ
@@ -34,5 +25,5 @@ Start = 2019-08-04 16:01:57 +1200
 ;linznumbid=9800012	Porteous Rd	-45.69040,170.57020
 #############################
 
-Finish = 2019-08-04 16:02:00 +1200
-Processing time = 2.71876
+Finish = 2019-08-07 20:51:23 +1200
+Processing time = 2.124958

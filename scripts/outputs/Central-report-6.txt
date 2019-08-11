@@ -1,8 +1,8 @@
-Start = 2019-08-10 21:51:09 +1200
+Start = 2019-08-11 23:09:30 +1200
 linzid	street_name	street_name_2	official_street_name
 1805489	YMCA Rd		Ymca Rd	-39.05469,177.83876
 1805489	YMCA Rd		Ymca Rd	-39.05704,177.83475
 #############################
 
-Finish = 2019-08-10 21:51:11 +1200
-Processing time = 1.754693
+Finish = 2019-08-11 23:09:32 +1200
+Processing time = 1.677468

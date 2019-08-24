@@ -1,7 +1,10 @@
-Start = 2019-08-11 23:09:32 +1200
+Start = 2019-08-24 23:52:31 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Wellington
+3 LINZ ids are missing from NZOGPS Wellington
+;linzid=3080199	Kanzan Grv	-40.2040315652524,175.588322705151
+;linzid=3080200	Meavy Lane	-40.2645524143759,175.726172585596
+;linzid=3080212	Wairaka Pl	-40.3259390910354,175.62098900055
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -11,19 +14,19 @@ Start = 2019-08-11 23:09:32 +1200
 #############################
 
 12 Number range ids are in NZOGPS Wellington but missing from LINZ
-;linznumbid=9500001	Beach Rd	-40.29546,176.64387
-;linznumbid=9500002	Beach Rd	-40.30251,176.66207
-;linznumbid=9500003	Opaki Kaiparoro Rd	-40.87253,175.66247
-;linznumbid=9500004	Opaki Kaiparoro Rd	-40.72164,175.68382
-;linznumbid=9500005	Bowen Rd	-40.71386,175.71887
-;linznumbid=9500006	Bowen Rd	-40.65632,175.75806
-;linznumbid=9500007	Te Uri Rd	-40.20667,176.32019
-;linznumbid=9500008	Te Uri Rd	-40.24683,176.37921
-;linznumbid=9500009	~[0x04]2	-41.07832,175.19531
-;linznumbid=9500010	~[0x04]2	-41.10531,175.29300
-;linznumbid=9500011	~[0x04]57	-40.59004,175.34478
-;linznumbid=9500012	~[0x04]57	-40.53219,175.43243
+;linznumbid=9500001	linzid=1804564	Beach Rd	-40.29546,176.64387
+;linznumbid=9500002	linzid=1804564	Beach Rd	-40.30251,176.66207
+;linznumbid=9500003	linzid=1801874	Opaki Kaiparoro Rd	-40.87253,175.66247
+;linznumbid=9500004	linzid=1801874	Opaki Kaiparoro Rd	-40.72164,175.68382
+;linznumbid=9500005	linzid=1840618	Bowen Rd	-40.71386,175.71887
+;linznumbid=9500006	linzid=1840618	Bowen Rd	-40.65632,175.75806
+;linznumbid=9500007	linzid=3070825	Te Uri Rd	-40.20667,176.32019
+;linznumbid=9500008	linzid=3070825	Te Uri Rd	-40.24683,176.37921
+;linznumbid=9500009	linzid=3045152	~[0x04]2	-41.07832,175.19531
+;linznumbid=9500010	linzid=3045152	~[0x04]2	-41.10531,175.29300
+;linznumbid=9500011	linzid=3015159	~[0x04]57	-40.59004,175.34478
+;linznumbid=9500012	linzid=3015159	~[0x04]57	-40.53219,175.43243
 #############################
 
-Finish = 2019-08-11 23:09:34 +1200
-Processing time = 1.770941
+Finish = 2019-08-24 23:52:33 +1200
+Processing time = 2.247682

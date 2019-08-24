@@ -1,26 +1,30 @@
-This script takes the LINZ Data Service official road centre line shape files and converts them to Polish format suitable for copy/pasting into the NZOGPS maps.
+These scripts takes the LINZ Data Service official road centre line data and converts it to Polish format suitable for copy/pasting into the NZOGPS maps.
 
 Done
   Stage 1: Convert Data
-Future:
   Stage 2: Identify differences between LINZ data and NZOGPS data
+
+There area two options. Do a full download, or do an update. 
+
+To do a full download:
 
 Inputs:
 The LINZ Data Service exports are available from
-http://data.linz.govt.nz/layer/818-nz-road-centre-line-electoral/
-You can also get NUMBERS although they aren't specifically needed for this step
-http://data.linz.govt.nz/layer/779-nz-street-address-electoral/
+https://data.linz.govt.nz/layer/53383-nz-roads-subsections-addressing/history/
+https://data.linz.govt.nz/layer/53353-nz-street-address/
 
- -- must export using Map Projection NZGD2000 (EPSG: 4167 Lat/Long) NOT the default option NZGD200 / NZ Transverse Mercator 
-These won't be checked into our repository, so each person will need to get it themselves.
+Select both of these data sets.
+ -- Select CSV output format
+ -- you must export using Map Projection NZGD2000 (EPSG: 4167 Lat/Long) NOT the default option NZGD200 / NZ Transverse Mercator 
+These won't be checked into our repository, so each person that wants to generate files will need to get the data for themselves.
 
-Extract into folder LinzDataService/lds-nz-road-centre-line-electoral-SHP
- 
+Then run the script 'process from download'. This will 
+
 Outputs:
 Polish format LINZ files
 
 Requirements:
-Ruby 1.87+, 1.93 recommeneded
+Ruby 1.87+, 1.93 recommended
 
 Ruby Windows Installation Instructions:
 Get the latest installer from http://rubyinstaller.org/downloads/

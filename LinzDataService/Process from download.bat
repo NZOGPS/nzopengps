@@ -4,8 +4,8 @@ if not defined nzogps_base call ..\setlocals.bat
 @echo on
 %nzogps_git% pull -v
 
-@if not exist %nzogps_download%"lds-new-zealand-2layers-CSV.zip" echo new CSV download not found. & goto :eof
-move %nzogps_download%"lds-new-zealand-2layers-CSV.zip" .
+@if not exist %nzogps_download%\"lds-new-zealand-2layers-CSV.zip" echo new CSV download not found. & goto :eof
+move %nzogps_download%\"lds-new-zealand-2layers-CSV.zip" .
 
 del lds-nz-roads-subsections-addressing-CSV\nz-roads*.*
 %nzogps_unzip_cmd% lds-new-zealand-2layers-CSV.zip -olds-nz-roads-subsections-addressing-CSV *\nz-roads-subsections-addressing*.*
@@ -25,4 +25,5 @@ cd ..\linzdataservice
 cd ..\scripts
 call dochecks.bat
 call colouriseall.bat
+if errorlevel 1 goto :eof
 call numberlinz.bat

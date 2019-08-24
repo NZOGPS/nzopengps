@@ -285,7 +285,7 @@ def process_geom_record(record)
 	linzid = record.attributes['id']
 	linzrsid = record.attributes['rsid']
 	addrdid = record.attributes['addrid']
-	if (addrdid != "0") then	# No address_range_road_id results in string "0"
+	if (addrdid != "0" && addrdid != nil) then	# No address_range_road_id results in string "0" 20190825 GCT - or sometimes nil???
 		addrdid_str = "\n;linznumbid=#{addrdid}"
 		#STDERR.print "addrdid is: #{addrdid}\n"
 end

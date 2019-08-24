@@ -1,8 +1,15 @@
-Start = 2019-08-11 23:09:36 +1200
+Start = 2019-08-24 23:52:33 +1200
 #############################
 
-1 LINZ ids are missing from NZOGPS Canterbury
+8 LINZ ids are missing from NZOGPS Canterbury
 ;linzid=3079720	Gold Valley Rd	-43.7070990510647,172.652569302629
+;linzid=3080195	Verlamio Lane	-43.5156873667346,172.643545526133
+;linzid=3080193	Ahaura St	-43.4809928744638,172.672133499338
+;linzid=3080205	Vitalia Cres	-43.6515675298,172.465430435735
+;linzid=3080204	Verdeco Dr	-43.6515675298,172.465430435735
+;linzid=3080206	Monte Cres	-43.6515675298,172.465430435735
+;linzid=3080208	Memorial Cres	-43.6259072860569,171.650879364471
+;linzid=3080209	Gleniffer Pl	-43.6259072860569,171.650879364471
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
@@ -12,22 +19,22 @@ Start = 2019-08-11 23:09:36 +1200
 #############################
 
 15 Number range ids are in NZOGPS Canterbury but missing from LINZ
-;linznumbid=700001	Telegraph Rd	-43.54369,172.15585
-;linznumbid=700002	Telegraph Rd	-43.49026,172.10770
-;linznumbid=700003	McLaughlins Rd	-43.48845,172.10463
-;linznumbid=700004	McLaughlins Rd	-43.52618,172.04214
-;linznumbid=700005	Old Main South Rd	-44.01381,171.54327
-;linznumbid=700006	Old Main South Rd	-44.12476,171.31541
-;linznumbid=700007	Boundary Rd	-43.26221,172.59835
-;linznumbid=700008	Boundary Rd	-43.15140,172.58723
-;linznumbid=700009	~[0x04]77	-43.48069,171.94247
-;linznumbid=700010	Homebush Rd	-43.47275,172.25850
-;linznumbid=700011	Malvern Hills Rd	-43.47689,171.97163
-;linznumbid=700012	Malvern Hills Rd	-43.39138,172.01991
-;linznumbid=700013	~[0x04]1	-44.53362,171.18545
-;linznumbid=700014	~[0x04]1	-44.52636,171.19326
-;linznumbid=700015	~[0x04]1	-43.32870,172.66609
+;linznumbid=700001	linzid=3026236	Telegraph Rd	-43.54369,172.15585
+;linznumbid=700002	linzid=3026236	Telegraph Rd	-43.49026,172.10770
+;linznumbid=700003	linzid=1780393	McLaughlins Rd	-43.48845,172.10463
+;linznumbid=700004	linzid=1780393	McLaughlins Rd	-43.52618,172.04214
+;linznumbid=700005	linzid=1786345	Old Main South Rd	-44.01381,171.54327
+;linznumbid=700006	linzid=1786345	Old Main South Rd	-44.12476,171.31541
+;linznumbid=700007	linzid=3070462	Boundary Rd	-43.26221,172.59835
+;linznumbid=700008	linzid=3070462	Boundary Rd	-43.15140,172.58723
+;linznumbid=700009	linzid=3016814	~[0x04]77	-43.48069,171.94247
+;linznumbid=700010	linzid=3016814	Homebush Rd	-43.47275,172.25850
+;linznumbid=700011	linzid=3067968	Malvern Hills Rd	-43.47689,171.97163
+;linznumbid=700012	linzid=3067968	Malvern Hills Rd	-43.39138,172.01991
+;linznumbid=700013	linzid=3052729	~[0x04]1	-44.53362,171.18545
+;linznumbid=700014	linzid=3052729	~[0x04]1	-44.52636,171.19326
+;linznumbid=700015	linzid=3038679	~[0x04]1	-43.32870,172.66609
 #############################
 
-Finish = 2019-08-11 23:09:38 +1200
-Processing time = 2.164276
+Finish = 2019-08-24 23:52:36 +1200
+Processing time = 2.826561

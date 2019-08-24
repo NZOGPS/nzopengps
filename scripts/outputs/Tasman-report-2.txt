@@ -1,4 +1,4 @@
-Start = 2019-08-04 15:17:43 +1200
+Start = 2019-08-24 23:52:24 +1200
 #############################
 
 9 LINZ ids are missing from NZOGPS Tasman
@@ -20,11 +20,11 @@ Start = 2019-08-04 15:17:43 +1200
 #############################
 
 4 Number range ids are in NZOGPS Tasman but missing from LINZ
-;linznumbid=9600001	Atarau Rd	-42.27203,171.68394
-;linznumbid=9600002	Atarau Rd	-42.31644,171.53498
-;linznumbid=9600003	~[0x04]6	-41.85699,171.95640
-;linznumbid=9600004	~[0x04]6	-41.83017,172.00008
+;linznumbid=9600001	linzid=3061277	Atarau Rd	-42.27203,171.68394
+;linznumbid=9600002	linzid=3061277	Atarau Rd	-42.31644,171.53498
+;linznumbid=9600003	linzid=3071437	~[0x04]6	-41.85699,171.95640
+;linznumbid=9600004	linzid=3071437	~[0x04]6	-41.83017,172.00008
 #############################
 
-Finish = 2019-08-04 15:17:45 +1200
-Processing time = 1.96304
+Finish = 2019-08-24 23:52:25 +1200
+Processing time = 1.403564

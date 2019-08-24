@@ -1,10 +1,8 @@
-Start = 2019-08-04 15:18:26 +1200
+Start = 2019-08-24 23:52:57 +1200
 linzid	street_name	street_name_2	official_street_name
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
 3064803	~[0x04]17	Albany Expressway	Dairy Flat Hwy	-36.73617,174.71645
-3077744	Ibister Lane		Isbister Lane	-37.00720,174.89199
-3079429	Karariki Lane		Taiwawe Lane	-36.89042,175.82156
 #############################
 
-Finish = 2019-08-04 15:18:31 +1200
-Processing time = 4.830638
+Finish = 2019-08-24 23:53:01 +1200
+Processing time = 3.549375

@@ -1,7 +1,10 @@
-Start = 2019-08-07 20:51:21 +1200
+Start = 2019-08-24 23:52:25 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Southland
+3 LINZ ids are missing from NZOGPS Southland
+;linzid=3080196	Bowman Rd	-44.8656490524805,169.351020207331
+;linzid=3080197	Polson Tce	-44.863512879508,169.351297118642
+;linzid=3080198	Trevathan Way	-44.8656490524805,169.351020207331
 #############################
 
 0 LINZ ids are in NZOGPS Southland but missing from LINZ
@@ -11,19 +14,19 @@ Start = 2019-08-07 20:51:21 +1200
 #############################
 
 12 Number range ids are in NZOGPS Southland but missing from LINZ
-;linznumbid=9800001	Old Dunstan Rd	-45.33246,169.79798
-;linznumbid=9800002	Old Dunstan Rd	-45.67439,169.98837
-;linznumbid=9800003	Ferry Rd	-44.89943,171.03494
-;linznumbid=9800004	Ferry Rd	-45.02091,171.02055
-;linznumbid=9800005	Morris Rd	-45.89709,170.36526
-;linznumbid=9800006	Morris Rd	-45.90023,170.38638
-;linznumbid=9800007	~[0x04]1	-44.63226,171.14079
-;linznumbid=9800008	~[0x04]1	-44.62865,171.14160
-;linznumbid=9800009	Ramrock Rd	-45.59577,170.62324
-;linznumbid=9800010	Ramrock Rd	-45.45308,170.33387
-;linznumbid=9800011	Porteous Rd	-45.70830,170.58953
-;linznumbid=9800012	Porteous Rd	-45.69040,170.57020
+;linznumbid=9800001	linzid=3055956	Old Dunstan Rd	-45.33246,169.79798
+;linznumbid=9800002	linzid=3055956	Old Dunstan Rd	-45.67439,169.98837
+;linznumbid=9800003	linzid=1782184	Ferry Rd	-44.89943,171.03494
+;linznumbid=9800004	linzid=1782184	Ferry Rd	-45.02091,171.02055
+;linznumbid=9800005	linzid=3025088	Morris Rd	-45.89709,170.36526
+;linznumbid=9800006	linzid=3025088	Morris Rd	-45.90023,170.38638
+;linznumbid=9800007	linzid=3052729	~[0x04]1	-44.63226,171.14079
+;linznumbid=9800008	linzid=3052729	~[0x04]1	-44.62865,171.14160
+;linznumbid=9800009	linzid=3063507	Ramrock Rd	-45.59577,170.62324
+;linznumbid=9800010	linzid=3063507	Ramrock Rd	-45.45308,170.33387
+;linznumbid=9800011	linzid=1775108	Porteous Rd	-45.70830,170.58953
+;linznumbid=9800012	linzid=1775108	Porteous Rd	-45.69040,170.57020
 #############################
 
-Finish = 2019-08-07 20:51:23 +1200
-Processing time = 2.124958
+Finish = 2019-08-24 23:52:28 +1200
+Processing time = 2.835107

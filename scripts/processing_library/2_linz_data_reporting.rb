@@ -39,8 +39,16 @@ def process_polish_buffer(buffer)
 		@nzogps_file_ids[linzid3] = "#{label3}\t#{first_lat},#{first_lon}"
 	end
 	if numbid then
-		@nzogps_file_num_ids[numbid] = "#{street_name}\t#{first_lat},#{first_lon}"
-		@nzogps_file_num_id_ids[numbid] = "#{linzid}"
+		#print "In set numbid - numbid=#{numbid} - linzid=#{linzid} prev is #{@nzogps_file_num_id_ids[numbid]}\n"
+		if @nzogps_file_num_id_ids[numbid]==nil || @nzogps_file_num_id_ids[numbid] == "#{linzid}"
+			@nzogps_file_num_ids[numbid] = "#{street_name}\t#{first_lat},#{first_lon}"
+			@nzogps_file_num_id_ids[numbid] = "#{linzid}"
+		else 
+			print "Error - Linznumbid #{numbid} associated with linzid #{linzid}\t#{street_name}\t#{first_lat},#{first_lon}\n"
+			print "\tConflict with previous linzid #{@nzogps_file_num_id_ids[numbid]} #{@nzogps_file_num_ids[numbid]}\n"
+			@reporting_file.print "Error - Linznumbid #{numbid} associated with linzid #{linzid}\t#{street_name}\t#{first_lat},#{first_lon}\n"
+			@reporting_file.print "\tConflict with previous linzid #{@nzogps_file_num_id_ids[numbid]} #{@nzogps_file_num_ids[numbid]}\n"
+		end
 	end
 
 end
@@ -154,7 +162,7 @@ def post_processing()
 	@reporting_file.print "#{numbid_in_nzogps_but_missing_from_linz.size} Number range ids are in NZOGPS #{@tile} but missing from LINZ\n"
 
 	numbid_in_nzogps_but_missing_from_linz.sort.each{|x|
-		@reporting_file.print ";linznumbid=#{x}\t#{@nzogps_file_num_ids[x]}\n"
+		@reporting_file.print ";linznumbid=#{x}\tlinzid=#{@nzogps_file_num_id_ids[x]}\t#{@nzogps_file_num_ids[x]}\n"
 	}
 
 	@reporting_file.print "#############################\n\n"

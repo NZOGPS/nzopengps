@@ -1,7 +1,8 @@
-Start = 2019-08-11 23:09:38 +1200
+Start = 2019-08-24 23:52:52 +1200
 linzid	street_name	street_name_2	official_street_name
 3033541	Cascade Pyke Valley Rd		Cascade Pyke Valley Road - legality not determined	-44.31153,168.22678
+3079108	Hallfield Rd		Hallfield Dr	-43.35677,172.57814
 #############################
 
-Finish = 2019-08-11 23:09:40 +1200
-Processing time = 1.950377
+Finish = 2019-08-24 23:52:54 +1200
+Processing time = 2.553392

@@ -1,7 +1,7 @@
-Start = 2019-08-24 23:52:33 +1200
+Start = 2019-08-25 16:31:18 +1200
 #############################
 
-8 LINZ ids are missing from NZOGPS Canterbury
+9 LINZ ids are missing from NZOGPS Canterbury
 ;linzid=3079720	Gold Valley Rd	-43.7070990510647,172.652569302629
 ;linzid=3080195	Verlamio Lane	-43.5156873667346,172.643545526133
 ;linzid=3080193	Ahaura St	-43.4809928744638,172.672133499338
@@ -10,6 +10,7 @@ Start = 2019-08-24 23:52:33 +1200
 ;linzid=3080206	Monte Cres	-43.6515675298,172.465430435735
 ;linzid=3080208	Memorial Cres	-43.6259072860569,171.650879364471
 ;linzid=3080209	Gleniffer Pl	-43.6259072860569,171.650879364471
+;linzid=3080219	Roles Way	-43.6131708716904,172.399015586945
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
@@ -36,5 +37,5 @@ Start = 2019-08-24 23:52:33 +1200
 ;linznumbid=700015	linzid=3038679	~[0x04]1	-43.32870,172.66609
 #############################
 
-Finish = 2019-08-24 23:52:36 +1200
-Processing time = 2.826561
+Finish = 2019-08-25 16:31:20 +1200
+Processing time = 2.300864

@@ -1,10 +1,11 @@
-Start = 2019-08-24 23:52:31 +1200
+Start = 2019-08-25 16:31:16 +1200
 #############################
 
-3 LINZ ids are missing from NZOGPS Wellington
+4 LINZ ids are missing from NZOGPS Wellington
 ;linzid=3080199	Kanzan Grv	-40.2040315652524,175.588322705151
 ;linzid=3080200	Meavy Lane	-40.2645524143759,175.726172585596
 ;linzid=3080212	Wairaka Pl	-40.3259390910354,175.62098900055
+;linzid=3080221	Jean Vanier Way	-40.9154034229803,175.01054672011
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -28,5 +29,5 @@ Start = 2019-08-24 23:52:31 +1200
 ;linznumbid=9500012	linzid=3015159	~[0x04]57	-40.53219,175.43243
 #############################
 
-Finish = 2019-08-24 23:52:33 +1200
-Processing time = 2.247682
+Finish = 2019-08-25 16:31:18 +1200
+Processing time = 1.963133

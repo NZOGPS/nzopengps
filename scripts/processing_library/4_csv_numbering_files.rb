@@ -67,7 +67,7 @@ end
     res.values.each{|row|
       i += 1
       next if row[0] == nil
-      csv << [i, row[3].strip, row[2].strip, (row[0]+" "+row[1]), row[4], "Waypoint", row[5]]
+      csv << [i, row[3].strip, row[2].strip, (row[0]+" "+row[1]), row[4], "Waypoint", row[5]?row[5]:0]
     }
     # run extra query for range_high data
 #	print "Hi Qry: #{sql_high_query}\n"
@@ -75,7 +75,7 @@ end
     res.values.each{|row|
       i += 1
       next if row[0] == nil
-      csv << [i, row[3].strip, row[2].strip, (row[0]+" "+row[1]), row[4], "Waypoint", row[5]]
+      csv << [i, row[3].strip, row[2].strip, (row[0]+" "+row[1]), row[4], "Waypoint", row[5]?row[5]:0]
     }
   print "Finish  = #{Time.now}\n"
   @reporting_file.print "Finish  = #{Time.now}\n"

@@ -1,15 +1,7 @@
-Start = 2019-08-25 16:31:11 +1200
+Start = 2019-08-27 23:38:52 +1200
 #############################
 
-8 LINZ ids are missing from NZOGPS Southland
-;linzid=3080196	Bowman Rd	-44.8656490524805,169.351020207331
-;linzid=3080197	Polson Tce	-44.863512879508,169.351297118642
-;linzid=3080198	Trevathan Way	-44.8656490524805,169.351020207331
-;linzid=3080213	Pukeko Lane	-45.0872765521828,170.941772122413
-;linzid=3080214	Kakaunui Bay Rd	-45.18135625,170.902303
-;linzid=3080215	Jessicas Lane	-45.0701681430319,170.943695919066
-;linzid=3080220	Ruru Lane	-45.2242103100169,169.365979341896
-;linzid=3080236	Chatham Rise	-46.419164609924,168.407990815089
+0 LINZ ids are missing from NZOGPS Southland
 #############################
 
 0 LINZ ids are in NZOGPS Southland but missing from LINZ
@@ -33,5 +25,5 @@ Start = 2019-08-25 16:31:11 +1200
 ;linznumbid=9800012	linzid=1775108	Porteous Rd	-45.69040,170.57020
 #############################
 
-Finish = 2019-08-25 16:31:14 +1200
-Processing time = 2.313703
+Finish = 2019-08-27 23:38:54 +1200
+Processing time = 2.300494

@@ -1,15 +1,7 @@
-Start = 2019-08-25 16:31:20 +1200
+Start = 2019-08-31 18:49:30 +1200
 #############################
 
-8 LINZ ids are missing from NZOGPS Waikato
-;linzid=3080112	Te Kaarearea Ave	-37.7891404333,175.3034651167
-;linzid=3080119	Brendon Cl	-37.6384158559641,176.04310223877
-;linzid=3080122	Sargent Pl	-38.1935484371359,175.211036582258
-;linzid=3080057	Hillbrook Way	-37.8064499413866,175.337349754063
-;linzid=3080201	Pipi Lane	-37.7605942649982,176.476043349668
-;linzid=3080202	Tio Pl	-37.7605942649982,176.476043349668
-;linzid=3080207	Tokomauri Cl	-37.2445143699641,175.020726696214
-;linzid=3080210	Asto Dr	-37.8199346867814,175.764745051661
+0 LINZ ids are missing from NZOGPS Waikato
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -75,5 +67,5 @@ Start = 2019-08-25 16:31:20 +1200
 ;linznumbid=9300056	linzid=3003064	Overdale Rd	-38.02814,175.75363
 #############################
 
-Finish = 2019-08-25 16:31:23 +1200
-Processing time = 2.679473
+Finish = 2019-08-31 18:49:33 +1200
+Processing time = 2.783246

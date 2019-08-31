@@ -1,22 +1,7 @@
-Start = 2019-08-25 16:31:23 +1200
+Start = 2019-08-31 18:49:41 +1200
 #############################
 
-15 LINZ ids are missing from NZOGPS Auckland
-;linzid=3080194	Corveen Rd	-36.9829856818348,174.911480772119
-;linzid=3080203	Hapine Lane	-36.7980908975889,174.654165497438
-;linzid=3080226	Huljich Way	-36.8031419691193,174.6585425357
-;linzid=3080224	Silverfern Ave	-36.8031419691193,174.6585425357
-;linzid=3080227	Te Mara Rd	-36.8162133982176,174.604885464269
-;linzid=3080225	Spring Garden Ave	-36.8169995855659,174.600690341873
-;linzid=3080228	Bougain Ave	-36.8151575442643,174.603643562026
-;linzid=3080229	Whauwhau Ave	-36.8151621699239,174.604603514896
-;linzid=3080230	Foxglove Rd	-36.8150802242086,174.605563606427
-;linzid=3080232	Coast Garden Dr	-36.8035680374258,174.660038809742
-;linzid=3080233	Landing Path Dr	-36.803827751776,174.658757664164
-;linzid=3080231	Pilot Dr	-36.803827751776,174.658757664164
-;linzid=3080234	Three Brothers Pl	-36.4129338365801,174.66784971467
-;linzid=3080235	Aurea Tce	-36.795671220413,174.52001742053
-;linzid=3080223	Pua St	-36.8149156420747,174.598322332903
+0 LINZ ids are missing from NZOGPS Auckland
 #############################
 
 0 LINZ ids are in NZOGPS Auckland but missing from LINZ
@@ -28,5 +13,5 @@ Start = 2019-08-25 16:31:23 +1200
 0 Number range ids are in NZOGPS Auckland but missing from LINZ
 #############################
 
-Finish = 2019-08-25 16:31:25 +1200
-Processing time = 2.435611
+Finish = 2019-08-31 18:49:43 +1200
+Processing time = 2.546595

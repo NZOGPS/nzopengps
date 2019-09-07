@@ -1,4 +1,4 @@
-Start = 2019-08-31 18:49:30 +1200
+Start = 2019-09-07 18:14:51 +1200
 #############################
 
 0 LINZ ids are missing from NZOGPS Waikato
@@ -67,5 +67,5 @@ Start = 2019-08-31 18:49:30 +1200
 ;linznumbid=9300056	linzid=3003064	Overdale Rd	-38.02814,175.75363
 #############################
 
-Finish = 2019-08-31 18:49:33 +1200
-Processing time = 2.783246
+Finish = 2019-09-07 18:14:53 +1200
+Processing time = 2.652291

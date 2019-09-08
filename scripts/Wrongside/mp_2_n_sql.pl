@@ -370,6 +370,7 @@ sub write_sql {
 	my @x;
 	my @y;
 	my @nums;
+	my $nnums;
 	my $i;
 	my $rdname;
 	my $j;
@@ -382,7 +383,7 @@ sub write_sql {
 	print SQLFILE "CREATE TABLE ${tablename} (";
 	print SQLFILE "\"gid\"  serial PRIMARY KEY,\n";
 	print SQLFILE "\"roadid\" integer,\n";
-	print SQLFILE "\"label\" varchar(50),\n";
+	print SQLFILE "\"label\" varchar(80),\n";
 	print SQLFILE "\"type\" varchar(10),\n";
 	print SQLFILE "\"linzid\" integer,\n";
 	print SQLFILE "\"nnum\" integer,\n";
@@ -401,24 +402,32 @@ sub write_sql {
 		@x = @{$$road[9]};
 		@y = @{$$road[10]};
 		@nums = @{$$road[11]};
+		$nnums = $#nums;
+		if ($nnums == -1) {$nnums++}; #print the line even if there's no numbering
 		$rdname = $$road[2][0];
 		$rdname =~ s/\'/\'\'/g;
-		for ($i=0;$i<=$#nums;$i++){
+		for ($i=0;$i<=$nnums;$i++){
+			#print "name: $$road[2][0] i: $i $$road[5] $x[0],$y[0]\n" if $$road[18][0] == 0;
 			if ($first) {
 				$first = 0;
 			} else {
 				print SQLFILE ",";
 			}
 			print SQLFILE "('$$road[5]','$rdname','$$road[1]','$$road[18][0]','$i',";
-			for ($j=1;$j<7;$j++){
-				print SQLFILE "'$nums[$i][$j]'";
-				if ($j<6){
-					print SQLFILE ",";
+			if ( $#nums == -1 ){ # no numbering, so dummy it
+				print SQLFILE "'N','-1','-1',";
+				print SQLFILE "'N','-1','-1'";
+			} else {
+				for ($j=1;$j<7;$j++){
+					print SQLFILE "'$nums[$i][$j]'";
+					if ($j<6){
+						print SQLFILE ",";
+					}
 				}
 			}
 			print SQLFILE ",ST_GeomFromText('LINESTRING(";
 			# for geom
-			$jmax = $i==$#nums?$#x:$nums[$i+1][0];
+			$jmax = $i==$nnums?$#x:$nums[$i+1][0];
 			for ($j=$nums[$i][0];$j<=$jmax;$j++){
 				print SQLFILE "$y[$j] $x[$j]";
 				if ($j<$jmax){

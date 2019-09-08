@@ -1,8 +1,7 @@
 40 entries in ..\..\LinzDataService\PaperRoads\Wellington-WrongSide.txt
 97 entries in ..\..\LinzDataService\PaperRoads\Wellington-LINZWrongSide.txt
-178 wrongside numbers, 94 not in Exclusion files
-9 entries in Ignore list are no longer on the wrong side
-1418498	238 ALBERT STREET	2013/12/21 08:09	-40.357751,175.629047
+177 wrongside numbers, 92 not in Exclusion files
+8 entries in Ignore list are no longer on the wrong side
 1691755	3 ASHFORD LANE	2013/12/22 18:14	-41.123661,175.072152
 1938260	103A Warwick Street, Feilding	2018/08/21 22:39	-40.224258,175.560045
 1451595	13 KEEL PLACE	2013/12/30 16:38	-41.114430,174.889217

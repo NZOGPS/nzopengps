@@ -541,7 +541,7 @@ sub nosufiset {
 sub nolinzidset {
 	my $dec;
 	
-	print "Check for roads with no linzid set: ";
+	print "Check for roads with no linzid set...";
 	if ( exists($bylinzid{-1})){
 		print "\n"; # keep the 'none found' on the same line
 		my @nolinzid = @{$bylinzid{-1}};
@@ -555,7 +555,7 @@ sub nolinzidset {
 			}
 		}
 	} else {
-		print "none found\n";
+		print "none found\n"; #bug? Never appears...
 	}
 }
 
@@ -1428,7 +1428,7 @@ sub numbered_id0 {
 	my $numptr;
 	my $isnum;
 	
-	print "Check for numbering on ".($cmdopts{l}?"Linzid":"Sufi")."=0 roads\n";
+	print "Check for numbering on ".($cmdopts{l}?"Linzid":"Sufi")."=0 roads...\n";
 	if ( exists(${$byid}{0})){ #of course it does, but...
 		my @id0 = @{${$byid}{0}};
 		for $i (@id0){
@@ -1469,10 +1469,14 @@ sub levels_check{
 		0x44 => 1, #large lake
 		0x46 => 1, #major lake
 	);
-	print "check for roads on too low a level...\n";
+	print "check for roads of type=0 or too low a level...\n";
 	for my $road (@roads) {
 		my $level = $$road[3];
 		my $type = $$road[1];
+		if (oct($type) == 0 ) {
+			print "Road has type = 0: \t";
+			dump_id2($road,0,-1);
+		}
 		if ($level < 1) {
 			print "Road on level 0 only:\t";
 			dump_id2($road,0,-1);

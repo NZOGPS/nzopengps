@@ -151,6 +151,7 @@ close OUT;
 my $cwd = cwd();
 $filename = Cwd::abs_path("$cwd/../LinzDataService/outputslinz/$tile-LINZ-V2.mp");
 my $gme = Win32::OLE->new('GPSMapEdit.Application.1');
+sleep 1; # funky crap happens if you don't wait.
 my $gv = $gme->version;
 die "Obsolete GPSMapedit version $gv" if $gv lt '1.1.60.0';
 $gme->Open($filename,0);
@@ -160,6 +161,7 @@ $filename =~ s/LINZ-V2/LINZ-V3/;
 $filename =~ s|/|\\|g;
 $gme->SaveAs($filename,'polish');
 $gme->Close();
+$gme->Close(); #funky crap also seems to happen if you don't close twice. Not sure about this, but safer to do it anyway.
 
 
 

@@ -1,33 +1,57 @@
-Start = 2019-09-07 18:15:01 +1200
+Start = 2019-10-09 00:23:17 +1300
 #############################
 
-1 LINZ ids are missing from NZOGPS Canterbury
+24 LINZ ids are missing from NZOGPS Canterbury
+;linzid=3027685	State Highway 1	-43.4297944501007,172.646326138011
 ;linzid=3079720	Gold Valley Rd	-43.7070990510647,172.652569302629
+;linzid=3080238	Luge Loop	-43.2068872135037,171.716261839084
+;linzid=3080239	Bevel Crt	-43.2066097938523,171.713979380496
+;linzid=3080240	Telemark Rise	-43.2055524734554,171.716849822839
+;linzid=3080278	John Britten Lane	-43.5274762500181,172.611904942121
+;linzid=3080289	Bill Harvey Dr	-43.567888522567,172.541775481425
+;linzid=3080290	Bryden Pl	-43.5686563139332,172.54328285466
+;linzid=3080291	Gallantry Lane	-43.5692275083343,172.54262531015
+;linzid=3080292	Valour Lane	-43.56790483649,172.54184381633
+;linzid=3080293	Albert Wills Ave	-43.5689788521676,172.540721554011
+;linzid=3080294	Beamsgate Rd	-43.5851071216173,172.580802950137
+;linzid=3080295	Bings Lane	-43.5199525266617,172.652924269762
+;linzid=3080296	Ettrick Lane	-43.5191627913227,172.657628598522
+;linzid=3080297	Fairbairn Cl	-43.5831101671404,172.561862528784
+;linzid=3080299	Gammack Dr	-43.5836161001681,172.559961456853
+;linzid=3080300	Flynn Lane	-43.5836161001681,172.559961456853
+;linzid=3080305	Tulett Park Dr	-43.4727897509396,172.594910892957
+;linzid=3080309	Gee Lane	-43.5320081903966,172.652942010275
+;linzid=3080319	Patrick McGough Way	-43.5680672217008,172.542303430307
+;linzid=3080321	Shingle Lane	-43.5512648093103,172.632206807624
+;linzid=3080322	Styxspring Lane	-43.47742775961,172.583113451612
+;linzid=3080332	Springdale Ave	-43.9671773963745,171.760732768871
+;linzid=3080331	Village Green Dr	-43.9671773963745,171.760732768871
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
 #############################
 
-0 Number range ids are missing from NZOGPS Canterbury
+1 Number range ids are missing from NZOGPS Canterbury
+;linznumbid=1000028	State Highway 1	-43.4297944501007,172.646326138011
 #############################
 
 15 Number range ids are in NZOGPS Canterbury but missing from LINZ
-;linznumbid=700001	linzid=3026236	Telegraph Rd	-43.54369,172.15585
-;linznumbid=700002	linzid=3026236	Telegraph Rd	-43.49026,172.10770
-;linznumbid=700003	linzid=1780393	McLaughlins Rd	-43.48845,172.10463
-;linznumbid=700004	linzid=1780393	McLaughlins Rd	-43.52618,172.04214
-;linznumbid=700005	linzid=1786345	Old Main South Rd	-44.01381,171.54327
-;linznumbid=700006	linzid=1786345	Old Main South Rd	-44.12476,171.31541
-;linznumbid=700007	linzid=3070462	Boundary Rd	-43.26221,172.59835
-;linznumbid=700008	linzid=3070462	Boundary Rd	-43.15140,172.58723
-;linznumbid=700009	linzid=3016814	~[0x04]77	-43.48069,171.94247
-;linznumbid=700010	linzid=3016814	Homebush Rd	-43.47275,172.25850
-;linznumbid=700011	linzid=3067968	Malvern Hills Rd	-43.47689,171.97163
-;linznumbid=700012	linzid=3067968	Malvern Hills Rd	-43.39138,172.01991
-;linznumbid=700013	linzid=3052729	~[0x04]1	-44.53362,171.18545
-;linznumbid=700014	linzid=3052729	~[0x04]1	-44.52636,171.19326
-;linznumbid=700015	linzid=3038679	~[0x04]1	-43.32870,172.66609
+;linznumbid=9700001	linzid=3026236	Telegraph Rd	-43.54369,172.15585
+;linznumbid=9700002	linzid=3026236	Telegraph Rd	-43.49026,172.10770
+;linznumbid=9700003	linzid=1780393	McLaughlins Rd	-43.48845,172.10463
+;linznumbid=9700004	linzid=1780393	McLaughlins Rd	-43.52618,172.04214
+;linznumbid=9700005	linzid=1786345	Old Main South Rd	-44.01381,171.54327
+;linznumbid=9700006	linzid=1786345	Old Main South Rd	-44.12476,171.31541
+;linznumbid=9700007	linzid=3070462	Boundary Rd	-43.26221,172.59835
+;linznumbid=9700008	linzid=3070462	Boundary Rd	-43.15140,172.58723
+;linznumbid=9700009	linzid=3016814	~[0x04]77	-43.48069,171.94247
+;linznumbid=9700010	linzid=3016814	Homebush Rd	-43.47275,172.25850
+;linznumbid=9700011	linzid=3067968	Malvern Hills Rd	-43.47689,171.97163
+;linznumbid=9700012	linzid=3067968	Malvern Hills Rd	-43.39138,172.01991
+;linznumbid=9700013	linzid=3052729	~[0x04]1	-44.53362,171.18545
+;linznumbid=9700014	linzid=3052729	~[0x04]1	-44.52636,171.19326
+;linznumbid=9700015	linzid=3038679	~[0x04]1	-43.32870,172.66609
 #############################
 
-Finish = 2019-09-07 18:15:03 +1200
-Processing time = 2.542405
+Finish = 2019-10-09 00:23:21 +1300
+Processing time = 4.192706

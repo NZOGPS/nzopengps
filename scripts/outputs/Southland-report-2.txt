@@ -1,7 +1,14 @@
-Start = 2019-09-07 18:14:46 +1200
+Start = 2019-10-09 00:23:05 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Southland
+7 LINZ ids are missing from NZOGPS Southland
+;linzid=3080243	Grace Wright Dr	-44.7027662760305,169.155169737228
+;linzid=3080274	Maple Cl	-45.0360462716935,169.190807674701
+;linzid=3080276	Isabella Lane	-44.8186817538809,169.340189143584
+;linzid=3080275	Edward Lane	-44.8186817538809,169.340189143584
+;linzid=3080286	Clives Way	-45.0314498355613,169.695167046262
+;linzid=3080287	Aadies Way	-46.4178687991347,168.390627594165
+;linzid=3080288	Lindsay Way	-46.3814722833,168.33466698333
 #############################
 
 0 LINZ ids are in NZOGPS Southland but missing from LINZ
@@ -25,5 +32,5 @@ Start = 2019-09-07 18:14:46 +1200
 ;linznumbid=9800012	linzid=1775108	Porteous Rd	-45.69040,170.57020
 #############################
 
-Finish = 2019-09-07 18:14:48 +1200
-Processing time = 2.548668
+Finish = 2019-10-09 00:23:09 +1300
+Processing time = 4.303593

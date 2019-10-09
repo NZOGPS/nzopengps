@@ -1,10 +1,13 @@
-Start = 2019-08-26 17:06:06 +1200
+Start = 2019-10-09 00:23:01 +1300
 #############################
 
-3 LINZ ids are missing from NZOGPS Northland
-;linzid=3080216	Cherrywood Rise	-36.1005531688916,174.243875266319
-;linzid=3080217	Raepare Creek Lane	-36.1778436999074,174.414269133994
-;linzid=3080222	Chetham Rd	-35.8391824333,174.4475676667
+6 LINZ ids are missing from NZOGPS Northland
+;linzid=3080242	Hirere Way	-35.2326919244026,173.958872116659
+;linzid=3080241	Te Wairere Rd	-35.2326919244026,173.958872116659
+;linzid=3080320	Dram Way	-35.9814894610255,174.444819916161
+;linzid=3080306	Park Cres	-36.1109270153501,174.586562159176
+;linzid=3080335	North View Hts	-35.7356164290591,174.2931981504
+;linzid=3080346	Weka Lane	-35.2555415480312,173.85903443482
 #############################
 
 0 LINZ ids are in NZOGPS Northland but missing from LINZ
@@ -16,5 +19,5 @@ Start = 2019-08-26 17:06:06 +1200
 0 Number range ids are in NZOGPS Northland but missing from LINZ
 #############################
 
-Finish = 2019-08-26 17:06:07 +1200
-Processing time = 1.049031
+Finish = 2019-10-09 00:23:03 +1300
+Processing time = 1.771185

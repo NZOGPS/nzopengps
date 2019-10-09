@@ -1,7 +1,8 @@
-Start = 2019-09-07 18:15:03 +1200
+Start = 2019-10-09 00:23:47 +1300
 linzid	street_name	street_name_2	official_street_name
 3033541	Cascade Pyke Valley Rd		Cascade Pyke Valley Road - legality not determined	-44.31153,168.22678
+3080204	Verdeco Dr		Verdeco Blvd	-43.65087,172.46963
 #############################
 
-Finish = 2019-09-07 18:15:05 +1200
-Processing time = 2.109843
+Finish = 2019-10-09 00:23:51 +1300
+Processing time = 3.957945

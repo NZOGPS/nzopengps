@@ -1,6 +1,8 @@
-Start = 2019-09-07 18:14:59 +1200
+Start = 2019-10-09 00:23:43 +1300
 linzid	street_name	street_name_2	official_street_name
+1842399	Opaki Meadows Dr		Opaki Meadows Lane	-40.93334,175.67149
+3080070	Wycliffe Cres		Wycliffe Pl	-40.96685,175.62333
 #############################
 
-Finish = 2019-09-07 18:15:00 +1200
-Processing time = 1.739224
+Finish = 2019-10-09 00:23:46 +1300
+Processing time = 3.097826

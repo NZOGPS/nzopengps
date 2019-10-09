@@ -1,7 +1,18 @@
-Start = 2019-09-07 18:14:56 +1200
+Start = 2019-10-09 00:23:13 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Wellington
+11 LINZ ids are missing from NZOGPS Wellington
+;linzid=3080310	Atherton Tce	-41.1937040903422,174.805013380329
+;linzid=3080323	McCrae Pl	-40.2847147383753,175.75962606938
+;linzid=3080324	Silvereye Way	-41.2245101305235,174.795197270041
+;linzid=3080325	Jean Caldwell Way	-41.3337210044589,174.777114585819
+;linzid=3080326	Erica Pabst Way	-41.3327706497253,174.777135197156
+;linzid=3080347	Fantail Ave	-41.0354945034402,175.513558612639
+;linzid=3080349	Takahe Dr	-41.0361084530975,175.512919018056
+;linzid=3080348	Kea Crt	-41.0360383072231,175.514467000503
+;linzid=3080354	Valerie Smith Lane	-41.1848328630668,174.91475450122
+;linzid=3080353	Richard Sadleir Way	-41.1848328630668,174.91475450122
+;linzid=3080355	Raumanuka Rd	-41.2024560601508,174.946765162541
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -25,5 +36,5 @@ Start = 2019-09-07 18:14:56 +1200
 ;linznumbid=9500012	linzid=3015159	~[0x04]57	-40.53219,175.43243
 #############################
 
-Finish = 2019-09-07 18:14:58 +1200
-Processing time = 2.003059
+Finish = 2019-10-09 00:23:17 +1300
+Processing time = 3.571341

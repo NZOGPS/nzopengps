@@ -1,7 +1,6 @@
-Start = 2019-10-09 00:23:36 +1300
+Start = 2019-10-11 23:05:38 +1300
 linzid	street_name	street_name_2	official_street_name
-3079097	McNeill Cres		McNeil Cres	-44.68211,169.14142
 #############################
 
-Finish = 2019-10-09 00:23:40 +1300
-Processing time = 3.921978
+Finish = 2019-10-11 23:05:40 +1300
+Processing time = 1.879179

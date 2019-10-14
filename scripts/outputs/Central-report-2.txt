@@ -1,17 +1,7 @@
-Start = 2019-10-09 00:23:09 +1300
+Start = 2019-10-11 23:05:40 +1300
 #############################
 
-10 LINZ ids are missing from NZOGPS Central
-;linzid=3080237	Greenside Lane	-39.6195248480653,176.849155279434
-;linzid=3080272	Plumtree Lane	-39.5876616076379,176.911669417072
-;linzid=3080273	Lochnivar Lane	-38.7052088027113,176.00129385086
-;linzid=3080315	Totarahoe Lane	-39.0846950493081,174.039878386526
-;linzid=3080316	Orite Dr	-39.0776815470445,174.091902569624
-;linzid=3080317	Atutahi St	-39.0925511348236,174.051314486486
-;linzid=3080318	Piharau Cres	-39.0925511348236,174.051314486486
-;linzid=3080336	Horton Cl	-39.617467377992,176.824338131689
-;linzid=3080337	Hikawera Dr	-39.61581211772,176.828788888444
-;linzid=3080338	Dinneen Cl	-39.6170876378308,176.823902431645
+0 LINZ ids are missing from NZOGPS Central
 #############################
 
 0 LINZ ids are in NZOGPS Central but missing from LINZ
@@ -79,5 +69,5 @@ Start = 2019-10-09 00:23:09 +1300
 ;linznumbid=9400056	linzid=3080164	~[0x04]51	-39.52329,176.91777
 #############################
 
-Finish = 2019-10-09 00:23:13 +1300
-Processing time = 3.76215
+Finish = 2019-10-11 23:05:42 +1300
+Processing time = 1.906587

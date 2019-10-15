@@ -1,13 +1,6 @@
-Start = 2019-10-09 00:23:51 +1300
+Start = 2019-10-15 23:44:30 +1300
 linzid	street_name	street_name_2	official_street_name
-1814811	Aroka Marae Rd		Aruka Marae Rd	-38.15168,174.73448
-1808373	Goldstone Rd		Goldstone Pl	-37.65279,176.02637
-1808373	Goldstone Rd		Goldstone Pl	-37.65306,176.02694
-3079631	Riroriro Way		Gabriela Cl	-37.73861,176.11416
-3079828	Coptic Way		Sharp Way	-37.22149,175.01212
-3079894	Nagtaierua Lane		Ngataierua Lane	-37.71518,176.31890
-3080015	Whitten Way		Whitton Way	-37.22350,174.89136
 #############################
 
-Finish = 2019-10-09 00:23:56 +1300
-Processing time = 4.875005
+Finish = 2019-10-15 23:44:32 +1300
+Processing time = 2.306624

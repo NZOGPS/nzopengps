@@ -1,18 +1,8 @@
-Start = 2019-10-09 00:23:03 +1300
+Start = 2019-10-15 23:44:25 +1300
 #############################
 
-11 LINZ ids are missing from NZOGPS Tasman
-;linzid=3080016	McNabb Pl	-41.5529760966891,173.932020203145
-;linzid=3080097	Chamerion Way	-41.25612795,173.3084964333
-;linzid=3080128	Nikau Lane	-42.3262944074214,173.670413324916
-;linzid=3080149	Harakeke Cl	-41.3516675993147,173.181917252335
-;linzid=3080150	Kerepi Cl	-41.3526335977409,173.182559913605
-;linzid=3080151	Oro Pl	-41.3523018503061,173.182250737884
-;linzid=3080154	Tidewater Rd	-41.3278916058221,173.176496441916
-;linzid=3080153	Estuary Pl	-41.326779689839,173.17826702299
+1 LINZ ids are missing from NZOGPS Tasman
 ;linzid=3080155	Paramount Way	-41.2535470770507,173.092383089195
-;linzid=3080311	Resolution Pl	-41.3520340668456,173.188573105943
-;linzid=3080314	Saltmarsh Lane	-41.326779689839,173.17826702299
 #############################
 
 0 LINZ ids are in NZOGPS Tasman but missing from LINZ
@@ -28,5 +18,5 @@ Start = 2019-10-09 00:23:03 +1300
 ;linznumbid=9600004	linzid=3071437	~[0x04]6	-41.83017,172.00008
 #############################
 
-Finish = 2019-10-09 00:23:05 +1300
-Processing time = 2.016937
+Finish = 2019-10-15 23:44:26 +1300
+Processing time = 1.117129

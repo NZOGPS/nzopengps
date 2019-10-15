@@ -1,23 +1,10 @@
-Start = 2019-10-09 00:23:21 +1300
+Start = 2019-10-15 23:44:27 +1300
 #############################
 
-12 LINZ ids are missing from NZOGPS Waikato
-;linzid=3080253	Anatere Rise	-37.4454236888539,175.962717988997
-;linzid=3080254	Salt Ave	-37.6731793001811,176.230502827206
-;linzid=3080255	Teal Lane	-38.16918615,175.3052531667
-;linzid=3080284	Paddock Lane	-37.1946581519694,174.923528327638
-;linzid=3080285	Roto Lane	-37.1946581519694,174.923528327638
-;linzid=3080307	Kereruu St	-37.8717313899334,175.473483435864
-;linzid=3080308	Audax Lane	-37.7510553566783,176.110576053744
-;linzid=3080334	Manawaroa Cl	-37.7754428993127,175.222878084498
-;linzid=3080341	Ngawhetu Lane	-37.6718045422579,176.171285197937
-;linzid=3080345	Amberfields Way	-37.1458339542624,174.94117278493
-;linzid=3080351	Frederica Rise	-37.2551750323518,174.768928828331
-;linzid=3080352	Seetal Gill Lane	-37.6080418571399,175.307248474145
+0 LINZ ids are missing from NZOGPS Waikato
 #############################
 
-1 LINZ ids are in NZOGPS Waikato but missing from LINZ
-;linzid=1841009	Mission Way	-37.82129,175.22661
+0 LINZ ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Waikato
@@ -80,5 +67,5 @@ Start = 2019-10-09 00:23:21 +1300
 ;linznumbid=9300056	linzid=3003064	Overdale Rd	-38.02814,175.75363
 #############################
 
-Finish = 2019-10-09 00:23:26 +1300
-Processing time = 5.032845
+Finish = 2019-10-15 23:44:30 +1300
+Processing time = 2.587371

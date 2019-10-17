@@ -138,3 +138,5 @@
 1030000003867	O,135,135	Savills Rd	Yaldhurst, Christchurch(Canterbury,NZ)	2017/09/24 16:27	-43.491610,172.504860
 1030000055041	B,15,35	Guthries Rd	Styx, Christchurch(Canterbury,NZ)	2017/09/24 16:28	-43.448530,172.647290
 1030000040950	O,607,615	Avonhead Rd	Avonhead, Christchurch(Canterbury,NZ)	2017/09/24 16:31	-43.497710,172.547190
+1030000039841	O,63,63	Constitution Rd	Rotherham(Canterbury,NZ)	2019/10/18 00:21	-42.747480,172.950790
+1030000054017	E,248,254	Oxford Tce	Christchurch Central, Christchurch(Canterbury,NZ)	2019/10/18 00:37	-43.527700,172.636630

@@ -125,4 +125,21 @@
 1982197	2028 Tapanui Raes Junction Highway, Edievale	2017/12/02 14:30	-45.799213,169.372261
 1605014	121 Otakou Golf Course Road, Otakou	2017/12/02 14:35	-45.806536,170.686062
 ----New 19:11 03/06/19
-1004407	473 Dunstan Road, Alexandra	2019/06/03 19:11	-45.213004,169.359007	No obvious dwelling matching 473. This one looks like 482 to me.
+1004407	473 Dunstan Road, Alexandra	2019/06/03 19:11	-45.213004,169.359007	No obvious dwelling matching 473. The obvious dwelling near the point looks like 482 or possibly 486 to me.
+1310098	71 Taieri View Road, North Taieri	2019/10/18 23:12	-45.829152,170.309110	This road numbering is all over the place. Random numbers everywhere...
+54678	10 Meldrum Street, Liberton, Dunedin	2019/10/18 23:15	-45.842216,170.520396	Seems to be the same property as 30 Forrester Ave?
+1409435	62 Prendergast Road, Hyde	2019/10/18 23:31	-45.306712,170.268632	Presumably next to 60 - S45°18.1159' E170°15.8629'
+1605008	60 Miller Road, Waitati	2019/10/18 23:34	-45.762500,170.544823
+77278	140 Belmont Road, Wairaki	2019/10/18 23:39	-45.837208,167.714114	Dwellings appear to be at the end of the road
+908995	449 Watts Road, Wendon Valley	2019/10/18 23:41	-45.830996,168.940738	Obvious dwelling matching number at S45°49.9527' E168°56.3671'
+53145	1265 Harington Point Road, Harington Point	2019/10/18 23:42	-45.777567,170.732564
+400646	375 Frentz Road, Pahia	2019/10/18 23:44	-46.309687,167.696605	Building at S46°18.6019' E167°41.9240'
+23443	82 Berriedale Road, Circle Hill	2019/10/18 23:47	-46.026719,169.983805	Obvious dwelling at S46°01.5940' E169°59.2909'
+2177559	338 Kingston Road, Jacks Point	2019/10/18 23:49	-45.050102,168.754608
+2168131	144 Smalls Road, Moa Creek	2019/10/18 23:50	-45.209105,169.699969
+1693421	70 Coast Road, Warrington	2019/10/18 23:51	-45.714288,170.576623
+1410998	675 Waitati Valley Road, Upper Waitati	2019/10/18 23:53	-45.765794,170.555051	675 would be around S45°45.8068' E170°33.1736'
+1562935	1540 Horse Range Road, Hillgrove	2019/10/18 23:54	-45.384822,170.823726	Obvious dwelling here. To me it should be 1541
+1584693	9750 Kyeburn-Hyde Road, Tiroiti	2019/10/18 23:57	-45.251673,170.261743	There's a vague track where 9750 would be at S45°14.8433' E170°15.3857'
+1674454	3800 Danseys Pass Road, Kyeburn Diggings	2019/10/19 00:02	-45.011225,170.276557	Obvious dwellings here, and obviously opposite 3796 nearby.
+1674453	3802 Danseys Pass Road, Kyeburn Diggings	2019/10/19 00:02	-45.011104,170.276065	ditto

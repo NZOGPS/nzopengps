@@ -165,3 +165,36 @@
 120766	2846 Hakatere Potts Road	2015/04/10 10:52	-43.519740,170.874271
 1331225	222 McEvedys Road	2015/04/27 19:39	-43.869990,172.299244	better coords might be -43.867240,172.297483
 ----- Above sent to LINZ 27/04/2015 
+291318	1291 Kaiwara Road, Lowry Hills Range	2019/10/18 20:54	-42.818297,173.066292	Drive that matches RAPID at S42°49.3093' E173°03.7355'
+278353	14 Highbank Lane, Mount Pleasant, Christchurch	2019/10/18 21:03	-43.565115,172.724193	Point is in the middle of the road. Better would be S43°33.9029' E172°43.4600'
+2176254	9 Huirapa Street, Temuka	2019/10/18 21:06	-44.255352,171.273172	No obvious dwelling for 9. Is it the cemetery? If so, perhaps S44°15.3629' E171°16.4210'. Or is it actually 9 Station Rd?
+2174233	2 Stratheona Road, Pleasant Point	2019/10/18 21:16	-44.249762,171.136516	I note that No 7 ID 2174236 letterbox has 7/42. Is this actually 2/42? Wrong end as well as wrong side.
+1556652	30 Stratheona Road, Pleasant Point	2019/10/18 21:18	-44.249778,171.136138	Ditto above.
+2159168	876 Upper Downs Road, Surrey Hills	2019/10/18 21:23	-43.722033,171.345704	Possible typo? Clear driveway where 879 would be.
+1388625	228 O'Neills Road, Coal Stream	2019/10/18 21:26	-44.149409,170.808915	Another typo? Drive matches where 223 would be.
+2158394	317 O'Neills Road, Coal Stream	2019/10/18 21:28	-44.152358,170.797719	Matching drive across the road. S44°09.1772' E170°47.8874' perhaps?
+2152189	5006 Tekapo-Twizel Road, Pukaki	2019/10/18 21:31	-44.187937,170.125657
+2124844	197 Factory Road, Temuka	2019/10/18 21:34	-44.221113,171.295598
+2124840	104 Seadown Road, Washdyke, Timaru	2019/10/18 21:37	-44.345729,171.243257
+2123434	750 Okains Bay Road, Okains Bay	2019/10/18 21:41	-43.725554,172.999922
+2043207	14 Wightmans Road, Mount Hutt	2019/10/18 21:42	-43.521642,171.634933	There's a dwelling in this paddock, but it looks to me like RAPID should be 25.
+2040428	500 Hayland Road, Okuku	2019/10/18 21:48	-43.195865,172.358354
+1955045	85 Totara Valley Road, Totara Valley	2019/10/18 21:51	-44.243882,171.104239	Driveway here looks to me to be 86 not 85. 
+1755993	131 Bells Road, Robinsons Bay	2019/10/18 22:02	-43.773796,172.984438
+1689553	21 Culverden Road, Culverden	2019/10/18 22:03	-42.776770,172.843842	Based on the drive, I guess a typo and should be 2? Or 21 is around S42°46.6608' E172°50.7364'
+1527159	34 Guthries Road, Belfast, Christchurch	2019/10/18 22:08	-43.450814,172.645977	Point is under new motorway. Dwelling at S43°27.0968' E172°38.8044'
+152954	113 Domain Road, Oxford	2019/10/18 22:10	-43.355351,172.195757	Dwelling matching number at S43°21.8107' E172°11.8271'
+2022193	230 Reynolds Valley Road, Peraki	2019/10/18 22:23	-43.790578,172.837510	No obvious dwellings or drives. 230 would be around S43°47.5228' E172°50.3245'
+2013301	240 Levels Valley Road, Levels Valley	2019/10/18 22:25	-44.297865,171.147741 Drive here looks to me to be 239 not 240. 240 would be S44°17.7995' E171°08.8455'
+154431	617 Ashley Road, Starvation Hill	2019/10/18 22:29	-43.245586,172.319132
+154428	627 Ashley Road, Starvation Hill	2019/10/18 22:29	-43.244723,172.316272
+1963673	200 Gebbies Pass Road, Gebbies Valley	2019/10/18 22:30	-43.705449,172.609596	The drive here looks to me to be around 219. There's also a driveway corresponding to 200 at S43°42.4771' E172°36.5425'
+1607661	614 Riverview Road, Domett	2019/10/18 22:36	-42.888222,173.190951	614 would be around S42°53.2669' E173°11.2605'
+1388138	370 Stoneleigh Road, Mount Dobson	2019/10/18 22:41	-43.990282,170.747346	There's a corresponding dwelling at S44°00.1146' E170°44.9665'
+155858	1 Mountain Road, Okuku	2019/10/18 22:43	-43.212861,172.400701	This point is in the middle of the road. Perhaps S43°12.7901' E172°24.0420'
+1354159	438 Sladdens Bush Road, Coopers Creek	2019/10/18 22:45	-43.253077,172.114778
+1954287	5388 Makarora-Lake Hawea Road, Makarora	2019/10/18 22:56	-44.275376,169.199934	Bizarre that the three numbers here are all on the wrong side. 5388 would be around S44°16.4948' E169°12.1083'
+156008	1275 Virginia Road, Virginia	2019/10/18 23:00	-42.918626,172.426341	Obvious dwelling at S42°55.2433' E172°25.3485' matching RAPID.
+1371605	1067 Main South Road, Rolleston	2019/10/18 23:02	-43.564413,172.451521	Point is under the new motorway. Does the property still exist?
+1623065	1/1103 Main South Road, Rolleston	2019/10/18 23:03	-43.565665,172.448844	Point is under the new motorway. Is this property now off Tiptree lane? Or possibly move the point to S43°34.0172' E172°26.9380'
+1321130	1415 Tekapo-Twizel Road, Tekapo	2019/10/18 23:06	-44.067071,170.359362	1415 looks to me to be around S44°03.8613' E170°21.8534'

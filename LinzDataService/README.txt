@@ -34,10 +34,15 @@ https://github.com/oneclick/rubyinstaller/wiki/Development-Kit
 
 Rubygems
 These are libraries that we must install to run this script. Run the following from command line.
+
+gem install progressbar -v 0.21
+#documentation https://github.com/jfelchner/ruby-progressbar
+#newer versions have different syntax, so you need to install an old version
+
 gem install rgeo
 #documentation https://github.com/dazuma/rgeo
-gem install rgeo-shapefile
-#documetation http://virtuoso.rubyforge.org/rgeo-shapefile/
+
+#maybe? Not sure if still needed?
 gem install dbf
 
 Script developed November 2011 using Ruby 1.8.7 p352

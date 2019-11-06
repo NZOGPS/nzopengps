@@ -1,9 +1,9 @@
-Start = 2019-10-09 00:23:56 +1300
+Start = 2019-11-06 22:42:37 +1300
 linzid	street_name	street_name_2	official_street_name
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
 3064803	~[0x04]17	Albany Expressway	Dairy Flat Hwy	-36.73617,174.71645
-3079968	Sacracen Way		Saracen Way	-36.96536,174.98376
+3078681	Eros Rd		Kilcadden Dr	-36.97940,174.93311
 #############################
 
-Finish = 2019-10-09 00:24:02 +1300
-Processing time = 6.34649
+Finish = 2019-11-06 22:42:40 +1300
+Processing time = 2.655284

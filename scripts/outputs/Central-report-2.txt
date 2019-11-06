@@ -1,7 +1,9 @@
-Start = 2019-10-11 23:05:40 +1300
+Start = 2019-11-03 15:59:28 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Central
+2 LINZ ids are missing from NZOGPS Central
+;linzid=3080422	Gee Pl	-39.5446013924918,176.856941079147
+;linzid=3080423	Young Pl	-39.5423858333,176.8575117833
 #############################
 
 0 LINZ ids are in NZOGPS Central but missing from LINZ
@@ -69,5 +71,5 @@ Start = 2019-10-11 23:05:40 +1300
 ;linznumbid=9400056	linzid=3080164	~[0x04]51	-39.52329,176.91777
 #############################
 
-Finish = 2019-10-11 23:05:42 +1300
-Processing time = 1.906587
+Finish = 2019-11-03 15:59:31 +1300
+Processing time = 3.074862

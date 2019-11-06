@@ -1,4 +1,4 @@
-Start = 2019-10-15 23:44:26 +1300
+Start = 2019-11-03 15:59:47 +1300
 linzid	street_name	street_name_2	official_street_name
 3032989	Settlement Rd ( 4WD Only)		Settlement Rd	-42.68954,171.22630
 3075346	Service Lane		Eleventh Lane	-41.53924,173.93827
@@ -6,5 +6,5 @@ linzid	street_name	street_name_2	official_street_name
 1790396	Greenstone Rd (Unmaintained)		Greenstone Rd	-42.66869,171.18008
 #############################
 
-Finish = 2019-10-15 23:44:27 +1300
-Processing time = 0.966089
+Finish = 2019-11-03 15:59:48 +1300
+Processing time = 1.31266

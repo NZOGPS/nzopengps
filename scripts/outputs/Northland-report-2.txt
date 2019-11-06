@@ -1,13 +1,19 @@
-Start = 2019-10-09 00:23:01 +1300
+Start = 2019-11-03 15:59:21 +1300
 #############################
 
-6 LINZ ids are missing from NZOGPS Northland
+12 LINZ ids are missing from NZOGPS Northland
 ;linzid=3080242	Hirere Way	-35.2326919244026,173.958872116659
 ;linzid=3080241	Te Wairere Rd	-35.2326919244026,173.958872116659
 ;linzid=3080320	Dram Way	-35.9814894610255,174.444819916161
 ;linzid=3080306	Park Cres	-36.1109270153501,174.586562159176
 ;linzid=3080335	North View Hts	-35.7356164290591,174.2931981504
 ;linzid=3080346	Weka Lane	-35.2555415480312,173.85903443482
+;linzid=3080362	Swordfish Lane	-36.1038201697765,174.588882067466
+;linzid=3080474	Blue Moon Rise	-36.0388670922871,174.523700924549
+;linzid=3080475	Galaxy Lane	-36.0392772002549,174.523037805341
+;linzid=3080476	Milky Way	-36.038777209468,174.523867634582
+;linzid=3080477	Solar Way	-36.0388670922871,174.523700924549
+;linzid=3080478	Starlight Pl	-36.0402570905834,174.52285583712
 #############################
 
 0 LINZ ids are in NZOGPS Northland but missing from LINZ
@@ -19,5 +25,5 @@ Start = 2019-10-09 00:23:01 +1300
 0 Number range ids are in NZOGPS Northland but missing from LINZ
 #############################
 
-Finish = 2019-10-09 00:23:03 +1300
-Processing time = 1.771185
+Finish = 2019-11-03 15:59:22 +1300
+Processing time = 1.335633

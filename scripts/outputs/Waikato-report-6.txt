@@ -1,6 +1,7 @@
-Start = 2019-10-15 23:44:30 +1300
+Start = 2019-11-03 15:59:59 +1300
 linzid	street_name	street_name_2	official_street_name
+1806003	Ngatipu Pl		Ngati Pu Pl	-37.18994,175.85479
 #############################
 
-Finish = 2019-10-15 23:44:32 +1300
-Processing time = 2.306624
+Finish = 2019-11-03 16:00:02 +1300
+Processing time = 3.174755

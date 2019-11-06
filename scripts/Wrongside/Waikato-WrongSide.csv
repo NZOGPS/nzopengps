@@ -1,8 +1,8 @@
-176.18918090,-37.75510427,"62 Shady Lane, Welcome Bay, Tauranga",Wrong Side: 136061
 176.04413658,-37.67457523,"79 Jess Road, Whakamarama",Wrong Side: 390358
 177.48648623,-38.09880622,"2268 Motu Road, Toatoa",Wrong Side: 570784
 175.80604947,-37.10877452,"135 McBeth Road, Hikuai",Wrong Side: 580981
 178.05590200,-38.04601830,"2667 Ihungia Road, Raukumara",Wrong Side: 584001
+175.25012787,-37.72292438,"24 Trauzer Place, Flagstaff, Hamilton",Wrong Side: 649717
 175.15720746,-37.73957106,"2 Heron Court, Te Kowhai",Wrong Side: 651172
 175.15747952,-37.73963550,"4 Heron Court, Te Kowhai",Wrong Side: 651194
 175.15774442,-37.73966772,"6 Heron Court, Te Kowhai",Wrong Side: 651201
@@ -20,8 +20,6 @@
 177.00316203,-38.13961595,"875 Reid Road, Ruatoki",Wrong Side: 852826
 177.06215372,-38.13927020,"34 Wardlaw Road, Waimana",Wrong Side: 854242
 177.10012046,-38.01288769,"92 Burke Road, Wainui",Wrong Side: 857517
-174.72105038,-37.24203120,"13 Bayview Drive, Waiuku",Wrong Side: 1062841
-174.72072702,-37.24202662,"25 Bayview Drive, Waiuku",Wrong Side: 1062927
 174.73628143,-37.13747810,"35A Wallace Drive, Clarks Beach",Wrong Side: 1101260
 174.97083657,-37.16915607,"21 Helland Drive, Bombay",Wrong Side: 1280427
 174.99417430,-37.15536272,"234 Maxted Road, Ramarama",Wrong Side: 1281931
@@ -33,7 +31,7 @@
 176.44475197,-37.93344913,"1500 Maniatutu Road, Pongakawa",Wrong Side: 1366094
 176.03891593,-37.68329800,"35 Te Karaka Drive, Whakamarama",Wrong Side: 1377510
 176.16277055,-37.68579628,"171A Elizabeth Street, Tauranga",Wrong Side: 1379988
-177.01090897,-37.96792107,"1 Foxglove Drive, Maraetotara, Whakatane",Wrong Side: 1418473
+176.10798762,-37.70073388,"50 St Regis Way, Bethlehem, Tauranga",Wrong Side: 1383903
 175.85459733,-37.39512240,"34 Heath Road, Waihi",Wrong Side: 1421731
 175.23034370,-37.58158822,"581 Uapoto Road, Taupiri",Wrong Side: 1432132
 175.73776395,-37.33080425,"447A Goble Road, Komata",Wrong Side: 1470445
@@ -87,8 +85,20 @@
 175.03415982,-37.61025339,"7 Glen Road, Glen Afton",Wrong Side: 2147604
 175.78363749,-38.05030119,"20 Market Street, Putaruru",Wrong Side: 2147751
 176.33393790,-37.72608306,"9 Kaitaka Way, Papamoa",Wrong Side: 2149045
+177.86151408,-38.39921565,"283 Taihamiti Road, Whatatutu",Wrong Side: 2150772
 174.71052992,-37.28244522,"197 Holmes Road, Otaua",Wrong Side: 2151051
 176.19938123,-37.91067760,"550 Mangatoi Road, Oropi",Wrong Side: 2155066
-176.16542580,-37.75159842,"532 Ohauiti Road, Ohauiti",Wrong Side: 2158492
 177.30060115,-38.26203997,"5978 Waioeka Road, Waioeka",Wrong Side: 2164850
 177.33803866,-38.10259017,"348 Tutaetoko Road, Toatoa",Wrong Side: 2164909
+176.23062701,-37.67963045,"18C Ngarimu Place, Mount Maunganui",Wrong Side: 2173330
+175.27784241,-37.73124154,"2 Jaspers Way, Huntington, Hamilton",Wrong Side: 2175837
+175.27783256,-37.73130722,"4 Jaspers Way, Huntington, Hamilton",Wrong Side: 2175838
+175.27780300,-37.73136961,"6 Jaspers Way, Huntington, Hamilton",Wrong Side: 2175839
+175.27777838,-37.73142050,"8 Jaspers Way, Huntington, Hamilton",Wrong Side: 2175840
+175.27776524,-37.73148453,"10 Jaspers Way, Huntington, Hamilton",Wrong Side: 2175841
+175.27772584,-37.73152065,"12 Jaspers Way, Huntington, Hamilton",Wrong Side: 2175842
+175.27769957,-37.73156334,"14 Jaspers Way, Huntington, Hamilton",Wrong Side: 2175843
+175.27765524,-37.73158797,"16 Jaspers Way, Huntington, Hamilton",Wrong Side: 2175844
+175.27758136,-37.73164871,"18 Jaspers Way, Huntington, Hamilton",Wrong Side: 2175845
+175.27751076,-37.73162901,"20 Jaspers Way, Huntington, Hamilton",Wrong Side: 2175846
+175.57506933,-37.80842666,"720 Te Miro Road, Te Miro",Wrong Side: 2179731

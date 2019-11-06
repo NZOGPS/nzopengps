@@ -1,18 +1,23 @@
-23 entries in ..\..\LinzDataService\PaperRoads\Central-WrongSide.txt
+26 entries in ..\..\LinzDataService\PaperRoads\Central-WrongSide.txt
 163 entries in ..\..\LinzDataService\PaperRoads\Central-LINZWrongSide.txt
-230 wrongside numbers, 89 not in Exclusion files
-6 entries in Ignore list are no longer on the wrong side
+192 wrongside numbers, 55 not in Exclusion files
+9 entries in Ignore list are no longer on the wrong side
 946419	17E MANUKAKA HEIGHTS	2014/03/06 22:14	-39.087554,174.047263
+869806	16B BURNS STREET	2014/03/06 22:19	-39.071511,174.059048
 630775	1A Reeve Drive	2015/04/12 18:28	-39.671535,176.899066
 1384819	15 KATOPU STREET	2014/04/13 07:47	-38.988523,175.812663
 622902	2 Crosses Road	2015/04/14 19:53	-39.661864,176.883372
 1670412	586 Umutoi North Road	2015/04/14 19:46	-39.986578,176.005201
+869805	16A BURNS STREET	2014/03/06 22:19	-39.071458,174.058706
 946420	19 MANUKAKA HEIGHTS	2014/03/06 22:14	-39.087306,174.047522
+405757	253 KAIRAU ROAD EAST	2014/04/11 14:04	-39.024984,174.207029
 
-39 entries in Linz list are no longer on the wrong side
+43 entries in Linz list are no longer on the wrong side
 608656	709 Gibraltar Road	2015/04/14 02:43	-40.146561,176.841064
 1560784	9 Dawson Street	2015/04/15 13:47	-39.462829,175.677773
 1560786	11 Dawson Street	2015/04/15 13:47	-39.462671,175.677953
+9808	152 Black Barn Road	2015/04/11 18:49	-39.681793,176.913127
+1334375	100 Redoubt Street	2015/04/14 19:21	-38.687020,176.065166
 1558651	1986 Taihape Road	2015/04/14 03:58	-39.503747,176.591253
 647106	84 Charlotte Street	2015/04/12 17:13	-40.030488,176.347441
 945205	135 RIMU ROAD	2014/04/13 07:56	-38.772397,175.033767
@@ -21,6 +26,7 @@
 1064600	1813 State Highway  1	2015/04/14 04:47	-40.042392,175.440085
 597883	2 Te Manuiri Road	2015/04/14 02:53	-40.102708,176.755544
 596271	859 Farm Road	2015/04/14 02:57	-40.044307,176.616262
+1334376	95 Redoubt Street	2015/04/14 19:21	-38.686844,176.065310
 1667759	201 River Road	2015/04/14 03:34	-39.954529,176.688899
 895439	130 Cornwall Road	2015/04/14 02:16	-39.406022,174.287563
 596034	408 McVicar Road	2015/04/12 02:58	-39.197276,176.613057
@@ -33,6 +39,7 @@
 1524360	113 Ameku Road	2015/04/14 03:59	-39.417898,175.255362
 1560826	4 Paterson Place	2015/04/14 19:40	-39.460870,175.677984
 1574343	151 Napier Road	2016/01/31 16:39	-38.705044,176.105475
+1334380	83 Redoubt Street	2015/04/14 19:21	-38.686672,176.065579	All these numbers seem to be near the middle of the road, and also don't seem to address anything obvious on the imagery. I haven't included the ids, but 59,65,75 are the same.
 1560782	7 Dawson Street	2015/04/15 13:48	-39.463003,175.677652
 1765724	20 Mareti Street	2015/04/12 00:53	-38.681623,176.061871
 1572541	1650 Brunswick Road	2015/04/11 22:57	-39.833679,174.950936

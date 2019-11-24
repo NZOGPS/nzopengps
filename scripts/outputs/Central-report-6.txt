@@ -1,10 +1,8 @@
-Start = 2019-11-03 15:59:51 +1300
+Start = 2019-11-24 16:49:47 +1300
 linzid	street_name	street_name_2	official_street_name
 1805489	YMCA Rd		Ymca Rd	-39.05469,177.83876
-1817491	Grant Vc St		Grant VC St	-39.58614,174.27023
 1805489	YMCA Rd		Ymca Rd	-39.05704,177.83475
-3080237	Greenside Lane		Grenside Lane	-39.61952,176.84916
 #############################
 
-Finish = 2019-11-03 15:59:53 +1300
-Processing time = 2.402544
+Finish = 2019-11-24 16:49:49 +1300
+Processing time = 2.448502

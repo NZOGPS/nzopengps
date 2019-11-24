@@ -1,7 +1,6 @@
-Start = 2019-11-03 15:59:53 +1300
+Start = 2019-11-24 16:49:49 +1300
 linzid	street_name	street_name_2	official_street_name
-1793863	MacAulay St		Macaulay St	-41.22230,174.80925
 #############################
 
-Finish = 2019-11-03 15:59:56 +1300
-Processing time = 2.409536
+Finish = 2019-11-24 16:49:52 +1300
+Processing time = 2.275678

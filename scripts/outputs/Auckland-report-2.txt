@@ -1,8 +1,12 @@
-Start = 2019-11-06 22:42:35 +1300
+Start = 2019-11-24 16:49:38 +1300
 #############################
 
-1 LINZ ids are missing from NZOGPS Auckland
-;linzid=2010165	Eros Rd	-36.9791660498556,174.931218040732
+5 LINZ ids are missing from NZOGPS Auckland
+;linzid=3080487	Rossbern Lane	-36.9965057547309,175.049914645548
+;linzid=3080495	Parua Bay Dr	-36.6227806988488,174.465633980615
+;linzid=3080502	Haipara Cl	-36.75940390664,174.705799466091
+;linzid=3080503	Taimana Pl	-36.7585929446644,174.705282139655
+;linzid=3080520	Reweti Dr	-36.8320081710138,175.683424908577
 #############################
 
 1 LINZ ids are in NZOGPS Auckland but missing from LINZ
@@ -15,5 +19,5 @@ Start = 2019-11-06 22:42:35 +1300
 0 Number range ids are in NZOGPS Auckland but missing from LINZ
 #############################
 
-Finish = 2019-11-06 22:42:37 +1300
-Processing time = 2.371274
+Finish = 2019-11-24 16:49:41 +1300
+Processing time = 3.373558

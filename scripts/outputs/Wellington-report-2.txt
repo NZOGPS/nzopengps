@@ -1,9 +1,7 @@
-Start = 2019-11-24 16:49:28 +1300
+Start = 2019-11-25 23:30:36 +1300
 #############################
 
-2 LINZ ids are missing from NZOGPS Wellington
-;linzid=3080500	Te Ara O Paetutu	-41.2293510250231,174.892986607656
-;linzid=3080518	Fenwick Cres	-41.1357435597663,175.054431947035
+0 LINZ ids are missing from NZOGPS Wellington
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -27,5 +25,5 @@ Start = 2019-11-24 16:49:28 +1300
 ;linznumbid=9500012	linzid=3015159	~[0x04]57	-40.53219,175.43243
 #############################
 
-Finish = 2019-11-24 16:49:31 +1300
-Processing time = 2.462486
+Finish = 2019-11-25 23:30:38 +1300
+Processing time = 2.198683

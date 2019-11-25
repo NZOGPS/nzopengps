@@ -1,9 +1,7 @@
-Start = 2019-11-24 16:49:25 +1300
+Start = 2019-11-25 23:30:31 +1300
 #############################
 
-2 LINZ ids are missing from NZOGPS Central
-;linzid=3080485	Galvin Rd	-39.3411268048153,175.3775641481
-;linzid=3080497	Tumu Way	-39.6513134733493,176.798661382236
+0 LINZ ids are missing from NZOGPS Central
 #############################
 
 0 LINZ ids are in NZOGPS Central but missing from LINZ
@@ -71,5 +69,5 @@ Start = 2019-11-24 16:49:25 +1300
 ;linznumbid=9400056	linzid=3080164	~[0x04]51	-39.52329,176.91777
 #############################
 
-Finish = 2019-11-24 16:49:28 +1300
-Processing time = 2.78416
+Finish = 2019-11-25 23:30:34 +1300
+Processing time = 2.431865

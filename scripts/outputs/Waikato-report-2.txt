@@ -1,11 +1,7 @@
-Start = 2019-11-24 16:49:34 +1300
+Start = 2019-11-25 23:51:43 +1300
 #############################
 
-4 LINZ ids are missing from NZOGPS Waikato
-;linzid=3080483	Sam Heywood Pl	-37.7508933833,176.1262139667
-;linzid=3080494	Brent Greig Lane	-37.7508182826518,175.231847761422
-;linzid=3080496	Parore Dr	-37.6591842413934,176.025237725737
-;linzid=3080501	Riverton Ave	-37.68535815,176.1119066
+0 LINZ ids are missing from NZOGPS Waikato
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -71,5 +67,5 @@ Start = 2019-11-24 16:49:34 +1300
 ;linznumbid=9300056	linzid=3003064	Overdale Rd	-38.02814,175.75363
 #############################
 
-Finish = 2019-11-24 16:49:37 +1300
-Processing time = 3.539961
+Finish = 2019-11-25 23:51:46 +1300
+Processing time = 3.111702

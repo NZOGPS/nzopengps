@@ -1,4 +1,4 @@
-Start = 2019-11-25 23:51:43 +1300
+Start = 2019-11-26 23:48:19 +1300
 #############################
 
 0 LINZ ids are missing from NZOGPS Waikato
@@ -38,7 +38,7 @@ Start = 2019-11-25 23:51:43 +1300
 ;linznumbid=9300025	linzid=1815820	Mathers Rd	-37.45264,175.89209
 ;linznumbid=9300026	linzid=1815618	Parton Rd	-37.73295,176.30589
 ;linznumbid=9300027	linzid=1815618	Parton Rd	-37.71133,176.31301
-;linznumbid=9300028	linzid=3059059	Mangawara Rd	-37.51142,175.42501
+;linznumbid=9300028	linzid=3059059	Mangawara Rd	-37.51146,175.42499
 ;linznumbid=9300029	linzid=3059059	Mangawara Rd	-37.38360,175.43692
 ;linznumbid=9300030	linzid=1796797	Motu Rd	-38.01134,177.41444
 ;linznumbid=9300031	linzid=1796797	Motu Rd	-38.16927,177.51022
@@ -67,5 +67,5 @@ Start = 2019-11-25 23:51:43 +1300
 ;linznumbid=9300056	linzid=3003064	Overdale Rd	-38.02814,175.75363
 #############################
 
-Finish = 2019-11-25 23:51:46 +1300
-Processing time = 3.111702
+Finish = 2019-11-26 23:48:21 +1300
+Processing time = 2.560792

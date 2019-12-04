@@ -1,10 +1,7 @@
-Start = 2019-11-24 16:49:19 +1300
+Start = 2019-11-29 20:06:34 +1300
 #############################
 
-3 LINZ ids are missing from NZOGPS Northland
-;linzid=3080484	Thomas Elmsley Way	-35.7574854080163,174.202903350296
-;linzid=3080498	Ridgewater Dr	-36.0356291167,174.4958754167
-;linzid=3080499	Kanuka Lane	-36.039051196322,174.495469324923
+0 LINZ ids are missing from NZOGPS Northland
 #############################
 
 0 LINZ ids are in NZOGPS Northland but missing from LINZ
@@ -16,5 +13,5 @@ Start = 2019-11-24 16:49:19 +1300
 0 Number range ids are in NZOGPS Northland but missing from LINZ
 #############################
 
-Finish = 2019-11-24 16:49:20 +1300
-Processing time = 1.373599
+Finish = 2019-11-29 20:06:34 +1300
+Processing time = 0.97642

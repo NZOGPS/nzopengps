@@ -63,5 +63,5 @@ rem
 %nzogps_cgps% ac "Free Open GPS NZ Autorouting.mp" -o "Free Open GPS NZ Autorouting.img"
 
 :: Compile Installer
-%nzogps_iscc% "NZ OpenGPS Setup.iss"
+%nzogps_iscc% /dSdir=%nzogps_inst_loc% /dBdir=%nzogps_base% /dWImg=..\installer-image.bmp "NZ OpenGPS Setup.iss"
 pause

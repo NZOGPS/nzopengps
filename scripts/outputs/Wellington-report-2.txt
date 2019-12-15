@@ -1,10 +1,12 @@
-Start = 2019-11-25 23:30:36 +1300
+Start = 2019-12-16 09:51:56 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Wellington
+1 LINZ ids are missing from NZOGPS Wellington
+;linzid=3080542	Te Hoiere St	-41.1307130719856,174.847587851167
 #############################
 
-0 LINZ ids are in NZOGPS Wellington but missing from LINZ
+1 LINZ ids are in NZOGPS Wellington but missing from LINZ
+;linzid=3076333	Accessway	-41.25922,174.79009
 #############################
 
 0 Number range ids are missing from NZOGPS Wellington
@@ -25,5 +27,5 @@ Start = 2019-11-25 23:30:36 +1300
 ;linznumbid=9500012	linzid=3015159	~[0x04]57	-40.53219,175.43243
 #############################
 
-Finish = 2019-11-25 23:30:38 +1300
-Processing time = 2.198683
+Finish = 2019-12-16 09:51:59 +1300
+Processing time = 2.321939

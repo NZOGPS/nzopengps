@@ -1,15 +1,12 @@
-Start = 2019-12-16 09:52:05 +1300
+Start = 2019-12-16 10:23:14 +1300
 #############################
 
-4 LINZ ids are missing from NZOGPS Canterbury
+2 LINZ ids are missing from NZOGPS Canterbury
 ;linzid=3027685	State Highway 1	-43.4297944501007,172.646326138011
 ;linzid=3079720	Gold Valley Rd	-43.7070990510647,172.652569302629
-;linzid=3080591	Lochhead Ave	-43.5729356502675,172.579255840289
-;linzid=3080592	Whitburn Ave	-43.5729250480185,172.578549373673
 #############################
 
-1 LINZ ids are in NZOGPS Canterbury but missing from LINZ
-;linzid=3075594	Walkway	-43.53205,172.57046
+0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
 #############################
 
 1 Number range ids are missing from NZOGPS Canterbury
@@ -34,5 +31,5 @@ Start = 2019-12-16 09:52:05 +1300
 ;linznumbid=9700015	linzid=3038679	~[0x04]1	-43.32870,172.66609
 #############################
 
-Finish = 2019-12-16 09:52:08 +1300
-Processing time = 2.53817
+Finish = 2019-12-16 10:23:16 +1300
+Processing time = 2.131474

@@ -1,0 +1,56 @@
+linznumbid=9300001	linzid=1805907	Tuakau Bridge-Port Waikato Rd	-37.36233,174.76495
+linznumbid=9300002	linzid=1805907	Tuakau Bridge-Port Waikato Rd	-37.38605,174.73051
+linznumbid=9300003	linzid=1792602	River Rd	-37.66584,175.15786
+linznumbid=9300004	linzid=1792602	River Rd	-37.72472,175.23110
+linznumbid=9300005	linzid=3064789	Waipapa Rd	-38.35638,175.74076
+linznumbid=9300006	linzid=3064789	Waipapa Rd	-38.14646,175.54833
+linznumbid=9300007	linzid=3036360	~[0x04]2	-37.27517,175.50365
+linznumbid=9300008	linzid=3036360	Orchard East Rd	-37.27168,175.52802
+linznumbid=9300009	linzid=3036360	~[0x04]2	-37.27576,175.50018
+linznumbid=9300010	linzid=3036961	Kaikahu Rd	-37.30219,175.54818
+linznumbid=9300011	linzid=3036961	Kaikahu Rd	-37.29841,175.54663
+linznumbid=9300012	linzid=1808153	Ngamotu Rd	-38.26843,176.75365
+linznumbid=9300013	linzid=1808153	Ngamotu Rd	-38.29527,176.54154
+linznumbid=9300014	linzid=3030631	Paradise Valley Rd	-38.08976,176.19723
+linznumbid=9300015	linzid=3030631	Paradise Valley Rd	-38.08870,176.20116
+linznumbid=9300016	linzid=3005310	Rangiora Rd	-37.33485,175.63705
+linznumbid=9300017	linzid=3005310	Rangiora Rd	-37.33777,175.67596
+linznumbid=9300018	linzid=3035452	Pipiroa Rd	-37.22119,175.45584
+linznumbid=9300019	linzid=3035452	Pipiroa Rd	-37.27612,175.48919
+linznumbid=9300020	linzid=3057076	Campbell Rd	-37.91742,176.60070
+linznumbid=9300021	linzid=3057076	Campbell Rd	-37.86118,176.56849
+linznumbid=9300022	linzid=3036422	Te Teko Rd	-38.03332,176.79755
+linznumbid=9300023	linzid=3036422	Te Teko Rd	-38.03606,176.79658
+linznumbid=9300024	linzid=1815820	Mathers Rd	-37.42618,175.88532
+linznumbid=9300025	linzid=1815820	Mathers Rd	-37.45264,175.89209
+linznumbid=9300026	linzid=1815618	Parton Rd	-37.73295,176.30589
+linznumbid=9300027	linzid=1815618	Parton Rd	-37.71133,176.31301
+linznumbid=9300028	linzid=3059059	Mangawara Rd	-37.51146,175.42499
+linznumbid=9300029	linzid=3059059	Mangawara Rd	-37.38360,175.43692
+linznumbid=9300030	linzid=1796797	Motu Rd	-38.01134,177.41444
+linznumbid=9300031	linzid=1796797	Motu Rd	-38.16927,177.51022
+linznumbid=9300032	linzid=1815881	Rotoehu Rd	-38.00808,176.43901
+linznumbid=9300033	linzid=1815881	Rotoehu Rd	-37.94648,176.50888
+linznumbid=9300034	linzid=3002271	~[0x04]38	-38.40402,176.50688
+linznumbid=9300035	linzid=3002271	~[0x04]38	-38.30815,176.39166
+linznumbid=9300036	linzid=3022140	Ohauiti Rd	-37.72732,176.16868
+linznumbid=9300037	linzid=3022140	Ohauiti Rd	-37.81850,176.19124
+linznumbid=9300038	linzid=3023818	~[0x04]30	-38.33308,176.06601
+linznumbid=9300039	linzid=3023818	~[0x04]30	-38.29630,176.14354
+linznumbid=9300040	linzid=3047063	Ohakuri Rd	-38.40945,176.08702
+linznumbid=9300041	linzid=3047063	Ohakuri Rd	-38.40301,176.08668
+linznumbid=9300042	linzid=3036422	Te Teko Rd	-38.03407,176.79684
+linznumbid=9300043	linzid=1837816	Paraonui Rd	-38.20596,175.85247
+linznumbid=9300044	linzid=1837816	Paraonui Rd	-38.20596,175.85247
+linznumbid=9300047	linzid=3023817	~[0x04]30	-38.39256,175.20642
+linznumbid=9300048	linzid=3023817	~[0x04]30	-38.51642,175.37074
+linznumbid=9300049	linzid=3045158	~[0x04]2	-38.09367,177.03735
+linznumbid=9300050	linzid=3045158	~[0x04]2	-38.04786,177.14541
+linznumbid=9300051	linzid=1815620	Welcome Bay Rd	-37.71984,176.24883
+linznumbid=9300052	linzid=1815620	Welcome Bay Rd	-37.72758,176.17026
+linznumbid=9300053	linzid=3045161	~[0x04]2	-37.82130,176.58111
+linznumbid=9300054	linzid=3045161	~[0x04]2	-37.68232,176.22599
+linznumbid=9300055	linzid=3003064	Overdale Rd	-38.04408,175.77224
+linznumbid=9300056	linzid=3003064	Overdale Rd	-38.02814,175.75363
+linznumbid=9300057	linzid=1809545	Marokopa Rd	-38.30231,174.72028
+linznumbid=9300058	linzid=1809545	Marokopa Rd	-38.27093,174.77792

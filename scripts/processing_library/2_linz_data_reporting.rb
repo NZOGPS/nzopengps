@@ -50,7 +50,6 @@ def process_polish_buffer(buffer)
 			@reporting_file.print "\tConflict with previous linzid #{@nzogps_file_num_id_ids[numbid]} #{@nzogps_file_num_ids[numbid]}\n"
 		end
 	end
-
 end
 
 def pre_processing()
@@ -116,8 +115,24 @@ def pre_processing()
 	end
 	@extra_road_ids["0"] = true		# linzid=0 are 'our' roads
 
-	#not sure yet if we need paper num ids
-	@paper_numb_ids = {}
+	@extra_num_IDs = {}
+	extra_LNIDs_file = File.join(@base, '..', 'LinzDataService', 'PaperRoads', "#{@tile}-extraLINZNumIDs.txt")
+	if File.file?(extra_LNIDs_file) then
+		File.open(extra_LNIDs_file).each {|line|
+			if line =~ /^linznumbid=(\d+)\tlinzid=(\d+)\t(.*)\t(.*)/ then
+				if @extra_num_IDs[$1] then
+					print "Duplicate LNID #{$1} found in #{extra_LNIDs_file}\n"
+					@reporting_file.print "Duplicate LNID #{$1} found in #{extra_LNIDs_file}\n"
+				else
+					@extra_num_IDs[$1]= [$2,$3,$4]
+				end
+			else
+				print "Strange line #{line} in #{extra_LNIDs_file}\n"
+				@reporting_file.print "Strange line #{line} in #{extra_LNIDs_file}\n"
+			end
+		}
+		print "#{@extra_num_IDs.size} distinct LNids found in #{extra_LNIDs_file}\n"
+	end
 
 end
 
@@ -147,7 +162,7 @@ def post_processing()
 #numbering ids
 	@reporting_file.print "#############################\n\n"
 
-	numbid_in_linz_but_missing_from_nzogps = @linz_file_num_ids.keys - @nzogps_file_num_ids.keys - @paper_numb_ids.keys
+	numbid_in_linz_but_missing_from_nzogps = @linz_file_num_ids.keys - @nzogps_file_num_ids.keys
 	print "#{numbid_in_linz_but_missing_from_nzogps.size} Number range ids are missing from NZOGPS #{@tile}\n"
 	@reporting_file.print "#{numbid_in_linz_but_missing_from_nzogps.size} Number range ids are missing from NZOGPS #{@tile}\n"
 
@@ -157,7 +172,7 @@ def post_processing()
 
 	@reporting_file.print "#############################\n\n"
 
-	numbid_in_nzogps_but_missing_from_linz = @nzogps_file_num_ids.keys - @linz_file_num_ids.keys
+	numbid_in_nzogps_but_missing_from_linz = @nzogps_file_num_ids.keys - @linz_file_num_ids.keys - @extra_num_IDs.keys
 	print "#{numbid_in_nzogps_but_missing_from_linz.size} Number range ids are in NZOGPS #{@tile} but missing from LINZ\n"
 	@reporting_file.print "#{numbid_in_nzogps_but_missing_from_linz.size} Number range ids are in NZOGPS #{@tile} but missing from LINZ\n"
 

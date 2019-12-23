@@ -140,3 +140,4 @@
 1030000040950	O,607,615	Avonhead Rd	Avonhead, Christchurch(Canterbury,NZ)	2017/09/24 16:31	-43.497710,172.547190
 1030000039841	O,63,63	Constitution Rd	Rotherham(Canterbury,NZ)	2019/10/18 00:21	-42.747480,172.950790
 1030000054017	E,248,254	Oxford Tce	Christchurch Central, Christchurch(Canterbury,NZ)	2019/10/18 00:37	-43.527700,172.636630
+1030000050946	E,8,16	Bedford Row	Christchurch Central, Christchurch(Canterbury,NZ)	2019/12/22 17:45	-43.533670,172.641050

@@ -1,8 +1,7 @@
-Start = 2019-12-15 18:28:24 +1300
+Start = 2020-01-08 21:58:04 +1300
 #############################
 
-1 LINZ ids are missing from NZOGPS Central
-;linzid=3080547	Te Maanga Rd	-38.6652812463979,177.967080945989
+0 LINZ ids are missing from NZOGPS Central
 #############################
 
 0 LINZ ids are in NZOGPS Central but missing from LINZ
@@ -70,5 +69,5 @@ Start = 2019-12-15 18:28:24 +1300
 ;linznumbid=9400056	linzid=3080164	~[0x04]51	-39.52329,176.91777
 #############################
 
-Finish = 2019-12-15 18:28:28 +1300
-Processing time = 3.711166
+Finish = 2020-01-08 21:58:06 +1300
+Processing time = 1.843756

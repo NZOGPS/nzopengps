@@ -1,25 +1,7 @@
-Start = 2019-12-15 18:28:19 +1300
+Start = 2019-12-23 15:57:12 +1300
 #############################
 
-18 LINZ ids are missing from NZOGPS Southland
-;linzid=3080525	Malvern Rd	-44.671587003129,169.159234730653
-;linzid=3080524	Lindis Rd	-44.6742114685215,169.159152605009
-;linzid=3080526	Cottlesbrook St	-44.6742114530704,169.160133849399
-;linzid=3080527	Cairnmuir St	-44.6726655404214,169.160130180755
-;linzid=3080529	Glenshee St	-44.6735221819812,169.161920755992
-;linzid=3080528	Glenavon Grn	-44.6740885376081,169.161347094325
-;linzid=3080531	Gladbrook St	-44.6738661643695,169.157251739324
-;linzid=3080532	Gowanbrae Lane	-44.6746487251115,169.157549853228
-;linzid=3080533	Bonspiel Rd	-44.6719845684212,169.157446564665
-;linzid=3080534	Linnburn Rd	-44.6738661643695,169.157251739324
-;linzid=3080530	Riverslea Rd	-44.671422445425,169.155182570697
-;linzid=3080535	Lammermoor St	-44.6728354517128,169.154304957321
-;linzid=3080536	Armidale Cres	-44.6741656415113,169.156261774834
-;linzid=3080538	Hawkdun Pl	-44.6729640099018,169.155399701829
-;linzid=3080537	Cambrian St	-44.6720647939118,169.154725879178
-;linzid=3080539	Battery Rise	-44.9804249278634,168.682889367861
-;linzid=3080540	George Bullen Lane	-44.9805240100463,168.682636282075
-;linzid=3080587	Cottonwood Lane	-44.6813114365322,169.149531851899
+0 LINZ ids are missing from NZOGPS Southland
 #############################
 
 0 LINZ ids are in NZOGPS Southland but missing from LINZ
@@ -28,20 +10,8 @@ Start = 2019-12-15 18:28:19 +1300
 0 Number range ids are missing from NZOGPS Southland
 #############################
 
-12 Number range ids are in NZOGPS Southland but missing from LINZ
-;linznumbid=9800001	linzid=3055956	Old Dunstan Rd	-45.33246,169.79798
-;linznumbid=9800002	linzid=3055956	Old Dunstan Rd	-45.67439,169.98837
-;linznumbid=9800003	linzid=1782184	Ferry Rd	-44.89943,171.03494
-;linznumbid=9800004	linzid=1782184	Ferry Rd	-45.02091,171.02055
-;linznumbid=9800005	linzid=3025088	Morris Rd	-45.89709,170.36526
-;linznumbid=9800006	linzid=3025088	Morris Rd	-45.90023,170.38638
-;linznumbid=9800007	linzid=3052729	~[0x04]1	-44.63226,171.14079
-;linznumbid=9800008	linzid=3052729	~[0x04]1	-44.62865,171.14160
-;linznumbid=9800009	linzid=3063507	Ramrock Rd	-45.59577,170.62324
-;linznumbid=9800010	linzid=3063507	Ramrock Rd	-45.45308,170.33387
-;linznumbid=9800011	linzid=1775108	Porteous Rd	-45.70830,170.58953
-;linznumbid=9800012	linzid=1775108	Porteous Rd	-45.69040,170.57020
+0 Number range ids are in NZOGPS Southland but missing from LINZ
 #############################
 
-Finish = 2019-12-15 18:28:24 +1300
-Processing time = 4.533284
+Finish = 2019-12-23 15:57:14 +1300
+Processing time = 2.125007

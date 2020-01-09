@@ -125,3 +125,4 @@
 1779314	O,135,135	Savills Rd	Yaldhurst, Christchurch(Canterbury,NZ)	2017/09/24 16:27	-43.491610,172.504860
 3055845	O,607,615	Avonhead Rd	Avonhead, Christchurch(Canterbury,NZ)	2017/09/24 16:31	-43.497710,172.547190
 1783768	E,248,254	Oxford Tce	Christchurch Central, Christchurch(Canterbury,NZ)	2019/10/18 00:38	-43.527700,172.636630
+1782495	E,8,16	Bedford Row	Christchurch Central, Christchurch(Canterbury,NZ)	2019/12/22 17:46	-43.533670,172.641050

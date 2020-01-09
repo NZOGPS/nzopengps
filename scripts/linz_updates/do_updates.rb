@@ -144,11 +144,12 @@ def put_csv_in_postgres()
 	@conn.exec "ALTER TABLE #{FN_3353} ADD COLUMN is_odd boolean"
 	@conn.exec "UPDATE #{FN_3353} SET is_odd = MOD(address_number,2) = 1"
 	@conn.exec "ALTER TABLE #{FN_3353}  ADD COLUMN rna_id integer;"
-	@conn.exec "UPDATE #{FN_3353}  SET rna_id = nz_roads_subsections_addressing.road_id from nz_roads_subsections_addressing where nz_roads_subsections_addressing.road_section_id = #{FN_3353}.road_section_id"
-	@conn.exec "UPDATE #{FN_3353}  SET rna_id = #{FN_3383}.road_id from #{FN_3383} where #{FN_3383}.road_section_id = #{FN_3353}.road_section_id"
+	@conn.exec "UPDATE #{FN_3353} SET rna_id = nz_roads_subsections_addressing.road_id from nz_roads_subsections_addressing where nz_roads_subsections_addressing.road_section_id = #{FN_3353}.road_section_id"
+	@conn.exec "UPDATE #{FN_3353} SET rna_id = #{FN_3383}.road_id from #{FN_3383} where #{FN_3383}.road_section_id = #{FN_3353}.road_section_id"
 	@conn.exec "ALTER TABLE #{FN_3353}  ADD COLUMN linz_numb_id integer;"
-	@conn.exec "UPDATE #{FN_3353}  SET linz_numb_id = nz_roads_subsections_addressing.address_range_road_id from nz_roads_subsections_addressing where nz_roads_subsections_addressing.road_section_id = #{FN_3353}.road_section_id"
-	@conn.exec "UPDATE #{FN_3353}  SET linz_numb_id = #{FN_3383}.address_range_road_id from #{FN_3383} where #{FN_3383}.road_section_id = #{FN_3353}.road_section_id"
+	@conn.exec "UPDATE #{FN_3383} SET address_range_road_id = null WHERE address_range_road_id = 0" #in case a.r.r.i is zero rather than blank.
+	@conn.exec "UPDATE #{FN_3353} SET linz_numb_id = nz_roads_subsections_addressing.address_range_road_id from nz_roads_subsections_addressing where nz_roads_subsections_addressing.road_section_id = #{FN_3353}.road_section_id"
+	@conn.exec "UPDATE #{FN_3353} SET linz_numb_id = #{FN_3383}.address_range_road_id from #{FN_3383} where #{FN_3383}.road_section_id = #{FN_3353}.road_section_id"
 	
 	@conn.exec "VACUUM ANALYSE #{FN_3353}"
 

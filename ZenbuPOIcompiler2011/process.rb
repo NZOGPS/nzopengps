@@ -34,8 +34,10 @@ printMPHeader(@mpfileoutC,'64000022')
 		#zenbu classified
 		poitypecode = @categories_from_zenbu[zid]
 	end
-	
-	processMPpoint(zid,poitypecode)
+
+	if poitypecode != '00 Not For Maps' then
+		processMPpoint(zid,poitypecode)
+	end
 }
 
 @mpfileoutA.close
@@ -49,9 +51,9 @@ print <<POIEND
 
 Zenbu Total POIs #{@masterZenbuDataHash.size}
 POIs added to maps - 
-  ! Placed #{@reporting['correct']}
-  ? Placed #{@reporting['incorrect']}
-  - Not used #{@notforuseZIDs.size}
+	! Placed #{@reporting['correct']}
+	? Placed #{@reporting['incorrect']}
+	- Not used #{@notforuseZIDs.size}
 
 category_from_nzogps = #{@categories_from_nzogps.size}
 category_from_zenbu = #{@reporting['category_from_zenbu']}

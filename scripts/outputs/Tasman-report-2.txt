@@ -1,12 +1,18 @@
-Start = 2020-01-08 21:58:02 +1300
+Start = 2020-01-19 14:29:44 +1300
 #############################
 
-5 LINZ ids are missing from NZOGPS Tasman
+11 LINZ ids are missing from NZOGPS Tasman
 ;linzid=3080155	Paramount Way	-41.2535470770507,173.092383089195
 ;linzid=3080393	Herd Grv	-41.4806483336601,173.966174898217
 ;linzid=3080459	Bills Dr	-41.3025520012883,173.265352820177
 ;linzid=3080460	Huntaway Cl	-41.3249045934718,173.252936777733
 ;linzid=3080482	Kohuhu Lane	-41.2924028847162,173.087848094422
+;linzid=3080639	Gibbons Pl	-41.4808365666215,173.966496975386
+;linzid=3080642	Mahoe Cl	-41.2829468420793,173.047868604615
+;linzid=3080667	Fairburn Pl	-41.045038231852,173.020253989029
+;linzid=3080668	Dublin Rd	-41.4279024268831,173.041759650871
+;linzid=3080669	Falcon Ridge Way	-41.3253096859836,173.259051538015
+;linzid=3080670	Vintners Way	-41.3251465276109,173.259267726447
 #############################
 
 1 LINZ ids are in NZOGPS Tasman but missing from LINZ
@@ -23,5 +29,5 @@ Start = 2020-01-08 21:58:02 +1300
 ;linznumbid=9600004	linzid=3071437	~[0x04]6	-41.83017,172.00008
 #############################
 
-Finish = 2020-01-08 21:58:03 +1300
-Processing time = 1.037523
+Finish = 2020-01-19 14:29:46 +1300
+Processing time = 1.57801

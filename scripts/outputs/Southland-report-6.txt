@@ -1,6 +1,9 @@
-Start = 2019-12-23 15:57:14 +1300
+Start = 2020-01-19 14:30:09 +1300
 linzid	street_name	street_name_2	official_street_name
+3023205	Desert Rd		Moepuku Rd	-45.81485,170.68898
+3023205	Desert Rd		Moepuku Rd	-45.81428,170.69012
+3079771	Glendinning Lane		Glendinning Cres	-45.33578,168.72010
 #############################
 
-Finish = 2019-12-23 15:57:16 +1300
-Processing time = 1.812506
+Finish = 2020-01-19 14:30:12 +1300
+Processing time = 3.04339

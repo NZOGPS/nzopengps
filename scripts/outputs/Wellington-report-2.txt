@@ -1,15 +1,7 @@
-Start = 2020-01-20 23:10:02 +1300
+Start = 2020-01-22 00:18:02 +1300
 #############################
 
-8 LINZ ids are missing from NZOGPS Wellington
-;linzid=3080600	Wheelhouse Lane	-41.1239353761915,174.89253053563
-;linzid=3080627	Turksma Lane	-41.0743306193351,175.224619948795
-;linzid=3080649	Youngs Lane	-41.2951051833,174.7705698
-;linzid=3080650	Carmel Tce	-41.2026748250921,174.824084855317
-;linzid=3080651	McMillan Lane	-41.1361601264928,175.05498533861
-;linzid=3080678	McIntyre Lane	-40.2231933729255,175.542437669579
-;linzid=3080679	Alayna Crt	-40.2289048444261,175.642316704857
-;linzid=3080682	Matai Grv	-41.0742895071684,175.462152802188
+0 LINZ ids are missing from NZOGPS Wellington
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -18,20 +10,8 @@ Start = 2020-01-20 23:10:02 +1300
 0 Number range ids are missing from NZOGPS Wellington
 #############################
 
-12 Number range ids are in NZOGPS Wellington but missing from LINZ
-;linznumbid=9500001	linzid=1804564	Beach Rd	-40.29546,176.64387
-;linznumbid=9500002	linzid=1804564	Beach Rd	-40.30251,176.66207
-;linznumbid=9500003	linzid=1801874	Opaki Kaiparoro Rd	-40.87253,175.66247
-;linznumbid=9500004	linzid=1801874	Opaki Kaiparoro Rd	-40.72164,175.68382
-;linznumbid=9500005	linzid=1840618	Bowen Rd	-40.71386,175.71887
-;linznumbid=9500006	linzid=1840618	Bowen Rd	-40.65632,175.75806
-;linznumbid=9500007	linzid=3070825	Te Uri Rd	-40.20667,176.32019
-;linznumbid=9500008	linzid=3070825	Te Uri Rd	-40.24683,176.37921
-;linznumbid=9500009	linzid=3045152	~[0x04]2	-41.07832,175.19531
-;linznumbid=9500010	linzid=3045152	~[0x04]2	-41.10531,175.29300
-;linznumbid=9500011	linzid=3015159	~[0x04]57	-40.59004,175.34478
-;linznumbid=9500012	linzid=3015159	~[0x04]57	-40.53219,175.43243
+0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2020-01-20 23:10:05 +1300
-Processing time = 2.302967
+Finish = 2020-01-22 00:18:04 +1300
+Processing time = 1.8754

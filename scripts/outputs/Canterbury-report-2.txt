@@ -1,37 +1,18 @@
-Start = 2020-01-19 14:29:55 +1300
+Start = 2020-02-13 00:31:38 +1300
 #############################
 
-18 LINZ ids are missing from NZOGPS Canterbury
-;linzid=3027685	State Highway 1	-43.4297944501007,172.646326138011
+1 LINZ ids are missing from NZOGPS Canterbury
 ;linzid=3079720	Gold Valley Rd	-43.7070990510647,172.652569302629
-;linzid=3080613	Olivia St	-43.6045707072712,172.396737422601
-;linzid=3080615	Glenmark Dr	-43.494315582008,172.102016801395
-;linzid=3080617	Westmorland Ave	-43.4939322127421,172.10386177038
-;linzid=3080616	Killead Ave	-43.4948642639139,172.102702933373
-;linzid=3080621	Pilgrim Lane	-43.4924663382664,172.102781419874
-;linzid=3080618	Dorset Dr	-43.4924663382664,172.102781419874
-;linzid=3080622	Frazer Farm Lane	-43.3027799865542,172.633601880196
-;linzid=3080631	Terrier Lane	-43.5936257052045,172.572033593409
-;linzid=3080632	Ruston Lane	-43.593895526487,172.574524606344
-;linzid=3080633	Hoyle Way	-43.5940691505915,172.574139576495
-;linzid=3080634	Irvines Trk	-43.5869821302538,172.573743698864
-;linzid=3080635	Light Mood Rd	-43.5869821302538,172.573743698864
-;linzid=3080655	Dianthus Pl	-43.5633244419318,172.546191919297
-;linzid=3080656	Snapdragon Lane	-43.5630657943491,172.546399525467
-;linzid=3080628	Evelyn Cres	-43.4842639288443,172.669893700352
-;linzid=3080680	Stemmer Lane	-43.5287090590826,172.574719103024
 #############################
 
-1 LINZ ids are in NZOGPS Canterbury but missing from LINZ
-;linzid=3079060	Banded Pl	-43.60684,172.39900
+0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
 #############################
 
-1 Number range ids are missing from NZOGPS Canterbury
-;linznumbid=1000028	State Highway 1	-43.4297944501007,172.646326138011
+0 Number range ids are missing from NZOGPS Canterbury
 #############################
 
 0 Number range ids are in NZOGPS Canterbury but missing from LINZ
 #############################
 
-Finish = 2020-01-19 14:29:58 +1300
-Processing time = 3.843438
+Finish = 2020-02-13 00:31:41 +1300
+Processing time = 2.337028

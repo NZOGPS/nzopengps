@@ -1,4 +1,4 @@
-Start = 2020-01-19 14:30:26 +1300
+Start = 2020-02-12 23:41:49 +1300
 linzid	street_name	street_name_2	official_street_name
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
 3064803	~[0x04]17	Albany Expressway	Dairy Flat Hwy	-36.73617,174.71645
@@ -9,5 +9,5 @@ linzid	street_name	street_name_2	official_street_name
 3080429	Ahuru Rd		Mowai Rd	-36.79769,174.74808
 #############################
 
-Finish = 2020-01-19 14:30:31 +1300
-Processing time = 5.405819
+Finish = 2020-02-12 23:41:52 +1300
+Processing time = 2.78617

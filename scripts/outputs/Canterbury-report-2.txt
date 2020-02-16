@@ -1,11 +1,17 @@
-Start = 2020-02-13 00:31:38 +1300
+Start = 2020-02-16 17:45:46 +1300
 #############################
 
-1 LINZ ids are missing from NZOGPS Canterbury
+6 LINZ ids are missing from NZOGPS Canterbury
 ;linzid=3079720	Gold Valley Rd	-43.7070990510647,172.652569302629
+;linzid=3080687	Roche Crt	-43.3003526747092,172.567114764707
+;linzid=3080691	Harrison Dr	-43.618159320087,172.372472263437
+;linzid=3080692	Lake Bryndwr Lane	-43.4917232560717,172.565122172875
+;linzid=3080720	Goldie Dr	-43.3178875800913,172.580726414175
+;linzid=3080721	Angus Pl	-43.3178875800913,172.580726414175
 #############################
 
-0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
+1 LINZ ids are in NZOGPS Canterbury but missing from LINZ
+;linzid=3074984	Service Lane	-43.30246,172.59298
 #############################
 
 0 Number range ids are missing from NZOGPS Canterbury
@@ -14,5 +20,5 @@ Start = 2020-02-13 00:31:38 +1300
 0 Number range ids are in NZOGPS Canterbury but missing from LINZ
 #############################
 
-Finish = 2020-02-13 00:31:41 +1300
-Processing time = 2.337028
+Finish = 2020-02-16 17:45:48 +1300
+Processing time = 2.175646

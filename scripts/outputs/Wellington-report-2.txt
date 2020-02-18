@@ -1,12 +1,7 @@
-Start = 2020-02-16 17:45:44 +1300
+Start = 2020-02-18 23:03:01 +1300
 #############################
 
-5 LINZ ids are missing from NZOGPS Wellington
-;linzid=3080685	Martha Turnell Cres	-41.1586207962993,174.978182212397
-;linzid=3080693	Brooks Pl	-40.2083690899203,175.585977077786
-;linzid=3080695	Trinity Lane	-41.0878256697558,175.45037211702
-;linzid=3080702	Tuapapa Lane	-40.3453384204837,175.625816856547
-;linzid=3080708	Ataahua Pl	-41.1097359238174,175.333699233544
+0 LINZ ids are missing from NZOGPS Wellington
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -18,5 +13,5 @@ Start = 2020-02-16 17:45:44 +1300
 0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2020-02-16 17:45:46 +1300
-Processing time = 1.89914
+Finish = 2020-02-18 23:03:03 +1300
+Processing time = 2.140451

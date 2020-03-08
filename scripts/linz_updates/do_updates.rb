@@ -150,7 +150,8 @@ def put_csv_in_postgres()
 	@conn.exec "UPDATE #{FN_3383} SET address_range_road_id = null WHERE address_range_road_id = 0" #in case a.r.r.i is zero rather than blank.
 	@conn.exec "UPDATE #{FN_3353} SET linz_numb_id = nz_roads_subsections_addressing.address_range_road_id from nz_roads_subsections_addressing where nz_roads_subsections_addressing.road_section_id = #{FN_3353}.road_section_id"
 	@conn.exec "UPDATE #{FN_3353} SET linz_numb_id = #{FN_3383}.address_range_road_id from #{FN_3383} where #{FN_3383}.road_section_id = #{FN_3353}.road_section_id"
-	
+	@conn.exec "UPDATE #{FN_3353} SET address_number_high = null WHERE address_number_high = 0" #in case a.n.h is zero rather than blank.
+
 	@conn.exec "VACUUM ANALYSE #{FN_3353}"
 
 	#do postprocessing of road centrelines in postgres

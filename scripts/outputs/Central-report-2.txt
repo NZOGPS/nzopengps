@@ -1,4 +1,4 @@
-Start = 2020-02-18 23:02:56 +1300
+Start = 2020-03-08 16:11:29 +1300
 #############################
 
 0 LINZ ids are missing from NZOGPS Central
@@ -13,5 +13,5 @@ Start = 2020-02-18 23:02:56 +1300
 0 Number range ids are in NZOGPS Central but missing from LINZ
 #############################
 
-Finish = 2020-02-18 23:02:59 +1300
-Processing time = 2.343553
+Finish = 2020-03-08 16:11:31 +1300
+Processing time = 1.929039

@@ -1,8 +1,6 @@
-Start = 2020-03-08 00:30:25 +1300
+Start = 2020-02-18 23:02:54 +1300
 linzid	street_name	street_name_2	official_street_name
-1808983	Tapuaeotu Way		Tapuae O Tu Way	-37.72862,176.17461
-3080606	Te Mara Ave		Te Mara Dr	-37.92150,175.48063
 #############################
 
-Finish = 2020-03-08 00:30:29 +1300
-Processing time = 4.075824
+Finish = 2020-02-18 23:02:56 +1300
+Processing time = 2.406056

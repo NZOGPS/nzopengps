@@ -143,17 +143,22 @@ def put_csv_in_postgres()
 	#do postprocessing of addresses in postgres
 	@conn.exec "ALTER TABLE #{FN_3353} ADD COLUMN is_odd boolean"
 	@conn.exec "UPDATE #{FN_3353} SET is_odd = MOD(address_number,2) = 1"
+	
 	@conn.exec "ALTER TABLE #{FN_3353}  ADD COLUMN rna_id integer;"
 	@conn.exec "UPDATE #{FN_3353} SET rna_id = nz_roads_subsections_addressing.road_id from nz_roads_subsections_addressing where nz_roads_subsections_addressing.road_section_id = #{FN_3353}.road_section_id"
 	@conn.exec "UPDATE #{FN_3353} SET rna_id = #{FN_3383}.road_id from #{FN_3383} where #{FN_3383}.road_section_id = #{FN_3353}.road_section_id"
-	@conn.exec "ALTER TABLE #{FN_3353}  ADD COLUMN linz_numb_id integer;"
+	
+	@conn.exec "ALTER TABLE #{FN_3353} ADD COLUMN linz_numb_id integer;"
 	@conn.exec "UPDATE #{FN_3383} SET address_range_road_id = null WHERE address_range_road_id = 0" #in case a.r.r.i is zero rather than blank.
 	@conn.exec "UPDATE #{FN_3353} SET linz_numb_id = nz_roads_subsections_addressing.address_range_road_id from nz_roads_subsections_addressing where nz_roads_subsections_addressing.road_section_id = #{FN_3353}.road_section_id"
 	@conn.exec "UPDATE #{FN_3353} SET linz_numb_id = #{FN_3383}.address_range_road_id from #{FN_3383} where #{FN_3383}.road_section_id = #{FN_3353}.road_section_id"
-	
-	@conn.exec "VACUUM ANALYSE #{FN_3353}"
 
-	#do postprocessing of road centrelines in postgres
+# in a previous installation, a_r_r_i and a_n_h may have been chars rather than integers, so blanks were null rather than 0. 
+# Subsequent code uses something like 'is not null' rather than '!=0'. Perhaps it would be tidier to fix this the other way at some stage, since they are really integers.
+
+	@conn.exec "UPDATE #{FN_3353} SET address_number_high = null WHERE address_number_high = 0" #in case a_n_h is zero rather than blank.
+
+	@conn.exec "VACUUM ANALYSE #{FN_3353}"
 	@conn.exec "VACUUM ANALYSE #{FN_3383}"
 
 end

@@ -1,7 +1,19 @@
-Start = 2020-02-18 23:03:01 +1300
+Start = 2020-03-21 16:32:59 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Wellington
+12 LINZ ids are missing from NZOGPS Wellington
+;linzid=3080743	Rangeview Dr	-40.3312133756771,175.667174336347
+;linzid=3080744	Magnolia Lane	-40.3312133756771,175.667174336347
+;linzid=3080745	Ashgrove Lane	-40.2813544411041,175.739257188745
+;linzid=3080755	Harvest Lane	-40.2803771173838,175.555038978703
+;linzid=3080780	Beckett Lane	-40.2202826190603,176.077912519839
+;linzid=3080781	Whitten Way	-41.1373466862939,175.053675844649
+;linzid=3080787	Salisbury Cres	-41.1373466862939,175.053675844649
+;linzid=3080788	Mawai Hakona Dr	-41.138977168914,175.052427115487
+;linzid=3080809	Rua Kai Way	-41.3161428947964,174.761004211354
+;linzid=3080810	Saba Way	-41.1995234202462,174.835256207885
+;linzid=3080811	Nanda Way	-41.2468164186004,174.808271709484
+;linzid=3080834	Longwood Crt	-40.6161527263085,175.30932532636
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -13,5 +25,5 @@ Start = 2020-02-18 23:03:01 +1300
 0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2020-02-18 23:03:03 +1300
-Processing time = 2.140451
+Finish = 2020-03-21 16:33:02 +1300
+Processing time = 2.982277

@@ -1,6 +1,7 @@
-Start = 2020-02-17 23:47:55 +1300
+Start = 2020-03-21 16:33:17 +1300
 linzid	street_name	street_name_2	official_street_name
+3079159	Ginko Ave		Gingko Ave	-45.02225,168.75542
 #############################
 
-Finish = 2020-02-17 23:47:57 +1300
-Processing time = 1.98895
+Finish = 2020-03-21 16:33:20 +1300
+Processing time = 2.921881

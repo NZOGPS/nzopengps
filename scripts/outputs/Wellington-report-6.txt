@@ -1,6 +1,10 @@
-Start = 2020-02-18 23:03:03 +1300
+Start = 2020-03-21 16:33:22 +1300
 linzid	street_name	street_name_2	official_street_name
+1796229	McKay St		MacKay St	-40.89039,174.98306
+1794716	Waripori St		Te Wharepouri St	-41.31870,174.77412
+1794716	Waripori St		Te Wharepouri St	-41.31876,174.77630
+1794716	Waripori St		Te Wharepouri St	-41.31874,174.77534
 #############################
 
-Finish = 2020-02-18 23:03:05 +1300
-Processing time = 1.531131
+Finish = 2020-03-21 16:33:25 +1300
+Processing time = 2.43751

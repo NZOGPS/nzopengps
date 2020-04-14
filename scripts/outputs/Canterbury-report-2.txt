@@ -1,8 +1,11 @@
-Start = 2020-03-22 18:58:55 +1300
+Start = 2020-04-11 12:17:49 +1200
 #############################
 
-1 LINZ ids are missing from NZOGPS Canterbury
+4 LINZ ids are missing from NZOGPS Canterbury
 ;linzid=3079720	Gold Valley Rd	-43.7070990510647,172.652569302629
+;linzid=3080839	Furlong St	-43.5228745924456,172.521768407401
+;linzid=3080845	Reins Lane	-43.5226312337069,172.522898169888
+;linzid=3080846	Trainers Lane	-43.5228691298545,172.523360237405
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
@@ -14,5 +17,5 @@ Start = 2020-03-22 18:58:55 +1300
 0 Number range ids are in NZOGPS Canterbury but missing from LINZ
 #############################
 
-Finish = 2020-03-22 18:58:57 +1300
-Processing time = 2.362959
+Finish = 2020-04-11 12:17:53 +1200
+Processing time = 3.758158

@@ -1,9 +1,11 @@
-Start = 2020-03-21 16:32:51 +1300
+Start = 2020-04-11 12:17:36 +1200
 #############################
 
-2 LINZ ids are missing from NZOGPS Tasman
+4 LINZ ids are missing from NZOGPS Tasman
 ;linzid=3080694	Whaitere Pl	-41.2690818132807,174.042866313427
 ;linzid=3080774	Broadview Way	-41.3542735381152,173.178499006396
+;linzid=3080861	Aorangi Dr	-42.4857243242953,171.206869081729
+;linzid=3080863	Oakdale Grv	-41.3337616062015,173.172664092514
 #############################
 
 1 LINZ ids are in NZOGPS Tasman but missing from LINZ
@@ -16,5 +18,5 @@ Start = 2020-03-21 16:32:51 +1300
 0 Number range ids are in NZOGPS Tasman but missing from LINZ
 #############################
 
-Finish = 2020-03-21 16:32:53 +1300
-Processing time = 1.584382
+Finish = 2020-04-11 12:17:38 +1200
+Processing time = 1.807155

@@ -1,7 +1,8 @@
-Start = 2020-03-21 16:33:10 +1300
+Start = 2020-04-11 12:17:57 +1200
 #############################
 
-15 LINZ ids are missing from NZOGPS Auckland
+25 LINZ ids are missing from NZOGPS Auckland
+;linzid=3080843	Esmonde Rd	-36.7959852333,174.7682460167
 ;linzid=3080792	Reme Pl	-37.0600726906222,174.976476868799
 ;linzid=3080790	Tarapuke Lane	-37.0479554118516,174.970610838422
 ;linzid=3080791	Whero Pl	-37.059769674892,174.976190290558
@@ -17,10 +18,20 @@ Start = 2020-03-21 16:33:10 +1300
 ;linzid=3080802	Solvit Rd	-37.0808523109685,174.910033412568
 ;linzid=3080803	Soneri Cl	-37.0805077251687,174.910637739083
 ;linzid=3080812	Korama Lane	-36.9041218425939,174.683527065916
+;linzid=3080850	Dungloe Ave	-36.980537920613,174.912006098993
+;linzid=3080847	Houkura Way	-36.8849420984784,174.737492809305
+;linzid=3080848	Cumber Lane	-36.9837096814298,174.912734176525
+;linzid=3080849	Glann Lane	-36.9846158789024,174.915007673616
+;linzid=3080851	Rossbeg Lane	-36.9798703333171,174.912402310804
+;linzid=3080852	Knock Lane	-36.9809780765741,174.911723790968
+;linzid=3080853	Drumaness Rd	-36.9803187352882,174.913001757316
+;linzid=3080867	Kupenga Lane	-36.7907393885324,174.693409653228
+;linzid=3080864	Tamora Lane	-36.8981231993325,174.686353361332
 #############################
 
-1 LINZ ids are in NZOGPS Auckland but missing from LINZ
+2 LINZ ids are in NZOGPS Auckland but missing from LINZ
 ;linzid=1821809	Devonviews	-36.81501,174.79226
+;linzid=1822678	Esmonde Rd	-36.79999,174.75985
 #############################
 
 0 Number range ids are missing from NZOGPS Auckland
@@ -29,5 +40,5 @@ Start = 2020-03-21 16:33:10 +1300
 0 Number range ids are in NZOGPS Auckland but missing from LINZ
 #############################
 
-Finish = 2020-03-21 16:33:13 +1300
-Processing time = 3.687516
+Finish = 2020-04-11 12:18:00 +1200
+Processing time = 3.480441

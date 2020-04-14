@@ -1,21 +1,10 @@
-Start = 2020-04-11 12:17:53 +1200
+Start = 2020-04-15 00:47:36 +1200
 #############################
 
-9 LINZ ids are missing from NZOGPS Waikato
-;linzid=3080854	Lockerbie St	-37.6445653295755,175.525231288191
-;linzid=3080855	Harp St	-37.6439890590936,175.525861843162
-;linzid=3080856	Morrin St	-37.6435233058335,175.526423500114
-;linzid=3080857	Werewere St	-37.6431376961609,175.52696392539
-;linzid=3080858	Howie St	-37.6427051842769,175.527678411152
-;linzid=3080859	Manning St	-37.6422847131486,175.528540297086
-;linzid=3080860	Evans St	-37.6419325437964,175.529329701308
-;linzid=3080865	Te Kaka Pl	-37.6540046964497,176.026766744133
-;linzid=3080866	Pataki Pl	-37.6540046964497,176.026766744133
+0 LINZ ids are missing from NZOGPS Waikato
 #############################
 
-2 LINZ ids are in NZOGPS Waikato but missing from LINZ
-;linzid=3077784	Gelding Lane	-37.71878,176.30884
-;linzid=3077782	Balmerino Lane	-37.71947,176.30940
+0 LINZ ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Waikato
@@ -24,5 +13,5 @@ Start = 2020-04-11 12:17:53 +1200
 0 Number range ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
-Finish = 2020-04-11 12:17:57 +1200
-Processing time = 4.02888
+Finish = 2020-04-15 00:47:38 +1200
+Processing time = 2.777146

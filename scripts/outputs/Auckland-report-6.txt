@@ -1,8 +1,8 @@
-Start = 2020-04-11 12:18:18 +1200
+Start = 2020-04-19 15:15:59 +1200
 linzid	street_name	street_name_2	official_street_name
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
 3064803	~[0x04]17	Albany Expressway	Dairy Flat Hwy	-36.73617,174.71645
 #############################
 
-Finish = 2020-04-11 12:18:23 +1200
-Processing time = 5.009876
+Finish = 2020-04-19 15:16:03 +1200
+Processing time = 4.22191

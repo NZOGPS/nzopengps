@@ -1,7 +1,10 @@
-Start = 2020-04-30 21:07:15 +1200
+Start = 2020-05-02 14:29:35 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Waikato
+3 LINZ ids are missing from NZOGPS Waikato
+;linzid=3080880	Tangata Way	-37.6466619436302,176.031191925693
+;linzid=3080878	Nottingham Rd	-37.6475632691919,176.032254220498
+;linzid=3080879	Ratahi Way	-37.6464360882709,176.031707603638
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -13,5 +16,5 @@ Start = 2020-04-30 21:07:15 +1200
 0 Number range ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
-Finish = 2020-04-30 21:07:18 +1200
-Processing time = 2.569036
+Finish = 2020-05-02 14:29:38 +1200
+Processing time = 3.353563

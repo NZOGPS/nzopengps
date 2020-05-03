@@ -1,7 +1,7 @@
-Start = 2020-04-19 15:15:39 +1200
+Start = 2020-05-02 14:29:38 +1200
 #############################
 
-7 LINZ ids are missing from NZOGPS Auckland
+10 LINZ ids are missing from NZOGPS Auckland
 ;linzid=3080874	Tumu Rd	-37.0495814337408,174.955785401318
 ;linzid=3080870	Artistry Lane	-37.0526666561518,174.946379157492
 ;linzid=3080868	Paretaiuru Rd	-37.0526556413057,174.948373885887
@@ -9,6 +9,9 @@ Start = 2020-04-19 15:15:39 +1200
 ;linzid=3080871	Valour Lane	-37.052344922889,174.947436632893
 ;linzid=3080872	Katipo Rd	-37.0392493708487,174.939934684564
 ;linzid=3080873	Minhas Rd	-37.049136933354,174.955566468488
+;linzid=3080881	Le Coz Rd	-36.9489023539231,174.966522069434
+;linzid=3080882	Madeira Lane	-36.8555987265732,174.609925346405
+;linzid=3080883	Paikea St	-36.714446510145,174.708130490447
 #############################
 
 0 LINZ ids are in NZOGPS Auckland but missing from LINZ
@@ -20,5 +23,5 @@ Start = 2020-04-19 15:15:39 +1200
 0 Number range ids are in NZOGPS Auckland but missing from LINZ
 #############################
 
-Finish = 2020-04-19 15:15:43 +1200
-Processing time = 3.227693
+Finish = 2020-05-02 14:29:41 +1200
+Processing time = 2.956969

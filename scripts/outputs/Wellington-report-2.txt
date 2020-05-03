@@ -1,4 +1,4 @@
-Start = 2020-04-19 15:15:30 +1200
+Start = 2020-05-02 14:29:29 +1200
 #############################
 
 1 LINZ ids are missing from NZOGPS Wellington
@@ -14,5 +14,5 @@ Start = 2020-04-19 15:15:30 +1200
 0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2020-04-19 15:15:32 +1200
-Processing time = 2.399538
+Finish = 2020-05-02 14:29:32 +1200
+Processing time = 2.386553

@@ -1,14 +1,11 @@
-Start = 2020-05-02 14:29:22 +1200
+Start = 2020-05-23 15:21:08 +1200
 #############################
 
-7 LINZ ids are missing from NZOGPS Tasman
+4 LINZ ids are missing from NZOGPS Tasman
 ;linzid=3080694	Whaitere Pl	-41.2690818132807,174.042866313427
-;linzid=3080885	Borck Ave	-41.3334865387627,173.167199782292
-;linzid=3080887	Cottonwood Lane	-41.3322493309413,173.167595782755
-;linzid=3080886	Kahikatea Way	-41.3331789516306,173.166049174773
-;linzid=3080888	Mulberry Lane	-41.3334865387627,173.167199782292
-;linzid=3080889	Herringbone St	-41.3331280640638,173.163785581554
-;linzid=3080890	Summersfield Blvd	-41.3338342162318,173.164621694683
+;linzid=3080901	Dayson Pl	-41.3009650667,173.2329459833
+;linzid=3080902	Old Farm Rd	-41.329423092656,173.241249674008
+;linzid=3080903	Hill Tops Way	-41.329423092656,173.241249674008
 #############################
 
 1 LINZ ids are in NZOGPS Tasman but missing from LINZ
@@ -21,5 +18,5 @@ Start = 2020-05-02 14:29:22 +1200
 0 Number range ids are in NZOGPS Tasman but missing from LINZ
 #############################
 
-Finish = 2020-05-02 14:29:24 +1200
-Processing time = 1.462511
+Finish = 2020-05-23 15:21:10 +1200
+Processing time = 1.461504

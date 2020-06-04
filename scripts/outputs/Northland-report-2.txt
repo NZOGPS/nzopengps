@@ -1,14 +1,7 @@
-Start = 2020-05-23 15:21:07 +1200
+Start = 2020-06-02 23:47:32 +1200
 #############################
 
-7 LINZ ids are missing from NZOGPS Northland
-;linzid=3080877	Waitete Heights Lane	-35.186433249213,173.980513696547
-;linzid=3080892	Te Hihi Stream Lane	-35.7395561639387,174.264932572097
-;linzid=3080891	Tironui Dr	-35.7395561639387,174.264932572097
-;linzid=3080893	Thorntree Lane	-35.7510269167,174.3018406
-;linzid=3080896	Caber Lane	-35.9827493882284,174.437257836003
-;linzid=3080905	Shieling Rd	-35.97475815,174.40266445
-;linzid=3080906	Ardeevin Rise	-35.7621314395578,174.434385022375
+0 LINZ ids are missing from NZOGPS Northland
 #############################
 
 0 LINZ ids are in NZOGPS Northland but missing from LINZ
@@ -20,5 +13,5 @@ Start = 2020-05-23 15:21:07 +1200
 0 Number range ids are in NZOGPS Northland but missing from LINZ
 #############################
 
-Finish = 2020-05-23 15:21:08 +1200
-Processing time = 1.352619
+Finish = 2020-06-02 23:47:33 +1200
+Processing time = 0.924881

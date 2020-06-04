@@ -1,15 +1,7 @@
-Start = 2020-05-23 15:21:26 +1200
+Start = 2020-06-02 23:47:47 +1200
 #############################
 
-8 LINZ ids are missing from NZOGPS Auckland
-;linzid=3080908	Ngaru Way	-36.5822513838988,174.69360053058
-;linzid=3080898	Vanni Lane	-37.0735472224283,174.93755802004
-;linzid=3080907	Heri Lane	-36.8154344875742,174.597603710801
-;linzid=3080909	State Highway 20	-36.8718511667,174.7075859333
-;linzid=3080910	Panga Pl	-36.8854258278716,174.638528205575
-;linzid=3080911	Korokio Lane	-36.8911748193736,174.633541006128
-;linzid=3080912	Treasure Lane	-36.8726594428649,174.645471056568
-;linzid=3080917	Maraea Lane	-36.9393713822643,174.843249992352
+0 LINZ ids are missing from NZOGPS Auckland
 #############################
 
 0 LINZ ids are in NZOGPS Auckland but missing from LINZ
@@ -21,5 +13,5 @@ Start = 2020-05-23 15:21:26 +1200
 0 Number range ids are in NZOGPS Auckland but missing from LINZ
 #############################
 
-Finish = 2020-05-23 15:21:29 +1200
-Processing time = 3.670246
+Finish = 2020-06-02 23:47:50 +1200
+Processing time = 2.319612

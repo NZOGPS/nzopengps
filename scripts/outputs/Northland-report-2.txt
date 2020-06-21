@@ -1,7 +1,16 @@
-Start = 2020-06-02 23:47:32 +1200
+Start = 2020-06-13 03:02:49 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Northland
+9 LINZ ids are missing from NZOGPS Northland
+;linzid=3080954	Evergreen Pl	-35.7431408751943,174.316618794291
+;linzid=3080955	Axis Pl	-35.7441732669629,174.316118972362
+;linzid=3080956	Overland Way	-35.7441732669629,174.316118972362
+;linzid=3080957	Mystic Cl	-35.7458303288211,174.316349016802
+;linzid=3080958	Leeward Tce	-35.7445232941619,174.317541392031
+;linzid=3080959	Arrondi Tce	-35.7454595358431,174.318313640856
+;linzid=3080960	Noel Cl	-36.0851409403782,174.576055989116
+;linzid=3080967	Manaaki Lane	-36.1605215923332,174.632457695259
+;linzid=3080968	Katipo Dr	-36.1436435304926,174.625073423735
 #############################
 
 0 LINZ ids are in NZOGPS Northland but missing from LINZ
@@ -13,5 +22,5 @@ Start = 2020-06-02 23:47:32 +1200
 0 Number range ids are in NZOGPS Northland but missing from LINZ
 #############################
 
-Finish = 2020-06-02 23:47:33 +1200
-Processing time = 0.924881
+Finish = 2020-06-13 03:02:50 +1200
+Processing time = 1.468635

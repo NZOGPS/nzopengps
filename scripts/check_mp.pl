@@ -236,6 +236,7 @@ sub do_polyline{
 	my $numnum = 0;	#14
 	my $dirindicator;	#16
 	my $autonum = -1; #17
+	my $dontfind = 0; #20
 	my @numarray;
 	my @nodarray;
 	my $i;
@@ -249,6 +250,8 @@ sub do_polyline{
 		if (/^RouteParam=(.*)$/)	{ $routeparam = $1 };
 		if (/^Label2=(.*)$/)		{ $label2 = $1 };
 		if (/^DirIndicator=(.*)$/)	{ $dirindicator = $1 };
+		if (/^DontFind=Y$/)			{ $dontfind = 1 };
+		
 
 		if (/^Numbers(\d+)=(.*)$/)	{ 
 			push @numbers,($1,$2);
@@ -281,7 +284,7 @@ sub do_polyline{
 			}
 			parsenums(\@numarray,@numbers);
 			parsenods(\@nodarray,\@x,\@y,@nods);
-			push @roads,[$comment,$type,\@label,$endlevel,$cityidx,$roadid,$routeparam,$lineno,\@sufi,\@x,\@y,\@numarray,\@nods,$label2,$numnum,\@nodarray,$dirindicator,$autonum,\@linzid,$linznumid];
+			push @roads,[$comment,$type,\@label,$endlevel,$cityidx,$roadid,$routeparam,$lineno,\@sufi,\@x,\@y,\@numarray,\@nods,$label2,$numnum,\@nodarray,$dirindicator,$autonum,\@linzid,$linznumid,$dontfind];
 #			-------------0--------1-------2-----3---------4--------5-------6-----------7--------8------9---10--11---------12----13------14-------15---------16-----------17-------18-------19
 			last;
 		}
@@ -1410,10 +1413,13 @@ sub no_city_index {
 		next ROAD if oct($$road[1]) > 12; # 0xc - don't check railways, rivers, etc...
 		my $idx = $$road[4];
 		my $label = $$road[2][0];
+		my $dontfind = $$road[20];
+		my $linzid = $$road[18][0];
 		if (!defined($idx) and defined($label)){
 			for (@namesnot2index) {
 				next ROAD if uc($label) eq uc
 			} 
+			next ROAD if ( $linzid == 0 && $dontfind ); # OK to not index if linzid=0 and DontFind=Y
 			print "Unindexed road:\t";
 			dump_id2($road,0,-1);
 		}

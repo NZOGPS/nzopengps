@@ -1415,13 +1415,30 @@ sub no_city_index {
 		my $label = $$road[2][0];
 		my $dontfind = $$road[20];
 		my $linzid = $$road[18][0];
-		if (!defined($idx) and defined($label)){
-			for (@namesnot2index) {
-				next ROAD if uc($label) eq uc
-			} 
-			next ROAD if ( $linzid == 0 && $dontfind ); # OK to not index if linzid=0 and DontFind=Y
-			print "Unindexed road:\t";
-			dump_id2($road,0,-1);
+		if (defined($label)){
+			if (!defined($idx)) {
+				for (@namesnot2index) {
+					if ( uc($label) eq uc ) {
+						if (!$dontfind) {
+							print "Indexed don't find name: \t";
+							dump_id2($road,0,-1);
+						}
+						next ROAD 
+					}
+				} 
+				next ROAD if ( $linzid == 0 && $dontfind ); # OK to not index if linzid=0 and DontFind=Y
+				print "Unindexed road:\t";
+			} else {
+				for (@namesnot2index) {
+					if ( uc($label) eq uc ) {
+						if (!$dontfind) {
+							print "Indexed don't find name: \t";
+							dump_id2($road,0,-1);
+						}
+					}
+				}
+				
+			}
 		}
 	}
 	

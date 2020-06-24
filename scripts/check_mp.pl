@@ -1422,6 +1422,7 @@ sub no_city_index {
 						if (!$dontfind) {
 							print "Indexed don't find name: \t";
 							dump_id2($road,0,-1);
+							print MISSFILE "$$road[10][0],$$road[9][0],\"Indexed Do not find\",\"$$road[2][0]\"\n";
 						}
 						next ROAD 
 					}
@@ -1434,6 +1435,8 @@ sub no_city_index {
 						if (!$dontfind) {
 							print "Indexed don't find name: \t";
 							dump_id2($road,0,-1);
+							print MISSFILE "$$road[10][0],$$road[9][0],\"Indexed Do not find\",\"$$road[2][0]\"\n";
+
 						}
 					}
 				}

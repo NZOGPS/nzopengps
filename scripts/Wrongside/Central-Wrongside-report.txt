@@ -1,7 +1,8 @@
 26 entries in ..\..\LinzDataService\PaperRoads\Central-WrongSide.txt
 163 entries in ..\..\LinzDataService\PaperRoads\Central-LINZWrongSide.txt
-192 wrongside numbers, 55 not in Exclusion files
-9 entries in Ignore list are no longer on the wrong side
+198 wrongside numbers, 63 not in Exclusion files
+10 entries in Ignore list are no longer on the wrong side
+483378	316 KAITOKE ROAD	2014/04/01 10:57	-39.977966,175.086507
 946419	17E MANUKAKA HEIGHTS	2014/03/06 22:14	-39.087554,174.047263
 869806	16B BURNS STREET	2014/03/06 22:19	-39.071511,174.059048
 630775	1A Reeve Drive	2015/04/12 18:28	-39.671535,176.899066
@@ -12,7 +13,7 @@
 946420	19 MANUKAKA HEIGHTS	2014/03/06 22:14	-39.087306,174.047522
 405757	253 KAIRAU ROAD EAST	2014/04/11 14:04	-39.024984,174.207029
 
-43 entries in Linz list are no longer on the wrong side
+44 entries in Linz list are no longer on the wrong side
 608656	709 Gibraltar Road	2015/04/14 02:43	-40.146561,176.841064
 1560784	9 Dawson Street	2015/04/15 13:47	-39.462829,175.677773
 1560786	11 Dawson Street	2015/04/15 13:47	-39.462671,175.677953
@@ -27,6 +28,7 @@
 597883	2 Te Manuiri Road	2015/04/14 02:53	-40.102708,176.755544
 596271	859 Farm Road	2015/04/14 02:57	-40.044307,176.616262
 1334376	95 Redoubt Street	2015/04/14 19:21	-38.686844,176.065310
+1604206	1498 State Highway  4	2015/04/14 03:50	-39.546595,175.296146
 1667759	201 River Road	2015/04/14 03:34	-39.954529,176.688899
 895439	130 Cornwall Road	2015/04/14 02:16	-39.406022,174.287563
 596034	408 McVicar Road	2015/04/12 02:58	-39.197276,176.613057

@@ -1,14 +1,7 @@
-Start = 2020-07-18 12:24:06 +1200
+Start = 2020-07-26 23:57:18 +1200
 #############################
 
-7 LINZ ids are missing from NZOGPS Southland
-;linzid=3081012	McRae Rise	-44.681130893254,169.154618573747
-;linzid=3081013	Greenwood Lane	-44.6878553124544,169.149907100727
-;linzid=3081047	Hewitt Way	-45.1776691908319,169.362176780965
-;linzid=3081046	Vercoe Rd	-45.1765108475697,169.36263595342
-;linzid=3081048	Cassidy Way	-45.1765108475697,169.36263595342
-;linzid=3081053	Glenda Pl	-46.4186200167,168.40785753333
-;linzid=3081060	Bendigo Downs Dr	-44.9749410034173,169.263475075104
+0 LINZ ids are missing from NZOGPS Southland
 #############################
 
 1 LINZ ids are in NZOGPS Southland but missing from LINZ
@@ -21,5 +14,5 @@ Start = 2020-07-18 12:24:06 +1200
 0 Number range ids are in NZOGPS Southland but missing from LINZ
 #############################
 
-Finish = 2020-07-18 12:24:09 +1200
-Processing time = 3.79312
+Finish = 2020-07-26 23:57:21 +1200
+Processing time = 2.362518

@@ -1,7 +1,11 @@
-Start = 2020-07-21 00:17:08 +1200
+Start = 2020-07-29 13:12:08 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Central
+4 LINZ ids are missing from NZOGPS Central
+;linzid=3081087	Patete Pl	-38.7272849947421,176.081720257007
+;linzid=3081086	Poroporo Way	-38.7271125759802,176.081051367078
+;linzid=3081088	Kopakopa Cres	-38.7280529018837,176.083027011171
+;linzid=3081089	Larches Lane	-38.6532694698124,175.921160584737
 #############################
 
 0 LINZ ids are in NZOGPS Central but missing from LINZ
@@ -13,5 +17,5 @@ Start = 2020-07-21 00:17:08 +1200
 0 Number range ids are in NZOGPS Central but missing from LINZ
 #############################
 
-Finish = 2020-07-21 00:17:11 +1200
-Processing time = 2.719885
+Finish = 2020-07-29 13:12:10 +1200
+Processing time = 1.860836

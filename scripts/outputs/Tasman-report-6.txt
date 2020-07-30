@@ -1,4 +1,4 @@
-Start = 2020-07-18 12:24:28 +1200
+Start = 2020-07-28 13:43:54 +1200
 linzid	street_name	street_name_2	official_street_name
 3032989	Settlement Rd ( 4WD Only)		Settlement Rd	-42.68954,171.22630
 3075346	Service Lane		Eleventh Lane	-41.53924,173.93827
@@ -9,5 +9,5 @@ linzid	street_name	street_name_2	official_street_name
 3078936	Decks Rd		Deck Rd	-41.20576,173.06975
 #############################
 
-Finish = 2020-07-18 12:24:29 +1200
-Processing time = 1.458508
+Finish = 2020-07-28 13:44:00 +1200
+Processing time = 6.139363

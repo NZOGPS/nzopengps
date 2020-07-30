@@ -1,7 +1,6 @@
-Start = 2020-07-18 12:24:41 +1200
+Start = 2020-07-30 19:53:23 +1200
 linzid	street_name	street_name_2	official_street_name
-3079765	Korimako Way		Korimako Pl	-37.94984,176.95068
 #############################
 
-Finish = 2020-07-18 12:24:45 +1200
-Processing time = 3.58134
+Finish = 2020-07-30 19:53:26 +1200
+Processing time = 2.754835

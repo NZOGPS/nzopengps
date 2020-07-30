@@ -1,6 +1,8 @@
-Start = 2020-07-18 12:24:26 +1200
+Start = 2020-07-28 13:43:49 +1200
 linzid	street_name	street_name_2	official_street_name
+1838961	Elsies Way		Elsie's Way	-35.68924,174.29698
+1826600	St Marys Rd		St Mary's Rd	-35.98409,174.44414
 #############################
 
-Finish = 2020-07-18 12:24:28 +1200
-Processing time = 1.321649
+Finish = 2020-07-28 13:43:54 +1200
+Processing time = 4.396127

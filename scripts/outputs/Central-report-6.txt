@@ -1,6 +1,12 @@
-Start = 2020-07-21 00:17:11 +1200
+Start = 2020-07-29 13:12:10 +1200
 linzid	street_name	street_name_2	official_street_name
+1795912	Turangi Town Centre		The Town Centre	-38.98813,175.80853
+1795912	Turangi Town Centre		The Town Centre	-38.98837,175.80802
+1795912	Turangi Town Centre		The Town Centre	-38.98784,175.80903
+1795912	Turangi Town Centre		The Town Centre	-38.98857,175.80751
+1795912	Turangi Town Centre		The Town Centre	-38.98899,175.80777
+1795912	Turangi Town Centre		The Town Centre	-38.98881,175.80835
 #############################
 
-Finish = 2020-07-21 00:17:13 +1200
-Processing time = 1.7652
+Finish = 2020-07-29 13:12:12 +1200
+Processing time = 2.172084

@@ -1,4 +1,4 @@
-Start = 2020-07-29 13:12:10 +1200
+Start = 2020-07-31 17:42:46 +1200
 linzid	street_name	street_name_2	official_street_name
 1795912	Turangi Town Centre		The Town Centre	-38.98813,175.80853
 1795912	Turangi Town Centre		The Town Centre	-38.98837,175.80802
@@ -8,5 +8,5 @@ linzid	street_name	street_name_2	official_street_name
 1795912	Turangi Town Centre		The Town Centre	-38.98881,175.80835
 #############################
 
-Finish = 2020-07-29 13:12:12 +1200
-Processing time = 2.172084
+Finish = 2020-07-31 17:42:48 +1200
+Processing time = 2.140129

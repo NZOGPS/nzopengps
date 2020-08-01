@@ -1,11 +1,10 @@
-Start = 2020-08-01 17:04:50 +1200
+Start = 2020-08-02 00:37:57 +1200
 #############################
 
 0 LINZ ids are missing from NZOGPS Central
 #############################
 
-1 LINZ ids are in NZOGPS Central but missing from LINZ
-;linzid=3076573	Roadway	-38.82032,177.14552
+0 LINZ ids are in NZOGPS Central but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Central
@@ -14,5 +13,5 @@ Start = 2020-08-01 17:04:50 +1200
 0 Number range ids are in NZOGPS Central but missing from LINZ
 #############################
 
-Finish = 2020-08-01 17:04:52 +1200
-Processing time = 2.714226
+Finish = 2020-08-02 00:37:59 +1200
+Processing time = 2.525836

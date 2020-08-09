@@ -1429,6 +1429,8 @@ sub no_city_index {
 				} 
 				next ROAD if ( $linzid == 0 && $dontfind ); # OK to not index if linzid=0 and DontFind=Y
 				print "Unindexed road:\t";
+					dump_id2($road,0,-1);
+					print MISSFILE "$$road[10][0],$$road[9][0],\"UnIndexed road\",\"$$road[2][0]\"\n";
 			} else {
 				for (@namesnot2index) {
 					if ( uc($label) eq uc ) {

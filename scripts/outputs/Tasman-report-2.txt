@@ -1,7 +1,18 @@
-Start = 2020-08-09 17:29:13 +1200
+Start = 2020-08-29 11:26:29 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Tasman
+11 LINZ ids are missing from NZOGPS Tasman
+;linzid=3081101	Oakley Ave	-41.4956840319967,173.93864301123
+;linzid=3081102	Arlington Cl	-41.4970760282586,173.937799291212
+;linzid=3081103	Albert Grv	-41.4970161997779,173.938717481252
+;linzid=3081106	Granville Cl	-41.4957254815636,173.937684961012
+;linzid=3081107	Bond St	-41.4956840319967,173.93864301123
+;linzid=3081104	Whitehall Dr	-41.4943242884525,173.939488789753
+;linzid=3081108	Chapel Cl	-41.4943242884525,173.939488789753
+;linzid=3081111	Lowther Dr	-41.5377486655221,173.969390129541
+;linzid=3081139	Discovery Way	-41.2723963602104,174.035827971478
+;linzid=3081150	Cerise Rd	-41.5054313932476,173.923839258939
+;linzid=3081151	Ruesink St	-41.506055156126,173.923895103623
 #############################
 
 2 LINZ ids are in NZOGPS Tasman but missing from LINZ
@@ -15,5 +26,5 @@ Start = 2020-08-09 17:29:13 +1200
 0 Number range ids are in NZOGPS Tasman but missing from LINZ
 #############################
 
-Finish = 2020-08-09 17:29:14 +1200
-Processing time = 1.12494
+Finish = 2020-08-29 11:26:31 +1200
+Processing time = 1.70299

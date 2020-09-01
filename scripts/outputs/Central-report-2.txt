@@ -1,7 +1,8 @@
-Start = 2020-08-09 17:29:21 +1200
+Start = 2020-08-29 11:26:35 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Central
+1 LINZ ids are missing from NZOGPS Central
+;linzid=3081180	Te Ara o Tu Te Ngara	-39.0471254973729,174.10479294771
 #############################
 
 0 LINZ ids are in NZOGPS Central but missing from LINZ
@@ -13,5 +14,5 @@ Start = 2020-08-09 17:29:21 +1200
 0 Number range ids are in NZOGPS Central but missing from LINZ
 #############################
 
-Finish = 2020-08-09 17:29:22 +1200
-Processing time = 1.937351
+Finish = 2020-08-29 11:26:37 +1200
+Processing time = 2.76542

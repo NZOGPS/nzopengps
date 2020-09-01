@@ -1,6 +1,8 @@
-Start = 2020-08-02 01:25:17 +1200
+Start = 2020-08-29 11:26:59 +1200
 linzid	street_name	street_name_2	official_street_name
+1791880	Hennessy St W		Hennessey St W	-40.45724,175.22266
+1798615	Hennessy St E		Hennessey St E	-40.45749,175.22425
 #############################
 
-Finish = 2020-08-02 01:25:19 +1200
-Processing time = 1.652193
+Finish = 2020-08-29 11:27:02 +1200
+Processing time = 2.109208

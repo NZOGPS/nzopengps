@@ -1,7 +1,19 @@
-Start = 2020-08-09 17:29:15 +1200
+Start = 2020-08-29 11:26:44 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Waikato
+12 LINZ ids are missing from NZOGPS Waikato
+;linzid=3081110	Mathews Pl	-38.0048767471389,175.330226624704
+;linzid=3081128	Tipa Lane	-37.7195694663169,176.322049148581
+;linzid=3081127	Kaiora Dr	-37.7195946801517,176.320181225432
+;linzid=3081129	Torino Rd	-37.7189406077558,176.320326366135
+;linzid=3081130	Kuakua Cl	-37.7185833484317,176.322869459715
+;linzid=3081141	Te Toki Way	-37.8046932740109,174.872512665374
+;linzid=3081172	Rocky Rd	-37.7215088623733,175.279779551635
+;linzid=3081176	Memorial Dr	-38.132912,176.2538075833
+;linzid=3081175	Oruawhata Dr	-38.1312859151769,176.254070548654
+;linzid=3081178	Monilia Way	-37.7253372942725,176.331259234525
+;linzid=3081177	Toronia Crt	-37.7246648178338,176.33007058949
+;linzid=3081179	Cotula Way	-37.7239925803061,176.332881364689
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -13,5 +25,5 @@ Start = 2020-08-09 17:29:15 +1200
 0 Number range ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
-Finish = 2020-08-09 17:29:18 +1200
-Processing time = 2.531048
+Finish = 2020-08-29 11:26:48 +1200
+Processing time = 3.718463

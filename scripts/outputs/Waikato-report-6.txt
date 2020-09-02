@@ -1,9 +1,6 @@
-Start = 2020-08-29 11:27:04 +1200
+Start = 2020-09-03 00:03:12 +1200
 linzid	street_name	street_name_2	official_street_name
-1808645	MacMillan St		Macmillan St	-37.55019,175.91203
-1808645	MacMillan St		Macmillan St	-37.55019,175.91203
-1808645	MacMillan St		Macmillan St	-37.55016,175.91186
 #############################
 
-Finish = 2020-08-29 11:27:08 +1200
-Processing time = 3.140351
+Finish = 2020-09-03 00:03:15 +1200
+Processing time = 2.249805

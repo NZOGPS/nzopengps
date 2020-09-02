@@ -1,15 +1,9 @@
-Start = 2020-08-29 11:26:53 +1200
+Start = 2020-09-01 00:52:50 +1200
 linzid	street_name	street_name_2	official_street_name
 1788821	High St S		Quayle St	-41.13893,173.00552
-3032989	Settlement Rd ( 4WD Only)		Settlement Rd	-42.68954,171.22630
-3075346	Service Lane		Eleventh Lane	-41.53924,173.93827
-1837462	De Castro Dr		de Castro Dr	-41.51916,173.96801
-1788712	Wills Rd (4wd Only Ford)		Wills Rd	-41.21287,172.99981
-1789173	Woodland Ave		Woodlands Ave	-41.11562,173.01080
-1790396	Greenstone Rd (Unmaintained)		Greenstone Rd	-42.66869,171.18008
-3079368	Chertsey St		Chertsey Rd	-41.33604,173.17395
-3078936	Decks Rd		Deck Rd	-41.20576,173.06975
+3032989	Settlement Rd (4WD Only)		Settlement Rd	-42.68955,171.22628
+1790396	Greenstone Rd (Unmaintained)		Greenstone Rd	-42.66872,171.18020
 #############################
 
-Finish = 2020-08-29 11:26:54 +1200
-Processing time = 1.421758
+Finish = 2020-09-01 00:52:51 +1200
+Processing time = 0.906187

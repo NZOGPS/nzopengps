@@ -1,23 +1,10 @@
-Start = 2020-08-29 11:26:38 +1200
+Start = 2020-09-03 00:56:01 +1200
 #############################
 
-11 LINZ ids are missing from NZOGPS Wellington
-;linzid=3081118	Mawai Hakona Dr	-41.1373668231011,175.049239419395
-;linzid=3081112	Lucern Lane	-41.223287677731,174.887032563898
-;linzid=3081115	Pukeatua Pl	-41.2581713542889,174.951466343132
-;linzid=3081113	Martha Lawson Lane	-41.2125518352495,174.907369936547
-;linzid=3081114	Orongorongo Tce	-41.2581713542889,174.951466343132
-;linzid=3081119	Fitch Lane	-41.1378835289878,175.052025234054
-;linzid=3081121	Josland Lane	-41.1379252078256,175.050408639124
-;linzid=3081120	Aston Cres	-41.1379252078256,175.050408639124
-;linzid=3081122	Green Lane	-41.1373668231011,175.049239419395
-;linzid=3081170	Sinclair Way	-41.275771399999996,175.3621623333
-;linzid=3081174	John Reynolds Sq	-41.2103267326559,174.915326284165
+0 LINZ ids are missing from NZOGPS Wellington
 #############################
 
-2 LINZ ids are in NZOGPS Wellington but missing from LINZ
-;linzid=3076425	Accessway	-41.21042,174.91590
-;linzid=3080788	Mawai Hakona Dr	-41.13898,175.05243
+0 LINZ ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Wellington
@@ -26,5 +13,5 @@ Start = 2020-08-29 11:26:38 +1200
 0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2020-08-29 11:26:40 +1200
-Processing time = 2.76541
+Finish = 2020-09-03 00:56:03 +1200
+Processing time = 1.894774

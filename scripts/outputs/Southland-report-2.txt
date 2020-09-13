@@ -1,18 +1,7 @@
-Start = 2020-09-12 13:53:24 +1200
+Start = 2020-09-13 14:13:41 +1200
 #############################
 
-11 LINZ ids are missing from NZOGPS Southland
-;linzid=3081211	Crab Apple Lane	-45.0273332038247,168.745103634232
-;linzid=3081213	Tulip Lane	-45.0234348881525,168.746588510654
-;linzid=3081212	Purple Ash Ave	-45.0209012897213,168.7499654893
-;linzid=3081214	Mill Farm Lane	-44.9519475616398,168.790703640535
-;linzid=3081215	Willow Glen Lane	-44.9484362014869,168.790765683627
-;linzid=3081216	Byre Lane	-44.949073281972,168.791569674338
-;linzid=3081217	Elliot Cl	-44.9494986022955,168.792474308549
-;linzid=3081218	Plateau Lane	-44.9520646766895,168.792623490815
-;linzid=3081220	Grand Terrace Sq	-44.9516045818512,168.7895617688
-;linzid=3081219	Macauley Lane	-44.9519475616398,168.790703640535
-;linzid=3081230	De La Perrelle Lane	-44.9515675840499,168.790992467355
+0 LINZ ids are missing from NZOGPS Southland
 #############################
 
 0 LINZ ids are in NZOGPS Southland but missing from LINZ
@@ -24,5 +13,5 @@ Start = 2020-09-12 13:53:24 +1200
 0 Number range ids are in NZOGPS Southland but missing from LINZ
 #############################
 
-Finish = 2020-09-12 13:53:28 +1200
-Processing time = 3.987918
+Finish = 2020-09-13 14:13:44 +1200
+Processing time = 2.711223

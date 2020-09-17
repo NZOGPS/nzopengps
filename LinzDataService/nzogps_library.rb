@@ -5,82 +5,82 @@
   a bunch of methods and common code for handling conversion of LINZ shape file geometry records to Polish format
 =end
 
-class RdCnst	# 20200805 wrap these 'constants' in a class to avoid warning: class variable access from toplevel
-	@@roadextensions = {
-		"North" => "N",
-		"East" => "E",
-		"South" => "S",
-		"West" => "W",
-		"Northeast" => "NE",
-		"Southeast" => "SE",
-		"Northwest" => "NW",
-		"Southwest" => "SW",
-		"Central" => "Ctrl",
-		"Extension" => "Ext",
-		"Upper" => "Upper",	#Keep Upper and Lower here to trigger contraction of previous word
-		"Lower" => "Lower"
-	}
-	@@addr_Match = {}
-	@@addr_Match['directions'] = '\b(?:' + @@roadextensions.keys.join("|") + "|" + @@roadextensions.values.join("|") + ')\b'
-	@@addr_Match['streetwithdirection'] = /(.*)\s(#{@@addr_Match['directions']})$/i
 
-	@@roadprepositions = {
-		"Mount" => "Mt",
-		"Saint" => "St"
-	}
+@@roadextensions = {
+  "North" => "N",
+  "East" => "E",
+  "South" => "S",
+  "West" => "W",
+  "Northeast" => "NE",
+  "Southeast" => "SE",
+  "Northwest" => "NW",
+  "Southwest" => "SW",
+  "Central" => "Ctrl",
+  "Extension" => "Ext",
+  "Upper" => "Upper",	#Keep Upper and Lower here to trigger contraction of previous word
+  "Lower" => "Lower"
+}
+@@addr_Match = {}
+@@addr_Match['directions'] = '\b(?:' + @@roadextensions.keys.join("|") + "|" + @@roadextensions.values.join("|") + ')\b'
+@@addr_Match['streetwithdirection'] = /(.*)\s(#{@@addr_Match['directions']})$/i
 
-	@@contractions = {
-		"Access" => "Access",
-		"Avenue" => "Ave",
-		"Bay" => "Bay",
-		"Beach" => "Beach",
-		"Bend" => "Bend",
-		"Boulevard" => "Blvd",
-		"Centre" => "Centre",
-		"Circle" => "Circle",
-		"Circus" => "Circus",
-		"Close" => "Cl",
-		"Common" => "Cmn",
-		"Court" => "Crt",
-		"Crescent" => "Cres",
-		"Crest" => "Crest",
-		"Downs" => "Downs",
-		"Drive" => "Dr",
-		"Esplanade" => "Esp",
-		"Fairway" => "Fairway",
-		"Gardens" => "Gdns",
-		"Glade" => "Glade",
-		"Glen" => "Glen",
-		"Green" => "Grn",
-		"Grove" => "Grv",
-		"Head" => "Head",
-		"Heights" => "Hts",
-		"Highway" => "Hwy",
-		"Leader" => "Leader",
-		"Leigh" => "Leigh",
-		"Mount" => "Mt",
-		"Oaks" => "Oaks",
-		"Paku" => "Paku",
-		"Parade" => "Pde",
-		"Park" => "Pk",
-		"Place" => "Pl",
-		"Point" => "Pt",
-		"Promenade" => "Prom",
-		"Quay" => "Qy",
-		"Road" => "Rd",
-		"Square" => "Sq",
-		"Strand" => "Strand",
-		"Street" => "St",
-		"Terrace" => "Tce",
-		"Track" => "Trk",
-		"Valley" => "Vly",
-		"Village" => "Vlg",
-		"Villas" => "Villas",
-		"Vista" => "Vista",
-		"Walk" => "Wlk",
-		"Motorway" => "Mwy" #the one unofficial abbreviation we will accept
-	}
-end
+@@roadprepositions = {
+  "Mount" => "Mt",
+  "Saint" => "St"
+}
+
+@@contractions = {
+  "Access" => "Access",
+  "Avenue" => "Ave",
+  "Bay" => "Bay",
+  "Beach" => "Beach",
+  "Bend" => "Bend",
+  "Boulevard" => "Blvd",
+  "Centre" => "Centre",
+  "Circle" => "Circle",
+  "Circus" => "Circus",
+  "Close" => "Cl",
+  "Common" => "Cmn",
+  "Court" => "Crt",
+  "Crescent" => "Cres",
+  "Crest" => "Crest",
+  "Downs" => "Downs",
+  "Drive" => "Dr",
+  "Esplanade" => "Esp",
+  "Fairway" => "Fairway",
+  "Gardens" => "Gdns",
+  "Glade" => "Glade",
+  "Glen" => "Glen",
+  "Green" => "Grn",
+  "Grove" => "Grv",
+  "Head" => "Head",
+  "Heights" => "Hts",
+  "Highway" => "Hwy",
+  "Leader" => "Leader",
+  "Leigh" => "Leigh",
+  "Mount" => "Mt",
+  "Oaks" => "Oaks",
+  "Paku" => "Paku",
+  "Parade" => "Pde",
+  "Park" => "Pk",
+  "Place" => "Pl",
+  "Point" => "Pt",
+  "Promenade" => "Prom",
+  "Quay" => "Qy",
+  "Road" => "Rd",
+  "Square" => "Sq",
+  "Strand" => "Strand",
+  "Street" => "St",
+  "Terrace" => "Tce",
+  "Track" => "Trk",
+  "Valley" => "Vly",
+  "Village" => "Vlg",
+  "Villas" => "Villas",
+  "Vista" => "Vista",
+  "Walk" => "Wlk",
+  "Motorway" => "Mwy" #the one unofficial abbreviation we will accept
+}
+
 def doContractions(streetname)
 	demacron = {
 				"\u0100" => 'A',
@@ -108,23 +108,23 @@ def doContractions(streetname)
   if (streetname =~ /^SH (.*)$/i) then streetname = 'State Highway ' + $1 end 
   #if (streetname =~ /^STATE HIGHWAY (.*)$/i) then streetname = 'SH ' + $1 end # this way wrong, majority other way
 
-  if (md = RdCnst.class_variable_get(:@@addr_Match)['streetwithdirection'].match(streetname)) then
+  if (md = @@addr_Match['streetwithdirection'].match(streetname)) then
 	streetname = md[1]
 	streetext = md[2]
   end
 
-  RdCnst.class_variable_get(:@@contractions).each_pair{|key,value|
+  @@contractions.each_pair{|key,value|
 	#streetname = streetname.sub(/\b#{key}\b/, value) # incorrectly handles case of 'avenue road' - contracts both.
 	#if (streetname =~ /^.+\b#{key}\b.*$/i) then streetname = streetname.sub(/\b#{key}\b/, value) end # contracts all words that look like a contraction not just last one
 	if (streetname =~ /^.+\b#{key}$/i) then streetname = streetname.sub(/\b#{key}$/, value) end
   }
 
-  RdCnst.class_variable_get(:@@roadprepositions).each_pair{|key,value|
+  @@roadprepositions.each_pair{|key,value|
 	if (streetname =~ /^#{key}\b.*$/i) then streetname = streetname.sub(/^#{key}\b/, value) end
   }
 
   if (streetext) then
-	RdCnst.class_variable_get(:@@roadextensions).each_pair{|key,value|
+	@@roadextensions.each_pair{|key,value|
 	  if (streetext =~ /^.*\b#{key}$/i) then streetext = streetext.sub(/\b#{key}$/, value) end
 	}
 	streetname = streetname + ' ' + streetext

@@ -1,7 +1,8 @@
-Start = 2020-09-12 13:53:47 +1200
+Start = 2020-08-01 17:05:06 +1200
 linzid	street_name	street_name_2	official_street_name
-1838915	Forest Heights Rd		Forrest Heights Rd	-35.22283,173.95883
+1838961	Elsies Way		Elsie's Way	-35.68924,174.29698
+1826600	St Marys Rd		St Mary's Rd	-35.98409,174.44414
 #############################
 
-Finish = 2020-09-12 13:53:48 +1200
-Processing time = 1.393575
+Finish = 2020-08-01 17:05:08 +1200
+Processing time = 1.291679

@@ -1,7 +1,6 @@
-Start = 2020-09-12 13:53:47 +1200
+Start = 2020-09-26 15:02:20 +1200
 linzid	street_name	street_name_2	official_street_name
-1838915	Forest Heights Rd		Forrest Heights Rd	-35.22283,173.95883
 #############################
 
-Finish = 2020-09-12 13:53:48 +1200
-Processing time = 1.393575
+Finish = 2020-09-26 15:02:22 +1200
+Processing time = 1.462439

@@ -1,7 +1,10 @@
-Start = 2020-09-13 15:44:36 +1200
+Start = 2020-09-26 15:01:57 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Southland
+3 LINZ ids are missing from NZOGPS Southland
+;linzid=3081267	Redwoods Lane	-45.8451744282898,170.492985866781
+;linzid=3081268	Trudi Pl	-45.9079241935358,170.422197336841
+;linzid=3081269	Ella Lane	-45.9089034527782,170.422784143796
 #############################
 
 0 LINZ ids are in NZOGPS Southland but missing from LINZ
@@ -13,5 +16,5 @@ Start = 2020-09-13 15:44:36 +1200
 0 Number range ids are in NZOGPS Southland but missing from LINZ
 #############################
 
-Finish = 2020-09-13 15:44:39 +1200
-Processing time = 2.483734
+Finish = 2020-09-26 15:02:01 +1200
+Processing time = 4.056472

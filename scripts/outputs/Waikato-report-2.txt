@@ -1,7 +1,12 @@
-Start = 2020-09-27 00:22:57 +1200
+Start = 2020-10-11 15:01:21 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Waikato
+5 LINZ ids are missing from NZOGPS Waikato
+;linzid=3081330	Crest Way	-37.7272321700443,176.333508471242
+;linzid=3081329	Arrow Cl	-37.7280730244458,176.332795096674
+;linzid=3081331	Orepunga Way	-37.1341831,174.7464356
+;linzid=3081332	Lance Way	-37.7280730244458,176.332795096674
+;linzid=3081333	Hopehill Lane	-37.8141364175071,175.574887276473
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -13,5 +18,5 @@ Start = 2020-09-27 00:22:57 +1200
 0 Number range ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
-Finish = 2020-09-27 00:23:00 +1200
-Processing time = 3.551222
+Finish = 2020-10-11 15:01:25 +1300
+Processing time = 4.041861

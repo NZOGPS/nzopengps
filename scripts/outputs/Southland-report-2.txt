@@ -1,10 +1,7 @@
-Start = 2020-10-11 15:01:06 +1300
+Start = 2020-10-14 22:55:45 +1300
 #############################
 
-3 LINZ ids are missing from NZOGPS Southland
-;linzid=3081325	Sir Cliff Skeggs Dr	-44.6970191068673,169.157131380801
-;linzid=3081326	Massey Dr	-44.6997461988597,169.1593561328
-;linzid=3081327	Hart Parr Rd	-44.6997461988597,169.1593561328
+0 LINZ ids are missing from NZOGPS Southland
 #############################
 
 0 LINZ ids are in NZOGPS Southland but missing from LINZ
@@ -16,5 +13,5 @@ Start = 2020-10-11 15:01:06 +1300
 0 Number range ids are in NZOGPS Southland but missing from LINZ
 #############################
 
-Finish = 2020-10-11 15:01:10 +1300
-Processing time = 3.465453
+Finish = 2020-10-14 22:55:48 +1300
+Processing time = 2.434157

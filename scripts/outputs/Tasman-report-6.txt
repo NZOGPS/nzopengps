@@ -1,9 +1,8 @@
-Start = 2020-10-11 15:01:31 +1300
+Start = 2020-10-31 18:01:35 +1300
 linzid	street_name	street_name_2	official_street_name
-1788821	High St S		Quayle St	-41.13893,173.00552
 3032989	Settlement Rd (4WD Only)		Settlement Rd	-42.68955,171.22628
 1790396	Greenstone Rd (Unmaintained)		Greenstone Rd	-42.66872,171.18020
 #############################
 
-Finish = 2020-10-11 15:01:32 +1300
-Processing time = 1.449516
+Finish = 2020-10-31 18:01:36 +1300
+Processing time = 1.472019

@@ -1,13 +1,14 @@
-Start = 2020-10-11 15:01:03 +1300
+Start = 2020-10-31 18:01:09 +1300
 #############################
 
-6 LINZ ids are missing from NZOGPS Northland
+7 LINZ ids are missing from NZOGPS Northland
 ;linzid=3081281	Gates Way	-35.0380955667,173.72996115
 ;linzid=3081293	Leatham Tce	-35.2184371102459,173.945561485935
 ;linzid=3081322	Waitokitoki Way	-35.59677145,174.5212867
 ;linzid=3081339	Tiaki Rise	-35.6787380643475,174.32424412535
 ;linzid=3081341	Tupeia Lane	-35.6792110617879,174.324620465942
 ;linzid=3081340	Kekewai Pl	-35.6792110617879,174.324620465942
+;linzid=3081374	Magon Access Rd	-35.3072106453899,173.752974585987
 #############################
 
 0 LINZ ids are in NZOGPS Northland but missing from LINZ
@@ -19,5 +20,5 @@ Start = 2020-10-11 15:01:03 +1300
 0 Number range ids are in NZOGPS Northland but missing from LINZ
 #############################
 
-Finish = 2020-10-11 15:01:04 +1300
-Processing time = 1.649312
+Finish = 2020-10-31 18:01:11 +1300
+Processing time = 1.364536

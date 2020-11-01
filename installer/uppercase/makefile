@@ -13,7 +13,7 @@ MPPATH = $(subst $\",,$(nzogps_base))
 MPIMGS = 64000013.img 64000014.img 64000015.img 64000016.img 64000017.img 64000018.img 64000019.img 64000020.img
 POIIMGS = 64000012.img 64000021.img
 
-SETUP = $(wildcard *FREE_OpenGPS_NZ*)
+SETUP = $(wildcard *FREE_Uppercase_OpenGPS_NZ*)
 
 $(SETUP) : Free\ Open\ GPS\ NZ\ Autorouting.img
 	$(ISCC) /dSdir=. /dBdir=$(nzogps_base) /dWImg=..\$(nzogps_inst_image) "NZ OpenGPS Setup.iss"

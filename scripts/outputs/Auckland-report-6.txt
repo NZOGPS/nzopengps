@@ -1,9 +1,7 @@
-Start = 2020-10-31 18:01:52 +1300
+Start = 2020-11-08 16:30:06 +1300
 linzid	street_name	street_name_2	official_street_name
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
-3079779	Parbhubhai Maken Lane		Parbhubhai Makan Lane	-36.87719,174.87008
-3080917	Maraea Lane		Arataki Lane	-36.93937,174.84325
 #############################
 
-Finish = 2020-10-31 18:01:56 +1300
-Processing time = 4.778499
+Finish = 2020-11-08 16:30:09 +1300
+Processing time = 2.800156

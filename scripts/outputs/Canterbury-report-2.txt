@@ -1,9 +1,20 @@
-Start = 2020-11-09 23:12:55 +1300
+Start = 2020-12-01 23:39:18 +1300
 #############################
 
-2 LINZ ids are missing from NZOGPS Canterbury
+13 LINZ ids are missing from NZOGPS Canterbury
 ;linzid=3027685	State Highway 1	-43.4297944501007,172.646326138011
 ;linzid=3079720	Gold Valley Rd	-43.7070990510647,172.652569302629
+;linzid=3081460	Greyfern Lane	-43.2228291519002,172.706459271489
+;linzid=3081407	Orchiston Way	-43.6508358983411,172.478025364747
+;linzid=3081405	Waikirikiri Ave	-43.6507514127369,172.478813561174
+;linzid=3081404	Papatahora Dr	-43.6516194511711,172.47716260563
+;linzid=3081406	Hollard Cres	-43.6516194511711,172.47716260563
+;linzid=3081428	Eliza Way	-43.7517975521913,172.01793121685
+;linzid=3081447	Filly Pl	-43.5187308946037,172.525958374016
+;linzid=3081455	Delapre Dr	-43.6073670756295,172.391458335759
+;linzid=3081456	Ladybridge Dr	-43.6073670756295,172.391458335759
+;linzid=3081457	Hardingstone Dr	-43.6081946301509,172.390537347663
+;linzid=3081462	Barnfields Cl	-43.5891227167,172.5893811833
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
@@ -16,5 +27,5 @@ Start = 2020-11-09 23:12:55 +1300
 0 Number range ids are in NZOGPS Canterbury but missing from LINZ
 #############################
 
-Finish = 2020-11-09 23:12:58 +1300
-Processing time = 2.871061
+Finish = 2020-12-01 23:39:20 +1300
+Processing time = 2.258723

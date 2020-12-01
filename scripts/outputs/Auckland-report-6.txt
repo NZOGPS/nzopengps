@@ -1,7 +1,8 @@
-Start = 2020-11-08 16:30:06 +1300
+Start = 2020-11-29 15:56:40 +1300
 linzid	street_name	street_name_2	official_street_name
+1821555	Kaspar St		Kasper St	-36.39736,174.65652
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
 #############################
 
-Finish = 2020-11-08 16:30:09 +1300
-Processing time = 2.800156
+Finish = 2020-11-29 15:56:45 +1300
+Processing time = 5.657044

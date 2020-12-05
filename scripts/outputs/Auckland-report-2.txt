@@ -1,7 +1,8 @@
-Start = 2020-11-29 15:56:15 +1300
+Start = 2020-12-05 18:02:04 +1300
 #############################
 
-16 LINZ ids are missing from NZOGPS Auckland
+19 LINZ ids are missing from NZOGPS Auckland
+;linzid=3081486	Longhorn Dr	-36.9825273581359,174.936288369878
 ;linzid=3081408	Rangimarie Cl	-37.0731598893253,174.945745537503
 ;linzid=3081468	Uki Way	-36.9766184514563,174.923318400255
 ;linzid=3081392	Ofanoa Lane	-36.9164942460673,174.736487330029
@@ -18,6 +19,8 @@ Start = 2020-11-29 15:56:15 +1300
 ;linzid=3081466	Bush View Pl	-36.975998588991,174.923492369354
 ;linzid=3081467	Tanekaha Rd	-36.9766184514563,174.923318400255
 ;linzid=3081477	Te Hakari Lane	-36.8730687476561,174.809554886751
+;linzid=3081478	Te Kotuitanga Lane	-36.9110935892492,174.705165407449
+;linzid=3081479	Rengarenga Rise	-36.7138460304918,174.713987412696
 #############################
 
 1 LINZ ids are in NZOGPS Auckland but missing from LINZ
@@ -30,5 +33,5 @@ Start = 2020-11-29 15:56:15 +1300
 0 Number range ids are in NZOGPS Auckland but missing from LINZ
 #############################
 
-Finish = 2020-11-29 15:56:19 +1300
-Processing time = 3.616295
+Finish = 2020-12-05 18:02:08 +1300
+Processing time = 4.011644

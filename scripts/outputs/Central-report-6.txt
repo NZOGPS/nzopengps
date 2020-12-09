@@ -1,6 +1,6 @@
-Start = 2020-12-06 00:29:11 +1300
+Start = 2020-12-10 12:42:36 +1300
 linzid	street_name	street_name_2	official_street_name
 #############################
 
-Finish = 2020-12-06 00:29:13 +1300
-Processing time = 2.424631
+Finish = 2020-12-10 12:42:37 +1300
+Processing time = 1.775535

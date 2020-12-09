@@ -1,9 +1,7 @@
-Start = 2020-12-05 18:02:28 +1300
+Start = 2020-12-10 12:42:41 +1300
 linzid	street_name	street_name_2	official_street_name
-1821555	Kaspar St		Kasper St	-36.39736,174.65652
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
-3081100	Kiwawao Lane		Kaiwawao Lane	-36.79794,174.65500
 #############################
 
-Finish = 2020-12-05 18:02:33 +1300
-Processing time = 5.151096
+Finish = 2020-12-10 12:42:44 +1300
+Processing time = 2.927325

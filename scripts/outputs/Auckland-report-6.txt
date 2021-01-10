@@ -1,7 +1,7 @@
-Start = 2020-12-10 12:42:41 +1300
+Start = 2021-01-09 14:41:48 +1300
 linzid	street_name	street_name_2	official_street_name
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
 #############################
 
-Finish = 2020-12-10 12:42:44 +1300
-Processing time = 2.927325
+Finish = 2021-01-09 14:41:53 +1300
+Processing time = 5.843094

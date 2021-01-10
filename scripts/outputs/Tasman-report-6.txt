@@ -1,8 +1,8 @@
-Start = 2020-12-05 18:02:10 +1300
+Start = 2021-01-09 14:41:27 +1300
 linzid	street_name	street_name_2	official_street_name
 3032989	Settlement Rd (4WD Only)		Settlement Rd	-42.68955,171.22628
 1790396	Greenstone Rd (Unmaintained)		Greenstone Rd	-42.66872,171.18020
 #############################
 
-Finish = 2020-12-05 18:02:12 +1300
-Processing time = 1.528958
+Finish = 2021-01-09 14:41:29 +1300
+Processing time = 1.626263

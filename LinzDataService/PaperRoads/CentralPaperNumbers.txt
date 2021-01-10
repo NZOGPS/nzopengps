@@ -42,3 +42,4 @@
 3016010	E,108,122	Carthew St	Okato(Taranaki,NZ)	2020/07/29 01:00	-39.193090,173.882320
 1801020	O,75,291	No 1 Line Pohangina	Pohangina(Manawatu-Wanganui,NZ)	2020/09/12 17:32	-40.165860,175.826610
 1798808	O,21,21	George St	Ohingaiti(Manawatu-Wanganui,NZ)	2020/09/26 20:29	-39.861320,175.707070
+1802860	E,188,188	Waikaremoana Rd	Urewera National Park(Bay of Plenty,NZ)	2021/01/10 15:49	-38.672055,176.957853

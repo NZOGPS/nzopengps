@@ -1,13 +1,13 @@
-Start = 2020-12-05 18:01:44 +1300
+Start = 2021-01-09 14:41:02 +1300
 #############################
 
 6 LINZ ids are missing from NZOGPS Tasman
-;linzid=3081278	Cerise Rd	-41.506055156126,173.923895103623
 ;linzid=3081291	Whitiao Way	-41.2693388560269,174.04203615698
-;linzid=3081282	Criterion Lane	-41.5108894237989,173.956367638197
-;linzid=3081318	Central Park Ave	-41.3343331224287,173.165611510652
-;linzid=3081319	Midlane Cres	-41.3317158370412,173.164237662105
-;linzid=3081320	Dartnall Lane	-41.3325754371004,173.165653060424
+;linzid=3081151	Ruesink St	-41.5054313932476,173.923839258939
+;linzid=3081488	Ara o Ngati Koata	-41.3400900196307,173.216639843053
+;linzid=3081489	Ara o Tama Ariki	-41.3411006655899,173.215057979805
+;linzid=3081491	Ara o Nga Hekenga	-41.3404934025372,173.217078906773
+;linzid=3081490	Ara o Te Atiawa	-41.3401548254946,173.217162500872
 #############################
 
 4 LINZ ids are in NZOGPS Tasman but missing from LINZ
@@ -23,5 +23,5 @@ Start = 2020-12-05 18:01:44 +1300
 0 Number range ids are in NZOGPS Tasman but missing from LINZ
 #############################
 
-Finish = 2020-12-05 18:01:46 +1300
-Processing time = 1.840179
+Finish = 2021-01-09 14:41:03 +1300
+Processing time = 1.773186

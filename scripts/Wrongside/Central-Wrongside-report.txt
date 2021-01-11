@@ -1,6 +1,6 @@
 26 entries in ..\..\LinzDataService\PaperRoads\Central-WrongSide.txt
 163 entries in ..\..\LinzDataService\PaperRoads\Central-LINZWrongSide.txt
-198 wrongside numbers, 63 not in Exclusion files
+208 wrongside numbers, 74 not in Exclusion files
 10 entries in Ignore list are no longer on the wrong side
 483378	316 KAITOKE ROAD	2014/04/01 10:57	-39.977966,175.086507
 946419	17E MANUKAKA HEIGHTS	2014/03/06 22:14	-39.087554,174.047263
@@ -13,7 +13,7 @@
 946420	19 MANUKAKA HEIGHTS	2014/03/06 22:14	-39.087306,174.047522
 405757	253 KAIRAU ROAD EAST	2014/04/11 14:04	-39.024984,174.207029
 
-44 entries in Linz list are no longer on the wrong side
+45 entries in Linz list are no longer on the wrong side
 608656	709 Gibraltar Road	2015/04/14 02:43	-40.146561,176.841064
 1560784	9 Dawson Street	2015/04/15 13:47	-39.462829,175.677773
 1560786	11 Dawson Street	2015/04/15 13:47	-39.462671,175.677953
@@ -28,9 +28,9 @@
 597883	2 Te Manuiri Road	2015/04/14 02:53	-40.102708,176.755544
 596271	859 Farm Road	2015/04/14 02:57	-40.044307,176.616262
 1334376	95 Redoubt Street	2015/04/14 19:21	-38.686844,176.065310
-1604206	1498 State Highway  4	2015/04/14 03:50	-39.546595,175.296146
 1667759	201 River Road	2015/04/14 03:34	-39.954529,176.688899
 895439	130 Cornwall Road	2015/04/14 02:16	-39.406022,174.287563
+1617704	1055 Mokonui Road	2015/04/12 17:46	-39.037909,176.824037
 596034	408 McVicar Road	2015/04/12 02:58	-39.197276,176.613057
 1560793	18 Dawson Street	2015/04/15 13:47	-39.462465,175.678654
 1667757	203 River Road	2015/04/14 03:34	-39.953971,176.689924
@@ -46,6 +46,7 @@
 1765724	20 Mareti Street	2015/04/12 00:53	-38.681623,176.061871
 1572541	1650 Brunswick Road	2015/04/11 22:57	-39.833679,174.950936
 1560780	5 Dawson Street	2015/04/14 19:34	-39.463193,175.677589	Your data seems to have an offset here - maybe 50m out to the ENE. Your roads and addresses are consistent, but the numbers are out for us when the roads are moved to where GPS says they should be. This north section of the camp is worst.
+1522536	5 Maukuku Road	2015/04/14 04:05	-39.565247,175.653600	(6 Nearby is in an odd place)
 1849926	201 Huka Falls Road	2015/04/12 01:02	-38.657972,176.083104
 650375	2 Onslow Street West	2015/04/14 02:24	-39.862065,175.707149
 617115	155 Kaimata Road	2015/04/14 02:40	-39.403010,176.866925

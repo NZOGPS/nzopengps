@@ -141,3 +141,27 @@
 1360532	12 TE WAIROA LANE	2014/05/04 12:47	-36.210107,174.159707	A seemingly randomly allocated road. I may have reported this one before.
 1359562	7 JOHNSON LANE	2014/05/04 12:49	-35.281368,174.058543	A seemingly randomly allocated road. I may have reported this one before.
 --------------------------Above sent to LINZ  4/05/2014 
+1306105	961 Kaimaumau Road, Kaimaumau	2021/01/24 13:32	-34.910915,173.269279	Pretty much in the sea! Obvious dwelling other side of the road.
+1988930	967 Kaimaumau Road, Kaimaumau	2021/01/24 13:32	-34.910297,173.269596	ditto
+1930830	3251 Paparoa-Oakleigh Road, Paparoa	2021/01/24 13:38	-36.097689,174.239024	3241 is opposite. 3226 and rest of road are on this side.
+1930828	3247 Paparoa-Oakleigh Road, Paparoa	2021/01/24 13:38	-36.097640,174.239434	ditto
+1930827	3243 Paparoa-Oakleigh Road, Paparoa	2021/01/24 13:38	-36.097197,174.240075	ditto
+2090477	762 Mabey Road, Great Barrier Island (Aotea Island)	2021/01/24 13:43	-36.119111,175.412120	Obvious dwellings, but no obvious connection to points
+2090479	766 Mabey Road, Great Barrier Island (Aotea Island)	2021/01/24 13:44	-36.120403,175.417676	ditto
+2226567	59 Alexandra Lane, Mangawhai	2021/01/24 13:46	-36.145861,174.560910	nothing on imagery yet to show if there is any logic to this
+2226564	113 Alexandra Lane, Mangawhai	2021/01/24 13:46	-36.145893,174.561083	ditto
+2192196	139 Doel Road, Kawakawa	2021/01/24 13:49	-35.371788,174.096181
+2176256	138 Doel Road, Kawakawa	2021/01/24 13:49	-35.372729,174.096036
+1516019	317 Rahuikiri Road, Tomarata	2021/01/24 13:51	-36.241887,174.717701	Obvious building at S36°14.4756' E174°42.9761' that matches RAPID
+1647475	62 Pampas Lane, Te Arai	2021/01/24 14:01	-36.202943,174.541659
+2036818	23 Baffin Street, Opua	2021/01/24 14:02	-35.317506,174.117670
+941904	97 Tanoa Road, Maungaturoto	2021/01/24 14:04	-36.208308,174.342348	Point appears to be in a grass verge beside the sea.
+2174721	63 Waiomio Road, Waiomio, Kawakawa	2021/01/24 14:05	-35.411203,174.078219
+1937848	280 Kohe Road, Pawarenga	2021/01/24 14:20	-35.315508,173.298890	Obvious house on imagery, perhaps should be 279 or 277?
+2215592	117 Bonnett Road, Kaitaia	2021/01/24 14:26	-35.111860,173.245937	Road switches odd/even 3 times...
+1987034	632 Valley Road, Kaiwaka	2021/01/24 14:28	-36.172667,174.545218
+2014482	584 Church Road, Kaitaia	2021/01/24 14:38	-35.095771,173.310853
+2223055	1068 Pokapu Road, Matawaia	2021/01/24 14:40	-35.484177,173.958734
+931979	614B Paparoa Station Road, Maungaturoto	2021/01/24 14:41	-36.091135,174.299613	A couple of obvious houses across the road, matching RAPID.
+931978	614A Paparoa Station Road, Maungaturoto	2021/01/24 14:41	-36.090779,174.299978
+1609441	79 Rangiuru Drive, Parua Bay	2021/01/24 14:44	-35.775752,174.505261	Couple of obvious buildings on the other side of the road. Ditto 77

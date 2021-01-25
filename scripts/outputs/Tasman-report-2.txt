@@ -1,13 +1,17 @@
-Start = 2021-01-14 19:39:17 +1300
+Start = 2021-01-26 00:19:11 +1300
 #############################
 
-6 LINZ ids are missing from NZOGPS Tasman
+10 LINZ ids are missing from NZOGPS Tasman
 ;linzid=3081291	Whitiao Way	-41.2693388560269,174.04203615698
 ;linzid=3081151	Ruesink St	-41.5054313932476,173.923839258939
 ;linzid=3081488	Ara o Ngati Koata	-41.3400900196307,173.216639843053
 ;linzid=3081489	Ara o Tama Ariki	-41.3411006655899,173.215057979805
 ;linzid=3081491	Ara o Nga Hekenga	-41.3404934025372,173.217078906773
 ;linzid=3081490	Ara o Te Atiawa	-41.3401548254946,173.217162500872
+;linzid=3081588	Taylors Rd	-41.2907131461652,173.670517066702
+;linzid=3081598	Holstein Lane	-41.3321914003693,173.165871765558
+;linzid=3081599	Ayrshire St	-41.3308721411006,173.165941457924
+;linzid=3081607	Louis Edgar Pl	-42.3104428,173.6904561667
 #############################
 
 4 LINZ ids are in NZOGPS Tasman but missing from LINZ
@@ -23,5 +27,5 @@ Start = 2021-01-14 19:39:17 +1300
 0 Number range ids are in NZOGPS Tasman but missing from LINZ
 #############################
 
-Finish = 2021-01-14 19:39:19 +1300
-Processing time = 1.154971
+Finish = 2021-01-26 00:19:13 +1300
+Processing time = 1.886209

@@ -1,6 +1,11 @@
-Start = 2021-01-27 00:34:34 +1300
+Start = 2021-02-22 13:13:22 +1300
 linzid	street_name	street_name_2	official_street_name
+1813053	Lynd Rd		Lynds Rd	-37.89223,175.34802
+3080552	Kohukohunui Lane		Waharau Lane	-37.13691,174.96960
+3080551	Waharau Lane		Kohukohunui Lane	-37.13665,174.96985
+3019918	Northview		Whatukooruru Dr	-37.82638,175.29733
+3019918	Northview		Whatukooruru Dr	-37.82654,175.29743
 #############################
 
-Finish = 2021-01-27 00:34:37 +1300
-Processing time = 2.719092
+Finish = 2021-02-22 13:13:25 +1300
+Processing time = 3.584582

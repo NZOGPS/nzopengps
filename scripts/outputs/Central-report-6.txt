@@ -1,6 +1,7 @@
-Start = 2021-01-26 23:49:09 +1300
+Start = 2021-02-22 13:13:13 +1300
 linzid	street_name	street_name_2	official_street_name
+3081610	Ruapehu Rd		Monowai St	-39.49956,176.85924
 #############################
 
-Finish = 2021-01-26 23:49:11 +1300
-Processing time = 1.897428
+Finish = 2021-02-22 13:13:16 +1300
+Processing time = 2.616762

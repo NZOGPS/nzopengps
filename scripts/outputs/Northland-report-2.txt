@@ -1,9 +1,12 @@
-Start = 2021-01-26 21:38:12 +1300
+Start = 2021-02-22 13:12:43 +1300
 #############################
 
-2 LINZ ids are missing from NZOGPS Northland
-;linzid=3081596	Olea Lane	-36.0780362833,174.5674026167
-;linzid=3081597	Shopwreck Way	-36.1131248190745,174.591137605578
+5 LINZ ids are missing from NZOGPS Northland
+;linzid=3081639	Hancock Grv	-36.1048444696964,174.552086936658
+;linzid=3081640	Par Lane	-35.68469565,174.3211242167
+;linzid=3081642	Reservoir Rise	-35.7442468689898,174.32660811711
+;linzid=3081643	Radiata Grv	-35.7442771492753,174.327407605185
+;linzid=3081645	Awanui Lane	-35.7398443343088,174.265782328529
 #############################
 
 0 LINZ ids are in NZOGPS Northland but missing from LINZ
@@ -15,5 +18,5 @@ Start = 2021-01-26 21:38:12 +1300
 0 Number range ids are in NZOGPS Northland but missing from LINZ
 #############################
 
-Finish = 2021-01-26 21:38:13 +1300
-Processing time = 1.38939
+Finish = 2021-02-22 13:12:45 +1300
+Processing time = 1.421874

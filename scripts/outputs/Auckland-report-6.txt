@@ -1,9 +1,9 @@
-Start = 2021-02-22 13:13:25 +1300
+Start = 2021-03-07 18:34:04 +1300
 linzid	street_name	street_name_2	official_street_name
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
 3079258	Kina PLace		Kina Pl	-36.68025,174.74176
 1821419	Valley Rd (off-road vehicles only)		Valley Rd	-36.66656,174.53579
 #############################
 
-Finish = 2021-02-22 13:13:30 +1300
-Processing time = 4.565639
+Finish = 2021-03-07 18:34:10 +1300
+Processing time = 5.390718

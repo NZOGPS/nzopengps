@@ -1,6 +1,10 @@
-Start = 2021-02-25 18:06:50 +1300
+Start = 2021-03-07 18:33:53 +1300
 linzid	street_name	street_name_2	official_street_name
+1798850	Burns Ford Rd		Burnes Ford Rd	-40.26725,175.28329
+1797747	Horoeka Rd		Waione Horoeka Rd	-40.45639,176.23116
+1797747	Horoeka Rd		Waione Horoeka Rd	-40.45618,176.23149
+1797747	Horoeka Rd		Waione Horoeka Rd	-40.45665,176.23169
 #############################
 
-Finish = 2021-02-25 18:06:51 +1300
-Processing time = 1.663892
+Finish = 2021-03-07 18:33:56 +1300
+Processing time = 2.974416

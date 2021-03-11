@@ -1,8 +1,7 @@
-Start = 2021-03-07 18:33:27 +1300
+Start = 2021-03-11 14:59:21 +1300
 #############################
 
-1 LINZ ids are missing from NZOGPS Wellington
-;linzid=3081655	Ara Paekawakawa	-41.3334881137263,174.769365839298
+0 LINZ ids are missing from NZOGPS Wellington
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -14,5 +13,5 @@ Start = 2021-03-07 18:33:27 +1300
 0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2021-03-07 18:33:30 +1300
-Processing time = 3.196399
+Finish = 2021-03-11 14:59:23 +1300
+Processing time = 1.991859

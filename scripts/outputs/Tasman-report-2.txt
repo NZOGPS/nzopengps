@@ -1,7 +1,12 @@
-Start = 2021-02-25 18:06:34 +1300
+Start = 2021-03-07 18:33:17 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Tasman
+5 LINZ ids are missing from NZOGPS Tasman
+;linzid=3081657	Dumblane Way	-42.5175295441591,172.816779818214
+;linzid=3081675	Greenway Cres	-41.3499759302662,173.17167903024
+;linzid=3081674	Hallmark Dr	-41.3499759302662,173.17167903024
+;linzid=3081676	Tiraumea St	-41.355812180962,173.174610703972
+;linzid=3081683	Mansfield Way	-41.3324012434983,173.239724748903
 #############################
 
 3 LINZ ids are in NZOGPS Tasman but missing from LINZ
@@ -16,5 +21,5 @@ Start = 2021-02-25 18:06:34 +1300
 0 Number range ids are in NZOGPS Tasman but missing from LINZ
 #############################
 
-Finish = 2021-02-25 18:06:36 +1300
-Processing time = 1.327924
+Finish = 2021-03-07 18:33:19 +1300
+Processing time = 1.918168

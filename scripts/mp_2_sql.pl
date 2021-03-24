@@ -53,9 +53,6 @@ my %y;
 
 sub do_header {
 	while (<>){
-		if (/^LblCoding=9/) {
-			print "\nError: LblCoding=9 found in header\n\n";
-		}
 		if (/^\[END-IMG ID\]$/)	{ #end of header
 			last;
 		}
@@ -376,7 +373,7 @@ sub write_sql {
 	print SQLFILE "DROP TABLE \"${basefile}\";\n";
 #	print SQLFILE "BEGIN;\n";
 	print SQLFILE "CREATE TABLE \"${basefile}\" (\"roadid\"  int PRIMARY KEY,\n";
-	print SQLFILE "\"label\" varchar(50),\n";
+	print SQLFILE "\"label\" varchar(100),\n";
 	print SQLFILE "\"type\" varchar(10),\n";
 	print SQLFILE "\"linzid\" integer,\n";
 	print SQLFILE "\"numbers\" varchar(6)[][]);\n";

@@ -370,7 +370,7 @@ sub write_sql {
 	my $j;
 	my $first = 1;
 	open(SQLFILE, '>', "${basefile}.sql") or die "can't create sql file\n";
-	print SQLFILE "DROP TABLE \"${basefile}\";\n";
+	print SQLFILE "DROP TABLE IF EXISTS \"${basefile}\";\n";
 #	print SQLFILE "BEGIN;\n";
 	print SQLFILE "CREATE TABLE \"${basefile}\" (\"roadid\"  int PRIMARY KEY,\n";
 	print SQLFILE "\"label\" varchar(100),\n";

@@ -3,7 +3,7 @@ if xx%1xx==xxxx echo tile not specified. Usage process tile tilename & goto :eof
 if xx%nzogps_psql_bin%xx==xxxx echo NZOGPS Environment Variables not set - run setlocals.bat & goto :eof
 if not exist %nzogps_base%\%1.mp echo %nzogps_base%\%1.mp not found & goto :eof
 set nzogps_psqlc=%nzogps_psql_bin%psql -U postgres -d nzopengps
-echo Wrongside processing %1
+echo Wrongside processing %1 started %time%
 
 if /i %1 equ Northland	%nzogps_psqlc% -c "drop table if exists %1_nums; Create table %1_Nums as select * from \"nz_street_address\" where gd2000_ycoord > -36.38880;"
 if /i %1 equ Auckland	%nzogps_psqlc% -c "drop table if exists %1_nums; Create table %1_Nums as select * from \"nz_street_address\" where gd2000_ycoord <-36.38880 and gd2000_ycoord >-37.105228;"
@@ -22,3 +22,4 @@ mp_2_n_sql.pl %nzogps_base%\%1.mp
 %nzogps_psqlc% -v linestable=%1_numberlines -v numstable=%1_nums -v outfile='%nzogps_base%\scripts\wrongside\%1-WrongSide.csv' -f intersect.sql
 %nzogps_psqlc% -v linestable=%1_numberlines -v distance=400 -v outfile='%nzogps_base%\scripts\wrongside\%1-Sparsest.csv' -f Sparsest.sql
 perl wrongsidereport.pl %1 > %1-Wrongside-report.txt
+echo Wrongside processing %1 finished %time%

@@ -1,6 +1,6 @@
 26 entries in ..\..\LinzDataService\PaperRoads\Central-WrongSide.txt
 163 entries in ..\..\LinzDataService\PaperRoads\Central-LINZWrongSide.txt
-208 wrongside numbers, 74 not in Exclusion files
+210 wrongside numbers, 76 not in Exclusion files
 10 entries in Ignore list are no longer on the wrong side
 483378	316 KAITOKE ROAD	2014/04/01 10:57	-39.977966,175.086507
 946419	17E MANUKAKA HEIGHTS	2014/03/06 22:14	-39.087554,174.047263

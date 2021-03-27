@@ -198,3 +198,8 @@
 1371605	1067 Main South Road, Rolleston	2019/10/18 23:02	-43.564413,172.451521	Point is under the new motorway. Does the property still exist?
 1623065	1/1103 Main South Road, Rolleston	2019/10/18 23:03	-43.565665,172.448844	Point is under the new motorway. Is this property now off Tiptree lane? Or possibly move the point to S43°34.0172' E172°26.9380'
 1321130	1415 Tekapo-Twizel Road, Tekapo	2019/10/18 23:06	-44.067071,170.359362	1415 looks to me to be around S44°03.8613' E170°21.8534'
+--- Below new
+239304	20 Whaka Terrace, Huntsbury, Christchurch	2021/03/27 17:40	-43.569780,172.647284
+2227704	725 Foothills Road, Okuku	2021/03/27 17:45	-43.197526,172.422372
+2232120	890R Okains Bay Road, Okains Bay	2021/03/27 17:46	-43.723559,173.015800
+1638634	613 McQueens Valley Road, Gebbies Valley	2021/03/27 17:49	-43.716289,172.653447

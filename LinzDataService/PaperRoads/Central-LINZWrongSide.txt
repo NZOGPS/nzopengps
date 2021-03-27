@@ -50,7 +50,6 @@
 895439	130 Cornwall Road	2015/04/14 02:16	-39.406022,174.287563
 886142	867 Opunake Road	2015/04/14 02:17	-39.371084,174.195934
 700088	923 Taringamotu Road	2015/04/14 02:21	-38.827710,175.322262
-650375	2 Onslow Street West	2015/04/14 02:24	-39.862065,175.707149
 638458	252 Te Rato Road	2015/04/14 02:26	-39.025411,177.409314	The numbering here is seriously weird!
 638357	36 The Crescent	2015/04/14 02:32	-39.040991,177.403830
 638234	165 Glendining Road	2015/04/14 02:33	-39.088333,177.288197
@@ -59,7 +58,6 @@
 636787	432 Flat Hill Road	2015/04/14 02:36	-39.110064,176.938951
 1355068	156 Kaimata Road	2015/04/14 02:40	-39.403409,176.867091
 617115	155 Kaimata Road	2015/04/14 02:40	-39.403010,176.866925
-617071	749 Clareinch Road	2015/04/14 02:42	-40.032315,176.858036
 608731	121 Fryer Road	2015/04/14 02:43	-39.497738,176.846309
 608656	709 Gibraltar Road	2015/04/14 02:43	-40.146561,176.841064
 601803	416 Atua Road	2015/04/14 02:45	-39.948390,176.807150
@@ -77,10 +75,6 @@
 1687845	2025 Pohangina Valley East Road	2015/04/14 03:26	-40.084484,175.905640
 1675517	119 Eastwood Road	2015/04/14 03:28	-39.933702,176.318890
 1668018	114 Highway 50	2015/04/14 03:31	-39.795519,176.467396
-1667759	201 River Road	2015/04/14 03:34	-39.954529,176.688899
-1667757	203 River Road	2015/04/14 03:34	-39.953971,176.689924
-1377130	223 River Road	2015/04/14 03:34	-39.953475,176.691070
-1377131	225 River Road	2015/04/14 03:34	-39.952974,176.692216
 1645289	1 Ingham Street	2015/04/14 03:36	-40.143278,175.496245
 1635549	1130 East Road	2015/04/14 03:43	-39.322066,174.416052
 1633576	989 Mangarere Road	2015/04/14 03:45	-39.848486,175.848043
@@ -109,10 +103,6 @@
 1441003	657 Mangahoe Road	2015/04/14 04:24	-39.911803,175.463193	in the road
 1432898	1072 Whanawhana Road	2015/04/14 04:38	-39.517318,176.403533
 1375906	395 Rakaupiko Road	2015/04/14 04:39	-39.771505,174.510798
-1064600	1813 State Highway  1	2015/04/14 04:47	-40.042392,175.440085
-1334380	83 Redoubt Street	2015/04/14 19:21	-38.686672,176.065579	All these numbers seem to be near the middle of the road, and also don't seem to address anything obvious on the imagery. I haven't included the ids, but 59,65,75 are the same.
-1334376	95 Redoubt Street	2015/04/14 19:21	-38.686844,176.065310
-1334375	100 Redoubt Street	2015/04/14 19:21	-38.687020,176.065166
 1407350	970 Puniwhakau Road	2015/04/14 19:26	-39.323650,174.693088
 1407352	972 Puniwhakau Road	2015/04/14 19:26	-39.323410,174.694097
 1407353	369 Puniwhakau Road	2015/04/14 19:29	-39.325347,174.645154	This middle section of the road seems to change sides! 112 and 131 are also on the opposite.
@@ -145,20 +135,38 @@
 1523165	371 Wairepu West Road	2015/04/15 13:40	-39.754120,175.631342
 1440844	641 Fern Flats Road	2015/04/15 13:43	-40.014566,175.362923	S40°00.8626' E175°21.7237' closer to the dwelling
 1440845	645 Fern Flats Road	2015/04/15 13:43	-40.014353,175.362996	S40°00.8502' E175°21.7338' looks like the dwelling
-1560791	16 Dawson Street	2015/04/15 13:47	-39.462525,175.678435
-1560793	18 Dawson Street	2015/04/15 13:47	-39.462465,175.678654
-1560786	11 Dawson Street	2015/04/15 13:47	-39.462671,175.677953
-1560784	9 Dawson Street	2015/04/15 13:47	-39.462829,175.677773
-1560782	7 Dawson Street	2015/04/15 13:48	-39.463003,175.677652
-1560778	3 Dawson Street	2015/04/15 13:48	-39.463393,175.677551
-1560776	1B Dawson Street	2015/04/15 13:48	-39.463560,175.677567
-1560775	1A Dawson Street	2015/04/15 13:48	-39.463680,175.677556
 1612752	70 Bredow Road	2015/04/15 16:49	-39.311996,174.462831	Looks like this road was renamed from xxx old rd at some stage. Maybe the side inconsistency was a hangover from that?
 ----- Above sent to LINZ 27/04/2015 
 1938258	609 Waituna Tapuae Road	2016/01/31 16:10	-40.026555,175.696019	no obvious dwelling here on 2010 streetview 
-1858324	750 Paget Road	2016/01/31 16:11	-40.008456,176.235922	Streetview shows dwelling with 750, but it's the wrong side compared to all others on the road. Looks like it should be 763.
 1955937	650 Craggy Range Road	2016/01/31 16:14	-39.683172,176.988627	 Odd numbering. Right next to 513.
 884808	396 King Road	2016/01/31 16:17	-39.123438,174.184507
 1574343	151 Napier Road	2016/01/31 16:39	-38.705044,176.105475
 591522	11 Carsons Road	2016/01/31 16:42	-39.793182,176.228221	Both your centreline and the two dwellings are offset about 40m West from the actual road. As we have corrected the road, these dwelling points appear on the wrong side.  This dwelling appears to be at S39°47.642' E176°13.823'
 2067422	12/1136 Matea Road, Rangitaiki	2017/12/02 15:20	-38.814870,176.466022
+--- Below new
+1390155	150 Paki Paki Road, Longlands, Hastings	2021/03/27 17:52	-39.672392,176.790066
+1429504	250 Waitangi Road, Waimarama	2021/03/27 17:54	-39.791038,176.991112	There are buildings closer to matching RAPID at S39°47.5241' E176°59.7215'
+1441112	30 Otara Road, Ohingaiti	2021/03/27 17:57	-39.860676,175.719663	This point is in the middle of the road. There's an entrance at S39°51.6392' E175°43.1700' matching RAPID.
+1441115	156 Otara Road, Ohingaiti	2021/03/27 18:00	-39.867732,175.728420	This point is also in the middle of the road. There's an entrance at S39°52.0822' E175°43.6593'
+1522993	832 Te Moehau Road, Moawhango	2021/03/27 18:24	-39.582683,175.858662	Looks to be a wrong number? RAPID suggests 831 or 833
+1547940	5A Marybank Road, Marybank	2021/03/27 18:27	-39.956735,175.066960	This address seems to be off a section of Marybank that doesn't have any other numbers. It's confusing numbering.
+1559170	341 Hukatere Road, Patea	2021/03/27 18:32	-39.725343,174.488013	There's a building that matches numbering better at S39°43.6169' E174°29.2670'
+2067421	11/1136 Matea Road, Rangitaiki	2021/03/27 18:34	-38.814870,176.466022	This point is almost in the middle of the road. There's an entrance matching RAPID at S38°48.6731' E176°27.9999'
+2067420	10/1136 Matea Road, Rangitaiki	2021/03/27 18:34	-38.814870,176.466022	ditto
+2067419	9/1136 Matea Road, Rangitaiki	2021/03/27 18:34	-38.814870,176.466022
+2067418	8/1136 Matea Road, Rangitaiki	2021/03/27 18:34	-38.814870,176.466022	ditto
+2067417	7/1136 Matea Road, Rangitaiki	2021/03/27 18:34	-38.814870,176.466022
+2067416	6/1136 Matea Road, Rangitaiki	2021/03/27 18:34	-38.814870,176.466022
+2067415	5/1136 Matea Road, Rangitaiki	2021/03/27 18:34	-38.814870,176.466022	ditto
+2067414	4/1136 Matea Road, Rangitaiki	2021/03/27 18:35	-38.814870,176.466022
+2067413	3/1136 Matea Road, Rangitaiki	2021/03/27 18:35	-38.814870,176.466022
+2067412	2/1136 Matea Road, Rangitaiki	2021/03/27 18:35	-38.814870,176.466022
+2067411	1/1136 Matea Road, Rangitaiki	2021/03/27 18:35	-38.814870,176.466022	ditto
+897547	14 Makara Road, Te Popo	2021/03/27 18:47	-39.245249,174.326752	Wrong number or typo?
+1572438	75 Aorangi Road, Aukopae, Taumarunui	2021/03/27 18:48	-38.922816,175.056300	unclear which dwelling is which, but perhaps around S38°55.6245' E175°03.3076' would be nearer?
+570379	686 Okare Road, Ruakituri	2021/03/27 19:05	-38.782505,177.334375	Your road centreline seems incorrect/old. There's a RAPID matching dwelling at S38°46.6073' E177°20.1154'
+1625777	678 Okare Road, Ruakituri	2021/03/27 19:06	-38.782767,177.334421	Your road centreline seems incorrect/old. There's a RAPID matching dwelling at S38°46.6248' E177°20.1547'
+1625778	668 Okare Road, Ruakituri	2021/03/27 19:06	-38.783079,177.334462	Your road centreline seems incorrect/old. There's a RAPID matching dwelling at S38°46.7124' E177°20.1962'
+2122898	23 Netherton Road, Omakere	2021/03/27 19:57	-40.037157,176.876925	I realise it's not RAPID numbered, but other numbers are all odd on the left.
+1608899	116 Fields Track, Kakatahi	2021/03/27 20:02	-39.645881,175.329675	Entrance at S39°38.7745' E175°19.9637' and dwelling at S39°38.7872' E175°19.8867' that better match numbering.
+2000201	52 Rangitane Road, Whakatu	2021/03/27 20:05	-39.602539,176.880082

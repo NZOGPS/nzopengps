@@ -1,14 +1,9 @@
-Start = 2021-04-10 17:38:09 +1200
+Start = 2021-04-10 23:35:20 +1200
 #############################
 
-7 LINZ ids are missing from NZOGPS Canterbury
+2 LINZ ids are missing from NZOGPS Canterbury
 ;linzid=3073770	Accessway	-43.5618654,172.5166164667
 ;linzid=3079720	Gold Valley Rd	-43.7070990510647,172.652569302629
-;linzid=3081686	Gibraltar Cl	-43.6646715354689,172.545162712771
-;linzid=3081716	Stead Lane	-43.5759732826036,172.705915650946
-;linzid=3081717	Wheatsheaf Lane	-43.5770781224426,172.705574145463
-;linzid=3081721	Skevington Lane	-43.2294062057545,172.675303070254
-;linzid=3081722	Neil Anderson Way	-44.0051476564134,170.479850431573
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
@@ -20,5 +15,5 @@ Start = 2021-04-10 17:38:09 +1200
 0 Number range ids are in NZOGPS Canterbury but missing from LINZ
 #############################
 
-Finish = 2021-04-10 17:38:11 +1200
-Processing time = 2.773071
+Finish = 2021-04-10 23:35:22 +1200
+Processing time = 2.422075

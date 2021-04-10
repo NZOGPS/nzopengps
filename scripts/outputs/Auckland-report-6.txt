@@ -1,9 +1,10 @@
-Start = 2021-03-07 18:34:04 +1300
+Start = 2021-04-10 12:40:24 +1200
 linzid	street_name	street_name_2	official_street_name
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
-3079258	Kina PLace		Kina Pl	-36.68025,174.74176
+3081011	Tewe Lane		Koro Lane	-36.96053,174.78887
 1821419	Valley Rd (off-road vehicles only)		Valley Rd	-36.66656,174.53579
+1830965	Hull Rd (4WD only, closed in Winter)		Hull Rd	-36.64738,174.58702
 #############################
 
-Finish = 2021-03-07 18:34:10 +1300
-Processing time = 5.390718
+Finish = 2021-04-10 12:40:28 +1200
+Processing time = 4.576369

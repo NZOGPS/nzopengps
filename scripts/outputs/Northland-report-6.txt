@@ -1,7 +1,6 @@
-Start = 2021-03-07 18:33:43 +1300
+Start = 2021-04-10 12:40:04 +1200
 linzid	street_name	street_name_2	official_street_name
-3081597	Shopwreck Way		Shipwreck Way	-36.11312,174.59114
 #############################
 
-Finish = 2021-03-07 18:33:45 +1300
-Processing time = 1.563486
+Finish = 2021-04-10 12:40:06 +1200
+Processing time = 1.686999

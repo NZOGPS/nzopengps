@@ -1,11 +1,32 @@
-Start = 2021-03-11 14:59:11 +1300
+Start = 2021-04-10 12:39:56 +1200
 #############################
 
-1 LINZ ids are missing from NZOGPS Waikato
-;linzid=3081682	Maara Cl	-37.7087230667,176.29070085
+20 LINZ ids are missing from NZOGPS Waikato
+;linzid=3081692	Te Rata Blvd	-37.1373504046669,174.888734892588
+;linzid=3081697	Arohanui Rd	-37.1366554758473,174.88986402367
+;linzid=3081696	Metorita Cres	-37.1350297706,174.889770600579
+;linzid=3081701	Manaakitia Rd	-37.1362251339225,174.890770051035
+;linzid=3081693	Arohaina Ave	-37.1384784282556,174.89022732541
+;linzid=3081694	Manatika Rd	-37.1384364946567,174.887152650306
+;linzid=3081695	Kenehi Rd	-37.1384784282556,174.89022732541
+;linzid=3081698	Haukake St	-37.1366104374748,174.889041372352
+;linzid=3081699	Karaipiture Rd	-37.1366554758473,174.88986402367
+;linzid=3081700	Whakatuora Rd	-37.1362251339225,174.890770051035
+;linzid=3081702	Arohanoa Lane	-37.1461961603813,174.888138038441
+;linzid=3081714	Hoariri Way	-37.7051637562051,176.147842344454
+;linzid=3081713	Harata Way	-37.7051637562051,176.147842344454
+;linzid=3081715	Sherwin St	-37.9994451842018,175.208125300891
+;linzid=3081720	Lakewood Lane	-37.8914645097405,175.470615112893
+;linzid=3081724	Redwood Lane	-37.9969027402158,175.207890313553
+;linzid=3081726	Manga Toitoi Pl	-37.2443938664239,174.745067888876
+;linzid=3081729	Jourdain Pl	-38.0413801073512,175.338856783467
+;linzid=3081739	Redwoods Rd	-38.0904644992726,175.86993428131
+;linzid=3081740	Lakefront Dr	-38.1301613333,176.2508002
 #############################
 
-0 LINZ ids are in NZOGPS Waikato but missing from LINZ
+2 LINZ ids are in NZOGPS Waikato but missing from LINZ
+;linzid=3079769	Rewarewa Rise	-37.22821,175.85956
+;linzid=3081647	Jourdain Pl	-38.04135,175.33882
 #############################
 
 0 Number range ids are missing from NZOGPS Waikato
@@ -14,5 +35,5 @@ Start = 2021-03-11 14:59:11 +1300
 0 Number range ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
-Finish = 2021-03-11 14:59:14 +1300
-Processing time = 2.91436
+Finish = 2021-04-10 12:40:00 +1200
+Processing time = 4.185107

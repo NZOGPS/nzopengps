@@ -1,7 +1,6 @@
-Start = 2021-03-11 14:59:14 +1300
+Start = 2021-04-10 21:45:56 +1200
 linzid	street_name	street_name_2	official_street_name
-1809369	Reid Rd S		Reid Rd	-37.75627,176.26361
 #############################
 
-Finish = 2021-03-11 14:59:17 +1300
-Processing time = 2.455767
+Finish = 2021-04-10 21:45:58 +1200
+Processing time = 2.308948

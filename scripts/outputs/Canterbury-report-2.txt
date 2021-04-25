@@ -1,9 +1,12 @@
-Start = 2021-04-10 23:35:20 +1200
+Start = 2021-04-24 14:15:17 +1200
 #############################
 
-2 LINZ ids are missing from NZOGPS Canterbury
+5 LINZ ids are missing from NZOGPS Canterbury
 ;linzid=3073770	Accessway	-43.5618654,172.5166164667
 ;linzid=3079720	Gold Valley Rd	-43.7070990510647,172.652569302629
+;linzid=3081762	Andrews Tce	-42.8055027341539,171.158114877928
+;linzid=3081768	Brooklands St	-43.4789790089144,172.675877098909
+;linzid=3081769	Selfe Cres	-43.4786382047657,172.67581019321
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
@@ -15,5 +18,5 @@ Start = 2021-04-10 23:35:20 +1200
 0 Number range ids are in NZOGPS Canterbury but missing from LINZ
 #############################
 
-Finish = 2021-04-10 23:35:22 +1200
-Processing time = 2.422075
+Finish = 2021-04-24 14:15:21 +1200
+Processing time = 3.394525

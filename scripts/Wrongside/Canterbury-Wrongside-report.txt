@@ -1,17 +1,21 @@
-9 entries in ..\..\LinzDataService\PaperRoads\Canterbury-WrongSide.txt
-158 entries in ..\..\LinzDataService\PaperRoads\Canterbury-LINZWrongSide.txt
-168 wrongside numbers, 13 not in Exclusion files
-12 entries in Linz list are no longer on the wrong side
-1527159	34 Guthries Road, Belfast, Christchurch	2019/10/18 22:08	-43.450814,172.645977	Point is under new motorway. Dwelling at S43°27.0968' E172°38.8044'
+10 entries in ..\..\LinzDataService\PaperRoads\Canterbury-WrongSide.txt
+155 entries in ..\..\LinzDataService\PaperRoads\Canterbury-LINZWrongSide.txt
+157 wrongside numbers, 6 not in Exclusion files
+1 entries in Ignore list are no longer on the wrong side
+1985145	510A Falston Road, Totara Peak	2021/03/28 15:16	-44.384002,170.192195
+
+13 entries in Linz list are no longer on the wrong side
 180111	8 PATRICIA PLACE	2013/10/21 16:41	-43.481407,172.576703
 286963	30 WHITEWASH HEAD ROAD	2013/10/16 10:40	-43.570800,172.773846	All the numbers here are quite close to the road 
-1760181	911 PORT LEVY-PIGEON BAY ROAD	2014/04/22 21:21	-43.660353,172.828044	There is a group here between these two ids (...313 and ...318) on this side of the road, which are all new. There are two other properties at the 'low' end of the road that are numbered opposite.
 287171	5 WESTRIDGE	2013/10/16 10:37	-43.576500,172.771289	Middle of the road
-1755993	131 Bells Road, Robinsons Bay	2019/10/18 22:02	-43.773796,172.984438
-136950	29 OXFORD CROSSING ROAD	2013/10/09 12:35	-44.223669,171.268950
-1689553	21 Culverden Road, Culverden	2019/10/18 22:03	-42.776770,172.843842	Based on the drive, I guess a typo and should be 2? Or 21 is around S42°46.6608' E172°50.7364'
+1531608	355 PESTERS ROAD	2013/10/09 12:21	-43.373616,172.326746
+2232120	890R Okains Bay Road, Okains Bay	2021/03/27 17:46	-43.723559,173.015800
+289025	700 LITTLE PIGEON BAY ROAD	2013/10/13 23:35	-43.639312,172.899851
+285455	8 DE THIER LANE	2013/10/21 15:30	-43.572809,172.754564	Not sure about this one. No obvious buildings on this side of the road.
 273586	12 CLEMENTINE LANE	2013/10/16 12:02	-43.561727,172.713428
-2022193	230 Reynolds Valley Road, Peraki	2019/10/18 22:23	-43.790578,172.837510	No obvious dwellings or drives. 230 would be around S43°47.5228' E172°50.3245'
+1523362	233 TE NGAWAI ROAD	2013/10/09 12:34	-44.242305,171.114121
+2227704	725 Foothills Road, Okuku	2021/03/27 17:45	-43.197526,172.422372
 179521	10 PATRICIA PLACE	2013/10/21 16:41	-43.481546,172.576582	These two/three perhaps further West?
 239304	20 Whaka Terrace, Huntsbury, Christchurch	2021/03/27 17:40	-43.569780,172.647284
+1335284	379 GILMOURS ROAD	2013/10/13 23:39	-43.668248,172.510776
 

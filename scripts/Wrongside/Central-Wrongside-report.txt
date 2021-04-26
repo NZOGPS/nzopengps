@@ -1,29 +1,41 @@
-23 entries in ..\..\LinzDataService\PaperRoads\central-WrongSide.txt
-160 entries in ..\..\LinzDataService\PaperRoads\central-LINZWrongSide.txt
-185 wrongside numbers, 24 not in Exclusion files
-6 entries in Ignore list are no longer on the wrong side
+23 entries in ..\..\LinzDataService\PaperRoads\Central-WrongSide.txt
+159 entries in ..\..\LinzDataService\PaperRoads\Central-LINZWrongSide.txt
+175 wrongside numbers, 27 not in Exclusion files
+3 entries in Ignore list are no longer on the wrong side
 483378	316 KAITOKE ROAD	2014/04/01 10:57	-39.977966,175.086507
-1427916	95 Edgecombe Road, Ormondville	2021/03/27 17:53	-40.096286,176.288387
-1009905	8A Glenpark Place, Havelock North	2019/06/21 13:42	-39.683259,176.886811
-1522979	335 Te Kumu Road, Hunterville	2021/03/27 18:01	-39.773587,175.652793
-1110616	550D Cuff Road, Erua	2019/06/21 13:42	-39.215731,175.332771
+1384819	15 KATOPU STREET	2014/04/13 07:47	-38.988523,175.812663
 405757	253 KAIRAU ROAD EAST	2014/04/11 14:04	-39.024984,174.207029
 
-16 entries in Linz list are no longer on the wrong side
+31 entries in Linz list are no longer on the wrong side
 608656	709 Gibraltar Road	2015/04/14 02:43	-40.146561,176.841064
-1627711	220 Ohawe Road, Ohawe	2021/03/28 12:17	-39.587048,174.203378	Pretty obvious dwelling, but RAPID numbering suggests it should be 221
-1547940	5A Marybank Road, Marybank	2021/03/27 18:27	-39.956735,175.066960	This address seems to be off a section of Marybank that doesn't have any other numbers. It's confusing numbering.
+1625778	668 Okare Road, Ruakituri	2021/03/27 19:06	-38.783079,177.334462	Your road centreline seems incorrect/old. There's a RAPID matching dwelling at S38°46.7124' E177°20.1962'
+1441115	156 Otara Road, Ohingaiti	2021/03/27 18:00	-39.867732,175.728420	This point is also in the middle of the road. There's an entrance at S39°52.0822' E175°43.6593'
+2067416	6/1136 Matea Road, Rangitaiki	2021/03/27 18:34	-38.814870,176.466022
+2067415	5/1136 Matea Road, Rangitaiki	2021/03/27 18:34	-38.814870,176.466022	ditto
+2067420	10/1136 Matea Road, Rangitaiki	2021/03/27 18:34	-38.814870,176.466022	ditto
+2067418	8/1136 Matea Road, Rangitaiki	2021/03/27 18:34	-38.814870,176.466022	ditto
+835147	1134 Matea Road	2015/04/14 19:47	-38.816205,176.465912	Middle of the road, and 550m south.
+1608899	116 Fields Track, Kakatahi	2021/03/27 20:02	-39.645881,175.329675	Entrance at S39°38.7745' E175°19.9637' and dwelling at S39°38.7872' E175°19.8867' that better match numbering.
 895439	130 Cornwall Road	2015/04/14 02:16	-39.406022,174.287563
+2067411	1/1136 Matea Road, Rangitaiki	2021/03/27 18:35	-38.814870,176.466022	ditto
 1559170	341 Hukatere Road, Patea	2021/03/27 18:32	-39.725343,174.488013	There's a building that matches numbering better at S39°43.6169' E174°29.2670'
 1625641	66 Waihirere Road, Wairoa	2021/03/28 12:12	-39.031457,177.406418
+570379	686 Okare Road, Ruakituri	2021/03/27 19:05	-38.782505,177.334375	Your road centreline seems incorrect/old. There's a RAPID matching dwelling at S38°46.6073' E177°20.1154'
 596034	408 McVicar Road	2015/04/12 02:58	-39.197276,176.613057
-1522993	832 Te Moehau Road, Moawhango	2021/03/27 18:24	-39.582683,175.858662	Looks to be a wrong number? RAPID suggests 831 or 833
+2067413	3/1136 Matea Road, Rangitaiki	2021/03/27 18:35	-38.814870,176.466022
+1625777	678 Okare Road, Ruakituri	2021/03/27 19:06	-38.782767,177.334421	Your road centreline seems incorrect/old. There's a RAPID matching dwelling at S38°46.6248' E177°20.1547'
 1429504	250 Waitangi Road, Waimarama	2021/03/27 17:54	-39.791038,176.991112	There are buildings closer to matching RAPID at S39°47.5241' E176°59.7215'
 526247	1 Stouts Road	2015/04/14 19:51	-39.469720,175.592505
-1524360	113 Ameku Road	2015/04/14 03:59	-39.417898,175.255362
+2067412	2/1136 Matea Road, Rangitaiki	2021/03/27 18:35	-38.814870,176.466022
+2067422	12/1136 Matea Road, Rangitaiki	2017/12/02 15:20	-38.814870,176.466022
+2067414	4/1136 Matea Road, Rangitaiki	2021/03/27 18:35	-38.814870,176.466022
+2067421	11/1136 Matea Road, Rangitaiki	2021/03/27 18:34	-38.814870,176.466022	This point is almost in the middle of the road. There's an entrance matching RAPID at S38°48.6731' E176°27.9999'
+2067419	9/1136 Matea Road, Rangitaiki	2021/03/27 18:34	-38.814870,176.466022
+1441112	30 Otara Road, Ohingaiti	2021/03/27 17:57	-39.860676,175.719663	This point is in the middle of the road. There's an entrance at S39°51.6392' E175°43.1700' matching RAPID.
 1677470	1/1136-12/1136 Matea Road	2015/04/14 19:47	-38.814870,176.466022	ditto below, but 400m.
+2067417	7/1136 Matea Road, Rangitaiki	2021/03/27 18:34	-38.814870,176.466022
 1407739	81 Millar Road	2015/04/12 19:07	-39.644831,176.941253
-1390155	150 Paki Paki Road, Longlands, Hastings	2021/03/27 17:52	-39.672392,176.790066
+1572438	75 Aorangi Road, Aukopae, Taumarunui	2021/03/27 18:48	-38.922816,175.056300	unclear which dwelling is which, but perhaps around S38°55.6245' E175°03.3076' would be nearer?
+2186845	60 Pineleigh Drive, Poraiti, Napier	2021/03/28 12:21	-39.496911,176.831388
 608731	121 Fryer Road	2015/04/14 02:43	-39.497738,176.846309
-1714476	47 Te Ponanga Saddle Road, Tokaanu	2021/03/28 12:13	-38.981242,175.772974
 

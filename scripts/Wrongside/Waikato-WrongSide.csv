@@ -22,6 +22,7 @@
 174.88949493,-37.18001655,"113 Heights Road, Paerata",Wrong Side: 1338596
 176.20044483,-37.91120629,"540 Mangatoi Road, Oropi",Wrong Side: 1364319
 176.44475197,-37.93344913,"1500 Maniatutu Road, Pongakawa",Wrong Side: 1366094
+177.45693098,-38.05560405,"1311 Motu Road, Toatoa",Wrong Side: 1410937
 175.85459733,-37.39512240,"34 Heath Road, Waihi",Wrong Side: 1421731
 175.23034370,-37.58158822,"581 Uapoto Road, Taupiri",Wrong Side: 1432132
 176.87515092,-38.61407310,"4306 Ruatahuna Road, Ruatahuna",Wrong Side: 1535188
@@ -38,7 +39,6 @@
 177.18686093,-38.08037287,"800 Waiotahi Valley Road, Waiotahe Valley",Wrong Side: 1753903
 175.58490140,-38.48063638,"2157 Scott Road, Mangakino",Wrong Side: 1850313
 176.27235020,-38.58383777,"698 Te Toke Road, Tahorakuri Forest",Wrong Side: 2003697
-175.29706758,-37.92944451,"1/113 Ryburn Road, Ohaupo",Wrong Side: 2022742
 174.68657707,-37.31121321,"607 Whiriwhiri Road, Otaua",Wrong Side: 2093253
 174.95047172,-37.18764299,"40 Rutherford Road, Pukekohe East",Wrong Side: 2133511
 174.70248025,-37.27307935,"205 Butchers Bridge Road, Otaua",Wrong Side: 2138943
@@ -52,6 +52,7 @@
 175.07976521,-37.35681354,"29 Hampton Downs Road, Hampton Downs",Wrong Side: 2183495
 175.29881263,-37.78339958,"4/1 Joshua Lane, Hamilton East, Hamilton",Wrong Side: 2197268
 175.29884088,-37.78327873,"3/1 Joshua Lane, Hamilton East, Hamilton",Wrong Side: 2197269
+177.43502620,-38.02153428,"745 Motu Road, Toatoa",Wrong Side: 2198090
 177.39507282,-37.98641885,"1116 State Highway 35, Toatoa",Wrong Side: 2198095
 177.25913624,-38.02888414,"70 Crooked Road, Otara",Wrong Side: 2223780
 175.13284189,-38.05235301,"344 Mangati Road, Puketotara",Wrong Side: 2233106

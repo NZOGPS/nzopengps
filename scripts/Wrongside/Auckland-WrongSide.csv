@@ -1,3 +1,4 @@
+175.08503303,-37.08303888,"35 Wattie Road, Hunua",Wrong Side: 24407
 175.42279457,-36.88407140,"1090A Thames Coast Road, Kereta",Wrong Side: 705693
 175.71832233,-36.95016462,"67 Hamiltons Road, Coroglen",Wrong Side: 733268
 175.80835565,-36.97521813,"195 Paul Road, Whenuakite",Wrong Side: 741998
@@ -8,6 +9,7 @@
 174.64516676,-36.81115072,"13 Clearwater Cove, West Harbour, Auckland",Wrong Side: 986550
 174.69520841,-36.78689211,"4 Frizell Street, Beach Haven, Auckland",Wrong Side: 1030990
 174.73727900,-36.80275293,"1/13 Kaihu Street, Northcote, Auckland",Wrong Side: 1090797
+174.78355694,-36.85033108,"2-16 Watt Street, Parnell, Auckland",Wrong Side: 1140163
 174.77961480,-36.86578972,"10 Leek Street, Newmarket, Auckland",Wrong Side: 1140904
 174.77975202,-36.86536587,"2 Leek Street, Newmarket, Auckland",Wrong Side: 1141209
 174.77973000,-36.86546133,"4 Leek Street, Newmarket, Auckland",Wrong Side: 1141341
@@ -24,6 +26,10 @@
 174.60870600,-36.61168200,"47 Joblin Road, Wainui",Wrong Side: 1517321
 174.71290975,-36.46752201,"641 Pukapuka Road, Pohuehue",Wrong Side: 1520347
 174.46587853,-36.77148868,"112 Woodhill Park Road, Waimauku",Wrong Side: 1521613
+174.81118743,-36.86181709,"254 Orakei Road, Remuera, Auckland",Wrong Side: 1527092
+174.81097581,-36.86181911,"256 Orakei Road, Remuera, Auckland",Wrong Side: 1527093
+174.81075210,-36.86181709,"258 Orakei Road, Remuera, Auckland",Wrong Side: 1527094
+174.75182860,-36.93000703,"1 Clifton Road, Hillsborough, Auckland",Wrong Side: 1556279
 175.05888160,-37.06105940,"34 Redman Road, Hunua",Wrong Side: 1585954
 174.68770120,-36.74935773,"51A Appleby Road, Albany, Auckland",Wrong Side: 1647334
 174.71437605,-36.46469212,"649 Pukapuka Road, Pohuehue",Wrong Side: 1694608
@@ -34,10 +40,6 @@
 174.73727365,-36.80278507,"10/13 Kaihu Street, Northcote, Auckland",Wrong Side: 1900784
 174.65445548,-36.70389458,"125 Screen Road, Coatesville",Wrong Side: 1987624
 174.61977561,-36.61451019,"35 Windmill Drive, Wainui",Wrong Side: 1989622
-174.69842472,-36.87569820,"7 Kakatai Lane, Waterview, Auckland",Wrong Side: 2006648
-174.69849594,-36.87572343,"5 Kakatai Lane, Waterview, Auckland",Wrong Side: 2006649
-174.69855826,-36.87575607,"3 Kakatai Lane, Waterview, Auckland",Wrong Side: 2006650
-174.69861910,-36.87578723,"1 Kakatai Lane, Waterview, Auckland",Wrong Side: 2006651
 175.03842004,-36.81562249,"200 Te Whau Drive, Waiheke Island",Wrong Side: 2010171
 174.98088014,-36.94381089,"79 Matthias Place, Whitford",Wrong Side: 2020547
 174.92401554,-36.96800663,"1 Lemon Tree Lane, Flat Bush, Auckland",Wrong Side: 2023386
@@ -55,7 +57,6 @@
 174.68818402,-36.60495939,"15 Weka Close, Red Beach",Wrong Side: 2130109
 174.66588271,-36.86580979,"116A Patiki Road, Avondale, Auckland",Wrong Side: 2132729
 174.53740320,-36.69748959,"250 Zanders Road, Helensville",Wrong Side: 2133127
-174.61916799,-36.75365027,"33 Fernielea Park Drive, Riverhead",Wrong Side: 2137327
 174.86928252,-36.87418363,"13 Glenbrae Glade, Glen Innes, Auckland",Wrong Side: 2137902
 174.73010625,-36.77051807,"1/4 View Road, Glenfield, Auckland",Wrong Side: 2138530
 174.73010625,-36.77051807,"7/4 View Road, Glenfield, Auckland",Wrong Side: 2138531
@@ -68,7 +69,6 @@
 174.45267106,-36.68387642,"9 St Julia Court, Helensville",Wrong Side: 2142276
 174.64342542,-36.70581949,"67 Hartway Grove, Coatesville",Wrong Side: 2142955
 174.74271942,-36.68058815,"10 Kina Place, Long Bay, Auckland",Wrong Side: 2144184
-175.04422395,-36.88565089,"25B Pinebrook Lane, Maraetai, Auckland",Wrong Side: 2147614
 174.35007474,-36.59600361,"111 Tuparekura Road, South Head",Wrong Side: 2151733
 174.98481488,-36.96249455,"5 Persimmon Place, Whitford",Wrong Side: 2167019
 174.96228148,-37.06455612,"1 Prosper Way, Papakura",Wrong Side: 2170802

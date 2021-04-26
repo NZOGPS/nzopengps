@@ -1,11 +1,11 @@
 4 entries in ..\..\LinzDataService\PaperRoads\Auckland-WrongSide.txt
 88 entries in ..\..\LinzDataService\PaperRoads\Auckland-LINZWrongSide.txt
-147 wrongside numbers, 127 not in Exclusion files
+146 wrongside numbers, 127 not in Exclusion files
 2 entries in Ignore list are no longer on the wrong side
 1279554	39 Elsie Morton Place	2015/05/18 22:57	-37.056667,174.969222
 1154147	27 Avro Place	2015/05/18 22:57	-36.971230,174.789753
 
-70 entries in Linz list are no longer on the wrong side
+71 entries in Linz list are no longer on the wrong side
 1519721	321 Spur Road	2015/05/10 00:34	-36.622085,174.691525	S36.622251° E174.691184° looks better
 1169764	19 Hapimana Street	2015/05/02 01:15	-36.845853,174.824123	Seems to be in the middle of the road
 1153131	4 Tanners Road	2015/05/02 13:21	-36.951185,174.791275
@@ -13,6 +13,7 @@
 1509579	99 Tender Road	2015/05/09 23:28	-36.663721,174.609369	Middle of the road?
 1523514	2 Marae Road	2015/05/15 01:40	-36.851653,175.473761
 1513439	114 Scandrett Road	2015/05/08 23:44	-36.443884,174.767758
+1517743	115 Kowhai Road	2015/05/06 10:23	-36.593519,174.664872	S36.593140° E174.664598° looks better
 1426040	430 OTUHI ROAD	2013/11/01 17:34	-35.814084,174.152760
 916299	2013 SH 12	2013/11/01 16:28	-35.840170,173.757843
 915750	1753 BABYLON COAST ROAD	2013/10/28 22:19	-35.865169,173.668793

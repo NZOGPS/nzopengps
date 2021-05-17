@@ -1,9 +1,15 @@
-Start = 2021-04-30 11:41:21 +1200
+Start = 2021-05-15 15:03:34 +1200
 #############################
 
-2 LINZ ids are missing from NZOGPS Canterbury
-;linzid=3073770	Accessway	-43.5618654,172.5166164667
+8 LINZ ids are missing from NZOGPS Canterbury
 ;linzid=3079720	Gold Valley Rd	-43.7070990510647,172.652569302629
+;linzid=3081784	Station Bay Rise	-44.0000656578293,170.463572460614
+;linzid=3081785	Petes Pl	-44.0003293303047,170.461646186696
+;linzid=3081800	Owen Dr	-43.4964475811989,172.113219054012
+;linzid=3081801	Graeme Foote St	-43.494875125759,172.114478474939
+;linzid=3081816	Arrowsmith Dr	-43.6256702368968,171.653821553479
+;linzid=3081817	Burbank Pl	-43.6256702368968,171.653821553479
+;linzid=3081818	Kennedy Qy	-43.9629902482558,171.764895015538
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
@@ -15,5 +21,5 @@ Start = 2021-04-30 11:41:21 +1200
 0 Number range ids are in NZOGPS Canterbury but missing from LINZ
 #############################
 
-Finish = 2021-04-30 11:41:24 +1200
-Processing time = 2.391663
+Finish = 2021-05-15 15:03:37 +1200
+Processing time = 3.311147

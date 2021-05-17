@@ -1,10 +1,13 @@
-Start = 2021-04-24 14:15:06 +1200
+Start = 2021-05-15 15:03:23 +1200
 #############################
 
-3 LINZ ids are missing from NZOGPS Tasman
+6 LINZ ids are missing from NZOGPS Tasman
 ;linzid=3081657	Dumblane Way	-42.5175295441591,172.816779818214
 ;linzid=3081763	Gentle Annie Rd	-42.5661156348938,171.147444435619
 ;linzid=3081766	Gows Creek Rd	-42.4079442167,171.5214932333
+;linzid=3081821	Charters Lane	-41.3331350664461,173.240682568365
+;linzid=3081822	Wansford Pl	-41.3341502185149,173.241999551152
+;linzid=3081823	Upton Lane	-41.3341502185149,173.241999551152
 #############################
 
 3 LINZ ids are in NZOGPS Tasman but missing from LINZ
@@ -19,5 +22,5 @@ Start = 2021-04-24 14:15:06 +1200
 0 Number range ids are in NZOGPS Tasman but missing from LINZ
 #############################
 
-Finish = 2021-04-24 14:15:07 +1200
-Processing time = 1.784173
+Finish = 2021-05-15 15:03:25 +1200
+Processing time = 1.531133

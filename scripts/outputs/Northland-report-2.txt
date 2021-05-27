@@ -1,7 +1,8 @@
-Start = 2021-05-15 15:03:22 +1200
+Start = 2021-05-22 11:57:22 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Northland
+1 LINZ ids are missing from NZOGPS Northland
+;linzid=3081856	Highland Way	-35.2334958778539,173.940047347581
 #############################
 
 0 LINZ ids are in NZOGPS Northland but missing from LINZ
@@ -13,5 +14,5 @@ Start = 2021-05-15 15:03:22 +1200
 0 Number range ids are in NZOGPS Northland but missing from LINZ
 #############################
 
-Finish = 2021-05-15 15:03:23 +1200
-Processing time = 1.270583
+Finish = 2021-05-22 11:57:23 +1200
+Processing time = 1.390514

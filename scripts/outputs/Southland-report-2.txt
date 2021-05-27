@@ -1,10 +1,14 @@
-Start = 2021-05-21 15:36:25 +1200
+Start = 2021-05-22 11:57:25 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Southland
+2 LINZ ids are missing from NZOGPS Southland
+;linzid=3081859	Poole Rd	-45.2386758667,169.38198263333
+;linzid=3081866	Carnea Hts	-45.8897300245492,170.362400275623
 #############################
 
-0 LINZ ids are in NZOGPS Southland but missing from LINZ
+2 LINZ ids are in NZOGPS Southland but missing from LINZ
+;linzid=3075124		-46.22598,169.74540
+;linzid=3075859	Walkway	-45.90370,170.47313
 #############################
 
 0 Number range ids are missing from NZOGPS Southland
@@ -13,5 +17,5 @@ Start = 2021-05-21 15:36:25 +1200
 0 Number range ids are in NZOGPS Southland but missing from LINZ
 #############################
 
-Finish = 2021-05-21 15:36:28 +1200
-Processing time = 2.415851
+Finish = 2021-05-22 11:57:28 +1200
+Processing time = 3.464081

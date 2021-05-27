@@ -1,7 +1,12 @@
-Start = 2021-05-18 21:27:24 +1200
+Start = 2021-05-22 11:57:32 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Wellington
+5 LINZ ids are missing from NZOGPS Wellington
+;linzid=3081857	Sterling Lane	-40.2985866024455,175.423516306193
+;linzid=3081861	McGrath Way	-41.185289683798,174.955930081659
+;linzid=3081862	Harry Martin Lane	-41.2547053755752,174.940666080011
+;linzid=3081863	Te Ara Raukura	-41.2611111244421,174.945813696642
+;linzid=3081865	Kikorangi Way	-40.9058940409298,175.008956681494
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -13,5 +18,5 @@ Start = 2021-05-18 21:27:24 +1200
 0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2021-05-18 21:27:26 +1200
-Processing time = 2.281071
+Finish = 2021-05-22 11:57:34 +1200
+Processing time = 2.741037

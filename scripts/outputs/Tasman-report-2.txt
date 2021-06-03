@@ -1,4 +1,4 @@
-Start = 2021-05-15 15:03:23 +1200
+Start = 2021-05-22 11:57:23 +1200
 #############################
 
 6 LINZ ids are missing from NZOGPS Tasman
@@ -22,5 +22,5 @@ Start = 2021-05-15 15:03:23 +1200
 0 Number range ids are in NZOGPS Tasman but missing from LINZ
 #############################
 
-Finish = 2021-05-15 15:03:25 +1200
-Processing time = 1.531133
+Finish = 2021-05-22 11:57:25 +1200
+Processing time = 1.624864

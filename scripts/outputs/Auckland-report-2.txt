@@ -1,7 +1,7 @@
-Start = 2021-05-15 15:03:41 +1200
+Start = 2021-05-22 11:57:43 +1200
 #############################
 
-23 LINZ ids are missing from NZOGPS Auckland
+25 LINZ ids are missing from NZOGPS Auckland
 ;linzid=3081813	Umuti Lane	-37.0804271395251,174.904995789312
 ;linzid=3081830	Uru Dr	-36.9845343762541,174.918392229777
 ;linzid=3081811	Mataitai Way	-37.0801409107293,174.906230150994
@@ -25,6 +25,8 @@ Start = 2021-05-15 15:03:41 +1200
 ;linzid=3081832	Ballyalton Cres	-36.9850011416081,174.917632958134
 ;linzid=3081833	Te Rauroha St	-37.0458809190946,174.949934373366
 ;linzid=3081852	Mohi Pl	-36.8789571699933,174.848054792008
+;linzid=3081855	Wetini Way	-36.8791921096919,174.847973754521
+;linzid=3081867	Bodhi Lane	-36.7986215259861,174.655092898867
 #############################
 
 1 LINZ ids are in NZOGPS Auckland but missing from LINZ
@@ -37,5 +39,5 @@ Start = 2021-05-15 15:03:41 +1200
 0 Number range ids are in NZOGPS Auckland but missing from LINZ
 #############################
 
-Finish = 2021-05-15 15:03:45 +1200
-Processing time = 3.615674
+Finish = 2021-05-22 11:57:47 +1200
+Processing time = 3.789192

@@ -1,11 +1,29 @@
-Start = 2021-06-05 16:37:06 +1200
+Start = 2021-06-12 13:26:27 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Auckland
+17 LINZ ids are missing from NZOGPS Auckland
+;linzid=3081871	Soldiers Bay Pl	-36.8140164649826,174.702960573544
+;linzid=3081897	Cloonlyon Dr	-36.980535981035,174.913866608931
+;linzid=3081901	Porokaiwhiri Ave	-36.6822364341781,174.463730485952
+;linzid=3081902	Awa Ave	-36.6827178438852,174.463217770654
+;linzid=3081903	Panui Ave	-36.6833383011894,174.4627098771
+;linzid=3081904	Kanono Way	-36.6820660128038,174.463894586804
+;linzid=3081906	Caddie Lane	-36.9179328838325,174.913483177723
+;linzid=3081909	Tohetea Lane	-36.7994912274697,175.713324389914
+;linzid=3081918	Aidens Way	-37.030289954232,175.007520301442
+;linzid=3081919	Kaihuia Lane	-36.9112515791302,174.621609356461
+;linzid=3081920	Matukutureia Lane	-37.0154666360867,174.872294009213
+;linzid=3081921	Aumoana Lane	-36.9174840641555,174.774265015784
+;linzid=3081922	Whakatere Lane	-36.7912276552414,174.665630913464
+;linzid=3081925	Combat St	-37.0470867767068,174.948791721911
+;linzid=3081926	Ope Taua St	-37.0467673199979,174.948627897957
+;linzid=3081928	Corporal St	-37.0465795739681,174.953783969596
+;linzid=3081937	Puriri Lane	-37.1008475925365,174.975263015804
 #############################
 
-1 LINZ ids are in NZOGPS Auckland but missing from LINZ
+2 LINZ ids are in NZOGPS Auckland but missing from LINZ
 ;linzid=3079601	Ngakahikatea Lane	-36.88810,174.85786
+;linzid=3077974	Cloonlyon Dr	-36.98083,174.91492
 #############################
 
 0 Number range ids are missing from NZOGPS Auckland
@@ -14,5 +32,5 @@ Start = 2021-06-05 16:37:06 +1200
 0 Number range ids are in NZOGPS Auckland but missing from LINZ
 #############################
 
-Finish = 2021-06-05 16:37:08 +1200
-Processing time = 2.421724
+Finish = 2021-06-12 13:26:31 +1200
+Processing time = 4.163792

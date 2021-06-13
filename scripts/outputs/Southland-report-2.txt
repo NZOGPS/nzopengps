@@ -1,7 +1,12 @@
-Start = 2021-06-05 16:36:47 +1200
+Start = 2021-06-12 13:26:08 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Southland
+5 LINZ ids are missing from NZOGPS Southland
+;linzid=3081929	Kauri Cres	-45.0926808753044,170.956839769213
+;linzid=3081936	Rose Lane	-46.3102840654745,168.776856693039
+;linzid=3081938	Ryan Loop	-45.0751729583216,168.74385837708
+;linzid=3081939	Oak Lane	-44.699290311579,169.102596007729
+;linzid=3081940	Walsh St	-44.6737025125294,169.167012492681
 #############################
 
 0 LINZ ids are in NZOGPS Southland but missing from LINZ
@@ -13,5 +18,5 @@ Start = 2021-06-05 16:36:47 +1200
 0 Number range ids are in NZOGPS Southland but missing from LINZ
 #############################
 
-Finish = 2021-06-05 16:36:51 +1200
-Processing time = 3.618807
+Finish = 2021-06-12 13:26:12 +1200
+Processing time = 4.083443

@@ -1,7 +1,6 @@
-Start = 2021-06-12 13:26:34 +1200
+Start = 2021-06-14 00:16:46 +1200
 linzid	street_name	street_name_2	official_street_name
-3080526	Cottlesbrook St		Cottesbrook St	-44.67490,169.16013
 #############################
 
-Finish = 2021-06-12 13:26:37 +1200
-Processing time = 3.071927
+Finish = 2021-06-14 00:16:48 +1200
+Processing time = 2.015459

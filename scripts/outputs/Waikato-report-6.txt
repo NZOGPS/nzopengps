@@ -1,9 +1,6 @@
-Start = 2021-06-12 13:26:46 +1200
+Start = 2021-06-23 23:07:56 +1200
 linzid	street_name	street_name_2	official_street_name
-3034768	State Highway 1		Great South Rd	-37.52825,175.15942
-3081370	Kiriwai Dr		Kiriwai Kaui Dr	-37.75338,175.22836
-3034768	State Highway 1		Great South Rd	-37.59304,175.15980
 #############################
 
-Finish = 2021-06-12 13:26:50 +1200
-Processing time = 3.661812
+Finish = 2021-06-23 23:07:58 +1200
+Processing time = 2.609929

@@ -1,8 +1,18 @@
-Start = 2021-06-13 12:07:21 +1200
+Start = 2021-07-10 15:43:21 +1200
 #############################
 
-1 LINZ ids are missing from NZOGPS Wellington
+11 LINZ ids are missing from NZOGPS Wellington
 ;linzid=1792157	Gates Rd	-41.1439299122807,174.832748199545
+;linzid=3081956	Reisima Pl	-40.1867758213327,176.108886110444
+;linzid=3082012	Kindergarten Lane	-41.1399122841713,175.050864307521
+;linzid=3082009	Desert Gold Lane	-41.1390222761639,175.052345769531
+;linzid=3082010	La Mer Lane	-41.1394578232057,175.051957426803
+;linzid=3082011	Gloaming Lane	-41.1397151477275,175.051445497859
+;linzid=3082014	Cynisca Cres	-41.1408324617724,175.049070625008
+;linzid=3082013	Castletown St	-41.1404018201718,175.048685715259
+;linzid=3082015	Balmerino Lane	-41.1408324617724,175.049070625008
+;linzid=3082024	The Boulevard	-41.277098342711,174.784749419818
+;linzid=3082045	Miles Lane	-41.0259846241988,175.513443064478
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -14,5 +24,5 @@ Start = 2021-06-13 12:07:21 +1200
 0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2021-06-13 12:07:24 +1200
-Processing time = 2.366289
+Finish = 2021-07-10 15:43:24 +1200
+Processing time = 2.764174

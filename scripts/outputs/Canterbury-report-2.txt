@@ -1,8 +1,23 @@
-Start = 2021-06-23 21:59:20 +1200
+Start = 2021-07-10 15:43:24 +1200
 #############################
 
-1 LINZ ids are missing from NZOGPS Canterbury
+16 LINZ ids are missing from NZOGPS Canterbury
 ;linzid=3079720	Gold Valley Rd	-43.7070990510647,172.652569302629
+;linzid=3081942	Rapide Way	-43.4975770132466,172.535385485773
+;linzid=3081944	Sirius Lane	-43.6082395698036,172.36635108931
+;linzid=3081945	Turner Lane	-43.6069765331199,172.368262309025
+;linzid=3081968	Bushland Pl	-43.5845083169697,172.596805016465
+;linzid=3081969	Kahika Lane	-43.5845083169697,172.596805016465
+;linzid=3081971	Fairmaid St	-43.6499220179817,172.474863701703
+;linzid=3081972	McCaw Rd	-43.6502819512189,172.471727789171
+;linzid=3081973	Makonui Rd	-43.6511205160327,172.4731634978
+;linzid=3081974	Tabor Pl	-43.6519147238986,172.473610984589
+;linzid=3082025	Agathis Cres	-43.5593490766324,172.543239351403
+;linzid=3082049	Salkeld Pl	-43.3188151258097,172.67151656017
+;linzid=3082046	McQuillan Ave	-43.3172171190741,172.669461760963
+;linzid=3082047	Thirlwall St	-43.3200442257905,172.671614164093
+;linzid=3082048	Cutler St	-43.3188146356158,172.671523669072
+;linzid=3082050	Cleaver St	-43.3172171190741,172.669461760963
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
@@ -14,5 +29,5 @@ Start = 2021-06-23 21:59:20 +1200
 0 Number range ids are in NZOGPS Canterbury but missing from LINZ
 #############################
 
-Finish = 2021-06-23 21:59:22 +1200
-Processing time = 2.406047
+Finish = 2021-07-10 15:43:27 +1200
+Processing time = 3.117813

@@ -1,10 +1,16 @@
-Start = 2021-07-17 12:58:09 +1200
+Start = 2021-07-31 15:52:48 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Waikato
+5 LINZ ids are missing from NZOGPS Waikato
+;linzid=3082064	Pukeroa Rd	-37.7460514230857,175.30268423657
+;linzid=3082065	Haynes Pl	-37.7223094732344,175.287592486814
+;linzid=3082057	Warrender Lane	-37.7695677033429,175.330482799682
+;linzid=3082058	Grove Lane	-37.6439162200838,176.03140810804
+;linzid=3082056	Taha Lane	-37.7446616386428,175.310746482099
 #############################
 
-0 LINZ ids are in NZOGPS Waikato but missing from LINZ
+1 LINZ ids are in NZOGPS Waikato but missing from LINZ
+;linzid=1840096	New Borman Rd	-37.72308,175.28534
 #############################
 
 0 Number range ids are missing from NZOGPS Waikato
@@ -13,5 +19,5 @@ Start = 2021-07-17 12:58:09 +1200
 0 Number range ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
-Finish = 2021-07-17 12:58:11 +1200
-Processing time = 2.558613
+Finish = 2021-07-31 15:52:52 +1200
+Processing time = 4.007907

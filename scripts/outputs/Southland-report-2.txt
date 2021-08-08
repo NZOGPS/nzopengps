@@ -1,13 +1,7 @@
-Start = 2021-08-07 12:37:11 +1200
+Start = 2021-08-08 20:28:35 +1200
 #############################
 
-6 LINZ ids are missing from NZOGPS Southland
-;linzid=3082071	Sim Lane	-45.1888822444057,169.405021711662
-;linzid=3082072	Pollock St	-45.2376271976605,169.381685266492
-;linzid=3082074	Stebbing Way	-45.2381481700379,169.383529402747
-;linzid=3082075	Gards Pl	-45.2383761727846,169.382392901663
-;linzid=3082076	Gorge Rd	-45.1310084237841,169.518059126352
-;linzid=3082080	Moraine Tce	-45.3849329821136,167.762221245437
+0 LINZ ids are missing from NZOGPS Southland
 #############################
 
 0 LINZ ids are in NZOGPS Southland but missing from LINZ
@@ -19,5 +13,5 @@ Start = 2021-08-07 12:37:11 +1200
 0 Number range ids are in NZOGPS Southland but missing from LINZ
 #############################
 
-Finish = 2021-08-07 12:37:15 +1200
-Processing time = 3.830944
+Finish = 2021-08-08 20:28:37 +1200
+Processing time = 2.235252

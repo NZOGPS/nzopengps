@@ -1,7 +1,6 @@
-Start = 2021-08-07 12:37:50 +1200
+Start = 2021-08-08 23:56:38 +1200
 linzid	street_name	street_name_2	official_street_name
-1991265	Donald Cook Rd		Bulwark Rd	-38.39239,175.78098
 #############################
 
-Finish = 2021-08-07 12:37:54 +1200
-Processing time = 4.02499
+Finish = 2021-08-08 23:56:41 +1200
+Processing time = 2.384355

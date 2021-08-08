@@ -1,9 +1,9 @@
-Start = 2021-07-31 15:52:57 +1200
+Start = 2021-08-07 12:37:34 +1200
 linzid	street_name	street_name_2	official_street_name
 3032989	Settlement Rd (4WD Only)		Settlement Rd	-42.68955,171.22628
 1790396	Greenstone Rd (Unmaintained)		Greenstone Rd	-42.66872,171.18020
 3081318	Central Park Ave		Central Park Lane	-41.33433,173.16557
 #############################
 
-Finish = 2021-07-31 15:52:59 +1200
-Processing time = 1.541425
+Finish = 2021-08-07 12:37:36 +1200
+Processing time = 2.302157

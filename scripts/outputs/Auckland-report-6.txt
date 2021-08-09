@@ -1,4 +1,4 @@
-Start = 2021-07-31 15:53:15 +1200
+Start = 2021-08-07 12:37:54 +1200
 linzid	street_name	street_name_2	official_street_name
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
 3077792	Luda Ave		Taurikura Way	-36.70866,174.71102
@@ -6,5 +6,5 @@ linzid	street_name	street_name_2	official_street_name
 1830965	Hull Rd (4WD only, closed in Winter)		Hull Rd	-36.64738,174.58702
 #############################
 
-Finish = 2021-07-31 15:53:20 +1200
-Processing time = 4.703196
+Finish = 2021-08-07 12:38:02 +1200
+Processing time = 7.334802

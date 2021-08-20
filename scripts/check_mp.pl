@@ -29,10 +29,10 @@ my %bynodid;
 
 my %debug = (
 	sbid			=> 0,
-	OEZCheck		=> 0,	#1 or linzid or regex e.g '3063230|1830369'
-	overlaperr		=> 0,	#1 or linzid
-	olcheck			=> 0,
-	ol1numtype		=> 0,	#1 or linzid
+	OEZCheck		=> 0,	# 1 or linzid or regex e.g '3063230|1830369'
+	overlaperr		=> 3078971,	# 1 or linzid or regex e.g '3063230|1830369'
+	olcheck			=> 3078971,	# 1 or linzid or regex e.g '3063230|1830369'
+	ol1numtype		=> 3078971,	# 1 or linzid
 	rdoverlap		=> 0,
 	readpapernums	=> 0,
 	routecheck		=> 0,
@@ -689,6 +689,13 @@ sub overlap_one_numtype {
 	$debugthis = $debug{'ol1numtype'} && ( $debug{'ol1numtype'} == 1 || grep {/$debug{'ol1numtype'}/} $$road[18][0] );
 	
 	if ($debugthis){print "overlap_one_numtype: beg: $beg end: $end dif: $dif nid: $nid nno: $nno road: $$road[2][0]\n"}
+	if ($debugthis) {
+		print "numset is: ";
+		for my $no ( sort {$a <=> $b} keys %$srf){
+			print " $no,";
+		}
+		print "\n";
+	}
 	
 	if ( $beg > $end ){ 
 		$dif = -$dif;
@@ -786,14 +793,16 @@ sub overlap_one_numbered_section {
 	my $l; my $r;
 	my $errnod;
 	my %numset;
-
+	my $debugthis = 0;
+	
 	my $roadlstp = shift;
 
 	for my $jp (@$roadlstp){ #for each road of this id
 		my $j = $jp->[0];
-		if ($debug{'olcheck'}){print "overlap_check: j = $j\n"};
+		if ($debug{'olcheck'} == 1){print "overlap_1ns: j = $j\n"};
 		$road = $roads[$j];
-		if ($debug{'olcheck'}){print "overlap_check - Road: ${$road}[2], RoadID: ${$road}[5]\n"}
+		$debugthis = $debug{'olcheck'} && ( $debug{'olcheck'} == 1 || grep {/$debug{'olcheck'}/} $$road[18][0] );
+		if ($debugthis){print "overlap_1ns - Road: ${$road}[2][0], RoadID: ${$road}[5]\n"}
 		$rid = $$road[5];
 		@numa = @{$$road[11]};
 
@@ -802,7 +811,7 @@ sub overlap_one_numbered_section {
 			($l,$errnod) = overlap_one_side(@$nptr[1..3],$$nptr[0],$i,$road,\%numset);
 			local $, = ',';
 			if ($l) { 
-				if ($debug{'olcheck'}){print sprintf "overlap_check - errnod is %s\n",defined($errnod) ? $errnod : "(undefined)"}
+				if ($debugthis){print sprintf "overlap_1ns - errnod is %s\n",defined($errnod) ? $errnod : "(undefined)"}
 				print "conflicting definition:\n";
 				dump_id2($road,$errnod,-1); 
 				print "\n";
@@ -810,7 +819,7 @@ sub overlap_one_numbered_section {
 			}
 			($r,$errnod) = overlap_one_side(@$nptr[4..6],$$nptr[0],$i,$road,\%numset);
 			if ($r) { 
-				if ($debug{'olcheck'}){print sprintf "overlap_check - errnod is %s\n",defined($errnod) ? $errnod : "(undefined)"}
+				if ($debugthis){print sprintf "overlap_1ns - errnod is %s\n",defined($errnod) ? $errnod : "(undefined)"}
 				print "conflicting definition:\n";
 				dump_id2($road,$errnod,-1); 
 				print "\n";
@@ -824,9 +833,10 @@ sub overlap_check {
 	my @numprm;
 
 	print "Check for overlaps on number ranges...\n";
-	if ($debug{'olcheck'}){print "*** Overlap_Check ***\n"};
 	while( my( $idval, $roadlstp ) = each( %{$byid} ) ) { # for each id, roadlstp is 1-3 e.g linzid, linzid2...
-		if ($debug{'olcheck'}){print "overlap_check: id = $idval\n"};
+		if ($debug{'olcheck'} && ( $debug{'olcheck'} == 1 || grep {/$debug{'olcheck'}/} $idval )){
+			print "overlap_check: id = $idval\n"
+		};
 		next if $idval == 0 || $idval == -1;	# ignore sufi=0 and no sufi roads
 		if ( defined $bylinznumbid{$idval} ) { 
 			for (values %{$bylinznumbid{$idval}}) {

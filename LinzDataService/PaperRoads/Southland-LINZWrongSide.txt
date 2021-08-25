@@ -143,3 +143,10 @@
 1584693	9750 Kyeburn-Hyde Road, Tiroiti	2019/10/18 23:57	-45.251673,170.261743	There's a vague track where 9750 would be at S45°14.8433' E170°15.3857'
 1674454	3800 Danseys Pass Road, Kyeburn Diggings	2019/10/19 00:02	-45.011225,170.276557	Obvious dwellings here, and obviously opposite 3796 nearby.
 1674453	3802 Danseys Pass Road, Kyeburn Diggings	2019/10/19 00:02	-45.011104,170.276065	ditto
+--- Not sure if above sent or not. Below new
+2016291	19 Birdlip Rise, Lower Shotover	2021/08/25 22:00	-44.990814,168.749214	Bit iffy as to whether to bother mentioning this one as it's not rural. All others fit the same L/R pattern though. Maybe worth checking position and number?
+2188965	30 Mason Road, Seaward Bush, Invercargill	2021/08/25 22:04	-46.428282,168.403253	Appears to be a new driveway on some imagery here. But wrong side compared to others on this road.
+2188966	32 Mason Road, Seaward Bush, Invercargill	2021/08/25 22:04	-46.428263,168.403548	ditto
+2190824	96 Holyhead Street, Outram	2021/08/25 22:09	-45.854772,170.235023	check position?
+2215375	847 Lauder Flat Road, Becks, 	2021/08/25 22:14	-44.951139,169.710420	clearly different to rest of road.
+2248074	14 McDougall Street, Wanaka	2021/08/25 22:25	-44.700849,169.126159

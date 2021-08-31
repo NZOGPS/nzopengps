@@ -1,7 +1,7 @@
 1 entries in ..\..\LinzDataService\PaperRoads\Northland-WrongSide.txt
 164 entries in ..\..\LinzDataService\PaperRoads\Northland-LINZWrongSide.txt
-133 wrongside numbers, 22 not in Exclusion files
-54 entries in Linz list are no longer on the wrong side
+136 wrongside numbers, 27 not in Exclusion files
+56 entries in Linz list are no longer on the wrong side
 1340017	374 HONEYMOON VALLEY ROAD	2013/12/14 16:02	-35.125938,173.493223
 911988	70 OKAHU ROAD	2013/10/22 10:11	-35.124345,173.263745
 1742449	13 LITTIN ROAD	2013/12/22 14:03	-36.386554,174.448758	Not sure which one is wrong...
@@ -54,6 +54,8 @@
 1344530	519 WEST COAST ROAD	2013/12/14 16:13	-35.039554,173.170223
 2036818	23 Baffin Street, Opua	2021/01/24 14:02	-35.317506,174.117670
 918962	12B SECOND AVENUE	2013/12/17 12:43	-35.930372,173.874113
+2226567	59 Alexandra Lane, Mangawhai	2021/01/24 13:46	-36.145861,174.560910	nothing on imagery yet to show if there is any logic to this
+1343175	29 SRHOJ ROAD	2013/10/22 15:26	-34.915295,173.186385
 1344525	511 WEST COAST ROAD	2013/12/14 16:12	-35.039138,173.170724
 947414	1798 SH  1	2013/12/16 00:17	-36.174604,174.448598
 

@@ -97,3 +97,24 @@ Above sent to LINZ 20181201
 2151974	205 Castle Hill Road, Alfredton	2018/12/02 16:21	-40.686356,175.880310
 1547448	21 Orui-Riversdale Road, Riversdale Beach	2018/12/02 16:24	-41.082626,176.072458
 453782	97 Realm Drive, Paraparaumu	2018/12/02 16:33	-40.899046,175.005398	In the middle of the access road. Unnumbered dwelling at	S40°53.9527' E175°00.3220'
+Below new 15:27 30/08/21
+647670	146 Boundary Terrace, Raumati Beach, Paraparaumu	2021/08/30 15:23	-40.923053,175.001165	All points here seem to be offset to the SE. 1/2 are on or over the road.
+647857	148 Boundary Terrace, Raumati Beach, Paraparaumu	2021/08/30 15:23	-40.923006,175.001208	ditto
+1974149	152 Boundary Terrace, Raumati Beach, Paraparaumu	2021/08/30 15:24	-40.922953,175.001253	ditto
+1991051	154 Boundary Terrace, Raumati Beach, Paraparaumu	2021/08/30 15:24	-40.922898,175.001291	ditto
+1991052	156 Boundary Terrace, Raumati Beach, Paraparaumu	2021/08/30 15:24	-40.922847,175.001344	ditto
+2098507	158 Boundary Terrace, Raumati Beach, Paraparaumu	2021/08/30 15:24	-40.922785,175.001394	ditto
+1431232	32 Graham Road, Dannevirke	2021/08/30 15:36	-40.263574,176.020234	If this refers to a railway property, S40.263769° E176.023288° would be a better position
+1937806	11 Ruffs Road, Bunnythorpe	2021/08/30 15:39	-40.280900,175.620987
+2003384	15 Gurney Road, Kelson, Lower Hutt	2021/08/30 15:43	-41.183834,174.935865
+1481903	29 Mangaroa Valley Road, Mangaroa, Upper Hutt	2021/08/30 15:45	-41.137908,175.093108
+445319	30 Brookfield Lane, Wainuiomata, Lower Hutt	2021/08/30 15:49	-41.239704,174.975824	Another borderline to mention or not, but other numbers here are all consistent.
+2174801	53A Boar Bush Gully Road, Featherston	2021/08/30 15:55	-41.102360,175.321789	Bit suspicious there isn't a 53. Typo? 54A?
+1547491	2542 Homewood Road, Homewood	2021/08/30 15:58	-41.157365,175.995765
+1547493	2528 Homewood Road, Homewood	2021/08/30 15:58	-41.156404,175.996877
+2152670	151 Te Wanaka Road, Awapuni, Palmerston North	2021/08/30 16:11	-40.380956,175.572572	Another in the middle of the formed road. Not sure where it should be.
+2210917	496 Lethbridge Road, Feilding	2021/08/30 16:13	-40.172787,175.527246	close but wrong side. 495?
+1546862	669 Mangarei Road, Bideford	2021/08/30 16:21	-40.832636,175.825275
+1983587	382 McDonell Road, Ohakea, Bulls	2021/08/30 16:23	-40.226142,175.360957	Strange that 378 next door is incorrect too.
+416230	1960 Coast Road, Wainuiomata Coast	2021/08/30 16:24	-41.417090,174.903133	This point is in the river bed. Obvious buildings at S41.417417° E174.907306°
+591803	1872 Maunga Road, Ormondville	2021/08/30 16:29	-40.182289,176.287919	Close, but should be odd. 1871?

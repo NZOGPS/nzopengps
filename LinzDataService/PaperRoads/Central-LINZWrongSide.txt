@@ -159,3 +159,20 @@
 2007606	135 Kaupokonui Heads Road, Kaupokonui	2021/03/28 12:43	-39.567680,174.062874	Pretty obvious dwelling, but RAPID numbering suggests it should be 134 or 136
 2189834	117 Fryer Road, Poraiti, Napier	2021/03/28 12:45	-39.497879,176.845777	These two look new, all the rest on this road look to be RAPID numbered
 2156961	115 Fryer Road, Poraiti, Napier	2021/03/28 12:46	-39.498582,176.846448	ditto
+New from 2021/08/29
+956589	503 Middle Road, Tohunga Junction	2021/08/29 17:20	-39.351095,175.304699	Obvious cluster of buildings at S39.349572° E175.303306° that matches what we think RAPID numbering for 503 should be.
+1647243	1100 Piko Road, Okoki	2021/08/29 17:24	-39.080601,174.449123	According to what we think RAPID should be here, these buildings would be numbered 1115. 
+1709400	720 Mt Curl Road, Hunterville	2021/08/29 17:27	-39.966698,175.463509	According to what we think RAPID should be here, these buildings would be numbered 729. Typo?
+1713639	208 Te Rangitukehu Street, Turangi	2021/08/29 17:28	-39.000778,175.786488	This road is formed further than you have it, S38.999181° E175.785117° is closer to where RAPID suggests it should be.
+2008498	361 Mangaoapa Road, Matau	2021/08/29 17:39	-39.184087,174.523342	This is a fair way out according to what we think RAPID should be here. This location would be numbered around 600, but there is also cleared land at S39.203846° E174.519456° that matches RAPID. 
+2042476	490 Nuhaka River Road, Nuhaka	2021/08/29 17:43	-38.981814,177.740630	Obvious building, numbering is very close, but wrong side. 491?
+2044445	990 Puketitiri Road, Puketapu	2021/08/29 17:54	-39.456875,176.782945	Obvious building, numbering is very close, but wrong side. 991?
+2127981	1130 Puniwhakau Road, Puniwhakau	2021/08/29 18:24	-39.317624,174.707288	Another seemingly randomly number on this road.
+2138658	2229 Taharua Road, Taharua	2021/08/29 18:28	-39.004506,176.287485	Obvious buildings but odd number. Looks like it should be around 2068 based on other numbers.
+2159035	579 Ongaonga Road, Waipawa	2021/08/29 18:33	-39.936438,176.525383	Surrounded by 580, 588-594.
+2184517	182 Gibraltar Road, Pourerere	2021/08/29 18:38	-40.114533,176.857773	No obvious buildings or entrances here. This point looks to be around 227, 182 is around S40.111599° E176.860715°
+2204657	124 Awamate Road, Wairoa	2021/08/29 18:44	-39.010766,177.381590	Numbering is close. 123?
+493136	632 Pipiriki Raetihi Road, Raetihi	2021/08/29 18:45	-39.447417,175.213322	Obvious building. Numbering is close. 633?
+584015	346 Darwin Road, Outer Kaiti, Gisborne	2021/08/29 18:48	-38.645545,178.062719	Obvious building at S38.645487° E178.058890° that matches other numbering.
+591342	483 France Road, Matamau	2021/08/29 18:50	-40.087436,176.150746	S40.087252° E176.149695° would be closer to this number.
+900034	1045 Kohuratahi Road, Kohuratahi	2021/08/29 19:12	-39.112669,174.850504	A little ambiguous, but probably 1046

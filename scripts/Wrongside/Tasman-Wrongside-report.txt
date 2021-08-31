@@ -1,9 +1,10 @@
 3 entries in ..\..\LinzDataService\PaperRoads\Tasman-WrongSide.txt
 84 entries in ..\..\LinzDataService\PaperRoads\Tasman-LINZWrongSide.txt
-75 wrongside numbers, 21 not in Exclusion files
-33 entries in Linz list are no longer on the wrong side
+71 wrongside numbers, 18 not in Exclusion files
+34 entries in Linz list are no longer on the wrong side
 398370	126 Uruwhenua Road	2014/07/18 23:49	-40.996303,172.815299	Slightly the wrong side of the physical road
 1932207	590 Abel Tasman Drive, Clifton	2019/05/12 16:55	-40.843652,172.864235	Other addresses on this road match RAPID numbering.
+1413663	256 ELAINE BAY ROAD	2014/06/10 20:43	-41.054553,173.774734
 1128970	1095 MAITAI VALLEY ROAD	2014/06/10 22:29	-41.290704,173.371719
 1676913	589 UMERE ROAD	2014/06/09 22:48	-41.256113,172.186505	 Change of side compared to further south
 343134	206 CLOVA BAY ROAD	2014/06/10 20:48	-41.102304,174.045795

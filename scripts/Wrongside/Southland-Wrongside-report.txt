@@ -1,14 +1,15 @@
-9 entries in ..\..\LinzDataService\PaperRoads\Southland-WrongSide.txt
-139 entries in ..\..\LinzDataService\PaperRoads\Southland-LINZWrongSide.txt
-122 wrongside numbers, 10 not in Exclusion files
+11 entries in ..\..\LinzDataService\PaperRoads\Southland-WrongSide.txt
+145 entries in ..\..\LinzDataService\PaperRoads\Southland-LINZWrongSide.txt
+121 wrongside numbers, 2 not in Exclusion files
 4 entries in Ignore list are no longer on the wrong side
 1578017	16B JOY STREET	2013/10/26 23:16	-45.095919,170.961474
 111752	309C McKenzie Road, Cattle Flat	2019/06/03 22:45	-45.697336,168.785246
 71695	30A Chelmer Street	2015/04/27 20:08	-45.096988,170.956477
 1578018	16C JOY STREET	2013/10/26 23:16	-45.095870,170.961180
 
-32 entries in Linz list are no longer on the wrong side
+33 entries in Linz list are no longer on the wrong side
 1604690	34 ARAMOANA ROAD	2013/10/26 23:35	-45.805825,170.625299
+1310098	71 Taieri View Road, North Taieri	2019/10/18 23:12	-45.829152,170.309110	This road numbering is all over the place. Random numbers everywhere...
 1400218	32 WHITBY STREET	2013/10/05 23:13	-45.188535,169.324074
 33036	14 BROOKLYN STREET	2013/10/26 23:42	-45.908089,170.422246
 18289	300 POUNAWEA ROAD	2013/10/26 23:01	-46.470052,169.690629

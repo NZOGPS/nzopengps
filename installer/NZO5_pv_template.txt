@@ -1,6 +1,6 @@
 [Map]
 FileName=Free Open GPS NZ Autorouting
-MapVersion=510
+MapVersion=#{VERSION}
 ProductCode=1
 FID=963
 ;ID=00000963

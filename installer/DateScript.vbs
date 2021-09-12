@@ -4,6 +4,8 @@
 ' MODIFIED:	Gary Turner
 ' DATE:		16 Jan 2015
 ' PURPOSE:	Get author from Environment
+' DATE:		9 Sep 2021
+' PURPOSE:	Add automatic versioning
 '
 'PURPOSE: 
 'This script creates a cgpsmapper .pv file with the current date for Mapsource Version Identification.  
@@ -16,6 +18,7 @@
 'get date and convert to string
 '
 
+Const YrVerFN = "YearVersion.txt"
 Set WshShell = WScript.CreateObject("WScript.Shell")
 
 Dim newDate
@@ -29,23 +32,30 @@ Dim verStr
 
 Function getVer(findYear)
 ' Get years and max versions from file
-	newVer = 0
+	Dim newVer : newVer = 0
 	Dim i : i = 0
+	Dim VerDateDiff 'difference in days between previous run and this one
+	Dim yvre
+
 	set yvre = New RegExp
 	yvre.Pattern = "(\d{4}):(\d{2}):(.*)"
-	Set objDVFile = objFS.OpenTextFile("YearVersion.txt")
+	if not objFS.FileExists(YrVerFN) Then
+		ReDim Preserve yearVerArr(2,0)
+		getVer = 0 
+		Exit Function
+	End If
+	Set objDVFile = objFS.OpenTextFile(YrVerFN)
 	Do Until objDVFile.AtEndOfStream
 		strLine = objDVFile.ReadLine
-		If yvre.Test(strLine) Then
-			Set rematch = yvre.Execute(strLine)
+		If yvre.Test(strLine) Then	'if it matches
+			Set rematch = yvre.Execute(strLine) 'execute regex setting grouped matches
 			ReDim Preserve yearVerArr(2,i)
 			yearVerArr(0,i) = rematch(0).SubMatches(0)
 			yearVerArr(1,i) = rematch(0).SubMatches(1)
 			yearVerArr(2,i) = rematch(0).SubMatches(2)
 			if StrComp(CStr(thisYear), yearVerArr(0,i)) = 0  Then 
-			call WshShell.Popup(thisyear,5,"This Year found",0)
-			'need to check if it's the same day?
 				newVer = CInt(yearVerArr(1,i))
+				VerDateDiff = DateDiff("d",newDate,yearVerArr(2,i))
 			End If
 			i = i + 1
 		End If
@@ -54,7 +64,11 @@ Function getVer(findYear)
 	if newVer = 0 Then 
 		getVer = 0 
 	Else
-		getVer = newVer
+		if VerDateDiff > 1 Then 'did we last run more than one day ago?
+			getVer = newVer
+		Else
+			getVer = newVer - 1 'no, use old version
+		End If
 	End If
 End Function
 
@@ -82,7 +96,9 @@ End Function
 Function writeYearVer()
 ' update file with new data
 	Dim i
-	Set objDVFile = objFS.OpenTextFile("YearVersion.txt",2)
+	Dim newOK
+	newOK = (lastVersion = 0)
+	Set objDVFile = objFS.OpenTextFile(YrVerFN,2,newOK)
 	For i = 0 to UBound(yearVerArr,2)
 		objDVFile.Write(yearVerArr(0,i)&":")
 		objDVFile.Write(yearVerArr(1,i)&":")

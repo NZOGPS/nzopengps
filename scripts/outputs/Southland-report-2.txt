@@ -1,10 +1,7 @@
-Start = 2021-09-04 12:43:06 +1200
+Start = 2021-09-18 17:12:24 +1200
 #############################
 
-3 LINZ ids are missing from NZOGPS Southland
-;linzid=3082172	Pihoihoi Rd	-45.1335105333,169.42951845
-;linzid=3082139	McGibbon Lane	-45.0741575862638,168.743341173913
-;linzid=3082138	Chapman Way	-45.0737613753003,168.744302645851
+0 LINZ ids are missing from NZOGPS Southland
 #############################
 
 0 LINZ ids are in NZOGPS Southland but missing from LINZ
@@ -16,5 +13,5 @@ Start = 2021-09-04 12:43:06 +1200
 0 Number range ids are in NZOGPS Southland but missing from LINZ
 #############################
 
-Finish = 2021-09-04 12:43:10 +1200
-Processing time = 3.666253
+Finish = 2021-09-18 17:12:26 +1200
+Processing time = 2.237044

@@ -1,10 +1,6 @@
-Start = 2021-09-04 12:43:32 +1200
+Start = 2021-09-18 17:12:26 +1200
 linzid	street_name	street_name_2	official_street_name
-1776156	Blakie & Fadie Rd		Blakie and Fadie Rd	-46.15144,168.98530
-1776139	Hole & Corner Rd		Hole and Corner Rd	-46.24622,169.01599
-1841942	Judge And Jury Dr		Judge and Jury Dr	-45.00123,168.79338
-1841942	Judge And Jury Dr		Judge and Jury Dr	-45.00284,168.79550
 #############################
 
-Finish = 2021-09-04 12:43:35 +1200
-Processing time = 3.021459
+Finish = 2021-09-18 17:12:28 +1200
+Processing time = 2.059922

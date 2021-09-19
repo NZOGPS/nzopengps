@@ -1,4 +1,4 @@
-Start = 2021-09-04 12:43:30 +1200
+Start = 2021-09-19 00:20:32 +1200
 linzid	street_name	street_name_2	official_street_name
 1790773	Stuart & Chapman Dr		Stuart and Chapman Dr	-42.48233,171.19119
 3032989	Settlement Rd (4WD Only)		Settlement Rd	-42.68955,171.22628
@@ -6,5 +6,5 @@ linzid	street_name	street_name_2	official_street_name
 3081318	Central Park Ave		Central Park Lane	-41.33433,173.16557
 #############################
 
-Finish = 2021-09-04 12:43:32 +1200
-Processing time = 1.590266
+Finish = 2021-09-19 00:20:33 +1200
+Processing time = 1.359267

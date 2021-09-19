@@ -1,7 +1,7 @@
-Start = 2021-09-08 19:05:09 +1200
+Start = 2021-09-19 00:20:08 +1200
 #############################
 
-8 LINZ ids are missing from NZOGPS Northland
+10 LINZ ids are missing from NZOGPS Northland
 ;linzid=3082123	Cambridge Lane	-36.1191796050575,174.568380221652
 ;linzid=3082124	Hayes Lane	-36.1428309218892,174.495232907268
 ;linzid=3082125	Phils Way	-36.1079595833,174.5216837
@@ -10,6 +10,8 @@ Start = 2021-09-08 19:05:09 +1200
 ;linzid=3082144	Short Lane	-35.9430543038976,174.367020364953
 ;linzid=3082146	Osler Ave	-35.2805300128991,174.080842972029
 ;linzid=3082156	Camelot Crt	-35.7057487643179,174.198095130545
+;linzid=3082252	Greenlea Tce	-35.7447159115234,174.317580209401
+;linzid=3082253	Plane Tree Lane	-35.638969051042,174.207789569402
 #############################
 
 0 LINZ ids are in NZOGPS Northland but missing from LINZ
@@ -21,5 +23,5 @@ Start = 2021-09-08 19:05:09 +1200
 0 Number range ids are in NZOGPS Northland but missing from LINZ
 #############################
 
-Finish = 2021-09-08 19:05:10 +1200
-Processing time = 1.187404
+Finish = 2021-09-19 00:20:09 +1200
+Processing time = 1.453014

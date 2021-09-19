@@ -1,7 +1,5 @@
 #Format is official name,local name
 #Generic Names
-	
-#Generic Names
 
 Accessway,Walkway
 Accessway,Overbridge
@@ -23,6 +21,12 @@ Roadway,Forestry Roadway
 #Stuff in Auckland tile
 #Pōtaka Lane,Potaka Lane
 
+#Stuff in Waikato tile
+Lorenzen Bay Rd,Sunshine Rise
+Eleventh Ave,Accadia Lane
+Maungawhare Pl,Vale St W
+State Highway 2,~[0x2d]29
+
 #Stuff in Central tile
 Access Road No 3,Access Road Number 3
 Access Road No 4,Access Road Number 4
@@ -38,6 +42,10 @@ Cuba St,Cuba Mall
 Marine Pde,Marine Parade Walkway
 Athletic Track Access Rd,Best Rd
 
+#Stuff in Tasman tile
+Settlement Rd,Settlement Rd (4WD Only)
+Greenstone Rd,Greenstone Rd (Unmaintained)
+
 #Stuff in Canterbury tile
 Sunny Bight Road Waiano,Sunny Bight Rd Waiano
 Milltown Road Arawhataraki,Milltown Rd Arawhataraki
@@ -46,12 +54,6 @@ Taylors Mistake Bay (Beach),Taylors Mistake Bay
 Queen Elizabeth II Dr,Queen Elizabeth 2 Dr
 Queen Elizabeth-II-Dr,Queen Elizabeth 2 Dr
 Summit Rd,Summit Rd - Te Ara Pataka
-
-#Stuff in Waikato tile
-Lorenzen Bay Rd,Sunshine Rise
-Eleventh Ave,Accadia Lane
-Maungawhare Pl,Vale St W
-State Highway 2,~[0x2d]29
 
 #Stuff in Southland tile
 #Pūrākaunui Station Rd,Purakaunui Station Rd

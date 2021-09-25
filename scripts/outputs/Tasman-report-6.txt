@@ -1,7 +1,7 @@
-Start = 2021-09-19 23:40:57 +1200
+Start = 2021-09-25 17:04:14 +1200
 linzid	street_name	street_name_2	official_street_name
 3081318	Central Park Ave		Central Park Lane	-41.33433,173.16557
 #############################
 
-Finish = 2021-09-19 23:40:58 +1200
-Processing time = 0.983975
+Finish = 2021-09-25 17:04:16 +1200
+Processing time = 1.401603

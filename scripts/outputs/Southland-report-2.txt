@@ -1,9 +1,7 @@
-Start = 2021-09-25 17:03:53 +1200
+Start = 2021-09-26 13:06:21 +1300
 #############################
 
-2 LINZ ids are missing from NZOGPS Southland
-;linzid=3082262	Seaton St	-45.19126965,169.32435121667
-;linzid=3082255	Williams Cres	-45.2381481700379,169.383529402747
+0 LINZ ids are missing from NZOGPS Southland
 #############################
 
 0 LINZ ids are in NZOGPS Southland but missing from LINZ
@@ -15,5 +13,5 @@ Start = 2021-09-25 17:03:53 +1200
 0 Number range ids are in NZOGPS Southland but missing from LINZ
 #############################
 
-Finish = 2021-09-25 17:03:56 +1200
-Processing time = 3.1308
+Finish = 2021-09-26 13:06:23 +1300
+Processing time = 2.837334

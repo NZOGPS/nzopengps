@@ -1,26 +1,10 @@
-Start = 2021-09-25 17:04:06 +1200
+Start = 2021-09-28 23:45:50 +1300
 #############################
 
-12 LINZ ids are missing from NZOGPS Waikato
-;linzid=3082213	New Borman Rd	-37.7230496701857,175.285302510159
-;linzid=3082232	Te Aurere Cres	-37.8906300331016,175.451494490944
-;linzid=3082231	Te Rerenga Tce	-37.8902994190416,175.451882494302
-;linzid=3082233	Te Aaio Way	-37.8918539784547,175.451494380936
-;linzid=3082234	Te Ripo Rise	-37.891853496268,175.45196419042
-;linzid=3082235	Te Au Kaha Crt	-37.8902994190416,175.451882494302
-;linzid=3082236	Bentley Lane	-37.9027697635994,175.471048107815
-;linzid=3082237	Karamu Lane	-38.0413396501405,175.338779722114
-;linzid=3082238	Koromiko Lane	-38.0414312466931,175.33984804295
-;linzid=3082239	Pahautea Lane	-38.0411414567513,175.337808549813
-;linzid=3082240	Clearway Rise	-37.84465125,175.3470477667
-;linzid=3082250	Mareanui Lane	-37.68725645,176.16791885
+0 LINZ ids are missing from NZOGPS Waikato
 #############################
 
-4 LINZ ids are in NZOGPS Waikato but missing from LINZ
-;linzid=3082065	Haynes Pl	-37.72230,175.28777
-;linzid=3082064	Pukeroa Rd	-37.74842,175.29332
-;linzid=3082056	Taha Lane	-37.74466,175.31075
-;linzid=3082073	Ennion Rise	-37.71721,175.25194
+0 LINZ ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Waikato
@@ -29,5 +13,5 @@ Start = 2021-09-25 17:04:06 +1200
 0 Number range ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
-Finish = 2021-09-25 17:04:09 +1200
-Processing time = 3.818012
+Finish = 2021-09-28 23:45:53 +1300
+Processing time = 2.748624

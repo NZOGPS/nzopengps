@@ -23,7 +23,7 @@ Free\ Open\ GPS\ NZ\ Autorouting.img : Free\ Open\ GPS\ NZ\ Autorouting.mp
 	$(CGPS) "$<"
 
 Free\ Open\ GPS\ NZ\ Autorouting.mp : $(MPIMGS) $(POIIMGS) NZO5_pv_template.txt
-	cscript /nologo ..\DateScript.vbs  > NZO5_pv.txt
+	cscript /nologo ..\DateScript.vbs /u > NZO5_pv.txt
 	$(CPV) NZO5_pv.txt
 
 define compile

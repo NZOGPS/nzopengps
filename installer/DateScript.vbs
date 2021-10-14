@@ -6,6 +6,8 @@
 ' PURPOSE:	Get author from Environment
 ' DATE:		9 Sep 2021
 ' PURPOSE:	Add automatic versioning
+' DATE:		14 Oct 2021
+' PURPOSE	automatic versioning for uppercase starts at 50
 '
 'PURPOSE: 
 'This script creates a cgpsmapper .pv file with the current date for Mapsource Version Identification.  
@@ -29,6 +31,8 @@ Dim yearVerArr()
 Dim lastVersion
 Dim newVersion
 Dim verStr
+Dim Uppercase : Uppercase = 0
+Dim NewYVFile
 
 Function getVer(findYear)
 ' Get years and max versions from file
@@ -41,7 +45,9 @@ Function getVer(findYear)
 	yvre.Pattern = "(\d{4}):(\d{2}):(.*)"
 	if not objFS.FileExists(YrVerFN) Then
 		ReDim Preserve yearVerArr(2,0)
-		getVer = 0 
+		getVer = 0
+		if Uppercase then getVer = 50
+		NewYVFile = 1
 		Exit Function
 	End If
 	Set objDVFile = objFS.OpenTextFile(YrVerFN)
@@ -61,8 +67,12 @@ Function getVer(findYear)
 		End If
 	Loop
 	objDVFile.Close
-	if newVer = 0 Then 
-		getVer = 0 
+	if newVer = 0 Then
+		if Uppercase then 
+			getVer = 50
+		Else
+			getVer = 0
+		End If
 	Else
 		if VerDateDiff > 1 Then 'did we last run more than one day ago?
 			getVer = newVer
@@ -85,7 +95,7 @@ Function updateYVA (year,version,date)
 		End If
 	Next
 	if not Found Then 'this is a new year
-		UB = UB + 1
+		if NewYVFile <> 1 then UB = UB + 1
 		ReDim Preserve yearVerArr(2,UB)
 		yearVerArr(0,UB) = year
 		yearVerArr(1,UB) = Right("0" & version,2)
@@ -97,15 +107,27 @@ Function writeYearVer()
 ' update file with new data
 	Dim i
 	Dim newOK
-	newOK = (lastVersion = 0)
+
+	if Uppercase then 
+		newOK = (lastVersion = 50)
+	else
+		newOK = (lastVersion = 0)
+	end if
+
 	Set objDVFile = objFS.OpenTextFile(YrVerFN,2,newOK)
+	
 	For i = 0 to UBound(yearVerArr,2)
 		objDVFile.Write(yearVerArr(0,i)&":")
 		objDVFile.Write(yearVerArr(1,i)&":")
 		objDVFile.WriteLine(yearVerArr(2,i))
 	Next
 End Function
-	
+
+Set args = Wscript.Arguments
+For Each arg In args
+	if arg = "/U" or arg = "/u" then Uppercase = 1
+Next
+
 Set objFS = CreateObject("Scripting.FileSystemObject")
 
 lastVersion = getVer(thisYear)

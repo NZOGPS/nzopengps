@@ -1,8 +1,16 @@
-Start = 2021-09-26 12:04:43 +1300
+Start = 2021-10-17 22:53:51 +1300
 #############################
 
-1 LINZ ids are missing from NZOGPS Canterbury
+9 LINZ ids are missing from NZOGPS Canterbury
 ;linzid=3079720	Gold Valley Rd	-43.7070990510647,172.652569302629
+;linzid=3082280	Dempsey St	-43.3795601493197,172.672516157467
+;linzid=3082311	Heney St	-43.3762494667,172.6676629667
+;linzid=3082278	Paroto St	-43.3765271445825,172.669865178449
+;linzid=3082279	Isa Lei Rd	-43.377206194393,172.670815037052
+;linzid=3082281	Pender St	-43.3779958501521,172.673810949808
+;linzid=3082282	Price Pl	-43.3757814021348,172.671709218734
+;linzid=3082303	Graeme Cooper Lane	-43.5102007543382,172.559820065815
+;linzid=3082310	Eastwick Lane	-43.3904851949296,172.29085487573
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
@@ -14,5 +22,5 @@ Start = 2021-09-26 12:04:43 +1300
 0 Number range ids are in NZOGPS Canterbury but missing from LINZ
 #############################
 
-Finish = 2021-09-26 12:04:46 +1300
-Processing time = 2.477675
+Finish = 2021-10-17 22:53:55 +1300
+Processing time = 4.346563

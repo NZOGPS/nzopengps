@@ -1,11 +1,6 @@
-Start = 2021-10-17 22:54:12 +1300
+Start = 2021-10-22 00:40:58 +1300
 linzid	street_name	street_name_2	official_street_name
-1812509	Paenoa Te Akau Rd		Paenoa Rd	-38.69062,176.05658
-1803270	Ryde Pl		Rito Pl	-39.61305,176.77461
-1803434	Mitchell Pl		Whiri Pl	-39.61305,176.77345
-1803413	Mawson Ave		Korari Ave	-39.61056,176.77397
-1803201	Frobisher St		Whitau St	-39.61093,176.77293
 #############################
 
-Finish = 2021-10-17 22:54:15 +1300
-Processing time = 3.077814
+Finish = 2021-10-22 00:41:00 +1300
+Processing time = 2.52503

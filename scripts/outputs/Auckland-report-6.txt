@@ -1,9 +1,9 @@
-Start = 2021-10-17 22:54:26 +1300
+Start = 2021-10-24 11:50:42 +1300
 linzid	street_name	street_name_2	official_street_name
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
 1821419	Valley Rd (off-road vehicles only)		Valley Rd	-36.66656,174.53579
 1830965	Hull Rd (4WD only, closed in Winter)		Hull Rd	-36.64738,174.58702
 #############################
 
-Finish = 2021-10-17 22:54:32 +1300
-Processing time = 5.254091
+Finish = 2021-10-24 11:50:47 +1300
+Processing time = 4.870451

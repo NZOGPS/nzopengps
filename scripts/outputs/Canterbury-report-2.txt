@@ -1,4 +1,4 @@
-Start = 2021-10-17 22:53:51 +1300
+Start = 2021-10-24 11:50:11 +1300
 #############################
 
 9 LINZ ids are missing from NZOGPS Canterbury
@@ -22,5 +22,5 @@ Start = 2021-10-17 22:53:51 +1300
 0 Number range ids are in NZOGPS Canterbury but missing from LINZ
 #############################
 
-Finish = 2021-10-17 22:53:55 +1300
-Processing time = 4.346563
+Finish = 2021-10-24 11:50:15 +1300
+Processing time = 3.524257

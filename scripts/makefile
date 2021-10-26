@@ -17,6 +17,8 @@ PAPERRDS = $(LINZ)\PaperRoads
 PSQL = $(nzogps_psql_bin)
 ZIPIT = $(nzogps_zip_cmd)
 UNZIP = $(nzogps_unzip_cmd)
+RUBY = $(nzogps_ruby_cmd)
+PERL = $(nzogps_perl_cmd)
 
 tilenum = $(subst Northland,1,$(subst Auckland,2,$(subst Waikato,3,$(subst Central,4,$(subst Wellington,5,$(subst Tasman,6,$(subst Canterbury,7,$(subst Southland,8,$(1)))))))))
  
@@ -37,16 +39,16 @@ install :  install-csv install-gdb
 	$(ZIPIT) $@ $?
 
 %-LINZ-V3.mp : %-LINZ.mp $(OUTPUTS)\%-report-2.txt
-	perl colourisenodise.pl $(notdir $*)
+	$(PERL) colourisenodise.pl $(notdir $*)
 
 %-LINZ-V4.mp : $(LINZO)\%-LINZ-V3.mp database.date
-	ruby parseLinzMP.rb $(call tilenum, $(notdir $*)) 3
+	$(RUBY) parseLinzMP.rb $(call tilenum, $(notdir $*)) 3
 
 %-LINZ-V5.mp : %-LINZ-V4.mp
-	perl -ne "print unless /;linz_/" $? >$@
+	$(PERL) -ne "print unless /;linz_/" $? >$@
 
 %-LINZ.mp : $(LINZ)\lds-nz-road-centre-line-electoral-SHP\nz-road-centre-line-electoral.shp
-	cd $(LINZ) && ruby shape-parser.rb
+	cd $(LINZ) && $(RUBY) shape-parser.rb
 
 postgres\nz-street-address.sql : $(LINZ)\lds-nz-street-address-electoral-SHP\nz-street-address-electoral.shp
 	time /t
@@ -64,18 +66,18 @@ database.date : postgres\nz-street-address.sql
 $(LINZ)\lds-nz-road-centre-line-electoral-SHP\nz-road-centre-line-electoral.shp : $(DLOAD)\lds-nz-road-centre-line-electoral-SHP.zip 
 	$(UNZIP) -o $< $(dir $@)
 	move $(DLOAD)\lds-nz-road-centre-line-electoral-SHP.zip $(LINZ)
-	perl $(LINZ)\renzip.pl $(LINZ)\lds-nz-road-centre-line-electoral-SHP
+	$(PERL) $(LINZ)\renzip.pl $(LINZ)\lds-nz-road-centre-line-electoral-SHP
 
 $(LINZ)\lds-nz-street-address-electoral-SHP\nz-street-address-electoral.shp : $(DLOAD)\lds-nz-street-address-electoral-SHP.zip
 	$(UNZIP) -o $< $(dir $@)
 	move $(DLOAD)\lds-nz-street-address-electoral-SHP.zip $(LINZ)
-	perl $(LINZ)\renzip.pl $(LINZ)\lds-nz-street-address-electoral-SHP
+	$(PERL) $(LINZ)\renzip.pl $(LINZ)\lds-nz-street-address-electoral-SHP
 
 $(OUTPUTS)\\%-report-2.txt : ..\%.mp $(PAPERRDS)\%.txt
-	ruby parseMP.rb $(call tilenum, $(notdir $*)) 2
+	$(RUBY) parseMP.rb $(call tilenum, $(notdir $*)) 2
 	
 $(OUTPUTS)\\%-report-6.txt : ..\%.mp $(LINZO)\%-LINZ.mp
-	ruby parseMP.rb $(call tilenum, $(notdir $*)) 6
+	$(RUBY) parseMP.rb $(call tilenum, $(notdir $*)) 6
 
 $(NUMBERS)\\%-numbers.gdb : $(OUTPUTS)\%-numbers.gdb
 	if exist $(subst /,\,$@) move /Y $(subst /,\,$@) $(addsuffix .old,$(subst /,\,$@))
@@ -92,7 +94,7 @@ $(NUMBERS)\\%-numbers-linzid.csv : %.zip
 	$(UNZIP) -o$(NUMBERS) $< $(notdir $@)
 	
 $(OUTPUTS)\\%-numbers.gdb : database.date
-	ruby parseMP.rb $(call tilenum, $(notdir $*)) 5
+	$(RUBY) parseMP.rb $(call tilenum, $(notdir $*)) 5
 
 $(OUTPUTS)\\%-numbers-linzid.csv :database.date
-	ruby parseMP.rb $(call tilenum, $(notdir $*)) 4
+	$(RUBY) parseMP.rb $(call tilenum, $(notdir $*)) 4

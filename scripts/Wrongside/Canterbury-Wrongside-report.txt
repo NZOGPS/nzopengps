@@ -1,6 +1,6 @@
 10 entries in ..\..\LinzDataService\PaperRoads\Canterbury-WrongSide.txt
 155 entries in ..\..\LinzDataService\PaperRoads\Canterbury-LINZWrongSide.txt
-162 wrongside numbers, 12 not in Exclusion files
+155 wrongside numbers, 5 not in Exclusion files
 1 entries in Ignore list are no longer on the wrong side
 1985145	510A Falston Road, Totara Peak	2021/03/28 15:16	-44.384002,170.192195
 

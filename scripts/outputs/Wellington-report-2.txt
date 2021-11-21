@@ -1,7 +1,22 @@
-Start = 2021-10-28 23:50:14 +1300
+Start = 2021-11-20 10:56:02 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Wellington
+15 LINZ ids are missing from NZOGPS Wellington
+;linzid=3082360	Enterprise Dr	-40.6377280073511,175.281086756313
+;linzid=3082368	Barrow Lane	-40.6512530027767,175.266666402818
+;linzid=3082370	Southfields Rd	-40.6524653182803,175.265937509512
+;linzid=3082372	Rushetts Lane	-40.6544682582983,175.270390453464
+;linzid=3082378	Little Footway	-40.6542951859226,175.268465564655
+;linzid=3082373	Chapel Cres	-40.6551793300016,175.273289013124
+;linzid=3082374	Ewehurst Lane	-40.655354614501,175.273788267716
+;linzid=3082375	Farnham Cl	-40.6530385449857,175.271676409061
+;linzid=3082376	The Grove	-40.6550882056794,175.27073531083
+;linzid=3082377	The Grange	-40.6504346396786,175.26598775942
+;linzid=3082369	Knowle Cl	-40.6504346396786,175.26598775942
+;linzid=3082371	Penhurst Way	-40.653112661871,175.265910196472
+;linzid=3082384	Ashdale Way	-40.6118909134137,175.309598431358
+;linzid=3082383	Magnolia Pl	-40.6118909134137,175.309598431358
+;linzid=3082420	Waihenga Lane	-41.2272205842443,175.444513504765
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -13,5 +28,5 @@ Start = 2021-10-28 23:50:14 +1300
 0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2021-10-28 23:50:16 +1300
-Processing time = 2.371127
+Finish = 2021-11-20 10:56:05 +1300
+Processing time = 3.069406

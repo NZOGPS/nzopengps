@@ -1,10 +1,18 @@
-Start = 2021-10-25 00:29:55 +1300
+Start = 2021-11-20 10:55:55 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Southland
+6 LINZ ids are missing from NZOGPS Southland
+;linzid=3082334	Eureka St	-44.7121999760986,169.14275127408
+;linzid=3082357	Petre Lane	-45.8933287081783,170.348475401013
+;linzid=3082358	McCarthy Crt	-45.8921319087493,170.347760820859
+;linzid=3082414	Morningside Lane	-46.4236820276602,168.393567094769
+;linzid=3082415	Callum Way	-46.4240394906047,168.387922980087
+;linzid=3082433	Rosella Pl	-45.8865196143286,170.365839979167
 #############################
 
-0 LINZ ids are in NZOGPS Southland but missing from LINZ
+2 LINZ ids are in NZOGPS Southland but missing from LINZ
+;linzid=3082002	Brodrick Way	-45.05254,169.17564
+;linzid=3082003	Hucklebridge Pl	-45.05101,169.17343
 #############################
 
 0 Number range ids are missing from NZOGPS Southland
@@ -13,5 +21,5 @@ Start = 2021-10-25 00:29:55 +1300
 0 Number range ids are in NZOGPS Southland but missing from LINZ
 #############################
 
-Finish = 2021-10-25 00:29:58 +1300
-Processing time = 2.707033
+Finish = 2021-11-20 10:55:58 +1300
+Processing time = 3.870646

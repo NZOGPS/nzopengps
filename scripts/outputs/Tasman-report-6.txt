@@ -1,7 +1,8 @@
-Start = 2021-11-20 10:56:18 +1300
+Start = 2021-12-04 13:29:54 +1300
 linzid	street_name	street_name_2	official_street_name
+1948312	Mt Arthur View Rd		Mt Arthur View	-41.28854,173.07719
 3081318	Central Park Ave		Central Park Lane	-41.33433,173.16557
 #############################
 
-Finish = 2021-11-20 10:56:20 +1300
-Processing time = 1.588036
+Finish = 2021-12-04 13:29:56 +1300
+Processing time = 1.595964

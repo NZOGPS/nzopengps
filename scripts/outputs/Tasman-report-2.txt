@@ -1,14 +1,11 @@
-Start = 2021-11-20 10:55:52 +1300
+Start = 2021-12-04 13:29:31 +1300
 #############################
 
-7 LINZ ids are missing from NZOGPS Tasman
-;linzid=3082297	Wa Kaukau Tce	-42.4116592030609,173.681430392135
-;linzid=3082329	Ambrosia St	-41.3339587195568,173.162472063587
-;linzid=3082330	Lotus St	-41.3339587195568,173.162472063587
-;linzid=3082331	Windle Rd	-40.8721199948249,172.82044625533
-;linzid=3082333	Denton Way	-40.8725766232102,172.81998983006
-;linzid=3082332	Coote St	-40.8725766232102,172.81998983006
-;linzid=3082381	Fenian Lead Rd	-42.52557975,171.17168575
+4 LINZ ids are missing from NZOGPS Tasman
+;linzid=3082480	Laxton Lane	-41.5134430464901,173.822218157418
+;linzid=3082484	Cranford Rd	-41.3358590793311,173.168896066249
+;linzid=3082485	Wera Way	-40.8256075833,172.9071602167
+;linzid=3082486	Wharepapa Way	-41.3531630613381,173.177537226402
 #############################
 
 3 LINZ ids are in NZOGPS Tasman but missing from LINZ
@@ -23,5 +20,5 @@ Start = 2021-11-20 10:55:52 +1300
 0 Number range ids are in NZOGPS Tasman but missing from LINZ
 #############################
 
-Finish = 2021-11-20 10:55:54 +1300
-Processing time = 2.07967
+Finish = 2021-12-04 13:29:32 +1300
+Processing time = 1.505552

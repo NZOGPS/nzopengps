@@ -1,22 +1,10 @@
-Start = 2021-12-04 13:29:39 +1300
+Start = 2021-12-08 00:35:38 +1300
 #############################
 
-10 LINZ ids are missing from NZOGPS Wellington
-;linzid=3082420	Waihenga Lane	-41.2272205842443,175.444513504765
-;linzid=3082461	Enereta Rd	-40.7595943110248,175.151372685483
-;linzid=3082449	Weta Way	-41.1994136869792,174.885583762595
-;linzid=3082448	Koukou Pl	-41.1994136869792,174.885583762595
-;linzid=3082450	Huhu Rise	-41.1996574212862,174.885600293086
-;linzid=3082459	Charles Robert Dr	-41.2155617739528,175.360427716697
-;linzid=3082460	Barley Mow Lane	-41.1478145309233,174.996449091431
-;linzid=3082462	Rikihana Way	-40.7595943110248,175.151372685483
-;linzid=3082467	Foremast Pl	-41.1256176193685,174.902667352985
-;linzid=3082479	Kokako Rise	-41.1430619129071,174.834975756763
+0 LINZ ids are missing from NZOGPS Wellington
 #############################
 
-2 LINZ ids are in NZOGPS Wellington but missing from LINZ
-;linzid=1800069	Oban Rd	-41.14296,174.83163
-;linzid=1792143	Farm Rd	-41.14268,174.83450
+0 LINZ ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Wellington
@@ -25,5 +13,5 @@ Start = 2021-12-04 13:29:39 +1300
 0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2021-12-04 13:29:41 +1300
-Processing time = 2.689164
+Finish = 2021-12-08 00:35:40 +1300
+Processing time = 1.951622

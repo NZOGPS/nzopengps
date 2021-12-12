@@ -1,19 +1,11 @@
-Start = 2021-12-04 13:29:45 +1300
+Start = 2021-12-13 09:49:16 +1300
 #############################
 
-12 LINZ ids are missing from NZOGPS Waikato
-;linzid=3082446	Arapatiki St	-37.8183990132684,174.868310824724
-;linzid=3082447	Ruruhi St	-37.8206176121547,174.868359247752
-;linzid=3082444	Tunarau St	-37.8206176121547,174.868359247752
-;linzid=3082445	Kapokapowai St	-37.8195907360435,174.868356863602
-;linzid=3082464	Patricia Pl	-37.557360202254,175.916288790051
-;linzid=3082463	Attwood Lane	-37.7884777515328,176.386075239945
-;linzid=3082465	Lecky Lane	-37.557360202254,175.916288790051
-;linzid=3082466	Beth Lane	-37.5572925265265,175.916013481564
-;linzid=3082469	Patty Lane	-37.1896614509627,174.832810022248
-;linzid=3082481	Old Farm Lane	-37.1234513355733,174.900673649877
-;linzid=3082483	Quartz Ave	-38.135351192199,176.202952752996
-;linzid=3082491	Orawahi Rd	-37.158165032576,174.714355041716
+4 LINZ ids are missing from NZOGPS Waikato
+;linzid=3082497	Country Lane	-37.8173277731827,175.739875432639
+;linzid=3082498	Pourewa Lane	-37.8117250615922,175.78474586661
+;linzid=3082530	Lockridge Dr	-38.6290445827703,175.913933915427
+;linzid=3082531	Lemonwood Lane	-38.6299682623913,175.913620727609
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -25,5 +17,5 @@ Start = 2021-12-04 13:29:45 +1300
 0 Number range ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
-Finish = 2021-12-04 13:29:49 +1300
-Processing time = 3.861636
+Finish = 2021-12-13 09:49:20 +1300
+Processing time = 4.350435

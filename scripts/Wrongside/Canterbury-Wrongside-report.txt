@@ -1,17 +1,16 @@
 10 entries in ..\..\LinzDataService\PaperRoads\Canterbury-WrongSide.txt
 155 entries in ..\..\LinzDataService\PaperRoads\Canterbury-LINZWrongSide.txt
-155 wrongside numbers, 5 not in Exclusion files
+154 wrongside numbers, 3 not in Exclusion files
 1 entries in Ignore list are no longer on the wrong side
 1985145	510A Falston Road, Totara Peak	2021/03/28 15:16	-44.384002,170.192195
 
-14 entries in Linz list are no longer on the wrong side
+13 entries in Linz list are no longer on the wrong side
 180111	8 PATRICIA PLACE	2013/10/21 16:41	-43.481407,172.576703
 286963	30 WHITEWASH HEAD ROAD	2013/10/16 10:40	-43.570800,172.773846	All the numbers here are quite close to the road 
 287171	5 WESTRIDGE	2013/10/16 10:37	-43.576500,172.771289	Middle of the road
 1531608	355 PESTERS ROAD	2013/10/09 12:21	-43.373616,172.326746
 2232120	890R Okains Bay Road, Okains Bay	2021/03/27 17:46	-43.723559,173.015800
 289025	700 LITTLE PIGEON BAY ROAD	2013/10/13 23:35	-43.639312,172.899851
-26172	8 DUREY ROAD	2013/10/21 16:40	-43.489378,172.543118	On  the median strip! 
 285455	8 DE THIER LANE	2013/10/21 15:30	-43.572809,172.754564	Not sure about this one. No obvious buildings on this side of the road.
 273586	12 CLEMENTINE LANE	2013/10/16 12:02	-43.561727,172.713428
 1523362	233 TE NGAWAI ROAD	2013/10/09 12:34	-44.242305,171.114121

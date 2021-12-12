@@ -1,6 +1,6 @@
 140 entries in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
 265 entries in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-340 wrongside numbers, 68 not in Exclusion files
+341 wrongside numbers, 69 not in Exclusion files
 52 entries in Ignore list are no longer on the wrong side
 1377512	33 TE KARAKA DRIVE	2013/12/14 16:38	-37.682891,176.039633
 721243	4 VILLAGE ROAD	2013/10/15 19:47	-38.516940,175.552521

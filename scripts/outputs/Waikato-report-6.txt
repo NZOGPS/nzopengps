@@ -1,8 +1,6 @@
-Start = 2021-12-04 13:30:07 +1300
+Start = 2021-12-13 09:49:40 +1300
 linzid	street_name	street_name_2	official_street_name
-3051063	Long Mile Rd		Titokorangi Dr	-38.16002,176.26844
-3082423	Panenehy Rd		Panenehu Rd	-37.98975,177.34921
 #############################
 
-Finish = 2021-12-04 13:30:11 +1300
-Processing time = 3.583939
+Finish = 2021-12-13 09:49:43 +1300
+Processing time = 3.707124

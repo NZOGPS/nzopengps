@@ -1,16 +1,7 @@
-Start = 2021-12-13 09:49:05 +1300
+Start = 2021-12-13 20:48:36 +1300
 #############################
 
-9 LINZ ids are missing from NZOGPS Central
-;linzid=3082526	Mapleleaf Way	-38.6566789289634,175.904595517579
-;linzid=3082525	Seven Oaks Dr	-38.6562905918061,175.905971458533
-;linzid=3082527	Broadleaf Way	-38.6563702661706,175.906670849985
-;linzid=3082528	Silverleaf Way	-38.6559537410733,175.907659389042
-;linzid=3082529	Otaketake Dr	-38.6527917109655,175.908475524189
-;linzid=3082530	Lockridge Dr	-38.6290445827703,175.913933915427
-;linzid=3082532	Olsen Pl	-38.6639221977141,175.989831790495
-;linzid=3082533	Benton Tce	-38.6777711173862,176.047193339636
-;linzid=3082534	Nga Tui Lane	-38.7047969324846,176.012867141052
+0 LINZ ids are missing from NZOGPS Central
 #############################
 
 0 LINZ ids are in NZOGPS Central but missing from LINZ
@@ -22,5 +13,5 @@ Start = 2021-12-13 09:49:05 +1300
 0 Number range ids are in NZOGPS Central but missing from LINZ
 #############################
 
-Finish = 2021-12-13 09:49:08 +1300
-Processing time = 3.425698
+Finish = 2021-12-13 20:48:38 +1300
+Processing time = 2.027505

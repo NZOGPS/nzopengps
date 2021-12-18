@@ -276,15 +276,24 @@
 1541368	478 Wilton Collieries Road, Glen Massey	2021/12/18 18:25	-37.693037,175.056599	perhaps should be further back, as it's opposite 496?
 1592039	530A Lund Road, Aongatete	2021/12/18 18:28	-37.617836,175.876381	a bit strange - between 449B and 425B..
 1634990	147 Toone Road, Waiotahe, Opotiki	2021/12/18 18:30	-38.045961,177.174315	also 147A previously reported. Based on location of 192. looks like they might be 140 or 164 depending on the driveway ;)
-2252339	10 Pizzini Road, Orini	2021/12/18 18:38	-37.530059,175.243101	not so much to go on, since 51 don't follow rapid, but these are opposite 50
+2252339	10 Pizzini Road, Orini	2021/12/18 18:38	-37.530059,175.243101	not so much to go on, since 51 doesn't follow rapid, but these are opposite 50
 2252338	16 Pizzini Road, Orini	2021/12/18 18:38	-37.530745,175.242644	ditto
 2252337	18 Pizzini Road, Orini	2021/12/18 18:39	-37.530142,175.241751	ditto
 1709060	568 Pokairoa Road, Matahina Forest	2021/12/18 18:48	-38.205291,176.785729
 857517	92 Burke Road, Wainui	2021/12/18 18:54	-38.012888,177.100120	a couple of new ones on this road. 190 was previously reported. All others follow RAPID. Odd that there's a 93A behind 92!
 1709433	164 Burke Road, Wainui	2021/12/18 18:54	-38.008823,177.104364	ditto
 1752421	2192 State Highway 3, Mahoenui	2021/12/18 19:01	-38.578915,174.841609	obvious dwelling but number is wrong side.
-1753889	6407 State Highway 35, Te Kaha	2021/12/18 19:36	-37.767557,177.682984	could be point is not ideally placed. No dwelling here.
+1753889	6407 State Highway 35, Te Kaha	2021/12/18 19:36	-37.767557,177.682984	could be point is not ideally placed? No obvious dwelling here.
 2147604	7 Glen Road, Glen Afton	2021/12/18 19:43	-37.610253,175.034160
 854242	34 Wardlaw Road, Waimana	2021/12/18 19:45	-38.139270,177.062154	Not only the wrong side of the road, but the wrong side of th river too.
 2183495	29 Hampton Downs Road, Hampton Downs	2021/12/18 19:47	-37.356814,175.079765
 850079	44A Grace Road, Taneatua	2021/12/18 19:48	-38.063314,176.983443
+2242154	33A Mellow Road, Ohaupo	2021/12/18 23:12	-37.881828,175.374894	also 33 previously reported
+1753903	800 Waiotahi Valley Road, Waiotahe Valley	2021/12/18 23:19	-38.080373,177.186861	Nothing obvious at 800. Buildings here, but the number looks like it should be 783 to me.
+1850313	2157 Scott Road, Mangakino	2021/12/18 23:55	-38.480636,175.584901	Fairly obvious driveway matching numbering at	S38.482994° E175.586694°
+723244	2352 Scott Road, Mangakino	2021/12/18 23:55	-38.481543,175.588245	no obvious features at either the coordinates or numbering.
+822883	586 Te Toke Road, Tahorakuri Forest	2021/12/19 00:01	-38.588826,176.269666	The points on this section of road appear to be offset to the west. There's a building matching RAPID atS38.588659° E176.270115°
+822884	596 Te Toke Road, Tahorakuri Forest	2021/12/19 00:01	-38.587339,176.270466	ditto	S38.588046° E176.270374°, and a building at	S38.588209° E176.271792°
+823881	638 Te Toke Road, Tahorakuri Forest	2021/12/19 00:01	-38.585219,176.271646	ditto	S38.585383° E176.271864°
+2003697	698 Te Toke Road, Tahorakuri Forest	2021/12/19 00:01	-38.583838,176.272350	no obvious building matching 698, but there is one around 656 at 	S38.584273° E176.272490°
+2093253	607 Whiriwhiri Road, Otaua	2021/12/19 00:15	-37.311213,174.686577	short section here with 600 and 612 previously reported on the wrong side. Others either end match RAPID.

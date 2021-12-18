@@ -1,11 +1,7 @@
-Start = 2021-12-13 09:49:16 +1300
+Start = 2021-12-17 18:29:59 +1300
 #############################
 
-4 LINZ ids are missing from NZOGPS Waikato
-;linzid=3082497	Country Lane	-37.8173277731827,175.739875432639
-;linzid=3082498	Pourewa Lane	-37.8117250615922,175.78474586661
-;linzid=3082530	Lockridge Dr	-38.6290445827703,175.913933915427
-;linzid=3082531	Lemonwood Lane	-38.6299682623913,175.913620727609
+0 LINZ ids are missing from NZOGPS Waikato
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -17,5 +13,5 @@ Start = 2021-12-13 09:49:16 +1300
 0 Number range ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
-Finish = 2021-12-13 09:49:20 +1300
-Processing time = 4.350435
+Finish = 2021-12-17 18:30:02 +1300
+Processing time = 3.195851

@@ -1,6 +1,6 @@
 11 entries in ..\..\LinzDataService\PaperRoads\Southland-WrongSide.txt
 145 entries in ..\..\LinzDataService\PaperRoads\Southland-LINZWrongSide.txt
-117 wrongside numbers, 3 not in Exclusion files
+118 wrongside numbers, 4 not in Exclusion files
 4 entries in Ignore list are no longer on the wrong side
 1578017	16B JOY STREET	2013/10/26 23:16	-45.095919,170.961474
 111752	309C McKenzie Road, Cattle Flat	2019/06/03 22:45	-45.697336,168.785246

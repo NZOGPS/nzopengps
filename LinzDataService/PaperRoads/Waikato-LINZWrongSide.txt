@@ -263,3 +263,28 @@
 1651237	1500 Jack Henry Road, Kinleith	2018/03/10 23:35	-38.229420,175.722733
 1311825	154 Ruakiwi Road, Waingaro	2018/03/10 23:40	-37.727164,174.956080	There is a driveway across the road, at S37°43.5957' E174°57.3350' that matches the correct RAPID numbering
 1311824	19 Ruakiwi Road, Waingaro	2018/03/10 23:44	-37.732471,174.967318	There is a driveway across the road, at S37°43.9393' E174°57.9995' that matches the correct RAPID numbering
+## New 20211218
+1281931	234 Maxted Road, Ramarama	2021/12/18 17:16	-37.155363,174.994174	location appears to correlate with a dwelling, number roughly right, but there's already 233 and 235
+1282856	222 Peach Hill Road, Ramarama	2021/12/18 17:36	-37.131208,175.003296	there seems to be a lot of even numbers on both sides of this road...
+1338596	113 Heights Road, Paerata	2021/12/18 17:23	-37.180017,174.889495	dwelling here, number roughly right. 114? 
+2155066	550 Mangatoi Road, Oropi	2021/12/18 17:49	-37.910678,176.199381	obvious dwellings here, numbering roughly right for RAPID. 490(799907) down the road is also odd, previously reported?
+1364319	540 Mangatoi Road, Oropi	2021/12/18 17:49	-37.911206,176.200445	ditto
+1366094	1500 Maniatutu Road, Pongakawa	2021/12/18 18:07	-37.933449,176.444752	obvious dwelling at the point, but also a building across the road where 1500 would be...
+1421731	34 Heath Road, Waihi	2021/12/18 18:09	-37.395122,175.854597	very close to 33A (745477) - duplicate?
+1432132	581 Uapoto Road, Taupiri	2021/12/18 18:15	-37.581588,175.230344	also 583 next door.
+1535188	4306 Ruatahuna Road, Ruatahuna	2021/12/18 18:23	-38.614073,176.875151
+1541368	478 Wilton Collieries Road, Glen Massey	2021/12/18 18:25	-37.693037,175.056599	perhaps should be further back, as it's opposite 496?
+1592039	530A Lund Road, Aongatete	2021/12/18 18:28	-37.617836,175.876381	a bit strange - between 449B and 425B..
+1634990	147 Toone Road, Waiotahe, Opotiki	2021/12/18 18:30	-38.045961,177.174315	also 147A previously reported. Based on location of 192. looks like they might be 140 or 164 depending on the driveway ;)
+2252339	10 Pizzini Road, Orini	2021/12/18 18:38	-37.530059,175.243101	not so much to go on, since 51 don't follow rapid, but these are opposite 50
+2252338	16 Pizzini Road, Orini	2021/12/18 18:38	-37.530745,175.242644	ditto
+2252337	18 Pizzini Road, Orini	2021/12/18 18:39	-37.530142,175.241751	ditto
+1709060	568 Pokairoa Road, Matahina Forest	2021/12/18 18:48	-38.205291,176.785729
+857517	92 Burke Road, Wainui	2021/12/18 18:54	-38.012888,177.100120	a couple of new ones on this road. 190 was previously reported. All others follow RAPID. Odd that there's a 93A behind 92!
+1709433	164 Burke Road, Wainui	2021/12/18 18:54	-38.008823,177.104364	ditto
+1752421	2192 State Highway 3, Mahoenui	2021/12/18 19:01	-38.578915,174.841609	obvious dwelling but number is wrong side.
+1753889	6407 State Highway 35, Te Kaha	2021/12/18 19:36	-37.767557,177.682984	could be point is not ideally placed. No dwelling here.
+2147604	7 Glen Road, Glen Afton	2021/12/18 19:43	-37.610253,175.034160
+854242	34 Wardlaw Road, Waimana	2021/12/18 19:45	-38.139270,177.062154	Not only the wrong side of the road, but the wrong side of th river too.
+2183495	29 Hampton Downs Road, Hampton Downs	2021/12/18 19:47	-37.356814,175.079765
+850079	44A Grace Road, Taneatua	2021/12/18 19:48	-38.063314,176.983443

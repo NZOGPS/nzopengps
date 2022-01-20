@@ -1,7 +1,7 @@
-Start = 2021-12-13 09:49:24 +1300
+Start = 2022-01-19 10:29:42 +1300
 linzid	street_name	street_name_2	official_street_name
 3079998	Minney Casey Rise		Minnie Casey Rise	-36.13182,174.18759
 #############################
 
-Finish = 2021-12-13 09:49:26 +1300
-Processing time = 1.689051
+Finish = 2022-01-19 10:29:43 +1300
+Processing time = 1.41348

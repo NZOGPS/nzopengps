@@ -1,7 +1,7 @@
-Start = 2021-12-13 09:48:56 +1300
+Start = 2022-01-19 10:29:17 +1300
 #############################
 
-25 LINZ ids are missing from NZOGPS Northland
+29 LINZ ids are missing from NZOGPS Northland
 ;linzid=3082354	Titoki Cl	-36.3505445121184,174.715446391548
 ;linzid=3082298	Merion Rise	-35.6832559701462,174.313080891393
 ;linzid=3082312	Flax Grv	-35.2719146,173.8998612333
@@ -27,6 +27,10 @@ Start = 2021-12-13 09:48:56 +1300
 ;linzid=3082438	Inlet Way	-36.0055272637046,174.478423368864
 ;linzid=3082439	Te Ihu Lane	-35.5843353635685,174.524644256211
 ;linzid=3082458	Kereru Lane	-36.3859973899688,174.750649822191
+;linzid=3082592	Watercourse Way	-35.6922568229241,174.332234949518
+;linzid=3082593	Parera Cres	-35.6779298663045,174.325103420485
+;linzid=3082605	Pine Valley Glade	-36.1046172923976,174.55420424103
+;linzid=3082606	Kauri Fields Way	-36.1144594469835,174.564355914224
 #############################
 
 1 LINZ ids are in NZOGPS Northland but missing from LINZ
@@ -39,5 +43,5 @@ Start = 2021-12-13 09:48:56 +1300
 0 Number range ids are in NZOGPS Northland but missing from LINZ
 #############################
 
-Finish = 2021-12-13 09:48:58 +1300
-Processing time = 1.6982
+Finish = 2022-01-19 10:29:18 +1300
+Processing time = 1.549185

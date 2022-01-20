@@ -1,6 +1,7 @@
-Start = 2021-12-13 20:48:38 +1300
+Start = 2022-01-19 10:29:48 +1300
 linzid	street_name	street_name_2	official_street_name
+3082530	Lockridge Dr		Lochridge Dr	-38.63810,175.91278
 #############################
 
-Finish = 2021-12-13 20:48:40 +1300
-Processing time = 1.892878
+Finish = 2022-01-19 10:29:51 +1300
+Processing time = 2.637518

@@ -1,11 +1,23 @@
-Start = 2021-12-18 15:29:59 +1300
+Start = 2022-01-19 10:29:30 +1300
 #############################
 
-1 LINZ ids are missing from NZOGPS Canterbury
+12 LINZ ids are missing from NZOGPS Canterbury
 ;linzid=3079720	Gold Valley Rd	-43.7070990510647,172.652569302629
+;linzid=3082552	Bethel Cl	-43.3056427264724,172.578000005372
+;linzid=3082570	Crosado Pl	-43.6195912828984,172.370655798164
+;linzid=3082569	Hayshed St	-43.6195912828984,172.370655798164
+;linzid=3082571	Marcoola Dr	-43.6193422241869,172.368523198167
+;linzid=3082579	Crawford St	-43.3119939730354,172.663525061051
+;linzid=3082580	Pateman St	-43.3106120137309,172.668524240767
+;linzid=3082582	Derbridge St	-43.3118269279646,172.667542342382
+;linzid=3082583	Edlin St	-43.3118269279646,172.667542342382
+;linzid=3082581	Wilkin Rd	-43.3112389086046,172.668008793871
+;linzid=3082584	Aitkin St	-43.3083186127664,172.665633850818
+;linzid=3082607	Piwakawaka Lane	-43.3106772781422,172.693496826233
 #############################
 
-0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
+1 LINZ ids are in NZOGPS Canterbury but missing from LINZ
+;linzid=3074394	Walkway	-43.50663,172.72737
 #############################
 
 0 Number range ids are missing from NZOGPS Canterbury
@@ -14,5 +26,5 @@ Start = 2021-12-18 15:29:59 +1300
 0 Number range ids are in NZOGPS Canterbury but missing from LINZ
 #############################
 
-Finish = 2021-12-18 15:30:01 +1300
-Processing time = 2.733684
+Finish = 2022-01-19 10:29:34 +1300
+Processing time = 3.448834

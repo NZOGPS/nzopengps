@@ -1,7 +1,15 @@
-Start = 2021-12-13 20:48:36 +1300
+Start = 2022-01-19 10:29:24 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Central
+8 LINZ ids are missing from NZOGPS Central
+;linzid=3082535	Whariki Rise	-38.7271568472578,176.083920880167
+;linzid=3082536	Tarata Pl	-38.7305449296842,176.081372808746
+;linzid=3082537	Wheki Pl	-38.7318790039019,176.078670710005
+;linzid=3082538	Neinei Pl	-38.731957505194,176.078461373226
+;linzid=3082539	Puka Pl	-38.7333122594352,176.076834136626
+;linzid=3082594	Welcome Way	-39.5729284575452,174.276759042812
+;linzid=3082598	Lens Way	-38.7013945640096,176.014612936188
+;linzid=3082601	Vickers Way	-38.7013851198077,176.014620663736
 #############################
 
 0 LINZ ids are in NZOGPS Central but missing from LINZ
@@ -13,5 +21,5 @@ Start = 2021-12-13 20:48:36 +1300
 0 Number range ids are in NZOGPS Central but missing from LINZ
 #############################
 
-Finish = 2021-12-13 20:48:38 +1300
-Processing time = 2.027505
+Finish = 2022-01-19 10:29:27 +1300
+Processing time = 2.989227

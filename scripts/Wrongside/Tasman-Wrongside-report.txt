@@ -1,6 +1,6 @@
 3 entries in ..\..\LinzDataService\PaperRoads\Tasman-WrongSide.txt
 84 entries in ..\..\LinzDataService\PaperRoads\Tasman-LINZWrongSide.txt
-74 wrongside numbers, 20 not in Exclusion files
+73 wrongside numbers, 19 not in Exclusion files
 33 entries in Linz list are no longer on the wrong side
 398370	126 Uruwhenua Road	2014/07/18 23:49	-40.996303,172.815299	Slightly the wrong side of the physical road
 1932207	590 Abel Tasman Drive, Clifton	2019/05/12 16:55	-40.843652,172.864235	Other addresses on this road match RAPID numbering.

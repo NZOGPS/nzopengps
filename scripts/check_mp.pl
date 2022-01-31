@@ -92,6 +92,7 @@ my %polytype = (
 	0x47 => "Large River  ",
 	0x4E => "Plantation   ",
 	0x50 => "Forest       ",
+	0x51 => "Wetland/Swamp",
 
 );
 my %sufiroadname;

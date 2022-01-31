@@ -1,8 +1,6 @@
-Start = 2022-01-19 10:29:57 +1300
+Start = 2022-02-01 09:29:09 +1300
 linzid	street_name	street_name_2	official_street_name
-3080665	Pukaki Rd		Pukaki Pl	-37.76510,175.23128
-3082530	Lockridge Dr		Lochridge Dr	-38.62909,175.91398
 #############################
 
-Finish = 2022-01-19 10:30:01 +1300
-Processing time = 3.734364
+Finish = 2022-02-01 09:29:12 +1300
+Processing time = 2.852032

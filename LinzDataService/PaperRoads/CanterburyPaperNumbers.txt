@@ -61,8 +61,6 @@
 1787344	B,1,12	Bluff Street	Coalgate (Canterbury, NZ)	16/08/2011 9:29:59 p.m.
 1780594	B,4,12	Charles Street	Coalgate (Canterbury, NZ)	16/08/2011 10:16:45 p.m.
 1780583	B,1,29	Upper High Street	Coalgate (Canterbury, NZ)	16/08/2011 10:45:15 p.m.
-1780496	B,4,36	Regent Street	Springfield (Canterbury, NZ)	16/08/2011 10:48:49 p.m.
-1780460	B,1,14	Princes Street	Springfield (Canterbury, NZ)	16/08/2011 10:27:27 p.m.
 1785022	O,543,561	E,514,578	Loburn Kowai Road
 1782685	O,5,9	Atom Lane	Woolston, Christchurch (Canterbury, NZ)	16/08/2011 9:55:53 p.m.
 1783962	E,76,140	Clarksons Road	McLeans Island, Christchurch (Canterbury, NZ)	16/08/2011 10:02:51 p.m.

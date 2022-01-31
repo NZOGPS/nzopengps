@@ -12,10 +12,8 @@
 1780341	St Leonard Street	Dunsandel
 1780374	George Square	Coalgate
 1780423	Wing Street	Coalgate
-1780460	Princes Street	Springfield
 1780461	Princes Street	Sheffield	28/04/2010 2:25p.m.
 1780473	High Street	Coalgate
-1780496	Regent Street	Springfield
 1780497	Kowai River Road	Springfield
 3057965	Riversdale Road	Arthurs Pass
 1780504	Bank Street	Coalgate

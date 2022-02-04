@@ -83,3 +83,12 @@
 2130538	583 Tasman View Road, Lower Moutere	2019/05/12 18:13	-41.194807,173.022408	Other addresses match RAPID. Obvious dwelling/construction here. Seems like it should be 546 based on RAPID.
 2040905	2589 Archers Road, Tennyson Inlet	2019/05/12 18:47	-41.114030,173.752623	Nothing at this point. RAPID match would be around	S41°06.7247' E173°45.2126'
 2008383	60 Horizon Way, Riwaka	2019/05/12 18:52	-41.078864,172.976667	This one's a bit strange. There's a dwelling matching 60, but there's another address there.
+# New 1:29 pm 4/02/2022
+587299	87 St Omer Road, Saint Omer	2022/02/04 13:30	-41.183473,173.975779
+399793	25 Richards Road, Mangarakau	2022/02/04 13:30	-40.643866,172.431766	Seems in the middle of the formed road. Matching dwelling is at S40°38.6355' E172°25.8875'
+2243859	168 Clova Bay Road, Totaranui	2022/02/04 13:32	-41.106378,174.047244	Possible matching dwelling at S41°06.2751' E174°02.8499'
+2243490	2820 Tadmor-Glenhope Road, Glenhope	2022/02/04 13:41	-41.636471,172.662247	Looks to be wrong number based on RAPID and other addresses. Should be 2019?
+1468626	107 Maxwell Pass Road, Taylor Pass, Blenheim	2022/02/04 13:43	-41.576274,173.950744	Not 100% this is wrong, as there's not many addresses to go on...
+1015227	19 Fenian Road, Karamea	2022/02/04 13:46	-41.215674,172.145195	Same side as 72 up the road
+1310763	2941 Kenepuru Road, Portage	2022/02/04 13:47	-41.200861,174.035618	Amid a whole lot of even numbers.
+1310764	2943 Kenepuru Road, Portage	2022/02/04 13:47	-41.200660,174.035523	ditto

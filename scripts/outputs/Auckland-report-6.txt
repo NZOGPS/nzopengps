@@ -1,9 +1,11 @@
-Start = 2022-01-19 10:30:01 +1300
+Start = 2022-02-12 16:56:35 +1300
 linzid	street_name	street_name_2	official_street_name
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
+2018182	Tikumu Rd		Daisy Burrell Dr	-36.62401,174.79408
+3081506	Farronfore Rd		Farranfore Rd	-37.08113,174.95167
 1821419	Valley Rd (off-road vehicles only)		Valley Rd	-36.66656,174.53579
 1830965	Hull Rd (4WD only, closed in Winter)		Hull Rd	-36.64738,174.58702
 #############################
 
-Finish = 2022-01-19 10:30:05 +1300
-Processing time = 4.548141
+Finish = 2022-02-12 16:56:39 +1300
+Processing time = 4.318321

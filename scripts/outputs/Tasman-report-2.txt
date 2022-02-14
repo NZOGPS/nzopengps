@@ -1,13 +1,9 @@
-Start = 2022-01-19 10:29:18 +1300
+Start = 2022-02-12 16:55:55 +1300
 #############################
 
-6 LINZ ids are missing from NZOGPS Tasman
-;linzid=3082480	Laxton Lane	-41.5134430464901,173.822218157418
-;linzid=3082484	Cranford Rd	-41.3358590793311,173.168896066249
+2 LINZ ids are missing from NZOGPS Tasman
 ;linzid=3082485	Wera Way	-40.8256075833,172.9071602167
-;linzid=3082486	Wharepapa Way	-41.3531630613381,173.177537226402
-;linzid=3082602	Korimako Rise	-41.2877859202644,173.808525957623
-;linzid=3082604	Beauchamp Lane	-41.2639466240499,173.914548894206
+;linzid=3082660	National St	-42.6338276366146,171.177752371246
 #############################
 
 3 LINZ ids are in NZOGPS Tasman but missing from LINZ
@@ -22,5 +18,5 @@ Start = 2022-01-19 10:29:18 +1300
 0 Number range ids are in NZOGPS Tasman but missing from LINZ
 #############################
 
-Finish = 2022-01-19 10:29:20 +1300
-Processing time = 1.96575
+Finish = 2022-02-12 16:55:56 +1300
+Processing time = 1.506678

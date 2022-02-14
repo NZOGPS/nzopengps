@@ -1,9 +1,11 @@
-3 entries in ..\..\LinzDataService\PaperRoads\Tasman-WrongSide.txt
-84 entries in ..\..\LinzDataService\PaperRoads\Tasman-LINZWrongSide.txt
-73 wrongside numbers, 19 not in Exclusion files
-33 entries in Linz list are no longer on the wrong side
+12 entries in ..\..\LinzDataService\PaperRoads\Tasman-WrongSide.txt
+Warning: 2243490 on line 90 in ..\..\LinzDataService\PaperRoads\Tasman-LINZWrongSide.txt - This ID is also set in the ignore file
+92 entries in ..\..\LinzDataService\PaperRoads\Tasman-LINZWrongSide.txt
+70 wrongside numbers, 3 not in Exclusion files
+37 entries in Linz list are no longer on the wrong side
 398370	126 Uruwhenua Road	2014/07/18 23:49	-40.996303,172.815299	Slightly the wrong side of the physical road
 1932207	590 Abel Tasman Drive, Clifton	2019/05/12 16:55	-40.843652,172.864235	Other addresses on this road match RAPID numbering.
+1413663	256 ELAINE BAY ROAD	2014/06/10 20:43	-41.054553,173.774734
 1128970	1095 MAITAI VALLEY ROAD	2014/06/10 22:29	-41.290704,173.371719
 1676913	589 UMERE ROAD	2014/06/09 22:48	-41.256113,172.186505	 Change of side compared to further south
 343134	206 CLOVA BAY ROAD	2014/06/10 20:48	-41.102304,174.045795
@@ -20,6 +22,7 @@
 566945	163 ONAHAU ROAD	2014/06/10 21:14	-41.225222,173.963268
 1676900	60 BAKER CREEK ROAD	2014/06/09 22:44	-41.241293,172.139368
 1769854	30 Tyler Road	2014/07/18 23:33	-41.607705,171.876390
+2243490	2820 Tadmor-Glenhope Road, Glenhope	2022/02/04 13:41	-41.636471,172.662247	Looks to be wrong number based on RAPID and other addresses. Should be 2019?
 1591797	20 MCLEAN DRIVE	2014/06/10 22:17	-41.288496,173.769648
 2130538	583 Tasman View Road, Lower Moutere	2019/05/12 18:13	-41.194807,173.022408	Other addresses match RAPID. Obvious dwelling/construction here. Seems like it should be 546 based on RAPID.
 641762	1 COURTNEY STREET EAST	2014/06/10 18:09	-41.129162,173.011496
@@ -31,6 +34,8 @@
 328252	127 PARSONS ROAD	2014/06/09 23:54	-41.592924,173.513796
 1015224	1359 MCCALLUMS MILL ROAD	2014/06/09 22:01	-41.151400,172.191000
 1303375	161 BULFORD ROAD	2014/06/10 22:23	-41.271661,173.579452
+1310764	2943 Kenepuru Road, Portage	2022/02/04 13:47	-41.200660,174.035523	ditto
+1310763	2941 Kenepuru Road, Portage	2022/02/04 13:47	-41.200861,174.035618	Amid a whole lot of even numbers.
 1015223	1350 MCCALLUMS MILL ROAD	2014/06/09 22:00	-41.151900,172.190000
 339747	17 HUNTER ROAD	2014/06/10 21:53	-41.430385,173.965751
 321241	48 Biggsburn Way	2014/07/19 01:07	-41.216772,173.345598

@@ -1,8 +1,8 @@
 12 entries in ..\..\LinzDataService\PaperRoads\Tasman-WrongSide.txt
 Warning: 2243490 on line 90 in ..\..\LinzDataService\PaperRoads\Tasman-LINZWrongSide.txt - This ID is also set in the ignore file
 92 entries in ..\..\LinzDataService\PaperRoads\Tasman-LINZWrongSide.txt
-70 wrongside numbers, 3 not in Exclusion files
-37 entries in Linz list are no longer on the wrong side
+71 wrongside numbers, 2 not in Exclusion files
+35 entries in Linz list are no longer on the wrong side
 398370	126 Uruwhenua Road	2014/07/18 23:49	-40.996303,172.815299	Slightly the wrong side of the physical road
 1932207	590 Abel Tasman Drive, Clifton	2019/05/12 16:55	-40.843652,172.864235	Other addresses on this road match RAPID numbering.
 1413663	256 ELAINE BAY ROAD	2014/06/10 20:43	-41.054553,173.774734
@@ -34,8 +34,6 @@ Warning: 2243490 on line 90 in ..\..\LinzDataService\PaperRoads\Tasman-LINZWrong
 328252	127 PARSONS ROAD	2014/06/09 23:54	-41.592924,173.513796
 1015224	1359 MCCALLUMS MILL ROAD	2014/06/09 22:01	-41.151400,172.191000
 1303375	161 BULFORD ROAD	2014/06/10 22:23	-41.271661,173.579452
-1310764	2943 Kenepuru Road, Portage	2022/02/04 13:47	-41.200660,174.035523	ditto
-1310763	2941 Kenepuru Road, Portage	2022/02/04 13:47	-41.200861,174.035618	Amid a whole lot of even numbers.
 1015223	1350 MCCALLUMS MILL ROAD	2014/06/09 22:00	-41.151900,172.190000
 339747	17 HUNTER ROAD	2014/06/10 21:53	-41.430385,173.965751
 321241	48 Biggsburn Way	2014/07/19 01:07	-41.216772,173.345598

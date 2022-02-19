@@ -43,3 +43,6 @@
 396853	25 Rangatira Road, Tawa, Wellington	2021/08/30 15:47	-41.159423,174.839757
 2218149	50A Opau Road, Makara, Wellington	2021/08/30 16:10	-41.237735,174.706354
 1691729	100A Bulls Run Road, Moonshine Valley	2021/08/30 16:11	-41.084984,175.007846
+377607	22 Telford Terrace, Oriental Bay, Wellington	2022/02/19 13:09	-41.292597,174.795892
+377616	24 Telford Terrace, Oriental Bay, Wellington	2022/02/19 13:09	-41.292492,174.795793
+909022	26 Telford Terrace, Oriental Bay, Wellington	2022/02/19 13:09	-41.292405,174.795738

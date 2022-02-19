@@ -20,6 +20,9 @@
 'get date and convert to string
 '
 
+Set objStdErr = WScript.StdErr	
+objStdErr.WriteLine ("Datescript running\n")
+
 Const YrVerFN = "YearVersion.txt"
 Set WshShell = WScript.CreateObject("WScript.Shell")
 
@@ -61,6 +64,7 @@ Function getVer(findYear)
 			yearVerArr(2,i) = rematch(0).SubMatches(2)
 			if StrComp(CStr(thisYear), yearVerArr(0,i)) = 0  Then 
 				newVer = CInt(yearVerArr(1,i))
+				objStdErr.WriteLine	("New version is " & newVer)			
 				VerDateDiff = DateDiff("d",newDate,yearVerArr(2,i))
 			End If
 			i = i + 1
@@ -78,6 +82,7 @@ Function getVer(findYear)
 			getVer = newVer
 		Else
 			getVer = newVer - 1 'no, use old version
+			objStdErr.WriteLine	("Old version less than one day old - keep old version " & getVer)
 		End If
 	End If
 End Function

@@ -1,4 +1,4 @@
-Start = 2022-02-18 00:38:42 +1300
+Start = 2022-02-20 14:35:56 +1300
 linzid	street_name	street_name_2	official_street_name
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
 2018182	Tikumu Rd		Daisy Burrell Dr	-36.62401,174.79408
@@ -7,5 +7,5 @@ linzid	street_name	street_name_2	official_street_name
 1830965	Hull Rd (4WD only, closed in Winter)		Hull Rd	-36.64738,174.58702
 #############################
 
-Finish = 2022-02-18 00:38:45 +1300
-Processing time = 2.784926
+Finish = 2022-02-20 14:35:59 +1300
+Processing time = 3.301709

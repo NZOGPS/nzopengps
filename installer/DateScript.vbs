@@ -21,7 +21,7 @@
 '
 
 Set objStdErr = WScript.StdErr	
-objStdErr.WriteLine ("Datescript running\n")
+'objStdErr.WriteLine ("Datescript running")
 
 Const YrVerFN = "YearVersion.txt"
 Set WshShell = WScript.CreateObject("WScript.Shell")
@@ -64,8 +64,9 @@ Function getVer(findYear)
 			yearVerArr(2,i) = rematch(0).SubMatches(2)
 			if StrComp(CStr(thisYear), yearVerArr(0,i)) = 0  Then 
 				newVer = CInt(yearVerArr(1,i))
-				objStdErr.WriteLine	("New version is " & newVer)			
-				VerDateDiff = DateDiff("d",newDate,yearVerArr(2,i))
+				objStdErr.WriteLine	("Old version is " & newVer)			
+				VerDateDiff = DateDiff("d",yearVerArr(2,i),newDate)
+				'objStdErr.WriteLine ("Old version is "&VerDateDiff&" days old "&"ND: "&newDate&" yva: "& yearVerArr(2,i))
 			End If
 			i = i + 1
 		End If

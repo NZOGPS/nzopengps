@@ -1,4 +1,3 @@
-175.08503303,-37.08303888,"35 Wattie Road, Hunua",Wrong Side: 24407
 175.42279457,-36.88407140,"1090A Thames Coast Road, Kereta",Wrong Side: 705693
 175.71832233,-36.95016462,"67 Hamiltons Road, Coroglen",Wrong Side: 733268
 175.80835565,-36.97521813,"195 Paul Road, Whenuakite",Wrong Side: 741998
@@ -40,6 +39,10 @@
 174.64253144,-36.91964732,"4 Tokai Place, Glen Eden, Auckland",Wrong Side: 1991393
 174.64254029,-36.91961136,"6 Tokai Place, Glen Eden, Auckland",Wrong Side: 1991394
 174.64255041,-36.91957580,"8 Tokai Place, Glen Eden, Auckland",Wrong Side: 1991931
+174.69842472,-36.87569820,"7 Kakatai Lane, Waterview, Auckland",Wrong Side: 2006648
+174.69849594,-36.87572343,"5 Kakatai Lane, Waterview, Auckland",Wrong Side: 2006649
+174.69855826,-36.87575607,"3 Kakatai Lane, Waterview, Auckland",Wrong Side: 2006650
+174.69861910,-36.87578723,"1 Kakatai Lane, Waterview, Auckland",Wrong Side: 2006651
 175.03842004,-36.81562249,"200 Te Whau Drive, Waiheke Island",Wrong Side: 2010171
 174.98088014,-36.94381089,"79 Matthias Place, Whitford",Wrong Side: 2020547
 174.92401554,-36.96800663,"1 Lemon Tree Lane, Flat Bush, Auckland",Wrong Side: 2023386
@@ -49,8 +52,6 @@
 175.00548961,-36.77230050,"61 Korora Road, Oneroa, Waiheke Island",Wrong Side: 2044297
 175.06521073,-36.78814649,"22 Te Makiri Road, Ostend, Waiheke Island",Wrong Side: 2044346
 174.64313286,-37.04518463,"234 Big Bay Road, Manukau Heads",Wrong Side: 2046027
-174.62486045,-36.83617289,"4 Mahinga Place, Massey, Auckland",Wrong Side: 2100788
-174.62440498,-36.83620420,"5 Mahinga Place, Massey, Auckland",Wrong Side: 2100789
 174.72795531,-36.66267883,"7 Takahuri Place, Okura Bush",Wrong Side: 2123938
 174.66507362,-36.61467538,"33 Waterloo Road, Silverdale",Wrong Side: 2123976
 174.59932853,-36.76290619,"100 Riverhead Point Drive, Riverhead",Wrong Side: 2124530
@@ -127,12 +128,6 @@
 174.65999085,-36.79717904,"4 Westland Wasp Road, Hobsonville, Auckland",Wrong Side: 2227415
 174.66003935,-36.79720733,"6 Westland Wasp Road, Hobsonville, Auckland",Wrong Side: 2227416
 175.75282094,-36.84307034,"9 Joyce Harsant Place, Cooks Beach",Wrong Side: 2227769
-174.61763176,-36.84603056,"2 Wharara Lane, Massey, Auckland",Wrong Side: 2233434
-174.61763285,-36.84593922,"4 Wharara Lane, Massey, Auckland",Wrong Side: 2233435
-174.61764100,-36.84589627,"6 Wharara Lane, Massey, Auckland",Wrong Side: 2233436
-174.61764590,-36.84586039,"8 Wharara Lane, Massey, Auckland",Wrong Side: 2233437
-174.61764916,-36.84582396,"10 Wharara Lane, Massey, Auckland",Wrong Side: 2233438
-174.61765514,-36.84577394,"12 Wharara Lane, Massey, Auckland",Wrong Side: 2233439
 175.26036544,-36.97579325,"95B Deerys Road, Orere Point",Wrong Side: 2247138
 174.95210327,-37.08054980,"2 Woodstock Lane, Opaheke, Papakura",Wrong Side: 2248703
 174.95204795,-37.08061827,"4 Woodstock Lane, Opaheke, Papakura",Wrong Side: 2248704
@@ -145,7 +140,10 @@
 174.95166959,-37.08088986,"20 Woodstock Lane, Opaheke, Papakura",Wrong Side: 2248712
 174.64256216,-36.91953272,"10 Tokai Place, Glen Eden, Auckland",Wrong Side: 2249456
 174.90393844,-37.09339691,"17 Walters Road, Karaka",Wrong Side: 2258249
+174.90102468,-37.04149294,"5 Lady McKenzie Mews, Takanini",Wrong Side: 2267824
 174.65358006,-36.87536280,"4 Niu Lane, Te Atatu South, Auckland",Wrong Side: 2270566
 174.65357904,-36.87536280,"12 Niu Lane, Te Atatu South, Auckland",Wrong Side: 2270567
 174.65357802,-36.87536382,"28 Niu Lane, Te Atatu South, Auckland",Wrong Side: 2270571
 174.65357802,-36.87536179,"50 Niu Lane, Te Atatu South, Auckland",Wrong Side: 2270574
+174.90126520,-37.04202278,"12 Lady McKenzie Mews, Takanini",Wrong Side: 2270624
+174.90112385,-37.04199107,"14 Lady McKenzie Mews, Takanini",Wrong Side: 2270625

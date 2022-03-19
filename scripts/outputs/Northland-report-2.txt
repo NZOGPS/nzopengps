@@ -1,30 +1,12 @@
-Start = 2022-02-12 16:55:53 +1300
+Start = 2022-03-19 14:39:06 +1300
 #############################
 
-19 LINZ ids are missing from NZOGPS Northland
-;linzid=3082629	Sylvia Lane	-35.7526203625864,174.272224749316
-;linzid=3082630	Hepara Rise	-36.0185481,174.4592623667
-;linzid=3082631	Mimiha Ridge Lane	-35.4428657167,174.3427110833
-;linzid=3082635	Bethpage Rise	-35.6841137319968,174.312986436591
-;linzid=3082636	Monterey Rise	-35.6842542537808,174.312892218779
-;linzid=3082632	Hauhou Lane	-35.8382087758013,174.459888392881
-;linzid=3082633	Kentia Crt	-35.8384180215919,174.459950862229
-;linzid=3082634	Freer Lane	-35.7476237641838,174.431452356514
-;linzid=3082637	Harrison Dr	-35.6760387487852,174.324443491246
-;linzid=3082638	Cascade Cres	-35.6768988457718,174.322472233524
-;linzid=3082639	Tupehau Rd	-35.8335420797691,174.456888447651
-;linzid=3082640	Karearea Lane	-35.8316518382369,174.462250100767
-;linzid=3082641	Lemonwood Rise	-35.8001909862808,174.278464527646
-;linzid=3082642	Nova Way	-35.6494044333,174.28634255
-;linzid=3082643	Rock Ridge Dr	-35.6883678623118,174.287903849446
-;linzid=3082644	Marusumi Rd	-35.8176395992152,174.298694223475
-;linzid=3082645	Seaside Cl	-35.7072959122312,174.518656784163
-;linzid=3082646	Kewini Grv	-36.3534230627939,174.714892770013
-;linzid=3082649	Te Ngahere Lane	-36.2130768972479,174.352593036182
+2 LINZ ids are missing from NZOGPS Northland
+;linzid=3082734	Bonnie Doon Pl	-35.6609868884331,174.321670490831
+;linzid=3082747	Sunset Way	-35.8829710244929,174.451751357587
 #############################
 
-1 LINZ ids are in NZOGPS Northland but missing from LINZ
-;linzid=3077231	Walkway	-36.32297,174.77707
+0 LINZ ids are in NZOGPS Northland but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Northland
@@ -33,5 +15,5 @@ Start = 2022-02-12 16:55:53 +1300
 0 Number range ids are in NZOGPS Northland but missing from LINZ
 #############################
 
-Finish = 2022-02-12 16:55:54 +1300
-Processing time = 1.459128
+Finish = 2022-03-19 14:39:07 +1300
+Processing time = 1.535618

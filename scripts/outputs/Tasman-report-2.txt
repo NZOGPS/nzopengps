@@ -1,15 +1,22 @@
-Start = 2022-02-18 00:38:27 +1300
+Start = 2022-03-19 14:39:08 +1300
 #############################
 
-2 LINZ ids are missing from NZOGPS Tasman
+8 LINZ ids are missing from NZOGPS Tasman
 ;linzid=3082485	Wera Way	-40.8256075833,172.9071602167
 ;linzid=3082660	National St	-42.6338276366146,171.177752371246
+;linzid=3082682	Te Ara Arapaoa	-41.2884269977302,174.014871461297
+;linzid=3082691	Wai Iti Ave	-41.5243782625563,173.966940069647
+;linzid=3082690	Te Ara Kaimoana	-41.2681438955178,174.038071255133
+;linzid=3082693	Whareatea Rd	-41.52327040548,173.965982447299
+;linzid=3082692	Nikau Dr	-41.526184340468,173.965816350795
+;linzid=3082694	Ketu Lane	-41.52327040548,173.965982447299
 #############################
 
-3 LINZ ids are in NZOGPS Tasman but missing from LINZ
+4 LINZ ids are in NZOGPS Tasman but missing from LINZ
 ;linzid=1789025	Cemetery Rd	-41.12734,173.01964
 ;linzid=3074928	Roadway	-41.26948,174.04130
 ;linzid=3076858	Walkway	-41.33602,173.18486
+;linzid=3082486	Wharepapa Way	-41.35316,173.17754
 #############################
 
 0 Number range ids are missing from NZOGPS Tasman
@@ -18,5 +25,5 @@ Start = 2022-02-18 00:38:27 +1300
 0 Number range ids are in NZOGPS Tasman but missing from LINZ
 #############################
 
-Finish = 2022-02-18 00:38:28 +1300
-Processing time = 1.446922
+Finish = 2022-03-19 14:39:09 +1300
+Processing time = 1.767529

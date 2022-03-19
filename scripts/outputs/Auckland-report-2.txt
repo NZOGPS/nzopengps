@@ -1,20 +1,19 @@
-Start = 2022-02-20 14:35:53 +1300
+Start = 2022-03-19 14:39:28 +1300
 #############################
 
-5 LINZ ids are missing from NZOGPS Auckland
+8 LINZ ids are missing from NZOGPS Auckland
+;linzid=1806177	Hazlett Rd	-36.9684726,175.49618305
 ;linzid=3082597	Kitea Pl	-36.9592609367534,174.793124558421
-;linzid=3082647	Willowherb Lane	-36.8008265871137,174.658716110732
-;linzid=3082661	Motutere Dr	-36.7342778075029,175.660288088582
-;linzid=3082662	Riria Way	-36.7336842772701,175.660888155086
-;linzid=3082664	Kopani Rd	-36.7342778075029,175.660288088582
+;linzid=3082671	Kaituhi Lane	-36.7238684788876,174.630559117833
+;linzid=3082672	Ashdown Park Lane	-36.7514950330683,174.60410552594
+;linzid=3082695	Ikara Rd	-36.9623425284344,174.851844880846
+;linzid=3082705	Dotterel Pl	-36.8250313833,174.6154300833
+;linzid=3082706	Patariki Way	-36.8043042024252,174.692760780055
+;linzid=3082712	Koromiko Way	-37.0896849398532,174.941405057465
 #############################
 
-5 LINZ ids are in NZOGPS Auckland but missing from LINZ
-;linzid=3075739	Walkway	-36.80325,174.72681
-;linzid=3080792	Reme Pl	-37.06007,174.97648
-;linzid=3080793	Piwakawaka Cl	-37.06074,174.97618
-;linzid=3080791	Whero Pl	-37.05977,174.97619
-;linzid=3080795	Heketara Pl	-37.06073,174.97490
+1 LINZ ids are in NZOGPS Auckland but missing from LINZ
+;linzid=3080942	Morena St	-36.98383,174.94265
 #############################
 
 0 Number range ids are missing from NZOGPS Auckland
@@ -23,5 +22,5 @@ Start = 2022-02-20 14:35:53 +1300
 0 Number range ids are in NZOGPS Auckland but missing from LINZ
 #############################
 
-Finish = 2022-02-20 14:35:56 +1300
-Processing time = 2.872437
+Finish = 2022-03-19 14:39:31 +1300
+Processing time = 3.725312

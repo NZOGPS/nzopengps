@@ -1,10 +1,26 @@
-Start = 2022-02-18 00:38:22 +1300
+Start = 2022-03-19 14:39:09 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Southland
+15 LINZ ids are missing from NZOGPS Southland
+;linzid=3082667	Tane Way	-46.3747309514996,168.366317420697
+;linzid=3082673	Puddy Pl	-45.8783799780652,170.385863160771
+;linzid=3082674	Dallas Lane	-45.8987026870105,170.483961303679
+;linzid=3082675	Nimon Lane	-45.8989043654325,170.483045673292
+;linzid=3082676	Water Tank Dr	-45.9103071141494,170.460357287514
+;linzid=3082678	Loess Pl	-45.9104217519675,170.459551123202
+;linzid=3082677	Fitzpatrick Cres	-45.9104217519675,170.459551123202
+;linzid=3082679	Telford St	-45.874051458971,170.369858947826
+;linzid=3082700	Heather Lane	-45.0572302524747,169.175446947282
+;linzid=3082698	Quinns Way	-45.060526906809,169.175463480207
+;linzid=3082699	Harrys Pl	-45.0575114837413,169.175445104685
+;linzid=3082701	Spillane Grv	-45.0580879295812,169.175448617457
+;linzid=3082702	Wee Cl	-45.0590646044187,169.175454569162
+;linzid=3082703	Leitch Lane	-45.0589715217842,169.175454001931
+;linzid=3082704	Highlands Ave	-45.0594327388964,169.175454093011
 #############################
 
-0 LINZ ids are in NZOGPS Southland but missing from LINZ
+1 LINZ ids are in NZOGPS Southland but missing from LINZ
+;linzid=3077033	Walkway	-45.03259,168.67025
 #############################
 
 0 Number range ids are missing from NZOGPS Southland
@@ -13,5 +29,5 @@ Start = 2022-02-18 00:38:22 +1300
 0 Number range ids are in NZOGPS Southland but missing from LINZ
 #############################
 
-Finish = 2022-02-18 00:38:24 +1300
-Processing time = 2.699347
+Finish = 2022-03-19 14:39:13 +1300
+Processing time = 3.752847

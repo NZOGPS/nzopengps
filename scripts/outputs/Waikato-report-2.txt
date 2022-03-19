@@ -1,10 +1,28 @@
-Start = 2022-02-20 14:35:32 +1300
+Start = 2022-03-19 14:39:23 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Waikato
+17 LINZ ids are missing from NZOGPS Waikato
+;linzid=3082668	Mondo Way	-37.7257885012316,176.178765439527
+;linzid=3082670	Hiwi Tauroa Rd	-37.1427044900686,174.890130268503
+;linzid=3082696	Kauri Lane	-37.6518816518418,176.02142243575
+;linzid=3082697	Oyster Pl	-37.6582766362721,176.026929047849
+;linzid=3082708	Nicholson Ave	-38.0226108250648,175.335741547084
+;linzid=3082709	Page Cres	-38.0229821868505,175.335244433445
+;linzid=3082717	Warren Lane	-37.6485973905075,175.521029354236
+;linzid=3082718	Crawford Lane	-37.64536730262,175.520727824474
+;linzid=3082714	Barberry Dr	-37.6465538774534,175.520987903091
+;linzid=3082716	Lindsay St	-37.6469766123782,175.520248282362
+;linzid=3082715	Hoki Ave	-37.6469766123782,175.520248282362
+;linzid=3082719	Maru St	-37.6471263979169,175.523648105786
+;linzid=3082735	Kelleria Way	-37.7191458198445,176.333922853521
+;linzid=3082736	Manuka Pl	-37.8969917835011,175.474954970736
+;linzid=3082748	Hine Dr	-38.1360670660162,176.295997109466
+;linzid=3082749	Hinehou Way	-38.1360670660162,176.295997109466
+;linzid=3082750	Tama Cl	-38.1361238777586,176.296657023145
 #############################
 
-0 LINZ ids are in NZOGPS Waikato but missing from LINZ
+1 LINZ ids are in NZOGPS Waikato but missing from LINZ
+;linzid=1810539	Priest Rd	-38.13169,176.25704
 #############################
 
 0 Number range ids are missing from NZOGPS Waikato
@@ -13,5 +31,5 @@ Start = 2022-02-20 14:35:32 +1300
 0 Number range ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
-Finish = 2022-02-20 14:35:35 +1300
-Processing time = 3.266479
+Finish = 2022-03-19 14:39:28 +1300
+Processing time = 4.079244

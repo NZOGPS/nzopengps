@@ -1,11 +1,23 @@
-Start = 2022-02-20 14:35:47 +1300
+Start = 2022-03-19 14:39:20 +1300
 #############################
 
-1 LINZ ids are missing from NZOGPS Canterbury
+12 LINZ ids are missing from NZOGPS Canterbury
 ;linzid=3079720	Gold Valley Rd	-43.7070990510647,172.652569302629
+;linzid=3082669	Oakbridge Blvd	-43.4737329958127,172.638630449833
+;linzid=3082683	Burkett St	-43.4724442378389,172.640091316673
+;linzid=3082684	Jardine Pl	-43.473383061282,172.639373474279
+;linzid=3082685	Reece Pl	-43.4736089168388,172.637747830452
+;linzid=3082711	Harrier Pl	-43.1538344448925,172.743532465545
+;linzid=3082737	Hendrick Lane	-43.5893936942995,172.378276479665
+;linzid=3082738	Incentivise Lane	-43.6323781532377,172.495028922982
+;linzid=3082739	Carlton Lane	-43.6307789815423,172.494334366717
+;linzid=3082741	Walford Way	-43.4981524273348,172.120730288228
+;linzid=3082740	Eric Crozier Rd	-43.4981869040687,172.120766121957
+;linzid=3082742	Summers Rd	-43.4981869040687,172.120766121957
 #############################
 
-0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
+1 LINZ ids are in NZOGPS Canterbury but missing from LINZ
+;linzid=1839794	Burrows Lane	-43.31050,172.69391
 #############################
 
 0 Number range ids are missing from NZOGPS Canterbury
@@ -14,5 +26,5 @@ Start = 2022-02-20 14:35:47 +1300
 0 Number range ids are in NZOGPS Canterbury but missing from LINZ
 #############################
 
-Finish = 2022-02-20 14:35:50 +1300
-Processing time = 2.851025
+Finish = 2022-03-19 14:39:23 +1300
+Processing time = 3.671945

@@ -1,8 +1,7 @@
-Start = 2022-03-19 14:39:44 +1300
+Start = 2022-03-20 19:10:32 +1300
 linzid	street_name	street_name_2	official_street_name
 3033541	Cascade Pyke Valley Rd		Cascade Pyke Valley Road - legality not determined	-44.31153,168.22678
-3082087	Camelia Lane		Camellia Lane	-43.37819,172.63893
 #############################
 
-Finish = 2022-03-19 14:39:47 +1300
-Processing time = 3.080521
+Finish = 2022-03-20 19:10:34 +1300
+Processing time = 2.089735

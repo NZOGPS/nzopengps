@@ -1,7 +1,6 @@
-Start = 2022-03-19 14:39:38 +1300
+Start = 2022-03-20 19:10:27 +1300
 linzid	street_name	street_name_2	official_street_name
-3082305	Whangaenu Pl		Whangaehu Pl	-39.52717,176.91309
 #############################
 
-Finish = 2022-03-19 14:39:41 +1300
-Processing time = 2.946806
+Finish = 2022-03-20 19:10:29 +1300
+Processing time = 1.769987

@@ -1,8 +1,6 @@
-Start = 2022-03-19 14:39:47 +1300
+Start = 2022-03-27 22:53:00 +1300
 linzid	street_name	street_name_2	official_street_name
-1814799	Mawake Rd		Mawake Taupo Rd	-38.08893,176.67453
-1809872	Te Ariki Pl		Hine Te Ariki Pl	-38.08511,176.69254
 #############################
 
-Finish = 2022-03-19 14:39:51 +1300
-Processing time = 3.785398
+Finish = 2022-03-27 22:53:02 +1300
+Processing time = 2.733036

@@ -24,3 +24,4 @@
 1819427	E,24,24	Devon St	Mangawhai Heads, Mangawhai(Northland,NZ)	2019/08/10 09:40	-36.106210,174.591090
 3079468	E,36,36	Pukeone Lane	Mangawhai(Northland,NZ)	2019/08/12 15:51	-36.142790,174.621630
 3058807	O,51,51	Karaka Bay Rd	Great Barrier Island (Aotea Island)(Auckland,NZ)	2021/05/29 15:06	-36.144830,175.348150
+3029817	O,47,47	Kaipara Flats Rd	Dome Forest(Auckland,NZ)	2022/04/27 17:58	-36.388800,174.624480

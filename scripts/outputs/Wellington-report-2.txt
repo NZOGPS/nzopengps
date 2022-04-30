@@ -1,40 +1,17 @@
-Start = 2022-04-30 12:58:22 +1200
+Start = 2022-04-30 23:29:22 +1200
 #############################
 
-20 LINZ ids are missing from NZOGPS Wellington
-;linzid=3082783	Kapiti Expressway	-40.8664293993732,175.039617043547
-;linzid=3082784	Peka Peka Link Rd	-40.8452055719053,175.081660354031
-;linzid=3082754	Karuhiruhi St	-40.8611381321069,175.064364463165
-;linzid=3082756	Kiwi Pukupuku Cl	-40.8595204341712,175.066105187435
-;linzid=3082755	Kotuku Ngutupapa Way	-40.8595204341712,175.066105187435
-;linzid=3082757	Korimako Cl	-40.8611381321069,175.064364463165
-;linzid=3082763	Kopua Pl	-41.1220660456551,174.886000662141
-;linzid=3082764	Tai Lane	-41.1215006677416,174.885423221282
-;linzid=3082765	Kohu Way	-41.1220660456551,174.886000662141
-;linzid=3082778	Kenepuru Link Rd	-41.1503097730356,174.840913734161
-;linzid=3082777	Te Ara Nui o Te Rangihaeata	-41.1589797731781,174.837080489195
-;linzid=3082779	Waitangirua Link Rd	-41.130418592239,174.899178097453
-;linzid=3082780	Te Ara Kapehu	-41.130418592239,174.899178097453
-;linzid=3082782	Paekakariki Link Rd	-40.9825380120187,174.969880212016
-;linzid=3082786	Ropata Te Ao Way	-40.758286054336,175.167558566283
-;linzid=3082787	Te Puke Te Ao Way	-40.7572068414466,175.16413459741
-;linzid=3082809	Birlee Lane	-40.2958654131782,175.457771420646
-;linzid=3082837	Hokowhitu Crt	-40.3622992991378,175.636332847861
-;linzid=3082853	Stunsail Lane	-41.1224222944826,174.900820507803
-;linzid=3082785	Te Kowhai Link Rd	-40.8402844797155,175.085156409193
+0 LINZ ids are missing from NZOGPS Wellington
 #############################
 
-1 LINZ ids are in NZOGPS Wellington but missing from LINZ
-;linzid=3077895	~[0x04]1	-40.86663,175.03921
+0 LINZ ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Wellington
 #############################
 
-2 Number range ids are in NZOGPS Wellington but missing from LINZ
-;linznumbid=1000147	linzid=3027687	~[0x04]1	-40.94640,174.99067
-;linznumbid=1000155	linzid=3027687	~[0x04]1	-40.94207,174.99218
+0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2022-04-30 12:58:25 +1200
-Processing time = 2.710143
+Finish = 2022-04-30 23:29:24 +1200
+Processing time = 1.995798

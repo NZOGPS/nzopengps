@@ -1,11 +1,30 @@
-Start = 2022-03-27 22:43:49 +1300
+Start = 2022-04-30 12:58:25 +1200
 #############################
 
-1 LINZ ids are missing from NZOGPS Canterbury
+19 LINZ ids are missing from NZOGPS Canterbury
 ;linzid=3079720	Gold Valley Rd	-43.7070990510647,172.652569302629
+;linzid=3082753	Westview Dr	-43.9143784435136,171.709685025869
+;linzid=3082806	Kate Pl	-43.6029310295937,172.38904392843
+;linzid=3082810	Washington Dr	-44.3559154801323,171.235838593437
+;linzid=3082815	Ferbane Way	-43.5863415166623,172.573402561619
+;linzid=3082816	Gusto Lane	-43.5863415166623,172.573402561619
+;linzid=3082818	James Mackenzie Dr	-43.5847622188195,172.57882224549
+;linzid=3082817	Glendore Dr	-43.5847622188195,172.57882224549
+;linzid=3082819	Kahurangi Rd	-43.5735034636655,172.537801849025
+;linzid=3082812	Aruhe Rd	-43.5542320335394,172.503856822753
+;linzid=3082825	Sanders Way	-43.6319357022875,172.381696385281
+;linzid=3082820	Mania Rd	-43.5546973141562,172.503306325906
+;linzid=3082821	Matuku Lane	-43.5771027754809,172.710938340195
+;linzid=3082822	Storr Cl	-43.5847622188195,172.57882224549
+;linzid=3082823	Zion Pl	-43.5735034636655,172.537801849025
+;linzid=3082824	Amrit Lane	-43.6186996791697,172.381912052767
+;linzid=3082761	Huntaway Lane	-43.658945512011,172.189630704042
+;linzid=3082762	Wayleggo Pl	-43.658945512011,172.189630704042
+;linzid=3082855	Sugarloaf Lane	-43.535307669025,172.635456454684
 #############################
 
-0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
+1 LINZ ids are in NZOGPS Canterbury but missing from LINZ
+;linzid=3076227	Walkway	-43.54401,172.53771
 #############################
 
 0 Number range ids are missing from NZOGPS Canterbury
@@ -14,5 +33,5 @@ Start = 2022-03-27 22:43:49 +1300
 0 Number range ids are in NZOGPS Canterbury but missing from LINZ
 #############################
 
-Finish = 2022-03-27 22:43:52 +1300
-Processing time = 2.960297
+Finish = 2022-04-30 12:58:29 +1200
+Processing time = 3.51104

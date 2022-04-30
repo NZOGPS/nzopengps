@@ -1,7 +1,7 @@
-Start = 2022-03-19 14:39:33 +1300
+Start = 2022-04-30 12:58:38 +1200
 linzid	street_name	street_name_2	official_street_name
 1948312	Mt Arthur View Rd		Mt Arthur View	-41.28854,173.07719
 #############################
 
-Finish = 2022-03-19 14:39:35 +1300
-Processing time = 1.477298
+Finish = 2022-04-30 12:58:39 +1200
+Processing time = 1.443707

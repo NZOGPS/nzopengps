@@ -1,19 +1,10 @@
-Start = 2022-04-30 12:58:16 +1200
+Start = 2022-05-01 20:11:03 +1200
 #############################
 
-8 LINZ ids are missing from NZOGPS Southland
-;linzid=3082801	Kahiwi Dr	-45.0021844322206,168.773994221172
-;linzid=3082800	Piwakawaka Lane	-44.6135335883912,169.281791845367
-;linzid=3082802	Tarata Way	-45.00161024205,168.769281017431
-;linzid=3082804	Awa Way	-45.0015524218578,168.767574103514
-;linzid=3082803	Miro Pl	-45.0015524218578,168.767574103514
-;linzid=3082805	Mara Way	-45.0020424458773,168.769421294112
-;linzid=3082813	Ridgeway Lane	-45.17678885,169.45635761667
-;linzid=3082814	Kahu Lane	-45.1800962012909,169.458205141193
+0 LINZ ids are missing from NZOGPS Southland
 #############################
 
-1 LINZ ids are in NZOGPS Southland but missing from LINZ
-;linzid=1772231	Sunnybrae Rd	-45.87822,170.57591
+0 LINZ ids are in NZOGPS Southland but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Southland
@@ -22,5 +13,5 @@ Start = 2022-04-30 12:58:16 +1200
 0 Number range ids are in NZOGPS Southland but missing from LINZ
 #############################
 
-Finish = 2022-04-30 12:58:19 +1200
-Processing time = 3.442273
+Finish = 2022-05-01 20:11:05 +1200
+Processing time = 2.307384

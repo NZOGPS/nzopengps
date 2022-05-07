@@ -1,23 +1,7 @@
-Start = 2022-04-30 12:58:12 +1200
+Start = 2022-05-07 22:57:39 +1200
 #############################
 
-16 LINZ ids are missing from NZOGPS Northland
-;linzid=3082758	Millers Lane	-35.2088796392865,173.949453909092
-;linzid=3082774	Samba Ave	-35.2385336972828,173.951788231887
-;linzid=3082766	Blackbridge Dr	-35.29141273764,173.992462030939
-;linzid=3082767	Clementine Lane	-35.2384160489451,173.950766508335
-;linzid=3082771	Monterey Way	-35.2396131553451,173.950516171739
-;linzid=3082772	Seville Way	-35.2396133931854,173.950516748152
-;linzid=3082769	Rose Pl	-35.2387979751851,173.950606747312
-;linzid=3082770	Mordilona Lane	-35.239172328703,173.95056402411
-;linzid=3082773	Camarosa Pl	-35.2399210327905,173.950346954719
-;linzid=3082768	Serrana Ave	-35.2386589883802,173.950595133392
-;linzid=3082775	Bayridge Lane	-35.1951316418056,173.835030176857
-;linzid=3082776	Sharyn Nelson Dr	-35.2896914905634,174.021527365668
-;linzid=3082826	Te Piriti Rd	-35.831880806361,174.461020119469
-;linzid=3082829	Mila Mae Rise	-35.7303806667,174.3053639833
-;linzid=3082847	Klondike Lane	-34.7645994522732,173.044144228592
-;linzid=3082854	Maple Lane	-35.6918267565411,174.296210019961
+0 LINZ ids are missing from NZOGPS Northland
 #############################
 
 0 LINZ ids are in NZOGPS Northland but missing from LINZ
@@ -29,5 +13,5 @@ Start = 2022-04-30 12:58:12 +1200
 0 Number range ids are in NZOGPS Northland but missing from LINZ
 #############################
 
-Finish = 2022-04-30 12:58:14 +1200
-Processing time = 1.432621
+Finish = 2022-05-07 22:57:40 +1200
+Processing time = 1.065623

@@ -25,3 +25,4 @@
 3079468	E,36,36	Pukeone Lane	Mangawhai(Northland,NZ)	2019/08/12 15:51	-36.142790,174.621630
 3058807	O,51,51	Karaka Bay Rd	Great Barrier Island (Aotea Island)(Auckland,NZ)	2021/05/29 15:06	-36.144830,175.348150
 3029817	O,47,47	Kaipara Flats Rd	Dome Forest(Auckland,NZ)	2022/04/27 17:58	-36.388800,174.624480
+3029817	E,368,368	Kaipara Flats Rd	Dome Forest(Auckland,NZ)	2022/05/09 16:59	-36.384640,174.640070

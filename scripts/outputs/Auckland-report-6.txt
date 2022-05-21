@@ -1,9 +1,11 @@
-Start = 2022-05-07 22:58:00 +1200
+Start = 2022-05-21 11:52:26 +1200
 linzid	street_name	street_name_2	official_street_name
+1806110	Esplanade		The Esplanade	-36.83507,175.70668
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
+3024124	Mohuperuru Lane		Mohopereru Lane	-36.87625,174.87194
 1821419	Valley Rd (off-road vehicles only)		Valley Rd	-36.66656,174.53579
 1830965	Hull Rd (4WD only, closed in Winter)		Hull Rd	-36.64738,174.58702
 #############################
 
-Finish = 2022-05-07 22:58:03 +1200
-Processing time = 3.098878
+Finish = 2022-05-21 11:52:32 +1200
+Processing time = 5.705742

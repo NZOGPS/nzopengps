@@ -1,7 +1,18 @@
-Start = 2022-05-07 22:57:53 +1200
+Start = 2022-05-21 11:51:46 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Wellington
+11 LINZ ids are missing from NZOGPS Wellington
+;linzid=3082863	Kairaumati Cres	-41.1724535476048,174.937647370485
+;linzid=3082890	Pihoihoi Cl	-40.8605608275426,175.068623557043
+;linzid=3082891	Toutouwai Cl	-40.8613855483488,175.063598650988
+;linzid=3082939	Kiwitea Grv	-40.2074209627797,175.59384269103
+;linzid=3082940	Ruru Pl	-40.2094253205709,175.583949298835
+;linzid=3082942	Aston Lane	-40.36666476912,175.607778756666
+;linzid=3082945	Te Hirawanui Dr	-40.3257827978101,175.666889136447
+;linzid=3082947	Tukere Cres	-40.3264113930195,175.666872831233
+;linzid=3082946	Pokerekere Cres	-40.3265011579972,175.665307362574
+;linzid=3082949	Te Ara o Waihuri	-40.3265011579972,175.665307362574
+;linzid=3082948	Te Ara o Kawai	-40.325711538216,175.666446308969
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -13,5 +24,5 @@ Start = 2022-05-07 22:57:53 +1200
 0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2022-05-07 22:57:55 +1200
-Processing time = 2.059784
+Finish = 2022-05-21 11:51:49 +1200
+Processing time = 3.079703

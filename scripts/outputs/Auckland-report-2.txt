@@ -1,7 +1,23 @@
-Start = 2022-05-07 22:57:57 +1200
+Start = 2022-05-21 11:51:58 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Auckland
+16 LINZ ids are missing from NZOGPS Auckland
+;linzid=3082862	Hinonga Loop	-36.6120511009245,174.66553929546
+;linzid=3082870	Tuiri Lane	-37.0162359219493,174.867555324451
+;linzid=3082864	Hema Rd	-36.7979511246026,174.650638074344
+;linzid=3082865	Ruaroa Lane	-36.7977994318922,174.650101723292
+;linzid=3082866	Ko Iti Lane	-36.7979511246026,174.650638074344
+;linzid=3082867	Waipuhinui Way	-37.00162633665,174.890532634617
+;linzid=3082871	Pahi Lane	-37.0160276224531,174.868272575791
+;linzid=3082868	Katikati Dr	-37.0162366178032,174.867555324451
+;linzid=3082869	David Condon Williams Ave	-37.0154509405503,174.867922192271
+;linzid=3082872	Pataka Way	-36.9165967569978,174.734392016347
+;linzid=3082873	Pump House Lane	-36.9071445157845,174.757929738511
+;linzid=3082911	Puhua Lane	-36.9155886980816,174.732063032136
+;linzid=3082907	Tupara St	-37.0148932256875,174.867544703871
+;linzid=3082908	Tana Way	-37.0139375209341,174.867656473179
+;linzid=3082909	Nuku Pl	-37.0141423407036,174.867110287127
+;linzid=3082910	Tara Lane	-37.0147940399702,174.867879912927
 #############################
 
 0 LINZ ids are in NZOGPS Auckland but missing from LINZ
@@ -13,5 +29,5 @@ Start = 2022-05-07 22:57:57 +1200
 0 Number range ids are in NZOGPS Auckland but missing from LINZ
 #############################
 
-Finish = 2022-05-07 22:58:00 +1200
-Processing time = 2.65185
+Finish = 2022-05-21 11:52:01 +1200
+Processing time = 3.842077

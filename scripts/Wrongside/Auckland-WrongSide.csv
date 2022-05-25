@@ -18,12 +18,16 @@
 175.06011442,-37.06055753,"32 Redman Road, Hunua",Wrong Side: 1289155
 175.73186957,-36.73315260,"27 Pumpkin Flat Road, Kuaotunu",Wrong Side: 1480219
 174.74019438,-36.62803698,"13 Te Ruru Way, Stanmore Bay, Whangaparaoa",Wrong Side: 1496935
+174.73615648,-36.45420950,"389 Ridge Road, Mahurangi East",Wrong Side: 1506515
 174.67873300,-36.43923500,"63 Hodgart Road, Warkworth",Wrong Side: 1512055
 174.67790414,-36.62065894,"1 Blue Gum Avenue, Silverdale",Wrong Side: 1513551
 174.46462153,-36.52346395,"56 Tuhirangi Road, Makarau",Wrong Side: 1517274
 174.60870600,-36.61168200,"47 Joblin Road, Wainui",Wrong Side: 1517321
 174.71290975,-36.46752201,"641 Pukapuka Road, Pohuehue",Wrong Side: 1520347
 174.46587853,-36.77148868,"112 Woodhill Park Road, Waimauku",Wrong Side: 1521613
+174.81118743,-36.86181709,"254 Orakei Road, Remuera, Auckland",Wrong Side: 1527092
+174.81097581,-36.86181911,"256 Orakei Road, Remuera, Auckland",Wrong Side: 1527093
+174.81075210,-36.86181709,"258 Orakei Road, Remuera, Auckland",Wrong Side: 1527094
 174.75182860,-36.93000703,"1 Clifton Road, Hillsborough, Auckland",Wrong Side: 1556279
 175.05888160,-37.06105940,"34 Redman Road, Hunua",Wrong Side: 1585954
 174.68770120,-36.74935773,"51A Appleby Road, Albany, Auckland",Wrong Side: 1647334
@@ -35,10 +39,6 @@
 174.73727365,-36.80278507,"10/13 Kaihu Street, Northcote, Auckland",Wrong Side: 1900784
 174.65445548,-36.70389458,"125 Screen Road, Coatesville",Wrong Side: 1987624
 174.61977561,-36.61451019,"35 Windmill Drive, Wainui",Wrong Side: 1989622
-174.64252838,-36.91969152,"2 Tokai Place, Glen Eden, Auckland",Wrong Side: 1991392
-174.64253144,-36.91964732,"4 Tokai Place, Glen Eden, Auckland",Wrong Side: 1991393
-174.64254029,-36.91961136,"6 Tokai Place, Glen Eden, Auckland",Wrong Side: 1991394
-174.64255041,-36.91957580,"8 Tokai Place, Glen Eden, Auckland",Wrong Side: 1991931
 174.69842472,-36.87569820,"7 Kakatai Lane, Waterview, Auckland",Wrong Side: 2006648
 174.69849594,-36.87572343,"5 Kakatai Lane, Waterview, Auckland",Wrong Side: 2006649
 174.69855826,-36.87575607,"3 Kakatai Lane, Waterview, Auckland",Wrong Side: 2006650
@@ -47,6 +47,7 @@
 174.98088014,-36.94381089,"79 Matthias Place, Whitford",Wrong Side: 2020547
 174.92401554,-36.96800663,"1 Lemon Tree Lane, Flat Bush, Auckland",Wrong Side: 2023386
 174.52248031,-36.85793514,"2 Duffy Road, Waitakere, Auckland",Wrong Side: 2038508
+174.92593165,-37.04247457,"13 Aeronautic Road, Takanini",Wrong Side: 2038981
 174.51863945,-36.53871054,"110 Cameron Way, Makarau",Wrong Side: 2040312
 174.32364474,-36.58026905,"36 Wilson Road, South Head",Wrong Side: 2042393
 175.00548961,-36.77230050,"61 Korora Road, Oneroa, Waiheke Island",Wrong Side: 2044297
@@ -72,6 +73,7 @@
 174.45267106,-36.68387642,"9 St Julia Court, Helensville",Wrong Side: 2142276
 174.64342542,-36.70581949,"67 Hartway Grove, Coatesville",Wrong Side: 2142955
 174.74271942,-36.68058815,"10 Kina Place, Long Bay, Auckland",Wrong Side: 2144184
+174.69853805,-36.76932931,"22A Viridian Lane, Greenhithe, Auckland",Wrong Side: 2144390
 175.04422395,-36.88565089,"25B Pinebrook Lane, Maraetai, Auckland",Wrong Side: 2147614
 174.35007474,-36.59600361,"111 Tuparekura Road, South Head",Wrong Side: 2151733
 174.98481488,-36.96249455,"5 Persimmon Place, Whitford",Wrong Side: 2167019
@@ -81,7 +83,8 @@
 174.96249376,-37.06459621,"2 Prosper Way, Papakura",Wrong Side: 2170807
 174.96246552,-37.06471237,"4 Prosper Way, Papakura",Wrong Side: 2170808
 174.96243727,-37.06483218,"6 Prosper Way, Papakura",Wrong Side: 2170809
-175.02899623,-37.01821659,"1 Taitaia Lane, Clevedon",Wrong Side: 2182238
+175.02935194,-37.01850984,"1 Taitaia Lane, Clevedon",Wrong Side: 2182238
+175.03021110,-37.01713736,"3 Taitaia Lane, Clevedon",Wrong Side: 2182239
 175.03173676,-37.01740764,"2 Taitaia Lane, Clevedon",Wrong Side: 2182240
 174.61082663,-36.53152567,"4 Wenz Bayer Road, Puhoi",Wrong Side: 2184309
 174.63995950,-36.70447944,"72 Waymau Lane, Coatesville",Wrong Side: 2185644
@@ -90,6 +93,20 @@
 174.86221328,-36.87638693,"11 Te Ao Lane, Glen Innes, Auckland",Wrong Side: 2193858
 174.86228078,-36.87646287,"13 Te Ao Lane, Glen Innes, Auckland",Wrong Side: 2193859
 175.68553888,-36.83264113,"9 Raumati Lane, Whitianga",Wrong Side: 2195814
+174.68250773,-36.91319768,"1 Ceramic Lane, New Lynn, Auckland",Wrong Side: 2203703
+174.68257919,-36.91321768,"3 Ceramic Lane, New Lynn, Auckland",Wrong Side: 2203705
+174.68264350,-36.91323912,"5 Ceramic Lane, New Lynn, Auckland",Wrong Side: 2203707
+174.68271352,-36.91325770,"7 Ceramic Lane, New Lynn, Auckland",Wrong Side: 2203709
+174.68279070,-36.91328914,"9 Ceramic Lane, New Lynn, Auckland",Wrong Side: 2203711
+174.68286787,-36.91331343,"11 Ceramic Lane, New Lynn, Auckland",Wrong Side: 2203713
+174.68293504,-36.91333487,"13 Ceramic Lane, New Lynn, Auckland",Wrong Side: 2203715
+174.68300363,-36.91335059,"15 Ceramic Lane, New Lynn, Auckland",Wrong Side: 2203717
+174.68306937,-36.91337632,"17 Ceramic Lane, New Lynn, Auckland",Wrong Side: 2203719
+174.68319228,-36.91341204,"19 Ceramic Lane, New Lynn, Auckland",Wrong Side: 2203721
+174.68325659,-36.91343348,"21 Ceramic Lane, New Lynn, Auckland",Wrong Side: 2203723
+174.68332804,-36.91345635,"23 Ceramic Lane, New Lynn, Auckland",Wrong Side: 2203725
+174.68339235,-36.91347921,"25 Ceramic Lane, New Lynn, Auckland",Wrong Side: 2203727
+174.68346809,-36.91350351,"27 Ceramic Lane, New Lynn, Auckland",Wrong Side: 2203729
 174.67569859,-36.57247033,"80A Pacific Heights Road, Orewa",Wrong Side: 2206368
 174.75555188,-36.85866441,"106/1 Cobden Street, Auckland Central, Auckland",Wrong Side: 2210482
 174.75555188,-36.85866441,"104/1 Cobden Street, Auckland Central, Auckland",Wrong Side: 2210483
@@ -138,12 +155,9 @@
 174.95179416,-37.08080629,"16 Woodstock Lane, Opaheke, Papakura",Wrong Side: 2248710
 174.95174155,-37.08084189,"18 Woodstock Lane, Opaheke, Papakura",Wrong Side: 2248711
 174.95166959,-37.08088986,"20 Woodstock Lane, Opaheke, Papakura",Wrong Side: 2248712
-174.64256216,-36.91953272,"10 Tokai Place, Glen Eden, Auckland",Wrong Side: 2249456
 174.90393844,-37.09339691,"17 Walters Road, Karaka",Wrong Side: 2258249
-174.90102468,-37.04149294,"5 Lady McKenzie Mews, Takanini",Wrong Side: 2267824
 174.65358006,-36.87536280,"4 Niu Lane, Te Atatu South, Auckland",Wrong Side: 2270566
 174.65357904,-36.87536280,"12 Niu Lane, Te Atatu South, Auckland",Wrong Side: 2270567
 174.65357802,-36.87536382,"28 Niu Lane, Te Atatu South, Auckland",Wrong Side: 2270571
 174.65357802,-36.87536179,"50 Niu Lane, Te Atatu South, Auckland",Wrong Side: 2270574
-174.90126520,-37.04202278,"12 Lady McKenzie Mews, Takanini",Wrong Side: 2270624
-174.90112385,-37.04199107,"14 Lady McKenzie Mews, Takanini",Wrong Side: 2270625
+174.84564801,-36.88706336,"2 Pohatu Lane, Saint Johns, Auckland",Wrong Side: 2281712

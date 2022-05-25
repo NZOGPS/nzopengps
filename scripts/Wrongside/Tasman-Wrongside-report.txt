@@ -1,11 +1,10 @@
 12 entries in ..\..\LinzDataService\PaperRoads\Tasman-WrongSide.txt
 Warning: 2243490 on line 90 in ..\..\LinzDataService\PaperRoads\Tasman-LINZWrongSide.txt - This ID is also set in the ignore file
 92 entries in ..\..\LinzDataService\PaperRoads\Tasman-LINZWrongSide.txt
-71 wrongside numbers, 2 not in Exclusion files
-35 entries in Linz list are no longer on the wrong side
+70 wrongside numbers, 3 not in Exclusion files
+37 entries in Linz list are no longer on the wrong side
 398370	126 Uruwhenua Road	2014/07/18 23:49	-40.996303,172.815299	Slightly the wrong side of the physical road
 1932207	590 Abel Tasman Drive, Clifton	2019/05/12 16:55	-40.843652,172.864235	Other addresses on this road match RAPID numbering.
-1413663	256 ELAINE BAY ROAD	2014/06/10 20:43	-41.054553,173.774734
 1128970	1095 MAITAI VALLEY ROAD	2014/06/10 22:29	-41.290704,173.371719
 1676913	589 UMERE ROAD	2014/06/09 22:48	-41.256113,172.186505	 Change of side compared to further south
 343134	206 CLOVA BAY ROAD	2014/06/10 20:48	-41.102304,174.045795
@@ -16,10 +15,13 @@ Warning: 2243490 on line 90 in ..\..\LinzDataService\PaperRoads\Tasman-LINZWrong
 1577726	85 Enner Glynn Road	2014/07/19 01:07	-41.313483,173.264399
 297534	49 GREEN LANE	2014/06/10 20:13	-41.117671,172.996488
 1326339	298 DE MALMANCHES ROAD	2014/06/09 22:29	-41.523737,171.942548	Driveway is on outside of bend to NNE.
+399793	25 Richards Road, Mangarakau	2022/02/04 13:30	-40.643866,172.431766	Seems in the middle of the formed road. Matching dwelling is at S40°38.6355' E172°25.8875'
 301206	106 Bryant Road	2014/07/19 15:03	-41.364699,173.108788
 339698	6771 KENEPURU ROAD	2014/06/10 20:50	-41.171808,173.967035
 1540359	131 MERRIFIELDS ROAD	2014/06/10 00:21	-41.698827,174.120607
 566945	163 ONAHAU ROAD	2014/06/10 21:14	-41.225222,173.963268
+400357	157 Grant Road Puramahoi	2014/07/18 23:51	-40.784780,172.742088	 On the physical road
+587299	87 St Omer Road, Saint Omer	2022/02/04 13:30	-41.183473,173.975779
 1676900	60 BAKER CREEK ROAD	2014/06/09 22:44	-41.241293,172.139368
 1769854	30 Tyler Road	2014/07/18 23:33	-41.607705,171.876390
 2243490	2820 Tadmor-Glenhope Road, Glenhope	2022/02/04 13:41	-41.636471,172.662247	Looks to be wrong number based on RAPID and other addresses. Should be 2019?

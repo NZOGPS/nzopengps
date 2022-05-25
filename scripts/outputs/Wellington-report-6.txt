@@ -1,7 +1,6 @@
-Start = 2022-05-21 11:52:12 +1200
+Start = 2022-05-25 23:47:04 +1200
 linzid	street_name	street_name_2	official_street_name
-1800102	Calliope Cres		Matahourua Cres	-41.13792,174.86852
 #############################
 
-Finish = 2022-05-21 11:52:16 +1200
-Processing time = 3.454847
+Finish = 2022-05-25 23:47:06 +1200
+Processing time = 1.752823

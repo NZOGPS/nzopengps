@@ -1,7 +1,7 @@
 144 entries in ..\..\LinzDataService\PaperRoads\Waikato-WrongSide.txt
 322 entries in ..\..\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-320 wrongside numbers,  not in Exclusion files
-58 entries in Ignore list are no longer on the wrong side
+326 wrongside numbers, 4 not in Exclusion files
+57 entries in Ignore list are no longer on the wrong side
 1377512	33 TE KARAKA DRIVE	2013/12/14 16:38	-37.682891,176.039633
 721243	4 VILLAGE ROAD	2013/10/15 19:47	-38.516940,175.552521
 657059	265 PUKETE ROAD	2014/01/21 17:56	-37.734250,175.233315
@@ -39,7 +39,6 @@
 1709721	2/1 SPENCE LANE	2013/10/15 21:58	-37.962708,176.977733
 848394	1A SPENCE LANE	2013/10/15 21:58	-37.962847,176.977845
 1154758	104 MARTYN WRIGHT ROAD	2014/04/18 13:46	-37.189998,174.794650
-1244010	34 ANZAC ROAD	2013/11/14 21:37	-37.220375,174.897643
 1709724	5/1 SPENCE LANE	2013/10/15 21:58	-37.962536,176.977613
 1470445	447A Goble Road, Komata	2021/12/18 18:18	-37.330804,175.737764
 642201	440 WAIKAWAU ROAD	2013/10/15 19:40	-38.477082,174.639644
@@ -61,7 +60,7 @@
 653299	17 HARDY STREET	2013/10/15 19:29	-38.341841,175.168789
 852825	863 REID ROAD	2013/10/15 21:09	-38.138610,177.003749
 
-88 entries in Linz list are no longer on the wrong side
+87 entries in Linz list are no longer on the wrong side
 1267857	50 BUCKVILLE ROAD	2014/04/18 13:25	-37.226525,174.934349
 567892	391 SH  2	2013/10/15 21:01	-38.050600,177.144570
 1751807	1144B Jack Henry Road, Kinleith	2018/02/25 13:44	-38.218739,175.743909	Numbers between 1144B and 1508 seem to have been plonked on the wrong side of the road. There are some
@@ -119,7 +118,6 @@
 1021258	400 Raynes Road, Rukuhia	2018/02/22 00:20	-37.849488,175.342911
 2024123	132 Te Arapipi Road, Thames	2018/02/18 14:53	-37.165216,175.563407
 2122555	88 Ingram Road, Rukuhia	2018/02/25 13:26	-37.870580,175.326674	This is on the wrong side based on the centreline as at 11/2/18
-1437225	990 STATE HIGHWAY 2 EAST	2013/10/15 21:07	-38.123598,177.064352
 1753872	958 Otara East Road, Tirohanga	2018/02/18 12:27	-38.078403,177.363776
 2164850	5978 Waioeka Road, Waioeka	2022/02/04 17:03	-38.262040,177.300601	Obvious habitation, but ddd number. Not only wrong side, but way out from even/RAPID numbering. My estimation this should be something like 5383
 1297398	6144 SH 35	2013/10/15 20:50	-37.782698,177.657514

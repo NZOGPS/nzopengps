@@ -1,13 +1,7 @@
-Start = 2022-05-21 11:52:01 +1200
+Start = 2022-05-28 18:29:27 +1200
 linzid	street_name	street_name_2	official_street_name
-3082771	Monterey Way		Monterey Pl	-35.23961,173.95052
-3082769	Rose Pl		Rosie Lane	-35.23882,173.95058
-3082770	Mordilona Lane		Mordilona Ave	-35.23919,173.95057
-3082773	Camarosa Pl		Camarosa Lane	-35.23993,173.95039
-3082768	Serrana Ave		Serrana Way	-35.23866,173.95060
-3082772	Seville Way		Seville Pl	-35.23961,173.95052
-3082774	Samba Ave		Samba Way	-35.23855,173.95178
+3082769	Rose Lane		Rosie Lane	-35.23882,173.95058
 #############################
 
-Finish = 2022-05-21 11:52:03 +1200
-Processing time = 1.80579
+Finish = 2022-05-28 18:29:27 +1200
+Processing time = 0.962681

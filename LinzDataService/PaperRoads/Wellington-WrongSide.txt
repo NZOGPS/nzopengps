@@ -46,3 +46,4 @@
 377607	22 Telford Terrace, Oriental Bay, Wellington	2022/02/19 13:09	-41.292597,174.795892
 377616	24 Telford Terrace, Oriental Bay, Wellington	2022/02/19 13:09	-41.292492,174.795793
 909022	26 Telford Terrace, Oriental Bay, Wellington	2022/02/19 13:09	-41.292405,174.795738
+1927000	2B Northcote Street, Wainuiomata, Lower Hutt	2022/05/29 23:07	-41.258736,174.928510

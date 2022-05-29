@@ -176,3 +176,7 @@ New from 2021/08/29
 584015	346 Darwin Road, Outer Kaiti, Gisborne	2021/08/29 18:48	-38.645545,178.062719	Obvious building at S38.645487° E178.058890° that matches other numbering.
 591342	483 France Road, Matamau	2021/08/29 18:50	-40.087436,176.150746	S40.087252° E176.149695° would be closer to this number.
 900034	1045 Kohuratahi Road, Kohuratahi	2021/08/29 19:12	-39.112669,174.850504	A little ambiguous, but probably 1046
+# not yet sent 
+2272040	20 Wai Station Road, Nuhaka	2022/05/29 23:38	-39.043447,177.755197
+1668113	114A Highway 50, Tikokino	2022/05/29 23:38	-39.795661,176.468178
+2281874	110 River Road, Otane	2022/05/29 23:46	-39.958992,176.680008

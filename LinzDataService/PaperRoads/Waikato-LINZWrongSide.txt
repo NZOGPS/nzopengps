@@ -322,3 +322,4 @@
 2265403	42 Manoeka Road, Te Puke	2022/02/04 17:59	-37.767559,176.299367	S37.766982° E176.298275° ?
 390358	79A Jess Road, Whakamarama	2022/02/04 18:02	-37.674607,176.044789	There doesn't appear to be a 79. But there is a 78?
 845370	2446A Mataatua Road, Ruatahuna	2022/02/04 18:03	-38.507939,176.930034
+2281640	62 Stockmans Road, Morrinsville	2022/06/04 15:53	-37.666406,175.552546

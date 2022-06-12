@@ -1,7 +1,7 @@
-Start = 2022-05-21 11:51:36 +1200
+Start = 2022-06-11 13:26:00 +1200
 #############################
 
-20 LINZ ids are missing from NZOGPS Tasman
+24 LINZ ids are missing from NZOGPS Tasman
 ;linzid=3082660	National St	-42.6338276366146,171.177752371246
 ;linzid=3082682	Te Ara Arapaoa	-41.2884269977302,174.014871461297
 ;linzid=3082691	Wai Iti Ave	-41.5243782625563,173.966940069647
@@ -22,6 +22,10 @@ Start = 2022-05-21 11:51:36 +1200
 ;linzid=3082850	Ara o Paki Paki	-41.4085831792026,173.049260226321
 ;linzid=3082851	Louden Pl	-41.4085831792026,173.049260226321
 ;linzid=3082931	Kerry Marshall Dr	-41.3304347006181,173.207434576941
+;linzid=3082985	Safre Pl	-41.2496778740578,173.080760679257
+;linzid=3082997	Pahuahi St	-41.5203347604623,173.943586626696
+;linzid=3082999	Tuhaha Pl	-40.825077972362,172.907450862892
+;linzid=3082998	Satherley Way	-41.3426967617221,173.187783353264
 #############################
 
 4 LINZ ids are in NZOGPS Tasman but missing from LINZ
@@ -37,5 +41,5 @@ Start = 2022-05-21 11:51:36 +1200
 0 Number range ids are in NZOGPS Tasman but missing from LINZ
 #############################
 
-Finish = 2022-05-21 11:51:39 +1200
-Processing time = 2.27028
+Finish = 2022-06-11 13:26:02 +1200
+Processing time = 1.759926

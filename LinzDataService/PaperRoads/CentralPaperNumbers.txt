@@ -44,3 +44,4 @@
 1798808	O,21,21	George St	Ohingaiti(Manawatu-Wanganui,NZ)	2020/09/26 20:29	-39.861320,175.707070
 1802860	E,188,188	Waikaremoana Rd	Urewera National Park(Bay of Plenty,NZ)	2021/01/10 15:49	-38.672055,176.957853
 1796455	E,52,52	Tanoa St	Manunui, Taumarunui(Manawatu-Wanganui,NZ)	2021/11/20 14:21	-38.921190,175.339520
+1797694	O,39,39	Ballance St	Apiti(Manawatu-Wanganui,NZ)	2022/06/12 20:27	-39.973820,175.870190

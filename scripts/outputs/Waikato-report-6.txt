@@ -1,6 +1,12 @@
-Start = 2022-05-28 22:23:49 +1200
+Start = 2022-06-11 13:26:38 +1200
 linzid	street_name	street_name_2	official_street_name
+3065150	Cellar Cres		Cellar Pl	-37.70218,176.11038
+3082232	Te Aurere Cres		Te Au Rere Cres	-37.89191,175.45196
+3082232	Te Aurere Cres		Te Au Rere Cres	-37.89185,175.45149
+3082232	Te Aurere Cres		Te Au Rere Cres	-37.89063,175.45149
+3082933	Citrina Cl		Rorida Cl	-37.72429,176.32360
+3082933	Citrina Cl		Rorida Cl	-37.72450,176.32422
 #############################
 
-Finish = 2022-05-28 22:23:51 +1200
-Processing time = 2.473617
+Finish = 2022-06-11 13:26:42 +1200
+Processing time = 3.537147

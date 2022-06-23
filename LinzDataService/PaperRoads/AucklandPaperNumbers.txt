@@ -103,3 +103,4 @@
 3079616	O,31,31	Ahunga Rd	Karaka(Auckland,NZ)	2020/05/08 15:31	-37.098830,174.938640
 1820950	O,155,155	Whitmore Rd	Tawharanui Peninsula(Auckland,NZ)	2020/08/05 16:08	-36.391930,174.747490
 3036433	B,20,25	Pacific Ocean	Great Mercury Island(Waikato,NZ)	2020/11/12 15:31	-36.602900,175.772660
+1825051	E,52,52	Poronui St	Mount Eden, Auckland(Auckland,NZ)	2022/06/23 10:05	-36.882950,174.761900

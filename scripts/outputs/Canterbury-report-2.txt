@@ -1,22 +1,8 @@
-Start = 2022-06-12 20:30:38 +1200
+Start = 2022-06-22 21:52:40 +1200
 #############################
 
-15 LINZ ids are missing from NZOGPS Canterbury
+1 LINZ ids are missing from NZOGPS Canterbury
 ;linzid=3079720	Gold Valley Rd	-43.7070990510647,172.652569302629
-;linzid=3082963	Wexford Cres	-43.5793223762346,172.554534479766
-;linzid=3082960	Ayrshire Lane	-43.5801438084989,172.555488846643
-;linzid=3082958	Half Pint Lane	-43.5793223762346,172.554534479766
-;linzid=3082976	Moraine St	-43.6448948910378,172.503269378392
-;linzid=3082964	Cartvale Dr	-43.4735335644646,172.64178505009
-;linzid=3082965	Gingko Lane	-43.4730521282129,172.639809049612
-;linzid=3082969	Coe St	-43.5919866918476,172.579731920099
-;linzid=3082971	Dray Pl	-43.5936896193723,172.579782275617
-;linzid=3082970	Withers Cres	-43.5936896193723,172.579782275617
-;linzid=3082972	Kahiwi Pl	-43.6027127839971,172.584507506494
-;linzid=3082975	Candlesticks Cres	-43.6437824772904,172.503913707414
-;linzid=3082977	Snow Cup Cl	-43.6452267376094,172.504292281617
-;linzid=3082995	Inniskillen Dr	-42.7591232093783,172.944783423879
-;linzid=3082959	Cork St	-43.5815797085686,172.555539512595
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
@@ -28,5 +14,5 @@ Start = 2022-06-12 20:30:38 +1200
 0 Number range ids are in NZOGPS Canterbury but missing from LINZ
 #############################
 
-Finish = 2022-06-12 20:30:40 +1200
-Processing time = 2.418163
+Finish = 2022-06-22 21:52:43 +1200
+Processing time = 2.298184

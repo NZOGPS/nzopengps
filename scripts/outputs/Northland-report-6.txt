@@ -1,7 +1,6 @@
-Start = 2022-06-11 13:26:24 +1200
+Start = 2022-06-22 21:52:30 +1200
 linzid	street_name	street_name_2	official_street_name
-3082769	Rose Lane		Rosie Lane	-35.23882,173.95058
 #############################
 
-Finish = 2022-06-11 13:26:25 +1200
-Processing time = 1.363716
+Finish = 2022-06-22 21:52:31 +1200
+Processing time = 0.891732

@@ -1,11 +1,34 @@
-Start = 2022-06-22 21:52:40 +1200
+Start = 2022-07-23 12:21:50 +1200
 #############################
 
-1 LINZ ids are missing from NZOGPS Canterbury
+22 LINZ ids are missing from NZOGPS Canterbury
 ;linzid=3079720	Gold Valley Rd	-43.7070990510647,172.652569302629
+;linzid=3083008	Strowan Ave	-43.9097054881357,171.767604402446
+;linzid=3083009	Orwell Way	-43.9111382883302,171.765468725723
+;linzid=3083035	Judd Lane	-43.6061181054156,172.37380482952
+;linzid=3083036	Longfields Rd	-43.6255520546884,172.490091561533
+;linzid=3083037	Pelham Pl	-43.6266003440447,172.492547813481
+;linzid=3083038	Farmview Lane	-43.6258170821301,172.494045484167
+;linzid=3083039	Guinevere Dr	-43.6427702654151,172.503306169364
+;linzid=3083044	Halcyon Way	-43.5791773236873,172.62910381704
+;linzid=3083057	Lusk St	-43.3147377955428,172.579326440852
+;linzid=3083101	Rohutu Way	-43.5955060667,172.3829594833
+;linzid=3083102	Christensen Pde	-43.5969011013215,172.380267205198
+;linzid=3083029	Chrisp St	-43.5925715729306,172.577984173514
+;linzid=3083105	Upham Way	-43.1509238787951,172.735233065244
+;linzid=3083106	Earl Way	-43.1515532761175,172.735273154245
+;linzid=3083108	Eliza Way	-43.2022218398236,172.652890835548
+;linzid=3083115	Ivan Mauger Pl	-43.6096972959863,172.406876905257
+;linzid=3083114	Boyce Dr	-43.6101941181125,172.407334086159
+;linzid=3083116	Angie Lane	-43.6101941181125,172.407334086159
+;linzid=3083118	Esther Mews	-43.5751351599383,172.510318657336
+;linzid=3083117	Chelsea Lane	-43.6104814964342,172.40561248657
+;linzid=3083145	Mahara Pl	-44.3907824236723,171.243512021871
 #############################
 
-0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
+2 LINZ ids are in NZOGPS Canterbury but missing from LINZ
+;linzid=3074300	Walkway	-43.56419,172.58800
+;linzid=3082066	Lusk Pl	-43.31533,172.57947
 #############################
 
 0 Number range ids are missing from NZOGPS Canterbury
@@ -14,5 +37,5 @@ Start = 2022-06-22 21:52:40 +1200
 0 Number range ids are in NZOGPS Canterbury but missing from LINZ
 #############################
 
-Finish = 2022-06-22 21:52:43 +1200
-Processing time = 2.298184
+Finish = 2022-07-23 12:21:53 +1200
+Processing time = 3.801797

@@ -1,7 +1,20 @@
-Start = 2022-06-22 21:52:29 +1200
+Start = 2022-07-23 12:21:34 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Northland
+13 LINZ ids are missing from NZOGPS Northland
+;linzid=3083128	Ohumuhumu Lane	-34.9969584333,173.4907125
+;linzid=3083004	Harmony Way	-35.9919694464519,174.449975392422
+;linzid=3083040	Wade Dr	-35.8308108550753,174.455982121304
+;linzid=3083041	Stack Lane	-35.8328467500616,174.454726240187
+;linzid=3083042	Beveridge Rd	-35.8330664911463,174.45750465596
+;linzid=3083043	Te Taniwha Rd	-35.8350547019258,174.458750516971
+;linzid=3083063	Gully Lane	-35.6623174119242,174.29402449466
+;linzid=3083100	Tapatahi Cres	-35.7402436265181,174.289066334997
+;linzid=3083103	Kapowai Pl	-35.6480717665157,174.281362671718
+;linzid=3083121	Buena Vista Rise	-35.4111866129754,173.791519934401
+;linzid=3083126	Hunter Way	-34.9926725340625,173.505341554572
+;linzid=3083127	Te Paia Lane	-35.0904203333,173.2576437833
+;linzid=3083125	Ohotu Way	-35.1099396911459,173.254739304321
 #############################
 
 0 LINZ ids are in NZOGPS Northland but missing from LINZ
@@ -13,5 +26,5 @@ Start = 2022-06-22 21:52:29 +1200
 0 Number range ids are in NZOGPS Northland but missing from LINZ
 #############################
 
-Finish = 2022-06-22 21:52:30 +1200
-Processing time = 0.959234
+Finish = 2022-07-23 12:21:36 +1200
+Processing time = 1.831454

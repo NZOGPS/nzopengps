@@ -1,7 +1,12 @@
-Start = 2022-06-22 21:52:43 +1200
+Start = 2022-07-23 12:22:15 +1200
 linzid	street_name	street_name_2	official_street_name
 3033541	Cascade Pyke Valley Rd		Cascade Pyke Valley Road - legality not determined	-44.31153,168.22678
+3082874	WestMoor Blvd		Westmoor Blvd	-43.62804,172.38308
+3082874	WestMoor Blvd		Westmoor Blvd	-43.62847,172.38204
+3082874	WestMoor Blvd		Westmoor Blvd	-43.62892,172.38033
+3082874	WestMoor Blvd		Westmoor Blvd	-43.62659,172.38656
+3082874	WestMoor Blvd		Westmoor Blvd	-43.62874,172.37929
 #############################
 
-Finish = 2022-06-22 21:52:45 +1200
-Processing time = 2.087163
+Finish = 2022-07-23 12:22:18 +1200
+Processing time = 3.369903

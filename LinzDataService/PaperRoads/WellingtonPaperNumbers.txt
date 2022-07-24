@@ -42,3 +42,5 @@
 3071355	E,20,20	E,30,30	Otereo St	Hokio Beach	
 1839460	B,90,97	Settlement Rd	Morrisons Bush(Wellington,NZ)	2018/07/24 23:07	-41.125792,175.420037
 3059371	O,135,137	Kirton Dr	Riverstone Terraces, Upper Hutt(Wellington,NZ)	2018/07/24 23:08	-41.108560,175.040270
+3053548	E,1318,1348	Pohangina Rd	Pohangina(Manawatu-Wanganui,NZ)	2022/07/24 14:18	-40.217270,175.768550	Central tile
+1797491	E,84,84	Ripa St	Tangimoana(Manawatu-Wanganui,NZ)	2022/07/24 14:28	-40.295300,175.246830

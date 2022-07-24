@@ -1,7 +1,8 @@
-Start = 2022-07-23 18:18:31 +1200
+Start = 2022-07-24 16:47:32 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Waikato
+1 LINZ ids are missing from NZOGPS Waikato
+;linzid=1841602	Ellett Rd W	-37.1036034,174.8172165833
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -13,5 +14,5 @@ Start = 2022-07-23 18:18:31 +1200
 0 Number range ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
-Finish = 2022-07-23 18:18:34 +1200
-Processing time = 2.935519
+Finish = 2022-07-24 16:47:35 +1200
+Processing time = 2.860023

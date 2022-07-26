@@ -1,6 +1,8 @@
-Start = 2022-07-24 16:47:35 +1200
+Start = 2022-07-26 21:25:03 +1200
 linzid	street_name	street_name_2	official_street_name
+3008619	Morrinsville Rd		State Highway 26	-37.79415,175.33587
+3008619	Morrinsville Rd		State Highway 26	-37.79651,175.33244
 #############################
 
-Finish = 2022-07-24 16:47:37 +1200
-Processing time = 2.379683
+Finish = 2022-07-26 21:25:05 +1200
+Processing time = 2.467466

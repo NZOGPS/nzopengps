@@ -155,8 +155,12 @@ There are two other properties at the 'low' end of the road that are numbered op
 1371605	1067 Main South Road, Rolleston	2019/10/18 23:02	-43.564413,172.451521	Point is under the new motorway. Does the property still exist?
 1623065	1/1103 Main South Road, Rolleston	2019/10/18 23:03	-43.565665,172.448844	Point is under the new motorway. Is this property now off Tiptree lane? Or possibly move the point to S43°34.0172' E172°26.9380'
 1321130	1415 Tekapo-Twizel Road, Tekapo	2019/10/18 23:06	-44.067071,170.359362	1415 looks to me to be around S44°03.8613' E170°21.8534'
---- Below new
 239304	20 Whaka Terrace, Huntsbury, Christchurch	2021/03/27 17:40	-43.569780,172.647284
 2227704	725 Foothills Road, Okuku	2021/03/27 17:45	-43.197526,172.422372
 2232120	890R Okains Bay Road, Okains Bay	2021/03/27 17:46	-43.723559,173.015800
 1638634	613 McQueens Valley Road, Gebbies Valley	2021/03/27 17:49	-43.716289,172.653447
+--- Below new, unsent
+2290948	35 Stoneleigh Road, Ashwick Flat	2022/08/07 16:39	-44.030165,170.743858	Dwelling at -44.030138 170.743122 that matches RAPID better.
+2286981	160 Millers Road, Gebbies Valley	2022/08/07 16:40	-43.718714,172.611176	Can't see any obvious drive/dwelling. To me, 160 would be around -43.715865 172.614375
+2288884	185 McIntoshs Road, Fernside, Rangiora	2022/08/07 16:42	-43.304726,172.496703	To me this is around 200. 185 would be around -43.305821 172.494630
+1398857	168 Rampaddock Road, View Hill	2022/08/07 16:46	-43.284292,172.073886 Somewhat confusing here as a lot of Rampaddock is paper, but this is before that bit.

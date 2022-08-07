@@ -1,12 +1,12 @@
 28 entries in ..\..\LinzDataService\PaperRoads\Central-WrongSide.txt
 178 entries in ..\..\LinzDataService\PaperRoads\Central-LINZWrongSide.txt
-159 wrongside numbers,  not in Exclusion files
+158 wrongside numbers,  not in Exclusion files
 3 entries in Ignore list are no longer on the wrong side
 483378	316 KAITOKE ROAD	2014/04/01 10:57	-39.977966,175.086507
 1384819	15 KATOPU STREET	2014/04/13 07:47	-38.988523,175.812663
 405757	253 KAIRAU ROAD EAST	2014/04/11 14:04	-39.024984,174.207029
 
-44 entries in Linz list are no longer on the wrong side
+45 entries in Linz list are no longer on the wrong side
 608656	709 Gibraltar Road	2015/04/14 02:43	-40.146561,176.841064
 1625778	668 Okare Road, Ruakituri	2021/03/27 19:06	-38.783079,177.334462	Your road centreline seems incorrect/old. There's a RAPID matching dwelling at S38°46.7124' E177°20.1962'
 1605476	14 Lopez Lane	2015/04/12 03:07	-39.728251,176.938284
@@ -26,6 +26,7 @@
 1559170	341 Hukatere Road, Patea	2021/03/27 18:32	-39.725343,174.488013	There's a building that matches numbering better at S39°43.6169' E174°29.2670'
 1625641	66 Waihirere Road, Wairoa	2021/03/28 12:12	-39.031457,177.406418
 570379	686 Okare Road, Ruakituri	2021/03/27 19:05	-38.782505,177.334375	Your road centreline seems incorrect/old. There's a RAPID matching dwelling at S38°46.6073' E177°20.1154'
+596034	408 McVicar Road	2015/04/12 02:58	-39.197276,176.613057
 2067413	3/1136 Matea Road, Rangitaiki	2021/03/27 18:35	-38.814870,176.466022
 2044445	990 Puketitiri Road, Puketapu	2021/08/29 17:54	-39.456875,176.782945	Obvious building, numbering is very close, but wrong side. 991?
 861514	20 Wilson Road	2015/04/13 20:01	-39.450544,173.848240

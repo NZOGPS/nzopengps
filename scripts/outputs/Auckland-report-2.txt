@@ -1,7 +1,7 @@
-Start = 2022-07-24 16:47:46 +1200
+Start = 2022-08-06 14:23:13 +1200
 #############################
 
-33 LINZ ids are missing from NZOGPS Auckland
+42 LINZ ids are missing from NZOGPS Auckland
 ;linzid=3083082	Fallowdown St	-36.6144156656327,174.646374582601
 ;linzid=3083071	Moyle St	-36.6136282091887,174.648911629389
 ;linzid=3083075	Parish Dr	-36.6131445373757,174.64620430448
@@ -35,6 +35,15 @@ Start = 2022-07-24 16:47:46 +1200
 ;linzid=3083096	Red Arches Rd	-36.8739143018939,174.623343203438
 ;linzid=3083097	Whautapu Crt	-36.8911330162183,174.694856521099
 ;linzid=3083104	Falling Waters Lane	-36.6326047964049,175.575078229558
+;linzid=3083148	Whenuateitei Cres	-36.6319126756658,174.73198766629
+;linzid=3083147	Pamu Wera Dr	-36.6322333955534,174.73089595807
+;linzid=3083149	Hau Tapu Loop	-36.6322333955534,174.73089595807
+;linzid=3083180	Paina Cres	-36.8297636910514,174.61330820671
+;linzid=3083181	Impatiens Lane	-36.8301503718663,174.612430688263
+;linzid=3083182	Kautawa Lane	-36.8297636910514,174.61330820671
+;linzid=3083184	Papatahi Lane	-36.9767270881682,174.929951910161
+;linzid=3083183	Rana Rd	-36.9779697026871,174.929575360725
+;linzid=3083185	Kiato Lane	-36.9769869539274,174.929881865
 #############################
 
 2 LINZ ids are in NZOGPS Auckland but missing from LINZ
@@ -48,5 +57,5 @@ Start = 2022-07-24 16:47:46 +1200
 0 Number range ids are in NZOGPS Auckland but missing from LINZ
 #############################
 
-Finish = 2022-07-24 16:47:49 +1200
-Processing time = 2.693835
+Finish = 2022-08-06 14:23:17 +1200
+Processing time = 3.670431

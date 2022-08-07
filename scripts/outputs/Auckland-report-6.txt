@@ -1,10 +1,12 @@
-Start = 2022-07-24 16:47:49 +1200
+Start = 2022-08-06 14:23:36 +1200
 linzid	street_name	street_name_2	official_street_name
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
+3081062	John Burns Rd		John Burn Rd	-37.04482,174.94934
 3081547	Seelie Rd		Seelie Crt	-36.98276,174.91169
 1821419	Valley Rd (off-road vehicles only)		Valley Rd	-36.66656,174.53579
 1830965	Hull Rd (4WD only, closed in Winter)		Hull Rd	-36.64738,174.58702
+3082865	Ruaroa Lane		Rauroa Lane	-36.79780,174.65010
 #############################
 
-Finish = 2022-07-24 16:47:52 +1200
-Processing time = 2.893501
+Finish = 2022-08-06 14:23:40 +1200
+Processing time = 4.602022

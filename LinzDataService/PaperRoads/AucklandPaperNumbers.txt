@@ -48,7 +48,7 @@
 1823008	E,136,138	Clark Rd	Hobsonville, Waitakere(Auckland,NZ)	2015/05/09 19:18	-36.798430,174.648780
 1827130	E,10,34	O,25,25	Miro St	Drury(Auckland,NZ)	2015/05/09 19:20	-37.095960,174.946910
 1833160	O,91,91	~[0x04]1	Warkworth(Auckland,NZ)	2015/05/09 22:59	-36.391670,174.651090
-3029817	O,109,137	Kaipara Flats Rd	Dome Forest(Auckland,NZ)	2015/05/09 22:59	-36.388800,174.624480
+3029817	O,47,137	Kaipara Flats Rd	Dome Forest(Auckland,NZ)	2015/05/09 22:59	-36.388800,174.624480
 1830470	O,4321,4355	Great North Rd	Glendene, Waitakere(Auckland,NZ)	2015/05/15 01:56	-36.888760,174.644480	Have to paper these rather than linzid2 as the other side end duplicates
 1833163	O,119,119	~[0x04]1	Freemans Bay, Auckland(Auckland,NZ)	2015/05/19 19:16	-36.625090,174.662960
 1821370	E,96,96	Radiata Rd		2016/07/21 14:47	-36.433820,174.650910
@@ -104,3 +104,6 @@
 1820950	O,155,155	Whitmore Rd	Tawharanui Peninsula(Auckland,NZ)	2020/08/05 16:08	-36.391930,174.747490
 3036433	B,20,25	Pacific Ocean	Great Mercury Island(Waikato,NZ)	2020/11/12 15:31	-36.602900,175.772660
 1825051	E,52,52	Poronui St	Mount Eden, Auckland(Auckland,NZ)	2022/06/23 10:05	-36.882950,174.761900
+1827646	E,270,290	Cossey Rd	Drury(Auckland,NZ)	2022/08/13 17:01	-37.102270,174.974850
+1831975	B,290,315	Blackbridge Rd	Karaka(Auckland,NZ)	2022/08/13 17:11	-37.105230,174.882380
+1827309	E,104,104	Kidd Rd	Karaka(Auckland,NZ)	2022/08/13 23:24	-37.105230,174.828750

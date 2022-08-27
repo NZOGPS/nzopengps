@@ -1,11 +1,23 @@
-Start = 2022-08-12 09:19:13 +1200
+Start = 2022-08-27 11:53:07 +1200
 #############################
 
-1 LINZ ids are missing from NZOGPS Canterbury
+9 LINZ ids are missing from NZOGPS Canterbury
 ;linzid=3079720	Gold Valley Rd	-43.7070990510647,172.652569302629
+;linzid=3083189	Jillian Lane	-43.6055473144271,172.409954824408
+;linzid=3083210	Eaglesfield Cl	-43.5909972261619,172.60945524681
+;linzid=3083211	Summerleas Lane	-43.5736236996884,172.579182674826
+;linzid=3083231	Te Pakiaka Rd	-43.3132240629519,172.692598133805
+;linzid=3083232	Gossett Lane	-43.3119029236461,172.691548836309
+;linzid=3083239	Talc Lane	-43.6141164130665,172.394452518387
+;linzid=3083240	Lolite Lane	-43.6141164130665,172.394452518387
+;linzid=3083241	Ashbury Dr	-43.9248918667,171.7233093667
 #############################
 
-0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
+4 LINZ ids are in NZOGPS Canterbury but missing from LINZ
+;linzid=1785751	Wiltshire Retirement Vlg	-43.30974,172.58446
+;linzid=1955021	Fox Way	-43.38100,172.63816
+;linzid=1955020	Endacott Way	-43.38083,172.63749
+;linzid=1955019	Riseley Way	-43.38070,172.63698
 #############################
 
 0 Number range ids are missing from NZOGPS Canterbury
@@ -14,5 +26,5 @@ Start = 2022-08-12 09:19:13 +1200
 0 Number range ids are in NZOGPS Canterbury but missing from LINZ
 #############################
 
-Finish = 2022-08-12 09:19:15 +1200
-Processing time = 2.39035
+Finish = 2022-08-27 11:53:11 +1200
+Processing time = 4.198308

@@ -1,8 +1,6 @@
-Start = 2022-08-27 11:53:38 +1200
+Start = 2022-08-27 19:37:59 +1200
 linzid	street_name	street_name_2	official_street_name
-3081698	Haukake St		Hauhake St	-37.13661,174.88904
-3083098	Spudman Ave		Spudman Rise	-37.19263,174.91973
 #############################
 
-Finish = 2022-08-27 11:53:42 +1200
-Processing time = 3.961002
+Finish = 2022-08-27 19:38:01 +1200
+Processing time = 2.384729

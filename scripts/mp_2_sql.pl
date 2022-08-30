@@ -1,8 +1,10 @@
 use strict;
+use warnings;
 use feature qw "switch say";
 use File::Basename;
 use Cwd;
 use Getopt::Std;
+use Data::Dump;
 
 my $basefile;
 my $basedir;
@@ -84,6 +86,8 @@ sub do_polygon {
 		if (/^Data(\d+)=(.*)$/)	{ # bit of work here...
 			my $level = $1;
 			my $coordstr = $2;
+			my @xi;
+			my @yi;
 			if (! ($coordstr =~ s/^\(// )){
 				print "Error - leading ( not found in coords- line $.\n";
 			}
@@ -94,12 +98,14 @@ sub do_polygon {
 			@coords = split(/\#/,$coordstr);
 			for (@coords){
 				if (/^(-*\d+\.\d+),(-*\d+\.\d+)$/){
-					push @x,$1;
-					push @y,$2;
+					push @xi,$1;
+					push @yi,$2;
 				} else {
 					print "invalid coord: $_ line $.\n";
 				}
 			}
+			push @x, \@xi;
+			push @y, \@yi;
 		}
 		if (/^\[END\]$/)	{ #end of def - collect everything up and exit
 			push @polys,[$comment,$type,$label,$endlevel,$cityidx,\@x,\@y];	
@@ -213,7 +219,7 @@ sub do_polyline{
 		}
 		if (/^\[END\]$/)	{ #end of def - collect everything up and exit
 			for  $i (@label) {
-				$i=~s/~\[0x[[:xdigit:]]+\]/SH/;
+				$i=~s/~\[0x[[:xdigit:]]+\]/SH/ if defined($i);
 			}
 			parsenums(\@numarray,@numbers);
 			parsenods(\@nodarray,\@x,\@y,@nods);
@@ -364,7 +370,7 @@ sub sort_by_id {
 		for $idn (0..$maxlbl-1){
 			$sufi = $$road[8][$idn];
 			$linzid = $$road[18][$idn];
-			if (($idn = 0) || ($sufi!=-1)){ 
+			if (($idn == 0) || ($sufi!=-1)){ 
 				if (exists($bysufi{$sufi})){
 					if ($debug{'sbid'}){print "in sbid - another road for sufi $sufi\n"}
 					push(@{$bysufi{$sufi}},[$i,$idn]);
@@ -373,7 +379,7 @@ sub sort_by_id {
 					$bysufi{$sufi}[0]=[$i,$idn];
 				}
 			}
-			if (($idn = 0) || ($linzid!=-1)){ 
+			if (($idn == 0) || ($linzid!=-1)){ 
 				if (exists($bylinzid{$linzid})){
 					if ($debug{'sbid'}){print "in sbid - another road for linzid $linzid\n"};
 				push(@{$bylinzid{$linzid}},[$i,$idn]);
@@ -411,8 +417,10 @@ sub write_poly_sql {
 	my $poly;
 	my @x;
 	my @y;
+	my @xi;
+	my @yi;
 	my $i;
-	my $rdname;
+	my $areaname;
 	my $j;
 	my $id = 1;
 	my $tablename = $basefile.'-polys';
@@ -429,9 +437,12 @@ sub write_poly_sql {
 	for $poly (@polys){
 		@x = @{$$poly[5]};
 		@y = @{$$poly[6]};
-		$rdname = $$poly[2];
-		$rdname =~ s/\'/\'\'/g;
-
+		if (defined($$poly[2])){
+			$areaname = $$poly[2];
+			$areaname =~ s/\'/\'\'/g;
+		} else {
+			$areaname = '';
+		}
 		if ($id == 1) {
 			print SQLFILE "INSERT INTO \"${tablename}\" ";
 			print SQLFILE "(\"polyid\",\"label\",\"type\",the_geom)";
@@ -439,13 +450,20 @@ sub write_poly_sql {
 		} else {
 			print SQLFILE ",";
 		}
-		print SQLFILE "($id,'$rdname','$$poly[1]',";
+		print SQLFILE "($id,'$areaname','$$poly[1]',";
 		print SQLFILE "ST_GeomFromText('POLYGON((";
-		# for geom
-		for ($i=0;$i<=$#x;$i++){
-			print SQLFILE "$y[$i] $x[$i],";
+		while (@x){
+			@xi = @{pop @x};
+			@yi = @{pop @y};
+			# for geom
+			for ($i=0;$i<=$#xi;$i++){
+				print SQLFILE "$yi[$i] $xi[$i],";
+			}
+			print SQLFILE "$yi[0] $xi[0]"; # close polygon
+			if (@x){
+				print SQLFILE "),("
+			}
 		}
-		print SQLFILE "$y[0] $x[0]"; # close polygon
 		print SQLFILE "))',4167))\n";
 		$id++;
 	}
@@ -472,12 +490,16 @@ sub write_line_sql {
 	print SQLFILE "SELECT AddGeometryColumn('','${basefile}','the_geom','4167','LINESTRING',2);\n";
 	for $road (@roads){
 #		next if ( $$road[1] eq "0x14" or  $$road[1] eq "0x1c" or $$road[1] eq "0x18" or $$road[1] eq "0x1f");
-		next if $$road[5] eq "";
+		next if !defined($$road[5]);
 		@x = @{$$road[9]};
 		@y = @{$$road[10]};
 		@nums = @{$$road[11]};
-		$rdname = $$road[2][0];
-		$rdname =~ s/\'/\'\'/g;
+		if (defined ($$road[2][0])){
+			$rdname = $$road[2][0];
+			$rdname =~ s/\'/\'\'/g;
+		} else {
+			$rdname = '';
+		}
 		if ($first) {
 			print SQLFILE "INSERT INTO \"${basefile}\" ";
 			print SQLFILE "(\"roadid\",\"label\",\"type\",linzid,\"numbers\",the_geom)";
@@ -522,7 +544,7 @@ if (!($cmdopts{s} or $cmdopts{l})){
 
 # die "Under development - do not use!" unless $cmdopts{x};
 
-die "No filename specified" if ($ARGV[0] eq "");
+die "No filename specified" if (!defined $ARGV[0]);
 ($basefile, $basedir, $basesuff) = fileparse($ARGV[0],qr/\.[^.]*/);
 $basedir = Cwd::realpath($basedir);
 if ($basedir =~ m|/$nzogps(.*)$|) {

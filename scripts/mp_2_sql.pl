@@ -14,6 +14,7 @@ my $nzogps = "nzopengps";
 my $maxlbl = 3;
 my $comment;
 my @roads;
+my @polys;
 my @namesnot2index;
 my %bysufi;
 my %bylinzid;
@@ -60,6 +61,53 @@ sub do_header {
 }
 
 sub do_polygon {
+	my $comment = shift;	#0
+	my $type;		#1
+	my $label;		#2
+	my $endlevel = 0;	#3
+	my $cityidx;	#4
+
+	my $coordstr;
+	my @coords;
+	my @x;	#5
+	my @y;	#6
+
+	while (<>){
+		if (/^Type=(.*)$/)         { $type = $1 };
+		if (/^Label=(.*)$/)        { $label = $1 };
+		if (/^EndLevel=(.*)$/)     { $endlevel = $1 };
+
+###
+### To do : multiple rings
+###
+
+		if (/^Data(\d+)=(.*)$/)	{ # bit of work here...
+			my $level = $1;
+			my $coordstr = $2;
+			if (! ($coordstr =~ s/^\(// )){
+				print "Error - leading ( not found in coords- line $.\n";
+			}
+			if (! ($coordstr =~ s/\)$// )){
+				print "Error - trailing ( not found in coords- line $.\n";
+			}
+			$coordstr =~ s/\),\(/\#/g;
+			@coords = split(/\#/,$coordstr);
+			for (@coords){
+				if (/^(-*\d+\.\d+),(-*\d+\.\d+)$/){
+					push @x,$1;
+					push @y,$2;
+				} else {
+					print "invalid coord: $_ line $.\n";
+				}
+			}
+		}
+		if (/^\[END\]$/)	{ #end of def - collect everything up and exit
+			push @polys,[$comment,$type,$label,$endlevel,$cityidx,\@x,\@y];	
+			last;
+		}
+	}
+
+
 }
 
 sub parsenums{
@@ -80,7 +128,6 @@ sub parsenums{
 	}
 }
 
-
 sub parsenods{
 	my $na = shift;
 	my $x = shift;
@@ -88,7 +135,7 @@ sub parsenods{
 	my @nods = @_;
 	my @nod1;
 	my $i;
-	
+
 	for ($i=0; $i<$#nods;$i+=2) { #even elements only, since odd ones are index			
 		@nod1 = split /,/,$nods[$i+1];	
 		if ($#nod1 != 2){
@@ -360,7 +407,52 @@ sub nolinzidset {
 	}
 }
 
-sub write_sql {
+sub write_poly_sql {
+	my $poly;
+	my @x;
+	my @y;
+	my $i;
+	my $rdname;
+	my $j;
+	my $id = 1;
+	my $tablename = $basefile.'-polys';
+	
+###
+### To do : multiple rings
+###
+	open(SQLFILE, '>', "${tablename}.sql") or die "can't create sql file\n";
+	print SQLFILE "DROP TABLE IF EXISTS \"${tablename}\";\n";
+	print SQLFILE "CREATE TABLE \"${tablename}\" (\"polyid\"  int PRIMARY KEY,\n";
+	print SQLFILE "\"label\" varchar(100),\n";
+	print SQLFILE "\"type\" varchar(10));\n";
+	print SQLFILE "SELECT AddGeometryColumn('','${tablename}','the_geom','4167','POLYGON',2);\n";
+	for $poly (@polys){
+		@x = @{$$poly[5]};
+		@y = @{$$poly[6]};
+		$rdname = $$poly[2];
+		$rdname =~ s/\'/\'\'/g;
+
+		if ($id == 1) {
+			print SQLFILE "INSERT INTO \"${tablename}\" ";
+			print SQLFILE "(\"polyid\",\"label\",\"type\",the_geom)";
+			print SQLFILE " VALUES \n ";
+		} else {
+			print SQLFILE ",";
+		}
+		print SQLFILE "($id,'$rdname','$$poly[1]',";
+		print SQLFILE "ST_GeomFromText('POLYGON((";
+		# for geom
+		for ($i=0;$i<=$#x;$i++){
+			print SQLFILE "$y[$i] $x[$i],";
+		}
+		print SQLFILE "$y[0] $x[0]"; # close polygon
+		print SQLFILE "))',4167))\n";
+		$id++;
+	}
+	print SQLFILE ";\n";
+}	
+
+sub write_line_sql {
 	my $road;
 	my @x;
 	my @y;
@@ -423,7 +515,7 @@ sub write_sql {
 }	
 ##### Main program starts...
 
-getopts("lsx", \%cmdopts);
+getopts("lsxp", \%cmdopts);
 if (!($cmdopts{s} or $cmdopts{l})){
 	$cmdopts{l}=1;
 }
@@ -469,12 +561,18 @@ while (<>){
 	}
 }
 
-id_check;	
+id_check;
 
 if ($cmdopts{s}){
 	$byid = \%bysufi;
 } else {
 	$byid = \%bylinzid;
-}	
+}
 
-write_sql;
+if ($cmdopts{p}){
+	print STDERR "Doing polygons\n";
+	write_poly_sql();
+} else {
+	print STDERR "Doing lines\n";
+	write_line_sql();
+}

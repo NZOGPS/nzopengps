@@ -488,3 +488,6 @@ copy ( select * from ( select name, old.id, new.road_id, st_hausdorffdistance(ne
 copy ( select * from ( select name, old.id, new.road_id, st_hausdorffdistance(new.the_geom,old.the_geom) d from nz_road_centre_line old  join nz_roads_addressing new on new.road_type = old.name and id<>road_id ) as t where d < 0.01 order by d ) to 'd:\nzopengps\scripts\outputs\access-service_id_trans.txt'
 
 with ng as ( select label,roadid,the_geom,st_dump(st_node(the_geom))as t from wellington_numberlines where not st_issimple(the_geom)) select distinct on (roadid) label, st_numpoints((t).geom), concat(st_y(st_pointn((t).geom,1)),',',st_x(st_pointn((t).geom,1))) from ng order by roadid, st_numpoints((t).geom
+
+SELECT UpdateGeometrySRID('parks','geom',2193);
+update parks set centroid_lat = st_y(st_centroid(st_transform(geom,4167))),centroid_lon = st_x(st_centroid(st_transform(geom,4167)))

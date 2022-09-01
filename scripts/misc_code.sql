@@ -491,3 +491,9 @@ with ng as ( select label,roadid,the_geom,st_dump(st_node(the_geom))as t from we
 
 SELECT UpdateGeometrySRID('parks','geom',2193);
 update parks set centroid_lat = st_y(st_centroid(st_transform(geom,4167))),centroid_lon = st_x(st_centroid(st_transform(geom,4167)))
+
+SELECT p1.common_nam,p1.centroid_lat,p1.centroid_lon,p1.shape_area
+FROM parks p1
+LEFT JOIN "Canterbury-polys" p2 ON upper(p2.label) = upper(p1.common_nam)
+WHERE p2.label IS NULL and p1.centroid_lat::double precision > -44.55553 and p1.shape_area::double precision > 500
+order by p1.shape_area desc

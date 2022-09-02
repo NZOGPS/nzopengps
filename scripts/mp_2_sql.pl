@@ -17,6 +17,7 @@ my $maxlbl = 3;
 my $comment;
 my @roads;
 my @polys;
+my $polyes;
 my @namesnot2index;
 my %bysufi;
 my %bylinzid;
@@ -79,10 +80,6 @@ sub do_polygon {
 		if (/^Label=(.*)$/)        { $label = $1 };
 		if (/^EndLevel=(.*)$/)     { $endlevel = $1 };
 
-###
-### To do : multiple rings
-###
-
 		if (/^Data(\d+)=(.*)$/)	{ # bit of work here...
 			my $level = $1;
 			my $coordstr = $2;
@@ -106,6 +103,7 @@ sub do_polygon {
 			}
 			push @x, \@xi;
 			push @y, \@yi;
+			$polyes++;
 		}
 		if (/^\[END\]$/)	{ #end of def - collect everything up and exit
 			push @polys,[$comment,$type,$label,$endlevel,$cityidx,\@x,\@y];	
@@ -424,10 +422,7 @@ sub write_poly_sql {
 	my $j;
 	my $id = 1;
 	my $tablename = $basefile.'-polys';
-	
-###
-### To do : multiple rings
-###
+
 	open(SQLFILE, '>', "${tablename}.sql") or die "can't create sql file\n";
 	print SQLFILE "DROP TABLE IF EXISTS \"${tablename}\";\n";
 	print SQLFILE "CREATE TABLE \"${tablename}\" (\"polyid\"  int PRIMARY KEY,\n";
@@ -593,6 +588,7 @@ if ($cmdopts{s}){
 
 if ($cmdopts{p}){
 	print STDERR "Doing polygons\n";
+	print STDERR "$#polys Polygons $polyes Polygon Elements\n",
 	write_poly_sql();
 } else {
 	print STDERR "Doing lines\n";

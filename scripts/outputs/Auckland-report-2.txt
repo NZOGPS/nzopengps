@@ -1,7 +1,7 @@
-Start = 2022-08-27 19:30:17 +1200
+Start = 2022-09-03 11:54:12 +1200
 #############################
 
-20 LINZ ids are missing from NZOGPS Auckland
+21 LINZ ids are missing from NZOGPS Auckland
 ;linzid=3083196	Kiritau Rd	-37.1048833408765,174.93367093544
 ;linzid=3083201	Wehi Dr	-37.10410065763,174.935100887879
 ;linzid=3083204	Waimarie Dr	-37.1030834752168,174.933352358846
@@ -22,12 +22,14 @@ Start = 2022-08-27 19:30:17 +1200
 ;linzid=3083203	Kumanu Dr	-37.1032159478245,174.936140441332
 ;linzid=3083212	Paapaakiri Loop	-37.0352127716534,174.928404784023
 ;linzid=3083234	Tapatai Pl	-36.759012208205,174.75592454144
+;linzid=3083252	Penehareti Rise	-36.8830112,174.8396967833
 #############################
 
-3 LINZ ids are in NZOGPS Auckland but missing from LINZ
+4 LINZ ids are in NZOGPS Auckland but missing from LINZ
 ;linzid=3075753	Walkway	-36.92071,174.87678
 ;linzid=3074672	Walkway/cycleway	-36.86900,174.72909
 ;linzid=3076291	Walkway	-36.86923,174.72734
+;linzid=1827101	Hilldene Rd	-37.07357,174.92723
 #############################
 
 0 Number range ids are missing from NZOGPS Auckland
@@ -36,5 +38,5 @@ Start = 2022-08-27 19:30:17 +1200
 0 Number range ids are in NZOGPS Auckland but missing from LINZ
 #############################
 
-Finish = 2022-08-27 19:30:20 +1200
-Processing time = 3.091987
+Finish = 2022-09-03 11:54:17 +1200
+Processing time = 4.350244

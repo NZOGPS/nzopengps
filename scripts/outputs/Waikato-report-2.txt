@@ -1,7 +1,11 @@
-Start = 2022-08-27 19:37:56 +1200
+Start = 2022-09-03 11:54:07 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Waikato
+4 LINZ ids are missing from NZOGPS Waikato
+;linzid=3083243	Te One Rd	-37.9587234906314,177.471414721182
+;linzid=3083244	Tarver Lane	-38.0061543897672,176.623747758597
+;linzid=3083248	Matata Way	-37.6860512504298,176.164371889975
+;linzid=3083251	Victor Way	-37.80439185,175.2674248
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -13,5 +17,5 @@ Start = 2022-08-27 19:37:56 +1200
 0 Number range ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
-Finish = 2022-08-27 19:37:59 +1200
-Processing time = 2.663976
+Finish = 2022-09-03 11:54:12 +1200
+Processing time = 4.590254

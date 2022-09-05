@@ -1,9 +1,7 @@
-Start = 2022-09-03 11:54:00 +1200
+Start = 2022-09-04 16:30:10 +1200
 #############################
 
-2 LINZ ids are missing from NZOGPS Wellington
-;linzid=3083249	Te Naihi Pl	-40.908494293134,175.018149127834
-;linzid=3083250	Airport Access Rd	-40.3259390910354,175.62098900055
+0 LINZ ids are missing from NZOGPS Wellington
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -15,5 +13,5 @@ Start = 2022-09-03 11:54:00 +1200
 0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2022-09-03 11:54:03 +1200
-Processing time = 3.351018
+Finish = 2022-09-04 16:30:12 +1200
+Processing time = 2.101152

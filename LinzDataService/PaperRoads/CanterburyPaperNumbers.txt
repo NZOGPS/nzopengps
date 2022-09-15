@@ -75,7 +75,6 @@
 3015073	B,7,47	Old Harewood Road	Swannanoa (Canterbury, NZ)	26/09/2011 3:44p.m.
 1779780	E,2,10	Jervois Street	Hawarden (Canterbury, NZ)	1/10/2011 11:33:57 p.m.
 3052898	E,6,22	B,194,237	Wolffs Road	Eyrewell Forest (Canterbury, NZ)	17/11/2011 5:32p.m.
-1782013	E,352,352	Max Smith Drive	Pukaki (Canterbury, NZ)	24/11/2011 1:36p.m.
 1790539	O,11,11	Gow Street	Ross (West Coast, NZ)	24/11/2011 1:38p.m.
 1779175	E,254,254	Barters Road	Islington, Christchurch (Canterbury, NZ)	26/12/2011 6:19:33 p.m.	-43.529689,172.475023
 1780522	E,2,6	HECTOR STREET	Glentunnel (Canterbury, NZ)	26/12/2011 6:21:37 p.m.	-43.469696,171.900178

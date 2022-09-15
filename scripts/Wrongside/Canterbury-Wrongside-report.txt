@@ -1,10 +1,11 @@
-11 entries in ..\..\LinzDataService\PaperRoads\Canterbury-WrongSide.txt
-155 entries in ..\..\LinzDataService\PaperRoads\Canterbury-LINZWrongSide.txt
-158 wrongside numbers, 9 not in Exclusion files
+16 entries in ..\..\LinzDataService\PaperRoads\Canterbury-WrongSide.txt
+159 entries in ..\..\LinzDataService\PaperRoads\Canterbury-LINZWrongSide.txt
+158 wrongside numbers, 2 not in Exclusion files
 1 entries in Ignore list are no longer on the wrong side
 1985145	510A Falston Road, Totara Peak	2021/03/28 15:16	-44.384002,170.192195
 
-16 entries in Linz list are no longer on the wrong side
+18 entries in Linz list are no longer on the wrong side
+2174233	2 Stratheona Road, Pleasant Point	2019/10/18 21:16	-44.249762,171.136516	I note that No 7 ID 2174236 letterbox has 7/42. Is this actually 2/42? Wrong end as well as wrong side.
 180111	8 PATRICIA PLACE	2013/10/21 16:41	-43.481407,172.576703
 286963	30 WHITEWASH HEAD ROAD	2013/10/16 10:40	-43.570800,172.773846	All the numbers here are quite close to the road 
 287171	5 WESTRIDGE	2013/10/16 10:37	-43.576500,172.771289	Middle of the road
@@ -14,6 +15,7 @@
 289025	700 LITTLE PIGEON BAY ROAD	2013/10/13 23:35	-43.639312,172.899851
 1375506	1567 BRAEMAR MT COOK STATION ROAD	2013/10/06 20:48	-43.870858,170.173144
 285455	8 DE THIER LANE	2013/10/21 15:30	-43.572809,172.754564	Not sure about this one. No obvious buildings on this side of the road.
+1556652	30 Stratheona Road, Pleasant Point	2019/10/18 21:18	-44.249778,171.136138	Ditto above.
 273586	12 CLEMENTINE LANE	2013/10/16 12:02	-43.561727,172.713428
 1955045	85 Totara Valley Road, Totara Valley	2019/10/18 21:51	-44.243882,171.104239	Driveway here looks to me to be 86 not 85. 
 1523362	233 TE NGAWAI ROAD	2013/10/09 12:34	-44.242305,171.114121

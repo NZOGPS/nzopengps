@@ -1,6 +1,6 @@
 49 entries in ..\..\LinzDataService\PaperRoads\Wellington-WrongSide.txt
 117 entries in ..\..\LinzDataService\PaperRoads\Wellington-LINZWrongSide.txt
-99 wrongside numbers, 8 not in Exclusion files
+100 wrongside numbers, 9 not in Exclusion files
 13 entries in Ignore list are no longer on the wrong side
 1418498	238 ALBERT STREET	2013/12/21 08:09	-40.357751,175.629047
 1691755	3 ASHFORD LANE	2013/12/22 18:14	-41.123661,175.072152
@@ -21,7 +21,6 @@
 564483	36 Murphys Road, Pahiatua	2018/12/01 18:59	-40.412695,175.914365-	Point is in middle of road. Dwelling is nearer to	40.413023 175.914147
 641025	7 Avro Road, Blue Mountains	2018/12/01 18:35	-41.171720,175.031881	Looks to be between and behind 10 and 12
 1852445	895 Putara Road, Eketahuna	2018/12/01 19:33	-40.680257,175.547930
-444246	9 Oates Street, Stokes Valley, Lower Hutt	2018/12/01 18:22	-41.173795,174.981284	Odd point. Middle of carpark. Perhaps	-41.173730 174.981446
 1546185	38 Knight Road, Kopuaranga	2018/12/01 17:31	-40.831420,175.665604	Based on imagery, it looks like your road (and this number) are too far north here. Drive at	-40.831555 175.665738 
 1615801	3 Duncan Street, Tauweru	2018/12/01 17:58	-40.964559,175.801303	Looks like your road and this point are too far to the west. Dwelling is at 	-40.964480 175.801590
 2003384	15 Gurney Road, Kelson, Lower Hutt	2021/08/30 15:43	-41.183834,174.935865
@@ -79,4 +78,5 @@
 556797	24 MOSS ROAD	2013/12/22 09:55	-40.618015,175.705273
 2152670	151 Te Wanaka Road, Awapuni, Palmerston North	2021/08/30 16:11	-40.380956,175.572572	Another in the middle of the formed road. Not sure where it should be.
 2098507	158 Boundary Terrace, Raumati Beach, Paraparaumu	2021/08/30 15:24	-40.922785,175.001394	ditto
+543159	3 Mountain View Road, Fitzherbert, Palmerston North	2018/12/02 16:16	-40.379616,175.626526	Appears to be in the verge between the road and the driveway.
 

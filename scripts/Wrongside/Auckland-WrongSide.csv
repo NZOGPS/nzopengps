@@ -68,7 +68,7 @@
 174.45267106,-36.68387642,"9 St Julia Court, Helensville",Wrong Side: 2142276
 174.64342542,-36.70581949,"67 Hartway Grove, Coatesville",Wrong Side: 2142955
 174.74271942,-36.68058815,"10 Kina Place, Long Bay, Auckland",Wrong Side: 2144184
-174.69853805,-36.76932931,"22A Viridian Lane, Greenhithe, Auckland",Wrong Side: 2144390
+175.04422395,-36.88565089,"25B Pinebrook Lane, Maraetai, Auckland",Wrong Side: 2147614
 174.35007474,-36.59600361,"111 Tuparekura Road, South Head",Wrong Side: 2151733
 174.98481488,-36.96249455,"5 Persimmon Place, Whitford",Wrong Side: 2167019
 174.96228148,-37.06455612,"1 Prosper Way, Papakura",Wrong Side: 2170802
@@ -133,8 +133,6 @@
 174.75555188,-36.85866441,"504/1 Cobden Street, Auckland Central, Auckland",Wrong Side: 2210673
 174.75555188,-36.85866441,"601/1 Cobden Street, Auckland Central, Auckland",Wrong Side: 2210674
 174.75555188,-36.85866441,"602/1 Cobden Street, Auckland Central, Auckland",Wrong Side: 2210675
-174.70026768,-36.88253606,"9 Akapuka Lane, Waterview, Auckland",Wrong Side: 2221730
-174.70026765,-36.88253604,"13 Akapuka Lane, Waterview, Auckland",Wrong Side: 2221734
 174.30382292,-36.61707342,"800 Wilson Road, South Head",Wrong Side: 2223211
 174.65999085,-36.79717904,"4 Westland Wasp Road, Hobsonville, Auckland",Wrong Side: 2227415
 174.66003935,-36.79720733,"6 Westland Wasp Road, Hobsonville, Auckland",Wrong Side: 2227416
@@ -163,32 +161,5 @@
 174.65357904,-36.87536280,"12 Niu Lane, Te Atatu South, Auckland",Wrong Side: 2270567
 174.65357802,-36.87536382,"28 Niu Lane, Te Atatu South, Auckland",Wrong Side: 2270571
 174.65357802,-36.87536179,"50 Niu Lane, Te Atatu South, Auckland",Wrong Side: 2270574
-174.59716867,-36.81697647,"1 Porowha Road, Westgate, Auckland",Wrong Side: 2277118
-174.59721329,-36.81704678,"3 Porowha Road, Westgate, Auckland",Wrong Side: 2277119
-174.59726467,-36.81710222,"5 Porowha Road, Westgate, Auckland",Wrong Side: 2277120
-174.59730956,-36.81715838,"7 Porowha Road, Westgate, Auckland",Wrong Side: 2277121
-174.59736229,-36.81720570,"9 Porowha Road, Westgate, Auckland",Wrong Side: 2277122
-174.59740691,-36.81726384,"11 Porowha Road, Westgate, Auckland",Wrong Side: 2277123
-174.59746370,-36.81731252,"13 Porowha Road, Westgate, Auckland",Wrong Side: 2277124
-174.59751375,-36.81736624,"15 Porowha Road, Westgate, Auckland",Wrong Side: 2277125
-174.59755837,-36.81741898,"17 Porowha Road, Westgate, Auckland",Wrong Side: 2277126
-174.59760975,-36.81747171,"19 Porowha Road, Westgate, Auckland",Wrong Side: 2277127
-174.59766519,-36.81752580,"21 Porowha Road, Westgate, Auckland",Wrong Side: 2277128
-174.59772874,-36.81757447,"23 Porowha Road, Westgate, Auckland",Wrong Side: 2277129
-174.59695097,-36.81710086,"2 Porowha Road, Westgate, Auckland",Wrong Side: 2277132
-174.59700235,-36.81715630,"4 Porowha Road, Westgate, Auckland",Wrong Side: 2277133
-174.59705644,-36.81720768,"6 Porowha Road, Westgate, Auckland",Wrong Side: 2277134
-174.59710538,-36.81725979,"8 Porowha Road, Westgate, Auckland",Wrong Side: 2277135
-174.59714865,-36.81731117,"10 Porowha Road, Westgate, Auckland",Wrong Side: 2277136
-174.59719462,-36.81736661,"12 Porowha Road, Westgate, Auckland",Wrong Side: 2277137
-174.59723519,-36.81740447,"14 Porowha Road, Westgate, Auckland",Wrong Side: 2277138
-174.59727307,-36.81744196,"16 Porowha Road, Westgate, Auckland",Wrong Side: 2277139
-174.59730687,-36.81747847,"18 Porowha Road, Westgate, Auckland",Wrong Side: 2277140
-174.59735285,-36.81753120,"20 Porowha Road, Westgate, Auckland",Wrong Side: 2277141
-174.59739612,-36.81757718,"22 Porowha Road, Westgate, Auckland",Wrong Side: 2277142
-174.86911617,-36.96733800,"2 Matawaka Lane, Papatoetoe, Auckland",Wrong Side: 2277503
-174.86917655,-36.96735309,"4 Matawaka Lane, Papatoetoe, Auckland",Wrong Side: 2277505
-174.86922519,-36.96736483,"6 Matawaka Lane, Papatoetoe, Auckland",Wrong Side: 2277508
-174.86928054,-36.96737154,"8 Matawaka Lane, Papatoetoe, Auckland",Wrong Side: 2277511
-174.92401234,-36.98539668,"4 Vista Estate Boulevard, Flat Bush, Auckland",Wrong Side: 2290628
-174.92405424,-36.98541393,"6 Vista Estate Boulevard, Flat Bush, Auckland",Wrong Side: 2290629
+174.65358006,-36.87536280,"6 Niu Lane, Te Atatu South, Auckland",Wrong Side: 2297072
+174.25952644,-36.53761036,"240 Fuller Road, South Head",Wrong Side: 2298263

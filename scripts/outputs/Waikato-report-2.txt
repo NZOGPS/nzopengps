@@ -1,7 +1,7 @@
-Start = 2022-09-13 09:41:55 +1200
+Start = 2022-09-24 23:23:50 +1200
 #############################
 
-8 LINZ ids are missing from NZOGPS Waikato
+9 LINZ ids are missing from NZOGPS Waikato
 ;linzid=3083263	Taeore Lane	-37.8195631450715,174.864424955718
 ;linzid=3083257	Muru St	-37.659844657862,175.149918080339
 ;linzid=3083258	Katipa Pl	-37.6599222166915,175.149874030628
@@ -10,6 +10,7 @@ Start = 2022-09-13 09:41:55 +1200
 ;linzid=3083261	Houpara Pl	-37.6552095766115,175.145293127556
 ;linzid=3083262	Koohunga St	-37.8195631450715,174.864424955718
 ;linzid=3083264	Waipatukahu Lane	-37.8202648797949,174.865158282395
+;linzid=3083287	Longview Dr	-37.9777428160029,175.699089897245
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -21,5 +22,5 @@ Start = 2022-09-13 09:41:55 +1200
 0 Number range ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
-Finish = 2022-09-13 09:41:59 +1200
-Processing time = 4.39011
+Finish = 2022-09-24 23:23:54 +1200
+Processing time = 4.156284

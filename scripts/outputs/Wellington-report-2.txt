@@ -1,8 +1,8 @@
-Start = 2022-09-13 09:41:47 +1200
+Start = 2022-09-24 23:23:43 +1200
 #############################
 
 1 LINZ ids are missing from NZOGPS Wellington
-;linzid=3083271	Te Ara o Pikiarero	-41.2435957066869,174.934761599097
+;linzid=3083285	Roma Way	-40.54946921408,175.209574880348
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -14,5 +14,5 @@ Start = 2022-09-13 09:41:47 +1200
 0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2022-09-13 09:41:51 +1200
-Processing time = 3.129474
+Finish = 2022-09-24 23:23:46 +1200
+Processing time = 2.85609

@@ -1,4 +1,4 @@
-Start = 2022-09-13 09:42:25 +1200
+Start = 2022-09-24 23:24:17 +1200
 linzid	street_name	street_name_2	official_street_name
 3025133	Joseph Hammond Pl		Joseph Hammond Rd	-36.99910,174.78567
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
@@ -6,7 +6,9 @@ linzid	street_name	street_name_2	official_street_name
 1821419	Valley Rd (off-road vehicles only)		Valley Rd	-36.66656,174.53579
 1830965	Hull Rd (4WD only, closed in Winter)		Hull Rd	-36.64738,174.58702
 1828931	Cessna Pl		Cessna Cres	-36.95821,174.79069
+3082287	Laurel Rd		Laurel Dr	-37.08883,174.92735
+3082492	Parihua St		Parehua St	-36.93010,174.84549
 #############################
 
-Finish = 2022-09-13 09:42:31 +1200
-Processing time = 5.702619
+Finish = 2022-09-24 23:24:22 +1200
+Processing time = 5.291975

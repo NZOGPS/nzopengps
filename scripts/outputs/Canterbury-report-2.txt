@@ -1,18 +1,11 @@
-Start = 2022-09-24 23:23:46 +1200
+Start = 2022-09-28 00:37:45 +1300
 #############################
 
-6 LINZ ids are missing from NZOGPS Canterbury
+1 LINZ ids are missing from NZOGPS Canterbury
 ;linzid=3079720	Gold Valley Rd	-43.7070990510647,172.652569302629
-;linzid=3083276	Edlin Lane	-43.3119031512254,172.691548312251
-;linzid=3083281	Dalness Cres	-43.5732231340786,172.58308980001
-;linzid=3083282	Wykes Pl	-43.1531819523197,172.738747900912
-;linzid=3083283	Hunter Lane	-43.1522222120725,172.738993366882
-;linzid=3083284	Weld Lane	-43.1529722124919,172.737307366006
 #############################
 
-2 LINZ ids are in NZOGPS Canterbury but missing from LINZ
-;linzid=3082583	Edlin St	-43.31183,172.66754
-;linzid=1839818	Tompkin Pl	-43.31310,172.69178
+0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Canterbury
@@ -21,5 +14,5 @@ Start = 2022-09-24 23:23:46 +1200
 0 Number range ids are in NZOGPS Canterbury but missing from LINZ
 #############################
 
-Finish = 2022-09-24 23:23:49 +1200
-Processing time = 3.571459
+Finish = 2022-09-28 00:37:48 +1300
+Processing time = 2.484025

@@ -1,7 +1,6 @@
-Start = 2022-09-24 23:24:13 +1200
+Start = 2022-09-29 11:56:53 +1300
 linzid	street_name	street_name_2	official_street_name
-3082387	Paapake Way		Paapaka Way	-37.25198,174.72270
 #############################
 
-Finish = 2022-09-24 23:24:17 +1200
-Processing time = 3.894252
+Finish = 2022-09-29 11:56:56 +1300
+Processing time = 2.543091

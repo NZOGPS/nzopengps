@@ -472,13 +472,13 @@ BEGIN
    FOR _name IN
       SELECT name FROM _bounds
    LOOP
- EXECUTE format('COPY (select st_y(ST_LineInterpolatePoint(ST_LineMerge(wkb_geometry),0.5)),st_x(ST_LineInterpolatePoint(ST_LineMerge(wkb_geometry),0.5)),full_road_name,road_id
+   EXECUTE format('COPY (select st_y(ST_LineInterpolatePoint(ST_LineMerge(wkb_geometry),0.5)),st_x(ST_LineInterpolatePoint(ST_LineMerge(wkb_geometry),0.5)),full_road_name,road_id
                                  FROM   _bounds b
                             JOIN   layer_3383_cs p ON ST_INTERSECTS(st_flipcoordinates(geom), wkb_geometry)
                             WHERE  b.name = %L and __change__ = ''INSERT'' and geometry_class = ''Addressing Road'' and road_section_id not in (select road_section_id  from layer_3383_cs where __change__ = ''DELETE'') and road_id > 3000000
                             ) TO %L (FORMAT csv)'
                    , _name
-                   , 'd:\nzopengps\linzdataservice\outputslinz\' || _name || '_' || _date || '.csv');
+                   , 'd:\nzopengps\linzdataservice\outputslinz\' || _name || '_' || _date || '.csv');'
    END LOOP;
 END
 $nrbm$ language plpgsql;
@@ -488,6 +488,11 @@ copy ( select * from ( select name, old.id, new.road_id, st_hausdorffdistance(ne
 copy ( select * from ( select name, old.id, new.road_id, st_hausdorffdistance(new.the_geom,old.the_geom) d from nz_road_centre_line old  join nz_roads_addressing new on new.road_type = old.name and id<>road_id ) as t where d < 0.01 order by d ) to 'd:\nzopengps\scripts\outputs\access-service_id_trans.txt'
 
 with ng as ( select label,roadid,the_geom,st_dump(st_node(the_geom))as t from wellington_numberlines where not st_issimple(the_geom)) select distinct on (roadid) label, st_numpoints((t).geom), concat(st_y(st_pointn((t).geom,1)),',',st_x(st_pointn((t).geom,1))) from ng order by roadid, st_numpoints((t).geom
+
+-- comparing parks in map to parks in database
+-- import parks shapefile with ? 
+-- perl mp_2_sql.pl -p ..\Canterbury.mp
+-- %nzogps_psql_bin%\psql -U postgres -d nzopengps -f Canterbury-polys.sql
 
 SELECT UpdateGeometrySRID('parks','geom',2193);
 update parks set centroid_lat = st_y(st_centroid(st_transform(geom,4167))),centroid_lon = st_x(st_centroid(st_transform(geom,4167)))

@@ -498,7 +498,7 @@ LEFT JOIN "Canterbury-polys" p2 ON upper(p2.label) = upper(p1.common_nam)
 WHERE p2.label IS NULL and p1.centroid_lat::double precision > -44.55553 and p1.shape_area::double precision > 500
 order by p1.shape_area desc
 
-SELECT p1.common_nam,p1.centroid_lat,p1.centroid_lon,p1.shape_area,st_distance(st_transform(st_setsrid(st_point(p1.centroid_lon::float,p1.centroid_lat::float),4326), 2193),st_transform('srid=4326;point(172.58919 -43.52497)'::geometry, 2193)) as d1
+SELECT p1.common_nam,p1.centroid_lat::double precision,p1.centroid_lon::double precision,p1.shape_area,st_distance(st_transform(st_setsrid(st_point(p1.centroid_lon::float,p1.centroid_lat::float),4326), 2193),st_transform('srid=4326;point(172.58919 -43.52497)'::geometry, 2193)) as d1
 FROM parks p1
 LEFT JOIN "Canterbury-polys" p2 ON upper(p2.label) = upper(p1.common_nam)
 WHERE p2.label IS NULL and p1.centroid_lat::double precision > -44.55553 and p1.shape_area::double precision > 500

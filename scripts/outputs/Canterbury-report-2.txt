@@ -1,11 +1,24 @@
-Start = 2022-09-28 00:37:45 +1300
+Start = 2022-10-08 13:58:00 +1300
 #############################
 
-1 LINZ ids are missing from NZOGPS Canterbury
+13 LINZ ids are missing from NZOGPS Canterbury
 ;linzid=3079720	Gold Valley Rd	-43.7070990510647,172.652569302629
+;linzid=3083301	Martini Ave	-43.7674235377178,172.290066713207
+;linzid=3083291	Rusbatch Lane	-43.45445075,172.622289
+;linzid=3083297	Mary Pl	-43.4965707215718,172.116071187175
+;linzid=3083296	Rosalind Ave	-43.4965707215718,172.116071187175
+;linzid=3083300	Collisson St	-43.7689722624859,172.290481900997
+;linzid=3083302	Seckles Lane	-43.5996747362361,172.397786030805
+;linzid=3083304	Loader Lane	-43.5740253091589,172.743390358408
+;linzid=3083305	Waipuke Lane	-43.5740253091589,172.743390358408
+;linzid=3083306	Ararat Lane	-43.5746628294936,172.742677504753
+;linzid=3083308	Meadow Lane	-43.9275452694222,171.719640452291
+;linzid=3083309	Mirren Lane	-43.9271342361749,171.720389492574
+;linzid=3083310	Lockburn Lane	-43.9259884628566,171.721749734445
 #############################
 
-0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
+1 LINZ ids are in NZOGPS Canterbury but missing from LINZ
+;linzid=3077324	Walkway	-43.52170,172.65526
 #############################
 
 0 Number range ids are missing from NZOGPS Canterbury
@@ -14,5 +27,5 @@ Start = 2022-09-28 00:37:45 +1300
 0 Number range ids are in NZOGPS Canterbury but missing from LINZ
 #############################
 
-Finish = 2022-09-28 00:37:48 +1300
-Processing time = 2.484025
+Finish = 2022-10-08 13:58:05 +1300
+Processing time = 4.311368

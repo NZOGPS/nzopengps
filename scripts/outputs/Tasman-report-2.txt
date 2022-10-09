@@ -1,13 +1,15 @@
-Start = 2022-09-24 23:23:34 +1200
+Start = 2022-10-08 13:57:45 +1300
 #############################
 
-6 LINZ ids are missing from NZOGPS Tasman
+8 LINZ ids are missing from NZOGPS Tasman
 ;linzid=3082660	National St	-42.6338276366146,171.177752371246
 ;linzid=3082485	Wera Way	-40.8254421839083,172.907242136855
 ;linzid=3082999	Tuhaha Pl	-40.825077972362,172.907450862892
 ;linzid=3083062	Wharua Tiro Pl	-41.1417479928289,172.954849350321
 ;linzid=3083215	Templeman Rise	-41.2937069765425,173.857013578451
 ;linzid=3083289	Olive Mews	-41.3515676588938,173.181275763322
+;linzid=3083292	Wakanini Pl	-41.2497406212552,173.093517026699
+;linzid=3083293	Aata Lane	-41.2493850364692,173.095416817221
 #############################
 
 3 LINZ ids are in NZOGPS Tasman but missing from LINZ
@@ -22,5 +24,5 @@ Start = 2022-09-24 23:23:34 +1200
 0 Number range ids are in NZOGPS Tasman but missing from LINZ
 #############################
 
-Finish = 2022-09-24 23:23:36 +1200
-Processing time = 1.741767
+Finish = 2022-10-08 13:57:47 +1300
+Processing time = 2.159295

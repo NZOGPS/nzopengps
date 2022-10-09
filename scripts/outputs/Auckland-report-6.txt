@@ -1,4 +1,4 @@
-Start = 2022-09-24 23:24:17 +1200
+Start = 2022-10-08 13:58:33 +1300
 linzid	street_name	street_name_2	official_street_name
 3025133	Joseph Hammond Pl		Joseph Hammond Rd	-36.99910,174.78567
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
@@ -10,5 +10,5 @@ linzid	street_name	street_name_2	official_street_name
 3082492	Parihua St		Parehua St	-36.93010,174.84549
 #############################
 
-Finish = 2022-09-24 23:24:22 +1200
-Processing time = 5.291975
+Finish = 2022-10-08 13:58:38 +1300
+Processing time = 4.917616

@@ -1,20 +1,11 @@
-Start = 2022-10-08 13:58:05 +1300
+Start = 2022-10-13 20:37:15 +1300
 #############################
 
-5 LINZ ids are missing from NZOGPS Waikato
-;linzid=3083298	Pure Way	-37.7876245333,176.3112776667
-;linzid=3083311	Hall Lane	-37.2002318743795,174.906563607737
-;linzid=3083313	Iratumoana Rd	-38.0042036653294,176.627166006651
-;linzid=3083314	Jefferis Lane	-37.8395607708797,176.621499815415
-;linzid=3083315	Lerwick Lane	-38.1336128398222,177.116568763202
+0 LINZ ids are missing from NZOGPS Waikato
 #############################
 
-5 LINZ ids are in NZOGPS Waikato but missing from LINZ
-;linzid=1807349	Laine Pl	-37.80546,175.26309
+1 LINZ ids are in NZOGPS Waikato but missing from LINZ
 ;linzid=1815639	Hampson Dr	-38.06046,176.19006
-;linzid=3074954	Accessway	-37.20001,174.90342
-;linzid=3076229	Service Lane	-37.20123,174.90361
-;linzid=3083176	Kiriwehi St	-37.75647,176.08291
 #############################
 
 0 Number range ids are missing from NZOGPS Waikato
@@ -23,5 +14,5 @@ Start = 2022-10-08 13:58:05 +1300
 0 Number range ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
-Finish = 2022-10-08 13:58:10 +1300
-Processing time = 4.709593
+Finish = 2022-10-13 20:37:17 +1300
+Processing time = 2.767281

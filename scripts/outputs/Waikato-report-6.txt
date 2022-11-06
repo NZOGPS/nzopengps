@@ -1,6 +1,12 @@
-Start = 2022-10-13 20:37:17 +1300
+Start = 2022-11-05 16:16:54 +1300
 linzid	street_name	street_name_2	official_street_name
+1815639	Hampson Dr		Hampson Pl	-38.06046,176.19006
+1838845	Beach Access		Otamarakau Foreshore	-37.82130,176.58116
+3024767	Waiotahi Valley Rd		Waiotahe Valley Rd	-38.01978,177.18588
+3024767	Waiotahi Valley Rd		Waiotahe Valley Rd	-38.08122,177.18005
+3024767	Waiotahi Valley Rd		Waiotahe Valley Rd	-38.02529,177.18920
+3024767	Waiotahi Valley Rd		Waiotahe Valley Rd	-38.04686,177.17999
 #############################
 
-Finish = 2022-10-13 20:37:20 +1300
-Processing time = 2.331369
+Finish = 2022-11-05 16:16:59 +1300
+Processing time = 5.037829

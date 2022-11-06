@@ -1,7 +1,7 @@
-Start = 2022-10-08 13:57:43 +1300
+Start = 2022-11-05 16:16:09 +1300
 #############################
 
-7 LINZ ids are missing from NZOGPS Northland
+12 LINZ ids are missing from NZOGPS Northland
 ;linzid=3083209	Lone Gum Lane	-35.2063138373156,173.951240701133
 ;linzid=3083213	Taitua Tce	-35.745070201929,174.318040265901
 ;linzid=3083214	Tuna Dr	-35.7453651861948,174.318302695719
@@ -9,6 +9,11 @@ Start = 2022-10-08 13:57:43 +1300
 ;linzid=3083246	Manaaki Circle	-36.0992159568376,174.230528697814
 ;linzid=3083247	Anbrue Lane	-35.8817893428761,174.452178590532
 ;linzid=3083299	North Way	-35.0992542667,173.2598547333
+;linzid=3083323	Bittern Lane	-35.9155119220541,174.446797900279
+;linzid=3083324	Island Rise	-35.9155119220541,174.446797900279
+;linzid=3083325	Scenic Rise	-35.7390663825381,174.237769384755
+;linzid=3083366	Ridge Way	-35.2177107167,173.8688653333
+;linzid=3083370	Cranston Lane	-35.6899388773402,174.402322317832
 #############################
 
 0 LINZ ids are in NZOGPS Northland but missing from LINZ
@@ -20,5 +25,5 @@ Start = 2022-10-08 13:57:43 +1300
 0 Number range ids are in NZOGPS Northland but missing from LINZ
 #############################
 
-Finish = 2022-10-08 13:57:45 +1300
-Processing time = 2.065277
+Finish = 2022-11-05 16:16:11 +1300
+Processing time = 1.676974

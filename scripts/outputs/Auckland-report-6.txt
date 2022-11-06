@@ -1,14 +1,10 @@
-Start = 2022-10-08 13:58:33 +1300
+Start = 2022-11-05 16:17:00 +1300
 linzid	street_name	street_name_2	official_street_name
-3025133	Joseph Hammond Pl		Joseph Hammond Rd	-36.99910,174.78567
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
-3081506	Farranfore Rd		Farronfore Rd	-37.08113,174.95167
+3079248	Night Fall Way		Nightfall Way	-36.80657,174.66581
 1821419	Valley Rd (off-road vehicles only)		Valley Rd	-36.66656,174.53579
 1830965	Hull Rd (4WD only, closed in Winter)		Hull Rd	-36.64738,174.58702
-1828931	Cessna Pl		Cessna Cres	-36.95821,174.79069
-3082287	Laurel Rd		Laurel Dr	-37.08883,174.92735
-3082492	Parihua St		Parehua St	-36.93010,174.84549
 #############################
 
-Finish = 2022-10-08 13:58:38 +1300
-Processing time = 4.917616
+Finish = 2022-11-05 16:17:05 +1300
+Processing time = 5.918452

@@ -1,10 +1,7 @@
-Start = 2022-11-05 16:16:13 +1300
+Start = 2022-11-07 09:01:48 +1300
 #############################
 
-3 LINZ ids are missing from NZOGPS Southland
-;linzid=3083321	Dairy Way	-46.4069922387377,168.444080000266
-;linzid=3083322	Brunswick Way	-46.4061743070103,168.453405721367
-;linzid=3083373	Taverner Lane	-45.8781322812818,170.350069752131
+0 LINZ ids are missing from NZOGPS Southland
 #############################
 
 0 LINZ ids are in NZOGPS Southland but missing from LINZ
@@ -16,5 +13,5 @@ Start = 2022-11-05 16:16:13 +1300
 0 Number range ids are in NZOGPS Southland but missing from LINZ
 #############################
 
-Finish = 2022-11-05 16:16:17 +1300
-Processing time = 3.533468
+Finish = 2022-11-07 09:01:50 +1300
+Processing time = 2.440054

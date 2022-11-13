@@ -1,15 +1,7 @@
-Start = 2022-11-05 16:16:20 +1300
+Start = 2022-11-14 09:38:36 +1300
 #############################
 
-8 LINZ ids are missing from NZOGPS Wellington
-;linzid=3083317	Turere Pl	-40.3668390406398,175.638467116243
-;linzid=3083363	Koru Loop	-40.9040629778208,175.015077978577
-;linzid=3083362	Rotoiti Pl	-40.9036718944489,175.014434749347
-;linzid=3083369	Paul Adams Way	-41.1312784023003,174.851889437366
-;linzid=3083375	Betty Boyes St	-41.1345509860604,175.056558586419
-;linzid=3083377	Ken McNatty St	-41.1342630699237,175.057126851041
-;linzid=3083376	Doug Jensen St	-41.1342630699237,175.057126851041
-;linzid=3083378	Raeble Walkington Lane	-41.1345509860604,175.056558586419
+0 LINZ ids are missing from NZOGPS Wellington
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -21,5 +13,5 @@ Start = 2022-11-05 16:16:20 +1300
 0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2022-11-05 16:16:24 +1300
-Processing time = 3.209701
+Finish = 2022-11-14 09:38:38 +1300
+Processing time = 2.131218

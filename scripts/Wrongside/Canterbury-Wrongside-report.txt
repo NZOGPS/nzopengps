@@ -1,11 +1,12 @@
 16 entries in ..\..\LinzDataService\PaperRoads\Canterbury-WrongSide.txt
 159 entries in ..\..\LinzDataService\PaperRoads\Canterbury-LINZWrongSide.txt
-158 wrongside numbers, 2 not in Exclusion files
+158 wrongside numbers, 3 not in Exclusion files
 1 entries in Ignore list are no longer on the wrong side
 1985145	510A Falston Road, Totara Peak	2021/03/28 15:16	-44.384002,170.192195
 
-18 entries in Linz list are no longer on the wrong side
+19 entries in Linz list are no longer on the wrong side
 2174233	2 Stratheona Road, Pleasant Point	2019/10/18 21:16	-44.249762,171.136516	I note that No 7 ID 2174236 letterbox has 7/42. Is this actually 2/42? Wrong end as well as wrong side.
+120772	4855 RANGITATA GORGE ROAD	2013/10/09 12:47	-43.640381,170.897039
 180111	8 PATRICIA PLACE	2013/10/21 16:41	-43.481407,172.576703
 286963	30 WHITEWASH HEAD ROAD	2013/10/16 10:40	-43.570800,172.773846	All the numbers here are quite close to the road 
 287171	5 WESTRIDGE	2013/10/16 10:37	-43.576500,172.771289	Middle of the road

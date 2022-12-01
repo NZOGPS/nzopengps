@@ -42,7 +42,6 @@
 174.69861910,-36.87578723,"1 Kakatai Lane, Waterview, Auckland",Wrong Side: 2006651
 175.03842004,-36.81562249,"200 Te Whau Drive, Waiheke Island",Wrong Side: 2010171
 174.98088014,-36.94381089,"79 Matthias Place, Whitford",Wrong Side: 2020547
-174.92401554,-36.96800663,"1 Lemon Tree Lane, Flat Bush, Auckland",Wrong Side: 2023386
 174.52248031,-36.85793514,"2 Duffy Road, Waitakere, Auckland",Wrong Side: 2038508
 174.51863945,-36.53871054,"110 Cameron Way, Makarau",Wrong Side: 2040312
 174.32364474,-36.58026905,"36 Wilson Road, South Head",Wrong Side: 2042393
@@ -65,7 +64,6 @@
 174.73010625,-36.77051807,"3/4 View Road, Glenfield, Auckland",Wrong Side: 2138535
 174.73010625,-36.77051807,"2/4 View Road, Glenfield, Auckland",Wrong Side: 2138536
 174.90033598,-37.08095644,"92 Hayfield Way, Karaka",Wrong Side: 2141654
-174.45267106,-36.68387642,"9 St Julia Court, Helensville",Wrong Side: 2142276
 174.64342542,-36.70581949,"67 Hartway Grove, Coatesville",Wrong Side: 2142955
 174.74271942,-36.68058815,"10 Kina Place, Long Bay, Auckland",Wrong Side: 2144184
 175.04422395,-36.88565089,"25B Pinebrook Lane, Maraetai, Auckland",Wrong Side: 2147614
@@ -137,6 +135,7 @@
 174.65999085,-36.79717904,"4 Westland Wasp Road, Hobsonville, Auckland",Wrong Side: 2227415
 174.66003935,-36.79720733,"6 Westland Wasp Road, Hobsonville, Auckland",Wrong Side: 2227416
 175.75282094,-36.84307034,"9 Joyce Harsant Place, Cooks Beach",Wrong Side: 2227769
+174.92046869,-36.90075919,"2 Libby Lane, Howick, Auckland",Wrong Side: 2234359
 175.26036544,-36.97579325,"95B Deerys Road, Orere Point",Wrong Side: 2247138
 174.95210327,-37.08054980,"2 Woodstock Lane, Opaheke, Papakura",Wrong Side: 2248703
 174.95204795,-37.08061827,"4 Woodstock Lane, Opaheke, Papakura",Wrong Side: 2248704
@@ -148,6 +147,7 @@
 174.95174155,-37.08084189,"18 Woodstock Lane, Opaheke, Papakura",Wrong Side: 2248711
 174.95166959,-37.08088986,"20 Woodstock Lane, Opaheke, Papakura",Wrong Side: 2248712
 174.90393844,-37.09339691,"17 Walters Road, Karaka",Wrong Side: 2258249
+174.92111203,-36.90579130,"13 Griffstan Lane, Howick, Auckland",Wrong Side: 2258537
 174.91124103,-36.98274493,"4 Seelie Court, Flat Bush, Auckland",Wrong Side: 2258557
 174.91132125,-36.98267872,"6 Seelie Court, Flat Bush, Auckland",Wrong Side: 2258558
 174.91131870,-36.98255140,"8 Seelie Court, Flat Bush, Auckland",Wrong Side: 2258559
@@ -161,5 +161,17 @@
 174.65357904,-36.87536280,"12 Niu Lane, Te Atatu South, Auckland",Wrong Side: 2270567
 174.65357802,-36.87536382,"28 Niu Lane, Te Atatu South, Auckland",Wrong Side: 2270571
 174.65357802,-36.87536179,"50 Niu Lane, Te Atatu South, Auckland",Wrong Side: 2270574
+174.59793476,-36.81782370,"4 Jashi Lane, Westgate, Auckland",Wrong Side: 2274631
+174.59799580,-36.81779319,"6 Jashi Lane, Westgate, Auckland",Wrong Side: 2274632
+174.59802479,-36.81775962,"8 Jashi Lane, Westgate, Auckland",Wrong Side: 2274633
+174.59807209,-36.81773368,"10 Jashi Lane, Westgate, Auckland",Wrong Side: 2274634
+174.59811176,-36.81768943,"12 Jashi Lane, Westgate, Auckland",Wrong Side: 2274635
+174.59817890,-36.81763297,"14 Jashi Lane, Westgate, Auckland",Wrong Side: 2274636
+174.59821857,-36.81755516,"16 Jashi Lane, Westgate, Auckland",Wrong Side: 2274637
 174.65358006,-36.87536280,"6 Niu Lane, Te Atatu South, Auckland",Wrong Side: 2297072
 174.25952644,-36.53761036,"240 Fuller Road, South Head",Wrong Side: 2298263
+174.76917757,-36.76782663,"66 Milford Road, Milford, Auckland",Wrong Side: 2299616
+174.57628277,-36.93544414,"2 Quinns Road, Waiatarua, Auckland",Wrong Side: 2299658
+174.72620829,-36.81828929,"60 Rawene Road, Birkenhead, Auckland",Wrong Side: 2299683
+174.56054417,-36.77583320,"16 Weza Lane, Kumeu",Wrong Side: 2300330
+174.77019729,-36.84467474,"51 Te Ara Tahuhu, Auckland Central, Auckland",Wrong Side: 2302284

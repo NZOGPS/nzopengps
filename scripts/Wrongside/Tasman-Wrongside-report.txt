@@ -1,7 +1,7 @@
 12 entries in ..\..\LinzDataService\PaperRoads\Tasman-WrongSide.txt
 Warning: 2243490 on line 90 in ..\..\LinzDataService\PaperRoads\Tasman-LINZWrongSide.txt - This ID is also set in the ignore file
 92 entries in ..\..\LinzDataService\PaperRoads\Tasman-LINZWrongSide.txt
-68 wrongside numbers, 4 not in Exclusion files
+74 wrongside numbers, 10 not in Exclusion files
 1 entries in Ignore list are no longer on the wrong side
 2243490	2820 Tadmor-Glenhope Road, Glenhope	2022/02/04 13:36	-41.636471,172.662247
 

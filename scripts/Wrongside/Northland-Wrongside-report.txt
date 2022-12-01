@@ -1,10 +1,10 @@
 2 entries in ..\..\LinzDataService\PaperRoads\Northland-WrongSide.txt
 164 entries in ..\..\LinzDataService\PaperRoads\Northland-LINZWrongSide.txt
-121 wrongside numbers, 22 not in Exclusion files
+119 wrongside numbers, 21 not in Exclusion files
 1 entries in Ignore list are no longer on the wrong side
 2102556	83C Mihi Road, Okaihau	2022/07/22 17:19	-35.306064,173.734469
 
-66 entries in Linz list are no longer on the wrong side
+67 entries in Linz list are no longer on the wrong side
 1340017	374 HONEYMOON VALLEY ROAD	2013/12/14 16:02	-35.125938,173.493223
 911988	70 OKAHU ROAD	2013/10/22 10:11	-35.124345,173.263745
 1742449	13 LITTIN ROAD	2013/12/22 14:03	-36.386554,174.448758	Not sure which one is wrong...
@@ -47,6 +47,7 @@
 927034	467 PAHI ROAD	2013/12/16 23:35	-36.144242,174.223113
 1345370	196A-196B WAIHAPA ROAD	2013/10/22 16:50	-35.088031,173.683597
 916296	1981 SH 12	2013/12/14 17:01	-35.843725,173.758622
+1516019	317 Rahuikiri Road, Tomarata	2021/01/24 13:51	-36.241887,174.717701	Obvious building at S36°14.4756' E174°42.9761' that matches RAPID
 916298	1999 SH 12	2013/12/14 17:01	-35.842076,173.758265
 1355863	1 BUSBRIDGE ROAD	2013/12/15 23:56	-36.211415,174.610307	1 and 120 on same side? Need a renumber maybe?
 1344526	513 WEST COAST ROAD	2013/12/14 16:12	-35.039217,173.170616

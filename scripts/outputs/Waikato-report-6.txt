@@ -1,6 +1,7 @@
-Start = 2022-11-16 20:27:41 +1300
+Start = 2022-12-03 15:31:16 +1300
 linzid	street_name	street_name_2	official_street_name
+1814478	Von Tempsky St		Puutikitiki St	-37.78763,175.29032
 #############################
 
-Finish = 2022-11-16 20:27:44 +1300
-Processing time = 2.556914
+Finish = 2022-12-03 15:31:20 +1300
+Processing time = 4.568103

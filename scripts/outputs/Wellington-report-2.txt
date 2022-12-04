@@ -1,7 +1,21 @@
-Start = 2022-11-16 10:10:56 +1300
+Start = 2022-12-03 15:30:42 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Wellington
+14 LINZ ids are missing from NZOGPS Wellington
+;linzid=3083403	Teitei Ave	-40.2202294167,175.5417131
+;linzid=3083383	Quoin Lane	-41.0648909020567,175.223599956152
+;linzid=3083384	Robertson Cl	-40.7390219382589,175.223978669725
+;linzid=3083392	Kotimana Rd	-40.9390280686929,175.646619075929
+;linzid=3083393	Market St	-40.9420356930188,175.686746954518
+;linzid=3083399	Pahiki Cres	-40.6134803599423,175.310639897406
+;linzid=3083401	Hawera Ave	-40.6139197690783,175.31164762612
+;linzid=3083405	Greenwich Grv	-40.3895115336001,175.647510341861
+;linzid=3083432	Te Ara o Takapu	-41.1700732727503,174.96398800109
+;linzid=3083436	Te Ara o Wai Marama	-41.2352980784316,174.951247358497
+;linzid=3083438	Ian Lane	-40.6140678358728,175.277505637873
+;linzid=3083437	Te Ara o Roimata	-41.2357234909591,174.951171803808
+;linzid=3083439	Te Ara o Tahumate	-41.175066689056,174.984797848253
+;linzid=3083434	John Harris Way	-41.0910945034734,175.132835520789
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -13,5 +27,5 @@ Start = 2022-11-16 10:10:56 +1300
 0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2022-11-16 10:10:59 +1300
-Processing time = 2.335066
+Finish = 2022-12-03 15:30:45 +1300
+Processing time = 3.259421

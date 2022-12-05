@@ -30,9 +30,9 @@ my %bynodid;
 my %debug = (
 	sbid			=> 0,
 	OEZCheck		=> 0,	# 1 or linzid or regex e.g '3063230|1830369'
-	overlaperr		=> 3078971,	# 1 or linzid or regex e.g '3063230|1830369'
-	olcheck			=> 3078971,	# 1 or linzid or regex e.g '3063230|1830369'
-	ol1numtype		=> 3078971,	# 1 or linzid
+	overlaperr		=> 0,	# 1 or linzid or regex e.g '3063230|1830369'
+	olcheck			=> 0,	# 1 or linzid or regex e.g '3063230|1830369'
+	ol1numtype		=> 0,	# 1 or linzid
 	rdoverlap		=> 0,
 	readpapernums	=> 0,
 	routecheck		=> 0,

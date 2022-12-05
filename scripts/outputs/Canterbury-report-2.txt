@@ -1,21 +1,8 @@
-Start = 2022-12-03 15:30:45 +1300
+Start = 2022-12-06 12:05:28 +1300
 #############################
 
-14 LINZ ids are missing from NZOGPS Canterbury
+1 LINZ ids are missing from NZOGPS Canterbury
 ;linzid=3079720	Gold Valley Rd	-43.7070990510647,172.652569302629
-;linzid=3083381	Southdown Pl	-43.4996517387448,172.219414631987
-;linzid=3083394	Edgeworth Rd	-43.4982339310192,172.127146001379
-;linzid=3083410	Cooney Ave	-43.4966450546113,172.117909427757
-;linzid=3083411	Bob Reid Cres	-43.4966450546113,172.117909427757
-;linzid=3083413	Freeville Pl	-43.4979276333,172.707858
-;linzid=3083414	Millstead Lane	-43.4690886132488,172.601604056235
-;linzid=3083416	Newbury Lane	-43.4691339296766,172.603271217943
-;linzid=3083417	Oakmill Dr	-43.4690886132488,172.601604056235
-;linzid=3083421	Seaside Lane	-43.5076137953626,172.725748393924
-;linzid=3083425	Sunshine Lane	-43.5074638969418,172.723812249188
-;linzid=3083419	Pier Lane	-43.5076147700352,172.724357669024
-;linzid=3083418	Pingao Lane	-43.5076147700352,172.724357669024
-;linzid=3083433	Limeloader Lane	-43.0981298506403,172.728840521973
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
@@ -27,5 +14,5 @@ Start = 2022-12-03 15:30:45 +1300
 0 Number range ids are in NZOGPS Canterbury but missing from LINZ
 #############################
 
-Finish = 2022-12-03 15:30:49 +1300
-Processing time = 3.883631
+Finish = 2022-12-06 12:05:31 +1300
+Processing time = 2.667165

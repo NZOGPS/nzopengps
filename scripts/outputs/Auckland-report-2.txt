@@ -1,13 +1,7 @@
-Start = 2022-12-03 15:30:54 +1300
+Start = 2022-12-09 21:07:25 +1300
 #############################
 
-11 LINZ ids are missing from NZOGPS Auckland
-;linzid=3083358	Helen Jenepher Lane	-36.9327014638816,174.848151093281
-;linzid=3083368	Karoro Crt	-36.7907953685085,174.663692065282
-;linzid=3083371	Ara Kakaha	-36.9889249605584,174.844193559176
-;linzid=3083372	Ara Rewarewa	-36.9889249605584,174.844193559176
-;linzid=3083374	Tororaro Way	-36.9861934537135,174.839132368916
-;linzid=3083353	Whangamaru Way	-37.058592374522,174.93156824563
+5 LINZ ids are missing from NZOGPS Auckland
 ;linzid=3083397	Don Oliver Lane	-36.9171641542214,174.643569497615
 ;linzid=3083398	Yozin Rd	-36.8662182189833,174.585203843565
 ;linzid=3083404	Morgan Rise	-36.59370085,174.5183365667
@@ -24,5 +18,5 @@ Start = 2022-12-03 15:30:54 +1300
 0 Number range ids are in NZOGPS Auckland but missing from LINZ
 #############################
 
-Finish = 2022-12-03 15:30:59 +1300
-Processing time = 4.558094
+Finish = 2022-12-09 21:07:28 +1300
+Processing time = 2.549883

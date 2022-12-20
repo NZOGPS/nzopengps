@@ -1,7 +1,10 @@
-Start = 2022-12-06 16:36:26 +1300
+Start = 2022-12-19 12:16:14 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Waikato
+3 LINZ ids are missing from NZOGPS Waikato
+;linzid=3083458	Marata Lane	-37.7879470542816,176.311461457416
+;linzid=3083457	Huriana Cres	-37.7879470542816,176.311461457416
+;linzid=3083459	Tanuku Lane	-37.7890237902573,176.31056175509
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -13,5 +16,5 @@ Start = 2022-12-06 16:36:26 +1300
 0 Number range ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
-Finish = 2022-12-06 16:36:29 +1300
-Processing time = 2.813836
+Finish = 2022-12-19 12:16:17 +1300
+Processing time = 3.8346

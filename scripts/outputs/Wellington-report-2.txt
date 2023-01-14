@@ -1,7 +1,12 @@
-Start = 2022-12-19 12:16:07 +1300
+Start = 2023-01-14 12:18:10 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Wellington
+5 LINZ ids are missing from NZOGPS Wellington
+;linzid=3083470	Piwakawaka Lane	-40.3489928042168,175.61067110849
+;linzid=3083469	Korimako Lane	-40.3487396447655,175.610477294569
+;linzid=3083500	Macrocarpa Lane	-41.0204483228431,175.519170805428
+;linzid=3083503	Takapo Grv	-41.1721957258002,174.937041230536
+;linzid=3083504	Parkside Ave	-40.2056123635352,175.584494219721
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -13,5 +18,5 @@ Start = 2022-12-19 12:16:07 +1300
 0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2022-12-19 12:16:10 +1300
-Processing time = 2.815792
+Finish = 2023-01-14 12:18:14 +1300
+Processing time = 3.188056

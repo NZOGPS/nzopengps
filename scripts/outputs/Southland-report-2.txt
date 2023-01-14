@@ -1,7 +1,11 @@
-Start = 2022-12-21 00:18:26 +1300
+Start = 2023-01-14 12:18:01 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Southland
+4 LINZ ids are missing from NZOGPS Southland
+;linzid=3083460	Royal Oak Cres	-45.1028178695919,170.945338320078
+;linzid=3083497	Kaylea Lane	-45.6593445005227,169.407795808418
+;linzid=3083498	Lobb Lane	-45.0161421529218,168.710773574305
+;linzid=3083499	McGregor Lane	-45.0155042972806,168.710689736896
 #############################
 
 0 LINZ ids are in NZOGPS Southland but missing from LINZ
@@ -13,5 +17,5 @@ Start = 2022-12-21 00:18:26 +1300
 0 Number range ids are in NZOGPS Southland but missing from LINZ
 #############################
 
-Finish = 2022-12-21 00:18:28 +1300
-Processing time = 2.237549
+Finish = 2023-01-14 12:18:06 +1300
+Processing time = 4.455846

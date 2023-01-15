@@ -1,8 +1,6 @@
-Start = 2023-01-14 12:18:32 +1300
+Start = 2023-01-15 14:53:44 +1300
 linzid	street_name	street_name_2	official_street_name
-3079159	Gingko Ave		Ginkgo Ave	-45.02608,168.75224
-3083415	Kahu Ridge		Kahu Ridge Rd	-46.05213,170.14273
 #############################
 
-Finish = 2023-01-14 12:18:36 +1300
-Processing time = 3.429987
+Finish = 2023-01-15 14:53:46 +1300
+Processing time = 2.053242

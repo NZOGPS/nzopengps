@@ -1,9 +1,11 @@
-Start = 2022-12-09 21:07:28 +1300
+Start = 2023-01-14 12:18:51 +1300
 linzid	street_name	street_name_2	official_street_name
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
+3080868	Paretaiuru Rd		Paretaiuru Cres	-37.05203,174.94588
+3081521	Oma Hoiho Rise		Oma Hoiho Pl	-36.82364,174.60446
 1821419	Valley Rd (off-road vehicles only)		Valley Rd	-36.66656,174.53579
 1830965	Hull Rd (4WD only, closed in Winter)		Hull Rd	-36.64738,174.58702
 #############################
 
-Finish = 2022-12-09 21:07:31 +1300
-Processing time = 2.804341
+Finish = 2023-01-14 12:18:57 +1300
+Processing time = 6.250641

@@ -1,4 +1,4 @@
-Start = 2023-01-14 12:18:51 +1300
+Start = 2023-02-12 11:14:13 +1300
 linzid	street_name	street_name_2	official_street_name
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
 3080868	Paretaiuru Rd		Paretaiuru Cres	-37.05203,174.94588
@@ -7,5 +7,5 @@ linzid	street_name	street_name_2	official_street_name
 1830965	Hull Rd (4WD only, closed in Winter)		Hull Rd	-36.64738,174.58702
 #############################
 
-Finish = 2023-01-14 12:18:57 +1300
-Processing time = 6.250641
+Finish = 2023-02-12 11:14:19 +1300
+Processing time = 5.562588

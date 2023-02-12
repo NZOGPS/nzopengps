@@ -1,7 +1,9 @@
-Start = 2023-01-14 23:50:04 +1300
+Start = 2023-02-12 11:13:29 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Central
+2 LINZ ids are missing from NZOGPS Central
+;linzid=3083553	Te Wairemana Pl	-38.9900938667,175.8001462833
+;linzid=3083571	Manners Cres	-40.0058858185119,176.543326325242
 #############################
 
 0 LINZ ids are in NZOGPS Central but missing from LINZ
@@ -13,5 +15,5 @@ Start = 2023-01-14 23:50:04 +1300
 0 Number range ids are in NZOGPS Central but missing from LINZ
 #############################
 
-Finish = 2023-01-14 23:50:07 +1300
-Processing time = 2.623234
+Finish = 2023-02-12 11:13:33 +1300
+Processing time = 3.474568

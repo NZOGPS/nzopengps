@@ -1,7 +1,9 @@
 @echo on
 setlocal
 
-set nzogps_sae=..\..\LinzDataService\lds-nz-street-address-CSV\nz-street-address.vrt
+rem change from nz-street-address to nz-addresses
+rem set nzogps_sae=..\..\LinzDataService\lds-nz-street-address-CSV\nz-street-address.vrt
+set nzogps_sae=..\..\LinzDataService\lds-nz-addresses-CSV\nz-addresses.vrt
 set nzogps_rcl=..\..\LinzDataService\lds-nz-roads-subsections-addressing-CSV\nz-roads-subsections-addressing.vrt
 
 %nzogps_ruby_cmd% -e 'puts File.mtime(ENV["nzogps_sae"]).utc.strftime("%%FT%%T")+"\n#note time is in UTC\n#set by %0"' > ..\linz_updates\LINZ_last.date

@@ -5,6 +5,8 @@ require 'optparse/date'
 LINZ_URL="https://data.linz.govt.nz/services;"
 FN_3353="layer_3353_cs"
 FN_3383="layer_3383_cs"
+FN_105689="layer_105689_cs"
+FN_53331="table_53331_cs"
 
 LAST_FN="LINZ_last.date"
 
@@ -78,17 +80,24 @@ def get_linz_updates(options)
 		options[:until] = to_date #bit of a hack - store the time here for later
 	end
 
-	url1 = "#{LINZ_URL}key=#{linz_key}/wfs/layer-"
-	url2 = "-changeset?SERVICE=WFS^&VERSION=2.0.0^&REQUEST=GetFeature^&typeNames=layer-"
+	url1 = "#{LINZ_URL}key=#{linz_key}/wfs/"
+	url2 = "-changeset?SERVICE=WFS^&VERSION=2.0.0^&REQUEST=GetFeature^&typeNames="
 	url3 = "-changeset^&viewparams=from:#{options[:from]}Z;to:#{to_date}Z^&outputFormat=csv"
 	puts("Getting updates from #{options[:from]} to #{to_date}")
 	LOGFILE.puts("Getting updates from #{options[:from]} to #{to_date}")
 
+	dtype = "layer-"
 	layer = 3353
-	system("#{curl_cmd} -o #{FN_3353}.csv #{url1}#{layer}#{url2}#{layer}#{url3}")
+	system("#{curl_cmd} -o #{FN_3353}.csv #{url1}#{dtype}#{layer}#{url2}#{dtype}#{layer}#{url3}")
 	layer = 3383
-	system("#{curl_cmd} -o #{FN_3383}.csv #{url1}#{layer}#{url2}#{layer}#{url3}")
-	system("FOR /f %a IN ('WMIC OS GET LocalDateTime ^| FIND \".\"') DO #{zip_cmd} %~na.zip #{FN_3353}.csv #{FN_3383}.csv")
+	system("#{curl_cmd} -o #{FN_3383}.csv #{url1}#{dtype}#{layer}#{url2}#{dtype}#{layer}#{url3}")
+	layer = 105689
+	system("#{curl_cmd} -o #{FN_105689}.csv #{url1}#{dtype}#{layer}#{url2}#{dtype}#{layer}#{url3}")
+
+	dtype = "table-"
+	layer = 53331
+	system("#{curl_cmd} -o #{FN_53331}.csv #{url1}#{dtype}#{layer}#{url2}#{dtype}#{layer}#{url3}")
+	system("FOR /f %a IN ('WMIC OS GET LocalDateTime ^| FIND \".\"') DO #{zip_cmd} %~na.zip #{FN_3353}.csv #{FN_3383}.csv #{FN_105689}.csv #{FN_53331}.csv" )
 end
 
 def pg_connect()
@@ -128,19 +137,23 @@ def pg_connect()
 end
 
 def put_csv_in_postgres()
-	#find ogr command from environment
+#find ogr command from environment
 	ogr_cmd = ENV['nzogps_ogr2ogr']
 	abort("Processing aborted! nzogps_ogr2ogrl environment variable not set!") if !ogr_cmd
 
-	#check that vrt files with column types exist
+#check that vrt files with column types exist
 	abort("Processing aborted! csv definition file #{FN_3353}.vrt not found!") if !File.file?("#{FN_3353}.vrt")
 	abort("Processing aborted! csv definition file #{FN_3383}.vrt not found!") if !File.file?("#{FN_3383}.vrt")
+	abort("Processing aborted! csv definition file #{FN_105689}.vrt not found!") if !File.file?("#{FN_105689}.vrt")
+	abort("Processing aborted! csv definition file #{FN_53331}.vrt not found!") if !File.file?("#{FN_53331}.vrt")
 
-	#use ogr to import csv files into postgres
+#use ogr to import csv files into postgres
 	system("#{ogr_cmd} --config PG_USE_COPY TRUE -overwrite -f \"PostgreSQL\" \"PG:host=localhost user=postgres  dbname=nzopengps\" -lco OVERWRITE=yes  #{FN_3353}.vrt") or abort("Failed to run #{ogr_cmd} on #{FN_3353}")
 	system("#{ogr_cmd} --config PG_USE_COPY TRUE -overwrite -f \"PostgreSQL\" \"PG:host=localhost user=postgres  dbname=nzopengps\" -lco OVERWRITE=yes  #{FN_3383}.vrt") or abort("Failed to run #{ogr_cmd} on #{FN_3353}")
+	system("#{ogr_cmd} --config PG_USE_COPY TRUE -overwrite -f \"PostgreSQL\" \"PG:host=localhost user=postgres  dbname=nzopengps\" -lco OVERWRITE=yes  #{FN_53331}.vrt") or abort("Failed to run #{ogr_cmd} on #{FN_53331}")
+	system("#{ogr_cmd} --config PG_USE_COPY TRUE -overwrite -f \"PostgreSQL\" \"PG:host=localhost user=postgres  dbname=nzopengps\" -lco OVERWRITE=yes  #{FN_105689}.vrt") or abort("Failed to run #{ogr_cmd} on #{FN_105689}")
 
-	#do postprocessing of addresses in postgres
+#do postprocessing of addresses in postgres
 	@conn.exec "ALTER TABLE #{FN_3353} ADD COLUMN is_odd boolean"
 	@conn.exec "UPDATE #{FN_3353} SET is_odd = MOD(address_number,2) = 1"
 	
@@ -153,6 +166,23 @@ def put_csv_in_postgres()
 	@conn.exec "UPDATE #{FN_3353} SET linz_numb_id = nz_roads_subsections_addressing.address_range_road_id from nz_roads_subsections_addressing where nz_roads_subsections_addressing.road_section_id = #{FN_3353}.road_section_id"
 	@conn.exec "UPDATE #{FN_3353} SET linz_numb_id = #{FN_3383}.address_range_road_id from #{FN_3383} where #{FN_3383}.road_section_id = #{FN_3353}.road_section_id"
 
+#new addresses
+	@conn.exec "ALTER TABLE #{FN_105689} ADD COLUMN is_odd boolean"
+	@conn.exec "UPDATE #{FN_105689} SET is_odd = MOD(address_number,2) = 1"
+
+	@conn.exec "ALTER TABLE #{FN_105689} ADD COLUMN road_section_id integer;"
+	@conn.exec "UPDATE #{FN_105689} sacs SET road_section_id = aar.address_reference_object_value::INTEGER 
+				from aims_address_reference aar where aar.address_id = sacs.address_id and aar.address_reference_object_type='RoadCentreline';"
+
+	@conn.exec "ALTER TABLE #{FN_105689}  ADD COLUMN rna_id integer;"
+	@conn.exec "UPDATE #{FN_105689} sacs SET rna_id = rsa.road_id from nz_roads_subsections_addressing rsa where rsa.road_section_id = sacs.road_section_id"
+	@conn.exec "UPDATE #{FN_105689} sacs SET rna_id = rscs.road_id from #{FN_3383} rscs where rscs.road_section_id = sacs.road_section_id"
+
+	@conn.exec "ALTER TABLE #{FN_105689} ADD COLUMN linz_numb_id integer;"
+	@conn.exec "UPDATE #{FN_105689} sacs SET linz_numb_id = nzrsa.address_range_road_id from nz_roads_subsections_addressing nzrsa where nzrsa.road_section_id = sacs.road_section_id"
+	@conn.exec "UPDATE #{FN_105689} sacs SET linz_numb_id = rscs.address_range_road_id from #{FN_3383} rscs where rscs.road_section_id = sacs.road_section_id"
+
+
 # in a previous installation, a_r_r_i and a_n_h may have been chars rather than integers, so blanks were null rather than 0. 
 # Subsequent code uses something like 'is not null' rather than '!=0'. Perhaps it would be tidier to fix this the other way at some stage, since they are really integers.
 
@@ -160,13 +190,30 @@ def put_csv_in_postgres()
 
 	@conn.exec "VACUUM ANALYSE #{FN_3353}"
 	@conn.exec "VACUUM ANALYSE #{FN_3383}"
+	@conn.exec "VACUUM ANALYSE #{FN_53331}"
+	@conn.exec "VACUUM ANALYSE #{FN_105689}"
 
 end
 
 def check_for_errors(options)
 	error = false
-	print "Address changes: "
+	
+	print "AIMS Address changes: "
+	rs = @conn.exec "select  __change__,count  (__change__)  from #{FN_53331} group by __change__"
+	rs.each do |row|
+		print "%s %s " % [row['__change__'],row['count']]
+	end
+	puts
+
+	print "NZ Address changes: "
 	rs = @conn.exec "select  __change__,count  (__change__)  from #{FN_3353} group by __change__"
+	rs.each do |row|
+		print "%s %s " % [row['__change__'],row['count']]
+	end
+	puts
+
+	print "Street Address changes: "
+	rs = @conn.exec "select  __change__,count  (__change__)  from #{FN_105689} group by __change__"
 	rs.each do |row|
 		print "%s %s " % [row['__change__'],row['count']]
 	end
@@ -178,7 +225,8 @@ def check_for_errors(options)
 		print "%s %s " % [row['__change__'],row['count']]
 	end
 	puts
-	
+	puts
+
 #addresses
 #
 	rs = @conn.exec "SELECT cs.address_id, cs.full_address_ascii, cs.__change__ from #{FN_3353} cs "\

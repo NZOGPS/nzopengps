@@ -19,6 +19,8 @@ rem if %ERRORLEVEL% GTR 0 echo Street address files not found in zip file & goto
 %nzogps_unzip_cmd% lds-new-zealand-2layers-CSV.zip -olds-nz-addresses-CSV nz-addresses\nz-addresses.*
 if %ERRORLEVEL% GTR 0 echo Street address files not found in zip file & goto :eof
 
+rem only partly done??? Also need AIMS:Address Reference...
+
 %nzogps_perl_cmd% renzip.pl
 :xx
 cd ..\scripts\postgres

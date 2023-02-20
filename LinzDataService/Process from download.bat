@@ -11,9 +11,16 @@ del lds-nz-roads-subsections-addressing-CSV\nz-roads*.*
 %nzogps_unzip_cmd% lds-new-zealand-2layers-CSV.zip -olds-nz-roads-subsections-addressing-CSV *\nz-roads-subsections-addressing*.*
 if %ERRORLEVEL% GTR 0 echo Road centre line  files not found in zip file & goto :eof
 
-del lds-nz-street-address-CSV\nz-roads-addressing*.*
-%nzogps_unzip_cmd% lds-new-zealand-2layers-CSV.zip -olds-nz-street-address-CSV nz-street-address\nz-street-address.*
+rem change from nz-street-address to nz-addresses
+rem del lds-nz-street-address-CSV\nz-roads-addressing*.*
+rem %nzogps_unzip_cmd% lds-new-zealand-2layers-CSV.zip -olds-nz-street-address-CSV nz-street-address\nz-street-address.*
+rem if %ERRORLEVEL% GTR 0 echo Street address files not found in zip file & goto :eof
+
+%nzogps_unzip_cmd% lds-new-zealand-2layers-CSV.zip -olds-nz-addresses-CSV nz-addresses\nz-addresses.*
 if %ERRORLEVEL% GTR 0 echo Street address files not found in zip file & goto :eof
+
+rem only partly done??? Also need AIMS:Address Reference...
+
 %nzogps_perl_cmd% renzip.pl
 :xx
 cd ..\scripts\postgres

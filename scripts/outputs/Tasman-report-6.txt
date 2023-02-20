@@ -1,4 +1,4 @@
-Start = 2023-01-14 12:18:30 +1300
+Start = 2023-02-12 11:13:52 +1300
 linzid	street_name	street_name_2	official_street_name
 1788814	Pamarika St		Pamariki St	-41.11492,172.98756
 3082682	Te Ara Arapaoa / Shelley Bay Access Rd		Te Ara Arapaoa	-41.28608,174.01054
@@ -6,5 +6,5 @@ linzid	street_name	street_name_2	official_street_name
 3081823	Upton Lane		Rhodes Lane	-41.33415,173.24200
 #############################
 
-Finish = 2023-01-14 12:18:32 +1300
-Processing time = 1.90411
+Finish = 2023-02-12 11:13:53 +1300
+Processing time = 1.747464

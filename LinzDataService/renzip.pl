@@ -1,7 +1,7 @@
 use strict;
 use File::Basename;
 
-my $fn = shift || "lds-new-zealand-2layers-CSV.zip";
+my $fn = shift || $ENV{nzogps_dl_fn} || "lds-new-zealand-4layers-CSV.zip";
 die "$fn not found\n" if not -f $fn;
 my @stats = stat $fn;
 my @lt = localtime $stats[9];

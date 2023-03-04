@@ -508,3 +508,23 @@ FROM parks p1
 LEFT JOIN "Canterbury-polys" p2 ON upper(p2.label) = upper(p1.common_nam)
 WHERE p2.label IS NULL and p1.centroid_lat::double precision > -44.55553 and p1.shape_area::double precision > 500
 order by d1 asc
+
+#Compare columns of two tables
+select COALESCE(c1.column_name, c2.column_name) as table_column,
+       c1.column_name as table1,
+       c2.column_name as table2
+from
+    (select table_name,
+            column_name
+     from information_schema.columns c
+     where c.table_schema = 'public' and c.table_name = 'nz_street_address') c1
+full join
+         (select table_name,
+                 column_name
+          from information_schema.columns c
+          where c.table_schema = 'public' and c.table_name = 'layer_3353_cs') c2
+on  c1.column_name = c2.column_name
+where c1.column_name is null
+      or c2.column_name is null
+order by c1.table_name,
+         table_column;

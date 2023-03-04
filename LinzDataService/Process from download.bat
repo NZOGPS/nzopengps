@@ -2,31 +2,44 @@
 if not exist ..\setlocals.bat echo ..\setlocals.bat not found. You need to copy and customise the sample file & goto :eof
 if not defined nzogps_base call ..\setlocals.bat
 @echo on
+set nzogps_dl_fn=lds-new-zealand-4layers-CSV.zip
 %nzogps_git% pull -v
 
-@if not exist %nzogps_download%\"lds-new-zealand-2layers-CSV.zip" echo new CSV download not found. & goto :eof
-move %nzogps_download%\"lds-new-zealand-2layers-CSV.zip" .
+@if not exist %nzogps_download%\%nzogps_dl_fn% echo new CSV download %nzogps_dl_fn% not found. & goto :eof
+move %nzogps_download%\%nzogps_dl_fn% .
 
-del lds-nz-roads-subsections-addressing-CSV\nz-roads*.*
-%nzogps_unzip_cmd% lds-new-zealand-2layers-CSV.zip -olds-nz-roads-subsections-addressing-CSV *\nz-roads-subsections-addressing*.*
-if %ERRORLEVEL% GTR 0 echo Road centre line  files not found in zip file & goto :eof
+set nzogps_ex_pt=nz-roads-subsections-addressing
+del lds-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%.*
+%nzogps_unzip_cmd% %nzogps_dl_fn% -olds-%nzogps_ex_pt%-CSV %nzogps_ex_pt%\%nzogps_ex_pt%.*
+if not exist lds-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%.csv echo Road centre line  files not found in zip file %nzogps_dl_fn% & goto :eof
 
-rem change from nz-street-address to nz-addresses
-rem del lds-nz-street-address-CSV\nz-roads-addressing*.*
-rem %nzogps_unzip_cmd% lds-new-zealand-2layers-CSV.zip -olds-nz-street-address-CSV nz-street-address\nz-street-address.*
-rem if %ERRORLEVEL% GTR 0 echo Street address files not found in zip file & goto :eof
+set nzogps_ex_pt=nz-addresses
+del lds-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%.*
+%nzogps_unzip_cmd% %nzogps_dl_fn% -olds-%nzogps_ex_pt%-CSV %nzogps_ex_pt%\%nzogps_ex_pt%.*
+if not exist lds-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%.csv echo Address files not found in zip file %nzogps_dl_fn% & goto :eof
 
-%nzogps_unzip_cmd% lds-new-zealand-2layers-CSV.zip -olds-nz-addresses-CSV nz-addresses\nz-addresses.*
-if %ERRORLEVEL% GTR 0 echo Street address files not found in zip file & goto :eof
+rem no nz in dir name
+set nzogps_ex_pt=AIMS-address-reference
+del lds-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%.*
+%nzogps_unzip_cmd% %nzogps_dl_fn% -olds-%nzogps_ex_pt%-CSV %nzogps_ex_pt%\%nzogps_ex_pt%.*
+if not exist lds-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%.csv echo Address reference files not found in zip file %nzogps_dl_fn% & goto :eof
 
-rem only partly done??? Also need AIMS:Address Reference...
+rem change from nz-street-address to nz-addresses - temp add 'deprecated' to fn
+set nzogps_ex_pt=nz-street-address
+del lds-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%.*
+%nzogps_unzip_cmd% %nzogps_dl_fn% -olds-%nzogps_ex_pt%-CSV %nzogps_ex_pt%-deprecated\%nzogps_ex_pt%-deprecated.*
+if not exist lds-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%-deprecated.csv echo old address files not found in zip file %nzogps_dl_fn% & goto :eof
+rem fix filenames
+ren lds-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%-deprecated.* %nzogps_ex_pt%.*
+rem change reference to deprecated in vrt file - untested 
+%nzogps_perl_cmd% -i.bak -pe "s/deprecated-//" lds-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%.vrt
 
 %nzogps_perl_cmd% renzip.pl
 :xx
 cd ..\scripts\postgres
 call update.bat
 cd ..
-start Generatenumbers
+start %nzogps_donumbers%
 cd ..\linzdataservice
 %nzogps_ruby_cmd% pg-road-parser.rb
 cd ..\scripts

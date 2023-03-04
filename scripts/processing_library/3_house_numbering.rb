@@ -24,33 +24,47 @@ gem install progressbar
 Inputs:
 The LINZ Data Service exports are available from
 NUMBERS
-http://data.linz.govt.nz/layer/779-nz-street-address-electoral/
-You can also get ROADS although they aren't specifically needed for this step
-http://data.linz.govt.nz/layer/818-nz-road-centre-line-electoral/
+Old:
+	http://data.linz.govt.nz/layer/779-nz-street-address-electoral/
+	You can also get ROADS although they aren't specifically needed for this step
+	http://data.linz.govt.nz/layer/818-nz-road-centre-line-electoral/
+Newer:
+	https://data.linz.govt.nz/layer/53383-nz-roads-subsections-addressing/
+	https://data.linz.govt.nz/layer/53353-nz-street-address-deprecated/
+Latest, as nzsa has been deprecated (2023)
+	https://data.linz.govt.nz/layer/105689-nz-addresses/
+	however this layer doesn't have road ids, so you also need:
+	https://data.linz.govt.nz/table/53331-aims-address-reference/
+	to get address.
+	
+Use the process from download script in linzdataservice to automate the processing
 
  -- must export using Map Projection NZGD2000 (EPSG: 4167 Lat/Long) NOT the default option NZGD200 / NZ Transverse Mercator 
 These won't be checked into our repository, so each person will need to get it themselves.
 
 ###
 
-Open pgAdmin
-Edit->New object->New Database
-Name: nzopengps
-template: template_postgis
+Manual Option:
+	Open pgAdmin
+	Edit->New object->New Database
+	Name: nzopengps
+	template: template_postgis
 
-Now use the "PostGIS Shapefile and DBF Loader" application to import these shape files
-Shapefile: nz-street-address-electoral.shp (the one downloaded above)
-Username: postgres
-Password: #master password entered during install
-Database: nzopengps
+	Now use the "PostGIS Shapefile and DBF Loader" application to import these shape files
+	Shapefile: nz-street-address-electoral.shp (the one downloaded above)
+	Username: postgres
+	Password: #master password entered during install
+	Database: nzopengps
 
-Test Connection... 
-Connection succeeded
+	Test Connection... 
+	Connection succeeded
 
-Configuration
-SRID: 4167
-Options -> DBF File Character Encoding -> UTF-8
-Destination Table: nz-street-address-electoral
+	Configuration
+	SRID: 4167
+	Options -> DBF File Character Encoding -> UTF-8
+	Destination Table: nz-street-address-electoral
+Auto option:
+	Use process/update script that uses 
 
 Import
 

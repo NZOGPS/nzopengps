@@ -1,16 +1,7 @@
-Start = 2023-03-04 16:57:21 +1300
+Start = 2023-03-05 17:06:31 +1300
 #############################
 
-9 LINZ ids are missing from NZOGPS Wellington
-;linzid=3083599	Ara Koa	-41.2553884638867,174.784629316078
-;linzid=3083611	Atiamuri Cres	-41.1509817639004,174.980824023365
-;linzid=3083612	Matahina Grv	-41.1509817639004,174.980824023365
-;linzid=3083613	Kaitara Park Lane	-41.1396771541806,175.444771258153
-;linzid=3083637	George Hawkins Way	-41.2219280857687,175.450792369719
-;linzid=3083651	Moa Pl	-40.3227789597437,175.85773013083
-;linzid=3083650	Latha Grv	-40.3231734962918,175.858667151196
-;linzid=3083652	Nero Lane	-40.3231495924023,175.858594400228
-;linzid=3083653	Feng Lane	-40.3231734962918,175.858667151196
+0 LINZ ids are missing from NZOGPS Wellington
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -22,5 +13,5 @@ Start = 2023-03-04 16:57:21 +1300
 0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2023-03-04 16:57:23 +1300
-Processing time = 1.968778
+Finish = 2023-03-05 17:06:33 +1300
+Processing time = 2.055075

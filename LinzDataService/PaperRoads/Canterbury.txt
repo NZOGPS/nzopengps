@@ -323,3 +323,14 @@
 1779268	McQueens Rd	Teddington(Canterbury,NZ)	2017/09/12 23:39	-43.687310,172.659460
 1781671	Temuka Tce	Temuka(Canterbury,NZ)	2018/02/12 23:16	-44.238790,171.270100
 1781854	Elm St	Gleniti, Timaru(Canterbury,NZ)	2022/08/07 14:32	-44.380390,171.188543
+1784409	Morgan Rd	Eyrewell Forest(Canterbury,NZ)	2023/03/05 13:28	-43.453370,172.331500
+1786842	Ensor Rd	Eyrewell Forest(Canterbury,NZ)	2023/03/05 13:29	-43.425760,172.346240
+1784404	Uren Rd	Eyrewell Forest(Canterbury,NZ)	2023/03/05 13:29	-43.403870,172.305620
+1784898	Corby Rd	Eyrewell Forest(Canterbury,NZ)	2023/03/05 13:35	-43.401880,172.254680
+1783795	Race Rd	Eyrewell Forest(Canterbury,NZ)	2023/03/05 13:35	-43.408210,172.259320
+1786840	Edwards Trk	Eyrewell Forest(Canterbury,NZ)	2023/03/05 14:03	-43.431350,172.304050
+1784927	Dixon Rd	Eyrewell Forest(Canterbury,NZ)	2023/03/05 14:04	-43.395970,172.275350
+1785159	Lindsay Rd	Eyrewell Forest(Canterbury,NZ)	2023/03/05 14:43	-43.416340,172.199280
+1784912	Perham Rd	Eyrewell Forest(Canterbury,NZ)	2023/03/05 14:49	-43.390780,172.255350
+1784920	Courtenay Rd		2023/03/05 14:49	-43.403610,172.262800
+1784909	Johnson Rd	Eyrewell Forest(Canterbury,NZ)	2023/03/05 14:49	-43.396580,172.251890

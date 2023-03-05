@@ -1,13 +1,7 @@
-Start = 2023-03-04 16:57:17 +1300
+Start = 2023-03-05 17:06:26 +1300
 #############################
 
-6 LINZ ids are missing from NZOGPS Southland
-;linzid=3083638	Amos Way	-46.4506563783652,168.316601956528
-;linzid=3083639	Flaxmill Way	-46.4517619937371,168.316611277444
-;linzid=3083645	Ernies Way	-44.6798606998123,169.142125761263
-;linzid=3083647	Tuatara Rise	-44.6795833426781,169.142801016453
-;linzid=3083646	Whio Cres	-44.6795833426781,169.142801016453
-;linzid=3083654	Torridge Lane	-45.8944780304755,170.425675444513
+0 LINZ ids are missing from NZOGPS Southland
 #############################
 
 0 LINZ ids are in NZOGPS Southland but missing from LINZ
@@ -19,5 +13,5 @@ Start = 2023-03-04 16:57:17 +1300
 0 Number range ids are in NZOGPS Southland but missing from LINZ
 #############################
 
-Finish = 2023-03-04 16:57:19 +1300
-Processing time = 2.373198
+Finish = 2023-03-05 17:06:29 +1300
+Processing time = 2.617324

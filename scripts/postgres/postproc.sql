@@ -10,7 +10,7 @@ ALTER TABLE nz_addresses ADD COLUMN linz_numb_id integer;
 SELECT 'IS ODD',NOW(); -- 4 min on 20230304
 UPDATE nz_addresses    SET is_odd = MOD(address_number,2) = 1;
 
-SELECT 'ROAD SECTION ID',NOW(); -- 27 min on 20230304
+SELECT 'ROAD SECTION ID',NOW(); -- 47 min on 20230304
 UPDATE nz_addresses sa 
 	SET road_section_id = aar.address_reference_object_value::INTEGER 
 	from aims_address_reference aar
@@ -18,7 +18,7 @@ UPDATE nz_addresses sa
 	
 SELECT 'RNA ID,LNID',NOW(); -- 1:32  on 20230304
 UPDATE nz_addresses sa 
-	SET  rna_id       = rsa.road_id,
+	SET  rna_id = rsa.road_id,
 		linz_numb_id = rsa.address_range_road_id
 	from nz_roads_subsections_addressing rsa 
 	where sa.road_section_id is not null and rsa.road_section_id = sa.road_section_id;
@@ -45,7 +45,7 @@ UPDATE nz_street_address sa
 	SET linz_numb_id = rsa.address_range_road_id 
 	from nz_roads_subsections_addressing rsa 
 	where rsa.road_section_id = sa.road_section_id;
-SELECT 'RNA ID,LNID DONE',NOW();
+SELECT 'RNA ID,LNID DONE',NOW();		-- combination of both 48 min on 20230304
 
 --now add indexes for speed
 CREATE INDEX idx_rna_sae_id ON nz_street_address USING btree (rna_id);

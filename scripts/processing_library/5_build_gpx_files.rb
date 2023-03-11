@@ -56,7 +56,7 @@ def pre_processing()
   load_config()
 
   top,right,bottom,left = @bounds
-  sql_query = "SELECT full_address_number, full_road_name_ascii, suburb_locality_ascii, to_char(shape_x,'9999D999999'), to_char(shape_y,'9999D999999'), rna_id, address_id FROM nz_street_address WHERE ST_Contains(ST_SetSRID(ST_MakeBox2D(ST_Point(#{left}, #{bottom}), ST_Point(#{right} ,#{top})),#{WORKING_SRID}), wkb_geometry);"
+  sql_query = "SELECT full_address_number, full_road_name_ascii, suburb_locality_ascii, to_char(shape_x,'9999D999999'), to_char(shape_y,'9999D999999'), rna_id, address_id FROM nz_addresses WHERE ST_Contains(ST_SetSRID(ST_MakeBox2D(ST_Point(#{left}, #{bottom}), ST_Point(#{right} ,#{top})),#{WORKING_SRID}), wkb_geometry);"
   require '..\linzdataservice\nzogps_library.rb'
   
   begin

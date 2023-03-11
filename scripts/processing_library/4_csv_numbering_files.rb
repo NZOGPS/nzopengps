@@ -20,7 +20,7 @@ end
 def pre_processing()
 
   top,right,bottom,left = @bounds
-  sql_query = "SELECT  DISTINCT ON (rna_id, linz_numb_id, address_number) address_number, full_road_name_ascii, to_char(shape_x,'9999D999999'), to_char(shape_y,'9999D999999'), rna_id, linz_numb_id FROM nz_street_address WHERE rna_id is not null and ST_Contains(ST_SetSRID(ST_MakeBox2D(ST_Point(#{left}, #{bottom}), ST_Point(#{right} ,#{top})),#{WORKING_SRID}), wkb_geometry);"
+  sql_query = "SELECT  DISTINCT ON (rna_id, linz_numb_id, address_number) address_number, full_road_name_ascii, to_char(shape_x,'9999D999999'), to_char(shape_y,'9999D999999'), rna_id, linz_numb_id FROM nz_addresses WHERE rna_id is not null and ST_Contains(ST_SetSRID(ST_MakeBox2D(ST_Point(#{left}, #{bottom}), ST_Point(#{right} ,#{top})),#{WORKING_SRID}), wkb_geometry);"
   sql_high_query = sql_query.gsub("address_number","address_number_high");
   sql_high_query = sql_high_query.gsub("and ST_Contains","and address_number_high is not null and address_number_high <> 0 and address_number_high <> address_number and ST_Contains");
 

@@ -32,7 +32,7 @@ if not exist lds-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%-deprecated.csv echo old addre
 rem fix filenames
 ren lds-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%-deprecated.* %nzogps_ex_pt%.*
 rem change reference to deprecated in vrt file - untested 
-%nzogps_perl_cmd% -i.bak -pe "s/deprecated-//" lds-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%.vrt
+%nzogps_perl_cmd% -i.bak -pe "s/-deprecated//" lds-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%.vrt
 
 %nzogps_perl_cmd% renzip.pl
 :xx

@@ -1,6 +1,7 @@
 CREATE INDEX idx_road_id ON nz_roads_subsections_addressing USING btree (road_id);
 
-\t -- psql command to emit only tuples on selects
+-- below is psql command to emit only tuples on selects for timing
+\t 
 SELECT 'CREATE TABLES',NOW();
 ALTER TABLE nz_addresses ADD COLUMN is_odd boolean;
 ALTER TABLE nz_addresses ADD COLUMN road_section_id integer;

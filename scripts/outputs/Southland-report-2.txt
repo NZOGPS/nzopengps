@@ -1,7 +1,10 @@
-Start = 2023-03-11 16:56:49 +1300
+Start = 2023-03-21 00:13:54 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Southland
+3 LINZ ids are missing from NZOGPS Southland
+;linzid=3083662	Frontier Elm Ave	-45.0203443241644,168.753452712537
+;linzid=3083663	White Birch Way	-45.0216064718857,168.75028512635
+;linzid=3083664	Jade Lake Cres	-45.0358169723582,168.63433254078
 #############################
 
 0 LINZ ids are in NZOGPS Southland but missing from LINZ
@@ -13,5 +16,5 @@ Start = 2023-03-11 16:56:49 +1300
 0 Number range ids are in NZOGPS Southland but missing from LINZ
 #############################
 
-Finish = 2023-03-11 16:56:51 +1300
-Processing time = 2.31975
+Finish = 2023-03-21 00:13:56 +1300
+Processing time = 2.293458

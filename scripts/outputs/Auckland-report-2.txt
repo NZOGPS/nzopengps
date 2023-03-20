@@ -1,7 +1,7 @@
-Start = 2023-03-04 16:57:29 +1300
+Start = 2023-03-21 00:14:28 +1300
 #############################
 
-11 LINZ ids are missing from NZOGPS Auckland
+16 LINZ ids are missing from NZOGPS Auckland
 ;linzid=3083601	Aumarire Lane	-36.9526449297756,174.799891428912
 ;linzid=3083602	Hari Pl	-36.9526567962118,174.79984176958
 ;linzid=3083615	Mara Way	-36.9027326234189,174.637131553816
@@ -13,9 +13,15 @@ Start = 2023-03-04 16:57:29 +1300
 ;linzid=3083643	Kahakaha Lane	-37.0868171090889,174.931493545636
 ;linzid=3083644	Te Puketoka Lane	-36.953594780357,174.794301863079
 ;linzid=3083649	Komarohi Rd	-36.4298181358501,174.727150641434
+;linzid=3083655	Ada Lane	-36.756478341557,174.60622949515
+;linzid=3083656	Fredrica Cres	-36.6061939556101,174.65956951366
+;linzid=3083657	Pakanui Lane	-36.8271729653582,174.564089061511
+;linzid=3083658	Piwari Lane	-36.8271729653582,174.564089061511
+;linzid=3083659	Solidus Lane	-36.9760307518712,174.92966177441
 #############################
 
-1 LINZ ids are in NZOGPS Auckland but missing from LINZ
+2 LINZ ids are in NZOGPS Auckland but missing from LINZ
+;linzid=3075209	Walkway	-36.90623,174.65614
 ;linzid=3080301	Pungawerewere Lane	-36.89066,174.67803
 #############################
 
@@ -25,5 +31,5 @@ Start = 2023-03-04 16:57:29 +1300
 0 Number range ids are in NZOGPS Auckland but missing from LINZ
 #############################
 
-Finish = 2023-03-04 16:57:31 +1300
-Processing time = 2.577888
+Finish = 2023-03-21 00:14:31 +1300
+Processing time = 2.577371

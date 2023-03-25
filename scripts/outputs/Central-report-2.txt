@@ -1,9 +1,7 @@
-Start = 2023-03-15 02:59:37 +1300
+Start = 2023-03-25 12:42:23 +1300
 #############################
 
-2 LINZ ids are missing from NZOGPS Central
-;linzid=3083661	Wai Orotu St	-39.5282615650975,176.908725810497
-;linzid=3083660	Wai Whatu St	-39.5272636407083,176.908050770443
+0 LINZ ids are missing from NZOGPS Central
 #############################
 
 0 LINZ ids are in NZOGPS Central but missing from LINZ
@@ -15,5 +13,5 @@ Start = 2023-03-15 02:59:37 +1300
 0 Number range ids are in NZOGPS Central but missing from LINZ
 #############################
 
-Finish = 2023-03-15 02:59:40 +1300
-Processing time = 3.388373
+Finish = 2023-03-25 12:42:26 +1300
+Processing time = 2.662614

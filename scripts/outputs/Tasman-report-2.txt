@@ -1,13 +1,14 @@
-Start = 2023-03-15 02:59:31 +1300
+Start = 2023-03-21 22:08:44 +1300
 #############################
 
-6 LINZ ids are missing from NZOGPS Tasman
+7 LINZ ids are missing from NZOGPS Tasman
 ;linzid=3083603	Blackbarn Cl	-41.3367301494384,173.212970335303
 ;linzid=3083604	Tuia Lane	-41.3399314788922,173.215516724444
 ;linzid=3083605	Ocean Dr	-41.2460949095575,173.320234611387
 ;linzid=3083606	Ashley Tce	-41.320031383411,173.254914759462
 ;linzid=3083607	McLaughlin Lane	-41.3198120708302,173.255204987975
 ;linzid=3083608	Homestead Ave	-41.3214105743365,173.256899718064
+;linzid=3083668	Travers Way	-42.5311452,172.8292387167
 #############################
 
 4 LINZ ids are in NZOGPS Tasman but missing from LINZ
@@ -23,5 +24,5 @@ Start = 2023-03-15 02:59:31 +1300
 0 Number range ids are in NZOGPS Tasman but missing from LINZ
 #############################
 
-Finish = 2023-03-15 02:59:33 +1300
-Processing time = 2.068658
+Finish = 2023-03-21 22:08:46 +1300
+Processing time = 1.790207

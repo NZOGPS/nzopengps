@@ -1,25 +1,10 @@
-Start = 2023-03-21 22:09:01 +1300
+Start = 2023-03-26 14:19:15 +1300
 #############################
 
-12 LINZ ids are missing from NZOGPS Waikato
-;linzid=3083600	Kanuka Rise	-37.1799870319112,175.568024562281
-;linzid=3083609	Eventide Way	-37.6855264667554,176.128654715228
-;linzid=3083610	Robson Crt	-37.7183037951675,176.139444609799
-;linzid=3083648	Otumahi Lane	-38.0332046440955,176.839358031339
-;linzid=3083667	Lakeview Pl	-38.36463635,175.7741441667
-;linzid=3083674	Mangamoteo St	-38.6338232591059,177.992196940953
-;linzid=3083671	Allan Ave	-38.6330836877255,177.99066742847
-;linzid=3083675	Makakahi St	-38.6327597516696,177.991607023247
-;linzid=3083676	Fenton St	-38.6335757764072,177.993035533407
-;linzid=3083678	Millpark Lane	-37.7905924569258,175.407498694669
-;linzid=3083679	Allie Dr	-37.2681232812088,174.960275317471
-;linzid=3083680	Archie Way	-37.8131783167,175.1297667833
+0 LINZ ids are missing from NZOGPS Waikato
 #############################
 
-3 LINZ ids are in NZOGPS Waikato but missing from LINZ
-;linzid=3076902	Roadway	-37.72290,177.70794
-;linzid=3075012	Roadway	-37.77389,177.67109
-;linzid=3074381	Roadway	-37.77085,177.67739
+0 LINZ ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Waikato
@@ -28,5 +13,5 @@ Start = 2023-03-21 22:09:01 +1300
 0 Number range ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
-Finish = 2023-03-21 22:09:06 +1300
-Processing time = 4.318807
+Finish = 2023-03-26 14:19:18 +1300
+Processing time = 3.326719

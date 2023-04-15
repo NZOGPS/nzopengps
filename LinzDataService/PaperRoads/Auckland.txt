@@ -135,3 +135,4 @@
 1821795	Hanlon Cres	Devonport, North Shore City(Auckland,NZ)	2017/10/01 14:38	-36.816080,174.795700
 3036433	Pacific Ocean	Great Mercury Island(Waikato,NZ)	2020/11/12 15:32	-36.602900,175.772660
 1825672	Langley Rd	Waiheke Island(Auckland,NZ)	2022/12/15 16:05	-36.845680,175.139020
+1825613	MacQuarrie Rd	Waiheke Island(Auckland,NZ)	2023/04/15 17:06	-36.843120,175.138120

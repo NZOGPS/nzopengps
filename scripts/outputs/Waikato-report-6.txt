@@ -1,6 +1,10 @@
-Start = 2023-03-26 14:19:18 +1300
+Start = 2023-05-02 10:28:33 +1200
 linzid	street_name	street_name_2	official_street_name
+3034090	Waiotahi Valley Back Rd		Waiotahe Valley Back Rd	-38.00293,177.19217
+3034090	Waiotahi Valley Back Rd		Waiotahe Valley Back Rd	-38.02087,177.18849
+1802699	Omaio-Wharawhara Roadway		Wharawhara Rd	-37.81282,177.63803
+3046503	Waiotahi Drifts Blvd		Waiotahe Drifts Blvd	-37.99521,177.24508
 #############################
 
-Finish = 2023-03-26 14:19:21 +1300
-Processing time = 2.380309
+Finish = 2023-05-02 10:28:37 +1200
+Processing time = 4.052613

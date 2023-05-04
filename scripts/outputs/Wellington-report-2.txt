@@ -1,10 +1,18 @@
-Start = 2023-03-25 13:34:07 +1300
+Start = 2023-05-02 10:28:02 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Wellington
+7 LINZ ids are missing from NZOGPS Wellington
+;linzid=3083698	Peaks Ave	-41.015020670669,175.5286734474
+;linzid=3083700	Georgina Beyer Way	-41.015020670669,175.5286734474
+;linzid=3083699	Kakariki Cres	-41.0139116258134,175.526724366864
+;linzid=3083714	Woodlands Way	-41.0781998401756,175.450723408215
+;linzid=3083730	Whio Lane	-40.6377364835539,175.227854609318
+;linzid=3083738	Willow Lane	-41.2594335652615,175.42909750027
+;linzid=3083744	Warrens Rd	-41.0673079525014,174.85291651665
 #############################
 
-0 LINZ ids are in NZOGPS Wellington but missing from LINZ
+1 LINZ ids are in NZOGPS Wellington but missing from LINZ
+;linzid=3080045	Heron Pl	-41.11305,174.89707
 #############################
 
 0 Number range ids are missing from NZOGPS Wellington
@@ -13,5 +21,5 @@ Start = 2023-03-25 13:34:07 +1300
 0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2023-03-25 13:34:10 +1300
-Processing time = 2.320911
+Finish = 2023-05-02 10:28:05 +1200
+Processing time = 2.984567

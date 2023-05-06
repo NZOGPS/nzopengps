@@ -721,3 +721,4 @@ NO SUFI			ARDEN ST		New Plymouth (Taranaki, NZ)
 3075225	Roadway		2020/09/26 20:21	-39.121080,177.193920
 1817403	Hendy Rd	Matemateaonga(Taranaki,NZ)	2022/01/12 13:51	-39.392420,174.548490
 3061816	Waitiri Rd	Matemateaonga(Taranaki,NZ)	2022/01/12 13:52	-39.401330,174.567470
+1804685	Sigismund St	Norsewood(Manawatu-Wanganui,NZ)	2023/05/06 14:23	-40.067800,176.216170

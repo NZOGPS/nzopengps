@@ -26,3 +26,4 @@
 1030000184506	E,188,188	Waikaremoana Rd	Urewera National Park(Bay of Plenty,NZ)	2021/01/10 15:49	-38.672055,176.957853
 1030000046036	E,52,52	Tanoa St	Manunui, Taumarunui(Manawatu-Wanganui,NZ)	2021/11/20 14:21	-38.921190,175.339520
 1030000047753	O,39,39	Ballance St	Apiti(Manawatu-Wanganui,NZ)	2022/06/12 20:27	-39.973820,175.870190
+1030000047861	E,24,24	Sigismund St	Norsewood(Manawatu-Wanganui,NZ)	2023/05/06 14:55	-40.067800,176.216170

@@ -1,24 +1,7 @@
-Start = 2023-05-02 10:27:55 +1200
+Start = 2023-05-08 00:19:01 +1200
 #############################
 
-17 LINZ ids are missing from NZOGPS Southland
-;linzid=3083662	Frontier Elm Ave	-45.0203443241644,168.753452712537
-;linzid=3083663	White Birch Way	-45.0216064718857,168.75028512635
-;linzid=3083664	Jade Lake Cres	-45.0358169723582,168.63433254078
-;linzid=3083689	Jacks Pl	-44.7345363672229,171.041659496693
-;linzid=3083704	Mackenzie Point Rise	-45.0643397893629,170.974550939827
-;linzid=3083705	Stoneleigh Dr	-44.7036990648825,169.11395860462
-;linzid=3083707	Glenbrook Lane	-44.7040864437572,169.112873559675
-;linzid=3083706	Glenbrae Cres	-44.7040864437572,169.112873559675
-;linzid=3083723	Kahikatea Dr	-46.0899396114278,168.962024440624
-;linzid=3083724	Kowhai Pl	-46.0884752367099,168.962221565596
-;linzid=3083745	Marakura Dr	-45.4092959921037,167.72761357677
-;linzid=3083746	Tukare Loop	-45.4092959921037,167.72761357677
-;linzid=3083747	Te Kuaha Cres	-45.4087872924627,167.726833346685
-;linzid=3083754	Enterprise Pl	-45.8576871197276,170.355899948153
-;linzid=3083755	Magnolia Lane	-45.8785899217001,170.378327704937
-;linzid=3083708	Frogmore Lane	-44.9804461469232,168.71582497206
-;linzid=3083756	McKinlay Lane	-45.0727710084667,168.74101937936
+0 LINZ ids are missing from NZOGPS Southland
 #############################
 
 0 LINZ ids are in NZOGPS Southland but missing from LINZ
@@ -30,5 +13,5 @@ Start = 2023-05-02 10:27:55 +1200
 0 Number range ids are in NZOGPS Southland but missing from LINZ
 #############################
 
-Finish = 2023-05-02 10:27:58 +1200
-Processing time = 3.793648
+Finish = 2023-05-08 00:19:04 +1200
+Processing time = 2.39124

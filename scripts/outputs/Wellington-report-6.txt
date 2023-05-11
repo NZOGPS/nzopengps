@@ -1,7 +1,7 @@
-Start = 2023-05-02 10:28:27 +1200
+Start = 2023-05-10 23:16:03 +1200
 linzid	street_name	street_name_2	official_street_name
 3083007	Cottle Cove		Cottle Way	-40.55441,175.20189
 #############################
 
-Finish = 2023-05-02 10:28:29 +1200
-Processing time = 2.521818
+Finish = 2023-05-10 23:16:05 +1200
+Processing time = 2.379799

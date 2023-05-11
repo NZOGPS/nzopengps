@@ -1,7 +1,7 @@
-Start = 2023-05-02 10:28:13 +1200
+Start = 2023-05-10 23:15:50 +1200
 #############################
 
-18 LINZ ids are missing from NZOGPS Auckland
+23 LINZ ids are missing from NZOGPS Auckland
 ;linzid=3083695	Puruatanga Rd	-36.6000090080358,174.661385938822
 ;linzid=3083682	Parkwood Ave	-36.825310007443,174.615337996998
 ;linzid=3083683	Raupeti Lane	-36.8852168500172,174.643389922043
@@ -20,6 +20,11 @@ Start = 2023-05-02 10:28:13 +1200
 ;linzid=3083752	Suva Lane	-36.8710523310291,174.604118786328
 ;linzid=3083753	Ba Lane	-36.8710523310291,174.604118786328
 ;linzid=3083749	Hari Rd	-37.1003319414688,174.935747536776
+;linzid=3083784	Keikei St	-36.8151166112727,174.593033147213
+;linzid=3083786	Mairehau St	-36.8138791304488,174.594421338826
+;linzid=3083785	Mahogany St	-36.8142944455983,174.593339787479
+;linzid=3083788	Tawheowheo Cl	-36.8518683771966,174.592810222153
+;linzid=3083787	Taunoka Lane	-36.8534037692188,174.59068502152
 #############################
 
 2 LINZ ids are in NZOGPS Auckland but missing from LINZ
@@ -33,5 +38,5 @@ Start = 2023-05-02 10:28:13 +1200
 0 Number range ids are in NZOGPS Auckland but missing from LINZ
 #############################
 
-Finish = 2023-05-02 10:28:17 +1200
-Processing time = 4.257799
+Finish = 2023-05-10 23:15:54 +1200
+Processing time = 3.911904

@@ -1,21 +1,16 @@
-Start = 2023-05-02 10:27:51 +1200
+Start = 2023-05-10 23:15:29 +1200
 #############################
 
-11 LINZ ids are missing from NZOGPS Northland
-;linzid=3083624	Thomas Henry Rise	-35.8662412975439,174.439140335287
-;linzid=3083633	Maree Ave	-35.6825949684689,174.339605503571
-;linzid=3083634	Tay St	-35.6839126875336,174.3400897235
-;linzid=3083632	Glenbervie Dr	-35.6830562822152,174.339138885898
-;linzid=3083635	Aquarius Lane	-36.0400057035352,174.52289513913
-;linzid=3083636	Pegasus Lane	-36.0392940296619,174.523024935794
+5 LINZ ids are missing from NZOGPS Northland
 ;linzid=3083702	Woolshed Lane	-35.6673761347982,174.326402291878
 ;linzid=3083703	Waiata Lane	-35.6686023207724,174.326541540332
 ;linzid=3083715	Mataroa Way	-34.861920324565,173.155277020231
 ;linzid=3083720	Silver Fern Way	-35.7311653060193,174.303937971471
-;linzid=3083666	Waraki Way	-36.2675807822054,175.491213800967
+;linzid=3083792	Grand Hills Lane	-35.7381563551991,174.244580680095
 #############################
 
-0 LINZ ids are in NZOGPS Northland but missing from LINZ
+1 LINZ ids are in NZOGPS Northland but missing from LINZ
+;linzid=3083666	Waraki Way	-36.26758,175.49122
 #############################
 
 0 Number range ids are missing from NZOGPS Northland
@@ -24,5 +19,5 @@ Start = 2023-05-02 10:27:51 +1200
 0 Number range ids are in NZOGPS Northland but missing from LINZ
 #############################
 
-Finish = 2023-05-02 10:27:53 +1200
-Processing time = 1.715303
+Finish = 2023-05-10 23:15:31 +1200
+Processing time = 1.897747

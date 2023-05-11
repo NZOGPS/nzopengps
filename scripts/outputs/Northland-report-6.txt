@@ -1,9 +1,7 @@
-Start = 2023-05-02 10:28:17 +1200
+Start = 2023-05-10 23:15:54 +1200
 linzid	street_name	street_name_2	official_street_name
-3079352	Matariki Dr		Maturiki Dr	-35.83507,174.46009
-3082829	Mila Mae Rise		Milla Mae Rise	-35.73038,174.30536
 3083475	Buoy Lane		Buoy Way	-35.88334,174.45912
 #############################
 
-Finish = 2023-05-02 10:28:19 +1200
-Processing time = 1.401586
+Finish = 2023-05-10 23:15:56 +1200
+Processing time = 1.391376

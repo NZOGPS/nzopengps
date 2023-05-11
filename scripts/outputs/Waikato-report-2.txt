@@ -1,7 +1,7 @@
-Start = 2023-05-02 10:28:09 +1200
+Start = 2023-05-10 23:15:46 +1200
 #############################
 
-22 LINZ ids are missing from NZOGPS Waikato
+31 LINZ ids are missing from NZOGPS Waikato
 ;linzid=3083685	Ngatere Rise	-37.6914381718816,176.112785484802
 ;linzid=3083684	Te Paengaroa Rd	-37.6914381718816,176.112785484802
 ;linzid=3083687	Swift Crt	-37.7030895388782,176.15867131073
@@ -24,6 +24,15 @@ Start = 2023-05-02 10:28:09 +1200
 ;linzid=3083778	Karearea Ave	-38.1370608950302,176.307466957067
 ;linzid=3083779	Hihi Pl	-38.1370608950302,176.307466957067
 ;linzid=3083780	Lochanvale Lane	-37.7524844088602,176.136827647587
+;linzid=3083793	Pekepeke Lane	-37.1387584602298,174.968246437019
+;linzid=3083783	Hillock Rise	-37.1390736166251,174.969219252981
+;linzid=3083790	Potene Lane	-37.7893378846914,176.310833888453
+;linzid=3083791	Double Oaks Dr	-37.3778216830917,175.680521130314
+;linzid=3083795	Taonga Lane	-37.8226802736653,175.228673977141
+;linzid=3083794	Tepuna Dr	-37.8221024637003,175.230090175961
+;linzid=3083796	Tuakana Pl	-37.8228682926677,175.228995695766
+;linzid=3083797	Kuia Way	-37.8225113011634,175.229564530988
+;linzid=3083798	Tupuranga Lane	-37.8221024637003,175.230090175961
 #############################
 
 5 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -40,5 +49,5 @@ Start = 2023-05-02 10:28:09 +1200
 0 Number range ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
-Finish = 2023-05-02 10:28:13 +1200
-Processing time = 3.933431
+Finish = 2023-05-10 23:15:50 +1200
+Processing time = 3.967286

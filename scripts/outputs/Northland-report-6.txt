@@ -1,7 +1,7 @@
-Start = 2023-05-10 23:15:54 +1200
+Start = 2023-05-17 00:21:40 +1200
 linzid	street_name	street_name_2	official_street_name
 3083475	Buoy Lane		Buoy Way	-35.88334,174.45912
 #############################
 
-Finish = 2023-05-10 23:15:56 +1200
-Processing time = 1.391376
+Finish = 2023-05-17 00:21:41 +1200
+Processing time = 1.109385

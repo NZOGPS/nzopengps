@@ -1,28 +1,10 @@
-Start = 2023-05-21 12:40:11 +1200
+Start = 2023-05-23 11:01:43 +1200
 #############################
 
-16 LINZ ids are missing from NZOGPS Auckland
-;linzid=3083725	Harbourside Pde	-36.806871598678,174.663556853338
-;linzid=3083726	Schooner Lane	-36.8059965183157,174.664984462918
-;linzid=3083727	Sailors Pl	-36.8057710855554,174.664608611765
-;linzid=3083728	Ingham Crt	-36.7141373224374,174.714163552014
-;linzid=3083743	Kakau Lane	-36.9697431435212,174.927388882583
-;linzid=3083748	Tautangata Way	-36.9697431435212,174.927388882583
-;linzid=3083750	Greenway Lane	-36.8163738248343,174.597901442185
-;linzid=3083751	Whare Lane	-36.8163738248343,174.597901442185
-;linzid=3083752	Suva Lane	-36.8710523310291,174.604118786328
-;linzid=3083753	Ba Lane	-36.8710523310291,174.604118786328
-;linzid=3083749	Hari Rd	-37.1003319414688,174.935747536776
-;linzid=3083784	Keikei St	-36.8151166112727,174.593033147213
-;linzid=3083786	Mairehau St	-36.8138791304488,174.594421338826
-;linzid=3083785	Mahogany St	-36.8142944455983,174.593339787479
-;linzid=3083788	Tawheowheo Cl	-36.8518683771966,174.592810222153
-;linzid=3083787	Taunoka Lane	-36.8534037692188,174.59068502152
+0 LINZ ids are missing from NZOGPS Auckland
 #############################
 
-2 LINZ ids are in NZOGPS Auckland but missing from LINZ
-;linzid=3077022	Walkway	-36.87548,174.84114
-;linzid=3080301	Pungawerewere Lane	-36.89066,174.67803
+0 LINZ ids are in NZOGPS Auckland but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Auckland
@@ -31,5 +13,5 @@ Start = 2023-05-21 12:40:11 +1200
 0 Number range ids are in NZOGPS Auckland but missing from LINZ
 #############################
 
-Finish = 2023-05-21 12:40:14 +1200
-Processing time = 2.525435
+Finish = 2023-05-23 11:01:46 +1200
+Processing time = 2.662135

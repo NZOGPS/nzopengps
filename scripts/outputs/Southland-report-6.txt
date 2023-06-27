@@ -1,6 +1,8 @@
-Start = 2023-05-11 23:59:03 +1200
+Start = 2023-06-27 21:13:20 +1200
 linzid	street_name	street_name_2	official_street_name
+3083560	Makini Rd		Mokihi Rd	-45.02258,168.65908
+3083560	Makini Rd		Mokihi Rd	-45.02262,168.66005
 #############################
 
-Finish = 2023-05-11 23:59:06 +1200
-Processing time = 2.423122
+Finish = 2023-06-27 21:13:23 +1200
+Processing time = 3.060278

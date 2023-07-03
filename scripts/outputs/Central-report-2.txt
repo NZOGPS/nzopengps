@@ -1,7 +1,8 @@
-Start = 2023-06-27 21:12:57 +1200
+Start = 2023-07-03 18:56:41 +1200
 #############################
 
-15 LINZ ids are missing from NZOGPS Central
+16 LINZ ids are missing from NZOGPS Central
+;linzid=3064501	Kaipi Rd	-39.1139743690253,174.13607717924
 ;linzid=3083815	Saddleback Dr	-38.7208041173611,176.091866265305
 ;linzid=3083814	Condor Ave	-38.7221844746242,176.088259073493
 ;linzid=3083817	Noke Lane	-38.7206205700539,176.092495012463
@@ -28,5 +29,5 @@ Start = 2023-06-27 21:12:57 +1200
 0 Number range ids are in NZOGPS Central but missing from LINZ
 #############################
 
-Finish = 2023-06-27 21:13:00 +1200
-Processing time = 3.341672
+Finish = 2023-07-03 18:56:43 +1200
+Processing time = 2.089155

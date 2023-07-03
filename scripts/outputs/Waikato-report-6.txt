@@ -1,6 +1,7 @@
-Start = 2023-05-23 11:01:40 +1200
+Start = 2023-06-27 21:13:32 +1200
 linzid	street_name	street_name_2	official_street_name
+3083165	Ara O Te Pohue		Ara o Te Pohue	-37.80286,176.31395
 #############################
 
-Finish = 2023-05-23 11:01:43 +1200
-Processing time = 2.436366
+Finish = 2023-06-27 21:13:36 +1200
+Processing time = 3.772523

@@ -1,6 +1,6 @@
-Start = 2023-07-05 18:59:13 +1200
+Start = 2023-07-06 00:06:19 +1200
 linzid	street_name	street_name_2	official_street_name
 #############################
 
-Finish = 2023-07-05 18:59:15 +1200
-Processing time = 2.305217
+Finish = 2023-07-06 00:06:21 +1200
+Processing time = 1.96532

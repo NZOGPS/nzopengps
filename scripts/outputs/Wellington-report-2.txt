@@ -1,15 +1,7 @@
-Start = 2023-06-27 21:13:01 +1200
+Start = 2023-07-05 18:42:46 +1200
 #############################
 
-8 LINZ ids are missing from NZOGPS Wellington
-;linzid=3083833	Elsies Way	-40.7616612399236,175.14852882545
-;linzid=3083832	Ngati Ngarongo Rd	-40.7662484963287,175.142231729892
-;linzid=3083859	Reid Lane	-41.1336554455974,175.05822376165
-;linzid=3083853	Reakes Cres	-41.1339845838761,175.057629547964
-;linzid=3083854	Don Money St	-41.1339592612533,175.05767246328
-;linzid=3083861	Nichols Lane	-41.0897607661284,175.445728161108
-;linzid=3083862	Hosford Lane	-41.0890716845513,175.446564429833
-;linzid=3083885	Oporae Side Rd	-40.3713484828015,176.281376102386
+0 LINZ ids are missing from NZOGPS Wellington
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -21,5 +13,5 @@ Start = 2023-06-27 21:13:01 +1200
 0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2023-06-27 21:13:04 +1200
-Processing time = 3.109493
+Finish = 2023-07-05 18:42:48 +1200
+Processing time = 2.059616

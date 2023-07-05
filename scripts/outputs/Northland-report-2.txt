@@ -1,12 +1,7 @@
-Start = 2023-06-27 21:12:50 +1200
+Start = 2023-07-04 23:49:02 +1200
 #############################
 
-5 LINZ ids are missing from NZOGPS Northland
-;linzid=3083848	Pear Tree Lane	-35.6845924513299,174.341930429941
-;linzid=3083839	Crepe Myrtle St	-35.6840143557135,174.340913293348
-;linzid=3083903	Henry Going Way	-35.7546960645428,174.364815534747
-;linzid=3083923	Lumbarda Lane	-35.7496152433551,174.272191882437
-;linzid=3083944	Podgora Lane	-35.746535727238,174.272140777378
+0 LINZ ids are missing from NZOGPS Northland
 #############################
 
 0 LINZ ids are in NZOGPS Northland but missing from LINZ
@@ -18,5 +13,5 @@ Start = 2023-06-27 21:12:50 +1200
 0 Number range ids are in NZOGPS Northland but missing from LINZ
 #############################
 
-Finish = 2023-06-27 21:12:51 +1200
-Processing time = 1.558396
+Finish = 2023-07-04 23:49:03 +1200
+Processing time = 1.00618

@@ -30,9 +30,9 @@ my %bynodid;
 my %debug = (
 	sbid			=> 0,
 	OEZCheck		=> 0,	# 1 or linzid or regex e.g '3063230|1830369'
-	overlaperr		=> 0,	# 1 or linzid or regex e.g '3063230|1830369'
-	olcheck			=> 0,	# 1 or linzid or regex e.g '3063230|1830369'
-	ol1numtype		=> 0,	# 1 or linzid
+	overlaperr		=> 3083691,	# 1 or linzid or regex e.g '3063230|1830369'
+	olcheck			=> 3083691,	# 1 or linzid or regex e.g '3063230|1830369'
+	ol1numtype		=> 3083691,	# 1 or linzid or regex e.g '3063230|1830369'
 	rdoverlap		=> 0,
 	readpapernums	=> 0,
 	routecheck		=> 0,
@@ -312,8 +312,11 @@ sub dump_id2 {
 		}
 	} 
 
+	if ( not defined $nodno ) {
+		print shortmess();
+		return;
+	}
 	if ( $nodn2 < 0 ){
-		print shortmess() if not defined $nodno;
 		print "Road is $roadname, Line $road[7], Coord is\t$x[$nodno],$y[$nodno]\n";
 	} else {
 		print "Road is $roadname, Line $road[7], Coords are $x[$nodno],$y[$nodno] and\t$x[$nodn2],$y[$nodn2]\n";
@@ -335,8 +338,11 @@ sub dump_poly2 {
 	$ptype = hex($poly[1]);
 	if ( $ptype < 0x10 ) { $space = ' '; }
 	$ptypename = $polytype{$ptype} || $polytype{0};
+	if ( not defined $nodno ) {
+		print shortmess();
+		return;
+	}
 	if ( $nodn2 < 0 ){
-		print shortmess() if not defined $nodno;
 		print "$poly[1]$space/$ptypename Polygon is $polyname, Line $poly[5], Coord is\t$x[$nodno],$y[$nodno]\n";
 	} else {
 		print "$poly[1]$space/$ptypename Polygon is $polyname, Line $poly[5], Coords are $x[$nodno],$y[$nodno] and\t$x[$nodn2],$y[$nodn2]\n";
@@ -812,7 +818,7 @@ sub overlap_one_numbered_section {
 			($l,$errnod) = overlap_one_side(@$nptr[1..3],$$nptr[0],$i,$road,\%numset);
 			local $, = ',';
 			if ($l) { 
-				if ($debugthis){print sprintf "overlap_1ns - errnod is %s\n",defined($errnod) ? $errnod : "(undefined)"}
+				if ($debugthis){print sprintf "overlap_1ns LHS - errnod is %s\n",defined($errnod) ? $errnod : "(undefined)"}
 				print "conflicting definition:\n";
 				dump_id2($road,$errnod,-1); 
 				print "\n";
@@ -820,7 +826,7 @@ sub overlap_one_numbered_section {
 			}
 			($r,$errnod) = overlap_one_side(@$nptr[4..6],$$nptr[0],$i,$road,\%numset);
 			if ($r) { 
-				if ($debugthis){print sprintf "overlap_1ns - errnod is %s\n",defined($errnod) ? $errnod : "(undefined)"}
+				if ($debugthis){print sprintf "overlap_1ns RHS - errnod is %s\n",defined($errnod) ? $errnod : "(undefined)"}
 				print "conflicting definition:\n";
 				dump_id2($road,$errnod,-1); 
 				print "\n";

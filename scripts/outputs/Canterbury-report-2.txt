@@ -1,23 +1,11 @@
-Start = 2023-06-27 21:13:04 +1200
+Start = 2023-07-07 00:13:40 +1200
 #############################
 
-12 LINZ ids are missing from NZOGPS Canterbury
+1 LINZ ids are missing from NZOGPS Canterbury
 ;linzid=3079720	Gold Valley Rd	-43.7070990510647,172.652569302629
-;linzid=3083811	Millar Lane	-43.2872827725419,172.164232129937
-;linzid=3083822	River Stone Dr	-43.5960829182018,172.56579969278
-;linzid=3083823	Hawley St	-43.5960589992136,172.56336438778
-;linzid=3083824	Hiller Green St	-43.5960829182018,172.56579969278
-;linzid=3083852	Morton Lane	-44.37414615195,171.18901502169
-;linzid=3083882	Mission Downs Lane	-43.2257798872026,172.529362041478
-;linzid=3083897	Arbor Grv	-43.4300104023118,172.649440598377
-;linzid=3083931	Bill Hammond Dr	-43.4580615758482,172.639080073969
-;linzid=3083860	Melhopt Pl	-43.6116879890953,172.493136813904
-;linzid=3083939	Jacob Lane	-43.6211081775004,172.382113871351
-;linzid=3083942	Livingstone Pl	-43.3014053444955,172.603387385322
 #############################
 
-1 LINZ ids are in NZOGPS Canterbury but missing from LINZ
-;linzid=3082070	Signal Rd	-43.58252,172.51988
+0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Canterbury
@@ -26,5 +14,5 @@ Start = 2023-06-27 21:13:04 +1200
 0 Number range ids are in NZOGPS Canterbury but missing from LINZ
 #############################
 
-Finish = 2023-06-27 21:13:08 +1200
-Processing time = 3.872202
+Finish = 2023-07-07 00:13:43 +1200
+Processing time = 2.420927

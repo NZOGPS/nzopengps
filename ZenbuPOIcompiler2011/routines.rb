@@ -19,12 +19,12 @@ def preloadZenbuFile(path)
 
 	print "Loading Zenbu master data file... "
 
-	if !File.exists?(path) then
+	if !File.exist?(path) then
 		print "EXITING! File not found at #{path}\n"
 		exit
 	end
 
-	CSV.foreach(path, {:encoding => 'UTF-8', :headers => true}) do |row|
+	CSV.foreach(path, :encoding => 'UTF-8', :headers => true) do |row|
 #zid,name,tags,website,physical_address,phone,opening_hours,longitude,latitude,gisprecision,correctly_placed,created_at,updated_at,updated_by,version,facebook_page,categories
 	  @masterZenbuDataHash[row['zid']] = row
 	end
@@ -410,7 +410,7 @@ def loadCategoriesFromCategoryFiles(p)
   #process each file in the ZenbuPOIcategories folder
   print "Loading categories from NZOGPS... "
 
-	if !File.exists?(p) then
+	if !File.exist?(p) then
 		print "path to categories not found #{p}\n"
 		return
 	end
@@ -453,7 +453,7 @@ end
 
 def loadSingleCategory(path)
 
-	if !File.exists?(path) then
+	if !File.exist?(path) then
 		return
 	end
 

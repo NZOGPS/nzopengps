@@ -529,7 +529,7 @@ end
 def rewriteCategoryFilesFromEditedOverrideSummaryFile
 
   rewrite = Hash.new()
-  CSV.foreach(@override_summary_file_path, {:encoding => 'UTF-8', :headers => true}) do |row|
+  CSV.foreach(@override_summary_file_path, :encoding => 'UTF-8', :headers => true) do |row|
   #'zid','name','tags', 'override_category', 'override_category_desc', 'zenbu_category', 'zenbu_category_desc'
     lookup = "#{row['override_category_desc']} #{row['override_category']}.txt"
     rewrite[lookup] = rewrite[lookup].nil? ? [] : rewrite[lookup] + [row['zid']]

@@ -77,7 +77,7 @@ def pre_processing()
   
   @linz_street_names_by_linzid = {}
   linz_data_service_file = File.join(@base, '..', 'LinzDataService', 'outputslinz', "#{@tile}-LINZ.mp")
-  if !File.exists?(linz_data_service_file) then
+  if !File.exist?(linz_data_service_file) then
     raise "Unable to find required LINZ data file at #{linz_data_service_file}\n"
   end
   
@@ -100,7 +100,7 @@ def pre_processing()
   
 	alternates_file = 'acceptable.names'
 	@acceptables = Hash.new
-	if File.exists?(alternates_file) then
+	if File.exist?(alternates_file) then
 		File.open(alternates_file).each{|line|
 			if line =~ /(.+),(.*)/ then
 				(@acceptables[$1] ||=[]) << $2

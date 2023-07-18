@@ -60,7 +60,7 @@ def pre_processing()
   require '..\linzdataservice\nzogps_library.rb'
   
   begin
-  @conn = PGconn.connect(@app_config['postgres']['host'], 5432, "", "", "nzopengps", "postgres", @app_config['postgres']['password'])
+  @conn = PG.connect(@app_config['postgres']['host'], 5432, "", "", "nzopengps", "postgres", @app_config['postgres']['password'])
   rescue
     if $! == 'Invalid argument' then
       retry #bollocks error
@@ -87,10 +87,10 @@ def pre_processing()
     print "Running database query...\n"
     res  = @conn.exec(sql_query)
     print "Creating #{@output_file_path}\n"
-    @pbar = ProgressBar.new("Progress", res.num_tuples) 
+    @pbar = ProgressBar.create(:title=>"Progress", :total=>res.num_tuples) 
 
     res.values.each{|row|
-      @pbar.inc
+      @pbar.increment
       address = "#{row[0]} #{doContractions(row[1])}, #{row[2]}"
 
       lon = row[3].strip

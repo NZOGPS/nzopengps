@@ -152,7 +152,7 @@ def pre_processing()
       @rough_total_segment_count += 1
     end
   }
-  @pbar = ProgressBar.new("Progress", @rough_total_segment_count)
+  @pbar = ProgressBar.create(:title=>"Progress", :total=>@rough_total_segment_count)
 
 
   require 'pg'
@@ -162,7 +162,7 @@ def pre_processing()
   app_config = YAML.load(raw_config)
   
   begin
-  @conn = PGconn.connect(app_config['postgres']['host'], 5432, "", "", "nzopengps", "postgres", app_config['postgres']['password'])
+  @conn = PG.connect(app_config['postgres']['host'], 5432, "", "", "nzopengps", "postgres", app_config['postgres']['password'])
   rescue
     if $! == 'Invalid argument' then
       retry #bollocks error
@@ -203,7 +203,7 @@ end
 
 def process_polish_buffer(buffer)
   @stats["count_of_sections"]+=1
-  @pbar.inc
+  @pbar.increment
   
 	@i += 1
 	attributes = {}

@@ -18,7 +18,7 @@ NZ_ADD="nz_addresses"
 options = {:download => 1, :postgres => 1, :updates => 1, :continue => 0, :from => nil, :until => nil}
 
 def do_options(options)
-	if File.exists?(LAST_FN) 
+	if File.exist?(LAST_FN) 
 		tline = ""
 		File.open(LAST_FN) do |lfile|
 			tline = lfile.gets.chomp

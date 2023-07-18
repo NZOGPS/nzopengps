@@ -17,7 +17,7 @@ category_path = '../ZenbuPOIcategories2011'
 
 def createEmptyTemplateFile(path)
 
-	if File.exists?(path) then
+	if File.exist?(path) then
 		print "Skipping, file already exists #{path}\n"
 		return
 	end
@@ -121,7 +121,7 @@ categories = [
 ]
 
 # #####################
-if !(File.exists?(category_path) && FileTest.directory?(category_path)) then
+if !(File.exist?(category_path) && FileTest.directory?(category_path)) then
 	print "The defined category_path folder #{category_path} does not exist. Exiting.\n"
 	exit
 end
@@ -140,7 +140,7 @@ end
   
 categories.each{|category|
 	path = category_path + '/' + category
-	if File.exists?(path) then
+	if File.exist?(path) then
 		@reporting_counts['category_exists'] += 1
 	else
 		@reporting_counts['category_missing'] += 1

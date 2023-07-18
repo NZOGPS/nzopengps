@@ -77,11 +77,11 @@ def load_paths(processing_library)
 	input_folder = File.join(@base, "#{myio.ipath}") #look for inputs in parent folder
 	input_folder = File.expand_path(input_folder)
 	output_folder = File.join(@base, "#{myio.opath}") #put outputs in outputs folder
-	if !File.exists?(input_folder) then raise "input folder missing #{input_folder}\n" end
-	if !File.exists?(output_folder) then FileUtils.mkdir output_folder end
+	if !File.exist?(input_folder) then raise "input folder missing #{input_folder}\n" end
+	if !File.exist?(output_folder) then FileUtils.mkdir output_folder end
 
 	@this_file = File.join(input_folder,"#{@tile}#{myio.ifileadd}.mp")
-	if !File.exists?(@this_file) then raise "input missing #{@this_file}\n" end
+	if !File.exist?(@this_file) then raise "input missing #{@this_file}\n" end
 
 	@output_file_path = File.join(output_folder,"#{@tile}#{myio.ofileadd}.mp")
 	@reporting_file_path = File.join(output_folder,"#{@tile}-report-#{processing_library}.txt")

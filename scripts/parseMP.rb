@@ -102,7 +102,7 @@ def run_parse
   # #####################################
 
   buffer = []
-  File.open(@this_file).each_with_index {|line,i|
+  File.open(@this_file, encoding:'cp1252').each_with_index {|line,i|
     line = line.chop
     buffer << line
     if (line =~ /^\[END(.*)/) then

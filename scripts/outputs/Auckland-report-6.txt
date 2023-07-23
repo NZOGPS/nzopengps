@@ -1,10 +1,13 @@
-Start = 2023-06-27 21:13:36 +1200
+Start = 2023-07-20 22:35:14 +1200
 linzid	street_name	street_name_2	official_street_name
+3027695	Old State Highway 1		State Highway 1	-36.52540,174.67749
+3027695	Old State Highway 1		State Highway 1	-36.39167,174.65109
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
 1821419	Valley Rd (off-road vehicles only)		Valley Rd	-36.66656,174.53579
 1830965	Hull Rd (4WD only, closed in Winter)		Hull Rd	-36.64738,174.58702
-3083333	Rorea Lane		Te Rorea Lane	-36.91761,174.74772
+3027695	Old State Highway 1		State Highway 1	-36.52540,174.67749
+3027695	Old State Highway 1		State Highway 1	-36.43568,174.64824
 #############################
 
-Finish = 2023-06-27 21:13:41 +1200
-Processing time = 5.040932
+Finish = 2023-07-20 22:35:20 +1200
+Processing time = 6.229225

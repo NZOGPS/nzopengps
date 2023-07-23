@@ -1,7 +1,11 @@
 use strict;
+use Data::Dumper;
+use Getopt::Std;
 
 my %tiles;
-my @direction = qw(North East South West); 
+my @direction = qw(North East South West);
+my %restrictions;
+my %options=();
 
 sub setpt1{
 	my $ph = shift;
@@ -37,7 +41,7 @@ sub setextremes{
 
 	if ( $y > $ph->{max}[0] ){
 		$ph->{max}[0] = $y;
-		$ph->{maxp}[0] = $x;		
+		$ph->{maxp}[0] = $x;
 	}
 	if ( $x > $ph->{max}[1] ){
 		$ph->{max}[1] = $x;
@@ -45,7 +49,7 @@ sub setextremes{
 	}
 	if ( $y < $ph->{max}[2] ){
 		$ph->{max}[2] = $y;
-		$ph->{maxp}[2] = $x;			
+		$ph->{maxp}[2] = $x;
 	}
 	if ( $x < $ph->{max}[3] ){
 		$ph->{max}[3] = $x;
@@ -62,7 +66,24 @@ sub printmaxpoint{
 	} else {
 		print "$tiles{$tile}->{max}[$edge],$tiles{$tile}->{maxp}[$edge]\n";
 	}
-}	
+}
+
+sub ReadRestrict{
+	my $nodl = (<INF>); #Nod=
+	unless ($nodl =~ /^Nod=(\d+)/) { die "Nod= not found in restrictions: $nodl\n"; }
+	my $nod = $1;
+	my $tpl = (<INF>); #TraffPoints
+	unless ($tpl =~ /^TraffPoints=(\d+),(\d+),(\d+)/) { die "Invalid TraffPoints found in restrictions: $tpl\n"; }
+	my @tpa = ($1,$2,$3);
+	my $trl = (<INF>); #TraffRoads
+	unless ($trl =~ /^TraffRoads=(\d+),(\d+)/) { die "Invalid TraffRoads found in restrictions: $trl\n"; }
+	my @tra = ($1,$2);
+	my $erl = (<INF>); #End
+	unless ($erl =~ /^\[END-Restrict\]$/) { die "Invalid End restrictions: $erl\n"; }
+	my @prms = (@tpa,@tra);
+	$restrictions{$nod} = \@prms;
+}
+
 sub readtile{
 	my $fn = shift;
 	my $ffn = "..\\$fn.mp";
@@ -73,6 +94,7 @@ sub readtile{
 	my $label;
 	my $level;
 
+	%restrictions = ();
 	open (INF,$ffn) or die "Can't open $ffn\n";
 	print "reading $ffn\n";
 	$tiles{$fn}=\%vals;
@@ -126,9 +148,16 @@ sub readtile{
 			push @{$vals{by}},$datay[$nodnum];
 			push @{$vals{bl}},$label;
 			push @{$vals{be}},$level;
+			if ($restrictions{$nodid}){
+				print "Warning! External node: $nodnum,$nodid : $label - $datay[$nodnum],$datax[$nodnum] appears in restriction list.\n";
+			}
+		}
+		if (/^\[Restrict\]$/){
+			ReadRestrict();
 		}
 	}
 	close(INF);
+#	print Dumper(\%restrictions);
 }
 	
 sub AssignEdge{
@@ -162,7 +191,7 @@ sub AssignEdge{
 					push @{$tiles{$tile}->{bn}[$edge]},[$tiles{$tile}->{bl}[$i],${bx}->[$i],${by}->[$i],1,$tiles{$tile}->{be}[$i]];
 #					print "node is near edge $edge\n";
 				}
-			}				
+			}
 		}
 	}
 	if ($err){
@@ -298,13 +327,19 @@ sub CheckTiles{
 	CheckEdge($tile1,$edge1,$tile2,$edge2);
 }
 
-CheckTiles ('Southland',0,'Canterbury',2);
-CheckTiles ('Canterbury',0,'Tasman',2);
-CheckTiles ('Tasman',1,'Wellington',3);
-CheckTiles ('Wellington',0,'Central',2);
-CheckTiles ('Central',0,'Waikato',2);
-CheckTiles ('Waikato',0,'Auckland',2);
-CheckTiles ('Auckland',0,'Northland',2);
+getopts("1234567",\%options) || die "Invalid options\n";
+if ( not %options ) {
+	print "usage: $0 [-n][-m] for individual tile edges numbered from the S or no parameters for all tiles\n";
+	%options = (1,1,2,1,3,1,4,1,5,1,6,1,7,1);
+}
+
+if ($options{1}) { CheckTiles ('Southland',0,'Canterbury',2)}
+if ($options{2}) { CheckTiles ('Canterbury',0,'Tasman',2)}
+if ($options{3}) { CheckTiles ('Tasman',1,'Wellington',3)}
+if ($options{4}) { CheckTiles ('Wellington',0,'Central',2)}
+if ($options{5}) { CheckTiles ('Central',0,'Waikato',2)}
+if ($options{6}) { CheckTiles ('Waikato',0,'Auckland',2)}
+if ($options{7}) { CheckTiles ('Auckland',0,'Northland',2)}
 
 #for my $key (keys %tiles){
 #	my $tk = $tiles{$key};

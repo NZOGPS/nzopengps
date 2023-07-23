@@ -1,7 +1,10 @@
-Start = 2023-07-05 18:42:41 +1200
+Start = 2023-07-20 22:34:34 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Central
+3 LINZ ids are missing from NZOGPS Central
+;linzid=3083962	Waipunga St	-39.4993527054857,176.855714356139
+;linzid=3083963	Tutira Pl	-39.4993527054857,176.855714356139
+;linzid=3083971	Walnut Lane	-38.6708459580793,176.064023187351
 #############################
 
 0 LINZ ids are in NZOGPS Central but missing from LINZ
@@ -13,5 +16,5 @@ Start = 2023-07-05 18:42:41 +1200
 0 Number range ids are in NZOGPS Central but missing from LINZ
 #############################
 
-Finish = 2023-07-05 18:42:43 +1200
-Processing time = 2.683519
+Finish = 2023-07-20 22:34:36 +1200
+Processing time = 2.042294

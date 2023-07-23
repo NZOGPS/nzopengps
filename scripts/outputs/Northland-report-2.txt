@@ -1,10 +1,14 @@
-Start = 2023-07-04 23:49:02 +1200
+Start = 2023-07-20 22:34:29 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Northland
+3 LINZ ids are missing from NZOGPS Northland
+;linzid=3083968	Don Meara Lane	-35.6377644794985,174.280446800565
+;linzid=3083974	Ara Tuhono	-36.3885338629701,174.642669469908
+;linzid=3083975	Eagle Ray Rd	-36.1129023471421,174.575057915004
 #############################
 
-0 LINZ ids are in NZOGPS Northland but missing from LINZ
+1 LINZ ids are in NZOGPS Northland but missing from LINZ
+;linzid=1821037	Buckleton Rd	-36.39000,174.74834
 #############################
 
 0 Number range ids are missing from NZOGPS Northland
@@ -13,5 +17,5 @@ Start = 2023-07-04 23:49:02 +1200
 0 Number range ids are in NZOGPS Northland but missing from LINZ
 #############################
 
-Finish = 2023-07-04 23:49:03 +1200
-Processing time = 1.00618
+Finish = 2023-07-20 22:34:30 +1200
+Processing time = 1.099747

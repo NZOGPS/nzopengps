@@ -1,10 +1,7 @@
-Start = 2023-07-20 22:34:36 +1200
+Start = 2023-07-23 18:18:57 +1200
 #############################
 
-3 LINZ ids are missing from NZOGPS Wellington
-;linzid=3083960	Incline Rd	-41.0835260247836,175.167986141844
-;linzid=3083967	Stevens Dr	-41.0785597736756,175.45620235547
-;linzid=3083985	Oliver Pl	-41.1297136425778,175.037884826728
+0 LINZ ids are missing from NZOGPS Wellington
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -16,5 +13,5 @@ Start = 2023-07-20 22:34:36 +1200
 0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2023-07-20 22:34:38 +1200
-Processing time = 1.953827
+Finish = 2023-07-23 18:19:00 +1200
+Processing time = 2.916489

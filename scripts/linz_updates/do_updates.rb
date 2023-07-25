@@ -3,14 +3,14 @@ require 'optparse/time'
 require 'optparse/date'
 
 LINZ_URL="https://data.linz.govt.nz/services;"
-FN_3353="layer_3353_cs"
+# FN_3353="layer_3353_cs"
 FN_3383="layer_3383_cs"
 FN_105689="layer_105689_cs"
 FN_53331="table_53331_cs"
 
 LAST_FN="LINZ_last.date"
 
-ADDR_TABLE="nz_street_address"
+# ADDR_TABLE="nz_street_address"
 ROAD_TABLE="nz_roads_subsections_addressing"
 AIMS_AR="aims_address_reference"
 NZ_ADD="nz_addresses"
@@ -89,8 +89,8 @@ def get_linz_updates(options)
 	LOGFILE.puts("Getting updates from #{options[:from]} to #{to_date}")
 
 	dtype = "layer-"
-	layer = 3353
-	system("#{curl_cmd} -o #{FN_3353}.csv #{url1}#{dtype}#{layer}#{url2}#{dtype}#{layer}#{url3}")
+#	layer = 3353
+#	system("#{curl_cmd} -o #{FN_3353}.csv #{url1}#{dtype}#{layer}#{url2}#{dtype}#{layer}#{url3}")
 	layer = 3383
 	system("#{curl_cmd} -o #{FN_3383}.csv #{url1}#{dtype}#{layer}#{url2}#{dtype}#{layer}#{url3}")
 	layer = 105689
@@ -99,7 +99,8 @@ def get_linz_updates(options)
 	dtype = "table-"
 	layer = 53331
 	system("#{curl_cmd} -o #{FN_53331}.csv #{url1}#{dtype}#{layer}#{url2}#{dtype}#{layer}#{url3}")
-	system("FOR /f %a IN ('WMIC OS GET LocalDateTime ^| FIND \".\"') DO #{zip_cmd} %~na.zip #{FN_3353}.csv #{FN_3383}.csv #{FN_105689}.csv #{FN_53331}.csv" )
+#	system("FOR /f %a IN ('WMIC OS GET LocalDateTime ^| FIND \".\"') DO #{zip_cmd} %~na.zip #{FN_3353}.csv #{FN_3383}.csv #{FN_105689}.csv #{FN_53331}.csv" )
+	system("FOR /f %a IN ('WMIC OS GET LocalDateTime ^| FIND \".\"') DO #{zip_cmd} %~na.zip #{FN_3383}.csv #{FN_105689}.csv #{FN_53331}.csv" )
 end
 
 def pg_connect()
@@ -121,7 +122,7 @@ def pg_connect()
 	app_config = YAML.load(raw_config)
 
 	begin
-		@conn = PGconn.connect(app_config['postgres']['host'], 5432, "", "", "nzopengps", "postgres", app_config['postgres']['password'])
+		@conn = PG.connect(app_config['postgres']['host'], 5432, "", "", "nzopengps", "postgres", app_config['postgres']['password'])
 		rescue
 			if $! == 'Invalid argument' then
 			retry #bollocks error
@@ -133,7 +134,7 @@ def pg_connect()
 			retry
 		else
 			print "Could not connect to database. Exiting.\n"
-			exit
+			exit 77
 		end
 	end
 end
@@ -144,39 +145,39 @@ def put_csv_in_postgres()
 	abort("Processing aborted! nzogps_ogr2ogrl environment variable not set!") if !ogr_cmd
 
 #check that vrt files with column types exist
-	abort("Processing aborted! csv definition file #{FN_3353}.vrt not found!") if !File.file?("#{FN_3353}.vrt")
+#	abort("Processing aborted! csv definition file #{FN_3353}.vrt not found!") if !File.file?("#{FN_3353}.vrt")
 	abort("Processing aborted! csv definition file #{FN_3383}.vrt not found!") if !File.file?("#{FN_3383}.vrt")
 	abort("Processing aborted! csv definition file #{FN_105689}.vrt not found!") if !File.file?("#{FN_105689}.vrt")
 	abort("Processing aborted! csv definition file #{FN_53331}.vrt not found!") if !File.file?("#{FN_53331}.vrt")
 
 #use ogr to import csv files into postgres
-	system("#{ogr_cmd} --config PG_USE_COPY TRUE -overwrite -f \"PostgreSQL\" \"PG:host=localhost user=postgres  dbname=nzopengps\" -lco OVERWRITE=yes  #{FN_3353}.vrt") or abort("Failed to run #{ogr_cmd} on #{FN_3353}")
+#	system("#{ogr_cmd} --config PG_USE_COPY TRUE -overwrite -f \"PostgreSQL\" \"PG:host=localhost user=postgres  dbname=nzopengps\" -lco OVERWRITE=yes  #{FN_3353}.vrt") or abort("Failed to run #{ogr_cmd} on #{FN_3353}")
 	system("#{ogr_cmd} --config PG_USE_COPY TRUE -overwrite -f \"PostgreSQL\" \"PG:host=localhost user=postgres  dbname=nzopengps\" -lco OVERWRITE=yes  #{FN_3383}.vrt") or abort("Failed to run #{ogr_cmd} on #{FN_3383}")
 	system("#{ogr_cmd} --config PG_USE_COPY TRUE -overwrite -f \"PostgreSQL\" \"PG:host=localhost user=postgres  dbname=nzopengps\" -lco OVERWRITE=yes  #{FN_53331}.vrt") or abort("Failed to run #{ogr_cmd} on #{FN_53331}")
 	system("#{ogr_cmd} --config PG_USE_COPY TRUE -overwrite -f \"PostgreSQL\" \"PG:host=localhost user=postgres  dbname=nzopengps\" -lco OVERWRITE=yes  #{FN_105689}.vrt") or abort("Failed to run #{ogr_cmd} on #{FN_105689}")
 
 #do postprocessing of addresses in postgres
-	@conn.exec "ALTER TABLE #{FN_3353} ADD COLUMN is_odd boolean"
-	@conn.exec "UPDATE #{FN_3353} SET is_odd = MOD(address_number,2) = 1"
+	# @conn.exec "ALTER TABLE #{FN_3353} ADD COLUMN is_odd boolean"
+	# @conn.exec "UPDATE #{FN_3353} SET is_odd = MOD(address_number,2) = 1"
 	
-	@conn.exec "ALTER TABLE #{FN_3353}  ADD COLUMN rna_id integer;"
-	@conn.exec "UPDATE #{FN_3353} SET rna_id = rdt.road_id 
-					from #{ROAD_TABLE} rdt
-					where rdt.road_section_id = #{FN_3353}.road_section_id"
-	@conn.exec "UPDATE #{FN_3353} SET rna_id = rdtcs.road_id 
-					from #{FN_3383} rdtcs
-					where rdtcs.road_section_id = #{FN_3353}.road_section_id"
+	# @conn.exec "ALTER TABLE #{FN_3353}  ADD COLUMN rna_id integer;"
+	# @conn.exec "UPDATE #{FN_3353} SET rna_id = rdt.road_id 
+					# from #{ROAD_TABLE} rdt
+					# where rdt.road_section_id = #{FN_3353}.road_section_id"
+	# @conn.exec "UPDATE #{FN_3353} SET rna_id = rdtcs.road_id 
+					# from #{FN_3383} rdtcs
+					# where rdtcs.road_section_id = #{FN_3353}.road_section_id"
 	
-	@conn.exec "ALTER TABLE #{FN_3353} ADD COLUMN linz_numb_id integer;"
-	@conn.exec "UPDATE #{FN_3383} 
-					SET address_range_road_id = null 
-					WHERE address_range_road_id = 0" #in case a.r.r.i is zero rather than blank.
-	@conn.exec "UPDATE #{FN_3353} SET linz_numb_id = rdt.address_range_road_id
-					from #{ROAD_TABLE} rdt
-					where rdt.road_section_id = #{FN_3353}.road_section_id"
-	@conn.exec "UPDATE #{FN_3353} SET linz_numb_id = #{FN_3383}.address_range_road_id
-					from #{FN_3383} 
-					where #{FN_3383}.road_section_id = #{FN_3353}.road_section_id"
+	# @conn.exec "ALTER TABLE #{FN_3353} ADD COLUMN linz_numb_id integer;"
+	# @conn.exec "UPDATE #{FN_3383} 
+					# SET address_range_road_id = null 
+					# WHERE address_range_road_id = 0" #in case a.r.r.i is zero rather than blank.
+	# @conn.exec "UPDATE #{FN_3353} SET linz_numb_id = rdt.address_range_road_id
+					# from #{ROAD_TABLE} rdt
+					# where rdt.road_section_id = #{FN_3353}.road_section_id"
+	# @conn.exec "UPDATE #{FN_3353} SET linz_numb_id = #{FN_3383}.address_range_road_id
+					# from #{FN_3383} 
+					# where #{FN_3383}.road_section_id = #{FN_3353}.road_section_id"
 
 #new addresses
 	@conn.exec "ALTER TABLE #{FN_105689} ADD COLUMN is_odd boolean"
@@ -215,9 +216,9 @@ def put_csv_in_postgres()
 # in a previous installation, a_r_r_i and a_n_h may have been chars rather than integers, so blanks were null rather than 0. 
 # Subsequent code uses something like 'is not null' rather than '!=0'. Perhaps it would be tidier to fix this the other way at some stage, since they are really integers.
 
-	@conn.exec "UPDATE #{FN_3353} SET address_number_high = null WHERE address_number_high = 0" #in case a_n_h is zero rather than blank.
+#	@conn.exec "UPDATE #{FN_3353} SET address_number_high = null WHERE address_number_high = 0" #in case a_n_h is zero rather than blank.
 
-	@conn.exec "VACUUM ANALYSE #{FN_3353}"
+#	@conn.exec "VACUUM ANALYSE #{FN_3353}"
 	@conn.exec "VACUUM ANALYSE #{FN_3383}"
 	@conn.exec "VACUUM ANALYSE #{FN_53331}"
 	@conn.exec "VACUUM ANALYSE #{FN_105689}"
@@ -234,12 +235,12 @@ def check_for_errors(options)
 	end
 	puts
 
-	print "NZ Address changes: "
-	rs = @conn.exec "select  __change__,count  (__change__)  from #{FN_3353} group by __change__"
-	rs.each do |row|
-		print "%s %s " % [row['__change__'],row['count']]
-	end
-	puts
+	# print "NZ Address changes: "
+	# rs = @conn.exec "select  __change__,count  (__change__)  from #{FN_3353} group by __change__"
+	# rs.each do |row|
+		# print "%s %s " % [row['__change__'],row['count']]
+	# end
+	# puts
 
 	print "Street Address changes: "
 	rs = @conn.exec "select  __change__,count  (__change__)  from #{FN_105689} group by __change__"
@@ -258,31 +259,31 @@ def check_for_errors(options)
 
 #addresses
 #
-	rs = @conn.exec "SELECT cs.address_id, cs.full_address_ascii, cs.__change__ from #{FN_3353} cs "\
-		"join #{ADDR_TABLE} sae on sae.address_id = cs.address_id where cs.__change__ = 'INSERT'"
-	if rs.count > 0 then
-		error = true
-		STDERR.puts rs.count.to_s + " ID(s) in address updates for addition already exists in database"
-		STDERR.puts "\tFirst ID: " + rs.first['address_id'] + " - " + rs.first['full_address_ascii']
-		LOGFILE.puts rs.count.to_s + " ID(s) in address updates for addition already exists in database"
-		rs.each do |row|
-			LOGFILE.puts row['address_id'] + " - " + row['full_address_ascii']
-		end
-		abort("Processing aborted") unless options[:continue] 
-	end
+	# rs = @conn.exec "SELECT cs.address_id, cs.full_address_ascii, cs.__change__ from #{FN_3353} cs "\
+		# "join #{ADDR_TABLE} sae on sae.address_id = cs.address_id where cs.__change__ = 'INSERT'"
+	# if rs.count > 0 then
+		# error = true
+		# STDERR.puts rs.count.to_s + " ID(s) in address updates for addition already exists in database"
+		# STDERR.puts "\tFirst ID: " + rs.first['address_id'] + " - " + rs.first['full_address_ascii']
+		# LOGFILE.puts rs.count.to_s + " ID(s) in address updates for addition already exists in database"
+		# rs.each do |row|
+			# LOGFILE.puts row['address_id'] + " - " + row['full_address_ascii']
+		# end
+		# abort("Processing aborted") unless options[:continue] 
+	# end
 
-	rs = @conn.exec "SELECT cs.address_id, cs.full_address_ascii, cs.__change__ from #{FN_3353} cs "\
-		"where cs.__change__ in ('UPDATE','DELETE') and not exists( select address_id from #{ADDR_TABLE} sae where sae.address_id = cs.address_id)"
-	if rs.count > 0 then
-		error = true
-		STDERR.puts rs.count.to_s + " ID(s) in address updates for modification/deletion do not already exist in database"
-		STDERR.puts "\tFirst ID: " + rs.first['address_id'] + " - " + rs.first['full_address_ascii']
-		LOGFILE.puts rs.count.to_s + " ID(s) in address updates for modification/deletion do not already exist in database"
-		rs.each do |row|
-			LOGFILE.puts row['address_id'] + " - " + row['full_address_ascii']
-		end
-		abort("Processing aborted") unless options[:continue] 
-	end
+	# rs = @conn.exec "SELECT cs.address_id, cs.full_address_ascii, cs.__change__ from #{FN_3353} cs "\
+		# "where cs.__change__ in ('UPDATE','DELETE') and not exists( select address_id from #{ADDR_TABLE} sae where sae.address_id = cs.address_id)"
+	# if rs.count > 0 then
+		# error = true
+		# STDERR.puts rs.count.to_s + " ID(s) in address updates for modification/deletion do not already exist in database"
+		# STDERR.puts "\tFirst ID: " + rs.first['address_id'] + " - " + rs.first['full_address_ascii']
+		# LOGFILE.puts rs.count.to_s + " ID(s) in address updates for modification/deletion do not already exist in database"
+		# rs.each do |row|
+			# LOGFILE.puts row['address_id'] + " - " + row['full_address_ascii']
+		# end
+		# abort("Processing aborted") unless options[:continue] 
+	# end
 
 #road subsections
 #
@@ -315,37 +316,37 @@ def check_for_errors(options)
 end
 
 def do_updates()
-	@conn.exec "DELETE FROM #{ADDR_TABLE} sae USING #{FN_3353} cs 
-					WHERE sae.address_id = cs.address_id 
-					AND cs.__change__ = 'DELETE'"
+	# @conn.exec "DELETE FROM #{ADDR_TABLE} sae USING #{FN_3353} cs 
+					# WHERE sae.address_id = cs.address_id 
+					# AND cs.__change__ = 'DELETE'"
 
-	@conn.exec "INSERT INTO #{ADDR_TABLE} "\
-		"( wkb_geometry, address_id, change_id, address_type, unit_value, address_number, address_number_suffix, address_number_high, "\
-		"water_route_name, water_name, suburb_locality, town_city, full_address_number, full_road_name, full_address, road_section_id, "\
-		"gd2000_xcoord, gd2000_ycoord, water_route_name_ascii, water_name_ascii, suburb_locality_ascii, "\
-		"town_city_ascii, full_road_name_ascii, full_address_ascii, shape_x, shape_y, is_odd, rna_id, linz_numb_id ) "\
-	"SELECT "\
-		"st_flipcoordinates(wkb_geometry), address_id, change_id, address_type, unit_value, address_number, address_number_suffix, address_number_high, "\
-		"water_route_name, water_name, suburb_locality, town_city, full_address_number, full_road_name, full_address, road_section_id, "\
-		"gd2000_xcoord, gd2000_ycoord, water_route_name_ascii, water_name_ascii, suburb_locality_ascii, "\
-		"town_city_ascii, full_road_name_ascii, full_address_ascii, gd2000_xcoord, gd2000_ycoord, is_odd, rna_id, linz_numb_id "\
-	"FROM #{FN_3353} where __change__ = 'INSERT'"
+	# @conn.exec "INSERT INTO #{ADDR_TABLE} "\
+		# "( wkb_geometry, address_id, change_id, address_type, unit_value, address_number, address_number_suffix, address_number_high, "\
+		# "water_route_name, water_name, suburb_locality, town_city, full_address_number, full_road_name, full_address, road_section_id, "\
+		# "gd2000_xcoord, gd2000_ycoord, water_route_name_ascii, water_name_ascii, suburb_locality_ascii, "\
+		# "town_city_ascii, full_road_name_ascii, full_address_ascii, shape_x, shape_y, is_odd, rna_id, linz_numb_id ) "\
+	# "SELECT "\
+		# "st_flipcoordinates(wkb_geometry), address_id, change_id, address_type, unit_value, address_number, address_number_suffix, address_number_high, "\
+		# "water_route_name, water_name, suburb_locality, town_city, full_address_number, full_road_name, full_address, road_section_id, "\
+		# "gd2000_xcoord, gd2000_ycoord, water_route_name_ascii, water_name_ascii, suburb_locality_ascii, "\
+		# "town_city_ascii, full_road_name_ascii, full_address_ascii, gd2000_xcoord, gd2000_ycoord, is_odd, rna_id, linz_numb_id "\
+	# "FROM #{FN_3353} where __change__ = 'INSERT'"
 # note gd2000_x/ycoord twice
 
-	@conn.exec "UPDATE #{ADDR_TABLE} sae SET "\
-		"wkb_geometry=st_flipcoordinates(subquery.wkb_geometry), address_id=subquery.address_id, change_id=subquery.change_id, address_type=subquery.address_type, unit_value=subquery.unit_value, "\
-		"address_number=subquery.address_number, address_number_suffix=subquery.address_number_suffix, address_number_high=subquery.address_number_high, "\
-		"water_route_name=subquery.water_route_name, water_name=subquery.water_name, suburb_locality=subquery.suburb_locality, town_city=subquery.town_city, "\
-		"full_address_number=subquery.full_address_number, full_road_name=subquery.full_road_name, full_address=subquery.full_address, road_section_id=subquery.road_section_id, "\
-		"gd2000_xcoord=subquery.gd2000_xcoord, gd2000_ycoord=subquery.gd2000_ycoord, water_route_name_ascii=subquery.water_route_name_ascii, water_name_ascii=subquery.water_name_ascii, "\
-		"suburb_locality_ascii=subquery.suburb_locality_ascii, town_city_ascii=subquery.town_city_ascii, full_road_name_ascii=subquery.full_road_name_ascii, "\
-		"full_address_ascii=subquery.full_address_ascii, shape_x=subquery.gd2000_xcoord, shape_y=subquery.gd2000_ycoord, is_odd=subquery.is_odd, rna_id=subquery.rna_id, linz_numb_id=subquery.linz_numb_id "\
-	"FROM ( SELECT "\
-		"wkb_geometry, address_id, change_id, address_type, unit_value, address_number, address_number_suffix, address_number_high, "\
-		"water_route_name, water_name, suburb_locality, town_city, full_address_number, full_road_name, full_address, road_section_id, "\
-		"gd2000_xcoord, gd2000_ycoord, water_route_name_ascii, water_name_ascii, suburb_locality_ascii, "\
-		"town_city_ascii, full_road_name_ascii, full_address_ascii, is_odd, rna_id, linz_numb_id "\
-	"FROM #{FN_3353} where __change__ = 'UPDATE') AS subquery WHERE sae.address_id=subquery.address_id"
+	# @conn.exec "UPDATE #{ADDR_TABLE} sae SET "\
+		# "wkb_geometry=st_flipcoordinates(subquery.wkb_geometry), address_id=subquery.address_id, change_id=subquery.change_id, address_type=subquery.address_type, unit_value=subquery.unit_value, "\
+		# "address_number=subquery.address_number, address_number_suffix=subquery.address_number_suffix, address_number_high=subquery.address_number_high, "\
+		# "water_route_name=subquery.water_route_name, water_name=subquery.water_name, suburb_locality=subquery.suburb_locality, town_city=subquery.town_city, "\
+		# "full_address_number=subquery.full_address_number, full_road_name=subquery.full_road_name, full_address=subquery.full_address, road_section_id=subquery.road_section_id, "\
+		# "gd2000_xcoord=subquery.gd2000_xcoord, gd2000_ycoord=subquery.gd2000_ycoord, water_route_name_ascii=subquery.water_route_name_ascii, water_name_ascii=subquery.water_name_ascii, "\
+		# "suburb_locality_ascii=subquery.suburb_locality_ascii, town_city_ascii=subquery.town_city_ascii, full_road_name_ascii=subquery.full_road_name_ascii, "\
+		# "full_address_ascii=subquery.full_address_ascii, shape_x=subquery.gd2000_xcoord, shape_y=subquery.gd2000_ycoord, is_odd=subquery.is_odd, rna_id=subquery.rna_id, linz_numb_id=subquery.linz_numb_id "\
+	# "FROM ( SELECT "\
+		# "wkb_geometry, address_id, change_id, address_type, unit_value, address_number, address_number_suffix, address_number_high, "\
+		# "water_route_name, water_name, suburb_locality, town_city, full_address_number, full_road_name, full_address, road_section_id, "\
+		# "gd2000_xcoord, gd2000_ycoord, water_route_name_ascii, water_name_ascii, suburb_locality_ascii, "\
+		# "town_city_ascii, full_road_name_ascii, full_address_ascii, is_odd, rna_id, linz_numb_id "\
+	# "FROM #{FN_3353} where __change__ = 'UPDATE') AS subquery WHERE sae.address_id=subquery.address_id"
 
 #road table
 	@conn.exec "DELETE FROM #{ROAD_TABLE} rcl USING #{FN_3383} cs

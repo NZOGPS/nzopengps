@@ -1,0 +1,11 @@
+<OGRVRTDataSource>
+  <OGRVRTLayer name="table_53331_cs">
+    <SrcDataSource relativeToVRT="1">table_53331_cs.csv</SrcDataSource>
+    <FID>address_reference_id</FID>
+    <Field name="__change__" src="__change__" type="String" width="50" />
+    <Field name="address_reference_id" src="address_reference_id" type="Integer" />
+    <Field name="address_id" src="address_id" type="Integer" />
+    <Field name="address_reference_object_type" src="address_reference_object_type" type="String" width="100" />
+    <Field name="address_reference_object_value" src="address_reference_object_value" type="String" width="100" />
+  </OGRVRTLayer>
+</OGRVRTDataSource>

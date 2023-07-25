@@ -1,4 +1,4 @@
-Start = 2023-07-23 16:26:03 +1200
+Start = 2023-07-25 12:40:11 +1200
 linzid	street_name	street_name_2	official_street_name
 1788814	Pamarika St		Pamariki St	-41.11492,172.98756
 1791613	Cotterill St		Cotterell St	-41.42736,173.96165
@@ -8,5 +8,5 @@ linzid	street_name	street_name_2	official_street_name
 3081823	Upton Lane		Rhodes Lane	-41.33415,173.24200
 #############################
 
-Finish = 2023-07-23 16:26:06 +1200
-Processing time = 2.141553
+Finish = 2023-07-25 12:40:12 +1200
+Processing time = 1.2616444

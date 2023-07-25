@@ -1,4 +1,4 @@
-Start = 2023-07-23 16:26:45 +1200
+Start = 2023-07-25 12:40:25 +1200
 linzid	street_name	street_name_2	official_street_name
 3027695	Old State Highway 1		State Highway 1	-36.52540,174.67749
 3027695	Old State Highway 1		State Highway 1	-36.39167,174.65109
@@ -9,5 +9,5 @@ linzid	street_name	street_name_2	official_street_name
 3027695	Old State Highway 1		State Highway 1	-36.43568,174.64824
 #############################
 
-Finish = 2023-07-23 16:26:50 +1200
-Processing time = 4.785255
+Finish = 2023-07-25 12:40:28 +1200
+Processing time = 2.4082248

@@ -1,6 +1,9 @@
-Start = 2023-07-23 17:35:23 +1200
+Start = 2023-07-25 12:40:13 +1200
 linzid	street_name	street_name_2	official_street_name
+3083562	Kernal Loop		Kernel Loop	-45.06180,168.74520
+3083562	Kernal Loop		Kernel Loop	-45.06140,168.74449
+3083562	Kernal Loop		Kernel Loop	-45.05987,168.74376
 #############################
 
-Finish = 2023-07-23 17:35:26 +1200
-Processing time = 3.852805
+Finish = 2023-07-25 12:40:15 +1200
+Processing time = 2.3589021

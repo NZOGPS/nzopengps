@@ -1,11 +1,11 @@
-Start = 2023-07-25 12:39:50 +1200
+Start = 2023-07-25 20:35:03 +1200
 #############################
 
 5 LINZ ids are missing from NZOGPS Northland
 ;linzid=3083968	Don Meara Lane	-35.6377644794985,174.280446800565
 ;linzid=3083974	Ara Tuhono	-36.3885338629701,174.642669469908
-;linzid=3083975	Eagle Ray Rd	-36.113178800096655,174.572362478379
-;linzid=3084009	Toka Puia Lane	-35.309266228224686,173.8054730347279
+;linzid=3083975	Eagle Ray Rd	-36.1131788000967,174.572362478379
+;linzid=3084009	Toka Puia Lane	-35.3092662282247,173.805473034728
 ;linzid=3084010	Te Hekenga Rd	-35.5465765167,173.3877727667
 #############################
 
@@ -19,5 +19,5 @@ Start = 2023-07-25 12:39:50 +1200
 0 Number range ids are in NZOGPS Northland but missing from LINZ
 #############################
 
-Finish = 2023-07-25 12:39:51 +1200
-Processing time = 1.1341674
+Finish = 2023-07-25 20:35:06 +1200
+Processing time = 2.261065

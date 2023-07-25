@@ -1,18 +1,18 @@
-Start = 2023-07-25 12:40:07 +1200
+Start = 2023-07-25 20:35:34 +1200
 #############################
 
 11 LINZ ids are missing from NZOGPS Auckland
+;linzid=3082458	Kereru Lane	-36.3859973899688,174.750649822191
 ;linzid=3083946	Karearea Way	-36.73509894578,175.662187132676
 ;linzid=3083972	White Rocks Rise	-36.7094520500984,175.751621851297
-;linzid=3083974	Ara Tuhono	-36.5202177708349,174.672023954205
-;linzid=3083976	Severina Dr	-37.0645874544726,174.906350294008
+;linzid=3083974	Ara Tuhono	-36.5163937253373,174.668975081234
 ;linzid=3083977	Colleen Cres	-37.0632313750067,174.907659283348
 ;linzid=3083978	Pamela Cres	-37.0614545050981,174.910637120665
+;linzid=3083976	Severina Dr	-37.0645874544726,174.906350294008
 ;linzid=3083979	Ruby Lane	-37.0636782878977,174.907137364098
 ;linzid=3083980	Una Ross Lane	-37.0645874544726,174.906350294008
 ;linzid=3083986	Huakaroro Rd	-36.9161283667,174.7351182333
-;linzid=3083990	Noel Hayden St	-37.037516182430394,174.90369070258694
-;linzid=3082458	Kereru Lane	-36.3859973899688,174.750649822191
+;linzid=3083990	Noel Hayden St	-37.0375161824304,174.903690702587
 #############################
 
 0 LINZ ids are in NZOGPS Auckland but missing from LINZ
@@ -24,5 +24,5 @@ Start = 2023-07-25 12:40:07 +1200
 0 Number range ids are in NZOGPS Auckland but missing from LINZ
 #############################
 
-Finish = 2023-07-25 12:40:10 +1200
-Processing time = 2.5198265
+Finish = 2023-07-25 20:35:39 +1200
+Processing time = 4.909998

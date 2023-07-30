@@ -4,7 +4,7 @@ use feature qw "switch say";
 use File::Basename;
 use Cwd;
 use Getopt::Std;
-use Data::Dump;
+use Data::Dumper;
 
 my $basefile;
 my $basedir;
@@ -17,7 +17,8 @@ my $maxlbl = 3;
 my $comment;
 my @roads;
 my @polys;
-my $polyes;
+my $polyelms;
+my %cities;
 my @namesnot2index;
 my %bysufi;
 my %bylinzid;
@@ -56,10 +57,40 @@ my %x;
 my %y;
 
 sub do_header {
+	my $found = 0;
 	while (<>){
+		if (/^LblCoding=9/i) {
+			$found = 1;
+		}
 		if (/^\[END-IMG ID\]$/)	{ #end of header
 			last;
 		}
+	}
+	print "\nError: LblCoding=9 found in header\n\n" unless $found;
+}
+
+sub do_cities {
+	# assume a lot, e.g. cn=x, rn = m
+	while (1){
+		my $ctcty;
+		my $cityn = (<>); # CityN=xxx or [END-Cities]
+		return if ($cityn =~ /^\[END-Cities\]$/);
+		unless ($cityn =~ /^City(\d+)=(.+)/) { die "CityN=xxx not found in Cities: $cityn\n"; }
+		my $ctnum = $1;
+		my $ctnam = $2;
+		my $regn = (<>); # RegionIdxnnn=mm 
+		unless ($regn =~ /^RegionIdx(\d+)=(\d+)/) { die "RegionIdxnnn=mm not found in Cities: $regn\n"; } 
+		my $ctidx = $1;
+		my $ctidn = $2;
+		if ( $ctidx != $ctnum ){ die "Odd - $ctidx != $ctnum - $cityn,$regn" }#maybe odd formatting as \ns not stripped
+		if ( defined $cities{$ctidx}) {die "city idx $ctidx already defined before $cityn"}
+		if ($ctnam =~ /(.*), (.*)/){
+			$ctnam = $1;
+			$ctcty = $2;
+		} else {
+			$ctcty = '';
+		}
+		$cities{$ctidx}=[$ctidn,$ctnam,$ctcty];
 	}
 }
 
@@ -103,15 +134,13 @@ sub do_polygon {
 			}
 			push @x, \@xi;
 			push @y, \@yi;
-			$polyes++;
+			$polyelms++;
 		}
 		if (/^\[END\]$/)	{ #end of def - collect everything up and exit
 			push @polys,[$comment,$type,$label,$endlevel,$cityidx,\@x,\@y];	
 			last;
 		}
 	}
-
-
 }
 
 sub parsenums{
@@ -140,8 +169,8 @@ sub parsenods{
 	my @nod1;
 	my $i;
 
-	for ($i=0; $i<$#nods;$i+=2) { #even elements only, since odd ones are index			
-		@nod1 = split /,/,$nods[$i+1];	
+	for ($i=0; $i<$#nods;$i+=2) { #even elements only, since odd ones are index
+		@nod1 = split /,/,$nods[$i+1];
 		if ($#nod1 != 2){
 			print "Error: odd number of parameters ($#nod1) in nodes line: $nods[$i+1]\n";
 			return;
@@ -152,7 +181,6 @@ sub parsenods{
 		}
 	}
 }
-
 
 sub do_polyline{
 	my $comment = shift;	#0
@@ -411,6 +439,43 @@ sub nolinzidset {
 	}
 }
 
+sub write_city_sql {
+	my $cityidx;
+	my @vals;
+	my $citynam;
+	my $citycty;
+	my $tablename = $basefile.'-cities';
+	my $ldr = ' ';
+
+	open(SQLFILE, '>', "${tablename}.sql") or die "can't create sql file\n";
+
+	print SQLFILE "DROP TABLE IF EXISTS \"${tablename}\";\n";
+	print SQLFILE "CREATE TABLE \"${tablename}\" (\"cityid\"  int PRIMARY KEY,\n";
+	print SQLFILE "\"label\" varchar(100),\n";
+	print SQLFILE "\"city\" varchar(30),\n";
+	print SQLFILE "\"rgnidx\" integer,\n";
+	print SQLFILE "\"linzidx\" integer);\n";
+
+	print SQLFILE "INSERT INTO \"${tablename}\" ";
+	print SQLFILE "(\"cityid\",\"label\",\"city\",\"rgnidx\")";
+	print SQLFILE " VALUES \n";
+
+	for $cityidx (keys %cities){
+		@vals = @{$cities{$cityidx}};
+		# print "city $cityidx - $vals[0] - $vals[1] - $vals[2]\n";
+		$citynam = $vals[1];
+		$citynam =~ s/\'/\'\'/g;	#double quotes to escape them in sql
+		if ($vals[2] ne '') {		#manually quote name, or set it to null
+			$citycty = "'$vals[2]'"
+		} else {
+			$citycty ='NULL';
+		}
+		print SQLFILE "$ldr($cityidx,'$citynam',$citycty,$vals[0])\n";
+		$ldr =',';
+	}
+	print SQLFILE ";\n";
+}
+
 sub write_poly_sql {
 	my $poly;
 	my @x;
@@ -420,6 +485,7 @@ sub write_poly_sql {
 	my $i;
 	my $areaname;
 	my $j;
+	my $ldr = ' ';
 	my $id = 1;
 	my $tablename = $basefile.'-polys';
 
@@ -429,6 +495,11 @@ sub write_poly_sql {
 	print SQLFILE "\"label\" varchar(100),\n";
 	print SQLFILE "\"type\" varchar(10));\n";
 	print SQLFILE "SELECT AddGeometryColumn('','${tablename}','the_geom','4167','POLYGON',2);\n";
+
+	print SQLFILE "INSERT INTO \"${tablename}\" ";
+	print SQLFILE "(\"polyid\",\"label\",\"type\",the_geom)";
+	print SQLFILE " VALUES \n ";
+
 	for $poly (@polys){
 		@x = @{$$poly[5]};
 		@y = @{$$poly[6]};
@@ -438,14 +509,8 @@ sub write_poly_sql {
 		} else {
 			$areaname = '';
 		}
-		if ($id == 1) {
-			print SQLFILE "INSERT INTO \"${tablename}\" ";
-			print SQLFILE "(\"polyid\",\"label\",\"type\",the_geom)";
-			print SQLFILE " VALUES \n ";
-		} else {
-			print SQLFILE ",";
-		}
-		print SQLFILE "($id,'$areaname','$$poly[1]',";
+
+		print SQLFILE "$ldr($id,'$areaname','$$poly[1]',";
 		print SQLFILE "ST_GeomFromText('POLYGON((";
 		while (@x){
 			@xi = @{pop @x};
@@ -460,6 +525,7 @@ sub write_poly_sql {
 			}
 		}
 		print SQLFILE "))',4167))\n";
+		$ldr = ','; #leading char is , after first line
 		$id++;
 	}
 	print SQLFILE ";\n";
@@ -472,19 +538,27 @@ sub write_line_sql {
 	my @nums;
 	my $i;
 	my $rdname;
+	my $cityidx;
 	my $j;
+	my $ldr = ' ';
+	my $jmax;
 	my $first = 1;
-	open(SQLFILE, '>', "${basefile}.sql") or die "can't create sql file\n";
-	print SQLFILE "DROP TABLE IF EXISTS \"${basefile}\";\n";
+	my $tablename = "${basefile}_numberlines";
+	open(SQLFILE, '>', "${tablename}.sql") or die "can't create sql file\n";
+	print SQLFILE "DROP TABLE  IF EXISTS ${tablename};\n";
 #	print SQLFILE "BEGIN;\n";
-	print SQLFILE "CREATE TABLE \"${basefile}\" (\"roadid\"  int PRIMARY KEY,\n";
+	print SQLFILE "CREATE TABLE ${tablename} (";
+	print SQLFILE "\"gid\" serial PRIMARY KEY,\n";
+	print SQLFILE "\"roadid\" integer,\n";
 	print SQLFILE "\"label\" varchar(100),\n";
 	print SQLFILE "\"type\" varchar(10),\n";
 	print SQLFILE "\"linzid\" integer,\n";
 	print SQLFILE "\"numbers\" varchar(6)[][]);\n";
 	print SQLFILE "SELECT AddGeometryColumn('','${basefile}','the_geom','4167','LINESTRING',2);\n";
+			print SQLFILE "INSERT INTO \"${basefile}\" ";
+			print SQLFILE "(\"roadid\",\"label\",\"type\",linzid,\"numbers\",the_geom)";
+			print SQLFILE " VALUES \n ";
 	for $road (@roads){
-#		next if ( $$road[1] eq "0x14" or  $$road[1] eq "0x1c" or $$road[1] eq "0x18" or $$road[1] eq "0x1f");
 		next if !defined($$road[5]);
 		@x = @{$$road[9]};
 		@y = @{$$road[10]};
@@ -495,17 +569,9 @@ sub write_line_sql {
 		} else {
 			$rdname = '';
 		}
-		if ($first) {
-			print SQLFILE "INSERT INTO \"${basefile}\" ";
-			print SQLFILE "(\"roadid\",\"label\",\"type\",linzid,\"numbers\",the_geom)";
-			print SQLFILE " VALUES \n ";
-			$first = 0;
-		} else {
-			print SQLFILE ",";
-		}
-		print SQLFILE "('$$road[5]','$rdname','$$road[1]','$$road[18][0]','{";
-		# for nodes
 		for ($i=0;$i<=$#nums;$i++){
+			print SQLFILE "$ldr('$$road[5]','$rdname','$$road[1]','$$road[18][0]','{";
+			# for nodes
 			print SQLFILE "{";
 			for ($j=0;$j<7;$j++){
 				print SQLFILE "$nums[$i][$j]";
@@ -516,7 +582,7 @@ sub write_line_sql {
 			print SQLFILE "}";
 			if ($i<$#nums){
 				print SQLFILE ",";
-			}				
+			}
 		}
 		print SQLFILE "}',ST_GeomFromText('LINESTRING(";
 		# for geom
@@ -527,17 +593,16 @@ sub write_line_sql {
 			}
 		}
 		print SQLFILE ")',4167))\n";
-	}	
+	}
+	$ldr = ','; #leading char is , after first line
 	print SQLFILE ";\n";
-}	
+}
 ##### Main program starts...
 
-getopts("lsxp", \%cmdopts);
+getopts("clsxp", \%cmdopts);
 if (!($cmdopts{s} or $cmdopts{l})){
 	$cmdopts{l}=1;
 }
-
-# die "Under development - do not use!" unless $cmdopts{x};
 
 die "No filename specified" if (!defined $ARGV[0]);
 ($basefile, $basedir, $basesuff) = fileparse($ARGV[0],qr/\.[^.]*/);
@@ -552,26 +617,30 @@ if ($basedir =~ m|/$nzogps(.*)$|) {
 }
 
 while (<>){
-	
+
 	if (/\[IMG ID\]$/){
 		do_header;
 		$comment = "";
-	} 
+	}
+
+	if (/\[Cities\]/){
+		do_cities;
+	}
 
 	if (/;(.*)/){	#comment
 		$comment .= $1."\n";
 	}
-	
+
 	if (/^\[POLYGON\]$/ || /^\[RGN80\]$/){
 		do_polygon;
 		$comment = "";
 	}
-	
+
 	if (/^\[POLYLINE\]$/ || /^\[RGN40\]$/){
 		do_polyline($comment);
 		$comment = "";
 	}
-	
+
 	if (/^\[POI\]$/ || /^\[RGN20\]$/){
 		do_poi;
 		$comment = "";
@@ -588,9 +657,15 @@ if ($cmdopts{s}){
 
 if ($cmdopts{p}){
 	print STDERR "Doing polygons\n";
-	print STDERR "$#polys Polygons $polyes Polygon Elements\n",
+	print STDERR "$#polys Polygons $polyelms Polygon Elements\n",
 	write_poly_sql();
 } else {
 	print STDERR "Doing lines\n";
 	write_line_sql();
+}
+
+if ($cmdopts{c}){
+	my $ccnt = keys %cities;
+	print STDERR "$ccnt cities\n";
+	write_city_sql();
 }

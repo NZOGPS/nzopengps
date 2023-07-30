@@ -528,3 +528,11 @@ where c1.column_name is null
       or c2.column_name is null
 order by c1.table_name,
          table_column;
+
+--compare names in LINZ suburbs to ours
+-- fugly but seems to work? No, group by label puts dups back in.
+update "Canterbury-cities" cc 
+	set linzidx = id from ( 
+		select cityid,label,id,count(mymatch.cityid) from (
+		select * from "Canterbury-cities" join nz_suburbs_and_localities nzsl on label = name_ascii) as mymatch group by label,cityid,id having count(cityid)=1 )cmt where cc.cityid=cmt.cityid
+

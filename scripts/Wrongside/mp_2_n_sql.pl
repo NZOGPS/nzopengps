@@ -449,7 +449,7 @@ sub write_city_sql {
 	print SQLFILE "\"label\" varchar(100),\n";
 	print SQLFILE "\"city\" varchar(30),\n";
 	print SQLFILE "\"rgnidx\" integer,\n";
-	print SQLFILE "\"linzidx\" integer,\n";
+#	print SQLFILE "\"linzidx\" integer,\n";
 	print SQLFILE "\"stbound\" geometry(Polygon,4167));\n";
 	print SQLFILE "INSERT INTO ${tablename} ";
 	print SQLFILE "(\"cityid\",\"label\",\"city\",\"rgnidx\")";

@@ -534,23 +534,23 @@ select cityid, label,city,id,major_name,territorial_authority
 	from canterbury_cities
 	join nz_suburbs_and_localities 
 	on label = name_ascii 
-	where linzidx is null 
+	where nzslid is null 
 	order by label;
 	
 -- ignore lakes and bays!
 select cityid, label,city,id,major_name,territorial_authority,type 
-	from "Canterbury-cities" 
+	from canterbury_cities
 	join nz_suburbs_and_localities 
 	on label = name_ascii 
-	where linzidx is null and type <> 'Coastal Bay' and type <> 'Lake' and type <> 'Inland Bay'
-	order by label;
+	where nzslid is null and type <> 'Coastal Bay' and type <> 'Lake' and type <> 'Inland Bay'
+	order by label;canterbury_cities
 	
 --compare names in LINZ suburbs to ours #sets 341
-update "Canterbury-cities" set linzidx=id 
+update canterbury_cities set linzidx=id 
 	from nz_suburbs_and_localities 
 	join (
 		select label, count(*) as count 
-		from "Canterbury-cities" 
+		from canterbury_cities 
 		join nz_suburbs_and_localities nzsl 
 		on label = name_ascii 
 		where linzidx is null and type <> 'Coastal Bay' and type <> 'Lake' and type <> 'Inland Bay'

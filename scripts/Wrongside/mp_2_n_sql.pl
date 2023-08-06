@@ -441,16 +441,17 @@ sub write_city_sql {
 	my @vals;
 	my $citynam;
 	my $citycty;
-	my $tablename = $basefile.'-cities';
+	my $tablename = $basefile.'_cities';
 	my $ldr = ' ';
 	open(SQLFILE, '>', "${tablename}.sql") or die "can't create sql file\n";
-	print SQLFILE "DROP TABLE IF EXISTS \"${tablename}\";\n";
-	print SQLFILE "CREATE TABLE \"${tablename}\" (\"cityid\"  int PRIMARY KEY,\n";
+	print SQLFILE "DROP TABLE IF EXISTS ${tablename};\n";
+	print SQLFILE "CREATE TABLE ${tablename} (\"cityid\"  int PRIMARY KEY,\n";
 	print SQLFILE "\"label\" varchar(100),\n";
 	print SQLFILE "\"city\" varchar(30),\n";
 	print SQLFILE "\"rgnidx\" integer,\n";
-	print SQLFILE "\"linzidx\" integer);\n";
-	print SQLFILE "INSERT INTO \"${tablename}\" ";
+	print SQLFILE "\"linzidx\" integer,\n";
+	print SQLFILE "\"stbound\" geometry(Polygon,4167));\n";
+	print SQLFILE "INSERT INTO ${tablename} ";
 	print SQLFILE "(\"cityid\",\"label\",\"city\",\"rgnidx\")";
 	print SQLFILE " VALUES \n";
 	for $cityidx (keys %cities){
@@ -480,14 +481,14 @@ sub write_poly_sql {
 	my $j;
 	my $ldr = ' ';
 	my $id = 1;
-	my $tablename = $basefile.'-polys';
+	my $tablename = $basefile.'_polys';
 	open(SQLFILE, '>', "${tablename}.sql") or die "can't create sql file\n";
-	print SQLFILE "DROP TABLE IF EXISTS \"${tablename}\";\n";
-	print SQLFILE "CREATE TABLE \"${tablename}\" (\"polyid\"  int PRIMARY KEY,\n";
+	print SQLFILE "DROP TABLE IF EXISTS ${tablename};\n";
+	print SQLFILE "CREATE TABLE ${tablename} (\"polyid\"  int PRIMARY KEY,\n";
 	print SQLFILE "\"label\" varchar(100),\n";
 	print SQLFILE "\"type\" varchar(10));\n";
 	print SQLFILE "SELECT AddGeometryColumn('','${tablename}','the_geom','4167','POLYGON',2);\n";
-	print SQLFILE "INSERT INTO \"${tablename}\" ";
+	print SQLFILE "INSERT INTO ${tablename} ";
 	print SQLFILE "(\"polyid\",\"label\",\"type\",the_geom)";
 	print SQLFILE " VALUES \n ";
 	for $poly (@polys){
@@ -571,6 +572,7 @@ sub write_line_sql {
 		}
 		for ($i=0;$i<=$#nums;$i++){
 			print SQLFILE "$ldr('$$road[5]','$rdname','$$road[1]','$$road[18][0]',$cityidx,'$i',";
+			$ldr = ','; #leading char is , after first line
 			for ($j=1;$j<7;$j++){
 				print SQLFILE "'$nums[$i][$j]'";
 				if ($j<6){
@@ -588,7 +590,6 @@ sub write_line_sql {
 			}
 			print SQLFILE ")',4167))\n";
 		}
-		$ldr = ','; #leading char is , after first line
 	}
 	print SQLFILE ";\n";
 }
@@ -612,6 +613,7 @@ if ($basedir =~ m|/$nzogps(.*)$|) {
 } else {
 	print STDERR "$nzogps not found in path. Unlikely to find numbering files...\n";
 }
+$basefile = lc $basefile;
 
 while (<>){
 	

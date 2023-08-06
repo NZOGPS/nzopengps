@@ -529,10 +529,78 @@ where c1.column_name is null
 order by c1.table_name,
          table_column;
 
---compare names in LINZ suburbs to ours
--- fugly but seems to work? No, group by label puts dups back in.
-update "Canterbury-cities" cc 
-	set linzidx = id from ( 
-		select cityid,label,id,count(mymatch.cityid) from (
-		select * from "Canterbury-cities" join nz_suburbs_and_localities nzsl on label = name_ascii) as mymatch group by label,cityid,id having count(cityid)=1 )cmt where cc.cityid=cmt.cityid
+-- canterbury cities - 402 total 43 are multis
+select cityid, label,city,id,major_name,territorial_authority 
+	from canterbury_cities
+	join nz_suburbs_and_localities 
+	on label = name_ascii 
+	where linzidx is null 
+	order by label;
+	
+-- ignore lakes and bays!
+select cityid, label,city,id,major_name,territorial_authority,type 
+	from "Canterbury-cities" 
+	join nz_suburbs_and_localities 
+	on label = name_ascii 
+	where linzidx is null and type <> 'Coastal Bay' and type <> 'Lake' and type <> 'Inland Bay'
+	order by label;
+	
+--compare names in LINZ suburbs to ours #sets 341
+update "Canterbury-cities" set linzidx=id 
+	from nz_suburbs_and_localities 
+	join (
+		select label, count(*) as count 
+		from "Canterbury-cities" 
+		join nz_suburbs_and_localities nzsl 
+		on label = name_ascii 
+		where linzidx is null and type <> 'Coastal Bay' and type <> 'Lake' and type <> 'Inland Bay'
+		group by label 
+		having count(*)=1 
+	) uni 
+	on uni.label = name_ascii 
+	where "Canterbury-cities".label=name_ascii 
+		and linzidx is null 
+		and type <> 'Coastal Bay' and type <> 'Lake' and type <> 'Inland Bay'
 
+-- sets 17
+update "Canterbury-cities" set linzidx=id 
+	from nz_suburbs_and_localities 
+	where label = name_ascii 
+	and city = major_name 
+	and linzidx is null
+
+select st_collect(the_geom) from canterbury_numberlines where cityidx=277 --returns geometrycollection
+select st_collect(tmp.the_geom) from (select the_geom from canterbury_numberlines where cityidx=277 )as tmp -- also works
+update canterbury_cities set stbound = (select st_convexhull(st_collect(tmp.the_geom)) from (select the_geom from canterbury_numberlines where cityidx=cityidx )as tmp ) 
+
+-- almost? fails as st_ch returns generic geometry
+update canterbury_cities cc set stbound = sq.ch
+from (
+	select cityidx as ci, st_convexhull(st_collect(the_geom)) as ch from canterbury_numberlines group by cityidx
+) as sq 
+where cc.cityid = sq.ci
+-- weird - need to cast via text
+update canterbury_cities cc set stbound = st_polygonfromtext(sq.ch,4167)
+from (
+	select cityidx as ci, st_astext(st_convexhull(st_collect(the_geom))) as ch from canterbury_numberlines group by cityidx
+) as sq 
+where cc.cityid = sq.ci
+-- roads out of area?
+select roadid,cn.label,cc.label,linzid,st_astext(st_pointn(the_geom,0)) from canterbury_numberlines cn join canterbury_cities cc on cityidx = cityid join nz_suburbs_and_localities on linzidx = id where linzidx is not null and not st_intersects(the_geom,wkb_geometry)
+select roadid,cn.label,cc.label,linzid,concat_ws(' ',st_y(st_pointn(the_geom,1)),st_x(st_pointn(the_geom,1)))as coords from canterbury_numberlines cn join canterbury_cities cc on cityidx = cityid join nz_suburbs_and_localities on linzidx = id where linzidx is not null and not st_intersects(the_geom,wkb_geometry)
+-- what should it be?
+select roadid,cn.label,sl.name from canterbury_numberlines cn join nz_suburbs_and_localities sl on st_intersects(the_geom,wkb_geometry) order by sl.name
+-- put it together ~22s on Canterbury
+select cn.roadid,cn.label,cc.label,sb.name,linzid,
+	concat_ws(' ',st_y(st_pointn(the_geom,1)),st_x(st_pointn(the_geom,1)))as coords 
+	from canterbury_numberlines cn 
+	join canterbury_cities cc on cityidx = cityid 
+	join nz_suburbs_and_localities on linzidx = id
+	join ( select
+		gid,sl.name from canterbury_numberlines cn
+		join nz_suburbs_and_localities sl 
+		on st_intersects(the_geom,wkb_geometry)) sb on sb.gid = cn.gid
+	where linzidx is not null 
+	and not st_intersects(the_geom,wkb_geometry) order by sb.name
+-- What's not right? 
+select cityid,label,city, st_y(st_centroid(stbound))||' '||st_x(st_centroid(stbound)) as coords from canterbury_cities where stbound is null or linzidx is null

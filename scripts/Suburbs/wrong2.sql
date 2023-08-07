@@ -1,4 +1,4 @@
-copy( select st_x(st_startpoint(the_geom)),st_y(st_startpoint(the_geom)), 'Shouldbe: '||sb.name,cn.label
+copy( select st_x(st_startpoint(the_geom)),st_y(st_startpoint(the_geom)), cn.label,'Shouldbe: '||sb.name
 	from :ntable cn 
 	join :ctable cc on cityidx = cityid 
 	join nz_suburbs_and_localities on nzslid = id

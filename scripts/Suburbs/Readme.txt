@@ -16,10 +16,10 @@ Read nzsl ID into cities
 Generate convex hull of roads with given city in cities (interest only?)
 Canterbury - started with 6581 incorrect.
 20230806 2512
-20230807 1593 BUT - only goes up to L? Encoding?
-
+20230807 1593 BUT - only goes up to L? Encoding? YES Desc goes down to T
+21:45 08/08/23 Fixed. Changed name to name_ascii. Now 4790
 Sort-of working. 
 Wasn't intending to do down to road segments but it's working out that way.
 TO DO:
 Add code/table to do Different spelling (e.g. English/Maori) and duplicates.
-Encoding error?
+Encoding error? - done.

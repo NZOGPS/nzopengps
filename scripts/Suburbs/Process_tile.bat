@@ -10,5 +10,5 @@ set nzogps_psqlc=%nzogps_psql_bin%psql -U postgres -d nzopengps
 
 %nzogps_psqlc% -v ctable=%1_cities -v outfile='%nzogps_base%\scripts\suburbs\%1-UnmatchedCities.csv' -f unmatched.sql
 %nzogps_psqlc% -v ctable=%1_cities -v outfile='%nzogps_base%\scripts\suburbs\%1-UnusedCities.csv' -f unused.sql
-%nzogps_psqlc% -v ctable=%1_cities -v ntable=%1_numberlines -v outfile='%nzogps_base%\scripts\suburbs\%1-WrongCities.csv' -f wrong.sql
+rem %nzogps_psqlc% -v ctable=%1_cities -v ntable=%1_numberlines -v outfile='%nzogps_base%\scripts\suburbs\%1-WrongCities.csv' -f wrong.sql
 %nzogps_psqlc% -v ctable=%1_cities -v ntable=%1_numberlines -v outfile='%nzogps_base%\scripts\suburbs\%1-WrongCities2.csv' -f wrong2.sql

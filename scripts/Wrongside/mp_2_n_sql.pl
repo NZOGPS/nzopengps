@@ -449,7 +449,6 @@ sub write_city_sql {
 	print SQLFILE "\"label\" varchar(100),\n";
 	print SQLFILE "\"city\" varchar(30),\n";
 	print SQLFILE "\"rgnidx\" integer,\n";
-#	print SQLFILE "\"linzidx\" integer,\n";
 	print SQLFILE "\"stbound\" geometry(Polygon,4167));\n";
 	print SQLFILE "INSERT INTO ${tablename} ";
 	print SQLFILE "(\"cityid\",\"label\",\"city\",\"rgnidx\")";
@@ -462,9 +461,8 @@ sub write_city_sql {
 		if ($vals[2] ne '') { #manually quote name, or set it to null
 			$citycty = "'$vals[2]'"
 		} else {
-			$citycty ='NULL';
+			$citycty ='\'\'';
 		}
-	#
 		print SQLFILE "$ldr($cityidx,'$citynam',$citycty,$vals[0])\n";
 		$ldr =',';
 	}

@@ -36,7 +36,10 @@ Canterbury - started with 6581 incorrect.
 Notes:
 	Sort-of working. 
 	Wasn't intending to do down to road segments but it's working out that way.
-	
+	interesting to see there's a bit of variation. Roads appear as needing correction after 2-3 checks.
 TO DO:
 	Add code/table to do Different spelling (e.g. English/Maori) and duplicates.
 	Encoding error? - done.
+	Add buffer to intersects?
+	Move code / sql data / outputs to subdirectories
+	

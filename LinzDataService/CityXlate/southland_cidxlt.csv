@@ -1,0 +1,44 @@
+nzogps_name,nzogps_city,nzogps_region,nzogps_cityidx,nzsl_nameascii,nzsl_majornameascii,nzsl_id
+# need splitting:,"Dunrobin, Moonlight, Round Hill, Purakaunui",,,,,
+Aramoana,,1,282,Aramoana,Port Chalmers,2482
+Awarua,,2,440,Awarua,Invercargill,86
+Bayswater,,2,353,Bayswater,Otautau,102
+Beaumont,,1,75,Beaumont,Lawrence,4055
+Birchwood,,2,336,Birchwood,Otautau,125
+Blue Mountains,,1,52,Blue Mountains,Tapanui,141
+Cattle Flat,,2,498,Cattle Flat,Riversdale,207
+Cattle Flat,,1,730,Cattle Flat,Wanaka,4053
+Clifton,,1,77,Clifton,Balclutha,238
+Colac Bay,,2,339,Colac Bay/Oraka,Riverton/Aparima,2507
+Dalefield,,1,631,Dalefield,Queenstown,2147
+Dunrobin,,1,43,Dunrobin,,
+Ferndale,,2,540,Ferndale,Mataura,376
+Georgetown,,1,672,Georgetown,Oamaru,407
+Gladstone,,1,649,Gladstone,Invercargill,415
+Halfmoon Bay,Stewart Island,2,373,Halfmoon Bay / Oban,Stewart Island,8653
+Kingston,,2,4,Kingston,Kingston,4094
+Kinloch,,1,624,Kinloch,Glenorchy,2350
+Lake Hayes Estate,Queenstown,1,699,Lake Hayes,Queenstown,2192
+Lake Lochie,,2,731,Lake Lochie,delete,
+Longbush,,2,467,Longbush,Invercargill,763
+Meadowbank,,1,278,Meadowbank,Palmerston,908
+Moonlight,,1,174,Moonlight,,
+Mount Barker,,1,685,Mount Barker,delete,
+Ngapuna,,1,573,Ngapuna,Middlemarch,1030
+Nine Mile,,2,506,Nine Mile,Riversdale,1045
+Otara,,2,530,Otara,Tokanui,2373
+Owhiro,,1,169,Owhiro,Mosgiel,1176
+Purakaunui,,1,79,Purakaunui,,
+Richmond,,1,681,Richmond,Invercargill,1397
+Riversdale,,2,505,Riversdale,Riversdale,1411
+Riverside,,1,584,Riverside,Mosgiel,1412
+Riverton,,2,355,Riverton/Aparima,Riverton/Aparima,8859
+Round Hill,,2,340,Round Hill,Riverton/Aparima,2336
+Shannon,,1,149,Shannon,Middlemarch,1482
+Springvale,,1,53,Springvale,Alexandra,2458
+Stewart Island,,2,367,Stewart Island/Rakiura,Stewart Island,6525
+Tokanui,,2,532,Tokanui,Tokanui,2437
+Waikawa,,2,561,Waikawa,Tokanui,8639
+Windsor,,1,670,Windsor,Oamaru,1950
+Windsor Park,,1,676,Windsor Park,Oamaru,1952
+Woodside,,1,154,Woodside,Outram,1908

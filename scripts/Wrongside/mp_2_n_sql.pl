@@ -492,6 +492,8 @@ sub write_poly_sql {
 	for $poly (@polys){
 		@x = @{$$poly[5]};
 		@y = @{$$poly[6]};
+
+# need to write out non-numbered lines for city index checking?
 		if (defined($$poly[2])){
 			$areaname = $$poly[2];
 			$areaname =~ s/\'/\'\'/g;
@@ -556,6 +558,10 @@ sub write_line_sql {
 
 	for $road (@roads){
 		next if !defined($$road[5]); #ignore non-routing lines 
+		if ($$road[5] ~~ [9536,614]){
+			print Dumper $road;
+			print "\$#nums is $#nums\n";
+		}
 		@x = @{$$road[9]};
 		@y = @{$$road[10]};
 		@nums = @{$$road[11]};
@@ -569,6 +575,9 @@ sub write_line_sql {
 			$cityidx = $$road[4];
 		}
 		for ($i=0;$i<=$#nums;$i++){
+		if ($$road[5] ~~ [9536,614]){
+			print "\$i is $i\n";
+		}
 			print SQLFILE "$ldr('$$road[5]','$rdname','$$road[1]','$$road[18][0]',$cityidx,'$i',";
 			$ldr = ','; #leading char is , after first line
 			for ($j=1;$j<7;$j++){

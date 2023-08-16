@@ -42,4 +42,6 @@ TO DO:
 	Encoding error? - done.
 	Add buffer to intersects?
 	Move code / sql data / outputs to subdirectories
-	
+	Add order in suggested cities
+	wrong3 - index? SLOW!!!
+	or pre-transform roads to nztm?

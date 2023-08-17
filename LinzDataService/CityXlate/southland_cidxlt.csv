@@ -1,5 +1,5 @@
 nzogps_name,nzogps_city,nzogps_region,nzogps_cityidx,nzsl_nameascii,nzsl_majornameascii,nzsl_id
-# need splitting:,"Dunrobin, Moonlight, Round Hill, Purakaunui",,,,,
+# need splitting:,"Round Hill?",,,,,
 Aramoana,,1,282,Aramoana,Port Chalmers,2482
 Awarua,,2,440,Awarua,Invercargill,86
 Bayswater,,2,353,Bayswater,Otautau,102
@@ -11,7 +11,6 @@ Cattle Flat,,1,730,Cattle Flat,Wanaka,4053
 Clifton,,1,77,Clifton,Balclutha,238
 Colac Bay,,2,339,Colac Bay/Oraka,Riverton/Aparima,2507
 Dalefield,,1,631,Dalefield,Queenstown,2147
-Dunrobin,,1,43,Dunrobin,,
 Ferndale,,2,540,Ferndale,Mataura,376
 Georgetown,,1,672,Georgetown,Oamaru,407
 Gladstone,,1,649,Gladstone,Invercargill,415
@@ -19,16 +18,12 @@ Halfmoon Bay,Stewart Island,2,373,Halfmoon Bay / Oban,Stewart Island,8653
 Kingston,,2,4,Kingston,Kingston,4094
 Kinloch,,1,624,Kinloch,Glenorchy,2350
 Lake Hayes Estate,Queenstown,1,699,Lake Hayes,Queenstown,2192
-Lake Lochie,,2,731,Lake Lochie,delete,
 Longbush,,2,467,Longbush,Invercargill,763
 Meadowbank,,1,278,Meadowbank,Palmerston,908
-Moonlight,,1,174,Moonlight,,
-Mount Barker,,1,685,Mount Barker,delete,
 Ngapuna,,1,573,Ngapuna,Middlemarch,1030
 Nine Mile,,2,506,Nine Mile,Riversdale,1045
 Otara,,2,530,Otara,Tokanui,2373
 Owhiro,,1,169,Owhiro,Mosgiel,1176
-Purakaunui,,1,79,Purakaunui,,
 Richmond,,1,681,Richmond,Invercargill,1397
 Riversdale,,2,505,Riversdale,Riversdale,1411
 Riverside,,1,584,Riverside,Mosgiel,1412

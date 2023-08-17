@@ -20,4 +20,4 @@ for %%f in ("%nzogps_NZSL%") do (
 	if errorlevel 1 echo Wrong projection  & goto :eof
 )
 %nzogps_ogr2ogr% --config PG_USE_COPY TRUE -f "PostgreSQL" "PG:host=localhost user=postgres  dbname=nzopengps" -lco OVERWRITE=yes -lco GEOMETRY_NAME=wkb_geometry -oo GEOM_POSSIBLE_NAMES=WKT %nzogps_NZSL%
-%nzogps_psql_bin%psql -U postgres -d nzopengps < postproc.sql
+%nzogps_psql_bin%psql -U postgres -d nzopengps < Code\postproc.sql

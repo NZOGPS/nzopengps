@@ -38,10 +38,11 @@ Notes:
 	Wasn't intending to do down to road segments but it's working out that way.
 	interesting to see there's a bit of variation. Roads appear as needing correction after 2-3 checks.
 TO DO:
-	Add code/table to do Different spelling (e.g. English/Maori) and duplicates.
+	Add code/table to do Different spelling (e.g. English/Maori) and duplicates. Done.
 	Encoding error? - done.
-	Add buffer to intersects?
-	Move code / sql data / outputs to subdirectories
-	Add order in suggested cities
-	wrong3 - index? SLOW!!!
+	Add buffer to intersects? Done.
+	Move code / sql data / outputs to subdirectories Done.
+	Add order in suggested cities Done. Wrong2.
+	wrong3 by distance - index? SLOW!!!
+		Without: 540s With 25s
 	or pre-transform roads to nztm?

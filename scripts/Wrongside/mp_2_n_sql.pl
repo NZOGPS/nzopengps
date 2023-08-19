@@ -558,7 +558,7 @@ sub write_line_sql {
 
 	for $road (@roads){
 		next if !defined($$road[5]); #ignore non-routing lines 
-		if ($$road[5] ~~ [9536,614]){
+		if ($$road[5] ~~ [9536,614,27604]){
 			print Dumper $road;
 			print "\$#nums is $#nums\n";
 		}
@@ -573,9 +573,11 @@ sub write_line_sql {
 		}
 		if (defined $$road[4]) {
 			$cityidx = $$road[4];
+		} else {
+			$cityidx = 0;
 		}
 		for ($i=0;$i<=$#nums;$i++){
-		if ($$road[5] ~~ [9536,614]){
+		if ($$road[5] ~~ [9536,614,27604]){
 			print "\$i is $i\n";
 		}
 			print SQLFILE "$ldr('$$road[5]','$rdname','$$road[1]','$$road[18][0]',$cityidx,'$i',";

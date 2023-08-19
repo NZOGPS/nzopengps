@@ -31,7 +31,7 @@ update :ctable set nzslid=id
 		and nzslid is null;
 
 \echo incorrect nzsl_id in :xtable
-select nzogps_name,nzsl_id,id
+select nzogps_name,nzsl_id,nzslid
 	from :ctable ct
 	join :xtable xt
 	on nzogps_name = label
@@ -40,4 +40,4 @@ select nzogps_name,nzsl_id,id
 	join nz_suburbs_and_localities nzsl
 	on nzsl_nameascii = name_ascii
 		and nzsl_majornameascii = major_name_ascii
-	where nzsl_id != id
+	where nzslid != id

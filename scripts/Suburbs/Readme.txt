@@ -31,7 +31,7 @@ Per-tile:
 Canterbury - started with 6581 incorrect.
 20230806 2512
 20230807 1593 BUT - only goes up to L? Encoding? YES Desc goes down to T
-21:45 08/08/23 Fixed. Changed name to name_ascii. Now 4790
+21:45 08/08/23 Fixed. Changed name to name_ascii. Was failing on macrons. Now 4790
 
 Notes:
 	Sort-of working. 
@@ -44,5 +44,5 @@ TO DO:
 	Move code / sql data / outputs to subdirectories Done.
 	Add order in suggested cities Done. Wrong2.
 	wrong3 by distance - index? SLOW!!!
-		Without: 540s With 25s
+		Without index: 540s With 25s
 	or pre-transform roads to nztm?

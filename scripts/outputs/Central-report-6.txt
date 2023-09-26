@@ -1,6 +1,13 @@
-Start = 2023-07-25 20:35:49 +1200
+Start = 2023-09-26 11:09:52 +1300
 linzid	street_name	street_name_2	official_street_name
+3058028	Pembroke Rd		Pembroke Rd E	-39.30767,174.09811
+3058028	Pembroke Rd		Pembroke Rd E	-39.30635,174.10510
+3058028	Pembroke Rd		Pembroke Rd E	-39.33168,174.25816
+3058028	Pembroke Rd		Pembroke Rd E	-39.33168,174.25816
+3058028	Pembroke Rd		Pembroke Rd E	-39.33366,174.27262
+1800717	Hiuhiuawai St		Huihui a Wai St	-38.89342,175.76987
+3058028	Pembroke Rd		Pembroke Rd E	-39.33375,174.27120
 #############################
 
-Finish = 2023-07-25 20:35:53 +1200
-Processing time = 4.095088
+Finish = 2023-09-26 11:09:54 +1300
+Processing time = 2.2818443

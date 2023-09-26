@@ -1,6 +1,9 @@
-Start = 2023-07-25 22:15:52 +1200
+Start = 2023-09-26 11:10:00 +1300
 linzid	street_name	street_name_2	official_street_name
+1827034	Dominkovich Rd		Dominikovich Rd	-37.13737,174.61753
+3083681	Inganga Cres		Inanga Cres	-38.13515,176.20193
+3083759	Te La Tce		Te Ia Tce	-37.89249,175.45199
 #############################
 
-Finish = 2023-07-25 22:15:57 +1200
-Processing time = 4.168116
+Finish = 2023-09-26 11:10:02 +1300
+Processing time = 2.9217442

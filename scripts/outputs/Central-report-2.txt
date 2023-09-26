@@ -1,7 +1,14 @@
-Start = 2023-07-25 20:35:14 +1200
+Start = 2023-09-26 11:09:30 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Central
+7 LINZ ids are missing from NZOGPS Central
+;linzid=3084013	Middens Way	-39.907946931084,175.017209038437
+;linzid=3084012	Pukeko Dr	-39.9081083388886,175.017547065598
+;linzid=3084015	Tangaroa View	-39.9081083388886,175.017547065598
+;linzid=3084117	Kotare Lane	-38.6937921342753,178.067800510379
+;linzid=3084150	McCarthy Way	-39.6249620133066,176.855740087841
+;linzid=3084163	Mohaka St	-39.4996520939832,176.857002745034
+;linzid=3084217	Pembroke Rd W	-39.3336617992573,174.272543775501
 #############################
 
 0 LINZ ids are in NZOGPS Central but missing from LINZ
@@ -13,5 +20,5 @@ Start = 2023-07-25 20:35:14 +1200
 0 Number range ids are in NZOGPS Central but missing from LINZ
 #############################
 
-Finish = 2023-07-25 20:35:19 +1200
-Processing time = 4.458872
+Finish = 2023-09-26 11:09:33 +1300
+Processing time = 2.5459076

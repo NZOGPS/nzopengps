@@ -1,36 +1,11 @@
-Start = 2023-09-26 11:09:27 +1300
+Start = 2023-10-02 10:10:55 +1300
 #############################
 
-23 LINZ ids are missing from NZOGPS Southland
-;linzid=3084057	Cochrane Cl	-44.7113251879701,169.130595652246
-;linzid=3084058	George White Pl	-44.989787571638,168.814336603408
-;linzid=3084054	Midrun Lane	-44.7468698939076,169.262385206506
-;linzid=3084053	Lake McKay Dr	-44.746869949243,169.262386068327
-;linzid=3084055	Tin Hut Lane	-44.7474508153301,169.262516954784
-;linzid=3084056	Topaz Way	-44.7106362953714,169.125613499063
-;linzid=3084095	Mockford Lane	-44.6410734448199,169.22766719972
-;linzid=3084097	Oakridge Way	-46.4316799749063,168.307099291604
-;linzid=3084067	Mountain Track Rd	-45.6711452167,170.5344072333
-;linzid=3084115	Corner Peak Lane	-44.6153202301662,169.278681696135
-;linzid=3084133	Caroline Way	-45.8898114996838,170.417247649419
-;linzid=3084138	Outcrop Lane	-45.0628262919106,168.742373603093
-;linzid=3084213	Goldie Lane	-44.682186213792,169.175520692205
-;linzid=3084208	Berry Farm Dr	-44.718110446703,169.147362769864
-;linzid=3084209	Rubus St	-44.718552920817,169.145648916133
-;linzid=3084211	Starlight Crt	-44.718552920817,169.145648916133
-;linzid=3084210	Burbank Rd	-44.7177542351288,169.146344913661
-;linzid=3084212	Raspberry Cl	-44.7177542351288,169.146344913661
-;linzid=3084218	Astral Rise	-44.6813324414236,169.157421814109
-;linzid=3084219	Bellfield Lane	-44.6745224529482,169.162820884039
-;linzid=3084207	Home Hill Dr	-45.0590041593965,168.571829216156
-;linzid=3084214	Ranch Tce	-44.6976928114136,169.162380846163
-;linzid=3084215	Airstrip Lane	-44.6976928114136,169.162380846163
+1 LINZ ids are missing from NZOGPS Southland
+;linzid=1773316	Steep Hill Rd	-45.6624538859316,170.561582246129
 #############################
 
-3 LINZ ids are in NZOGPS Southland but missing from LINZ
-;linzid=3079961	Davenport Pl	-45.41556,167.72109
-;linzid=3079962	Johnstone Crt	-45.41560,167.72102
-;linzid=3079960	Moore Pl	-45.41546,167.72138
+0 LINZ ids are in NZOGPS Southland but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Southland
@@ -39,5 +14,5 @@ Start = 2023-09-26 11:09:27 +1300
 0 Number range ids are in NZOGPS Southland but missing from LINZ
 #############################
 
-Finish = 2023-09-26 11:09:30 +1300
-Processing time = 2.9724743
+Finish = 2023-10-02 10:10:58 +1300
+Processing time = 2.8482033

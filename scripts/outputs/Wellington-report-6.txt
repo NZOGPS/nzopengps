@@ -1,8 +1,6 @@
-Start = 2023-09-26 11:09:54 +1300
+Start = 2023-10-03 20:51:08 +1300
 linzid	street_name	street_name_2	official_street_name
-3080221	Jean Vanier Way		Te Aroha Way	-40.91543,175.01056
-3083730	Whio Lane		Whio Grv	-40.63774,175.22786
 #############################
 
-Finish = 2023-09-26 11:09:56 +1300
-Processing time = 1.9409036
+Finish = 2023-10-03 20:51:10 +1300
+Processing time = 1.9342212

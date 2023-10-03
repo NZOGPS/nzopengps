@@ -1,36 +1,10 @@
-Start = 2023-09-26 11:09:39 +1300
+Start = 2023-10-03 14:10:52 +1300
 #############################
 
-25 LINZ ids are missing from NZOGPS Waikato
-;linzid=3084022	Te Ara Ki Matarau Rd	-37.8716474838777,177.580188763888
-;linzid=3084023	Te Ara Ki Kairuru Rd	-37.8753729439414,177.576173960084
-;linzid=3084047	Ihaia Lane	-38.0618907167,177.0111147
-;linzid=3084051	Korimako Dr	-38.0121594806888,175.295950924777
-;linzid=3084068	Pekeketua Lane	-37.1399288859981,174.969415498621
-;linzid=3084069	Piwaiwaka Lane	-37.1396176272842,174.968163351706
-;linzid=3084123	Te Ara o Rihitoto	-37.8098123428192,174.853602514478
-;linzid=3084122	Paataka Lane	-37.7005617636746,175.20413741768
-;linzid=3084137	Vicarage Lane	-37.6536036439088,175.53808854338
-;linzid=3084126	Toka Tuu St	-37.8224571754029,174.870184306641
-;linzid=3084125	Rereahu St	-37.8220328600335,174.867971900926
-;linzid=3084144	Rerekahu Lane	-37.8223192609079,174.868250424936
-;linzid=3084045	Carrington Lane	-37.9632384434785,177.0339809315
-;linzid=3084046	Gwenda Ruegg Way	-37.9607323833,176.98981925
-;linzid=3084145	Pae Kotare St	-37.8224571754029,174.870184306641
-;linzid=3084167	Music Man Lane	-37.5520460045595,175.923678125076
-;linzid=3084180	Parakiwai Rd	-37.866203667384,175.453513596813
-;linzid=3084182	Whakataa Cl	-37.6921342088639,176.258034974299
-;linzid=3084183	Paapori Cl	-37.6920284766119,176.258018863729
-;linzid=3084184	Matariki Dr	-37.8199189716013,175.78365866102
-;linzid=3084185	Levante Dr	-37.8178733502178,175.785785339032
-;linzid=3084186	El Segundo Pl	-37.8204308736498,175.784820530086
-;linzid=3084187	Battle Eve Pl	-37.8183796249412,175.786679949481
-;linzid=3084203	Oscar Way	-37.6563963190626,176.02829324698
-;linzid=3084220	Watkins Way	-37.7239805859086,176.130006879083
+0 LINZ ids are missing from NZOGPS Waikato
 #############################
 
-1 LINZ ids are in NZOGPS Waikato but missing from LINZ
-;linzid=1815972	Coenen Ave	-37.65289,175.14827
+0 LINZ ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Waikato
@@ -39,5 +13,5 @@ Start = 2023-09-26 11:09:39 +1300
 0 Number range ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
-Finish = 2023-09-26 11:09:42 +1300
-Processing time = 3.2934456
+Finish = 2023-10-03 14:10:55 +1300
+Processing time = 3.1894814

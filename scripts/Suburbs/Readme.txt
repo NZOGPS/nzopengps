@@ -29,12 +29,16 @@ Per-tile processing:
 			roads that are not within the area of the matching LINZ city / suburb
 
 Manual work:
-	Checking unmatched cities 
-	Add entries as needed to exception table ..\..\]linzdataservice\CityXlate\tilename_cidxlt.csv
-	Unlink/move roads from improper suburbs
-		Looks like original assignment accidentally sometimes linked to 'watery' ones that should just be the physical bay/lake.
-	OR create an exception for ones we want to add, e.g. Wigram Skies in Canterbury
-	Care with deleting unneeded suburbs from mp file as that will renumber everything and screw up the xlate file.
+	Check unmatched cities file:
+		Helpful to add csv file to map to see where they are;
+		Unlink/move roads from improper suburbs
+			Looks like original assignment accidentally often linked to 'watery' ones that should just be the physical area beside it.
+		Correct spelling mistakes / name changes.
+		Add entries as needed to exception table ..\..\]linzdataservice\CityXlate\tilename_cidxlt.csv
+			To distinguish same name in two different areas.
+			create an exception for ones we want to add, e.g. Wigram Skies in Canterbury
+	Care with deleting unneeded suburbs from mp file as that will renumber everything and screw up the xlate file (not that bad?).
+	Check tilename_-WrongCities100k.csv. A likely scenario for entries in this file is an incorrect automatic name assignment.
 	
 Canterbury - started with 6581 incorrect.
 20230806 2512

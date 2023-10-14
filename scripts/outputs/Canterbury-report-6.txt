@@ -1,8 +1,7 @@
-Start = 2023-10-11 09:39:54 +1300
+Start = 2023-10-14 15:11:51 +1300
 linzid	street_name	street_name_2	official_street_name
 3033541	Cascade Pyke Valley Rd		Cascade Pyke Valley Road - legality not determined	-44.31153,168.22678
-3083860	Melhopt Pl		Melhopt Way	-43.61169,172.49314
 #############################
 
-Finish = 2023-10-11 09:39:59 +1300
-Processing time = 4.719363
+Finish = 2023-10-14 15:11:55 +1300
+Processing time = 3.609938

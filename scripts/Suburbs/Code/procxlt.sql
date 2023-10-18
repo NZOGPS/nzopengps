@@ -30,6 +30,14 @@ update :ctable set nzslid=id
 		and rgnidx = xtbl.nzogps_region
 		and nzslid is null;
 
+update :ctable set secondary=0;
+update :ctable set secondary=xtbl.secondary
+	from :xtable xtbl
+	where label = xtbl.nzogps_name
+		and city = xtbl.nzogps_city
+		and rgnidx = xtbl.nzogps_region
+		and xtbl.secondary = 1;
+
 \echo incorrect nzsl_id in :xtable
 select nzogps_name,nzsl_id,nzslid
 	from :ctable ct

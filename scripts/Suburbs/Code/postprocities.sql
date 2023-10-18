@@ -1,4 +1,5 @@
 alter table :ctable add column nzslid integer;
+alter table :ctable add column secondary integer;
 
 update :ctable set nzslid=id  -- find cities in linz whose names are unique match to ours
 	from nz_suburbs_and_localities 

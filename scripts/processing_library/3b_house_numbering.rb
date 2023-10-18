@@ -336,7 +336,7 @@ def process_polish_buffer(buffer)
 	end
 
 
-	if numberingCount == 0 then
+	if numberingCount == 0 and cityIdx == 0 then
 		print_buffer(buffer)
 	else
 		print_buffer_with_additions(buffer, numberBuffer) #print_buffer_with_additions not print_buffer_with_updates because ordering of NumbersX is important (GPSMapEdit strips lines out of order)
@@ -352,9 +352,6 @@ def insert_address_table(buffer)
 	else
 		reporting_file.puts("insert_address_table - [END-Regions] not found")
 	end
-#buffer is an array not a long string. Need to insert...
-#puts @add_table
-#buffer.gsub!("End-Regions",@add_table)
 end
 
 
@@ -1007,7 +1004,7 @@ def check_postgis_version
   begin
     sql_query = "SELECT PostGIS_full_version();"
     res  = @conn.exec(sql_query)
-    print res.entries[0].to_s
+    puts res.entries[0]
   
   rescue Exception => e
     print "#{e.message}\n"
@@ -1021,7 +1018,7 @@ def check_postgresql_version
   begin
     sql_query = "SELECT version();"
     res  = @conn.exec(sql_query)
-    print res.entries[0].to_s
+    puts res.entries[0]
   
   rescue Exception => e
     print "#{e.message}\n"
@@ -1070,12 +1067,13 @@ end
 def findCityIdx(regn,locl)
 	cityid = 0
 	#escape single quotes for sql
-	locl.gsub!("'","\\'")
-	regn.gsub!("'","\\'")
-	sql_query = "SELECT cityid from "+@tile.downcase+"_cities join #{SUBURBS_TABLE} on nzslid=id where name_ascii='#{locl}' and territorial_authority_ascii='#{regn}';"
+	locl.gsub!("'","''")
+	regn.gsub!("'","''")
+	sql_query = "SELECT cityid from "+@tile.downcase+"_cities join #{SUBURBS_TABLE} on nzslid=id where name_ascii='#{locl}' and territorial_authority_ascii like '%#{regn}%' and secondary = 0;"
 	res  = @conn.exec(sql_query)
 	if res.num_tuples == 1 then
 		cityid = res.entries[0]["cityid"]
+#		@reporting_file.puts("#{locl} is #{cityid}")
 	else
 		@reporting_file.puts(sql_query)
 		@reporting_file.puts("#{res.num_tuples} tuples")

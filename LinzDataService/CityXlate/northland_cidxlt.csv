@@ -1,22 +1,7 @@
 nzogps_name,nzogps_city,nzogps_region,nzogps_cityidx,nzsl_nameascii,nzsl_majornameascii,nzsl_id,secondary,comment
-Awarua,,9,64,Awarua,Kaikohe,2055,,
-Cable Bay,,9,50,Cable Bay,Cable Bay,2807,,
-Hargreaves Basin,,9,533,Hargreaves Basin,,,,watery 1
-Hokianga Harbour,,9,44,Hokianga Harbour,,,,watery 3
+Awarua,,9,63,Awarua,Kaikohe,2055,0,
+Cable Bay,,9,49,Cable Bay,Cable Bay,2807,,
 Kaingaroa,,9,38,Kaingaroa,Kaitaia,3872,,
-Kamo,Whangarei,9,276,Kamo,,,,"? ""Te Kamo"""
-Mangawhai Harbour,,9,350,Mangawhai Harbour,,,,watery 1
-Matapouri Bay,,9,539,Matapouri Bay,,,,watery 1
-Mill Bay,,9,102,Mill Bay,,,,watery 1
-Moanauriuri Bay,,1,524,Moanauriuri Bay,,,,watery 1
-Ngunguru Bay,,9,338,Ngunguru Bay,,,,watery 1
-Oakura,,9,89,Oakura,Hikurangi,1070,,
-Otaua,,9,62,Otaua,Kaikohe,1160,,
-Pakaraka,,9,69,Pakaraka,Moerewa,2416,,
-Pataua,,9,331,Pataua,,,,north/south?
-Pipiroa Bay,,9,95,Pipiroa Bay,,,,watery 2
-Te Ti Bay,,9,101,Te Ti Bay,,,,watery 1
-Te Tii,,9,6,Te Tii,,,,"? ""Te Ti Mangonui"""
-Waiwhiu,,9,553,Waiwhiu,,,,? 5 
-Wayby Valley,,1,348,Wayby Valley,,,,? 7 
-Whangateau Harbour,,1,532,Whangateau Harbour,,,,watery 1
+Oakura,,9,88,Oakura,Hikurangi,1070,,
+Otaua,,9,61,Otaua,Kaikohe,1160,,
+Pakaraka,,9,68,Pakaraka,Moerewa,2416,,

@@ -604,3 +604,8 @@ select cn.roadid,cn.label,cc.label,sb.name,linzid,
 	and not st_intersects(the_geom,wkb_geometry) order by sb.name
 -- What's not right? 
 select cityid,label,city, st_y(st_centroid(stbound))||' '||st_x(st_centroid(stbound)) as coords from canterbury_cities where stbound is null or linzidx is null
+
+SELECT * FROM public.central_pois join central_cities
+	on central_pois.label = central_cities.label
+	where type = '0xb00' and cityidx=0
+	and st_contains(stbound,the_geom)

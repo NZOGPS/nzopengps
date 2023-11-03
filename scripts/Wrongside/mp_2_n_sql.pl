@@ -17,6 +17,7 @@ my $maxlbl = 3;
 my $comment;
 my @roads;
 my @polys;
+my @pois;
 my $polyelms;
 my %cities;
 my @namesnot2index;
@@ -254,7 +255,57 @@ sub do_polyline{
 }
 	
 sub do_poi {
+	my $comment = shift;	#0
+	my $type;		#1
+	my @label;		#2
+	my $endlevel = 0;	#3
+	my $cityidx;	#4
+	my $iscity;		#5
+	my $phone;		#6
+	my $lineno = $.;	#7
+	my @data;
+	my $coordstr;
+	my @coords;
+	my @x;	#9
+	my @y;	#10
+	my $i;
+
+	while (<>){
+		if (/^Type=(.*)$/)         { $type = $1 };
+		if (/^Label([23]?)=(.*)$/) { $label[$1?$1-1:0] = $2 };
+		if (/^EndLevel=(.*)$/)     { $endlevel = $1 };
+		if (/^CityIdx=(.*)$/)      { $cityidx = $1 };
+		if (/^City=(.*)$/)         { $iscity = $1 };
+		if (/^Phone=(.*)$/)        { $phone = $1 };
+
+		if (/^Data(\d+)=(.*)$/)	{ # bit of work here...
+			my $level = $1;
+			my $coordstr = $2;
+			if (! ($coordstr =~ s/^\(// )){
+				print "Error - leading ( not found in coords- line $.\n";
+			}
+			if (! ($coordstr =~ s/\)$// )){
+				print "Error - trailing ( not found in coords- line $.\n";
+			}
+			$coordstr =~ s/\),\(/\#/g;
+			@coords = split(/\#/,$coordstr);
+			for (@coords){
+				if (/^(-*\d+\.\d+),(-*\d+\.\d+)$/){
+					push @x,$1;
+					push @y,$2;
+				} else {
+					print "invalid coord: $_ line $.\n";
+				}
+			}
+		}
+		if (/^\[END\]$/)	{ #end of def - collect everything up and exit
+			push @pois,[$comment,$type,\@label,$endlevel,$cityidx,$iscity,$phone,$lineno,\@x,\@y];
+#			----------------0------1-------2----------3------4--------5------6------7-----8----9----10---11-------------12--------13--------14----------15--------------16---------------17-----------18-------			
+			last;
+		}
+	}
 }
+
 
 sub dump_id2 {
 	my $ridptr = shift;
@@ -558,10 +609,10 @@ sub write_line_sql {
 
 	for $road (@roads){
 		next if !defined($$road[5]); #ignore non-routing lines 
-		if ($$road[5] ~~ [9536,614,27604]){
-			print Dumper $road;
-			print "\$#nums is $#nums\n";
-		}
+		# if ($$road[5] ~~ [9536,614,27604]){
+			# print Dumper $road;
+			# print "\$#nums is $#nums\n";
+		# }
 		@x = @{$$road[9]};
 		@y = @{$$road[10]};
 		@nums = @{$$road[11]};
@@ -577,9 +628,9 @@ sub write_line_sql {
 			$cityidx = 0;
 		}
 		for ($i=0;$i<=$#nums;$i++){
-		if ($$road[5] ~~ [9536,614,27604]){
-			print "\$i is $i\n";
-		}
+		# if ($$road[5] ~~ [9536,614,27604]){
+			# print "\$i is $i\n";
+		# }
 			print SQLFILE "$ldr('$$road[5]','$rdname','$$road[1]','$$road[18][0]',$cityidx,'$i',";
 			$ldr = ','; #leading char is , after first line
 			for ($j=1;$j<7;$j++){
@@ -602,9 +653,77 @@ sub write_line_sql {
 	}
 	print SQLFILE ";\n";
 }
+
+sub write_poi_sql {
+	my $poi;
+	my @x;
+	my @y;
+	my @nums;
+	my $i;
+	my $poiname;
+	my $cityidx;
+	my $phone;
+	my $iscity;
+	my $ldr = ' ';
+	my $first = 1;
+	my $tablename = "${basefile}_pois";
+	open( SQLFILE, '>', "${tablename}.sql") or die "can't create sql file\n";
+	print SQLFILE "DROP TABLE  IF EXISTS ${tablename};\n";
+	print SQLFILE "CREATE TABLE ${tablename} (";
+	print SQLFILE "\"gid\" serial PRIMARY KEY,\n";
+	print SQLFILE "\"label\" varchar(100),\n";
+	print SQLFILE "\"type\" varchar(10),\n";
+	print SQLFILE "\"iscity\" varchar(10),\n";
+	print SQLFILE "\"phone\" varchar(100),\n";
+	print SQLFILE "\"cityidx\" integer,\n";
+	print SQLFILE "the_geom geometry(Point,4167));\n";
+
+	print SQLFILE "INSERT INTO ${tablename} ";
+	print SQLFILE "(\"label\",\"type\",iscity,phone,cityidx,the_geom)";
+	print SQLFILE " VALUES \n";
+
+	for $poi (@pois){
+		@x = @{$$poi[8]};
+		@y = @{$$poi[9]};
+		if (defined ($$poi[2][0])){
+			$poiname = $$poi[2][0];
+			$poiname =~ s/\'/\'\'/g;
+		} else {
+			$poiname = '';
+		}
+
+		if (defined $$poi[4]) {
+			$cityidx = $$poi[4];
+		} else {
+			$cityidx = 0;
+		}
+
+		if (defined $$poi[6]) {
+			$phone = $$poi[6];
+		} else {
+			$phone = '';
+		}
+
+		if (defined $$poi[5]) {
+			$iscity = $$poi[5];
+		} else {
+			$iscity = '';
+		}
+
+		print SQLFILE "$ldr('$poiname','$$poi[1]','$iscity','$phone',$cityidx";
+		$ldr = ','; #leading char is , after first line
+		print SQLFILE ",ST_GeomFromText('POINT(";
+		# for geom
+		print SQLFILE "$y[0] $x[0]";
+		print SQLFILE ")',4167))\n"
+	}
+	print SQLFILE ";\n";
+}
+
+
 ##### Main program starts...
 
-getopts("clsxp", \%cmdopts);
+getopts("clsxpi", \%cmdopts);
 if (!($cmdopts{s} or $cmdopts{l})){
 	$cmdopts{l}=1;
 }
@@ -654,13 +773,13 @@ while (<>){
 	}
 }
 
-id_check;	
+id_check;
 
 if ($cmdopts{s}){
 	$byid = \%bysufi;
 } else {
 	$byid = \%bylinzid;
-}	
+}
 
 if ($cmdopts{p}){
 	print STDERR "Doing polygons\n";
@@ -675,4 +794,10 @@ if ($cmdopts{c}){
 	my $ccnt = keys %cities;
 	print STDERR "$ccnt cities\n";
 	write_city_sql();
+}
+
+if ($cmdopts{i}){
+	my $icnt =  $#pois;
+	print STDERR "$icnt POI\n";
+	write_poi_sql();
 }

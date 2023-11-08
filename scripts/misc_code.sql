@@ -609,3 +609,10 @@ SELECT * FROM public.central_pois join central_cities
 	on central_pois.label = central_cities.label
 	where type = '0xb00' and cityidx=0
 	and st_contains(stbound,the_geom)
+
+SELECT st_distance(st_transform(stbound,2193),st_transform(the_geom,2193)),*
+	FROM public.central_pois join central_cities
+		on central_pois.label = central_cities.label
+		where type = '0xb00' and cityidx=0
+		and not st_contains(stbound,the_geom)
+		order by st_distance

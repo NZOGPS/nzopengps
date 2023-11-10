@@ -616,3 +616,10 @@ SELECT st_distance(st_transform(stbound,2193),st_transform(the_geom,2193)),*
 		where type = '0xb00' and cityidx=0
 		and not st_contains(stbound,the_geom)
 		order by st_distance
+
+SELECT st_x(the_geom),st_y(the_geom),central_pois.label,city FROM public.central_pois join central_cities
+	on central_pois.label = central_cities.label
+	where type = '0xb00' and cityidx=0
+	and st_contains(stbound,the_geom)
+	and city !=''
+	order by city

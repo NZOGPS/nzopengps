@@ -621,5 +621,5 @@ SELECT st_x(the_geom),st_y(the_geom),central_pois.label,city FROM public.central
 	on central_pois.label = central_cities.label
 	where type = '0xb00' and cityidx=0
 	and st_contains(stbound,the_geom)
-	and city !=''
+	and city != ''
 	order by city

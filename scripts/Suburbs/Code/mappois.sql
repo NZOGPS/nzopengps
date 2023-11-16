@@ -4,7 +4,6 @@
 copy( select st_x(the_geom),st_y(the_geom), cp.label,city,cityid
 	from :ptable cp 
 	join :ctable cc on cc.label = cp.label
-	where type = '0xb00' and cityidx=0
+	where itype <= 4352 and cityidx=0
 	and st_contains(stbound,the_geom)
-	and city = '' ) 
-to :outfile with CSV;
+) to :outfile with CSV;

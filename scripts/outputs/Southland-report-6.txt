@@ -1,6 +1,11 @@
-Start = 2023-10-13 18:07:31 +1300
+Start = 2023-11-23 10:08:14 +1300
 linzid	street_name	street_name_2	official_street_name
+1833600	Koefords Rd		Kofoed Rd	-45.92405,170.07971
+3042316	Twelve Trees Rd		Twelftree Rd	-45.92879,170.08479
+1777821	Honeywood Rd		Honywood Rd	-45.79782,168.37756
+3080922	Willian Paterson Cl		William Paterson Cl	-44.95733,168.81126
+3083908	Walderman Way		Waldeman Way	-45.03333,168.65189
 #############################
 
-Finish = 2023-10-13 18:07:34 +1300
-Processing time = 3.590678
+Finish = 2023-11-23 10:08:19 +1300
+Processing time = 5.874536

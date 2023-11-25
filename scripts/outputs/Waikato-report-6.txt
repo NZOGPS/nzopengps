@@ -1,15 +1,6 @@
-<<<<<<< HEAD
-Start = 2023-10-13 18:41:15 +1300
+Start = 2023-11-23 10:08:35 +1300
 linzid	street_name	street_name_2	official_street_name
 #############################
 
-Finish = 2023-10-13 18:41:19 +1300
-Processing time = 4.003113
-=======
-Start = 2023-10-12 19:37:04 +1300
-linzid	street_name	street_name_2	official_street_name
-#############################
-
-Finish = 2023-10-12 19:37:07 +1300
-Processing time = 2.8980977
->>>>>>> d2ce0fabef8fc7bd726cc5217ad4bc48417e0e8b
+Finish = 2023-11-23 10:08:42 +1300
+Processing time = 7.030693

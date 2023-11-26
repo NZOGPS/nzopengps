@@ -1,6 +1,7 @@
-Start = 2023-10-13 22:02:27 +1300
+Start = 2023-11-25 16:13:47 +1300
 linzid	street_name	street_name_2	official_street_name
+1799675	Frater Lane		Te Ara Tangata	-40.87759,175.06427
 #############################
 
-Finish = 2023-10-13 22:02:30 +1300
-Processing time = 2.734947
+Finish = 2023-11-25 16:13:50 +1300
+Processing time = 3.06208

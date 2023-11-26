@@ -1030,12 +1030,12 @@ end
 #########################
 def have_cityidx
    begin
-    sql_query = "SELECT EXISTS (SELECT FROM pg_tables WHERE schemaname = 'public' AND tablename  = '#{SUBURBS_TABLE}');"
+    sql_query = "SELECT EXISTS (SELECT 1 FROM pg_tables WHERE schemaname = 'public' AND tablename  = '#{SUBURBS_TABLE}');"
     res  = @conn.exec(sql_query)
 #    print res.entries[0].to_s
     have_burbs_table = res.entries[0]["exists"]=='t'
 
-    sql_query = "SELECT EXISTS (SELECT FROM pg_tables WHERE schemaname = 'public' AND tablename  = '"+@tile.downcase+"_cities');"
+    sql_query = "SELECT EXISTS (SELECT 1 FROM pg_tables WHERE schemaname = 'public' AND tablename  = '"+@tile.downcase+"_cities');"
     res  = @conn.exec(sql_query)
  #  print res.entries[0].to_s
     have_cities_table = res.entries[0]["exists"]=='t'

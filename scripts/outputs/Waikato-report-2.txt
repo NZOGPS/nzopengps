@@ -1,29 +1,10 @@
-Start = 2023-11-23 10:07:54 +1300
+Start = 2023-11-26 15:53:34 +1300
 #############################
 
-18 LINZ ids are missing from NZOGPS Waikato
-;linzid=3084244	Te Ara Pikopiko	-37.651142807653,176.022744382787
-;linzid=3084243	Te Ara Tanekaha	-37.6511544822001,176.022739081541
-;linzid=3084287	Te Werowero Cres	-37.7225480778086,175.271722551404
-;linzid=3084289	Aberdeen Lane	-37.5912036667,175.9174909667
-;linzid=3084301	Anaru Dr	-38.0592673936845,176.734985042837
-;linzid=3084307	Hay Rd	-38.5515056009944,176.08757130242
-;linzid=3084321	Korako Lane	-37.7661102789598,175.227971067333
-;linzid=3084360	Christie Way	-37.6909975944132,176.120902504664
-;linzid=3084361	Ireland Way	-37.6907271810791,176.119763486886
-;linzid=3084362	Sladden Way	-37.7292814129957,176.138444372994
-;linzid=3084371	Te Whata St	-37.7645707766135,175.311519866675
-;linzid=3084372	Huatata Lane	-37.3776430667,175.6723959167
-;linzid=3084359	Rahipere Crt	-37.6966111129713,176.128197484794
-;linzid=3084387	Sequoia Dr	-38.0071876896762,175.352159170039
-;linzid=3084385	Mahi Tahi Rd	-37.8885683768018,175.450537740422
-;linzid=3084388	Puriri Lane	-37.8867863060626,175.450482200395
-;linzid=3084389	Kiekie Lane	-37.8881437243006,175.450400218623
-;linzid=3084390	Pukatea Way	-37.8885683768018,175.450537740422
+0 LINZ ids are missing from NZOGPS Waikato
 #############################
 
-1 LINZ ids are in NZOGPS Waikato but missing from LINZ
-;linzid=3080210	Asto Dr	-37.81993,175.76475
+0 LINZ ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Waikato
@@ -32,5 +13,5 @@ Start = 2023-11-23 10:07:54 +1300
 0 Number range ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
-Finish = 2023-11-23 10:08:02 +1300
-Processing time = 7.093193
+Finish = 2023-11-26 15:53:38 +1300
+Processing time = 4.443977

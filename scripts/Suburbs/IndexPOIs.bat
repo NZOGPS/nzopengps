@@ -18,5 +18,7 @@ set nzogps_CXLT=..\..\LinzDataService\CityXlate\%1_cidxlt.csv
 if exist %nzogps_CXLT% %nzogps_ogr2ogr% -overwrite --config PG_USE_COPY TRUE -f "PostgreSQL" "PG:host=localhost user=postgres  dbname=nzopengps" -oo autodetect_type=yes %nzogps_CXLT%
 if exist %nzogps_CXLT% %nzogps_psqlc% -v ctable=%1_cities -v xtable=%1_cidxlt -f Code\procxlt.sql
 
+%nzogps_psqlc% -v ctable=%1_cities -v ptable=%1_pois -v outfile='%nzogps_base%\scripts\suburbs\Outputs\%1-nearpois.csv' -f Code\nearpois.sql
+
 %nzogps_psqlc% -v ctable=%1_cities -v ptable=%1_pois -v outfile='%nzogps_base%\scripts\suburbs\Outputs\%1-mappois.csv' -f Code\mappois.sql
 %nzogps_perl_cmd% code\changemp.pl %1 > Outputs\%1-mapped.mp

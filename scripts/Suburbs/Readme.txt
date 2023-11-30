@@ -58,4 +58,4 @@ TO DO:
 	wrong3 by distance - index? SLOW!!!
 		Without index: 540s With 25s
 	or pre-transform roads to nztm?
-	Pre-index roads in new linz imports.
+	Pre-index roads in new linz imports. Done.

@@ -15,7 +15,7 @@ my $changed = 0;
 sub readCSV {
 	my $city;
 	my %val;
-	my $entries;
+	my $entries = 0;
 	
 	# %changes=('Acacia Bay, Taupo'=> {
 		# 'x'=>176.03196,

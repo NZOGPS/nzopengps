@@ -1,26 +1,14 @@
-Start = 2023-11-25 16:13:43 +1300
+Start = 2023-12-19 11:47:17 +1300
 #############################
 
-15 LINZ ids are missing from NZOGPS Wellington
-;linzid=3084283	Te Ara o Papatahi	-41.2582433635675,174.943965533042
-;linzid=3084284	Te Ara o Ralph Olsen	-41.2588686847512,174.944881540662
-;linzid=3084302	Te Arapito Cl	-41.1316550528665,174.850923165889
-;linzid=3084304	Catherine Lane	-40.6136593512146,175.267500001171
-;linzid=3084306	Rakiura Cres	-41.1268085728946,174.856605916898
-;linzid=3084322	Koa Rise	-40.4690959039057,175.239154230027
-;linzid=3084323	Rangeview Rise	-40.4696755161654,175.239106994146
-;linzid=3084324	Kilmister Way	-40.4690959039057,175.239154230027
-;linzid=3084363	Pae Ariki Pl	-41.205247464062,174.896606388641
-;linzid=3084367	Houhere St	-40.9147094788511,175.007216891342
-;linzid=3084368	Kamahi Pl	-40.9144617312898,175.005953620875
-;linzid=3084376	Humphrey Rainey Lane	-41.1400117353929,175.048105422834
-;linzid=3084375	Orongomai St	-41.1400117353929,175.048105422834
-;linzid=3084377	Bonneval Lane	-41.1406573726429,175.046757512837
-;linzid=3084378	Silver Knight St	-41.1409912000005,175.046342936431
+4 LINZ ids are missing from NZOGPS Wellington
+;linzid=3084401	Hest Lane	-40.4697183449904,175.288274311974
+;linzid=3084410	Treenail Lane	-41.1272693258656,174.902577159324
+;linzid=3084411	Big Sky Dr	-40.6593094831302,175.232402394638
+;linzid=3084413	Adesanya Cl	-40.3662361667,175.6055268667
 #############################
 
-1 LINZ ids are in NZOGPS Wellington but missing from LINZ
-;linzid=3074169	Accessway	-40.88096,175.06225
+0 LINZ ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Wellington
@@ -29,5 +17,5 @@ Start = 2023-11-25 16:13:43 +1300
 0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2023-11-25 16:13:47 +1300
-Processing time = 3.873726
+Finish = 2023-12-19 11:47:21 +1300
+Processing time = 4.007523

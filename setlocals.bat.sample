@@ -8,6 +8,7 @@ set nzogps_zip_cmd="c:\Program Files\7-Zip\7z" a
 set nzogps_psql_bin="C:\Program Files\PostgreSQL\9.1\bin\"
 set nzogps_psql_svc="postgresql-9.1 - PostgreSQL Server 9.1"
 set nzogps_donumbers=/low GenerateNumbers.bat
+set nzogps_linznumb=numberlinz.bat
 set nzogps_git="c:\Program Files\Git\bin\git.exe"
 rem for getting zenbu files...
 set nzogps_curl="C:\Program Files\Git\mingw64\bin\curl"

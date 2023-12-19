@@ -17,4 +17,4 @@ rem %nzogps_psql_bin%\psql -U postgres -d nzopengps -c "select NewRoadBookmarks(
 rem cd ..
 call colouriseall.bat
 if errorlevel 1 goto :eof
-call numberlinz.bat
+call %nzogps_linznumb%

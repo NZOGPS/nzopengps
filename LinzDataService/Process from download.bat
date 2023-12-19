@@ -51,4 +51,4 @@ cd ..\scripts
 call dochecks.bat
 call colouriseall.bat
 if errorlevel 1 goto :eof
-call numberlinz.bat
+call %nzogps_linznumb%

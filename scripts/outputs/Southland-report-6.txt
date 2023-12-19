@@ -1,4 +1,4 @@
-Start = 2023-11-23 10:08:14 +1300
+Start = 2023-12-19 11:47:42 +1300
 linzid	street_name	street_name_2	official_street_name
 1833600	Koefords Rd		Kofoed Rd	-45.92405,170.07971
 3042316	Twelve Trees Rd		Twelftree Rd	-45.92879,170.08479
@@ -7,5 +7,5 @@ linzid	street_name	street_name_2	official_street_name
 3083908	Walderman Way		Waldeman Way	-45.03333,168.65189
 #############################
 
-Finish = 2023-11-23 10:08:19 +1300
-Processing time = 5.874536
+Finish = 2023-12-19 11:47:47 +1300
+Processing time = 4.756761

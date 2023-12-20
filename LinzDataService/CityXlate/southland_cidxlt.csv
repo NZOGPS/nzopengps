@@ -1,6 +1,5 @@
 nzogps_name,nzogps_city,nzogps_region,nzogps_cityidx,nzsl_nameascii,nzsl_majornameascii,nzsl_id,secondary,commment
-# need splitting:,Round Hill?,,,,,,,
-Aramoana,,1,282,Aramoana,Port Chalmers,2482,,
+Aramoana,,1,282,Aramoana,Port Chalmers,2482,0,
 Awarua,,2,440,Awarua,Invercargill,86,,
 Bayswater,,2,353,Bayswater,Otautau,102,,
 Beaumont,,1,75,Beaumont,Lawrence,4055,,

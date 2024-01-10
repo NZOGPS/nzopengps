@@ -1,4 +1,4 @@
-print "processing_library 3 adds house numbering\n"
+print "processing_library 3b adds house numbering and city indexing\n"
 =begin
 This script uses the LINZ Data Service official number shape files to add Polish format numbering to our tiles
 

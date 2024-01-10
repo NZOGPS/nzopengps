@@ -1,4 +1,4 @@
-Start = 2023-12-19 11:48:07 +1300
+Start = 2024-01-10 15:31:30 +1300
 linzid	street_name	street_name_2	official_street_name
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
 3078536	Pukio Lane		Gardenview Rise	-36.88807,174.81482
@@ -8,5 +8,5 @@ linzid	street_name	street_name_2	official_street_name
 3027695	Old State Highway 1		State Highway 1	-36.52540,174.67749
 #############################
 
-Finish = 2023-12-19 11:48:13 +1300
-Processing time = 5.934422
+Finish = 2024-01-10 15:31:33 +1300
+Processing time = 2.7068328

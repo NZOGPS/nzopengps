@@ -1,4 +1,4 @@
-Start = 2023-12-19 11:47:40 +1300
+Start = 2024-01-10 15:31:14 +1300
 linzid	street_name	street_name_2	official_street_name
 1788814	Pamarika St		Pamariki St	-41.11492,172.98756
 1791613	Cotterill St		Cotterell St	-41.42736,173.96165
@@ -10,5 +10,5 @@ linzid	street_name	street_name_2	official_street_name
 3083443	Bifrost Rise		Te Wheke Way	-40.51929,172.72469
 #############################
 
-Finish = 2023-12-19 11:47:42 +1300
-Processing time = 2.495345
+Finish = 2024-01-10 15:31:16 +1300
+Processing time = 1.3522818

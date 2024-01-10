@@ -1,4 +1,4 @@
-Start = 2023-12-19 11:47:38 +1300
+Start = 2024-01-10 15:31:13 +1300
 linzid	street_name	street_name_2	official_street_name
 3082951	Squeak Lane		Te Arapu Way	-35.23115,173.94570
 3083974	~[0x04]1	Northern Motorway	Ara Tuhono	-36.38878,174.64271
@@ -6,5 +6,5 @@ linzid	street_name	street_name_2	official_street_name
 3083974	~[0x04]1	Northern Motorway	Ara Tuhono	-36.38948,174.64182
 #############################
 
-Finish = 2023-12-19 11:47:40 +1300
-Processing time = 2.252574
+Finish = 2024-01-10 15:31:14 +1300
+Processing time = 1.1309262

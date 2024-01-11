@@ -46,3 +46,4 @@
 1796455	E,52,52	Tanoa St	Manunui, Taumarunui(Manawatu-Wanganui,NZ)	2021/11/20 14:21	-38.921190,175.339520
 1797694	O,39,39	Ballance St	Apiti(Manawatu-Wanganui,NZ)	2022/06/12 20:27	-39.973820,175.870190
 1804685	E,24,24	Sigismund St	Norsewood(Manawatu-Wanganui,NZ)	2023/05/06 14:55	-40.067800,176.216170
+3022280	O,141,141	Valley Rd	Mangapapa, Gisborne(Gisborne,NZ)	2024/01/11 17:01	-38.638100,178.023160

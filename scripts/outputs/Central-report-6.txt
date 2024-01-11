@@ -1,7 +1,6 @@
-Start = 2024-01-10 15:31:19 +1300
+Start = 2024-01-11 17:37:51 +1300
 linzid	street_name	street_name_2	official_street_name
-1813220	Hillsview Cres		Hillview Cres	-38.87332,175.25723
 #############################
 
-Finish = 2024-01-10 15:31:21 +1300
-Processing time = 2.287243
+Finish = 2024-01-11 17:37:53 +1300
+Processing time = 2.1074901

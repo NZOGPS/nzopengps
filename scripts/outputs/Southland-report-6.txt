@@ -1,7 +1,6 @@
-Start = 2024-01-10 15:31:16 +1300
+Start = 2024-01-12 12:32:29 +1300
 linzid	street_name	street_name_2	official_street_name
-3083921	Stone Hut Lane		Stone Hut Creek Lane	-44.73724,169.18398
 #############################
 
-Finish = 2024-01-10 15:31:19 +1300
-Processing time = 2.6325964
+Finish = 2024-01-12 12:32:32 +1300
+Processing time = 2.5420461

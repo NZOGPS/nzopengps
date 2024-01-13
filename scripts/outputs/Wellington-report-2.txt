@@ -1,10 +1,19 @@
-Start = 2024-01-12 12:28:31 +1300
+Start = 2024-01-13 11:01:40 +1300
 #############################
 
 0 LINZ ids are missing from NZOGPS Wellington
 #############################
 
-0 LINZ ids are in NZOGPS Wellington but missing from LINZ
+9 LINZ ids are in NZOGPS Wellington but missing from LINZ
+;linzid=3084417	Stylebender Pl	-40.36437,175.61741
+;linzid=3084438	D'Ath St	-40.75340,175.13312
+;linzid=3084440	Ranapiri Lane	-40.75441,175.13263
+;linzid=3084437	Hapeta St	-40.75441,175.13263
+;linzid=3084441	Pekeia Lane	-40.75561,175.13279
+;linzid=3084439	Tiriti Loop	-40.75561,175.13279
+;linzid=3084422	Phelps Way	-41.15861,175.45177
+;linzid=3084429	Lawry Lane	-40.20992,175.58857
+;linzid=3084434	Skysail Lane	-41.11936,174.88509
 #############################
 
 0 Number range ids are missing from NZOGPS Wellington
@@ -13,5 +22,5 @@ Start = 2024-01-12 12:28:31 +1300
 0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2024-01-12 12:28:33 +1300
-Processing time = 2.2936446
+Finish = 2024-01-13 11:01:43 +1300
+Processing time = 2.906009

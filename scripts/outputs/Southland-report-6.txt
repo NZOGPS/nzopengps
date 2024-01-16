@@ -1,7 +1,7 @@
-Start = 2024-01-13 19:30:41 +1300
+Start = 2024-01-16 12:09:58 +1300
 linzid	street_name	street_name_2	official_street_name
-3083921	Stone Hut Creek Lane		Stone Hut Lane	-44.73724,169.18398
+3084055	Tin Hut Lane		Golden River Lane	-44.74527,169.26286
 #############################
 
-Finish = 2024-01-13 19:30:44 +1300
-Processing time = 3.495642
+Finish = 2024-01-16 12:10:01 +1300
+Processing time = 2.6537848

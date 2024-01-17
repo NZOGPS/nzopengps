@@ -1,7 +1,6 @@
-Start = 2024-01-16 12:09:58 +1300
+Start = 2024-01-17 17:44:14 +1300
 linzid	street_name	street_name_2	official_street_name
-3084055	Tin Hut Lane		Golden River Lane	-44.74527,169.26286
 #############################
 
-Finish = 2024-01-16 12:10:01 +1300
-Processing time = 2.6537848
+Finish = 2024-01-17 17:44:17 +1300
+Processing time = 2.5493778

@@ -1,10 +1,43 @@
-Start = 2024-01-17 16:31:01 +1300
+Start = 2024-08-18 14:24:22 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Wellington
+23 LINZ ids are missing from NZOGPS Wellington
+;linzid=3084463	Ara Pipiwharauroa	-41.2147313333,174.8218591
+;linzid=3084464	Te Ara Tauhou	-41.2260507833,174.8054146167
+;linzid=3084490	Fairwater Way	-41.1179900680089,174.886628183627
+;linzid=3084517	Newmia Lane	-40.9650602552774,175.629847904439
+;linzid=3084576	Brunoro Pl	-40.9112742431534,175.016428157282
+;linzid=3084613	Mangatainoka Lane	-40.3817846682548,175.582552883355
+;linzid=3084605	Stables Dr	-40.6547539727073,175.314802038511
+;linzid=3084670	Te Ara Kohuhu	-41.163007967671,174.839632156402
+;linzid=3084678	Te Ara o Puakawe	-41.2437337434444,174.935565131331
+;linzid=3084699	Waterworks Rd	-41.065983824807,175.198452032104
+;linzid=3084702	Samuel Pl	-40.3437232829568,175.641129181757
+;linzid=3084704	Hihi Lane	-40.3492563349592,175.610872862467
+;linzid=3084705	Kakapo Lane	-40.3494076526677,175.610988708343
+;linzid=3084718	Tamariki Lane	-40.3457693345831,175.620844211286
+;linzid=3084719	Te Pirangi Way	-40.4012890728239,175.645991696606
+;linzid=3084720	Hinepaia Pl	-40.381649932898,175.666744384179
+;linzid=3084721	Garden Lane	-40.3750664438058,175.689429334575
+;linzid=3084722	Eden Lane	-40.3755740214281,175.68904984981
+;linzid=3084723	Britton Ave	-41.112851186242096,175.438436159575
+;linzid=3084750	Fordyce Crt	-40.3657081357597,175.61641753381
+;linzid=3084769	Wairere Way	-41.1355375424354,174.868138652068
+;linzid=3084771	Nga Whetu Way	-41.1372918288746,174.868087602513
+;linzid=3084770	Karera Grv	-41.1364692278241,174.868683799605
 #############################
 
-0 LINZ ids are in NZOGPS Wellington but missing from LINZ
+10 LINZ ids are in NZOGPS Wellington but missing from LINZ
+;linzid=1800037	Apollo Lane	-41.13581,174.86800
+;linzid=1792200	Juno Lane	-41.13695,174.86972
+;linzid=1792334	Ajax Lane	-41.13606,174.86896
+;linzid=1792342	Remus Lane	-41.13701,174.86790
+;linzid=3075018		-41.11630,175.09330
+;linzid=1800036	Esk Pl	-41.13616,174.86778
+;linzid=3077290	Accessway	-41.11691,175.08418
+;linzid=3075511	Service Lane	-41.11888,175.08063
+;linzid=3077342		-41.11702,175.08456
+;linzid=3076389	Accessway	-41.11880,175.08140
 #############################
 
 0 Number range ids are missing from NZOGPS Wellington
@@ -13,5 +46,5 @@ Start = 2024-01-17 16:31:01 +1300
 0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2024-01-17 16:31:03 +1300
-Processing time = 2.1216273
+Finish = 2024-08-18 14:24:29 +1200
+Processing time = 6.707828

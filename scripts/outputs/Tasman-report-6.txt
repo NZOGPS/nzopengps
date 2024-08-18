@@ -1,14 +1,16 @@
-Start = 2024-01-16 12:09:56 +1300
+Start = 2024-08-18 14:25:03 +1200
 linzid	street_name	street_name_2	official_street_name
 1788814	Pamarika St		Pamariki St	-41.11492,172.98756
 1791613	Cotterill St		Cotterell St	-41.42736,173.96165
 3082682	Te Ara Arapaoa / Shelley Bay Access Rd		Te Ara Arapaoa	-41.28845,174.01481
 3083379	Sandys Hill Rd (Unmaintained)		Sandys Hill Rd	-42.66872,171.18020
 1948312	Mt Arthur View Rd		Mt Arthur View	-41.28854,173.07719
+3078934	James Cook Lane		Te Papa Lane	-41.20513,173.07551
+3078929	Janszoon Lane		Te Momokai Lane	-41.20488,173.07285
 3081823	Upton Lane		Rhodes Lane	-41.33415,173.24200
 3082007	Kohimera Pl		Kohimara Pl	-42.61890,171.17241
 3083443	Bifrost Rise		Te Wheke Way	-40.51929,172.72469
 #############################
 
-Finish = 2024-01-16 12:09:58 +1300
-Processing time = 1.3332442
+Finish = 2024-08-18 14:25:08 +1200
+Processing time = 4.655877

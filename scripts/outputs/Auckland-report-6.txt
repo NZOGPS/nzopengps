@@ -1,12 +1,13 @@
-Start = 2024-01-16 12:10:12 +1300
+Start = 2024-08-18 14:25:47 +1200
 linzid	street_name	street_name_2	official_street_name
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
-3078536	Pukio Lane		Gardenview Rise	-36.88807,174.81482
-3080224	Silverfern Ave		Silver Fern Ave	-36.80287,174.65880
+3080457	Kokotaua Lane		Kata Lane	-36.79334,174.66732
+3080458	Kata Lane		Kokotaua Lane	-36.79357,174.66950
 1821419	Valley Rd (off-road vehicles only)		Valley Rd	-36.66656,174.53579
 1830965	Hull Rd (4WD only, closed in Winter)		Hull Rd	-36.64738,174.58702
-3027695	Old State Highway 1		State Highway 1	-36.52540,174.67749
+3083335	Tupuka Lane		Tupuke Lane	-36.91229,174.73394
+3027695	Old State Highway 1		State Highway 1	-36.52793,174.67779
 #############################
 
-Finish = 2024-01-16 12:10:14 +1300
-Processing time = 2.6629759
+Finish = 2024-08-18 14:25:56 +1200
+Processing time = 8.514918

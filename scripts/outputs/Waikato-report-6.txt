@@ -1,6 +1,12 @@
-Start = 2024-01-17 17:07:09 +1300
+Start = 2024-08-18 14:25:39 +1200
 linzid	street_name	street_name_2	official_street_name
+1814267	Waikiekie Rd		Watts Rd	-37.20305,175.85009
+1813071	Weston Lea Dr		Paoro Rd	-37.80861,175.30838
+1813071	Weston Lea Dr		Paoro Rd	-37.80871,175.31304
+3082978	Perehua Tce		Parehua Tce	-37.87304,175.47154
+3083886	Masons way		Masons Way	-37.28202,175.49579
+3084125	Rereahu St		Rerekahu St	-37.82203,174.86797
 #############################
 
-Finish = 2024-01-17 17:07:12 +1300
-Processing time = 2.9321674
+Finish = 2024-08-18 14:25:47 +1200
+Processing time = 8.071963

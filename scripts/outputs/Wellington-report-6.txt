@@ -1,9 +1,9 @@
-Start = 2024-08-18 14:25:25 +1200
+Start = 2024-08-20 15:49:28 +1200
 linzid	street_name	street_name_2	official_street_name
 1795640	Maramaramau Rd		Maramamau Rd	-41.19980,175.36218
 1795134	MacAra St		Macara St	-40.95740,175.66357
 1794891	Epuni St		Honiana Te Puni St	-41.29810,174.76508
 #############################
 
-Finish = 2024-08-18 14:25:31 +1200
-Processing time = 6.546348
+Finish = 2024-08-20 15:49:32 +1200
+Processing time = 3.552509

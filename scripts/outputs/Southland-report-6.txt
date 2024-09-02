@@ -1,8 +1,6 @@
-Start = 2024-08-20 15:49:19 +1200
+Start = 2024-08-31 17:21:14 +1200
 linzid	street_name	street_name_2	official_street_name
-3083864	Grayburn Rd		Grayburn Lane	-44.63155,169.24560
-3024850	Ohai Clifden Hwy		Clifden Hwy	-46.04884,167.82046
 #############################
 
-Finish = 2024-08-20 15:49:24 +1200
-Processing time = 4.990704
+Finish = 2024-08-31 17:21:18 +1200
+Processing time = 3.598867

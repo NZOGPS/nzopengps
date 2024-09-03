@@ -1039,6 +1039,7 @@ def have_cityidx
     res  = @conn.exec(sql_query)
  #  print res.entries[0].to_s
     have_cities_table = res.entries[0]["exists"]=='t'
+    @reporting_file.puts("have_burbs_table is #{have_burbs_table}, have_cities_table is #{have_cities_table}")
     return (have_burbs_table and have_cities_table)
   end
 end

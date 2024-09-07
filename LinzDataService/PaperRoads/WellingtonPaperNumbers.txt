@@ -43,3 +43,4 @@
 1839460	B,90,97	Settlement Rd	Morrisons Bush(Wellington,NZ)	2018/07/24 23:07	-41.125792,175.420037
 3059371	O,135,137	Kirton Dr	Riverstone Terraces, Upper Hutt(Wellington,NZ)	2018/07/24 23:08	-41.108560,175.040270
 1797491	E,84,84	Ripa St	Tangimoana(Manawatu-Wanganui,NZ)	2022/07/24 14:28	-40.295300,175.246830
+1797448	E,24,24	Koura St	Tangimoana(Manawatu-Wanganui,NZ)	2024/09/07 22:52	-40.296280,175.244570

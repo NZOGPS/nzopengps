@@ -623,3 +623,11 @@ SELECT st_x(the_geom),st_y(the_geom),central_pois.label,city FROM public.central
 	and st_contains(stbound,the_geom)
 	and city != ''
 	order by city
+
+select codehex from citysize where 4567 >= pmin and 4567 < pmax --ok
+
+select codehex from citysize 
+	join nz_suburbs_and_localities
+	on population_estimate >= pmin 
+		and population_estimate < pmax
+	where name_ascii = 'Otara' --pop=24148 s.b.0x900

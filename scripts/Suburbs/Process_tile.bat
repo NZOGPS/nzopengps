@@ -19,5 +19,5 @@ if exist %nzogps_CXLT% %nzogps_psqlc% -v ctable=%1_cities -v xtable=%1_cidxlt -f
 %nzogps_psqlc% -v ctable=%1_cities -v outfile='%nzogps_base%\scripts\suburbs\Outputs\%1-UnusedCities.csv' -f Code\unused.sql
 rem %nzogps_psqlc% -v ctable=%1_cities -v ntable=%1_numberlines -v outfile='%nzogps_base%\scripts\suburbs\Outputs\%1-WrongCities.csv' -f wrong.sql
 %nzogps_psqlc% -v ctable=%1_cities -v ntable=%1_numberlines -v outfile='%nzogps_base%\scripts\suburbs\Outputs\%1-WrongCities2.csv' -f Code\wrong2.sql
-rem %nzogps_psqlc% -v ctable=%1_cities -v ntable=%1_numberlines -v mdist=20000 -v outfile='%nzogps_base%\scripts\suburbs\Outputs\%1-WrongCities20k.csv' -f Code\wrong3.sql
+%nzogps_psqlc% -v ctable=%1_cities -v ntable=%1_numberlines -v mdist=20000 -v outfile='%nzogps_base%\scripts\suburbs\Outputs\%1-WrongCities20k.csv' -f Code\wrong3.sql
 rem %nzogps_psqlc% -v ctable=%1_cities -v ntable=%1_numberlines -v mdist=100000 -v outfile='%nzogps_base%\scripts\suburbs\Outputs\%1-WrongCities100k.csv' -f Code\wrong3.sql

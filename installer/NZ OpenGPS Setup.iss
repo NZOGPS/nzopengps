@@ -11,10 +11,10 @@
 AppId={{BCE3D0D3-EA2C-4C41-893E-63996DC556D3}
 AppName=NZ Open Autorouting GPS Project
 AppVerName=NZ Open Autorouting GPS Project Version - {#MyVersion}
-AppPublisherURL=http://gwprojects.org/gps/
-AppSupportURL=http://gwprojects.org/gps/
-AppUpdatesURL=http://gwprojects.org/gps/
-DefaultDirName={pf}\NZ Open Autorouting GPS Project
+AppPublisherURL=http://gwprojects.org/forum/index.php
+AppSupportURL=http://gwprojects.org/forum/index.php
+AppUpdatesURL=http://gwprojects.org/forum/index.php
+DefaultDirName={commonpf32}\NZ Open Autorouting GPS Project
 DefaultGroupName=NZ Open Autorouting GPS Project
 LicenseFile=installer-license.txt
 OutputDir={#Sdir}
@@ -22,10 +22,10 @@ OutputBaseFilename={#MyVersion}_FREE_OpenGPS_NZ_Maps_Setup
 Compression=lzma/max
 SolidCompression=true
 WizardImageFile={#WImg}
-WizardSmallImageFile=compiler:WizModernSmallImage-IS.bmp
+WizardSmallImageFile=compiler:WizClassicImage-IS.bmp
 WizardImageStretch=false
 InfoAfterFile=installer_readme.txt
-AppCopyright=Copyright © 2004-2016
+AppCopyright=Copyright © 2004-2024
 UninstallFilesDir={app}
 UninstallLogMode=overwrite
 InternalCompressLevel=max
@@ -35,9 +35,8 @@ Name: english; MessagesFile: compiler:Default.isl
 
 [Icons]
 Name: {group}\{cm:UninstallProgram,NZ Open GPS Maps}; Filename: {uninstallexe}
-Name: {group}\NZ Open GPS Project Website; Filename: http://nzopengps.org/
-Name: {group}\NZ Open GPS Project Forum; Filename: http://gwprojects.org/forum/
-
+Name: {group}\NZ Open GPS Project Website; Filename: http://gwprojects.org/forum/index.php
+Name: {group}\NZ Open GPS Project Forum; Filename: http://gwprojects.org/forum/index.php
 
 [Files]
 ;Check function will create all registry entries
@@ -113,30 +112,30 @@ Result := preresult;
 end;
 
 function S1(): Boolean;
-begin
-preresult := false;
-if Page.Values[0] then
-begin
-preresult := true;
-end;
-Result := preresult;
-end;
+	begin
+		preresult := false;
+		if Page.Values[0] then
+		begin
+			preresult := true;
+		end;
+		Result := preresult;
+	end;
 
 function MapsourceCheck(): Boolean;
-begin
-  MyProgCheckResult := False;
-  if RegQueryStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\Applications\MapSource','InstallDir', MapSourceDir) then
-  begin
-    MyProgCheckResult := True;
-  end;
-  
-  if RegQueryStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\Applications\BaseCamp','InstallDir', BaseCampDir) then
-  begin
-    MyProgCheckResult := True;
-  end;
+	begin
+		MyProgCheckResult := False;
+		if RegQueryStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\Applications\MapSource','InstallDir', MapSourceDir) then
+		begin
+			MyProgCheckResult := True;
+		end;
 
-  Result := MyProgCheckResult;
-end;
+		if RegQueryStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\Applications\BaseCamp','InstallDir', BaseCampDir) then
+		begin
+			MyProgCheckResult := True;
+		end;
+
+		Result := MyProgCheckResult;
+	end;
 
 function CreateRegistry(TYPfile: String; MDXfile: String; MDRfile: String; LOCfile: String; TDBfile: String; BMAPfile: String): Boolean;
 var
@@ -158,7 +157,7 @@ RegWriteStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free
 RegWriteStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free Open GPS NZ Autorouting' + '\' + ProductCode ,'LOC', LOCfile);
 RegWriteStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free Open GPS NZ Autorouting' + '\' + ProductCode ,'TDB', TDBfile);
 RegWriteStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free Open GPS NZ Autorouting' + '\' + ProductCode ,'BMAP', BMAPfile);
-end
+end;
 Result := True;
 end;
 
@@ -168,34 +167,36 @@ end;
 
 function CheckFIDDuplicate(FIDcheck : Integer; Remove: Boolean): Boolean;
 var
-I : Integer;
-FidNames: TArrayOfString;
-TmpFID: String;
-LocalFID: Integer;
+	I : Integer;
+	FidNames: TArrayOfString;
+	TmpFID: AnsiString;
+	LocalFID: Integer;
 
 begin
-MyProgCheckResult := False;
-if RegGetSubkeyNames(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\', FidNames) then
-begin
-for I := 0 to GetArrayLength(FidNames)-1 do
-begin
-MapSourceReg := 'Software\Garmin\MapSource\Families\' + FidNames[I];
-if RegQueryBinaryValue(HKEY_LOCAL_MACHINE, MapSourceReg, 'ID', TmpFID) then
-begin
-if Length(TmpFID) = 2 then
-LocalFID := Ord(TmpFID[2])* 256 + Ord(TmpFID[1])
-else
-LocalFID := Ord(TmpFID[1])
-if FIDcheck = LocalFID then begin
-if Remove then begin
-RegDeleteKeyIncludingSubkeys(HKEY_LOCAL_MACHINE, MapSourceReg)
-end;
-MyProgCheckResult := True;
-end;
-end;
-end;
-end;
-Result := MyProgCheckResult;
+	MyProgCheckResult := False;
+	if RegGetSubkeyNames(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\', FidNames) then
+	begin
+		for I := 0 to GetArrayLength(FidNames)-1 do
+		begin
+			MapSourceReg := 'Software\Garmin\MapSource\Families\' + FidNames[I];
+			if RegQueryBinaryValue(HKEY_LOCAL_MACHINE, MapSourceReg, 'ID', TmpFID) then
+			begin
+				if Length(TmpFID) = 2 then
+					LocalFID := Ord(TmpFID[2])* 256 + Ord(TmpFID[1])
+				else
+					LocalFID := Ord(TmpFID[1]);
+				if FIDcheck = LocalFID then
+				begin
+					if Remove then 
+					begin
+						RegDeleteKeyIncludingSubkeys(HKEY_LOCAL_MACHINE, MapSourceReg)
+					end;
+					MyProgCheckResult := True;
+				end;
+			end;
+		end;
+	end;
+	Result := MyProgCheckResult;
 end;
 
 //Be sure to uninstall map entry from registry
@@ -245,7 +246,7 @@ end;
 
 procedure InitializeWizard();
 begin
-Page := CreateInputOptionPage(wpWelcome, 'Display options', 'What option would you prefer?', 'Please select your display option, then click Next.', False, False);
-Page.Add('Leave this selected if you want the enhanced Open Source Skin applied to the map - uncheck if you would prefer the default garmin skin.');
-Page.Values[0] := true;
+	Page := CreateInputOptionPage(wpWelcome, 'Display options', 'What option would you prefer?', 'Please select your display option, then click Next.', False, False);
+	Page.Add('Leave this selected if you want the enhanced Open Source Skin applied to the map - uncheck if you would prefer the default garmin skin.');
+	Page.Values[0] := true;
 end;

@@ -22,11 +22,13 @@ Free\ Open\ GPS\ NZ\ Autorouting.img : Free\ Open\ GPS\ NZ\ Autorouting.mp
 	$(CGPS) "$<"
 
 Free\ Open\ GPS\ NZ\ Autorouting.mp : $(MPIMGS) $(POIIMGS) NZO5_pv_template.txt DateScript.vbs
+# GCT 20240920 double slash in //nologo
 	cscript /nologo DateScript.vbs  > NZO5_pv.txt
 	$(CPV) NZO5_pv.txt
 
+# GCT 20240920 added quotes to filename - backslashes were eaten on new PC
 define compile
-$(CGPS) ac -l $< > $(notdir $(basename $<))compileLog.txt
+$(CGPS) ac -l "$<" > $(notdir $(basename $<))compileLog.txt
 endef
 
 64000013.img : $(MPPATH)\Northland.mp

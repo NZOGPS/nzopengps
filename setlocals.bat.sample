@@ -20,7 +20,7 @@ set nzogps_ogr2ogr="c:\Program Files\QGIS Brighton\bin\ogr2ogr.exe"
 rem for compiling maps...
 set nzogps_cgps="C:\Program Files\cgpsmapper"
 set nzogps_cprv="C:\Program Files\cpreview"
-set nzogps_iscc="C:\Program Files\Inno Setup 5\iscc"
+set nzogps_iscc="C:\Program Files\Inno Setup 6\iscc"
 set nzogps_inst_creator=Unknown
 set nzogps_inst_image=installer-image.bmp
 set nzogps_inst_loc=tmp

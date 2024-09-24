@@ -16,14 +16,14 @@ POIIMGS = 64000012.img 64000021.img
 SETUP = $(wildcard *FREE_OpenGPS_NZ*)
 
 $(SETUP) : Free\ Open\ GPS\ NZ\ Autorouting.img 
-	$(ISCC) /dSdir=. /dBdir=$(nzogps_base) /dWImg=$(nzogps_inst_image) "NZ OpenGPS Setup.iss"
+	$(ISCC) //dSdir=. //dBdir=$(nzogps_base) //dWImg=$(nzogps_inst_image) "NZ OpenGPS Setup.iss"
 
 Free\ Open\ GPS\ NZ\ Autorouting.img : Free\ Open\ GPS\ NZ\ Autorouting.mp
 	$(CGPS) "$<"
 
 Free\ Open\ GPS\ NZ\ Autorouting.mp : $(MPIMGS) $(POIIMGS) NZO5_pv_template.txt DateScript.vbs
 # GCT 20240920 double slash in //nologo
-	cscript /nologo DateScript.vbs  > NZO5_pv.txt
+	cscript //nologo DateScript.vbs  > NZO5_pv.txt
 	$(CPV) NZO5_pv.txt
 
 # GCT 20240920 added quotes to filename - backslashes were eaten on new PC

@@ -1,2 +1,2 @@
 if not exist %nzogps_gmapsupp_loc% echo %nzogps_gmapsupp_loc% does not exist &goto :eof
-for /f "usebackq delims=_ tokens=1" %%z in ( `forfiles /m *.exe /d +0` ) do for /f "usebackq" %%g in ( `forfiles /p %nzogps_gmapsupp_loc% /m gmapsupp.img /d +0` ) do 7z a %%~z_gmapsupp.zip %nzogps_gmapsupp_loc%\%%g
+for /f "usebackq delims=_ tokens=1" %%z in ( `forfiles /m *.exe /d +0` ) do for /f "usebackq" %%g in ( `forfiles /p %nzogps_gmapsupp_loc% /m gmapsupp.img /d +0` ) do %nzogps_zip_cmd% %%~z_gmapsupp.zip %nzogps_gmapsupp_loc%\%%g

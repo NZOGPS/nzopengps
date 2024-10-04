@@ -1,7 +1,8 @@
-Start = 2024-09-07 19:22:20 +1200
+Start = 2024-10-04 00:12:41 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Southland
+1 LINZ ids are missing from NZOGPS Southland
+;linzid=3084887	Saddle View Lane	-44.961569460662,168.72130873807
 #############################
 
 0 LINZ ids are in NZOGPS Southland but missing from LINZ
@@ -13,5 +14,5 @@ Start = 2024-09-07 19:22:20 +1200
 0 Number range ids are in NZOGPS Southland but missing from LINZ
 #############################
 
-Finish = 2024-09-07 19:22:24 +1200
-Processing time = 3.796544
+Finish = 2024-10-04 00:12:44 +1300
+Processing time = 3.935465

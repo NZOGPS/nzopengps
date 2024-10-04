@@ -1,8 +1,8 @@
-Start = 2024-08-20 15:49:13 +1200
+Start = 2024-10-01 23:44:52 +1300
 linzid	street_name	street_name_2	official_street_name
 1826388	Rosythe Rd		Rosyth Rd	-35.96362,174.44630
 3083974	~[0x04]1	Northern Motorway	Ara Tuhono	-36.39000,174.64134
 #############################
 
-Finish = 2024-08-20 15:49:16 +1200
-Processing time = 2.750739
+Finish = 2024-10-01 23:44:54 +1300
+Processing time = 2.38989

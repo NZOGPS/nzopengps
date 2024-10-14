@@ -1,21 +1,6 @@
-Start = 2024-10-01 23:45:03 +1300
+Start = 2024-10-15 00:38:03 +1300
 linzid	street_name	street_name_2	official_street_name
-1817301	Waiteika Rd		Upper Waiteika Rd	-39.43586,173.93719
-1818238	Rama Rd		Upper Rama Rd	-39.55646,174.05990
-1818241	Winks Rd		Upper Winks Rd	-39.55238,174.14322
-1818161	Katene Rd		Upper Katene Rd	-39.52792,174.25638
-1818241	Winks Rd		Upper Winks Rd	-39.57645,174.14319
-1818161	Katene Rd		Upper Katene Rd	-39.54357,174.24153
-3052448	Ball Rd		Upper Ball Rd	-39.66524,174.44650
-3052448	Ball Rd		Upper Ball Rd	-39.69386,174.42730
-1817283	Kiri Rd		Upper Kiri Rd	-39.43594,173.97833
-1817659	Kaharoa Rd		Upper Kaharoa Rd	-39.74673,174.50801
-1818238	Rama Rd		Upper Rama Rd	-39.54574,174.06440
-1818161	Katene Rd		Upper Katene Rd	-39.53186,174.25079
-1818135	Kaweora Rd		Lower Kaweora Rd	-39.44323,173.90134
-1817301	Waiteika Rd		Upper Waiteika Rd	-39.47403,173.87899
-3052448	Ball Rd		Upper Ball Rd	-39.68712,174.43115
 #############################
 
-Finish = 2024-10-01 23:45:08 +1300
-Processing time = 4.741799
+Finish = 2024-10-15 00:38:06 +1300
+Processing time = 3.078895

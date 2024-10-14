@@ -40,8 +40,6 @@ linznumbid=9400044	linzid=3036305	Haumoana Rd	-39.60599,176.94112
 linznumbid=9400045	linzid=3036305	Haumoana Rd	-39.60882,176.93974
 linznumbid=9400049	linzid=1778978	Owhakura Rd	-39.54473,175.48818
 linznumbid=9400050	linzid=1778978	Owhakura Rd	-39.54619,175.45265
-linznumbid=9400051	linzid=3051559	Normanby Rd	-39.53065,174.15896
-linznumbid=9400052	linzid=3051559	Normanby Rd	-39.57394,174.10064
 linznumbid=9400053	linzid=1950606	Crosses Rd	-39.65288,176.87559
 linznumbid=9400054	linzid=1950606	Crosses Rd	-39.66224,176.88390
 linznumbid=9400055	linzid=3080164	~[0x04]51	-39.61917,176.89339

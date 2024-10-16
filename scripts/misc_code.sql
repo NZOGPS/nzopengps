@@ -626,8 +626,23 @@ SELECT st_x(the_geom),st_y(the_geom),central_pois.label,city FROM public.central
 
 select codehex from citysize where 4567 >= pmin and 4567 < pmax --ok
 
-select codehex from citysize 
+select name_ascii, major_name_ascii, codehex from citysize 
 	join nz_suburbs_and_localities
-	on population_estimate >= pmin 
+	on population_estimate >= pmin e
 		and population_estimate < pmax
 	where name_ascii = 'Otara' --pop=24148 s.b.0x900
+
+select label, type from canterbury_pois
+	join canterbury_cities
+		on cityidx = cityid
+
+select cp.label, cp.type, codehex, population_estimate from canterbury_pois cp
+	join canterbury_cities cc
+		on cityidx = cityid
+	join nz_suburbs_and_localities
+		on nzslid = id
+	join citysize
+		on population_estimate >= pmin 
+			and population_estimate < pmax
+	where cp.type <> codehex
+	order by type

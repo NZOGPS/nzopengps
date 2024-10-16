@@ -1,8 +1,10 @@
-Start = 2024-10-14 23:04:24 +1300
+Start = 2024-10-15 23:58:59 +1300
 #############################
 
-45 LINZ ids are missing from NZOGPS Auckland
+61 LINZ ids are missing from NZOGPS Auckland
+;linzid=3084910	Sir Noel Robinson Pl	-36.9417932333,174.8700386833
 ;linzid=3084896	Koanga Rd	-36.611668770619,174.653806156119
+;linzid=3084904	Tuhana Lane	-36.9376028964403,174.875624770918
 ;linzid=3084728	Pohutukawa Lane	-36.6335742871622,175.57641624987
 ;linzid=3084736	Rua Hills Pde	-36.8199171836924,174.597054255783
 ;linzid=3084737	Laine Tipi Ave	-36.8211175466597,174.597911657903
@@ -47,10 +49,25 @@ Start = 2024-10-14 23:04:24 +1300
 ;linzid=3084898	Ngahuru Rd	-36.6110770704651,174.657094115509
 ;linzid=3084897	Hotoke Rd	-36.6110770704651,174.657094115509
 ;linzid=3084899	Pinnacles Lane	-37.03968391209,175.843847367311
+;linzid=3084906	Reitu Rise	-36.8913306352304,174.841389337184
+;linzid=3084907	Koinaki Rd	-36.8906548933086,174.839621395348
+;linzid=3084905	Hochstetter Pl	-36.891244983138,174.841352273481
+;linzid=3084908	Kohatu St	-36.8906887173936,174.839057148403
+;linzid=3084909	Sarsen Pl	-36.8916644231756,174.837698429176
+;linzid=3084924	Kanorau Way	-36.8033678666249,174.659152885953
+;linzid=3084926	Wavecrest Lane	-36.8051566594081,174.661988251747
+;linzid=3084925	Sails Rd	-36.8048923841638,174.661338678016
+;linzid=3084927	Tiller St	-36.8051566594081,174.661988251747
+;linzid=3084939	Glenburn Rd	-36.8014727941258,174.655699409564
+;linzid=3084938	Pipeworks Dr	-36.8019967781058,174.655125972138
+;linzid=3084940	Firebrick Way	-36.8019967781058,174.655125972138
+;linzid=3084946	Cyril Bennett Lane	-36.8686788133765,174.852134658376
+;linzid=3084947	Hita Lane	-36.8742489667,174.87511465
 #############################
 
-1 LINZ ids are in NZOGPS Auckland but missing from LINZ
+2 LINZ ids are in NZOGPS Auckland but missing from LINZ
 ;linzid=3074023	Walkway	-36.90219,174.62416
+;linzid=3074771	Walkway	-36.91986,174.64143
 #############################
 
 0 Number range ids are missing from NZOGPS Auckland
@@ -59,5 +76,5 @@ Start = 2024-10-14 23:04:24 +1300
 0 Number range ids are in NZOGPS Auckland but missing from LINZ
 #############################
 
-Finish = 2024-10-14 23:04:27 +1300
-Processing time = 3.455198
+Finish = 2024-10-15 23:59:05 +1300
+Processing time = 6.187005

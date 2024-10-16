@@ -59,3 +59,10 @@ TO DO:
 		Without index: 540s With 25s
 	or pre-transform roads to nztm?
 	Pre-index roads in new linz imports. Done.
+
+UPDATED TO DO:
+	Changemp should add CityIDX after City=Y
+	changemp should check for City=Y
+	modify changemp to also fix code based on population
+	add documentation for index_pois
+	decide on either coding around variable number of regions or standardise on all regions in each map

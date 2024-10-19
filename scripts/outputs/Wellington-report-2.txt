@@ -1,10 +1,7 @@
-Start = 2024-10-15 23:58:40 +1300
+Start = 2024-10-19 18:16:37 +1300
 #############################
 
-3 LINZ ids are missing from NZOGPS Wellington
-;linzid=3084912	Waka Ama St	-41.1352356193634,174.875580602611
-;linzid=3084914	Ironstones Way	-40.6555682778479,175.271424958376
-;linzid=3084937	Maia Lane	-40.6284887116605,175.274795257882
+0 LINZ ids are missing from NZOGPS Wellington
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -16,5 +13,5 @@ Start = 2024-10-15 23:58:40 +1300
 0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2024-10-15 23:58:44 +1300
-Processing time = 4.64025
+Finish = 2024-10-19 18:16:41 +1300
+Processing time = 3.51534

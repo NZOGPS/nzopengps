@@ -1,19 +1,8 @@
-Start = 2024-10-19 17:25:27 +1300
+Start = 2024-10-21 00:13:00 +1300
 #############################
 
-12 LINZ ids are missing from NZOGPS Canterbury
+1 LINZ ids are missing from NZOGPS Canterbury
 ;linzid=3079720	Gold Valley Rd	-43.7070990510647,172.652569302629
-;linzid=3084913	Aschwell Rd	-43.5934805502228,172.591618011677
-;linzid=3084921	Mokomoko Lane	-43.593703886522,172.591943056907
-;linzid=3084930	Coalpit Rd	-43.4976959326583,171.651528089462
-;linzid=3084931	The Rowans	-43.4925928962114,171.655780661992
-;linzid=3084932	Tussock Lane	-43.4943763681479,171.649648972089
-;linzid=3084933	The Rise	-43.497316016893,171.651620807239
-;linzid=3084934	The Villas	-43.4993788761368,171.652136155952
-;linzid=3084935	Lakeside	-43.4993788761368,171.652136155952
-;linzid=3084942	Meadowmere Lane	-43.5872296090762,172.500442811191
-;linzid=3084941	Bridgehampton Dr	-43.5886210015575,172.499368716405
-;linzid=3084943	Foxcroft Dr	-43.5886210015575,172.499368716405
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
@@ -25,5 +14,5 @@ Start = 2024-10-19 17:25:27 +1300
 0 Number range ids are in NZOGPS Canterbury but missing from LINZ
 #############################
 
-Finish = 2024-10-19 17:25:32 +1300
-Processing time = 4.64023
+Finish = 2024-10-21 00:13:04 +1300
+Processing time = 4.749615

@@ -1,16 +1,6 @@
-Start = 2024-10-20 12:26:07 +1300
+Start = 2024-10-20 19:05:58 +1300
 linzid	street_name	street_name_2	official_street_name
-1802583	Waioeka Pa Rd		Waioweka Pa Rd	-38.08310,177.28833
-1802583	Waioeka Pa Rd		Waioweka Pa Rd	-38.08312,177.29307
-3041293	Waioeka Rd		Waioweka Rd	-38.02674,177.29050
-3041293	~[0x04]2	Waioeka Rd	Waioweka Rd	-38.01624,177.28804
-3041293	~[0x04]2	Waioeka Rd	Waioweka Rd	-38.01719,177.28849
-3041293	~[0x04]2	Waioeka Rd	Waioweka Rd	-38.02674,177.29050
-3041293	~[0x04]2	Waioeka Rd	Waioweka Rd	-38.08310,177.28833
-3041293	~[0x04]2	Waioeka Rd	Waioweka Rd	-38.02986,177.29127
-3041293	Waioeka Rd		Waioweka Rd	-38.02254,177.28813
-3041293	~[0x04]2	Waioeka Rd	Waioweka Rd	-38.01880,177.28911
 #############################
 
-Finish = 2024-10-20 12:26:14 +1300
-Processing time = 6.5509
+Finish = 2024-10-20 19:06:02 +1300
+Processing time = 4.280918

@@ -54,3 +54,5 @@ linznumbid=9300055	linzid=3003064	Overdale Rd	-38.04408,175.77224
 linznumbid=9300056	linzid=3003064	Overdale Rd	-38.02814,175.75363
 linznumbid=9300057	linzid=1809545	Marokopa Rd	-38.30231,174.72028
 linznumbid=9300058	linzid=1809545	Marokopa Rd	-38.27093,174.77792
+linznumbid=9300059	linzid=3057789	Ngapeke Rd	-38.28063 175.27903
+linznumbid=9300060	linzid=3057789	Ngapeke Rd	-38.34604 175.25659

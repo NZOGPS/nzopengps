@@ -1,10 +1,7 @@
-Start = 2024-10-30 18:00:34 +1300
+Start = 2024-10-31 00:33:41 +1300
 #############################
 
-3 LINZ ids are missing from NZOGPS Wellington
-;linzid=3084987	Joseph Bolton Cres	-41.1360372950233,175.057240478095
-;linzid=3084986	Dovey Katene Horvath St	-41.1365128572683,175.057524374654
-;linzid=3084988	Harry Eruera St	-41.1360372950233,175.057240478095
+0 LINZ ids are missing from NZOGPS Wellington
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -16,5 +13,5 @@ Start = 2024-10-30 18:00:34 +1300
 0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2024-10-30 18:00:38 +1300
-Processing time = 3.905965
+Finish = 2024-10-31 00:33:45 +1300
+Processing time = 4.030931

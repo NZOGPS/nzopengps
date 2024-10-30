@@ -1,4 +1,4 @@
-Start = 2024-10-15 23:59:40 +1300
+Start = 2024-10-30 18:01:23 +1300
 linzid	street_name	street_name_2	official_street_name
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
 3080457	Kokotaua Lane		Kata Lane	-36.79334,174.66732
@@ -9,5 +9,5 @@ linzid	street_name	street_name_2	official_street_name
 3027695	Old State Highway 1		State Highway 1	-36.52793,174.67779
 #############################
 
-Finish = 2024-10-15 23:59:47 +1300
-Processing time = 6.7885
+Finish = 2024-10-30 18:01:29 +1300
+Processing time = 5.796434

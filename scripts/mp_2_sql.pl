@@ -554,8 +554,8 @@ sub write_line_sql {
 	print SQLFILE "\"type\" varchar(10),\n";
 	print SQLFILE "\"linzid\" integer,\n";
 	print SQLFILE "\"numbers\" varchar(6)[][]);\n";
-	print SQLFILE "SELECT AddGeometryColumn('','${basefile}','the_geom','4167','LINESTRING',2);\n";
-			print SQLFILE "INSERT INTO \"${basefile}\" ";
+	print SQLFILE "SELECT AddGeometryColumn('','${tablename}','the_geom','4167','LINESTRING',2);\n";
+			print SQLFILE "INSERT INTO \"${tablename}\" ";
 			print SQLFILE "(\"roadid\",\"label\",\"type\",linzid,\"numbers\",the_geom)";
 			print SQLFILE " VALUES \n ";
 	for $road (@roads){

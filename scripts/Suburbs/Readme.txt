@@ -64,5 +64,6 @@ UPDATED TO DO:
 	Changemp should add CityIDX after City=Y
 	changemp should check for City=Y
 	modify changemp to also fix code based on population
+	modify changemp tp also change endlevel based on population? Nah? Better manually...
 	add documentation for index_pois
-	decide on either coding around variable number of regions or standardise on all regions in each map
+	(DONE - standardise) decide on either coding around variable number of regions or standardise on all regions in each map

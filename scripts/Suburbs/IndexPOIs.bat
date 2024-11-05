@@ -5,7 +5,7 @@ if not exist %nzogps_base%\%1.mp echo %nzogps_base%\%1.mp not found & goto :eof
 
 set nzogps_psqlc=%nzogps_psql_bin%psql -U postgres -d nzopengps
 cd SQLData
-..\..\wrongside\mp_2_n_sql.pl -ci %nzogps_base%\%1.mp
+..\..\wrongside\mp_2_n_sql2.pl -ci %nzogps_base%\%1.mp
 cd ..
 %nzogps_psqlc% -f SQLData\%1_numberlines.sql
 %nzogps_psqlc% -f SQLData\%1_cities.sql
@@ -20,6 +20,7 @@ if exist %nzogps_CXLT% %nzogps_psqlc% -v ctable=%1_cities -v xtable=%1_cidxlt -f
 
 %nzogps_psqlc% -v ctable=%1_cities -v ptable=%1_pois -v outfile='%nzogps_base%\scripts\suburbs\Outputs\%1-nearpois.csv' -f Code\nearpois.sql
 %nzogps_psqlc% -v ctable=%1_cities -v ptable=%1_pois -v outfile='%nzogps_base%\scripts\suburbs\Outputs\%1-unindexed.csv' -f Code\unindexed.sql
+%nzogps_psqlc% -v ctable=%1_cities -v ptable=%1_pois -v outfile='%nzogps_base%\scripts\suburbs\Outputs\%1-sizecodes.csv' -f Code\sizecodes.sql
 
 %nzogps_psqlc% -v ctable=%1_cities -v ptable=%1_pois -v outfile='%nzogps_base%\scripts\suburbs\Outputs\%1-mappois.csv' -f Code\mappois.sql
 %nzogps_perl_cmd% code\changemp.pl %1 > Outputs\%1-mapped.mp

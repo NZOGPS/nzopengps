@@ -14,11 +14,12 @@ my %diffcodes;
 my $changed = 0;
 
 sub readCSV {
+
 	my $which = shift;
 	my $city;
 	my %val;
 	my $entries = 0;
-	my @what = {'index','code'};
+	my @what = ('index','code');
 	
 	# %changes=('Acacia Bay, Taupo'=> {
 		# 'x'=>176.03196,
@@ -32,17 +33,21 @@ sub readCSV {
 		undef %val;
 		chomp;
 		$entries++;
-		if ($which == 1){
+		if ($which == 0){
 			($val{'x'},$val{'y'},$city,$val{'city'},$val{'cid'}) = split /,/;
 			$changes{$city}={%val};
 		}
-		if ($which == 2){
+
+### BROKEN
+### Reading "Burb,City" as two values...
+
+		if ($which == 1){
 			($val{'x'},$val{'y'},$city,$val{'oldcode'},$val{'newcode'},$val{'popn'}) = split /,/;
 			$diffcodes{$city}={%val};
 		}
 	}
 #	print STDERR Dumper %changes;
-	print STDERR "$entries changes to do\n";
+	print STDERR "$entries $what[$which] changes to do\n";
 }
 
 sub dochunk {
@@ -116,14 +121,16 @@ sub dochunk {
 									#print STDERR "$vars{'Label'},$diffcodes{$vars{'Label'}}->{'oldcode'},$diffcodes{$vars{'Label'}}->{'newcode'}\n";
 									$tbuf =~ s/Type=$diffcodes{$vars{'Label'}}->{'oldcode'}/Type=$diffcodes{$vars{'Label'}}->{'newcode'}/;
 									$changed++;
+									$diffcodes{$vars{'Label'}}->{'done'}=1;
+								} else {
+									print STDERR "Not type - $vars{'Label'} $diffcodes{$vars{'Label'}}->{'oldcode'}\n";
 								}
 							} else {
-								print STDERR "Not y - $vars{'y'}->[0] $diffcodes{$vars{'Label'}}->{'y'})\n";
+								print STDERR "Not y - $vars{'y'}->[0] $diffcodes{$vars{'Label'}}->{'y'}\n";
 							}
 						} else {
-							print STDERR "Not x - $vars{'x'}->[0] $diffcodes{$vars{'Label'}}->{'x'})\n";
+							print STDERR "Not x - $vars{'Label'}  $vars{'y'}->[0],$vars{'x'}->[0] $diffcodes{$vars{'Label'}}->{'y'},$diffcodes{$vars{'Label'}}->{'x'}\n";
 						}
-						
 					}
 				}
 			}
@@ -143,12 +150,12 @@ open(MPF,"<",$infn) or die "Can't open $infn\n";
 
 $csvfn = "outputs\\$ARGV[0]-mappois.csv";
 open(CCSV,"<",$csvfn) or die "Can't open $csvfn\n";
-readCSV(1);
+readCSV(0);
 close(CCSV);
 
 $csvfn = "outputs\\$ARGV[0]-sizecodes.csv";
 open(CCSV,"<",$csvfn) or die "Can't open $csvfn\n";
-readCSV(2);
+readCSV(1);
 close(CCSV);
 
 do {
@@ -156,3 +163,5 @@ do {
 }
 until $done;
 print STDERR "$changed changes made\n";
+
+print STDERR Dumper %diffcodes;

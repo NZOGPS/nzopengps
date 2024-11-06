@@ -9,6 +9,8 @@ my $done;
 my %vars;
 my $tbuf;
 my $cmmt;
+my $akey;
+my $pval;
 my %changes;
 my %diffcodes;
 my $changed = 0;
@@ -38,15 +40,20 @@ sub readCSV {
 			$changes{$city}={%val};
 		}
 
-### BROKEN
-### Reading "Burb,City" as two values...
-
 		if ($which == 1){
-			($val{'x'},$val{'y'},$city,$val{'oldcode'},$val{'newcode'},$val{'popn'}) = split /,/;
+			my @splitvals = split/,/;
+			if ($splitvals[2] =~ m/^\"(.*)/) { #"burb
+				my $s2 = $1;
+				if ($splitvals[3] =~ m/(.*)\"$/){ #city"
+					splice(@splitvals,2,2,"$s2,$1");
+				}
+			}
+			($val{'x'},$val{'y'},$city,$val{'oldcode'},$val{'newcode'},$val{'popn'}) = @splitvals;
 			$diffcodes{$city}={%val};
 		}
 	}
 #	print STDERR Dumper %changes;
+#	print STDERR Dumper %diffcodes;
 	print STDERR "$entries $what[$which] changes to do\n";
 }
 
@@ -109,6 +116,7 @@ sub dochunk {
 								}
 								$tbuf =~ s/\[END\]/CityIDX=$changes{$vars{'Label'}}->{'cid'}\n[END]/;
 								$changed++;
+								$changes{$vars{'Label'}}->{'done'}=1;
 							}
 						}
 					}
@@ -123,13 +131,13 @@ sub dochunk {
 									$changed++;
 									$diffcodes{$vars{'Label'}}->{'done'}=1;
 								} else {
-									print STDERR "Not type - $vars{'Label'} $diffcodes{$vars{'Label'}}->{'oldcode'}\n";
+									# print STDERR "Not type - $vars{'Label'} $diffcodes{$vars{'Label'}}->{'oldcode'}\n";
 								}
 							} else {
-								print STDERR "Not y - $vars{'y'}->[0] $diffcodes{$vars{'Label'}}->{'y'}\n";
+								# print STDERR "Not y - $vars{'y'}->[0] $diffcodes{$vars{'Label'}}->{'y'}\n";
 							}
 						} else {
-							print STDERR "Not x - $vars{'Label'}  $vars{'y'}->[0],$vars{'x'}->[0] $diffcodes{$vars{'Label'}}->{'y'},$diffcodes{$vars{'Label'}}->{'x'}\n";
+							# print STDERR "Not x - $vars{'Label'}  $vars{'y'}->[0],$vars{'x'}->[0] $diffcodes{$vars{'Label'}}->{'y'},$diffcodes{$vars{'Label'}}->{'x'}\n";
 						}
 					}
 				}
@@ -153,10 +161,10 @@ open(CCSV,"<",$csvfn) or die "Can't open $csvfn\n";
 readCSV(0);
 close(CCSV);
 
-$csvfn = "outputs\\$ARGV[0]-sizecodes.csv";
-open(CCSV,"<",$csvfn) or die "Can't open $csvfn\n";
-readCSV(1);
-close(CCSV);
+# $csvfn = "outputs\\$ARGV[0]-sizecodes.csv";
+# open(CCSV,"<",$csvfn) or die "Can't open $csvfn\n";
+# readCSV(1);
+# close(CCSV);
 
 do {
 	$done = dochunk();
@@ -164,4 +172,18 @@ do {
 until $done;
 print STDERR "$changed changes made\n";
 
-print STDERR Dumper %diffcodes;
+my $cntt;
+foreach $akey (keys %changes){
+#	print STDERR "$akey\n";
+#	print STDERR Dumper $changes{$akey};
+	if(!defined($changes{$akey}->{'done'})){
+		print STDERR "Unmatched: $akey\n";
+	} else {
+		if($changes{$akey}->{'done'}==1){
+			#print STDERR "Unmatched: $akey\n";
+			$cntt++;
+		}
+	}
+}
+print STDERR "cnt is $cntt\n";
+# print STDERR Dumper %diffcodes;

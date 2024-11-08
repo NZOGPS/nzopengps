@@ -172,7 +172,7 @@ do {
 until $done;
 print STDERR "$changed changes made\n";
 
-my $cntt;
+my $cntt = 0;
 foreach $akey (keys %changes){
 #	print STDERR "$akey\n";
 #	print STDERR Dumper $changes{$akey};
@@ -185,5 +185,5 @@ foreach $akey (keys %changes){
 		}
 	}
 }
-print STDERR "cnt is $cntt\n";
+print STDERR "$cntt changes done\n";
 # print STDERR Dumper %diffcodes;

@@ -23,6 +23,7 @@ if exist %nzogps_CXLT% %nzogps_psqlc% -v ctable=%1_cities -v xtable=%1_cidxlt -f
 %nzogps_psqlc% -v ctable=%1_cities -v ptable=%1_pois -v outfile='%nzogps_base%\scripts\suburbs\Outputs\%1-sizecodes.csv' -f Code\sizecodes.sql
 
 %nzogps_psqlc% -v ctable=%1_cities -v ptable=%1_pois -v outfile='%nzogps_base%\scripts\suburbs\Outputs\%1-dupliPOIs.csv' -f Code\dupliPOIs.sql
+%nzogps_psqlc% -v ctable=%1_cities -v ptable=%1_pois -v outfile='%nzogps_base%\scripts\suburbs\Outputs\%1-checkPOIs.csv' -f Code\checkPOIs.sql
 %nzogps_psqlc% -v ctable=%1_cities -v ptable=%1_pois -v outfile='%nzogps_base%\scripts\suburbs\Outputs\%1-mappois.csv' -f Code\mappois.sql
 
-%nzogps_perl_cmd% code\changemp.pl %1 > Outputs\%1-mapped.mp
+%nzogps_perl_cmd% code\changemp2.pl %1 > Outputs\%1-mapped.mp

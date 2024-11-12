@@ -559,6 +559,7 @@ sub write_line_sql {
 			print SQLFILE "(\"roadid\",\"label\",\"type\",linzid,\"numbers\",the_geom)";
 			print SQLFILE " VALUES \n ";
 	for $road (@roads){
+#		print STDERR Dumper $road;
 		next if !defined($$road[5]);
 		@x = @{$$road[9]};
 		@y = @{$$road[10]};

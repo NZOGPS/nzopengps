@@ -7,6 +7,7 @@ if not exist %nzogps_base%\%loopy_fn%.mp echo %nzogps_base%\%loopy_fn%.mp not fo
 set nzogps_psqlc=%nzogps_psql_bin%psql -U postgres -d nzopengps
 echo Loop finding processing %loopy_fn%
 
-..\mp_2_sql.pl %nzogps_base%\%loopy_fn%.mp
+rem ..\mp_2_sql.pl %nzogps_base%\%loopy_fn%.mp
+..\wrongside\mp_2_n_sql2.pl %nzogps_base%\%loopy_fn%.mp
 %nzogps_psqlc% -f %loopy_fn%_numberlines.sql
-%nzogps_psqlc% -v linestable=%loopy_fn% -v nodedtable=%loopy_fn%_noded_loops -v outfile='%nzogps_base%\scripts\loopy\%loopy_fn%-loops.csv' -f loopy1.sql
+%nzogps_psqlc% -v linestable=%loopy_fn%_numberlines -v nodedtable=%loopy_fn%_noded_loops -v outfile='%nzogps_base%\scripts\loopy\%loopy_fn%-loops.csv' -f loopy1.sql

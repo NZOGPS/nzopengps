@@ -19,4 +19,11 @@ copy( select  st_x(the_geom),st_y(the_geom), concat('Outside: ',cp.label),cp.cit
 	join :ptable cp 
 		on cityidx = cityid
 	where not iscity='Y'
+	UNION ALL
+	select  st_x(the_geom),st_y(the_geom), concat('Lvl0: ',cp.label),cp.cityidx, 0
+	from :ctable cc
+	join :ptable cp 
+		on cityidx = cityid
+	where endlevel='0'
+
 ) to :outfile with CSV;

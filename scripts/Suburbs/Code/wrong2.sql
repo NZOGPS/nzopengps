@@ -8,7 +8,8 @@ copy( select st_x(st_lineinterpolatepoint(the_geom,0.01)),st_y(st_lineinterpolat
 	join ( select
 		gid,sl.name_ascii from :ntable cn
 		join nz_suburbs_and_localities sl 
-		on st_intersects(the_geom,wkb_geometry)) sb on sb.gid = cn.gid
+		on st_intersects(the_geom,wkb_geometry)
+		where watery is not true) sb on sb.gid = cn.gid
 	where nzslid is not null 
 	and not st_intersects(the_geom,wkb_geometry)  group by cn.gid order by array_to_string(array_agg(sb.name_ascii),', ')
 ) to :outfile with CSV;

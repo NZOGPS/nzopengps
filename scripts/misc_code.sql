@@ -651,24 +651,39 @@ select label,nzslid,rgnidx,tablename,territorial_authority from waikato_cities
 	join regionlist on rgnidx=ogc_fid
 	join nz_suburbs_and_localities on nzslid=id
 
--- Still have to loop around multiple districts
+
 create or replace function slidinregion(slid integer, region integer) returns character varying as $$
-declare _districts character varying;
+declare _districts character varying; --comma delimited
+declare _dista character varying[];
+declare _disti character varying;
 declare _table character varying;
 declare _query character varying;
 declare _retid character varying;
-declare _temp character varying;
 BEGIN
 	select territorial_authority_ascii from nz_suburbs_and_localities
 		where id = slid
 		into _districts;
-	select tablename from regionlist 
-		where ogc_fid=region
-		into _table;
-	_query = 'select ogc_fid from '|| _table ||'_region where district='||quote_literal(_districts) ||' ;';
-	execute _query into _retid;
-	if _retid is not null then return _retid; 
-	else return _table||_districts; 
-	end if;
+--	if _districts is null then
+--		raise warning 'ooops';
+--		return -1;
+--	end if;
+	_dista = string_to_array(_districts,',');
+	foreach _disti in array _dista
+	loop
+		_disti = trim(_disti); -- take off space after comma!
+		select tablename from regionlist 
+			where ogc_fid=region
+			into _table;
+		_query = 'select ogc_fid from '|| _table ||'_region where district='||quote_literal(_disti) ||' ;';
+		execute _query into _retid;
+		if _retid is not null 
+			then return 0; 
+		end if;
+	end loop;
+	return _table ||' - '|| _districts; 
 END;
 $$ language plpgsql;
+
+select label,cityid,nzslid,rgnidx, slidinregion(nzslid,rgnidx) as slinr from canterbury_cities
+where nzslid is not null
+and slidinregion(nzslid,rgnidx)<> '0'

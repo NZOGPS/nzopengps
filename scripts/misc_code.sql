@@ -646,3 +646,26 @@ select cp.label, cp.type, codehex, population_estimate from canterbury_pois cp
 			and population_estimate < pmax
 	where cp.type <> codehex
 	order by type
+
+select label,nzslid,rgnidx,tablename,territorial_authority from waikato_cities
+	join regionlist on rgnidx=ogc_fid
+	join nz_suburbs_and_localities on nzslid=id
+
+-- Still have to loop around multiple districts
+create or replace function slidinregion(slid integer, region integer) returns character varying as $$
+declare _districts character varying;
+declare _table character varying;
+declare _query character varying;
+declare _temp character varying;
+BEGIN
+	select territorial_authority from nz_suburbs_and_localities
+		where id = slid
+		into _districts;
+	select tablename from regionlist 
+		where ogc_fid=region
+		into _table;
+	_query = 'select ogc_fid from '|| _table ||'_region where district='||quote_literal(_districts) ||' ;';
+	execute _query into _temp;
+	return _temp is not null;
+END;
+$$ language plpgsql;

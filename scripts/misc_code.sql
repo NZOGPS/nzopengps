@@ -656,16 +656,19 @@ create or replace function slidinregion(slid integer, region integer) returns ch
 declare _districts character varying;
 declare _table character varying;
 declare _query character varying;
+declare _retid character varying;
 declare _temp character varying;
 BEGIN
-	select territorial_authority from nz_suburbs_and_localities
+	select territorial_authority_ascii from nz_suburbs_and_localities
 		where id = slid
 		into _districts;
 	select tablename from regionlist 
 		where ogc_fid=region
 		into _table;
 	_query = 'select ogc_fid from '|| _table ||'_region where district='||quote_literal(_districts) ||' ;';
-	execute _query into _temp;
-	return _temp is not null;
+	execute _query into _retid;
+	if _retid is not null then return _retid; 
+	else return _table||_districts; 
+	end if;
 END;
 $$ language plpgsql;

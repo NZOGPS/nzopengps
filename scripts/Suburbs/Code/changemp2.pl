@@ -161,10 +161,10 @@ open(CCSV,"<",$csvfn) or die "Can't open $csvfn\n";
 readCSV(0);
 close(CCSV);
 
-# $csvfn = "outputs\\$ARGV[0]-sizecodes.csv";
-# open(CCSV,"<",$csvfn) or die "Can't open $csvfn\n";
-# readCSV(1);
-# close(CCSV);
+$csvfn = "outputs\\$ARGV[0]-sizecodes.csv";
+open(CCSV,"<",$csvfn) or die "Can't open $csvfn\n";
+readCSV(1);
+close(CCSV);
 
 do {
 	$done = dochunk();

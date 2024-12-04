@@ -1,7 +1,13 @@
-Start = 2024-10-31 00:33:41 +1300
+Start = 2024-12-03 16:25:32 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Wellington
+6 LINZ ids are missing from NZOGPS Wellington
+;linzid=3085019	Te Ara Horoeka	-41.0822377229934,174.87333597254
+;linzid=3085020	Pa Harakeke Rise	-41.0822377229934,174.87333597254
+;linzid=3085021	Manuka Cl	-41.0829870980119,174.874118547718
+;linzid=3085022	Lloyd Parker Lane	-40.8690537493381,175.052854115641
+;linzid=3085046	Te Huia St	-40.9358967839259,175.689561974995
+;linzid=3085045	Williams Rd	-40.9358967839259,175.689561974995
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -13,5 +19,5 @@ Start = 2024-10-31 00:33:41 +1300
 0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2024-10-31 00:33:45 +1300
-Processing time = 4.030931
+Finish = 2024-12-03 16:25:36 +1300
+Processing time = 4.073831

@@ -1,7 +1,7 @@
-Start = 2024-10-30 18:00:21 +1300
+Start = 2024-12-03 16:25:19 +1300
 #############################
 
-59 LINZ ids are missing from NZOGPS Tasman
+60 LINZ ids are missing from NZOGPS Tasman
 ;linzid=3083904	Coman Dr	-41.3288314381261,173.164810561401
 ;linzid=3083668	Travers Way	-42.5311452,172.8292387167
 ;linzid=3083835	Zealand St	-42.633910604877,171.175296638616
@@ -61,6 +61,7 @@ Start = 2024-10-30 18:00:21 +1300
 ;linzid=3084983	Willmer Pl	-42.5377728711551,172.813705561902
 ;linzid=3084984	Guyon Pl	-42.5342994063586,172.814599223716
 ;linzid=3084985	Henry Cl	-42.5363476779552,172.814180990014
+;linzid=3085002	Bruce Smith Dr	-42.7208379046002,170.953699768956
 #############################
 
 8 LINZ ids are in NZOGPS Tasman but missing from LINZ
@@ -80,5 +81,5 @@ Start = 2024-10-30 18:00:21 +1300
 0 Number range ids are in NZOGPS Tasman but missing from LINZ
 #############################
 
-Finish = 2024-10-30 18:00:24 +1300
-Processing time = 2.552138
+Finish = 2024-12-03 16:25:22 +1300
+Processing time = 2.619322

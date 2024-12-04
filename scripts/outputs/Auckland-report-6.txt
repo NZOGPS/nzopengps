@@ -1,13 +1,9 @@
-Start = 2024-10-30 18:01:23 +1300
+Start = 2024-12-03 16:26:21 +1300
 linzid	street_name	street_name_2	official_street_name
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
-3080457	Kokotaua Lane		Kata Lane	-36.79334,174.66732
-3080458	Kata Lane		Kokotaua Lane	-36.79357,174.66950
 1821419	Valley Rd (off-road vehicles only)		Valley Rd	-36.66656,174.53579
 1830965	Hull Rd (4WD only, closed in Winter)		Hull Rd	-36.64738,174.58702
-3083335	Tupuka Lane		Tupuke Lane	-36.91229,174.73394
-3027695	Old State Highway 1		State Highway 1	-36.52793,174.67779
 #############################
 
-Finish = 2024-10-30 18:01:29 +1300
-Processing time = 5.796434
+Finish = 2024-12-03 16:26:27 +1300
+Processing time = 5.796076

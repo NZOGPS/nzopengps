@@ -1,16 +1,8 @@
-Start = 2024-12-03 16:25:36 +1300
+Start = 2024-12-06 00:58:19 +1300
 #############################
 
-10 LINZ ids are missing from NZOGPS Canterbury
-;linzid=1785704	Reay Pl	-43.3900410333,172.6611747
+2 LINZ ids are missing from NZOGPS Canterbury
 ;linzid=3079720	Gold Valley Rd	-43.7070990510647,172.652569302629
-;linzid=3085003	McKeown Way	-43.6095545940197,172.367969548061
-;linzid=3085005	Clover St	-43.4808320389717,172.114095031717
-;linzid=3085006	Harvester Dr	-43.4831214383995,172.11157472333
-;linzid=3085007	Combine Pl	-43.4831214383995,172.11157472333
-;linzid=3085004	Auger Dr	-43.4796075032311,172.116014147439
-;linzid=3085008	Pea Dr	-43.4802324816964,172.115644804745
-;linzid=3085009	Broadgate St	-43.4830436937756,172.113883572061
 ;linzid=3085047	Havercourt Lane	-43.6196045784783,172.411150086361
 #############################
 
@@ -23,5 +15,5 @@ Start = 2024-12-03 16:25:36 +1300
 0 Number range ids are in NZOGPS Canterbury but missing from LINZ
 #############################
 
-Finish = 2024-12-03 16:25:41 +1300
-Processing time = 5.246636
+Finish = 2024-12-06 00:58:24 +1300
+Processing time = 4.175273

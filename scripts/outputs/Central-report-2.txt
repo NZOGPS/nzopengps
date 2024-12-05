@@ -1,11 +1,7 @@
-Start = 2024-12-03 16:25:27 +1300
+Start = 2024-12-06 00:58:05 +1300
 #############################
 
-4 LINZ ids are missing from NZOGPS Central
-;linzid=3085039	Matuku Lane	-40.0040792765594,176.544399465843
-;linzid=3085048	Masters Cres	-39.6534006472672,176.859491087774
-;linzid=3085049	Peakviews Pl	-39.6556943582256,176.863845037472
-;linzid=3085050	Valona Lane	-39.6534006472672,176.859491087774
+0 LINZ ids are missing from NZOGPS Central
 #############################
 
 0 LINZ ids are in NZOGPS Central but missing from LINZ
@@ -17,5 +13,5 @@ Start = 2024-12-03 16:25:27 +1300
 0 Number range ids are in NZOGPS Central but missing from LINZ
 #############################
 
-Finish = 2024-12-03 16:25:32 +1300
-Processing time = 4.470431
+Finish = 2024-12-06 00:58:09 +1300
+Processing time = 3.912334

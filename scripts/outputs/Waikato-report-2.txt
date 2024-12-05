@@ -1,22 +1,10 @@
-Start = 2024-12-03 16:25:41 +1300
+Start = 2024-12-06 00:57:55 +1300
 #############################
 
-10 LINZ ids are missing from NZOGPS Waikato
-;linzid=3084994	Tohutohu Rd	-37.187839485913,174.893095450851
-;linzid=3084995	Takoha Pl	-37.187839485913,174.893095450851
-;linzid=3085010	Acacia Ave	-37.941331276589,176.982850845542
-;linzid=3085017	Stream Ridge	-37.7652013075954,176.275238246886
-;linzid=3085025	Bruce Cochrane Lane	-37.8997434167,175.4557319333
-;linzid=3085031	Tawhiwhi Lane	-38.0167708,175.33416775
-;linzid=3085034	Nukuhau Lane	-37.8337858352946,175.327705350943
-;linzid=3085043	Don Brebner Way	-37.7037262167,176.13096775
-;linzid=3085044	Nga Hau Rd	-37.8700676355454,175.456093934364
-;linzid=3085051	Matuku Pl	-37.5661727936745,175.920516374772
+0 LINZ ids are missing from NZOGPS Waikato
 #############################
 
-3 LINZ ids are in NZOGPS Waikato but missing from LINZ
-;linzid=1798041	Dotterel Pl	-37.74571,176.13090
-;linzid=1798040	Rifleman Tce	-37.74664,176.13087
+1 LINZ ids are in NZOGPS Waikato but missing from LINZ
 ;linzid=3002235	Rangitahi Rd	-37.81168,174.86344
 #############################
 
@@ -26,5 +14,5 @@ Start = 2024-12-03 16:25:41 +1300
 0 Number range ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
-Finish = 2024-12-03 16:25:47 +1300
-Processing time = 5.760113
+Finish = 2024-12-06 00:58:00 +1300
+Processing time = 5.30686

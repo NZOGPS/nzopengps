@@ -1,4 +1,4 @@
-Start = 2024-12-03 16:25:19 +1300
+Start = 2024-12-06 00:57:50 +1300
 #############################
 
 60 LINZ ids are missing from NZOGPS Tasman
@@ -67,8 +67,8 @@ Start = 2024-12-03 16:25:19 +1300
 8 LINZ ids are in NZOGPS Tasman but missing from LINZ
 ;linzid=1789748	McKay Rd	-41.19431,172.99511
 ;linzid=1789025	Cemetery Rd	-41.12734,173.01964
-;linzid=1788561	Tangmere Pl	-41.29780,173.22697
-;linzid=1788591	Rapide Pl	-41.29814,173.22723
+;linzid=1788561	Tangmere Pl	-41.29785,173.22703
+;linzid=1788591	Rapide Pl	-41.29808,173.22726
 ;linzid=3074928	Roadway	-41.26948,174.04130
 ;linzid=3076858	Walkway	-41.33602,173.18486
 ;linzid=3076545	Walkway	-41.74832,171.56370
@@ -81,5 +81,5 @@ Start = 2024-12-03 16:25:19 +1300
 0 Number range ids are in NZOGPS Tasman but missing from LINZ
 #############################
 
-Finish = 2024-12-03 16:25:22 +1300
-Processing time = 2.619322
+Finish = 2024-12-06 00:57:53 +1300
+Processing time = 2.371449

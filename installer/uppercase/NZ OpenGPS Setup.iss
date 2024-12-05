@@ -11,10 +11,10 @@
 AppId={{BCE3D0D3-EA2C-4C41-893E-63996DC556D3}
 AppName=NZ Open Autorouting GPS Project
 AppVerName=NZ Open Autorouting GPS Project Version - {#MyVersion}
-AppPublisherURL=http://gwprojects.org/gps/
-AppSupportURL=http://gwprojects.org/gps/
-AppUpdatesURL=http://gwprojects.org/gps/
-DefaultDirName={pf}\NZ Open Autorouting GPS Project
+AppPublisherURL=http://gwprojects.org/forum/index.php
+AppSupportURL=http://gwprojects.org/forum/index.php
+AppUpdatesURL=http://gwprojects.org/forum/index.php
+DefaultDirName={commonpf32}\NZ Open Autorouting GPS Project
 DefaultGroupName=NZ Open Autorouting GPS Project
 LicenseFile=..\installer-license.txt
 OutputDir={#Sdir}
@@ -22,10 +22,10 @@ OutputBaseFilename={#MyVersion}_FREE_Uppercase_OpenGPS_NZ_Maps_Setup
 Compression=lzma/max
 SolidCompression=true
 WizardImageFile={#WImg}
-WizardSmallImageFile=compiler:WizModernSmallImage-IS.bmp
+WizardSmallImageFile=compiler:WizClassicImage-IS.bmp
 WizardImageStretch=false
 InfoAfterFile=..\installer_readme.txt
-AppCopyright=Copyright © 2004-2016
+AppCopyright=Copyright © 2004-2024
 UninstallFilesDir={app}
 UninstallLogMode=overwrite
 InternalCompressLevel=max
@@ -35,8 +35,8 @@ Name: english; MessagesFile: compiler:Default.isl
 
 [Icons]
 Name: {group}\{cm:UninstallProgram,NZ Open GPS Maps}; Filename: {uninstallexe}
-Name: {group}\NZ Open GPS Project Website; Filename: http://nzopengps.org/
-Name: {group}\NZ Open GPS Project Forum; Filename: http://gwprojects.org/forum/
+Name: {group}\NZ Open GPS Project Website; Filename: http://gwprojects.org/forum/index.php
+Name: {group}\NZ Open GPS Project Forum; Filename: http://gwprojects.org/forum/index.php
 
 
 [Files]
@@ -158,7 +158,7 @@ RegWriteStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free
 RegWriteStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free Open GPS NZ Autorouting' + '\' + ProductCode ,'LOC', LOCfile);
 RegWriteStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free Open GPS NZ Autorouting' + '\' + ProductCode ,'TDB', TDBfile);
 RegWriteStringValue(HKEY_LOCAL_MACHINE, 'Software\Garmin\MapSource\Families\Free Open GPS NZ Autorouting' + '\' + ProductCode ,'BMAP', BMAPfile);
-end
+end;
 Result := True;
 end;
 
@@ -170,7 +170,7 @@ function CheckFIDDuplicate(FIDcheck : Integer; Remove: Boolean): Boolean;
 var
 I : Integer;
 FidNames: TArrayOfString;
-TmpFID: String;
+	TmpFID: AnsiString;
 LocalFID: Integer;
 
 begin
@@ -185,9 +185,11 @@ begin
 if Length(TmpFID) = 2 then
 LocalFID := Ord(TmpFID[2])* 256 + Ord(TmpFID[1])
 else
-LocalFID := Ord(TmpFID[1])
-if FIDcheck = LocalFID then begin
-if Remove then begin
+					LocalFID := Ord(TmpFID[1]);
+				if FIDcheck = LocalFID then
+				begin
+					if Remove then 
+					begin
 RegDeleteKeyIncludingSubkeys(HKEY_LOCAL_MACHINE, MapSourceReg)
 end;
 MyProgCheckResult := True;

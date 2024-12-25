@@ -1,9 +1,8 @@
-Start = 2024-12-12 12:17:09 +1300
+Start = 2024-12-25 12:54:23 +1300
 linzid	street_name	street_name_2	official_street_name
 3082682	Te Ara Arapaoa / Shelley Bay Access Rd		Te Ara Arapaoa	-41.28845,174.01481
 3083379	Sandys Hill Rd (Unmaintained)		Sandys Hill Rd	-42.66872,171.18020
-1948312	Mt Arthur View Rd		Mt Arthur View	-41.28854,173.07719
 #############################
 
-Finish = 2024-12-12 12:17:12 +1300
-Processing time = 2.060125
+Finish = 2024-12-25 12:54:25 +1300
+Processing time = 2.144789

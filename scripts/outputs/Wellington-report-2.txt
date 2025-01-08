@@ -1,7 +1,10 @@
-Start = 2024-12-06 00:58:13 +1300
+Start = 2025-01-08 21:57:42 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Wellington
+3 LINZ ids are missing from NZOGPS Wellington
+;linzid=3085076	Nga Koru Pl	-40.877219929571,175.051868410575
+;linzid=3085081	Peihana Cl	-40.8632470609131,175.070257535042
+;linzid=3085096	Te Hana Way	-40.7641163927501,175.140490972899
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -13,5 +16,5 @@ Start = 2024-12-06 00:58:13 +1300
 0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2024-12-06 00:58:16 +1300
-Processing time = 3.475433
+Finish = 2025-01-08 21:57:47 +1300
+Processing time = 4.415487

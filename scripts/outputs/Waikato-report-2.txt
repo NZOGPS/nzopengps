@@ -1,11 +1,16 @@
-Start = 2024-12-06 00:57:55 +1300
+Start = 2025-01-08 21:57:53 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Waikato
+5 LINZ ids are missing from NZOGPS Waikato
+;linzid=3085083	Creekview Rd	-37.1103089017953,174.939386552943
+;linzid=3085082	Waipaheke Cres	-37.1100734616857,174.940207780371
+;linzid=3085084	Careyme Rd	-37.1091601837643,174.939785320873
+;linzid=3085105	Cutting Lane	-37.6546914523449,176.029380318253
+;linzid=3085106	Seagrass Way	-37.6548879244201,176.029120770294
 #############################
 
 1 LINZ ids are in NZOGPS Waikato but missing from LINZ
-;linzid=3002235	Rangitahi Rd	-37.81168,174.86344
+;linzid=1809704	Blundell Rd	-38.06170,177.00556
 #############################
 
 0 Number range ids are missing from NZOGPS Waikato
@@ -14,5 +19,5 @@ Start = 2024-12-06 00:57:55 +1300
 0 Number range ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
-Finish = 2024-12-06 00:58:00 +1300
-Processing time = 5.30686
+Finish = 2025-01-08 21:58:00 +1300
+Processing time = 6.792062

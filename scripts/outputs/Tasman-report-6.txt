@@ -1,10 +1,6 @@
-Start = 2025-01-08 21:58:08 +1300
+Start = 2025-01-09 15:02:07 +1300
 linzid	street_name	street_name_2	official_street_name
-1788961	Pah St		Pa St	-41.11203,172.99560
-3082682	Te Ara Arapaoa / Shelley Bay Access Rd		Te Ara Arapaoa	-41.28845,174.01481
-3083379	Sandys Hill Rd (Unmaintained)		Sandys Hill Rd	-42.66872,171.18020
-1788968	Pah St W		Pa St W	-41.11193,172.99552
 #############################
 
-Finish = 2025-01-08 21:58:11 +1300
-Processing time = 2.895042
+Finish = 2025-01-09 15:02:09 +1300
+Processing time = 1.914627

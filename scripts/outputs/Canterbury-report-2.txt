@@ -1,12 +1,8 @@
-Start = 2025-01-08 21:57:47 +1300
+Start = 2025-01-09 17:18:17 +1300
 #############################
 
-5 LINZ ids are missing from NZOGPS Canterbury
+1 LINZ ids are missing from NZOGPS Canterbury
 ;linzid=3079720	Gold Valley Rd	-43.7070990510647,172.652569302629
-;linzid=3085047	Havercourt Lane	-43.6196045784783,172.411150086361
-;linzid=3085095	Akshar Lane	-43.6187097828681,172.379166780436
-;linzid=3085102	Harrier Lane	-43.4727587856235,172.643924945879
-;linzid=3085103	Polish Lane	-43.4721626266944,172.644369695492
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
@@ -18,5 +14,5 @@ Start = 2025-01-08 21:57:47 +1300
 0 Number range ids are in NZOGPS Canterbury but missing from LINZ
 #############################
 
-Finish = 2025-01-08 21:57:53 +1300
-Processing time = 6.437422
+Finish = 2025-01-09 17:18:22 +1300
+Processing time = 4.384379

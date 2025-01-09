@@ -1,11 +1,7 @@
-Start = 2025-01-08 21:57:32 +1300
+Start = 2025-01-09 17:18:09 +1300
 #############################
 
-4 LINZ ids are missing from NZOGPS Southland
-;linzid=3085090	Meadowbank Dr	-46.1284787228772,169.972412699318
-;linzid=3085091	Bon Accord Way	-46.1284787228772,169.972412699318
-;linzid=3085092	Cloverlea Way	-46.1285932284954,169.973037692295
-;linzid=3085107	Tui Lane	-45.0647490541412,170.986954379679
+0 LINZ ids are missing from NZOGPS Southland
 #############################
 
 0 LINZ ids are in NZOGPS Southland but missing from LINZ
@@ -17,5 +13,5 @@ Start = 2025-01-08 21:57:32 +1300
 0 Number range ids are in NZOGPS Southland but missing from LINZ
 #############################
 
-Finish = 2025-01-08 21:57:37 +1300
-Processing time = 5.900972
+Finish = 2025-01-09 17:18:13 +1300
+Processing time = 3.998443

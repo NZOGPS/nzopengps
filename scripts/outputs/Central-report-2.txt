@@ -1,13 +1,10 @@
-Start = 2025-01-08 21:57:38 +1300
+Start = 2025-01-09 15:42:47 +1300
 #############################
 
-2 LINZ ids are missing from NZOGPS Central
-;linzid=3085108	Herehere Dr	-39.6810868372375,176.867570416811
-;linzid=3085109	Selby Lane	-39.6794345128783,176.86741330891
+0 LINZ ids are missing from NZOGPS Central
 #############################
 
-1 LINZ ids are in NZOGPS Central but missing from LINZ
-;linzid=1798712	Pilot Station Rd	-39.76902,174.49351
+0 LINZ ids are in NZOGPS Central but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Central
@@ -16,5 +13,5 @@ Start = 2025-01-08 21:57:38 +1300
 0 Number range ids are in NZOGPS Central but missing from LINZ
 #############################
 
-Finish = 2025-01-08 21:57:42 +1300
-Processing time = 4.59031
+Finish = 2025-01-09 15:42:51 +1300
+Processing time = 3.238701

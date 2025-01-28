@@ -4,7 +4,7 @@ if not defined nzogps_base call ..\setlocals.bat
 @echo on
 %nzogps_git% pull -v
 
-set nzogps_dl_fn=lds-new-zealand-3layers-CSV.zip
+set nzogps_dl_fn=lds-new-zealand-2layers-CSV.zip
 @if not exist %nzogps_download%\%nzogps_dl_fn% echo new CSV download %nzogps_dl_fn% not found. & goto :eof
 move %nzogps_download%\%nzogps_dl_fn% .
 

@@ -1,8 +1,7 @@
-Start = 2025-01-28 18:48:28 +1300
+Start = 2025-01-31 16:02:55 +1300
 linzid	street_name	street_name_2	official_street_name
 3033541	Cascade Pyke Valley Rd		Cascade Pyke Valley Road - legality not determined	-44.31153,168.22678
-3077713	MacPhail Ave		Macphail Ave	-43.30183,172.60737
 #############################
 
-Finish = 2025-01-28 18:48:33 +1300
-Processing time = 4.941566
+Finish = 2025-01-31 16:02:59 +1300
+Processing time = 3.6102

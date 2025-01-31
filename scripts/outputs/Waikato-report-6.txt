@@ -1,7 +1,6 @@
-Start = 2025-01-28 18:48:33 +1300
+Start = 2025-01-31 16:02:38 +1300
 linzid	street_name	street_name_2	official_street_name
-1808078	Cherry Rd		Cherry Lane	-38.16161,175.29156
 #############################
 
-Finish = 2025-01-28 18:48:39 +1300
-Processing time = 6.261535
+Finish = 2025-01-31 16:02:43 +1300
+Processing time = 4.899001

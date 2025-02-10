@@ -1,13 +1,10 @@
-Start = 2025-01-28 18:47:46 +1300
+Start = 2025-02-07 20:34:07 +1300
 #############################
 
-2 LINZ ids are missing from NZOGPS Wellington
-;linzid=3085150	Mangamahoe Lane	-40.2149759718968,175.350467566216
-;linzid=3085151	Holmewood Ridge	-40.6560656338471,175.27373507623
+0 LINZ ids are missing from NZOGPS Wellington
 #############################
 
-1 LINZ ids are in NZOGPS Wellington but missing from LINZ
-;linzid=3075255	Accessway	-41.11688,175.09038
+0 LINZ ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Wellington
@@ -16,5 +13,5 @@ Start = 2025-01-28 18:47:46 +1300
 0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2025-01-28 18:47:51 +1300
-Processing time = 4.868393
+Finish = 2025-02-07 20:34:10 +1300
+Processing time = 2.5709625

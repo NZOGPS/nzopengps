@@ -1,7 +1,6 @@
-Start = 2025-01-28 18:48:24 +1300
+Start = 2025-03-24 23:31:38 +1300
 linzid	street_name	street_name_2	official_street_name
-3085046	Te Huia St		Te Hina St	-40.93590,175.68956
 #############################
 
-Finish = 2025-01-28 18:48:28 +1300
-Processing time = 3.815622
+Finish = 2025-03-24 23:31:43 +1300
+Processing time = 5.487546

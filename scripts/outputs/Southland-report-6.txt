@@ -1,6 +1,15 @@
-Start = 2025-01-28 18:48:14 +1300
+Start = 2025-03-24 23:31:27 +1300
 linzid	street_name	street_name_2	official_street_name
+3079533	Howden Dr		Howden Dr N	-45.06148,168.74850
+3079533	Howden Dr		Howden Dr N	-45.06401,168.74682
+3079533	Howden Dr		Howden Dr N	-45.05907,168.74790
+3079533	Howden Dr		Howden Dr N	-45.05998,168.74968
+3079533	Howden Dr		Howden Dr N	-45.05939,168.74866
+3085130	Kakariki Loop		Kakariki Dr	-45.05833,168.74632
+3085130	Kakariki Loop		Kakariki Dr	-45.05719,168.74541
+3085131	Kauru Pl		Kauru Lane	-45.05719,168.74541
+3079533	Howden Dr		Howden Dr N	-45.06148,168.74850
 #############################
 
-Finish = 2025-01-28 18:48:19 +1300
-Processing time = 5.117166
+Finish = 2025-03-24 23:31:32 +1300
+Processing time = 5.589764

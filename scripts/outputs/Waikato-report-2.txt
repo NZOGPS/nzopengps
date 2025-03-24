@@ -1,7 +1,23 @@
-Start = 2025-01-31 16:02:33 +1300
+Start = 2025-03-24 23:31:07 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Waikato
+16 LINZ ids are missing from NZOGPS Waikato
+;linzid=3085212	Lyn Reta Way	-37.2558962757225,174.95690985196
+;linzid=3085171	Friends Dr	-37.8030144468748,175.301055319254
+;linzid=3085173	Nursery Lane	-37.802587097213,175.305484814649
+;linzid=3085175	Te Parapara Dr	-37.8029844003202,175.306481853507
+;linzid=3085174	Snapper Cres	-37.6609502638925,176.026422246055
+;linzid=3085176	Dory Lane	-37.6610997126531,176.028997471684
+;linzid=3085172	Triplefin Ave	-37.6606112268861,176.025731164421
+;linzid=3085177	Tarakihi Lane	-37.6613201239945,176.027438542958
+;linzid=3085187	Te Tiwha Lane	-37.824762056394,175.782126822787
+;linzid=3085188	Ahimanu Lane	-37.575498064835,175.669278951493
+;linzid=3085210	Waipiko Dr	-38.0064315261776,175.341763397189
+;linzid=3085205	Edward Wells Rd	-37.8830380852971,175.453556436222
+;linzid=3085204	Fisher Rd	-37.8830377403367,175.452485679048
+;linzid=3085208	Ulmer Lane	-37.8824712290709,175.452480590882
+;linzid=3085264	Tumai Lane	-38.0423871798582,175.342979172218
+;linzid=3085265	Pukemako Lane	-37.8361281028767,175.512234466116
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -13,5 +29,5 @@ Start = 2025-01-31 16:02:33 +1300
 0 Number range ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
-Finish = 2025-01-31 16:02:38 +1300
-Processing time = 4.79793
+Finish = 2025-03-24 23:31:14 +1300
+Processing time = 7.285811

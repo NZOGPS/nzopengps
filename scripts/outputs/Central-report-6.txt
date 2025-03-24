@@ -1,9 +1,6 @@
-Start = 2025-03-24 23:31:32 +1300
+Start = 2025-03-25 00:23:16 +1300
 linzid	street_name	street_name_2	official_street_name
-1798943	McHardie Rd		McHardies Rd	-40.15413,175.37771
-1841979	Mangaroa St		Miangaroa St	-39.90139,175.89396
-3084867	Waikawa Dr		Wakaiwa Dr	-39.02722,174.15328
 #############################
 
-Finish = 2025-03-24 23:31:37 +1300
-Processing time = 5.155858
+Finish = 2025-03-25 00:23:20 +1300
+Processing time = 3.287678

@@ -1,20 +1,7 @@
-Start = 2025-03-24 23:30:36 +1300
+Start = 2025-03-25 10:53:25 +1300
 #############################
 
-13 LINZ ids are missing from NZOGPS Tasman
-;linzid=3085155	Totara Rise	-41.3356067092788,172.106885251564
-;linzid=3085156	Kingfisher Rise	-41.3360510366286,172.111587298401
-;linzid=3085157	Fantail Rise	-41.3356067092788,172.106885251564
-;linzid=3085211	Topline Rd	-42.32759105,173.7045354667
-;linzid=3085247	Te Awa Waipuna	-41.2755879089245,174.024161927546
-;linzid=3085249	Walter Dr	-41.5340278978431,173.93133471318
-;linzid=3085250	Noel Chandler Rd	-41.5359251244996,173.931470151692
-;linzid=3085251	Ron Alexander Rd	-41.535996880549,173.929698485523
-;linzid=3085252	Jack Moon Rd	-41.5340278978431,173.93133471318
-;linzid=3085256	Mt Patriarch Cl	-41.5058183390378,173.926048925502
-;linzid=3085257	Blue Hills Dr	-41.5057709025628,173.927121102409
-;linzid=3085258	Lake Chalice Dr	-41.5057709025628,173.927121102409
-;linzid=3085259	Ridgway Cres	-41.5072551911659,173.927463298428
+0 LINZ ids are missing from NZOGPS Tasman
 #############################
 
 0 LINZ ids are in NZOGPS Tasman but missing from LINZ
@@ -26,5 +13,5 @@ Start = 2025-03-24 23:30:36 +1300
 0 Number range ids are in NZOGPS Tasman but missing from LINZ
 #############################
 
-Finish = 2025-03-24 23:30:40 +1300
-Processing time = 3.663114
+Finish = 2025-03-25 10:53:28 +1300
+Processing time = 3.0906

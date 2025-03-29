@@ -1,14 +1,7 @@
-Start = 2025-03-25 10:53:35 +1300
+Start = 2025-03-29 16:51:21 +1300
 #############################
 
-7 LINZ ids are missing from NZOGPS Central
-;linzid=3085170	Te Repo Rd	-39.9317393558097,175.006736338345
-;linzid=3085185	Mako Lane	-39.622741864002,176.843964993678
-;linzid=3085189	Priory Dr	-39.5044217147775,176.840129464917
-;linzid=3085190	Tupai Pl	-39.5046087998317,176.838879038141
-;linzid=3085191	Tara Pl	-39.5046654710451,176.838606238476
-;linzid=3085214	Papaki Pl	-39.5803430033953,176.765896378865
-;linzid=3085216	Joal Lane	-39.9852903333,176.5509942667
+0 LINZ ids are missing from NZOGPS Central
 #############################
 
 0 LINZ ids are in NZOGPS Central but missing from LINZ
@@ -20,5 +13,5 @@ Start = 2025-03-25 10:53:35 +1300
 0 Number range ids are in NZOGPS Central but missing from LINZ
 #############################
 
-Finish = 2025-03-25 10:53:40 +1300
-Processing time = 4.929942
+Finish = 2025-03-29 16:51:24 +1300
+Processing time = 3.749939

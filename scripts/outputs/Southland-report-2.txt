@@ -1,26 +1,7 @@
-Start = 2025-03-25 10:53:29 +1300
+Start = 2025-04-06 01:08:27 +1300
 #############################
 
-19 LINZ ids are missing from NZOGPS Southland
-;linzid=3085164	Blackbird Rd	-45.0529814992274,168.749735381711
-;linzid=3085158	Parkside Dr	-44.7032047527398,169.155602509178
-;linzid=3085159	Waiora Lane	-44.7040000759324,169.153774811294
-;linzid=3085160	Lennox Lane	-44.7033485815106,169.153207856874
-;linzid=3085161	Serpentine St	-44.707719102383,169.124355109923
-;linzid=3085162	Tullamore Lane	-44.9828481333,168.72701986667
-;linzid=3085163	Goldfinch Dr	-45.0522694239988,168.749738425911
-;linzid=3085165	Little Owl Loop	-45.0522694239988,168.749738425911
-;linzid=3085169	Silvereye Lane	-45.0046283155777,168.776221496849
-;linzid=3085186	Ten Acre Dr	-44.6715827117004,169.159227899572
-;linzid=3085222	Tin Hut Lane	-44.746869949243,169.262386068327
-;linzid=3085223	Rocky Ridge Dr	-44.7396070127491,169.249062011857
-;linzid=3085224	Callaghans Creek Rise	-44.6735807981365,169.152502439006
-;linzid=3085225	Craigie Burn Lane	-44.6748421732085,169.153855955842
-;linzid=3085227	Spotts Creek Tce	-44.6758229231679,169.153877217819
-;linzid=3085226	Leven Stream Lane	-44.674887905545,169.15264152062
-;linzid=3085228	Branch Burn Cl	-44.674887905545,169.15264152062
-;linzid=3085267	Bleakley Lane	-45.0118744731287,168.745760360734
-;linzid=3085266	Laurel Bank Pl	-45.0027884119196,168.767869900524
+0 LINZ ids are missing from NZOGPS Southland
 #############################
 
 0 LINZ ids are in NZOGPS Southland but missing from LINZ
@@ -32,5 +13,5 @@ Start = 2025-03-25 10:53:29 +1300
 0 Number range ids are in NZOGPS Southland but missing from LINZ
 #############################
 
-Finish = 2025-03-25 10:53:34 +1300
-Processing time = 5.945509
+Finish = 2025-04-06 01:08:33 +1300
+Processing time = 5.418686

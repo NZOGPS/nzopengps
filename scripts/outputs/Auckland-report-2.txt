@@ -1,21 +1,22 @@
-Start = 2025-03-25 10:53:57 +1300
+Start = 2025-04-30 00:07:31 +1200
 #############################
 
-11 LINZ ids are missing from NZOGPS Auckland
-;linzid=3085136	Parehua Lane	-36.8711384479157,174.583189937835
-;linzid=3085137	Bushland Dr	-36.9723769026431,174.906365250032
-;linzid=3085219	Pigeonwood Pl	-36.9683078523095,174.925204332169
-;linzid=3085229	Wakawaka Lane	-36.9376171640194,174.874884601037
-;linzid=3085230	Glenview Pl	-36.8624153277697,174.861784391743
-;linzid=3085238	Marata St	-36.8136761375208,174.592671100653
-;linzid=3085239	Coprosma St	-36.8129018936747,174.592484394004
-;linzid=3085240	Tuturi St	-36.8136761375208,174.592671100653
-;linzid=3085255	Brian Cunningham Way	-36.9925596854943,175.037944911207
-;linzid=3085260	Navigation Dr	-36.9934684533899,175.038831030769
-;linzid=3085261	Steamship Hirere Lane	-36.9934684533899,175.038831030769
+10 LINZ ids are missing from NZOGPS Auckland
+;linzid=3085318	Fern Dr	-37.0904066652534,174.932819984459
+;linzid=3085319	Papawai Lane	-37.0874525536863,174.933446761057
+;linzid=3085339	Pikotoetoe Lane	-36.9806717763912,174.852465693172
+;linzid=3085341	Te Ara Hakoko	-36.9801664819577,174.851908766773
+;linzid=3085342	Te Ara Tawakawaka	-36.9801408757964,174.852192367264
+;linzid=3085317	Teal Ave	-37.090596062426,174.932065819732
+;linzid=3085340	Te Ara Tapore	-36.9801898714991,174.85164971641
+;linzid=3085344	Kauwhanga Lane	-36.9802838148176,174.852712521971
+;linzid=3085343	Tiwhana Cres	-36.9806529115743,174.852752744194
+;linzid=3085350	Pepe Lane	-36.7103433135902,174.709642446872
 #############################
 
-0 LINZ ids are in NZOGPS Auckland but missing from LINZ
+2 LINZ ids are in NZOGPS Auckland but missing from LINZ
+;linzid=3075923	Walkway	-36.88238,174.98399
+;linzid=3075289	Walkway	-36.88091,174.98694
 #############################
 
 0 Number range ids are missing from NZOGPS Auckland
@@ -24,5 +25,5 @@ Start = 2025-03-25 10:53:57 +1300
 0 Number range ids are in NZOGPS Auckland but missing from LINZ
 #############################
 
-Finish = 2025-03-25 10:54:02 +1300
-Processing time = 5.378255
+Finish = 2025-04-30 00:07:37 +1200
+Processing time = 5.960769

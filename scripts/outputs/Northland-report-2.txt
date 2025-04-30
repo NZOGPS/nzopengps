@@ -1,30 +1,11 @@
-Start = 2025-03-25 10:53:23 +1300
+Start = 2025-04-30 00:06:59 +1200
 #############################
 
-16 LINZ ids are missing from NZOGPS Northland
-;linzid=3085027	Tuatua Tce	-35.1126203065867,173.942105203719
-;linzid=3085132	Te Waahi Toka Rahi Way	-35.3171412379706,173.7848271897
-;linzid=3085133	Boulder Way	-35.3171412379706,173.7848271897
-;linzid=3085139	Panorama Rise	-36.0763428101035,174.552868138563
-;linzid=3085140	Scenic Way	-36.0763428101035,174.552868138563
-;linzid=3085141	Little Lane	-36.2057965857046,174.167515432118
-;linzid=3085148	Te Rawhiti Rd	-35.1152672272752,173.939899448064
-;linzid=3085183	Robert Bruce Pl	-35.9835483305675,174.43506743489
-;linzid=3085134	Ngaungau Lane	-35.3243396249548,173.933762995175
-;linzid=3085220	Awa Lane	-35.2310364488378,173.963321078149
-;linzid=3085221	Stoney Bay Lane	-34.993952398731,173.490161076039
-;linzid=3085241	Blackwell Lane	-36.380772250606,174.653345836985
-;linzid=3085242	Heimdal Way	-34.9954340099851,173.507101719647
-;linzid=3085243	Harbour View Rise	-35.0014118791283,173.564878168933
-;linzid=3085244	Te Ara Tika	-35.4073525784788,173.804033642009
-;linzid=3085263	Wendys Lane	-36.1714948866861,174.558151594965
+1 LINZ ids are missing from NZOGPS Northland
+;linzid=3085354	Lodore Rd E	-35.2649798449677,173.82373451334
 #############################
 
-4 LINZ ids are in NZOGPS Northland but missing from LINZ
-;linzid=3085029	Pipitea Way	-35.11572,173.94056
-;linzid=3084299	Tuatua Tce	-35.11262,173.94216
-;linzid=3084585	Sentinel Cres	-36.38133,174.65758
-;linzid=3085024	Tuaru Rd	-35.11526,173.93991
+0 LINZ ids are in NZOGPS Northland but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Northland
@@ -33,5 +14,5 @@ Start = 2025-03-25 10:53:23 +1300
 0 Number range ids are in NZOGPS Northland but missing from LINZ
 #############################
 
-Finish = 2025-03-25 10:53:25 +1300
-Processing time = 2.572274
+Finish = 2025-04-30 00:07:01 +1200
+Processing time = 2.545869

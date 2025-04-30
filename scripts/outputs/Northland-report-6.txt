@@ -1,9 +1,7 @@
-Start = 2025-03-25 10:54:02 +1300
+Start = 2025-04-30 00:07:37 +1200
 linzid	street_name	street_name_2	official_street_name
-3084444	Mahoe Lane		Mahoe Tce	-35.23136,173.95104
-3085028	Te Rawhiti Rd		Pipitia Tce	-35.10885,173.94705
-3084582	Blackwell Lane		Sentinel Cres	-36.37922,174.65458
+3079352	Maturiki Dr		Matariki Dr	-35.83504,174.46009
 #############################
 
-Finish = 2025-03-25 10:54:05 +1300
-Processing time = 2.437105
+Finish = 2025-04-30 00:07:39 +1200
+Processing time = 2.272906

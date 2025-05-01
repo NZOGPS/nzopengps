@@ -1,14 +1,7 @@
-Start = 2025-04-30 00:07:10 +1200
+Start = 2025-05-01 17:08:04 +1200
 #############################
 
-7 LINZ ids are missing from NZOGPS Central
-;linzid=3085289	Romney St	-39.682889502571,176.867398262231
-;linzid=3085290	Gables Way	-39.6815294861851,176.865191614831
-;linzid=3085291	Jameson Lane	-39.6839251154932,176.866283110453
-;linzid=3085292	Whyte Lane	-39.6831117575614,176.86940632704
-;linzid=3085293	Bull Hill Lane	-39.6798896285656,176.868153942741
-;linzid=3085298	Kowhiti Dr	-39.9317334587447,175.006739534744
-;linzid=3085352	Kekeno Cres	-39.0589310833,174.0338007167
+0 LINZ ids are missing from NZOGPS Central
 #############################
 
 0 LINZ ids are in NZOGPS Central but missing from LINZ
@@ -20,5 +13,5 @@ Start = 2025-04-30 00:07:10 +1200
 0 Number range ids are in NZOGPS Central but missing from LINZ
 #############################
 
-Finish = 2025-04-30 00:07:15 +1200
-Processing time = 4.6781
+Finish = 2025-05-01 17:08:08 +1200
+Processing time = 4.043047

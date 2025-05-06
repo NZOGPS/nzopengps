@@ -1,0 +1,8 @@
+southland
+canterbury
+tasman
+wellington
+central
+waikato
+auckland
+northland

@@ -1,9 +1,7 @@
-Start = 2025-05-04 00:16:49 +1200
+Start = 2025-05-07 00:05:00 +1200
 #############################
 
-2 LINZ ids are missing from NZOGPS Waikato
-;linzid=3085345	Te Whaa Lane	-37.6267160531682,175.174354516502
-;linzid=3085346	Te Maki Cl	-37.5520492480024,175.923961450527
+0 LINZ ids are missing from NZOGPS Waikato
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -15,5 +13,5 @@ Start = 2025-05-04 00:16:49 +1200
 0 Number range ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
-Finish = 2025-05-04 00:16:54 +1200
-Processing time = 4.578876
+Finish = 2025-05-07 00:05:06 +1200
+Processing time = 5.475544

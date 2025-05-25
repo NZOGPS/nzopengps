@@ -1,7 +1,6 @@
-Start = 2025-04-30 00:07:37 +1200
+Start = 2025-05-25 20:12:33 +1200
 linzid	street_name	street_name_2	official_street_name
-3079352	Maturiki Dr		Matariki Dr	-35.83504,174.46009
 #############################
 
-Finish = 2025-04-30 00:07:39 +1200
-Processing time = 2.272906
+Finish = 2025-05-25 20:12:35 +1200
+Processing time = 1.598159

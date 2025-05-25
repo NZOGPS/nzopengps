@@ -1,7 +1,10 @@
-Start = 2025-05-14 23:41:58 +1200
+Start = 2025-05-21 12:54:52 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Waikato
+3 LINZ ids are missing from NZOGPS Waikato
+;linzid=3085370	Merehira Rd	-37.4172572341366,175.148538341711
+;linzid=3085379	Tutumua Lane	-37.7428244851957,175.232818379769
+;linzid=3085380	Hauhake Lane	-37.6481921871037,176.028644057781
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -13,5 +16,5 @@ Start = 2025-05-14 23:41:58 +1200
 0 Number range ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
-Finish = 2025-05-14 23:42:02 +1200
-Processing time = 4.541756
+Finish = 2025-05-21 12:54:59 +1200
+Processing time = 6.623909

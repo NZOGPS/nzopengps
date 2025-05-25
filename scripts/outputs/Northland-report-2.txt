@@ -1,8 +1,7 @@
-Start = 2025-04-30 00:06:59 +1200
+Start = 2025-05-25 20:12:31 +1200
 #############################
 
-1 LINZ ids are missing from NZOGPS Northland
-;linzid=3085354	Lodore Rd E	-35.2649798449677,173.82373451334
+0 LINZ ids are missing from NZOGPS Northland
 #############################
 
 0 LINZ ids are in NZOGPS Northland but missing from LINZ
@@ -14,5 +13,5 @@ Start = 2025-04-30 00:06:59 +1200
 0 Number range ids are in NZOGPS Northland but missing from LINZ
 #############################
 
-Finish = 2025-04-30 00:07:01 +1200
-Processing time = 2.545869
+Finish = 2025-05-25 20:12:33 +1200
+Processing time = 1.633334

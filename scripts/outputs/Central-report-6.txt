@@ -1,7 +1,6 @@
-Start = 2025-05-01 22:16:14 +1200
+Start = 2025-05-25 20:12:47 +1200
 linzid	street_name	street_name_2	official_street_name
-3085189	Priory Dr		Priory Pl	-39.50442,176.84013
 #############################
 
-Finish = 2025-05-01 22:16:17 +1200
-Processing time = 3.298013
+Finish = 2025-05-25 20:12:50 +1200
+Processing time = 3.226581

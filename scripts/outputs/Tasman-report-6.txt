@@ -1,6 +1,9 @@
-Start = 2025-05-30 00:11:08 +1200
+Start = 2025-06-05 12:17:10 +1200
 linzid	street_name	street_name_2	official_street_name
+3085155	Totara Rise		Totara Rd	-41.33605,172.11159
+3085155	Totara Rise		Totara Rd	-41.33475,172.10372
+3085155	Totara Rise		Totara Rd	-41.33561,172.10689
 #############################
 
-Finish = 2025-05-30 00:11:10 +1200
-Processing time = 2.03359
+Finish = 2025-06-05 12:17:13 +1200
+Processing time = 2.990942

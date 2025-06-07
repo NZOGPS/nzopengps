@@ -1,7 +1,6 @@
-Start = 2025-06-05 12:17:33 +1200
+Start = 2025-06-08 01:44:29 +1200
 linzid	street_name	street_name_2	official_street_name
-1807895	Harpers Ave		Harper Ave	-38.18315,175.22010
 #############################
 
-Finish = 2025-06-05 12:17:39 +1200
-Processing time = 6.417431
+Finish = 2025-06-08 01:44:33 +1200
+Processing time = 4.528345

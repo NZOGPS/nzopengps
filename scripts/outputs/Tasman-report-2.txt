@@ -1,10 +1,7 @@
-Start = 2025-06-05 12:16:15 +1200
+Start = 2025-06-07 20:53:48 +1200
 #############################
 
-3 LINZ ids are missing from NZOGPS Tasman
-;linzid=3085388	Patiti Wai Lane	-41.5460018554708,174.042959630132
-;linzid=3085389	Elliot Peak Way	-41.1162150434557,173.6624709863
-;linzid=3085391	Bombers Run	-41.5670914387098,173.756411353306
+0 LINZ ids are missing from NZOGPS Tasman
 #############################
 
 0 LINZ ids are in NZOGPS Tasman but missing from LINZ
@@ -16,5 +13,5 @@ Start = 2025-06-05 12:16:15 +1200
 0 Number range ids are in NZOGPS Tasman but missing from LINZ
 #############################
 
-Finish = 2025-06-05 12:16:19 +1200
-Processing time = 4.571324
+Finish = 2025-06-07 20:53:50 +1200
+Processing time = 2.024947

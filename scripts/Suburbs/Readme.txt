@@ -24,6 +24,9 @@ Per-tile processing:
 		Generate convex hull of roads with given city in cities (interest only?)
 		Generate reports of:
 			unmatched cities
+				This is where the city doesn't match the LINZ cities. This could be due to:
+					Spelling has changed
+					Could be a duplicate city?
 			unused cities
 				CARE: not all lines are actually imported, so may not be reported
 			roads that are not within the area of the matching LINZ city / suburb
@@ -67,3 +70,8 @@ UPDATED TO DO:
 	modify changemp tp also change endlevel based on population? Nah? Better manually...
 	add documentation for index_pois
 	(DONE - standardise) decide on either coding around variable number of regions or standardise on all regions in each map
+	recheck this list. What is actually done?
+	Amalgamate process_tile and indexPOIs
+
+BUG?
+	Why is Colyton reported as unused in Central, even though Forlongs Rd Ext -40.16767 175.67881 is indexed as Colyton, is numbered, and appears in central_numberlines?

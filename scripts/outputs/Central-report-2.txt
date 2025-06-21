@@ -1,4 +1,4 @@
-Start = 2025-06-06 00:47:18 +1200
+Start = 2025-06-21 18:56:26 +1200
 #############################
 
 0 LINZ ids are missing from NZOGPS Central
@@ -13,5 +13,5 @@ Start = 2025-06-06 00:47:18 +1200
 0 Number range ids are in NZOGPS Central but missing from LINZ
 #############################
 
-Finish = 2025-06-06 00:47:22 +1200
-Processing time = 3.935715
+Finish = 2025-06-21 18:56:30 +1200
+Processing time = 3.512734

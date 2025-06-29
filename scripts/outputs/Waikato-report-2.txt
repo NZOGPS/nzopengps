@@ -1,19 +1,10 @@
-Start = 2025-06-25 14:06:49 +1200
+Start = 2025-06-30 00:57:27 +1200
 #############################
 
-8 LINZ ids are missing from NZOGPS Waikato
-;linzid=3085432	Huntaway Rd	-37.4193964137198,175.148145054385
-;linzid=3085433	Steer St	-37.4182797645794,175.146482788343
-;linzid=3085434	Whakamau St	-37.418842812195,175.145687061088
-;linzid=3085435	Montgomery St	-37.4195075868757,175.146414104254
-;linzid=3085445	Libertia Lane	-37.7208878682294,175.276073852792
-;linzid=3085444	Michelia Mews	-37.7210804660021,175.276615442076
-;linzid=3085443	Laurel Dr	-37.7207554358853,175.275425279508
-;linzid=3085446	Red Maple Way	-37.7207554358853,175.275425279508
+0 LINZ ids are missing from NZOGPS Waikato
 #############################
 
-1 LINZ ids are in NZOGPS Waikato but missing from LINZ
-;linzid=3074372	Accessway	-37.10920,175.29544
+0 LINZ ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Waikato
@@ -22,5 +13,5 @@ Start = 2025-06-25 14:06:49 +1200
 0 Number range ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
-Finish = 2025-06-25 14:06:54 +1200
-Processing time = 5.964892
+Finish = 2025-06-30 00:57:32 +1200
+Processing time = 5.41516

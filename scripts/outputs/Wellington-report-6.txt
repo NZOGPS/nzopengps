@@ -1,8 +1,7 @@
-Start = 2025-06-29 23:49:27 +1200
+Start = 2025-06-30 00:25:19 +1200
 linzid	street_name	street_name_2	official_street_name
 3026891	Napier Rd		State Highway 3	-40.33642,175.83317
-3026891	Napier Rd		State Highway 3	-40.30796,175.76759
 #############################
 
-Finish = 2025-06-29 23:49:30 +1200
-Processing time = 2.9784
+Finish = 2025-06-30 00:25:22 +1200
+Processing time = 2.897279

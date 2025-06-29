@@ -1,6 +1,7 @@
 nzogps_name,nzogps_city,nzogps_region,nzogps_cityidx,nzsl_nameascii,nzsl_majornameascii,nzsl_id,secondary,comment
 Moana,,16,203,Moana,Moana,2360,0,
-Mount Pleasant,,7,262,Mount Pleasant,Mount Pleasant,8701,,
-Richmond,,13,56,Richmond,Richmond,2538,,
-Waiau,,3,23,Waiau,Waiau,1770,,
-Wairau Valley,,7,211,Wairau Valley,Wairau Valley,2260,,
+Mount Pleasant,,7,262,Mount Pleasant,Mount Pleasant,8701,0,
+Richmond,,13,56,Richmond,Richmond,2538,0,
+Waiau,,3,23,Waiau,Waiau,1770,0,
+Wairau Valley,,7,211,Wairau Valley,Wairau Valley,2260,0,
+Cobb Reservoir,,13,79,Kahurangi National Park,Kahurangi National Park,2752,1,

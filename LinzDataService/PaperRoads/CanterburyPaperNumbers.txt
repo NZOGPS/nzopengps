@@ -22,7 +22,7 @@
 1785199	E,36,50	O,71,71	Power Road	Flaxton (Canterbury, NZ)
 1780903	E,66,66	Cracroft Street	Hinds (Canterbury, NZ)
 1783813	E,4,36	O,1,1	Edmunds Road	Ohoka (Canterbury, NZ)
-1784950	E,534,534	Smarts Road	Loburn
+1784950	B,523,534	Smarts Road	Loburn
 3023127	E,110,110	O,87,99	Harpers Road	Okuku (Canterbury, NZ)
 1785139	E,2,90	O,1,69	B,427,580	Trig Road	View Hill --(Canterbury, NZ)
 1779857	E,38,40	Valley Road	Greta Valley (Canterbury, NZ)

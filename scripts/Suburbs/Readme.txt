@@ -62,6 +62,7 @@ TO DO:
 		Without index: 540s With 25s
 	or pre-transform roads to nztm?
 	Pre-index roads in new linz imports. Done.
+	FIX UP MapPOIs/NearPOIs. Should be doing inside of LINZ area, not ours! Needs another join.
 
 UPDATED TO DO:
 	Changemp should add CityIDX after City=Y

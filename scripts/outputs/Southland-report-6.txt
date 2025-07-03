@@ -1,6 +1,11 @@
-Start = 2025-06-25 14:07:05 +1200
+Start = 2025-07-03 00:21:19 +1200
 linzid	street_name	street_name_2	official_street_name
+3083226	Kawariki Crt		Kawariki Lane	-45.03339,169.19956
+3083223	Plover Crt		Plover Lane	-45.03357,169.19855
+3083223	Plover Crt		Plover Lane	-45.03379,169.19724
+3083223	Plover Crt		Plover Lane	-45.03366,169.19802
+3083223	Plover Crt		Plover Lane	-45.03339,169.19956
 #############################
 
-Finish = 2025-06-25 14:07:10 +1200
-Processing time = 5.186692
+Finish = 2025-07-03 00:21:25 +1200
+Processing time = 5.564767

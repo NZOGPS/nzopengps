@@ -7,8 +7,10 @@
 copy( select st_x(the_geom),st_y(the_geom), cp.label,city,cityid
 	from :ptable cp 
 	join :ctable cc on cc.label = cp.label
+	join nz_suburbs_and_localities nzsl on nzsl.id = nzslid
 	where itype <= 4352 
 		and cityidx = 0
 		and iscity = 'Y'
-		and st_contains(stbound,the_geom)
+		and st_contains(wkb_geometry, the_geom)
+	order by label
 ) to :outfile with CSV;

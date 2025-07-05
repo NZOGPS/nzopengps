@@ -1,12 +1,7 @@
-Start = 2025-07-03 00:20:33 +1200
+Start = 2025-07-05 02:57:33 +1200
 #############################
 
-8 LINZ ids are missing from NZOGPS Northland
-;linzid=3085386	Avocado Lane	-35.7387084869896,174.264364180681
-;linzid=3085394	Warren Pl	-35.7340031432226,174.307447625404
-;linzid=3085426	Jacob Pl	-36.1077070757911,174.582889831747
-;linzid=3085427	Isabel Lane	-36.1073726528632,174.582660582467
-;linzid=3085429	Pateretere Pl	-35.0350081006673,173.907914705163
+3 LINZ ids are missing from NZOGPS Northland
 ;linzid=3085447	Waiomio Downs Lane	-35.4382532697713,174.075193215782
 ;linzid=3085448	Te Oranga Lane	-35.2241051409779,173.950578401331
 ;linzid=3085449	Kaingahoa Dr	-35.2357951875606,174.260526533355
@@ -21,5 +16,5 @@ Start = 2025-07-03 00:20:33 +1200
 0 Number range ids are in NZOGPS Northland but missing from LINZ
 #############################
 
-Finish = 2025-07-03 00:20:35 +1200
-Processing time = 2.293583
+Finish = 2025-07-05 02:57:36 +1200
+Processing time = 2.769116

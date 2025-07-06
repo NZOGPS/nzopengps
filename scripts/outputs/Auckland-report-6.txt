@@ -1,4 +1,4 @@
-Start = 2025-07-06 02:22:29 +1200
+Start = 2025-07-07 00:13:40 +1200
 linzid	street_name	street_name_2	official_street_name
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
 3081506	Farronfore Rd		Farranfore Rd	-37.08113,174.95167
@@ -6,5 +6,5 @@ linzid	street_name	street_name_2	official_street_name
 1830965	Hull Rd (4WD only, closed in Winter)		Hull Rd	-36.64738,174.58702
 #############################
 
-Finish = 2025-07-06 02:22:35 +1200
-Processing time = 6.060269
+Finish = 2025-07-07 00:13:44 +1200
+Processing time = 4.868858

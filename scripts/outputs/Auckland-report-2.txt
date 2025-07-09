@@ -1,7 +1,7 @@
-Start = 2025-07-07 00:13:34 +1200
+Start = 2025-07-09 23:42:32 +1200
 #############################
 
-23 LINZ ids are missing from NZOGPS Auckland
+29 LINZ ids are missing from NZOGPS Auckland
 ;linzid=3085393	Ara Mata	-36.8361146775664,175.733420947493
 ;linzid=3085400	Huarahi Rd	-36.6147144075568,174.641753917469
 ;linzid=3085402	Keywella Wlk	-37.0435400346871,174.903635686782
@@ -25,6 +25,12 @@ Start = 2025-07-07 00:13:34 +1200
 ;linzid=3085422	Lambert Rd	-36.6144129095996,174.64496409825
 ;linzid=3085423	Kiwakiwa St	-36.6121628444863,174.640940396827
 ;linzid=3085424	Heruheru St	-36.6121628444863,174.640940396827
+;linzid=3085473	Battersby Lane	-36.743346041771,174.734594031841
+;linzid=3085458	Takarore Cres	-36.9660743744387,174.926620996867
+;linzid=3085468	Te Wera Nopera Way	-36.8766678745317,174.857137823672
+;linzid=3085469	Kukuwai Lane	-36.8897457628164,174.864898055107
+;linzid=3085474	Irwin Lane	-36.7431309767259,174.734911819112
+;linzid=3085475	Ahuru Dr	-36.6249197909878,174.794613271937
 #############################
 
 1 LINZ ids are in NZOGPS Auckland but missing from LINZ
@@ -34,8 +40,9 @@ Start = 2025-07-07 00:13:34 +1200
 0 Number range ids are missing from NZOGPS Auckland
 #############################
 
-0 Number range ids are in NZOGPS Auckland but missing from LINZ
+1 Number range ids are in NZOGPS Auckland but missing from LINZ
+;linznumbid=1000161	linzid=3027695	State Highway 1	-36.39167,174.65109
 #############################
 
-Finish = 2025-07-07 00:13:39 +1200
-Processing time = 5.398918
+Finish = 2025-07-09 23:42:37 +1200
+Processing time = 4.421093

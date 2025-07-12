@@ -1,12 +1,7 @@
-Start = 2025-07-09 00:31:43 +1200
+Start = 2025-07-12 18:56:29 +1200
 #############################
 
-5 LINZ ids are missing from NZOGPS Wellington
-;linzid=3085450	Taratahi Park Lane	-40.9367774676234,175.553366844408
-;linzid=3085465	Corrib Grv	-40.3381150459826,175.604159244349
-;linzid=3085466	Elm Rd	-40.3903790813265,175.615366084286
-;linzid=3085467	Drysdale Dr	-40.3893848597892,175.616725167022
-;linzid=3085472	Moutere Rd	-40.7673157439197,175.140965912674
+0 LINZ ids are missing from NZOGPS Wellington
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -18,5 +13,5 @@ Start = 2025-07-09 00:31:43 +1200
 0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2025-07-09 00:31:47 +1200
-Processing time = 4.887213
+Finish = 2025-07-12 18:56:32 +1200
+Processing time = 3.084328

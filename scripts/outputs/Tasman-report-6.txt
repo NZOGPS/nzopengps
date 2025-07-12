@@ -1,7 +1,6 @@
-Start = 2025-07-09 00:32:10 +1200
+Start = 2025-07-12 17:38:01 +1200
 linzid	street_name	street_name_2	official_street_name
-3082790	Chesterfield Ave		Chesterfield Lane	-41.33387,173.15997
 #############################
 
-Finish = 2025-07-09 00:32:12 +1200
-Processing time = 2.76611
+Finish = 2025-07-12 17:38:04 +1200
+Processing time = 2.088466

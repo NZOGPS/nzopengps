@@ -1,4 +1,4 @@
-Start = 2025-07-09 23:42:32 +1200
+Start = 2025-07-12 17:38:23 +1200
 #############################
 
 29 LINZ ids are missing from NZOGPS Auckland
@@ -44,5 +44,5 @@ Start = 2025-07-09 23:42:32 +1200
 ;linznumbid=1000161	linzid=3027695	State Highway 1	-36.39167,174.65109
 #############################
 
-Finish = 2025-07-09 23:42:37 +1200
-Processing time = 4.421093
+Finish = 2025-07-12 17:38:28 +1200
+Processing time = 4.067277

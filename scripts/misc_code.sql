@@ -687,3 +687,10 @@ $$ language plpgsql;
 select label,cityid,nzslid,rgnidx, slidinregion(nzslid,rgnidx) as slinr from canterbury_cities
 where nzslid is not null
 and slidinregion(nzslid,rgnidx)<> '0'
+
+select * from nzogps_regions nzo 
+	join regional_council src 
+		on src.regc_00 = nzo.regc_00
+	join southland_cities sc
+		on sc.rgnidx = nzo.rgnidx::integer
+	where not st_contains(wkb_geometry,stbound) or st_overlaps(wkb_geometry,stbound)

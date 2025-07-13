@@ -1,0 +1,18 @@
+REGC_00,REGC_NAME_ASCII,RgnIDX,nzogps_rgn
+99,Area Outside Region,99,XXX
+2,Auckland,1,Auckland
+4,Bay of Plenty Region,2,Bay of Plenty
+13,Canterbury Region,3,Canterbury
+5,Gisborne Region,4,Gisborne
+6,Hawke's Bay Region,5,Hawke's Bay
+8,Manawatu-Whanganui Region,6,Manawatu-Wanganui
+18,Marlborough Region,7,Marlborough
+17,Nelson Region,8,Nelson
+1,Northland Region,9,Northland
+14,Otago Region,10,Otago
+15,Southland Region,11,Southland
+7,Taranaki Region,12,Taranaki
+16,Tasman Region,13,Tasman
+3,Waikato Region,14,Waikato
+9,Wellington Region,15,Wellington
+12,West Coast Region,16,West Coast

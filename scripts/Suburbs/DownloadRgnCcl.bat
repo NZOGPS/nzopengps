@@ -33,4 +33,4 @@ for %%f in ("%nzogps_NZRC%") do (
 set nzogps_NZRC=..\..\LinzDataService\Regions\nzogps_regions.csv
 %nzogps_ogr2ogr% --config PG_USE_COPY TRUE -f "PostgreSQL" "PG:host=localhost user=postgres  dbname=nzopengps" -lco OVERWRITE=yes %nzogps_NZRC%
 
-%nzogps_psql_bin%psql -U postgres -d nzopengps -c "select * from nzogps_regions nzo join regional_council src on src.regc_00 = nzo.regc_00 where src.regc_name_ascii <> nzo.regc_name_ascii"
+%nzogps_psql_bin%psql -U postgres -d nzopengps -f ..\..\LinzDataService\Regions\nzogps_regions.sql

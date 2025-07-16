@@ -688,7 +688,7 @@ select label,cityid,nzslid,rgnidx, slidinregion(nzslid,rgnidx) as slinr from can
 where nzslid is not null
 and slidinregion(nzslid,rgnidx)<> '0'
 
-select * from nzogps_regions nzo 
+create table temp_southland_not_contains as select sc.rgnidx,src.regc_00,cityid,label,city,stbound,nzslid from nzogps_regions nzo 
 	join regional_council src 
 		on src.regc_00 = nzo.regc_00
 	join southland_cities sc

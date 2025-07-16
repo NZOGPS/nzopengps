@@ -1,7 +1,11 @@
-Start = 2025-07-13 00:32:11 +1200
+Start = 2025-07-17 01:48:12 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Wellington
+4 LINZ ids are missing from NZOGPS Wellington
+;linzid=3085488	Napier Rd	-40.3366587346805,175.818607557579
+;linzid=3085487	Te Ahu a Turanga - Manawatu Tararua Hwy	-40.30695355573,175.770242562787
+;linzid=3085490	Napier Rd	-40.3095179682995,175.76334280876
+;linzid=3085491	Waipuna Rd	-40.3336272311689,175.845203119487
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -13,5 +17,5 @@ Start = 2025-07-13 00:32:11 +1200
 0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2025-07-13 00:32:15 +1200
-Processing time = 3.513968
+Finish = 2025-07-17 01:48:18 +1200
+Processing time = 5.788918

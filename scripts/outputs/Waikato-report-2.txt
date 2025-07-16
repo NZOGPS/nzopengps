@@ -1,7 +1,14 @@
-Start = 2025-07-12 17:42:36 +1200
+Start = 2025-07-17 01:48:24 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Waikato
+7 LINZ ids are missing from NZOGPS Waikato
+;linzid=3085480	Toitu St	-37.6365294370125,175.525336136189
+;linzid=3085481	Jersey St	-37.6390866964502,175.528017005217
+;linzid=3085482	Lingard St	-37.6394096393911,175.527295507825
+;linzid=3085483	Harrop Pl	-37.6398237002594,175.526323959809
+;linzid=3085484	Barlow St	-37.6401347890519,175.525593142827
+;linzid=3085485	Tirohia St	-37.6394096393911,175.527295507825
+;linzid=3085486	Lily Pond Lane	-37.5652023771007,175.919694711692
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -13,5 +20,5 @@ Start = 2025-07-12 17:42:36 +1200
 0 Number range ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
-Finish = 2025-07-12 17:42:41 +1200
-Processing time = 4.648491
+Finish = 2025-07-17 01:48:31 +1200
+Processing time = 6.605327

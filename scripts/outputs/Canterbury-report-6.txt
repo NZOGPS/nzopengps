@@ -1,11 +1,8 @@
-Start = 2025-07-18 00:29:17 +1200
+Start = 2025-07-22 12:58:25 +1200
 linzid	street_name	street_name_2	official_street_name
 3033541	Cascade Pyke Valley Rd		Cascade Pyke Valley Road - legality not determined	-44.31153,168.22678
-3084165	Johnswoods Ave		Johnswood Ave	-43.44775,172.62685
-3084165	Johnswoods Ave		Johnswood Ave	-43.44992,172.62499
-3084165	Johnswoods Ave		Johnswood Ave	-43.44853,172.62658
-3084165	Johnswoods Ave		Johnswood Ave	-43.44795,172.62679
+3083501	Robonson St		Robinson St	-43.31123,172.66802
 #############################
 
-Finish = 2025-07-18 00:29:20 +1200
-Processing time = 3.583165
+Finish = 2025-07-22 12:58:30 +1200
+Processing time = 5.189692

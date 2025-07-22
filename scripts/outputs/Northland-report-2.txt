@@ -1,13 +1,14 @@
-Start = 2025-07-17 01:47:53 +1200
+Start = 2025-07-22 12:57:25 +1200
 #############################
 
-6 LINZ ids are missing from NZOGPS Northland
+7 LINZ ids are missing from NZOGPS Northland
 ;linzid=3085447	Waiomio Downs Lane	-35.4382532697713,174.075193215782
 ;linzid=3085448	Te Oranga Lane	-35.2241051409779,173.950578401331
 ;linzid=3085449	Kaingahoa Dr	-35.2357951875606,174.260526533355
 ;linzid=3085471	Kanae Way	-35.7298667836436,174.310533103816
 ;linzid=3024897	Great North Rd	-36.3903220358204,174.647807261166
 ;linzid=3085499	Stevens Way	-35.7387970743964,174.220804173063
+;linzid=3085522	Stuarts Rise	-35.0297145055792,173.296489051999
 #############################
 
 0 LINZ ids are in NZOGPS Northland but missing from LINZ
@@ -19,5 +20,5 @@ Start = 2025-07-17 01:47:53 +1200
 0 Number range ids are in NZOGPS Northland but missing from LINZ
 #############################
 
-Finish = 2025-07-17 01:47:56 +1200
-Processing time = 2.787212
+Finish = 2025-07-22 12:57:27 +1200
+Processing time = 2.424523

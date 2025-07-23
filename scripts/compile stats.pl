@@ -1,7 +1,9 @@
 use strict;
+use POSIX qw( strftime );
 my @filenames = ("Northland","Auckland","Waikato","Central","Wellington","Tasman","Canterbury","Southland");
-my $ofn = "gdb-compile-times.txt";
-my $currtime;
+my $gofn = "gdb-compile-times.txt";
+my $nofn = "numbering-times.txt";
+my $nowts;
 
 sub tdiff {
 	my $t1 = shift;
@@ -42,55 +44,125 @@ sub tdiff {
 	return sprintf("%02d:%02d:%02d",$hd,$mid,$sd);
 }
 
-if (! -f $ofn ){
-	open(OFILE,">>",$ofn) or die "cannot create $ofn\n";
+sub doGPX {
+	open(OFILE,">>",$gofn) or die "cannot open $gofn\n";
+	for my $fn (@filenames){
+	#	print "file is $fn\n";
+		my $lfn = "outputs\\$fn-report-5.txt";
+		my $start;
+		my $endGPX;
+		my $endGDB;
+		my $gpxtime;
+		my $gdbtime;
+
+		open(LOGF,$lfn) or die "cannot open $lfn\n";
+	#	print "opened $lfn\n";
+		while (<LOGF>){
+			if (/^Start = (.*)/){
+				$start = $1;
+			}
+			if (/^Finish Database query =(.*)/){
+				$endGPX = $1;
+			}
+			if (/^Finish convert to gdb =(.*)/){
+				$endGDB = $1;
+			}
+		}
+		close LOGF;
+		if (!defined($start)){
+			die "start time not found in $lfn\n";
+		}
+		if (!defined($endGPX)){
+			die "End convert time not found in $lfn\n";
+		}
+		if (!defined($endGDB)){
+			die "End gpx time not found in $lfn\n";
+		}
+		$gpxtime = tdiff($endGPX,$start);
+		$gdbtime = tdiff($endGDB,$endGPX);
+		
+		print OFILE "$fn\t$start\t$endGPX\t$endGDB\t$gpxtime\t$gdbtime\n";
+	}
+	$nowts = strftime('%Y-%m-%d %H:%M:%S %z', localtime);
+	print OFILE "(collated)\t$nowts\n"; 
+	close OFILE;
+}
+
+sub doNumbering {
+	open(OFILE,">>",$nofn) or die "cannot open $nofn\n";
+	for my $fn (@filenames){
+	#	print "file is $fn\n";
+		my $lfn = "..\\linzdataservice\\outputslinz\\$fn-report-3b.txt";
+		my $start;
+		my $end;
+		my $Sections; 
+		my $SectionsCI;
+		my $SectionsNN;
+		my $SectionsNA;
+		my $SectionsNAA;
+		my $SectionsNA0A;
+		my $time;
+		
+		open(LOGF,$lfn) or die "cannot open $lfn\n";
+	#	print "opened $lfn\n";
+		while (<LOGF>){
+			if (/^Start = (.*)/){
+				$start = $1;
+			}
+			if (/^Finish =(.*)/){
+				$end = $1;
+			}
+			if (/^count_of_sections\t([0-9]+)/){
+				$Sections = $1;
+			}
+			if (/^count_of_sections_city_indexed\t([0-9]+)/){
+				$SectionsCI = $1;
+			}
+			if (/^count_of_sections_needing_numbering\t([0-9]+)/){
+				$SectionsNN = $1;
+			}
+			if (/^count_of_sections_no_numbering_attempted\t([0-9]+)/){
+				$SectionsNA = $1;
+			}
+			if (/^count_of_sections_numbering_attempted_and_added\t([0-9]+)/){
+				$SectionsNAA = $1;
+			}
+			if (/^count_of_sections_numbering_attempted_but_zero_added\t([0-9]+)/){
+				$SectionsNA0A = $1;
+			}
+
+		}
+		close LOGF;
+		if (!defined($start)){
+			die "start time not found in $lfn\n";
+		}
+		if (!defined($end)){
+			die "End time not found in $lfn\n";
+		}
+		if (!defined($Sections)){
+			die "Sections count not found in $lfn\n";
+		}
+		$time = tdiff($end,$start);
+		
+		print OFILE "$fn\t$start\t$end\t$time\t$Sections\t$SectionsCI\t$SectionsNN\t$SectionsNA\t$SectionsNAA\t$SectionsNA0A\n";
+	}
+	$nowts = strftime('%Y-%m-%d %H:%M:%S %Z', localtime);
+	print OFILE "(collated)\t$nowts\n"; 
+	close OFILE;
+}
+
+if (! -f $gofn ){
+	open(OFILE,">>",$gofn) or die "cannot create $gofn\n";
 	print OFILE "File\tStart\tEnd gpx\tEnd gdb\tGPX time\tGDB time\n";
 	close OFILE;
 }
-open(OFILE,">>",$ofn) or die "cannot open $ofn\n";
-for my $fn (@filenames){
-#	print "file is $fn\n";
-	my $lfn = "outputs\\$fn-report-5.txt";
-	my $start;
-	my $endGPX;
-	my $endGDB;
-	my $gpxtime;
-	my $gdbtime;
-	my $tz;
-	
-	open(LOGF,$lfn) or die "cannot open $lfn\n";
-#	print "opened $lfn\n";
-	while (<LOGF>){
-		if (/^Start = (.*)/){
-			$start = $1;
-		}
-		if (/^Finish Database query =(.*)/){
-			$endGPX = $1;
-		}
-		if (/^Finish convert to gdb =(.*)/){
-			$endGDB = $1;
-		}
-	}
-	close LOGF;
-	if (!defined($start)){
-		die "start time not found in $lfn\n";
-	}
-	if (!defined($endGPX)){
-		die "End convert time not found in $lfn\n";
-	}
-	if (!defined($endGDB)){
-		die "End gpx time not found in $lfn\n";
-	}
-	$gpxtime = tdiff($endGPX,$start);
-	$gdbtime = tdiff($endGDB,$endGPX);
-	
-	print OFILE "$fn\t$start\t$endGPX\t$endGDB\t$gpxtime\t$gdbtime\n";
+if (! -f $nofn ){
+	open(OFILE,">>",$nofn) or die "cannot create $nofn\n";
+	print OFILE "File\tStart\tEnd\tTime\tSections\tSections CI\tSections NN\tSections NA\tSections NAA\tSections NA0A\n";
+	close OFILE;
 }
-$currtime = localtime(time);
-print OFILE "(collated)\t$currtime\n"; 
-close OFILE;
 
-	
-	
+doGPX();
+doNumbering();
 
 

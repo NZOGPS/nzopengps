@@ -1,5 +1,6 @@
 \timing
-copy( select st_x(the_geom),st_y(the_geom), cp.label, cp.type, codehex, population_estimate
+-- 01:07 29/07/25 put codehex (desired) before type so it appears in the POI
+copy( select st_x(the_geom),st_y(the_geom), cp.label, codehex, cp.type, population_estimate
 	FROM :ptable cp
 	JOIN :ctable cc
 		on cityidx = cityid

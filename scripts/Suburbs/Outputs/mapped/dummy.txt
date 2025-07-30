@@ -1,1 +1,2 @@
-File to force creation of folder on new installs
+Edited mp files with auto-linked and auto-typed by population city POI get created here
+This file is here to force creation of folder on new installs

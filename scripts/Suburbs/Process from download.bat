@@ -11,7 +11,7 @@ move %nzogps_download%\%nzogps_dl_fn% .
 del lds-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%.*
 %nzogps_unzip_cmd% %nzogps_dl_fn% -olds-%nzogps_ex_pt%-CSV %nzogps_ex_pt%.*
 if not exist lds-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%.csv echo suburb files not found in zip file %nzogps_dl_fn% & goto :myeof
-%nzogps_perl_cmd% renzip.pl
+%nzogps_perl_cmd% renzip.pl %nzogps_dl_fn%
 :myeof
 cd %nzogps_here%
 set nzogps_NZSL=..\..\LinzDataService\lds-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%.csv

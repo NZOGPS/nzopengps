@@ -25,7 +25,17 @@ tilenum = $(subst Northland,1,$(subst Auckland,2,$(subst Waikato,3,$(subst Centr
 all : $(addprefix $(OUTPUTS)/, $(addsuffix -WrongCities2.csv, $(TILES)))
 .PHONY: all
 
-$(OUTPUTS)/%-WrongCities2.csv : $(BASE)\%.mp $(LINZ)\lds-$(NZSL)-CSV\$(NZSL).csv
+$(OUTPUTS)/%-WrongCities2.csv : $(BASE)\%.mp $(LINZ)\$(NZSL).sentinel
 	process_tile.bat $*
 
+$(LINZ)\lds-$(NZSL)-CSV\$(NZSL).csv : $(DLOAD)\lds-$(NZSL)-CSV.zip
+	del /Q $(LINZ)\lds-$(NZSL)-CSV\*
+	$(nzogps_unzip_cmd) $< -o$(LINZ)\lds-$(NZSL)-CSV
+	grep -q  "EPSG:4167" $(LINZ)\lds-$(NZSL)-CSV\$(NZSL).vrt
+	mv $< $(LINZ)\*
+
+$(LINZ)\$(NZSL).sentinel : $(LINZ)\lds-$(NZSL)-CSV\$(NZSL).csv
+	%nzogps_ogr2ogr% --config PG_USE_COPY TRUE -f "PostgreSQL" "PG:host=localhost user=postgres  dbname=nzopengps" -lco OVERWRITE=yes -lco GEOMETRY_NAME=wkb_geometry -oo GEOM_POSSIBLE_NAMES=WKT $<
+	%nzogps_psql_bin%psql -U postgres -d nzopengps < Code\postproc.sql
+	echo database updated sentinel > $@
 

@@ -14,6 +14,7 @@ my $pval;
 my %changes;
 my %diffcodes;
 my $changed = 0;
+my $debug = 0;
 
 sub readCSV {
 
@@ -48,7 +49,7 @@ sub readCSV {
 					splice(@splitvals,2,2,"$s2,$1");
 				}
 			}
-			($val{'x'},$val{'y'},$city,$val{'oldcode'},$val{'newcode'},$val{'popn'}) = @splitvals;
+			($val{'x'},$val{'y'},$city,$val{'newcode'},$val{'oldcode'},$val{'popn'}) = @splitvals;
 			$diffcodes{$city}={%val};
 		}
 	}
@@ -101,14 +102,15 @@ sub dochunk {
 				$vars{'y'}=\@y;
 			}
 		}
+
 		if (/^\[END/){
 #			print STDERR ("x: @x y: @y\n");
 #			print STDERR ("x0: $x[0],$vars{'x'}->[0]\n");
 			if (defined $vars{kind} && $vars{kind} eq 'POI'){
 				if (defined $vars{'Label'}){
-
+#					print STDERR ("Label match $vars{'Label'}\n");
 					if (defined $changes{$vars{'Label'}}){
-	#					 print STDERR Dumper $changes{$vars{'Label'}},$changes{$vars{'Label'}}->{'x'};
+#						 print STDERR Dumper $changes{$vars{'Label'}},$changes{$vars{'Label'}}->{'x'};
 						if (defined $vars{'x'} && $vars{'x'}->[0]==$changes{$vars{'Label'}}->{'x'}){
 							if (defined $vars{'y'} && $vars{'y'}->[0]==$changes{$vars{'Label'}}->{'y'}){
 								if ($changes{$vars{'Label'}}->{'city'} ne '""'){
@@ -122,22 +124,22 @@ sub dochunk {
 					}
 
 					if (defined $diffcodes{$vars{'Label'}}){
-	#					 print STDERR Dumper $diffcodes{$vars{'Label'}},$diffcodes{$vars{'Label'}}->{'x'};
+						if ($debug & 4) {print STDERR "DC1: ", Dumper $diffcodes{$vars{'Label'}},$diffcodes{$vars{'Label'}}->{'x'}};
 						if (defined $vars{'x'} && $vars{'x'}->[0]==$diffcodes{$vars{'Label'}}->{'x'}){
 							if (defined $vars{'y'} && $vars{'y'}->[0]==$diffcodes{$vars{'Label'}}->{'y'}){
 								if (defined $vars{'Type'} && $vars{'Type'} eq $diffcodes{$vars{'Label'}}->{'oldcode'}){
-									#print STDERR "$vars{'Label'},$diffcodes{$vars{'Label'}}->{'oldcode'},$diffcodes{$vars{'Label'}}->{'newcode'}\n";
+									if ($debug & 4) { print STDERR "Match: ", "$vars{'Label'},$diffcodes{$vars{'Label'}}->{'oldcode'},$diffcodes{$vars{'Label'}}->{'newcode'}\n"};
 									$tbuf =~ s/Type=$diffcodes{$vars{'Label'}}->{'oldcode'}/Type=$diffcodes{$vars{'Label'}}->{'newcode'}/;
 									$changed++;
 									$diffcodes{$vars{'Label'}}->{'done'}=1;
 								} else {
-									# print STDERR "Not type - $vars{'Label'} $diffcodes{$vars{'Label'}}->{'oldcode'}\n";
+									if ($debug & 4) { print STDERR "Not type - $vars{'Label'} $diffcodes{$vars{'Label'}}->{'oldcode'}\n"};
 								}
 							} else {
-								# print STDERR "Not y - $vars{'y'}->[0] $diffcodes{$vars{'Label'}}->{'y'}\n";
+								if ($debug & 4) { print STDERR "Not y - $vars{'y'}->[0] $diffcodes{$vars{'Label'}}->{'y'}\n"};
 							}
 						} else {
-							# print STDERR "Not x - $vars{'Label'}  $vars{'y'}->[0],$vars{'x'}->[0] $diffcodes{$vars{'Label'}}->{'y'},$diffcodes{$vars{'Label'}}->{'x'}\n";
+							if ($debug & 4) { print STDERR "Not x - $vars{'Label'}  $vars{'y'}->[0],$vars{'x'}->[0] $diffcodes{$vars{'Label'}}->{'y'},$diffcodes{$vars{'Label'}}->{'x'}\n"};
 						}
 					}
 				}

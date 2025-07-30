@@ -1,41 +1,24 @@
-173.842122671098,-35.9452631953628,Baylys Coast Rd,"Shouldbe: Dargaville, Parore",564
-174.632441804399,-36.376524702734,SH1,Shouldbe: Dome Forest,457
-174.639998300852,-36.3845554974327,SH1,Shouldbe: Dome Forest,0
-173.652555303147,-35.7212704297797,Trounson Park Rd,Shouldbe: Donnellys Crossing,1199
-173.618526423201,-35.710348545238,Katui Rd,Shouldbe: Donnellys Crossing,1021
-173.59854142914,-35.7058822155693,Katui Rd,Shouldbe: Donnellys Crossing,777
-173.112081947367,-34.7419800689979,Henderson Bay Rd,Shouldbe: Houhora,2938
-174.161905342529,-35.4675413822354,Monument Rd,Shouldbe: Hukerenui,616
-174.184851697858,-35.4625122703162,Monument Rd,Shouldbe: Hukerenui,2685
-174.182985056244,-35.5322065589848,Crows Nest Rd,Shouldbe: Hukerenui,0
-173.868898463614,-35.0219465431323,Wainui Rd,Shouldbe: Kaeo,739
-173.646340479193,-35.0547996629607,Taratara Rd,Shouldbe: Kaeo,1238
-173.761415589599,-35.0817161387385,Whangaroa Rd,Shouldbe: Kaeo,2731
 173.776263873709,-35.488140697803,Mataraua Rd,Shouldbe: Kaikohe,1053
 173.764041109565,-35.5028199303837,Mataraua Rd,Shouldbe: Kaikohe,648
-173.322663451291,-35.0498463855795,Church Rd,Shouldbe: Kaingaroa,1732
 173.321671059633,-35.0485708547222,Church Rd,Shouldbe: Kaingaroa,1768
-174.524174364357,-36.3874611987698,Tauhoa Rd,Shouldbe: Kaipara Flats,616
+173.322663451291,-35.0498463855795,Church Rd,Shouldbe: Kaingaroa,1732
 173.3444483,-35.1740137,Crene Rd,Shouldbe: Kaitaia,665
 173.249783825252,-35.1297330485272,Kaitaia-Awaroa Rd,Shouldbe: Kaitaia,149
-173.9150038,-35.1529538,Stanners Rd,Shouldbe: Kerikeri,1111
 173.912869558477,-35.1787666197285,Stanners Rd,Shouldbe: Kerikeri,274
 173.923182487208,-35.242522514297,Blue Gum Lane,Shouldbe: Kerikeri,120
+173.9150038,-35.1529538,Stanners Rd,Shouldbe: Kerikeri,1111
 173.481802824114,-35.3600034490189,West Coast Rd,Shouldbe: Kohukohu,144
 174.197216412795,-35.717749145345,McKinley Rd,Shouldbe: Kokopu,441
 174.555293326672,-36.055145564437,Tarata Pl,Shouldbe: Langs Beach,1738
 173.747649160446,-35.9123751297971,Babylon Coast Rd,"Shouldbe: Mamaranui, Omamari",0
-174.492170234784,-36.3800207255792,Tauhoa Rd,Shouldbe: Mangakura,0
-174.516914356285,-36.3852456716187,Tauhoa Rd,"Shouldbe: Dome Forest, Mangakura",156
-174.518431056397,-36.3856928800187,Tauhoa Rd,"Shouldbe: Dome Forest, Kaipara Flats, Mangakura",188
 174.249802266552,-35.8590818048362,Hayward Rd,"Shouldbe: Mangapai, Maungakaramea",1628
-174.4985309,-36.1002097,Brown Rd,Shouldbe: Mangawhai,0
 174.576154115558,-36.1105497256295,Molesworth Dr,Shouldbe: Mangawhai,76
 174.57655669039,-36.1105520225392,Molesworth Dr,Shouldbe: Mangawhai,76
+174.4985309,-36.1002097,Brown Rd,Shouldbe: Mangawhai,0
 174.574157429006,-36.0748871430287,Woodleigh Lane,Shouldbe: Mangawhai,95
+174.279432627352,-36.0371574996124,Paparoa-Oakleigh Rd,Shouldbe: Mareretu,26
 174.2794696,-36.0398832,Paparoa-Oakleigh Rd,Shouldbe: Mareretu,329
 174.243114508266,-36.0423780722795,Arcadia Rd,Shouldbe: Mareretu,0
-174.279432627352,-36.0371574996124,Paparoa-Oakleigh Rd,Shouldbe: Mareretu,26
 174.697075028182,-36.3267172569283,Smith Rd,Shouldbe: Matakana,290
 174.135682107424,-36.1607494804742,Te Kowhai Rd,Shouldbe: Matakohe,2296
 174.454779118018,-35.607785337883,Kaiatea Rd,Shouldbe: Matapouri,0
@@ -54,7 +37,6 @@
 174.769734350893,-36.282621591409,Rodney Rd,"Shouldbe: Pakiri, Whangateau",12
 173.403997411958,-35.3310880111079,Humphreys Rd,Shouldbe: Panguru,1035
 174.27939930199,-36.0403852466129,Paparoa-Oakleigh Rd,"Shouldbe: Mareretu, Paparoa",364
-173.782948960965,-35.9453391613911,Baylys Coast Rd,Shouldbe: Parore,0
 174.418588495119,-35.7265136243608,Mt Tiger Rd,Shouldbe: Parua Bay,231
 173.497710938007,-35.0474000623176,Garton Rd,Shouldbe: Peria,77
 174.128094949441,-35.7070426769558,Kokopu Rd,Shouldbe: Poroti,0
@@ -62,24 +44,24 @@
 174.314480684872,-35.7936486722684,Portland Rd,Shouldbe: Portland,601
 174.037982588812,-36.2196083060178,Pouto Rd,Shouldbe: Pouto,553
 174.034433014713,-35.8732987755947,Pukehuia Rd,Shouldbe: Pukehuia,0
-173.106857025439,-34.8190335460064,Korakanui A Rua Rd,Shouldbe: Pukenui,0
 173.144368596254,-34.8550423015357,Motutangi Rd,Shouldbe: Pukenui,1251
+173.106857025439,-34.8190335460064,Korakanui A Rua Rd,Shouldbe: Pukenui,0
 173.793348288063,-35.2114430132633,Puketi Recreation Area Access Rd,Shouldbe: Puketi Forest,2841
-174.11576461012,-35.6047443564621,Riponui Rd,Shouldbe: Purua,1025
 174.116940676675,-35.5942803068924,Riponui Rd,Shouldbe: Purua,547
+174.11576461012,-35.6047443564621,Riponui Rd,Shouldbe: Purua,1025
 173.435533627906,-35.1685640063423,SH1,Shouldbe: Raetea Forest,0
 174.319481803172,-35.7520724108316,Kioreroa Rd,Shouldbe: Raumanga,10
 173.544547234425,-35.4596185196729,Duddy Rd,Shouldbe: Rawene,23
 174.460139432879,-35.838838178988,Kentia Crt,Shouldbe: Ruakaka,96
-174.1500163,-35.6752664,Buchanan Rd,Shouldbe: Ruatangata West,82
-174.222716092352,-35.680801797734,Three Mile Bush Rd,Shouldbe: Ruatangata West,526
 174.15926889465,-35.6558530093841,Pipiwai Rd,Shouldbe: Ruatangata West,719
+174.222716092352,-35.680801797734,Three Mile Bush Rd,Shouldbe: Ruatangata West,526
 174.2104251,-35.6703749,Thorburn Rd,Shouldbe: Ruatangata West,0
+174.1500163,-35.6752664,Buchanan Rd,Shouldbe: Ruatangata West,82
 174.216881774123,-35.6755867766928,Three Mile Bush Rd,"Shouldbe: Matarau, Ruatangata West",1056
 173.999490748314,-36.0427634148603,Inch Rd,Shouldbe: Ruawai,0
 174.729033819975,-36.3899912989457,Sandspit Rd,Shouldbe: Sandspit,1239
-174.270817791414,-35.9670973587859,Harrison Rd,Shouldbe: Taipuha,710
 174.27381613665,-35.9584842454819,Harrison Rd,Shouldbe: Taipuha,489
+174.270817791414,-35.9670973587859,Harrison Rd,Shouldbe: Taipuha,710
 174.261172175296,-35.9808890400246,Harrison Rd,Shouldbe: Taipuha,565
 174.417992895371,-35.8348851581485,Takahiwai Rd,Shouldbe: Takahiwai,552
 173.813094702775,-35.7358307397633,Tangowahine Valley Rd,Shouldbe: Tangowahine,71
@@ -89,10 +71,8 @@
 174.3232037,-35.6882479,Puna Rere Dr,Shouldbe: Tikipunga,251
 173.699664928148,-35.055438416562,SH10,Shouldbe: Totara North,46
 173.089137835469,-34.8983025774158,Hukatere Rd,Shouldbe: Waiharara,1979
-173.571481881402,-35.6934686139564,Waipoua Settlement Rd,"Shouldbe: Aranga, Waipoua Forest",1207
-173.560402914932,-35.6757931391572,Waipoua Settlement Rd,"Shouldbe: Aranga, Waipoua, Waipoua Forest",1176
-174.455791514334,-35.942588555266,Golf Club Acess Road,Shouldbe: Waipu,1403
 174.413174038367,-36.0346765371345,Waipu Gorge Rd,Shouldbe: Waipu,2520
+174.455791514334,-35.942588555266,Golf Club Acess Road,Shouldbe: Waipu,1403
 174.546100512319,-36.2277222183285,Wharfe Rd,Shouldbe: Wellsford,129
 174.293386436925,-35.5247723009142,Pigs Head Rd,Shouldbe: Whakapara,132
 174.30258422319,-35.4781610531483,Russell Rd,Shouldbe: Whakapara,1086

@@ -18,6 +18,8 @@ if not defined nzogps_ogr2ogr call ..\..\setlocals.bat
 net start %nzogps_psql_svc%
 rem if you get error 5 on win8 doing net start - look here: https://thommck.wordpress.com/2011/12/02/how-to-allow-non-admins-to-start-and-stop-system-services/
 
+@%nzogps_psql_bin%psql -U postgres -d nzopengps -c "SELECT ST_ASTEXT(ST_POINT(45,45))" | grep -q "POINT(45 45)"
+if errorlevel 1 echo Error - No PostGIS installed?  & pause & exit 1
 
 for %%f in ("%nzogps_sae%" "%nzogps_rcl%") do (
  grep -q  "EPSG:4167" %%~dpnf.vrt
@@ -25,9 +27,6 @@ if errorlevel 1 echo Wrong projection  & pause & exit 1
 )
 
 time /t
-
-rem delete eventually
-rem %nzogps_ogr2ogr% --config PG_USE_COPY TRUE -f "PostgreSQL" "PG:host=localhost user=postgres  dbname=nzopengps" -lco OVERWRITE=yes "%nzogps_osae%"
 
 rem get AIMS-address-reference to calc road_id
 %nzogps_ogr2ogr% --config PG_USE_COPY TRUE -f "PostgreSQL" "PG:host=localhost user=postgres  dbname=nzopengps" -lco OVERWRITE=yes "%nzogps_AIMS_AR%"

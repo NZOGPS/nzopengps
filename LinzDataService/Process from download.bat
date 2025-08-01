@@ -9,12 +9,12 @@ set nzogps_dl_fn=lds-new-zealand-2layers-CSV.zip
 move %nzogps_download%\%nzogps_dl_fn% .
 
 set nzogps_ex_pt=nz-roads-subsections-addressing
-del lds-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%.*
+if exist lds-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%.*  del lds-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%.*
 %nzogps_unzip_cmd% %nzogps_dl_fn% -olds-%nzogps_ex_pt%-CSV %nzogps_ex_pt%\%nzogps_ex_pt%.*
 if not exist lds-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%.csv echo Road centre line  files not found in zip file %nzogps_dl_fn% & goto :eof
 
 set nzogps_ex_pt=nz-addresses
-del lds-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%.*
+if exist lds-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%.*  del lds-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%.*
 %nzogps_unzip_cmd% %nzogps_dl_fn% -olds-%nzogps_ex_pt%-CSV %nzogps_ex_pt%\%nzogps_ex_pt%.*
 if not exist lds-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%.csv echo Address files not found in zip file %nzogps_dl_fn% & goto :eof
 %nzogps_perl_cmd% renzip.pl
@@ -25,7 +25,7 @@ move %nzogps_download%\%nzogps_dl_fn% .
 rem no nz in dir name
 rem no subdir in single file output-old
 set nzogps_ex_pt=AIMS-address-reference
-del lds-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%.*
+if exist lds-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%.* del lds-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%.*
 %nzogps_unzip_cmd% %nzogps_dl_fn% -olds-%nzogps_ex_pt%-CSV %nzogps_ex_pt%.*
 if not exist lds-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%.csv echo Address reference files not found in zip file %nzogps_dl_fn% & goto :eof
 %nzogps_perl_cmd% renzip.pl
@@ -43,6 +43,7 @@ rem %nzogps_perl_cmd% -i.bak -pe "s/-deprecated//" lds-%nzogps_ex_pt%-CSV\%nzogp
 :xx
 cd ..\scripts\postgres
 call update.bat
+if errorlevel 1 goto :eof
 cd ..
 start %nzogps_donumbers%
 cd ..\linzdataservice

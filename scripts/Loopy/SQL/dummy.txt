@@ -1,0 +1,2 @@
+This is where loopy sql files go.
+Dummy to create output folder.

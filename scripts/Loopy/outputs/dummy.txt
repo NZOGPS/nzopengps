@@ -1,0 +1,2 @@
+This is where loopy output CSV files go.
+Dummy to create output folder.

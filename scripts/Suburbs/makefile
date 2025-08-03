@@ -13,7 +13,7 @@ LINZ = $(BASE)\LinzDataService
 LINZO = $(LINZ)\outputslinz
 NZSL = nz-suburbs-and-localities
 NUMBERS = $(BASE)\numbers
-OUTPUTS = outputs
+OUTPUTS = Outputs
 PSQL = $(nzogps_psql_bin)\psql
 ZIPIT = $(nzogps_zip_cmd)
 UNZIP = $(nzogps_unzip_cmd)
@@ -26,7 +26,7 @@ tilenum = $(subst Northland,1,$(subst Auckland,2,$(subst Waikato,3,$(subst Centr
 all : $(addprefix $(OUTPUTS)/, $(addsuffix -WrongCities2.csv, $(TILES)))
 .PHONY: all
 
-$(OUTPUTS)/%-WrongCities2.csv : $(BASE)\%.mp $(LINZ)\$(NZSL).sentinel $(LINZ)\CityXlate\%_cidxlt.csv
+$(OUTPUTS)/%-WrongCities2.csv : $(BASE)\%.mp $(LINZ)\$(NZSL).sentinel $(LINZ)\CityXlate\%_cidxlt.csv $(LINZ)\CityXlate\%_dont_cityindex.csv
 	process_tile.bat $*
 
 $(LINZ)\lds-$(NZSL)-CSV\$(NZSL).csv : $(DLOAD)\lds-$(NZSL)-CSV.zip

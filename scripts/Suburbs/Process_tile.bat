@@ -18,6 +18,10 @@ set nzogps_CXLT=..\..\LinzDataService\CityXlate\%1_cidxlt.csv
 if exist %nzogps_CXLT% %nzogps_ogr2ogr% -overwrite --config PG_USE_COPY TRUE -f "PostgreSQL" "PG:host=localhost user=postgres  dbname=nzopengps" -oo autodetect_type=yes %nzogps_CXLT%
 if exist %nzogps_CXLT% %nzogps_psqlc% -v ctable=%1_cities -v xtable=%1_cidxlt -v of1='%nzogps_base%\scripts\suburbs\Outputs\%1-WrongXLTCityID.csv' -v of2='%nzogps_base%\scripts\suburbs\Outputs\%1-WrongXLTSLID.csv' -f Code\procxlt.sql
 
+set nzogps_CDNE=..\..\LinzDataService\CityXlate\%1_dont_cityindex.csv
+if exist %nzogps_CDNE% %nzogps_ogr2ogr% -overwrite --config PG_USE_COPY TRUE -f "PostgreSQL" "PG:host=localhost user=postgres  dbname=nzopengps" -oo autodetect_type=yes %nzogps_CDNE%
+if exist %nzogps_CDNE% %nzogps_psqlc% -v ctable=%1_cities -v ditable=%1_dont_cityindex -f Code\proccdni.sql
+
 %nzogps_psqlc% -v ctable=%1_cities -v outfile='%nzogps_base%\scripts\suburbs\Outputs\%1-UnmatchedCities.csv' -f Code\unmatched.sql
 %nzogps_psqlc% -v ctable=%1_cities -v outfile='%nzogps_base%\scripts\suburbs\Outputs\%1-UnusedCities.csv' -f Code\unused.sql
 

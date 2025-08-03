@@ -1,9 +1,9 @@
-nzogps_name,nzogps_city,nzogps_region,nzogps_cityidx,nzsl_nameascii,nzsl_majornameascii,nzsl_id,secondary,comment
-Awarua,,9,63,Awarua,Kaikohe,2055,0,
-Cable Bay,,9,49,Cable Bay,Cable Bay,2807,,
-Kaingaroa,,9,38,Kaingaroa,Kaitaia,3872,,
-Oakura,,9,88,Oakura,Hikurangi,1070,,
-Otaua,,9,61,Otaua,Kaikohe,1160,,
-Pakaraka,,9,68,Pakaraka,Moerewa,2416,,
-Waipoua Forest,,9,118,Waipoua Forest,Aranga,2775,,
-Waipoua Forest (DOC),,9,119,Waipoua Forest,Northland Conservation Park,6561,,
+nzogps_name,nzogps_city,nzogps_region,nzogps_cityidx,nzsl_nameascii,nzsl_majornameascii,nzsl_id,secondary,force,comment
+Awarua,,9,63,Awarua,Kaikohe,2055,0,0,
+Cable Bay,,9,49,Cable Bay,Cable Bay,2807,,,
+Kaingaroa,,9,38,Kaingaroa,Kaitaia,3872,,,
+Oakura,,9,88,Oakura,Hikurangi,1070,,,
+Otaua,,9,61,Otaua,Kaikohe,1160,,,
+Pakaraka,,9,68,Pakaraka,Moerewa,2416,,,
+Waipoua Forest,,9,118,Waipoua Forest,Aranga,2775,,,
+Waipoua Forest (DOC),,9,119,Waipoua Forest,Northland Conservation Park,6561,,,

@@ -1,7 +1,9 @@
-Start = 2025-07-23 00:47:08 +1200
+Start = 2025-08-05 02:24:13 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Tasman
+2 LINZ ids are missing from NZOGPS Tasman
+;linzid=1779738	Gower Rd	-42.7378817484717,173.267107027749
+;linzid=3085525	John Blight Way	-41.3407784834339,173.206561345286
 #############################
 
 0 LINZ ids are in NZOGPS Tasman but missing from LINZ
@@ -13,5 +15,5 @@ Start = 2025-07-23 00:47:08 +1200
 0 Number range ids are in NZOGPS Tasman but missing from LINZ
 #############################
 
-Finish = 2025-07-23 00:47:11 +1200
-Processing time = 2.767056
+Finish = 2025-08-05 02:24:16 +1200
+Processing time = 3.555233

@@ -37,4 +37,6 @@ rem %nzogps_psqlc% -v ctable=%1_cities -v ntable=%1_numberlines -v mdist=5000 -v
 %nzogps_psqlc% -v ctable=%1_cities -v ptable=%1_pois -v outfile='%nzogps_base%\scripts\suburbs\Outputs\%1-checkPOIs.csv' -f Code\checkPOIs.sql
 %nzogps_psqlc% -v ctable=%1_cities -v ptable=%1_pois -v outfile='%nzogps_base%\scripts\suburbs\Outputs\%1-mappois.csv' -f Code\mappois.sql
 
+%nzogps_psqlc% -v ctable=%1_cities -v outfile='%nzogps_base%\scripts\suburbs\Outputs\%1-WrongRegions.csv' -f Code\WrongRegions.sql
+
 %nzogps_perl_cmd% code\changemp2.pl %1 > Outputs\mapped\%1.mp

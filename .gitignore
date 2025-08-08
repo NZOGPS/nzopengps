@@ -10,8 +10,13 @@ installer/tmp
 /scripts/outputs/*.gdb
 /scripts/outputs/*.gpx
 /scripts/outputs/*.csv
+scripts/outputs/*-report-1.txt
+scripts/outputs/*-report-4.txt
+scripts/outputs/*-report-5.txt
 /scripts/postgres/*.sql
 /scripts/suburbs/outputs/mapped/*.mp
+scripts/Suburbs/SQLData/*.sql
+scripts/Suburbs/*.qgz
 /scripts/config.yml
 /scripts/database.date
 /scripts/*.zip

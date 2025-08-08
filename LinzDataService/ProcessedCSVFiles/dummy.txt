@@ -1,0 +1,2 @@
+Downloaded zipped csv files from LINZ and Stats go here after processing
+This file is here to force creation of folder on new installs

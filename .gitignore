@@ -5,11 +5,13 @@ installer/tmp
 /LinzDataService/lds-nz-road-centre-line-electoral-SHP
 /LinzDataService/lds-nz-street-address-electoral-SHP
 /LinzDataService/outputslinz
+/LinzDataService/ProcessedCSVFiles
 /setlocals.bat
 /scripts/outputs/*.gdb
 /scripts/outputs/*.gpx
 /scripts/outputs/*.csv
 /scripts/postgres/*.sql
+/scripts/suburbs/outputs/mapped/*.mp
 /scripts/config.yml
 /scripts/database.date
 /scripts/*.zip

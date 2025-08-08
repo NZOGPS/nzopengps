@@ -1,4 +1,4 @@
-1800499	E,180,498	O,411,411	Parkvale Road		Karori, Wellington (Wellington, NZ)
+1800499	E,180,498	O,411,411	O,231,239	Parkvale Road		Karori, Wellington (Wellington, NZ)
 1797528	O,43,43	Grace Street		Sanson (Manawatu-Wanganui, NZ)
 3042540	O,95,97	Western Hutt Rd		Korokoro, Lower Hutt (Wellington, NZ)
 1805464	O,1,1	O,61,61		Normanby Street		Woodville (Manawatu-Wanganui, NZ)

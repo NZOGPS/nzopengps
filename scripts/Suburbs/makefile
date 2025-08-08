@@ -1,4 +1,4 @@
-SHELL = cmd.exe
+SHELL = C:\WINDOWS\system32\cmd.exe
 ifndef nzogps_base
 $(error nzogps_base environment variable not set - run setlocals first)
 endif

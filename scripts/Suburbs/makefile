@@ -1,4 +1,3 @@
-SHELL = C:\WINDOWS\system32\cmd.exe
 ifndef nzogps_base
 $(error nzogps_base environment variable not set - run setlocals first)
 endif
@@ -26,7 +25,7 @@ tilenum = $(subst Northland,1,$(subst Auckland,2,$(subst Waikato,3,$(subst Centr
 all : $(addprefix $(OUTPUTS)/, $(addsuffix -WrongCities2.csv, $(TILES)))
 .PHONY: all
 
-$(OUTPUTS)/%-WrongCities2.csv : $(BASE)\%.mp $(LINZ)\$(NZSL).sentinel $(LINZ)\CityXlate\%_cidxlt.csv $(LINZ)\CityXlate\%_dont_cityindex.csv
+$(OUTPUTS)/%-WrongCities2.csv : $(BASE)/%.mp $(LINZ)/$(NZSL).sentinel $(LINZ)\CityXlate\%_cidxlt.csv $(LINZ)\CityXlate\%_dont_cityindex.csv
 	process_tile.bat $*
 
 $(LINZ)\lds-$(NZSL)-CSV\$(NZSL).csv : $(DLOAD)\lds-$(NZSL)-CSV.zip

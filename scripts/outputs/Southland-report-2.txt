@@ -1,8 +1,7 @@
-Start = 2025-08-05 02:24:16 +1200
+Start = 2025-08-09 15:27:31 +1200
 #############################
 
-1 LINZ ids are missing from NZOGPS Southland
-;linzid=3085527	Delaney Loop	-45.0115672344751,168.747559459596
+0 LINZ ids are missing from NZOGPS Southland
 #############################
 
 0 LINZ ids are in NZOGPS Southland but missing from LINZ
@@ -14,5 +13,5 @@ Start = 2025-08-05 02:24:16 +1200
 0 Number range ids are in NZOGPS Southland but missing from LINZ
 #############################
 
-Finish = 2025-08-05 02:24:23 +1200
-Processing time = 7.002815
+Finish = 2025-08-09 15:27:35 +1200
+Processing time = 4.550312

@@ -1,7 +1,7 @@
-Start = 2025-08-19 20:09:23 +1200
+Start = 2025-08-26 14:31:25 +1200
 #############################
 
-16 LINZ ids are missing from NZOGPS Northland
+18 LINZ ids are missing from NZOGPS Northland
 ;linzid=3085447	Waiomio Downs Lane	-35.4382532697713,174.075193215782
 ;linzid=3085448	Te Oranga Lane	-35.2241051409779,173.950578401331
 ;linzid=3085449	Kaingahoa Dr	-35.2357951875606,174.260526533355
@@ -18,6 +18,8 @@ Start = 2025-08-19 20:09:23 +1200
 ;linzid=3085539	Blue Penguin Pl	-36.1130707919073,174.571555569653
 ;linzid=3085540	Hydro Lane	-36.1113986023745,174.572354067064
 ;linzid=3085554	Stan Semenoff Lane	-35.7484562811582,174.315651097473
+;linzid=3085574	Patiti Lane	-35.9537070069511,173.861122586278
+;linzid=3085575	Rakau Cl	-35.954371558643,173.863669966843
 #############################
 
 0 LINZ ids are in NZOGPS Northland but missing from LINZ
@@ -29,5 +31,5 @@ Start = 2025-08-19 20:09:23 +1200
 0 Number range ids are in NZOGPS Northland but missing from LINZ
 #############################
 
-Finish = 2025-08-19 20:09:26 +1200
-Processing time = 2.757629
+Finish = 2025-08-26 14:31:28 +1200
+Processing time = 2.919675

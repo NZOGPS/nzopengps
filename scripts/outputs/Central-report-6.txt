@@ -1,6 +1,7 @@
-Start = 2025-08-19 20:10:21 +1200
+Start = 2025-08-26 14:32:28 +1200
 linzid	street_name	street_name_2	official_street_name
+3082535	Whariki Rise		Wharariki Rise	-38.72716,176.08392
 #############################
 
-Finish = 2025-08-19 20:10:25 +1200
-Processing time = 4.899563
+Finish = 2025-08-26 14:32:34 +1200
+Processing time = 5.974031

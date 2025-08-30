@@ -1,7 +1,7 @@
-Start = 2025-08-19 20:10:15 +1200
+Start = 2025-08-26 14:32:21 +1200
 linzid	street_name	street_name_2	official_street_name
 3083226	Kawariki Lane		Kawariki Crt	-45.03339,169.19956
 #############################
 
-Finish = 2025-08-19 20:10:20 +1200
-Processing time = 5.820866
+Finish = 2025-08-26 14:32:27 +1200
+Processing time = 6.203401

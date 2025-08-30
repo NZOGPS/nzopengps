@@ -1,4 +1,4 @@
-Start = 2025-08-19 20:09:30 +1200
+Start = 2025-08-26 14:31:32 +1200
 #############################
 
 3 LINZ ids are missing from NZOGPS Southland
@@ -16,5 +16,5 @@ Start = 2025-08-19 20:09:30 +1200
 0 Number range ids are in NZOGPS Southland but missing from LINZ
 #############################
 
-Finish = 2025-08-19 20:09:36 +1200
-Processing time = 6.041886
+Finish = 2025-08-26 14:31:38 +1200
+Processing time = 6.556188

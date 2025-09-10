@@ -62,7 +62,7 @@ load "nzogps_library.rb"
 initialise_tile_file_handles
 pg_connect
 
-rs = @conn.exec("SELECT road_id as id, road_section_id as rsid, address_range_road_id as addrid, case full_road_name_ascii when '' then road_type else full_road_name_ascii end as name,left_suburb_locality as locality,left_territorial_authority as territoria,st_astext(wkb_geometry) as wkt from #{ROAD_TABLE} where geometry_class = 'Addressing Road'")
+rs = @conn.exec("SELECT road_id as id, road_section_id as rsid, address_range_road_id as addrid, case full_road_name_ascii when '' then road_type else full_road_name_ascii end as name,left_suburb_locality_ascii as locality,left_territorial_authority as territoria,st_astext(wkb_geometry) as wkt from #{ROAD_TABLE} where geometry_class = 'Addressing Road'")
 puts "Database contains #{rs.count} Addressing Roads."
 rs.each do |record|
 	rgeorec=RecEnv.new(record)

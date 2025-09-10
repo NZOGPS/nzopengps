@@ -11,3 +11,9 @@ The column headings should mostly be self-evident.
 The _dont_cityindex files prevent warnings for not having a city city indexed (i.e having a city POI indexed to that city)
 This is probably only useful at the tile borders, where a very small part of a city or locality is on one tile, and most of it is on another.
 I'm guessing somewhat, but it would be confusing to users to choose a city and be navigated to an area on the outskirts that happens to be on another of our tiles.
+
+The xlt_rsa_sal files are to help city indexing. Translate from nz_roads_subsections_addressing to nz_suburbs_and_localities
+Gary got lazy and used the left_suburb_locality in nz_roads_subsections_addressing to do the addressing. 
+Problem is - that isn't quite 1:1 with nz_suburbs_and_localities which our suburbs/cities are now tied to.
+Mostly it's OK, but there are cases of different spellings and capitalisations that muck things up. Saint/St./St is common.
+Adding translations in here improves the rate of getting addressed.

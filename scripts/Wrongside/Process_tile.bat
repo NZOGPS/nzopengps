@@ -16,13 +16,17 @@ if /i %1 equ Southland	%nzogps_psqlc% -c "drop table if exists %1_nums; Create t
 
 if errorlevel 1 goto :EOF
 
-%nzogps_psqlc% -v numstable=%1_nums  -f postpro-nums.sql
+%nzogps_psqlc% -v numstable=%1_nums  -f Code\postpro-nums.sql
 
-mp_2_n_sql.pl %nzogps_base%\%1.mp
+cd TempData
+..\Code\mp_2_n_sql.pl %nzogps_base%\%1.mp
 %nzogps_psqlc% -f %1_numberlines.sql
-%nzogps_psqlc% -v linestable=%1_numberlines -v distance=250 -f postpro-lines.sql
-%nzogps_psqlc% -v linestable=%1_numberlines -v numstable=%1_nums -v outfile='%nzogps_base%\scripts\wrongside\%1-WrongSide.csv' -f intersect.sql
-%nzogps_psqlc% -v linestable=%1_numberlines -v distance=400 -v outfile='%nzogps_base%\scripts\wrongside\%1-Sparsest.csv' -f Sparsest.sql
-rem if you get awrite failure for CSV files you may need toi grant write access for the user for the pg server process e.g. NETWORK SERVICE ? Use task manager/details
-perl wrongsidereport.pl %1 > %1-Wrongside-report.txt
+cd ..
+%nzogps_psqlc% -v linestable=%1_numberlines -v distance=250 -f Code\%nzogps_wsppl%
+%nzogps_psqlc% -v linestable=%1_numberlines -v numstable=%1_nums -v outfile='%nzogps_base%\scripts\wrongside\Outputs\%1-WrongSide.csv' -f Code\intersect.sql
+%nzogps_psqlc% -v linestable=%1_numberlines -v distance=400 -v outfile='%nzogps_base%\scripts\wrongside\Outputs\%1-Sparsest.csv' -f Code\Sparsest.sql
+rem if you get a write failure for CSV files you may need to grant write access for the user for the pg server process e.g. NETWORK SERVICE ? Use task manager/details
+cd Outputs
+perl ..\Code\wrongsidereport.pl %1 > %1-Wrongside-report.txt
+cd ..
 echo Wrongside processing %1 finished %time%

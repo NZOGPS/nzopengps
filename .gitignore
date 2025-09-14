@@ -3,8 +3,36 @@ Checker
 installer/tmp
 /installer/640000??.img
 /installer/640000??.img.idx
+/installer/NZO5_pv.txt
+/installer/*compileLog.txt
+/installer/Free Open GPS NZ Autorouting.*
+/installer/FREE OPEN GPS NZ AUTOROUTING_MDR.IMG
+/installer/????????_FREE_OpenGPS_NZ_Maps_Setup.exe
+/installer/????????_Free_Open_GPS_NZ_Autorouting.gmapi.zip
+/installer/????????_gmapsupp.zip
+installer/makefile
+/installer/old
 /installer/uppercase/640000??.img
 /installer/uppercase/640000??.img.idx
+/installer/uppercase/Free Open GPS NZ Autorouting.*
+/installer/uppercase/FREE OPEN GPS NZ AUTOROUTING_MDR.IMG
+/installer/uppercase/????????_FREE_Uppercase_OpenGPS_NZ_Maps_Setup.exe
+/installer/uppercase/????????_Free_Uppercase_Mac_Open_GPS_NZ_Autorouting.gmapi.zip
+/installer/uppercase/*compileLog.txt
+/installer/uppercase/*-report-8.txt
+/installer/uppercase/BatchCompile.bat
+/installer/uppercase/NZO5_pv.txt
+installer/uppercase/Auckland.mp
+installer/uppercase/Canterbury.mp
+installer/uppercase/Central.mp
+installer/uppercase/NZPOIs3A.mp
+installer/uppercase/NZPOIs3B.mp
+installer/uppercase/Northland.mp
+installer/uppercase/Southland.mp
+installer/uppercase/Tasman.mp
+installer/uppercase/Waikato.mp
+installer/uppercase/Wellington.mp
+/installer/uppercase/old
 /LinzDataService/lds-new-zealand-*.zip
 /LinzDataService/lds-nz-suburbs-and-localities-CSV
 /LinzDataService/lds-nz-road-centre-line-electoral-SHP
@@ -32,6 +60,9 @@ scripts/loopy/outputs/*-loops.csv
 /scripts/suburbs/outputs/mapped/*.mp
 scripts/Suburbs/SQLData/*.sql
 scripts/Suburbs/*.qgz
+scripts/Wrongside/*.qgz
+scripts/Wrongside/TempData/
+scripts/Wrongside/Wrongside times.ods
 /scripts/config.yml
 /scripts/database.date
 /scripts/*.zip

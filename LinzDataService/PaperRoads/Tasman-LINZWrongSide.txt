@@ -92,3 +92,25 @@
 1015227	19 Fenian Road, Karamea	2022/02/04 13:46	-41.215674,172.145195	Same side as 72 up the road
 1310763	2941 Kenepuru Road, Portage	2022/02/04 13:47	-41.200861,174.035618	Amid a whole lot of even numbers.
 1310764	2943 Kenepuru Road, Portage	2022/02/04 13:47	-41.200660,174.035523	ditto
+# New 2025-09-16 00:29:13
+2424326	39 McGowan Street, Puponga, Collingwood	2025/09/16 00:29	-40.524389,172.717733
+2271373	81 McGowan Street, Puponga, Collingwood	2025/09/16 00:30	-40.527447,172.716355
+2303767	217 Avondale Road, Waihopai Valley	2025/09/16 00:30	-41.632477,173.682233
+2303768	367 Avondale Road, Waihopai Valley	2025/09/16 00:30	-41.641569,173.672574
+2303769	591 Avondale Road, Waihopai Valley	2025/09/16 00:31	-41.657924,173.659591
+1470237	583 Te Towaka-Port Ligar Road, Admiralty Bay, Marlborough Sounds	2025/09/16 00:32	-40.980520,173.872948
+2203849	475 Pearse Valley Road, Motueka Valley, Motueka	2025/09/16 00:33	-41.231769,172.776268
+2293505	645 Anakoha Road, Anakoha, Marlborough Sounds	2025/09/16 00:35	-41.058375,174.112693
+2414199	3000 Kenepuru Road, Portage, Marlborough Sounds	2025/09/16 00:36	-41.194319,174.031047
+2313106	3943 Kenepuru Road, Black Rock, Marlborough Sounds	2025/09/16 00:38	-41.184418,174.101294
+2303761	2021 Croisilles Road, Okiwi Bay	2025/09/16 00:42	-41.111948,173.646321
+2303763	2097 Croisilles Road, Okiwi Bay	2025/09/16 00:42	-41.108161,173.647544
+2370392	781 Brooklyn Valley Road, Brooklyn, Motueka	2025/09/16 00:44	-41.097998,172.894484
+2386412	1690 Redwood Pass Road, Lower Dashwood, Seddon	2025/09/16 00:44	-41.632428,174.100802
+2384266	2646 Kaiuma Bay Road, Kaiuma Bay, Havelock	2025/09/16 00:45	-41.239765,173.806462
+2391907	2814 Waihopai Valley Road, Waihopai Valley	2025/09/16 00:45	-41.660478,173.570416
+328371	267 Fabians Valley Road, Onamalutu, Wairau Valley	2025/09/16 00:47	-41.503716,173.570491
+399802	419 Te Hapu Road, Mangarakau, Collingwood	2025/09/16 00:47	-40.607331,172.507402
+1769237	2/55 Birchfield Road, Waimangaroa, Westport	2025/09/16 01:00	-41.701784,171.771223
+2391889	120 Clova Bay Road, Totaranui, Marlborough Sounds	2025/09/16 01:01	-41.108725,174.045322
+2431189	51 Kingfisher Rise, Little Wanganui, Karamea	2025/09/16 01:01	-41.340133,172.110758

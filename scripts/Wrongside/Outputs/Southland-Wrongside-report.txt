@@ -1,13 +1,13 @@
-11 entries in V:\nzopengps\LinzDataService\PaperRoads\southland-WrongSide.txt
-145 entries in V:\nzopengps\LinzDataService\PaperRoads\southland-LINZWrongSide.txt
-149 wrongside numbers, 51 not in Exclusion files
+11 entries in V:\nzopengps\LinzDataService\PaperRoads\Southland-WrongSide.txt
+145 entries in V:\nzopengps\LinzDataService\PaperRoads\Southland-LINZWrongSide.txt
+125 wrongside numbers, 28 not in Exclusion files
 4 entries in Ignore list are no longer on the wrong side
 1578017	16B JOY STREET	2013/10/26 23:16	-45.095919,170.961474
 111752	309C McKenzie Road, Cattle Flat	2019/06/03 22:45	-45.697336,168.785246
 71695	30A Chelmer Street	2015/04/27 20:08	-45.096988,170.956477
 1578018	16C JOY STREET	2013/10/26 23:16	-45.095870,170.961180
 
-54 entries in Linz list are no longer on the wrong side
+55 entries in Linz list are no longer on the wrong side
 1604690	34 ARAMOANA ROAD	2013/10/26 23:35	-45.805825,170.625299
 2215375	847 Lauder Flat Road, Becks, 	2021/08/25 22:14	-44.951139,169.710420	clearly different to rest of road.
 1310098	71 Taieri View Road, North Taieri	2019/10/18 23:12	-45.829152,170.309110	This road numbering is all over the place. Random numbers everywhere...
@@ -52,6 +52,7 @@
 1659059	1 TOKO MOUTH DOMAIN ROAD	2013/10/26 23:07	-46.217525,170.042124
 1410741	129 RESERVOIR ROAD	2013/10/26 23:35	-45.806492,170.600874
 2188965	30 Mason Road, Seaward Bush, Invercargill	2021/08/25 22:04	-46.428282,168.403253	Appears to be a new driveway on some imagery here. But wrong side compared to others on this road.
+1410998	675 Waitati Valley Road, Upper Waitati	2019/10/18 23:53	-45.765794,170.555051	675 would be around S45°45.8068' E170°33.1736'
 2248074	14 McDougall Street, Wanaka	2021/08/25 22:25	-44.700849,169.126159
 1674411	144 PIGEON ROCK ROAD	2013/10/05 23:10	-45.076491,169.196853
 1738353	3705 LUGGATE-CROMWELL ROAD	2013/12/01 13:35	-44.749247,169.291356

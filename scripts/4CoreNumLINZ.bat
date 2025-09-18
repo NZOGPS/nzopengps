@@ -1,6 +1,6 @@
 Title NumLINZ0
 
-set PROCESSING_LIBRARY=3b
+set PROCESSING_LIBRARY=3d
 
 start /low /min %~n01.bat
 start /low /min %~n02.bat

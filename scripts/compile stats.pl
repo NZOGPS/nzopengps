@@ -92,7 +92,7 @@ sub doNumbering {
 	open(OFILE,">>",$nofn) or die "cannot open $nofn\n";
 	for my $fn (@filenames){
 	#	print "file is $fn\n";
-		my $lfn = "..\\linzdataservice\\outputslinz\\$fn-report-3b.txt";
+		my $lfp = "..\\linzdataservice\\outputslinz\\$fn-report-3*.txt";
 		my $start;
 		my $end;
 		my $Sections; 
@@ -102,9 +102,11 @@ sub doNumbering {
 		my $SectionsNAA;
 		my $SectionsNA0A;
 		my $time;
-		
-		open(LOGF,$lfn) or die "cannot open $lfn\n";
-	#	print "opened $lfn\n";
+
+		my @mfns  = sort { (stat $b)[9] <=> (stat $a)[9] } glob($lfp);
+		my $mrnfn = $mfns[0];
+		open(LOGF,$mrnfn) or die "cannot open $mrnfn\n";
+	#	print "opened $mrnfn\n";
 		while (<LOGF>){
 			if (/^Start = (.*)/){
 				$start = $1;
@@ -134,13 +136,13 @@ sub doNumbering {
 		}
 		close LOGF;
 		if (!defined($start)){
-			die "start time not found in $lfn\n";
+			die "start time not found in $mrnfn\n";
 		}
 		if (!defined($end)){
-			die "End time not found in $lfn\n";
+			die "End time not found in $mrnfn\n";
 		}
 		if (!defined($Sections)){
-			die "Sections count not found in $lfn\n";
+			die "Sections count not found in $mrnfn\n";
 		}
 		$time = tdiff($end,$start);
 		

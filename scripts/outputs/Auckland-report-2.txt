@@ -1,4 +1,4 @@
-Start = 2025-09-13 15:35:00 +1200
+Start = 2025-09-16 21:57:24 +1200
 #############################
 
 5 LINZ ids are missing from NZOGPS Auckland
@@ -18,5 +18,5 @@ Start = 2025-09-13 15:35:00 +1200
 0 Number range ids are in NZOGPS Auckland but missing from LINZ
 #############################
 
-Finish = 2025-09-13 15:35:04 +1200
-Processing time = 4.270588
+Finish = 2025-09-16 21:57:29 +1200
+Processing time = 5.28289

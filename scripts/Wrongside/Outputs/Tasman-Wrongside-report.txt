@@ -1,16 +1,15 @@
 36 entries in V:\nzopengps\LinzDataService\PaperRoads\tasman-WrongSide.txt
 Warning: 2243490 on line 90 in V:\nzopengps\LinzDataService\PaperRoads\tasman-LINZWrongSide.txt - This ID is also set in the ignore file
-110 entries in V:\nzopengps\LinzDataService\PaperRoads\tasman-LINZWrongSide.txt
-91 wrongside numbers, 3 not in Exclusion files
+113 entries in V:\nzopengps\LinzDataService\PaperRoads\tasman-LINZWrongSide.txt
+93 wrongside numbers,  not in Exclusion files
 2 entries in Ignore list are no longer on the wrong side
 2243490	2820 Tadmor-Glenhope Road, Glenhope	2022/02/04 13:36	-41.636471,172.662247
 641623	17 Seawatch Way, Atawhai, Nelson	2022/02/04 13:25	-41.255562,173.315656
 
-56 entries in Linz list are no longer on the wrong side
+54 entries in Linz list are no longer on the wrong side
 1308030	291 BILL BRYANTS ROAD	2014/06/10 20:34	-41.044106,173.751340
 398370	126 Uruwhenua Road	2014/07/18 23:49	-40.996303,172.815299	Slightly the wrong side of the physical road
 1932207	590 Abel Tasman Drive, Clifton	2019/05/12 16:55	-40.843652,172.864235	Other addresses on this road match RAPID numbering.
-1413663	256 ELAINE BAY ROAD	2014/06/10 20:43	-41.054553,173.774734
 1302792	2624 PORT UNDERWOOD ROAD	2014/06/10 21:21	-41.345719,174.082644
 1308038	765 BILL BRYANTS ROAD	2014/06/10 20:36	-41.042752,173.727465
 1128970	1095 MAITAI VALLEY ROAD	2014/06/10 22:29	-41.290704,173.371719
@@ -59,7 +58,6 @@ Warning: 2243490 on line 90 in V:\nzopengps\LinzDataService\PaperRoads\tasman-LI
 1308037	703 BILL BRYANTS ROAD	2014/06/10 20:36	-41.040656,173.730720
 1310763	2941 Kenepuru Road, Portage	2022/02/04 13:47	-41.200861,174.035618	Amid a whole lot of even numbers.
 1015223	1350 MCCALLUMS MILL ROAD	2014/06/09 22:00	-41.151900,172.190000
-1629255	516 TAPPS ROAD	2014/06/10 22:20	-41.330536,173.652791
 339747	17 HUNTER ROAD	2014/06/10 21:53	-41.430385,173.965751
 321241	48 Biggsburn Way	2014/07/19 01:07	-41.216772,173.345598
 1676843	585 UMERE ROAD	2014/06/09 22:48	-41.256351,172.186081	 Change of side compared to further south

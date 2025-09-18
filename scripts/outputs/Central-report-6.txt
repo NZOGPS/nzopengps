@@ -1,4 +1,4 @@
-Start = 2025-09-09 14:11:52 +1200
+Start = 2025-09-16 21:57:40 +1200
 linzid	street_name	street_name_2	official_street_name
 1817421	Kerry Lane		Kerry Rd	-39.56210,174.26838
 1817614	Fitzgerald Lane		Fitzgerald Rd	-39.56638,174.27246
@@ -6,5 +6,5 @@ linzid	street_name	street_name_2	official_street_name
 1817614	Fitzgerald Lane		Fitzgerald Rd	-39.56606,174.26783
 #############################
 
-Finish = 2025-09-09 14:11:56 +1200
-Processing time = 4.819512
+Finish = 2025-09-16 21:57:44 +1200
+Processing time = 4.166486

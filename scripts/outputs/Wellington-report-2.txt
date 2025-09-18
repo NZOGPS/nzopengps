@@ -1,10 +1,12 @@
-Start = 2025-09-13 15:34:40 +1200
+Start = 2025-09-16 21:57:08 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Wellington
+1 LINZ ids are missing from NZOGPS Wellington
+;linzid=3085598	Flax Grv	-40.4775709853528,175.291364396862
 #############################
 
-0 LINZ ids are in NZOGPS Wellington but missing from LINZ
+1 LINZ ids are in NZOGPS Wellington but missing from LINZ
+;linzid=3065015	~[0x04]1	-40.63749,175.27128
 #############################
 
 0 Number range ids are missing from NZOGPS Wellington
@@ -13,5 +15,5 @@ Start = 2025-09-13 15:34:40 +1200
 0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2025-09-13 15:34:44 +1200
-Processing time = 3.387229
+Finish = 2025-09-16 21:57:12 +1200
+Processing time = 3.946173

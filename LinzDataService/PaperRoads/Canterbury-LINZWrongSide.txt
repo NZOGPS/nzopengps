@@ -160,3 +160,30 @@ There are two other properties at the 'low' end of the road that are numbered op
 2286981	160 Millers Road, Gebbies Valley	2022/08/07 16:40	-43.718714,172.611176	Can't see any obvious drive/dwelling. To me, 160 would be around -43.715865 172.614375
 2288884	185 McIntoshs Road, Fernside, Rangiora	2022/08/07 16:42	-43.304726,172.496703	To me this is around 200. 185 would be around -43.305821 172.494630
 1398857	168 Rampaddock Road, View Hill	2022/08/07 16:46	-43.284292,172.073886 Somewhat confusing here as a lot of Rampaddock is paper, but this is before that bit.
+--- Below new 23:26 22/09/25
+2436558	270 Barkers Road, Methven	2025/09/22 23:26	-43.613924,171.668094
+150778	119 Lewis Road, View Hill, Oxford	2025/09/22 23:27	-43.287478,172.054958
+1660685	19 Chappie Place, Hornby, Christchurch	2025/09/22 23:27	-43.541707,172.529334
+1733552	8 Carey Street, Somerfield, Christchurch	2025/09/22 23:28	-43.557248,172.632771
+1733550	6 Carey Street, Somerfield, Christchurch	2025/09/22 23:28	-43.557209,172.632834
+2435650	140 Seabridge Road, Motukarara, Tai Tapu	2025/09/22 23:31	-43.740186,172.584939
+2425954	265 Kaiwara Road, Lowry Hills Range, Cheviot	2025/09/22 23:33	-42.860278,173.085822
+2425928	1 Hurunui Bluff Road, Hurunui, Hawarden	2025/09/22 23:33	-42.874865,172.767277
+2412336	114 Baxters Road, Waipara	2025/09/22 23:34	-43.023846,172.808611
+2402523	99 Albert Street, Elgin, Ashburton	2025/09/22 23:35	-43.910107,171.770034
+2402522	97 Albert Street, Elgin, Ashburton	2025/09/22 23:35	-43.910252,171.769792
+2387588	635 Lake Arthur Road, Kokatahi	2025/09/22 23:35	-42.899989,171.122997
+1755691	38 Archdalls Road, Robinsons Bay	2025/09/22 23:36	-43.762301,172.950357
+2380835	10 Evans Avenue, New Brighton, Christchurch	2025/09/22 23:37	-43.514922,172.725942
+2304283	50 Twizel-Omarama Road, Omarama, Omarama	2025/09/22 23:38	-44.481109,169.977666
+2266872	119 Limeloader Lane, Glasnevin, Amberley	2025/09/22 23:38	-43.088332,172.725533
+2266871	109 Limeloader Lane, Glasnevin, Amberley	2025/09/22 23:38	-43.088676,172.727044
+2266870	105 Limeloader Lane, Glasnevin, Amberley	2025/09/22 23:38	-43.088789,172.728559
+2380850	1 Locksley Avenue, Dallington, Christchurch	2025/09/22 23:37	-43.521253,172.673578
+2381870	263 Locksley Avenue, Dallington, Christchurch	2025/09/22 23:39	-43.507795,172.682100
+2381843	108 Fleete Street, Burwood, Christchurch	2025/09/22 23:39	-43.507247,172.678816
+2380915	101 River Road, Richmond, Christchurch	2025/09/22 23:40	-43.525111,172.656322
+244263	339 River Road, Richmond, Christchurch	2025/09/22 23:43	-43.516372,172.664201
+2380761	330 Avonside Drive, Avonside, Christchurch	2025/09/22 23:41	-43.517973,172.664752
+2416468	407 Hartleys Road, Whitecliffs, Glentunnel	2025/09/22 23:42	-43.431357,171.904419
+2421794	250 Silverhope Road, Masons Flat, Hawarden	2025/09/22 23:43	-42.902600,172.561129

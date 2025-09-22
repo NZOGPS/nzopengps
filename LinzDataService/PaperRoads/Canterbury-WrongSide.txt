@@ -14,3 +14,5 @@
 2296502	7/42 Stratheona Road, Pleasant Point	2022/09/15 23:18	-44.249965,171.135996
 2296503	30/42 Stratheona Road, Pleasant Point	2022/09/15 23:18	-44.249778,171.136138
 2296504	2/42 Stratheona Road, Pleasant Point	2022/09/15 23:18	-44.249762,171.136516
+2302452	1/1 Hebe Lane, Northwood, Christchurch	2025/09/22 23:36	-43.451525,172.612801
+2140306	45R Prestons Park Drive, Marshland, Christchurch	2025/09/22 23:39	-43.478233,172.669524

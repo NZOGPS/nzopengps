@@ -19,7 +19,7 @@ if errorlevel 1 goto :EOF
 %nzogps_psqlc% -v numstable=%1_nums  -f Code\postpro-nums.sql
 
 cd TempData
-..\Code\mp_2_n_sql.pl %nzogps_base%\%1.mp
+%nzogps_perl_cmd% ..\Code\mp_2_n_sql.pl %nzogps_base%\%1.mp
 %nzogps_psqlc% -f %1_numberlines.sql
 cd ..
 %nzogps_psqlc% -v linestable=%1_numberlines -v distance=250 -f Code\%nzogps_wsppl%
@@ -27,6 +27,6 @@ cd ..
 %nzogps_psqlc% -v linestable=%1_numberlines -v distance=400 -v outfile='%nzogps_base%\scripts\wrongside\Outputs\%1-Sparsest.csv' -f Code\Sparsest.sql
 rem if you get a write failure for CSV files you may need to grant write access for the user for the pg server process e.g. NETWORK SERVICE ? Use task manager/details
 cd Outputs
-perl ..\Code\wrongsidereport.pl %1 > %1-Wrongside-report.txt
+%nzogps_perl_cmd% ..\Code\wrongsidereport.pl %1 > %1-Wrongside-report.txt
 cd ..
 echo Wrongside processing %1 finished %time%

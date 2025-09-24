@@ -5,7 +5,7 @@ if not exist %nzogps_base%\%1.mp echo %nzogps_base%\%1.mp not found & goto :eof
 
 set nzogps_psqlc=%nzogps_psql_bin%psql -U postgres -d nzopengps
 cd SQLData
-..\..\wrongside\mp_2_n_sql2.pl -ci %nzogps_base%\%1.mp
+%nzogps_perl_cmd% ..\..\mp_2_n_sql2.pl -ci %nzogps_base%\%1.mp
 cd ..
 %nzogps_psqlc% -f SQLData\%1_numberlines.sql
 %nzogps_psqlc% -f SQLData\%1_cities.sql

@@ -5,9 +5,12 @@ my %Ignore;
 my $basename = shift;
 my $filename;
 my $filename2;
+my $tfilename;
+my $tbfilename;
 my $csvcnt;
 my $csvleft;
 my $cnt;
+my $wstempdir = "..\\TempData";
 
 die "no Filename specified!\n" if $basename eq "";
 $paperdir = $ENV{nzogps_base};
@@ -76,8 +79,23 @@ while (<INF>){
 		$csvleft++;
 	}
 }
+
 close INF;
 close OUTF;
+
+$tfilename = "$wstempdir\\$filename2";
+$tbfilename = "$tfilename.bak";
+if (-f $tbfilename){
+	unlink $tbfilename or warn "Could not delete $tbfilename: $!";
+	print STDERR "deleted $tbfilename\n";
+}
+if (-f tfilename ){
+	rename($tfilename,$tbfilename) or warn "Error renaming file: $!";
+	print STDERR "renamed $tfilename $tbfilename\n";
+}
+rename($filename2,$tfilename)or warn "Error renaming file: $!";
+print STDERR "renamed: $filename2 $tfilename\n";
+	
 print "$csvcnt wrongside numbers, $csvleft not in Exclusion files\n";
 $cnt = keys %Ignore;
 if ($cnt){

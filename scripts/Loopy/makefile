@@ -27,5 +27,5 @@ $(OUTPUTS)/%-loops.csv : $(SQL)/%_numberlines.sql
 	$(PSQLC) -v linestable=$(call lc,$(*))_numberlines -v nodedtable=$(call lc,$(*))_noded_loops -v outfile='$(CURDIR)/$@' -f loopy.sql
 
 $(SQL)/%_numberlines.sql : $(BASE)/%.mp
-	cd $(SQL) &	$(PERL) ..\..\wrongside\mp_2_n_sql2.pl $(call lc,$(<))
+	cd $(SQL) &	$(PERL) ..\..\mp_2_n_sql2.pl $(call lc,$(<))
 

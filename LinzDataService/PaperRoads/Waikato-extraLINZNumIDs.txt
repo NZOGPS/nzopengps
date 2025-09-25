@@ -58,3 +58,4 @@ linznumbid=9300059	linzid=3057789	Ngapeke Rd	-38.28063 175.27903
 linznumbid=9300060	linzid=3057789	Ngapeke Rd	-38.34604 175.25659
 linznumbid=9300061	linzid=3056872	Taharoa Rd	-38.15069 174.73388
 linznumbid=9300062	linzid=3056872	Taharoa Rd	-38.25336 174.83585
+linznumbid=9300063	linzid=3023816	~[0x04]30	-38.03668 176.79167

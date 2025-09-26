@@ -25,6 +25,7 @@ my %bylinzid;
 my %bylinznumbid;
 my $byid;
 my %papernumbers;
+my %papernumberends;
 my %bynodid;
 
 my %debug = (
@@ -1681,6 +1682,7 @@ sub read_paper_road_numbers {
 		chomp;
 		$i = 1;
 		my @nums;
+		my @ends;
 		@chunks = split/\t/;
 		$idval = $chunks[0];
 		next if not defined $idval; #blank line?
@@ -1736,6 +1738,9 @@ sub read_paper_road_numbers {
 			$i++;
 			if (!$error){
 				$j = $start;
+				if ($start != $end){
+					push @ends,$start;
+				}
 				if ($debug{'readpapernums'}){ print "adding: " };
 				while ($j <= $end){
 					push @nums,$j;
@@ -1745,8 +1750,10 @@ sub read_paper_road_numbers {
 						$j++;
 					}
 				}
+				push @ends,$end;
 				if ($debug{'readpapernums'}){ print "to numbers\n" };
 				$papernumbers{$idval}=\@nums;
+				$papernumberends{$idval}=\@ends;
 			}
 		}
 		if ($i==1 && /\S/){
@@ -1763,9 +1770,15 @@ sub read_paper_road_numbers {
 			}
 			print "\n";
 		}
+		foreach $idval ( keys %papernumberends ){
+			print "paper number ends for sufi/linzid ",$idval," are:\n";
+			for ( @{$papernumberends{$idval}} ){
+				print " $_";
+			}
+			print "\n";
+		}
 	}
 }	
-
 
 sub numberisinpaperfile {
 	my $num = shift;
@@ -1815,6 +1828,38 @@ sub findnumberinseg {
 		}
 	}
 	return 0 # why not...
+}
+
+sub paper_number_check{
+	my $idval;
+	my $roads;
+	my $num;
+	my $rdsegptr;
+	my $numseg;
+
+	# check that paper numbers are still valid, i.e. that the range ends are not numbered in the map
+	{ print "check if paper numbers in paper number file are in map\n" }
+	foreach $idval ( keys %papernumberends ){
+		if ($debug{'paper_number_check'}) { print "check paper number ends for sufi/linzid ",$idval,"\n" }
+		for $num ( @{$papernumberends{$idval}} ){
+			if ($debug{'paper_number_check'}) { print "checking: $num\n"}
+			# the hard bit
+			if (defined($byid->{$idval})){
+				if ($debug{'paper_number_check'}) { print "ID $idval found in map\n" }
+				for $rdsegptr (@{$byid->{$idval}}){
+					for $numseg( @{$roads[$rdsegptr->[0]][11]} ){
+						if ( findnumberinseg($num,@{$numseg}[1..3])) {
+							print "Number $num found in paper number file for ID $idval\n";
+							dump_id2($roads[$rdsegptr->[0]],${$numseg}[0],-1);
+						}
+					}
+				}
+				
+			} else {
+				if ($debug{'paper_number_check'}) { print "ID $idval found in paper numbers file, but not found in map\n"}
+			}
+		}
+	}	
 }
 
 sub check_for_number_present{
@@ -1904,16 +1949,20 @@ sub check_for_number_present{
 	print $missnum?("on $missid road",$missid!=1?"s\n":"\n"):"YAY!!!\n";
 }
 
+sub usage {
+	die "Usage: $0 -l -s -p \\path\\mapfile.mp\n\t-l is for linzids (default)\n\t-s is for sufis (redundant)\n\t-p checks paper number files\n";
+}
+
 ##### Main program starts...
 
-getopts("lsx", \%cmdopts);
+getopts("lsxp", \%cmdopts);
 if (!($cmdopts{s} or $cmdopts{l})){
 	$cmdopts{l}=1;
 }
 
 # die "Under development - do not use!" unless $cmdopts{x};
 
-die "No filename specified" if ($ARGV[0] eq "");
+usage() if (! defined $ARGV[0] || $ARGV[0] eq "");
 ($basefile, $basedir, $basesuff) = fileparse($ARGV[0],qr/\.[^.]*/);
 $basedir = Cwd::realpath($basedir);
 if ($basedir =~ m|/$nzogps(.*)$|) {
@@ -1979,19 +2028,27 @@ if ($cmdopts{s}){
 } else {
 	$byid = \%bylinzid;
 }	
-numbered_id0;
 
-road_overlap;
-overlap_check;
+if (!$cmdopts{p}){
+	numbered_id0;
 
-unnumbered_node_check;
+	road_overlap;
+	overlap_check;
 
-rbout_level_check;
-lnid_check;
+	unnumbered_node_check;
 
-read_roads_not_2_index;
-no_city_index;
+	rbout_level_check;
+	lnid_check;
+
+	read_roads_not_2_index;
+	no_city_index;
+}
 
 read_number_csv($basefile,$basedir);
 read_paper_road_numbers($basefile,$basedir);
-check_for_number_present;
+
+if ($cmdopts{p}){
+	paper_number_check;
+} else {
+	check_for_number_present;
+}

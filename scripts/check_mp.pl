@@ -1703,6 +1703,7 @@ sub paper_rd_check{
 		#	print Dumper $byid->{$idval};
 			$rdid = ${$byid->{$idval}}[0];
 			dump_id2($roads[$rdid->[0]],0,-1);
+			print "\n";
 		}
 	}
 }
@@ -1911,6 +1912,7 @@ sub paper_number_check{
 							print "Number $num found in paper number file for ID $idval on line $papernumberends{$idval}{lnum}\n";
 							print "Line is: $papernumberends{$idval}{line}\n";
 							dump_id2($roads[$rdsegptr->[0]],${$numseg}[0],-1);
+							print "\n";
 						}
 					}
 				}

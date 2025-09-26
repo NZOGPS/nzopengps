@@ -24,8 +24,6 @@
 1780589	Lyndon Stock Road	Snowdon
 1780594	Charles Street	Coalgate
 1780651	Burkes Bush Road	Taitapu
-1780879	GUILDFORD ST	Chertsey (Canterbury, NZ)	26/08/2011 11:10a.m.
-3062837	QUARRY RD	Mount Somers (Canterbury, NZ)	3/02/2011 10:49:41 p.m.
 1781019	BRUCES RD	Ashburton Forks (Canterbury, NZ)	1/07/2010 9:02p.m.
 1781062	Old Main South Road	Rakaia
 1781153	Henley Street	Eiffelton
@@ -67,14 +65,12 @@
 1784945	Queen Street	Loburn
 1784958	Calthorpe Street	Loburn
 1784971	Norfolk Street	Loburn
-1784979	BRADYS RD
 1784981	Bromsgrove Street	Loburn
 1785008	Westall Street	Loburn
 1785024	Worcester Street	Loburn
 1785065	Boys Street	Kaiapoi
 1785127	Bassetts Road	View Hill
 1785133	McCandlishs Road	Coopers Creek	28/04/2010 9:26a.m.
-1785139	TRIG RD
 1785188	Clifford Road	Camside
 1785566	Paparua Drive	Templeton
 1785567	Tahi Rua	Templeton
@@ -91,7 +87,6 @@
 3022060	Lushman Road	Beautiful Valley
 1786395	PRINCES ST	Scarborough (Canterbury, NZ)	10/04/2011 5:43:52 p.m.
 1786420	McKie Road	Kakahu
-1786433	Burma Road	Orari Gorge
 1786455	SMITHFIELD RD	Temuka (Canterbury, NZ)	16/08/2011 11:38:49 p.m.
 1786459	Edward Street	Rangitata
 1786945	Kennedy Road	Eyrewell Forest
@@ -111,7 +106,6 @@
 1790367	QUEEN ST	Okarito
 1790371	JUAN RD	Ruatapu (West Coast, NZ)	1/07/2010 9:56a.m.
 1790373	Town Belt	Ross
-1790385	H N LINE RD	Totara River	16/04/2010 3:26p.m.
 3050770	H F LINE RD	Ruatapu
 1790392	HAMPTON ST	Ross
 1790393	H G LINE RD	
@@ -128,7 +122,6 @@
 1790500	ARTHUR ST	Okarito
 3005678	Roto Road	Okarito
 1790512	Bay Road	Jackson Bay
-1790531	MCGLOIN RD	Bruce Bay (West Coast, NZ)	23/06/2010 3:33p.m.
 1790537	Glass Road	Kokatahi
 1790543	Ollivier Street	Jackson Bay
 1790550	Mt Tuhua Track	Kokatahi
@@ -316,22 +309,18 @@
 3033943	State Highway 74		2017/06/24 20:38	-43.570440,172.691500
 3032253	State Highway 73A		2017/06/24 20:39	-43.539760,172.554100
 3015073	Old Harewood Rd		2017/06/24 21:18	-43.444510,172.427670
-1784898	Corby Rd	Eyrewell Forest(Canterbury,NZ)	2017/06/24 21:19	-43.419450,172.358000
 1784919	Davies Rd	Eyrewell Forest(Canterbury,NZ)	2017/06/24 21:20	-43.435410,172.375920
 1786187	Bellfield St	Southbridge(Canterbury,NZ)	2017/09/11 21:18	-43.814640,172.251140
 1780260	Robinson St	Southbridge(Canterbury,NZ)	2017/09/11 21:18	-43.813990,172.249882
-1779268	McQueens Rd	Teddington(Canterbury,NZ)	2017/09/12 23:39	-43.687310,172.659460
 1781671	Temuka Tce	Temuka(Canterbury,NZ)	2018/02/12 23:16	-44.238790,171.270100
 1781854	Elm St	Gleniti, Timaru(Canterbury,NZ)	2022/08/07 14:32	-44.380390,171.188543
 1784409	Morgan Rd	Eyrewell Forest(Canterbury,NZ)	2023/03/05 13:28	-43.453370,172.331500
 1786842	Ensor Rd	Eyrewell Forest(Canterbury,NZ)	2023/03/05 13:29	-43.425760,172.346240
 1784404	Uren Rd	Eyrewell Forest(Canterbury,NZ)	2023/03/05 13:29	-43.403870,172.305620
-1784898	Corby Rd	Eyrewell Forest(Canterbury,NZ)	2023/03/05 13:35	-43.401880,172.254680
 1783795	Race Rd	Eyrewell Forest(Canterbury,NZ)	2023/03/05 13:35	-43.408210,172.259320
 1786840	Edwards Trk	Eyrewell Forest(Canterbury,NZ)	2023/03/05 14:03	-43.431350,172.304050
 1784927	Dixon Rd	Eyrewell Forest(Canterbury,NZ)	2023/03/05 14:04	-43.395970,172.275350
 1785159	Lindsay Rd	Eyrewell Forest(Canterbury,NZ)	2023/03/05 14:43	-43.416340,172.199280
-1784912	Perham Rd	Eyrewell Forest(Canterbury,NZ)	2023/03/05 14:49	-43.390780,172.255350
 1784920	Courtenay Rd		2023/03/05 14:49	-43.403610,172.262800
 1784909	Johnson Rd	Eyrewell Forest(Canterbury,NZ)	2023/03/05 14:49	-43.396580,172.251890
 1779530	Toshack Rd	Balmoral(Canterbury,NZ)	2023/08/08 22:14	-42.845630,172.818160

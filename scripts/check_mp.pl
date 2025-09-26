@@ -24,6 +24,7 @@ my %bysufi;
 my %bylinzid;
 my %bylinznumbid;
 my $byid;
+my %paperroads;
 my %papernumbers;
 my %papernumberends;
 my %bynodid;
@@ -43,6 +44,7 @@ my %debug = (
 	numberedid0		=> 0,
 	rblvlchk		=> 0,
 	numpresent		=> 0,
+	paper_rd_check	=> 0,
 );
 
 my %cmdopts=();
@@ -1649,6 +1651,61 @@ sub read_number_csv {
 	print "$count lines, $numsufi ${idnm}s\n";
 }
 
+sub read_paper_roads {
+	my $f1 = shift;
+	my $d1 = shift;
+	my $fn;
+	my $idval;
+	my @chunks;
+
+	if (defined ($cmdopts{l})){
+		$fn = "$d1$linzpaper\\${f1}.txt";
+	} else {
+		$fn = "$d1$paperdir\\${f1}.txt";
+	}
+
+	if ( !open INF, $fn ){
+		print STDERR "Paper roads file $fn not found\n";
+		return;
+	}
+
+	print "reading paper roads from $fn\n";
+	while (<INF>){
+		chomp;
+
+		@chunks = split/\t/;
+		$idval = $chunks[0];
+		next if not defined $idval; #blank line?
+		if ($idval !~ /^\d{7}(\/\d{7})?$/){
+			print "Warning - in paper roads file, line $. - $idval is not a 7 digit ID, or a 7 digit / 7 digit ID/Num ID\n";
+		}
+		if (defined ($paperroads{$idval})) {
+			print "Warning - in paper roads file - Multiple definitions for id $idval\n";
+		}
+		$paperroads{$idval}{lnum}=$.;
+		$paperroads{$idval}{line}=$_;
+	}
+	close INF;
+	if ($debug{'read_paper_roads'}) {print Dumper %paperroads}
+}
+
+sub paper_rd_check{
+	my $rdid;
+	my $rdsegp0;
+	my $idval;
+
+	print "check if paper roads in paper road file are in map\n";
+	foreach $idval ( keys %paperroads ){
+		if ($debug{'paper_rd_check'}) { print "check paper roads for sufi/linzid $idval - line $paperroads{$idval}{lnum} - $paperroads{$idval}{line}\n"}
+		if (defined($byid->{$idval})){
+			print "ID $idval in paper roads file found in map\n";
+			print "Paper road line $paperroads{$idval}{lnum} is: $paperroads{$idval}{line}\n";
+		#	print Dumper $byid->{$idval};
+			$rdid = ${$byid->{$idval}}[0];
+			dump_id2($roads[$rdid->[0]],0,-1);
+		}
+	}
+}
 
 sub read_paper_road_numbers {
 	my $f1 = shift;
@@ -1663,21 +1720,21 @@ sub read_paper_road_numbers {
 	my $error;
 	my $fn;
 	my $chaff;
-	
-	
+
+
 	if (defined ($cmdopts{l})){
 		$fn = "$d1$linzpaper\\${f1}PaperNumbers.txt";
 	} else {
 		$fn = "$d1$paperdir\\${f1}PaperNumbers.txt";
 	}
-	
+
 	if ( !open INF, $fn ){
 		print STDERR "Paper numbers file $fn not found\n";
 		return;
 	}
-	
+
 	print "reading paper numbers from $fn\n";
-	
+
 	while (<INF>){
 		chomp;
 		$i = 1;
@@ -1753,7 +1810,9 @@ sub read_paper_road_numbers {
 				push @ends,$end;
 				if ($debug{'readpapernums'}){ print "to numbers\n" };
 				$papernumbers{$idval}=\@nums;
-				$papernumberends{$idval}=\@ends;
+				$papernumberends{$idval}{lnum}=$.;
+				$papernumberends{$idval}{line}=$_;
+				$papernumberends{$idval}{nums}=\@ends;
 			}
 		}
 		if ($i==1 && /\S/){
@@ -1761,7 +1820,7 @@ sub read_paper_road_numbers {
 		} 
 	}
 	close INF;
-	
+
 	if ($debug{'readpapernums'}){
 		foreach $idval ( keys %papernumbers ){
 			print "paper numbers for sufi/linzid ",$idval," are:\n";
@@ -1778,7 +1837,7 @@ sub read_paper_road_numbers {
 			print "\n";
 		}
 	}
-}	
+}
 
 sub numberisinpaperfile {
 	my $num = shift;
@@ -1789,9 +1848,9 @@ sub numberisinpaperfile {
 		return 1 if $num == $_;
 	}
 	return 0;
-} 
+}
 
-sub findnumberinseg {	
+sub findnumberinseg {
 	my $number = shift;
 	my $odd = $number % 2;
 	my $type = shift;
@@ -1841,7 +1900,7 @@ sub paper_number_check{
 	{ print "check if paper numbers in paper number file are in map\n" }
 	foreach $idval ( keys %papernumberends ){
 		if ($debug{'paper_number_check'}) { print "check paper number ends for sufi/linzid ",$idval,"\n" }
-		for $num ( @{$papernumberends{$idval}} ){
+		for $num ( @{$papernumberends{$idval}{nums}} ){
 			if ($debug{'paper_number_check'}) { print "checking: $num\n"}
 			# the hard bit
 			if (defined($byid->{$idval})){
@@ -1849,7 +1908,8 @@ sub paper_number_check{
 				for $rdsegptr (@{$byid->{$idval}}){
 					for $numseg( @{$roads[$rdsegptr->[0]][11]} ){
 						if ( findnumberinseg($num,@{$numseg}[1..3])) {
-							print "Number $num found in paper number file for ID $idval\n";
+							print "Number $num found in paper number file for ID $idval on line $papernumberends{$idval}{lnum}\n";
+							print "Line is: $papernumberends{$idval}{line}\n";
 							dump_id2($roads[$rdsegptr->[0]],${$numseg}[0],-1);
 						}
 					}
@@ -2048,7 +2108,9 @@ read_number_csv($basefile,$basedir);
 read_paper_road_numbers($basefile,$basedir);
 
 if ($cmdopts{p}){
+	read_paper_roads($basefile,$basedir);
 	paper_number_check;
+	paper_rd_check;
 } else {
 	check_for_number_present;
 }

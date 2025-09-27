@@ -1680,7 +1680,7 @@ sub read_paper_roads {
 			print "Warning - in paper roads file, line $. - $idval is not a 7 digit ID, or a 7 digit / 7 digit ID/Num ID\n";
 		}
 		if (defined ($paperroads{$idval})) {
-			print "Warning - in paper roads file - Multiple definitions for id $idval\n";
+			print "Warning - in paper roads file - Multiple definitions for id $idval on lines $paperroads{$idval}{lnum} and $.\n";
 		}
 		$paperroads{$idval}{lnum}=$.;
 		$paperroads{$idval}{line}=$_;
@@ -1695,7 +1695,7 @@ sub paper_rd_check{
 	my $idval;
 
 	print "check if paper roads in paper road file are in map\n";
-	foreach $idval ( keys %paperroads ){
+	foreach $idval ( sort ({$paperroads{$a}{lnum} <=> $paperroads{$b}{lnum}} keys %paperroads )){
 		if ($debug{'paper_rd_check'}) { print "check paper roads for sufi/linzid $idval - line $paperroads{$idval}{lnum} - $paperroads{$idval}{line}\n"}
 		if (defined($byid->{$idval})){
 			print "ID $idval in paper roads file found in map\n";

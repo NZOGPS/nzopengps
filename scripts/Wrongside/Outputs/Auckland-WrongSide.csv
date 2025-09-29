@@ -1,5 +1,4 @@
 175.42279457,-36.88407140,"1090A Thames Coast Road, Kereta, Thames",Wrong Side: 705693
-175.48078910,-36.73528720,"254 Colville Road, Coromandel",Wrong Side: 710581
 175.71097667,-36.91703927,"1727 Tairua Whitianga Road, Coroglen, Whitianga",Wrong Side: 731925
 175.71832233,-36.95016462,"67 Hamiltons Road, Coroglen, Whitianga",Wrong Side: 733268
 175.80835565,-36.97521813,"195 Paul Road, Whenuakite, Whitianga",Wrong Side: 741998
@@ -35,10 +34,13 @@
 174.63511080,-36.47262185,"167A Moir Hill Road, Warkworth",Wrong Side: 1560301
 174.68770120,-36.74935773,"51A Appleby Road, Albany, Auckland",Wrong Side: 1647334
 174.71437605,-36.46469212,"649 Pukapuka Road, Pohuehue, Warkworth",Wrong Side: 1694608
-174.91828399,-36.91017377,"3 Royalle Mews, Botany Downs, Auckland",Wrong Side: 1737678
-174.91836753,-36.91007549,"5 Royalle Mews, Botany Downs, Auckland",Wrong Side: 1737679
+174.91776963,-36.91007221,"4 Royalle Mews, Botany Downs, Auckland",Wrong Side: 1737681
+174.91791051,-36.90991168,"6 Royalle Mews, Botany Downs, Auckland",Wrong Side: 1737682
+174.91808578,-36.90999686,"8 Royalle Mews, Botany Downs, Auckland",Wrong Side: 1737683
+174.91815458,-36.90983633,"10 Royalle Mews, Botany Downs, Auckland",Wrong Side: 1737684
+174.91798914,-36.90976753,"12 Royalle Mews, Botany Downs, Auckland",Wrong Side: 1737685
 174.91911170,-36.90988652,"46 Royalle Mews, Botany Downs, Auckland",Wrong Side: 1737711
-174.91816933,-36.91028680,"1 Royalle Mews, Botany Downs, Auckland",Wrong Side: 1737719
+174.91792525,-36.91014756,"2 Royalle Mews, Botany Downs, Auckland",Wrong Side: 1737720
 174.47890828,-36.61597635,"65 Moses Road, Kaukapakapa",Wrong Side: 1852978
 174.76024592,-36.86655703,"4 Flower Street, Eden Terrace, Auckland",Wrong Side: 1859370
 174.77962647,-36.86556228,"1/6 Leek Street, Newmarket, Auckland",Wrong Side: 1871133
@@ -188,12 +190,6 @@
 174.87415442,-36.93558280,"2 Tawharau Lane, East Tamaki, Auckland",Wrong Side: 2306509
 174.65925904,-36.69859343,"66A Potter Road, Dairy Flat",Wrong Side: 2317600
 174.92538063,-36.95398458,"3 Skyview Place, Flat Bush, Auckland",Wrong Side: 2318853
-174.74162444,-36.86730801,"51 Hadlow Terrace, Grey Lynn, Auckland",Wrong Side: 2328654
-174.74166609,-36.86729443,"53 Hadlow Terrace, Grey Lynn, Auckland",Wrong Side: 2328655
-174.74170503,-36.86727994,"55 Hadlow Terrace, Grey Lynn, Auckland",Wrong Side: 2328656
-174.74174668,-36.86726545,"57 Hadlow Terrace, Grey Lynn, Auckland",Wrong Side: 2328657
-174.74178652,-36.86725278,"59 Hadlow Terrace, Grey Lynn, Auckland",Wrong Side: 2328658
-174.74182636,-36.86723738,"61 Hadlow Terrace, Grey Lynn, Auckland",Wrong Side: 2328659
 174.88248842,-36.95450544,"3A Grant Avenue, Otara, Auckland",Wrong Side: 2334282
 174.88248842,-36.95450544,"3B Grant Avenue, Otara, Auckland",Wrong Side: 2334283
 175.59708204,-36.84502568,"255 Old Coach Road, Kaimarama, Whitianga",Wrong Side: 2339700
@@ -242,6 +238,9 @@
 174.86686143,-37.09850943,"19 Wagyu Lane, Karaka, Papakura",Wrong Side: 2388083
 174.86679525,-37.09865124,"21 Wagyu Lane, Karaka, Papakura",Wrong Side: 2388084
 175.49357595,-36.52297703,"123 Harriet Kings Road, Port Charles, Coromandel",Wrong Side: 2397144
+174.79803677,-36.96063571,"54 Watchfield Close, Mangere, Auckland",Wrong Side: 2400726
+174.79807250,-36.96063021,"56 Watchfield Close, Mangere, Auckland",Wrong Side: 2400727
+174.79812335,-36.96062196,"58 Watchfield Close, Mangere, Auckland",Wrong Side: 2400728
 174.61589571,-37.05218276,"59 Morrison Road, Manukau Heads, Awhitu",Wrong Side: 2409926
 174.64607930,-36.61074649,"81 Milldale Drive, Wainui",Wrong Side: 2413400
 174.79308040,-36.97374986,"9/11 Lawford Place, Mangere, Auckland",Wrong Side: 2417153
@@ -258,3 +257,19 @@
 174.65365015,-36.87529360,"24 Niu Lane, Te Atatu South, Auckland",Wrong Side: 2427285
 174.65365172,-36.87550413,"13 Niu Lane, Te Atatu South, Auckland",Wrong Side: 2427293
 174.65373276,-36.87548770,"15 Niu Lane, Te Atatu South, Auckland",Wrong Side: 2427294
+174.66340131,-36.79084718,"1/1 Karoro Court, Hobsonville, Auckland",Wrong Side: 2434377
+174.66340131,-36.79084718,"2/1 Karoro Court, Hobsonville, Auckland",Wrong Side: 2434378
+174.66340131,-36.79084718,"3/1 Karoro Court, Hobsonville, Auckland",Wrong Side: 2434379
+174.66340131,-36.79084718,"4/1 Karoro Court, Hobsonville, Auckland",Wrong Side: 2434380
+174.66340131,-36.79084718,"5/1 Karoro Court, Hobsonville, Auckland",Wrong Side: 2434381
+174.66340131,-36.79084718,"6/1 Karoro Court, Hobsonville, Auckland",Wrong Side: 2434382
+174.66340131,-36.79084718,"7/1 Karoro Court, Hobsonville, Auckland",Wrong Side: 2434383
+174.66340131,-36.79084718,"8/1 Karoro Court, Hobsonville, Auckland",Wrong Side: 2434384
+174.66384857,-36.79092823,"1/3 Karoro Court, Hobsonville, Auckland",Wrong Side: 2434385
+174.66384857,-36.79092823,"2/3 Karoro Court, Hobsonville, Auckland",Wrong Side: 2434386
+174.66384857,-36.79092823,"3/3 Karoro Court, Hobsonville, Auckland",Wrong Side: 2434387
+174.66384857,-36.79092823,"4/3 Karoro Court, Hobsonville, Auckland",Wrong Side: 2434388
+174.66384857,-36.79092823,"5/3 Karoro Court, Hobsonville, Auckland",Wrong Side: 2434389
+174.66384857,-36.79092823,"6/3 Karoro Court, Hobsonville, Auckland",Wrong Side: 2434390
+174.66384857,-36.79092823,"7/3 Karoro Court, Hobsonville, Auckland",Wrong Side: 2434391
+174.66384857,-36.79092823,"8/3 Karoro Court, Hobsonville, Auckland",Wrong Side: 2434392

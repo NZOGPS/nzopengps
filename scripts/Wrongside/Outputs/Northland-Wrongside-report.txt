@@ -1,10 +1,10 @@
 2 entries in V:\nzopengps\LinzDataService\PaperRoads\Northland-WrongSide.txt
 164 entries in V:\nzopengps\LinzDataService\PaperRoads\Northland-LINZWrongSide.txt
-140 wrongside numbers, 53 not in Exclusion files
+147 wrongside numbers, 59 not in Exclusion files
 1 entries in Ignore list are no longer on the wrong side
 2102556	83C Mihi Road, Okaihau	2022/07/22 17:19	-35.306064,173.734469
 
-78 entries in Linz list are no longer on the wrong side
+77 entries in Linz list are no longer on the wrong side
 1340017	374 HONEYMOON VALLEY ROAD	2013/12/14 16:02	-35.125938,173.493223
 927212	415 ARAPAOA ROAD	2013/12/16 22:50	-36.192538,174.225987
 911988	70 OKAHU ROAD	2013/10/22 10:11	-35.124345,173.263745
@@ -15,7 +15,6 @@
 1344523	505 WEST COAST ROAD	2013/12/14 16:12	-35.038887,173.171036
 1305146	36 CONAGLEN ROAD	2013/12/14 16:01	-35.016039,173.621101
 1484490	4 HAZELMERE STREET	2013/12/14 21:25	-36.298924,174.522883
-1375134	29-31 SANDY BEACH ROAD	2013/12/16 22:26	-36.254868,174.243616
 1359561	4 JOHNSON LANE	2013/12/14 15:59	-35.281246,174.058569	Numbers are all over the place on this road...
 917824	1208 SH 12	2013/12/14 17:03	-35.895680,173.805523
 1517568	51 MCGILLIVRAY ROAD	2013/12/14 21:29	-36.280499,174.514677

@@ -1,4 +1,4 @@
-Start = 2025-09-27 00:01:47 +1200
+Start = 2025-09-29 19:19:36 +1300
 linzid	street_name	street_name_2	official_street_name
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
 1821419	Valley Rd (off-road vehicles only)		Valley Rd	-36.66656,174.53579
@@ -6,5 +6,5 @@ linzid	street_name	street_name_2	official_street_name
 3085080	Waikaka Mangu Pl		Waikaka Parauri Pl	-37.09878,174.96025
 #############################
 
-Finish = 2025-09-27 00:01:51 +1200
-Processing time = 4.4608
+Finish = 2025-09-29 19:19:41 +1300
+Processing time = 5.013932

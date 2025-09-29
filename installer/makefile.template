@@ -17,12 +17,14 @@ SETUP = $(wildcard *FREE_OpenGPS_NZ*)
 
 $(SETUP) : Free\ Open\ GPS\ NZ\ Autorouting.img 
 	$(ISCC) /dSdir=. /dBdir=$(nzogps_base) /dWImg=$(nzogps_inst_image) "NZ OpenGPS Setup.iss"
+	
+# GCT 20250929 you need double slashes if you get "You may not specify more than one script filename." single slashes if you get Unknown option: //dSdir=.
 
 Free\ Open\ GPS\ NZ\ Autorouting.img : Free\ Open\ GPS\ NZ\ Autorouting.mp
 	$(CGPS) "$<"
 
 Free\ Open\ GPS\ NZ\ Autorouting.mp : $(MPIMGS) $(POIIMGS) NZO5_pv_template.txt DateScript.vbs
-# GCT 20240920 double slash in //nologo
+# GCT 20240920 see above - re single or double slash in //nologo
 	cscript /nologo DateScript.vbs  > NZO5_pv.txt
 	$(CPV) NZO5_pv.txt
 

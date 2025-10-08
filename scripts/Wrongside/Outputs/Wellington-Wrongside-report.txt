@@ -1,13 +1,13 @@
 49 entries in V:\nzopengps\LinzDataService\PaperRoads\Wellington-WrongSide.txt
 117 entries in V:\nzopengps\LinzDataService\PaperRoads\Wellington-LINZWrongSide.txt
-116 wrongside numbers, 32 not in Exclusion files
-18 entries in Ignore list are no longer on the wrong side
+117 wrongside numbers, 33 not in Exclusion files
+17 entries in Ignore list are no longer on the wrong side
 1418498	238 ALBERT STREET	2013/12/21 08:09	-40.357751,175.629047
 1691755	3 ASHFORD LANE	2013/12/22 18:14	-41.123661,175.072152
-1938260	103A Warwick Street, Feilding	2018/08/21 22:39	-40.224258,175.560045
 1586180	10031A ROUTE 52	2013/12/22 12:23	-40.500966,176.251520
 1608976	9G MILLWARD LANE	2013/12/22 09:41	-41.314686,174.779370
 1451595	13 KEEL PLACE	2013/12/30 16:38	-41.114430,174.889217
+1742178	120A Opau Road, Makara, Wellington	2018/12/02 16:24	-41.237418,174.706275
 411021	12B HERBERT STREET	2014/02/20 16:13	-41.210741,174.894339
 344454	19 WILLIAMSON WAY	2014/01/24 15:35	-41.292793,174.720227
 1481264	1A SPENCER RUSSELL DRIVE	2013/12/28 11:55	-40.920177,174.999209
@@ -19,14 +19,14 @@
 443247	25A Mt Cecil Road, Moonshine Valley	2018/12/01 18:50	-41.134674,174.980429
 1683136	32A THE SQUARE	2013/12/21 08:03	-40.356681,175.610439
 451024	160 Kapiti Road, Paraparaumu	2018/12/01 19:15	-40.903825,174.995408
-495106	306 HOKIO BEACH ROAD	2013/12/26 10:01	-40.620146,175.244992
 
-64 entries in Linz list are no longer on the wrong side
+65 entries in Linz list are no longer on the wrong side
 1396178	658 Sugarloaf Road, Pongaroa	2018/12/01 16:36	-40.693186,176.218788	Seems to be same side of road as 609
 1479466	364 Taonui Road, Aorangi	2018/12/01 17:19	-40.234536,175.631112
 564483	36 Murphys Road, Pahiatua	2018/12/01 18:59	-40.412695,175.914365-	Point is in middle of road. Dwelling is nearer to	40.413023 175.914147
 641025	7 Avro Road, Blue Mountains	2018/12/01 18:35	-41.171720,175.031881	Looks to be between and behind 10 and 12
 1852445	895 Putara Road, Eketahuna	2018/12/01 19:33	-40.680257,175.547930
+444246	9 Oates Street, Stokes Valley, Lower Hutt	2018/12/01 18:22	-41.173795,174.981284	Odd point. Middle of carpark. Perhaps	-41.173730 174.981446
 1546185	38 Knight Road, Kopuaranga	2018/12/01 17:31	-40.831420,175.665604	Based on imagery, it looks like your road (and this number) are too far north here. Drive at	-40.831555 175.665738 
 1615801	3 Duncan Street, Tauweru	2018/12/01 17:58	-40.964559,175.801303	Looks like your road and this point are too far to the west. Dwelling is at 	-40.964480 175.801590
 2003384	15 Gurney Road, Kelson, Lower Hutt	2021/08/30 15:43	-41.183834,174.935865

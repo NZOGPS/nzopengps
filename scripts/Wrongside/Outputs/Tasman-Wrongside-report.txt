@@ -1,10 +1,11 @@
 35 entries in V:\nzopengps\LinzDataService\PaperRoads\Tasman-WrongSide.txt
 113 entries in V:\nzopengps\LinzDataService\PaperRoads\Tasman-LINZWrongSide.txt
-95 wrongside numbers,  not in Exclusion files
-53 entries in Linz list are no longer on the wrong side
+94 wrongside numbers,  not in Exclusion files
+54 entries in Linz list are no longer on the wrong side
 1308030	291 BILL BRYANTS ROAD	2014/06/10 20:34	-41.044106,173.751340
 398370	126 Uruwhenua Road	2014/07/18 23:49	-40.996303,172.815299	Slightly the wrong side of the physical road
 1932207	590 Abel Tasman Drive, Clifton	2019/05/12 16:55	-40.843652,172.864235	Other addresses on this road match RAPID numbering.
+1413663	256 ELAINE BAY ROAD	2014/06/10 20:43	-41.054553,173.774734
 1302792	2624 PORT UNDERWOOD ROAD	2014/06/10 21:21	-41.345719,174.082644
 1308038	765 BILL BRYANTS ROAD	2014/06/10 20:36	-41.042752,173.727465
 1128970	1095 MAITAI VALLEY ROAD	2014/06/10 22:29	-41.290704,173.371719

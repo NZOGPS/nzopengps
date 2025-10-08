@@ -1,6 +1,6 @@
 4 entries in V:\nzopengps\LinzDataService\PaperRoads\Auckland-WrongSide.txt
 88 entries in V:\nzopengps\LinzDataService\PaperRoads\Auckland-LINZWrongSide.txt
-293 wrongside numbers, 275 not in Exclusion files
+284 wrongside numbers, 266 not in Exclusion files
 2 entries in Ignore list are no longer on the wrong side
 1279554	39 Elsie Morton Place	2015/05/18 22:57	-37.056667,174.969222
 1154147	27 Avro Place	2015/05/18 22:57	-36.971230,174.789753

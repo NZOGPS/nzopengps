@@ -1,6 +1,6 @@
-49 entries in V:\nzopengps\LinzDataService\PaperRoads\Wellington-WrongSide.txt
+50 entries in V:\nzopengps\LinzDataService\PaperRoads\Wellington-WrongSide.txt
 117 entries in V:\nzopengps\LinzDataService\PaperRoads\Wellington-LINZWrongSide.txt
-117 wrongside numbers, 33 not in Exclusion files
+91 wrongside numbers, 7 not in Exclusion files
 17 entries in Ignore list are no longer on the wrong side
 1418498	238 ALBERT STREET	2013/12/21 08:09	-40.357751,175.629047
 1691755	3 ASHFORD LANE	2013/12/22 18:14	-41.123661,175.072152
@@ -16,11 +16,11 @@
 1566323	450A Flightys Road, Judgeford	2018/12/01 17:45	-41.081092,174.945088
 606319	11 CABLE CAR LANE	2014/01/24 15:52	-41.284245,174.774809
 1683138	32B THE SQUARE	2013/12/21 08:02	-40.357001,175.610632
-443247	25A Mt Cecil Road, Moonshine Valley	2018/12/01 18:50	-41.134674,174.980429
 1683136	32A THE SQUARE	2013/12/21 08:03	-40.356681,175.610439
 451024	160 Kapiti Road, Paraparaumu	2018/12/01 19:15	-40.903825,174.995408
+495106	306 HOKIO BEACH ROAD	2013/12/26 10:01	-40.620146,175.244992
 
-65 entries in Linz list are no longer on the wrong side
+66 entries in Linz list are no longer on the wrong side
 1396178	658 Sugarloaf Road, Pongaroa	2018/12/01 16:36	-40.693186,176.218788	Seems to be same side of road as 609
 1479466	364 Taonui Road, Aorangi	2018/12/01 17:19	-40.234536,175.631112
 564483	36 Murphys Road, Pahiatua	2018/12/01 18:59	-40.412695,175.914365-	Point is in middle of road. Dwelling is nearer to	40.413023 175.914147
@@ -86,4 +86,5 @@
 556797	24 MOSS ROAD	2013/12/22 09:55	-40.618015,175.705273
 2152670	151 Te Wanaka Road, Awapuni, Palmerston North	2021/08/30 16:11	-40.380956,175.572572	Another in the middle of the formed road. Not sure where it should be.
 2098507	158 Boundary Terrace, Raumati Beach, Paraparaumu	2021/08/30 15:24	-40.922785,175.001394	ditto
+543159	3 Mountain View Road, Fitzherbert, Palmerston North	2018/12/02 16:16	-40.379616,175.626526	Appears to be in the verge between the road and the driveway.
 

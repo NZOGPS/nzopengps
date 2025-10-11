@@ -187,3 +187,6 @@ There are two other properties at the 'low' end of the road that are numbered op
 2380761	330 Avonside Drive, Avonside, Christchurch	2025/09/22 23:41	-43.517973,172.664752
 2416468	407 Hartleys Road, Whitecliffs, Glentunnel	2025/09/22 23:42	-43.431357,171.904419
 2421794	250 Silverhope Road, Masons Flat, Hawarden	2025/09/22 23:43	-42.902600,172.561129
+2439844	990 Okains Bay Road, Okains Bay	2025/10/11 23:41	-43.721045,173.026837
+2439428	477 Newland Road, Orton, Temuka	2025/10/11 23:44	-44.153992,171.361604
+2439427	531 Newland Road, Orton, Temuka	2025/10/11 23:44	-44.157853,171.365584

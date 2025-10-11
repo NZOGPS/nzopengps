@@ -48,3 +48,5 @@
 909022	26 Telford Terrace, Oriental Bay, Wellington	2022/02/19 13:09	-41.292405,174.795738
 1927000	2B Northcote Street, Wainuiomata, Lower Hutt	2022/05/29 23:07	-41.258736,174.928510
 1565486	6K Pascoe Avenue, Paremata, Porirua	2025/10/10 00:41	-41.095701,174.867802
+1439218	19 Kabul Street, Khandallah, Wellington	2025/10/11 18:38	-41.255283,174.784818
+1439219	19A Kabul Street, Khandallah, Wellington	2025/10/11 18:38	-41.255534,174.784869

@@ -1,7 +1,8 @@
-Start = 2025-10-07 12:10:00 +1300
+Start = 2025-10-11 03:05:26 +1300
 #############################
 
-7 LINZ ids are missing from NZOGPS Auckland
+8 LINZ ids are missing from NZOGPS Auckland
+;linzid=3074884	Accessway	-36.91552805,174.8696507167
 ;linzid=3085079	Waikaka Mangu Pl	-37.098831819995,174.960867482288
 ;linzid=3085594	Pipiwharauroa Lane	-36.8776821535348,174.859274221524
 ;linzid=3085591	Rockwell Lane	-36.8037865970793,174.660438743357
@@ -21,5 +22,5 @@ Start = 2025-10-07 12:10:00 +1300
 0 Number range ids are in NZOGPS Auckland but missing from LINZ
 #############################
 
-Finish = 2025-10-07 12:10:05 +1300
-Processing time = 5.191341
+Finish = 2025-10-11 03:05:31 +1300
+Processing time = 4.343022

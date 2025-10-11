@@ -1,36 +1,62 @@
 18 entries in V:\nzopengps\LinzDataService\PaperRoads\Canterbury-WrongSide.txt
-181 entries in V:\nzopengps\LinzDataService\PaperRoads\Canterbury-LINZWrongSide.txt
-174 wrongside numbers, 4 not in Exclusion files
-1 entries in Ignore list are no longer on the wrong side
-1985145	510A Falston Road, Totara Peak	2021/03/28 15:16	-44.384002,170.192195
+184 entries in V:\nzopengps\LinzDataService\PaperRoads\Canterbury-LINZWrongSide.txt
+150 wrongside numbers, 3 not in Exclusion files
+4 entries in Ignore list are no longer on the wrong side
+1709882	19A UPPER CRICHTON TERRACE	2013/10/18 15:41	-43.569670,172.627176
+2279381	295B Jamesons Road, Rotherham	2022/08/07 16:48	-42.747706,172.985980
+1709873	21A UPPER CRICHTON TERRACE	2013/10/18 15:41	-43.569960,172.627782
+1709884	21B UPPER CRICHTON TERRACE	2013/10/18 15:41	-43.569875,172.627296
 
-28 entries in Linz list are no longer on the wrong side
+51 entries in Linz list are no longer on the wrong side
+156008	1275 Virginia Road, Virginia	2019/10/18 23:00	-42.918626,172.426341	Obvious dwelling at S42°55.2433' E172°25.3485' matching RAPID.
+152954	113 Domain Road, Oxford	2019/10/18 22:10	-43.355351,172.195757	Dwelling matching number at S43°21.8107' E172°11.8271'
 2174233	2 Stratheona Road, Pleasant Point	2019/10/18 21:16	-44.249762,171.136516	I note that No 7 ID 2174236 letterbox has 7/42. Is this actually 2/42? Wrong end as well as wrong side.
+2439427	531 Newland Road, Orton, Temuka	2025/10/11 23:44	-44.157853,171.365584
 120772	4855 RANGITATA GORGE ROAD	2013/10/09 12:47	-43.640381,170.897039
+2266870	105 Limeloader Lane, Glasnevin, Amberley	2025/09/22 23:38	-43.088789,172.728559
 180111	8 PATRICIA PLACE	2013/10/21 16:41	-43.481407,172.576703
 286963	30 WHITEWASH HEAD ROAD	2013/10/16 10:40	-43.570800,172.773846	All the numbers here are quite close to the road 
 287171	5 WESTRIDGE	2013/10/16 10:37	-43.576500,172.771289	Middle of the road
+1954287	5388 Makarora-Lake Hawea Road, Makarora	2019/10/18 22:56	-44.275376,169.199934	Bizarre that the three numbers here are all on the wrong side. 5388 would be around S44°16.4948' E169°12.1083'
+1755993	131 Bells Road, Robinsons Bay	2019/10/18 22:02	-43.773796,172.984438
 1371605	1067 Main South Road, Rolleston	2019/10/18 23:02	-43.564413,172.451521	Point is under the new motorway. Does the property still exist?
 1337616	289B SUMMERHILL ROAD	2013/10/09 12:12	-43.272913,172.346383
 1623065	1/1103 Main South Road, Rolleston	2019/10/18 23:03	-43.565665,172.448844	Point is under the new motorway. Is this property now off Tiptree lane? Or possibly move the point to S43°34.0172' E172°26.9380'
 1689913	243 BISHELLS ROAD	2013/10/09 11:08	-42.829244,172.620693
+288885	49 SLOSS ROAD	2013/10/09 11:12	-42.982760,172.863076
 1531608	355 PESTERS ROAD	2013/10/09 12:21	-43.373616,172.326746
 1400239	186 BROOKSIDE & IRWELL ROAD	2013/10/09 17:04	-43.715160,172.327613
+1388138	370 Stoneleigh Road, Mount Dobson	2019/10/18 22:41	-43.990282,170.747346	There's a corresponding dwelling at S44°00.1146' E170°44.9665'
+2266872	119 Limeloader Lane, Glasnevin, Amberley	2025/09/22 23:38	-43.088332,172.725533
 1337617	291B SUMMERHILL ROAD	2013/10/09 12:12	-43.272740,172.346180
+1388625	228 O'Neills Road, Coal Stream	2019/10/18 21:26	-44.149409,170.808915	Another typo? Drive matches where 223 would be.
+1689553	21 Culverden Road, Culverden	2019/10/18 22:03	-42.776770,172.843842	Based on the drive, I guess a typo and should be 2? Or 21 is around S42°46.6608' E172°50.7364'
 2232120	890R Okains Bay Road, Okains Bay	2021/03/27 17:46	-43.723559,173.015800
 291487	603 LAVERICKS RIDGE ROAD	2013/10/13 23:30	-43.733101,173.086318
-289025	700 LITTLE PIGEON BAY ROAD	2013/10/13 23:35	-43.639312,172.899851
+2040428	500 Hayland Road, Okuku	2019/10/18 21:48	-43.195865,172.358354
+291318	1291 Kaiwara Road, Lowry Hills Range	2019/10/18 20:54	-42.818297,173.066292	Drive that matches RAPID at S42°49.3093' E173°03.7355'
+2439428	477 Newland Road, Orton, Temuka	2025/10/11 23:44	-44.153992,171.361604
 2380835	10 Evans Avenue, New Brighton, Christchurch	2025/09/22 23:37	-43.514922,172.725942
 154431	617 Ashley Road, Starvation Hill	2019/10/18 22:29	-43.245586,172.319132
+2123434	750 Okains Bay Road, Okains Bay	2019/10/18 21:41	-43.725554,172.999922
 154428	627 Ashley Road, Starvation Hill	2019/10/18 22:29	-43.244723,172.316272
 1337615	283 SUMMERHILL ROAD	2013/10/09 12:12	-43.273004,172.346824
+2288884	185 McIntoshs Road, Fernside, Rangiora	2022/08/07 16:42	-43.304726,172.496703	To me this is around 200. 185 would be around -43.305821 172.494630
+2286981	160 Millers Road, Gebbies Valley	2022/08/07 16:40	-43.718714,172.611176	Can't see any obvious drive/dwelling. To me, 160 would be around -43.715865 172.614375
+2436558	270 Barkers Road, Methven	2025/09/22 23:26	-43.613924,171.668094
+2266871	109 Limeloader Lane, Glasnevin, Amberley	2025/09/22 23:38	-43.088676,172.727044
 1375506	1567 BRAEMAR MT COOK STATION ROAD	2013/10/06 20:48	-43.870858,170.173144
-285455	8 DE THIER LANE	2013/10/21 15:30	-43.572809,172.754564	Not sure about this one. No obvious buildings on this side of the road.
 1556652	30 Stratheona Road, Pleasant Point	2019/10/18 21:18	-44.249778,171.136138	Ditto above.
+2416468	407 Hartleys Road, Whitecliffs, Glentunnel	2025/09/22 23:42	-43.431357,171.904419
 1955045	85 Totara Valley Road, Totara Valley	2019/10/18 21:51	-44.243882,171.104239	Driveway here looks to me to be 86 not 85. 
 1523362	233 TE NGAWAI ROAD	2013/10/09 12:34	-44.242305,171.114121
+1755647	3 Dalleys Lane	2015/04/10 10:48	-43.601240,172.710777
 120846	37 LITTLE ROAD	2013/10/09 12:31	-44.334524,170.961507
+1638634	613 McQueens Valley Road, Gebbies Valley	2021/03/27 17:49	-43.716289,172.653447
 2227704	725 Foothills Road, Okuku	2021/03/27 17:45	-43.197526,172.422372
+2022193	230 Reynolds Valley Road, Peraki	2019/10/18 22:23	-43.790578,172.837510	No obvious dwellings or drives. 230 would be around S43°47.5228' E172°50.3245'
 179521	10 PATRICIA PLACE	2013/10/21 16:41	-43.481546,172.576582	These two/three perhaps further West?
 239304	20 Whaka Terrace, Huntsbury, Christchurch	2021/03/27 17:40	-43.569780,172.647284
+1321130	1415 Tekapo-Twizel Road, Tekapo	2019/10/18 23:06	-44.067071,170.359362	1415 looks to me to be around S44°03.8613' E170°21.8534'
+1354159	438 Sladdens Bush Road, Coopers Creek	2019/10/18 22:45	-43.253077,172.114778
 

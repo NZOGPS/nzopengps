@@ -118,3 +118,8 @@ Below new 15:27 30/08/21
 1983587	382 McDonell Road, Ohakea, Bulls	2021/08/30 16:23	-40.226142,175.360957	Strange that 378 next door is incorrect too.
 416230	1960 Coast Road, Wainuiomata Coast	2021/08/30 16:24	-41.417090,174.903133	This point is in the river bed. Obvious buildings at S41.417417° E174.907306°
 591803	1872 Maunga Road, Ormondville	2021/08/30 16:29	-40.182289,176.287919	Close, but should be odd. 1871?
+2335171	4 Treders Road, Pahiatua	2025/10/11 18:40	-40.477360,175.763897
+2350226	637 Northcroft Road, Rangitumau, Masterton	2025/10/11 18:47	-40.810980,175.706999
+2369122	29 Mangaroa Valley Road, Mangaroa, Upper Hutt	2025/10/11 18:48	-41.137010,175.093103
+2409149	376 Setters Line, Bunnythorpe, Palmerston North	2025/10/11 18:49	-40.290057,175.588626
+565465	629 Owahanga Road, Pongaroa	2025/10/11 19:09	-40.681485,176.334918

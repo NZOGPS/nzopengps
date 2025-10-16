@@ -14,7 +14,7 @@ if /i %1 equ Tasman		%nzogps_psqlc% -c "drop table if exists %1_nums; Create tab
 if /i %1 equ Canterbury	%nzogps_psqlc% -c "drop table if exists %1_nums; Create table %1_Nums as select * from \"nz_addresses\" where gd2000_ycoord <-42.731949 and gd2000_ycoord >-44.55553 and gd2000_xcoord > 0;"
 if /i %1 equ Southland	%nzogps_psqlc% -c "drop table if exists %1_nums; Create table %1_Nums as select * from \"nz_addresses\" where gd2000_ycoord <-44.55553;"
 
-if errorlevel 1 goto :EOF
+if errorlevel 1 echo tile address failed & goto :EOF
 
 %nzogps_psqlc% -v numstable=%1_nums  -f Code\postpro-nums.sql
 
@@ -23,6 +23,7 @@ cd TempData
 %nzogps_psqlc% -f %1_numberlines.sql
 cd ..
 %nzogps_psqlc% -v linestable=%1_numberlines -v distance=250 -f Code\%nzogps_wsppl%
+if errorlevel 1 echo postpro lines failed & goto :EOF
 %nzogps_psqlc% -v linestable=%1_numberlines -v numstable=%1_nums -v outfile='%nzogps_base%\scripts\wrongside\Outputs\%1-WrongSide.csv' -f Code\intersect.sql
 %nzogps_psqlc% -v linestable=%1_numberlines -v distance=400 -v outfile='%nzogps_base%\scripts\wrongside\Outputs\%1-Sparsest.csv' -f Code\Sparsest.sql
 rem if you get a write failure for CSV files you may need to grant write access for the user for the pg server process e.g. NETWORK SERVICE ? Use task manager/details

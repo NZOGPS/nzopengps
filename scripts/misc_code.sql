@@ -694,3 +694,41 @@ create table temp_southland_not_contains as select sc.rgnidx,src.regc_00,cityid,
 	join southland_cities sc
 		on sc.rgnidx = nzo.rgnidx::integer
 	where not st_contains(wkb_geometry,stbound) or st_overlaps(wkb_geometry,stbound)
+
+-- automatic work out GEOS version compatibility?
+%nzogps_psql_bin%psql -U postgres -d nzopengps  -c "select (string_to_array(PostGIS_GEOS_version(),'.'))[1:2]::INT[] > '{3,10}';"
+--test offsetcurve
+ALTER TABLE IF EXISTS public.southland_numberlines drop column if exists r50line;
+ALTER TABLE IF EXISTS public.southland_numberlines drop column if exists l50line;
+ALTER TABLE IF EXISTS public.southland_numberlines ADD COLUMN r50line geometry(LineString,2193);
+ALTER TABLE IF EXISTS public.southland_numberlines ADD COLUMN l50line geometry(LineString,2193);
+update southland_numberlines set r50line = st_reverse(st_offsetcurve(nztm_line,-50));
+update southland_numberlines set l50line = st_offsetcurve(nztm_line,50);
+--
+ALTER TABLE IF EXISTS public.southland_numberlines drop column if exists r150line;
+ALTER TABLE IF EXISTS public.southland_numberlines drop column if exists l150line;
+ALTER TABLE IF EXISTS public.southland_numberlines ADD COLUMN r150line geometry(LineString,2193);
+ALTER TABLE IF EXISTS public.southland_numberlines ADD COLUMN l150line geometry(LineString,2193);
+update southland_numberlines set r150line = st_reverse(st_offsetcurve(nztm_line,-150));
+update southland_numberlines set l150line = st_offsetcurve(nztm_line,150);
+--
+ALTER TABLE IF EXISTS public.southland_numberlines drop column if exists r100line;
+ALTER TABLE IF EXISTS public.southland_numberlines drop column if exists l100line;
+ALTER TABLE IF EXISTS public.southland_numberlines ADD COLUMN r100line geometry(LineString,2193);
+ALTER TABLE IF EXISTS public.southland_numberlines ADD COLUMN l100line geometry(LineString,2193);
+update southland_numberlines set r100line = st_reverse(st_offsetcurve(nztm_line,-100));
+update southland_numberlines set l100line = st_offsetcurve(nztm_line,100);
+--
+ALTER TABLE IF EXISTS public.southland_numberlines drop column if exists r200line;
+ALTER TABLE IF EXISTS public.southland_numberlines drop column if exists l200line;
+ALTER TABLE IF EXISTS public.southland_numberlines ADD COLUMN r200line geometry(LineString,2193);
+ALTER TABLE IF EXISTS public.southland_numberlines ADD COLUMN l200line geometry(LineString,2193);
+update southland_numberlines set r200line = st_reverse(st_offsetcurve(nztm_line,-200));
+update southland_numberlines set l200line = st_offsetcurve(nztm_line,200);
+
+ALTER TABLE IF EXISTS public.southland_numberlines drop column if exists  r250line;
+ALTER TABLE IF EXISTS public.southland_numberlines drop column if exists l250line;
+ALTER TABLE IF EXISTS public.southland_numberlines ADD COLUMN r250line geometry(LineString,2193);
+ALTER TABLE IF EXISTS public.southland_numberlines ADD COLUMN l250line geometry(LineString,2193);
+update southland_numberlines set r250line = st_reverse(st_offsetcurve(nztm_line,-250));
+update southland_numberlines set l250line = st_offsetcurve(nztm_line,250);

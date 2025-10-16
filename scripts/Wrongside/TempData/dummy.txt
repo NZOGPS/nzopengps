@@ -1,2 +1,2 @@
-First/raw/unpapered version of wrongside.csv goes here.
+sql from mp2sql and first/raw/unpapered version of wrongside.csv goes here.
 This file is here to force creation of folder on new installs

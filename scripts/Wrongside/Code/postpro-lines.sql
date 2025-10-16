@@ -4,8 +4,8 @@ Update :linestable set nztm_line = st_transform(the_geom,2193);
 Alter Table :linestable Add Column leftpoly geometry(multipolygon,2193);
 Alter Table :linestable Add Column rightpoly geometry(multipolygon,2193);
 \echo Create offset side polygons
-update :linestable set rightpoly = ST_Multi(st_makepolygon(st_addpoint(st_makeline(nztm_line,(st_offsetcurve(nztm_line,-:distance))),st_startpoint(nztm_line)))) where linzid>0 and ST_NumGeometries(st_offsetcurve(nztm_line,-:distance))=1;
--- needed reverse at work? - but still not right...
+update :linestable set rightpoly = ST_Multi(st_makepolygon(st_addpoint(st_makeline(nztm_line,(st_reverse(st_offsetcurve(nztm_line,-:distance)))),st_startpoint(nztm_line)))) where linzid>0 and ST_NumGeometries(st_offsetcurve(nztm_line,-:distance))=1;
+-- need reverse of line for GEOS version 3.11 onward
 update :linestable set  leftpoly = ST_Multi(st_makepolygon(st_addpoint(st_makeline(nztm_line,st_reverse(st_offsetcurve(nztm_line,:distance))),st_startpoint(nztm_line)))) where linzid>0 and ST_NumGeometries(st_offsetcurve(nztm_line,:distance))=1;
 
 --update :linestable set rightpoly = ST_Multi(st_buffer(nztm_line,:distance,'side=right')) where linzid > 0;

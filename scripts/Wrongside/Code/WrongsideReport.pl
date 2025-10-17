@@ -59,7 +59,8 @@ if ($cnt){
 $filename = "$basename-WrongSide.csv";
 $filename2 = $filename;
 $filename2 =~ s/\.csv/-all.csv/;
-rename $filename, $filename2;
+die "$filename not found" if not -f $filename;
+rename $filename, $filename2 or die "Error renaming file $filename to $filename2 : $!";
 open INF,$filename2;
 open OUTF,">",$filename or die "Can't create $filename\n";
 while (<INF>){

@@ -732,3 +732,20 @@ ALTER TABLE IF EXISTS public.southland_numberlines ADD COLUMN r250line geometry(
 ALTER TABLE IF EXISTS public.southland_numberlines ADD COLUMN l250line geometry(LineString,2193);
 update southland_numberlines set r250line = st_reverse(st_offsetcurve(nztm_line,-250));
 update southland_numberlines set l250line = st_offsetcurve(nztm_line,250);
+--
+-- works on old version. Creates mixed output of linestrings and multilinestrings
+ALTER TABLE IF EXISTS public.southland_numberlines drop column if exists r250line;
+ALTER TABLE IF EXISTS public.southland_numberlines drop column if exists l250line;
+ALTER TABLE IF EXISTS public.southland_numberlines ADD COLUMN r250line geometry(MultiLineString,2193);
+ALTER TABLE IF EXISTS public.southland_numberlines ADD COLUMN l250line geometry(MultiLineString,2193);
+update southland_numberlines set r250line = st_multi(st_offsetcurve(nztm_line,-250));
+update southland_numberlines set l250line = st_multi(st_offsetcurve(nztm_line,250));
+
+create table southland_multilines( linzid integer, the_geom geometry(multiLineString,4167));
+insert into southland_multilines (linzid, the_geom)
+  select linzid, st_collect(sn.the_geom)
+  from southland_numberlines sn
+  group by linzid;
+
+
+

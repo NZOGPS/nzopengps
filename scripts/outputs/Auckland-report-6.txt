@@ -1,10 +1,10 @@
-Start = 2025-10-11 03:05:31 +1300
+Start = 2025-10-16 01:03:46 +1300
 linzid	street_name	street_name_2	official_street_name
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
 1821419	Valley Rd (off-road vehicles only)		Valley Rd	-36.66656,174.53579
 1830965	Hull Rd (4WD only, closed in Winter)		Hull Rd	-36.64738,174.58702
-3085080	Waikaka Mangu Pl		Waikaka Parauri Pl	-37.09878,174.96025
+1818922	Under construction - Pakuranga Hwy		Pakuranga Hwy	-36.91493,174.86636
 #############################
 
-Finish = 2025-10-11 03:05:35 +1300
-Processing time = 4.126775
+Finish = 2025-10-16 01:03:52 +1300
+Processing time = 5.592706

@@ -2,11 +2,11 @@
 88 entries in V:\nzopengps\LinzDataService\PaperRoads\Auckland-LINZWrongSide.txt
 264 wrongside numbers, 245 not in Exclusion files
 73 entries in Linz list are no longer on the wrong side
-1519721	321 Spur Road	2015/05/10 00:34	-36.622085,174.691525	S36.622251° E174.691184° looks better
-1169764	19 Hapimana Street	2015/05/02 01:15	-36.845853,174.824123	Seems to be in the middle of the road
-1153131	4 Tanners Road	2015/05/02 13:21	-36.951185,174.791275
-1131828	3 Sir Peter Blake Parade	2015/05/03 14:42	-36.816616,174.768886	Most of these points seem to be in the middle of the road
-1509579	99 Tender Road	2015/05/09 23:28	-36.663721,174.609369	Middle of the road?
+1519721	321 Spur Road	2015/05/10 00:34	-36.622085,174.691525	S36.622251° E174.691184° looks better >>> can't see anything wrong
+1169764	19 Hapimana Street	2015/05/02 01:15	-36.845853,174.824123	Seems to be in the middle of the road >>> nowhere near a road. it's a park, which includes the access lane.
+1153131	4 Tanners Road	2015/05/02 13:21	-36.951185,174.791275 >>> dne
+1131828	3 Sir Peter Blake Parade	2015/05/03 14:42	-36.816616,174.768886	Most of these points seem to be in the middle of the road >>> dne and there is nothing in the motr
+1509579	99 Tender Road	2015/05/09 23:28	-36.663721,174.609369	Middle of the road? >>> dne
 1523514	2 Marae Road	2015/05/15 01:40	-36.851653,175.473761
 1513439	114 Scandrett Road	2015/05/08 23:44	-36.443884,174.767758
 1517743	115 Kowhai Road	2015/05/06 10:23	-36.593519,174.664872	S36.593140° E174.664598° looks better

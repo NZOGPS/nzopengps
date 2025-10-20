@@ -4,6 +4,9 @@ endif
 
 .SUFFIXES:
 .SECONDARY:
+MAKEFLAGS += --no-builtin-rules
+MAKEFLAGS += --no-builtin-variables
+
 TILES = Northland Southland Tasman Waikato Central Wellington Canterbury Auckland
 
 BASE = $(subst ",,$(nzogps_base))
@@ -32,9 +35,10 @@ $(LINZ)\lds-$(NZSL)-CSV\$(NZSL).csv : $(DLOAD)\lds-$(NZSL)-CSV.zip
 	if exist $(LINZ)\lds-$(NZSL)-CSV\* del /Q $(LINZ)\lds-$(NZSL)-CSV\*
 	$(nzogps_unzip_cmd) $< -o$(LINZ)\lds-$(NZSL)-CSV
 	grep -q  "EPSG:4167" $(LINZ)\lds-$(NZSL)-CSV\$(NZSL).vrt
-	mv $< $(LINZ)\*
+	cmd /C move $< $(LINZ)
+	cd $(LINZ) &	$(PERL) renzip.pl $(notdir $<)
 
-$(LINZ)\$(NZSL).sentinel : $(LINZ)\lds-$(NZSL)-CSV\$(NZSL).csv
+$(LINZ)/$(NZSL).sentinel : $(LINZ)\lds-$(NZSL)-CSV\$(NZSL).csv
 	$(OGR2OGR) --config PG_USE_COPY TRUE -f "PostgreSQL" "PG:host=localhost user=postgres  dbname=nzopengps" -lco OVERWRITE=yes -lco GEOMETRY_NAME=wkb_geometry -oo GEOM_POSSIBLE_NAMES=WKT $<
 	$(PSQL) -U postgres -d nzopengps < Code\postproc.sql
 	echo database updated %date% sentinel > $@

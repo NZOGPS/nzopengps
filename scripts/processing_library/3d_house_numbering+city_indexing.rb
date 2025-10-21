@@ -3,7 +3,7 @@ print "processing_library 3b adds house numbering and city indexing\n"
 This script uses the LINZ Data Service official number shape files to add Polish format numbering to our tiles
 
 Requirements:
-Ruby 1.87+, 1.93 recommeneded
+Ruby 1.87+, 1.93 recommended
 
 Ruby Windows Installation Instructions:
 Get the latest installer from http://rubyinstaller.org/downloads/
@@ -199,21 +199,21 @@ def post_processing
 City ID corrected using xlt file:
 ================================
 EOF
-print "\n==Using xlt file for city address worked:\n"
+# print "\n==Using xlt file for city address worked:\n"
 @xlt_worked.keys.sort.each{|key|
 	@reporting_file.print "\t#{key}\t#{@xlt_worked[key]}\n"
-	print "\t#{key}\t#{@xlt_worked[key]}\n"
+#	print "\t#{key}\t#{@xlt_worked[key]}\n"
 }
 @reporting_file.print <<EOF
 ================================
 City ID corrected using geometry:
 ================================
 EOF
-print "\n==Using geometry for city address worked:\n"
+# print "\n==Using geometry for city address worked:\n"
 total = 0
 @geom_worked.keys.sort.each{|key|
 	@reporting_file.print "\t#{key}\t#{@geom_worked[key]}\n"
-	print "\t#{key}\t#{@geom_worked[key]}\n"
+#	print "\t#{key}\t#{@geom_worked[key]}\n"
 	total += @geom_worked[key]
 }
 @reporting_file.puts("\t=Total=\t#{total}")

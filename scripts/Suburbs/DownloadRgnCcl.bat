@@ -3,10 +3,12 @@ rem get it from https://datafinder.stats.govt.nz/data/category/annual-boundaries
 if not exist ..\..\setlocals.bat echo ..\..\setlocals.bat not found. You need to copy and customise the setlocals sample file & goto :eof
 if not defined nzogps_base call ..\..\setlocals.bat
 @echo on
+setlocal
 set nzogps_rctbl=regional-council
 set nzogps_rcutbl=regional_council
 set nzogps_here=%CD%
 set nzogps_dlyr=2025
+set PROJ_LIB=
 
 cd ..\..\LinzDataService
 set nzogps_ex_pt=%nzogps_rctbl%-%nzogps_dlyr%

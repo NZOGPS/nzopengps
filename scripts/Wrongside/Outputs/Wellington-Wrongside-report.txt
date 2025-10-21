@@ -1,14 +1,13 @@
 52 entries in V:\nzopengps\LinzDataService\PaperRoads\Wellington-WrongSide.txt
 122 entries in V:\nzopengps\LinzDataService\PaperRoads\Wellington-LINZWrongSide.txt
-82 wrongside numbers,  not in Exclusion files
-22 entries in Ignore list are no longer on the wrong side
-1418498	238 ALBERT STREET	2013/12/21 08:09	-40.357751,175.629047
+83 wrongside numbers,  not in Exclusion files
+21 entries in Ignore list are no longer on the wrong side
 1691755	3 ASHFORD LANE	2013/12/22 18:14	-41.123661,175.072152
 1565486	6K Pascoe Avenue, Paremata, Porirua	2025/10/10 00:41	-41.095701,174.867802
+1938260	103A Warwick Street, Feilding	2018/08/21 22:39	-40.224258,175.560045
 1586180	10031A ROUTE 52	2013/12/22 12:23	-40.500966,176.251520
 1608976	9G MILLWARD LANE	2013/12/22 09:41	-41.314686,174.779370
 1451595	13 KEEL PLACE	2013/12/30 16:38	-41.114430,174.889217
-1742178	120A Opau Road, Makara, Wellington	2018/12/02 16:24	-41.237418,174.706275
 411021	12B HERBERT STREET	2014/02/20 16:13	-41.210741,174.894339
 377616	24 Telford Terrace, Oriental Bay, Wellington	2022/02/19 13:09	-41.292492,174.795793
 1630971	30A Westra View, Tawa, Wellington	2021/04/26 18:39	-41.164455,174.819089

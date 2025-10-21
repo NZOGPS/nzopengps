@@ -150,6 +150,11 @@
 2190824	96 Holyhead Street, Outram	2021/08/25 22:09	-45.854772,170.235023	check position?
 2215375	847 Lauder Flat Road, Becks, 	2021/08/25 22:14	-44.951139,169.710420	clearly different to rest of road.
 2248074	14 McDougall Street, Wanaka	2021/08/25 22:25	-44.700849,169.126159
+--- Sent to linz as corrections
+2352726	4289C Glenorchy-Queenstown Road, Glenorchy	2025/10/19 17:49	-44.858493,168.397098
+2404941	45 Pukeko Lane, Waiareka Junction, Oamaru	2025/10/19 17:49	-45.086621,170.941627
+2289413	13 Jason Street, Helensburgh, Dunedin	2025/10/19 17:56	-45.851954,170.487303
+---
 1409390	145 Monterey Road, Hindon, Outram	2025/10/18 23:19	-45.762652,170.156490
 1742327	25 Mount Alfred Ridge, Glenorchy	2025/10/18 23:20	-44.879505,168.408127
 1615528	52 Mount Alfred Ridge, Glenorchy	2025/10/18 23:20	-44.877379,168.407028
@@ -163,3 +168,5 @@
 2417084	954 Elliotvale Road, Lovells Flat, Milton	2025/10/18 23:59	-46.184955,169.894310
 82804	78 Horseshoe Bay Road, Stewart Island/Rakiura, Stewart Island	2025/10/19 00:05	-46.891731,168.128219
 963441	50 Airport Road, Stewart Island/Rakiura, Stewart Island	2025/10/19 00:10	-46.897051,168.110890
+2198252	1134 Finlayson Road, Taieri Mouth	2025/10/19 17:48	-46.055071,170.186566
+2404448	675A Waitati Valley Road, Upper Waitati, Waitati	2025/10/19 17:49	-45.763902,170.552508

@@ -328,6 +328,7 @@
 2292486	900 Mangati Road, Puketotara	2022/08/07 17:10	-38.056744,175.098151	870 is also on the wrong side. Others nearby match RAPID
 570407	269 Tutaetoko Road, Toatoa	2022/08/07 17:21	-38.100026,177.335897
 833279	205 Forest Road, Reporoa	2025/09/29 18:19	-38.394449,176.377989
+-- 2025 new - as yet unsent
 586811	153 McIlroy Road, Waipiro, Ruatoria	2025/09/29 18:20	-38.007032,178.338805
 586794	653 Waiomatatini Road, Ruatoria	2025/09/29 18:20	-37.860004,178.344491
 2428665	42 Te Ohaki Road, Huntly	2025/09/29 18:23	-37.543943,175.152383
@@ -342,3 +343,14 @@
 2323611	11433A State Highway 35, Cape Runaway	2025/09/29 19:15	-37.572195,178.006597
 2323612	11433B State Highway 35, Cape Runaway	2025/09/29 19:15	-37.571959,178.007281
 585116	654 Goodwin Road, Waimata	2025/09/29 19:44	-38.616541,178.101871
+2403337	657 Grasslands Drive, Cambridge	2025/10/22 22:50	-37.883101,175.445405
+2442240	2500 Tauwhareparae Road, Tauwhareparae, Tolaga Bay	2025/10/22 22:53	-38.302435,178.112362
+586810	145 McIlroy Road, Waipiro, Ruatoria	2025/10/22 22:56	-38.007278,178.338587
+-- Below already sent to LINZ as corrections - can probably be deleted if corrected
+2234039	2/18 Lugton Street, Nawton, Hamilton	2025/10/22 23:08	-37.768956,175.237177
+2234038	3/18 Lugton Street, Nawton, Hamilton	2025/10/22 23:09	-37.768874,175.237193
+2234037	4/18 Lugton Street, Nawton, Hamilton	2025/10/22 23:09	-37.768792,175.237213
+2364314	13B Puriri Street, Te Aroha	2025/10/22 23:09	-37.539594,175.715247
+2392968	108B Kirk Road, Richmond Downs	2025/10/22 23:09	-37.754929,175.695600
+2426348	239 Mohokopiki Street, Fairview Downs, Hamilton	2025/10/22 23:10	-37.760057,175.314338
+---

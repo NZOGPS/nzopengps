@@ -170,3 +170,4 @@
 963441	50 Airport Road, Stewart Island/Rakiura, Stewart Island	2025/10/19 00:10	-46.897051,168.110890
 2198252	1134 Finlayson Road, Taieri Mouth	2025/10/19 17:48	-46.055071,170.186566
 2404448	675A Waitati Valley Road, Upper Waitati, Waitati	2025/10/19 17:49	-45.763902,170.552508
+1606831	75 Shale Road, Orepuki, Riverton/Aparima	2025/10/22 14:43	-46.273914,167.754973

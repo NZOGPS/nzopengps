@@ -1,0 +1,17 @@
+0000011	Maple Dr	Ohauiti (Bay of Plenty, NZ)	22/10/2025 22:15:00	-37.73866 176.15569
+0000012	Carmel Crt	Ohauiti (Bay of Plenty, NZ)	22/10/2025 22:15:01	-37.73931 176.15420
+0000013	Fuschia Pl	Ohauiti (Bay of Plenty, NZ)	22/10/2025 22:15:02	-37.73925 176.15470
+0000014	Wisteria Way	Ohauiti (Bay of Plenty, NZ)	22/10/2025 22:15:03	-37.74078,176.15539
+0000015	Cherry Lane	Ohauiti (Bay of Plenty, NZ)	22/10/2025 22:15:04	-37.74143,176.15489
+0000016	Lilac Pl	Ohauiti (Bay of Plenty, NZ)	22/10/2025 22:15:05	-37.74108,176.15493
+0000017	Camellia Pl	Ohauiti (Bay of Plenty, NZ)	22/10/2025 22:15:06	-37.73942,176.15469
+0000018	Vireya Rise	Ohauiti (Bay of Plenty, NZ)	22/10/2025 22:15:07	-37.74134 176.15431
+0000019	Conifer Gr	Ohauiti (Bay of Plenty, NZ)	22/10/2025 22:15:08	-37.73869,176.15571
+0000020	Cotswold Court	Ohauiti (Bay of Plenty, NZ)	22/10/2025 22:15:09	-37.73840,176.12224
+0000021	Hibiscus Cl	Ohauiti (Bay of Plenty, NZ)	22/10/2025 22:15:10	-37.74145,176.15444
+0000022	Kowhai Crt	Ohauiti (Bay of Plenty, NZ)	22/10/2025 22:15:11	-37.74104,176.15528
+0000023	Lavender Cl	Ohauiti (Bay of Plenty, NZ)	22/10/2025 22:15:12	-37.74150,176.15482
+0000024	Lemon Tree Gr	Ohauiti (Bay of Plenty, NZ)	22/10/2025 22:15:13	-37.74065,176.15541
+0000025	Palm Pl	Ohauiti (Bay of Plenty, NZ)	22/10/2025 22:15:14	-37.74022,176.15539
+0000026	Red Robin Way	Ohauiti (Bay of Plenty, NZ)	22/10/2025 22:15:15	-37.73983,176.15537
+0000027	Rosedale Pl	Ohauiti (Bay of Plenty, NZ)	22/10/2025 22:15:16	-37.73958,176.15519

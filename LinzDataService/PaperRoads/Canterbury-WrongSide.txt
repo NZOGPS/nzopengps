@@ -18,3 +18,4 @@
 2140306	45R Prestons Park Drive, Marshland, Christchurch	2025/09/22 23:39	-43.478233,172.669524
 282299	12 Gilmour Terrace, Lyttelton	2025/10/12 00:33	-43.605191,172.727274
 282297	10 Gilmour Terrace, Lyttelton	2025/10/12 00:34	-43.605343,172.727291
+2442738	3089 Bossu Road, Okuti Valley, Little River	2025/10/22 14:53	-43.823596,172.714955

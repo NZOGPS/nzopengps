@@ -33,11 +33,13 @@ installer/uppercase/Tasman.mp
 installer/uppercase/Waikato.mp
 installer/uppercase/Wellington.mp
 /installer/uppercase/old
+/LinzDataService/lds-AIMS-address-reference-CSV/
 /LinzDataService/lds-new-zealand-*.zip
 /LinzDataService/lds-nz-suburbs-and-localities-CSV
-/LinzDataService/lds-nz-road-centre-line-electoral-SHP
-/LinzDataService/lds-nz-street-address-electoral-SHP
+/LinzDataService/lds-nz-roads-subsections-addressing-CSV/
+/LinzDataService/lds-nz-addresses-CSV
 /LinzDataService/statsnz-regional-council-*-CSV
+/LinzDataService/nz-suburbs-and-localities.sentinel
 /LinzDataService/outputslinz
 /LinzDataService/ProcessedCSVFiles
 /setlocals.bat

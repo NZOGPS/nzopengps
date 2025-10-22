@@ -1,6 +1,6 @@
 2 entries in V:\nzopengps\LinzDataService\PaperRoads\Northland-WrongSide.txt
 164 entries in V:\nzopengps\LinzDataService\PaperRoads\Northland-LINZWrongSide.txt
-122 wrongside numbers, 35 not in Exclusion files
+123 wrongside numbers, 36 not in Exclusion files
 1 entries in Ignore list are no longer on the wrong side
 2102556	83C Mihi Road, Okaihau	2022/07/22 17:19	-35.306064,173.734469
 

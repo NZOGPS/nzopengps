@@ -1,6 +1,6 @@
 20 entries in V:\nzopengps\LinzDataService\PaperRoads\Canterbury-WrongSide.txt
 184 entries in V:\nzopengps\LinzDataService\PaperRoads\Canterbury-LINZWrongSide.txt
-148 wrongside numbers,  not in Exclusion files
+149 wrongside numbers, 1 not in Exclusion files
 6 entries in Ignore list are no longer on the wrong side
 282297	10 Gilmour Terrace, Lyttelton	2025/10/12 00:34	-43.605343,172.727291
 282299	12 Gilmour Terrace, Lyttelton	2025/10/12 00:33	-43.605191,172.727274

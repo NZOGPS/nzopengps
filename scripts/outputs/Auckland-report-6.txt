@@ -1,4 +1,4 @@
-Start = 2025-10-22 01:15:03 +1300
+Start = 2025-10-22 13:03:01 +1300
 linzid	street_name	street_name_2	official_street_name
 3037668	Bluff Rd (closed by slip)		Bluff Rd	-36.72800,175.68179
 1821419	Valley Rd (off-road vehicles only)		Valley Rd	-36.66656,174.53579
@@ -6,5 +6,5 @@ linzid	street_name	street_name_2	official_street_name
 1818922	Under construction - Pakuranga Hwy		Pakuranga Hwy	-36.91493,174.86636
 #############################
 
-Finish = 2025-10-22 01:15:11 +1300
-Processing time = 7.5184
+Finish = 2025-10-22 13:03:07 +1300
+Processing time = 6.111263

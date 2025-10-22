@@ -1,7 +1,7 @@
 147 entries in V:\nzopengps\LinzDataService\PaperRoads\Waikato-WrongSide.txt
 341 entries in V:\nzopengps\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-290 wrongside numbers, 12 not in Exclusion files
-67 entries in Ignore list are no longer on the wrong side
+290 wrongside numbers, 11 not in Exclusion files
+66 entries in Ignore list are no longer on the wrong side
 1377512	33 TE KARAKA DRIVE	2013/12/14 16:38	-37.682891,176.039633
 721243	4 VILLAGE ROAD	2013/10/15 19:47	-38.516940,175.552521
 657059	265 PUKETE ROAD	2014/01/21 17:56	-37.734250,175.233315
@@ -61,7 +61,6 @@
 1344762	22 MCGUIRES ROAD	2014/04/18 15:18	-37.275153,174.943418
 844475	2034 GALATEA ROAD	2013/10/15 21:38	-38.186882,176.837399
 756624	405 OPOUTERE ROAD	2014/04/18 12:49	-37.106456,175.878155
-1708303	1013 SH 30	2013/10/15 19:45	-38.503276,175.468281
 2393877	285C Drury Hills Road, Drury	2025/09/29 11:09	-37.110157,174.989973
 1379988	171A Elizabeth Street, Tauranga	2021/01/14 23:33	-37.685796,176.162771
 756623	403 OPOUTERE ROAD	2014/04/18 12:50	-37.106632,175.878035

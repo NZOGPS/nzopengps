@@ -1,2 +1,2 @@
 8 entries in V:\nzopengps\LinzDataService\PaperRoads\Auckland-WrongSide.txt
-276 wrongside numbers, 268 not in Exclusion files
+247 wrongside numbers, 239 not in Exclusion files

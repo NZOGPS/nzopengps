@@ -17,3 +17,4 @@
 2317600	66A Potter Road, Dairy Flat	2025/10/25 17:44	-36.698593,174.659259
 2381551	32R Kiwi Esplanade, Mangere Bridge, Auckland	2025/10/25 17:55	-36.938600,174.777917
 2383777	25 King Edward Parade, Devonport, Auckland	2025/10/25 17:56	-36.831093,174.803180
+1517324	52 Dye Access Road, Kaukapakapa	2025/10/26 19:40	-36.616174,174.534769

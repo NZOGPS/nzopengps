@@ -18,3 +18,6 @@
 2381551	32R Kiwi Esplanade, Mangere Bridge, Auckland	2025/10/25 17:55	-36.938600,174.777917
 2383777	25 King Edward Parade, Devonport, Auckland	2025/10/25 17:56	-36.831093,174.803180
 1517324	52 Dye Access Road, Kaukapakapa	2025/10/26 19:40	-36.616174,174.534769
+2299683	60 Rawene Road, Birkenhead, Auckland	2025/10/27 17:12	-36.818289,174.726208
+2381551	32R Kiwi Esplanade, Mangere Bridge, Auckland	2025/10/27 21:35	-36.938600,174.777917
+2383777	25 King Edward Parade, Devonport, Auckland	2025/10/27 21:37	-36.831093,174.803180

@@ -1,2 +1,13 @@
-8 entries in V:\nzopengps\LinzDataService\PaperRoads\Auckland-WrongSide.txt
-247 wrongside numbers, 239 not in Exclusion files
+Warning: duplicate entries for 2299616 on line 14 in V:\nzopengps\LinzDataService\PaperRoads\Auckland-WrongSide.txt
+Warning: duplicate entries for 2299683 on line 21 in V:\nzopengps\LinzDataService\PaperRoads\Auckland-WrongSide.txt
+Warning: duplicate entries for 2381551 on line 22 in V:\nzopengps\LinzDataService\PaperRoads\Auckland-WrongSide.txt
+Warning: duplicate entries for 2383777 on line 23 in V:\nzopengps\LinzDataService\PaperRoads\Auckland-WrongSide.txt
+20 entries in V:\nzopengps\LinzDataService\PaperRoads\Auckland-WrongSide.txt
+103 wrongside numbers, 88 not in Exclusion files
+5 entries in Ignore list are no longer on the wrong side
+2194522	80B Pacific Heights Road, Orewa	2025/10/24 18:04	-36.572706,174.675729
+2300330	16 Weza Lane, Kumeu	2025/10/25 17:39	-36.775833,174.560544
+2167019	5 Persimmon Place, Whitford	2025/10/24 15:50	-36.962495,174.984815
+1279554	39 Elsie Morton Place	2015/05/18 22:57	-37.056667,174.969222
+1154147	27 Avro Place	2015/05/18 22:57	-36.971230,174.789753
+

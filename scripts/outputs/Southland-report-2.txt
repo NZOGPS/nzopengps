@@ -1,7 +1,18 @@
-Start = 2025-10-22 14:55:18 +1300
+Start = 2025-10-28 18:52:19 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Southland
+11 LINZ ids are missing from NZOGPS Southland
+;linzid=3085686	Ranunculus Ave	-44.6978930968204,169.153472135241
+;linzid=3085689	Anemone Cl	-44.6972393874839,169.152330754424
+;linzid=3085692	Kettle Hole Crt	-44.6975096435972,169.151089427155
+;linzid=3085688	Olearia Lane	-44.697610581169,169.152996217457
+;linzid=3085691	Pittosporum St	-44.6975096435972,169.151089427155
+;linzid=3085687	Coprosma Cres	-44.6963769959919,169.152418544646
+;linzid=3085693	Cordyline Cl	-44.6970510243315,169.1535991817
+;linzid=3085694	Carex Cl	-44.6963769959919,169.152418544646
+;linzid=3085690	Astelea Pl	-44.6963949014941,169.150807472886
+;linzid=3085695	Celmisia Pl	-44.6966902920141,169.150445168088
+;linzid=3085696	Lobelia Lane	-44.6963949014941,169.150807472886
 #############################
 
 0 LINZ ids are in NZOGPS Southland but missing from LINZ
@@ -13,5 +24,5 @@ Start = 2025-10-22 14:55:18 +1300
 0 Number range ids are in NZOGPS Southland but missing from LINZ
 #############################
 
-Finish = 2025-10-22 14:55:25 +1300
-Processing time = 7.008978
+Finish = 2025-10-28 18:52:24 +1300
+Processing time = 5.104773

@@ -21,3 +21,4 @@
 2299683	60 Rawene Road, Birkenhead, Auckland	2025/10/27 17:12	-36.818289,174.726208
 2381551	32R Kiwi Esplanade, Mangere Bridge, Auckland	2025/10/27 21:35	-36.938600,174.777917
 2383777	25 King Edward Parade, Devonport, Auckland	2025/10/27 21:37	-36.831093,174.803180
+710642	3200 Long Bay Road, Coromandel	2025/10/28 15:19	-36.747518,175.476666

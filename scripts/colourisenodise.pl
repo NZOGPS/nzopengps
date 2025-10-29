@@ -151,6 +151,7 @@ close OUT;
 my $cwd = cwd();
 $filename = Cwd::abs_path("$cwd/../LinzDataService/outputslinz/$tile-LINZ-V2.mp");
 my $gme = Win32::OLE->new('GPSMapEdit.Application.1');
+die "GPSMapEdit not available/installed" if not defined $gme;
 sleep 1; # funky crap happens if you don't wait.
 my $gv = $gme->version;
 die "Obsolete GPSMapedit version $gv" if $gv lt '1.1.60.0';

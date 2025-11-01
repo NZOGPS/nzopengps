@@ -1,21 +1,7 @@
-Start = 2025-10-28 18:52:14 +1300
+Start = 2025-11-01 15:50:43 +1300
 #############################
 
-14 LINZ ids are missing from NZOGPS Northland
-;linzid=3085633	Windward Ave	-35.7545321833452,174.343989307631
-;linzid=3085634	Millbank Dr	-35.7545143565011,174.346497726504
-;linzid=3085639	Northwards Lane	-36.3793476565512,174.659096272871
-;linzid=3085640	Magnolia Pl	-36.3795148026539,174.659728242414
-;linzid=3085641	Muka Lane	-36.3795148026539,174.659728242414
-;linzid=3085638	Ika Lane	-36.3786985471892,174.657718571368
-;linzid=3085642	Michelia Pl	-36.379727336479,174.658824263371
-;linzid=3085643	Hornbeam Pl	-36.380053786591,174.658457546219
-;linzid=3085644	Nikau Pl	-36.3803683517041,174.658075577718
-;linzid=3085649	Sentinel Circle	-36.0911883905652,174.582664849832
-;linzid=3085650	Snapper Lane	-36.0911984258238,174.582497916478
-;linzid=3085651	Seafarer Way	-36.0909336202583,174.58372664192
-;linzid=3085652	Bow Lane	-36.0909975762487,174.583085763402
-;linzid=3085653	Clew Lane	-36.0909336202583,174.58372664192
+0 LINZ ids are missing from NZOGPS Northland
 #############################
 
 0 LINZ ids are in NZOGPS Northland but missing from LINZ
@@ -27,5 +13,5 @@ Start = 2025-10-28 18:52:14 +1300
 0 Number range ids are in NZOGPS Northland but missing from LINZ
 #############################
 
-Finish = 2025-10-28 18:52:16 +1300
-Processing time = 2.028921
+Finish = 2025-11-01 15:50:45 +1300
+Processing time = 1.894247

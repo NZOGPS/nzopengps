@@ -1,7 +1,6 @@
-Start = 2025-10-28 18:52:47 +1300
+Start = 2025-11-01 15:50:45 +1300
 linzid	street_name	street_name_2	official_street_name
-3084584	Jacks Lane		Awa Pl	-36.37864,174.65759
 #############################
 
-Finish = 2025-10-28 18:52:49 +1300
-Processing time = 2.04091
+Finish = 2025-11-01 15:50:46 +1300
+Processing time = 1.542278

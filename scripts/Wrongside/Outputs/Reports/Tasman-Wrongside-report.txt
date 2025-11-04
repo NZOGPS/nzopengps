@@ -1,8 +1,32 @@
 35 entries in V:\nzopengps\LinzDataService\PaperRoads\Tasman-WrongSide.txt
 113 entries in V:\nzopengps\LinzDataService\PaperRoads\Tasman-LINZWrongSide.txt
-92 wrongside numbers,  not in Exclusion files
-1 entries in Ignore list are no longer on the wrong side
+68 wrongside numbers,  not in Exclusion files
+25 entries in Ignore list are no longer on the wrong side
+2311303	14/11 Cube Court, Richmond	2025/09/14 22:54	-41.330503,173.172119
+2311297	2/11 Cube Court, Richmond	2025/09/14 22:55	-41.330283,173.172467
+2311358	68/11 Cube Court, Richmond	2025/09/14 22:55	-41.330267,173.172249
+2311301	10/11 Cube Court, Richmond	2025/09/14 22:55	-41.330425,173.172236
+2311359	70/11 Cube Court, Richmond	2025/09/14 22:56	-41.330239,173.172312
+2311353	58/11 Cube Court, Richmond	2025/09/14 22:54	-41.330457,173.171979
+2311360	72/11 Cube Court, Richmond	2025/09/14 22:56	-41.330193,173.172373
+2311357	66/11 Cube Court, Richmond	2025/09/14 22:55	-41.330302,173.172191
+2311302	12/11 Cube Court, Richmond	2025/09/14 22:54	-41.330466,173.172180
+2311355	62/11 Cube Court, Richmond	2025/09/14 22:55	-41.330385,173.172087
+2311349	50/11 Cube Court, Richmond	2025/09/14 22:53	-41.330888,173.171308
 641623	17 Seawatch Way, Atawhai, Nelson	2022/02/04 13:25	-41.255562,173.315656
+2311354	60/11 Cube Court, Richmond	2025/09/14 22:54	-41.330422,173.172038
+2311308	24/11 Cube Court, Richmond	2025/09/14 22:52	-41.330960,173.171392
+2311299	6/11 Cube Court, Richmond	2025/09/14 22:55	-41.330364,173.172348
+2311298	4/11 Cube Court, Richmond	2025/09/14 22:55	-41.330320,173.172405
+2311307	22/11 Cube Court, Richmond	2025/09/14 22:53	-41.330888,173.171512
+2311356	64/11 Cube Court, Richmond	2025/09/14 22:55	-41.330337,173.172140
+2311351	54/11 Cube Court, Richmond	2025/09/14 22:53	-41.330735,173.171535
+2311305	18/11 Cube Court, Richmond	2025/09/14 22:53	-41.330578,173.172026
+2311352	56/11 Cube Court, Richmond	2025/09/14 22:54	-41.330489,173.171917
+2311300	8/11 Cube Court, Richmond	2025/09/14 22:55	-41.330391,173.172301
+2311350	52/11 Cube Court, Richmond	2025/09/14 22:53	-41.330807,173.171416
+2311306	20/11 Cube Court, Richmond	2025/09/14 22:53	-41.330815,173.171619
+2311304	16/11 Cube Court, Richmond	2025/09/14 22:54	-41.330546,173.172085
 
 55 entries in Linz list are no longer on the wrong side
 1308030	291 BILL BRYANTS ROAD	2014/06/10 20:34	-41.044106,173.751340

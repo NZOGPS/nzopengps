@@ -1,6 +1,6 @@
 31 entries in V:\nzopengps\LinzDataService\PaperRoads\Central-WrongSide.txt
 187 entries in V:\nzopengps\LinzDataService\PaperRoads\Central-LINZWrongSide.txt
-150 wrongside numbers,  not in Exclusion files
+152 wrongside numbers,  not in Exclusion files
 8 entries in Ignore list are no longer on the wrong side
 638115	888 Kakariki Farm Road, Kotemaori	2021/08/29 19:00	-39.012682,177.038069
 483378	316 KAITOKE ROAD	2014/04/01 10:57	-39.977966,175.086507
@@ -11,7 +11,7 @@
 1110616	550D Cuff Road, Erua	2019/06/21 13:42	-39.215731,175.332771
 405757	253 KAIRAU ROAD EAST	2014/04/11 14:04	-39.024984,174.207029
 
-60 entries in Linz list are no longer on the wrong side
+58 entries in Linz list are no longer on the wrong side
 615453	74 Hodgson Road	2015/04/12 18:59	-39.593561,176.863027
 608656	709 Gibraltar Road	2015/04/14 02:43	-40.146561,176.841064
 1627711	220 Ohawe Road, Ohawe	2021/03/28 12:17	-39.587048,174.203378	Pretty obvious dwelling, but RAPID numbering suggests it should be 221
@@ -30,7 +30,6 @@
 835147	1134 Matea Road	2015/04/14 19:47	-38.816205,176.465912	Middle of the road, and 550m south.
 1522601	111 Omatane North Road	2015/04/14 04:02	-39.724384,175.917744
 1608899	116 Fields Track, Kakatahi	2021/03/27 20:02	-39.645881,175.329675	Entrance at S39°38.7745' E175°19.9637' and dwelling at S39°38.7872' E175°19.8867' that better match numbering.
-1604206	1498 State Highway  4	2015/04/14 03:50	-39.546595,175.296146
 895439	130 Cornwall Road	2015/04/14 02:16	-39.406022,174.287563
 2184517	182 Gibraltar Road, Pourerere	2021/08/29 18:38	-40.114533,176.857773	No obvious buildings or entrances here. This point looks to be around 227, 182 is around S40.111599° E176.860715°
 1441117	208 Otara Road	2015/04/14 04:20	-39.868590,175.731233
@@ -41,7 +40,6 @@
 1559170	341 Hukatere Road, Patea	2021/03/27 18:32	-39.725343,174.488013	There's a building that matches numbering better at S39°43.6169' E174°29.2670'
 1625641	66 Waihirere Road, Wairoa	2021/03/28 12:12	-39.031457,177.406418
 570379	686 Okare Road, Ruakituri	2021/03/27 19:05	-38.782505,177.334375	Your road centreline seems incorrect/old. There's a RAPID matching dwelling at S38°46.6073' E177°20.1154'
-596034	408 McVicar Road	2015/04/12 02:58	-39.197276,176.613057
 1709400	720 Mt Curl Road, Hunterville	2021/08/29 17:27	-39.966698,175.463509	According to what we think RAPID should be here, these buildings would be numbered 729. Typo?
 2067413	3/1136 Matea Road, Rangitaiki	2021/03/27 18:35	-38.814870,176.466022
 2044445	990 Puketitiri Road, Puketapu	2021/08/29 17:54	-39.456875,176.782945	Obvious building, numbering is very close, but wrong side. 991?

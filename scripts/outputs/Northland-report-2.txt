@@ -1,10 +1,13 @@
-Start = 2025-11-01 15:50:43 +1300
+Start = 2025-11-18 19:25:29 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Northland
+2 LINZ ids are missing from NZOGPS Northland
+;linzid=3085720	Huatakaroa Qy	-35.2830614833,174.06061815
+;linzid=3085721	Haumaru Lane	-35.1951648167,173.9122267667
 #############################
 
-0 LINZ ids are in NZOGPS Northland but missing from LINZ
+1 LINZ ids are in NZOGPS Northland but missing from LINZ
+;linzid=3076047	Walkway	-35.77030,174.36798
 #############################
 
 0 Number range ids are missing from NZOGPS Northland
@@ -13,5 +16,5 @@ Start = 2025-11-01 15:50:43 +1300
 0 Number range ids are in NZOGPS Northland but missing from LINZ
 #############################
 
-Finish = 2025-11-01 15:50:45 +1300
-Processing time = 1.894247
+Finish = 2025-11-18 19:25:31 +1300
+Processing time = 2.515565

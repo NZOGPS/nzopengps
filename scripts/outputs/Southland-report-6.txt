@@ -1,6 +1,7 @@
-Start = 2025-11-01 23:45:21 +1300
+Start = 2025-11-18 19:26:11 +1300
 linzid	street_name	street_name_2	official_street_name
+1774317	Smiths' Way		Smiths Way	-44.94681,169.25523
 #############################
 
-Finish = 2025-11-01 23:45:24 +1300
-Processing time = 3.607067
+Finish = 2025-11-18 19:26:16 +1300
+Processing time = 4.984395

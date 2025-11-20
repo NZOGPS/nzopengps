@@ -10,8 +10,9 @@ MAKEFLAGS += --no-builtin-variables
 TILES = Northland Southland Tasman Waikato Central Wellington Canterbury Auckland
 
 BASE = $(subst ",,$(nzogps_base))
+# BASE = $(subst \,/,$(nzogps_base))
 DLOAD = $(subst ",,$(nzogps_download))
-LINZ = $(BASE)\LinzDataService
+LINZ = $(BASE)/LinzDataService
 LINZO = $(LINZ)\outputslinz
 NZSL = nz-suburbs-and-localities
 NUMBERS = $(BASE)\numbers
@@ -28,7 +29,7 @@ tilenum = $(subst Northland,1,$(subst Auckland,2,$(subst Waikato,3,$(subst Centr
 all : $(addprefix $(OUTPUTS)/, $(addsuffix -WrongCities2.csv, $(TILES)))
 .PHONY: all
 
-$(OUTPUTS)/%-WrongCities2.csv : $(BASE)/%.mp $(LINZ)/$(NZSL).sentinel $(LINZ)\CityXlate\%_cidxlt.csv $(LINZ)\CityXlate\%_dont_cityindex.csv
+$(OUTPUTS)/%-WrongCities2.csv : $(BASE)/%.mp $(LINZ)/$(NZSL).sentinel $(LINZ)/CityXlate/%_cidxlt.csv $(LINZ)/CityXlate/%_dont_cityindex.csv
 	process_tile.bat $*
 
 $(LINZ)\lds-$(NZSL)-CSV\$(NZSL).csv : $(DLOAD)\lds-$(NZSL)-CSV.zip

@@ -1,6 +1,6 @@
 35 entries in V:\nzopengps\LinzDataService\PaperRoads\Tasman-WrongSide.txt
 113 entries in V:\nzopengps\LinzDataService\PaperRoads\Tasman-LINZWrongSide.txt
-68 wrongside numbers,  not in Exclusion files
+67 wrongside numbers,  not in Exclusion files
 25 entries in Ignore list are no longer on the wrong side
 2311303	14/11 Cube Court, Richmond	2025/09/14 22:54	-41.330503,173.172119
 2311297	2/11 Cube Court, Richmond	2025/09/14 22:55	-41.330283,173.172467
@@ -28,7 +28,7 @@
 2311306	20/11 Cube Court, Richmond	2025/09/14 22:53	-41.330815,173.171619
 2311304	16/11 Cube Court, Richmond	2025/09/14 22:54	-41.330546,173.172085
 
-55 entries in Linz list are no longer on the wrong side
+56 entries in Linz list are no longer on the wrong side
 1308030	291 BILL BRYANTS ROAD	2014/06/10 20:34	-41.044106,173.751340
 398370	126 Uruwhenua Road	2014/07/18 23:49	-40.996303,172.815299	Slightly the wrong side of the physical road
 1932207	590 Abel Tasman Drive, Clifton	2019/05/12 16:55	-40.843652,172.864235	Other addresses on this road match RAPID numbering.
@@ -81,6 +81,7 @@
 1308037	703 BILL BRYANTS ROAD	2014/06/10 20:36	-41.040656,173.730720
 1310763	2941 Kenepuru Road, Portage	2022/02/04 13:47	-41.200861,174.035618	Amid a whole lot of even numbers.
 1015223	1350 MCCALLUMS MILL ROAD	2014/06/09 22:00	-41.151900,172.190000
+1629255	516 TAPPS ROAD	2014/06/10 22:20	-41.330536,173.652791
 339747	17 HUNTER ROAD	2014/06/10 21:53	-41.430385,173.965751
 321241	48 Biggsburn Way	2014/07/19 01:07	-41.216772,173.345598
 1676843	585 UMERE ROAD	2014/06/09 22:48	-41.256351,172.186081	 Change of side compared to further south

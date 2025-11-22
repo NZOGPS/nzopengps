@@ -1,6 +1,6 @@
 13 entries in V:\nzopengps\LinzDataService\PaperRoads\Southland-WrongSide.txt
 164 entries in V:\nzopengps\LinzDataService\PaperRoads\Southland-LINZWrongSide.txt
-97 wrongside numbers,  not in Exclusion files
+99 wrongside numbers, 1 not in Exclusion files
 9 entries in Ignore list are no longer on the wrong side
 1578017	16B JOY STREET	2013/10/26 23:16	-45.095919,170.961474
 1385428	106C Mararoa Road, The Key, Manapouri	2025/10/18 23:15	-45.501828,167.974849
@@ -12,7 +12,7 @@
 1578018	16C JOY STREET	2013/10/26 23:16	-45.095870,170.961180
 2015143	130A Willowbank Road, Queensberry	2019/06/04 17:48	-44.789431,169.320117
 
-71 entries in Linz list are no longer on the wrong side
+70 entries in Linz list are no longer on the wrong side
 1604690	34 ARAMOANA ROAD	2013/10/26 23:35	-45.805825,170.625299
 2215375	847 Lauder Flat Road, Becks, 	2021/08/25 22:14	-44.951139,169.710420	clearly different to rest of road.
 1562935	1540 Horse Range Road, Hillgrove	2019/10/18 23:54	-45.384822,170.823726	Obvious dwelling here. To me it should be 1541
@@ -30,7 +30,6 @@
 2318613	540 Bushy Creek Road, Maerewhenua, Duntroon	2025/10/18 23:50	-44.914933,170.571133
 1651879	23 CARDRONA VALLEY ROAD	2013/10/06 21:15	-44.709425,169.136483
 1394116	277 GULLY ROAD	2013/10/26 22:27	-46.109780,167.745983
-2404448	675A Waitati Valley Road, Upper Waitati, Waitati	2025/10/19 17:49	-45.763902,170.552508
 1406022	25 COBHAM CRESCENT	2013/10/05 23:15	-45.097343,169.594945
 24472	126 WATSON ROAD	2013/10/26 23:08	-46.155512,170.122742
 1402710	749 BANNOCKBURN ROAD	2013/10/05 23:11	-45.113702,169.158118
@@ -47,6 +46,7 @@
 78711	40 MINTY ROAD	2013/10/26 22:28	-45.971076,167.830710	No buildings on this side of road?
 1693421	70 Coast Road, Warrington	2019/10/18 23:51	-45.714288,170.576623
 53145	1265 Harington Point Road, Harington Point	2019/10/18 23:42	-45.777567,170.732564
+2289413	13 Jason Street, Helensburgh, Dunedin	2025/10/19 17:56	-45.851954,170.487303
 1578398	97 PUB ROAD	2013/10/09 12:27	-44.861382,170.868779
 1845847	156 Teschemaker Valley Road	2014/07/18 00:07	-44.602644,171.078406
 1395212	590 PARK HILL ROAD	2013/10/26 22:58	-45.836467,169.199786
@@ -71,7 +71,6 @@
 1659059	1 TOKO MOUTH DOMAIN ROAD	2013/10/26 23:07	-46.217525,170.042124
 1410741	129 RESERVOIR ROAD	2013/10/26 23:35	-45.806492,170.600874
 2188965	30 Mason Road, Seaward Bush, Invercargill	2021/08/25 22:04	-46.428282,168.403253	Appears to be a new driveway on some imagery here. But wrong side compared to others on this road.
-1410998	675 Waitati Valley Road, Upper Waitati	2019/10/18 23:53	-45.765794,170.555051	675 would be around S45°45.8068' E170°33.1736'
 2248074	14 McDougall Street, Wanaka	2021/08/25 22:25	-44.700849,169.126159
 1674411	144 PIGEON ROCK ROAD	2013/10/05 23:10	-45.076491,169.196853
 1738353	3705 LUGGATE-CROMWELL ROAD	2013/12/01 13:35	-44.749247,169.291356

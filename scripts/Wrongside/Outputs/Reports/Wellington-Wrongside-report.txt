@@ -1,6 +1,6 @@
 52 entries in V:\nzopengps\LinzDataService\PaperRoads\Wellington-WrongSide.txt
 122 entries in V:\nzopengps\LinzDataService\PaperRoads\Wellington-LINZWrongSide.txt
-83 wrongside numbers,  not in Exclusion files
+85 wrongside numbers, 2 not in Exclusion files
 21 entries in Ignore list are no longer on the wrong side
 1418498	238 ALBERT STREET	2013/12/21 08:09	-40.357751,175.629047
 1691755	3 ASHFORD LANE	2013/12/22 18:14	-41.123661,175.072152

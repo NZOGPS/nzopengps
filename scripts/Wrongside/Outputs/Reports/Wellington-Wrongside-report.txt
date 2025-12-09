@@ -2,13 +2,12 @@
 122 entries in V:\nzopengps\LinzDataService\PaperRoads\Wellington-LINZWrongSide.txt
 85 wrongside numbers, 2 not in Exclusion files
 21 entries in Ignore list are no longer on the wrong side
-1418498	238 ALBERT STREET	2013/12/21 08:09	-40.357751,175.629047
 1691755	3 ASHFORD LANE	2013/12/22 18:14	-41.123661,175.072152
 1565486	6K Pascoe Avenue, Paremata, Porirua	2025/10/10 00:41	-41.095701,174.867802
+1938260	103A Warwick Street, Feilding	2018/08/21 22:39	-40.224258,175.560045
 1586180	10031A ROUTE 52	2013/12/22 12:23	-40.500966,176.251520
 1608976	9G MILLWARD LANE	2013/12/22 09:41	-41.314686,174.779370
 1451595	13 KEEL PLACE	2013/12/30 16:38	-41.114430,174.889217
-1742178	120A Opau Road, Makara, Wellington	2018/12/02 16:24	-41.237418,174.706275
 411021	12B HERBERT STREET	2014/02/20 16:13	-41.210741,174.894339
 377616	24 Telford Terrace, Oriental Bay, Wellington	2022/02/19 13:09	-41.292492,174.795793
 1630971	30A Westra View, Tawa, Wellington	2021/04/26 18:39	-41.164455,174.819089
@@ -22,6 +21,7 @@
 606319	11 CABLE CAR LANE	2014/01/24 15:52	-41.284245,174.774809
 1630970	30B Westra View, Tawa, Wellington	2021/04/26 18:39	-41.164327,174.819042
 396853	25 Rangatira Road, Tawa, Wellington	2021/08/30 15:47	-41.159423,174.839757
+443247	25A Mt Cecil Road, Moonshine Valley	2018/12/01 18:50	-41.134674,174.980429
 1849960	26 Gifford Grove, Churton Park, Wellington	2018/08/21 23:12	-41.193073,174.801451
 
 70 entries in Linz list are no longer on the wrong side
@@ -30,7 +30,6 @@
 1564841	21 Riddiford Road, Longburn	2018/12/01 17:44	-40.371368,175.533458
 564483	36 Murphys Road, Pahiatua	2018/12/01 18:59	-40.412695,175.914365-	Point is in middle of road. Dwelling is nearer to	40.413023 175.914147
 641025	7 Avro Road, Blue Mountains	2018/12/01 18:35	-41.171720,175.031881	Looks to be between and behind 10 and 12
-444246	9 Oates Street, Stokes Valley, Lower Hutt	2018/12/01 18:22	-41.173795,174.981284	Odd point. Middle of carpark. Perhaps	-41.173730 174.981446
 1546185	38 Knight Road, Kopuaranga	2018/12/01 17:31	-40.831420,175.665604	Based on imagery, it looks like your road (and this number) are too far north here. Drive at	-40.831555 175.665738 
 1615801	3 Duncan Street, Tauweru	2018/12/01 17:58	-40.964559,175.801303	Looks like your road and this point are too far to the west. Dwelling is at 	-40.964480 175.801590
 591803	1872 Maunga Road, Ormondville	2021/08/30 16:29	-40.182289,176.287919	Close, but should be odd. 1871?
@@ -95,4 +94,5 @@
 556797	24 MOSS ROAD	2013/12/22 09:55	-40.618015,175.705273
 2152670	151 Te Wanaka Road, Awapuni, Palmerston North	2021/08/30 16:11	-40.380956,175.572572	Another in the middle of the formed road. Not sure where it should be.
 2098507	158 Boundary Terrace, Raumati Beach, Paraparaumu	2021/08/30 15:24	-40.922785,175.001394	ditto
+543159	3 Mountain View Road, Fitzherbert, Palmerston North	2018/12/02 16:16	-40.379616,175.626526	Appears to be in the verge between the road and the driveway.
 

@@ -1,7 +1,10 @@
-Start = 2025-12-05 23:34:29 +1300
+Start = 2025-12-09 22:28:30 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Southland
+3 LINZ ids are missing from NZOGPS Southland
+;linzid=3085742	Koreke Loop	-44.6119437266214,169.276926676404
+;linzid=3085743	Piopio St	-44.6119694281738,169.276063838573
+;linzid=3085744	Pouakai St	-44.6119437266214,169.276926676404
 #############################
 
 0 LINZ ids are in NZOGPS Southland but missing from LINZ
@@ -13,5 +16,5 @@ Start = 2025-12-05 23:34:29 +1300
 0 Number range ids are in NZOGPS Southland but missing from LINZ
 #############################
 
-Finish = 2025-12-05 23:34:33 +1300
-Processing time = 4.461626
+Finish = 2025-12-09 22:28:38 +1300
+Processing time = 8.710637

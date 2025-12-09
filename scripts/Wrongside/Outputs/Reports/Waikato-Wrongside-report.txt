@@ -1,7 +1,7 @@
 111 entries in V:\nzopengps\LinzDataService\PaperRoads\Waikato-WrongSide.txt
 323 entries in V:\nzopengps\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-287 wrongside numbers,  not in Exclusion files
-29 entries in Ignore list are no longer on the wrong side
+286 wrongside numbers,  not in Exclusion files
+30 entries in Ignore list are no longer on the wrong side
 1600361	2/387 Pokuru Road North, Whakamaru	2018/03/10 23:37	-38.445878,175.834933
 1101260	35A Wallace Drive, Clarks Beach	2021/01/14 23:06	-37.137478,174.736281
 1311157	36A-36B STUART ROAD	2014/04/18 13:02	-37.163198,175.086101
@@ -14,6 +14,7 @@
 1709724	5/1 SPENCE LANE	2013/10/15 21:58	-37.962536,176.977613
 1600362	4/387 Pokuru Road North, Whakamaru	2018/03/10 23:37	-38.444751,175.842512
 1673636	51C Emeny Road, Whakamarama	2018/02/25 14:23	-37.674178,176.040328
+1470445	447A Goble Road, Komata	2021/12/18 18:18	-37.330804,175.737764
 1600349	7/387 POKURU ROAD NORTH	2013/10/15 19:55	-38.443894,175.836596
 1709720	1/1 SPENCE LANE	2013/10/15 21:58	-37.962709,176.977832
 1338933	444A UNION ROAD	2014/04/18 13:45	-37.202189,174.814438

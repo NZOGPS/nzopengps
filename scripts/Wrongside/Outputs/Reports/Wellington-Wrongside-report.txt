@@ -1,7 +1,7 @@
 52 entries in V:\nzopengps\LinzDataService\PaperRoads\Wellington-WrongSide.txt
 122 entries in V:\nzopengps\LinzDataService\PaperRoads\Wellington-LINZWrongSide.txt
 85 wrongside numbers, 2 not in Exclusion files
-21 entries in Ignore list are no longer on the wrong side
+20 entries in Ignore list are no longer on the wrong side
 1691755	3 ASHFORD LANE	2013/12/22 18:14	-41.123661,175.072152
 1565486	6K Pascoe Avenue, Paremata, Porirua	2025/10/10 00:41	-41.095701,174.867802
 1938260	103A Warwick Street, Feilding	2018/08/21 22:39	-40.224258,175.560045
@@ -21,10 +21,10 @@
 606319	11 CABLE CAR LANE	2014/01/24 15:52	-41.284245,174.774809
 1630970	30B Westra View, Tawa, Wellington	2021/04/26 18:39	-41.164327,174.819042
 396853	25 Rangatira Road, Tawa, Wellington	2021/08/30 15:47	-41.159423,174.839757
-443247	25A Mt Cecil Road, Moonshine Valley	2018/12/01 18:50	-41.134674,174.980429
 1849960	26 Gifford Grove, Churton Park, Wellington	2018/08/21 23:12	-41.193073,174.801451
 
-70 entries in Linz list are no longer on the wrong side
+71 entries in Linz list are no longer on the wrong side
+1559674	180 Mount Stewart Halcombe Road, Sanson	2018/12/01 16:35	-40.225316,175.485359	Between 167 and 185. Otherwise following RAPID.
 1479466	364 Taonui Road, Aorangi	2018/12/01 17:19	-40.234536,175.631112
 1465071	378 MCDONELL ROAD	2013/12/27 07:08	-40.226477,175.359692
 1564841	21 Riddiford Road, Longburn	2018/12/01 17:44	-40.371368,175.533458
@@ -34,7 +34,6 @@
 1615801	3 Duncan Street, Tauweru	2018/12/01 17:58	-40.964559,175.801303	Looks like your road and this point are too far to the west. Dwelling is at 	-40.964480 175.801590
 591803	1872 Maunga Road, Ormondville	2021/08/30 16:29	-40.182289,176.287919	Close, but should be odd. 1871?
 2003384	15 Gurney Road, Kelson, Lower Hutt	2021/08/30 15:43	-41.183834,174.935865
-495107	308 Hokio Beach Road, Hokio Beach	2018/12/02 16:18	-40.621242,175.243871
 468187	132 Sierra Way, Blue Mountains	2018/12/01 17:44	-41.174988,175.044421
 530092	2-24 Olympus Circle, Linton Camp, Palmerston North	2018/12/01 19:11	-40.410598,175.590597	According to google maps, & streetview letterboxes, even nos are on the inside of the loop
 1458363	5 Kapuni Grove, Kenepuru, Porirua	2018/12/01 17:07	-41.151390,174.827945	Opposite 11. Looks like where 8 would be.
@@ -89,10 +88,11 @@
 1547491	2542 Homewood Road, Homewood	2021/08/30 15:58	-41.157365,175.995765
 1629354	381 Pikarere Street, Colonial Knob	2018/12/01 19:27	-41.129081,174.811000
 69491	53B Boar Bush Gully Road, Featherston	2018/12/01 19:14	-41.102258,175.321057	Odd number. There's no 53 anyway. Should it be 54B?
+2025412	27 Ashmore Park Road, Carterton	2018/12/01 18:03	-41.035037,175.514848	Numbering seems a bit odd here. Maybe a work in progress, but will be confusing.
 1572437	30 Paruwai Road, Tuturumuri	2018/12/01 17:49	-41.387682,175.451078	No obvious dwelling, this point is a riverbed beside 209. RAPID would suggest around	-41.389402 175.464440
 1585973	20 Old Main Road, Maharahara	2018/12/01 17:55	-40.274152,176.010550	Next to 19. No dwelling?
 556797	24 MOSS ROAD	2013/12/22 09:55	-40.618015,175.705273
 2152670	151 Te Wanaka Road, Awapuni, Palmerston North	2021/08/30 16:11	-40.380956,175.572572	Another in the middle of the formed road. Not sure where it should be.
 2098507	158 Boundary Terrace, Raumati Beach, Paraparaumu	2021/08/30 15:24	-40.922785,175.001394	ditto
-543159	3 Mountain View Road, Fitzherbert, Palmerston North	2018/12/02 16:16	-40.379616,175.626526	Appears to be in the verge between the road and the driveway.
+2025411	25 Ashmore Park Road, Carterton	2018/12/01 18:03	-41.035097,175.515004	Numbering seems a bit odd here. Maybe a work in progress, but will be confusing.
 

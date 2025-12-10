@@ -1,6 +1,6 @@
 111 entries in V:\nzopengps\LinzDataService\PaperRoads\Waikato-WrongSide.txt
 323 entries in V:\nzopengps\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-286 wrongside numbers,  not in Exclusion files
+285 wrongside numbers,  not in Exclusion files
 30 entries in Ignore list are no longer on the wrong side
 1600361	2/387 Pokuru Road North, Whakamaru	2018/03/10 23:37	-38.445878,175.834933
 1101260	35A Wallace Drive, Clarks Beach	2021/01/14 23:06	-37.137478,174.736281
@@ -33,7 +33,7 @@
 2442507	1/7 Arikirua Lane, Cambridge	2025/10/22 23:06	-37.890392,175.447677
 1709725	6/1 SPENCE LANE	2013/10/15 21:58	-37.962473,176.977614
 
-118 entries in Linz list are no longer on the wrong side
+119 entries in Linz list are no longer on the wrong side
 1267857	50 BUCKVILLE ROAD	2014/04/18 13:25	-37.226525,174.934349
 2252338	16 Pizzini Road, Orini	2021/12/18 18:38	-37.530745,175.242644	ditto
 649320	1583 SH  3	2013/10/15 19:24	-38.320394,175.148084
@@ -111,6 +111,7 @@
 2122555	88 Ingram Road, Rukuhia	2018/02/25 13:26	-37.870580,175.326674	This is on the wrong side based on the centreline as at 11/2/18
 2241849	486A Mangatea Road, Te Kuiti	2022/02/04 17:41	-38.342016,175.121681	ditto
 2261099	719 Waihi Beach Road, Waihi Beach	2022/02/04 16:42	-37.409532,175.931582	Obvious entrance matching numbering at S37.409595° E175.930111°
+1437225	990 STATE HIGHWAY 2 EAST	2013/10/15 21:07	-38.123598,177.064352
 1753872	958 Otara East Road, Tirohanga	2018/02/18 12:27	-38.078403,177.363776
 2164850	5978 Waioeka Road, Waioeka	2022/02/04 17:03	-38.262040,177.300601	Obvious habitation, but ddd number. Not only wrong side, but way out from even/RAPID numbering. My estimation this should be something like 5383
 721244	5 Village Road, Pureora Forest Park	2018/02/20 22:19	-38.516840,175.552235	All these points seem offset to the south a bit. This one's the worst.

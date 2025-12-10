@@ -1,6 +1,6 @@
 13 entries in V:\nzopengps\LinzDataService\PaperRoads\Southland-WrongSide.txt
 164 entries in V:\nzopengps\LinzDataService\PaperRoads\Southland-LINZWrongSide.txt
-96 wrongside numbers,  not in Exclusion files
+97 wrongside numbers, 1 not in Exclusion files
 9 entries in Ignore list are no longer on the wrong side
 1578017	16B JOY STREET	2013/10/26 23:16	-45.095919,170.961474
 1385428	106C Mararoa Road, The Key, Manapouri	2025/10/18 23:15	-45.501828,167.974849

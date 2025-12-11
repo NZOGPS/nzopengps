@@ -123,3 +123,5 @@ Below new 15:27 30/08/21
 2369122	29 Mangaroa Valley Road, Mangaroa, Upper Hutt	2025/10/11 18:48	-41.137010,175.093103
 2409149	376 Setters Line, Bunnythorpe, Palmerston North	2025/10/11 18:49	-40.290057,175.588626
 565465	629 Owahanga Road, Pongaroa	2025/10/11 19:09	-40.681485,176.334918
+2447761	2/12 Millward Street, Newtown, Wellington	2025/12/11 12:00	-41.314434,174.779064
+2446960	397 Parkville Road, Eketahuna	2025/12/11 12:00	-40.660562,175.641463

@@ -1,19 +1,6 @@
-Start = 2025-12-09 22:29:50 +1300
+Start = 2025-12-12 00:43:46 +1300
 linzid	street_name	street_name_2	official_street_name
-3033482	Glue Pl		Te Uru Kahikatea Lane	-43.56397,172.61422
-3033541	Cascade Pyke Valley Rd		Cascade Pyke Valley Road - legality not determined	-44.31153,168.22678
-3033482	Glue Pl		Te Uru Kahikatea Lane	-43.56394,172.61460
-3033482	Glue Pl		Te Uru Kahikatea Lane	-43.56396,172.61436
-3033482	Glue Pl		Te Uru Kahikatea Lane	-43.56412,172.61399
-3033482	Glue Pl		Te Uru Kahikatea Lane	-43.56399,172.61384
-3033482	Glue Pl		Te Uru Kahikatea Lane	-43.56429,172.61418
-3033482	Glue Pl		Te Uru Kahikatea Lane	-43.56386,172.61369
-3033482	Glue Pl		Te Uru Kahikatea Lane	-43.56373,172.61354
-3033482	Glue Pl		Te Uru Kahikatea Lane	-43.56373,172.61418
-3033482	Glue Pl		Te Uru Kahikatea Lane	-43.56364,172.61395
-3033482	Glue Pl		Te Uru Kahikatea Lane	-43.56380,172.61363
-3033482	Glue Pl		Te Uru Kahikatea Lane	-43.56356,172.61375
 #############################
 
-Finish = 2025-12-09 22:29:58 +1300
-Processing time = 8.23885
+Finish = 2025-12-12 00:43:50 +1300
+Processing time = 3.612463

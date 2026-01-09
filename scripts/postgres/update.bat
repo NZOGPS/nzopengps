@@ -15,8 +15,14 @@ set nzogps_AIMS_AR=..\..\LinzDataService\lds-AIMS-address-reference-CSV\aims-add
 if not exist ..\..\setlocals.bat echo setlocals.bat not found. You need to copy and customise the sample file
 if not defined nzogps_ogr2ogr call ..\..\setlocals.bat
 
-net start %nzogps_psql_svc%
+if not defined nzogps_psql_data set nzogps_psql_data=%nzogps_psql_bin:\bin=\data%
+set PROJ_LIB=C:\OSGeo4W\share\proj
+
+rem net start %nzogps_psql_svc%
 rem if you get error 5 on win8 doing net start - look here: https://thommck.wordpress.com/2011/12/02/how-to-allow-non-admins-to-start-and-stop-system-services/
+
+%nzogps_psql_bin%pg_ctl status -D %nzogps_psql_data%
+if errorlevel 3 %nzogps_psql_bin%pg_ctl start -D %nzogps_psql_data%
 
 @%nzogps_psql_bin%psql -U postgres -d nzopengps -c "SELECT ST_ASTEXT(ST_POINT(45,45))" | grep -q "POINT(45 45)"
 if errorlevel 1 echo Error - No PostGIS installed?  & pause & exit 1

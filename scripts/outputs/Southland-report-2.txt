@@ -1,10 +1,22 @@
-Start = 2025-12-18 00:03:41 +1300
+Start = 2026-01-13 22:36:57 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Southland
+7 LINZ ids are missing from NZOGPS Southland
+;linzid=3085800	Sluice Tce	-44.9814133769164,168.68064004043
+;linzid=3085801	Edith Lane	-44.9814133769165,168.68064004043
+;linzid=3085802	Tailrace Rise	-44.9805714007693,168.680499018911
+;linzid=3085797	Carat Lane	-44.9811570273447,168.68141821038
+;linzid=3085798	Moon Cl	-44.9811570273447,168.68141821038
+;linzid=3085799	Cavell Cl	-44.9811407178793,168.681040501452
+;linzid=3085822	Songbird Lane	-45.0708344516901,168.741113150517
 #############################
 
-0 LINZ ids are in NZOGPS Southland but missing from LINZ
+5 LINZ ids are in NZOGPS Southland but missing from LINZ
+;linzid=3074161		-45.86445,170.45799
+;linzid=3077338		-45.86461,170.45536
+;linzid=1777707	Etalvale Station Rd	-45.83611,168.13068
+;linzid=3073831		-46.18571,168.87881
+;linzid=1775340	Hill Rd	-45.91858,169.70981
 #############################
 
 0 Number range ids are missing from NZOGPS Southland
@@ -13,5 +25,5 @@ Start = 2025-12-18 00:03:41 +1300
 0 Number range ids are in NZOGPS Southland but missing from LINZ
 #############################
 
-Finish = 2025-12-18 00:03:45 +1300
-Processing time = 4.475591
+Finish = 2026-01-13 22:37:02 +1300
+Processing time = 5.033771

@@ -1,11 +1,23 @@
-Start = 2025-12-16 19:57:42 +1300
+Start = 2026-01-13 22:36:52 +1300
 #############################
 
-4 LINZ ids are missing from NZOGPS Northland
+16 LINZ ids are missing from NZOGPS Northland
 ;linzid=3085726	Craggy Lane	-35.7574551091819,174.280043040594
 ;linzid=3085761	Mariners Dr	-35.7558576733649,174.343910469801
 ;linzid=3085762	Waypoint Dr	-35.7544719446685,174.344792694721
 ;linzid=3085763	Gunnels Ave	-35.754466136274,174.345539057266
+;linzid=3085790	Messenger Lane	-35.1949253528183,173.932280841975
+;linzid=3085791	Puanga Lane	-35.4019037170736,173.80856421183
+;linzid=3085792	Maggies Lane	-36.0056682367811,174.41554359292
+;linzid=3085825	Anchor Lane	-36.090957586797,174.583465672943
+;linzid=3085828	Titoki Dr	-36.1120318452278,174.547032690885
+;linzid=3085831	Kakariki Dr	-35.1943387775287,173.971410468019
+;linzid=3085830	Karoro Loop	-35.1988369487926,173.972021578526
+;linzid=3085827	Hills Blvd	-36.1120318452278,174.547032690885
+;linzid=3085826	Kowhai Pl	-36.1118449592352,174.546190157042
+;linzid=3085832	Kokako Pl	-35.1961918072417,173.967764201198
+;linzid=3085833	Kawau Pl	-35.1951426020636,173.972489221527
+;linzid=3085834	Korora Cl	-35.1951426020636,173.972489221527
 #############################
 
 0 LINZ ids are in NZOGPS Northland but missing from LINZ
@@ -17,5 +29,5 @@ Start = 2025-12-16 19:57:42 +1300
 0 Number range ids are in NZOGPS Northland but missing from LINZ
 #############################
 
-Finish = 2025-12-16 19:57:45 +1300
-Processing time = 2.383829
+Finish = 2026-01-13 22:36:54 +1300
+Processing time = 2.167921

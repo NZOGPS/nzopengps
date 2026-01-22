@@ -1,7 +1,7 @@
 111 entries in V:\nzopengps\LinzDataService\PaperRoads\Waikato-WrongSide.txt
 323 entries in V:\nzopengps\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
 285 wrongside numbers,  not in Exclusion files
-31 entries in Ignore list are no longer on the wrong side
+29 entries in Ignore list are no longer on the wrong side
 1600361	2/387 Pokuru Road North, Whakamaru	2018/03/10 23:37	-38.445878,175.834933
 1101260	35A Wallace Drive, Clarks Beach	2021/01/14 23:06	-37.137478,174.736281
 1311157	36A-36B STUART ROAD	2014/04/18 13:02	-37.163198,175.086101
@@ -14,7 +14,6 @@
 1709724	5/1 SPENCE LANE	2013/10/15 21:58	-37.962536,176.977613
 1600362	4/387 Pokuru Road North, Whakamaru	2018/03/10 23:37	-38.444751,175.842512
 1673636	51C Emeny Road, Whakamarama	2018/02/25 14:23	-37.674178,176.040328
-1470445	447A Goble Road, Komata	2021/12/18 18:18	-37.330804,175.737764
 1600349	7/387 POKURU ROAD NORTH	2013/10/15 19:55	-38.443894,175.836596
 1709720	1/1 SPENCE LANE	2013/10/15 21:58	-37.962709,176.977832
 1338933	444A UNION ROAD	2014/04/18 13:45	-37.202189,174.814438
@@ -24,7 +23,6 @@
 844475	2034 GALATEA ROAD	2013/10/15 21:38	-38.186882,176.837399
 2442508	2/7 Arikirua Lane, Cambridge	2025/10/22 23:06	-37.890386,175.447428
 2442510	4/7 Arikirua Lane, Cambridge	2025/10/22 23:05	-37.890325,175.446866
-1708303	1013 SH 30	2013/10/15 19:45	-38.503276,175.468281
 654164	44 Ireland Road, Otorohanga	2021/12/18 19:49	-38.217913,175.191940
 2393877	285C Drury Hills Road, Drury	2025/09/29 11:09	-37.110157,174.989973
 1379988	171A Elizabeth Street, Tauranga	2021/01/14 23:33	-37.685796,176.162771
@@ -34,7 +32,7 @@
 2442507	1/7 Arikirua Lane, Cambridge	2025/10/22 23:06	-37.890392,175.447677
 1709725	6/1 SPENCE LANE	2013/10/15 21:58	-37.962473,176.977614
 
-118 entries in Linz list are no longer on the wrong side
+120 entries in Linz list are no longer on the wrong side
 1267857	50 BUCKVILLE ROAD	2014/04/18 13:25	-37.226525,174.934349
 2252338	16 Pizzini Road, Orini	2021/12/18 18:38	-37.530745,175.242644	ditto
 649320	1583 SH  3	2013/10/15 19:24	-38.320394,175.148084
@@ -129,6 +127,7 @@
 571089	4606 SH 35	2013/10/15 20:51	-37.858773,177.613847
 1572245	562 Kingseat Road, Kingseat	2018/02/25 15:18	-37.147047,174.796813
 2364314	13B Puriri Street, Te Aroha	2025/10/22 23:09	-37.539594,175.715247
+1521962	110 Wharenui Road, Owhata, Rotorua	2025/09/29 18:49	-38.139584,176.306801
 2198090	745 Motu Road, Toatoa	2022/02/04 17:33	-38.021534,177.435026	745 would be around S38.022205° E177.435563° but there doesn't appear to be anything there.
 1421731	34 Heath Road, Waihi	2021/12/18 18:09	-37.395122,175.854597	very close to 33A (745477) - duplicate?
 1638553	2A Tui Place, Te Kowhai	2018/02/25 14:28	-37.738960,175.157310	These points seem offset to the north a bit and are in the middle of the road. Try S37°44.3421' E175°09.4391'
@@ -150,6 +149,7 @@
 1753903	800 Waiotahi Valley Road, Waiotahe Valley	2021/12/18 23:19	-38.080373,177.186861	Nothing obvious at 800. Buildings here, but the number looks like it should be 783 to me.
 2223780	70 Crooked Road, Otara	2022/02/04 17:36	-38.028884,177.259136	Obvious building. 71?
 788506	471 Dansey Road, Ngongotaha Valley	2018/02/20 23:14	-38.092370,176.139304	This point seems offset to the north a bit and is in the middle of the road. Try S38°05.5506' E176°08.3577'
+1366936	547 SH  2	2014/04/18 13:03	-37.213690,175.071515
 2313903	29 Potikirua Road, Hicks Bay	2025/09/29 18:45	-37.552000,178.149984
 2323612	11433B State Highway 35, Cape Runaway	2025/09/29 19:15	-37.571959,178.007281
 854242	34 Wardlaw Road, Waimana	2021/12/18 19:45	-38.139270,177.062154	Not only the wrong side of the road, but the wrong side of th river too.

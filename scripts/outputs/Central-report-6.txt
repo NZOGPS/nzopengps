@@ -1,7 +1,6 @@
-Start = 2026-01-13 22:37:35 +1300
+Start = 2026-01-21 02:22:34 +1300
 linzid	street_name	street_name_2	official_street_name
-3085722	Whatumanawa Dr		Tui Dr	-40.00053,176.52794
 #############################
 
-Finish = 2026-01-13 22:37:39 +1300
-Processing time = 3.886042
+Finish = 2026-01-21 02:22:39 +1300
+Processing time = 4.439685

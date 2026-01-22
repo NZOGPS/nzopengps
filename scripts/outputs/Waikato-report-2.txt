@@ -1,14 +1,7 @@
-Start = 2026-01-13 22:37:16 +1300
+Start = 2026-01-23 00:25:34 +1300
 #############################
 
-7 LINZ ids are missing from NZOGPS Waikato
-;linzid=3085793	Manawanui Pl	-37.6446958844699,176.029780958694
-;linzid=3085794	Te Rina Blvd	-37.6527195351132,176.018948931172
-;linzid=3085795	Porina Cl	-37.6527195351132,176.018948931172
-;linzid=3085796	Riapeti Rise	-37.6528622768071,176.018602149436
-;linzid=3085803	Matiu Cres	-37.6978163152851,176.143134293169
-;linzid=3085804	Tanekaha Ave	-38.1416258333754,176.307606080564
-;linzid=3085821	Polaris Lane	-37.8308337423377,175.298222391072
+0 LINZ ids are missing from NZOGPS Waikato
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -20,5 +13,5 @@ Start = 2026-01-13 22:37:16 +1300
 0 Number range ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
-Finish = 2026-01-13 22:37:21 +1300
-Processing time = 5.73625
+Finish = 2026-01-23 00:25:39 +1300
+Processing time = 4.676494

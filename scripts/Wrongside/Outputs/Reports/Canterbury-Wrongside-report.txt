@@ -1,15 +1,13 @@
 21 entries in V:\nzopengps\LinzDataService\PaperRoads\Canterbury-WrongSide.txt
 184 entries in V:\nzopengps\LinzDataService\PaperRoads\Canterbury-LINZWrongSide.txt
-149 wrongside numbers,  not in Exclusion files
-6 entries in Ignore list are no longer on the wrong side
-282297	10 Gilmour Terrace, Lyttelton	2025/10/12 00:34	-43.605343,172.727291
-282299	12 Gilmour Terrace, Lyttelton	2025/10/12 00:33	-43.605191,172.727274
+150 wrongside numbers, 1 not in Exclusion files
+4 entries in Ignore list are no longer on the wrong side
 1709882	19A UPPER CRICHTON TERRACE	2013/10/18 15:41	-43.569670,172.627176
 2279381	295B Jamesons Road, Rotherham	2022/08/07 16:48	-42.747706,172.985980
 1709873	21A UPPER CRICHTON TERRACE	2013/10/18 15:41	-43.569960,172.627782
 1709884	21B UPPER CRICHTON TERRACE	2013/10/18 15:41	-43.569875,172.627296
 
-50 entries in Linz list are no longer on the wrong side
+52 entries in Linz list are no longer on the wrong side
 156008	1275 Virginia Road, Virginia	2019/10/18 23:00	-42.918626,172.426341	Obvious dwelling at S42°55.2433' E172°25.3485' matching RAPID.
 152954	113 Domain Road, Oxford	2019/10/18 22:10	-43.355351,172.195757	Dwelling matching number at S43°21.8107' E172°11.8271'
 2174233	2 Stratheona Road, Pleasant Point	2019/10/18 21:16	-44.249762,171.136516	I note that No 7 ID 2174236 letterbox has 7/42. Is this actually 2/42? Wrong end as well as wrong side.
@@ -34,6 +32,7 @@
 1388625	228 O'Neills Road, Coal Stream	2019/10/18 21:26	-44.149409,170.808915	Another typo? Drive matches where 223 would be.
 1689553	21 Culverden Road, Culverden	2019/10/18 22:03	-42.776770,172.843842	Based on the drive, I guess a typo and should be 2? Or 21 is around S42°46.6608' E172°50.7364'
 2232120	890R Okains Bay Road, Okains Bay	2021/03/27 17:46	-43.723559,173.015800
+1755691	38 Archdalls Road, Robinsons Bay	2025/09/22 23:36	-43.762301,172.950357
 291487	603 LAVERICKS RIDGE ROAD	2013/10/13 23:30	-43.733101,173.086318
 248055	156 ROBERTSONS ROAD	2013/10/09 11:46	-43.202798,172.670368
 2040428	500 Hayland Road, Okuku	2019/10/18 21:48	-43.195865,172.358354
@@ -58,6 +57,7 @@
 2227704	725 Foothills Road, Okuku	2021/03/27 17:45	-43.197526,172.422372
 2022193	230 Reynolds Valley Road, Peraki	2019/10/18 22:23	-43.790578,172.837510	No obvious dwellings or drives. 230 would be around S43°47.5228' E172°50.3245'
 179521	10 PATRICIA PLACE	2013/10/21 16:41	-43.481546,172.576582	These two/three perhaps further West?
+239304	20 Whaka Terrace, Huntsbury, Christchurch	2021/03/27 17:40	-43.569780,172.647284
 1321130	1415 Tekapo-Twizel Road, Tekapo	2019/10/18 23:06	-44.067071,170.359362	1415 looks to me to be around S44°03.8613' E170°21.8534'
 1354159	438 Sladdens Bush Road, Coopers Creek	2019/10/18 22:45	-43.253077,172.114778
 

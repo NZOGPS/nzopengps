@@ -1,10 +1,10 @@
 52 entries in V:\nzopengps\LinzDataService\PaperRoads\Wellington-WrongSide.txt
 124 entries in V:\nzopengps\LinzDataService\PaperRoads\Wellington-LINZWrongSide.txt
 84 wrongside numbers,  not in Exclusion files
-21 entries in Ignore list are no longer on the wrong side
-1418498	238 ALBERT STREET	2013/12/21 08:09	-40.357751,175.629047
+20 entries in Ignore list are no longer on the wrong side
 1691755	3 ASHFORD LANE	2013/12/22 18:14	-41.123661,175.072152
 1565486	6K Pascoe Avenue, Paremata, Porirua	2025/10/10 00:41	-41.095701,174.867802
+1938260	103A Warwick Street, Feilding	2018/08/21 22:39	-40.224258,175.560045
 1586180	10031A ROUTE 52	2013/12/22 12:23	-40.500966,176.251520
 1608976	9G MILLWARD LANE	2013/12/22 09:41	-41.314686,174.779370
 1451595	13 KEEL PLACE	2013/12/30 16:38	-41.114430,174.889217
@@ -20,11 +20,10 @@
 1566323	450A Flightys Road, Judgeford	2018/12/01 17:45	-41.081092,174.945088
 606319	11 CABLE CAR LANE	2014/01/24 15:52	-41.284245,174.774809
 1630970	30B Westra View, Tawa, Wellington	2021/04/26 18:39	-41.164327,174.819042
-1683138	32B THE SQUARE	2013/12/21 08:02	-40.357001,175.610632
 396853	25 Rangatira Road, Tawa, Wellington	2021/08/30 15:47	-41.159423,174.839757
 1849960	26 Gifford Grove, Churton Park, Wellington	2018/08/21 23:12	-41.193073,174.801451
 
-71 entries in Linz list are no longer on the wrong side
+72 entries in Linz list are no longer on the wrong side
 1559674	180 Mount Stewart Halcombe Road, Sanson	2018/12/01 16:35	-40.225316,175.485359	Between 167 and 185. Otherwise following RAPID.
 1479466	364 Taonui Road, Aorangi	2018/12/01 17:19	-40.234536,175.631112
 1465071	378 MCDONELL ROAD	2013/12/27 07:08	-40.226477,175.359692
@@ -68,6 +67,7 @@
 588971	61 Kearney Road, Maharahara	2018/12/01 19:02	-40.252869,175.962204	Dwelling opposite that matches RAPID at	-40.252221 175.959017
 1588629	50 Arcus Road, Dalefield	2018/12/01 17:56	-41.016885,175.466707	Drive here would be RAPID 21. Dwelling that would fit numbering at	-41.015218 175.469577
 1431232	32 Graham Road, Dannevirke	2021/08/30 15:36	-40.263574,176.020234	If this refers to a railway property, S40.263769° E176.023288° would be a better position
+2447761	2/12 Millward Street, Newtown, Wellington	2025/12/11 12:00	-41.314434,174.779064	LINZ feedback 20251206.ods
 908711	1248 Otope Road, Dannevirke	2018/12/01 19:40	-40.327950,176.080461
 1991051	154 Boundary Terrace, Raumati Beach, Paraparaumu	2021/08/30 15:24	-40.922898,175.001291	ditto
 595118	863 WIMBLEDON ROAD	2013/12/22 12:34	-40.368827,176.569363

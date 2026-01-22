@@ -1,8 +1,7 @@
-Start = 2026-01-13 22:37:06 +1300
+Start = 2026-01-21 02:21:57 +1300
 #############################
 
-1 LINZ ids are missing from NZOGPS Wellington
-;linzid=3085812	Bernie Way	-40.2082540744016,175.577551140204
+0 LINZ ids are missing from NZOGPS Wellington
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -14,5 +13,5 @@ Start = 2026-01-13 22:37:06 +1300
 0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2026-01-13 22:37:10 +1300
-Processing time = 3.859255
+Finish = 2026-01-21 02:22:03 +1300
+Processing time = 5.165197

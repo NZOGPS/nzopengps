@@ -1,6 +1,6 @@
 35 entries in V:\nzopengps\LinzDataService\PaperRoads\Tasman-WrongSide.txt
 113 entries in V:\nzopengps\LinzDataService\PaperRoads\Tasman-LINZWrongSide.txt
-88 wrongside numbers,  not in Exclusion files
+89 wrongside numbers, 1 not in Exclusion files
 5 entries in Ignore list are no longer on the wrong side
 2311349	50/11 Cube Court, Richmond	2025/09/14 22:53	-41.330888,173.171308
 641623	17 Seawatch Way, Atawhai, Nelson	2022/02/04 13:25	-41.255562,173.315656

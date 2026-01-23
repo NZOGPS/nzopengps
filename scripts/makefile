@@ -19,6 +19,7 @@ ZIPIT = $(nzogps_zip_cmd)
 UNZIP = $(nzogps_unzip_cmd)
 RUBY = $(nzogps_ruby_cmd)
 PERL = $(nzogps_perl_cmd)
+TOUCH = $(nzogps_touch_cmd)
 
 tilenum = $(subst Northland,1,$(subst Auckland,2,$(subst Waikato,3,$(subst Central,4,$(subst Wellington,5,$(subst Tasman,6,$(subst Canterbury,7,$(subst Southland,8,$(1)))))))))
  
@@ -60,7 +61,7 @@ database.date : postgres\nz-street-address.sql
 	$(PSQL)psql -U postgres -d nzopengps < postgres\nz-street-address.sql
 	time /t
 	$(PSQL)psql -U postgres -d nzopengps < postgres\postproc.sql
-	touch database.date
+	TOUCH database.date
 	time /t
 
 $(LINZ)\lds-nz-road-centre-line-electoral-SHP\nz-road-centre-line-electoral.shp : $(DLOAD)\lds-nz-road-centre-line-electoral-SHP.zip 

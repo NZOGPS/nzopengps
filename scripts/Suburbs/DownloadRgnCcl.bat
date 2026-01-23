@@ -7,7 +7,7 @@ setlocal
 set nzogps_rctbl=regional-council
 set nzogps_rcutbl=regional_council
 set nzogps_here=%CD%
-set nzogps_dlyr=2025
+set nzogps_dlyr=2026
 set PROJ_LIB=
 
 cd ..\..\LinzDataService
@@ -23,7 +23,7 @@ if not exist statsnz-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%.csv echo suburb files not
 cd %nzogps_here%
 set nzogps_NZRC=..\..\LinzDataService\statsnz-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%.csv
 for %%f in ("%nzogps_NZRC%") do (
-	grep -q  "EPSG:4167" %%~dpnf.vrt
+	%nzogps_grep_cmd% -q  "EPSG:4167" %%~dpnf.vrt
 	if errorlevel 1 echo Wrong projection  & goto :eof
 )
 %nzogps_ogr2ogr% --config PG_USE_COPY TRUE -f "PostgreSQL" "PG:host=localhost user=postgres  dbname=nzopengps" -nln %nzogps_rctbl% -lco OVERWRITE=yes -lco GEOMETRY_NAME=wkb_geometry -oo GEOM_POSSIBLE_NAMES=WKT %nzogps_NZRC%

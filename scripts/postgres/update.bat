@@ -28,7 +28,7 @@ if errorlevel 3 %nzogps_psql_bin%pg_ctl start -D %nzogps_psql_data%
 if errorlevel 1 echo Error - No PostGIS installed?  & pause & exit 1
 
 for %%f in ("%nzogps_sae%" "%nzogps_rcl%") do (
- grep -q  "EPSG:4167" %%~dpnf.vrt
+%nzogps_grep_cmd% -q  "EPSG:4167" %%~dpnf.vrt
 if errorlevel 1 echo Wrong projection  & pause & exit 1
 )
 
@@ -43,4 +43,4 @@ rem roads
 time /t
 %nzogps_psql_bin%psql -U postgres -d nzopengps < postproc.sql
 time /t
-touch ../database.date
+%nzogps_touch_cmd% ../database.date

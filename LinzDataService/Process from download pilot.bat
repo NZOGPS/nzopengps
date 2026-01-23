@@ -8,7 +8,7 @@ set nzogps_dl_fn=lds-new-zealand-2layers-CSV.zip
 @if not exist %nzogps_download%\%nzogps_dl_fn% echo new CSV download %nzogps_dl_fn% not found. & goto :eof
 move %nzogps_download%\%nzogps_dl_fn% .
 
-set nzogps_ex_pt=nz-addresses-road-sections-pilot
+set nzogps_ex_pt=nz-addresses-roads-pilot
 if exist %nzogps_ex_pt%\%nzogps_ex_pt%.*  del %nzogps_ex_pt%\%nzogps_ex_pt%.*
 %nzogps_unzip_cmd% %nzogps_dl_fn% -o%nzogps_ex_pt% %nzogps_ex_pt%\%nzogps_ex_pt%.*
 if not exist %nzogps_ex_pt%\%nzogps_ex_pt%.csv echo Road centre line  files not found in zip file %nzogps_dl_fn% & goto :eof

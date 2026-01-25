@@ -1,9 +1,12 @@
 Title Generate CSV
-start /low /min %~n01.bat
-start /low /min %~n02.bat
-start /low /min %~n03.bat
+setlocal
+if [%1]==[PILOT] SET GNPARM=-P
 
-set PROCESSING_LIBRARY=4
+start /low /min %~n01.bat %1
+start /low /min %~n02.bat %1
+start /low /min %~n03.bat %1
+
+set PROCESSING_LIBRARY=4%GNPARM%
 %nzogps_ruby_cmd% parseMP.rb 1 %PROCESSING_LIBRARY%
 %nzogps_ruby_cmd% parseMP.rb 6 %PROCESSING_LIBRARY%
 %nzogps_ruby_cmd% parseMP.rb 8 %PROCESSING_LIBRARY%

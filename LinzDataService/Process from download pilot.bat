@@ -25,7 +25,7 @@ cd ..\scripts\postgres
 call update-pilot.bat
 if errorlevel 1 goto :eof
 cd ..
-start %nzogps_donumbers%-pilot
+start %nzogps_donumbers% PILOT
 cd ..\linzdataservice
 %nzogps_ruby_cmd% pg-road-parser-pilot.rb
 cd ..\scripts

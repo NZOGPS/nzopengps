@@ -30,6 +30,6 @@ cd ..\linzdataservice
 %nzogps_ruby_cmd% pg-road-parser-pilot.rb
 cd ..\scripts
 call dochecks-pilot.bat
-call colouriseall-pilot.bat
+call colouriseall.bat  PILOT
 if errorlevel 1 goto :eof
 call %nzogps_linznumb%-pilot

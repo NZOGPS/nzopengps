@@ -1,4 +1,7 @@
-set PROCESSING_LIBRARY=2
+setlocal
+if [%1]==[PILOT] SET GNPARM=-P
+
+set PROCESSING_LIBRARY=2%GNPARM%
 %nzogps_ruby_cmd% parseMP.rb 1 %PROCESSING_LIBRARY%
 %nzogps_ruby_cmd% parseMP.rb 6 %PROCESSING_LIBRARY%
 %nzogps_ruby_cmd% parseMP.rb 8 %PROCESSING_LIBRARY%
@@ -7,7 +10,8 @@ set PROCESSING_LIBRARY=2
 %nzogps_ruby_cmd% parseMP.rb 7 %PROCESSING_LIBRARY%
 %nzogps_ruby_cmd% parseMP.rb 3 %PROCESSING_LIBRARY%
 %nzogps_ruby_cmd% parseMP.rb 2 %PROCESSING_LIBRARY%
-set PROCESSING_LIBRARY=6
+
+set PROCESSING_LIBRARY=6%GNPARM%
 %nzogps_ruby_cmd% parseMP.rb 1 %PROCESSING_LIBRARY%
 %nzogps_ruby_cmd% parseMP.rb 6 %PROCESSING_LIBRARY%
 %nzogps_ruby_cmd% parseMP.rb 8 %PROCESSING_LIBRARY%

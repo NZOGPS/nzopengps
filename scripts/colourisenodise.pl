@@ -82,8 +82,12 @@ sub process_road(){
 }
 
 die "usage: $0 tilename\n" if $tile eq ""; 
-
-$filename = "outputs/$tile-report-2.txt";
+if ($tile =~/-P/) {		# pilot test?
+( my $tnop = $tile ) =~s/-P//;
+$filename = "outputs/$tnop-report-2-P.txt"; 
+} else {
+	$filename = "outputs/$tile-report-2.txt";
+}
 open (REPORT, $filename) or die "$filename not found\n";
 
 HEADER: while (<REPORT>) {

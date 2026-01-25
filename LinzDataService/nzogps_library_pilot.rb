@@ -285,6 +285,7 @@ def process_geom_record(record)
 
 	linzid = record.attributes['id']
 	linzrsid = record.attributes['rsid']
+	if (linzrsid == nil) then linzrsid = 0 end
 	addrdid = record.attributes['addrid']
 	if (addrdid != "0" && addrdid != nil) then	# No address_range_road_id results in string "0" 20190825 GCT - or sometimes nil???
 		addrdid_str = "\n;linznumbid=#{addrdid}"
@@ -297,8 +298,6 @@ end
 	region = record.attributes['territoria']
 	polishformat = convertGeometrytoPolish(record)
 
-	#routeParam = 2 #yellow in GPSMapEdit
-	#routeParam = 4 #light blue in GPSMapEdit
 	routeParam = 7 #purple in GPSMapEdit
 
 	tiles = identify_tile_from_wkt_envelope(record)

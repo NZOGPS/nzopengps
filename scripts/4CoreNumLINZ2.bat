@@ -1,5 +1,5 @@
 Title NumLINZ2
-rem set PROCESSING_LIBRARY=3
-%nzogps_ruby_cmd% parseMP.rb 6 %PROCESSING_LIBRARY%
-%nzogps_ruby_cmd% parseMP.rb 2 %PROCESSING_LIBRARY%
+rem LN_PROCESSING_LIBRARY now inherited
+%nzogps_ruby_cmd% parseMP.rb 6 %LN_PROCESSING_LIBRARY%
+%nzogps_ruby_cmd% parseMP.rb 2 %LN_PROCESSING_LIBRARY%
 Title NumLINZ2 Done

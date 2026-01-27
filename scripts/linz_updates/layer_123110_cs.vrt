@@ -1,0 +1,23 @@
+<OGRVRTDataSource>
+  <OGRVRTLayer name="layer_123110_cs">
+    <SrcDataSource relativeToVRT="1">layer_123110_cs.csv</SrcDataSource>
+    <FeatureCount>81788</FeatureCount>
+    <GeometryField encoding="WKT" field="shape" reportSrcColumn="FALSE">
+      <GeometryType>wkbMultiLineString</GeometryType>
+      <SRS>EPSG:4167</SRS>
+      <ExtentXMin>166.71615866667</ExtentXMin>
+      <ExtentYMin>-46.9080433370474</ExtentYMin>
+      <ExtentXMax>183.8111703</ExtentXMax>
+      <ExtentYMax>-34.4291438</ExtentYMax>
+    </GeometryField>
+    <FID>road_id</FID>
+    <Field name="__change__" src="__change__" type="String" />
+    <Field name="road_id" src="road_id" type="Integer" />
+    <Field name="full_road_name" src="full_road_name" type="String" />
+    <Field name="road_name_label" src="road_name_label" type="String" />
+    <Field name="road_name_body" src="road_name_body" type="String" />
+    <Field name="road_name_type" src="road_name_type" type="String" />
+    <Field name="road_name_suffix" src="road_name_suffix" type="String" />
+    <Field name="is_land" src="is_land" type="String" width="2" />
+  </OGRVRTLayer>
+</OGRVRTDataSource>

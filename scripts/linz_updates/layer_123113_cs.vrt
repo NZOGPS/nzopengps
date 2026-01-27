@@ -1,0 +1,33 @@
+<OGRVRTDataSource>
+  <OGRVRTLayer name="layer_123113_cs">
+    <SrcDataSource relativeToVRT="1">layer_123113_cs.csv</SrcDataSource>
+    <FeatureCount>2402386</FeatureCount>
+    <GeometryField encoding="WKT" field="shape" reportSrcColumn="FALSE">
+      <GeometryType>wkbPoint</GeometryType>
+      <SRS>EPSG:4167</SRS>
+      <ExtentXMin>166.71630573333</ExtentXMin>
+      <ExtentYMin>-46.9090087</ExtentYMin>
+      <ExtentXMax>183.770455056913</ExtentXMax>
+      <ExtentYMax>-34.4283908803064</ExtentYMax>
+    </GeometryField>
+    <FID>address_id</FID>
+    <Field name="__change__" src="__change__" type="String" />
+    <Field name="address_id" src="address_id" type="Integer" />
+    <Field name="road_id" src="road_id" type="Integer" />
+    <Field name="full_address_number" src="full_address_number" type="String" />
+    <Field name="full_road_name" src="full_road_name" type="String" />
+    <Field name="full_address" src="full_address" type="String" />
+    <Field name="territorial_authority" src="territorial_authority" type="String" />
+    <Field name="unit" src="unit" type="String" />
+    <Field name="address_number" src="address_number" type="Integer" />
+    <Field name="address_number_suffix" src="address_number_suffix" type="String" />
+    <Field name="address_number_high" src="address_number_high" type="Integer" />
+    <Field name="road_name" src="road_name" type="String" />
+    <Field name="road_name_type" src="road_name_type" type="String" />
+    <Field name="road_name_suffix" src="road_name_suffix" type="String" />
+    <Field name="suburb_locality" src="suburb_locality" type="String" />
+    <Field name="town_city" src="town_city" type="String" />
+    <Field name="is_land" src="is_land" type="String" width="2" />
+    <Field name="address_lifecycle" src="address_lifecycle" type="String" />
+  </OGRVRTLayer>
+</OGRVRTDataSource>

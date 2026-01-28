@@ -2,6 +2,7 @@ Title Generate CSV
 
 if [%1]==[PILOT] SET GNPARM=-P
 
+set GN_PROCESSING_LIBRARY=5%GNPARM%
 start /low /min %~n01.bat
 start /low /min %~n02.bat
 start /low /min %~n03.bat

@@ -18,6 +18,6 @@
     <Field name="road_name_body" src="road_name_body" type="String" />
     <Field name="road_name_type" src="road_name_type" type="String" />
     <Field name="road_name_suffix" src="road_name_suffix" type="String" />
-    <Field name="is_land" src="is_land" type="String" width="2" />
+    <Field name="is_land" src="is_land" type="String" width="6" />
   </OGRVRTLayer>
 </OGRVRTDataSource>

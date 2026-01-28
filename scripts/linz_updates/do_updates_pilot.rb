@@ -129,7 +129,7 @@ def pg_connect()
 	end
 end
 
-def put_csv_in_postgres()
+def put_csv_in_postgres(options)
 #find ogr command from environment
 	ogr_cmd = ENV['nzogps_ogr2ogr']
 	abort("Processing aborted! nzogps_ogr2ogrl environment variable not set!") if !ogr_cmd
@@ -143,6 +143,7 @@ def put_csv_in_postgres()
 	system("#{ogr_cmd} --config PG_USE_COPY TRUE -overwrite -f \"PostgreSQL\" \"PG:host=localhost user=postgres  dbname=nzopengps\" -lco OVERWRITE=yes  #{FN_123113}.vrt") or abort("Failed to run #{ogr_cmd} on #{FN_123113}")
 
 #pilot addresses
+	@conn.exec "COMMENT ON TABLE #{FN_123113} IS 'Changeset data for nz_addresses_pilot from #{options[:from]} to #{options[:until]}'"
 	@conn.exec "ALTER TABLE #{FN_123113} ADD COLUMN is_odd boolean"
 	@conn.exec "ALTER TABLE #{FN_123113} ADD COLUMN linz_numb_id integer"
 	@conn.exec "ALTER TABLE #{FN_123113} ADD COLUMN full_road_name_ascii character varying"
@@ -152,27 +153,47 @@ def put_csv_in_postgres()
 	@conn.exec "UPDATE #{FN_123113} SET suburb_locality_ascii = unaccent(suburb_locality)"
 
 #pilot roads
+	@conn.exec "COMMENT ON TABLE #{FN_123110} IS 'Changeset data for nz_addresses_roads_pilot from #{options[:from]} to #{options[:until]}'"
 	@conn.exec "ALTER TABLE #{FN_123110} ADD COLUMN full_road_name_ascii character varying"
 	@conn.exec "UPDATE #{FN_123110} SET full_road_name_ascii = unaccent(full_road_name)"
 
-	@conn.exec "DROP TABLE IF EXISTS #{FN_123110}_S"
-	@conn.exec "CREATE TABLE #{FN_123110}_S
+	@conn.exec "DROP TABLE IF EXISTS #{FN_123110}_s"
+	@conn.exec "CREATE TABLE #{FN_123110}_s
 (
 	ogc_fid serial PRIMARY KEY,
+	__change__ character varying(10),
 	road_id integer,
 	full_road_name character varying,
-	is_land character varying(2),
+	is_land bool,
 	wkb_geometry geometry(LineString,4167),
 	full_road_name_ascii character varying,
 	suburb_locality_ascii character varying,
 	territorial_authority_ascii character varying
 )"
 
+# split roads into single linestrings
+	@conn.exec "INSERT INTO #{FN_123110}_S (__change__,road_id,full_road_name,wkb_geometry,full_road_name_ascii,is_land)
+		select nzp.__change__, nzp.road_id, nzp.full_road_name, (st_dump(wkb_geometry)).geom, nzp.full_road_name_ascii, nzp.is_land::bool
+		from #{FN_123110} nzp"
 
-# in a previous installation, a_r_r_i and a_n_h may have been chars rather than integers, so blanks were null rather than 0. 
-# Subsequent code uses something like 'is not null' rather than '!=0'. Perhaps it would be tidier to fix this the other way at some stage, since they are really integers.
+# set locality and TA from SAL using within
+	@conn.exec "update #{FN_123110}_s rd
+		set suburb_locality_ascii = sal.name_ascii, territorial_authority_ascii = sal.territorial_authority_ascii
+		from nz_suburbs_and_localities sal
+		where st_within(rd.wkb_geometry,sal.wkb_geometry)"
 
-#	@conn.exec "UPDATE #{FN_3353} SET address_number_high = null WHERE address_number_high = 0" #in case a_n_h is zero rather than blank.
+# set locality and TA from SAL using highest overlap
+	@conn.exec "update #{FN_123110}_s rd
+		set suburb_locality_ascii = name_ascii, territorial_authority_ascii = isect.territorial_authority_ascii
+		from (
+			SELECT distinct on (rd.ogc_fid) 
+				st_length(st_intersection(rd.wkb_geometry,sal.wkb_geometry)) as overlap, rd.ogc_fid, name_ascii, sal.territorial_authority_ascii 
+				FROM #{ROAD_TABLE} rd
+				join nz_suburbs_and_localities sal on st_intersects(rd.wkb_geometry,sal.wkb_geometry)
+				WHERE suburb_locality_ascii is null
+				order by rd.ogc_fid, overlap desc
+		) as isect
+	where rd.ogc_fid = isect.ogc_fid"
 
 	@conn.exec "VACUUM ANALYSE #{FN_123110}"
 	@conn.exec "VACUUM ANALYSE #{FN_123113}"
@@ -183,14 +204,21 @@ def check_for_errors(options)
 	error = false
 
 	print "Street Address changes: "
-	rs = @conn.exec "select  __change__,count  (__change__)  from #{FN_105689} group by __change__"
+	rs = @conn.exec "select __change__,count (__change__) from #{FN_123113} group by __change__ order by __change__"
 	rs.each do |row|
 		print "%s %s " % [row['__change__'],row['count']]
 	end
 	puts
 
-	print "Road CL changes: "
-	rs = @conn.exec "select  __change__,count  (__change__)  from #{FN_3383} group by __change__"
+	print "Multi Road CL changes: "
+	rs = @conn.exec "select __change__,count (__change__) from #{FN_123110} group by __change__ order by __change__"
+	rs.each do |row|
+		print "%s %s " % [row['__change__'],row['count']]
+	end
+	puts
+	
+	print "Split Road CL changes: "
+	rs = @conn.exec "select __change__,count (__change__) from #{FN_123110}_s group by __change__ order by __change__"
 	rs.each do |row|
 		print "%s %s " % [row['__change__'],row['count']]
 	end
@@ -199,28 +227,28 @@ def check_for_errors(options)
 
 #road subsections
 #
-	rs = @conn.exec "SELECT cs.road_section_geometry_id, cs.road_name_label_ascii, cs.__change__ from #{FN_3383} cs "\
-		"join #{ROAD_TABLE} rcl on rcl.road_section_geometry_id = cs.road_section_geometry_id where cs.__change__ = 'INSERT'"
+	rs = @conn.exec "SELECT cs.road_id, cs.full_road_name_ascii, cs.__change__ from #{FN_123110} cs "\
+		"join #{ROAD_TABLE} rcl on rcl.road_id = cs.road_id where cs.__change__ = 'INSERT'"
 	if rs.count > 0 then
 		error = true
-		STDERR.puts rs.count.to_s + " ID(s) in road updates for addition already exists in database"
-		STDERR.puts "\tFirst ID: " + rs.first['road_section_geometry_id'] + " - " + rs.first['road_name_label_ascii']
-		LOGFILE.puts rs.count.to_s + " ID(s) in road updates for addition already exists in database"
+		STDERR.puts rs.count.to_s + " road ID(s) in road updates for addition already exists in database"
+		STDERR.puts "\tFirst ID: " + rs.first['road_id'] + " - " + rs.first['full_road_name_ascii']
+		LOGFILE.puts rs.count.to_s + " road ID(s) in road updates for addition already exists in database"
 		rs.each do |row|
-			LOGFILE.puts row['road_section_geometry_id'] + " - " + row['road_name_label_ascii']
+			LOGFILE.puts row['road_id'] + " - " + row['full_road_name_ascii']
 		end
 		abort("Processing aborted") unless options[:continue] 
 	end
 
-	rs = @conn.exec "SELECT cs.road_section_geometry_id, cs.road_name_label_ascii, cs.__change__ from #{FN_3383} cs "\
-		"where cs.__change__ in ('UPDATE','DELETE') and not exists( select road_section_geometry_id from #{ROAD_TABLE} rcl where rcl.road_section_geometry_id = cs.road_section_geometry_id)"
+	rs = @conn.exec "SELECT cs.road_id, cs.full_road_name_ascii, cs.__change__ from #{FN_123110} cs "\
+		"where cs.__change__ in ('UPDATE','DELETE') and not exists( select road_id from #{ROAD_TABLE} rcl where rcl.road_id = cs.road_id)"
 	if rs.count > 0 then
 		error = true
-		STDERR.puts rs.count.to_s + " ID(s) in road updates for modification/deletion do not already exist in database"
-		STDERR.puts "\tFirst ID: " + rs.first['road_section_geometry_id'] + " - " + rs.first['road_name_label_ascii']
-		LOGFILE.puts rs.count.to_s + " ID(s) in road updates for modification/deletion do not already exist in database"
+		STDERR.puts rs.count.to_s + " road ID(s) in road updates for modification/deletion do not already exist in database"
+		STDERR.puts "\tFirst ID: " + rs.first['road_id'] + " - " + rs.first['full_road_name_ascii']
+		LOGFILE.puts rs.count.to_s + " road ID(s) in road updates for modification/deletion do not already exist in database"
 		rs.each do |row|
-			LOGFILE.puts row['road_section_geometry_id'] + " - " + row['road_name_label_ascii']
+			LOGFILE.puts row['road_id'] + " - " + row['full_road_name_ascii']
 		end
 	end
 
@@ -231,32 +259,32 @@ def do_updates()
 
 #road table
 	@conn.exec "DELETE FROM #{ROAD_TABLE} rcl USING #{FN_3383} cs
-					WHERE rcl.road_section_geometry_id = cs.road_section_geometry_id
+					WHERE rcl.road_id = cs.road_id
 					AND cs.__change__ = 'DELETE'"
 
 	@conn.exec "INSERT INTO #{ROAD_TABLE} "\
-		"( wkb_geometry, road_section_geometry_id, road_section_id, geometry_class, road_type, road_section_type, address_range_road_id, road_id, full_road_name,road_name_label, "\
+		"( wkb_geometry, road_id, road_section_id, geometry_class, road_type, road_section_type, address_range_road_id, road_id, full_road_name,road_name_label, "\
 		"road_name_prefix, road_name_body, road_name_type, road_name_suffix, secondary_road_name, full_route_name, secondary_route_name, tertiary_route_name, "\
 		"left_suburb_locality, right_suburb_locality, left_town_city, right_town_city, left_territorial_authority, right_territorial_authority, full_road_name_ascii, road_name_label_ascii, "\
 		"road_name_body_ascii, secondary_road_name_ascii, left_suburb_locality_ascii, right_suburb_locality_ascii, left_town_city_ascii, right_town_city_ascii ) "\
 	"SELECT "\
-		"st_flipcoordinates(wkb_geometry), road_section_geometry_id, road_section_id, geometry_class, road_type, road_section_type, address_range_road_id, road_id, full_road_name,road_name_label, "\
+		"st_flipcoordinates(wkb_geometry), road_id, road_section_id, geometry_class, road_type, road_section_type, address_range_road_id, road_id, full_road_name,road_name_label, "\
 		"road_name_prefix, road_name_body, road_name_type, road_name_suffix, secondary_road_name, full_route_name, secondary_route_name, tertiary_route_name, "\
 		"left_suburb_locality, right_suburb_locality, left_town_city, right_town_city, left_territorial_authority, right_territorial_authority, full_road_name_ascii, road_name_label_ascii, "\
 		"road_name_body_ascii, secondary_road_name_ascii, left_suburb_locality_ascii, right_suburb_locality_ascii, left_town_city_ascii, right_town_city_ascii "\
 	"FROM #{FN_3383} where __change__ = 'INSERT'"
 
 	@conn.exec "UPDATE #{ROAD_TABLE} rcl SET "\
-		"wkb_geometry=st_flipcoordinates(subquery.wkb_geometry), road_section_geometry_id=subquery.road_section_geometry_id, road_section_id=subquery.road_section_id, geometry_class=subquery.geometry_class, road_type=subquery.road_type, road_section_type=subquery.road_section_type, address_range_road_id=subquery.address_range_road_id, road_id=subquery.road_id, full_road_name=subquery.full_road_name, road_name_label=subquery.road_name_label, "\
+		"wkb_geometry=st_flipcoordinates(subquery.wkb_geometry), road_id=subquery.road_id, road_section_id=subquery.road_section_id, geometry_class=subquery.geometry_class, road_type=subquery.road_type, road_section_type=subquery.road_section_type, address_range_road_id=subquery.address_range_road_id, road_id=subquery.road_id, full_road_name=subquery.full_road_name, road_name_label=subquery.road_name_label, "\
 		"road_name_prefix=subquery.road_name_prefix, road_name_body=subquery.road_name_body, road_name_type=subquery.road_name_type, road_name_suffix=subquery.road_name_suffix, secondary_road_name=subquery.secondary_road_name, full_route_name=subquery.full_route_name, secondary_route_name=subquery.secondary_route_name, tertiary_route_name=subquery.tertiary_route_name, "\
 		"left_suburb_locality=subquery.left_suburb_locality, right_suburb_locality=subquery.right_suburb_locality, left_town_city=subquery.left_town_city, right_town_city=subquery.right_town_city, left_territorial_authority=subquery.left_territorial_authority, right_territorial_authority=subquery.right_territorial_authority, full_road_name_ascii=subquery.full_road_name_ascii, road_name_label_ascii=subquery.road_name_label_ascii, "\
 		"road_name_body_ascii=subquery.road_name_body_ascii, secondary_road_name_ascii=subquery.secondary_road_name_ascii, left_suburb_locality_ascii=subquery.left_suburb_locality_ascii, right_suburb_locality_ascii=subquery.right_suburb_locality_ascii, left_town_city_ascii=subquery.left_town_city_ascii, right_town_city_ascii=subquery.right_town_city_ascii "\
 	"FROM ( SELECT "\
-		"wkb_geometry, road_section_geometry_id, road_section_id, geometry_class, road_type, road_section_type, address_range_road_id, road_id, full_road_name, road_name_label, "\
+		"wkb_geometry, road_id, road_section_id, geometry_class, road_type, road_section_type, address_range_road_id, road_id, full_road_name, road_name_label, "\
 		"road_name_prefix, road_name_body, road_name_type, road_name_suffix, secondary_road_name, full_route_name, secondary_route_name, tertiary_route_name, "\
 		"left_suburb_locality, right_suburb_locality, left_town_city, right_town_city, left_territorial_authority, right_territorial_authority, full_road_name_ascii, road_name_label_ascii, "\
 		"road_name_body_ascii, secondary_road_name_ascii, left_suburb_locality_ascii, right_suburb_locality_ascii, left_town_city_ascii, right_town_city_ascii "\
-	"FROM #{FN_3383} where __change__ = 'UPDATE') AS subquery WHERE rcl.road_section_geometry_id=subquery.road_section_geometry_id"
+	"FROM #{FN_3383} where __change__ = 'UPDATE') AS subquery WHERE rcl.road_id=subquery.road_id"
 
 #aims address reference
 	@conn.exec "DELETE FROM #{AIMS_AR} aar USING #{FN_53331} arcs
@@ -353,7 +381,7 @@ end
 pg_connect()
 
 if (options[:postgres]) 
-	put_csv_in_postgres()
+	put_csv_in_postgres(options)
 	check_for_errors(options)
 end
 

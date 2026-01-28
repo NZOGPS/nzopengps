@@ -1,7 +1,8 @@
-Start = 2026-01-21 02:22:16 +1300
+Start = 2026-01-28 01:28:03 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Auckland
+1 LINZ ids are missing from NZOGPS Auckland
+;linzid=3085842	Seasons Way	-36.7597272706432,174.695391196089
 #############################
 
 0 LINZ ids are in NZOGPS Auckland but missing from LINZ
@@ -13,5 +14,5 @@ Start = 2026-01-21 02:22:16 +1300
 0 Number range ids are in NZOGPS Auckland but missing from LINZ
 #############################
 
-Finish = 2026-01-21 02:22:22 +1300
-Processing time = 6.396155
+Finish = 2026-01-28 01:28:06 +1300
+Processing time = 3.602178

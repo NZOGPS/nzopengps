@@ -27,7 +27,7 @@
     <Field name="road_name_suffix" src="road_name_suffix" type="String" />
     <Field name="suburb_locality" src="suburb_locality" type="String" />
     <Field name="town_city" src="town_city" type="String" />
-    <Field name="is_land" src="is_land" type="String" width="2" />
+    <Field name="is_land" src="is_land" type="String" width="6" />
     <Field name="address_lifecycle" src="address_lifecycle" type="String" />
   </OGRVRTLayer>
 </OGRVRTDataSource>

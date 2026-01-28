@@ -1,10 +1,19 @@
-Start = 2026-01-23 22:39:43 +1300
+Start = 2026-01-28 01:27:51 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Wellington
+8 LINZ ids are missing from NZOGPS Wellington
+;linzid=3085848	Chalk Way	-40.3231029244133,175.627429519375
+;linzid=3085840	Ripple Dr	-40.2020390639666,175.578071320042
+;linzid=3085839	Puna Dr	-40.2033586338671,175.576542757128
+;linzid=3085841	Wai St	-40.2018488773511,175.577017712798
+;linzid=3085846	Setters Line	-40.3076752667,175.6095444
+;linzid=3085847	Edmunds Way	-40.3212576,175.62527305
+;linzid=3085850	Coach House Lane	-40.6592897360289,175.232281930423
+;linzid=3085849	Parera Way	-40.3145370833,175.6174883167
 #############################
 
-0 LINZ ids are in NZOGPS Wellington but missing from LINZ
+1 LINZ ids are in NZOGPS Wellington but missing from LINZ
+;linzid=3003418	Setters Line	-40.32145,175.62553
 #############################
 
 0 Number range ids are missing from NZOGPS Wellington
@@ -13,5 +22,5 @@ Start = 2026-01-23 22:39:43 +1300
 0 Number range ids are in NZOGPS Wellington but missing from LINZ
 #############################
 
-Finish = 2026-01-23 22:39:47 +1300
-Processing time = 3.409701
+Finish = 2026-01-28 01:27:54 +1300
+Processing time = 2.974771

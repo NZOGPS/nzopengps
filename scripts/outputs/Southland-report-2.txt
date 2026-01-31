@@ -1,14 +1,10 @@
-Start = 2026-01-29 02:58:45 +1300
+Start = 2026-02-01 00:42:19 +1300
 #############################
 
-3 LINZ ids are missing from NZOGPS Southland
-;linzid=3085843	Shed Ave	-45.0597909029751,168.749670103709
-;linzid=3085844	Simmental Rd	-45.0584182619208,168.752043686237
-;linzid=3085845	Angus Rise	-45.0595477695897,168.751196088032
+0 LINZ ids are missing from NZOGPS Southland
 #############################
 
-1 LINZ ids are in NZOGPS Southland but missing from LINZ
-;linzid=3021338	Woolshed Rd	-45.05998,168.74968
+0 LINZ ids are in NZOGPS Southland but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Southland
@@ -17,5 +13,5 @@ Start = 2026-01-29 02:58:45 +1300
 0 Number range ids are in NZOGPS Southland but missing from LINZ
 #############################
 
-Finish = 2026-01-29 02:58:51 +1300
-Processing time = 5.327595
+Finish = 2026-02-01 00:42:24 +1300
+Processing time = 4.457297

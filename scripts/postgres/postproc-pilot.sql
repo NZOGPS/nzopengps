@@ -4,10 +4,18 @@
 SELECT 'ALTER TABLES',NOW(); -- ~1 sec 2026/1/24
 \set ROAD_TBL_S :ROAD_TBL'_s'
 
+SELECT current_timestamp AS nowtxt \gset
+\set tblcommentbase ' data. Code modified in January 2026. This table processed: ' :nowtxt
+\set tblcomment 'Pilot address' :tblcommentbase
+COMMENT ON TABLE :ADD_TBL IS :'tblcomment';
+\set tblcomment 'Pilot addressing roads' :tblcommentbase
+COMMENT ON TABLE :ROAD_TBL IS :'tblcomment';
+
 ALTER TABLE :ADD_TBL ADD COLUMN is_odd boolean;
 ALTER TABLE :ADD_TBL ADD COLUMN linz_numb_id integer;
-ALTER TABLE :ADD_TBL ADD COLUMN full_road_name_ascii character varying;
 ALTER TABLE :ADD_TBL ADD COLUMN suburb_locality_ascii character varying;
+ALTER TABLE :ADD_TBL ADD COLUMN full_road_name_ascii character varying;
+
 
 drop table if exists :ROAD_TBL_S;
 CREATE TABLE :ROAD_TBL_S -- nz_addresses_roads_pilot_s
@@ -15,17 +23,34 @@ CREATE TABLE :ROAD_TBL_S -- nz_addresses_roads_pilot_s
   ogc_fid serial PRIMARY KEY,
   road_id integer,
   full_road_name character varying,
-  is_land character varying(2),
+  road_name_label character varying,
+  is_land boolean,
   wkb_geometry geometry(LineString,4167),
   full_road_name_ascii character varying,
+  road_name_label_ascii character varying,
   suburb_locality_ascii character varying,
   territorial_authority_ascii character varying
 );
 
+\set tblcomment 'Pilot addressing roads split into LineString ' :tblcommentbase
+COMMENT ON TABLE :ROAD_TBL IS :'tblcomment';
+
 ALTER TABLE :ROAD_TBL ADD COLUMN full_road_name_ascii character varying;
+ALTER TABLE :ROAD_TBL ADD COLUMN road_name_label_ascii character varying;
 
 SELECT 'IS ODD',NOW(); -- ~1 min 2026/1/24
 UPDATE :ADD_TBL SET is_odd = MOD(address_number,2) = 1;
+
+select 'binarise is_land',NOW();
+ALTER TABLE :ADD_TBL RENAME COLUMN is_land TO is_land_txt;
+ALTER TABLE :ADD_TBL ADD COLUMN is_land boolean;
+UPDATE :ADD_TBL SET is_land = is_land_txt::BOOLEAN;
+ALTER TABLE :ADD_TBL DROP COLUMN is_land_txt;
+
+ALTER TABLE :ROAD_TBL RENAME COLUMN is_land TO is_land_txt;
+ALTER TABLE :ROAD_TBL ADD COLUMN is_land boolean;
+UPDATE :ROAD_TBL SET is_land = is_land_txt::BOOLEAN;
+ALTER TABLE :ROAD_TBL DROP COLUMN is_land_txt;
 
 SELECT 'ASCIIFY',NOW();  -- ~3 min 2026/1/25
 -- if unaccent fails, need to CREATE EXTENSION unaccent in nzopengps;
@@ -33,13 +58,14 @@ UPDATE :ADD_TBL SET full_road_name_ascii = unaccent(full_road_name);
 UPDATE :ADD_TBL SET suburb_locality_ascii = unaccent(suburb_locality);
 
 UPDATE :ROAD_TBL SET full_road_name_ascii = unaccent(full_road_name);
+UPDATE :ROAD_TBL SET road_name_label_ascii = unaccent(road_name_label);
 
 SELECT 'SPLIT MULTIS',NOW();  -- ~4 sec 2026/1/24
 
-INSERT INTO  :ROAD_TBL_S (road_id,full_road_name,wkb_geometry,full_road_name_ascii,is_land)
+INSERT INTO  :ROAD_TBL_S (road_id, full_road_name, road_name_label, is_land, full_road_name_ascii, road_name_label_ascii, wkb_geometry)
 select 
-	nzp.road_id, nzp.full_road_name, (st_dump(wkb_geometry)).geom, nzp.full_road_name_ascii,
-	nzp.is_land
+	nzp.road_id, nzp.full_road_name, nzp.road_name_label, nzp.is_land, nzp.full_road_name_ascii, nzp.road_name_label_ascii,
+	(st_dump(wkb_geometry)).geom
 	from nz_addresses_roads_pilot nzp;
 
 SELECT 'ADD FULLY OVERLAPPED BURB and TA',NOW(); -- 4212223 ms ~ 70 min ~ 1 hr 10 - 249586 rows of 266002 26/1/24
@@ -71,3 +97,6 @@ CREATE INDEX idx_rna_nza_id_p ON :ADD_TBL USING btree (road_id);
 CREATE INDEX idx_rna_nza_id_is_odd_p ON :ADD_TBL USING btree (road_id,is_odd);
 
 CREATE INDEX idx_road_id_p_s ON :ROAD_TBL_S USING btree (road_id);
+
+VACUUM ANALYSE :ROAD_TBL;
+VACUUM ANALYSE :ADD_TBL;

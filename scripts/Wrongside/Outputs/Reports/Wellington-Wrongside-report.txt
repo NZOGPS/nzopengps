@@ -1,11 +1,10 @@
 52 entries in V:\nzopengps\LinzDataService\PaperRoads\Wellington-WrongSide.txt
 124 entries in V:\nzopengps\LinzDataService\PaperRoads\Wellington-LINZWrongSide.txt
-79 wrongside numbers,  not in Exclusion files
-23 entries in Ignore list are no longer on the wrong side
+82 wrongside numbers,  not in Exclusion files
+20 entries in Ignore list are no longer on the wrong side
 1418498	238 ALBERT STREET	2013/12/21 08:09	-40.357751,175.629047
 1691755	3 ASHFORD LANE	2013/12/22 18:14	-41.123661,175.072152
 1565486	6K Pascoe Avenue, Paremata, Porirua	2025/10/10 00:41	-41.095701,174.867802
-1938260	103A Warwick Street, Feilding	2018/08/21 22:39	-40.224258,175.560045
 1586180	10031A ROUTE 52	2013/12/22 12:23	-40.500966,176.251520
 1608976	9G MILLWARD LANE	2013/12/22 09:41	-41.314686,174.779370
 1451595	13 KEEL PLACE	2013/12/30 16:38	-41.114430,174.889217
@@ -21,9 +20,7 @@
 1566323	450A Flightys Road, Judgeford	2018/12/01 17:45	-41.081092,174.945088
 606319	11 CABLE CAR LANE	2014/01/24 15:52	-41.284245,174.774809
 1630970	30B Westra View, Tawa, Wellington	2021/04/26 18:39	-41.164327,174.819042
-1683138	32B THE SQUARE	2013/12/21 08:02	-40.357001,175.610632
 396853	25 Rangatira Road, Tawa, Wellington	2021/08/30 15:47	-41.159423,174.839757
-443247	25A Mt Cecil Road, Moonshine Valley	2018/12/01 18:50	-41.134674,174.980429
 1849960	26 Gifford Grove, Churton Park, Wellington	2018/08/21 23:12	-41.193073,174.801451
 
 74 entries in Linz list are no longer on the wrong side
@@ -64,6 +61,7 @@
 591768	25 Mangamaire Road, Weber	2018/12/01 18:40	-40.268291,176.278148	Same side as 356. Maybe that one's wrong?
 1549469	41 Dublin Street West, Martinborough	2018/12/01 17:38	-41.213602,175.449583	Odd ones at end.
 647670	146 Boundary Terrace, Raumati Beach, Paraparaumu	2021/08/30 15:23	-40.923053,175.001165	All points here seem to be offset to the SE. 1/2 are on or over the road.
+1938229	90 Pohangina Valley East Road, Ashhurst	2018/12/01 18:41	-40.207805,175.787255	Another driveway opposite that matches RAPID at	-40.208452 175.787938
 1456595	1470 Pahaoa Road, Hinakura	2018/12/01 17:06	-41.394627,175.718280	Right in front of 1469
 1547493	2528 Homewood Road, Homewood	2021/08/30 15:58	-41.156404,175.996877
 1937806	11 Ruffs Road, Bunnythorpe	2021/08/30 15:39	-40.280900,175.620987
@@ -94,11 +92,10 @@
 1547491	2542 Homewood Road, Homewood	2021/08/30 15:58	-41.157365,175.995765
 1629354	381 Pikarere Street, Colonial Knob	2018/12/01 19:27	-41.129081,174.811000
 69491	53B Boar Bush Gully Road, Featherston	2018/12/01 19:14	-41.102258,175.321057	Odd number. There's no 53 anyway. Should it be 54B?
-2025412	27 Ashmore Park Road, Carterton	2018/12/01 18:03	-41.035037,175.514848	Numbering seems a bit odd here. Maybe a work in progress, but will be confusing.
 1572437	30 Paruwai Road, Tuturumuri	2018/12/01 17:49	-41.387682,175.451078	No obvious dwelling, this point is a riverbed beside 209. RAPID would suggest around	-41.389402 175.464440
 1585973	20 Old Main Road, Maharahara	2018/12/01 17:55	-40.274152,176.010550	Next to 19. No dwelling?
 556797	24 MOSS ROAD	2013/12/22 09:55	-40.618015,175.705273
 2152670	151 Te Wanaka Road, Awapuni, Palmerston North	2021/08/30 16:11	-40.380956,175.572572	Another in the middle of the formed road. Not sure where it should be.
 2098507	158 Boundary Terrace, Raumati Beach, Paraparaumu	2021/08/30 15:24	-40.922785,175.001394	ditto
-2025411	25 Ashmore Park Road, Carterton	2018/12/01 18:03	-41.035097,175.515004	Numbering seems a bit odd here. Maybe a work in progress, but will be confusing.
+543159	3 Mountain View Road, Fitzherbert, Palmerston North	2018/12/02 16:16	-40.379616,175.626526	Appears to be in the verge between the road and the driveway.
 

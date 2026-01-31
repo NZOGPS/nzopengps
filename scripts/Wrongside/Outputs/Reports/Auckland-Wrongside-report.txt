@@ -3,7 +3,7 @@ Warning: duplicate entries for 2299683 on line 21 in V:\nzopengps\LinzDataServic
 Warning: duplicate entries for 2381551 on line 22 in V:\nzopengps\LinzDataService\PaperRoads\Auckland-WrongSide.txt
 Warning: duplicate entries for 2383777 on line 23 in V:\nzopengps\LinzDataService\PaperRoads\Auckland-WrongSide.txt
 20 entries in V:\nzopengps\LinzDataService\PaperRoads\Auckland-WrongSide.txt
-58 wrongside numbers, 41 not in Exclusion files
+64 wrongside numbers, 47 not in Exclusion files
 3 entries in Ignore list are no longer on the wrong side
 2194522	80B Pacific Heights Road, Orewa	2025/10/24 18:04	-36.572706,174.675729
 2300330	16 Weza Lane, Kumeu	2025/10/25 17:39	-36.775833,174.560544

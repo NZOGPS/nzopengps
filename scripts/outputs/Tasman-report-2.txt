@@ -1,8 +1,7 @@
-Start = 2026-01-28 01:27:41 +1300
+Start = 2026-01-31 12:25:49 +1300
 #############################
 
-1 LINZ ids are missing from NZOGPS Tasman
-;linzid=3085851	Murphys Way	-41.2519956578073,173.058050781394
+0 LINZ ids are missing from NZOGPS Tasman
 #############################
 
 0 LINZ ids are in NZOGPS Tasman but missing from LINZ
@@ -14,5 +13,5 @@ Start = 2026-01-28 01:27:41 +1300
 0 Number range ids are in NZOGPS Tasman but missing from LINZ
 #############################
 
-Finish = 2026-01-28 01:27:43 +1300
-Processing time = 2.01307
+Finish = 2026-01-31 12:25:51 +1300
+Processing time = 2.06096

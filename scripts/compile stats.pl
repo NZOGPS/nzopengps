@@ -4,6 +4,7 @@ my @filenames = ("Northland","Auckland","Waikato","Central","Wellington","Tasman
 my $gofn = "gdb-compile-times.txt";
 my $nofn = "numbering-times.txt";
 my $nowts;
+my $pilot = ''; # use compile_stats -p
 
 sub tdiff {
 	my $t1 = shift;
@@ -48,7 +49,7 @@ sub doGPX {
 	open(OFILE,">>",$gofn) or die "cannot open $gofn\n";
 	for my $fn (@filenames){
 	#	print "file is $fn\n";
-		my $lfn = "outputs\\$fn-report-5.txt";
+		my $lfn = "outputs\\$fn-report-5$pilot.txt";
 		my $start;
 		my $endGPX;
 		my $endGDB;
@@ -90,9 +91,10 @@ sub doGPX {
 
 sub doNumbering {
 	open(OFILE,">>",$nofn) or die "cannot open $nofn\n";
+	my $mrulib = '';
 	for my $fn (@filenames){
 	#	print "file is $fn\n";
-		my $lfp = "..\\linzdataservice\\outputslinz\\$fn-report-3*.txt";
+		my $lfp = "..\\linzdataservice\\outputslinz\\$fn-report-3?$pilot.txt";
 		my $start;
 		my $end;
 		my $Sections; 
@@ -105,8 +107,10 @@ sub doNumbering {
 
 		my @mfns  = sort { (stat $b)[9] <=> (stat $a)[9] } glob($lfp);
 		my $mrnfn = $mfns[0];
+		
 		open(LOGF,$mrnfn) or die "cannot open $mrnfn\n";
-	#	print "opened $mrnfn\n";
+		if ($mrnfn =~ m/report(.*)\.txt/) {$mrulib = $1};
+		#	print "opened $mrnfn\n";
 		while (<LOGF>){
 			if (/^Start = (.*)/){
 				$start = $1;
@@ -149,8 +153,14 @@ sub doNumbering {
 		print OFILE "$fn\t$start\t$end\t$time\t$Sections\t$SectionsCI\t$SectionsNN\t$SectionsNA\t$SectionsNAA\t$SectionsNA0A\n";
 	}
 	$nowts = strftime('%Y-%m-%d %H:%M:%S %Z', localtime);
-	print OFILE "(collated)\t$nowts\n"; 
+	print OFILE "(collated)\t$nowts\tLibrary: $mrulib\n"; 
 	close OFILE;
+}
+
+if (uc($ARGV[0]) == '-P') {
+	$gofn =~ s/\.txt/-P.txt/;
+	$nofn =~ s/\.txt/-P.txt/;
+	$pilot = '-P';
 }
 
 if (! -f $gofn ){
@@ -158,6 +168,7 @@ if (! -f $gofn ){
 	print OFILE "File\tStart\tEnd gpx\tEnd gdb\tGPX time\tGDB time\n";
 	close OFILE;
 }
+
 if (! -f $nofn ){
 	open(OFILE,">>",$nofn) or die "cannot create $nofn\n";
 	print OFILE "File\tStart\tEnd\tTime\tSections\tSections CI\tSections NN\tSections NA\tSections NAA\tSections NA0A\n";

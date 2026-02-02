@@ -157,10 +157,11 @@ sub doNumbering {
 	close OFILE;
 }
 
-if (uc($ARGV[0]) == '-P') {
+if (uc($ARGV[0]) eq '-P') {
 	$gofn =~ s/\.txt/-P.txt/;
 	$nofn =~ s/\.txt/-P.txt/;
 	$pilot = '-P';
+	#print "doing Pilot data\n";
 }
 
 if (! -f $gofn ){

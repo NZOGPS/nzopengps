@@ -5,8 +5,8 @@ require 'optparse/date'
 LINZ_URL="https://data.linz.govt.nz/services;"
 
 ROAD=  {csfn: "layer_123110_cs",   tbln: "nz_addresses_roads_pilot"}
-ROAD_S={csfn: "layer_123110_cs_s", tbln: "nz_addresses_roads_pilot_s"}
-ADDR=  {csfn: "layer_123113_cs",   tbln: "nz_addresses_pilot"}
+ROAD_S={csfn: "layer_123110_cs_s", tbln: "nz_addresses_roads_pilot_test_s"}
+ADDR=  {csfn: "layer_123113_cs",   tbln: "nz_addresses_pilot_test"}
 
 LAST_FN="LINZ_last_pilot.date"
 DEBUG=true
@@ -248,7 +248,7 @@ def check_for_errors(options)
 #road subsections
 #
 	rs = @conn.exec "SELECT cs.address_id, cs.full_address, cs.__change__ from #{ADDR[:csfn]} cs "\
-		"where cs.__change__ in ('UPDATE','DELETE') and not exists( select address_id from #{ADDR[:tbln]} add where addr.address_id = cs.address_id)"
+		"where cs.__change__ in ('UPDATE','DELETE') and not exists( select address_id from #{ADDR[:tbln]} addr where addr.address_id = cs.address_id)"
 	if rs.count > 0 then
 		error = true
 		STDERR.puts rs.count.to_s + " address ID(s) in address updates for modification/deletion do not already exist in database"

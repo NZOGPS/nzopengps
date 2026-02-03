@@ -151,6 +151,7 @@ def put_csv_in_postgres(options)
 	@conn.exec "ALTER TABLE #{ADDR[:csfn]} ADD COLUMN full_road_name_ascii character varying"
 	@conn.exec "ALTER TABLE #{ADDR[:csfn]} ADD COLUMN suburb_locality_ascii character varying"
 	@conn.exec "UPDATE #{ADDR[:csfn]} SET is_odd = MOD(address_number,2) = 1"
+
 	@conn.exec "UPDATE #{ADDR[:csfn]} SET full_road_name_ascii = unaccent(full_road_name)"
 	@conn.exec "UPDATE #{ADDR[:csfn]} SET suburb_locality_ascii = unaccent(suburb_locality)"
 
@@ -158,6 +159,10 @@ def put_csv_in_postgres(options)
 	@conn.exec "ALTER TABLE #{ADDR[:csfn]} ADD COLUMN is_land boolean"
 	@conn.exec "UPDATE #{ADDR[:csfn]} SET is_land = is_land_txt::BOOLEAN"
 	@conn.exec "ALTER TABLE #{ADDR[:csfn]} DROP COLUMN is_land_txt"
+
+	@conn.exec "UPDATE #{ADDR[:csfn]} SET wkb_geometry = st_flipcoordinates(wkb_geometry)"
+	@conn.exec "UPDATE #{ADDR[:csfn]} SET address_number_high = NULL where address_number_high = 0"
+
 	print "Addresses done\n" if DEBUG
 
 #pilot roads
@@ -171,6 +176,8 @@ def put_csv_in_postgres(options)
 	@conn.exec "UPDATE #{ROAD[:csfn]} SET is_land = is_land_txt::BOOLEAN"
 	@conn.exec "ALTER TABLE #{ROAD[:csfn]} DROP COLUMN is_land_txt"
 	print "is_land booleanised\n" if DEBUG
+	
+	@conn.exec "UPDATE #{ROAD[:csfn]} SET wkb_geometry = st_flipcoordinates(wkb_geometry)"
 
 	@conn.exec "DROP TABLE IF EXISTS #{ROAD_S[:csfn]}"
 	print "table dropped\n" if DEBUG
@@ -302,7 +309,7 @@ def do_updates()
 		" full_road_name_ascii, "\
 		" suburb_locality_ascii, territorial_authority_ascii )"\
 	"SELECT "\
-		"st_flipcoordinates(wkb_geometry), road_id, full_road_name, is_land, "\
+		"wkb_geometry, road_id, full_road_name, is_land, "\
 		" full_road_name_ascii, "\
 		" suburb_locality_ascii, territorial_authority_ascii "\
 	"FROM #{ROAD_S[:csfn]} where __change__ = 'INSERT'"
@@ -310,7 +317,7 @@ def do_updates()
 #up to here. What to do? Does update for split lines mean deleting first?
 
 	@conn.exec "UPDATE #{ROAD_S[:tbln]} rcl SET "\
-		"wkb_geometry=st_flipcoordinates(subquery.wkb_geometry), road_id=subquery.road_id, full_road_name=subquery.full_road_name, is_land=subquery.is_land,"\
+		"wkb_geometry=subquery.wkb_geometry, road_id=subquery.road_id, full_road_name=subquery.full_road_name, is_land=subquery.is_land,"\
 		"full_road_name_ascii=subquery.full_road_name_ascii, "\
 		"suburb_locality_ascii=subquery.suburb_locality_ascii, territorial_authority_ascii=subquery.territorial_authority_ascii "\
 	"FROM ( SELECT "\
@@ -325,14 +332,14 @@ def do_updates()
 					AND nacs.__change__ = 'DELETE'"
 
 	@conn.exec "UPDATE  #{ADDR[:tbln]} nza SET "\
-		"wkb_geometry=st_flipcoordinates(subquery.wkb_geometry), "\
+		"wkb_geometry=subquery.wkb_geometry, "\
 		"address_id=subquery.address_id, road_id=subquery.road_id, "\
 		"full_address_number=subquery.full_address_number, full_road_name=subquery.full_road_name, full_address=subquery.full_address, "\
 		"territorial_authority=subquery.territorial_authority, unit=subquery.unit, "\
 		"address_number=subquery.address_number, address_number_suffix=subquery.address_number_suffix, address_number_high=subquery.address_number_high, "\
 		"road_name=subquery.road_name, road_name_type=subquery.road_name_type, road_name_suffix=subquery.road_name_suffix, "\
 		"suburb_locality=subquery.suburb_locality, town_city=subquery.town_city, address_lifecycle=subquery.address_lifecycle, "\
-		"shape_x=st_y(subquery.wkb_geometry), shape_y=st_x(subquery.wkb_geometry), "\
+		"shape_x=st_x(subquery.wkb_geometry), shape_y=st_y(subquery.wkb_geometry), "\
 		"suburb_locality_ascii=subquery.suburb_locality_ascii, "\
 		"full_road_name_ascii=subquery.full_road_name_ascii, "\
 		"is_odd=subquery.is_odd, is_land=subquery.is_land, linz_numb_id=subquery.linz_numb_id "\
@@ -361,14 +368,14 @@ def do_updates()
 		"full_road_name_ascii, suburb_locality_ascii, "\
 		"is_odd, is_land, linz_numb_id ) "\
 	"SELECT "\
-		"st_flipcoordinates(wkb_geometry), "\
+		"wkb_geometry, "\
 		"address_id, road_id, "\
 		"full_address_number, full_road_name, full_address, "\
 		"territorial_authority, unit, "\
 		"address_number, address_number_suffix, address_number_high, "\
 		"road_name, road_name_type, road_name_suffix, "\
 		"suburb_locality, town_city, address_lifecycle, "\
-		"st_y(wkb_geometry), st_x(wkb_geometry), "\
+		"st_x(wkb_geometry), st_y(wkb_geometry), "\
 		"full_road_name_ascii, suburb_locality_ascii, "\
 		"is_odd, is_land, linz_numb_id "\
 	"FROM #{ADDR[:csfn]} nacs where __change__ = 'INSERT';"

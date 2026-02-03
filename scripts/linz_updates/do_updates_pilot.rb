@@ -291,33 +291,33 @@ end
 def do_updates()
 
 #road table
+#road_name_label
+#road_name_label_ascii
 	@conn.exec "DELETE FROM #{ROAD_S[:tbln]} rcl USING #{ROAD_S[:csfn]} cs
 		WHERE rcl.road_id = cs.road_id
 		AND cs.__change__ = 'DELETE'"
 
 	@conn.exec "INSERT INTO #{ROAD_S[:tbln]} "\
-		"( wkb_geometry, road_id, full_road_name, road_name_label, is_land,"\
-		" full_road_name_ascii, road_name_label_ascii, "\
+		"( wkb_geometry, road_id, full_road_name, is_land,"\
+		" full_road_name_ascii, "\
 		" suburb_locality_ascii, territorial_authority_ascii )"\
 	"SELECT "\
-		"st_flipcoordinates(wkb_geometry), road_id, full_road_name,road_name_label, is_land, "\
-		" full_road_name_ascii, road_name_label_ascii, "\
-		" suburb_locality_ascii, territorial_authority_ascii"\
+		"st_flipcoordinates(wkb_geometry), road_id, full_road_name, is_land, "\
+		" full_road_name_ascii, "\
+		" suburb_locality_ascii, territorial_authority_ascii "\
 	"FROM #{ROAD_S[:csfn]} where __change__ = 'INSERT'"
 
 #up to here. What to do? Does update for split lines mean deleting first?
 
 	@conn.exec "UPDATE #{ROAD_S[:tbln]} rcl SET "\
-		"wkb_geometry=st_flipcoordinates(subquery.wkb_geometry), road_id=subquery.road_id, road_section_id=subquery.road_section_id, geometry_class=subquery.geometry_class, road_type=subquery.road_type, road_section_type=subquery.road_section_type, address_range_road_id=subquery.address_range_road_id, road_id=subquery.road_id, full_road_name=subquery.full_road_name, road_name_label=subquery.road_name_label, "\
-		"road_name_body=subquery.road_name_body, road_name_type=subquery.road_name_type, road_name_suffix=subquery.road_name_suffix, secondary_road_name=subquery.secondary_road_name, full_route_name=subquery.full_route_name, secondary_route_name=subquery.secondary_route_name, tertiary_route_name=subquery.tertiary_route_name, "\
-		"left_suburb_locality=subquery.left_suburb_locality, right_suburb_locality=subquery.right_suburb_locality, left_town_city=subquery.left_town_city, right_town_city=subquery.right_town_city, left_territorial_authority=subquery.left_territorial_authority, right_territorial_authority=subquery.right_territorial_authority, full_road_name_ascii=subquery.full_road_name_ascii, road_name_label_ascii=subquery.road_name_label_ascii, "\
-		"road_name_body_ascii=subquery.road_name_body_ascii, secondary_road_name_ascii=subquery.secondary_road_name_ascii, left_suburb_locality_ascii=subquery.left_suburb_locality_ascii, right_suburb_locality_ascii=subquery.right_suburb_locality_ascii, left_town_city_ascii=subquery.left_town_city_ascii, right_town_city_ascii=subquery.right_town_city_ascii "\
+		"wkb_geometry=st_flipcoordinates(subquery.wkb_geometry), road_id=subquery.road_id, full_road_name=subquery.full_road_name, is_land=subquery.is_land,"\
+		"full_road_name_ascii=subquery.full_road_name_ascii, "\
+		"suburb_locality_ascii=subquery.suburb_locality_ascii, territorial_authority_ascii=subquery.territorial_authority_ascii "\
 	"FROM ( SELECT "\
-		"wkb_geometry, road_id, geometry_class, road_type, road_section_type, address_range_road_id, road_id, full_road_name, road_name_label, "\
-		"road_name_body, road_name_type, road_name_suffix, secondary_road_name, full_route_name, secondary_route_name, tertiary_route_name, "\
-		"left_suburb_locality, right_suburb_locality, left_town_city, right_town_city, left_territorial_authority, right_territorial_authority, full_road_name_ascii, road_name_label_ascii, "\
-		"road_name_body_ascii, secondary_road_name_ascii, left_suburb_locality_ascii, right_suburb_locality_ascii, left_town_city_ascii, right_town_city_ascii "\
-	"FROM #{FN_3383} where __change__ = 'UPDATE') AS subquery WHERE rcl.road_id=subquery.road_id"
+		"wkb_geometry, road_id, full_road_name, is_land, "\
+		"full_road_name_ascii, "\
+		"suburb_locality_ascii, territorial_authority_ascii "\
+	"FROM #{ROAD_S[:csfn]} where __change__ = 'UPDATE') AS subquery WHERE rcl.road_id=subquery.road_id"
 
 #new addresses
 	@conn.exec "DELETE FROM #{ADDR[:tbln]} nza USING #{ADDR[:csfn]} nacs 
@@ -330,11 +330,11 @@ def do_updates()
 		"full_address_number=subquery.full_address_number, full_road_name=subquery.full_road_name, full_address=subquery.full_address, "\
 		"territorial_authority=subquery.territorial_authority, unit=subquery.unit, "\
 		"address_number=subquery.address_number, address_number_suffix=subquery.address_number_suffix, address_number_high=subquery.address_number_high, "\
-		"road_name=subquery.road_name, road_type_name=subquery.road_type_name, road_suffix=subquery.road_suffix, "\
-		"suburb_locality=subquery.suburb_locality, town_city=subquery.town_city, ddress_lifecycle=subquery.address_lifecycle, "\
-		"shape_x=subquery.shape_x, shape_y=subquery.shape_y, "\
+		"road_name=subquery.road_name, road_name_type=subquery.road_name_type, road_name_suffix=subquery.road_name_suffix, "\
+		"suburb_locality=subquery.suburb_locality, town_city=subquery.town_city, address_lifecycle=subquery.address_lifecycle, "\
+		"shape_x=st_y(subquery.wkb_geometry), shape_y=st_x(subquery.wkb_geometry), "\
 		"suburb_locality_ascii=subquery.suburb_locality_ascii, "\
-		"town_city_ascii=subquery.town_city_ascii, full_road_name_ascii=subquery.full_road_name_ascii, full_address_ascii=subquery.full_address_ascii, "\
+		"full_road_name_ascii=subquery.full_road_name_ascii, "\
 		"is_odd=subquery.is_odd, is_land=subquery.is_land, linz_numb_id=subquery.linz_numb_id "\
 	"FROM ( SELECT "\
 		"wkb_geometry, "\
@@ -342,13 +342,12 @@ def do_updates()
 		"full_address_number, full_road_name, full_address, "\
 		"territorial_authority, unit, "\
 		"address_number, address_number_suffix, address_number_high, "\
-		"road_name, road_type_name, road_suffix, "\
+		"road_name, road_name_type, road_name_suffix, "\
 		"suburb_locality, town_city, address_lifecycle, "\
-		"shape_x, shape_y, "\
 		"suburb_locality_ascii, "\
-		"town_city_ascii, full_road_name_ascii, full_address_ascii, "\
+		"full_road_name_ascii, "\
 		"is_odd, is_land, linz_numb_id "\
-	"FROM #{FN_105689} nacs where __change__ = 'UPDATE') AS subquery WHERE subquery.address_id = nza.address_id";
+	"FROM #{ADDR[:csfn]} nacs where __change__ = 'UPDATE') AS subquery WHERE subquery.address_id = nza.address_id";
 
 	@conn.exec "INSERT INTO #{ADDR[:tbln]} "\
 		"( wkb_geometry, "\
@@ -356,11 +355,10 @@ def do_updates()
 		"full_address_number, full_road_name, full_address, "\
 		"territorial_authority, unit, "\
 		"address_number, address_number_suffix, address_number_high, "\
-		"road_name, road_type_name, road_suffix, "\
+		"road_name, road_name_type, road_name_suffix, "\
 		"suburb_locality, town_city, address_lifecycle, "\
 		"shape_x, shape_y, "\
 		"full_road_name_ascii, suburb_locality_ascii, "\
-		"town_city_ascii, full_road_name_ascii, full_address_ascii, "\
 		"is_odd, is_land, linz_numb_id ) "\
 	"SELECT "\
 		"st_flipcoordinates(wkb_geometry), "\
@@ -368,13 +366,12 @@ def do_updates()
 		"full_address_number, full_road_name, full_address, "\
 		"territorial_authority, unit, "\
 		"address_number, address_number_suffix, address_number_high, "\
-		"road_name, road_type_name, road_suffix, "\
+		"road_name, road_name_type, road_name_suffix, "\
 		"suburb_locality, town_city, address_lifecycle, "\
-		"shape_x, shape_y, "\
+		"st_y(wkb_geometry), st_x(wkb_geometry), "\
 		"full_road_name_ascii, suburb_locality_ascii, "\
-		"town_city_ascii, full_road_name_ascii, full_address_ascii, "\
 		"is_odd, is_land, linz_numb_id "\
-	"FROM #{FN_105689} nacs where __change__ = 'INSERT';"
+	"FROM #{ADDR[:csfn]} nacs where __change__ = 'INSERT';"
 
 end
 

@@ -7,6 +7,9 @@ set nzogps_nzrd=nz_addresses_roads_pilot
 set nzogps_nzadf=..\..\LinzDataService\%nzogps_nzad:_=-%\%nzogps_nzad:_=-%.csv
 set nzogps_nzrdf=..\..\LinzDataService\%nzogps_nzrd:_=-%\%nzogps_nzrd:_=-%.csv
 set nzogps_psqlc=%nzogps_psql_bin%psql -U postgres -d nzopengps
+if not [%nzogps_projlib%] == [] set proj_lib=%nzogps_projlib%
+echo proj lib is %proj_lib%
+exit /b
 
 %nzogps_ruby_cmd% -e 'puts File.mtime(ENV["nzogps_nzadf"]).utc.strftime("%%FT%%T")+"\n#note time is in UTC\n#set by %0"' > ..\linz_updates\LINZ_last_pilot.date
 

@@ -1,10 +1,14 @@
-Start = 2026-02-01 00:42:19 +1300
+Start = 2026-02-05 00:58:37 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Southland
+3 LINZ ids are missing from NZOGPS Southland
+;linzid=3085859	Wineberry Dr	-45.9066636274257,170.468128278206
+;linzid=3085860	Knight Lane	-45.9066636274257,170.468128278206
+;linzid=3085861	Canyon Rise	-44.9881662882852,168.674917396985
 #############################
 
-0 LINZ ids are in NZOGPS Southland but missing from LINZ
+1 LINZ ids are in NZOGPS Southland but missing from LINZ
+;linzid=1770922	Flora St	-45.04780,169.19277
 #############################
 
 0 Number range ids are missing from NZOGPS Southland
@@ -13,5 +17,5 @@ Start = 2026-02-01 00:42:19 +1300
 0 Number range ids are in NZOGPS Southland but missing from LINZ
 #############################
 
-Finish = 2026-02-01 00:42:24 +1300
-Processing time = 4.457297
+Finish = 2026-02-05 00:58:42 +1300
+Processing time = 4.978223

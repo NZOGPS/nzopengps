@@ -1,7 +1,8 @@
-Start = 2026-02-01 00:42:28 +1300
+Start = 2026-02-05 00:58:51 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Canterbury
+1 LINZ ids are missing from NZOGPS Canterbury
+;linzid=3085858	Queens Run	-43.4869272041172,172.088845402375
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
@@ -13,5 +14,5 @@ Start = 2026-02-01 00:42:28 +1300
 0 Number range ids are in NZOGPS Canterbury but missing from LINZ
 #############################
 
-Finish = 2026-02-01 00:42:33 +1300
-Processing time = 5.115947
+Finish = 2026-02-05 00:58:55 +1300
+Processing time = 4.877593

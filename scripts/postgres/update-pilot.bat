@@ -13,8 +13,10 @@ set nzogps_psqlc=%nzogps_psql_bin%psql -U postgres -d nzopengps
 if not exist ..\..\setlocals.bat echo setlocals.bat not found. You need to copy and customise the sample file
 if not defined nzogps_ogr2ogr call ..\..\setlocals.bat
 
-%nzogps_psql_bin%pg_ctl status -D %nzogps_psql_data%
-setif errorlevel 3 %nzogps_psql_bin%pg_ctl start -D %nzogps_psql_data%
+%nzogps_psql_bin%pg_isready 
+if errorlevel 1 %nzogps_psql_bin%pg_ctl start -D %nzogps_psql_data%
+%nzogps_psql_bin%pg_isready 
+if errorlevel 1 echo Error - Can't start PostGres  & pause & exit /b 1
 
 %nzogps_psqlc% -c "SELECT ST_ASTEXT(ST_POINT(45,45))" | grep -q "POINT(45 45)"
 if errorlevel 1 echo Error - No PostGIS installed?  & pause & exit /b 1

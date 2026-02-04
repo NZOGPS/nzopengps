@@ -13,9 +13,6 @@ COMMENT ON TABLE :ROAD_TBL IS :'tblcomment';
 
 ALTER TABLE :ADD_TBL ADD COLUMN is_odd boolean;
 ALTER TABLE :ADD_TBL ADD COLUMN linz_numb_id integer;
-ALTER TABLE :ADD_TBL ADD COLUMN suburb_locality_ascii character varying;
-ALTER TABLE :ADD_TBL ADD COLUMN full_road_name_ascii character varying;
-
 
 drop table if exists :ROAD_TBL_S;
 CREATE TABLE :ROAD_TBL_S -- nz_addresses_roads_pilot_s
@@ -25,18 +22,15 @@ CREATE TABLE :ROAD_TBL_S -- nz_addresses_roads_pilot_s
   full_road_name character varying,
   road_name_label character varying,
   is_land boolean,
-  wkb_geometry geometry(LineString,4167),
   full_road_name_ascii character varying,
   road_name_label_ascii character varying,
   suburb_locality_ascii character varying,
-  territorial_authority_ascii character varying
+  territorial_authority_ascii character varying,
+  wkb_geometry geometry(LineString,4167)
 );
 
 \set tblcomment 'Pilot addressing roads split into LineString ' :tblcommentbase
 COMMENT ON TABLE :ROAD_TBL IS :'tblcomment';
-
-ALTER TABLE :ROAD_TBL ADD COLUMN full_road_name_ascii character varying;
-ALTER TABLE :ROAD_TBL ADD COLUMN road_name_label_ascii character varying;
 
 SELECT 'IS ODD',NOW(); -- ~1 min 2026/1/24
 UPDATE :ADD_TBL SET is_odd = MOD(address_number,2) = 1;
@@ -51,14 +45,6 @@ ALTER TABLE :ROAD_TBL RENAME COLUMN is_land TO is_land_txt;
 ALTER TABLE :ROAD_TBL ADD COLUMN is_land boolean;
 UPDATE :ROAD_TBL SET is_land = is_land_txt::BOOLEAN;
 ALTER TABLE :ROAD_TBL DROP COLUMN is_land_txt;
-
-SELECT 'ASCIIFY',NOW();  -- ~3 min 2026/1/25
--- if unaccent fails, need to CREATE EXTENSION unaccent in nzopengps;
-UPDATE :ADD_TBL SET full_road_name_ascii = unaccent(full_road_name);
-UPDATE :ADD_TBL SET suburb_locality_ascii = unaccent(suburb_locality);
-
-UPDATE :ROAD_TBL SET full_road_name_ascii = unaccent(full_road_name);
-UPDATE :ROAD_TBL SET road_name_label_ascii = unaccent(road_name_label);
 
 SELECT 'SPLIT MULTIS',NOW();  -- ~4 sec 2026/1/24
 

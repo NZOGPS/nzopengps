@@ -133,15 +133,20 @@ end
 def put_csv_in_postgres(options)
 #find ogr command from environment
 	ogr_cmd = ENV['nzogps_ogr2ogr']
-	abort("Processing aborted! nzogps_ogr2ogrl environment variable not set!") if !ogr_cmd
-
+	abort("Processing aborted! nzogps_ogr2ogr environment variable not set!") if !ogr_cmd
+	if ( ENV['nzogps_projlib']) then
+		pl_env = ENV['nzogps_projlib'].gsub("\\","/") #easier to use forward slashes than messy escaping
+		proj_lib = {"PROJ_LIB" => pl_env}
+		puts(proj_lib,pl_env)
+	end
+	
 #check that vrt files with column types exist
 	abort("Processing aborted! csv definition file #{ROAD[:csfn]}.vrt not found!") if !File.file?("#{ROAD[:csfn]}.vrt")
 	abort("Processing aborted! csv definition file #{ADDR[:csfn]}.vrt not found!") if !File.file?("#{ADDR[:csfn]}.vrt")
 
 #use ogr to import csv files into postgres
-	system("#{ogr_cmd} --config PG_USE_COPY TRUE -overwrite -f \"PostgreSQL\" \"PG:host=localhost user=postgres  dbname=nzopengps\" -lco OVERWRITE=yes  #{ROAD[:csfn]}.vrt") or abort("Failed to run #{ogr_cmd} on #{ROAD[:csfn]}")
-	system("#{ogr_cmd} --config PG_USE_COPY TRUE -overwrite -f \"PostgreSQL\" \"PG:host=localhost user=postgres  dbname=nzopengps\" -lco OVERWRITE=yes  #{ADDR[:csfn]}.vrt") or abort("Failed to run #{ogr_cmd} on #{ADDR[:csfn]}")
+	system(proj_lib,"#{ogr_cmd} --config PG_USE_COPY TRUE -overwrite -f \"PostgreSQL\" \"PG:host=localhost user=postgres  dbname=nzopengps\" -lco OVERWRITE=yes  #{ROAD[:csfn]}.vrt") or abort("Failed to run #{ogr_cmd} on #{ROAD[:csfn]}")
+	system(proj_lib,"#{ogr_cmd} --config PG_USE_COPY TRUE -overwrite -f \"PostgreSQL\" \"PG:host=localhost user=postgres  dbname=nzopengps\" -lco OVERWRITE=yes  #{ADDR[:csfn]}.vrt") or abort("Failed to run #{ogr_cmd} on #{ADDR[:csfn]}")
 	print "Files uploaded\n" if DEBUG
 
 #pilot addresses

@@ -1579,7 +1579,11 @@ sub read_number_csv {
 	} else {
 		$idnm = "Linzid";
 		$idformat = "(\"?)(\\d+)\\1";
-		$fn = "${d1}numbers\\$f1-numbers-linzid.csv";
+		if (defined ($cmdopts{P})){
+			$fn = "${d1}scripts\\outputs\\$f1-numbers-pilot.csv";
+		} else {
+			$fn = "${d1}numbers\\$f1-numbers-linzid.csv";
+		}
 	}
 	
 	open INF, $fn or die "Can't open file $fn\n";
@@ -2012,12 +2016,12 @@ sub check_for_number_present{
 }
 
 sub usage {
-	die "Usage: $0 -l -s -p \\path\\mapfile.mp\n\t-l is for linzids (default)\n\t-s is for sufis (redundant)\n\t-p checks paper number files\n";
+	die "Usage: $0 -l -s -p \\path\\mapfile.mp\n\t-l is for linzids (default)\n\t-s is for sufis (redundant)\n\t-p checks paper number files\n\t-P uses pilot data\n";
 }
 
 ##### Main program starts...
 
-getopts("lsxp", \%cmdopts);
+getopts("lsxpP", \%cmdopts);
 if (!($cmdopts{s} or $cmdopts{l})){
 	$cmdopts{l}=1;
 }

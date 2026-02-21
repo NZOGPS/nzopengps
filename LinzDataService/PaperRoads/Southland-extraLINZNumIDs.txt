@@ -10,3 +10,12 @@ linznumbid=9800009	linzid=3063507	Ramrock Rd	-45.59577,170.62324
 linznumbid=9800010	linzid=3063507	Ramrock Rd	-45.45308,170.33387
 linznumbid=9800011	linzid=1775108	Porteous Rd	-45.70830,170.58953
 linznumbid=9800012	linzid=1775108	Porteous Rd	-45.69040,170.57020
+# new data system 2026
+linznumbid=1000003	linzid=1775424	McMeakin Rd	-45.89247,170.42206
+linznumbid=1000004	linzid=1775424	McMeakin Rd	-45.87000,170.44839
+linznumbid=1000007	linzid=1772995	Church Rd	-45.66861,170.57400
+linznumbid=1000008	linzid=1772995	Church Rd	-45.70912,170.59804
+linznumbid=1000015	linzid=3027672	~[0x04]1	-44.92299,171.10123
+linznumbid=1000057	linzid=3027698	~[0x04]1	-46.23633,169.74455
+linznumbid=1000125	linzid=3070790	Main South Rd	-45.89884,170.41223
+linznumbid=1000126	linzid=3070790	~[0x04]1	-45.89147,170.35096

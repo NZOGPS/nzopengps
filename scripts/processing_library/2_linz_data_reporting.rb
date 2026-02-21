@@ -127,8 +127,10 @@ def pre_processing()
 					@extra_num_IDs[$1]= [$2,$3,$4]
 				end
 			else
+				if line !~ /^#.*/ then #comment
 				print "Strange line #{line} in #{extra_LNIDs_file}\n"
 				@reporting_file.print "Strange line #{line} in #{extra_LNIDs_file}\n"
+				end
 			end
 		}
 		print "#{@extra_num_IDs.size} distinct LNids found in #{extra_LNIDs_file}\n"

@@ -99,8 +99,10 @@ def pre_processing()
 
 	paper_roads_file = File.join(@base, '..', 'LinzDataService', 'PaperRoads', "#{@tile}.txt")
 	File.open(paper_roads_file).each{|line|
-		linzid = line.split("\t")[0]
-		@paper_road_ids[linzid] = true
+		if line !~ /^#.*/ then #comment
+			linzid = line.split("\t")[0]
+			@paper_road_ids[linzid] = true
+		end
 	}
 	print "#{@paper_road_ids.size} distinct ids found in #{paper_roads_file}\n"
 
@@ -108,8 +110,10 @@ def pre_processing()
 	extra_roads_file = File.join(@base, '..', 'LinzDataService', 'PaperRoads', "#{@tile}-extras.txt")
 	if File.file?(extra_roads_file) then
 		File.open(extra_roads_file).each {|line|
-			linzid = line.split("\t")[0]
-			@extra_road_ids[linzid] = true
+			if line !~ /^#.*/ then #comment
+				linzid = line.split("\t")[0]
+				@extra_road_ids[linzid] = true
+			end
 		}
 		print "#{@extra_road_ids.size} distinct ids found in #{extra_roads_file}\n"
 	end
@@ -119,15 +123,15 @@ def pre_processing()
 	extra_LNIDs_file = File.join(@base, '..', 'LinzDataService', 'PaperRoads', "#{@tile}-extraLINZNumIDs.txt")
 	if File.file?(extra_LNIDs_file) then
 		File.open(extra_LNIDs_file).each {|line|
-			if line =~ /^linznumbid=(\d+)\tlinzid=(\d+)\t(.*)\t(.*)/ then
-				if @extra_num_IDs[$1] then
-					print "Duplicate LNID #{$1} found in #{extra_LNIDs_file}\n"
-					@reporting_file.print "Duplicate LNID #{$1} found in #{extra_LNIDs_file}\n"
+			if line !~ /^#.*/ then #comment
+				if line =~ /^linznumbid=(\d+)\tlinzid=(\d+)\t(.*)\t(.*)/ then
+					if @extra_num_IDs[$1] then
+						print "Duplicate LNID #{$1} found in #{extra_LNIDs_file}\n"
+						@reporting_file.print "Duplicate LNID #{$1} found in #{extra_LNIDs_file}\n"
+					else
+						@extra_num_IDs[$1]= [$2,$3,$4]
+					end
 				else
-					@extra_num_IDs[$1]= [$2,$3,$4]
-				end
-			else
-				if line !~ /^#.*/ then #comment
 					print "Strange line #{line} in #{extra_LNIDs_file}\n"
 					@reporting_file.print "Strange line #{line} in #{extra_LNIDs_file}\n"
 				end

@@ -24,6 +24,7 @@ if not exist %nzogps_ex_pt%\%nzogps_ex_pt%.csv echo Address files not found in z
 cd ..\scripts\postgres
 call update-pilot.bat
 if errorlevel 1 goto :eof
+if [%1] == [STOP] goto :eof
 cd ..
 start %nzogps_donumbers% PILOT
 cd ..\linzdataservice

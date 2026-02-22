@@ -4,7 +4,7 @@ if not defined nzogps_base call ..\setlocals.bat
 @echo on
 %nzogps_git% pull -v
 cd ..\scripts\linz_updates
-%nzogps_ruby_cmd% do_updates-pilot.rb
+%nzogps_ruby_cmd% do_updates_pilot.rb
 if %errorlevel% neq 0 exit /b %errorlevel%
 cd ..
 start %nzogps_donumbers% PILOT

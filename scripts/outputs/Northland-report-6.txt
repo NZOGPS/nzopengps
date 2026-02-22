@@ -1,7 +1,6 @@
-Start = 2026-02-21 15:04:42 +1300
+Start = 2026-02-22 01:19:58 +1300
 linzid	street_name	street_name_2	official_street_name
-3085028	Pipitia Tce		Pipitia Way	-35.10885,173.94705
 #############################
 
-Finish = 2026-02-21 15:04:44 +1300
-Processing time = 1.59364
+Finish = 2026-02-22 01:19:59 +1300
+Processing time = 1.690708

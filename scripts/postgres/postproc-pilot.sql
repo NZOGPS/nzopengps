@@ -13,6 +13,7 @@ COMMENT ON TABLE :ROAD_TBL IS :'tblcomment';
 
 ALTER TABLE :ADD_TBL ADD COLUMN is_odd boolean;
 ALTER TABLE :ADD_TBL ADD COLUMN linz_numb_id integer;
+ALTER TABLE :ADD_TBL ADD COLUMN updated character varying;
 
 drop table if exists :ROAD_TBL_S;
 CREATE TABLE :ROAD_TBL_S -- nz_addresses_roads_pilot_s
@@ -26,16 +27,18 @@ CREATE TABLE :ROAD_TBL_S -- nz_addresses_roads_pilot_s
   road_name_label_ascii character varying,
   suburb_locality_ascii character varying,
   territorial_authority_ascii character varying,
+  updated character varying,
   wkb_geometry geometry(LineString,4167)
 );
 
 \set tblcomment 'Pilot addressing roads split into LineString ' :tblcommentbase
-COMMENT ON TABLE :ROAD_TBL IS :'tblcomment';
+COMMENT ON TABLE :ROAD_TBL_S IS :'tblcomment';
 
-SELECT 'IS ODD',NOW(); -- ~1 min 2026/1/24
+SELECT 'IS ODD',NOW(); -- ~1 min 2026/1/24 2 min 2026/02/23
 UPDATE :ADD_TBL SET is_odd = MOD(address_number,2) = 1;
+UPDATE :ADD_TBL SET updated = :'nowtxt';
 
-select 'binarise is_land',NOW();
+select 'binarise is_land',NOW(); -- ~ 1 min 30 2026/02/23
 ALTER TABLE :ADD_TBL RENAME COLUMN is_land TO is_land_txt;
 ALTER TABLE :ADD_TBL ADD COLUMN is_land boolean;
 UPDATE :ADD_TBL SET is_land = is_land_txt::BOOLEAN;
@@ -53,6 +56,8 @@ select
 	nzp.road_id, nzp.full_road_name, nzp.road_name_label, nzp.is_land, nzp.full_road_name_ascii, nzp.road_name_label_ascii,
 	(st_dump(wkb_geometry)).geom
 	from nz_addresses_roads_pilot nzp;
+
+UPDATE :ROAD_TBL_S SET updated = :'nowtxt';
 
 SELECT 'ADD FULLY OVERLAPPED BURB and TA',NOW(); -- 4212223 ms ~ 70 min ~ 1 hr 10 - 249586 rows of 266002 26/1/24
 -- JUST DOES FULLY WITHIN?

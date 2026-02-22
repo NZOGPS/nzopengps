@@ -2,6 +2,7 @@ require 'optparse'
 require 'optparse/time'
 require 'optparse/date'
 require 'progressbar'
+require 'pp'
 
 LINZ_URL="https://data.linz.govt.nz/services;"
 
@@ -216,11 +217,24 @@ def put_csv_in_postgres(options)
 	print "Roads split\n" if DEBUG
 
 # set locality and TA from SAL using within
-	rs = @conn.exec "update #{ROAD_S[:csfn]} rd
-		set suburb_locality_ascii = sal.name_ascii, territorial_authority_ascii = sal.territorial_authority_ascii
-		from nz_suburbs_and_localities sal
-		where st_within(rd.wkb_geometry,sal.wkb_geometry)"
-	print "#{rs.cmd_tuples} road lines suburbanised by within\n" if DEBUG
+	print "Adding location data:\n"
+	rs = @conn.exec ("SELECT COUNT(*) FROM #{ROAD_S[:csfn]}")
+	rdscnt = rs[0]['count'].to_i
+	loc_set=0
+	@pbar = ProgressBar.create(:title=>"Progress", :total=>rdscnt)
+	@conn.exec("SELECT ogc_fid FROM #{ROAD_S[:csfn]}") do |result|
+		result.each do |eachrd_s|
+#			print "eachrd_s is: " + eachrd_s.to_s + "\n"
+			rs = @conn.exec "update #{ROAD_S[:csfn]} rd
+				set suburb_locality_ascii = sal.name_ascii, territorial_authority_ascii = sal.territorial_authority_ascii
+				from nz_suburbs_and_localities sal
+				where st_within(rd.wkb_geometry,sal.wkb_geometry) and sal.ogc_fid = "+eachrd_s['ogc_fid']
+			@pbar.increment
+			loc_set += 1 if rs.cmd_tuples
+		end
+	end
+
+	print "#{loc_set} road lines suburbanised by within\n" if DEBUG
 
 # set locality and TA from SAL using highest overlap
 	rs = @conn.exec "update #{ROAD_S[:csfn]} rd
@@ -235,7 +249,6 @@ def put_csv_in_postgres(options)
 		) as isect
 		where rd.ogc_fid = isect.ogc_fid"
 	print "#{rs.cmd_tuples} road lines suburbanised by best fit\n" if DEBUG
-
 
 	@conn.exec "VACUUM ANALYSE #{ROAD[:csfn]}"
 	@conn.exec "VACUUM ANALYSE #{ROAD_S[:csfn]}"

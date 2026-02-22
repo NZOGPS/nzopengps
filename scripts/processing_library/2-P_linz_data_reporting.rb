@@ -123,7 +123,7 @@ def pre_processing()
 	extra_LNIDs_file = File.join(@base, '..', 'LinzDataService', 'PaperRoads', "#{@tile}-extraLINZNumIDs.txt")
 	if File.file?(extra_LNIDs_file) then
 		File.open(extra_LNIDs_file).each {|line|
-			if line !~ /^#.*/ then #comment
+			if (line !~ /^#.*/) and (line !~ /\s*/) then #comment or blank
 				if line =~ /^linznumbid=(\d+)\tlinzid=(\d+)\t(.*)\t(.*)/ then
 					if @extra_num_IDs[$1] then
 						print "Duplicate LNID #{$1} found in #{extra_LNIDs_file}\n"
@@ -132,8 +132,8 @@ def pre_processing()
 						@extra_num_IDs[$1]= [$2,$3,$4]
 					end
 				else
-					print "Strange line #{line} in #{extra_LNIDs_file}\n"
-					@reporting_file.print "Strange line #{line} in #{extra_LNIDs_file}\n"
+					print "Strange line #{$.} #{line} in #{extra_LNIDs_file}\n"
+					@reporting_file.print "Strange line #{$.} #{line} in #{extra_LNIDs_file}\n"
 				end
 			end
 		}
@@ -176,15 +176,15 @@ def post_processing()
 		@reporting_file.print ";linznumbid=#{x}\t#{@linz_file_num_ids[x]}\n"
 	}
 
-	@reporting_file.print "#############################\n\n"
+	# @reporting_file.print "#############################\n\n"
 
-	numbid_in_nzogps_but_missing_from_linz = @nzogps_file_num_ids.keys - @linz_file_num_ids.keys - @extra_num_IDs.keys
-	print "#{numbid_in_nzogps_but_missing_from_linz.size} Number range ids are in NZOGPS #{@tile} but missing from LINZ\n"
-	@reporting_file.print "#{numbid_in_nzogps_but_missing_from_linz.size} Number range ids are in NZOGPS #{@tile} but missing from LINZ\n"
+	# numbid_in_nzogps_but_missing_from_linz = @nzogps_file_num_ids.keys - @linz_file_num_ids.keys - @extra_num_IDs.keys
+	# print "#{numbid_in_nzogps_but_missing_from_linz.size} Number range ids are in NZOGPS #{@tile} but missing from LINZ\n"
+	# @reporting_file.print "#{numbid_in_nzogps_but_missing_from_linz.size} Number range ids are in NZOGPS #{@tile} but missing from LINZ\n"
 
-	numbid_in_nzogps_but_missing_from_linz.sort.each{|x|
-		@reporting_file.print ";linznumbid=#{x}\tlinzid=#{@nzogps_file_num_id_ids[x]}\t#{@nzogps_file_num_ids[x]}\n"
-	}
+	# numbid_in_nzogps_but_missing_from_linz.sort.each{|x|
+		# @reporting_file.print ";linznumbid=#{x}\tlinzid=#{@nzogps_file_num_id_ids[x]}\t#{@nzogps_file_num_ids[x]}\n"
+	# }
 
 	@reporting_file.print "#############################\n\n"
 

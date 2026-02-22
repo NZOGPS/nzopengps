@@ -19,5 +19,8 @@
     <Field name="road_name_type" src="road_name_type" type="String" />
     <Field name="road_name_suffix" src="road_name_suffix" type="String" />
     <Field name="is_land" src="is_land" type="String" width="6" />
+    <Field name="full_road_name_ascii" src="full_road_name_ascii" type="String" />
+    <Field name="road_name_label_ascii" src="road_name_label_ascii" type="String" />
+    <Field name="road_name_body_ascii" src="road_name_body_ascii" type="String" />
   </OGRVRTLayer>
 </OGRVRTDataSource>

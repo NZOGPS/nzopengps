@@ -9,7 +9,6 @@ set nzogps_nzrdf=..\..\LinzDataService\%nzogps_nzrd:_=-%\%nzogps_nzrd:_=-%.csv
 set nzogps_psqlc=%nzogps_psql_bin%psql -U postgres -d nzopengps
 if not [%nzogps_projlib%] == [] set proj_lib=%nzogps_projlib%
 echo proj lib is %proj_lib%
-exit /b
 
 %nzogps_ruby_cmd% -e 'puts File.mtime(ENV["nzogps_nzadf"]).utc.strftime("%%FT%%T")+"\n#note time is in UTC\n#set by %0"' > ..\linz_updates\LINZ_last_pilot.date
 
@@ -30,11 +29,11 @@ if errorlevel 1 echo Wrong projection  & pause & exit /b 1
 )
 
 @echo %time%
-rem addresses ~1 min on 2026/1/25
+rem addresses ~1 min on garys on 2026/01/25
 %nzogps_ogr2ogr% --config PG_USE_COPY TRUE -f "PostgreSQL" "PG:host=localhost user=postgres  dbname=nzopengps" -lco OVERWRITE=yes -lco GEOMETRY_NAME=wkb_geometry -oo GEOM_POSSIBLE_NAMES=WKT "%nzogps_nzadf%"
 
 @echo %time%
-rem roads
+rem roads ~ 7 sec on garys on 2026/02/22
 %nzogps_ogr2ogr% --config PG_USE_COPY TRUE -f "PostgreSQL" "PG:host=localhost user=postgres  dbname=nzopengps" -lco OVERWRITE=yes -lco GEOMETRY_NAME=wkb_geometry -oo GEOM_POSSIBLE_NAMES=WKT -nlt MULTILINESTRING "%nzogps_nzrdf%"
 
 @echo %time%

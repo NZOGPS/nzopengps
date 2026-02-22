@@ -1677,6 +1677,7 @@ sub read_paper_roads {
 	while (<INF>){
 		chomp;
 
+		next if /^#.*/; #comment line
 		@chunks = split/\t/;
 		$idval = $chunks[0];
 		next if not defined $idval; #blank line?

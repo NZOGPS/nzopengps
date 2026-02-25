@@ -11,7 +11,7 @@ ROAD_S={csfn: "layer_123110_cs_s", tbln: "nz_addresses_roads_pilot_s"}
 ADDR=  {csfn: "layer_123113_cs",   tbln: "nz_addresses_pilot"}
 
 LAST_FN="LINZ_last_pilot.date"
-DEBUG=true
+DEBUG=false
 
 options = {:download => 1, :postgres => 1, :updates => 1, :continue => 0, :from => nil, :until => nil}
 
@@ -199,6 +199,7 @@ def put_csv_in_postgres(options)
 		__change__ character varying(10),
 		road_id integer,
 		full_road_name character varying,
+		road_name_label character varying,
 		is_land bool,
 		full_road_name_ascii character varying,
 		road_name_label_ascii character varying,
@@ -211,44 +212,61 @@ def put_csv_in_postgres(options)
 	print "Tables modified\n" if DEBUG
 
 # split roads into single linestrings
-	@conn.exec "INSERT INTO #{ROAD_S[:csfn]} (__change__, road_id, full_road_name, is_land, full_road_name_ascii, road_name_label_ascii, wkb_geometry)
-		select nzp.__change__, nzp.road_id, nzp.full_road_name, nzp.is_land::bool, nzp.full_road_name_ascii, nzp.road_name_label_ascii, (st_dump(wkb_geometry)).geom
+	@conn.exec "INSERT INTO #{ROAD_S[:csfn]} (__change__, road_id, full_road_name, road_name_label, is_land, full_road_name_ascii, road_name_label_ascii, updated, wkb_geometry)
+		select nzp.__change__, nzp.road_id, nzp.full_road_name, nzp.road_name_label, is_land::bool, nzp.full_road_name_ascii, nzp.road_name_label_ascii, '#{options[:until]}',(st_dump(wkb_geometry)).geom
 		from #{ROAD[:csfn]} nzp"
 	print "Roads split\n" if DEBUG
 
 # set locality and TA from SAL using within
-	print "Adding location data:\n"
-	rs = @conn.exec ("SELECT COUNT(*) FROM #{ROAD_S[:csfn]}")
-	rdscnt = rs[0]['count'].to_i
-	loc_set=0
-	@pbar = ProgressBar.create(:title=>"Progress", :total=>rdscnt)
-	@conn.exec("SELECT ogc_fid FROM #{ROAD_S[:csfn]}") do |result|
-		result.each do |eachrd_s|
-#			print "eachrd_s is: " + eachrd_s.to_s + "\n"
-			rs = @conn.exec "update #{ROAD_S[:csfn]} rd
+	rs = @conn.exec ("SELECT ogc_fid FROM #{ROAD_S[:csfn]}")
+	rdscnt = rs.num_tuples
+	print "rdscnt is #{rdscnt}\n" if DEBUG
+	within_set=0
+
+	if rdscnt > 0 then
+		@pbar = ProgressBar.create(:title=>"Locale within", :total=>rdscnt, :length=>100)
+		rs.each do |eachrd_s|
+	#		print "eachrd_s is: " + eachrd_s.to_s + "\n"
+			rs2 = @conn.exec "update #{ROAD_S[:csfn]} rd
 				set suburb_locality_ascii = sal.name_ascii, territorial_authority_ascii = sal.territorial_authority_ascii
 				from nz_suburbs_and_localities sal
-				where st_within(rd.wkb_geometry,sal.wkb_geometry) and sal.ogc_fid = "+eachrd_s['ogc_fid']
+				where rd.ogc_fid = #{eachrd_s['ogc_fid']} and st_within(rd.wkb_geometry,sal.wkb_geometry)"
 			@pbar.increment
-			loc_set += 1 if rs.cmd_tuples
+			within_set += rs2.cmd_tuples
 		end
 	end
-
-	print "#{loc_set} road lines suburbanised by within\n" if DEBUG
+	print "#{within_set} road lines suburbanised by within\n" if DEBUG
 
 # set locality and TA from SAL using highest overlap
-	rs = @conn.exec "update #{ROAD_S[:csfn]} rd
-		set suburb_locality_ascii = name_ascii, territorial_authority_ascii = isect.territorial_authority_ascii
-		from (
-			SELECT distinct on (rd.ogc_fid) 
-				st_length(st_intersection(rd.wkb_geometry,sal.wkb_geometry)) as overlap, rd.ogc_fid, name_ascii, sal.territorial_authority_ascii 
-				FROM #{ROAD_S[:tbln]} rd
-				join nz_suburbs_and_localities sal on st_intersects(rd.wkb_geometry,sal.wkb_geometry)
-				WHERE suburb_locality_ascii is null
-				order by rd.ogc_fid, overlap desc
-		) as isect
-		where rd.ogc_fid = isect.ogc_fid"
-	print "#{rs.cmd_tuples} road lines suburbanised by best fit\n" if DEBUG
+	rs = @conn.exec ("SELECT ogc_fid FROM #{ROAD_S[:csfn]} WHERE suburb_locality_ascii is null" )
+	rdscnt = rs.num_tuples
+	print "rdscnt is #{rdscnt}\n" if DEBUG
+
+	if rdscnt > 0 then
+		nearest_set=0
+		@pbar = ProgressBar.create(:starting_at => 0, :title=>"Locale nearest", :total=>rdscnt, :length=>100)
+		rs.each do |eachrd_s|
+			rs2 = @conn.exec "update #{ROAD_S[:csfn]} rd
+				set suburb_locality_ascii = name_ascii, territorial_authority_ascii = isect.territorial_authority_ascii
+				from (
+					SELECT distinct on (rd.ogc_fid) 
+						st_length(st_intersection(rd.wkb_geometry,sal.wkb_geometry)) as overlap, rd.ogc_fid, name_ascii, sal.territorial_authority_ascii 
+						FROM #{ROAD_S[:csfn]} rd
+						join nz_suburbs_and_localities sal on st_intersects(rd.wkb_geometry,sal.wkb_geometry)
+						where rd.ogc_fid = #{eachrd_s['ogc_fid']}
+						order by rd.ogc_fid, overlap desc
+				) as isect
+				where rd.ogc_fid = #{eachrd_s['ogc_fid']}"
+			@pbar.increment
+		nearest_set += rs2.cmd_tuples
+		end
+		print "#{nearest_set} road lines suburbanised by best fit\n" if DEBUG
+	end
+
+	rs = @conn.exec ("SELECT ogc_fid FROM #{ROAD_S[:csfn]} WHERE suburb_locality_ascii is null" )
+	rdscnt = rs.num_tuples
+	print "#{rdscnt} roads not suburbanised\n" if DEBUG
+	print  "Suburb assignment: #{within_set} set by within, #{nearest_set} set by nearest, #{rdscnt} not set\n"
 
 	@conn.exec "VACUUM ANALYSE #{ROAD[:csfn]}"
 	@conn.exec "VACUUM ANALYSE #{ROAD_S[:csfn]}"
@@ -332,11 +350,11 @@ def do_updates(options)
 		AND cs.__change__ = 'DELETE'"
 
 	@conn.exec "INSERT INTO #{ROAD_S[:tbln]} "\
-		"( wkb_geometry, road_id, full_road_name, is_land,"\
+		"( wkb_geometry, road_id, full_road_name, road_name_label, is_land,"\
 		" full_road_name_ascii, road_name_label_ascii,"\
 		" suburb_locality_ascii, territorial_authority_ascii, updated )"\
 	"SELECT "\
-		"wkb_geometry, road_id, full_road_name, is_land, "\
+		"wkb_geometry, road_id, full_road_name, road_name_label, is_land, "\
 		" full_road_name_ascii, road_name_label_ascii,"\
 		" suburb_locality_ascii, territorial_authority_ascii, updated "\
 	"FROM #{ROAD_S[:csfn]} where __change__ = 'INSERT'"
@@ -344,11 +362,11 @@ def do_updates(options)
 #up to here. What to do? Does update for split lines mean deleting first?
 
 	@conn.exec "UPDATE #{ROAD_S[:tbln]} rcl SET "\
-		"road_id=subquery.road_id, full_road_name=subquery.full_road_name, is_land=subquery.is_land, updated=subquery.updated, "\
+		"road_id=subquery.road_id, full_road_name=subquery.full_road_name, road_name_label=subquery.road_name_label, is_land=subquery.is_land, updated=subquery.updated, "\
 		"full_road_name_ascii=subquery.full_road_name_ascii, road_name_label_ascii=subquery.road_name_label_ascii, "\
 		"suburb_locality_ascii=subquery.suburb_locality_ascii, territorial_authority_ascii=subquery.territorial_authority_ascii, wkb_geometry=subquery.wkb_geometry "\
 	"FROM ( SELECT "\
-		"road_id, full_road_name, is_land, updated,"\
+		"road_id, full_road_name, road_name_label, is_land, updated,"\
 		"full_road_name_ascii, road_name_label_ascii,"\
 		"suburb_locality_ascii, territorial_authority_ascii, wkb_geometry "\
 	"FROM #{ROAD_S[:csfn]} where __change__ = 'UPDATE') AS subquery WHERE rcl.road_id=subquery.road_id"

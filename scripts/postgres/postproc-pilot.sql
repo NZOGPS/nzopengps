@@ -60,14 +60,18 @@ select
 UPDATE :ROAD_TBL_S SET updated = :'nowtxt';
 
 SELECT 'ADD FULLY OVERLAPPED BURB and TA',NOW(); -- 4212223 ms ~ 70 min ~ 1 hr 10 - 249586 rows of 266002 26/1/24
--- JUST DOES FULLY WITHIN?
+-- 20260224 added watery is not true. Then 18 min  for 249531
+-- JUST DOES FULLY WITHIN
+
 update :ROAD_TBL_S rd
 	set suburb_locality_ascii = sal.name_ascii,
 		territorial_authority_ascii = sal.territorial_authority_ascii
-	from nz_suburbs_and_localities sal where st_within(rd.wkb_geometry,sal.wkb_geometry);
+	from nz_suburbs_and_localities sal where st_within(rd.wkb_geometry,sal.wkb_geometry) and watery is not true;
 
 SELECT 'ADD MOST OVERLAPPED BURB and TA',NOW(); -- ~ 4 min 26/1/25
 -- BEST MATCH? 16416 to do on 26/1/25
+-- 20260224 post not watery: 16316 3 min
+
 update :ROAD_TBL_S rd
 	set suburb_locality_ascii = name_ascii,
 	    territorial_authority_ascii = isect.territorial_authority_ascii
@@ -76,7 +80,7 @@ update :ROAD_TBL_S rd
 			st_length(st_intersection(rd.wkb_geometry,sal.wkb_geometry)) as overlap, rd.ogc_fid, name_ascii, sal.territorial_authority_ascii 
 			FROM :ROAD_TBL_S rd
 			join nz_suburbs_and_localities sal on st_intersects(rd.wkb_geometry,sal.wkb_geometry)
-			WHERE suburb_locality_ascii is null
+			WHERE suburb_locality_ascii is null and watery is not true
 			order by rd.ogc_fid, overlap desc
 	) as isect
 where rd.ogc_fid = isect.ogc_fid;

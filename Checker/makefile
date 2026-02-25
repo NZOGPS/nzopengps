@@ -14,6 +14,11 @@ TILES = Northland Southland Tasman Waikato Central Wellington Canterbury Aucklan
 all : $(addsuffix _num_err.txt,$(TILES))
 .PHONY: all
 
+pilot : $(addsuffix _num_err_p.txt,$(TILES))
+.PHONY: pilot
+
 %_num_err.txt : ..\%.mp ..\numbers\%-numbers-linzid.csv $(PAPERRDS)\%.txt
 	$(nzogps_perl_cmd) ../scripts/check_mp.pl "$<" > $@
 
+%_num_err_p.txt : ..\%.mp $(LINZ)\outputs\%-numbers-linzid.csv $(PAPERRDS)\%.txt
+	$(nzogps_perl_cmd) ../scripts/check_mp.pl -P "$<" > $@

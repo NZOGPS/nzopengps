@@ -1,0 +1,18 @@
+Start = 2026-02-26 01:49:10 +1300
+#############################
+
+4 LINZ ids are missing from NZOGPS Wellington
+;linzid=3085862	Rarahu Lane	-41.0984649012605,175.09377654927
+;linzid=3085885	James Farm Lane	-40.6774590833,175.2138431833
+;linzid=3085889	Rakau Lane	-41.0796556405525,175.453036314585
+;linzid=3085884	Lyttle Way	-41.1113191248763,175.325919987778
+#############################
+
+0 LINZ ids are in NZOGPS Wellington but missing from LINZ
+#############################
+
+0 Number range ids are missing from NZOGPS Wellington
+#############################
+
+Finish = 2026-02-26 01:49:13 +1300
+Processing time = 3.857219

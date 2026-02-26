@@ -1,0 +1,19 @@
+Start = 2026-02-26 01:49:05 +1300
+#############################
+
+5 LINZ ids are missing from NZOGPS Central
+;linzid=3026581	Surf Hwy	-39.5807818318265,174.229827832403
+;linzid=3042544	Lawson St	-40.1007097667,175.3857654167
+;linzid=3085902	Papa Koura Rd	-40.0277769,175.1941669167
+;linzid=3046725	Old Orchard Rd	-38.9978588833,176.55248455
+;linzid=3063400	Neal Dow St	-40.0997214167,175.3827456833
+#############################
+
+0 LINZ ids are in NZOGPS Central but missing from LINZ
+#############################
+
+0 Number range ids are missing from NZOGPS Central
+#############################
+
+Finish = 2026-02-26 01:49:10 +1300
+Processing time = 4.385277

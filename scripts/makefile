@@ -22,8 +22,13 @@ PERL = $(nzogps_perl_cmd)
 TOUCH = $(nzogps_touch_cmd)
 
 tilenum = $(subst Northland,1,$(subst Auckland,2,$(subst Waikato,3,$(subst Central,4,$(subst Wellington,5,$(subst Tasman,6,$(subst Canterbury,7,$(subst Southland,8,$(1)))))))))
- 
+
+TILESP = $(addsuffix -P,$(TILES))
+
 all : $(addsuffix .zip,$(TILES))
+.PHONY: all
+
+allp : $(addsuffix .zip,$(TILESP))
 .PHONY: all
 
 install-csv : $(addsuffix -numbers-linzid.csv,$(addprefix $(NUMBERS)\,$(TILES)))
@@ -35,6 +40,8 @@ install-gdb : $(addsuffix -numbers.gdb,$(addprefix $(NUMBERS)\,$(TILES)))
 install :  install-csv install-gdb
 .PHONY: install
 
+%-P.zip : $(LINZO)\%-P-LINZ-V5.mp $(LINZO)\%-P-LINZ-V4.mp $(OUTPUTS)\%-report-2-P.txt $(OUTPUTS)\%-report-6-P.txt $(OUTPUTS)\%-numbers-pilot.csv $(OUTPUTS)\%-numbers-pilot.gdb 
+	$(ZIPIT) $@ $?
 
 %.zip : $(LINZO)\%-LINZ-V5.mp $(LINZO)\%-LINZ-V4.mp $(OUTPUTS)\%-report-2.txt $(OUTPUTS)\%-report-6.txt $(OUTPUTS)\%-numbers-linzid.csv $(OUTPUTS)\%-numbers.gdb 
 	$(ZIPIT) $@ $?

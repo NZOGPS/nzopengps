@@ -84,7 +84,7 @@ def get_linz_updates(options)
 	url2 = "-changeset?SERVICE=WFS^&VERSION=2.0.0^&REQUEST=GetFeature^&typeNames="
 	url3 = "-changeset^&viewparams=from:#{options[:from]}Z;to:#{to_date}Z^&outputFormat=csv"
 	puts("Getting updates from #{options[:from]} to #{to_date}")
-	LOGFILE.puts("Getting updates from #{options[:from]} to #{to_date}")
+	LOGFILE.puts("Getting updates from #{options[:from]} to #{to_date} at #{options[:currtime]}")
 
 	dtype = "layer-"
 	layer = 123110
@@ -156,7 +156,7 @@ def put_csv_in_postgres(options)
 	print "Files uploaded\n" if DEBUG
 
 #pilot addresses
-	@conn.exec "COMMENT ON TABLE #{ADDR[:csfn]} IS 'Changeset data for nz_addresses_pilot from #{options[:from]} to #{options[:until]}'"
+	@conn.exec "COMMENT ON TABLE #{ADDR[:csfn]} IS 'Changeset data for nz_addresses_pilot from #{options[:from]} to #{options[:until]} at #{options[:currtime]}'"
 	@conn.exec "ALTER TABLE #{ADDR[:csfn]} ADD COLUMN is_odd boolean"
 	@conn.exec "ALTER TABLE #{ADDR[:csfn]} ADD COLUMN linz_numb_id integer"
 	@conn.exec "ALTER TABLE #{ADDR[:csfn]} ADD COLUMN updated character varying"
@@ -180,7 +180,7 @@ def put_csv_in_postgres(options)
 	print "Addresses done\n" if DEBUG
 
 #pilot roads
-	@conn.exec "COMMENT ON TABLE #{ROAD[:csfn]} IS 'Changeset data for nz_addresses_roads_pilot from #{options[:from]} to #{options[:until]}'"
+	@conn.exec "COMMENT ON TABLE #{ROAD[:csfn]} IS 'Changeset data for nz_addresses_roads_pilot from #{options[:from]} to #{options[:until]} at #{options[:currtime]}'"
 
 	@conn.exec "ALTER TABLE #{ROAD[:csfn]} RENAME COLUMN is_land TO is_land_txt"
 	@conn.exec "ALTER TABLE #{ROAD[:csfn]} ADD COLUMN is_land boolean"
@@ -208,7 +208,7 @@ def put_csv_in_postgres(options)
 		updated character varying,
 		wkb_geometry geometry(LineString,4167)
 	)"
-	@conn.exec "COMMENT ON TABLE #{ROAD_S[:csfn]} IS 'Changeset data for nz_addresses_roads_pilot split into LineStrings from #{options[:from]} to #{options[:until]}'"
+	@conn.exec "COMMENT ON TABLE #{ROAD_S[:csfn]} IS 'Changeset data for nz_addresses_roads_pilot split into LineStrings from #{options[:from]} to #{options[:until]} at #{options[:currtime]}'"
 	print "Tables modified\n" if DEBUG
 
 # split roads into single linestrings
@@ -359,17 +359,31 @@ def do_updates(options)
 		" suburb_locality_ascii, territorial_authority_ascii, updated "\
 	"FROM #{ROAD_S[:csfn]} where __change__ = 'INSERT'"
 
-#up to here. What to do? Does update for split lines mean deleting first?
+#up to here. What to do? Does update for split lines mean deleting first? YES!
 
-	@conn.exec "UPDATE #{ROAD_S[:tbln]} rcl SET "\
-		"road_id=subquery.road_id, full_road_name=subquery.full_road_name, road_name_label=subquery.road_name_label, is_land=subquery.is_land, updated=subquery.updated, "\
-		"full_road_name_ascii=subquery.full_road_name_ascii, road_name_label_ascii=subquery.road_name_label_ascii, "\
-		"suburb_locality_ascii=subquery.suburb_locality_ascii, territorial_authority_ascii=subquery.territorial_authority_ascii, wkb_geometry=subquery.wkb_geometry "\
-	"FROM ( SELECT "\
-		"road_id, full_road_name, road_name_label, is_land, updated,"\
-		"full_road_name_ascii, road_name_label_ascii,"\
-		"suburb_locality_ascii, territorial_authority_ascii, wkb_geometry "\
-	"FROM #{ROAD_S[:csfn]} where __change__ = 'UPDATE') AS subquery WHERE rcl.road_id=subquery.road_id"
+	# @conn.exec "UPDATE #{ROAD_S[:tbln]} rcl SET "\
+		# "road_id=subquery.road_id, full_road_name=subquery.full_road_name, road_name_label=subquery.road_name_label, is_land=subquery.is_land, updated=subquery.updated, "\
+		# "full_road_name_ascii=subquery.full_road_name_ascii, road_name_label_ascii=subquery.road_name_label_ascii, "\
+		# "suburb_locality_ascii=subquery.suburb_locality_ascii, territorial_authority_ascii=subquery.territorial_authority_ascii, wkb_geometry=subquery.wkb_geometry "\
+	# "FROM ( SELECT "\
+		# "road_id, full_road_name, road_name_label, is_land, updated,"\
+		# "full_road_name_ascii, road_name_label_ascii,"\
+		# "suburb_locality_ascii, territorial_authority_ascii, wkb_geometry "\
+	# "FROM #{ROAD_S[:csfn]} where __change__ = 'UPDATE') AS subquery WHERE rcl.road_id=subquery.road_id"
+
+	@conn.exec "DELETE FROM #{ROAD_S[:tbln]} rcl USING #{ROAD_S[:csfn]} cs
+		WHERE rcl.road_id = cs.road_id
+		AND cs.__change__ = 'UPDATE'"
+
+	@conn.exec "INSERT INTO #{ROAD_S[:tbln]} "\
+		"( wkb_geometry, road_id, full_road_name, road_name_label, is_land,"\
+		" full_road_name_ascii, road_name_label_ascii,"\
+		" suburb_locality_ascii, territorial_authority_ascii, updated )"\
+	"SELECT "\
+		"wkb_geometry, road_id, full_road_name, road_name_label, is_land, "\
+		" full_road_name_ascii, road_name_label_ascii,"\
+		" suburb_locality_ascii, territorial_authority_ascii, updated "\
+	"FROM #{ROAD_S[:csfn]} where __change__ = 'UPDATE'"
 
 #new addresses
 	@conn.exec "DELETE FROM #{ADDR[:tbln]} nza USING #{ADDR[:csfn]} nacs 
@@ -433,6 +447,8 @@ end
 # Start of processing
 #
 LOGFILE = File.new("update.log","w")
+
+options[:currtime] = Time.now.strftime("%F %H:%M")
 
 do_options(options)
 

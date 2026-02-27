@@ -1,11 +1,14 @@
-Start = 2026-02-25 14:52:04 +1300
+Start = 2026-02-27 03:18:44 +1300
 #############################
 
-1 LINZ ids are missing from NZOGPS Central
-;linzid=3085902	Papa Koura Rd	-40.0277769,175.1941669167
+0 LINZ ids are missing from NZOGPS Central
 #############################
 
-0 LINZ ids are in NZOGPS Central but missing from LINZ
+4 LINZ ids are in NZOGPS Central but missing from LINZ
+;linzid=3046725	Old Orchard Rd	-39.00483,176.55258
+;linzid=3026581	South Rd	-39.58079,174.22984
+;linzid=3042544	Lawson St	-40.09971,175.38269
+;linzid=3063400	Neal Dow St	-40.09883,175.37797
 #############################
 
 0 Number range ids are missing from NZOGPS Central
@@ -14,5 +17,5 @@ Start = 2026-02-25 14:52:04 +1300
 0 Number range ids are in NZOGPS Central but missing from LINZ
 #############################
 
-Finish = 2026-02-25 14:52:08 +1300
-Processing time = 3.953744
+Finish = 2026-02-27 03:18:48 +1300
+Processing time = 3.944857

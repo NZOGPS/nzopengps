@@ -28,8 +28,8 @@ TILESP = $(addsuffix -P,$(TILES))
 all : $(addsuffix .zip,$(TILES))
 .PHONY: all
 
-allp : $(addsuffix .zip,$(TILESP))
-.PHONY: all
+pilot : $(addsuffix .zip,$(TILESP))
+.PHONY: pilot
 
 install-csv : $(addsuffix -numbers-linzid.csv,$(addprefix $(NUMBERS)\,$(TILES)))
 .PHONY: install
@@ -83,9 +83,15 @@ $(LINZ)\lds-nz-street-address-electoral-SHP\nz-street-address-electoral.shp : $(
 
 $(OUTPUTS)\\%-report-2.txt : ..\%.mp $(PAPERRDS)\%.txt
 	$(RUBY) parseMP.rb $(call tilenum, $(notdir $*)) 2
-	
+
 $(OUTPUTS)\\%-report-6.txt : ..\%.mp $(LINZO)\%-LINZ.mp
 	$(RUBY) parseMP.rb $(call tilenum, $(notdir $*)) 6
+	
+$(OUTPUTS)\\%-report-2-P.txt : ..\%.mp $(PAPERRDS)\%.txt
+	$(RUBY) parseMP.rb $(call tilenum, $(notdir $*)) 2-P
+
+$(OUTPUTS)\\%-report-6-P.txt : ..\%.mp $(LINZO)\%-LINZ.mp
+	$(RUBY) parseMP.rb $(call tilenum, $(notdir $*)) 6-P
 
 $(NUMBERS)\\%-numbers.gdb : $(OUTPUTS)\%-numbers.gdb
 	if exist $(subst /,\,$@) move /Y $(subst /,\,$@) $(addsuffix .old,$(subst /,\,$@))

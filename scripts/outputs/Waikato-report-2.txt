@@ -1,4 +1,4 @@
-Start = 2026-03-01 16:44:19 +1300
+Start = 2026-03-02 10:58:30 +1300
 #############################
 
 0 LINZ ids are missing from NZOGPS Waikato
@@ -14,5 +14,5 @@ Start = 2026-03-01 16:44:19 +1300
 0 Number range ids are in NZOGPS Waikato but missing from LINZ
 #############################
 
-Finish = 2026-03-01 16:44:24 +1300
-Processing time = 5.473188
+Finish = 2026-03-02 10:58:36 +1300
+Processing time = 5.797579

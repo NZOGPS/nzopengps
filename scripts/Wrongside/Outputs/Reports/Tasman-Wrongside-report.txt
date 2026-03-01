@@ -1,13 +1,13 @@
 35 entries in V:\nzopengps\LinzDataService\PaperRoads\Tasman-WrongSide.txt
 113 entries in V:\nzopengps\LinzDataService\PaperRoads\Tasman-LINZWrongSide.txt
-92 wrongside numbers,  not in Exclusion files
+94 wrongside numbers,  not in Exclusion files
 4 entries in Ignore list are no longer on the wrong side
 2311349	50/11 Cube Court, Richmond	2025/09/14 22:53	-41.330888,173.171308
 2311308	24/11 Cube Court, Richmond	2025/09/14 22:52	-41.330960,173.171392
 2311351	54/11 Cube Court, Richmond	2025/09/14 22:53	-41.330735,173.171535
 2311350	52/11 Cube Court, Richmond	2025/09/14 22:53	-41.330807,173.171416
 
-52 entries in Linz list are no longer on the wrong side
+50 entries in Linz list are no longer on the wrong side
 1308030	291 BILL BRYANTS ROAD	2014/06/10 20:34	-41.044106,173.751340
 398370	126 Uruwhenua Road	2014/07/18 23:49	-40.996303,172.815299	Slightly the wrong side of the physical road
 1932207	590 Abel Tasman Drive, Clifton	2019/05/12 16:55	-40.843652,172.864235	Other addresses on this road match RAPID numbering.
@@ -32,7 +32,6 @@
 1849064	500 Hamama Road, Takaka	2019/05/12 16:48	-40.930313,172.770670	There's a drive matching RAPID numbering at	S40°55.7920' E172°46.2422'
 1540359	131 MERRIFIELDS ROAD	2014/06/10 00:21	-41.698827,174.120607
 1769237	2/55 Birchfield Road, Waimangaroa, Westport	2025/09/16 01:00	-41.701784,171.771223
-566945	163 ONAHAU ROAD	2014/06/10 21:14	-41.225222,173.963268
 400357	157 Grant Road Puramahoi	2014/07/18 23:51	-40.784780,172.742088	 On the physical road
 587299	87 St Omer Road, Saint Omer	2022/02/04 13:30	-41.183473,173.975779
 337002	26 CAMPBELLS ROAD	2014/06/10 21:54	-41.428888,173.962823
@@ -52,7 +51,6 @@
 328252	127 PARSONS ROAD	2014/06/09 23:54	-41.592924,173.513796
 1308039	875 BILL BRYANTS ROAD	2014/06/10 20:36	-41.040827,173.723657
 1015224	1359 MCCALLUMS MILL ROAD	2014/06/09 22:01	-41.151400,172.191000
-1303375	161 BULFORD ROAD	2014/06/10 22:23	-41.271661,173.579452
 1310764	2943 Kenepuru Road, Portage	2022/02/04 13:47	-41.200660,174.035523	ditto
 1308037	703 BILL BRYANTS ROAD	2014/06/10 20:36	-41.040656,173.730720
 1310763	2941 Kenepuru Road, Portage	2022/02/04 13:47	-41.200861,174.035618	Amid a whole lot of even numbers.

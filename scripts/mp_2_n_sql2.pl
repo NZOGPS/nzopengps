@@ -191,6 +191,7 @@ sub do_polyline{
 	my $lineno = $.;	#7
 	my @sufi=(-1,-1,-1);	#8
 	my @linzid=(-1,-1,-1);	#18
+	my $linznumbid=0;	#19
 	my @data;
 	my @numbers; #for now?
 	my $coordstr;
@@ -247,7 +248,7 @@ sub do_polyline{
 			}
 			parsenums(\@numarray,@numbers);
 			parsenods(\@nodarray,\@x,\@y,@nods);
-			push @roads,[$comment,$type,\@label,$endlevel,$cityidx,$roadid,$routeparam,$lineno,\@sufi,\@x,\@y,\@numarray,\@nods,$label2,$numnum,\@nodarray,$dirindicator,$autonum,\@linzid];
+			push @roads,[$comment,$type,\@label,$endlevel,$cityidx,$roadid,$routeparam,$lineno,\@sufi,\@x,\@y,\@numarray,\@nods,$label2,$numnum,\@nodarray,$dirindicator,$autonum,\@linzid,$linznumbid];
 #			--------------------0-------------1-------2----------3------------4----------5----------6----------------7---------8--- ----9----10---11-------------12--------13--------14----------15--------------16---------------17-----------18-------			
 			last;
 		}
@@ -395,6 +396,27 @@ sub id_check {
 			else {
 				if ($line=~/linzid=/i) {
 					print "Warning: odd linzid definition: $line\n";
+					dump_id2($road,0,-1);
+					print "\n";
+				}
+			}
+
+			if ($line=~/^linznumbid=(\d+)/) {
+				if ($$road[19]==0){
+					$$road[19]=$1;
+				} else {
+					if ($1==$$road[19]){
+						print "Warning: multiple copies of same linznumbid${1}\n";
+					} else {
+						print " * Error: multiple linznumbids $1,$$road[19]\n";
+					}
+					dump_id2($road,0,-1);
+					print "\n";
+				}
+			}
+			else {
+				if ($line=~/linznumbid=/i) {
+					print "Warning: odd linznumbid definition: $line\n";
 					dump_id2($road,0,-1);
 					print "\n";
 				}
@@ -596,6 +618,7 @@ sub write_line_sql {
 	print SQLFILE "\"label\" varchar(100),\n";
 	print SQLFILE "\"type\" varchar(10),\n";
 	print SQLFILE "\"linzid\" integer,\n";
+	print SQLFILE "\"linznumbid\" integer,\n";
 	print SQLFILE "\"cityidx\" integer,\n";
 	print SQLFILE "\"nnum\" integer,\n";
 	print SQLFILE "\"ltype\" character(1),\n";
@@ -607,7 +630,7 @@ sub write_line_sql {
 	print SQLFILE "the_geom geometry(LineString,4167));\n";
 
 	print SQLFILE "INSERT INTO ${tablename} ";
-	print SQLFILE "(\"roadid\",\"label\",\"type\",linzid,\"cityidx\",\"nnum\",\"ltype\",\"lstart\",\"lend\",\"rtype\",\"rstart\",\"rend\",the_geom)";
+	print SQLFILE "(\"roadid\",\"label\",\"type\",linzid,linznumbid,\"cityidx\",\"nnum\",\"ltype\",\"lstart\",\"lend\",\"rtype\",\"rstart\",\"rend\",the_geom)";
 	print SQLFILE " VALUES \n";
 
 	for $road (@roads){
@@ -640,7 +663,7 @@ sub write_line_sql {
 				print STDERR "road is $$road[5] i is $i\n";
 				print STDERR Dumper @nums;
 			}
-			print SQLFILE "$ldr('$$road[5]','$rdname','$$road[1]','$$road[18][0]',$cityidx,'$i',";
+			print SQLFILE "$ldr('$$road[5]','$rdname','$$road[1]','$$road[18][0]','$$road[19]',$cityidx,'$i',";
 			$ldr = ','; #leading char is , after first line
 			for ($j=1;$j<7;$j++){
 				print SQLFILE "'$nums[$i][$j]'";
@@ -746,17 +769,32 @@ sub write_poi_sql {
 	print SQLFILE ";\n";
 }
 
-
+sub do_help {
+	print "Usage: perl $0 [-l -s -c -x -p -i -h] filename\
+	creates sql files from a mp file. Default is just numbered road segments. Options:\
+		-h : print this message and exit\
+		-s/-l use sufis or linzids. linzid is default. sufi processing has been untested for years\
+		-c : process cities\n\t\t-i : process POIs\
+		-p : process polygons. This will turn off roads\n";
+}
 ##### Main program starts...
 
-getopts("clsxpi", \%cmdopts);
+getopts("clsxpih", \%cmdopts);
 if (!($cmdopts{s} or $cmdopts{l})){
 	$cmdopts{l}=1;
 }
 
+if ($cmdopts{h}){
+	do_help;
+	exit;
+}
+
 # die "Under development - do not use!" unless $cmdopts{x};
 
-die "No filename specified" if (!defined $ARGV[0]);
+if (!defined $ARGV[0]) {
+	do_help;
+	die "No filename specified";
+}
 ($basefile, $basedir, $basesuff) = fileparse($ARGV[0],qr/\.[^.]*/);
 $basedir = Cwd::realpath($basedir);
 if ($basedir =~ m|/$nzogps(.*)$|) {

@@ -1,5 +1,5 @@
 3043375	B,355,363	E,388,388	Worsleys Road	Hoon Hay, Christchurch (Canterbury, NZ)
-1779306	O,213,213	B,233,234	E,266,266	RAVEN QY	Kaiapoi (Canterbury, NZ)
+1779306	O,213,213	B,233,234	E,266,266	E,270,270	RAVEN QY	Kaiapoi (Canterbury, NZ)
 1779431	E,144,144	B,207,228	O,335,335	View Hill Road
 3040015	E,500,500	Camp Bay Road
 1780424	O,9,25	E,6,6	JAMES ST	Coalgate (Canterbury,	NZ)
@@ -124,7 +124,6 @@
 1783768	E,248,254	Oxford Tce	Christchurch Central, Christchurch(Canterbury,NZ)	2019/10/18 00:38	-43.527700,172.636630
 1782495	E,8,16	Bedford Row	Christchurch Central, Christchurch(Canterbury,NZ)	2019/12/22 17:46	-43.533670,172.641050
 1786335	O,125,125	Rakaia Tce	Rakaia(Canterbury,NZ)	2021/02/24 17:08	-43.752390,172.027790
-3035457	E,240,272	Cashel St	Christchurch Central, Christchurch(Canterbury,NZ)	2022/05/03 22:59	-43.533140,172.638200
 3010185	E,3706,3706	~[0x04]83	Benmore(Canterbury,NZ)	2023/11/25 13:35	-44.555530,170.089890
 1787148	B,2,21	The Oaks	Kaiapoi(Canterbury,NZ)	2024/11/11 17:58	-43.392070,172.659460
 1785702	B,4,5	Parish Lane	Kaiapoi(Canterbury,NZ)	2024/11/11 17:59	-43.388660,172.663320

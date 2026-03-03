@@ -1,7 +1,18 @@
-Start = 2026-03-02 11:01:33 +1300
+Start = 2026-03-03 23:53:10 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Canterbury
+11 LINZ ids are missing from NZOGPS Canterbury
+;linzid=3085907	Colorado St	-43.6067300661323,172.415027530494
+;linzid=3085908	Wyoming St	-43.6067530953725,172.420426952455
+;linzid=3085909	Arizona St	-43.6067112188013,172.416847448721
+;linzid=3085910	Kansas Rd	-43.607571591993,172.418355331163
+;linzid=3085911	Nevada Lane	-43.6076794558887,172.415804667276
+;linzid=3085912	Durango St	-43.6086179276169,172.41768751406
+;linzid=3085914	Singleton Cres	-43.6076808696018,172.419781194736
+;linzid=3085915	Outlaw St	-43.607728578965,172.42119640013
+;linzid=3085916	Waganer Pl	-43.6084927720781,172.420588550738
+;linzid=3085917	Swenson Lane	-43.6072385460672,172.420809869104
+;linzid=3085913	Babbit Cres	-43.6086179276169,172.41768751406
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
@@ -10,5 +21,5 @@ Start = 2026-03-02 11:01:33 +1300
 0 Number range ids are missing from NZOGPS Canterbury
 #############################
 
-Finish = 2026-03-02 11:01:38 +1300
-Processing time = 4.740037
+Finish = 2026-03-03 23:53:15 +1300
+Processing time = 4.806778

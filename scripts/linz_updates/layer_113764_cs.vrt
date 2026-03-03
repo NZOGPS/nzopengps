@@ -1,0 +1,27 @@
+<OGRVRTDataSource>
+  <OGRVRTLayer name="layer_113764_cs">
+    <SrcDataSource relativeToVRT="1">layer_113764_cs.csv</SrcDataSource>
+    <GeometryField encoding="WKT" field="shape" reportSrcColumn="FALSE">
+      <GeometryType>wkbMultiPolygon</GeometryType>
+      <SRS>EPSG:4167</SRS>
+      <ExtentXMin>-178</ExtentXMin>
+      <ExtentYMin>-47.4</ExtentYMin>
+      <ExtentXMax>179</ExtentXMax>
+      <ExtentYMax>-34</ExtentYMax>
+    </GeometryField>
+    <FID>id</FID>
+    <Field name="__change__"					src="__change__"					type="String" />
+    <Field name="id"							src="id"							type="Integer" />
+    <Field name="name"							src="name"							type="String" />
+    <Field name="additional_name"				src="additional_name"				type="String" />
+    <Field name="type"							src="type"							type="String" />
+    <Field name="major_name"					src="major_name"					type="String" />
+    <Field name="major_name_type"				src="major_name_type"				type="String" />
+    <Field name="territorial_authority"			src="territorial_authority"			type="String" />
+    <Field name="population_estimate"			src="population_estimate"			type="Integer" />
+    <Field name="name_ascii"					src="name_ascii"					type="String" />
+    <Field name="additional_name_ascii"			src="additional_name_ascii"			type="String" />
+    <Field name="major_name_ascii"				src="major_name_ascii"				type="String" />
+    <Field name="territorial_authority_ascii"	src="territorial_authority_ascii"	type="String" />
+  </OGRVRTLayer>
+</OGRVRTDataSource>

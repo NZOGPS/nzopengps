@@ -1,6 +1,7 @@
-Start = 2026-03-02 11:01:14 +1300
+Start = 2026-03-03 23:53:48 +1300
 linzid	street_name	street_name_2	official_street_name
+1810055	Te Kumi Station Rd		Tuariri Rd	-38.30768,175.14583
 #############################
 
-Finish = 2026-03-02 11:01:19 +1300
-Processing time = 4.562464
+Finish = 2026-03-03 23:53:54 +1300
+Processing time = 5.852448

@@ -9,16 +9,26 @@ LINZ_URL="https://data.linz.govt.nz/services;"
 ROAD=  {csfn: "layer_123110_cs",   tbln: "nz_addresses_roads_pilot"}
 ROAD_S={csfn: "layer_123110_cs_s", tbln: "nz_addresses_roads_pilot_s"}
 ADDR=  {csfn: "layer_123113_cs",   tbln: "nz_addresses_pilot"}
+SAL=   {csfn: "layer_113764_cs",   tbln: "nz_suburbs_and_localities"}
 
 LAST_FN="LINZ_last_pilot.date"
+LAST_SAL="LINZ_last_SAL.date"
 DEBUG=false
 
-options = {:download => 1, :postgres => 1, :updates => 1, :continue => 0, :from => nil, :until => nil}
+options = {:download => true, :postgres => true, :updates => true, :continue => false, :suburbs => false, :from => nil, :until => nil}
 
 def do_options(options)
-	if File.exist?(LAST_FN) 
+	if do_sal then
+		previous = LAST_SAL
+		print "Last is SAL\n" if DEBUG
+	else
+		previous = LAST_FN
+		print "Last is Addresses\n" if DEBUG
+	end
+	
+	if File.exist?(previous) 
 		tline = ""
-		File.open(LAST_FN) do |lfile|
+		File.open(previous) do |lfile|
 			tline = lfile.gets.chomp
 		end
 		if DateTime.strptime(tline,"%FT%T")
@@ -28,20 +38,24 @@ def do_options(options)
 
 	parser = OptionParser.new do|opts|
 		opts.banner = "Usage: #{$0} [options]"
+		opts.on('-s', '--suburbs', 'Do suburbs rather than addresses') do |burbs|
+			options[:suburbs] = true;
+		end
+
 		opts.on('-d', '--nodownload', 'Don\'t download') do |nodown|
-			options[:download] = nil;
+			options[:download] = false;
 		end
 
 		opts.on('-p', '--nopostgres', 'Don\'t load changeset into postgres') do |nopost|
-			options[:postgres] = nil;
+			options[:postgres] = false;
 		end
 
 		opts.on('-u', '--noupdate', 'Don\'t do updates in postgres') do |noupd|
-			options[:updates] = nil;
+			options[:updates] = false;
 		end
 
 		opts.on('-c', '--continue', 'Continue checking for errors, rather than stopping') do |cont|
-			options[:continue] = 1;
+			options[:continue] = true;
 		end
 
 		opts.on("-f", "--from FROM", Time, "Specify a start time/date") do |from|

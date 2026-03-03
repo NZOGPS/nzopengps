@@ -21,3 +21,5 @@ for %%f in ("%nzogps_NZSL%") do (
 )
 %nzogps_ogr2ogr% --config PG_USE_COPY TRUE -f "PostgreSQL" "PG:host=localhost user=postgres  dbname=nzopengps" -lco OVERWRITE=yes -lco GEOMETRY_NAME=wkb_geometry -oo GEOM_POSSIBLE_NAMES=WKT %nzogps_NZSL%
 %nzogps_psql_bin%psql -U postgres -d nzopengps < Code\postproc.sql
+
+%nzogps_ruby_cmd% -e 'puts "File.mtime(ENV["nzogps_nzadf"]).utc.strftime("%%FT%%T")+"\n#note time is in UTC\n#set by %0"' > ..\linz_updates\LINZ_last_pilot.date

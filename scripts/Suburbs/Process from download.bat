@@ -24,7 +24,7 @@ popd
 %nzogps_ogr2ogr% --config PG_USE_COPY TRUE -f "PostgreSQL" "PG:host=localhost user=postgres  dbname=nzopengps" -lco OVERWRITE=yes -lco GEOMETRY_NAME=wkb_geometry -oo GEOM_POSSIBLE_NAMES=WKT %nzogps_NZSL%
 if errorlevel 0 %nzogps_psql_bin%psql -U postgres -d nzopengps < Code\postproc1.sql
 pushd ..
-%nzogps_ruby_cmd% slow_query_progress.rb -i id -t nz_suburbs_and_localities -q "SET nztm_geometry = st_buffer(st_transform(wkb_geometry,2193),20)" -l "Create NZTM poly"
+%nzogps_ruby_cmd% slow_query_progress.rb -i id -t nz_suburbs_and_localities -q "SET nztm_geometry = st_buffer(st_transform(wkb_geometry,2193),20)" -l "Create NZTM polygons"
 popd
 if errorlevel 0 %nzogps_psql_bin%psql -U postgres -d nzopengps < Code\postproc2.sql
 if errorlevel 0 %nzogps_ruby_cmd% -e 'puts File.mtime(ENV["nzogps_NZSL"]).utc.strftime("%%FT%%T")+"\n#note time is in UTC\n#set by %~0"' > ..\linz_updates\LINZ_last_SAL.date

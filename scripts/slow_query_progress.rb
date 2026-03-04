@@ -5,12 +5,12 @@ require 'progressbar'
 require 'pp'
 
 DEBUG=false
-options = {:table => nil, :id => nil, :query => nil, :label => "running",}
+options = {:table => nil, :id => nil, :query => nil, :label => nil, :where => nil}
 
 def do_options(options)
 print "do_options\n" if DEBUG
 	parser = OptionParser.new do|opts|
-		opts.banner = "Usage: #{$0} [options]"
+		opts.banner = "Usage: #{$0} [options] \n\tUse sqptbl to refer to the -t table"
 		
 		opts.on('-t', '--table TABLE','table to process') do |table|
 			options[:table] = table;
@@ -28,12 +28,20 @@ print "do_options\n" if DEBUG
 			options[:label] = label
 		end
 
+		opts.on('-w', '--where WHERE-CLAUSE', 'label') do |where|
+			options[:where] = where
+		end
+
 		opts.on('-h', '--help', 'Displays Help') do
 			puts opts
 			exit
 		end
 	end
 	parser.parse!
+	if not (options[:table] and options[:id] and options[:query])
+	puts parser.help
+	abort("id, table, and query must be specified\n")
+	end
 end
 
 def pg_connect()
@@ -74,25 +82,35 @@ def pg_connect()
 end
 
 def doit(options)
-print options.to_s+"\n" if DEBUG
-#return
+	# print options.to_s+"\n" if DEBUG
+	start = Time.new
+	print "Started: #{start}\n"
 	rs = @conn.exec ("SELECT #{options[:id]} FROM #{options[:table]}")
 	rdscnt = rs.num_tuples
 	print "rdscnt is #{rdscnt}\n" if DEBUG
+	whereclause = 'where '
+	if options[:where]
+		whereclause << options[:where] << ' and '
+		print "where is: #{whereclause}\n"
+	end
 	within_set=0
 
 	if rdscnt > 0 then
 		@pbar = ProgressBar.create(:title=>options[:label], :total=>rdscnt, :length=>100)
 		rs.each do |eachval|
 			print "eachval is: " + eachval.to_s + "\n" if DEBUG
-			sqlcmd = "update #{options[:table]} sqtbln #{options[:query]} where sqtbln.#{options[:id]} = #{eachval[options[:id]]}"
+			sqlcmd = "update #{options[:table]} sqptbl #{options[:query]} #{whereclause} sqptbl.#{options[:id]} = #{eachval[options[:id]]}"
 			print sqlcmd+"\n" if DEBUG
 			rs2 = @conn.exec (sqlcmd)
 			@pbar.increment
 			within_set += rs2.cmd_tuples
 		end
 	end
+	ended = Time.new
+	elapsed = ended-start
+	selapsed = Time.at(elapsed).utc.strftime("%0H:%0M:%0S")
 	print "#{within_set} lines processed\n" if DEBUG
+	print "Ended: #{ended} - Elapsed: #{selapsed}"
 end
 
 do_options(options)

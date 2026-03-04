@@ -10,7 +10,7 @@ set nzogps_psqlc=%nzogps_psql_bin%psql -U postgres -d nzopengps
 if not [%nzogps_projlib%] == [] set proj_lib=%nzogps_projlib%
 echo proj lib is %proj_lib%
 
-%nzogps_ruby_cmd% -e 'puts File.mtime(ENV["nzogps_nzadf"]).utc.strftime("%%FT%%T")+"\n#note time is in UTC\n#set by %0"' > ..\linz_updates\LINZ_last_pilot.date
+%nzogps_ruby_cmd% -e 'puts File.mtime(ENV["nzogps_nzadf"]).utc.strftime("%%FT%%T")+"\n#note time is in UTC\n#set by %~0"' > ..\linz_updates\LINZ_last_pilot.date
 
 if not exist ..\..\setlocals.bat echo setlocals.bat not found. You need to copy and customise the sample file
 if not defined nzogps_ogr2ogr call ..\..\setlocals.bat

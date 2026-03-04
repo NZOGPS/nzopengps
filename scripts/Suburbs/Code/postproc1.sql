@@ -12,9 +12,4 @@ ALTER TABLE nz_suburbs_and_localities ADD COLUMN updated character varying;
 UPDATE nz_suburbs_and_localities SET updated = :'nowtxt';
 UPDATE nz_suburbs_and_localities SET watery = false;
 UPDATE nz_suburbs_and_localities SET watery = true where type = 'Coastal Bay' or type = 'Lake' or type = 'Inland Bay';
-SELECT 'Transform Geom - is slow';
-UPDATE nz_suburbs_and_localities SET nztm_geometry = st_buffer(st_transform(wkb_geometry,2193),20);
 
-CREATE INDEX nzsl_idx ON nz_suburbs_and_localities USING btree(id);
-CREATE INDEX nz_suburbs_and_localities_geom_idx ON public.nz_suburbs_and_localities USING gist(wkb_geometry);
-CREATE INDEX nz_suburbs_and_localities_nztm_geom_idx ON public.nz_suburbs_and_localities USING gist(nztm_geometry);

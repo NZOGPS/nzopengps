@@ -56,7 +56,7 @@ def pre_processing()
   load_config()
 
   top,right,bottom,left = @bounds
-  sql_query = "SELECT full_address_number, full_road_name_ascii, suburb_locality_ascii, to_char(shape_x,'9999D999999'), to_char(shape_y,'9999D999999'), road_id, address_id FROM nz_addresses_pilot WHERE ST_Contains(ST_SetSRID(ST_MakeBox2D(ST_Point(#{left}, #{bottom}), ST_Point(#{right} ,#{top})),#{WORKING_SRID}), wkb_geometry);"
+  sql_query = "SELECT full_address_number, full_road_name_ascii, suburb_locality_ascii, to_char(shape_x,'9999D999999'), to_char(shape_y,'9999D999999'), road_id, address_id FROM nz_addresses WHERE ST_Contains(ST_SetSRID(ST_MakeBox2D(ST_Point(#{left}, #{bottom}), ST_Point(#{right} ,#{top})),#{WORKING_SRID}), wkb_geometry);"
   require '..\linzdataservice\nzogps_library.rb'
   
   begin
@@ -76,7 +76,7 @@ def pre_processing()
     end
   end
   
-  @output_file_path = File.join(@base, 'outputs', "#{@tile}-numbers-pilot.gpx") #put outputs in outputs folder
+  @output_file_path = File.join(@base, 'outputs', "#{@tile}-numbers.gpx") #put outputs in outputs folder
 
   File.open(@output_file_path, "w") do |f|
     f.print <<-eos

@@ -6,9 +6,9 @@ SELECT 'ALTER TABLES',NOW(); -- ~1 sec 2026/1/24
 
 SELECT current_timestamp AS nowtxt \gset
 \set tblcommentbase ' data. Code modified in January 2026. This table processed: ' :nowtxt
-\set tblcomment 'Pilot address' :tblcommentbase
+\set tblcomment 'New (2026) address' :tblcommentbase
 COMMENT ON TABLE :ADD_TBL IS :'tblcomment';
-\set tblcomment 'Pilot addressing roads' :tblcommentbase
+\set tblcomment 'New (2026) addressing roads' :tblcommentbase
 COMMENT ON TABLE :ROAD_TBL IS :'tblcomment';
 
 ALTER TABLE :ADD_TBL ADD COLUMN is_odd boolean;
@@ -16,7 +16,7 @@ ALTER TABLE :ADD_TBL ADD COLUMN linz_numb_id integer;
 ALTER TABLE :ADD_TBL ADD COLUMN updated character varying;
 
 drop table if exists :ROAD_TBL_S;
-CREATE TABLE :ROAD_TBL_S -- nz_addresses_roads_pilot_s
+CREATE TABLE :ROAD_TBL_S -- nz_addresses_roads_s
 (
   ogc_fid serial PRIMARY KEY,
   road_id integer,
@@ -31,7 +31,7 @@ CREATE TABLE :ROAD_TBL_S -- nz_addresses_roads_pilot_s
   wkb_geometry geometry(LineString,4167)
 );
 
-\set tblcomment 'Pilot addressing roads split into LineString ' :tblcommentbase
+\set tblcomment 'New (2026) addressing roads split into LineString ' :tblcommentbase
 COMMENT ON TABLE :ROAD_TBL_S IS :'tblcomment';
 
 SELECT 'IS ODD',NOW(); -- ~1 min 2026/1/24 2 min 2026/02/23
@@ -55,7 +55,7 @@ INSERT INTO  :ROAD_TBL_S (road_id, full_road_name, road_name_label, is_land, ful
 select 
 	nzp.road_id, nzp.full_road_name, nzp.road_name_label, nzp.is_land, nzp.full_road_name_ascii, nzp.road_name_label_ascii,
 	(st_dump(wkb_geometry)).geom
-	from nz_addresses_roads_pilot nzp;
+	from nz_addresses_roads nzp;
 
 UPDATE :ROAD_TBL_S SET updated = :'nowtxt';
 
@@ -69,7 +69,7 @@ update :ROAD_TBL_S rd
 	from nz_suburbs_and_localities sal where st_within(rd.wkb_geometry,sal.wkb_geometry) and watery is not true;
 
 -- future? use slow_query_progress to monitor progress of this slow query?
--- ruby slow_query_progress.rb -i ogc_fid -t nz_addresses_roads_pilot_s -q " set suburb_locality_ascii = sal.name_ascii,territorial_authority_ascii = sal.territorial_authority_ascii from nz_suburbs_and_localities sal" -w "st_within(sqptbl.wkb_geometry,sal.wkb_geometry) and watery is not true "
+-- ruby slow_query_progress.rb -i ogc_fid -t nz_addresses_roads_s -q " set suburb_locality_ascii = sal.name_ascii,territorial_authority_ascii = sal.territorial_authority_ascii from nz_suburbs_and_localities sal" -w "st_within(sqptbl.wkb_geometry,sal.wkb_geometry) and watery is not true "
 
 SELECT 'ADD MOST OVERLAPPED BURB and TA',NOW(); -- ~ 4 min 26/1/25
 -- BEST MATCH? 16416 to do on 26/1/25
@@ -89,7 +89,7 @@ update :ROAD_TBL_S rd
 where rd.ogc_fid = isect.ogc_fid;
 
 -- as above. Below untested
--- ruby slow_query_progress.rb -i ogc_fid -t nz_addresses_roads_pilot_s -q "set suburb_locality_ascii = name_ascii,territorial_authority_ascii = isect.territorial_authority_ascii \
+-- ruby slow_query_progress.rb -i ogc_fid -t nz_addresses_roads_s -q "set suburb_locality_ascii = name_ascii,territorial_authority_ascii = isect.territorial_authority_ascii \
 -- from ( SELECT distinct on (rd.ogc_fid) st_length(st_intersection(rd.wkb_geometry,sal.wkb_geometry)) as overlap, rd.ogc_fid, name_ascii, sal.territorial_authority_ascii \
 -- FROM sqptbl rd join nz_suburbs_and_localities sal on st_intersects(rd.wkb_geometry,sal.wkb_geometry) where suburb_locality_ascii is null and watery is not true \
 -- order by rd.ogc_fid, overlap desc) as isect" -w  "rd.ogc_fid = isect.ogc_fid;"

@@ -61,7 +61,7 @@ def pre_processing()
 	@nzogps_file_num_id_ids = {}
 	@linz_file_num_id_ids = {}
 
-	linz_data_service_file = File.join(@base, '..', 'LinzDataService', 'outputslinz', "#{@tile}-P-LINZ.mp")
+	linz_data_service_file = File.join(@base, '..', 'LinzDataService', 'outputslinz', "#{@tile}-LINZ.mp")
 	if !File.exist?(linz_data_service_file) then
 		raise "Unable to find required LINZ data file at #{linz_data_service_file}\n"
 	end

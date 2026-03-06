@@ -2,15 +2,15 @@
 setlocal
 set nzogps_nzsl=nz_suburbs_and_localities
 set nzogps_nzta=regional_council
-set nzogps_nzad=nz_addresses_pilot
-set nzogps_nzrd=nz_addresses_roads_pilot
+set nzogps_nzad=nz_addressess
+set nzogps_nzrd=nz_addresses_roads
 set nzogps_nzadf=..\..\LinzDataService\%nzogps_nzad:_=-%\%nzogps_nzad:_=-%.csv
 set nzogps_nzrdf=..\..\LinzDataService\%nzogps_nzrd:_=-%\%nzogps_nzrd:_=-%.csv
 set nzogps_psqlc=%nzogps_psql_bin%psql -U postgres -d nzopengps
 if not [%nzogps_projlib%] == [] set proj_lib=%nzogps_projlib%
 echo proj lib is %proj_lib%
 
-%nzogps_ruby_cmd% -e 'puts File.mtime(ENV["nzogps_nzadf"]).utc.strftime("%%FT%%T")+"\n#note time is in UTC\n#set by %~0"' > ..\linz_updates\LINZ_last_pilot.date
+%nzogps_ruby_cmd% -e 'puts File.mtime(ENV["nzogps_nzadf"]).utc.strftime("%%FT%%T")+"\n#note time is in UTC\n#set by %~0"' > ..\linz_updates\LINZ_last.date
 
 if not exist ..\..\setlocals.bat echo setlocals.bat not found. You need to copy and customise the sample file
 if not defined nzogps_ogr2ogr call ..\..\setlocals.bat
@@ -43,7 +43,7 @@ if errorlevel 1 echo Error - %nzogps_nzsl% table not found. & pause & exit /b 1
 %nzogps_psqlc% -c "SELECT count(*) as %nzogps_nzta% from %nzogps_nzta%"
 if errorlevel 1 echo Error - %nzogps_nzta% table not found. & pause & exit /b 1
 @echo %time%
-%nzogps_psqlc% -v ADD_TBL=%nzogps_nzad% -v ROAD_TBL=%nzogps_nzrd% -f postproc-pilot.sql
+%nzogps_psqlc% -v ADD_TBL=%nzogps_nzad% -v ROAD_TBL=%nzogps_nzrd% -f postproc.sql
 echo %time%
-rem call add_burbs-pilot.bat 
-%nzogps_touch_cmd% ../database-pilot.date
+rem call add_burbs.bat 
+%nzogps_touch_cmd% ../database.date

@@ -118,7 +118,7 @@ ALLOWED_ROAD_TYPES_FOR_NUMBERING = ['0x1','0x2','0x3','0x4','0x5','0x6','0x7','0
 ###############
 WORKING_SRID = 4167
 #K = 200 # buffer distance to search inside, not currently used
-STREET_ADDRESS_TABLE = 'nz_addresses_pilot'
+STREET_ADDRESS_TABLE = 'nz_addresses'
 STREET_ADDRESS_TABLE_INDEX_NAME = 'wkb_geometry'
 STREET_ADDRESS_NUM_COL = 'address_number'
 SUBURBS_TABLE='nz_suburbs_and_localities'
@@ -127,8 +127,8 @@ SUBURBS_TABLE_GEOM='wkb_geometry'
 def set_paths(myio)
 	myio.ipath = File.join('..','LinzDataService','outputslinz')
 	myio.opath = File.join('..','LinzDataService','outputslinz')
-	myio.ifileadd = '-P-LINZ-V3'
-	myio.ofileadd = '-P-LINZ-V4'
+	myio.ifileadd = '-LINZ-V3'
+	myio.ofileadd = '-LINZ-V4'
 end
 
 def pre_processing()

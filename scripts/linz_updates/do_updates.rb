@@ -6,12 +6,12 @@ require 'pp'
 
 LINZ_URL="https://data.linz.govt.nz/services;"
 
-ROAD=  {layer: 123110, csfn: "layer_123110_cs",   tbln: "nz_addresses_roads_pilot"}
-ROAD_S={layer: 123110, csfn: "layer_123110_cs_s", tbln: "nz_addresses_roads_pilot_s"}
-ADDR=  {layer: 123113, csfn: "layer_123113_cs",   tbln: "nz_addresses_pilot"}
+ROAD=  {layer: 123110, csfn: "layer_123110_cs",   tbln: "nz_addresses_roads"}
+ROAD_S={layer: 123110, csfn: "layer_123110_cs_s", tbln: "nz_addresses_roads_s"}
+ADDR=  {layer: 123113, csfn: "layer_123113_cs",   tbln: "nz_addresses"}
 SALO=  {layer: 113764, csfn: "layer_113764_cs",   tbln: "nz_suburbs_and_localities"}
 
-LAST_FN="LINZ_last_pilot.date"
+LAST_FN="LINZ_last.date"
 LAST_SAL="LINZ_last_SAL.date"
 DEBUG=true
 
@@ -119,7 +119,7 @@ def get_linz_updates(options)
 		system("#{curl_cmd} -o #{SALO[:csfn]}.csv #{url1}#{dtype}#{SALO[:layer]}#{url2}#{dtype}#{SALO[:layer]}#{url3}")
 	end
 
-	system("FOR /f %a IN ('WMIC OS GET LocalDateTime ^| FIND \".\"') DO #{zip_cmd} %~na_P.zip #{ROAD[:csfn]}.csv #{ADDR[:csfn]}.csv #{SALO[:csfn]}.csv" ) # _P in %~na_P for pilot
+	system("FOR /f %a IN ('WMIC OS GET LocalDateTime ^| FIND \".\"') DO #{zip_cmd} %~na.zip #{ROAD[:csfn]}.csv #{ADDR[:csfn]}.csv #{SALO[:csfn]}.csv" ) 
 end
 
 def pg_connect()
@@ -203,7 +203,7 @@ def put_csv_in_postgres(options)
 		@conn.exec "VACUUM ANALYSE #{SALO[:csfn]}"
 	end
 
-#pilot addresses
+#New (2026) addresses
 	if (options[:doaddress])
 		@conn.exec "COMMENT ON TABLE #{ADDR[:csfn]} IS 'Changeset data for #{ADDR[:tbln]} from #{options[:from]} to #{options[:until]} at #{options[:currtime]}'"
 		@conn.exec "ALTER TABLE #{ADDR[:csfn]} ADD COLUMN is_odd boolean"
@@ -226,8 +226,8 @@ def put_csv_in_postgres(options)
 
 		print "Addresses done\n" if DEBUG
 
-#pilot roads
-		@conn.exec "COMMENT ON TABLE #{ROAD[:csfn]} IS 'Changeset data for nz_addresses_roads_pilot from #{options[:from]} to #{options[:until]} at #{options[:currtime]}'"
+#New (2026) roads
+		@conn.exec "COMMENT ON TABLE #{ROAD[:csfn]} IS 'Changeset data for nz_addresses_roads from #{options[:from]} to #{options[:until]} at #{options[:currtime]}'"
 
 		@conn.exec "ALTER TABLE #{ROAD[:csfn]} RENAME COLUMN is_land TO is_land_txt"
 		@conn.exec "ALTER TABLE #{ROAD[:csfn]} ADD COLUMN is_land boolean"
@@ -255,7 +255,7 @@ def put_csv_in_postgres(options)
 			updated character varying,
 			wkb_geometry geometry(LineString,4167)
 		)"
-		@conn.exec "COMMENT ON TABLE #{ROAD_S[:csfn]} IS 'Changeset data for nz_addresses_roads_pilot split into LineStrings from #{options[:from]} to #{options[:until]} at #{options[:currtime]}'"
+		@conn.exec "COMMENT ON TABLE #{ROAD_S[:csfn]} IS 'Changeset data for nz_addresses_roads split into LineStrings from #{options[:from]} to #{options[:until]} at #{options[:currtime]}'"
 		print "Tables modified\n" if DEBUG
 
 # split roads into single linestrings

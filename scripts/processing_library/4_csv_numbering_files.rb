@@ -58,7 +58,7 @@ end
     end
   end
   
-  @output_file_path = File.join(@base, 'outputs', "#{@tile}-numbers-pilot.csv") #put outputs in outputs folder
+  @output_file_path = File.join(@base, 'outputs', "#{@tile}-numbers.csv") #put outputs in outputs folder
   print "Output : #{@output_file_path}\n"
   CSV.open(@output_file_path, "w") do |csv|
     res  = @conn.exec(sql_query)

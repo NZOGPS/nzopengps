@@ -1,4 +1,4 @@
-ROAD_TABLE="nz_addresses_roads_pilot_s"
+ROAD_TABLE="nz_addresses_roads_s"
 
 tstart = Time.new
 print "pg-road-parser.rb #{tstart}\nLoading library code...\n"
@@ -57,7 +57,7 @@ def pg_connect()
 	end
 end
 
-load "nzogps_library_pilot.rb"
+load "nzogps_library.rb"
 
 initialise_tile_file_handles
 pg_connect

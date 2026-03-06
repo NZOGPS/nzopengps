@@ -8,12 +8,12 @@ set nzogps_dl_fn=lds-new-zealand-2layers-CSV.zip
 @if not exist %nzogps_download%\%nzogps_dl_fn% echo new CSV download %nzogps_dl_fn% not found. & goto :eof
 move %nzogps_download%\%nzogps_dl_fn% .
 
-set nzogps_ex_pt=nz-addresses-roads-pilot
+set nzogps_ex_pt=nz-addresses-roads
 if exist %nzogps_ex_pt%\%nzogps_ex_pt%.*  del %nzogps_ex_pt%\%nzogps_ex_pt%.*
 %nzogps_unzip_cmd% %nzogps_dl_fn% -o%nzogps_ex_pt% %nzogps_ex_pt%\%nzogps_ex_pt%.*
 if not exist %nzogps_ex_pt%\%nzogps_ex_pt%.csv echo Road centre line  files not found in zip file %nzogps_dl_fn% & goto :eof
 
-set nzogps_ex_pt=nz-addresses-pilot
+set nzogps_ex_pt=nz-addresses
 if exist %nzogps_ex_pt%\%nzogps_ex_pt%.*  del %nzogps_ex_pt%\%nzogps_ex_pt%.*
 %nzogps_unzip_cmd% %nzogps_dl_fn% -o%nzogps_ex_pt% %nzogps_ex_pt%\%nzogps_ex_pt%.*
 if not exist %nzogps_ex_pt%\%nzogps_ex_pt%.csv echo Address files not found in zip file %nzogps_dl_fn% & goto :eof
@@ -22,15 +22,15 @@ if not exist %nzogps_ex_pt%\%nzogps_ex_pt%.csv echo Address files not found in z
 
 :xx
 cd ..\scripts\postgres
-call update-pilot.bat
+call update.bat
 if errorlevel 1 goto :eof
 if [%1] == [STOP] goto :eof
 cd ..
-start %nzogps_donumbers% PILOT
+start %nzogps_donumbers%
 cd ..\linzdataservice
-%nzogps_ruby_cmd% pg-road-parser-pilot.rb
+%nzogps_ruby_cmd% pg-road-parser.rb
 cd ..\scripts
-call dochecks.bat PILOT
-call colouriseall.bat PILOT
+call dochecks.bat
+call colouriseall.bat
 if errorlevel 1 goto :eof
-call %nzogps_linznumb% PILOT
+call %nzogps_linznumb%

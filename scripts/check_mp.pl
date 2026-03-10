@@ -32,6 +32,7 @@ my %bynodid;
 my %debug = (
 	sbid			=> 0,
 	OEZCheck		=> 0,	# 1 or linzid or regex e.g '3063230|1830369'
+	OEZCheck1s		=> 0,
 	overlaperr		=> 0, #3083691,	# 1 or linzid or regex e.g '3063230|1830369'
 	olcheck			=> 0, #3083691,	# 1 or linzid or regex e.g '3063230|1830369'
 	ol1numtype		=> 0, #3083691,	# 1 or linzid or regex e.g '3063230|1830369'
@@ -804,7 +805,6 @@ sub overlap_one_numbered_section {
 	my $errnod;
 	my %numset;
 	my $debugthis = 0;
-	
 	my $roadlstp = shift;
 
 	for my $jp (@$roadlstp){ #for each road of this id
@@ -863,47 +863,66 @@ sub OEZ_check_one_side {
 #	print "Check one side zero: @_\n";
 	my @n = @_;
 	my $error = 0;
+	my $errmsg = "";
+	my $debugthis = 0;
+
+	$debugthis = $debug{'OEZCheck1s'};
 	given ($n[0]) {
 		when (/[BOEN]/){
 			# do nothing - as expected
 		}
 		default {
-			print "* Error - Unrecognised numbering type: $n[0]\n";
+			my $errmsgp = "* Error - Unrecognised numbering type: $n[0]";
+			print $errmsgp,"\n";
+			$errmsg .= $errmsgp;
 			$error = 1;
 		}
 	}
 	if ($n[0] ne 'N') {
 		if ($n[1]<=0) {
-			print "Warning - Number[$n[4]] from $n[1] to $n[2]\n";
+			my $errmsgp = "Warning - Number[$n[4]] from $n[1] to $n[2]";
+			print $errmsgp,"\n";
+			$errmsg .= $errmsgp;
 			$error |= 1;
 		}
 		if ($n[2]<=0) {
-			print "Warning - Number[$n[4]] from $n[1] to $n[2]\n";
+			my $errmsgp = "Warning - Number[$n[4]] from $n[1] to $n[2]";
+			print $errmsgp,"\n";
+			$errmsg .= $errmsgp;
 			$error |= 2;
 		}
 	}
 	if ($n[0] eq "E"){
 		if ($n[1]>0 && $n[1]%2) { # >0 to avoid reiterating for -1
-			print "Warning - Number[$n[4]]: $n[1] is not even\n";
+			my $errmsgp = "Warning - Number[$n[4]]: $n[1] is not even";
+			print $errmsgp,"\n";
+			$errmsg .= $errmsgp;
 			$error |= 1;
 		}
 		if ($n[2]>0 && $n[2]%2) {
-			print "Warning - Number[$n[4]]: $n[2] is not even\n";
+			my $errmsgp = "Warning - Number[$n[4]]: $n[2] is not even";
+			print $errmsgp,"\n";
+			$errmsg .= $errmsgp;
 			$error |= 2;
 		}
 	}
 	if ($n[0] eq "O"){
 		if (($n[1]+1)%2) { 
-			print "Warning - Number[$n[4]]: $n[1] is not odd\n";
+			my $errmsgp = "Warning - Number[$n[4]]: $n[1] is not odd";
+			print $errmsgp,"\n";
+			$errmsg .= $errmsgp;
 			$error |= 1;
 		}
 		if (($n[2]+1)%2) {
-			print "Warning - Number[$n[4]]: $n[2] is not odd\n";
+			my $errmsgp = "Warning - Number[$n[4]]: $n[2] is not odd";
+			print $errmsgp,"\n";
+			$errmsg .= $errmsgp;
 			$error |= 2;
 		}
 	}
-	return $error;
-}	
+	if ($debugthis && $error) {print "OEZ_check_one_side returning $error, $errmsg\n";}
+	return ($error,$errmsg);
+}
 
 
 sub odd_even_zero_check {
@@ -913,19 +932,22 @@ sub odd_even_zero_check {
 	my $nptr;
 	my $l; my $r; my $stend;
 	my $n1; my $n2;
+	my $lerrmsg; my $rerrmsg;
+	my $rdn;
 	my $debugthis = 0;
 	
 	print "Check numbers for incorrect odd/even values...\n";
 	
 	for my $road (@roads) {
+		$rdn = defined $$road[2][0] ? $$road[2][0] : "(blank)";
 		$debugthis = $debug{'OEZCheck'} && ( $debug{'OEZCheck'} eq '1' || grep {/$debug{'OEZCheck'}/} $$road[18][0] );
 		@numa = @{$$road[11]};
 		if ($debugthis){ print "OEZCh-Label: $$road[2][0]\n" }#label
-		for ($i=0; $i<$$road[14];$i++) {	
+		for ($i=0; $i<$$road[14];$i++) {
 			$nptr = $numa[$i];
 			if ($debugthis){ print "OEZCh index: $i nptr: @$nptr\n"}
-			$l = OEZ_check_one_side(@$nptr[1..3,8,7]); #returns bitmask start = 1 end = 2
-			$r = OEZ_check_one_side(@$nptr[4..6,8,7]);
+			($l,$lerrmsg) = OEZ_check_one_side(@$nptr[1..3,8,7]); #returns bitmask start = 1 end = 2
+			($r,$rerrmsg) = OEZ_check_one_side(@$nptr[4..6,8,7]);
 			$stend = $l | $r;
 			$n2 = -1;
 			if ( $stend & 1 ){
@@ -946,10 +968,11 @@ sub odd_even_zero_check {
 						$n1 = ${$numa[$i+1]}[0];
 					}
 			}
-			if ( $stend ){			
+			if ( $stend ){
 				if ($debugthis){ print "OEZ - nodes $n1, $n2\n"}
 				dump_id2($road,$n1,$n2);
 				print "\n";
+				print MISSFILE "$$road[10][$n1],$$road[9][$n1],$lerrmsg$rerrmsg,$rdn\n";
 			}
 		}
 	}
@@ -1519,19 +1542,27 @@ sub levels_check{
 	);
 	print "check for roads of type=0 or too low a level...\n";
 	for my $road (@roads) {
+		my $rdn = defined $$road[2][0] ? $$road[2][0] : "(blank)";
 		my $level = $$road[3];
 		my $type = $$road[1];
 		if (oct($type) == 0 ) {
-			print "Road has type = 0: \t";
+			my $errmsg = "Road has type = 0";
+			print $errmsg,":\t";
 			dump_id2($road,0,-1);
+			print MISSFILE "$$road[10][0],$$road[9][0],$errmsg,$rdn\n";
+
 		}
 		if ($level < 1) {
-			print "Road on level 0 only:\t";
+			my $errmsg =  "Road on level 0 only";
+			print $errmsg,":\t";
 			dump_id2($road,0,-1);
+			print MISSFILE "$$road[10][0],$$road[9][0],$errmsg,$rdn\n";
 		} else {
 			if ( $roads_for_level_3{$type} && $level < 3 ){
-				print "Road on level$level only:\t";
+				my $errmsg = "Road on level$level only";
+				print $errmsg,":\t";
 				dump_id2($road,0,-1);
+				print MISSFILE "$$road[10][0],$$road[9][0],$errmsg,$rdn\n";
 			}
 		}
 	}	
@@ -1580,9 +1611,9 @@ sub read_number_csv {
 		$idnm = "Linzid";
 		$idformat = "(\"?)(\\d+)\\1";
 		if (defined ($cmdopts{P})){
-			$fn = "${d1}scripts\\outputs\\$f1-numbers-pilot.csv";
+			$fn = "${d1}scripts\\outputs\\$f1-numbers.csv";
 		} else {
-			$fn = "${d1}numbers\\$f1-numbers-linzid.csv";
+			$fn = "${d1}numbers\\$f1-numbers.csv";
 		}
 	}
 	

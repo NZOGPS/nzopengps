@@ -1,6 +1,8 @@
-Start = 2026-03-02 10:58:59 +1300
+Start = 2026-03-11 01:15:11 +1300
 linzid	street_name	street_name_2	official_street_name
+3085357	Joseph Way		Joseph Dr	-43.60338,172.40846
+3085358	McGookin Way		McGookin St	-43.60480,172.41035
 #############################
 
-Finish = 2026-03-02 10:59:03 +1300
-Processing time = 4.017076
+Finish = 2026-03-11 01:15:16 +1300
+Processing time = 4.364828

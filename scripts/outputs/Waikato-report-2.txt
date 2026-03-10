@@ -1,18 +1,17 @@
-Start = 2026-03-02 10:58:30 +1300
+Start = 2026-03-11 01:14:45 +1300
 #############################
 
 0 LINZ ids are missing from NZOGPS Waikato
 #############################
 
-1 LINZ ids are in NZOGPS Waikato but missing from LINZ
-;linzid=3029595	Te Kitenga A Te Reti	-37.69799,176.13318
+3 LINZ ids are in NZOGPS Waikato but missing from LINZ
+;linzid=3083567	Pahiwai Rd	-37.68027,175.15436
+;linzid=3083568	Kauhuri Rd	-37.68102,175.15597
+;linzid=3083569	Kopura Pl	-37.68046,175.15522
 #############################
 
 0 Number range ids are missing from NZOGPS Waikato
 #############################
 
-0 Number range ids are in NZOGPS Waikato but missing from LINZ
-#############################
-
-Finish = 2026-03-02 10:58:36 +1300
-Processing time = 5.797579
+Finish = 2026-03-11 01:14:51 +1300
+Processing time = 5.334658

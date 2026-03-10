@@ -31,7 +31,7 @@ all : $(addsuffix .zip,$(TILES))
 pilot : $(addsuffix .zip,$(TILESP))
 .PHONY: pilot
 
-install-csv : $(addsuffix -numbers-linzid.csv,$(addprefix $(NUMBERS)\,$(TILES)))
+install-csv : $(addsuffix -numbers.csv,$(addprefix $(NUMBERS)\,$(TILES)))
 .PHONY: install
 
 install-gdb : $(addsuffix -numbers.gdb,$(addprefix $(NUMBERS)\,$(TILES)))
@@ -43,7 +43,7 @@ install :  install-csv install-gdb
 %-P.zip : $(LINZO)\%-P-LINZ-V5.mp $(LINZO)\%-P-LINZ-V4.mp $(OUTPUTS)\%-report-2-P.txt $(OUTPUTS)\%-report-6-P.txt $(OUTPUTS)\%-numbers-pilot.csv $(OUTPUTS)\%-numbers-pilot.gdb 
 	$(ZIPIT) $@ $?
 
-%.zip : $(LINZO)\%-LINZ-V5.mp $(LINZO)\%-LINZ-V4.mp $(OUTPUTS)\%-report-2.txt $(OUTPUTS)\%-report-6.txt $(OUTPUTS)\%-numbers-linzid.csv $(OUTPUTS)\%-numbers.gdb 
+%.zip : $(LINZO)\%-LINZ-V5.mp $(LINZO)\%-LINZ-V4.mp $(OUTPUTS)\%-report-2.txt $(OUTPUTS)\%-report-6.txt $(OUTPUTS)\%-numbers.csv $(OUTPUTS)\%-numbers.gdb 
 	$(ZIPIT) $@ $?
 
 %-LINZ-V3.mp : %-LINZ.mp $(OUTPUTS)\%-report-2.txt
@@ -55,7 +55,7 @@ install :  install-csv install-gdb
 %-LINZ-V5.mp : %-LINZ-V4.mp
 	$(PERL) -ne "print unless /;linz_/" $? >$@
 
-%-LINZ.mp : $(LINZ)\lds-nz-road-centre-line-electoral-SHP\nz-road-centre-line-electoral.shp
+%-LINZ.mp : $(LINZ)\nz-addresses-roads\nz-addresses-roads.csv
 	cd $(LINZ) && $(RUBY) shape-parser.rb
 
 postgres\nz-street-address.sql : $(LINZ)\lds-nz-street-address-electoral-SHP\nz-street-address-electoral.shp
@@ -81,16 +81,16 @@ $(LINZ)\lds-nz-street-address-electoral-SHP\nz-street-address-electoral.shp : $(
 	move $(DLOAD)\lds-nz-street-address-electoral-SHP.zip $(LINZ)
 	$(PERL) $(LINZ)\renzip.pl $(LINZ)\lds-nz-street-address-electoral-SHP
 
-$(OUTPUTS)\\%-report-2.txt : ..\%.mp $(PAPERRDS)\%.txt
+$(OUTPUTS)\\%-report-2.txt : ..\%.mp $(LINZO)\%-LINZ.mp $(PAPERRDS)\%.txt 
 	$(RUBY) parseMP.rb $(call tilenum, $(notdir $*)) 2
 
 $(OUTPUTS)\\%-report-6.txt : ..\%.mp $(LINZO)\%-LINZ.mp
 	$(RUBY) parseMP.rb $(call tilenum, $(notdir $*)) 6
 	
-$(OUTPUTS)\\%-report-2-P.txt : ..\%.mp $(PAPERRDS)\%.txt
+$(OUTPUTS)\\%-report-2-P.txt : ..\%.mp $(LINZO)\%-P-LINZ.mp $(PAPERRDS)\%.txt
 	$(RUBY) parseMP.rb $(call tilenum, $(notdir $*)) 2-P
 
-$(OUTPUTS)\\%-report-6-P.txt : ..\%.mp $(LINZO)\%-LINZ.mp
+$(OUTPUTS)\\%-report-6-P.txt : ..\%.mp $(LINZO)\%-P-LINZ.mp
 	$(RUBY) parseMP.rb $(call tilenum, $(notdir $*)) 6-P
 
 $(NUMBERS)\\%-numbers.gdb : $(OUTPUTS)\%-numbers.gdb
@@ -100,15 +100,15 @@ $(NUMBERS)\\%-numbers.gdb : $(OUTPUTS)\%-numbers.gdb
 $(NUMBERS)\\%-numbers.gdb : %.zip
 	$(UNZIP) -o$(NUMBERS) $< $(notdir $@)
 
-$(NUMBERS)\\%-numbers-linzid.csv : $(OUTPUTS)\%-numbers-linzid.csv
+$(NUMBERS)\\%-numbers.csv : $(OUTPUTS)\%-numbers.csv
 	if exist $(subst /,\,$@)  move /Y $(subst /,\,$@) $(addsuffix .old,$(subst /,\,$@))
 	copy  $(subst /,\,$<)  $(subst /,\,$@)
 	
-$(NUMBERS)\\%-numbers-linzid.csv : %.zip
+$(NUMBERS)\\%-numbers.csv : %.zip
 	$(UNZIP) -o$(NUMBERS) $< $(notdir $@)
 	
 $(OUTPUTS)\\%-numbers.gdb : database.date
 	$(RUBY) parseMP.rb $(call tilenum, $(notdir $*)) 5
 
-$(OUTPUTS)\\%-numbers-linzid.csv :database.date
+$(OUTPUTS)\\%-numbers.csv :database.date
 	$(RUBY) parseMP.rb $(call tilenum, $(notdir $*)) 4

@@ -1,21 +1,15 @@
-Start = 2026-03-02 10:58:41 +1300
+Start = 2026-03-11 01:14:33 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Central
+1 LINZ ids are missing from NZOGPS Central
+;linzid=3085920	Te Ara O Karipo	-39.1211496606943,173.948049007705
 #############################
 
-4 LINZ ids are in NZOGPS Central but missing from LINZ
-;linzid=3046725	Old Orchard Rd	-39.00483,176.55258
-;linzid=3026581	South Rd	-39.58079,174.22984
-;linzid=3042544	Lawson St	-40.09971,175.38269
-;linzid=3063400	Neal Dow St	-40.09883,175.37797
+0 LINZ ids are in NZOGPS Central but missing from LINZ
 #############################
 
 0 Number range ids are missing from NZOGPS Central
 #############################
 
-0 Number range ids are in NZOGPS Central but missing from LINZ
-#############################
-
-Finish = 2026-03-02 10:58:44 +1300
-Processing time = 3.60268
+Finish = 2026-03-11 01:14:37 +1300
+Processing time = 4.260623

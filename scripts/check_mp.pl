@@ -18,6 +18,7 @@ my $nzogps = "nzopengps";
 my $maxlbl = 3;
 my $comment;
 my @roads;
+my @roadsh;
 my @polygons;
 my @namesnot2index;
 my %bysufi;
@@ -245,6 +246,7 @@ sub do_polyline{
 	my @numarray;
 	my @nodarray;
 	my $i;
+	my %thisrd;
 
 	while (<>){
 		if (/^Type=(.*)$/)			{ $type = $1 };
@@ -289,6 +291,29 @@ sub do_polyline{
 			}
 			parsenums(\@numarray,@numbers);
 			parsenods(\@nodarray,\@x,\@y,@nods);
+			
+			%thisrd = (
+				comment		=> $comment,
+				type		=> $type,
+				label		=> \@label,
+				endlevel	=> $endlevel,
+				cityidx		=> $cityidx,
+				x			=> \@x,
+				y			=> \@y,
+				numarray	=> \@numarray,
+				nods		=> \@nods,
+				label2		=> $label2,
+				numnum		=> $numnum,
+				nodarray	=> \@nodarray,
+				dirindic	=> $dirindicator,
+				autonum		=> $autonum,
+				linzid		=> \@linzid,
+				linznumid	=> $linznumid,
+				dontfind	=> $dontfind
+			);
+
+			push @roadsh,%thisrd;
+			
 			push @roads,[$comment,$type,\@label,$endlevel,$cityidx,$roadid,$routeparam,$lineno,\@sufi,\@x,\@y,\@numarray,\@nods,$label2,$numnum,\@nodarray,$dirindicator,$autonum,\@linzid,$linznumid,$dontfind];
 #			-------------0--------1-------2-----3---------4--------5-------6-----------7--------8------9---10--11---------12----13------14-------15---------16-----------17-------18-------19
 			last;

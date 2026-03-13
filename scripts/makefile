@@ -58,28 +58,13 @@ install :  install-csv install-gdb
 %-LINZ.mp : $(LINZ)\nz-addresses-roads\nz-addresses-roads.csv
 	cd $(LINZ) && $(RUBY) shape-parser.rb
 
-postgres\nz-street-address.sql : $(LINZ)\lds-nz-street-address-electoral-SHP\nz-street-address-electoral.shp
-	time /t
-	$(PSQL)shp2pgsql -d -D -s4167 $<  nz-street-address-elector > postgres\nz-street-address.sql
-	time /t
-
-database.date : postgres\nz-street-address.sql
+database.date : $(LINZ)\nz-addresses-pilot\nz-addresses-pilot.csv
 	time /t
 	$(PSQL)psql -U postgres -d nzopengps < postgres\nz-street-address.sql
 	time /t
 	$(PSQL)psql -U postgres -d nzopengps < postgres\postproc.sql
 	TOUCH database.date
 	time /t
-
-$(LINZ)\lds-nz-road-centre-line-electoral-SHP\nz-road-centre-line-electoral.shp : $(DLOAD)\lds-nz-road-centre-line-electoral-SHP.zip 
-	$(UNZIP) -o $< $(dir $@)
-	move $(DLOAD)\lds-nz-road-centre-line-electoral-SHP.zip $(LINZ)
-	$(PERL) $(LINZ)\renzip.pl $(LINZ)\lds-nz-road-centre-line-electoral-SHP
-
-$(LINZ)\lds-nz-street-address-electoral-SHP\nz-street-address-electoral.shp : $(DLOAD)\lds-nz-street-address-electoral-SHP.zip
-	$(UNZIP) -o $< $(dir $@)
-	move $(DLOAD)\lds-nz-street-address-electoral-SHP.zip $(LINZ)
-	$(PERL) $(LINZ)\renzip.pl $(LINZ)\lds-nz-street-address-electoral-SHP
 
 $(OUTPUTS)\\%-report-2.txt : ..\%.mp $(LINZO)\%-LINZ.mp $(PAPERRDS)\%.txt 
 	$(RUBY) parseMP.rb $(call tilenum, $(notdir $*)) 2

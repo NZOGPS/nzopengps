@@ -1,24 +1,11 @@
-Start = 2026-03-11 01:14:51 +1300
+Start = 2026-03-13 23:08:27 +1300
 #############################
 
-17 LINZ ids are missing from NZOGPS Auckland
-;linzid=3085882	Rosey Lane	-36.4119069109788,174.663767089725
-;linzid=3085883	Shamus Lane	-36.4117846778707,174.664254489454
+4 LINZ ids are missing from NZOGPS Auckland
 ;linzid=3079016	Albany Expressway	-36.7336222833,174.7079013833
-;linzid=3085919	Arvins Cl	-36.9103356220341,174.627782984412
-;linzid=3085922	Mihi Te Rina Grv	-36.7568561778158,174.695120378813
-;linzid=3085923	Araara Pl	-36.7558889730288,174.694298254744
-;linzid=3085924	Tawharuwharu Lane	-36.7561866786622,174.694419155342
-;linzid=3085926	Taihua St	-37.0797378430864,174.908101605659
-;linzid=3085927	Te Arawaru St	-37.0797378430864,174.908101605659
-;linzid=3085928	Tai Pari Way	-36.6387731588438,174.720424343676
-;linzid=3085929	Rivers Landing Cl	-36.7249227384356,174.627316617711
-;linzid=3085925	Raki O Rua Cres	-36.7566433927627,174.694573908108
-;linzid=3085930	Valmoore Way	-36.7249227384356,174.627316617711
 ;linzid=3085863	Huruwhenua Lane	-36.7730963492798,174.495966839718
 ;linzid=3085872	Antler Lane	-36.7611094212849,174.698323501535
 ;linzid=3085894	Te Toka A Whenua Ave	-36.9050128988204,174.757080983138
-;linzid=3085842	Seasons Way	-36.7597272706432,174.695391196089
 #############################
 
 0 LINZ ids are in NZOGPS Auckland but missing from LINZ
@@ -27,5 +14,5 @@ Start = 2026-03-11 01:14:51 +1300
 0 Number range ids are missing from NZOGPS Auckland
 #############################
 
-Finish = 2026-03-11 01:14:55 +1300
-Processing time = 4.347643
+Finish = 2026-03-13 23:08:31 +1300
+Processing time = 3.716335

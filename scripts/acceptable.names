@@ -19,6 +19,9 @@ Service Lane,Service Rd
 Roadway,Forestry Roadway
 
 #Stuff in Auckland tile
+Bluff Rd,Bluff Rd (closed by slip)
+Valley Rd,Valley Rd (off-road vehicles only)
+Hull Rd,Hull Rd (4WD only, closed in Winter)
 
 #Stuff in Waikato tile
 Lorenzen Bay Rd,Sunshine Rise

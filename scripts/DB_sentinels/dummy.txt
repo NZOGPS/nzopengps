@@ -1,0 +1,1 @@
+Dummy file to force folder creation of shared database sentinels folder

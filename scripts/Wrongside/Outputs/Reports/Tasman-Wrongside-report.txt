@@ -1,13 +1,14 @@
 35 entries in V:\nzopengps\LinzDataService\PaperRoads\Tasman-WrongSide.txt
 113 entries in V:\nzopengps\LinzDataService\PaperRoads\Tasman-LINZWrongSide.txt
-94 wrongside numbers,  not in Exclusion files
-4 entries in Ignore list are no longer on the wrong side
+87 wrongside numbers,  not in Exclusion files
+5 entries in Ignore list are no longer on the wrong side
 2311349	50/11 Cube Court, Richmond	2025/09/14 22:53	-41.330888,173.171308
+641623	17 Seawatch Way, Atawhai, Nelson	2022/02/04 13:25	-41.255562,173.315656
 2311308	24/11 Cube Court, Richmond	2025/09/14 22:52	-41.330960,173.171392
 2311351	54/11 Cube Court, Richmond	2025/09/14 22:53	-41.330735,173.171535
 2311350	52/11 Cube Court, Richmond	2025/09/14 22:53	-41.330807,173.171416
 
-50 entries in Linz list are no longer on the wrong side
+56 entries in Linz list are no longer on the wrong side
 1308030	291 BILL BRYANTS ROAD	2014/06/10 20:34	-41.044106,173.751340
 398370	126 Uruwhenua Road	2014/07/18 23:49	-40.996303,172.815299	Slightly the wrong side of the physical road
 1932207	590 Abel Tasman Drive, Clifton	2019/05/12 16:55	-40.843652,172.864235	Other addresses on this road match RAPID numbering.
@@ -28,10 +29,14 @@
 399793	25 Richards Road, Mangarakau	2022/02/04 13:30	-40.643866,172.431766	Seems in the middle of the formed road. Matching dwelling is at S40°38.6355' E172°25.8875'
 1303626	121 CARLUKE ROAD	2014/06/10 22:21	-41.225083,173.595095
 301206	106 Bryant Road	2014/07/19 15:03	-41.364699,173.108788
+330323	136 Lamberts Road	2014/07/18 23:47	-41.458695,173.784673
 339698	6771 KENEPURU ROAD	2014/06/10 20:50	-41.171808,173.967035
 1849064	500 Hamama Road, Takaka	2019/05/12 16:48	-40.930313,172.770670	There's a drive matching RAPID numbering at	S40°55.7920' E172°46.2422'
+2293505	645 Anakoha Road, Anakoha, Marlborough Sounds	2025/09/16 00:35	-41.058375,174.112693
 1540359	131 MERRIFIELDS ROAD	2014/06/10 00:21	-41.698827,174.120607
 1769237	2/55 Birchfield Road, Waimangaroa, Westport	2025/09/16 01:00	-41.701784,171.771223
+2303767	217 Avondale Road, Waihopai Valley	2025/09/16 00:30	-41.632477,173.682233
+72295	191 Merrifields Road, Blind River	2019/05/12 17:42	-41.694866,174.125546	Other addresses match RAPID. Nothing obvious at RAPID location.
 400357	157 Grant Road Puramahoi	2014/07/18 23:51	-40.784780,172.742088	 On the physical road
 587299	87 St Omer Road, Saint Omer	2022/02/04 13:30	-41.183473,173.975779
 337002	26 CAMPBELLS ROAD	2014/06/10 21:54	-41.428888,173.962823
@@ -48,11 +53,13 @@
 1659187	54 Rayners Road	2014/07/19 01:14	-41.220113,173.377346
 1377429	8 Fourth Lane	2014/07/19 13:52	-41.515052,173.954068	2 and 8 on either side
 2008383	60 Horizon Way, Riwaka	2019/05/12 18:52	-41.078864,172.976667	This one's a bit strange. There's a dwelling matching 60, but there's another address there.
+1470237	583 Te Towaka-Port Ligar Road, Admiralty Bay, Marlborough Sounds	2025/09/16 00:32	-40.980520,173.872948
 328252	127 PARSONS ROAD	2014/06/09 23:54	-41.592924,173.513796
 1308039	875 BILL BRYANTS ROAD	2014/06/10 20:36	-41.040827,173.723657
 1015224	1359 MCCALLUMS MILL ROAD	2014/06/09 22:01	-41.151400,172.191000
 1310764	2943 Kenepuru Road, Portage	2022/02/04 13:47	-41.200660,174.035523	ditto
 1308037	703 BILL BRYANTS ROAD	2014/06/10 20:36	-41.040656,173.730720
+957116	52 LITTLE POKORORO ROAD	2014/06/10 11:15	-41.194391,172.860665
 1310763	2941 Kenepuru Road, Portage	2022/02/04 13:47	-41.200861,174.035618	Amid a whole lot of even numbers.
 1015223	1350 MCCALLUMS MILL ROAD	2014/06/09 22:00	-41.151900,172.190000
 339747	17 HUNTER ROAD	2014/06/10 21:53	-41.430385,173.965751

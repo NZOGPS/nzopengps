@@ -1,5 +1,5 @@
 Alter table :numstable add primary key (address_id);
-Create Index idx_:numstable ON :numstable USING btree (rna_id);
+Create Index idx_:numstable ON :numstable USING btree (road_id);
 
 Alter Table :numstable Add Column  nztm geometry(Point,2193);
 update :numstable set nztm = st_transform(wkb_geometry,2193);

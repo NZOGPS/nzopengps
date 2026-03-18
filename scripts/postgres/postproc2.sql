@@ -43,4 +43,5 @@ CREATE INDEX idx_rna_nza_id_is_odd_p ON :ADD_TBL USING btree (road_id,is_odd);
 CREATE INDEX idx_road_id_p_s ON :ROAD_TBL_S USING btree (road_id);
 
 VACUUM ANALYSE :ROAD_TBL;
+VACUUM ANALYSE :ROAD_TBL_S;
 VACUUM ANALYSE :ADD_TBL;

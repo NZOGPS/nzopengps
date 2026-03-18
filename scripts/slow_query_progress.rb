@@ -5,7 +5,7 @@ require 'progressbar'
 require 'pp'
 
 DEBUG=false
-options = {:table => nil, :id => nil, :query => nil, :label => nil, :where => nil}
+options = {:table => nil, :id => nil, :query => nil, :label => nil, :where => nil, :print => nil}
 
 def do_options(options)
 print "do_options\n" if DEBUG
@@ -22,6 +22,10 @@ print "do_options\n" if DEBUG
 
 		opts.on('-q', '--query QUERY', 'query') do |query|
 			options[:query] = query
+		end
+		
+		opts.on('-p', '--print') do 
+			options[:print] = true
 		end
 
 		opts.on('-l', '--label LABEL', 'label') do |label|
@@ -96,6 +100,9 @@ def doit(options)
 	within_set=0
 
 	if rdscnt > 0 then
+		if options[:print]
+			print "query is: update #{options[:table]} sqptbl #{options[:query]} #{whereclause} sqptbl.#{options[:id]} = val(#[options[:id]]}\n"
+		end
 		@pbar = ProgressBar.create(:title=>options[:label], :total=>rdscnt, :length=>100)
 		rs.each do |eachval|
 			print "eachval is: " + eachval.to_s + "\n" if DEBUG

@@ -34,11 +34,11 @@ CREATE TABLE :ROAD_TBL_S -- nz_addresses_roads_s
 \set tblcomment 'New (2026) addressing roads split into LineString ' :tblcommentbase
 COMMENT ON TABLE :ROAD_TBL_S IS :'tblcomment';
 
-SELECT 'IS ODD',NOW(); -- ~1 min 2026/1/24 2 min 2026/02/23
+SELECT 'IS ODD',NOW(); -- Following: ~1 min 2026/1/24 2 min 2026/02/23 13 min on on elecst11 on 26/03/18
 UPDATE :ADD_TBL SET is_odd = MOD(address_number,2) = 1;
 UPDATE :ADD_TBL SET updated = :'nowtxt';
 
-select 'binarise is_land',NOW(); -- ~ 1 min 30 2026/02/23
+select 'binarise is_land',NOW(); -- ~ 1 min 30 2026/02/23 15 min on on elecst11 on 26/03/18
 ALTER TABLE :ADD_TBL RENAME COLUMN is_land TO is_land_txt;
 ALTER TABLE :ADD_TBL ADD COLUMN is_land boolean;
 UPDATE :ADD_TBL SET is_land = is_land_txt::BOOLEAN;

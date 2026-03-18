@@ -17,7 +17,8 @@ LINZO = $(LINZ)\outputslinz
 NZSL = nz-suburbs-and-localities
 NUMBERS = $(BASE)\numbers
 OUTPUTS = Outputs
-PSQL = $(nzogps_psql_bin)\psql
+SENTINELD = ../DB_sentinels
+PSQLC = $(nzogps_psql_bin)\psql -U postgres -d nzopengps
 ZIPIT = $(nzogps_zip_cmd)
 UNZIP = $(nzogps_unzip_cmd)
 RUBY = $(nzogps_ruby_cmd)
@@ -30,8 +31,16 @@ tilenum = $(subst Northland,1,$(subst Auckland,2,$(subst Waikato,3,$(subst Centr
 all : $(addprefix $(OUTPUTS)/, $(addsuffix -WrongCities2.csv, $(TILES)))
 .PHONY: all
 
-$(OUTPUTS)/%-WrongCities2.csv : $(BASE)/%.mp $(LINZ)/$(NZSL).sentinel $(LINZ)/CityXlate/%_cidxlt.csv $(LINZ)/CityXlate/%_dont_cityindex.csv
-	process_tile.bat $*
+$(SENTINELD)/%-numberlines.sentinel : $(BASE)/%.mp
+	cd SQLData && $(PERL) ..\..\mp_2_n_sql2.pl -ci $(BASE)/$*.mp
+	$(PSQLC) -f SQLData\$*_numberlines.sql
+	# for other checks
+	$(PSQLC) -f SQLData\$*_cities.sql
+	$(PSQLC) -f SQLData\$*_pois.sql
+	echo %date% %time% > ..\DB_sentinels\$*-numberlines.sentinel
+
+$(OUTPUTS)/%-WrongCities2.csv : $(SENTINELD)/%-numberlines.sentinel $(LINZ)/$(NZSL).sentinel $(LINZ)/CityXlate/%_cidxlt.csv $(LINZ)/CityXlate/%_dont_cityindex.csv
+	process_tile.bat numDBdone $*
 
 $(LINZ)\lds-$(NZSL)-CSV\$(NZSL).csv : $(DLOAD)\lds-$(NZSL)-CSV.zip
 	if exist $(LINZ)\lds-$(NZSL)-CSV\* del /Q $(LINZ)\lds-$(NZSL)-CSV\*
@@ -43,5 +52,5 @@ $(LINZ)\lds-$(NZSL)-CSV\$(NZSL).csv : $(DLOAD)\lds-$(NZSL)-CSV.zip
 $(LINZ)/$(NZSL).sentinel : $(LINZ)\lds-$(NZSL)-CSV\$(NZSL).csv
 	$(OGR2OGR) --config PG_USE_COPY TRUE -f "PostgreSQL" "PG:host=localhost user=postgres  dbname=nzopengps" -lco OVERWRITE=yes -lco GEOMETRY_NAME=wkb_geometry -oo GEOM_POSSIBLE_NAMES=WKT $<
 	$(PSQL) -U postgres -d nzopengps < Code\postproc.sql
-	echo database updated %date% sentinel > $@
+	echo $(NZSL) database updated %date% $time% sentinel > $@
 

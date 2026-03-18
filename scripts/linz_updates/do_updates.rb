@@ -13,6 +13,9 @@ SALO=  {layer: 113764, csfn: "layer_113764_cs",   tbln: "nz_suburbs_and_localiti
 
 LAST_FN="LINZ_last.date"
 LAST_SAL="LINZ_last_SAL.date"
+SAL_SENTINEL="..\..\LinzDataService\nz-suburbs-and-localities.sentinel"
+ADD_SENTINEL="..\database.date"
+
 DEBUG=true
 
 options = {:download => true, :postgres => true, :updates => true, :continue => false, :suburbs => false, :from => nil, :until => nil, :SALfrom => nil, :doaddress => true}
@@ -572,12 +575,18 @@ if (options[:download] && options[:postgres] && options[:updates])
 			file.puts "# time is in UTC"
 			file.puts "# set by #{__FILE__}"
 		end
+		File.open(ADD_SENTINEL, 'a') do |file| 
+			file.puts "#address database updated by #{__FILE__} until: #{options[:until]} at #{options[:currtime]}"
+		end
 	end
 	if (options[:suburbs])
 		File.open(LAST_SAL, 'w') do |file| 
 			file.puts "#{options[:until]}"
 			file.puts "# time is in UTC"
 			file.puts "# set by #{__FILE__}"
+		end
+		File.open(SAL_SENTINEL, 'a') do |file| 
+			file.puts "#suburbs database updated by #{__FILE__} until: #{options[:until]} at #{options[:currtime]}"
 		end
 	end
 end

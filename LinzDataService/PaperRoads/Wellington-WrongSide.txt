@@ -50,3 +50,4 @@
 1565486	6K Pascoe Avenue, Paremata, Porirua	2025/10/10 00:41	-41.095701,174.867802
 1439218	19 Kabul Street, Khandallah, Wellington	2025/10/11 18:38	-41.255283,174.784818
 1439219	19A Kabul Street, Khandallah, Wellington	2025/10/11 18:38	-41.255534,174.784869
+3106716	28B Bracken Street, Petone, Lower Hutt	2026/03/16 21:17	-41.222903,174.894296

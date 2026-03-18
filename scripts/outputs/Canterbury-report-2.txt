@@ -1,7 +1,22 @@
-Start = 2026-03-13 22:22:48 +1300
+Start = 2026-03-17 13:28:38 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Canterbury
+15 LINZ ids are missing from NZOGPS Canterbury
+;linzid=3085942	Burns Cres	-43.657214701104,172.46595690443
+;linzid=3085943	Degree Way	-43.6577611389563,172.467591019552
+;linzid=3085944	Professor Way	-43.6577707324931,172.466765975389
+;linzid=3085945	Diploma Way	-43.6578184089523,172.466003152042
+;linzid=3085933	Jed Way	-43.626696870873,172.376581246374
+;linzid=3085935	Rig Lane	-43.6266768778703,172.374910882327
+;linzid=3085936	Scholars Qtr Blvd	-43.6578690544818,172.46519282357
+;linzid=3085937	William Ivey Dr	-43.6590049921903,172.463993671701
+;linzid=3085938	Ross Lane	-43.6589510971111,172.465068761773
+;linzid=3085939	Hilgendorf Loop	-43.6577525848907,172.468326669198
+;linzid=3085940	Honours Dr	-43.6577611389563,172.467591019552
+;linzid=3085941	Hayward Dr	-43.656661609617,172.46594839533
+;linzid=3085946	Bachelor Way	-43.6578690544818,172.46519282357
+;linzid=3085973	Red Poppy Lane	-43.5706111181188,172.545912125415
+;linzid=3085934	Megan Way	-43.6266721536125,172.374907024114
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
@@ -10,5 +25,5 @@ Start = 2026-03-13 22:22:48 +1300
 0 Number range ids are missing from NZOGPS Canterbury
 #############################
 
-Finish = 2026-03-13 22:22:53 +1300
-Processing time = 4.5821
+Finish = 2026-03-17 13:28:43 +1300
+Processing time = 5.317868

@@ -3,6 +3,7 @@ if not exist ..\setlocals.bat echo ..\setlocals.bat not found. You need to copy 
 if not defined nzogps_base call ..\setlocals.bat
 @echo on
 %nzogps_git% pull -v
+if [%1]==[GOTF] goto gotf
 
 set nzogps_dl_fn=lds-new-zealand-2layers-CSV.zip
 @if not exist %nzogps_download%\%nzogps_dl_fn% echo new CSV download %nzogps_dl_fn% not found. & goto :eof
@@ -20,7 +21,7 @@ if not exist %nzogps_ex_pt%\%nzogps_ex_pt%.csv echo Address files not found in z
 
 %nzogps_perl_cmd% renzip.pl
 
-:xx
+:gotf
 cd ..\scripts\postgres
 call update.bat
 if errorlevel 1 goto :eof

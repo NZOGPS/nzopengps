@@ -2,7 +2,7 @@
 setlocal
 set nzogps_nzsl=nz_suburbs_and_localities
 set nzogps_nzta=regional_council
-set nzogps_nzad=nz_addressess
+set nzogps_nzad=nz_addresses
 set nzogps_nzrd=nz_addresses_roads
 set nzogps_nzadf=..\..\LinzDataService\%nzogps_nzad:_=-%\%nzogps_nzad:_=-%.csv
 set nzogps_nzrdf=..\..\LinzDataService\%nzogps_nzrd:_=-%\%nzogps_nzrd:_=-%.csv

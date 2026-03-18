@@ -116,7 +116,7 @@ def doit(options)
 	ended = Time.new
 	elapsed = ended-start
 	selapsed = Time.at(elapsed).utc.strftime("%0H:%0M:%0S")
-	print "#{within_set} lines processed\n" if DEBUG
+	print "#{within_set} lines updated\n"
 	print "Ended: #{ended} - Elapsed: #{selapsed}"
 end
 

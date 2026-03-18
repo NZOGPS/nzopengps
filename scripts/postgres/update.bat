@@ -1,4 +1,4 @@
-@echo on
+@echo off
 setlocal
 set nzogps_nzsl=nz_suburbs_and_localities
 set nzogps__taa=territorial_authority_ascii
@@ -50,12 +50,11 @@ if errorlevel 1 echo Error - %nzogps_nzta% table not found. & pause & exit /b 1
 %nzogps_psqlc% -v ADD_TBL=%nzogps_nzad% -v ROAD_TBL=%nzogps_nzrd% -f postproc1.sql
 :redosal
 REM update :ROAD_TBL_S rd
-REM set suburb_locality_ascii = sal.name_ascii,
-REM territorial_authority_ascii = sal.territorial_authority_ascii
-REM from nz_suburbs_and_localities sal where st_within(rd.wkb_geometry,sal.wkb_geometry) and watery is not true;
+REM 	set suburb_locality_ascii = sal.name_ascii, territorial_authority_ascii = sal.territorial_authority_ascii
+REM 	from nz_suburbs_and_localities sal where st_within(rd.wkb_geometry,sal.wkb_geometry) and watery is not true;
 pushd ..
-ruby slow_query_progress.rb -i ogc_fid -t %nzogps_nzrd_s% -q " set %nzogps__sla% = sal.name_ascii,%nzogps__taa% = sal.%nzogps__taa% from %nzogps_nzsl% sal" -w "st_within(sqptbl.wkb_geometry,sal.wkb_geometry) and watery is not true "
 REM 15 min on elecst11 on 26/03/19
+ruby slow_query_progress.rb -i ogc_fid -t %nzogps_nzrd_s% -q " set %nzogps__sla% = sal.name_ascii,%nzogps__taa% = sal.%nzogps__taa% from %nzogps_nzsl% sal" -w "st_within(sqptbl.wkb_geometry,sal.wkb_geometry) and watery is not true "
 popd
 
 REM update :ROAD_TBL_S rd
@@ -71,6 +70,7 @@ REM update :ROAD_TBL_S rd
 	REM ) as isect
 REM where rd.ogc_fid = isect.ogc_fid;
 :redosal2
+REM 17 min on elecst11 on 26/03/19
 pushd ..
 ruby slow_query_progress.rb -i ogc_fid -t %nzogps_nzrd_s% -q ^
 "set %nzogps__sla% = name_ascii,%nzogps__taa% = isect.%nzogps__taa% from ( SELECT distinct on (rd.ogc_fid) st_length(st_intersection(rd.wkb_geometry,sal.wkb_geometry)) as overlap, rd.ogc_fid, name_ascii, sal.%nzogps__taa% ^
@@ -79,5 +79,4 @@ order by rd.ogc_fid, overlap desc) as isect" -w  "sqptbl.ogc_fid = isect.ogc_fid
 popd
 %nzogps_psqlc% -v ADD_TBL=%nzogps_nzad% -v ROAD_TBL=%nzogps_nzrd% -v ROAD_TBL_S=%nzogps_nzrd_s% -f postproc2.sql
 echo %time%
-rem call add_burbs.bat 
 %nzogps_touch_cmd% ../database.date

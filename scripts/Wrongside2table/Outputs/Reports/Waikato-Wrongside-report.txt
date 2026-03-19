@@ -1,7 +1,7 @@
 111 entries in V:\nzopengps\LinzDataService\PaperRoads\Waikato-WrongSide.txt
 323 entries in V:\nzopengps\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-307 wrongside numbers, 25 not in Exclusion files
-29 entries in Ignore list are no longer on the wrong side
+305 wrongside numbers, 24 not in Exclusion files
+30 entries in Ignore list are no longer on the wrong side
 1600361	2/387 Pokuru Road North, Whakamaru	2018/03/10 23:37	-38.445878,175.834933
 1101260	35A Wallace Drive, Clarks Beach	2021/01/14 23:06	-37.137478,174.736281
 1311157	36A-36B STUART ROAD	2014/04/18 13:02	-37.163198,175.086101
@@ -23,6 +23,7 @@
 844475	2034 GALATEA ROAD	2013/10/15 21:38	-38.186882,176.837399
 2442508	2/7 Arikirua Lane, Cambridge	2025/10/22 23:06	-37.890386,175.447428
 2442510	4/7 Arikirua Lane, Cambridge	2025/10/22 23:05	-37.890325,175.446866
+1708303	1013 SH 30	2013/10/15 19:45	-38.503276,175.468281
 654164	44 Ireland Road, Otorohanga	2021/12/18 19:49	-38.217913,175.191940
 2393877	285C Drury Hills Road, Drury	2025/09/29 11:09	-37.110157,174.989973
 1379988	171A Elizabeth Street, Tauranga	2021/01/14 23:33	-37.685796,176.162771
@@ -85,6 +86,7 @@
 1281931	234 Maxted Road, Ramarama	2021/12/18 17:16	-37.155363,174.994174	location appears to correlate with a dwelling, number roughly right, but there's already 233 and 235
 1309124	50A WILLIAM STREET	2013/10/15 19:27	-38.334469,175.176414
 1333815	6 Totman Road, Piarere	2018/02/25 16:58	-37.942058,175.755426	In the middle of the road. S37°56.5124' E175°45.3332' looks like it fits?
+1315592	353 Cambridge Road, Hillcrest, Hamilton	2018/02/25 17:02	-37.805043,175.327813
 1719803	119 BAIRD ROAD	2014/04/18 13:04	-37.230418,175.040647
 723969	170 Captain Cook Road, Netherton	2022/02/04 16:22	-37.295207,175.623192
 1648202	10 Storey Road, Waiterimu	2018/02/25 14:26	-37.514439,175.291905	There is a drive across the road, at S37°30.9198' E175°17.4865' that matches the correct RAPID numbering
@@ -111,7 +113,6 @@
 2122555	88 Ingram Road, Rukuhia	2018/02/25 13:26	-37.870580,175.326674	This is on the wrong side based on the centreline as at 11/2/18
 2241849	486A Mangatea Road, Te Kuiti	2022/02/04 17:41	-38.342016,175.121681	ditto
 2261099	719 Waihi Beach Road, Waihi Beach	2022/02/04 16:42	-37.409532,175.931582	Obvious entrance matching numbering at S37.409595° E175.930111°
-1437225	990 STATE HIGHWAY 2 EAST	2013/10/15 21:07	-38.123598,177.064352
 1753872	958 Otara East Road, Tirohanga	2018/02/18 12:27	-38.078403,177.363776
 2164850	5978 Waioeka Road, Waioeka	2022/02/04 17:03	-38.262040,177.300601	Obvious habitation, but ddd number. Not only wrong side, but way out from even/RAPID numbering. My estimation this should be something like 5383
 721244	5 Village Road, Pureora Forest Park	2018/02/20 22:19	-38.516840,175.552235	All these points seem offset to the south a bit. This one's the worst.

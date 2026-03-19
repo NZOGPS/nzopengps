@@ -1,6 +1,6 @@
 31 entries in V:\nzopengps\LinzDataService\PaperRoads\Central-WrongSide.txt
 187 entries in V:\nzopengps\LinzDataService\PaperRoads\Central-LINZWrongSide.txt
-150 wrongside numbers,  not in Exclusion files
+150 wrongside numbers, 1 not in Exclusion files
 8 entries in Ignore list are no longer on the wrong side
 638115	888 Kakariki Farm Road, Kotemaori	2021/08/29 19:00	-39.012682,177.038069
 483378	316 KAITOKE ROAD	2014/04/01 10:57	-39.977966,175.086507
@@ -11,7 +11,7 @@
 1110616	550D Cuff Road, Erua	2019/06/21 13:42	-39.215731,175.332771
 405757	253 KAIRAU ROAD EAST	2014/04/11 14:04	-39.024984,174.207029
 
-60 entries in Linz list are no longer on the wrong side
+61 entries in Linz list are no longer on the wrong side
 615453	74 Hodgson Road	2015/04/12 18:59	-39.593561,176.863027
 608656	709 Gibraltar Road	2015/04/14 02:43	-40.146561,176.841064
 1627711	220 Ohawe Road, Ohawe	2021/03/28 12:17	-39.587048,174.203378	Pretty obvious dwelling, but RAPID numbering suggests it should be 221
@@ -66,6 +66,7 @@
 1407739	81 Millar Road	2015/04/12 19:07	-39.644831,176.941253
 1572438	75 Aorangi Road, Aukopae, Taumarunui	2021/03/27 18:48	-38.922816,175.056300	unclear which dwelling is which, but perhaps around S38°55.6245' E175°03.3076' would be nearer?
 584015	346 Darwin Road, Outer Kaiti, Gisborne	2021/08/29 18:48	-38.645545,178.062719	Obvious building at S38.645487° E178.058890° that matches other numbering.
+1375906	395 Rakaupiko Road	2015/04/14 04:39	-39.771505,174.510798
 591342	483 France Road, Matamau	2021/08/29 18:50	-40.087436,176.150746	S40.087252° E176.149695° would be closer to this number.
 2186845	60 Pineleigh Drive, Poraiti, Napier	2021/03/28 12:21	-39.496911,176.831388
 608731	121 Fryer Road	2015/04/14 02:43	-39.497738,176.846309

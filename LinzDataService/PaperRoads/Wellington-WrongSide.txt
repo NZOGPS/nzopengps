@@ -51,3 +51,7 @@
 1439218	19 Kabul Street, Khandallah, Wellington	2025/10/11 18:38	-41.255283,174.784818
 1439219	19A Kabul Street, Khandallah, Wellington	2025/10/11 18:38	-41.255534,174.784869
 3106716	28B Bracken Street, Petone, Lower Hutt	2026/03/16 21:17	-41.222903,174.894296
+3106960	301B Marine Drive, York Bay, Lower Hutt	2026/03/20 12:22	-41.262416,174.908764
+3106692	28N Victoria Street, Petone, Lower Hutt	2026/03/20 12:23	-41.225381,174.873198
+3106884	57N Mandel Mews, Waiwhetu, Lower Hutt	2026/03/20 12:23	-41.232013,174.912624
+3107009	5 Colson Street, Avalon, Lower Hutt	2026/03/20 12:25	-41.194549,174.948683

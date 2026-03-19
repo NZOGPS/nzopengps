@@ -1,3 +1,4 @@
+DROP TABLE IF EXISTS :wrongstable;
 
 CREATE TABLE :wrongstable (
 	gid integer PRIMARY KEY,

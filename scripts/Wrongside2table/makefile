@@ -10,6 +10,8 @@ MAKEFLAGS += --no-builtin-variables
 
 TILES = Northland Southland Tasman Waikato Central Wellington Canterbury Auckland
 
+PSQLC=$(nzogps_psql_bin)psql -U postgres -d nzopengps
+
 BASE = $(subst ",,$(nzogps_base))
 OUTPUTD = Outputs
 REPORTD = $(OUTPUTD)/Reports/
@@ -25,7 +27,6 @@ $(NUM_SENTINELD)/%-nums.sentinel : ../linz_updates/LINZ_last.date
 $(NUM_SENTINELD)/%-numberlines.sentinel : $(BASE)/%.mp
 	cd TempData && $(PERL) ..\..\mp_2_n_sql2.pl -ci $(BASE)/$*.mp
 	$(PSQLC) -f TempData\$*_numberlines.sql
-	# for other checks
 	$(PSQLC) -f TempData\$*_cities.sql
 	$(PSQLC) -f TempData\$*_pois.sql
 	echo %date% %time% > ..\DB_sentinels\$*-numberlines.sentinel

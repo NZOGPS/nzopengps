@@ -19,3 +19,16 @@
 282299	12 Gilmour Terrace, Lyttelton	2025/10/12 00:33	-43.605191,172.727274
 282297	10 Gilmour Terrace, Lyttelton	2025/10/12 00:34	-43.605343,172.727291
 2442738	3089 Bossu Road, Okuti Valley, Little River	2025/10/22 14:53	-43.823596,172.714955
+3109347	2/285 Maskells Road, Balcairn, Amberley	2026/03/21 00:05	-43.179414,172.664369
+3013560	3/230 Cambridge Terrace, Christchurch Central, Christchurch	2026/03/21 00:06	-43.526740,172.636870
+3005085	100A Shaw Avenue, New Brighton, Christchurch	2026/03/21 00:11	-43.503614,172.724537
+3005002	211R Belfast Road, Ouruhia, Christchurch	2026/03/21 00:14	-43.458687,172.657676
+3005002	211R Belfast Road, Ouruhia, Christchurch	2026/03/21 00:15	-43.458687,172.657676
+3002996	34R Guthries Road, Belfast, Christchurch	2026/03/21 00:15	-43.450506,172.646343
+3004736	56A Broad Street, Woolston, Christchurch	2026/03/21 00:32	-43.560135,172.687313
+3004727	28R Bamford Street, Woolston, Christchurch	2026/03/21 00:32	-43.554227,172.686224
+3004736	56A Broad Street, Woolston, Christchurch	2026/03/21 00:33	-43.560135,172.687313
+3003950	1R Quadrant Drive, Islington, Christchurch	2026/03/21 00:33	-43.549642,172.509230
+3003681	6F Millhill Lane, Huntsbury, Christchurch	2026/03/21 00:34	-43.566399,172.653367
+3001963	17R Cunliffe Road, Redwood, Christchurch	2026/03/21 00:39	-43.468008,172.619720
+3000558	97R Cashmere Road, Cashmere, Christchurch	2026/03/21 00:46	-43.570532,172.618994

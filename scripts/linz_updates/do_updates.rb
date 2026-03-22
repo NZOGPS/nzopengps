@@ -335,6 +335,24 @@ def check_for_errors(options)
 			print "%s %s " % [row['__change__'],row['count']]
 		end
 		puts
+puts <<THEEND
+ #     #                                 #####                              ###     
+ ##    # ###### ###### #####   ####     #     # #    # ######  ####  #    # ###     
+ # #   # #      #      #    # #         #       #    # #      #    # #   #  ###     
+ #  #  # #####  #####  #    #  ####     #       ###### #####  #      ####    #      
+ #   # # #      #      #    #      #    #       #    # #      #      #  #           
+ #    ## #      #      #    # #    #    #     # #    # #      #    # #   #  ###     
+ #     # ###### ###### #####   ####      #####  #    # ######  ####  #    # ###     
+                                                                                    
+                                               #                             #####  
+ #    #   ##   ##### ###### #####  #   #      #  #    # ###### ##### #    # #     # 
+ #    #  #  #    #   #      #    #  # #      #   ##   #     #    #   ##  ##       # 
+ #    # #    #   #   #####  #    #   #      #    # #  #    #     #   # ## #    ###  
+ # ## # ######   #   #      #####    #     #     #  # #   #      #   #    #    #    
+ ##  ## #    #   #   #      #   #    #    #      #   ##  #       #   #    #         
+ #    # #    #   #   ###### #    #   #   #       #    # ######   #   #    #    #    
+THEEND
+		
 	end
 
 	if (options[:doaddress])
@@ -407,7 +425,7 @@ def check_for_errors(options)
 
 		rs = @conn.exec "SELECT cs.road_id, cs.full_road_name_ascii, cs.__change__ from #{ROAD_S[:csfn]} cs "\
 			"where cs.__change__ in ('UPDATE','DELETE') and not exists( select road_id from #{ROAD_S[:tbln]} rcl where rcl.road_id = cs.road_id)"
-		if rs.count > 0 then
+		if rs.count > 0 
 			error = true
 			STDERR.puts rs.count.to_s + " road ID(s) in road updates for modification/deletion do not already exist in database"
 			STDERR.puts "\tFirst ID: " + rs.first['road_id'] + " - " + rs.first['full_road_name_ascii']
@@ -422,6 +440,25 @@ def check_for_errors(options)
 	print "end of c_f_e\n" if DEBUG
 end
 
+def update_table_comment(table_name,curtime)
+	print "upd_tbl_cmt: #{table_name}\n" if DEBUG
+	tblcmt = ''
+	rs = @conn.exec "SELECT obj_description('public.#{table_name}'::regclass, 'pg_class')" #get table comment
+	if rs.count > 0 
+		tblintro = ' Table updated: '
+		tblcmt = rs.first['obj_description']
+		print "upd_tbl_cmt: tblcmt1 is #{tblcmt}\n" if DEBUG
+		if tblcmt =~ /#{tblintro}/ 
+			tblcmt.sub!(/#{tblintro}[0-9\- :]+ by [a-zA-z_.]+/,"#{tblintro}#{curtime} by #{$0}")
+		else
+			print "upd_tbl_cmt: else\n" if DEBUG
+			tblcmt += "#{tblintro}#{curtime} by #{$0}"
+		end
+		print "upd_tbl_cmt: tblcmt2 is #{tblcmt}\n" if DEBUG
+		@conn.exec "COMMENT ON TABLE #{table_name} IS '#{tblcmt}'"
+	end
+end
+	
 def do_updates(options)
 #suburbs
 	print "in do_updates\n" if DEBUG
@@ -431,16 +468,14 @@ def do_updates(options)
 			AND ( cs.__change__ = 'DELETE' or cs.__change__ = 'UPDATE')"
 		print rs.count.to_s + " suburbs lines deleted\n" if DEBUG
 
-
-@conn.exec "SELECT COUNT(*) FROM #{SALO[:tbln]}"
-
 		@conn.exec "INSERT INTO #{SALO[:tbln]} "\
 			"(id, name, name_ascii, additional_name, additional_name_ascii, type, major_name, major_name_ascii, major_name_type,"\
-			" population_estimate, territorial_authority, territorial_authority_ascii, wkb_geometry, updated )"\
+			" population_estimate, territorial_authority, territorial_authority_ascii, wkb_geometry, watery, updated, nztm_geometry )"\
 		"SELECT "\
 			" id, name, name_ascii, additional_name, additional_name_ascii, type, major_name, major_name_ascii, major_name_type, "\
-			" population_estimate, territorial_authority, territorial_authority_ascii, wkb_geometry, updated "\
+			" population_estimate, territorial_authority, territorial_authority_ascii, wkb_geometry, watery, updated, nztm_geometry  "\
 		"FROM #{SALO[:csfn]} where __change__ = 'UPDATE' or __change__ = 'INSERT'"
+		update_table_comment(SALO[:tbln],options[:currtime])
 	end
 
 #road table
@@ -541,6 +576,27 @@ if (options[:doaddress])
 			"is_odd, is_land, linz_numb_id, updated, "\
 			"wkb_geometry "\
 		"FROM #{ADDR[:csfn]} nacs where __change__ = 'INSERT';"
+		update_table_comment(ADDR[:tbln],options[:currtime])
+		update_table_comment(ROAD_S[:tbln],options[:currtime])
+
+puts <<THEEND
+ #     #                                 #####                              ###                      
+ ##    # ###### ###### #####   ####     #     # #    # ######  ####  #    # ###                      
+ # #   # #      #      #    # #         #       #    # #      #    # #   #  ###                      
+ #  #  # #####  #####  #    #  ####     #       ###### #####  #      ####    #                       
+ #   # # #      #      #    #      #    #       #    # #      #      #  #                            
+ #    ## #      #      #    # #    #    #     # #    # #      #    # #   #  ###                      
+ #     # ###### ###### #####   ####      #####  #    # ######  ####  #    # ###                      
+                                                                                                     
+                                                                                              #####  
+ #####   ##   #####  #      ######     ####   ####  #    # #    # ###### #    # #####  ####  #     # 
+   #    #  #  #    # #      #         #    # #    # ##  ## ##  ## #      ##   #   #   #            # 
+   #   #    # #####  #      #####     #      #    # # ## # # ## # #####  # #  #   #    ####     ###  
+   #   ###### #    # #      #         #      #    # #    # #    # #      #  # #   #        #    #    
+   #   #    # #    # #      #         #    # #    # #    # #    # #      #   ##   #   #    #         
+   #   #    # #####  ###### ######     ####   ####  #    # #    # ###### #    #   #    ####     #      
+THEEND
+
 	end
 end
 

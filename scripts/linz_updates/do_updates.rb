@@ -122,7 +122,9 @@ def get_linz_updates(options)
 		system("#{curl_cmd} -o #{SALO[:csfn]}.csv #{url1}#{dtype}#{SALO[:layer]}#{url2}#{dtype}#{SALO[:layer]}#{url3}")
 	end
 
-	system("FOR /f %a IN ('WMIC OS GET LocalDateTime ^| FIND \".\"') DO #{zip_cmd} %~na.zip #{ROAD[:csfn]}.csv #{ADDR[:csfn]}.csv #{SALO[:csfn]}.csv" ) 
+	shorttime = options[:currtime].gsub(/[\- :]/,"")
+	print "Short time is #{shorttime}\n" if DEBUG
+	system(" #{zip_cmd} #{shorttime}.zip #{ROAD[:csfn]}.csv #{ADDR[:csfn]}.csv #{SALO[:csfn]}.csv" ) 
 end
 
 def pg_connect()
@@ -604,7 +606,7 @@ end
 #
 LOGFILE = File.new("update.log","w")
 
-options[:currtime] = Time.now.strftime("%F %H:%M")
+options[:currtime] = Time.now.strftime("%F %H:%M:%S")
 
 do_options(options)
 

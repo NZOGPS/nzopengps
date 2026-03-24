@@ -16,3 +16,4 @@ INSERT INTO _boundb (id,name,box) VALUES
 ,(8,'Southland' ,'BOX(166       -47.45090, 171.6     -44.55553)');
 
 UPDATE _boundb set poly=st_setsrid(box,4167);
+COMMENT on TABLE _boundb is 'Tile Boundaries - used by wrongside to generate by-tile numbers. Source code in scripts/postgres';

@@ -34,15 +34,15 @@ $(NUM_SENTINELD)/%-numberlines.sentinel : $(BASE)/%.mp
 	$(PSQLC) -f TempData\$*_cities.sql
 	$(PSQLC) -f TempData\$*_pois.sql
 	echo %date% %time% > ..\DB_sentinels\$*-numberlines.sentinel
-	%$(PSQLC) -t -v linestable=$*_numberlines -v wrongstable=$*_wrongside -v distance=100 -f Code\$(POSTPROLINES)
+	$(PSQLC) -t -v linestable=$*_numberlines -v wrongstable=$*_wrongside -v distance=100 -f Code\$(POSTPROLINES)
 
-$(OUTPUTD)/%-Wrongside.csv : ../DB_sentinels/%-numberlines.sentinel $(NUM_SENTINELD)/%-nums.sentinel
+$(OUTPUTD)%-Wrongside.csv : ../DB_sentinels/%-numberlines.sentinel $(NUM_SENTINELD)/%-nums.sentinel
 	$(PSQLC) -t -v linestable=$*_numberlines -v wrongstable=$*_wrongside -v numstable=$*_nums -v outfile='$(CURDIR)\Outputs\$*-WrongSide.csv' -f Code\intersect.sql
 
-$(OUTPUTD)/%-Sparsest.csv : ../DB_sentinels/%-numberlines.sentinel $(NUM_SENTINELD)/%-nums.sentinel
-	$(PSQLC) -v linestable=$*_numberlines -v wrongstable=$*_wrongside  \-v distance=350 -v outfile='$(CURDIR)\Outputs\$*-Sparsest.csv' -f Code\Sparsest.sql
+$(OUTPUTD)%-Sparsest.csv : ../DB_sentinels/%-numberlines.sentinel $(NUM_SENTINELD)/%-nums.sentinel
+	$(PSQLC) -v linestable=$*_numberlines -v wrongstable=$*_wrongside -v distance=350 -v outfile='$(CURDIR)\Outputs\$*-Sparsest.csv' -f Code\Sparsest.sql
 
-$(REPORTD)%-Wrongside-report.txt : $(OUTPUTD)/%-Wrongside.csv
+$(REPORTD)%-Wrongside-report.txt : $(OUTPUTD)%-Wrongside.csv
 	cd $(OUTPUTD) && $(PERL) ..\Code\wrongsidereport.pl $* > Reports\$*-Wrongside-report.txt
 
 

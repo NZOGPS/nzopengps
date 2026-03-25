@@ -12,12 +12,12 @@ TILES = Northland Southland Tasman Waikato Central Wellington Canterbury Aucklan
 BASE = $(subst ",,$(nzogps_base))
 # BASE = $(subst \,/,$(nzogps_base))
 DLOAD = $(subst ",,$(nzogps_download))
-LINZ = $(BASE)/LinzDataService
+LINZ = $(BASE)\LinzDataService
 LINZO = $(LINZ)\outputslinz
 NZSL = nz-suburbs-and-localities
 NUMBERS = $(BASE)\numbers
 OUTPUTS = Outputs
-SENTINELD = ../DB_sentinels
+SENTINELD = ..\DB_sentinels
 PSQLC = $(nzogps_psql_bin)\psql -U postgres -d nzopengps
 ZIPIT = $(nzogps_zip_cmd)
 UNZIP = $(nzogps_unzip_cmd)
@@ -28,10 +28,10 @@ OGR2OGR = $(nzogps_ogr2ogr)
 
 tilenum = $(subst Northland,1,$(subst Auckland,2,$(subst Waikato,3,$(subst Central,4,$(subst Wellington,5,$(subst Tasman,6,$(subst Canterbury,7,$(subst Southland,8,$(1)))))))))
 
-all : $(addprefix $(OUTPUTS)/, $(addsuffix -WrongCities2.csv, $(TILES)))
+all : $(addprefix $(OUTPUTS)\, $(addsuffix -WrongCities2.csv, $(TILES)))
 .PHONY: all
 
-$(SENTINELD)/%-numberlines.sentinel : $(BASE)/%.mp
+$(SENTINELD)\\%-numberlines.sentinel : $(BASE)\%.mp
 	cd SQLData && $(PERL) ..\..\mp_2_n_sql2.pl -ci $(BASE)/$*.mp
 	$(PSQLC) -f SQLData\$*_numberlines.sql
 	# for other checks
@@ -39,7 +39,7 @@ $(SENTINELD)/%-numberlines.sentinel : $(BASE)/%.mp
 	$(PSQLC) -f SQLData\$*_pois.sql
 	echo %date% %time% > ..\DB_sentinels\$*-numberlines.sentinel
 
-$(OUTPUTS)/%-WrongCities2.csv : $(SENTINELD)/%-numberlines.sentinel $(LINZ)/$(NZSL).sentinel $(LINZ)/CityXlate/%_cidxlt.csv $(LINZ)/CityXlate/%_dont_cityindex.csv
+$(OUTPUTS)\\%-WrongCities2.csv : $(SENTINELD)\%-numberlines.sentinel $(LINZ)\$(NZSL).sentinel $(LINZ)\CityXlate/%_cidxlt.csv $(LINZ)\CityXlate\%_dont_cityindex.csv
 	process_tile.bat numDBdone $*
 
 $(LINZ)\lds-$(NZSL)-CSV\$(NZSL).csv : $(DLOAD)\lds-$(NZSL)-CSV.zip
@@ -49,7 +49,7 @@ $(LINZ)\lds-$(NZSL)-CSV\$(NZSL).csv : $(DLOAD)\lds-$(NZSL)-CSV.zip
 	cmd /C move $< $(LINZ)
 	cd $(LINZ) &	$(PERL) renzip.pl $(notdir $<)
 
-$(LINZ)/$(NZSL).sentinel : $(LINZ)\lds-$(NZSL)-CSV\$(NZSL).csv
+$(LINZ)\$(NZSL).sentinel : $(LINZ)\lds-$(NZSL)-CSV\$(NZSL).csv
 	$(OGR2OGR) --config PG_USE_COPY TRUE -f "PostgreSQL" "PG:host=localhost user=postgres  dbname=nzopengps" -lco OVERWRITE=yes -lco GEOMETRY_NAME=wkb_geometry -oo GEOM_POSSIBLE_NAMES=WKT $<
 	$(PSQL) -U postgres -d nzopengps < Code\postproc.sql
 	echo $(NZSL) database updated %date% $time% sentinel > $@

@@ -13,9 +13,9 @@ for my $of(@ofs){
 	my $of2=$of;
 	if( $of2 =~ s/Outputs\/([a-z])/Outputs\/\U$1/ ){
 		if ($checkit) {
-			print "ren $of $of2\n";
+			print "git mv $of $of2\n";
 		} else {
-			move($of, $of2);
+			system("git","mv",$of, $of2);
 			print "renamed $of to $of2\n";
 		}
 		$cnt++;

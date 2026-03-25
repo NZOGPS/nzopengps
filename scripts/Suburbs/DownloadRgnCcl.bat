@@ -7,7 +7,7 @@ setlocal
 set nzogps_rctbl=regional-council
 set nzogps_rcutbl=regional_council
 set nzogps_here=%CD%
-set nzogps_dlyr=2026
+set nzogps_dlyr=2025
 set PROJ_LIB=
 
 cd ..\..\LinzDataService

@@ -4,7 +4,9 @@ if not defined nzogps_base call ..\..\setlocals.bat
 @echo on
 set nzogps_ex_pt=nz-suburbs-and-localities
 set nzogps_dl_fn=lds-%nzogps_ex_pt%-CSV.zip
-set nzogps_NZSL=..\..\LinzDataService\lds-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%.csv
+set nzogps_NZSL=%nzogps_base:"=%\LinzDataService\lds-%nzogps_ex_pt%-CSV\%nzogps_ex_pt%.csv
+if not [%nzogps_projlib%] == [] set proj_lib=%nzogps_projlib%
+
 if [%1]==[RELOAD] goto reload
 
 pushd ..\..\LinzDataService

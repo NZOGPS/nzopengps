@@ -108,23 +108,28 @@ def get_linz_updates(options)
 	url3 = "-changeset^&viewparams=from:#{options[:from]}Z;to:#{to_date}Z^&outputFormat=csv"
 
 	dtype = "layer-"
+	files2zip =""
+	
 	if (options[:doaddress])
 		puts("Getting address updates from #{options[:from]} to #{to_date}")
 		LOGFILE.puts("Getting address updates from #{options[:from]} to #{to_date} at #{options[:currtime]}")
 		print("#{curl_cmd} -o #{ROAD[:csfn]}.csv #{url1}#{dtype}#{ROAD[:layer]}#{url2}#{dtype}#{ROAD[:layer]}#{url3}") if DEBUG
 		system("#{curl_cmd} -o #{ROAD[:csfn]}.csv #{url1}#{dtype}#{ROAD[:layer]}#{url2}#{dtype}#{ROAD[:layer]}#{url3}")
 		system("#{curl_cmd} -o #{ADDR[:csfn]}.csv #{url1}#{dtype}#{ADDR[:layer]}#{url2}#{dtype}#{ADDR[:layer]}#{url3}")
+		files2zip << " #{ROAD[:csfn]}.csv #{ADDR[:csfn]}.csv"
 	end
 	if (options[:suburbs])
 		url3 = "-changeset^&viewparams=from:#{options[:SALfrom]}Z;to:#{to_date}Z^&outputFormat=csv"
 		puts("\nGetting #{SALO[:tbln]} updates from #{options[:SALfrom]} to #{to_date}")
 		LOGFILE.puts("\nGetting #{SALO[:tbln]} updates from #{options[:SALfrom]} to #{to_date} at #{options[:currtime]}")
 		system("#{curl_cmd} -o #{SALO[:csfn]}.csv #{url1}#{dtype}#{SALO[:layer]}#{url2}#{dtype}#{SALO[:layer]}#{url3}")
+		files2zip << " #{SALO[:csfn]}.csv"
 	end
 
 	shorttime = options[:currtime].gsub(/[\- :]/,"")
+
 	print "Short time is #{shorttime}\n" if DEBUG
-	system(" #{zip_cmd} #{shorttime}.zip #{ROAD[:csfn]}.csv #{ADDR[:csfn]}.csv #{SALO[:csfn]}.csv" ) 
+	system(" #{zip_cmd} #{shorttime}.zip #{files2zip}" ) 
 end
 
 def pg_connect()
@@ -172,12 +177,12 @@ def put_csv_in_postgres(options)
 	proj_params = {}
 	if ( ENV['nzogps_projdata']) then
 		pl_env = ENV['nzogps_projdata'].gsub("\\","/") #easier to use forward slashes than messy escaping
-		proj_params = {"PROJ_DATA" => pl_env}
+		proj_params ["PROJ_DATA"] = pl_env
 		puts("proj_data: ", proj_params, pl_env) if DEBUG
 	end
 	if ( ENV['nzogps_gdaldata']) then
 		pl_env = ENV['nzogps_gdaldata'].gsub("\\","/") #easier to use forward slashes than messy escaping
-		proj_params[:"GDAL_DATA"] = pl_env
+		proj_params["GDAL_DATA"] = pl_env
 		puts("gdal_data: ", proj_params, pl_env) if DEBUG
 	end
 
@@ -283,7 +288,7 @@ def put_csv_in_postgres(options)
 		within_set=0
 
 		if rdscnt > 0 then
-			@pbar = ProgressBar.create(:title=>"Locale within", :total=>rdscnt, :length=>100)
+			@pbar = ProgressBar.create(:title=>"Locale  within", :total=>rdscnt, :length=>100)
 			rs.each do |eachrd_s|
 		#		print "eachrd_s is: " + eachrd_s.to_s + "\n"
 				rs2 = @conn.exec "update #{ROAD_S[:csfn]} rd

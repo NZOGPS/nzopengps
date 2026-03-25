@@ -169,13 +169,18 @@ def put_csv_in_postgres(options)
 	ogr_cmd = ENV['nzogps_ogr2ogr']
 	abort("Processing aborted! nzogps_ogr2ogr environment variable not set!") if !ogr_cmd
 
-	proj_lib = {}
-	if ( ENV['nzogps_projlib']) then
-		pl_env = ENV['nzogps_projlib'].gsub("\\","/") #easier to use forward slashes than messy escaping
-		proj_lib = {"PROJ_LIB" => pl_env}
-		puts("proj_lib: ",proj_lib,pl_env)
+	proj_params = {}
+	if ( ENV['nzogps_projdata']) then
+		pl_env = ENV['nzogps_projdata'].gsub("\\","/") #easier to use forward slashes than messy escaping
+		proj_params = {"PROJ_DATA" => pl_env}
+		puts("proj_data: ", proj_params, pl_env) if DEBUG
 	end
-	
+	if ( ENV['nzogps_gdaldata']) then
+		pl_env = ENV['nzogps_gdaldata'].gsub("\\","/") #easier to use forward slashes than messy escaping
+		proj_params[:"GDAL_DATA"] = pl_env
+		puts("gdal_data: ", proj_params, pl_env) if DEBUG
+	end
+
 #check that vrt files with column types exist
 	abort("Processing aborted! csv definition file #{ROAD[:csfn]}.vrt not found!") if !File.file?("#{ROAD[:csfn]}.vrt")
 	abort("Processing aborted! csv definition file #{ADDR[:csfn]}.vrt not found!") if !File.file?("#{ADDR[:csfn]}.vrt")

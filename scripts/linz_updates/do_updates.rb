@@ -187,7 +187,7 @@ def put_csv_in_postgres(options)
 	abort("Processing aborted! csv definition file #{SALO[:csfn]}.vrt not found!") if !File.file?("#{SALO[:csfn]}.vrt")
 
 #use ogr to import csv files into postgres
-	print("ogr2ogr cmd is: "proj_params, "#{ogr_cmd} --config PG_USE_COPY TRUE -overwrite -f \"PostgreSQL\" \"PG:host=localhost user=postgres  dbname=nzopengps\" -lco OVERWRITE=yes  #{ROAD[:csfn]}.vrt\n") if DEBUG
+	print("ogr2ogr cmd is: ", proj_params, "#{ogr_cmd} --config PG_USE_COPY TRUE -overwrite -f \"PostgreSQL\" \"PG:host=localhost user=postgres  dbname=nzopengps\" -lco OVERWRITE=yes  #{ROAD[:csfn]}.vrt\n") if DEBUG
 	if (options[:doaddress])
 		system(proj_params, "#{ogr_cmd} --config PG_USE_COPY TRUE -overwrite -f \"PostgreSQL\" \"PG:host=localhost user=postgres  dbname=nzopengps\" -lco OVERWRITE=yes  #{ROAD[:csfn]}.vrt") or abort("Failed to run #{ogr_cmd} on #{ROAD[:csfn]}")
 		system(proj_params, "#{ogr_cmd} --config PG_USE_COPY TRUE -overwrite -f \"PostgreSQL\" \"PG:host=localhost user=postgres  dbname=nzopengps\" -lco OVERWRITE=yes  #{ADDR[:csfn]}.vrt") or abort("Failed to run #{ogr_cmd} on #{ADDR[:csfn]}")

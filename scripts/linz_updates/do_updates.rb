@@ -459,11 +459,9 @@ def update_table_comment(table_name,curtime)
 	if rs.count > 0 
 		tblintro = ' Table updated: '
 		tblcmt = rs.first['obj_description']
-		print "upd_tbl_cmt: tblcmt1 is #{tblcmt}\n" if DEBUG
 		if tblcmt =~ /#{tblintro}/ 
 			tblcmt.sub!(/#{tblintro}[0-9\- :]+ by [a-zA-z_.]+/,"#{tblintro}#{curtime} by #{$0}")
 		else
-			print "upd_tbl_cmt: else\n" if DEBUG
 			tblcmt += "#{tblintro}#{curtime} by #{$0}"
 		end
 		print "upd_tbl_cmt: tblcmt2 is #{tblcmt}\n" if DEBUG
@@ -590,24 +588,6 @@ if (options[:doaddress])
 		"FROM #{ADDR[:csfn]} nacs where __change__ = 'INSERT';"
 		update_table_comment(ADDR[:tbln],options[:currtime])
 		update_table_comment(ROAD_S[:tbln],options[:currtime])
-
-puts <<THEEND
- #     #                                 #####                              ###                      
- ##    # ###### ###### #####   ####     #     # #    # ######  ####  #    # ###                      
- # #   # #      #      #    # #         #       #    # #      #    # #   #  ###                      
- #  #  # #####  #####  #    #  ####     #       ###### #####  #      ####    #                       
- #   # # #      #      #    #      #    #       #    # #      #      #  #                            
- #    ## #      #      #    # #    #    #     # #    # #      #    # #   #  ###                      
- #     # ###### ###### #####   ####      #####  #    # ######  ####  #    # ###                      
-                                                                                                     
-                                                                                              #####  
- #####   ##   #####  #      ######     ####   ####  #    # #    # ###### #    # #####  ####  #     # 
-   #    #  #  #    # #      #         #    # #    # ##  ## ##  ## #      ##   #   #   #            # 
-   #   #    # #####  #      #####     #      #    # # ## # # ## # #####  # #  #   #    ####     ###  
-   #   ###### #    # #      #         #      #    # #    # #    # #      #  # #   #        #    #    
-   #   #    # #    # #      #         #    # #    # #    # #    # #      #   ##   #   #    #         
-   #   #    # #####  ###### ######     ####   ####  #    # #    # ###### #    #   #    ####     #      
-THEEND
 
 	end
 end

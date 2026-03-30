@@ -29,10 +29,10 @@ $(PSQLC) -c "drop table if exists $*_nums; Create table $*_Nums as select * from
 	echo %date% %time% > $@
 
 $(NUM_SENTINELD)/%-numberlines.sentinel : $(BASE)/%.mp
-	cd TempData && $(PERL) ..\..\mp_2_n_sql2.pl -ci $(BASE)/$*.mp
+	cd TempData && $(PERL) ..\..\mp_2_n_sql2.pl  $(BASE)/$*.mp
 	$(PSQLC) -f TempData\$*_numberlines.sql
-	$(PSQLC) -f TempData\$*_cities.sql
-	$(PSQLC) -f TempData\$*_pois.sql
+#	$(PSQLC) -f TempData\$*_cities.sql
+#	$(PSQLC) -f TempData\$*_pois.sql
 	echo %date% %time% > ..\DB_sentinels\$*-numberlines.sentinel
 	$(PSQLC) -t -v linestable=$*_numberlines -v wrongstable=$*_wrongside -v distance=100 -f Code\$(POSTPROLINES)
 

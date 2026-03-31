@@ -1,7 +1,8 @@
-Start = 2026-03-30 23:00:59 +1300
+Start = 2026-03-31 10:58:53 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Wellington
+1 LINZ ids are missing from NZOGPS Wellington
+;linzid=3085989	Brian Green Way	-40.39243245149758,175.6613824232033
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -10,5 +11,5 @@ Start = 2026-03-30 23:00:59 +1300
 0 Number range ids are missing from NZOGPS Wellington
 #############################
 
-Finish = 2026-03-30 23:01:00 +1300
-Processing time = 0.9570012
+Finish = 2026-03-31 10:58:54 +1300
+Processing time = 1.0491917

@@ -1,8 +1,11 @@
 use strict;
 use POSIX qw( strftime );
+use Sys::Hostname;
+
 my @filenames = ("Northland","Auckland","Waikato","Central","Wellington","Tasman","Canterbury","Southland");
 my $gofn = "gdb-compile-times.txt";
 my $nofn = "numbering-times.txt";
+my $host = hostname();
 my $nowts;
 my $pilot = ''; # use compile_stats -p
 
@@ -85,7 +88,7 @@ sub doGPX {
 		print OFILE "$fn\t$start\t$endGPX\t$endGDB\t$gpxtime\t$gdbtime\n";
 	}
 	$nowts = strftime('%Y-%m-%d %H:%M:%S %z', localtime);
-	print OFILE "(collated)\t$nowts\n"; 
+	print OFILE "(collated)\t$nowts on $host\n"; 
 	close OFILE;
 }
 
@@ -153,7 +156,7 @@ sub doNumbering {
 		print OFILE "$fn\t$start\t$end\t$time\t$Sections\t$SectionsCI\t$SectionsNN\t$SectionsNA\t$SectionsNAA\t$SectionsNA0A\n";
 	}
 	$nowts = strftime('%Y-%m-%d %H:%M:%S %Z', localtime);
-	print OFILE "(collated)\t$nowts\tLibrary: $mrulib\n"; 
+	print OFILE "(collated)\t$nowts\tLibrary: $mrulib on $host\n"; 
 	close OFILE;
 }
 

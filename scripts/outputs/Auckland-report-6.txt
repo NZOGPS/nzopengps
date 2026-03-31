@@ -1,7 +1,7 @@
-Start = 2026-03-30 22:51:04 +1300
+Start = 2026-03-31 10:59:07 +1300
 linzid	street_name	street_name_2	official_street_name
 1830965	Hull Rd (4WD only, closed in Winter)		Hull Rd	-36.64738,174.58702
 #############################
 
-Finish = 2026-03-30 22:51:05 +1300
-Processing time = 1.1244335
+Finish = 2026-03-31 10:59:08 +1300
+Processing time = 1.2345208

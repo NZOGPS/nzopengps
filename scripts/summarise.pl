@@ -90,15 +90,26 @@ sub do_checker {
 	$resultsp->{'checkd'}[$tile] =$stats[9];
 	$resultsp->{'chkmissno'}[$tile]=-1;
 	$resultsp->{'chkmissrd'}[$tile]=-1;
+	$resultsp->{'chkmissol'}[$tile]=0;
+	
 	print "dochk: file is $fn\n" if $debug;
 	open(CHKF,$fn) or die "can't open $fn";
 	while (<CHKF>){
 #		print "$_";
-		if(/(\d+) missing numbers on (\d+) roads/) {
+		if(/(\d+) missing numbers* on (\d+) road/) {
 			print "found missing $1 on $2\n" if $debug;
 				$resultsp->{'chkmissno'}[$tile]=$1;
 				$resultsp->{'chkmissrd'}[$tile]=$2;
 		}
+		if(/(\d+) already set in RoadID (\d+)/) {
+			print "found overlap of $1 on $2\n" if $debug;
+				$resultsp->{'chkmissol'}[$tile]++;
+		}
+		if(/Unindexed road:\tRoad is (.*),/) {
+			print "found unindexed road $1\n" if $debug;
+				$resultsp->{'chkmissui'}[$tile]++;
+		}
+
 	}
 }
 
@@ -126,49 +137,71 @@ if ($debug){
 	print("\n");
 	printf("%*s |",$col0w,"Missing roads");
 	for my $tile(0..$#tiles){
-	printf(" %*d |",$colw[$tile],$results{'missrds'}[$tile]);
+		if ($results{'missrds'}[$tile]) {
+			printf(" %*d |",$colw[$tile],$results{'missrds'}[$tile]);
+		} else {printf(" %*s |",$colw[$tile],"") }
 	}
 
 	print("\n");
 	printf("%*s |",$col0w,"Roads not in LINZ");
 	for my $tile(0..$#tiles){
-	printf(" %*d |",$colw[$tile],$results{'extras'}[$tile]);
+		if ($results{'extras'}[$tile]) {
+			printf(" %*d |",$colw[$tile],$results{'extras'}[$tile]);
+		} else {printf(" %*s |",$colw[$tile],"") }
 	}
 
 	print("\n");
 	printf("%*s |",$col0w,"Report2 Old");
 	for my $tile(0..$#tiles){
-	printf(" %*s |",$colw[$tile],($results{'rep2d'}[$tile]<$tiled[$tile])?"==YES==":"");
+		printf(" %*s |",$colw[$tile],($results{'rep2d'}[$tile]<$tiled[$tile])?"==YES==":"");
 	}
 
 	print("\n");
 	printf("%*s |",$col0w,"Different name");
 	for my $tile(0..$#tiles){
-	printf(" %*d |",$colw[$tile],$results{'wrongn'}[$tile]);
+		if ($results{'wrongn'}[$tile]) {
+			printf(" %*d |",$colw[$tile],$results{'wrongn'}[$tile]);
+		} else {printf(" %*s |",$colw[$tile],"") }
 	}
 
 	print("\n");
 	printf("%*s |",$col0w,"Report6 Old");
 	for my $tile(0..$#tiles){
-	printf(" %*s |",$colw[$tile],($results{'rep6d'}[$tile]<$tiled[$tile])?"==YES==":"");
+		printf(" %*s |",$colw[$tile],($results{'rep6d'}[$tile]<$tiled[$tile])?"==YES==":"");
+	}
+
+	print("\n");
+	printf("%*s |",$col0w,"Number overlaps");
+	for my $tile(0..$#tiles){
+		if ($results{'chkmissol'}[$tile]) {
+			printf(" %*d |",$colw[$tile],$results{'chkmissol'}[$tile]);
+		} else {printf(" %*s |",$colw[$tile],"") }
+	}
+
+	print("\n");
+	printf("%*s |",$col0w,"Unindexed road");
+	for my $tile(0..$#tiles){
+		if ($results{'chkmissui'}[$tile]) {
+			printf(" %*d |",$colw[$tile],$results{'chkmissui'}[$tile]);
+		} else {printf(" %*s |",$colw[$tile],"") }
 	}
 
 	print("\n");
 	printf("%*s |",$col0w,"Missing numbers");
 	for my $tile(0..$#tiles){
-	printf(" %*d |",$colw[$tile],$results{'chkmissno'}[$tile]);
+		printf(" %*d |",$colw[$tile],$results{'chkmissno'}[$tile]);
 	}
 
 	print("\n");
 	printf("%*s |",$col0w,"on different rds");
 	for my $tile(0..$#tiles){
-	printf(" %*d |",$colw[$tile],$results{'chkmissrd'}[$tile]);
+		printf(" %*d |",$colw[$tile],$results{'chkmissrd'}[$tile]);
 	}
 
 	print("\n");
 	printf("%*s |",$col0w,"Checker Old");
 	for my $tile(0..$#tiles){
-	printf(" %*s |",$colw[$tile],($results{'checkd'}[$tile]<$tiled[$tile])?"==YES==":"");
+		printf(" %*s |",$colw[$tile],($results{'checkd'}[$tile]<$tiled[$tile])?"==YES==":"");
 	}
 }
 

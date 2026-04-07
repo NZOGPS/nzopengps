@@ -1,8 +1,14 @@
-Start = 2026-03-31 10:58:49 +1300
+Start = 2026-04-07 17:11:39 +1200
 #############################
 
-4 LINZ ids are missing from NZOGPS Northland
+10 LINZ ids are missing from NZOGPS Northland
 ;linzid=3085988	Te Ara Haumaru	-35.59292403451083,174.2785869941795
+;linzid=3086022	Manta Dr	-36.11051519736519,174.57296517632741
+;linzid=3086024	Karengo Lane	-36.110234190771635,174.57400814056288
+;linzid=3086025	Voyager Lane	-36.11082185072224,174.57182686775923
+;linzid=3086026	Gannet Lane	-36.11082179313876,174.57182687328515
+;linzid=3086023	Manawa Lane	-36.110204957419846,174.57411726360993
+;linzid=3086021	Oystercatcher Lane	-36.10938121265235,174.57558452982965
 ;linzid=3085903	Kiwi Creek Lane	-35.2605270159214,173.936807183766
 ;linzid=3085904	Kukupa Rise	-35.6769699381995,174.274781366373
 ;linzid=3085905	Furlong Lane	-35.6769699381995,174.274781366373
@@ -14,5 +20,5 @@ Start = 2026-03-31 10:58:49 +1300
 0 Number range ids are missing from NZOGPS Northland
 #############################
 
-Finish = 2026-03-31 10:58:49 +1300
-Processing time = 0.6320405
+Finish = 2026-04-07 17:11:40 +1200
+Processing time = 0.6025862

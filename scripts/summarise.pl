@@ -109,6 +109,11 @@ sub do_checker {
 			print "found unindexed road $1\n" if $debug;
 				$resultsp->{'chkmissui'}[$tile]++;
 		}
+# Warning - Number[6]: 91 is not even
+		if(/Warning -.*\d+ is not (odd|even)/) {
+			print "found incorrect odd/even number\n" if $debug;
+				$resultsp->{'chkoen'}[$tile]++;
+		}
 
 	}
 }
@@ -175,6 +180,14 @@ if ($debug){
 	for my $tile(0..$#tiles){
 		if ($results{'chkmissol'}[$tile]) {
 			printf(" %*d |",$colw[$tile],$results{'chkmissol'}[$tile]);
+		} else {printf(" %*s |",$colw[$tile],"") }
+	}
+	
+	print("\n");
+	printf("%*s |",$col0w,"wrong odd/even");
+	for my $tile(0..$#tiles){
+		if ($results{'chkoen'}[$tile]) {
+			printf(" %*d |",$colw[$tile],$results{'chkoen'}[$tile]);
 		} else {printf(" %*s |",$colw[$tile],"") }
 	}
 

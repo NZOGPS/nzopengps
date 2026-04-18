@@ -91,8 +91,10 @@ sub do_checker {
 	$resultsp->{'chkmissno'}[$tile]=-1;
 	$resultsp->{'chkmissrd'}[$tile]=-1;
 	$resultsp->{'chkmissol'}[$tile]=0;
-	
-	print "dochk: file is $fn\n" if $debug;
+	$resultsp->{'chkunnumb'}[$tile]=0;
+	$resultsp->{'chkundefn'}[$tile]=0;
+
+	print "docheck: file is $fn\n" if $debug;
 	open(CHKF,$fn) or die "can't open $fn";
 	while (<CHKF>){
 #		print "$_";
@@ -101,20 +103,31 @@ sub do_checker {
 				$resultsp->{'chkmissno'}[$tile]=$1;
 				$resultsp->{'chkmissrd'}[$tile]=$2;
 		}
+
 		if(/(\d+) already set in RoadID (\d+)/) {
 			print "found overlap of $1 on $2\n" if $debug;
 				$resultsp->{'chkmissol'}[$tile]++;
 		}
+
 		if(/Unindexed road:\tRoad is (.*),/) {
 			print "found unindexed road $1\n" if $debug;
 				$resultsp->{'chkmissui'}[$tile]++;
 		}
-# Warning - Number[6]: 91 is not even
+
 		if(/Warning -.*\d+ is not (odd|even)/) {
 			print "found incorrect odd/even number\n" if $debug;
 				$resultsp->{'chkoen'}[$tile]++;
 		}
 
+		if(/Error: unnumbered node. Road is /) {
+			print "found undefined end\n" if $debug;
+				$resultsp->{'chkunnumb'}[$tile]++;
+		}
+
+		if(/Warning - Number\[\d+\] from -*\d+ to -*\d+/) {
+			print "found undefined end\n" if $debug;
+				$resultsp->{'chkundefn'}[$tile]++;
+		}
 	}
 }
 
@@ -188,6 +201,22 @@ if ($debug){
 	for my $tile(0..$#tiles){
 		if ($results{'chkoen'}[$tile]) {
 			printf(" %*d |",$colw[$tile],$results{'chkoen'}[$tile]);
+		} else {printf(" %*s |",$colw[$tile],"") }
+	}
+
+	print("\n");
+	printf("%*s |",$col0w,"undefined end");
+	for my $tile(0..$#tiles){
+		if ($results{'chkundefn'}[$tile]) {
+			printf(" %*d |",$colw[$tile],$results{'chkundefn'}[$tile]);
+		} else {printf(" %*s |",$colw[$tile],"") }
+	}
+
+	print("\n");
+	printf("%*s |",$col0w,"unnumbered node");
+	for my $tile(0..$#tiles){
+		if ($results{'chkunnumb'}[$tile]) {
+			printf(" %*d |",$colw[$tile],$results{'chkunnumb'}[$tile]);
 		} else {printf(" %*s |",$colw[$tile],"") }
 	}
 

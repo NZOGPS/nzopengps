@@ -46,7 +46,7 @@ BEGIN
 	end if;
 END;
 $BODY$
-  LANGUAGE plpgsql
+  LANGUAGE plpgsql;
 
 create or replace function gt_distance(number integer, side integer, n1 integer, n2 integer) returns double precision as $$	
 DECLARE

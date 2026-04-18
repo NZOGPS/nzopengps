@@ -32,3 +32,6 @@
 3003681	6F Millhill Lane, Huntsbury, Christchurch	2026/03/21 00:34	-43.566399,172.653367
 3001963	17R Cunliffe Road, Redwood, Christchurch	2026/03/21 00:39	-43.468008,172.619720
 3000558	97R Cashmere Road, Cashmere, Christchurch	2026/03/21 00:46	-43.570532,172.618994
+3010277	9/40 Clearwater Avenue, Northwood, Christchurch	2026/04/18 19:07	-43.448686,172.595609
+1758249	12E Birchgate Lane, Halswell, Christchurch	2026/04/18 23:57	-43.572697,172.547538
+3004178	19R Saddleback Green, Halswell, Christchurch	2026/04/18 23:57	-43.565354,172.558644

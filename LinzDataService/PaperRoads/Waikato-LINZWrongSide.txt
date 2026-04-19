@@ -335,3 +335,6 @@
 3135945	14B Bellingham Cres, Fordlands	2026/03/21 16:28	-38.143987 176.225843	Typo in number?	41B Bellingham Cres? Duplicate of 2163830? Seems to be the same section	
 3136709	3/12 Phillip St, Victoria	2026/03/21 16:28	-38.142431 176.241794	Typo in number?	3/15 Phillip St? Duplicate of 2207229? Seems to be the same dwelling	
 744961	2540C Waihi Whangamata Rd, Whangamata	2026/03/21 16:28	-37.243770 175.850131	Odd number or location	It’s an odd section of road! 2521,2540C and 2522 all seem to be on the wrong side of the road.	
+3183018	55B Buchanan Street, Opotiki	2026/04/19 12:13	-38.010809,177.292857
+3143224	2540B Waihi Whangamata Road, Whangamata	2026/04/19 12:17	-37.243757,175.850132
+3127178	42A Lily Street, Raglan	2026/04/19 12:19	-37.796022,174.880497

@@ -129,3 +129,5 @@ Below new 15:27 30/08/21
 3109358	24A Doncaster Tce, Ascot Park	21/03/26 16:24	-41.112526 174.872056	Odd number or location	Wrong side of road for even number. Seems to be in the same property as 41?	
 3021017	281 Katherine Mansfield Dr, Blue Mountains	21/03/26 16:24	-41.159567 175.058372	Odd number or location	Wrong side of road for odd number, and too low for location. Should it be at around  -41.161469 175.063360 near 281A?	
 3107140	83/66 Mabey Rd, Avalon	21/03/26 16:24	-41.189836 174.941170	Typo in number?	83/65 Mabey Rd? All others here are XX/65. Erroneous duplicate of ID: 1975286?	
+384240	43 Westhaven Drive, Tawa, Wellington	2026/04/19 12:22	-41.171348,174.815424
+2389583	61 Millvale Street, Waikanae	2026/04/19 12:26	-40.875411,175.047082

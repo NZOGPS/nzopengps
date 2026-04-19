@@ -55,3 +55,8 @@
 3106692	28N Victoria Street, Petone, Lower Hutt	2026/03/20 12:23	-41.225381,174.873198
 3106884	57N Mandel Mews, Waiwhetu, Lower Hutt	2026/03/20 12:23	-41.232013,174.912624
 3107009	5 Colson Street, Avalon, Lower Hutt	2026/03/20 12:25	-41.194549,174.948683
+3106880	26A Bell Road, Waiwhetu, Lower Hutt	2026/04/19 11:30	-41.229723,174.914718
+3106227	1B Queen Street, Wainuiomata, Lower Hutt	2026/04/19 11:34	-41.261709,174.945348
+3106260	1D Queen Street, Wainuiomata, Lower Hutt	2026/04/19 11:34	-41.261748,174.945521
+3106234	1C Queen Street, Wainuiomata, Lower Hutt	2026/04/19 11:35	-41.261839,174.945463
+3106233	1A Queen Street, Wainuiomata, Lower Hutt	2026/04/19 11:35	-41.261960,174.945779

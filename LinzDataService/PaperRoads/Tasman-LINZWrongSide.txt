@@ -114,3 +114,23 @@
 1769237	2/55 Birchfield Road, Waimangaroa, Westport	2025/09/16 01:00	-41.701784,171.771223
 2391889	120 Clova Bay Road, Totaranui, Marlborough Sounds	2025/09/16 01:01	-41.108725,174.045322
 2431189	51 Kingfisher Rise, Little Wanganui, Karamea	2025/09/16 01:01	-41.340133,172.110758
+# New 11:40 pm 21/04/2026
+
+1676885	2/199 Alma Road, Westport	2026/04/22 00:40	-41.766036,171.571224
+1015265	346 Boundary Road, Maruia	2026/04/22 00:40	-42.147744,172.212952
+1468591	88 Clifton Road, Kaiata, Greymouth	2026/04/22 00:48	-42.473292,171.253764
+1471385	533 Golf Links Road, Ikamatua, Reefton	2026/04/22 00:49	-42.310959,171.724986
+1478395	22 Snodgrass Road, Westport	2026/04/22 00:51	-41.749628,171.626744
+1523537	713 Virgin Flat Road, Virgin Flat, Cape Foulwind	2026/04/22 00:54	-41.831069,171.469877
+1539955	267 Chatterton Road, Hanmer Springs	2026/04/22 00:54	-42.547071,172.835712
+156004	3189 Lewis Pass Road, Poplars Range, Hanmer Springs	2026/04/22 00:55	-42.593352,172.434579
+1568280	11 Pukaki Avenue, Ngahere	2026/04/22 00:56	-42.394847,171.446402
+1611189	22 State Highway 65, Springs Junction, Reefton	2026/04/22 00:57	-42.331130,172.182573
+1633269	19 Baty Place, Coal Creek, Greymouth	2026/04/22 00:58	-42.433867,171.238259
+1731489	2768 Upper Buller Gorge Road, Upper Buller Gorge, Westport	2026/04/22 01:02	-41.797009,172.024693
+1676776	2922 Upper Buller Gorge Road, Upper Buller Gorge, Westport	2026/04/22 01:08	-41.812524,172.011816
+2388599	2903 Upper Buller Gorge Road, Upper Buller Gorge, Westport	2026/04/22 01:08	-41.814287,172.010601
+2296830	2835 Upper Buller Gorge Road, Upper Buller Gorge, Westport	2026/04/22 01:08	-41.808697,172.020345
+1676870	24 Cawthron Road, Westport	2026/04/22 01:33	-41.755192,171.674038
+1676911	1 Collins Road, Waimangaroa, Westport	2026/04/22 01:33	-41.706361,171.767218
+2425887	1 George Street, Rotherham	2026/04/22 01:34	-42.692706,172.948085

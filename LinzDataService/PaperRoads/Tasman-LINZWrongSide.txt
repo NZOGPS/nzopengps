@@ -115,7 +115,6 @@
 2391889	120 Clova Bay Road, Totaranui, Marlborough Sounds	2025/09/16 01:01	-41.108725,174.045322
 2431189	51 Kingfisher Rise, Little Wanganui, Karamea	2025/09/16 01:01	-41.340133,172.110758
 # New 11:40 pm 21/04/2026
-
 1676885	2/199 Alma Road, Westport	2026/04/22 00:40	-41.766036,171.571224
 1015265	346 Boundary Road, Maruia	2026/04/22 00:40	-42.147744,172.212952
 1468591	88 Clifton Road, Kaiata, Greymouth	2026/04/22 00:48	-42.473292,171.253764
@@ -134,3 +133,20 @@
 1676870	24 Cawthron Road, Westport	2026/04/22 01:33	-41.755192,171.674038
 1676911	1 Collins Road, Waimangaroa, Westport	2026/04/22 01:33	-41.706361,171.767218
 2425887	1 George Street, Rotherham	2026/04/22 01:34	-42.692706,172.948085
+2412807	26 Topline Road, Hapuku, Kaikoura	2026/04/22 11:10	-42.328777,173.702823
+1689975	3690 Lewis Pass Road, Poplars Range, Hanmer Springs	2026/04/22 11:12	-42.581316,172.379410
+1690228	197 Mt Lyford Forest Drive, Lyford, Waiau	2026/04/22 11:13	-42.496095,173.168483
+1760781	60 Valhalla Road, Kekerengu, Kaikoura	2026/04/22 11:18	-42.021041,173.986220
+1769174	1/831 Fairdown Road, Fairdown, Westport	2026/04/22 11:19	-41.738878,171.706788
+2151783	130 State Highway 65, Springs Junction, Reefton	2026/04/22 11:20	-42.321976,172.185107
+2151784	225 State Highway 65, Springs Junction, Reefton	2026/04/22 11:21	-42.316099,172.187150
+2425979	5 Druids Road, Emu Plain, Waiau	2026/04/23 00:23	-42.631682,172.943902
+2426043	5 Morses Road, Emu Plain, Waiau	2026/04/23 00:25	-42.636286,172.928644
+341799	61 Kekerengu Valley Road, Kekerengu, Kaikoura	2026/04/23 00:27	-41.997036,173.996383
+343699	192 Needles Road, Ward	2026/04/23 00:37	-41.812910,174.117153
+292043	511 Mendip Road, Ferniehurst, Cheviot	2026/04/23 00:38	-42.625526,173.284914
+288944	340 Flintoft Mouse Point Road, Rotherham	2026/04/23 00:39	-42.717760,172.875982
+292319	356 Conway Flat Road, Conway Flat, Cheviot	2026/04/23 00:41	-42.632303,173.456852
+328486	592 Red Swamp Road, Kaikoura Flat, Kaikoura	2026/04/23 00:42	-42.353650,173.618780
+908273	297 Baigent Road, Howard, St. Arnaud	2026/04/23 00:43	-41.700730,172.631440
+2369196	642 Palmer Road, Springs Junction, Reefton	2026/04/23 00:51	-42.397735,172.131515

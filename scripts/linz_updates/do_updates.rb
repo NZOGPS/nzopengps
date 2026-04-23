@@ -13,8 +13,8 @@ SALO=  {layer: 113764, csfn: "layer_113764_cs",   tbln: "nz_suburbs_and_localiti
 
 LAST_FN="LINZ_last.date"
 LAST_SAL="LINZ_last_SAL.date"
-SAL_SENTINEL="..\..\LinzDataService\nz-suburbs-and-localities.sentinel"
-ADD_SENTINEL="..\database.date"
+SAL_SENTINEL="../../LinzDataService/nz-suburbs-and-localities.sentinel"
+ADD_SENTINEL="../database.date"
 
 DEBUG=true
 
@@ -347,23 +347,6 @@ def check_for_errors(options)
 			print "%s %s " % [row['__change__'],row['count']]
 		end
 		puts
-puts <<THEEND
- #     #                                 #####                              ###     
- ##    # ###### ###### #####   ####     #     # #    # ######  ####  #    # ###     
- # #   # #      #      #    # #         #       #    # #      #    # #   #  ###     
- #  #  # #####  #####  #    #  ####     #       ###### #####  #      ####    #      
- #   # # #      #      #    #      #    #       #    # #      #      #  #           
- #    ## #      #      #    # #    #    #     # #    # #      #    # #   #  ###     
- #     # ###### ###### #####   ####      #####  #    # ######  ####  #    # ###     
-                                                                                    
-                                               #                             #####  
- #    #   ##   ##### ###### #####  #   #      #  #    # ###### ##### #    # #     # 
- #    #  #  #    #   #      #    #  # #      #   ##   #     #    #   ##  ##       # 
- #    # #    #   #   #####  #    #   #      #    # #  #    #     #   # ## #    ###  
- # ## # ######   #   #      #####    #     #     #  # #   #      #   #    #    #    
- ##  ## #    #   #   #      #   #    #    #      #   ##  #       #   #    #         
- #    # #    #   #   ###### #    #   #   #       #    # ######   #   #    #    #    
-THEEND
 		
 	end
 

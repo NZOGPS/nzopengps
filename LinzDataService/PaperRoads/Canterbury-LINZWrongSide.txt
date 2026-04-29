@@ -199,3 +199,7 @@ There are two other properties at the 'low' end of the road that are numbered op
 3004874	77L St Lukes St, Woolston		-43.546967 172.691254	Middle of the road	Another odd one. Is it a utility or something?
 3003402	25B Watson St, Akaroa		-43.810300 172.967674	Odd number or location or association	Is it the reserve? Watson in this area is over 60. Is it 25B Penlington Place?
 3000883	2F Goulding Ave, Hornby		-43.544553 172.524278	Odd number or location	Opposite 20. 21 possibly?
+--- Maybe sent already?
+3000664	44A Park Terrace, Corsair Bay, Lyttelton	2026/04/25 02:04	-43.605923,172.700661
+--- LINZ feedback 20260419.ods
+1755690	40 Archdalls Road, Robinsons Bay	2026/04/25 02:04	-43.762301,172.950357

@@ -1,12 +1,13 @@
-Start = 2026-04-23 01:26:46 +1200
+Start = 2026-04-28 12:02:27 +1200
 #############################
 
-5 LINZ ids are missing from NZOGPS Northland
+6 LINZ ids are missing from NZOGPS Northland
 ;linzid=3086058	Frontier Cres	-36.109556221638684,174.57104669098936
 ;linzid=3086061	Awa Lane	-36.10794456988933,174.5751267025035
 ;linzid=3086062	Pioneer Lane	-36.108891957853814,174.57078864057394
 ;linzid=3086059	Bushlander Way	-36.1075764398508,174.5711811667693
 ;linzid=3086060	Kauri Gum Cres	-36.10750836144595,174.5730412331076
+;linzid=3086091	Stanley Grv	-35.99113882087682,174.4500926931692
 #############################
 
 0 LINZ ids are in NZOGPS Northland but missing from LINZ
@@ -15,5 +16,5 @@ Start = 2026-04-23 01:26:46 +1200
 0 Number range ids are missing from NZOGPS Northland
 #############################
 
-Finish = 2026-04-23 01:26:46 +1200
-Processing time = 0.6334385
+Finish = 2026-04-28 12:02:28 +1200
+Processing time = 0.6361465

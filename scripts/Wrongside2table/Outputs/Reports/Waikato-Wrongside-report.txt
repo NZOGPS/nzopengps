@@ -1,164 +1,163 @@
-117 entries in C:\users\Gary\nzopengps\LinzDataService\PaperRoads\Waikato-WrongSide.txt
+118 entries in C:\users\Gary\nzopengps\LinzDataService\PaperRoads\Waikato-WrongSide.txt
 Warning: duplicate entries for 644444 on line 332 in C:\users\Gary\nzopengps\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
 Warning: duplicate entries for 744961 on line 337 in C:\users\Gary\nzopengps\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-334 entries in C:\users\Gary\nzopengps\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
-296 wrongside numbers,  not in Exclusion files
+335 entries in C:\users\Gary\nzopengps\LinzDataService\PaperRoads\Waikato-LINZWrongSide.txt
+299 wrongside numbers,  not in Exclusion files
 28 entries in Ignore list are no longer on the wrong side
-2442513	7/7 Arikirua Lane, Cambridge	2025/10/23 00:31	-37.890884,175.446872
-844475	2034 GALATEA ROAD	2013/10/15 21:38	-38.186882,176.837399
-1709723	4/1 SPENCE LANE	2013/10/15 21:58	-37.962597,176.977615
-1709725	6/1 SPENCE LANE	2013/10/15 21:58	-37.962473,176.977614
-1338933	444A UNION ROAD	2014/04/18 13:45	-37.202189,174.814438
-2442511	5/7 Arikirua Lane, Cambridge	2025/10/23 00:30	-37.890517,175.446849
-1600349	7/387 POKURU ROAD NORTH	2013/10/15 19:55	-38.443894,175.836596
-654164	44 Ireland Road, Otorohanga	2021/12/18 19:49	-38.217913,175.191940
 2442508	2/7 Arikirua Lane, Cambridge	2025/10/22 23:06	-37.890386,175.447428
-1709721	2/1 SPENCE LANE	2013/10/15 21:58	-37.962708,176.977733
-1709726	7/1 SPENCE LANE	2013/10/15 21:57	-37.962402,176.977615
-1600361	2/387 Pokuru Road North, Whakamaru	2018/03/10 23:37	-38.445878,175.834933
-2442510	4/7 Arikirua Lane, Cambridge	2025/10/22 23:05	-37.890325,175.446866
-2442514	8/7 Arikirua Lane, Cambridge	2025/10/22 23:05	-37.890636,175.447171
-1311157	36A-36B STUART ROAD	2014/04/18 13:02	-37.163198,175.086101
-1673636	51C Emeny Road, Whakamarama	2018/02/25 14:23	-37.674178,176.040328
-1101260	35A Wallace Drive, Clarks Beach	2021/01/14 23:06	-37.137478,174.736281
-1709720	1/1 SPENCE LANE	2013/10/15 21:58	-37.962709,176.977832
-1709724	5/1 SPENCE LANE	2013/10/15 21:58	-37.962536,176.977613
-2442507	1/7 Arikirua Lane, Cambridge	2025/10/22 23:06	-37.890392,175.447677
 2393877	285C Drury Hills Road, Drury	2025/09/29 11:09	-37.110157,174.989973
-2442512	6/7 Arikirua Lane, Cambridge	2025/10/22 23:05	-37.890708,175.446855
-2442509	3/7 Arikirua Lane, Cambridge	2025/10/22 23:05	-37.890372,175.447166
-1600362	4/387 Pokuru Road North, Whakamaru	2018/03/10 23:37	-38.444751,175.842512
-1709722	3/1 SPENCE LANE	2013/10/15 21:58	-37.962649,176.977615
-744143	387 POKURU ROAD NORTH	2013/10/15 19:55	-38.443810,175.838029
+1101260	35A Wallace Drive, Clarks Beach	2021/01/14 23:06	-37.137478,174.736281
+1673636	51C Emeny Road, Whakamarama	2018/02/25 14:23	-37.674178,176.040328
 848394	1A SPENCE LANE	2013/10/15 21:58	-37.962847,176.977845
+1709724	5/1 SPENCE LANE	2013/10/15 21:58	-37.962536,176.977613
+2442511	5/7 Arikirua Lane, Cambridge	2025/10/23 00:30	-37.890517,175.446849
+1709723	4/1 SPENCE LANE	2013/10/15 21:58	-37.962597,176.977615
+1709726	7/1 SPENCE LANE	2013/10/15 21:57	-37.962402,176.977615
+1709720	1/1 SPENCE LANE	2013/10/15 21:58	-37.962709,176.977832
 1242202	4 COMRIE PLACE	2014/04/18 13:29	-37.188903,174.903821
+1709722	3/1 SPENCE LANE	2013/10/15 21:58	-37.962649,176.977615
+1600362	4/387 Pokuru Road North, Whakamaru	2018/03/10 23:37	-38.444751,175.842512
+2442507	1/7 Arikirua Lane, Cambridge	2025/10/22 23:06	-37.890392,175.447677
+2442514	8/7 Arikirua Lane, Cambridge	2025/10/22 23:05	-37.890636,175.447171
+1600361	2/387 Pokuru Road North, Whakamaru	2018/03/10 23:37	-38.445878,175.834933
+1709721	2/1 SPENCE LANE	2013/10/15 21:58	-37.962708,176.977733
+2442513	7/7 Arikirua Lane, Cambridge	2025/10/23 00:31	-37.890884,175.446872
+2442510	4/7 Arikirua Lane, Cambridge	2025/10/22 23:05	-37.890325,175.446866
+2442512	6/7 Arikirua Lane, Cambridge	2025/10/22 23:05	-37.890708,175.446855
+1338933	444A UNION ROAD	2014/04/18 13:45	-37.202189,174.814438
+744143	387 POKURU ROAD NORTH	2013/10/15 19:55	-38.443810,175.838029
+844475	2034 GALATEA ROAD	2013/10/15 21:38	-38.186882,176.837399
+1600349	7/387 POKURU ROAD NORTH	2013/10/15 19:55	-38.443894,175.836596
+1709725	6/1 SPENCE LANE	2013/10/15 21:58	-37.962473,176.977614
+2442509	3/7 Arikirua Lane, Cambridge	2025/10/22 23:05	-37.890372,175.447166
+654164	44 Ireland Road, Otorohanga	2021/12/18 19:49	-38.217913,175.191940
+1311157	36A-36B STUART ROAD	2014/04/18 13:02	-37.163198,175.086101
 
-127 entries in Linz list are no longer on the wrong side
-1271424	147 Emerton Road, Waihi Beach	2018/02/25 17:41	-37.430591,175.957378			
-850079	44A Grace Road, Taneatua	2021/12/18 19:48	-38.063314,176.983443			
-1638554	2B Tui Place, Te Kowhai	2018/02/25 14:28	-37.738955,175.157416	These points seem offset to the north a bit and are in the middle of the road. Try S37°44.3407' E175°09.4477'		
-2164909	348 Tutaetoko Road, Toatoa	2022/02/04 16:53	-38.102590,177.338039			
-721244	5 Village Road, Pureora Forest Park	2018/02/20 22:19	-38.516840,175.552235	All these points seem offset to the south a bit. This one's the worst.		
-1311825	154 Ruakiwi Road, Waingaro	2018/03/10 23:40	-37.727164,174.956080	There is a driveway across the road, at S37°43.5957' E174°57.3350' that matches the correct RAPID numbering		
-1281931	234 Maxted Road, Ramarama	2021/12/18 17:16	-37.155363,174.994174	location appears to correlate with a dwelling, number roughly right, but there's already 233 and 235		
-1619037	24 Hodge Drive, Tamahere	2018/02/25 14:58	-37.818122,175.364398	Hodge Dr seems to swap sides 1/2 way along. Is that correct?		
-854242	34 Wardlaw Road, Waimana	2021/12/18 19:45	-38.139270,177.062154	Not only the wrong side of the road, but the wrong side of th river too.		
-649320	1583 SH  3	2013/10/15 19:24	-38.320394,175.148084			
-904939	274 Brien Road, Onewhero	2018/02/19 01:03	-37.410444,174.825925			
-367258	1270 WELCOME BAY ROAD	2013/11/14 22:20	-37.722326,176.283815			
-2252338	16 Pizzini Road, Orini	2021/12/18 18:38	-37.530745,175.242644	ditto		
-1572139	167 Cumberland Drive, Flagstaff, Hamilton	2018/02/25 15:19	-37.724068,175.237298			
-705437	508 Hautapu Road, Tamahere	2018/02/20 22:10	-37.859837,175.397692			
-1010387	2 NOBLE JOHNSTON DRIVE	2013/12/09 19:49	-37.550184,175.920490			
-2033930	144 Driver Road, Ngaruawahia	2018/02/18 14:56	-37.667828,175.184264			
-2198090	745 Motu Road, Toatoa	2022/02/04 17:33	-38.021534,177.435026	745 would be around S38.022205° E177.435563° but there doesn't appear to be anything there.		
-1437225	990 STATE HIGHWAY 2 EAST	2013/10/15 21:07	-38.123598,177.064352			
-1421731	34 Heath Road, Waihi	2021/12/18 18:09	-37.395122,175.854597	very close to 33A (745477) - duplicate?		
-28						
-650644	180 Tregoweth Lane, Huntly	2018/02/25 13:22	-37.583161,175.159937			
-1850313	2157 Scott Road, Mangakino	2021/12/18 23:55	-38.480636,175.584901	Fairly obvious driveway matching numbering at	S38.482994° E175.586694°	
-2252934	2701 State Highway 35, Hawai	2022/02/04 17:55	-37.924001,177.524248	All other numbers here are even.		
-652139	9 LAWLOR STREET	2013/10/15 19:30	-38.343391,175.162625			
-1521962	110 Wharenui Road, Owhata, Rotorua	2025/09/29 18:49	-38.139584,176.306801			
-1293342	233 PUKEKOHE EAST ROAD	2014/04/18 13:26	-37.196113,174.947185			
-743115	359 Pokuru Road North, Whakamaru	2022/02/04 16:07	-38.445577,175.831322	Dwelling at S38.443130° E175.830312°. Number on fence on streetview.		
-844816	9 Thornton Hall Road, Thornton	2018/02/22 00:26	-37.921748,176.866946	In the middle of the road. Perhaps S37°55.3027' E176°52.0071'		
-822883	586 Te Toke Road, Tahorakuri Forest	2021/12/19 00:01	-38.588826,176.269666	The points on this section of road appear to be offset to the west. There's a building matching RAPID atS38.588659° E176.270115°		
-1362325	33 CASTLEGRACE DRIVE	2013/12/09 19:48	-37.522871,175.935786			
-1430208	2 Abbott Road, Waikino, Waihi	2018/02/25 15:53	-37.409290,175.772052			
-571089	4606 SH 35	2013/10/15 20:51	-37.858773,177.613847			
-839058	125A PINE DRIVE	2013/10/15 20:13	-38.452859,176.701981			
-1308728	602 Buckland Road, Buckland	2018/02/25 17:03	-37.230330,174.925036			
-2027052	852 Ruatoki Valley Road, Ruatoki	2018/02/18 19:51	-38.209179,177.003556			
-568573	1849A State Highway 2, Waiotahe, Opotiki	2018/02/18 20:29	There's a driveway at S38°00.0694' E177°15.7499' that matches the correct RAPID numbering			
-743406	1055 TAIRUA ROAD	2014/04/18 15:30	-37.141535,175.841123			
-737214	1240 State Highway 1, Tirau	2018/02/20 22:40	-37.984974,175.766915			
-1333815	6 Totman Road, Piarere	2018/02/25 16:58	-37.942058,175.755426	In the middle of the road. S37°56.5124' E175°45.3332' looks like it fits?		
-2150772	283 Taihamiti Road, Whatatutu	2022/02/04 17:28	-38.399216,177.861514	Middle of the river... Farm track roughly matching 283 at S38.401619° E177.855485°		
-1709433	164 Burke Road, Wainui	2021/12/18 18:54	-38.008823,177.104364	ditto		
-1474252	1030 Ngatira Road, Ngatira	2018/02/25 15:47	-38.099753,175.912353	There is a dwelling across the road, at S38°06.0098' E175°54.6810' that matches the correct RAPID numbering		
-2198095	1116 State Highway 35, Toatoa	2022/02/04 17:34	-37.986419,177.395073	Middle of the road. 116 would be around S37.988942° E177.392267° but there doesn't appear to be anything there.		
-744144	946 KAAHU ROAD	2013/10/15 19:52	-38.492726,175.835040			
-763640	480 WORK ROAD	2013/12/12 19:51	-37.658626,175.946521			
-1572245	562 Kingseat Road, Kingseat	2018/02/25 15:18	-37.147047,174.796813			
-2323612	11433B State Highway 35, Cape Runaway	2025/09/29 19:15	-37.571959,178.007281			
-1366094	1500 Maniatutu Road, Pongakawa	2021/12/18 18:07	-37.933449,176.444752	obvious dwelling at the point, but also a building across the road where 1500 would be...		
-1021258	400 Raynes Road, Rukuhia	2018/02/22 00:20	-37.849488,175.342911			
-1175297	39 MAUKU ROAD	2014/04/18 13:43	-37.191283,174.823473			
-2392968	108B Kirk Road, Richmond Downs	2025/10/22 23:09	-37.754929,175.695600			
-3083315	Lerwick Lane, Nukuhou	2026/03/21 16:28	-38.134582 177.115773	Funky numbering 	5,7,9 are odd on the left. Then it swaps to 19,25 odd on the right!	
-1281241	94 RAMARAMA ROAD	2014/04/18 12:52	-37.134133,174.976478			
-2364314	13B Puriri Street, Te Aroha	2025/10/22 23:09	-37.539594,175.715247			
-2241849	486A Mangatea Road, Te Kuiti	2022/02/04 17:41	-38.342016,175.121681	ditto		
-2155066	550 Mangatoi Road, Oropi	2021/12/18 17:49	-37.910678,176.199381	obvious dwellings here, numbering roughly right for RAPID. 490(799907) down the road is also odd, previously reported?		
-643859	1600 Harbour Road, Owhiro	2018/02/19 23:16	-38.133632,174.864232	There is a drive across the road, at S38°07.9970' E174°51.8278' that matches the correct RAPID numbering		
-2122219	111 Old Highway, Whakamarama	2018/02/25 13:27	-37.664525,176.000109			
-20211218						
-1719803	119 BAIRD ROAD	2014/04/18 13:04	-37.230418,175.040647			
-2223780	70 Crooked Road, Otara	2022/02/04 17:36	-38.028884,177.259136	Obvious building. 71?		
-723969	170 Captain Cook Road, Netherton	2022/02/04 16:22	-37.295207,175.623192			
-1753903	800 Waiotahi Valley Road, Waiotahe Valley	2021/12/18 23:19	-38.080373,177.186861	Nothing obvious at 800. Buildings here, but the number looks like it should be 783 to me.		
-1535801	9 EASTFIELD	2014/04/18 15:37	-37.399505,175.145367			
-823881	638 Te Toke Road, Tahorakuri Forest	2021/12/19 00:01	-38.585219,176.271646	ditto	S38.585383° E176.271864°	
-2122555	88 Ingram Road, Rukuhia	2018/02/25 13:26	-37.870580,175.326674	This is on the wrong side based on the centreline as at 11/2/18		
-845370	2446A Mataatua Road, Ruatahuna	2022/02/04 18:03	-38.507939,176.930034			
-1306693	9 Seddon Street, Waikino, Waihi	2018/02/25 17:04	-37.412796,175.780063			
-2164850	5978 Waioeka Road, Waioeka	2022/02/04 17:03	-38.262040,177.300601	Obvious habitation, but ddd number. Not only wrong side, but way out from even/RAPID numbering. My estimation this should be something like 5383		
-1297398	6144 SH 35	2013/10/15 20:50	-37.782698,177.657514			
-1389575	121 Princes Street, Waikino, Waihi	2018/02/25 16:10	-37.410988,175.759611	Point is in the middle of the road		
-830646	15 KING STREET	2013/11/14 18:55	-37.784515,176.331834			
-2323611	11433A State Highway 35, Cape Runaway	2025/09/29 19:15	-37.572195,178.006597			
-1751803	796 Waotu Road, Waotu	2018/02/18 12:24	-38.112862,175.716188	There's a driveway at S38°06.9058' E175°42.9295' that matches the correct RAPID numbering		
-1267857	50 BUCKVILLE ROAD	2014/04/18 13:25	-37.226525,174.934349			
-652110	7 LAWLOR STREET	2013/10/15 19:30	-38.343933,175.162963			
-1535188	4306 Ruatahuna Road, Ruatahuna	2021/12/18 18:23	-38.614073,176.875151			
-2313903	29 Potikirua Road, Hicks Bay	2025/09/29 18:45	-37.552000,178.149984			
-1301836	15 HIWARAU ROAD	2013/10/15 21:00	-38.039404,177.137064			
-2003697	698 Te Toke Road, Tahorakuri Forest	2021/12/19 00:01	-38.583838,176.272350	no obvious building matching 698, but there is one around 656 at 	S38.584273° E176.272490°	
-1315592	353 Cambridge Road, Hillcrest, Hamilton	2018/02/25 17:02	-37.805043,175.327813			
-568574	1849B State Highway 2, Waiotahe, Opotiki	2018/02/18 20:29	There's a driveway at S38°00.0694' E177°15.7499' that matches the correct RAPID numbering			
-1343776	232 PUKEKOHE EAST ROAD	2014/04/18 13:26	-37.195598,174.947083			
-1619036	21A Hodge Drive, Tamahere	2018/02/25 14:58	-37.817603,175.365645			
-1410937	1311 Motu Road, Toatoa	2022/02/04 17:23	-38.055604,177.456931	Clear entranceway 1311?		
-653798	1 WRIGHT STREET	2013/10/29 22:25	-37.612081,175.187234			
-1366936	547 SH  2	2014/04/18 13:03	-37.213690,175.071515			
-1753904	120 Woodlands Road, Opotiki	2018/02/18 12:27	-38.028761,177.270980			
-390358	79A Jess Road, Whakamarama	2022/02/04 18:02	-37.674607,176.044789	There doesn't appear to be a 79. But there is a 78?		
-822884	596 Te Toke Road, Tahorakuri Forest	2021/12/19 00:01	-38.587339,176.270466	ditto	S38.588046° E176.270374°, and a building at	S38.588209° E176.271792°
-900296	757 MANGAITI ROAD	2013/10/15 19:43	-38.560789,175.240809			
-1366887	280 State Highway 30, Benneydale	2018/02/25 16:33	-38.498739,175.390346			
-1638553	2A Tui Place, Te Kowhai	2018/02/25 14:28	-37.738960,175.157310	These points seem offset to the north a bit and are in the middle of the road. Try S37°44.3421' E175°09.4391'		
-2225553	486 Mangatea Road, Te Kuiti	2022/02/04 17:41	-38.341855,175.119720	Obvious building. 485		
-832408	502 Bell Road, Papamoa	2022/02/04 15:39	-37.741330,176.353846	Bell Rd has possibly be realigned. As it appears to possibly be a park, could be renumbered? 		
-1338596	113 Heights Road, Paerata	2021/12/18 17:23	-37.180017,174.889495	dwelling here, number roughly right. 114? 		
-2265403	42 Manoeka Road, Te Puke	2022/02/04 17:59	-37.767559,176.299367	S37.766982° E176.298275° ?		
-1308727	600 Buckland Road, Buckland	2018/02/25 17:03	-37.230258,174.925401			
-852595	1205 WHITE PINE BUSH ROAD	2013/10/15 21:42	-38.054051,176.996395			
-1708239	50 WILLIAM STREET	2013/10/15 19:27	-38.334487,175.176306			
-1648202	10 Storey Road, Waiterimu	2018/02/25 14:26	-37.514439,175.291905	There is a drive across the road, at S37°30.9198' E175°17.4865' that matches the correct RAPID numbering		
-1634990	147 Toone Road, Waiotahe, Opotiki	2021/12/18 18:30	-38.045961,177.174315	also 147A previously reported. Based on location of 192. looks like they might be 140 or 164 depending on the driveway ;)		
-733292	29A SCHOOL ROAD	2013/12/12 20:24	-37.421890,175.724025			
+126 entries in Linz list are no longer on the wrong side
 788506	471 Dansey Road, Ngongotaha Valley	2018/02/20 23:14	-38.092370,176.139304	This point seems offset to the north a bit and is in the middle of the road. Try S38°05.5506' E176°08.3577'		
-1709060	568 Pokairoa Road, Matahina Forest	2021/12/18 18:48	-38.205291,176.785729			
-1432132	581 Uapoto Road, Taupiri	2021/12/18 18:15	-37.581588,175.230344	also 583 next door.		
-1676287	172 OPARURE ROAD	2013/10/15 19:23	-38.311601,175.128421			
-700145	64 Ryburn Road, Newstead	2022/02/04 16:24	-37.770675,175.330289	Another realigned road. Swallowed by expressway?		
-2426348	239 Mohokopiki Street, Fairview Downs, Hamilton	2025/10/22 23:10	-37.760057,175.314338			
-1605601	670 Taumata Road, Omanawa	2018/02/25 15:12	-37.883912,176.114713			
-1753872	958 Otara East Road, Tirohanga	2018/02/18 12:27	-38.078403,177.363776			
-836635	972 Matahi Road, Lake Rotoma	2018/02/20 23:53	-38.064983,176.601935			
-1376253	298 SH  2	2013/11/14 18:46	-37.791580,176.358506			
-1753889	6407 State Highway 35, Te Kaha	2021/12/18 19:36	-37.767557,177.682984	could be point is not ideally placed? No obvious dwelling here.		
-1541368	478 Wilton Collieries Road, Glen Massey	2021/12/18 18:25	-37.693037,175.056599	perhaps should be further back, as it's opposite 496?		
-1592039	530A Lund Road, Aongatete	2021/12/18 18:28	-37.617836,175.876381	a bit strange - between 449B and 425B..		
 684360	586 Waiterimu Road, Waiterimu	2018/02/20 21:15	-37.454816,175.289783	There's a driveway and dwelling at S37°27.6119' E175°17.3423' that matches the correct RAPID numbering		
-1309124	50A WILLIAM STREET	2013/10/15 19:27	-38.334469,175.176414			
-723244	2352 Scott Road, Mangakino	2021/12/18 23:55	-38.481543,175.588245	no obvious features at either the coordinates or numbering.		
+652139	9 LAWLOR STREET	2013/10/15 19:30	-38.343391,175.162625			
+2150772	283 Taihamiti Road, Whatatutu	2022/02/04 17:28	-38.399216,177.861514	Middle of the river... Farm track roughly matching 283 at S38.401619° E177.855485°		
+1297398	6144 SH 35	2013/10/15 20:50	-37.782698,177.657514			
+1634990	147 Toone Road, Waiotahe, Opotiki	2021/12/18 18:30	-38.045961,177.174315	also 147A previously reported. Based on location of 192. looks like they might be 140 or 164 depending on the driveway ;)		
+1311825	154 Ruakiwi Road, Waingaro	2018/03/10 23:40	-37.727164,174.956080	There is a driveway across the road, at S37°43.5957' E174°57.3350' that matches the correct RAPID numbering		
+830646	15 KING STREET	2013/11/14 18:55	-37.784515,176.331834			
+1648202	10 Storey Road, Waiterimu	2018/02/25 14:26	-37.514439,175.291905	There is a drive across the road, at S37°30.9198' E175°17.4865' that matches the correct RAPID numbering		
+1338596	113 Heights Road, Paerata	2021/12/18 17:23	-37.180017,174.889495	dwelling here, number roughly right. 114? 		
+1021258	400 Raynes Road, Rukuhia	2018/02/22 00:20	-37.849488,175.342911			
+2003697	698 Te Toke Road, Tahorakuri Forest	2021/12/19 00:01	-38.583838,176.272350	no obvious building matching 698, but there is one around 656 at 	S38.584273° E176.272490°	
+1753904	120 Woodlands Road, Opotiki	2018/02/18 12:27	-38.028761,177.270980			
 2297619	1140 Waimai Valley Road, Te Akau, Ngaruawahia	2025/09/29 18:45	-37.641362,174.856455			
-570784	2268 Motu Road, Toatoa	2022/02/04 16:32	-38.098806,177.486486	otherwise unnumbered dwelling at S38.105099° E177.495953° that roughly matches numbering.		
+1343776	232 PUKEKOHE EAST ROAD	2014/04/18 13:26	-37.195598,174.947083			
+1315592	353 Cambridge Road, Hillcrest, Hamilton	2018/02/25 17:02	-37.805043,175.327813			
+1309124	50A WILLIAM STREET	2013/10/15 19:27	-38.334469,175.176414			
+1362325	33 CASTLEGRACE DRIVE	2013/12/09 19:48	-37.522871,175.935786			
+723244	2352 Scott Road, Mangakino	2021/12/18 23:55	-38.481543,175.588245	no obvious features at either the coordinates or numbering.		
+1376253	298 SH  2	2013/11/14 18:46	-37.791580,176.358506			
+2027052	852 Ruatoki Valley Road, Ruatoki	2018/02/18 19:51	-38.209179,177.003556			
+1410937	1311 Motu Road, Toatoa	2022/02/04 17:23	-38.055604,177.456931	Clear entranceway 1311?		
+2198090	745 Motu Road, Toatoa	2022/02/04 17:33	-38.021534,177.435026	745 would be around S38.022205° E177.435563° but there doesn't appear to be anything there.		
 609944	56 Casey Road, Whatawhata	2018/02/25 13:23	-37.778993,175.144046	There is a drive across the road, at S37°46.7545' E175°08.5889' that matches the correct RAPID numbering		
-847752	857 WHITE PINE BUSH ROAD	2013/10/15 21:43	-38.035437,176.967186			
+823881	638 Te Toke Road, Tahorakuri Forest	2021/12/19 00:01	-38.585219,176.271646	ditto	S38.585383° E176.271864°	
+2164850	5978 Waioeka Road, Waioeka	2022/02/04 17:03	-38.262040,177.300601	Obvious habitation, but ddd number. Not only wrong side, but way out from even/RAPID numbering. My estimation this should be something like 5383		
+1638553	2A Tui Place, Te Kowhai	2018/02/25 14:28	-37.738960,175.157310	These points seem offset to the north a bit and are in the middle of the road. Try S37°44.3421' E175°09.4391'		
+2241849	486A Mangatea Road, Te Kuiti	2022/02/04 17:41	-38.342016,175.121681	ditto		
+2323612	11433B State Highway 35, Cape Runaway	2025/09/29 19:15	-37.571959,178.007281			
 2252337	18 Pizzini Road, Orini	2021/12/18 18:39	-37.530142,175.241751	ditto		
-2261099	719 Waihi Beach Road, Waihi Beach	2022/02/04 16:42	-37.409532,175.931582	Obvious entrance matching numbering at S37.409595° E175.930111°		
+839058	125A PINE DRIVE	2013/10/15 20:13	-38.452859,176.701981			
+1421731	34 Heath Road, Waihi	2021/12/18 18:09	-37.395122,175.854597	very close to 33A (745477) - duplicate?		
+852595	1205 WHITE PINE BUSH ROAD	2013/10/15 21:42	-38.054051,176.996395			
+822883	586 Te Toke Road, Tahorakuri Forest	2021/12/19 00:01	-38.588826,176.269666	The points on this section of road appear to be offset to the west. There's a building matching RAPID atS38.588659° E176.270115°		
+1753872	958 Otara East Road, Tirohanga	2018/02/18 12:27	-38.078403,177.363776			
+571089	4606 SH 35	2013/10/15 20:51	-37.858773,177.613847			
+1474252	1030 Ngatira Road, Ngatira	2018/02/25 15:47	-38.099753,175.912353	There is a dwelling across the road, at S38°06.0098' E175°54.6810' that matches the correct RAPID numbering		
+2122219	111 Old Highway, Whakamarama	2018/02/25 13:27	-37.664525,176.000109			
+822884	596 Te Toke Road, Tahorakuri Forest	2021/12/19 00:01	-38.587339,176.270466	ditto	S38.588046° E176.270374°, and a building at	S38.588209° E176.271792°
+1541368	478 Wilton Collieries Road, Glen Massey	2021/12/18 18:25	-37.693037,175.056599	perhaps should be further back, as it's opposite 496?		
+649320	1583 SH  3	2013/10/15 19:24	-38.320394,175.148084			
+2155066	550 Mangatoi Road, Oropi	2021/12/18 17:49	-37.910678,176.199381	obvious dwellings here, numbering roughly right for RAPID. 490(799907) down the road is also odd, previously reported?		
+743406	1055 TAIRUA ROAD	2014/04/18 15:30	-37.141535,175.841123			
+1333815	6 Totman Road, Piarere	2018/02/25 16:58	-37.942058,175.755426	In the middle of the road. S37°56.5124' E175°45.3332' looks like it fits?		
+845370	2446A Mataatua Road, Ruatahuna	2022/02/04 18:03	-38.507939,176.930034			
+1366936	547 SH  2	2014/04/18 13:03	-37.213690,175.071515			
+2313903	29 Potikirua Road, Hicks Bay	2025/09/29 18:45	-37.552000,178.149984			
+2265403	42 Manoeka Road, Te Puke	2022/02/04 17:59	-37.767559,176.299367	S37.766982° E176.298275° ?		
+2392968	108B Kirk Road, Richmond Downs	2025/10/22 23:09	-37.754929,175.695600			
+1709433	164 Burke Road, Wainui	2021/12/18 18:54	-38.008823,177.104364	ditto		
+2225553	486 Mangatea Road, Te Kuiti	2022/02/04 17:41	-38.341855,175.119720	Obvious building. 485		
+1175297	39 MAUKU ROAD	2014/04/18 13:43	-37.191283,174.823473			
+723969	170 Captain Cook Road, Netherton	2022/02/04 16:22	-37.295207,175.623192			
+1010387	2 NOBLE JOHNSTON DRIVE	2013/12/09 19:49	-37.550184,175.920490			
+1535188	4306 Ruatahuna Road, Ruatahuna	2021/12/18 18:23	-38.614073,176.875151			
+3083315	Lerwick Lane, Nukuhou	2026/03/21 16:28	-38.134582 177.115773	Funky numbering 	5,7,9 are odd on the left. Then it swaps to 19,25 odd on the right!	
+2252338	16 Pizzini Road, Orini	2021/12/18 18:38	-37.530745,175.242644	ditto		
+570784	2268 Motu Road, Toatoa	2022/02/04 16:32	-38.098806,177.486486	otherwise unnumbered dwelling at S38.105099° E177.495953° that roughly matches numbering.		
+1572245	562 Kingseat Road, Kingseat	2018/02/25 15:18	-37.147047,174.796813			
+1430208	2 Abbott Road, Waikino, Waihi	2018/02/25 15:53	-37.409290,175.772052			
+1719803	119 BAIRD ROAD	2014/04/18 13:04	-37.230418,175.040647			
+1709060	568 Pokairoa Road, Matahina Forest	2021/12/18 18:48	-38.205291,176.785729			
 758727	52 KILLEN ROAD	2013/12/11 22:37	-37.581402,175.889713			
+2364314	13B Puriri Street, Te Aroha	2025/10/22 23:09	-37.539594,175.715247			
+1366094	1500 Maniatutu Road, Pongakawa	2021/12/18 18:07	-37.933449,176.444752	obvious dwelling at the point, but also a building across the road where 1500 would be...		
+854242	34 Wardlaw Road, Waimana	2021/12/18 19:45	-38.139270,177.062154	Not only the wrong side of the road, but the wrong side of th river too.		
+900296	757 MANGAITI ROAD	2013/10/15 19:43	-38.560789,175.240809			
+1281931	234 Maxted Road, Ramarama	2021/12/18 17:16	-37.155363,174.994174	location appears to correlate with a dwelling, number roughly right, but there's already 233 and 235		
+832408	502 Bell Road, Papamoa	2022/02/04 15:39	-37.741330,176.353846	Bell Rd has possibly be realigned. As it appears to possibly be a park, could be renumbered? 		
+763640	480 WORK ROAD	2013/12/12 19:51	-37.658626,175.946521			
+1293342	233 PUKEKOHE EAST ROAD	2014/04/18 13:26	-37.196113,174.947185			
+1605601	670 Taumata Road, Omanawa	2018/02/25 15:12	-37.883912,176.114713			
+1676287	172 OPARURE ROAD	2013/10/15 19:23	-38.311601,175.128421			
+844816	9 Thornton Hall Road, Thornton	2018/02/22 00:26	-37.921748,176.866946	In the middle of the road. Perhaps S37°55.3027' E176°52.0071'		
+1753903	800 Waiotahi Valley Road, Waiotahe Valley	2021/12/18 23:19	-38.080373,177.186861	Nothing obvious at 800. Buildings here, but the number looks like it should be 783 to me.		
+2122555	88 Ingram Road, Rukuhia	2018/02/25 13:26	-37.870580,175.326674	This is on the wrong side based on the centreline as at 11/2/18		
+836635	972 Matahi Road, Lake Rotoma	2018/02/20 23:53	-38.064983,176.601935			
+1308728	602 Buckland Road, Buckland	2018/02/25 17:03	-37.230330,174.925036			
+1572139	167 Cumberland Drive, Flagstaff, Hamilton	2018/02/25 15:19	-37.724068,175.237298			
+1281241	94 RAMARAMA ROAD	2014/04/18 12:52	-37.134133,174.976478			
+1753889	6407 State Highway 35, Te Kaha	2021/12/18 19:36	-37.767557,177.682984	could be point is not ideally placed? No obvious dwelling here.		
+733292	29A SCHOOL ROAD	2013/12/12 20:24	-37.421890,175.724025			
+568573	1849A State Highway 2, Waiotahe, Opotiki	2018/02/18 20:29	There's a driveway at S38°00.0694' E177°15.7499' that matches the correct RAPID numbering			
+1432132	581 Uapoto Road, Taupiri	2021/12/18 18:15	-37.581588,175.230344	also 583 next door.		
+700145	64 Ryburn Road, Newstead	2022/02/04 16:24	-37.770675,175.330289	Another realigned road. Swallowed by expressway?		
+847752	857 WHITE PINE BUSH ROAD	2013/10/15 21:43	-38.035437,176.967186			
+2426348	239 Mohokopiki Street, Fairview Downs, Hamilton	2025/10/22 23:10	-37.760057,175.314338			
+367258	1270 WELCOME BAY ROAD	2013/11/14 22:20	-37.722326,176.283815			
+1389575	121 Princes Street, Waikino, Waihi	2018/02/25 16:10	-37.410988,175.759611	Point is in the middle of the road		
+1751803	796 Waotu Road, Waotu	2018/02/18 12:24	-38.112862,175.716188	There's a driveway at S38°06.9058' E175°42.9295' that matches the correct RAPID numbering		
+28						
+1638554	2B Tui Place, Te Kowhai	2018/02/25 14:28	-37.738955,175.157416	These points seem offset to the north a bit and are in the middle of the road. Try S37°44.3407' E175°09.4477'		
+1850313	2157 Scott Road, Mangakino	2021/12/18 23:55	-38.480636,175.584901	Fairly obvious driveway matching numbering at	S38.482994° E175.586694°	
+2261099	719 Waihi Beach Road, Waihi Beach	2022/02/04 16:42	-37.409532,175.931582	Obvious entrance matching numbering at S37.409595° E175.930111°		
+20211218						
+1619036	21A Hodge Drive, Tamahere	2018/02/25 14:58	-37.817603,175.365645			
+1267857	50 BUCKVILLE ROAD	2014/04/18 13:25	-37.226525,174.934349			
+744144	946 KAAHU ROAD	2013/10/15 19:52	-38.492726,175.835040			
+653798	1 WRIGHT STREET	2013/10/29 22:25	-37.612081,175.187234			
+2164909	348 Tutaetoko Road, Toatoa	2022/02/04 16:53	-38.102590,177.338039			
+1535801	9 EASTFIELD	2014/04/18 15:37	-37.399505,175.145367			
+2033930	144 Driver Road, Ngaruawahia	2018/02/18 14:56	-37.667828,175.184264			
+1271424	147 Emerton Road, Waihi Beach	2018/02/25 17:41	-37.430591,175.957378			
+1521962	110 Wharenui Road, Owhata, Rotorua	2025/09/29 18:49	-38.139584,176.306801			
+568574	1849B State Highway 2, Waiotahe, Opotiki	2018/02/18 20:29	There's a driveway at S38°00.0694' E177°15.7499' that matches the correct RAPID numbering			
+743115	359 Pokuru Road North, Whakamaru	2022/02/04 16:07	-38.445577,175.831322	Dwelling at S38.443130° E175.830312°. Number on fence on streetview.		
+652110	7 LAWLOR STREET	2013/10/15 19:30	-38.343933,175.162963			
+1308727	600 Buckland Road, Buckland	2018/02/25 17:03	-37.230258,174.925401			
+390358	79A Jess Road, Whakamarama	2022/02/04 18:02	-37.674607,176.044789	There doesn't appear to be a 79. But there is a 78?		
+2323611	11433A State Highway 35, Cape Runaway	2025/09/29 19:15	-37.572195,178.006597			
+737214	1240 State Highway 1, Tirau	2018/02/20 22:40	-37.984974,175.766915			
+650644	180 Tregoweth Lane, Huntly	2018/02/25 13:22	-37.583161,175.159937			
+643859	1600 Harbour Road, Owhiro	2018/02/19 23:16	-38.133632,174.864232	There is a drive across the road, at S38°07.9970' E174°51.8278' that matches the correct RAPID numbering		
+1301836	15 HIWARAU ROAD	2013/10/15 21:00	-38.039404,177.137064			
+705437	508 Hautapu Road, Tamahere	2018/02/20 22:10	-37.859837,175.397692			
+2223780	70 Crooked Road, Otara	2022/02/04 17:36	-38.028884,177.259136	Obvious building. 71?		
+1708239	50 WILLIAM STREET	2013/10/15 19:27	-38.334487,175.176306			
+904939	274 Brien Road, Onewhero	2018/02/19 01:03	-37.410444,174.825925			
+1306693	9 Seddon Street, Waikino, Waihi	2018/02/25 17:04	-37.412796,175.780063			
+1366887	280 State Highway 30, Benneydale	2018/02/25 16:33	-38.498739,175.390346			
+721244	5 Village Road, Pureora Forest Park	2018/02/20 22:19	-38.516840,175.552235	All these points seem offset to the south a bit. This one's the worst.		
+850079	44A Grace Road, Taneatua	2021/12/18 19:48	-38.063314,176.983443			
+1592039	530A Lund Road, Aongatete	2021/12/18 18:28	-37.617836,175.876381	a bit strange - between 449B and 425B..		
+2252934	2701 State Highway 35, Hawai	2022/02/04 17:55	-37.924001,177.524248	All other numbers here are even.		
+1619037	24 Hodge Drive, Tamahere	2018/02/25 14:58	-37.818122,175.364398	Hodge Dr seems to swap sides 1/2 way along. Is that correct?		
+2198095	1116 State Highway 35, Toatoa	2022/02/04 17:34	-37.986419,177.395073	Middle of the road. 116 would be around S37.988942° E177.392267° but there doesn't appear to be anything there.		
 

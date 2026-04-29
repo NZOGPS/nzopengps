@@ -690,6 +690,7 @@ sub overlap_one_numtype {
 	my $nno    = shift; #current numbering number
 	my $roadhp = shift; #road ID
 	my $srf    = shift; #reference to 'set numbers' hash
+	my $missf  = shift; #csv file
 
 	my $ste; #start of error numbers...
 	my $isend = 0;
@@ -728,7 +729,7 @@ sub overlap_one_numtype {
 			if ( $ste ){
 				if ($i == $beg + $dif) {$isend |= 1}; #first point was overlap, second isn't
 				if ($debugthis){print "ol1nt: oe1 srf:\n"; print Dumper($srf)};
-				($iserr,$errnod) = overlap_err($ste,$i-$dif,$roadhp,$$srf{$ste},$isend,$nid,$nno);
+				($iserr,$errnod) = overlap_err($ste,$i-$dif,$roadhp,$$srf{$ste},$isend,$nid,$nno, $missf);
 				if (!$iserr){
 					$err--;
 				}
@@ -746,7 +747,7 @@ sub overlap_one_numtype {
 		}
 		if ($debugthis){print "overlap_one_numtype, end - ste: $ste i: $i isend: $isend\n"}
 		if ($debugthis){print "ol1nt: oe2 srf:\n"; print Dumper($srf)};
-		($iserr,$errnod) = overlap_err($ste,$i,$roadhp,$$srf{$ste},$isend,$nid,$nno);
+		($iserr,$errnod) = overlap_err($ste,$i,$roadhp,$$srf{$ste},$isend,$nid,$nno, $missf);
 		if (!$iserr){
 			$err--;
 		}
@@ -773,7 +774,7 @@ sub overlap_one_side {
 			if ( $n[2]%2 || $n[2]<=0 ) {
 				return 0;
 			}
-			return overlap_one_numtype($n[1],$n[2],2,$n[3],$n[4],$n[5],$n[6]);
+			return overlap_one_numtype($n[1],$n[2],2,@n[3..7]);
 		}
 		when (/[O]/){
 			if (($n[1]+1)%2 || $n[1]<=0 ) { 
@@ -782,7 +783,7 @@ sub overlap_one_side {
 			if (($n[2]+1)%2 || $n[2]<=0 ) {
 				return 0;
 			}
-			return overlap_one_numtype($n[1],$n[2],2,$n[3],$n[4],$n[5],$n[6]);
+			return overlap_one_numtype($n[1],$n[2],2,@n[3..7]);
 		}
 		when (/[B]/){
 			if ( $n[1]<=0 ) { 
@@ -791,7 +792,7 @@ sub overlap_one_side {
 			if ( $n[2]<=0 ) {
 				return 0;
 			}
-			return overlap_one_numtype($n[1],$n[2],1,$n[3],$n[4],$n[5],$n[6]);
+			return overlap_one_numtype($n[1],$n[2],1,@n[3..7]);
 		}
 		default {
 			return 0; #no point reiterating error
@@ -823,7 +824,7 @@ sub overlap_one_numbered_section {
 
 		for ($i=0; $i<$roadhp->{numnum};$i++) {	# for each numbered segment
 			$nptr = $numa[$i];
-			($l,$errnod) = overlap_one_side(@$nptr[1..3],$$nptr[0],$i,$roadhp,\%numset);
+			($l,$errnod) = overlap_one_side(@$nptr[1..3],$$nptr[0],$i,$roadhp,\%numset,$missf);
 			local $, = ',';
 			if ($l) { 
 				if ($debugthis){print sprintf "overlap_1ns LHS - errnod is %s\n",defined($errnod) ? $errnod : "(undefined)"}
@@ -832,7 +833,7 @@ sub overlap_one_numbered_section {
 				print "\n";
 				print $missf $roadhp->{y}[$errnod],$roadhp->{x}[$errnod],"Conflicting Overlap","$roadhp->{label}[0]\n";
 			}
-			($r,$errnod) = overlap_one_side(@$nptr[4..6],$$nptr[0],$i,$roadhp,\%numset);
+			($r,$errnod) = overlap_one_side(@$nptr[4..6],$$nptr[0],$i,$roadhp,\%numset,$missf);
 			if ($r) { 
 				if ($debugthis){print sprintf "overlap_1ns RHS - errnod is %s\n",defined($errnod) ? $errnod : "(undefined)"}
 				print "conflicting definition:\n";
@@ -2099,10 +2100,10 @@ while (<>){
 
 open(my $missfile, '>', "${basefile}_missing.csv") or die "can't create missing csv file\n";
 
-id_check;
-routing_check;
+id_check();
+routing_check();
 odd_even_zero_check($missfile);
-sort_by_id;
+sort_by_id();
 
 #dump_by_roadid(); # does all
 #dump_by_roadid("aihop");

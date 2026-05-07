@@ -1,12 +1,18 @@
 use strict;
+use Term::ANSIColor qw(:constants);
 use Data::Dumper;
 
 my $base = $ENV{'nzogps_base'};
-my $linzout = "$base/linzdataservice/outputs";
-my $outputs = "$base/scripts/outputs";
-my $checker = "$base/checker";
+my $linzout  = "$base/linzdataservice/outputs";
+my $outputs  = "$base/scripts/outputs";
+my $checker  = "$base/checker";
+my $wrongout = "$base/scripts/Wrongside2table/Outputs";
+my $burbout  = "$base/scripts/Suburbs/Outputs";
 my @tiles = ("Northland","Auckland","Waikato","Central","Wellington","Tasman","Canterbury","Southland");
 my @abbtiles = ("Northland"," Auckland","  Waikato","  Central","Wellngton","   Tasman","Canterbry","Southland");
+
+my @BurbSuffixes = ("checkPOIs","dupliPOIs","mappois","nearpois","sizecodes","unindexed","UnmatchedCities","UnusedCities","WrongCities2","WrongRegions","WrongXLTCityID","WrongXLTSLID");
+my @BurbSuffAbbs = ("chkpoi","duppoi","mappoi","nrpoi","szcode","unindx","unmatct","unusect","wrngcit","wrngreg","wrngxctid","wrongxlid");
 
 my @tiled;
 my %results;
@@ -31,6 +37,7 @@ sub do_report2 {
 	my $tile = shift;
 	my $resultsp = shift;
 	my @stats;
+	
 	$resultsp->{'missrds'}[$tile]=0;
 	$resultsp->{'extras'}[$tile]=0;
 
@@ -131,9 +138,84 @@ sub do_checker {
 	}
 }
 
+sub do__Sparse{
+
+	my $tile = shift;
+	my $resultsp = shift;
+	my @stats;
+	
+	$resultsp->{'sparse'}[$tile]=0;
+
+	my $fn = "$wrongout/$tiles[$tile]-sparsest.csv";
+	$fn =~ s/\"//g;
+	print "dosp: file is $fn\n" if $debug;
+	@stats = stat($fn);
+	$resultsp->{'sparsed'}[$tile] =$stats[9];
+	open(REP2,$fn) or die "can't open $fn";
+	while (<REP2>){
+#		if (/,\"Sparse: \d+m, nums:\d+\"/){
+			$resultsp->{'sparse'}[$tile]++;
+#		}
+	}
+}
+
+sub do_WrongSd{
+
+	my $tile = shift;
+	my $resultsp = shift;
+	my @stats;
+	
+	$resultsp->{'wrongsd'}[$tile]=0;
+
+	my $fn = "$wrongout/$tiles[$tile]-wrongside.csv";
+	$fn =~ s/\"//g;
+	print "dows: file is $fn\n" if $debug;
+	@stats = stat($fn);
+	$resultsp->{'wrngsdt'}[$tile] =$stats[9];
+	open(REP2,$fn) or die "can't open $fn";
+	while (<REP2>){
+#		if (/\",Wrong Side: \d+$/){
+			$resultsp->{'wrongsd'}[$tile]++;
+#		}
+	}	
+}
+
+sub do_Suburbs{
+
+	my $tile = shift;
+	my $resultsp = shift;
+	my @stats;
+	
+	for my $suffabb(@BurbSuffAbbs){
+		$resultsp->{$suffabb}[$tile]=0;
+	}
+	while (my ($i, $suffa) = each @BurbSuffAbbs) {
+		my $fn = "$burbout/$tiles[$tile]-$BurbSuffixes[$i].csv";
+		$fn =~ s/\"//g;
+		print "dosub: file is $fn\n" if $debug;
+		@stats = stat($fn);
+		$resultsp->{$suffa.'d'}[$tile] =$stats[9];
+		open(REP2,$fn) or die "can't open $fn";
+		while (<REP2>){
+			$resultsp->{$suffa}[$tile]++;
+		}	
+	}
+}
+
+sub getBGcolour{
+	my $tile = shift;
+	my $parm = shift;
+	my $rold;
+	
+	$rold = $results{$parm}[$tile]<$tiled[$tile];
+#	printf "GetBGCol: tile=%d parm =%s rd = %d td= %d rold = %d\n",$tile,$parm,$results{$parm}[$tile],$tiled[$tile],$rold;
+	return $rold?ON_RED:ON_BLACK;
+}
+	
 sub print_results{
 	my @colw;
 	my $col0w = 17;
+	my $bgc;
 
 	print("\n");
 	printf("%*s |",$col0w,"");
@@ -155,103 +237,150 @@ if ($debug){
 	print("\n");
 	printf("%*s |",$col0w,"Missing roads");
 	for my $tile(0..$#tiles){
+		$bgc =getBGcolour($tile,'rep2d'); 
 		if ($results{'missrds'}[$tile]) {
-			printf(" %*d |",$colw[$tile],$results{'missrds'}[$tile]);
-		} else {printf(" %*s |",$colw[$tile],"") }
+			printf($bgc." %*d ".RESET."|",$colw[$tile],$results{'missrds'}[$tile]);
+		} else {printf($bgc." %*s ".RESET."|",$colw[$tile],"") }
 	}
 
 	print("\n");
 	printf("%*s |",$col0w,"Roads not in LINZ");
 	for my $tile(0..$#tiles){
+		$bgc =getBGcolour($tile,'rep2d'); 
 		if ($results{'extras'}[$tile]) {
-			printf(" %*d |",$colw[$tile],$results{'extras'}[$tile]);
-		} else {printf(" %*s |",$colw[$tile],"") }
+			printf($bgc." %*d ".RESET."|",$colw[$tile],$results{'extras'}[$tile]);
+		} else {printf($bgc." %*s ".RESET."|",$colw[$tile],"") }
 	}
 
 	print("\n");
 	printf("%*s |",$col0w,"Report2 Old");
 	for my $tile(0..$#tiles){
-		printf(" %*s |",$colw[$tile],($results{'rep2d'}[$tile]<$tiled[$tile])?"==YES==":"");
+		$bgc =getBGcolour($tile,'rep2d'); 
+		printf($bgc." %*s ".RESET."|",$colw[$tile],($results{'rep2d'}[$tile]<$tiled[$tile])?"==YES==":"");
 	}
 
 	print("\n");
 	printf("%*s |",$col0w,"Different name");
 	for my $tile(0..$#tiles){
+		$bgc =getBGcolour($tile,'rep6d'); 
 		if ($results{'wrongn'}[$tile]) {
-			printf(" %*d |",$colw[$tile],$results{'wrongn'}[$tile]);
-		} else {printf(" %*s |",$colw[$tile],"") }
+			printf($bgc." %*d ".RESET."|",$colw[$tile],$results{'wrongn'}[$tile]);
+		} else {printf($bgc." %*s ".RESET."|",$colw[$tile],"") }
 	}
 
 	print("\n");
 	printf("%*s |",$col0w,"Report6 Old");
 	for my $tile(0..$#tiles){
-		printf(" %*s |",$colw[$tile],($results{'rep6d'}[$tile]<$tiled[$tile])?"==YES==":"");
+		$bgc =getBGcolour($tile,'rep6d'); 
+		printf($bgc." %*s ".RESET."|",$colw[$tile],($results{'rep6d'}[$tile]<$tiled[$tile])?"==YES==":"");
 	}
 
 	print("\n");
 	printf("%*s |",$col0w,"Number overlaps");
 	for my $tile(0..$#tiles){
+		$bgc =getBGcolour($tile,'checkd'); 
 		if ($results{'chkmissol'}[$tile]) {
-			printf(" %*d |",$colw[$tile],$results{'chkmissol'}[$tile]);
-		} else {printf(" %*s |",$colw[$tile],"") }
+			printf($bgc." %*d ".RESET."|",$colw[$tile],$results{'chkmissol'}[$tile]);
+		} else {printf($bgc." %*s ".RESET."|",$colw[$tile],"") }
 	}
 	
 	print("\n");
 	printf("%*s |",$col0w,"wrong odd/even");
 	for my $tile(0..$#tiles){
+		$bgc =getBGcolour($tile,'checkd'); 
 		if ($results{'chkoen'}[$tile]) {
-			printf(" %*d |",$colw[$tile],$results{'chkoen'}[$tile]);
-		} else {printf(" %*s |",$colw[$tile],"") }
+			printf($bgc." %*d ".RESET."|",$colw[$tile],$results{'chkoen'}[$tile]);
+		} else {printf($bgc." %*s ".RESET."|",$colw[$tile],"") }
 	}
 
 	print("\n");
 	printf("%*s |",$col0w,"undefined end");
 	for my $tile(0..$#tiles){
+		$bgc =getBGcolour($tile,'checkd'); 
 		if ($results{'chkundefn'}[$tile]) {
-			printf(" %*d |",$colw[$tile],$results{'chkundefn'}[$tile]);
-		} else {printf(" %*s |",$colw[$tile],"") }
+			printf($bgc." %*d ".RESET."|",$colw[$tile],$results{'chkundefn'}[$tile]);
+		} else {printf($bgc." %*s ".RESET."|",$colw[$tile],"") }
 	}
 
 	print("\n");
 	printf("%*s |",$col0w,"unnumbered node");
 	for my $tile(0..$#tiles){
+		$bgc =getBGcolour($tile,'checkd'); 
 		if ($results{'chkunnumb'}[$tile]) {
-			printf(" %*d |",$colw[$tile],$results{'chkunnumb'}[$tile]);
-		} else {printf(" %*s |",$colw[$tile],"") }
+			printf($bgc." %*d ".RESET."|",$colw[$tile],$results{'chkunnumb'}[$tile]);
+		} else {printf($bgc." %*s ".RESET."|",$colw[$tile],"") }
 	}
 
 	print("\n");
 	printf("%*s |",$col0w,"Unindexed road");
 	for my $tile(0..$#tiles){
+		$bgc =getBGcolour($tile,'checkd'); 
 		if ($results{'chkmissui'}[$tile]) {
-			printf(" %*d |",$colw[$tile],$results{'chkmissui'}[$tile]);
-		} else {printf(" %*s |",$colw[$tile],"") }
+			printf($bgc." %*d ".RESET."|",$colw[$tile],$results{'chkmissui'}[$tile]);
+		} else {printf($bgc." %*s ".RESET."|",$colw[$tile],"") }
 	}
 
 	print("\n");
 	printf("%*s |",$col0w,"Missing numbers");
 	for my $tile(0..$#tiles){
-		printf(" %*d |",$colw[$tile],$results{'chkmissno'}[$tile]);
+		$bgc =getBGcolour($tile,'checkd'); 
+		printf($bgc." %*d ".RESET."|",$colw[$tile],$results{'chkmissno'}[$tile]);
 	}
 
 	print("\n");
 	printf("%*s |",$col0w,"on different rds");
 	for my $tile(0..$#tiles){
-		printf(" %*d |",$colw[$tile],$results{'chkmissrd'}[$tile]);
+		$bgc =getBGcolour($tile,'checkd'); 
+		printf($bgc." %*d ".RESET."|",$colw[$tile],$results{'chkmissrd'}[$tile]);
 	}
 
 	print("\n");
 	printf("%*s |",$col0w,"Checker Old");
 	for my $tile(0..$#tiles){
-		printf(" %*s |",$colw[$tile],($results{'checkd'}[$tile]<$tiled[$tile])?"==YES==":"");
+		$bgc =getBGcolour($tile,'checkd'); 
+		printf($bgc." %*s ".RESET."|",$colw[$tile],($results{'checkd'}[$tile]<$tiled[$tile])?"==YES==":"");
+	}
+
+	print("\n");
+	printf("%*s |",$col0w,"Sparse roads");
+	for my $tile(0..$#tiles){
+		$bgc =getBGcolour($tile,'sparsed'); 
+		if ($results{'sparse'}[$tile]) {
+			printf($bgc." %*d ".RESET."|",$colw[$tile],$results{'sparse'}[$tile]);
+		} else {printf($bgc." %*s ".RESET."|",$colw[$tile],"") }
+	}
+
+	print("\n");
+	printf("%*s |",$col0w,"Wrong side nums");
+	for my $tile(0..$#tiles){
+		$bgc =getBGcolour($tile,'wrngsdt'); 
+		if ($results{'wrongsd'}[$tile]) {
+			printf($bgc." %*d ".RESET."|",$colw[$tile],$results{'wrongsd'}[$tile]);
+		} else {printf($bgc." %*s ".RESET."|",$colw[$tile],"") }
+	}
+
+#suburbs
+	while (my ($i, $suffa) = each @BurbSuffAbbs) {
+		print("\n");
+	printf("%*s |",$col0w,$BurbSuffixes[$i]);
+		for my $tile(0..$#tiles){
+			$bgc =getBGcolour($tile,$suffa.'d'); 
+			if ($results{$suffa}[$tile]) {
+				printf($bgc." %*d ".RESET."|",$colw[$tile],$results{$suffa}[$tile]);
+			} else {printf($bgc." %*s ".RESET."|",$colw[$tile],"") }
+		}
 	}
 }
+$debug =0;
 
 for my $tile(0..$#tiles){
 	get_file_dates($tile,\@tiled);
 	do_report2($tile,\%results);
 	do_report6($tile,\%results);
 	do_checker($tile,\%results);
+	do__Sparse($tile,\%results);
+	do_WrongSd($tile,\%results);
+	do_Suburbs($tile,\%results);
 }
 print Dumper(%results) if $debug;
 print Dumper(@tiled) if $debug;

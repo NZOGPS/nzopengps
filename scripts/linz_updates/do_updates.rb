@@ -436,14 +436,14 @@ def check_for_errors(options)
 end
 
 def update_table_comment(table_name,curtime)
-	print "upd_tbl_cmt: #{table_name}\n" if DEBUG
+	print "upd_tbl_cmt: table: #{table_name}\n" if DEBUG
 	tblcmt = ''
 	rs = @conn.exec "SELECT obj_description('public.#{table_name}'::regclass, 'pg_class')" #get table comment
 	if rs.count > 0 
 		tblintro = ' Table updated: '
 		tblcmt = rs.first['obj_description']
 		if tblcmt =~ /#{tblintro}/ 
-			tblcmt.sub!(/#{tblintro}[0-9\- :]+ by [a-zA-z_.]+/,"#{tblintro}#{curtime} by #{$0}")
+			tblcmt.sub!(/#{tblintro}[-0-9 :]+ by [a-zA-z_.\/:]+/,"#{tblintro}#{curtime} by #{$0}")
 		else
 			tblcmt += "#{tblintro}#{curtime} by #{$0}"
 		end

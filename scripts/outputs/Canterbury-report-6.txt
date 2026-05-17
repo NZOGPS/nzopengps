@@ -1,9 +1,6 @@
-Start = 2026-05-13 00:06:13 +1200
+Start = 2026-05-17 14:47:39 +1200
 linzid	street_name	street_name_2	official_street_name
-1859354	Van Ameyde Crt		Van Ameyde Courts	-43.51225,172.63888
-1859354	Van Ameyde Crt		Van Ameyde Courts	-43.51150,172.63897
-3085817	Cedarwood Rd		Dune Rd	-43.58294,172.49364
 #############################
 
-Finish = 2026-05-13 00:06:15 +1200
-Processing time = 1.2399297
+Finish = 2026-05-17 14:47:40 +1200
+Processing time = 1.1915944

@@ -1,11 +1,7 @@
-Start = 2026-05-13 00:06:05 +1200
+Start = 2026-05-17 12:35:51 +1200
 #############################
 
-4 LINZ ids are missing from NZOGPS Waikato
-;linzid=3086110	Latham Dr	-37.730626380056265,176.35065398170175
-;linzid=3086120	Pickering St	-37.41880805573971,175.14490209566299
-;linzid=3086122	Yearling St	-37.42072931434628,175.14391924782964
-;linzid=3086123	Romney St	-37.42072931434628,175.14391924782964
+0 LINZ ids are missing from NZOGPS Waikato
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -14,5 +10,5 @@ Start = 2026-05-13 00:06:05 +1200
 0 Number range ids are missing from NZOGPS Waikato
 #############################
 
-Finish = 2026-05-13 00:06:07 +1200
-Processing time = 1.554069
+Finish = 2026-05-17 12:35:53 +1200
+Processing time = 1.4602566

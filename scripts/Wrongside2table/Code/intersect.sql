@@ -1,4 +1,5 @@
 select current_time;
+update :numstable set (asnum_roadid,asnum_distance,asnum_position,asnum_dist_err,isect_side)=(null,null,null,null,null); --clear values in case road has been edited
 update :numstable set asnum_roadid=:linestable.gid,asnum_side=-1,asnum_segment=nnum  from :linestable where  :numstable.road_id = :linestable.linzid and gt_within(address_number,lstart,lend,ltype) ;
 update :numstable set asnum_roadid=:linestable.gid,asnum_side=1,asnum_segment=nnum  from :linestable where  :numstable.road_id = :linestable.linzid and gt_within(address_number,rstart,rend,rtype) ;
 update :numstable set asnum_distance=gt_distance(address_number,asnum_side,lstart,lend) from :linestable where :linestable.gid=asnum_roadid and asnum_side=-1;

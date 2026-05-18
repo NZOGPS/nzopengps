@@ -1,6 +1,10 @@
-Start = 2026-05-17 14:47:39 +1200
+Start = 2026-05-18 23:45:39 +1200
 linzid	street_name	street_name_2	official_street_name
+3083151	Mizzen Rd		Lanyard Rd	-44.37785,171.19533
+3085461	Marshall Ave		Lester Ave	-43.76427,172.29050
+3085461	Marshall Ave		Lester Ave	-43.76618,172.28585
+3085461	Marshall Ave		Lester Ave	-43.76469,172.28826
 #############################
 
-Finish = 2026-05-17 14:47:40 +1200
-Processing time = 1.1915944
+Finish = 2026-05-18 23:45:40 +1200
+Processing time = 1.2475105

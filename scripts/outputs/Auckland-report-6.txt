@@ -1,7 +1,7 @@
-Start = 2026-05-13 00:06:16 +1200
+Start = 2026-05-18 23:45:42 +1200
 linzid	street_name	street_name_2	official_street_name
 3082223	Portea Ave		Protea Ave	-36.99282,174.93011
 #############################
 
-Finish = 2026-05-13 00:06:18 +1200
-Processing time = 1.3174566
+Finish = 2026-05-18 23:45:43 +1200
+Processing time = 1.2449355

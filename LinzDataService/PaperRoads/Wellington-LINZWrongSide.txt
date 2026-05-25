@@ -131,3 +131,4 @@ Below new 15:27 30/08/21
 3107140	83/66 Mabey Rd, Avalon	21/03/26 16:24	-41.189836 174.941170	Typo in number?	83/65 Mabey Rd? All others here are XX/65. Erroneous duplicate of ID: 1975286?	
 384240	43 Westhaven Drive, Tawa, Wellington	2026/04/19 12:22	-41.171348,174.815424
 2389583	61 Millvale Street, Waikanae	2026/04/19 12:26	-40.875411,175.047082
+3189916	515 Zigzag Road, Pohangina, Ashhurst	2026/05/26 00:26	-40.169799,175.758219

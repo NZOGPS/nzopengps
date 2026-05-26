@@ -191,3 +191,4 @@ New from 2021/08/29
 2422675	10 Suffolk Road South, Norfolk	2025/10/11 15:11	-39.157133,174.264656
 3142458	200A Charles Street, Saint Leonards, Hastings	2026/04/19 13:08	-39.637231,176.835992
 3142596	200 Charles Street, Saint Leonards, Hastings	2026/04/19 13:08	-39.637018,176.836026
+3189916	515 Zigzag Road, Pohangina, Ashhurst	2026/05/26 00:26	-40.169799,175.758219

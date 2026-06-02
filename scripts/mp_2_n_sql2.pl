@@ -203,6 +203,7 @@ sub do_polyline{
 	my $numnum = 0;	#14
 	my $dirindicator;  #16
 	my $autonum = -1; #17
+	my $sparseok = ""; #20
 	my @numarray;
 	my @nodarray;
 	my $i;
@@ -248,8 +249,8 @@ sub do_polyline{
 			}
 			parsenums(\@numarray,@numbers);
 			parsenods(\@nodarray,\@x,\@y,@nods);
-			push @roads,[$comment,$type,\@label,$endlevel,$cityidx,$roadid,$routeparam,$lineno,\@sufi,\@x,\@y,\@numarray,\@nods,$label2,$numnum,\@nodarray,$dirindicator,$autonum,\@linzid,$linznumbid];
-#			--------------------0-------------1-------2----------3------------4----------5----------6----------------7---------8--- ----9----10---11-------------12--------13--------14----------15--------------16---------------17-----------18-------			
+			push @roads,[$comment,$type,\@label,$endlevel,$cityidx,$roadid,$routeparam,$lineno,\@sufi,\@x,\@y,\@numarray,\@nods,$label2,$numnum,\@nodarray,$dirindicator,$autonum,\@linzid,$linznumbid,$sparseok];
+#			--------------------0---1-------2---------3---------4------5---------6----------7------8--------10---11---------12------13------14--------15-----------16----------17-------18-------19-------20			
 			last;
 		}
 	}
@@ -431,7 +432,17 @@ sub id_check {
 					dump_id2($road,0,-1);
 				}
 			}
+
+			if ($line=~/^SparseOK=/){
+				if ($line=~/^SparseOK=(([LRB]\d+)+)/){
+					$$road[20]=$1;
+				} else {
+					print "Warning: Odd SparseOK line:\n";
+					dump_id2($road,0,-1);
+				}
+			}
 		}
+
 
 		if ($$road[18][0]==-1){
 			for $i (2..$maxlbl){
@@ -613,24 +624,25 @@ sub write_line_sql {
 	open( SQLFILE, '>', "${tablename}.sql") or die "can't create sql file\n";
 	print SQLFILE "DROP TABLE  IF EXISTS ${tablename};\n";
 	print SQLFILE "CREATE TABLE ${tablename} (";
-	print SQLFILE "\"gid\" serial PRIMARY KEY,\n";
-	print SQLFILE "\"roadid\" integer,\n";
-	print SQLFILE "\"label\" varchar(100),\n";
-	print SQLFILE "\"type\" varchar(10),\n";
-	print SQLFILE "\"linzid\" integer,\n";
-	print SQLFILE "\"linznumbid\" integer,\n";
-	print SQLFILE "\"cityidx\" integer,\n";
-	print SQLFILE "\"nnum\" integer,\n";
-	print SQLFILE "\"ltype\" character(1),\n";
-	print SQLFILE "\"lstart\" integer,\n";
-	print SQLFILE "\"lend\" integer,\n";
-	print SQLFILE "\"rtype\" character(1),\n";
+	print SQLFILE "gid serial PRIMARY KEY,\n";
+	print SQLFILE "roadid integer,\n";
+	print SQLFILE "label varchar(100),\n";
+	print SQLFILE "type varchar(10),\n";
+	print SQLFILE "linzid integer,\n";
+	print SQLFILE "linznumbid integer,\n";
+	print SQLFILE "cityidx integer,\n";
+	print SQLFILE "sparseok varchar(30),\n";
+	print SQLFILE "nnum integer,\n";
+	print SQLFILE "ltype character(1),\n";
+	print SQLFILE "lstart integer,\n";
+	print SQLFILE "lend integer,\n";
+	print SQLFILE "rtype character(1),\n";
 	print SQLFILE "rstart integer,\n";
 	print SQLFILE "rend integer,\n";
 	print SQLFILE "the_geom geometry(LineString,4167));\n";
 
 	print SQLFILE "INSERT INTO ${tablename} ";
-	print SQLFILE "(\"roadid\",\"label\",\"type\",linzid,linznumbid,\"cityidx\",\"nnum\",\"ltype\",\"lstart\",\"lend\",\"rtype\",\"rstart\",\"rend\",the_geom)";
+	print SQLFILE "(roadid,label,type,linzid,linznumbid,cityidx,sparseok,nnum,ltype,\"lstart\",\"lend\",\"rtype\",\"rstart\",\"rend\",the_geom)";
 	print SQLFILE " VALUES \n";
 
 	for $road (@roads){
@@ -663,7 +675,7 @@ sub write_line_sql {
 				print STDERR "road is $$road[5] i is $i\n";
 				print STDERR Dumper @nums;
 			}
-			print SQLFILE "$ldr('$$road[5]','$rdname','$$road[1]','$$road[18][0]','$$road[19]',$cityidx,'$i',";
+			print SQLFILE "$ldr('$$road[5]','$rdname','$$road[1]','$$road[18][0]','$$road[19]',$cityidx,'$$road[20]','$i',";
 			$ldr = ','; #leading char is , after first line
 			for ($j=1;$j<7;$j++){
 				print SQLFILE "'$nums[$i][$j]'";

@@ -2,4 +2,9 @@ Update :wrongstable set least_nums = -1 from :linestable where :wrongstable.gid 
 Update :wrongstable set least_nums = abs(lend-lstart)+1 from :linestable where :wrongstable.gid = :linestable.gid and ltype <> 'N';
 Update :wrongstable set least_nums = abs(rend-rstart)+1 from :linestable where :wrongstable.gid = :linestable.gid and rtype <> 'N' and ( abs(rend-rstart)+1 < :wrongstable.least_nums  or :wrongstable.least_nums = -1) ;
 -- explicitly put :wrongstable.least_nums and :wrongstable.linzid in case they are present in numberlines from old versions
-copy(select st_x(st_startpoint(the_geom)),st_y(st_startpoint(the_geom)),label,'Sparse: '||to_char(st_length(:wrongstable.nztm_line)/:wrongstable.least_nums,'FM99999"m, nums:"')||round(st_length(:wrongstable.nztm_line)/10) from :wrongstable join :linestable on :wrongstable.gid=:linestable.gid where st_length(:wrongstable.nztm_line)/:wrongstable.least_nums > :distance order by st_length(:wrongstable.nztm_line)/:wrongstable.least_nums desc) to :outfile with CSV;       
+copy(select st_x(st_startpoint(the_geom)), st_y(st_startpoint(the_geom)), label, 'Sparse: ' || to_char(st_length(:wrongstable.nztm_line)/:wrongstable.least_nums,'FM99999"m, nums:"') || round(st_length(:wrongstable.nztm_line)/10) 
+	from :wrongstable join :linestable on :wrongstable.gid=:linestable.gid 
+	where st_length(:wrongstable.nztm_line)/:wrongstable.least_nums > :distance
+--	where sparse_ok is ...
+	order by st_length(:wrongstable.nztm_line)/:wrongstable.least_nums desc)
+	to :outfile with CSV;       

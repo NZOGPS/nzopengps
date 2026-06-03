@@ -4,6 +4,7 @@ CREATE TABLE :wrongstable (
 	gid integer PRIMARY KEY,
 	linzid integer,
 	least_nums smallint,
+	sparse_ok varchar(5),
 	nztm_line geometry(LineString,2193),
 	leftpoly  geometry(multipolygon,2193),
 	rightpoly geometry(multipolygon,2193)

@@ -122,3 +122,5 @@ BEGIN
 END;
 $$ language plpgsql;
 
+
+select label,sparseok,nnum,sparse_ok,least_nums,st_length(ws.nztm_line) from auckland_numberlines nl join auckland_wrongside ws on ws.gid = nl.gid where sparseok <> ''

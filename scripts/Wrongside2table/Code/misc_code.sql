@@ -124,3 +124,9 @@ $$ language plpgsql;
 
 
 select label,sparseok,nnum,sparse_ok,least_nums,st_length(ws.nztm_line) from auckland_numberlines nl join auckland_wrongside ws on ws.gid = nl.gid where sparseok <> ''
+
+select st_x(st_startpoint(the_geom)), st_y(st_startpoint(the_geom)), label, 'Sparse: ' || to_char(st_length(auckland_wrongside.nztm_line)/auckland_wrongside.least_nums,'FM99999"m, nums:"') || round(st_length(auckland_wrongside.nztm_line)/10) 
+	from auckland_wrongside join auckland_numberlines on auckland_wrongside.gid=auckland_numberlines.gid 
+	where st_length(auckland_wrongside.nztm_line)/auckland_wrongside.least_nums > 350
+--	and sparse_ok <> NULL
+	order by st_length(auckland_wrongside.nztm_line)/auckland_wrongside.least_nums desc;

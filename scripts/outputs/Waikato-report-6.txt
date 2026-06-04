@@ -1,9 +1,6 @@
-Start = 2026-06-02 00:16:52 +1200
+Start = 2026-06-05 00:37:05 +1200
 linzid	street_name	street_name_2	official_street_name
-3086138	Makirangi Rd		Makirangi Dr	-37.50063,175.15915
-3086138	Makirangi Rd		Makirangi Dr	-37.50118,175.16315
-3086138	Makirangi Rd		Makirangi Dr	-37.50015,175.16138
 #############################
 
-Finish = 2026-06-02 00:16:53 +1200
-Processing time = 1.3365706
+Finish = 2026-06-05 00:37:06 +1200
+Processing time = 1.3100419

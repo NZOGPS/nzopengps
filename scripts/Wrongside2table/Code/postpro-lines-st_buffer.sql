@@ -13,6 +13,12 @@ CREATE TABLE :wrongstable (
 INSERT INTO :wrongstable (gid, linzid, nztm_line) select gid, linzid, st_transform(the_geom,2193) from :linestable;
 \echo Create offset side polygons
 
+update :wrongstable ws set sparse_ok = rm[1]::varchar from (
+	select gid,label,nnum,regexp_matches(sparseok,'([BLR])(\d+)','g')as rm 
+		from :linestable 
+		where sparseok <> '' )as sq 
+	where ws.gid = sq.gid and nnum = rm[2]::INT-1; 
+
 update :wrongstable set rightpoly = ST_Multi(st_makepolygon(st_addpoint(st_makeline(nztm_line,(st_reverse(st_offsetcurve(nztm_line,-:distance)))),st_startpoint(nztm_line)))) where linzid>0 and ST_NumGeometries(st_offsetcurve(nztm_line,-:distance))=1;
 -- need reverse of line for GEOS version 3.11 onward
 update :wrongstable set  leftpoly = ST_Multi(st_makepolygon(st_addpoint(st_makeline(nztm_line,st_reverse(st_offsetcurve(nztm_line,:distance))),st_startpoint(nztm_line)))) where linzid>0 and ST_NumGeometries(st_offsetcurve(nztm_line,:distance))=1;

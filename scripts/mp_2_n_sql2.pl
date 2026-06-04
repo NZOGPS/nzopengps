@@ -433,8 +433,8 @@ sub id_check {
 				}
 			}
 
-			if ($line=~/^SparseOK=/){
-				if ($line=~/^SparseOK=(([LRB]\d+)+)/){
+			if ($line=~/sparseok/i){
+				if ($line=~/^SparseOK=(([LRB]\d+)+)/){ # leave it LRB for now, even though it's ignored later on
 					$$road[20]=$1;
 				} else {
 					print "Warning: Odd SparseOK line:\n";

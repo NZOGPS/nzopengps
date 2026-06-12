@@ -4,3 +4,5 @@
 1645824	35B Taranga View Road, Mangawhai Heads, Mangawhai	2025/12/14 21:05	-36.077006,174.587693
 1644968	35C Taranga View Road, Mangawhai Heads, Mangawhai	2025/12/14 21:06	-36.076525,174.588360
 2103476	48C Doel Road, Kawakawa	2025/12/14 21:13	-35.372136,174.093105
+2376267	140B Doel Road, Kawakawa	2026/06/12 17:23	-35.374005,174.097811
+2403019	34 Mooring Way, One Tree Point, Whangarei	2026/06/12 17:24	-35.830383,174.462516

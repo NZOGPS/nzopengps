@@ -183,18 +183,19 @@
 
 # #####################
 def assignCategoryFromZenbuCategory(data)
-  primary_zenbu_category = data['categories'].split(' ').first rescue ''
-	if primary_zenbu_category.empty? && GUESS_FROM_TAGS && (guessed_category = assignCategoryFromZenbuTags(data)) then
-    @reporting['category_from_zenbu_tags']+=1
-    @debug.print "#{data['zid']}\tcategory_from_zenbu_tags\t#{data['name']}\t#{data['tags']}\t#{guessed_category}\n" if @debug
-    return guessed_category
-  elsif @zenbu_category_to_garmin_category.has_key?(primary_zenbu_category) then
-    @reporting['category_from_zenbu_category']+=1
-    return @zenbu_category_to_garmin_category[primary_zenbu_category]
-  else
-    @reporting['category_from_zenbu_default']+=1
-    return DEFAULT_CATEGORY
-  end
+	primary_zenbu_category = data['categories'].split(' ').first rescue ''
+#GCT 20260610
+		if ( primary_zenbu_category.nil? || primary_zenbu_category.empty? ) && GUESS_FROM_TAGS && (guessed_category = assignCategoryFromZenbuTags(data)) then
+		@reporting['category_from_zenbu_tags']+=1
+		@debug.print "#{data['zid']}\tcategory_from_zenbu_tags\t#{data['name']}\t#{data['tags']}\t#{guessed_category}\n" if @debug
+		return guessed_category
+	elsif @zenbu_category_to_garmin_category.has_key?(primary_zenbu_category) then
+		@reporting['category_from_zenbu_category']+=1
+		return @zenbu_category_to_garmin_category[primary_zenbu_category]
+	else
+		@reporting['category_from_zenbu_default']+=1
+		return DEFAULT_CATEGORY
+	end
 end
 
 #default category if the Zenbu category is missing from our lookup table

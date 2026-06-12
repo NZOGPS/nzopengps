@@ -1,8 +1,8 @@
-Start = 2026-06-02 00:16:53 +1200
+Start = 2026-06-05 01:16:05 +1200
 linzid	street_name	street_name_2	official_street_name
 3085882	Rosey Lane		Forge Lane	-36.41192,174.66377
 3085883	Shamus Lane		Limestone Lane	-36.41178,174.66425
 #############################
 
-Finish = 2026-06-02 00:16:55 +1200
-Processing time = 1.2504799
+Finish = 2026-06-05 01:16:06 +1200
+Processing time = 1.1389801

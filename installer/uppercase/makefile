@@ -6,6 +6,7 @@ CGPS = $(nzogps_cgps)
 CPV = $(nzogps_cprv)
 ISCC = $(nzogps_iscc)
 MPPATH = $(subst $\",,$(nzogps_base))
+PERL = $(nzogps_perl_cmd)
 
 # $(info mppath is $(MPPATH))
 .SUFFIXES:
@@ -19,7 +20,7 @@ $(SETUP) : Free\ Open\ GPS\ NZ\ Autorouting.img
 	$(ISCC) /dSdir=. /dBdir=$(nzogps_base) /dWImg=..\$(nzogps_inst_image) "NZ OpenGPS Setup.iss"
 
 Free\ Open\ GPS\ NZ\ Autorouting.img : Free\ Open\ GPS\ NZ\ Autorouting.mp
-	%nzogps_perl_cmd% ../RemoveCodepage.pl "Free Open GPS NZ Autorouting.mp"
+	 $(PERL) ../RemoveCodepage.pl "Free Open GPS NZ Autorouting.mp"
 	$(CGPS) "$<"
 
 Free\ Open\ GPS\ NZ\ Autorouting.mp : $(MPIMGS) $(POIIMGS) NZO5_pv_template.txt

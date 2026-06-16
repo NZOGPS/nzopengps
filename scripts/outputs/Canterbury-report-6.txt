@@ -1,8 +1,6 @@
-Start = 2026-06-14 13:40:37 +1200
+Start = 2026-06-17 01:09:22 +1200
 linzid	street_name	street_name_2	official_street_name
-3085817	Dune Rd		Cedarwood Rd	-43.58294,172.49364
-3085810	Midhampton Dr		Mainhampton Dr	-43.58594,172.49141
 #############################
 
-Finish = 2026-06-14 13:40:38 +1200
-Processing time = 1.2769426
+Finish = 2026-06-17 01:09:23 +1200
+Processing time = 1.1253995

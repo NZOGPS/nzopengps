@@ -192,3 +192,4 @@ New from 2021/08/29
 3142458	200A Charles Street, Saint Leonards, Hastings	2026/04/19 13:08	-39.637231,176.835992
 3142596	200 Charles Street, Saint Leonards, Hastings	2026/04/19 13:08	-39.637018,176.836026
 3189916	515 Zigzag Road, Pohangina, Ashhurst	2026/05/26 00:26	-40.169799,175.758219
+3192364	18 Old Ferry Road, Clive	2026/06/18 12:01	-39.577813,176.922373

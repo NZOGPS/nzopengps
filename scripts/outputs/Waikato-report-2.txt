@@ -1,12 +1,7 @@
-Start = 2026-06-14 13:40:29 +1200
+Start = 2026-06-18 12:18:33 +1200
 #############################
 
-5 LINZ ids are missing from NZOGPS Waikato
-;linzid=3086189	Te Rakato Pl	-37.726175394294906,176.1673630206394
-;linzid=3086190	Mokohiti Cl	-37.7266906058985,176.1672061830134
-;linzid=3086186	Jabez Way	-37.78483177841002,176.3097107333162
-;linzid=3086176	Ngaa Puna Lane	-37.89065138553065,175.4518842069028
-;linzid=3086191	Titihuia Way	-37.7271922551303,176.16714953623205
+0 LINZ ids are missing from NZOGPS Waikato
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -15,5 +10,5 @@ Start = 2026-06-14 13:40:29 +1200
 0 Number range ids are missing from NZOGPS Waikato
 #############################
 
-Finish = 2026-06-14 13:40:30 +1200
-Processing time = 1.6100225
+Finish = 2026-06-18 12:18:35 +1200
+Processing time = 1.4255465

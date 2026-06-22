@@ -1,14 +1,28 @@
-Start = 2026-06-16 00:08:20 +1200
+Start = 2026-06-22 00:18:17 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Wellington
+13 LINZ ids are missing from NZOGPS Wellington
+;linzid=3086229	Gwenith Lane	-40.61862709668222,175.30320736477893
+;linzid=3086211	Eszter Way	-41.116777859906584,175.33542070715106
+;linzid=3086212	Community Grn E	-41.118200140885165,175.33575022054228
+;linzid=3086213	Community Grn W	-41.11798416317079,175.33490862153315
+;linzid=3086214	Robin Way	-41.117743536346346,175.33438693349848
+;linzid=3086215	Zoltan Way	-41.11798416317079,175.33490862153315
+;linzid=3086216	Nelson Way	-41.11804133420115,175.33514585617837
+;linzid=3086217	Benjamin Way	-41.118200140885165,175.33575022054228
+;linzid=3086218	Timothy Way	-41.11829946179202,175.33622896410526
+;linzid=3086220	Rapaki Rd	-41.24103328266515,175.47286574795802
+;linzid=3086221	Milne Lane	-41.24103328266515,175.47286574795802
+;linzid=3086222	Ashby Lane	-41.10444879197719,175.5685191468053
+;linzid=3086219	Wharekaka Plains Rd	-41.23686760627857,175.47171016978385
 #############################
 
-0 LINZ ids are in NZOGPS Wellington but missing from LINZ
+1 LINZ ids are in NZOGPS Wellington but missing from LINZ
+;linzid=1842225	The Causeway	-41.14322,174.83918
 #############################
 
 0 Number range ids are missing from NZOGPS Wellington
 #############################
 
-Finish = 2026-06-16 00:08:21 +1200
-Processing time = 0.9262144
+Finish = 2026-06-22 00:18:18 +1200
+Processing time = 1.0435622

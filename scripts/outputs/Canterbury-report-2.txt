@@ -1,7 +1,13 @@
-Start = 2026-06-17 03:24:36 +1200
+Start = 2026-06-22 00:18:18 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Canterbury
+6 LINZ ids are missing from NZOGPS Canterbury
+;linzid=3086225	Matapouri Rd	-43.58494233759163,172.5236611569558
+;linzid=3086226	Hoho St	-43.585632401508185,172.52315216775742
+;linzid=3086227	Taratitimohi St	-43.58490706481975,172.52195618925816
+;linzid=3086228	Piwakawaka Circle	-43.586281915385264,172.52461204896395
+;linzid=3086223	Ururepo Cres	-43.586281915385264,172.52461204896395
+;linzid=3086224	Brett Evans Way	-43.586681219900925,172.51943351686717
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
@@ -10,5 +16,5 @@ Start = 2026-06-17 03:24:36 +1200
 0 Number range ids are missing from NZOGPS Canterbury
 #############################
 
-Finish = 2026-06-17 03:24:37 +1200
-Processing time = 1.2916091
+Finish = 2026-06-22 00:18:20 +1200
+Processing time = 1.4117436

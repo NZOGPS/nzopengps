@@ -1,7 +1,12 @@
-Start = 2026-06-18 12:18:33 +1200
+Start = 2026-06-22 00:18:20 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Waikato
+5 LINZ ids are missing from NZOGPS Waikato
+;linzid=3086197	Furze St	-37.75496432495518,175.3052423944518
+;linzid=3086198	Nancarrow St	-37.75451155958317,175.30590867509005
+;linzid=3086200	Geyger St	-37.75325482547352,175.30569394194694
+;linzid=3086201	Geisow St	-37.75451155958317,175.30590867509005
+;linzid=3086202	Fernie St	-37.751882184517825,175.30274398379368
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -10,5 +15,5 @@ Start = 2026-06-18 12:18:33 +1200
 0 Number range ids are missing from NZOGPS Waikato
 #############################
 
-Finish = 2026-06-18 12:18:35 +1200
-Processing time = 1.4255465
+Finish = 2026-06-22 00:18:21 +1200
+Processing time = 1.6160791

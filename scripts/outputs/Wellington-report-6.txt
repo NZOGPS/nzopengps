@@ -1,7 +1,6 @@
-Start = 2026-06-22 00:18:27 +1200
+Start = 2026-06-24 00:45:10 +1200
 linzid	street_name	street_name_2	official_street_name
-3086136	Harbour Way View		Harbour View Dr	-41.12242,174.88618
 #############################
 
-Finish = 2026-06-22 00:18:28 +1200
-Processing time = 0.8915492
+Finish = 2026-06-24 00:45:11 +1200
+Processing time = 0.8682162

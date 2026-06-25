@@ -23,13 +23,13 @@ TOUCH = $(nzogps_touch_cmd)
 
 tilenum = $(subst Northland,1,$(subst Auckland,2,$(subst Waikato,3,$(subst Central,4,$(subst Wellington,5,$(subst Tasman,6,$(subst Canterbury,7,$(subst Southland,8,$(1)))))))))
 
-TILESP = $(addsuffix -P,$(TILES))
+SUBDIRS = ../checker Suburbs Wrongside2table
 
-all : $(addsuffix .zip,$(TILES))
+all : $(addsuffix .zip,$(TILES)) 
 .PHONY: all
 
-pilot : $(addsuffix .zip,$(TILESP))
-.PHONY: pilot
+rec : all $(SUBDIRS) 
+.PHONY: rec $(SUBDIRS)
 
 install-csv : $(addsuffix -numbers.csv,$(addprefix $(NUMBERS)\,$(TILES)))
 .PHONY: install
@@ -39,6 +39,9 @@ install-gdb : $(addsuffix -numbers.gdb,$(addprefix $(NUMBERS)\,$(TILES)))
 
 install :  install-csv install-gdb
 .PHONY: install
+
+$(SUBDIRS):
+	$(MAKE) -C $@
 
 %-P.zip : $(LINZO)\%-P-LINZ-V5.mp $(LINZO)\%-P-LINZ-V4.mp $(OUTPUTS)\%-report-2-P.txt $(OUTPUTS)\%-report-6-P.txt $(OUTPUTS)\%-numbers-pilot.csv $(OUTPUTS)\%-numbers-pilot.gdb 
 	$(ZIPIT) $@ $?

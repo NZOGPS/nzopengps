@@ -1,7 +1,14 @@
-Start = 2026-06-30 03:56:59 +1200
+Start = 2026-07-05 22:35:38 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Waikato
+7 LINZ ids are missing from NZOGPS Waikato
+;linzid=3086259	Ngai Tu Lane	-38.01027291411065,177.28099023923278
+;linzid=3086260	Hou O Te Rangi Lane	-38.01149981437503,177.29221981018782
+;linzid=3086261	Pakowhai Cres	-38.008519107145105,177.27948769927025
+;linzid=3086262	Waikokowai Lane	-37.802386836594714,174.8897378098739
+;linzid=3086263	Repo Tai Lane	-37.82224987346739,174.86632320177006
+;linzid=3086258	Kara Pl	-37.91572328055036,175.53487753414083
+;linzid=3086257	Basaltic Rd	-37.91374700765199,175.53931902231625
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -10,5 +17,5 @@ Start = 2026-06-30 03:56:59 +1200
 0 Number range ids are missing from NZOGPS Waikato
 #############################
 
-Finish = 2026-06-30 03:57:00 +1200
-Processing time = 1.3940917
+Finish = 2026-07-05 22:35:40 +1200
+Processing time = 1.5721736

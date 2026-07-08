@@ -105,6 +105,13 @@ sub do_checker {
 	open(CHKF,$fn) or die "can't open $fn";
 	while (<CHKF>){
 #		print "$_";
+
+		if(/No missing numbers YAY!!!/) {
+			print "YAY!!\n" if $debug;
+				$resultsp->{'chkmissno'}[$tile]=0;
+				$resultsp->{'chkmissrd'}[$tile]=0;
+		}
+
 		if(/(\d+) missing numbers* on (\d+) road/) {
 			print "found missing $1 on $2\n" if $debug;
 				$resultsp->{'chkmissno'}[$tile]=$1;
@@ -323,15 +330,19 @@ if ($debug){
 	print("\n");
 	printf("%*s |",$col0w,"Missing numbers");
 	for my $tile(0..$#tiles){
-		$bgc =getBGcolour($tile,'checkd'); 
-		printf($bgc." %*d ".RESET."|",$colw[$tile],$results{'chkmissno'}[$tile]);
+		$bgc =getBGcolour($tile,'checkd');
+		if ($results{'chkmissrd'}[$tile]) {
+			printf($bgc." %*d ".RESET."|",$colw[$tile],$results{'chkmissno'}[$tile]);
+		} else {printf($bgc." %*s ".RESET."|",$colw[$tile],"") }
 	}
 
 	print("\n");
 	printf("%*s |",$col0w,"on different rds");
 	for my $tile(0..$#tiles){
 		$bgc =getBGcolour($tile,'checkd'); 
-		printf($bgc." %*d ".RESET."|",$colw[$tile],$results{'chkmissrd'}[$tile]);
+		if ($results{'chkmissrd'}[$tile]) {
+			printf($bgc." %*d ".RESET."|",$colw[$tile],$results{'chkmissrd'}[$tile]);
+		} else {printf($bgc." %*s ".RESET."|",$colw[$tile],"") }
 	}
 
 	print("\n");

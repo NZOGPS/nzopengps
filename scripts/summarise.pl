@@ -100,6 +100,8 @@ sub do_checker {
 	$resultsp->{'chkmissol'}[$tile]=0;
 	$resultsp->{'chkunnumb'}[$tile]=0;
 	$resultsp->{'chkundefn'}[$tile]=0;
+	$resultsp->{'chkdirind'}[$tile]=0;
+	$resultsp->{'chklinzid'}[$tile]=0;
 
 	print "docheck: file is $fn\n" if $debug;
 	open(CHKF,$fn) or die "can't open $fn";
@@ -121,6 +123,16 @@ sub do_checker {
 		if(/(\d+) already set in RoadID (\d+)/) {
 			print "found overlap of $1 on $2\n" if $debug;
 				$resultsp->{'chkmissol'}[$tile]++;
+		}
+
+		if(/dirindicator.*set/) {
+			print "found dirindicator\n" if $debug;
+				$resultsp->{'chkdirind'}[$tile]++;
+		}
+
+		if(/multiple.*linzid/) {
+			print "found multiple linzid\n" if $debug;
+				$resultsp->{'chklinzid'}[$tile]++;
 		}
 
 		if(/Unindexed road:\tRoad is (.*),/) {
@@ -324,6 +336,24 @@ if ($debug){
 		$bgc =getBGcolour($tile,'checkd'); 
 		if ($results{'chkmissui'}[$tile]) {
 			printf($bgc." %*d ".RESET."|",$colw[$tile],$results{'chkmissui'}[$tile]);
+		} else {printf($bgc." %*s ".RESET."|",$colw[$tile],"") }
+	}
+
+	print("\n");
+	printf("%*s |",$col0w,"Direction error");
+	for my $tile(0..$#tiles){
+		$bgc =getBGcolour($tile,'checkd'); 
+		if ($results{'chkdirind'}[$tile]) {
+			printf($bgc." %*d ".RESET."|",$colw[$tile],$results{'chkdirind'}[$tile]);
+		} else {printf($bgc." %*s ".RESET."|",$colw[$tile],"") }
+	}
+
+	print("\n");
+	printf("%*s |",$col0w,"LINZID error");
+	for my $tile(0..$#tiles){
+		$bgc =getBGcolour($tile,'checkd'); 
+		if ($results{'chklinzid'}[$tile]) {
+			printf($bgc." %*d ".RESET."|",$colw[$tile],$results{'chklinzid'}[$tile]);
 		} else {printf($bgc." %*s ".RESET."|",$colw[$tile],"") }
 	}
 

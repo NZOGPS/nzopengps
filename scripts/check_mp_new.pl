@@ -436,7 +436,7 @@ sub id_check {
 					if ($2==$roadhp->{linzid}[$i]){
 						print "Warning: multiple copies of same linzid${1}\n";
 					} else {
-						print " * Error: multiple linzid${1}s $2,$roadhp->{name}[$i]\n";
+						print " * Error: multiple linzid${1}s $2,$roadhp->{linzid}[$i]\n";
 					}
 					dump_id3($roadhp,0,-1);
 					print "\n";

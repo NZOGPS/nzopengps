@@ -1,1 +1,18 @@
 ﻿
+1216550	103 Ti Rakau Drive, Pakuranga, Auckland	2026/07/10 16:03	-36.919910,174.876306
+1216550	103 Ti Rakau Drive, Pakuranga, Auckland	2026/07/10 16:04	-36.919910,174.876306
+1216550	103 Ti Rakau Drive, Pakuranga, Auckland	2026/07/10 16:04	-36.919910,174.876306
+1216550	103 Ti Rakau Drive, Pakuranga, Auckland	2026/07/10 16:04	-36.919910,174.876306
+1216819	189 Ti Rakau Drive, Pakuranga Heights, Auckland	2026/07/10 16:05	-36.923489,174.883240
+1216817	187 Ti Rakau Drive, Pakuranga Heights, Auckland	2026/07/10 16:05	-36.923438,174.883038
+1216788	173 Ti Rakau Drive, Pakuranga Heights, Auckland	2026/07/10 16:06	-36.923255,174.882274
+1216768	169 Ti Rakau Drive, Pakuranga Heights, Auckland	2026/07/10 16:06	-36.923156,174.881729
+1216766	167 Ti Rakau Drive, Pakuranga Heights, Auckland	2026/07/10 16:06	-36.923121,174.881514
+1216763	165 Ti Rakau Drive, Pakuranga Heights, Auckland	2026/07/10 16:06	-36.923096,174.881323
+1216730	155 Ti Rakau Drive, Pakuranga Heights, Auckland	2026/07/10 16:07	-36.922821,174.880428
+3103092	1/63 Ti Rakau Drive, Pakuranga, Auckland	2026/07/10 22:16	-36.917842,174.873374
+1216628	125 Ti Rakau Drive, Pakuranga, Auckland	2026/07/10 22:31	-36.921037,174.877774
+1216725	151 Ti Rakau Drive, Pakuranga Heights, Auckland	2026/07/10 22:32	-36.922668,174.880126
+1216794	179 Ti Rakau Drive, Pakuranga Heights, Auckland	2026/07/10 22:32	-36.923330,174.882616
+1217240	85 Ti Rakau Drive, Pakuranga, Auckland	2026/07/10 22:32	-36.919198,174.875311
+1217272	93 Ti Rakau Drive, Pakuranga, Auckland	2026/07/10 22:33	-36.919344,174.875517

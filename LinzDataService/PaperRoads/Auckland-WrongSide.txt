@@ -22,3 +22,14 @@
 2381551	32R Kiwi Esplanade, Mangere Bridge, Auckland	2025/10/27 21:35	-36.938600,174.777917
 2383777	25 King Edward Parade, Devonport, Auckland	2025/10/27 21:37	-36.831093,174.803180
 710642	3200 Long Bay Road, Coromandel	2025/10/28 15:19	-36.747518,175.476666
+3091237	49R The Esplanade, Eastern Beach, Auckland	2026/07/10 14:35	-36.875713,174.916413
+3091422	70R Kiwi Esplanade, Mangere Bridge, Auckland	2026/07/10 14:35	-36.941101,174.768690
+3091421	68R Kiwi Esplanade, Mangere Bridge, Auckland	2026/07/10 14:36	-36.940754,174.769110
+3091450	7D Kiwi Esplanade, Mangere Bridge, Auckland	2026/07/10 14:36	-36.940171,174.784040
+3091464	1R Kiwi Esplanade, Mangere Bridge, Auckland	2026/07/10 14:36	-36.939263,174.785879
+3091690	11R Pavilion Drive, Mangere, Auckland	2026/07/10 14:38	-36.984446,174.769855
+3092260	2R Carolyn Street, Manukau, Auckland	2026/07/10 14:38	-36.980140,174.875086
+3092640	12R Mellons Bay Road, Howick, Auckland	2026/07/10 14:39	-36.892029,174.927280
+3092880	28R Horlicks Place, Randwick Park, Auckland	2026/07/10 14:40	-37.026522,174.920378
+3093047	21R Bairds Road, Otara, Auckland	2026/07/10 14:41	-36.958147,174.859349
+3099348	1/147 Capriana Drive, Karaka, Papakura	2026/07/10 14:59	-37.066231,174.908403

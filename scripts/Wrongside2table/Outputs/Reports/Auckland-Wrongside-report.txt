@@ -9,15 +9,15 @@ Warning: duplicate entries for 1216550 on line 5 in C:\users\Gary\nzopengps\Linz
 14 entries in C:\users\Gary\nzopengps\LinzDataService\PaperRoads\Auckland-LINZWrongSide.txt
 65 wrongside numbers, 29 not in Exclusion files
 6 entries in Ignore list are no longer on the wrong side
-2167019	5 Persimmon Place, Whitford	2025/10/24 15:50	-36.962495,174.984815
+3091690	11R Pavilion Drive, Mangere, Auckland	2026/07/10 14:38	-36.984446,174.769855
+1154147	27 Avro Place	2015/05/18 22:57	-36.971230,174.789753
 1279554	39 Elsie Morton Place	2015/05/18 22:57	-37.056667,174.969222
 2300330	16 Weza Lane, Kumeu	2025/10/25 17:39	-36.775833,174.560544
 2194522	80B Pacific Heights Road, Orewa	2025/10/24 18:04	-36.572706,174.675729
-3091690	11R Pavilion Drive, Mangere, Auckland	2026/07/10 14:38	-36.984446,174.769855
-1154147	27 Avro Place	2015/05/18 22:57	-36.971230,174.789753
+2167019	5 Persimmon Place, Whitford	2025/10/24 15:50	-36.962495,174.984815
 
 3 entries in Linz list are no longer on the wrong side
-1217272	93 Ti Rakau Drive, Pakuranga, Auckland	2026/07/10 22:33	-36.919344,174.875517
 1216550	103 Ti Rakau Drive, Pakuranga, Auckland	2026/07/10 16:03	-36.919910,174.876306
+1217272	93 Ti Rakau Drive, Pakuranga, Auckland	2026/07/10 22:33	-36.919344,174.875517
 1217240	85 Ti Rakau Drive, Pakuranga, Auckland	2026/07/10 22:32	-36.919198,174.875311
 

@@ -16,3 +16,9 @@
 1216794	179 Ti Rakau Drive, Pakuranga Heights, Auckland	2026/07/10 22:32	-36.923330,174.882616
 1217240	85 Ti Rakau Drive, Pakuranga, Auckland	2026/07/10 22:32	-36.919198,174.875311
 1217272	93 Ti Rakau Drive, Pakuranga, Auckland	2026/07/10 22:33	-36.919344,174.875517
+3046693	1/1 View Road, Campbells Bay, Auckland	2026/07/15 23:18	-36.743443,174.758329
+3049063	1/1 Williamson Avenue, Belmont, Auckland	2026/07/15 23:19	-36.806687,174.794298
+3051011	1/1 Verbena Road, Birkdale, Auckland	2026/07/15 23:19	-36.804243,174.706373
+3052290	1/1 Kororo Street, Northcote, Auckland	2026/07/15 23:20	-36.805313,174.745190
+3055420	1/1 Karaka Street, Takapuna, Auckland	2026/07/15 23:20	-36.789944,174.757669
+3055574	1/1 Lomond Street, Takapuna, Auckland	2026/07/15 23:20	-36.788484,174.766317

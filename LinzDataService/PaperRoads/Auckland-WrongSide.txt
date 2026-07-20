@@ -33,3 +33,5 @@
 3092880	28R Horlicks Place, Randwick Park, Auckland	2026/07/10 14:40	-37.026522,174.920378
 3093047	21R Bairds Road, Otara, Auckland	2026/07/10 14:41	-36.958147,174.859349
 3099348	1/147 Capriana Drive, Karaka, Papakura	2026/07/10 14:59	-37.066231,174.908403
+3091451	9R Kiwi Esplanade, Mangere Bridge, Auckland	2026/07/21 03:39	-36.939651,174.783758
+3091483	19R Mona Avenue, Mangere Bridge, Auckland	2026/07/21 03:41	-36.942942,174.796956

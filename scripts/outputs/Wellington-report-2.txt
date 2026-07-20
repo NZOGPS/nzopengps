@@ -1,4 +1,4 @@
-Start = 2026-07-12 12:26:37 +1200
+Start = 2026-07-21 00:01:13 +1200
 #############################
 
 0 LINZ ids are missing from NZOGPS Wellington
@@ -10,5 +10,5 @@ Start = 2026-07-12 12:26:37 +1200
 0 Number range ids are missing from NZOGPS Wellington
 #############################
 
-Finish = 2026-07-12 12:26:38 +1200
-Processing time = 0.9226231
+Finish = 2026-07-21 00:01:14 +1200
+Processing time = 1.0626806

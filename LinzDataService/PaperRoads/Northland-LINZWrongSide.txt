@@ -165,4 +165,4 @@
 931979	614B Paparoa Station Road, Maungaturoto	2021/01/24 14:41	-36.091135,174.299613	A couple of obvious houses across the road, matching RAPID.
 931978	614A Paparoa Station Road, Maungaturoto	2021/01/24 14:41	-36.090779,174.299978
 1609441	79 Rangiuru Drive, Parua Bay	2021/01/24 14:44	-35.775752,174.505261	Couple of obvious buildings on the other side of the road. Ditto 77
-2241568	54 Kourataki Road, Leigh	2026/07/09 00:15	-36.300203,174.790197
+

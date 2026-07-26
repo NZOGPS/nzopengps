@@ -26,7 +26,7 @@ def preloadZenbuFile(path)
 
 	CSV.foreach(path, :encoding => 'UTF-8', :headers => true) do |row|
 #zid,name,tags,website,physical_address,phone,opening_hours,longitude,latitude,gisprecision,correctly_placed,created_at,updated_at,updated_by,version,facebook_page,categories
-	  @masterZenbuDataHash[row['zid']] = row
+		@masterZenbuDataHash[row['zid']] = row
 	end
 
 	print "#{@masterZenbuDataHash.size} entries\n"
@@ -41,7 +41,7 @@ def fix_special_chars(s)
 	begin
 		return s.encode("ISO-8859-1")
 	rescue Exception => e
-    return s
+		return s
 	end
 
 end
@@ -93,14 +93,14 @@ begin
 
 	# look for black, orange, blue markers
 	correctly_placed = @masterZenbuDataHash[zid]['correctly_placed']
- 	if correctly_placed == '1' then #black marker
- 	  @reporting['correct']+=1
- 	elsif correctly_placed == '2' then #blue marker
-	  return #skip blue markers
- 	else
- 	  @reporting['incorrect']+=1
-	  label = '?' + label # add ? to non correct placed
- 	end
+	if correctly_placed == '1' then #black marker
+		@reporting['correct']+=1
+	elsif correctly_placed == '2' then #blue marker
+		return #skip blue markers
+	else
+		@reporting['incorrect']+=1
+		label = '?' + label # add ? to non correct placed
+	end
 
 #NZ CUSTOMISED
 # choose output file based on rudimentary North Island / South Island definition
@@ -108,12 +108,15 @@ begin
 # elsif latitude.to_f < -41.7 then mpfileoutref = @mpfileoutB # lower than bottom of north
 # elsif longitude.to_f > 174.5 then mpfileoutref = @mpfileoutA # more east than most east of south
 # else mpfileoutref = @mpfileoutB end #everything else
+
 # 1st capture the south island bounding box
-if latitude.to_f <  -40.4 && longitude.to_f < 174.5 && longitude.to_f > 165 then mpfileoutref = @mpfileoutB
+if latitude.to_f < -40.4 && latitude.to_f > -48 && longitude.to_f < 174.5 && longitude.to_f > 165 then mpfileoutref = @mpfileoutB
 # 2nd capture the Chathams island box
-elsif latitude.to_f <  -40.4 && longitude.to_f < -173 && longitude.to_f > -178 then mpfileoutref = @mpfileoutC
-# 3rd Remainder is North island
-else mpfileoutref = @mpfileoutA end
+elsif latitude.to_f < -42 && latitude.to_f > -46 && longitude.to_f < -174 && longitude.to_f > -178 then mpfileoutref = @mpfileoutC
+# 3rd is North island
+elsif latitude.to_f < -34 && latitude.to_f > -42 && longitude.to_f > 172 && longitude.to_f < 179 then mpfileoutref = @mpfileoutA
+
+else mpfileoutref = @mpfileoutD end
 	streetdesc = "#{address}/ #{tags}"
 	streetdesc = streetdesc.slice(0,80)
 
@@ -185,49 +188,49 @@ end
 def processPOITypeSpecificRules(label,tags,website,poitypecode,opening)
 #NZ CUSTOMISED
 
-  case poitypecode
-  when "0x2f01" # petrol stations 0x2f01.txt
+	case poitypecode
+	when "0x2f01" # petrol stations 0x2f01.txt
 
-  	#make sure garage names have the brand in the name for easy identification
-  	if website =~ /\.Bp\./i && label !~ /^BP/i then
-  	  label = "BP " + label
-  	end
-  	if website =~ /\.z\./i && label !~ /^z/i then
-  	  label = "Z " + label
-  	end
-    if website =~ /\.Mobil\./i && label !~ /^Mobil/i then
-      label = "Mobil " + label
-    end
-    if website =~ /\.gasolinealley\./i && label !~ /^GAS /i then
-      label = "GAS " + label
-    end
-  	if website =~ /\.Caltex\./i && label !~ /^Caltex/i then
-  	  label = "Caltex " + label
-  	end
+		#make sure garage names have the brand in the name for easy identification
+		if website =~ /\.Bp\./i && label !~ /^BP/i then
+			label = "BP " + label
+		end
+		if website =~ /\.z\./i && label !~ /^z/i then
+			label = "Z " + label
+		end
+		if website =~ /\.Mobil\./i && label !~ /^Mobil/i then
+			label = "Mobil " + label
+		end
+		if website =~ /\.gasolinealley\./i && label !~ /^GAS /i then
+			label = "GAS " + label
+		end
+		if website =~ /\.Caltex\./i && label !~ /^Caltex/i then
+			label = "Caltex " + label
+		end
 
-  when "0x2f06" # banks 0x2f06.txt
-  	#custom suffix to identify banks and atms
-  	if tags =~ /\bbank\b/i && tags =~ /\bATM\b/i then
-  	  label += " (B&A)"
-  	elsif tags =~ /\bbank\b/i then
-  	  label += " (B)"
-  	elsif tags =~ /\bATM\b/i then
-  	  label += " (A)" if label !~ /\bATM\b/i
-  	end
+	when "0x2f06" # banks 0x2f06.txt
+		#custom suffix to identify banks and atms
+		if tags =~ /\bbank\b/i && tags =~ /\bATM\b/i then
+			label += " (B&A)"
+		elsif tags =~ /\bbank\b/i then
+			label += " (B)"
+		elsif tags =~ /\bATM\b/i then
+			label += " (A)" if label !~ /\bATM\b/i
+		end
 
-  when "0x2b03" # Accommodation - Camping, RV Park 0x2b03.txt
-  	#custom suffix to identify DOC (department of conservation) campsites
-  	if website =~ /\.doc\./i && label !~ /^doc/i then
-  	  label += " (DOC)"
-  	end
-  end
+	when "0x2b03" # Accommodation - Camping, RV Park 0x2b03.txt
+		#custom suffix to identify DOC (department of conservation) campsites
+		if website =~ /\.doc\./i && label !~ /^doc/i then
+			label += " (DOC)"
+		end
+	end
 
-  #custom suffix to identify 24hr establishments such as petrol stations
-  if opening =~ /24/ then
-  	label += " 24hr"
-  end
+	#custom suffix to identify 24hr establishments such as petrol stations
+	if opening =~ /24/ then
+		label += " 24hr"
+	end
 
-#  label = label.upcase
+#	label = label.upcase
 	return label
 end
 
@@ -363,7 +366,7 @@ Data0=(-47,173)
 [END]
 
 POIEND
-else
+elsif mapid == "64000022" then #Chatham Islands
 
 mpfileoutref.print <<POIEND
 [POI]
@@ -374,6 +377,19 @@ Data0=(-44,-178)
 [END]
 
 POIEND
+
+else
+
+mpfileoutref.print <<POIEND
+[POI]
+Type=0x2800
+Label=ODDBALL POI from www.zenbu.co.nz
+EndLevel=1
+Data0=(-44,-168)
+[END]
+
+POIEND
+
 end
 
 =begin
@@ -407,8 +423,8 @@ end
 @category_path_table = Hash.new
 
 def loadCategoriesFromCategoryFiles(p)
-  #process each file in the ZenbuPOIcategories folder
-  print "Loading categories from NZOGPS... "
+	#process each file in the ZenbuPOIcategories folder
+	print "Loading categories from NZOGPS... "
 
 	if !File.exist?(p) then
 		print "path to categories not found #{p}\n"
@@ -416,21 +432,21 @@ def loadCategoriesFromCategoryFiles(p)
 	end
 
 	Find.find(p) do |path|
-	  if FileTest.directory?(path)
-	    next # don't do anything with dirs in this folder
-	  elsif path =~ /01 Speed Cameras/
-	  	next
-	  elsif path =~ /\.zip$/
-	  	next
-	  elsif path =~ /\.svn/
-	  	next
-	  else
-	    #p path
-	    loadSingleCategory(path)
-	  end
+		if FileTest.directory?(path)
+			next # don't do anything with dirs in this folder
+		elsif path =~ /01 Speed Cameras/
+			next
+		elsif path =~ /\.zip$/
+			next
+		elsif path =~ /\.svn/
+			next
+		else
+			#p path
+			loadSingleCategory(path)
+		end
 	end
 
-  print "#{@categories_from_nzogps.size} ZIDs categorised in #{@category_name_table.size} files\n"
+	print "#{@categories_from_nzogps.size} ZIDs categorised in #{@category_name_table.size} files\n"
 end
 # #####################
 
@@ -519,34 +535,34 @@ def writeCategoryOverrideSummaryFile
 	};nil
 	out.close
 =begin
-  #print out counts of non-matches bewteen override file and zenbu category
-  no_match.sort{|a,b| a[1]<=>b[1]}.each { |elem|
-    print "#{elem[0]} = #{elem[1]}\n"
-  };nil
+	#print out counts of non-matches bewteen override file and zenbu category
+	no_match.sort{|a,b| a[1]<=>b[1]}.each { |elem|
+		print "#{elem[0]} = #{elem[1]}\n"
+	};nil
 =end
 end
 # #####################
 def rewriteCategoryFilesFromEditedOverrideSummaryFile
 
-  rewrite = Hash.new()
-  CSV.foreach(@override_summary_file_path, :encoding => 'UTF-8', :headers => true) do |row|
-  #'zid','name','tags', 'override_category', 'override_category_desc', 'zenbu_category', 'zenbu_category_desc'
-    lookup = "#{row['override_category_desc']} #{row['override_category']}.txt"
-    rewrite[lookup] = rewrite[lookup].nil? ? [] : rewrite[lookup] + [row['zid']]
-  end
+	rewrite = Hash.new()
+	CSV.foreach(@override_summary_file_path, :encoding => 'UTF-8', :headers => true) do |row|
+	#'zid','name','tags', 'override_category', 'override_category_desc', 'zenbu_category', 'zenbu_category_desc'
+		lookup = "#{row['override_category_desc']} #{row['override_category']}.txt"
+		rewrite[lookup] = rewrite[lookup].nil? ? [] : rewrite[lookup] + [row['zid']]
+	end
 
-  category_path = '../ZenbuPOIcategories2011'
-  total_rewrite = 0
-  rewrite.each_pair{|category,list|
-    path = category_path + '/' + category
-    print "Rewriting #{category} with #{list.size} ZIDs\n"
-    total_rewrite += list.size
-    out = File.open(path,'w:UTF-8')
-    list.sort.each{|zid|
-      out.print "#{zid}\n"
-    }
-  };nil
-  print "#{total_rewrite} ZIDs written to #{rewrite.size} files\n"
+	category_path = '../ZenbuPOIcategories2011'
+	total_rewrite = 0
+	rewrite.each_pair{|category,list|
+		path = category_path + '/' + category
+		print "Rewriting #{category} with #{list.size} ZIDs\n"
+		total_rewrite += list.size
+		out = File.open(path,'w:UTF-8')
+		list.sort.each{|zid|
+			out.print "#{zid}\n"
+		}
+	};nil
+	print "#{total_rewrite} ZIDs written to #{rewrite.size} files\n"
 
 end
 # #####################

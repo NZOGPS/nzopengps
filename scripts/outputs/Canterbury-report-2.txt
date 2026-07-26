@@ -1,7 +1,9 @@
-Start = 2026-07-19 23:29:51 +1200
+Start = 2026-07-26 10:32:54 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Canterbury
+2 LINZ ids are missing from NZOGPS Canterbury
+;linzid=3086310	Karumata Way	-43.762602685217196,172.29352172464485
+;linzid=3086295	Stella Lane	-43.6554737294263,172.47173019631407
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
@@ -10,5 +12,5 @@ Start = 2026-07-19 23:29:51 +1200
 0 Number range ids are missing from NZOGPS Canterbury
 #############################
 
-Finish = 2026-07-19 23:29:52 +1200
-Processing time = 1.3926796
+Finish = 2026-07-26 10:32:55 +1200
+Processing time = 1.424261

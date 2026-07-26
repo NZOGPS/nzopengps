@@ -1,8 +1,12 @@
 @echo off
 if not defined nzogps_git call ..\setlocals.bat
 %nzogps_git% pull
-%nzogps_curl% -L -u %nzogps_zenbu_user% -o zenbuNZ.csv.bz2 https://www.zenbu.co.nz/export/all
+rem %nzogps_curl% -L -u %nzogps_zenbu_user% -o zenbuNZ.csv.bz2 https://www.zenbu.co.nz/export/all
+%nzogps_curl% -b %nzogps_zenbu_sessid% -o zenbuNZ.csv.bz2 https://www.zenbu.co.nz/export/all
+echo %errorlevel%
+if errorlevel 1 exit /b
 %nzogps_bunzip% --force zenbuNZ.csv.bz2
+if errorlevel 1 exit /b
 if not defined nzogps_ruby_cmd call ..\setlocals.bat
 %nzogps_ruby_cmd% process.rb
 %nzogps_git% commit -m "POI Update" -uno ..\NZPOIs*.mp

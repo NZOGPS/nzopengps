@@ -535,7 +535,7 @@ def writeCategoryOverrideSummaryFile
 	};nil
 	out.close
 =begin
-	#print out counts of non-matches bewteen override file and zenbu category
+	#print out counts of non-matches between override file and zenbu category
 	no_match.sort{|a,b| a[1]<=>b[1]}.each { |elem|
 		print "#{elem[0]} = #{elem[1]}\n"
 	};nil
@@ -548,7 +548,8 @@ def rewriteCategoryFilesFromEditedOverrideSummaryFile
 	CSV.foreach(@override_summary_file_path, :encoding => 'UTF-8', :headers => true) do |row|
 	#'zid','name','tags', 'override_category', 'override_category_desc', 'zenbu_category', 'zenbu_category_desc'
 		lookup = "#{row['override_category_desc']} #{row['override_category']}.txt"
-		rewrite[lookup] = rewrite[lookup].nil? ? [] : rewrite[lookup] + [row['zid']]
+		#gt 20260729 This next line looks like the problem. Was .nil? ? [] - i.e. ignoring the first entry.
+		rewrite[lookup] = rewrite[lookup].nil? ? [row['zid']] : rewrite[lookup] + [row['zid']] 
 	end
 
 	category_path = '../ZenbuPOIcategories2011'

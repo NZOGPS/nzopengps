@@ -102,6 +102,8 @@ sub do_checker {
 	$resultsp->{'chkundefn'}[$tile]=0;
 	$resultsp->{'chkdirind'}[$tile]=0;
 	$resultsp->{'chklinzid'}[$tile]=0;
+	$resultsp->{'chklevels'}[$tile]=0;
+
 
 	print "docheck: file is $fn\n" if $debug;
 	open(CHKF,$fn) or die "can't open $fn";
@@ -154,6 +156,17 @@ sub do_checker {
 			print "found undefined end\n" if $debug;
 				$resultsp->{'chkundefn'}[$tile]++;
 		}
+
+		if(/roundabout id \d+ class \d is too low at/) { #roundabout id 41384 class 0 is too low at -
+			print "found class error\n" if $debug;
+				$resultsp->{'chklevels'}[$tile]++;
+		}
+
+		if(/[A-Za-z] on level \d+ only/) { #Road on level 0 only
+			print "found level error\n" if $debug;
+				$resultsp->{'chklevels'}[$tile]++;
+		}
+
 	}
 }
 
@@ -354,6 +367,15 @@ if ($debug){
 		$bgc =getBGcolour($tile,'checkd'); 
 		if ($results{'chklinzid'}[$tile]) {
 			printf($bgc." %*d ".RESET."|",$colw[$tile],$results{'chklinzid'}[$tile]);
+		} else {printf($bgc." %*s ".RESET."|",$colw[$tile],"") }
+	}
+
+	print("\n");
+	printf("%*s |",$col0w,"level/class error");
+	for my $tile(0..$#tiles){
+		$bgc =getBGcolour($tile,'checkd'); 
+		if ($results{'chklevels'}[$tile]) {
+			printf($bgc." %*d ".RESET."|",$colw[$tile],$results{'chklevels'}[$tile]);
 		} else {printf($bgc." %*s ".RESET."|",$colw[$tile],"") }
 	}
 

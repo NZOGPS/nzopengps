@@ -1,7 +1,8 @@
-Start = 2026-08-02 12:37:08 +1200
+Start = 2026-08-09 23:09:44 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Southland
+1 LINZ ids are missing from NZOGPS Southland
+;linzid=3086340	Kawarau Tce	-45.00661268232843,168.79198025912046
 #############################
 
 0 LINZ ids are in NZOGPS Southland but missing from LINZ
@@ -10,5 +11,5 @@ Start = 2026-08-02 12:37:08 +1200
 0 Number range ids are missing from NZOGPS Southland
 #############################
 
-Finish = 2026-08-02 12:37:10 +1200
-Processing time = 1.6814922
+Finish = 2026-08-09 23:09:46 +1200
+Processing time = 1.7970081

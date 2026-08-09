@@ -18,7 +18,7 @@ rem for getting zenbu files...
 set nzogps_curl="C:\Program Files\Git\mingw64\bin\curl"
 set nzogps_bunzip="C:\Program Files\Git\mingw64\bin\bunzip2"
 rem set nzogps_zenbu_user=user:password - doesn't work any more Jul 2026
-set nzogps_zenbu_sessid="session_id=GetASessionIDFromYourBrowseregChromeIsInspectApplicationCookiesZenbuSessionIDShouldLast5Months"
+set nzogps_zenbu_sessid="session_id=GetASessionIDFromYourBrowsere.g.ChromeIsInspectApplicationCookiesZenbuSessionTickUseURLEncodedIDShouldLast5Months"
 rem for linz updates - use your own linz api key
 set nzogps_linz_api_key=123456789abcdef12345
 set nzogps_ogr2ogr="c:\Program Files\QGIS Brighton\bin\ogr2ogr.exe"

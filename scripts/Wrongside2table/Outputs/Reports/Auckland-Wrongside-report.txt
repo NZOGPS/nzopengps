@@ -7,22 +7,32 @@ Warning: duplicate entries for 1216550 on line 3 in C:\users\Gary\nzopengps\Linz
 Warning: duplicate entries for 1216550 on line 4 in C:\users\Gary\nzopengps\LinzDataService\PaperRoads\Auckland-LINZWrongSide.txt
 Warning: duplicate entries for 1216550 on line 5 in C:\users\Gary\nzopengps\LinzDataService\PaperRoads\Auckland-LINZWrongSide.txt
 20 entries in C:\users\Gary\nzopengps\LinzDataService\PaperRoads\Auckland-LINZWrongSide.txt
-49 wrongside numbers, 10 not in Exclusion files
-8 entries in Ignore list are no longer on the wrong side
-3091451	9R Kiwi Esplanade, Mangere Bridge, Auckland	2026/07/21 03:39	-36.939651,174.783758
-3091483	19R Mona Avenue, Mangere Bridge, Auckland	2026/07/21 03:41	-36.942942,174.796956
-2167019	5 Persimmon Place, Whitford	2025/10/24 15:50	-36.962495,174.984815
+43 wrongside numbers, 14 not in Exclusion files
+9 entries in Ignore list are no longer on the wrong side
+3091690	11R Pavilion Drive, Mangere, Auckland	2026/07/10 14:38	-36.984446,174.769855
 1154147	27 Avro Place	2015/05/18 22:57	-36.971230,174.789753
 2300330	16 Weza Lane, Kumeu	2025/10/25 17:39	-36.775833,174.560544
-2194522	80B Pacific Heights Road, Orewa	2025/10/24 18:04	-36.572706,174.675729
 1279554	39 Elsie Morton Place	2015/05/18 22:57	-37.056667,174.969222
-3091690	11R Pavilion Drive, Mangere, Auckland	2026/07/10 14:38	-36.984446,174.769855
+2167019	5 Persimmon Place, Whitford	2025/10/24 15:50	-36.962495,174.984815
+3091451	9R Kiwi Esplanade, Mangere Bridge, Auckland	2026/07/21 03:39	-36.939651,174.783758
+3091450	7D Kiwi Esplanade, Mangere Bridge, Auckland	2026/07/10 14:36	-36.940171,174.784040
+3091483	19R Mona Avenue, Mangere Bridge, Auckland	2026/07/21 03:41	-36.942942,174.796956
+2194522	80B Pacific Heights Road, Orewa	2025/10/24 18:04	-36.572706,174.675729
 
-6 entries in Linz list are no longer on the wrong side
-3055420	1/1 Karaka Street, Takapuna, Auckland	2026/07/15 23:20	-36.789944,174.757669
-3052290	1/1 Kororo Street, Northcote, Auckland	2026/07/15 23:20	-36.805313,174.745190
-3049063	1/1 Williamson Avenue, Belmont, Auckland	2026/07/15 23:19	-36.806687,174.794298
-3046693	1/1 View Road, Campbells Bay, Auckland	2026/07/15 23:18	-36.743443,174.758329
+15 entries in Linz list are no longer on the wrong side
+1216819	189 Ti Rakau Drive, Pakuranga Heights, Auckland	2026/07/10 16:05	-36.923489,174.883240
+1216794	179 Ti Rakau Drive, Pakuranga Heights, Auckland	2026/07/10 22:32	-36.923330,174.882616
+1216766	167 Ti Rakau Drive, Pakuranga Heights, Auckland	2026/07/10 16:06	-36.923121,174.881514
+1216788	173 Ti Rakau Drive, Pakuranga Heights, Auckland	2026/07/10 16:06	-36.923255,174.882274
 3051011	1/1 Verbena Road, Birkdale, Auckland	2026/07/15 23:19	-36.804243,174.706373
+1216768	169 Ti Rakau Drive, Pakuranga Heights, Auckland	2026/07/10 16:06	-36.923156,174.881729
+1216725	151 Ti Rakau Drive, Pakuranga Heights, Auckland	2026/07/10 22:32	-36.922668,174.880126
+3049063	1/1 Williamson Avenue, Belmont, Auckland	2026/07/15 23:19	-36.806687,174.794298
+1216817	187 Ti Rakau Drive, Pakuranga Heights, Auckland	2026/07/10 16:05	-36.923438,174.883038
 3055574	1/1 Lomond Street, Takapuna, Auckland	2026/07/15 23:20	-36.788484,174.766317
+3052290	1/1 Kororo Street, Northcote, Auckland	2026/07/15 23:20	-36.805313,174.745190
+1216763	165 Ti Rakau Drive, Pakuranga Heights, Auckland	2026/07/10 16:06	-36.923096,174.881323
+3055420	1/1 Karaka Street, Takapuna, Auckland	2026/07/15 23:20	-36.789944,174.757669
+1216730	155 Ti Rakau Drive, Pakuranga Heights, Auckland	2026/07/10 16:07	-36.922821,174.880428
+3046693	1/1 View Road, Campbells Bay, Auckland	2026/07/15 23:18	-36.743443,174.758329
 

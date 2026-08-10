@@ -1,8 +1,6 @@
-Start = 2026-08-09 23:09:55 +1200
+Start = 2026-08-11 01:13:03 +1200
 linzid	street_name	street_name_2	official_street_name
-3085429	Pateretere Pl		Roto Pl	-35.03418,173.90749
-3085429	Pateretere Pl		Roto Pl	-35.03489,173.90506
 #############################
 
-Finish = 2026-08-09 23:09:56 +1200
-Processing time = 0.7137518
+Finish = 2026-08-11 01:13:04 +1200
+Processing time = 0.5015606

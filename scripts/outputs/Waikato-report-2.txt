@@ -1,10 +1,7 @@
-Start = 2026-08-09 23:09:51 +1200
+Start = 2026-08-12 11:07:27 +1200
 #############################
 
-3 LINZ ids are missing from NZOGPS Waikato
-;linzid=3086341	London Lane	-37.90730378908956,175.46664342368035
-;linzid=3086338	Moreland Mews	-37.69985007270053,176.16197066402538
-;linzid=3086339	Pendula Lane	-37.74449683444834,176.11689619901261
+0 LINZ ids are missing from NZOGPS Waikato
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -13,5 +10,5 @@ Start = 2026-08-09 23:09:51 +1200
 0 Number range ids are missing from NZOGPS Waikato
 #############################
 
-Finish = 2026-08-09 23:09:53 +1200
-Processing time = 2.0400103
+Finish = 2026-08-12 11:07:29 +1200
+Processing time = 1.5933574

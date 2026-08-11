@@ -158,7 +158,12 @@ sub do_checker {
 		}
 
 		if(/roundabout id \d+ class \d is too low at/) { #roundabout id 41384 class 0 is too low at -
-			print "found class error\n" if $debug;
+			print "found r/b class error\n" if $debug;
+				$resultsp->{'chklevels'}[$tile]++;
+		}
+
+		if(/class \d is higher class than roundabout id \d+ class \d/) { #class 4 is higher class than roundabout id 31057 class 3
+			print "found r/b class error\n" if $debug;
 				$resultsp->{'chklevels'}[$tile]++;
 		}
 

@@ -3,6 +3,7 @@
 require 'rubygems'
 require 'find'
 require 'csv'
+require 'json'
 
 #Encoding.default_external = Encoding.find('utf-8')
 
@@ -447,11 +448,20 @@ def loadCategoriesFromCategoryFiles(p)
 	end
 
 	print "#{@categories_from_nzogps.size} ZIDs categorised in #{@category_name_table.size} files\n"
+
+	File.open(File.join(p,"NZOPOIs.json"), "w+") do |f|
+		f << JSON.pretty_generate(@categories_from_nzogps)
+	end
+
+	File.open(File.join(p,"Categories.json"), "w+") do |f|
+		f << JSON.pretty_generate(@category_name_table)
+	end
+
 end
 # #####################
 
 @categories_from_zenbu = Hash.new
-def loadCategoriesFromZenbu
+def loadCategoriesFromZenbu(p)
 	print "Loading categories from Zenbu... "
 	@masterZenbuDataHash.each_pair{|zid,data|
 		if !@categories_from_nzogps.has_key?(zid) then #ignore Zenbu if override exists in NZOGPS
@@ -461,6 +471,10 @@ def loadCategoriesFromZenbu
 		@categories_from_zenbu[zid] = category
 	}
 	print "#{@reporting['category_from_zenbu']} unique ZIDs categorised\n"
+	File.open(File.join(p,"ZBPOIs.json"), "w+") do |f|
+		f << JSON.pretty_generate(@categories_from_zenbu)
+	end
+
 end
 
 # #####################

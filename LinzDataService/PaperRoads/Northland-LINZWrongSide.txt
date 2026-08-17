@@ -166,3 +166,4 @@
 931978	614A Paparoa Station Road, Maungaturoto	2021/01/24 14:41	-36.090779,174.299978
 1609441	79 Rangiuru Drive, Parua Bay	2021/01/24 14:44	-35.775752,174.505261	Couple of obvious buildings on the other side of the road. Ditto 77
 
+3200040	1088 Puketotara Road, Okaihau	2026/08/16 16:24	-35.246616,173.817634

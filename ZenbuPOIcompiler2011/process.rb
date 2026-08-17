@@ -14,7 +14,7 @@ preloadZenbuFile(zenbu_data_file)
 
 GUESS_FROM_TAGS = true #true/false. TRUE => if there is no category script will attempt to guess category from tags
 loadCategoriesFromCategoryFiles('../ZenbuPOIcategories2011') #creates @categories_from_nzogps
-loadCategoriesFromZenbu #creates @categories_from_zenbu
+loadCategoriesFromZenbu('../ZenbuPOIcategories2011')#creates @categories_from_zenbu - directory used for creating json file
 
 print "\nDoing Polish Format (MP) output\n"
 

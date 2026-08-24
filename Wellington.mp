@@ -129013,7 +129013,7 @@ Numbers2=1,O,19,37,E,18,34
 Numbers3=2,N,-1,-1,E,38,40
 Numbers4=3,O,39,49,E,40,48
 Numbers5=4,O,67,71,E,50,52
-Numbers6=5,N,-1,-1,N,-1,-1
+Numbers6=5,O,73,73,N,-1,-1
 [END]
 
 ;linzid=1800145
@@ -129044,15 +129044,16 @@ EndLevel=1
 CityIdx=133
 RoadID=12906
 RouteParam=2,0,0,0,0,0,0,0,0,0,0,0
-Data0=(-41.12776,175.04239),(-41.12832,175.04130),(-41.12855,175.04086),(-41.12860,175.04066),(-41.12859,175.04043),(-41.12856,175.04026),(-41.12839,175.03976),(-41.12832,175.03963),(-41.12732,175.03874),(-41.12727,175.03860),(-41.12730,175.03845),(-41.12743,175.03817),(-41.12826,175.03656)
+Data0=(-41.12776,175.04239),(-41.12832,175.04130),(-41.12855,175.04086),(-41.12860,175.04066),(-41.12859,175.04043),(-41.12856,175.04026),(-41.12839,175.03976),(-41.12832,175.03963),(-41.12746,175.03886),(-41.12732,175.03874),(-41.12727,175.03860),(-41.12730,175.03845),(-41.12737,175.03830),(-41.12826,175.03656)
 Nod1=0,6679,0
 Nod2=1,6669,0
 Nod3=5,60467,0
-Nod4=12,6615,0
+Nod4=13,6615,0
 Numbers1=0,O,1,7,E,2,10
 Numbers2=1,O,11,21,E,10,18
 Numbers3=5,O,23,53,N,-1,-1
-Numbers4=11,O,55,75,E,60,76
+Numbers4=8,O,55,57,N,-1,-1
+Numbers5=12,O,57,75,E,58,76
 [END]
 
 ;linzid=1800148
@@ -235373,7 +235374,7 @@ Numbers9=21,N,-1,-1,E,198,200
 Numbers10=22,N,-1,-1,E,206,210
 Numbers11=23,O,213,229,E,218,232
 Numbers12=24,N,-1,-1,E,234,234
-Numbers13=25,O,235,235,E,236,240
+Numbers13=25,O,233,235,E,236,240
 Numbers14=26,O,237,239,E,242,256
 Numbers15=27,N,-1,-1,N,-1,-1
 Numbers16=28,O,247,255,E,258,270
@@ -367004,15 +367005,4 @@ EndLevel=1
 Data0=(-40.93937,175.65750),(-40.93954,175.65761),(-40.93969,175.65725),(-40.93951,175.65714)
 [END]
 
-;@BMT,custom_poi,"poi-Wellington_missing","poi",{},"Wellington_missing",0,0,
-;@BM,custom_poi,poi-Wellington_missing,0,0.000000,174.929890,-41.208730,,0,0,0,"",0,0,0,comment="Te Ara Iti",label="Warning - Number[1]: 18 is not odd",
-;@BM,custom_poi,poi-Wellington_missing,0,0.000000,174.930301,-41.208782,,0,0,0,"",0,0,0,comment="3086342",label="2 Te Ara Iti",
-;@BM,custom_poi,poi-Wellington_missing,0,0.000000,174.930224,-41.208730,,0,0,0,"",0,0,0,comment="3086342",label="4 Te Ara Iti",
-;@BM,custom_poi,poi-Wellington_missing,0,0.000000,174.930148,-41.208679,,0,0,0,"",0,0,0,comment="3086342",label="6 Te Ara Iti",
-;@BM,custom_poi,poi-Wellington_missing,0,0.000000,174.930064,-41.208633,,0,0,0,"",0,0,0,comment="3086342",label="8 Te Ara Iti",
-;@BM,custom_poi,poi-Wellington_missing,0,0.000000,174.930087,-41.208437,,0,0,0,"",0,0,0,comment="3086342",label="10 Te Ara Iti",
-;@BM,custom_poi,poi-Wellington_missing,0,0.000000,174.930006,-41.208494,,0,0,0,"",0,0,0,comment="3086342",label="12 Te Ara Iti",
-;@BM,custom_poi,poi-Wellington_missing,0,0.000000,174.929930,-41.208548,,0,0,0,"",0,0,0,comment="3086342",label="14 Te Ara Iti",
-;@BM,custom_poi,poi-Wellington_missing,0,0.000000,174.929826,-41.208629,,0,0,0,"",0,0,0,comment="3086342",label="16 Te Ara Iti",
-;@BM,custom_poi,poi-Wellington_missing,0,0.000000,174.929740,-41.208678,,0,0,0,"",0,0,0,comment="3086342",label="18 Te Ara Iti",
 ;@FILE,"C:\Users\Gary\nzopengps\Numbers\Wellington-numbers.gdb",1,".\Numbers\Wellington-numbers.gdb"

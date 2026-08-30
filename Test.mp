@@ -932,8 +932,10 @@ RoadID=3689
 RouteParam=3,0,0,0,0,0,0,0,0,0,0,0
 Data0=(-40.68173,172.68115),(-40.68187,172.68106),(-40.68235,172.68057),(-40.68244,172.68048),(-40.68257,172.68040),(-40.68312,172.68026),(-40.68761,172.68069)
 Nod1=0,30711,0
-Nod2=6,162593,0
-Numbers1=0,O,3,65,E,2,66
+Nod2=5,167652,0
+Nod3=6,162593,0
+Numbers1=0,O,3,19,E,2,18
+Numbers2=5,O,21,65,E,20,66
 [END]
 
 ;linzid=183782
@@ -2017,5 +2019,49 @@ Type=0x100
 Label=SQL to generate numbers in comment
 EndLevel=3
 Data0=(-40.67001,172.64433)
+[END]
+
+;linzid=1234567
+[POLYLINE]
+Type=0x6
+Label=Odd Even Overlap St
+EndLevel=1
+CityIdx=72
+RoadID=15354
+RouteParam=3,0,0,0,0,0,0,0,0,0,0,0
+Data0=(-40.68312,172.68026),(-40.68314,172.67911),(-40.68316,172.67802)
+Nod1=0,167652,0
+Nod2=1,167658,0
+Nod3=2,167657,0
+Numbers1=0,O,1,5,E,2,6
+Numbers2=1,O,7,9,E,8,10
+[END]
+
+;linzid=1234567
+[POLYLINE]
+Type=0x6
+Label=Odd Even Overlap St
+EndLevel=1
+CityIdx=72
+RoadID=15355
+RouteParam=3,0,0,0,0,0,0,0,0,0,0,0
+Data0=(-40.68314,172.67911),(-40.68351,172.67905),(-40.68355,172.67799)
+Nod1=0,167658,0
+Nod2=2,167655,0
+Numbers1=0,O,11,15,N,-1,-1
+[END]
+
+;linzid=1234567
+[POLYLINE]
+Type=0x6
+Label=Odd Even Overlap St
+EndLevel=1
+CityIdx=72
+RoadID=15356
+RouteParam=3,0,0,0,0,0,0,0,0,0,0,0
+Data0=(-40.68314,172.67911),(-40.68285,172.67897),(-40.68282,172.67803)
+Nod1=0,167658,0
+Nod2=2,167656,0
+Numbers1=0,N,-1,-1,B,11,17
 [END]
 

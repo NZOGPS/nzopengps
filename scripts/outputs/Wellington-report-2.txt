@@ -1,7 +1,8 @@
-Start = 2026-08-23 22:58:28 +1200
+Start = 2026-08-30 14:15:09 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Wellington
+1 LINZ ids are missing from NZOGPS Wellington
+;linzid=3086424	Fawn Way	-40.27405031701403,175.75768282485555
 #############################
 
 0 LINZ ids are in NZOGPS Wellington but missing from LINZ
@@ -10,5 +11,5 @@ Start = 2026-08-23 22:58:28 +1200
 0 Number range ids are missing from NZOGPS Wellington
 #############################
 
-Finish = 2026-08-23 22:58:29 +1200
-Processing time = 1.0087035
+Finish = 2026-08-30 14:15:10 +1200
+Processing time = 1.0726743

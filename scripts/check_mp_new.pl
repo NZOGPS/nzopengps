@@ -4,6 +4,7 @@ use feature qw "switch say";
 use Carp qw(shortmess);
 no if $] >= 5.018, warnings => "experimental::smartmatch";
 use File::Basename;
+use File::Spec;
 use Cwd;
 use Getopt::Std;
 use Data::Dumper;
@@ -38,9 +39,9 @@ my %debug = (
 	dumpid3			=> 0,
 	OEZCheck		=> 0,	# 1 or linzid or regex e.g '3063230|1830369'
 	OEZCheck1s		=> 0,
-	overlaperr		=> 0, #3083691,	# 1 or linzid or regex e.g '3063230|1830369'
-	olcheck			=> 0, #3083691,	# 1 or linzid or regex e.g '3063230|1830369'
-	ol1numtype		=> 0, #3083691,	# 1 or linzid or regex e.g '3063230|1830369'
+	overlaperr		=> 1801950, #3083691,	# 1 or linzid or regex e.g '3063230|1830369'
+	olcheck			=> 1801950, #3083691,	# 1 or linzid or regex e.g '3063230|1830369'
+	ol1numtype		=> 1801950, #3083691,	# 1 or linzid or regex e.g '3063230|1830369'
 	rdoverlap		=> 0,
 	readpapernums	=> 0,
 	routecheck		=> 0,
@@ -597,10 +598,10 @@ sub overlap_err{
 
 	if ($debugthis){
 		print "overlap_err: beg:$beg lst:$lst isend:$isend nid:$nid nno:$nno red: $red red0: $$red[0] roadhp: $roadhp\n";
-		print "roadhp is: \n";
-		print Dumper($roadhp);
-		print "red is:\n";
-		print Dumper($red);
+		print "roadhp is:";
+		print Data::Dumper->Dump([\$roadhp]);
+		print "red is:";
+		print Data::Dumper->Dump([\$red]);
 		print "overlap_err: beg:$beg lst:$lst isend:$isend nid:$nid nno:$nno red(1):$$red[1] red(2):$$red[2] red(3):$$red[3] red(0,14): $$red[0]->{numnum}\n";
 	}
 
@@ -1624,9 +1625,9 @@ sub read_number_csv {
 	$idnm = "Linzid";
 	$idformat = "(\"?)(\\d+)\\1";
 	if (defined ($cmdopts{P})){
-		$fn = "${d1}scripts\\outputs\\$f1-numbers.csv";
+		$fn = File::Spec->join($d1,"scripts","outputs","$f1-numbers.csv");
 	} else {
-		$fn = "${d1}numbers\\$f1-numbers.csv";
+		$fn = File::Spec->join($d1,"numbers","$f1-numbers.csv");
 	}
 
 	open ($csvfile, '<', $fn) or die "Can't open file $fn\n";
@@ -2058,6 +2059,7 @@ getopts("lsxpPd", \%cmdopts);
 if (!($cmdopts{s} or $cmdopts{l})){
 	$cmdopts{l}=1;
 }
+$basedir = File::Spec->curdir();
 
 usage() if (! defined $ARGV[0] || $ARGV[0] eq "");
 ($basefile, $basedir, $basesuff) = fileparse($ARGV[0],qr/\.[^.]*/);
@@ -2066,7 +2068,6 @@ if ($basedir =~ m|/$nzogps(.*)$|) {
 	if ($1 ne ""){
 		$basedir =~ s/$1//;
 	}
-	$basedir .= '/';
 } else {
 	print STDERR "$nzogps not found in path. Unlikely to find numbering files...\n";
 }
@@ -2132,7 +2133,7 @@ if (!$cmdopts{p}){
 	read_roads_not_2_index();
 	no_city_index($missfile);
 }
-
+print STDERR "basedir is $basedir\n";
 read_number_csv($basefile,$basedir);
 read_paper_road_numbers($basefile,$basedir);
 

@@ -486,7 +486,7 @@ def loadSingleCategory(path)
 	if !File.exist?(path) then
 		return
 	end
-
+# puts("LSP: "+path)
 	#extract POI type code from filename
 	poitype = File.basename(path,'.*')#e.g. poitype = "Public Office Government 0x3003"
 	space_index = poitype.rindex(' ')
@@ -555,17 +555,10 @@ def writeCategoryOverrideSummaryFile
 	};nil
 =end
 end
+
 # #####################
-def rewriteCategoryFilesFromEditedOverrideSummaryFile
-
-	rewrite = Hash.new()
-	CSV.foreach(@override_summary_file_path, :encoding => 'UTF-8', :headers => true) do |row|
-	#'zid','name','tags', 'override_category', 'override_category_desc', 'zenbu_category', 'zenbu_category_desc'
-		lookup = "#{row['override_category_desc']} #{row['override_category']}.txt"
-		#gt 20260729 This next line looks like the problem. Was .nil? ? [] - i.e. ignoring the first entry.
-		rewrite[lookup] = rewrite[lookup].nil? ? [row['zid']] : rewrite[lookup] + [row['zid']] 
-	end
-
+def rewriteCategoryFiles(rewrite)
+#	puts rewrite.inspect
 	category_path = '../ZenbuPOIcategories2011'
 	total_rewrite = 0
 	rewrite.each_pair{|category,list|
@@ -577,8 +570,20 @@ def rewriteCategoryFilesFromEditedOverrideSummaryFile
 			out.print "#{zid}\n"
 		}
 	};nil
-	print "#{total_rewrite} ZIDs written to #{rewrite.size} files\n"
+	print "#{total_rewrite} ZIDs written to #{rewrite.size} files\n"\
+end
 
+# #####################
+def rewriteCategoryFilesFromEditedOverrideSummaryFile
+
+	rewrite = Hash.new()
+	CSV.foreach(@override_summary_file_path, :encoding => 'UTF-8', :headers => true) do |row|
+	#'zid','name','tags', 'override_category', 'override_category_desc', 'zenbu_category', 'zenbu_category_desc'
+		lookup = "#{row['override_category_desc']} #{row['override_category']}.txt"
+		#gt 20260729 This next line looks like the problem. Was .nil? ? [] - i.e. ignoring the first entry.
+		rewrite[lookup] = rewrite[lookup].nil? ? [row['zid']] : rewrite[lookup] + [row['zid']] 
+	end
+	rewriteCategoryFiles(rewrite)
 end
 # #####################
 #NZ CUSTOMISED

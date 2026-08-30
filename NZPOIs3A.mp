@@ -240417,7 +240417,7 @@ Data0=(-41.22476,174.87710)
 
 ;1119472
 [POI]
-Type=0x2a
+Type=0x2a04
 Label=Shanghai Kitchen
 StreetDesc=85 Jackson St Petone/ Restaurant
 Phone=+6449396450
@@ -275037,7 +275037,7 @@ Data0=(-36.84656,174.76416)
 
 ;1125621
 [POI]
-Type=0x2a
+Type=0x2a04
 Label=Yi Pin Xiang Shanghai Restaurant
 StreetDesc=537 Dominion Rd, Balmoral, Akl/ Chinese Restaurant
 Phone=+6496306882

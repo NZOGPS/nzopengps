@@ -1707,10 +1707,14 @@ sub read_paper_roads {
 	my $idval;
 	my @chunks;
 
+
+		$fn = File::Spec->join($d1,"scripts","outputs","$f1-numbers.csv");
+
+
 	if (defined ($cmdopts{l})){
-		$fn = "$d1$linzpaper\\${f1}.txt";
+		$fn = File::Spec->join($d1,$linzpaper,"${f1}.txt");
 	} else {
-		$fn = "$d1$paperdir\\${f1}.txt";
+		$fn = File::Spec->join($d1,$paperdir,"${f1}.txt");
 	}
 
 	if ( !open $prfile, '<', $fn ){
@@ -1773,7 +1777,7 @@ sub read_paper_road_numbers {
 	my $fn;
 	my $chaff;
 
-	$fn = "$d1$linzpaper\\${f1}PaperNumbers.txt";
+	$fn = File::Spec->join($d1,$linzpaper,"${f1}PaperNumbers.txt");
 
 	if ( !open $pnfile, '<', $fn ){
 		print STDERR "Paper numbers file $fn not found\n";
@@ -2133,7 +2137,7 @@ if (!$cmdopts{p}){
 	read_roads_not_2_index();
 	no_city_index($missfile);
 }
-print STDERR "basedir is $basedir\n";
+# print STDERR "basedir is $basedir\n";
 read_number_csv($basefile,$basedir);
 read_paper_road_numbers($basefile,$basedir);
 

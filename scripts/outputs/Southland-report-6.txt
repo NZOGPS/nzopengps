@@ -1,7 +1,6 @@
-Start = 2026-08-30 14:15:17 +1200
+Start = 2026-08-31 13:12:08 +1200
 linzid	street_name	street_name_2	official_street_name
-3086383			Gilligan Dr	-45.41277,167.73167
 #############################
 
-Finish = 2026-08-30 14:15:18 +1200
-Processing time = 1.2614332
+Finish = 2026-08-31 13:12:10 +1200
+Processing time = 1.2336271

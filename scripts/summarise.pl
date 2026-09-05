@@ -16,7 +16,7 @@ my @BurbSuffAbbs = ("chkpoi","duppoi","mappoi","nrpoi","szcode","unindx","unmatc
 
 my @tiled;
 my %results;
-my $debug = 0;
+my $debug = 1;
 
 sub get_file_dates {
 	my $tile = shift;
@@ -103,6 +103,7 @@ sub do_checker {
 	$resultsp->{'chkdirind'}[$tile]=0;
 	$resultsp->{'chklinzid'}[$tile]=0;
 	$resultsp->{'chklevels'}[$tile]=0;
+	$resultsp->{'chkinderr'}[$tile]=0;
 
 
 	print "docheck: file is $fn\n" if $debug;
@@ -139,7 +140,12 @@ sub do_checker {
 
 		if(/Unindexed road:\tRoad is (.*),/) {
 			print "found unindexed road $1\n" if $debug;
-				$resultsp->{'chkmissui'}[$tile]++;
+				$resultsp->{'chkinderr'}[$tile]++;
+		}
+
+		if(/Indexed don't find name:\tRoad is (.*), Line/) {
+			print "found indexed don't index road $1\n" if $debug;
+				$resultsp->{'chkinderr'}[$tile]++;
 		}
 
 		if(/Warning -.*\d+ is not (odd|even)/) {
@@ -349,11 +355,11 @@ if ($debug){
 	}
 
 	print("\n");
-	printf("%*s |",$col0w,"Unindexed road");
+	printf("%*s |",$col0w,"Index errors");
 	for my $tile(0..$#tiles){
 		$bgc =getBGcolour($tile,'checkd'); 
-		if ($results{'chkmissui'}[$tile]) {
-			printf($bgc." %*d ".RESET."|",$colw[$tile],$results{'chkmissui'}[$tile]);
+		if ($results{'chkinderr'}[$tile]) {
+			printf($bgc." %*d ".RESET."|",$colw[$tile],$results{'chkinderr'}[$tile]);
 		} else {printf($bgc." %*s ".RESET."|",$colw[$tile],"") }
 	}
 

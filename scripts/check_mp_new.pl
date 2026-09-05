@@ -39,10 +39,10 @@ my %debug = (
 	dumpid3			=> 0,
 	OEZCheck		=> 0,	# 1 or linzid or regex e.g '3063230|1830369'
 	OEZCheck1s		=> 0,
-	overlaperr		=> 1801950, #3083691,	# 1 or linzid or regex e.g '3063230|1830369'
-	olcheck			=> 1801950, #3083691,	# 1 or linzid or regex e.g '3063230|1830369'
-	ol1side			=> 1801950, #3083691,	# 1 or linzid or regex e.g '3063230|1830369'
-	ol1numtype		=> 1801950, #3083691,	# 1 or linzid or regex e.g '3063230|1830369'
+	overlaperr		=> 0, #1801950,	# 1 or linzid or regex e.g '3063230|1830369'
+	olcheck			=> 0, #1801950,	# 1 or linzid or regex e.g '3063230|1830369'
+	ol1side			=> 0, #1801950,	# 1 or linzid or regex e.g '3063230|1830369'
+	ol1numtype		=> 0, #1801950,	# 1 or linzid or regex e.g '3063230|1830369'
 	rdoverlap		=> 0,
 	readpapernums	=> 0,
 	routecheck		=> 0,
@@ -599,10 +599,13 @@ sub overlap_err{
 
 	if ($debugthis){
 		print "overlap_err: beg:$beg lst:$lst isend:$isend nid:$nid nno:$nno red: $red red0: $$red[0] roadhp: $roadhp\n";
-		print "roadhp is:";
-		print Data::Dumper->Dump([\$roadhp]);
+		print "ol_err roadhp: $roadhp->{label}[0] linzid: $roadhp->{linzid}[0] roadid: $roadhp->{roadid}\n";
+		# print Data::Dumper->Dump([\$roadhp]);
 		print "red is:";
-		print Data::Dumper->Dump([\$red]);
+		# for my $no ( sort {$a <=> $b} keys %$red){
+			print "red: rd: id $$red[0]->{roadid} nid: $$red[1] isend: $$red[2] nno: $$red[3]\n";
+		# }
+		#print Data::Dumper->Dump([\$red]);
 		print "overlap_err: beg:$beg lst:$lst isend:$isend nid:$nid nno:$nno red(1):$$red[1] red(2):$$red[2] red(3):$$red[3] red(0,14): $$red[0]->{numnum}\n";
 	}
 
@@ -685,6 +688,8 @@ sub overlap_err{
 
 
 sub overlap_one_numtype {
+	# overlap_one_side(@$nptr[1..3],$$nptr[0],$i,$roadhp,\%numset,$missf);
+	# overlap_one_numtype($n[1],$n[2],2,@n[3..7]);
 	my $beg    = shift; #start number
 	my $end    = shift; #end number
 	my $dif    = shift; #difference - 2 for odd/even, 1 for both
@@ -718,6 +723,7 @@ sub overlap_one_numtype {
 	}
 	$i = $beg - $dif;
 	do {
+		$isend = 0;
 		$i += $dif;
 		if ($i == $beg) {$isend |= 1};
 		if ($i == $end) {$isend |= 2};
@@ -730,14 +736,20 @@ sub overlap_one_numtype {
 		} else {
 			if ( $startingErr ){
 				if ($i == $beg + $dif) {$isend |= 1}; #first point was overlap, second isn't
-				if ($debugthis){print "ol1nt: oe1 srf:\n"; print Dumper($srf)};
+				if ($debugthis){
+					print "ol1nt: oe1 srf:\n";
+					for my $no ( sort {$a <=> $b} keys %$srf){
+						print "srf: no: $no nid: $$srf{$no}[1] isend: $$srf{$no}[2] nno: $$srf{$no}[3]\n";
+					}
+					# print Dumper($srf)};
+				}
 				($iserr,$errnod) = overlap_err($startingErr,$i-$dif,$roadhp,$$srf{$startingErr},$isend,$nid,$nno, $missf);
 				if (!$iserr){
 					$err--;
 				}
 				$startingErr = 0;
-			}	
-			$$srf{$i} = [$roadhp,$nid,$isend,$nno];
+			}
+			$$srf{$i} = [$roadhp,$nid,$isend,$nno]; # each entry  in hash has this info stored
 		}
 	} until ( $i == $end );
 
@@ -767,7 +779,6 @@ sub overlap_one_side {
 	if ( defined  $n[5]->{linzid} ){ 
 		if ( defined  $n[5]->{linzid}[0] ){ 
 			$linzid = $n[5]->{linzid}[0];
-#			print Dumper($linzid);
 		}
 	}
 	my $debugthis = $debug{'ol1side'} && ( $debug{'ol1side'} == 1 || grep {/$debug{'ol1side'}/} $linzid );
@@ -819,6 +830,8 @@ sub overlap_one_numbered_section {
 	my $i;
 	my $l; my $r;
 	my $errnod;
+	my $definederrnod;
+	my $errnodtxt;
 	my %numset;
 	my $debugthis = 0;
 	my $roadlstp = shift;
@@ -838,19 +851,31 @@ sub overlap_one_numbered_section {
 			($l,$errnod) = overlap_one_side(@$nptr[1..3],$$nptr[0],$i,$roadhp,\%numset,$missf);
 			local $, = ',';
 			if ($l) { 
-				if ($debugthis){print sprintf "overlap_1ns LHS - errnod is %s\n",defined($errnod) ? $errnod : "(undefined)"}
+				$definederrnod = 0;
+				$errnodtxt = "(undefined)";
+				if ( defined($errnod)){
+					$definederrnod = $errnod;
+					$errnodtxt = $errnod;
+				}
+				if ($debugthis){print sprintf "overlap_1ns LHS - errnod is %s\n",$errnodtxt}
 				print "conflicting definition:\n";
-				dump_id3($roadhp,$errnod,-1); 
+				dump_id3($roadhp,$definederrnod,-1); 
 				print "\n";
-				print $missf $roadhp->{y}[$errnod],$roadhp->{x}[$errnod],"Conflicting Overlap","$roadhp->{label}[0]\n";
+				print $missf $roadhp->{y}[$definederrnod],$roadhp->{x}[$definederrnod],"Conflicting Overlap","$roadhp->{label}[0]\n";
 			}
 			($r,$errnod) = overlap_one_side(@$nptr[4..6],$$nptr[0],$i,$roadhp,\%numset,$missf);
-			if ($r) { 
-				if ($debugthis){print sprintf "overlap_1ns RHS - errnod is %s\n",defined($errnod) ? $errnod : "(undefined)"}
+			if ($r) {
+				$definederrnod = 0;
+				$errnodtxt = "(undefined)";
+				if ( defined($errnod)){
+					$definederrnod = $errnod;
+					$errnodtxt = $errnod;
+				}
+				if ($debugthis){print sprintf "overlap_1ns RHS - errnod is %s\n",$errnodtxt}
 				print "conflicting definition:\n";
-				dump_id3($roadhp,$errnod,-1); 
+				dump_id3($roadhp,$definederrnod,-1); 
 				print "\n";
-				print $missf $roadhp->{y}[$errnod],$roadhp->{x}[$errnod],"Conflicting Overlap","$roadhp->{label}[0]\n";
+				print $missf $roadhp->{y}[$definederrnod],$roadhp->{x}[$definederrnod],"Conflicting Overlap","$roadhp->{label}[0]\n";
 			}
 		}
 	}
@@ -1481,7 +1506,7 @@ sub no_city_index {
 				for (@namesnot2index) {
 					if ( uc($label) eq uc ) {
 						if ($linzid == 0 && !$dontfind) {
-							print "Indexed don't find name: \t";
+							print "Indexed don't find name:\t";
 							dump_id3($roadhp,0,-1);
 							print $missf "$roadhp->{y}[0],$roadhp->{x}[0],\"Indexed Do not find\",\"$roadhp->{label}[0]\"\n";
 						}

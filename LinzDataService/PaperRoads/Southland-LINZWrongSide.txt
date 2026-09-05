@@ -173,3 +173,4 @@
 1606831	75 Shale Road, Orepuki, Riverton/Aparima	2025/10/22 14:43	-46.273914,167.754973
 2446870	235 Foreshore Road, Bluff	2025/12/12 11:05	-46.596506,168.331251	LINZ feedback 20251212.ods
 3193294	6 Morven Beach Road, Morven, Waimate	2026/06/23 00:35	-44.822158,171.111410
+3202495	625 Mount Hamilton Road, Hamilton Burn, Mossburn	2026/09/01 13:18	-45.653646,168.093335

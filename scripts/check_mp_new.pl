@@ -41,6 +41,7 @@ my %debug = (
 	OEZCheck1s		=> 0,
 	overlaperr		=> 1801950, #3083691,	# 1 or linzid or regex e.g '3063230|1830369'
 	olcheck			=> 1801950, #3083691,	# 1 or linzid or regex e.g '3063230|1830369'
+	ol1side			=> 1801950, #3083691,	# 1 or linzid or regex e.g '3063230|1830369'
 	ol1numtype		=> 1801950, #3083691,	# 1 or linzid or regex e.g '3063230|1830369'
 	rdoverlap		=> 0,
 	readpapernums	=> 0,
@@ -693,7 +694,7 @@ sub overlap_one_numtype {
 	my $srf    = shift; #reference to 'set numbers' hash
 	my $missf  = shift; #csv file
 
-	my $ste; #start of error numbers...
+	my $startingErr; #start of error numbers...
 	my $isend = 0;
 	my $i;
 	my $err = 0;
@@ -705,7 +706,7 @@ sub overlap_one_numtype {
 
 	if ($debugthis){print "overlap_one_numtype: beg: $beg end: $end dif: $dif nid: $nid nno: $nno road: $roadhp->{label}[0]\n"}
 	if ($debugthis) {
-		print "numset is: ";
+		print "ol1nt: numset is: ";
 		for my $no ( sort {$a <=> $b} keys %$srf){
 			print " $no,";
 		}
@@ -721,20 +722,20 @@ sub overlap_one_numtype {
 		if ($i == $beg) {$isend |= 1};
 		if ($i == $end) {$isend |= 2};
 		if (exists $$srf{$i}){
-			if ( ! $ste ){
-				if ($debugthis){print "overlap_one_numtype: setting ste to $i\n";}
-				$ste = $i;
+			if ( ! $startingErr ){
+				if ($debugthis){print "overlap_one_numtype: setting startingErr to $i\n";}
+				$startingErr = $i;
 				$err++;
 			}
 		} else {
-			if ( $ste ){
+			if ( $startingErr ){
 				if ($i == $beg + $dif) {$isend |= 1}; #first point was overlap, second isn't
 				if ($debugthis){print "ol1nt: oe1 srf:\n"; print Dumper($srf)};
-				($iserr,$errnod) = overlap_err($ste,$i-$dif,$roadhp,$$srf{$ste},$isend,$nid,$nno, $missf);
+				($iserr,$errnod) = overlap_err($startingErr,$i-$dif,$roadhp,$$srf{$startingErr},$isend,$nid,$nno, $missf);
 				if (!$iserr){
 					$err--;
 				}
-				$ste = 0;
+				$startingErr = 0;
 			}	
 			$$srf{$i} = [$roadhp,$nid,$isend,$nno];
 		}
@@ -742,13 +743,13 @@ sub overlap_one_numtype {
 
 	if ($debugthis){print "overlap_one_numtype: isend is $isend\n"}	 
 	$isend = 0;
-	if ( $ste ){
-		if ( $ste == $i){
+	if ( $startingErr ){
+		if ( $startingErr == $i){
 			$isend |= 2;
 		}
-		if ($debugthis){print "overlap_one_numtype, end - ste: $ste i: $i isend: $isend\n"}
+		if ($debugthis){print "overlap_one_numtype, end - startingErr: $startingErr i: $i isend: $isend\n"}
 		if ($debugthis){print "ol1nt: oe2 srf:\n"; print Dumper($srf)};
-		($iserr,$errnod) = overlap_err($ste,$i,$roadhp,$$srf{$ste},$isend,$nid,$nno, $missf);
+		($iserr,$errnod) = overlap_err($startingErr,$i,$roadhp,$$srf{$startingErr},$isend,$nid,$nno, $missf);
 		if (!$iserr){
 			$err--;
 		}
@@ -759,9 +760,18 @@ sub overlap_one_numtype {
 }
 
 
-sub overlap_one_side { 
-	if ($debug{'ol1side'}){print "overlap_one_side: @_\n"}
+sub overlap_one_side {
+	# overlap_one_side(@$nptr[1..3],$$nptr[0],$i,$roadhp,\%numset,$missf);
 	my @n = @_;
+	my $linzid = -1;
+	if ( defined  $n[5]->{linzid} ){ 
+		if ( defined  $n[5]->{linzid}[0] ){ 
+			$linzid = $n[5]->{linzid}[0];
+#			print Dumper($linzid);
+		}
+	}
+	my $debugthis = $debug{'ol1side'} && ( $debug{'ol1side'} == 1 || grep {/$debug{'ol1side'}/} $linzid );
+	if ($debugthis){print "overlap_one_side: @_\n"}
 	my $i;
 	
 	given ($n[0]) {	

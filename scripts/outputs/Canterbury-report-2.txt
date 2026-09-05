@@ -1,13 +1,7 @@
-Start = 2026-08-30 14:15:10 +1200
+Start = 2026-09-04 23:02:52 +1200
 #############################
 
-6 LINZ ids are missing from NZOGPS Canterbury
-;linzid=3086425	Lochie Roberts Lane	-43.590299408545214,172.5041254146232
-;linzid=3086400	Tavern Lane	-43.37798361714157,172.64444216142553
-;linzid=3086398	Spicer St	-43.31719088033929,172.57661783317457
-;linzid=3086397	Hoyle St	-43.31726984516797,172.57804615677637
-;linzid=3086399	Attwood St	-43.3166063413855,172.5778099461546
-;linzid=3086401	Castle Pl	-43.3166063413855,172.5778099461546
+0 LINZ ids are missing from NZOGPS Canterbury
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
@@ -16,5 +10,5 @@ Start = 2026-08-30 14:15:10 +1200
 0 Number range ids are missing from NZOGPS Canterbury
 #############################
 
-Finish = 2026-08-30 14:15:12 +1200
-Processing time = 1.4202984
+Finish = 2026-09-04 23:02:54 +1200
+Processing time = 1.4003789

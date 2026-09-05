@@ -17,6 +17,6 @@ all : $(addsuffix _num_err.txt,$(TILES))
 pilot : $(addsuffix _num_err_p.txt,$(TILES))
 .PHONY: pilot
 
-%_num_err.txt : ../%.mp ..\numbers\%-numbers.csv $(PAPERRDS)\%.txt
+%_num_err.txt : ../%.mp ..\numbers\%-numbers.csv $(PAPERRDS)\%.txt $(PAPERRDS)\%PaperNumbers.txt
 	$(nzogps_perl_cmd) ../scripts/check_mp_new.pl "$<" > $@
 

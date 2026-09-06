@@ -1,7 +1,14 @@
-Start = 2026-09-03 20:11:59 +1200
+Start = 2026-09-06 10:59:38 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Waikato
+7 LINZ ids are missing from NZOGPS Waikato
+;linzid=3086440	Te Ara Aruhe	-38.08663030621355,176.2062065316485
+;linzid=3086441	Te Ara Houhere	-38.08671543976632,176.2069073036406
+;linzid=3086442	Te Ara Taputini	-38.08650177262076,176.2066873373101
+;linzid=3086443	Te Ara Tipu	-38.08663030621355,176.2062065316485
+;linzid=3086452	Tiitoki Dr	-37.82660785463376,174.96154375075545
+;linzid=3086453	Te Uku Village Rd	-37.82741266932783,174.96200445872944
+;linzid=3086439	Awa Cres	-38.040438031092144,175.32965716884308
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -10,5 +17,5 @@ Start = 2026-09-03 20:11:59 +1200
 0 Number range ids are missing from NZOGPS Waikato
 #############################
 
-Finish = 2026-09-03 20:12:00 +1200
-Processing time = 1.603702
+Finish = 2026-09-06 10:59:39 +1200
+Processing time = 1.6076612

@@ -1,7 +1,18 @@
-Start = 2026-09-05 23:44:58 +1200
+Start = 2026-09-06 10:59:36 +1200
 #############################
 
-0 LINZ ids are missing from NZOGPS Canterbury
+11 LINZ ids are missing from NZOGPS Canterbury
+;linzid=3086451	May Ave	-43.496100244990636,172.11008720687465
+;linzid=3086450	Attadale Ave	-43.49541613916075,172.109465634188
+;linzid=3086445	Ministry Pl	-44.48965778828841,169.96123687197263
+;linzid=3086436	Millwood Ave	-43.60269039327268,172.40962296402208
+;linzid=3086435	Purdon Cres	-43.60269039327268,172.40962296402208
+;linzid=3086437	Whittaker St	-43.60191772821018,172.41139343606892
+;linzid=3086438	Nike Way	-43.60317472322731,172.41002776749755
+;linzid=3086446	Almond Bank Dr	-43.4963494540726,172.1105860737176
+;linzid=3086447	Lochcarron Dr	-43.49483314428623,172.10893602774
+;linzid=3086448	George Ave	-43.494338586112775,172.10995067961474
+;linzid=3086449	Jim Robb Dr	-43.496100244990636,172.11008720687465
 #############################
 
 0 LINZ ids are in NZOGPS Canterbury but missing from LINZ
@@ -10,5 +21,5 @@ Start = 2026-09-05 23:44:58 +1200
 0 Number range ids are missing from NZOGPS Canterbury
 #############################
 
-Finish = 2026-09-05 23:44:59 +1200
-Processing time = 1.2735647
+Finish = 2026-09-06 10:59:38 +1200
+Processing time = 1.4331967

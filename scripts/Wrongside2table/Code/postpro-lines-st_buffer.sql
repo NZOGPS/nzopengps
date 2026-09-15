@@ -9,6 +9,13 @@ CREATE TABLE :wrongstable (
 	leftpoly  geometry(multipolygon,2193),
 	rightpoly geometry(multipolygon,2193)
 );
+-- dont seem to make any difference...
+-- \set tin 'idx_':wrongstable'_nztm'
+-- \set rpn 'idx_':wrongstable'_rpoly'
+-- \set lpn 'idx_':wrongstable'_lpoly'
+-- create index :tin on :wrongstable using GIST(nztm_line);
+-- create index :lpn on :wrongstable using GIST(leftpoly);
+-- create index :rpn on :wrongstable using GIST(rightpoly);
 
 INSERT INTO :wrongstable (gid, linzid, nztm_line) select gid, linzid, st_transform(the_geom,2193) from :linestable;
 \echo Create offset side polygons

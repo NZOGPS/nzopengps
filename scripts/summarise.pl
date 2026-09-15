@@ -16,7 +16,8 @@ my @BurbSuffAbbs = ("chkpoi","duppoi","mappoi","nrpoi","szcode","unindx","unmatc
 
 my @tiled;
 my %results;
-my $debug = 1;
+my $debug = 0;
+my $usecolour =  1;
 
 sub get_file_dates {
 	my $tile = shift;
@@ -104,7 +105,7 @@ sub do_checker {
 	$resultsp->{'chklinzid'}[$tile]=0;
 	$resultsp->{'chklevels'}[$tile]=0;
 	$resultsp->{'chkinderr'}[$tile]=0;
-
+	$resultsp->{'chkspderr'}[$tile]=0;
 
 	print "docheck: file is $fn\n" if $debug;
 	open(CHKF,$fn) or die "can't open $fn";
@@ -176,6 +177,11 @@ sub do_checker {
 		if(/[A-Za-z] on level \d+ only/) { #Road on level 0 only
 			print "found level error\n" if $debug;
 				$resultsp->{'chklevels'}[$tile]++;
+		}
+
+		if(/Warning - road has no speed limit /) { #Road has speed 7 set
+			print "found speed error\n" if $debug;
+				$resultsp->{'chkspderr'}[$tile]++;
 		}
 
 	}
@@ -295,12 +301,14 @@ if ($debug){
 		} else {printf($bgc." %*s ".RESET."|",$colw[$tile],"") }
 	}
 
-	print("\n");
-	printf("%*s |",$col0w,"Report2 Old");
-	for my $tile(0..$#tiles){
-		$bgc =getBGcolour($tile,'rep2d'); 
-		printf($bgc." %*s ".RESET."|",$colw[$tile],($results{'rep2d'}[$tile]<$tiled[$tile])?"==YES==":"");
-	}
+if (! $usecolour){
+		print("\n");
+		printf("%*s |",$col0w,"Report2 Old");
+		for my $tile(0..$#tiles){
+			$bgc =getBGcolour($tile,'rep2d'); 
+			printf($bgc." %*s ".RESET."|",$colw[$tile],($results{'rep2d'}[$tile]<$tiled[$tile])?"==YES==":"");
+		}
+}
 
 	print("\n");
 	printf("%*s |",$col0w,"Different name");
@@ -311,12 +319,14 @@ if ($debug){
 		} else {printf($bgc." %*s ".RESET."|",$colw[$tile],"") }
 	}
 
+if (! $usecolour){
 	print("\n");
 	printf("%*s |",$col0w,"Report6 Old");
 	for my $tile(0..$#tiles){
 		$bgc =getBGcolour($tile,'rep6d'); 
 		printf($bgc." %*s ".RESET."|",$colw[$tile],($results{'rep6d'}[$tile]<$tiled[$tile])?"==YES==":"");
 	}
+}
 
 	print("\n");
 	printf("%*s |",$col0w,"Number overlaps");
@@ -391,6 +401,15 @@ if ($debug){
 	}
 
 	print("\n");
+	printf("%*s |",$col0w,"speed 7 error");
+	for my $tile(0..$#tiles){
+		$bgc =getBGcolour($tile,'checkd'); 
+		if ($results{'chkspderr'}[$tile]) {
+			printf($bgc." %*d ".RESET."|",$colw[$tile],$results{'chkspderr'}[$tile]);
+		} else {printf($bgc." %*s ".RESET."|",$colw[$tile],"") }
+	}
+
+	print("\n");
 	printf("%*s |",$col0w,"Missing numbers");
 	for my $tile(0..$#tiles){
 		$bgc =getBGcolour($tile,'checkd');
@@ -408,12 +427,14 @@ if ($debug){
 		} else {printf($bgc." %*s ".RESET."|",$colw[$tile],"") }
 	}
 
+if (! $usecolour){
 	print("\n");
 	printf("%*s |",$col0w,"Checker Old");
 	for my $tile(0..$#tiles){
 		$bgc =getBGcolour($tile,'checkd'); 
 		printf($bgc." %*s ".RESET."|",$colw[$tile],($results{'checkd'}[$tile]<$tiled[$tile])?"==YES==":"");
 	}
+}
 
 	print("\n");
 	printf("%*s |",$col0w,"Sparse roads");
@@ -445,7 +466,6 @@ if ($debug){
 		}
 	}
 }
-$debug =0;
 
 for my $tile(0..$#tiles){
 	get_file_dates($tile,\@tiled);

@@ -24569,10 +24569,10 @@ Data0=(-43.55770,172.63710)
 ;1085036
 [POI]
 Type=0x2a02
-Label=Tandoori Palace Ilam
+Label=Zyka Indian Cuisine
 StreetDesc=71 Ilam Rd, Ilam, Chc/ Indian Restaurant, Takeaway, Curry, Licensed, BYO
 Phone=+6433434405
-zip=Lunch Mon - Fri 11.30am - 2.00pm, Dinner
+zip=Lunch  11.30am - 2.00pm, Dinner  5pm - 1
 Data0=(-43.52630,172.57930)
 [END]
 
@@ -28907,6 +28907,7 @@ Type=0x2f
 Label=Harcourts Belfast
 StreetDesc=804 Main North Rd, Belfast, Chc/ Real estate agency, Residential, Rentals, Lifes
 Phone=+6433236045
+zip=Mon-Fri: 8:30 AM - 5:00 PM
 Data0=(-43.44555,172.63245)
 [END]
 
@@ -35685,10 +35686,9 @@ Data0=(-46.46578,169.56127)
 ;1100320
 [POI]
 Type=0x2a
-Label=Shawtys Cafe and Grappa Lounge Bar
+Label=Mint Folk & Co
 StreetDesc=4 Market Place, Twizel 7901 South Canterbury, McKenzie Country/ cafe, licensed r
 Phone=+6434353155
-zip=Shawty's Mon: 8.30am - 4.00pm Tues-Sun: 
 Data0=(-44.25711,170.09826)
 [END]
 
@@ -91259,7 +91259,7 @@ Data0=(-43.51199,172.62183)
 
 ;1131074
 [POI]
-Type=0x2f
+Type=0x2e02
 Label=China Town Market
 StreetDesc=382 Riccarton Rd, Chc/ 
 Data0=(-43.53171,172.57309)
@@ -92010,7 +92010,7 @@ Data0=(-43.52972,172.63918)
 
 ;1131176
 [POI]
-Type=0x2a
+Type=0x2a04
 Label=Dragon Garden Restaurant
 StreetDesc=384 Riccarton Rd, Chc/ restaurant
 Data0=(-43.53173,172.57291)
@@ -92030,14 +92030,6 @@ Type=0x2f
 Label=Dumplings Ii
 StreetDesc=103 Cashel St, Chc/ 
 Data0=(-43.53300,172.63537)
-[END]
-
-;1131179
-[POI]
-Type=0x2a
-Label=Durebak Restaurant
-StreetDesc=394 Riccarton Rd, Chc/ restaurant
-Data0=(-43.53178,172.57230)
 [END]
 
 ;1131181
@@ -92428,7 +92420,7 @@ Data0=(-43.55963,172.65781)
 
 ;1131233
 [POI]
-Type=0x2a02
+Type=0x2a04
 Label=Foo San Restaurant
 StreetDesc=6 Rountree St, Upper Riccarton, Chc/ chinese restaurant, takeaways, yum cha
 Phone=+6433484921
@@ -93152,8 +93144,9 @@ Data0=(-43.50589,172.62802)
 ;1131333
 [POI]
 Type=0x2a
-Label=Hao Yes Restaurant
-StreetDesc=55 Auburn Ave, Upper Riccarton, Chc/ restaurant
+Label=Orange House Restaurant
+StreetDesc=55 Auburn Ave, Upper Riccarton, Chc/ asian restaurant
+zip=Sun-Fri 11:30am to 8:30pm
 Data0=(-43.53213,172.57501)
 [END]
 
@@ -93550,16 +93543,6 @@ Label=Hungry Wok Northlands
 StreetDesc=Shop 11, Northlands Shopping Ctr, 55 Main North Rd, Papanui, Chc/ Asian & Chines
 Phone=+6433528828
 Data0=(-43.49362,172.60886)
-[END]
-
-;1131391
-[POI]
-Type=0x2a07
-Label=Hungry Wok Riccarton
-StreetDesc=L 1, Store 58, Westfield Riccarton, 145 Riccarton Rd, Chc/ Chinese takeaways, As
-Phone=+6439834556
-zip=Mon-Tue-Wed-Sat 9am-6pm, Thu-Fri 9am-9pm
-Data0=(-43.53107,172.59887)
 [END]
 
 ;1131392
@@ -96796,14 +96779,6 @@ Type=0x2a
 Label=Ruchee Indian Tandoori Restaurant
 StreetDesc=392 Moorhouse Ave, Chc/ Indian Restaurant
 Data0=(-43.54015,172.64164)
-[END]
-
-;1131851
-[POI]
-Type=0x2a
-Label=Rumah Temasek Restaurant
-StreetDesc=357 Colombo St, Chc/ restaurant
-Data0=(-43.54655,172.63649)
 [END]
 
 ;1131852
@@ -132021,14 +131996,6 @@ StreetDesc=43 Main Rd, Fairlie/ Hairdresser
 Data0=(-44.10080,170.82913)
 [END]
 
-;1149087
-[POI]
-Type=0x2d02
-Label=Grappa Bar
-StreetDesc=4 Market Place, Twizel/ Bar
-Data0=(-44.25671,170.09805)
-[END]
-
 ;1149088
 [POI]
 Type=0x2a
@@ -142599,7 +142566,7 @@ Data0=(-41.26829,173.28420)
 [POI]
 Type=0x2b01
 Label=Hanmer Apartments
-StreetDesc=4 Woodbank Rd, Hanmer Springs 7334, North Canterbury/ Modern, 2 bedroom, spaciou
+StreetDesc=4 Woodbank Rd, Hanmer Springs, 7334, Canterbury/ Motel, Hotel, Apartment, Hanmer
 Phone=+33157135
 zip=8:30am to 8:30pm
 Data0=(-42.53360,172.81964)
@@ -161267,14 +161234,6 @@ StreetDesc=77 Weld St, Hokitika, Greymouth/ Physiotherapist
 Data0=(-42.71949,170.96582)
 [END]
 
-;1166894
-[POI]
-Type=0x2f
-Label=Elaine Monks - Counselor
-StreetDesc=75 Ribble St, Oamaru/ 
-Data0=(-45.09530,170.97026)
-[END]
-
 ;1166895
 [POI]
 Type=0x2f
@@ -167194,14 +167153,6 @@ Type=0x2f
 Label=Union & Community Health Centre
 StreetDesc=413 Cashel St, Chc/ 
 Data0=(-43.53295,172.65550)
-[END]
-
-;1170101
-[POI]
-Type=0x2e05
-Label=University Pharmacy (Canterbury) Limited
-StreetDesc=90 Ilam Rd, Ilam, Chc/ Pharmacy
-Data0=(-43.52390,172.57949)
 [END]
 
 ;1170107
@@ -205924,7 +205875,7 @@ Label=The Foundry Bar
 StreetDesc=Ilam Campus Ilam Rd/ The Foundry is the main bar and events centre for the Unive
 Phone=+6433643943
 zip=Mon - Sat: 2pm - late.
-Data0=(-43.52515,172.58010)
+Data0=(-43.52409,172.58007)
 [END]
 
 ;1205577
@@ -216932,9 +216883,9 @@ Data0=(-43.63964,172.48239)
 [POI]
 Type=0x2f
 Label=Kip McGrath Education Centre Merivale
-StreetDesc=Upstairs Merivale Mall, 189 Papanui Rd, Merivale, Chc, Canterbury 8146/ tutoring
-Phone=+6433550345
-zip=Mon-Fri 3.30pm-4.50pm, 5pm-6.20pm, 6.30p
+StreetDesc=First Fl Merivale Mall, 189 Papanui Rd, Merivale, Chc, Canterbury 8014/ tutoring
+Phone=+6421084706
+zip=Mon-Thurs 10:00am-8:00pm, Fri 10:00am-6:
 Data0=(-43.51247,172.62125)
 [END]
 
@@ -222916,11 +222867,11 @@ Data0=(-43.54027,172.61776)
 ;1214922
 [POI]
 Type=0x2F0E
-Label=?Espresso Hand Car Wash & Detailing - Ferrymead
+Label=Espresso Hand Car Wash & Detailing - Ferrymead
 StreetDesc=Cnr Ferry Rd & Waterman Place, Woolston, Chc, 8023/ Espresso Hand Car Wash & Det
 Phone=+6433846061
 zip=Monday - Saturday 09:00 - 17:00
-Data0=(-43.55652,172.69713)
+Data0=(-43.55614,172.69742)
 [END]
 
 ;1214923
@@ -223909,15 +223860,6 @@ Label=Poppy Thai Restaurant Christchurch
 StreetDesc=106 Hereford St, Chc/ Thai restaurant, fully licensed & BYO, takeaways, starters
 Phone=+6433665303
 Data0=(-43.53218,172.63532)
-[END]
-
-;1215586
-[POI]
-Type=0x2a07
-Label=Royal Roasts Westfield Riccarton
-StreetDesc=L 2, Store 249, Westfield Riccarton, 129 Riccarton Rd, Riccarton, Chc/ Foodcourt
-Phone=+6433486767
-Data0=(-43.53108,172.59887)
 [END]
 
 ;1215587
@@ -226796,7 +226738,7 @@ Data0=(-41.27652,173.28993)
 
 ;1217169
 [POI]
-Type=0x2a
+Type=0x2a02
 Label=Sakura Japanese Cuisine
 StreetDesc=380 Riccarton Rd, Upper Riccarton/ Japanese restaurant
 zip=Tue-Sun 11:30am-2:30pm, 5:00pm -9:00pm
@@ -226805,7 +226747,7 @@ Data0=(-43.53162,172.57317)
 
 ;1217170
 [POI]
-Type=0x2a
+Type=0x2a02
 Label=Zenbu
 StreetDesc=Shop 5, 394 Riccarton Rd, Upper Riccarton/ Japanese restaurant and bar
 Phone=+6433430505
@@ -231712,6 +231654,7 @@ Type=0x2e09
 Label=McKenzie & Willis Dunedin
 StreetDesc=97 Crawford St, Dud/ At our Dunedin showroom you will find a wide range of home 
 Phone=+6434719100
+zip=Monday to Friday 9am - 5:30pm, Saturday 
 Data0=(-45.88096,170.50187)
 [END]
 
@@ -235418,9 +235361,10 @@ Data0=(-41.27226,173.28020)
 [POI]
 Type=0x2e09
 Label=Mckenzie & Willis Wanaka
-StreetDesc=20 Ardmore St, Wanaka 9305/ At our Wanaka showroom you will find a wide range of
+StreetDesc=89 Sir Tim Wallis Dr, Wānaka/ At our Wanaka showroom you will find a wide range 
 Phone=+6434434997
-Data0=(-44.69412,169.14027)
+zip=Mon-Fri 9:00-17:30 Sat 10:00-16:00
+Data0=(-44.69859,169.15672)
 [END]
 
 ;1241645
@@ -235903,14 +235847,6 @@ StreetDesc=1 The Lane, Te Anau/ Hiking, Camping, Fishing, Hunting Equipment
 Phone=+6432494288
 zip=Winter: Mon-Fri 9am-5.30pm, Sat 9am–4pm
 Data0=(-45.41489,167.71611)
-[END]
-
-;1242183
-[POI]
-Type=0x2f
-Label=Mini-Tankers Wairarapa
-StreetDesc=Wairarapa/ Mini-Tankers have been leading the charge in on-site fuel delivery in
-Data0=(-43.52262,172.56785)
 [END]
 
 ;1242196
@@ -245519,6 +245455,16 @@ zip=Mon-Fri: 08:00 - 18:00, Sat-Sun: Closed
 Data0=(-43.53701,172.60795)
 [END]
 
+;1305547
+[POI]
+Type=0x2c00
+Label=Xscape Space
+StreetDesc=2a Estraury Place off lower Queen St, Richmond, Neslon, Tasman/ Xscape Space is 
+Phone=+6421972221
+zip=Monday Closed, Tuesday 13:30-6:30, Wedne
+Data0=(-41.33152,173.17636)
+[END]
+
 ;1305589
 [POI]
 Type=0x2f
@@ -249791,16 +249737,6 @@ zip=Monday to Friday 7am-5pm
 Data0=(-43.49059,172.62175)
 [END]
 
-;1339259
-[POI]
-Type=0x2f
-Label=Christchurch Building & Decorating Ltd 24hr
-StreetDesc=98a Carmen Rd, Hei Hei, Chc 8014/ Christchurch Building & Decorating Ltd offers 
-Phone=+6435680688
-zip=Available 24/7
-Data0=(-43.53530,172.53007)
-[END]
-
 ;1339477
 [POI]
 Type=0x2f
@@ -251227,10 +251163,10 @@ Data0=(-43.53338,172.63087)
 ;1351486
 [POI]
 Type=0x2f
-Label=Christchurch Building & Decorating
-StreetDesc=98A Carmen Rd, Hornby/ Building and Renovations specialists, covering Canterbury
+Label=Christchurch Building and Decorating
+StreetDesc=98A Carmen Rd, Chc, Canterbury Region, 8024/ General Contractor
 Phone=0800364887
-zip=0800 - 1700 Monda y - Friday
+zip=Mon-Fri: 08:00 - 17:00, Sat-Sun: Closed
 Data0=(-43.53559,172.53073)
 [END]
 
@@ -251328,9 +251264,9 @@ Data0=(-43.53993,172.55556)
 [POI]
 Type=0x2f
 Label=Manuka South
-StreetDesc=215 Wooldridge Rd, Burnside, Chc 8053/ Manuka South are leaders in producing pre
-Phone=+6433588817
-zip=Monday to Friday 8:30am to 4pm
+StreetDesc=215 Wooldridge Rd, Burnside, Chc 8053/ Manuka South is a family-owned New Zealan
+Phone=+33588817
+zip=Mon-Fri: 08:30 - 16:00, Sat-Sun: Closed
 Data0=(-43.48832,172.56580)
 [END]
 
@@ -252608,7 +252544,7 @@ Data0=(-43.47121,172.55913)
 [POI]
 Type=0x2f
 Label=Connor Jones Group
-StreetDesc=60 Cumberland St, Central Dud, Dud 9016/ Trusted Home Builder in Dunedin, Christ
+StreetDesc=L 1, The NMA Blg, 49 Water St, Dud Central, Dud 9016, New Zealand/ Trusted Home 
 Phone=+22399384
 zip=7:30am - 5:00pm Mon- Fri
 Data0=(-45.88429,170.50160)
@@ -252938,7 +252874,7 @@ Data0=(-41.33329,173.19099)
 ;1362412
 [POI]
 Type=0x2f
-Label=Kuri City Doggy Daycare
+Label=Kuri City Doggy Daycare and Raw Food
 StreetDesc=473 Saint Asaph St, Phillipstown, Chc 8011/ At Kuri City, we provide Christchurc
 Phone=+6433555874
 zip=Monday 7 am–6 pm Tuesday 7 am–6 pm Wedne
@@ -253483,7 +253419,7 @@ Data0=(-43.50966,172.60453)
 ;1367717
 [POI]
 Type=0x2f
-Label=Myt4you Limited 24hr
+Label=Myt4you Storage 24hr
 StreetDesc=2B Bowmaker Cres, Woodend Chc/ self storage, storage units, secure storage, cara
 Phone=+6421091072
 zip=Mon-Sun: Open 24 hours
@@ -253635,5 +253571,80 @@ StreetDesc=L7 ASB House, 248 Cumberland St, Dud Central, Dud/ Accountant, Accoun
 Phone=+6434488060
 zip=Mon - Fri 9:00am-5:00pm
 Data0=(-45.87585,170.50632)
+[END]
+
+;1369546
+[POI]
+Type=0x2f
+Label=Exhibition Hire Services Christchurch
+StreetDesc=786 Halswell Junction Rd, Islington, Chc, 8024/ Event Management Company
+Phone=+33384193
+Data0=(-42.01532,172.80811)
+[END]
+
+;1369643
+[POI]
+Type=0x2f
+Label=PolarBuild
+StreetDesc=10 Gow St, Mosgiel/ builder in Dunedin, building company, dunedin renovators
+Phone=+6432448000
+zip=Monday-Friday 8am to 4:30pm
+Data0=(-45.88809,170.35138)
+[END]
+
+;1369651
+[POI]
+Type=0x2e04
+Label=The Landing
+StreetDesc=59 The Runway, Wigram, Chc/ shopping centre, shopping mall, retail village, shop
+zip=Monday–Sunday, 6:00am–10:00pm
+Data0=(-43.55222,172.55692)
+[END]
+
+;1369652
+[POI]
+Type=0x2e04
+Label=The Landing
+StreetDesc=59 The Runway, Wigram, Chc/ shopping centre, shopping mall, retail village, shop
+zip=Monday–Sunday, 6:00am–10:00pm
+Data0=(-43.55222,172.55692)
+[END]
+
+;1370808
+[POI]
+Type=0x2f
+Label=RV Studios
+StreetDesc=44 Seadown Cres, Amberley/ digital marketing, social media, online help, photogr
+Phone=+6427234232
+zip=Mon-Fri 9am-5pm
+Data0=(-43.15839,172.73394)
+[END]
+
+;1370961
+[POI]
+Type=0x2f
+Label=Your Cleaners
+StreetDesc=50 Magdala Place, Middleton, Chc 8042/ Commercial Cleaner
+Phone=0800253266
+Data0=(-43.54498,172.58130)
+[END]
+
+;1371071
+[POI]
+Type=0x2d00
+Label=Christchurch Surf Lessons
+StreetDesc=50 Esplanade, Sumner, Chc/ surf rentals, surfboards rental, sumner surf cam, lea
+Phone=+33664757
+zip=9am - 5pm all days
+Data0=(-43.56837,172.76076)
+[END]
+
+;1371104
+[POI]
+Type=0x2f
+Label=Pest Specialists Pest Control Dunedin
+StreetDesc=177 Leith St, North Dud / Dud North, Dud, 9016/ Professional Ant Pest Control Se
+Phone=0800737877
+Data0=(-45.86924,170.51330)
 [END]
 

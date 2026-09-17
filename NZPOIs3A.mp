@@ -12913,10 +12913,10 @@ Data0=(-36.77507,174.76096)
 ;1014679
 [POI]
 Type=0x2c05
-Label=?Miller Avenue School
+Label=Miller Avenue School
 StreetDesc=Miller Ave, Paeroa/ State Co-Ed Primary, Intermediate School
 Phone=+6478628602
-Data0=(-37.37208,175.67067)
+Data0=(-37.37197,175.67240)
 [END]
 
 ;1014693
@@ -17901,10 +17901,10 @@ Data0=(-38.00228,177.28593)
 ;1019887
 [POI]
 Type=0x2c05
-Label=?St Joseph's Catholic School (Paeroa)
+Label=St Joseph's Catholic School (Paeroa)
 StreetDesc=200 Normanby Rd, Paeroa/ State Integrated Co-Ed Primary, Intermediate School
 Phone=+6478628994
-Data0=(-37.38534,175.67846)
+Data0=(-37.38558,175.67896)
 [END]
 
 ;1019894
@@ -26981,11 +26981,11 @@ Data0=(-35.70830,174.32134)
 ;1030177
 [POI]
 Type=0x2e02
-Label=Countdown Dargaville
+Label=Woolworths Dargaville
 StreetDesc=Dargaville Plaza, Victoria St, Dargaville/ supermarket, BNZ ATM, groceries, fres
 Phone=+6494393035
 zip=Mon-Sun 7am-9pm
-Data0=(-35.93938,173.87273)
+Data0=(-35.93971,173.87214)
 [END]
 
 ;1030191
@@ -105691,16 +105691,6 @@ zip=Lunch Mon-Sat 11.30am-2.30pm, Dinner Mon
 Data0=(-35.71578,174.32268)
 [END]
 
-;1098514
-[POI]
-Type=0x2e
-Label=Resene ColorShop Birkenhead
-StreetDesc=25 Enterprise St, Birkenhead/ Resene paint, wallpaper and decorating accessories
-Phone=+6494800995
-zip=Mon-Fri 7.30am-5pm, Sat 9am-2pm
-Data0=(-36.81260,174.72874)
-[END]
-
 ;1098515
 [POI]
 Type=0x2e
@@ -105771,26 +105761,6 @@ zip=Mon-Fri 7am-5pm; Sat 9am-2pm
 Data0=(-36.90991,174.68765)
 [END]
 
-;1098522
-[POI]
-Type=0x2e
-Label=Resene ColorShop Onehunga
-StreetDesc=56 Princes St, Onehunga/ Resene paint, wallpaper and decorating accessories, Pai
-Phone=+6496364105
-zip=Mon-Fri 7am-5pm; Sat 8am-2pm
-Data0=(-36.92508,174.78444)
-[END]
-
-;1098523
-[POI]
-Type=0x2e
-Label=Resene ColorShop Orakei
-StreetDesc=176 Kepa Rd, Orakei/ Resene paint, wallpaper and decorating accessories, manufac
-Phone=+6495282519
-zip=Mon-Fri 7am-5pm; Sat 9am-2pm, Sunday & P
-Data0=(-36.86124,174.82487)
-[END]
-
 ;1098526
 [POI]
 Type=0x2e
@@ -105799,16 +105769,6 @@ StreetDesc=54 Seddon St, Pukekohe/ Resene paint, wallpaper and decorating access
 Phone=+6492371022
 zip=Mon-Fri 7.30am-5pm; Sat 9am-1pm; Selecte
 Data0=(-37.19862,174.90116)
-[END]
-
-;1098527
-[POI]
-Type=0x2e
-Label=?Resene ColorShop Takapuna
-StreetDesc=1 Auburn St, Cnr Auburn and Huron Streets, Takapuna/ Resene paint, wallpaper and
-Phone=+6494891540
-zip=Mon-Fri 7.30am-5pm; Sat 9am-4pm; Selecte
-Data0=(-36.78968,174.76950)
 [END]
 
 ;1098528
@@ -227141,9 +227101,9 @@ Data0=(-36.48360,175.34221)
 ;1116640
 [POI]
 Type=0x2b03
-Label=?Puketi camping area (DOC)
+Label=Puketi camping area (DOC)
 StreetDesc=Bay of Islands - North Island > Northland > Bay of Islands/ DOC conservation cam
-Data0=(-35.25805,173.75367)
+Data0=(-35.21169,173.79333)
 [END]
 
 ;1116642
@@ -274022,7 +273982,7 @@ Data0=(-36.95508,174.85194)
 
 ;1125479
 [POI]
-Type=0x2a
+Type=0x2a04
 Label=Shanghai Restaurant
 StreetDesc=L G, 9 Gore St, Akl Central/ 
 Data0=(-36.84591,174.76844)
@@ -289812,10 +289772,10 @@ Data0=(-37.15037,174.96226)
 ;1127827
 [POI]
 Type=0x2e
-Label=Wrights Showcase Jewellers
-StreetDesc=149 King St, Pukekohe, Akl/ Jewellers, Diamond Jewellery, Diamond Ring, Engageme
-Phone=+6492386481
-zip=Mon-Tue 8.30am-5.15pm, Wed-Fri 9am5pm, S
+Label=Wrights Jewellers
+StreetDesc=149 King St, Pukekohe, Akl, 2120/ Engagement Rings & Wedding Bands, Jewellery & 
+Phone=+92386481
+zip=Mon-Fri: 09:00 - 17:00, Sat: 09:00 - 14:
 Data0=(-37.20081,174.90494)
 [END]
 
@@ -328627,7 +328587,7 @@ Data0=(-37.65483,176.20006)
 Type=0x2e
 Label=Kings Dairy Tauranga
 StreetDesc=82 Willow St, Tauranga/ dairy, convenience store, groceries, milk, eggs, yoghurt
-Phone=+6475715049
+Phone=+6475788442
 Data0=(-37.68252,176.16899)
 [END]
 
@@ -399359,10 +399319,10 @@ Data0=(-35.03934,173.16964)
 ;1148045
 [POI]
 Type=0x2f0c
-Label=?Whangaroa Toilets 24hr
+Label=Whangaroa Toilets 24hr
 StreetDesc=Swordfish Club, Whangaroa Rd, Whangaroa/ Public toilets
 zip=24 hours
-Data0=(-35.07398,173.75093)
+Data0=(-35.04975,173.74382)
 [END]
 
 ;1148046
@@ -426962,10 +426922,11 @@ Data0=(-36.86412,174.73688)
 ;1152292
 [POI]
 Type=0x2f
-Label=ClearPoint Ltd Auckland
-StreetDesc=44 Kyber Pass Rd, Akl/ IT Strategy & Architecture, Software Development & Suppor
+Label=ClearPoint
+StreetDesc=L 3 7/9 Fanshawe St, ClearPoint House, Akl 1010/ Software Engineering, AI-enable
 Phone=+6493734626
-Data0=(-36.86409,174.76201)
+zip=Mon- Fri 8:30 am - 5:00 pm
+Data0=(-36.84534,174.76032)
 [END]
 
 ;1152293
@@ -434557,10 +434518,10 @@ Data0=(-41.22180,174.80613)
 ;1153458
 [POI]
 Type=0x2e05
-Label=?Kaeo Pharmacy
-StreetDesc=Leigh St, Kaeo/ Pharmacy
+Label=Kaeo Pharmacy
+StreetDesc=28 Leigh St, Kaeo/ Pharmacy
 Phone=+6494050165
-Data0=(-35.10062,173.78351)
+Data0=(-35.09991,173.77909)
 [END]
 
 ;1153459
@@ -493756,7 +493717,7 @@ Data0=(-36.94232,174.79077)
 [POI]
 Type=0x2c05
 Label=?Te Paatu Te Kohanga Reo
-StreetDesc=Te Paatu Marae State Highway 1, Pamapuria/ Te Kohanga Reo
+StreetDesc=Te Paatu Marae  7075 State Highway 1, Kaitaia 0482/ Te Kohanga Reo
 Phone=+6494084183
 Data0=(-35.12735,173.34520)
 [END]
@@ -537470,16 +537431,6 @@ zip=Mon 8.30am-7pm, Tue-Fri 8.30am-6pm, Sat
 Data0=(-36.58528,174.69261)
 [END]
 
-;1170502
-[POI]
-Type=0x2e08
-Label=Resene Reseller Devonport
-StreetDesc=11 Clarence St, Devonport/ Resene paint, wallpaper and decorating accessories, p
-Phone=+6494457544
-zip=Mon-Fri 8.30am-5pm; Sat 9am-4pm
-Data0=(-36.83057,174.79671)
-[END]
-
 ;1170503
 [POI]
 Type=0x2e08
@@ -537588,16 +537539,6 @@ StreetDesc=606 Queen St, Thames/ Resene paint, wallpaper and decorating accessor
 Phone=+6478686644
 zip=Open: Mon-Fri 8am- 5pm; Sat 9am-12pm
 Data0=(-37.13671,175.53991)
-[END]
-
-;1170525
-[POI]
-Type=0x2e08
-Label=Resene ColorShop Waiheke Island
-StreetDesc=11 Tahi Rd, Waiheke Island/ Resene paint, wallpaper and decorating accessories, 
-Phone=+6493724160
-zip=Mon-Thu�8.30am-4pm, Fri 8.30am-3pm, Sat 
-Data0=(-36.79607,175.05544)
 [END]
 
 ;1170526
@@ -571576,15 +571517,6 @@ Phone=+6492747060
 Data0=(-36.94286,174.89033)
 [END]
 
-;1176880
-[POI]
-Type=0x2f
-Label=Budget Car Auction
-StreetDesc=676 Great South Rd, Manukau City 2104/ car auctions, car auction, budget auction
-Phone=+6492631001
-Data0=(-36.98899,174.88322)
-[END]
-
 ;1176881
 [POI]
 Type=0x2F07
@@ -582682,11 +582614,11 @@ Data0=(-37.38993,175.84320)
 ;1178865
 [POI]
 Type=0x2f
-Label=?PGG Wrightson Waipapa
-StreetDesc=SH 10, Waipapa/ 
+Label=PGG Wrightson Waipapa
+StreetDesc=2 Pataka Lane, Waipapa/ 
 Phone=+6494074835
 zip=Mon-Fri 8am-5pm, Sat 9am-12pm
-Data0=(-35.15606,173.89996)
+Data0=(-35.21304,173.91974)
 [END]
 
 ;1178866
@@ -633602,7 +633534,7 @@ Label=Dargaville Park Over
 StreetDesc=71 River Rd, Dargaville/ Stopover site for travelers in motorhome,campervan, rv.
 Phone=+6406494394
 zip=every day
-Data0=(-35.95180,173.86444)
+Data0=(-35.95160,173.86462)
 [END]
 
 ;1193421
@@ -646998,10 +646930,10 @@ Data0=(-36.85906,174.74644)
 ;1203491
 [POI]
 Type=0x2f
-Label=National Car Parts Ltd
-StreetDesc=22 Ormiston Rd, East Tamaki, Akl/ Car removal & cash for cars services in Auckla
+Label=National Car Parts
+StreetDesc=22 Ormiston Rd, Ōtara, Akl/ Car wreckers, free car removal, cash for cars Auckla
 Phone=0800884455
-zip=8am - 6pm
+zip=8am - 5:30 pm
 Data0=(-36.96032,174.89302)
 [END]
 
@@ -647043,6 +646975,16 @@ StreetDesc=174 Vivian St, Wlg 6011, New Zealand/ Fuel, Petrol, Diesel
 Phone=+6443829531
 zip=Open 7 days : 24 hours
 Data0=(-41.29457,174.77428)
+[END]
+
+;1203510
+[POI]
+Type=0x2f
+Label=City Dentists
+StreetDesc=119/123 Featherston St, L 2, Featherston House, Wlg Central, Wlg, 6011/ Emergenc
+Phone=+6449784964
+zip=Mon: 7:00am - 8:00pm, Tue: 7:00am - 4:00
+Data0=(-41.28254,174.77764)
 [END]
 
 ;1203512
@@ -659309,10 +659251,10 @@ Data0=(-37.79041,175.28188)
 ;1207124
 [POI]
 Type=0x2e02
-Label=?Four Square Store Dargaville
+Label=?West Coast Grocer Dargaville
 StreetDesc=111 Victoria St Dargaville 0310 Dx Box: Ax 10025, Dargaville, 310/ supermarket, 
-Phone=+6494391083
-zip=Mon-Sun 7am-8pm, Sat-Sun 7am-8pm
+Phone=+6499455578
+zip=Mon-Sun 7am-8pm
 Data0=(-35.94049,173.87070)
 [END]
 
@@ -716328,9 +716270,9 @@ Data0=(-36.82068,174.61141)
 [POI]
 Type=0x2a
 Label=Pho Heaven
-StreetDesc=Shop 111, Westgate Shopping Ctr, Corner Hobsonville Rd & Fernhill Dr, Massey Nor
+StreetDesc=19 Maki St, Westgate, Akl/ Vietnamese Cuisine, BYO, Appetizers, Kids Meal, Pho R
 Phone=+6498331014
-Data0=(-36.82068,174.61141)
+Data0=(-36.82048,174.61352)
 [END]
 
 ;1216308
@@ -734937,16 +734879,6 @@ zip=Usual business hours. Not weekends.
 Data0=(-36.86986,174.84538)
 [END]
 
-;1219594
-[POI]
-Type=0x2f
-Label=Pete Mitchell Photography
-StreetDesc=11 Atkin Lane, Hamurana/ Photographer offering NZ stock images, profile pictures
-Phone=+6421217149
-zip=Anytime
-Data0=(-38.03023,176.23598)
-[END]
-
 ;1219595
 [POI]
 Type=0x2e
@@ -753255,11 +753187,11 @@ Data0=(-35.94022,173.87086)
 ;1245203
 [POI]
 Type=0x2f
-Label=Starlight Tattoo Studio
-StreetDesc=6 Q Rosedale Rd, Windsor Park. Akl 0632/ Tattoos and Cover Up Tattoos.
-Phone=+6494767634
-zip=Mon-Fri 9.30am - 4.30pm Open by appointm
-Data0=(-36.73445,174.73354)
+Label=Starlight Tattoo
+StreetDesc=46 Waitea Rd, Muriwai Beach, Muriwai/ Tattoos and Cover Up Tattoos.
+Phone=+6427268633
+zip=Mon-Sat 8.30am-6pm
+Data0=(-36.83403,174.42848)
 [END]
 
 ;1245208
@@ -764656,7 +764588,7 @@ Data0=(-36.85883,174.78106)
 [POI]
 Type=0x2f
 Label=Michael Anastasiadis, Mortgage Adviser at Bozinoff Mortgages Ltd
-StreetDesc=28 Dundas St, Seatoun, Wlg 6022/ I am a registered Mortgage Adviser for the awar
+StreetDesc=Unit 12 22 Bay Rd Kilbirnie Plaza, Kilbirnie, Wlg 6022/ I am a registered Mortga
 Phone=+6421757269
 zip=Mon - Sun : 7am-10pm
 Data0=(-41.32286,174.83080)
@@ -768551,8 +768483,8 @@ Data0=(-36.91043,174.81717)
 [POI]
 Type=0x2f
 Label=MILK Books
-StreetDesc=150 Karangahape Rd Ste 404, Akl Central, Akl, 1010/ Photography Shop
-zip=Mon, Fri, Sun: 1:00pm - 10:30pm, Tue-Thu
+StreetDesc=150 Karangahape Rd Ste 404, Akl Central, Akl, 1010/ photo book, photo album, wed
+zip=Monday: 12:00 PM – 9:30 PM  Tuesday: 12:
 Data0=(-36.85811,174.76049)
 [END]
 
@@ -775325,6 +775257,16 @@ Phone=+6492626715
 Data0=(-36.98525,174.90452)
 [END]
 
+;1288317
+[POI]
+Type=0x2f
+Label=Glow Dental
+StreetDesc=Stonefields/ Dental Clinic
+Phone=+6496002774
+zip=Mon - Thurs: 10.30am to 7pm, Fri: 10.30a
+Data0=(-36.88868,174.83238)
+[END]
+
 ;1288358
 [POI]
 Type=0x2f
@@ -775635,7 +775577,7 @@ Data0=(-36.74648,174.69979)
 [POI]
 Type=0x2f
 Label=Fonko NZ - Air Conditioning & Refrigeration Auckland
-StreetDesc=38 Arrenway Dr, Rosedale, Akl, Akl, 0632/ Fonko Air Conditioning, and Refrigerat
+StreetDesc=38 Arrenway Dr, Rosedale, Akl, Akl, 0632/ 
 Phone=+80043665
 zip=Mon to Fri 08:00 AM to 04:30 PM
 Data0=(-36.74313,174.72441)
@@ -775659,15 +775601,6 @@ StreetDesc=13 Laureston Ave, Papatoetoe/ solar Auckland, Auckland solar, solar p
 Phone=+92712493
 zip=9am - 5pm
 Data0=(-36.95860,174.85129)
-[END]
-
-;1289073
-[POI]
-Type=0x2f
-Label=Lunn Ave Resene Color Shop
-StreetDesc=#108 Lunn Ave Mt Wlg Akl 6011/ paint shop
-Phone=+6495704235
-Data0=(-36.88906,174.83117)
 [END]
 
 ;1289078
@@ -776616,15 +776549,6 @@ Phone=+6492188591
 Data0=(-36.88016,174.81203)
 [END]
 
-;1290605
-[POI]
-Type=0x2f
-Label=Mt Wellington Resene Color Shop
-StreetDesc=#4 Te Apunga Place, Mt Wlg Akl 1060/ paint shop, paint
-Phone=+6492592718
-Data0=(-36.92440,174.84928)
-[END]
-
 ;1290612
 [POI]
 Type=0x2f
@@ -776819,9 +776743,9 @@ Data0=(-35.67211,174.30144)
 
 ;1290844
 [POI]
-Type=0x2f
-Label=Sewingtime NZ
-StreetDesc=23 Fairfax Ave, Penrose, Akl 1061/ Sewingtime have been providing New Zealanders
+Type=0x2e
+Label=Sewingtime NZ Ltd
+StreetDesc=23 Fairfax Ave, Akl, 1061/ Sewing Machine Shop
 Phone=+95250011
 zip=Monday - Friday 8:00 am – 4:30 pm
 Data0=(-36.91165,174.81041)
@@ -777017,10 +776941,10 @@ Data0=(-36.84333,174.76522)
 ;1291270
 [POI]
 Type=0x2f
-Label=?Trailparts NZ
+Label=Trailparts NZ
 StreetDesc=Cnr SH14 & Tuna St, Dargaville, 0310/ From trailer brakes to couplings, suspensi
 Phone=+6494395508
-Data0=(-35.92963,173.88702)
+Data0=(-35.92973,173.88735)
 [END]
 
 ;1291277
@@ -777071,15 +776995,6 @@ StreetDesc=Unit 3/4/593 Te Rapa Rd, Te Rapa, Hmtn 3200/ Satellite & Aerial Conne
 Phone=0800887323
 zip=8:00am - 4:30pm, Mon- Friday
 Data0=(-37.75792,175.24439)
-[END]
-
-;1291414
-[POI]
-Type=0x2f
-Label=?Silverdale Resene Color Shop
-StreetDesc=#2200 Hibiscus Coast Highway, Cnr Hibiscus Coast Highway and East Coast Rd, Silv
-Phone=+6494279560
-Data0=(-36.53317,174.68089)
 [END]
 
 ;1291416
@@ -777880,15 +777795,6 @@ Phone=0800024496
 Data0=(-36.85168,174.78227)
 [END]
 
-;1293306
-[POI]
-Type=0x2f
-Label=Botany Downs Resene Color Shop
-StreetDesc=#451 Ti Rakau Dr Huntington Park Akl 2013/ Resene manufactures an extensive rang
-Phone=+6492725100
-Data0=(-36.92972,174.90930)
-[END]
-
 ;1293308
 [POI]
 Type=0x2f
@@ -778213,15 +778119,6 @@ zip=7:30am - 5pm, Mon- Friday
 Data0=(-41.31596,174.78112)
 [END]
 
-;1294325
-[POI]
-Type=0x2f
-Label=Mt Roskill Resene Color Shop
-StreetDesc=#6F Carr Rd Mt Roskill Akl 1042/ Resene manufactures an extensive range of quali
-Phone=+6496205714
-Data0=(-36.91488,174.75478)
-[END]
-
 ;1294331
 [POI]
 Type=0x2f
@@ -778229,15 +778126,6 @@ Label=Wellington Signs
 StreetDesc=1/47 Buick St Petone Lower Hutt, Wlg 5012/ Wellington Signs, for Signage, Print 
 Phone=+6445667446
 Data0=(-41.22590,174.88187)
-[END]
-
-;1294391
-[POI]
-Type=0x2f
-Label=Takanini Resene Color Shop
-StreetDesc=#226-228 Great South Rd Takanini Akl 2112/ Resene manufactures an extensive rang
-Phone=+6492961959
-Data0=(-37.04862,174.92743)
 [END]
 
 ;1294402
@@ -778813,24 +778701,6 @@ Label=SMART - Mortgage Brokers / Advisers
 StreetDesc=14 Monk St Whitianga/ Mortgage Broker; Insurance Adviser; Debt Consolidation
 Phone=0800405801
 Data0=(-36.83383,175.70625)
-[END]
-
-;1296002
-[POI]
-Type=0x2f
-Label=Wairau Park Resene Color Shop
-StreetDesc=#8 Croftfield Lane Wairau Park Akl 0627/ Resene manufactures an extensive range 
-Phone=+6494444387
-Data0=(-36.76898,174.73942)
-[END]
-
-;1296014
-[POI]
-Type=0x2f
-Label=Albany Resene Color Shop
-StreetDesc=# 2 Tawa Dr Albany Akl 0632/ Resene manufactures an extensive range of quality p
-Phone=+6494146500
-Data0=(-36.74015,174.71688)
 [END]
 
 ;1296026
@@ -787380,6 +787250,16 @@ zip=24 Hours a Day / 7 Days a Week
 Data0=(-36.89592,174.80139)
 [END]
 
+;1312146
+[POI]
+Type=0x2c00
+Label=?Track & Trail Cycle Adventures
+StreetDesc=11 Atkin Lane, Hamurana/ bike trails, cycle tour
+Phone=+6421217149
+zip=7am to 7pm 7 days
+Data0=(-38.02840,176.23580)
+[END]
+
 ;1312147
 [POI]
 Type=0x2e
@@ -788623,16 +788503,6 @@ StreetDesc=14 Knox St, Hmtn 3204/ CBD Products in Hamilton
 Data0=(-37.79131,175.28472)
 [END]
 
-;1315050
-[POI]
-Type=0x2f
-Label=Straight Up Builders Tauranga
-StreetDesc=50 Cross Rd, Tauranga, Bay of Plenty, 3110/ You don’t brand your company Straigh
-Phone=+6427656002
-zip=Monday Friday 7.30 am - 5 pm
-Data0=(-37.67157,176.16568)
-[END]
-
 ;1315054
 [POI]
 Type=0x2f
@@ -789347,11 +789217,11 @@ Data0=(-39.08972,174.06916)
 
 ;1316728
 [POI]
-Type=0x2f11
-Label=Wild Kiwi
-StreetDesc=L 2, 29 Hargreaves St, St Marys Bay, Akl 1011/ Following years working and trave
+Type=0x2f
+Label=Wild Kiwi Adventure Tours
+StreetDesc=127 Franklin Rd, Akl, 1011/ Tour Operator
 Phone=+99735676
-zip=8:30am - 5:00pm
+zip=Mon-Fri: 08:30 - 17:30, Sat-Sun: Closed
 Data0=(-36.84734,174.74911)
 [END]
 
@@ -791301,6 +791171,16 @@ Label=Trish Peng
 StreetDesc=37 mackelvie St, grey lynn Akl, 1021 new zealand/ Trish Peng offers a unique col
 zip=Tuesday- Saturday: 10:00 - 17:00 Monday-
 Data0=(-36.85956,174.74794)
+[END]
+
+;1320683
+[POI]
+Type=0x2f
+Label=Revolution - Your IT Partner
+StreetDesc=774 Great South Rd, Penrose, Akl/ IT Support And Services
+Phone=+99734770
+zip=Mon-Fri: 08:30 - 17:00, Sat-Sun: Closed
+Data0=(-36.91080,174.81742)
 [END]
 
 ;1320687
@@ -797869,9 +797749,9 @@ Data0=(-37.13772,174.88993)
 [POI]
 Type=0x2f
 Label=Expert Turf
-StreetDesc=63 Pohutukawa Place, Bell Block, New Plymouth 4312/ Whether you want to spruce u
-Phone=+94321121
-zip=Monday to Friday 9:00am – 4:00pm
+StreetDesc=63 Pohutukawa Place, Bell Block, New Plymouth, Taranaki, 4312/ Instant Lawn, Hyd
+Phone=+67554022
+zip=Mon-Thu: 09:00 - 16:00, Fri: 09:00 - 18:
 Data0=(-39.03843,174.13569)
 [END]
 
@@ -800036,6 +799916,16 @@ StreetDesc=235 Brookby Rd, Brookby 2576/ Are you looking for the best and most s
 Phone=+95308675
 zip=07:00 to 18:00 Monday to friday
 Data0=(-36.99535,174.98526)
+[END]
+
+;1341743
+[POI]
+Type=0x2f
+Label=Kickstart Digital Limited 24hr
+StreetDesc=https://kickstartdigital.co.nz// Kickstart Digital is a New Zealand Ai SEO agenc
+Phone=+6427481755
+zip=Open 24 Hours
+Data0=(-40.90056,174.88597)
 [END]
 
 ;1341748
@@ -804846,10 +804736,10 @@ Data0=(-37.65872,176.19564)
 ;1353381
 [POI]
 Type=0x2f
-Label=Tomar Contracting
-StreetDesc=59 Boundary Rd, Claudelands, Hmtn 3214, Waikato/ Trusted house painters in Hamil
-Phone=0800685849
-zip=Mon–Sat: 6:00am–8:00pm Sun: Closed
+Label=Tomar Contracting Limited - Hamilton & Waikato
+StreetDesc=59 Boundary Rd, Claudelands, Hmtn 3214, Waikato/ house painters, interior painti
+Phone=0800866272
+zip=Monday–Friday 9am–5pm; weekends closed
 Data0=(-37.77464,175.28409)
 [END]
 
@@ -805374,9 +805264,10 @@ Data0=(-37.69808,176.14919)
 ;1353715
 [POI]
 Type=0x2e
-Label=Kiwipetz Greerton
-StreetDesc=113b Maleme St, Greerton, Tauranga 3112/ Pet Store, Petfood, RetailGoods, Tauran
-Phone=+6475788623
+Label=KiwiPetz
+StreetDesc=113b Maleme St, Greerton, Tauranga, 3112/ Pet Supplies, Aquarium Supplies, Dog &
+Phone=+75788623
+zip=Mon-Fri: 09:00 - 16:30, Sat: 10:00 - 15:
 Data0=(-37.73517,176.13121)
 [END]
 
@@ -808167,10 +808058,10 @@ Data0=(-37.71983,176.14548)
 ;1355272
 [POI]
 Type=0x2f
-Label=numero� - Performance Marketing Agency
-StreetDesc=4A 51 Hurstmere Rd, Takapuna, Akl 0622/ Founded in 2016, Numero delivers real re
-Phone=+6493903997
-zip=Monday to Friday 8 AM to 5:30 PM
+Label=numero�
+StreetDesc=51 Hurstmere Rd 4A, Takapuna, Akl, 0622/ https://numeroagency.co.nz/seo, https:/
+Phone=+93903997
+zip=Mon - Fri: 08:30 - 17:00, Sat - Sun: Clo
 Data0=(-36.78749,174.77289)
 [END]
 
@@ -810238,6 +810129,16 @@ zip=24 Hours
 Data0=(-36.81152,174.72640)
 [END]
 
+;1357490
+[POI]
+Type=0x2f
+Label=Auckland Waterproofing Experts
+StreetDesc=90B Braemar Rd, Castor Bay, Akl/ Deck - Roof - Basement Waterproofing in Aucklan
+Phone=+6422630643
+zip=7 - 19
+Data0=(-36.75690,174.76250)
+[END]
+
 ;1357508
 [POI]
 Type=0x2d00
@@ -810763,7 +810664,7 @@ Data0=(-36.87623,174.75068)
 Type=0x2f
 Label=Adaptiv
 StreetDesc=22 Pollen St Grey Lynn, Akl/ Your data and integration partner. Adaptiv is the t
-Phone=+6427800680
+Phone=+09280667
 zip=8:30-17:00
 Data0=(-36.86053,174.74939)
 [END]
@@ -814527,10 +814428,10 @@ Data0=(-36.77692,174.71778)
 [POI]
 Type=0x2f
 Label=PKF Bay of Islands
-StreetDesc=1A Williams Rd, Paihia/ Accountant, Business Advisory, Tax services, GST advice,
+StreetDesc=69 Marsden Rd, Paihia/ Accountant, Business Advisory, Tax services, GST advice, 
 Phone=+6494027926
 zip=Mon-Fri 8.30am - 4 pm
-Data0=(-35.28168,174.09133)
+Data0=(-35.28139,174.09266)
 [END]
 
 ;1367040
@@ -815067,11 +814968,11 @@ Data0=(-36.94835,174.89932)
 ;1367941
 [POI]
 Type=0x2f
-Label=Wahitapu Contracting LTD 24hr
-StreetDesc=Matahui Rd, Aongatete/ Arborist, Tree Removal, Tree Felling, Tree Pruning, Stump
+Label=?Wahitapu Contracting LTD 24hr
+StreetDesc=31 Matahui Rd, Aongatete/ Tree services, Tree felling, Tree removal, Tree prunin
 Phone=+6427600044
 zip=24/7
-Data0=(-37.59233,175.95736)
+Data0=(-37.60278,175.94071)
 [END]
 
 ;1367963
@@ -815819,5 +815720,630 @@ StreetDesc=12 Dunrobin Place, Half Moon Bay, Akl, 2010/ Korean Restaurant, Chick
 Phone=+6422064555
 zip=Mon - Sun : 11:00 AM - 10:00 PM
 Data0=(-36.89910,174.91539)
+[END]
+
+;1369523
+[POI]
+Type=0x2f
+Label=CareClean
+StreetDesc=120 Melksham Dr, Churton Park, Wlg/ Commercial Cleaning, Office Cleaning , Resid
+Phone=+6427499444
+Data0=(-41.19022,174.80798)
+[END]
+
+;1369548
+[POI]
+Type=0x2e09
+Label=Crafter & Co.
+StreetDesc=17 Totara Rd, Te Atatu Peninsula, Akl 0610/ marble furniture, marble coffee tabl
+Phone=+6421161645
+zip=By Appointment Only
+Data0=(-36.82907,174.64760)
+[END]
+
+;1369557
+[POI]
+Type=0x2f
+Label=CityMove Ltd
+StreetDesc=16 Harrison Rd, Akl 1060, New Zealand/ Movers Auckland, Movers New Zealand, Movi
+Phone=0800126128
+zip=Mon-Fri: 08:00 - 17:00
+Data0=(-36.85444,174.76414)
+[END]
+
+;1369588
+[POI]
+Type=0x2f
+Label=Carpet Layers Auckland
+StreetDesc=496 Karangahape Rd, Akl Central, Akl/ Residential Carpet Installation, Commercia
+Phone=+6498840722
+zip=Mon-Sat 7:00 AM - 6:00 PM
+Data0=(-36.85890,174.75448)
+[END]
+
+;1369605
+[POI]
+Type=0x2f
+Label=Commercial Carpet Installation Auckland
+StreetDesc=56 Broadway, Nwmkt, Akl/ Commercial Carpet Installation, Residential Carpet Inst
+Phone=+6498840722
+zip=Mon-Sat 7:00 AM - 6:00 PM
+Data0=(-36.86547,174.77914)
+[END]
+
+;1369693
+[POI]
+Type=0x2f11
+Label=Thames Info
+StreetDesc=275 Balmoral Dr, Tokoroa 3420/ 
+Phone=+78864066
+Data0=(-38.23260,175.85335)
+[END]
+
+;1369719
+[POI]
+Type=0x2f
+Label=Reinstate
+StreetDesc=44 Bridge St, Tokoroa 3420/ Heritage
+Phone=+78859043
+zip=hello@reinstate.org.nz
+Data0=(-38.21815,175.86991)
+[END]
+
+;1369776
+[POI]
+Type=0x2f
+Label=Linked Electrical 24hr
+StreetDesc=2/23 Neal Ave, Glenfield, Akl/ Electrician, Electrical Contractor, Emergency Ele
+Phone=+6421206732
+zip=24 hours
+Data0=(-36.77677,174.72027)
+[END]
+
+;1369783
+[POI]
+Type=0x2f
+Label=Nice Air
+StreetDesc=New Zealand/ Air Conditioning Contractor
+Phone=+6496660376
+zip=Mon - Fri: 08:00 - 17:00, Sat: - Sun: Cl
+Data0=(-36.91899,174.99931)
+[END]
+
+;1369800
+[POI]
+Type=0x2F07
+Label=ZM Auto Ltd
+StreetDesc=5 Wimbledon Close, Nawton, Hmtn/ Cash for Cars Hamilton, Car Wreckers Hamilton, 
+Phone=+6421127783
+zip=Mon-Sat 8am-6pm
+Data0=(-37.77853,175.22658)
+[END]
+
+;1369875
+[POI]
+Type=0x2f
+Label=Canopy Imaging Shakespeare Road
+StreetDesc=209 Shakespeare Rd, Milford, Akl, 0620/ 
+Phone=+94872555
+zip=Mon-Sat: 7:00 AM - 7:00 PM, Sun: Closed
+Data0=(-36.78104,174.75393)
+[END]
+
+;1369919
+[POI]
+Type=0x2f
+Label=MegaScreen
+StreetDesc=Cryers Rd, East Tāmaki, Akl/ LED screen hire, LED video wall rental, virtual pro
+Phone=0800888689
+Data0=(-36.93115,174.88986)
+[END]
+
+;1369926
+[POI]
+Type=0x2f
+Label=Jayco Auckland
+StreetDesc=960 Great South Rd, Penrose, Akl 1061/ RV dealer in Auckland
+Phone=+6492713434
+zip=Monday - Friday: 9 am–4:30 pm, Saturday 
+Data0=(-36.91978,174.82748)
+[END]
+
+;1369927
+[POI]
+Type=0x2f
+Label=JZ March Excavation
+StreetDesc=76 Islington St, Ponsonby, Akl 1011/ excavation, earthworks, retaining walls, dr
+Phone=+6421222150
+zip=Mon-Fri 7:30am-5:30pm, Sat 7:30am-12:30p
+Data0=(-36.84976,174.73929)
+[END]
+
+;1369960
+[POI]
+Type=0x2f
+Label=Coating Lab
+StreetDesc=55 Angle St, Onehunga, Akl/ powder coating, custom flashings, sheet metal foldin
+Phone=+6492186436
+zip=Mon–Fri 7:30am–4:30pm; Sat–Sun closed
+Data0=(-36.92768,174.80938)
+[END]
+
+;1369961
+[POI]
+Type=0x2f
+Label=Deck Builders Paihia
+StreetDesc=5 Bayview Rd, Paihia/ Timber Decks, Concrete Decks, Floating Decks, Poolside Dec
+Phone=+6498840035
+zip=Mon-Sat 7:00 AM - 6:00 PM
+Data0=(-35.28014,174.08883)
+[END]
+
+;1369970
+[POI]
+Type=0x2f
+Label=Deck Builders Lower Hutt
+StreetDesc=181 High St, Hutt Central, Lower Hutt/ Timber Decks, Concrete Decks, Floating De
+Phone=+6448873689
+zip=Mon-Sat 7:00 AM - 6:00 PM
+Data0=(-41.20935,174.90268)
+[END]
+
+;1370013
+[POI]
+Type=0x2f
+Label=Parko Cards 24hr
+StreetDesc=23 Anne Burton Dr, Warkworth/ trading cards NZ, Pok�mon cards NZ, Pokemon TCG NZ
+Phone=+6421025648
+zip=Monday–Sunday: Open 24 Hours (Online Sto
+Data0=(-36.41113,174.66542)
+[END]
+
+;1370025
+[POI]
+Type=0x2c0a
+Label=wineinsights
+StreetDesc=7 Dublin St, Martinborough/ Matinborough wine tours, Wairarapa wine tours, Welli
+Phone=+6421134882
+zip=Mon-Sun 7am-6pm by appointment
+Data0=(-41.21760,175.45324)
+[END]
+
+;1370055
+[POI]
+Type=0x2f
+Label=PixelCloud
+StreetDesc=110 Carlton Gore Rd, Nwmkt, Akl/ Web Design, Web Development, Website Hosting, S
+Phone=+6427515865
+zip=Mon-Fri 9am-5pm
+Data0=(-36.86515,174.77691)
+[END]
+
+;1370061
+[POI]
+Type=0x2f
+Label=Deck Builders Kerikeri
+StreetDesc=90 Kerikeri Rd, Kerikeri/ Timber Decks, Concrete Decks, Floating Decks, Poolside
+Phone=+6498840035
+zip=Mon-Sat 7:00 AM - 6:00 PM
+Data0=(-35.22702,173.94907)
+[END]
+
+;1370066
+[POI]
+Type=0x2f
+Label=Industrial Floor Coatings Auckland
+StreetDesc=115 Mayoral Dr, Akl Central, Akl/ Epoxy Resin Flooring, Polyurethane Coatings, S
+Phone=+6498867054
+zip=Mon-Sat 7:00 AM - 6:00 PM
+Data0=(-36.85416,174.76356)
+[END]
+
+;1370073
+[POI]
+Type=0x2f
+Label=Fence Builders Lower Hutt
+StreetDesc=134 Queens Dr, Hutt Central, Lower Hutt/ Timber Fencing, Pool Fencing, Colorbond
+Phone=+6448873689
+zip=Mon-Sat 7:00 AM - 6:00 PM
+Data0=(-41.20747,174.90755)
+[END]
+
+;1370085
+[POI]
+Type=0x2f
+Label=Stage Two Media
+StreetDesc=Scott Point, Hobsonville/ video production, photography
+Phone=+6421226282
+zip=Mon-Fri: 9am - Late
+Data0=(-36.80324,174.67056)
+[END]
+
+;1370087
+[POI]
+Type=0x2f
+Label=?MoveCo - Transport & Logistics Services
+StreetDesc=12 Merlot Way, Te Atatū South, Akl/ car transport, vehicle logistics, moving com
+Data0=(-36.87574,174.64447)
+[END]
+
+;1370101
+[POI]
+Type=0x2f
+Label=Retaining Walls Hamilton
+StreetDesc=103 Tristram St, Hmtn Central, Hmtn/ Timber Retaining Walls, Concrete Retaining 
+Phone=+6478081249
+zip=Mon-Sat 7:00 AM - 6:00 PM
+Data0=(-37.79068,175.27904)
+[END]
+
+;1370117
+[POI]
+Type=0x2f
+Label=?Livewell
+StreetDesc=12/2 Tawa Dr, Albany, Akl/ Mobility equipment supplier
+Phone=+6498696760
+zip=Mon-Fri 8:30am - 5:00pm | Sat 10:00am - 
+Data0=(-36.74060,174.71674)
+[END]
+
+;1370212
+[POI]
+Type=0x2f
+Label=?AluPro
+StreetDesc=21 Tomes Lane, Favona, Akl/ aluminium windows, aluminium doors, window repairs, 
+Phone=+6421108383
+zip=Mon-Sun 8am-6pm
+Data0=(-36.95292,174.81390)
+[END]
+
+;1370277
+[POI]
+Type=0x2f
+Label=Concrete Auckland
+StreetDesc=66 Victoria St West, Akl Central, Akl/ Driveways, Patios, Foundations, Concrete 
+Phone=+6498867010
+zip=Mon-Sat 7:00 AM - 6:00 PM
+Data0=(-36.84846,174.76269)
+[END]
+
+;1370280
+[POI]
+Type=0x2f
+Label=Bash & Co - Auckland Real Estate Photography and Videography
+StreetDesc=28 Constellation Dr, Rosedale, Akl/ real estate photographer, photographer, prop
+Phone=+6421023694
+zip=Mon-Fri 8am-5pm
+Data0=(-36.74758,174.73330)
+[END]
+
+;1370281
+[POI]
+Type=0x2b01
+Label=Kinloch Manor & Villas
+StreetDesc=261 Kinloch Rd, Kinloch, Taupō/ luxury lodge taupo, luxury lodge, taupo lodges, 
+Phone=+6473778482
+Data0=(-38.64981,175.93219)
+[END]
+
+;1370285
+[POI]
+Type=0x2f
+Label=Shade Systems - Maungaturoto
+StreetDesc=171 Hurndall St West, Maungaturoto/ Construction Company
+Phone=+80016672
+zip=Mon-Fri: 07:00 - 17:00, Sat-Sun: Closed
+Data0=(-36.11184,174.35209)
+[END]
+
+;1370313
+[POI]
+Type=0x2f
+Label=Retaining Walls Auckland
+StreetDesc=47 Victoria St West, Akl Central, Akl/ Timber Retaining Walls, Concrete Retainin
+Phone=+6498867320
+zip=Mon-Sat 7:00 AM - 6:00 PM
+Data0=(-36.84842,174.76381)
+[END]
+
+;1370349
+[POI]
+Type=0x2a
+Label=Meadow Restaurant
+StreetDesc=20 St Johns Rd, St Johns, Akl/ Pizza, Pasta
+Phone=+6495211462
+zip=Monday to Thursday 12PM-Late Friday to S
+Data0=(-36.87621,174.82621)
+[END]
+
+;1370392
+[POI]
+Type=0x2f
+Label=Concrete Garage Floor Auckland
+StreetDesc=102 Albert St, Akl Central, Akl/ Residential Concrete Garage Floor, Commercial C
+Phone=+6498867010
+zip=Mon-Sat 7:00 AM - 6:00 PM
+Data0=(-36.84837,174.76378)
+[END]
+
+;1370436
+[POI]
+Type=0x2f
+Label=Auckland Tyres
+StreetDesc=27 Selwyn St, Onehunga/ car tyres, tyre shops, truck tyres, tire, auckland tyres
+Phone=+6496222727
+zip=Mon-Sun 8 am - 5 pm
+Data0=(-36.92464,174.78361)
+[END]
+
+;1370449
+[POI]
+Type=0x2f
+Label=Shade Systems - Whangārei
+StreetDesc=26 Springs Flat Rd, Te Kamo, Whangarei, Northland, 0112/ Construction Company
+Phone=+80016672
+zip=Mon-Fri: 07:00 - 17:00, Sat-Sun: Closed
+Data0=(-35.67426,174.30060)
+[END]
+
+;1370525
+[POI]
+Type=0x2f
+Label=?SlateSEO
+StreetDesc=67 Omapere St, Whitby, Porirua 5024/ SEO, web design, marketing agency, Wellingt
+Phone=+6421638205
+zip=Mon-Fri 9am-5pm
+Data0=(-41.21434,174.86108)
+[END]
+
+;1370532
+[POI]
+Type=0x2e09
+Label=McKenzie & Willis Interiors Hamilton
+StreetDesc=52 Alexandra St, Hmtn Central, Hmtn/ interior designer, furniture store, curtain
+Phone=+6478396757
+Data0=(-37.78939,175.28334)
+[END]
+
+;1370535
+[POI]
+Type=0x2e09
+Label=McKenzie & Willis Interiors Mount Maunganui
+StreetDesc=2 Rata St, Mount Maunganui/ furniture shop, interior design, wallpaper,
+Phone=+6475720215
+zip=Mon-Fri 09:00-17:00, Sat 10:00-16:00
+Data0=(-37.64241,176.18583)
+[END]
+
+;1370542
+[POI]
+Type=0x2f
+Label=Smart House Painters Auckland
+StreetDesc=5 The Knoll, Greenhithe, Akl/ house painters auckland, painters auckland, house 
+Phone=+6421872088
+Data0=(-36.78238,174.67408)
+[END]
+
+;1370589
+[POI]
+Type=0x2f
+Label=Custom Hair Company
+StreetDesc=56 Pembroke St, Hmtn Lake, Hmtn/ human hair wigs, wigs New Zealand, hair toppers
+Phone=+6479291258
+Data0=(-37.79715,175.28071)
+[END]
+
+;1370590
+[POI]
+Type=0x2f
+Label=Fencing Solutions Waikato
+StreetDesc=5 Perclo Place, St Andrews, Hmtn/ fencing Hamilton, commercial fencing Hamilton,
+Phone=+6427492733
+Data0=(-37.74983,175.24147)
+[END]
+
+;1370591
+[POI]
+Type=0x2f
+Label=Flood Roofing
+StreetDesc=494C Kerikeri Rd, Kerikeri/ Roofing Kerikeri, Spouting Kerikeri, Pole Sheds Keri
+Phone=0800435663
+Data0=(-35.24640,173.93454)
+[END]
+
+;1370593
+[POI]
+Type=0x2f
+Label=?DryGutts
+StreetDesc=461 Whatawhata Rd, Dinsdale, Hmtn 3285/ house washing hamilton, roof cleaning Ha
+Phone=+6474444198
+Data0=(-37.79934,175.15681)
+[END]
+
+;1370599
+[POI]
+Type=0x2f
+Label=?Filtration Station
+StreetDesc=1C Sunshine Ave, Te Rapa, Hmtn/ Clean water, clear choice
+Phone=+80020982
+zip=Monday to Friday, 8 am-4 pm
+Data0=(-37.75854,175.24513)
+[END]
+
+;1370661
+[POI]
+Type=0x2f
+Label=Fine Line Fascia & Spouting
+StreetDesc=8/183 Maui St, Pukete, Hmtn/ Continuous spouting Hamilton, 	internal gutter repl
+Phone=+6421124497
+zip=7.30am - 5.00pm Monday to Thursday 7.30a
+Data0=(-37.72635,175.21917)
+[END]
+
+;1370676
+[POI]
+Type=0x2f
+Label=Hotshot Signs
+StreetDesc=11 Lake Rd, Frankton, Hmtn, 3204/ Sign shop
+Phone=+78086269
+zip=Mon: 8:30am - 5:00pm, Tue-Fri: 8:00am - 
+Data0=(-37.78487,175.26312)
+[END]
+
+;1370735
+[POI]
+Type=0x2f
+Label=?SWEETBODZ 24hr
+StreetDesc=16 Index Place, Manurewa, Akl/ body wash, body lotion, body care, body care bund
+Phone=+20404284
+zip=Online Store - Available 24/7
+Data0=(-37.01679,174.90920)
+[END]
+
+;1370752
+[POI]
+Type=0x2f
+Label=Top5.nz - Local Business Rankings
+StreetDesc=10 Kura Place, Torbay, Akl/ 
+Phone=+6421257733
+Data0=(-36.69292,174.74009)
+[END]
+
+;1370830
+[POI]
+Type=0x2f
+Label=?Lamanify NZ
+StreetDesc=Unit A L G, 26 Hobson St Akl City 1010, New Zealand/ seo, digital marketing, web
+Phone=+98884302
+zip=Mon-Fri: 09:00 - 18:00
+Data0=(-36.84590,174.76281)
+[END]
+
+;1370837
+[POI]
+Type=0x2f
+Label=ShieldCoat
+StreetDesc=7 Woodson Place, Wairau Valley, Akl/ Paint, Paint Supply, Painting Accessories, 
+Phone=0800123900
+zip=Mon-Fri: 7:30 - 4:30 Sat: 8:00 - 12:00
+Data0=(-36.76712,174.72930)
+[END]
+
+;1370859
+[POI]
+Type=0x2f
+Label=Overtime Tyres Penrose
+StreetDesc=149 Station Rd, Penrose, Akl/ tyre shop, road force balancing, wheel alignment, 
+Phone=+6495798886
+zip=mon-fri 7:30am - 7:30pm  sat-sun 9am-4:3
+Data0=(-36.91348,174.81089)
+[END]
+
+;1370862
+[POI]
+Type=0x2f0b
+Label=?Parking Services Limited
+StreetDesc=PO Box 11022, Palm Beach, Papamoa, 3151/ Parking, car parking, car park manageme
+zip=Mon-Fri:8:00 am to 4:30 pm
+Data0=(-37.70555,176.28872)
+[END]
+
+;1370901
+[POI]
+Type=0x2f
+Label=Zeus Property Services
+StreetDesc=12A Girrahween Dr, Tōtara Vale, Akl/ electrician builder contractor plasterer pa
+Phone=+6427534799
+zip=Mon - Fri, 8am - 5pm
+Data0=(-36.76544,174.72136)
+[END]
+
+;1370953
+[POI]
+Type=0x2f
+Label=NappyCare 24hr
+StreetDesc=1502/72 Nelson St, Akl Central, Akl/ Baby nest, online baby store in nz, nursing
+Phone=+6421134957
+zip=24 hours 
+Data0=(-36.85078,174.75932)
+[END]
+
+;1370965
+[POI]
+Type=0x2f
+Label=Empowerment Psychology
+StreetDesc=80 College Hill, Freemans Bay, Akl, 1010/ Psychologist, Psychology, ADHD, Autism
+Phone=+6427373799
+Data0=(-36.84770,174.74574)
+[END]
+
+;1371063
+[POI]
+Type=0x2f
+Label=Food Grade Flooring Auckland
+StreetDesc=145 Hobson St, Akl Central, Akl/ Commercial Food Grade Flooring, Industrial Food
+Phone=+6498867054
+zip=Mon-Sat 7:00 AM - 6:00 PM
+Data0=(-36.85086,174.76016)
+[END]
+
+;1371077
+[POI]
+Type=0x2f
+Label=Commercial Earthworks West Auckland
+StreetDesc=363 Great North Rd, Henderson, Akl/ Small Excavations, Site Preparation, Trenchi
+Phone=+6498867219
+zip=Mon-Sat 7:00 AM - 6:00 PM
+Data0=(-36.87961,174.63272)
+[END]
+
+;1371174
+[POI]
+Type=0x2f
+Label=Helen Shaw Harcourts Cooper and Co Milford, Real Estate Agent 24hr
+StreetDesc=128 Kitchener Rd, Milford, Akl 0620 New Zealand/ Real Estate Agency, real esatat
+Phone=+6421743536
+zip=Monday - Sunday: Open 24 hours
+Data0=(-36.77334,174.76071)
+[END]
+
+;1371178
+[POI]
+Type=0x2e
+Label=Rachel Lambert Jewellery
+StreetDesc=1729 South Rd, Tataraimaka, New Plymouth/ Jewellery, Bespoke Commissions, Hand-c
+Phone=+6427266975
+zip=Fri-Sun 11-4pm
+Data0=(-39.15575,173.92107)
+[END]
+
+;1371189
+[POI]
+Type=0x2f
+Label=Concrete Masterton
+StreetDesc=15 Perry St, Masterton/ Driveway, Patio/Path, Formwork/Slab
+Phone=+6463533395
+zip=Mon-Sat 7:00 AM - 6:00 PM
+Data0=(-40.94996,175.65994)
+[END]
+
+;1371208
+[POI]
+Type=0x2f
+Label=Align Training New Zealand
+StreetDesc=B:Hive, Smales Farm 72 Taharoto Rd, Takapuna, Akl 0622/ corporate training progr
+Phone=0800472368
+zip=Monday Friday 8.30am-5pm
+Data0=(-36.78553,174.75312)
+[END]
+
+;1371209
+[POI]
+Type=0x2f
+Label=Dr Han Choi - Oral & Maxillofacial Surgeon
+StreetDesc=3 Akoranga Dr, Akl, 0627/ Oral And Maxillofacial Surgeon
+Phone=0800245413
+zip=Mon-Thu: 08:00 - 17:00, Fri: 08:00 - 12:
+Data0=(-36.79599,174.75338)
 [END]
 

@@ -23,7 +23,7 @@ TOUCH = $(nzogps_touch_cmd)
 
 tilenum = $(subst Northland,1,$(subst Auckland,2,$(subst Waikato,3,$(subst Central,4,$(subst Wellington,5,$(subst Tasman,6,$(subst Canterbury,7,$(subst Southland,8,$(1)))))))))
 
-SUBDIRS = ../checker Suburbs Wrongside2table
+SUBDIRS = ../checker Suburbs Wrongside
 
 all : $(addsuffix .zip,$(TILES)) 
 .PHONY: all

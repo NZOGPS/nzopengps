@@ -1,14 +1,22 @@
-Start = 2026-09-20 12:03:09 +1200
+Start = 2026-10-25 10:03:22 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Wellington
+7 LINZ ids are missing from NZOGPS Wellington
+;linzid=3086536	Te Ara O Tauarohaki	-40.21265537866929,176.1074589436841
+;linzid=3086538	Landsdown Crt	-40.62506921950948,175.2881768415586
+;linzid=3086518	Te Ara O Puanga	-41.23521825887713,174.95049783989862
+;linzid=3086509	Waimapihi Rd	-41.03971789048764,174.8914900418448
+;linzid=3086519	Te Ara O Purapurawhetu	-41.234022879354995,174.95070445981167
+;linzid=3086502	Abercothi Lane	-40.65438653675972,175.24979604012742
+;linzid=3086510	Isabella Pl	-41.03971789048764,174.8914900418448
 #############################
 
-0 LINZ ids are in NZOGPS Wellington but missing from LINZ
+1 LINZ ids are in NZOGPS Wellington but missing from LINZ
+;linzid=3078298	Isabel St	-40.86522,175.03586
 #############################
 
 0 Number range ids are missing from NZOGPS Wellington
 #############################
 
-Finish = 2026-09-20 12:03:10 +1200
-Processing time = 0.9976114
+Finish = 2026-10-25 10:03:23 +1300
+Processing time = 1.0367871

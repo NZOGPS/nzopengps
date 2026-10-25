@@ -174,3 +174,5 @@
 2446870	235 Foreshore Road, Bluff	2025/12/12 11:05	-46.596506,168.331251	LINZ feedback 20251212.ods
 3193294	6 Morven Beach Road, Morven, Waimate	2026/06/23 00:35	-44.822158,171.111410
 3202495	625 Mount Hamilton Road, Hamilton Burn, Mossburn	2026/09/01 13:18	-45.653646,168.093335
+3207597	150 Poplar Road West, Henley, Mosgiel	2026/10/25 12:27	-45.945849,170.162059
+1410988	280 Waitati Valley Road, Upper Waitati, Waitati	2026/10/25 12:30	-45.781479,170.520815

@@ -203,3 +203,5 @@ There are two other properties at the 'low' end of the road that are numbered op
 3000664	44A Park Terrace, Corsair Bay, Lyttelton	2026/04/25 02:04	-43.605923,172.700661
 --- LINZ feedback 20260419.ods
 1755690	40 Archdalls Road, Robinsons Bay	2026/04/25 02:04	-43.762301,172.950357
+265303	8 Okana Road, Ataahua, Tai Tapu	2026/10/28 13:44	-43.751281,172.687621
+3208373	24 Fitzgerald Lane, Lincoln	2026/10/28 13:44	-43.654951,172.472203

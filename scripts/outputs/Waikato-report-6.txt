@@ -1,10 +1,6 @@
-Start = 2026-10-25 10:03:34 +1300
+Start = 2026-10-30 12:46:00 +1300
 linzid	street_name	street_name_2	official_street_name
-1808210	Clark and Denize Rd	Clark & Denize Rd	Clarke and Denize Rd	-37.33386,174.98826
-3019986	Ruatoki Valley Rd		Ruatoki Road Vly	-38.21287,177.00279
-3019986	Ruatoki Valley Rd		Ruatoki Road Vly	-38.19989,177.00069
-3019986	Ruatoki Valley Rd		Ruatoki Road Vly	-38.13734,177.00595
 #############################
 
-Finish = 2026-10-25 10:03:36 +1300
-Processing time = 1.3869204
+Finish = 2026-10-30 12:46:02 +1300
+Processing time = 1.4168922

@@ -1,18 +1,7 @@
-Start = 2026-10-25 10:03:25 +1300
+Start = 2026-10-30 12:45:59 +1300
 #############################
 
-11 LINZ ids are missing from NZOGPS Waikato
-;linzid=3086537	Figment Lane	-37.4964549333,175.7113707667
-;linzid=3086561	Te Weranga Dr	-37.73959862987997,176.09217966031528
-;linzid=3086562	Hahuki Cl	-37.73982462616203,176.0924932838934
-;linzid=3086563	Ngahuru Cl	-37.73937612532279,176.09182983393052
-;linzid=3086564	Kopiha Cres	-37.73937612532279,176.09182983393052
-;linzid=3086524	Pukeroro Pl	-37.882905736997344,175.44673284323184
-;linzid=3086496	Homestead Lane	-37.64460566297345,175.51498211388773
-;linzid=3086497	Settlers Lane	-37.64460566297345,175.51498211388773
-;linzid=3086527	Takarangi Way	-37.845659582730875,176.2752716688665
-;linzid=3086565	Hapoko Cres	-37.73982462616203,176.0924932838934
-;linzid=3086526	Dovedale Lane	-37.76438396393069,176.1742274726873
+0 LINZ ids are missing from NZOGPS Waikato
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -21,5 +10,5 @@ Start = 2026-10-25 10:03:25 +1300
 0 Number range ids are missing from NZOGPS Waikato
 #############################
 
-Finish = 2026-10-25 10:03:26 +1300
-Processing time = 1.5585097
+Finish = 2026-10-30 12:46:00 +1300
+Processing time = 1.5813436

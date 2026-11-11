@@ -1,4 +1,4 @@
-Start = 2026-11-01 14:08:58 +1300
+Start = 2026-11-09 11:13:36 +1300
 #############################
 
 0 LINZ ids are missing from NZOGPS Southland
@@ -10,5 +10,5 @@ Start = 2026-11-01 14:08:58 +1300
 0 Number range ids are missing from NZOGPS Southland
 #############################
 
-Finish = 2026-11-01 14:09:00 +1300
-Processing time = 1.4130316
+Finish = 2026-11-09 11:13:37 +1300
+Processing time = 1.4625428

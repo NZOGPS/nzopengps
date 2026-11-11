@@ -1372,9 +1372,12 @@ if (!$cmdopts{p}){
 #	unnumbered_node_check($missfile);
 
 	rbout_level_check(); #populates %bynodid
+	my $stlbl = "StNode";
+	my $rdnmlbl = "Road0 name";
+	my $netclbl = "Net chunk name";
 	my $nodcnt = keys %bynodid;
 	my $maxnod = max(keys %bynodid);
-	my $maxnodw = length($maxnod);
+	my $maxnodw = max(length($maxnod),length($stlbl));
 	my $minnod = min(keys %bynodid);
 	print "$nodcnt nodes total from $minnod to $maxnod\n";
 
@@ -1396,8 +1399,6 @@ read_node_net_names($basefile,$basedir);
 		push (@noddata,[($akey,$nodsdone,$isborder,$netlbl)]);
 	}
 	my $firstrow = 1;
-	my $rdnmlbl = "Road0 name";
-	my $netclbl = "Net chunk name";
 	my %fldlen = (netw => 0, rdname => length($rdnmlbl), chunkname => length($netclbl));
 
 #calculate field widths
@@ -1421,7 +1422,7 @@ read_node_net_names($basefile,$basedir);
 
 		if ($firstrow) {
 			$firstrow = 0;
-			printf("%*s %*s %*s %*s %*s %*s %*s\n",$maxnodw, "StNode", $fldlen{netw}, "NetSz", $maxnodw, "Border",9,"StNdX",9,"StNdY",$fldlen{rdname},$rdnmlbl,$fldlen{chunkname},$netclbl);
+			printf("%*s %*s %*s %*s %*s %*s %*s\n",$maxnodw, $stlbl, $fldlen{netw}, "NetSz", $maxnodw, "Border",9,"StNdX",9,"StNdY",$fldlen{rdname},$rdnmlbl,$fldlen{chunkname},$netclbl);
 		}
 		printf("%*d %*d %*d %.5f %.5f %*s %*s\n",$maxnodw, $row->[0], $fldlen{netw}, $row->[1], $maxnodw, $row->[2],$bynodid{$row->[0]}{x},$bynodid{$row->[0]}{y},$fldlen{rdname},$rdlabel,$fldlen{chunkname}, $row->[3]);
 	}

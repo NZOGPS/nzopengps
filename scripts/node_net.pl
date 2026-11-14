@@ -1077,13 +1077,14 @@ sub lnid_check {
 sub read_node_net_names {
 	my $nnfile;
 	my $nndesc = 'node network name';
-	my $f1 = shift;
-	my $d1 = shift;
 	my $fn;
 	my $idval;
+	my $xval;
+	my $yval;
+	my $maxdiff = 0.0001;
 	my @chunks;
 
-	$fn = File::Spec->join($d1,'LinzDataService','NodeNets',"${f1}_NetNames.txt");
+	$fn = File::Spec->join($basedir,'LinzDataService','NodeNets',"${basefile}_NetNames.txt");
 
 	if ( !open $nnfile, '<', $fn ){
 		print STDERR "$nndesc file $fn not found\n";
@@ -1096,15 +1097,46 @@ sub read_node_net_names {
 
 		next if /^#.*/; #comment line
 		@chunks = split/\t/;
-		$idval = $chunks[0];
+		
+		$idval = shift @chunks;
 		next if not defined $idval; #blank line?
 		if ($idval !~ /^\d+$/){
 			print "Warning - in $nndesc file, line $. - node id is not numeric\n";
+			next;
 		}
 		if (defined ($nodenets{$idval})) {
 			print "Warning - in $nndesc file - Multiple definitions for id $idval on lines $nodenets{$idval}{lnum} and $.\n";
+			next;
 		}
-		shift @chunks;
+		
+		$yval = shift @chunks;
+		if (not defined $yval ){
+			print "Warning - in $nndesc file, line $. - no latitude given for ID $idval\n";
+			next;
+		}
+		if ($yval !~ /^-\d{2}\.\d{4,}$/){
+			print "Warning - in $nndesc file, line $. - strange latitude $yval\n";
+			next;
+		}
+		if (abs($yval-$bynodid{$idval}{x})>$maxdiff) {
+			print "Warning - in $nndesc file - latitude of id $idval on line $. ($yval) is too different to $bynodid{$idval}{x}\n";
+			next;
+		}
+
+		$xval = shift @chunks;
+		if (not defined $xval ){
+			print "Warning - in $nndesc file, line $. - no longitude given for ID $idval\n";
+			next;
+		}
+		if ($xval !~ /^\d{3}\.\d{4,}$/){
+			print "Warning - in $nndesc file, line $. - strange longitude $xval\n";
+			next;
+		}
+		if (abs($xval-$bynodid{$idval}{y})>$maxdiff) {
+			print "Warning - in $nndesc file - longitude of id $idval on line $. ($xval) is too different to $bynodid{$idval}{y}\n";
+			next;
+		}
+		
 		$nodenets{$idval}{lnum}=$.;
 		$nodenets{$idval}{line}=join ("\t",@chunks);
 	}
@@ -1291,8 +1323,65 @@ sub node_tree {
 	return $netlbl;
 }
 
+sub connected_nodes{
+	my $stlbl = "StNode";
+	my $rdnmlbl = "Road0 name";
+	my $netclbl = "Net chunk name";
+	my $nodcnt = keys %bynodid;
+	my $maxnod = max(keys %bynodid);
+	my $maxnodw = max(length($maxnod),length($stlbl));
+	my $minnod = min(keys %bynodid);
+
+	print "$nodcnt nodes total from $minnod to $maxnod\n";
+	read_node_net_names();
+	#print Dumper %nodenets;
+
+	while ( my @keys_without_values = grep { !defined $bynodid{$_}{done} } keys %bynodid ){
+		my $akey = $keys_without_values[0];
+#		print "$akey $bynodid{$akey}{x},$bynodid{$akey}{y} is not linked\n";
+		$nodsdone = 0;
+		$isborder = 0;
+		my $netlbl = node_tree($akey,'');
+#		print "set w netlbl is $netlbl\n";
+#		print "$akey connected to $nodsdone nodes\n";
+		push (@noddata,[($akey,$nodsdone,$isborder,$netlbl)]);
+	}
+	my $firstrow = 1;
+	my %fldlen = (netw => 0, rdname => length($rdnmlbl), chunkname => length($netclbl));
+
+	#calculate field widths
+	for my $row ( @noddata ) {
+		my $label = '';
+		my $rd0 = @{$bynodid{$row->[0]}{rds}}[0];
+		if ( defined %{$rd0}{label}->[0] ){
+			$label = %{$rd0}{label}->[0];
+			if ( length( $label ) > $fldlen{rdname}) { $fldlen{rdname} = length($label)};
+		}
+		push (@{$row},$label);
+		if ( length( $row->[1] ) > $fldlen{netw}) { $fldlen{netw} = length($row->[1]) };
+		if ( length( $row->[3] ) > $fldlen{chunkname}) { $fldlen{chunkname} = length($row->[3]) };
+	}
+
+	# print out all/unmatched nets
+	for my $row ( 
+		sort {
+			$b->[1] <=> $a->[1] ||
+			$b->[2] <=> $a->[2] ||
+			$b->[4] cmp $a->[4]
+		} @noddata )
+	{
+		if ($firstrow) {
+			$firstrow = 0;
+			printf("%*s %*s %*s %*s %*s %*s %*s\n",$maxnodw, $stlbl, $fldlen{netw}, "NetSz", $maxnodw, "Border",9,"StNdX",9,"StNdY",$fldlen{rdname},$rdnmlbl,$fldlen{chunkname},$netclbl);
+		}
+		if (( $row->[3] eq '' ) || $cmdopts{P}){
+			printf("%*d %*d %*d %.5f %.5f %*s %*s\n",$maxnodw, $row->[0], $fldlen{netw}, $row->[1], $maxnodw, $row->[2],$bynodid{$row->[0]}{x},$bynodid{$row->[0]}{y},$fldlen{rdname},$row->[4],$fldlen{chunkname}, $row->[3]);
+		}
+	}
+}
+
 sub usage {
-	die "Usage: $0 -p \\path\\mapfile.mp\n\t-p checks paper number files\n\t-P uses pilot data\n";
+	die "Usage: $0 -p \\path\\mapfile.mp\n\t-p checks paper number files\n\t-P prints all node nets\n";
 }
 
 ##### Main program starts...
@@ -1372,62 +1461,5 @@ if (!$cmdopts{p}){
 #	unnumbered_node_check($missfile);
 
 	rbout_level_check(); #populates %bynodid
-	my $stlbl = "StNode";
-	my $rdnmlbl = "Road0 name";
-	my $netclbl = "Net chunk name";
-	my $nodcnt = keys %bynodid;
-	my $maxnod = max(keys %bynodid);
-	my $maxnodw = max(length($maxnod),length($stlbl));
-	my $minnod = min(keys %bynodid);
-	print "$nodcnt nodes total from $minnod to $maxnod\n";
-
-read_node_net_names($basefile,$basedir);
-#print Dumper %nodenets;
-
-	while ( my @keys_without_values = grep { !defined $bynodid{$_}{done} } keys %bynodid ){
-		my $akey = $keys_without_values[0];
-#		print "$akey $bynodid{$akey}{x},$bynodid{$akey}{y} is not linked\n";
-		$nodsdone = 0;
-		$isborder = 0;
-		my $netlbl = node_tree($akey,'');
-#		print "set w netlbl is $netlbl\n";
-
-#		print "$akey connected to $nodsdone nodes\n";
-#		if ($isborder){
-#			print "border is $isborder\n";
-#		}
-		push (@noddata,[($akey,$nodsdone,$isborder,$netlbl)]);
-	}
-	my $firstrow = 1;
-	my %fldlen = (netw => 0, rdname => length($rdnmlbl), chunkname => length($netclbl));
-
-#calculate field widths
-	for my $row ( @noddata ) {
-		my $rd0 = @{$bynodid{$row->[0]}{rds}}[0];
-		if ( defined %{$rd0}{label}->[0] ){
-			my $label = %{$rd0}{label}->[0];
-			if ( length( $label ) > $fldlen{rdname}) { $fldlen{rdname} = length($label)};
-		}
-		if ( length( $row->[1] ) > $fldlen{netw}) { $fldlen{netw} = length($row->[1]) };
-		if ( length( $row->[3] ) > $fldlen{chunkname}) { $fldlen{chunkname} = length($row->[3]) };
-	}
-
-	for my $row ( sort {$b->[1]<=>$a->[1]} @noddata ) {
-		my $rdlabel = "";
-		
-		my $rd0 = @{$bynodid{$row->[0]}{rds}}[0];
-		if ( defined %{$rd0}{label}->[0] ){
-			$rdlabel = %{$rd0}{label}->[0];
-		}
-
-		if ($firstrow) {
-			$firstrow = 0;
-			printf("%*s %*s %*s %*s %*s %*s %*s\n",$maxnodw, $stlbl, $fldlen{netw}, "NetSz", $maxnodw, "Border",9,"StNdX",9,"StNdY",$fldlen{rdname},$rdnmlbl,$fldlen{chunkname},$netclbl);
-		}
-		printf("%*d %*d %*d %.5f %.5f %*s %*s\n",$maxnodw, $row->[0], $fldlen{netw}, $row->[1], $maxnodw, $row->[2],$bynodid{$row->[0]}{x},$bynodid{$row->[0]}{y},$fldlen{rdname},$rdlabel,$fldlen{chunkname}, $row->[3]);
-	}
-#	print Dumper @restrictions;
+	connected_nodes();
 }
-
-
-# print STDERR "basedir is $basedir\n";

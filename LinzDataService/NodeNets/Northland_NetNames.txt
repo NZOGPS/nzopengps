@@ -1,0 +1,9 @@
+1004777	-35.73206	174.30960	Main
+27882	-36.26786	175.49106	Great Barrier
+1004621	-36.37955	174.56610	Smyth Rd Dome Forest
+1005583	-35.21255	174.22832	Urupukapuka Island
+5463	-35.22067	174.18671	Moturua Island
+5503	-35.23255	174.16795	Motuarohia Island
+5699	-35.53414	173.90141	Tracks in Tokawhero Forest
+5713	-35.54901	173.92675	Tracks in Tokawhero Forest
+3420	-35.55397	173.87201	Tracks in Tokawhero Forest

@@ -859,7 +859,6 @@ sub addnode {
 
 
 sub unnumbered_node_check {
-	my $missf = shift;
 	my @numbers;
 	my @nods; 
 	my $i2;
@@ -909,7 +908,6 @@ sub unnumbered_node_check {
 				if ($isnum){
 					local $, = ',';
 					print "Error: unnumbered node. Road is $roadhp->{label}[0]\t node $used[$i2][0] at \t$roadhp->{x}[$used[$i2][0]],$roadhp->{y}[$used[$i2][0]]\n";
-					print $missf $roadhp->{y}[$used[$i2][0]],$roadhp->{x}[$used[$i2][0]],"Missing Numbering","$roadhp->{label}[0]\n";
 					$uncnt++;
 				}
 			}
@@ -921,7 +919,6 @@ sub unnumbered_node_check {
 
 
 sub rbout_level_check {
-	my $missf = shift;
 	my @nods;
 	my @routeprm;
 	my $rbclass;
@@ -1003,11 +1000,9 @@ sub rbout_level_check {
 			}
 			if ($rbclass < 1){
 				print "roundabout id $roadhp->{roadid} class $rbclass is too low at $nodid[3],$nodid[4]\n";
-				print $missf "$nodid[4],$nodid[3],Low class RBout-$rbclass,Road Id $roadhp->{roadid}\n";
 			} else {
 				if (@hinode){
 					print "road id $hiroad->{roadid} - class $hiclass is higher class than roundabout id $roadhp->{roadid} class $rbclass at $hinode[3],$hinode[4]\n";
-					print $missf "$hinode[4],$hinode[3],Low class RBout-$hiclass,Road Id $roadhp->{roadid}\n";
 				}
 			}
 		}
@@ -1146,8 +1141,6 @@ sub read_node_net_names {
 
 
 sub no_city_index {
-	my $missf = shift;
-
 	print "check for unindexed roads...\n";
 	ROAD: for my $roadhp (@roadsh) {
 		next ROAD if oct($roadhp->{type}) > 12; # 0xc - don't check railways, rivers, etc...
@@ -1162,7 +1155,6 @@ sub no_city_index {
 						if ($linzid == 0 && !$dontfind) {
 							print "Indexed don't find name:\t";
 							dump_id3($roadhp,0,-1);
-							print $missf "$roadhp->{y}[0],$roadhp->{x}[0],\"Indexed Do not find\",\"$roadhp->{label}[0]\"\n";
 						}
 						next ROAD 
 					}
@@ -1170,14 +1162,12 @@ sub no_city_index {
 				next ROAD if ( $linzid == 0 && $dontfind ); # OK to not index if linzid=0 and DontFind=Y
 				print "Unindexed road:\t";
 					dump_id3($roadhp,0,-1);
-					print $missf "$roadhp->{y}[0],$roadhp->{x}[0],\"UnIndexed road\",\"$roadhp->{label}[0]\"\n";
 			} else {
 				for (@namesnot2index) {
 					if ( uc($label) eq uc ) {
 						if ($linzid == 0 && !$dontfind) {
 							print "Indexed don't find name: \t";
 							dump_id3($roadhp,0,-1);
-							print $missf "$roadhp->{y}[0],$roadhp->{x}[0],\"Indexed Do not find\",\"$roadhp->{label}[0]\"\n";
 						}
 					}
 				}
@@ -1223,7 +1213,6 @@ sub numbered_id0 {
 }
 
 sub levels_check{
-	my $missf = shift;
 
 	my %roads_for_level_3 = (
 		0x01 => 1, #major highway
@@ -1250,20 +1239,17 @@ sub levels_check{
 			my $errmsg = "Road has type = 0";
 			print $errmsg,":\t";
 			dump_id3($roadhp,0,-1);
-			print $missf "$roadhp->{y}[0],$roadhp->{x}[0],$errmsg,$rdn\n";
 
 		}
 		if ($level < 1) {
 			my $errmsg =  "Road on level 0 only";
 			print $errmsg,":\t";
 			dump_id3($roadhp,0,-1);
-			print $missf "$roadhp->{y}[0],$roadhp->{x}[0],$errmsg,$rdn\n";
 		} else {
 			if ( $roads_for_level_3{$type} && $level < 3 ){
 				my $errmsg = "Road on level$level only";
 				print $errmsg,":\t";
 				dump_id3($roadhp,0,-1);
-				print $missf "$roadhp->{y}[0],$roadhp->{x}[0],$errmsg,$rdn\n";
 			}
 		}
 	}
@@ -1277,12 +1263,10 @@ sub levels_check{
 		if ($level < 1) {
 			print "Polygon on level 0 only:\t";
 			dump_poly2($polyhp,0,-1);
-			print $missf "$polyhp->{x}[0],$polyhp->{y}[0],$ptypename on level0 only,$pname\n";
 		} else {
 			if ( $polys_for_level_3{$ptype} && $level < 3 ){
 				print "Polygon on level$level only:\t";
 				dump_poly2($polyhp,0,-1);
-				print $missf "$polyhp->{x}[0],$polyhp->{y}[0],Large $ptypename on level$level only,$pname\n";
 			}
 		}
 	}	
@@ -1321,6 +1305,64 @@ sub node_tree {
 		}
 	}
 	return $netlbl;
+}
+
+sub traverseroute {
+	my $vp = shift;
+	my $np = shift;
+	my $rp = shift;
+	my $nod = shift;
+	my $fnod = shift;
+	my @reta;
+	my $rdcnt = 0;
+
+	$vp->{$nod}=1;
+	for my $connroad (@{$bynodid{$nod}{rds}}) {
+		$rdcnt++;
+#		print Dumper $connroad;
+		print "road $rdcnt : $$connroad{roadid} $$connroad{label}[0]\n";
+		my @nods = $$connroad{nodarray};
+		push @$rp,$connroad;
+#		print Dumper @nods;
+		for my $rdnode (@nods){
+			for my $rdnode2 (@{$rdnode}){
+#				print "node $$rdnode2[1]\n";
+				if ($$rdnode2[1]==$fnod){
+					push @$rp, $$rdnode2[1];
+					return ($vp,$np,$rp);
+				}
+				if (!defined $vp->{$$rdnode2[1]}){
+					push @$rp, $$rdnode2[1];
+#					print "traverse $$rdnode2[1]\n";
+					@reta = traverseroute($vp,$np,$rp,$$rdnode2[1],$fnod);
+					if (@reta) {
+						return @reta;
+					}
+				}
+			}
+		}
+	}
+}
+
+sub findroute{
+	my $node1 = shift;
+	my $node2 = shift;
+	my %visited;
+	my @nodes;
+	my @roads;
+
+	if (!defined $bynodid{$node1}){
+		print "node $node1 not found\n";
+		return;
+	}
+
+	if (!defined $bynodid{$node2}){
+		print "node $node2 not found\n";
+		return;
+	}
+	(my $vp,my $np,my$rp)=traverseroute({},[],[],$node1,$node2);
+	if ($np){ print "np: ",Dumper $np;}
+	if ($rp){ print "rp: ",Dumper $rp;}
 }
 
 sub connected_nodes{
@@ -1439,13 +1481,7 @@ id_check();
 routing_check();
 sort_by_id();
 
-#dump_by_roadid(); # does all
-#dump_by_roadid("aihop");
-#dump_by_roadid(1775424);
-#dump_by_roadid(15441); #parkinson - canterbury
-
 nolinzidset();
-#levels_check($missfile);
 $byid = \%bylinzid;
 
 if ($cmdopts{d}){
@@ -1455,11 +1491,7 @@ if ($cmdopts{d}){
 if (!$cmdopts{p}){
 	numbered_id0();
 
-#	road_overlap();
-#	overlap_check($missfile);
-
-#	unnumbered_node_check($missfile);
-
 	rbout_level_check(); #populates %bynodid
 	connected_nodes();
+	findroute(167666,166742);
 }

@@ -308,7 +308,7 @@ City117=Foxhill
 RegionIdx117=13
 City118=Pigeon Valley, Wakefield
 RegionIdx118=13
-City119=Kaiteriteri
+City119=Kaiteretere
 RegionIdx119=13
 City120=Abel Tasman National Park
 RegionIdx120=13
@@ -197715,4 +197715,6 @@ Nod2=9,168141,0
 Numbers1=0,O,1,31,E,2,20
 [END]
 
+;@BMT,custom_poi,"poi-Tasman_missing","poi",{},"Tasman_missing",0,0,
+;@BM,custom_poi,poi-Tasman_missing,0,0.000000,171.210800,-42.453369,,0,0,0,"",0,0,0,comment="1790658",label="46 Puketahi Street",
 ;@FILE,"C:\Users\Gary\nzopengps\Numbers\Tasman-numbers.gdb",1,".\Numbers\Tasman-numbers.gdb"

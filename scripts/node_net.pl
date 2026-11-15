@@ -55,7 +55,7 @@ my %debug = (
 	unnumbered		=> 0,
 	addnode			=> 0,
 	numberedid0		=> 0,
-	rblvlchk		=> 0,
+	rblvlchk		=> 2,
 	numpresent		=> 0,
 	paper_rd_check	=> 0,
 );
@@ -962,7 +962,7 @@ sub rbout_level_check {
 	}
 
 	if($debug{'rblvlchk'}>1){
-		my $node = 1926;
+		my $node = 167667;
 		print "Roads connected to node ",$node,":\n";
 		print "at ",$bynodid{$node}{y},",",$bynodid{$node}{x},"\n";
 #		print Dumper $bynodid{1926};
@@ -1290,7 +1290,7 @@ sub node_tree {
 		}
 	};
 	for my $connroad (@{$bynodid{$node0}{rds}}) {
-#		print Dumper $connroad;
+#		print "connroad is: ", Dumper $connroad;
 #		print "road: $$connroad{roadid} $$connroad{label}[0]\n";
 		my @nods = $$connroad{nodarray};
 #		print Dumper @nods;
@@ -1325,22 +1325,29 @@ sub traverseroute {
 		push @$rp,$connroad;
 #		print Dumper @nods;
 		for my $rdnode (@nods){
+#	need to find index of this node, iterate higher nodes
+#	only iterate lower nodes if not one way
+#	return/fail if last node
 			for my $rdnode2 (@{$rdnode}){
-#				print "node $$rdnode2[1]\n";
+				print "node $$rdnode2[1]\n";
 				if ($$rdnode2[1]==$fnod){
-					push @$rp, $$rdnode2[1];
+					push @$np, $$rdnode2[1];
 					return ($vp,$np,$rp);
 				}
 				if (!defined $vp->{$$rdnode2[1]}){
-					push @$rp, $$rdnode2[1];
-#					print "traverse $$rdnode2[1]\n";
+					push @$np, $$rdnode2[1];
+					print "traverse $$rdnode2[1]\n";
 					@reta = traverseroute($vp,$np,$rp,$$rdnode2[1],$fnod);
-					if (@reta) {
+					if ( defined $reta[1]) {
+#						print "return reta: ",Dumper \@reta;
 						return @reta;
 					}
+					pop @$np;
 				}
 			}
+			# end of rdnodes
 		}
+		pop @$rp;
 	}
 }
 
@@ -1361,9 +1368,16 @@ sub findroute{
 		return;
 	}
 	(my $vp,my $np,my$rp)=traverseroute({},[],[],$node1,$node2);
-	if ($np){ print "np: ",Dumper $np;}
-	if ($rp){ print "rp: ",Dumper $rp;}
+	if ($vp){ 
+		print "vp: ",Dumper $vp;
+		print "np: ",Dumper $np;
+		for my $i (0..$#$rp){
+			my $label = $rp->[$i]{label}[0] || '';
+			print "rd $i: $label\n";
+		}
+	}
 }
+
 
 sub connected_nodes{
 	my $stlbl = "StNode";
@@ -1380,6 +1394,7 @@ sub connected_nodes{
 
 	while ( my @keys_without_values = grep { !defined $bynodid{$_}{done} } keys %bynodid ){
 		my $akey = $keys_without_values[0];
+#		$akey = 167666;
 #		print "$akey $bynodid{$akey}{x},$bynodid{$akey}{y} is not linked\n";
 		$nodsdone = 0;
 		$isborder = 0;
@@ -1493,5 +1508,5 @@ if (!$cmdopts{p}){
 
 	rbout_level_check(); #populates %bynodid
 	connected_nodes();
-	findroute(167666,166742);
+	findroute(167666,167669);
 }

@@ -1,7 +1,9 @@
-Start = 2026-11-11 23:38:29 +1300
+Start = 2026-11-15 10:25:10 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Waikato
+2 LINZ ids are missing from NZOGPS Waikato
+;linzid=3086596	Frederick Lane	-37.80483795137547,175.77158394241928
+;linzid=3086597	Daniell Lane	-37.80483795137547,175.77158394241928
 #############################
 
 0 LINZ ids are in NZOGPS Waikato but missing from LINZ
@@ -10,5 +12,5 @@ Start = 2026-11-11 23:38:29 +1300
 0 Number range ids are missing from NZOGPS Waikato
 #############################
 
-Finish = 2026-11-11 23:38:30 +1300
-Processing time = 1.4534852
+Finish = 2026-11-15 10:25:12 +1300
+Processing time = 1.6393913

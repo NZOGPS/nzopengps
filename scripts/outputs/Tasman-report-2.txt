@@ -1,7 +1,8 @@
-Start = 2026-11-16 00:20:35 +1300
+Start = 2026-11-16 11:56:51 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Tasman
+1 LINZ ids are missing from NZOGPS Tasman
+;linzid=1788935	Town Belt S	-42.47093645,171.1919047
 #############################
 
 0 LINZ ids are in NZOGPS Tasman but missing from LINZ
@@ -10,5 +11,5 @@ Start = 2026-11-16 00:20:35 +1300
 0 Number range ids are missing from NZOGPS Tasman
 #############################
 
-Finish = 2026-11-16 00:20:36 +1300
-Processing time = 0.7429544
+Finish = 2026-11-16 11:56:52 +1300
+Processing time = 0.7340618

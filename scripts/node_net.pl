@@ -55,7 +55,7 @@ my %debug = (
 	unnumbered		=> 0,
 	addnode			=> 0,
 	numberedid0		=> 0,
-	rblvlchk		=> 2,
+	rblvlchk		=> 0,
 	numpresent		=> 0,
 	paper_rd_check	=> 0,
 );
@@ -1315,20 +1315,46 @@ sub traverseroute {
 	my $fnod = shift;
 	my @reta;
 	my $rdcnt = 0;
+	my $nodidx;
+	my @nodes2go;
 
 	$vp->{$nod}=1;
 	for my $connroad (@{$bynodid{$nod}{rds}}) {
+		my $rdlbl = $$connroad{label}[0] || '';
+		print "rdlbl: $rdlbl\n";
+		print "routeprm: ", Dumper $connroad->{routeparam};
+		my @routeprm = split /,/,$connroad->{routeparam};
+		my $dirr = $routeprm[2];
+
 		$rdcnt++;
 #		print Dumper $connroad;
-		print "road $rdcnt : $$connroad{roadid} $$connroad{label}[0]\n";
-		my @nods = $$connroad{nodarray};
+		print "road $rdcnt : $connroad->{roadid} $rdlbl\n";
+		my @nods = $connroad->{nodarray};
 		push @$rp,$connroad;
 #		print Dumper @nods;
 		for my $rdnode (@nods){
 #	need to find index of this node, iterate higher nodes
 #	only iterate lower nodes if not one way
 #	return/fail if last node
-			for my $rdnode2 (@{$rdnode}){
+			for my $i (0..$#$rdnode){
+				my $rdnode2 = $rdnode->[$i];
+				print "checking 0-$#$rdnode - node is $rdnode2\n";
+				if ( $rdnode2 == $nod ){
+					print "nodidx is $nod\n";
+					$nodidx = $i;
+					last;
+				}
+			}
+			if ( $nodidx != $#$rdnode ){ 
+				@nodes2go = ( $nodidx..$#$rdnode);
+			}
+			if ( $nodidx > 0 && !$dirr ){
+				push @nodes2go, (0..$1-1);
+			} else {
+				print "No back travel. rdid=$$rdnode{roadid} node $nod nodidx=$nodidx rdnodecnt=$#$rdnode dirr=$dirr\n";
+			}
+			for my $i (@nodes2go){
+				my $rdnode2 = $rdnode->[$i];
 				print "node $$rdnode2[1]\n";
 				if ($$rdnode2[1]==$fnod){
 					push @$np, $$rdnode2[1];

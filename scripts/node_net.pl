@@ -1,6 +1,6 @@
 use strict;
 use warnings;
-# no warnings 'recursion';
+no warnings 'recursion';
 use feature qw "switch say";
 use Carp qw(shortmess);
 use List::Util qw(max min);
@@ -18,7 +18,6 @@ my $basesuff;
 my $nzogps = "nzopengps";
 my $maxlbl = 3;
 my $comment;
-#my @roads;
 my @roadsh;
 my @polygons;
 my @namesnot2index;
@@ -26,6 +25,7 @@ my %bylinzid;
 my %bylinznumbid;
 my $byid;
 my %nodenets;
+my %corenodes;
 my %papernumbers;
 my %papernumberends;
 my %bynodid;
@@ -57,6 +57,7 @@ my %debug = (
 	numberedid0		=> 0,
 	rblvlchk		=> 0,
 	numpresent		=> 0,
+	traverseroute	=> 0,
 	paper_rd_check	=> 0,
 );
 
@@ -1068,18 +1069,20 @@ sub lnid_check {
 	}
 }
 
-
-sub read_node_net_names {
+sub read_file {
+	my $nndesc = shift;
+	my $postfix = shift;
+	my $variable = shift;
 	my $nnfile;
-	my $nndesc = 'node network name';
 	my $fn;
 	my $idval;
+	my $latlon;
 	my $xval;
 	my $yval;
 	my $maxdiff = 0.0001;
 	my @chunks;
 
-	$fn = File::Spec->join($basedir,'LinzDataService','NodeNets',"${basefile}_NetNames.txt");
+	$fn = File::Spec->join($basedir,'LinzDataService','NodeNets',"${basefile}_${postfix}.txt");
 
 	if ( !open $nnfile, '<', $fn ){
 		print STDERR "$nndesc file $fn not found\n";
@@ -1099,12 +1102,14 @@ sub read_node_net_names {
 			print "Warning - in $nndesc file, line $. - node id is not numeric\n";
 			next;
 		}
-		if (defined ($nodenets{$idval})) {
-			print "Warning - in $nndesc file - Multiple definitions for id $idval on lines $nodenets{$idval}{lnum} and $.\n";
+		if (defined ($variable->{$idval})) {
+			print "Warning - in $nndesc file - Multiple definitions for id $idval on lines $variable->{$idval}{lnum} and $.\n";
 			next;
 		}
+		$latlon = shift @chunks
 		
-		$yval = shift @chunks;
+		;
+		($yval,$xval) = split/ /,$latlon;
 		if (not defined $yval ){
 			print "Warning - in $nndesc file, line $. - no latitude given for ID $idval\n";
 			next;
@@ -1118,7 +1123,6 @@ sub read_node_net_names {
 			next;
 		}
 
-		$xval = shift @chunks;
 		if (not defined $xval ){
 			print "Warning - in $nndesc file, line $. - no longitude given for ID $idval\n";
 			next;
@@ -1131,14 +1135,21 @@ sub read_node_net_names {
 			print "Warning - in $nndesc file - longitude of id $idval on line $. ($xval) is too different to $bynodid{$idval}{y}\n";
 			next;
 		}
-		
-		$nodenets{$idval}{lnum}=$.;
-		$nodenets{$idval}{line}=join ("\t",@chunks);
+
+		$variable->{$idval}{lnum}=$.;
+		$variable->{$idval}{line}=join ("\t",@chunks);
 	}
 	close $nnfile;
 	if ($debug{'read_paper_roads'}) {print Dumper %nodenets}
 }
 
+sub read_node_net_names {
+	read_file('node network name','NetNames',\%nodenets);
+}
+
+sub read_core_nodes {
+	read_file('core nodes','CoreNodes',\%corenodes);
+}
 
 sub no_city_index {
 	print "check for unindexed roads...\n";
@@ -1275,9 +1286,11 @@ sub levels_check{
 sub node_tree {
 	my $node0 = shift;
 	my $netlbl = shift;
+	my $nodlstp = shift;
 
 #	print "start at node $node0\n";
 	$bynodid{$node0}{done}=1;
+	push @$nodlstp, $node0;
 	$nodsdone++;
 	if ($bynodid{$node0}{bdr}){
 		$isborder = $node0;
@@ -1299,7 +1312,7 @@ sub node_tree {
 #				print "node $$rdnode2[1]\n";
 				if (!defined $bynodid{$$rdnode2[1]}{done}){
 #					print "traverse $$rdnode2[1]\n";
-					$netlbl = node_tree($$rdnode2[1],$netlbl);
+					$netlbl = node_tree($$rdnode2[1],$netlbl,$nodlstp);
 				}
 			}
 		}
@@ -1312,57 +1325,71 @@ sub traverseroute {
 	my $np = shift;
 	my $rp = shift;
 	my $nod = shift;
-	my $fnod = shift;
+	my $fnod = shift; #if fnod is negative, find any connection to core
 	my @reta;
 	my $rdcnt = 0;
 	my $nodidx;
-	my @nodes2go;
+	my $dirr;
 
 	$vp->{$nod}=1;
 	for my $connroad (@{$bynodid{$nod}{rds}}) {
 		my $rdlbl = $$connroad{label}[0] || '';
-		print "rdlbl: $rdlbl\n";
-		print "routeprm: ", Dumper $connroad->{routeparam};
-		my @routeprm = split /,/,$connroad->{routeparam};
-		my $dirr = $routeprm[2];
+		if ($debug{'traverseroute'}) { print "rdlbl: $rdlbl\n"; }
+		if ($debug{'traverseroute'}) { print "routeprm: ", Dumper $connroad->{routeparam}; }
+		if ($connroad->{routeparam}){
+			my @routeprm = split /,/,$connroad->{routeparam};
+			$dirr = $routeprm[2];
+		} else {
+			$dirr=0;
+		}
 
 		$rdcnt++;
 #		print Dumper $connroad;
-		print "road $rdcnt : $connroad->{roadid} $rdlbl\n";
+		if ($debug{'traverseroute'}) { print "road $rdcnt : $connroad->{roadid} $rdlbl\n" }
 		my @nods = $connroad->{nodarray};
 		push @$rp,$connroad;
 #		print Dumper @nods;
 		for my $rdnode (@nods){
-#	need to find index of this node, iterate higher nodes
-#	only iterate lower nodes if not one way
-#	return/fail if last node
+			my @nodes2go;
 			for my $i (0..$#$rdnode){
 				my $rdnode2 = $rdnode->[$i];
-				print "checking 0-$#$rdnode - node is $rdnode2\n";
-				if ( $rdnode2 == $nod ){
-					print "nodidx is $nod\n";
+				if ($debug{'traverseroute'}) { print "checking 0-$#$rdnode - node is $rdnode2->[1]\n"; }
+				if ( $rdnode2->[1] == $nod ){
+					if ($debug{'traverseroute'}) { print "nodidx is $i\n"; }
 					$nodidx = $i;
 					last;
 				}
 			}
 			if ( $nodidx != $#$rdnode ){ 
+				if ($debug{'traverseroute'}) { print "add $nodidx..$#$rdnode to nodes2go\n";}
 				@nodes2go = ( $nodidx..$#$rdnode);
 			}
 			if ( $nodidx > 0 && !$dirr ){
-				push @nodes2go, (0..$1-1);
+				my $max = $nodidx-1;
+				if ($debug{'traverseroute'}) { print "rev! add 0..$max to nodes2go\n";}
+				push @nodes2go, (0..$max);
 			} else {
-				print "No back travel. rdid=$$rdnode{roadid} node $nod nodidx=$nodidx rdnodecnt=$#$rdnode dirr=$dirr\n";
+				if ($debug{'traverseroute'}) { print "No back travel. rdid=$$connroad{roadid} node $nod nodidx=$nodidx rdnodecnt=$#$rdnode dirr=$dirr\n";}
 			}
+			if ($debug{'traverseroute'}) { print "nodes2go is @nodes2go\n";}
 			for my $i (@nodes2go){
+				if ($debug{'traverseroute'}) { print "n2g: i is $i.\n";}
 				my $rdnode2 = $rdnode->[$i];
-				print "node $$rdnode2[1]\n";
-				if ($$rdnode2[1]==$fnod){
-					push @$np, $$rdnode2[1];
-					return ($vp,$np,$rp);
+				if ($fnod > 0 ){
+					if ($rdnode2->[1]==$fnod){
+						push @$np, $$rdnode2[1];
+						return ($vp,$np,$rp);
+					}
+				} else {
+					if (defined $corenodes{$rdnode2->[1]}){
+						print "found corenode $rdnode2->[1]\n";
+						push @$np, $$rdnode2[1];
+						return ($vp,$np,$rp);
+					}
 				}
-				if (!defined $vp->{$$rdnode2[1]}){
-					push @$np, $$rdnode2[1];
-					print "traverse $$rdnode2[1]\n";
+				if (!defined $vp->{$rdnode2->[1]}){
+					push @$np, $rdnode2->[1];
+					if ($debug{'traverseroute'}) { print "traverse $$rdnode2[1]\n";}
 					@reta = traverseroute($vp,$np,$rp,$$rdnode2[1],$fnod);
 					if ( defined $reta[1]) {
 #						print "return reta: ",Dumper \@reta;
@@ -1376,6 +1403,45 @@ sub traverseroute {
 		pop @$rp;
 	}
 }
+
+sub findcoreroute{
+	my $node1 = shift;
+	my %visited;
+	my @nodes;
+	my @roads;
+	my $cnode;
+
+	if (!defined $bynodid{$node1}){
+		print "node $node1 not found\n";
+		return;
+	}
+
+	if (! %corenodes ){
+		print "no core nodes\n";
+		return;
+	}
+
+	(my $vp,my $np,my$rp)=traverseroute({},[],[],$node1,-1);
+	if ($vp){ 
+		#print "vp: ",Dumper $vp;
+		$cnode = $np->[-1];
+		print "Route found between $node1 and $cnode:\nnp: ";
+		for my $nd (@$np){
+			print "$nd ";
+			$cnode = $nd;
+		}
+		print "\n";
+
+#		for my $i (0..$#$rp){
+#			my $label = $rp->[$i]{label}[0] || '';
+#			print "rd $i: $label\n";
+#		}
+	} else {
+		print "Route not found between $node1 and core nodes\n";
+	};
+	return $cnode;
+}
+
 
 sub findroute{
 	my $node1 = shift;
@@ -1395,13 +1461,48 @@ sub findroute{
 	}
 	(my $vp,my $np,my$rp)=traverseroute({},[],[],$node1,$node2);
 	if ($vp){ 
-		print "vp: ",Dumper $vp;
-		print "np: ",Dumper $np;
-		for my $i (0..$#$rp){
-			my $label = $rp->[$i]{label}[0] || '';
-			print "rd $i: $label\n";
+		#print "vp: ",Dumper $vp;
+		print "Route between $node1 and $node2:\nnp: ";
+		for my $nd (@$np){
+			print "$nd ";
+		}
+		print "\n";
+
+#		for my $i (0..$#$rp){
+#			my $label = $rp->[$i]{label}[0] || '';
+#			print "rd $i: $label\n";
+#		}
+	} else {
+		print "Route not found between $node1 and $node2\n";
+	};
+}
+
+sub findallroutes {
+	my $maxrp = $noddata[0];
+#	my $routept = 30674;
+	my $cnt;
+	my $timest;
+	my $corenode;
+	
+	for my $row ( @noddata ) {
+		if ($row->[1]>$maxrp->[1]){
+			$maxrp = $row;
 		}
 	}
+	
+	print "max net: $maxrp->[1]\n";
+	$timest = localtime();
+	print "Start: $timest\n";
+	for my $nod(@{$maxrp->[4]}){
+		$cnt++;
+		print STDERR "$cnt find route between $nod and core nodes\n";
+		$corenode = findcoreroute($nod);
+		if ( $corenode ) {
+			findroute($corenode,$nod);
+	}
+	}
+	$timest = localtime();
+	print "End: $timest\n";
 }
 
 
@@ -1415,19 +1516,19 @@ sub connected_nodes{
 	my $minnod = min(keys %bynodid);
 
 	print "$nodcnt nodes total from $minnod to $maxnod\n";
-	read_node_net_names();
 	#print Dumper %nodenets;
 
 	while ( my @keys_without_values = grep { !defined $bynodid{$_}{done} } keys %bynodid ){
+		my @nodlist;
 		my $akey = $keys_without_values[0];
 #		$akey = 167666;
 #		print "$akey $bynodid{$akey}{x},$bynodid{$akey}{y} is not linked\n";
 		$nodsdone = 0;
 		$isborder = 0;
-		my $netlbl = node_tree($akey,'');
+		my $netlbl = node_tree($akey,'',\@nodlist);
 #		print "set w netlbl is $netlbl\n";
 #		print "$akey connected to $nodsdone nodes\n";
-		push (@noddata,[($akey,$nodsdone,$isborder,$netlbl)]);
+		push (@noddata,[($akey,$nodsdone,$isborder,$netlbl,\@nodlist)]);
 	}
 	my $firstrow = 1;
 	my %fldlen = (netw => 0, rdname => length($rdnmlbl), chunkname => length($netclbl));
@@ -1458,7 +1559,7 @@ sub connected_nodes{
 			printf("%*s %*s %*s %*s %*s %*s %*s\n",$maxnodw, $stlbl, $fldlen{netw}, "NetSz", $maxnodw, "Border",9,"StNdX",9,"StNdY",$fldlen{rdname},$rdnmlbl,$fldlen{chunkname},$netclbl);
 		}
 		if (( $row->[3] eq '' ) || $cmdopts{P}){
-			printf("%*d %*d %*d %.5f %.5f %*s %*s\n",$maxnodw, $row->[0], $fldlen{netw}, $row->[1], $maxnodw, $row->[2],$bynodid{$row->[0]}{x},$bynodid{$row->[0]}{y},$fldlen{rdname},$row->[4],$fldlen{chunkname}, $row->[3]);
+			printf("%*d %*d %*d %.5f %.5f %*s %*s\n",$maxnodw, $row->[0], $fldlen{netw}, $row->[1], $maxnodw, $row->[2],$bynodid{$row->[0]}{x},$bynodid{$row->[0]}{y},$fldlen{rdname},$row->[5],$fldlen{chunkname}, $row->[3]);
 		}
 	}
 }
@@ -1469,7 +1570,7 @@ sub usage {
 
 ##### Main program starts...
 
-getopts("lsxpPd", \%cmdopts);
+getopts("lsxpPdF", \%cmdopts);
 if (!($cmdopts{s} or $cmdopts{l})){
 	$cmdopts{l}=1;
 }
@@ -1533,6 +1634,24 @@ if (!$cmdopts{p}){
 	numbered_id0();
 
 	rbout_level_check(); #populates %bynodid
+	read_node_net_names();
 	connected_nodes();
-	findroute(167666,167669);
+
+	read_core_nodes();
+	if ($cmdopts{F}){
+		findallroutes();
+	}
+
+#	print "Core nodes: ",Dumper %corenodes;
+
+
+
+	# todo:
+	add routing restrictions
+
+
+
+	#findroute(167666,167669);
+	#findroute(167669,167666);
+
 }

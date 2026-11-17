@@ -444101,7 +444101,7 @@ EndLevel=1
 CityIdx=107
 RoadID=40192
 RouteParam=1,0,0,0,0,0,0,0,0,0,0,0
-Data0=(-43.62774,171.64966),(-43.62758,171.64969),(-43.62723,171.64972)
+Data0=(-43.62774,171.64966),(-43.62757,171.64970),(-43.62722,171.64976)
 Nod1=0,30749,0
 Nod2=2,30750,0
 Numbers1=0,N,-1,-1,N,-1,-1
@@ -455307,9 +455307,9 @@ DirIndicator=1
 CityIdx=107
 RoadID=41441
 RouteParam=2,0,1,0,0,0,0,0,0,0,0,0
-Data0=(-43.62774,171.64966),(-43.62782,171.64990),(-43.62788,171.64987),(-43.62781,171.64959),(-43.62775,171.64953)
+Data0=(-43.62774,171.64966),(-43.62782,171.64990),(-43.62788,171.64987),(-43.62781,171.64959),(-43.62774,171.64954)
 Nod1=0,30749,0
-Nod2=4,25105,0
+Nod2=4,173716,0
 Numbers1=0,O,7,7,N,-1,-1
 Numbers2=1,N,-1,-1,N,-1,-1
 [END]
@@ -462254,5 +462254,4 @@ Numbers2=1,N,-1,-1,O,13,11
 Numbers3=2,N,-1,-1,O,11,5
 [END]
 
-;@FILE,"C:\Users\Gary\nzopengps\Numbers\Canterbury-numbers.gdb",1,".\Numbers\Canterbury-numbers.gdb"
-;@FILE,"C:\Users\Gary\Downloads\Opihi River Walkway.gdb",1,"..\Downloads\Opihi River Walkway.gdb"
+;@FILE,"C:\Users\gct23\nzopengps\Numbers\Canterbury-numbers.gdb",1,".\Numbers\Canterbury-numbers.gdb"

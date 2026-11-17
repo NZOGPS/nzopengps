@@ -34,6 +34,7 @@ my $isborder;
 my %nodsleft;
 my @noddata;
 my @restrictions;
+my %restrictbynod;
 
 my %csvroadname;
 my %csv_x;
@@ -1320,12 +1321,23 @@ sub node_tree {
 	return $netlbl;
 }
 
+sub restrictionsbynode {
+	my @thisrest;
+	
+	for my $arestrict ( @restrictions ){
+		push @{$restrictbynod{$arestrict->{nod}}},$arestrict;
+	}
+	print "bynode 164166: ",Dumper %restrictbynod{164166};
+}
+
 sub traverseroute {
 	my $vp = shift;
 	my $np = shift;
 	my $rp = shift;
 	my $nod = shift;
 	my $fnod = shift; #if fnod is negative, find any connection to core
+	my $prevnod = shift; # need previous for restrictions
+	my $prevrd = shift;
 	my @reta;
 	my $rdcnt = 0;
 	my $nodidx;
@@ -1371,6 +1383,25 @@ sub traverseroute {
 			} else {
 				if ($debug{'traverseroute'}) { print "No back travel. rdid=$$connroad{roadid} node $nod nodidx=$nodidx rdnodecnt=$#$rdnode dirr=$dirr\n";}
 			}
+			if ($restrictbynod{$nod}){
+				for my $restrictp (@{$restrictbynod{$nod}}){
+					print "rptr0: $restrictp->{trafrds}[0] prev: $prevrd rptr1:  $restrictp->{trafrds}[1] crd: $connroad->{roadid}\n";
+					if (( $restrictp->{trafrds}[0] == $prevrd ) &&
+						( $restrictp->{trafrds}[1] == $connroad->{roadid} ) &&
+						( $restrictp->{trafpts}[0] == $prevnod )) {
+							print "deleting $restrictp->{trafpts}[2] from @nodes2go at node $nod\n";
+							for my $n (@nodes2go){
+								print "n: $n nd: $rdnode->[$n][1]";
+							}
+							print "\n";
+							@nodes2go = grep {$rdnode->[$_][1] ne $restrictp->{trafpts}[2] } @nodes2go;
+							for my $n (@nodes2go){
+								print "n: $n nd: $rdnode->[$n][1]";
+							}
+							print "\n";
+						}
+				}
+			}
 			if ($debug{'traverseroute'}) { print "nodes2go is @nodes2go\n";}
 			for my $i (@nodes2go){
 				if ($debug{'traverseroute'}) { print "n2g: i is $i.\n";}
@@ -1390,7 +1421,7 @@ sub traverseroute {
 				if (!defined $vp->{$rdnode2->[1]}){
 					push @$np, $rdnode2->[1];
 					if ($debug{'traverseroute'}) { print "traverse $$rdnode2[1]\n";}
-					@reta = traverseroute($vp,$np,$rp,$$rdnode2[1],$fnod);
+					@reta = traverseroute($vp,$np,$rp,$$rdnode2[1],$fnod,$nod,$connroad->{roadid});
 					if ( defined $reta[1]) {
 #						print "return reta: ",Dumper \@reta;
 						return @reta;
@@ -1421,7 +1452,7 @@ sub findcoreroute{
 		return;
 	}
 
-	(my $vp,my $np,my$rp)=traverseroute({},[],[],$node1,-1);
+	(my $vp,my $np,my$rp)=traverseroute({},[],[],$node1,-1,0,0);
 	if ($vp){ 
 		#print "vp: ",Dumper $vp;
 		$cnode = $np->[-1];
@@ -1634,6 +1665,7 @@ if (!$cmdopts{p}){
 	numbered_id0();
 
 	rbout_level_check(); #populates %bynodid
+	restrictionsbynode();
 	read_node_net_names();
 	connected_nodes();
 
@@ -1651,7 +1683,7 @@ if (!$cmdopts{p}){
 
 
 
-	#findroute(167666,167669);
+	findroute(162592,167673);
 	#findroute(167669,167666);
 
 }

@@ -1647,7 +1647,7 @@ if (!$cmdopts{p}){
 
 
 	# todo:
-	add routing restrictions
+#	add routing restrictions
 
 
 

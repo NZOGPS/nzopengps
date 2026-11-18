@@ -30,3 +30,5 @@
 1989752	591 North Road, Clevedon	2026/09/15 23:57	-36.944213,175.064987
 3192356	1 Tapu Heights Rise, Tapu, Thames	2026/09/16 00:03	-36.982504,175.506894
 1859370	4 Flower Street, Eden Terrace, Auckland	2026/09/16 00:03	-36.866557,174.760246
+1888808	41B Charntay Avenue, Clover Park, Auckland	2026/11/18 00:03	-36.986584,174.892766
+1888807	41A Charntay Avenue, Clover Park, Auckland	2026/11/18 00:03	-36.986591,174.892849

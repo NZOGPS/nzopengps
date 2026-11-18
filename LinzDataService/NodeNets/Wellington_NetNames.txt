@@ -1,14 +1,14 @@
-1322	Main
-8859	Cutoff chunk in Bulls
-60567	Mana Island
-57201	Somes Island
-59823	Cutoff chunk in Cheltenham
-27492	Manfeild Racetrack
-59057	track between beaches
-59059	track between beaches
-18206	Awahiwi Rd
-22288	Bush Rd
-18152	Ahiweka Rd
-18162	Ngawaka Rd
-18159	Rotohiwi Rd
-59084	No 1 Line Pohangina
+1322	-41.26763 174.78136	Main
+8859	-40.17119 175.39159	Cutoff chunk in Bulls
+60567	-41.09203 174.78321	Mana Island
+57201	-41.25955 174.86607	Somes Island
+28192	-40.17097 175.65232	Cutoff chunk in Cheltenham
+27491	-40.23498 175.55598	Manfeild Racetrack
+59057	-41.39997 175.71759	track between beaches
+59059	-41.40528 175.70984	track between beaches
+18206	-40.17097 176.66618	Awahiwi Rd
+22288	-40.17097 176.65475	Bush Rd
+18152	-40.17097 176.35168	Ahiweka Rd
+18162	-40.17097 176.45103	Ngawaka Rd
+14272	-40.21240 176.38626	Rotohiwi Rd
+59084	-40.18529 175.87025	No 1 Line Pohangina

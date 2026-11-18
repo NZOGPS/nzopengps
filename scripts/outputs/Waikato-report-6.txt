@@ -1,9 +1,6 @@
-Start = 2026-11-15 10:25:20 +1300
+Start = 2026-11-19 11:10:30 +1300
 linzid	street_name	street_name_2	official_street_name
-3019986	Ruatoki Road Vly		Ruatoki Valley Rd	-38.21287,177.00279
-3019986	Ruatoki Road Vly		Ruatoki Valley Rd	-38.19989,177.00069
-3019986	Ruatoki Road Vly		Ruatoki Valley Rd	-38.13734,177.00595
 #############################
 
-Finish = 2026-11-15 10:25:22 +1300
-Processing time = 1.4778072
+Finish = 2026-11-19 11:10:31 +1300
+Processing time = 1.2979882

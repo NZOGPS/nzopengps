@@ -10,6 +10,8 @@ use File::Spec;
 use Cwd;
 use Getopt::Std;
 use Data::Dumper;
+use Time::Piece;
+use Time::HiRes qw(gettimeofday tv_interval time);
 
 my $basefile;
 my $basedir;
@@ -35,6 +37,7 @@ my %nodsleft;
 my @noddata;
 my @restrictions;
 my %restrictbynod;
+my %slownodes;
 
 my %csvroadname;
 my %csv_x;
@@ -1327,7 +1330,7 @@ sub restrictionsbynode {
 	for my $arestrict ( @restrictions ){
 		push @{$restrictbynod{$arestrict->{nod}}},$arestrict;
 	}
-	print "bynode 164166: ",Dumper %restrictbynod{164166};
+#	print "bynode 164166: ",Dumper %restrictbynod{164166};
 }
 
 sub traverseroute {
@@ -1385,21 +1388,26 @@ sub traverseroute {
 			}
 			if ($restrictbynod{$nod}){
 				for my $restrictp (@{$restrictbynod{$nod}}){
-					print "rptr0: $restrictp->{trafrds}[0] prev: $prevrd rptr1:  $restrictp->{trafrds}[1] crd: $connroad->{roadid}\n";
-					if (( $restrictp->{trafrds}[0] == $prevrd ) &&
-						( $restrictp->{trafrds}[1] == $connroad->{roadid} ) &&
-						( $restrictp->{trafpts}[0] == $prevnod )) {
-							print "deleting $restrictp->{trafpts}[2] from @nodes2go at node $nod\n";
-							for my $n (@nodes2go){
-								print "n: $n nd: $rdnode->[$n][1]";
-							}
-							print "\n";
-							@nodes2go = grep {$rdnode->[$_][1] ne $restrictp->{trafpts}[2] } @nodes2go;
-							for my $n (@nodes2go){
-								print "n: $n nd: $rdnode->[$n][1]";
-							}
-							print "\n";
+		#			print "rptr0: $restrictp->{trafrds}[0] prev: $prevrd rptr1:  $restrictp->{trafrds}[1] crd: $connroad->{roadid}\n";
+					if (defined $prevrd){
+						if (( $restrictp->{trafrds}[0] == $prevrd ) &&
+							( $restrictp->{trafrds}[1] == $connroad->{roadid} ) &&
+							( $restrictp->{trafpts}[0] == $prevnod )) {
+			#					print "deleting $restrictp->{trafpts}[2] from @nodes2go at node $nod\n";
+			#					for my $n (@nodes2go){
+			#						print "n: $n nd: $rdnode->[$n][1]";
+			#					}
+			#					print "\n";
+								@nodes2go = grep {$rdnode->[$_][1] ne $restrictp->{trafpts}[2] } @nodes2go;
+			#					for my $n (@nodes2go){
+			#						print "n: $n nd: $rdnode->[$n][1]";
+			#					}
+			#					print "\n";
 						}
+					} else {
+						print STDERR "prevrd not defined - nod $nod rptr0: $restrictp->{trafrds}[0] rptr1:  $restrictp->{trafrds}[1] crd: $connroad->{roadid}\n";
+						print "prevrd not defined - nod $nod rptr0: $restrictp->{trafrds}[0] rptr1:  $restrictp->{trafrds}[1] crd: $connroad->{roadid}\n";
+					}
 				}
 			}
 			if ($debug{'traverseroute'}) { print "nodes2go is @nodes2go\n";}
@@ -1413,7 +1421,7 @@ sub traverseroute {
 					}
 				} else {
 					if (defined $corenodes{$rdnode2->[1]}){
-						print "found corenode $rdnode2->[1]\n";
+		#				print "found corenode $rdnode2->[1]\n";
 						push @$np, $$rdnode2[1];
 						return ($vp,$np,$rp);
 					}
@@ -1457,10 +1465,10 @@ sub findcoreroute{
 		#print "vp: ",Dumper $vp;
 		$cnode = $np->[-1];
 		print "Route found between $node1 and $cnode:\nnp: ";
-		for my $nd (@$np){
-			print "$nd ";
-			$cnode = $nd;
-		}
+		# for my $nd (@$np){
+			# print "$nd ";
+			# $cnode = $nd;
+		# }
 		print "\n";
 
 #		for my $i (0..$#$rp){
@@ -1493,11 +1501,11 @@ sub findroute{
 	(my $vp,my $np,my$rp)=traverseroute({},[],[],$node1,$node2);
 	if ($vp){ 
 		#print "vp: ",Dumper $vp;
-		print "Route between $node1 and $node2:\nnp: ";
-		for my $nd (@$np){
-			print "$nd ";
-		}
-		print "\n";
+		print "Route between $node1 and $node2:\n";
+#		for my $nd (@$np){
+#			print "$nd ";
+#		}
+#		print "\n";
 
 #		for my $i (0..$#$rp){
 #			my $label = $rp->[$i]{label}[0] || '';
@@ -1513,27 +1521,63 @@ sub findallroutes {
 #	my $routept = 30674;
 	my $cnt;
 	my $timest;
+	my $timend;
+	my $elapsed;
+	my $tstr;
 	my $corenode;
-	
+	my $csvf;
+	my $slowthresh = 0.35;
+
 	for my $row ( @noddata ) {
 		if ($row->[1]>$maxrp->[1]){
 			$maxrp = $row;
 		}
 	}
-	
+
+	if ( $cmdopts{s} ){
+		$slowthresh = $cmdopts{s};
+	}
+
 	print "max net: $maxrp->[1]\n";
-	$timest = localtime();
-	print "Start: $timest\n";
+	$timest = localtime;
+	$tstr = $timest->datetime;
+	print "Start time: $tstr\n";
 	for my $nod(@{$maxrp->[4]}){
 		$cnt++;
 		print STDERR "$cnt find route between $nod and core nodes\n";
+		print "$cnt find route between $nod and core nodes\n";
+		my $start_time = [gettimeofday];
 		$corenode = findcoreroute($nod);
 		if ( $corenode ) {
 			findroute($corenode,$nod);
+		}
+		my $elapsed = tv_interval($start_time);
+		printf "$cnt: %.4f sec\n",$elapsed;
+		if ($elapsed > $slowthresh){
+			$slownodes{$nod}={
+				time => $elapsed,
+				x => $bynodid{$nod}{x},
+				y => $bynodid{$nod}{y}
+			}
+		}
 	}
+
+	$timend = localtime;
+	$tstr = $timend->datetime;
+	print "End time: $tstr\n";
+	$elapsed = $timend - $timest;
+	$tstr = gmtime($elapsed)->hms;
+	print "Elapsed time: $tstr\n";
+	my $fn = "${basefile}_SlowNodes.csv";
+
+	if ( !open $csvf, '>', $fn ){
+		print STDERR "csv file $fn not created\n";
+		return;
 	}
-	$timest = localtime();
-	print "End: $timest\n";
+	for my $key (keys %slownodes){
+		print $csvf "$slownodes{$key}->{y},$slownodes{$key}->{x},$key,$slownodes{$key}->{time}\n";
+	}
+	close $csvf;
 }
 
 
@@ -1596,13 +1640,13 @@ sub connected_nodes{
 }
 
 sub usage {
-	die "Usage: $0 -p \\path\\mapfile.mp\n\t-p checks paper number files\n\t-P prints all node nets\n";
+	die "Usage: $0 -p \\path\\mapfile.mp\n\t-p checks paper number files\n\t-P prints all node nets\n\t-s specifies slow threshold\n";
 }
 
 ##### Main program starts...
 
 getopts("lsxpPdF", \%cmdopts);
-if (!($cmdopts{s} or $cmdopts{l})){
+if (!($cmdopts{l})){
 	$cmdopts{l}=1;
 }
 $basedir = File::Spec->curdir();
@@ -1681,9 +1725,16 @@ if (!$cmdopts{p}){
 	# todo:
 #	add routing restrictions
 
-
-
-	findroute(162592,167673);
+	#findroute(162592,167673);
 	#findroute(167669,167666);
 
+	# for my $nod ([]){ #(15997,16098,23337,27273,22414){
+		# my $start_time = [gettimeofday];
+		# my $corenode = findcoreroute($nod);
+		# if ( $corenode ) {
+			# findroute($corenode,$nod);
+		# }
+		# my $elapsed = tv_interval($start_time);
+		# printf "%.4f sec\n",$elapsed;
+	# }
 }

@@ -197731,6 +197731,4 @@ Nod1=0,166714,0
 Nod2=9,166710,0
 [END]
 
-;@BMT,custom_poi,"poi-Tasman_missing","poi",{},"Tasman_missing",0,0,
-;@BM,custom_poi,poi-Tasman_missing,0,0.000000,171.210800,-42.453369,,0,0,0,"",0,0,0,comment="1790658",label="46 Puketahi Street",
 ;@FILE,"C:\Users\Gary\nzopengps\Numbers\Tasman-numbers.gdb",1,".\Numbers\Tasman-numbers.gdb"

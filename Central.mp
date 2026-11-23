@@ -1241,12 +1241,6 @@ TraffRoads=24692,25704
 [END-Restrict]
 
 [Restrict]
-Nod=65308
-TraffPoints=21286,65308,61877
-TraffRoads=24692,25705
-[END-Restrict]
-
-[Restrict]
 Nod=66937
 TraffPoints=66940,66937,13341
 TraffRoads=24934,26977

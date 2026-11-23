@@ -1,7 +1,11 @@
-Start = 2026-11-18 00:23:52 +1300
+Start = 2026-11-22 22:15:43 +1300
 #############################
 
-0 LINZ ids are missing from NZOGPS Central
+4 LINZ ids are missing from NZOGPS Central
+;linzid=3086628	Wahunga St	-39.044377575408504,177.73682473557545
+;linzid=3086630	Mahurangi Cres	-39.52103721406362,176.9138642610629
+;linzid=3086631	Waimate Ave	-39.52103721406362,176.9138642610629
+;linzid=3086627	Manu Rise	-39.406436137434476,176.8553286227624
 #############################
 
 0 LINZ ids are in NZOGPS Central but missing from LINZ
@@ -10,5 +14,5 @@ Start = 2026-11-18 00:23:52 +1300
 0 Number range ids are missing from NZOGPS Central
 #############################
 
-Finish = 2026-11-18 00:23:53 +1300
-Processing time = 1.1950575
+Finish = 2026-11-22 22:15:44 +1300
+Processing time = 1.2209304

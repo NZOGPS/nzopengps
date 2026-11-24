@@ -30,5 +30,9 @@
 6160	-37.75338 175.22836	Burbush
 28849	-37.10523 174.94569	Motorway ramp	1
 29004	-37.10523 174.94577	Motorway ramp	1
-37816	-38.19009 176.29808	MTB Track - needs connecting
-1006864	-38.16951 176.26364 MTB Track - needs connecting
+37816	-38.19009 176.29808	MTB Track - needs connecting	1
+1006864	-38.16951 176.26364 MTB Track - needs connecting	1
+13368	-38.34574 176.00716	Kinleith
+11245	-37.82551 175.77047	Matamata S
+12334	-37.19833 175.86352	Whangamata
+17592	-37.78401 176.31245	Te Puke

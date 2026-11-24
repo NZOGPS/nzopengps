@@ -29,14 +29,13 @@ my %bylinznumbid;
 my $byid;
 my %nodenets;
 my %corenodes;
-my %papernumbers;
-my %papernumberends;
 my %bynodid;
 my $nodsdone;
 my $isborder;
 my %nodsleft;
 my @noddata;
 my @restrictions;
+my %noreturn;
 my %restrictbynod;
 my %slownodes;
 my %nowayback;
@@ -55,7 +54,7 @@ my %debug = (
 	ol1side			=> 0, #1801950,	# 1 or linzid or regex e.g '3063230|1830369'
 	ol1numtype		=> 0, #1801950,	# 1 or linzid or regex e.g '3063230|1830369'
 	rdoverlap		=> 0,
-	readpapernums	=> 0,
+	readfile		=> 0,
 	routecheck		=> 0,
 	lnidcheck		=> 0,	# >0 is basic >1 is dump
 	unnumbered		=> 0,
@@ -64,7 +63,6 @@ my %debug = (
 	rblvlchk		=> 0,
 	numpresent		=> 0,
 	traverse_route	=> 0,
-	paper_rd_check	=> 0,
 );
 
 my %cmdopts=();
@@ -129,7 +127,7 @@ sub parsenums{
 	my @num1;
 	my $i;
 
-	for ($i=0; $i<$#nums;$i+=2) { #even elements only, since odd ones are index			
+	for ($i=0; $i<$#nums;$i+=2) { #even elements only, since odd ones are index
 		@num1 = split /,/,$nums[$i+1];	
 		if ($#num1 != 6){
 			print "Error: odd number of parameters ($#num1) in numbers line: $nums[$i+1]\n";
@@ -768,163 +766,6 @@ sub dump_by_roadid {
 	}
 }
 
-sub road_overlap{
-	my %nodids;
-	my %done;
-	my @n1;
-#	my $n2;
-	my $rdn;
-#	my $i; my $j; my $k; my $l;
-#	my $roadhp;
-	my $x; my $y; my $m; my $n;
-	
-	print "Check roads for multiple interconnect points\n";
-	for my $roadhp (@roadsh) {
-		$rdn = defined $roadhp->{label}[0] ? $roadhp->{label}[0] : "(blank)";
-		if ($debug{'rdoverlap'}){ print "$rdn\n" }
-		@n1 = @{$roadhp->{nodarray}};
-		for my $n2 (@n1){
-			if ($debug{'rdoverlap'}){ print "adding $rdn to node $$n2[1]\n" }
-			push @{$nodids{$$n2[1]}},$roadhp;
-		}
-	}
-
-	while( my( $nodv, $eachrd ) = each( %nodids ) ) {
-		if ($debug{'rdoverlap'}){ print "node $nodv\n" }
-		for my $i(0..$#$eachrd){
-			for my $k (0..$#{$$eachrd[$i]->{nodarray}}){
-				if ( defined $$eachrd[$i]->{nodarray}[$k][1] && $$eachrd[$i]->{nodarray}[$k][1]==$nodv ){
-					$x = $$eachrd[$i]->{nodarray}[$k][3];
-					$y = $$eachrd[$i]->{nodarray}[$k][4];
-					$n = $$eachrd[$i]->{nodarray}[$k][0];
-				}
-			} 
-			if ($debug{'rdoverlap'}){ print sprintf "connects to %s - $#{$$eachrd[$i]->{nodarray}} nodes\n",defined $$eachrd[$i][2][0] ? $$eachrd[$i][2][0] : "(blank)"}
-			for my $j($i+1..$#$eachrd){
-				if ($debug{'rdoverlap'}){ print sprintf "check against %s - $#{$$eachrd[$j]->{nodarray}} nodes\n", defined $$eachrd[$j][2][0] ? $$eachrd[$j][2][0] : "(blank)"}
-				for my $l(0..$#{$$eachrd[$j]->{nodarray}}){
-					if ( defined $$eachrd[$j]->{nodarray}[$l][1] && $$eachrd[$j]->{nodarray}[$l][1]==$nodv ){
-						$m = $$eachrd[$j]->{nodarray}[$l][0];
-					}
-				}
-				for my $k (0..$#{$$eachrd[$i]->{nodarray}}){
-					next if $$eachrd[$i]->{nodarray}[$k][1]==$nodv;
-					if ($debug{'rdoverlap'}){ print "check node $$eachrd[$i]->{nodarray}[$k][0]\n" }
-					for my $l(0..$#{$$eachrd[$j]->{nodarray}}){
-						if ($debug{'rdoverlap'}){ print "compare to node $$eachrd[$j]->{nodarray}[$l][0]\n" }
-						if ( $$eachrd[$i]->{nodarray}[$k][1]==$$eachrd[$j]->{nodarray}[$l][1]){
-							if ( defined $$eachrd[$i]->{nodarray}[$k][1] && defined $$eachrd[$i]->{nodarray}[$k][0] && defined $done{$nodv}){
-							if (($$eachrd[$i]->{nodarray}[$k][1]!=$nodv) && ($done{$nodv}!=$$eachrd[$i]->{nodarray}[$k][1])){
-								if ($debug{'rdoverlap'}){ print "done is:$done{$nodv}\n"}
-								if ((abs($$eachrd[$i]->{nodarray}[$k][0]-$n)==1) && (abs($$eachrd[$j]->{nodarray}[$l][0]-$m)==1)){
-								$done{$$eachrd[$i]->{nodarray}[$k][1]}=$nodv;
-								print "eachrd $$eachrd[$i][2][0] and $$eachrd[$j][2][0] have two common nodes:\n";
-								if ($debug{'rdoverlap'}){ print "m: $m n: $n k0: $$eachrd[$i]->{nodarray}[$k][0] l0: $$eachrd[$j]->{nodarray}[$l][0]\n" }
-								print "$$eachrd[$i]->{nodarray}[$k][1] at $$eachrd[$i]->{nodarray}[$k][3],$$eachrd[$i]->{nodarray}[$k][4] and \n";
-								print "$nodv at $x,$y\n\n";
-							}}}
-						}
-					}
-				}
-			}
-		}
-	}
-}
-
-
-sub addnode {
-	my $uref = shift;
-	my $nnum = shift;
-	my $numi = shift;
-	my $nodi = shift;
-	my $i = 0;
-	
-	if ($debug{'addnode'}){print "\t\taddnode: $nnum, $numi, $nodi\n";}
-	while ($i <= $#{$uref}){
-		last if $$uref[$i][0]>= $nnum;
-		$i++;
-	}	
-	if ($debug{'addnode'}){print "\t\taddnode: i is $i\n";}
-	if (defined($$uref[$i]) and $$uref[$i][0] == $nnum){
-		if ($debug{'addnode'}){print "\t\taddnode: editing existing\n";}
-		if ($numi != -1 and $$uref[$i][1] == -1){ # probably redundant , since I add the numbers first...
-			if ($debug{'addnode'}){print "\t\taddnode: change uref[$i][1] to $numi\n";}
-			$$uref[$i][1] = $numi;
-			return;
-		}
-			if ($nodi != -1 and $$uref[$i][2] == -1){ 
-			if ($debug{'addnode'}){print "\t\taddnode: change uref[$i][2] to $nodi\n";}
-			$$uref[$i][2] = $nodi;
-			return;
-		}
-		print "ERROR in addnode: weird combination/logic? i=$i numi=$numi nodi=$nodi uref[i] = $$uref[$1][0],$$uref[$1][1],$$uref[$1][2]\n";
-	} else {
-		if ($debug{'addnode'}){print "\t\taddnode: splicing at i=$i\n";}	
-		splice(@{$uref},$i,0,[$nnum,$numi,$nodi]);
-	} 
-}
-
-
-sub unnumbered_node_check {
-	my @numbers;
-	my @nods; 
-	my $i2;
-	my $isnum;
-	my $uncnt = 0;
-
-	#	numbering is actually from a numbered node to the next routing node, not next numbered node. 
-	#	so we need to check for nodes which are routing nodes after a numbering node starts numbering.
-	
-	print "Check for routing nodes without numbering in the middle of a numbered segment\n";
-	for my $roadhp (@roadsh) {
-
-		my @used; #scoped in loop to clear each iteration
-		if ($debug{'unnumbered'}){print "in unnumbered_node_check. Road is $roadhp->{label}[0]\n";}
-		@numbers = @{$roadhp->{numarray}};
-		@nods = @{$roadhp->{nodarray}};
-		
-		if ($debug{'unnumbered'}){print "Numbers\n";}
-		for (my $i=0;$i<=$#numbers;$i++){
-			if ($debug{'unnumbered'}){print "\t$i: @{$numbers[$i]}\n";}
-			addnode(\@used,$numbers[$i][0],$i,-1);
-		}
-		if ($debug{'unnumbered'}){print "Nods:\n";}
-		for (my $i=0;$i<=$#nods;$i++){
-			if ($debug{'unnumbered'}){print "\t$i : $nods[$i][0] $nods[$i][1]\n";}
-			addnode(\@used,$nods[$i][0],-1,$i);
-		}
-		if ($debug{'unnumbered'}){
-			print "\tused array:\n";
-			for (@used) {
-				print "\t\t@{$_} $roadhp->{x}[$$_[0]]\,$roadhp->{y}[$$_[0]]\n";
-			}
-		}
-		
-		$i2=0;
-		$isnum=0;
-		while ($i2 < $#used){
-			if ($used[$i2][1]!=-1){
-				if ($numbers[$used[$i2][1]][1] eq "N" and $numbers[$used[$i2][1]][4] eq "N"){
-					if ($debug{'unnumbered'}){print "Node $used[$i2][1] is not numbered :\n";}
-					$isnum = 0;
-				} else {
-					if ($debug{'unnumbered'}){print "Node $used[$i2][1] is numbered :\n";}
-					$isnum = 1;
-				}
-			} else {		#used[i2][1]=-1
-				if ($isnum){
-					local $, = ',';
-					print "Error: unnumbered node. Road is $roadhp->{label}[0]\t node $used[$i2][0] at \t$roadhp->{x}[$used[$i2][0]],$roadhp->{y}[$used[$i2][0]]\n";
-					$uncnt++;
-				}
-			}
-			$i2++;
-		}
-	}
-	print sprintf "%s incorrectly numbered node%s",$uncnt ? $uncnt : "No",$uncnt==1?"\n":"s\n";
-}	
-
-
 sub rbout_level_check {
 	my @nods;
 	my @routeprm;
@@ -1104,7 +945,6 @@ sub read_file {
 		chomp;
 		$allline = $_;
 
-
 		next if /^#.*/; #comment line
 		@chunks = split/\t/;
 
@@ -1119,7 +959,8 @@ sub read_file {
 			next;
 		}
 		if (!defined($bynodid{$idval})) {
-			print "Error - in $nndesc file, line $. - node ID $idval not found in {$basefile}.mp\n";
+			print "Error - in $nndesc file, line $. - node ID $idval not found in $basefile.mp\n";
+			next;
 		}
 
 		$latlon = shift @chunks;
@@ -1183,41 +1024,6 @@ sub read_no_way_back {
 	read_file('no way back nodes','NoWayBack',\%nowayback);
 }
 
-sub no_city_index {
-	print "check for unindexed roads...\n";
-	ROAD: for my $roadhp (@roadsh) {
-		next ROAD if oct($roadhp->{type}) > 12; # 0xc - don't check railways, rivers, etc...
-		my $idx = $roadhp->{cityidx};
-		my $label = $roadhp->{label}[0];
-		my $dontfind = $roadhp->{dontfind};
-		my $linzid = $roadhp->{linzid}[0];
-		if (defined($label)){
-			if (!defined($idx)) {
-				for (@namesnot2index) {
-					if ( uc($label) eq uc ) {
-						if ($linzid == 0 && !$dontfind) {
-							print "Indexed don't find name:\t";
-							dump_id3($roadhp,0,-1);
-						}
-						next ROAD 
-					}
-				} 
-				next ROAD if ( $linzid == 0 && $dontfind ); # OK to not index if linzid=0 and DontFind=Y
-				print "Unindexed road:\t";
-					dump_id3($roadhp,0,-1);
-			} else {
-				for (@namesnot2index) {
-					if ( uc($label) eq uc ) {
-						if ($linzid == 0 && !$dontfind) {
-							print "Indexed don't find name: \t";
-							dump_id3($roadhp,0,-1);
-						}
-					}
-				}
-			}
-		}
-	}
-}
 
 sub numbered_id0 {
 #	my $i;
@@ -1568,6 +1374,23 @@ sub findroute{
 		return 1;
 	} else {
 		print "Route not found between $node1 and $node2\n" if not $options->{silent};
+		if ($options->{back}){
+			if (!$corenodes{$node2}){
+				$noreturn{$node2}={
+					from => $node1,
+					x => $bynodid{$node2}{x},
+					y => $bynodid{$node2}{y}
+				}
+			}
+		} else {
+			if (!$corenodes{$node1}){
+				$noreturn{$node1}={
+					from => $node2,
+					x => $bynodid{$node1}{x},
+					y => $bynodid{$node1}{y}
+				}
+			}
+		}
 		return 0;
 	};
 }
@@ -1649,7 +1472,7 @@ sub findallroutes {
 								print "Error! Route back found from node $corenode to node $nod but should not as $corenode is marked as one way\n";
 							}
 						} else {
-							print "node $nod is not marked as unreturnable\n";
+							print "node $nod is returnable\n";
 							for my $cnode (keys %corenodes){
 								next if $corenodes{$cnode}{oneway};
 								$coretries++;
@@ -1663,14 +1486,14 @@ sub findallroutes {
 						}
 						print "Tried $coretries core nodes to find route to $nod\n";
 					} else {
-						print "corenode $corenode is not oneway. Find route back from $corenode to node $nod \n";
+						print "corenode $corenode is twoway. Find route back from $corenode to node $nod \n";
 						if ( $nowayback{$nod}){
 							print "node $nod is marked as no way back\n";
 							if (findroute($corenode,$nod,{silent=>1,back=>1})){
 								print "Error! Route back found from node $corenode to node $nod but should not as $corenode is marked as one way\n";
 							}
 						} else {
-							print "node $nod is not marked as unreturnable\n";
+							print "node $nod is returnable\n";
 							findroute($corenode,$nod,{back=>1});
 						}
 					}
@@ -1704,6 +1527,18 @@ sub findallroutes {
 		print $csvf "$slownodes{$key}->{y},$slownodes{$key}->{x},$key,$slownodes{$key}->{time}\n";
 	}
 	close $csvf;
+
+	if (%noreturn){
+		$fn = "${basefile}_NoReturn.csv";
+		if ( !open $csvf, '>', $fn ){
+			print STDERR "csv file $fn not created\n";
+			return;
+		}
+		for my $key (keys %noreturn){
+			print $csvf "$noreturn{$key}->{y},$noreturn{$key}->{x},$key,$noreturn{$key}->{from}\n";
+		}
+		close $csvf;
+	}
 }
 
 
@@ -1822,19 +1657,12 @@ while (<>){
 	}
 }
 
-id_check();
+id_check();	# parse comments, set linzid, count autonumber lines, check for errors
 routing_check();
 sort_by_id();
 
 nolinzidset();
 $byid = \%bylinzid;
-
-if ($cmdopts{d}){
-	dump_by_id();
-}
-
-if (!$cmdopts{p}){
-	numbered_id0();
 
 	rbout_level_check(); #populates %bynodid
 	restrictionsbynode();
@@ -1866,4 +1694,3 @@ if (!$cmdopts{p}){
 		# my $elapsed = tv_interval($start_time);
 		# printf "%.4f sec\n",$elapsed;
 	# }
-}
